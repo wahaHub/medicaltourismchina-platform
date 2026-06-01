@@ -1,0 +1,15 @@
+{
+  "name": "medicaltourismchina-migration-content-api",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node server.mjs",
+    "check": "find . -name '*.mjs' -not -path './node_modules/*' -exec node --check {} \\;"
+  },
+  "dependencies": {
+    "@aws-sdk/client-ses": "^3.700.0",
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}

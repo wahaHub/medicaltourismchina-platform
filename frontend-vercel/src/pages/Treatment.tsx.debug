@@ -1,0 +1,11 @@
+// 临时调试：在Treatment.tsx的第88行后添加这个console.log
+
+console.log('API Response:', response);
+console.log('First treatment data:', response.data[0]);
+console.log('Price fields:', {
+  price_cny: response.data[0]?.price_cny,
+  price_usd: response.data[0]?.price_usd,
+  price_eur: response.data[0]?.price_eur,
+  price_locally: response.data[0]?.price_locally,
+  price_range: response.data[0]?.price_range
+});

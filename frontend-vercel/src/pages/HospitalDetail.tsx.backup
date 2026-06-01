@@ -1,0 +1,832 @@
+import { useEffect, useState } from "react";
+import { useParams, useSearchParams } from "react-router-dom";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
+import { Badge } from "@/components/ui/badge";
+import { HoverCard, HoverCardContent, HoverCardTrigger } from "@/components/ui/hover-card";
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { ExternalLink, Hospital, Info, Star, Video, FileText, CheckCircle2, MapPin } from "lucide-react";
+import TopUtilityBar from "@/components/TopUtilityBar";
+
+import MainNavigation from "@/components/MainNavigation";
+import Footer from "@/components/Footer";
+
+// Mock hospital data (same as in Hospitals.tsx)
+const hospitalData = [
+  {
+    id: 1,
+    name: "Shanghai International Medical Center",
+    isJCIAccredited: true,
+    rating: 4.8,
+    waitTime: "1-2 weeks",
+    cost: "$15,000 - $22,000",
+    annualCases: 850,
+    image: "https://images.unsplash.com/photo-1596541223130-5d31a73fb6c6?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    accreditations: ["ISO 9001", "TEMOS"],
+    website: "https://en.wikipedia.org/wiki/Shanghai",
+    departments: [
+      {
+        name: "Cardiology",
+        procedures: [
+          { name: "Heart Bypass", cost: "$18,000 - $24,000", waitTime: "2-3 weeks" },
+          { name: "Angioplasty", cost: "$12,000 - $16,000", waitTime: "1-2 weeks" },
+          { name: "Pacemaker Insertion", cost: "$10,000 - $15,000", waitTime: "1 week" },
+          { name: "Valve Replacement", cost: "$20,000 - $25,000", waitTime: "2-4 weeks" }
+        ]
+      },
+      {
+        name: "Orthopedics",
+        procedures: [
+          { name: "Knee Replacement", cost: "$14,000 - $20,000", waitTime: "2 weeks" },
+          { name: "Hip Replacement", cost: "$15,000 - $22,000", waitTime: "2-3 weeks" },
+          { name: "Shoulder Surgery", cost: "$12,000 - $18,000", waitTime: "1-2 weeks" },
+          { name: "Spine Surgery", cost: "$18,000 - $30,000", waitTime: "3-4 weeks" }
+        ]
+      },
+      {
+        name: "Neurology",
+        procedures: [
+          { name: "Brain Tumor Surgery", cost: "$25,000 - $40,000", waitTime: "2-4 weeks" },
+          { name: "Stroke Treatment", cost: "$10,000 - $18,000", waitTime: "immediate" },
+          { name: "Deep Brain Stimulation", cost: "$30,000 - $50,000", waitTime: "3-6 weeks" },
+          { name: "Epilepsy Surgery", cost: "$20,000 - $35,000", waitTime: "2-5 weeks" }
+        ]
+      }
+    ],
+    introduction: "Shanghai International Medical Center (SIMC) is a world-class healthcare institution providing premium medical services to both domestic and international patients. Established in 2004, it comprises multiple specialized centers and employs more than 100 internationally trained physicians. The hospital specializes in cardiology, oncology, orthopedics, and neurology, with a focus on minimally invasive procedures and innovative treatments.",
+    address: "4358 Zhangyang Road, Pudong New District, Shanghai, China",
+    travelInfo: {
+      airport: "35 minutes from Shanghai Pudong International Airport (PVG)",
+      metro: "Located near Line 2, Zhangjiang Hi-Tech Park Station",
+      accommodation: "Several international hotels within 2 km radius including Marriott and Hilton",
+      visa: "Medical visa facilitation services available for international patients"
+    }
+  },
+  {
+    id: 2,
+    name: "Beijing United Family Hospital",
+    isJCIAccredited: true,
+    rating: 4.5,
+    waitTime: "2-3 weeks",
+    cost: "$12,000 - $20,000",
+    annualCases: 760,
+    image: "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?ixlib=rb-4.0.3&auto=format&fit=crop&w=2073&q=80",
+    accreditations: ["ISO 9001"],
+    website: "https://en.wikipedia.org/wiki/Beijing",
+    departments: [
+      {
+        name: "Cardiology",
+        procedures: [
+          { name: "Heart Bypass", cost: "$16,000 - $22,000", waitTime: "2-3 weeks" },
+          { name: "Angioplasty", cost: "$10,000 - $14,000", waitTime: "1-2 weeks" },
+          { name: "Pacemaker Insertion", cost: "$9,000 - $13,000", waitTime: "1-2 weeks" },
+          { name: "Valve Replacement", cost: "$18,000 - $24,000", waitTime: "3-4 weeks" }
+        ]
+      },
+      {
+        name: "Oncology",
+        procedures: [
+          { name: "Cancer Immunotherapy", cost: "$20,000 - $40,000", waitTime: "1-2 weeks" },
+          { name: "Targeted Therapy", cost: "$15,000 - $25,000", waitTime: "1 week" },
+          { name: "Stem Cell Transplant", cost: "$50,000 - $80,000", waitTime: "3-6 weeks" },
+          { name: "Precision Medicine", cost: "$18,000 - $30,000", waitTime: "2 weeks" }
+        ]
+      }
+    ],
+    introduction: "Beijing United Family Hospital (BJU) was China's first foreign-invested healthcare institution and has been serving the community since 1997. This comprehensive healthcare facility offers services in over 25 medical specialties with state-of-the-art diagnostic and treatment capabilities. BJU is known for its bilingual staff and Western-standard healthcare in a patient-centered environment.",
+    address: "2 Jiangtai Road, Chaoyang District, Beijing, China",
+    travelInfo: {
+      airport: "40 minutes from Beijing Capital International Airport (PEK)",
+      metro: "Near Liangmaqiao Station, Line 10",
+      accommodation: "On-site patient accommodation available, plus multiple international hotels in vicinity",
+      visa: "Assistance with medical stay documentation provided by international patient services"
+    }
+  },
+  {
+    id: 3,
+    name: "Guangzhou Medical University Hospital",
+    isJCIAccredited: false,
+    rating: 4.2,
+    waitTime: "1 week",
+    cost: "$10,000 - $18,000",
+    annualCases: 620,
+    image: "https://images.unsplash.com/photo-1516549655169-df83a0774514?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+    accreditations: ["CHKS", "GHA"],
+    website: "https://en.wikipedia.org/wiki/Guangzhou",
+    departments: [
+      {
+        name: "Cardiology",
+        procedures: [
+          { name: "Heart Bypass", cost: "$14,000 - $19,000", waitTime: "2 weeks" },
+          { name: "Angioplasty", cost: "$9,000 - $13,000", waitTime: "1 week" },
+          { name: "Valve Replacement", cost: "$16,000 - $22,000", waitTime: "2-3 weeks" }
+        ]
+      },
+      {
+        name: "Fertility",
+        procedures: [
+          { name: "IVF", cost: "$5,000 - $8,000", waitTime: "immediate" },
+          { name: "Egg Freezing", cost: "$3,000 - $5,000", waitTime: "immediate" },
+          { name: "ICSI", cost: "$6,000 - $9,000", waitTime: "immediate" },
+          { name: "Embryo Transfer", cost: "$2,000 - $4,000", waitTime: "based on cycle" }
+        ]
+      }
+    ],
+    introduction: "Guangzhou Medical University Hospital is one of south China's leading medical institutions affiliated with the prestigious Guangzhou Medical University. With over 60 years of history, the hospital has grown into a comprehensive healthcare facility with strong expertise in fertility treatments, cardiology, and traditional Chinese medicine integrated with Western approaches. The hospital operates 35 clinical departments with 1,200 beds.",
+    address: "195 Dongfeng Xi Road, Yuexiu District, Guangzhou, Guangdong, China",
+    travelInfo: {
+      airport: "45 minutes from Guangzhou Baiyun International Airport (CAN)",
+      metro: "10-minute walk from Dongfeng Road Station, Line 1",
+      accommodation: "Several mid-range and luxury hotels within walking distance",
+      visa: "Medical consultation letters provided to support visa applications"
+    }
+  },
+  {
+    id: 4,
+    name: "Shenzhen People's Hospital",
+    isJCIAccredited: false,
+    rating: 4.0,
+    waitTime: "1-3 weeks",
+    cost: "$9,000 - $15,000",
+    annualCases: 550,
+    image: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?ixlib=rb-4.0.3&auto=format&fit=crop&w=2053&q=80",
+    accreditations: ["DNV GL"],
+    website: "https://en.wikipedia.org/wiki/Shenzhen",
+    departments: [
+      {
+        name: "Cardiology",
+        procedures: [
+          { name: "Heart Bypass", cost: "$13,000 - $18,000", waitTime: "2-3 weeks" },
+          { name: "Angioplasty", cost: "$8,000 - $12,000", waitTime: "1-2 weeks" },
+          { name: "Pacemaker Insertion", cost: "$7,000 - $11,000", waitTime: "1-2 weeks" }
+        ]
+      },
+      {
+        name: "Orthopedics",
+        procedures: [
+          { name: "Knee Replacement", cost: "$11,000 - $16,000", waitTime: "2 weeks" },
+          { name: "Hip Replacement", cost: "$12,000 - $18,000", waitTime: "2-3 weeks" }
+        ]
+      }
+    ],
+    introduction: "Shenzhen People's Hospital, founded in 1946, is a tertiary-level public hospital and the oldest comprehensive hospital in Shenzhen. With a focus on clinical care, medical education, and research, it serves as a teaching hospital for multiple medical universities. The hospital is known for its orthopedic surgeries, cardiology, and emergency medicine, treating over 2 million outpatients annually.",
+    address: "1017 Dongmen North Road, Luohu District, Shenzhen, Guangdong, China",
+    travelInfo: {
+      airport: "30 minutes from Shenzhen Bao'an International Airport (SZX)",
+      metro: "Adjacent to Hubei Station, Lines 2 & 8",
+      accommodation: "Several business hotels nearby, with preferential rates for patients",
+      visa: "Cross-border services available for Hong Kong residents"
+    }
+  },
+  {
+    id: 5,
+    name: "West China Hospital of Sichuan University",
+    isJCIAccredited: true,
+    rating: 4.7,
+    waitTime: "2 weeks",
+    cost: "$14,000 - $21,000",
+    annualCases: 800,
+    image: "https://images.unsplash.com/photo-1538108149393-fbbd81895907?ixlib=rb-4.0.3&auto=format&fit=crop&w=2069&q=80",
+    accreditations: ["ISO 9001", "HIMSS"],
+    website: "https://en.wikipedia.org/wiki/Sichuan_University",
+    departments: [
+      {
+        name: "Cardiology",
+        procedures: [
+          { name: "Heart Bypass", cost: "$17,000 - $23,000", waitTime: "2-3 weeks" },
+          { name: "Angioplasty", cost: "$11,000 - $15,000", waitTime: "1-2 weeks" },
+          { name: "Pacemaker Insertion", cost: "$10,000 - $14,000", waitTime: "1 week" },
+          { name: "Valve Replacement", cost: "$19,000 - $25,000", waitTime: "2-4 weeks" }
+        ]
+      },
+      {
+        name: "Neurology",
+        procedures: [
+          { name: "Brain Tumor Surgery", cost: "$22,000 - $35,000", waitTime: "2-3 weeks" },
+          { name: "Stroke Treatment", cost: "$9,000 - $16,000", waitTime: "immediate" }
+        ]
+      },
+      {
+        name: "Oncology",
+        procedures: [
+          { name: "Cancer Immunotherapy", cost: "$18,000 - $35,000", waitTime: "1-2 weeks" },
+          { name: "Stem Cell Transplant", cost: "$45,000 - $75,000", waitTime: "3-5 weeks" }
+        ]
+      }
+    ],
+    introduction: "West China Hospital of Sichuan University is one of China's largest and most prestigious medical centers. With over 120 years of history, the 4,300-bed facility serves as the major referral center for complex cases in southwest China. The hospital is renowned for its neurology, oncology, and transplantation programs, and operates one of China's most advanced medical research centers.",
+    address: "37 Guoxue Lane, Wuhou District, Chengdu, Sichuan, China",
+    travelInfo: {
+      airport: "35 minutes from Chengdu Shuangliu International Airport (CTU)",
+      metro: "Near Huaxi Campus Station, Line 1",
+      accommodation: "On-campus international patient pavilion available, plus nearby hotels",
+      visa: "Full documentation support and translator services for international patients"
+    }
+  }
+];
+
+// Information about accreditations
+const accreditationInfo = {
+  "JCI Accredited": "Joint Commission International (JCI) accreditation is considered the gold standard in global health care, with accredited hospitals demonstrating a commitment to safety and quality care.",
+  "ISO 9001": "ISO 9001 is a quality management system standard that ensures organizations meet customer and regulatory requirements related to a product or service.",
+  "TEMOS": "TEMOS accreditation signifies excellence in international patient care and medical tourism services.",
+  "CHKS": "CHKS accreditation demonstrates that a healthcare organization meets international quality standards for patient care.",
+  "GHA": "Global Healthcare Accreditation (GHA) focuses specifically on medical travel and enhancing the patient experience.",
+  "DNV GL": "DNV GL's hospital accreditation program integrates ISO 9001 quality management with Medicare Conditions of Participation.",
+  "HIMSS": "Healthcare Information and Management Systems Society (HIMSS) recognizes excellence in health information technology and management systems."
+};
+
+// Mock procedure details for the detailed view
+const procedureDetails = {
+  "Heart Bypass": {
+    overview: "Coronary artery bypass grafting (CABG) is a surgical procedure used to treat coronary heart disease. It diverts blood around narrowed or clogged parts of the major arteries to improve blood flow and oxygen supply to the heart.",
+    priceComparison: {
+      china: "$15,000 - $25,000",
+      us: "$70,000 - $200,000"
+    },
+    doctors: [
+      {
+        name: "Dr. Zhang Wei",
+        title: "Chief of Cardiothoracic Surgery",
+        experience: "25+ years",
+        education: "Peking Union Medical College",
+        image: "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixlib=rb-4.0.3&auto=format&fit=crop&w=870&q=80",
+        specialization: "Minimally Invasive Cardiac Surgery"
+      },
+      {
+        name: "Dr. Li Mei",
+        title: "Senior Cardiac Surgeon",
+        experience: "18 years",
+        education: "Shanghai Medical University",
+        image: "https://images.unsplash.com/photo-1594824476967-48c8b964273f?ixlib=rb-4.0.3&auto=format&fit=crop&w=870&q=80",
+        specialization: "Complex Coronary Revascularization"
+      }
+    ],
+    statistics: {
+      annualCases: 420,
+      successRate: "94.7%",
+      complicationRate: "3.2%",
+      readmissionRate: "4.1%",
+      mortalityRate: "1.8%"
+    },
+    videos: [
+      {
+        title: "Understanding Heart Bypass Surgery",
+        thumbnail: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=870&q=80",
+        url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ" // Example URL
+      },
+      {
+        title: "Patient Guide: Before & After Surgery",
+        thumbnail: "https://images.unsplash.com/photo-1579684385127-1ef15d508118?ixlib=rb-4.0.3&auto=format&fit=crop&w=870&q=80",
+        url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ" // Example URL
+      }
+    ],
+    faqs: [
+      {
+        question: "How long does the recovery take after heart bypass surgery?",
+        answer: "Most patients stay in the hospital for 5-7 days after surgery. Complete recovery typically takes 6-12 weeks, with most patients able to return to light activities within 4-6 weeks."
+      },
+      {
+        question: "What are the risks associated with heart bypass surgery?",
+        answer: "Risks include bleeding, infection, irregular heart rhythms, stroke, kidney failure, and in rare cases, death. The risk varies based on age, overall health, and other medical conditions."
+      },
+      {
+        question: "How long does the bypass graft last?",
+        answer: "Vein grafts typically last 10-15 years, while arterial grafts (like the internal mammary artery) can remain open for 20+ years. Regular follow-ups and a heart-healthy lifestyle can extend graft patency."
+      }
+    ]
+  },
+  "Angioplasty": {
+    overview: "Angioplasty is a minimally invasive procedure to widen narrowed or obstructed arteries or veins. A small balloon is temporarily inflated to widen the vessel, often followed by placement of a stent to keep the vessel open.",
+    priceComparison: {
+      china: "$8,000 - $15,000",
+      us: "$28,000 - $75,000"
+    },
+    doctors: [
+      {
+        name: "Dr. Chen Jing",
+        title: "Interventional Cardiologist",
+        experience: "22 years",
+        education: "Fudan University Medical School",
+        image: "https://images.unsplash.com/photo-1622253692010-333f2da6031d?ixlib=rb-4.0.3&auto=format&fit=crop&w=870&q=80",
+        specialization: "Complex Coronary Interventions"
+      }
+    ],
+    statistics: {
+      annualCases: 650,
+      successRate: "96.3%",
+      complicationRate: "2.5%",
+      readmissionRate: "3.8%",
+      mortalityRate: "0.8%"
+    },
+    videos: [
+      {
+        title: "What is Angioplasty?",
+        thumbnail: "https://images.unsplash.com/photo-1581595219315-a187dd40c322?ixlib=rb-4.0.3&auto=format&fit=crop&w=870&q=80",
+        url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ" // Example URL
+      }
+    ],
+    faqs: [
+      {
+        question: "Is angioplasty painful?",
+        answer: "The procedure itself is generally not painful as it's performed under local anesthesia and sedation. Some patients may experience mild discomfort at the catheter insertion site afterward."
+      },
+      {
+        question: "How soon can I return to normal activities after angioplasty?",
+        answer: "Many patients can return to light activities within a few days. Most can resume normal activities within a week, though strenuous exercise should be avoided for about 2 weeks."
+      }
+    ]
+  },
+  // Add mock data for other procedures as needed
+};
+
+const HospitalDetail = () => {
+  const { id } = useParams();
+  const [searchParams] = useSearchParams();
+  const selectedProcedure = searchParams.get("procedure");
+  const selectedSpecialty = searchParams.get("specialty");
+  
+  const [hospital, setHospital] = useState<any>(null);
+  const [activeTab, setActiveTab] = useState<string>("");
+  const [procedureData, setProcedureData] = useState<any>(null);
+  const [infoTab, setInfoTab] = useState("introduction");
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+    
+    // Find the hospital by ID
+    const foundHospital = hospitalData.find(h => h.id === parseInt(id || "0", 10));
+    
+    if (foundHospital) {
+      setHospital(foundHospital);
+      document.title = `${foundHospital.name} | MedChina`;
+      
+      // Set active tab based on the selected specialty or default to first department
+      if (selectedSpecialty && foundHospital.departments.some(dept => dept.name === selectedSpecialty)) {
+        setActiveTab(selectedSpecialty);
+      } else if (foundHospital.departments.length > 0) {
+        setActiveTab(foundHospital.departments[0].name);
+      }
+
+      // Set procedure data if available
+      if (selectedProcedure && procedureDetails[selectedProcedure]) {
+        setProcedureData(procedureDetails[selectedProcedure]);
+      }
+    }
+  }, [id, selectedSpecialty, selectedProcedure]);
+
+  if (!hospital) {
+    return (
+      <div className="min-h-screen">
+        <TopUtilityBar />
+        <MainNavigation />
+        <div className="container mx-auto px-4 py-16 text-center">
+          <Hospital className="mx-auto h-16 w-16 text-gray-400 mb-4" />
+          <h1 className="text-2xl font-bold text-gray-900 mb-2">Hospital Not Found</h1>
+          <p className="text-gray-600">The hospital you're looking for doesn't exist or has been removed.</p>
+        </div>
+        <Footer />
+      </div>
+    );
+  }
+
+  return (
+    <div className="min-h-screen">
+      <TopUtilityBar />
+      <MainNavigation />
+      
+      <div className="bg-gray-50 py-8">
+        <div className="container mx-auto px-4">
+          {/* Hospital header */}
+          <div className="bg-white rounded-lg shadow-md overflow-hidden mb-6">
+            <div className="relative h-64 w-full">
+              <img 
+                src={hospital.image} 
+                alt={hospital.name} 
+                className="h-full w-full object-cover"
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent flex items-end">
+                <div className="p-6 text-white">
+                  <h1 className="text-3xl font-bold mb-2">{hospital.name}</h1>
+                  <div className="flex items-center gap-2 mb-2">
+                    <div className="flex">
+                      {Array.from({ length: 5 }).map((_, i) => (
+                        <Star
+                          key={i}
+                          className={`h-5 w-5 ${
+                            i < Math.floor(hospital.rating) ? "text-yellow-400 fill-yellow-400" : "text-gray-300"
+                          }`}
+                        />
+                      ))}
+                    </div>
+                    <span className="text-lg font-semibold">{hospital.rating.toFixed(1)}</span>
+                  </div>
+                  <div className="flex flex-wrap gap-2">
+                    {hospital.isJCIAccredited && (
+                      <HoverCard>
+                        <HoverCardTrigger asChild>
+                          <Badge variant="default" className="bg-blue-600 cursor-help">JCI Accredited</Badge>
+                        </HoverCardTrigger>
+                        <HoverCardContent className="w-80 text-sm">
+                          <p>{accreditationInfo["JCI Accredited"]}</p>
+                          <div className="mt-2">
+                            <a 
+                              href="https://en.wikipedia.org/wiki/Joint_Commission_International" 
+                              target="_blank" 
+                              rel="noopener noreferrer"
+                              className="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-xs"
+                            >
+                              Learn more <ExternalLink size={12} />
+                            </a>
+                          </div>
+                        </HoverCardContent>
+                      </HoverCard>
+                    )}
+                    {hospital.accreditations?.map((accreditation: string, index: number) => (
+                      <HoverCard key={index}>
+                        <HoverCardTrigger asChild>
+                          <Badge variant="outline" className="border-green-500 text-green-600 bg-white/90 cursor-help">
+                            {accreditation}
+                          </Badge>
+                        </HoverCardTrigger>
+                        <HoverCardContent className="w-80 text-sm">
+                          <p>{accreditationInfo[accreditation] || `${accreditation} is a healthcare quality standard.`}</p>
+                          <div className="mt-2">
+                            <a 
+                              href={`https://en.wikipedia.org/wiki/${encodeURIComponent(accreditation.replace(" ", "_"))}`}
+                              target="_blank" 
+                              rel="noopener noreferrer"
+                              className="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-xs"
+                            >
+                              Learn more <ExternalLink size={12} />
+                            </a>
+                          </div>
+                        </HoverCardContent>
+                      </HoverCard>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="p-6">
+              {/* Basic stats */}
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+                <div>
+                  <p className="text-gray-500 text-sm">Average Wait Time</p>
+                  <p className="font-medium">{hospital.waitTime}</p>
+                </div>
+                <div>
+                  <p className="text-gray-500 text-sm">Average Cost Range</p>
+                  <p className="font-medium">{hospital.cost}</p>
+                </div>
+                <div>
+                  <p className="text-gray-500 text-sm">Annual Cases</p>
+                  <p className="font-medium">{hospital.annualCases}+ procedures</p>
+                </div>
+              </div>
+
+              {/* Hospital Information Tabs */}
+              <Tabs value={infoTab} onValueChange={setInfoTab} className="w-full mb-6">
+                <TabsList className="grid grid-cols-3 mb-2">
+                  <TabsTrigger value="introduction">Introduction</TabsTrigger>
+                  <TabsTrigger value="travel">Travel & Convenience</TabsTrigger>
+                  <TabsTrigger value="accreditations">Accreditations</TabsTrigger>
+                </TabsList>
+
+                {/* Introduction Tab */}
+                <TabsContent value="introduction" className="border rounded-md p-4 bg-gray-50">
+                  <div className="mb-6">
+                    <h2 className="text-xl font-semibold mb-3">About {hospital.name}</h2>
+                    <p className="text-gray-700 leading-relaxed">{hospital.introduction}</p>
+                  </div>
+                  
+                  {/* Address */}
+                  <div className="flex items-start gap-2">
+                    <MapPin className="h-5 w-5 text-blue-600 mt-1 flex-shrink-0" />
+                    <div>
+                      <h3 className="font-medium">Hospital Address</h3>
+                      <p className="text-gray-700">{hospital.address}</p>
+                    </div>
+                  </div>
+                </TabsContent>
+
+                {/* Travel & Convenience Tab */}
+                <TabsContent value="travel" className="border rounded-md p-4 bg-gray-50">
+                  {hospital.travelInfo && (
+                    <div>
+                      <h2 className="text-xl font-semibold mb-3">Travel & Convenience</h2>
+                      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                        <div className="bg-white p-3 rounded shadow-sm">
+                          <h3 className="font-medium text-blue-700">Airport Access</h3>
+                          <p className="text-gray-700">{hospital.travelInfo.airport}</p>
+                        </div>
+                        <div className="bg-white p-3 rounded shadow-sm">
+                          <h3 className="font-medium text-blue-700">Public Transportation</h3>
+                          <p className="text-gray-700">{hospital.travelInfo.metro}</p>
+                        </div>
+                        <div className="bg-white p-3 rounded shadow-sm">
+                          <h3 className="font-medium text-blue-700">Accommodation</h3>
+                          <p className="text-gray-700">{hospital.travelInfo.accommodation}</p>
+                        </div>
+                        <div className="bg-white p-3 rounded shadow-sm">
+                          <h3 className="font-medium text-blue-700">Visa Assistance</h3>
+                          <p className="text-gray-700">{hospital.travelInfo.visa}</p>
+                        </div>
+                      </div>
+                    </div>
+                  )}
+                </TabsContent>
+
+                {/* Accreditations Tab */}
+                <TabsContent value="accreditations" className="border rounded-md p-4 bg-gray-50">
+                  <div>
+                    <h2 className="text-xl font-semibold mb-3">Hospital Accreditations</h2>
+                    <div className="flex flex-wrap gap-3">
+                      {hospital.isJCIAccredited && (
+                        <div className="border border-blue-200 bg-white px-3 py-2 rounded-md flex items-center gap-2 shadow-sm">
+                          <CheckCircle2 className="h-5 w-5 text-blue-600" />
+                          <div>
+                            <h3 className="font-medium">Joint Commission International (JCI)</h3>
+                            <p className="text-xs text-gray-600">Global gold standard in healthcare quality</p>
+                          </div>
+                        </div>
+                      )}
+                      {hospital.accreditations?.map((accreditation: string, index: number) => (
+                        <div key={index} className="border border-green-200 bg-white px-3 py-2 rounded-md flex items-center gap-2 shadow-sm">
+                          <CheckCircle2 className="h-5 w-5 text-green-600" />
+                          <div>
+                            <h3 className="font-medium">{accreditation}</h3>
+                            <p className="text-xs text-gray-600">
+                              {accreditationInfo[accreditation]?.split('.')[0] || 'Healthcare quality certification'}
+                            </p>
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                </TabsContent>
+              </Tabs>
+
+              <div className="flex justify-end">
+                <a 
+                  href={hospital.website} 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="text-blue-600 hover:text-blue-800 flex items-center gap-1 text-sm"
+                >
+                  Visit Hospital Website <ExternalLink size={16} />
+                </a>
+              </div>
+            </div>
+          </div>
+
+          {/* Department tabs and procedures */}
+          <div className="bg-white rounded-lg shadow-md p-6 mb-8">
+            <h2 className="text-2xl font-bold mb-6">Medical Departments</h2>
+            
+            <Tabs value={activeTab} onValueChange={setActiveTab} className="w-full">
+              <TabsList className="mb-6 w-full flex overflow-x-auto space-x-2 border-b pb-1">
+                {hospital.departments.map((dept: any) => (
+                  <TabsTrigger 
+                    key={dept.name} 
+                    value={dept.name}
+                    className={`px-4 py-2 ${
+                      activeTab === dept.name 
+                        ? "border-b-2 border-blue-600 text-blue-700" 
+                        : "text-gray-600"
+                    }`}
+                  >
+                    {dept.name}
+                  </TabsTrigger>
+                ))}
+              </TabsList>
+              
+              {hospital.departments.map((dept: any) => (
+                <TabsContent key={dept.name} value={dept.name}>
+                  <h3 className="text-xl font-semibold mb-4">{dept.name} Procedures</h3>
+                  
+                  {/* Procedure list */}
+                  <div className="grid grid-cols-1 gap-4 mb-8">
+                    {dept.procedures.map((proc: any) => {
+                      const isSelected = selectedProcedure === proc.name && dept.name === selectedSpecialty;
+                      const hasProcedureDetails = procedureDetails[proc.name] !== undefined;
+                      
+                      return (
+                        <div 
+                          key={proc.name}
+                          className={`p-4 border rounded-md transition-colors ${
+                            isSelected 
+                              ? "bg-blue-50 border-blue-300" 
+                              : "bg-white hover:bg-gray-50"
+                          }`}
+                        >
+                          <div className="flex justify-between items-center">
+                            <div>
+                              <h4 className="text-lg font-medium flex items-center gap-2">
+                                {isSelected && (
+                                  <Badge variant="default" className="bg-blue-600">Current Selection</Badge>
+                                )}
+                                {proc.name}
+                              </h4>
+                              <div className="grid grid-cols-2 gap-4 mt-2">
+                                <div>
+                                  <p className="text-gray-500 text-sm">Wait Time</p>
+                                  <p className="font-medium">{proc.waitTime}</p>
+                                </div>
+                                <div>
+                                  <p className="text-gray-500 text-sm">Estimated Cost</p>
+                                  <p className="font-medium">{proc.cost}</p>
+                                </div>
+                              </div>
+                            </div>
+                            {hasProcedureDetails && (
+                              <a 
+                                href={`/hospital/${id}?specialty=${dept.name}&procedure=${encodeURIComponent(proc.name)}`}
+                                className={`px-4 py-2 rounded-md text-sm ${
+                                  isSelected 
+                                    ? "bg-blue-600 text-white" 
+                                    : "bg-gray-100 text-gray-700 hover:bg-gray-200"
+                                }`}
+                              >
+                                {isSelected ? "Currently Viewing" : "View Details"}
+                              </a>
+                            )}
+                          </div>
+                        </div>
+                      );
+                    })}
+                  </div>
+                  
+                  {/* Selected procedure details */}
+                  {selectedProcedure && selectedSpecialty === dept.name && procedureData && (
+                    <div className="mt-8">
+                      <div className="border-t border-b py-4 mb-6">
+                        <h2 className="text-2xl font-bold text-blue-700 flex items-center">
+                          {selectedProcedure} Details
+                        </h2>
+                      </div>
+                      
+                      <div className="space-y-8">
+                        {/* Overview */}
+                        <Card>
+                          <CardHeader>
+                            <CardTitle className="flex items-center gap-2">
+                              <FileText className="h-5 w-5" /> Procedure Overview
+                            </CardTitle>
+                          </CardHeader>
+                          <CardContent>
+                            <p>{procedureData.overview}</p>
+                          </CardContent>
+                        </Card>
+                        
+                        {/* Price comparison */}
+                        <Card>
+                          <CardHeader>
+                            <CardTitle>Price Comparison</CardTitle>
+                            <CardDescription>See how much you can save compared to US prices</CardDescription>
+                          </CardHeader>
+                          <CardContent>
+                            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                              <div className="p-4 border rounded-md bg-blue-50">
+                                <p className="text-sm text-gray-500 mb-1">Cost in China</p>
+                                <p className="text-2xl font-bold text-blue-700">{procedureData.priceComparison.china}</p>
+                              </div>
+                              <div className="p-4 border rounded-md bg-gray-50">
+                                <p className="text-sm text-gray-500 mb-1">Cost in US</p>
+                                <p className="text-2xl font-bold text-gray-700">{procedureData.priceComparison.us}</p>
+                              </div>
+                            </div>
+                          </CardContent>
+                        </Card>
+                        
+                        {/* Doctor profiles */}
+                        <Card>
+                          <CardHeader>
+                            <CardTitle>Doctor Profiles</CardTitle>
+                            <CardDescription>Meet our specialists for {selectedProcedure}</CardDescription>
+                          </CardHeader>
+                          <CardContent>
+                            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                              {procedureData.doctors.map((doctor, index) => (
+                                <div key={index} className="flex gap-4 p-4 border rounded-md">
+                                  <img 
+                                    src={doctor.image} 
+                                    alt={doctor.name} 
+                                    className="h-20 w-20 object-cover rounded-full"
+                                  />
+                                  <div>
+                                    <h4 className="font-semibold text-lg">{doctor.name}</h4>
+                                    <p className="text-blue-700">{doctor.title}</p>
+                                    <p className="text-sm text-gray-600">{doctor.experience} experience</p>
+                                    <p className="text-sm text-gray-600">
+                                      <span className="font-medium">Education:</span> {doctor.education}
+                                    </p>
+                                    <p className="text-sm text-blue-600 mt-1">{doctor.specialization}</p>
+                                  </div>
+                                </div>
+                              ))}
+                            </div>
+                          </CardContent>
+                        </Card>
+                        
+                        {/* Statistics */}
+                        <Card>
+                          <CardHeader>
+                            <CardTitle>Procedure Statistics</CardTitle>
+                            <CardDescription>Key performance metrics for {selectedProcedure} at {hospital.name}</CardDescription>
+                          </CardHeader>
+                          <CardContent>
+                            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4">
+                              <div className="p-4 bg-gray-50 rounded-md text-center">
+                                <p className="text-gray-500 text-sm">Annual Cases</p>
+                                <p className="text-2xl font-bold text-blue-700">{procedureData.statistics.annualCases}</p>
+                              </div>
+                              <div className="p-4 bg-green-50 rounded-md text-center">
+                                <p className="text-gray-500 text-sm">Success Rate</p>
+                                <p className="text-2xl font-bold text-green-700">{procedureData.statistics.successRate}</p>
+                              </div>
+                              <div className="p-4 bg-amber-50 rounded-md text-center">
+                                <p className="text-gray-500 text-sm">Complication Rate</p>
+                                <p className="text-2xl font-bold text-amber-700">{procedureData.statistics.complicationRate}</p>
+                              </div>
+                              <div className="p-4 bg-purple-50 rounded-md text-center">
+                                <p className="text-gray-500 text-sm">Readmission Rate</p>
+                                <p className="text-2xl font-bold text-purple-700">{procedureData.statistics.readmissionRate}</p>
+                              </div>
+                              <div className="p-4 bg-red-50 rounded-md text-center">
+                                <p className="text-gray-500 text-sm">Mortality Rate</p>
+                                <p className="text-2xl font-bold text-red-700">{procedureData.statistics.mortalityRate}</p>
+                              </div>
+                            </div>
+                          </CardContent>
+                        </Card>
+                        
+                        {/* Videos */}
+                        <Card>
+                          <CardHeader>
+                            <CardTitle className="flex items-center gap-2">
+                              <Video className="h-5 w-5" /> Related Videos
+                            </CardTitle>
+                          </CardHeader>
+                          <CardContent>
+                            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                              {procedureData.videos.map((video, index) => (
+                                <a 
+                                  key={index} 
+                                  href={video.url} 
+                                  target="_blank" 
+                                  rel="noopener noreferrer"
+                                  className="group"
+                                >
+                                  <div className="relative rounded-md overflow-hidden">
+                                    <img 
+                                      src={video.thumbnail} 
+                                      alt={video.title} 
+                                      className="w-full h-48 object-cover group-hover:opacity-90 transition-opacity"
+                                    />
+                                    <div className="absolute inset-0 bg-black/30 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
+                                      <Video className="h-12 w-12 text-white" />
+                                    </div>
+                                  </div>
+                                  <p className="mt-2 font-medium group-hover:text-blue-600 transition-colors">{video.title}</p>
+                                </a>
+                              ))}
+                            </div>
+                          </CardContent>
+                        </Card>
+                        
+                        {/* FAQs */}
+                        <Card>
+                          <CardHeader>
+                            <CardTitle>Frequently Asked Questions</CardTitle>
+                            <CardDescription>Common questions about {selectedProcedure}</CardDescription>
+                          </CardHeader>
+                          <CardContent>
+                            <Accordion type="single" collapsible className="w-full">
+                              {procedureData.faqs.map((faq, index) => (
+                                <AccordionItem key={index} value={`faq-${index}`}>
+                                  <AccordionTrigger>{faq.question}</AccordionTrigger>
+                                  <AccordionContent>
+                                    <p className="text-gray-700">{faq.answer}</p>
+                                  </AccordionContent>
+                                </AccordionItem>
+                              ))}
+                            </Accordion>
+                          </CardContent>
+                        </Card>
+                      </div>
+                    </div>
+                  )}
+                </TabsContent>
+              ))}
+            </Tabs>
+          </div>
+        </div>
+      </div>
+      
+      <Footer />
+    </div>
+  );
+};
+
+export default HospitalDetail;

@@ -1,0 +1,16 @@
+name = "medicaltourismchina-content-worker"
+main = "src/index.mjs"
+compatibility_date = "2026-05-27"
+compatibility_flags = ["nodejs_compat"]
+account_id = "82cdbf36c265c0d9e4b4e1c6100c26d7"
+
+[vars]
+SUPABASE_URL = "https://jjlrlwopsdmxkqyjshuc.supabase.co"
+PUBLIC_MEDIA_BASE_URL = "https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev"
+ACTION_API_BASE_URL = "http://ec2-35-87-184-138.us-west-2.compute.amazonaws.com"
+ALLOWED_ORIGINS = "https://medicaltourismchina.health,https://www.medicaltourismchina.health,https://*.vercel.app,http://localhost:3000,http://127.0.0.1:3000"
+DEBUG_LOGS = "false"
+
+[[r2_buckets]]
+binding = "MEDIA_BUCKET"
+bucket_name = "medicaltourismchina"
