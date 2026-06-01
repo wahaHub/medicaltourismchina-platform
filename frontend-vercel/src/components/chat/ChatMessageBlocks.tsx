@@ -20,6 +20,8 @@ export interface ChatMessageBlocksHandlers {
   onSubmitHospitals?: (caseId: string, hospitalIds: string[], customHospitalRequest?: string) => Promise<void> | void;
   /** Called when the patient opens the formal questionnaire flow. */
   onOpenQuestionnaire?: (templateId: string) => Promise<void> | void;
+  /** Called when the patient confirms the care journey process guide. */
+  onConfirmProcessGuide?: () => Promise<void> | void;
   /** Called when the patient submits the online consult booking card. */
   onSubmitConsult?: (block: OnlineConsultBookingCardBlock) => Promise<void> | void;
 }
@@ -34,7 +36,11 @@ function renderBlock(block: ChatbotMessageBlock, handlers: ChatMessageBlocksHand
       {
         const processBlock = block as ProcessModalTriggerBlock;
         return (
-          <ProcessModalTrigger key={processBlock.id} block={processBlock} />
+          <ProcessModalTrigger
+            key={processBlock.id}
+            block={processBlock}
+            onConfirm={handlers.onConfirmProcessGuide}
+          />
         );
       }
     case 'QUESTIONNAIRE_MODAL_TRIGGER':
@@ -99,9 +105,15 @@ export function ChatMessageBlocks({
   blocks,
   onSubmitHospitals,
   onOpenQuestionnaire,
+  onConfirmProcessGuide,
   onSubmitConsult,
 }: ChatMessageBlocksProps) {
-  const handlers: ChatMessageBlocksHandlers = { onSubmitHospitals, onOpenQuestionnaire, onSubmitConsult };
+  const handlers: ChatMessageBlocksHandlers = {
+    onSubmitHospitals,
+    onOpenQuestionnaire,
+    onConfirmProcessGuide,
+    onSubmitConsult,
+  };
   return (
     <div className="flex flex-col gap-2 mb-2">
       {blocks.map((block) => renderBlock(block, handlers))}

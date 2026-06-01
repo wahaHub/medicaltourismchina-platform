@@ -10,7 +10,7 @@ import {
   type PatientChatbotHistoryResourceDescriptor,
   type PatientChatbotMessageMetadata,
 } from '@/services/api/patient-chatbot';
-import type { PatientConversationMessage } from '@/services/api/patient-messages';
+import { patientMessagesApi, type PatientConversationMessage } from '@/services/api/patient-messages';
 import type { PatientConversationAssistantMode } from '@/services/api/crmApiClient';
 import type { PatientProfileDraft } from '@/types/patient-entry';
 import type { PatientChatbotV3ChatResponse } from '@/services/api/patient-chatbot-v3';
@@ -39,6 +39,7 @@ import { buildLegacyBlockFromHistoryResource } from './patient-chat-legacy-resou
 import { resolveSyntheticStageWidgetMessage } from './patient-chat-stage-widgets';
 import PatientQuestionnaireModal from './PatientQuestionnaireModal';
 import PatientProfileForm from './PatientProfileForm';
+import MechanicalChatMenu from './MechanicalChatMenu';
 import { BRAND_LOGO_URL } from '@/config/brandAssets';
 
 function mergeChatMessages(
@@ -552,13 +553,17 @@ export default function PatientEntryWindow() {
     widgetDisplayMode,
     widgetChatTarget,
     journeySnapshot,
+    processConfirmed,
     chatbotV3Journey,
     chatbotV3Handoff,
     chatbotV3Cards,
     applyChatbotV3TurnState = () => {},
     clearChatbotV3TurnState = () => {},
+    markProcessConfirmed = () => {},
     isQuestionnaireModalOpen,
     questionnaireTemplateId,
+    questionnaireHistoryRefreshNonce,
+    requestQuestionnaireTemplate,
     closeQuestionnaireModal,
   } = usePatientEntry();
   const {
@@ -691,6 +696,14 @@ export default function PatientEntryWindow() {
     && Boolean(activeSessionId)
     && detail?.sessionId !== activeSessionId;
   const hasHospitalSessions = sessions.some((session) => session.sessionKind === 'hospital');
+  const hasMechanicalChatFlag = (detail as { mechanicalChat?: { enabled?: boolean } }).mechanicalChat?.enabled === true;
+  const shouldUseMechanicalFallback = activeSession?.sessionKind === 'care-team'
+    && widgetChatTarget?.kind === 'CHATBOT_SESSION'
+    && assistantMode === 'AI_ACTIVE';
+  const isMechanicalChatEnabled = canShowFormalMessages
+    && activeSession?.sessionKind === 'care-team'
+    && detail?.sessionId === activeSessionId
+    && (hasMechanicalChatFlag || shouldUseMechanicalFallback);
 
   useEffect(() => {
     if (!canShowFormalMessages || activeSession?.sessionKind !== 'care-team') {
@@ -789,6 +802,16 @@ export default function PatientEntryWindow() {
     });
   };
 
+  const handleConfirmProcessGuide = async () => {
+    if (!activeSessionId) {
+      throw new Error('Cannot confirm the process guide before the chat session is loaded.');
+    }
+
+    await patientMessagesApi.confirmProcessGuide({ sessionId: activeSessionId });
+    markProcessConfirmed();
+    await refreshActiveSession();
+  };
+
   const messageStream = (
     <div className="space-y-4 pr-1">
       <InlinePhaseBlock />
@@ -820,8 +843,16 @@ export default function PatientEntryWindow() {
             {translate('chatWidget.retry')}
           </Button>
         </div>
+      ) : isMechanicalChatEnabled ? (
+        <MechanicalChatMenu
+          caseId={caseId}
+          processConfirmed={processConfirmed}
+          questionnaireHistoryRefreshNonce={questionnaireHistoryRefreshNonce}
+          onConfirmProcessGuide={handleConfirmProcessGuide}
+          onOpenQuestionnaire={requestQuestionnaireTemplate}
+        />
       ) : (
-        <PatientChatMessageList messages={renderedMessages} />
+        <PatientChatMessageList messages={renderedMessages} onConfirmProcessGuide={handleConfirmProcessGuide} />
       )}
     </div>
   );
@@ -941,6 +972,7 @@ export default function PatientEntryWindow() {
         onConversationRefresh={handleConversationRefresh}
         latestAssistantChatbotV3Turn={latestChatbotV3Turn}
         onChatbotTurnReceived={handleChatbotTurnReceived}
+        mechanicalMode={isMechanicalChatEnabled}
       />
       {isQuestionnaireModalOpen && caseId ? (
         <PatientQuestionnaireModal

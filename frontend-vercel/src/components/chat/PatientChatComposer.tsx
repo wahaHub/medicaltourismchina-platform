@@ -113,6 +113,7 @@ interface PatientChatComposerProps {
   onConversationRefresh?: () => Promise<void> | void;
   latestAssistantChatbotV3Turn?: ChatbotV3TurnViewModel | null;
   onChatbotTurnReceived?: (turn: ChatbotV3TurnViewModel) => void;
+  mechanicalMode?: boolean;
 }
 
 export default function PatientChatComposer({
@@ -125,19 +126,29 @@ export default function PatientChatComposer({
   onConversationRefresh,
   latestAssistantChatbotV3Turn = null,
   onChatbotTurnReceived,
+  mechanicalMode = false,
 }: PatientChatComposerProps) {
   const { currentLanguage } = useLanguage();
   const { expirePatientSession } = usePatientAuth();
-  const { phase, registerComposerAttachmentPicker } = usePatientEntry();
+  const {
+    phase,
+    composerSelectedFiles,
+    registerComposerAttachmentPicker,
+    removeComposerSelectedFile,
+    setComposerSelectedFiles,
+  } = usePatientEntry();
   const [value, setValue] = useState('');
-  const [selectedFiles, setSelectedFiles] = useState<File[]>([]);
+  const [localSelectedFiles, setLocalSelectedFiles] = useState<File[]>([]);
+  const selectedFiles = composerSelectedFiles ?? localSelectedFiles;
   const [isSending, setIsSending] = useState(false);
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
   const fileInputRef = useRef<HTMLInputElement | null>(null);
   const translate = createChatWidgetTranslator(currentLanguage.code);
 
   const isFormalMessagingPhase = phase === 'select-hospitals' || phase === 'messages-ready';
-  const effectiveTarget = assistantMode === 'HUMAN_TAKEOVER'
+  const effectiveTarget = mechanicalMode
+    ? null
+    : assistantMode === 'HUMAN_TAKEOVER'
     ? (sessionId
         ? {
             kind: 'FORMAL_SESSION' as const,
@@ -152,6 +163,7 @@ export default function PatientChatComposer({
         : null);
   const attachmentsSupported = Boolean(effectiveTarget);
   const isDisabled = isSending
+    || mechanicalMode
     || !isFormalMessagingPhase
     || !effectiveTarget;
 
@@ -185,7 +197,11 @@ export default function PatientChatComposer({
     setErrorMessage(null);
     setIsSending(true);
     setValue('');
-    setSelectedFiles([]);
+    if (setComposerSelectedFiles) {
+      setComposerSelectedFiles([]);
+    } else {
+      setLocalSelectedFiles([]);
+    }
 
     const now = new Date().toISOString();
     const optimisticPatientMessageId = createOptimisticMessageId('optimistic-patient');
@@ -338,12 +354,20 @@ export default function PatientChatComposer({
       return;
     }
 
-    setSelectedFiles((current) => [...current, ...files]);
+    if (setComposerSelectedFiles) {
+      setComposerSelectedFiles((current) => [...current, ...files]);
+    } else {
+      setLocalSelectedFiles((current) => [...current, ...files]);
+    }
     event.target.value = '';
   };
 
   const removeSelectedFile = (name: string) => {
-    setSelectedFiles((current) => current.filter((file) => file.name !== name));
+    if (removeComposerSelectedFile) {
+      removeComposerSelectedFile(name);
+    } else {
+      setLocalSelectedFiles((current) => current.filter((file) => file.name !== name));
+    }
   };
 
   return (
@@ -372,7 +396,7 @@ export default function PatientChatComposer({
         value={value}
         onChange={(event) => setValue(event.target.value)}
         placeholder={isFormalMessagingPhase
-          ? translate('chatWidget.composer.placeholderHuman')
+          ? (mechanicalMode ? '请使用上方菜单继续；此流程不会发送自由输入给 AI。' : translate('chatWidget.composer.placeholderHuman'))
           : translate('chatWidget.composer.placeholderAi')}
         className="min-h-[88px] resize-none"
         disabled={isDisabled}

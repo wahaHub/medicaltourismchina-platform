@@ -249,6 +249,18 @@ export async function sendSessionMessage(input: {
   });
 }
 
+export async function confirmProcessGuide(input: {
+  sessionId: string;
+}): Promise<{
+  ok: boolean;
+  status: 'confirmed';
+}> {
+  return crmApiRequest(`/sessions/${input.sessionId}/process-confirmation`, {
+    method: 'POST',
+    body: JSON.stringify({}),
+  });
+}
+
 export async function initConversationAttachmentUpload(input: {
   conversationId: string;
   fileName: string;
@@ -310,6 +322,7 @@ export const patientMessagesApi = {
   getSessionMessages,
   sendConversationMessage,
   sendSessionMessage,
+  confirmProcessGuide,
   initConversationAttachmentUpload,
   initSessionAttachmentUpload,
 };

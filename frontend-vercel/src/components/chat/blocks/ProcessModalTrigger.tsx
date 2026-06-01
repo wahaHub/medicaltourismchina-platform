@@ -31,6 +31,10 @@ const CONFIRM_STEPS = [
 interface ProcessModalTriggerProps {
   block: ProcessModalTriggerBlock;
   onOpen?: () => void;
+  onConfirm?: () => Promise<void> | void;
+  confirmed?: boolean;
+  preserveBlockTitle?: boolean;
+  onDismissUnconfirmed?: () => void;
   historyResourceId?: string;
   historyResourceStatus?: string;
 }
@@ -38,6 +42,10 @@ interface ProcessModalTriggerProps {
 export function ProcessModalTrigger({
   block,
   onOpen,
+  onConfirm,
+  confirmed: externallyConfirmed = false,
+  preserveBlockTitle = true,
+  onDismissUnconfirmed,
   historyResourceId,
   historyResourceStatus,
 }: ProcessModalTriggerProps) {
@@ -45,10 +53,19 @@ export function ProcessModalTrigger({
   const { currentLanguage } = language;
   const [isOpen, setIsOpen] = useState(false);
   const [agreed, setAgreed] = useState(false);
-  const [confirmed, setConfirmed] = useState(false);
+  const [confirmed, setConfirmed] = useState(block.status === 'confirmed');
+  const [isConfirming, setIsConfirming] = useState(false);
+  const [confirmError, setConfirmError] = useState<string | null>(null);
   const closeTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const translate = createChatWidgetTranslator(currentLanguage.code);
   const translatePage = (key: TranslationKey) => (language.t ? language.t(key) : translate(key));
+  const effectiveConfirmed = externallyConfirmed || confirmed || block.status === 'confirmed';
+  const pendingStatusLabel = translatePage('processConfirm.status.pending');
+  const confirmedStatusLabel = translatePage('processConfirm.status.confirmed');
+  const title = preserveBlockTitle && block.title ? block.title : translatePage('processConfirm.title');
+  const confirmErrorLabel = currentLanguage.code === 'zh'
+    ? '确认失败，请稍后重试。'
+    : 'Confirmation failed. Please try again.';
 
   useEffect(() => () => {
     if (closeTimerRef.current) {
@@ -57,8 +74,8 @@ export function ProcessModalTrigger({
   }, []);
 
   const handleClick = () => {
-    setAgreed(false);
-    setConfirmed(false);
+    setAgreed(effectiveConfirmed);
+    setConfirmError(null);
     setIsOpen(true);
     onOpen?.();
   };
@@ -68,15 +85,40 @@ export function ProcessModalTrigger({
       clearTimeout(closeTimerRef.current);
       closeTimerRef.current = null;
     }
+    if (!effectiveConfirmed) {
+      onDismissUnconfirmed?.();
+    }
     setIsOpen(false);
   };
 
-  const handleConfirm = () => {
-    setConfirmed(true);
-    closeTimerRef.current = setTimeout(() => {
-      setIsOpen(false);
-      closeTimerRef.current = null;
-    }, 1600);
+  const handleConfirm = async () => {
+    if (effectiveConfirmed || isConfirming) {
+      return;
+    }
+
+    if (!onConfirm) {
+      setConfirmed(true);
+      closeTimerRef.current = setTimeout(() => {
+        setIsOpen(false);
+        closeTimerRef.current = null;
+      }, 1600);
+      return;
+    }
+
+    setIsConfirming(true);
+    setConfirmError(null);
+    try {
+      await onConfirm();
+      setConfirmed(true);
+      closeTimerRef.current = setTimeout(() => {
+        setIsOpen(false);
+        closeTimerRef.current = null;
+      }, 1600);
+    } catch {
+      setConfirmError(confirmErrorLabel);
+    } finally {
+      setIsConfirming(false);
+    }
   };
 
   const ctaLabel = block.ctaLabel ?? translate('chatWidget.process.openGuide');
@@ -94,7 +136,19 @@ export function ProcessModalTrigger({
             <Route className="h-4 w-4 text-teal-600" />
           </div>
           <div className="min-w-0 flex-1">
-            <div className="text-[13px] font-semibold leading-5 text-slate-900">{block.title}</div>
+            <div className="flex flex-wrap items-start justify-between gap-2">
+              <div className="text-[13px] font-semibold leading-5 text-slate-900">{title}</div>
+              <span
+                className={cn(
+                  'rounded-full px-2 py-0.5 text-[11px] font-semibold leading-4',
+                  effectiveConfirmed
+                    ? 'bg-teal-50 text-teal-700 ring-1 ring-teal-100'
+                    : 'bg-amber-50 text-amber-700 ring-1 ring-amber-100',
+                )}
+              >
+                {effectiveConfirmed ? confirmedStatusLabel : pendingStatusLabel}
+              </span>
+            </div>
             {block.description && (
               <div className="mt-0.5 text-[12px] leading-5 text-slate-500">{block.description}</div>
             )}
@@ -144,9 +198,21 @@ export function ProcessModalTrigger({
                 className="h-14 w-auto object-contain"
               />
               <div className="space-y-2 sm:text-center">
-                <h2 className="text-2xl font-semibold text-slate-950">
-                  {translatePage('processConfirm.title')}
-                </h2>
+                <div className="flex flex-col items-center gap-2">
+                  <h2 className="text-2xl font-semibold text-slate-950">
+                    {translatePage('processConfirm.title')}
+                  </h2>
+                  <span
+                    className={cn(
+                      'rounded-full px-3 py-1 text-xs font-semibold',
+                      effectiveConfirmed
+                        ? 'bg-teal-50 text-teal-700 ring-1 ring-teal-100'
+                        : 'bg-amber-50 text-amber-700 ring-1 ring-amber-100',
+                    )}
+                  >
+                    {effectiveConfirmed ? confirmedStatusLabel : pendingStatusLabel}
+                  </span>
+                </div>
                 <p className="text-sm leading-relaxed text-slate-500">
                   {translatePage('processConfirm.description')}
                 </p>
@@ -198,12 +264,16 @@ export function ProcessModalTrigger({
                 <Checkbox
                   checked={agreed}
                   onCheckedChange={(value) => setAgreed(value === true)}
+                  disabled={effectiveConfirmed || isConfirming}
                   className="mt-0.5 border-[#2E7BA8] data-[state=checked]:bg-[#2E7BA8] data-[state=checked]:text-white"
                 />
                 <span className="text-sm leading-snug text-slate-950">
                   {translatePage('processConfirm.agreement')}
                 </span>
               </label>
+              {confirmError ? (
+                <div className="text-sm text-rose-600">{confirmError}</div>
+              ) : null}
               <div className="flex w-full justify-end gap-3">
                 <Button type="button" variant="ghost" onClick={handleClose}>
                   {translatePage('processConfirm.cancel')}
@@ -211,14 +281,16 @@ export function ProcessModalTrigger({
                 <Button
                   type="button"
                   onClick={handleConfirm}
-                  disabled={!agreed || confirmed}
+                  disabled={!agreed || effectiveConfirmed || isConfirming}
                   size="lg"
                   className="min-w-44 bg-[#2E7BA8] text-white shadow-[0_8px_24px_-12px_rgba(46,123,168,0.18)] transition-all hover:bg-[#25698F]"
                 >
-                  {confirmed ? (
+                  {effectiveConfirmed ? (
                     <>
                       <Check className="h-4 w-4" /> {translatePage('processConfirm.confirmed')}
                     </>
+                  ) : isConfirming ? (
+                    translatePage('processConfirm.confirming')
                   ) : (
                     translatePage('processConfirm.confirm')
                   )}

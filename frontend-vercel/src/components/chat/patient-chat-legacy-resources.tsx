@@ -257,6 +257,7 @@ function UnknownResourceShell({ resource }: { resource: PatientChatbotHistoryRes
 function renderLegacyResource(
   resource: PatientChatbotHistoryResourceDescriptor,
   ctx: PatientEntryContextValue | undefined,
+  onConfirmProcessGuide?: () => Promise<void> | void,
 ): ReactNode {
   if (suppressedInlineResourceTypes.has(resource.resourceType)) {
     return null;
@@ -268,6 +269,7 @@ function renderLegacyResource(
       return block ? (
         <ProcessModalTrigger
           block={block}
+          onConfirm={onConfirmProcessGuide}
           historyResourceId={resource.resourceId}
           historyResourceStatus={resource.status}
         />
@@ -329,11 +331,13 @@ function renderLegacyResource(
 interface PatientChatLegacyResourcesProps {
   resources: PatientChatbotHistoryResourceDescriptor[];
   journeySnapshot?: PatientChatbotHistoryJourneySnapshot;
+  onConfirmProcessGuide?: () => Promise<void> | void;
 }
 
 export function PatientChatLegacyResources({
   resources,
   journeySnapshot,
+  onConfirmProcessGuide,
 }: PatientChatLegacyResourcesProps) {
   const ctx = useContext(PatientEntryContext);
   const visibleResources = resources.filter((resource) => !suppressedInlineResourceTypes.has(resource.resourceType));
@@ -350,7 +354,7 @@ export function PatientChatLegacyResources({
     >
       {visibleResources.map((resource) => (
         <div key={resource.resourceId}>
-          {renderLegacyResource(resource, ctx)}
+          {renderLegacyResource(resource, ctx, onConfirmProcessGuide)}
         </div>
       ))}
     </div>

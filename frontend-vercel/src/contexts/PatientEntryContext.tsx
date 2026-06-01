@@ -52,6 +52,7 @@ export interface PatientEntryContextValue {
   caseId: string | null;
   widgetChatTarget: AuthPatientProfile['widgetChatTarget'] | null;
   journeySnapshot: PatientSessionJourneySnapshot | null;
+  processConfirmed: boolean;
   chatbotV3Journey: ChatbotV3TurnViewModel['journey'];
   chatbotV3Handoff: ChatbotV3TurnViewModel['handoff'];
   chatbotV3Cards: ChatbotV3TurnViewModel['cards'];
@@ -65,8 +66,11 @@ export interface PatientEntryContextValue {
   questionnaireTemplateId: string | null;
   isQuestionnaireModalOpen: boolean;
   questionnaireHistoryRefreshNonce: number;
+  composerSelectedFiles: File[];
   openComposerAttachmentPicker: () => void;
   registerComposerAttachmentPicker: (opener: (() => void) | null) => void;
+  setComposerSelectedFiles: (updater: File[] | ((current: File[]) => File[])) => void;
+  removeComposerSelectedFile: (name: string) => void;
   openWidget: () => void;
   openWidgetModal: () => void;
   closeWidget: () => void;
@@ -87,6 +91,7 @@ export interface PatientEntryContextValue {
     source?: 'fresh' | 'history';
   }) => void;
   clearChatbotV3TurnState: () => void;
+  markProcessConfirmed: () => void;
   applyOnboardingResult: (input: {
     patientId: string;
     caseId: string;
@@ -320,6 +325,7 @@ export function PatientEntryProvider({ children }: { children: ReactNode }) {
   const [customHospitalRequest, setCustomHospitalRequestState] = useState('');
   const [widgetChatTarget, setWidgetChatTargetState] = useState<AuthPatientProfile['widgetChatTarget'] | null>(null);
   const [journeySnapshot, setJourneySnapshotState] = useState<PatientSessionJourneySnapshot | null>(null);
+  const [processConfirmed, setProcessConfirmedState] = useState(false);
   const [chatbotV3Journey, setChatbotV3JourneyState] = useState<ChatbotV3TurnViewModel['journey']>(null);
   const [chatbotV3Handoff, setChatbotV3HandoffState] = useState<ChatbotV3TurnViewModel['handoff']>(null);
   const [chatbotV3Cards, setChatbotV3CardsState] = useState<ChatbotV3TurnViewModel['cards']>([]);
@@ -330,6 +336,7 @@ export function PatientEntryProvider({ children }: { children: ReactNode }) {
   const [questionnaireTemplateId, setQuestionnaireTemplateId] = useState<string | null>(null);
   const [isQuestionnaireModalOpen, setIsQuestionnaireModalOpen] = useState(false);
   const [questionnaireHistoryRefreshNonce, setQuestionnaireHistoryRefreshNonce] = useState(0);
+  const [composerSelectedFiles, setComposerSelectedFilesState] = useState<File[]>([]);
   const lastAppliedRestoreKeyRef = useRef<string | null>(null);
   const composerAttachmentPickerOpenerRef = useRef<(() => void) | null>(null);
 
@@ -343,6 +350,7 @@ export function PatientEntryProvider({ children }: { children: ReactNode }) {
     setCanAutoMatchHospitals(false);
     setWidgetChatTargetState(null);
     setJourneySnapshotState(null);
+    setProcessConfirmedState(false);
     setChatbotV3JourneyState(null);
     setChatbotV3HandoffState(null);
     setChatbotV3CardsState([]);
@@ -388,6 +396,7 @@ export function PatientEntryProvider({ children }: { children: ReactNode }) {
     setActiveConversationIdState(activeConversationId);
     setCaseId(input.caseId);
     setJourneySnapshotState(input.journeySnapshot ?? null);
+    setProcessConfirmedState(patient?.chatbotOrchestrationState?.processExplained === true);
     setChatbotV3JourneyState(null);
     setChatbotV3HandoffState(null);
     setChatbotV3CardsState([]);
@@ -413,6 +422,7 @@ export function PatientEntryProvider({ children }: { children: ReactNode }) {
     clearBootstrapErrorMarker(input.patientId, input.caseId);
     setWidgetChatTargetState(input.widgetChatTarget ?? null);
     setJourneySnapshotState(input.journeySnapshot ?? null);
+    setProcessConfirmedState(patient?.chatbotOrchestrationState?.processExplained === true);
     setChatbotV3JourneyState(null);
     setChatbotV3HandoffState(null);
     setChatbotV3CardsState([]);
@@ -468,6 +478,7 @@ export function PatientEntryProvider({ children }: { children: ReactNode }) {
     setCaseId(input.caseId);
     setWidgetChatTargetState(input.widgetChatTarget ?? null);
     setJourneySnapshotState(input.journeySnapshot ?? null);
+    setProcessConfirmedState(patient?.chatbotOrchestrationState?.processExplained === true);
     setChatbotV3JourneyState(null);
     setChatbotV3HandoffState(null);
     setChatbotV3CardsState([]);
@@ -525,6 +536,7 @@ export function PatientEntryProvider({ children }: { children: ReactNode }) {
         setCustomHospitalRequestState('');
         setWidgetChatTargetState(null);
         setJourneySnapshotState(null);
+        setProcessConfirmedState(false);
         setChatbotV3JourneyState(null);
         setChatbotV3HandoffState(null);
         setChatbotV3CardsState([]);
@@ -623,6 +635,7 @@ export function PatientEntryProvider({ children }: { children: ReactNode }) {
     caseId,
     widgetChatTarget,
     journeySnapshot,
+    processConfirmed,
     chatbotV3Journey,
     chatbotV3Handoff,
     chatbotV3Cards,
@@ -633,11 +646,20 @@ export function PatientEntryProvider({ children }: { children: ReactNode }) {
     isPanelOpen,
     bootstrapError,
     activeConversationId,
+    composerSelectedFiles,
     openComposerAttachmentPicker: () => {
       composerAttachmentPickerOpenerRef.current?.();
     },
     registerComposerAttachmentPicker: (opener) => {
       composerAttachmentPickerOpenerRef.current = opener;
+    },
+    setComposerSelectedFiles: (updater) => {
+      setComposerSelectedFilesState((current) =>
+        typeof updater === 'function' ? updater(current) : updater,
+      );
+    },
+    removeComposerSelectedFile: (name) => {
+      setComposerSelectedFilesState((current) => current.filter((file) => file.name !== name));
     },
     openWidget: () => {
       setWidgetDisplayMode('panel');
@@ -701,6 +723,9 @@ export function PatientEntryProvider({ children }: { children: ReactNode }) {
       setChatbotV3HandoffState(null);
       setChatbotV3CardsState([]);
     },
+    markProcessConfirmed: () => {
+      setProcessConfirmedState(true);
+    },
     setBootstrapError: (message) => {
       if (scopedSession && message) {
         writeBootstrapErrorMarker(scopedSession.patientId, scopedSession.caseId, message);
@@ -715,6 +740,7 @@ export function PatientEntryProvider({ children }: { children: ReactNode }) {
       setCustomHospitalRequestState('');
       setWidgetChatTargetState(null);
       setJourneySnapshotState(null);
+      setProcessConfirmedState(false);
       setChatbotV3JourneyState(null);
       setChatbotV3HandoffState(null);
       setChatbotV3CardsState([]);
@@ -739,6 +765,7 @@ export function PatientEntryProvider({ children }: { children: ReactNode }) {
       setCustomHospitalRequestState('');
       setWidgetChatTargetState(null);
       setJourneySnapshotState(null);
+      setProcessConfirmedState(false);
       setChatbotV3JourneyState(null);
       setChatbotV3HandoffState(null);
       setChatbotV3CardsState([]);
@@ -815,7 +842,9 @@ export function PatientEntryProvider({ children }: { children: ReactNode }) {
     questionnaireTemplateId,
     isQuestionnaireModalOpen,
     questionnaireHistoryRefreshNonce,
+    composerSelectedFiles,
     journeySnapshot,
+    processConfirmed,
     chatbotV3Journey,
     chatbotV3Handoff,
     chatbotV3Cards,

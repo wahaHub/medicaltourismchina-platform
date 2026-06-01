@@ -40,6 +40,7 @@ export type CompactChatMessageMutation = {
 
 interface PatientChatMessageListProps {
   messages: CompactChatMessage[];
+  onConfirmProcessGuide?: () => Promise<void> | void;
 }
 
 function resolveCoveredResourceTypes(
@@ -167,7 +168,10 @@ function TypingDotsBubble() {
   );
 }
 
-export default function PatientChatMessageList({ messages }: PatientChatMessageListProps) {
+export default function PatientChatMessageList({
+  messages,
+  onConfirmProcessGuide,
+}: PatientChatMessageListProps) {
   const ctx = useContext(PatientEntryContext);
   const onSubmitHospitals = ctx?.submitHospitalSelection;
   const patientCaseId = ctx?.caseId ?? null;
@@ -250,6 +254,7 @@ export default function PatientChatMessageList({ messages }: PatientChatMessageL
               <PatientChatLegacyResources
                 resources={remainingAssistantResources}
                 journeySnapshot={message.journeySnapshot}
+                onConfirmProcessGuide={onConfirmProcessGuide}
               />
             ) : null}
             {shouldRenderBlocks ? (
@@ -257,6 +262,7 @@ export default function PatientChatMessageList({ messages }: PatientChatMessageL
                 blocks={effectiveBlocks}
                 onSubmitHospitals={onSubmitHospitals}
                 onOpenQuestionnaire={ctx?.requestQuestionnaireTemplate}
+                onConfirmProcessGuide={onConfirmProcessGuide}
                 onSubmitConsult={ctx ? (block) => ctx.requestConsultConversion(block) : undefined}
               />
             ) : null}

@@ -1,6 +1,7 @@
 import { beforeEach, describe, it, expect, vi } from 'vitest';
-import { render, screen, fireEvent } from '@testing-library/react';
+import { render, screen, fireEvent, waitFor } from '@testing-library/react';
 import { MemoryRouter } from 'react-router-dom';
+import { ChatMessageBlocks } from '../ChatMessageBlocks';
 import { ProcessModalTrigger } from '../blocks/ProcessModalTrigger';
 import { QuestionnaireModalTrigger } from '../blocks/QuestionnaireModalTrigger';
 import type { ProcessModalTriggerBlock, QuestionnaireModalTriggerBlock } from '../../../types/chatbot-blocks';
@@ -110,6 +111,24 @@ describe('ProcessModalTrigger', () => {
 
     fireEvent.click(confirmButton);
     expect(screen.getByRole('button', { name: /Confirmed/ }).hasAttribute('disabled')).toBe(true);
+  });
+
+  it('forwards process confirmation through chat message blocks', async () => {
+    const onConfirmProcessGuide = vi.fn().mockResolvedValue(undefined);
+
+    render(
+      <MemoryRouter>
+        <ChatMessageBlocks blocks={[processBlock]} onConfirmProcessGuide={onConfirmProcessGuide} />
+      </MemoryRouter>,
+    );
+
+    fireEvent.click(screen.getByRole('button', { name: 'Open process guide' }));
+    fireEvent.click(screen.getByRole('checkbox'));
+    fireEvent.click(screen.getByRole('button', { name: 'Confirm & Continue' }));
+
+    await waitFor(() => {
+      expect(onConfirmProcessGuide).toHaveBeenCalledTimes(1);
+    });
   });
 
   it('closes the process modal from the top close button and Escape key', () => {
