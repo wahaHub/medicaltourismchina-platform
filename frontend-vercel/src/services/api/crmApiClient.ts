@@ -280,6 +280,22 @@ export type PatientSessionProfile = {
   chatbotOrchestrationState?: PatientSessionChatbotOrchestrationState;
 };
 
+export type PatientSessionProfileUpdate = Partial<Pick<
+  PatientSessionProfile,
+  | 'name'
+  | 'phone'
+  | 'age'
+  | 'gender'
+  | 'country'
+  | 'whatsapp'
+  | 'messenger'
+  | 'department'
+  | 'departmentCode'
+  | 'disease'
+  | 'destination'
+  | 'treatmentTime'
+>>;
+
 export type VerifyTokenResponse = PatientSessionProfile & {
   patientId: string;
   caseId: string;
@@ -292,6 +308,11 @@ export type PatientPasswordLoginResponse = VerifyTokenResponse;
 
 export const crmApi = {
   getMe: () => crmApiRequest<PatientSessionProfile>('/me'),
+  updateMe: (profile: PatientSessionProfileUpdate) =>
+    crmApiRequest<PatientSessionProfile>('/me', {
+      method: 'PATCH',
+      body: JSON.stringify(profile),
+    }),
   restoreSession: (restoreToken: string) =>
     crmApiRequest<VerifyTokenResponse>('/session/restore', {
       method: 'POST',

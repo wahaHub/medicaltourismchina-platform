@@ -14,6 +14,7 @@ import { useLanguage } from '@/contexts/LanguageContext';
 import { usePatientAuth } from '@/hooks/usePatientAuth';
 import { usePatientDashboardHome } from '@/hooks/usePatientDashboard';
 import { departmentApi } from '@/services/api/department';
+import { crmApi, type PatientSessionProfileUpdate } from '@/services/api/crmApiClient';
 import type { Department } from '@/types';
 import {
   createChatWidgetTranslator,
@@ -170,14 +171,23 @@ function EditableIntakeDetail({
 
     return (
       <div className="rounded-xl bg-slate-50 px-3 py-3">
-        <label className="text-[11px] font-semibold uppercase tracking-[0.14em] text-slate-500" htmlFor={`patient-summary-${detail.key}`}>
-          {detail.label}
-        </label>
+        <div className="flex items-center justify-between gap-2">
+          <label className="text-[11px] font-semibold uppercase tracking-[0.14em] text-slate-500" htmlFor={`patient-summary-${detail.key}`}>
+            {detail.label}
+          </label>
+          {isSaving && (
+            <span className="inline-flex items-center gap-1 text-xs font-medium text-teal-700">
+              <Loader2 className="h-3.5 w-3.5 animate-spin" />
+              保存中
+            </span>
+          )}
+        </div>
         <input
           id={`patient-summary-${detail.key}`}
           aria-label={detail.label}
           className="mt-2 h-9 w-full rounded-lg border border-teal-200 bg-white px-3 text-sm font-medium text-slate-900 outline-none ring-2 ring-teal-100"
           value={draftValue}
+          disabled={isSaving}
           onChange={(event) => onDraftChange(event.target.value)}
           onBlur={onCommit}
           onKeyDown={(event) => {
@@ -232,13 +242,14 @@ function EditableIntakeDetail({
 
 export default function HomePage({ onNavigateTab }: HomePageProps) {
   const { currentLanguage } = useLanguage();
-  const { patient } = usePatientAuth();
+  const { patient, refreshPatientSession } = usePatientAuth();
   const { data, isLoading, error } = usePatientDashboardHome();
   const [currentCaseOpen, setCurrentCaseOpen] = useState(false);
   const [editedIntakeDetails, setEditedIntakeDetails] = useState<Record<string, string>>({});
   const [editingIntakeKey, setEditingIntakeKey] = useState<string | null>(null);
   const [editingDraft, setEditingDraft] = useState('');
   const [savingIntakeKey, setSavingIntakeKey] = useState<string | null>(null);
+  const [saveError, setSaveError] = useState<string | null>(null);
   const [departments, setDepartments] = useState<Department[]>([]);
   const [isLoadingDepartments, setIsLoadingDepartments] = useState(false);
   const [departmentsLoadFailed, setDepartmentsLoadFailed] = useState(false);
@@ -371,10 +382,11 @@ export default function HomePage({ onNavigateTab }: HomePageProps) {
     {
       key: 'gender',
       label: translate('chatWidget.form.gender'),
-      value: genderLabel || patient?.gender,
+      value: patient?.gender,
       editable: true,
       kind: 'select',
       options: [...genderOptions],
+      displayValue: genderLabel,
     },
     {
       key: 'country',
@@ -398,7 +410,7 @@ export default function HomePage({ onNavigateTab }: HomePageProps) {
       editable: true,
     },
     {
-      key: 'department',
+      key: 'departmentCode',
       label: translate('chatWidget.form.department'),
       value: patient?.departmentCode || patient?.department,
       editable: true,
@@ -438,21 +450,31 @@ export default function HomePage({ onNavigateTab }: HomePageProps) {
     setEditingDraft(editedIntakeDetails[detail.key] ?? detail.value ?? '');
   };
 
-  const saveIntakeDetail = (key: string, value: string) => {
+  const saveIntakeDetail = async (key: string, value: string) => {
+    const nextValue = value.trim();
+    setSaveError(null);
+    setSavingIntakeKey(key);
+
+    try {
+      await crmApi.updateMe({ [key]: nextValue } as PatientSessionProfileUpdate);
+      await refreshPatientSession();
+    } catch (saveProfileError) {
+      setSaveError(saveProfileError instanceof Error ? saveProfileError.message : '保存失败，请稍后再试。');
+      setSavingIntakeKey(null);
+      return;
+    }
+
     setEditedIntakeDetails((current) => ({
       ...current,
-      [key]: value.trim(),
+      [key]: nextValue,
     }));
     setEditingIntakeKey(null);
-    setSavingIntakeKey(key);
-    window.setTimeout(() => {
-      setSavingIntakeKey((current) => (current === key ? null : current));
-    }, 250);
+    setSavingIntakeKey(null);
   };
 
   const commitEditingIntakeDetail = () => {
     if (!editingIntakeKey) return;
-    saveIntakeDetail(editingIntakeKey, editingDraft);
+    void saveIntakeDetail(editingIntakeKey, editingDraft);
   };
 
   const cancelEditingIntakeDetail = () => {
@@ -526,6 +548,11 @@ export default function HomePage({ onNavigateTab }: HomePageProps) {
             <CardDescription>右下角建档表单里提交的信息。</CardDescription>
           </CardHeader>
           <CardContent className="grid gap-2 sm:grid-cols-2">
+            {saveError && (
+              <div className="rounded-xl border border-rose-200 bg-rose-50 px-3 py-2 text-sm text-rose-700 sm:col-span-2">
+                {saveError}
+              </div>
+            )}
             {intakeDetails.map((detail) => (
               <EditableIntakeDetail
                 key={detail.key}
@@ -538,7 +565,7 @@ export default function HomePage({ onNavigateTab }: HomePageProps) {
                 onDraftChange={setEditingDraft}
                 onCommit={commitEditingIntakeDetail}
                 onCancel={cancelEditingIntakeDetail}
-                onSave={(value) => saveIntakeDetail(detail.key, value)}
+                onSave={(value) => void saveIntakeDetail(detail.key, value)}
               />
             ))}
           </CardContent>

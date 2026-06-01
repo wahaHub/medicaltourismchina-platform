@@ -3,6 +3,11 @@ import userEvent from '@testing-library/user-event';
 import { render, screen, waitFor } from '@testing-library/react';
 import HomePage from '../HomePage';
 
+const { mockRefreshPatientSession, mockUpdateMe } = vi.hoisted(() => ({
+  mockRefreshPatientSession: vi.fn(),
+  mockUpdateMe: vi.fn(),
+}));
+
 vi.mock('@/services/api/department', () => ({
   departmentApi: {
     getDept: vi.fn().mockResolvedValue({
@@ -38,7 +43,14 @@ vi.mock('@/hooks/usePatientAuth', () => ({
       destination: '深圳, 广州',
       treatmentTime: '1-3个月',
     },
+    refreshPatientSession: mockRefreshPatientSession,
   }),
+}));
+
+vi.mock('@/services/api/crmApiClient', () => ({
+  crmApi: {
+    updateMe: mockUpdateMe,
+  },
 }));
 
 vi.mock('@/hooks/usePatientDashboard', () => ({
@@ -86,6 +98,13 @@ vi.mock('../CurrentCaseModal', () => ({
 }));
 
 describe('HomePage', () => {
+  beforeEach(() => {
+    mockRefreshPatientSession.mockReset();
+    mockRefreshPatientSession.mockResolvedValue({});
+    mockUpdateMe.mockReset();
+    mockUpdateMe.mockResolvedValue({});
+  });
+
   it('shows patient intake details instead of case, quote, ticket, and order counters', () => {
     render(<HomePage />);
 
@@ -106,6 +125,10 @@ describe('HomePage', () => {
 
   it('localizes age and lets intake fields be edited while email remains locked', async () => {
     const user = userEvent.setup();
+    let resolveUpdate: (value: unknown) => void = () => {};
+    mockUpdateMe.mockReturnValue(new Promise((resolve) => {
+      resolveUpdate = resolve;
+    }));
     render(<HomePage />);
 
     expect(screen.queryByText('chatWidget.form.age')).toBeNull();
@@ -118,6 +141,13 @@ describe('HomePage', () => {
     await user.keyboard('{Enter}');
 
     expect(screen.getByText('保存中')).toBeTruthy();
+    await waitFor(() => {
+      expect(mockUpdateMe).toHaveBeenCalledWith({ phone: '+86 139 1111 2222' });
+    });
+    resolveUpdate({});
+    await waitFor(() => {
+      expect(mockRefreshPatientSession).toHaveBeenCalled();
+    });
     await waitFor(() => {
       expect(screen.getByText('+86 139 1111 2222')).toBeTruthy();
     });
