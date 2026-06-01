@@ -1,6 +1,5 @@
 import { useMemo, useState } from 'react';
-import { AlertTriangle, RefreshCcw, ShoppingBag } from 'lucide-react';
-import { useNavigate } from 'react-router-dom';
+import { AlertTriangle, RefreshCcw } from 'lucide-react';
 import { toast } from '@/hooks/use-toast';
 import { Button } from '@/components/ui/button';
 import { ScrollArea } from '@/components/ui/scroll-area';
@@ -48,7 +47,6 @@ function getSenderLabel(
 }
 
 export default function ConversationThread({ conversation }: ConversationThreadProps) {
-  const navigate = useNavigate();
   const [draft, setDraft] = useState('');
   const [failedDraft, setFailedDraft] = useState<{ content: string; error: string } | null>(null);
   const { detail, detailLoading, detailError, refreshActiveSession } = usePatientSessionRuntime();
@@ -108,15 +106,6 @@ export default function ConversationThread({ conversation }: ConversationThreadP
                 ? 'Coordinate next steps with Medora AI and the Medora care team.'
                 : 'Discuss case updates directly with this hospital.'}
             </div>
-          </div>
-          <div className="flex flex-wrap gap-2">
-            <Button variant="outline" size="sm" onClick={() => navigate('/packages')}>
-              <ShoppingBag className="mr-1.5 h-3.5 w-3.5" />
-              Browse Packages
-            </Button>
-            <Button variant="outline" size="sm" onClick={() => navigate('/dashboard?tab=orders')}>
-              View Orders
-            </Button>
           </div>
         </div>
       </div>

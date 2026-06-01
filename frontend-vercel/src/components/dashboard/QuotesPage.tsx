@@ -78,9 +78,6 @@ export default function QuotesPage() {
             Quotes will appear here after the widget finishes onboarding and the care team responds in messages.
           </CardDescription>
         </CardHeader>
-        <CardContent className="rounded-2xl bg-slate-50 px-4 py-4 text-sm text-slate-600">
-          Return to Messages in the widget to keep the case moving.
-        </CardContent>
       </Card>
     );
   }

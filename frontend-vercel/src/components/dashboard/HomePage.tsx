@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { ArrowRight, ChevronDown, Eye, LifeBuoy, Loader2, MessageSquareMore, Route, ShoppingBag, Sparkles } from 'lucide-react';
+import { ArrowRight, ChevronDown, Eye, LifeBuoy, Loader2, MessageSquareMore, Sparkles } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
@@ -571,47 +571,6 @@ export default function HomePage({ onNavigateTab }: HomePageProps) {
           </CardContent>
         </Card>
 
-        <Card className="border-0 shadow-lg">
-          <CardHeader>
-            <CardTitle className="text-lg">{translate('dashboard.home.nextStep')}</CardTitle>
-            <CardDescription>{translate('dashboard.home.phase2')}</CardDescription>
-          </CardHeader>
-          <CardContent className="grid gap-3">
-            <button
-              type="button"
-              className="flex items-center justify-between rounded-2xl border border-slate-200 bg-slate-50 px-4 py-4 text-left transition-colors hover:border-teal-300 hover:bg-white"
-              onClick={() => onNavigateTab?.('tickets', { compose: '1' })}
-            >
-              <div>
-                <div className="text-sm font-semibold text-slate-900">{translate('dashboard.home.createSupportTicket')}</div>
-                <div className="mt-1 text-sm text-slate-600">{translate('dashboard.home.createSupportTicketDesc')}</div>
-              </div>
-              <LifeBuoy className="h-5 w-5 text-teal-600" />
-            </button>
-            <button
-              type="button"
-              className="flex items-center justify-between rounded-2xl border border-slate-200 bg-slate-50 px-4 py-4 text-left transition-colors hover:border-teal-300 hover:bg-white"
-              onClick={() => onNavigateTab?.('orders')}
-            >
-              <div>
-                <div className="text-sm font-semibold text-slate-900">{translate('dashboard.home.reviewPackageOrders')}</div>
-                <div className="mt-1 text-sm text-slate-600">{translate('dashboard.home.reviewPackageOrdersDesc')}</div>
-              </div>
-              <ShoppingBag className="h-5 w-5 text-teal-600" />
-            </button>
-            <button
-              type="button"
-              className="flex items-center justify-between rounded-2xl border border-slate-200 bg-slate-50 px-4 py-4 text-left transition-colors hover:border-teal-300 hover:bg-white"
-              onClick={() => onNavigateTab?.('journey', { caseId: data.activeCase.id })}
-            >
-              <div>
-                <div className="text-sm font-semibold text-slate-900">{translate('dashboard.home.checkJourneyUpdates')}</div>
-                <div className="mt-1 text-sm text-slate-600">{translate('dashboard.home.checkJourneyUpdatesDesc')}</div>
-              </div>
-              <Route className="h-5 w-5 text-teal-600" />
-            </button>
-          </CardContent>
-        </Card>
       </div>
       <CurrentCaseModal
         caseItem={data.activeCase}
