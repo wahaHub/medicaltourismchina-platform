@@ -147,7 +147,7 @@ describe('PatientChatMessageList — rich blocks', () => {
       makeMessage({ id: 'typing', content: '', senderType: 'ai', messageState: 'typing' }),
     ]} />);
 
-    expect(screen.getByText('AI Bot')).toBeTruthy();
+    expect(screen.getByText('Medora')).toBeTruthy();
     expect(screen.getByTestId('assistant-typing-bubble')).toBeTruthy();
     expect(screen.getAllByTestId(/assistant-typing-dot-/)).toHaveLength(3);
   });
@@ -417,6 +417,6 @@ describe('PatientChatMessageList — rich blocks', () => {
 
     expect(screen.getByText('report.pdf')).toBeTruthy();
     expect(screen.getByText('scan.jpg')).toBeTruthy();
-    expect(screen.getAllByText('Upload syncing')).toHaveLength(2);
+    expect(screen.getAllByText('Uploading')).toHaveLength(2);
   });
 });

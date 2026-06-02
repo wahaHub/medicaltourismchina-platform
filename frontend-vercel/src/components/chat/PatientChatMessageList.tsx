@@ -121,12 +121,13 @@ function shouldSuppressAssistantContent(message: CompactChatMessage, visibleAssi
 
 function resolveSenderLabel(message: CompactChatMessage): string | null {
   if (message.senderLabel && message.senderLabel.trim().length > 0) {
-    return message.senderLabel.trim();
+    const senderLabel = message.senderLabel.trim();
+    return /\bAI\b|bot/i.test(senderLabel) ? 'Medora' : senderLabel;
   }
 
   switch (message.senderType) {
     case 'ai':
-      return 'AI Bot';
+      return 'Medora';
     case 'admin':
       return 'Care Team';
     case 'hospital':
@@ -135,7 +136,7 @@ function resolveSenderLabel(message: CompactChatMessage): string | null {
       return 'System';
     default:
       return message.role === 'assistant'
-        ? 'AI Bot'
+        ? 'Medora'
         : message.role === 'system-ui'
           ? 'System'
           : null;
@@ -180,7 +181,7 @@ function resolveAttachmentStatus(messageState: CompactChatMessageState | undefin
   }
 
   if (!hasUrl) {
-    return 'uploaded';
+    return 'uploading';
   }
 
   return null;
