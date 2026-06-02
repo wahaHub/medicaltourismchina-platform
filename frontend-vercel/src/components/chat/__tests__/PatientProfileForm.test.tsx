@@ -191,6 +191,17 @@ describe('PatientProfileForm', () => {
     expect(patchProfileDraft).toHaveBeenCalledWith({ destination: 'Shanghai, Beijing' });
   });
 
+  it('lets patients close the destination menu after choosing destinations', () => {
+    render(<PatientProfileForm />);
+
+    fireEvent.pointerDown(screen.getByRole('button', { name: 'Destination' }));
+    expect(screen.getByRole('menuitemcheckbox', { name: 'Shanghai' })).toBeDefined();
+
+    fireEvent.click(screen.getByRole('button', { name: 'Done' }));
+
+    expect(screen.queryByRole('menuitemcheckbox', { name: 'Shanghai' })).toBeNull();
+  });
+
   it('clears concrete destinations when no preference is selected', () => {
     const patchProfileDraft = vi.fn();
     vi.mocked(usePatientEntry).mockReturnValue({

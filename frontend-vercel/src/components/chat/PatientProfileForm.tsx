@@ -6,6 +6,7 @@ import {
   DropdownMenu,
   DropdownMenuCheckboxItem,
   DropdownMenuContent,
+  DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from '@/components/ui/dropdown-menu';
 import { Input } from '@/components/ui/input';
@@ -82,6 +83,7 @@ export default function PatientProfileForm() {
   const [departments, setDepartments] = useState<Department[]>([]);
   const [isLoadingDepartments, setIsLoadingDepartments] = useState(false);
   const [departmentsLoadFailed, setDepartmentsLoadFailed] = useState(false);
+  const [isDestinationMenuOpen, setIsDestinationMenuOpen] = useState(false);
   const translate = createChatWidgetTranslator(currentLanguage.code);
   const genderOptions = getGenderOptions(translate);
   const countryOptions = getCountryOptions(translate);
@@ -356,7 +358,7 @@ export default function PatientProfileForm() {
         </div>
         <div className="space-y-1.5 sm:col-span-2">
           <Label htmlFor="patient-destination">{translate('chatWidget.form.destination')}</Label>
-          <DropdownMenu>
+          <DropdownMenu open={isDestinationMenuOpen} onOpenChange={setIsDestinationMenuOpen}>
             <DropdownMenuTrigger asChild>
               <Button
                 id="patient-destination"
@@ -384,6 +386,15 @@ export default function PatientProfileForm() {
                   {destination.label}
                 </DropdownMenuCheckboxItem>
               ))}
+              <DropdownMenuSeparator />
+              <Button
+                type="button"
+                variant="ghost"
+                className="mt-1 h-9 w-full rounded-xl text-sm font-medium text-teal-700 hover:bg-teal-50 hover:text-teal-800"
+                onClick={() => setIsDestinationMenuOpen(false)}
+              >
+                {translate('chatWidget.form.destinationDone')}
+              </Button>
             </DropdownMenuContent>
           </DropdownMenu>
         </div>

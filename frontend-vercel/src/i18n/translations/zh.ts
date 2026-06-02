@@ -2349,6 +2349,7 @@ export const zh = {
   'chatWidget.form.destination.shenzhen': '深圳',
   'chatWidget.form.destination.hongKong': '香港',
   'chatWidget.form.destination.noPreference': '暂无偏好',
+  'chatWidget.form.destinationDone': '完成',
   'chatWidget.form.treatmentTime': '治疗时间',
   'chatWidget.form.treatmentTimePlaceholder': '请选择治疗时间',
   'chatWidget.form.treatmentTime.asap': '尽快',
