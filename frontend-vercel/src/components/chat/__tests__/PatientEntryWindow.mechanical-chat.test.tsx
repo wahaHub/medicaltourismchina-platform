@@ -383,7 +383,7 @@ describe('PatientEntryWindow mechanical chat', () => {
     expect(screen.getByRole('button', { name: '修改病情表' })).toBeDefined();
   });
 
-  it('opens the attachment picker for medical-record uploads without completing when no file is selected', async () => {
+  it('opens the attachment picker and restores the action bar without completing when no file is selected', async () => {
     const openComposerAttachmentPicker = vi.fn();
     vi.mocked(usePatientEntry).mockReturnValue(buildPatientEntryState({
       openComposerAttachmentPicker,
@@ -406,7 +406,7 @@ describe('PatientEntryWindow mechanical chat', () => {
     expect(openComposerAttachmentPicker).toHaveBeenCalledTimes(1);
     expect(screen.queryByText('您的医疗资料已上传到您的 Medora case。')).toBeNull();
     expect(screen.queryByText('已完成')).toBeNull();
-    expect(screen.queryByRole('button', { name: '上传医疗资料' })).toBeNull();
+    expect(screen.getByRole('button', { name: '上传医疗资料' })).toBeDefined();
   });
 
   it('does not claim handoff completed while backend handoff action is not wired', () => {

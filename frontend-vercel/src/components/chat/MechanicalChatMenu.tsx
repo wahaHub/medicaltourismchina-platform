@@ -1,48 +1,29 @@
-import { useEffect, useMemo, useRef, useState, type ComponentType, type ReactNode } from 'react';
+import { useEffect, useMemo, useReducer, useRef, type ComponentType, type ReactNode } from 'react';
 import { CheckCircle2, ClipboardList, FileUp, Handshake, Route } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { ProcessModalTrigger } from './blocks/ProcessModalTrigger';
 import { QuestionnaireModalTrigger } from './blocks/QuestionnaireModalTrigger';
 import { createChatWidgetTranslator, type ChatWidgetTranslate } from './chat-widget-i18n';
-
-type MechanicalActionKey =
-  | 'PROCESS_GUIDE'
-  | 'MEDICAL_RECORDS'
-  | 'ADVISOR_HANDOFF'
-  | 'QUESTIONNAIRE';
-
-type MechanicalTurnStatus = 'selected' | 'completed' | 'unconfirmed';
-
-type MechanicalTurn = {
-  id: string;
-  actionKey: MechanicalActionKey;
-  status: MechanicalTurnStatus;
-  requiresProcessFirst: boolean;
-  processConfirmed: boolean;
-  repeat: boolean;
-  questionnaireRefreshNonce?: number;
-};
+import {
+  createInitialMechanicalChatState,
+  isMechanicalActionBarVisible,
+  mechanicalChatReducer,
+  requiresProcess,
+  type MechanicalActionKey,
+  type MechanicalTurn,
+} from './mechanical-chat-state-machine';
 
 type MechanicalChatMenuProps = {
   caseId: string | null;
   processConfirmed?: boolean;
   questionnaireHistoryRefreshNonce?: number;
   medicalRecordsUploadCompletionNonce?: number;
+  medicalRecordsUploadFailureNonce?: number;
   onConfirmProcessGuide?: () => Promise<void> | void;
   onOpenQuestionnaire?: (templateId: string) => Promise<void> | void;
   onOpenMedicalRecordsUpload?: () => void;
 };
-
-function createTurnId(actionKey: MechanicalActionKey): string {
-  return `mechanical:${actionKey}:${Date.now()}:${Math.random().toString(36).slice(2, 8)}`;
-}
-
-function requiresProcess(actionKey: MechanicalActionKey): boolean {
-  return actionKey === 'MEDICAL_RECORDS'
-    || actionKey === 'ADVISOR_HANDOFF'
-    || actionKey === 'QUESTIONNAIRE';
-}
 
 function getPreMessage(actionKey: MechanicalActionKey, input: {
   processConfirmed: boolean;
@@ -165,6 +146,7 @@ export default function MechanicalChatMenu({
   processConfirmed = false,
   questionnaireHistoryRefreshNonce = 0,
   medicalRecordsUploadCompletionNonce = 0,
+  medicalRecordsUploadFailureNonce = 0,
   onConfirmProcessGuide,
   onOpenQuestionnaire,
   onOpenMedicalRecordsUpload,
@@ -174,14 +156,10 @@ export default function MechanicalChatMenu({
     () => createChatWidgetTranslator(currentLanguage.code),
     [currentLanguage.code],
   );
-  const [optimisticProcessConfirmed, setOptimisticProcessConfirmed] = useState(false);
-  const [questionnaireBefore, setQuestionnaireBefore] = useState(false);
-  const [advisorCompleted, setAdvisorCompleted] = useState(false);
-  const [turns, setTurns] = useState<MechanicalTurn[]>([]);
-  const effectiveProcessConfirmed = processConfirmed || optimisticProcessConfirmed;
-  const activeTurn = turns.find((turn) => turn.status === 'selected') ?? null;
-  const completeActionRef = useRef<(turn: MechanicalTurn) => void>(() => {});
+  const [state, dispatch] = useReducer(mechanicalChatReducer, undefined, createInitialMechanicalChatState);
+  const effectiveProcessConfirmed = processConfirmed || state.optimisticProcessConfirmed;
   const lastMedicalRecordsUploadCompletionNonceRef = useRef(medicalRecordsUploadCompletionNonce);
+  const lastMedicalRecordsUploadFailureNonceRef = useRef(medicalRecordsUploadFailureNonce);
 
   const actions = useMemo(() => {
     const next: Array<{ key: MechanicalActionKey; label: string; icon: ComponentType<{ className?: string }> }> = [];
@@ -192,74 +170,41 @@ export default function MechanicalChatMenu({
 
     next.push({ key: 'MEDICAL_RECORDS', label: translate('chatWidget.mechanical.action.medicalRecords'), icon: FileUp });
 
-    if (!advisorCompleted) {
+    if (!state.advisorCompleted) {
       next.push({ key: 'ADVISOR_HANDOFF', label: translate('chatWidget.mechanical.action.advisor'), icon: Handshake });
     }
 
     next.push({
       key: 'QUESTIONNAIRE',
-      label: questionnaireBefore
+      label: state.questionnaireBefore
         ? translate('chatWidget.mechanical.action.questionnaireRepeat')
         : translate('chatWidget.mechanical.action.questionnaire'),
       icon: ClipboardList,
     });
 
     return next;
-  }, [advisorCompleted, effectiveProcessConfirmed, questionnaireBefore, translate]);
+  }, [effectiveProcessConfirmed, state.advisorCompleted, state.questionnaireBefore, translate]);
 
   const selectAction = (actionKey: MechanicalActionKey) => {
-    setTurns((current) => [
-      ...current,
-      {
-        id: createTurnId(actionKey),
-        actionKey,
-        status: 'selected',
-        requiresProcessFirst: requiresProcess(actionKey) && !effectiveProcessConfirmed,
-        processConfirmed: effectiveProcessConfirmed,
-        repeat: actionKey === 'QUESTIONNAIRE'
-            ? questionnaireBefore
-            : false,
-      },
-    ]);
-  };
-
-  const completeTurn = (turnId: string) => {
-    setTurns((current) => current.map((turn) => (
-      turn.id === turnId ? { ...turn, status: 'completed', processConfirmed: true } : turn
-    )));
+    dispatch({
+      type: 'ACTION_SELECTED',
+      actionKey,
+      processConfirmed: effectiveProcessConfirmed,
+      repeat: state.questionnaireBefore,
+    });
   };
 
   const continueAfterProcess = async (turn: MechanicalTurn) => {
     await onConfirmProcessGuide?.();
-    setOptimisticProcessConfirmed(true);
-
-    if (turn.actionKey === 'PROCESS_GUIDE') {
-      completeTurn(turn.id);
-      return;
-    }
-
-    setTurns((current) => current.map((item) => (
-      item.id === turn.id
-        ? { ...item, requiresProcessFirst: false, processConfirmed: true }
-        : item
-    )));
+    dispatch({ type: 'PROCESS_CONFIRMED', turnId: turn.id });
   };
 
   const completeAction = (turn: MechanicalTurn) => {
-    if (turn.actionKey === 'ADVISOR_HANDOFF') {
-      setAdvisorCompleted(true);
-    }
-
-    if (turn.actionKey === 'QUESTIONNAIRE') {
-      setQuestionnaireBefore(true);
-    }
-
-    completeTurn(turn.id);
+    dispatch({ type: 'ADVISOR_CONFIRMED', turnId: turn.id });
   };
-  completeActionRef.current = completeAction;
 
   useEffect(() => {
-    const selectedQuestionnaireTurn = turns.find((turn) =>
+    const selectedQuestionnaireTurn = state.turns.find((turn) =>
       turn.status === 'selected'
       && turn.actionKey === 'QUESTIONNAIRE'
       && turn.questionnaireRefreshNonce !== undefined
@@ -270,8 +215,8 @@ export default function MechanicalChatMenu({
       return;
     }
 
-    completeActionRef.current(selectedQuestionnaireTurn);
-  }, [questionnaireHistoryRefreshNonce, turns]);
+    dispatch({ type: 'QUESTIONNAIRE_SUBMITTED' });
+  }, [questionnaireHistoryRefreshNonce, state.turns]);
 
   useEffect(() => {
     if (medicalRecordsUploadCompletionNonce <= lastMedicalRecordsUploadCompletionNonceRef.current) {
@@ -279,18 +224,17 @@ export default function MechanicalChatMenu({
     }
 
     lastMedicalRecordsUploadCompletionNonceRef.current = medicalRecordsUploadCompletionNonce;
-    const selectedUploadTurn = turns.find((turn) =>
-      turn.status === 'selected'
-      && turn.actionKey === 'MEDICAL_RECORDS'
-      && !turn.requiresProcessFirst
-    );
+    dispatch({ type: 'UPLOAD_SUCCEEDED' });
+  }, [medicalRecordsUploadCompletionNonce]);
 
-    if (!selectedUploadTurn) {
+  useEffect(() => {
+    if (medicalRecordsUploadFailureNonce <= lastMedicalRecordsUploadFailureNonceRef.current) {
       return;
     }
 
-    completeActionRef.current(selectedUploadTurn);
-  }, [medicalRecordsUploadCompletionNonce, turns]);
+    lastMedicalRecordsUploadFailureNonceRef.current = medicalRecordsUploadFailureNonce;
+    dispatch({ type: 'UPLOAD_FAILED' });
+  }, [medicalRecordsUploadFailureNonce]);
 
   const renderTurnAction = (turn: MechanicalTurn) => {
     if (turn.requiresProcessFirst) {
@@ -306,9 +250,7 @@ export default function MechanicalChatMenu({
           }}
           onConfirm={() => continueAfterProcess(turn)}
           onDismissUnconfirmed={() => {
-            setTurns((current) => current.map((item) => (
-              item.id === turn.id ? { ...item, status: 'unconfirmed' } : item
-            )));
+            dispatch({ type: 'PROCESS_DISMISSED', turnId: turn.id });
           }}
         />
       );
@@ -327,16 +269,22 @@ export default function MechanicalChatMenu({
           }}
           onConfirm={() => continueAfterProcess(turn)}
           onDismissUnconfirmed={() => {
-            setTurns((current) => current.map((item) => (
-              item.id === turn.id ? { ...item, status: 'unconfirmed' } : item
-            )));
+            dispatch({ type: 'PROCESS_DISMISSED', turnId: turn.id });
           }}
         />
       );
     }
 
     if (turn.actionKey === 'MEDICAL_RECORDS') {
-      return <UploadActionCard translate={translate} onOpenUpload={onOpenMedicalRecordsUpload} />;
+      return (
+        <UploadActionCard
+          translate={translate}
+          onOpenUpload={() => {
+            dispatch({ type: 'UPLOAD_PICKER_OPENED' });
+            onOpenMedicalRecordsUpload?.();
+          }}
+        />
+      );
     }
 
     if (turn.actionKey === 'ADVISOR_HANDOFF') {
@@ -359,11 +307,11 @@ export default function MechanicalChatMenu({
         }}
         onOpen={(templateId) => {
           void onOpenQuestionnaire?.(templateId);
-          setTurns((current) => current.map((item) => (
-            item.id === turn.id
-              ? { ...item, questionnaireRefreshNonce: questionnaireHistoryRefreshNonce }
-              : item
-          )));
+          dispatch({
+            type: 'QUESTIONNAIRE_OPENED',
+            turnId: turn.id,
+            questionnaireRefreshNonce: questionnaireHistoryRefreshNonce,
+          });
         }}
       />
     );
@@ -373,7 +321,7 @@ export default function MechanicalChatMenu({
     <div className="space-y-4" data-testid="mechanical-chat-menu">
       <AssistantBubble>{translate('chatWidget.mechanical.intro')}</AssistantBubble>
 
-      {turns.map((turn) => (
+      {state.turns.map((turn) => (
         <div key={turn.id} className="space-y-3">
           <AssistantBubble>
             {getPreMessage(turn.actionKey, {
@@ -382,7 +330,7 @@ export default function MechanicalChatMenu({
               translate,
             })}
           </AssistantBubble>
-          {renderTurnAction(turn)}
+          {turn.status === 'selected' ? renderTurnAction(turn) : null}
           {turn.status === 'completed' ? (
             <AssistantBubble>
               {getPostMessage(turn.actionKey, turn.repeat, translate)}
@@ -394,10 +342,15 @@ export default function MechanicalChatMenu({
               {translate('chatWidget.mechanical.unconfirmed')}
             </AssistantBubble>
           ) : null}
+          {turn.status === 'failed' ? (
+            <AssistantBubble>
+              {translate('chatWidget.mechanical.upload.failedMessage')}
+            </AssistantBubble>
+          ) : null}
         </div>
       ))}
 
-      {!activeTurn ? (
+      {isMechanicalActionBarVisible(state) ? (
         <div className="sticky bottom-0 z-10 rounded-2xl border border-slate-200 bg-white/95 p-2 shadow-[0_12px_30px_rgba(15,23,42,0.10)] backdrop-blur" data-testid="mechanical-action-bar">
           <div className="grid grid-cols-2 gap-2">
             {actions.map((action) => {

@@ -1,8 +1,9 @@
 import { useContext } from 'react';
-import { BotMessageSquare, FileText, Image as ImageIcon } from 'lucide-react';
+import { AlertCircle, BotMessageSquare, CheckCircle2, FileText, Image as ImageIcon, Loader2 } from 'lucide-react';
 import type { ChatbotMessageBlock } from '../../types/chatbot-blocks';
 import { ChatMessageBlocks } from './ChatMessageBlocks';
 import { PatientEntryContext } from '@/contexts/PatientEntryContext';
+import { useLanguage } from '@/contexts/LanguageContext';
 import type {
   PatientChatbotHistoryJourneySnapshot,
   PatientChatbotHistoryResourceDescriptor,
@@ -11,6 +12,7 @@ import type { PatientMessageAttachment } from '@/services/api/patient-messages';
 import type { ChatbotV3TurnViewModel } from '@/services/chatbot-v3-normalizer';
 import { buildChatbotBlocksFromV3Turn } from './chatbot-v3-blocks';
 import { PatientChatLegacyResources } from './patient-chat-legacy-resources';
+import { createChatWidgetTranslator } from './chat-widget-i18n';
 
 export type CompactChatSenderType = 'patient' | 'ai' | 'admin' | 'hospital' | 'system';
 export type CompactChatMessageState = 'sent' | 'sending' | 'typing' | 'failed';
@@ -168,11 +170,29 @@ function TypingDotsBubble() {
   );
 }
 
+function resolveAttachmentStatus(messageState: CompactChatMessageState | undefined, hasUrl: boolean): 'uploading' | 'uploaded' | 'failed' | null {
+  if (messageState === 'sending') {
+    return 'uploading';
+  }
+
+  if (messageState === 'failed') {
+    return 'failed';
+  }
+
+  if (!hasUrl) {
+    return 'uploaded';
+  }
+
+  return null;
+}
+
 export default function PatientChatMessageList({
   messages,
   onConfirmProcessGuide,
 }: PatientChatMessageListProps) {
   const ctx = useContext(PatientEntryContext);
+  const { currentLanguage } = useLanguage();
+  const translate = createChatWidgetTranslator(currentLanguage.code);
   const onSubmitHospitals = ctx?.submitHospitalSelection;
   const patientCaseId = ctx?.caseId ?? null;
 
@@ -289,6 +309,15 @@ export default function PatientChatMessageList({
                 {message.attachments.map((attachment) => {
                   const isImage = attachment.mimeType.startsWith('image/');
                   const hasUrl = attachment.url.trim().length > 0;
+                  const attachmentStatus = resolveAttachmentStatus(message.messageState, hasUrl);
+                  const statusLabel = attachmentStatus
+                    ? translate(`chatWidget.uploadStatus.${attachmentStatus}`)
+                    : null;
+                  const StatusIcon = attachmentStatus === 'uploading'
+                    ? Loader2
+                    : attachmentStatus === 'failed'
+                      ? AlertCircle
+                      : CheckCircle2;
 
                   if (isImage && hasUrl) {
                     return (
@@ -314,6 +343,18 @@ export default function PatientChatMessageList({
                         }`}>
                           <ImageIcon className="h-4 w-4 shrink-0" />
                           <span className="min-w-0 truncate">{attachment.fileName}</span>
+                          {statusLabel ? (
+                            <span className={`ml-auto inline-flex shrink-0 items-center gap-1 rounded-full px-2 py-0.5 text-[10px] font-medium ${
+                              attachmentStatus === 'failed'
+                                ? 'bg-rose-50 text-rose-700'
+                                : isPatient
+                                  ? 'bg-white/15 text-white/90'
+                                  : 'bg-emerald-50 text-emerald-700'
+                            }`}>
+                              <StatusIcon className={`h-3 w-3 ${attachmentStatus === 'uploading' ? 'animate-spin' : ''}`} />
+                              {statusLabel}
+                            </span>
+                          ) : null}
                         </div>
                       </a>
                     );
@@ -325,11 +366,16 @@ export default function PatientChatMessageList({
                         {isImage ? <ImageIcon className="h-4 w-4" /> : <FileText className="h-4 w-4" />}
                       </span>
                       <span className="min-w-0 flex-1 truncate">{attachment.fileName}</span>
-                      {!hasUrl ? (
-                        <span className={`shrink-0 rounded-full px-2 py-0.5 text-[10px] font-medium ${
-                          isPatient ? 'bg-white/15 text-white/90' : 'bg-slate-200 text-slate-600'
+                      {statusLabel ? (
+                        <span className={`inline-flex shrink-0 items-center gap-1 rounded-full px-2 py-0.5 text-[10px] font-medium ${
+                          attachmentStatus === 'failed'
+                            ? 'bg-rose-50 text-rose-700'
+                            : isPatient
+                              ? 'bg-white/15 text-white/90'
+                              : 'bg-emerald-50 text-emerald-700'
                         }`}>
-                          Upload syncing
+                          <StatusIcon className={`h-3 w-3 ${attachmentStatus === 'uploading' ? 'animate-spin' : ''}`} />
+                          {statusLabel}
                         </span>
                       ) : null}
                     </>

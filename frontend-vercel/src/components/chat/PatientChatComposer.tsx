@@ -95,12 +95,24 @@ function toPendingAttachment(file: File): PatientMessageAttachment {
     name: file.name,
     type: file.type || 'application/octet-stream',
     size: file.size,
-    url: '',
+    url: createPendingAttachmentPreviewUrl(file),
   };
 }
 
 function createOptimisticMessageId(prefix: string): string {
   return `${prefix}:${Date.now()}:${Math.random().toString(36).slice(2, 10)}`;
+}
+
+function createPendingAttachmentPreviewUrl(file: File): string {
+  if (!file.type.startsWith('image/')) {
+    return '';
+  }
+
+  if (typeof URL === 'undefined' || typeof URL.createObjectURL !== 'function') {
+    return '';
+  }
+
+  return URL.createObjectURL(file);
 }
 
 interface PatientChatComposerProps {
@@ -115,6 +127,7 @@ interface PatientChatComposerProps {
   onConversationRefresh?: () => Promise<void> | void;
   latestAssistantChatbotV3Turn?: ChatbotV3TurnViewModel | null;
   onChatbotTurnReceived?: (turn: ChatbotV3TurnViewModel) => void;
+  onMechanicalUploadFailed?: (error: Error) => void;
   mechanicalMode?: boolean;
 }
 
@@ -128,6 +141,7 @@ export default function PatientChatComposer({
   onConversationRefresh,
   latestAssistantChatbotV3Turn = null,
   onChatbotTurnReceived,
+  onMechanicalUploadFailed,
   mechanicalMode = false,
 }: PatientChatComposerProps) {
   const { currentLanguage } = useLanguage();
@@ -216,6 +230,9 @@ export default function PatientChatComposer({
     const now = new Date().toISOString();
     const optimisticPatientMessageId = createOptimisticMessageId('optimistic-patient');
     const optimisticAssistantTypingId = createOptimisticMessageId('optimistic-assistant');
+    const hasMechanicalFormalUpload = effectiveTarget.kind === 'FORMAL_SESSION'
+      && mechanicalMode
+      && selectedFilesSnapshot.length > 0;
 
     if (effectiveTarget.kind === 'CHATBOT_SESSION') {
       onMessageMutation?.({
@@ -238,6 +255,23 @@ export default function PatientChatComposer({
             createdAt: new Date(Date.now() + 1).toISOString(),
             senderType: 'ai',
             messageState: 'typing',
+          },
+        ],
+      });
+    }
+
+    if (hasMechanicalFormalUpload) {
+      onMessageMutation?.({
+        add: [
+          {
+            id: optimisticPatientMessageId,
+            role: 'patient',
+            messageSource: 'formal',
+            content,
+            attachments: selectedFilesSnapshot.map((file) => toPendingAttachment(file)),
+            createdAt: now,
+            senderType: 'patient',
+            messageState: 'sending',
           },
         ],
       });
@@ -314,6 +348,12 @@ export default function PatientChatComposer({
         attachments,
       });
 
+      if (hasMechanicalFormalUpload) {
+        onMessageMutation?.({
+          removeIds: [optimisticPatientMessageId],
+        });
+      }
+
       onFormalMessageSent?.(message);
       onMessagesSent?.([{
         id: message.id,
@@ -329,6 +369,10 @@ export default function PatientChatComposer({
       }]);
       await onConversationRefresh?.();
     } catch (error) {
+      const normalizedError = error instanceof Error
+        ? error
+        : new Error(translate('chatWidget.composer.failed'));
+
       if (isUnauthorizedApiError(error)) {
         if (effectiveTarget.kind === 'CHATBOT_SESSION') {
           onMessageMutation?.({
@@ -338,6 +382,24 @@ export default function PatientChatComposer({
               messageState: 'failed',
             }],
           });
+        }
+        if (hasMechanicalFormalUpload) {
+          onMessageMutation?.({
+            update: [{
+              id: optimisticPatientMessageId,
+              messageState: 'failed',
+            }],
+            add: [{
+              id: createOptimisticMessageId('mechanical-upload-failed'),
+              role: 'assistant',
+              messageSource: 'formal',
+              content: translate('chatWidget.mechanical.upload.failedMessage'),
+              createdAt: new Date(Date.now() + 1).toISOString(),
+              senderType: 'system',
+              messageState: 'sent',
+            }],
+          });
+          onMechanicalUploadFailed?.(normalizedError);
         }
         await expirePatientSession();
         setErrorMessage(translate('chatWidget.composer.sessionExpired'));
@@ -353,7 +415,25 @@ export default function PatientChatComposer({
           }],
         });
       }
-      setErrorMessage(error instanceof Error ? error.message : translate('chatWidget.composer.failed'));
+      if (hasMechanicalFormalUpload) {
+        onMessageMutation?.({
+          update: [{
+            id: optimisticPatientMessageId,
+            messageState: 'failed',
+          }],
+          add: [{
+            id: createOptimisticMessageId('mechanical-upload-failed'),
+            role: 'assistant',
+            messageSource: 'formal',
+            content: translate('chatWidget.mechanical.upload.failedMessage'),
+            createdAt: new Date(Date.now() + 1).toISOString(),
+            senderType: 'system',
+            messageState: 'sent',
+          }],
+        });
+        onMechanicalUploadFailed?.(normalizedError);
+      }
+      setErrorMessage(normalizedError.message);
     } finally {
       setIsSending(false);
     }

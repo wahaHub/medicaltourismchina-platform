@@ -582,6 +582,7 @@ export default function PatientEntryWindow() {
   } = usePatientSessionRuntime();
   const [optimisticMessages, setOptimisticMessages] = useState<CompactChatMessage[]>([]);
   const [medicalRecordsUploadCompletionNonce, setMedicalRecordsUploadCompletionNonce] = useState(0);
+  const [medicalRecordsUploadFailureNonce, setMedicalRecordsUploadFailureNonce] = useState(0);
   const canShowFormalMessages = phase === 'select-hospitals' || phase === 'messages-ready';
   const scrollContainerRef = useRef<HTMLDivElement | null>(null);
   const stickToBottomRef = useRef(true);
@@ -796,6 +797,10 @@ export default function PatientEntryWindow() {
     void refreshActiveSession();
   };
 
+  const handleMechanicalUploadFailed = () => {
+    setMedicalRecordsUploadFailureNonce((current) => current + 1);
+  };
+
   const handleChatbotTurnReceived = (turn: ChatbotV3TurnViewModel) => {
     if (!canShowFormalMessages || activeSession?.sessionKind !== 'care-team' || !activeSessionId) {
       return;
@@ -857,15 +862,21 @@ export default function PatientEntryWindow() {
           </Button>
         </div>
       ) : isMechanicalChatEnabled ? (
-        <MechanicalChatMenu
-          caseId={caseId}
-          processConfirmed={processConfirmed}
-          questionnaireHistoryRefreshNonce={questionnaireHistoryRefreshNonce}
-          medicalRecordsUploadCompletionNonce={medicalRecordsUploadCompletionNonce}
-          onConfirmProcessGuide={handleConfirmProcessGuide}
-          onOpenQuestionnaire={requestQuestionnaireTemplate}
-          onOpenMedicalRecordsUpload={openComposerAttachmentPicker}
-        />
+        <>
+          {renderedMessages.length > 0 ? (
+            <PatientChatMessageList messages={renderedMessages} onConfirmProcessGuide={handleConfirmProcessGuide} />
+          ) : null}
+          <MechanicalChatMenu
+            caseId={caseId}
+            processConfirmed={processConfirmed}
+            questionnaireHistoryRefreshNonce={questionnaireHistoryRefreshNonce}
+            medicalRecordsUploadCompletionNonce={medicalRecordsUploadCompletionNonce}
+            medicalRecordsUploadFailureNonce={medicalRecordsUploadFailureNonce}
+            onConfirmProcessGuide={handleConfirmProcessGuide}
+            onOpenQuestionnaire={requestQuestionnaireTemplate}
+            onOpenMedicalRecordsUpload={openComposerAttachmentPicker}
+          />
+        </>
       ) : (
         <PatientChatMessageList messages={renderedMessages} onConfirmProcessGuide={handleConfirmProcessGuide} />
       )}
@@ -987,6 +998,7 @@ export default function PatientEntryWindow() {
         onConversationRefresh={handleConversationRefresh}
         latestAssistantChatbotV3Turn={latestChatbotV3Turn}
         onChatbotTurnReceived={handleChatbotTurnReceived}
+        onMechanicalUploadFailed={handleMechanicalUploadFailed}
         mechanicalMode={isMechanicalChatEnabled}
       />
       {isQuestionnaireModalOpen && caseId ? (

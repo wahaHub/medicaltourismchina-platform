@@ -155,6 +155,7 @@ describe('PatientChatComposer attachments', () => {
   });
 
   it('allows attachment-only uploads to the formal session in mechanical mode', async () => {
+    const onMessageMutation = vi.fn();
     vi.mocked(patientMessagesApi.initSessionAttachmentUpload).mockResolvedValue({
       upload: {
         uploadUrl: 'https://upload.example.com/mechanical-file',
@@ -190,6 +191,7 @@ describe('PatientChatComposer attachments', () => {
         sessionId="widget-chat:patient-1:case-1"
         assistantMode="AI_ACTIVE"
         widgetChatTarget={{ sessionId: 'widget-session-1' }}
+        onMessageMutation={onMessageMutation}
         mechanicalMode
       />,
     );
@@ -224,6 +226,57 @@ describe('PatientChatComposer attachments', () => {
       }],
     });
     expect(patientChatbotV3Api.sendMessage).not.toHaveBeenCalled();
+    expect(onMessageMutation).toHaveBeenCalledWith(expect.objectContaining({
+      add: [expect.objectContaining({
+        role: 'patient',
+        messageSource: 'formal',
+        messageState: 'sending',
+        attachments: [expect.objectContaining({
+          fileName: 'ct-scan.pdf',
+        })],
+      })],
+    }));
+  });
+
+  it('marks the optimistic mechanical upload block failed and reports failure when upload fails', async () => {
+    const onMessageMutation = vi.fn();
+    const onMechanicalUploadFailed = vi.fn();
+
+    vi.mocked(patientMessagesApi.initSessionAttachmentUpload).mockRejectedValue(
+      new Error('R2 upload init failed'),
+    );
+
+    render(
+      <PatientChatComposer
+        sessionId="widget-chat:patient-1:case-1"
+        assistantMode="AI_ACTIVE"
+        widgetChatTarget={{ sessionId: 'widget-session-1' }}
+        onMessageMutation={onMessageMutation}
+        onMechanicalUploadFailed={onMechanicalUploadFailed}
+        mechanicalMode
+      />,
+    );
+
+    const file = new File(['scan'], 'ct-scan.pdf', { type: 'application/pdf' });
+    fireEvent.change(screen.getByLabelText('Attach files'), { target: { files: [file] } });
+    fireEvent.click(screen.getByRole('button', { name: 'Send' }));
+
+    await waitFor(() => {
+      expect(onMechanicalUploadFailed).toHaveBeenCalledWith(expect.any(Error));
+    });
+
+    expect(onMessageMutation).toHaveBeenCalledWith(expect.objectContaining({
+      add: [expect.objectContaining({
+        messageState: 'sending',
+        attachments: [expect.objectContaining({ fileName: 'ct-scan.pdf' })],
+      })],
+    }));
+    expect(onMessageMutation).toHaveBeenCalledWith(expect.objectContaining({
+      update: [expect.objectContaining({
+        messageState: 'failed',
+      })],
+    }));
+    expect(patientMessagesApi.sendSessionMessage).not.toHaveBeenCalled();
   });
 
   it('routes AI_ACTIVE sends through the widget chatbot session and refreshes the formal conversation afterward', async () => {
