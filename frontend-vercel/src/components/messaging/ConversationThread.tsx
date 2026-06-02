@@ -211,11 +211,6 @@ export default function ConversationThread({ conversation }: ConversationThreadP
             </div>
           ) : null}
 
-          {isCareTeamAiActive ? (
-            <div className="max-w-[80%] rounded-2xl border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800 shadow-sm">
-              Medora AI is still active in the main care-team session. Continue the conversation from the patient chat widget until a human takes over.
-            </div>
-          ) : null}
         </div>
       </ScrollArea>
 

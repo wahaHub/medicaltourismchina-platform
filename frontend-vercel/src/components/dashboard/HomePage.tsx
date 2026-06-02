@@ -485,16 +485,7 @@ export default function HomePage({ onNavigateTab }: HomePageProps) {
   return (
     <div className="grid min-h-[calc(100vh-2.5rem)] gap-4 lg:grid-cols-[1.2fr_0.8fr]">
       <Card className="border-0 shadow-lg lg:self-start">
-        <CardHeader>
-          <CardTitle className="flex items-center gap-2 text-2xl">
-            <Sparkles className="h-5 w-5 text-teal-600" />
-            {translate('dashboard.home.welcomeBack')}
-          </CardTitle>
-          <CardDescription>
-            {translate('dashboard.home.activeCaseReady')}
-          </CardDescription>
-        </CardHeader>
-        <CardContent className="space-y-4">
+        <CardContent className="space-y-4 pt-6">
           <button
             type="button"
             className="block w-full rounded-2xl bg-slate-50 px-4 py-4 text-left transition-colors hover:bg-teal-50 focus:outline-none focus:ring-2 focus:ring-teal-500 focus:ring-offset-2"
