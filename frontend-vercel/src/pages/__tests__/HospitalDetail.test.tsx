@@ -1,6 +1,6 @@
 import type { ReactNode } from "react";
 import { beforeEach, describe, expect, it, vi } from "vitest";
-import { render, screen, waitFor } from "@testing-library/react";
+import { fireEvent, render, screen, waitFor } from "@testing-library/react";
 import HospitalDetail from "../HospitalDetail";
 import { hospitalApi } from "@/services/api/hospital";
 
@@ -190,6 +190,23 @@ describe("HospitalDetail package and review sections", () => {
     );
     expect(screen.getByRole("heading", { name: "PATIENT REVIEWS" })).toBeTruthy();
     expect(screen.getByText("Great care")).toBeTruthy();
+  });
+
+  it("falls back to a stable placeholder when an equipment image fails", async () => {
+    renderPage({
+      equipment: [
+        {
+          name: "Broken scanner image",
+          description: "A scanner whose old CDN image is unavailable.",
+          image_url: "https://example.com/missing-equipment.png",
+        },
+      ],
+    });
+
+    const image = await screen.findByAltText("Broken scanner image");
+    fireEvent.error(image);
+
+    expect((image as HTMLImageElement).src).toContain("/low/root_assets/surgery_placeholder_x2.png");
   });
 
   it("renders the sections from handler-shaped CRM materials payloads", async () => {

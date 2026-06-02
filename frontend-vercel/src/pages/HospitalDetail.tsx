@@ -19,6 +19,7 @@ import { HoverCard, HoverCardContent, HoverCardTrigger } from "@/components/ui/h
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { useIsMobile } from "@/hooks/use-mobile";
 import { useLanguage } from "@/contexts/LanguageContext";
+import { LOW_MEDIA_BASE_URL } from "@/config/media";
 import { hospitalApi } from "@/services/api/hospital";
 import {
   AIRPORT_SERVICE_LABELS,
@@ -78,6 +79,8 @@ type EquipmentItem = {
   description: string;
   image: string;
 };
+
+const EQUIPMENT_PLACEHOLDER_IMAGE_URL = `${LOW_MEDIA_BASE_URL}/root_assets/surgery_placeholder_x2.png`;
 
 type HospitalDetailPayload = HospitalExtended & Record<string, unknown>;
 
@@ -1290,6 +1293,10 @@ export default function HospitalDetail() {
                             alt={item.name}
                             className="h-full w-full object-cover transition-transform duration-500 hover:scale-105"
                             loading="lazy"
+                            onError={(event) => {
+                              event.currentTarget.onerror = null;
+                              event.currentTarget.src = EQUIPMENT_PLACEHOLDER_IMAGE_URL;
+                            }}
                           />
                         ) : null}
                       </div>
