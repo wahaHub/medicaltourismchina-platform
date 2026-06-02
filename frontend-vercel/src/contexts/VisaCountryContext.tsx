@@ -30,8 +30,8 @@ export function VisaCountryProvider({ children }: { children: ReactNode }) {
           const countryCode = await response.text();
           setDetectedCountry(countryCode.trim().toUpperCase());
         }
-      } catch (error) {
-        console.error("Failed to detect country:", error);
+      } catch {
+        setDetectedCountry(null);
       } finally {
         setIsLoading(false);
       }

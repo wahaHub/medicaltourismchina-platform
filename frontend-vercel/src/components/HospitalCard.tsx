@@ -30,6 +30,7 @@ interface LegacyHospitalCardProps {
 type HospitalCardProps = NewHospitalCardProps | LegacyHospitalCardProps;
 
 const LOW_MEDIA_BASE = `${(import.meta.env.VITE_PUBLIC_MEDIA_BASE_URL || 'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev').replace(/\/+$/, '')}/low`;
+const HOSPITAL_PLACEHOLDER_IMAGE_URL = `${LOW_MEDIA_BASE}/root_assets/surgery_placeholder_x2.png`;
 
 // Generate R2 hospital photo URLs for list view fallbacks.
 const generateHospitalPhotoUrls = (hospitalId: string, maxPhotos: number = 4): string[] => {
@@ -50,17 +51,15 @@ const HospitalPhotoSlider = ({ hospitalId, hospitalName, heroImageUrl }: { hospi
   const [failedPhotos, setFailedPhotos] = useState<Set<string>>(new Set());
 
   useEffect(() => {
-    // Use hero_image_url if available, otherwise fall back to generated URLs
-    if (heroImageUrl) {
-      setAvailablePhotos([heroImageUrl]);
-    } else {
-      const photoUrls = generateHospitalPhotoUrls(hospitalId, 5);
-      setAvailablePhotos(photoUrls);
-    }
+    const photoUrls = generateHospitalPhotoUrls(hospitalId, 5);
+    setAvailablePhotos([heroImageUrl, ...photoUrls].filter(Boolean) as string[]);
+    setFailedPhotos(new Set());
+    setCurrentPhotoIndex(0);
   }, [hospitalId, heroImageUrl]);
 
   const handleImageError = (url: string) => {
     setFailedPhotos(prev => new Set(prev).add(url));
+    setCurrentPhotoIndex(0);
   };
 
   // Filter out failed photos for navigation
@@ -84,10 +83,11 @@ const HospitalPhotoSlider = ({ hospitalId, hospitalName, heroImageUrl }: { hospi
   if (validPhotos.length === 0) {
     return (
       <div className="h-full w-full bg-gray-200 flex items-center justify-center">
-        <div className="text-center text-gray-500">
-          <Building2 className="h-8 w-8 mx-auto mb-2" />
-          <p className="text-sm">暂无照片</p>
-        </div>
+        <img
+          src={HOSPITAL_PLACEHOLDER_IMAGE_URL}
+          alt={`${hospitalName} placeholder`}
+          className="h-full w-full object-cover opacity-80"
+        />
       </div>
     );
   }
