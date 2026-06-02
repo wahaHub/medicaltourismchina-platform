@@ -58,7 +58,12 @@ const HospitalPhotoSlider = ({ hospitalId, hospitalName, heroImageUrl }: { hospi
   }, [hospitalId, heroImageUrl]);
 
   const handleImageError = (url: string) => {
-    setFailedPhotos(prev => new Set(prev).add(url));
+    if (url === HOSPITAL_PLACEHOLDER_IMAGE_URL) {
+      return;
+    }
+
+    setAvailablePhotos([HOSPITAL_PLACEHOLDER_IMAGE_URL]);
+    setFailedPhotos(new Set());
     setCurrentPhotoIndex(0);
   };
 
