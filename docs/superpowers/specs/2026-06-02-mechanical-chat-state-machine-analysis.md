@@ -15,67 +15,10 @@
 
 本文档同时记录：
 
-- 之前“上传医疗资料失败”的根因。
-- 已部署的修复方式。
 - 未来上传文件时应该如何在聊天框里显示 message block、loading、失败状态。
+- 用户从菜单点击“上传医疗资料”和从底部附件按钮直接上传时，应该如何复用同一套上传状态。
 - 机械聊天记录应该如何持久化，避免只存在浏览器本地状态里。
 - 所有机械回复和状态文案都必须国际化。
-
-## 上传失败根因
-
-之前的上传失败，不是 R2 本身优先出错，而是因为 widget 已经进入机械模式，但 CRM 中 care-team conversation 仍然处于 `AI_ACTIVE`。
-
-修复前，前端尝试通过 formal care-team session 上传文件：
-
-```mermaid
-sequenceDiagram
-  participant U as 用户
-  participant M as 机械菜单
-  participant C as Composer
-  participant API as CRM API
-  participant R2 as R2
-
-  U->>M: 点击“上传医疗资料”
-  M->>C: 打开文件选择器
-  U->>C: 选择文件并点击发送
-  C->>API: POST /sessions/:id/attachments/upload
-  API-->>C: 409 Care-team AI is still active
-  C-->>U: 显示上传失败
-```
-
-后端这个 guard 对普通自由聊天是合理的：当 care-team conversation 仍然是 `AI_ACTIVE` 时，用户不应该直接发送任意 formal message 给人工团队。但是“机械菜单上传”不是自由输入，而是固定菜单动作，所以需要一个受控例外。
-
-已部署的修复方式是显式标记 mechanical upload：
-
-```mermaid
-sequenceDiagram
-  participant U as 用户
-  participant M as 机械菜单
-  participant C as Composer
-  participant API as CRM API
-  participant R2 as R2
-
-  U->>M: 点击“上传医疗资料”
-  M->>C: 打开文件选择器
-  U->>C: 选择文件并点击发送
-  C->>API: POST /sessions/:id/attachments/upload?mode=mechanical
-  API-->>C: 201 signed upload URL
-  C->>R2: PUT file
-  C->>API: POST /sessions/:id/messages?mode=mechanical，attachment-only
-  API-->>C: 200 patient formal message
-  C->>M: 通知上传完成
-  M-->>U: 显示上传成功和完成状态
-```
-
-后端 bypass 必须很窄：
-
-- 只适用于患者 care-team session。
-- 必须带 `mode=mechanical`。
-- 上传初始化可以在 `AI_ACTIVE` 时通过。
-- formal message 只有在 attachment-only 时可以通过。
-- 只要有自由文本，仍然在 `AI_ACTIVE` 时被拒绝。
-
-这样既保留了“不要继续自由 AI 聊天”的产品决策，也允许用户把医疗资料上传进 CRM case。
 
 ## 当前实现的问题
 
@@ -119,6 +62,7 @@ stateDiagram-v2
   MechanicalIdle --> UploadSelected: 点击“上传医疗资料”
   MechanicalIdle --> AdvisorSelected: 点击“联系顾问”
   MechanicalIdle --> QuestionnaireSelected: 点击“填写病情表”
+  MechanicalIdle --> UploadQueued: 底部附件按钮选择文件
 
   UploadSelected --> ProcessGate: 尚未确认流程
   AdvisorSelected --> ProcessGate: 尚未确认流程
@@ -130,9 +74,10 @@ stateDiagram-v2
   ProcessSelected --> ProcessCompleted: 确认流程
   UploadSelected --> UploadWaitingForFile: 流程已确认
   QuestionnaireSelected --> QuestionnaireOpen: 打开病情表
-  AdvisorSelected --> AdvisorCompleted: 确认联系顾问
+  AdvisorSelected --> AdvisorCompleted: 直接回复已转人工
 
   UploadWaitingForFile --> UploadCompleted: 当前实现等待 composer success nonce
+  UploadQueued --> UploadCompleted: 复用上传完成流程
   QuestionnaireOpen --> QuestionnaireCompleted: history refresh nonce 变化
 
   ProcessCompleted --> MechanicalIdle
@@ -156,6 +101,7 @@ stateDiagram-v2
   MechanicalIdle --> UploadTurn: 点击“上传医疗资料”
   MechanicalIdle --> AdvisorTurn: 点击“联系顾问”
   MechanicalIdle --> QuestionnaireTurn: 点击“填写/修改病情表”
+  MechanicalIdle --> UploadQueued: 底部附件按钮选择文件
 
   ProcessTurn --> ProcessModalOpen: 打开流程弹窗
   ProcessModalOpen --> ProcessCompleted: 确认
@@ -186,7 +132,7 @@ stateDiagram-v2
   QuestionnaireModalOpen --> QuestionnaireCompleted: 提交成功 + history refresh
   QuestionnaireModalOpen --> QuestionnaireCancelled: 未提交关闭
 
-  AdvisorTurn --> AdvisorCompleted: 确认需要顾问联系
+  AdvisorTurn --> AdvisorCompleted: 点击后直接回复已转交顾问
 
   ProcessCompleted --> MechanicalIdle
   ProcessUnconfirmed --> MechanicalIdle
@@ -199,7 +145,7 @@ stateDiagram-v2
 
 | 状态 | 聊天框显示内容 | Action bar | 文字输入 | 附件按钮 | 发送按钮 |
 | --- | --- | --- | --- | --- | --- |
-| `MechanicalIdle` | intro 和历史 completed turns | 显示 | 禁用 | 只在有 mechanical/formal target 时启用 | 有已选文件时才启用 |
+| `MechanicalIdle` | intro 和历史 completed turns | 显示 | 禁用 | 启用；用户可直接从底部附件按钮上传文件 | 有已选文件时才启用 |
 | `ProcessTurn` | assistant pre-message + 流程触发卡片 | 隐藏 | 禁用 | 禁用 | 禁用 |
 | `ProcessModalOpen` | 流程弹窗打开 | 隐藏 | 禁用 | 禁用 | 禁用 |
 | `ProcessCompleted` | 流程确认完成消息 | 显示 | 禁用 | 取决于 target | 有已选文件时才启用 |
@@ -210,8 +156,8 @@ stateDiagram-v2
 | `Uploading` | patient 上传 message block + loading | 隐藏 | 禁用 | 禁用 | 禁用 |
 | `UploadCompleted` | patient 上传 block 成功状态 + assistant 成功消息 | 显示 | 禁用 | 取决于 target | 有已选文件时才启用 |
 | `UploadFailed` | patient 上传 block 失败状态 + assistant 失败提示 | 显示 | 禁用 | 启用 | 选中文件前禁用 |
-| `AdvisorTurn` | 联系顾问卡片 | 隐藏 | 禁用 | 禁用 | 禁用 |
-| `AdvisorCompleted` | 联系顾问完成消息 | 显示 | 禁用 | 取决于 target | 有已选文件时才启用 |
+| `AdvisorTurn` | 不显示二次确认卡片；点击后直接进入完成 | 隐藏 | 禁用 | 禁用 | 禁用 |
+| `AdvisorCompleted` | 显示已转交顾问的 post action 消息 | 显示 | 禁用 | 启用；可继续直接上传文件 | 有已选文件时才启用 |
 | `QuestionnaireTurn` | 病情表触发卡片 | 隐藏 | 禁用 | 禁用 | 禁用 |
 | `QuestionnaireModalOpen` | 病情表弹窗打开 | 隐藏 | 禁用 | 禁用 | 禁用 |
 | `QuestionnaireCompleted` | 病情表完成消息 | 显示 | 禁用 | 取决于 target | 有已选文件时才启用 |
@@ -220,6 +166,13 @@ stateDiagram-v2
 ## 上传 Message Block 状态
 
 用户上传医疗资料时，上传文件应该作为 patient message block 出现在聊天流里。它不应该等所有网络请求完成后才出现，而是点击发送后立即出现，并带 loading 状态。
+
+上传入口有两个，但必须复用同一套状态：
+
+1. 用户点击机械菜单里的“上传医疗资料”，再点击上传卡片中的“选择文件上传”。
+2. 用户在 `MechanicalIdle` 或已完成某个 action 后，直接点击 composer 底部的附件按钮。
+
+两个入口的差异只在于是否先显示“上传医疗资料”的引导卡片；一旦用户选中文件并点击发送，后续都进入同一个 `file_selected -> uploading -> uploaded/failed/cancelled` 流程。
 
 | 上传 block 状态 | 触发条件 | UI 行为 | 下一状态 |
 | --- | --- | --- | --- |
@@ -287,7 +240,7 @@ stateDiagram-v2
 | `QUESTIONNAIRE_OPENED` | 可选 | 可用于分析，但不是必须 |
 | `QUESTIONNAIRE_SUBMITTED` | 是 | 病情表提交成功 |
 | `QUESTIONNAIRE_DISMISSED` | 可选 | 用户打开后未提交 |
-| `ADVISOR_HANDOFF_CONFIRMED` | 是 | 用户确认需要顾问联系 |
+| `ADVISOR_HANDOFF_REQUESTED` | 是 | 用户点击“联系顾问”，系统直接记录已转交人工团队 |
 
 ### Server 存储形态
 
@@ -380,13 +333,14 @@ stateDiagram-v2
 | 未确认流程时点击“上传医疗资料” | `MechanicalIdle` | 隐藏 action bar，追加 gated pre-message，显示流程触发卡片 |
 | 为上传确认 gated process | `ProcessGate` | 持久化确认，保持 upload turn active，显示上传卡片 |
 | 点击“选择文件上传” | `UploadWaitingForFile` | 打开文件选择器 |
+| 点击底部附件按钮 | `MechanicalIdle` 或 action 完成后 | 打开文件选择器；不需要先点击菜单“上传医疗资料”，但后续复用相同上传状态机 |
 | 关闭文件选择器且无文件 | `UploadWaitingForFile` | 不插入 message，恢复 action bar |
 | 选择文件 | `UploadWaitingForFile` | composer 显示 file chips，保持 upload turn active |
 | 带文件点击发送 | `UploadQueued` | 立即插入 uploading patient block，禁用 composer/action bar，持久化 `UPLOAD_STARTED` |
 | 上传成功 | `Uploading` | block 变成功，追加成功 assistant message，显示 action bar，持久化 `UPLOAD_SUCCEEDED` |
 | 上传失败 | `Uploading` | block 变失败，追加 retry assistant message，显示 action bar，持久化 `UPLOAD_FAILED` |
 | 未确认流程时点击“联系顾问” | `MechanicalIdle` | 要求先确认流程 |
-| 确认需要顾问联系 | `AdvisorTurn` | 追加 advisor post-message，隐藏 advisor action，显示 action bar，持久化事件 |
+| 点击“联系顾问”且流程已确认 | `MechanicalIdle` | 不再显示二次确认卡片；直接追加“已转交顾问/人工团队会跟进”的 post action 消息，隐藏 advisor action，显示 action bar，持久化 `ADVISOR_HANDOFF_REQUESTED` |
 | 未确认流程时点击“填写病情表” | `MechanicalIdle` | 要求先确认流程 |
 | 打开病情表 | `QuestionnaireTurn` | 打开病情表弹窗，保持 turn active |
 | 提交病情表 | `QuestionnaireModalOpen` | 等待 history refresh，追加完成消息，显示 action bar，持久化提交 |
@@ -447,12 +401,13 @@ type MechanicalState =
   | { status: 'uploading'; turnId: string; files: UploadingFileView[] }
   | { status: 'upload_failed'; turnId: string; files: FailedFileView[]; error: string }
   | { status: 'questionnaire_open'; turnId: string; repeat: boolean }
-  | { status: 'advisor_pending'; turnId: string };
+  | { status: 'advisor_completed'; turnId: string };
 
 type MechanicalEvent =
   | { type: 'ACTION_SELECTED'; actionKey: MechanicalActionKey }
   | { type: 'PROCESS_CONFIRMED' }
   | { type: 'PROCESS_DISMISSED' }
+  | { type: 'COMPOSER_ATTACHMENT_SELECTED'; files: File[] }
   | { type: 'FILES_SELECTED'; files: File[] }
   | { type: 'FILE_PICKER_CANCELLED' }
   | { type: 'UPLOAD_STARTED'; optimisticMessageId: string }
@@ -461,7 +416,7 @@ type MechanicalEvent =
   | { type: 'QUESTIONNAIRE_OPENED' }
   | { type: 'QUESTIONNAIRE_SUBMITTED' }
   | { type: 'QUESTIONNAIRE_DISMISSED' }
-  | { type: 'ADVISOR_CONFIRMED' };
+  | { type: 'ADVISOR_HANDOFF_REQUESTED' };
 ```
 
 所有 UI 都应该从这个状态派生：
@@ -486,10 +441,10 @@ type MechanicalEvent =
 - 选择文件并点击发送后，立即插入 uploading patient message block。
 - 上传成功后，block 变成 uploaded，追加成功 assistant copy，并恢复 action bar。
 - 上传失败后，block 变成 failed，追加 retry assistant copy，并恢复 action bar。
+- 在 `MechanicalIdle` 点击底部附件按钮上传文件时，不需要先点击菜单“上传医疗资料”，但必须复用相同上传 block 状态机。
 - mechanical attachment-only upload 使用 `mode=mechanical`。
 - mechanical free-text send 在 `AI_ACTIVE` 时仍然被拒绝。
 - 病情表只有在真实提交并刷新 history 后才完成。
 - gated action 在确认流程后能回到原本选择的动作。
 - mechanical messages/events 刷新页面后能从 server 恢复。
 - local pending state 与 server state 冲突时，以 server 为准。
-
