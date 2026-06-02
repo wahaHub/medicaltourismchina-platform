@@ -4,12 +4,15 @@ import type {
   PatientTicketStatus,
   PatientTicketType,
 } from '@/types/patient-phase2';
+import type { TranslationKey, TranslationParams } from '@/i18n';
 
-export function formatMoney(amount: string, currency: string) {
+type Translate = (key: TranslationKey, params?: TranslationParams) => string;
+
+export function formatMoney(amount: string, currency: string, locale = 'en-US') {
   const numeric = Number(amount);
 
   if (Number.isFinite(numeric)) {
-    return new Intl.NumberFormat('en-US', {
+    return new Intl.NumberFormat(locale, {
       style: 'currency',
       currency,
       maximumFractionDigits: 0,
@@ -19,12 +22,12 @@ export function formatMoney(amount: string, currency: string) {
   return `${amount} ${currency}`;
 }
 
-export function formatDateTime(value: string | null | undefined) {
+export function formatDateTime(value: string | null | undefined, locale = 'en-US', translate?: Translate) {
   if (!value) {
-    return 'Not available';
+    return translate?.('dashboard.common.notAvailable') ?? 'Not available';
   }
 
-  return new Intl.DateTimeFormat('en-US', {
+  return new Intl.DateTimeFormat(locale, {
     month: 'short',
     day: 'numeric',
     year: 'numeric',
@@ -33,35 +36,57 @@ export function formatDateTime(value: string | null | undefined) {
   }).format(new Date(value));
 }
 
-export function formatDateOnly(value: string | null | undefined) {
+export function formatDateOnly(value: string | null | undefined, locale = 'en-US', translate?: Translate) {
   if (!value) {
-    return 'Not available';
+    return translate?.('dashboard.common.notAvailable') ?? 'Not available';
   }
 
-  return new Intl.DateTimeFormat('en-US', {
+  return new Intl.DateTimeFormat(locale, {
     month: 'short',
     day: 'numeric',
     year: 'numeric',
   }).format(new Date(value));
 }
 
-export function ticketTypeLabel(type: PatientTicketType) {
-  switch (type) {
-    case 'GENERAL_SUPPORT':
-      return 'General support';
-    case 'MEDICAL_QUESTION':
-      return 'Medical question';
-    case 'QUOTE_PRICING':
-      return 'Quote & pricing';
-    case 'PACKAGE_ORDER':
-      return 'Package & order';
-    case 'PAYMENT_REFUND':
-      return 'Payment & refund';
-    case 'TRAVEL_JOURNEY':
-      return 'Travel & journey';
-    case 'ACCOUNT_TECHNICAL':
-      return 'Account & technical';
+export function ticketTypeLabel(type: PatientTicketType, translate?: Translate) {
+  return translate?.(`dashboard.ticketType.${type}` as TranslationKey) ?? type.replace(/_/g, ' ').toLowerCase();
+}
+
+function translatedCodeLabel(prefix: string, code: string | null | undefined, translate?: Translate) {
+  if (!code) {
+    return translate?.('dashboard.common.notSetYet') ?? 'Not set yet';
   }
+
+  const key = `${prefix}.${code}` as TranslationKey;
+  const translated = translate?.(key);
+  if (translated && translated !== key) {
+    return translated;
+  }
+
+  return code
+    .replace(/_/g, ' ')
+    .toLowerCase()
+    .replace(/\b\w/g, (char) => char.toUpperCase());
+}
+
+export function ticketStatusLabel(status: PatientTicketStatus, translate?: Translate) {
+  return translatedCodeLabel('dashboard.ticketStatus', status, translate);
+}
+
+export function orderStatusLabel(status: string, translate?: Translate) {
+  return translatedCodeLabel('dashboard.orderStatus', status, translate);
+}
+
+export function orderTypeLabel(type: string, translate?: Translate) {
+  return translatedCodeLabel('dashboard.orderType', type, translate);
+}
+
+export function paymentMethodLabel(method: string | null | undefined, translate?: Translate) {
+  return translatedCodeLabel('dashboard.paymentMethod', method, translate);
+}
+
+export function caseAssignmentStatusLabel(status: string | null | undefined, translate?: Translate) {
+  return translatedCodeLabel('dashboard.caseAssignmentStatus', status, translate);
 }
 
 export function ticketStatusTone(status: PatientTicketStatus) {
@@ -125,9 +150,9 @@ export function sortMilestones(milestones: PatientJourneyMilestone[]) {
   );
 }
 
-export function renderStructuredValue(value: unknown) {
+export function renderStructuredValue(value: unknown, translate?: Translate) {
   if (value === null || value === undefined) {
-    return 'Not set yet';
+    return translate?.('dashboard.common.notSetYet') ?? 'Not set yet';
   }
 
   if (typeof value === 'string' || typeof value === 'number' || typeof value === 'boolean') {
@@ -136,10 +161,10 @@ export function renderStructuredValue(value: unknown) {
 
   if (Array.isArray(value)) {
     if (value.length === 0) {
-      return 'Not set yet';
+      return translate?.('dashboard.common.notSetYet') ?? 'Not set yet';
     }
 
-    return value.map((item) => renderStructuredValue(item)).join(' • ');
+    return value.map((item) => renderStructuredValue(item, translate)).join(' • ');
   }
 
   if (typeof value === 'object') {

@@ -13,6 +13,7 @@ import type { ChatbotV3TurnViewModel } from '@/services/chatbot-v3-normalizer';
 import { buildChatbotBlocksFromV3Turn } from './chatbot-v3-blocks';
 import { PatientChatLegacyResources } from './patient-chat-legacy-resources';
 import { createChatWidgetTranslator } from './chat-widget-i18n';
+import type { TranslationKey, TranslationParams } from '@/i18n';
 
 export type CompactChatSenderType = 'patient' | 'ai' | 'admin' | 'hospital' | 'system';
 export type CompactChatMessageState = 'sent' | 'sending' | 'typing' | 'failed';
@@ -102,24 +103,22 @@ function resolveCoveredLegacyBlockTypes(
   return coveredBlockTypes;
 }
 
-function shouldSuppressAssistantContent(message: CompactChatMessage, visibleAssistantText: string): boolean {
+function shouldSuppressAssistantContent(message: CompactChatMessage, hasChatbotV3HospitalCards: boolean): boolean {
   if (message.role !== 'assistant') {
     return false;
   }
 
-  const hasHospitalCards = message.blocks?.some((block) => block.type === 'HOSPITAL_RECOMMENDATION_CARDS')
+  const hasHospitalCards = hasChatbotV3HospitalCards
+    || message.blocks?.some((block) => block.type === 'HOSPITAL_RECOMMENDATION_CARDS')
     || message.resources?.some((resource) => resource.resourceType === 'HOSPITAL_RECOMMENDATION');
 
-  if (!hasHospitalCards) {
-    return false;
-  }
-
-  const normalized = visibleAssistantText.trim();
-  return normalized === 'Thanks for sharing your details. Please choose your preferred hospitals below so we can continue your case.'
-    || normalized === 'Here are matched hospitals';
+  return Boolean(hasHospitalCards);
 }
 
-function resolveSenderLabel(message: CompactChatMessage): string | null {
+function resolveSenderLabel(
+  message: CompactChatMessage,
+  translate: (key: TranslationKey, params?: TranslationParams) => string,
+): string | null {
   if (message.senderLabel && message.senderLabel.trim().length > 0) {
     const senderLabel = message.senderLabel.trim();
     return /\bAI\b|bot/i.test(senderLabel) ? 'Medora' : senderLabel;
@@ -129,16 +128,16 @@ function resolveSenderLabel(message: CompactChatMessage): string | null {
     case 'ai':
       return 'Medora';
     case 'admin':
-      return 'Care Team';
+      return translate('chatWidget.sender.careTeam');
     case 'hospital':
-      return 'Hospital Team';
+      return translate('chatWidget.sender.hospitalTeam');
     case 'system':
-      return 'System';
+      return translate('chatWidget.sender.system');
     default:
       return message.role === 'assistant'
         ? 'Medora'
         : message.role === 'system-ui'
-          ? 'System'
+          ? translate('chatWidget.sender.system')
           : null;
   }
 }
@@ -192,7 +191,7 @@ export default function PatientChatMessageList({
   onConfirmProcessGuide,
 }: PatientChatMessageListProps) {
   const ctx = useContext(PatientEntryContext);
-  const { currentLanguage } = useLanguage();
+  const { currentLanguage, t } = useLanguage();
   const translate = createChatWidgetTranslator(currentLanguage.code);
   const onSubmitHospitals = ctx?.submitHospitalSelection;
   const patientCaseId = ctx?.caseId ?? null;
@@ -201,20 +200,15 @@ export default function PatientChatMessageList({
     <div className="flex flex-col gap-3">
       {messages.map((message) => {
         const isPatient = message.role === 'patient';
-        const senderLabel = resolveSenderLabel(message);
+        const senderLabel = resolveSenderLabel(message, t);
         const showSenderLabel = Boolean(senderLabel) && (!isPatient || Boolean(message.senderLabel));
         const isTyping = message.messageState === 'typing';
         const chatbotV3Blocks = message.role === 'assistant' && message.messageSource === 'chatbot' && message.v3Turn
-          ? buildChatbotBlocksFromV3Turn(message.v3Turn, { caseId: patientCaseId })
+          ? buildChatbotBlocksFromV3Turn(message.v3Turn, { caseId: patientCaseId, translate })
           : [];
         const visibleAssistantText = message.content || message.v3Turn?.assistantText || '';
-        const hideContent = chatbotV3Blocks.some((block) => block.type === 'HOSPITAL_RECOMMENDATION_CARDS')
-          ? (() => {
-              const normalized = visibleAssistantText.trim();
-              return normalized === 'Thanks for sharing your details. Please choose your preferred hospitals below so we can continue your case.'
-                || normalized === 'Here are matched hospitals';
-            })()
-          : shouldSuppressAssistantContent(message, visibleAssistantText);
+        const hasChatbotV3HospitalCards = chatbotV3Blocks.some((block) => block.type === 'HOSPITAL_RECOMMENDATION_CARDS');
+        const hideContent = shouldSuppressAssistantContent(message, hasChatbotV3HospitalCards);
         const assistantResources = message.role === 'assistant' && message.messageSource === 'chatbot'
           ? (message.resources ?? [])
           : [];

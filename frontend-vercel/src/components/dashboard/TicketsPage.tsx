@@ -8,6 +8,7 @@ import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import { ScrollArea } from '@/components/ui/scroll-area';
 import { Textarea } from '@/components/ui/textarea';
+import { useLanguage } from '@/contexts/LanguageContext';
 import {
   useCreatePatientTicket,
   usePatientCases,
@@ -18,6 +19,7 @@ import {
 import {
   formatDateTime,
   ticketPriorityTone,
+  ticketStatusLabel,
   ticketStatusTone,
   ticketTypeLabel,
 } from '@/lib/patient-phase2';
@@ -57,6 +59,7 @@ function createEmptyDraft(): TicketDraft {
 }
 
 export default function TicketsPage() {
+  const { currentLanguage, t } = useLanguage();
   const [searchParams, setSearchParams] = useSearchParams();
   const composeMode = searchParams.get('compose') === '1';
   const selectedTicketId = searchParams.get('ticketId');
@@ -163,14 +166,14 @@ export default function TicketsPage() {
     <div className="flex min-h-[calc(100vh-2.5rem)] flex-col gap-4">
       <div className="flex flex-wrap items-center justify-between gap-3">
         <div>
-          <div className="text-2xl font-semibold text-slate-900">Tickets</div>
+          <div className="text-2xl font-semibold text-slate-900">{t('dashboard.tickets.title')}</div>
           <div className="text-sm text-slate-500">
-            Create support requests, review care-team replies, and keep issue history linked to your patient account.
+            {t('dashboard.tickets.subtitle')}
           </div>
         </div>
         <Button className="bg-teal-600 hover:bg-teal-700" onClick={handleOpenCompose}>
           <TicketPlus className="mr-2 h-4 w-4" />
-          Create Ticket
+          {t('dashboard.tickets.create')}
         </Button>
       </div>
 
@@ -179,23 +182,23 @@ export default function TicketsPage() {
           <CardHeader>
             <CardTitle className="flex items-center gap-2">
               <LifeBuoy className="h-5 w-5 text-teal-600" />
-              New support ticket
+              {t('dashboard.tickets.newTitle')}
             </CardTitle>
             <CardDescription>
-              This creates a patient-level ticket. Linking a case is optional but helps routing.
+              {t('dashboard.tickets.newDesc')}
             </CardDescription>
           </CardHeader>
           <CardContent className="grid gap-4">
             <div className="grid gap-4 md:grid-cols-2">
               <div className="space-y-2">
-                <Label htmlFor="ticket-case">Linked case</Label>
+                <Label htmlFor="ticket-case">{t('dashboard.tickets.linkedCase')}</Label>
                 <select
                   id="ticket-case"
                   className="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm"
                   value={draft.caseId}
                   onChange={(event) => setDraft((current) => ({ ...current, caseId: event.target.value }))}
                 >
-                  <option value="">No linked case</option>
+                  <option value="">{t('dashboard.tickets.noLinkedCase')}</option>
                   {(casesQuery.data ?? []).map((caseItem) => (
                     <option key={caseItem.id} value={caseItem.id}>
                       {caseItem.caseNumber}
@@ -204,7 +207,7 @@ export default function TicketsPage() {
                 </select>
               </div>
               <div className="space-y-2">
-                <Label htmlFor="ticket-type">Ticket type</Label>
+                <Label htmlFor="ticket-type">{t('dashboard.tickets.type')}</Label>
                 <select
                   id="ticket-type"
                   className="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm"
@@ -213,13 +216,13 @@ export default function TicketsPage() {
                 >
                   {TICKET_TYPES.map((type) => (
                     <option key={type} value={type}>
-                      {ticketTypeLabel(type)}
+                      {ticketTypeLabel(type, t)}
                     </option>
                   ))}
                 </select>
               </div>
               <div className="space-y-2">
-                <Label htmlFor="ticket-priority">Priority</Label>
+                <Label htmlFor="ticket-priority">{t('dashboard.tickets.priority')}</Label>
                 <select
                   id="ticket-priority"
                   className="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm"
@@ -228,30 +231,30 @@ export default function TicketsPage() {
                 >
                   {PRIORITIES.map((priority) => (
                     <option key={priority} value={priority}>
-                      {priority}
+                      {t(`dashboard.ticketPriority.${priority}` as any)}
                     </option>
                   ))}
                 </select>
               </div>
               <div className="space-y-2">
-                <Label htmlFor="ticket-subject">Subject</Label>
+                <Label htmlFor="ticket-subject">{t('dashboard.tickets.subject')}</Label>
                 <Input
                   id="ticket-subject"
                   value={draft.subject}
                   onChange={(event) => setDraft((current) => ({ ...current, subject: event.target.value }))}
-                  placeholder="Short summary"
+                  placeholder={t('dashboard.tickets.subjectPlaceholder')}
                 />
               </div>
             </div>
 
             <div className="space-y-2">
-              <Label htmlFor="ticket-description">Description</Label>
+              <Label htmlFor="ticket-description">{t('dashboard.tickets.description')}</Label>
               <Textarea
                 id="ticket-description"
                 rows={6}
                 value={draft.description}
                 onChange={(event) => setDraft((current) => ({ ...current, description: event.target.value }))}
-                placeholder="Tell the team what you need help with."
+                placeholder={t('dashboard.tickets.descriptionPlaceholder')}
               />
             </div>
 
@@ -261,10 +264,10 @@ export default function TicketsPage() {
                 onClick={() => void handleCreateTicket()}
                 disabled={createTicketMutation.isPending || !draft.description.trim()}
               >
-                {createTicketMutation.isPending ? 'Creating...' : 'Create Ticket'}
+                {createTicketMutation.isPending ? t('dashboard.tickets.creating') : t('dashboard.tickets.create')}
               </Button>
               <Button variant="outline" onClick={handleCloseCompose}>
-                Cancel
+                {t('dashboard.tickets.cancel')}
               </Button>
             </div>
           </CardContent>
@@ -276,18 +279,21 @@ export default function TicketsPage() {
           <div className="border-b border-slate-200 px-5 py-4">
             <div className="flex items-center justify-between gap-3">
               <div>
-                <div className="text-sm font-semibold text-slate-900">My tickets</div>
+                <div className="text-sm font-semibold text-slate-900">{t('dashboard.tickets.mine')}</div>
                 <div className="mt-1 text-xs text-slate-500">
-                  {ticketsQuery.data?.total ?? 0} total ticket{(ticketsQuery.data?.total ?? 0) === 1 ? '' : 's'}
+                  {t('dashboard.tickets.totalSummary', {
+                    count: ticketsQuery.data?.total ?? 0,
+                    ticketLabel: t((ticketsQuery.data?.total ?? 0) === 1 ? 'dashboard.tickets.ticketSingular' : 'dashboard.tickets.ticketPlural'),
+                  })}
                 </div>
               </div>
               <div className="flex items-center gap-2">
                 <Button variant="outline" size="sm" disabled={page <= 1} onClick={() => setPage((current) => Math.max(1, current - 1))}>
-                  Prev
+                  {t('dashboard.common.prev')}
                 </Button>
-                <span className="text-xs text-slate-500">Page {page} / {totalPages}</span>
+                <span className="text-xs text-slate-500">{t('dashboard.common.pageCount', { page, totalPages })}</span>
                 <Button variant="outline" size="sm" disabled={page >= totalPages} onClick={() => setPage((current) => Math.min(totalPages, current + 1))}>
-                  Next
+                  {t('dashboard.common.next')}
                 </Button>
               </div>
             </div>
@@ -296,15 +302,15 @@ export default function TicketsPage() {
             <div className="space-y-3 p-4">
               {ticketsQuery.isLoading ? (
                 <div className="rounded-2xl border border-slate-200 bg-white px-4 py-4 text-sm text-slate-500">
-                  Loading tickets...
+                  {t('dashboard.tickets.loading')}
                 </div>
               ) : ticketsQuery.error ? (
                 <div className="rounded-2xl border border-rose-200 bg-rose-50 px-4 py-4 text-sm text-rose-700">
-                  {ticketsQuery.error instanceof Error ? ticketsQuery.error.message : 'Failed to load tickets.'}
+                  {ticketsQuery.error instanceof Error ? ticketsQuery.error.message : t('dashboard.tickets.loadFailed')}
                 </div>
               ) : tickets.length === 0 ? (
                 <div className="rounded-2xl border border-dashed border-slate-300 bg-white px-4 py-6 text-sm text-slate-500">
-                  No tickets yet. Use the button above to create your first support request.
+                  {t('dashboard.tickets.empty')}
                 </div>
               ) : (
                 tickets.map((ticket) => (
@@ -321,22 +327,22 @@ export default function TicketsPage() {
                     <div className="flex flex-wrap items-start justify-between gap-2">
                       <div>
                         <div className="text-sm font-semibold text-slate-900">
-                          {ticket.subject || ticketTypeLabel(ticket.type)}
+                          {ticket.subject || ticketTypeLabel(ticket.type, t)}
                         </div>
                         <div className="mt-1 text-xs text-slate-500">{ticket.ticketNumber}</div>
                       </div>
                       <Badge variant="secondary" className={ticketStatusTone(ticket.status)}>
-                        {ticket.status}
+                        {ticketStatusLabel(ticket.status, t)}
                       </Badge>
                     </div>
                     <div className="flex flex-wrap gap-2">
                       <Badge variant="secondary" className={ticketPriorityTone(ticket.priority)}>
-                        {ticket.priority}
+                        {t(`dashboard.ticketPriority.${ticket.priority}` as any)}
                       </Badge>
-                      <Badge variant="outline">{ticketTypeLabel(ticket.type)}</Badge>
+                      <Badge variant="outline">{ticketTypeLabel(ticket.type, t)}</Badge>
                     </div>
                     <div className="text-xs text-slate-500">
-                      Updated {formatDateTime(ticket.updatedAt)}
+                      {t('dashboard.tickets.updated', { date: formatDateTime(ticket.updatedAt, currentLanguage.code, t) })}
                     </div>
                   </button>
                 ))
@@ -349,34 +355,37 @@ export default function TicketsPage() {
           {!activeTicket ? (
             <div className="flex h-full items-center justify-center bg-slate-50">
               <div className="max-w-sm rounded-3xl border border-dashed border-slate-300 bg-white px-6 py-8 text-center text-sm text-slate-500">
-                Choose a ticket to review replies, or create a new one from the action above.
+                {t('dashboard.tickets.choose')}
               </div>
             </div>
           ) : ticketDetailQuery.isLoading ? (
-            <div className="p-6 text-sm text-slate-500">Loading ticket details...</div>
+            <div className="p-6 text-sm text-slate-500">{t('dashboard.tickets.detailLoading')}</div>
           ) : ticketDetailQuery.error ? (
             <div className="p-6 text-sm text-rose-700">
-              {ticketDetailQuery.error instanceof Error ? ticketDetailQuery.error.message : 'Failed to load ticket detail.'}
+              {ticketDetailQuery.error instanceof Error ? ticketDetailQuery.error.message : t('dashboard.tickets.detailFailed')}
             </div>
           ) : (
             <div className="flex h-full min-h-0 flex-col">
               <div className="border-b border-slate-200 px-6 py-5">
                 <div className="flex flex-wrap items-center gap-2">
                   <div className="text-xl font-semibold text-slate-900">
-                    {activeTicket.subject || ticketTypeLabel(activeTicket.type)}
+                    {activeTicket.subject || ticketTypeLabel(activeTicket.type, t)}
                   </div>
                   <Badge variant="secondary" className={ticketStatusTone(activeTicket.status)}>
-                    {activeTicket.status}
+                    {ticketStatusLabel(activeTicket.status, t)}
                   </Badge>
-                  <Badge variant="outline">{ticketTypeLabel(activeTicket.type)}</Badge>
+                  <Badge variant="outline">{ticketTypeLabel(activeTicket.type, t)}</Badge>
                 </div>
                 <div className="mt-2 text-sm text-slate-500">
-                  {activeTicket.ticketNumber} · Last updated {formatDateTime(activeTicket.updatedAt)}
+                  {t('dashboard.tickets.lastUpdated', {
+                    ticketNumber: activeTicket.ticketNumber,
+                    date: formatDateTime(activeTicket.updatedAt, currentLanguage.code, t),
+                  })}
                 </div>
                 {activeTicket.caseId ? (
                   <div className="mt-3 inline-flex items-center gap-2 rounded-full bg-slate-100 px-3 py-1 text-xs text-slate-600">
                     <Link2 className="h-3.5 w-3.5" />
-                    Linked case: {activeTicket.caseId}
+                    {t('dashboard.tickets.linkedCaseValue', { caseId: activeTicket.caseId })}
                   </div>
                 ) : null}
                 <div className="mt-4 rounded-2xl bg-slate-50 px-4 py-4 text-sm leading-6 text-slate-700">
@@ -387,12 +396,12 @@ export default function TicketsPage() {
               <ScrollArea className="flex-1 bg-slate-50/70">
                 <div className="space-y-4 px-6 py-5">
                   <div className="rounded-3xl border border-slate-200 bg-white px-4 py-4 shadow-sm">
-                    <div className="text-xs font-medium uppercase tracking-[0.18em] text-slate-500">Original request</div>
+                    <div className="text-xs font-medium uppercase tracking-[0.18em] text-slate-500">{t('dashboard.tickets.originalRequest')}</div>
                     <div className="mt-2 whitespace-pre-wrap text-sm leading-6 text-slate-700">
                       {activeTicket.description}
                     </div>
                     <div className="mt-3 text-[11px] text-slate-400">
-                      {formatDateTime(activeTicket.createdAt)}
+                      {formatDateTime(activeTicket.createdAt, currentLanguage.code, t)}
                     </div>
                   </div>
 
@@ -408,11 +417,11 @@ export default function TicketsPage() {
                         }`}
                       >
                         <div className={`text-xs font-medium ${isPatient ? 'text-teal-50/90' : 'text-slate-500'}`}>
-                          {isPatient ? 'You' : 'Care Team'}
+                          {isPatient ? t('dashboard.tickets.you') : t('dashboard.tickets.careTeam')}
                         </div>
                         <div className="mt-1 whitespace-pre-wrap text-sm leading-6">{reply.content}</div>
                         <div className={`mt-2 text-[11px] ${isPatient ? 'text-teal-50/80' : 'text-slate-400'}`}>
-                          {formatDateTime(reply.createdAt)}
+                          {formatDateTime(reply.createdAt, currentLanguage.code, t)}
                         </div>
                       </div>
                     );
@@ -426,7 +435,7 @@ export default function TicketsPage() {
                     rows={3}
                     value={replyBody}
                     onChange={(event) => setReplyBody(event.target.value)}
-                    placeholder="Reply to this ticket"
+                    placeholder={t('dashboard.tickets.replyPlaceholder')}
                   />
                   <div className="flex justify-end">
                     <Button
@@ -435,7 +444,7 @@ export default function TicketsPage() {
                       disabled={replyMutation.isPending || !replyBody.trim()}
                     >
                       <Send className="mr-2 h-4 w-4" />
-                      {replyMutation.isPending ? 'Sending...' : 'Send Reply'}
+                      {replyMutation.isPending ? t('dashboard.tickets.sending') : t('dashboard.tickets.sendReply')}
                     </Button>
                   </div>
                 </div>

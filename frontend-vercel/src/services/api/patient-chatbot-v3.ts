@@ -32,6 +32,7 @@ export type PatientChatbotV3Action =
 
 export type PatientChatbotV3SendRequest = {
   sessionId: string;
+  locale?: string;
   message?: string;
   action?: PatientChatbotV3Action;
   attachments?: PatientChatbotV3Attachment[];
@@ -205,6 +206,7 @@ export async function sendMessage(input: PatientChatbotV3SendRequest): Promise<P
     timeoutMs: CHATBOT_REQUEST_TIMEOUT_MS,
     body: JSON.stringify({
       sessionId: input.sessionId,
+      ...(input.locale ? { locale: input.locale } : {}),
       ...(typeof input.message === 'string' ? { message: input.message } : {}),
       ...(input.action ? { action: input.action } : {}),
       ...(input.attachments ? { attachments: input.attachments } : {}),

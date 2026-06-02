@@ -80,20 +80,26 @@ export type PatientCaseDocument = PatientMessageAttachment & {
   messageCreatedAt: string;
 };
 
-async function listCases() {
-  return crmApiRequest<PatientDashboardCase[]>('/cases', {
+function appendLocale(path: string, locale?: string) {
+  if (!locale) return path;
+  const params = new URLSearchParams({ locale });
+  return `${path}?${params.toString()}`;
+}
+
+async function listCases(locale?: string) {
+  return crmApiRequest<PatientDashboardCase[]>(appendLocale('/cases', locale), {
     method: 'GET',
   });
 }
 
-async function getCaseQuotes(caseId: string) {
-  return crmApiRequest<PatientCaseQuoteList>(`/cases/${caseId}/quote`, {
+async function getCaseQuotes(caseId: string, locale?: string) {
+  return crmApiRequest<PatientCaseQuoteList>(appendLocale(`/cases/${caseId}/quote`, locale), {
     method: 'GET',
   });
 }
 
-export async function getPatientDashboardHomeSummary(preferredCaseId?: string | null): Promise<PatientDashboardHomeSummary> {
-  const cases = await listCases();
+export async function getPatientDashboardHomeSummary(preferredCaseId?: string | null, locale?: string): Promise<PatientDashboardHomeSummary> {
+  const cases = await listCases(locale);
 
   if (cases.length === 0) {
     return {
@@ -109,7 +115,7 @@ export async function getPatientDashboardHomeSummary(preferredCaseId?: string | 
   const quoteLists = await Promise.all(
     cases.map(async (caseItem) => ({
       caseId: caseItem.id,
-      quotes: (await getCaseQuotes(caseItem.id)).data,
+      quotes: (await getCaseQuotes(caseItem.id, locale)).data,
     })),
   );
 
@@ -137,12 +143,12 @@ export async function getPatientDashboardHomeSummary(preferredCaseId?: string | 
   };
 }
 
-export async function listPatientDashboardQuotes(): Promise<PatientDashboardQuoteGroup[]> {
-  const cases = await listCases();
+export async function listPatientDashboardQuotes(locale?: string): Promise<PatientDashboardQuoteGroup[]> {
+  const cases = await listCases(locale);
 
   const groupedQuotes = await Promise.all(
     cases.map(async (caseItem) => {
-      const result = await getCaseQuotes(caseItem.id);
+      const result = await getCaseQuotes(caseItem.id, locale);
       const quotes = [...result.data].sort((left, right) =>
         new Date(right.createdAt).getTime() - new Date(left.createdAt).getTime(),
       );
@@ -170,14 +176,14 @@ export async function listPatientDashboardQuotes(): Promise<PatientDashboardQuot
     });
 }
 
-export async function listPatientCaseDocuments(caseId: string): Promise<{
+export async function listPatientCaseDocuments(caseId: string, locale?: string): Promise<{
   uploadedDocuments: PatientCaseDocument[];
   hospitalReplyDocuments: PatientCaseDocument[];
 }> {
-  const { sessions } = await patientMessagesApi.listSessions({ caseId });
+  const { sessions } = await patientMessagesApi.listSessions({ caseId, locale });
   const details = await Promise.all(
     sessions.map((session) =>
-      patientMessagesApi.getSessionMessages({ sessionId: session.sessionId, limit: 100 }),
+      patientMessagesApi.getSessionMessages({ sessionId: session.sessionId, limit: 100, locale }),
     ),
   );
 

@@ -29,6 +29,8 @@ import {
   parseDestinationSelection,
 } from '@/components/chat/chat-widget-i18n';
 import CurrentCaseModal from './CurrentCaseModal';
+import type { TranslationKey } from '@/i18n';
+import { caseAssignmentStatusLabel } from '@/lib/patient-phase2';
 
 interface HomePageProps {
   onNavigateTab?: (
@@ -38,7 +40,7 @@ interface HomePageProps {
 }
 
 function formatCaseLabel(caseNumber: string) {
-  return caseNumber.startsWith('CASE-') ? caseNumber : `Case ${caseNumber}`;
+  return caseNumber.startsWith('CASE-') ? caseNumber : caseNumber;
 }
 
 type IntakeDetail = {
@@ -71,6 +73,7 @@ function EditableIntakeDetail({
   onCommit,
   onCancel,
   onSave,
+  t,
 }: {
   detail: IntakeDetail;
   value: string;
@@ -82,6 +85,7 @@ function EditableIntakeDetail({
   onCommit: () => void;
   onCancel: () => void;
   onSave: (value: string) => void;
+  t: (key: TranslationKey, params?: Record<string, string | number>) => string;
 }) {
   const displayValue = detail.displayValue ?? resolveOptionLabel(value, detail.options);
 
@@ -97,13 +101,13 @@ function EditableIntakeDetail({
               aria-label={detail.label}
               className="mt-2 h-9 rounded-lg border-teal-200 bg-white px-3 text-sm font-medium text-slate-900 ring-2 ring-teal-100"
             >
-              <SelectValue placeholder={detail.isLoadingOptions ? '加载中...' : detail.label} />
+              <SelectValue placeholder={detail.isLoadingOptions ? t('dashboard.common.loading') : detail.label} />
             </SelectTrigger>
             <SelectContent className="z-[10020]">
               {detail.isLoadingOptions ? (
                 <div className="flex items-center gap-2 px-3 py-2 text-sm text-slate-500">
                   <Loader2 className="h-4 w-4 animate-spin" />
-                  加载中...
+                  {t('dashboard.common.loading')}
                 </div>
               ) : detail.options?.map((option) => (
                 <SelectItem key={option.value} value={option.value}>
@@ -178,7 +182,7 @@ function EditableIntakeDetail({
           {isSaving && (
             <span className="inline-flex items-center gap-1 text-xs font-medium text-teal-700">
               <Loader2 className="h-3.5 w-3.5 animate-spin" />
-              保存中
+              {t('dashboard.common.saving')}
             </span>
           )}
         </div>
@@ -211,7 +215,7 @@ function EditableIntakeDetail({
           {detail.label}
         </div>
         <div className="mt-1 break-words text-sm font-medium text-slate-900">
-          {value || '未填写'}
+          {value || t('dashboard.common.notFilled')}
         </div>
       </div>
     );
@@ -221,18 +225,18 @@ function EditableIntakeDetail({
     <button
       type="button"
       className="rounded-xl bg-slate-50 px-3 py-3 text-left transition-colors hover:bg-teal-50 focus:outline-none focus:ring-2 focus:ring-teal-500 focus:ring-offset-2"
-      aria-label={`编辑 ${detail.label}`}
+      aria-label={t('dashboard.common.edit', { label: detail.label })}
       onClick={onEdit}
     >
       <div className="text-[11px] font-semibold uppercase tracking-[0.14em] text-slate-500">
         <span>{detail.label}</span>
       </div>
       <div className="mt-1 flex items-center gap-2 break-words text-sm font-medium text-slate-900">
-        <span>{displayValue || '未填写'}</span>
+        <span>{displayValue || t('dashboard.common.notFilled')}</span>
         {isSaving && (
           <span className="inline-flex items-center gap-1 text-xs font-medium text-teal-700">
             <Loader2 className="h-3.5 w-3.5 animate-spin" />
-            保存中
+            {t('dashboard.common.saving')}
           </span>
         )}
       </div>
@@ -241,7 +245,7 @@ function EditableIntakeDetail({
 }
 
 export default function HomePage({ onNavigateTab }: HomePageProps) {
-  const { currentLanguage } = useLanguage();
+  const { currentLanguage, t } = useLanguage();
   const { patient, refreshPatientSession } = usePatientAuth();
   const { data, isLoading, error } = usePatientDashboardHome();
   const [currentCaseOpen, setCurrentCaseOpen] = useState(false);
@@ -459,7 +463,7 @@ export default function HomePage({ onNavigateTab }: HomePageProps) {
       await crmApi.updateMe({ [key]: nextValue } as PatientSessionProfileUpdate);
       await refreshPatientSession();
     } catch (saveProfileError) {
-      setSaveError(saveProfileError instanceof Error ? saveProfileError.message : '保存失败，请稍后再试。');
+      setSaveError(saveProfileError instanceof Error ? saveProfileError.message : translate('dashboard.home.saveFailed'));
       setSavingIntakeKey(null);
       return;
     }
@@ -495,7 +499,7 @@ export default function HomePage({ onNavigateTab }: HomePageProps) {
               <div>
                 <div className="text-xs uppercase tracking-[0.18em] text-slate-500">{translate('dashboard.home.activeCase')}</div>
                 <div className="mt-2 text-lg font-semibold text-slate-900">
-                  {formatCaseLabel(data.activeCase.caseNumber)}
+                  {t('dashboard.common.caseLabel', { caseNumber: formatCaseLabel(data.activeCase.caseNumber) })}
                 </div>
                 <div className="mt-1 text-sm text-slate-600">
                   {data.activeCase.primaryDiagnosis || data.activeCase.aiSummary || translate('dashboard.home.noSummary')}
@@ -507,7 +511,7 @@ export default function HomePage({ onNavigateTab }: HomePageProps) {
             </div>
             <div className="mt-3 flex flex-wrap gap-2">
               <Badge variant="secondary" className="bg-teal-100 text-teal-800">
-                {data.activeCase.assignmentStatus}
+                {caseAssignmentStatusLabel(data.activeCase.assignmentStatus, t)}
               </Badge>
               <Badge variant="outline" className="text-slate-600">
                 {data.activeCase.treatmentStage || translate('dashboard.home.noStage')}
@@ -536,7 +540,7 @@ export default function HomePage({ onNavigateTab }: HomePageProps) {
         <Card className="border-0 shadow-lg">
           <CardHeader>
             <CardTitle className="text-lg">{translate('dashboard.home.patientSummary')}</CardTitle>
-            <CardDescription>右下角建档表单里提交的信息。</CardDescription>
+            <CardDescription>{translate('dashboard.home.patientSummaryDesc')}</CardDescription>
           </CardHeader>
           <CardContent className="grid gap-2 sm:grid-cols-2">
             {saveError && (
@@ -557,6 +561,7 @@ export default function HomePage({ onNavigateTab }: HomePageProps) {
                 onCommit={commitEditingIntakeDetail}
                 onCancel={cancelEditingIntakeDetail}
                 onSave={(value) => void saveIntakeDetail(detail.key, value)}
+                t={t}
               />
             ))}
           </CardContent>

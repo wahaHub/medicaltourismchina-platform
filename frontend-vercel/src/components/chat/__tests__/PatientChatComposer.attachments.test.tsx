@@ -321,6 +321,7 @@ describe('PatientChatComposer attachments', () => {
     await waitFor(() => {
       expect(patientChatbotV3Api.sendMessage).toHaveBeenCalledWith({
         sessionId: 'widget-session-1',
+        locale: 'en',
         message: 'I have persistent eye pain',
       });
     });
@@ -414,6 +415,7 @@ describe('PatientChatComposer attachments', () => {
     await waitFor(() => {
       expect(patientChatbotV3Api.sendMessage).toHaveBeenCalledWith({
         sessionId: 'widget-session-1',
+        locale: 'en',
         message: '1. Eye pain, moderate. 2. Two weeks. 3. I had one local exam.',
         action: {
           type: 'TRIAGE_SUBMITTED',
@@ -479,6 +481,7 @@ describe('PatientChatComposer attachments', () => {
     await waitFor(() => {
       expect(patientChatbotV3Api.sendMessage).toHaveBeenCalledWith({
         sessionId: 'widget-session-1',
+        locale: 'en',
         message: 'I have sharp eye pain since last week.',
       });
     });
@@ -546,6 +549,7 @@ describe('PatientChatComposer attachments', () => {
     await waitFor(() => {
       expect(patientChatbotV3Api.sendMessage).toHaveBeenCalledWith({
         sessionId: 'widget-session-1',
+        locale: 'en',
         message: '1. Left eye. 2. Yes, I can. 3. Tomorrow morning.',
       });
     });
@@ -758,6 +762,7 @@ describe('PatientChatComposer attachments', () => {
     await waitFor(() => {
       expect(patientChatbotV3Api.sendMessage).toHaveBeenCalledWith({
         sessionId: 'widget-session-1',
+        locale: 'en',
         attachments: [{
           fileName: 'scan.jpg',
           mimeType: 'image/jpeg',

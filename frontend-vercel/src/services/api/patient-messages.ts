@@ -164,18 +164,21 @@ function toLegacyMessageList(
   };
 }
 
-export async function listConversations(input?: { caseId?: string | null }): Promise<PatientConversationRecord[]> {
+export async function listConversations(input?: { caseId?: string | null; locale?: string }): Promise<PatientConversationRecord[]> {
   const response = await listSessions(input);
   return response.sessions.map((session) => toLegacyConversationRecord(session, response.meta));
 }
 
-export async function listSessions(input?: { caseId?: string | null }): Promise<{
+export async function listSessions(input?: { caseId?: string | null; locale?: string }): Promise<{
   sessions: PatientSessionSummary[];
   meta: PatientSessionListMeta;
 }> {
   const searchParams = new URLSearchParams();
   if (input?.caseId) {
     searchParams.set('caseId', input.caseId);
+  }
+  if (input?.locale) {
+    searchParams.set('locale', input.locale);
   }
   const suffix = searchParams.size > 0 ? `?${searchParams.toString()}` : '';
   return crmApiRequest<PatientSessionSummaryResponse>(`/conversations${suffix}`, {
@@ -197,10 +200,14 @@ export async function getConversationMessages(input: {
 export async function getSessionMessages(input: {
   sessionId: string;
   limit?: number;
+  locale?: string;
 }): Promise<PatientSessionDetail> {
   const searchParams = new URLSearchParams();
   if (typeof input.limit === 'number') {
     searchParams.set('limit', String(input.limit));
+  }
+  if (input.locale) {
+    searchParams.set('locale', input.locale);
   }
   const suffix = searchParams.size > 0 ? `?${searchParams.toString()}` : '';
 

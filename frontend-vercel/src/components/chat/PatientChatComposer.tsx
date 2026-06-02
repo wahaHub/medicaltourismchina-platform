@@ -288,9 +288,10 @@ export default function PatientChatComposer({
           : undefined;
         const response = await patientChatbotV3Api.sendMessage({
           sessionId: effectiveTarget.sessionId,
+          locale: currentLanguage.apiCode,
           ...(content ? { message: content } : {}),
           ...(action ? { action } : {}),
-          attachments: attachments.length > 0 ? attachments : undefined,
+          ...(attachments.length > 0 ? { attachments } : {}),
         });
         const responseTurn = normalizeChatbotV3Turn(response);
         onChatbotTurnReceived?.(responseTurn);

@@ -11,6 +11,31 @@ vi.mock('@/hooks/usePatientAuth', () => ({
   }),
 }));
 
+vi.mock('@/contexts/LanguageContext', () => ({
+  useLanguage: () => ({
+    currentLanguage: {
+      code: 'en',
+      name: 'English',
+      flag: '🇺🇸',
+      apiCode: 'en',
+    },
+    t: (key: string) => ({
+      'dashboard.shell.patientFallback': 'Patient',
+      'dashboard.shell.badge': 'Patient dashboard',
+      'dashboard.shell.crmBadge': 'CRM v2',
+      'dashboard.shell.caseWorkspace': 'Case workspace',
+      'dashboard.shell.home': 'Home',
+      'dashboard.shell.quotes': 'Quotes',
+      'dashboard.shell.messages': 'Messages',
+      'dashboard.shell.tickets': 'Tickets',
+      'dashboard.shell.orders': 'Orders',
+      'dashboard.shell.journey': 'Journey',
+      'dashboard.shell.backHome': 'Back to homepage',
+      'dashboard.shell.signOut': 'Sign out',
+    }[key] ?? key),
+  }),
+}));
+
 vi.mock('../HomePage', () => ({
   default: () => <div>Home tab</div>,
 }));

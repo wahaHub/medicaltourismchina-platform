@@ -22,16 +22,19 @@ type TicketListParams = {
   limit?: number;
   status?: PatientTicketStatus;
   type?: PatientTicketType;
+  locale?: string;
 };
 
 type OrderListParams = {
   page?: number;
   limit?: number;
+  locale?: string;
 };
 
 type PackageListParams = {
   page?: number;
   limit?: number;
+  locale?: string;
 };
 
 function toQueryString(input: Record<string, string | number | undefined>) {
@@ -56,14 +59,19 @@ export async function listPatientTickets(params: TicketListParams = {}) {
   });
 }
 
-export async function listPatientCases() {
-  return crmApiRequest<PatientCaseSummary[]>('/cases', {
+function localeSuffix(locale?: string) {
+  const query = toQueryString({ locale });
+  return query ? `?${query}` : '';
+}
+
+export async function listPatientCases(locale?: string) {
+  return crmApiRequest<PatientCaseSummary[]>(`/cases${localeSuffix(locale)}`, {
     method: 'GET',
   });
 }
 
-export async function getPatientTicket(ticketId: string) {
-  return crmApiRequest<PatientTicketDetail>(`/tickets/${ticketId}`, {
+export async function getPatientTicket(ticketId: string, locale?: string) {
+  return crmApiRequest<PatientTicketDetail>(`/tickets/${ticketId}${localeSuffix(locale)}`, {
     method: 'GET',
   });
 }
@@ -92,8 +100,8 @@ export async function listPatientOrders(params: OrderListParams = {}) {
   });
 }
 
-export async function getPatientOrder(orderId: string) {
-  return crmApiRequest<PatientOrder>(`/orders/${orderId}`, {
+export async function getPatientOrder(orderId: string, locale?: string) {
+  return crmApiRequest<PatientOrder>(`/orders/${orderId}${localeSuffix(locale)}`, {
     method: 'GET',
   });
 }
@@ -119,26 +127,26 @@ export async function listPatientPackages(params: PackageListParams = {}) {
   });
 }
 
-export async function getPatientPackage(packageId: string) {
-  return crmApiRequest<PatientPackage>(`/packages/${packageId}`, {
+export async function getPatientPackage(packageId: string, locale?: string) {
+  return crmApiRequest<PatientPackage>(`/packages/${packageId}${localeSuffix(locale)}`, {
     method: 'GET',
   });
 }
 
-export async function getPatientJourney(caseId: string) {
-  return crmApiRequest<PatientJourney>(`/cases/${caseId}/journey`, {
+export async function getPatientJourney(caseId: string, locale?: string) {
+  return crmApiRequest<PatientJourney>(`/cases/${caseId}/journey${localeSuffix(locale)}`, {
     method: 'GET',
   });
 }
 
-export async function listPatientMilestones(caseId: string) {
-  return crmApiRequest<PatientJourneyMilestone[]>(`/cases/${caseId}/milestones`, {
+export async function listPatientMilestones(caseId: string, locale?: string) {
+  return crmApiRequest<PatientJourneyMilestone[]>(`/cases/${caseId}/milestones${localeSuffix(locale)}`, {
     method: 'GET',
   });
 }
 
-export async function getPatientAiSummary(caseId: string) {
-  return crmApiRequest<PatientAiSummary>(`/cases/${caseId}/ai-summary`, {
+export async function getPatientAiSummary(caseId: string, locale?: string) {
+  return crmApiRequest<PatientAiSummary>(`/cases/${caseId}/ai-summary${localeSuffix(locale)}`, {
     method: 'GET',
   });
 }

@@ -1,10 +1,12 @@
 import { AlertCircle, MessageSquareMore } from 'lucide-react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
+import { useLanguage } from '@/contexts/LanguageContext';
 import { usePatientSessionRuntime } from '@/features/patient-sessions/PatientSessionRuntimeProvider';
 import ConversationList from '@/components/messaging/ConversationList';
 import ConversationThread from '@/components/messaging/ConversationThread';
 
 export default function MessagesPage() {
+  const { t } = useLanguage();
   const {
     sessions,
     sessionsLoading,
@@ -18,7 +20,7 @@ export default function MessagesPage() {
     return (
       <Card className="border-0 shadow-lg">
         <CardContent className="px-6 py-8 text-sm text-slate-500">
-          Loading messages...
+          {t('dashboard.messages.loading')}
         </CardContent>
       </Card>
     );
@@ -28,7 +30,7 @@ export default function MessagesPage() {
     return (
       <Card className="border border-rose-200 bg-rose-50 shadow-none">
         <CardHeader>
-          <CardTitle className="text-rose-900">Messages unavailable</CardTitle>
+          <CardTitle className="text-rose-900">{t('dashboard.messages.unavailableTitle')}</CardTitle>
           <CardDescription className="text-rose-700">
             {sessionsError}
           </CardDescription>
@@ -43,14 +45,14 @@ export default function MessagesPage() {
         <CardHeader>
           <CardTitle className="flex items-center gap-2 text-xl">
             <MessageSquareMore className="h-5 w-5 text-teal-600" />
-            No conversations yet
+            {t('dashboard.messages.emptyTitle')}
           </CardTitle>
           <CardDescription>
-            Use the widget to finish onboarding and create your formal hospital and care-team sessions.
+            {t('dashboard.messages.emptyDesc')}
           </CardDescription>
         </CardHeader>
         <CardContent className="rounded-2xl bg-slate-50 px-4 py-4 text-sm text-slate-600">
-          Conversation history will appear here once the case is ready.
+          {t('dashboard.messages.emptyHistory')}
         </CardContent>
       </Card>
     );
@@ -73,8 +75,8 @@ export default function MessagesPage() {
           <div className="flex h-full items-center justify-center bg-slate-50">
             <div className="max-w-sm rounded-3xl border border-dashed border-slate-300 bg-white px-6 py-8 text-center text-sm text-slate-500">
               <AlertCircle className="mx-auto h-8 w-8 text-teal-600" />
-              <div className="mt-4 font-medium text-slate-900">Select a conversation</div>
-              <div className="mt-2 leading-6">Choose the hospital or care-team session you want to continue.</div>
+              <div className="mt-4 font-medium text-slate-900">{t('dashboard.messages.selectTitle')}</div>
+              <div className="mt-2 leading-6">{t('dashboard.messages.selectDesc')}</div>
             </div>
           </div>
         )}

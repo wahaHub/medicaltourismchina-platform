@@ -75,11 +75,13 @@ export type PatientCaseSummary = {
 
 export type PatientPackage = {
   id: string;
+  name?: string | null;
   nameEn: string;
   nameZh: string | null;
   type: string;
   price: string;
   currency: string;
+  description?: string | null;
   descriptionEn: string | null;
   descriptionZh: string | null;
   inclusions: unknown;

@@ -4,6 +4,7 @@ import { FileText, Home, LifeBuoy, LogOut, MessageSquareMore, Route, ShieldCheck
 import { useNavigate, useSearchParams } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
+import { useLanguage } from '@/contexts/LanguageContext';
 import { usePatientAuth } from '@/hooks/usePatientAuth';
 import { cn } from '@/lib/utils';
 import HomePage from './HomePage';
@@ -19,22 +20,23 @@ const VALID_TABS: DashboardTab[] = ['home', 'quotes', 'messages', 'tickets', 'or
 
 const NAV_ITEMS: Array<{
   value: DashboardTab;
-  label: string;
+  labelKey: Parameters<ReturnType<typeof useLanguage>['t']>[0];
   icon: React.ComponentType<{ className?: string }>;
 }> = [
-  { value: 'home', label: 'Home', icon: Home },
-  { value: 'quotes', label: 'Quotes', icon: FileText },
-  { value: 'messages', label: 'Messages', icon: MessageSquareMore },
-  { value: 'tickets', label: 'Tickets', icon: LifeBuoy },
-  { value: 'orders', label: 'Orders', icon: ShoppingBag },
-  { value: 'journey', label: 'Journey', icon: Route },
+  { value: 'home', labelKey: 'dashboard.shell.home', icon: Home },
+  { value: 'quotes', labelKey: 'dashboard.shell.quotes', icon: FileText },
+  { value: 'messages', labelKey: 'dashboard.shell.messages', icon: MessageSquareMore },
+  { value: 'tickets', labelKey: 'dashboard.shell.tickets', icon: LifeBuoy },
+  { value: 'orders', labelKey: 'dashboard.shell.orders', icon: ShoppingBag },
+  { value: 'journey', labelKey: 'dashboard.shell.journey', icon: Route },
 ];
 
 export default function PatientDashboardShell() {
+  const { t } = useLanguage();
   const { patient, logout } = usePatientAuth();
   const navigate = useNavigate();
   const [searchParams, setSearchParams] = useSearchParams();
-  const patientLabel = patient?.name || patient?.patientCode || patient?.id || 'Patient';
+  const patientLabel = patient?.name || patient?.patientCode || patient?.id || t('dashboard.shell.patientFallback');
   const activeTab = useMemo<DashboardTab>(() => {
     const requested = searchParams.get('tab');
 
@@ -93,18 +95,18 @@ export default function PatientDashboardShell() {
               <div className="flex flex-wrap items-center gap-2">
                 <Badge className="rounded-full bg-teal-100 text-teal-800 hover:bg-teal-100">
                   <Sparkles className="mr-1 h-3.5 w-3.5" />
-                  Patient dashboard
+                  {t('dashboard.shell.badge')}
                 </Badge>
                 <Badge variant="secondary" className="rounded-full bg-sky-100 text-sky-800 lg:hidden">
                   <ShieldCheck className="mr-1 h-3.5 w-3.5" />
-                  CRM v2
+                  {t('dashboard.shell.crmBadge')}
                 </Badge>
               </div>
               <h1 className="mt-3 text-xl font-semibold tracking-tight text-slate-900 lg:text-2xl">
                 {patientLabel}
               </h1>
               <p className="mt-1 text-sm text-slate-500 lg:block">
-                Case workspace
+                {t('dashboard.shell.caseWorkspace')}
               </p>
             </div>
 
@@ -126,7 +128,7 @@ export default function PatientDashboardShell() {
                     onClick={() => navigateToTab(item.value)}
                   >
                     <Icon className="h-4 w-4" />
-                    {item.label}
+                    {t(item.labelKey)}
                   </button>
                 );
               })}
@@ -136,11 +138,11 @@ export default function PatientDashboardShell() {
 
             <Button variant="outline" className="justify-start gap-2 lg:w-full" onClick={() => navigate('/')}>
               <Home className="h-4 w-4" />
-              Back To HomePage
+              {t('dashboard.shell.backHome')}
             </Button>
             <Button variant="outline" className="justify-start gap-2 lg:w-full" onClick={() => void logout()}>
               <LogOut className="h-4 w-4" />
-              Sign out
+              {t('dashboard.shell.signOut')}
             </Button>
           </div>
         </aside>
