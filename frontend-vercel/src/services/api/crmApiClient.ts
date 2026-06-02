@@ -63,7 +63,10 @@ function getBrowserHostname() {
 }
 
 export function shouldUseSameOriginPatientProxy(hostname = getBrowserHostname()): boolean {
-  return FORCE_PATIENT_PROXY || hostname.endsWith('.vercel.app');
+  return FORCE_PATIENT_PROXY
+    || hostname.endsWith('.vercel.app')
+    || hostname === 'medicaltourismchina.health'
+    || hostname.endsWith('.medicaltourismchina.health');
 }
 
 export function getCrmApiBaseUrl(): string {

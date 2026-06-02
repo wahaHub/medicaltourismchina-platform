@@ -10,7 +10,8 @@ describe('CRM API base URL selection', () => {
     const { shouldUseSameOriginPatientProxy } = await import('../crmApiClient');
 
     expect(shouldUseSameOriginPatientProxy('frontend-vercel-eta-lemon.vercel.app')).toBe(true);
-    expect(shouldUseSameOriginPatientProxy('www.medicaltourismchina.health')).toBe(false);
+    expect(shouldUseSameOriginPatientProxy('medicaltourismchina.health')).toBe(true);
+    expect(shouldUseSameOriginPatientProxy('www.medicaltourismchina.health')).toBe(true);
   });
 });
 
