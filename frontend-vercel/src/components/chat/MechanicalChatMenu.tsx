@@ -28,6 +28,7 @@ type MechanicalChatMenuProps = {
   questionnaireHistoryRefreshNonce?: number;
   onConfirmProcessGuide?: () => Promise<void> | void;
   onOpenQuestionnaire?: (templateId: string) => Promise<void> | void;
+  onOpenMedicalRecordsUpload?: () => void;
 };
 
 const INTRO_COPY = '您好，我是 Medora 医疗旅程助手。我们已经收到您的基本信息。接下来您可以先了解赴华就医流程、上传已有医疗资料、填写病情表，或请顾问接手联系您。您提交的内容会进入 Medora CRM，由人工团队跟进查看。';
@@ -65,7 +66,7 @@ function getPreMessage(actionKey: MechanicalActionKey, input: {
     case 'PROCESS_GUIDE':
       return '好的，我为您打开赴华就医流程说明。';
     case 'MEDICAL_RECORDS':
-      return '您可以先查看需要准备哪些医疗资料。正式文件上传和收集方式会由 Medora 顾问在人工跟进时告知。';
+      return '好的，请直接上传已有的检查报告、影像、化验单或病历摘要。文件会进入您的 Medora case，顾问和医疗团队可以继续查看。';
     case 'ADVISOR_HANDOFF':
       return '我们会根据您已提交的基本信息安排人工团队跟进。请注意查收邮箱，Medora 顾问会继续联系您。';
     case 'QUESTIONNAIRE':
@@ -82,7 +83,7 @@ function getPostMessage(actionKey: MechanicalActionKey, repeat: boolean): string
     case 'PROCESS_GUIDE':
       return PROCESS_POST_COPY;
     case 'MEDICAL_RECORDS':
-      return '请先准备好检查报告、影像、化验单或病历摘要。Medora 顾问跟进时会告知您正式上传和收集方式。';
+      return '请选择要上传的医疗资料，然后点击发送。资料上传后会进入您的 Medora case。';
     case 'ADVISOR_HANDOFF':
       return '我们会根据您已提交的基本信息安排人工团队跟进。请注意查收邮箱，Medora 顾问会继续联系您。';
     case 'QUESTIONNAIRE':
@@ -111,7 +112,12 @@ function CompletedBadge() {
   );
 }
 
-function UploadActionCard({ onComplete }: { onComplete: () => void }) {
+function UploadActionCard({ onOpenUpload, onComplete }: { onOpenUpload?: () => void; onComplete: () => void }) {
+  const handleUploadClick = () => {
+    onOpenUpload?.();
+    onComplete();
+  };
+
   return (
     <div className="mr-auto max-w-[92%] rounded-[24px] border border-sky-100 bg-white p-4 shadow-[0_12px_32px_rgba(15,23,42,0.06)]">
       <div className="flex items-start gap-3">
@@ -120,13 +126,13 @@ function UploadActionCard({ onComplete }: { onComplete: () => void }) {
         </div>
         <div className="min-w-0 flex-1">
           <div className="text-[13px] font-semibold leading-5 text-slate-900">
-            准备医疗资料
+            上传医疗资料
           </div>
           <p className="mt-1 text-[12px] leading-5 text-slate-500">
-            当前机械菜单不会在本页面直接收集文件。请先准备检查报告、影像、化验单或病历摘要，顾问跟进时会提供正式上传方式。
+            请选择检查报告、影像、化验单或病历摘要。选中文件后，点击底部发送按钮即可上传到您的 Medora case。
           </p>
-          <Button type="button" onClick={onComplete} className="mt-3 h-9 rounded-xl bg-sky-600 px-4 text-white hover:bg-sky-700">
-            我知道了
+          <Button type="button" onClick={handleUploadClick} className="mt-3 h-9 rounded-xl bg-sky-600 px-4 text-white hover:bg-sky-700">
+            选择文件上传
           </Button>
         </div>
       </div>
@@ -161,6 +167,7 @@ export default function MechanicalChatMenu({
   questionnaireHistoryRefreshNonce = 0,
   onConfirmProcessGuide,
   onOpenQuestionnaire,
+  onOpenMedicalRecordsUpload,
 }: MechanicalChatMenuProps) {
   const [optimisticProcessConfirmed, setOptimisticProcessConfirmed] = useState(false);
   const [questionnaireBefore, setQuestionnaireBefore] = useState(false);
@@ -298,7 +305,7 @@ export default function MechanicalChatMenu({
     }
 
     if (turn.actionKey === 'MEDICAL_RECORDS') {
-      return <UploadActionCard onComplete={() => completeAction(turn)} />;
+      return <UploadActionCard onOpenUpload={onOpenMedicalRecordsUpload} onComplete={() => completeAction(turn)} />;
     }
 
     if (turn.actionKey === 'ADVISOR_HANDOFF') {

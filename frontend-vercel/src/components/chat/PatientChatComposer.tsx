@@ -146,8 +146,11 @@ export default function PatientChatComposer({
   const translate = createChatWidgetTranslator(currentLanguage.code);
 
   const isFormalMessagingPhase = phase === 'select-hospitals' || phase === 'messages-ready';
-  const effectiveTarget = mechanicalMode
-    ? null
+  const effectiveTarget = mechanicalMode && sessionId
+    ? {
+        kind: 'FORMAL_SESSION' as const,
+        sessionId,
+      }
     : assistantMode === 'HUMAN_TAKEOVER'
     ? (sessionId
         ? {
@@ -162,10 +165,14 @@ export default function PatientChatComposer({
           }
         : null);
   const attachmentsSupported = Boolean(effectiveTarget);
-  const isDisabled = isSending
+  const isTextDisabled = isSending
     || mechanicalMode
     || !isFormalMessagingPhase
     || !effectiveTarget;
+  const isSendDisabled = isSending
+    || !isFormalMessagingPhase
+    || !effectiveTarget
+    || (mechanicalMode && selectedFiles.length === 0);
 
   useEffect(() => {
     if (!registerComposerAttachmentPicker) {
@@ -173,7 +180,7 @@ export default function PatientChatComposer({
     }
 
     const openAttachmentPicker = () => {
-      if (isDisabled || !attachmentsSupported) {
+      if (isSending || !isFormalMessagingPhase || !effectiveTarget || !attachmentsSupported) {
         return;
       }
 
@@ -185,11 +192,11 @@ export default function PatientChatComposer({
     return () => {
       registerComposerAttachmentPicker(null);
     };
-  }, [attachmentsSupported, isDisabled, registerComposerAttachmentPicker]);
+  }, [attachmentsSupported, effectiveTarget, isFormalMessagingPhase, isSending, registerComposerAttachmentPicker]);
 
   const handleSend = async () => {
     const content = value.trim();
-    if ((!content && selectedFiles.length === 0) || isDisabled || !effectiveTarget) {
+    if ((!content && selectedFiles.length === 0) || isSendDisabled || !effectiveTarget) {
       return;
     }
 
@@ -399,7 +406,7 @@ export default function PatientChatComposer({
           ? (mechanicalMode ? '请使用上方菜单继续；此流程不会发送自由输入给 AI。' : translate('chatWidget.composer.placeholderHuman'))
           : translate('chatWidget.composer.placeholderAi')}
         className="min-h-[88px] resize-none"
-        disabled={isDisabled}
+        disabled={isTextDisabled}
       />
       <div className="flex items-center justify-between gap-3">
         <p className={`text-xs ${errorMessage ? 'text-rose-600' : 'text-slate-500'}`}>
@@ -411,7 +418,7 @@ export default function PatientChatComposer({
         </p>
         <div className="flex items-center gap-2">
           <label className={`inline-flex cursor-pointer items-center justify-center rounded-full border px-3 py-2 text-sm transition ${
-            isDisabled || !attachmentsSupported
+            isSending || !isFormalMessagingPhase || !effectiveTarget || !attachmentsSupported
               ? 'cursor-not-allowed border-slate-200 bg-slate-100 text-slate-400'
               : 'border-slate-200 bg-white text-slate-600 hover:border-teal-200 hover:text-teal-600'
           }`}>
@@ -421,7 +428,7 @@ export default function PatientChatComposer({
               multiple
               className="hidden"
               aria-label={translate('chatWidget.composer.attachFiles')}
-              disabled={isDisabled || !attachmentsSupported}
+              disabled={isSending || !isFormalMessagingPhase || !effectiveTarget || !attachmentsSupported}
               onChange={handleFileSelection}
             />
             <Paperclip className="h-4 w-4" />
@@ -429,7 +436,7 @@ export default function PatientChatComposer({
           <Button
             type="button"
             onClick={() => void handleSend()}
-            disabled={isDisabled || (value.trim().length === 0 && selectedFiles.length === 0)}
+            disabled={isSendDisabled || (value.trim().length === 0 && selectedFiles.length === 0)}
             className="shrink-0 bg-teal-600 hover:bg-teal-700"
           >
             <SendHorizonal className="h-4 w-4" />

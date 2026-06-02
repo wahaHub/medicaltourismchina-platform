@@ -154,6 +154,76 @@ describe('PatientChatComposer attachments', () => {
     ]);
   });
 
+  it('allows attachment-only uploads to the formal session in mechanical mode', async () => {
+    vi.mocked(patientMessagesApi.initSessionAttachmentUpload).mockResolvedValue({
+      upload: {
+        uploadUrl: 'https://upload.example.com/mechanical-file',
+        storageKey: 'mechanical-storage-key',
+        expiresIn: 900,
+      },
+      asset: {
+        fileName: 'ct-scan.pdf',
+        mimeType: 'application/pdf',
+        fileSize: 16,
+        storageKey: 'mechanical-storage-key',
+      },
+    });
+    vi.mocked(patientMessagesApi.sendSessionMessage).mockResolvedValue({
+      id: 'mechanical-message-1',
+      sessionId: 'widget-chat:patient-1:case-1',
+      conversationId: null,
+      senderId: 'patient-1',
+      senderRole: 'PATIENT',
+      senderName: 'Patient',
+      content: '',
+      originalLanguage: null,
+      translatedContent: null,
+      messageType: 'FILE',
+      moderationStatus: 'APPROVED',
+      attachments: [],
+      aiSummary: null,
+      createdAt: '2026-06-02T00:00:00.000Z',
+    } as never);
+
+    render(
+      <PatientChatComposer
+        sessionId="widget-chat:patient-1:case-1"
+        assistantMode="AI_ACTIVE"
+        widgetChatTarget={{ sessionId: 'widget-session-1' }}
+        mechanicalMode
+      />,
+    );
+
+    const textarea = screen.getByRole('textbox');
+    expect(textarea).toHaveProperty('disabled', true);
+
+    const file = new File(['scan'], 'ct-scan.pdf', { type: 'application/pdf' });
+    fireEvent.change(screen.getByLabelText('Attach files'), { target: { files: [file] } });
+    fireEvent.click(screen.getByRole('button', { name: 'Send' }));
+
+    await waitFor(() => {
+      expect(patientMessagesApi.initSessionAttachmentUpload).toHaveBeenCalledWith({
+        sessionId: 'widget-chat:patient-1:case-1',
+        fileName: 'ct-scan.pdf',
+        fileSize: file.size,
+        mimeType: 'application/pdf',
+      });
+    });
+
+    expect(patientMessagesApi.sendSessionMessage).toHaveBeenCalledWith({
+      sessionId: 'widget-chat:patient-1:case-1',
+      content: '',
+      messageType: 'FILE',
+      attachments: [{
+        fileName: 'ct-scan.pdf',
+        mimeType: 'application/pdf',
+        fileSize: 16,
+        storageKey: 'mechanical-storage-key',
+      }],
+    });
+    expect(patientChatbotV3Api.sendMessage).not.toHaveBeenCalled();
+  });
+
   it('routes AI_ACTIVE sends through the widget chatbot session and refreshes the formal conversation afterward', async () => {
     const onConversationRefresh = vi.fn();
     const onMessageMutation = vi.fn();

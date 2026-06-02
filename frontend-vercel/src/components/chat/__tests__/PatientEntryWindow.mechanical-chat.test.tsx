@@ -94,6 +94,7 @@ function buildPatientEntryState(overrides: Record<string, unknown> = {}) {
     questionnaireTemplateId: null,
     closeQuestionnaireModal: vi.fn(),
     requestQuestionnaireTemplate: vi.fn(),
+    openComposerAttachmentPicker: vi.fn(),
     processConfirmed: false,
     markProcessConfirmed: vi.fn(),
     profileDraft: {
@@ -249,7 +250,7 @@ describe('PatientEntryWindow mechanical chat', () => {
       expect(refreshActiveSession).toHaveBeenCalled();
     });
 
-    expect(screen.getByText('您可以先查看需要准备哪些医疗资料。正式文件上传和收集方式会由 Medora 顾问在人工跟进时告知。')).toBeDefined();
+    expect(screen.getByText('好的，请直接上传已有的检查报告、影像、化验单或病历摘要。文件会进入您的 Medora case，顾问和医疗团队可以继续查看。')).toBeDefined();
   });
 
   it('persists legacy process-guide resource confirmations', async () => {
@@ -341,7 +342,12 @@ describe('PatientEntryWindow mechanical chat', () => {
     expect(screen.getByRole('button', { name: '修改病情表' })).toBeDefined();
   });
 
-  it('does not claim upload or handoff completed while backend actions are not wired', async () => {
+  it('opens the attachment picker for medical-record uploads without showing placeholder copy', async () => {
+    const openComposerAttachmentPicker = vi.fn();
+    vi.mocked(usePatientEntry).mockReturnValue(buildPatientEntryState({
+      openComposerAttachmentPicker,
+    }) as never);
+
     renderWithQueryClient(<PatientEntryWindow />);
 
     fireEvent.click(screen.getByRole('button', { name: '上传医疗资料' }));
@@ -352,13 +358,21 @@ describe('PatientEntryWindow mechanical chat', () => {
       expect(patientMessagesApi.confirmProcessGuide).toHaveBeenCalled();
     });
 
-    expect(screen.getByText('您可以先查看需要准备哪些医疗资料。正式文件上传和收集方式会由 Medora 顾问在人工跟进时告知。')).toBeDefined();
-    expect(screen.queryByText(/message box 中上传/)).toBeNull();
-    fireEvent.click(screen.getByRole('button', { name: '我知道了' }));
+    expect(screen.getByText('好的，请直接上传已有的检查报告、影像、化验单或病历摘要。文件会进入您的 Medora case，顾问和医疗团队可以继续查看。')).toBeDefined();
+    expect(screen.queryByText(/当前机械菜单不会在本页面直接收集文件/)).toBeNull();
+    fireEvent.click(screen.getByRole('button', { name: '选择文件上传' }));
 
-    expect(screen.getByText('请先准备好检查报告、影像、化验单或病历摘要。Medora 顾问跟进时会告知您正式上传和收集方式。')).toBeDefined();
-    expect(screen.queryByText(/我们已收到您上传/)).toBeNull();
+    expect(openComposerAttachmentPicker).toHaveBeenCalledTimes(1);
+    expect(screen.getByText('请选择要上传的医疗资料，然后点击发送。资料上传后会进入您的 Medora case。')).toBeDefined();
     expect(screen.getByRole('button', { name: '上传医疗资料' })).toBeDefined();
+  });
+
+  it('does not claim handoff completed while backend handoff action is not wired', () => {
+    vi.mocked(usePatientEntry).mockReturnValue(buildPatientEntryState({
+      processConfirmed: true,
+    }) as never);
+
+    renderWithQueryClient(<PatientEntryWindow />);
 
     fireEvent.click(screen.getByRole('button', { name: '联系顾问' }));
     expect(screen.getAllByText('我们会根据您已提交的基本信息安排人工团队跟进。请注意查收邮箱，Medora 顾问会继续联系您。').length).toBeGreaterThan(0);

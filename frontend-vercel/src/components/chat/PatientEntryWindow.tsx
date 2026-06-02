@@ -565,6 +565,7 @@ export default function PatientEntryWindow() {
     questionnaireHistoryRefreshNonce,
     requestQuestionnaireTemplate,
     closeQuestionnaireModal,
+    openComposerAttachmentPicker,
   } = usePatientEntry();
   const {
     sessions,
@@ -850,6 +851,7 @@ export default function PatientEntryWindow() {
           questionnaireHistoryRefreshNonce={questionnaireHistoryRefreshNonce}
           onConfirmProcessGuide={handleConfirmProcessGuide}
           onOpenQuestionnaire={requestQuestionnaireTemplate}
+          onOpenMedicalRecordsUpload={openComposerAttachmentPicker}
         />
       ) : (
         <PatientChatMessageList messages={renderedMessages} onConfirmProcessGuide={handleConfirmProcessGuide} />
