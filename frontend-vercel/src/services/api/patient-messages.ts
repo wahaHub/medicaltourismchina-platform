@@ -232,6 +232,7 @@ export async function sendSessionMessage(input: {
   sessionId: string;
   content: string;
   messageType?: 'TEXT' | 'IMAGE' | 'FILE';
+  mechanicalMode?: boolean;
   attachments?: Array<{
     fileName: string;
     mimeType: string;
@@ -239,7 +240,8 @@ export async function sendSessionMessage(input: {
     storageKey: string;
   }>;
 }): Promise<PatientConversationMessage> {
-  return crmApiRequest(`/sessions/${input.sessionId}/messages`, {
+  const suffix = input.mechanicalMode ? '?mode=mechanical' : '';
+  return crmApiRequest(`/sessions/${input.sessionId}/messages${suffix}`, {
     method: 'POST',
     body: JSON.stringify({
       content: input.content,
@@ -292,6 +294,7 @@ export async function initSessionAttachmentUpload(input: {
   fileName: string;
   fileSize: number;
   mimeType: string;
+  mechanicalMode?: boolean;
 }): Promise<{
   upload: {
     uploadUrl: string;
@@ -305,7 +308,8 @@ export async function initSessionAttachmentUpload(input: {
     storageKey: string;
   };
 }> {
-  return crmApiRequest(`/sessions/${input.sessionId}/attachments/upload`, {
+  const suffix = input.mechanicalMode ? '?mode=mechanical' : '';
+  return crmApiRequest(`/sessions/${input.sessionId}/attachments/upload${suffix}`, {
     method: 'POST',
     body: JSON.stringify({
       fileName: input.fileName,

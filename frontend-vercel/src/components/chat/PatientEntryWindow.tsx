@@ -581,6 +581,7 @@ export default function PatientEntryWindow() {
     connectionState,
   } = usePatientSessionRuntime();
   const [optimisticMessages, setOptimisticMessages] = useState<CompactChatMessage[]>([]);
+  const [medicalRecordsUploadCompletionNonce, setMedicalRecordsUploadCompletionNonce] = useState(0);
   const canShowFormalMessages = phase === 'select-hospitals' || phase === 'messages-ready';
   const scrollContainerRef = useRef<HTMLDivElement | null>(null);
   const stickToBottomRef = useRef(true);
@@ -771,6 +772,16 @@ export default function PatientEntryWindow() {
 
   const handleMessagesSent = (incoming: CompactChatMessage[]) => {
     setOptimisticMessages((current) => mergeChatMessages(current, incoming));
+    const hasMechanicalMedicalRecordsUpload = isMechanicalChatEnabled
+      && incoming.some((message) =>
+        message.role === 'patient'
+        && message.messageSource === 'formal'
+        && (message.attachments?.length ?? 0) > 0
+      );
+
+    if (hasMechanicalMedicalRecordsUpload) {
+      setMedicalRecordsUploadCompletionNonce((current) => current + 1);
+    }
   };
 
   const handleMessageMutation = (mutation: CompactChatMessageMutation) => {
@@ -850,6 +861,7 @@ export default function PatientEntryWindow() {
           caseId={caseId}
           processConfirmed={processConfirmed}
           questionnaireHistoryRefreshNonce={questionnaireHistoryRefreshNonce}
+          medicalRecordsUploadCompletionNonce={medicalRecordsUploadCompletionNonce}
           onConfirmProcessGuide={handleConfirmProcessGuide}
           onOpenQuestionnaire={requestQuestionnaireTemplate}
           onOpenMedicalRecordsUpload={openComposerAttachmentPicker}

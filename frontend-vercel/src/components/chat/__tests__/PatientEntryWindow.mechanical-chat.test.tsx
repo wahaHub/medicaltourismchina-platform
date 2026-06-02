@@ -189,6 +189,24 @@ describe('PatientEntryWindow mechanical chat', () => {
     expect(screen.getByRole('button', { name: '填写病情表' })).toBeDefined();
   });
 
+  it('localizes the mechanical menu after profile onboarding', () => {
+    vi.mocked(useLanguage).mockReturnValue({
+      currentLanguage: {
+        code: 'en',
+      },
+      t: (key: string) => key,
+    } as never);
+
+    renderWithQueryClient(<PatientEntryWindow />);
+
+    expect(screen.getByText(/Hello, I am your Medora care journey assistant/)).toBeDefined();
+    expect(screen.getByRole('button', { name: 'Review care journey' })).toBeDefined();
+    expect(screen.getByRole('button', { name: 'Upload medical records' })).toBeDefined();
+    expect(screen.getByRole('button', { name: 'Contact coordinator' })).toBeDefined();
+    expect(screen.getByRole('button', { name: 'Complete medical form' })).toBeDefined();
+    expect(screen.getByPlaceholderText('Use the menu above to continue. This flow will not send free text to AI.')).toBeDefined();
+  });
+
   it('also honors the explicit CRM mechanicalChat flag when it is present', () => {
     vi.mocked(usePatientSessionRuntime).mockReturnValue(buildRuntimeState({
       detail: {
@@ -365,7 +383,7 @@ describe('PatientEntryWindow mechanical chat', () => {
     expect(screen.getByRole('button', { name: '修改病情表' })).toBeDefined();
   });
 
-  it('opens the attachment picker for medical-record uploads without showing placeholder copy', async () => {
+  it('opens the attachment picker for medical-record uploads without completing when no file is selected', async () => {
     const openComposerAttachmentPicker = vi.fn();
     vi.mocked(usePatientEntry).mockReturnValue(buildPatientEntryState({
       openComposerAttachmentPicker,
@@ -386,8 +404,9 @@ describe('PatientEntryWindow mechanical chat', () => {
     fireEvent.click(screen.getByRole('button', { name: '选择文件上传' }));
 
     expect(openComposerAttachmentPicker).toHaveBeenCalledTimes(1);
-    expect(screen.getByText('请选择要上传的医疗资料，然后点击发送。资料上传后会进入您的 Medora case。')).toBeDefined();
-    expect(screen.getByRole('button', { name: '上传医疗资料' })).toBeDefined();
+    expect(screen.queryByText('您的医疗资料已上传到您的 Medora case。')).toBeNull();
+    expect(screen.queryByText('已完成')).toBeNull();
+    expect(screen.queryByRole('button', { name: '上传医疗资料' })).toBeNull();
   });
 
   it('does not claim handoff completed while backend handoff action is not wired', () => {

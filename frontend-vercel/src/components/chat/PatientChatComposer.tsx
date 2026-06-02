@@ -33,6 +33,7 @@ async function uploadAttachment(
   target: {
     kind: 'FORMAL_SESSION';
     sessionId: string;
+    mechanicalMode?: boolean;
   } | {
     kind: 'CHATBOT_SESSION';
     sessionId: string;
@@ -45,6 +46,7 @@ async function uploadAttachment(
         fileName: file.name,
         fileSize: file.size,
         mimeType: file.type || 'application/octet-stream',
+        ...(target.mechanicalMode ? { mechanicalMode: true } : {}),
       })
     : await patientChatbotV3Api.initAttachmentUpload({
         sessionId: target.sessionId,
@@ -150,6 +152,7 @@ export default function PatientChatComposer({
     ? {
         kind: 'FORMAL_SESSION' as const,
         sessionId,
+        mechanicalMode: true,
       }
     : assistantMode === 'HUMAN_TAKEOVER'
     ? (sessionId
@@ -307,6 +310,7 @@ export default function PatientChatComposer({
         messageType: selectedFilesSnapshot.length > 0
           ? (selectedFilesSnapshot.every((file) => file.type.startsWith('image/')) ? 'IMAGE' : 'FILE')
           : 'TEXT',
+        ...(effectiveTarget.mechanicalMode ? { mechanicalMode: true } : {}),
         attachments,
       });
 
@@ -403,7 +407,7 @@ export default function PatientChatComposer({
         value={value}
         onChange={(event) => setValue(event.target.value)}
         placeholder={isFormalMessagingPhase
-          ? (mechanicalMode ? '请使用上方菜单继续；此流程不会发送自由输入给 AI。' : translate('chatWidget.composer.placeholderHuman'))
+          ? (mechanicalMode ? translate('chatWidget.composer.placeholderMechanical') : translate('chatWidget.composer.placeholderHuman'))
           : translate('chatWidget.composer.placeholderAi')}
         className="min-h-[88px] resize-none"
         disabled={isTextDisabled}

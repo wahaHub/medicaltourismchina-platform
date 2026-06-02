@@ -207,6 +207,7 @@ describe('PatientChatComposer attachments', () => {
         fileName: 'ct-scan.pdf',
         fileSize: file.size,
         mimeType: 'application/pdf',
+        mechanicalMode: true,
       });
     });
 
@@ -214,6 +215,7 @@ describe('PatientChatComposer attachments', () => {
       sessionId: 'widget-chat:patient-1:case-1',
       content: '',
       messageType: 'FILE',
+      mechanicalMode: true,
       attachments: [{
         fileName: 'ct-scan.pdf',
         mimeType: 'application/pdf',

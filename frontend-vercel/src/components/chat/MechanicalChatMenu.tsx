@@ -1,8 +1,10 @@
 import { useEffect, useMemo, useRef, useState, type ComponentType, type ReactNode } from 'react';
 import { CheckCircle2, ClipboardList, FileUp, Handshake, Route } from 'lucide-react';
 import { Button } from '@/components/ui/button';
+import { useLanguage } from '@/contexts/LanguageContext';
 import { ProcessModalTrigger } from './blocks/ProcessModalTrigger';
 import { QuestionnaireModalTrigger } from './blocks/QuestionnaireModalTrigger';
+import { createChatWidgetTranslator, type ChatWidgetTranslate } from './chat-widget-i18n';
 
 type MechanicalActionKey =
   | 'PROCESS_GUIDE'
@@ -26,14 +28,11 @@ type MechanicalChatMenuProps = {
   caseId: string | null;
   processConfirmed?: boolean;
   questionnaireHistoryRefreshNonce?: number;
+  medicalRecordsUploadCompletionNonce?: number;
   onConfirmProcessGuide?: () => Promise<void> | void;
   onOpenQuestionnaire?: (templateId: string) => Promise<void> | void;
   onOpenMedicalRecordsUpload?: () => void;
 };
-
-const INTRO_COPY = '您好，我是 Medora 医疗旅程助手。我们已经收到您的基本信息。接下来您可以先了解赴华就医流程、上传已有医疗资料、填写病情表，或请顾问接手联系您。您提交的内容会进入 Medora CRM，由人工团队跟进查看。';
-
-const PROCESS_POST_COPY = '您已确认赴华就医流程和服务规则。您可以继续上传医疗资料、填写病情表，或联系顾问。';
 
 function createTurnId(actionKey: MechanicalActionKey): string {
   return `mechanical:${actionKey}:${Date.now()}:${Math.random().toString(36).slice(2, 8)}`;
@@ -48,15 +47,16 @@ function requiresProcess(actionKey: MechanicalActionKey): boolean {
 function getPreMessage(actionKey: MechanicalActionKey, input: {
   processConfirmed: boolean;
   repeat: boolean;
+  translate: ChatWidgetTranslate;
 }): string {
   if (!input.processConfirmed && requiresProcess(actionKey)) {
     switch (actionKey) {
       case 'MEDICAL_RECORDS':
-        return '请您先同意赴华就医流程和服务规则，然后我们才能继续引导您上传医疗资料。';
+        return input.translate('chatWidget.mechanical.requiresProcess.medicalRecords');
       case 'ADVISOR_HANDOFF':
-        return '请您先同意赴华就医流程和服务规则，然后我们才能继续为您转接专业医疗团队。';
+        return input.translate('chatWidget.mechanical.requiresProcess.advisor');
       case 'QUESTIONNAIRE':
-        return '请您先同意赴华就医流程和服务规则，然后我们才能继续引导您填写病情表。';
+        return input.translate('chatWidget.mechanical.requiresProcess.questionnaire');
       default:
         break;
     }
@@ -64,32 +64,32 @@ function getPreMessage(actionKey: MechanicalActionKey, input: {
 
   switch (actionKey) {
     case 'PROCESS_GUIDE':
-      return '好的，我为您打开赴华就医流程说明。';
+      return input.translate('chatWidget.mechanical.pre.process');
     case 'MEDICAL_RECORDS':
-      return '好的，请直接上传已有的检查报告、影像、化验单或病历摘要。文件会进入您的 Medora case，顾问和医疗团队可以继续查看。';
+      return input.translate('chatWidget.mechanical.pre.medicalRecords');
     case 'ADVISOR_HANDOFF':
-      return '我们会根据您已提交的基本信息安排人工团队跟进。请注意查收邮箱，Medora 顾问会继续联系您。';
+      return input.translate('chatWidget.mechanical.pre.advisor');
     case 'QUESTIONNAIRE':
       return input.repeat
-        ? '您可以修改已填写的病情表。保存后，Medora 医疗团队会以最新内容为准继续评估。'
-        : '好的，请填写病情表，顾问和医生会根据这些信息评估您的情况。';
+        ? input.translate('chatWidget.mechanical.pre.questionnaireRepeat')
+        : input.translate('chatWidget.mechanical.pre.questionnaire');
     default:
       return '';
   }
 }
 
-function getPostMessage(actionKey: MechanicalActionKey, repeat: boolean): string {
+function getPostMessage(actionKey: MechanicalActionKey, repeat: boolean, translate: ChatWidgetTranslate): string {
   switch (actionKey) {
     case 'PROCESS_GUIDE':
-      return PROCESS_POST_COPY;
+      return translate('chatWidget.mechanical.post.process');
     case 'MEDICAL_RECORDS':
-      return '请选择要上传的医疗资料，然后点击发送。资料上传后会进入您的 Medora case。';
+      return translate('chatWidget.mechanical.post.medicalRecords');
     case 'ADVISOR_HANDOFF':
-      return '我们会根据您已提交的基本信息安排人工团队跟进。请注意查收邮箱，Medora 顾问会继续联系您。';
+      return translate('chatWidget.mechanical.post.advisor');
     case 'QUESTIONNAIRE':
       return repeat
-        ? '您的病情表已更新。Medora 医疗团队会以最新内容继续评估。'
-        : '我们已收到您的病情表。Medora 医疗团队会结合您的资料继续评估。';
+        ? translate('chatWidget.mechanical.post.questionnaireRepeat')
+        : translate('chatWidget.mechanical.post.questionnaire');
     default:
       return '';
   }
@@ -103,19 +103,18 @@ function AssistantBubble({ children }: { children: ReactNode }) {
   );
 }
 
-function CompletedBadge() {
+function CompletedBadge({ translate }: { translate: ChatWidgetTranslate }) {
   return (
     <div className="mt-3 inline-flex items-center gap-1.5 rounded-full bg-emerald-50 px-3 py-1 text-xs font-medium text-emerald-700">
       <CheckCircle2 className="h-3.5 w-3.5" />
-      已完成
+      {translate('chatWidget.mechanical.completed')}
     </div>
   );
 }
 
-function UploadActionCard({ onOpenUpload, onComplete }: { onOpenUpload?: () => void; onComplete: () => void }) {
+function UploadActionCard({ translate, onOpenUpload }: { translate: ChatWidgetTranslate; onOpenUpload?: () => void }) {
   const handleUploadClick = () => {
     onOpenUpload?.();
-    onComplete();
   };
 
   return (
@@ -126,13 +125,13 @@ function UploadActionCard({ onOpenUpload, onComplete }: { onOpenUpload?: () => v
         </div>
         <div className="min-w-0 flex-1">
           <div className="text-[13px] font-semibold leading-5 text-slate-900">
-            上传医疗资料
+            {translate('chatWidget.mechanical.upload.title')}
           </div>
           <p className="mt-1 text-[12px] leading-5 text-slate-500">
-            请选择检查报告、影像、化验单或病历摘要。选中文件后，点击底部发送按钮即可上传到您的 Medora case。
+            {translate('chatWidget.mechanical.upload.description')}
           </p>
           <Button type="button" onClick={handleUploadClick} className="mt-3 h-9 rounded-xl bg-sky-600 px-4 text-white hover:bg-sky-700">
-            选择文件上传
+            {translate('chatWidget.mechanical.upload.cta')}
           </Button>
         </div>
       </div>
@@ -140,7 +139,7 @@ function UploadActionCard({ onOpenUpload, onComplete }: { onOpenUpload?: () => v
   );
 }
 
-function HandoffActionCard({ onComplete }: { onComplete: () => void }) {
+function HandoffActionCard({ translate, onComplete }: { translate: ChatWidgetTranslate; onComplete: () => void }) {
   return (
     <div className="mr-auto max-w-[92%] rounded-[24px] border border-amber-100 bg-white p-4 shadow-[0_12px_32px_rgba(15,23,42,0.06)]">
       <div className="flex items-start gap-3">
@@ -148,12 +147,12 @@ function HandoffActionCard({ onComplete }: { onComplete: () => void }) {
           <Handshake className="h-4 w-4 text-amber-600" />
         </div>
         <div className="min-w-0 flex-1">
-          <div className="text-[13px] font-semibold leading-5 text-slate-900">联系顾问</div>
+          <div className="text-[13px] font-semibold leading-5 text-slate-900">{translate('chatWidget.mechanical.advisor.title')}</div>
           <p className="mt-1 text-[12px] leading-5 text-slate-500">
-            我们会根据您已提交的基本信息安排人工团队跟进。当前页面不会再发送 AI 自由聊天回复。
+            {translate('chatWidget.mechanical.advisor.description')}
           </p>
           <Button type="button" onClick={onComplete} className="mt-3 h-9 rounded-xl bg-amber-600 px-4 text-white hover:bg-amber-700">
-            确认需要顾问联系
+            {translate('chatWidget.mechanical.advisor.cta')}
           </Button>
         </div>
       </div>
@@ -165,10 +164,16 @@ export default function MechanicalChatMenu({
   caseId,
   processConfirmed = false,
   questionnaireHistoryRefreshNonce = 0,
+  medicalRecordsUploadCompletionNonce = 0,
   onConfirmProcessGuide,
   onOpenQuestionnaire,
   onOpenMedicalRecordsUpload,
 }: MechanicalChatMenuProps) {
+  const { currentLanguage } = useLanguage();
+  const translate = useMemo(
+    () => createChatWidgetTranslator(currentLanguage.code),
+    [currentLanguage.code],
+  );
   const [optimisticProcessConfirmed, setOptimisticProcessConfirmed] = useState(false);
   const [questionnaireBefore, setQuestionnaireBefore] = useState(false);
   const [advisorCompleted, setAdvisorCompleted] = useState(false);
@@ -176,24 +181,31 @@ export default function MechanicalChatMenu({
   const effectiveProcessConfirmed = processConfirmed || optimisticProcessConfirmed;
   const activeTurn = turns.find((turn) => turn.status === 'selected') ?? null;
   const completeActionRef = useRef<(turn: MechanicalTurn) => void>(() => {});
+  const lastMedicalRecordsUploadCompletionNonceRef = useRef(medicalRecordsUploadCompletionNonce);
 
   const actions = useMemo(() => {
     const next: Array<{ key: MechanicalActionKey; label: string; icon: ComponentType<{ className?: string }> }> = [];
 
     if (!effectiveProcessConfirmed) {
-      next.push({ key: 'PROCESS_GUIDE', label: '了解就医流程', icon: Route });
+      next.push({ key: 'PROCESS_GUIDE', label: translate('chatWidget.mechanical.action.process'), icon: Route });
     }
 
-    next.push({ key: 'MEDICAL_RECORDS', label: '上传医疗资料', icon: FileUp });
+    next.push({ key: 'MEDICAL_RECORDS', label: translate('chatWidget.mechanical.action.medicalRecords'), icon: FileUp });
 
     if (!advisorCompleted) {
-      next.push({ key: 'ADVISOR_HANDOFF', label: '联系顾问', icon: Handshake });
+      next.push({ key: 'ADVISOR_HANDOFF', label: translate('chatWidget.mechanical.action.advisor'), icon: Handshake });
     }
 
-    next.push({ key: 'QUESTIONNAIRE', label: questionnaireBefore ? '修改病情表' : '填写病情表', icon: ClipboardList });
+    next.push({
+      key: 'QUESTIONNAIRE',
+      label: questionnaireBefore
+        ? translate('chatWidget.mechanical.action.questionnaireRepeat')
+        : translate('chatWidget.mechanical.action.questionnaire'),
+      icon: ClipboardList,
+    });
 
     return next;
-  }, [advisorCompleted, effectiveProcessConfirmed, questionnaireBefore]);
+  }, [advisorCompleted, effectiveProcessConfirmed, questionnaireBefore, translate]);
 
   const selectAction = (actionKey: MechanicalActionKey) => {
     setTurns((current) => [
@@ -261,6 +273,25 @@ export default function MechanicalChatMenu({
     completeActionRef.current(selectedQuestionnaireTurn);
   }, [questionnaireHistoryRefreshNonce, turns]);
 
+  useEffect(() => {
+    if (medicalRecordsUploadCompletionNonce <= lastMedicalRecordsUploadCompletionNonceRef.current) {
+      return;
+    }
+
+    lastMedicalRecordsUploadCompletionNonceRef.current = medicalRecordsUploadCompletionNonce;
+    const selectedUploadTurn = turns.find((turn) =>
+      turn.status === 'selected'
+      && turn.actionKey === 'MEDICAL_RECORDS'
+      && !turn.requiresProcessFirst
+    );
+
+    if (!selectedUploadTurn) {
+      return;
+    }
+
+    completeActionRef.current(selectedUploadTurn);
+  }, [medicalRecordsUploadCompletionNonce, turns]);
+
   const renderTurnAction = (turn: MechanicalTurn) => {
     if (turn.requiresProcessFirst) {
       return (
@@ -269,9 +300,9 @@ export default function MechanicalChatMenu({
             id: `${turn.id}:process`,
             type: 'PROCESS_MODAL_TRIGGER',
             modalKey: 'MEDICAL_TRAVEL_PROCESS',
-            title: '赴华就医流程和服务规则',
-            description: '请先确认流程和服务规则，确认后会继续当前操作。',
-            ctaLabel: '打开并确认流程',
+            title: translate('chatWidget.mechanical.process.title'),
+            description: translate('chatWidget.mechanical.process.gatedDescription'),
+            ctaLabel: translate('chatWidget.mechanical.process.gatedCta'),
           }}
           onConfirm={() => continueAfterProcess(turn)}
           onDismissUnconfirmed={() => {
@@ -290,9 +321,9 @@ export default function MechanicalChatMenu({
             id: `${turn.id}:process`,
             type: 'PROCESS_MODAL_TRIGGER',
             modalKey: 'MEDICAL_TRAVEL_PROCESS',
-            title: '赴华就医流程和服务规则',
-            description: '请阅读并确认赴华就医流程和服务规则。',
-            ctaLabel: '打开流程说明',
+            title: translate('chatWidget.mechanical.process.title'),
+            description: translate('chatWidget.mechanical.process.description'),
+            ctaLabel: translate('chatWidget.mechanical.process.cta'),
           }}
           onConfirm={() => continueAfterProcess(turn)}
           onDismissUnconfirmed={() => {
@@ -305,11 +336,11 @@ export default function MechanicalChatMenu({
     }
 
     if (turn.actionKey === 'MEDICAL_RECORDS') {
-      return <UploadActionCard onOpenUpload={onOpenMedicalRecordsUpload} onComplete={() => completeAction(turn)} />;
+      return <UploadActionCard translate={translate} onOpenUpload={onOpenMedicalRecordsUpload} />;
     }
 
     if (turn.actionKey === 'ADVISOR_HANDOFF') {
-      return <HandoffActionCard onComplete={() => completeAction(turn)} />;
+      return <HandoffActionCard translate={translate} onComplete={() => completeAction(turn)} />;
     }
 
     return (
@@ -318,9 +349,13 @@ export default function MechanicalChatMenu({
           id: `${turn.id}:questionnaire`,
           type: 'QUESTIONNAIRE_MODAL_TRIGGER',
           templateId: caseId ? 'DEFAULT' : '',
-          title: turn.repeat ? '修改病情表' : '填写病情表',
-          description: '提交后，Medora 医疗团队会结合您的资料继续评估。',
-          ctaLabel: turn.repeat ? '修改病情表' : '填写病情表',
+          title: turn.repeat
+            ? translate('chatWidget.mechanical.questionnaire.titleRepeat')
+            : translate('chatWidget.mechanical.questionnaire.title'),
+          description: translate('chatWidget.mechanical.questionnaire.description'),
+          ctaLabel: turn.repeat
+            ? translate('chatWidget.mechanical.questionnaire.ctaRepeat')
+            : translate('chatWidget.mechanical.questionnaire.cta'),
         }}
         onOpen={(templateId) => {
           void onOpenQuestionnaire?.(templateId);
@@ -336,7 +371,7 @@ export default function MechanicalChatMenu({
 
   return (
     <div className="space-y-4" data-testid="mechanical-chat-menu">
-      <AssistantBubble>{INTRO_COPY}</AssistantBubble>
+      <AssistantBubble>{translate('chatWidget.mechanical.intro')}</AssistantBubble>
 
       {turns.map((turn) => (
         <div key={turn.id} className="space-y-3">
@@ -344,18 +379,19 @@ export default function MechanicalChatMenu({
             {getPreMessage(turn.actionKey, {
               processConfirmed: turn.processConfirmed,
               repeat: turn.repeat,
+              translate,
             })}
           </AssistantBubble>
           {renderTurnAction(turn)}
           {turn.status === 'completed' ? (
             <AssistantBubble>
-              {getPostMessage(turn.actionKey, turn.repeat)}
-              <CompletedBadge />
+              {getPostMessage(turn.actionKey, turn.repeat, translate)}
+              <CompletedBadge translate={translate} />
             </AssistantBubble>
           ) : null}
           {turn.status === 'unconfirmed' ? (
             <AssistantBubble>
-              您还没有确认赴华就医流程和服务规则。您可以稍后再次打开确认；确认后才能继续上传医疗资料、填写病情表或联系顾问。
+              {translate('chatWidget.mechanical.unconfirmed')}
             </AssistantBubble>
           ) : null}
         </div>
