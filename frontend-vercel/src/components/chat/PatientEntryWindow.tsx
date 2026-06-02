@@ -695,9 +695,10 @@ export default function PatientEntryWindow() {
   const isFallbackPolling = connectionState === 'polling';
   const isConversationSwitchPending = canShowFormalMessages
     && Boolean(activeSessionId)
+    && detail !== null
     && detail?.sessionId !== activeSessionId;
   const hasHospitalSessions = sessions.some((session) => session.sessionKind === 'hospital');
-  const hasMechanicalChatFlag = (detail as { mechanicalChat?: { enabled?: boolean } }).mechanicalChat?.enabled === true;
+  const hasMechanicalChatFlag = (detail as { mechanicalChat?: { enabled?: boolean } } | null)?.mechanicalChat?.enabled === true;
   const shouldUseMechanicalFallback = activeSession?.sessionKind === 'care-team'
     && widgetChatTarget?.kind === 'CHATBOT_SESSION'
     && assistantMode === 'AI_ACTIVE';

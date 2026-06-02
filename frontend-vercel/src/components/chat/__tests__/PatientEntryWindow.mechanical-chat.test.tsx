@@ -207,6 +207,29 @@ describe('PatientEntryWindow mechanical chat', () => {
     expect(screen.getByTestId('mechanical-chat-menu')).toBeDefined();
   });
 
+  it('does not crash while the active session detail is still loading', () => {
+    vi.mocked(usePatientSessionRuntime).mockReturnValue(buildRuntimeState({
+      detail: null,
+      detailLoading: true,
+    }) as never);
+
+    expect(() => renderWithQueryClient(<PatientEntryWindow />)).not.toThrow();
+    expect(screen.getByText('正在加载医疗团队消息...')).toBeDefined();
+  });
+
+  it('shows the retry state when active session detail fails before any detail is cached', () => {
+    vi.mocked(usePatientSessionRuntime).mockReturnValue(buildRuntimeState({
+      detail: null,
+      detailLoading: false,
+      detailError: 'Unable to load conversation',
+    }) as never);
+
+    renderWithQueryClient(<PatientEntryWindow />);
+
+    expect(screen.getByText('Unable to load conversation')).toBeDefined();
+    expect(screen.queryByText('正在加载医疗团队消息...')).toBeNull();
+  });
+
   it('hides the action bar while a selected turn is in progress and does not call chatbot v3', async () => {
     renderWithQueryClient(<PatientEntryWindow />);
 
