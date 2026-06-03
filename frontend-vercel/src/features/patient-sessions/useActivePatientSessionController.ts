@@ -20,8 +20,12 @@ export function useActivePatientSessionController(input: {
   sessionId: string | null;
   enabled: boolean;
   limit?: number;
+  locale?: 'en' | 'zh' | null;
 }) {
-  const detailQuery = usePatientSessionDetail(input.sessionId, input.limit ?? 50, { enabled: input.enabled });
+  const detailQuery = usePatientSessionDetail(input.sessionId, input.limit ?? 50, {
+    enabled: input.enabled,
+    locale: input.locale ?? 'en',
+  });
   const { refetch } = detailQuery;
   const [connectionState, setConnectionState] = useState<'idle' | 'ws' | 'polling'>('idle');
   const retryAttemptRef = useRef(0);
@@ -113,7 +117,7 @@ export function useActivePatientSessionController(input: {
         socket.onmessage = (event) => {
           try {
             const payload = JSON.parse(event.data) as { type?: string };
-            if (payload.type !== 'new_message') {
+            if (payload.type !== 'new_message' && payload.type !== 'patient_chat_state_updated') {
               return;
             }
 

@@ -10,7 +10,7 @@ import {
   type PatientChatbotHistoryResourceDescriptor,
   type PatientChatbotMessageMetadata,
 } from '@/services/api/patient-chatbot';
-import { patientMessagesApi, type PatientConversationMessage } from '@/services/api/patient-messages';
+import { patientMessagesApi, type PatientChatActionKey, type PatientConversationMessage } from '@/services/api/patient-messages';
 import type { PatientConversationAssistantMode } from '@/services/api/crmApiClient';
 import type { PatientProfileDraft } from '@/types/patient-entry';
 import type { PatientChatbotV3ChatResponse } from '@/services/api/patient-chatbot-v3';
@@ -71,6 +71,12 @@ function toCompactFormalMessage(message: PatientConversationMessage): CompactCha
         ? 'hospital'
         : 'admin';
 
+  const messageState = message.deliveryStatus === 'uploading' || message.deliveryStatus === 'pending'
+    ? 'sending'
+    : message.deliveryStatus === 'failed'
+      ? 'failed'
+      : 'sent';
+
   return {
     id: message.id,
     role: message.senderRole === 'PATIENT'
@@ -83,8 +89,19 @@ function toCompactFormalMessage(message: PatientConversationMessage): CompactCha
     createdAt: message.createdAt,
     senderType,
     senderLabel: message.senderName,
-    messageState: 'sent',
+    messageState,
   };
+}
+
+const MECHANICAL_ACTION_ID_SUFFIX: Record<PatientChatActionKey, string> = {
+  VIEW_PROCESS: 'vp',
+  UPLOAD_RECORDS: 'ur',
+  CONTACT_ADVISOR: 'ca',
+  OPEN_QUESTIONNAIRE: 'oq',
+};
+
+function buildMechanicalActionClientMessageId(sessionId: string, actionKey: PatientChatActionKey): string {
+  return `ma:${sessionId}:${MECHANICAL_ACTION_ID_SUFFIX[actionKey]}`;
 }
 
 function preferMessageArray<T>(primary: T[] | undefined, fallback: T[] | undefined): T[] | undefined {
@@ -562,7 +579,6 @@ export default function PatientEntryWindow() {
     markProcessConfirmed = () => {},
     isQuestionnaireModalOpen,
     questionnaireTemplateId,
-    questionnaireHistoryRefreshNonce,
     requestQuestionnaireTemplate,
     closeQuestionnaireModal,
     openComposerAttachmentPicker,
@@ -581,8 +597,6 @@ export default function PatientEntryWindow() {
     connectionState,
   } = usePatientSessionRuntime();
   const [optimisticMessages, setOptimisticMessages] = useState<CompactChatMessage[]>([]);
-  const [medicalRecordsUploadCompletionNonce, setMedicalRecordsUploadCompletionNonce] = useState(0);
-  const [medicalRecordsUploadFailureNonce, setMedicalRecordsUploadFailureNonce] = useState(0);
   const canShowFormalMessages = phase === 'select-hospitals' || phase === 'messages-ready';
   const scrollContainerRef = useRef<HTMLDivElement | null>(null);
   const stickToBottomRef = useRef(true);
@@ -597,6 +611,8 @@ export default function PatientEntryWindow() {
     ?? activeSession?.assistantMode
     ?? patient?.formalConversationState?.activeAssistantMode
     ?? null;
+  const chatState = detail?.sessionId === activeSessionId ? detail.chatState ?? null : null;
+  const chatLocale = currentLanguage.code === 'zh' ? 'zh' as const : 'en' as const;
   const baseMessages = useMemo<CompactChatMessage[]>(
     () => (
       detail?.sessionId === activeSessionId
@@ -700,14 +716,10 @@ export default function PatientEntryWindow() {
     && detail !== null
     && detail?.sessionId !== activeSessionId;
   const hasHospitalSessions = sessions.some((session) => session.sessionKind === 'hospital');
-  const hasMechanicalChatFlag = (detail as { mechanicalChat?: { enabled?: boolean } } | null)?.mechanicalChat?.enabled === true;
-  const shouldUseMechanicalFallback = activeSession?.sessionKind === 'care-team'
-    && widgetChatTarget?.kind === 'CHATBOT_SESSION'
-    && assistantMode === 'AI_ACTIVE';
   const isMechanicalChatEnabled = canShowFormalMessages
     && activeSession?.sessionKind === 'care-team'
     && detail?.sessionId === activeSessionId
-    && (hasMechanicalChatFlag || shouldUseMechanicalFallback);
+    && chatState?.botMode === 'mechanical';
 
   useEffect(() => {
     if (!canShowFormalMessages || activeSession?.sessionKind !== 'care-team') {
@@ -773,16 +785,6 @@ export default function PatientEntryWindow() {
 
   const handleMessagesSent = (incoming: CompactChatMessage[]) => {
     setOptimisticMessages((current) => mergeChatMessages(current, incoming));
-    const hasMechanicalMedicalRecordsUpload = isMechanicalChatEnabled
-      && incoming.some((message) =>
-        message.role === 'patient'
-        && message.messageSource === 'formal'
-        && (message.attachments?.length ?? 0) > 0
-      );
-
-    if (hasMechanicalMedicalRecordsUpload) {
-      setMedicalRecordsUploadCompletionNonce((current) => current + 1);
-    }
   };
 
   const handleMessageMutation = (mutation: CompactChatMessageMutation) => {
@@ -798,7 +800,7 @@ export default function PatientEntryWindow() {
   };
 
   const handleMechanicalUploadFailed = () => {
-    setMedicalRecordsUploadFailureNonce((current) => current + 1);
+    void refreshActiveSession();
   };
 
   const handleChatbotTurnReceived = (turn: ChatbotV3TurnViewModel) => {
@@ -825,8 +827,41 @@ export default function PatientEntryWindow() {
       throw new Error('Cannot confirm the process guide before the chat session is loaded.');
     }
 
-    await patientMessagesApi.confirmProcessGuide({ sessionId: activeSessionId });
+    await patientMessagesApi.sendSessionChatEvent({
+      sessionId: activeSessionId,
+      eventType: 'PROCESS_GUIDE_CONFIRMED',
+      locale: chatLocale,
+    });
     markProcessConfirmed();
+    await refreshActiveSession();
+  };
+
+  const handleDismissProcessGuide = async () => {
+    if (!activeSessionId) {
+      return;
+    }
+
+    await patientMessagesApi.sendSessionChatEvent({
+      sessionId: activeSessionId,
+      eventType: 'PROCESS_GUIDE_DISMISSED',
+      locale: chatLocale,
+    });
+    await refreshActiveSession();
+  };
+
+  const handleMechanicalActionSelected = async (actionKey: PatientChatActionKey) => {
+    if (!activeSessionId) {
+      return;
+    }
+
+    await patientMessagesApi.sendSessionChatEvent({
+      sessionId: activeSessionId,
+      eventType: 'ACTION_SELECTED',
+      actionKey,
+      clientMessageId: buildMechanicalActionClientMessageId(activeSessionId, actionKey),
+      locale: chatLocale,
+    });
+
     await refreshActiveSession();
   };
 
@@ -861,18 +896,18 @@ export default function PatientEntryWindow() {
             {translate('chatWidget.retry')}
           </Button>
         </div>
-      ) : isMechanicalChatEnabled ? (
+      ) : isMechanicalChatEnabled && chatState ? (
         <>
           {renderedMessages.length > 0 ? (
             <PatientChatMessageList messages={renderedMessages} onConfirmProcessGuide={handleConfirmProcessGuide} />
           ) : null}
           <MechanicalChatMenu
             caseId={caseId}
+            chatState={chatState}
             processConfirmed={processConfirmed}
-            questionnaireHistoryRefreshNonce={questionnaireHistoryRefreshNonce}
-            medicalRecordsUploadCompletionNonce={medicalRecordsUploadCompletionNonce}
-            medicalRecordsUploadFailureNonce={medicalRecordsUploadFailureNonce}
-            onConfirmProcessGuide={handleConfirmProcessGuide}
+            onActionSelected={handleMechanicalActionSelected}
+            onProcessConfirmed={handleConfirmProcessGuide}
+            onProcessDismissed={handleDismissProcessGuide}
             onOpenQuestionnaire={requestQuestionnaireTemplate}
             onOpenMedicalRecordsUpload={openComposerAttachmentPicker}
           />
@@ -1000,6 +1035,8 @@ export default function PatientEntryWindow() {
         onChatbotTurnReceived={handleChatbotTurnReceived}
         onMechanicalUploadFailed={handleMechanicalUploadFailed}
         mechanicalMode={isMechanicalChatEnabled}
+        chatLocale={chatLocale}
+        composerPolicy={chatState?.composerPolicy ?? null}
       />
       {isQuestionnaireModalOpen && caseId ? (
         <PatientQuestionnaireModal

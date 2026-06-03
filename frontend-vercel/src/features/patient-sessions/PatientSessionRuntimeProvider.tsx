@@ -8,6 +8,7 @@ import {
   type ReactNode,
 } from 'react';
 import { useLocation } from 'react-router-dom';
+import { useLanguage } from '@/contexts/LanguageContext';
 import { usePatientAuth } from '@/hooks/usePatientAuth';
 import { usePatientEntry } from '@/hooks/usePatientEntry';
 import { isUnauthorizedApiError } from '@/services/api/crmApiClient';
@@ -66,6 +67,7 @@ function shouldHideRuntime(pathname: string): boolean {
 
 export function PatientSessionRuntimeProvider({ children }: { children: ReactNode }) {
   const location = useLocation();
+  const { currentLanguage } = useLanguage();
   const { patient, isAuthenticated, expirePatientSession } = usePatientAuth();
   const {
     caseId,
@@ -115,6 +117,7 @@ export function PatientSessionRuntimeProvider({ children }: { children: ReactNod
     sessionId: selectedSessionId,
     enabled: shouldEnableRuntime && Boolean(selectedSessionId),
     limit: 50,
+    locale: currentLanguage.code === 'zh' ? 'zh' : 'en',
   });
 
   useEffect(() => {
