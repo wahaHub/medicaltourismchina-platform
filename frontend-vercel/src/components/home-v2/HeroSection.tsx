@@ -2,14 +2,18 @@ import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import { HomepageJourneyEntry } from "@/components/SearchBar";
 
-const LOW_MEDIA_BASE = `${(import.meta.env.VITE_PUBLIC_MEDIA_BASE_URL || 'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev').replace(/\/+$/, '')}/low`;
+const PUBLIC_MEDIA_BASE = (import.meta.env.VITE_PUBLIC_MEDIA_BASE_URL || 'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev').replace(/\/+$/, '');
+const LOW_MEDIA_BASE = `${PUBLIC_MEDIA_BASE}/low`;
+const HERO_POSTER_URL = `${LOW_MEDIA_BASE}/figma-assets/hero-bg_x2.png`;
+const HERO_VIDEO_URL = import.meta.env.VITE_HOMEPAGE_HERO_VIDEO_URL || `${PUBLIC_MEDIA_BASE}/videos/front.mp4`;
 
 export default function HeroSection() {
   const { t } = useLanguage();
   const videoRef = useRef<HTMLVideoElement>(null);
+  const [videoFailed, setVideoFailed] = useState(false);
 
   useEffect(() => {
     // Ensure video plays after component mounts
@@ -24,6 +28,12 @@ export default function HeroSection() {
     <section className="relative pt-0 mt-[112px] sm:mt-[120px] mb-0 lg:mb-20">
       {/* Background Video with Overlay - Responsive on mobile/tablet, original on desktop */}
       <div className="absolute inset-0 min-h-[320px] sm:min-h-[380px] md:min-h-[450px] lg:h-auto lg:min-h-[480px] overflow-hidden bg-gray-100">
+        <img
+          src={HERO_POSTER_URL}
+          alt=""
+          aria-hidden="true"
+          className="absolute inset-0 h-full w-full object-cover"
+        />
         <video
           ref={videoRef}
           autoPlay
@@ -31,18 +41,18 @@ export default function HeroSection() {
           muted
           playsInline
           preload="metadata"
-          poster={`${LOW_MEDIA_BASE}/figma-assets/hero-bg_x2.png`}
-          className="absolute inset-0 w-full h-full object-cover"
+          poster={HERO_POSTER_URL}
+          className={`absolute inset-0 w-full h-full object-cover ${videoFailed ? 'hidden' : ''}`}
           onError={(e) => {
             console.error('Video loading error:', e);
-            // Fallback to background image on error
-            (e.target as HTMLVideoElement).style.display = 'none';
+            setVideoFailed(true);
           }}
           onLoadedData={() => {
+            setVideoFailed(false);
             console.log('Video loaded successfully');
           }}
         >
-          <source src="https://d1wwcixye6at8o.cloudfront.net/videos/desktop.mp4" type="video/mp4" />
+          <source src={HERO_VIDEO_URL} type="video/mp4" />
           {/* Fallback image for browsers that don't support video */}
           Your browser does not support the video tag.
         </video>

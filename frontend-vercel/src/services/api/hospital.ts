@@ -113,6 +113,18 @@ const KNOWN_PRIVATE_HOSPITAL_IMAGE_PREFIXES: Record<string, { prefix: string; co
   'hospital-eeeb46fe': { prefix: '重庆莱佛士医院', count: 5 },
 };
 
+const KNOWN_PRIVATE_HOSPITAL_NAME_FALLBACKS: Array<{
+  matches: RegExp[];
+  prefix: string;
+  count: number;
+}> = [
+  {
+    matches: [/广州祈福医院/i, /广东祈福医院/i, /clifford hospital/i],
+    prefix: '广州祈福医院',
+    count: 4,
+  },
+];
+
 function getHospitalFallbackHeroImageUrl(id: string | null | undefined): string | undefined {
   if (!id) return undefined;
   return `${HOSPITAL_LISTING_FALLBACK_BASE_URL}/${id}_1.png`;
@@ -135,9 +147,18 @@ function getHospitalFallbackGallery(
 function getKnownPrivateHospitalImageFallback(
   hospital: Hospital | HospitalExtended,
 ): { hero: string; gallery: NonNullable<HospitalExtended['gallery']> } | undefined {
+  const searchableName = [
+    hospital.name,
+    hospital.display_name,
+    hospital.slug,
+  ].filter(Boolean).join(' ');
+  const nameFallback = KNOWN_PRIVATE_HOSPITAL_NAME_FALLBACKS.find((candidate) =>
+    candidate.matches.some((matcher) => matcher.test(searchableName))
+  );
   const fallback =
     KNOWN_PRIVATE_HOSPITAL_IMAGE_PREFIXES[hospital.id]
-    || KNOWN_PRIVATE_HOSPITAL_IMAGE_PREFIXES[hospital.slug];
+    || KNOWN_PRIVATE_HOSPITAL_IMAGE_PREFIXES[hospital.slug]
+    || nameFallback;
 
   if (!fallback) return undefined;
 

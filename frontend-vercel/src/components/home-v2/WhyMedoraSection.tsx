@@ -7,6 +7,7 @@ import ProgressiveImage from "@/components/ProgressiveImage";
 
 // CloudFront base URL for low resolution images
 const LOW_MEDIA_BASE = `${(import.meta.env.VITE_PUBLIC_MEDIA_BASE_URL || 'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev').replace(/\/+$/, '')}/low`;
+const HOMEPAGE_HOSPITAL_PLACEHOLDER_IMAGE_URL = `${LOW_MEDIA_BASE}/root_assets/surgery_placeholder_x2.png`;
 
 type HomepageHospitalLocale = "en" | "zh" | "de" | "fr" | "es";
 
@@ -21,15 +22,15 @@ const HOMEPAGE_PUBLIC_HOSPITAL_IDS: HospitalId[] = ["16", "3", "10", "9", "12", 
 const HOMEPAGE_PRIVATE_HOSPITALS = [
   {
     id: "17" as HospitalId,
-    image: "https://d1wwcixye6at8o.cloudfront.net/hospital_photos/public/f100fb70-3f9a-49c3-b85f-4efa3d73d696/hero.png",
+    image: HOMEPAGE_HOSPITAL_PLACEHOLDER_IMAGE_URL,
   },
   {
     id: "18" as HospitalId,
-    image: "https://d1wwcixye6at8o.cloudfront.net/hospital_photos/public/d4b86613-9459-487b-8b2a-e4b531548436/hero.jpg",
+    image: HOMEPAGE_HOSPITAL_PLACEHOLDER_IMAGE_URL,
   },
   {
     id: "19" as HospitalId,
-    image: "https://d1wwcixye6at8o.cloudfront.net/hospital_photos/public/4f22747e-91d0-47d7-8ae3-f3e818ef962e/hero.jpg",
+    image: HOMEPAGE_HOSPITAL_PLACEHOLDER_IMAGE_URL,
   },
 ] as const;
 
@@ -300,6 +301,11 @@ export default function WhyMedoraSection() {
                                 src={hospital.image}
                                 alt={hospital.name}
                                 className="w-full h-32 object-cover"
+                                onError={(event) => {
+                                  if (event.currentTarget.src !== HOMEPAGE_HOSPITAL_PLACEHOLDER_IMAGE_URL) {
+                                    event.currentTarget.src = HOMEPAGE_HOSPITAL_PLACEHOLDER_IMAGE_URL;
+                                  }
+                                }}
                               />
                               <div className="p-3">
                                 <h3 className="text-xs font-semibold text-gray-800 text-center line-clamp-2">
@@ -356,6 +362,11 @@ export default function WhyMedoraSection() {
                         src={hospital.image}
                         alt={hospital.name}
                         className="w-full h-48 object-cover"
+                        onError={(event) => {
+                          if (event.currentTarget.src !== HOMEPAGE_HOSPITAL_PLACEHOLDER_IMAGE_URL) {
+                            event.currentTarget.src = HOMEPAGE_HOSPITAL_PLACEHOLDER_IMAGE_URL;
+                          }
+                        }}
                       />
                       <div className="p-4">
                         <h3 className="text-sm font-semibold text-gray-800 text-center line-clamp-2">

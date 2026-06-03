@@ -62,42 +62,33 @@ const HospitalPhotoSlider = ({ hospitalId, hospitalName, heroImageUrl }: { hospi
       return;
     }
 
-    setAvailablePhotos([HOSPITAL_PLACEHOLDER_IMAGE_URL]);
-    setFailedPhotos(new Set());
+    setFailedPhotos((previous) => {
+      const next = new Set(previous);
+      next.add(url);
+      return next;
+    });
     setCurrentPhotoIndex(0);
   };
 
   // Filter out failed photos for navigation
   const validPhotos = availablePhotos.filter(url => !failedPhotos.has(url));
+  const displayPhotos = validPhotos.length > 0 ? validPhotos : [HOSPITAL_PLACEHOLDER_IMAGE_URL];
 
   const nextPhoto = (e: React.MouseEvent) => {
     e.stopPropagation();
-    if (validPhotos.length > 0) {
-      setCurrentPhotoIndex((prev) => (prev + 1) % validPhotos.length);
+    if (displayPhotos.length > 0) {
+      setCurrentPhotoIndex((prev) => (prev + 1) % displayPhotos.length);
     }
   };
 
   const prevPhoto = (e: React.MouseEvent) => {
     e.stopPropagation();
-    if (validPhotos.length > 0) {
-      setCurrentPhotoIndex((prev) => (prev - 1 + validPhotos.length) % validPhotos.length);
+    if (displayPhotos.length > 0) {
+      setCurrentPhotoIndex((prev) => (prev - 1 + displayPhotos.length) % displayPhotos.length);
     }
   };
 
-  // Show placeholder if no valid photos
-  if (validPhotos.length === 0) {
-    return (
-      <div className="h-full w-full bg-gray-200 flex items-center justify-center">
-        <img
-          src={HOSPITAL_PLACEHOLDER_IMAGE_URL}
-          alt={`${hospitalName} placeholder`}
-          className="h-full w-full object-cover opacity-80"
-        />
-      </div>
-    );
-  }
-
-  const currentPhoto = validPhotos[Math.min(currentPhotoIndex, validPhotos.length - 1)];
+  const currentPhoto = displayPhotos[Math.min(currentPhotoIndex, displayPhotos.length - 1)];
 
   return (
     <div className="relative h-full w-full">
@@ -109,7 +100,7 @@ const HospitalPhotoSlider = ({ hospitalId, hospitalName, heroImageUrl }: { hospi
       />
       
       {/* Navigation arrows */}
-      {validPhotos.length > 1 && (
+      {displayPhotos.length > 1 && (
         <>
           <button
             onClick={prevPhoto}
@@ -129,7 +120,7 @@ const HospitalPhotoSlider = ({ hospitalId, hospitalName, heroImageUrl }: { hospi
           
           {/* Photo dots indicator */}
           <div className="absolute bottom-2 left-1/2 -translate-x-1/2 flex gap-1">
-            {validPhotos.map((_, index) => (
+            {displayPhotos.map((_, index) => (
               <button
                 key={index}
                 onClick={(e) => {
