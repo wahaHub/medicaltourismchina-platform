@@ -105,6 +105,12 @@ const HOSPITAL_LISTING_FALLBACK_BASE_URL =
   `${(import.meta.env.VITE_PUBLIC_MEDIA_BASE_URL || 'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev').replace(/\/+$/, '')}/low/hospitals/public`;
 const PRIVATE_HOSPITAL_FALLBACK_BASE_URL =
   `${(import.meta.env.VITE_PUBLIC_MEDIA_BASE_URL || 'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev').replace(/\/+$/, '')}/low/hospitals/private`;
+const PUBLIC_MEDIA_BASE_URL =
+  (import.meta.env.VITE_PUBLIC_MEDIA_BASE_URL || 'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev').replace(/\/+$/, '');
+const LEGACY_MEDIA_HOSTS = new Set([
+  'd1wwcixye6at8o.cloudfront.net',
+  'medchina-cloudfront.s3.amazonaws.com',
+]);
 const CJK_REGEX = /[\u3400-\u9fff\uf900-\ufaff]/;
 const LATIN_REGEX = /[A-Za-zÀ-ÖØ-öø-ÿ]/;
 
@@ -259,10 +265,25 @@ export function sortHospitalsByOwnershipPriority<T extends Hospital>(hospitals: 
 
 function normalizeMediaUrl(value: string | null | undefined): string | undefined {
   if (!value) return value ?? undefined;
-  if (value.startsWith('http://') || value.startsWith('https://') || value.startsWith('data:') || value.startsWith('blob:')) {
-    return value;
-  }
   const trimmedValue = value.trim();
+  if (trimmedValue.startsWith('data:') || trimmedValue.startsWith('blob:')) {
+    return trimmedValue;
+  }
+
+  if (trimmedValue.startsWith('http://') || trimmedValue.startsWith('https://')) {
+    try {
+      const url = new URL(trimmedValue);
+      if (LEGACY_MEDIA_HOSTS.has(url.hostname)) {
+        const normalizedPath = decodeURIComponent(url.pathname.replace(/^\/+/, ''));
+        return `${PUBLIC_MEDIA_BASE_URL}/${normalizedPath}`;
+      }
+    } catch {
+      return trimmedValue;
+    }
+
+    return trimmedValue;
+  }
+
   const normalizedPath = trimmedValue.startsWith('/') ? trimmedValue.slice(1) : trimmedValue;
   if (!normalizedPath.startsWith('crm/')) {
     return value;

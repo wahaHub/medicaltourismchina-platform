@@ -21,13 +21,9 @@ const publicMediaBaseUrl = (
   import.meta.env.VITE_PUBLIC_MEDIA_BASE_URL
   || 'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev'
 ).replace(/\/+$/, '');
-const publicVideoBaseUrl = (
-  import.meta.env.VITE_PUBLIC_VIDEO_BASE_URL
-  || 'https://medchina-videos.s3.amazonaws.com'
-).replace(/\/+$/, '');
 const homepageHeroVideoUrl =
   import.meta.env.VITE_HOMEPAGE_HERO_VIDEO_URL
-  || `${publicVideoBaseUrl}/videos/front.mp4`;
+  || `${publicMediaBaseUrl}/videos/desktop.mp4`;
 
 export const PUBLIC_MEDIA_BASE_URL = publicMediaBaseUrl;
 export const LOW_MEDIA_BASE_URL = `${publicMediaBaseUrl}/low`;
@@ -49,7 +45,7 @@ const PRODUCTION_CONFIG: MediaConfig = {
 // 开发环境配置 - 也使用 CDN 以确保图片正常加载
 const DEVELOPMENT_CONFIG: MediaConfig = {
   cdnBaseUrl: publicMediaBaseUrl,
-  s3BaseUrl: publicVideoBaseUrl,
+  s3BaseUrl: publicMediaBaseUrl,
 
   videos: {
     heroBackground: homepageHeroVideoUrl,

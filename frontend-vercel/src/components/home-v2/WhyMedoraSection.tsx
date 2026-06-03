@@ -6,7 +6,8 @@ import { getDoctorProfile, type DoctorId } from "@/i18n/doctorNames";
 import ProgressiveImage from "@/components/ProgressiveImage";
 
 // CloudFront base URL for low resolution images
-const LOW_MEDIA_BASE = `${(import.meta.env.VITE_PUBLIC_MEDIA_BASE_URL || 'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev').replace(/\/+$/, '')}/low`;
+const PUBLIC_MEDIA_BASE = (import.meta.env.VITE_PUBLIC_MEDIA_BASE_URL || 'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev').replace(/\/+$/, '');
+const LOW_MEDIA_BASE = `${PUBLIC_MEDIA_BASE}/low`;
 const HOMEPAGE_HOSPITAL_PLACEHOLDER_IMAGE_URL = `${LOW_MEDIA_BASE}/root_assets/surgery_placeholder_x2.png`;
 
 type HomepageHospitalLocale = "en" | "zh" | "de" | "fr" | "es";
@@ -22,15 +23,15 @@ const HOMEPAGE_PUBLIC_HOSPITAL_IDS: HospitalId[] = ["16", "3", "10", "9", "12", 
 const HOMEPAGE_PRIVATE_HOSPITALS = [
   {
     id: "17" as HospitalId,
-    image: HOMEPAGE_HOSPITAL_PLACEHOLDER_IMAGE_URL,
+    image: `${PUBLIC_MEDIA_BASE}/hospital_photos/public/f100fb70-3f9a-49c3-b85f-4efa3d73d696/hero.png`,
   },
   {
     id: "18" as HospitalId,
-    image: HOMEPAGE_HOSPITAL_PLACEHOLDER_IMAGE_URL,
+    image: `${PUBLIC_MEDIA_BASE}/hospital_photos/public/d4b86613-9459-487b-8b2a-e4b531548436/hero.jpg`,
   },
   {
     id: "19" as HospitalId,
-    image: HOMEPAGE_HOSPITAL_PLACEHOLDER_IMAGE_URL,
+    image: `${PUBLIC_MEDIA_BASE}/hospital_photos/public/4f22747e-91d0-47d7-8ae3-f3e818ef962e/hero.jpg`,
   },
 ] as const;
 

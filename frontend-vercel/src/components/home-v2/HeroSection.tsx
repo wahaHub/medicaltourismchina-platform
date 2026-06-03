@@ -6,10 +6,9 @@ import { useEffect, useRef, useState } from "react";
 import { HomepageJourneyEntry } from "@/components/SearchBar";
 
 const PUBLIC_MEDIA_BASE = (import.meta.env.VITE_PUBLIC_MEDIA_BASE_URL || 'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev').replace(/\/+$/, '');
-const PUBLIC_VIDEO_BASE = (import.meta.env.VITE_PUBLIC_VIDEO_BASE_URL || 'https://medchina-videos.s3.amazonaws.com').replace(/\/+$/, '');
 const LOW_MEDIA_BASE = `${PUBLIC_MEDIA_BASE}/low`;
 const HERO_POSTER_URL = `${LOW_MEDIA_BASE}/figma-assets/hero-bg_x2.png`;
-const HERO_VIDEO_URL = import.meta.env.VITE_HOMEPAGE_HERO_VIDEO_URL || `${PUBLIC_VIDEO_BASE}/videos/front.mp4`;
+const HERO_VIDEO_URL = import.meta.env.VITE_HOMEPAGE_HERO_VIDEO_URL || `${PUBLIC_MEDIA_BASE}/videos/desktop.mp4`;
 
 export default function HeroSection() {
   const { t } = useLanguage();

@@ -155,6 +155,53 @@ describe('hospitalApi media normalization', () => {
     expect(response.data.gallery?.[0]?.url).toBe('https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev/crm/dev/materials-regular/gallery.png');
   });
 
+  it('rewrites legacy CloudFront hospital media URLs to the current R2 public base', async () => {
+    vi.stubGlobal('fetch', vi.fn().mockResolvedValue(
+      new Response(JSON.stringify({
+        data: [
+          {
+            id: 'f100fb70-3f9a-49c3-b85f-4efa3d73d696',
+            slug: 'guangzhou-concord-cancer-center',
+            name: '广州泰和肿瘤医院 (Guangzhou Concord Cancer Center)',
+            display_name: '广州泰和肿瘤医院',
+            city: 'guangzhou',
+            district: 'Tianhe',
+            province: 'Guangdong',
+            tier: 'Tier 3A',
+            hospital_type: 'specialist',
+            ownership_type: 'private',
+            short_description: 'desc',
+            department_count: 1,
+            created_at: '2026-04-16T00:00:00.000Z',
+            updated_at: '2026-04-16T00:00:00.000Z',
+            hero_image_url: 'https://d1wwcixye6at8o.cloudfront.net/hospital_photos/public/f100fb70-3f9a-49c3-b85f-4efa3d73d696/hero.png',
+          },
+        ],
+        meta: {
+          requested_locale: 'zh',
+          resolved_locale: 'zh',
+          filters: {},
+          pagination: {
+            limit: 24,
+            offset: 0,
+            returned: 1,
+            total: 1,
+          },
+          generated_at: '2026-04-16T00:00:00.000Z',
+        },
+      }), {
+        status: 200,
+        headers: { 'Content-Type': 'application/json' },
+      }),
+    ));
+
+    const response = await hospitalApi.getHospitals({ locale: 'zh' });
+
+    expect(response.data[0].hero_image_url).toBe(
+      'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev/hospital_photos/public/f100fb70-3f9a-49c3-b85f-4efa3d73d696/hero.png',
+    );
+  });
+
   it('normalizes nested package detail media into absolute URLs', async () => {
     vi.stubGlobal('fetch', vi.fn().mockResolvedValue(
       new Response(JSON.stringify({
