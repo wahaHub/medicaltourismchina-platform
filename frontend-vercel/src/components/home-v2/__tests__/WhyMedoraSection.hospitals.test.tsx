@@ -34,15 +34,15 @@ describe('WhyMedoraSection homepage hospitals', () => {
     expect(hospitals.slice(0, 3)).toEqual([
       expect.objectContaining({
         name: 'Guangzhou Concord Cancer Center',
-        image: expect.stringContaining('hospital_photos/public/f100fb70-3f9a-49c3-b85f-4efa3d73d696/hero.png'),
+        image: expect.stringContaining('/low/root_assets/surgery_placeholder_x2.png'),
       }),
       expect.objectContaining({
         name: 'Chengdu Aidi Eye Hospital',
-        image: expect.stringContaining('hospital_photos/public/d4b86613-9459-487b-8b2a-e4b531548436/hero.jpg'),
+        image: expect.stringContaining('/low/root_assets/surgery_placeholder_x2.png'),
       }),
       expect.objectContaining({
         name: 'Chongqing Hygeia Hospital',
-        image: expect.stringContaining('hospital_photos/public/4f22747e-91d0-47d7-8ae3-f3e818ef962e/hero.jpg'),
+        image: expect.stringContaining('/low/root_assets/surgery_placeholder_x2.png'),
       }),
     ]);
   });

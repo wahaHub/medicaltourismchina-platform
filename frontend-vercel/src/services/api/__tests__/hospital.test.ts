@@ -488,4 +488,50 @@ describe('hospitalApi media normalization', () => {
       'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev/low/hospitals/private/%E9%87%8D%E5%BA%86%E8%8E%B1%E4%BD%9B%E5%A3%AB%E5%8C%BB%E9%99%A25.png',
     ]);
   });
+
+  it('uses the known private R2 image set for Clifford Hospital aliases', async () => {
+    vi.stubGlobal('fetch', vi.fn().mockResolvedValue(
+      new Response(JSON.stringify({
+        data: {
+          id: 'hospital-clifford',
+          slug: 'clifford-hospital',
+          name: '广东祈福医院 Clifford Hospital',
+          display_name: '广东祈福医院 Clifford Hospital',
+          city: '广州',
+          district: '番禺',
+          province: 'Guangdong',
+          tier: '',
+          hospital_type: 'general',
+          ownership_type: 'Private',
+          short_description: 'desc',
+          department_count: 1,
+          created_at: '2026-04-16T00:00:00.000Z',
+          updated_at: '2026-04-16T00:00:00.000Z',
+          hero_image_url: 'crm/prod/materials-regular/hospital-image/hospital-clifford/hero.jpg',
+          gallery: [],
+        },
+        meta: {
+          requested_locale: 'zh',
+          resolved_locale: 'zh',
+          slug: 'clifford-hospital',
+          generated_at: '2026-04-16T00:00:00.000Z',
+        },
+      }), {
+        status: 200,
+        headers: { 'Content-Type': 'application/json' },
+      }),
+    ));
+
+    const response = await hospitalApi.getHospitalExtendedBySlug('clifford-hospital', 'zh');
+
+    expect(response.data.hero_image_url).toBe(
+      'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev/low/hospitals/private/%E5%B9%BF%E5%B7%9E%E7%A5%88%E7%A6%8F%E5%8C%BB%E9%99%A2.png',
+    );
+    expect(response.data.gallery?.map((item) => item.url)).toEqual([
+      'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev/low/hospitals/private/%E5%B9%BF%E5%B7%9E%E7%A5%88%E7%A6%8F%E5%8C%BB%E9%99%A2.png',
+      'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev/low/hospitals/private/%E5%B9%BF%E5%B7%9E%E7%A5%88%E7%A6%8F%E5%8C%BB%E9%99%A22.png',
+      'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev/low/hospitals/private/%E5%B9%BF%E5%B7%9E%E7%A5%88%E7%A6%8F%E5%8C%BB%E9%99%A23.png',
+      'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev/low/hospitals/private/%E5%B9%BF%E5%B7%9E%E7%A5%88%E7%A6%8F%E5%8C%BB%E9%99%A24.png',
+    ]);
+  });
 });

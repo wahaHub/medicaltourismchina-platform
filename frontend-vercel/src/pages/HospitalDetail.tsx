@@ -126,9 +126,6 @@ type FaqItem = {
   a: string;
 };
 
-const CDN =
-  "https://d1wwcixye6at8o.cloudfront.net/hospital_photos/public/d4b86613-9459-487b-8b2a-e4b531548436";
-
 const pageFontClass = "font-['Inter',sans-serif]";
 const pageShellClass =
   "bg-[linear-gradient(180deg,#f6fcfb_0%,#eef8f7_48%,#f7fbff_100%)]";
