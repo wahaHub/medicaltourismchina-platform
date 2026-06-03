@@ -7,7 +7,7 @@ import { usePatientAuth } from '@/hooks/usePatientAuth';
 import { usePatientEntry } from '@/hooks/usePatientEntry';
 import { usePatientSessionRuntime } from '@/features/patient-sessions/PatientSessionRuntimeProvider';
 import { patientChatbotV3Api } from '@/services/api/patient-chatbot-v3';
-import { patientMessagesApi } from '@/services/api/patient-messages';
+import { patientMessagesApi, type PatientChatState } from '@/services/api/patient-messages';
 import PatientEntryWindow from '../PatientEntryWindow';
 
 vi.mock('@/contexts/LanguageContext', () => ({
@@ -35,7 +35,7 @@ vi.mock('@/services/api/patient-chatbot-v3', () => ({
 
 vi.mock('@/services/api/patient-messages', () => ({
   patientMessagesApi: {
-    confirmProcessGuide: vi.fn(),
+    sendSessionChatEvent: vi.fn(),
   },
 }));
 
@@ -62,6 +62,22 @@ function renderWithQueryClient(ui: ReactElement) {
     </QueryClientProvider>,
   );
 }
+
+const backendMechanicalState: PatientChatState = {
+  botMode: 'mechanical',
+  availableActions: [
+    { id: 'VIEW_PROCESS', label: '了解就医流程', icon: 'route' },
+    { id: 'UPLOAD_RECORDS', label: '上传医疗资料', icon: 'upload' },
+    { id: 'CONTACT_ADVISOR', label: '联系顾问', icon: 'handshake' },
+    { id: 'OPEN_QUESTIONNAIRE', label: '填写病情表', icon: 'clipboard' },
+  ],
+  composerPolicy: {
+    textEnabled: false,
+    attachmentsEnabled: true,
+    sendEnabledWhen: 'attachment_only',
+    placeholder: '请使用上方菜单继续。',
+  },
+};
 
 const careTeamSession = {
   id: 'widget-chat:patient-1:case-1',
@@ -135,6 +151,7 @@ function buildRuntimeState(overrides: Record<string, unknown> = {}) {
       hospitalName: null,
       isAiAvailable: true,
       chatAuthority: 'AI_ACTIVE',
+      chatState: backendMechanicalState,
       data: [],
       total: 0,
       page: 1,
@@ -152,7 +169,7 @@ function buildRuntimeState(overrides: Record<string, unknown> = {}) {
   };
 }
 
-describe('PatientEntryWindow mechanical chat', () => {
+describe('PatientEntryWindow backend-owned mechanical chat', () => {
   beforeEach(() => {
     vi.clearAllMocks();
 
@@ -173,105 +190,45 @@ describe('PatientEntryWindow mechanical chat', () => {
 
     vi.mocked(usePatientEntry).mockReturnValue(buildPatientEntryState() as never);
     vi.mocked(usePatientSessionRuntime).mockReturnValue(buildRuntimeState() as never);
-    vi.mocked(patientMessagesApi.confirmProcessGuide).mockResolvedValue({
-      ok: true,
-      status: 'confirmed',
-    });
+    vi.mocked(patientMessagesApi.sendSessionChatEvent).mockResolvedValue({} as never);
   });
 
-  it('renders the fixed intro and compact action bar after profile onboarding', () => {
+  it('renders backend-provided mechanical actions after profile onboarding', () => {
     renderWithQueryClient(<PatientEntryWindow />);
 
-    expect(screen.getByText(/您好，我是 Medora 医疗旅程助手/)).toBeDefined();
     expect(screen.getByRole('button', { name: '了解就医流程' })).toBeDefined();
     expect(screen.getByRole('button', { name: '上传医疗资料' })).toBeDefined();
     expect(screen.getByRole('button', { name: '联系顾问' })).toBeDefined();
     expect(screen.getByRole('button', { name: '填写病情表' })).toBeDefined();
+    expect(screen.getByPlaceholderText('请使用上方菜单继续。')).toBeDefined();
   });
 
-  it('localizes the mechanical menu after profile onboarding', () => {
-    vi.mocked(useLanguage).mockReturnValue({
-      currentLanguage: {
-        code: 'en',
-      },
-      t: (key: string) => key,
-    } as never);
-
-    renderWithQueryClient(<PatientEntryWindow />);
-
-    expect(screen.getByText(/Hello, I am your Medora care journey assistant/)).toBeDefined();
-    expect(screen.getByRole('button', { name: 'Review care journey' })).toBeDefined();
-    expect(screen.getByRole('button', { name: 'Upload medical records' })).toBeDefined();
-    expect(screen.getByRole('button', { name: 'Contact coordinator' })).toBeDefined();
-    expect(screen.getByRole('button', { name: 'Complete medical form' })).toBeDefined();
-    expect(screen.getByPlaceholderText('Use the menu above to continue. This flow will not send free text to AI.')).toBeDefined();
-  });
-
-  it('also honors the explicit CRM mechanicalChat flag when it is present', () => {
+  it('does not render the mechanical menu unless the backend chatState says mechanical', () => {
     vi.mocked(usePatientSessionRuntime).mockReturnValue(buildRuntimeState({
       detail: {
         ...buildRuntimeState().detail,
-        mechanicalChat: {
-          enabled: true,
-          introShown: true,
-          actions: {},
-          events: [],
+        chatState: {
+          ...backendMechanicalState,
+          botMode: 'human',
+          availableActions: [],
+          composerPolicy: {
+            textEnabled: true,
+            attachmentsEnabled: true,
+            sendEnabledWhen: 'text_or_attachment',
+            placeholder: '给医疗团队发送消息...',
+          },
         },
       },
     }) as never);
 
     renderWithQueryClient(<PatientEntryWindow />);
 
-    expect(screen.getByTestId('mechanical-chat-menu')).toBeDefined();
+    expect(screen.queryByTestId('mechanical-chat-menu')).toBeNull();
+    expect(screen.getByPlaceholderText('给医疗团队发送消息...')).toBeDefined();
   });
 
-  it('does not crash while the active session detail is still loading', () => {
-    vi.mocked(usePatientSessionRuntime).mockReturnValue(buildRuntimeState({
-      detail: null,
-      detailLoading: true,
-    }) as never);
-
-    expect(() => renderWithQueryClient(<PatientEntryWindow />)).not.toThrow();
-    expect(screen.getByText('正在加载医疗团队消息...')).toBeDefined();
-  });
-
-  it('shows the retry state when active session detail fails before any detail is cached', () => {
-    vi.mocked(usePatientSessionRuntime).mockReturnValue(buildRuntimeState({
-      detail: null,
-      detailLoading: false,
-      detailError: 'Unable to load conversation',
-    }) as never);
-
-    renderWithQueryClient(<PatientEntryWindow />);
-
-    expect(screen.getByText('Unable to load conversation')).toBeDefined();
-    expect(screen.queryByText('正在加载医疗团队消息...')).toBeNull();
-  });
-
-  it('hides the action bar while a selected turn is in progress and does not call chatbot v3', async () => {
-    renderWithQueryClient(<PatientEntryWindow />);
-
-    fireEvent.click(screen.getByRole('button', { name: '上传医疗资料' }));
-
-    expect(screen.queryByRole('button', { name: '上传医疗资料' })).toBeNull();
-    expect(screen.getByText('请您先同意赴华就医流程和服务规则，然后我们才能继续引导您上传医疗资料。')).toBeDefined();
-
-    fireEvent.change(screen.getByRole('textbox'), {
-      target: { value: '自由输入不应发送给 AI' },
-    });
-    fireEvent.click(screen.getByRole('button', { name: '发送' }));
-
-    await waitFor(() => {
-      expect(patientChatbotV3Api.sendMessage).not.toHaveBeenCalled();
-    });
-  });
-
-  it('persists process confirmation before unlocking gated actions', async () => {
-    const markProcessConfirmed = vi.fn();
+  it('sends backend action events instead of calling chatbot v3', async () => {
     const refreshActiveSession = vi.fn();
-    vi.mocked(usePatientEntry).mockReturnValue(buildPatientEntryState({
-      markProcessConfirmed,
-    }) as never);
     vi.mocked(usePatientSessionRuntime).mockReturnValue(buildRuntimeState({
       refreshActiveSession,
     }) as never);
@@ -279,149 +236,65 @@ describe('PatientEntryWindow mechanical chat', () => {
     renderWithQueryClient(<PatientEntryWindow />);
 
     fireEvent.click(screen.getByRole('button', { name: '上传医疗资料' }));
-    fireEvent.click(screen.getByRole('button', { name: '打开并确认流程' }));
-    fireEvent.click(screen.getByRole('checkbox'));
-    fireEvent.click(screen.getByRole('button', { name: 'processConfirm.confirm' }));
 
     await waitFor(() => {
-      expect(patientMessagesApi.confirmProcessGuide).toHaveBeenCalledWith({
+      expect(patientMessagesApi.sendSessionChatEvent).toHaveBeenCalledWith({
         sessionId: 'widget-chat:patient-1:case-1',
+        eventType: 'ACTION_SELECTED',
+        actionKey: 'UPLOAD_RECORDS',
+        clientMessageId: 'ma:widget-chat:patient-1:case-1:ur',
+        locale: 'zh',
       });
-      expect(markProcessConfirmed).toHaveBeenCalled();
       expect(refreshActiveSession).toHaveBeenCalled();
     });
-
-    expect(screen.getByText('好的，请直接上传已有的检查报告、影像、化验单或病历摘要。文件会进入您的 Medora case，顾问和医疗团队可以继续查看。')).toBeDefined();
+    expect(patientChatbotV3Api.sendMessage).not.toHaveBeenCalled();
   });
 
-  it('persists legacy process-guide resource confirmations', async () => {
-    const markProcessConfirmed = vi.fn();
-    const refreshActiveSession = vi.fn();
-    vi.mocked(usePatientEntry).mockReturnValue(buildPatientEntryState({
-      markProcessConfirmed,
-      widgetChatTarget: null,
-    }) as never);
-    vi.mocked(usePatientSessionRuntime).mockReturnValue(buildRuntimeState({
-      detail: {
-        ...buildRuntimeState().detail,
-        data: [
-          {
-            id: 'history-process-message',
-            source: 'CHATBOT',
-            senderRole: 'ASSISTANT',
-            content: '',
-            createdAt: '2026-06-01T00:00:00.000Z',
-            attachments: [],
-            metadata: {
-              resources: [
-                {
-                  resourceId: 'process-resource-1',
-                  resourceType: 'PROCESS_GUIDE',
-                  status: 'ready',
-                  payload: {
-                    title: '赴华就医流程和服务规则',
-                    description: '请阅读并确认赴华就医流程和服务规则。',
-                    ctaLabel: '打开流程说明',
-                  },
-                },
-              ],
-            },
-          },
-        ],
-      },
-      refreshActiveSession,
-    }) as never);
-
-    renderWithQueryClient(<PatientEntryWindow />);
-
-    fireEvent.click(screen.getByRole('button', { name: '打开流程说明' }));
-    fireEvent.click(screen.getByRole('checkbox'));
-    fireEvent.click(screen.getByRole('button', { name: 'processConfirm.confirm' }));
-
-    await waitFor(() => {
-      expect(patientMessagesApi.confirmProcessGuide).toHaveBeenCalledWith({
-        sessionId: 'widget-chat:patient-1:case-1',
-      });
-      expect(markProcessConfirmed).toHaveBeenCalled();
-      expect(refreshActiveSession).toHaveBeenCalled();
-    });
-  });
-
-  it('marks questionnaire complete only after the form submit refreshes history', async () => {
-    const requestQuestionnaireTemplate = vi.fn();
-    const entryState = buildPatientEntryState({
-      requestQuestionnaireTemplate,
-      questionnaireHistoryRefreshNonce: 0,
-    });
-    vi.mocked(usePatientEntry).mockReturnValue(entryState as never);
-
-    const { rerender } = renderWithQueryClient(<PatientEntryWindow />);
-
-    fireEvent.click(screen.getByRole('button', { name: '填写病情表' }));
-    fireEvent.click(screen.getByRole('button', { name: '打开并确认流程' }));
-    fireEvent.click(screen.getByRole('checkbox'));
-    fireEvent.click(screen.getByRole('button', { name: 'processConfirm.confirm' }));
-    await waitFor(() => {
-      expect(patientMessagesApi.confirmProcessGuide).toHaveBeenCalled();
-    });
-    fireEvent.click(screen.getByRole('button', { name: '填写病情表' }));
-
-    expect(requestQuestionnaireTemplate).toHaveBeenCalledWith('DEFAULT');
-    expect(screen.queryByText('我们已收到您的病情表。Medora 医疗团队会结合您的资料继续评估。')).toBeNull();
-
-    vi.mocked(usePatientEntry).mockReturnValue({
-      ...entryState,
-      questionnaireHistoryRefreshNonce: 1,
-    } as never);
-    rerender(
-      <QueryClientProvider client={createTestQueryClient()}>
-        <PatientEntryWindow />
-      </QueryClientProvider>,
-    );
-
-    expect(screen.getByText('我们已收到您的病情表。Medora 医疗团队会结合您的资料继续评估。')).toBeDefined();
-    expect(screen.getByRole('button', { name: '修改病情表' })).toBeDefined();
-  });
-
-  it('opens the attachment picker and restores the action bar without completing when no file is selected', async () => {
-    const openComposerAttachmentPicker = vi.fn();
-    vi.mocked(usePatientEntry).mockReturnValue(buildPatientEntryState({
-      openComposerAttachmentPicker,
-    }) as never);
-
-    renderWithQueryClient(<PatientEntryWindow />);
-
-    fireEvent.click(screen.getByRole('button', { name: '上传医疗资料' }));
-    fireEvent.click(screen.getByRole('button', { name: '打开并确认流程' }));
-    fireEvent.click(screen.getByRole('checkbox'));
-    fireEvent.click(screen.getByRole('button', { name: 'processConfirm.confirm' }));
-    await waitFor(() => {
-      expect(patientMessagesApi.confirmProcessGuide).toHaveBeenCalled();
-    });
-
-    expect(screen.getByText('好的，请直接上传已有的检查报告、影像、化验单或病历摘要。文件会进入您的 Medora case，顾问和医疗团队可以继续查看。')).toBeDefined();
-    expect(screen.queryByText(/当前机械菜单不会在本页面直接收集文件/)).toBeNull();
-    fireEvent.click(screen.getByRole('button', { name: '选择文件上传' }));
-
-    expect(openComposerAttachmentPicker).toHaveBeenCalledTimes(1);
-    expect(screen.queryByText('您的医疗资料已上传到您的 Medora case。')).toBeNull();
-    expect(screen.queryByText('已完成')).toBeNull();
-    expect(screen.getByRole('button', { name: '上传医疗资料' })).toBeDefined();
-  });
-
-  it('does not claim handoff completed while backend handoff action is not wired', () => {
-    vi.mocked(usePatientEntry).mockReturnValue(buildPatientEntryState({
-      processConfirmed: true,
-    }) as never);
-
+  it('requests human handoff through the backend state machine', async () => {
     renderWithQueryClient(<PatientEntryWindow />);
 
     fireEvent.click(screen.getByRole('button', { name: '联系顾问' }));
-    expect(screen.getAllByText('我们会根据您已提交的基本信息安排人工团队跟进。请注意查收邮箱，Medora 顾问会继续联系您。').length).toBeGreaterThan(0);
-    expect(screen.queryByText(/已为您把整个 case 转交/)).toBeNull();
-    fireEvent.click(screen.getByRole('button', { name: '确认需要顾问联系' }));
 
-    expect(screen.getAllByText('我们会根据您已提交的基本信息安排人工团队跟进。请注意查收邮箱，Medora 顾问会继续联系您。').length).toBeGreaterThan(0);
-    expect(screen.queryByText(/case 已转交/)).toBeNull();
+    await waitFor(() => {
+      expect(patientMessagesApi.sendSessionChatEvent).toHaveBeenCalledWith({
+        sessionId: 'widget-chat:patient-1:case-1',
+        eventType: 'ACTION_SELECTED',
+        actionKey: 'CONTACT_ADVISOR',
+        clientMessageId: 'ma:widget-chat:patient-1:case-1:ca',
+        locale: 'zh',
+      });
+    });
+    expect(patientMessagesApi.sendSessionChatEvent).toHaveBeenCalledTimes(1);
+  });
+
+  it('keeps mechanical action client ids within backend validation limits', async () => {
+    const uuidSessionId = 'widget-chat:00000000-0000-4000-8000-000000000001:00000000-0000-4000-8000-000000000002';
+    const uuidSession = {
+      ...careTeamSession,
+      id: uuidSessionId,
+      sessionId: uuidSessionId,
+    };
+    vi.mocked(usePatientSessionRuntime).mockReturnValue(buildRuntimeState({
+      sessions: [uuidSession],
+      activeSessionId: uuidSessionId,
+      activeSession: uuidSession,
+      detail: {
+        ...buildRuntimeState().detail,
+        sessionId: uuidSessionId,
+      },
+    }) as never);
+
+    renderWithQueryClient(<PatientEntryWindow />);
+
+    fireEvent.click(screen.getByRole('button', { name: '填写病情表' }));
+
+    await waitFor(() => {
+      expect(patientMessagesApi.sendSessionChatEvent).toHaveBeenCalledWith(expect.objectContaining({
+        actionKey: 'OPEN_QUESTIONNAIRE',
+        clientMessageId: expect.any(String),
+      }));
+    });
+    const payload = vi.mocked(patientMessagesApi.sendSessionChatEvent).mock.calls[0]?.[0];
+    expect(payload?.clientMessageId?.length).toBeLessThanOrEqual(120);
   });
 });

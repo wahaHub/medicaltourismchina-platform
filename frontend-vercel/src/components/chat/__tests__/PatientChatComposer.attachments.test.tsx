@@ -25,6 +25,7 @@ vi.mock('@/services/api/patient-messages', () => ({
   patientMessagesApi: {
     initSessionAttachmentUpload: vi.fn(),
     sendSessionMessage: vi.fn(),
+    sendSessionChatEvent: vi.fn(),
   },
 }));
 
@@ -94,6 +95,7 @@ describe('PatientChatComposer attachments', () => {
       aiSummary: null,
       createdAt: '2026-04-05T00:00:00.000Z',
     } as never);
+    vi.mocked(patientMessagesApi.sendSessionChatEvent).mockResolvedValue({} as never);
 
     render(
       <PatientChatComposer
@@ -168,6 +170,11 @@ describe('PatientChatComposer attachments', () => {
         fileSize: 16,
         storageKey: 'mechanical-storage-key',
       },
+      message: {
+        serverMessageId: 'server-message-1',
+        clientMessageId: 'client-message-1',
+        deliveryStatus: 'uploading',
+      },
     });
     vi.mocked(patientMessagesApi.sendSessionMessage).mockResolvedValue({
       id: 'mechanical-message-1',
@@ -210,20 +217,26 @@ describe('PatientChatComposer attachments', () => {
         fileSize: file.size,
         mimeType: 'application/pdf',
         mechanicalMode: true,
+        clientMessageId: expect.stringMatching(/^mechanical-upload:/),
+        locale: 'en',
       });
     });
 
-    expect(patientMessagesApi.sendSessionMessage).toHaveBeenCalledWith({
+    expect(patientMessagesApi.sendSessionMessage).not.toHaveBeenCalled();
+    expect(patientMessagesApi.sendSessionChatEvent).toHaveBeenCalledWith({
       sessionId: 'widget-chat:patient-1:case-1',
-      content: '',
-      messageType: 'FILE',
-      mechanicalMode: true,
-      attachments: [{
-        fileName: 'ct-scan.pdf',
-        mimeType: 'application/pdf',
-        fileSize: 16,
-        storageKey: 'mechanical-storage-key',
-      }],
+      eventType: 'ATTACHMENT_UPLOAD_COMPLETED',
+      clientMessageId: 'client-message-1',
+      serverMessageId: 'server-message-1',
+      locale: 'en',
+      payload: {
+        attachments: [{
+          fileName: 'ct-scan.pdf',
+          mimeType: 'application/pdf',
+          fileSize: 16,
+          storageKey: 'mechanical-storage-key',
+        }],
+      },
     });
     expect(patientChatbotV3Api.sendMessage).not.toHaveBeenCalled();
     expect(onMessageMutation).toHaveBeenCalledWith(expect.objectContaining({
@@ -273,6 +286,91 @@ describe('PatientChatComposer attachments', () => {
     }));
     expect(onMessageMutation).toHaveBeenCalledWith(expect.objectContaining({
       update: [expect.objectContaining({
+        messageState: 'failed',
+      })],
+    }));
+    expect(patientMessagesApi.sendSessionChatEvent).toHaveBeenCalledWith(expect.objectContaining({
+      eventType: 'ATTACHMENT_UPLOAD_FAILED',
+      locale: 'en',
+    }));
+    expect(patientMessagesApi.sendSessionMessage).not.toHaveBeenCalled();
+  });
+
+  it('keeps successful mechanical uploads sent when another selected file fails', async () => {
+    const onMessageMutation = vi.fn();
+    const onMechanicalUploadFailed = vi.fn();
+
+    vi.mocked(patientMessagesApi.initSessionAttachmentUpload)
+      .mockResolvedValueOnce({
+        upload: {
+          uploadUrl: 'https://upload.example.com/success-file',
+          storageKey: 'success-storage-key',
+          expiresIn: 900,
+        },
+        asset: {
+          fileName: 'successful-report.pdf',
+          mimeType: 'application/pdf',
+          fileSize: 14,
+          storageKey: 'success-storage-key',
+        },
+        message: {
+          serverMessageId: 'server-success-1',
+          clientMessageId: 'client-success-1',
+          deliveryStatus: 'uploading',
+        },
+      })
+      .mockRejectedValueOnce(new Error('second file failed'));
+
+    render(
+      <PatientChatComposer
+        sessionId="widget-chat:patient-1:case-1"
+        assistantMode="AI_ACTIVE"
+        widgetChatTarget={{ sessionId: 'widget-session-1' }}
+        onMessageMutation={onMessageMutation}
+        onMechanicalUploadFailed={onMechanicalUploadFailed}
+        mechanicalMode
+      />,
+    );
+
+    const successFile = new File(['success'], 'successful-report.pdf', { type: 'application/pdf' });
+    const failedFile = new File(['failed'], 'failed-report.pdf', { type: 'application/pdf' });
+    fireEvent.change(screen.getByLabelText('Attach files'), { target: { files: [successFile, failedFile] } });
+    fireEvent.click(screen.getByRole('button', { name: 'Send' }));
+
+    await waitFor(() => {
+      expect(onMechanicalUploadFailed).toHaveBeenCalledWith(expect.any(Error));
+    });
+
+    const addCall = onMessageMutation.mock.calls.find(([mutation]) => Array.isArray(mutation.add) && mutation.add.length === 2);
+    const optimisticIds = addCall?.[0].add.map((message: { id: string }) => message.id) ?? [];
+    expect(optimisticIds).toHaveLength(2);
+
+    expect(patientMessagesApi.sendSessionChatEvent).toHaveBeenCalledWith({
+      sessionId: 'widget-chat:patient-1:case-1',
+      eventType: 'ATTACHMENT_UPLOAD_COMPLETED',
+      clientMessageId: 'client-success-1',
+      serverMessageId: 'server-success-1',
+      locale: 'en',
+      payload: {
+        attachments: [{
+          fileName: 'successful-report.pdf',
+          mimeType: 'application/pdf',
+          fileSize: 14,
+          storageKey: 'success-storage-key',
+        }],
+      },
+    });
+    expect(patientMessagesApi.sendSessionChatEvent).toHaveBeenCalledWith(expect.objectContaining({
+      eventType: 'ATTACHMENT_UPLOAD_FAILED',
+      clientMessageId: optimisticIds[1],
+      locale: 'en',
+    }));
+    expect(onMessageMutation).toHaveBeenCalledWith(expect.objectContaining({
+      removeIds: [optimisticIds[0]],
+    }));
+    expect(onMessageMutation).toHaveBeenCalledWith(expect.objectContaining({
+      update: [expect.objectContaining({
+        id: optimisticIds[1],
         messageState: 'failed',
       })],
     }));

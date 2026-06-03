@@ -80,6 +80,24 @@ describe('useActivePatientSessionController', () => {
     expect(MockWebSocket.instances).toHaveLength(1);
   });
 
+  it('passes locale through to the session detail query', () => {
+    renderHook(() => useActivePatientSessionController({
+      sessionId: 'widget-chat:patient-1:case-1',
+      enabled: true,
+      limit: 50,
+      locale: 'zh',
+    }));
+
+    expect(usePatientSessionDetail).toHaveBeenCalledWith(
+      'widget-chat:patient-1:case-1',
+      50,
+      {
+        enabled: true,
+        locale: 'zh',
+      },
+    );
+  });
+
   it('falls back to 5s polling while the websocket reconnects, then returns to ws mode', () => {
     const { result } = renderHook(() => useActivePatientSessionController({
       sessionId: 'widget-chat:patient-1:case-1',
@@ -132,6 +150,25 @@ describe('useActivePatientSessionController', () => {
     });
 
     expect(result.current.connectionState).toBe('ws');
+    expect(refetch).toHaveBeenCalledTimes(1);
+  });
+
+  it('refetches when the backend broadcasts patient chat state updates', () => {
+    renderHook(() => useActivePatientSessionController({
+      sessionId: 'widget-chat:patient-1:case-1',
+      enabled: true,
+      limit: 50,
+    }));
+
+    expect(MockWebSocket.instances).toHaveLength(1);
+    refetch.mockClear();
+
+    act(() => {
+      MockWebSocket.instances[0]?.onmessage?.({
+        data: JSON.stringify({ type: 'patient_chat_state_updated' }),
+      } as MessageEvent);
+    });
+
     expect(refetch).toHaveBeenCalledTimes(1);
   });
 

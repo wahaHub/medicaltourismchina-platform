@@ -14,7 +14,7 @@ import {
 export const patientSessionKeys = {
   all: ['patient-sessions'] as const,
   list: (caseId?: string | null) => ['patient-sessions', 'list', caseId ?? 'all'] as const,
-  detail: (sessionId: string) => ['patient-sessions', 'detail', sessionId] as const,
+  detail: (sessionId: string, locale?: 'en' | 'zh' | null) => ['patient-sessions', 'detail', sessionId, locale ?? 'en'] as const,
 };
 
 function mergeMessageIntoDetail(
@@ -53,9 +53,14 @@ export function usePatientSessions(caseId?: string | null, options?: { enabled?:
   });
 }
 
-export function usePatientSessionDetail(sessionId: string | null, limit = 100, options?: { enabled?: boolean }) {
+export function usePatientSessionDetail(
+  sessionId: string | null,
+  limit = 100,
+  options?: { enabled?: boolean; locale?: 'en' | 'zh' | null },
+) {
+  const locale = options?.locale ?? 'en';
   return useQuery({
-    queryKey: sessionId ? patientSessionKeys.detail(sessionId) : ['patient-sessions', 'detail', 'idle'],
+    queryKey: sessionId ? patientSessionKeys.detail(sessionId, locale) : ['patient-sessions', 'detail', 'idle', locale],
     queryFn: async () => {
       if (!sessionId) {
         throw new Error('Session id is required');
@@ -64,6 +69,7 @@ export function usePatientSessionDetail(sessionId: string | null, limit = 100, o
       return patientMessagesApi.getSessionMessages({
         sessionId,
         limit,
+        locale,
       });
     },
     enabled: Boolean(sessionId) && (options?.enabled ?? true),

@@ -59,6 +59,7 @@ export type PatientConversationRecord = {
 
 export type PatientConversationMessage = {
   id: string;
+  clientMessageId?: string | null;
   sessionId: string;
   conversationId: string | null;
   source?: 'FORMAL' | 'CHATBOT';
@@ -70,6 +71,7 @@ export type PatientConversationMessage = {
   translatedContent: string | null;
   messageType: string;
   moderationStatus: string;
+  deliveryStatus?: 'pending' | 'uploading' | 'sent' | 'failed' | null;
   attachments: PatientMessageAttachment[];
   aiSummary: string | null;
   blocks?: ChatbotMessageBlock[];
@@ -91,6 +93,24 @@ export type PatientConversationMessageList = {
   type?: 'CARE_TEAM' | 'HOSPITAL';
 };
 
+export type PatientChatActionKey = 'VIEW_PROCESS' | 'UPLOAD_RECORDS' | 'CONTACT_ADVISOR' | 'OPEN_QUESTIONNAIRE';
+export type PatientChatBotMode = 'mechanical' | 'ai' | 'human';
+
+export type PatientChatState = {
+  botMode: PatientChatBotMode;
+  availableActions: Array<{
+    id: PatientChatActionKey;
+    label: string;
+    icon?: string;
+  }>;
+  composerPolicy: {
+    textEnabled: boolean;
+    attachmentsEnabled: boolean;
+    sendEnabledWhen: 'text_or_attachment' | 'attachment_only' | 'disabled';
+    placeholder: string;
+  };
+};
+
 type PatientSessionDetailResponse = {
   sessionId: string;
   caseId: string | null;
@@ -106,6 +126,7 @@ type PatientSessionDetailResponse = {
   limit: number;
   totalPages: number;
   hasMore: boolean;
+  chatState?: PatientChatState;
 };
 
 export type PatientSessionMessage = PatientSessionDetailResponse['data'][number];
@@ -270,6 +291,37 @@ export async function confirmProcessGuide(input: {
   });
 }
 
+export async function sendSessionChatEvent(input: {
+  sessionId: string;
+  eventType:
+    | 'ACTION_SELECTED'
+    | 'PROCESS_GUIDE_CONFIRMED'
+    | 'PROCESS_GUIDE_DISMISSED'
+    | 'ADVISOR_HANDOFF_REQUESTED'
+    | 'QUESTIONNAIRE_OPENED'
+    | 'QUESTIONNAIRE_SUBMITTED'
+    | 'ATTACHMENT_UPLOAD_COMPLETED'
+    | 'ATTACHMENT_UPLOAD_FAILED'
+    | 'TEXT_MESSAGE_SUBMITTED';
+  actionKey?: PatientChatActionKey;
+  clientMessageId?: string;
+  serverMessageId?: string;
+  locale?: 'en' | 'zh';
+  payload?: Record<string, unknown>;
+}): Promise<PatientSessionDetail> {
+  return crmApiRequest<PatientSessionDetailResponse>(`/sessions/${input.sessionId}/chat/events`, {
+    method: 'POST',
+    body: JSON.stringify({
+      eventType: input.eventType,
+      actionKey: input.actionKey,
+      clientMessageId: input.clientMessageId,
+      serverMessageId: input.serverMessageId,
+      locale: input.locale ?? 'en',
+      payload: input.payload,
+    }),
+  });
+}
+
 export async function initConversationAttachmentUpload(input: {
   conversationId: string;
   fileName: string;
@@ -280,7 +332,7 @@ export async function initConversationAttachmentUpload(input: {
     uploadUrl: string;
     storageKey: string;
     expiresIn: number;
-  };
+  } | null;
   asset: {
     fileName: string;
     mimeType: string;
@@ -302,6 +354,8 @@ export async function initSessionAttachmentUpload(input: {
   fileSize: number;
   mimeType: string;
   mechanicalMode?: boolean;
+  clientMessageId?: string;
+  locale?: 'en' | 'zh';
 }): Promise<{
   upload: {
     uploadUrl: string;
@@ -314,6 +368,11 @@ export async function initSessionAttachmentUpload(input: {
     fileSize: number;
     storageKey: string;
   };
+  message?: {
+    serverMessageId: string;
+    clientMessageId: string | null;
+    deliveryStatus: 'pending' | 'uploading' | 'sent' | 'failed' | null;
+  } | null;
 }> {
   const suffix = input.mechanicalMode ? '?mode=mechanical' : '';
   return crmApiRequest(`/sessions/${input.sessionId}/attachments/upload${suffix}`, {
@@ -322,6 +381,8 @@ export async function initSessionAttachmentUpload(input: {
       fileName: input.fileName,
       fileSize: input.fileSize,
       mimeType: input.mimeType,
+      clientMessageId: input.clientMessageId,
+      locale: input.locale,
     }),
   });
 }
@@ -334,6 +395,7 @@ export const patientMessagesApi = {
   sendConversationMessage,
   sendSessionMessage,
   confirmProcessGuide,
+  sendSessionChatEvent,
   initConversationAttachmentUpload,
   initSessionAttachmentUpload,
 };
