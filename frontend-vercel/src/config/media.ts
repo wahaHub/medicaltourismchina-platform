@@ -21,6 +21,13 @@ const publicMediaBaseUrl = (
   import.meta.env.VITE_PUBLIC_MEDIA_BASE_URL
   || 'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev'
 ).replace(/\/+$/, '');
+const publicVideoBaseUrl = (
+  import.meta.env.VITE_PUBLIC_VIDEO_BASE_URL
+  || 'https://medchina-videos.s3.amazonaws.com'
+).replace(/\/+$/, '');
+const homepageHeroVideoUrl =
+  import.meta.env.VITE_HOMEPAGE_HERO_VIDEO_URL
+  || `${publicVideoBaseUrl}/videos/front.mp4`;
 
 export const PUBLIC_MEDIA_BASE_URL = publicMediaBaseUrl;
 export const LOW_MEDIA_BASE_URL = `${publicMediaBaseUrl}/low`;
@@ -31,7 +38,7 @@ const PRODUCTION_CONFIG: MediaConfig = {
   s3BaseUrl: 'https://medchina-videos.s3.amazonaws.com',
   
   videos: {
-    heroBackground: 'https://d10cuoob0h07to.cloudfront.net/videos/front.mp4'  // 视频仍使用视频分发域名
+    heroBackground: homepageHeroVideoUrl,
   },
   
   images: {
@@ -42,11 +49,10 @@ const PRODUCTION_CONFIG: MediaConfig = {
 // 开发环境配置 - 也使用 CDN 以确保图片正常加载
 const DEVELOPMENT_CONFIG: MediaConfig = {
   cdnBaseUrl: publicMediaBaseUrl,
-  s3BaseUrl: 'https://medchina-videos.s3.amazonaws.com',
+  s3BaseUrl: publicVideoBaseUrl,
 
   videos: {
-    // 开发环境使用本地文件
-    heroBackground: '/front.mp4'
+    heroBackground: homepageHeroVideoUrl,
   },
 
   images: {
