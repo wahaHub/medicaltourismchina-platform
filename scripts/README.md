@@ -40,6 +40,55 @@ Deploy frontend plus the Cloudflare content worker:
 python3 scripts/deploy_platform.py --targets frontend,content-worker
 ```
 
+## Hospital Source And Media Inventory
+
+Use `hospital_source_media_inventory.mjs` before changing hospital slugs, media paths, or read-model ownership. It is read-only: it queries China Supabase and, when configured, CRM Supabase, then writes a JSON report showing which hospitals are split across China public tables, CRM hospital/materials tables, low fallback media, legacy S3/CloudFront media, and R2 media.
+
+Required China Supabase env:
+
+```bash
+SUPABASE_URL=...
+SUPABASE_SERVICE_ROLE_KEY=...
+```
+
+Optional CRM env, needed to detect CRM `hospitals`, `hospital_material_packages`, and `hospital_material_reviews` coverage:
+
+```bash
+CRM_SUPABASE_URL=...
+CRM_SUPABASE_SERVICE_ROLE_KEY=...
+```
+
+Generate an inventory artifact:
+
+```bash
+SUPABASE_URL=... \
+SUPABASE_SERVICE_ROLE_KEY=... \
+CRM_SUPABASE_URL=... \
+CRM_SUPABASE_SERVICE_ROLE_KEY=... \
+node scripts/hospital_source_media_inventory.mjs \
+  --locale zh \
+  --limit 500 \
+  --out artifacts/hospital_source_media_inventory.json
+```
+
+Optionally sample-check media URLs:
+
+```bash
+node scripts/hospital_source_media_inventory.mjs \
+  --locale zh \
+  --limit 500 \
+  --check-images \
+  --image-sample-limit 5 \
+  --out artifacts/hospital_source_media_inventory.json
+```
+
+Key fields in the report:
+
+- `sources`: whether a hospital exists in China summary/detail/source table and CRM hospital/material tables.
+- `counts`: gallery, surgeons, equipment, procedure cases, reviews, and CRM package/review counts.
+- `media.summary.bySource`: distribution across R2, R2 low fallback, R2 hospital photos, legacy S3/CloudFront, CRM storage keys, and other HTTP media.
+- `warnings`: likely migration risks such as legacy media references, missing CRM hospital row, missing detail row, or rich detail that exists outside CRM materials.
+
 Deploy the CRM API to Lightsail:
 
 ```bash
