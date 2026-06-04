@@ -62,6 +62,28 @@ const sortHospitalsByOwnershipPriority = (hospitals = []) =>
     })
     .map(({ hospital }) => hospital)
 
+const UUID_REGEX = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i
+
+const findHospitalDetail = async (identifier, locale, select = '*') => {
+  const bySlug = await supa
+    .from('v_hospital_details')
+    .select(select)
+    .eq('slug', identifier)
+    .eq('locale', locale)
+    .single()
+
+  if (bySlug.data || bySlug.error?.code !== 'PGRST116' || !UUID_REGEX.test(identifier)) {
+    return bySlug
+  }
+
+  return supa
+    .from('v_hospital_details')
+    .select(select)
+    .eq('id', identifier)
+    .eq('locale', locale)
+    .single()
+}
+
 // ========== 翻译解析函数 ==========
 
 /**
@@ -637,12 +659,7 @@ export const getHospitalBySlug = async (event) => {
     return json(400, { error: 'Hospital slug is required' })
   }
   
-  const { data, error } = await supa
-    .from('v_hospital_details')
-    .select('*')
-    .eq('slug', slug)
-    .eq('locale', locale)
-    .single()
+  const { data, error } = await findHospitalDetail(slug, locale)
   
   if (error) {
     console.error('Error fetching hospital:', error)
@@ -676,12 +693,7 @@ export const getHospitalExtendedBySlug = async (event) => {
     return json(400, { error: 'Hospital slug is required' })
   }
 
-  const { data, error } = await supa
-    .from('v_hospital_details')
-    .select('*')
-    .eq('slug', slug)
-    .eq('locale', locale)
-    .single()
+  const { data, error } = await findHospitalDetail(slug, locale)
 
   if (error) {
     console.error('Error fetching hospital:', error)
@@ -752,12 +764,11 @@ export const getHospitalPackageDetailBySlug = async (event) => {
     return json(400, { error: 'Hospital slug and package slug are required' })
   }
 
-  const { data: hospital, error: hospitalError } = await supa
-    .from('v_hospital_details')
-    .select('id, slug, name, display_name, city, province')
-    .eq('slug', slug)
-    .eq('locale', locale)
-    .single()
+  const { data: hospital, error: hospitalError } = await findHospitalDetail(
+    slug,
+    locale,
+    'id, slug, name, display_name, city, province',
+  )
 
   if (hospitalError) {
     console.error('Error fetching hospital shell for package detail:', hospitalError)

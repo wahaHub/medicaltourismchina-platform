@@ -17,11 +17,13 @@ import HomePage from "./pages/HomePage";
 import Hospitals from "./pages/Hospitals";
 import HospitalDetail from "./pages/HospitalDetail";
 import HospitalPackageDetail from "./pages/HospitalPackageDetail";
+import LegacyHospitalRedirect from "./pages/LegacyHospitalRedirect";
 import Treatment from "./pages/Treatment";
 import TreatmentDetail from "./pages/TreatmentDetail";
 import ProcedureDetail from "./pages/ProcedureDetail";
 import FeaturedTreatmentDetail from "./pages/FeaturedTreatmentDetail";
 import DepartmentDetail from "./pages/DepartmentDetail";
+import SeoTreatmentLanding from "./pages/SeoTreatmentLanding";
 import Packages from "./pages/Packages";
 import Insurance from "./pages/Insurance";
 import Visa from "./pages/Visa";
@@ -47,6 +49,11 @@ import FreeQuote from "./pages/FreeQuote";
 import PatientLoginPage from "./pages/PatientLoginPage";
 import DashboardRoute from "./pages/DashboardRoute";
 import HealthPackages from "./pages/HealthPackages";
+import HollywoodSmileVeneers from "./pages/HollywoodSmileVeneers";
+import Rhinoplasty from "./pages/Rhinoplasty";
+import DoubleEyelidSurgery from "./pages/DoubleEyelidSurgery";
+import FaceLiposuction from "./pages/FaceLiposuction";
+import BariatricSurgery from "./pages/BariatricSurgery";
 
 const queryClient = new QueryClient();
 
@@ -70,6 +77,7 @@ const App = () => (
                     <Route path="/hospitals" element={<Hospitals />} />
                     <Route path="/hospitals/:slug" element={<HospitalDetail />} />
                     <Route path="/hospitals/:slug/packages/:packageSlug" element={<HospitalPackageDetail />} />
+                    <Route path="/hospital/:id" element={<LegacyHospitalRedirect />} />
                     <Route path="/treatment" element={<Treatment />} />
                     <Route path="/procedures/:slug" element={<ProcedureDetail />} />
                     <Route path="/featured-treatments/:slug" element={<FeaturedTreatmentDetail />} />
@@ -101,6 +109,15 @@ const App = () => (
                     <Route path="/transfer-money-for-treatment" element={<TransferMoney />} />
                     <Route path="/free-quote" element={<FreeQuote />} />
                     <Route path="/health-packages" element={<HealthPackages />} />
+                    <Route path="/hollywood-smile-veneers" element={<HollywoodSmileVeneers />} />
+                    <Route path="/rhinoplasty" element={<Rhinoplasty />} />
+                    <Route path="/double-eyelid-surgery" element={<DoubleEyelidSurgery />} />
+                    <Route path="/facial-liposuction" element={<FaceLiposuction />} />
+                    <Route path="/bariatric-surgery" element={<BariatricSurgery />} />
+                    <Route path="/cosmetic-surgery" element={<SeoTreatmentLanding type="cosmetic" />} />
+                    <Route path="/cancer-treatment" element={<SeoTreatmentLanding type="cancer" />} />
+                    <Route path="/dental-treatment" element={<SeoTreatmentLanding type="dental" />} />
+                    <Route path="/stem-cell-therapy" element={<SeoTreatmentLanding type="stemCell" />} />
 
                     {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
                     <Route path="*" element={<NotFound />} />

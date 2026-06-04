@@ -1,0 +1,59 @@
+import fs from "node:fs";
+import path from "node:path";
+import { describe, expect, it } from "vitest";
+
+const PROJECT_ROOT = path.resolve(__dirname, "../..");
+
+const SITEMAP_PATHS = [
+  "/",
+  "/cosmetic-surgery",
+  "/cancer-treatment",
+  "/dental-treatment",
+  "/stem-cell-therapy",
+  "/treatment",
+  "/hospitals",
+  "/packages",
+  "/why-china",
+  "/visa",
+  "/faq",
+];
+
+describe("SEO public entrypoints", () => {
+  it("publishes the legacy public sitemap URLs", () => {
+    const sitemapPath = path.join(PROJECT_ROOT, "public/sitemap.xml");
+
+    expect(fs.existsSync(sitemapPath)).toBe(true);
+
+    const sitemap = fs.readFileSync(sitemapPath, "utf8");
+    for (const publicPath of SITEMAP_PATHS) {
+      expect(sitemap).toContain(`https://www.medicaltourismchina.health${publicPath}`);
+    }
+  });
+
+  it("publishes robots.txt pointing crawlers at the sitemap", () => {
+    const robotsPath = path.join(PROJECT_ROOT, "public/robots.txt");
+
+    expect(fs.existsSync(robotsPath)).toBe(true);
+
+    const robots = fs.readFileSync(robotsPath, "utf8");
+    expect(robots).toContain("User-agent: Googlebot");
+    expect(robots).toContain("User-agent: *");
+    expect(robots).toContain("Allow: /");
+    expect(robots).toContain("Sitemap: https://www.medicaltourismchina.health/sitemap.xml");
+  });
+
+  it("registers legacy SEO landing and hospital compatibility routes", () => {
+    const appSource = fs.readFileSync(path.join(PROJECT_ROOT, "src/App.tsx"), "utf8");
+
+    expect(appSource).toContain('path="/cosmetic-surgery"');
+    expect(appSource).toContain('path="/cancer-treatment"');
+    expect(appSource).toContain('path="/dental-treatment"');
+    expect(appSource).toContain('path="/stem-cell-therapy"');
+    expect(appSource).toContain('path="/hollywood-smile-veneers"');
+    expect(appSource).toContain('path="/rhinoplasty"');
+    expect(appSource).toContain('path="/double-eyelid-surgery"');
+    expect(appSource).toContain('path="/facial-liposuction"');
+    expect(appSource).toContain('path="/bariatric-surgery"');
+    expect(appSource).toContain('path="/hospital/:id"');
+  });
+});

@@ -44,6 +44,14 @@ const generateHospitalPhotoUrls = (hospitalId: string, maxPhotos: number = 4): s
   return urls;
 };
 
+const probeImageUrl = (url: string): Promise<string | null> =>
+  new Promise((resolve) => {
+    const image = new Image();
+    image.onload = () => resolve(url);
+    image.onerror = () => resolve(null);
+    image.src = url;
+  });
+
 // Hospital Photo Slider Component
 const HospitalPhotoSlider = ({ hospitalId, hospitalName, heroImageUrl }: { hospitalId: string, hospitalName: string, heroImageUrl?: string }) => {
   const [currentPhotoIndex, setCurrentPhotoIndex] = useState(0);
@@ -51,10 +59,30 @@ const HospitalPhotoSlider = ({ hospitalId, hospitalName, heroImageUrl }: { hospi
   const [failedPhotos, setFailedPhotos] = useState<Set<string>>(new Set());
 
   useEffect(() => {
+    let isMounted = true;
     const photoUrls = generateHospitalPhotoUrls(hospitalId, 5);
-    setAvailablePhotos([heroImageUrl, ...photoUrls].filter(Boolean) as string[]);
+    const initialPhotos = [heroImageUrl].filter(Boolean) as string[];
+    setAvailablePhotos(initialPhotos);
     setFailedPhotos(new Set());
     setCurrentPhotoIndex(0);
+
+    Promise.all(photoUrls.map(probeImageUrl)).then((loadedPhotoUrls) => {
+      if (!isMounted) {
+        return;
+      }
+
+      const uniquePhotos = [...initialPhotos];
+      for (const url of loadedPhotoUrls) {
+        if (url && !uniquePhotos.includes(url)) {
+          uniquePhotos.push(url);
+        }
+      }
+      setAvailablePhotos(uniquePhotos);
+    });
+
+    return () => {
+      isMounted = false;
+    };
   }, [hospitalId, heroImageUrl]);
 
   const handleImageError = (url: string) => {
