@@ -1,0 +1,2110 @@
+{
+  "generatedAt": "2026-06-04T12:27:58.848Z",
+  "totals": {
+    "chinaApproved": 67,
+    "crmHospitals": 37,
+    "missingCrmHospitals": 60
+  },
+  "candidates": [
+    {
+      "id": "86261feb-843c-4f92-98f8-1ee0b8c40d78",
+      "slug": "cancer-hospital-chinese-academy-of-medical-sciences",
+      "name": "中国医学科学院肿瘤医院（国家癌症中心）",
+      "name_en": "中国医学科学院肿瘤医院（国家癌症中心）",
+      "address": "北京市朝阳区潘家园南里17号",
+      "city": "beijing",
+      "description": "中国医学科学院肿瘤医院（国家癌症中心）成立于1958年，位于北京，是一所其他综合性医院，在胸部肿瘤中心（肺癌/胸膜肿瘤）, 消化道肿瘤中心（胃肠道/食管）, 肝胆胰肿瘤中心等领域具有专业优势。",
+      "official_website": "https://www.cicams.ac.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "86261feb-843c-4f92-98f8-1ee0b8c40d78",
+        "name": "中国医学科学院肿瘤医院（国家癌症中心）",
+        "name_en": "中国医学科学院肿瘤医院（国家癌症中心）",
+        "address": "北京市朝阳区潘家园南里17号",
+        "city": "beijing",
+        "phone": null,
+        "email": null,
+        "description": "中国医学科学院肿瘤医院（国家癌症中心）成立于1958年，位于北京，是一所其他综合性医院，在胸部肿瘤中心（肺癌/胸膜肿瘤）, 消化道肿瘤中心（胃肠道/食管）, 肝胆胰肿瘤中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "中国医学科学院肿瘤医院（国家癌症中心） 官方网站 电话 地址",
+        "englishQuery": "中国医学科学院肿瘤医院（国家癌症中心） official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "65559336-adc8-466e-944d-b32574002500",
+      "slug": "peking-union-medical-college-hospital",
+      "name": "北京协和医院",
+      "name_en": "北京协和医院",
+      "address": "北京市东城区帅府园1号",
+      "city": "beijing",
+      "description": "北京协和医院成立于1921年，位于北京，是一所三甲综合性医院，在心血管医学中心, 肿瘤医学中心, 神经医学中心（神经内外科与介入）等领域具有专业优势。",
+      "official_website": "https://www.pumch.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "65559336-adc8-466e-944d-b32574002500",
+        "name": "北京协和医院",
+        "name_en": "北京协和医院",
+        "address": "北京市东城区帅府园1号",
+        "city": "beijing",
+        "phone": null,
+        "email": null,
+        "description": "北京协和医院成立于1921年，位于北京，是一所三甲综合性医院，在心血管医学中心, 肿瘤医学中心, 神经医学中心（神经内外科与介入）等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "北京协和医院 官方网站 电话 地址",
+        "englishQuery": "北京协和医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "0c736e6f-4485-442d-afec-bc185060e8e2",
+      "slug": "peking-university-peoples-hospital",
+      "name": "北京大学人民医院",
+      "name_en": "北京大学人民医院",
+      "address": "北京市西城区西直门南大街11号",
+      "city": "beijing",
+      "description": "北京大学人民医院成立于1918年，位于北京，是一所三甲综合性医院，在心血管医学中心, 肿瘤医学中心, 神经医学中心等领域具有专业优势。",
+      "official_website": "https://www.pkuph.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "0c736e6f-4485-442d-afec-bc185060e8e2",
+        "name": "北京大学人民医院",
+        "name_en": "北京大学人民医院",
+        "address": "北京市西城区西直门南大街11号",
+        "city": "beijing",
+        "phone": null,
+        "email": null,
+        "description": "北京大学人民医院成立于1918年，位于北京，是一所三甲综合性医院，在心血管医学中心, 肿瘤医学中心, 神经医学中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "北京大学人民医院 官方网站 电话 地址",
+        "englishQuery": "北京大学人民医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "971450f2-451c-4375-9145-0fb2d6db8587",
+      "slug": "peking-university-first-hospital",
+      "name": "北京大学第一医院",
+      "name_en": "北京大学第一医院",
+      "address": "北京市西城区西什库大街8号",
+      "city": "beijing",
+      "description": "北京大学第一医院成立于1915年，位于北京，是一所三甲综合性医院，在泌尿外科与男科中心, 肾脏病与血液净化中心, 心血管医学中心等领域具有专业优势。",
+      "official_website": "https://www.bddyyy.com.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "971450f2-451c-4375-9145-0fb2d6db8587",
+        "name": "北京大学第一医院",
+        "name_en": "北京大学第一医院",
+        "address": "北京市西城区西什库大街8号",
+        "city": "beijing",
+        "phone": null,
+        "email": null,
+        "description": "北京大学第一医院成立于1915年，位于北京，是一所三甲综合性医院，在泌尿外科与男科中心, 肾脏病与血液净化中心, 心血管医学中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "北京大学第一医院 官方网站 电话 地址",
+        "englishQuery": "北京大学第一医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "24ec797a-5355-4ee3-a8ff-8bb5552b1909",
+      "slug": "peking-university-third-hospital",
+      "name": "北京大学第三医院",
+      "name_en": "北京大学第三医院",
+      "address": "北京市海淀区花园北路49号",
+      "city": "beijing",
+      "description": "北京大学第三医院成立于1958年，位于北京市，是一所三甲综合性医院，在骨科与运动医学中心, 生殖医学中心, 关节重建与骨肿瘤中心等领域具有专业优势。",
+      "official_website": "https://www.puh3.net.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "24ec797a-5355-4ee3-a8ff-8bb5552b1909",
+        "name": "北京大学第三医院",
+        "name_en": "北京大学第三医院",
+        "address": "北京市海淀区花园北路49号",
+        "city": "beijing",
+        "phone": null,
+        "email": null,
+        "description": "北京大学第三医院成立于1958年，位于北京市，是一所三甲综合性医院，在骨科与运动医学中心, 生殖医学中心, 关节重建与骨肿瘤中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "北京大学第三医院 官方网站 电话 地址",
+        "englishQuery": "北京大学第三医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "82da3b60-b99c-4ea6-938d-643ad3436e0b",
+      "slug": "beijing-jishuitan-hospital",
+      "name": "北京积水潭医院",
+      "name_en": "北京积水潭医院",
+      "address": "北京市西城区新街口东街31号",
+      "city": "beijing",
+      "description": "北京积水潭医院成立于待查证年，位于北京，是一所三甲综合性医院，在骨科创伤中心, 脊柱外科与畸形矫形中心, 关节置换与重建中心等领域具有专业优势。",
+      "official_website": "https://www.jst-hosp.com.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "82da3b60-b99c-4ea6-938d-643ad3436e0b",
+        "name": "北京积水潭医院",
+        "name_en": "北京积水潭医院",
+        "address": "北京市西城区新街口东街31号",
+        "city": "beijing",
+        "phone": null,
+        "email": null,
+        "description": "北京积水潭医院成立于待查证年，位于北京，是一所三甲综合性医院，在骨科创伤中心, 脊柱外科与畸形矫形中心, 关节置换与重建中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "北京积水潭医院 官方网站 电话 地址",
+        "englishQuery": "北京积水潭医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "f95317df-3eb1-4fc7-a61a-fa02a24d6b06",
+      "slug": "beijing-friendship-hospital-capital-medical-university",
+      "name": "首都医科大学附属北京友谊医院",
+      "name_en": "首都医科大学附属北京友谊医院",
+      "address": "北京市西城区永安路95号",
+      "city": "beijing",
+      "description": "首都医科大学附属北京友谊医院成立于1952年，位于北京，是一所三甲综合性医院，在肝病与肝移植中心, 消化病与内镜中心, 胆胰疾病中心等领域具有专业优势。",
+      "official_website": "https://www.bfh.com.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "f95317df-3eb1-4fc7-a61a-fa02a24d6b06",
+        "name": "首都医科大学附属北京友谊医院",
+        "name_en": "首都医科大学附属北京友谊医院",
+        "address": "北京市西城区永安路95号",
+        "city": "beijing",
+        "phone": null,
+        "email": null,
+        "description": "首都医科大学附属北京友谊医院成立于1952年，位于北京，是一所三甲综合性医院，在肝病与肝移植中心, 消化病与内镜中心, 胆胰疾病中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "首都医科大学附属北京友谊医院 官方网站 电话 地址",
+        "englishQuery": "首都医科大学附属北京友谊医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "7763bc1c-c50c-4544-bce6-3b6e88bfeab9",
+      "slug": "beijing-tiantan-hospital-capital-medical-university",
+      "name": "首都医科大学附属北京天坛医院",
+      "name_en": "首都医科大学附属北京天坛医院",
+      "address": "北京市丰台区南四环西路119号",
+      "city": "beijing",
+      "description": "首都医科大学附属北京天坛医院成立于1956年，位于北京，是一所三甲综合性医院，在神经外科中心, 神经内科与卒中中心（综合卒中中心）, 脑血管病与神经介入中心等领域具有专业优势。",
+      "official_website": "https://www.bjtth.org/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "7763bc1c-c50c-4544-bce6-3b6e88bfeab9",
+        "name": "首都医科大学附属北京天坛医院",
+        "name_en": "首都医科大学附属北京天坛医院",
+        "address": "北京市丰台区南四环西路119号",
+        "city": "beijing",
+        "phone": null,
+        "email": null,
+        "description": "首都医科大学附属北京天坛医院成立于1956年，位于北京，是一所三甲综合性医院，在神经外科中心, 神经内科与卒中中心（综合卒中中心）, 脑血管病与神经介入中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "首都医科大学附属北京天坛医院 官方网站 电话 地址",
+        "englishQuery": "首都医科大学附属北京天坛医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "958d8184-c678-46ae-aa75-49a8530d1dcc",
+      "slug": "beijing-anzhen-hospital-capital-medical-university",
+      "name": "首都医科大学附属北京安贞医院",
+      "name_en": "首都医科大学附属北京安贞医院",
+      "address": "北京市朝阳区安贞路2号",
+      "city": "beijing",
+      "description": "首都医科大学附属北京安贞医院成立于1984年，位于北京，是一所三甲综合性医院，在心血管病中心（成人）, 结构性心脏病与瓣膜中心, 心律失常与电生理中心等领域具有专业优势。",
+      "official_website": "https://www.anzhen.org/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "958d8184-c678-46ae-aa75-49a8530d1dcc",
+        "name": "首都医科大学附属北京安贞医院",
+        "name_en": "首都医科大学附属北京安贞医院",
+        "address": "北京市朝阳区安贞路2号",
+        "city": "beijing",
+        "phone": null,
+        "email": null,
+        "description": "首都医科大学附属北京安贞医院成立于1984年，位于北京，是一所三甲综合性医院，在心血管病中心（成人）, 结构性心脏病与瓣膜中心, 心律失常与电生理中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "首都医科大学附属北京安贞医院 官方网站 电话 地址",
+        "englishQuery": "首都医科大学附属北京安贞医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "44188313-1d1b-4bb2-a68a-8742c0cfef0b",
+      "slug": "beijing-chaoyang-hospital-capital-medical-university",
+      "name": "首都医科大学附属北京朝阳医院",
+      "name_en": "首都医科大学附属北京朝阳医院",
+      "address": "北京市朝阳区工人体育场南路8号",
+      "city": "beijing",
+      "description": "首都医科大学附属北京朝阳医院成立于1958年，位于北京，是一所三甲综合性医院，在呼吸与危重症医学中心（含介入呼吸与睡眠医学）, 胸部肿瘤与胸外科微创中心, 心血管医学中心（胸痛中心/结构性心脏病）等领域具有专业优势。",
+      "official_website": "https://www.bjcyh.com.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "44188313-1d1b-4bb2-a68a-8742c0cfef0b",
+        "name": "首都医科大学附属北京朝阳医院",
+        "name_en": "首都医科大学附属北京朝阳医院",
+        "address": "北京市朝阳区工人体育场南路8号",
+        "city": "beijing",
+        "phone": null,
+        "email": null,
+        "description": "首都医科大学附属北京朝阳医院成立于1958年，位于北京，是一所三甲综合性医院，在呼吸与危重症医学中心（含介入呼吸与睡眠医学）, 胸部肿瘤与胸外科微创中心, 心血管医学中心（胸痛中心/结构性心脏病）等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "首都医科大学附属北京朝阳医院 官方网站 电话 地址",
+        "englishQuery": "首都医科大学附属北京朝阳医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "09c8678a-6452-44bc-a518-77b771b6bade",
+      "slug": "west-china-hospital-sichuan-university",
+      "name": "四川大学华西医院",
+      "name_en": "四川大学华西医院",
+      "address": "成都市武侯区国学巷37号",
+      "city": "chengdu",
+      "description": "四川大学华西医院成立于1892年，位于成都，是一所三甲综合性医院，在心血管医学中心, 肿瘤医学中心, 神经医学中心（神经内外科/卒中中心）等领域具有专业优势。",
+      "official_website": "https://www.cd120.com/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "09c8678a-6452-44bc-a518-77b771b6bade",
+        "name": "四川大学华西医院",
+        "name_en": "四川大学华西医院",
+        "address": "成都市武侯区国学巷37号",
+        "city": "chengdu",
+        "phone": null,
+        "email": null,
+        "description": "四川大学华西医院成立于1892年，位于成都，是一所三甲综合性医院，在心血管医学中心, 肿瘤医学中心, 神经医学中心（神经内外科/卒中中心）等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "四川大学华西医院 官方网站 电话 地址",
+        "englishQuery": "四川大学华西医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "5a8ec4d7-731f-43d4-a4ef-caecf2e1177b",
+      "slug": "west-china-second-university-hospital-sichuan-university",
+      "name": "四川大学华西第二医院",
+      "name_en": "四川大学华西第二医院",
+      "address": "成都市武侯区人民南路三段20号",
+      "city": "chengdu",
+      "description": "四川大学华西第二医院成立于待查证年，位于成都，是一所三甲综合性医院，在胎儿医学与高危产科中心, 生殖医学中心（辅助生殖）, 妇科肿瘤与微创外科中心等领域具有专业优势。",
+      "official_website": "https://www.motherchildren.com/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "5a8ec4d7-731f-43d4-a4ef-caecf2e1177b",
+        "name": "四川大学华西第二医院",
+        "name_en": "四川大学华西第二医院",
+        "address": "成都市武侯区人民南路三段20号",
+        "city": "chengdu",
+        "phone": null,
+        "email": null,
+        "description": "四川大学华西第二医院成立于待查证年，位于成都，是一所三甲综合性医院，在胎儿医学与高危产科中心, 生殖医学中心（辅助生殖）, 妇科肿瘤与微创外科中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "四川大学华西第二医院 官方网站 电话 地址",
+        "englishQuery": "四川大学华西第二医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "c0e22ee8-6b14-4aec-95ba-3eef2cc1c141",
+      "slug": "sichuan-provincial-peoples-hospital",
+      "name": "四川省人民医院（四川省医学科学院）",
+      "name_en": "四川省人民医院（四川省医学科学院）",
+      "address": "成都市青羊区一环路西二段32号",
+      "city": "chengdu",
+      "description": "四川省人民医院（四川省医学科学院）成立于待查证年，位于成都，是一所三甲综合性医院，在心血管病中心, 肿瘤医学中心, 神经医学中心（脑卒中与神经外科）等领域具有专业优势。",
+      "official_website": "https://www.samsph.com/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "c0e22ee8-6b14-4aec-95ba-3eef2cc1c141",
+        "name": "四川省人民医院（四川省医学科学院）",
+        "name_en": "四川省人民医院（四川省医学科学院）",
+        "address": "成都市青羊区一环路西二段32号",
+        "city": "chengdu",
+        "phone": null,
+        "email": null,
+        "description": "四川省人民医院（四川省医学科学院）成立于待查证年，位于成都，是一所三甲综合性医院，在心血管病中心, 肿瘤医学中心, 神经医学中心（脑卒中与神经外科）等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "四川省人民医院（四川省医学科学院） 官方网站 电话 地址",
+        "englishQuery": "四川省人民医院（四川省医学科学院） official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "90899bef-26a3-45bb-82dd-a684bae846c6",
+      "slug": "public-health-clinical-center-of-chengdu",
+      "name": "成都市公共卫生临床医疗中心",
+      "name_en": "成都市公共卫生临床医疗中心",
+      "address": "成都市青羊区金坛路377号",
+      "city": "chengdu",
+      "description": "成都市公共卫生临床医疗中心成立于待查证年，位于成都，是一所其他综合性医院，在传染病与肝病中心, 呼吸与重症医学（ARDS/ECMO）中心, HIV/AIDS 诊疗中心等领域具有专业优势。",
+      "official_website": "https://www.phcc120.com/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "90899bef-26a3-45bb-82dd-a684bae846c6",
+        "name": "成都市公共卫生临床医疗中心",
+        "name_en": "成都市公共卫生临床医疗中心",
+        "address": "成都市青羊区金坛路377号",
+        "city": "chengdu",
+        "phone": null,
+        "email": null,
+        "description": "成都市公共卫生临床医疗中心成立于待查证年，位于成都，是一所其他综合性医院，在传染病与肝病中心, 呼吸与重症医学（ARDS/ECMO）中心, HIV/AIDS 诊疗中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "成都市公共卫生临床医疗中心 官方网站 电话 地址",
+        "englishQuery": "成都市公共卫生临床医疗中心 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "ec8d7002-48ef-43be-b305-11b22600272e",
+      "slug": "chengdu-women-and-childrens-central-hospital",
+      "name": "成都市妇女儿童中心医院",
+      "name_en": "成都市妇女儿童中心医院",
+      "address": "成都市青羊区日月大道一段1619号",
+      "city": "chengdu",
+      "description": "成都市妇女儿童中心医院成立于待查证年，位于成都，是一所其他综合性医院，在产科危重症与胎盘植入中心（PAS）, 胎儿医学与产前诊断中心, 新生儿医学中心（NICU）等领域具有专业优势。",
+      "official_website": "https://www.wcch.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "ec8d7002-48ef-43be-b305-11b22600272e",
+        "name": "成都市妇女儿童中心医院",
+        "name_en": "成都市妇女儿童中心医院",
+        "address": "成都市青羊区日月大道一段1619号",
+        "city": "chengdu",
+        "phone": null,
+        "email": null,
+        "description": "成都市妇女儿童中心医院成立于待查证年，位于成都，是一所其他综合性医院，在产科危重症与胎盘植入中心（PAS）, 胎儿医学与产前诊断中心, 新生儿医学中心（NICU）等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "成都市妇女儿童中心医院 官方网站 电话 地址",
+        "englishQuery": "成都市妇女儿童中心医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "fb591355-61cf-4335-b801-e5b739fd6402",
+      "slug": "chengdu-first-peoples-hospital",
+      "name": "成都市第一人民医院",
+      "name_en": "成都市第一人民医院",
+      "address": "成都市青羊区文翁路18号",
+      "city": "chengdu",
+      "description": "成都市第一人民医院成立于待查证年，位于成都，是一所其他综合性医院，在心血管医学中心（胸痛中心）, 神经医学与卒中中心, 创伤与急诊医学中心等领域具有专业优势。",
+      "official_website": "https://www.cdzxy.com//",
+      "specialties": [],
+      "crmInsert": {
+        "id": "fb591355-61cf-4335-b801-e5b739fd6402",
+        "name": "成都市第一人民医院",
+        "name_en": "成都市第一人民医院",
+        "address": "成都市青羊区文翁路18号",
+        "city": "chengdu",
+        "phone": null,
+        "email": null,
+        "description": "成都市第一人民医院成立于待查证年，位于成都，是一所其他综合性医院，在心血管医学中心（胸痛中心）, 神经医学与卒中中心, 创伤与急诊医学中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "成都市第一人民医院 官方网站 电话 地址",
+        "englishQuery": "成都市第一人民医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "e7364844-085c-400e-819a-c6fdc17ddf87",
+      "slug": "chengdu-seventh-peoples-hospital",
+      "name": "成都市第七人民医院",
+      "name_en": "成都市第七人民医院",
+      "address": "成都市武侯区红牌楼北街2号",
+      "city": "chengdu",
+      "description": "成都市第七人民医院成立于待查证年，位于成都，是一所其他综合性医院，在呼吸与胸部疾病中心, 胸外科与微创肺部手术中心, 心血管医学中心等领域具有专业优势。",
+      "official_website": "https://www.cd7yy.com/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "e7364844-085c-400e-819a-c6fdc17ddf87",
+        "name": "成都市第七人民医院",
+        "name_en": "成都市第七人民医院",
+        "address": "成都市武侯区红牌楼北街2号",
+        "city": "chengdu",
+        "phone": null,
+        "email": null,
+        "description": "成都市第七人民医院成立于待查证年，位于成都，是一所其他综合性医院，在呼吸与胸部疾病中心, 胸外科与微创肺部手术中心, 心血管医学中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "成都市第七人民医院 官方网站 电话 地址",
+        "englishQuery": "成都市第七人民医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "6f649f32-de36-4f61-8669-90e324b9c76f",
+      "slug": "chengdu-third-peoples-hospital",
+      "name": "成都市第三人民医院",
+      "name_en": "成都市第三人民医院",
+      "address": "成都市青羊区青羊横街82号",
+      "city": "chengdu",
+      "description": "成都市第三人民医院成立于待查证年，位于成都，是一所其他综合性医院，在心血管疾病中心, 脑卒中与神经医学中心, 肿瘤多学科诊疗（MDT）中心等领域具有专业优势。",
+      "official_website": "https://www.cd3hospital.com/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "6f649f32-de36-4f61-8669-90e324b9c76f",
+        "name": "成都市第三人民医院",
+        "name_en": "成都市第三人民医院",
+        "address": "成都市青羊区青羊横街82号",
+        "city": "chengdu",
+        "phone": null,
+        "email": null,
+        "description": "成都市第三人民医院成立于待查证年，位于成都，是一所其他综合性医院，在心血管疾病中心, 脑卒中与神经医学中心, 肿瘤多学科诊疗（MDT）中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "成都市第三人民医院 官方网站 电话 地址",
+        "englishQuery": "成都市第三人民医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "8398d177-00a0-4244-bfcc-390218fae9bd",
+      "slug": "chengdu-second-peoples-hospital",
+      "name": "成都市第二人民医院",
+      "name_en": "成都市第二人民医院",
+      "address": "成都市锦江区庆云南街10号",
+      "city": "chengdu",
+      "description": "成都市第二人民医院成立于待查证年，位于成都，是一所其他综合性医院，在心血管医学中心, 肿瘤综合诊疗中心, 神经医学中心（脑卒中与功能神经外科）等领域具有专业优势。",
+      "official_website": "https://www.cd2120.com/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "8398d177-00a0-4244-bfcc-390218fae9bd",
+        "name": "成都市第二人民医院",
+        "name_en": "成都市第二人民医院",
+        "address": "成都市锦江区庆云南街10号",
+        "city": "chengdu",
+        "phone": null,
+        "email": null,
+        "description": "成都市第二人民医院成立于待查证年，位于成都，是一所其他综合性医院，在心血管医学中心, 肿瘤综合诊疗中心, 神经医学中心（脑卒中与功能神经外科）等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "成都市第二人民医院 官方网站 电话 地址",
+        "englishQuery": "成都市第二人民医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "affb6479-54cb-47b5-8fe0-8674c5eeb967",
+      "slug": "chengdu-fifth-peoples-hospital",
+      "name": "成都市第五人民医院",
+      "name_en": "成都市第五人民医院",
+      "address": "成都市金牛区一环路北一段33号",
+      "city": "chengdu",
+      "description": "成都市第五人民医院成立于待查证年，位于成都，是一所其他综合性医院，在心血管医学中心, 肿瘤与精准医学中心, 神经医学与卒中中心等领域具有专业优势。",
+      "official_website": "https://www.cd5120.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "affb6479-54cb-47b5-8fe0-8674c5eeb967",
+        "name": "成都市第五人民医院",
+        "name_en": "成都市第五人民医院",
+        "address": "成都市金牛区一环路北一段33号",
+        "city": "chengdu",
+        "phone": null,
+        "email": null,
+        "description": "成都市第五人民医院成立于待查证年，位于成都，是一所其他综合性医院，在心血管医学中心, 肿瘤与精准医学中心, 神经医学与卒中中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "成都市第五人民医院 官方网站 电话 地址",
+        "englishQuery": "成都市第五人民医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "d79a3e94-3eed-468e-9b7d-500b55d05264",
+      "slug": "chongqing-three-gorges-central-hospital",
+      "name": "重庆三峡中心医院",
+      "name_en": "重庆三峡中心医院",
+      "address": "重庆市万州区太白路165号",
+      "city": "chongqing",
+      "description": "重庆三峡中心医院成立于待查证年，位于重庆，是一所三甲综合性医院，在心血管医学中心（含胸痛中心）, 结构性心脏病介入与瓣膜中心, 肿瘤中心（放疗·化疗·MDT）等领域具有专业优势。",
+      "official_website": "https://sxyy.cqu.edu.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "d79a3e94-3eed-468e-9b7d-500b55d05264",
+        "name": "重庆三峡中心医院",
+        "name_en": "重庆三峡中心医院",
+        "address": "重庆市万州区太白路165号",
+        "city": "chongqing",
+        "phone": null,
+        "email": null,
+        "description": "重庆三峡中心医院成立于待查证年，位于重庆，是一所三甲综合性医院，在心血管医学中心（含胸痛中心）, 结构性心脏病介入与瓣膜中心, 肿瘤中心（放疗·化疗·MDT）等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "重庆三峡中心医院 官方网站 电话 地址",
+        "englishQuery": "重庆三峡中心医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "e035c4a4-2a80-410e-a868-0cb5db5f5574",
+      "slug": "childrens-hospital-of-chongqing-medical-university",
+      "name": "重庆医科大学附属儿童医院",
+      "name_en": "重庆医科大学附属儿童医院",
+      "address": "重庆市渝中区中山二路136号",
+      "city": "chongqing",
+      "description": "重庆医科大学附属儿童医院成立于待查证年，位于重庆，是一所三甲综合性医院，在先天性心脏病与儿童心血管中心, 儿童肿瘤与血液肿瘤中心, 神经医学与癫痫中心等领域具有专业优势。",
+      "official_website": "https://www.chcmu.com/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "e035c4a4-2a80-410e-a868-0cb5db5f5574",
+        "name": "重庆医科大学附属儿童医院",
+        "name_en": "重庆医科大学附属儿童医院",
+        "address": "重庆市渝中区中山二路136号",
+        "city": "chongqing",
+        "phone": null,
+        "email": null,
+        "description": "重庆医科大学附属儿童医院成立于待查证年，位于重庆，是一所三甲综合性医院，在先天性心脏病与儿童心血管中心, 儿童肿瘤与血液肿瘤中心, 神经医学与癫痫中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "重庆医科大学附属儿童医院 官方网站 电话 地址",
+        "englishQuery": "重庆医科大学附属儿童医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "4d99b2fb-40e0-4b76-9704-bb7b1f33d0a3",
+      "slug": "the-first-affiliated-hospital-of-chongqing-medical-university",
+      "name": "重庆医科大学附属第一医院",
+      "name_en": "重庆医科大学附属第一医院",
+      "address": "重庆市渝中区袁家岗友谊路1号",
+      "city": "chongqing",
+      "description": "重庆医科大学附属第一医院成立于待查证年，位于重庆，是一所三甲综合性医院，在心血管医学中心, 肿瘤综合诊疗中心, 神经医学中心（神经内外科/卒中中心）等领域具有专业优势。",
+      "official_website": "https://www.hospital-cqmu.com/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "4d99b2fb-40e0-4b76-9704-bb7b1f33d0a3",
+        "name": "重庆医科大学附属第一医院",
+        "name_en": "重庆医科大学附属第一医院",
+        "address": "重庆市渝中区袁家岗友谊路1号",
+        "city": "chongqing",
+        "phone": null,
+        "email": null,
+        "description": "重庆医科大学附属第一医院成立于待查证年，位于重庆，是一所三甲综合性医院，在心血管医学中心, 肿瘤综合诊疗中心, 神经医学中心（神经内外科/卒中中心）等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "重庆医科大学附属第一医院 官方网站 电话 地址",
+        "englishQuery": "重庆医科大学附属第一医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "49ffa70a-b9c4-41ae-a75f-e34b46ddf2d2",
+      "slug": "the-second-affiliated-hospital-of-chongqing-medical-university",
+      "name": "重庆医科大学附属第二医院",
+      "name_en": "重庆医科大学附属第二医院",
+      "address": "重庆市渝中区临江路76号",
+      "city": "chongqing",
+      "description": "重庆医科大学附属第二医院成立于待查证年，位于重庆，是一所三甲综合性医院，在心血管医学中心, 肿瘤综合诊疗中心, 神经医学中心（脑卒中与功能神经）等领域具有专业优势。",
+      "official_website": "https://baike.baidu.com/item/%E9%87%8D%E5%BA%86%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E7%AC%AC%E4%BA%8C%E5%8C%BB%E9%99%A2/3384522",
+      "specialties": [],
+      "crmInsert": {
+        "id": "49ffa70a-b9c4-41ae-a75f-e34b46ddf2d2",
+        "name": "重庆医科大学附属第二医院",
+        "name_en": "重庆医科大学附属第二医院",
+        "address": "重庆市渝中区临江路76号",
+        "city": "chongqing",
+        "phone": null,
+        "email": null,
+        "description": "重庆医科大学附属第二医院成立于待查证年，位于重庆，是一所三甲综合性医院，在心血管医学中心, 肿瘤综合诊疗中心, 神经医学中心（脑卒中与功能神经）等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "重庆医科大学附属第二医院 官方网站 电话 地址",
+        "englishQuery": "重庆医科大学附属第二医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "3abd2b41-e96e-4580-be38-941a23ba2250",
+      "slug": "chongqing-university-cancer-hospital",
+      "name": "重庆大学附属肿瘤医院（重庆市肿瘤医院）",
+      "name_en": "重庆大学附属肿瘤医院（重庆市肿瘤医院）",
+      "address": "重庆市沙坪坝区大学城中路55号",
+      "city": "chongqing",
+      "description": "重庆大学附属肿瘤医院（重庆市肿瘤医院）成立于待查证年，位于重庆，是一所三甲综合性医院，在胸部肿瘤中心（肺癌/纵隔肿瘤）, 消化道肿瘤中心（食管/胃/结直肠）, 肝胆胰肿瘤中心等领域具有专业优势。",
+      "official_website": "https://www.cqch.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "3abd2b41-e96e-4580-be38-941a23ba2250",
+        "name": "重庆大学附属肿瘤医院（重庆市肿瘤医院）",
+        "name_en": "重庆大学附属肿瘤医院（重庆市肿瘤医院）",
+        "address": "重庆市沙坪坝区大学城中路55号",
+        "city": "chongqing",
+        "phone": null,
+        "email": null,
+        "description": "重庆大学附属肿瘤医院（重庆市肿瘤医院）成立于待查证年，位于重庆，是一所三甲综合性医院，在胸部肿瘤中心（肺癌/纵隔肿瘤）, 消化道肿瘤中心（食管/胃/结直肠）, 肝胆胰肿瘤中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "重庆大学附属肿瘤医院（重庆市肿瘤医院） 官方网站 电话 地址",
+        "englishQuery": "重庆大学附属肿瘤医院（重庆市肿瘤医院） official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "b925b90a-431d-4303-bb62-8005c65f528f",
+      "slug": "chongqing-peoples-hospital",
+      "name": "重庆市人民医院",
+      "name_en": "重庆市人民医院",
+      "address": "重庆市九龙坡区科园一路2号",
+      "city": "chongqing",
+      "description": "重庆市人民医院成立于待查证年，位于重庆，是一所其他综合性医院，在心血管医学中心, 肿瘤与放射治疗中心, 神经医学中心（脑卒中与癫痫亚中心）等领域具有专业优势。",
+      "official_website": "https://cghhospital.org/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "b925b90a-431d-4303-bb62-8005c65f528f",
+        "name": "重庆市人民医院",
+        "name_en": "重庆市人民医院",
+        "address": "重庆市九龙坡区科园一路2号",
+        "city": "chongqing",
+        "phone": null,
+        "email": null,
+        "description": "重庆市人民医院成立于待查证年，位于重庆，是一所其他综合性医院，在心血管医学中心, 肿瘤与放射治疗中心, 神经医学中心（脑卒中与癫痫亚中心）等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "重庆市人民医院 官方网站 电话 地址",
+        "englishQuery": "重庆市人民医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "9a14f841-8acb-4a92-8bfe-eb80c449e290",
+      "slug": "chongqing-emergency-medical-center",
+      "name": "重庆市急救医疗中心（重庆大学附属中心医院）",
+      "name_en": "重庆市急救医疗中心（重庆大学附属中心医院）",
+      "address": "重庆市渝中区上清寺路1号",
+      "city": "chongqing",
+      "description": "重庆市急救医疗中心（重庆大学附属中心医院）成立于待查证年，位于重庆，是一所三甲综合性医院，在国家（区域）创伤救治中心, 急诊医学与危重症医学中心（ED/ICU）, 胸痛中心（心血管急救一体化）等领域具有专业优势。",
+      "official_website": "https://www.120cq.com.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "9a14f841-8acb-4a92-8bfe-eb80c449e290",
+        "name": "重庆市急救医疗中心（重庆大学附属中心医院）",
+        "name_en": "重庆市急救医疗中心（重庆大学附属中心医院）",
+        "address": "重庆市渝中区上清寺路1号",
+        "city": "chongqing",
+        "phone": null,
+        "email": null,
+        "description": "重庆市急救医疗中心（重庆大学附属中心医院）成立于待查证年，位于重庆，是一所三甲综合性医院，在国家（区域）创伤救治中心, 急诊医学与危重症医学中心（ED/ICU）, 胸痛中心（心血管急救一体化）等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "重庆市急救医疗中心（重庆大学附属中心医院） 官方网站 电话 地址",
+        "englishQuery": "重庆市急救医疗中心（重庆大学附属中心医院） official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "16e85d00-5986-47c5-aed6-17ae1f9032f6",
+      "slug": "daping-hospital-army-medical-university",
+      "name": "陆军军医大学大坪医院",
+      "name_en": "陆军军医大学大坪医院",
+      "address": "重庆市渝中区大坪长江二路10号",
+      "city": "chongqing",
+      "description": "陆军军医大学大坪医院成立于待查证年，位于重庆市，是一所三甲综合性医院，在创伤医学中心（国家级创伤救治体系核心单位）, 烧伤与整形修复中心, 骨科与运动医学中心等领域具有专业优势。",
+      "official_website": "http://www.dph-fsi.com/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "16e85d00-5986-47c5-aed6-17ae1f9032f6",
+        "name": "陆军军医大学大坪医院",
+        "name_en": "陆军军医大学大坪医院",
+        "address": "重庆市渝中区大坪长江二路10号",
+        "city": "chongqing",
+        "phone": null,
+        "email": null,
+        "description": "陆军军医大学大坪医院成立于待查证年，位于重庆市，是一所三甲综合性医院，在创伤医学中心（国家级创伤救治体系核心单位）, 烧伤与整形修复中心, 骨科与运动医学中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "陆军军医大学大坪医院 官方网站 电话 地址",
+        "englishQuery": "陆军军医大学大坪医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "7b6cc193-630e-457e-af8d-875ab9bd77d2",
+      "slug": "xinqiao-hospital-army-medical-university",
+      "name": "陆军军医大学新桥医院（第三军医大学第二附属医院）",
+      "name_en": "陆军军医大学新桥医院（第三军医大学第二附属医院）",
+      "address": "重庆市沙坪坝区新桥正街183号",
+      "city": "chongqing",
+      "description": "陆军军医大学新桥医院（第三军医大学第二附属医院）成立于待查证年，位于重庆市，是一所三甲综合性医院，在心血管医学中心, 肿瘤诊疗中心, 神经医学中心等领域具有专业优势。",
+      "official_website": "https://www.xqhospital.com.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "7b6cc193-630e-457e-af8d-875ab9bd77d2",
+        "name": "陆军军医大学新桥医院（第三军医大学第二附属医院）",
+        "name_en": "陆军军医大学新桥医院（第三军医大学第二附属医院）",
+        "address": "重庆市沙坪坝区新桥正街183号",
+        "city": "chongqing",
+        "phone": null,
+        "email": null,
+        "description": "陆军军医大学新桥医院（第三军医大学第二附属医院）成立于待查证年，位于重庆市，是一所三甲综合性医院，在心血管医学中心, 肿瘤诊疗中心, 神经医学中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "陆军军医大学新桥医院（第三军医大学第二附属医院） 官方网站 电话 地址",
+        "englishQuery": "陆军军医大学新桥医院（第三军医大学第二附属医院） official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "eb8f84a6-4ae0-4fcc-9c5c-196ff5912af4",
+      "slug": "southwest-hospital-army-medical-university",
+      "name": "陆军军医大学西南医院（第一附属医院）",
+      "name_en": "陆军军医大学西南医院（第一附属医院）",
+      "address": "重庆市沙坪坝区新桥正街30号",
+      "city": "chongqing",
+      "description": "陆军军医大学西南医院（第一附属医院）成立于待查证年，位于重庆，是一所三甲综合性医院，在烧伤与创面修复中心, 肝胆胰外科与移植中心, 心血管医学中心等领域具有专业优势。",
+      "official_website": "https://www.xnyy.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "eb8f84a6-4ae0-4fcc-9c5c-196ff5912af4",
+        "name": "陆军军医大学西南医院（第一附属医院）",
+        "name_en": "陆军军医大学西南医院（第一附属医院）",
+        "address": "重庆市沙坪坝区新桥正街30号",
+        "city": "chongqing",
+        "phone": null,
+        "email": null,
+        "description": "陆军军医大学西南医院（第一附属医院）成立于待查证年，位于重庆，是一所三甲综合性医院，在烧伤与创面修复中心, 肝胆胰外科与移植中心, 心血管医学中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "陆军军医大学西南医院（第一附属医院） 官方网站 电话 地址",
+        "englishQuery": "陆军军医大学西南医院（第一附属医院） official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "7ec7af7e-2cde-4686-abe0-01347a93a213",
+      "slug": "sun-yat-sen-memorial-hospital-sun-yat-sen-university",
+      "name": "中山大学孙逸仙纪念医院",
+      "name_en": "中山大学孙逸仙纪念医院",
+      "address": "广州市越秀区沿江西路107号",
+      "city": "guangzhou",
+      "description": "中山大学孙逸仙纪念医院成立于1835年，位于广州，是一所三甲综合性医院，在心血管医学中心, 肿瘤与乳腺疾病中心, 神经医学中心（神经内外科）等领域具有专业优势。",
+      "official_website": "https://www.gzsys.org.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "7ec7af7e-2cde-4686-abe0-01347a93a213",
+        "name": "中山大学孙逸仙纪念医院",
+        "name_en": "中山大学孙逸仙纪念医院",
+        "address": "广州市越秀区沿江西路107号",
+        "city": "guangzhou",
+        "phone": null,
+        "email": null,
+        "description": "中山大学孙逸仙纪念医院成立于1835年，位于广州，是一所三甲综合性医院，在心血管医学中心, 肿瘤与乳腺疾病中心, 神经医学中心（神经内外科）等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "中山大学孙逸仙纪念医院 官方网站 电话 地址",
+        "englishQuery": "中山大学孙逸仙纪念医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "4944a7b3-acc8-45a6-80a0-6ee210cb8a86",
+      "slug": "sun-yat-sen-university-cancer-center",
+      "name": "中山大学肿瘤防治中心（中山大学附属肿瘤医院）",
+      "name_en": "中山大学肿瘤防治中心（中山大学附属肿瘤医院）",
+      "address": "广州市越秀区东风东路651号",
+      "city": "guangzhou",
+      "description": "中山大学肿瘤防治中心（中山大学附属肿瘤医院）成立于1964年，位于广州，是一所三甲综合性医院，在胸部肿瘤中心（肺癌/食管癌）, 乳腺肿瘤中心, 胃肠与结直肠肿瘤中心等领域具有专业优势。",
+      "official_website": "https://www.sysucc.org.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "4944a7b3-acc8-45a6-80a0-6ee210cb8a86",
+        "name": "中山大学肿瘤防治中心（中山大学附属肿瘤医院）",
+        "name_en": "中山大学肿瘤防治中心（中山大学附属肿瘤医院）",
+        "address": "广州市越秀区东风东路651号",
+        "city": "guangzhou",
+        "phone": null,
+        "email": null,
+        "description": "中山大学肿瘤防治中心（中山大学附属肿瘤医院）成立于1964年，位于广州，是一所三甲综合性医院，在胸部肿瘤中心（肺癌/食管癌）, 乳腺肿瘤中心, 胃肠与结直肠肿瘤中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "中山大学肿瘤防治中心（中山大学附属肿瘤医院） 官方网站 电话 地址",
+        "englishQuery": "中山大学肿瘤防治中心（中山大学附属肿瘤医院） official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "55e9264d-eafc-46ed-b6c0-cb74187f10ec",
+      "slug": "the-first-affiliated-hospital-of-sun-yat-sen-university",
+      "name": "中山大学附属第一医院",
+      "name_en": "中山大学附属第一医院",
+      "address": "广州市越秀区中山二路58号",
+      "city": "guangzhou",
+      "description": "中山大学附属第一医院成立于1910年，位于广州，是一所三甲综合性医院，在心血管医学中心, 肿瘤综合诊疗中心, 神经医学中心（神经内外科/卒中中心）等领域具有专业优势。",
+      "official_website": "https://www.fahsysu.org.cn/home",
+      "specialties": [],
+      "crmInsert": {
+        "id": "55e9264d-eafc-46ed-b6c0-cb74187f10ec",
+        "name": "中山大学附属第一医院",
+        "name_en": "中山大学附属第一医院",
+        "address": "广州市越秀区中山二路58号",
+        "city": "guangzhou",
+        "phone": null,
+        "email": null,
+        "description": "中山大学附属第一医院成立于1910年，位于广州，是一所三甲综合性医院，在心血管医学中心, 肿瘤综合诊疗中心, 神经医学中心（神经内外科/卒中中心）等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "中山大学附属第一医院 官方网站 电话 地址",
+        "englishQuery": "中山大学附属第一医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "db39fd85-8e21-4805-94af-cc1977fcd2de",
+      "slug": "the-third-affiliated-hospital-of-sun-yat-sen-university",
+      "name": "中山大学附属第三医院",
+      "name_en": "中山大学附属第三医院",
+      "address": "广州市天河区天河路600号",
+      "city": "guangzhou",
+      "description": "中山大学附属第三医院成立于1971年，位于广州，是一所三甲综合性医院，在心血管医学中心, 肿瘤医学中心（MDT）, 神经医学与卒中中心等领域具有专业优势。",
+      "official_website": "https://www.zssy.com.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "db39fd85-8e21-4805-94af-cc1977fcd2de",
+        "name": "中山大学附属第三医院",
+        "name_en": "中山大学附属第三医院",
+        "address": "广州市天河区天河路600号",
+        "city": "guangzhou",
+        "phone": null,
+        "email": null,
+        "description": "中山大学附属第三医院成立于1971年，位于广州，是一所三甲综合性医院，在心血管医学中心, 肿瘤医学中心（MDT）, 神经医学与卒中中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "中山大学附属第三医院 官方网站 电话 地址",
+        "englishQuery": "中山大学附属第三医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "90985ac5-de4d-424e-8ba2-10d5d9be2cb3",
+      "slug": "nanfang-hospital-southern-medical-university",
+      "name": "南方医科大学南方医院",
+      "name_en": "南方医科大学南方医院",
+      "address": "广州市白云区广州大道北1838号",
+      "city": "guangzhou",
+      "description": "南方医科大学南方医院成立于待查证年，位于广州，是一所三甲综合性医院，在心血管医学中心, 肿瘤综合诊疗中心, 神经医学中心（神经内外科+介入）等领域具有专业优势。",
+      "official_website": "http://www.fimmu.com/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "90985ac5-de4d-424e-8ba2-10d5d9be2cb3",
+        "name": "南方医科大学南方医院",
+        "name_en": "南方医科大学南方医院",
+        "address": "广州市白云区广州大道北1838号",
+        "city": "guangzhou",
+        "phone": null,
+        "email": null,
+        "description": "南方医科大学南方医院成立于待查证年，位于广州，是一所三甲综合性医院，在心血管医学中心, 肿瘤综合诊疗中心, 神经医学中心（神经内外科+介入）等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "南方医科大学南方医院 官方网站 电话 地址",
+        "englishQuery": "南方医科大学南方医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "a04fc727-def7-4999-95d2-0a1e6a792b1b",
+      "slug": "zhujiang-hospital-of-southern-medical-university",
+      "name": "南方医科大学珠江医院",
+      "name_en": "南方医科大学珠江医院",
+      "address": "广州市海珠区工业大道中253号",
+      "city": "guangzhou",
+      "description": "南方医科大学珠江医院成立于待查证年，位于广州，是一所三甲综合性医院，在心血管医学中心, 肿瘤医学中心, 神经医学中心等领域具有专业优势。",
+      "official_website": "https://www.zjyy.com.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "a04fc727-def7-4999-95d2-0a1e6a792b1b",
+        "name": "南方医科大学珠江医院",
+        "name_en": "南方医科大学珠江医院",
+        "address": "广州市海珠区工业大道中253号",
+        "city": "guangzhou",
+        "phone": null,
+        "email": null,
+        "description": "南方医科大学珠江医院成立于待查证年，位于广州，是一所三甲综合性医院，在心血管医学中心, 肿瘤医学中心, 神经医学中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "南方医科大学珠江医院 官方网站 电话 地址",
+        "englishQuery": "南方医科大学珠江医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "6b631d8d-0b36-4ecb-818a-84e1c17367ea",
+      "slug": "guangdong-provincial-hospital-of-traditional-chinese-medicine",
+      "name": "广东省中医院（广州中医药大学第一附属医院）",
+      "name_en": "广东省中医院（广州中医药大学第一附属医院）",
+      "address": "广州市越秀区大德路111号",
+      "city": "guangzhou",
+      "description": "广东省中医院（广州中医药大学第一附属医院）成立于1933年，位于广州，是一所三甲综合性医院，在中西医结合肿瘤中心, 心血管疾病中心, 脑病与卒中中心等领域具有专业优势。",
+      "official_website": "https://www.gdtcm.com.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "6b631d8d-0b36-4ecb-818a-84e1c17367ea",
+        "name": "广东省中医院（广州中医药大学第一附属医院）",
+        "name_en": "广东省中医院（广州中医药大学第一附属医院）",
+        "address": "广州市越秀区大德路111号",
+        "city": "guangzhou",
+        "phone": null,
+        "email": null,
+        "description": "广东省中医院（广州中医药大学第一附属医院）成立于1933年，位于广州，是一所三甲综合性医院，在中西医结合肿瘤中心, 心血管疾病中心, 脑病与卒中中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "广东省中医院（广州中医药大学第一附属医院） 官方网站 电话 地址",
+        "englishQuery": "广东省中医院（广州中医药大学第一附属医院） official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "f86ad4e6-47dc-42cb-bb26-4ae1833618df",
+      "slug": "guangdong-provincial-peoples-hospital",
+      "name": "广东省人民医院",
+      "name_en": "广东省人民医院",
+      "address": "广州市越秀区中山二路106号",
+      "city": "guangzhou",
+      "description": "广东省人民医院成立于1946年，位于广州，是一所三甲综合性医院，在心血管医学中心, 神经医学与卒中中心, 肿瘤医学中心等领域具有专业优势。",
+      "official_website": "https://www.gdph.org.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "f86ad4e6-47dc-42cb-bb26-4ae1833618df",
+        "name": "广东省人民医院",
+        "name_en": "广东省人民医院",
+        "address": "广州市越秀区中山二路106号",
+        "city": "guangzhou",
+        "phone": null,
+        "email": null,
+        "description": "广东省人民医院成立于1946年，位于广州，是一所三甲综合性医院，在心血管医学中心, 神经医学与卒中中心, 肿瘤医学中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "广东省人民医院 官方网站 电话 地址",
+        "englishQuery": "广东省人民医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "812ca547-815a-4596-8583-8f377d32f0e2",
+      "slug": "the-first-affiliated-hospital-of-guangzhou-medical-university",
+      "name": "广州医科大学附属第一医院",
+      "name_en": "广州医科大学附属第一医院",
+      "address": "广州市越秀区沿江西路151号",
+      "city": "guangzhou",
+      "description": "广州医科大学附属第一医院成立于待查证年，位于广州，是一所三甲综合性医院，在国家呼吸医学中心/呼吸与危重症医学中心, 胸部肿瘤与胸外科中心, 心血管与结构性心脏病中心等领域具有专业优势。",
+      "official_website": "https://www.gyfyy.com/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "812ca547-815a-4596-8583-8f377d32f0e2",
+        "name": "广州医科大学附属第一医院",
+        "name_en": "广州医科大学附属第一医院",
+        "address": "广州市越秀区沿江西路151号",
+        "city": "guangzhou",
+        "phone": null,
+        "email": null,
+        "description": "广州医科大学附属第一医院成立于待查证年，位于广州，是一所三甲综合性医院，在国家呼吸医学中心/呼吸与危重症医学中心, 胸部肿瘤与胸外科中心, 心血管与结构性心脏病中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "广州医科大学附属第一医院 官方网站 电话 地址",
+        "englishQuery": "广州医科大学附属第一医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "8432110a-0903-4ca3-a8c2-6e272be36480",
+      "slug": "the-second-affiliated-hospital-of-guangzhou-medical-university",
+      "name": "广州医科大学附属第二医院",
+      "name_en": "广州医科大学附属第二医院",
+      "address": "广州市海珠区昌岗东路250号",
+      "city": "guangzhou",
+      "description": "广州医科大学附属第二医院成立于待查证年，位于广州，是一所三甲综合性医院，在心血管医学中心（结构性心脏病与介入）, 肿瘤综合诊疗中心（MDT）, 神经医学中心（卒中与神外）等领域具有专业优势。",
+      "official_website": "https://www.gzhmu.edu.cn/jgsz/fsyy.htm",
+      "specialties": [],
+      "crmInsert": {
+        "id": "8432110a-0903-4ca3-a8c2-6e272be36480",
+        "name": "广州医科大学附属第二医院",
+        "name_en": "广州医科大学附属第二医院",
+        "address": "广州市海珠区昌岗东路250号",
+        "city": "guangzhou",
+        "phone": null,
+        "email": null,
+        "description": "广州医科大学附属第二医院成立于待查证年，位于广州，是一所三甲综合性医院，在心血管医学中心（结构性心脏病与介入）, 肿瘤综合诊疗中心（MDT）, 神经医学中心（卒中与神外）等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "广州医科大学附属第二医院 官方网站 电话 地址",
+        "englishQuery": "广州医科大学附属第二医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "4767f0e7-ae7e-470a-aefc-5436f4510801",
+      "slug": "renji-hospital-school-of-medicine-shanghai-jiao-tong-university",
+      "name": "上海交通大学医学院附属仁济医院（东院）",
+      "name_en": "上海交通大学医学院附属仁济医院（东院）",
+      "address": "上海市浦东新区浦建路160号",
+      "city": "shanghai",
+      "description": "上海交通大学医学院附属仁济医院（东院）成立于1844年，位于上海，是一所三甲综合性医院，在消化病与内镜中心, 肝胆胰外科与肝移植中心, 泌尿外科与肾移植中心等领域具有专业优势。",
+      "official_website": "https://www.renji.com/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "4767f0e7-ae7e-470a-aefc-5436f4510801",
+        "name": "上海交通大学医学院附属仁济医院（东院）",
+        "name_en": "上海交通大学医学院附属仁济医院（东院）",
+        "address": "上海市浦东新区浦建路160号",
+        "city": "shanghai",
+        "phone": null,
+        "email": null,
+        "description": "上海交通大学医学院附属仁济医院（东院）成立于1844年，位于上海，是一所三甲综合性医院，在消化病与内镜中心, 肝胆胰外科与肝移植中心, 泌尿外科与肾移植中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "上海交通大学医学院附属仁济医院（东院） 官方网站 电话 地址",
+        "englishQuery": "上海交通大学医学院附属仁济医院（东院） official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "7c160f2c-3d60-4cc2-a014-9b9e3e19358a",
+      "slug": "xinhua-hospital-shanghai-jiao-tong-university-school-of-medicine",
+      "name": "上海交通大学医学院附属新华医院",
+      "name_en": "上海交通大学医学院附属新华医院",
+      "address": "上海市杨浦区控江路1665号",
+      "city": "shanghai",
+      "description": "上海交通大学医学院附属新华医院成立于1958年，位于上海，是一所三甲综合性医院，在儿童消化与营养中心, 小儿外科与先天畸形修复中心, 先天性心脏病与小儿心血管中心等领域具有专业优势。",
+      "official_website": "https://www.xinhuamed.com.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "7c160f2c-3d60-4cc2-a014-9b9e3e19358a",
+        "name": "上海交通大学医学院附属新华医院",
+        "name_en": "上海交通大学医学院附属新华医院",
+        "address": "上海市杨浦区控江路1665号",
+        "city": "shanghai",
+        "phone": null,
+        "email": null,
+        "description": "上海交通大学医学院附属新华医院成立于1958年，位于上海，是一所三甲综合性医院，在儿童消化与营养中心, 小儿外科与先天畸形修复中心, 先天性心脏病与小儿心血管中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "上海交通大学医学院附属新华医院 官方网站 电话 地址",
+        "englishQuery": "上海交通大学医学院附属新华医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "73552190-1233-4a28-b797-ffd09131ee5d",
+      "slug": "ruijin-hospital-shanghai-jiao-tong-university-school-of-medicine",
+      "name": "上海交通大学医学院附属瑞金医院",
+      "name_en": "上海交通大学医学院附属瑞金医院",
+      "address": "上海市黄浦区瑞金二路197号",
+      "city": "shanghai",
+      "description": "上海交通大学医学院附属瑞金医院成立于1907年，位于上海，是一所三甲综合性医院，在国家代谢性疾病临床医学研究中心（内分泌与代谢中心）, 血液肿瘤与造血中心（上海血液学研究所联合）, 精准医学与医学基因组中心等领域具有专业优势。",
+      "official_website": "https://www.rjh.com.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "73552190-1233-4a28-b797-ffd09131ee5d",
+        "name": "上海交通大学医学院附属瑞金医院",
+        "name_en": "上海交通大学医学院附属瑞金医院",
+        "address": "上海市黄浦区瑞金二路197号",
+        "city": "shanghai",
+        "phone": null,
+        "email": null,
+        "description": "上海交通大学医学院附属瑞金医院成立于1907年，位于上海，是一所三甲综合性医院，在国家代谢性疾病临床医学研究中心（内分泌与代谢中心）, 血液肿瘤与造血中心（上海血液学研究所联合）, 精准医学与医学基因组中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "上海交通大学医学院附属瑞金医院 官方网站 电话 地址",
+        "englishQuery": "上海交通大学医学院附属瑞金医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "7c763037-2c63-45d4-9d8e-99957bd4eca6",
+      "slug": "shanghai-general-hospital-sjtu-school-of-medicine",
+      "name": "上海交通大学医学院附属第一人民医院（上海市第一人民医院）",
+      "name_en": "上海交通大学医学院附属第一人民医院（上海市第一人民医院）",
+      "address": "上海市虹口区武进路100号",
+      "city": "shanghai",
+      "description": "上海交通大学医学院附属第一人民医院（上海市第一人民医院）成立于1864年，位于上海，是一所三甲综合性医院，在心血管医学中心, 肿瘤综合诊疗中心（MDT）, 神经医学中心（卒中与神外）等领域具有专业优势。",
+      "official_website": "https://www.shsmu.edu.cn/ylfw/fsyy1/fsdyrmyy.htm",
+      "specialties": [],
+      "crmInsert": {
+        "id": "7c763037-2c63-45d4-9d8e-99957bd4eca6",
+        "name": "上海交通大学医学院附属第一人民医院（上海市第一人民医院）",
+        "name_en": "上海交通大学医学院附属第一人民医院（上海市第一人民医院）",
+        "address": "上海市虹口区武进路100号",
+        "city": "shanghai",
+        "phone": null,
+        "email": null,
+        "description": "上海交通大学医学院附属第一人民医院（上海市第一人民医院）成立于1864年，位于上海，是一所三甲综合性医院，在心血管医学中心, 肿瘤综合诊疗中心（MDT）, 神经医学中心（卒中与神外）等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "上海交通大学医学院附属第一人民医院（上海市第一人民医院） 官方网站 电话 地址",
+        "englishQuery": "上海交通大学医学院附属第一人民医院（上海市第一人民医院） official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "58bc5990-61a8-47c7-83fe-7d30ef1779ee",
+      "slug": "shanghai-sixth-peoples-hospital-shanghai-jiao-tong-university-school-of-medicine",
+      "name": "上海交通大学医学院附属第六人民医院（上海市第六人民医院）",
+      "name_en": "上海交通大学医学院附属第六人民医院（上海市第六人民医院）",
+      "address": "上海市徐汇区宜山路600号",
+      "city": "shanghai",
+      "description": "上海交通大学医学院附属第六人民医院（上海市第六人民医院）成立于1904年，位于上海，是一所三甲综合性医院，在创伤与骨科中心, 运动医学与关节镜中心, 足踝外科中心等领域具有专业优势。",
+      "official_website": "https://www.6thhosp.com/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "58bc5990-61a8-47c7-83fe-7d30ef1779ee",
+        "name": "上海交通大学医学院附属第六人民医院（上海市第六人民医院）",
+        "name_en": "上海交通大学医学院附属第六人民医院（上海市第六人民医院）",
+        "address": "上海市徐汇区宜山路600号",
+        "city": "shanghai",
+        "phone": null,
+        "email": null,
+        "description": "上海交通大学医学院附属第六人民医院（上海市第六人民医院）成立于1904年，位于上海，是一所三甲综合性医院，在创伤与骨科中心, 运动医学与关节镜中心, 足踝外科中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "上海交通大学医学院附属第六人民医院（上海市第六人民医院） 官方网站 电话 地址",
+        "englishQuery": "上海交通大学医学院附属第六人民医院（上海市第六人民医院） official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "258197cf-f8ca-4d1e-aa42-3c307bfd28c1",
+      "slug": "shanghai-tenth-peoples-hospital-tongji-university-school-of-medicine",
+      "name": "上海市第十人民医院（同济大学附属第十人民医院）",
+      "name_en": "上海市第十人民医院（同济大学附属第十人民医院）",
+      "address": "上海市静安区延长中路301号",
+      "city": "shanghai",
+      "description": "上海市第十人民医院（同济大学附属第十人民医院）成立于待查证年，位于上海，是一所三甲综合性医院，在骨科与运动医学中心, 手外科与显微重建中心, 泌尿外科与微创结石中心等领域具有专业优势。",
+      "official_website": "https://www.shdsyy.com.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "258197cf-f8ca-4d1e-aa42-3c307bfd28c1",
+        "name": "上海市第十人民医院（同济大学附属第十人民医院）",
+        "name_en": "上海市第十人民医院（同济大学附属第十人民医院）",
+        "address": "上海市静安区延长中路301号",
+        "city": "shanghai",
+        "phone": null,
+        "email": null,
+        "description": "上海市第十人民医院（同济大学附属第十人民医院）成立于待查证年，位于上海，是一所三甲综合性医院，在骨科与运动医学中心, 手外科与显微重建中心, 泌尿外科与微创结石中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "上海市第十人民医院（同济大学附属第十人民医院） 官方网站 电话 地址",
+        "englishQuery": "上海市第十人民医院（同济大学附属第十人民医院） official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "a172163d-0e68-4455-94e2-9b39d7fcdb40",
+      "slug": "shanghai-chest-hospital-shanghai-jiao-tong-university",
+      "name": "上海市胸科医院",
+      "name_en": "上海市胸科医院",
+      "address": "上海市徐汇区淮海西路241号",
+      "city": "shanghai",
+      "description": "上海市胸科医院成立于1957年，位于上海，是一所三甲综合性医院，在心血管中心（心外科+心内科）, 结构性心脏病与瓣膜介入中心, 胸外科与胸部肿瘤中心等领域具有专业优势。",
+      "official_website": "https://www.shsmu.edu.cn/ylfw/fsyy1/fsxkyy.htm",
+      "specialties": [],
+      "crmInsert": {
+        "id": "a172163d-0e68-4455-94e2-9b39d7fcdb40",
+        "name": "上海市胸科医院",
+        "name_en": "上海市胸科医院",
+        "address": "上海市徐汇区淮海西路241号",
+        "city": "shanghai",
+        "phone": null,
+        "email": null,
+        "description": "上海市胸科医院成立于1957年，位于上海，是一所三甲综合性医院，在心血管中心（心外科+心内科）, 结构性心脏病与瓣膜介入中心, 胸外科与胸部肿瘤中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "上海市胸科医院 官方网站 电话 地址",
+        "englishQuery": "上海市胸科医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "7ebbd4e8-9b4a-4ed3-bf00-8e589d743814",
+      "slug": "zhongshan-hospital-fudan-university",
+      "name": "复旦大学附属中山医院",
+      "name_en": "复旦大学附属中山医院",
+      "address": "上海市徐汇区医学院路160号",
+      "city": "shanghai",
+      "description": "复旦大学附属中山医院成立于1937年，位于上海，是一所三甲综合性医院，在心血管医学中心, 肝癌与肝胆胰外科中心（复旦大学肝癌研究所）, 器官移植中心等领域具有专业优势。",
+      "official_website": "https://baike.baidu.com/item/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E4%B8%AD%E5%B1%B1%E5%8C%BB%E9%99%A2/3258525",
+      "specialties": [],
+      "crmInsert": {
+        "id": "7ebbd4e8-9b4a-4ed3-bf00-8e589d743814",
+        "name": "复旦大学附属中山医院",
+        "name_en": "复旦大学附属中山医院",
+        "address": "上海市徐汇区医学院路160号",
+        "city": "shanghai",
+        "phone": null,
+        "email": null,
+        "description": "复旦大学附属中山医院成立于1937年，位于上海，是一所三甲综合性医院，在心血管医学中心, 肝癌与肝胆胰外科中心（复旦大学肝癌研究所）, 器官移植中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "复旦大学附属中山医院 官方网站 电话 地址",
+        "englishQuery": "复旦大学附属中山医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "71d088b9-148b-43d0-b841-466e9a2481f3",
+      "slug": "huashan-hospital-fudan-university",
+      "name": "复旦大学附属华山医院",
+      "name_en": "复旦大学附属华山医院",
+      "address": "上海市静安区乌鲁木齐中路12号",
+      "city": "shanghai",
+      "description": "复旦大学附属华山医院成立于1907年，位于上海，是一所三甲综合性医院，在神经医学中心（神经外科/神经内科/神经重症）, 脑血管与卒中中心, 功能神经外科与神经调控中心等领域具有专业优势。",
+      "official_website": "https://www.huashan.org.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "71d088b9-148b-43d0-b841-466e9a2481f3",
+        "name": "复旦大学附属华山医院",
+        "name_en": "复旦大学附属华山医院",
+        "address": "上海市静安区乌鲁木齐中路12号",
+        "city": "shanghai",
+        "phone": null,
+        "email": null,
+        "description": "复旦大学附属华山医院成立于1907年，位于上海，是一所三甲综合性医院，在神经医学中心（神经外科/神经内科/神经重症）, 脑血管与卒中中心, 功能神经外科与神经调控中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "复旦大学附属华山医院 官方网站 电话 地址",
+        "englishQuery": "复旦大学附属华山医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "500fd231-bd61-4768-bee2-23c11a65095a",
+      "slug": "eye-ent-hospital-of-fudan-university",
+      "name": "复旦大学附属眼耳鼻喉科医院",
+      "name_en": "复旦大学附属眼耳鼻喉科医院",
+      "address": "上海市徐汇区汾阳路83号",
+      "city": "shanghai",
+      "description": "复旦大学附属眼耳鼻喉科医院成立于1952年，位于上海，是一所三甲综合性医院，在白内障与屈光手术中心, 角膜与眼表疾病中心, 青光眼中心等领域具有专业优势。",
+      "official_website": "http://www.fdeent.org/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "500fd231-bd61-4768-bee2-23c11a65095a",
+        "name": "复旦大学附属眼耳鼻喉科医院",
+        "name_en": "复旦大学附属眼耳鼻喉科医院",
+        "address": "上海市徐汇区汾阳路83号",
+        "city": "shanghai",
+        "phone": null,
+        "email": null,
+        "description": "复旦大学附属眼耳鼻喉科医院成立于1952年，位于上海，是一所三甲综合性医院，在白内障与屈光手术中心, 角膜与眼表疾病中心, 青光眼中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "复旦大学附属眼耳鼻喉科医院 官方网站 电话 地址",
+        "englishQuery": "复旦大学附属眼耳鼻喉科医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "24872781-f62f-49b5-8ff7-b97a78d6bc1d",
+      "slug": "peking-university-shenzhen-hospital",
+      "name": "北京大学深圳医院",
+      "name_en": "北京大学深圳医院",
+      "address": "深圳市福田区莲花路1120号",
+      "city": "shenzhen",
+      "description": "北京大学深圳医院成立于待查证年，位于深圳，是一所三甲综合性医院，在心血管医学中心, 肿瘤医学中心, 神经医学中心（脑卒中与神经介入）等领域具有专业优势。",
+      "official_website": "https://www.pkuszh.com/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "24872781-f62f-49b5-8ff7-b97a78d6bc1d",
+        "name": "北京大学深圳医院",
+        "name_en": "北京大学深圳医院",
+        "address": "深圳市福田区莲花路1120号",
+        "city": "shenzhen",
+        "phone": null,
+        "email": null,
+        "description": "北京大学深圳医院成立于待查证年，位于深圳，是一所三甲综合性医院，在心血管医学中心, 肿瘤医学中心, 神经医学中心（脑卒中与神经介入）等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "北京大学深圳医院 官方网站 电话 地址",
+        "englishQuery": "北京大学深圳医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "ade7f558-2456-4e70-8369-0404837b4144",
+      "slug": "shenzhen-hospital-of-traditional-chinese-medicine",
+      "name": "深圳市中医院",
+      "name_en": "深圳市中医院",
+      "address": "深圳市福田区笋岗西路1号",
+      "city": "shenzhen",
+      "description": "深圳市中医院成立于待查证年，位于深圳，是一所三甲综合性医院，在心血管疾病中西医结合中心, 肿瘤综合与精准医学中心, 神经医学与卒中中心等领域具有专业优势。",
+      "official_website": "https://www.haodf.com/hospital/1072.html",
+      "specialties": [],
+      "crmInsert": {
+        "id": "ade7f558-2456-4e70-8369-0404837b4144",
+        "name": "深圳市中医院",
+        "name_en": "深圳市中医院",
+        "address": "深圳市福田区笋岗西路1号",
+        "city": "shenzhen",
+        "phone": null,
+        "email": null,
+        "description": "深圳市中医院成立于待查证年，位于深圳，是一所三甲综合性医院，在心血管疾病中西医结合中心, 肿瘤综合与精准医学中心, 神经医学与卒中中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "深圳市中医院 官方网站 电话 地址",
+        "englishQuery": "深圳市中医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "e2af198c-d127-4407-a1ff-02d7d87c3ce9",
+      "slug": "shenzhen-peoples-hospital",
+      "name": "深圳市人民医院",
+      "name_en": "深圳市人民医院",
+      "address": "深圳市罗湖区东门北路1017号",
+      "city": "shenzhen",
+      "description": "深圳市人民医院成立于1946年，位于深圳，是一所三甲综合性医院，在心血管医学中心, 肿瘤与放射治疗中心, 神经医学中心（脑卒中与神经外科）等领域具有专业优势。",
+      "official_website": "https://baike.baidu.com/item/%E6%B7%B1%E5%9C%B3%E5%B8%82%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2/1286370",
+      "specialties": [],
+      "crmInsert": {
+        "id": "e2af198c-d127-4407-a1ff-02d7d87c3ce9",
+        "name": "深圳市人民医院",
+        "name_en": "深圳市人民医院",
+        "address": "深圳市罗湖区东门北路1017号",
+        "city": "shenzhen",
+        "phone": null,
+        "email": null,
+        "description": "深圳市人民医院成立于1946年，位于深圳，是一所三甲综合性医院，在心血管医学中心, 肿瘤与放射治疗中心, 神经医学中心（脑卒中与神经外科）等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "深圳市人民医院 官方网站 电话 地址",
+        "englishQuery": "深圳市人民医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "936b079d-1c63-4098-8c03-8889b1ae9b8a",
+      "slug": "shenzhen-childrens-hospital",
+      "name": "深圳市儿童医院",
+      "name_en": "深圳市儿童医院",
+      "address": "深圳市福田区益田路7019号",
+      "city": "shenzhen",
+      "description": "深圳市儿童医院成立于待查证年，位于深圳，是一所其他综合性医院，在先天性心脏病与心血管中心, 肿瘤与血液疾病中心, 神经医学与癫痫外科中心等领域具有专业优势。",
+      "official_website": "https://www.szkid.com.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "936b079d-1c63-4098-8c03-8889b1ae9b8a",
+        "name": "深圳市儿童医院",
+        "name_en": "深圳市儿童医院",
+        "address": "深圳市福田区益田路7019号",
+        "city": "shenzhen",
+        "phone": null,
+        "email": null,
+        "description": "深圳市儿童医院成立于待查证年，位于深圳，是一所其他综合性医院，在先天性心脏病与心血管中心, 肿瘤与血液疾病中心, 神经医学与癫痫外科中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "深圳市儿童医院 官方网站 电话 地址",
+        "englishQuery": "深圳市儿童医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "eb336882-37db-4c11-bd0d-1fb47d27ce89",
+      "slug": "shenzhen-maternity-child-healthcare-hospital",
+      "name": "深圳市妇幼保健院",
+      "name_en": "深圳市妇幼保健院",
+      "address": "深圳市福田区福强路3012号",
+      "city": "shenzhen",
+      "description": "深圳市妇幼保健院成立于待查证年，位于深圳，是一所其他综合性医院，在母胎医学与高危妊娠中心, 生殖医学中心（辅助生殖）, 新生儿医学与NICU中心等领域具有专业优势。",
+      "official_website": "https://www.szmch.net.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "eb336882-37db-4c11-bd0d-1fb47d27ce89",
+        "name": "深圳市妇幼保健院",
+        "name_en": "深圳市妇幼保健院",
+        "address": "深圳市福田区福强路3012号",
+        "city": "shenzhen",
+        "phone": null,
+        "email": null,
+        "description": "深圳市妇幼保健院成立于待查证年，位于深圳，是一所其他综合性医院，在母胎医学与高危妊娠中心, 生殖医学中心（辅助生殖）, 新生儿医学与NICU中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "深圳市妇幼保健院 官方网站 电话 地址",
+        "englishQuery": "深圳市妇幼保健院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "94ed9220-721c-4f2f-b46e-0700cfebc31d",
+      "slug": "baoan-peoples-hospital-general-hospital-shenzhen",
+      "name": "深圳市宝安人民医院（集团）总院",
+      "name_en": "深圳市宝安人民医院（集团）总院",
+      "address": "深圳市宝安区新安二路118号",
+      "city": "shenzhen",
+      "description": "深圳市宝安人民医院（集团）总院成立于待查证年，位于深圳，是一所三甲综合性医院，在心血管医学中心（心内/心外/介入一体化）, 肿瘤医学中心（放疗/化疗/介入/多学科MDT）, 神经医学中心（卒中与脑血管病）等领域具有专业优势。",
+      "official_website": "https://www.bawjxt.net/szsbaqrmyy/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "94ed9220-721c-4f2f-b46e-0700cfebc31d",
+        "name": "深圳市宝安人民医院（集团）总院",
+        "name_en": "深圳市宝安人民医院（集团）总院",
+        "address": "深圳市宝安区新安二路118号",
+        "city": "shenzhen",
+        "phone": null,
+        "email": null,
+        "description": "深圳市宝安人民医院（集团）总院成立于待查证年，位于深圳，是一所三甲综合性医院，在心血管医学中心（心内/心外/介入一体化）, 肿瘤医学中心（放疗/化疗/介入/多学科MDT）, 神经医学中心（卒中与脑血管病）等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "深圳市宝安人民医院（集团）总院 官方网站 电话 地址",
+        "englishQuery": "深圳市宝安人民医院（集团）总院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "dac3297b-abb5-442a-875a-c159f9599908",
+      "slug": "the-third-peoples-hospital-of-shenzhen",
+      "name": "深圳市第三人民医院",
+      "name_en": "深圳市第三人民医院",
+      "address": "深圳市龙岗区布澜路29号",
+      "city": "shenzhen",
+      "description": "深圳市第三人民医院成立于待查证年，位于深圳，是一所其他综合性医院，在感染性疾病国家临床研究中心（深圳）, 病毒性肝炎与肝病中心, HIV/AIDS 诊疗与随访管理中心等领域具有专业优势。",
+      "official_website": "https://www.szsdsrmyy.com/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "dac3297b-abb5-442a-875a-c159f9599908",
+        "name": "深圳市第三人民医院",
+        "name_en": "深圳市第三人民医院",
+        "address": "深圳市龙岗区布澜路29号",
+        "city": "shenzhen",
+        "phone": null,
+        "email": null,
+        "description": "深圳市第三人民医院成立于待查证年，位于深圳，是一所其他综合性医院，在感染性疾病国家临床研究中心（深圳）, 病毒性肝炎与肝病中心, HIV/AIDS 诊疗与随访管理中心等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "深圳市第三人民医院 官方网站 电话 地址",
+        "englishQuery": "深圳市第三人民医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "88240cd7-f34a-4f09-8103-88f08f660024",
+      "slug": "shenzhen-second-peoples-hospital",
+      "name": "深圳市第二人民医院（深圳大学第一附属医院）",
+      "name_en": "深圳市第二人民医院（深圳大学第一附属医院）",
+      "address": "深圳市福田区笋岗西路3002号",
+      "city": "shenzhen",
+      "description": "深圳市第二人民医院（深圳大学第一附属医院）成立于待查证年，位于深圳，是一所三甲综合性医院，在心血管病中心, 肿瘤医学中心, 神经医学中心（脑卒中与神经介入）等领域具有专业优势。",
+      "official_website": "https://www.szrch.com.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "88240cd7-f34a-4f09-8103-88f08f660024",
+        "name": "深圳市第二人民医院（深圳大学第一附属医院）",
+        "name_en": "深圳市第二人民医院（深圳大学第一附属医院）",
+        "address": "深圳市福田区笋岗西路3002号",
+        "city": "shenzhen",
+        "phone": null,
+        "email": null,
+        "description": "深圳市第二人民医院（深圳大学第一附属医院）成立于待查证年，位于深圳，是一所三甲综合性医院，在心血管病中心, 肿瘤医学中心, 神经医学中心（脑卒中与神经介入）等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "深圳市第二人民医院（深圳大学第一附属医院） 官方网站 电话 地址",
+        "englishQuery": "深圳市第二人民医院（深圳大学第一附属医院） official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "54d2728a-cf57-4e6e-9c36-1178af0a6de1",
+      "slug": "shenzhen-longgang-central-hospital",
+      "name": "深圳市龙岗中心医院",
+      "name_en": "深圳市龙岗中心医院",
+      "address": "深圳市龙岗区深惠路6082号",
+      "city": "shenzhen",
+      "description": "深圳市龙岗中心医院成立于待查证年，位于深圳，是一所三甲综合性医院，在心血管与结构性心脏病中心, 肿瘤医学中心（放射治疗与MDT）, 神经医学中心（卒中与神经介入）等领域具有专业优势。",
+      "official_website": "https://www.lgzyy.com.cn/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "54d2728a-cf57-4e6e-9c36-1178af0a6de1",
+        "name": "深圳市龙岗中心医院",
+        "name_en": "深圳市龙岗中心医院",
+        "address": "深圳市龙岗区深惠路6082号",
+        "city": "shenzhen",
+        "phone": null,
+        "email": null,
+        "description": "深圳市龙岗中心医院成立于待查证年，位于深圳，是一所三甲综合性医院，在心血管与结构性心脏病中心, 肿瘤医学中心（放射治疗与MDT）, 神经医学中心（卒中与神经介入）等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "深圳市龙岗中心医院 官方网站 电话 地址",
+        "englishQuery": "深圳市龙岗中心医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    },
+    {
+      "id": "cd012d91-f713-42dc-a8ad-ca1d35868b9f",
+      "slug": "the-university-of-hong-kongshenzhen-hospital",
+      "name": "香港大学深圳医院",
+      "name_en": "香港大学深圳医院",
+      "address": "深圳市福田区海园一路1号",
+      "city": "shenzhen",
+      "description": "香港大学深圳医院成立于2012年，位于深圳，是一所其他综合性医院，在心血管医学中心, 肿瘤医学中心, 神经医学中心（脑卒中与神经介入）等领域具有专业优势。",
+      "official_website": "https://www.hku-szh.org/",
+      "specialties": [],
+      "crmInsert": {
+        "id": "cd012d91-f713-42dc-a8ad-ca1d35868b9f",
+        "name": "香港大学深圳医院",
+        "name_en": "香港大学深圳医院",
+        "address": "深圳市福田区海园一路1号",
+        "city": "shenzhen",
+        "phone": null,
+        "email": null,
+        "description": "香港大学深圳医院成立于2012年，位于深圳，是一所其他综合性医院，在心血管医学中心, 肿瘤医学中心, 神经医学中心（脑卒中与神经介入）等领域具有专业优势。",
+        "logo_url": null,
+        "specialties": [],
+        "status": "ACTIVE",
+        "type": "REGULAR"
+      },
+      "webResearch": {
+        "query": "香港大学深圳医院 官方网站 电话 地址",
+        "englishQuery": "香港大学深圳医院 official website phone address",
+        "missingFields": [
+          "phone",
+          "email",
+          "logo_url"
+        ],
+        "needsWebVerification": true
+      }
+    }
+  ]
+}
