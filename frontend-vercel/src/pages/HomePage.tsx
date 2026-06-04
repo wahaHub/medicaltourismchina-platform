@@ -7,6 +7,7 @@ import Header from "@/components/Header";
 
 // New V2 Components
 import HeroSection from "@/components/home-v2/HeroSection";
+import OnlineConsultationSection from "@/components/home-v2/OnlineConsultationSection";
 import WhyMedoraSection from "@/components/home-v2/WhyMedoraSection";
 import MedicalServicesGrid from "@/components/home-v2/MedicalServicesGrid";
 import WhyChooseChinaHome from "@/components/home-v2/WhyChooseChinaHome";
@@ -28,6 +29,9 @@ const HomePage = () => {
       
       {/* New V2 Hero Section with Stats */}
       <HeroSection />
+
+      {/* Online Consultation / Second Opinion Section */}
+      <OnlineConsultationSection />
 
       {/* New V2 Why Medora Section */}
       <WhyMedoraSection />

@@ -847,6 +847,17 @@ export const en = {
   'homepage.medicalJourney.step3Title': 'We Handle the Rest',
   'homepage.medicalJourney.step3Desc': 'From airport pickup and lodging to translation—we manage every detail.',
 
+  // Homepage - Online Consultation Section
+  'homepage.onlineConsultation.eyebrow': 'Online Consultation',
+  'homepage.onlineConsultation.title': 'Not Sure About Your Diagnosis or Treatment Plan?',
+  'homepage.onlineConsultation.description': 'Get a written review, video consultation, or multidisciplinary second opinion from world class Chinese specialists.',
+  'homepage.onlineConsultation.cta': 'Book a Second Opinion',
+  'homepage.onlineConsultation.feature1': 'World-Class Chinese Specialists',
+  'homepage.onlineConsultation.feature2': 'Trusted & Confidential',
+  'homepage.onlineConsultation.feature3': 'Personalized Care Concierge',
+  'homepage.onlineConsultation.feature4': 'Written Opinion You Can Rely On',
+  'homepage.onlineConsultation.imageAlt': 'Chinese specialist reviewing an online consultation from a modern medical office',
+
   // Homepage - Why Medora Section
   'homepage.whyMedora.title': 'Why Medora?',
   'homepage.whyMedora.publicHospital': 'Public Grade A Tertiary Hospital',

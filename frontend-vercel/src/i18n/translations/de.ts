@@ -959,6 +959,17 @@ export const de = {
   'homepage.medicalJourney.step3Title': 'Wir Kümmern Uns um den Rest',
   'homepage.medicalJourney.step3Desc': 'Von Flughafenabholung und Unterkunft bis hin zur Übersetzung—wir kümmern uns um jedes Detail.',
 
+  // Homepage - Online Consultation Section
+  'homepage.onlineConsultation.eyebrow': 'Online-Zweitmeinung',
+  'homepage.onlineConsultation.title': 'Unsicher bei Diagnose oder Behandlungsplan?',
+  'homepage.onlineConsultation.description': 'Laden Sie Ihre medizinischen Unterlagen hoch und erhalten Sie vor Ihrer nächsten medizinischen Entscheidung eine schriftliche Prüfung, Videokonsultation oder multidisziplinäre Fallbesprechung durch ausgewählte chinesische Spezialisten.',
+  'homepage.onlineConsultation.cta': 'Zweitmeinung buchen',
+  'homepage.onlineConsultation.feature1': 'Ausgewählte chinesische Spezialisten',
+  'homepage.onlineConsultation.feature2': 'Vertraulich und zuverlässig',
+  'homepage.onlineConsultation.feature3': 'Persönliche medizinische Koordination',
+  'homepage.onlineConsultation.feature4': 'Schriftliche Einschätzung als Orientierung',
+  'homepage.onlineConsultation.imageAlt': 'Chinesischer Spezialist prüft medizinische Unterlagen für eine Online-Konsultation in einer modernen Praxis',
+
   // Homepage - Why Medora Section
   'homepage.whyMedora.title': 'Warum Medora?',
   'homepage.whyMedora.publicHospital': 'Öffentliches Tertiärkrankenhaus Grad A',

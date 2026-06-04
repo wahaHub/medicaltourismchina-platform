@@ -847,6 +847,17 @@ export const ru = {
   'homepage.medicalJourney.step3Title': 'Мы позаботимся обо всем остальном',
   'homepage.medicalJourney.step3Desc': 'От встречи в аэропорту и проживания до перевода — мы управляем каждой деталью.',
 
+  // Homepage - Online Consultation Section
+  'homepage.onlineConsultation.eyebrow': 'Онлайн-второе мнение',
+  'homepage.onlineConsultation.title': 'Не уверены в диагнозе или плане лечения?',
+  'homepage.onlineConsultation.description': 'Загрузите медицинские документы и получите письменный обзор, видеоконсультацию или междисциплинарное обсуждение случая с выбранными китайскими специалистами перед следующим медицинским решением.',
+  'homepage.onlineConsultation.cta': 'Записаться на второе мнение',
+  'homepage.onlineConsultation.feature1': 'Выбранные китайские специалисты',
+  'homepage.onlineConsultation.feature2': 'Надежно и конфиденциально',
+  'homepage.onlineConsultation.feature3': 'Персональная медицинская координация',
+  'homepage.onlineConsultation.feature4': 'Письменное мнение для ориентира',
+  'homepage.onlineConsultation.imageAlt': 'Китайский специалист изучает медицинские документы для онлайн-консультации в современной клинике',
+
   // Homepage - Why Medora Section
   'homepage.whyMedora.title': 'Почему Medora?',
   'homepage.whyMedora.publicHospital': 'Публичная больница категории А третичного уровня',

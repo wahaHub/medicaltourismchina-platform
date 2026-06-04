@@ -895,6 +895,17 @@ export const es = {
   'homepage.medicalJourney.step3Title': 'Nosotros Manejamos el Resto',
   'homepage.medicalJourney.step3Desc': 'Desde recogida en el aeropuerto y alojamiento hasta traducción: manejamos cada detalle.',
 
+  // Homepage - Online Consultation Section
+  'homepage.onlineConsultation.eyebrow': 'Segunda opinión en línea',
+  'homepage.onlineConsultation.title': '¿No está seguro de su diagnóstico o plan de tratamiento?',
+  'homepage.onlineConsultation.description': 'Suba sus expedientes médicos y reciba una revisión escrita, una consulta por video o una discusión multidisciplinaria de especialistas chinos antes de tomar su próxima decisión médica.',
+  'homepage.onlineConsultation.cta': 'Reservar segunda opinión',
+  'homepage.onlineConsultation.feature1': 'Especialistas chinos de alto nivel',
+  'homepage.onlineConsultation.feature2': 'Confiable y confidencial',
+  'homepage.onlineConsultation.feature3': 'Coordinación médica personalizada',
+  'homepage.onlineConsultation.feature4': 'Opinión escrita de referencia',
+  'homepage.onlineConsultation.imageAlt': 'Especialista chino revisando expedientes médicos para una consulta en línea en una clínica moderna',
+
   // Homepage - Why Medora Section
   'homepage.whyMedora.title': '¿Por Qué Medora?',
   'homepage.whyMedora.publicHospital': 'Hospital Público Terciario Grado A',
