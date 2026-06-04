@@ -25,6 +25,7 @@ const outPath = getArg('--out')
 const limit = Number.parseInt(getArg('--limit', '500'), 10)
 const checkImages = hasFlag('--check-images')
 const imageSampleLimit = Number.parseInt(getArg('--image-sample-limit', '5'), 10)
+const imageTimeoutMs = Number.parseInt(getArg('--image-timeout-ms', '8000'), 10)
 
 const fail = (message) => {
   console.error(message)
@@ -72,6 +73,14 @@ const crmFetch = (table, params) => {
     table,
     new URLSearchParams(params).toString(),
   )
+}
+
+const optionalFetch = async (label, fetcher) => {
+  try {
+    return { rows: await fetcher(), error: null }
+  } catch (error) {
+    return { rows: [], error: `${label}: ${error.message}` }
+  }
 }
 
 const normalizeMediaUrl = (value) => {
@@ -177,11 +186,18 @@ const summarizeMedia = (items) => {
 const countArray = (value) => Array.isArray(value) ? value.length : 0
 
 const checkUrl = async (url) => {
+  const controller = new AbortController()
+  const timer = setTimeout(
+    () => controller.abort(),
+    Number.isFinite(imageTimeoutMs) && imageTimeoutMs > 0 ? imageTimeoutMs : 8000,
+  )
   try {
-    const response = await fetch(url, { method: 'HEAD', redirect: 'manual' })
+    const response = await fetch(url, { method: 'HEAD', redirect: 'manual', signal: controller.signal })
     return { url, status: response.status, ok: response.status >= 200 && response.status < 400 }
   } catch (error) {
-    return { url, status: 0, ok: false, error: error.message }
+    return { url, status: 0, ok: false, error: error.name === 'AbortError' ? 'timeout' : error.message }
+  } finally {
+    clearTimeout(timer)
   }
 }
 
@@ -212,40 +228,40 @@ const output = {
 }
 
 for (const summary of summaries) {
-  const [detailRows, chinaHospitalRows, crmHospitalRows, crmPackageRows, crmReviewRows] = await Promise.all([
-    chinaFetch('v_hospital_details', {
+  const [detailResult, chinaHospitalResult, crmHospitalResult, crmPackageResult, crmReviewResult] = await Promise.all([
+    optionalFetch('v_hospital_details', () => chinaFetch('v_hospital_details', {
       id: `eq.${summary.id}`,
       locale: `eq.${locale}`,
       select: '*',
       limit: '1',
-    }),
-    chinaFetch('hospitals', {
+    })),
+    optionalFetch('china hospitals', () => chinaFetch('hospitals', {
       id: `eq.${summary.id}`,
-      select: 'id,slug,name,name_en,display_name,status,updated_at,data_source',
+      select: 'id,slug,city,status,updated_at,data_source',
       limit: '1',
-    }),
-    crmFetch('hospitals', {
+    })),
+    optionalFetch('CRM hospitals', () => crmFetch('hospitals', {
       id: `eq.${summary.id}`,
       select: 'id,name,name_en,status,type,updated_at',
       limit: '1',
-    }),
-    crmFetch('hospital_material_packages', {
+    })),
+    optionalFetch('CRM hospital_material_packages', () => crmFetch('hospital_material_packages', {
       hospital_id: `eq.${summary.id}`,
       select: 'id,slug,is_active,cover_image_url,gallery',
       order: 'sort_order.asc,created_at.asc',
-    }),
-    crmFetch('hospital_material_reviews', {
+    })),
+    optionalFetch('CRM hospital_material_reviews', () => crmFetch('hospital_material_reviews', {
       hospital_id: `eq.${summary.id}`,
       select: 'id,is_active,patient_avatar_url,media',
       order: 'sort_order.asc,created_at.asc',
-    }),
+    })),
   ])
 
-  const detail = detailRows[0] || null
-  const chinaHospital = chinaHospitalRows[0] || null
-  const crmHospital = crmHospitalRows[0] || null
-  const crmPackages = crmPackageRows || []
-  const crmReviews = crmReviewRows || []
+  const detail = detailResult.rows[0] || null
+  const chinaHospital = chinaHospitalResult.rows[0] || null
+  const crmHospital = crmHospitalResult.rows[0] || null
+  const crmPackages = crmPackageResult.rows || []
+  const crmReviews = crmReviewResult.rows || []
 
   const media = collectDetailMedia(detail || {})
   addMedia(media, summary.hero_image_url, 'summary_hero')
@@ -287,6 +303,11 @@ for (const summary of summaries) {
       crmHospital: Boolean(crmHospital),
       crmMaterials: hasCrmMaterials,
       chinaHospitalDataSource: chinaHospital?.data_source || null,
+      chinaDetailError: detailResult.error,
+      chinaHospitalError: chinaHospitalResult.error,
+      crmHospitalError: crmHospitalResult.error,
+      crmPackageError: crmPackageResult.error,
+      crmReviewError: crmReviewResult.error,
     },
     counts: {
       gallery: countArray(detail?.gallery),
@@ -310,6 +331,10 @@ for (const summary of summaries) {
 
   if (!detail) row.warnings.push('Missing v_hospital_details row')
   if (!crmHospital) row.warnings.push('Missing CRM hospitals row')
+  if (chinaHospitalResult.error) row.warnings.push('Unable to inspect China hospitals base row')
+  if (crmHospitalResult.error) row.warnings.push('Unable to inspect CRM hospitals base row')
+  if (crmPackageResult.error) row.warnings.push('Unable to inspect CRM material packages')
+  if (crmReviewResult.error) row.warnings.push('Unable to inspect CRM material reviews')
   if (mediaSummary.bySource.legacy_s3_cloudfront) row.warnings.push('Still references legacy S3/CloudFront media')
   if (mediaSummary.total === 0) row.warnings.push('No media URLs found in detail/material sources')
   if (!hasCrmMaterials && (countArray(detail?.gallery) > 0 || countArray(detail?.surgeons) > 0 || countArray(detail?.equipment) > 0)) {

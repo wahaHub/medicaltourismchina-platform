@@ -79,6 +79,7 @@ node scripts/hospital_source_media_inventory.mjs \
   --limit 500 \
   --check-images \
   --image-sample-limit 5 \
+  --image-timeout-ms 8000 \
   --out artifacts/hospital_source_media_inventory.json
 ```
 
