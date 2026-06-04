@@ -8,6 +8,14 @@ import ScrollReveal from "@/components/animations/ScrollReveal";
 import { Dialog, DialogContent, DialogDescription, DialogTitle, DialogTrigger } from "@/components/ui/dialog";
 import { useLanguage } from "@/contexts/LanguageContext";
 import consultationDoctorImage from "@/img/online-consultation-doctor.jpg";
+import planMultidisciplinaryImage from "@/img/telemedicine-plan-multidisciplinary.jpg";
+import planVideoConsultationImage from "@/img/telemedicine-plan-video-consultation.jpg";
+import planWrittenReviewImage from "@/img/telemedicine-plan-written-review.jpg";
+import processCaseSummaryImage from "@/img/telemedicine-process-case-summary.jpg";
+import processChinaAccessImage from "@/img/telemedicine-process-china-access.jpg";
+import processConsultationImage from "@/img/telemedicine-process-consultation.jpg";
+import processSecondOpinionImage from "@/img/telemedicine-process-second-opinion.jpg";
+import processUploadRecordsImage from "@/img/telemedicine-process-upload-records.jpg";
 
 const CTA_HREF = "/medical-case-intake";
 
@@ -39,6 +47,20 @@ type Plan = {
 };
 
 type ModalVisualVariant = Plan["variant"];
+
+const PLAN_IMAGES: Record<ModalVisualVariant, string> = {
+  report: planWrittenReviewImage,
+  video: planVideoConsultationImage,
+  tumor: planMultidisciplinaryImage,
+};
+
+const PROCESS_IMAGES = [
+  processUploadRecordsImage,
+  processCaseSummaryImage,
+  processConsultationImage,
+  processSecondOpinionImage,
+  processChinaAccessImage,
+];
 
 type PageCopy = {
   metaTitle: string;
@@ -833,78 +855,30 @@ function InfoCard({ title, body, index }: { title: string; body: string; index: 
 }
 
 function PlanVisual({ variant }: { variant: ModalVisualVariant }) {
+  const image = PLAN_IMAGES[variant];
+
   return (
     <div className="relative aspect-[16/10] overflow-hidden rounded-2xl bg-[#F0F4F3]">
       <img
-        src={consultationDoctorImage}
+        src={image}
         alt=""
         aria-hidden="true"
-        className="absolute inset-0 h-full w-full object-cover opacity-55"
+        loading="lazy"
+        decoding="async"
+        className="absolute inset-0 h-full w-full object-cover transition-transform duration-700 [transition-timing-function:cubic-bezier(0.16,1,0.3,1)] group-hover:scale-[1.035]"
       />
-      <div className="absolute inset-0 bg-gradient-to-r from-white/95 via-white/70 to-[#E7F1EF]/45" />
-      <div className="absolute inset-0 p-5">
-        {variant === "video" ? (
-          <div className="grid h-full grid-cols-[1fr_0.78fr] gap-4">
-            <div className="flex flex-col justify-between rounded-2xl bg-[#003B5C] p-4 shadow-lg shadow-slate-900/10">
-              <div className="h-16 rounded-xl bg-white/20" />
-              <div className="space-y-2">
-                <span className="block h-2 rounded-full bg-white/55" />
-                <span className="block h-2 w-2/3 rounded-full bg-white/30" />
-              </div>
-            </div>
-            <div className="space-y-3">
-              <div className="aspect-square rounded-2xl bg-white/90 shadow-sm" />
-              <div className="h-14 rounded-2xl bg-white/80 shadow-sm" />
-            </div>
-          </div>
-        ) : variant === "tumor" ? (
-          <div className="grid h-full grid-cols-[0.86fr_1.14fr] gap-4">
-            <div className="space-y-2.5">
-              {[1, 2, 3].map((item) => (
-                <div key={item} className="flex items-center gap-2 rounded-xl bg-white/85 p-2.5 shadow-sm">
-                  <span className="h-7 w-7 rounded-full bg-[#1DA78A]/20" />
-                  <span className="h-2 flex-1 rounded-full bg-slate-200" />
-                </div>
-              ))}
-            </div>
-            <div className="rounded-2xl bg-[#003B5C] p-4 shadow-lg shadow-slate-900/10">
-              <div className="grid h-full grid-cols-2 gap-2">
-                <span className="rounded-xl bg-white/20" />
-                <span className="rounded-xl bg-[#1DA78A]/45" />
-                <span className="col-span-2 rounded-xl bg-white/15" />
-              </div>
-            </div>
-          </div>
-        ) : (
-          <div className="grid h-full grid-cols-[1.1fr_0.9fr] gap-4">
-            <div className="rounded-2xl bg-white/90 p-4 shadow-sm">
-              <span className="block h-3 w-32 rounded-full bg-[#0F638E]/25" />
-              <span className="mt-4 block h-2.5 rounded-full bg-slate-200" />
-              <span className="mt-3 block h-2.5 w-5/6 rounded-full bg-slate-200" />
-              <span className="mt-3 block h-2.5 w-2/3 rounded-full bg-slate-200" />
-            </div>
-            <div className="space-y-3">
-              <div className="aspect-square rounded-2xl bg-[#003B5C] shadow-sm" />
-              <div className="h-14 rounded-2xl bg-white/85 shadow-sm" />
-            </div>
-          </div>
-        )}
-      </div>
+      <div className="absolute inset-0 bg-gradient-to-t from-[#003B5C]/35 via-transparent to-transparent" />
     </div>
   );
 }
 
 function ModalHeroImage({ variant, alt }: { variant: ModalVisualVariant; alt: string }) {
+  const image = PLAN_IMAGES[variant];
+
   return (
-    <div className="relative h-56 overflow-hidden rounded-t-2xl sm:h-72">
-      <img src={consultationDoctorImage} alt={alt} className="h-full w-full object-cover" />
-      <div className="absolute inset-0 bg-gradient-to-r from-white/90 via-white/45 to-transparent" />
+    <div className="relative h-60 overflow-hidden rounded-t-2xl sm:h-80">
+      <img src={image} alt={alt} loading="lazy" decoding="async" className="h-full w-full object-cover" />
       <div className="absolute inset-0 bg-gradient-to-t from-[#003B5C]/45 via-transparent to-transparent" />
-      <div className="absolute bottom-5 left-5 right-5">
-        <div className="max-w-md rounded-2xl bg-white/92 p-4 shadow-lg shadow-slate-900/10">
-          <PlanVisual variant={variant} />
-        </div>
-      </div>
     </div>
   );
 }
@@ -921,7 +895,7 @@ function ModalSection({ title, children }: { title: string; children: React.Reac
 function PlanCard({ plan, featured }: { plan: Plan; featured?: boolean }) {
   return (
     <Dialog>
-      <div className={`flex h-full flex-col rounded-2xl bg-white p-3 shadow-card ${featured ? "ring-2 ring-[#1DA78A]/40" : ""}`}>
+      <div className={`group flex h-full flex-col rounded-2xl bg-white p-3 shadow-card ${featured ? "ring-2 ring-[#1DA78A]/40" : ""}`}>
         <PlanVisual variant={plan.variant} />
         <div className="flex flex-1 flex-col p-4">
           <div className="flex items-center justify-between gap-3">
@@ -1096,7 +1070,15 @@ export default function TelemedicinePage() {
                   <ScrollReveal key={title} direction="up" delay={index * 0.04}>
                     <div className="grid items-center gap-6 rounded-2xl bg-[#F0F4F3] p-5 sm:p-6 md:grid-cols-[0.74fr_1.26fr]">
                       <div className="relative aspect-[5/3] overflow-hidden rounded-2xl bg-white shadow-card">
-                        <div className="absolute inset-0 flex items-center justify-center bg-gradient-to-br from-[#1DA78A]/15 to-[#0F638E]/15 text-5xl font-bold text-[#0F638E]/35">
+                        <img
+                          src={PROCESS_IMAGES[index]}
+                          alt={title}
+                          loading="lazy"
+                          decoding="async"
+                          className="h-full w-full object-cover"
+                        />
+                        <div className="absolute inset-0 bg-gradient-to-t from-[#003B5C]/45 via-transparent to-transparent" />
+                        <div className="absolute bottom-4 left-4 flex h-12 w-12 items-center justify-center rounded-full bg-white/95 text-sm font-bold text-[#0F638E] shadow-lg shadow-slate-900/10">
                           {stepNumber}
                         </div>
                       </div>
