@@ -1,5 +1,5 @@
 
-import { ExternalLink, Info, Star, MapPin, Building2, Globe, ChevronLeft, ChevronRight } from "lucide-react";
+import { ExternalLink, Info, Star, MapPin, Building2, Globe, ChevronRight } from "lucide-react";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
@@ -9,7 +9,6 @@ import HospitalProgressiveImage from "@/components/HospitalProgressiveImage";
 import { useNavigate } from "react-router-dom";
 import { Hospital } from "@/services/api";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { useState, useEffect } from "react";
 
 interface NewHospitalCardProps {
   hospitalData: Hospital & {
@@ -35,140 +34,17 @@ type HospitalCardProps = NewHospitalCardProps | LegacyHospitalCardProps;
 const LOW_MEDIA_BASE = `${(import.meta.env.VITE_PUBLIC_MEDIA_BASE_URL || 'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev').replace(/\/+$/, '')}/low`;
 const HOSPITAL_PLACEHOLDER_IMAGE_URL = `${LOW_MEDIA_BASE}/root_assets/surgery_placeholder_x2.png`;
 
-// Generate R2 hospital photo URLs for list view fallbacks.
-const generateHospitalPhotoUrls = (hospitalId: string, maxPhotos: number = 4): string[] => {
-  const baseUrl = `${LOW_MEDIA_BASE}/hospitals/public`;
-  const urls: string[] = [];
-
-  for (let i = 1; i <= maxPhotos; i++) {
-    urls.push(`${baseUrl}/${hospitalId}_${i}.png`);
-  }
-
-  return urls;
-};
-
-const probeImageUrl = (url: string): Promise<string | null> =>
-  new Promise((resolve) => {
-    const image = new Image();
-    image.onload = () => resolve(url);
-    image.onerror = () => resolve(null);
-    image.src = url;
-  });
-
-// Hospital Photo Slider Component
-const HospitalPhotoSlider = ({ hospitalId, hospitalName, heroImageUrl }: { hospitalId: string, hospitalName: string, heroImageUrl?: string }) => {
-  const [currentPhotoIndex, setCurrentPhotoIndex] = useState(0);
-  const [availablePhotos, setAvailablePhotos] = useState<string[]>([]);
-  const [failedPhotos, setFailedPhotos] = useState<Set<string>>(new Set());
-
-  useEffect(() => {
-    let isMounted = true;
-    const photoUrls = generateHospitalPhotoUrls(hospitalId, 5);
-    const initialPhotos = [heroImageUrl].filter(Boolean) as string[];
-    setAvailablePhotos(initialPhotos);
-    setFailedPhotos(new Set());
-    setCurrentPhotoIndex(0);
-
-    Promise.all(photoUrls.map(probeImageUrl)).then((loadedPhotoUrls) => {
-      if (!isMounted) {
-        return;
-      }
-
-      const uniquePhotos = [...initialPhotos];
-      for (const url of loadedPhotoUrls) {
-        if (url && !uniquePhotos.includes(url)) {
-          uniquePhotos.push(url);
-        }
-      }
-      setAvailablePhotos(uniquePhotos);
-    });
-
-    return () => {
-      isMounted = false;
-    };
-  }, [hospitalId, heroImageUrl]);
-
-  const handleImageError = (url: string) => {
-    if (url === HOSPITAL_PLACEHOLDER_IMAGE_URL) {
-      return;
-    }
-
-    setFailedPhotos((previous) => {
-      const next = new Set(previous);
-      next.add(url);
-      return next;
-    });
-    setCurrentPhotoIndex(0);
-  };
-
-  // Filter out failed photos for navigation
-  const validPhotos = availablePhotos.filter(url => !failedPhotos.has(url));
-  const displayPhotos = validPhotos.length > 0 ? validPhotos : [HOSPITAL_PLACEHOLDER_IMAGE_URL];
-
-  const nextPhoto = (e: React.MouseEvent) => {
-    e.stopPropagation();
-    if (displayPhotos.length > 0) {
-      setCurrentPhotoIndex((prev) => (prev + 1) % displayPhotos.length);
-    }
-  };
-
-  const prevPhoto = (e: React.MouseEvent) => {
-    e.stopPropagation();
-    if (displayPhotos.length > 0) {
-      setCurrentPhotoIndex((prev) => (prev - 1 + displayPhotos.length) % displayPhotos.length);
-    }
-  };
-
-  const currentPhoto = displayPhotos[Math.min(currentPhotoIndex, displayPhotos.length - 1)];
+const HospitalCardImage = ({ src, hospitalName }: { src?: string; hospitalName: string }) => {
+  const imageUrl = src || HOSPITAL_PLACEHOLDER_IMAGE_URL;
 
   return (
     <div className="relative h-full w-full">
       <HospitalProgressiveImage
-        src={currentPhoto}
-        alt={`${hospitalName} - 照片 ${currentPhotoIndex + 1}`}
+        src={imageUrl}
+        alt={`${hospitalName} - 照片 1`}
         className="h-full w-full object-cover group-hover:scale-105 transition-transform duration-300"
-        onError={() => handleImageError(currentPhoto)}
+        loading="lazy"
       />
-      
-      {/* Navigation arrows */}
-      {displayPhotos.length > 1 && (
-        <>
-          <button
-            onClick={prevPhoto}
-            className="absolute left-2 top-1/2 -translate-y-1/2 bg-white/90 hover:bg-white text-gray-800 rounded-full p-2 transition-all duration-300 shadow-lg hover:scale-110"
-            aria-label="Previous photo"
-          >
-            <ChevronLeft className="h-4 w-4 sm:h-5 sm:w-5" />
-          </button>
-          
-          <button
-            onClick={nextPhoto}
-            className="absolute right-2 top-1/2 -translate-y-1/2 bg-white/90 hover:bg-white text-gray-800 rounded-full p-2 transition-all duration-300 shadow-lg hover:scale-110"
-            aria-label="Next photo"
-          >
-            <ChevronRight className="h-4 w-4 sm:h-5 sm:w-5" />
-          </button>
-          
-          {/* Photo dots indicator */}
-          <div className="absolute bottom-2 left-1/2 -translate-x-1/2 flex gap-1">
-            {displayPhotos.map((_, index) => (
-              <button
-                key={index}
-                onClick={(e) => {
-                  e.stopPropagation();
-                  setCurrentPhotoIndex(index);
-                }}
-                className={`w-2 h-2 rounded-full transition-all ${
-                  index === currentPhotoIndex 
-                    ? 'bg-white' 
-                    : 'bg-white/50 hover:bg-white/75'
-                }`}
-                aria-label={`Go to photo ${index + 1}`}
-              />
-            ))}
-          </div>
-        </>
-      )}
     </div>
   );
 };
@@ -237,10 +113,9 @@ const HospitalCard = (props: HospitalCardProps) => {
       {/* Hospital Image Slider */}
       <div className="relative h-48 sm:h-52 md:h-56 w-full overflow-hidden">
         {isNewHospitalFormat ? (
-          <HospitalPhotoSlider
-            hospitalId={props.hospitalData.id}
+          <HospitalCardImage
             hospitalName={data.name}
-            heroImageUrl={props.hospitalData.hero_image_url}
+            src={props.hospitalData.hero_image_url}
           />
         ) : (
           <HospitalProgressiveImage

@@ -3,7 +3,8 @@
 Generate missing progressive hospital image variants in Cloudflare R2.
 
 This script intentionally uses the AWS CLI for R2 access and macOS `sips` for
-image resizing, so it can run without installing boto3 or Pillow.
+image resizing, so it can run without installing boto3 or Pillow. WebP output
+also requires `cwebp`.
 """
 
 from __future__ import annotations
@@ -17,6 +18,7 @@ import shutil
 import subprocess
 import sys
 import threading
+import time
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
@@ -28,9 +30,15 @@ DEFAULT_PREFIX = "low/hospitals/"
 DEFAULT_WORKDIR = Path("/tmp/medchina-hospital-progressive")
 DEFAULT_CACHE_CONTROL = "public, max-age=31536000, immutable"
 
-VARIANT_MAX_DIMENSIONS = {
-    "x1": 360,
-    "x2": 1200,
+VARIANT_SETTINGS = {
+    "png": {
+        "x1": {"max_dimension": 360},
+        "x2": {"max_dimension": 1200},
+    },
+    "webp": {
+        "x1": {"max_dimension": 320, "quality": 45},
+        "x2": {"max_dimension": 1000, "quality": 72},
+    },
 }
 
 
@@ -51,6 +59,8 @@ def command_env() -> dict[str, str]:
     env["AWS_ACCESS_KEY_ID"] = access_key
     env["AWS_SECRET_ACCESS_KEY"] = secret_key
     env["AWS_DEFAULT_REGION"] = "auto"
+    env["AWS_MAX_ATTEMPTS"] = env.get("AWS_MAX_ATTEMPTS", "8")
+    env["AWS_RETRY_MODE"] = env.get("AWS_RETRY_MODE", "standard")
     return env
 
 
@@ -98,18 +108,18 @@ def is_variant(key: str) -> bool:
     return stem.endswith(("_x1", "_x2", "_x3"))
 
 
-def variant_key_for(source_key: str, variant: str) -> str:
+def variant_key_for(source_key: str, variant: str, output_format: str) -> str:
     path = Path(source_key)
-    return f"{path.with_suffix('').as_posix()}_{variant}{path.suffix}"
+    return f"{path.with_suffix('').as_posix()}_{variant}.{output_format}"
 
 
-def build_jobs(keys: list[str]) -> list[VariantJob]:
+def build_jobs(keys: list[str], output_format: str) -> list[VariantJob]:
     existing = set(keys)
     originals = [key for key in keys if is_hospital_image(key) and not is_variant(key)]
     jobs: list[VariantJob] = []
     for source_key in originals:
         for variant in ("x1", "x2"):
-            key = variant_key_for(source_key, variant)
+            key = variant_key_for(source_key, variant, output_format)
             if key not in existing:
                 jobs.append(VariantJob(source_key=source_key, variant_key=key, variant=variant))
     return jobs
@@ -117,6 +127,22 @@ def build_jobs(keys: list[str]) -> list[VariantJob]:
 
 def local_path_for(workdir: Path, key: str) -> Path:
     return workdir / "objects" / key
+
+
+def key_for_local_path(workdir: Path, path: Path) -> str:
+    return path.relative_to(workdir / "objects").as_posix()
+
+
+def list_local_source_keys(workdir: Path) -> list[str]:
+    objects_dir = workdir / "objects"
+    if not objects_dir.is_dir():
+        raise RuntimeError(f"Local cache objects directory does not exist: {objects_dir}")
+
+    return sorted(
+        key_for_local_path(workdir, path)
+        for path in objects_dir.rglob("*")
+        if path.is_file() and is_hospital_image(key_for_local_path(workdir, path)) and not is_variant(key_for_local_path(workdir, path))
+    )
 
 
 def download_source(endpoint_url: str, bucket: str, source_key: str, path: Path, env: dict[str, str]) -> None:
@@ -138,9 +164,58 @@ def download_source(endpoint_url: str, bucket: str, source_key: str, path: Path,
     )
 
 
-def generate_variant(source_path: Path, output_path: Path, max_dimension: int, env: dict[str, str]) -> None:
+def generate_png_variant(source_path: Path, output_path: Path, max_dimension: int, env: dict[str, str]) -> None:
     output_path.parent.mkdir(parents=True, exist_ok=True)
     run(["sips", "-Z", str(max_dimension), str(source_path), "--out", str(output_path)], env=env, capture=True)
+
+
+def generate_webp_variant(
+    source_path: Path,
+    output_path: Path,
+    max_dimension: int,
+    quality: int,
+    env: dict[str, str],
+) -> None:
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    resized_path = output_path.with_suffix(".resized.png")
+    try:
+        run(["sips", "-Z", str(max_dimension), str(source_path), "--out", str(resized_path)], env=env, capture=True)
+        run(
+            [
+                "cwebp",
+                "-quiet",
+                "-q",
+                str(quality),
+                str(resized_path),
+                "-o",
+                str(output_path),
+            ],
+            env=env,
+            capture=True,
+        )
+    finally:
+        resized_path.unlink(missing_ok=True)
+
+
+def generate_variant(
+    source_path: Path,
+    output_path: Path,
+    variant: str,
+    output_format: str,
+    env: dict[str, str],
+) -> None:
+    settings = VARIANT_SETTINGS[output_format][variant]
+    if output_format == "webp":
+        generate_webp_variant(
+            source_path,
+            output_path,
+            max_dimension=settings["max_dimension"],
+            quality=settings["quality"],
+            env=env,
+        )
+        return
+
+    generate_png_variant(source_path, output_path, max_dimension=settings["max_dimension"], env=env)
 
 
 def content_type_for(path: Path) -> str:
@@ -156,23 +231,36 @@ def upload_variant(
     cache_control: str,
     env: dict[str, str],
 ) -> None:
-    run(
-        [
-            "aws",
-            "s3",
-            "cp",
-            str(local_path),
-            f"s3://{bucket}/{variant_key}",
-            "--endpoint-url",
-            endpoint_url,
-            "--only-show-errors",
-            "--content-type",
-            content_type_for(local_path),
-            "--cache-control",
-            cache_control,
-        ],
-        env=env,
-    )
+    command = [
+        "aws",
+        "s3",
+        "cp",
+        str(local_path),
+        f"s3://{bucket}/{variant_key}",
+        "--endpoint-url",
+        endpoint_url,
+        "--only-show-errors",
+        "--content-type",
+        content_type_for(local_path),
+        "--cache-control",
+        cache_control,
+    ]
+
+    for attempt in range(1, 7):
+        try:
+            run(command, env=env)
+            return
+        except subprocess.CalledProcessError:
+            if attempt == 6:
+                raise
+            sleep_seconds = min(2 ** attempt, 30)
+            print(
+                f"Retrying upload for {variant_key} after {sleep_seconds}s "
+                f"(attempt {attempt + 1}/6)",
+                file=sys.stderr,
+                flush=True,
+            )
+            time.sleep(sleep_seconds)
 
 
 def main() -> int:
@@ -182,6 +270,12 @@ def main() -> int:
     parser.add_argument("--prefix", default=DEFAULT_PREFIX)
     parser.add_argument("--workdir", default=str(DEFAULT_WORKDIR))
     parser.add_argument("--cache-control", default=DEFAULT_CACHE_CONTROL)
+    parser.add_argument("--format", choices=("png", "webp"), default="webp")
+    parser.add_argument(
+        "--from-local-cache",
+        action="store_true",
+        help="Skip R2 listing and generate variants for original hospital images already present in --workdir/objects.",
+    )
     parser.add_argument("--workers", type=int, default=8)
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
@@ -192,14 +286,32 @@ def main() -> int:
     if shutil.which("sips") is None:
         print("Missing required command: sips", file=sys.stderr)
         return 2
+    if args.format == "webp" and shutil.which("cwebp") is None:
+        print("Missing required command for WebP output: cwebp", file=sys.stderr)
+        return 2
 
     env = command_env()
     workdir = Path(args.workdir).expanduser().resolve()
-    keys = list_keys(args.endpoint_url, args.bucket, args.prefix, env)
-    jobs = build_jobs(keys)
-    source_keys = sorted({job.source_key for job in jobs})
+    if args.from_local_cache:
+        source_keys = list_local_source_keys(workdir)
+        jobs = [
+            VariantJob(
+                source_key=source_key,
+                variant_key=variant_key_for(source_key, variant, args.format),
+                variant=variant,
+            )
+            for source_key in source_keys
+            for variant in ("x1", "x2")
+        ]
+        keys_count = "skipped"
+    else:
+        keys = list_keys(args.endpoint_url, args.bucket, args.prefix, env)
+        jobs = build_jobs(keys, args.format)
+        source_keys = sorted({job.source_key for job in jobs})
+        keys_count = str(len(keys))
 
-    print(f"Objects under {args.prefix}: {len(keys)}")
+    print(f"Objects under {args.prefix}: {keys_count}")
+    print(f"Output format: {args.format}")
     print(f"Sources needing variants: {len(source_keys)}")
     print(f"Missing variant jobs: {len(jobs)}")
     if args.dry_run:
@@ -210,6 +322,7 @@ def main() -> int:
         "endpoint_url": args.endpoint_url,
         "bucket": args.bucket,
         "prefix": args.prefix,
+        "format": args.format,
         "workdir": str(workdir),
         "jobs": [],
     }
@@ -226,7 +339,7 @@ def main() -> int:
 
         for job in jobs_by_source[source_key]:
             output_path = local_path_for(workdir, job.variant_key)
-            generate_variant(source_path, output_path, VARIANT_MAX_DIMENSIONS[job.variant], env)
+            generate_variant(source_path, output_path, job.variant, args.format, env)
             upload_variant(args.endpoint_url, args.bucket, output_path, job.variant_key, args.cache_control, env)
             completed_jobs.append(
                 {
