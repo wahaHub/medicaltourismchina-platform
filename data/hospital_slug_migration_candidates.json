@@ -1,0 +1,31 @@
+{
+  "confirmed": [
+    {
+      "hospitalId": "4f22747e-91d0-47d7-8ae3-f3e818ef962e",
+      "oldSlug": "hospital-mm4eqlha",
+      "newSlug": "chongqing-hygeia-hospital",
+      "nameHint": "重庆海吉亚医院",
+      "reason": "canonical_slug_cleanup",
+      "packageSlugSamples": [],
+      "homepageFeatured": true
+    }
+  ],
+  "unresolved": [
+    {
+      "nameHint": "广东祈福医院 Clifford Hospital",
+      "proposedSlug": "clifford-hospital"
+    },
+    {
+      "nameHint": "广州泰和肿瘤医院",
+      "proposedSlug": "guangzhou-concord-cancer-center"
+    },
+    {
+      "nameHint": "成都爱迪眼科医院",
+      "proposedSlug": "chengdu-aidi-eye-hospital"
+    },
+    {
+      "nameHint": "GoBroad Healthcare Group",
+      "proposedSlug": "gobroad-healthcare-group"
+    }
+  ]
+}

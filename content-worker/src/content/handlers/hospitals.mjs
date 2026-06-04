@@ -1,8 +1,9 @@
 // handlers/hospitals.mjs
 import { getCrmSupa, supa } from '../config/supabase.mjs'
-import { json } from '../utils/response.mjs'
+import { json, redirect } from '../utils/response.mjs'
 import { normalizeLocale } from '../utils/locale.mjs'
 import { getQuery, getRequestedLocale } from '../utils/query.mjs'
+import { appendQueryString, createHospitalSlugResolver } from '../utils/hospital-slug-resolution.mjs'
 
 const debugLog = (...args) => {
   if (process.env.DEBUG_LOGS === 'true') console.log(...args)
@@ -63,6 +64,17 @@ const sortHospitalsByOwnershipPriority = (hospitals = []) =>
     .map(({ hospital }) => hospital)
 
 const UUID_REGEX = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i
+const resolveHospitalSlug = createHospitalSlugResolver({ supa })
+
+const hospitalRedirect = (event, status, path) => redirect(status, appendQueryString(path, event))
+
+export const buildHospitalSlugRedirectResponse = (event, resolution, suffix = '') => {
+  if (resolution?.type !== 'redirect' || !resolution.toSlug) {
+    return null
+  }
+
+  return hospitalRedirect(event, resolution.status || 301, `/hospitals/${resolution.toSlug}${suffix}`)
+}
 
 const findHospitalDetail = async (identifier, locale, select = '*') => {
   const bySlug = await supa
@@ -658,6 +670,10 @@ export const getHospitalBySlug = async (event) => {
   if (!slug) {
     return json(400, { error: 'Hospital slug is required' })
   }
+
+  const resolution = await resolveHospitalSlug(slug, locale)
+  const redirectResponse = buildHospitalSlugRedirectResponse(event, resolution)
+  if (redirectResponse) return redirectResponse
   
   const { data, error } = await findHospitalDetail(slug, locale)
   
@@ -692,6 +708,10 @@ export const getHospitalExtendedBySlug = async (event) => {
   if (!slug) {
     return json(400, { error: 'Hospital slug is required' })
   }
+
+  const resolution = await resolveHospitalSlug(slug, locale)
+  const redirectResponse = buildHospitalSlugRedirectResponse(event, resolution, '/extended')
+  if (redirectResponse) return redirectResponse
 
   const { data, error } = await findHospitalDetail(slug, locale)
 
@@ -764,6 +784,10 @@ export const getHospitalPackageDetailBySlug = async (event) => {
     return json(400, { error: 'Hospital slug and package slug are required' })
   }
 
+  const resolution = await resolveHospitalSlug(slug, locale)
+  const redirectResponse = buildHospitalSlugRedirectResponse(event, resolution, `/packages/${packageSlug}`)
+  if (redirectResponse) return redirectResponse
+
   const { data: hospital, error: hospitalError } = await findHospitalDetail(
     slug,
     locale,
@@ -826,4 +850,35 @@ export const getHospitalPackageDetailBySlug = async (event) => {
       generated_at: new Date().toISOString(),
     },
   })
+}
+
+export const getHospitalSlugResolution = async (event) => {
+  const slug = event.pathParameters?.slug
+  const requestedLocale = getRequestedLocale(event, 'zh')
+  const locale = normalizeLocale(requestedLocale)
+
+  if (!slug) {
+    return json(400, { error: 'Hospital slug is required' })
+  }
+
+  const resolution = await resolveHospitalSlug(slug, locale)
+  if (resolution.type === 'redirect') {
+    return json(200, {
+      type: 'redirect',
+      fromSlug: resolution.fromSlug,
+      toSlug: resolution.toSlug,
+      status: resolution.status,
+      hospitalId: resolution.hospitalId,
+    })
+  }
+
+  if (resolution.type === 'canonical') {
+    return json(200, {
+      type: 'canonical',
+      slug: resolution.slug,
+      hospitalId: resolution.hospitalId,
+    })
+  }
+
+  return json(200, { type: 'not_found' })
 }

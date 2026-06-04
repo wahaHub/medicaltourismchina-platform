@@ -8,3 +8,12 @@ export const json = (status, body) => ({
   },
   body: JSON.stringify(body),
 })
+
+export const redirect = (status, location, body = '') => ({
+  statusCode: status,
+  headers: {
+    Location: location,
+    ...CORS_HEADERS,
+  },
+  body: typeof body === 'string' ? body : JSON.stringify(body),
+})

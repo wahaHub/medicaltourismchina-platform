@@ -7,6 +7,7 @@ import {
   getHospitalBySlug,
   getHospitalExtendedBySlug,
   getHospitalPackageDetailBySlug,
+  getHospitalSlugResolution,
 } from './content/handlers/hospitals.mjs'
 import {
   getFeaturedTreatments,
@@ -60,6 +61,11 @@ const routeRequest = async (event) => {
 
   if (path.endsWith('/hospitals') && method === 'GET') {
     return await getHospitals(event)
+  }
+
+  if (matchPath(path, /\/hospitals\/([^/]+)\/slug-resolution$/) && method === 'GET') {
+    event.pathParameters = { slug: matchSlug(path, /\/hospitals\/([^/]+)\/slug-resolution$/) }
+    return await getHospitalSlugResolution(event)
   }
 
   if (matchPath(path, /\/hospitals\/([^/]+)\/extended$/) && method === 'GET') {

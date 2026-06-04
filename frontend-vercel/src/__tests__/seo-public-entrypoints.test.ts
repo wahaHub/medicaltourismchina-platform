@@ -56,4 +56,21 @@ describe("SEO public entrypoints", () => {
     expect(appSource).toContain('path="/bariatric-surgery"');
     expect(appSource).toContain('path="/hospital/:id"');
   });
+
+  it("keeps hospital slug redirects at the Vercel browser-route boundary", () => {
+    const middlewarePath = path.join(PROJECT_ROOT, "middleware.ts");
+    const vercelConfigPath = path.join(PROJECT_ROOT, "vercel.json");
+
+    expect(fs.existsSync(middlewarePath)).toBe(true);
+
+    const middleware = fs.readFileSync(middlewarePath, "utf8");
+    expect(middleware).toContain('matcher: ["/hospitals/:path*"]');
+    expect(middleware).toContain("/slug-resolution");
+
+    const vercelConfig = JSON.parse(fs.readFileSync(vercelConfigPath, "utf8"));
+    expect(vercelConfig.rewrites.at(-1)).toEqual({
+      source: "/(.*)",
+      destination: "/index.html",
+    });
+  });
 });
