@@ -8,24 +8,52 @@
       "reason": "canonical_slug_cleanup",
       "packageSlugSamples": [],
       "homepageFeatured": true
+    },
+    {
+      "hospitalId": "d4b86613-9459-487b-8b2a-e4b531548436",
+      "oldSlug": "hospital-mm9xx6oc",
+      "newSlug": "chengdu-aidi-eye-hospital",
+      "nameHint": "成都爱迪眼科医院",
+      "reason": "canonical_slug_cleanup",
+      "packageSlugSamples": [],
+      "homepageFeatured": true
+    },
+    {
+      "hospitalId": "f100fb70-3f9a-49c3-b85f-4efa3d73d696",
+      "oldSlug": "hospital-f100fb70",
+      "newSlug": "guangzhou-concord-cancer-center",
+      "nameHint": "广州泰和肿瘤医院",
+      "reason": "canonical_slug_cleanup",
+      "packageSlugSamples": [],
+      "homepageFeatured": true
+    },
+    {
+      "hospitalId": "9990cee1-cc3b-4146-991e-0a0cc035b8c0",
+      "oldSlug": "hospital-9990cee1",
+      "newSlug": "clifford-hospital",
+      "nameHint": "广东祈福医院 Clifford Hospital",
+      "reason": "canonical_slug_cleanup",
+      "packageSlugSamples": [],
+      "homepageFeatured": false
+    },
+    {
+      "hospitalId": "d71e7cc9-6d5a-4dc4-b228-1ff58105c853",
+      "oldSlug": "hospital-d71e7cc9",
+      "newSlug": "gobroad-healthcare-group",
+      "nameHint": "GoBroad Healthcare Group (GHG)",
+      "reason": "canonical_slug_cleanup",
+      "packageSlugSamples": [],
+      "homepageFeatured": false
+    },
+    {
+      "hospitalId": "eeeb46fe-7478-4250-abd1-a3954e74a212",
+      "oldSlug": "hospital-eeeb46fe",
+      "newSlug": "raffles-hospital-beijing",
+      "nameHint": "Raffles Hospital Beijing 北京莱佛士医院",
+      "reason": "canonical_slug_cleanup",
+      "packageSlugSamples": [],
+      "homepageFeatured": false
     }
   ],
-  "unresolved": [
-    {
-      "nameHint": "广东祈福医院 Clifford Hospital",
-      "proposedSlug": "clifford-hospital"
-    },
-    {
-      "nameHint": "广州泰和肿瘤医院",
-      "proposedSlug": "guangzhou-concord-cancer-center"
-    },
-    {
-      "nameHint": "成都爱迪眼科医院",
-      "proposedSlug": "chengdu-aidi-eye-hospital"
-    },
-    {
-      "nameHint": "GoBroad Healthcare Group",
-      "proposedSlug": "gobroad-healthcare-group"
-    }
-  ]
+  "unresolved": []
 }

@@ -111,7 +111,7 @@ const fetchHospital = async (hospitalId) => {
     'hospitals',
     new URLSearchParams({
       id: `eq.${hospitalId}`,
-      select: 'id,slug,name,name_en,display_name,status,updated_at',
+      select: 'id,slug,city,status,updated_at,data_source',
       limit: '1',
     }).toString(),
   )
@@ -123,7 +123,7 @@ const fetchSlugCollision = async (newSlug, hospitalId) => {
     'hospitals',
     new URLSearchParams({
       slug: `eq.${newSlug}`,
-      select: 'id,slug,name,name_en,display_name,status',
+      select: 'id,slug,city,status,data_source',
       limit: '2',
     }).toString(),
   )
