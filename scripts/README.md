@@ -90,6 +90,23 @@ Key fields in the report:
 - `media.summary.bySource`: distribution across R2, R2 low fallback, R2 hospital photos, legacy S3/CloudFront, CRM storage keys, and other HTTP media.
 - `warnings`: likely migration risks such as legacy media references, missing CRM hospital row, missing detail row, or rich detail that exists outside CRM materials.
 
+Generate a deterministic media migration manifest from a full inventory:
+
+```bash
+node scripts/hospital_source_media_inventory.mjs \
+  --locale zh \
+  --limit 500 \
+  --image-sample-limit 1000 \
+  --out artifacts/hospital_source_media_inventory.zh.full-media.json
+
+node scripts/hospital_media_migration_manifest.mjs \
+  --inventory artifacts/hospital_source_media_inventory.zh.full-media.json \
+  --candidates data/hospital_slug_migration_candidates.json \
+  --out data/hospital_media_migration_manifest.json
+```
+
+The manifest does not upload files or write database rows. It maps each unique source URL for confirmed slug-migration hospitals to the intended public R2 key/URL so the copy/reupload and read-model update can be reviewed before execution.
+
 Deploy the CRM API to Lightsail:
 
 ```bash
