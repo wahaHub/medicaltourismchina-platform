@@ -3,6 +3,7 @@ import { Link, useNavigate, useParams } from "react-router-dom";
 import TopBanner from "@/components/TopBanner";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import HospitalProgressiveImage from "@/components/HospitalProgressiveImage";
 import QuoteRequestModal from "@/components/QuoteRequestModal";
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
@@ -834,7 +835,7 @@ export default function HospitalDetail() {
       <main className={`min-h-screen ${pageShellClass}`}>
         <header className="relative h-[44vh] min-h-[340px] w-full overflow-hidden">
           {liveHospital.heroImage ? (
-            <img
+            <HospitalProgressiveImage
               src={liveHospital.heroImage}
               alt={`${liveHospital.name} exterior`}
               className="absolute inset-0 h-full w-full object-cover"
@@ -873,7 +874,7 @@ export default function HospitalDetail() {
                 {liveGallery.length > 0 ? (
                   <>
                     <div className="relative aspect-[16/9] w-full overflow-hidden rounded-xl bg-muted">
-                      <img
+                      <HospitalProgressiveImage
                         src={liveGallery[galleryIndex]}
                         alt={`${liveHospital.name} photo ${galleryIndex + 1}`}
                         className="absolute inset-0 h-full w-full object-cover"
@@ -910,7 +911,7 @@ export default function HospitalDetail() {
                           onClick={() => setGalleryIndex(index)}
                           type="button"
                         >
-                          <img
+                          <HospitalProgressiveImage
                             src={src}
                             alt={`thumbnail ${index + 1}`}
                             className="h-full w-full object-cover"

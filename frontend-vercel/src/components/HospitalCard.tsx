@@ -5,13 +5,16 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip";
 import { HoverCard, HoverCardContent, HoverCardTrigger } from "@/components/ui/hover-card";
+import HospitalProgressiveImage from "@/components/HospitalProgressiveImage";
 import { useNavigate } from "react-router-dom";
 import { Hospital } from "@/services/api";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { useState, useEffect } from "react";
 
 interface NewHospitalCardProps {
-  hospitalData: Hospital;
+  hospitalData: Hospital & {
+    wiki_link?: string;
+  };
 }
 
 interface LegacyHospitalCardProps {
@@ -120,7 +123,7 @@ const HospitalPhotoSlider = ({ hospitalId, hospitalName, heroImageUrl }: { hospi
 
   return (
     <div className="relative h-full w-full">
-      <img
+      <HospitalProgressiveImage
         src={currentPhoto}
         alt={`${hospitalName} - 照片 ${currentPhotoIndex + 1}`}
         className="h-full w-full object-cover group-hover:scale-105 transition-transform duration-300"
@@ -199,7 +202,7 @@ const HospitalCard = (props: HospitalCardProps) => {
     annualCases: props.hospitalData.annual_outpatient_visits || 0,
     image: '/api/placeholder/400/240', // Placeholder for now
     website: props.hospitalData.official_website || '',
-    wikiUrl: (props.hospitalData as any).wiki_link || `https://zh.wikipedia.org/wiki/${encodeURIComponent(props.hospitalData.name)}`,
+    wikiUrl: props.hospitalData.wiki_link || `https://zh.wikipedia.org/wiki/${encodeURIComponent(props.hospitalData.name)}`,
     location: `${props.hospitalData.city}${props.hospitalData.province ? ', ' + props.hospitalData.province : ''}`,
     tier: props.hospitalData.tier,
     hospitalType: props.hospitalData.short_description,
@@ -240,7 +243,7 @@ const HospitalCard = (props: HospitalCardProps) => {
             heroImageUrl={props.hospitalData.hero_image_url}
           />
         ) : (
-          <img
+          <HospitalProgressiveImage
             src={data.image}
             alt={data.name}
             className="h-full w-full object-cover group-hover:scale-105 transition-transform duration-300"

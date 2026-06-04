@@ -1,6 +1,10 @@
 import { describe, expect, it } from 'vitest';
 
-import { addFailedPhotoUrl, getValidHospitalPhotoUrls } from '../hospital-photo-state';
+import {
+  addFailedPhotoUrl,
+  getHospitalProgressiveBaseUrl,
+  getValidHospitalPhotoUrls,
+} from '../hospital-photo-state';
 
 describe('hospital photo state helpers', () => {
   it('filters failed photo urls out of the display list', () => {
@@ -27,5 +31,31 @@ describe('hospital photo state helpers', () => {
     const twice = addFailedPhotoUrl(once, 'https://cdn.example.com/5.png');
 
     expect(Array.from(twice)).toEqual(['https://cdn.example.com/5.png']);
+  });
+
+  it('derives a progressive base from R2 hospital photo urls', () => {
+    expect(
+      getHospitalProgressiveBaseUrl(
+        'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev/low/hospitals/public/hospital-123_1.png',
+      ),
+    ).toBe(
+      'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev/low/hospitals/public/hospital-123_1',
+    );
+  });
+
+  it('does not derive a progressive base when the url is already a resolution asset', () => {
+    expect(
+      getHospitalProgressiveBaseUrl(
+        'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev/low/hospitals/header_img_x2.png',
+      ),
+    ).toBeNull();
+  });
+
+  it('ignores non-hospital media urls for hospital progressive loading', () => {
+    expect(
+      getHospitalProgressiveBaseUrl(
+        'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev/low/treatment/proton-carbon-ion-therapy_x2.png',
+      ),
+    ).toBeNull();
   });
 });
