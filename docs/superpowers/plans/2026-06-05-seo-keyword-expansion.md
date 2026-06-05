@@ -1,0 +1,700 @@
+# SEO Keyword Expansion Implementation Plan
+
+> **For agentic workers:** REQUIRED: Use superpowers:subagent-driven-development (if subagents available) or superpowers:executing-plans to implement this plan. Steps use checkbox (`- [ ]`) syntax for tracking.
+
+**Goal:** Build the first SEO keyword expansion wave for MedicalTourismChina: 32 China-core and global-comparison landing pages with reusable metadata, structured data, sitemap coverage, route registration, internal links, and tests.
+
+**Architecture:** Keep the current Vite React SPA and add a reusable SEO landing system driven by a typed content config. The first wave improves route coverage and rendered-DOM SEO while explicitly preserving the future option to prerender or migrate SEO-critical pages to SSR/SSG.
+
+**Tech Stack:** Vite, React 18, React Router, TypeScript, Vitest, jsdom, static `public/sitemap.xml`.
+
+---
+
+## Source Spec
+
+- Design spec: `/Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/docs/superpowers/specs/2026-06-05-seo-keyword-expansion-design.md`
+- App root: `/Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel`
+
+## First-Wave URL Scope
+
+Implement exactly these 32 SEO routes in this phase:
+
+1. `/dental-implants-china`
+2. `/all-on-6-dental-implants-china`
+3. `/all-on-4-dental-implants-china`
+4. `/full-mouth-dental-implants-china-cost`
+5. `/dental-veneers-china`
+6. `/stem-cell-therapy-china`
+7. `/autism-stem-cell-therapy-china`
+8. `/parkinsons-stem-cell-therapy-china`
+9. `/diabetes-stem-cell-therapy-china`
+10. `/hematopoietic-stem-cell-transplant-china`
+11. `/cancer-treatment-china`
+12. `/proton-therapy-china`
+13. `/carbon-ion-therapy-china`
+14. `/car-t-cell-therapy-china`
+15. `/rhinoplasty-china`
+16. `/double-eyelid-surgery-china`
+17. `/breast-augmentation-china`
+18. `/hair-transplant-china`
+19. `/gastric-sleeve-surgery-china`
+20. `/gastric-bypass-surgery-china`
+21. `/bariatric-surgery-china`
+22. `/hospitals-in-china-for-foreigners`
+23. `/best-hospitals-in-china-for-foreigners`
+24. `/international-patient-services-china`
+25. `/china-medical-visa`
+26. `/medical-interpreter-china`
+27. `/china-medical-second-opinion`
+28. `/best-country-for-dental-implants`
+29. `/medical-tourism-for-dental-implants`
+30. `/best-country-for-stem-cell-therapy`
+31. `/medical-tourism-for-stem-cell-therapy`
+32. `/cancer-treatment-abroad`
+
+Do not add city doorway pages, unrelated country pages, or broad global-directory pages in this phase.
+
+## Keyword Coverage Rationale
+
+This first wave must cover the strongest existing business inventory visible in the current app, not every possible service or treatment page. The route set above maps to:
+
+- Core medical tourism brand intent: keep `medical tourism China` and `medical tourism in China` anchored to the existing homepage and `/why-china`; do not duplicate that intent with a new first-wave URL.
+- Dental: existing dental treatment, All-on-4/6 featured treatment, Hollywood Smile/Veneers page, dental implant pricing intent.
+- Stem cell and regenerative medicine: existing stem cell category, autism, Parkinson's, diabetes, and hematopoietic stem cell transplantation content.
+- Cancer and advanced oncology: existing cancer category, proton/heavy ion featured treatment, CAR-T featured treatment, and broader cancer-treatment-abroad comparison intent.
+- Cosmetic and aesthetic surgery: existing rhinoplasty, double eyelid surgery, breast augmentation, and hair transplant pages.
+- Bariatric and weight loss: existing bariatric, gastric sleeve, and gastric bypass pages.
+- International patient operations: hospitals for foreigners, hospital matching, international patient services, visa, interpreter, and second opinion/telemedicine.
+
+The plan intentionally does not include every specialty in `src/data/treatments.ts` or every existing standalone page as a first-wave landing page. Cardiology, orthopedics, gynecology, ophthalmology, urinary stones, hearing reconstruction, health checkups, facial liposuction, dental crowns, full mouth restoration, adjustable gastric band, tummy tuck, breast reduction, arm lift, and longevity stem cell therapy are valuable but less central to this first launch. Preserve their existing routes and links, then evaluate them for a second SEO wave after Search Console and conversion data from this launch.
+
+## Implementation Guardrails From Plan Review
+
+- Keep the 32-route scope. Do not add extra first-wave pages during implementation without a new review.
+- Avoid duplicate content between `/proton-therapy-china` and `/carbon-ion-therapy-china`. The proton page should focus on proton therapy access, planning, cost/timeline, and comparison to conventional radiotherapy. The carbon ion page should explicitly cover `carbon ion therapy China`, `heavy ion therapy China`, how carbon ion differs from proton therapy, and where it may be evaluated for harder-to-treat tumors.
+- Make `/china-medical-second-opinion` cover `telemedicine China second opinion` as a secondary keyword through the config and page sections, even though the URL remains shorter.
+- For `/best-hospitals-in-china-for-foreigners`, do not present an unsourced ranking. Title and body copy should frame the page around how to evaluate matched hospitals, international-patient support, specialties, language support, admission workflow, and quote readiness.
+- For stem cell and cancer pages, prefer cautious language and explicit record-review prompts. Avoid guarantee language, cure claims, or broad eligibility claims.
+
+## File Structure
+
+Create:
+
+- `frontend-vercel/src/seo/landing-pages.ts`
+  - Owns typed first-wave landing page content and keyword metadata.
+  - Exports `seoLandingPages`, `seoLandingPageByPath`, and `FIRST_WAVE_SEO_PATHS`.
+- `frontend-vercel/src/seo/useSeoMeta.ts`
+  - Owns client-side title, meta, canonical, Open Graph, Twitter, and JSON-LD tag management.
+  - Replaces stale JSON-LD tags on route change.
+- `frontend-vercel/src/pages/SeoKeywordLandingPage.tsx`
+  - Owns reusable rendering for China-core, service, and global-comparison SEO pages.
+  - Reads one page config and renders hero, overview sections, cost/timeline, suitability, risk notes, China value, comparison rows, FAQ, and related links.
+- `frontend-vercel/src/seo/__tests__/landing-pages.test.ts`
+  - Validates first-wave URL coverage and config completeness.
+- `frontend-vercel/src/seo/__tests__/useSeoMeta.test.tsx`
+  - Validates metadata and JSON-LD behavior.
+
+Modify:
+
+- `frontend-vercel/src/App.tsx`
+  - Register each first-wave SEO route using the reusable page renderer.
+- `frontend-vercel/public/sitemap.xml`
+  - Add first-wave SEO URLs.
+- `frontend-vercel/src/__tests__/seo-public-entrypoints.test.ts`
+  - Extend route and sitemap assertions.
+- `frontend-vercel/src/pages/SeoTreatmentLanding.tsx`
+  - Add contextual related links to the new keyword pages only if this can be done cleanly without redesigning the page.
+
+Do not modify:
+
+- Private dashboard routes.
+- Auth routes.
+- Patient-session state.
+- Backend API code.
+- Existing hospital slug middleware.
+
+## Chunk 1: SEO Config And Keyword Coverage
+
+### Task 1: Write config coverage tests
+
+**Files:**
+- Create: `/Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel/src/seo/__tests__/landing-pages.test.ts`
+- Create later: `/Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel/src/seo/landing-pages.ts`
+
+- [ ] **Step 1: Write failing tests for exact first-wave route coverage**
+
+Test requirements:
+
+```ts
+import { describe, expect, it } from "vitest";
+import { FIRST_WAVE_SEO_PATHS, seoLandingPages } from "../landing-pages";
+
+const expectedPaths = [
+  "/dental-implants-china",
+  "/all-on-6-dental-implants-china",
+  "/all-on-4-dental-implants-china",
+  "/full-mouth-dental-implants-china-cost",
+  "/dental-veneers-china",
+  "/stem-cell-therapy-china",
+  "/autism-stem-cell-therapy-china",
+  "/parkinsons-stem-cell-therapy-china",
+  "/diabetes-stem-cell-therapy-china",
+  "/hematopoietic-stem-cell-transplant-china",
+  "/cancer-treatment-china",
+  "/proton-therapy-china",
+  "/carbon-ion-therapy-china",
+  "/car-t-cell-therapy-china",
+  "/rhinoplasty-china",
+  "/double-eyelid-surgery-china",
+  "/breast-augmentation-china",
+  "/hair-transplant-china",
+  "/gastric-sleeve-surgery-china",
+  "/gastric-bypass-surgery-china",
+  "/bariatric-surgery-china",
+  "/hospitals-in-china-for-foreigners",
+  "/best-hospitals-in-china-for-foreigners",
+  "/international-patient-services-china",
+  "/china-medical-visa",
+  "/medical-interpreter-china",
+  "/china-medical-second-opinion",
+  "/best-country-for-dental-implants",
+  "/medical-tourism-for-dental-implants",
+  "/best-country-for-stem-cell-therapy",
+  "/medical-tourism-for-stem-cell-therapy",
+  "/cancer-treatment-abroad",
+];
+
+describe("SEO landing page config", () => {
+  it("defines the exact first-wave SEO URL set", () => {
+    expect(FIRST_WAVE_SEO_PATHS).toEqual(expectedPaths);
+    expect(seoLandingPages.map((page) => page.path)).toEqual(expectedPaths);
+  });
+});
+```
+
+- [ ] **Step 2: Write failing tests for valuable business keyword coverage**
+
+Assert that the config covers these terms across `primaryKeyword` and `secondaryKeywords`, while each page still keeps one clean `primaryKeyword`:
+
+```text
+dental implants China
+all on 6 dental implants China
+all on 4 dental implants China
+full mouth dental implants China cost
+dental veneers China
+stem cell therapy China
+autism stem cell therapy China
+Parkinson's stem cell therapy China
+diabetes stem cell therapy China
+hematopoietic stem cell transplant China
+cancer treatment China
+proton therapy China
+carbon ion therapy China
+CAR T cell therapy China
+rhinoplasty China
+double eyelid surgery China
+breast augmentation China
+hair transplant China
+gastric sleeve surgery China
+gastric bypass surgery China
+bariatric surgery China
+hospitals in China for foreigners
+best hospitals in China for foreigners
+international patient services China
+China medical visa
+medical interpreter China
+China medical second opinion
+telemedicine China second opinion
+best country for dental implants
+medical tourism for dental implants
+best country for stem cell therapy
+medical tourism for stem cell therapy
+cancer treatment abroad
+```
+
+- [ ] **Step 3: Write failing tests for config completeness**
+
+For every landing page, require:
+
+```text
+path
+title
+description
+canonicalUrl
+primaryKeyword
+h1
+summary
+heroCta.primary
+sections length >= 2
+chinaValue
+faqItems length between 4 and 6
+relatedLinks length >= 3
+schema
+```
+
+For comparison pages, require `comparisonRows.length >= 3`.
+
+- [ ] **Step 4: Run tests and verify failure**
+
+Run:
+
+```bash
+cd /Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel
+npx vitest run src/seo/__tests__/landing-pages.test.ts
+```
+
+Expected: FAIL because `src/seo/landing-pages.ts` does not exist yet.
+
+### Task 2: Implement typed SEO landing config
+
+**Files:**
+- Create: `/Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel/src/seo/landing-pages.ts`
+
+- [ ] **Step 1: Define TypeScript content types**
+
+Define focused types:
+
+```ts
+export type SeoLandingPageKind = "china-treatment" | "china-service" | "global-comparison";
+
+export type SeoLandingPage = {
+  kind: SeoLandingPageKind;
+  path: string;
+  title: string;
+  description: string;
+  canonicalUrl: string;
+  primaryKeyword: string;
+  secondaryKeywords: string[];
+  eyebrow: string;
+  h1: string;
+  summary: string;
+  heroCta: {
+    primary: { label: string; href: string };
+    secondary?: { label: string; href: string };
+  };
+  sections: Array<{ title: string; body: string; bullets?: string[] }>;
+  costTimeline?: Array<{ label: string; value: string; note?: string }>;
+  suitability: string[];
+  riskNotes: string[];
+  chinaValue: { title: string; body: string; bullets: string[] };
+  comparisonRows?: Array<{ destination: string; strengths: string; tradeoffs: string; bestFor: string }>;
+  faqItems: Array<{ question: string; answer: string }>;
+  relatedLinks: Array<{ label: string; href: string; description?: string }>;
+  schema: "MedicalWebPage" | "WebPage" | "Service";
+};
+```
+
+- [ ] **Step 2: Add the 32 page configs**
+
+Use medically cautious, patient-useful copy. Keep each page config concise but not thin:
+
+- 2-3 overview sections.
+- 4 FAQ items minimum.
+- At least 3 related links.
+- Risk notes for every treatment page.
+- Comparison rows for the 5 global comparison pages.
+
+- [ ] **Step 3: Add helper exports**
+
+Export:
+
+```ts
+export const FIRST_WAVE_SEO_PATHS = seoLandingPages.map((page) => page.path);
+export const seoLandingPageByPath = new Map(seoLandingPages.map((page) => [page.path, page]));
+export function getSeoLandingPage(path: string): SeoLandingPage | undefined;
+```
+
+- [ ] **Step 4: Run config tests**
+
+Run:
+
+```bash
+cd /Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel
+npx vitest run src/seo/__tests__/landing-pages.test.ts
+```
+
+Expected: PASS.
+
+- [ ] **Step 5: Commit chunk 1**
+
+```bash
+cd /Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform
+git add frontend-vercel/src/seo/landing-pages.ts frontend-vercel/src/seo/__tests__/landing-pages.test.ts
+git commit -m "feat(seo): define keyword landing page config"
+```
+
+## Chunk 2: Metadata Helper
+
+### Task 3: Write metadata helper tests
+
+**Files:**
+- Create: `/Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel/src/seo/__tests__/useSeoMeta.test.tsx`
+- Create later: `/Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel/src/seo/useSeoMeta.ts`
+
+- [ ] **Step 1: Test tag creation and updates**
+
+Render a test component that calls `useSeoMeta(page)` and assert:
+
+- `document.title` equals page title.
+- `meta[name="description"]` exists and matches.
+- `link[rel="canonical"]` exists and matches.
+- Open Graph tags exist and match.
+- `meta[name="twitter:card"]` exists and uses `summary_large_image`.
+
+- [ ] **Step 2: Test JSON-LD replacement on route/page change**
+
+Render once with one page, rerender with another page, and assert:
+
+- Only current SEO JSON-LD tags remain.
+- FAQ JSON-LD question count matches the current page.
+- Breadcrumb JSON-LD uses the current page path.
+
+- [ ] **Step 3: Run tests and verify failure**
+
+```bash
+cd /Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel
+npx vitest run src/seo/__tests__/useSeoMeta.test.tsx
+```
+
+Expected: FAIL because `useSeoMeta` does not exist.
+
+### Task 4: Implement `useSeoMeta`
+
+**Files:**
+- Create: `/Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel/src/seo/useSeoMeta.ts`
+
+- [ ] **Step 1: Implement meta tag helpers**
+
+Implement small helpers:
+
+```ts
+function upsertMeta(selector: string, attrs: Record<string, string>): void;
+function upsertLink(selector: string, attrs: Record<string, string>): void;
+function replaceSeoJsonLd(items: Array<Record<string, unknown>>): void;
+```
+
+Mark JSON-LD tags with `data-seo-json-ld="true"` so they can be replaced safely.
+
+- [ ] **Step 2: Implement schema builders**
+
+Build:
+
+- `BreadcrumbList`
+- `FAQPage`
+- `MedicalWebPage` or `WebPage`
+- `Service` for service pages
+
+- [ ] **Step 3: Implement hook**
+
+`useSeoMeta(page)` should update tags in a `useEffect` keyed by the page path/title/description/FAQ data.
+
+- [ ] **Step 4: Run metadata tests**
+
+```bash
+cd /Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel
+npx vitest run src/seo/__tests__/useSeoMeta.test.tsx
+```
+
+Expected: PASS.
+
+- [ ] **Step 5: Commit chunk 2**
+
+```bash
+cd /Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform
+git add frontend-vercel/src/seo/useSeoMeta.ts frontend-vercel/src/seo/__tests__/useSeoMeta.test.tsx
+git commit -m "feat(seo): add landing page metadata helper"
+```
+
+## Chunk 3: Landing Page Renderer And Routes
+
+### Task 5: Implement reusable SEO landing page renderer
+
+**Files:**
+- Create: `/Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel/src/pages/SeoKeywordLandingPage.tsx`
+
+- [ ] **Step 1: Render page shell from config**
+
+Use existing app components where appropriate:
+
+- `TopBanner`
+- `Header`
+- `Footer`
+- `Button`
+- `Accordion` for FAQ if useful
+
+Render:
+
+- Hero with eyebrow, H1, summary, CTAs.
+- Overview sections.
+- Cost/timeline cards when provided.
+- Suitability and risk notes.
+- China value section.
+- Comparison table when `comparisonRows` exists.
+- Related links.
+- FAQ.
+
+- [ ] **Step 2: Add medical safety tone in UI copy**
+
+Keep visible text factual and decision-oriented. Avoid guarantees. Use the config's risk notes and suitability sections prominently enough that pages do not read like medical promises.
+
+- [ ] **Step 3: Use metadata hook**
+
+Call `useSeoMeta(page)` at the top of the component.
+
+- [ ] **Step 4: Handle missing config**
+
+If the page prop is missing, render `NotFound` or return a clear fallback via routing. Do not silently render empty content.
+
+### Task 6: Register SEO routes in `App.tsx`
+
+**Files:**
+- Modify: `/Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel/src/App.tsx`
+
+- [ ] **Step 1: Import renderer and config**
+
+Add imports:
+
+```ts
+import SeoKeywordLandingPage from "./pages/SeoKeywordLandingPage";
+import { seoLandingPages } from "@/seo/landing-pages";
+```
+
+- [ ] **Step 2: Register explicit route entries**
+
+Inside `<Routes>`, map config pages before the catch-all:
+
+```tsx
+{seoLandingPages.map((page) => (
+  <Route
+    key={page.path}
+    path={page.path}
+    element={<SeoKeywordLandingPage page={page} />}
+  />
+))}
+```
+
+Place this near existing SEO/treatment routes and above `path="*"`.
+
+- [ ] **Step 3: Run route smoke test manually**
+
+Start dev server:
+
+```bash
+cd /Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel
+npm run dev -- --host 127.0.0.1
+```
+
+Open a few paths:
+
+- `/dental-implants-china`
+- `/best-country-for-stem-cell-therapy`
+- `/china-medical-visa`
+
+Expected: each page renders a complete SEO landing page.
+
+### Task 7: Extend public entrypoint tests
+
+**Files:**
+- Modify: `/Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel/src/__tests__/seo-public-entrypoints.test.ts`
+
+- [ ] **Step 1: Import first-wave paths**
+
+Use `FIRST_WAVE_SEO_PATHS` from `src/seo/landing-pages`.
+
+- [ ] **Step 2: Assert sitemap contains every first-wave path**
+
+Extend existing sitemap test to loop over `FIRST_WAVE_SEO_PATHS`.
+
+- [ ] **Step 3: Assert App registers SEO route mapping**
+
+Assert `App.tsx` contains the reusable route mapping and `SeoKeywordLandingPage`.
+
+- [ ] **Step 4: Run public entrypoint tests**
+
+```bash
+cd /Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel
+npx vitest run src/__tests__/seo-public-entrypoints.test.ts
+```
+
+Expected before sitemap edit: FAIL because sitemap does not include new paths.
+
+## Chunk 4: Sitemap And Internal Links
+
+### Task 8: Expand sitemap
+
+**Files:**
+- Modify: `/Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel/public/sitemap.xml`
+
+- [ ] **Step 1: Add 32 first-wave URLs**
+
+Add one `<url>` per first-wave path using:
+
+```xml
+<loc>https://www.medicaltourismchina.health/dental-implants-china</loc>
+```
+
+Use priority:
+
+- `0.9` for China-core treatment and service pages.
+- `0.8` for global comparison pages.
+
+- [ ] **Step 2: Run sitemap test**
+
+```bash
+cd /Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel
+npx vitest run src/__tests__/seo-public-entrypoints.test.ts
+```
+
+Expected: PASS.
+
+### Task 9: Add contextual links from existing SEO category pages
+
+**Files:**
+- Modify: `/Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel/src/pages/SeoTreatmentLanding.tsx`
+
+- [ ] **Step 1: Add related keyword links to landing content**
+
+For each existing category landing:
+
+- cosmetic: link to `/rhinoplasty-china`, `/double-eyelid-surgery-china`, `/breast-augmentation-china`, `/hair-transplant-china`.
+- dental: link to `/dental-implants-china`, `/all-on-6-dental-implants-china`, `/all-on-4-dental-implants-china`, `/full-mouth-dental-implants-china-cost`, `/dental-veneers-china`, `/best-country-for-dental-implants`.
+- stem cell: link to `/stem-cell-therapy-china`, `/autism-stem-cell-therapy-china`, `/parkinsons-stem-cell-therapy-china`, `/diabetes-stem-cell-therapy-china`, `/hematopoietic-stem-cell-transplant-china`, `/best-country-for-stem-cell-therapy`.
+- cancer: link to `/cancer-treatment-china`, `/proton-therapy-china`, `/carbon-ion-therapy-china`, `/car-t-cell-therapy-china`, `/cancer-treatment-abroad`.
+- bariatric: link from `/bariatric-surgery` and related treatment content to `/bariatric-surgery-china`, `/gastric-sleeve-surgery-china`, and `/gastric-bypass-surgery-china`.
+
+- [ ] **Step 2: Keep the UI simple**
+
+Reuse the existing related treatments card grid. Do not redesign this page.
+
+- [ ] **Step 3: Run a narrow build/type check**
+
+```bash
+cd /Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel
+npm run build
+```
+
+Expected: build succeeds.
+
+- [ ] **Step 4: Commit chunks 3-4**
+
+```bash
+cd /Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform
+git add frontend-vercel/src/App.tsx frontend-vercel/src/pages/SeoKeywordLandingPage.tsx frontend-vercel/src/__tests__/seo-public-entrypoints.test.ts frontend-vercel/public/sitemap.xml frontend-vercel/src/pages/SeoTreatmentLanding.tsx
+git commit -m "feat(seo): publish first wave keyword landing routes"
+```
+
+## Chunk 5: Verification, Review, And Copy Safety
+
+### Task 10: Run full verification
+
+**Files:**
+- No file changes expected.
+
+- [ ] **Step 1: Run SEO tests**
+
+```bash
+cd /Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel
+npx vitest run src/seo/__tests__/landing-pages.test.ts src/seo/__tests__/useSeoMeta.test.tsx src/__tests__/seo-public-entrypoints.test.ts
+```
+
+Expected: PASS.
+
+- [ ] **Step 2: Run build**
+
+```bash
+cd /Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel
+npm run build
+```
+
+Expected: PASS.
+
+- [ ] **Step 3: Run browser smoke checks**
+
+Use the Browser plugin or Playwright/browser equivalent to inspect:
+
+- `/dental-implants-china`
+- `/autism-stem-cell-therapy-china`
+- `/breast-augmentation-china`
+- `/cancer-treatment-abroad`
+- `/china-medical-visa`
+
+Check:
+
+- Page renders without console errors.
+- H1 is visible.
+- CTA links work.
+- FAQ section is visible.
+- Comparison table appears on comparison pages.
+- Text does not overlap on desktop and mobile widths.
+
+### Task 11: Run `review-until-clean`
+
+**Files:**
+- Review full implementation diff after chunks 1-4.
+
+- [ ] **Step 1: Freeze review scope**
+
+Capture:
+
+```bash
+cd /Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform
+git status --short --branch
+git diff --stat HEAD~2..HEAD
+```
+
+If implementation used different commit granularity, compare from the pre-implementation SHA.
+
+- [ ] **Step 2: Dispatch reviewer**
+
+Ask reviewer to focus on:
+
+- Whether all current valuable business keywords are covered.
+- Whether China-core + global-comparison design is strategically sound.
+- Whether medical safety language is cautious enough.
+- Whether route/sitemap/config coverage is complete.
+- Whether implementation stays inside first-wave scope.
+
+- [ ] **Step 3: Route findings through receiver**
+
+Use a separate receiver subagent to evaluate findings before making changes.
+
+- [ ] **Step 4: Fix verified findings and rerun verification**
+
+Run the narrow relevant tests after each fix.
+
+- [ ] **Step 5: Repeat until reviewer says no meaningful findings remain**
+
+Do not commit final combined changes until the latest review is clean and the main agent rechecks the final diff.
+
+### Task 12: Final commit
+
+**Files:**
+- All implementation files from prior chunks.
+
+- [ ] **Step 1: Self-audit final diff**
+
+Check:
+
+- No unrelated files staged.
+- `artifacts/` remains untouched unless explicitly requested.
+- Every first-wave route is in config, route map, sitemap, and tests.
+- Every high-value existing business cluster listed in "Keyword Coverage Rationale" has at least one first-wave landing page or an explicit second-wave deferral.
+- No medical guarantee language slipped in.
+- Verification commands actually passed.
+
+- [ ] **Step 2: Commit with detailed history**
+
+Use `detailed-commit-messages` if requested by the review workflow, or write a clear commit message summarizing:
+
+- SEO landing system.
+- 32 first-wave URLs.
+- Metadata/schema helper.
+- Sitemap and route coverage.
+- Verification run.
+
+## Known Constraints
+
+- This phase does not make per-route metadata server-visible in the raw HTML response.
+- The content is intentionally concise; Search Console data should guide later split/merge decisions.
+- High-risk medical topics, especially stem cell and cancer pages, need one extra copy-safety read before deploy.
+- Static sitemap entries are acceptable for this phase; dynamic API sitemap generation is future work.
