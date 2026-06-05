@@ -70,7 +70,6 @@ type PageCopy = {
     subtitle: string;
     support: string;
     primaryCta: string;
-    secondaryCta: string;
     imageAlt: string;
   };
   trust: TextPair[];
@@ -83,6 +82,7 @@ type PageCopy = {
   comparison: {
     label: string;
     title: string;
+    cta: string;
     headers: string[];
     rows: string[][];
   };
@@ -120,14 +120,13 @@ type PageCopy = {
 
 const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
   en: {
-    metaTitle: "China Specialist Second Opinion | Medora Health",
+    metaTitle: "Online Consultation with Top Chinese Specialists | Medora Health",
     hero: {
-      label: "China Specialist Second Opinion",
+      label: "Online Consultation with Top Chinese Specialists",
       title: "Not sure about your diagnosis or treatment plan?",
-      subtitle: "Get a written review, video consultation, or multidisciplinary second opinion from selected Chinese specialists.",
+      subtitle: "Get a written review, video consultation, or multidisciplinary second opinion from top Chinese specialists.",
       support: "Upload your medical records and receive expert guidance before making your next medical decision.",
-      primaryCta: "Book a Second Opinion",
-      secondaryCta: "Compare Review Options",
+      primaryCta: "Book Online Consultation",
       imageAlt: "Chinese specialist reviewing medical records for an online second opinion",
     },
     trust: [
@@ -257,6 +256,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
     comparison: {
       label: "Side by side",
       title: "Compare review options",
+      cta: "Compare review options",
       headers: ["Feature", "Written Review", "Video Consultation", "Multidisciplinary Review"],
       rows: [
         ["Medical record intake", "Yes", "Yes", "Yes"],
@@ -323,19 +323,18 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
       label: "Start remotely",
       title: "Get another expert view before your next medical decision",
       body: "Choose a written review, video consultation, or multidisciplinary case review from selected Chinese specialists.",
-      cta: "Book a Second Opinion",
+      cta: "Book Online Consultation",
       note: "Start remotely. No obligation to travel.",
     },
   },
   zh: {
-    metaTitle: "中国专科医生第二诊疗意见 | Medora Health",
+    metaTitle: "中国顶级专家的在线诊疗 | Medora Health",
     hero: {
-      label: "中国专科医生第二诊疗意见",
+      label: "中国顶级专家的在线诊疗",
       title: "不确定您的诊断或治疗方案？",
-      subtitle: "获得中国专科医生的书面审阅、视频问诊或多学科第二诊疗意见。",
+      subtitle: "获得中国顶尖专科医生的书面审阅、视频问诊或多学科第二诊疗意见。",
       support: "上传病历资料，在做出下一步医疗决定前获得专业参考。",
-      primaryCta: "预约第二诊疗意见",
-      secondaryCta: "比较服务方案",
+      primaryCta: "预约在线问诊",
       imageAlt: "中国专科医生审阅线上第二诊疗意见病历资料",
     },
     trust: [
@@ -423,6 +422,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
     comparison: {
       label: "方案对比",
       title: "比较第二诊疗意见方案",
+      cta: "比较服务方案",
       headers: ["项目", "书面审阅", "视频问诊", "多学科评估"],
       rows: [
         ["病历接收", "是", "是", "是"],
@@ -489,7 +489,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
       label: "远程开始",
       title: "在下一次医疗决定前，获得另一个专家视角",
       body: "选择书面审阅、视频问诊或多学科病例评估。",
-      cta: "预约第二诊疗意见",
+      cta: "预约在线问诊",
       note: "远程开始。无需承诺来华治疗。",
     },
   },
@@ -501,14 +501,13 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
 
 TELEMEDICINE_COPY.es = {
   ...TELEMEDICINE_COPY.en,
-  metaTitle: "Segunda opinión de especialistas chinos | Medora Health",
+  metaTitle: "Consulta en línea con especialistas chinos destacados | Medora Health",
   hero: {
-    label: "Segunda opinión de especialistas chinos",
+    label: "Consulta en línea con especialistas chinos destacados",
     title: "¿No está seguro de su diagnóstico o plan de tratamiento?",
-    subtitle: "Obtenga una revisión escrita, una consulta por video o una segunda opinión multidisciplinaria de especialistas chinos seleccionados.",
+    subtitle: "Obtenga una revisión escrita, una consulta por video o una segunda opinión multidisciplinaria de destacados especialistas chinos.",
     support: "Suba sus expedientes médicos y reciba orientación experta antes de su próxima decisión médica.",
-    primaryCta: "Reservar segunda opinión",
-    secondaryCta: "Comparar opciones",
+    primaryCta: "Reservar consulta en línea",
     imageAlt: "Especialista chino revisando expedientes médicos para una segunda opinión en línea",
   },
   trust: [
@@ -544,21 +543,20 @@ TELEMEDICINE_COPY.es = {
     label: "Empiece a distancia",
     title: "Obtenga otra perspectiva experta antes de su próxima decisión médica",
     body: "Elija una revisión escrita, consulta por video o revisión oncológica multidisciplinaria.",
-    cta: "Reservar segunda opinión",
+    cta: "Reservar consulta en línea",
     note: "Empiece a distancia. Sin obligación de viajar.",
   },
 };
 
 TELEMEDICINE_COPY.fr = {
   ...TELEMEDICINE_COPY.en,
-  metaTitle: "Deuxième avis de spécialistes chinois | Medora Health",
+  metaTitle: "Consultation en ligne avec des spécialistes chinois de haut niveau | Medora Health",
   hero: {
-    label: "Deuxième avis de spécialistes chinois",
+    label: "Consultation en ligne avec des spécialistes chinois de haut niveau",
     title: "Vous n'êtes pas sûr de votre diagnostic ou de votre plan de traitement ?",
-    subtitle: "Obtenez un avis écrit, une consultation vidéo ou un deuxième avis multidisciplinaire de spécialistes chinois sélectionnés.",
+    subtitle: "Obtenez un avis écrit, une consultation vidéo ou un deuxième avis multidisciplinaire de spécialistes chinois de haut niveau.",
     support: "Téléversez vos dossiers médicaux et recevez une orientation experte avant votre prochaine décision médicale.",
-    primaryCta: "Réserver un deuxième avis",
-    secondaryCta: "Comparer les options",
+    primaryCta: "Réserver une consultation en ligne",
     imageAlt: "Spécialiste chinois examinant des dossiers médicaux pour un deuxième avis en ligne",
   },
   trust: [
@@ -594,21 +592,20 @@ TELEMEDICINE_COPY.fr = {
     label: "Commencez à distance",
     title: "Obtenez un autre avis expert avant votre prochaine décision médicale",
     body: "Choisissez un avis écrit, une consultation vidéo ou une revue multidisciplinaire en oncologie.",
-    cta: "Réserver un deuxième avis",
+    cta: "Réserver une consultation en ligne",
     note: "Commencez à distance. Aucun voyage obligatoire.",
   },
 };
 
 TELEMEDICINE_COPY.de = {
   ...TELEMEDICINE_COPY.en,
-  metaTitle: "Zweitmeinung chinesischer Spezialisten | Medora Health",
+  metaTitle: "Online-Beratung mit führenden chinesischen Spezialisten | Medora Health",
   hero: {
-    label: "Zweitmeinung chinesischer Spezialisten",
+    label: "Online-Beratung mit führenden chinesischen Spezialisten",
     title: "Unsicher bei Diagnose oder Behandlungsplan?",
-    subtitle: "Erhalten Sie eine schriftliche Prüfung, Videokonsultation oder multidisziplinäre Zweitmeinung von ausgewählten chinesischen Spezialisten.",
+    subtitle: "Erhalten Sie eine schriftliche Prüfung, Videokonsultation oder multidisziplinäre Zweitmeinung von führenden chinesischen Spezialisten.",
     support: "Laden Sie Ihre Unterlagen hoch und erhalten Sie fachliche Orientierung vor Ihrer nächsten medizinischen Entscheidung.",
-    primaryCta: "Zweitmeinung buchen",
-    secondaryCta: "Optionen vergleichen",
+    primaryCta: "Online-Beratung buchen",
     imageAlt: "Chinesischer Spezialist prüft medizinische Unterlagen für eine Online-Zweitmeinung",
   },
   trust: [
@@ -644,21 +641,20 @@ TELEMEDICINE_COPY.de = {
     label: "Remote starten",
     title: "Holen Sie eine weitere Expertenmeinung vor Ihrer nächsten medizinischen Entscheidung ein",
     body: "Wählen Sie schriftliche Prüfung, Videokonsultation oder onkologische multidisziplinäre Prüfung.",
-    cta: "Zweitmeinung buchen",
+    cta: "Online-Beratung buchen",
     note: "Starten Sie remote. Keine Reiseverpflichtung.",
   },
 };
 
 TELEMEDICINE_COPY.ru = {
   ...TELEMEDICINE_COPY.en,
-  metaTitle: "Второе мнение китайских специалистов | Medora Health",
+  metaTitle: "Онлайн-консультация с ведущими китайскими специалистами | Medora Health",
   hero: {
-    label: "Второе мнение китайских специалистов",
+    label: "Онлайн-консультация с ведущими китайскими специалистами",
     title: "Не уверены в диагнозе или плане лечения?",
-    subtitle: "Получите письменный обзор, видеоконсультацию или междисциплинарное второе мнение выбранных китайских специалистов.",
+    subtitle: "Получите письменный обзор, видеоконсультацию или междисциплинарное второе мнение ведущих китайских специалистов.",
     support: "Загрузите медицинские документы и получите экспертные рекомендации перед следующим медицинским решением.",
-    primaryCta: "Записаться на второе мнение",
-    secondaryCta: "Сравнить варианты",
+    primaryCta: "Записаться на онлайн-консультацию",
     imageAlt: "Китайский специалист изучает медицинские документы для онлайн-второго мнения",
   },
   trust: [
@@ -694,7 +690,7 @@ TELEMEDICINE_COPY.ru = {
     label: "Начните удаленно",
     title: "Получите еще один экспертный взгляд перед следующим медицинским решением",
     body: "Выберите письменный обзор, видеоконсультацию или онкологический междисциплинарный обзор.",
-    cta: "Записаться на второе мнение",
+    cta: "Записаться на онлайн-консультацию",
     note: "Начните удаленно. Поездка необязательна.",
   },
 };
@@ -743,17 +739,6 @@ function PrimaryLink({ to = CTA_HREF, children }: { to?: string; children: React
       <svg viewBox="0 0 24 24" aria-hidden="true" className="ml-2 h-4 w-4">
         <path d="M7 17 17 7M9 7h8v8" className="fill-none stroke-current stroke-[1.8]" strokeLinecap="round" strokeLinejoin="round" />
       </svg>
-    </Link>
-  );
-}
-
-function OutlineLink({ to, children }: { to: string; children: React.ReactNode }) {
-  return (
-    <Link
-      to={to}
-      className="inline-flex items-center rounded-full bg-white/90 px-6 py-3 text-sm font-semibold text-[#003B5C] shadow-lg shadow-slate-900/5 transition-all duration-300 hover:bg-white active:scale-[0.98]"
-    >
-      {children}
     </Link>
   );
 }
@@ -972,6 +957,58 @@ function PlanCard({ plan, featured }: { plan: Plan; featured?: boolean }) {
   );
 }
 
+function ComparisonDialog({ comparison }: { comparison: PageCopy["comparison"] }) {
+  return (
+    <Dialog>
+      <DialogTrigger asChild>
+        <button className="inline-flex items-center rounded-full bg-[#F0F4F3] px-6 py-3 text-sm font-semibold text-[#003B5C] shadow-lg shadow-slate-900/5 transition-all duration-300 hover:bg-[#E4ECEA] active:scale-[0.98]">
+          {comparison.cta}
+          <svg viewBox="0 0 24 24" aria-hidden="true" className="ml-2 h-4 w-4">
+            <path d="M4 7h16M4 12h16M4 17h16" className="fill-none stroke-current stroke-[1.8]" strokeLinecap="round" />
+          </svg>
+        </button>
+      </DialogTrigger>
+      <DialogContent className="max-h-[92vh] max-w-6xl overflow-y-auto border-0 bg-white p-0 shadow-2xl shadow-slate-900/20 sm:rounded-2xl">
+        <div className="border-b border-slate-100 bg-[#F0F4F3] p-6 sm:p-8">
+          <p className="text-xs font-bold uppercase tracking-[0.22em] text-[#0F638E]">{comparison.label}</p>
+          <DialogTitle className="mt-3 text-2xl font-bold leading-tight text-[#003B5C] sm:text-3xl">
+            {comparison.title}
+          </DialogTitle>
+          <DialogDescription className="sr-only">
+            Side-by-side table comparing the available online consultation review options.
+          </DialogDescription>
+        </div>
+        <div className="p-4 sm:p-6">
+          <div className="overflow-hidden rounded-2xl border border-slate-100 bg-white shadow-card">
+            <div className="overflow-x-auto">
+              <table className="w-full min-w-[860px] text-left text-sm">
+                <thead className="bg-gradient-to-r from-[#1DA78A] to-[#0F638E] text-white">
+                  <tr>
+                    {comparison.headers.map((head) => (
+                      <th key={head} className="px-5 py-4 font-semibold">{head}</th>
+                    ))}
+                  </tr>
+                </thead>
+                <tbody className="divide-y divide-slate-100">
+                  {comparison.rows.map((row) => (
+                    <tr key={row[0]} className="hover:bg-[#F0F4F3]/55">
+                      {row.map((cell, index) => (
+                        <td key={`${row[0]}-${index}`} className={index === 0 ? "px-5 py-4 font-semibold text-[#003B5C]" : "px-5 py-4 text-slate-600"}>
+                          {cell}
+                        </td>
+                      ))}
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </DialogContent>
+    </Dialog>
+  );
+}
+
 export default function TelemedicinePage() {
   const { currentLanguage } = useLanguage();
   const copy = getTelemedicineCopy(currentLanguage.code);
@@ -1003,7 +1040,6 @@ export default function TelemedicinePage() {
               <p className="mt-3 max-w-2xl text-sm leading-relaxed text-slate-600 sm:text-base">{copy.hero.support}</p>
               <div className="mt-7 flex flex-wrap gap-3">
                 <PrimaryLink>{copy.hero.primaryCta}</PrimaryLink>
-                <OutlineLink to="#review-options">{copy.hero.secondaryCta}</OutlineLink>
               </div>
             </div>
           </div>
@@ -1027,35 +1063,8 @@ export default function TelemedicinePage() {
                 </ScrollReveal>
               ))}
             </div>
-          </div>
-        </section>
-
-        <section className="bg-[#F0F4F3] py-12 sm:py-16 md:py-20">
-          <div className="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-            <SectionHeader label={copy.comparison.label} title={copy.comparison.title} />
-            <div className="overflow-hidden rounded-2xl bg-white shadow-card">
-              <div className="overflow-x-auto">
-                <table className="w-full min-w-[860px] text-left text-sm">
-                  <thead className="bg-gradient-to-r from-[#1DA78A] to-[#0F638E] text-white">
-                    <tr>
-                      {copy.comparison.headers.map((head) => (
-                        <th key={head} className="px-5 py-4 font-semibold">{head}</th>
-                      ))}
-                    </tr>
-                  </thead>
-                  <tbody className="divide-y divide-slate-100">
-                    {copy.comparison.rows.map((row) => (
-                      <tr key={row[0]} className="hover:bg-[#F0F4F3]/55">
-                        {row.map((cell, index) => (
-                          <td key={`${row[0]}-${index}`} className={index === 0 ? "px-5 py-4 font-semibold text-[#003B5C]" : "px-5 py-4 text-slate-600"}>
-                            {cell}
-                          </td>
-                        ))}
-                      </tr>
-                    ))}
-                  </tbody>
-                </table>
-              </div>
+            <div className="mt-8 flex justify-center">
+              <ComparisonDialog comparison={copy.comparison} />
             </div>
           </div>
         </section>

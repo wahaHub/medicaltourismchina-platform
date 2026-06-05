@@ -960,10 +960,10 @@ export const fr = {
   'homepage.medicalJourney.step3Desc': 'De la prise en charge à l\'aéroport et l\'hébergement à la traduction—nous gérons chaque détail.',
 
   // Homepage - Online Consultation Section
-  'homepage.onlineConsultation.eyebrow': 'Deuxième avis en ligne',
+  'homepage.onlineConsultation.eyebrow': 'Consultation en ligne',
   'homepage.onlineConsultation.title': 'Vous n\'êtes pas sûr de votre diagnostic ou de votre plan de traitement ?',
   'homepage.onlineConsultation.description': 'Téléversez vos dossiers médicaux et recevez un avis écrit, une consultation vidéo ou une discussion multidisciplinaire de spécialistes chinois avant votre prochaine décision médicale.',
-  'homepage.onlineConsultation.cta': 'Réserver un deuxième avis',
+  'homepage.onlineConsultation.cta': 'Réserver une consultation en ligne',
   'homepage.onlineConsultation.feature1': 'Spécialistes chinois sélectionnés',
   'homepage.onlineConsultation.feature2': 'Fiable et confidentiel',
   'homepage.onlineConsultation.feature3': 'Coordination médicale personnalisée',

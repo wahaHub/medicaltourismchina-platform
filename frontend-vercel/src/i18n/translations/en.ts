@@ -851,7 +851,7 @@ export const en = {
   'homepage.onlineConsultation.eyebrow': 'Online Consultation',
   'homepage.onlineConsultation.title': 'Not Sure About Your Diagnosis or Treatment Plan?',
   'homepage.onlineConsultation.description': 'Get a written review, video consultation, or multidisciplinary second opinion from world class Chinese specialists.',
-  'homepage.onlineConsultation.cta': 'Book a Second Opinion',
+  'homepage.onlineConsultation.cta': 'Book Online Consultation',
   'homepage.onlineConsultation.feature1': 'World-Class Chinese Specialists',
   'homepage.onlineConsultation.feature2': 'Trusted & Confidential',
   'homepage.onlineConsultation.feature3': 'Personalized Care Concierge',

@@ -729,10 +729,10 @@ export const zh = {
   'homepage.medicalJourney.step3Desc': '从机场接送和住宿到翻译——我们管理每个细节。',
 
   // Homepage - Online Consultation Section
-  'homepage.onlineConsultation.eyebrow': '在线第二诊疗意见',
+  'homepage.onlineConsultation.eyebrow': '在线诊疗',
   'homepage.onlineConsultation.title': '不确定您的诊断或治疗方案？',
   'homepage.onlineConsultation.description': '在做出下一步重大医疗决定前，上传病历并获得中国专科医生的书面审阅、视频问诊或多学科会诊建议。',
-  'homepage.onlineConsultation.cta': '预约第二诊疗意见',
+  'homepage.onlineConsultation.cta': '预约在线问诊',
   'homepage.onlineConsultation.feature1': '中国专科医生',
   'homepage.onlineConsultation.feature2': '可信且保密',
   'homepage.onlineConsultation.feature3': '个性化医疗协调',
