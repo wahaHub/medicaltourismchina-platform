@@ -23,7 +23,8 @@ The approved SEO strategy is **China Core + Global Comparison**: keep China as t
 - Publish the first SEO wave as reusable landing-page infrastructure rather than one-off pages.
 - Use existing treatment content and images where possible.
 - Preserve the current Vite React app for this phase instead of migrating to Next.js or a full SSR stack.
-- Make every new SEO page independently understandable to search engines and users through route-specific metadata, canonical URLs, headings, internal links, FAQ content, and sitemap inclusion.
+- Make every new SEO page independently understandable to search engines and users through route-specific prerendered HTML, metadata, canonical URLs, headings, internal links, FAQ content, and sitemap inclusion.
+- Normalize first-wave SEO metadata and base public HTML around `Medora Health` as the canonical public brand.
 - Keep page scope medically responsible: describe treatment options, cost ranges, coordination workflows, risks, and patient suitability without promising outcomes.
 - Prefer conversion paths that already exist: free quote, medical enquiry, case intake, treatment listings, hospital pages, and related treatment pages.
 
@@ -33,6 +34,7 @@ The approved SEO strategy is **China Core + Global Comparison**: keep China as t
 - Do not claim that China is always the best destination for every treatment.
 - Do not create thin city/country doorway pages without meaningful comparison or patient-useful content.
 - Do not migrate the frontend to SSR/SSG in this phase.
+- Do not rely only on client-side metadata for the 32 first-wave SEO routes.
 - Do not change backend content APIs or CRM publishing workflows in this phase.
 - Do not alter private dashboard, hospital dashboard, authentication, or patient-session behavior.
 - Do not automatically generate medical claims from unverified data.
@@ -46,24 +48,26 @@ seo landing config
   -> reusable SEO landing page renderer
   -> route registration
   -> metadata/canonical/schema helper
+  -> static prerender for first-wave routes
   -> sitemap entries
   -> tests
 ```
 
-This gives the site a larger keyword surface now while keeping the future path open for SSR/SSG. If organic growth becomes a major channel, the same page configuration can later feed a prerender or framework migration.
+This gives the site a larger keyword surface now while keeping the future path open for SSR/SSG. The same page configuration should feed both the React renderer and the first-wave prerender script.
 
-## SEO Rendering Limitation
+## SEO Rendering Requirement
 
-This phase intentionally keeps the current Vite SPA deployment. The first implementation will improve route coverage, client-rendered metadata, sitemap coverage, internal linking, and page content, but it will not fully solve the server-rendered HTML limitation by itself.
+This phase intentionally keeps the current Vite SPA deployment, but the 32 first-wave SEO routes must not rely only on client-side metadata. They should be prerendered into route-specific static HTML during the build.
 
-Planning must treat this as a first-wave SEO expansion with an explicit constraint:
+Planning must treat this as a first-wave SEO expansion with an explicit rendering target:
 
 - Google can render JavaScript, so client-rendered pages can still be indexed.
-- Server-returned HTML will continue to share the same base `index.html` until a prerender, SSR, or SSG phase is added.
-- The implementation must not claim that route-specific metadata is server-visible in this phase.
-- The SEO landing config should be structured so a later prerender/SSR pass can reuse the same data without rewriting page content.
+- Server-side or prerendered HTML is still preferable for speed, crawler reliability, and non-Google bots.
+- `npm run build` should produce `dist/<route>/index.html` for every first-wave SEO path.
+- The implementation must verify that prerendered files contain route-specific title, description, canonical URL, H1 content, and JSON-LD before launch.
+- Dynamic hospital, procedure, dashboard, and legacy routes can remain SPA-rendered in this phase unless separately scoped.
 
-If this first wave needs stronger server-visible SEO before launch, add a separate prerender workstream before deployment. That workstream is outside this phase unless explicitly approved.
+If the current Vercel build environment cannot run the chosen prerender approach reliably, deployment should pause until a build-safe prerender, SSG, or SSR path is chosen.
 
 ## Keyword Strategy
 
@@ -75,15 +79,27 @@ These are high-intent pages where the patient is already evaluating China.
 | --- | --- | --- |
 | `/dental-implants-china` | dental implants China | dental implant cost China, full mouth dental implants China |
 | `/all-on-6-dental-implants-china` | all on 6 dental implants China | all-on-6 cost China, full arch implants China |
+| `/all-on-4-dental-implants-china` | all on 4 dental implants China | All-on-4 cost China, full arch implants China |
+| `/full-mouth-dental-implants-china-cost` | full mouth dental implants China cost | full mouth restoration China, dental implant pricing China |
+| `/dental-veneers-china` | dental veneers China | Hollywood smile veneers China, cosmetic dentistry China |
 | `/stem-cell-therapy-china` | stem cell therapy China | regenerative medicine China, stem cell treatment abroad |
 | `/autism-stem-cell-therapy-china` | autism stem cell therapy China | stem cell therapy for autism abroad |
 | `/parkinsons-stem-cell-therapy-china` | Parkinson's stem cell therapy China | Parkinson's treatment abroad |
 | `/diabetes-stem-cell-therapy-china` | diabetes stem cell therapy China | diabetes treatment abroad |
+| `/hematopoietic-stem-cell-transplant-china` | hematopoietic stem cell transplant China | HSCT China, stem cell transplant abroad |
 | `/cancer-treatment-china` | cancer treatment China | oncology treatment in China |
 | `/proton-therapy-china` | proton therapy China | proton therapy abroad, cancer radiotherapy China |
+| `/carbon-ion-therapy-china` | carbon ion therapy China | heavy ion therapy China, carbon ion radiotherapy abroad |
 | `/car-t-cell-therapy-china` | CAR T cell therapy China | CAR-T therapy abroad, cancer immunotherapy China |
 | `/rhinoplasty-china` | rhinoplasty China | nose job China, Asian rhinoplasty China |
+| `/double-eyelid-surgery-china` | double eyelid surgery China | Asian blepharoplasty China |
+| `/breast-augmentation-china` | breast augmentation China | cosmetic surgery China |
+| `/hair-transplant-china` | hair transplant China | hair restoration China |
 | `/gastric-sleeve-surgery-china` | gastric sleeve surgery China | bariatric surgery China, weight loss surgery China |
+| `/gastric-bypass-surgery-china` | gastric bypass surgery China | bariatric surgery China, weight loss surgery China |
+| `/bariatric-surgery-china` | bariatric surgery China | weight loss surgery China, obesity surgery China |
+
+The first-wave treatment list intentionally covers the highest-value visible business clusters. Additional existing assets such as facial liposuction, dental crowns, dentures, tummy tuck, arm lift, breast reduction, adjustable gastric band, and longevity stem cell therapy should be preserved and evaluated for a second wave after Search Console and conversion data.
 
 ### Cluster 2: Hospital And Service Pages
 
@@ -122,6 +138,10 @@ Each page must include:
 - Short above-the-fold summary that states what the page helps the patient decide.
 - A trust-oriented CTA to `Free Quote`, `Medical Enquiry`, or `Case Intake`.
 - Treatment or service overview.
+- Records, imaging, lab work, diagnosis, or history needed before remote review.
+- Remote evaluation or treatment-planning workflow.
+- Quote factors explaining why price ranges vary.
+- Follow-up and home-country continuity considerations.
 - Cost, timeline, or access considerations where relevant.
 - Patient suitability and risk/limitation section.
 - China-specific value section, written carefully and without absolute claims.
@@ -149,6 +169,7 @@ Pages should prefer:
 - "may be considered", "can be evaluated", "depends on diagnosis and records".
 - "request a treatment plan", "compare hospital options", "verify protocol and eligibility".
 - Explicit prompts for medical record review before pricing or treatment selection.
+- Specific decision-help content over generic claims such as "world-class" or "affordable".
 
 ## Metadata And Structured Data
 
@@ -177,6 +198,10 @@ summary
 eyebrow
 heroCta
 sections
+recordsNeeded
+evaluationProcess
+quoteFactors
+followUpPlan
 costTimeline
 suitability
 riskNotes
@@ -191,6 +216,10 @@ Field responsibilities:
 
 - `heroCta`: primary and secondary CTA labels and links.
 - `sections`: ordered content sections for general overview, treatment/service details, and patient decision criteria.
+- `recordsNeeded`: documents or clinical information required before a meaningful review.
+- `evaluationProcess`: remote review, matching, appointment, and next-step workflow.
+- `quoteFactors`: hospital, case, implant/drug/device, stay, and follow-up factors that affect pricing.
+- `followUpPlan`: how patients should think about recovery, monitoring, or home-country continuity.
 - `costTimeline`: optional structured cost, stay, wait-time, or access details.
 - `suitability`: bullets describing who may be a fit and who needs extra review.
 - `riskNotes`: medically cautious limitations, uncertainty, or follow-up considerations.
@@ -271,6 +300,9 @@ Add or update tests to verify:
 - The SEO config contains required fields for every landing page.
 - FAQ data is present and non-empty for every landing page.
 - The metadata helper creates or updates canonical, description, Open Graph, and JSON-LD tags.
+- The prerender script uses the same first-wave route source as the SEO config.
+- `npm run build` produces prerendered route-specific HTML for every first-wave SEO URL.
+- First-wave SEO metadata and base public HTML use `Medora Health`, not `MedChina`.
 - Current legacy SEO routes remain registered.
 
 Run:
@@ -289,15 +321,16 @@ If `npm test` is not defined in `frontend-vercel/package.json`, run the closest 
 2. Add the reusable SEO landing page renderer.
 3. Register first-wave routes.
 4. Expand sitemap.
-5. Add tests.
-6. Build locally.
-7. Deploy.
-8. Submit the updated sitemap in Google Search Console.
-9. Track impressions, clicks, indexed pages, and queries by page group.
+5. Add static prerender for first-wave SEO routes.
+6. Add tests.
+7. Build locally and verify prerendered HTML.
+8. Deploy.
+9. Submit the updated sitemap in Google Search Console.
+10. Track impressions, clicks, indexed pages, and queries by page group.
 
 ## Future Work
 
-- Add prerendering or migrate SEO-critical pages to SSR/SSG once the first wave proves query demand.
+- Migrate broader SEO-critical surfaces to SSR/SSG if first-wave query demand proves the channel.
 - Generate dynamic sitemap entries from procedure, featured-treatment, hospital, and package APIs.
 - Create city-specific pages only when each page can include real hospital/service content.
 - Add sourced editorial content for high-risk medical topics.
@@ -305,8 +338,8 @@ If `npm test` is not defined in `frontend-vercel/package.json`, run the closest 
 
 ## Success Criteria
 
-- At least 20 new SEO-focused public URLs are registered and included in sitemap.
-- Each first-wave page has unique metadata, canonical URL, FAQ content, and related links.
+- All 32 first-wave SEO-focused public URLs are registered, prerendered, and included in sitemap.
+- Each first-wave page has unique prerendered HTML, metadata, canonical URL, FAQ content, and related links.
 - Existing public routes and patient flows remain unchanged.
 - Build and SEO tests pass.
 - New pages are ready for Google Search Console submission after deploy.
