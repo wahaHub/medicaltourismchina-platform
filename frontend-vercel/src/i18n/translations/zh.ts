@@ -1,6 +1,7 @@
 export const zh = {
   // Navigation
   'nav.home': '首页',
+  'nav.telemedicine': '远程问诊',
   'nav.search': '搜索',
   'nav.treatment': '精选',
   'nav.packages': '步骤',

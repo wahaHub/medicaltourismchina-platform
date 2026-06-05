@@ -1,6 +1,6 @@
 
 import { useState } from "react";
-import { Menu, X, Heart, Package, Hospital, Shield, MapPin, Search, Home, FileText } from "lucide-react";
+import { Menu, X, Heart, Package, Hospital, Shield, MapPin, Search, Home, FileText, Stethoscope } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { Link, useLocation } from "react-router-dom";
 import { useLanguage } from "@/contexts/LanguageContext";
@@ -26,6 +26,7 @@ const MainNavigation = () => {
   
   const navItems = [
     { name: t("nav.home"), href: "/", icon: <Home className="h-5 w-5" /> },
+    { name: t("nav.telemedicine"), href: "/telemedicine", icon: <Stethoscope className="h-5 w-5" /> },
     { name: t("nav.search"), href: "/search", icon: <Search className="h-5 w-5" /> },
     { name: t("nav.treatment"), href: "/treatment", icon: <Heart className="h-5 w-5" /> },
     { name: t("nav.packages"), href: "/packages", icon: <Package className="h-5 w-5" /> },

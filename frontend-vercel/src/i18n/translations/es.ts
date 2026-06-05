@@ -1,6 +1,7 @@
 export const es = {
   // Navigation
   'nav.home': 'INICIO',
+  'nav.telemedicine': 'CONSULTA EN LÍNEA',
   'nav.search': 'BUSCAR',
   'nav.treatment': 'DESTACADOS',
   'nav.packages': 'PASOS',

@@ -7,6 +7,7 @@ import Header from "@/components/Header";
 
 const translations: Record<string, string> = {
   "nav.home": "HOME",
+  "nav.telemedicine": "ONLINE CONSULTATION",
   "nav.search": "SEARCH",
   "nav.treatment": "FEATURED",
   "nav.packages": "STEPS",
