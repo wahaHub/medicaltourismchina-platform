@@ -49,9 +49,9 @@ type Plan = {
 type ModalVisualVariant = Plan["variant"];
 
 const PLAN_IMAGES: Record<ModalVisualVariant, string> = {
-  report: planMultidisciplinaryImage,
-  video: planWrittenReviewImage,
-  tumor: planVideoConsultationImage,
+  report: planVideoConsultationImage,
+  video: planMultidisciplinaryImage,
+  tumor: planWrittenReviewImage,
 };
 
 const PROCESS_IMAGES = [
