@@ -74,6 +74,7 @@ The plan intentionally does not include every specialty in `src/data/treatments.
 - Use `Medora Health` as the canonical public brand for new SEO metadata, structured data, base HTML, and new landing pages. Treat `MedChina` as legacy copy that should not be introduced into new SEO assets.
 - Avoid duplicate content between `/proton-therapy-china` and `/carbon-ion-therapy-china`. The proton page should focus on proton therapy access, planning, cost/timeline, and comparison to conventional radiotherapy. The carbon ion page should explicitly cover `carbon ion therapy China`, `heavy ion therapy China`, how carbon ion differs from proton therapy, and where it may be evaluated for harder-to-treat tumors.
 - Make `/china-medical-second-opinion` cover `telemedicine China second opinion` as a secondary keyword through the config and page sections, even though the URL remains shorter.
+- For `/china-medical-visa`, do not state that China has a single universal "medical visa" or that M visa is the default medical-treatment visa. Explain that visa category and documentation depend on nationality, treatment purpose, stay length, invitation documents, and the latest consular or China Visa Application Service Center requirements. Direct users to confirm requirements with the official visa center or consulate.
 - For `/best-hospitals-in-china-for-foreigners`, do not present an unsourced ranking. Title and body copy should frame the page around how to evaluate matched hospitals, international-patient support, specialties, language support, admission workflow, and quote readiness.
 - For stem cell and cancer pages, prefer cautious language and explicit record-review prompts. Avoid guarantee language, cure claims, or broad eligibility claims.
 - Do not ship thin medical pages. Each first-wave page must read as a patient decision guide, not a keyword wrapper.
@@ -417,6 +418,7 @@ Render once with one page, rerender with another page, and assert:
 - Only current SEO JSON-LD tags remain.
 - FAQ JSON-LD question count matches the current page.
 - Breadcrumb JSON-LD uses the current page path.
+- FAQ JSON-LD question/answer text matches the visible FAQ text rendered from `page.faqItems`.
 
 - [ ] **Step 3: Run tests and verify failure**
 
@@ -452,6 +454,8 @@ Build:
 - `FAQPage`
 - `MedicalWebPage` or `WebPage`
 - `Service` for service pages
+
+Structured data must only describe visible page content. FAQ JSON-LD must be generated from the same `faqItems` rendered in the visible FAQ section, and schema builders must not add treatment claims, rankings, or guarantees that are not visible on the page.
 
 - [ ] **Step 3: Implement hook**
 
@@ -756,14 +760,25 @@ Update scripts:
 
 Script behavior:
 
-1. Import `FIRST_WAVE_SEO_PATHS` from `../src/seo/landing-pages.ts`.
+1. Import `seoLandingPages` from `../src/seo/landing-pages.ts`.
 2. Start a local static server for `dist` using `vite preview --host 127.0.0.1 --port 4173`.
-3. Use Playwright Chromium to visit each first-wave path.
-4. Wait until the page has the expected H1 and the document title is not the base fallback.
+3. Use Playwright Chromium to visit each `pageConfig.path`.
+4. Wait until the page has the exact expected H1 from `pageConfig.h1` and the document title is not the base fallback.
 5. Capture `await page.content()`.
 6. Write HTML to `dist/<route>/index.html`.
 7. Preserve Vite asset links and scripts from the rendered document.
 8. Shut down the browser and preview server in `finally`.
+
+Use the page config while rendering:
+
+```js
+for (const pageConfig of seoLandingPages) {
+  await page.goto(`${baseUrl}${pageConfig.path}`, { waitUntil: "networkidle" });
+  await page.locator("h1").filter({ hasText: pageConfig.h1 }).waitFor();
+}
+```
+
+Do not validate only that "some H1" exists; that can pass on fallback or error pages.
 
 The script must fail the build if any first-wave route:
 
@@ -816,7 +831,9 @@ npx vite preview --host 127.0.0.1 --port 4173
 curl -s http://127.0.0.1:4173/dental-implants-china | rg \"Dental Implants|canonical|application/ld\\+json\"
 ```
 
-Expected: the response body contains route-specific prerendered content, not only the base root div.
+Expected: the raw HTTP response body contains route-specific prerendered content, not only the base root div or hydrated browser DOM.
+
+Acceptance checks must inspect the generated HTML file or raw HTTP response body. Browser DOM after React hydration is not enough evidence that crawlers receive route-specific HTML.
 
 - [ ] **Step 8: Verify Vercel rewrite behavior**
 
@@ -846,7 +863,19 @@ Generate or list these entries from `FIRST_WAVE_SEO_PATHS`; do not hand-maintain
 
 Do not continue to launch if route-specific HTML cannot be fetched through Vercel-equivalent routing.
 
-- [ ] **Step 9: Commit chunk 5**
+- [ ] **Step 9: Verify noindex/robots safety**
+
+Run:
+
+```bash
+cd /Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel
+rg -i "noindex|nofollow" dist/dental-implants-china/index.html dist/stem-cell-therapy-china/index.html dist/cancer-treatment-abroad/index.html
+rg -n "Disallow: /dental-implants-china|Disallow: /stem-cell-therapy-china|Disallow: /cancer-treatment-abroad" public/robots.txt
+```
+
+Expected: no matches. If either command finds a match, investigate and fix before launch.
+
+- [ ] **Step 10: Commit chunk 5**
 
 ```bash
 cd /Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform
@@ -892,7 +921,29 @@ rg \"Medora Health|canonical|application/ld\\+json\" dist/cancer-treatment-abroa
 
 Expected: PASS.
 
-- [ ] **Step 4: Run browser smoke checks**
+- [ ] **Step 4: Verify raw HTTP/source HTML, not only hydrated DOM**
+
+For each sample route, inspect the raw HTTP response body:
+
+```bash
+cd /Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel
+curl -s http://127.0.0.1:4173/dental-implants-china > /tmp/dental-implants-china.html
+rg "Dental Implants|Medora Health|canonical|application/ld\\+json" /tmp/dental-implants-china.html
+```
+
+Expected: PASS. Do not substitute a browser Elements panel inspection for this check.
+
+- [ ] **Step 5: Run noindex/robots checks**
+
+```bash
+cd /Users/haowang/Desktop/medora-health-beauty/archive/external-projects/medicaltourismchina-platform/frontend-vercel
+! rg -i "noindex|nofollow" dist/dental-implants-china/index.html dist/stem-cell-therapy-china/index.html dist/cancer-treatment-abroad/index.html
+! rg -n "Disallow: /dental-implants-china|Disallow: /stem-cell-therapy-china|Disallow: /cancer-treatment-abroad" public/robots.txt
+```
+
+Expected: PASS.
+
+- [ ] **Step 6: Run browser smoke checks**
 
 Use the Browser plugin or Playwright/browser equivalent to inspect:
 

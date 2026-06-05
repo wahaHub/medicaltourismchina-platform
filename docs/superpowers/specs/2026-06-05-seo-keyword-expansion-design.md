@@ -114,6 +114,8 @@ These pages answer operational questions international patients search before th
 | `/medical-interpreter-china` | medical interpreter China | Target patients worried about language and medical communication. |
 | `/china-medical-second-opinion` | China medical second opinion | Connect telemedicine, record review, and specialist matching. |
 
+Visa content must be written as compliance-sensitive guidance, not as legal advice. The `/china-medical-visa` page must not state that China has one universal "medical visa" or that M visa is the default medical-treatment visa. It should explain that visa category and documentation depend on nationality, treatment purpose, stay length, invitation documents, and the latest consular or China Visa Application Service Center requirements.
+
 ### Cluster 3: Global Comparison Entry Pages
 
 These pages target broader medical tourism searches and then steer users into China-specific treatment pages.
@@ -237,6 +239,8 @@ Structured data should be emitted through JSON-LD where possible:
 
 The helper should replace prior schema tags for the current page to avoid duplicate stale JSON-LD when the user navigates client-side.
 
+Structured data must match visible page content. FAQ JSON-LD questions and answers must be rendered in the visible FAQ section, and service or medical page schema must not introduce claims, rankings, or treatment promises that are absent from the page itself.
+
 ## Routing
 
 Register all first-wave SEO URLs in `App.tsx`.
@@ -290,6 +294,8 @@ The footer or main navigation should not become crowded in the first phase. Pref
 - If a comparison page has no destination-specific detail for a country, omit that row rather than publish filler.
 - If future API-driven page generation fails, static first-wave pages should remain unaffected.
 - If client-side navigation changes pages, stale title, description, canonical, and JSON-LD from the previous route must be replaced.
+- No first-wave SEO page should accidentally ship with `noindex` or `nofollow`.
+- `robots.txt` must not block first-wave SEO paths.
 
 ## Testing
 
@@ -302,6 +308,8 @@ Add or update tests to verify:
 - The metadata helper creates or updates canonical, description, Open Graph, and JSON-LD tags.
 - The prerender script uses the same first-wave route source as the SEO config.
 - `npm run build` produces prerendered route-specific HTML for every first-wave SEO URL.
+- Prerender acceptance checks inspect the raw HTTP response body or generated HTML files, not only the hydrated browser DOM.
+- Prerendered HTML and `robots.txt` do not contain accidental `noindex`, `nofollow`, or disallow rules for first-wave SEO routes.
 - First-wave SEO metadata and base public HTML use `Medora Health`, not `MedChina`.
 - Current legacy SEO routes remain registered.
 
