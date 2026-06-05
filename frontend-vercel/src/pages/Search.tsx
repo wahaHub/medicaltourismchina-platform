@@ -286,8 +286,10 @@ const Search = () => {
         <div className="absolute inset-0 z-0">
           <div className="absolute inset-0 bg-[#F5F7F6]"></div>
           <img
-            src={`${LOW_MEDIA_BASE_URL}/search/background_x2.png`}
+            src={`${LOW_MEDIA_BASE_URL}/search/background_x1.png`}
             alt="Wave Pattern Background"
+            loading="lazy"
+            decoding="async"
             className="w-full h-full object-cover opacity-90"
           />
         </div>
@@ -319,7 +321,7 @@ const Search = () => {
                       title={dept.name}
                       subtitle={dept.short_desc}
                       progressiveBaseUrl={getDepartmentProgressiveBase(dept.id)}
-                      resolutionLevels={['x1', 'x2', 'x3']}
+                      resolutionLevels={['x1', 'x2']}
                       imageUrl={getDepartmentImageUrl(dept.id)}
                       fallbackImageUrls={[
                         getDepartmentImageUrlBySlug(dept.slug),

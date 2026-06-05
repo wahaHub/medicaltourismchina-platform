@@ -34,7 +34,9 @@ const EntityCard: React.FC<EntityCardProps> = ({
   const [fallbacks, setFallbacks] = useState<string[]>(fallbackImageUrls);
   const [isLoading, setIsLoading] = useState(true);
   const [loadedLevel, setLoadedLevel] = useState<number>(-1);
+  const [shouldLoad, setShouldLoad] = useState(false);
   const mountedRef = useRef(true);
+  const cardRef = useRef<HTMLDivElement | null>(null);
 
   // Generate URL for a specific resolution level
   const getUrlForLevel = useCallback((baseUrl: string, level: string): string => {
@@ -54,10 +56,41 @@ const EntityCard: React.FC<EntityCardProps> = ({
 
   useEffect(() => {
     mountedRef.current = true;
+
+    if (shouldLoad) return;
+
+    if (typeof IntersectionObserver === 'undefined') {
+      setShouldLoad(true);
+      return;
+    }
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries.some(entry => entry.isIntersecting)) {
+          setShouldLoad(true);
+          observer.disconnect();
+        }
+      },
+      { rootMargin: '500px 0px' }
+    );
+
+    if (cardRef.current) {
+      observer.observe(cardRef.current);
+    }
+
+    return () => {
+      observer.disconnect();
+    };
+  }, [shouldLoad]);
+
+  useEffect(() => {
+    mountedRef.current = true;
     let cancelled = false;
     let hasLoadedAny = false;
 
     const loadImages = async () => {
+      if (!shouldLoad) return;
+
       setIsLoading(true);
       setLoadedLevel(-1);
 
@@ -149,7 +182,7 @@ const EntityCard: React.FC<EntityCardProps> = ({
       cancelled = true;
       mountedRef.current = false;
     };
-  }, [imageUrl, progressiveBaseUrl, resolutionLevels, fallbackImageUrls, usePlaceholderOnFail, getUrlForLevel, preloadImage]);
+  }, [imageUrl, progressiveBaseUrl, resolutionLevels, fallbackImageUrls, usePlaceholderOnFail, getUrlForLevel, preloadImage, shouldLoad]);
 
   const handleImgError = () => {
     if (fallbacks.length > 0) {
@@ -165,6 +198,7 @@ const EntityCard: React.FC<EntityCardProps> = ({
 
   return (
     <div
+      ref={cardRef}
       className={
         `group relative overflow-hidden rounded-lg sm:rounded-xl md:rounded-2xl transition-all duration-300 cursor-pointer bg-white w-full h-full flex flex-col ` +
         (selected
@@ -180,6 +214,8 @@ const EntityCard: React.FC<EntityCardProps> = ({
           <img
             src={src}
             alt={title}
+            loading="lazy"
+            decoding="async"
             className={`w-full h-full object-cover group-hover:scale-105 transition-all duration-500 ${
               isLoading && loadedLevel < 1 ? 'blur-sm' : ''
             }`}

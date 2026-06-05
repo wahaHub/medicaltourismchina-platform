@@ -45,7 +45,7 @@ export default function SearchHeroEnhanced({
   
   return (
     <CompactHero
-      backgroundImage={`${LOW_MEDIA_BASE_URL}/search/top_banner_x2.png`}
+      backgroundImage={`${LOW_MEDIA_BASE_URL}/search/top_banner_x1.png`}
       overlayColor="bg-gradient-to-r from-[#14B8A6]/80 to-[#0F638E]/70"
     >
       <div className="max-w-4xl mx-auto w-full">
