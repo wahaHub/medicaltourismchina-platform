@@ -5,7 +5,7 @@ const args = process.argv.slice(2)
 const artifactPath = args[0]
 const baseUrlIndex = args.indexOf('--base-url')
 const baseUrl = baseUrlIndex >= 0 ? args[baseUrlIndex + 1] : 'https://www.medicaltourismchina.health'
-const DEFAULT_CONTENT_API_BASE_URL = 'https://medicaltourismchina-content-worker.contact-82c.workers.dev'
+const DEFAULT_CONTENT_API_BASE_URL = 'https://content.medicaltourismchina.health'
 const contentApiBaseUrl = (process.env.VITE_CONTENT_API_BASE_URL || process.env.VITE_API_BASE_URL || DEFAULT_CONTENT_API_BASE_URL).replace(/\/+$/, '')
 
 const fail = (message) => {

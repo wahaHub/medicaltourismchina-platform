@@ -1,4 +1,4 @@
-const DEFAULT_CONTENT_API_BASE_URL = "https://medicaltourismchina-content-worker.contact-82c.workers.dev";
+const DEFAULT_CONTENT_API_BASE_URL = "https://content.medicaltourismchina.health";
 const CONTENT_API_BASE_URL =
   process.env.VITE_CONTENT_API_BASE_URL
   || process.env.VITE_API_BASE_URL

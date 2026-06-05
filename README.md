@@ -36,7 +36,7 @@ The uploaded assets live under:
 Current Worker URL:
 
 ```text
-https://medicaltourismchina-content-worker.contact-82c.workers.dev
+https://content.medicaltourismchina.health
 ```
 
 ## Run Worker Locally

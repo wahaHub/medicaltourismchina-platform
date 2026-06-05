@@ -80,5 +80,5 @@ npm run deploy
 Current deployed Worker URL:
 
 ```text
-https://medicaltourismchina-content-worker.contact-82c.workers.dev
+https://content.medicaltourismchina.health
 ```
