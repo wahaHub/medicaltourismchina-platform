@@ -8,6 +8,7 @@ import { BRAND_LOGO_URL } from "@/config/brandAssets";
 
 const navLinks = [
   { label: "HOME", labelKey: "nav.home", href: "/" },
+  { label: "ONLINE CONSULTATION", labelKey: "nav.telemedicine", href: "/telemedicine" },
   { label: "SEARCH", labelKey: "nav.search", href: "/search" },
   { label: "FEATURED", labelKey: "nav.treatment", href: "/treatment" },
   { label: "STEPS", labelKey: "nav.packages", href: "/packages" },

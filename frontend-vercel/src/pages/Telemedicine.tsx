@@ -7,7 +7,11 @@ import Footer from "@/components/Footer";
 import ScrollReveal from "@/components/animations/ScrollReveal";
 import { Dialog, DialogContent, DialogDescription, DialogTitle, DialogTrigger } from "@/components/ui/dialog";
 import { useLanguage } from "@/contexts/LanguageContext";
+import { ArrowRight, Clock3, Languages, ShieldCheck, Stethoscope, UserRoundCheck } from "lucide-react";
 import consultationDoctorImage from "@/img/online-consultation-doctor.jpg";
+import expertChenImage from "@/img/telemedicine-expert-chen.jpg";
+import expertLiImage from "@/img/telemedicine-expert-li.jpg";
+import expertZhangImage from "@/img/telemedicine-expert-zhang.jpg";
 import planMultidisciplinaryImage from "@/img/telemedicine-plan-multidisciplinary.jpg";
 import planVideoConsultationImage from "@/img/telemedicine-plan-video-consultation.jpg";
 import planWrittenReviewImage from "@/img/telemedicine-plan-written-review.jpg";
@@ -26,7 +30,7 @@ type Plan = {
   variant: "report" | "video" | "tumor";
   badge: string;
   title: string;
-  price: string;
+  priceUsd: number;
   chips: string[];
   cta: string;
   detailsCta: string;
@@ -46,6 +50,37 @@ type Plan = {
   };
 };
 
+type ExpertCard = {
+  name: string;
+  title: string;
+  specialty: string;
+  hospital: string;
+  credentials: string[];
+  tags: string[];
+  bio: string;
+  image: "zhang" | "li" | "chen";
+  imageAlt: string;
+  featured?: boolean;
+};
+
+type PriceDisplay = {
+  locale: string;
+  currency: string;
+  rateFromUsd: number;
+  roundTo: number;
+  prefix: string;
+  suffix?: string;
+};
+
+const PRICE_DISPLAYS: Record<Locale, PriceDisplay> = {
+  en: { locale: "en-US", currency: "USD", rateFromUsd: 1, roundTo: 1, prefix: "From " },
+  zh: { locale: "zh-CN", currency: "CNY", rateFromUsd: 7.1, roundTo: 10, prefix: "约 ", suffix: " 起" },
+  es: { locale: "es-ES", currency: "EUR", rateFromUsd: 0.92, roundTo: 1, prefix: "Desde " },
+  fr: { locale: "fr-FR", currency: "EUR", rateFromUsd: 0.92, roundTo: 1, prefix: "À partir de " },
+  de: { locale: "de-DE", currency: "EUR", rateFromUsd: 0.92, roundTo: 1, prefix: "Ab " },
+  ru: { locale: "ru-RU", currency: "RUB", rateFromUsd: 90, roundTo: 100, prefix: "От " },
+};
+
 type ModalVisualVariant = Plan["variant"];
 
 const PLAN_IMAGES: Record<ModalVisualVariant, string> = {
@@ -62,6 +97,12 @@ const PROCESS_IMAGES = [
   processChinaAccessImage,
 ];
 
+const EXPERT_IMAGES: Record<ExpertCard["image"], string> = {
+  zhang: expertZhangImage,
+  li: expertLiImage,
+  chen: expertChenImage,
+};
+
 type PageCopy = {
   metaTitle: string;
   hero: {
@@ -73,6 +114,16 @@ type PageCopy = {
     imageAlt: string;
   };
   trust: TextPair[];
+  expertShowcase: {
+    label: string;
+    title: string;
+    body: string;
+    tabs: string[];
+    expertCta: string;
+    matchPrompt: string;
+    matchCta: string;
+    experts: ExpertCard[];
+  };
   review: {
     label: string;
     title: string;
@@ -135,6 +186,51 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
       ["English Coordination", "We organize, translate, and summarize your case."],
       ["Travel Optional", "Start online. Travel only if it fits your case."],
     ],
+    expertShowcase: {
+      label: "Specialist matching",
+      title: "Selected top Chinese specialists",
+      body: "Medora matches your case with experienced Chinese specialists who can support written review, video consultation, and treatment direction discussion.",
+      tabs: ["Oncology", "Cardiology", "Neurology", "Orthopedics", "Reproductive medicine", "Gastroenterology"],
+      expertCta: "View specialist",
+      matchPrompt: "Tell us about your condition and we will suggest a more suitable specialist match.",
+      matchCta: "Get specialist matching advice",
+      experts: [
+        {
+          name: "Prof. Zhang Ming",
+          title: "Senior Consultant",
+          specialty: "Medical Oncology",
+          hospital: "Shanghai tertiary hospital network",
+          credentials: ["30+ years clinical experience", "Complex cancer case review", "Tertiary hospital specialist"],
+          tags: ["Written review", "Video consult", "English support"],
+          bio: "Focused on lung, gastrointestinal, and difficult cancer case review with practical treatment pathway discussion.",
+          image: "zhang",
+          imageAlt: "Senior Chinese oncology specialist in a white coat reviewing records",
+        },
+        {
+          name: "Dr. Li Guohua",
+          title: "Chief Physician",
+          specialty: "Cardiology",
+          hospital: "Beijing specialist center",
+          credentials: ["35+ years clinical experience", "Nationally recognized specialist", "Tertiary hospital specialist"],
+          tags: ["Written review", "Video consult", "English support"],
+          bio: "Experienced in coronary disease, heart failure, and complex cardiovascular diagnosis and long-term management planning.",
+          image: "li",
+          imageAlt: "Senior Chinese cardiology physician in a modern consultation setting",
+          featured: true,
+        },
+        {
+          name: "Prof. Chen Yaqin",
+          title: "Senior Consultant",
+          specialty: "Neurosurgery",
+          hospital: "Chengdu academic hospital network",
+          credentials: ["28+ years clinical experience", "Complex surgery review", "Tertiary hospital specialist"],
+          tags: ["Written review", "Video consult", "English support"],
+          bio: "Supports second-opinion review for brain tumors, spinal conditions, and functional neurosurgery decisions.",
+          image: "chen",
+          imageAlt: "Chinese neurosurgery specialist portrait in a hospital office",
+        },
+      ],
+    },
     review: {
       label: "Review options",
       title: "Choose your second opinion option",
@@ -144,7 +240,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
           variant: "report",
           badge: "Essential",
           title: "Written Review",
-          price: "From $399",
+          priceUsd: 199,
           chips: ["Written Report", "Record Review", "48-72 Hours"],
           cta: "Book",
           detailsCta: "View Details",
@@ -180,7 +276,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
           variant: "video",
           badge: "Most Popular",
           title: "Video Consultation",
-          price: "From $699",
+          priceUsd: 399,
           chips: ["Video Call", "Written Summary", "Doctor Q&A"],
           cta: "Book",
           detailsCta: "View Details",
@@ -217,7 +313,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
           variant: "tumor",
           badge: "Advanced Review",
           title: "Multidisciplinary Review",
-          price: "From $1,499",
+          priceUsd: 1299,
           chips: ["Multiple Specialists", "Complex Cases", "Advanced Summary"],
           cta: "Request",
           detailsCta: "View Details",
@@ -343,6 +439,51 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
       ["英文协调", "我们整理、翻译并总结您的病例。"],
       ["旅行可选", "先线上开始；适合时再考虑来华治疗。"],
     ],
+    expertShowcase: {
+      label: "专家匹配",
+      title: "精选中国顶级专家",
+      body: "Medora 会根据您的病情，为您匹配可提供书面审阅、视频问诊与治疗方向建议的中国资深专科医生。",
+      tabs: ["肿瘤", "心血管", "神经科", "骨科", "辅助生殖", "消化科"],
+      expertCta: "查看专家",
+      matchPrompt: "告诉我们您的病情，我们为您匹配更合适的专家。",
+      matchCta: "获取医生匹配建议",
+      experts: [
+        {
+          name: "张明教授",
+          title: "主任医师",
+          specialty: "肿瘤内科",
+          hospital: "上海三甲医院专家网络",
+          credentials: ["30+ 年临床经验", "擅长复杂肿瘤病例", "三甲医院专家"],
+          tags: ["书面审阅", "视频问诊", "英文支持"],
+          bio: "擅长肺癌、胃肠道肿瘤及疑难肿瘤的综合诊治与个体化方案讨论。",
+          image: "zhang",
+          imageAlt: "中国资深肿瘤专家身穿白大褂审阅病历",
+        },
+        {
+          name: "李国华主任医师",
+          title: "主任医师",
+          specialty: "心血管内科",
+          hospital: "北京专科中心",
+          credentials: ["35+ 年临床经验", "国内知名专家", "三甲医院专家"],
+          tags: ["书面审阅", "视频问诊", "英文支持"],
+          bio: "擅长冠心病、心力衰竭及复杂心血管疾病的诊断与长期管理。",
+          image: "li",
+          imageAlt: "中国资深心血管医生在现代诊室中进行问诊",
+          featured: true,
+        },
+        {
+          name: "陈雅琴教授",
+          title: "主任医师",
+          specialty: "神经外科",
+          hospital: "成都高校附属医院专家网络",
+          credentials: ["28+ 年临床经验", "擅长复杂手术", "三甲医院专家"],
+          tags: ["书面审阅", "视频问诊", "英文支持"],
+          bio: "支持脑肿瘤、脊柱疾病及功能神经外科相关重大治疗决策的第二意见评估。",
+          image: "chen",
+          imageAlt: "中国神经外科专家在医院办公室中的专家肖像",
+        },
+      ],
+    },
     review: {
       label: "服务方案",
       title: "选择您的第二诊疗意见方案",
@@ -352,7 +493,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
           variant: "report",
           badge: "Essential",
           title: "书面审阅",
-          price: "From $399",
+          priceUsd: 199,
           chips: ["书面报告", "病历审阅", "48-72 小时"],
           cta: "预约",
           detailsCta: "查看详情",
@@ -375,7 +516,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
           variant: "video",
           badge: "最受欢迎",
           title: "视频问诊",
-          price: "From $699",
+          priceUsd: 399,
           chips: ["视频沟通", "书面总结", "医生答疑"],
           cta: "预约",
           detailsCta: "查看详情",
@@ -398,7 +539,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
           variant: "tumor",
           badge: "Advanced Review",
           title: "多学科病例评估",
-          price: "From $1,499",
+          priceUsd: 1299,
           chips: ["多位专家", "复杂病例", "高级总结"],
           cta: "申请",
           detailsCta: "查看详情",
@@ -516,6 +657,16 @@ TELEMEDICINE_COPY.es = {
     ["Coordinación en inglés", "Organizamos, traducimos y resumimos su caso."],
     ["Viaje opcional", "Empiece en línea. Viaje solo si encaja con su caso."],
   ],
+  expertShowcase: {
+    ...TELEMEDICINE_COPY.en.expertShowcase,
+    label: "Selección de especialistas",
+    title: "Especialistas chinos destacados seleccionados",
+    body: "Medora asigna su caso a especialistas chinos con experiencia para revisión escrita, consulta por video y orientación sobre opciones de tratamiento.",
+    tabs: ["Oncología", "Cardiología", "Neurología", "Ortopedia", "Reproducción", "Gastroenterología"],
+    expertCta: "Ver especialista",
+    matchPrompt: "Cuéntenos su situación y le sugeriremos una combinación de especialistas más adecuada.",
+    matchCta: "Obtener recomendación de especialista",
+  },
   review: {
     ...TELEMEDICINE_COPY.en.review,
     label: "Opciones de revisión",
@@ -565,6 +716,16 @@ TELEMEDICINE_COPY.fr = {
     ["Coordination en anglais", "Nous organisons, traduisons et résumons votre dossier."],
     ["Voyage optionnel", "Commencez en ligne. Voyagez seulement si cela convient à votre cas."],
   ],
+  expertShowcase: {
+    ...TELEMEDICINE_COPY.en.expertShowcase,
+    label: "Sélection de spécialistes",
+    title: "Spécialistes chinois de haut niveau sélectionnés",
+    body: "Medora oriente votre dossier vers des spécialistes chinois expérimentés pour un avis écrit, une consultation vidéo et une discussion sur les options de traitement.",
+    tabs: ["Oncologie", "Cardiologie", "Neurologie", "Orthopédie", "Médecine reproductive", "Gastroentérologie"],
+    expertCta: "Voir le spécialiste",
+    matchPrompt: "Décrivez votre situation et nous vous proposerons une correspondance spécialiste plus adaptée.",
+    matchCta: "Obtenir une recommandation de spécialiste",
+  },
   review: {
     ...TELEMEDICINE_COPY.en.review,
     label: "Options d'avis",
@@ -614,6 +775,16 @@ TELEMEDICINE_COPY.de = {
     ["Englische Koordination", "Wir organisieren, übersetzen und fassen Ihren Fall zusammen."],
     ["Reise optional", "Starten Sie online. Reisen Sie nur, wenn es zu Ihrem Fall passt."],
   ],
+  expertShowcase: {
+    ...TELEMEDICINE_COPY.en.expertShowcase,
+    label: "Spezialisten-Matching",
+    title: "Ausgewählte führende chinesische Spezialisten",
+    body: "Medora ordnet Ihren Fall erfahrenen chinesischen Spezialisten zu, die schriftliche Prüfung, Videoberatung und Diskussion zur Behandlungsrichtung unterstützen können.",
+    tabs: ["Onkologie", "Kardiologie", "Neurologie", "Orthopädie", "Reproduktionsmedizin", "Gastroenterologie"],
+    expertCta: "Spezialist ansehen",
+    matchPrompt: "Beschreiben Sie uns Ihren Fall, und wir schlagen eine passendere Spezialisten-Zuordnung vor.",
+    matchCta: "Spezialisten-Matching anfragen",
+  },
   review: {
     ...TELEMEDICINE_COPY.en.review,
     label: "Optionen",
@@ -663,6 +834,16 @@ TELEMEDICINE_COPY.ru = {
     ["Координация на английском", "Мы организуем, переводим и резюмируем ваш случай."],
     ["Поездка необязательна", "Начните онлайн. Поездка только если подходит вашему случаю."],
   ],
+  expertShowcase: {
+    ...TELEMEDICINE_COPY.en.expertShowcase,
+    label: "Подбор специалиста",
+    title: "Отобранные ведущие китайские специалисты",
+    body: "Medora подбирает для вашего случая опытных китайских специалистов для письменного обзора, видеоконсультации и обсуждения направления лечения.",
+    tabs: ["Онкология", "Кардиология", "Неврология", "Ортопедия", "Репродуктивная медицина", "Гастроэнтерология"],
+    expertCta: "Посмотреть специалиста",
+    matchPrompt: "Расскажите нам о вашем состоянии, и мы предложим более подходящего специалиста.",
+    matchCta: "Получить рекомендацию специалиста",
+  },
   review: {
     ...TELEMEDICINE_COPY.en.review,
     label: "Варианты обзора",
@@ -701,6 +882,25 @@ function getTelemedicineCopy(languageCode: string): PageCopy {
     return TELEMEDICINE_COPY[languageCode];
   }
   return TELEMEDICINE_COPY.en;
+}
+
+function getTelemedicineLocale(languageCode: string): Locale {
+  if (languageCode === "zh" || languageCode === "zh-CN") return "zh";
+  if (languageCode === "es" || languageCode === "fr" || languageCode === "de" || languageCode === "ru") return languageCode;
+  return "en";
+}
+
+function formatPlanPrice(priceUsd: number, locale: Locale): string {
+  const display = PRICE_DISPLAYS[locale];
+  const converted = priceUsd * display.rateFromUsd;
+  const rounded = Math.round(converted / display.roundTo) * display.roundTo;
+  const formatted = new Intl.NumberFormat(display.locale, {
+    style: "currency",
+    currency: display.currency,
+    maximumFractionDigits: 0,
+  }).format(rounded);
+
+  return `${display.prefix}${formatted}${display.suffix ?? ""}`;
 }
 
 function SectionHeader({
@@ -857,6 +1057,112 @@ function PlanVisual({ variant }: { variant: ModalVisualVariant }) {
   );
 }
 
+function ExpertCardView({ expert, cta }: { expert: ExpertCard; cta: string }) {
+  const image = EXPERT_IMAGES[expert.image];
+
+  return (
+    <article className={`group relative flex min-h-[390px] overflow-hidden rounded-2xl bg-white shadow-card transition-all duration-300 hover:-translate-y-1 ${expert.featured ? "ring-2 ring-[#1DA78A]/55" : ""}`}>
+      {expert.featured && (
+        <div className="absolute right-0 top-0 z-20 rounded-bl-2xl bg-gradient-to-r from-[#1DA78A] to-[#0F638E] px-3.5 py-1.5 text-[11px] font-bold text-white shadow-lg shadow-teal-800/10">
+          Featured match
+        </div>
+      )}
+      <div className="absolute left-4 top-4 z-20 flex h-9 w-9 items-center justify-center rounded-full bg-[#E8F7F3] text-[#1DA78A] shadow-sm">
+        <ShieldCheck className="h-[18px] w-[18px]" />
+      </div>
+      <div className="grid w-full grid-cols-1 sm:grid-cols-[0.92fr_1.08fr]">
+        <div className="relative aspect-[0.92/1] min-h-[240px] overflow-hidden bg-[#F0F4F3] sm:aspect-auto sm:min-h-full">
+          <img src={image} alt={expert.imageAlt} loading="lazy" decoding="async" className="h-full w-full object-cover object-[center_18%] transition-transform duration-500 group-hover:scale-[1.03]" />
+          <div className="absolute inset-0 bg-gradient-to-t from-white via-white/15 to-transparent sm:bg-gradient-to-r sm:from-transparent sm:via-white/10 sm:to-white" />
+        </div>
+        <div className="flex flex-col p-5 sm:p-6">
+          <div>
+            <h3 className="text-xl font-bold leading-tight text-[#003B5C]">{expert.name}</h3>
+            <p className="mt-1.5 text-sm font-semibold text-[#1DA78A]">{expert.specialty}</p>
+            <p className="mt-1 text-xs font-semibold leading-relaxed text-slate-600">{expert.hospital}</p>
+          </div>
+
+          <div className="mt-4 space-y-2">
+            {expert.credentials.map((credential, index) => {
+              const Icon = index === 0 ? Clock3 : index === 1 ? UserRoundCheck : Stethoscope;
+              return (
+                <div key={credential} className="flex items-center gap-2 text-xs font-medium text-slate-600">
+                  <Icon className="h-3.5 w-3.5 flex-none text-slate-400" />
+                  <span>{credential}</span>
+                </div>
+              );
+            })}
+          </div>
+
+          <div className="mt-4 flex flex-wrap gap-2">
+            {expert.tags.map((tag) => (
+              <span key={tag} className="rounded-full bg-[#F0F4F3] px-2.5 py-1 text-[11px] font-semibold text-[#0F638E]">
+                {tag}
+              </span>
+            ))}
+          </div>
+
+          <p className="mt-4 text-xs leading-relaxed text-slate-600">{expert.bio}</p>
+
+          <Link
+            to={CTA_HREF}
+            className={`mt-auto inline-flex w-full items-center justify-center rounded-full px-4 py-2.5 text-xs font-semibold transition-all duration-300 active:scale-[0.98] ${expert.featured ? "bg-gradient-to-r from-[#1DA78A] to-[#0F638E] text-white shadow-lg shadow-teal-700/10 hover:opacity-90" : "border border-[#1DA78A]/45 text-[#0F638E] hover:bg-[#F0F4F3]"}`}
+          >
+            {cta}
+          </Link>
+        </div>
+      </div>
+    </article>
+  );
+}
+
+function ExpertShowcaseSection({ showcase }: { showcase: PageCopy["expertShowcase"] }) {
+  return (
+    <section className="relative overflow-hidden bg-[#F7FAF9] py-12 sm:py-16 md:py-20">
+      <div className="absolute inset-0 bg-[radial-gradient(circle_at_18%_10%,rgba(29,167,138,0.12),transparent_34%),radial-gradient(circle_at_82%_18%,rgba(15,99,142,0.1),transparent_30%)]" />
+      <div className="relative mx-auto max-w-[1680px] px-4 sm:px-6 lg:px-8 2xl:px-10">
+        <SectionHeader label={showcase.label} title={showcase.title} body={showcase.body} />
+
+        <div className="mx-auto mt-8 flex max-w-4xl flex-wrap justify-center gap-3">
+          {showcase.tabs.map((tab, index) => (
+            <button
+              key={tab}
+              className={`min-w-[128px] rounded-full px-5 py-3 text-sm font-semibold shadow-sm transition-all duration-300 active:scale-[0.98] ${index === 0 ? "bg-gradient-to-r from-[#1DA78A] to-[#0F638E] text-white shadow-teal-700/10" : "bg-white text-slate-600 hover:text-[#0F638E]"}`}
+              type="button"
+            >
+              {tab}
+            </button>
+          ))}
+        </div>
+
+        <div className="mx-auto mt-10 grid max-w-[1500px] gap-6 xl:grid-cols-3 2xl:gap-7">
+          {showcase.experts.map((expert, index) => (
+            <ScrollReveal key={expert.name} direction="up" delay={index * 0.06}>
+              <ExpertCardView expert={expert} cta={showcase.expertCta} />
+            </ScrollReveal>
+          ))}
+        </div>
+
+        <div className="mx-auto mt-10 flex max-w-5xl flex-col items-center justify-between gap-5 rounded-2xl border border-slate-100 bg-white/90 p-6 shadow-card sm:flex-row sm:px-8">
+          <div className="flex items-center gap-4">
+            <span className="flex h-12 w-12 flex-none items-center justify-center rounded-full bg-[#E8F7F3] text-[#1DA78A]">
+              <Languages className="h-6 w-6" />
+            </span>
+            <p className="text-base font-semibold leading-relaxed text-[#003B5C]">{showcase.matchPrompt}</p>
+          </div>
+          <Link
+            to={CTA_HREF}
+            className="inline-flex w-full items-center justify-center rounded-full bg-gradient-to-r from-[#1DA78A] to-[#0F638E] px-7 py-3 text-sm font-semibold text-white shadow-lg shadow-teal-700/10 transition-all duration-300 hover:opacity-90 active:scale-[0.98] sm:w-auto"
+          >
+            {showcase.matchCta}
+            <ArrowRight className="ml-2 h-4 w-4" />
+          </Link>
+        </div>
+      </div>
+    </section>
+  );
+}
+
 function ModalHeroImage({ variant, alt }: { variant: ModalVisualVariant; alt: string }) {
   const image = PLAN_IMAGES[variant];
 
@@ -877,7 +1183,9 @@ function ModalSection({ title, children }: { title: string; children: React.Reac
   );
 }
 
-function PlanCard({ plan, featured }: { plan: Plan; featured?: boolean }) {
+function PlanCard({ plan, featured, locale }: { plan: Plan; featured?: boolean; locale: Locale }) {
+  const price = formatPlanPrice(plan.priceUsd, locale);
+
   return (
     <Dialog>
       <div className={`group flex h-full flex-col rounded-2xl bg-white p-3 shadow-card ${featured ? "ring-2 ring-[#1DA78A]/40" : ""}`}>
@@ -887,7 +1195,7 @@ function PlanCard({ plan, featured }: { plan: Plan; featured?: boolean }) {
             <span className={`rounded-full px-3.5 py-1.5 text-xs font-semibold ${featured ? "bg-[#1DA78A] text-white" : "bg-[#F0F4F3] text-[#0F638E]"}`}>
               {plan.badge}
             </span>
-            <span className="text-lg font-bold text-[#003B5C]">{plan.price}</span>
+            <span className="text-lg font-bold text-[#003B5C]">{price}</span>
           </div>
           <h3 className="mt-5 text-2xl font-bold leading-tight text-[#003B5C]">{plan.title}</h3>
           <div className="mt-5 flex flex-wrap gap-2">
@@ -1012,6 +1320,7 @@ function ComparisonDialog({ comparison }: { comparison: PageCopy["comparison"] }
 export default function TelemedicinePage() {
   const { currentLanguage } = useLanguage();
   const copy = getTelemedicineCopy(currentLanguage.code);
+  const locale = getTelemedicineLocale(currentLanguage.code);
 
   useEffect(() => {
     document.title = copy.metaTitle;
@@ -1053,13 +1362,15 @@ export default function TelemedicinePage() {
           </div>
         </section>
 
+        <ExpertShowcaseSection showcase={copy.expertShowcase} />
+
         <section id="review-options" className="bg-white py-12 sm:py-16 md:py-20">
           <div className="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
             <SectionHeader label={copy.review.label} title={copy.review.title} body={copy.review.body} />
             <div className="grid gap-6 lg:grid-cols-3">
               {copy.review.plans.map((plan, index) => (
                 <ScrollReveal key={plan.title} direction="up" delay={index * 0.06}>
-                  <PlanCard plan={plan} featured={index === 1} />
+                  <PlanCard plan={plan} featured={index === 1} locale={locale} />
                 </ScrollReveal>
               ))}
             </div>
