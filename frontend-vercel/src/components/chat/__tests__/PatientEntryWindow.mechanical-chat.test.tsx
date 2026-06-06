@@ -36,6 +36,7 @@ vi.mock('@/services/api/patient-chatbot-v3', () => ({
 vi.mock('@/services/api/patient-messages', () => ({
   patientMessagesApi: {
     sendSessionChatEvent: vi.fn(),
+    requestOnlineConsultBooking: vi.fn(),
   },
 }));
 
@@ -70,6 +71,7 @@ const backendMechanicalState: PatientChatState = {
     { id: 'UPLOAD_RECORDS', label: '上传医疗资料', icon: 'upload' },
     { id: 'CONTACT_ADVISOR', label: '联系顾问', icon: 'handshake' },
     { id: 'OPEN_QUESTIONNAIRE', label: '填写病情表', icon: 'clipboard' },
+    { id: 'BOOK_ONLINE_CONSULT', label: '预约在线问诊', icon: 'calendar' },
   ],
   composerPolicy: {
     textEnabled: false,
@@ -200,6 +202,7 @@ describe('PatientEntryWindow backend-owned mechanical chat', () => {
     expect(screen.getByRole('button', { name: '上传医疗资料' })).toBeDefined();
     expect(screen.getByRole('button', { name: '联系顾问' })).toBeDefined();
     expect(screen.getByRole('button', { name: '填写病情表' })).toBeDefined();
+    expect(screen.getByRole('button', { name: '预约在线问诊' })).toBeDefined();
     expect(screen.getByPlaceholderText('请使用上方菜单继续。')).toBeDefined();
   });
 

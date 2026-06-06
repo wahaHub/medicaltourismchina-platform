@@ -93,7 +93,7 @@ export type PatientConversationMessageList = {
   type?: 'CARE_TEAM' | 'HOSPITAL';
 };
 
-export type PatientChatActionKey = 'VIEW_PROCESS' | 'UPLOAD_RECORDS' | 'CONTACT_ADVISOR' | 'OPEN_QUESTIONNAIRE';
+export type PatientChatActionKey = 'VIEW_PROCESS' | 'UPLOAD_RECORDS' | 'CONTACT_ADVISOR' | 'OPEN_QUESTIONNAIRE' | 'BOOK_ONLINE_CONSULT';
 export type PatientChatBotMode = 'mechanical' | 'ai' | 'human';
 
 export type PatientChatState = {
@@ -322,6 +322,29 @@ export async function sendSessionChatEvent(input: {
   });
 }
 
+export async function requestOnlineConsultBooking(input: {
+  sessionId: string;
+  startsAt: string;
+  timeZone: string;
+  locale?: 'en' | 'zh';
+}): Promise<{
+  ok: boolean;
+  status: 'requested';
+  startsAt: string;
+  timeZone: string;
+  userTime: string;
+  beijingTime: string;
+}> {
+  return crmApiRequest(`/sessions/${input.sessionId}/online-consult-booking`, {
+    method: 'POST',
+    body: JSON.stringify({
+      startsAt: input.startsAt,
+      timeZone: input.timeZone,
+      locale: input.locale ?? 'en',
+    }),
+  });
+}
+
 export async function initConversationAttachmentUpload(input: {
   conversationId: string;
   fileName: string;
@@ -396,6 +419,7 @@ export const patientMessagesApi = {
   sendSessionMessage,
   confirmProcessGuide,
   sendSessionChatEvent,
+  requestOnlineConsultBooking,
   initConversationAttachmentUpload,
   initSessionAttachmentUpload,
 };

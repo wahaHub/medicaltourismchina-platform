@@ -100,8 +100,14 @@ export default function ChatWidget() {
   }
 
   const openPanel = () => {
-    setDesktopDisplayMode('panel');
-    openWidget();
+    if (isMobileViewport) {
+      setDesktopDisplayMode('panel');
+      openWidget();
+      return;
+    }
+
+    setDesktopDisplayMode('modal');
+    openWidgetModal();
   };
 
   const closeToBubble = () => {

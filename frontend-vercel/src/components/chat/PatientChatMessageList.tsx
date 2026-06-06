@@ -321,7 +321,7 @@ export default function PatientChatMessageList({
                         href={attachment.url}
                         target="_blank"
                         rel="noreferrer"
-                        className={`block overflow-hidden rounded-2xl border ${
+                        className={`block min-w-[min(18rem,100%)] overflow-hidden rounded-2xl border ${
                           isPatient
                             ? 'border-white/20 bg-white/10 hover:bg-white/15'
                             : 'border-slate-200 bg-slate-50 hover:bg-slate-100'
@@ -330,7 +330,9 @@ export default function PatientChatMessageList({
                         <img
                           src={attachment.url}
                           alt={attachment.fileName}
-                          className="h-40 w-full object-cover"
+                          className={`max-h-80 w-full object-contain ${
+                            isPatient ? 'bg-teal-700/30' : 'bg-slate-100'
+                          }`}
                           loading="lazy"
                         />
                         <div className={`flex items-center gap-2 px-3 py-2 text-[12px] ${

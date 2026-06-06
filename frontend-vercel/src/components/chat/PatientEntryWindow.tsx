@@ -98,6 +98,7 @@ const MECHANICAL_ACTION_ID_SUFFIX: Record<PatientChatActionKey, string> = {
   UPLOAD_RECORDS: 'ur',
   CONTACT_ADVISOR: 'ca',
   OPEN_QUESTIONNAIRE: 'oq',
+  BOOK_ONLINE_CONSULT: 'bc',
 };
 
 function buildMechanicalActionClientMessageId(sessionId: string, actionKey: PatientChatActionKey): string {
@@ -903,6 +904,7 @@ export default function PatientEntryWindow() {
           ) : null}
           <MechanicalChatMenu
             caseId={caseId}
+            sessionId={activeSessionId}
             chatState={chatState}
             processConfirmed={processConfirmed}
             onActionSelected={handleMechanicalActionSelected}
