@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "wrangler dev",
     "deploy": "wrangler deploy",
-    "check": "find src -name '*.mjs' -exec node --check {} \\;"
+    "check": "find src -name '*.mjs' -exec node --check {} \\;",
+    "test": "node --test \"src/**/*.test.mjs\""
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.39.0"

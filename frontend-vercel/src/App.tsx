@@ -3,59 +3,105 @@ import { Toaster } from "@/components/ui/toaster";
 import { Toaster as Sonner } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
+import { lazy, Suspense, useEffect, useState, type ReactNode } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { AuthProvider } from "@/contexts/AuthContext";
 import { PatientAuthProvider } from "@/contexts/PatientAuthContext";
 import { PatientEntryProvider } from "@/contexts/PatientEntryContext";
 import { LanguageProvider } from "@/contexts/LanguageContext";
-import ChatWidget from "@/components/chat/ChatWidget";
-import PatientMessagePanel from "@/components/messaging/PatientMessagePanel";
-import { PatientSessionRuntimeProvider } from "@/features/patient-sessions/PatientSessionRuntimeProvider";
 import RouteScrollManager from "@/components/RouteScrollManager";
-import Search from "./pages/Search";
 import HomePage from "./pages/HomePage";
-import Hospitals from "./pages/Hospitals";
-import HospitalDetail from "./pages/HospitalDetail";
-import HospitalPackageDetail from "./pages/HospitalPackageDetail";
-import LegacyHospitalRedirect from "./pages/LegacyHospitalRedirect";
-import Treatment from "./pages/Treatment";
-import TreatmentDetail from "./pages/TreatmentDetail";
-import ProcedureDetail from "./pages/ProcedureDetail";
-import FeaturedTreatmentDetail from "./pages/FeaturedTreatmentDetail";
-import DepartmentDetail from "./pages/DepartmentDetail";
-import SeoTreatmentLanding from "./pages/SeoTreatmentLanding";
-import Packages from "./pages/Packages";
-import Insurance from "./pages/Insurance";
-import Visa from "./pages/Visa";
-import WhyChina from "./pages/WhyChina";
-import FAQ from "./pages/FAQ";
-import WorkWithUs from "./pages/WorkWithUs";
-import PartnershipApplicationPage from "./pages/PartnershipApplicationPage";
-import CaseIntakePage from "./pages/CaseIntakePage";
-import CaseIntakeViewPage from "./pages/CaseIntakeViewPage";
-import NotFound from "./pages/NotFound";
 
-// New Service Pages
-import DoctorAppointment from "./pages/DoctorAppointment";
-import MedicalEnquiry from "./pages/MedicalEnquiry";
-import HospitalAdmissions from "./pages/HospitalAdmissions";
-import AirportPickup from "./pages/AirportPickup";
-import HotelAccommodation from "./pages/HotelAccommodation";
-import LanguageInterpreter from "./pages/LanguageInterpreter";
-import Telemedicine from "./pages/Telemedicine";
-import PostTreatmentSupport from "./pages/PostTreatmentSupport";
-import TransferMoney from "./pages/TransferMoney";
-import FreeQuote from "./pages/FreeQuote";
-import PatientLoginPage from "./pages/PatientLoginPage";
-import DashboardRoute from "./pages/DashboardRoute";
-import HealthPackages from "./pages/HealthPackages";
-import HollywoodSmileVeneers from "./pages/HollywoodSmileVeneers";
-import Rhinoplasty from "./pages/Rhinoplasty";
-import DoubleEyelidSurgery from "./pages/DoubleEyelidSurgery";
-import FaceLiposuction from "./pages/FaceLiposuction";
-import BariatricSurgery from "./pages/BariatricSurgery";
+const Search = lazy(() => import("./pages/Search"));
+const Hospitals = lazy(() => import("./pages/Hospitals"));
+const HospitalDetail = lazy(() => import("./pages/HospitalDetail"));
+const HospitalPackageDetail = lazy(() => import("./pages/HospitalPackageDetail"));
+const LegacyHospitalRedirect = lazy(() => import("./pages/LegacyHospitalRedirect"));
+const Treatment = lazy(() => import("./pages/Treatment"));
+const TreatmentDetail = lazy(() => import("./pages/TreatmentDetail"));
+const ProcedureDetail = lazy(() => import("./pages/ProcedureDetail"));
+const FeaturedTreatmentDetail = lazy(() => import("./pages/FeaturedTreatmentDetail"));
+const DepartmentDetail = lazy(() => import("./pages/DepartmentDetail"));
+const SeoTreatmentLanding = lazy(() => import("./pages/SeoTreatmentLanding"));
+const Packages = lazy(() => import("./pages/Packages"));
+const Insurance = lazy(() => import("./pages/Insurance"));
+const Visa = lazy(() => import("./pages/Visa"));
+const WhyChina = lazy(() => import("./pages/WhyChina"));
+const FAQ = lazy(() => import("./pages/FAQ"));
+const WorkWithUs = lazy(() => import("./pages/WorkWithUs"));
+const PartnershipApplicationPage = lazy(() => import("./pages/PartnershipApplicationPage"));
+const CaseIntakePage = lazy(() => import("./pages/CaseIntakePage"));
+const CaseIntakeViewPage = lazy(() => import("./pages/CaseIntakeViewPage"));
+const NotFound = lazy(() => import("./pages/NotFound"));
+const DoctorAppointment = lazy(() => import("./pages/DoctorAppointment"));
+const MedicalEnquiry = lazy(() => import("./pages/MedicalEnquiry"));
+const HospitalAdmissions = lazy(() => import("./pages/HospitalAdmissions"));
+const AirportPickup = lazy(() => import("./pages/AirportPickup"));
+const HotelAccommodation = lazy(() => import("./pages/HotelAccommodation"));
+const LanguageInterpreter = lazy(() => import("./pages/LanguageInterpreter"));
+const Telemedicine = lazy(() => import("./pages/Telemedicine"));
+const PostTreatmentSupport = lazy(() => import("./pages/PostTreatmentSupport"));
+const TransferMoney = lazy(() => import("./pages/TransferMoney"));
+const FreeQuote = lazy(() => import("./pages/FreeQuote"));
+const PatientLoginPage = lazy(() => import("./pages/PatientLoginPage"));
+const DashboardRoute = lazy(() => import("./pages/DashboardRoute"));
+const HealthPackages = lazy(() => import("./pages/HealthPackages"));
+const HollywoodSmileVeneers = lazy(() => import("./pages/HollywoodSmileVeneers"));
+const Rhinoplasty = lazy(() => import("./pages/Rhinoplasty"));
+const DoubleEyelidSurgery = lazy(() => import("./pages/DoubleEyelidSurgery"));
+const FaceLiposuction = lazy(() => import("./pages/FaceLiposuction"));
+const BariatricSurgery = lazy(() => import("./pages/BariatricSurgery"));
+const DeferredPatientMessaging = lazy(() => import("./components/DeferredPatientMessaging"));
+const PatientSessionRuntimeProvider = lazy(() =>
+  import("@/features/patient-sessions/PatientSessionRuntimeProvider").then((module) => ({
+    default: module.PatientSessionRuntimeProvider,
+  })),
+);
 
 const queryClient = new QueryClient();
+
+function RouteFallback() {
+  return <div className="min-h-[40vh] bg-white" aria-hidden="true" />;
+}
+
+function DeferredPatientMessagingLoader() {
+  const [canLoad, setCanLoad] = useState(false);
+
+  useEffect(() => {
+    if (typeof window === "undefined") {
+      return;
+    }
+
+    const load = () => setCanLoad(true);
+    const idleCallback = window.requestIdleCallback?.(load, { timeout: 2500 });
+    const timer = window.setTimeout(load, 1800);
+
+    return () => {
+      window.clearTimeout(timer);
+      if (idleCallback !== undefined) {
+        window.cancelIdleCallback?.(idleCallback);
+      }
+    };
+  }, []);
+
+  if (!canLoad) {
+    return null;
+  }
+
+  return (
+    <Suspense fallback={null}>
+      <DeferredPatientMessaging />
+    </Suspense>
+  );
+}
+
+function PatientRuntimeRoute({ children }: { children: ReactNode }) {
+  return (
+    <Suspense fallback={<RouteFallback />}>
+      <PatientSessionRuntimeProvider>{children}</PatientSessionRuntimeProvider>
+    </Suspense>
+  );
+}
 
 const App = () => (
   <QueryClientProvider client={queryClient}>
@@ -67,10 +113,9 @@ const App = () => (
           <BrowserRouter>
             <PatientAuthProvider>
               <PatientEntryProvider>
-                <PatientSessionRuntimeProvider>
-                  <RouteScrollManager />
-                  <ChatWidget />
-                  <PatientMessagePanel />
+                <RouteScrollManager />
+                <DeferredPatientMessagingLoader />
+                <Suspense fallback={<RouteFallback />}>
                   <Routes>
                     <Route path="/" element={<HomePage />} />
                     <Route path="/search" element={<Search />} />
@@ -95,7 +140,7 @@ const App = () => (
                     <Route path="/medical-case-intake" element={<CaseIntakePage />} />
                     <Route path="/case-intake/:id" element={<CaseIntakeViewPage />} />
                     <Route path="/patient-login" element={<PatientLoginPage />} />
-                    <Route path="/dashboard" element={<DashboardRoute />} />
+                    <Route path="/dashboard" element={<PatientRuntimeRoute><DashboardRoute /></PatientRuntimeRoute>} />
 
                     {/* New Service Pages */}
                     <Route path="/doctor-appointment" element={<DoctorAppointment />} />
@@ -122,7 +167,7 @@ const App = () => (
                     {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
                     <Route path="*" element={<NotFound />} />
                   </Routes>
-                </PatientSessionRuntimeProvider>
+                </Suspense>
               </PatientEntryProvider>
             </PatientAuthProvider>
           </BrowserRouter>

@@ -21,6 +21,12 @@ vi.mock('@/hooks/usePatientEntry', () => ({
   usePatientEntry: vi.fn(),
 }));
 
+vi.mock('@/contexts/LanguageContext', () => ({
+  useLanguage: vi.fn(() => ({
+    currentLanguage: { code: 'en' },
+  })),
+}));
+
 vi.mock('../usePatientSessions', () => ({
   usePatientSessions: vi.fn(),
   useDefaultPatientSessionId: vi.fn(),

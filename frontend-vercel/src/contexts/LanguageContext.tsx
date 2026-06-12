@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useState, ReactNode, useEffect } from 'react';
-import { t, TranslationKey, TranslationParams } from '@/i18n';
+import { loadTranslationLocale, t, TranslationKey, TranslationParams } from '@/i18n';
 
 export interface Language {
   code: string;
@@ -52,11 +52,12 @@ const detectBrowserLanguage = (): Language | null => {
 };
 
 // 地理位置检测
-const detectLocationLanguage = async (): Promise<Language | null> => {
+const detectLocationLanguage = async (signal?: AbortSignal): Promise<Language | null> => {
   try {
     const response = await fetch('https://ipapi.co/country_code/', {
       method: 'GET',
       headers: { 'Accept': 'text/plain' },
+      signal,
     });
     
     if (response.ok) {
@@ -97,11 +98,15 @@ export const LanguageProvider: React.FC<LanguageProviderProps> = ({ children }) 
   
   const [isLanguageLoading, setIsLanguageLoading] = useState(true);
   const [detectionMethod, setDetectionMethod] = useState<'geolocation' | 'browser' | 'default' | 'saved' | null>(null);
+  const [, setDictionaryVersion] = useState(0);
 
   const setLanguage = (language: Language) => {
     setCurrentLanguage(language);
     // 保存到 localStorage
     localStorage.setItem('selectedLanguage', language.code);
+    void loadTranslationLocale(language.code).then(() => {
+      setDictionaryVersion((version) => version + 1);
+    });
   };
 
   const getApiLocale = () => {
@@ -112,9 +117,15 @@ export const LanguageProvider: React.FC<LanguageProviderProps> = ({ children }) 
     return t(key, params, currentLanguage?.code || 'en');
   };
 
+  useEffect(() => {
+    void loadTranslationLocale(currentLanguage.code).then(() => {
+      setDictionaryVersion((version) => version + 1);
+    });
+  }, [currentLanguage.code]);
+
   // 语言检测逻辑
   useEffect(() => {
-    const detectAndSetLanguage = async () => {
+    const chooseInitialLanguage = () => {
       try {
         // 首先检查是否有保存的语言设置
         const savedLanguageCode = localStorage.getItem('selectedLanguage');
@@ -124,33 +135,24 @@ export const LanguageProvider: React.FC<LanguageProviderProps> = ({ children }) 
             setCurrentLanguage(savedLanguage);
             setDetectionMethod('saved');
             setIsLanguageLoading(false);
-            return;
+            return { language: savedLanguage, shouldDetectLocation: false };
           }
         }
 
-        // 尝试地理位置检测（优先级高）
-        const locationLanguage = await detectLocationLanguage();
-        if (locationLanguage) {
-          setCurrentLanguage(locationLanguage);
-          setDetectionMethod('geolocation');
-          setIsLanguageLoading(false);
-          return;
-        }
-
-        // 回退到浏览器语言检测
+        // 首屏优先使用浏览器语言，不等待地理位置服务。
         const browserLanguage = detectBrowserLanguage();
         if (browserLanguage) {
           setCurrentLanguage(browserLanguage);
           setDetectionMethod('browser');
           setIsLanguageLoading(false);
-          return;
+          return { language: browserLanguage, shouldDetectLocation: true };
         }
 
-        // 都失败了，使用默认语言（中文）
         const defaultLanguage = SUPPORTED_LANGUAGES.find(lang => lang.code === 'zh') || SUPPORTED_LANGUAGES[0];
         setCurrentLanguage(defaultLanguage);
         setDetectionMethod('default');
         setIsLanguageLoading(false);
+        return { language: defaultLanguage, shouldDetectLocation: true };
 
       } catch (error) {
         console.error('Language detection failed:', error);
@@ -158,10 +160,42 @@ export const LanguageProvider: React.FC<LanguageProviderProps> = ({ children }) 
         setCurrentLanguage(defaultLanguage);
         setDetectionMethod('default');
         setIsLanguageLoading(false);
+        return { language: defaultLanguage, shouldDetectLocation: true };
       }
     };
 
-    detectAndSetLanguage();
+    const initial = chooseInitialLanguage();
+    void loadTranslationLocale(initial.language.code).then(() => {
+      setDictionaryVersion((version) => version + 1);
+    });
+
+    if (!initial.shouldDetectLocation) {
+      return;
+    }
+
+    const controller = new AbortController();
+    const timeout = window.setTimeout(() => controller.abort(), 800);
+
+    void detectLocationLanguage(controller.signal)
+      .then((locationLanguage) => {
+        if (!locationLanguage || localStorage.getItem('selectedLanguage')) {
+          return;
+        }
+
+        setCurrentLanguage(locationLanguage);
+        setDetectionMethod('geolocation');
+        void loadTranslationLocale(locationLanguage.code).then(() => {
+          setDictionaryVersion((version) => version + 1);
+        });
+      })
+      .finally(() => {
+        window.clearTimeout(timeout);
+      });
+
+    return () => {
+      window.clearTimeout(timeout);
+      controller.abort();
+    };
   }, []);
 
   const value: LanguageContextType = {

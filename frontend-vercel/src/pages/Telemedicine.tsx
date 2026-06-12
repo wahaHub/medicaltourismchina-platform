@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 
 import TopBanner from "@/components/TopBanner";
@@ -8,18 +8,18 @@ import ScrollReveal from "@/components/animations/ScrollReveal";
 import { Dialog, DialogContent, DialogDescription, DialogTitle, DialogTrigger } from "@/components/ui/dialog";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { ArrowRight, Clock3, Languages, ShieldCheck, Stethoscope, UserRoundCheck } from "lucide-react";
-import consultationDoctorImage from "@/img/online-consultation-doctor.jpg";
-import expertChenImage from "@/img/telemedicine-expert-chen.jpg";
-import expertLiImage from "@/img/telemedicine-expert-li.jpg";
-import expertZhangImage from "@/img/telemedicine-expert-zhang.jpg";
-import planMultidisciplinaryImage from "@/img/telemedicine-plan-multidisciplinary.jpg";
-import planVideoConsultationImage from "@/img/telemedicine-plan-video-consultation.jpg";
-import planWrittenReviewImage from "@/img/telemedicine-plan-written-review.jpg";
-import processCaseSummaryImage from "@/img/telemedicine-process-case-summary.jpg";
-import processChinaAccessImage from "@/img/telemedicine-process-china-access.jpg";
-import processConsultationImage from "@/img/telemedicine-process-consultation.jpg";
-import processSecondOpinionImage from "@/img/telemedicine-process-second-opinion.jpg";
-import processUploadRecordsImage from "@/img/telemedicine-process-upload-records.jpg";
+import consultationDoctorImage from "@/img/online-consultation-doctor.webp";
+import expertChenImage from "@/img/telemedicine-expert-chen.webp";
+import expertLiImage from "@/img/telemedicine-expert-li.webp";
+import expertZhangImage from "@/img/telemedicine-expert-zhang.webp";
+import planMultidisciplinaryImage from "@/img/telemedicine-plan-multidisciplinary.webp";
+import planVideoConsultationImage from "@/img/telemedicine-plan-video-consultation.webp";
+import planWrittenReviewImage from "@/img/telemedicine-plan-written-review.webp";
+import processCaseSummaryImage from "@/img/telemedicine-process-case-summary.webp";
+import processChinaAccessImage from "@/img/telemedicine-process-china-access.webp";
+import processConsultationImage from "@/img/telemedicine-process-consultation.webp";
+import processSecondOpinionImage from "@/img/telemedicine-process-second-opinion.webp";
+import processUploadRecordsImage from "@/img/telemedicine-process-upload-records.webp";
 
 const CTA_HREF = "/medical-case-intake";
 
@@ -62,6 +62,8 @@ type ExpertCard = {
   imageAlt: string;
   featured?: boolean;
 };
+
+type RosterLocale = "en" | "zh";
 
 type PriceDisplay = {
   locale: string;
@@ -119,9 +121,15 @@ type PageCopy = {
     title: string;
     body: string;
     tabs: string[];
+    moreTabs: string[];
+    moreLabel: string;
+    collapseLabel: string;
     expertCta: string;
     matchPrompt: string;
     matchCta: string;
+    customTitle: string;
+    customBody: string;
+    customCta: string;
     experts: ExpertCard[];
   };
   review: {
@@ -191,9 +199,15 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
       title: "Selected top Chinese specialists",
       body: "Medora matches your case with experienced Chinese specialists who can support written review, video consultation, and treatment direction discussion.",
       tabs: ["Oncology", "Cardiology", "Neurology", "Orthopedics", "Reproductive medicine", "Gastroenterology"],
+      moreTabs: ["Aesthetic surgery", "Stem cell therapy", "Dentistry", "Pediatrics", "Rare diseases", "Urology", "Endocrinology", "Ophthalmology"],
+      moreLabel: "More",
+      collapseLabel: "Show less",
       expertCta: "View specialist",
       matchPrompt: "Tell us about your condition and we will suggest a more suitable specialist match.",
       matchCta: "Get specialist matching advice",
+      customTitle: "Need a different specialist?",
+      customBody: "Tell us your diagnosis, records, preferred specialty, and consultation goal. Medora will suggest a more suitable doctor or specialist team.",
+      customCta: "Tell us what you need",
       experts: [
         {
           name: "Prof. Zhang Ming",
@@ -444,9 +458,15 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
       title: "精选中国顶级专家",
       body: "Medora 会根据您的病情，为您匹配可提供书面审阅、视频问诊与治疗方向建议的中国资深专科医生。",
       tabs: ["肿瘤", "心血管", "神经科", "骨科", "辅助生殖", "消化科"],
+      moreTabs: ["整容", "干细胞", "牙科", "儿科", "罕见病", "泌尿科", "内分泌", "眼科"],
+      moreLabel: "更多",
+      collapseLabel: "收起",
       expertCta: "查看专家",
       matchPrompt: "告诉我们您的病情，我们为您匹配更合适的专家。",
       matchCta: "获取医生匹配建议",
+      customTitle: "想找其他类型的医生？",
+      customBody: "告诉我们您的诊断、病历资料、希望咨询的方向和目标，我们为您匹配更合适的医生或专家团队。",
+      customCta: "告诉我们您需要什么医生",
       experts: [
         {
           name: "张明教授",
@@ -663,9 +683,15 @@ TELEMEDICINE_COPY.es = {
     title: "Especialistas chinos destacados seleccionados",
     body: "Medora asigna su caso a especialistas chinos con experiencia para revisión escrita, consulta por video y orientación sobre opciones de tratamiento.",
     tabs: ["Oncología", "Cardiología", "Neurología", "Ortopedia", "Reproducción", "Gastroenterología"],
+    moreTabs: ["Cirugía estética", "Terapia con células madre", "Odontología", "Pediatría", "Enfermedades raras", "Urología", "Endocrinología", "Oftalmología"],
+    moreLabel: "Más",
+    collapseLabel: "Mostrar menos",
     expertCta: "Ver especialista",
     matchPrompt: "Cuéntenos su situación y le sugeriremos una combinación de especialistas más adecuada.",
     matchCta: "Obtener recomendación de especialista",
+    customTitle: "¿Necesita otro especialista?",
+    customBody: "Comparta su diagnóstico, registros médicos, especialidad preferida y objetivo de consulta. Medora sugerirá un médico o equipo más adecuado.",
+    customCta: "Cuéntenos qué necesita",
   },
   review: {
     ...TELEMEDICINE_COPY.en.review,
@@ -722,9 +748,15 @@ TELEMEDICINE_COPY.fr = {
     title: "Spécialistes chinois de haut niveau sélectionnés",
     body: "Medora oriente votre dossier vers des spécialistes chinois expérimentés pour un avis écrit, une consultation vidéo et une discussion sur les options de traitement.",
     tabs: ["Oncologie", "Cardiologie", "Neurologie", "Orthopédie", "Médecine reproductive", "Gastroentérologie"],
+    moreTabs: ["Chirurgie esthétique", "Thérapie par cellules souches", "Dentisterie", "Pédiatrie", "Maladies rares", "Urologie", "Endocrinologie", "Ophtalmologie"],
+    moreLabel: "Plus",
+    collapseLabel: "Réduire",
     expertCta: "Voir le spécialiste",
     matchPrompt: "Décrivez votre situation et nous vous proposerons une correspondance spécialiste plus adaptée.",
     matchCta: "Obtenir une recommandation de spécialiste",
+    customTitle: "Besoin d'un autre spécialiste ?",
+    customBody: "Indiquez votre diagnostic, vos dossiers, la spécialité souhaitée et l'objectif de consultation. Medora proposera un médecin ou une équipe plus adaptée.",
+    customCta: "Dites-nous ce qu'il vous faut",
   },
   review: {
     ...TELEMEDICINE_COPY.en.review,
@@ -781,9 +813,15 @@ TELEMEDICINE_COPY.de = {
     title: "Ausgewählte führende chinesische Spezialisten",
     body: "Medora ordnet Ihren Fall erfahrenen chinesischen Spezialisten zu, die schriftliche Prüfung, Videoberatung und Diskussion zur Behandlungsrichtung unterstützen können.",
     tabs: ["Onkologie", "Kardiologie", "Neurologie", "Orthopädie", "Reproduktionsmedizin", "Gastroenterologie"],
+    moreTabs: ["Ästhetische Chirurgie", "Stammzelltherapie", "Zahnmedizin", "Pädiatrie", "Seltene Erkrankungen", "Urologie", "Endokrinologie", "Augenheilkunde"],
+    moreLabel: "Mehr",
+    collapseLabel: "Weniger anzeigen",
     expertCta: "Spezialist ansehen",
     matchPrompt: "Beschreiben Sie uns Ihren Fall, und wir schlagen eine passendere Spezialisten-Zuordnung vor.",
     matchCta: "Spezialisten-Matching anfragen",
+    customTitle: "Benötigen Sie einen anderen Spezialisten?",
+    customBody: "Teilen Sie Diagnose, Unterlagen, gewünschte Fachrichtung und Beratungsziel. Medora schlägt einen passenderen Arzt oder ein Team vor.",
+    customCta: "Bedarf mitteilen",
   },
   review: {
     ...TELEMEDICINE_COPY.en.review,
@@ -840,9 +878,15 @@ TELEMEDICINE_COPY.ru = {
     title: "Отобранные ведущие китайские специалисты",
     body: "Medora подбирает для вашего случая опытных китайских специалистов для письменного обзора, видеоконсультации и обсуждения направления лечения.",
     tabs: ["Онкология", "Кардиология", "Неврология", "Ортопедия", "Репродуктивная медицина", "Гастроэнтерология"],
+    moreTabs: ["Эстетическая хирургия", "Стволовые клетки", "Стоматология", "Педиатрия", "Редкие заболевания", "Урология", "Эндокринология", "Офтальмология"],
+    moreLabel: "Еще",
+    collapseLabel: "Свернуть",
     expertCta: "Посмотреть специалиста",
     matchPrompt: "Расскажите нам о вашем состоянии, и мы предложим более подходящего специалиста.",
     matchCta: "Получить рекомендацию специалиста",
+    customTitle: "Нужен другой специалист?",
+    customBody: "Расскажите о диагнозе, документах, нужной специальности и цели консультации. Medora предложит более подходящего врача или команду.",
+    customCta: "Расскажите, что нужно",
   },
   review: {
     ...TELEMEDICINE_COPY.en.review,
@@ -901,6 +945,50 @@ function formatPlanPrice(priceUsd: number, locale: Locale): string {
   }).format(rounded);
 
   return `${display.prefix}${formatted}${display.suffix ?? ""}`;
+}
+
+function getRosterLocale(showcase: PageCopy["expertShowcase"]): RosterLocale {
+  return showcase.moreLabel === "更多" ? "zh" : "en";
+}
+
+function buildExpertRoster(specialty: string, rosterLocale: RosterLocale): ExpertCard[] {
+  const imageOrder: ExpertCard["image"][] = ["zhang", "li", "chen", "li", "zhang", "chen"];
+
+  if (rosterLocale === "zh") {
+    const names = ["周远航教授", "林嘉明主任医师", "许安然教授", "沈博文主任医师", "顾清妍教授", "韩立成主任医师"];
+    const hospitals = ["上海三甲医院专家网络", "北京专科医学中心", "广州高校附属医院专家网络", "成都区域医学中心", "杭州国际医疗协作中心", "深圳三甲医院专家网络"];
+    const focus = ["疑难病例第二意见", "复杂治疗路径评估", "手术与非手术方案比较", "跨学科病例讨论", "国际患者远程问诊", "长期治疗计划优化"];
+
+    return names.map((name, index) => ({
+      name,
+      title: index % 2 === 0 ? "教授 / 主任医师" : "主任医师",
+      specialty,
+      hospital: hospitals[index],
+      credentials: [`${26 + index * 2}+ 年临床经验`, focus[index], "三甲医院专家"],
+      tags: ["书面审阅", "视频问诊", "英文支持"],
+      bio: `专注${specialty}相关复杂病例评估，可协助患者理解诊断、治疗选择与下一步决策。`,
+      image: imageOrder[index],
+      imageAlt: `${specialty}中国专科医生代表头像`,
+      featured: index === 1,
+    }));
+  }
+
+  const names = ["Prof. Victor Zhang", "Dr. Helen Li", "Prof. Michael Chen", "Dr. Grace Wu", "Prof. Daniel Huang", "Dr. Sophia Lin"];
+  const hospitals = ["Shanghai tertiary hospital network", "Beijing specialist center", "Guangzhou academic hospital network", "Chengdu regional medical center", "Hangzhou international care network", "Shenzhen tertiary hospital network"];
+  const focus = ["Second-opinion case review", "Complex treatment pathway assessment", "Surgical and non-surgical option comparison", "Multispecialty case discussion", "International video consultation", "Long-term care planning"];
+
+  return names.map((name, index) => ({
+    name,
+    title: index % 2 === 0 ? "Senior Consultant" : "Chief Physician",
+    specialty,
+    hospital: hospitals[index],
+    credentials: [`${26 + index * 2}+ years clinical experience`, focus[index], "Tertiary hospital specialist"],
+    tags: ["Written review", "Video consult", "English support"],
+    bio: `Focused on ${specialty.toLowerCase()} case review, helping patients understand diagnosis, treatment choices, and practical next steps.`,
+    image: imageOrder[index],
+    imageAlt: `Representative Chinese ${specialty} specialist portrait`,
+    featured: index === 1,
+  }));
 }
 
 function SectionHeader({
@@ -1116,7 +1204,38 @@ function ExpertCardView({ expert, cta }: { expert: ExpertCard; cta: string }) {
   );
 }
 
+function CustomExpertMatchCard({ title, body, cta }: { title: string; body: string; cta: string }) {
+  return (
+    <article className="flex min-h-[390px] flex-col justify-between rounded-2xl border border-dashed border-[#1DA78A]/45 bg-white/90 p-6 shadow-card">
+      <div>
+        <div className="flex h-12 w-12 items-center justify-center rounded-full bg-[#E8F7F3] text-[#1DA78A]">
+          <Languages className="h-6 w-6" />
+        </div>
+        <h3 className="mt-6 text-xl font-bold leading-tight text-[#003B5C]">{title}</h3>
+        <p className="mt-4 text-sm leading-relaxed text-slate-600">{body}</p>
+      </div>
+      <Link
+        to={CTA_HREF}
+        className="mt-8 inline-flex w-full items-center justify-center rounded-full bg-gradient-to-r from-[#1DA78A] to-[#0F638E] px-5 py-3 text-sm font-semibold text-white shadow-lg shadow-teal-700/10 transition-all duration-300 hover:opacity-90 active:scale-[0.98]"
+      >
+        {cta}
+        <ArrowRight className="ml-2 h-4 w-4" />
+      </Link>
+    </article>
+  );
+}
+
 function ExpertShowcaseSection({ showcase }: { showcase: PageCopy["expertShowcase"] }) {
+  const [showMoreTabs, setShowMoreTabs] = useState(false);
+  const [selectedTab, setSelectedTab] = useState(showcase.tabs[0]);
+  const visibleTabs = showMoreTabs ? [...showcase.tabs, ...showcase.moreTabs] : showcase.tabs;
+  const roster = buildExpertRoster(selectedTab, getRosterLocale(showcase));
+
+  useEffect(() => {
+    setSelectedTab(showcase.tabs[0]);
+    setShowMoreTabs(false);
+  }, [showcase]);
+
   return (
     <section className="relative overflow-hidden bg-[#F7FAF9] py-12 sm:py-16 md:py-20">
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_18%_10%,rgba(29,167,138,0.12),transparent_34%),radial-gradient(circle_at_82%_18%,rgba(15,99,142,0.1),transparent_30%)]" />
@@ -1124,23 +1243,36 @@ function ExpertShowcaseSection({ showcase }: { showcase: PageCopy["expertShowcas
         <SectionHeader label={showcase.label} title={showcase.title} body={showcase.body} />
 
         <div className="mx-auto mt-8 flex max-w-4xl flex-wrap justify-center gap-3">
-          {showcase.tabs.map((tab, index) => (
+          {visibleTabs.map((tab, index) => (
             <button
               key={tab}
-              className={`min-w-[128px] rounded-full px-5 py-3 text-sm font-semibold shadow-sm transition-all duration-300 active:scale-[0.98] ${index === 0 ? "bg-gradient-to-r from-[#1DA78A] to-[#0F638E] text-white shadow-teal-700/10" : "bg-white text-slate-600 hover:text-[#0F638E]"}`}
+              className={`min-w-[128px] rounded-full px-5 py-3 text-sm font-semibold shadow-sm transition-all duration-300 active:scale-[0.98] ${selectedTab === tab ? "bg-gradient-to-r from-[#1DA78A] to-[#0F638E] text-white shadow-teal-700/10" : "bg-white text-slate-600 hover:text-[#0F638E]"}`}
               type="button"
+              onClick={() => setSelectedTab(tab)}
+              aria-pressed={selectedTab === tab}
             >
               {tab}
             </button>
           ))}
+          <button
+            className="min-w-[128px] rounded-full border border-[#1DA78A]/30 bg-white px-5 py-3 text-sm font-semibold text-[#0F638E] shadow-sm transition-all duration-300 hover:border-[#1DA78A]/60 hover:bg-[#E8F7F3] active:scale-[0.98]"
+            type="button"
+            onClick={() => setShowMoreTabs((current) => !current)}
+            aria-expanded={showMoreTabs}
+          >
+            {showMoreTabs ? showcase.collapseLabel : showcase.moreLabel}
+          </button>
         </div>
 
         <div className="mx-auto mt-10 grid max-w-[1500px] gap-6 xl:grid-cols-3 2xl:gap-7">
-          {showcase.experts.map((expert, index) => (
+          {roster.map((expert, index) => (
             <ScrollReveal key={expert.name} direction="up" delay={index * 0.06}>
               <ExpertCardView expert={expert} cta={showcase.expertCta} />
             </ScrollReveal>
           ))}
+          <ScrollReveal direction="up" delay={0.36}>
+            <CustomExpertMatchCard title={showcase.customTitle} body={showcase.customBody} cta={showcase.customCta} />
+          </ScrollReveal>
         </div>
 
         <div className="mx-auto mt-10 flex max-w-5xl flex-col items-center justify-between gap-5 rounded-2xl border border-slate-100 bg-white/90 p-6 shadow-card sm:flex-row sm:px-8">
@@ -1413,17 +1545,6 @@ export default function TelemedicinePage() {
                   </ScrollReveal>
                 );
               })}
-            </div>
-          </div>
-        </section>
-
-        <section className="bg-[#F0F4F3] py-12 sm:py-16 md:py-20">
-          <div className="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-            <SectionHeader label={copy.specialists.label} title={copy.specialists.title} body={copy.specialists.body} />
-            <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-              {copy.specialists.items.map(([title, body], index) => (
-                <InfoCard key={title} title={title} body={body} index={index} />
-              ))}
             </div>
           </div>
         </section>

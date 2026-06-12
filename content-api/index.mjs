@@ -17,10 +17,12 @@ import {
 import { createBookingRequest } from './handlers/booking-requests.mjs'
 import { createPartnershipApplication } from './handlers/partnership-applications.mjs'
 import { createCaseIntakeWithToken } from './handlers/case-intakes.mjs'
+import { withPublicCache } from './utils/cache.mjs'
 import { json } from './utils/response.mjs'
 
 const matchPath = (path, pattern) => path?.match(pattern)
 const matchSlug = (path, pattern) => matchPath(path, pattern)?.[1]
+const publicCached = async (event, handler) => withPublicCache(await handler(), event)
 
 const routeRequest = async (event) => {
   const optionsResponse = handleOptions(event)
@@ -34,31 +36,31 @@ const routeRequest = async (event) => {
   }
 
   if (path.endsWith('/departments') && method === 'GET') {
-    return await getDepartments(event)
+    return await publicCached(event, () => getDepartments(event))
   }
 
   if (matchPath(path, /\/departments\/([^/]+)\/capability$/) && method === 'GET') {
     event.pathParameters = { slug: matchSlug(path, /\/departments\/([^/]+)\/capability$/) }
-    return await getDepartmentCapability(event)
+    return await publicCached(event, () => getDepartmentCapability(event))
   }
 
   if (matchPath(path, /\/departments\/([^/]+)\/diseases$/) && method === 'GET') {
     event.pathParameters = { slug: matchSlug(path, /\/departments\/([^/]+)\/diseases$/) }
-    return await getDiseasesByDepartment(event)
+    return await publicCached(event, () => getDiseasesByDepartment(event))
   }
 
   if (matchPath(path, /\/diseases\/([^/]+)\/procedures$/) && method === 'GET') {
     event.pathParameters = { slug: matchSlug(path, /\/diseases\/([^/]+)\/procedures$/) }
-    return await getDiseaseProcedures(event)
+    return await publicCached(event, () => getDiseaseProcedures(event))
   }
 
   if (path.endsWith('/procedures') && method === 'GET') {
-    return await getProcedures(event)
+    return await publicCached(event, () => getProcedures(event))
   }
 
   if (matchPath(path, /\/procedures\/([^/]+)$/) && method === 'GET') {
     event.pathParameters = { slug: matchSlug(path, /\/procedures\/([^/]+)$/) }
-    return await getProcedureBySlug(event)
+    return await publicCached(event, () => getProcedureBySlug(event))
   }
 
   if (path.endsWith('/hospitals') && method === 'GET') {
@@ -82,12 +84,12 @@ const routeRequest = async (event) => {
   }
 
   if (path.endsWith('/featured-treatments') && method === 'GET') {
-    return await getFeaturedTreatments(event)
+    return await publicCached(event, () => getFeaturedTreatments(event))
   }
 
   if (matchPath(path, /\/featured-treatments\/type\/([^/]+)$/) && method === 'GET') {
     event.pathParameters = { type: matchSlug(path, /\/featured-treatments\/type\/([^/]+)$/) }
-    return await getFeaturedTreatmentsByType(event)
+    return await publicCached(event, () => getFeaturedTreatmentsByType(event))
   }
 
   if (matchPath(path, /\/featured-treatments\/([^/]+)\/track$/) && method === 'POST') {
@@ -97,7 +99,7 @@ const routeRequest = async (event) => {
 
   if (matchPath(path, /\/featured-treatments\/([^/]+)$/) && method === 'GET') {
     event.pathParameters = { slug: matchSlug(path, /\/featured-treatments\/([^/]+)$/) }
-    return await getFeaturedTreatmentBySlug(event)
+    return await publicCached(event, () => getFeaturedTreatmentBySlug(event))
   }
 
   if (path.endsWith('/booking-requests') && method === 'POST') {

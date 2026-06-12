@@ -14,11 +14,13 @@ import {
   getFeaturedTreatmentBySlug,
   getFeaturedTreatmentsByType,
 } from './content/handlers/featured-treatments.mjs'
+import { withPublicCache } from './content/utils/cache.mjs'
 import { json } from './content/utils/response.mjs'
 import { withCors } from './content/middleware/cors.mjs'
 
 const matchPath = (path, pattern) => path?.match(pattern)
 const matchSlug = (path, pattern) => matchPath(path, pattern)?.[1]
+const publicCached = async (event, handler) => withPublicCache(await handler(), event)
 
 const routeRequest = async (event) => {
   const optionsResponse = handleOptions(event)
@@ -32,31 +34,31 @@ const routeRequest = async (event) => {
   }
 
   if (path.endsWith('/departments') && method === 'GET') {
-    return await getDepartments(event)
+    return await publicCached(event, () => getDepartments(event))
   }
 
   if (matchPath(path, /\/departments\/([^/]+)\/capability$/) && method === 'GET') {
     event.pathParameters = { slug: matchSlug(path, /\/departments\/([^/]+)\/capability$/) }
-    return await getDepartmentCapability(event)
+    return await publicCached(event, () => getDepartmentCapability(event))
   }
 
   if (matchPath(path, /\/departments\/([^/]+)\/diseases$/) && method === 'GET') {
     event.pathParameters = { slug: matchSlug(path, /\/departments\/([^/]+)\/diseases$/) }
-    return await getDiseasesByDepartment(event)
+    return await publicCached(event, () => getDiseasesByDepartment(event))
   }
 
   if (matchPath(path, /\/diseases\/([^/]+)\/procedures$/) && method === 'GET') {
     event.pathParameters = { slug: matchSlug(path, /\/diseases\/([^/]+)\/procedures$/) }
-    return await getDiseaseProcedures(event)
+    return await publicCached(event, () => getDiseaseProcedures(event))
   }
 
   if (path.endsWith('/procedures') && method === 'GET') {
-    return await getProcedures(event)
+    return await publicCached(event, () => getProcedures(event))
   }
 
   if (matchPath(path, /\/procedures\/([^/]+)$/) && method === 'GET') {
     event.pathParameters = { slug: decodeURIComponent(matchSlug(path, /\/procedures\/([^/]+)$/)) }
-    return await getProcedureBySlug(event)
+    return await publicCached(event, () => getProcedureBySlug(event))
   }
 
   if (path.endsWith('/hospitals') && method === 'GET') {
@@ -85,17 +87,17 @@ const routeRequest = async (event) => {
   }
 
   if (path.endsWith('/featured-treatments') && method === 'GET') {
-    return await getFeaturedTreatments(event)
+    return await publicCached(event, () => getFeaturedTreatments(event))
   }
 
   if (matchPath(path, /\/featured-treatments\/type\/([^/]+)$/) && method === 'GET') {
     event.pathParameters = { type: matchSlug(path, /\/featured-treatments\/type\/([^/]+)$/) }
-    return await getFeaturedTreatmentsByType(event)
+    return await publicCached(event, () => getFeaturedTreatmentsByType(event))
   }
 
   if (matchPath(path, /\/featured-treatments\/([^/]+)$/) && method === 'GET') {
     event.pathParameters = { slug: matchSlug(path, /\/featured-treatments\/([^/]+)$/) }
-    return await getFeaturedTreatmentBySlug(event)
+    return await publicCached(event, () => getFeaturedTreatmentBySlug(event))
   }
 
   return json(404, { error: 'Not found' })
