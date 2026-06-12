@@ -12,6 +12,97 @@ python3 scripts/deploy_platform.py --targets frontend
 
 The script runs from the repo root and can deploy one or more components.
 
+## Token-Based Ops Helper
+
+Use `ops_platform.py` when a teammate wants to deploy or read logs with tokens
+instead of interactive dashboard login.
+
+It reads tokens from environment variables:
+
+```bash
+export VERCEL_TOKEN="..."
+export VERCEL_SCOPE="medora-beautys-projects"
+
+export CLOUDFLARE_API_TOKEN="..."
+export CLOUDFLARE_ACCOUNT_ID="82cdbf36c265c0d9e4b4e1c6100c26d7"
+```
+
+The Vercel project is linked in `frontend-vercel/.vercel/project.json`:
+
+- project: `frontend-vercel`
+- org/team id: `team_ty00kcdSND6uqBEDQWpft0Zf`
+
+The Cloudflare Worker is linked in `content-worker/wrangler.toml`:
+
+- account id: `82cdbf36c265c0d9e4b4e1c6100c26d7`
+- worker name: `medicaltourismchina-content-worker`
+
+Verify tokens first:
+
+```bash
+python3 scripts/ops_platform.py vercel-whoami
+python3 scripts/ops_platform.py vercel-list --environment production
+
+python3 scripts/ops_platform.py cf-token-verify
+python3 scripts/ops_platform.py worker-deployments
+```
+
+Deploy the Vercel frontend with `VERCEL_TOKEN`:
+
+```bash
+python3 scripts/ops_platform.py vercel-deploy
+```
+
+Deploy the Cloudflare Worker with `CLOUDFLARE_API_TOKEN`:
+
+```bash
+python3 scripts/ops_platform.py worker-deploy
+```
+
+Read logs:
+
+```bash
+python3 scripts/ops_platform.py vercel-list --environment production
+python3 scripts/ops_platform.py vercel-logs <deployment-url-or-id>
+
+python3 scripts/ops_platform.py worker-tail --format pretty
+```
+
+Optional Lightsail logs:
+
+```bash
+# content-api Docker logs, if that optional service is deployed
+python3 scripts/ops_platform.py content-api-logs \
+  --content-api-host <lightsail-host-or-ip> \
+  --content-api-ssh-key /path/to/LightsailDefaultKey-us-west-2.pem \
+  --since 30m
+
+# CRM API journalctl logs through the sibling medical-crm-v2 repo
+python3 scripts/ops_platform.py crm-logs \
+  --crm-ssh-key /path/to/LightsailDefaultKey-us-west-2.pem \
+  --since 30
+```
+
+Smoke-test the deployed content Worker/API:
+
+```bash
+python3 scripts/ops_platform.py content-smoke
+```
+
+You can also delegate to the existing deployment script:
+
+```bash
+python3 scripts/ops_platform.py deploy-platform --targets frontend,content-worker --allow-dirty
+```
+
+Notes:
+
+- The old Vercel and Cloudflare tokens from screenshots were not valid in API
+  checks. Regenerate or recopy them before handing this to a teammate.
+- `worker-tail` uses Wrangler and may require a token with Workers read/tail
+  permissions. If tail fails but deploy works, use Cloudflare dashboard logs or
+  adjust the API token permissions.
+
 ## Targets
 
 - `frontend`: deploys `frontend-vercel/` to Vercel.
