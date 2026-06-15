@@ -2,6 +2,8 @@
 
 Date: 2026-06-05
 
+This design is aligned with the 2026-06-05 GEO Conversion Stack Implementation Plan v2. If route lists conflict during implementation, the authoritative launch lists are `expectedPhase1APaths` and `expectedPhase1BPaths` in the implementation plan and matching GEO coverage tests.
+
 ## Context
 
 `medicaltourismchina-platform` is a Vite React frontend deployed from `frontend-vercel` for `https://www.medicaltourismchina.health/`. The live site already has a useful medical tourism product surface: China treatment pages, hospital pages, service pages, FAQ content, case intake, medical enquiry, quote flows, and a patient chat widget.
@@ -36,9 +38,9 @@ A GEO answer target is a high-intent user question cluster that combines:
 Example:
 
 ```text
-Keyword: proton therapy China
-Question: Where can international patients get proton therapy in China?
-Entity: proton therapy, cancer treatment, China, Medora Health
+Keyword: proton and carbon ion therapy China
+Question: Where can international patients evaluate proton, heavy ion, or carbon ion therapy in China?
+Entity: proton therapy, carbon ion therapy, heavy ion therapy, cancer treatment, China, Medora Health
 Answer: Explain availability, suitability review, hospital matching, timeline, records needed, and Medora's role.
 CTA: Submit records or request a medical enquiry.
 ```
@@ -116,7 +118,7 @@ Use two simultaneous tracks:
 
 2. **Fast conversion track**
    - Dental implants
-   - All-on-6 implants
+   - All-on-4 and All-on-6 full/half arch implants
    - Hollywood smile veneers
    - Rhinoplasty
    - Double eyelid surgery
@@ -125,10 +127,12 @@ Use two simultaneous tracks:
 
 Support both tracks with operational trust pages:
 
+- Medical treatment in China for foreigners
 - Hospitals in China for foreigners
 - International patient services in China
 - China medical visa support
 - Medical interpreter support in China
+- Medical second opinion in China
 
 ## First-Wave GEO Answer Targets
 
@@ -138,8 +142,9 @@ The launch should be split into two waves. **Phase 1A** ships lower-risk operati
 
 | URL | Primary Answer Target | Core User Question | Primary CTA | Risk |
 | --- | --- | --- | --- | --- |
+| `/medical-treatment-in-china-for-foreigners` | medical treatment in China for foreigners | Can foreigners get medical treatment in China, and how does the process work? | Advisor consultation | Low |
 | `/dental-implants-china` | dental implants China | Is China a good option for dental implants? | Free quote | Medium |
-| `/all-on-6-dental-implants-china` | All-on-6 dental implants China | How do I compare All-on-6 dental implants in China? | Free quote | Medium |
+| `/all-on-4-all-on-6-dental-implants-china` | All-on-4 and All-on-6 dental implants China | How do I compare All-on-4, All-on-6, full-arch, and half-arch dental implants in China? | Free quote | Medium |
 | `/hollywood-smile-veneers-china` | Hollywood smile veneers China | How can I plan smile design or veneers in China? | Free quote | Medium |
 | `/rhinoplasty-china` | rhinoplasty China | How do international patients plan rhinoplasty in China? | Free quote | Medium |
 | `/double-eyelid-surgery-china` | double eyelid surgery China | What should foreigners know about double eyelid surgery in China? | Free quote | Medium |
@@ -147,8 +152,9 @@ The launch should be split into two waves. **Phase 1A** ships lower-risk operati
 | `/international-patient-services-china` | international patient services China | What support do international patients need in China? | Advisor consultation | Low |
 | `/china-medical-visa` | China medical visa | Do I need a visa or invitation letter for treatment in China? | Visa support enquiry | Low |
 | `/medical-interpreter-china` | medical interpreter China | Can I get medical interpretation during hospital visits in China? | Service enquiry | Low |
+| `/medical-second-opinion-china` | medical second opinion China | Can I get a remote second opinion from China-based specialists before traveling? | Case intake | Low |
 | `/cancer-treatment-china` | cancer treatment in China | Can international patients access cancer treatment in China? | Medical enquiry | High |
-| `/proton-therapy-china` | proton therapy in China | Where can I evaluate proton therapy options in China? | Submit records | High |
+| `/proton-carbon-ion-therapy-china` | proton and carbon ion therapy China | Where can I evaluate proton, heavy ion, or carbon ion therapy options in China? | Submit records | High |
 
 Phase 1A authority pages must stay conservative: they should explain evaluation, record review, hospital matching, and questions to ask. They should not publish unsupported success rates, availability claims, or treatment eligibility promises.
 
@@ -161,6 +167,15 @@ Phase 1A authority pages must stay conservative: they should explain evaluation,
 | `/parkinsons-stem-cell-therapy-china` | Parkinson's stem cell therapy China | Can Parkinson's patients evaluate stem cell therapy in China? | Submit records | High |
 | `/autism-stem-cell-therapy-china` | autism stem cell therapy China | What should families ask before considering autism stem cell therapy in China? | Advisor consultation | High |
 | `/bariatric-surgery-china` | bariatric surgery China | Can I get weight-loss surgery in China as an international patient? | Medical enquiry | Medium-high |
+| `/sbrt-radiotherapy-china` | SBRT radiotherapy China | Can international patients evaluate SBRT radiotherapy options in China? | Submit records | High |
+| `/immune-cell-cryopreservation-china` | immune cell cryopreservation China | What should patients ask before considering immune cell cryopreservation in China? | Medical enquiry | High |
+| `/hifu-uterine-fibroids-china` | HIFU uterine fibroids China | Can patients evaluate HIFU or Haifu Knife for uterine fibroids in China? | Medical enquiry | High |
+| `/deep-brain-stimulation-china` | deep brain stimulation China | Can neurological patients evaluate DBS options in China? | Submit records | High |
+| `/coronary-intervention-pci-china` | PCI coronary intervention China | Can cardiac patients evaluate coronary intervention or PCI in China? | Submit records | High |
+| `/cancer-surgery-china` | cancer surgery China | Can international patients evaluate cancer surgery options in China? | Submit records | High |
+| `/cardiology-cardiothoracic-surgery-china` | cardiology and cardiothoracic surgery China | Can international patients evaluate cardiac treatment or cardiothoracic surgery in China? | Submit records | High |
+| `/hematology-treatment-china` | hematology treatment China | Can international patients evaluate hematology treatment options in China? | Medical enquiry | High |
+| `/stem-cell-transplant-china` | stem cell transplant China | Can patients evaluate hematopoietic stem cell transplant options in China? | Submit records | High |
 
 Phase 1B pages must not ship until evidence sources, medical review, and legal/business approval are recorded in config.
 
@@ -169,18 +184,25 @@ Phase 1B pages must not ship until evidence sources, medical review, and legal/b
 | URL | Primary Answer Target | Core User Question | Primary CTA |
 | --- | --- | --- | --- |
 | `/cancer-treatment-china` | cancer treatment in China | Can international patients access cancer treatment in China? | Medical enquiry |
-| `/proton-therapy-china` | proton therapy in China | Where can I evaluate proton therapy options in China? | Submit records |
+| `/proton-carbon-ion-therapy-china` | proton and carbon ion therapy China | Where can I evaluate proton, heavy ion, or carbon ion therapy options in China? | Submit records |
 | `/car-t-cell-therapy-china` | CAR-T therapy in China | Can I get CAR-T therapy in China as an international patient? | Medical enquiry |
 | `/stem-cell-therapy-china` | stem cell therapy in China | What should foreigners know before considering stem cell therapy in China? | Medical enquiry |
 | `/parkinsons-stem-cell-therapy-china` | Parkinson's stem cell therapy China | Can Parkinson's patients evaluate stem cell therapy in China? | Submit records |
 | `/autism-stem-cell-therapy-china` | autism stem cell therapy China | What should families ask before considering autism stem cell therapy in China? | Advisor consultation |
+| `/sbrt-radiotherapy-china` | SBRT radiotherapy China | Can international patients evaluate SBRT radiotherapy options in China? | Submit records |
+| `/deep-brain-stimulation-china` | deep brain stimulation China | Can neurological patients evaluate DBS options in China? | Submit records |
+| `/coronary-intervention-pci-china` | PCI coronary intervention China | Can cardiac patients evaluate coronary intervention or PCI in China? | Submit records |
+| `/cancer-surgery-china` | cancer surgery China | Can international patients evaluate cancer surgery options in China? | Submit records |
+| `/cardiology-cardiothoracic-surgery-china` | cardiology and cardiothoracic surgery China | Can international patients evaluate cardiac treatment or cardiothoracic surgery in China? | Submit records |
+| `/hematology-treatment-china` | hematology treatment China | Can international patients evaluate hematology treatment options in China? | Medical enquiry |
+| `/stem-cell-transplant-china` | stem cell transplant China | Can patients evaluate hematopoietic stem cell transplant options in China? | Submit records |
 
 ### Fast Conversion Targets
 
 | URL | Primary Answer Target | Core User Question | Primary CTA |
 | --- | --- | --- | --- |
 | `/dental-implants-china` | dental implants China | Is China a good option for dental implants? | Free quote |
-| `/all-on-6-dental-implants-china` | All-on-6 dental implants China | How do I compare All-on-6 dental implants in China? | Free quote |
+| `/all-on-4-all-on-6-dental-implants-china` | All-on-4 and All-on-6 dental implants China | How do I compare All-on-4, All-on-6, full-arch, and half-arch dental implants in China? | Free quote |
 | `/hollywood-smile-veneers-china` | Hollywood smile veneers China | How can I plan smile design or veneers in China? | Free quote |
 | `/rhinoplasty-china` | rhinoplasty China | How do international patients plan rhinoplasty in China? | Free quote |
 | `/double-eyelid-surgery-china` | double eyelid surgery China | What should foreigners know about double eyelid surgery in China? | Free quote |
@@ -190,10 +212,12 @@ Phase 1B pages must not ship until evidence sources, medical review, and legal/b
 
 | URL | Primary Answer Target | Core User Question | Primary CTA |
 | --- | --- | --- | --- |
+| `/medical-treatment-in-china-for-foreigners` | medical treatment in China for foreigners | Can foreigners get medical treatment in China, and how does the process work? | Advisor consultation |
 | `/hospitals-in-china-for-foreigners` | hospitals in China for foreigners | How do foreigners choose hospitals in China? | Hospital matching |
 | `/international-patient-services-china` | international patient services China | What support do international patients need in China? | Advisor consultation |
 | `/china-medical-visa` | China medical visa | Do I need a visa or invitation letter for treatment in China? | Visa support enquiry |
 | `/medical-interpreter-china` | medical interpreter China | Can I get medical interpretation during hospital visits in China? | Service enquiry |
+| `/medical-second-opinion-china` | medical second opinion China | Can I get a remote second opinion from China-based specialists before traveling? | Case intake |
 
 ## GEO Page Model
 
@@ -223,6 +247,10 @@ claimRiskLevel
 evidenceSources
 lastReviewedAt
 reviewOwner
+medicalReviewer
+legalReviewer
+approvalArtifact
+reviewTicket
 approvalStatus
 canonicalStrategy
 htmlFallback
@@ -251,6 +279,10 @@ The config should be reusable for:
 Only low-risk operational pages can ship after content review alone. Medical treatment pages require at least `medical-reviewed`. High-risk pages require `approved-for-publish`.
 
 `evidenceSources` should list the public or internal sources used to support medical, visa, cost, timeline, or service claims. Sources can be empty only for purely operational brand/service claims that make no medical assertion.
+
+High-risk published pages need a stricter evidence gate. At least one evidence source must be an `https://` public URL, or the page must include an `approvalArtifact` or `reviewTicket` that points to a recorded medical/legal approval. Vague labels such as "Internal oncology positioning" are not sufficient by themselves. High-risk pages also need `medicalReviewer` or `legalReviewer`; `reviewOwner: Medora content owner` alone is not enough for `/cancer-treatment-china`, `/proton-carbon-ion-therapy-china`, or any Phase 1B high-risk page promoted later.
+
+Evidence and review information for high-risk published pages must be visible in the static fallback HTML and represented in JSON-LD or adjacent machine-readable page metadata. The build should fail if evidence exists only in config but cannot be seen by crawlers or reviewers.
 
 `htmlFallback` should contain the text inserted into initial static/prerendered HTML for crawlers and AI fetchers.
 
@@ -288,7 +320,7 @@ Every GEO landing page should include:
 10. **CTA**
    Use one primary conversion path per page:
    - Free quote for dental and cosmetic pages.
-   - Medical enquiry or record submission for cancer, CAR-T, proton therapy, bariatric, and stem-cell pages.
+   - Medical enquiry or record submission for cancer, CAR-T, proton/carbon ion therapy, bariatric, and stem-cell pages.
    - Advisor consultation or service enquiry for operational pages.
 
 ## Metadata And Structured Data
@@ -316,6 +348,8 @@ JSON-LD should include:
 The helper must remove stale page-specific JSON-LD on client-side navigation before inserting the next page's schema.
 
 This helper is not sufficient by itself. It must share the same config with the static HTML/prerender step so route-specific metadata and JSON-LD are present both before and after React hydration.
+
+Generated GEO HTML must clean stale head tags from the base SPA shell before injecting route-specific metadata. Each generated Phase 1A HTML file must contain exactly one canonical tag, one current `og:url`, current `og:title`, current description, and no stale default title such as `MedChina - Premium Medical Tourism`.
 
 ## llms.txt And Machine-Readable Assets
 
@@ -377,6 +411,16 @@ If legal/business review is not available before Phase 1A, ship app-level `publi
 
 Production launch gate: before Phase 1A is considered live for GEO, the team must either approve each conditional crawler row above or explicitly mark the launch as **search-only, AI-crawler exposure pending**. The implementation plan should include this as a verification checklist item, not an optional note.
 
+The live launch gate must check production assets, not only local build output:
+
+```bash
+curl -sL https://www.medicaltourismchina.health/robots.txt
+curl -sL https://www.medicaltourismchina.health/llms.txt
+curl -sL https://www.medicaltourismchina.health/sitemap.xml
+```
+
+If the business goal is AI discovery but production `robots.txt` still blocks approved AI discovery crawlers such as `GPTBot`, `ChatGPT-User`, `ClaudeBot`, or `PerplexityBot`, the launch status must be recorded as **search-only, AI-crawler exposure pending Cloudflare/legal approval**.
+
 ## Sitemap And Discoverability
 
 Expand `public/sitemap.xml` to include:
@@ -408,14 +452,20 @@ Canonical strategy:
 
 | Existing URL | New GEO URL | Strategy |
 | --- | --- | --- |
+| `/treatments` / `/why-china` / homepage medical-tourism intent | `/medical-treatment-in-china-for-foreigners` | New GEO page is canonical for the explicit foreign-patient treatment-process answer target; existing pages remain broader navigation and brand pages |
+| Full/Half Arch Dental Implants All-on-4/6 treatment content | `/all-on-4-all-on-6-dental-implants-china` | New GEO page is canonical for All-on-4, All-on-6, full-arch, and half-arch comparison intent; do not narrow this back to All-on-6 only |
 | `/hollywood-smile-veneers` | `/hollywood-smile-veneers-china` | New GEO page is canonical for China-specific answer target; existing page remains treatment/detail page and links to GEO page |
 | `/rhinoplasty` | `/rhinoplasty-china` | New GEO page is canonical for China-specific answer target; existing page remains treatment/detail page and links to GEO page |
 | `/double-eyelid-surgery` | `/double-eyelid-surgery-china` | New GEO page is canonical for China-specific answer target; existing page remains treatment/detail page and links to GEO page |
 | `/bariatric-surgery` | `/bariatric-surgery-china` | Hold for Phase 1B; existing page remains primary until GEO page is reviewed |
 | `/cancer-treatment` | `/cancer-treatment-china` | New GEO page is canonical for answer target; existing category page links to GEO page and related treatments |
+| Proton and Heavy Ion Therapy featured content | `/proton-carbon-ion-therapy-china` | New GEO page is canonical for proton, heavy ion, and carbon ion evaluation intent; do not split or publish narrower proton-only GEO copy in Phase 1A |
+| `/telemedicine` / online consultation service content | `/medical-second-opinion-china` | New GEO page is canonical for remote record review and China medical second-opinion answer intent; existing telemedicine page remains service detail and links to GEO page |
 | `/stem-cell-therapy` | `/stem-cell-therapy-china` | Hold for Phase 1B; existing page remains primary until reviewed |
 
 Do not canonicalize existing pages to new GEO pages unless the content intent clearly matches and the page owner approves. The safer first launch is cross-linking plus clear canonical tags on the new pages.
+
+Trailing slash behavior must be predictable. `/path` and `/path/` should either both serve route-specific static HTML with the same canonical URL or one should canonicalize/redirect cleanly to the other. A trailing slash request must not fall back to the generic SPA shell.
 
 ## Content Safety Rules
 
@@ -447,17 +497,21 @@ Review requirements:
 | Low | interpreter, international patient services, hospital matching process | Content owner review |
 | Medium | dental implants, cosmetic surgery, general procedure planning | Content owner review and medical-safety copy check |
 | Medium-high | bariatric surgery, complex surgical planning | Medical review |
-| High | cancer treatment, proton therapy, CAR-T, stem cell therapy, autism/Parkinson's pages | Medical review plus legal/business approval |
+| High | cancer treatment, proton/carbon ion therapy, CAR-T, stem cell therapy, autism/Parkinson's pages, SBRT, HIFU, DBS, PCI, cancer surgery, cardiology/cardiothoracic surgery, hematology, stem-cell transplant | Medical review plus legal/business approval |
 
 High-risk pages must include:
 
-- Public evidence sources or internally approved source notes.
+- At least one public `https://` evidence source, or a concrete `approvalArtifact` / `reviewTicket`.
+- Medical reviewer or legal reviewer for high-risk pages.
 - Review owner.
 - Last reviewed date.
 - Clear treatment-suitability disclaimer.
 - Explicit instruction that final eligibility and pricing require medical record review.
+- Evidence and review notes visible in static fallback HTML and represented in JSON-LD or adjacent machine-readable metadata.
 
 Any high-risk page without these fields must remain in config as `draft` and must not be routed, added to sitemap, or included in `llms.txt`.
+
+The `/china-medical-visa` page has its own compliance rule. It must not state a fixed visa category as universally applicable. Copy must say visa type and required documents depend on nationality, stay length, treatment purpose, invitation or appointment documents, and current embassy, consulate, or China Visa Application Service Center rules. CTA language can offer visa support, but the page must not read as legal advice.
 
 ## Conversion Paths
 
@@ -466,7 +520,7 @@ Map each page to one primary CTA:
 | Page Type | Primary CTA | Secondary CTA |
 | --- | --- | --- |
 | Dental and cosmetic | Free quote | Medical enquiry |
-| Cancer, CAR-T, proton therapy | Medical enquiry or record submission | Case intake |
+| Cancer, CAR-T, proton/carbon ion therapy | Medical enquiry or record submission | Case intake |
 | Stem cell | Medical enquiry | Advisor consultation |
 | Bariatric | Medical enquiry | Free quote |
 | Visa/interpreter/services | Advisor consultation | Service enquiry |
@@ -518,6 +572,9 @@ Add or update tests to verify:
 - Metadata helper creates or updates title, description, canonical, Open Graph, Twitter card, and JSON-LD.
 - JSON-LD tags are replaced on route change.
 - Static/prerendered HTML for every Phase 1A GEO route contains route-specific title, canonical, quick-answer text, and JSON-LD before React hydration.
+- Static/prerendered HTML contains exactly one canonical tag, current Open Graph title/URL, no stale default metadata, and no stale default Organization JSON-LD that conflicts with route-specific schema.
+- `/path` and `/path/` requests either both return route-specific static HTML or canonicalize predictably.
+- High-risk published Phase 1A pages expose evidence/review details in static fallback HTML and JSON-LD or adjacent machine-readable metadata.
 - `public/sitemap.xml` includes every approved Phase 1A GEO URL and excludes unapproved Phase 1B URLs.
 - `public/llms.txt` and `public/llms-full.txt` include approved Phase 1A canonical URLs and exclude unapproved Phase 1B URLs.
 
@@ -556,4 +613,7 @@ Track these after launch:
 - Should serious-condition pages require a stronger disclaimer component than fast-conversion pages?
 - Which lead form should each page use if both `Free Quote` and `Medical Enquiry` are available?
 - Can dynamic hospital and package URLs be reliably generated from the content API during build, or should they remain a later phase?
-- Should `llms-full.txt` be generated from the same GEO config to prevent drift?
+
+## Resolved Implementation Decisions
+
+- `llms-full.txt` must be generated from the same GEO config as the React pages, sitemap, static HTML, and `llms.txt` to prevent drift.
