@@ -3,7 +3,7 @@ import { useLanguage } from "@/contexts/LanguageContext";
 import ScrollReveal from "@/components/animations/ScrollReveal";
 import { LOW_MEDIA_BASE_URL } from "@/config/media";
 
-const consultationDoctorImage = `${LOW_MEDIA_BASE_URL}/homepage/online-consultation-doctor.webp`;
+const consultationDoctorImage = `${LOW_MEDIA_BASE_URL}/homepage/online-consultation-doctor-20260615-v2.webp`;
 
 export default function OnlineConsultationSection() {
   const { t } = useLanguage();
