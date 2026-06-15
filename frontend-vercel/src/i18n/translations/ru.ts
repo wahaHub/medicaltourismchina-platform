@@ -850,6 +850,7 @@ export const ru = {
 
   // Homepage - Online Consultation Section
   'homepage.onlineConsultation.eyebrow': 'Онлайн-консультация',
+  'homepage.onlineConsultation.sectionTitle': 'Онлайн-консультация',
   'homepage.onlineConsultation.title': 'Не уверены в диагнозе или плане лечения?',
   'homepage.onlineConsultation.description': 'Загрузите медицинские документы и получите письменный обзор, видеоконсультацию или междисциплинарное обсуждение случая с выбранными китайскими специалистами перед следующим медицинским решением.',
   'homepage.onlineConsultation.cta': 'Записаться на онлайн-консультацию',

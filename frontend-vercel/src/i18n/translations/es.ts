@@ -898,6 +898,7 @@ export const es = {
 
   // Homepage - Online Consultation Section
   'homepage.onlineConsultation.eyebrow': 'Consulta en línea',
+  'homepage.onlineConsultation.sectionTitle': 'Consulta en línea',
   'homepage.onlineConsultation.title': '¿No está seguro de su diagnóstico o plan de tratamiento?',
   'homepage.onlineConsultation.description': 'Suba sus expedientes médicos y reciba una revisión escrita, una consulta por video o una discusión multidisciplinaria de especialistas chinos antes de tomar su próxima decisión médica.',
   'homepage.onlineConsultation.cta': 'Reservar consulta en línea',

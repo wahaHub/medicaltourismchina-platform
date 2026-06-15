@@ -731,6 +731,7 @@ export const zh = {
 
   // Homepage - Online Consultation Section
   'homepage.onlineConsultation.eyebrow': '在线诊疗',
+  'homepage.onlineConsultation.sectionTitle': '在线诊疗',
   'homepage.onlineConsultation.title': '不确定您的诊断或治疗方案？',
   'homepage.onlineConsultation.description': '在做出下一步重大医疗决定前，上传病历并获得中国专科医生的书面审阅、视频问诊或多学科会诊建议。',
   'homepage.onlineConsultation.cta': '预约在线问诊',

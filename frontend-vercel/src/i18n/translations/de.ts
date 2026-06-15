@@ -962,6 +962,7 @@ export const de = {
 
   // Homepage - Online Consultation Section
   'homepage.onlineConsultation.eyebrow': 'Online-Beratung',
+  'homepage.onlineConsultation.sectionTitle': 'Online-Beratung',
   'homepage.onlineConsultation.title': 'Unsicher bei Diagnose oder Behandlungsplan?',
   'homepage.onlineConsultation.description': 'Laden Sie Ihre medizinischen Unterlagen hoch und erhalten Sie vor Ihrer nächsten medizinischen Entscheidung eine schriftliche Prüfung, Videokonsultation oder multidisziplinäre Fallbesprechung durch ausgewählte chinesische Spezialisten.',
   'homepage.onlineConsultation.cta': 'Online-Beratung buchen',

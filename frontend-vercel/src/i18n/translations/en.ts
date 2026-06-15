@@ -850,6 +850,7 @@ export const en = {
 
   // Homepage - Online Consultation Section
   'homepage.onlineConsultation.eyebrow': 'Online Consultation',
+  'homepage.onlineConsultation.sectionTitle': 'Online Consultation',
   'homepage.onlineConsultation.title': 'Not Sure About Your Diagnosis or Treatment Plan?',
   'homepage.onlineConsultation.description': 'Get a written review, video consultation, or multidisciplinary second opinion from world class Chinese specialists.',
   'homepage.onlineConsultation.cta': 'Book Online Consultation',
