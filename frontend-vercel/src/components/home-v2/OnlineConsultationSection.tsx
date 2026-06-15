@@ -1,7 +1,9 @@
 import { Link, useNavigate } from "react-router-dom";
 import { useLanguage } from "@/contexts/LanguageContext";
 import ScrollReveal from "@/components/animations/ScrollReveal";
-import consultationDoctorImage from "@/img/online-consultation-doctor.webp";
+import { LOW_MEDIA_BASE_URL } from "@/config/media";
+
+const consultationDoctorImage = `${LOW_MEDIA_BASE_URL}/homepage/online-consultation-doctor.webp`;
 
 export default function OnlineConsultationSection() {
   const { t } = useLanguage();
