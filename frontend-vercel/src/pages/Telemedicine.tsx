@@ -6,6 +6,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import ScrollReveal from "@/components/animations/ScrollReveal";
 import { Dialog, DialogContent, DialogDescription, DialogTitle, DialogTrigger } from "@/components/ui/dialog";
+import { LOW_MEDIA_BASE_URL } from "@/config/media";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { ArrowRight, Clock3, Languages, ShieldCheck, Stethoscope, UserRoundCheck } from "lucide-react";
 import consultationDoctorImage from "@/img/online-consultation-doctor.webp";
@@ -58,7 +59,7 @@ type ExpertCard = {
   credentials: string[];
   tags: string[];
   bio: string;
-  image: "zhang" | "li" | "chen";
+  image: string;
   imageAlt: string;
   featured?: boolean;
 };
@@ -99,10 +100,22 @@ const PROCESS_IMAGES = [
   processChinaAccessImage,
 ];
 
-const EXPERT_IMAGES: Record<ExpertCard["image"], string> = {
+const TELEMEDICINE_EXPERT_IMAGE_BASE = `${LOW_MEDIA_BASE_URL}/telemedicine/experts`;
+
+const EXPERT_IMAGES: Record<string, string> = {
   zhang: expertZhangImage,
   li: expertLiImage,
   chen: expertChenImage,
+  "oncology-1": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/oncology-1.webp`,
+  "oncology-2": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/oncology-2.webp`,
+  "oncology-3": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/oncology-3.webp`,
+  "oncology-4": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/oncology-4.webp`,
+  "oncology-5": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/oncology-5.webp`,
+  "oncology-6": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/oncology-6.webp`,
+  "cardiology-1": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/cardiology-1.webp`,
+  "cardiology-2": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/cardiology-2.webp`,
+  "cardiology-3": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/cardiology-3.webp`,
+  "cardiology-4": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/cardiology-4.webp`,
 };
 
 type PageCopy = {
@@ -191,7 +204,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
     trust: [
       ["Top Chinese Doctors", "Specialists are matched based on your condition."],
       ["Medical Records First", "Reports, scans, pathology, labs, and history come first."],
-      ["English Coordination", "We organize, translate, and summarize your case."],
+      ["Multilingual Coordination", "We organize, translate, and summarize your case."],
       ["Travel Optional", "Start online. Travel only if it fits your case."],
     ],
     expertShowcase: {
@@ -739,7 +752,7 @@ TELEMEDICINE_COPY.fr = {
   trust: [
     ["Médecins chinois de haut niveau", "Spécialistes sélectionnés selon votre état."],
     ["Dossiers d'abord", "Rapports, imagerie, pathologie, analyses et historique d'abord."],
-    ["Coordination en anglais", "Nous organisons, traduisons et résumons votre dossier."],
+    ["Coordination multilingue", "Nous organisons, traduisons et résumons votre dossier."],
     ["Voyage optionnel", "Commencez en ligne. Voyagez seulement si cela convient à votre cas."],
   ],
   expertShowcase: {
@@ -951,8 +964,267 @@ function getRosterLocale(showcase: PageCopy["expertShowcase"]): RosterLocale {
   return showcase.moreLabel === "更多" ? "zh" : "en";
 }
 
+function getRosterCategory(specialty: string): "oncology" | "cardiology" | "other" {
+  const normalized = specialty.toLowerCase();
+
+  if (normalized.includes("oncolog") || normalized.includes("onkolog") || specialty.includes("肿瘤") || normalized.includes("онколог")) {
+    return "oncology";
+  }
+
+  if (normalized.includes("cardiolog") || normalized.includes("kardiolog") || specialty.includes("心血管") || normalized.includes("кардиолог")) {
+    return "cardiology";
+  }
+
+  return "other";
+}
+
 function buildExpertRoster(specialty: string, rosterLocale: RosterLocale): ExpertCard[] {
   const imageOrder: ExpertCard["image"][] = ["zhang", "li", "chen", "li", "zhang", "chen"];
+  const category = getRosterCategory(specialty);
+
+  if (category === "oncology") {
+    if (rosterLocale === "zh") {
+      return [
+        {
+          name: "王钧教授",
+          title: "教授 / 主任医师",
+          specialty,
+          hospital: "上海三甲肿瘤中心专家网络",
+          credentials: ["34+ 年肿瘤临床经验", "肺癌与消化道肿瘤第二意见", "多学科会诊核心专家"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "长期参与胸部肿瘤和胃肠道肿瘤疑难病例评估，擅长将影像、病理与既往治疗史整合成清晰的下一步方案建议。",
+          image: "oncology-1",
+          imageAlt: "王钧教授肿瘤内科专家头像",
+        },
+        {
+          name: "陈丽华主任医师",
+          title: "主任医师",
+          specialty,
+          hospital: "北京肿瘤专科协作中心",
+          credentials: ["31+ 年临床经验", "乳腺与妇科肿瘤综合治疗", "国际患者病历审阅"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "专注乳腺癌、卵巢癌及复杂复发病例的系统治疗评估，帮助患者理解手术、放疗、化疗及靶向治疗之间的取舍。",
+          image: "oncology-2",
+          imageAlt: "陈丽华主任医师肿瘤专家头像",
+          featured: true,
+        },
+        {
+          name: "周启明主任医师",
+          title: "主任医师",
+          specialty,
+          hospital: "广州高校附属医院肿瘤团队",
+          credentials: ["24+ 年临床经验", "肝胆胰与胃肠肿瘤评估", "复杂治疗路径梳理"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "擅长为消化系统肿瘤患者梳理已有检查结果和治疗记录，明确是否需要进一步分期、基因检测或多学科讨论。",
+          image: "oncology-3",
+          imageAlt: "周启明主任医师肿瘤专家头像",
+        },
+        {
+          name: "林若兰教授",
+          title: "教授 / 主任医师",
+          specialty,
+          hospital: "杭州肿瘤精准诊疗协作网络",
+          credentials: ["29+ 年临床经验", "靶向与免疫治疗方案评估", "复发转移病例第二意见"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "关注分子检测结果与临床治疗选择的匹配，适合需要比较免疫、靶向、放疗或临床研究可能性的患者。",
+          image: "oncology-4",
+          imageAlt: "林若兰教授肿瘤专家头像",
+        },
+        {
+          name: "赵明远主任医师",
+          title: "主任医师",
+          specialty,
+          hospital: "成都区域肿瘤医学中心",
+          credentials: ["27+ 年临床经验", "头颈部与胸部肿瘤会诊", "放化疗联合方案评估"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "擅长把局部治疗和全身治疗放在同一张治疗路径图中比较，帮助患者判断不同方案的目标、风险与时间窗口。",
+          image: "oncology-5",
+          imageAlt: "赵明远主任医师肿瘤专家头像",
+        },
+        {
+          name: "许嘉宁副主任医师",
+          title: "副主任医师",
+          specialty,
+          hospital: "深圳国际肿瘤会诊协作中心",
+          credentials: ["21+ 年临床经验", "病历整理与远程会诊", "长期随访计划优化"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "熟悉国际患者远程问诊流程，擅长把复杂病史整理成医生可快速判断的摘要，并提出后续检查和复诊重点。",
+          image: "oncology-6",
+          imageAlt: "许嘉宁副主任医师肿瘤专家头像",
+        },
+      ];
+    }
+
+    return [
+      {
+        name: "Prof. Jun Wang",
+        title: "Professor / Chief Physician",
+        specialty,
+        hospital: "Shanghai tertiary oncology center network",
+        credentials: ["34+ years oncology experience", "Lung and GI cancer second opinions", "Multidisciplinary review lead"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Reviews complex thoracic and gastrointestinal cancer cases by connecting imaging, pathology, treatment history, and practical next-step options.",
+        image: "oncology-1",
+        imageAlt: "Prof. Jun Wang oncology specialist portrait",
+      },
+      {
+        name: "Dr. Lihua Chen",
+        title: "Chief Physician",
+        specialty,
+        hospital: "Beijing oncology specialist collaboration center",
+        credentials: ["31+ years clinical experience", "Breast and gynecologic oncology", "International record review"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Focuses on breast, ovarian, and recurrent cancer cases, helping patients compare surgery, radiotherapy, systemic therapy, and targeted treatment paths.",
+        image: "oncology-2",
+        imageAlt: "Dr. Lihua Chen oncology specialist portrait",
+        featured: true,
+      },
+      {
+        name: "Dr. Qiming Zhou",
+        title: "Chief Physician",
+        specialty,
+        hospital: "Guangzhou academic oncology team",
+        credentials: ["24+ years clinical experience", "Hepatobiliary and GI tumor review", "Treatment pathway assessment"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Helps digestive-system cancer patients clarify staging, prior treatment records, molecular testing needs, and whether an MDT review is appropriate.",
+        image: "oncology-3",
+        imageAlt: "Dr. Qiming Zhou oncology specialist portrait",
+      },
+      {
+        name: "Prof. Ruolan Lin",
+        title: "Professor / Chief Physician",
+        specialty,
+        hospital: "Hangzhou precision oncology collaboration network",
+        credentials: ["29+ years clinical experience", "Targeted and immunotherapy review", "Recurrent metastatic case assessment"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Connects molecular test results with treatment choices for patients comparing immunotherapy, targeted therapy, radiotherapy, or research options.",
+        image: "oncology-4",
+        imageAlt: "Prof. Ruolan Lin oncology specialist portrait",
+      },
+      {
+        name: "Dr. Mingyuan Zhao",
+        title: "Chief Physician",
+        specialty,
+        hospital: "Chengdu regional oncology medical center",
+        credentials: ["27+ years clinical experience", "Head-neck and thoracic tumor review", "Combined radiochemotherapy planning"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Compares local and systemic treatment options in one pathway, clarifying goals, risks, and timing for patients facing major decisions.",
+        image: "oncology-5",
+        imageAlt: "Dr. Mingyuan Zhao oncology specialist portrait",
+      },
+      {
+        name: "Dr. Jianing Xu",
+        title: "Associate Chief Physician",
+        specialty,
+        hospital: "Shenzhen international oncology consultation center",
+        credentials: ["21+ years clinical experience", "Remote case preparation", "Follow-up planning optimization"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Experienced in remote international case intake, turning complex histories into concise specialist-ready summaries and follow-up priorities.",
+        image: "oncology-6",
+        imageAlt: "Dr. Jianing Xu oncology specialist portrait",
+      },
+    ];
+  }
+
+  if (category === "cardiology") {
+    if (rosterLocale === "zh") {
+      return [
+        {
+          name: "陆承志主任医师",
+          title: "主任医师",
+          specialty,
+          hospital: "北京心血管专科协作中心",
+          credentials: ["23+ 年心血管临床经验", "冠心病与支架术后方案评估", "远程第二意见"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "擅长评估冠脉 CTA、造影报告、用药记录与既往介入治疗，帮助患者判断是否需要进一步检查或调整治疗策略。",
+          image: "cardiology-1",
+          imageAlt: "陆承志主任医师心血管专家头像",
+        },
+        {
+          name: "沈柏舟副主任医师",
+          title: "副主任医师",
+          specialty,
+          hospital: "上海三甲医院心内科专家网络",
+          credentials: ["18+ 年临床经验", "心律失常与房颤管理", "长期用药计划审阅"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "关注心律失常、房颤、抗凝用药和消融术前评估，可协助患者整理心电图、Holter 与既往治疗信息。",
+          image: "cardiology-2",
+          imageAlt: "沈柏舟副主任医师心血管专家头像",
+          featured: true,
+        },
+        {
+          name: "高文睿主任医师",
+          title: "主任医师",
+          specialty,
+          hospital: "广州心脏中心远程会诊网络",
+          credentials: ["22+ 年临床经验", "心衰与瓣膜病治疗路径", "复杂病例多学科沟通"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "擅长把超声心动图、BNP、既往住院记录和药物方案放在一起评估，帮助患者理解保守、介入或手术选择。",
+          image: "cardiology-3",
+          imageAlt: "高文睿主任医师心血管专家头像",
+        },
+        {
+          name: "韩士杰教授",
+          title: "教授 / 主任医师",
+          specialty,
+          hospital: "杭州国际心血管医学协作中心",
+          credentials: ["30+ 年临床经验", "高危心血管病例评估", "术前风险与康复计划"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "适合需要在重大手术前评估心脏风险、比较治疗选择或制定长期随访计划的国际患者。",
+          image: "cardiology-4",
+          imageAlt: "韩士杰教授心血管专家头像",
+        },
+      ];
+    }
+
+    return [
+      {
+        name: "Dr. Chengzhi Lu",
+        title: "Chief Physician",
+        specialty,
+        hospital: "Beijing cardiovascular specialist collaboration center",
+        credentials: ["23+ years cardiology experience", "Coronary disease and post-stent review", "Remote second opinions"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Reviews coronary CTA, angiography reports, medication history, and prior interventions to clarify whether further testing or treatment adjustment is needed.",
+        image: "cardiology-1",
+        imageAlt: "Dr. Chengzhi Lu cardiology specialist portrait",
+      },
+      {
+        name: "Dr. Baizhou Shen",
+        title: "Associate Chief Physician",
+        specialty,
+        hospital: "Shanghai tertiary cardiology network",
+        credentials: ["18+ years clinical experience", "Arrhythmia and atrial fibrillation care", "Long-term medication review"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Focuses on arrhythmia, atrial fibrillation, anticoagulation, and pre-ablation review, organizing ECG, Holter, and treatment history for specialist discussion.",
+        image: "cardiology-2",
+        imageAlt: "Dr. Baizhou Shen cardiology specialist portrait",
+        featured: true,
+      },
+      {
+        name: "Dr. Wenrui Gao",
+        title: "Chief Physician",
+        specialty,
+        hospital: "Guangzhou heart center remote consultation network",
+        credentials: ["22+ years clinical experience", "Heart failure and valve disease pathways", "Complex case coordination"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Combines echocardiography, BNP, hospitalization records, and medication plans to help patients understand conservative, interventional, or surgical options.",
+        image: "cardiology-3",
+        imageAlt: "Dr. Wenrui Gao cardiology specialist portrait",
+      },
+      {
+        name: "Prof. Shijie Han",
+        title: "Professor / Chief Physician",
+        specialty,
+        hospital: "Hangzhou international cardiovascular medicine network",
+        credentials: ["30+ years clinical experience", "High-risk cardiovascular case review", "Pre-op risk and recovery planning"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Supports international patients who need cardiac risk review before major procedures, treatment comparison, or a long-term follow-up plan.",
+        image: "cardiology-4",
+        imageAlt: "Prof. Shijie Han cardiology specialist portrait",
+      },
+    ];
+  }
 
   if (rosterLocale === "zh") {
     const names = ["周远航教授", "林嘉明主任医师", "许安然教授", "沈博文主任医师", "顾清妍教授", "韩立成主任医师"];
@@ -1146,7 +1418,7 @@ function PlanVisual({ variant }: { variant: ModalVisualVariant }) {
 }
 
 function ExpertCardView({ expert, cta }: { expert: ExpertCard; cta: string }) {
-  const image = EXPERT_IMAGES[expert.image];
+  const image = EXPERT_IMAGES[expert.image] ?? expert.image;
 
   return (
     <article className={`group relative flex min-h-[390px] overflow-hidden rounded-2xl bg-white shadow-card transition-all duration-300 hover:-translate-y-1 ${expert.featured ? "ring-2 ring-[#1DA78A]/55" : ""}`}>
