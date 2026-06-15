@@ -117,6 +117,16 @@ const EXPERT_IMAGES: Record<string, string> = {
   "cardiology-2": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/cardiology-2.webp`,
   "cardiology-3": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/cardiology-3.webp`,
   "cardiology-4": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/cardiology-4.webp`,
+  "neurology-1": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/neurology-1.webp`,
+  "neurology-2": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/neurology-2.webp`,
+  "neurology-3": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/neurology-3.webp`,
+  "neurology-4": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/neurology-4.webp`,
+  "neurology-5": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/neurology-5.webp`,
+  "orthopedics-1": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/orthopedics-1.webp`,
+  "orthopedics-2": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/orthopedics-2.webp`,
+  "orthopedics-3": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/orthopedics-3.webp`,
+  "orthopedics-4": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/orthopedics-4.webp`,
+  "orthopedics-5": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/orthopedics-5.webp`,
 };
 
 type PageCopy = {
@@ -965,7 +975,7 @@ function getRosterLocale(showcase: PageCopy["expertShowcase"]): RosterLocale {
   return showcase.moreLabel === "更多" ? "zh" : "en";
 }
 
-function getRosterCategory(specialty: string): "oncology" | "cardiology" | "other" {
+function getRosterCategory(specialty: string): "oncology" | "cardiology" | "neurology" | "orthopedics" | "other" {
   const normalized = specialty.toLowerCase();
 
   if (normalized.includes("oncolog") || normalized.includes("onkolog") || specialty.includes("肿瘤") || normalized.includes("онколог")) {
@@ -974,6 +984,14 @@ function getRosterCategory(specialty: string): "oncology" | "cardiology" | "othe
 
   if (normalized.includes("cardiolog") || normalized.includes("kardiolog") || specialty.includes("心血管") || normalized.includes("кардиолог")) {
     return "cardiology";
+  }
+
+  if (normalized.includes("neurolog") || specialty.includes("神经") || normalized.includes("невролог")) {
+    return "neurology";
+  }
+
+  if (normalized.includes("orthoped") || normalized.includes("orthopaed") || normalized.includes("ortop") || specialty.includes("骨科") || normalized.includes("ортопед")) {
+    return "orthopedics";
   }
 
   return "other";
@@ -1223,6 +1241,250 @@ function buildExpertRoster(specialty: string, rosterLocale: RosterLocale): Exper
         bio: "Supports international patients who need cardiac risk review before major procedures, treatment comparison, or a long-term follow-up plan.",
         image: "cardiology-4",
         imageAlt: "Prof. Shijie Han cardiology specialist portrait",
+      },
+    ];
+  }
+
+  if (category === "neurology") {
+    if (rosterLocale === "zh") {
+      return [
+        {
+          name: "林予涵副主任医师",
+          title: "副主任医师",
+          specialty,
+          hospital: "上海神经内科远程会诊网络",
+          credentials: ["14+ 年神经内科经验", "头痛、癫痫与睡眠障碍评估", "影像与用药记录审阅"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "擅长整理脑 MRI、脑电图、既往用药和发作记录，帮助患者明确诊断方向、用药调整重点与下一步检查计划。",
+          image: "neurology-1",
+          imageAlt: "林予涵副主任医师神经科专家头像",
+        },
+        {
+          name: "谭书怡教授",
+          title: "教授 / 主任医师",
+          specialty,
+          hospital: "北京神经疾病专科协作中心",
+          credentials: ["27+ 年临床经验", "帕金森病与运动障碍第二意见", "长期治疗路径优化"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "关注帕金森病、震颤、肌张力障碍等运动障碍疾病，擅长结合病程、影像和药物反应评估下一步治疗选择。",
+          image: "neurology-2",
+          imageAlt: "谭书怡教授神经科专家头像",
+          featured: true,
+        },
+        {
+          name: "赵孟溪主任医师",
+          title: "主任医师",
+          specialty,
+          hospital: "杭州脑血管病专家协作网络",
+          credentials: ["19+ 年临床经验", "卒中后康复与复发风险评估", "慢性脑血管病管理"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "擅长为脑梗、短暂性脑缺血发作和脑血管狭窄患者梳理检查结果，明确二级预防、康复和复查重点。",
+          image: "neurology-3",
+          imageAlt: "赵孟溪主任医师神经科专家头像",
+        },
+        {
+          name: "乔建成教授",
+          title: "教授 / 主任医师",
+          specialty,
+          hospital: "成都神经疑难病会诊中心",
+          credentials: ["33+ 年临床经验", "周围神经病与神经免疫病例", "疑难诊断第二意见"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "适合长期症状反复、诊断不清或检查结果复杂的患者，可协助比较神经免疫、代谢和周围神经病变的可能性。",
+          image: "neurology-4",
+          imageAlt: "乔建成教授神经科专家头像",
+        },
+        {
+          name: "何文静副主任医师",
+          title: "副主任医师",
+          specialty,
+          hospital: "深圳国际神经内科咨询中心",
+          credentials: ["16+ 年临床经验", "头晕眩晕与认知问题评估", "远程病历摘要整理"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "擅长把症状时间线、影像、实验室检查和用药反应整理成清晰摘要，帮助患者理解需要优先处理的问题。",
+          image: "neurology-5",
+          imageAlt: "何文静副主任医师神经科专家头像",
+        },
+      ];
+    }
+
+    return [
+      {
+        name: "Dr. Yuhan Lin",
+        title: "Associate Chief Physician",
+        specialty,
+        hospital: "Shanghai neurology remote consultation network",
+        credentials: ["14+ years neurology experience", "Headache, epilepsy, and sleep disorder review", "Imaging and medication record assessment"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Organizes brain MRI, EEG, medication history, and symptom timelines to clarify diagnostic direction, treatment priorities, and next-step testing.",
+        image: "neurology-1",
+        imageAlt: "Dr. Yuhan Lin neurology specialist portrait",
+      },
+      {
+        name: "Prof. Shuyi Tan",
+        title: "Professor / Chief Physician",
+        specialty,
+        hospital: "Beijing neurological disease specialist collaboration center",
+        credentials: ["27+ years clinical experience", "Parkinson's disease and movement disorder second opinions", "Long-term treatment pathway optimization"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Focuses on Parkinson's disease, tremor, dystonia, and other movement disorders, connecting clinical course, imaging, and medication response to practical treatment options.",
+        image: "neurology-2",
+        imageAlt: "Prof. Shuyi Tan neurology specialist portrait",
+        featured: true,
+      },
+      {
+        name: "Dr. Mengxi Zhao",
+        title: "Chief Physician",
+        specialty,
+        hospital: "Hangzhou cerebrovascular specialist network",
+        credentials: ["19+ years clinical experience", "Post-stroke recovery and recurrence risk review", "Chronic cerebrovascular disease management"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Helps stroke, TIA, and vascular stenosis patients organize reports and clarify secondary prevention, rehabilitation, and follow-up priorities.",
+        image: "neurology-3",
+        imageAlt: "Dr. Mengxi Zhao neurology specialist portrait",
+      },
+      {
+        name: "Prof. Jiancheng Qiao",
+        title: "Professor / Chief Physician",
+        specialty,
+        hospital: "Chengdu complex neurological disease consultation center",
+        credentials: ["33+ years clinical experience", "Peripheral nerve and neuroimmunology cases", "Difficult diagnosis second opinions"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Supports patients with recurrent symptoms, unclear diagnoses, or complex findings by comparing neuroimmune, metabolic, and peripheral nerve possibilities.",
+        image: "neurology-4",
+        imageAlt: "Prof. Jiancheng Qiao neurology specialist portrait",
+      },
+      {
+        name: "Dr. Wenjing He",
+        title: "Associate Chief Physician",
+        specialty,
+        hospital: "Shenzhen international neurology consultation center",
+        credentials: ["16+ years clinical experience", "Dizziness, vertigo, and cognitive symptom review", "Remote medical summary preparation"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Turns symptom timelines, imaging, lab results, and medication responses into concise summaries so patients can understand what should be addressed first.",
+        image: "neurology-5",
+        imageAlt: "Dr. Wenjing He neurology specialist portrait",
+      },
+    ];
+  }
+
+  if (category === "orthopedics") {
+    if (rosterLocale === "zh") {
+      return [
+        {
+          name: "许凯文主任医师",
+          title: "主任医师",
+          specialty,
+          hospital: "上海骨科运动医学协作网络",
+          credentials: ["21+ 年骨科临床经验", "肩膝关节与运动损伤评估", "术前影像第二意见"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "擅长结合 MRI、X 光和既往治疗记录，帮助患者比较保守治疗、关节镜手术和康复方案的适用性。",
+          image: "orthopedics-1",
+          imageAlt: "许凯文主任医师骨科专家头像",
+        },
+        {
+          name: "方亦如副主任医师",
+          title: "副主任医师",
+          specialty,
+          hospital: "北京脊柱疾病远程会诊中心",
+          credentials: ["17+ 年临床经验", "颈腰椎退变与椎间盘问题", "疼痛与神经症状路径评估"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "关注颈椎病、腰椎间盘突出、椎管狭窄等问题，帮助患者理解影像严重程度与症状之间的关系。",
+          image: "orthopedics-2",
+          imageAlt: "方亦如副主任医师骨科专家头像",
+          featured: true,
+        },
+        {
+          name: "李振主任医师",
+          title: "主任医师",
+          specialty,
+          hospital: "广州关节外科专家协作中心",
+          credentials: ["24+ 年临床经验", "髋膝关节置换方案评估", "术后恢复与翻修病例审阅"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "适合需要比较关节置换时机、假体选择、翻修风险或术后康复计划的患者进行远程第二意见。",
+          image: "orthopedics-3",
+          imageAlt: "李振主任医师骨科专家头像",
+        },
+        {
+          name: "任昊教授",
+          title: "教授 / 主任医师",
+          specialty,
+          hospital: "成都创伤骨科与脊柱协作中心",
+          credentials: ["29+ 年临床经验", "复杂骨折与创伤后畸形评估", "手术风险与康复计划"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "擅长评估复杂骨折、陈旧性损伤和创伤后功能受限病例，帮助患者理解手术目标、风险和恢复周期。",
+          image: "orthopedics-4",
+          imageAlt: "任昊教授骨科专家头像",
+        },
+        {
+          name: "周美霖主任医师",
+          title: "主任医师",
+          specialty,
+          hospital: "杭州国际骨科康复协作网络",
+          credentials: ["20+ 年临床经验", "骨质疏松与慢性关节疼痛", "康复与长期管理计划"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "专注慢性关节疼痛、骨质疏松相关骨折风险和术后康复管理，适合需要长期计划的国际患者。",
+          image: "orthopedics-5",
+          imageAlt: "周美霖主任医师骨科专家头像",
+        },
+      ];
+    }
+
+    return [
+      {
+        name: "Dr. Kaiwen Xu",
+        title: "Chief Physician",
+        specialty,
+        hospital: "Shanghai orthopedic sports medicine collaboration network",
+        credentials: ["21+ years orthopedic experience", "Shoulder, knee, and sports injury review", "Pre-surgery imaging second opinions"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Reviews MRI, X-ray, and prior treatment records to help patients compare conservative care, arthroscopic surgery, and rehabilitation options.",
+        image: "orthopedics-1",
+        imageAlt: "Dr. Kaiwen Xu orthopedic specialist portrait",
+      },
+      {
+        name: "Dr. Yiru Fang",
+        title: "Associate Chief Physician",
+        specialty,
+        hospital: "Beijing spine disease remote consultation center",
+        credentials: ["17+ years clinical experience", "Cervical and lumbar degeneration review", "Pain and nerve symptom pathway assessment"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Focuses on cervical spondylosis, lumbar disc herniation, and spinal stenosis, helping patients connect imaging severity with real symptoms.",
+        image: "orthopedics-2",
+        imageAlt: "Dr. Yiru Fang orthopedic specialist portrait",
+        featured: true,
+      },
+      {
+        name: "Dr. Zhen Li",
+        title: "Chief Physician",
+        specialty,
+        hospital: "Guangzhou joint surgery specialist collaboration center",
+        credentials: ["24+ years clinical experience", "Hip and knee replacement pathway review", "Post-op recovery and revision case assessment"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Supports patients comparing joint replacement timing, implant choices, revision risks, and realistic postoperative rehabilitation plans.",
+        image: "orthopedics-3",
+        imageAlt: "Dr. Zhen Li orthopedic specialist portrait",
+      },
+      {
+        name: "Prof. Hao Ren",
+        title: "Professor / Chief Physician",
+        specialty,
+        hospital: "Chengdu trauma orthopedics and spine collaboration center",
+        credentials: ["29+ years clinical experience", "Complex fracture and post-traumatic deformity review", "Surgical risk and recovery planning"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Reviews complex fractures, old injuries, and post-traumatic function limits so patients can understand surgical goals, risks, and recovery timelines.",
+        image: "orthopedics-4",
+        imageAlt: "Prof. Hao Ren orthopedic specialist portrait",
+      },
+      {
+        name: "Dr. Meilin Zhou",
+        title: "Chief Physician",
+        specialty,
+        hospital: "Hangzhou international orthopedic rehabilitation network",
+        credentials: ["20+ years clinical experience", "Osteoporosis and chronic joint pain", "Rehabilitation and long-term management planning"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Focuses on chronic joint pain, osteoporosis-related fracture risk, and post-surgery rehabilitation management for patients who need a long-term plan.",
+        image: "orthopedics-5",
+        imageAlt: "Dr. Meilin Zhou orthopedic specialist portrait",
       },
     ];
   }
