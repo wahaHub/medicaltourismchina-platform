@@ -71,7 +71,7 @@ const pricing = [
 
 export default function DentalCrowns() {
   useEffect(() => {
-    document.title = "Dental Crowns | MedChina";
+    document.title = "Dental Crowns | Medora Health";
     window.scrollTo(0, 0);
   }, []);
 

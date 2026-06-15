@@ -71,7 +71,7 @@ const pricing = [
 
 export default function HollywoodSmileVeneers() {
   useEffect(() => {
-    document.title = "Hollywood Smile Veneers | MedChina";
+    document.title = "Hollywood Smile Veneers | Medora Health";
     window.scrollTo(0, 0);
   }, []);
 

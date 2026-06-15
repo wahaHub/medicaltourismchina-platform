@@ -69,7 +69,7 @@ const pricing = [
 
 export default function Dentures() {
   useEffect(() => {
-    document.title = "Dentures | MedChina";
+    document.title = "Dentures | Medora Health";
     window.scrollTo(0, 0);
   }, []);
 

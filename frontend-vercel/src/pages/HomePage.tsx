@@ -6,6 +6,7 @@ import Header from "@/components/Header";
 
 // New V2 Components
 import HeroSection from "@/components/home-v2/HeroSection";
+import { setPageSeo } from "@/utils/seo";
 
 const OnlineConsultationSection = lazy(() => import("@/components/home-v2/OnlineConsultationSection"));
 const Footer = lazy(() => import("@/components/Footer"));
@@ -16,8 +17,12 @@ const TestimonialsSection = lazy(() => import("@/components/home-v2/Testimonials
 
 const HomePage = () => {
   useEffect(() => {
-    // Update title
-    document.title = "MedChina - Premium Medical Tourism to China";
+    setPageSeo({
+      title: "Medora Health | Medical Tourism & Telemedicine in China",
+      description:
+        "Medora Health helps international patients access specialist consultations, second opinions, treatment planning, hospital coordination, translation, visa support, and follow-up care in China.",
+      path: "/",
+    });
   }, []);
 
   return (

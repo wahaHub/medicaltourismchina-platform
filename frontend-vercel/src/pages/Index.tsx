@@ -17,7 +17,7 @@ const Index = () => {
 
   useEffect(() => {
     // Update title
-    document.title = "MedChina - Premium Medical Tourism to China";
+    document.title = "Medora Health | Medical Tourism & Telemedicine in China";
 
     // 检查是否是从 Case Intake 提交后跳转过来的
     if (searchParams.get('caseIntakeSubmitted') === 'true') {

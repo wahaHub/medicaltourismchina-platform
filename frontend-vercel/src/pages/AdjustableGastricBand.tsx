@@ -71,7 +71,7 @@ const pricing = [
 
 export default function AdjustableGastricBand() {
   useEffect(() => {
-    document.title = "Adjustable Gastric Band | MedChina";
+    document.title = "Adjustable Gastric Band | Medora Health";
     window.scrollTo(0, 0);
   }, []);
 

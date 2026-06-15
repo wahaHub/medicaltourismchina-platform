@@ -48,7 +48,7 @@ const diamondFeatures = [
 
 export default function HealthPackages() {
   useEffect(() => {
-    document.title = "Service Packages | MedChina";
+    document.title = "Service Packages | Medora Health";
     window.scrollTo(0, 0);
   }, []);
 

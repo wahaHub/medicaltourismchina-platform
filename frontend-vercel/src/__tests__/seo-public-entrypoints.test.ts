@@ -7,7 +7,7 @@ const PROJECT_ROOT = path.resolve(__dirname, "../..");
 const SITEMAP_PATHS = [
   "/",
   "/cosmetic-surgery",
-  "/cancer-treatment",
+  "/telemedicine",
   "/dental-treatment",
   "/stem-cell-therapy",
   "/treatment",
@@ -19,6 +19,21 @@ const SITEMAP_PATHS = [
 ];
 
 describe("SEO public entrypoints", () => {
+  it("publishes Medora Health homepage search metadata", () => {
+    const indexPath = path.join(PROJECT_ROOT, "index.html");
+
+    expect(fs.existsSync(indexPath)).toBe(true);
+
+    const indexHtml = fs.readFileSync(indexPath, "utf8");
+    expect(indexHtml).toContain("<title>Medora Health | Medical Tourism &amp; Telemedicine in China</title>");
+    expect(indexHtml).toContain('meta name="description" content="Medora Health helps international patients access specialist consultations');
+    expect(indexHtml).toContain('"@type": "WebSite"');
+    expect(indexHtml).toContain('"name": "Medora Health"');
+    expect(indexHtml).toContain('"name": "Telemedicine Consultation"');
+    expect(indexHtml).toContain('"name": "Cancer Second Opinion"');
+    expect(indexHtml).not.toContain("MedChina - Premium Medical Tourism to China");
+  });
+
   it("publishes the legacy public sitemap URLs", () => {
     const sitemapPath = path.join(PROJECT_ROOT, "public/sitemap.xml");
 

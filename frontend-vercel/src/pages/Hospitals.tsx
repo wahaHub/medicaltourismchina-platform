@@ -65,11 +65,11 @@ const Hospitals = () => {
         // Set page title based on filters
         const cityDisplayName = city ? cities.find(c => c.value === city)?.label : null;
         if (cityDisplayName) {
-          document.title = `${cityDisplayName} Hospitals | MedChina`;
+          document.title = `${cityDisplayName} Hospitals | Medora Health`;
         } else if (search) {
-          document.title = `Search: ${search} | MedChina`;
+          document.title = `Search: ${search} | Medora Health`;
         } else {
-          document.title = "All Hospitals | MedChina";
+          document.title = "All Hospitals | Medora Health";
         }
       } catch (err) {
         setError('Failed to load hospitals. Please try again.');

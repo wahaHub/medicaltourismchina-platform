@@ -134,7 +134,7 @@ const ProcedureDetailPage = () => {
         // Use the first procedure from the response
         const procedure = apiData.data[0];
         setProcedureData(procedure);
-        document.title = `${procedure.name} | MedChina`;
+        document.title = `${procedure.name} | Medora Health`;
       } catch (err) {
         setError('Failed to load procedure details. Please try again.');
         console.error('Error loading procedure:', err);

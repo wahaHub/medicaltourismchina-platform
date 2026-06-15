@@ -71,7 +71,7 @@ const pricing = [
 
 export default function ParkinsonsStemCellTherapy() {
   useEffect(() => {
-    document.title = "Parkinson's Disease Stem Cell Therapy | MedChina";
+    document.title = "Parkinson's Disease Stem Cell Therapy | Medora Health";
     window.scrollTo(0, 0);
   }, []);
 

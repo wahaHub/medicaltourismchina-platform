@@ -8,7 +8,7 @@ import RenownedDoctorsSection from "@/components/doctor-appointment/RenownedDoct
 
 const DoctorAppointmentPage = () => {
   useEffect(() => {
-    document.title = "Doctor Appointment | MedChina";
+    document.title = "Doctor Appointment | Medora Health";
   }, []);
 
   return (

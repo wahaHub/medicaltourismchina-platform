@@ -89,7 +89,7 @@ const pricing = [
 
 export default function FaceLiposuction() {
   useEffect(() => {
-    document.title = "Face Liposuction | MedChina";
+    document.title = "Face Liposuction | Medora Health";
     window.scrollTo(0, 0);
   }, []);
 

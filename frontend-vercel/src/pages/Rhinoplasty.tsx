@@ -82,7 +82,7 @@ const pricing = [
 
 export default function Rhinoplasty() {
   useEffect(() => {
-    document.title = "Rhinoplasty (Nose Job) | MedChina";
+    document.title = "Rhinoplasty (Nose Job) | Medora Health";
     window.scrollTo(0, 0);
   }, []);
 

@@ -72,7 +72,7 @@ const pricing = [
 
 export default function DoubleEyelidSurgery() {
   useEffect(() => {
-    document.title = "Double Eyelid Surgery | MedChina";
+    document.title = "Double Eyelid Surgery | Medora Health";
     window.scrollTo(0, 0);
   }, []);
 

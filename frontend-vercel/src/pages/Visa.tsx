@@ -7,8 +7,18 @@ import VisaFreeTransit from "@/components/visa/VisaFreeTransit";
 import MedicalVisa from "@/components/visa/MedicalVisa";
 import VisaTimeline from "@/components/visa/VisaTimeline";
 import { VisaCountryProvider } from "@/contexts/VisaCountryContext";
+import { useEffect } from "react";
+import { setPageSeo } from "@/utils/seo";
 
 const Visa = () => {
+  useEffect(() => {
+    setPageSeo({
+      title: "Visa & Travel Support | Medora Health",
+      description: "Appointment booking, translation, travel planning, and follow-up care.",
+      path: "/visa",
+    });
+  }, []);
+
   return (
     <div className="min-h-screen bg-white">
       <TopBanner />

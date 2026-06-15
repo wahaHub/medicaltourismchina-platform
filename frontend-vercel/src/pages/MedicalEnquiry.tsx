@@ -6,10 +6,16 @@ import HeroSection from "@/components/medical-enquiry/HeroSection";
 import MedicalEnquiryFeatures from "@/components/medical-enquiry/MedicalEnquiryFeatures";
 import CostEstimationSection from "@/components/medical-enquiry/CostEstimationSection";
 import CoreValueSection from "@/components/medical-enquiry/CoreValueSection";
+import { setPageSeo } from "@/utils/seo";
 
 const MedicalEnquiryPage = () => {
   useEffect(() => {
-    document.title = "Medical Enquiry | MedChina";
+    setPageSeo({
+      title: "Medical Enquiry | Medora Health",
+      description:
+        "Send your medical question, condition summary, and treatment goals to Medora Health for coordinated China care guidance.",
+      path: "/medical-enquiry",
+    });
   }, []);
 
   return (
@@ -30,4 +36,3 @@ const MedicalEnquiryPage = () => {
 };
 
 export default MedicalEnquiryPage;
-

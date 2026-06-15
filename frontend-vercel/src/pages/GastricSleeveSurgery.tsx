@@ -55,7 +55,7 @@ const pricing = [
 
 export default function GastricSleeveSurgery() {
   useEffect(() => {
-    document.title = "Gastric Sleeve Surgery | MedChina";
+    document.title = "Gastric Sleeve Surgery | Medora Health";
     window.scrollTo(0, 0);
   }, []);
 

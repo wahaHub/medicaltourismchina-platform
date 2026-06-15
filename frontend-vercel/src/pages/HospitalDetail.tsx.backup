@@ -359,7 +359,7 @@ const HospitalDetail = () => {
     
     if (foundHospital) {
       setHospital(foundHospital);
-      document.title = `${foundHospital.name} | MedChina`;
+      document.title = `${foundHospital.name} | Medora Health`;
       
       // Set active tab based on the selected specialty or default to first department
       if (selectedSpecialty && foundHospital.departments.some(dept => dept.name === selectedSpecialty)) {

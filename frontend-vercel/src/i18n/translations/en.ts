@@ -1,13 +1,13 @@
 export const en = {
   // Navigation
   'nav.home': 'HOME',
-  'nav.telemedicine': 'ONLINE CONSULTATION',
+  'nav.telemedicine': 'TELEMEDICINE',
   'nav.search': 'SEARCH',
   'nav.treatment': 'FEATURED',
-  'nav.packages': 'STEPS',
+  'nav.packages': 'TREATMENT PACKAGES',
   'nav.hospitals': 'HOSPITALS',
   'nav.insurance': 'INSURANCE',
-  'nav.visa': 'VISA',
+  'nav.visa': 'VISA & TRAVEL',
   'nav.whyChina': 'WHY CHINA',
   'nav.menu': 'Menu',
   'nav.close': 'Close',
@@ -1628,7 +1628,7 @@ export const en = {
   'medicalEnquiry.coreValue.value3.imageAlt': 'Healthcare professional providing patient care',
 
   // Hospital Admissions Page
-  'hospitalAdmissions.pageTitle': 'Hospital Admissions | MedChina',
+  'hospitalAdmissions.pageTitle': 'Hospital Admissions | Medora Health',
   'hospitalAdmissions.hero.title': 'Hospital Admission',
   'hospitalAdmissions.hero.subtitle': 'The admission process is simple and efficient. We will assist you in completing all necessary procedures, from registration to payment, ensuring a smooth start to your treatment journey. Our team is here to guide you through every step, making sure you feel comfortable and well-informed throughout the entire process. We handle all the paperwork and coordination so you can focus on your health and recovery.',
   
@@ -1662,7 +1662,7 @@ export const en = {
   'hospitalAdmissions.afterAdmission.service3.imageAlt': 'Family communication',
 
   // Language Interpreter Page
-  'languageInterpreter.pageTitle': 'Language Interpreter | MedChina',
+  'languageInterpreter.pageTitle': 'Language Interpreter | Medora Health',
   'languageInterpreter.hero.title': 'Language Interpreter',
   'languageInterpreter.hero.subtitle': 'Discover International Medical Services relies on a highly efficient "one-time contact" service model to instantly match you with interpreters who have medical professional backgrounds, covering all key communication scenarios throughout the treatment process, so precise communication requires no waiting.',
   
@@ -1697,7 +1697,7 @@ export const en = {
   'languageInterpreter.support.item3.imageAlt': 'Emergency interpretation',
 
   // Airport Pickup Page
-  'airportPickup.pageTitle': 'Airport Pick-up | MedChina',
+  'airportPickup.pageTitle': 'Airport Pick-up | Medora Health',
   'airportPickup.hero.title': 'Airport Pick-up',
   'airportPickup.hero.subtitle': 'With "seamless connection, safe and comfortable, full escort" as our core, we provide customized airport pick-up and drop-off services for patients and accompanying personnel, ensuring every step from plane landing to hospital arrival is smooth and efficient, allowing you to focus on your health without worrying about travel arrangements.',
   
@@ -1962,7 +1962,7 @@ export const en = {
   'visa.medical.tracking.title': 'Status Tracking & Delivery',
   'visa.medical.tracking.description': 'Track your application in real-time. Once approved, we arrange secure courier delivery of your passport with visa directly to your address.',
   // Post Treatment Support Page
-  'postTreatment.pageTitle': 'Post Treatment Support | MedChina',
+  'postTreatment.pageTitle': 'Post Treatment Support | Medora Health',
   'postTreatment.hero.title': 'Post Treatment Support',
   'postTreatment.hero.subtitle': 'The end of treatment is not the end of our service, but the beginning of a new chapter in the patient\'s recovery journey. We understand the importance of the post-operative recovery phase, and have created a "multi-dimensional, normalized, personalized" post-treatment support system, through continuous rehabilitation guidance and immediate consultation services, to help patients smoothly pass through the recovery period, reduce post-operative risks, and consolidate treatment results.',
   
@@ -2001,7 +2001,7 @@ export const en = {
   'postTreatment.advantages.item4.description': 'Provide family care training (such as post-operative wound dressing, rehabilitation training assistance), answer family questions (such as "how to help patients adjust their mindset" "what risks need attention during care"), making family members powerful assistants in patient recovery',
 
   // Telemedicine Page
-  'telemedicine.pageTitle': 'Telemedicine | MedChina',
+  'telemedicine.pageTitle': 'Telemedicine | Medora Health',
   'telemedicine.hero.title': 'Telemedicine',
   'telemedicine.hero.subtitle': 'When you are unable to visit Bumrungrad International Hospital in person due to geographical limitations, physical inconvenience, or post-operative follow-up needs, our telemedicine service breaks down spatial barriers, building a bridge for direct communication with Bumrungrad\'s authoritative experts, making high-quality medical resources within reach, ensuring timely response to medical needs.',
   
@@ -2040,7 +2040,7 @@ export const en = {
   'telemedicine.advantages.item4.description': 'Telemedicine is not an independent service, but deeply integrated with Bumrungrad Hospital\'s offline medical treatment (such as face-to-face consultation, surgery, hospitalization), can flexibly switch service modes according to patient condition needs, ensuring continuity and completeness of medical treatment. Through our telemedicine service, you don\'t need to cross mountains and seas to communicate face-to-face with Bumrungrad experts, obtain professional and accurate medical advice, ensuring timely response to every health need, safeguarding your health.',
 
   // Hotel Accommodation Page
-  'hotelAccommodation.pageTitle': 'Hotel Accommodation | MedChina',
+  'hotelAccommodation.pageTitle': 'Hotel Accommodation | Medora Health',
   'hotelAccommodation.hero.title': 'Hotel Accommodation',
   'hotelAccommodation.hero.subtitle': 'We provide carefully selected accommodation options for medical tourists, ensuring comfort, safety, and convenience during your recovery period.',
   

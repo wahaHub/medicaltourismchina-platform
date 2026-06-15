@@ -214,7 +214,7 @@ export default function BariatricSurgery() {
   const c = COPY[locale];
 
   useEffect(() => {
-    document.title = `${c.title} | MedChina`;
+    document.title = `${c.title} | Medora Health`;
   }, [c.title]);
 
   return (

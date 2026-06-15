@@ -326,7 +326,7 @@ const HospitalProfile = () => {
         setError(null);
         const response = await hospitalApi.getHospitalExtendedBySlug(slug, locale);
         setHospital(response.data);
-        document.title = `${response.data.name} | MedChina`;
+        document.title = `${response.data.name} | Medora Health`;
       } catch (err) {
         setError('Failed to load hospital details.');
         console.error('Error loading hospital:', err);

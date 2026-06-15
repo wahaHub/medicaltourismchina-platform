@@ -72,7 +72,7 @@ const pricing = [
 
 export default function TummyTuck() {
   useEffect(() => {
-    document.title = "Tummy Tuck (Abdominoplasty) | MedChina";
+    document.title = "Tummy Tuck (Abdominoplasty) | Medora Health";
     window.scrollTo(0, 0);
   }, []);
 

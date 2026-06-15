@@ -66,7 +66,7 @@ const pricing = [
 
 export default function BreastReduction() {
   useEffect(() => {
-    document.title = "Breast Reduction | MedChina";
+    document.title = "Breast Reduction | Medora Health";
     window.scrollTo(0, 0);
   }, []);
 

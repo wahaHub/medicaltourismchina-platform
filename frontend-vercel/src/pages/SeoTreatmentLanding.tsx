@@ -6,11 +6,14 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { Button } from "@/components/ui/button";
 import { PUBLIC_MEDIA_BASE_URL } from "@/config/media";
+import { setPageSeo } from "@/utils/seo";
 
 type LandingConfig = {
   title: string;
+  seoTitle?: string;
   eyebrow: string;
   description: string;
+  seoDescription?: string;
   canonicalPath: string;
   heroImage: string;
   procedures: Array<{
@@ -78,32 +81,17 @@ const landingContent: Record<string, LandingConfig> = {
   },
 };
 
-const setMeta = (selector: string, attribute: "content" | "href", value: string) => {
-  const element = document.head.querySelector(selector);
-  if (element) {
-    element.setAttribute(attribute, value);
-  }
-};
-
 export default function SeoTreatmentLanding({ type }: { type: keyof typeof landingContent }) {
   const content = landingContent[type];
-  const canonicalUrl = `https://www.medicaltourismchina.health${content.canonicalPath}`;
 
   useEffect(() => {
-    document.title = `${content.title} | Medora Health`;
-    setMeta('meta[name="description"]', "content", content.description);
-    setMeta('meta[property="og:title"]', "content", `${content.title} | Medora Health`);
-    setMeta('meta[property="og:description"]', "content", content.description);
-    setMeta('meta[property="og:url"]', "content", canonicalUrl);
-
-    let canonical = document.head.querySelector('link[rel="canonical"]');
-    if (!canonical) {
-      canonical = document.createElement("link");
-      canonical.setAttribute("rel", "canonical");
-      document.head.appendChild(canonical);
-    }
-    canonical.setAttribute("href", canonicalUrl);
-  }, [canonicalUrl, content.description, content.title]);
+    setPageSeo({
+      title: content.seoTitle ?? `${content.title} | Medora Health`,
+      description: content.seoDescription ?? content.description,
+      path: content.canonicalPath,
+      image: content.heroImage,
+    });
+  }, [content]);
 
   return (
     <div className="min-h-screen bg-white">

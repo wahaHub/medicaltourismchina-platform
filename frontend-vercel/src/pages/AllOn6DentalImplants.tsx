@@ -76,7 +76,7 @@ const pricing = [
 
 export default function AllOn6DentalImplants() {
   useEffect(() => {
-    document.title = "All-on-6 Dental Implants | MedChina";
+    document.title = "All-on-6 Dental Implants | Medora Health";
     window.scrollTo(0, 0);
   }, []);
 

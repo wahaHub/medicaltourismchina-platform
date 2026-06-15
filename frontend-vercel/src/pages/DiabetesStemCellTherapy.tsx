@@ -66,7 +66,7 @@ const pricing = [
 
 export default function DiabetesStemCellTherapy() {
   useEffect(() => {
-    document.title = "Diabetes Stem Cell Therapy | MedChina";
+    document.title = "Diabetes Stem Cell Therapy | Medora Health";
     window.scrollTo(0, 0);
   }, []);
 

@@ -67,7 +67,7 @@ const pricing = [
 
 export default function AutismStemCellTherapy() {
   useEffect(() => {
-    document.title = "Autism Stem Cell Therapy | MedChina";
+    document.title = "Autism Stem Cell Therapy | Medora Health";
     window.scrollTo(0, 0);
   }, []);
 

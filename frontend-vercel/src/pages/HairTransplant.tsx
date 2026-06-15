@@ -71,7 +71,7 @@ const pricing = [
 
 export default function HairTransplant() {
   useEffect(() => {
-    document.title = "Hair Transplant | MedChina";
+    document.title = "Hair Transplant | Medora Health";
     window.scrollTo(0, 0);
   }, []);
 

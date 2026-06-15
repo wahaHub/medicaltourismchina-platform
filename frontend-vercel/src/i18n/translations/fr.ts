@@ -1649,7 +1649,7 @@ export const fr = {
   'visa.medical.tracking.title': 'Suivi et Livraison',
   'visa.medical.tracking.description': 'Suivez votre demande en temps réel. Une fois approuvé, nous organisons la livraison sécurisée par courrier de votre passeport avec visa directement à votre adresse.',
   // Post Treatment Support Page
-  'postTreatment.pageTitle': 'Soutien Post-Traitement | MedChina',
+  'postTreatment.pageTitle': 'Soutien Post-Traitement | Medora Health',
   'postTreatment.hero.title': 'Soutien Post-Traitement',
   'postTreatment.hero.subtitle': 'La fin du traitement n\'est pas la fin de notre service, mais le début d\'un nouveau chapitre dans le parcours de récupération du patient. Nous comprenons l\'importance de la phase de récupération postopératoire et avons créé un système de soutien post-traitement "multidimensionnel, normalisé, personnalisé", à travers des conseils de réadaptation continus et des services de consultation immédiats, pour aider les patients à passer en douceur la période de récupération, réduire les risques postopératoires et consolider les résultats du traitement.',
   
@@ -1688,7 +1688,7 @@ export const fr = {
   'postTreatment.advantages.item4.description': 'Fournir une formation aux soins familiaux et répondre aux questions des familles.',
 
   // Telemedicine Page
-  'telemedicine.pageTitle': 'Télémédecine | MedChina',
+  'telemedicine.pageTitle': 'Télémédecine | Medora Health',
   'telemedicine.hero.title': 'Télémédecine',
   'telemedicine.hero.subtitle': 'Lorsque vous ne pouvez pas visiter l\'hôpital international Bumrungrad en personne en raison de limitations géographiques, d\'inconvénients physiques ou de besoins de suivi postopératoire, notre service de télémédecine brise les barrières spatiales, construisant un pont de communication directe avec les experts faisant autorité de Bumrungrad, rendant les ressources médicales de qualité à portée de main, garantissant une réponse rapide aux besoins médicaux.',
   
@@ -1727,7 +1727,7 @@ export const fr = {
   'telemedicine.advantages.item4.description': 'La télémédecine n\'est pas un service indépendant, mais profondément intégrée aux soins médicaux hors ligne de Bumrungrad.',
 
   // Hotel Accommodation Page
-  'hotelAccommodation.pageTitle': 'Hébergement Hôtelier | MedChina',
+  'hotelAccommodation.pageTitle': 'Hébergement Hôtelier | Medora Health',
   'hotelAccommodation.hero.title': 'Hébergement Hôtelier',
   'hotelAccommodation.hero.subtitle': 'Nous fournissons des options d\'hébergement soigneusement sélectionnées pour les touristes médicaux, garantissant confort, sécurité et commodité pendant votre période de récupération.',
   

@@ -47,7 +47,7 @@ const CenterDetailPage = () => {
         const response = await apiService.getCenterDetail(slug, getApiLocale(), diseaseSlug || undefined);
         setCenterData(response.data);
         
-        document.title = `${response.data.center.name} | MedChina`;
+        document.title = `${response.data.center.name} | Medora Health`;
       } catch (err) {
         setError('Failed to load center details. Please try again.');
         console.error('Error loading center:', err);

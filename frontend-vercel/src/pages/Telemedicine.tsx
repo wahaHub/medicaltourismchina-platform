@@ -21,6 +21,7 @@ import processChinaAccessImage from "@/img/telemedicine-process-china-access.web
 import processConsultationImage from "@/img/telemedicine-process-consultation.webp";
 import processSecondOpinionImage from "@/img/telemedicine-process-second-opinion.webp";
 import processUploadRecordsImage from "@/img/telemedicine-process-upload-records.webp";
+import { setPageSeo } from "@/utils/seo";
 
 const CTA_HREF = "/medical-case-intake";
 
@@ -1727,8 +1728,12 @@ export default function TelemedicinePage() {
   const locale = getTelemedicineLocale(currentLanguage.code);
 
   useEffect(() => {
-    document.title = copy.metaTitle;
-  }, [copy.metaTitle]);
+    setPageSeo({
+      title: "Telemedicine Consultation | Medora Health",
+      description: "Video or written specialist review before you travel.",
+      path: "/telemedicine",
+    });
+  }, []);
 
   return (
     <div className="min-h-screen bg-white">

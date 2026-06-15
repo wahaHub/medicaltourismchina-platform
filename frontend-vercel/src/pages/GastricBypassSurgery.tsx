@@ -54,7 +54,7 @@ const pricing = [
 
 export default function GastricBypassSurgery() {
   useEffect(() => {
-    document.title = "Gastric Bypass Surgery | MedChina";
+    document.title = "Gastric Bypass Surgery | Medora Health";
     window.scrollTo(0, 0);
   }, []);
 

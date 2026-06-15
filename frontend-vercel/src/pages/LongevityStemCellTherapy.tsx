@@ -72,7 +72,7 @@ const pricing = [
 
 export default function LongevityStemCellTherapy() {
   useEffect(() => {
-    document.title = "Longevity Stem Cell Therapy | MedChina";
+    document.title = "Longevity Stem Cell Therapy | Medora Health";
     window.scrollTo(0, 0);
   }, []);
 

@@ -50,7 +50,7 @@ const pricing = [
 
 export default function FullMouthRestoration() {
   useEffect(() => {
-    document.title = "Full Mouth Restoration | MedChina";
+    document.title = "Full Mouth Restoration | Medora Health";
     window.scrollTo(0, 0);
   }, []);
 

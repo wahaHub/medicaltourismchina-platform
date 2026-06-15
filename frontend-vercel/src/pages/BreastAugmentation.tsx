@@ -72,7 +72,7 @@ const pricing = [
 
 export default function BreastAugmentation() {
   useEffect(() => {
-    document.title = "Breast Augmentation | MedChina";
+    document.title = "Breast Augmentation | Medora Health";
     window.scrollTo(0, 0);
   }, []);
 

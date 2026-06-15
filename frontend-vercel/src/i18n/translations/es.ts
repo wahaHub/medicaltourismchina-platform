@@ -1548,7 +1548,7 @@ export const es = {
   'visa.medical.tracking.title': 'Seguimiento y Entrega',
   'visa.medical.tracking.description': 'Rastree su solicitud en tiempo real. Una vez aprobada, organizamos la entrega segura por mensajería de su pasaporte con visa directamente a su dirección.',
   // Post Treatment Support Page
-  'postTreatment.pageTitle': 'Apoyo Post-Tratamiento | MedChina',
+  'postTreatment.pageTitle': 'Apoyo Post-Tratamiento | Medora Health',
   'postTreatment.hero.title': 'Apoyo Post-Tratamiento',
   'postTreatment.hero.subtitle': 'El fin del tratamiento no es el fin de nuestro servicio, sino el comienzo de un nuevo capítulo en el viaje de recuperación del paciente. Entendemos la importancia de la fase de recuperación postoperatoria y hemos creado un sistema de apoyo post-tratamiento "multidimensional, normalizado, personalizado", a través de orientación de rehabilitación continua y servicios de consulta inmediata, para ayudar a los pacientes a pasar sin problemas el período de recuperación, reducir los riesgos postoperatorios y consolidar los resultados del tratamiento.',
   
@@ -1587,7 +1587,7 @@ export const es = {
   'postTreatment.advantages.item4.description': 'Proporcionar capacitación en cuidados a la familia.',
 
   // Telemedicine Page
-  'telemedicine.pageTitle': 'Telemedicina | MedChina',
+  'telemedicine.pageTitle': 'Telemedicina | Medora Health',
   'telemedicine.hero.title': 'Telemedicina',
   'telemedicine.hero.subtitle': 'Cuando no puede visitar el Hospital Internacional Bumrungrad en persona debido a limitaciones geográficas, inconvenientes físicos o necesidades de seguimiento postoperatorio, nuestro servicio de telemedicina rompe las barreras espaciales, construyendo un puente para comunicación directa con los expertos autorizados de Bumrungrad, haciendo que los recursos médicos de calidad estén al alcance, garantizando una respuesta oportuna a las necesidades médicas.',
   
@@ -1626,7 +1626,7 @@ export const es = {
   'telemedicine.advantages.item4.description': 'La telemedicina no es un servicio independiente.',
 
   // Hotel Accommodation Page
-  'hotelAccommodation.pageTitle': 'Alojamiento en Hotel | MedChina',
+  'hotelAccommodation.pageTitle': 'Alojamiento en Hotel | Medora Health',
   'hotelAccommodation.hero.title': 'Alojamiento en Hotel',
   'hotelAccommodation.hero.subtitle': 'Proporcionamos opciones de alojamiento cuidadosamente seleccionadas para turistas médicos, asegurando comodidad, seguridad y conveniencia durante su período de recuperación.',
   

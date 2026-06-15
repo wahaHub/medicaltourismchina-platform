@@ -66,7 +66,7 @@ const pricing = [
 
 export default function ArmLift() {
   useEffect(() => {
-    document.title = "Arm Lift (Brachioplasty) | MedChina";
+    document.title = "Arm Lift (Brachioplasty) | Medora Health";
     window.scrollTo(0, 0);
   }, []);
 

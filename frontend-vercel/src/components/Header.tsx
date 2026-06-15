@@ -8,12 +8,12 @@ import { BRAND_LOGO_URL } from "@/config/brandAssets";
 
 const navLinks = [
   { label: "HOME", labelKey: "nav.home", href: "/" },
-  { label: "ONLINE CONSULTATION", labelKey: "nav.telemedicine", href: "/telemedicine" },
+  { label: "TELEMEDICINE", labelKey: "nav.telemedicine", href: "/telemedicine" },
   { label: "SEARCH", labelKey: "nav.search", href: "/search" },
   { label: "FEATURED", labelKey: "nav.treatment", href: "/treatment" },
-  { label: "STEPS", labelKey: "nav.packages", href: "/packages" },
+  { label: "TREATMENT PACKAGES", labelKey: "nav.packages", href: "/packages" },
   { label: "HOSPITALS", labelKey: "nav.hospitals", href: "/hospitals" },
-  { label: "VISA", labelKey: "nav.visa", href: "/visa" },
+  { label: "VISA & TRAVEL", labelKey: "nav.visa", href: "/visa" },
   { label: "WHY CHINA", labelKey: "nav.whyChina", href: "/why-china" },
 ];
 
