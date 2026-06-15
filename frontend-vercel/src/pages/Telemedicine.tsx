@@ -127,6 +127,11 @@ const EXPERT_IMAGES: Record<string, string> = {
   "orthopedics-3": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/orthopedics-3.webp`,
   "orthopedics-4": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/orthopedics-4.webp`,
   "orthopedics-5": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/orthopedics-5.webp`,
+  "reproductive-1": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/reproductive-20260615-1.webp`,
+  "reproductive-2": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/reproductive-20260615-2.webp`,
+  "reproductive-3": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/reproductive-20260615-3.webp`,
+  "reproductive-4": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/reproductive-20260615-4.webp`,
+  "reproductive-5": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/reproductive-20260615-5.webp`,
 };
 
 type PageCopy = {
@@ -222,7 +227,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
       label: "Specialist matching",
       title: "Selected top Chinese specialists",
       body: "Medora matches your case with experienced Chinese specialists who can support written review, video consultation, and treatment direction discussion.",
-      tabs: ["Oncology", "Cardiology", "Neurology", "Orthopedics", "Reproductive medicine", "Gastroenterology"],
+      tabs: ["Oncology", "Cardiology", "Neurology", "Orthopedics", "Reproductive medicine"],
       moreTabs: ["Aesthetic surgery", "Stem cell therapy", "Dentistry", "Pediatrics", "Rare diseases", "Urology", "Endocrinology", "Ophthalmology"],
       moreLabel: "More",
       collapseLabel: "Show less",
@@ -481,7 +486,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
       label: "专家匹配",
       title: "精选中国顶级专家",
       body: "Medora 会根据您的病情，为您匹配可提供书面审阅、视频问诊与治疗方向建议的中国资深专科医生。",
-      tabs: ["肿瘤", "心血管", "神经科", "骨科", "辅助生殖", "消化科"],
+      tabs: ["肿瘤", "心血管", "神经科", "骨科", "辅助生殖"],
       moreTabs: ["整容", "干细胞", "牙科", "儿科", "罕见病", "泌尿科", "内分泌", "眼科"],
       moreLabel: "更多",
       collapseLabel: "收起",
@@ -706,7 +711,7 @@ TELEMEDICINE_COPY.es = {
     label: "Selección de especialistas",
     title: "Especialistas chinos destacados seleccionados",
     body: "Medora asigna su caso a especialistas chinos con experiencia para revisión escrita, consulta por video y orientación sobre opciones de tratamiento.",
-    tabs: ["Oncología", "Cardiología", "Neurología", "Ortopedia", "Reproducción", "Gastroenterología"],
+    tabs: ["Oncología", "Cardiología", "Neurología", "Ortopedia", "Reproducción"],
     moreTabs: ["Cirugía estética", "Terapia con células madre", "Odontología", "Pediatría", "Enfermedades raras", "Urología", "Endocrinología", "Oftalmología"],
     moreLabel: "Más",
     collapseLabel: "Mostrar menos",
@@ -771,7 +776,7 @@ TELEMEDICINE_COPY.fr = {
     label: "Sélection de spécialistes",
     title: "Spécialistes chinois de haut niveau sélectionnés",
     body: "Medora oriente votre dossier vers des spécialistes chinois expérimentés pour un avis écrit, une consultation vidéo et une discussion sur les options de traitement.",
-    tabs: ["Oncologie", "Cardiologie", "Neurologie", "Orthopédie", "Médecine reproductive", "Gastroentérologie"],
+    tabs: ["Oncologie", "Cardiologie", "Neurologie", "Orthopédie", "Médecine reproductive"],
     moreTabs: ["Chirurgie esthétique", "Thérapie par cellules souches", "Dentisterie", "Pédiatrie", "Maladies rares", "Urologie", "Endocrinologie", "Ophtalmologie"],
     moreLabel: "Plus",
     collapseLabel: "Réduire",
@@ -836,7 +841,7 @@ TELEMEDICINE_COPY.de = {
     label: "Spezialisten-Matching",
     title: "Ausgewählte führende chinesische Spezialisten",
     body: "Medora ordnet Ihren Fall erfahrenen chinesischen Spezialisten zu, die schriftliche Prüfung, Videoberatung und Diskussion zur Behandlungsrichtung unterstützen können.",
-    tabs: ["Onkologie", "Kardiologie", "Neurologie", "Orthopädie", "Reproduktionsmedizin", "Gastroenterologie"],
+    tabs: ["Onkologie", "Kardiologie", "Neurologie", "Orthopädie", "Reproduktionsmedizin"],
     moreTabs: ["Ästhetische Chirurgie", "Stammzelltherapie", "Zahnmedizin", "Pädiatrie", "Seltene Erkrankungen", "Urologie", "Endokrinologie", "Augenheilkunde"],
     moreLabel: "Mehr",
     collapseLabel: "Weniger anzeigen",
@@ -901,7 +906,7 @@ TELEMEDICINE_COPY.ru = {
     label: "Подбор специалиста",
     title: "Отобранные ведущие китайские специалисты",
     body: "Medora подбирает для вашего случая опытных китайских специалистов для письменного обзора, видеоконсультации и обсуждения направления лечения.",
-    tabs: ["Онкология", "Кардиология", "Неврология", "Ортопедия", "Репродуктивная медицина", "Гастроэнтерология"],
+    tabs: ["Онкология", "Кардиология", "Неврология", "Ортопедия", "Репродуктивная медицина"],
     moreTabs: ["Эстетическая хирургия", "Стволовые клетки", "Стоматология", "Педиатрия", "Редкие заболевания", "Урология", "Эндокринология", "Офтальмология"],
     moreLabel: "Еще",
     collapseLabel: "Свернуть",
@@ -975,7 +980,7 @@ function getRosterLocale(showcase: PageCopy["expertShowcase"]): RosterLocale {
   return showcase.moreLabel === "更多" ? "zh" : "en";
 }
 
-function getRosterCategory(specialty: string): "oncology" | "cardiology" | "neurology" | "orthopedics" | "other" {
+function getRosterCategory(specialty: string): "oncology" | "cardiology" | "neurology" | "orthopedics" | "reproductive" | "other" {
   const normalized = specialty.toLowerCase();
 
   if (normalized.includes("oncolog") || normalized.includes("onkolog") || specialty.includes("肿瘤") || normalized.includes("онколог")) {
@@ -992,6 +997,19 @@ function getRosterCategory(specialty: string): "oncology" | "cardiology" | "neur
 
   if (normalized.includes("orthoped") || normalized.includes("orthopaed") || normalized.includes("ortop") || specialty.includes("骨科") || normalized.includes("ортопед")) {
     return "orthopedics";
+  }
+
+  if (
+    normalized.includes("reproductive")
+    || normalized.includes("reproducción")
+    || normalized.includes("reproduktion")
+    || normalized.includes("reproduct")
+    || normalized.includes("ivf")
+    || normalized.includes("fertility")
+    || specialty.includes("辅助生殖")
+    || normalized.includes("репродуктив")
+  ) {
+    return "reproductive";
   }
 
   return "other";
@@ -1485,6 +1503,128 @@ function buildExpertRoster(specialty: string, rosterLocale: RosterLocale): Exper
         bio: "Focuses on chronic joint pain, osteoporosis-related fracture risk, and post-surgery rehabilitation management for patients who need a long-term plan.",
         image: "orthopedics-5",
         imageAlt: "Dr. Meilin Zhou orthopedic specialist portrait",
+      },
+    ];
+  }
+
+  if (category === "reproductive") {
+    if (rosterLocale === "zh") {
+      return [
+        {
+          name: "吴瀚主任医师",
+          title: "主任医师",
+          specialty,
+          hospital: "上海辅助生殖医学协作中心",
+          credentials: ["24+ 年生殖医学经验", "试管婴儿方案与促排评估", "复杂不孕病历第二意见"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "擅长结合激素、AMH、B 超、既往促排和胚胎记录，帮助患者判断试管婴儿方案是否需要调整。",
+          image: "reproductive-1",
+          imageAlt: "吴瀚主任医师辅助生殖专家头像",
+        },
+        {
+          name: "梁静怡主任医师",
+          title: "主任医师",
+          specialty,
+          hospital: "北京生殖内分泌远程会诊网络",
+          credentials: ["26+ 年临床经验", "卵巢功能与反复移植失败评估", "国际患者病历审阅"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "关注卵巢储备下降、反复移植失败和高龄备孕病例，擅长把检查结果转化为清晰的下一周期策略。",
+          image: "reproductive-2",
+          imageAlt: "梁静怡主任医师辅助生殖专家头像",
+          featured: true,
+        },
+        {
+          name: "罗嘉敏副主任医师",
+          title: "副主任医师",
+          specialty,
+          hospital: "广州妇产与生殖医学专家网络",
+          credentials: ["18+ 年临床经验", "多囊卵巢与排卵障碍管理", "孕前评估与远程随访"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "擅长为月经不规律、多囊卵巢、排卵障碍和备孕时间较长的患者梳理检查重点与治疗路径。",
+          image: "reproductive-3",
+          imageAlt: "罗嘉敏副主任医师辅助生殖专家头像",
+        },
+        {
+          name: "孙启航主任医师",
+          title: "主任医师",
+          specialty,
+          hospital: "杭州男性生殖与辅助生殖协作中心",
+          credentials: ["22+ 年临床经验", "男性因素不育评估", "精液分析与手术取精路径审阅"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "专注男性因素不育、精液质量异常和取精相关决策，帮助夫妇理解是否需要进一步男科或胚胎实验室评估。",
+          image: "reproductive-4",
+          imageAlt: "孙启航主任医师辅助生殖专家头像",
+        },
+        {
+          name: "何承远教授",
+          title: "教授 / 主任医师",
+          specialty,
+          hospital: "深圳国际生殖医学咨询中心",
+          credentials: ["30+ 年临床经验", "疑难生殖病例多学科评估", "胚胎质量与反复流产方案讨论"],
+          tags: ["书面审阅", "视频问诊", "多语种协调"],
+          bio: "适合经历多次失败周期、胚胎质量不稳定或反复流产的患者，协助比较检查、用药和实验室策略。",
+          image: "reproductive-5",
+          imageAlt: "何承远教授辅助生殖专家头像",
+        },
+      ];
+    }
+
+    return [
+      {
+        name: "Dr. Han Wu",
+        title: "Chief Physician",
+        specialty,
+        hospital: "Shanghai assisted reproduction medicine collaboration center",
+        credentials: ["24+ years reproductive medicine experience", "IVF protocol and ovarian stimulation review", "Complex infertility second opinions"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Reviews hormones, AMH, ultrasound findings, previous stimulation cycles, and embryo records to clarify whether an IVF plan should be adjusted.",
+        image: "reproductive-1",
+        imageAlt: "Dr. Han Wu reproductive medicine specialist portrait",
+      },
+      {
+        name: "Dr. Jingyi Liang",
+        title: "Chief Physician",
+        specialty,
+        hospital: "Beijing reproductive endocrinology remote consultation network",
+        credentials: ["26+ years clinical experience", "Ovarian reserve and recurrent implantation failure review", "International record assessment"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Focuses on diminished ovarian reserve, recurrent implantation failure, and advanced maternal age cases, turning records into practical next-cycle strategy questions.",
+        image: "reproductive-2",
+        imageAlt: "Dr. Jingyi Liang reproductive medicine specialist portrait",
+        featured: true,
+      },
+      {
+        name: "Dr. Jiamin Luo",
+        title: "Associate Chief Physician",
+        specialty,
+        hospital: "Guangzhou obstetrics, gynecology, and reproductive medicine network",
+        credentials: ["18+ years clinical experience", "PCOS and ovulation disorder management", "Preconception review and remote follow-up"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Helps patients with irregular cycles, PCOS, ovulation disorders, or prolonged time trying to conceive organize key tests and treatment pathways.",
+        image: "reproductive-3",
+        imageAlt: "Dr. Jiamin Luo reproductive medicine specialist portrait",
+      },
+      {
+        name: "Dr. Qihang Sun",
+        title: "Chief Physician",
+        specialty,
+        hospital: "Hangzhou male fertility and assisted reproduction collaboration center",
+        credentials: ["22+ years clinical experience", "Male-factor infertility review", "Semen analysis and sperm retrieval pathway assessment"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Focuses on male-factor infertility, abnormal semen parameters, and sperm retrieval decisions, clarifying when additional andrology or lab review is needed.",
+        image: "reproductive-4",
+        imageAlt: "Dr. Qihang Sun reproductive medicine specialist portrait",
+      },
+      {
+        name: "Prof. Chengyuan He",
+        title: "Professor / Chief Physician",
+        specialty,
+        hospital: "Shenzhen international reproductive medicine consultation center",
+        credentials: ["30+ years clinical experience", "Complex fertility case MDT review", "Embryo quality and recurrent pregnancy loss planning"],
+        tags: ["Written review", "Video consult", "Multilingual support"],
+        bio: "Supports patients after multiple failed cycles, unstable embryo quality, or recurrent pregnancy loss by comparing testing, medication, and lab strategy options.",
+        image: "reproductive-5",
+        imageAlt: "Prof. Chengyuan He reproductive medicine specialist portrait",
       },
     ];
   }
