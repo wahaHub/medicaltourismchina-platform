@@ -15,6 +15,12 @@ export default function OnlineConsultationSection() {
       onClick={() => navigate("/telemedicine")}
     >
       <div className="container relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div className="mb-12 text-center">
+          <h2 className="mb-8 mt-4 text-xl font-bold text-[#1DA78A] sm:text-2xl md:text-3xl">
+            {t("homepage.onlineConsultation.sectionTitle")}
+          </h2>
+        </div>
+
         <div className="overflow-hidden rounded-2xl bg-[#F0F4F3] shadow-[0_18px_50px_rgba(15,99,142,0.08)]">
           <div className="grid items-center gap-0 lg:grid-cols-[0.92fr_1.08fr]">
             <ScrollReveal direction="up" duration={0.75} className="relative z-20">
