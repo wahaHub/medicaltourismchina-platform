@@ -1,10 +1,11 @@
-import { ChevronLeft, ChevronRight } from "lucide-react";
+import { ChevronLeft, ChevronRight, ExternalLink, Star } from "lucide-react";
 import { useState, useEffect } from "react";
 import { useLanguage } from "@/contexts/LanguageContext";
 import ProgressiveImage from "@/components/ProgressiveImage";
 
 // CloudFront base URL for progressive image loading
 const LOW_MEDIA_BASE = `${(import.meta.env.VITE_PUBLIC_MEDIA_BASE_URL || 'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev').replace(/\/+$/, '')}/low`;
+const TRUSTPILOT_PROFILE_URL = "https://www.trustpilot.com/review/medicaltourismchina.health";
 
 export default function TestimonialsSection() {
   const { t } = useLanguage();
@@ -232,6 +233,19 @@ export default function TestimonialsSection() {
                 {t('homepage.testimonials.reviewsBadge')}
               </p>
             </div>
+          </div>
+          <div className="mt-5 flex justify-center">
+            <a
+              href={TRUSTPILOT_PROFILE_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 rounded-full border border-white/35 bg-white/12 px-4 py-2 text-sm font-semibold text-white shadow-sm backdrop-blur transition-colors hover:bg-white/20"
+              aria-label="Review Medora Health on Trustpilot"
+            >
+              <Star className="h-4 w-4 fill-current text-[#00B67A]" />
+              Review us on Trustpilot
+              <ExternalLink className="h-3.5 w-3.5" />
+            </a>
           </div>
         </div>
 
