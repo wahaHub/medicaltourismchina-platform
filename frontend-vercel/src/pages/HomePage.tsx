@@ -10,6 +10,7 @@ import { setPageSeo } from "@/utils/seo";
 
 const OnlineConsultationSection = lazy(() => import("@/components/home-v2/OnlineConsultationSection"));
 const Footer = lazy(() => import("@/components/Footer"));
+const FeaturedInSection = lazy(() => import("@/components/home-v2/FeaturedInSection"));
 const WhyMedoraSection = lazy(() => import("@/components/home-v2/WhyMedoraSection"));
 const MedicalServicesGrid = lazy(() => import("@/components/home-v2/MedicalServicesGrid"));
 const WhyChooseChinaHome = lazy(() => import("@/components/home-v2/WhyChooseChinaHome"));
@@ -37,6 +38,9 @@ const HomePage = () => {
       <HeroSection />
 
       <Suspense fallback={null}>
+        {/* Featured Media Section */}
+        <FeaturedInSection />
+
         {/* Online Consultation / Second Opinion Section */}
         <OnlineConsultationSection />
 
