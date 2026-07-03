@@ -28,8 +28,11 @@ export default function FeaturedInSection() {
                 As featured in
               </p>
               <h2 id="featured-in-heading" className="mt-2 text-xl font-bold leading-tight text-[#003B5C] sm:text-2xl">
-                International media have interviewed Medora Health
+                Medora Health in the media
               </h2>
+              <p className="mt-2 text-sm font-medium leading-relaxed text-slate-500">
+                Selected media coverage and press mentions.
+              </p>
             </div>
 
             <ul className="grid grid-cols-1 gap-3 sm:grid-cols-3">
