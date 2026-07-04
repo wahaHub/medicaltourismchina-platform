@@ -1,4 +1,5 @@
 import bloombergLogo from "@/img/bloomberg-logo.png";
+import cgtnAmericaLogo from "@/img/cgtn-america-logo.jpg";
 import cnnLogo from "@/img/cnn-logo.svg";
 import zaobaoLogo from "@/img/lianhe-zaobao-logo.png";
 
@@ -12,11 +13,18 @@ const featuredLogos = [
     name: "Lianhe Zaobao",
     src: zaobaoLogo,
     className: "h-10 sm:h-11",
+    href: "https://www.zaobao.com.sg/news/china/story20260524-8916502?utm_source=ios-share&utm_medium=app",
   },
   {
     name: "Bloomberg",
     src: bloombergLogo,
     className: "h-10 sm:h-11",
+  },
+  {
+    name: "CGTN America",
+    src: cgtnAmericaLogo,
+    className: "h-14 sm:h-16 rounded-[4px]",
+    href: "https://www.youtube.com/watch?app=desktop&v=RnsjnLuLtf8&ra=m",
   },
 ];
 
@@ -38,17 +46,23 @@ export default function FeaturedInSection() {
               </p>
             </div>
 
-            <ul className="grid grid-cols-1 gap-3 sm:grid-cols-3">
+            <ul className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-4">
               {featuredLogos.map((logo) => (
                 <li key={logo.name}>
-                  <div className="flex h-24 items-center justify-center rounded-[8px] border border-slate-100 bg-white px-5 shadow-sm transition-transform duration-300 hover:-translate-y-0.5">
+                  <a
+                    href={logo.href ?? undefined}
+                    target={logo.href ? "_blank" : undefined}
+                    rel={logo.href ? "noreferrer" : undefined}
+                    aria-label={logo.href ? `Read Medora Health coverage in ${logo.name}` : logo.name}
+                    className={`flex h-24 items-center justify-center rounded-[8px] border border-slate-100 bg-white px-5 shadow-sm transition-transform duration-300 hover:-translate-y-0.5 ${logo.href ? "cursor-pointer" : "pointer-events-none"}`}
+                  >
                     <img
                       src={logo.src}
                       alt={logo.name}
                       className={`max-w-[170px] object-contain ${logo.className}`}
                       loading="lazy"
                     />
-                  </div>
+                  </a>
                 </li>
               ))}
             </ul>
