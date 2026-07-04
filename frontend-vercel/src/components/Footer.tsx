@@ -4,6 +4,7 @@ import type { TranslationKey } from "@/i18n";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { Link, useLocation } from "react-router-dom";
 import { handleInternalScroll } from "@/utils/routeScroll";
+import { PRE_DEPARTURE_GUIDE_URL } from "@/config/media";
 
 type FooterLinkItem =
   | {
@@ -63,7 +64,7 @@ const Footer = () => {
   const resourceLinks: FooterLinkItem[] = [
     { key: "footer.faq", href: "/faq" },
     { key: "footer.visaInformation", href: "/visa" },
-    { key: "footer.patientGuide", href: "/pre-departure-guide.pdf", external: true, download: true },
+    { key: "footer.patientGuide", href: PRE_DEPARTURE_GUIDE_URL, external: true, download: true },
     { key: "footer.patientStories", href: "/#testimonials" },
   ];
 

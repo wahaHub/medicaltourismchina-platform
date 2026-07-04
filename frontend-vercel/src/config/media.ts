@@ -27,6 +27,7 @@ const homepageHeroVideoUrl =
 
 export const PUBLIC_MEDIA_BASE_URL = publicMediaBaseUrl;
 export const LOW_MEDIA_BASE_URL = `${publicMediaBaseUrl}/low`;
+export const PRE_DEPARTURE_GUIDE_URL = `${publicMediaBaseUrl}/documents/pre-departure-guide.pdf`;
 
 // CDN 配置（生产环境）
 const PRODUCTION_CONFIG: MediaConfig = {

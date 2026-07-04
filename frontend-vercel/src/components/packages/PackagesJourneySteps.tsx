@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 
 import { useLanguage } from "@/contexts/LanguageContext";
 import { Button } from "@/components/ui/button";
+import { PRE_DEPARTURE_GUIDE_URL } from "@/config/media";
 import { cn } from "@/lib/utils";
 import journeyStep1 from "@/img/step1.jpg";
 import journeyStep2 from "@/img/step2.jpg";
@@ -329,7 +330,7 @@ export default function PackagesJourneySteps() {
                       {t("journeySteps.step3.bodyBefore")}
                       <InlineLink href={SERVICE_PACKAGE_HREF}>{t("journeySteps.step3.linkPackage")}</InlineLink>
                       {t("journeySteps.step3.bodyMid")}
-                      <InlineLink href="/pre-departure-guide.pdf">{t("journeySteps.step3.linkGuide")}</InlineLink>
+                      <InlineLink href={PRE_DEPARTURE_GUIDE_URL}>{t("journeySteps.step3.linkGuide")}</InlineLink>
                       {t("journeySteps.step3.bodyAfter")}
                     </p>
                   )}

@@ -83,7 +83,7 @@ describe("Footer", () => {
     expect(screen.getByRole("heading", { name: "Resources" })).toBeTruthy();
     expect(screen.getByRole("link", { name: "FAQ" }).getAttribute("href")).toBe("/faq");
     expect(screen.getByRole("link", { name: "Visa Information" }).getAttribute("href")).toBe("/visa");
-    expect(screen.getByRole("link", { name: "Pre-Departure Patient Guidelines" }).getAttribute("href")).toBe("/pre-departure-guide.pdf");
+    expect(screen.getByRole("link", { name: "Pre-Departure Patient Guidelines" }).getAttribute("href")).toBe("https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev/documents/pre-departure-guide.pdf");
     expect(screen.getByRole("link", { name: "Patient Stories" }).getAttribute("href")).toBe("/#testimonials");
 
     expect(screen.getByRole("heading", { name: "Work With Us" })).toBeTruthy();
