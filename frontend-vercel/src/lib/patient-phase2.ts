@@ -22,6 +22,62 @@ export function formatMoney(amount: string, currency: string, locale = 'en-US') 
   return `${amount} ${currency}`;
 }
 
+type MoneyDisplayLocale = 'en' | 'zh' | 'es' | 'fr' | 'de' | 'ru';
+
+const MONEY_LOCALE_CONFIG: Record<MoneyDisplayLocale, { locale: string; currency: string; prefix?: string; suffix?: string }> = {
+  en: { locale: 'en-US', currency: 'USD', prefix: 'Approx. ' },
+  zh: { locale: 'zh-CN', currency: 'CNY', prefix: '约 ' },
+  es: { locale: 'es-ES', currency: 'EUR', prefix: 'Aprox. ' },
+  fr: { locale: 'fr-FR', currency: 'EUR', prefix: 'Env. ' },
+  de: { locale: 'de-DE', currency: 'EUR', prefix: 'Ca. ' },
+  ru: { locale: 'ru-RU', currency: 'RUB', prefix: 'Примерно ' },
+};
+
+const USD_RATES: Record<string, number> = {
+  USD: 1,
+  CNY: 7.1,
+  EUR: 0.92,
+  RUB: 90,
+};
+
+function normalizeMoneyLocale(languageCode: string): MoneyDisplayLocale {
+  if (languageCode === 'zh' || languageCode === 'zh-CN') return 'zh';
+  if (languageCode === 'es' || languageCode === 'fr' || languageCode === 'de' || languageCode === 'ru') return languageCode;
+  return 'en';
+}
+
+export function formatLocalizedPackageMoney(amount: string, currency: string, languageCode: string) {
+  const numeric = Number(amount);
+  const sourceCurrency = currency.toUpperCase();
+  const display = MONEY_LOCALE_CONFIG[normalizeMoneyLocale(languageCode)];
+
+  if (!Number.isFinite(numeric)) {
+    return `${amount} ${currency}`;
+  }
+
+  if (sourceCurrency === display.currency) {
+    return formatMoney(amount, sourceCurrency, display.locale);
+  }
+
+  const sourceRate = USD_RATES[sourceCurrency];
+  const targetRate = USD_RATES[display.currency];
+
+  if (!sourceRate || !targetRate) {
+    return formatMoney(amount, sourceCurrency, display.locale);
+  }
+
+  const amountUsd = numeric / sourceRate;
+  const converted = amountUsd * targetRate;
+  const rounded = Math.round(converted);
+  const formatted = new Intl.NumberFormat(display.locale, {
+    style: 'currency',
+    currency: display.currency,
+    maximumFractionDigits: 0,
+  }).format(rounded);
+
+  return `${display.prefix ?? ''}${formatted}${display.suffix ?? ''}`;
+}
+
 export function formatDateTime(value: string | null | undefined, locale = 'en-US', translate?: Translate) {
   if (!value) {
     return translate?.('dashboard.common.notAvailable') ?? 'Not available';

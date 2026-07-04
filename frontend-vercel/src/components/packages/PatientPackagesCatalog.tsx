@@ -5,12 +5,14 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 import { usePatientAuth } from '@/hooks/usePatientAuth';
 import { usePatientEntry } from '@/hooks/usePatientEntry';
 import { useCreatePatientOrder, usePatientPackages } from '@/hooks/usePatientPhase2';
-import { createOrderIdempotencyKey, formatMoney, renderStructuredValue } from '@/lib/patient-phase2';
+import { useLanguage } from '@/contexts/LanguageContext';
+import { createOrderIdempotencyKey, formatLocalizedPackageMoney, renderStructuredValue } from '@/lib/patient-phase2';
 
 export default function PatientPackagesCatalog() {
   const navigate = useNavigate();
   const { isAuthenticated } = usePatientAuth();
   const { openWidget } = usePatientEntry();
+  const { currentLanguage } = useLanguage();
   const packagesQuery = usePatientPackages({ page: 1, limit: 50, enabled: isAuthenticated });
   const createOrderMutation = useCreatePatientOrder();
 
@@ -86,7 +88,7 @@ export default function PatientPackagesCatalog() {
                 <div className="grid h-full md:grid-cols-[220px_1fr]">
                   <div className="h-full bg-gradient-to-br from-teal-600 via-cyan-600 to-sky-700 p-6 text-white">
                     <div className="text-xs uppercase tracking-[0.2em] text-teal-100">{pkg.type}</div>
-                    <div className="mt-4 text-3xl font-semibold">{formatMoney(pkg.price, pkg.currency)}</div>
+                    <div className="mt-4 text-3xl font-semibold">{formatLocalizedPackageMoney(pkg.price, pkg.currency, currentLanguage.code)}</div>
                     <div className="mt-4 text-sm leading-6 text-teal-50">
                       CRM-published package
                     </div>

@@ -65,8 +65,6 @@ type ExpertCard = {
   featured?: boolean;
 };
 
-type RosterLocale = "en" | "zh";
-
 type PriceDisplay = {
   locale: string;
   currency: string;
@@ -158,6 +156,7 @@ type PageCopy = {
     customTitle: string;
     customBody: string;
     customCta: string;
+    featuredLabel: string;
     experts: ExpertCard[];
   };
   review: {
@@ -172,6 +171,7 @@ type PageCopy = {
     cta: string;
     headers: string[];
     rows: string[][];
+    a11yDescription: string;
   };
   process: {
     label: string;
@@ -225,7 +225,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
     expertShowcase: {
       label: "Specialist matching",
       title: "Selected top Chinese specialists",
-      body: "Medora matches your case with experienced Chinese specialists who can support written review, video consultation, and treatment direction discussion.",
+      body: "Medora matches your case with top Chinese specialists who can support written review, video consultation, and treatment direction discussion.",
       tabs: ["Oncology", "Cardiology", "Neurology", "Orthopedics", "Reproductive medicine"],
       moreTabs: ["Aesthetic surgery", "Stem cell therapy", "Dentistry", "Pediatrics", "Urology", "Endocrinology", "Ophthalmology"],
       moreLabel: "More",
@@ -236,6 +236,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
       customTitle: "Need a different specialist?",
       customBody: "Tell us your diagnosis, records, preferred specialty, and consultation goal. Medora will suggest a more suitable doctor or specialist team.",
       customCta: "Tell us what you need",
+      featuredLabel: "Featured match",
       experts: [
         {
           name: "Prof. Zhang Ming",
@@ -396,6 +397,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
       title: "Compare review options",
       cta: "Compare review options",
       headers: ["Feature", "Written Review", "Video Consultation", "Multidisciplinary Review"],
+      a11yDescription: "Side-by-side table comparing the available online consultation review options.",
       rows: [
         ["Medical record intake", "Yes", "Yes", "Yes"],
         ["Case summary preparation", "Yes", "Yes", "Yes"],
@@ -495,6 +497,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
       customTitle: "想找其他类型的医生？",
       customBody: "告诉我们您的诊断、病历资料、希望咨询的方向和目标，我们为您匹配更合适的医生或专家团队。",
       customCta: "告诉我们您需要什么医生",
+      featuredLabel: "重点匹配",
       experts: [
         {
           name: "张明教授",
@@ -613,6 +616,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
       title: "比较第二诊疗意见方案",
       cta: "比较服务方案",
       headers: ["项目", "书面审阅", "视频问诊", "多学科评估"],
+      a11yDescription: "用于比较在线第二诊疗意见方案的表格。",
       rows: [
         ["病历接收", "是", "是", "是"],
         ["病例摘要准备", "是", "是", "是"],
@@ -948,6 +952,461 @@ TELEMEDICINE_COPY.ru = {
   },
 };
 
+TELEMEDICINE_COPY.es.expertShowcase.featuredLabel = "Coincidencia destacada";
+TELEMEDICINE_COPY.fr.expertShowcase.featuredLabel = "Correspondance recommandée";
+TELEMEDICINE_COPY.de.expertShowcase.featuredLabel = "Empfohlene Zuordnung";
+TELEMEDICINE_COPY.ru.expertShowcase.featuredLabel = "Рекомендуемый подбор";
+
+TELEMEDICINE_COPY.es.review.plans = [
+  {
+    ...TELEMEDICINE_COPY.en.review.plans[0],
+    badge: "Básico",
+    title: "Revisión escrita",
+    chips: ["Informe escrito", "Revisión de registros", "48-72 horas"],
+    cta: "Reservar",
+    detailsCta: "Ver detalles",
+    modal: {
+      title: "Revisión escrita por especialista",
+      body: "Un especialista seleccionado revisa sus registros médicos y prepara una segunda opinión escrita para ayudarle a entender el diagnóstico, el plan de tratamiento y los siguientes pasos.",
+      bestForLabel: "Adecuado para",
+      bestFor: "Pacientes que ya tienen informes médicos y desean otra perspectiva experta antes de tomar una decisión de tratamiento.",
+      receiveLabel: "Qué recibe",
+      receive: ["Resumen del diagnóstico y del caso", "Hallazgos clave de sus registros", "Observaciones del especialista", "Consideraciones de tratamiento", "Preguntas sugeridas para su médico local", "Siguientes pasos recomendados", "Nota sobre posibilidades de tratamiento en China, si aplica"],
+      processLabel: "Proceso habitual",
+      process: ["Suba sus registros médicos", "Medora organiza el resumen del caso", "Un especialista revisa su caso", "Recibe el informe escrito de segunda opinión"],
+      turnaroundLabel: "Tiempo de entrega",
+      turnaround: "Normalmente 48-72 horas después de recibir registros completos.",
+      cta: "Iniciar revisión escrita",
+      imageAlt: "Especialista chino revisando registros médicos e informe escrito",
+    },
+  },
+  {
+    ...TELEMEDICINE_COPY.en.review.plans[1],
+    badge: "Más popular",
+    title: "Consulta por video",
+    chips: ["Videollamada", "Resumen escrito", "Preguntas al médico"],
+    cta: "Reservar",
+    detailsCta: "Ver detalles",
+    modal: {
+      title: "Consulta por video + resumen escrito",
+      body: "Hable por video con un especialista seleccionado, con apoyo del coordinador médico de Medora, y reciba un resumen escrito después de la consulta.",
+      bestForLabel: "Adecuado para",
+      bestFor: "Pacientes que quieren hacer preguntas directamente, aclarar opciones de tratamiento y comprender mejor sus registros médicos.",
+      receiveLabel: "Qué recibe",
+      receive: ["Revisión de registros antes de la llamada", "Consulta por video de 20-30 minutos", "Preguntas clave preparadas con antelación", "Comentarios principales del médico", "Resumen escrito de la consulta", "Preguntas de seguimiento y próximos pasos", "Discusión opcional sobre tratamiento en China"],
+      processLabel: "Proceso habitual",
+      process: ["Suba sus registros", "Medora prepara el resumen del caso", "Se agenda la consulta", "Habla con el especialista por video", "Recibe un resumen escrito posterior"],
+      turnaroundLabel: "Programación",
+      turnaround: "Normalmente se agenda en 3-5 días hábiles tras recibir registros completos.",
+      cta: "Reservar consulta por video",
+      imageAlt: "Paciente internacional hablando por video con un médico chino",
+    },
+  },
+  {
+    ...TELEMEDICINE_COPY.en.review.plans[2],
+    badge: "Revisión avanzada",
+    title: "Revisión multidisciplinaria",
+    chips: ["Varios especialistas", "Casos complejos", "Resumen avanzado"],
+    cta: "Solicitar",
+    detailsCta: "Ver detalles",
+    modal: {
+      title: "Revisión multidisciplinaria del caso",
+      body: "Para casos médicos complejos, Medora coordina una revisión más profunda con varios especialistas cuando es apropiado.",
+      bestForLabel: "Adecuado para",
+      bestFor: "Pacientes con cáncer complejo, cirugía mayor, enfermedades neurológicas, decisiones cardíacas o recomendaciones de tratamiento contradictorias.",
+      receiveLabel: "Qué recibe",
+      receive: ["Admisión completa del caso", "Revisión de registros, imágenes y patología", "Discusión multispecialidad del caso", "Resumen avanzado de segunda opinión", "Consideraciones sobre la ruta de tratamiento", "Opciones quirúrgicas, farmacológicas o intervencionistas", "Preguntas para discutir con su médico local", "Recomendación de acceso hospitalario en China, si es adecuada"],
+      processLabel: "Proceso habitual",
+      process: ["Envíe registros médicos completos", "Medora prepara un expediente estructurado", "Especialistas relevantes revisan el caso", "Se prepara un resumen multidisciplinario", "Medora conversa con usted sobre los posibles próximos pasos"],
+      turnaroundLabel: "Tiempo de entrega",
+      turnaround: "Normalmente 5-7 días hábiles después de recibir registros completos.",
+      cta: "Solicitar revisión avanzada",
+      imageAlt: "Reunión multidisciplinaria en un hospital chino revisando imágenes y tratamiento",
+    },
+  },
+];
+
+TELEMEDICINE_COPY.fr.review.plans = [
+  {
+    ...TELEMEDICINE_COPY.en.review.plans[0],
+    badge: "Essentiel",
+    title: "Avis écrit",
+    chips: ["Rapport écrit", "Étude du dossier", "48-72 heures"],
+    cta: "Réserver",
+    detailsCta: "Voir détails",
+    modal: {
+      title: "Avis écrit par spécialiste",
+      body: "Un spécialiste sélectionné examine vos dossiers médicaux et fournit un deuxième avis écrit pour vous aider à mieux comprendre le diagnostic, le plan de traitement et les prochaines étapes.",
+      bestForLabel: "Idéal pour",
+      bestFor: "Les patients disposant déjà de rapports médicaux qui souhaitent un autre regard expert avant une décision thérapeutique.",
+      receiveLabel: "Ce que vous recevez",
+      receive: ["Résumé du diagnostic et du dossier", "Points clés issus de vos documents", "Observations du spécialiste", "Éléments à considérer pour le traitement", "Questions suggérées pour votre médecin local", "Prochaines étapes recommandées", "Note sur les possibilités de traitement en Chine, le cas échéant"],
+      processLabel: "Processus habituel",
+      process: ["Téléversez vos dossiers médicaux", "Medora organise le résumé du cas", "Un spécialiste examine votre dossier", "Vous recevez le rapport écrit de deuxième avis"],
+      turnaroundLabel: "Délai",
+      turnaround: "Généralement 48-72 heures après réception d'un dossier complet.",
+      cta: "Commencer l'avis écrit",
+      imageAlt: "Spécialiste chinois examinant des dossiers médicaux et un rapport écrit",
+    },
+  },
+  {
+    ...TELEMEDICINE_COPY.en.review.plans[1],
+    badge: "Le plus choisi",
+    title: "Consultation vidéo",
+    chips: ["Appel vidéo", "Résumé écrit", "Questions au médecin"],
+    cta: "Réserver",
+    detailsCta: "Voir détails",
+    modal: {
+      title: "Consultation vidéo + résumé écrit",
+      body: "Échangez en vidéo avec un spécialiste sélectionné, avec le soutien du coordinateur médical Medora, puis recevez un résumé écrit.",
+      bestForLabel: "Idéal pour",
+      bestFor: "Les patients qui veulent poser des questions directement, clarifier les options de traitement et mieux comprendre leurs dossiers.",
+      receiveLabel: "Ce que vous recevez",
+      receive: ["Revue du dossier avant l'appel", "Consultation vidéo de 20-30 minutes", "Questions clés préparées à l'avance", "Commentaires principaux du médecin", "Résumé écrit de la consultation", "Questions de suivi et prochaines étapes", "Discussion optionnelle sur un traitement en Chine"],
+      processLabel: "Processus habituel",
+      process: ["Téléversez vos documents", "Medora prépare le résumé du cas", "Votre consultation est programmée", "Vous parlez au spécialiste en vidéo", "Vous recevez un résumé écrit de suivi"],
+      turnaroundLabel: "Planification",
+      turnaround: "Généralement programmée sous 3-5 jours ouvrés après réception du dossier complet.",
+      cta: "Réserver une consultation vidéo",
+      imageAlt: "Patient international en consultation vidéo avec un médecin chinois",
+    },
+  },
+  {
+    ...TELEMEDICINE_COPY.en.review.plans[2],
+    badge: "Avis avancé",
+    title: "Revue multidisciplinaire",
+    chips: ["Plusieurs spécialistes", "Cas complexes", "Synthèse avancée"],
+    cta: "Demander",
+    detailsCta: "Voir détails",
+    modal: {
+      title: "Revue multidisciplinaire du dossier",
+      body: "Pour les cas médicaux complexes, Medora coordonne, si approprié, une analyse approfondie impliquant plusieurs spécialistes.",
+      bestForLabel: "Idéal pour",
+      bestFor: "Les patients confrontés à un cancer complexe, une chirurgie majeure, des troubles neurologiques, des décisions cardiaques ou des recommandations contradictoires.",
+      receiveLabel: "Ce que vous recevez",
+      receive: ["Recueil complet du dossier", "Revue des documents, imageries et pathologie", "Discussion entre plusieurs spécialités", "Synthèse avancée de deuxième avis", "Considérations sur le parcours thérapeutique", "Options chirurgicales, médicamenteuses ou interventionnelles", "Questions à discuter avec votre médecin local", "Recommandation d'accès hospitalier en Chine si adaptée"],
+      processLabel: "Processus habituel",
+      process: ["Soumettez un dossier médical complet", "Medora prépare un dossier structuré", "Les spécialistes concernés examinent le cas", "Une synthèse multidisciplinaire est préparée", "Medora discute avec vous des prochaines étapes possibles"],
+      turnaroundLabel: "Délai",
+      turnaround: "Généralement 5-7 jours ouvrés après réception du dossier complet.",
+      cta: "Demander l'avis avancé",
+      imageAlt: "Réunion multidisciplinaire dans un hôpital chinois examinant imagerie et traitements",
+    },
+  },
+];
+
+TELEMEDICINE_COPY.de.review.plans = [
+  {
+    ...TELEMEDICINE_COPY.en.review.plans[0],
+    badge: "Basis",
+    title: "Schriftliche Prüfung",
+    chips: ["Schriftlicher Bericht", "Unterlagenprüfung", "48-72 Stunden"],
+    cta: "Buchen",
+    detailsCta: "Details",
+    modal: {
+      title: "Schriftliche Fachprüfung",
+      body: "Ein ausgewählter Spezialist prüft Ihre medizinischen Unterlagen und erstellt eine schriftliche Zweitmeinung zu Diagnose, Behandlungsplan und nächsten Schritten.",
+      bestForLabel: "Geeignet für",
+      bestFor: "Patienten mit vorhandenen Befunden, die vor einer Therapieentscheidung eine weitere Experteneinschätzung wünschen.",
+      receiveLabel: "Sie erhalten",
+      receive: ["Diagnose- und Fallzusammenfassung", "Wichtige Befunde aus Ihren Unterlagen", "Beobachtungen des Spezialisten", "Therapieüberlegungen", "Fragen für Ihren lokalen Arzt", "Empfohlene nächste Schritte", "Hinweis zu Behandlungsmöglichkeiten in China, falls relevant"],
+      processLabel: "Typischer Ablauf",
+      process: ["Laden Sie Ihre Unterlagen hoch", "Medora strukturiert die Fallzusammenfassung", "Ein Spezialist prüft den Fall", "Sie erhalten den schriftlichen Zweitmeinungsbericht"],
+      turnaroundLabel: "Bearbeitungszeit",
+      turnaround: "In der Regel 48-72 Stunden nach Eingang vollständiger Unterlagen.",
+      cta: "Schriftliche Prüfung starten",
+      imageAlt: "Chinesischer Spezialist prüft medizinische Unterlagen und schriftlichen Bericht",
+    },
+  },
+  {
+    ...TELEMEDICINE_COPY.en.review.plans[1],
+    badge: "Am beliebtesten",
+    title: "Videokonsultation",
+    chips: ["Videoanruf", "Schriftliche Zusammenfassung", "Arztfragen"],
+    cta: "Buchen",
+    detailsCta: "Details",
+    modal: {
+      title: "Videokonsultation + schriftliche Zusammenfassung",
+      body: "Sprechen Sie per Video mit einem ausgewählten Spezialisten, begleitet durch Medoras medizinische Koordination, und erhalten Sie danach eine schriftliche Zusammenfassung.",
+      bestForLabel: "Geeignet für",
+      bestFor: "Patienten, die direkte Fragen stellen, Therapieoptionen klären und ihre Befunde besser verstehen möchten.",
+      receiveLabel: "Sie erhalten",
+      receive: ["Unterlagenprüfung vor dem Termin", "20-30-minütige Videokonsultation", "Vorbereitete Kernfragen", "Wichtigste Kommentare des Arztes", "Schriftliche Konsultationszusammenfassung", "Folgefragen und nächste Schritte", "Optionale Diskussion zur Behandlung in China"],
+      processLabel: "Typischer Ablauf",
+      process: ["Laden Sie Ihre Unterlagen hoch", "Medora bereitet die Fallzusammenfassung vor", "Der Termin wird geplant", "Sie sprechen per Video mit dem Spezialisten", "Sie erhalten eine schriftliche Nachbereitung"],
+      turnaroundLabel: "Terminplanung",
+      turnaround: "In der Regel innerhalb von 3-5 Werktagen nach Eingang vollständiger Unterlagen.",
+      cta: "Videokonsultation buchen",
+      imageAlt: "Internationaler Patient spricht per Video mit einem chinesischen Arzt",
+    },
+  },
+  {
+    ...TELEMEDICINE_COPY.en.review.plans[2],
+    badge: "Erweiterte Prüfung",
+    title: "Multidisziplinäre Prüfung",
+    chips: ["Mehrere Spezialisten", "Komplexe Fälle", "Erweiterte Zusammenfassung"],
+    cta: "Anfragen",
+    detailsCta: "Details",
+    modal: {
+      title: "Multidisziplinäre Fallprüfung",
+      body: "Bei komplexen medizinischen Fällen koordiniert Medora, wenn sinnvoll, eine vertiefte Prüfung durch mehrere Spezialisten.",
+      bestForLabel: "Geeignet für",
+      bestFor: "Patienten mit komplexer Krebstherapie, großen Operationen, neurologischen Erkrankungen, kardiologischen Entscheidungen oder widersprüchlichen Empfehlungen.",
+      receiveLabel: "Sie erhalten",
+      receive: ["Umfassende Fallaufnahme", "Prüfung von Unterlagen, Bildgebung und Pathologie", "Fallbesprechung durch mehrere Fachrichtungen", "Erweiterte schriftliche Zweitmeinung", "Überlegungen zum Behandlungspfad", "Chirurgische, medikamentöse und interventionelle Optionen", "Fragen für Ihren lokalen Arzt", "Empfehlung zum Zugang zu chinesischen Kliniken, falls passend"],
+      processLabel: "Typischer Ablauf",
+      process: ["Reichen Sie vollständige Unterlagen ein", "Medora erstellt eine strukturierte Falldatei", "Relevante Spezialisten prüfen den Fall", "Eine multidisziplinäre Zusammenfassung wird erstellt", "Medora bespricht mögliche nächste Schritte mit Ihnen"],
+      turnaroundLabel: "Bearbeitungszeit",
+      turnaround: "In der Regel 5-7 Werktage nach Eingang vollständiger Unterlagen.",
+      cta: "Erweiterte Prüfung anfragen",
+      imageAlt: "Multidisziplinäres Treffen in einem chinesischen Krankenhaus zu Bildgebung und Therapiepfaden",
+    },
+  },
+];
+
+TELEMEDICINE_COPY.ru.review.plans = [
+  {
+    ...TELEMEDICINE_COPY.en.review.plans[0],
+    badge: "Базовый",
+    title: "Письменный обзор",
+    chips: ["Письменный отчет", "Анализ документов", "48-72 часа"],
+    cta: "Записаться",
+    detailsCta: "Подробнее",
+    modal: {
+      title: "Письменный обзор специалиста",
+      body: "Выбранный специалист изучает ваши медицинские документы и готовит письменное второе мнение, чтобы помочь понять диагноз, план лечения и следующие шаги.",
+      bestForLabel: "Подходит для",
+      bestFor: "Пациентов, у которых уже есть медицинские отчеты и которым нужен еще один экспертный взгляд перед решением о лечении.",
+      receiveLabel: "Что вы получите",
+      receive: ["Резюме диагноза и случая", "Ключевые выводы из документов", "Наблюдения специалиста", "Соображения по лечению", "Вопросы для местного врача", "Рекомендуемые следующие шаги", "Комментарий о возможности лечения в Китае, если актуально"],
+      processLabel: "Обычный процесс",
+      process: ["Загрузите медицинские документы", "Medora оформляет резюме случая", "Специалист изучает ваш случай", "Вы получаете письменный отчет второго мнения"],
+      turnaroundLabel: "Срок",
+      turnaround: "Обычно 48-72 часа после получения полного комплекта документов.",
+      cta: "Начать письменный обзор",
+      imageAlt: "Китайский специалист изучает медицинские документы и письменный отчет",
+    },
+  },
+  {
+    ...TELEMEDICINE_COPY.en.review.plans[1],
+    badge: "Популярно",
+    title: "Видеоконсультация",
+    chips: ["Видеозвонок", "Письменное резюме", "Вопросы врачу"],
+    cta: "Записаться",
+    detailsCta: "Подробнее",
+    modal: {
+      title: "Видеоконсультация + письменное резюме",
+      body: "Поговорите по видео с выбранным специалистом при поддержке медицинского координатора Medora и получите письменное резюме после консультации.",
+      bestForLabel: "Подходит для",
+      bestFor: "Пациентов, которые хотят задать вопросы напрямую, уточнить варианты лечения и лучше понять медицинские документы.",
+      receiveLabel: "Что вы получите",
+      receive: ["Анализ документов до звонка", "Видеоконсультация 20-30 минут", "Заранее подготовленные ключевые вопросы", "Основные комментарии врача", "Письменное резюме консультации", "Последующие вопросы и шаги", "Дополнительное обсуждение лечения в Китае"],
+      processLabel: "Обычный процесс",
+      process: ["Загрузите документы", "Medora готовит резюме случая", "Консультация назначается", "Вы общаетесь со специалистом по видео", "Вы получаете письменное резюме"],
+      turnaroundLabel: "Назначение",
+      turnaround: "Обычно назначается в течение 3-5 рабочих дней после получения полного комплекта документов.",
+      cta: "Записаться на видеоконсультацию",
+      imageAlt: "Иностранный пациент говорит по видео с китайским врачом",
+    },
+  },
+  {
+    ...TELEMEDICINE_COPY.en.review.plans[2],
+    badge: "Расширенный обзор",
+    title: "Междисциплинарный обзор",
+    chips: ["Несколько специалистов", "Сложные случаи", "Расширенное резюме"],
+    cta: "Запросить",
+    detailsCta: "Подробнее",
+    modal: {
+      title: "Междисциплинарный обзор случая",
+      body: "Для сложных медицинских случаев Medora при необходимости координирует более глубокий обзор с участием нескольких специалистов.",
+      bestForLabel: "Подходит для",
+      bestFor: "Пациентов со сложной онкологией, крупной операцией, неврологическими состояниями, кардиологическими решениями или противоречивыми рекомендациями.",
+      receiveLabel: "Что вы получите",
+      receive: ["Полный сбор информации по случаю", "Анализ документов, снимков и патологии", "Обсуждение случая несколькими специальностями", "Расширенное письменное второе мнение", "Соображения по маршруту лечения", "Хирургические, лекарственные и интервенционные варианты", "Вопросы для обсуждения с местным врачом", "Рекомендация доступа к больницам Китая, если подходит"],
+      processLabel: "Обычный процесс",
+      process: ["Отправьте полный комплект документов", "Medora готовит структурированный файл случая", "Соответствующие специалисты изучают случай", "Готовится междисциплинарное резюме", "Medora обсуждает с вами возможные следующие шаги"],
+      turnaroundLabel: "Срок",
+      turnaround: "Обычно 5-7 рабочих дней после получения полного комплекта документов.",
+      cta: "Запросить расширенный обзор",
+      imageAlt: "Междисциплинарная встреча в китайской больнице по снимкам и лечению",
+    },
+  },
+];
+
+TELEMEDICINE_COPY.es.comparison = {
+  label: "Comparación",
+  title: "Compare las opciones de revisión",
+  cta: "Comparar opciones",
+  headers: ["Característica", "Revisión escrita", "Consulta por video", "Revisión multidisciplinaria"],
+  a11yDescription: "Tabla comparativa de las opciones disponibles de consulta en línea.",
+  rows: [
+    ["Recepción de registros", "Sí", "Sí", "Sí"],
+    ["Preparación del resumen", "Sí", "Sí", "Sí"],
+    ["Opinión escrita del especialista", "Sí", "Sí", "Sí"],
+    ["Conversación por video", "No", "Sí", "Opcional / incluida según paquete"],
+    ["Apoyo de coordinador médico", "Sí", "Sí", "Sí"],
+    ["Revisión centrada en cáncer", "Limitada", "Disponible", "Completa"],
+    ["Varios especialistas", "No", "A veces", "Sí"],
+    ["Discusión de ruta terapéutica", "Básica", "Detallada", "Avanzada"],
+    ["Selección de hospital en China", "Opcional", "Opcional", "Incluida si es adecuada"],
+    ["Ideal para", "Segunda opinión general", "Pacientes con preguntas", "Casos complejos"],
+    ["Entrega típica", "48-72 horas", "3-5 días hábiles", "5-7 días hábiles"],
+  ],
+};
+
+TELEMEDICINE_COPY.fr.comparison = {
+  label: "Comparaison",
+  title: "Comparer les options d'avis",
+  cta: "Comparer les options",
+  headers: ["Fonction", "Avis écrit", "Consultation vidéo", "Revue multidisciplinaire"],
+  a11yDescription: "Tableau comparatif des options de consultation en ligne disponibles.",
+  rows: [
+    ["Recueil des dossiers", "Oui", "Oui", "Oui"],
+    ["Préparation du résumé", "Oui", "Oui", "Oui"],
+    ["Avis écrit du spécialiste", "Oui", "Oui", "Oui"],
+    ["Discussion vidéo", "Non", "Oui", "Optionnelle / incluse selon l'offre"],
+    ["Support coordinateur médical", "Oui", "Oui", "Oui"],
+    ["Revue axée cancer", "Limitée", "Disponible", "Complète"],
+    ["Plusieurs spécialistes", "Non", "Parfois", "Oui"],
+    ["Discussion du parcours de traitement", "Basique", "Détaillée", "Avancée"],
+    ["Orientation vers hôpital en Chine", "Optionnelle", "Optionnelle", "Incluse si adaptée"],
+    ["Idéal pour", "Deuxième avis général", "Patients avec questions", "Cas complexes"],
+    ["Délai habituel", "48-72 heures", "3-5 jours ouvrés", "5-7 jours ouvrés"],
+  ],
+};
+
+TELEMEDICINE_COPY.de.comparison = {
+  label: "Vergleich",
+  title: "Optionen vergleichen",
+  cta: "Optionen vergleichen",
+  headers: ["Funktion", "Schriftliche Prüfung", "Videokonsultation", "Multidisziplinäre Prüfung"],
+  a11yDescription: "Vergleichstabelle der verfügbaren Online-Beratungsoptionen.",
+  rows: [
+    ["Unterlagenaufnahme", "Ja", "Ja", "Ja"],
+    ["Fallzusammenfassung", "Ja", "Ja", "Ja"],
+    ["Schriftliche Fachmeinung", "Ja", "Ja", "Ja"],
+    ["Videogespräch", "Nein", "Ja", "Optional / je nach Paket enthalten"],
+    ["Medizinische Koordination", "Ja", "Ja", "Ja"],
+    ["Krebsfokussierte Prüfung", "Begrenzt", "Verfügbar", "Umfassend"],
+    ["Mehrere Spezialisten", "Nein", "Manchmal", "Ja"],
+    ["Behandlungspfad", "Basis", "Detailliert", "Erweitert"],
+    ["Matching mit Klinik in China", "Optional", "Optional", "Enthalten, falls passend"],
+    ["Ideal für", "Allgemeine Zweitmeinung", "Patienten mit Fragen", "Komplexe Fälle"],
+    ["Typische Lieferung", "48-72 Stunden", "3-5 Werktage", "5-7 Werktage"],
+  ],
+};
+
+TELEMEDICINE_COPY.ru.comparison = {
+  label: "Сравнение",
+  title: "Сравнить варианты обзора",
+  cta: "Сравнить варианты",
+  headers: ["Функция", "Письменный обзор", "Видеоконсультация", "Междисциплинарный обзор"],
+  a11yDescription: "Сравнительная таблица доступных вариантов онлайн-консультации.",
+  rows: [
+    ["Прием медицинских документов", "Да", "Да", "Да"],
+    ["Подготовка резюме случая", "Да", "Да", "Да"],
+    ["Письменное мнение специалиста", "Да", "Да", "Да"],
+    ["Видеообсуждение", "Нет", "Да", "Опционально / входит по пакету"],
+    ["Поддержка медицинского координатора", "Да", "Да", "Да"],
+    ["Обзор с фокусом на онкологию", "Ограниченно", "Доступно", "Комплексно"],
+    ["Несколько специалистов", "Нет", "Иногда", "Да"],
+    ["Обсуждение маршрута лечения", "Базовое", "Подробное", "Расширенное"],
+    ["Подбор больницы в Китае", "Опционально", "Опционально", "Включено, если подходит"],
+    ["Лучше всего для", "Общего второго мнения", "Пациентов с вопросами", "Сложных случаев"],
+    ["Типичный срок", "48-72 часа", "3-5 рабочих дней", "5-7 рабочих дней"],
+  ],
+};
+
+TELEMEDICINE_COPY.es.process.steps = [
+  ["Envíe sus registros médicos", "Suba informes de diagnóstico, imágenes, patología, análisis, planes de tratamiento e historial de medicación."],
+  ["Recepción del caso y resumen médico", "El equipo de Medora organiza sus documentos, traduce información clave si hace falta y prepara un resumen estructurado."],
+  ["Revisión o consulta especializada", "Su caso se revisa por un especialista, se discute por video o se evalúa por un equipo multidisciplinario."],
+  ["Reciba su segunda opinión", "Recibe un resumen escrito con observaciones clave, consideraciones de tratamiento y siguientes pasos."],
+  ["Explore tratamiento en China si es adecuado", "Si su caso puede beneficiarse de tratamiento en China, Medora ayuda con hospitales, costos estimados, citas y viaje."],
+];
+
+TELEMEDICINE_COPY.fr.process.steps = [
+  ["Envoyez vos dossiers médicaux", "Téléversez diagnostics, imagerie, pathologie, analyses, plans de traitement et historique médicamenteux."],
+  ["Recueil du cas et résumé médical", "L'équipe Medora organise vos documents, traduit les informations clés si nécessaire et prépare un résumé structuré."],
+  ["Avis ou consultation spécialiste", "Votre dossier est examiné par un spécialiste, discuté en vidéo ou évalué par une équipe multidisciplinaire."],
+  ["Recevez votre deuxième avis", "Vous recevez une synthèse écrite avec observations clés, considérations thérapeutiques et prochaines étapes."],
+  ["Explorez l'accès au traitement en Chine si adapté", "Si votre cas peut bénéficier d'un traitement en Chine, Medora aide pour les hôpitaux, coûts, rendez-vous et voyage."],
+];
+
+TELEMEDICINE_COPY.de.process.steps = [
+  ["Medizinische Unterlagen einreichen", "Laden Sie Diagnosen, Bildgebung, Pathologie, Laborwerte, Behandlungspläne und Medikamentenhistorie hoch."],
+  ["Fallaufnahme und medizinische Zusammenfassung", "Medora organisiert Ihre Dokumente, übersetzt Schlüsselinformationen bei Bedarf und erstellt eine strukturierte Zusammenfassung."],
+  ["Fachprüfung oder Konsultation", "Ihr Fall wird von einem Spezialisten geprüft, per Video besprochen oder multidisziplinär bewertet."],
+  ["Zweitmeinung erhalten", "Sie erhalten eine schriftliche Zusammenfassung mit Beobachtungen, Therapieüberlegungen und nächsten Schritten."],
+  ["Behandlungszugang in China prüfen", "Wenn China für Ihren Fall sinnvoll sein kann, hilft Medora bei Kliniken, Kostenschätzungen, Terminen und Reise."],
+];
+
+TELEMEDICINE_COPY.ru.process.steps = [
+  ["Отправьте медицинские документы", "Загрузите диагнозы, снимки, патологию, анализы, планы лечения и историю лекарств."],
+  ["Сбор случая и медицинское резюме", "Команда Medora организует документы, при необходимости переводит ключевую информацию и готовит структурированное резюме."],
+  ["Обзор специалиста или консультация", "Ваш случай изучает специалист, обсуждается по видео или оценивается междисциплинарной командой."],
+  ["Получите второе мнение", "Вы получаете письменное резюме с ключевыми наблюдениями, соображениями по лечению и следующими шагами."],
+  ["Рассмотрите лечение в Китае, если подходит", "Если лечение в Китае может быть полезным, Medora помогает с больницами, стоимостью, записью и поездкой."],
+];
+
+TELEMEDICINE_COPY.es.notice = {
+  label: "Aviso médico",
+  title: "Aviso médico importante",
+  body: "La segunda opinión de Medora se basa en los registros médicos que usted proporciona. No es atención de emergencia y no sustituye a su médico local. Toda decisión de tratamiento debe tomarse con un profesional sanitario autorizado.",
+  items: [["No es urgencia", "Ante síntomas urgentes, contacte de inmediato con los servicios de emergencia locales."], ["Revisión basada en registros", "La calidad de la revisión depende de la calidad y totalidad de los documentos aportados."], ["Consúltelo con su médico", "Use la segunda opinión como una perspectiva adicional para hablar con su médico tratante."]],
+};
+TELEMEDICINE_COPY.fr.notice = {
+  label: "Avis médical",
+  title: "Avis médical important",
+  body: "Le deuxième avis Medora repose sur les dossiers médicaux fournis. Ce n'est pas une urgence et cela ne remplace pas votre médecin local. Toute décision de traitement doit être prise avec un professionnel de santé autorisé.",
+  items: [["Pas une urgence", "En cas de symptômes urgents, contactez immédiatement les services d'urgence locaux."], ["Avis basé sur les dossiers", "La qualité de l'avis dépend de la qualité et de l'exhaustivité des documents fournis."], ["Parlez-en à votre médecin", "Utilisez ce deuxième avis comme perspective complémentaire avec votre médecin traitant."]],
+};
+TELEMEDICINE_COPY.de.notice = {
+  label: "Medizinischer Hinweis",
+  title: "Wichtiger medizinischer Hinweis",
+  body: "Medoras Zweitmeinung basiert auf den von Ihnen bereitgestellten Unterlagen. Sie ist keine Notfallversorgung und ersetzt nicht Ihren lokalen Arzt. Therapieentscheidungen sollten gemeinsam mit einem zugelassenen Gesundheitsdienstleister getroffen werden.",
+  items: [["Keine Notfallversorgung", "Bei dringenden Symptomen wenden Sie sich sofort an den lokalen Notdienst."], ["Unterlagenbasierte Prüfung", "Die Qualität hängt von Vollständigkeit und Qualität der eingereichten Dokumente ab."], ["Mit Ihrem Arzt besprechen", "Nutzen Sie die Zweitmeinung als zusätzliche Perspektive im Gespräch mit Ihrem behandelnden Arzt."]],
+};
+TELEMEDICINE_COPY.ru.notice = {
+  label: "Медицинское уведомление",
+  title: "Важное медицинское уведомление",
+  body: "Сервис второго мнения Medora основан на предоставленных вами медицинских документах. Это не экстренная помощь и не замена вашему местному врачу. Любое решение о лечении следует принимать вместе с лицензированным медицинским специалистом.",
+  items: [["Не экстренная помощь", "При срочных симптомах немедленно обратитесь в местную службу экстренной помощи."], ["Обзор по документам", "Качество обзора зависит от полноты и качества предоставленных документов."], ["Обсудите с врачом", "Используйте второе мнение как дополнительную перспективу для обсуждения с лечащим врачом."]],
+};
+
+TELEMEDICINE_COPY.es.faq.items = [
+  ["¿Es un diagnóstico en línea?", "No. Es una revisión de registros médicos y segunda opinión basada en la información que usted proporciona."],
+  ["¿Qué opción debo elegir?", "Elija revisión escrita para un informe, consulta por video para hablar con un especialista o revisión multidisciplinaria para casos complejos."],
+  ["¿Puedo empezar con revisión escrita y ampliar después?", "Sí. Muchos pacientes empiezan con una revisión escrita y luego solicitan video o revisión adicional."],
+  ["¿Qué registros necesito?", "Informes diagnósticos, imágenes, patología, análisis, alta hospitalaria, historial de tratamiento, medicamentos y plan actual."],
+  ["¿Cuánto tarda?", "La revisión escrita suele tardar 48-72 horas; el video 3-5 días hábiles; la revisión compleja 5-7 días hábiles."],
+  ["¿Tengo que viajar a China?", "No. La segunda opinión es remota. Si su caso es adecuado, Medora puede ayudarle a explorar tratamiento en China."],
+];
+TELEMEDICINE_COPY.fr.faq.items = [
+  ["Est-ce un diagnostic en ligne ?", "Non. C'est une revue de dossier et un deuxième avis basé sur les informations fournies."],
+  ["Quelle option choisir ?", "Choisissez l'avis écrit pour un rapport, la vidéo pour parler à un spécialiste ou la revue multidisciplinaire pour les cas complexes."],
+  ["Puis-je commencer par un avis écrit puis évoluer ?", "Oui. De nombreux patients commencent par un avis écrit puis demandent une vidéo ou une revue supplémentaire."],
+  ["Quels dossiers faut-il ?", "Diagnostics, imagerie, pathologie, analyses, compte rendu de sortie, historique de traitement, médicaments et plan actuel."],
+  ["Combien de temps faut-il ?", "L'avis écrit prend souvent 48-72 heures ; la vidéo 3-5 jours ouvrés ; la revue complexe 5-7 jours ouvrés."],
+  ["Dois-je voyager en Chine ?", "Non. Le deuxième avis est à distance. Si votre cas s'y prête, Medora peut aider à explorer un traitement en Chine."],
+];
+TELEMEDICINE_COPY.de.faq.items = [
+  ["Ist das eine Online-Diagnose?", "Nein. Es handelt sich um eine Unterlagenprüfung und Zweitmeinung auf Basis der bereitgestellten Informationen."],
+  ["Welche Option soll ich wählen?", "Wählen Sie die schriftliche Prüfung für einen Bericht, Video für ein Gespräch oder multidisziplinär für komplexe Fälle."],
+  ["Kann ich mit schriftlicher Prüfung starten und später erweitern?", "Ja. Viele Patienten starten schriftlich und fragen danach Video oder weitere Fachprüfung an."],
+  ["Welche Unterlagen brauche ich?", "Diagnoseberichte, Bildgebung, Pathologie, Labor, Entlassungsberichte, Therapieverlauf, Medikamente und aktueller Plan."],
+  ["Wie lange dauert es?", "Schriftlich meist 48-72 Stunden; Video 3-5 Werktage; komplexe Prüfung 5-7 Werktage."],
+  ["Muss ich nach China reisen?", "Nein. Die Zweitmeinung ist remote. Wenn passend, hilft Medora bei der Prüfung von Behandlungsoptionen in China."],
+];
+TELEMEDICINE_COPY.ru.faq.items = [
+  ["Это онлайн-диагноз?", "Нет. Это обзор медицинских документов и второе мнение на основе предоставленной информации."],
+  ["Какой вариант выбрать?", "Выберите письменный обзор для отчета, видео для разговора со специалистом или междисциплинарный обзор для сложных случаев."],
+  ["Можно начать с письменного обзора и потом расширить?", "Да. Многие пациенты начинают с письменного обзора, затем запрашивают видео или дополнительный обзор."],
+  ["Какие документы нужны?", "Диагнозы, снимки, патология, анализы, выписки, история лечения, список лекарств и текущий план."],
+  ["Сколько это занимает?", "Письменный обзор обычно 48-72 часа; видео 3-5 рабочих дней; сложный обзор 5-7 рабочих дней."],
+  ["Нужно ли ехать в Китай?", "Нет. Второе мнение удаленное. Если случай подходит, Medora поможет рассмотреть лечение в Китае."],
+];
+
 function getTelemedicineCopy(languageCode: string): PageCopy {
   if (languageCode === "zh" || languageCode === "zh-CN") return TELEMEDICINE_COPY.zh;
   if (languageCode === "es" || languageCode === "fr" || languageCode === "de" || languageCode === "ru") {
@@ -973,10 +1432,6 @@ function formatPlanPrice(priceUsd: number, locale: Locale): string {
   }).format(rounded);
 
   return `${display.prefix}${formatted}${display.suffix ?? ""}`;
-}
-
-function getRosterLocale(showcase: PageCopy["expertShowcase"]): RosterLocale {
-  return showcase.moreLabel === "更多" ? "zh" : "en";
 }
 
 function getRosterCategory(specialty: string): ExpertImageCategory {
@@ -1068,11 +1523,11 @@ function getRosterCategory(specialty: string): ExpertImageCategory {
   return "oncology";
 }
 
-function buildExpertRoster(specialty: string, rosterLocale: RosterLocale): ExpertCard[] {
+function buildExpertRoster(specialty: string, locale: Locale): ExpertCard[] {
   const category = getRosterCategory(specialty);
   const experienceYears = [12, 16, 20, 24, 28];
 
-  if (rosterLocale === "zh") {
+  if (locale === "zh") {
     const names = ["周远航教授", "林嘉明主任医师", "许安然副主任医师", "沈博文主任医师", "顾清妍教授"];
     const titles = ["教授 / 主任医师", "主任医师", "副主任医师", "主任医师", "教授 / 主任医师"];
     const hospitals = ["上海三甲医院专家网络", "北京专科医学中心", "广州高校附属医院专家网络", "成都区域医学中心", "杭州国际医疗协作中心"];
@@ -1092,21 +1547,76 @@ function buildExpertRoster(specialty: string, rosterLocale: RosterLocale): Exper
     }));
   }
 
-  const names = ["Prof. Victor Zhang", "Dr. Helen Li", "Dr. Michael Chen", "Dr. Grace Wu", "Prof. Daniel Huang"];
-  const titles = ["Senior Consultant", "Chief Physician", "Associate Chief Physician", "Chief Physician", "Senior Consultant"];
-  const hospitals = ["Shanghai tertiary hospital network", "Beijing specialist center", "Guangzhou academic hospital network", "Chengdu regional medical center", "Hangzhou international care network"];
-  const focus = ["Second-opinion case review", "Complex treatment pathway assessment", "Surgical and non-surgical option comparison", "Multispecialty case discussion", "Long-term care planning"];
+  const localizedRoster = {
+    en: {
+      names: ["Prof. Victor Zhang", "Dr. Helen Li", "Dr. Michael Chen", "Dr. Grace Wu", "Prof. Daniel Huang"],
+      titles: ["Senior Consultant", "Chief Physician", "Associate Chief Physician", "Chief Physician", "Senior Consultant"],
+      hospitals: ["Shanghai tertiary hospital network", "Beijing specialist center", "Guangzhou academic hospital network", "Chengdu regional medical center", "Hangzhou international care network"],
+      focus: ["Second-opinion case review", "Complex treatment pathway assessment", "Surgical and non-surgical option comparison", "Multispecialty case discussion", "Long-term care planning"],
+      tags: ["Written review", "Video consult", "English support"],
+      experience: "years clinical experience",
+      tertiary: "Tertiary hospital specialist",
+      bio: (value: string) => `Focused on ${value.toLowerCase()} case review, helping patients understand diagnosis, treatment choices, and practical next steps.`,
+      imageAlt: (value: string) => `Representative Chinese ${value} specialist portrait`,
+    },
+    es: {
+      names: ["Prof. Victor Zhang", "Dra. Helen Li", "Dr. Michael Chen", "Dra. Grace Wu", "Prof. Daniel Huang"],
+      titles: ["Consultor sénior", "Médica jefe", "Médico jefe asociado", "Médica jefe", "Consultor sénior"],
+      hospitals: ["Red de hospitales terciarios de Shanghái", "Centro especializado de Pekín", "Red académica hospitalaria de Guangzhou", "Centro médico regional de Chengdu", "Red internacional de atención de Hangzhou"],
+      focus: ["Revisión de segunda opinión", "Evaluación de rutas de tratamiento complejas", "Comparación de opciones quirúrgicas y no quirúrgicas", "Discusión multispecialidad del caso", "Planificación de atención a largo plazo"],
+      tags: ["Revisión escrita", "Consulta por video", "Soporte en inglés"],
+      experience: "años de experiencia clínica",
+      tertiary: "Especialista de hospital terciario",
+      bio: (value: string) => `Enfocado en revisión de casos de ${value.toLowerCase()}, ayudando a entender diagnóstico, opciones de tratamiento y próximos pasos.`,
+      imageAlt: (value: string) => `Retrato representativo de especialista chino en ${value}`,
+    },
+    fr: {
+      names: ["Pr Victor Zhang", "Dre Helen Li", "Dr Michael Chen", "Dre Grace Wu", "Pr Daniel Huang"],
+      titles: ["Consultant senior", "Médecin chef", "Médecin chef adjoint", "Médecin chef", "Consultant senior"],
+      hospitals: ["Réseau hospitalier tertiaire de Shanghai", "Centre spécialisé de Pékin", "Réseau hospitalier universitaire de Guangzhou", "Centre médical régional de Chengdu", "Réseau international de soins de Hangzhou"],
+      focus: ["Revue de deuxième avis", "Évaluation de parcours complexes", "Comparaison options chirurgicales et non chirurgicales", "Discussion multidisciplinaire du dossier", "Planification de soins à long terme"],
+      tags: ["Avis écrit", "Consultation vidéo", "Support anglais"],
+      experience: "ans d'expérience clinique",
+      tertiary: "Spécialiste d'hôpital tertiaire",
+      bio: (value: string) => `Spécialisé dans la revue de cas en ${value.toLowerCase()}, avec aide à la compréhension du diagnostic, des choix de traitement et des prochaines étapes.`,
+      imageAlt: (value: string) => `Portrait représentatif d'un spécialiste chinois en ${value}`,
+    },
+    de: {
+      names: ["Prof. Victor Zhang", "Dr. Helen Li", "Dr. Michael Chen", "Dr. Grace Wu", "Prof. Daniel Huang"],
+      titles: ["Leitender Berater", "Chefärztin", "Stellvertretender Chefarzt", "Chefärztin", "Leitender Berater"],
+      hospitals: ["Tertiäres Kliniknetzwerk Shanghai", "Spezialzentrum Peking", "Akademisches Kliniknetzwerk Guangzhou", "Regionales Medizinzentrum Chengdu", "Internationales Versorgungsnetzwerk Hangzhou"],
+      focus: ["Zweitmeinungsprüfung", "Bewertung komplexer Behandlungspfade", "Vergleich chirurgischer und nicht-chirurgischer Optionen", "Multidisziplinäre Fallbesprechung", "Langfristige Versorgungsplanung"],
+      tags: ["Schriftliche Prüfung", "Videokonsultation", "Englische Unterstützung"],
+      experience: "Jahre klinische Erfahrung",
+      tertiary: "Spezialist an tertiärer Klinik",
+      bio: (value: string) => `Fokussiert auf Fallprüfungen in ${value.toLowerCase()} und hilft Patienten, Diagnose, Therapieoptionen und nächste Schritte zu verstehen.`,
+      imageAlt: (value: string) => `Repräsentatives Porträt eines chinesischen Spezialisten für ${value}`,
+    },
+    ru: {
+      names: ["Проф. Виктор Чжан", "Д-р Хелен Ли", "Д-р Майкл Чэнь", "Д-р Грейс У", "Проф. Дэниел Хуан"],
+      titles: ["Старший консультант", "Главный врач", "Заместитель главного врача", "Главный врач", "Старший консультант"],
+      hospitals: ["Сеть третичных больниц Шанхая", "Специализированный центр Пекина", "Академическая больничная сеть Гуанчжоу", "Региональный медицинский центр Чэнду", "Международная сеть помощи Ханчжоу"],
+      focus: ["Обзор для второго мнения", "Оценка сложного маршрута лечения", "Сравнение хирургических и нехирургических вариантов", "Междисциплинарное обсуждение случая", "Планирование долгосрочного лечения"],
+      tags: ["Письменный обзор", "Видеоконсультация", "Поддержка на английском"],
+      experience: "лет клинического опыта",
+      tertiary: "Специалист третичной больницы",
+      bio: (value: string) => `Фокус на обзоре случаев по направлению ${value.toLowerCase()}, чтобы помочь понять диагноз, варианты лечения и практические следующие шаги.`,
+      imageAlt: (value: string) => `Представительный портрет китайского специалиста по направлению ${value}`,
+    },
+  } as const;
 
-  return names.map((name, index) => ({
+  const copy = localizedRoster[locale === "zh" ? "en" : locale];
+
+  return copy.names.map((name, index) => ({
     name,
-    title: titles[index],
+    title: copy.titles[index],
     specialty,
-    hospital: hospitals[index],
-    credentials: [`${experienceYears[index]}+ years clinical experience`, focus[index], "Tertiary hospital specialist"],
-    tags: ["Written review", "Video consult", "English support"],
-    bio: `Focused on ${specialty.toLowerCase()} case review, helping patients understand diagnosis, treatment choices, and practical next steps.`,
+    hospital: copy.hospitals[index],
+    credentials: [`${experienceYears[index]}+ ${copy.experience}`, copy.focus[index], copy.tertiary],
+    tags: [...copy.tags],
+    bio: copy.bio(specialty),
     image: `${category}-${index + 1}`,
-    imageAlt: `Representative Chinese ${specialty} specialist portrait`,
+    imageAlt: copy.imageAlt(specialty),
     featured: index === 1,
   }));
 }
@@ -1265,14 +1775,14 @@ function PlanVisual({ variant }: { variant: ModalVisualVariant }) {
   );
 }
 
-function ExpertCardView({ expert, cta }: { expert: ExpertCard; cta: string }) {
+function ExpertCardView({ expert, cta, featuredLabel }: { expert: ExpertCard; cta: string; featuredLabel: string }) {
   const image = EXPERT_IMAGES[expert.image] ?? expert.image;
 
   return (
     <article className={`group relative flex min-h-[390px] overflow-hidden rounded-2xl bg-white shadow-card transition-all duration-300 hover:-translate-y-1 ${expert.featured ? "ring-2 ring-[#1DA78A]/55" : ""}`}>
       {expert.featured && (
         <div className="absolute right-0 top-0 z-20 rounded-bl-2xl bg-gradient-to-r from-[#1DA78A] to-[#0F638E] px-3.5 py-1.5 text-[11px] font-bold text-white shadow-lg shadow-teal-800/10">
-          Featured match
+          {featuredLabel}
         </div>
       )}
       <div className="absolute left-4 top-4 z-20 flex h-9 w-9 items-center justify-center rounded-full bg-[#E8F7F3] text-[#1DA78A] shadow-sm">
@@ -1345,11 +1855,11 @@ function CustomExpertMatchCard({ title, body, cta }: { title: string; body: stri
   );
 }
 
-function ExpertShowcaseSection({ showcase }: { showcase: PageCopy["expertShowcase"] }) {
+function ExpertShowcaseSection({ showcase, locale }: { showcase: PageCopy["expertShowcase"]; locale: Locale }) {
   const [showMoreTabs, setShowMoreTabs] = useState(false);
   const [selectedTab, setSelectedTab] = useState(showcase.tabs[0]);
   const visibleTabs = showMoreTabs ? [...showcase.tabs, ...showcase.moreTabs] : showcase.tabs;
-  const roster = buildExpertRoster(selectedTab, getRosterLocale(showcase));
+  const roster = buildExpertRoster(selectedTab, locale);
 
   useEffect(() => {
     setSelectedTab(showcase.tabs[0]);
@@ -1387,7 +1897,7 @@ function ExpertShowcaseSection({ showcase }: { showcase: PageCopy["expertShowcas
         <div className="mx-auto mt-10 grid max-w-[1500px] gap-6 xl:grid-cols-3 2xl:gap-7">
           {roster.map((expert, index) => (
             <ScrollReveal key={expert.name} direction="up" delay={index * 0.06}>
-              <ExpertCardView expert={expert} cta={showcase.expertCta} />
+              <ExpertCardView expert={expert} cta={showcase.expertCta} featuredLabel={showcase.featuredLabel} />
             </ScrollReveal>
           ))}
           <ScrollReveal direction="up" delay={0.36}>
@@ -1535,7 +2045,7 @@ function ComparisonDialog({ comparison }: { comparison: PageCopy["comparison"] }
             {comparison.title}
           </DialogTitle>
           <DialogDescription className="sr-only">
-            Side-by-side table comparing the available online consultation review options.
+            {comparison.a11yDescription}
           </DialogDescription>
         </div>
         <div className="p-4 sm:p-6">
@@ -1618,7 +2128,7 @@ export default function TelemedicinePage() {
           </div>
         </section>
 
-        <ExpertShowcaseSection showcase={copy.expertShowcase} />
+        <ExpertShowcaseSection showcase={copy.expertShowcase} locale={locale} />
 
         <section id="review-options" className="bg-white py-12 sm:py-16 md:py-20">
           <div className="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
