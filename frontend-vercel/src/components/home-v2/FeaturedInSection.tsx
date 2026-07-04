@@ -1,19 +1,22 @@
+import bloombergLogo from "@/img/bloomberg-logo.svg";
+import cnnLogo from "@/img/cnn-logo.svg";
+import zaobaoLogo from "@/img/lianhe-zaobao-logo.png";
+
 const featuredLogos = [
   {
     name: "CNN",
-    label: "CNN",
-    className: "font-black tracking-[-0.08em] text-[#CC0000]",
+    src: cnnLogo,
+    className: "h-9 sm:h-10",
   },
   {
     name: "Lianhe Zaobao",
-    label: "联合早报",
-    sublabel: "Lianhe Zaobao",
-    className: "font-semibold tracking-[0.04em] text-[#C7192E]",
+    src: zaobaoLogo,
+    className: "h-10 sm:h-11",
   },
   {
     name: "Bloomberg",
-    label: "Bloomberg",
-    className: "font-bold tracking-[-0.03em] text-[#121212]",
+    src: bloombergLogo,
+    className: "h-10 sm:h-11",
   },
 ];
 
@@ -39,16 +42,12 @@ export default function FeaturedInSection() {
               {featuredLogos.map((logo) => (
                 <li key={logo.name}>
                   <div className="flex h-24 items-center justify-center rounded-[8px] border border-slate-100 bg-white px-5 shadow-sm transition-transform duration-300 hover:-translate-y-0.5">
-                    <div className="text-center" aria-label={logo.name}>
-                      <span className={`block text-3xl leading-none sm:text-[2rem] ${logo.className}`}>
-                        {logo.label}
-                      </span>
-                      {logo.sublabel && (
-                        <span className="mt-2 block text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-400">
-                          {logo.sublabel}
-                        </span>
-                      )}
-                    </div>
+                    <img
+                      src={logo.src}
+                      alt={logo.name}
+                      className={`max-w-[170px] object-contain ${logo.className}`}
+                      loading="lazy"
+                    />
                   </div>
                 </li>
               ))}

@@ -102,36 +102,35 @@ const PROCESS_IMAGES = [
 ];
 
 const TELEMEDICINE_EXPERT_IMAGE_BASE = `${LOW_MEDIA_BASE_URL}/telemedicine/experts`;
+const EXPERT_IMAGE_CATEGORIES = [
+  "oncology",
+  "cardiology",
+  "neurology",
+  "orthopedics",
+  "reproductive",
+  "aesthetic-surgery",
+  "stem-cell-therapy",
+  "dentistry",
+  "pediatrics",
+  "urology",
+  "endocrinology",
+  "ophthalmology",
+] as const;
+
+type ExpertImageCategory = (typeof EXPERT_IMAGE_CATEGORIES)[number];
 
 const EXPERT_IMAGES: Record<string, string> = {
   zhang: expertZhangImage,
   li: expertLiImage,
   chen: expertChenImage,
-  "oncology-1": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/oncology-1.webp`,
-  "oncology-2": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/oncology-2.webp`,
-  "oncology-3": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/oncology-3.webp`,
-  "oncology-4": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/oncology-4.webp`,
-  "oncology-5": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/oncology-5.webp`,
-  "oncology-6": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/oncology-6.webp`,
-  "cardiology-1": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/cardiology-1.webp`,
-  "cardiology-2": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/cardiology-2.webp`,
-  "cardiology-3": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/cardiology-3.webp`,
-  "cardiology-4": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/cardiology-4.webp`,
-  "neurology-1": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/neurology-1.webp`,
-  "neurology-2": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/neurology-2.webp`,
-  "neurology-3": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/neurology-3.webp`,
-  "neurology-4": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/neurology-4.webp`,
-  "neurology-5": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/neurology-5.webp`,
-  "orthopedics-1": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/orthopedics-1.webp`,
-  "orthopedics-2": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/orthopedics-2.webp`,
-  "orthopedics-3": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/orthopedics-3.webp`,
-  "orthopedics-4": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/orthopedics-4.webp`,
-  "orthopedics-5": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/orthopedics-5.webp`,
-  "reproductive-1": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/reproductive-20260615-1.webp`,
-  "reproductive-2": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/reproductive-20260615-2.webp`,
-  "reproductive-3": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/reproductive-20260615-3.webp`,
-  "reproductive-4": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/reproductive-20260615-4.webp`,
-  "reproductive-5": `${TELEMEDICINE_EXPERT_IMAGE_BASE}/reproductive-20260615-5.webp`,
+  ...Object.fromEntries(
+    EXPERT_IMAGE_CATEGORIES.flatMap((category) =>
+      Array.from({ length: 5 }, (_, index) => {
+        const imageNumber = index + 1;
+        return [`${category}-${imageNumber}`, `${TELEMEDICINE_EXPERT_IMAGE_BASE}/${category}-${imageNumber}.webp`];
+      }),
+    ),
+  ),
 };
 
 type PageCopy = {
@@ -228,7 +227,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
       title: "Selected top Chinese specialists",
       body: "Medora matches your case with experienced Chinese specialists who can support written review, video consultation, and treatment direction discussion.",
       tabs: ["Oncology", "Cardiology", "Neurology", "Orthopedics", "Reproductive medicine"],
-      moreTabs: ["Aesthetic surgery", "Stem cell therapy", "Dentistry", "Pediatrics", "Rare diseases", "Urology", "Endocrinology", "Ophthalmology"],
+      moreTabs: ["Aesthetic surgery", "Stem cell therapy", "Dentistry", "Pediatrics", "Urology", "Endocrinology", "Ophthalmology"],
       moreLabel: "More",
       collapseLabel: "Show less",
       expertCta: "View specialist",
@@ -243,7 +242,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
           title: "Senior Consultant",
           specialty: "Medical Oncology",
           hospital: "Shanghai tertiary hospital network",
-          credentials: ["30+ years clinical experience", "Complex cancer case review", "Tertiary hospital specialist"],
+          credentials: ["23+ years clinical experience", "Complex cancer case review", "Tertiary hospital specialist"],
           tags: ["Written review", "Video consult", "English support"],
           bio: "Focused on lung, gastrointestinal, and difficult cancer case review with practical treatment pathway discussion.",
           image: "zhang",
@@ -364,7 +363,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
             title: "Multidisciplinary Case Review",
             body: "For complex medical cases, Medora coordinates a deeper review involving multiple specialists when appropriate.",
             bestForLabel: "Best for",
-            bestFor: "Patients facing complex cancer care, major surgery, rare disease, neurological conditions, cardiac decisions, or conflicting treatment recommendations.",
+            bestFor: "Patients facing complex cancer care, major surgery, neurological conditions, cardiac decisions, or conflicting treatment recommendations.",
             receiveLabel: "What you receive",
             receive: [
               "Comprehensive case intake",
@@ -487,7 +486,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
       title: "精选中国顶级专家",
       body: "Medora 会根据您的病情，为您匹配可提供书面审阅、视频问诊与治疗方向建议的中国资深专科医生。",
       tabs: ["肿瘤", "心血管", "神经科", "骨科", "辅助生殖"],
-      moreTabs: ["整容", "干细胞", "牙科", "儿科", "罕见病", "泌尿科", "内分泌", "眼科"],
+      moreTabs: ["整容", "干细胞", "牙科", "儿科", "泌尿科", "内分泌", "眼科"],
       moreLabel: "更多",
       collapseLabel: "收起",
       expertCta: "查看专家",
@@ -502,7 +501,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
           title: "主任医师",
           specialty: "肿瘤内科",
           hospital: "上海三甲医院专家网络",
-          credentials: ["30+ 年临床经验", "擅长复杂肿瘤病例", "三甲医院专家"],
+          credentials: ["23+ 年临床经验", "擅长复杂肿瘤病例", "三甲医院专家"],
           tags: ["书面审阅", "视频问诊", "英文支持"],
           bio: "擅长肺癌、胃肠道肿瘤及疑难肿瘤的综合诊治与个体化方案讨论。",
           image: "zhang",
@@ -596,7 +595,7 @@ const TELEMEDICINE_COPY: Record<Locale, PageCopy> = {
             title: "多学科病例评估",
             body: "针对复杂医疗病例，Medora 可在适合时协调多位相关专科医生进行更深入的病例评估。",
             bestForLabel: "适合",
-            bestFor: "面临复杂肿瘤治疗、重大手术、罕见病、神经系统疾病、心脏治疗决策或治疗建议冲突的患者。",
+            bestFor: "面临复杂肿瘤治疗、重大手术、神经系统疾病、心脏治疗决策或治疗建议冲突的患者。",
             receiveLabel: "您将收到",
             receive: ["完整病例接收", "病历、影像和病理审阅", "多专科病例讨论", "高级书面第二诊疗意见总结", "治疗路径考虑", "手术 / 药物 / 介入治疗考虑", "建议与本地医生讨论的问题", "适合时的中国医院通道建议"],
             processLabel: "常规流程",
@@ -712,7 +711,7 @@ TELEMEDICINE_COPY.es = {
     title: "Especialistas chinos destacados seleccionados",
     body: "Medora asigna su caso a especialistas chinos con experiencia para revisión escrita, consulta por video y orientación sobre opciones de tratamiento.",
     tabs: ["Oncología", "Cardiología", "Neurología", "Ortopedia", "Reproducción"],
-    moreTabs: ["Cirugía estética", "Terapia con células madre", "Odontología", "Pediatría", "Enfermedades raras", "Urología", "Endocrinología", "Oftalmología"],
+    moreTabs: ["Cirugía estética", "Terapia con células madre", "Odontología", "Pediatría", "Urología", "Endocrinología", "Oftalmología"],
     moreLabel: "Más",
     collapseLabel: "Mostrar menos",
     expertCta: "Ver especialista",
@@ -777,7 +776,7 @@ TELEMEDICINE_COPY.fr = {
     title: "Spécialistes chinois de haut niveau sélectionnés",
     body: "Medora oriente votre dossier vers des spécialistes chinois expérimentés pour un avis écrit, une consultation vidéo et une discussion sur les options de traitement.",
     tabs: ["Oncologie", "Cardiologie", "Neurologie", "Orthopédie", "Médecine reproductive"],
-    moreTabs: ["Chirurgie esthétique", "Thérapie par cellules souches", "Dentisterie", "Pédiatrie", "Maladies rares", "Urologie", "Endocrinologie", "Ophtalmologie"],
+    moreTabs: ["Chirurgie esthétique", "Thérapie par cellules souches", "Dentisterie", "Pédiatrie", "Urologie", "Endocrinologie", "Ophtalmologie"],
     moreLabel: "Plus",
     collapseLabel: "Réduire",
     expertCta: "Voir le spécialiste",
@@ -842,7 +841,7 @@ TELEMEDICINE_COPY.de = {
     title: "Ausgewählte führende chinesische Spezialisten",
     body: "Medora ordnet Ihren Fall erfahrenen chinesischen Spezialisten zu, die schriftliche Prüfung, Videoberatung und Diskussion zur Behandlungsrichtung unterstützen können.",
     tabs: ["Onkologie", "Kardiologie", "Neurologie", "Orthopädie", "Reproduktionsmedizin"],
-    moreTabs: ["Ästhetische Chirurgie", "Stammzelltherapie", "Zahnmedizin", "Pädiatrie", "Seltene Erkrankungen", "Urologie", "Endokrinologie", "Augenheilkunde"],
+  moreTabs: ["Ästhetische Chirurgie", "Stammzelltherapie", "Zahnmedizin", "Pädiatrie", "Urologie", "Endokrinologie", "Augenheilkunde"],
     moreLabel: "Mehr",
     collapseLabel: "Weniger anzeigen",
     expertCta: "Spezialist ansehen",
@@ -907,7 +906,7 @@ TELEMEDICINE_COPY.ru = {
     title: "Отобранные ведущие китайские специалисты",
     body: "Medora подбирает для вашего случая опытных китайских специалистов для письменного обзора, видеоконсультации и обсуждения направления лечения.",
     tabs: ["Онкология", "Кардиология", "Неврология", "Ортопедия", "Репродуктивная медицина"],
-    moreTabs: ["Эстетическая хирургия", "Стволовые клетки", "Стоматология", "Педиатрия", "Редкие заболевания", "Урология", "Эндокринология", "Офтальмология"],
+  moreTabs: ["Эстетическая хирургия", "Стволовые клетки", "Стоматология", "Педиатрия", "Урология", "Эндокринология", "Офтальмология"],
     moreLabel: "Еще",
     collapseLabel: "Свернуть",
     expertCta: "Посмотреть специалиста",
@@ -980,7 +979,7 @@ function getRosterLocale(showcase: PageCopy["expertShowcase"]): RosterLocale {
   return showcase.moreLabel === "更多" ? "zh" : "en";
 }
 
-function getRosterCategory(specialty: string): "oncology" | "cardiology" | "neurology" | "orthopedics" | "reproductive" | "other" {
+function getRosterCategory(specialty: string): ExpertImageCategory {
   const normalized = specialty.toLowerCase();
 
   if (normalized.includes("oncolog") || normalized.includes("onkolog") || specialty.includes("肿瘤") || normalized.includes("онколог")) {
@@ -1012,655 +1011,101 @@ function getRosterCategory(specialty: string): "oncology" | "cardiology" | "neur
     return "reproductive";
   }
 
-  return "other";
+  if (
+    normalized.includes("aesthetic")
+    || normalized.includes("esthetic")
+    || normalized.includes("estética")
+    || normalized.includes("esthétique")
+    || normalized.includes("schönheit")
+    || specialty.includes("整容")
+    || specialty.includes("美容")
+  ) {
+    return "aesthetic-surgery";
+  }
+
+  if (
+    normalized.includes("stem cell")
+    || normalized.includes("células madre")
+    || normalized.includes("cellules souches")
+    || normalized.includes("stammzell")
+    || specialty.includes("干细胞")
+  ) {
+    return "stem-cell-therapy";
+  }
+
+  if (
+    normalized.includes("dentistry")
+    || normalized.includes("dental")
+    || normalized.includes("odontolog")
+    || normalized.includes("dentisterie")
+    || normalized.includes("zahn")
+    || specialty.includes("牙")
+  ) {
+    return "dentistry";
+  }
+
+  if (
+    normalized.includes("pediatric")
+    || normalized.includes("pediatr")
+    || normalized.includes("pädiatr")
+    || specialty.includes("儿科")
+  ) {
+    return "pediatrics";
+  }
+
+  if (normalized.includes("urolog") || specialty.includes("泌尿")) {
+    return "urology";
+  }
+
+  if (normalized.includes("endocrin") || normalized.includes("endokrin") || specialty.includes("内分泌")) {
+    return "endocrinology";
+  }
+
+  if (normalized.includes("ophthalm") || normalized.includes("oftalm") || normalized.includes("ophtalm") || normalized.includes("augen") || specialty.includes("眼科")) {
+    return "ophthalmology";
+  }
+
+  return "oncology";
 }
 
 function buildExpertRoster(specialty: string, rosterLocale: RosterLocale): ExpertCard[] {
-  const imageOrder: ExpertCard["image"][] = ["zhang", "li", "chen", "li", "zhang", "chen"];
   const category = getRosterCategory(specialty);
-
-  if (category === "oncology") {
-    if (rosterLocale === "zh") {
-      return [
-        {
-          name: "王钧教授",
-          title: "教授 / 主任医师",
-          specialty,
-          hospital: "上海三甲肿瘤中心专家网络",
-          credentials: ["34+ 年肿瘤临床经验", "肺癌与消化道肿瘤第二意见", "多学科会诊核心专家"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "长期参与胸部肿瘤和胃肠道肿瘤疑难病例评估，擅长将影像、病理与既往治疗史整合成清晰的下一步方案建议。",
-          image: "oncology-1",
-          imageAlt: "王钧教授肿瘤内科专家头像",
-        },
-        {
-          name: "陈丽华主任医师",
-          title: "主任医师",
-          specialty,
-          hospital: "北京肿瘤专科协作中心",
-          credentials: ["31+ 年临床经验", "乳腺与妇科肿瘤综合治疗", "国际患者病历审阅"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "专注乳腺癌、卵巢癌及复杂复发病例的系统治疗评估，帮助患者理解手术、放疗、化疗及靶向治疗之间的取舍。",
-          image: "oncology-2",
-          imageAlt: "陈丽华主任医师肿瘤专家头像",
-          featured: true,
-        },
-        {
-          name: "周启明主任医师",
-          title: "主任医师",
-          specialty,
-          hospital: "广州高校附属医院肿瘤团队",
-          credentials: ["24+ 年临床经验", "肝胆胰与胃肠肿瘤评估", "复杂治疗路径梳理"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "擅长为消化系统肿瘤患者梳理已有检查结果和治疗记录，明确是否需要进一步分期、基因检测或多学科讨论。",
-          image: "oncology-3",
-          imageAlt: "周启明主任医师肿瘤专家头像",
-        },
-        {
-          name: "林若兰教授",
-          title: "教授 / 主任医师",
-          specialty,
-          hospital: "杭州肿瘤精准诊疗协作网络",
-          credentials: ["29+ 年临床经验", "靶向与免疫治疗方案评估", "复发转移病例第二意见"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "关注分子检测结果与临床治疗选择的匹配，适合需要比较免疫、靶向、放疗或临床研究可能性的患者。",
-          image: "oncology-4",
-          imageAlt: "林若兰教授肿瘤专家头像",
-        },
-        {
-          name: "赵明远主任医师",
-          title: "主任医师",
-          specialty,
-          hospital: "成都区域肿瘤医学中心",
-          credentials: ["27+ 年临床经验", "头颈部与胸部肿瘤会诊", "放化疗联合方案评估"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "擅长把局部治疗和全身治疗放在同一张治疗路径图中比较，帮助患者判断不同方案的目标、风险与时间窗口。",
-          image: "oncology-5",
-          imageAlt: "赵明远主任医师肿瘤专家头像",
-        },
-        {
-          name: "许嘉宁副主任医师",
-          title: "副主任医师",
-          specialty,
-          hospital: "深圳国际肿瘤会诊协作中心",
-          credentials: ["21+ 年临床经验", "病历整理与远程会诊", "长期随访计划优化"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "熟悉国际患者远程问诊流程，擅长把复杂病史整理成医生可快速判断的摘要，并提出后续检查和复诊重点。",
-          image: "oncology-6",
-          imageAlt: "许嘉宁副主任医师肿瘤专家头像",
-        },
-      ];
-    }
-
-    return [
-      {
-        name: "Prof. Jun Wang",
-        title: "Professor / Chief Physician",
-        specialty,
-        hospital: "Shanghai tertiary oncology center network",
-        credentials: ["34+ years oncology experience", "Lung and GI cancer second opinions", "Multidisciplinary review lead"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Reviews complex thoracic and gastrointestinal cancer cases by connecting imaging, pathology, treatment history, and practical next-step options.",
-        image: "oncology-1",
-        imageAlt: "Prof. Jun Wang oncology specialist portrait",
-      },
-      {
-        name: "Dr. Lihua Chen",
-        title: "Chief Physician",
-        specialty,
-        hospital: "Beijing oncology specialist collaboration center",
-        credentials: ["31+ years clinical experience", "Breast and gynecologic oncology", "International record review"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Focuses on breast, ovarian, and recurrent cancer cases, helping patients compare surgery, radiotherapy, systemic therapy, and targeted treatment paths.",
-        image: "oncology-2",
-        imageAlt: "Dr. Lihua Chen oncology specialist portrait",
-        featured: true,
-      },
-      {
-        name: "Dr. Qiming Zhou",
-        title: "Chief Physician",
-        specialty,
-        hospital: "Guangzhou academic oncology team",
-        credentials: ["24+ years clinical experience", "Hepatobiliary and GI tumor review", "Treatment pathway assessment"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Helps digestive-system cancer patients clarify staging, prior treatment records, molecular testing needs, and whether an MDT review is appropriate.",
-        image: "oncology-3",
-        imageAlt: "Dr. Qiming Zhou oncology specialist portrait",
-      },
-      {
-        name: "Prof. Ruolan Lin",
-        title: "Professor / Chief Physician",
-        specialty,
-        hospital: "Hangzhou precision oncology collaboration network",
-        credentials: ["29+ years clinical experience", "Targeted and immunotherapy review", "Recurrent metastatic case assessment"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Connects molecular test results with treatment choices for patients comparing immunotherapy, targeted therapy, radiotherapy, or research options.",
-        image: "oncology-4",
-        imageAlt: "Prof. Ruolan Lin oncology specialist portrait",
-      },
-      {
-        name: "Dr. Mingyuan Zhao",
-        title: "Chief Physician",
-        specialty,
-        hospital: "Chengdu regional oncology medical center",
-        credentials: ["27+ years clinical experience", "Head-neck and thoracic tumor review", "Combined radiochemotherapy planning"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Compares local and systemic treatment options in one pathway, clarifying goals, risks, and timing for patients facing major decisions.",
-        image: "oncology-5",
-        imageAlt: "Dr. Mingyuan Zhao oncology specialist portrait",
-      },
-      {
-        name: "Dr. Jianing Xu",
-        title: "Associate Chief Physician",
-        specialty,
-        hospital: "Shenzhen international oncology consultation center",
-        credentials: ["21+ years clinical experience", "Remote case preparation", "Follow-up planning optimization"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Experienced in remote international case intake, turning complex histories into concise specialist-ready summaries and follow-up priorities.",
-        image: "oncology-6",
-        imageAlt: "Dr. Jianing Xu oncology specialist portrait",
-      },
-    ];
-  }
-
-  if (category === "cardiology") {
-    if (rosterLocale === "zh") {
-      return [
-        {
-          name: "陆承志主任医师",
-          title: "主任医师",
-          specialty,
-          hospital: "北京心血管专科协作中心",
-          credentials: ["23+ 年心血管临床经验", "冠心病与支架术后方案评估", "远程第二意见"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "擅长评估冠脉 CTA、造影报告、用药记录与既往介入治疗，帮助患者判断是否需要进一步检查或调整治疗策略。",
-          image: "cardiology-1",
-          imageAlt: "陆承志主任医师心血管专家头像",
-        },
-        {
-          name: "沈柏舟副主任医师",
-          title: "副主任医师",
-          specialty,
-          hospital: "上海三甲医院心内科专家网络",
-          credentials: ["18+ 年临床经验", "心律失常与房颤管理", "长期用药计划审阅"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "关注心律失常、房颤、抗凝用药和消融术前评估，可协助患者整理心电图、Holter 与既往治疗信息。",
-          image: "cardiology-2",
-          imageAlt: "沈柏舟副主任医师心血管专家头像",
-          featured: true,
-        },
-        {
-          name: "高文睿主任医师",
-          title: "主任医师",
-          specialty,
-          hospital: "广州心脏中心远程会诊网络",
-          credentials: ["22+ 年临床经验", "心衰与瓣膜病治疗路径", "复杂病例多学科沟通"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "擅长把超声心动图、BNP、既往住院记录和药物方案放在一起评估，帮助患者理解保守、介入或手术选择。",
-          image: "cardiology-3",
-          imageAlt: "高文睿主任医师心血管专家头像",
-        },
-        {
-          name: "韩士杰教授",
-          title: "教授 / 主任医师",
-          specialty,
-          hospital: "杭州国际心血管医学协作中心",
-          credentials: ["30+ 年临床经验", "高危心血管病例评估", "术前风险与康复计划"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "适合需要在重大手术前评估心脏风险、比较治疗选择或制定长期随访计划的国际患者。",
-          image: "cardiology-4",
-          imageAlt: "韩士杰教授心血管专家头像",
-        },
-      ];
-    }
-
-    return [
-      {
-        name: "Dr. Chengzhi Lu",
-        title: "Chief Physician",
-        specialty,
-        hospital: "Beijing cardiovascular specialist collaboration center",
-        credentials: ["23+ years cardiology experience", "Coronary disease and post-stent review", "Remote second opinions"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Reviews coronary CTA, angiography reports, medication history, and prior interventions to clarify whether further testing or treatment adjustment is needed.",
-        image: "cardiology-1",
-        imageAlt: "Dr. Chengzhi Lu cardiology specialist portrait",
-      },
-      {
-        name: "Dr. Baizhou Shen",
-        title: "Associate Chief Physician",
-        specialty,
-        hospital: "Shanghai tertiary cardiology network",
-        credentials: ["18+ years clinical experience", "Arrhythmia and atrial fibrillation care", "Long-term medication review"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Focuses on arrhythmia, atrial fibrillation, anticoagulation, and pre-ablation review, organizing ECG, Holter, and treatment history for specialist discussion.",
-        image: "cardiology-2",
-        imageAlt: "Dr. Baizhou Shen cardiology specialist portrait",
-        featured: true,
-      },
-      {
-        name: "Dr. Wenrui Gao",
-        title: "Chief Physician",
-        specialty,
-        hospital: "Guangzhou heart center remote consultation network",
-        credentials: ["22+ years clinical experience", "Heart failure and valve disease pathways", "Complex case coordination"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Combines echocardiography, BNP, hospitalization records, and medication plans to help patients understand conservative, interventional, or surgical options.",
-        image: "cardiology-3",
-        imageAlt: "Dr. Wenrui Gao cardiology specialist portrait",
-      },
-      {
-        name: "Prof. Shijie Han",
-        title: "Professor / Chief Physician",
-        specialty,
-        hospital: "Hangzhou international cardiovascular medicine network",
-        credentials: ["30+ years clinical experience", "High-risk cardiovascular case review", "Pre-op risk and recovery planning"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Supports international patients who need cardiac risk review before major procedures, treatment comparison, or a long-term follow-up plan.",
-        image: "cardiology-4",
-        imageAlt: "Prof. Shijie Han cardiology specialist portrait",
-      },
-    ];
-  }
-
-  if (category === "neurology") {
-    if (rosterLocale === "zh") {
-      return [
-        {
-          name: "林予涵副主任医师",
-          title: "副主任医师",
-          specialty,
-          hospital: "上海神经内科远程会诊网络",
-          credentials: ["14+ 年神经内科经验", "头痛、癫痫与睡眠障碍评估", "影像与用药记录审阅"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "擅长整理脑 MRI、脑电图、既往用药和发作记录，帮助患者明确诊断方向、用药调整重点与下一步检查计划。",
-          image: "neurology-1",
-          imageAlt: "林予涵副主任医师神经科专家头像",
-        },
-        {
-          name: "谭书怡教授",
-          title: "教授 / 主任医师",
-          specialty,
-          hospital: "北京神经疾病专科协作中心",
-          credentials: ["27+ 年临床经验", "帕金森病与运动障碍第二意见", "长期治疗路径优化"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "关注帕金森病、震颤、肌张力障碍等运动障碍疾病，擅长结合病程、影像和药物反应评估下一步治疗选择。",
-          image: "neurology-2",
-          imageAlt: "谭书怡教授神经科专家头像",
-          featured: true,
-        },
-        {
-          name: "赵孟溪主任医师",
-          title: "主任医师",
-          specialty,
-          hospital: "杭州脑血管病专家协作网络",
-          credentials: ["19+ 年临床经验", "卒中后康复与复发风险评估", "慢性脑血管病管理"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "擅长为脑梗、短暂性脑缺血发作和脑血管狭窄患者梳理检查结果，明确二级预防、康复和复查重点。",
-          image: "neurology-3",
-          imageAlt: "赵孟溪主任医师神经科专家头像",
-        },
-        {
-          name: "乔建成教授",
-          title: "教授 / 主任医师",
-          specialty,
-          hospital: "成都神经疑难病会诊中心",
-          credentials: ["33+ 年临床经验", "周围神经病与神经免疫病例", "疑难诊断第二意见"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "适合长期症状反复、诊断不清或检查结果复杂的患者，可协助比较神经免疫、代谢和周围神经病变的可能性。",
-          image: "neurology-4",
-          imageAlt: "乔建成教授神经科专家头像",
-        },
-        {
-          name: "何文静副主任医师",
-          title: "副主任医师",
-          specialty,
-          hospital: "深圳国际神经内科咨询中心",
-          credentials: ["16+ 年临床经验", "头晕眩晕与认知问题评估", "远程病历摘要整理"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "擅长把症状时间线、影像、实验室检查和用药反应整理成清晰摘要，帮助患者理解需要优先处理的问题。",
-          image: "neurology-5",
-          imageAlt: "何文静副主任医师神经科专家头像",
-        },
-      ];
-    }
-
-    return [
-      {
-        name: "Dr. Yuhan Lin",
-        title: "Associate Chief Physician",
-        specialty,
-        hospital: "Shanghai neurology remote consultation network",
-        credentials: ["14+ years neurology experience", "Headache, epilepsy, and sleep disorder review", "Imaging and medication record assessment"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Organizes brain MRI, EEG, medication history, and symptom timelines to clarify diagnostic direction, treatment priorities, and next-step testing.",
-        image: "neurology-1",
-        imageAlt: "Dr. Yuhan Lin neurology specialist portrait",
-      },
-      {
-        name: "Prof. Shuyi Tan",
-        title: "Professor / Chief Physician",
-        specialty,
-        hospital: "Beijing neurological disease specialist collaboration center",
-        credentials: ["27+ years clinical experience", "Parkinson's disease and movement disorder second opinions", "Long-term treatment pathway optimization"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Focuses on Parkinson's disease, tremor, dystonia, and other movement disorders, connecting clinical course, imaging, and medication response to practical treatment options.",
-        image: "neurology-2",
-        imageAlt: "Prof. Shuyi Tan neurology specialist portrait",
-        featured: true,
-      },
-      {
-        name: "Dr. Mengxi Zhao",
-        title: "Chief Physician",
-        specialty,
-        hospital: "Hangzhou cerebrovascular specialist network",
-        credentials: ["19+ years clinical experience", "Post-stroke recovery and recurrence risk review", "Chronic cerebrovascular disease management"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Helps stroke, TIA, and vascular stenosis patients organize reports and clarify secondary prevention, rehabilitation, and follow-up priorities.",
-        image: "neurology-3",
-        imageAlt: "Dr. Mengxi Zhao neurology specialist portrait",
-      },
-      {
-        name: "Prof. Jiancheng Qiao",
-        title: "Professor / Chief Physician",
-        specialty,
-        hospital: "Chengdu complex neurological disease consultation center",
-        credentials: ["33+ years clinical experience", "Peripheral nerve and neuroimmunology cases", "Difficult diagnosis second opinions"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Supports patients with recurrent symptoms, unclear diagnoses, or complex findings by comparing neuroimmune, metabolic, and peripheral nerve possibilities.",
-        image: "neurology-4",
-        imageAlt: "Prof. Jiancheng Qiao neurology specialist portrait",
-      },
-      {
-        name: "Dr. Wenjing He",
-        title: "Associate Chief Physician",
-        specialty,
-        hospital: "Shenzhen international neurology consultation center",
-        credentials: ["16+ years clinical experience", "Dizziness, vertigo, and cognitive symptom review", "Remote medical summary preparation"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Turns symptom timelines, imaging, lab results, and medication responses into concise summaries so patients can understand what should be addressed first.",
-        image: "neurology-5",
-        imageAlt: "Dr. Wenjing He neurology specialist portrait",
-      },
-    ];
-  }
-
-  if (category === "orthopedics") {
-    if (rosterLocale === "zh") {
-      return [
-        {
-          name: "许凯文主任医师",
-          title: "主任医师",
-          specialty,
-          hospital: "上海骨科运动医学协作网络",
-          credentials: ["21+ 年骨科临床经验", "肩膝关节与运动损伤评估", "术前影像第二意见"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "擅长结合 MRI、X 光和既往治疗记录，帮助患者比较保守治疗、关节镜手术和康复方案的适用性。",
-          image: "orthopedics-1",
-          imageAlt: "许凯文主任医师骨科专家头像",
-        },
-        {
-          name: "方亦如副主任医师",
-          title: "副主任医师",
-          specialty,
-          hospital: "北京脊柱疾病远程会诊中心",
-          credentials: ["17+ 年临床经验", "颈腰椎退变与椎间盘问题", "疼痛与神经症状路径评估"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "关注颈椎病、腰椎间盘突出、椎管狭窄等问题，帮助患者理解影像严重程度与症状之间的关系。",
-          image: "orthopedics-2",
-          imageAlt: "方亦如副主任医师骨科专家头像",
-          featured: true,
-        },
-        {
-          name: "李振主任医师",
-          title: "主任医师",
-          specialty,
-          hospital: "广州关节外科专家协作中心",
-          credentials: ["24+ 年临床经验", "髋膝关节置换方案评估", "术后恢复与翻修病例审阅"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "适合需要比较关节置换时机、假体选择、翻修风险或术后康复计划的患者进行远程第二意见。",
-          image: "orthopedics-3",
-          imageAlt: "李振主任医师骨科专家头像",
-        },
-        {
-          name: "任昊教授",
-          title: "教授 / 主任医师",
-          specialty,
-          hospital: "成都创伤骨科与脊柱协作中心",
-          credentials: ["29+ 年临床经验", "复杂骨折与创伤后畸形评估", "手术风险与康复计划"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "擅长评估复杂骨折、陈旧性损伤和创伤后功能受限病例，帮助患者理解手术目标、风险和恢复周期。",
-          image: "orthopedics-4",
-          imageAlt: "任昊教授骨科专家头像",
-        },
-        {
-          name: "周美霖主任医师",
-          title: "主任医师",
-          specialty,
-          hospital: "杭州国际骨科康复协作网络",
-          credentials: ["20+ 年临床经验", "骨质疏松与慢性关节疼痛", "康复与长期管理计划"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "专注慢性关节疼痛、骨质疏松相关骨折风险和术后康复管理，适合需要长期计划的国际患者。",
-          image: "orthopedics-5",
-          imageAlt: "周美霖主任医师骨科专家头像",
-        },
-      ];
-    }
-
-    return [
-      {
-        name: "Dr. Kaiwen Xu",
-        title: "Chief Physician",
-        specialty,
-        hospital: "Shanghai orthopedic sports medicine collaboration network",
-        credentials: ["21+ years orthopedic experience", "Shoulder, knee, and sports injury review", "Pre-surgery imaging second opinions"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Reviews MRI, X-ray, and prior treatment records to help patients compare conservative care, arthroscopic surgery, and rehabilitation options.",
-        image: "orthopedics-1",
-        imageAlt: "Dr. Kaiwen Xu orthopedic specialist portrait",
-      },
-      {
-        name: "Dr. Yiru Fang",
-        title: "Associate Chief Physician",
-        specialty,
-        hospital: "Beijing spine disease remote consultation center",
-        credentials: ["17+ years clinical experience", "Cervical and lumbar degeneration review", "Pain and nerve symptom pathway assessment"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Focuses on cervical spondylosis, lumbar disc herniation, and spinal stenosis, helping patients connect imaging severity with real symptoms.",
-        image: "orthopedics-2",
-        imageAlt: "Dr. Yiru Fang orthopedic specialist portrait",
-        featured: true,
-      },
-      {
-        name: "Dr. Zhen Li",
-        title: "Chief Physician",
-        specialty,
-        hospital: "Guangzhou joint surgery specialist collaboration center",
-        credentials: ["24+ years clinical experience", "Hip and knee replacement pathway review", "Post-op recovery and revision case assessment"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Supports patients comparing joint replacement timing, implant choices, revision risks, and realistic postoperative rehabilitation plans.",
-        image: "orthopedics-3",
-        imageAlt: "Dr. Zhen Li orthopedic specialist portrait",
-      },
-      {
-        name: "Prof. Hao Ren",
-        title: "Professor / Chief Physician",
-        specialty,
-        hospital: "Chengdu trauma orthopedics and spine collaboration center",
-        credentials: ["29+ years clinical experience", "Complex fracture and post-traumatic deformity review", "Surgical risk and recovery planning"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Reviews complex fractures, old injuries, and post-traumatic function limits so patients can understand surgical goals, risks, and recovery timelines.",
-        image: "orthopedics-4",
-        imageAlt: "Prof. Hao Ren orthopedic specialist portrait",
-      },
-      {
-        name: "Dr. Meilin Zhou",
-        title: "Chief Physician",
-        specialty,
-        hospital: "Hangzhou international orthopedic rehabilitation network",
-        credentials: ["20+ years clinical experience", "Osteoporosis and chronic joint pain", "Rehabilitation and long-term management planning"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Focuses on chronic joint pain, osteoporosis-related fracture risk, and post-surgery rehabilitation management for patients who need a long-term plan.",
-        image: "orthopedics-5",
-        imageAlt: "Dr. Meilin Zhou orthopedic specialist portrait",
-      },
-    ];
-  }
-
-  if (category === "reproductive") {
-    if (rosterLocale === "zh") {
-      return [
-        {
-          name: "吴瀚主任医师",
-          title: "主任医师",
-          specialty,
-          hospital: "上海辅助生殖医学协作中心",
-          credentials: ["24+ 年生殖医学经验", "试管婴儿方案与促排评估", "复杂不孕病历第二意见"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "擅长结合激素、AMH、B 超、既往促排和胚胎记录，帮助患者判断试管婴儿方案是否需要调整。",
-          image: "reproductive-1",
-          imageAlt: "吴瀚主任医师辅助生殖专家头像",
-        },
-        {
-          name: "梁静怡主任医师",
-          title: "主任医师",
-          specialty,
-          hospital: "北京生殖内分泌远程会诊网络",
-          credentials: ["26+ 年临床经验", "卵巢功能与反复移植失败评估", "国际患者病历审阅"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "关注卵巢储备下降、反复移植失败和高龄备孕病例，擅长把检查结果转化为清晰的下一周期策略。",
-          image: "reproductive-2",
-          imageAlt: "梁静怡主任医师辅助生殖专家头像",
-          featured: true,
-        },
-        {
-          name: "罗嘉敏副主任医师",
-          title: "副主任医师",
-          specialty,
-          hospital: "广州妇产与生殖医学专家网络",
-          credentials: ["18+ 年临床经验", "多囊卵巢与排卵障碍管理", "孕前评估与远程随访"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "擅长为月经不规律、多囊卵巢、排卵障碍和备孕时间较长的患者梳理检查重点与治疗路径。",
-          image: "reproductive-3",
-          imageAlt: "罗嘉敏副主任医师辅助生殖专家头像",
-        },
-        {
-          name: "孙启航主任医师",
-          title: "主任医师",
-          specialty,
-          hospital: "杭州男性生殖与辅助生殖协作中心",
-          credentials: ["22+ 年临床经验", "男性因素不育评估", "精液分析与手术取精路径审阅"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "专注男性因素不育、精液质量异常和取精相关决策，帮助夫妇理解是否需要进一步男科或胚胎实验室评估。",
-          image: "reproductive-4",
-          imageAlt: "孙启航主任医师辅助生殖专家头像",
-        },
-        {
-          name: "何承远教授",
-          title: "教授 / 主任医师",
-          specialty,
-          hospital: "深圳国际生殖医学咨询中心",
-          credentials: ["30+ 年临床经验", "疑难生殖病例多学科评估", "胚胎质量与反复流产方案讨论"],
-          tags: ["书面审阅", "视频问诊", "多语种协调"],
-          bio: "适合经历多次失败周期、胚胎质量不稳定或反复流产的患者，协助比较检查、用药和实验室策略。",
-          image: "reproductive-5",
-          imageAlt: "何承远教授辅助生殖专家头像",
-        },
-      ];
-    }
-
-    return [
-      {
-        name: "Dr. Han Wu",
-        title: "Chief Physician",
-        specialty,
-        hospital: "Shanghai assisted reproduction medicine collaboration center",
-        credentials: ["24+ years reproductive medicine experience", "IVF protocol and ovarian stimulation review", "Complex infertility second opinions"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Reviews hormones, AMH, ultrasound findings, previous stimulation cycles, and embryo records to clarify whether an IVF plan should be adjusted.",
-        image: "reproductive-1",
-        imageAlt: "Dr. Han Wu reproductive medicine specialist portrait",
-      },
-      {
-        name: "Dr. Jingyi Liang",
-        title: "Chief Physician",
-        specialty,
-        hospital: "Beijing reproductive endocrinology remote consultation network",
-        credentials: ["26+ years clinical experience", "Ovarian reserve and recurrent implantation failure review", "International record assessment"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Focuses on diminished ovarian reserve, recurrent implantation failure, and advanced maternal age cases, turning records into practical next-cycle strategy questions.",
-        image: "reproductive-2",
-        imageAlt: "Dr. Jingyi Liang reproductive medicine specialist portrait",
-        featured: true,
-      },
-      {
-        name: "Dr. Jiamin Luo",
-        title: "Associate Chief Physician",
-        specialty,
-        hospital: "Guangzhou obstetrics, gynecology, and reproductive medicine network",
-        credentials: ["18+ years clinical experience", "PCOS and ovulation disorder management", "Preconception review and remote follow-up"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Helps patients with irregular cycles, PCOS, ovulation disorders, or prolonged time trying to conceive organize key tests and treatment pathways.",
-        image: "reproductive-3",
-        imageAlt: "Dr. Jiamin Luo reproductive medicine specialist portrait",
-      },
-      {
-        name: "Dr. Qihang Sun",
-        title: "Chief Physician",
-        specialty,
-        hospital: "Hangzhou male fertility and assisted reproduction collaboration center",
-        credentials: ["22+ years clinical experience", "Male-factor infertility review", "Semen analysis and sperm retrieval pathway assessment"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Focuses on male-factor infertility, abnormal semen parameters, and sperm retrieval decisions, clarifying when additional andrology or lab review is needed.",
-        image: "reproductive-4",
-        imageAlt: "Dr. Qihang Sun reproductive medicine specialist portrait",
-      },
-      {
-        name: "Prof. Chengyuan He",
-        title: "Professor / Chief Physician",
-        specialty,
-        hospital: "Shenzhen international reproductive medicine consultation center",
-        credentials: ["30+ years clinical experience", "Complex fertility case MDT review", "Embryo quality and recurrent pregnancy loss planning"],
-        tags: ["Written review", "Video consult", "Multilingual support"],
-        bio: "Supports patients after multiple failed cycles, unstable embryo quality, or recurrent pregnancy loss by comparing testing, medication, and lab strategy options.",
-        image: "reproductive-5",
-        imageAlt: "Prof. Chengyuan He reproductive medicine specialist portrait",
-      },
-    ];
-  }
+  const experienceYears = [12, 16, 20, 24, 28];
 
   if (rosterLocale === "zh") {
-    const names = ["周远航教授", "林嘉明主任医师", "许安然教授", "沈博文主任医师", "顾清妍教授", "韩立成主任医师"];
-    const hospitals = ["上海三甲医院专家网络", "北京专科医学中心", "广州高校附属医院专家网络", "成都区域医学中心", "杭州国际医疗协作中心", "深圳三甲医院专家网络"];
-    const focus = ["疑难病例第二意见", "复杂治疗路径评估", "手术与非手术方案比较", "跨学科病例讨论", "国际患者远程问诊", "长期治疗计划优化"];
+    const names = ["周远航教授", "林嘉明主任医师", "许安然副主任医师", "沈博文主任医师", "顾清妍教授"];
+    const titles = ["教授 / 主任医师", "主任医师", "副主任医师", "主任医师", "教授 / 主任医师"];
+    const hospitals = ["上海三甲医院专家网络", "北京专科医学中心", "广州高校附属医院专家网络", "成都区域医学中心", "杭州国际医疗协作中心"];
+    const focus = ["疑难病例第二意见", "复杂治疗路径评估", "手术与非手术方案比较", "跨学科病例讨论", "长期治疗计划优化"];
 
     return names.map((name, index) => ({
       name,
-      title: index % 2 === 0 ? "教授 / 主任医师" : "主任医师",
+      title: titles[index],
       specialty,
       hospital: hospitals[index],
-      credentials: [`${26 + index * 2}+ 年临床经验`, focus[index], "三甲医院专家"],
+      credentials: [`${experienceYears[index]}+ 年临床经验`, focus[index], "三甲医院专家"],
       tags: ["书面审阅", "视频问诊", "英文支持"],
       bio: `专注${specialty}相关复杂病例评估，可协助患者理解诊断、治疗选择与下一步决策。`,
-      image: imageOrder[index],
+      image: `${category}-${index + 1}`,
       imageAlt: `${specialty}中国专科医生代表头像`,
       featured: index === 1,
     }));
   }
 
-  const names = ["Prof. Victor Zhang", "Dr. Helen Li", "Prof. Michael Chen", "Dr. Grace Wu", "Prof. Daniel Huang", "Dr. Sophia Lin"];
-  const hospitals = ["Shanghai tertiary hospital network", "Beijing specialist center", "Guangzhou academic hospital network", "Chengdu regional medical center", "Hangzhou international care network", "Shenzhen tertiary hospital network"];
-  const focus = ["Second-opinion case review", "Complex treatment pathway assessment", "Surgical and non-surgical option comparison", "Multispecialty case discussion", "International video consultation", "Long-term care planning"];
+  const names = ["Prof. Victor Zhang", "Dr. Helen Li", "Dr. Michael Chen", "Dr. Grace Wu", "Prof. Daniel Huang"];
+  const titles = ["Senior Consultant", "Chief Physician", "Associate Chief Physician", "Chief Physician", "Senior Consultant"];
+  const hospitals = ["Shanghai tertiary hospital network", "Beijing specialist center", "Guangzhou academic hospital network", "Chengdu regional medical center", "Hangzhou international care network"];
+  const focus = ["Second-opinion case review", "Complex treatment pathway assessment", "Surgical and non-surgical option comparison", "Multispecialty case discussion", "Long-term care planning"];
 
   return names.map((name, index) => ({
     name,
-    title: index % 2 === 0 ? "Senior Consultant" : "Chief Physician",
+    title: titles[index],
     specialty,
     hospital: hospitals[index],
-    credentials: [`${26 + index * 2}+ years clinical experience`, focus[index], "Tertiary hospital specialist"],
+    credentials: [`${experienceYears[index]}+ years clinical experience`, focus[index], "Tertiary hospital specialist"],
     tags: ["Written review", "Video consult", "English support"],
     bio: `Focused on ${specialty.toLowerCase()} case review, helping patients understand diagnosis, treatment choices, and practical next steps.`,
-    image: imageOrder[index],
+    image: `${category}-${index + 1}`,
     imageAlt: `Representative Chinese ${specialty} specialist portrait`,
     featured: index === 1,
   }));
