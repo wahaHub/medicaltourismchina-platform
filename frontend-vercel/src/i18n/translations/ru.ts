@@ -725,9 +725,9 @@ export const ru = {
   'homepage.hero.letsGoNow': 'ПОЕХАЛИ СЕЙЧАС',
 
   // Homepage - Statistics Section
-  'homepage.stats.commonDiseases': 'DISEASE TYPES',
-  'homepage.stats.commonSurgeries': 'TYPES OF SURGERIES',
-  'homepage.stats.chineseHospitals': 'CHINESE COOPERATIVE HOSPITALS',
+  'homepage.stats.commonDiseases': 'ТИПЫ ЗАБОЛЕВАНИЙ',
+  'homepage.stats.commonSurgeries': 'ВИДЫ ОПЕРАЦИЙ',
+  'homepage.stats.chineseHospitals': 'ПАРТНЕРСКИЕ БОЛЬНИЦЫ В КИТАЕ',
 
   // Homepage - About Section
   'homepage.about.title': 'О Medora',

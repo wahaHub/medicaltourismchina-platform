@@ -10,7 +10,7 @@ const PUBLIC_MEDIA_BASE = (import.meta.env.VITE_PUBLIC_MEDIA_BASE_URL || 'https:
 const LOW_MEDIA_BASE = `${PUBLIC_MEDIA_BASE}/low`;
 const HOMEPAGE_HOSPITAL_PLACEHOLDER_IMAGE_URL = `${LOW_MEDIA_BASE}/root_assets/surgery_placeholder_x2.png`;
 
-type HomepageHospitalLocale = "en" | "zh" | "de" | "fr" | "es";
+type HomepageHospitalLocale = "en" | "zh" | "de" | "fr" | "es" | "ru";
 
 export type HomepageHospitalCard = {
   id: string;
@@ -36,7 +36,7 @@ const HOMEPAGE_PRIVATE_HOSPITALS = [
 ] as const;
 
 function getHomepageHospitalLocale(languageCode: string): HomepageHospitalLocale {
-  if (languageCode === "zh" || languageCode === "de" || languageCode === "fr" || languageCode === "es") {
+  if (languageCode === "zh" || languageCode === "de" || languageCode === "fr" || languageCode === "es" || languageCode === "ru") {
     return languageCode;
   }
 
@@ -78,7 +78,7 @@ export default function WhyMedoraSection() {
   const doctorIds: DoctorId[] = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19"];
 
   const doctors = doctorIds.map(id => {
-    const profile = getDoctorProfile(id, currentLanguage.code as any);
+    const profile = getDoctorProfile(id, currentLanguage.code);
     return {
       id,
       imageBaseUrl: `${LOW_MEDIA_BASE}/homepage/doctors/${id}`,
