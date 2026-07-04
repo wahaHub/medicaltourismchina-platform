@@ -1523,102 +1523,196 @@ function getRosterCategory(specialty: string): ExpertImageCategory {
   return "oncology";
 }
 
-function buildExpertRoster(specialty: string, locale: Locale): ExpertCard[] {
-  const category = getRosterCategory(specialty);
-  const experienceYears = [12, 16, 20, 24, 28];
+type RosterProfile = {
+  zhName: string;
+  enName: string;
+  years: number;
+  zhFocus: string;
+  enFocus: string;
+  zhBio: string;
+  enBio: string;
+};
 
-  if (locale === "zh") {
-    const names = ["周远航教授", "林嘉明主任医师", "许安然副主任医师", "沈博文主任医师", "顾清妍教授"];
-    const titles = ["教授 / 主任医师", "主任医师", "副主任医师", "主任医师", "教授 / 主任医师"];
-    const hospitals = ["上海三甲医院专家网络", "北京专科医学中心", "广州高校附属医院专家网络", "成都区域医学中心", "杭州国际医疗协作中心"];
-    const focus = ["疑难病例第二意见", "复杂治疗路径评估", "手术与非手术方案比较", "跨学科病例讨论", "长期治疗计划优化"];
+const CATEGORY_HOSPITALS: Record<ExpertImageCategory, { zh: string[]; en: string[] }> = {
+  oncology: {
+    zh: ["上海三甲肿瘤中心专家网络", "北京肿瘤专科协作中心", "广州高校附属医院肿瘤团队", "杭州肿瘤精准诊疗协作网络", "成都区域肿瘤医学中心"],
+    en: ["Shanghai tertiary oncology center network", "Beijing oncology specialist collaboration center", "Guangzhou academic oncology team", "Hangzhou precision oncology collaboration network", "Chengdu regional oncology medical center"],
+  },
+  cardiology: {
+    zh: ["北京心血管专科协作中心", "上海三甲医院心内科专家网络", "广州心脏中心远程会诊网络", "杭州国际心血管医学协作中心", "深圳国际心血管会诊中心"],
+    en: ["Beijing cardiovascular specialist collaboration center", "Shanghai tertiary cardiology network", "Guangzhou heart center remote consultation network", "Hangzhou international cardiovascular medicine network", "Shenzhen international cardiology consultation center"],
+  },
+  neurology: {
+    zh: ["上海神经内科远程会诊网络", "北京神经疾病专科协作中心", "杭州脑血管病专家协作网络", "成都神经疑难病会诊中心", "深圳国际神经内科咨询中心"],
+    en: ["Shanghai neurology remote consultation network", "Beijing neurological disease specialist collaboration center", "Hangzhou cerebrovascular specialist network", "Chengdu complex neurological disease consultation center", "Shenzhen international neurology consultation center"],
+  },
+  orthopedics: {
+    zh: ["上海骨科运动医学协作网络", "北京脊柱疾病远程会诊中心", "广州关节外科专家协作中心", "成都创伤骨科与脊柱协作中心", "杭州国际骨科康复协作网络"],
+    en: ["Shanghai orthopedic sports medicine collaboration network", "Beijing spine disease remote consultation center", "Guangzhou joint surgery specialist collaboration center", "Chengdu trauma orthopedics and spine collaboration center", "Hangzhou international orthopedic rehabilitation network"],
+  },
+  reproductive: {
+    zh: ["上海辅助生殖医学协作中心", "北京生殖内分泌远程会诊网络", "广州妇产与生殖医学专家网络", "杭州男性生殖与辅助生殖协作中心", "深圳国际生殖医学咨询中心"],
+    en: ["Shanghai assisted reproduction medicine collaboration center", "Beijing reproductive endocrinology remote consultation network", "Guangzhou obstetrics, gynecology, and reproductive medicine network", "Hangzhou male fertility and assisted reproduction collaboration center", "Shenzhen international reproductive medicine consultation center"],
+  },
+  "aesthetic-surgery": {
+    zh: ["上海整形外科专家协作中心", "北京美容外科远程会诊网络", "广州医学美容协作中心", "成都修复整形专家网络", "杭州国际美容医学咨询中心"],
+    en: ["Shanghai plastic surgery specialist collaboration center", "Beijing aesthetic surgery remote consultation network", "Guangzhou medical aesthetics collaboration center", "Chengdu reconstructive aesthetics specialist network", "Hangzhou international aesthetic medicine consultation center"],
+  },
+  "stem-cell-therapy": {
+    zh: ["上海再生医学临床评估网络", "北京细胞治疗随访协作中心", "广州神经修复医学协作网络", "成都再生医学多学科会诊中心", "深圳国际再生医学咨询中心"],
+    en: ["Shanghai regenerative medicine clinical review network", "Beijing cell therapy follow-up collaboration center", "Guangzhou neuro-regeneration medicine network", "Chengdu regenerative medicine MDT center", "Shenzhen international regenerative medicine consultation center"],
+  },
+  dentistry: {
+    zh: ["上海口腔种植修复协作中心", "北京美学修复远程咨询网络", "广州口腔颌面外科专家网络", "成都复杂口腔重建中心", "杭州国际口腔医学咨询中心"],
+    en: ["Shanghai dental implant and prosthodontic center", "Beijing aesthetic dentistry remote consultation network", "Guangzhou oral and maxillofacial specialist network", "Chengdu complex dental reconstruction center", "Hangzhou international dental consultation center"],
+  },
+  pediatrics: {
+    zh: ["上海儿童专科远程会诊网络", "北京儿童呼吸与过敏协作中心", "广州儿童神经发育专家网络", "成都儿童疑难病会诊中心", "深圳国际儿科咨询中心"],
+    en: ["Shanghai pediatric specialist remote consultation network", "Beijing pediatric respiratory and allergy center", "Guangzhou pediatric neurodevelopment specialist network", "Chengdu pediatric complex disease consultation center", "Shenzhen international pediatrics consultation center"],
+  },
+  urology: {
+    zh: ["上海泌尿外科专家协作中心", "北京女性泌尿与盆底医学网络", "广州泌尿结石远程会诊中心", "成都泌尿疑难病会诊中心", "深圳国际泌尿医学咨询中心"],
+    en: ["Shanghai urology specialist collaboration center", "Beijing female urology and pelvic floor network", "Guangzhou urinary stone remote consultation center", "Chengdu complex urology consultation center", "Shenzhen international urology consultation center"],
+  },
+  endocrinology: {
+    zh: ["上海内分泌代谢病协作中心", "北京甲状腺疾病远程会诊网络", "广州肥胖与代谢医学专家网络", "成都疑难内分泌疾病会诊中心", "深圳国际内分泌咨询中心"],
+    en: ["Shanghai endocrinology and metabolism center", "Beijing thyroid disease remote consultation network", "Guangzhou obesity and metabolic medicine network", "Chengdu complex endocrinology consultation center", "Shenzhen international endocrinology consultation center"],
+  },
+  ophthalmology: {
+    zh: ["上海眼科专科协作中心", "北京眼底病远程会诊网络", "广州青光眼专家协作中心", "成都疑难眼病会诊中心", "深圳国际眼科咨询中心"],
+    en: ["Shanghai ophthalmology specialist collaboration center", "Beijing retinal disease remote consultation network", "Guangzhou glaucoma specialist collaboration center", "Chengdu complex eye disease consultation center", "Shenzhen international ophthalmology consultation center"],
+  },
+};
 
-    return names.map((name, index) => ({
-      name,
-      title: titles[index],
-      specialty,
-      hospital: hospitals[index],
-      credentials: [`${experienceYears[index]}+ 年临床经验`, focus[index], "三甲医院专家"],
-      tags: ["书面审阅", "视频问诊", "英文支持"],
-      bio: `专注${specialty}相关复杂病例评估，可协助患者理解诊断、治疗选择与下一步决策。`,
-      image: `${category}-${index + 1}`,
-      imageAlt: `${specialty}中国专科医生代表头像`,
-      featured: index === 1,
-    }));
+const SPECIALTY_ROSTER_PROFILES: Record<ExpertImageCategory, RosterProfile[]> = {
+  oncology: [
+    { zhName: "王建国", enName: "Wang Jianguo", years: 31, zhFocus: "肺癌与消化道肿瘤第二意见", enFocus: "Lung and GI cancer second opinions", zhBio: "长期参与胸部肿瘤和胃肠道肿瘤疑难病例评估，擅长把影像、病理和既往治疗记录整合成清晰的下一步方案。", enBio: "Reviews complex thoracic and gastrointestinal cancer cases by connecting imaging, pathology, treatment history, and practical next-step options." },
+    { zhName: "刘美琳", enName: "Liu Meilin", years: 26, zhFocus: "乳腺与妇科肿瘤综合治疗", enFocus: "Breast and gynecologic oncology", zhBio: "专注乳腺癌、卵巢癌及复发病例系统治疗评估，帮助患者比较手术、放疗、化疗、靶向及免疫治疗选择。", enBio: "Focuses on breast, ovarian, and recurrent cancer cases, helping patients compare surgery, radiotherapy, systemic therapy, targeted treatment, and immunotherapy paths." },
+    { zhName: "陈昊", enName: "Chen Hao", years: 18, zhFocus: "肝胆胰与胃肠肿瘤评估", enFocus: "Hepatobiliary and GI tumor review", zhBio: "擅长为消化系统肿瘤患者梳理检查结果和治疗记录，明确分期、基因检测和多学科讨论的优先级。", enBio: "Helps digestive-system cancer patients clarify staging, prior treatment records, molecular testing needs, and whether an MDT review is appropriate." },
+    { zhName: "赵静", enName: "Zhao Jing", years: 29, zhFocus: "靶向与免疫治疗方案评估", enFocus: "Targeted and immunotherapy review", zhBio: "关注分子检测结果与临床治疗选择的匹配，适合需要比较免疫、靶向、放疗或临床研究可能性的患者。", enBio: "Connects molecular test results with treatment choices for patients comparing immunotherapy, targeted therapy, radiotherapy, or research options." },
+    { zhName: "孙立民", enName: "Sun Limin", years: 24, zhFocus: "头颈部与胸部肿瘤会诊", enFocus: "Head-neck and thoracic tumor review", zhBio: "擅长把局部治疗和全身治疗放在同一张路径图中比较，帮助患者判断不同方案的目标、风险与时间窗口。", enBio: "Compares local and systemic treatment options in one pathway, clarifying goals, risks, and timing for patients facing major decisions." },
+  ],
+  cardiology: [
+    { zhName: "李国华", enName: "Li Guohua", years: 34, zhFocus: "冠心病与支架术后方案评估", enFocus: "Coronary disease and post-stent review", zhBio: "擅长评估冠脉 CTA、造影报告、用药记录与既往介入治疗，帮助患者判断是否需要进一步检查或调整治疗策略。", enBio: "Reviews coronary CTA, angiography reports, medication history, and prior interventions to clarify whether further testing or treatment adjustment is needed." },
+    { zhName: "周晓岚", enName: "Zhou Xiaolan", years: 17, zhFocus: "心律失常与房颤管理", enFocus: "Arrhythmia and atrial fibrillation care", zhBio: "关注心律失常、房颤、抗凝用药和消融术前评估，可协助患者整理心电图、Holter 与既往治疗信息。", enBio: "Focuses on arrhythmia, atrial fibrillation, anticoagulation, and pre-ablation review, organizing ECG, Holter, and treatment history for specialist discussion." },
+    { zhName: "黄志远", enName: "Huang Zhiyuan", years: 22, zhFocus: "心衰与瓣膜病治疗路径", enFocus: "Heart failure and valve disease pathways", zhBio: "擅长把超声心动图、BNP、既往住院记录和药物方案放在一起评估，帮助患者理解保守、介入或手术选择。", enBio: "Combines echocardiography, BNP, hospitalization records, and medication plans to help patients understand conservative, interventional, or surgical options." },
+    { zhName: "马成峰", enName: "Ma Chengfeng", years: 30, zhFocus: "高危心血管病例评估", enFocus: "High-risk cardiovascular case review", zhBio: "适合需要在重大手术前评估心脏风险、比较治疗选择或制定长期随访计划的国际患者。", enBio: "Supports international patients who need cardiac risk review before major procedures, treatment comparison, or a long-term follow-up plan." },
+    { zhName: "沈嘉宁", enName: "Shen Jianing", years: 13, zhFocus: "高血压与代谢心血管风险管理", enFocus: "Hypertension and metabolic cardiac risk", zhBio: "擅长把血压记录、血脂血糖、肾功能和用药耐受性放在一起评估，为长期管理提供可执行建议。", enBio: "Reviews blood pressure logs, lipid and glucose data, kidney function, and medication tolerance to shape practical long-term management advice." },
+  ],
+  neurology: [
+    { zhName: "许安然", enName: "Xu Anran", years: 11, zhFocus: "头痛、癫痫与睡眠障碍评估", enFocus: "Headache, epilepsy, and sleep disorder review", zhBio: "擅长整理脑 MRI、脑电图、既往用药和发作记录，帮助患者明确诊断方向、用药调整重点与下一步检查计划。", enBio: "Organizes brain MRI, EEG, medication history, and symptom timelines to clarify diagnostic direction, treatment priorities, and next-step testing." },
+    { zhName: "顾清妍", enName: "Gu Qingyan", years: 23, zhFocus: "帕金森病与运动障碍第二意见", enFocus: "Parkinson's disease and movement disorder second opinions", zhBio: "关注帕金森病、震颤、肌张力障碍等运动障碍疾病，擅长结合病程、影像和药物反应评估下一步治疗选择。", enBio: "Focuses on Parkinson's disease, tremor, dystonia, and other movement disorders, connecting clinical course, imaging, and medication response to practical options." },
+    { zhName: "林嘉明", enName: "Lin Jiaming", years: 16, zhFocus: "卒中后康复与复发风险评估", enFocus: "Post-stroke recovery and recurrence risk review", zhBio: "擅长为脑梗、短暂性脑缺血发作和脑血管狭窄患者梳理检查结果，明确二级预防、康复和复查重点。", enBio: "Helps stroke, TIA, and vascular stenosis patients organize reports and clarify secondary prevention, rehabilitation, and follow-up priorities." },
+    { zhName: "邵文德", enName: "Shao Wende", years: 32, zhFocus: "周围神经病与神经免疫病例", enFocus: "Peripheral nerve and neuroimmunology cases", zhBio: "适合长期症状反复、诊断不清或检查结果复杂的患者，可协助比较神经免疫、代谢和周围神经病变的可能性。", enBio: "Supports patients with recurrent symptoms, unclear diagnoses, or complex findings by comparing neuroimmune, metabolic, and peripheral nerve possibilities." },
+    { zhName: "唐若曦", enName: "Tang Ruoxi", years: 14, zhFocus: "头晕眩晕与认知问题评估", enFocus: "Dizziness, vertigo, and cognitive symptom review", zhBio: "擅长把症状时间线、影像、实验室检查和用药反应整理成清晰摘要，帮助患者理解需要优先处理的问题。", enBio: "Turns symptom timelines, imaging, lab results, and medication responses into concise summaries so patients can understand what should be addressed first." },
+  ],
+  orthopedics: [
+    { zhName: "沈博文", enName: "Shen Bowen", years: 19, zhFocus: "肩膝关节与运动损伤评估", enFocus: "Shoulder, knee, and sports injury review", zhBio: "擅长结合 MRI、X 光和既往治疗记录，帮助患者比较保守治疗、关节镜手术和康复方案的适用性。", enBio: "Reviews MRI, X-ray, and prior treatment records to help patients compare conservative care, arthroscopic surgery, and rehabilitation options." },
+    { zhName: "罗明轩", enName: "Luo Mingxuan", years: 15, zhFocus: "颈腰椎退变与椎间盘问题", enFocus: "Cervical and lumbar degeneration review", zhBio: "关注颈椎病、腰椎间盘突出、椎管狭窄等问题，帮助患者理解影像严重程度与症状之间的关系。", enBio: "Focuses on cervical spondylosis, lumbar disc herniation, and spinal stenosis, helping patients connect imaging severity with real symptoms." },
+    { zhName: "周远航", enName: "Zhou Yuanhang", years: 32, zhFocus: "髋膝关节置换方案评估", enFocus: "Hip and knee replacement pathway review", zhBio: "适合需要比较关节置换时机、假体选择、翻修风险或术后康复计划的患者进行远程第二意见。", enBio: "Supports patients comparing joint replacement timing, implant choices, revision risks, and realistic postoperative rehabilitation plans." },
+    { zhName: "范志强", enName: "Fan Zhiqiang", years: 28, zhFocus: "复杂骨折与创伤后畸形评估", enFocus: "Complex fracture and post-traumatic deformity review", zhBio: "擅长评估复杂骨折、陈旧性损伤和创伤后功能受限病例，帮助患者理解手术目标、风险和恢复周期。", enBio: "Reviews complex fractures, old injuries, and post-traumatic function limits so patients can understand surgical goals, risks, and recovery timelines." },
+    { zhName: "孟晓云", enName: "Meng Xiaoyun", years: 21, zhFocus: "骨质疏松与慢性关节疼痛", enFocus: "Osteoporosis and chronic joint pain", zhBio: "专注慢性关节疼痛、骨质疏松相关骨折风险和术后康复管理，适合需要长期计划的国际患者。", enBio: "Focuses on chronic joint pain, osteoporosis-related fracture risk, and post-surgery rehabilitation management for patients who need a long-term plan." },
+  ],
+  reproductive: [
+    { zhName: "何志峰", enName: "He Zhifeng", years: 24, zhFocus: "试管婴儿方案与促排评估", enFocus: "IVF protocol and ovarian stimulation review", zhBio: "擅长结合激素、AMH、B 超、既往促排和胚胎记录，帮助患者判断试管婴儿方案是否需要调整。", enBio: "Reviews hormones, AMH, ultrasound findings, previous stimulation cycles, and embryo records to clarify whether an IVF plan should be adjusted." },
+    { zhName: "陈丽芳", enName: "Chen Lifang", years: 29, zhFocus: "卵巢功能与反复移植失败评估", enFocus: "Ovarian reserve and recurrent implantation failure review", zhBio: "关注卵巢储备下降、反复移植失败和高龄备孕病例，擅长把检查结果转化为清晰的下一周期策略。", enBio: "Focuses on diminished ovarian reserve, recurrent implantation failure, and advanced maternal age cases, turning records into practical next-cycle strategy questions." },
+    { zhName: "郭雅雯", enName: "Guo Yawen", years: 18, zhFocus: "多囊卵巢与排卵障碍管理", enFocus: "PCOS and ovulation disorder management", zhBio: "擅长为月经不规律、多囊卵巢、排卵障碍和备孕时间较长的患者梳理检查重点与治疗路径。", enBio: "Helps patients with irregular cycles, PCOS, ovulation disorders, or prolonged time trying to conceive organize key tests and treatment pathways." },
+    { zhName: "袁世杰", enName: "Yuan Shijie", years: 25, zhFocus: "男性因素不育评估", enFocus: "Male-factor infertility review", zhBio: "专注男性因素不育、精液质量异常和取精相关决策，帮助夫妇理解是否需要进一步男科或胚胎实验室评估。", enBio: "Focuses on male-factor infertility, abnormal semen parameters, and sperm retrieval decisions, clarifying when additional andrology or lab review is needed." },
+    { zhName: "邓瑞华", enName: "Deng Ruihua", years: 33, zhFocus: "疑难生殖病例多学科评估", enFocus: "Complex fertility case MDT review", zhBio: "适合经历多次失败周期、胚胎质量不稳定或反复流产的患者，协助比较检查、用药和实验室策略。", enBio: "Supports patients after multiple failed cycles, unstable embryo quality, or recurrent pregnancy loss by comparing testing, medication, and lab strategy options." },
+  ],
+  "aesthetic-surgery": [
+    { zhName: "林志诚", enName: "Lin Zhicheng", years: 27, zhFocus: "面部年轻化与轮廓方案评估", enFocus: "Facial rejuvenation and contour planning", zhBio: "擅长把面部比例、皮肤松弛、既往填充或手术记录纳入评估，帮助患者比较微创与手术方案。", enBio: "Evaluates facial proportions, skin laxity, and prior filler or surgery history to help patients compare minimally invasive and surgical options." },
+    { zhName: "叶思敏", enName: "Ye Simin", years: 12, zhFocus: "眼鼻整形与术前设计", enFocus: "Eyelid and rhinoplasty pre-op design", zhBio: "关注东方眼鼻审美、疤痕风险和恢复期管理，可协助患者判断方案是否自然、稳定且符合个人面部条件。", enBio: "Focuses on Asian eyelid and nasal aesthetics, scar risk, and recovery planning so patients can assess whether a plan fits their facial structure." },
+    { zhName: "韩俊", enName: "Han Jun", years: 21, zhFocus: "身体塑形与脂肪移植评估", enFocus: "Body contouring and fat grafting review", zhBio: "擅长比较吸脂、脂肪填充和皮肤收紧方案，帮助患者理解预期效果、恢复周期和二次调整可能性。", enBio: "Compares liposuction, fat grafting, and skin tightening options while clarifying realistic outcomes, recovery, and revision considerations." },
+    { zhName: "蒋惠兰", enName: "Jiang Huilan", years: 30, zhFocus: "修复整形与复杂术后评估", enFocus: "Revision aesthetics and complex post-op review", zhBio: "适合既往整形效果不理想、存在不对称或疤痕问题的患者，协助判断修复时机和风险边界。", enBio: "Supports patients with unsatisfactory prior procedures, asymmetry, or scarring by clarifying revision timing, risks, and realistic limits." },
+    { zhName: "邱泽宇", enName: "Qiu Zeyu", years: 15, zhFocus: "注射美容与综合抗衰计划", enFocus: "Injectables and integrated anti-aging plans", zhBio: "擅长为注射、光电和手术抗衰方案做阶段规划，帮助患者避免过度治疗并控制恢复时间。", enBio: "Plans staged injectable, device-based, and surgical anti-aging options to help patients avoid overtreatment and manage downtime." },
+  ],
+  "stem-cell-therapy": [
+    { zhName: "陈启明", enName: "Chen Qiming", years: 26, zhFocus: "退行性疾病综合评估", enFocus: "Degenerative disease suitability review", zhBio: "擅长结合诊断、既往治疗、影像和功能状态，判断患者是否适合进一步了解再生医学或康复联合方案。", enBio: "Reviews diagnosis, prior treatments, imaging, and functional status to assess whether regenerative medicine or rehabilitation-linked options merit discussion." },
+    { zhName: "吴雅婷", enName: "Wu Yating", years: 14, zhFocus: "慢病病历整理与风险沟通", enFocus: "Chronic case preparation and risk communication", zhBio: "关注患者安全、适应证边界和远程随访资料整理，帮助患者形成适合医生快速判断的病例摘要。", enBio: "Focuses on patient safety, indication boundaries, and follow-up record preparation, turning complex histories into specialist-ready summaries." },
+    { zhName: "梁国栋", enName: "Liang Guodong", years: 23, zhFocus: "神经系统疾病功能评估", enFocus: "Neurologic function assessment", zhBio: "擅长为神经系统疾病患者整理功能评分、影像资料和康复记录，明确远程评估时需要回答的核心问题。", enBio: "Organizes functional scores, imaging, and rehabilitation records for neurologic cases so remote specialists can focus on the key clinical questions." },
+    { zhName: "彭素梅", enName: "Peng Sumei", years: 31, zhFocus: "复杂病例多学科适应证评估", enFocus: "Complex case multidisciplinary suitability review", zhBio: "适合诊断复杂、既往治疗较多或存在多系统问题的患者，协助比较现有证据、潜在获益与风险控制。", enBio: "Supports complex cases with multiple prior treatments or multisystem issues by comparing available evidence, potential benefit, and risk controls." },
+    { zhName: "宋景然", enName: "Song Jingran", years: 11, zhFocus: "治疗前资料审核与随访计划", enFocus: "Pre-treatment record review and follow-up planning", zhBio: "擅长把实验室检查、影像、用药和既往治疗时间线整理成结构化摘要，为远程问诊和后续随访做准备。", enBio: "Structures labs, imaging, medications, and treatment timelines into concise summaries for remote consultation and follow-up planning." },
+  ],
+  dentistry: [
+    { zhName: "赵明远", enName: "Zhao Mingyuan", years: 25, zhFocus: "全口种植与咬合重建评估", enFocus: "Full-mouth implant and bite reconstruction review", zhBio: "擅长综合 CBCT、牙周状况和既往修复记录，帮助患者比较种植数量、骨增量和临时修复方案。", enBio: "Reviews CBCT, periodontal status, and prior restorations to compare implant count, bone augmentation, and provisional restoration options." },
+    { zhName: "罗雅婷", enName: "Luo Yating", years: 13, zhFocus: "贴面与微笑设计", enFocus: "Veneers and smile design", zhBio: "关注牙色、牙形、牙龈线和面部比例，帮助患者判断贴面、冠修复或正畸联合方案是否合适。", enBio: "Focuses on tooth shade, shape, gum line, and facial proportion to compare veneers, crowns, or orthodontic-combined plans." },
+    { zhName: "邓凯", enName: "Deng Kai", years: 20, zhFocus: "复杂拔牙与颌面外科评估", enFocus: "Complex extraction and oral surgery review", zhBio: "擅长判断阻生牙、囊肿、骨缺损及种植前外科处理的风险，为患者明确手术路径和恢复重点。", enBio: "Assesses impacted teeth, cysts, bone defects, and pre-implant surgical needs to clarify procedural pathways and recovery priorities." },
+    { zhName: "秦慧敏", enName: "Qin Huimin", years: 29, zhFocus: "疑难修复与多学科口腔重建", enFocus: "Complex prosthodontic and multidisciplinary reconstruction", zhBio: "适合多颗缺失、咬合紊乱或既往修复失败的患者，协助比较阶段治疗、种植和固定修复策略。", enBio: "Supports patients with multiple missing teeth, bite collapse, or failed restorations by comparing staged care, implants, and fixed prosthetic strategies." },
+    { zhName: "高子轩", enName: "Gao Zixuan", years: 10, zhFocus: "牙周治疗与长期维护计划", enFocus: "Periodontal care and long-term maintenance", zhBio: "擅长整理牙周袋深度、影像和洁治记录，帮助患者判断种植或修复前是否需要先控制炎症。", enBio: "Reviews periodontal charting, imaging, and cleaning history to clarify whether inflammation control is needed before implants or restorations." },
+  ],
+  pediatrics: [
+    { zhName: "郑文涛", enName: "Zheng Wentao", years: 24, zhFocus: "儿童慢病与疑难症状评估", enFocus: "Pediatric chronic and complex symptom review", zhBio: "擅长把生长曲线、化验、影像和既往用药记录放在一起评估，帮助家庭明确下一步检查和转诊重点。", enBio: "Combines growth charts, labs, imaging, and medication history to help families clarify next tests and referral priorities." },
+    { zhName: "冯晓宁", enName: "Feng Xiaoning", years: 15, zhFocus: "哮喘、过敏与反复感染管理", enFocus: "Asthma, allergy, and recurrent infection care", zhBio: "关注反复咳喘、过敏原检测和长期用药安全，帮助家长理解急性发作与长期控制计划。", enBio: "Focuses on recurrent wheeze, allergy testing, and long-term medication safety, helping parents distinguish acute care from control plans." },
+    { zhName: "钱昊", enName: "Qian Hao", years: 21, zhFocus: "发育迟缓与神经行为问题", enFocus: "Developmental delay and neurobehavioral review", zhBio: "擅长整理发育评估、康复记录和学校反馈，帮助家庭判断是否需要进一步神经、遗传或康复评估。", enBio: "Reviews developmental assessments, therapy records, and school feedback to clarify whether neurologic, genetic, or rehabilitation review is needed." },
+    { zhName: "陆雅琴", enName: "Lu Yaqin", years: 32, zhFocus: "儿童疑难病多学科会诊", enFocus: "Pediatric complex disease MDT review", zhBio: "适合诊断不清、症状跨系统或多次治疗效果有限的儿童病例，协助梳理病史并制定分层检查计划。", enBio: "Supports unclear, multisystem, or treatment-resistant pediatric cases by organizing history and building a staged diagnostic plan." },
+    { zhName: "曹睿", enName: "Cao Rui", years: 12, zhFocus: "儿童消化与营养问题评估", enFocus: "Pediatric digestive and nutrition review", zhBio: "擅长整理喂养、体重增长、腹痛腹泻和过敏相关资料，帮助家庭明确营养、消化或免疫方向。", enBio: "Organizes feeding, weight gain, abdominal pain, diarrhea, and allergy records to clarify nutrition, digestive, or immune-related directions." },
+  ],
+  urology: [
+    { zhName: "胡志强", enName: "Hu Zhiqiang", years: 27, zhFocus: "前列腺疾病与泌尿肿瘤评估", enFocus: "Prostate disease and urologic oncology review", zhBio: "擅长结合 PSA、MRI、病理和既往治疗记录，帮助患者比较活检、手术、放疗或随访策略。", enBio: "Reviews PSA, MRI, pathology, and prior treatment records to compare biopsy, surgery, radiotherapy, or surveillance strategies." },
+    { zhName: "宋婉清", enName: "Song Wanqing", years: 16, zhFocus: "女性泌尿与盆底功能障碍", enFocus: "Female urology and pelvic floor dysfunction", zhBio: "关注尿失禁、反复尿路感染和盆底功能问题，帮助患者理解保守、药物和手术治疗路径。", enBio: "Focuses on urinary incontinence, recurrent UTI, and pelvic floor issues, helping patients compare conservative, medication, and surgical care." },
+    { zhName: "徐凯", enName: "Xu Kai", years: 22, zhFocus: "复杂结石与微创手术路径", enFocus: "Complex stone disease and minimally invasive pathways", zhBio: "擅长根据 CT、结石位置、肾功能和感染风险判断体外碎石、输尿管镜或经皮肾镜方案。", enBio: "Uses CT, stone location, kidney function, and infection risk to compare shockwave, ureteroscopic, or percutaneous approaches." },
+    { zhName: "姚明德", enName: "Yao Mingde", years: 33, zhFocus: "复杂泌尿重建与术后问题评估", enFocus: "Complex urologic reconstruction and post-op review", zhBio: "适合既往手术后恢复不佳、狭窄、功能障碍或复发问题患者，协助判断二次评估和修复可能性。", enBio: "Supports patients with poor recovery, strictures, dysfunction, or recurrence after prior procedures by clarifying re-evaluation and revision options." },
+    { zhName: "贺景晨", enName: "He Jingchen", years: 12, zhFocus: "男科与排尿功能评估", enFocus: "Andrology and voiding function review", zhBio: "擅长整理症状评分、尿流率、激素和用药记录，帮助患者明确是否需要进一步男科或功能检查。", enBio: "Reviews symptom scores, uroflow, hormone data, and medication history to clarify whether additional andrology or functional testing is needed." },
+  ],
+  endocrinology: [
+    { zhName: "张瑞平", enName: "Zhang Ruiping", years: 28, zhFocus: "糖尿病与复杂代谢管理", enFocus: "Diabetes and complex metabolic management", zhBio: "擅长把血糖记录、并发症筛查、体重和用药耐受性放在一起评估，帮助患者制定长期管理重点。", enBio: "Combines glucose logs, complication screening, weight history, and medication tolerance to shape long-term management priorities." },
+    { zhName: "何晓梅", enName: "He Xiaomei", years: 15, zhFocus: "甲状腺结节与功能异常评估", enFocus: "Thyroid nodules and dysfunction review", zhBio: "关注超声、穿刺结果、甲功和抗体变化，帮助患者判断随访、药物、消融或手术路径。", enBio: "Reviews ultrasound, biopsy, thyroid function, and antibody trends to compare follow-up, medication, ablation, or surgery pathways." },
+    { zhName: "傅天成", enName: "Fu Tiancheng", years: 19, zhFocus: "肥胖、脂肪肝与胰岛素抵抗", enFocus: "Obesity, fatty liver, and insulin resistance", zhBio: "擅长整合体重史、肝功能、血脂血糖和生活方式因素，评估药物、营养和手术前后的管理方案。", enBio: "Integrates weight history, liver function, lipids, glucose, and lifestyle factors to review medication, nutrition, and peri-surgical management options." },
+    { zhName: "梁静", enName: "Liang Jing", years: 31, zhFocus: "垂体、肾上腺与疑难内分泌病", enFocus: "Pituitary, adrenal, and complex endocrine disease", zhBio: "适合激素结果复杂、症状不典型或诊断不清的患者，协助判断是否需要动态试验、影像或多学科评估。", enBio: "Supports patients with complex hormone results, atypical symptoms, or unclear diagnoses by clarifying dynamic testing, imaging, or MDT needs." },
+    { zhName: "戴子涵", enName: "Dai Zihan", years: 10, zhFocus: "多囊卵巢与代谢风险评估", enFocus: "PCOS and metabolic risk review", zhBio: "擅长整理月经、激素、体重和代谢指标，为备孕、减重或长期内分泌管理提供下一步建议。", enBio: "Organizes menstrual history, hormones, weight, and metabolic markers to guide fertility planning, weight care, or long-term endocrine management." },
+  ],
+  ophthalmology: [
+    { zhName: "袁光明", enName: "Yuan Guangming", years: 30, zhFocus: "白内障与复杂屈光问题", enFocus: "Cataract and complex refractive review", zhBio: "擅长结合验光、眼轴、角膜地形图和既往手术记录，帮助患者比较晶体、激光或联合治疗方案。", enBio: "Reviews refraction, axial length, corneal topography, and prior surgery history to compare lens, laser, or combined treatment options." },
+    { zhName: "苏婉婷", enName: "Su Wanting", years: 14, zhFocus: "眼底病与糖尿病视网膜病变", enFocus: "Retinal disease and diabetic retinopathy", zhBio: "关注 OCT、眼底照相、荧光造影和全身代谢控制，帮助患者判断注射、激光或随访策略。", enBio: "Uses OCT, fundus imaging, angiography, and systemic metabolic control data to compare injection, laser, or monitoring strategies." },
+    { zhName: "蒋一鸣", enName: "Jiang Yiming", years: 21, zhFocus: "青光眼与视神经损伤评估", enFocus: "Glaucoma and optic nerve damage review", zhBio: "擅长分析眼压曲线、视野、OCT 和用药反应，帮助患者理解药物、激光和手术控制目标。", enBio: "Analyzes pressure trends, visual fields, OCT, and medication response to clarify medication, laser, and surgery control targets." },
+    { zhName: "侯美兰", enName: "Hou Meilan", years: 33, zhFocus: "复杂眼病多学科第二意见", enFocus: "Complex ophthalmic second opinions", zhBio: "适合多次治疗效果有限、合并全身疾病或诊断存在分歧的眼病患者，协助梳理证据和治疗优先级。", enBio: "Supports patients with limited treatment response, systemic disease overlap, or diagnostic disagreement by organizing evidence and treatment priorities." },
+    { zhName: "丁泽宇", enName: "Ding Zeyu", years: 11, zhFocus: "干眼、角膜与术后不适评估", enFocus: "Dry eye, cornea, and post-op discomfort review", zhBio: "擅长整理角膜检查、泪膜评估和术后症状时间线，帮助患者明确需要优先处理的表面疾病问题。", enBio: "Reviews corneal tests, tear film data, and post-op symptom timelines to clarify ocular surface issues that should be addressed first." },
+  ],
+};
+
+function getRosterTitle(profile: RosterProfile, locale: Locale): { title: string; displayName: string } {
+  const isZh = locale === "zh";
+  const isSenior = profile.years >= 28;
+  const isChief = profile.years >= 18;
+
+  if (isZh) {
+    return {
+      title: isSenior ? "教授 / 主任医师" : isChief ? "主任医师" : "副主任医师",
+      displayName: `${profile.zhName}${isSenior ? "教授" : isChief ? "主任医师" : "副主任医师"}`,
+    };
   }
 
-  const localizedRoster = {
-    en: {
-      names: ["Prof. Victor Zhang", "Dr. Helen Li", "Dr. Michael Chen", "Dr. Grace Wu", "Prof. Daniel Huang"],
-      titles: ["Senior Consultant", "Chief Physician", "Associate Chief Physician", "Chief Physician", "Senior Consultant"],
-      hospitals: ["Shanghai tertiary hospital network", "Beijing specialist center", "Guangzhou academic hospital network", "Chengdu regional medical center", "Hangzhou international care network"],
-      focus: ["Second-opinion case review", "Complex treatment pathway assessment", "Surgical and non-surgical option comparison", "Multispecialty case discussion", "Long-term care planning"],
-      tags: ["Written review", "Video consult", "English support"],
-      experience: "years clinical experience",
-      tertiary: "Tertiary hospital specialist",
-      bio: (value: string) => `Focused on ${value.toLowerCase()} case review, helping patients understand diagnosis, treatment choices, and practical next steps.`,
-      imageAlt: (value: string) => `Representative Chinese ${value} specialist portrait`,
-    },
-    es: {
-      names: ["Prof. Victor Zhang", "Dra. Helen Li", "Dr. Michael Chen", "Dra. Grace Wu", "Prof. Daniel Huang"],
-      titles: ["Consultor sénior", "Médica jefe", "Médico jefe asociado", "Médica jefe", "Consultor sénior"],
-      hospitals: ["Red de hospitales terciarios de Shanghái", "Centro especializado de Pekín", "Red académica hospitalaria de Guangzhou", "Centro médico regional de Chengdu", "Red internacional de atención de Hangzhou"],
-      focus: ["Revisión de segunda opinión", "Evaluación de rutas de tratamiento complejas", "Comparación de opciones quirúrgicas y no quirúrgicas", "Discusión multispecialidad del caso", "Planificación de atención a largo plazo"],
-      tags: ["Revisión escrita", "Consulta por video", "Soporte en inglés"],
-      experience: "años de experiencia clínica",
-      tertiary: "Especialista de hospital terciario",
-      bio: (value: string) => `Enfocado en revisión de casos de ${value.toLowerCase()}, ayudando a entender diagnóstico, opciones de tratamiento y próximos pasos.`,
-      imageAlt: (value: string) => `Retrato representativo de especialista chino en ${value}`,
-    },
-    fr: {
-      names: ["Pr Victor Zhang", "Dre Helen Li", "Dr Michael Chen", "Dre Grace Wu", "Pr Daniel Huang"],
-      titles: ["Consultant senior", "Médecin chef", "Médecin chef adjoint", "Médecin chef", "Consultant senior"],
-      hospitals: ["Réseau hospitalier tertiaire de Shanghai", "Centre spécialisé de Pékin", "Réseau hospitalier universitaire de Guangzhou", "Centre médical régional de Chengdu", "Réseau international de soins de Hangzhou"],
-      focus: ["Revue de deuxième avis", "Évaluation de parcours complexes", "Comparaison options chirurgicales et non chirurgicales", "Discussion multidisciplinaire du dossier", "Planification de soins à long terme"],
-      tags: ["Avis écrit", "Consultation vidéo", "Support anglais"],
-      experience: "ans d'expérience clinique",
-      tertiary: "Spécialiste d'hôpital tertiaire",
-      bio: (value: string) => `Spécialisé dans la revue de cas en ${value.toLowerCase()}, avec aide à la compréhension du diagnostic, des choix de traitement et des prochaines étapes.`,
-      imageAlt: (value: string) => `Portrait représentatif d'un spécialiste chinois en ${value}`,
-    },
-    de: {
-      names: ["Prof. Victor Zhang", "Dr. Helen Li", "Dr. Michael Chen", "Dr. Grace Wu", "Prof. Daniel Huang"],
-      titles: ["Leitender Berater", "Chefärztin", "Stellvertretender Chefarzt", "Chefärztin", "Leitender Berater"],
-      hospitals: ["Tertiäres Kliniknetzwerk Shanghai", "Spezialzentrum Peking", "Akademisches Kliniknetzwerk Guangzhou", "Regionales Medizinzentrum Chengdu", "Internationales Versorgungsnetzwerk Hangzhou"],
-      focus: ["Zweitmeinungsprüfung", "Bewertung komplexer Behandlungspfade", "Vergleich chirurgischer und nicht-chirurgischer Optionen", "Multidisziplinäre Fallbesprechung", "Langfristige Versorgungsplanung"],
-      tags: ["Schriftliche Prüfung", "Videokonsultation", "Englische Unterstützung"],
-      experience: "Jahre klinische Erfahrung",
-      tertiary: "Spezialist an tertiärer Klinik",
-      bio: (value: string) => `Fokussiert auf Fallprüfungen in ${value.toLowerCase()} und hilft Patienten, Diagnose, Therapieoptionen und nächste Schritte zu verstehen.`,
-      imageAlt: (value: string) => `Repräsentatives Porträt eines chinesischen Spezialisten für ${value}`,
-    },
-    ru: {
-      names: ["Проф. Виктор Чжан", "Д-р Хелен Ли", "Д-р Майкл Чэнь", "Д-р Грейс У", "Проф. Дэниел Хуан"],
-      titles: ["Старший консультант", "Главный врач", "Заместитель главного врача", "Главный врач", "Старший консультант"],
-      hospitals: ["Сеть третичных больниц Шанхая", "Специализированный центр Пекина", "Академическая больничная сеть Гуанчжоу", "Региональный медицинский центр Чэнду", "Международная сеть помощи Ханчжоу"],
-      focus: ["Обзор для второго мнения", "Оценка сложного маршрута лечения", "Сравнение хирургических и нехирургических вариантов", "Междисциплинарное обсуждение случая", "Планирование долгосрочного лечения"],
-      tags: ["Письменный обзор", "Видеоконсультация", "Поддержка на английском"],
-      experience: "лет клинического опыта",
-      tertiary: "Специалист третичной больницы",
-      bio: (value: string) => `Фокус на обзоре случаев по направлению ${value.toLowerCase()}, чтобы помочь понять диагноз, варианты лечения и практические следующие шаги.`,
-      imageAlt: (value: string) => `Представительный портрет китайского специалиста по направлению ${value}`,
-    },
-  } as const;
+  return {
+    title: isSenior ? "Professor / Chief Physician" : isChief ? "Chief Physician" : "Associate Chief Physician",
+    displayName: `${isSenior ? "Prof." : "Dr."} ${profile.enName}`,
+  };
+}
 
-  const copy = localizedRoster[locale === "zh" ? "en" : locale];
+function buildExpertRoster(specialty: string, locale: Locale): ExpertCard[] {
+  const category = getRosterCategory(specialty);
+  const roster = SPECIALTY_ROSTER_PROFILES[category];
+  const hospitals = CATEGORY_HOSPITALS[category];
+  const isZh = locale === "zh";
 
-  return copy.names.map((name, index) => ({
-    name,
-    title: copy.titles[index],
-    specialty,
-    hospital: copy.hospitals[index],
-    credentials: [`${experienceYears[index]}+ ${copy.experience}`, copy.focus[index], copy.tertiary],
-    tags: [...copy.tags],
-    bio: copy.bio(specialty),
-    image: `${category}-${index + 1}`,
-    imageAlt: copy.imageAlt(specialty),
-    featured: index === 1,
-  }));
+  return roster.map((profile, index) => {
+    const { title, displayName } = getRosterTitle(profile, locale);
+
+    return {
+      name: displayName,
+      title,
+      specialty,
+      hospital: isZh ? hospitals.zh[index] : hospitals.en[index],
+      credentials: isZh
+        ? [`${profile.years}+ 年临床经验`, profile.zhFocus, "三甲医院专家"]
+        : [`${profile.years}+ years clinical experience`, profile.enFocus, "Tertiary hospital specialist"],
+      tags: isZh ? ["书面审阅", "视频问诊", "英文支持"] : ["Written review", "Video consult", "English support"],
+      bio: isZh ? profile.zhBio : profile.enBio,
+      image: `${category}-${index + 1}`,
+      imageAlt: isZh ? `${specialty}中国专科医生代表头像` : `Representative Chinese ${specialty} specialist portrait`,
+      featured: index === 1,
+    };
+  });
 }
 
 function SectionHeader({
