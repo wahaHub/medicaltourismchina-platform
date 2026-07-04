@@ -76,7 +76,7 @@ const landingContent: Record<string, LandingConfig> = {
     procedures: [
       { label: "Stem Cell Therapy", href: "/featured-treatments/stem-cell-therapy" },
       { label: "Hematopoietic Stem Cell Transplantation", href: "/featured-treatments/hematopoietic-stem-cell-transplantation" },
-      { label: "Medical Enquiry", href: "/medical-enquiry" },
+      { label: "Free Treatment Quote", href: "/free-quote" },
     ],
   },
 };

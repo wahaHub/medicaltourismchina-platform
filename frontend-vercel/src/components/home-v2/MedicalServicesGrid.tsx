@@ -1,4 +1,3 @@
-import { useNavigate } from "react-router-dom";
 import { Card } from "@/components/ui/card";
 import { useLanguage } from "@/contexts/LanguageContext";
 import ProgressiveImage from "@/components/ProgressiveImage";
@@ -6,7 +5,6 @@ import ProgressiveImage from "@/components/ProgressiveImage";
 const LOW_MEDIA_BASE = `${(import.meta.env.VITE_PUBLIC_MEDIA_BASE_URL || 'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev').replace(/\/+$/, '')}/low`;
 
 export default function MedicalServicesGrid() {
-  const navigate = useNavigate();
   const { t } = useLanguage();
 
   const services = [
@@ -14,67 +12,53 @@ export default function MedicalServicesGrid() {
       titleKey: "homepage.services.service1.title",
       descriptionKey: "homepage.services.service1.description",
       imageBaseUrl: `${LOW_MEDIA_BASE}/homepage/medical_journey/doctor_app1`,
-      href: "/doctor-appointment",
     },
     {
       titleKey: "homepage.services.service2.title",
       descriptionKey: "homepage.services.service2.description",
       imageBaseUrl: `${LOW_MEDIA_BASE}/homepage/medical_journey/doctor_app2`,
-      href: "/medical-enquiry",
     },
     {
       titleKey: "homepage.services.service3.title",
       descriptionKey: "homepage.services.service3.description",
       imageBaseUrl: `${LOW_MEDIA_BASE}/homepage/medical_journey/doctor_app3`,
-      href: "/hospital-admissions",
     },
     {
       titleKey: "homepage.services.service4.title",
       descriptionKey: "homepage.services.service4.description",
       imageBaseUrl: `${LOW_MEDIA_BASE}/homepage/medical_journey/doctor_app4`,
-      href: "/visa",
     },
     {
       titleKey: "homepage.services.service5.title",
       descriptionKey: "homepage.services.service5.description",
       imageBaseUrl: `${LOW_MEDIA_BASE}/homepage/medical_journey/doctor_app5`,
-      href: "/language-interpreter",
     },
     {
       titleKey: "homepage.services.service6.title",
       descriptionKey: "homepage.services.service6.description",
       imageBaseUrl: `${LOW_MEDIA_BASE}/homepage/medical_journey/doctor_app6`,
-      href: "/airport-pick-up",
     },
     {
       titleKey: "homepage.services.service7.title",
       descriptionKey: "homepage.services.service7.description",
       imageBaseUrl: `${LOW_MEDIA_BASE}/homepage/medical_journey/doctor_app7`,
-      href: "/hotel-accommodation",
     },
     {
       titleKey: "homepage.services.service8.title",
       descriptionKey: "homepage.services.service8.description",
       imageBaseUrl: `${LOW_MEDIA_BASE}/homepage/medical_journey/doctor_app8`,
-      href: "/transfer-money-for-treatment",
     },
     {
       titleKey: "homepage.services.service9.title",
       descriptionKey: "homepage.services.service9.description",
       imageBaseUrl: `${LOW_MEDIA_BASE}/homepage/medical_journey/doctor_app9`,
-      href: "/post-treatment-support",
     },
     {
       titleKey: "homepage.services.service10.title",
       descriptionKey: "homepage.services.service10.description",
       imageBaseUrl: `${LOW_MEDIA_BASE}/homepage/medical_journey/doctor_app10`,
-      href: "/telemedicine",
     },
   ];
-
-  const handleNavigation = (href: string) => {
-    navigate(href);
-  };
 
   return (
     <section className="py-6 sm:py-10 md:py-16 lg:py-20">
@@ -108,13 +92,9 @@ export default function MedicalServicesGrid() {
           {/* All cards - 2 columns on mobile/tablet, same layout on desktop */}
           <div className="grid grid-cols-2 md:grid-cols-2 gap-2.5 md:gap-4 -mt-8 sm:-mt-12 md:-mt-20 lg:-mt-28">
             {services.map((service, index) => (
-              <div
-                key={index}
-                onClick={() => handleNavigation(service.href)}
-                className="cursor-pointer group"
-              >
+              <div key={index}>
                 <Card
-                  className="bg-white p-0 shadow-none overflow-hidden rounded-xl sm:rounded-2xl transition-all duration-500 hover:scale-105 hover:shadow-2xl border-none"
+                  className="bg-white p-0 shadow-none overflow-hidden rounded-xl sm:rounded-2xl border-none"
                 >
                   {/* Mobile/Tablet: Image on top, text below. Desktop: Side by side */}
                   <div className="flex flex-col md:flex-row gap-2 sm:gap-3 md:gap-4 p-2 sm:p-3 md:p-4">
@@ -123,11 +103,11 @@ export default function MedicalServicesGrid() {
                         baseUrl={service.imageBaseUrl}
                         alt={t(service.titleKey as any)}
                         resolutionLevels={['x1', 'x3']}
-                        className="absolute inset-0 w-full h-full object-cover transition-transform duration-700 ease-out group-hover:scale-110"
+                        className="absolute inset-0 w-full h-full object-cover"
                       />
                     </div>
                     <div className="flex-1 flex flex-col justify-center">
-                      <h3 className="text-xs sm:text-sm md:text-lg lg:text-xl font-bold text-[#0A4A5C] mb-1 pb-1 border-b-4 border-[#14B8A6] w-fit transition-colors duration-300 group-hover:text-[#14B8A6]">
+                      <h3 className="text-xs sm:text-sm md:text-lg lg:text-xl font-bold text-[#0A4A5C] mb-1 pb-1 border-b-4 border-[#14B8A6] w-fit">
                         {t(service.titleKey as any)}
                       </h3>
                       <p className="text-[9px] sm:text-[10px] md:text-xs lg:text-sm text-gray-600 leading-relaxed mt-1">

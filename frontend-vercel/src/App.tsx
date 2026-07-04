@@ -33,15 +33,7 @@ const PartnershipApplicationPage = lazy(() => import("./pages/PartnershipApplica
 const CaseIntakePage = lazy(() => import("./pages/CaseIntakePage"));
 const CaseIntakeViewPage = lazy(() => import("./pages/CaseIntakeViewPage"));
 const NotFound = lazy(() => import("./pages/NotFound"));
-const DoctorAppointment = lazy(() => import("./pages/DoctorAppointment"));
-const MedicalEnquiry = lazy(() => import("./pages/MedicalEnquiry"));
-const HospitalAdmissions = lazy(() => import("./pages/HospitalAdmissions"));
-const AirportPickup = lazy(() => import("./pages/AirportPickup"));
-const HotelAccommodation = lazy(() => import("./pages/HotelAccommodation"));
-const LanguageInterpreter = lazy(() => import("./pages/LanguageInterpreter"));
 const Telemedicine = lazy(() => import("./pages/Telemedicine"));
-const PostTreatmentSupport = lazy(() => import("./pages/PostTreatmentSupport"));
-const TransferMoney = lazy(() => import("./pages/TransferMoney"));
 const FreeQuote = lazy(() => import("./pages/FreeQuote"));
 const PatientLoginPage = lazy(() => import("./pages/PatientLoginPage"));
 const DashboardRoute = lazy(() => import("./pages/DashboardRoute"));
@@ -142,16 +134,7 @@ const App = () => (
                     <Route path="/patient-login" element={<PatientLoginPage />} />
                     <Route path="/dashboard" element={<PatientRuntimeRoute><DashboardRoute /></PatientRuntimeRoute>} />
 
-                    {/* New Service Pages */}
-                    <Route path="/doctor-appointment" element={<DoctorAppointment />} />
-                    <Route path="/medical-enquiry" element={<MedicalEnquiry />} />
-                    <Route path="/hospital-admissions" element={<HospitalAdmissions />} />
-                    <Route path="/airport-pick-up" element={<AirportPickup />} />
-                    <Route path="/hotel-accommodation" element={<HotelAccommodation />} />
-                    <Route path="/language-interpreter" element={<LanguageInterpreter />} />
                     <Route path="/telemedicine" element={<Telemedicine />} />
-                    <Route path="/post-treatment-support" element={<PostTreatmentSupport />} />
-                    <Route path="/transfer-money-for-treatment" element={<TransferMoney />} />
                     <Route path="/free-quote" element={<FreeQuote />} />
                     <Route path="/health-packages" element={<HealthPackages />} />
                     <Route path="/hollywood-smile-veneers" element={<HollywoodSmileVeneers />} />
