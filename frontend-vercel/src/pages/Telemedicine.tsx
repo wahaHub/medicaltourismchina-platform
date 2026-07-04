@@ -1374,38 +1374,54 @@ TELEMEDICINE_COPY.ru.notice = {
   items: [["Не экстренная помощь", "При срочных симптомах немедленно обратитесь в местную службу экстренной помощи."], ["Обзор по документам", "Качество обзора зависит от полноты и качества предоставленных документов."], ["Обсудите с врачом", "Используйте второе мнение как дополнительную перспективу для обсуждения с лечащим врачом."]],
 };
 
-TELEMEDICINE_COPY.es.faq.items = [
-  ["¿Es un diagnóstico en línea?", "No. Es una revisión de registros médicos y segunda opinión basada en la información que usted proporciona."],
-  ["¿Qué opción debo elegir?", "Elija revisión escrita para un informe, consulta por video para hablar con un especialista o revisión multidisciplinaria para casos complejos."],
-  ["¿Puedo empezar con revisión escrita y ampliar después?", "Sí. Muchos pacientes empiezan con una revisión escrita y luego solicitan video o revisión adicional."],
-  ["¿Qué registros necesito?", "Informes diagnósticos, imágenes, patología, análisis, alta hospitalaria, historial de tratamiento, medicamentos y plan actual."],
-  ["¿Cuánto tarda?", "La revisión escrita suele tardar 48-72 horas; el video 3-5 días hábiles; la revisión compleja 5-7 días hábiles."],
-  ["¿Tengo que viajar a China?", "No. La segunda opinión es remota. Si su caso es adecuado, Medora puede ayudarle a explorar tratamiento en China."],
-];
-TELEMEDICINE_COPY.fr.faq.items = [
-  ["Est-ce un diagnostic en ligne ?", "Non. C'est une revue de dossier et un deuxième avis basé sur les informations fournies."],
-  ["Quelle option choisir ?", "Choisissez l'avis écrit pour un rapport, la vidéo pour parler à un spécialiste ou la revue multidisciplinaire pour les cas complexes."],
-  ["Puis-je commencer par un avis écrit puis évoluer ?", "Oui. De nombreux patients commencent par un avis écrit puis demandent une vidéo ou une revue supplémentaire."],
-  ["Quels dossiers faut-il ?", "Diagnostics, imagerie, pathologie, analyses, compte rendu de sortie, historique de traitement, médicaments et plan actuel."],
-  ["Combien de temps faut-il ?", "L'avis écrit prend souvent 48-72 heures ; la vidéo 3-5 jours ouvrés ; la revue complexe 5-7 jours ouvrés."],
-  ["Dois-je voyager en Chine ?", "Non. Le deuxième avis est à distance. Si votre cas s'y prête, Medora peut aider à explorer un traitement en Chine."],
-];
-TELEMEDICINE_COPY.de.faq.items = [
-  ["Ist das eine Online-Diagnose?", "Nein. Es handelt sich um eine Unterlagenprüfung und Zweitmeinung auf Basis der bereitgestellten Informationen."],
-  ["Welche Option soll ich wählen?", "Wählen Sie die schriftliche Prüfung für einen Bericht, Video für ein Gespräch oder multidisziplinär für komplexe Fälle."],
-  ["Kann ich mit schriftlicher Prüfung starten und später erweitern?", "Ja. Viele Patienten starten schriftlich und fragen danach Video oder weitere Fachprüfung an."],
-  ["Welche Unterlagen brauche ich?", "Diagnoseberichte, Bildgebung, Pathologie, Labor, Entlassungsberichte, Therapieverlauf, Medikamente und aktueller Plan."],
-  ["Wie lange dauert es?", "Schriftlich meist 48-72 Stunden; Video 3-5 Werktage; komplexe Prüfung 5-7 Werktage."],
-  ["Muss ich nach China reisen?", "Nein. Die Zweitmeinung ist remote. Wenn passend, hilft Medora bei der Prüfung von Behandlungsoptionen in China."],
-];
-TELEMEDICINE_COPY.ru.faq.items = [
-  ["Это онлайн-диагноз?", "Нет. Это обзор медицинских документов и второе мнение на основе предоставленной информации."],
-  ["Какой вариант выбрать?", "Выберите письменный обзор для отчета, видео для разговора со специалистом или междисциплинарный обзор для сложных случаев."],
-  ["Можно начать с письменного обзора и потом расширить?", "Да. Многие пациенты начинают с письменного обзора, затем запрашивают видео или дополнительный обзор."],
-  ["Какие документы нужны?", "Диагнозы, снимки, патология, анализы, выписки, история лечения, список лекарств и текущий план."],
-  ["Сколько это занимает?", "Письменный обзор обычно 48-72 часа; видео 3-5 рабочих дней; сложный обзор 5-7 рабочих дней."],
-  ["Нужно ли ехать в Китай?", "Нет. Второе мнение удаленное. Если случай подходит, Medora поможет рассмотреть лечение в Китае."],
-];
+TELEMEDICINE_COPY.es.faq = {
+  label: "Preguntas frecuentes",
+  title: "Preguntas comunes",
+  items: [
+    ["¿Es un diagnóstico en línea?", "No. Es una revisión de registros médicos y segunda opinión basada en la información que usted proporciona."],
+    ["¿Qué opción debo elegir?", "Elija revisión escrita para un informe, consulta por video para hablar con un especialista o revisión multidisciplinaria para casos complejos."],
+    ["¿Puedo empezar con revisión escrita y ampliar después?", "Sí. Muchos pacientes empiezan con una revisión escrita y luego solicitan video o revisión adicional."],
+    ["¿Qué registros necesito?", "Informes diagnósticos, imágenes, patología, análisis, alta hospitalaria, historial de tratamiento, medicamentos y plan actual."],
+    ["¿Cuánto tarda?", "La revisión escrita suele tardar 48-72 horas; el video 3-5 días hábiles; la revisión compleja 5-7 días hábiles."],
+    ["¿Tengo que viajar a China?", "No. La segunda opinión es remota. Si su caso es adecuado, Medora puede ayudarle a explorar tratamiento en China."],
+  ],
+};
+TELEMEDICINE_COPY.fr.faq = {
+  label: "FAQ",
+  title: "Questions fréquentes",
+  items: [
+    ["Est-ce un diagnostic en ligne ?", "Non. C'est une revue de dossier et un deuxième avis basé sur les informations fournies."],
+    ["Quelle option choisir ?", "Choisissez l'avis écrit pour un rapport, la vidéo pour parler à un spécialiste ou la revue multidisciplinaire pour les cas complexes."],
+    ["Puis-je commencer par un avis écrit puis évoluer ?", "Oui. De nombreux patients commencent par un avis écrit puis demandent une vidéo ou une revue supplémentaire."],
+    ["Quels dossiers faut-il ?", "Diagnostics, imagerie, pathologie, analyses, compte rendu de sortie, historique de traitement, médicaments et plan actuel."],
+    ["Combien de temps faut-il ?", "L'avis écrit prend souvent 48-72 heures ; la vidéo 3-5 jours ouvrés ; la revue complexe 5-7 jours ouvrés."],
+    ["Dois-je voyager en Chine ?", "Non. Le deuxième avis est à distance. Si votre cas s'y prête, Medora peut aider à explorer un traitement en Chine."],
+  ],
+};
+TELEMEDICINE_COPY.de.faq = {
+  label: "FAQ",
+  title: "Häufige Fragen",
+  items: [
+    ["Ist das eine Online-Diagnose?", "Nein. Es handelt sich um eine Unterlagenprüfung und Zweitmeinung auf Basis der bereitgestellten Informationen."],
+    ["Welche Option soll ich wählen?", "Wählen Sie die schriftliche Prüfung für einen Bericht, Video für ein Gespräch oder multidisziplinär für komplexe Fälle."],
+    ["Kann ich mit schriftlicher Prüfung starten und später erweitern?", "Ja. Viele Patienten starten schriftlich und fragen danach Video oder weitere Fachprüfung an."],
+    ["Welche Unterlagen brauche ich?", "Diagnoseberichte, Bildgebung, Pathologie, Labor, Entlassungsberichte, Therapieverlauf, Medikamente und aktueller Plan."],
+    ["Wie lange dauert es?", "Schriftlich meist 48-72 Stunden; Video 3-5 Werktage; komplexe Prüfung 5-7 Werktage."],
+    ["Muss ich nach China reisen?", "Nein. Die Zweitmeinung ist remote. Wenn passend, hilft Medora bei der Prüfung von Behandlungsoptionen in China."],
+  ],
+};
+TELEMEDICINE_COPY.ru.faq = {
+  label: "FAQ",
+  title: "Частые вопросы",
+  items: [
+    ["Это онлайн-диагноз?", "Нет. Это обзор медицинских документов и второе мнение на основе предоставленной информации."],
+    ["Какой вариант выбрать?", "Выберите письменный обзор для отчета, видео для разговора со специалистом или междисциплинарный обзор для сложных случаев."],
+    ["Можно начать с письменного обзора и потом расширить?", "Да. Многие пациенты начинают с письменного обзора, затем запрашивают видео или дополнительный обзор."],
+    ["Какие документы нужны?", "Диагнозы, снимки, патология, анализы, выписки, история лечения, список лекарств и текущий план."],
+    ["Сколько это занимает?", "Письменный обзор обычно 48-72 часа; видео 3-5 рабочих дней; сложный обзор 5-7 рабочих дней."],
+    ["Нужно ли ехать в Китай?", "Нет. Второе мнение удаленное. Если случай подходит, Medora поможет рассмотреть лечение в Китае."],
+  ],
+};
 
 function getTelemedicineCopy(languageCode: string): PageCopy {
   if (languageCode === "zh" || languageCode === "zh-CN") return TELEMEDICINE_COPY.zh;
