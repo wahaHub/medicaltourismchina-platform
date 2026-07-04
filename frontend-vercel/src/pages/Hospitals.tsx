@@ -16,9 +16,11 @@ import { apiService, Hospital } from "@/services/api";
 import { useNavigate } from "react-router-dom";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { LOW_MEDIA_BASE_URL } from "@/config/media";
+import { getContentApiLocale } from "@/utils/content-locale";
 
 const Hospitals = () => {
   const { t, getApiLocale } = useLanguage();
+  const contentApiLocale = getContentApiLocale(getApiLocale());
   const [searchParams, setSearchParams] = useSearchParams();
   const navigate = useNavigate();
   const city = searchParams.get("city");
@@ -52,7 +54,7 @@ const Hospitals = () => {
         const offset = (currentPage - 1) * pageSize;
 
         const response = await apiService.getHospitals({
-          locale: getApiLocale(),
+          locale: contentApiLocale,
           city: city, // 直接传递英文城市名
           search: search || undefined,
           limit: pageSize,
@@ -80,7 +82,7 @@ const Hospitals = () => {
     };
 
     loadHospitals();
-  }, [city, search, currentPage, pageSize, getApiLocale]);
+  }, [city, search, currentPage, pageSize, contentApiLocale]);
 
   // Reset to first page when filters change
   useEffect(() => {

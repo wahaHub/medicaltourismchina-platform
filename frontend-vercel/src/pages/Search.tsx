@@ -18,10 +18,12 @@ import { apiService, Department, ProcedureCard as ProcedureCardType } from '@/se
 import { useLanguage } from '@/contexts/LanguageContext';
 import { useRef } from 'react';
 import { getLowResImageUrl, getProgressiveBaseFromUrl } from '@/utils/imageUrl';
+import { getContentApiLocale } from '@/utils/content-locale';
 import ProgressiveImage from '@/components/ProgressiveImage';
 
 const Search = () => {
   const { getApiLocale, t } = useLanguage();
+  const contentApiLocale = getContentApiLocale(getApiLocale());
   const [searchParams, setSearchParams] = useSearchParams();
   const [departments, setDepartments] = useState<Department[]>([]);
   const [selectedDepartment, setSelectedDepartment] = useState<string>('');
@@ -60,7 +62,7 @@ const Search = () => {
       try {
         setLoading(true);
         setError(null);
-        const response = await apiService.getDept(getApiLocale());
+        const response = await apiService.getDept(contentApiLocale);
         setDepartments(response.data);
       } catch (err) {
         console.error('Failed to load departments:', err);
@@ -71,7 +73,7 @@ const Search = () => {
     };
 
     loadDepartments();
-  }, [getApiLocale]);
+  }, [contentApiLocale]);
 
   // Load diseases when department is selected
   useEffect(() => {
@@ -91,7 +93,7 @@ const Search = () => {
       
       try {
         // Load diseases (critical for dropdown)
-        const diseasesResponse = await apiService.getDiseasesByDepartment(selectedDepartment, getApiLocale());
+        const diseasesResponse = await apiService.getDiseasesByDepartment(selectedDepartment, contentApiLocale);
         setDiseases(diseasesResponse.data as any);
       } catch (err) {
         console.error('Failed to load diseases:', err);
@@ -102,7 +104,7 @@ const Search = () => {
     };
 
     loadDiseases();
-  }, [selectedDepartment, getApiLocale]);
+  }, [selectedDepartment, contentApiLocale]);
 
   // Handle URL disease parameter after diseases are loaded
   useEffect(() => {
@@ -124,7 +126,7 @@ const Search = () => {
         setProceduresLoading(true);
         setError(null);
         
-        const response = await apiService.getProceduresByDisease(selectedDisease, getApiLocale());
+        const response = await apiService.getProceduresByDisease(selectedDisease, contentApiLocale);
         setProcedures(response.data as any);
       } catch (err) {
         console.error('Failed to load procedures:', err);
@@ -135,7 +137,7 @@ const Search = () => {
     };
 
     loadProcedures();
-  }, [selectedDisease, getApiLocale]);
+  }, [selectedDisease, contentApiLocale]);
 
   // Handle department selection
   const handleDepartmentChange = (departmentSlug: string) => {

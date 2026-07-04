@@ -10,6 +10,7 @@ import { apiService } from "@/services/api";
 import type { FeaturedTreatmentCard } from "@/types";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { formatTreatmentPrice } from "@/utils/pricing";
+import { getContentApiLocale } from "@/utils/content-locale";
 import ProgressiveImage from "@/components/ProgressiveImage";
 import { categories as staticTreatmentCategories } from "@/data/treatments";
 import { getCategoryName, treatmentCategories } from "@/data/treatmentCategories";
@@ -244,6 +245,7 @@ const TreatmentPage = () => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [selectedCategoryId, setSelectedCategoryId] = useState("all");
+  const contentApiLocale = getContentApiLocale(getApiLocale());
   const categoryLabel = currentLanguage.code === "zh" ? "分类" : "Categories";
   const filterLabel = currentLanguage.code === "zh" ? "按专科筛选" : "Filter by specialty";
   const allCategoriesLabel = currentLanguage.code === "zh" ? "全部项目" : "All treatments";
@@ -310,12 +312,12 @@ const TreatmentPage = () => {
         setLoading(true);
         setError(null);
         const response = await apiService.getFeaturedTreatments({
-          locale: getApiLocale(),
+          locale: contentApiLocale,
           limit: 50,
         });
-        setFeaturedTreatments(response.data.map((treatment) => localizeTreatmentCard(treatment, getApiLocale())));
+        setFeaturedTreatments(response.data.map((treatment) => localizeTreatmentCard(treatment, contentApiLocale)));
       } catch (err) {
-        setFeaturedTreatments(getStaticFeaturedTreatments(getApiLocale()));
+        setFeaturedTreatments(getStaticFeaturedTreatments(contentApiLocale));
         setError(null);
         console.error("Error loading featured treatments:", err);
       } finally {
@@ -324,7 +326,7 @@ const TreatmentPage = () => {
     };
 
     loadFeaturedTreatments();
-  }, [currentLanguage, getApiLocale, t]);
+  }, [currentLanguage, contentApiLocale, t]);
 
   const treatmentsByCategory = useMemo(() => {
     return treatmentCategories
@@ -403,7 +405,7 @@ const TreatmentPage = () => {
                           : "border border-[#1DA78A]/20 bg-white text-[#0A4A5C] hover:border-[#1DA78A]/45 hover:text-[#0F638E]"
                       }`}
                     >
-                      {getCategoryName(category.id, getApiLocale())}
+                      {getCategoryName(category.id, contentApiLocale)}
                     </button>
                   ))}
                 </div>
@@ -466,7 +468,7 @@ const TreatmentPage = () => {
                   <div>
                     <div className="mb-3 h-1 w-16 rounded-full bg-gradient-to-r from-[#1DA78A] to-[#0F638E]" />
                     <h2 className="text-2xl font-bold leading-tight text-[#0A4A5C] sm:text-3xl">
-                      {getCategoryName(category.id, getApiLocale())}
+                      {getCategoryName(category.id, contentApiLocale)}
                     </h2>
                   </div>
                   <div className="text-sm font-semibold text-slate-500">
