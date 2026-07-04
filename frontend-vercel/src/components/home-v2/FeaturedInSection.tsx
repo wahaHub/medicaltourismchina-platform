@@ -1,4 +1,4 @@
-import bloombergLogo from "@/img/bloomberg-logo.svg";
+import bloombergLogo from "@/img/bloomberg-logo.png";
 import cnnLogo from "@/img/cnn-logo.svg";
 import zaobaoLogo from "@/img/lianhe-zaobao-logo.png";
 
