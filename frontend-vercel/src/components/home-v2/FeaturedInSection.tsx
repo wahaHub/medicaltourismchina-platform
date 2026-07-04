@@ -2,6 +2,7 @@ import bloombergLogo from "@/img/bloomberg-logo.png";
 import cgtnAmericaLogo from "@/img/cgtn-america-logo.jpg";
 import cnnLogo from "@/img/cnn-logo.svg";
 import zaobaoLogo from "@/img/lianhe-zaobao-logo.png";
+import { useLanguage } from "@/contexts/LanguageContext";
 
 const featuredLogos = [
   {
@@ -29,6 +30,8 @@ const featuredLogos = [
 ];
 
 export default function FeaturedInSection() {
+  const { t } = useLanguage();
+
   return (
     <section className="relative bg-white py-8 sm:py-10 lg:py-12" aria-labelledby="featured-in-heading">
       <div className="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
@@ -36,13 +39,13 @@ export default function FeaturedInSection() {
           <div className="grid items-center gap-6 lg:grid-cols-[0.72fr_1.28fr]">
             <div className="text-center lg:text-left">
               <p className="text-xs font-bold uppercase tracking-[0.22em] text-[#0F638E]">
-                As featured in
+                {t("homepage.featuredIn.eyebrow")}
               </p>
               <h2 id="featured-in-heading" className="mt-2 text-xl font-bold leading-tight text-[#003B5C] sm:text-2xl">
-                Medora Health in the media
+                {t("homepage.featuredIn.title")}
               </h2>
               <p className="mt-2 text-sm font-medium leading-relaxed text-slate-500">
-                Selected media coverage and press mentions.
+                {t("homepage.featuredIn.description")}
               </p>
             </div>
 
@@ -53,7 +56,7 @@ export default function FeaturedInSection() {
                     href={logo.href ?? undefined}
                     target={logo.href ? "_blank" : undefined}
                     rel={logo.href ? "noreferrer" : undefined}
-                    aria-label={logo.href ? `Read Medora Health coverage in ${logo.name}` : logo.name}
+                    aria-label={logo.href ? t("homepage.featuredIn.logoLinkAria", { media: logo.name }) : logo.name}
                     className={`flex h-24 items-center justify-center rounded-[8px] border border-slate-100 bg-white px-5 shadow-sm transition-transform duration-300 hover:-translate-y-0.5 ${logo.href ? "cursor-pointer" : "pointer-events-none"}`}
                   >
                     <img

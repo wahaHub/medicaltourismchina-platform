@@ -19,6 +19,15 @@ export const zh = {
   'nav.contact': '联系我们',
   'nav.bookAppointment': '预约咨询',
 
+  // Homepage - Featured In
+  'homepage.featuredIn.eyebrow': '媒体报道',
+  'homepage.featuredIn.title': 'Medora Health 媒体报道',
+  'homepage.featuredIn.description': '精选媒体报道与采访提及。',
+  'homepage.featuredIn.logoLinkAria': '查看 {{media}} 对 Medora Health 的报道',
+
+  // FAQ
+  'faq.questionsTitle': '核心问题解答',
+
   // Common
   'common.loading': '加载中...',
   'common.error': '错误',
@@ -988,6 +997,9 @@ export const zh = {
   'quote.field.country': '国家',
   'quote.field.message': '留言',
   'quote.field.messageHint': '请告诉我们您的医疗状况、偏好或您有的任何问题。',
+  'quote.contact.preferredMethod': '首选联系方式',
+  'quote.contact.chooseOne': '至少选择一种',
+  'quote.contact.description': '请至少提供以下一种联系方式，方便我们及时联系您。',
   'quote.placeholder.name': '请输入您的姓名',
   'quote.placeholder.phone': '+86 138 0000 0000',
   'quote.placeholder.email': 'your.email@example.com',
@@ -995,6 +1007,7 @@ export const zh = {
   'quote.placeholder.gender': '选择性别',
   'quote.placeholder.country': '选择您的国家',
   'quote.placeholder.message': '请描述您的医疗状况、治疗目标、首选日期或任何具体问题...',
+  'quote.placeholder.messenger': '用户名或个人主页链接',
   'quote.field.procedure': '您对哪种手术/治疗感兴趣？',
   'quote.placeholder.procedure': '例如：膝关节置换、心脏手术、癌症治疗...',
   'quote.field.destination': '您想去哪个城市就医？',
@@ -1018,6 +1031,7 @@ export const zh = {
   'quote.validation.ageRequired': '年龄不能为空',
   'quote.validation.genderRequired': '请选择性别',
   'quote.validation.countryRequired': '请选择国家',
+  'quote.validation.contactMethodRequired': '请至少提供 WhatsApp 或 Messenger 中的一种联系方式',
   'quote.button.submit': '提交报价申请',
   'quote.button.submitting': '提交中...',
   'quote.success.message': '谢谢！您的报价申请已成功提交。我们将在24小时内联系您。',

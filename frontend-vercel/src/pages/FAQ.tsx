@@ -10,7 +10,7 @@ import { useLanguage } from "@/contexts/LanguageContext";
 import { faqContent } from "./faqContent";
 
 const FAQ = () => {
-  const { currentLanguage } = useLanguage();
+  const { currentLanguage, t } = useLanguage();
   const content = faqContent[currentLanguage.code as keyof typeof faqContent] ?? faqContent.en;
 
   useEffect(() => {
@@ -34,7 +34,7 @@ const FAQ = () => {
           <Card className="rounded-[28px] border-white/70 bg-white/95 shadow-lg">
             <CardHeader className="pb-2">
               <CardTitle className="text-2xl text-slate-900">
-                {currentLanguage.code === "zh" ? "核心问题解答" : "Top questions patients ask us"}
+                {t("faq.questionsTitle")}
               </CardTitle>
             </CardHeader>
             <CardContent>

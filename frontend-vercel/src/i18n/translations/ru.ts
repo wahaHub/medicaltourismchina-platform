@@ -19,6 +19,15 @@ export const ru = {
   'nav.contact': 'Контакты',
   'nav.bookAppointment': 'Записаться на прием',
 
+  // Homepage - Featured In
+  'homepage.featuredIn.eyebrow': 'О НАС ПИСАЛИ',
+  'homepage.featuredIn.title': 'Medora Health в СМИ',
+  'homepage.featuredIn.description': 'Избранные публикации и упоминания в прессе.',
+  'homepage.featuredIn.logoLinkAria': 'Прочитать материал о Medora Health в {{media}}',
+
+  // FAQ
+  'faq.questionsTitle': 'Главные вопросы пациентов',
+
   // Common
   'common.loading': 'Загрузка...',
   'common.error': 'Ошибка',
@@ -1108,6 +1117,9 @@ export const ru = {
   'quote.field.country': 'Страна',
   'quote.field.message': 'Сообщение',
   'quote.field.messageHint': 'Расскажите о своем медицинском состоянии, предпочтениях или задайте любые вопросы.',
+  'quote.contact.preferredMethod': 'Предпочтительный способ связи',
+  'quote.contact.chooseOne': 'Выберите хотя бы один',
+  'quote.contact.description': 'Пожалуйста, укажите хотя бы один из способов связи ниже, чтобы мы могли легко связаться с вами.',
   'quote.placeholder.name': 'Введите полное имя',
   'quote.placeholder.phone': '1 (555) 123-4567',
   'quote.placeholder.email': 'ваш.email@example.com',
@@ -1115,6 +1127,7 @@ export const ru = {
   'quote.placeholder.gender': 'Выберите пол',
   'quote.placeholder.country': 'Выберите страну',
   'quote.placeholder.message': 'Пожалуйста, опишите ваше медицинское состояние, цели лечения, предпочтительные даты или любые конкретные вопросы...',
+  'quote.placeholder.messenger': 'Имя пользователя или ссылка на профиль',
   'quote.field.procedure': 'Какая процедура вас интересует?',
   'quote.placeholder.procedure': 'например, замена колена, операция на сердце, лечение рака...',
   'quote.field.destination': 'Куда вы хотите поехать?',
@@ -1138,6 +1151,7 @@ export const ru = {
   'quote.validation.ageRequired': 'Возраст обязателен',
   'quote.validation.genderRequired': 'Пожалуйста, выберите ваш пол',
   'quote.validation.countryRequired': 'Пожалуйста, выберите вашу страну',
+  'quote.validation.contactMethodRequired': 'Пожалуйста, укажите WhatsApp или Messenger',
   'quote.button.submit': 'Отправить запрос на получение предложения',
   'quote.button.submitting': 'Отправка...',
   'quote.success.message': 'Спасибо! Ваш запрос на получение предложения успешно отправлен. Мы свяжемся с вами в течение 24 часов.',

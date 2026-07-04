@@ -256,7 +256,7 @@ const FreeQuote = () => {
 
     // At least one of WhatsApp or Messenger is required
     if (!formData.whatsapp.trim() && !formData.messenger.trim()) {
-      const contactRequiredMsg = 'Please provide at least WhatsApp or Messenger';
+      const contactRequiredMsg = t('quote.validation.contactMethodRequired');
       newErrors.whatsapp = contactRequiredMsg;
       newErrors.messenger = contactRequiredMsg;
     }
@@ -579,10 +579,10 @@ const FreeQuote = () => {
                 <div className="border border-blue-200 bg-blue-50/50 rounded-lg p-4">
                   <div className="flex items-center gap-2 mb-3">
                     <MessageSquare className="h-5 w-5 text-blue-600" />
-                    <span className="text-sm font-semibold text-gray-900">Preferred Contact Method</span>
-                    <span className="text-xs bg-blue-100 text-blue-700 px-2 py-0.5 rounded-full">Choose at least one</span>
+                    <span className="text-sm font-semibold text-gray-900">{t('quote.contact.preferredMethod')}</span>
+                    <span className="text-xs bg-blue-100 text-blue-700 px-2 py-0.5 rounded-full">{t('quote.contact.chooseOne')}</span>
                   </div>
-                  <p className="text-xs text-gray-600 mb-4">Please provide at least one of the following contact methods so we can reach you easily.</p>
+                  <p className="text-xs text-gray-600 mb-4">{t('quote.contact.description')}</p>
 
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                     {/* WhatsApp */}
@@ -637,14 +637,14 @@ const FreeQuote = () => {
                         type="text"
                         value={formData.messenger}
                         onChange={(e) => handleChange('messenger', e.target.value)}
-                        placeholder="Username or profile link"
+                          placeholder={t('quote.placeholder.messenger')}
                         className={inputClass(!!errors.messenger)}
                       />
                     </div>
                   </div>
 
                   {(errors.whatsapp || errors.messenger) && (
-                    <p className="text-xs text-red-500 mt-2">Please provide at least WhatsApp or Messenger</p>
+                    <p className="text-xs text-red-500 mt-2">{t('quote.validation.contactMethodRequired')}</p>
                   )}
                 </div>
               </div>

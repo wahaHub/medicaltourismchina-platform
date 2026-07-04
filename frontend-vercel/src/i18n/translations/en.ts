@@ -19,6 +19,15 @@ export const en = {
   'nav.contact': 'Contact',
   'nav.bookAppointment': 'Book an Appointment',
 
+  // Homepage - Featured In
+  'homepage.featuredIn.eyebrow': 'AS FEATURED IN',
+  'homepage.featuredIn.title': 'Medora Health in the media',
+  'homepage.featuredIn.description': 'Selected media coverage and press mentions.',
+  'homepage.featuredIn.logoLinkAria': 'Read Medora Health coverage in {{media}}',
+
+  // FAQ
+  'faq.questionsTitle': 'Top questions patients ask us',
+
   // Common
   'common.loading': 'Loading...',
   'common.error': 'Error',
@@ -1108,6 +1117,9 @@ export const en = {
   'quote.field.country': 'Country',
   'quote.field.message': 'Message',
   'quote.field.messageHint': 'Tell us about your medical condition, preferences, or any questions you have.',
+  'quote.contact.preferredMethod': 'Preferred Contact Method',
+  'quote.contact.chooseOne': 'Choose at least one',
+  'quote.contact.description': 'Please provide at least one of the following contact methods so we can reach you easily.',
   'quote.placeholder.name': 'Enter your full name',
   'quote.placeholder.phone': '+1 (555) 123-4567',
   'quote.placeholder.email': 'your.email@example.com',
@@ -1115,6 +1127,7 @@ export const en = {
   'quote.placeholder.gender': 'Select gender',
   'quote.placeholder.country': 'Select your country',
   'quote.placeholder.message': 'Please describe your medical condition, treatment goals, preferred dates, or any specific questions...',
+  'quote.placeholder.messenger': 'Username or profile link',
   'quote.field.procedure': 'What procedure are you interested in?',
   'quote.placeholder.procedure': 'e.g., Knee replacement, Heart surgery, Cancer treatment...',
   'quote.field.destination': 'Where do you want to travel?',
@@ -1138,6 +1151,7 @@ export const en = {
   'quote.validation.ageRequired': 'Age is required',
   'quote.validation.genderRequired': 'Please select your gender',
   'quote.validation.countryRequired': 'Please select your country',
+  'quote.validation.contactMethodRequired': 'Please provide at least WhatsApp or Messenger',
   'quote.button.submit': 'Send Quote Request',
   'quote.button.submitting': 'Sending...',
   'quote.success.message': 'Thank you! Your quote request has been submitted successfully. We will contact you within 24 hours.',
