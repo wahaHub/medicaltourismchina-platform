@@ -44,7 +44,7 @@ export default function FeaturedInSection() {
     <section className="relative bg-white py-8 sm:py-10 lg:py-12" aria-labelledby="featured-in-heading">
       <div className="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="text-center">
-          <h2 id="featured-in-heading" className="text-lg font-bold leading-tight text-[#18A999] sm:text-xl">
+          <h2 id="featured-in-heading" className="text-xl font-bold leading-tight text-[#1DA78A] sm:text-2xl md:text-3xl">
             {t("homepage.featuredIn.eyebrow")}
           </h2>
         </div>
