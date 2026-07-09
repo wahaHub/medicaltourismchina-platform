@@ -9,6 +9,7 @@ const featuredLogos = [
     name: "CNN",
     src: cnnLogo,
     className: "h-9 sm:h-10",
+    href: "https://edition.cnn.com/2026/07/08/business/asia-china-medical-tourism-cheap-healthcare-intl-hnk-dst",
   },
   {
     name: "Lianhe Zaobao",
