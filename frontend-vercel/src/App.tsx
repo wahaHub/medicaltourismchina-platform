@@ -4,7 +4,7 @@ import { Toaster as Sonner } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { lazy, Suspense, useEffect, useState, type ReactNode } from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
 import { AuthProvider } from "@/contexts/AuthContext";
 import { PatientAuthProvider } from "@/contexts/PatientAuthContext";
 import { PatientEntryProvider } from "@/contexts/PatientEntryContext";
@@ -56,6 +56,20 @@ function RouteFallback() {
   return <div className="min-h-[40vh] bg-white" aria-hidden="true" />;
 }
 
+function GoogleAnalyticsPageView() {
+  const location = useLocation();
+
+  useEffect(() => {
+    window.gtag?.("event", "page_view", {
+      page_location: window.location.href,
+      page_path: `${location.pathname}${location.search}`,
+      page_title: document.title,
+    });
+  }, [location.pathname, location.search]);
+
+  return null;
+}
+
 function DeferredPatientMessagingLoader() {
   const [canLoad, setCanLoad] = useState(false);
 
@@ -103,6 +117,7 @@ const App = () => (
           <Toaster />
           <Sonner />
           <BrowserRouter>
+            <GoogleAnalyticsPageView />
             <PatientAuthProvider>
               <PatientEntryProvider>
                 <RouteScrollManager />
