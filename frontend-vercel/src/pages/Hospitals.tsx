@@ -17,14 +17,30 @@ import { useNavigate } from "react-router-dom";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { LOW_MEDIA_BASE_URL } from "@/config/media";
 import { getContentApiLocale } from "@/utils/content-locale";
+import { setPageSeo } from "@/utils/seo";
+import { getStaticPageMetadata } from "@/seo/static-page";
 
 const Hospitals = () => {
-  const { t, getApiLocale } = useLanguage();
+  const { currentLanguage, t, getApiLocale } = useLanguage();
   const contentApiLocale = getContentApiLocale(getApiLocale());
   const [searchParams, setSearchParams] = useSearchParams();
   const navigate = useNavigate();
   const city = searchParams.get("city");
   const search = searchParams.get("search");
+  const hasIndexBlockingFilters = searchParams.size > 0;
+
+  useEffect(() => {
+    const metadata = getStaticPageMetadata("hospitals", currentLanguage.code);
+    const indexable = metadata.indexable && !hasIndexBlockingFilters;
+    setPageSeo({
+      title: metadata.locale.title,
+      description: metadata.locale.description,
+      path: metadata.path,
+      robots: indexable ? "index,follow" : "noindex,follow",
+      includeAlternates: indexable,
+      availableLocales: metadata.indexableLocales,
+    });
+  }, [currentLanguage.code, hasIndexBlockingFilters]);
 
   // Available cities - using English city names for clean URLs
   const cities = [
@@ -64,15 +80,6 @@ const Hospitals = () => {
         setHospitals(response.data);
         setTotalHospitals(response.meta?.pagination?.total || 0);
 
-        // Set page title based on filters
-        const cityDisplayName = city ? cities.find(c => c.value === city)?.label : null;
-        if (cityDisplayName) {
-          document.title = `${cityDisplayName} Hospitals | Medora Health`;
-        } else if (search) {
-          document.title = `Search: ${search} | Medora Health`;
-        } else {
-          document.title = "All Hospitals | Medora Health";
-        }
       } catch (err) {
         setError('Failed to load hospitals. Please try again.');
         console.error('Error loading hospitals:', err);

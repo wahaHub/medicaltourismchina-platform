@@ -10,23 +10,39 @@ type SlugResolution =
   | { type: "not_found" };
 
 export const config = {
-  matcher: ["/hospitals/:path*"],
+  matcher: [
+    "/hospitals/:path*",
+    "/:locale(zh|es|fr|de|ru)/hospitals/:path*",
+  ],
 };
 
-function parseHospitalPath(pathname: string): { slug: string; packageSlug?: string } | null {
-  const match = pathname.match(/^\/hospitals\/([^/]+)(?:\/packages\/([^/]+))?\/?$/);
+function parseHospitalPath(pathname: string): {
+  locale?: string;
+  slug: string;
+  packageSlug?: string;
+} | null {
+  const match = pathname.match(
+    /^\/(?:(zh|es|fr|de|ru)\/)?hospitals\/([^/]+)(?:\/packages\/([^/]+))?\/?$/,
+  );
   if (!match) return null;
   return {
-    slug: decodeURIComponent(match[1]),
-    packageSlug: match[2] ? decodeURIComponent(match[2]) : undefined,
+    locale: match[1] || undefined,
+    slug: decodeURIComponent(match[2]),
+    packageSlug: match[3] ? decodeURIComponent(match[3]) : undefined,
   };
 }
 
-function buildTargetUrl(requestUrl: URL, toSlug: string, packageSlug?: string): URL {
+function buildTargetUrl(
+  requestUrl: URL,
+  toSlug: string,
+  packageSlug?: string,
+  locale?: string,
+): URL {
   const target = new URL(requestUrl.toString());
+  const prefix = locale ? `/${locale}` : "";
   target.pathname = packageSlug
-    ? `/hospitals/${encodeURIComponent(toSlug)}/packages/${encodeURIComponent(packageSlug)}`
-    : `/hospitals/${encodeURIComponent(toSlug)}`;
+    ? `${prefix}/hospitals/${encodeURIComponent(toSlug)}/packages/${encodeURIComponent(packageSlug)}`
+    : `${prefix}/hospitals/${encodeURIComponent(toSlug)}`;
   return target;
 }
 
@@ -47,7 +63,7 @@ export default async function middleware(request: Request): Promise<Response | u
     if (resolution.type !== "redirect" || !resolution.toSlug) return undefined;
 
     return Response.redirect(
-      buildTargetUrl(url, resolution.toSlug, parsed.packageSlug),
+      buildTargetUrl(url, resolution.toSlug, parsed.packageSlug, parsed.locale),
       resolution.status || 301,
     );
   } catch {

@@ -5,9 +5,23 @@ import Footer from "@/components/Footer";
 import WhyChinaHero from "@/components/why-china/WhyChinaHero";
 import WhyChinaAdvantages from "@/components/why-china/WhyChinaAdvantages";
 import { useLanguage } from "@/contexts/LanguageContext";
+import { useEffect } from "react";
+import { setPageSeo } from "@/utils/seo";
 
 const WhyChina = () => {
-  const { t } = useLanguage();
+  const { currentLanguage, t } = useLanguage();
+
+  useEffect(() => {
+    const isEnglish = currentLanguage.code === "en";
+    setPageSeo({
+      title: `${t("whyChina.title")} | Medora Health`,
+      description: t("whyChina.subtitle"),
+      path: "/why-china",
+      robots: isEnglish ? "index,follow" : "noindex,follow",
+      includeAlternates: false,
+      availableLocales: ["en"],
+    });
+  }, [currentLanguage.code, t]);
 
   return (
     <div className="min-h-screen bg-white">

@@ -18,6 +18,9 @@ import {
   Quote,
   Star,
 } from "lucide-react";
+import { setPageSeo } from "@/utils/seo";
+import { isHospitalContentLocaleIndexable } from "@/utils/content-locale";
+import { ALL_LOCALES } from "@/utils/locale-routing";
 
 const pageFontClass = "font-['Inter',sans-serif]";
 
@@ -55,6 +58,7 @@ const HospitalPackageDetail = () => {
   const { currentLanguage } = useLanguage();
   const [active, setActive] = useState(0);
   const [pkg, setPkg] = useState<HospitalPackageDetailPayload | null>(null);
+  const [resolvedLocale, setResolvedLocale] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [isQuoteModalOpen, setIsQuoteModalOpen] = useState(false);
@@ -81,6 +85,7 @@ const HospitalPackageDetail = () => {
 
         if (!activeRequest) return;
         setPkg(response.data);
+        setResolvedLocale(response.meta.resolved_locale);
       } catch (loadError) {
         if (!activeRequest) return;
         const message = loadError instanceof Error ? loadError.message : "Failed to load package.";
@@ -98,6 +103,33 @@ const HospitalPackageDetail = () => {
       activeRequest = false;
     };
   }, [currentLanguage.apiCode, packageSlug, slug]);
+
+  useEffect(() => {
+    if (!pkg || !slug || !packageSlug) {
+      return;
+    }
+
+    const localeHasCompleteContent =
+      isHospitalContentLocaleIndexable(currentLanguage.code)
+      && (!resolvedLocale || resolvedLocale.split(/[-_]/)[0] === currentLanguage.apiCode);
+
+    setPageSeo({
+      title: `${pkg.title} | Medora Health`,
+      description: pkg.summary || pkg.subtitle || `Treatment package from ${pkg.provider.name}.`,
+      path: `/hospitals/${encodeURIComponent(slug)}/packages/${encodeURIComponent(pkg.slug || packageSlug)}`,
+      image: pkg.cover_image_url,
+      robots: localeHasCompleteContent ? "index,follow" : "noindex,follow",
+      includeAlternates: localeHasCompleteContent,
+      availableLocales: ALL_LOCALES.filter(isHospitalContentLocaleIndexable),
+    });
+  }, [
+    currentLanguage.apiCode,
+    currentLanguage.code,
+    packageSlug,
+    pkg,
+    resolvedLocale,
+    slug,
+  ]);
 
   useEffect(() => {
     setActive(0);

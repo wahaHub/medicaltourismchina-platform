@@ -11,6 +11,11 @@ import { PatientEntryProvider } from "@/contexts/PatientEntryContext";
 import { LanguageProvider } from "@/contexts/LanguageContext";
 import RouteScrollManager from "@/components/RouteScrollManager";
 import HomePage from "./pages/HomePage";
+import {
+  getLocaleBasename,
+  getLocaleFromPathname,
+} from "@/utils/locale-routing";
+import { setPageSeo } from "@/utils/seo";
 
 const Search = lazy(() => import("./pages/Search"));
 const Hospitals = lazy(() => import("./pages/Hospitals"));
@@ -43,6 +48,7 @@ const Rhinoplasty = lazy(() => import("./pages/Rhinoplasty"));
 const DoubleEyelidSurgery = lazy(() => import("./pages/DoubleEyelidSurgery"));
 const FaceLiposuction = lazy(() => import("./pages/FaceLiposuction"));
 const BariatricSurgery = lazy(() => import("./pages/BariatricSurgery"));
+const LocationGuide = lazy(() => import("./pages/LocationGuide"));
 const DeferredPatientMessaging = lazy(() => import("./components/DeferredPatientMessaging"));
 const PatientSessionRuntimeProvider = lazy(() =>
   import("@/features/patient-sessions/PatientSessionRuntimeProvider").then((module) => ({
@@ -109,15 +115,35 @@ function PatientRuntimeRoute({ children }: { children: ReactNode }) {
   );
 }
 
+function NoIndexRoute({ children, title }: { children: ReactNode; title: string }) {
+  const location = useLocation();
+
+  useEffect(() => {
+    setPageSeo({
+      title,
+      description: "Secure or task-focused Medora Health page.",
+      path: location.pathname,
+      robots: "noindex,nofollow",
+      includeAlternates: false,
+    });
+  }, [location.pathname, title]);
+
+  return children;
+}
+
+const activeLocale =
+  typeof window === "undefined" ? "en" : getLocaleFromPathname(window.location.pathname);
+const routerBasename = getLocaleBasename(activeLocale);
+
 const App = () => (
-  <QueryClientProvider client={queryClient}>
-    <TooltipProvider>
-      <LanguageProvider>
+  <BrowserRouter basename={routerBasename}>
+    <QueryClientProvider client={queryClient}>
+      <TooltipProvider>
+        <LanguageProvider initialLanguageCode={activeLocale}>
         <AuthProvider>
           <Toaster />
           <Sonner />
-          <BrowserRouter>
-            <GoogleAnalyticsPageView />
+          <GoogleAnalyticsPageView />
             <PatientAuthProvider>
               <PatientEntryProvider>
                 <RouteScrollManager />
@@ -139,18 +165,19 @@ const App = () => (
                     <Route path="/insurance" element={<Insurance />} />
                     <Route path="/faq" element={<FAQ />} />
                     <Route path="/work-with-us" element={<WorkWithUs />} />
-                    <Route path="/work-with-us/hospitals/apply" element={<PartnershipApplicationPage applicationType="hospitals" />} />
-                    <Route path="/work-with-us/referral-partners/apply" element={<PartnershipApplicationPage applicationType="referral-partners" />} />
-                    <Route path="/work-with-us/travel-services/apply" element={<PartnershipApplicationPage applicationType="travel-services" />} />
+                    <Route path="/work-with-us/hospitals/apply" element={<NoIndexRoute title="Hospital Partnership Application | Medora Health"><PartnershipApplicationPage applicationType="hospitals" /></NoIndexRoute>} />
+                    <Route path="/work-with-us/referral-partners/apply" element={<NoIndexRoute title="Referral Partner Application | Medora Health"><PartnershipApplicationPage applicationType="referral-partners" /></NoIndexRoute>} />
+                    <Route path="/work-with-us/travel-services/apply" element={<NoIndexRoute title="Travel Services Application | Medora Health"><PartnershipApplicationPage applicationType="travel-services" /></NoIndexRoute>} />
                     <Route path="/visa" element={<Visa />} />
                     <Route path="/why-china" element={<WhyChina />} />
-                    <Route path="/medical-case-intake" element={<CaseIntakePage />} />
-                    <Route path="/case-intake/:id" element={<CaseIntakeViewPage />} />
-                    <Route path="/patient-login" element={<PatientLoginPage />} />
-                    <Route path="/dashboard" element={<PatientRuntimeRoute><DashboardRoute /></PatientRuntimeRoute>} />
+                    <Route path="/locations/china/:city" element={<LocationGuide />} />
+                    <Route path="/medical-case-intake" element={<NoIndexRoute title="Medical Case Intake | Medora Health"><CaseIntakePage /></NoIndexRoute>} />
+                    <Route path="/case-intake/:id" element={<NoIndexRoute title="Medical Case | Medora Health"><CaseIntakeViewPage /></NoIndexRoute>} />
+                    <Route path="/patient-login" element={<NoIndexRoute title="Patient Login | Medora Health"><PatientLoginPage /></NoIndexRoute>} />
+                    <Route path="/dashboard" element={<NoIndexRoute title="Patient Dashboard | Medora Health"><PatientRuntimeRoute><DashboardRoute /></PatientRuntimeRoute></NoIndexRoute>} />
 
                     <Route path="/telemedicine" element={<Telemedicine />} />
-                    <Route path="/free-quote" element={<FreeQuote />} />
+                    <Route path="/free-quote" element={<NoIndexRoute title="Request a Treatment Quote | Medora Health"><FreeQuote /></NoIndexRoute>} />
                     <Route path="/health-packages" element={<HealthPackages />} />
                     <Route path="/hollywood-smile-veneers" element={<HollywoodSmileVeneers />} />
                     <Route path="/rhinoplasty" element={<Rhinoplasty />} />
@@ -168,11 +195,11 @@ const App = () => (
                 </Suspense>
               </PatientEntryProvider>
             </PatientAuthProvider>
-          </BrowserRouter>
         </AuthProvider>
-      </LanguageProvider>
-    </TooltipProvider>
-  </QueryClientProvider>
+        </LanguageProvider>
+      </TooltipProvider>
+    </QueryClientProvider>
+  </BrowserRouter>
 );
 
 export default App;

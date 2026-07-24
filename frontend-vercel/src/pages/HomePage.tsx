@@ -7,6 +7,8 @@ import Header from "@/components/Header";
 // New V2 Components
 import HeroSection from "@/components/home-v2/HeroSection";
 import { setPageSeo } from "@/utils/seo";
+import { useLanguage } from "@/contexts/LanguageContext";
+import { getStaticPageMetadata } from "@/seo/static-page";
 
 const OnlineConsultationSection = lazy(() => import("@/components/home-v2/OnlineConsultationSection"));
 const Footer = lazy(() => import("@/components/Footer"));
@@ -17,14 +19,17 @@ const WhyChooseChinaHome = lazy(() => import("@/components/home-v2/WhyChooseChin
 const TestimonialsSection = lazy(() => import("@/components/home-v2/TestimonialsSection"));
 
 const HomePage = () => {
+  const { currentLanguage } = useLanguage();
+
   useEffect(() => {
+    const metadata = getStaticPageMetadata("home", currentLanguage.code);
     setPageSeo({
-      title: "Medora Health | Medical Tourism & Telemedicine in China",
-      description:
-        "Medora Health helps international patients access specialist consultations, second opinions, treatment planning, hospital coordination, translation, visa support, and follow-up care in China.",
-      path: "/",
+      title: metadata.locale.title,
+      description: metadata.locale.description,
+      path: metadata.path,
+      availableLocales: metadata.indexableLocales,
     });
-  }, []);
+  }, [currentLanguage.code]);
 
   return (
     <div className="min-h-screen">

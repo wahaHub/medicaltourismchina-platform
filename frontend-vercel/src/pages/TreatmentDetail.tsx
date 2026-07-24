@@ -1,5 +1,5 @@
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardTitle } from "@/components/ui/card";
@@ -8,6 +8,8 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import TopUtilityBar from "@/components/TopUtilityBar";
 import MainNavigation from "@/components/MainNavigation";
 import Footer from "@/components/Footer";
+import { useLanguage } from "@/contexts/LanguageContext";
+import { setPageSeo } from "@/utils/seo";
 import { 
   Activity, 
   Shield, 
@@ -335,8 +337,25 @@ const departmentData: { [key: string]: any } = {
 
 const TreatmentDetailPage = () => {
   const { slug } = useParams();
+  const { currentLanguage } = useLanguage();
   const [showStickyBar, setShowStickyBar] = useState(true);
   const currentTreatment = treatmentData[slug || "breast-cancer"] || treatmentData["breast-cancer"];
+
+  useEffect(() => {
+    const isKnownTreatment = Boolean(slug && treatmentData[slug]);
+    const isEnglish = currentLanguage.code === "en";
+    setPageSeo({
+      title: `${currentTreatment.title} | Medora Health`,
+      description:
+        currentTreatment.description
+        || currentTreatment.subtitle
+        || `Learn about ${currentTreatment.title} and medical care in China.`,
+      path: `/treatment/${encodeURIComponent(slug || "breast-cancer")}`,
+      robots: isKnownTreatment && isEnglish ? "index,follow" : "noindex,follow",
+      includeAlternates: false,
+      availableLocales: ["en"],
+    });
+  }, [currentLanguage.code, currentTreatment, slug]);
 
   return (
     <div className="min-h-screen">

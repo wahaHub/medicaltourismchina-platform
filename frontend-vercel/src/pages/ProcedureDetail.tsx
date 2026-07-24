@@ -31,6 +31,8 @@ import {
 import { useLanguage } from "@/contexts/LanguageContext";
 import { getImageUrl, IMAGE_PATHS, getHighResImageUrl, getProgressiveBaseFromUrl } from "@/utils/imageUrl";
 import ProgressiveImage from "@/components/ProgressiveImage";
+import { setPageSeo } from "@/utils/seo";
+import { isSeoSafeSlug } from "@/utils/seo-slug";
 
 // Real API procedure data structure
 interface ProcedureData {
@@ -101,7 +103,7 @@ const hashString = (str: string): number => {
 
 const ProcedureDetailPage = () => {
   const { slug } = useParams<{ slug: string }>();
-  const { getApiLocale, t } = useLanguage();
+  const { currentLanguage, getApiLocale, t } = useLanguage();
   const [procedureData, setProcedureData] = useState<ProcedureData | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -134,7 +136,19 @@ const ProcedureDetailPage = () => {
         // Use the first procedure from the response
         const procedure = apiData.data[0];
         setProcedureData(procedure);
-        document.title = `${procedure.name} | Medora Health`;
+        const requestedLocale = getApiLocale().split(/[-_]/)[0];
+        const resolvedLocale = apiData.meta.resolved_locale.split(/[-_]/)[0];
+        const localeHasOwnContent = requestedLocale === resolvedLocale;
+        const hasCanonicalSeoSlug = isSeoSafeSlug(procedure.slug);
+        setPageSeo({
+          title: `${procedure.name} | Medora Health`,
+          description: procedure.summary || procedure.description || `Learn about ${procedure.name} with Medora Health.`,
+          path: `/procedures/${encodeURIComponent(procedure.slug)}`,
+          image: procedure.image_url || undefined,
+          robots: localeHasOwnContent && hasCanonicalSeoSlug ? "index,follow" : "noindex,follow",
+          includeAlternates: localeHasOwnContent && hasCanonicalSeoSlug,
+          availableLocales: localeHasOwnContent ? [currentLanguage.code as any] : ["en"],
+        });
       } catch (err) {
         setError('Failed to load procedure details. Please try again.');
         console.error('Error loading procedure:', err);
@@ -144,7 +158,7 @@ const ProcedureDetailPage = () => {
     };
 
     loadProcedureDetail();
-  }, [slug, getApiLocale]);
+  }, [currentLanguage.code, slug, getApiLocale]);
 
   // Helper function to parse cost string
   const parseCostRange = (costString?: string) => {

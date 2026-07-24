@@ -199,7 +199,23 @@ function cleanHospitalName(
   }
 
   if (locale === 'zh') {
+    const nameHasCjk = CJK_REGEX.test(trimmedName);
+    const displayNameHasCjk = CJK_REGEX.test(trimmedDisplayName);
+
+    if (displayNameHasCjk && !nameHasCjk) {
+      return trimmedDisplayName;
+    }
+
+    if (nameHasCjk) {
+      return trimmedName;
+    }
+
     return trimmedDisplayName || trimmedName;
+  }
+
+  const chineseAliasStart = trimmedName.search(/[（(]\s*[\u3400-\u9fff\uf900-\ufaff]/u);
+  if (chineseAliasStart > 0 && LATIN_REGEX.test(trimmedName.slice(0, chineseAliasStart))) {
+    return trimmedName.slice(0, chineseAliasStart).trim();
   }
 
   const bilingualMatch = trimmedName.match(/^(.*)\s*[（(]\s*(.*?)\s*[）)]\s*$/);

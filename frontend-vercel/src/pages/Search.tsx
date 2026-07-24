@@ -21,9 +21,11 @@ import { getLowResImageUrl, getProgressiveBaseFromUrl } from '@/utils/imageUrl';
 import { getContentApiLocale } from '@/utils/content-locale';
 import { getProcedurePath } from '@/utils/procedure-path';
 import ProgressiveImage from '@/components/ProgressiveImage';
+import { setPageSeo } from '@/utils/seo';
+import { getStaticPageMetadata } from '@/seo/static-page';
 
 const Search = () => {
-  const { getApiLocale, t } = useLanguage();
+  const { currentLanguage, getApiLocale, t } = useLanguage();
   const contentApiLocale = getContentApiLocale(getApiLocale());
   const [searchParams, setSearchParams] = useSearchParams();
   const [departments, setDepartments] = useState<Department[]>([]);
@@ -44,6 +46,17 @@ const Search = () => {
   const [cols, setCols] = useState<number>(3); // responsive grid columns for disease grid
   const [isMobile, setIsMobile] = useState<boolean>(false);
   const [showModal, setShowModal] = useState<boolean>(false);
+
+  useEffect(() => {
+    const metadata = getStaticPageMetadata("search", currentLanguage.code);
+    setPageSeo({
+      title: metadata.locale.title,
+      description: metadata.locale.description,
+      path: metadata.path,
+      robots: "noindex,follow",
+      includeAlternates: false,
+    });
+  }, [currentLanguage.code]);
 
   // Initialize from URL params
   useEffect(() => {

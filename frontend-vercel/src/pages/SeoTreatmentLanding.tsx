@@ -7,6 +7,7 @@ import Footer from "@/components/Footer";
 import { Button } from "@/components/ui/button";
 import { PUBLIC_MEDIA_BASE_URL } from "@/config/media";
 import { setPageSeo } from "@/utils/seo";
+import { useLanguage } from "@/contexts/LanguageContext";
 
 type LandingConfig = {
   title: string;
@@ -83,6 +84,8 @@ const landingContent: Record<string, LandingConfig> = {
 
 export default function SeoTreatmentLanding({ type }: { type: keyof typeof landingContent }) {
   const content = landingContent[type];
+  const { currentLanguage } = useLanguage();
+  const isEnglish = currentLanguage.code === "en";
 
   useEffect(() => {
     setPageSeo({
@@ -90,8 +93,11 @@ export default function SeoTreatmentLanding({ type }: { type: keyof typeof landi
       description: content.seoDescription ?? content.description,
       path: content.canonicalPath,
       image: content.heroImage,
+      robots: isEnglish ? "index,follow" : "noindex,follow",
+      includeAlternates: false,
+      availableLocales: ["en"],
     });
-  }, [content]);
+  }, [content, isEnglish]);
 
   return (
     <div className="min-h-screen bg-white">

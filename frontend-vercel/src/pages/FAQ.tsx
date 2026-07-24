@@ -8,15 +8,24 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { faqContent } from "./faqContent";
+import { setPageSeo } from "@/utils/seo";
 
 const FAQ = () => {
   const { currentLanguage, t } = useLanguage();
   const content = faqContent[currentLanguage.code as keyof typeof faqContent] ?? faqContent.en;
 
   useEffect(() => {
-    document.title = currentLanguage.code === "zh" ? "中国医疗旅游常见问题 | Medora Health" : "FAQ | Medora Health";
+    const isEnglish = currentLanguage.code === "en";
+    setPageSeo({
+      title: `${content.title} | Medora Health`,
+      description: content.subtitle,
+      path: "/faq",
+      robots: isEnglish ? "index,follow" : "noindex,follow",
+      includeAlternates: false,
+      availableLocales: ["en"],
+    });
     window.scrollTo({ top: 0, behavior: "auto" });
-  }, [currentLanguage.code]);
+  }, [content, currentLanguage.code]);
 
   return (
     <div className="min-h-screen bg-slate-50">

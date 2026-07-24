@@ -1,5 +1,6 @@
 import { useLocation } from "react-router-dom";
 import { useEffect } from "react";
+import { setPageSeo } from "@/utils/seo";
 
 const NotFound = () => {
   const location = useLocation();
@@ -9,6 +10,13 @@ const NotFound = () => {
       "404 Error: User attempted to access non-existent route:",
       location.pathname
     );
+    setPageSeo({
+      title: "Page Not Found | Medora Health",
+      description: "The requested Medora Health page could not be found.",
+      path: location.pathname,
+      robots: "noindex,nofollow",
+      includeAlternates: false,
+    });
   }, [location.pathname]);
 
   return (

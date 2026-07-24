@@ -1,6 +1,9 @@
 import { describe, expect, it } from "vitest";
 
-import { getContentApiLocale } from "@/utils/content-locale";
+import {
+  getContentApiLocale,
+  isHospitalContentLocaleIndexable,
+} from "@/utils/content-locale";
 
 describe("getContentApiLocale", () => {
   it("falls back Russian content requests to English while content data is incomplete", () => {
@@ -13,5 +16,14 @@ describe("getContentApiLocale", () => {
     expect(getContentApiLocale("es")).toBe("es");
     expect(getContentApiLocale("fr")).toBe("fr");
     expect(getContentApiLocale("de")).toBe("de");
+  });
+
+  it("only indexes hospital locales whose body content is actually localized", () => {
+    expect(isHospitalContentLocaleIndexable("en")).toBe(true);
+    expect(isHospitalContentLocaleIndexable("zh")).toBe(true);
+    expect(isHospitalContentLocaleIndexable("ru")).toBe(false);
+    expect(isHospitalContentLocaleIndexable("fr")).toBe(false);
+    expect(isHospitalContentLocaleIndexable("es")).toBe(false);
+    expect(isHospitalContentLocaleIndexable("de")).toBe(false);
   });
 });

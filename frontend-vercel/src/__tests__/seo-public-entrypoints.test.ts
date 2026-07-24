@@ -79,7 +79,8 @@ describe("SEO public entrypoints", () => {
     expect(fs.existsSync(middlewarePath)).toBe(true);
 
     const middleware = fs.readFileSync(middlewarePath, "utf8");
-    expect(middleware).toContain('matcher: ["/hospitals/:path*"]');
+    expect(middleware).toContain('"/hospitals/:path*"');
+    expect(middleware).toContain('"/:locale(zh|es|fr|de|ru)/hospitals/:path*"');
     expect(middleware).toContain("/slug-resolution");
 
     const vercelConfig = JSON.parse(fs.readFileSync(vercelConfigPath, "utf8"));
@@ -87,5 +88,18 @@ describe("SEO public entrypoints", () => {
       source: "/(.*)",
       destination: "/index.html",
     });
+  });
+
+  it("builds route-specific SEO HTML after the Vite application bundle", () => {
+    const packageJson = JSON.parse(
+      fs.readFileSync(path.join(PROJECT_ROOT, "package.json"), "utf8"),
+    );
+    expect(packageJson.scripts.build).toContain("scripts/prerender-seo.mjs");
+    expect(
+      fs.existsSync(path.join(PROJECT_ROOT, "scripts/prerender-seo.mjs")),
+    ).toBe(true);
+    expect(
+      fs.existsSync(path.join(PROJECT_ROOT, "seo/static-pages.mjs")),
+    ).toBe(true);
   });
 });

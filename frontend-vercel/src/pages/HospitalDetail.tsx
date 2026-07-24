@@ -57,6 +57,10 @@ import {
   Users,
   X,
 } from "lucide-react";
+import { setPageSeo } from "@/utils/seo";
+import { isHospitalContentLocaleIndexable } from "@/utils/content-locale";
+import { ALL_LOCALES } from "@/utils/locale-routing";
+import { isGeneratedHospitalSlug, isSeoSafeSlug } from "@/utils/seo-slug";
 
 type Department = {
   id: string;
@@ -478,6 +482,7 @@ export default function HospitalDetail() {
   const [isQuoteModalOpen, setIsQuoteModalOpen] = useState(false);
   const [selectedProcedure, setSelectedProcedure] = useState("");
   const [hospitalData, setHospitalData] = useState<HospitalExtended | null>(null);
+  const [resolvedLocale, setResolvedLocale] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [loadError, setLoadError] = useState<string | null>(null);
   const [isOverviewExpanded, setIsOverviewExpanded] = useState(false);
@@ -527,11 +532,13 @@ export default function HospitalDetail() {
         const response = await hospitalApi.getHospitalExtendedBySlug(slug, locale);
         if (!isCancelled) {
           setHospitalData(response.data);
+          setResolvedLocale(response.meta.resolved_locale);
         }
       } catch (error) {
         console.error("Failed to load hospital detail data:", error);
         if (!isCancelled) {
           setHospitalData(null);
+          setResolvedLocale(null);
           setLoadError("Failed to load hospital detail data.");
         }
       } finally {
@@ -547,6 +554,35 @@ export default function HospitalDetail() {
       isCancelled = true;
     };
   }, [id, locale, navigate, slug]);
+
+  useEffect(() => {
+    if (!hospitalData || !slug) {
+      return;
+    }
+
+    const localeHasCompleteContent =
+      isHospitalContentLocaleIndexable(currentLanguage.code)
+      && (!resolvedLocale || resolvedLocale.split(/[-_]/)[0] === currentLanguage.apiCode);
+    const canonicalSlug = hospitalData.slug || slug;
+    const hasCanonicalSeoSlug =
+      isSeoSafeSlug(canonicalSlug)
+      && !isGeneratedHospitalSlug(canonicalSlug);
+    const description =
+      hospitalData.short_description
+      || hospitalData.overview
+      || hospitalData.full_description
+      || `Hospital information and international patient services for ${hospitalData.name}.`;
+
+    setPageSeo({
+      title: `${hospitalData.name || hospitalData.display_name} | Medora Health`,
+      description,
+      path: `/hospitals/${encodeURIComponent(canonicalSlug)}`,
+      image: hospitalData.hero_image_url,
+      robots: localeHasCompleteContent && hasCanonicalSeoSlug ? "index,follow" : "noindex,follow",
+      includeAlternates: localeHasCompleteContent && hasCanonicalSeoSlug,
+      availableLocales: ALL_LOCALES.filter(isHospitalContentLocaleIndexable),
+    });
+  }, [currentLanguage.apiCode, currentLanguage.code, hospitalData, resolvedLocale, slug]);
 
   useEffect(() => {
     setGalleryIndex(0);

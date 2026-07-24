@@ -227,8 +227,9 @@ function StepArticle({
 
   return (
     <article
+      id={`step-${step}`}
       data-testid="packages-step-card"
-      className="group overflow-hidden rounded-2xl bg-white shadow-[0_18px_45px_rgba(15,99,142,0.09)] transition-all duration-500 hover:-translate-y-1 hover:shadow-[0_26px_55px_rgba(15,99,142,0.14)]"
+      className="group scroll-mt-32 overflow-hidden rounded-2xl bg-white shadow-[0_18px_45px_rgba(15,99,142,0.09)] transition-all duration-500 hover:-translate-y-1 hover:shadow-[0_26px_55px_rgba(15,99,142,0.14)]"
     >
       <div className="grid items-center lg:grid-cols-2">
         <StepImageCard

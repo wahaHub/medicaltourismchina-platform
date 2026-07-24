@@ -16,6 +16,8 @@ import { categories as staticTreatmentCategories } from "@/data/treatments";
 import { getCategoryName, treatmentCategories } from "@/data/treatmentCategories";
 import { LOW_MEDIA_BASE_URL } from "@/config/media";
 import treatmentHeroBackground from "@/img/treatment-hero-bg-generated.jpg";
+import { setPageSeo } from "@/utils/seo";
+import { getStaticPageMetadata } from "@/seo/static-page";
 
 const BRAND_TEAL = "#1DA78A";
 const BRAND_BLUE = "#0F638E";
@@ -249,6 +251,18 @@ const TreatmentPage = () => {
   const categoryLabel = currentLanguage.code === "zh" ? "分类" : "Categories";
   const filterLabel = currentLanguage.code === "zh" ? "按专科筛选" : "Filter by specialty";
   const allCategoriesLabel = currentLanguage.code === "zh" ? "全部项目" : "All treatments";
+
+  useEffect(() => {
+    const metadata = getStaticPageMetadata("treatment", currentLanguage.code);
+    setPageSeo({
+      title: metadata.locale.title,
+      description: metadata.locale.description,
+      path: metadata.path,
+      robots: metadata.indexable ? "index,follow" : "noindex,follow",
+      includeAlternates: metadata.indexable,
+      availableLocales: metadata.indexableLocales,
+    });
+  }, [currentLanguage.code]);
 
   const formatPrice = (treatment: DisplayTreatmentCard) => {
     return formatTreatmentPrice(treatment, getApiLocale()) || treatment.fallbackPrice;
