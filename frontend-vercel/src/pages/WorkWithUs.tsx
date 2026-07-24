@@ -7,6 +7,7 @@ import { workWithUsBadgeTheme, workWithUsTabTheme } from "@/components/work-with
 import TopBanner from "@/components/TopBanner";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import { useLanguage } from "@/contexts/LanguageContext";
+import { localizePathname, type SiteLocale } from "@/utils/locale-routing";
 
 import { workWithUsContent, type WorkWithUsSectionCard, type WorkWithUsTabContent, type WorkWithUsTabId } from "./workWithUsContent";
 
@@ -46,7 +47,7 @@ export default function WorkWithUs() {
   const { currentLanguage } = useLanguage();
   const location = useLocation();
   const navigate = useNavigate();
-  const content = currentLanguage.code === "zh" ? workWithUsContent.zh : workWithUsContent.en;
+  const content = workWithUsContent[currentLanguage.code as keyof typeof workWithUsContent] ?? workWithUsContent.en;
 
   const tabsById = useMemo(
     () => Object.fromEntries(content.tabs.map((tab) => [tab.id, tab])) as Record<WorkWithUsTabId, WorkWithUsTabContent>,
@@ -60,8 +61,8 @@ export default function WorkWithUs() {
   }, [location.hash]);
 
   useEffect(() => {
-    document.title = currentLanguage.code === "zh" ? "与我们合作 | Medora Health" : "Work With Us | Medora Health";
-  }, [currentLanguage.code]);
+    document.title = `${content.eyebrow} | Medora Health`;
+  }, [content.eyebrow]);
 
   const tab = tabsById[activeTab];
   const theme = workWithUsTabTheme[activeTab];
@@ -85,7 +86,10 @@ export default function WorkWithUs() {
                 data-active={activeTab === item.id}
                 onClick={() => {
                   setActiveTab(item.id);
-                  navigate(`/work-with-us#${item.id}`, { replace: location.pathname === "/work-with-us" });
+                  navigate(
+                    `${localizePathname("/work-with-us", currentLanguage.code as SiteLocale)}#${item.id}`,
+                    { replace: location.pathname === "/work-with-us" },
+                  );
                 }}
                 className={`rounded-full px-4 py-2 text-sm font-semibold text-white/80 transition hover:text-white ${workWithUsTabTheme[item.id].button}`}
               >

@@ -14,6 +14,7 @@ const LIMITED_LOCALIZED_PATHS = new Set([
   "/packages",
   "/hospitals",
   "/visa",
+  "/work-with-us",
 ]);
 
 function normalizeContentPath(pathname: string): string {

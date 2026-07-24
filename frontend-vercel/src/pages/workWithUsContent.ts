@@ -25,6 +25,51 @@ export interface WorkWithUsTabContent {
   blocks: WorkWithUsContentBlock[];
 }
 
+type WorkWithUsLocaleCopy = {
+  eyebrow: string;
+  title: string;
+  subtitle: string;
+  standardsLabel: string;
+  commitmentTitle: string;
+  applyTitle: string;
+  applyLabel: string;
+  hospitals: [string, string, string, string];
+  referrals: [string, string, string, string];
+  travel: [string, string, string, string];
+};
+
+function createLocalizedWorkWithUsContent(copy: WorkWithUsLocaleCopy): { tabs: WorkWithUsTabContent[]; eyebrow: string; title: string; subtitle: string } {
+  const tabs: Array<[WorkWithUsTabId, string, string, [string, string, string, string], string]> = [
+    ["hospitals", "🏥", "/work-with-us/hospitals/apply", copy.hospitals, "blue"],
+    ["referral-partners", "🤝", "/work-with-us/referral-partners/apply", copy.referrals, "green"],
+    ["travel-services", "✈️", "/work-with-us/travel-services/apply", copy.travel, "amber"],
+  ];
+
+  return {
+    eyebrow: copy.eyebrow,
+    title: copy.title,
+    subtitle: copy.subtitle,
+    tabs: tabs.map(([id, icon, ctaHref, [tabLabel, description, callout, commitmentBody], accent]) => ({
+      id,
+      tabLabel,
+      icon,
+      heading: tabLabel,
+      description,
+      callout,
+      ctaLabel: copy.applyLabel,
+      ctaHref,
+      blocks: [{
+        label: copy.standardsLabel,
+        layout: "two",
+        cards: [
+          { title: copy.commitmentTitle, body: commitmentBody, accent: accent as WorkWithUsSectionCard["accent"] },
+          { title: copy.applyTitle, body: copy.applyLabel, accent: accent as WorkWithUsSectionCard["accent"] },
+        ],
+      }],
+    })),
+  };
+}
+
 export const workWithUsContent = {
   en: {
     eyebrow: "Work with us",
@@ -631,4 +676,76 @@ export const workWithUsContent = {
       },
     ] as WorkWithUsTabContent[],
   },
+  es: createLocalizedWorkWithUsContent({
+    eyebrow: "Colabore con nosotros",
+    title: "Únase a la red de turismo médico de confianza de China",
+    subtitle: "Conectamos hospitales verificados, asesores de referencia y proveedores de viaje para ofrecer atención coordinada a pacientes internacionales en China.",
+    standardsLabel: "Información para socios",
+    commitmentTitle: "Nuestro compromiso",
+    applyTitle: "Cómo solicitarlo",
+    applyLabel: "Solicitar colaboración",
+    hospitals: ["Hospitales y clínicas", "Colaboramos con hospitales y clínicas especializadas autorizados y evaluados, preparados para atender a pacientes internacionales.", "Exigimos precios transparentes, respuestas oportunas y un contacto designado para cada caso internacional.", "Comparta sus licencias, especialidades, capacidad para pacientes internacionales y apoyo lingüístico para iniciar la evaluación."],
+    referrals: ["Asesores de referencia", "Trabajamos con asesores, facilitadores y organizaciones comunitarias que ayudan a los pacientes a evaluar opciones de atención en China.", "Los pacientes referidos reciben las mismas protecciones, transparencia de precios y estándares de atención que los pacientes directos.", "Presente su organización, mercados atendidos y experiencia; nuestro equipo revisará la solicitud y le orientará sobre los siguientes pasos."],
+    travel: ["Servicios de viaje y apoyo local", "Colaboramos con agencias autorizadas, intérpretes, transporte y alojamiento que conocen las necesidades de los viajeros médicos.", "Cada caso activo debe contar con un contacto de emergencia 24/7 y cumplir estrictamente las obligaciones de seguridad del paciente.", "Describa sus servicios, ciudades de cobertura, idiomas disponibles y experiencia con viajeros médicos para la revisión."],
+  }),
+  fr: createLocalizedWorkWithUsContent({
+    eyebrow: "Travaillez avec nous",
+    title: "Rejoignez le réseau chinois de tourisme médical de confiance",
+    subtitle: "Nous réunissons des hôpitaux vérifiés, des conseillers d'orientation et des prestataires de voyage pour accompagner les patients internationaux en Chine.",
+    standardsLabel: "Informations partenaires",
+    commitmentTitle: "Notre engagement",
+    applyTitle: "Comment postuler",
+    applyLabel: "Demander un partenariat",
+    hospitals: ["Hôpitaux et cliniques", "Nous travaillons avec des hôpitaux et cliniques spécialisées agréés et sélectionnés, prêts à accueillir des patients internationaux.", "Nous demandons des prix transparents, des réponses rapides et un contact dédié pour chaque dossier international.", "Présentez vos licences, spécialités, capacité d'accueil internationale et langues prises en charge afin de commencer l'évaluation."],
+    referrals: ["Conseillers d'orientation", "Nous collaborons avec des conseillers, facilitateurs et organisations communautaires qui aident les patients à évaluer les soins en Chine.", "Les patients orientés bénéficient des mêmes protections, de la même transparence tarifaire et des mêmes standards que les patients directs.", "Présentez votre organisation, vos marchés et votre expérience; notre équipe examinera votre demande et vous guidera."],
+    travel: ["Voyage et services sur place", "Nous travaillons avec des agences agréées, interprètes, transports et hébergements qui comprennent les besoins des voyageurs médicaux.", "Chaque dossier actif doit disposer d'un contact d'urgence 24 h/24 et respecter strictement les obligations de sécurité des patients.", "Décrivez vos services, villes couvertes, langues proposées et expérience des voyageurs médicaux pour examen."],
+  }),
+  de: createLocalizedWorkWithUsContent({
+    eyebrow: "Arbeiten Sie mit uns",
+    title: "Werden Sie Teil von Chinas vertrauenswuerdigem Medizintourismus-Netzwerk",
+    subtitle: "Wir verbinden gepruefte Krankenhaeuser, Empfehlungsberater und Reisedienstleister fuer eine koordinierte Versorgung internationaler Patienten in China.",
+    standardsLabel: "Partnerinformationen",
+    commitmentTitle: "Unser Anspruch",
+    applyTitle: "So bewerben Sie sich",
+    applyLabel: "Partnerschaft beantragen",
+    hospitals: ["Krankenhaeuser und Kliniken", "Wir arbeiten mit zugelassenen, geprueften Krankenhaeusern und Fachkliniken zusammen, die internationale Patienten betreuen koennen.", "Wir erwarten transparente Preise, zeitnahe Antworten und einen festen Ansprechpartner fuer jeden internationalen Fall.", "Teilen Sie Lizenzen, Fachgebiete, Kapazitaeten fuer internationale Patienten und Sprachunterstuetzung fuer die Pruefung mit."],
+    referrals: ["Empfehlungsberater", "Wir arbeiten mit vertrauenswuerdigen Beratern, Vermittlern und Gemeinschaftsorganisationen zusammen, die Patienten bei der Bewertung von Versorgung in China unterstuetzen.", "Empfohlene Patienten erhalten dieselben Schutzmassnahmen, dieselbe Preistransparenz und dieselben Standards wie direkte Patienten.", "Stellen Sie Ihre Organisation, Zielmaerkte und Erfahrung vor; unser Team prueft die Anfrage und begleitet die naechsten Schritte."],
+    travel: ["Reise- und Vor-Ort-Services", "Wir arbeiten mit zugelassenen Agenturen, Dolmetschern, Transport- und Unterkunftsanbietern zusammen, die medizinische Reisende verstehen.", "Jeder aktive Fall muss einen Notfallkontakt rund um die Uhr haben und die Sicherheitsanforderungen fuer Patienten erfuellen.", "Beschreiben Sie Ihre Leistungen, Einsatzstaedte, Sprachen und Erfahrung mit medizinischen Reisenden fuer die Pruefung."],
+  }),
+  ru: createLocalizedWorkWithUsContent({
+    eyebrow: "Сотрудничайте с нами",
+    title: "Присоединяйтесь к надежной сети медицинского туризма Китая",
+    subtitle: "Мы объединяем проверенные больницы, партнеров по направлениям и туристические службы для координированной помощи иностранным пациентам в Китае.",
+    standardsLabel: "Информация для партнеров",
+    commitmentTitle: "Наши обязательства",
+    applyTitle: "Как подать заявку",
+    applyLabel: "Подать заявку на партнерство",
+    hospitals: ["Больницы и клиники", "Мы сотрудничаем с лицензированными и проверенными больницами и профильными клиниками, готовыми принимать иностранных пациентов.", "Мы требуем прозрачных цен, своевременных ответов и выделенного контактного лица для каждого международного случая.", "Предоставьте сведения о лицензиях, специализациях, возможностях приема иностранных пациентов и языковой поддержке для оценки."],
+    referrals: ["Партнеры по направлениям", "Мы работаем с консультантами, посредниками и общественными организациями, которые помогают пациентам оценивать варианты лечения в Китае.", "Направленные пациенты получают те же гарантии, прозрачность цен и стандарты помощи, что и прямые пациенты.", "Расскажите о вашей организации, рынках и опыте; наша команда рассмотрит заявку и поможет со следующими шагами."],
+    travel: ["Туристические и местные услуги", "Мы сотрудничаем с лицензированными агентствами, переводчиками, транспортными и гостиничными компаниями, понимающими потребности медицинских путешественников.", "Для каждого активного случая должен быть доступен экстренный контакт 24/7 с соблюдением требований безопасности пациента.", "Опишите ваши услуги, города работы, поддерживаемые языки и опыт работы с медицинскими путешественниками."],
+  }),
+  ar: createLocalizedWorkWithUsContent({
+    eyebrow: "اعمل معنا",
+    title: "انضم إلى شبكة الصين الموثوقة للسياحة العلاجية",
+    subtitle: "نجمع المستشفيات الموثقة وشركاء الإحالة ومقدمي خدمات السفر لدعم المرضى الدوليين برعاية منسقة في الصين.",
+    standardsLabel: "معلومات الشراكة",
+    commitmentTitle: "التزامنا",
+    applyTitle: "كيفية التقديم",
+    applyLabel: "التقدم بطلب شراكة",
+    hospitals: ["المستشفيات والعيادات", "نتعاون مع مستشفيات وعيادات تخصصية مرخصة ومدققة ومستعدة لخدمة المرضى الدوليين.", "نطلب تسعيرا شفافا واستجابات في الوقت المناسب ونقطة اتصال مخصصة لكل حالة دولية.", "شارك التراخيص والتخصصات والقدرة على استقبال المرضى الدوليين ودعم اللغات لبدء التقييم."],
+    referrals: ["شركاء الإحالة", "نعمل مع مستشارين ووسطاء ومنظمات مجتمعية موثوقة تساعد المرضى على تقييم خيارات الرعاية في الصين.", "يحصل المرضى المحالون على الحماية نفسها وشفافية الأسعار ومعايير الرعاية نفسها التي يحصل عليها المرضى المباشرون.", "عرّفنا بمؤسستك وأسواقك وخبرتك، وسيراجع فريقنا الطلب ويرشدك إلى الخطوات التالية."],
+    travel: ["خدمات السفر والدعم المحلي", "نتعاون مع وكالات مرخصة ومترجمين ومقدمي نقل وإقامة يفهمون احتياجات المسافرين للعلاج.", "يجب أن تكون لكل حالة نشطة جهة اتصال للطوارئ على مدار الساعة مع الالتزام الصارم بسلامة المريض.", "صف خدماتك ومدن التغطية واللغات المدعومة وخبرتك مع المسافرين للعلاج للمراجعة."],
+  }),
+  id: createLocalizedWorkWithUsContent({
+    eyebrow: "Bekerja sama dengan kami",
+    title: "Bergabunglah dengan jaringan wisata medis tepercaya di Tiongkok",
+    subtitle: "Kami menghubungkan rumah sakit terverifikasi, mitra rujukan, dan penyedia perjalanan untuk mendukung pasien internasional dengan perawatan terkoordinasi di Tiongkok.",
+    standardsLabel: "Informasi kemitraan",
+    commitmentTitle: "Komitmen kami",
+    applyTitle: "Cara mendaftar",
+    applyLabel: "Ajukan kemitraan",
+    hospitals: ["Rumah sakit dan klinik", "Kami bermitra dengan rumah sakit dan klinik spesialis berizin serta telah diperiksa yang siap melayani pasien internasional.", "Kami mewajibkan harga yang transparan, respons tepat waktu, dan kontak khusus untuk setiap kasus internasional.", "Bagikan lisensi, spesialisasi, kapasitas pasien internasional, dan dukungan bahasa untuk memulai penilaian."],
+    referrals: ["Mitra rujukan", "Kami bekerja dengan penasihat, fasilitator, dan organisasi komunitas tepercaya yang membantu pasien menilai pilihan perawatan di Tiongkok.", "Pasien rujukan menerima perlindungan, transparansi harga, dan standar perawatan yang sama dengan pasien langsung.", "Ceritakan organisasi, pasar, dan pengalaman Anda; tim kami akan meninjau permohonan dan membantu langkah berikutnya."],
+    travel: ["Layanan perjalanan dan dukungan lokal", "Kami bermitra dengan agen berizin, penerjemah, transportasi, dan penyedia akomodasi yang memahami kebutuhan pelancong medis.", "Setiap kasus aktif harus memiliki kontak darurat 24/7 dan memenuhi kewajiban keselamatan pasien secara ketat.", "Jelaskan layanan, kota cakupan, bahasa yang didukung, dan pengalaman dengan pelancong medis untuk ditinjau."],
+  }),
 } as const;
