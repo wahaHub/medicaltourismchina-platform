@@ -180,6 +180,17 @@ function localizePath(pathname, locale) {
   return `/${locale}${pathname}`;
 }
 
+function procedureSeoTitle(name, locale) {
+  const suffixes = {
+    en: "in China",
+    es: "en China",
+    fr: "en Chine",
+    de: "in China",
+  };
+  const suffix = suffixes[locale];
+  return `${name}${suffix ? ` ${suffix}` : ""} | Medora Health`;
+}
+
 function absoluteUrl(pathname) {
   return `${SITE_ORIGIN}${pathname}`;
 }
@@ -411,6 +422,9 @@ function makeStaticPages() {
 async function makeRemotePages() {
   const pages = [];
   const indexableContentLocales = ["en", "zh"];
+  // Procedures have verified localized content in these locales. Keep this separate
+  // from hospitals, where only English and Chinese are complete enough to index.
+  const indexableProcedureLocales = ["en", "zh", "es", "fr", "de"];
   const hospitalRowsByLocale = new Map();
 
   for (const locale of indexableContentLocales) {
@@ -522,7 +536,7 @@ async function makeRemotePages() {
   }
 
   const proceduresByLocale = new Map();
-  for (const locale of indexableContentLocales) {
+  for (const locale of indexableProcedureLocales) {
     const rows = await fetchPaginated("/procedures", locale, 250);
     proceduresByLocale.set(locale, new Map(rows.map((row) => [row.slug, row])));
   }
@@ -538,7 +552,7 @@ async function makeRemotePages() {
     }
 
     const alternates = {};
-    for (const locale of indexableContentLocales) {
+    for (const locale of indexableProcedureLocales) {
       const procedure = proceduresByLocale.get(locale)?.get(slug);
       if (procedure?.name) {
         alternates[locale] = localizePath(
@@ -553,7 +567,7 @@ async function makeRemotePages() {
       pages.push({
         path: alternates[locale],
         locale,
-        title: `${procedure.name} | Medora Health`,
+        title: procedureSeoTitle(procedure.name, locale),
         description: truncate(
           procedure.summary
           || procedure.description
