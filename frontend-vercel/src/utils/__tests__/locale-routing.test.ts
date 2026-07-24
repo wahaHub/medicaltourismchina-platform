@@ -12,6 +12,7 @@ describe("locale routing", () => {
   it("keeps English unprefixed and detects supported locale prefixes", () => {
     expect(getLocaleFromPathname("/telemedicine")).toBe("en");
     expect(getLocaleFromPathname("/ru/telemedicine")).toBe("ru");
+    expect(getLocaleFromPathname("/ar/telemedicine")).toBe("ar");
     expect(getLocaleFromPathname("/it/telemedicine")).toBe("en");
     expect(getLocaleBasename("en")).toBeUndefined();
     expect(getLocaleBasename("fr")).toBe("/fr");
@@ -41,6 +42,26 @@ describe("locale routing", () => {
       hash: "#step-3",
     } as Location)).toBe(
       "https://www.medicaltourismchina.health/ru/packages#step-3",
+    );
+
+    expect(buildLocaleUrl("ar", {
+      origin: "https://www.medicaltourismchina.health",
+      pathname: "/search",
+      search: "?dept=oncology",
+      hash: "#results",
+    } as Location)).toBe(
+      "https://www.medicaltourismchina.health/ar/search?dept=oncology#results",
+    );
+  });
+
+  it("sends unsupported Arabic content paths to the Arabic homepage", () => {
+    expect(buildLocaleUrl("ar", {
+      origin: "https://www.medicaltourismchina.health",
+      pathname: "/procedures/heart-valve-replacement-repair",
+      search: "?ref=search",
+      hash: "",
+    } as Location)).toBe(
+      "https://www.medicaltourismchina.health/ar/",
     );
   });
 });

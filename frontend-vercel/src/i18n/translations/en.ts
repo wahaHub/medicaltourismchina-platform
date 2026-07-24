@@ -24,6 +24,9 @@ export const en = {
   'homepage.featuredIn.title': 'Medora Health in the media',
   'homepage.featuredIn.description': 'Selected media coverage and press mentions.',
   'homepage.featuredIn.logoLinkAria': 'Read Medora Health coverage in {{media}}',
+  'homepage.featuredIn.videoTitle': 'CGTN America video about medical tourism in China',
+  'homepage.featuredIn.videoPlayAria': 'Play the CGTN America video about medical tourism in China',
+  'homepage.featuredIn.videoPosterAlt': 'CGTN America coverage of medical tourism in China',
 
   // FAQ
   'faq.questionsTitle': 'Top questions patients ask us',
@@ -151,6 +154,7 @@ export const en = {
   'search.loading.departments': 'Loading department list...',
   'search.loading.departmentData': 'Loading {{departmentName}} specialty data...',
   'search.error.loadDepartments': 'Failed to load department list, please try again later',
+  'search.error.loadProcedures': 'Failed to load procedures. Please try again.',
   'search.error.loadCapability': 'Failed to load department capability data, please try again later',
   'search.noData.title': 'No Data Available',
   'search.noData.message': 'The professional capability data for this department has not been recorded yet. Please select another department or try again later.',
@@ -486,6 +490,10 @@ export const en = {
   'aria.goToNext': 'Go to next page',
   'aria.previousTestimonial': 'Previous testimonial',
   'aria.nextTestimonial': 'Next testimonial',
+  'aria.previousHospitals': 'Previous hospitals',
+  'aria.nextHospitals': 'Next hospitals',
+  'aria.previousDoctors': 'Previous doctors',
+  'aria.nextDoctors': 'Next doctors',
   'aria.scrollLeft': 'Scroll left',
   'aria.scrollRight': 'Scroll right',
 
@@ -747,6 +755,7 @@ export const en = {
 
   // Homepage - Why Choose China Section
   'homepage.whyChoose.title': 'Why Choose China?',
+  'homepage.whyChoose.mapAlt': 'Map of China showing major medical tourism cities',
   'homepage.whyChoose.reason1.title': 'STATE-OF-THE-ART MEDICAL FACILITIES',
   'homepage.whyChoose.reason1.description': 'Experience world-class healthcare in China with advanced hospitals equipped with cutting-edge technology, modern infrastructure, and internationally recognized medical standards.',
   'homepage.whyChoose.reason2.title': 'AFFORDABLE, HIGH-QUALITY TREATMENT',
@@ -783,6 +792,8 @@ export const en = {
   // Homepage - Testimonials Section
   'homepage.testimonials.title': 'Rehabilitation Stories and Witnesses',
   'homepage.testimonials.reviewsBadge': 'Hundreds Of Positive Reviews',
+  'homepage.testimonials.trustpilotCta': 'Review us on Trustpilot',
+  'homepage.testimonials.trustpilotAria': 'Review Medora Health on Trustpilot',
   'homepage.testimonials.testimonial1.title': 'Emily Carter, 22, from California, USA. Came to China for a natural-style rhinoplasty to enhance her nasal bridge and nose tip.',
   'homepage.testimonials.testimonial1.story': 'My name is Emily, I\'m 22 and from California. I was never fully confident about my low nose bridge and round tip, especially when modeling. I wanted something natural—not an obvious "done" look. After consulting clinics in the U.S., I found the prices high and the aesthetic not quite right. When I saw many natural results from Chinese surgeons, I decided to come to Shanghai. The doctor used 3D scanning to design a version of my nose that looked like me, just more refined. I felt reassured immediately. The surgery went smoothly, and recovery was fast. When the bandage came off, I was amazed—natural, balanced, and not artificial at all. Now I love my side profile and feel much more confident. Coming to China for rhinoplasty was absolutely the right choice.',
   'homepage.testimonials.testimonial2.title': 'Robert Miller, 68, from Ohio, USA. Came to China for coronary artery bypass surgery after experiencing worsening chest pain and long wait times in the U.S.',
@@ -1041,6 +1052,10 @@ export const en = {
   'footer.privacyPolicy': 'Privacy Policy',
   'footer.termsOfService': 'Terms of Service',
   'footer.cookiePolicy': 'Cookie Policy',
+  'footer.trustpilot': 'Medora Health on Trustpilot',
+  'footer.addressLabel': 'Address:',
+  'footer.contactLabel': 'Contact:',
+  'hospitals.error.loadHospitals': 'Failed to load hospitals. Please try again.',
 
   // Procedure Detail Page
   'procedureDetail.costInChina': 'Cost in China',

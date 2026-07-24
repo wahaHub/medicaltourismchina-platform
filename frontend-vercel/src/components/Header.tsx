@@ -21,7 +21,11 @@ export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isConsultationModalOpen, setIsConsultationModalOpen] = useState(false);
   const location = useLocation();
-  const { t } = useLanguage();
+  const { currentLanguage, t } = useLanguage();
+  const visibleNavLinks =
+    currentLanguage.code === "ar"
+      ? navLinks.filter((link) => link.href !== "/why-china")
+      : navLinks;
 
   const isActive = (href: string) => {
     if (href === "/") {
@@ -38,14 +42,14 @@ export default function Header() {
           <Link to="/" className="flex items-center flex-shrink-0 min-w-0">
             <img
               src={BRAND_LOGO_URL}
-              alt="Medora Health Logo"
+              alt="Medora Health"
               className="h-8 sm:h-10 md:h-12 lg:h-14 w-auto"
             />
           </Link>
 
           {/* Navigation */}
           <nav className="hidden xl:flex items-center gap-6 xl:gap-8 flex-1 justify-center mx-8">
-            {navLinks.map((link) => {
+            {visibleNavLinks.map((link) => {
               const active = isActive(link.href);
               const label = t(link.labelKey) || link.label;
               return (
@@ -110,7 +114,7 @@ export default function Header() {
         <div className="xl:hidden border-t border-gray-200 bg-white shadow-lg max-h-[calc(100vh-56px)] overflow-y-auto">
           <nav className="container mx-auto px-3 sm:px-4 py-3 sm:py-4">
             <div className="flex flex-col gap-0.5 sm:gap-1">
-              {navLinks.map((link) => {
+              {visibleNavLinks.map((link) => {
                 const active = isActive(link.href);
                 const label = t(link.labelKey) || link.label;
                 return (

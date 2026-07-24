@@ -10,19 +10,20 @@ import { VisaCountryProvider } from "@/contexts/VisaCountryContext";
 import { useEffect } from "react";
 import { setPageSeo } from "@/utils/seo";
 import { useLanguage } from "@/contexts/LanguageContext";
+import { getStaticPageMetadata } from "@/seo/static-page";
 
 const Visa = () => {
   const { currentLanguage } = useLanguage();
 
   useEffect(() => {
-    const isEnglish = currentLanguage.code === "en";
+    const metadata = getStaticPageMetadata("visa", currentLanguage.code);
     setPageSeo({
-      title: "Visa & Travel Support | Medora Health",
-      description: "Appointment booking, translation, travel planning, and follow-up care.",
-      path: "/visa",
-      robots: isEnglish ? "index,follow" : "noindex,follow",
-      includeAlternates: false,
-      availableLocales: ["en"],
+      title: metadata.locale.title,
+      description: metadata.locale.description,
+      path: metadata.path,
+      robots: metadata.indexable ? "index,follow" : "noindex,follow",
+      includeAlternates: metadata.indexable,
+      availableLocales: metadata.indexableLocales,
     });
   }, [currentLanguage.code]);
 

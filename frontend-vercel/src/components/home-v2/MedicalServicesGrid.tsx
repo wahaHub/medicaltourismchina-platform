@@ -66,7 +66,8 @@ export default function MedicalServicesGrid() {
       <div className="relative h-[200px] sm:h-[280px] md:h-[340px] lg:h-[420px] mb-8 sm:mb-12 md:mb-16">
         <img
           src={`${LOW_MEDIA_BASE}/figma-assets/medical-services-bg_x2.png`}
-          alt="Medical Services Background"
+          alt=""
+          aria-hidden="true"
           className="absolute inset-0 w-full h-full object-cover"
         />
         {/* Gradient Overlay */}

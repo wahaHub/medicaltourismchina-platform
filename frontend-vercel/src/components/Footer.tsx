@@ -203,13 +203,13 @@ const Footer = () => {
                   <li className="flex items-start">
                     <MapPin className="h-5 w-5 text-mintGreen mr-2 mt-0.5" />
                     <span className="text-gray-400">
-                      Address: Medora Health Bangladesh, The Glass House, 38 Gulshan Avenue, Dhaka-1212
+                      {t('footer.addressLabel')} Medora Health Bangladesh, The Glass House, 38 Gulshan Avenue, Dhaka-1212
                     </span>
                   </li>
                   <li className="flex items-center">
                     <Phone className="h-5 w-5 text-mintGreen mr-2" />
                     <a href="tel:+8801886420725" className="text-gray-400 hover:text-mintGreen transition-colors">
-                      Contact: +880 1886 420 725
+                      {t('footer.contactLabel')} +880 1886 420 725
                     </a>
                   </li>
                 </>
@@ -231,7 +231,7 @@ const Footer = () => {
               <li className="flex items-center">
                 <Star className="h-5 w-5 text-mintGreen mr-2" />
                 <a href={trustpilotProfileUrl} target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-mintGreen transition-colors">
-                  Medora Health on Trustpilot
+                  {t('footer.trustpilot')}
                 </a>
               </li>
             </ul>

@@ -4,6 +4,7 @@ import { es } from './es';
 import { fr } from './fr';
 import { de } from './de';
 import { ru } from './ru';
+import { ar } from './ar';
 
 export const translations = {
   en,
@@ -13,6 +14,7 @@ export const translations = {
   fr,
   de,
   ru,
+  ar,
 };
 
 export type SupportedLocale = keyof typeof translations;

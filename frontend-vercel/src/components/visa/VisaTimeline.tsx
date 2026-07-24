@@ -41,9 +41,8 @@ export default function VisaTimeline() {
             >
               <img 
                 src={`${LOW_MEDIA_BASE_URL}/visa/visa_application_icon_x2.png`} 
-                alt="Timeline Icon" 
-                 
-                
+                alt=""
+                aria-hidden="true"
                 className="w-full h-full"
               />
             </div>

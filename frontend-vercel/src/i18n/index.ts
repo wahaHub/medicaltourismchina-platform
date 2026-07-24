@@ -8,7 +8,7 @@ export interface TranslationParams {
 }
 
 type TranslationDictionary = Partial<Record<TranslationKey, string>>;
-type TranslationLocale = 'en' | 'zh' | 'zh-CN' | 'es' | 'fr' | 'de' | 'ru';
+type TranslationLocale = 'en' | 'zh' | 'zh-CN' | 'es' | 'fr' | 'de' | 'ru' | 'ar';
 
 const loadedTranslations: Record<string, TranslationDictionary> = {
   en,
@@ -21,13 +21,14 @@ const localeLoaders: Partial<Record<TranslationLocale, () => Promise<Translation
   fr: () => import('./translations/fr').then((module) => module.fr),
   de: () => import('./translations/de').then((module) => module.de),
   ru: () => import('./translations/ru').then((module) => module.ru),
+  ar: () => import('./translations/ar').then((module) => module.ar),
 };
 
 const localeLoadPromises: Partial<Record<TranslationLocale, Promise<TranslationDictionary>>> = {};
 
 function normalizeLocale(locale: string): TranslationLocale {
   if (locale === 'zh-CN') return 'zh-CN';
-  if (locale === 'zh' || locale === 'en' || locale === 'es' || locale === 'fr' || locale === 'de' || locale === 'ru') {
+  if (locale === 'zh' || locale === 'en' || locale === 'es' || locale === 'fr' || locale === 'de' || locale === 'ru' || locale === 'ar') {
     return locale;
   }
   return 'en';

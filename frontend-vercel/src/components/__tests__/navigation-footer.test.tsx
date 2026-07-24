@@ -36,6 +36,9 @@ const translations: Record<string, string> = {
   "footer.privacyPolicy": "Privacy Policy",
   "footer.termsOfService": "Terms of Service",
   "footer.cookiePolicy": "Cookie Policy",
+  "footer.trustpilot": "Medora Health on Trustpilot",
+  "footer.addressLabel": "Address:",
+  "footer.contactLabel": "Contact:",
 };
 
 vi.mock("@/contexts/LanguageContext", () => ({

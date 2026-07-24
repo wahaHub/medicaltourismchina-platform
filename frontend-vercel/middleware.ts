@@ -3,6 +3,15 @@ const CONTENT_API_BASE_URL =
   process.env.VITE_CONTENT_API_BASE_URL
   || process.env.VITE_API_BASE_URL
   || DEFAULT_CONTENT_API_BASE_URL;
+const ARABIC_PUBLIC_PATHS = new Set([
+  "/ar",
+  "/ar/telemedicine",
+  "/ar/search",
+  "/ar/treatment",
+  "/ar/packages",
+  "/ar/hospitals",
+  "/ar/visa",
+]);
 
 type SlugResolution =
   | { type: "canonical"; slug?: string }
@@ -11,10 +20,31 @@ type SlugResolution =
 
 export const config = {
   matcher: [
+    "/ar",
+    "/ar/:path*",
     "/hospitals/:path*",
     "/:locale(zh|es|fr|de|ru)/hospitals/:path*",
   ],
 };
+
+function normalizePathname(pathname: string): string {
+  if (pathname === "/") return pathname;
+  return pathname.replace(/\/+$/, "");
+}
+
+function redirectUnsupportedArabicPath(url: URL): Response | undefined {
+  if (!url.pathname.startsWith("/ar/") && url.pathname !== "/ar") {
+    return undefined;
+  }
+
+  if (ARABIC_PUBLIC_PATHS.has(normalizePathname(url.pathname))) {
+    return undefined;
+  }
+
+  const target = new URL(url.toString());
+  target.pathname = url.pathname.replace(/^\/ar(?=\/|$)/, "") || "/";
+  return Response.redirect(target, 308);
+}
 
 function parseHospitalPath(pathname: string): {
   locale?: string;
@@ -48,6 +78,9 @@ function buildTargetUrl(
 
 export default async function middleware(request: Request): Promise<Response | undefined> {
   const url = new URL(request.url);
+  const unsupportedArabicRedirect = redirectUnsupportedArabicPath(url);
+  if (unsupportedArabicRedirect) return unsupportedArabicRedirect;
+
   const parsed = parseHospitalPath(url.pathname);
   if (!parsed) return undefined;
 

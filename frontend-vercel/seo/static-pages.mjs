@@ -1,4 +1,4 @@
-export const SEO_LOCALES = ["en", "zh", "es", "fr", "de", "ru"];
+export const SEO_LOCALES = ["en", "zh", "es", "fr", "de", "ru", "ar"];
 
 export const STATIC_PAGE_METADATA = {
   home: {
@@ -34,6 +34,11 @@ export const STATIC_PAGE_METADATA = {
         title: "Medora Health | Медицинский туризм и телемедицина в Китае",
         description: "Консультации специалистов, планирование лечения, подбор больницы, перевод, визовая поддержка и последующее наблюдение в Китае.",
         heading: "Медицинская помощь в Китае для иностранных пациентов",
+      },
+      ar: {
+        title: "Medora Health | السياحة العلاجية والاستشارات الطبية في الصين",
+        description: "استشارات أطباء متخصصين وتخطيط العلاج وتنسيق المستشفيات والترجمة ودعم التأشيرة والمتابعة الطبية في الصين.",
+        heading: "رعاية طبية منسقة في الصين للمرضى الدوليين",
       },
     },
   },
@@ -71,6 +76,11 @@ export const STATIC_PAGE_METADATA = {
         description: "Получите видеоконсультацию или письменное второе мнение специалиста до поездки на лечение в Китай.",
         heading: "Телемедицина и второе медицинское мнение из Китая",
       },
+      ar: {
+        title: "استشارة طبية عن بُعد في الصين | Medora Health",
+        description: "اطلب استشارة فيديو أو مراجعة مكتوبة ورأياً طبياً ثانياً قبل السفر إلى الصين للعلاج.",
+        heading: "الاستشارة الطبية عن بُعد والرأي الطبي الثاني من الصين",
+      },
     },
   },
   packages: {
@@ -106,6 +116,11 @@ export const STATIC_PAGE_METADATA = {
         title: "Этапы лечения в Китае | Medora Health",
         description: "Узнайте, как проходят проверка документов, подбор больницы, поездка, лечение, выписка и последующее наблюдение.",
         heading: "Ваш путь к медицинской помощи в Китае",
+      },
+      ar: {
+        title: "مراحل رحلة العلاج في الصين | Medora Health",
+        description: "تعرّف على خطوات مراجعة الملف الطبي واختيار المستشفى والسفر والعلاج والخروج والمتابعة.",
+        heading: "رحلتك للحصول على الرعاية الطبية في الصين",
       },
     },
   },
@@ -143,6 +158,11 @@ export const STATIC_PAGE_METADATA = {
         description: "Изучите направления лечения, услуги специалистов, ориентировочную стоимость и организацию медицинской помощи в Китае.",
         heading: "Варианты лечения в Китае",
       },
+      ar: {
+        title: "العلاجات الطبية في الصين | Medora Health",
+        description: "استكشف خيارات العلاج وخدمات الأطباء المتخصصين والتكاليف التقديرية ومسارات الرعاية الطبية المتاحة في الصين.",
+        heading: "العلاجات الطبية المتاحة في الصين",
+      },
     },
   },
   hospitals: {
@@ -150,7 +170,7 @@ export const STATIC_PAGE_METADATA = {
     // Hospital records currently have complete, language-specific bodies only in
     // English and Chinese. Keep the other locale paths available, but do not
     // advertise or index them until the source content is translated.
-    indexableLocales: ["en", "zh"],
+    indexableLocales: ["en", "zh", "ar"],
     locales: {
       en: {
         title: "Hospitals in China for International Patients | Medora Health",
@@ -181,6 +201,11 @@ export const STATIC_PAGE_METADATA = {
         title: "Больницы Китая для иностранных пациентов | Medora Health",
         description: "Сравните больницы Китая, их специализации, услуги для иностранных пациентов и доступные варианты лечения.",
         heading: "Больницы Китая для иностранных пациентов",
+      },
+      ar: {
+        title: "مستشفيات الصين للمرضى الدوليين | Medora Health",
+        description: "قارن بين المستشفيات الصينية ومواقعها وتخصصاتها وخدمات المرضى الدوليين وخيارات العلاج المتاحة.",
+        heading: "مستشفيات في الصين للمرضى الدوليين",
       },
     },
   },
@@ -217,6 +242,27 @@ export const STATIC_PAGE_METADATA = {
         title: "Поиск лечения и больниц | Medora Health",
         description: "Найдите информацию о лечении и больницах на Medora Health.",
         heading: "Поиск лечения и больниц",
+      },
+      ar: {
+        title: "البحث عن العلاجات والمستشفيات | Medora Health",
+        description: "ابحث عن معلومات العلاجات والمستشفيات المتاحة عبر Medora Health.",
+        heading: "البحث عن العلاجات والمستشفيات",
+      },
+    },
+  },
+  visa: {
+    path: "/visa",
+    indexableLocales: ["en", "ar"],
+    locales: {
+      en: {
+        title: "China Visa and Medical Travel Support | Medora Health",
+        description: "Prepare for medical travel to China with guidance on visa requirements, supporting documents, appointments, translation, and arrival planning.",
+        heading: "China visa and medical travel support",
+      },
+      ar: {
+        title: "تأشيرة الصين ودعم السفر للعلاج | Medora Health",
+        description: "استعد لرحلتك العلاجية إلى الصين مع إرشادات التأشيرة والمستندات الداعمة والمواعيد والترجمة وترتيبات الوصول.",
+        heading: "تأشيرة الصين ودعم السفر للعلاج",
       },
     },
   },

@@ -44,7 +44,8 @@ export default function MedicalVisa() {
               <div className="w-10 h-10 sm:w-12 sm:h-12 rounded-full flex items-center justify-center shrink-0">
                 <img
                   src={`${LOW_MEDIA_BASE_URL}/visa/union_icon_x2.png`}
-                  alt="Medical Visa Icon"
+                  alt=""
+                  aria-hidden="true"
                   className="w-full h-full"
                 />
               </div>

@@ -14,6 +14,7 @@ import HomePage from "./pages/HomePage";
 import {
   getLocaleBasename,
   getLocaleFromPathname,
+  isPathLocalizedForLocale,
 } from "@/utils/locale-routing";
 import { setPageSeo } from "@/utils/seo";
 
@@ -131,13 +132,38 @@ function NoIndexRoute({ children, title }: { children: ReactNode; title: string 
   return children;
 }
 
+function LocaleRouteBoundary({ children }: { children: ReactNode }) {
+  const location = useLocation();
+  const isUnsupportedArabicPath =
+    activeLocale === "ar"
+    && !isPathLocalizedForLocale(location.pathname, "ar");
+
+  useEffect(() => {
+    if (!isUnsupportedArabicPath) {
+      return;
+    }
+
+    window.location.replace(
+      `${window.location.origin}${location.pathname}${location.search}${location.hash}`,
+    );
+  }, [
+    isUnsupportedArabicPath,
+    location.hash,
+    location.pathname,
+    location.search,
+  ]);
+
+  return isUnsupportedArabicPath ? <RouteFallback /> : children;
+}
+
 const activeLocale =
   typeof window === "undefined" ? "en" : getLocaleFromPathname(window.location.pathname);
 const routerBasename = getLocaleBasename(activeLocale);
 
 const App = () => (
   <BrowserRouter basename={routerBasename}>
-    <QueryClientProvider client={queryClient}>
+    <LocaleRouteBoundary>
+      <QueryClientProvider client={queryClient}>
       <TooltipProvider>
         <LanguageProvider initialLanguageCode={activeLocale}>
         <AuthProvider>
@@ -198,7 +224,8 @@ const App = () => (
         </AuthProvider>
         </LanguageProvider>
       </TooltipProvider>
-    </QueryClientProvider>
+      </QueryClientProvider>
+    </LocaleRouteBoundary>
   </BrowserRouter>
 );
 

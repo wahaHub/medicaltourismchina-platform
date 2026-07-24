@@ -86,7 +86,7 @@ export default function FeaturedInSection() {
                   <iframe
                     className="absolute inset-0 h-full w-full"
                     src={cgtnVideoEmbedUrl}
-                    title="CGTN America video about China's medical tourism"
+                    title={t('homepage.featuredIn.videoTitle')}
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     allowFullScreen
                   />
@@ -95,11 +95,11 @@ export default function FeaturedInSection() {
                     type="button"
                     onClick={() => setIsVideoPlaying(true)}
                     className="group absolute inset-0 block h-full w-full text-left"
-                    aria-label="Play CGTN America video about China's medical tourism"
+                    aria-label={t('homepage.featuredIn.videoPlayAria')}
                   >
                     <img
                       src={cgtnVideoPoster}
-                      alt="CGTN America coverage of China's medical tourism"
+                      alt={t('homepage.featuredIn.videoPosterAlt')}
                       className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.02]"
                       loading="lazy"
                     />

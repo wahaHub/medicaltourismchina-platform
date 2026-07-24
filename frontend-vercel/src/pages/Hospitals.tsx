@@ -81,7 +81,7 @@ const Hospitals = () => {
         setTotalHospitals(response.meta?.pagination?.total || 0);
 
       } catch (err) {
-        setError('Failed to load hospitals. Please try again.');
+        setError(t('hospitals.error.loadHospitals'));
         console.error('Error loading hospitals:', err);
       } finally {
         setLoading(false);
@@ -132,7 +132,8 @@ const Hospitals = () => {
           <div className="absolute inset-0 bg-[#F5F7F6]"></div>
           <img
             src={`${LOW_MEDIA_BASE_URL}/hospitals/hospital_bg_x2.png`}
-            alt="Wave Pattern Background"
+            alt=""
+            aria-hidden="true"
             className="w-full h-full object-cover opacity-90"
           />
         </div>

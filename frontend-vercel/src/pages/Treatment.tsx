@@ -247,10 +247,26 @@ const TreatmentPage = () => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [selectedCategoryId, setSelectedCategoryId] = useState("all");
-  const contentApiLocale = getContentApiLocale(getApiLocale());
-  const categoryLabel = currentLanguage.code === "zh" ? "分类" : "Categories";
-  const filterLabel = currentLanguage.code === "zh" ? "按专科筛选" : "Filter by specialty";
-  const allCategoriesLabel = currentLanguage.code === "zh" ? "全部项目" : "All treatments";
+  const contentApiLocale =
+    currentLanguage.code === "ar" ? "en" : getContentApiLocale(getApiLocale());
+  const categoryLabel =
+    currentLanguage.code === "zh"
+      ? "分类"
+      : currentLanguage.code === "ar"
+        ? "التصنيفات"
+        : "Categories";
+  const filterLabel =
+    currentLanguage.code === "zh"
+      ? "按专科筛选"
+      : currentLanguage.code === "ar"
+        ? "التصفية حسب التخصص"
+        : "Filter by specialty";
+  const allCategoriesLabel =
+    currentLanguage.code === "zh"
+      ? "全部项目"
+      : currentLanguage.code === "ar"
+        ? "جميع العلاجات"
+        : "All treatments";
 
   useEffect(() => {
     const metadata = getStaticPageMetadata("treatment", currentLanguage.code);
@@ -271,6 +287,9 @@ const TreatmentPage = () => {
   const formatTreatmentCount = (count: number) => {
     if (currentLanguage.code === "zh") {
       return `${count} 项治疗`;
+    }
+    if (currentLanguage.code === "ar") {
+      return `${count} علاج`;
     }
 
     return `${count} ${count === 1 ? "treatment" : "treatments"}`;

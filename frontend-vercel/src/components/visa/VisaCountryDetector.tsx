@@ -9,7 +9,8 @@ import {
 } from "@/data/visaCountries";
 
 export default function VisaCountryDetector() {
-  const { t, language } = useLanguage();
+  const { t, currentLanguage } = useLanguage();
+  const language = currentLanguage.code;
   const {
     detectedCountry,
     selectedCountry,

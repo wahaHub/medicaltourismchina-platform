@@ -66,6 +66,33 @@ describe("hospital slug middleware", () => {
     expect(fetch).not.toHaveBeenCalled();
   });
 
+  it("passes supported Arabic public routes through", async () => {
+    vi.stubGlobal("fetch", vi.fn());
+
+    const response = await middleware(
+      new Request("https://www.medicaltourismchina.health/ar/hospitals"),
+    );
+
+    expect(response).toBeUndefined();
+    expect(fetch).not.toHaveBeenCalled();
+  });
+
+  it("redirects unsupported Arabic dynamic routes to English", async () => {
+    vi.stubGlobal("fetch", vi.fn());
+
+    const response = await middleware(
+      new Request(
+        "https://www.medicaltourismchina.health/ar/procedures/heart-valve-replacement-repair?ref=search",
+      ),
+    );
+
+    expect(response?.status).toBe(308);
+    expect(response?.headers.get("location")).toBe(
+      "https://www.medicaltourismchina.health/procedures/heart-valve-replacement-repair?ref=search",
+    );
+    expect(fetch).not.toHaveBeenCalled();
+  });
+
   it("passes through when the resolver returns a non-OK response", async () => {
     vi.stubGlobal("fetch", vi.fn().mockResolvedValue(jsonResponse({ error: "unavailable" }, 503)));
 

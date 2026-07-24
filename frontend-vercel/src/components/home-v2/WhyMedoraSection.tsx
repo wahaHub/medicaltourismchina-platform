@@ -198,17 +198,18 @@ export default function WhyMedoraSection() {
             <div className="relative rounded-2xl overflow-hidden shadow-lg h-64 md:h-96 group cursor-pointer">
               <img
                 src={`${LOW_MEDIA_BASE}/homepage/why_medora_1_x2.png`}
-                alt="Hospital"
+                alt={t('homepage.whyMedora.publicHospital')}
                 className="w-full h-full object-cover transition-transform group-hover:scale-105"
               />
               {/* Overlay Image 1 */}
               <img
                 src={`${LOW_MEDIA_BASE}/homepage/why_medora_overlay_1_x2.png`}
-                alt="Hospital Overlay"
+                alt=""
+                aria-hidden="true"
                 className="absolute inset-0 w-full h-full object-cover pointer-events-none"
               />
               <div className="absolute top-4 left-0 z-10 flex items-center">
-                <img src={`${LOW_MEDIA_BASE}/homepage/top_1_x2.png`} alt="TOP1 Badge" className="h-8" />
+                <img src={`${LOW_MEDIA_BASE}/homepage/top_1_x2.png`} alt="" aria-hidden="true" className="h-8" />
                 <span className="absolute left-2 text-[#1DA78A] font-bold text-sm">TOP1</span>
               </div>
               <div className="absolute bottom-0 left-0 right-0 p-6 text-white z-10">
@@ -223,17 +224,18 @@ export default function WhyMedoraSection() {
               <div className="relative rounded-2xl overflow-hidden shadow-lg flex-1 group cursor-pointer">
                 <img
                   src={`${LOW_MEDIA_BASE}/homepage/why_medora_2_x2.png`}
-                  alt="Doctors"
+                  alt={t('homepage.whyMedora.topDoctors')}
                   className="w-full h-full object-cover transition-transform group-hover:scale-105"
                 />
                 {/* Overlay Image 2 */}
                 <img
                   src={`${LOW_MEDIA_BASE}/homepage/why_medora_overlay_2_x2.png`}
-                  alt="Doctors Overlay"
+                  alt=""
+                  aria-hidden="true"
                   className="absolute inset-0 w-full h-full object-cover pointer-events-none"
                 />
                 <div className="absolute top-4 left-0 z-10 flex items-center">
-                  <img src={`${LOW_MEDIA_BASE}/homepage/top_1_x2.png`} alt="TOP1 Badge" className="h-8" />
+                  <img src={`${LOW_MEDIA_BASE}/homepage/top_1_x2.png`} alt="" aria-hidden="true" className="h-8" />
                   <span className="absolute left-2 text-[#1DA78A] font-bold text-sm">TOP1</span>
                 </div>
                 <div className="absolute bottom-0 left-0 right-0 p-4 text-white z-10">
@@ -246,17 +248,18 @@ export default function WhyMedoraSection() {
               <div className="relative rounded-2xl overflow-hidden shadow-lg flex-1 group cursor-pointer">
                 <img
                   src={`${LOW_MEDIA_BASE}/homepage/why_medora_3_x2.png`}
-                  alt="Treatment"
+                  alt={t('homepage.whyMedora.rapidTreatment')}
                   className="w-full h-full object-cover transition-transform group-hover:scale-105"
                 />
                 {/* Overlay Image 2 */}
                 <img
                   src={`${LOW_MEDIA_BASE}/homepage/why_medora_overlay_2_x2.png`}
-                  alt="Treatment Overlay"
+                  alt=""
+                  aria-hidden="true"
                   className="absolute inset-0 w-full h-full object-cover pointer-events-none"
                 />
                 <div className="absolute top-4 left-0 z-10 flex items-center">
-                  <img src={`${LOW_MEDIA_BASE}/homepage/top_1_x2.png`} alt="TOP1 Badge" className="h-8" />
+                  <img src={`${LOW_MEDIA_BASE}/homepage/top_1_x2.png`} alt="" aria-hidden="true" className="h-8" />
                   <span className="absolute left-2 text-[#1DA78A] font-bold text-sm">TOP1</span>
                 </div>
                 <div className="absolute bottom-0 left-0 right-0 p-4 text-white z-10">
@@ -326,14 +329,14 @@ export default function WhyMedoraSection() {
             <button
               onClick={prevMobileHospitals}
               className="absolute left-0 top-1/2 -translate-y-1/2 -translate-x-2 bg-white text-[#1DA78A] p-2 rounded-full shadow-lg hover:bg-gray-100 transition-colors z-10"
-              aria-label="Previous hospitals"
+              aria-label={t('aria.previousHospitals')}
             >
               <ChevronLeft className="w-4 h-4" />
             </button>
             <button
               onClick={nextMobileHospitals}
               className="absolute right-0 top-1/2 -translate-y-1/2 translate-x-2 bg-white text-[#1DA78A] p-2 rounded-full shadow-lg hover:bg-gray-100 transition-colors z-10"
-              aria-label="Next hospitals"
+              aria-label={t('aria.nextHospitals')}
             >
               <ChevronRight className="w-4 h-4" />
             </button>
@@ -384,14 +387,14 @@ export default function WhyMedoraSection() {
             <button
               onClick={prevHospitals}
               className="absolute left-0 top-1/2 -translate-y-1/2 -translate-x-4 bg-[#1DA78A] text-white p-2 rounded-full shadow-lg hover:bg-[#158970] transition-colors z-10"
-              aria-label="Previous hospitals"
+              aria-label={t('aria.previousHospitals')}
             >
               <ChevronLeft className="w-5 h-5" />
             </button>
             <button
               onClick={nextHospitals}
               className="absolute right-0 top-1/2 -translate-y-1/2 translate-x-4 bg-[#1DA78A] text-white p-2 rounded-full shadow-lg hover:bg-[#158970] transition-colors z-10"
-              aria-label="Next hospitals"
+              aria-label={t('aria.nextHospitals')}
             >
               <ChevronRight className="w-5 h-5" />
             </button>
@@ -460,14 +463,14 @@ export default function WhyMedoraSection() {
             <button
               onClick={prevMobileDoctors}
               className="absolute left-0 top-1/2 -translate-y-1/2 -translate-x-2 bg-white text-[#1DA78A] p-2 rounded-full shadow-lg hover:bg-gray-100 transition-colors z-10"
-              aria-label="Previous doctors"
+              aria-label={t('aria.previousDoctors')}
             >
               <ChevronLeft className="w-4 h-4" />
             </button>
             <button
               onClick={nextMobileDoctors}
               className="absolute right-0 top-1/2 -translate-y-1/2 translate-x-2 bg-white text-[#1DA78A] p-2 rounded-full shadow-lg hover:bg-gray-100 transition-colors z-10"
-              aria-label="Next doctors"
+              aria-label={t('aria.nextDoctors')}
             >
               <ChevronRight className="w-4 h-4" />
             </button>
@@ -537,7 +540,8 @@ export default function WhyMedoraSection() {
                             {/* Bottom Overlay Decoration */}
                             <img
                               src={`${LOW_MEDIA_BASE}/homepage/doctors/Mask group_x3.png`}
-                              alt="Decoration"
+                              alt=""
+                              aria-hidden="true"
                               className="absolute bottom-0 left-0 right-0 w-full pointer-events-none"
                               style={{ height: 'auto' }}
                             />
@@ -578,14 +582,14 @@ export default function WhyMedoraSection() {
             <button
               onClick={prevDoctors}
               className="absolute left-0 top-1/2 -translate-y-1/2 -translate-x-4 bg-[#1DA78A] text-white p-2 rounded-full shadow-lg hover:bg-[#158970] transition-colors z-10"
-              aria-label="Previous doctors"
+              aria-label={t('aria.previousDoctors')}
             >
               <ChevronLeft className="w-5 h-5" />
             </button>
             <button
               onClick={nextDoctors}
               className="absolute right-0 top-1/2 -translate-y-1/2 translate-x-4 bg-[#1DA78A] text-white p-2 rounded-full shadow-lg hover:bg-[#158970] transition-colors z-10"
-              aria-label="Next doctors"
+              aria-label={t('aria.nextDoctors')}
             >
               <ChevronRight className="w-5 h-5" />
             </button>

@@ -26,7 +26,8 @@ import { getStaticPageMetadata } from '@/seo/static-page';
 
 const Search = () => {
   const { currentLanguage, getApiLocale, t } = useLanguage();
-  const contentApiLocale = getContentApiLocale(getApiLocale());
+  const contentApiLocale =
+    currentLanguage.code === "ar" ? "en" : getContentApiLocale(getApiLocale());
   const [searchParams, setSearchParams] = useSearchParams();
   const [departments, setDepartments] = useState<Department[]>([]);
   const [selectedDepartment, setSelectedDepartment] = useState<string>('');
@@ -144,7 +145,7 @@ const Search = () => {
         setProcedures(response.data as any);
       } catch (err) {
         console.error('Failed to load procedures:', err);
-        setError('Failed to load procedures');
+        setError(t('search.error.loadProcedures'));
       } finally {
         setProceduresLoading(false);
       }
@@ -303,7 +304,8 @@ const Search = () => {
           <div className="absolute inset-0 bg-[#F5F7F6]"></div>
           <img
             src={`${LOW_MEDIA_BASE_URL}/search/background_x1.png`}
-            alt="Wave Pattern Background"
+            alt=""
+            aria-hidden="true"
             loading="lazy"
             decoding="async"
             className="w-full h-full object-cover opacity-90"

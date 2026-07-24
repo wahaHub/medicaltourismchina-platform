@@ -55,7 +55,7 @@ export default function WhyChooseChinaHome() {
             <div className="relative w-full h-full">
               <img
                 src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/document-uploads/Group-486-1763283248559.png?width=8000&height=8000&resize=contain"
-                alt="China Map with Major Cities"
+            alt={t('homepage.whyChoose.mapAlt')}
                 className="object-contain w-full h-full"
               />
             </div>
@@ -65,4 +65,3 @@ export default function WhyChooseChinaHome() {
     </section>
   );
 }
-

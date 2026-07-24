@@ -150,6 +150,38 @@ export const countryNames: Record<string, Record<string, string>> = {
   'AL': { en: 'Albania', zh: '阿尔巴尼亚', de: 'Albanien', fr: 'Albanie', es: 'Albania' },
 };
 
+type RegionDisplayNames = {
+  of: (regionCode: string) => string | undefined;
+};
+
+type RegionDisplayNamesConstructor = new (
+  locales: string | string[],
+  options: { type: 'region' },
+) => RegionDisplayNames;
+
+const regionDisplayNamesCache = new Map<string, RegionDisplayNames | null>();
+
+function getRegionDisplayNames(language: string): RegionDisplayNames | null {
+  const locale = language || 'en';
+  if (regionDisplayNamesCache.has(locale)) {
+    return regionDisplayNamesCache.get(locale) || null;
+  }
+
+  try {
+    const DisplayNames = (
+      Intl as unknown as { DisplayNames?: RegionDisplayNamesConstructor }
+    ).DisplayNames;
+    const formatter = DisplayNames
+      ? new DisplayNames(locale, { type: 'region' })
+      : null;
+    regionDisplayNamesCache.set(locale, formatter);
+    return formatter;
+  } catch {
+    regionDisplayNamesCache.set(locale, null);
+    return null;
+  }
+}
+
 // Get visa status for a country
 export function getVisaStatus(countryCode: string): VisaStatus {
   if (visaFree240Countries.includes(countryCode)) {
@@ -164,8 +196,15 @@ export function getVisaStatus(countryCode: string): VisaStatus {
 // Get country name in specified language
 export function getCountryName(countryCode: string, language: string): string {
   const names = countryNames[countryCode];
-  if (names) {
-    return names[language] || names['en'] || countryCode;
+  if (!names) {
+    return countryCode;
   }
-  return countryCode;
+
+  if (names[language]) {
+    return names[language];
+  }
+
+  return getRegionDisplayNames(language)?.of(countryCode)
+    || names['en']
+    || countryCode;
 }

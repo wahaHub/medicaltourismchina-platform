@@ -29,6 +29,7 @@ const HREFLANG = {
   fr: "fr",
   de: "de",
   ru: "ru",
+  ar: "ar",
 };
 
 const LOCATION_GUIDES = {
@@ -222,7 +223,10 @@ function renderHtml(baseHtml, page) {
   );
 
   let html = withoutOldAlternates
-    .replace(/<html\s+lang=["'][^"']*["']>/i, `<html lang="${HREFLANG[page.locale] || page.locale}">`)
+    .replace(
+      /<html\s+lang=["'][^"']*["'](?:\s+dir=["'][^"']*["'])?>/i,
+      `<html lang="${HREFLANG[page.locale] || page.locale}" dir="${page.locale === "ar" ? "rtl" : "ltr"}">`,
+    )
     .replace(/<title>[\s\S]*?<\/title>/i, `<title>${escapeHtml(page.title)}</title>`)
     .replace(
       /<div id="root">[\s\S]*?<\/div>/i,

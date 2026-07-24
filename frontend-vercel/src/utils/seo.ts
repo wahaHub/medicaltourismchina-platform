@@ -123,6 +123,7 @@ export function setPageSeo({
   ensureCanonical(canonicalUrl);
 
   document.documentElement.lang = getHreflang(currentLocale);
+  document.documentElement.dir = currentLocale === "ar" ? "rtl" : "ltr";
   if (includeAlternates) {
     setLanguageAlternates(path, availableLocales, alternatePaths);
   } else {

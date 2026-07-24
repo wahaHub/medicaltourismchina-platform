@@ -22,6 +22,7 @@ export const SUPPORTED_LANGUAGES: Language[] = [
   { code: 'fr', name: 'Français', flag: '🇫🇷', apiCode: 'fr' },
   { code: 'de', name: 'Deutsch', flag: '🇩🇪', apiCode: 'de' },
   { code: 'ru', name: 'Русский', flag: '🇷🇺', apiCode: 'ru' },
+  { code: 'ar', name: 'العربية', flag: '🇸🇦', apiCode: 'ar' },
 ];
 
 interface LanguageContextType {
@@ -87,6 +88,7 @@ export const LanguageProvider: React.FC<LanguageProviderProps> = ({
 
   useEffect(() => {
     document.documentElement.lang = currentLanguage.code === 'zh' ? 'zh-Hans' : currentLanguage.code;
+    document.documentElement.dir = currentLanguage.code === 'ar' ? 'rtl' : 'ltr';
     void loadTranslationLocale(currentLanguage.code).then(() => {
       setDictionaryVersion((version) => version + 1);
     });

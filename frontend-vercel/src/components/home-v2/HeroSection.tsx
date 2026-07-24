@@ -135,7 +135,7 @@ export default function HeroSection() {
                   </div>
                   <Button className="text-white shadow-none cursor-pointer text-left p-0 bg-transparent hover:bg-transparent rounded-full text-xs xl:text-sm font-semibold transition-all">
                     {t('homepage.hero.letsGoNow')}
-                    <img src={`${LOW_MEDIA_BASE}/root_assets/right_arrow_icon_x2.png`} alt="Arrow" className="ml-2 w-4 h-4 inline" />
+                    <img src={`${LOW_MEDIA_BASE}/root_assets/right_arrow_icon_x2.png`} alt="" aria-hidden="true" className="ml-2 w-4 h-4 inline" />
                   </Button>
                 </div>
               </Card>
@@ -204,7 +204,7 @@ export default function HeroSection() {
                   </div>
                   <Button className="text-white bg-white/20 hover:bg-white/30 border border-white/50 rounded-full px-3 sm:px-4 py-1 sm:py-1.5 text-[9px] sm:text-[10px] font-semibold h-auto inline-flex items-center gap-1">
                     {t('homepage.hero.letsGoNow')}
-                    <img src={`${LOW_MEDIA_BASE}/root_assets/right_arrow_icon_x2.png`} alt="Arrow" className="w-3 h-3" />
+                    <img src={`${LOW_MEDIA_BASE}/root_assets/right_arrow_icon_x2.png`} alt="" aria-hidden="true" className="w-3 h-3" />
                   </Button>
                 </div>
               </Card>

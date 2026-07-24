@@ -54,4 +54,24 @@ describe("setPageSeo", () => {
       "https://www.medicaltourismchina.health/ru/search",
     );
   });
+
+  it("sets Arabic language direction and self-canonical metadata", () => {
+    window.history.replaceState({}, "", "/ar/telemedicine");
+
+    setPageSeo({
+      title: "استشارة طبية عن بُعد",
+      description: "وصف",
+      path: "/telemedicine",
+      availableLocales: ["en", "ar"],
+    });
+
+    expect(document.documentElement.lang).toBe("ar");
+    expect(document.documentElement.dir).toBe("rtl");
+    expect(document.querySelector('link[rel="canonical"]')?.getAttribute("href")).toBe(
+      "https://www.medicaltourismchina.health/ar/telemedicine",
+    );
+    expect(document.querySelector('link[hreflang="ar"]')?.getAttribute("href")).toBe(
+      "https://www.medicaltourismchina.health/ar/telemedicine",
+    );
+  });
 });

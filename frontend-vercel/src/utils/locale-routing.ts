@@ -1,10 +1,25 @@
 export const DEFAULT_LOCALE = "en";
-export const URL_LOCALES = ["zh", "es", "fr", "de", "ru"] as const;
+export const URL_LOCALES = ["zh", "es", "fr", "de", "ru", "ar"] as const;
 export const ALL_LOCALES = [DEFAULT_LOCALE, ...URL_LOCALES] as const;
 
 export type SiteLocale = (typeof ALL_LOCALES)[number];
 
 const URL_LOCALE_SET = new Set<string>(URL_LOCALES);
+const ARABIC_LOCALIZED_PATHS = new Set([
+  "/",
+  "/telemedicine",
+  "/search",
+  "/treatment",
+  "/packages",
+  "/hospitals",
+  "/visa",
+]);
+
+function normalizeContentPath(pathname: string): string {
+  const normalized = pathname.startsWith("/") ? pathname : `/${pathname}`;
+  if (normalized === "/") return normalized;
+  return normalized.replace(/\/+$/, "");
+}
 
 export function isSiteLocale(value: string | null | undefined): value is SiteLocale {
   return Boolean(value && ALL_LOCALES.includes(value as SiteLocale));
@@ -44,11 +59,34 @@ export function localizePathname(pathname: string, locale: SiteLocale): string {
   return `/${locale}${languageNeutralPath}`;
 }
 
+export function isPathLocalizedForLocale(
+  pathname: string,
+  locale: SiteLocale,
+): boolean {
+  if (locale !== "ar") {
+    return true;
+  }
+
+  return ARABIC_LOCALIZED_PATHS.has(
+    normalizeContentPath(stripLocaleFromPathname(pathname)),
+  );
+}
+
 export function buildLocaleUrl(
   targetLocale: SiteLocale,
   location: Pick<Location, "pathname" | "search" | "hash" | "origin">,
 ): string {
-  return `${location.origin}${localizePathname(location.pathname, targetLocale)}${location.search}${location.hash}`;
+  const supportsCurrentPath = isPathLocalizedForLocale(
+    location.pathname,
+    targetLocale,
+  );
+  const localizedPath = supportsCurrentPath
+    ? localizePathname(location.pathname, targetLocale)
+    : "/ar/";
+
+  return `${location.origin}${localizedPath}${
+    supportsCurrentPath ? `${location.search}${location.hash}` : ""
+  }`;
 }
 
 export function getHreflang(locale: SiteLocale): string {

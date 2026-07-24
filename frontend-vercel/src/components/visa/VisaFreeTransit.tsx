@@ -7,7 +7,8 @@ import { LOW_MEDIA_BASE_URL } from "@/config/media";
 const VISA_MEDIA_BASE = `${LOW_MEDIA_BASE_URL}/visa`;
 
 export default function VisaFreeTransit() {
-  const { t, language } = useLanguage();
+  const { t, currentLanguage } = useLanguage();
+  const language = currentLanguage.code;
   const { activeCountry, visaStatus } = useVisaCountry();
 
   // Only show this section if the selected country has visa-free transit
@@ -61,7 +62,8 @@ export default function VisaFreeTransit() {
               <div className="w-10 h-10 sm:w-12 sm:h-12 rounded-full flex items-center justify-center shrink-0">
                 <img
                   src={`${VISA_MEDIA_BASE}/map_icon_x2.png`}
-                  alt="Map Icon"
+                  alt=""
+                  aria-hidden="true"
                   className="w-full h-full"
                 />
               </div>
@@ -93,7 +95,8 @@ export default function VisaFreeTransit() {
                 >
                   <img
                     src={`${VISA_MEDIA_BASE}/check_x2.png`}
-                    alt="Check Icon"
+                    alt=""
+                    aria-hidden="true"
                     className="w-5 h-5 shrink-0"
                   />
                   <span className="text-sm font-medium text-gray-700">
@@ -119,7 +122,8 @@ export default function VisaFreeTransit() {
                 >
                   <img
                     src={`${VISA_MEDIA_BASE}/check_x2.png`}
-                    alt="Check Icon"
+                    alt=""
+                    aria-hidden="true"
                     className="w-6 h-6 shrink-0 mt-0.5"
                   />
                   <div>

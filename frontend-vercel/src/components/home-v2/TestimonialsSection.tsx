@@ -225,7 +225,8 @@ export default function TestimonialsSection() {
           <div className="relative inline-block">
             <img
               src={`${LOW_MEDIA_BASE}/homepage/witness/Group.png`}
-              alt="Reviews badge"
+              alt=""
+              aria-hidden="true"
               className="w-auto h-24"
             />
             <div className="absolute top-0 bottom-0 left-0 right-0 flex items-center justify-center" style={{ paddingLeft: '45%', paddingBottom: '14px' }}>
@@ -240,10 +241,10 @@ export default function TestimonialsSection() {
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-full border border-white/35 bg-white/12 px-4 py-2 text-sm font-semibold text-white shadow-sm backdrop-blur transition-colors hover:bg-white/20"
-              aria-label="Review Medora Health on Trustpilot"
+              aria-label={t('homepage.testimonials.trustpilotAria')}
             >
               <Star className="h-4 w-4 fill-current text-[#00B67A]" />
-              Review us on Trustpilot
+              {t('homepage.testimonials.trustpilotCta')}
               <ExternalLink className="h-3.5 w-3.5" />
             </a>
           </div>
@@ -317,14 +318,14 @@ export default function TestimonialsSection() {
           <button
             onClick={prevMobile}
             className="absolute left-0 top-1/2 -translate-y-1/2 -translate-x-2 bg-white text-[#1DA78A] p-2 rounded-full shadow-lg hover:bg-gray-100 transition-colors z-10"
-            aria-label="Previous testimonials"
+            aria-label={t('aria.previousTestimonial')}
           >
             <ChevronLeft className="w-4 h-4" />
           </button>
           <button
             onClick={nextMobile}
             className="absolute right-0 top-1/2 -translate-y-1/2 translate-x-2 bg-white text-[#1DA78A] p-2 rounded-full shadow-lg hover:bg-gray-100 transition-colors z-10"
-            aria-label="Next testimonials"
+            aria-label={t('aria.nextTestimonial')}
           >
             <ChevronRight className="w-4 h-4" />
           </button>
@@ -390,14 +391,14 @@ export default function TestimonialsSection() {
           <button
             onClick={prev}
             className="absolute left-0 top-1/2 -translate-y-1/2 -translate-x-4 bg-white text-[#1DA78A] p-2 rounded-full shadow-lg hover:bg-gray-100 transition-colors z-10"
-            aria-label="Previous testimonials"
+            aria-label={t('aria.previousTestimonial')}
           >
             <ChevronLeft className="w-5 h-5" />
           </button>
           <button
             onClick={next}
             className="absolute right-0 top-1/2 -translate-y-1/2 translate-x-4 bg-white text-[#1DA78A] p-2 rounded-full shadow-lg hover:bg-gray-100 transition-colors z-10"
-            aria-label="Next testimonials"
+            aria-label={t('aria.nextTestimonial')}
           >
             <ChevronRight className="w-5 h-5" />
           </button>
@@ -420,7 +421,7 @@ export default function TestimonialsSection() {
               <button
                 onClick={closeModal}
                 className="absolute top-4 right-4 bg-white rounded-full p-2 shadow-lg hover:bg-gray-100 transition-colors z-10"
-                aria-label="Close modal"
+                aria-label={t('common.close')}
               >
                 <svg className="w-6 h-6 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
