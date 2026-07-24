@@ -30,6 +30,7 @@ const HREFLANG = {
   de: "de",
   ru: "ru",
   ar: "ar",
+  id: "id",
 };
 
 const LOCATION_GUIDES = {

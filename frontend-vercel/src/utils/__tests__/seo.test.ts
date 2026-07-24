@@ -6,6 +6,8 @@ afterEach(() => {
   document.head
     .querySelectorAll('link[rel="alternate"], link[rel="canonical"], meta[name="robots"]')
     .forEach((element) => element.remove());
+  document.documentElement.lang = "en";
+  document.documentElement.dir = "ltr";
   window.history.replaceState({}, "", "/");
 });
 
@@ -72,6 +74,26 @@ describe("setPageSeo", () => {
     );
     expect(document.querySelector('link[hreflang="ar"]')?.getAttribute("href")).toBe(
       "https://www.medicaltourismchina.health/ar/telemedicine",
+    );
+  });
+
+  it("sets Indonesian language, LTR direction, and self-canonical metadata", () => {
+    window.history.replaceState({}, "", "/id/telemedicine");
+
+    setPageSeo({
+      title: "Konsultasi telemedisin",
+      description: "Deskripsi",
+      path: "/telemedicine",
+      availableLocales: ["en", "id"],
+    });
+
+    expect(document.documentElement.lang).toBe("id");
+    expect(document.documentElement.dir).toBe("ltr");
+    expect(document.querySelector('link[rel="canonical"]')?.getAttribute("href")).toBe(
+      "https://www.medicaltourismchina.health/id/telemedicine",
+    );
+    expect(document.querySelector('link[hreflang="id"]')?.getAttribute("href")).toBe(
+      "https://www.medicaltourismchina.health/id/telemedicine",
     );
   });
 });

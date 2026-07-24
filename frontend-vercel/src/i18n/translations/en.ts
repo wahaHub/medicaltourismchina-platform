@@ -1982,6 +1982,7 @@ export const en = {
   'visa.medical.whoNeeds': 'For stays exceeding 240 hours or extended medical treatment, you\'ll need a Chinese Medical Visa (M Visa). We provide full-service support to make your application seamless.',
   'visa.medical.invitation.title': 'Hospital Invitation Letter',
   'visa.medical.invitation.description': 'We coordinate directly with your chosen hospital to obtain the official Medical Invitation Letter—delivered within 48 hours. This document is essential for your M Visa application.',
+  'visa.medical.invitation.badge': '48h',
   'visa.medical.documents.title': 'Document Preparation',
   'visa.medical.documents.description': 'We guide you through gathering all required documents: passport (6+ months validity), passport-size photos, completed application form, medical records, and travel itinerary.',
   'visa.medical.review.title': 'Application Review',

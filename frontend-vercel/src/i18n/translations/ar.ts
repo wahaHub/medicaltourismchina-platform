@@ -348,6 +348,7 @@ export const ar = {
   "visa.medical.whoNeeds": "للإقامات التي تتجاوز 240 ساعة أو للعلاج الممتد، ستحتاج إلى التأشيرة الصينية المناسبة. نوفر دعماً كاملاً لتجهيز الطلب.",
   "visa.medical.invitation.title": "خطاب دعوة من المستشفى",
   "visa.medical.invitation.description": "ننسق مباشرة مع المستشفى المختار للحصول على خطاب الدعوة الطبية الرسمي خلال 48 ساعة، وهو مستند أساسي لطلب التأشيرة.",
+  "visa.medical.invitation.badge": "48 ساعة",
   "visa.medical.documents.title": "تجهيز المستندات",
   "visa.medical.documents.description": "نرشدك لتجهيز جواز سفر صالح لأكثر من 6 أشهر، والصور الشخصية، ونموذج الطلب، والسجلات الطبية، وخطة السفر.",
   "visa.medical.review.title": "مراجعة الطلب",

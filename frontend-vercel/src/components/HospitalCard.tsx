@@ -34,20 +34,100 @@ type HospitalCardProps = NewHospitalCardProps | LegacyHospitalCardProps;
 const LOW_MEDIA_BASE = `${(import.meta.env.VITE_PUBLIC_MEDIA_BASE_URL || 'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev').replace(/\/+$/, '')}/low`;
 const HOSPITAL_PLACEHOLDER_IMAGE_URL = `${LOW_MEDIA_BASE}/root_assets/surgery_placeholder_x2.png`;
 
-const HospitalCardImage = ({ src, hospitalName }: { src?: string; hospitalName: string }) => {
+const HospitalCardImage = ({
+  src,
+  hospitalName,
+  photoLabel,
+}: {
+  src?: string;
+  hospitalName: string;
+  photoLabel: string;
+}) => {
   const imageUrl = src || HOSPITAL_PLACEHOLDER_IMAGE_URL;
 
   return (
     <div className="relative h-full w-full">
       <HospitalProgressiveImage
         src={imageUrl}
-        alt={`${hospitalName} - 照片 1`}
+        alt={`${hospitalName} - ${photoLabel} 1`}
         className="h-full w-full object-cover group-hover:scale-105 transition-transform duration-300"
         loading="lazy"
       />
     </div>
   );
 };
+
+export type HospitalOwnership = "public" | "private" | null;
+
+export function resolveHospitalOwnership(value?: string | null): HospitalOwnership {
+  const normalized = value?.trim().toLocaleLowerCase();
+  if (!normalized) return null;
+
+  if (["公立", "public", "publik"].includes(normalized)) return "public";
+  if (["私立", "private", "swasta"].includes(normalized)) return "private";
+  return null;
+}
+
+export function isClassATertiaryHospital(value?: string | null): boolean {
+  const normalized = value?.trim().toLocaleLowerCase().replace(/\s+/g, " ");
+  return Boolean(
+    normalized
+    && [
+      "三甲",
+      "三级甲等",
+      "3a",
+      "tingkat 3a",
+      "tingkat tiga kelas a",
+      "class a tertiary",
+      "tertiary class a",
+    ].includes(normalized),
+  );
+}
+
+const INDONESIAN_LOCATION_REPLACEMENTS: Array<[RegExp, string]> = [
+  [/北京市?/g, "Beijing"],
+  [/上海市?/g, "Shanghai"],
+  [/广州市?/g, "Guangzhou"],
+  [/深圳市?/g, "Shenzhen"],
+  [/成都市?/g, "Chengdu"],
+  [/重庆市?/g, "Chongqing"],
+];
+
+function localizeHospitalLocationPart(value: string, languageCode: string): string {
+  if (languageCode !== "id") return value;
+
+  let localized = value;
+  for (const [pattern, replacement] of INDONESIAN_LOCATION_REPLACEMENTS) {
+    localized = localized.replace(pattern, replacement);
+  }
+
+  return localized
+    .replace(/\bChina\b/gi, "Tiongkok")
+    .replace(/[，、]+/g, ", ")
+    .replace(/\s*,\s*/g, ", ")
+    .trim();
+}
+
+export function localizeHospitalLocation(
+  city: string,
+  province: string,
+  languageCode: string,
+): string {
+  const parts = [city, province]
+    .map((part) => localizeHospitalLocationPart(part || "", languageCode))
+    .flatMap((part) => part.split(","))
+    .map((part) => part.trim())
+    .filter(Boolean);
+  return [...new Set(parts)].join(", ");
+}
+
+export function formatAnnualOutpatients(value: number, languageCode: string): string {
+  const locale = languageCode === "zh" ? "zh-CN" : languageCode;
+  return new Intl.NumberFormat(locale, {
+    notation: "compact",
+    maximumFractionDigits: 1,
+  }).format(value);
+}
 
 // Information about accreditations
 const accreditationInfo = {
@@ -63,7 +143,7 @@ const accreditationInfo = {
 
 const HospitalCard = (props: HospitalCardProps) => {
   const navigate = useNavigate();
-  const { t } = useLanguage();
+  const { currentLanguage, t } = useLanguage();
 
   // Check if this is the new hospital format
   const isNewHospitalFormat = 'hospitalData' in props;
@@ -73,13 +153,17 @@ const HospitalCard = (props: HospitalCardProps) => {
     id: props.hospitalData.id,
     name: props.hospitalData.name,
     slug: props.hospitalData.slug,
-    is3A: props.hospitalData.tier === '三甲',
-    isPrivate: props.hospitalData.ownership_type === '私立',
+    is3A: isClassATertiaryHospital(props.hospitalData.tier),
+    ownership: resolveHospitalOwnership(props.hospitalData.ownership_type),
     annualCases: props.hospitalData.annual_outpatient_visits || 0,
     image: '/api/placeholder/400/240', // Placeholder for now
     website: props.hospitalData.official_website || '',
     wikiUrl: props.hospitalData.wiki_link || `https://zh.wikipedia.org/wiki/${encodeURIComponent(props.hospitalData.name)}`,
-    location: `${props.hospitalData.city}${props.hospitalData.province ? ', ' + props.hospitalData.province : ''}`,
+    location: localizeHospitalLocation(
+      props.hospitalData.city,
+      props.hospitalData.province,
+      currentLanguage.code,
+    ),
     tier: props.hospitalData.tier,
     hospitalType: props.hospitalData.short_description,
     establishedYear: props.hospitalData.established_year,
@@ -91,7 +175,7 @@ const HospitalCard = (props: HospitalCardProps) => {
     name: props.name,
     slug: props.id.toString(),
     is3A: props.isJCIAccredited,
-    isPrivate: false,
+    ownership: null as HospitalOwnership,
     annualCases: props.annualCases,
     image: props.image,
     website: props.website || '',
@@ -116,6 +200,7 @@ const HospitalCard = (props: HospitalCardProps) => {
           <HospitalCardImage
             hospitalName={data.name}
             src={props.hospitalData.hero_image_url}
+            photoLabel={t("hospital.photo")}
           />
         ) : (
           <HospitalProgressiveImage
@@ -128,24 +213,28 @@ const HospitalCard = (props: HospitalCardProps) => {
 
         
         {/* 3A Hospital Badge - Top Left */}
-        {(data.is3A || data.tier === '三甲') && (
+        {data.is3A && (
           <div className="absolute top-2 sm:top-3 left-2 sm:left-3 z-20">
             <span className="bg-gradient-to-r from-emerald-500 to-teal-600 text-white px-2 sm:px-2.5 py-0.5 sm:py-1 rounded-full text-[10px] sm:text-xs font-semibold shadow-lg">
-              Class A Tertiary
+              {t("hospital.tier.3A")}
             </span>
           </div>
         )}
         
         {/* Public/Private Badge - Top Right */}
-        <div className="absolute top-2 sm:top-3 right-2 sm:right-3 z-20">
+        {data.ownership && (
+          <div className="absolute top-2 sm:top-3 right-2 sm:right-3 z-20">
           <span className={`px-2 sm:px-2.5 py-0.5 sm:py-1 rounded-full text-[10px] sm:text-xs font-semibold shadow-lg ${
-            !data.isPrivate 
+            data.ownership === "public"
               ? 'bg-gradient-to-r from-blue-500 to-blue-600 text-white'
               : 'bg-gradient-to-r from-purple-500 to-purple-600 text-white'
           }`}>
-            {!data.isPrivate ? 'Public Hospital 🏛️' : 'Private Hospital 🏢'}
+            {data.ownership === "public"
+              ? `${t("hospital.ownership.public")} 🏛️`
+              : `${t("hospital.ownership.private")} 🏢`}
           </span>
-        </div>
+          </div>
+        )}
         
         {/* City Label - Bottom Left */}
         {data.location && (
@@ -226,12 +315,13 @@ const HospitalCard = (props: HospitalCardProps) => {
           )}
           {data.departmentCount > 0 && (
             <span className="flex items-center gap-1">
-              🏥 {data.departmentCount} depts
+              🏥 {data.departmentCount} {t("hospital.departmentCount")}
             </span>
           )}
           {data.annualCases > 0 && (
             <span className="flex items-center gap-1">
-              👥 {(data.annualCases / 10000).toFixed(1)}万 visits/yr
+              👥 {formatAnnualOutpatients(data.annualCases, currentLanguage.code)}{" "}
+              {t("hospital.annualOutpatients")}
             </span>
           )}
         </div>
@@ -245,7 +335,7 @@ const HospitalCard = (props: HospitalCardProps) => {
             }}
             className="w-full sm:w-[70%] md:w-[60%] py-2.5 sm:py-3 px-4 sm:px-6 rounded-full font-semibold text-xs sm:text-sm flex items-center justify-center gap-1.5 sm:gap-2 transition-all duration-300 bg-gradient-to-r from-[#1DA78A] to-[#0F638E] text-white hover:shadow-lg group"
           >
-            View More
+            {t("hospital.viewDetails")}
             <ChevronRight className="w-4 sm:w-5 h-4 sm:h-5 group-hover:translate-x-1 transition-transform" />
           </button>
         </div>

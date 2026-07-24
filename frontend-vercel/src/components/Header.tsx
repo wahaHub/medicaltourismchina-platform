@@ -23,7 +23,7 @@ export default function Header() {
   const location = useLocation();
   const { currentLanguage, t } = useLanguage();
   const visibleNavLinks =
-    currentLanguage.code === "ar"
+    currentLanguage.code === "ar" || currentLanguage.code === "id"
       ? navLinks.filter((link) => link.href !== "/why-china")
       : navLinks;
 

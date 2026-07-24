@@ -23,6 +23,7 @@ export const SUPPORTED_LANGUAGES: Language[] = [
   { code: 'de', name: 'Deutsch', flag: '🇩🇪', apiCode: 'de' },
   { code: 'ru', name: 'Русский', flag: '🇷🇺', apiCode: 'ru' },
   { code: 'ar', name: 'العربية', flag: '🇸🇦', apiCode: 'ar' },
+  { code: 'id', name: 'Bahasa Indonesia', flag: '🇮🇩', apiCode: 'id' },
 ];
 
 interface LanguageContextType {

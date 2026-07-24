@@ -363,6 +363,89 @@ export const doctorProfiles = {
 };
 
 export type DoctorId = keyof typeof doctorProfiles;
+
+const indonesianDoctorProfiles: Record<DoctorId, {
+  title: string;
+  description: string;
+}> = {
+  "1": {
+    title: "Dokter Kepala, Onkologi Medis",
+    description: "Berpengalaman 20 tahun di bidang onkologi medis. Keahliannya mencakup imunoterapi, terapi bertarget, dan perawatan multidisiplin (MDT). Ia telah memimpin berbagai proyek penelitian onkologi internasional dan berpengalaman menyusun rencana perawatan presisi yang dipersonalisasi untuk beragam jenis kanker.",
+  },
+  "2": {
+    title: "Dokter Kepala Madya, Bedah Kardiotoraks",
+    description: "Dr. Hua Chun Wang memiliki 27 tahun pengalaman klinis dalam bedah kardiotoraks. Ia mengkhususkan diri pada operasi bypass arteri koroner, perbaikan dan penggantian katup, serta prosedur jantung minimal invasif.",
+  },
+  "3": {
+    title: "Dokter Kepala Madya, Bedah Saraf",
+    description: "Dr. Nan Zhang memiliki 16 tahun pengalaman dalam bedah saraf. Ia mengkhususkan diri pada reseksi glioma, operasi aneurisma intrakranial, dan perawatan malformasi arteriovenosa. Dengan keahlian dalam navigasi saraf dan elektrofisiologi intraoperatif, ia telah melakukan lebih dari 1.500 operasi kranial kompleks.",
+  },
+  "4": {
+    title: "Dokter Kepala, Ortopedi dan Bedah Sendi",
+    description: "Dr. Jie Hui Zhou memiliki 18 tahun pengalaman klinis di bidang ortopedi. Ia mengkhususkan diri pada artroplasti lutut dan panggul, operasi revisi sendi, serta prosedur kedokteran olahraga. Ia telah melakukan lebih dari 3.000 penggantian sendi dan berkontribusi pada pengembangan program Enhanced Recovery After Surgery (ERAS).",
+  },
+  "5": {
+    title: "Dokter Kepala Madya, Gastroenterologi",
+    description: "Dr. Yang Liu memiliki 14 tahun pengalaman dalam gastroenterologi. Ia mengkhususkan diri pada prosedur endoskopi minimal invasif seperti ESD dan EMR, serta telah menerbitkan berbagai penelitian tentang penyakit saluran cerna. Ia juga berpengalaman menangani gangguan pencernaan kronis dalam jangka panjang.",
+  },
+  "6": {
+    title: "Dokter Kepala Madya, Endokrinologi",
+    description: "Dr. Rui Sun memiliki 13 tahun pengalaman klinis dalam endokrinologi. Ia mengkhususkan diri pada pengelolaan diabetes, gangguan tiroid, dan sindrom metabolik. Ia telah memimpin beberapa program penelitian penyakit metabolik dan berpengalaman melakukan tindak lanjut jangka panjang untuk gangguan metabolik kompleks.",
+  },
+  "7": {
+    title: "Dokter Kepala, Pediatri",
+    description: "Dr. Xiang Gao memiliki 15 tahun pengalaman klinis di bidang pediatri. Keahliannya mencakup penyakit pernapasan anak, penyakit infeksi, dan gangguan saluran cerna. Ia berpengalaman menangani kasus pediatri kompleks dan aktif dalam program intervensi dini untuk penyakit kronis pada anak.",
+  },
+  "8": {
+    title: "Dokter Kepala Madya, Urologi",
+    description: "Dr. Jie Lin memiliki 28 tahun pengalaman dalam urologi. Ia mengkhususkan diri pada perawatan minimal invasif untuk penyakit prostat, batu saluran kemih, dan tumor urologi. Ia menguasai sistem bedah laparoskopi dan robotik serta telah mengikuti berbagai kolaborasi akademik internasional.",
+  },
+  "9": {
+    title: "Dokter Kepala Madya, Bedah Kardiotoraks",
+    description: "Dr. Wei Liu memiliki lebih dari 18 tahun pengalaman dalam bedah kardiotoraks. Ia mengkhususkan diri pada operasi bypass arteri koroner (CABG), perbaikan dan penggantian katup, serta bedah jantung minimal invasif. Ia telah melakukan lebih dari 2.000 prosedur jantung besar secara mandiri dan berpengalaman menangani kasus berisiko tinggi serta kompleks.",
+  },
+  "10": {
+    title: "Dokter Kepala Madya, Bedah Ortopedi",
+    description: "Dr. Junhao Wang memiliki 25 tahun pengalaman dalam bedah ortopedi. Keahliannya mencakup penggantian sendi, perbaikan fraktur kompleks, dan rekonstruksi cedera olahraga. Ia menguasai teknik minimal invasif dan telah melakukan lebih dari 1.800 operasi ortopedi.",
+  },
+  "11": {
+    title: "Dokter Kepala Madya, Bedah Umum",
+    description: "Dr. Ming Chen memiliki lebih dari 17 tahun pengalaman dalam bedah umum. Ia mengkhususkan diri pada bedah hepatobilier, reseksi tumor saluran cerna, dan prosedur laparoskopi. Ia berpengalaman menangani operasi abdomen kompleks dan menerapkan protokol pemulihan yang dipercepat.",
+  },
+  "12": {
+    title: "Dokter Kepala Madya, Bedah Saraf",
+    description: "Dr. Haifeng Zhao memiliki 20 tahun pengalaman dalam bedah saraf. Fokus utamanya mencakup operasi tumor otak, gangguan tulang belakang, dan teknik bedah saraf minimal invasif. Ia telah menyelesaikan lebih dari 1.400 operasi bedah saraf.",
+  },
+  "13": {
+    title: "Dokter Kepala Madya, Urologi",
+    description: "Dr. Tao Sun memiliki lebih dari 24 tahun pengalaman dalam urologi. Ia mengkhususkan diri pada perawatan minimal invasif untuk tumor saluran kemih, penanganan batu ginjal, dan penyakit prostat, serta sangat berpengalaman dalam bedah laparoskopi dan endoskopi.",
+  },
+  "14": {
+    title: "Dokter Kepala Madya, Bedah Vaskular",
+    description: "Dr. Qiang Li memiliki 16 tahun pengalaman dalam bedah vaskular. Ia mengkhususkan diri pada perawatan endovaskular aneurisma aorta, penyakit arteri perifer, dan rekonstruksi vaskular kompleks, serta telah melakukan lebih dari 1.200 prosedur vaskular.",
+  },
+  "15": {
+    title: "Dokter Kepala Madya, Gastroenterologi",
+    description: "Dr. Yong Zhang memiliki 15 tahun pengalaman dalam gastroenterologi. Ia mengkhususkan diri pada penyakit sistem pencernaan, skrining dini kanker saluran cerna, dan endoskopi terapeutik, dengan keahlian kuat dalam prosedur endoskopi kompleks.",
+  },
+  "16": {
+    title: "Dokter Kepala Madya, Onkologi",
+    description: "Dr. Peng Wu memiliki lebih dari 17 tahun pengalaman dalam onkologi medis. Keahliannya mencakup kemoterapi, terapi bertarget, dan imunoterapi untuk tumor padat, serta penanganan kanker secara multidisiplin.",
+  },
+  "17": {
+    title: "Dokter Kepala Madya, Bedah Tulang Belakang",
+    description: "Dr. Jian Xu memiliki 15 tahun pengalaman dalam bedah tulang belakang. Ia mengkhususkan diri pada penyakit degeneratif tulang belakang leher dan pinggang, koreksi deformitas tulang belakang, serta teknik bedah tulang belakang minimal invasif.",
+  },
+  "18": {
+    title: "Dokter Kepala Madya, Penyakit Dalam",
+    description: "Dr. Yuting Lin memiliki lebih dari 26 tahun pengalaman dalam penyakit dalam. Ia mengkhususkan diri pada pengelolaan penyakit kronis, pengendalian risiko kardiovaskular, dan perawatan penyakit dalam yang menyeluruh dengan pendekatan yang berpusat pada pasien.",
+  },
+  "19": {
+    title: "Dokter Kepala Madya, Obstetri dan Ginekologi",
+    description: "Dr. Xiaomei Huang memiliki 16 tahun pengalaman dalam obstetri dan ginekologi. Ia mengkhususkan diri pada bedah ginekologi minimal invasif, pengelolaan kehamilan berisiko tinggi, dan kesehatan reproduksi.",
+  },
+};
+
 export type Language = 'en' | 'zh' | 'de' | 'fr' | 'es' | 'ru';
 
 function normalizeDoctorLanguage(lang: string): Language {
@@ -376,6 +459,14 @@ function normalizeDoctorLanguage(lang: string): Language {
 export function getDoctorProfile(id: DoctorId, lang: string = 'en') {
   const profile = doctorProfiles[id];
   if (!profile) return null;
+  if (lang === 'id') {
+    const localizedProfile = indonesianDoctorProfiles[id];
+    return {
+      name: profile.name,
+      title: localizedProfile.title,
+      description: localizedProfile.description,
+    };
+  }
   const safeLang = normalizeDoctorLanguage(lang);
 
   return {

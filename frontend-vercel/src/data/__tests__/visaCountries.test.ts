@@ -13,6 +13,10 @@ describe("getCountryName", () => {
     expect(arabicName).toMatch(/[\u0600-\u06ff]/);
   });
 
+  it("uses Indonesian region names for the Indonesian locale", () => {
+    expect(getCountryName("US", "id")).toBe("Amerika Serikat");
+  });
+
   it("falls back to English when the requested locale is invalid", () => {
     expect(getCountryName("US", "not_a_locale")).toBe("United States");
   });

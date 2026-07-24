@@ -1,11 +1,12 @@
 export const DEFAULT_LOCALE = "en";
-export const URL_LOCALES = ["zh", "es", "fr", "de", "ru", "ar"] as const;
+export const URL_LOCALES = ["zh", "es", "fr", "de", "ru", "ar", "id"] as const;
 export const ALL_LOCALES = [DEFAULT_LOCALE, ...URL_LOCALES] as const;
 
 export type SiteLocale = (typeof ALL_LOCALES)[number];
 
 const URL_LOCALE_SET = new Set<string>(URL_LOCALES);
-const ARABIC_LOCALIZED_PATHS = new Set([
+const LIMITED_ENTRYPOINT_LOCALES = new Set<SiteLocale>(["ar", "id"]);
+const LIMITED_LOCALIZED_PATHS = new Set([
   "/",
   "/telemedicine",
   "/search",
@@ -63,11 +64,11 @@ export function isPathLocalizedForLocale(
   pathname: string,
   locale: SiteLocale,
 ): boolean {
-  if (locale !== "ar") {
+  if (!LIMITED_ENTRYPOINT_LOCALES.has(locale)) {
     return true;
   }
 
-  return ARABIC_LOCALIZED_PATHS.has(
+  return LIMITED_LOCALIZED_PATHS.has(
     normalizeContentPath(stripLocaleFromPathname(pathname)),
   );
 }
@@ -82,7 +83,7 @@ export function buildLocaleUrl(
   );
   const localizedPath = supportsCurrentPath
     ? localizePathname(location.pathname, targetLocale)
-    : "/ar/";
+    : `/${targetLocale}/`;
 
   return `${location.origin}${localizedPath}${
     supportsCurrentPath ? `${location.search}${location.hash}` : ""

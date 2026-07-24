@@ -78,7 +78,7 @@ export default function MedicalVisa() {
                   {/* 48-hour badge for invitation letter */}
                   {service.highlight && (
                     <div className="absolute -top-3 -right-3 bg-gradient-to-r from-[#038A81] to-[#003B59] text-white text-xs font-bold px-3 py-1 rounded-full shadow-lg">
-                      48h
+                      {t("visa.medical.invitation.badge")}
                     </div>
                   )}
 

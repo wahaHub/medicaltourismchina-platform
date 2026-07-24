@@ -13,9 +13,11 @@ describe("locale routing", () => {
     expect(getLocaleFromPathname("/telemedicine")).toBe("en");
     expect(getLocaleFromPathname("/ru/telemedicine")).toBe("ru");
     expect(getLocaleFromPathname("/ar/telemedicine")).toBe("ar");
+    expect(getLocaleFromPathname("/id/telemedicine")).toBe("id");
     expect(getLocaleFromPathname("/it/telemedicine")).toBe("en");
     expect(getLocaleBasename("en")).toBeUndefined();
     expect(getLocaleBasename("fr")).toBe("/fr");
+    expect(getLocaleBasename("id")).toBe("/id");
   });
 
   it("adds and removes locale prefixes without changing the content path", () => {
@@ -52,16 +54,28 @@ describe("locale routing", () => {
     } as Location)).toBe(
       "https://www.medicaltourismchina.health/ar/search?dept=oncology#results",
     );
-  });
 
-  it("sends unsupported Arabic content paths to the Arabic homepage", () => {
-    expect(buildLocaleUrl("ar", {
+    expect(buildLocaleUrl("id", {
       origin: "https://www.medicaltourismchina.health",
-      pathname: "/procedures/heart-valve-replacement-repair",
-      search: "?ref=search",
-      hash: "",
+      pathname: "/search",
+      search: "?dept=cardiology&disease=heart-valve",
+      hash: "#results",
     } as Location)).toBe(
-      "https://www.medicaltourismchina.health/ar/",
+      "https://www.medicaltourismchina.health/id/search?dept=cardiology&disease=heart-valve#results",
     );
   });
+
+  it.each(["ar", "id"] as const)(
+    "sends unsupported %s content paths to the localized homepage",
+    (locale) => {
+      expect(buildLocaleUrl(locale, {
+        origin: "https://www.medicaltourismchina.health",
+        pathname: "/procedures/heart-valve-replacement-repair",
+        search: "?ref=search",
+        hash: "",
+      } as Location)).toBe(
+        `https://www.medicaltourismchina.health/${locale}/`,
+      );
+    },
+  );
 });

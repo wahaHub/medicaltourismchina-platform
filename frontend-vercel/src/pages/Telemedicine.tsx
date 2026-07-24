@@ -26,7 +26,7 @@ import { getStaticPageMetadata } from "@/seo/static-page";
 
 const CTA_HREF = "/medical-case-intake";
 
-type Locale = "en" | "zh" | "es" | "fr" | "de" | "ru" | "ar";
+type Locale = "en" | "zh" | "es" | "fr" | "de" | "ru" | "ar" | "id";
 type TextPair = [string, string];
 
 type Plan = {
@@ -83,6 +83,7 @@ const PRICE_DISPLAYS: Record<Locale, PriceDisplay> = {
   de: { locale: "de-DE", currency: "EUR", rateFromUsd: 0.92, roundTo: 1, prefix: "Ab " },
   ru: { locale: "ru-RU", currency: "RUB", rateFromUsd: 90, roundTo: 100, prefix: "От " },
   ar: { locale: "ar", currency: "USD", rateFromUsd: 1, roundTo: 1, prefix: "ابتداءً من " },
+  id: { locale: "id-ID", currency: "USD", rateFromUsd: 1, roundTo: 1, prefix: "Mulai " },
 };
 
 type ModalVisualVariant = Plan["variant"];
@@ -207,7 +208,7 @@ type PageCopy = {
   };
 };
 
-const TELEMEDICINE_COPY: Record<Exclude<Locale, "ar">, PageCopy>
+const TELEMEDICINE_COPY: Record<Exclude<Locale, "ar" | "id">, PageCopy>
   & Partial<Record<Locale, PageCopy>> = {
   en: {
     metaTitle: "Online Consultation with Top Chinese Specialists | Medora Health",
@@ -1649,9 +1650,232 @@ TELEMEDICINE_COPY.ar = {
   },
 };
 
+const INDONESIAN_EXPERT_COPY = [
+  {
+    title: "Konsultan Senior",
+    specialty: "Onkologi Medis",
+    hospital: "Jaringan rumah sakit tersier Shanghai",
+    credentials: ["Pengalaman klinis 23+ tahun", "Tinjauan kasus kanker kompleks", "Spesialis rumah sakit tersier"],
+    tags: ["Tinjauan tertulis", "Konsultasi video", "Dukungan bahasa Inggris"],
+    bio: "Berfokus pada kanker paru, saluran cerna, dan kasus kompleks dengan pembahasan alur perawatan yang praktis.",
+    imageAlt: "Spesialis onkologi Tiongkok meninjau rekam medis",
+  },
+  {
+    title: "Dokter Kepala",
+    specialty: "Kardiologi",
+    hospital: "Pusat spesialis Beijing",
+    credentials: ["Pengalaman klinis 35+ tahun", "Spesialis yang diakui secara nasional", "Spesialis rumah sakit tersier"],
+    tags: ["Tinjauan tertulis", "Konsultasi video", "Dukungan bahasa Inggris"],
+    bio: "Berpengalaman dalam penyakit koroner, gagal jantung, diagnosis kardiovaskular kompleks, dan perencanaan jangka panjang.",
+    imageAlt: "Dokter kardiologi Tiongkok di ruang konsultasi modern",
+  },
+  {
+    title: "Konsultan Senior",
+    specialty: "Bedah Saraf",
+    hospital: "Jaringan rumah sakit akademik Chengdu",
+    credentials: ["Pengalaman klinis 28+ tahun", "Tinjauan operasi kompleks", "Spesialis rumah sakit tersier"],
+    tags: ["Tinjauan tertulis", "Konsultasi video", "Dukungan bahasa Inggris"],
+    bio: "Mendukung opini kedua untuk tumor otak, kondisi tulang belakang, dan keputusan bedah saraf fungsional.",
+    imageAlt: "Spesialis bedah saraf Tiongkok di rumah sakit",
+  },
+];
+
+const INDONESIAN_PLAN_COPY = [
+  {
+    badge: "Esensial",
+    title: "Tinjauan Tertulis",
+    chips: ["Laporan tertulis", "Tinjauan rekam medis", "48–72 jam"],
+    cta: "Pesan",
+    detailsCta: "Lihat detail",
+    modal: {
+      title: "Tinjauan Tertulis oleh Spesialis",
+      body: "Spesialis terpilih meninjau rekam medis Anda dan memberikan opini kedua tertulis untuk membantu memahami diagnosis, rencana perawatan, dan langkah berikutnya.",
+      bestForLabel: "Cocok untuk",
+      bestFor: "Pasien yang sudah memiliki laporan medis dan menginginkan pandangan ahli lain sebelum mengambil keputusan.",
+      receiveLabel: "Yang Anda terima",
+      receive: ["Ringkasan diagnosis dan kasus", "Temuan penting dari rekam medis", "Catatan spesialis", "Pertimbangan perawatan", "Pertanyaan untuk dokter lokal", "Rekomendasi langkah berikutnya"],
+      processLabel: "Proses umum",
+      process: ["Unggah rekam medis", "Medora menyusun ringkasan kasus", "Spesialis meninjau kasus", "Anda menerima laporan opini kedua"],
+      turnaroundLabel: "Waktu penyelesaian",
+      turnaround: "Biasanya 48–72 jam setelah rekam medis lengkap diterima.",
+      cta: "Mulai tinjauan tertulis",
+      imageAlt: "Spesialis Tiongkok meninjau laporan dan pencitraan medis",
+    },
+  },
+  {
+    badge: "Paling Populer",
+    title: "Konsultasi Video",
+    chips: ["Panggilan video", "Ringkasan tertulis", "Tanya jawab dokter"],
+    cta: "Pesan",
+    detailsCta: "Lihat detail",
+    modal: {
+      title: "Konsultasi Video + Ringkasan Tertulis",
+      body: "Bicaralah dengan spesialis melalui video dengan dukungan koordinator medis Medora, lalu terima ringkasan tertulis setelah konsultasi.",
+      bestForLabel: "Cocok untuk",
+      bestFor: "Pasien yang ingin bertanya langsung, memahami pilihan perawatan, dan menjelaskan arti hasil medis.",
+      receiveLabel: "Yang Anda terima",
+      receive: ["Tinjauan rekam medis sebelum panggilan", "Konsultasi video 20–30 menit", "Pertanyaan disiapkan lebih dahulu", "Komentar utama dokter", "Ringkasan konsultasi tertulis", "Pertanyaan lanjutan dan langkah berikutnya"],
+      processLabel: "Proses umum",
+      process: ["Unggah rekam medis", "Medora menyiapkan ringkasan kasus", "Jadwal konsultasi ditentukan", "Bicara dengan spesialis melalui video", "Terima ringkasan tindak lanjut"],
+      turnaroundLabel: "Waktu penyelesaian",
+      turnaround: "Biasanya dijadwalkan dalam 3–5 hari kerja setelah rekam medis lengkap diterima.",
+      cta: "Pesan konsultasi video",
+      imageAlt: "Pasien internasional berbicara dengan dokter Tiongkok melalui video",
+    },
+  },
+  {
+    badge: "Tinjauan Lanjutan",
+    title: "Tinjauan Multidisiplin",
+    chips: ["Beberapa spesialis", "Kasus kompleks", "Ringkasan lanjutan"],
+    cta: "Ajukan",
+    detailsCta: "Lihat detail",
+    modal: {
+      title: "Tinjauan Kasus Multidisiplin",
+      body: "Untuk kasus medis kompleks, Medora mengoordinasikan tinjauan lebih mendalam dengan beberapa spesialis bila diperlukan.",
+      bestForLabel: "Cocok untuk",
+      bestFor: "Kasus kanker kompleks, operasi besar, kondisi neurologis, keputusan jantung, atau rekomendasi perawatan yang berbeda.",
+      receiveLabel: "Yang Anda terima",
+      receive: ["Penilaian menyeluruh", "Tinjauan rekam medis, pencitraan, dan patologi", "Pembahasan lintas spesialisasi", "Ringkasan opini kedua lanjutan", "Pertimbangan alur perawatan", "Rekomendasi langkah berikutnya"],
+      processLabel: "Proses umum",
+      process: ["Kirim rekam medis lengkap", "Kasus disusun secara terstruktur", "Spesialis terkait meninjau", "Ringkasan multidisiplin disiapkan", "Langkah berikutnya dibahas bersama Anda"],
+      turnaroundLabel: "Waktu penyelesaian",
+      turnaround: "Biasanya 5–7 hari kerja setelah rekam medis lengkap diterima.",
+      cta: "Ajukan tinjauan lanjutan",
+      imageAlt: "Tim dokter multidisiplin meninjau kasus medis",
+    },
+  },
+];
+
+TELEMEDICINE_COPY.id = {
+  ...TELEMEDICINE_COPY.en,
+  metaTitle: "Konsultasi Online dengan Spesialis Terkemuka di Tiongkok | Medora Health",
+  hero: {
+    label: "Konsultasi Online dengan Spesialis Terkemuka di Tiongkok",
+    title: "Masih ragu tentang diagnosis atau rencana perawatan Anda?",
+    subtitle: "Dapatkan tinjauan tertulis, konsultasi video, atau opini kedua multidisiplin dari spesialis di Tiongkok.",
+    support: "Unggah rekam medis dan dapatkan panduan ahli sebelum mengambil keputusan medis berikutnya.",
+    primaryCta: "Pesan Konsultasi Online",
+    imageAlt: "Spesialis Tiongkok meninjau rekam medis untuk opini kedua online",
+  },
+  trust: [
+    ["Dokter Terkemuka di Tiongkok", "Spesialis dipilih sesuai kondisi Anda."],
+    ["Rekam Medis Lebih Dulu", "Laporan, pencitraan, patologi, tes, dan riwayat menjadi dasar."],
+    ["Koordinasi Multibahasa", "Kami menyusun, menerjemahkan, dan merangkum kasus Anda."],
+    ["Perjalanan Opsional", "Mulai online dan bepergian hanya jika sesuai dengan kasus Anda."],
+  ],
+  expertShowcase: {
+    ...TELEMEDICINE_COPY.en.expertShowcase,
+    label: "Pencocokan spesialis",
+    title: "Spesialis terkemuka pilihan di Tiongkok",
+    body: "Medora mencocokkan kasus Anda dengan spesialis yang dapat memberikan tinjauan tertulis, konsultasi video, dan pembahasan arah perawatan.",
+    tabs: ["Onkologi", "Kardiologi", "Neurologi", "Ortopedi", "Kedokteran reproduksi"],
+    moreTabs: ["Bedah estetika", "Terapi sel punca", "Kedokteran gigi", "Pediatri", "Urologi", "Endokrinologi", "Oftalmologi"],
+    moreLabel: "Lainnya",
+    collapseLabel: "Tampilkan lebih sedikit",
+    expertCta: "Lihat spesialis",
+    matchPrompt: "Ceritakan kondisi Anda dan kami akan menyarankan spesialis yang lebih sesuai.",
+    matchCta: "Dapatkan saran pencocokan spesialis",
+    customTitle: "Memerlukan spesialis lain?",
+    customBody: "Bagikan diagnosis, rekam medis, spesialisasi yang diinginkan, dan tujuan konsultasi. Medora akan menyarankan dokter atau tim yang sesuai.",
+    customCta: "Ceritakan kebutuhan Anda",
+    featuredLabel: "Pilihan unggulan",
+    experts: TELEMEDICINE_COPY.en.expertShowcase.experts.map((expert, index) => ({
+      ...expert,
+      ...(INDONESIAN_EXPERT_COPY[index] ?? {}),
+    })),
+  },
+  review: {
+    label: "Pilihan tinjauan",
+    title: "Pilih jenis opini medis kedua",
+    body: "Mulai dari jarak jauh dengan tinjauan tertulis, konsultasi video, atau tinjauan multidisiplin sebelum mengambil keputusan berikutnya.",
+    plans: TELEMEDICINE_COPY.en.review.plans.map((plan, index) => ({
+      ...plan,
+      ...(INDONESIAN_PLAN_COPY[index] ?? {}),
+      modal: {
+        ...plan.modal,
+        ...(INDONESIAN_PLAN_COPY[index]?.modal ?? {}),
+      },
+    })),
+  },
+  comparison: {
+    label: "Perbandingan langsung",
+    title: "Bandingkan pilihan tinjauan",
+    cta: "Bandingkan pilihan",
+    headers: ["Fitur", "Tinjauan tertulis", "Konsultasi video", "Tinjauan multidisiplin"],
+    a11yDescription: "Tabel perbandingan pilihan konsultasi medis online.",
+    rows: [
+      ["Penerimaan rekam medis", "Ya", "Ya", "Ya"],
+      ["Penyusunan ringkasan kasus", "Ya", "Ya", "Ya"],
+      ["Opini tertulis spesialis", "Ya", "Ya", "Ya"],
+      ["Pembahasan melalui video", "Tidak", "Ya", "Opsional atau termasuk"],
+      ["Dukungan koordinator medis", "Ya", "Ya", "Ya"],
+      ["Tinjauan berfokus onkologi", "Terbatas", "Tersedia", "Menyeluruh"],
+      ["Beberapa spesialis", "Tidak", "Terkadang", "Ya"],
+      ["Pembahasan alur perawatan", "Dasar", "Terperinci", "Lanjutan"],
+      ["Pencocokan rumah sakit Tiongkok", "Opsional", "Opsional", "Tersedia bila sesuai"],
+      ["Paling sesuai untuk", "Opini kedua umum", "Pasien dengan pertanyaan", "Kasus kompleks"],
+      ["Waktu umum", "48–72 jam", "3–5 hari kerja", "5–7 hari kerja"],
+    ],
+  },
+  process: {
+    label: "Proses",
+    title: "Cara mendapatkan opini medis kedua",
+    stepLabel: "Langkah",
+    steps: [
+      ["Kirim rekam medis", "Unggah laporan diagnosis, pencitraan, patologi, tes, rencana perawatan, dan riwayat obat."],
+      ["Penerimaan kasus & ringkasan medis", "Tim Medora menyusun dokumen, menerjemahkan informasi penting bila perlu, dan menyiapkan ringkasan terstruktur."],
+      ["Tinjauan atau konsultasi spesialis", "Sesuai pilihan, kasus ditinjau secara tertulis, melalui video, atau oleh tim multidisiplin."],
+      ["Terima opini medis kedua", "Anda menerima ringkasan tertulis berisi temuan utama, pertimbangan perawatan, dan langkah berikutnya."],
+      ["Jelajahi perawatan di Tiongkok bila sesuai", "Kami dapat membantu memilih rumah sakit, memperkirakan biaya, mengatur janji, dan mendukung perjalanan."],
+    ],
+  },
+  specialists: {
+    label: "Jaringan spesialis",
+    title: "Ditinjau oleh spesialis pilihan di Tiongkok",
+    body: "Medora mengoordinasikan tinjauan berdasarkan kondisi, rekam medis, dan jenis konsultasi Anda.",
+    items: [
+      ["Onkologi", "Diagnosis kanker, urutan perawatan, kemoterapi, imunoterapi, terapi target, dan pertimbangan operasi."],
+      ["Bedah", "Keputusan operasi besar, opini kedua praoperasi, risiko, dan pemulihan."],
+      ["Ortopedi", "Sendi, tulang belakang, trauma, cedera olahraga, dan rehabilitasi."],
+      ["Kardiologi", "Penyakit jantung, intervensi, operasi, dan rencana pengelolaan jangka panjang."],
+      ["Neurologi / Bedah Saraf", "Kondisi otak, tulang belakang, saraf, dan keputusan perawatan kompleks."],
+      ["Bedah Estetika / Rekonstruktif", "Perencanaan prosedur, penilaian kelayakan, dan pembahasan hasil yang diharapkan."],
+    ],
+  },
+  notice: {
+    label: "Pemberitahuan medis",
+    title: "Pemberitahuan medis penting",
+    body: "Opini kedua Medora didasarkan pada rekam medis yang Anda berikan. Layanan ini bukan layanan darurat dan tidak menggantikan dokter lokal Anda. Keputusan perawatan harus dibuat bersama tenaga kesehatan berlisensi.",
+    items: [
+      ["Bukan layanan darurat", "Untuk gejala mendesak atau keadaan darurat, segera hubungi layanan darurat setempat."],
+      ["Berdasarkan rekam medis", "Kualitas tinjauan bergantung pada kelengkapan dan mutu dokumen yang diberikan."],
+      ["Diskusikan dengan dokter lokal", "Gunakan opini kedua sebagai pandangan tambahan untuk dibahas dengan dokter Anda."],
+    ],
+  },
+  faq: {
+    label: "Pertanyaan umum",
+    title: "Pertanyaan yang sering diajukan",
+    items: [
+      ["Apakah ini diagnosis online?", "Tidak. Ini adalah tinjauan rekam medis dan opini kedua berdasarkan informasi yang Anda berikan."],
+      ["Pilihan mana yang sebaiknya saya ambil?", "Pilih tinjauan tertulis untuk laporan, video untuk berbicara langsung, atau tinjauan multidisiplin untuk kasus kompleks."],
+      ["Bisakah saya memulai dari tinjauan tertulis lalu meningkatkan layanan?", "Ya. Banyak pasien memulai dengan tinjauan tertulis lalu meminta konsultasi video atau tinjauan tambahan."],
+      ["Rekam medis apa yang diperlukan?", "Laporan diagnosis, pencitraan, patologi, tes, ringkasan pulang, riwayat perawatan, daftar obat, dan rencana saat ini."],
+      ["Berapa lama prosesnya?", "Tinjauan tertulis biasanya 48–72 jam, video 3–5 hari kerja, dan kasus kompleks 5–7 hari kerja."],
+      ["Apakah saya harus pergi ke Tiongkok?", "Tidak. Opini kedua dimulai secara jarak jauh. Medora dapat membantu mengeksplorasi perawatan di Tiongkok bila sesuai."],
+    ],
+  },
+  finalCta: {
+    label: "Mulai dari jarak jauh",
+    title: "Dapatkan perspektif ahli sebelum keputusan medis berikutnya",
+    body: "Pilih tinjauan tertulis, konsultasi video, atau tinjauan kasus multidisiplin.",
+    cta: "Pesan Konsultasi Online",
+    note: "Mulai dari jarak jauh tanpa kewajiban bepergian.",
+  },
+};
+
 function getTelemedicineCopy(languageCode: string): PageCopy {
   if (languageCode === "zh" || languageCode === "zh-CN") return TELEMEDICINE_COPY.zh;
-  if (languageCode === "es" || languageCode === "fr" || languageCode === "de" || languageCode === "ru" || languageCode === "ar") {
+  if (languageCode === "es" || languageCode === "fr" || languageCode === "de" || languageCode === "ru" || languageCode === "ar" || languageCode === "id") {
     return TELEMEDICINE_COPY[languageCode] ?? TELEMEDICINE_COPY.en;
   }
   return TELEMEDICINE_COPY.en;
@@ -1659,7 +1883,7 @@ function getTelemedicineCopy(languageCode: string): PageCopy {
 
 function getTelemedicineLocale(languageCode: string): Locale {
   if (languageCode === "zh" || languageCode === "zh-CN") return "zh";
-  if (languageCode === "es" || languageCode === "fr" || languageCode === "de" || languageCode === "ru" || languageCode === "ar") return languageCode;
+  if (languageCode === "es" || languageCode === "fr" || languageCode === "de" || languageCode === "ru" || languageCode === "ar" || languageCode === "id") return languageCode;
   return "en";
 }
 

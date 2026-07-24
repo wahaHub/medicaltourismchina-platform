@@ -82,6 +82,7 @@ describe("SEO public entrypoints", () => {
     expect(middleware).toContain('"/hospitals/:path*"');
     expect(middleware).toContain('"/:locale(zh|es|fr|de|ru)/hospitals/:path*"');
     expect(middleware).toContain('"/ar/:path*"');
+    expect(middleware).toContain('"/id/:path*"');
     expect(middleware).toContain("/slug-resolution");
 
     const vercelConfig = JSON.parse(fs.readFileSync(vercelConfigPath, "utf8"));

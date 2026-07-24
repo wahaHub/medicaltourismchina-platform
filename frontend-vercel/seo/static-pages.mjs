@@ -1,4 +1,4 @@
-export const SEO_LOCALES = ["en", "zh", "es", "fr", "de", "ru", "ar"];
+export const SEO_LOCALES = ["en", "zh", "es", "fr", "de", "ru", "ar", "id"];
 
 export const STATIC_PAGE_METADATA = {
   home: {
@@ -39,6 +39,11 @@ export const STATIC_PAGE_METADATA = {
         title: "Medora Health | السياحة العلاجية والاستشارات الطبية في الصين",
         description: "استشارات أطباء متخصصين وتخطيط العلاج وتنسيق المستشفيات والترجمة ودعم التأشيرة والمتابعة الطبية في الصين.",
         heading: "رعاية طبية منسقة في الصين للمرضى الدوليين",
+      },
+      id: {
+        title: "Medora Health | Wisata Medis dan Telemedisin di Tiongkok",
+        description: "Konsultasi spesialis, perencanaan perawatan, koordinasi rumah sakit, penerjemahan, dukungan visa, dan tindak lanjut medis di Tiongkok.",
+        heading: "Layanan medis di Tiongkok yang terkoordinasi untuk pasien internasional",
       },
     },
   },
@@ -81,6 +86,11 @@ export const STATIC_PAGE_METADATA = {
         description: "اطلب استشارة فيديو أو مراجعة مكتوبة ورأياً طبياً ثانياً قبل السفر إلى الصين للعلاج.",
         heading: "الاستشارة الطبية عن بُعد والرأي الطبي الثاني من الصين",
       },
+      id: {
+        title: "Konsultasi Telemedisin di Tiongkok | Medora Health",
+        description: "Ajukan konsultasi video atau tinjauan tertulis dari spesialis sebelum bepergian ke Tiongkok untuk perawatan medis.",
+        heading: "Telemedisin dan opini medis kedua dari Tiongkok",
+      },
     },
   },
   packages: {
@@ -121,6 +131,11 @@ export const STATIC_PAGE_METADATA = {
         title: "مراحل رحلة العلاج في الصين | Medora Health",
         description: "تعرّف على خطوات مراجعة الملف الطبي واختيار المستشفى والسفر والعلاج والخروج والمتابعة.",
         heading: "رحلتك للحصول على الرعاية الطبية في الصين",
+      },
+      id: {
+        title: "Tahapan Perjalanan Perawatan di Tiongkok | Medora Health",
+        description: "Pahami tahapan peninjauan rekam medis, pemilihan rumah sakit, perjalanan, perawatan, kepulangan, dan tindak lanjut.",
+        heading: "Perjalanan Anda mendapatkan perawatan medis di Tiongkok",
       },
     },
   },
@@ -163,6 +178,11 @@ export const STATIC_PAGE_METADATA = {
         description: "استكشف خيارات العلاج وخدمات الأطباء المتخصصين والتكاليف التقديرية ومسارات الرعاية الطبية المتاحة في الصين.",
         heading: "العلاجات الطبية المتاحة في الصين",
       },
+      id: {
+        title: "Perawatan Medis di Tiongkok | Medora Health",
+        description: "Jelajahi pilihan perawatan, layanan spesialis, perkiraan biaya, dan alur layanan medis yang tersedia di Tiongkok.",
+        heading: "Pilihan perawatan medis di Tiongkok",
+      },
     },
   },
   hospitals: {
@@ -170,7 +190,7 @@ export const STATIC_PAGE_METADATA = {
     // Hospital records currently have complete, language-specific bodies only in
     // English and Chinese. Keep the other locale paths available, but do not
     // advertise or index them until the source content is translated.
-    indexableLocales: ["en", "zh", "ar"],
+    indexableLocales: ["en", "zh", "ar", "id"],
     locales: {
       en: {
         title: "Hospitals in China for International Patients | Medora Health",
@@ -206,6 +226,11 @@ export const STATIC_PAGE_METADATA = {
         title: "مستشفيات الصين للمرضى الدوليين | Medora Health",
         description: "قارن بين المستشفيات الصينية ومواقعها وتخصصاتها وخدمات المرضى الدوليين وخيارات العلاج المتاحة.",
         heading: "مستشفيات في الصين للمرضى الدوليين",
+      },
+      id: {
+        title: "Rumah Sakit di Tiongkok untuk Pasien Internasional | Medora Health",
+        description: "Bandingkan rumah sakit di Tiongkok, lokasi, spesialisasi, layanan pasien internasional, dan pilihan perawatan yang tersedia.",
+        heading: "Rumah sakit di Tiongkok untuk pasien internasional",
       },
     },
   },
@@ -248,11 +273,16 @@ export const STATIC_PAGE_METADATA = {
         description: "ابحث عن معلومات العلاجات والمستشفيات المتاحة عبر Medora Health.",
         heading: "البحث عن العلاجات والمستشفيات",
       },
+      id: {
+        title: "Cari Perawatan dan Rumah Sakit | Medora Health",
+        description: "Cari informasi perawatan dan rumah sakit melalui Medora Health.",
+        heading: "Cari perawatan dan rumah sakit",
+      },
     },
   },
   visa: {
     path: "/visa",
-    indexableLocales: ["en", "ar"],
+    indexableLocales: ["en", "ar", "id"],
     locales: {
       en: {
         title: "China Visa and Medical Travel Support | Medora Health",
@@ -263,6 +293,11 @@ export const STATIC_PAGE_METADATA = {
         title: "تأشيرة الصين ودعم السفر للعلاج | Medora Health",
         description: "استعد لرحلتك العلاجية إلى الصين مع إرشادات التأشيرة والمستندات الداعمة والمواعيد والترجمة وترتيبات الوصول.",
         heading: "تأشيرة الصين ودعم السفر للعلاج",
+      },
+      id: {
+        title: "Visa Tiongkok dan Dukungan Perjalanan Medis | Medora Health",
+        description: "Persiapkan perjalanan medis ke Tiongkok dengan panduan visa, dokumen pendukung, janji temu, penerjemahan, dan rencana kedatangan.",
+        heading: "Visa Tiongkok dan dukungan perjalanan medis",
       },
     },
   },

@@ -5,6 +5,7 @@ import { fr } from './fr';
 import { de } from './de';
 import { ru } from './ru';
 import { ar } from './ar';
+import { id } from './id';
 
 export const translations = {
   en,
@@ -15,6 +16,7 @@ export const translations = {
   de,
   ru,
   ar,
+  id,
 };
 
 export type SupportedLocale = keyof typeof translations;

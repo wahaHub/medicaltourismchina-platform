@@ -27,7 +27,9 @@ import { getStaticPageMetadata } from '@/seo/static-page';
 const Search = () => {
   const { currentLanguage, getApiLocale, t } = useLanguage();
   const contentApiLocale =
-    currentLanguage.code === "ar" ? "en" : getContentApiLocale(getApiLocale());
+    currentLanguage.code === "ar" || currentLanguage.code === "id"
+      ? "en"
+      : getContentApiLocale(getApiLocale());
   const [searchParams, setSearchParams] = useSearchParams();
   const [departments, setDepartments] = useState<Department[]>([]);
   const [selectedDepartment, setSelectedDepartment] = useState<string>('');

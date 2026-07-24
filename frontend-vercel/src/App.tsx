@@ -134,12 +134,12 @@ function NoIndexRoute({ children, title }: { children: ReactNode; title: string 
 
 function LocaleRouteBoundary({ children }: { children: ReactNode }) {
   const location = useLocation();
-  const isUnsupportedArabicPath =
-    activeLocale === "ar"
-    && !isPathLocalizedForLocale(location.pathname, "ar");
+  const isUnsupportedLimitedLocalePath =
+    (activeLocale === "ar" || activeLocale === "id")
+    && !isPathLocalizedForLocale(location.pathname, activeLocale);
 
   useEffect(() => {
-    if (!isUnsupportedArabicPath) {
+    if (!isUnsupportedLimitedLocalePath) {
       return;
     }
 
@@ -147,13 +147,13 @@ function LocaleRouteBoundary({ children }: { children: ReactNode }) {
       `${window.location.origin}${location.pathname}${location.search}${location.hash}`,
     );
   }, [
-    isUnsupportedArabicPath,
+    isUnsupportedLimitedLocalePath,
     location.hash,
     location.pathname,
     location.search,
   ]);
 
-  return isUnsupportedArabicPath ? <RouteFallback /> : children;
+  return isUnsupportedLimitedLocalePath ? <RouteFallback /> : children;
 }
 
 const activeLocale =

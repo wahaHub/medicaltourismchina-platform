@@ -3,14 +3,15 @@ const CONTENT_API_BASE_URL =
   process.env.VITE_CONTENT_API_BASE_URL
   || process.env.VITE_API_BASE_URL
   || DEFAULT_CONTENT_API_BASE_URL;
-const ARABIC_PUBLIC_PATHS = new Set([
-  "/ar",
-  "/ar/telemedicine",
-  "/ar/search",
-  "/ar/treatment",
-  "/ar/packages",
-  "/ar/hospitals",
-  "/ar/visa",
+const LIMITED_PUBLIC_LOCALES = new Set(["ar", "id"]);
+const LIMITED_PUBLIC_PATHS = new Set([
+  "/",
+  "/telemedicine",
+  "/search",
+  "/treatment",
+  "/packages",
+  "/hospitals",
+  "/visa",
 ]);
 
 type SlugResolution =
@@ -22,6 +23,8 @@ export const config = {
   matcher: [
     "/ar",
     "/ar/:path*",
+    "/id",
+    "/id/:path*",
     "/hospitals/:path*",
     "/:locale(zh|es|fr|de|ru)/hospitals/:path*",
   ],
@@ -32,17 +35,22 @@ function normalizePathname(pathname: string): string {
   return pathname.replace(/\/+$/, "");
 }
 
-function redirectUnsupportedArabicPath(url: URL): Response | undefined {
-  if (!url.pathname.startsWith("/ar/") && url.pathname !== "/ar") {
+function redirectUnsupportedLimitedLocalePath(url: URL): Response | undefined {
+  const localeMatch = url.pathname.match(/^\/(ar|id)(?=\/|$)/);
+  const locale = localeMatch?.[1];
+  if (!locale || !LIMITED_PUBLIC_LOCALES.has(locale)) {
     return undefined;
   }
 
-  if (ARABIC_PUBLIC_PATHS.has(normalizePathname(url.pathname))) {
+  const contentPath = normalizePathname(
+    url.pathname.replace(new RegExp(`^/${locale}(?=/|$)`), "") || "/",
+  );
+  if (LIMITED_PUBLIC_PATHS.has(contentPath)) {
     return undefined;
   }
 
   const target = new URL(url.toString());
-  target.pathname = url.pathname.replace(/^\/ar(?=\/|$)/, "") || "/";
+  target.pathname = url.pathname.replace(new RegExp(`^/${locale}(?=/|$)`), "") || "/";
   return Response.redirect(target, 308);
 }
 
@@ -78,8 +86,8 @@ function buildTargetUrl(
 
 export default async function middleware(request: Request): Promise<Response | undefined> {
   const url = new URL(request.url);
-  const unsupportedArabicRedirect = redirectUnsupportedArabicPath(url);
-  if (unsupportedArabicRedirect) return unsupportedArabicRedirect;
+  const unsupportedLimitedLocaleRedirect = redirectUnsupportedLimitedLocalePath(url);
+  if (unsupportedLimitedLocaleRedirect) return unsupportedLimitedLocaleRedirect;
 
   const parsed = parseHospitalPath(url.pathname);
   if (!parsed) return undefined;
