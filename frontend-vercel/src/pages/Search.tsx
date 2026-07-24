@@ -19,6 +19,7 @@ import { useLanguage } from '@/contexts/LanguageContext';
 import { useRef } from 'react';
 import { getLowResImageUrl, getProgressiveBaseFromUrl } from '@/utils/imageUrl';
 import { getContentApiLocale } from '@/utils/content-locale';
+import { getProcedurePath } from '@/utils/procedure-path';
 import ProgressiveImage from '@/components/ProgressiveImage';
 
 const Search = () => {
@@ -426,9 +427,7 @@ const Search = () => {
                                       <div
                                         className="w-full lg:w-[160px] h-[200px] lg:h-[100px] rounded-md overflow-hidden bg-gray-100 cursor-pointer"
                                         onClick={() => {
-                                          const slugParts = procedure.slug.split('-');
-                                          const procedureId = slugParts[slugParts.length - 1];
-                                          navigate(`/procedures/${procedureId}`);
+                                          navigate(getProcedurePath(procedure.slug));
                                         }}
                                       >
                                         {getProgressiveBaseFromUrl((procedure as any).image_url) ? (
@@ -452,9 +451,7 @@ const Search = () => {
                                         <h3
                                           className="text-xl font-semibold text-gray-900 mb-2 cursor-pointer transition-colors duration-200 hover:text-[rgb(149,196,182)]"
                                           onClick={() => {
-                                            const slugParts = procedure.slug.split('-');
-                                            const procedureId = slugParts[slugParts.length - 1];
-                                            navigate(`/procedures/${procedureId}`);
+                                            navigate(getProcedurePath(procedure.slug));
                                           }}
                                         >
                                           {procedure.name}
@@ -462,9 +459,7 @@ const Search = () => {
                                         <p
                                           className="text-xs text-gray-600 line-clamp-2 cursor-pointer transition-colors duration-200 hover:text-[rgb(149,196,182)]"
                                           onClick={() => {
-                                            const slugParts = procedure.slug.split('-');
-                                            const procedureId = slugParts[slugParts.length - 1];
-                                            navigate(`/procedures/${procedureId}`);
+                                            navigate(getProcedurePath(procedure.slug));
                                           }}
                                         >
                                           {(procedure as any).summary || (procedure as any).description || 'Professional medical procedure with experienced specialists'}
@@ -474,9 +469,7 @@ const Search = () => {
                                       <div
                                         className="flex items-center justify-center gap-2 text-gray-700 cursor-pointer"
                                         onClick={() => {
-                                          const slugParts = procedure.slug.split('-');
-                                          const procedureId = slugParts[slugParts.length - 1];
-                                          navigate(`/procedures/${procedureId}`);
+                                          navigate(getProcedurePath(procedure.slug));
                                         }}
                                       >
                                         <span className="text-sm text-emerald-600 font-medium transition-colors duration-200 hover:text-[rgb(149,196,182)]">
@@ -487,9 +480,7 @@ const Search = () => {
                                       <div
                                         className="text-center cursor-pointer"
                                         onClick={() => {
-                                          const slugParts = procedure.slug.split('-');
-                                          const procedureId = slugParts[slugParts.length - 1];
-                                          navigate(`/procedures/${procedureId}`);
+                                          navigate(getProcedurePath(procedure.slug));
                                         }}
                                       >
                                         <span className="text-base font-bold text-gray-900 transition-colors duration-200 hover:text-[rgb(149,196,182)]">
@@ -514,9 +505,7 @@ const Search = () => {
                                         </button>
                                         <button
                                           onClick={() => {
-                                            const slugParts = procedure.slug.split('-');
-                                            const procedureId = slugParts[slugParts.length - 1];
-                                            navigate(`/procedures/${procedureId}`);
+                                            navigate(getProcedurePath(procedure.slug));
                                           }}
                                           className="px-4 py-2 bg-[#394150] text-white text-sm font-medium rounded-md hover:bg-[#2d3340] transition-colors w-[60%]"
                                         >

@@ -253,10 +253,9 @@ export const getFeaturedTreatmentBySlug = async (event) => {
       })
     }
     
-    // Choose response mode: JSON hint (for SPA) or HTTP redirect (for direct navigation)
-    // Prefer short-id redirect: extract trailing 8-hex from procedure.slug if present
-    const m = (procedure.slug || '').match(/([0-9a-fA-F]{8})$/)
-    const procedureUrl = m ? `/procedures/${m[1]}` : `/procedures/${procedure.slug}`
+    // Choose response mode: JSON hint (for SPA) or HTTP redirect (for direct navigation).
+    // Procedure slugs are canonical public URLs, so do not reduce them to legacy short IDs.
+    const procedureUrl = `/procedures/${procedure.slug}`
     const preferJson = q?.no302 === '1' || q?.client === 'spa' || q?.redirect === 'client'
 
     if (preferJson) {

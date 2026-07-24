@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { ProcedureCard } from '@/services/api';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { getLowResImageUrl, getProgressiveBaseFromUrl } from '@/utils/imageUrl';
+import { getProcedurePath } from '@/utils/procedure-path';
 import ProgressiveImage from '@/components/ProgressiveImage';
 import { LOW_MEDIA_BASE_URL } from "@/config/media";
 
@@ -93,10 +94,7 @@ export default function ProcedureListModal({
                         e.preventDefault();
                         e.stopPropagation();
                         console.log('[ProcedureListModal] Image clicked:', procedure.slug);
-                        const slugParts = procedure.slug.split('-');
-                        const procedureId = slugParts[slugParts.length - 1];
-                        console.log('[ProcedureListModal] Extracted procedure ID:', procedureId);
-                        const targetUrl = `/procedures/${procedureId}`;
+                        const targetUrl = getProcedurePath(procedure.slug);
                         console.log('[ProcedureListModal] Navigating to:', targetUrl);
                         // Directly navigate, modal will naturally close when page changes
                         navigate(targetUrl);
@@ -126,10 +124,7 @@ export default function ProcedureListModal({
                       e.preventDefault();
                       e.stopPropagation();
                       console.log('[ProcedureListModal] Title clicked:', procedure.slug);
-                      const slugParts = procedure.slug.split('-');
-                      const procedureId = slugParts[slugParts.length - 1];
-                      console.log('[ProcedureListModal] Extracted procedure ID:', procedureId);
-                      const targetUrl = `/procedures/${procedureId}`;
+                      const targetUrl = getProcedurePath(procedure.slug);
                       console.log('[ProcedureListModal] Navigating to:', targetUrl);
                       navigate(targetUrl);
                     }}
@@ -176,10 +171,7 @@ export default function ProcedureListModal({
                         e.preventDefault();
                         e.stopPropagation();
                         console.log('[ProcedureListModal] More details button clicked:', procedure.slug);
-                        const slugParts = procedure.slug.split('-');
-                        const procedureId = slugParts[slugParts.length - 1];
-                        console.log('[ProcedureListModal] Extracted procedure ID:', procedureId);
-                        const targetUrl = `/procedures/${procedureId}`;
+                        const targetUrl = getProcedurePath(procedure.slug);
                         console.log('[ProcedureListModal] Navigating to:', targetUrl);
                         navigate(targetUrl);
                       }}

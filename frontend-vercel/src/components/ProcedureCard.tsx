@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 import { Clock, DollarSign } from 'lucide-react';
 import type { ProcedureCard as ProcedureCardType } from '@/types';
+import { getProcedurePath } from '@/utils/procedure-path';
 
 interface ProcedureCardProps {
   procedure: ProcedureCardType;
@@ -59,7 +60,7 @@ const ProcedureCard = ({
         </div>
 
         <div className="space-y-2">
-          <Link to={`/procedures/${procedure.slug}`}>
+          <Link to={getProcedurePath(procedure.slug)}>
             <button 
               className="w-full bg-primaryGreen text-white py-3 rounded-lg font-medium hover:bg-primaryGreen/90 transition-colors"
             >
@@ -67,7 +68,7 @@ const ProcedureCard = ({
             </button>
           </Link>
           
-          <Link to={`/procedures/${procedure.slug}`}>
+          <Link to={getProcedurePath(procedure.slug)}>
             <button 
               className="w-full border border-gray-300 text-gray-700 py-3 rounded-lg font-medium hover:bg-gray-50 transition-colors"
             >
@@ -80,4 +81,4 @@ const ProcedureCard = ({
   );
 };
 
-export default ProcedureCard; 
+export default ProcedureCard;
