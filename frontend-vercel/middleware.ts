@@ -12,6 +12,7 @@ const LIMITED_PUBLIC_PATHS = new Set([
   "/packages",
   "/hospitals",
   "/visa",
+  "/work-with-us",
 ]);
 
 type SlugResolution =

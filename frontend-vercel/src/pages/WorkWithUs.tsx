@@ -170,7 +170,7 @@ export default function WorkWithUs() {
 
           <div className="mt-10 border-t border-slate-200 pt-8 text-center">
             <Link
-              to={tab.ctaHref}
+              to={localizePathname(tab.ctaHref, currentLanguage.code as SiteLocale)}
               className={`inline-flex items-center rounded-full bg-gradient-to-r px-6 py-3 text-sm font-semibold text-white shadow-md transition-opacity hover:opacity-90 ${theme.cta}`}
             >
               {tab.ctaLabel}
