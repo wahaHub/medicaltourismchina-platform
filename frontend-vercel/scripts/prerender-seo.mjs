@@ -516,29 +516,51 @@ async function makeRemotePages() {
     }
   }
 
-  const procedures = await fetchPaginated("/procedures", "en", 250);
+  const proceduresByLocale = new Map();
+  for (const locale of indexableContentLocales) {
+    const rows = await fetchPaginated("/procedures", locale, 250);
+    proceduresByLocale.set(locale, new Map(rows.map((row) => [row.slug, row])));
+  }
+
+  const procedureSlugs = new Set(
+    [...proceduresByLocale.values()].flatMap((rows) => [...rows.keys()]),
+  );
   let skippedProcedureSlugs = 0;
-  for (const procedure of procedures) {
-    if (!procedure.name || !isSeoSafeSlug(procedure.slug)) {
+  for (const slug of procedureSlugs) {
+    if (!isSeoSafeSlug(slug)) {
       skippedProcedureSlugs += 1;
       continue;
     }
-    const pathname = `/procedures/${encodeURIComponent(procedure.slug)}`;
-    pages.push({
-      path: pathname,
-      locale: "en",
-      title: `${procedure.name} | Medora Health`,
-      description: truncate(
-        procedure.summary
-        || procedure.description
-        || procedure.surgery_detailed_description
-        || `Learn about ${procedure.name} and treatment planning in China.`,
-      ),
-      heading: procedure.name,
-      eyebrow: procedure.department_name || "Medical treatment in China",
-      indexable: true,
-      alternates: { en: pathname },
-    });
+
+    const alternates = {};
+    for (const locale of indexableContentLocales) {
+      const procedure = proceduresByLocale.get(locale)?.get(slug);
+      if (procedure?.name) {
+        alternates[locale] = localizePath(
+          `/procedures/${encodeURIComponent(slug)}`,
+          locale,
+        );
+      }
+    }
+
+    for (const locale of Object.keys(alternates)) {
+      const procedure = proceduresByLocale.get(locale).get(slug);
+      pages.push({
+        path: alternates[locale],
+        locale,
+        title: `${procedure.name} | Medora Health`,
+        description: truncate(
+          procedure.summary
+          || procedure.description
+          || procedure.surgery_detailed_description
+          || `Learn about ${procedure.name} and treatment planning in China.`,
+        ),
+        heading: procedure.name,
+        eyebrow: procedure.department_name || "Medical treatment in China",
+        indexable: true,
+        alternates,
+      });
+    }
   }
   if (skippedProcedureSlugs > 0) {
     process.stderr.write(
