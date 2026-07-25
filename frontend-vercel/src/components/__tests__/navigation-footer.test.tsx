@@ -93,6 +93,9 @@ describe("Footer", () => {
     expect(screen.getByRole("link", { name: "For Hospitals & Clinics" }).getAttribute("href")).toBe("/work-with-us#hospitals");
     expect(screen.getByRole("link", { name: "For Referal Partners" }).getAttribute("href")).toBe("/work-with-us#referral-partners");
     expect(screen.getByRole("link", { name: "For Travel & Services Partners" }).getAttribute("href")).toBe("/work-with-us#travel-services");
+    expect(screen.getByRole("link", { name: "+86 17723081247" }).getAttribute("href")).toBe(
+      "https://wa.me/8617723081247",
+    );
   });
 
   it("adds the Bangladesh contact details for Bangladesh visitors", async () => {
