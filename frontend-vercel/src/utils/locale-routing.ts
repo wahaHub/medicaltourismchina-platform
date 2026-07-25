@@ -16,6 +16,9 @@ const LIMITED_LOCALIZED_PATHS = new Set([
   "/visa",
   "/work-with-us",
 ]);
+const LIMITED_LOCALIZED_DYNAMIC_PATHS = [
+  /^\/procedures\/[^/]+$/,
+];
 
 function normalizeContentPath(pathname: string): string {
   const normalized = pathname.startsWith("/") ? pathname : `/${pathname}`;
@@ -69,9 +72,9 @@ export function isPathLocalizedForLocale(
     return true;
   }
 
-  return LIMITED_LOCALIZED_PATHS.has(
-    normalizeContentPath(stripLocaleFromPathname(pathname)),
-  );
+  const contentPath = normalizeContentPath(stripLocaleFromPathname(pathname));
+  return LIMITED_LOCALIZED_PATHS.has(contentPath)
+    || LIMITED_LOCALIZED_DYNAMIC_PATHS.some((pattern) => pattern.test(contentPath));
 }
 
 export function buildLocaleUrl(

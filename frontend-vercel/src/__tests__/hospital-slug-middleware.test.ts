@@ -88,7 +88,7 @@ describe("hospital slug middleware", () => {
     expect(fetch).not.toHaveBeenCalled();
   });
 
-  it("redirects unsupported Arabic dynamic routes to English", async () => {
+  it("passes localized Arabic procedure detail routes through", async () => {
     vi.stubGlobal("fetch", vi.fn());
 
     const response = await middleware(
@@ -97,14 +97,11 @@ describe("hospital slug middleware", () => {
       ),
     );
 
-    expect(response?.status).toBe(308);
-    expect(response?.headers.get("location")).toBe(
-      "https://www.medicaltourismchina.health/procedures/heart-valve-replacement-repair?ref=search",
-    );
+    expect(response).toBeUndefined();
     expect(fetch).not.toHaveBeenCalled();
   });
 
-  it("redirects unsupported Indonesian dynamic routes to English", async () => {
+  it("passes localized Indonesian procedure detail routes through", async () => {
     vi.stubGlobal("fetch", vi.fn());
 
     const response = await middleware(
@@ -113,9 +110,22 @@ describe("hospital slug middleware", () => {
       ),
     );
 
+    expect(response).toBeUndefined();
+    expect(fetch).not.toHaveBeenCalled();
+  });
+
+  it("still redirects unsupported Arabic dynamic routes to English", async () => {
+    vi.stubGlobal("fetch", vi.fn());
+
+    const response = await middleware(
+      new Request(
+        "https://www.medicaltourismchina.health/ar/hospitals/example-hospital?ref=search",
+      ),
+    );
+
     expect(response?.status).toBe(308);
     expect(response?.headers.get("location")).toBe(
-      "https://www.medicaltourismchina.health/procedures/heart-valve-replacement-repair?ref=search",
+      "https://www.medicaltourismchina.health/hospitals/example-hospital?ref=search",
     );
     expect(fetch).not.toHaveBeenCalled();
   });

@@ -66,11 +66,25 @@ describe("locale routing", () => {
   });
 
   it.each(["ar", "id"] as const)(
-    "sends unsupported %s content paths to the localized homepage",
+    "preserves localized procedure detail paths for %s",
     (locale) => {
       expect(buildLocaleUrl(locale, {
         origin: "https://www.medicaltourismchina.health",
         pathname: "/procedures/heart-valve-replacement-repair",
+        search: "?ref=search",
+        hash: "",
+      } as Location)).toBe(
+        `https://www.medicaltourismchina.health/${locale}/procedures/heart-valve-replacement-repair?ref=search`,
+      );
+    },
+  );
+
+  it.each(["ar", "id"] as const)(
+    "still sends unsupported %s dynamic content paths to the localized homepage",
+    (locale) => {
+      expect(buildLocaleUrl(locale, {
+        origin: "https://www.medicaltourismchina.health",
+        pathname: "/hospitals/example-hospital",
         search: "?ref=search",
         hash: "",
       } as Location)).toBe(

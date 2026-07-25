@@ -8,6 +8,9 @@ export interface TreatmentCategory {
   nameDe: string;
   nameFr: string;
   nameEs: string;
+  nameRu: string;
+  nameAr: string;
+  nameId: string;
   color: string;
   slugs: string[];
 }
@@ -20,6 +23,9 @@ export const treatmentCategories: TreatmentCategory[] = [
     nameDe: 'Krebs & Onkologie',
     nameFr: 'Cancer & Oncologie',
     nameEs: 'Cáncer y Oncología',
+    nameRu: 'Рак и онкология',
+    nameAr: 'السرطان والأورام',
+    nameId: 'Kanker dan Onkologi',
     color: '#E91E63',
     slugs: [
       'proton-carbon-ion-therapy',
@@ -35,6 +41,9 @@ export const treatmentCategories: TreatmentCategory[] = [
     nameDe: 'Herz-Kreislauf',
     nameFr: 'Cardiovasculaire',
     nameEs: 'Cardiovascular',
+    nameRu: 'Сердечно-сосудистые заболевания',
+    nameAr: 'أمراض القلب والأوعية الدموية',
+    nameId: 'Kardiovaskular',
     color: '#F44336',
     slugs: [
       'coronary-artery-bypass-grafting',
@@ -48,6 +57,9 @@ export const treatmentCategories: TreatmentCategory[] = [
     nameDe: 'Orthopädie & Gelenke',
     nameFr: 'Orthopédie & Articulations',
     nameEs: 'Ortopedia y Articulaciones',
+    nameRu: 'Ортопедия и суставы',
+    nameAr: 'العظام والمفاصل',
+    nameId: 'Ortopedi dan Sendi',
     color: '#FF9800',
     slugs: [
       'total-knee-replacement',
@@ -62,6 +74,9 @@ export const treatmentCategories: TreatmentCategory[] = [
     nameDe: 'Verdauungssystem',
     nameFr: 'Système Digestif',
     nameEs: 'Sistema Digestivo',
+    nameRu: 'Пищеварительная система',
+    nameAr: 'الجهاز الهضمي',
+    nameId: 'Sistem Pencernaan',
     color: '#4CAF50',
     slugs: [
       'esd-emr-mucosal-resection',
@@ -75,6 +90,9 @@ export const treatmentCategories: TreatmentCategory[] = [
     nameDe: 'Gynäkologie',
     nameFr: 'Gynécologie',
     nameEs: 'Ginecología',
+    nameRu: 'Гинекология',
+    nameAr: 'أمراض النساء',
+    nameId: 'Ginekologi',
     color: '#E91E63',
     slugs: [
       'hifu-uterine-fibroids-treatment',
@@ -88,6 +106,9 @@ export const treatmentCategories: TreatmentCategory[] = [
     nameDe: 'Augenheilkunde',
     nameFr: 'Ophtalmologie',
     nameEs: 'Oftalmología',
+    nameRu: 'Офтальмология',
+    nameAr: 'طب العيون',
+    nameId: 'Oftalmologi',
     color: '#2196F3',
     slugs: [
       'corneal-transplant',
@@ -101,6 +122,9 @@ export const treatmentCategories: TreatmentCategory[] = [
     nameDe: 'Neurochirurgie',
     nameFr: 'Neurochirurgie',
     nameEs: 'Neurocirugía',
+    nameRu: 'Нейрохирургия',
+    nameAr: 'جراحة الأعصاب',
+    nameId: 'Bedah Saraf',
     color: '#9C27B0',
     slugs: [
       'deep-brain-stimulation-dbs',
@@ -114,6 +138,9 @@ export const treatmentCategories: TreatmentCategory[] = [
     nameDe: 'Stammzellen & Regenerativ',
     nameFr: 'Cellules Souches & Régénération',
     nameEs: 'Células Madre y Regenerativa',
+    nameRu: 'Стволовые клетки и регенеративная медицина',
+    nameAr: 'الخلايا الجذعية والطب التجديدي',
+    nameId: 'Sel Punca dan Kedokteran Regeneratif',
     color: '#00BCD4',
     slugs: [
       'stem-cell-therapy',
@@ -127,6 +154,9 @@ export const treatmentCategories: TreatmentCategory[] = [
     nameDe: 'Andere Fachgebiete',
     nameFr: 'Autres Spécialités',
     nameEs: 'Otras Especialidades',
+    nameRu: 'Другие специальности',
+    nameAr: 'تخصصات أخرى',
+    nameId: 'Spesialisasi Lainnya',
     color: '#607D8B',
     slugs: [
       'urinary-stone-minimally-invasive-treatment-mini-pcnl-furs',
@@ -148,6 +178,9 @@ export const getCategoryName = (categoryId: string, locale: string): string => {
     case 'de': return category.nameDe;
     case 'fr': return category.nameFr;
     case 'es': return category.nameEs;
+    case 'ru': return category.nameRu;
+    case 'ar': return category.nameAr;
+    case 'id': return category.nameId;
     default: return category.nameEn;
   }
 };

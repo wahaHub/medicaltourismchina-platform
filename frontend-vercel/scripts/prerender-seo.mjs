@@ -186,6 +186,9 @@ function procedureSeoTitle(name, locale) {
     es: "en China",
     fr: "en Chine",
     de: "in China",
+    ru: "в Китае",
+    ar: "في الصين",
+    id: "di Tiongkok",
   };
   const suffix = suffixes[locale];
   return `${name}${suffix ? ` ${suffix}` : ""} | Medora Health`;
@@ -424,7 +427,7 @@ async function makeRemotePages() {
   const indexableContentLocales = ["en", "zh"];
   // Procedures have verified localized content in these locales. Keep this separate
   // from hospitals, where only English and Chinese are complete enough to index.
-  const indexableProcedureLocales = ["en", "zh", "es", "fr", "de"];
+  const indexableProcedureLocales = ["en", "zh", "es", "fr", "de", "ru", "ar", "id"];
   const hospitalRowsByLocale = new Map();
 
   for (const locale of indexableContentLocales) {

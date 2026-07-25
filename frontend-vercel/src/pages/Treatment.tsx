@@ -14,6 +14,7 @@ import { getContentApiLocale } from "@/utils/content-locale";
 import ProgressiveImage from "@/components/ProgressiveImage";
 import { categories as staticTreatmentCategories } from "@/data/treatments";
 import { getCategoryName, treatmentCategories } from "@/data/treatmentCategories";
+import { getTreatmentCardTranslation } from "@/data/treatmentTranslations";
 import { LOW_MEDIA_BASE_URL } from "@/config/media";
 import treatmentHeroBackground from "@/img/treatment-hero-bg-generated.jpg";
 import { setPageSeo } from "@/utils/seo";
@@ -204,7 +205,9 @@ const STATIC_TREATMENT_TRANSLATIONS: Record<string, Partial<Record<string, Stati
 };
 
 function localizeTreatmentCard(treatment: DisplayTreatmentCard, locale: string): DisplayTreatmentCard {
-  const localizedTreatment = STATIC_TREATMENT_TRANSLATIONS[treatment.slug]?.[locale];
+  const localizedTreatment =
+    STATIC_TREATMENT_TRANSLATIONS[treatment.slug]?.[locale] ??
+    getTreatmentCardTranslation(treatment.slug, locale);
 
   if (!localizedTreatment) {
     return treatment;
@@ -248,12 +251,16 @@ const TreatmentPage = () => {
   const [error, setError] = useState<string | null>(null);
   const [selectedCategoryId, setSelectedCategoryId] = useState("all");
   const contentApiLocale =
-    currentLanguage.code === "ar" || currentLanguage.code === "id"
+    currentLanguage.code === "ru" ||
+    currentLanguage.code === "ar" ||
+    currentLanguage.code === "id"
       ? "en"
       : getContentApiLocale(getApiLocale());
   const categoryLabel =
     currentLanguage.code === "zh"
       ? "分类"
+      : currentLanguage.code === "ru"
+        ? "Категории"
       : currentLanguage.code === "ar"
         ? "التصنيفات"
         : currentLanguage.code === "id"
@@ -262,6 +269,8 @@ const TreatmentPage = () => {
   const filterLabel =
     currentLanguage.code === "zh"
       ? "按专科筛选"
+      : currentLanguage.code === "ru"
+        ? "Фильтр по специальности"
       : currentLanguage.code === "ar"
         ? "التصفية حسب التخصص"
         : currentLanguage.code === "id"
@@ -270,6 +279,8 @@ const TreatmentPage = () => {
   const allCategoriesLabel =
     currentLanguage.code === "zh"
       ? "全部项目"
+      : currentLanguage.code === "ru"
+        ? "Все виды лечения"
       : currentLanguage.code === "ar"
         ? "جميع العلاجات"
         : currentLanguage.code === "id"
@@ -301,6 +312,17 @@ const TreatmentPage = () => {
     }
     if (currentLanguage.code === "id") {
       return `${count} perawatan`;
+    }
+    if (currentLanguage.code === "ru") {
+      const mod10 = count % 10;
+      const mod100 = count % 100;
+      const noun =
+        mod10 === 1 && mod100 !== 11
+          ? "вид лечения"
+          : mod10 >= 2 && mod10 <= 4 && (mod100 < 12 || mod100 > 14)
+            ? "вида лечения"
+            : "видов лечения";
+      return `${count} ${noun}`;
     }
 
     return `${count} ${count === 1 ? "treatment" : "treatments"}`;
@@ -359,9 +381,13 @@ const TreatmentPage = () => {
           locale: contentApiLocale,
           limit: 50,
         });
-        setFeaturedTreatments(response.data.map((treatment) => localizeTreatmentCard(treatment, contentApiLocale)));
+        setFeaturedTreatments(
+          response.data.map((treatment) =>
+            localizeTreatmentCard(treatment, currentLanguage.code),
+          ),
+        );
       } catch (err) {
-        setFeaturedTreatments(getStaticFeaturedTreatments(contentApiLocale));
+        setFeaturedTreatments(getStaticFeaturedTreatments(currentLanguage.code));
         setError(null);
         console.error("Error loading featured treatments:", err);
       } finally {
@@ -370,7 +396,7 @@ const TreatmentPage = () => {
     };
 
     loadFeaturedTreatments();
-  }, [currentLanguage, contentApiLocale, t]);
+  }, [currentLanguage.code, contentApiLocale]);
 
   const treatmentsByCategory = useMemo(() => {
     return treatmentCategories
@@ -449,7 +475,7 @@ const TreatmentPage = () => {
                           : "border border-[#1DA78A]/20 bg-white text-[#0A4A5C] hover:border-[#1DA78A]/45 hover:text-[#0F638E]"
                       }`}
                     >
-                      {getCategoryName(category.id, contentApiLocale)}
+                      {getCategoryName(category.id, currentLanguage.code)}
                     </button>
                   ))}
                 </div>
@@ -512,7 +538,7 @@ const TreatmentPage = () => {
                   <div>
                     <div className="mb-3 h-1 w-16 rounded-full bg-gradient-to-r from-[#1DA78A] to-[#0F638E]" />
                     <h2 className="text-2xl font-bold leading-tight text-[#0A4A5C] sm:text-3xl">
-                      {getCategoryName(category.id, contentApiLocale)}
+                      {getCategoryName(category.id, currentLanguage.code)}
                     </h2>
                   </div>
                   <div className="text-sm font-semibold text-slate-500">

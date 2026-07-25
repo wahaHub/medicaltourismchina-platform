@@ -104,4 +104,18 @@ describe("SEO public entrypoints", () => {
       fs.existsSync(path.join(PROJECT_ROOT, "seo/static-pages.mjs")),
     ).toBe(true);
   });
+
+  it("prerenders localized procedure detail pages for every completed locale", () => {
+    const prerender = fs.readFileSync(
+      path.join(PROJECT_ROOT, "scripts/prerender-seo.mjs"),
+      "utf8",
+    );
+
+    expect(prerender).toContain(
+      'const indexableProcedureLocales = ["en", "zh", "es", "fr", "de", "ru", "ar", "id"]',
+    );
+    expect(prerender).toContain('ru: "в Китае"');
+    expect(prerender).toContain('ar: "في الصين"');
+    expect(prerender).toContain('id: "di Tiongkok"');
+  });
 });

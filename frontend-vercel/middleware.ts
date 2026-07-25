@@ -14,6 +14,9 @@ const LIMITED_PUBLIC_PATHS = new Set([
   "/visa",
   "/work-with-us",
 ]);
+const LIMITED_PUBLIC_DYNAMIC_PATHS = [
+  /^\/procedures\/[^/]+$/,
+];
 
 type SlugResolution =
   | { type: "canonical"; slug?: string }
@@ -46,7 +49,10 @@ function redirectUnsupportedLimitedLocalePath(url: URL): Response | undefined {
   const contentPath = normalizePathname(
     url.pathname.replace(new RegExp(`^/${locale}(?=/|$)`), "") || "/",
   );
-  if (LIMITED_PUBLIC_PATHS.has(contentPath)) {
+  if (
+    LIMITED_PUBLIC_PATHS.has(contentPath)
+    || LIMITED_PUBLIC_DYNAMIC_PATHS.some((pattern) => pattern.test(contentPath))
+  ) {
     return undefined;
   }
 

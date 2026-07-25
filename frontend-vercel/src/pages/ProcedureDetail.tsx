@@ -120,7 +120,7 @@ const ProcedureDetailPage = () => {
         setError(null);
         
         // Make API call to fetch procedure data
-        const apiUrl = import.meta.env.VITE_CONTENT_API_BASE_URL || import.meta.env.VITE_API_BASE_URL || 'https://api.medicaltourismchina.health';
+        const apiUrl = import.meta.env.VITE_CONTENT_API_BASE_URL || import.meta.env.VITE_API_BASE_URL || 'https://content.medicaltourismchina.health';
         const response = await fetch(`${apiUrl}/procedures/${slug}?locale=${getApiLocale()}`);
         
         if (!response.ok) {
@@ -485,7 +485,10 @@ const ProcedureDetailPage = () => {
               
               {/* What is the Procedure Section */}
               <div className="py-4 md:py-8">
-                <h2 className="text-xl md:text-3xl font-bold text-center mb-4 md:mb-8">{t('procedureDetail.whatIs')} {procedureData.name}?</h2>
+                <h2 className="text-xl md:text-3xl font-bold text-center mb-4 md:mb-8">
+                  {t('procedureDetail.whatIs')} {procedureData.name}
+                  {currentLanguage.code === 'ar' ? '؟' : '?'}
+                </h2>
                 
                 {/* Mobile View: Float Layout */}
                 <div className="block md:hidden">
