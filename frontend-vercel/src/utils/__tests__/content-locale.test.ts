@@ -2,6 +2,7 @@ import { describe, expect, it } from "vitest";
 
 import {
   getContentApiLocale,
+  getMedicalTaxonomyApiLocale,
   isHospitalContentLocaleIndexable,
 } from "@/utils/content-locale";
 
@@ -16,6 +17,13 @@ describe("getContentApiLocale", () => {
     expect(getContentApiLocale("es")).toBe("es");
     expect(getContentApiLocale("fr")).toBe("fr");
     expect(getContentApiLocale("de")).toBe("de");
+  });
+
+  it("requests completed medical taxonomy translations without English fallback", () => {
+    expect(getMedicalTaxonomyApiLocale("ru")).toBe("ru");
+    expect(getMedicalTaxonomyApiLocale("ar")).toBe("ar");
+    expect(getMedicalTaxonomyApiLocale("id")).toBe("id");
+    expect(getMedicalTaxonomyApiLocale("unknown")).toBe("en");
   });
 
   it("only indexes hospital locales whose body content is actually localized", () => {

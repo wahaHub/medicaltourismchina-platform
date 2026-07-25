@@ -18,7 +18,7 @@ import { apiService, Department, ProcedureCard as ProcedureCardType } from '@/se
 import { useLanguage } from '@/contexts/LanguageContext';
 import { useRef } from 'react';
 import { getLowResImageUrl, getProgressiveBaseFromUrl } from '@/utils/imageUrl';
-import { getContentApiLocale } from '@/utils/content-locale';
+import { getMedicalTaxonomyApiLocale } from '@/utils/content-locale';
 import { getProcedurePath } from '@/utils/procedure-path';
 import ProgressiveImage from '@/components/ProgressiveImage';
 import { setPageSeo } from '@/utils/seo';
@@ -26,10 +26,7 @@ import { getStaticPageMetadata } from '@/seo/static-page';
 
 const Search = () => {
   const { currentLanguage, getApiLocale, t } = useLanguage();
-  const contentApiLocale =
-    currentLanguage.code === "ar" || currentLanguage.code === "id"
-      ? "en"
-      : getContentApiLocale(getApiLocale());
+  const contentApiLocale = getMedicalTaxonomyApiLocale(getApiLocale());
   const [searchParams, setSearchParams] = useSearchParams();
   const [departments, setDepartments] = useState<Department[]>([]);
   const [selectedDepartment, setSelectedDepartment] = useState<string>('');
