@@ -32,6 +32,14 @@ import { useLanguage } from "@/contexts/LanguageContext";
 import { getImageUrl, IMAGE_PATHS, getHighResImageUrl, getProgressiveBaseFromUrl } from "@/utils/imageUrl";
 import ProgressiveImage from "@/components/ProgressiveImage";
 import { setPageSeo } from "@/utils/seo";
+import {
+  getProcedureSeoTitle,
+  INDEXABLE_PROCEDURE_LOCALES,
+} from "@/utils/procedure-seo";
+import {
+  DEFAULT_LOCALE,
+  isSiteLocale,
+} from "@/utils/locale-routing";
 import { isSeoSafeSlug } from "@/utils/seo-slug";
 
 // Real API procedure data structure
@@ -140,14 +148,19 @@ const ProcedureDetailPage = () => {
         const resolvedLocale = apiData.meta.resolved_locale.split(/[-_]/)[0];
         const localeHasOwnContent = requestedLocale === resolvedLocale;
         const hasCanonicalSeoSlug = isSeoSafeSlug(procedure.slug);
+        const pageLocale = isSiteLocale(currentLanguage.code)
+          ? currentLanguage.code
+          : DEFAULT_LOCALE;
         setPageSeo({
-          title: `${procedure.name} | Medora Health`,
+          title: getProcedureSeoTitle(procedure.name, pageLocale),
           description: procedure.summary || procedure.description || `Learn about ${procedure.name} with Medora Health.`,
           path: `/procedures/${encodeURIComponent(procedure.slug)}`,
           image: procedure.image_url || undefined,
           robots: localeHasOwnContent && hasCanonicalSeoSlug ? "index,follow" : "noindex,follow",
           includeAlternates: localeHasOwnContent && hasCanonicalSeoSlug,
-          availableLocales: localeHasOwnContent ? [currentLanguage.code as any] : ["en"],
+          availableLocales: localeHasOwnContent
+            ? INDEXABLE_PROCEDURE_LOCALES
+            : [DEFAULT_LOCALE],
         });
       } catch (err) {
         setError('Failed to load procedure details. Please try again.');

@@ -110,6 +110,10 @@ describe("SEO public entrypoints", () => {
       path.join(PROJECT_ROOT, "scripts/prerender-seo.mjs"),
       "utf8",
     );
+    const procedureDetail = fs.readFileSync(
+      path.join(PROJECT_ROOT, "src/pages/ProcedureDetail.tsx"),
+      "utf8",
+    );
 
     expect(prerender).toContain(
       'const indexableProcedureLocales = ["en", "zh", "es", "fr", "de", "ru", "ar", "id"]',
@@ -117,5 +121,11 @@ describe("SEO public entrypoints", () => {
     expect(prerender).toContain('ru: "в Китае"');
     expect(prerender).toContain('ar: "في الصين"');
     expect(prerender).toContain('id: "di Tiongkok"');
+    expect(procedureDetail).toContain(
+      "title: getProcedureSeoTitle(procedure.name, pageLocale)",
+    );
+    expect(procedureDetail).toContain(
+      "? INDEXABLE_PROCEDURE_LOCALES",
+    );
   });
 });
