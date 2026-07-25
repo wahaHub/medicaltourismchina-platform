@@ -101,8 +101,6 @@ export const id = {
 
   "homepage.testimonials.title": "Kisah pasien dan perjalanan pemulihan",
   "homepage.testimonials.reviewsBadge": "Ratusan ulasan positif",
-  "homepage.testimonials.trustpilotCta": "Beri ulasan di Trustpilot",
-  "homepage.testimonials.trustpilotAria": "Beri ulasan untuk Medora Health di Trustpilot",
   "homepage.testimonials.testimonial1.title": "Emily Carter, 22 tahun, dari California, datang ke Tiongkok untuk operasi hidung dengan hasil alami.",
   "homepage.testimonials.testimonial1.story": "Saya menginginkan perubahan alami pada batang dan ujung hidung. Dokter di Shanghai menggunakan pemindaian 3D untuk merancang hasil yang tetap sesuai wajah saya. Operasi dan pemulihan berjalan lancar, dan kini saya jauh lebih percaya diri.",
   "homepage.testimonials.testimonial2.title": "Robert Miller, 68 tahun, dari Ohio, datang untuk operasi bypass arteri koroner.",

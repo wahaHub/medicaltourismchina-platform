@@ -94,8 +94,6 @@ export const ar = {
   "homepage.featuredIn.videoPosterAlt": "تغطية CGTN America للسياحة العلاجية في الصين",
   "homepage.testimonials.title": "قصص المرضى وتجارب التعافي",
   "homepage.testimonials.reviewsBadge": "مئات التقييمات الإيجابية",
-  "homepage.testimonials.trustpilotCta": "قيّم تجربتك معنا على Trustpilot",
-  "homepage.testimonials.trustpilotAria": "قيّم Medora Health على Trustpilot",
   "homepage.testimonials.testimonial1.title": "إميلي كارتر، 22 عاماً، من كاليفورنيا. جاءت إلى الصين لإجراء تجميل طبيعي للأنف.",
   "homepage.testimonials.testimonial1.story": "كنت أبحث عن نتيجة طبيعية تحسن جسر الأنف وطرفه من دون مظهر مصطنع. صمم الطبيب في شنغهاي النتيجة بتقنية المسح ثلاثي الأبعاد، وسارت العملية والتعافي بسلاسة. أصبحت ملامحي أكثر توازناً وثقتي بنفسي أكبر.",
   "homepage.testimonials.testimonial2.title": "روبرت ميلر، 68 عاماً، من أوهايو. جاء إلى الصين لجراحة مجازة الشريان التاجي.",
