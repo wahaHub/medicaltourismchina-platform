@@ -3,10 +3,18 @@ import { getCrmSupa, supa } from '../config/supabase.mjs'
 import { json } from '../utils/response.mjs'
 import { normalizeLocale } from '../utils/locale.mjs'
 import { getQuery, getRequestedLocale } from '../utils/query.mjs'
+import { selectHospitalSummaryPage } from '../utils/hospital-locales.mjs'
+import { EXCLUDED_PUBLIC_HOSPITAL_IDS } from '../utils/hospital-visibility.mjs'
 
 const debugLog = (...args) => {
   if (process.env.DEBUG_LOGS === 'true') console.log(...args)
 }
+
+const excludeNonPublicHospitalIds = (query) =>
+  EXCLUDED_PUBLIC_HOSPITAL_IDS.reduce(
+    (currentQuery, hospitalId) => currentQuery.neq('id', hospitalId),
+    query,
+  )
 
 // 数据转换函数：将 city_translated 映射到 city 字段以保持前端兼容性
 const transformHospitalData = (hospital) => {
@@ -29,38 +37,6 @@ const transformHospitalData = (hospital) => {
     ...(promotionalVideos ? { promotional_videos: promotionalVideos } : {}),
   }
 }
-
-const getOwnershipPriority = (ownershipType) => {
-  const normalized = typeof ownershipType === 'string'
-    ? ownershipType.trim().toLowerCase()
-    : ''
-
-  if (normalized.includes('private') || normalized.includes('私立')) {
-    return 0
-  }
-
-  if (normalized.includes('public') || normalized.includes('公立')) {
-    return 1
-  }
-
-  return 2
-}
-
-const sortHospitalsByOwnershipPriority = (hospitals = []) =>
-  hospitals
-    .map((hospital, index) => ({ hospital, index }))
-    .sort((left, right) => {
-      const priorityDifference =
-        getOwnershipPriority(left.hospital?.ownership_type)
-        - getOwnershipPriority(right.hospital?.ownership_type)
-
-      if (priorityDifference !== 0) {
-        return priorityDifference
-      }
-
-      return left.index - right.index
-    })
-    .map(({ hospital }) => hospital)
 
 // ========== 翻译解析函数 ==========
 
@@ -564,15 +540,18 @@ export const getHospitals = async (event) => {
   const offset = parseInt(q.offset || '0')
   const city = q.city
   const search = q.search || q.q
+  const localeCandidates = locale === 'en' ? [locale] : [locale, 'en']
 
   debugLog('Query params:', q)
   debugLog('Parsed limit:', limit, 'offset:', offset)
   
-  let query = supa
-    .from('v_hospital_summary')
-    .select('*', { count: 'exact' })
-    .eq('locale', locale)
-    .eq('status', 'approved')
+  let query = excludeNonPublicHospitalIds(
+    supa
+      .from('v_hospital_summary')
+      .select('*')
+      .in('locale', localeCandidates)
+      .eq('status', 'approved'),
+  )
   
   // 按城市筛选 - 直接使用英文城市名筛选
   if (city) {
@@ -593,7 +572,7 @@ export const getHospitals = async (event) => {
   
   // 先按原有业务排序取全量结果，再按 ownership 做分组。
   // 这里必须在分页前完成 private/public 分组，否则跨页顺序会不稳定。
-  const { data, error, count } = await query
+  const { data, error } = await query
     .order('tier', { ascending: false })
     .order('bed_count', { ascending: false, nullsLast: true })
     .order('name')
@@ -603,24 +582,30 @@ export const getHospitals = async (event) => {
     return json(400, { error: error.message })
   }
   
-  debugLog(`Query returned ${data?.length || 0} hospitals, total count: ${count}`);
+  debugLog(`Query returned ${data?.length || 0} raw locale rows`);
   debugLog('First few hospitals:', data?.slice(0, 3)?.map(h => ({ name: h.name, city: h.city, city_translated: h.city_translated })));
   
   // 转换数据：将 city_translated 映射到 city 字段
-  const transformedData = sortHospitalsByOwnershipPriority(data?.map(transformHospitalData) || [])
-  const paginatedData = transformedData.slice(offset, offset + limit)
+  const {
+    rows: selectedRows,
+    total,
+    fallbackCount,
+  } = selectHospitalSummaryPage(data || [], locale, { offset, limit })
+  const paginatedData = selectedRows.map(transformHospitalData)
   
   return json(200, {
     data: paginatedData,
     meta: {
       requested_locale: requestedLocale,
       resolved_locale: locale,
+      fallback_locale: locale === 'en' ? null : 'en',
+      fallback_count: fallbackCount,
       filters: { city, search },
       pagination: {
         limit,
         offset,
         returned: paginatedData.length,
-        total: count || 0
+        total
       },
       generated_at: new Date().toISOString()
     }

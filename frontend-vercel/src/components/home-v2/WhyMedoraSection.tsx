@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import { getHospitalName, type HospitalId } from "@/i18n/hospitalNames";
 import { getDoctorProfile, type DoctorId } from "@/i18n/doctorNames";
 import ProgressiveImage from "@/components/ProgressiveImage";
+import { getCarouselTransform } from "@/utils/carousel-direction";
 
 // CloudFront base URL for low resolution images
 const PUBLIC_MEDIA_BASE = (import.meta.env.VITE_PUBLIC_MEDIA_BASE_URL || 'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev').replace(/\/+$/, '');
@@ -63,6 +64,7 @@ export function getSelectedHomepageHospitals(languageCode: string): HomepageHosp
 
 export default function WhyMedoraSection() {
   const { t, currentLanguage } = useLanguage();
+  const isRtl = currentLanguage.code === "ar";
   const [currentHospitalIndex, setCurrentHospitalIndex] = useState(0);
   const [currentMobileHospitalPage, setCurrentMobileHospitalPage] = useState(0);
   const [currentDoctorIndex, setCurrentDoctorIndex] = useState(0);
@@ -287,7 +289,7 @@ export default function WhyMedoraSection() {
               <div
                 className="flex transition-transform duration-500 ease-in-out"
                 style={{
-                  transform: `translateX(-${currentMobileHospitalPage * 100}%)`,
+                  transform: getCarouselTransform(currentMobileHospitalPage, 100, isRtl),
                 }}
               >
                 {Array.from({ length: totalMobilePages }).map((_, pageIndex) => (
@@ -327,16 +329,16 @@ export default function WhyMedoraSection() {
 
             {/* Navigation buttons for mobile */}
             <button
-              onClick={prevMobileHospitals}
+              onClick={isRtl ? nextMobileHospitals : prevMobileHospitals}
               className="absolute left-0 top-1/2 -translate-y-1/2 -translate-x-2 bg-white text-[#1DA78A] p-2 rounded-full shadow-lg hover:bg-gray-100 transition-colors z-10"
-              aria-label={t('aria.previousHospitals')}
+              aria-label={t(isRtl ? 'aria.nextHospitals' : 'aria.previousHospitals')}
             >
               <ChevronLeft className="w-4 h-4" />
             </button>
             <button
-              onClick={nextMobileHospitals}
+              onClick={isRtl ? prevMobileHospitals : nextMobileHospitals}
               className="absolute right-0 top-1/2 -translate-y-1/2 translate-x-2 bg-white text-[#1DA78A] p-2 rounded-full shadow-lg hover:bg-gray-100 transition-colors z-10"
-              aria-label={t('aria.nextHospitals')}
+              aria-label={t(isRtl ? 'aria.previousHospitals' : 'aria.nextHospitals')}
             >
               <ChevronRight className="w-4 h-4" />
             </button>
@@ -352,7 +354,12 @@ export default function WhyMedoraSection() {
               <div
                 className="flex transition-transform duration-500 ease-in-out gap-6"
                 style={{
-                  transform: `translateX(-${currentHospitalIndex * (100 / visibleHospitals)}%)`,
+                  transform: getCarouselTransform(
+                    currentHospitalIndex,
+                    100 / visibleHospitals,
+                    isRtl,
+                    24 / visibleHospitals,
+                  ),
                 }}
               >
                 {hospitals.map((hospital, index) => (
@@ -385,16 +392,16 @@ export default function WhyMedoraSection() {
 
             {/* Navigation buttons */}
             <button
-              onClick={prevHospitals}
+              onClick={isRtl ? nextHospitals : prevHospitals}
               className="absolute left-0 top-1/2 -translate-y-1/2 -translate-x-4 bg-[#1DA78A] text-white p-2 rounded-full shadow-lg hover:bg-[#158970] transition-colors z-10"
-              aria-label={t('aria.previousHospitals')}
+              aria-label={t(isRtl ? 'aria.nextHospitals' : 'aria.previousHospitals')}
             >
               <ChevronLeft className="w-5 h-5" />
             </button>
             <button
-              onClick={nextHospitals}
+              onClick={isRtl ? prevHospitals : nextHospitals}
               className="absolute right-0 top-1/2 -translate-y-1/2 translate-x-4 bg-[#1DA78A] text-white p-2 rounded-full shadow-lg hover:bg-[#158970] transition-colors z-10"
-              aria-label={t('aria.nextHospitals')}
+              aria-label={t(isRtl ? 'aria.previousHospitals' : 'aria.nextHospitals')}
             >
               <ChevronRight className="w-5 h-5" />
             </button>
@@ -417,7 +424,7 @@ export default function WhyMedoraSection() {
               <div
                 className="flex transition-transform duration-500 ease-in-out"
                 style={{
-                  transform: `translateX(-${currentMobileDoctorPage * 100}%)`,
+                  transform: getCarouselTransform(currentMobileDoctorPage, 100, isRtl),
                 }}
               >
                 {Array.from({ length: totalMobileDoctorPages }).map((_, pageIndex) => (
@@ -461,16 +468,16 @@ export default function WhyMedoraSection() {
 
             {/* Navigation buttons for mobile */}
             <button
-              onClick={prevMobileDoctors}
+              onClick={isRtl ? nextMobileDoctors : prevMobileDoctors}
               className="absolute left-0 top-1/2 -translate-y-1/2 -translate-x-2 bg-white text-[#1DA78A] p-2 rounded-full shadow-lg hover:bg-gray-100 transition-colors z-10"
-              aria-label={t('aria.previousDoctors')}
+              aria-label={t(isRtl ? 'aria.nextDoctors' : 'aria.previousDoctors')}
             >
               <ChevronLeft className="w-4 h-4" />
             </button>
             <button
-              onClick={nextMobileDoctors}
+              onClick={isRtl ? prevMobileDoctors : nextMobileDoctors}
               className="absolute right-0 top-1/2 -translate-y-1/2 translate-x-2 bg-white text-[#1DA78A] p-2 rounded-full shadow-lg hover:bg-gray-100 transition-colors z-10"
-              aria-label={t('aria.nextDoctors')}
+              aria-label={t(isRtl ? 'aria.previousDoctors' : 'aria.nextDoctors')}
             >
               <ChevronRight className="w-4 h-4" />
             </button>
@@ -486,7 +493,12 @@ export default function WhyMedoraSection() {
               <div
                 className="flex transition-transform duration-500 ease-in-out gap-6"
                 style={{
-                  transform: `translateX(-${currentDoctorIndex * (100 / visibleDoctors)}%)`,
+                  transform: getCarouselTransform(
+                    currentDoctorIndex,
+                    100 / visibleDoctors,
+                    isRtl,
+                    24 / visibleDoctors,
+                  ),
                 }}
               >
                 {doctors.map((doctor, index) => (
@@ -580,16 +592,16 @@ export default function WhyMedoraSection() {
 
             {/* Navigation buttons */}
             <button
-              onClick={prevDoctors}
+              onClick={isRtl ? nextDoctors : prevDoctors}
               className="absolute left-0 top-1/2 -translate-y-1/2 -translate-x-4 bg-[#1DA78A] text-white p-2 rounded-full shadow-lg hover:bg-[#158970] transition-colors z-10"
-              aria-label={t('aria.previousDoctors')}
+              aria-label={t(isRtl ? 'aria.nextDoctors' : 'aria.previousDoctors')}
             >
               <ChevronLeft className="w-5 h-5" />
             </button>
             <button
-              onClick={nextDoctors}
+              onClick={isRtl ? prevDoctors : nextDoctors}
               className="absolute right-0 top-1/2 -translate-y-1/2 translate-x-4 bg-[#1DA78A] text-white p-2 rounded-full shadow-lg hover:bg-[#158970] transition-colors z-10"
-              aria-label={t('aria.nextDoctors')}
+              aria-label={t(isRtl ? 'aria.previousDoctors' : 'aria.nextDoctors')}
             >
               <ChevronRight className="w-5 h-5" />
             </button>

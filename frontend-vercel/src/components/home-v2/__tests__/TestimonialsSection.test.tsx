@@ -6,6 +6,7 @@ import TestimonialsSection from "@/components/home-v2/TestimonialsSection";
 vi.mock("@/contexts/LanguageContext", () => ({
   useLanguage: () => ({
     t: (key: string) => key,
+    currentLanguage: { code: "en" },
   }),
 }));
 

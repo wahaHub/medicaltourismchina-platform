@@ -2,12 +2,14 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 import { useState, useEffect } from "react";
 import { useLanguage } from "@/contexts/LanguageContext";
 import ProgressiveImage from "@/components/ProgressiveImage";
+import { getCarouselTransform } from "@/utils/carousel-direction";
 
 // CloudFront base URL for progressive image loading
 const LOW_MEDIA_BASE = `${(import.meta.env.VITE_PUBLIC_MEDIA_BASE_URL || 'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev').replace(/\/+$/, '')}/low`;
 
 export default function TestimonialsSection() {
-  const { t } = useLanguage();
+  const { t, currentLanguage } = useLanguage();
+  const isRtl = currentLanguage.code === "ar";
   const [currentIndex, setCurrentIndex] = useState(0);
   const [currentMobilePage, setCurrentMobilePage] = useState(0);
   const [isHovered, setIsHovered] = useState(false);
@@ -246,7 +248,7 @@ export default function TestimonialsSection() {
             <div
               className="flex transition-transform duration-500 ease-in-out"
               style={{
-                transform: `translateX(-${currentMobilePage * 100}%)`,
+                transform: getCarouselTransform(currentMobilePage, 100, isRtl),
               }}
             >
               {Array.from({ length: totalMobilePages }).map((_, pageIndex) => (
@@ -302,16 +304,16 @@ export default function TestimonialsSection() {
 
           {/* Navigation buttons for mobile */}
           <button
-            onClick={prevMobile}
+            onClick={isRtl ? nextMobile : prevMobile}
             className="absolute left-0 top-1/2 -translate-y-1/2 -translate-x-2 bg-white text-[#1DA78A] p-2 rounded-full shadow-lg hover:bg-gray-100 transition-colors z-10"
-            aria-label={t('aria.previousTestimonial')}
+            aria-label={t(isRtl ? 'aria.nextTestimonial' : 'aria.previousTestimonial')}
           >
             <ChevronLeft className="w-4 h-4" />
           </button>
           <button
-            onClick={nextMobile}
+            onClick={isRtl ? prevMobile : nextMobile}
             className="absolute right-0 top-1/2 -translate-y-1/2 translate-x-2 bg-white text-[#1DA78A] p-2 rounded-full shadow-lg hover:bg-gray-100 transition-colors z-10"
-            aria-label={t('aria.nextTestimonial')}
+            aria-label={t(isRtl ? 'aria.previousTestimonial' : 'aria.nextTestimonial')}
           >
             <ChevronRight className="w-4 h-4" />
           </button>
@@ -327,7 +329,12 @@ export default function TestimonialsSection() {
             <div
               className="flex transition-transform duration-500 ease-in-out gap-6"
               style={{
-                transform: `translateX(-${currentIndex * (100 / visibleCards)}%)`,
+                transform: getCarouselTransform(
+                  currentIndex,
+                  100 / visibleCards,
+                  isRtl,
+                  24 / visibleCards,
+                ),
               }}
             >
               {testimonials.map((testimonial, index) => (
@@ -375,16 +382,16 @@ export default function TestimonialsSection() {
 
           {/* Navigation buttons */}
           <button
-            onClick={prev}
+            onClick={isRtl ? next : prev}
             className="absolute left-0 top-1/2 -translate-y-1/2 -translate-x-4 bg-white text-[#1DA78A] p-2 rounded-full shadow-lg hover:bg-gray-100 transition-colors z-10"
-            aria-label={t('aria.previousTestimonial')}
+            aria-label={t(isRtl ? 'aria.nextTestimonial' : 'aria.previousTestimonial')}
           >
             <ChevronLeft className="w-5 h-5" />
           </button>
           <button
-            onClick={next}
+            onClick={isRtl ? prev : next}
             className="absolute right-0 top-1/2 -translate-y-1/2 translate-x-4 bg-white text-[#1DA78A] p-2 rounded-full shadow-lg hover:bg-gray-100 transition-colors z-10"
-            aria-label={t('aria.nextTestimonial')}
+            aria-label={t(isRtl ? 'aria.previousTestimonial' : 'aria.nextTestimonial')}
           >
             <ChevronRight className="w-5 h-5" />
           </button>
