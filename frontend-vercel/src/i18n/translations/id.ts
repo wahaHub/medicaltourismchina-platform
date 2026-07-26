@@ -26,8 +26,8 @@ export const id = {
   "nav.menu": "Menu",
   "nav.close": "Tutup",
 
-  "hero.mainTitle": "Layanan wisata medis terpadu untuk pasien internasional",
-  "hero.mainSubtitle": "Dukungan menyeluruh untuk perjalanan medis yang nyaman, dari peninjauan rekam medis hingga tindak lanjut setelah perawatan.",
+  "hero.mainTitle": "Menghubungkan pasien global dengan rumah sakit dan spesialis terkemuka di Tiongkok",
+  "hero.mainSubtitle": "Kami membantu pasien internasional memperoleh evaluasi medis profesional, perencanaan perawatan, dan dukungan menyeluruh untuk mendapatkan perawatan di Tiongkok.",
   "homepage.hero.customizePlan": "Sesuaikan rencana perjalanan medis saya",
   "homepage.hero.letsGoNow": "Mulai sekarang",
   "homepage.stats.commonDiseases": "JENIS PENYAKIT",

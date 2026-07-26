@@ -115,8 +115,8 @@ export const de = {
   // Hero Section
   'hero.title': 'Premium Medizinreisen nach China',
   'hero.subtitle': 'Erleben Sie Weltklasse-Behandlungen zu 50-70% niedrigeren Kosten mit personalisierter Betreuung und Unterstützung bei jedem Schritt.',
-  'hero.mainTitle': 'All-Inclusive Concierge-Medizintourismus-Services für Internationale Patienten',
-  'hero.mainSubtitle': 'Genießen Sie unseren All-Inclusive-Luxus-Service für eine nahtlose, Concierge-artige medizinische Reise.',
+  'hero.mainTitle': 'Wir verbinden Patienten weltweit mit Chinas führenden Krankenhäusern und Spezialisten',
+  'hero.mainSubtitle': 'Wir unterstützen internationale Patienten mit professioneller medizinischer Bewertung, Behandlungsplanung und umfassender Begleitung für die Versorgung in China.',
   'hero.cta.consultation': 'Kostenlose Beratung erhalten',
   'hero.cta.services': 'Services anzeigen',
   'hero.cta.startJourney': 'Starten Sie Ihre medizinische Reise',

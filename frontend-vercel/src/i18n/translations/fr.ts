@@ -115,8 +115,8 @@ export const fr = {
   // Hero Section
   'hero.title': 'Voyage Médical Premium en Chine',
   'hero.subtitle': 'Vivez des traitements de classe mondiale à 50-70% de coût inférieur avec des soins personnalisés et un soutien à chaque étape.',
-  'hero.mainTitle': 'Services de Tourisme Médical Concierge Tout Compris pour Patients Internationaux',
-  'hero.mainSubtitle': 'Profitez de notre service de luxe tout compris pour un voyage médical sans problème de style concierge.',
+  'hero.mainTitle': 'Connecter les patients du monde entier aux meilleurs hôpitaux et spécialistes de Chine',
+  'hero.mainSubtitle': 'Nous aidons les patients internationaux à obtenir une évaluation médicale professionnelle, une planification du traitement et un accompagnement complet pour se faire soigner en Chine.',
   'hero.cta.consultation': 'Obtenir une Consultation Gratuite',
   'hero.cta.services': 'Voir les Services',
   'hero.cta.startJourney': 'Commencez Votre Voyage Médical',

@@ -36,12 +36,13 @@ describe("SEO public entrypoints", () => {
     expect(fs.existsSync(indexPath)).toBe(true);
 
     const indexHtml = fs.readFileSync(indexPath, "utf8");
-    expect(indexHtml).toContain("<title>Medora Health | Medical Tourism &amp; Telemedicine in China</title>");
-    expect(indexHtml).toContain('meta name="description" content="Medora Health helps international patients access specialist consultations');
+    expect(indexHtml).toContain("<title>Medical Care in China for International Patients | Medora Health</title>");
+    expect(indexHtml).toContain('meta name="description" content="Connect with China\'s leading hospitals and specialists.');
     expect(indexHtml).toContain('"@type": "WebSite"');
     expect(indexHtml).toContain('"name": "Medora Health"');
     expect(indexHtml).toContain('"name": "Telemedicine Consultation"');
     expect(indexHtml).toContain('"name": "Cancer Second Opinion"');
+    expect(indexHtml).toContain('Connecting global patients with China\'s leading hospitals and specialists');
     expect(indexHtml).not.toContain("MedChina - Premium Medical Tourism to China");
   });
 

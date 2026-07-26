@@ -114,8 +114,8 @@ export const zh = {
   // Hero Section
   'hero.title': '中国高端医疗旅游',
   'hero.subtitle': '以50-70%的低成本体验世界级治疗，全程提供个性化护理和支持。',
-  'hero.mainTitle': '为国际患者提供全方位一站式医疗旅游管家服务',
-  'hero.mainSubtitle': '享受我们全包式豪华服务，体验无缝衔接的礼宾式医疗之旅。',
+  'hero.mainTitle': '连接全球患者与中国顶尖医院及专家',
+  'hero.mainSubtitle': '帮助国际患者获得专业医疗评估、治疗方案规划及赴华就医全程支持。',
   'hero.cta.consultation': '获取免费咨询',
   'hero.cta.services': '查看服务',
   'hero.cta.startJourney': '开始您的医疗之旅',

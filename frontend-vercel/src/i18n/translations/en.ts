@@ -118,8 +118,8 @@ export const en = {
   // Hero Section
   'hero.title': 'Premium Medical Travel to China',
   'hero.subtitle': 'Experience world-class treatments at 50–70% lower cost with personalized care and support every step of the way.',
-  'hero.mainTitle': 'All-Inclusive Concierge Medical Tourism Services for International Patients',
-  'hero.mainSubtitle': 'Indulge in our all-inclusive luxury service for a seamless, concierge-style medical journey.',
+  'hero.mainTitle': "Connecting Global Patients with China's Leading Hospitals and Specialists",
+  'hero.mainSubtitle': 'Helping international patients access professional medical evaluations, treatment planning, and end-to-end support for care in China.',
   'hero.cta.consultation': 'Get a Free Consultation',
   'hero.cta.services': 'View Services',
   'hero.cta.startJourney': 'Start Your Medical Journey',
