@@ -6,6 +6,11 @@ import {
   STATIC_PAGE_METADATA,
   getStaticPageMetadata,
 } from "../seo/static-pages.mjs";
+import {
+  hasProcedureCompletenessCapability,
+  isResolvedProcedureLocale,
+  isIndexableProcedureTranslation,
+} from "../seo/procedure-indexability.mjs";
 
 const PROJECT_ROOT = path.resolve(import.meta.dirname, "..");
 const DIST_DIR = path.join(PROJECT_ROOT, "dist");
@@ -80,11 +85,6 @@ const ENGLISH_SEO_LANDINGS = {
     title: "Why Choose China for Medical Care | Medora Health",
     description: "Understand the medical expertise, hospital capacity, technology, costs, travel planning, and patient support available in China.",
     heading: "Why consider China for medical care?",
-  },
-  "/visa": {
-    title: "China Visa and Medical Travel Support | Medora Health",
-    description: "Prepare for medical travel to China with practical information about appointments, supporting documents, interpretation, transport, and follow-up.",
-    heading: "China visa and medical travel planning",
   },
   "/faq": {
     title: "China Medical Travel FAQ | Medora Health",
@@ -320,7 +320,12 @@ async function fetchJson(pathname) {
   }
 }
 
-async function fetchPaginated(endpoint, locale, pageSize = 250) {
+async function fetchPaginated(
+  endpoint,
+  locale,
+  pageSize = 250,
+  { requireResolvedLocale = false } = {},
+) {
   const items = [];
   let offset = 0;
   let total = Number.POSITIVE_INFINITY;
@@ -330,6 +335,15 @@ async function fetchPaginated(endpoint, locale, pageSize = 250) {
     const payload = await fetchJson(
       `${endpoint}${separator}locale=${encodeURIComponent(locale)}&limit=${pageSize}&offset=${offset}`,
     );
+    if (
+      requireResolvedLocale
+      && !isResolvedProcedureLocale(locale, payload.meta?.resolved_locale)
+    ) {
+      throw new Error(
+        `${endpoint} resolved locale ${JSON.stringify(payload.meta?.resolved_locale)} `
+        + `for requested locale ${JSON.stringify(locale)}`,
+      );
+    }
     const batch = Array.isArray(payload.data) ? payload.data : [];
     items.push(...batch);
     total = payload.meta?.pagination?.total ?? payload.meta?.total ?? payload.total ?? items.length;
@@ -382,7 +396,13 @@ function makeStaticPages() {
     }
   }
 
+  const staticPaths = new Set(pages.map((page) => page.path));
   for (const [pathname, metadata] of Object.entries(ENGLISH_SEO_LANDINGS)) {
+    if (staticPaths.has(pathname)) {
+      throw new Error(
+        `Duplicate static SEO pathname ${pathname}; keep a single metadata source`,
+      );
+    }
     pages.push({
       path: pathname,
       locale: "en",
@@ -390,6 +410,7 @@ function makeStaticPages() {
       indexable: true,
       alternates: { en: pathname },
     });
+    staticPaths.add(pathname);
   }
 
   for (const [slug, metadata] of Object.entries(LOCAL_TREATMENT_DETAILS)) {
@@ -540,12 +561,35 @@ async function makeRemotePages() {
 
   const proceduresByLocale = new Map();
   for (const locale of indexableProcedureLocales) {
-    const rows = await fetchPaginated("/procedures", locale, 250);
+    const rows = await fetchPaginated(
+      "/procedures?seo=1",
+      locale,
+      250,
+      { requireResolvedLocale: true },
+    );
+    if (
+      rows.length > 0
+      && rows.some(
+        (procedure) => !hasProcedureCompletenessCapability(procedure),
+      )
+    ) {
+      throw new Error(
+        `/procedures?seo=1 API is missing boolean content_complete for locale ${locale}`,
+      );
+    }
     proceduresByLocale.set(locale, new Map(rows.map((row) => [row.slug, row])));
   }
 
   const procedureSlugs = new Set(
     [...proceduresByLocale.values()].flatMap((rows) => [...rows.keys()]),
+  );
+  const incompleteProcedureTranslations = Object.fromEntries(
+    indexableProcedureLocales.map((locale) => [
+      locale,
+      [...proceduresByLocale.get(locale).values()]
+        .filter((procedure) => !isIndexableProcedureTranslation(procedure))
+        .length,
+    ]),
   );
   let skippedProcedureSlugs = 0;
   for (const slug of procedureSlugs) {
@@ -557,7 +601,7 @@ async function makeRemotePages() {
     const alternates = {};
     for (const locale of indexableProcedureLocales) {
       const procedure = proceduresByLocale.get(locale)?.get(slug);
-      if (procedure?.name) {
+      if (isIndexableProcedureTranslation(procedure)) {
         alternates[locale] = localizePath(
           `/procedures/${encodeURIComponent(slug)}`,
           locale,
@@ -587,6 +631,15 @@ async function makeRemotePages() {
   if (skippedProcedureSlugs > 0) {
     process.stderr.write(
       `[seo-prerender] Skipped ${skippedProcedureSlugs} procedures without a stable ASCII SEO slug.\n`,
+    );
+  }
+  const incompleteSummary = Object.entries(incompleteProcedureTranslations)
+    .filter(([, count]) => count > 0)
+    .map(([locale, count]) => `${locale}=${count}`)
+    .join(", ");
+  if (incompleteSummary) {
+    process.stderr.write(
+      `[seo-prerender] Excluded incomplete procedure translations: ${incompleteSummary}.\n`,
     );
   }
 

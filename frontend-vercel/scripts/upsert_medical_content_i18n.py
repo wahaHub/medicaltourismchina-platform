@@ -12,6 +12,7 @@ import argparse
 import http.client
 import json
 import os
+import re
 import sys
 import time
 import urllib.error
@@ -25,6 +26,24 @@ from typing import Any, Iterable, Mapping
 HEADER_ROW = 3
 DATA_START_ROW = 4
 LOCALES = ("ru", "ar", "id")
+SUPPORTED_LOCALES = ("en", "es", "fr", "de", "ru", "ar", "id")
+REQUIRED_PROCEDURE_TRANSLATION_FIELDS = (
+    "name",
+    "waiting_time",
+    "cost_coverage",
+    "cost_factors",
+    "stay_at_hospital",
+    "stay_at_hotel",
+    "stay_in_china",
+    "surgery_detailed_description",
+    "when_is_needed",
+    "preparation_before_surgery",
+    "recovery_process",
+    "surgery_options",
+    "faqs",
+    "surgery_steps",
+    "recovery_steps",
+)
 EXPECTED_COUNTS = {
     "department_i18n": 20,
     "disease_i18n": 481,
@@ -157,11 +176,51 @@ def parse_json_cell(value: Any, location: str) -> Any:
         raise UpsertError(f"{location}: invalid JSON: {exc}") from exc
 
 
+def is_nonempty_content(value: Any) -> bool:
+    if isinstance(value, str):
+        return bool(value.strip())
+    if isinstance(value, (dict, list)):
+        return bool(value)
+    return value is not None
+
+
+def validate_procedure_record(
+    record: Mapping[str, Any],
+    location: str,
+) -> None:
+    missing = [
+        field
+        for field in REQUIRED_PROCEDURE_TRANSLATION_FIELDS
+        if not is_nonempty_content(record.get(field))
+    ]
+    if missing:
+        raise UpsertError(
+            f"{location}: incomplete procedure translation; missing "
+            + ", ".join(missing)
+        )
+    cost = record.get("cost_usd")
+    if not isinstance(cost, str) or not cost.strip():
+        raise UpsertError(f"{location}: cost_usd must be non-empty text")
+    if re.search(r"[\u3400-\u9fff]", cost):
+        raise UpsertError(
+            f"{location}: cost_usd contains untranslated Chinese text"
+        )
+
+
 def workbook_path(workbook_dir: Path, locale: str) -> Path:
-    path = workbook_dir / f"medora_medical_content_{locale}.xlsx"
-    if not path.is_file():
-        raise UpsertError(f"Workbook not found: {path}")
-    return path
+    preferred = workbook_dir / f"medora_medical_content_{locale}.xlsx"
+    if preferred.is_file():
+        return preferred
+
+    candidates = sorted(workbook_dir.glob(f"*_{locale}.xlsx"))
+    if len(candidates) == 1:
+        return candidates[0]
+    if not candidates:
+        raise UpsertError(f"Workbook not found: {preferred}")
+    raise UpsertError(
+        f"Multiple workbooks found for {locale!r}: "
+        + ", ".join(str(path) for path in candidates)
+    )
 
 
 def worksheet_headers(worksheet: Any) -> dict[str, int]:
@@ -173,21 +232,34 @@ def worksheet_headers(worksheet: Any) -> dict[str, int]:
     return headers
 
 
-def build_payloads(workbook_dir: Path) -> dict[str, dict[str, list[dict[str, Any]]]]:
+def build_payloads(
+    workbook_dir: Path,
+    locales: Iterable[str] = LOCALES,
+    tables: Iterable[str] = tuple(TABLES),
+    expected_counts: Mapping[str, int] = EXPECTED_COUNTS,
+) -> dict[str, dict[str, list[dict[str, Any]]]]:
     try:
         from openpyxl import load_workbook
     except ImportError as exc:
         raise UpsertError("openpyxl is required") from exc
 
+    selected_locales = tuple(locales)
+    selected_tables = tuple(tables)
     payloads: dict[str, dict[str, list[dict[str, Any]]]] = {}
-    for locale in LOCALES:
+    for locale in selected_locales:
         workbook = load_workbook(
             workbook_path(workbook_dir, locale),
             read_only=False,
             data_only=False,
         )
         locale_payload: dict[str, list[dict[str, Any]]] = {}
-        for table, config in TABLES.items():
+        for table in selected_tables:
+            config = TABLES[table]
+            if config["sheet"] not in workbook.sheetnames:
+                raise UpsertError(
+                    f"{workbook_path(workbook_dir, locale).name}: "
+                    f"missing sheet {config['sheet']!r}"
+                )
             worksheet = workbook[config["sheet"]]
             headers = worksheet_headers(worksheet)
             required = {
@@ -258,9 +330,14 @@ def build_payloads(workbook_dir: Path) -> dict[str, dict[str, list[dict[str, Any
                         record[database_field] = parse_boolean(value, location)
                     else:
                         record[database_field] = normalize_cell(value)
+                if table == "procedure_i18n":
+                    validate_procedure_record(
+                        record,
+                        f"{config['sheet']}!row {row_number}",
+                    )
                 rows.append(record)
 
-            expected = EXPECTED_COUNTS[table]
+            expected = expected_counts[table]
             if len(rows) != expected:
                 raise UpsertError(
                     f"{locale} {table}: expected {expected} Complete rows, "
@@ -375,6 +452,47 @@ class SupabaseRest:
                 return all_rows
             offset += page_size
 
+    def select_target_rows(
+        self,
+        table: str,
+        locale: str,
+        id_column: str,
+        ids: Iterable[str],
+        fields: Iterable[str],
+    ) -> list[dict[str, Any]]:
+        """Read only explicitly targeted composite keys for verification."""
+        selected_fields = list(fields)
+        wanted_ids = sorted(set(ids))
+        all_rows: list[dict[str, Any]] = []
+        for id_chunk in chunks(wanted_ids, 100):
+            rows, _ = self.request(
+                "GET",
+                table,
+                {
+                    "select": ",".join(selected_fields),
+                    "locale": f"eq.{locale}",
+                    id_column: f"in.({','.join(id_chunk)})",
+                    "order": f"{id_column}.asc",
+                    "limit": str(len(id_chunk)),
+                },
+            )
+            if not isinstance(rows, list):
+                raise UpsertError(f"{table}: expected an array response")
+            all_rows.extend(rows)
+        # A duplicate composite key indicates corrupt or unexpectedly broad
+        # read-back and must fail before any comparison is trusted.
+        index_rows(all_rows, id_column)
+        return all_rows
+
+    def select_locale_count(
+        self,
+        table: str,
+        locale: str,
+        id_column: str,
+    ) -> int:
+        """Return the total remote row count for a locale without comparing it."""
+        return len(self.select_locale(table, locale, (id_column, "locale")))
+
     def select_parent_ids(
         self,
         table: str,
@@ -474,7 +592,7 @@ def chunks(values: list[Any], size: int) -> Iterable[list[Any]]:
         yield values[start : start + size]
 
 
-def main() -> int:
+def create_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser()
     parser.add_argument("--workbook-dir", required=True)
     parser.add_argument("--audit-dir", required=True)
@@ -484,7 +602,120 @@ def main() -> int:
         help="Perform production upserts; omitted means read-only dry run",
     )
     parser.add_argument("--chunk-size", type=int, default=100)
-    args = parser.parse_args()
+    parser.add_argument(
+        "--locales",
+        nargs="+",
+        choices=SUPPORTED_LOCALES,
+        help=(
+            "Locales to process. Omit to preserve the existing default: "
+            "ru ar id."
+        ),
+    )
+    parser.add_argument(
+        "--tables",
+        nargs="+",
+        choices=tuple(TABLES),
+        help=(
+            "i18n tables to process. Omit to preserve the existing default "
+            "of all three tables."
+        ),
+    )
+    parser.add_argument(
+        "--expected-procedure-count",
+        type=int,
+        help=(
+            "Exact Complete-row count required per selected Procedures "
+            "workbook. This override is allowed only with "
+            "--tables procedure_i18n."
+        ),
+    )
+    return parser
+
+
+def resolve_selection(
+    args: argparse.Namespace,
+) -> tuple[tuple[str, ...], tuple[str, ...], dict[str, int], bool]:
+    locales = tuple(args.locales) if args.locales else LOCALES
+    tables = tuple(args.tables) if args.tables else tuple(TABLES)
+    if len(set(locales)) != len(locales):
+        raise UpsertError("--locales contains duplicate values")
+    if len(set(tables)) != len(tables):
+        raise UpsertError("--tables contains duplicate values")
+
+    expected_counts = dict(EXPECTED_COUNTS)
+    if args.expected_procedure_count is not None:
+        if args.expected_procedure_count < 1:
+            raise UpsertError("--expected-procedure-count must be positive")
+        if tables != ("procedure_i18n",):
+            raise UpsertError(
+                "--expected-procedure-count requires exactly "
+                "--tables procedure_i18n"
+            )
+        expected_counts["procedure_i18n"] = args.expected_procedure_count
+
+    targeted = any(
+        (
+            args.locales is not None,
+            args.tables is not None,
+            args.expected_procedure_count is not None,
+        )
+    )
+    return locales, tables, expected_counts, targeted
+
+
+def validate_payload_composite_keys(
+    payloads: Mapping[str, Mapping[str, list[dict[str, Any]]]],
+    locales: Iterable[str],
+    tables: Iterable[str],
+) -> None:
+    for table in tables:
+        id_column = TABLES[table]["id_column"]
+        seen: set[str] = set()
+        for locale in locales:
+            for row in payloads[locale][table]:
+                key = f"{row[id_column]}|{row['locale']}"
+                if key in seen:
+                    raise UpsertError(f"Duplicate payload composite key {key}")
+                seen.add(key)
+
+
+def target_remote_rows(
+    client: Any,
+    table: str,
+    locale: str,
+    expected: list[dict[str, Any]],
+    targeted: bool,
+) -> list[dict[str, Any]]:
+    config = TABLES[table]
+    fields = list(expected[0])
+    if not targeted:
+        return client.select_locale(table, locale, fields)
+    return client.select_target_rows(
+        table,
+        locale,
+        config["id_column"],
+        (row[config["id_column"]] for row in expected),
+        fields,
+    )
+
+
+def ensure_upserts_are_targeted(
+    rows: list[dict[str, Any]],
+    expected: list[dict[str, Any]],
+    id_column: str,
+) -> None:
+    allowed = set(index_rows(expected, id_column))
+    attempted = set(index_rows(rows, id_column))
+    outside_target = sorted(attempted - allowed)
+    if outside_target:
+        raise UpsertError(
+            f"Refusing to upsert non-target composite keys: "
+            f"{outside_target[:10]}"
+        )
+
+
+def run(args: argparse.Namespace, client: Any | None = None) -> int:
+    locales, tables, expected_counts, targeted = resolve_selection(args)
 
     if args.chunk_size < 1 or args.chunk_size > 500:
         raise UpsertError("--chunk-size must be between 1 and 500")
@@ -492,25 +723,39 @@ def main() -> int:
     workbook_dir = Path(args.workbook_dir).expanduser().resolve()
     audit_dir = Path(args.audit_dir).expanduser().resolve()
     audit_dir.mkdir(parents=True, exist_ok=True)
-    payloads = build_payloads(workbook_dir)
+    payloads = build_payloads(
+        workbook_dir,
+        locales=locales,
+        tables=tables,
+        expected_counts=expected_counts,
+    )
+    validate_payload_composite_keys(payloads, locales, tables)
     generated = {
-        "version": 1,
+        "version": 2,
         "generated_at": utc_now(),
         "workbook_dir": str(workbook_dir),
+        "targeted": targeted,
+        "locales": locales,
+        "tables": tables,
+        "expected_counts": {
+            table: expected_counts[table] for table in tables
+        },
         "payloads": payloads,
     }
     write_json(audit_dir / "upsert_payloads.json", generated)
 
-    client = SupabaseRest()
+    if client is None:
+        client = SupabaseRest()
     parent_ids: dict[str, set[str]] = {}
-    for table, config in TABLES.items():
+    for table in tables:
+        config = TABLES[table]
         parent_ids[table] = client.select_parent_ids(
             config["parent_table"],
             config["parent_key"],
         )
         wanted = {
             row[config["id_column"]]
-            for locale in LOCALES
+            for locale in locales
             for row in payloads[locale][table]
         }
         missing = sorted(wanted - parent_ids[table])
@@ -521,22 +766,58 @@ def main() -> int:
             )
 
     before: dict[str, dict[str, list[dict[str, Any]]]] = {}
-    for locale in LOCALES:
+    remote_total_before_counts: dict[str, dict[str, int]] = {}
+    expected_remote_after_counts: dict[str, dict[str, int]] = {}
+    for locale in locales:
         before[locale] = {}
-        for table, config in TABLES.items():
-            fields = list(payloads[locale][table][0])
-            before[locale][table] = client.select_locale(
+        remote_total_before_counts[locale] = {}
+        expected_remote_after_counts[locale] = {}
+        for table in tables:
+            config = TABLES[table]
+            expected = payloads[locale][table]
+            before[locale][table] = target_remote_rows(
+                client,
                 table,
                 locale,
-                fields,
+                expected,
+                targeted,
+            )
+            if targeted:
+                remote_total_before_counts[locale][table] = (
+                    client.select_locale_count(
+                        table,
+                        locale,
+                        config["id_column"],
+                    )
+                )
+            else:
+                remote_total_before_counts[locale][table] = len(
+                    before[locale][table]
+                )
+            expected_index = index_rows(expected, config["id_column"])
+            before_index = index_rows(
+                before[locale][table],
+                config["id_column"],
+            )
+            missing_target_count = len(set(expected_index) - set(before_index))
+            expected_remote_after_counts[locale][table] = (
+                remote_total_before_counts[locale][table]
+                + missing_target_count
             )
     write_json(
         audit_dir / "remote_before.json",
-        {"captured_at": utc_now(), "rows": before},
+        {
+            "captured_at": utc_now(),
+            "target_rows": before,
+            "remote_total_locale_counts": remote_total_before_counts,
+        },
     )
 
     plan = {
         "mode": "execute" if args.execute else "dry-run",
+        "targeted": targeted,
+        "locales": locales,
+        "tables": tables,
         "generated_at": utc_now(),
         "parent_id_counts": {
             table: len(values) for table, values in parent_ids.items()
@@ -548,13 +829,14 @@ def main() -> int:
             }
             for locale, locale_payload in payloads.items()
         },
-        "remote_before_counts": {
-            locale: {
-                table: len(rows)
-                for table, rows in locale_rows.items()
-            }
+        "target_rows_found_before": {
+            locale: {table: len(rows) for table, rows in locale_rows.items()}
             for locale, locale_rows in before.items()
         },
+        "remote_total_locale_counts_before": remote_total_before_counts,
+        "expected_remote_total_locale_counts_after": (
+            expected_remote_after_counts
+        ),
     }
     write_json(audit_dir / "plan.json", plan)
     print(json.dumps(plan, ensure_ascii=False, indent=2))
@@ -563,11 +845,17 @@ def main() -> int:
         return 0
 
     receipts: list[dict[str, Any]] = []
-    for locale in LOCALES:
-        for table, config in TABLES.items():
+    for locale in locales:
+        for table in tables:
+            config = TABLES[table]
             table_rows = rows_requiring_upsert(
                 payloads[locale][table],
                 before[locale][table],
+                config["id_column"],
+            )
+            ensure_upserts_are_targeted(
+                table_rows,
+                payloads[locale][table],
                 config["id_column"],
             )
             print(
@@ -599,31 +887,71 @@ def main() -> int:
 
     comparisons: dict[str, dict[str, Any]] = {}
     remote_after: dict[str, dict[str, list[dict[str, Any]]]] = {}
-    for locale in LOCALES:
+    remote_total_after_counts: dict[str, dict[str, int]] = {}
+    remote_total_count_checks: dict[str, dict[str, dict[str, Any]]] = {}
+    for locale in locales:
         comparisons[locale] = {}
         remote_after[locale] = {}
-        for table, config in TABLES.items():
+        remote_total_after_counts[locale] = {}
+        remote_total_count_checks[locale] = {}
+        for table in tables:
+            config = TABLES[table]
             expected = payloads[locale][table]
-            fields = list(expected[0])
-            actual = client.select_locale(table, locale, fields)
+            actual = target_remote_rows(
+                client,
+                table,
+                locale,
+                expected,
+                targeted,
+            )
             remote_after[locale][table] = actual
             comparisons[locale][table] = compare_rows(
                 expected,
                 actual,
                 config["id_column"],
             )
+            if targeted:
+                actual_total_count = client.select_locale_count(
+                    table,
+                    locale,
+                    config["id_column"],
+                )
+            else:
+                actual_total_count = len(actual)
+            remote_total_after_counts[locale][table] = actual_total_count
+            expected_total_count = expected_remote_after_counts[locale][table]
+            remote_total_count_checks[locale][table] = {
+                "before": remote_total_before_counts[locale][table],
+                "expected_after": expected_total_count,
+                "actual_after": actual_total_count,
+                "matches": actual_total_count == expected_total_count,
+            }
     write_json(
         audit_dir / "remote_after.json",
-        {"captured_at": utc_now(), "rows": remote_after},
+        {
+            "captured_at": utc_now(),
+            "target_rows": remote_after,
+            "remote_total_locale_counts": remote_total_after_counts,
+        },
+    )
+    target_rows_match = all(
+        result["matches"]
+        for locale_result in comparisons.values()
+        for result in locale_result.values()
+    )
+    remote_total_counts_match = all(
+        result["matches"]
+        for locale_result in remote_total_count_checks.values()
+        for result in locale_result.values()
     )
     report = {
         "verified_at": utc_now(),
+        "targeted": targeted,
         "comparisons": comparisons,
-        "all_match": all(
-            result["matches"]
-            for locale_result in comparisons.values()
-            for result in locale_result.values()
-        ),
+        "remote_total_count_checks": remote_total_count_checks,
+        "target_rows_match": target_rows_match,
+        "remote_total_counts_match": remote_total_counts_match,
+        "all_match": target_rows_match and remote_total_counts_match,
     }
     write_json(audit_dir / "verification.json", report)
     if not report["all_match"]:
@@ -632,6 +960,10 @@ def main() -> int:
         )
     print("Production upsert and exact read-back verification succeeded.")
     return 0
+
+
+def main() -> int:
+    return run(create_parser().parse_args())
 
 
 if __name__ == "__main__":

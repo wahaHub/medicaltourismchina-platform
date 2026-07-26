@@ -105,7 +105,7 @@ describe("SEO public entrypoints", () => {
     ).toBe(true);
   });
 
-  it("prerenders localized procedure detail pages for every completed locale", () => {
+  it("prerenders localized procedure pages and hydrates API-backed alternates", () => {
     const prerender = fs.readFileSync(
       path.join(PROJECT_ROOT, "scripts/prerender-seo.mjs"),
       "utf8",
@@ -125,7 +125,9 @@ describe("SEO public entrypoints", () => {
       "title: getProcedureSeoTitle(procedure.name, pageLocale)",
     );
     expect(procedureDetail).toContain(
-      "? INDEXABLE_PROCEDURE_LOCALES",
+      "apiData.meta.available_locales",
     );
+    expect(procedureDetail).toContain("availableLocales,");
+    expect(procedureDetail).not.toContain("INDEXABLE_PROCEDURE_LOCALES");
   });
 });

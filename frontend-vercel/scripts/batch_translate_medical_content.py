@@ -53,12 +53,53 @@ DEFAULT_MODEL = "gpt-5.6-terra"
 DEFAULT_ENDPOINT = "/v1/chat/completions"
 DEFAULT_LANGUAGES = ("ru", "ar", "id")
 DEFAULT_SHEET = "Procedures"
+SUPPORTED_SOURCE_LOCALES = {"en", "zh"}
+SOURCE_LANGUAGE_NAMES = {
+    "en": "English",
+    "zh": "Simplified Chinese",
+}
 HEADER_ROW = 3
 DATA_START_ROW = 4
 TERMINAL_BATCH_STATUSES = {"completed", "failed", "expired", "cancelled"}
 RUNNING_BATCH_STATUSES = {"validating", "in_progress", "finalizing", "cancelling"}
 
 LANGUAGES: dict[str, dict[str, str]] = {
+    "en": {
+        "english_name": "English",
+        "native_name": "English",
+        "style": (
+            "Use clear international English written for patients. Use established "
+            "clinical terminology, expand uncommon abbreviations on first use when "
+            "the source provides the expanded term, and avoid marketing language."
+        ),
+    },
+    "es": {
+        "english_name": "Spanish",
+        "native_name": "Español",
+        "style": (
+            "Use neutral international Spanish written for patients. Use established "
+            "medical terminology understood across Spanish-speaking regions and avoid "
+            "unnecessary regionalisms."
+        ),
+    },
+    "fr": {
+        "english_name": "French",
+        "native_name": "Français",
+        "style": (
+            "Use clear international French written for patients. Use established "
+            "French clinical terminology and natural sentence structure rather than "
+            "literal source-language phrasing."
+        ),
+    },
+    "de": {
+        "english_name": "German",
+        "native_name": "Deutsch",
+        "style": (
+            "Use clear standard German written for patients. Use established German "
+            "clinical terminology, natural compound nouns, and a formal but accessible "
+            "tone."
+        ),
+    },
     "ru": {
         "english_name": "Russian",
         "native_name": "Русский",
@@ -157,6 +198,7 @@ class WorkbookRow:
     target_locale: str
     source: dict[str, Any]
     copied: dict[str, Any]
+    locked_targets: dict[str, Any]
     source_hash: str
 
 
@@ -309,7 +351,38 @@ def parse_source_field(field: str, value: Any, context: str) -> Any:
         raise TranslationError(f"{context}: invalid {field}: {exc}") from exc
     if not isinstance(parsed, (dict, list)):
         raise TranslationError(f"{context}: {field} must be a JSON object or array")
+    if not parsed:
+        raise TranslationError(f"{context}: {field} must not be empty")
     return parsed
+
+
+def normalize_copied_field(field: str, value: Any) -> Any:
+    if field != "cost_usd" or not isinstance(value, str):
+        return value
+    match = re.fullmatch(
+        r"\s*约\s*¥\s*([\d,]+(?:\.\d+)?)\s*（估算）\s*",
+        value,
+    )
+    if not match:
+        return value
+    return f"CNY {match.group(1)}"
+
+
+def parse_locked_target_fields(value: Any, context: str) -> set[str]:
+    if value is None or str(value).strip() == "":
+        return set()
+    fields = {
+        field.strip()
+        for field in str(value).split(",")
+        if field.strip()
+    }
+    unsupported = sorted(fields - set(TRANSLATABLE_FIELDS))
+    if unsupported:
+        raise TranslationError(
+            f"{context}: locked_target_fields contains unsupported fields: "
+            + ", ".join(unsupported)
+        )
+    return fields
 
 
 def row_matches(
@@ -373,9 +446,10 @@ def extract_rows(
 
         if not entity_id:
             raise TranslationError(f"{context}: entity_id is empty")
-        if source_locale != "en":
+        if source_locale not in SUPPORTED_SOURCE_LOCALES:
             raise TranslationError(
-                f"{context}: expected source_locale 'en', found {source_locale!r}"
+                f"{context}: unsupported source_locale {source_locale!r}; "
+                f"choose from {sorted(SUPPORTED_SOURCE_LOCALES)}"
             )
         if target_locale not in LANGUAGES:
             raise TranslationError(
@@ -384,6 +458,7 @@ def extract_rows(
 
         source: dict[str, Any] = {}
         copied: dict[str, Any] = {}
+        locked_targets: dict[str, Any] = {}
         for field in TRANSLATABLE_FIELDS:
             value = worksheet.cell(
                 row_number, headers[f"source_{field}"]
@@ -391,15 +466,41 @@ def extract_rows(
             parsed = parse_source_field(field, value, context)
             if parsed is not None:
                 source[field] = parsed
+        locked_fields = parse_locked_target_fields(
+            worksheet.cell(
+                row_number,
+                headers["locked_target_fields"],
+            ).value
+            if "locked_target_fields" in headers
+            else None,
+            context,
+        )
+        for field in locked_fields:
+            value = worksheet.cell(
+                row_number,
+                headers[f"target_{field}"],
+            ).value
+            parsed = parse_source_field(field, value, context)
+            if parsed is None:
+                raise TranslationError(
+                    f"{context}: target_{field} is blank but the field is locked"
+                )
+            locked_targets[field] = parsed
         for field in COPY_FIELDS:
             value = worksheet.cell(
                 row_number, headers[f"source_{field}"]
             ).value
             if value is not None:
-                copied[field] = value
+                copied[field] = normalize_copied_field(field, value)
 
-        if not source:
-            raise TranslationError(f"{context}: no populated source fields")
+        missing_source_fields = [
+            field for field in TRANSLATABLE_FIELDS if field not in source
+        ]
+        if missing_source_fields:
+            raise TranslationError(
+                f"{context}: incomplete procedure source; missing "
+                + ", ".join(missing_source_fields)
+            )
 
         source_identity = {
             "entity_id": entity_id,
@@ -408,6 +509,7 @@ def extract_rows(
             "target_locale": target_locale,
             "source": source,
             "copied": copied,
+            "locked_targets": locked_targets,
         }
         rows.append(
             WorkbookRow(
@@ -420,6 +522,7 @@ def extract_rows(
                 target_locale=target_locale,
                 source=source,
                 copied=copied,
+                locked_targets=locked_targets,
                 source_hash=sha256_json(source_identity),
             )
         )
@@ -430,11 +533,12 @@ def extract_rows(
     return rows
 
 
-def build_system_prompt(locale: str) -> str:
+def build_system_prompt(locale: str, source_locale: str = "en") -> str:
     language = LANGUAGES[locale]
+    source_language = SOURCE_LANGUAGE_NAMES[source_locale]
     return f"""You are a senior medical translator for an international patient platform.
 
-Translate the supplied English medical procedure content into {language["english_name"]} ({language["native_name"]}).
+Translate the supplied {source_language} medical procedure content into {language["english_name"]} ({language["native_name"]}).
 
 Rules:
 1. Return exactly one valid JSON object and no surrounding prose or Markdown.
@@ -443,7 +547,7 @@ Rules:
 4. Preserve numbers, ranges, units, currency amounts, dates, and HTML. In the procedure name, preserve every Latin-script medical acronym exactly. In body copy, preserve procedure, device, therapy, and biomarker acronyms (for example ICD, MUS, PPV, TRUS, HLA, and VEGF). Common diagnostic modality acronyms such as CT, MRI, ECG, EEG, PET, SPECT, US, or USG may use the standard localized form. Translate the surrounding expanded term. Preserve hospital, university, organization, product, and brand entity names unless a standard target-language form exists.
 5. For faqs_json, the object keys are patient-facing questions: translate both each question key and its answer value while preserving the number of FAQ entries.
 6. For surgery_steps_json and recovery_steps_json, preserve structural keys such as "steps", "step", "text", and "guidance", preserve step numbers and list length, and translate human-readable "text" and "guidance" values.
-7. Never return the English source as a fallback. If a phrase is normally retained in English, keep it only where professionally appropriate.
+7. Never return the source language as a fallback. If a phrase is normally retained in the source language, keep it only where professionally appropriate.
 8. Maintain a neutral, medically responsible tone. Do not introduce treatment promises, success rates, comparative claims, or personalized medical advice.
 9. {language["style"]}
 """
@@ -455,7 +559,10 @@ def build_request_body(row: WorkbookRow, model: str) -> dict[str, Any]:
         "messages": [
             {
                 "role": "system",
-                "content": build_system_prompt(row.target_locale),
+                "content": build_system_prompt(
+                    row.target_locale,
+                    row.source_locale,
+                ),
             },
             {
                 "role": "user",
@@ -555,6 +662,7 @@ def prepare_run(args: argparse.Namespace) -> dict[str, Any]:
             "target_locale": row.target_locale,
             "source": row.source,
             "copied": row.copied,
+            "locked_targets": row.locked_targets,
             "source_hash": row.source_hash,
             "expected_fields": list(row.source.keys()),
         }
@@ -944,12 +1052,42 @@ def language_signal(locale: str, value: Any) -> bool:
         return bool(re.search(r"[А-Яа-яЁё]", text))
     if locale == "ar":
         return bool(re.search(r"[\u0600-\u06FF]", text))
-    if locale == "id":
-        # Indonesian shares the Latin script with English. For a full procedure
-        # record, requiring at least one changed alphabetic text value is a safer
-        # automated signal than guessing vocabulary.
+    if locale in {"en", "es", "fr", "de", "id"}:
+        # These languages share the Latin script. Substantial unchanged-source
+        # checks below provide the stronger guard when the source is also Latin.
         return bool(re.search(r"[A-Za-z]", text))
     return False
+
+
+def numeric_tokens(value: Any) -> list[str]:
+    text = " ".join(flatten_text(value))
+    digit_translation = str.maketrans(
+        "٠١٢٣٤٥٦٧٨٩۰۱۲۳۴۵۶۷۸۹",
+        "01234567890123456789",
+    )
+    normalized = text.translate(digit_translation)
+    return [
+        re.sub(r"[,٫،]", ".", token)
+        for token in re.findall(r"\d+(?:[.,٫،]\d+)?", normalized)
+    ]
+
+def localized_number_count(locale: str, token: str, value: Any) -> int:
+    if token != "1":
+        return 0
+    text = " ".join(flatten_text(value))
+    patterns = {
+        "en": r"\bone\b",
+        "es": r"\b(?:un|una|uno)\b",
+        "fr": r"\b(?:un|une)\b",
+        "de": r"\b(?:ein|eine|einen|einem|einer|eines)\b",
+        "ru": r"\b(?:один|одна|одно|одну)\b",
+        "ar": r"(?:واحد(?:ة|اً)?|إحدى)",
+        "id": r"\bsatu\b",
+    }
+    pattern = patterns.get(locale)
+    if not pattern:
+        return 0
+    return len(re.findall(pattern, text, flags=re.IGNORECASE))
 
 
 def validate_translation(
@@ -958,6 +1096,7 @@ def validate_translation(
 ) -> list[str]:
     source = entry["source"]
     locale = entry["target_locale"]
+    locked_fields = set(entry.get("locked_targets", {}))
     errors: list[str] = []
 
     if not isinstance(translated, dict):
@@ -996,7 +1135,27 @@ def validate_translation(
             and target_value.strip() == source_value.strip()
         ):
             errors.append(f"{field}: substantial text is unchanged from source")
-        if field == "name" and target_value is not None:
+        source_numbers = numeric_tokens(source_value)
+        target_numbers = numeric_tokens(target_value)
+        missing_numbers = sorted(
+            token
+            for token in set(source_numbers)
+            if (
+                target_numbers.count(token)
+                + localized_number_count(locale, token, target_value)
+                < source_numbers.count(token)
+            )
+        )
+        if missing_numbers:
+            errors.append(
+                f"{field}: numeric tokens were not preserved: "
+                + ", ".join(missing_numbers)
+            )
+        if (
+            field == "name"
+            and field not in locked_fields
+            and target_value is not None
+        ):
             target_text = " ".join(flatten_text(target_value))
             for acronym in sorted(extract_acronyms(source_value)):
                 if acronym not in MANDATORY_NAME_ACRONYMS:
@@ -1010,6 +1169,18 @@ def validate_translation(
                     )
 
     return errors
+
+
+def merge_locked_targets(
+    translated: Any,
+    locked_targets: Mapping[str, Any],
+) -> Any:
+    if not isinstance(translated, dict):
+        return translated
+    return {
+        **translated,
+        **locked_targets,
+    }
 
 
 def verify_source_unchanged(
@@ -1151,6 +1322,10 @@ def collect_run(run_dir: Path) -> dict[str, Any]:
         try:
             content = extract_chat_content(result)
             translated = json.loads(content)
+            translated = merge_locked_targets(
+                translated,
+                entry.get("locked_targets", {}),
+            )
             errors = validate_translation(entry, translated)
         except (TranslationError, json.JSONDecodeError) as exc:
             translated = None

@@ -96,4 +96,22 @@ describe("setPageSeo", () => {
       "https://www.medicaltourismchina.health/id/telemedicine",
     );
   });
+
+  it("maps the API zh locale to zh-Hans hreflang in the frontend", () => {
+    window.history.replaceState({}, "", "/zh/procedures/valve-replacement");
+
+    setPageSeo({
+      title: "瓣膜置换",
+      description: "手术介绍",
+      path: "/procedures/valve-replacement",
+      availableLocales: ["en", "zh"],
+    });
+
+    expect(
+      document.querySelector('link[hreflang="zh-Hans"]')?.getAttribute("href"),
+    ).toBe(
+      "https://www.medicaltourismchina.health/zh/procedures/valve-replacement",
+    );
+    expect(document.querySelector('link[hreflang="zh"]')).toBeNull();
+  });
 });

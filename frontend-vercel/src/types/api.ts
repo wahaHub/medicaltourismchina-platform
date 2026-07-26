@@ -4,6 +4,7 @@ export interface ApiResponse<T> {
   meta: {
     requested_locale: string;
     resolved_locale: string;
+    available_locales?: string[];
     total?: number;
     total_departments?: number;
     total_diseases?: number;

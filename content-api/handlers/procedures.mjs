@@ -5,6 +5,10 @@ import { supa } from '../config/supabase.mjs'
 import { json } from '../utils/response.mjs'
 import { normalizeLocale } from '../utils/locale.mjs'
 import { getQuery, getRequestedLocale } from '../utils/query.mjs'
+import {
+  fetchAvailableProcedureLocales,
+  fetchProcedureListCompleteness,
+} from '../utils/procedure-locales.mjs'
 
 const LOW_MEDIA_BASE = `${(process.env.PUBLIC_MEDIA_BASE_URL || 'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev').replace(/\/+$/, '')}/low`
 const debugLog = (...args) => {
@@ -101,6 +105,20 @@ export const getProcedureBySlug = async (event) => {
     }
     return json(400, { error: error.message })
   }
+
+  const {
+    locales: availableLocales,
+    error: availableLocalesError,
+  } = await fetchAvailableProcedureLocales({
+    client: supa,
+    procedure: data,
+  })
+
+  if (availableLocalesError) {
+    debugLog(
+      `[DEBUG] Unable to load procedure locales for ${data.id}: ${availableLocalesError.message}`,
+    )
+  }
   
   // Transform data to include image URLs and maintain backward compatibility
   const transformedData = {
@@ -123,6 +141,7 @@ export const getProcedureBySlug = async (event) => {
     meta: {
       requested_locale: requestedLocale,
       resolved_locale: resolved || locale,
+      available_locales: availableLocales,
       total: 1,
       generated_at: new Date().toISOString()
     }
@@ -130,7 +149,7 @@ export const getProcedureBySlug = async (event) => {
 }
 
 // Get procedures list with disease filtering support
-export const getProcedures = async (event) => {
+export const createGetProcedures = (client = supa) => async (event) => {
   const q = getQuery(event)
   // Use query param if present; fallback to Accept-Language; then default en
   const requestedLocale = getRequestedLocale(event, 'en')
@@ -139,10 +158,16 @@ export const getProcedures = async (event) => {
   const limit = parseInt(q.limit || '24')
   const offset = parseInt(q.offset || '0')
   const diseaseId = q.disease_id
+  const seoMode = q.seo === '1'
   
-  const baseQuery = () => supa
+  const baseQuery = () => client
     .from('v_procedure_list')
-    .select('*', { count: 'exact' })
+    .select(
+      seoMode
+        ? 'id,slug,locale,name,waiting_time,stay_in_china,surgery_detailed_description,when_is_needed'
+        : '*',
+      { count: 'exact' },
+    )
     
   let data, error, count, resolved = null
   for (const loc of localeCandidates) {
@@ -160,8 +185,31 @@ export const getProcedures = async (event) => {
   if (error) return json(400, { error: error.message })
   
   // Transform data to include image URLs and maintain backward compatibility
+  const {
+    enabled: procedureCompletenessEnabled,
+    procedureIds: completeProcedureIds,
+    error: completeProcedureIdsError,
+  } = await fetchProcedureListCompleteness({
+    client,
+    procedureIds: (data || []).map((item) => item.id),
+    locale: resolved || locale,
+    seoMode,
+  })
+
+  if (completeProcedureIdsError) {
+    debugLog(
+      `[DEBUG] Unable to load procedure content completeness for ${resolved || locale}: ${completeProcedureIdsError.message}`,
+    )
+    return json(500, {
+      error: 'Unable to verify procedure content completeness',
+    })
+  }
+
   const transformedData = data?.map(item => ({
     ...item,
+    ...(procedureCompletenessEnabled
+      ? { content_complete: completeProcedureIds.has(item.id) }
+      : {}),
     // Maintain backward compatibility with single disease_id field
     disease_id: item.primary_disease_id || (item.associated_diseases?.[0]?.disease_id || null),
     
@@ -190,6 +238,8 @@ export const getProcedures = async (event) => {
     }
   })
 }
+
+export const getProcedures = createGetProcedures()
 
 // Get procedures by disease (support for many-to-many relationship)
 export const getProceduresByDisease = async (event) => {
