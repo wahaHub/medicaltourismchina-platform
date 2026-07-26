@@ -11,6 +11,7 @@ import {
   isResolvedProcedureLocale,
   isIndexableProcedureTranslation,
 } from "../seo/procedure-indexability.mjs";
+import { isHospitalExcludedFromSeo } from "../seo/hospital-indexability.mjs";
 
 const PROJECT_ROOT = path.resolve(import.meta.dirname, "..");
 const DIST_DIR = path.join(PROJECT_ROOT, "dist");
@@ -81,16 +82,6 @@ const LOCAL_TREATMENT_DETAILS = {
 };
 
 const ENGLISH_SEO_LANDINGS = {
-  "/why-china": {
-    title: "Why Choose China for Medical Care | Medora Health",
-    description: "Understand the medical expertise, hospital capacity, technology, costs, travel planning, and patient support available in China.",
-    heading: "Why consider China for medical care?",
-  },
-  "/faq": {
-    title: "China Medical Travel FAQ | Medora Health",
-    description: "Answers about choosing a hospital, preparing medical records, treatment estimates, visas, travel, interpretation, recovery, and follow-up in China.",
-    heading: "Frequently asked questions about China medical travel",
-  },
   "/cosmetic-surgery": {
     title: "Cosmetic Surgery in China | Medora Health",
     description: "Explore cosmetic surgery options, provider selection, treatment planning, costs, travel, and follow-up considerations in China.",
@@ -453,7 +444,14 @@ async function makeRemotePages() {
 
   for (const locale of indexableContentLocales) {
     const rows = await fetchPaginated("/hospitals", locale, 200);
-    hospitalRowsByLocale.set(locale, new Map(rows.map((row) => [row.slug, row])));
+    hospitalRowsByLocale.set(
+      locale,
+      new Map(
+        rows
+          .filter((row) => !isHospitalExcludedFromSeo(row))
+          .map((row) => [row.slug, row]),
+      ),
+    );
   }
 
   const hospitalSlugs = new Set(

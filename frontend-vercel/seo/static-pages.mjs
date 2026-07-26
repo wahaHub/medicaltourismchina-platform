@@ -141,7 +141,7 @@ export const STATIC_PAGE_METADATA = {
   },
   treatment: {
     path: "/treatment",
-    indexableLocales: ["en", "zh", "es", "fr", "de"],
+    indexableLocales: ["en", "zh", "es", "fr", "de", "ru", "ar", "id"],
     locales: {
       en: {
         title: "Medical Treatments in China | Medora Health",

@@ -4,6 +4,7 @@ import { json, redirect } from '../utils/response.mjs'
 import { normalizeLocale } from '../utils/locale.mjs'
 import { getQuery, getRequestedLocale } from '../utils/query.mjs'
 import { appendQueryString, createHospitalSlugResolver } from '../utils/hospital-slug-resolution.mjs'
+import { EXCLUDED_PUBLIC_HOSPITAL_IDS } from '../utils/hospital-visibility.mjs'
 
 const debugLog = (...args) => {
   if (process.env.DEBUG_LOGS === 'true') console.log(...args)
@@ -65,6 +66,11 @@ const sortHospitalsByOwnershipPriority = (hospitals = []) =>
 
 const UUID_REGEX = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i
 const resolveHospitalSlug = createHospitalSlugResolver({ supa })
+const excludeNonPublicHospitalIds = (query) =>
+  EXCLUDED_PUBLIC_HOSPITAL_IDS.reduce(
+    (currentQuery, hospitalId) => currentQuery.neq('id', hospitalId),
+    query,
+  )
 
 const hospitalRedirect = (event, status, path) => redirect(status, appendQueryString(path, event))
 
@@ -77,22 +83,26 @@ export const buildHospitalSlugRedirectResponse = (event, resolution, suffix = ''
 }
 
 const findHospitalDetail = async (identifier, locale, select = '*') => {
-  const bySlug = await supa
-    .from('v_hospital_details')
-    .select(select)
-    .eq('slug', identifier)
-    .eq('locale', locale)
+  const bySlug = await excludeNonPublicHospitalIds(
+    supa
+      .from('v_hospital_details')
+      .select(select)
+      .eq('slug', identifier)
+      .eq('locale', locale),
+  )
     .single()
 
   if (bySlug.data || bySlug.error?.code !== 'PGRST116' || !UUID_REGEX.test(identifier)) {
     return bySlug
   }
 
-  return supa
-    .from('v_hospital_details')
-    .select(select)
-    .eq('id', identifier)
-    .eq('locale', locale)
+  return excludeNonPublicHospitalIds(
+    supa
+      .from('v_hospital_details')
+      .select(select)
+      .eq('id', identifier)
+      .eq('locale', locale),
+  )
     .single()
 }
 
@@ -602,11 +612,13 @@ export const getHospitals = async (event) => {
   debugLog('Query params:', q)
   debugLog('Parsed limit:', limit, 'offset:', offset)
   
-  let query = supa
-    .from('v_hospital_summary')
-    .select('*', { count: 'exact' })
-    .eq('locale', locale)
-    .eq('status', 'approved')
+  let query = excludeNonPublicHospitalIds(
+    supa
+      .from('v_hospital_summary')
+      .select('*', { count: 'exact' })
+      .eq('locale', locale)
+      .eq('status', 'approved'),
+  )
   
   // 按城市筛选 - 直接使用英文城市名筛选
   if (city) {

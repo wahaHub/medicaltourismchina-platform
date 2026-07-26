@@ -1,6 +1,6 @@
 
 import { useState } from "react";
-import { Menu, X, Heart, Package, Hospital, Shield, MapPin, Search, Home, FileText, Stethoscope } from "lucide-react";
+import { Menu, X, Heart, Package, Hospital, Search, Home, FileText, Stethoscope } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { Link, useLocation } from "react-router-dom";
 import { useLanguage } from "@/contexts/LanguageContext";
@@ -16,7 +16,6 @@ const MainNavigation = () => {
     if (path === '/treatment' && currentPath === '/treatment') return true;
     if (path === '/search' && currentPath === '/search') return true;
     if (path === '/packages' && currentPath === '/packages') return true;
-    if (path === '/insurance' && currentPath === '/insurance') return true;
     if (path === '/visa' && currentPath === '/visa') return true;
     if (path === '/dashboard' && currentPath === '/dashboard') return true;
     if (path.startsWith('#')) return false;
@@ -31,9 +30,7 @@ const MainNavigation = () => {
     { name: t("nav.treatment"), href: "/treatment", icon: <Heart className="h-5 w-5" /> },
     { name: t("nav.packages"), href: "/packages", icon: <Package className="h-5 w-5" /> },
     { name: t("nav.hospitals"), href: "/hospitals", icon: <Hospital className="h-5 w-5" /> },
-    { name: t("nav.insurance"), href: "/insurance", icon: <Shield className="h-5 w-5" /> },
     { name: t("nav.visa"), href: "/visa", icon: <FileText className="h-5 w-5" /> },
-    { name: t("nav.whyChina"), href: "/why-china", icon: <MapPin className="h-5 w-5" /> },
   ];
 
   return (

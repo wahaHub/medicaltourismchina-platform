@@ -21,7 +21,7 @@ const TEAL_TINT = "rgba(20, 184, 166, 0.08)";
 const TEAL_BORDER = "rgba(20, 184, 166, 0.18)";
 const BLUE_TINT = "rgba(15, 99, 142, 0.08)";
 const BLUE_BORDER = "rgba(15, 99, 142, 0.16)";
-const SERVICE_PACKAGE_HREF = "/health-packages";
+const SERVICE_PACKAGE_HREF = "/packages";
 
 const STEP_IMAGES = [
   journeyStep1,
@@ -345,7 +345,7 @@ export default function PackagesJourneySteps() {
                   {step === 5 && (
                     <p className={stepBodyClass} style={{ color: BODY_COPY }}>
                       {t("journeySteps.step5.bodyBefore")}
-                      <InlineLink to="/why-china">{t("journeySteps.step5.linkTravel")}</InlineLink>
+                      <InlineLink href={PRE_DEPARTURE_GUIDE_URL}>{t("journeySteps.step5.linkTravel")}</InlineLink>
                       {t("journeySteps.step5.bodyAfter")}
                     </p>
                   )}

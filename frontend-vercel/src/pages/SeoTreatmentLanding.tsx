@@ -35,9 +35,8 @@ const landingContent: Record<string, LandingConfig> = {
     heroImage: `${TREATMENT_IMAGE_BASE}/comprehensive-cosmetic-surgery_x2.png`,
     procedures: [
       { label: "Comprehensive Cosmetic Surgery", href: "/featured-treatments/comprehensive-cosmetic-surgery" },
-      { label: "Rhinoplasty", href: "/rhinoplasty" },
-      { label: "Double Eyelid Surgery", href: "/double-eyelid-surgery" },
-      { label: "Facial Liposuction", href: "/facial-liposuction" },
+      { label: "Browse Cosmetic Procedures", href: "/search" },
+      { label: "Free Treatment Quote", href: "/free-quote" },
     ],
   },
   cancer: {
@@ -62,8 +61,8 @@ const landingContent: Record<string, LandingConfig> = {
     canonicalPath: "/dental-treatment",
     heroImage: `${TREATMENT_IMAGE_BASE}/all-on-4-6-dental-implants_x2.png`,
     procedures: [
-      { label: "Hollywood Smile Veneers", href: "/hollywood-smile-veneers" },
       { label: "All-on-4/6 Dental Implants", href: "/featured-treatments/all-on-4-6-dental-implants" },
+      { label: "Browse Dental Procedures", href: "/search" },
       { label: "Free Treatment Quote", href: "/free-quote" },
     ],
   },

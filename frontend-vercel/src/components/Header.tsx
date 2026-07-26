@@ -14,18 +14,14 @@ const navLinks = [
   { label: "TREATMENT PACKAGES", labelKey: "nav.packages", href: "/packages" },
   { label: "HOSPITALS", labelKey: "nav.hospitals", href: "/hospitals" },
   { label: "VISA & TRAVEL", labelKey: "nav.visa", href: "/visa" },
-  { label: "WHY CHINA", labelKey: "nav.whyChina", href: "/why-china" },
 ];
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isConsultationModalOpen, setIsConsultationModalOpen] = useState(false);
   const location = useLocation();
-  const { currentLanguage, t } = useLanguage();
-  const visibleNavLinks =
-    currentLanguage.code === "ar" || currentLanguage.code === "id"
-      ? navLinks.filter((link) => link.href !== "/why-china")
-      : navLinks;
+  const { t } = useLanguage();
+  const visibleNavLinks = navLinks;
 
   const isActive = (href: string) => {
     if (href === "/") {

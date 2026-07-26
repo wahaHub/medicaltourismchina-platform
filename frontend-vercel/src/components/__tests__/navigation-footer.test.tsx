@@ -58,7 +58,7 @@ afterEach(() => {
 });
 
 describe("Header", () => {
-  it("does not render the insurance navigation link", () => {
+  it("does not render retired navigation links", () => {
     render(
       <MemoryRouter initialEntries={["/"]}>
         <Header />
@@ -66,13 +66,14 @@ describe("Header", () => {
     );
 
     expect(screen.queryByRole("link", { name: "INSURANCE" })).toBeNull();
+    expect(screen.queryByRole("link", { name: "WHY CHINA" })).toBeNull();
     expect(screen.getAllByRole("link", { name: "STEPS" }).length).toBeGreaterThan(0);
     expect(screen.getAllByRole("link", { name: "VISA" }).length).toBeGreaterThan(0);
   });
 });
 
 describe("Footer", () => {
-  it("renders the updated packages, resources, and work-with-us sections", () => {
+  it("renders current footer links without retired page links", () => {
     render(
       <MemoryRouter>
         <Footer />
@@ -84,15 +85,12 @@ describe("Footer", () => {
     expect(screen.getByText("Partner Tourism Packages")).toBeTruthy();
 
     expect(screen.getByRole("heading", { name: "Resources" })).toBeTruthy();
-    expect(screen.getByRole("link", { name: "FAQ" }).getAttribute("href")).toBe("/faq");
+    expect(screen.queryByRole("link", { name: "FAQ" })).toBeNull();
     expect(screen.getByRole("link", { name: "Visa Information" }).getAttribute("href")).toBe("/visa");
     expect(screen.getByRole("link", { name: "Pre-Departure Patient Guidelines" }).getAttribute("href")).toBe("https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev/documents/pre-departure-guide.pdf");
     expect(screen.getByRole("link", { name: "Patient Stories" }).getAttribute("href")).toBe("/#testimonials");
 
-    expect(screen.getByRole("heading", { name: "Work With Us" })).toBeTruthy();
-    expect(screen.getByRole("link", { name: "For Hospitals & Clinics" }).getAttribute("href")).toBe("/work-with-us#hospitals");
-    expect(screen.getByRole("link", { name: "For Referal Partners" }).getAttribute("href")).toBe("/work-with-us#referral-partners");
-    expect(screen.getByRole("link", { name: "For Travel & Services Partners" }).getAttribute("href")).toBe("/work-with-us#travel-services");
+    expect(screen.queryByRole("heading", { name: "Work With Us" })).toBeNull();
     expect(screen.getByRole("link", { name: "+86 17723081247" }).getAttribute("href")).toBe(
       "https://wa.me/8617723081247",
     );

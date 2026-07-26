@@ -62,16 +62,9 @@ const Footer = () => {
   ];
 
   const resourceLinks: FooterLinkItem[] = [
-    { key: "footer.faq", href: "/faq" },
     { key: "footer.visaInformation", href: "/visa" },
     { key: "footer.patientGuide", href: PRE_DEPARTURE_GUIDE_URL, external: true, download: true },
     { key: "footer.patientStories", href: "/#testimonials" },
-  ];
-
-  const workWithUsLinks: FooterLinkItem[] = [
-    { key: "footer.forHospitals", href: "/work-with-us#hospitals" },
-    { key: "footer.forReferralPartners", href: "/work-with-us#referral-partners" },
-    { key: "footer.forTravelPartners", href: "/work-with-us#travel-services" },
   ];
 
   const renderFooterItem = (item: FooterLinkItem) => {
@@ -135,7 +128,7 @@ const Footer = () => {
   return (
     <footer className="bg-gray-900 text-white pt-16 pb-6" id="contact">
       <div className="container mx-auto px-4">
-        <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
+        <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4">
           {/* About Column */}
           <div>
             <h3 className="text-xl font-bold mb-4">{t('footer.aboutUs')}</h3>
@@ -173,16 +166,6 @@ const Footer = () => {
             <h3 className="text-xl font-bold mb-4">{t('footer.resources')}</h3>
             <ul className="space-y-2">
               {resourceLinks.map((item) => (
-                <li key={item.key}>{renderFooterItem(item)}</li>
-              ))}
-            </ul>
-          </div>
-
-          {/* Work With Us Column */}
-          <div>
-            <h3 className="text-xl font-bold mb-4">{t('footer.workWithUs')}</h3>
-            <ul className="space-y-2">
-              {workWithUsLinks.map((item) => (
                 <li key={item.key}>{renderFooterItem(item)}</li>
               ))}
             </ul>

@@ -12,11 +12,23 @@ const LIMITED_PUBLIC_PATHS = new Set([
   "/packages",
   "/hospitals",
   "/visa",
-  "/work-with-us",
 ]);
 const LIMITED_PUBLIC_DYNAMIC_PATHS = [
   /^\/procedures\/[^/]+$/,
 ];
+const RETIRED_PUBLIC_PATHS = new Set([
+  "/health-packages",
+  "/hollywood-smile-veneers",
+  "/rhinoplasty",
+  "/double-eyelid-surgery",
+  "/facial-liposuction",
+  "/bariatric-surgery",
+  "/insurance",
+  "/faq",
+  "/work-with-us",
+  "/why-china",
+  "/hospitals/ceshi-logs",
+]);
 
 type SlugResolution =
   | { type: "canonical"; slug?: string }
@@ -31,12 +43,44 @@ export const config = {
     "/id/:path*",
     "/hospitals/:path*",
     "/:locale(zh|es|fr|de|ru)/hospitals/:path*",
+    "/:retired(health-packages|hollywood-smile-veneers|rhinoplasty|double-eyelid-surgery|facial-liposuction|bariatric-surgery|insurance|faq|why-china)",
+    "/work-with-us",
+    "/work-with-us/:path*",
+    "/:locale(zh|es|fr|de|ru|ar|id)/:retired(health-packages|hollywood-smile-veneers|rhinoplasty|double-eyelid-surgery|facial-liposuction|bariatric-surgery|insurance|faq|why-china)",
+    "/:locale(zh|es|fr|de|ru|ar|id)/work-with-us",
+    "/:locale(zh|es|fr|de|ru|ar|id)/work-with-us/:path*",
+    "/hospitals/ceshi-logs",
+    "/:locale(zh|es|fr|de|ru|ar|id)/hospitals/ceshi-logs",
   ],
 };
 
 function normalizePathname(pathname: string): string {
   if (pathname === "/") return pathname;
   return pathname.replace(/\/+$/, "");
+}
+
+function retireRemovedPublicPage(url: URL): Response | undefined {
+  const contentPath = normalizePathname(
+    url.pathname.replace(/^\/(?:zh|es|fr|de|ru|ar|id)(?=\/|$)/, "") || "/",
+  );
+  if (
+    !RETIRED_PUBLIC_PATHS.has(contentPath)
+    && !contentPath.startsWith("/work-with-us/")
+  ) {
+    return undefined;
+  }
+
+  return new Response(
+    "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex,nofollow\"><title>Page Removed | Medora Health</title></head><body><main><h1>Page removed</h1><p>This page is no longer available.</p></main></body></html>",
+    {
+      status: 410,
+      headers: {
+        "cache-control": "public, max-age=0, s-maxage=86400",
+        "content-type": "text/html; charset=utf-8",
+        "x-robots-tag": "noindex, nofollow",
+      },
+    },
+  );
 }
 
 function redirectUnsupportedLimitedLocalePath(url: URL): Response | undefined {
@@ -93,6 +137,9 @@ function buildTargetUrl(
 
 export default async function middleware(request: Request): Promise<Response | undefined> {
   const url = new URL(request.url);
+  const retiredPageResponse = retireRemovedPublicPage(url);
+  if (retiredPageResponse) return retiredPageResponse;
+
   const unsupportedLimitedLocaleRedirect = redirectUnsupportedLimitedLocalePath(url);
   if (unsupportedLimitedLocaleRedirect) return unsupportedLimitedLocaleRedirect;
 
