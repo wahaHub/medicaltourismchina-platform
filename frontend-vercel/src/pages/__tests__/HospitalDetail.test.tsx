@@ -1,8 +1,20 @@
 import type { ReactNode } from "react";
 import { beforeEach, describe, expect, it, vi } from "vitest";
-import { fireEvent, render, screen, waitFor } from "@testing-library/react";
+import { act, fireEvent, render, screen, waitFor } from "@testing-library/react";
 import HospitalDetail from "../HospitalDetail";
 import { hospitalApi } from "@/services/api/hospital";
+
+const mockRoute = vi.hoisted(() => ({
+  slug: "sample-hospital",
+  id: undefined as string | undefined,
+}));
+
+const mockLanguage = vi.hoisted(() => ({
+  code: "en",
+  apiCode: "en",
+}));
+
+const mockNavigate = vi.hoisted(() => vi.fn());
 
 vi.mock("@/components/TopBanner", () => ({
   default: () => <div data-testid="top-banner" />,
@@ -28,14 +40,14 @@ vi.mock("react-router-dom", async () => {
     Link: ({ to, children, ...props }: { to: string; children: ReactNode }) => (
       <a href={to} {...props}>{children}</a>
     ),
-    useNavigate: () => vi.fn(),
-    useParams: () => ({ slug: "sample-hospital" }),
+    useNavigate: () => mockNavigate,
+    useParams: () => ({ ...mockRoute }),
   };
 });
 
 vi.mock("@/contexts/LanguageContext", () => ({
   useLanguage: () => ({
-    currentLanguage: { code: "en", apiCode: "en" },
+    currentLanguage: { ...mockLanguage },
     t: (key: string) => key,
   }),
 }));
@@ -79,19 +91,41 @@ const baseHospital = {
   payment_methods: [],
 };
 
-function renderPage(data: Record<string, unknown>) {
-  vi.mocked(hospitalApi.getHospitalExtendedBySlug).mockResolvedValue({
+function createHospitalResponse(
+  data: Record<string, unknown>,
+  locale = mockLanguage.apiCode,
+  slug = mockRoute.slug,
+) {
+  return {
     data: {
       ...baseHospital,
+      slug,
       ...data,
-    } as never,
+    },
     meta: {
-      requested_locale: "en",
-      resolved_locale: "en",
-      slug: "sample-hospital",
+      requested_locale: locale,
+      resolved_locale: locale,
+      slug,
       generated_at: "2026-04-25T00:00:00.000Z",
     },
-  } as never);
+  };
+}
+
+function createDeferred<T>() {
+  let resolve!: (value: T) => void;
+  let reject!: (reason?: unknown) => void;
+  const promise = new Promise<T>((resolvePromise, rejectPromise) => {
+    resolve = resolvePromise;
+    reject = rejectPromise;
+  });
+
+  return { promise, reject, resolve };
+}
+
+function renderPage(data: Record<string, unknown>) {
+  vi.mocked(hospitalApi.getHospitalExtendedBySlug).mockResolvedValue(
+    createHospitalResponse(data) as never,
+  );
 
   return render(<HospitalDetail />);
 }
@@ -99,6 +133,18 @@ function renderPage(data: Record<string, unknown>) {
 describe("HospitalDetail package and review sections", () => {
   beforeEach(() => {
     vi.clearAllMocks();
+    mockRoute.slug = "sample-hospital";
+    mockRoute.id = undefined;
+    mockLanguage.code = "en";
+    mockLanguage.apiCode = "en";
+    window.history.replaceState({}, "", "/hospitals/sample-hospital");
+    document.title = "Prerendered hospital title";
+    document.head
+      .querySelectorAll(
+        'meta[name="description"], meta[name="robots"], meta[property^="og:"], '
+        + 'meta[name^="twitter:"], link[rel="canonical"], link[rel="alternate"][hreflang]',
+      )
+      .forEach((element) => element.remove());
   });
 
   it("hides the recommended packages section when there is no package data", async () => {
@@ -273,5 +319,239 @@ describe("HospitalDetail package and review sections", () => {
     expect(screen.getByRole("link", { name: /View Details/i }).getAttribute("href")).toBe(
       "/hospitals/sample-hospital/packages/123e4567-e89b-12d3-a456-426614174000",
     );
+  });
+
+  it("prefers reviewed core specialties over legacy department data", async () => {
+    renderPage({
+      core_specialties: [
+        {
+          name: "Reviewed Cardiology",
+          slug: "reviewed-cardiology",
+          description: "Reviewed specialty description.",
+          technologies: ["Cardiac imaging"],
+        },
+      ],
+      departments_info: [
+        {
+          department_name: "旧中文科室",
+          department_slug: "legacy-department",
+          description: "Legacy department description.",
+          capabilities: [],
+        },
+      ],
+    });
+
+    await waitFor(() => {
+      expect(screen.getByText("Reviewed Cardiology")).toBeTruthy();
+    });
+
+    expect(screen.queryByText("旧中文科室")).toBeNull();
+    expect(screen.getByText("hospital.detail.coreSpecialties")).toBeTruthy();
+  });
+
+  it("renders reviewed scale, value proposition, and clinical capability fields", async () => {
+    renderPage({
+      annual_outpatient_visits: 1_234_567,
+      patients_served_annually: 456_789,
+      value_proposition: "Reviewed international patient value proposition.",
+      clinical_capabilities_description: {
+        icu: "24-hour intensive care support.",
+        mdt: "Multidisciplinary case review.",
+      },
+      bed_count: null,
+      staff_count: null,
+    });
+
+    await waitFor(() => {
+      expect(screen.getByText("1,234,567")).toBeTruthy();
+    });
+
+    expect(screen.getByText("456,789")).toBeTruthy();
+    expect(screen.getByText("Reviewed international patient value proposition.")).toBeTruthy();
+    expect(screen.getByText("24-hour intensive care support.")).toBeTruthy();
+    expect(screen.getByText("Multidisciplinary case review.")).toBeTruthy();
+    expect(screen.queryByText("hospital.detail.bedCount")).toBeNull();
+    expect(screen.queryByText("hospital.detail.staffCount")).toBeNull();
+  });
+
+  it("uses publishable hospital copy for metadata and keeps canonical SEO handling", async () => {
+    window.history.replaceState({}, "", "/hospitals/sample-hospital?preview=1#overview");
+
+    renderPage({
+      overview: "Reviewed localized hospital overview.",
+      short_description: "待查证",
+      seo_title: "Reviewed Hospital SEO Title",
+    });
+
+    await waitFor(() => {
+      expect(document.title).toBe("Reviewed Hospital SEO Title");
+    });
+
+    expect(document.querySelector('meta[name="description"]')?.getAttribute("content")).toBe(
+      "Reviewed localized hospital overview.",
+    );
+    expect(document.querySelector('meta[property="og:description"]')?.getAttribute("content")).toBe(
+      "Reviewed localized hospital overview.",
+    );
+    expect(document.querySelector('link[rel="canonical"]')?.getAttribute("href")).toBe(
+      "https://www.medicaltourismchina.health/hospitals/sample-hospital",
+    );
+    expect(document.querySelector('meta[property="og:url"]')?.getAttribute("content")).toBe(
+      "https://www.medicaltourismchina.health/hospitals/sample-hospital",
+    );
+  });
+
+  it("preserves prerendered metadata during the initial hospital request", () => {
+    const pendingRequest = createDeferred<ReturnType<typeof createHospitalResponse>>();
+    vi.mocked(hospitalApi.getHospitalExtendedBySlug).mockReturnValue(
+      pendingRequest.promise as never,
+    );
+    document.title = "Prerendered Sample Hospital | Medora Health";
+    const prerenderedDescription = document.createElement("meta");
+    prerenderedDescription.setAttribute("name", "description");
+    prerenderedDescription.setAttribute("content", "Prerendered hospital description.");
+    document.head.appendChild(prerenderedDescription);
+
+    render(<HospitalDetail />);
+
+    expect(document.title).toBe("Prerendered Sample Hospital | Medora Health");
+    expect(document.querySelector('meta[name="description"]')?.getAttribute("content")).toBe(
+      "Prerendered hospital description.",
+    );
+  });
+
+  it("replaces the previous hospital SEO with current-path noindex metadata when the next request fails", async () => {
+    const view = renderPage({
+      name: "Hospital A",
+      display_name: "Hospital A",
+      seo_title: "Hospital A SEO",
+      overview: "Hospital A overview.",
+    });
+
+    await waitFor(() => {
+      expect(document.title).toBe("Hospital A SEO");
+    });
+
+    vi.mocked(hospitalApi.getHospitalExtendedBySlug).mockRejectedValueOnce(
+      new Error("Hospital B unavailable"),
+    );
+    mockRoute.slug = "hospital-b";
+    window.history.replaceState({}, "", "/hospitals/hospital-b");
+    view.rerender(<HospitalDetail />);
+
+    await waitFor(() => {
+      expect(screen.getByText("Hospital detail unavailable")).toBeTruthy();
+    });
+
+    expect(document.title).toBe("Hospital information | Medora Health");
+    expect(document.querySelector('meta[name="robots"]')?.getAttribute("content")).toBe(
+      "noindex,follow",
+    );
+    expect(document.querySelector('link[rel="canonical"]')?.getAttribute("href")).toBe(
+      "https://www.medicaltourismchina.health/hospitals/hospital-b",
+    );
+    expect(document.querySelector('meta[property="og:url"]')?.getAttribute("content")).toBe(
+      "https://www.medicaltourismchina.health/hospitals/hospital-b",
+    );
+  });
+
+  it("does not let a late route response replace the current hospital or its SEO", async () => {
+    const hospitalARequest = createDeferred<ReturnType<typeof createHospitalResponse>>();
+    const hospitalBRequest = createDeferred<ReturnType<typeof createHospitalResponse>>();
+    vi.mocked(hospitalApi.getHospitalExtendedBySlug).mockImplementation((slug) => (
+      slug === "hospital-a" ? hospitalARequest.promise : hospitalBRequest.promise
+    ) as never);
+    mockRoute.slug = "hospital-a";
+    window.history.replaceState({}, "", "/hospitals/hospital-a");
+    const view = render(<HospitalDetail />);
+
+    await waitFor(() => {
+      expect(hospitalApi.getHospitalExtendedBySlug).toHaveBeenCalledWith("hospital-a", "en");
+    });
+
+    mockRoute.slug = "hospital-b";
+    window.history.replaceState({}, "", "/hospitals/hospital-b");
+    view.rerender(<HospitalDetail />);
+
+    await waitFor(() => {
+      expect(hospitalApi.getHospitalExtendedBySlug).toHaveBeenCalledWith("hospital-b", "en");
+    });
+
+    hospitalBRequest.resolve(createHospitalResponse({
+      name: "Hospital B",
+      display_name: "Hospital B",
+      seo_title: "Hospital B SEO",
+      overview: "Hospital B overview.",
+    }, "en", "hospital-b"));
+
+    await waitFor(() => {
+      expect(screen.getByText("Hospital B")).toBeTruthy();
+      expect(document.title).toBe("Hospital B SEO");
+    });
+
+    await act(async () => {
+      hospitalARequest.resolve(createHospitalResponse({
+        name: "Hospital A",
+        display_name: "Hospital A",
+        seo_title: "Hospital A SEO",
+        overview: "Hospital A overview.",
+      }, "en", "hospital-a"));
+      await hospitalARequest.promise;
+    });
+
+    expect(screen.queryByText("Hospital A")).toBeNull();
+    expect(document.title).toBe("Hospital B SEO");
+  });
+
+  it("does not let a late locale response replace the current localized hospital", async () => {
+    const englishRequest = createDeferred<ReturnType<typeof createHospitalResponse>>();
+    const frenchRequest = createDeferred<ReturnType<typeof createHospitalResponse>>();
+    vi.mocked(hospitalApi.getHospitalExtendedBySlug).mockImplementation((_slug, locale) => (
+      locale === "fr" ? frenchRequest.promise : englishRequest.promise
+    ) as never);
+    const view = render(<HospitalDetail />);
+
+    await waitFor(() => {
+      expect(hospitalApi.getHospitalExtendedBySlug).toHaveBeenCalledWith(
+        "sample-hospital",
+        "en",
+      );
+    });
+
+    mockLanguage.code = "fr";
+    mockLanguage.apiCode = "fr";
+    view.rerender(<HospitalDetail />);
+
+    await waitFor(() => {
+      expect(hospitalApi.getHospitalExtendedBySlug).toHaveBeenCalledWith(
+        "sample-hospital",
+        "fr",
+      );
+    });
+
+    frenchRequest.resolve(createHospitalResponse({
+      name: "Hôpital Français",
+      display_name: "Hôpital Français",
+      seo_title: "Hôpital Français SEO",
+      overview: "Présentation française.",
+    }, "fr", "sample-hospital"));
+
+    await waitFor(() => {
+      expect(screen.getByText("Hôpital Français")).toBeTruthy();
+      expect(document.title).toBe("Hôpital Français SEO");
+    });
+
+    await act(async () => {
+      englishRequest.resolve(createHospitalResponse({
+        name: "English Hospital",
+        display_name: "English Hospital",
+        seo_title: "English Hospital SEO",
+        overview: "English overview.",
+      }, "en", "sample-hospital"));
+      await englishRequest.promise;
+    });
+
+    expect(screen.queryByText("English Hospital")).toBeNull();
+    expect(document.title).toBe("Hôpital Français SEO");
   });
 });

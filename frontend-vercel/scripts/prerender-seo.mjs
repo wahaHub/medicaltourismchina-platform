@@ -12,6 +12,10 @@ import {
   isIndexableProcedureTranslation,
 } from "../seo/procedure-indexability.mjs";
 import { isHospitalExcludedFromSeo } from "../seo/hospital-indexability.mjs";
+import {
+  getHospitalSeoDescription,
+  getHospitalSeoTitle,
+} from "../seo/hospital-metadata.mjs";
 
 const PROJECT_ROOT = path.resolve(import.meta.dirname, "..");
 const DIST_DIR = path.join(PROJECT_ROOT, "dist");
@@ -494,14 +498,15 @@ async function makeRemotePages() {
       const row = hospitalDetailsByLocale.get(locale).get(slug);
       const name = getHospitalSeoName(row, locale) || slug;
       const description = truncate(
-        row.short_description
-        || row.overview
-        || `${name} hospital information and international patient services in China.`,
+        getHospitalSeoDescription(
+          row,
+          `${name} hospital information and international patient services in China.`,
+        ),
       );
       pages.push({
         path: alternates[locale],
         locale,
-        title: `${name} | Medora Health`,
+        title: getHospitalSeoTitle(row, name),
         description,
         heading: name,
         eyebrow: row.city ? `${row.city}, China` : "Hospital in China",

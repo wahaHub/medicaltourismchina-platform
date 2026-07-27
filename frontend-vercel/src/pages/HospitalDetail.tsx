@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
 import TopBanner from "@/components/TopBanner";
 import Header from "@/components/Header";
@@ -39,6 +39,7 @@ import {
   getSurgeonTitle,
 } from "@/utils/i18n-helpers";
 import {
+  Activity,
   ArrowRight,
   BedDouble,
   ChevronLeft,
@@ -49,12 +50,17 @@ import {
   Maximize2,
   Globe,
   HelpCircle,
+  HeartPulse,
   MapPin,
+  Microscope,
   Quote,
+  ScanLine,
+  ShieldCheck,
   Sparkles,
   Star,
   Stethoscope,
   Users,
+  UsersRound,
   X,
 } from "lucide-react";
 import { setPageSeo } from "@/utils/seo";
@@ -68,6 +74,13 @@ type Department = {
   shortDesc: string;
   description: string;
   highlights: string[];
+};
+
+type ClinicalCapability = {
+  id: string;
+  label: string;
+  description: string;
+  icon: typeof Stethoscope;
 };
 
 type Doctor = {
@@ -126,11 +139,6 @@ type SuccessCase = {
   procedureName: string;
 };
 
-type FaqItem = {
-  q: string;
-  a: string;
-};
-
 const pageFontClass = "font-['Inter',sans-serif]";
 const pageShellClass =
   "bg-[linear-gradient(180deg,#f6fcfb_0%,#eef8f7_48%,#f7fbff_100%)]";
@@ -147,6 +155,14 @@ const blueOutlineBadgeClass =
   "border-[#c8dbfb] bg-[#f1f7ff] text-[#2f77c7]";
 const amberBadgeClass = "border-[#f4d6a0] bg-[#fff7e8] text-[#b7791f]";
 const reviewAvatarClass = "bg-[#e6f8f5] text-[#159a90]";
+const CLINICAL_CAPABILITY_CONFIG = [
+  { id: "icu", labelKey: "hospital.detail.capability.icu", icon: HeartPulse },
+  { id: "emergency", labelKey: "hospital.detail.capability.emergency", icon: Activity },
+  { id: "mdt", labelKey: "hospital.detail.capability.mdt", icon: UsersRound },
+  { id: "imaging_center", labelKey: "hospital.detail.capability.imaging", icon: ScanLine },
+  { id: "lab", labelKey: "hospital.detail.capability.lab", icon: Microscope },
+  { id: "complex_case", labelKey: "hospital.detail.capability.complexCases", icon: ShieldCheck },
+] as const;
 
 function formatHospitalLocation(hospital: HospitalExtended): string {
   const parts = [hospital.city, hospital.province].filter(Boolean);
@@ -165,30 +181,69 @@ function getGoogleMapsUrl(hospital: HospitalExtended): string {
   return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
 }
 
-function mapHospitalDepartments(hospital: HospitalExtended): Department[] {
+function mapHospitalSpecialties(
+  hospital: HospitalExtended,
+  coreSpecialtyLabel: string,
+  specialtyCenterLabel: string,
+  departmentLabel: string,
+): Department[] {
+  if (hospital.core_specialties && hospital.core_specialties.length > 0) {
+    return hospital.core_specialties.map((specialty) => ({
+      id: specialty.slug || specialty.name,
+      name: specialty.name,
+      shortDesc: coreSpecialtyLabel,
+      description: specialty.description || "",
+      highlights: specialty.technologies?.filter(Boolean) || [],
+    }));
+  }
+
   if (hospital.departments_info && hospital.departments_info.length > 0) {
     return hospital.departments_info.map((department) => ({
       id: department.department_slug || department.department_name,
       name: department.department_name,
       shortDesc:
         department.specialty_center_name
-        || (department.is_specialty_center ? "Specialty Center" : "Department"),
+        || (department.is_specialty_center ? specialtyCenterLabel : departmentLabel),
       description: department.description || "",
       highlights: department.capabilities?.filter(Boolean) || [],
     }));
   }
 
-  if (hospital.core_specialties && hospital.core_specialties.length > 0) {
-    return hospital.core_specialties.map((specialty) => ({
-      id: specialty.slug || specialty.name,
-      name: specialty.name,
-      shortDesc: "Core Specialty",
-      description: specialty.description || "",
-      highlights: specialty.technologies?.filter(Boolean) || [],
-    }));
+  return [];
+}
+
+const PLACEHOLDER_TEXT_PATTERN =
+  /待查证|待核实|待确认|\btbd\b|to be verified|pending verification|verification pending/i;
+
+function isPublishableText(value: string | null | undefined): value is string {
+  return Boolean(value?.trim()) && !PLACEHOLDER_TEXT_PATTERN.test(value || "");
+}
+
+function truncateMetaDescription(value: string, maxLength = 160): string {
+  const normalized = value.replace(/\s+/g, " ").trim();
+  if (normalized.length <= maxLength) {
+    return normalized;
   }
 
-  return [];
+  const candidate = normalized.slice(0, maxLength - 1);
+  const lastSpace = candidate.lastIndexOf(" ");
+  const boundary = lastSpace >= Math.floor(maxLength * 0.7) ? lastSpace : candidate.length;
+  return `${candidate.slice(0, boundary).trim()}…`;
+}
+
+function getHospitalSeoDescription(hospital: HospitalExtended): string {
+  const source = [
+    hospital.overview,
+    hospital.seo_description,
+    hospital.full_description,
+    hospital.short_description,
+  ].find(isPublishableText);
+
+  return source ? truncateMetaDescription(source) : "";
+}
+
+function formatHospitalMetric(value: number | null | undefined, locale: string): string {
+  return value == null ? "" : new Intl.NumberFormat(locale).format(value);
 }
 
 function coerceString(value: unknown): string {
@@ -377,25 +432,6 @@ function normalizeHospitalReviews(hospital: HospitalDetailPayload | null): Revie
   });
 }
 
-const faqs: FaqItem[] = [
-  {
-    q: "海外患者来中国就医需要办理什么签证？",
-    a: "建议申请医疗或旅游相关签证，医院国际部通常可以协助准备邀请函及基础就医材料。",
-  },
-  {
-    q: "医院是否提供英文/其他语言服务？",
-    a: "是的，医院可提供英文服务，并可根据预约情况协助安排其他语言支持。",
-  },
-  {
-    q: "我可以提前在线咨询医生吗？",
-    a: "可以，通常会先安排线上初步咨询，再根据病历决定到院检查与治疗流程。",
-  },
-  {
-    q: "费用如何支付？是否支持国际信用卡？",
-    a: "通常支持国际信用卡及常见电子支付方式，具体以医院收费与现场支付指引为准。",
-  },
-];
-
 const Stat = ({ label, value }: { label: string; value: string }) => (
   <div className="text-center">
     <div className={`${pageFontClass} text-3xl font-bold text-[#159a90]`}>{value}</div>
@@ -476,12 +512,13 @@ const DepartmentItem = ({ department }: { department: Department }) => {
 export default function HospitalDetail() {
   const { slug, id } = useParams();
   const navigate = useNavigate();
-  const { currentLanguage } = useLanguage();
+  const { currentLanguage, t } = useLanguage();
   const [galleryIndex, setGalleryIndex] = useState(0);
   const [doctorIndex, setDoctorIndex] = useState(0);
   const [isQuoteModalOpen, setIsQuoteModalOpen] = useState(false);
   const [selectedProcedure, setSelectedProcedure] = useState("");
   const [hospitalData, setHospitalData] = useState<HospitalExtended | null>(null);
+  const [loadedRequestKey, setLoadedRequestKey] = useState<string | null>(null);
   const [resolvedLocale, setResolvedLocale] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [loadError, setLoadError] = useState<string | null>(null);
@@ -495,6 +532,8 @@ export default function HospitalDetail() {
   const [isPromoVideoModalOpen, setIsPromoVideoModalOpen] = useState(false);
   const locale = currentLanguage.apiCode || "zh";
   const labelLocale = currentLanguage.code === "zh" ? "zh" : "en";
+  const requestKey = `${slug || id || "missing"}:${locale}`;
+  const previousRequestKeyRef = useRef(requestKey);
 
   useEffect(() => {
     let isCancelled = false;
@@ -502,6 +541,8 @@ export default function HospitalDetail() {
     const loadHospital = async () => {
       if (!slug && !id) {
         setHospitalData(null);
+        setLoadedRequestKey(null);
+        setResolvedLocale(null);
         setLoadError("Hospital identifier is missing.");
         setIsLoading(false);
         return;
@@ -509,6 +550,9 @@ export default function HospitalDetail() {
 
       try {
         setIsLoading(true);
+        setHospitalData(null);
+        setLoadedRequestKey(null);
+        setResolvedLocale(null);
         setLoadError(null);
 
         if (!slug && id) {
@@ -532,12 +576,14 @@ export default function HospitalDetail() {
         const response = await hospitalApi.getHospitalExtendedBySlug(slug, locale);
         if (!isCancelled) {
           setHospitalData(response.data);
+          setLoadedRequestKey(requestKey);
           setResolvedLocale(response.meta.resolved_locale);
         }
       } catch (error) {
         console.error("Failed to load hospital detail data:", error);
         if (!isCancelled) {
           setHospitalData(null);
+          setLoadedRequestKey(null);
           setResolvedLocale(null);
           setLoadError("Failed to load hospital detail data.");
         }
@@ -553,10 +599,27 @@ export default function HospitalDetail() {
     return () => {
       isCancelled = true;
     };
-  }, [id, locale, navigate, slug]);
+  }, [id, locale, navigate, requestKey, slug]);
 
   useEffect(() => {
-    if (!hospitalData || !slug) {
+    const previousRequestKey = previousRequestKeyRef.current;
+    previousRequestKeyRef.current = requestKey;
+
+    if (previousRequestKey === requestKey || !slug) {
+      return;
+    }
+
+    setPageSeo({
+      title: "Hospital information | Medora Health",
+      description: "Hospital information is currently loading or unavailable.",
+      path: `/hospitals/${encodeURIComponent(slug)}`,
+      robots: "noindex,follow",
+      includeAlternates: false,
+    });
+  }, [requestKey, slug]);
+
+  useEffect(() => {
+    if (!hospitalData || !slug || loadedRequestKey !== requestKey) {
       return;
     }
 
@@ -568,13 +631,17 @@ export default function HospitalDetail() {
       isSeoSafeSlug(canonicalSlug)
       && !isGeneratedHospitalSlug(canonicalSlug);
     const description =
-      hospitalData.short_description
-      || hospitalData.overview
-      || hospitalData.full_description
-      || `Hospital information and international patient services for ${hospitalData.name}.`;
+      getHospitalSeoDescription(hospitalData)
+      || truncateMetaDescription(t("hospital.detail.seoFallback", {
+        name: hospitalData.name,
+        location: formatHospitalLocation(hospitalData),
+      }));
+    const title = isPublishableText(hospitalData.seo_title)
+      ? hospitalData.seo_title.trim()
+      : `${hospitalData.name || hospitalData.display_name} | Medora Health`;
 
     setPageSeo({
-      title: `${hospitalData.name || hospitalData.display_name} | Medora Health`,
+      title,
       description,
       path: `/hospitals/${encodeURIComponent(canonicalSlug)}`,
       image: hospitalData.hero_image_url,
@@ -582,7 +649,16 @@ export default function HospitalDetail() {
       includeAlternates: localeHasCompleteContent && hasCanonicalSeoSlug,
       availableLocales: ALL_LOCALES.filter(isHospitalContentLocaleIndexable),
     });
-  }, [currentLanguage.apiCode, currentLanguage.code, hospitalData, resolvedLocale, slug]);
+  }, [
+    currentLanguage.apiCode,
+    currentLanguage.code,
+    hospitalData,
+    loadedRequestKey,
+    requestKey,
+    resolvedLocale,
+    slug,
+    t,
+  ]);
 
   useEffect(() => {
     setGalleryIndex(0);
@@ -598,7 +674,7 @@ export default function HospitalDetail() {
   }, [id, slug]);
 
   const liveHospital = useMemo(() => {
-    if (!hospitalData) {
+    if (!hospitalData || loadedRequestKey !== requestKey) {
       return null;
     }
 
@@ -616,10 +692,8 @@ export default function HospitalDetail() {
         hospitalData.surgeons && hospitalData.surgeons.length > 0
           ? `${hospitalData.surgeons.length}+`
           : "",
-      patientsPerYear:
-        hospitalData.patients_served_annually != null
-          ? hospitalData.patients_served_annually.toString()
-          : "",
+      patientsServedAnnually: formatHospitalMetric(hospitalData.patients_served_annually, locale),
+      annualOutpatientVisits: formatHospitalMetric(hospitalData.annual_outpatient_visits, locale),
       followUp:
         hospitalData.followup_care && hospitalData.followup_care.length > 0
           ? hospitalData.followup_care
@@ -640,13 +714,40 @@ export default function HospitalDetail() {
         || hospitalData.full_description
         || hospitalData.short_description
         || "",
+      valueProposition: hospitalData.value_proposition?.trim() || "",
     };
-  }, [hospitalData, labelLocale]);
+  }, [hospitalData, labelLocale, loadedRequestKey, locale, requestKey]);
 
-  const liveDepartments = useMemo(
-    () => (hospitalData ? mapHospitalDepartments(hospitalData) : []),
-    [hospitalData],
+  const liveSpecialties = useMemo(
+    () => (
+      hospitalData && loadedRequestKey === requestKey
+        ? mapHospitalSpecialties(
+            hospitalData,
+            t("hospital.detail.coreSpecialty"),
+            t("hospital.detail.specialtyCenter"),
+            t("hospital.detail.department"),
+          )
+        : []
+    ),
+    [hospitalData, loadedRequestKey, requestKey, t],
   );
+  const liveClinicalCapabilities = useMemo<ClinicalCapability[]>(() => {
+    if (loadedRequestKey !== requestKey) {
+      return [];
+    }
+
+    const descriptions = hospitalData?.clinical_capabilities_description;
+    if (!descriptions) {
+      return [];
+    }
+
+    return CLINICAL_CAPABILITY_CONFIG.flatMap(({ id, labelKey, icon }) => {
+      const description = descriptions[id]?.trim();
+      return description
+        ? [{ id, label: t(labelKey), description, icon }]
+        : [];
+    });
+  }, [hospitalData, loadedRequestKey, requestKey, t]);
   const liveMedicalTeam = useMemo<Doctor[]>(() => {
     if (!hospitalData?.surgeons || hospitalData.surgeons.length === 0) {
       return [];
@@ -966,7 +1067,7 @@ export default function HospitalDetail() {
             </Card>
 
             <section>
-              <h2 className={`mb-4 ${sectionTitleClass}`}>OVERVIEW</h2>
+              <h2 className={`mb-4 ${sectionTitleClass}`}>{t("hospital.detail.overview")}</h2>
               <Card className={`p-6 md:p-8 ${cardClass}`}>
                 <div className="space-y-4">
                   <p
@@ -983,16 +1084,80 @@ export default function HospitalDetail() {
                       className={tealOutlineBadgeClass}
                       onClick={() => setIsOverviewExpanded((value) => !value)}
                     >
-                      {isOverviewExpanded ? "Show Less" : "Read More"}
+                      {isOverviewExpanded
+                        ? t("hospital.detail.showLess")
+                        : t("hospital.detail.readMore")}
                     </Button>
                   )}
                 </div>
-                <div className="mt-6 grid max-w-md grid-cols-2 gap-4 border-t border-[#dcefee] pt-6">
-                  {liveHospital.specialists ? <Stat label="Specialists" value={liveHospital.specialists} /> : null}
-                  {liveHospital.patientsPerYear ? <Stat label="Patients/Yr" value={liveHospital.patientsPerYear} /> : null}
-                </div>
+                {liveHospital.valueProposition ? (
+                  <div className="mt-6 border-l-4 border-[#18a89f] bg-[#f2fbfa] px-5 py-4">
+                    <h3 className={`${pageFontClass} text-sm font-semibold text-[#107d76]`}>
+                      {t("hospital.detail.whyThisHospital")}
+                    </h3>
+                    <p className={`${pageFontClass} mt-1 text-sm leading-relaxed text-foreground/75`}>
+                      {liveHospital.valueProposition}
+                    </p>
+                  </div>
+                ) : null}
+                {liveHospital.specialists
+                || liveHospital.patientsServedAnnually
+                || liveHospital.annualOutpatientVisits ? (
+                  <div className="mt-6 grid gap-4 border-t border-[#dcefee] pt-6 sm:grid-cols-3">
+                    {liveHospital.specialists ? (
+                      <Stat label={t("hospital.detail.specialists")} value={liveHospital.specialists} />
+                    ) : null}
+                    {liveHospital.patientsServedAnnually ? (
+                      <Stat
+                        label={t("hospital.detail.patientsServedAnnually")}
+                        value={liveHospital.patientsServedAnnually}
+                      />
+                    ) : null}
+                    {liveHospital.annualOutpatientVisits ? (
+                      <Stat
+                        label={t("hospital.detail.annualOutpatientVisits")}
+                        value={liveHospital.annualOutpatientVisits}
+                      />
+                    ) : null}
+                  </div>
+                ) : null}
               </Card>
             </section>
+
+            {liveClinicalCapabilities.length > 0 ? (
+              <section>
+                <div className="mb-4">
+                  <h2 className={sectionTitleClass}>
+                    {t("hospital.detail.clinicalCapabilities")}
+                  </h2>
+                  <p className={`mt-1 text-sm ${mutedTextClass} ${pageFontClass}`}>
+                    {t("hospital.detail.clinicalCapabilitiesSubtitle")}
+                  </p>
+                </div>
+                <div className="grid gap-4 sm:grid-cols-2">
+                  {liveClinicalCapabilities.map((capability) => {
+                    const CapabilityIcon = capability.icon;
+                    return (
+                      <Card key={capability.id} className={`p-5 ${cardClass}`}>
+                        <div className="flex items-start gap-4">
+                          <div className="grid h-10 w-10 shrink-0 place-items-center rounded-md bg-[#e6f8f5] text-[#159a90]">
+                            <CapabilityIcon className="h-5 w-5" aria-hidden="true" />
+                          </div>
+                          <div className="min-w-0">
+                            <h3 className={`${pageFontClass} font-semibold text-foreground`}>
+                              {capability.label}
+                            </h3>
+                            <p className={`${pageFontClass} mt-1 text-sm leading-relaxed text-foreground/75`}>
+                              {capability.description}
+                            </p>
+                          </div>
+                        </div>
+                      </Card>
+                    );
+                  })}
+                </div>
+              </section>
+            ) : null}
 
             {currentDoctor ? (
               <Card className={`p-6 md:p-8 ${cardClass}`}>
@@ -1480,25 +1645,25 @@ export default function HospitalDetail() {
             <section id="faq">
               <div className="mb-4">
                 <h2 className={`flex items-center gap-2 ${sectionTitleClass}`}>
-                  <HelpCircle className="h-5 w-5" /> FREQUENTLY ASKED QUESTIONS
+                  <HelpCircle className="h-5 w-5" /> {t("hospital.faq.title")}
                 </h2>
                 <p className={`mt-1 text-sm ${mutedTextClass} ${pageFontClass}`}>
-                  海外患者关心的常见问题
+                  {t("hospital.faq.subtitle")}
                 </p>
               </div>
               <Card className={`p-2 md:p-4 ${cardClass}`}>
                 <Accordion type="single" collapsible className="w-full">
-                  {faqs.map((item, index) => (
+                  {([1, 2, 3, 4] as const).map((i) => (
                     <AccordionItem
-                      key={item.q}
-                      value={`item-${index}`}
+                      key={i}
+                      value={`item-${i}`}
                       className="border-b last:border-0"
                     >
                       <AccordionTrigger className={`px-3 text-left text-sm font-medium hover:text-[#159a90] md:text-base ${pageFontClass}`}>
-                        {item.q}
+                        {t(`hospital.faq.q${i}`)}
                       </AccordionTrigger>
                       <AccordionContent className={`px-3 text-sm leading-relaxed text-foreground/75 ${pageFontClass}`}>
-                        {item.a}
+                        {t(`hospital.faq.a${i}`)}
                       </AccordionContent>
                     </AccordionItem>
                   ))}
@@ -1510,32 +1675,36 @@ export default function HospitalDetail() {
           <aside className="space-y-5 self-start lg:sticky lg:top-6">
             <Card className={`p-5 ${cardClass}`}>
               <h3 className={`mb-3 text-[11px] font-semibold uppercase tracking-[0.14em] ${mutedTextClass} ${pageFontClass}`}>
-                Hospital Information
+                {t("hospital.detail.hospitalInformation")}
               </h3>
               <dl className={`space-y-2.5 text-xs ${pageFontClass}`}>
                 <div className="flex justify-between gap-3">
-                  <dt className={mutedTextClass}>Tier</dt>
+                  <dt className={mutedTextClass}>{t("hospital.detail.tier")}</dt>
                   <dd className="text-right font-medium text-foreground">{liveHospital.tier || "Unavailable"}</dd>
                 </div>
                 <div className="flex justify-between gap-3">
-                  <dt className={mutedTextClass}>Ownership</dt>
+                  <dt className={mutedTextClass}>{t("hospital.detail.ownership")}</dt>
                   <dd className="text-right font-medium text-foreground">{liveHospital.ownership || "Unavailable"}</dd>
                 </div>
-                <div className="flex justify-between gap-3">
-                  <dt className={`flex items-center gap-1 ${mutedTextClass}`}>
-                    <BedDouble className="h-3 w-3" /> Bed Count
-                  </dt>
-                  <dd className="text-right font-medium text-foreground">{liveHospital.beds ?? "Unavailable"}</dd>
-                </div>
-                <div className="flex justify-between gap-3">
-                  <dt className={`flex items-center gap-1 ${mutedTextClass}`}>
-                    <Users className="h-3 w-3" /> Staff Count
-                  </dt>
-                  <dd className="text-right font-medium text-foreground">{liveHospital.staff ?? "Unavailable"}</dd>
-                </div>
+                {liveHospital.beds != null ? (
+                  <div className="flex justify-between gap-3">
+                    <dt className={`flex items-center gap-1 ${mutedTextClass}`}>
+                      <BedDouble className="h-3 w-3" /> {t("hospital.detail.bedCount")}
+                    </dt>
+                    <dd className="text-right font-medium text-foreground">{liveHospital.beds}</dd>
+                  </div>
+                ) : null}
+                {liveHospital.staff != null ? (
+                  <div className="flex justify-between gap-3">
+                    <dt className={`flex items-center gap-1 ${mutedTextClass}`}>
+                      <Users className="h-3 w-3" /> {t("hospital.detail.staffCount")}
+                    </dt>
+                    <dd className="text-right font-medium text-foreground">{liveHospital.staff}</dd>
+                  </div>
+                ) : null}
                 <div className="border-t pt-2">
                   <dt className={`mb-1 flex items-center gap-1.5 ${mutedTextClass}`}>
-                    <MapPin className="h-3 w-3" /> Address
+                    <MapPin className="h-3 w-3" /> {t("hospital.detail.address")}
                   </dt>
                   <dd className="leading-relaxed text-foreground">{liveHospital.address || "Unavailable"}</dd>
                 </div>
@@ -1544,7 +1713,7 @@ export default function HospitalDetail() {
                 <Button asChild size="sm" variant="outline" className={`mt-4 w-full ${tealOutlineBadgeClass}`}>
                   <a href={liveHospital.googleMapsUrl} target="_blank" rel="noopener noreferrer">
                     <MapPin className="mr-1.5 h-3.5 w-3.5" />
-                    Google Maps
+                    {t("hospital.detail.googleMaps")}
                   </a>
                 </Button>
               ) : null}
@@ -1556,24 +1725,24 @@ export default function HospitalDetail() {
                   id="dept-heading"
                   className={`text-[11px] font-semibold uppercase tracking-[0.14em] ${mutedTextClass} ${pageFontClass}`}
                 >
-                  Departments 科室
+                  {t("hospital.detail.coreSpecialties")}
                 </h3>
                 <span className={`text-[11px] ${mutedTextClass} ${pageFontClass}`}>
-                  {liveDepartments.length}
+                  {liveSpecialties.length}
                 </span>
               </div>
               <p className={`mb-2 text-[11px] leading-relaxed text-slate-500/90 ${pageFontClass}`}>
-                Hover on desktop or tap on mobile for department details
+                {t("hospital.detail.specialtyDetailsHint")}
               </p>
-              {liveDepartments.length > 0 ? (
+              {liveSpecialties.length > 0 ? (
                 <div className="rounded-lg border border-[#d8ece9] bg-white/85 p-1 backdrop-blur">
-                  {liveDepartments.map((department) => (
+                  {liveSpecialties.map((department) => (
                     <DepartmentItem key={department.id} department={department} />
                   ))}
                 </div>
               ) : (
                 <div className={`rounded-lg border border-dashed border-[#d8ece9] bg-[#f8fcfb] p-4 text-xs ${mutedTextClass}`}>
-                  No department data available.
+                  {t("hospital.detail.noSpecialtyData")}
                 </div>
               )}
             </section>

@@ -268,6 +268,8 @@ export interface HospitalExtended {
   data_source?: string;
   short_description: string;
   full_description?: string;
+  seo_title?: string;
+  seo_description?: string;
   department_count: number;
   created_at: string;
   updated_at: string;
