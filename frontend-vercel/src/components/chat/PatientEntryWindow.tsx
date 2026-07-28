@@ -1,4 +1,4 @@
-import { useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react';
+import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react';
 import { AlertTriangle, BotMessageSquare, CheckCircle2 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import ConversationList from '@/components/messaging/ConversationList';
@@ -600,7 +600,10 @@ export default function PatientEntryWindow() {
   const [optimisticMessages, setOptimisticMessages] = useState<CompactChatMessage[]>([]);
   const canShowFormalMessages = phase === 'select-hospitals' || phase === 'messages-ready';
   const scrollContainerRef = useRef<HTMLDivElement | null>(null);
+  const [scrollContainerElement, setScrollContainerElement] = useState<HTMLDivElement | null>(null);
   const stickToBottomRef = useRef(true);
+  const lastScrollTopRef = useRef(0);
+  const isProgrammaticScrollRef = useRef(false);
   const translate = useMemo(
     () => createChatWidgetTranslator(currentLanguage.code),
     [currentLanguage.code],
@@ -721,6 +724,14 @@ export default function PatientEntryWindow() {
     && activeSession?.sessionKind === 'care-team'
     && detail?.sessionId === activeSessionId
     && chatState?.botMode === 'mechanical';
+  const setScrollContainerRef = useCallback((element: HTMLDivElement | null) => {
+    scrollContainerRef.current = element;
+    setScrollContainerElement(element);
+    if (element) {
+      lastScrollTopRef.current = element.scrollTop;
+      stickToBottomRef.current = isNearBottom(element);
+    }
+  }, []);
 
   useEffect(() => {
     if (!canShowFormalMessages || activeSession?.sessionKind !== 'care-team') {
@@ -921,13 +932,28 @@ export default function PatientEntryWindow() {
   );
 
   useEffect(() => {
-    const element = scrollContainerRef.current;
+    const element = scrollContainerElement;
     if (!element) {
       return;
     }
 
     const handleScroll = () => {
-      stickToBottomRef.current = isNearBottom(element);
+      const currentTop = element.scrollTop;
+      const nearBottom = isNearBottom(element);
+
+      if (isProgrammaticScrollRef.current) {
+        lastScrollTopRef.current = currentTop;
+        stickToBottomRef.current = nearBottom;
+        return;
+      }
+
+      if (currentTop < lastScrollTopRef.current - 4 && !nearBottom) {
+        stickToBottomRef.current = false;
+      } else if (nearBottom) {
+        stickToBottomRef.current = true;
+      }
+
+      lastScrollTopRef.current = currentTop;
     };
 
     handleScroll();
@@ -935,19 +961,24 @@ export default function PatientEntryWindow() {
     return () => {
       element.removeEventListener('scroll', handleScroll);
     };
-  }, []);
+  }, [scrollContainerElement]);
 
   useLayoutEffect(() => {
-    const element = scrollContainerRef.current;
+    const element = scrollContainerElement;
     if (!element || !stickToBottomRef.current) {
       return;
     }
 
+    isProgrammaticScrollRef.current = true;
     scrollContainerToBottom(element);
-  }, [renderedMessages, phase, detailLoading, isConversationSwitchPending, canShowFormalMessages]);
+    lastScrollTopRef.current = element.scrollTop;
+    window.requestAnimationFrame(() => {
+      isProgrammaticScrollRef.current = false;
+    });
+  }, [renderedMessages, phase, detailLoading, isConversationSwitchPending, canShowFormalMessages, scrollContainerElement]);
 
   useEffect(() => {
-    const element = scrollContainerRef.current;
+    const element = scrollContainerElement;
     if (!element || typeof ResizeObserver === 'undefined') {
       return;
     }
@@ -957,12 +988,17 @@ export default function PatientEntryWindow() {
         return;
       }
 
+      isProgrammaticScrollRef.current = true;
       scrollContainerToBottom(element);
+      lastScrollTopRef.current = element.scrollTop;
+      window.requestAnimationFrame(() => {
+        isProgrammaticScrollRef.current = false;
+      });
     });
 
     observer.observe(element);
     return () => observer.disconnect();
-  }, []);
+  }, [scrollContainerElement]);
 
   return (
     <div className="flex h-full flex-col overflow-hidden rounded-[28px] border border-slate-200 bg-white shadow-2xl shadow-slate-950/15">
@@ -1006,7 +1042,7 @@ export default function PatientEntryWindow() {
               />
             </div>
             <div
-              ref={scrollContainerRef}
+              ref={setScrollContainerRef}
               data-testid="patient-chat-scroll-container"
               className="flex-1 overflow-y-auto px-4 py-5"
             >
@@ -1015,7 +1051,7 @@ export default function PatientEntryWindow() {
           </div>
         ) : (
           <div
-            ref={scrollContainerRef}
+            ref={setScrollContainerRef}
             data-testid="patient-chat-scroll-container"
             className="flex-1 overflow-y-auto px-4 py-5"
           >

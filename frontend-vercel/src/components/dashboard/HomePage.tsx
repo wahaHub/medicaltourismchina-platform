@@ -34,7 +34,7 @@ import { caseAssignmentStatusLabel } from '@/lib/patient-phase2';
 
 interface HomePageProps {
   onNavigateTab?: (
-    tab: 'home' | 'quotes' | 'messages' | 'tickets' | 'orders' | 'journey',
+    tab: 'home' | 'quotes' | 'messages' | 'tickets' | 'orders' | 'journey' | 'medical-records',
     params?: Record<string, string | null | undefined>,
   ) => void;
 }

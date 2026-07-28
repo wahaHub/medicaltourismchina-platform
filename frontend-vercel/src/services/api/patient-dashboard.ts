@@ -1,4 +1,4 @@
-import { crmApiRequest } from './crmApiClient';
+import { crmApiRequest, crmApiUploadProxy } from './crmApiClient';
 import { patientMessagesApi, type PatientMessageAttachment } from './patient-messages';
 
 export type PatientDashboardCase = {
@@ -239,10 +239,44 @@ export async function rejectPatientDashboardQuote(input: {
   });
 }
 
+export async function uploadPatientCaseDocument(input: {
+  sessionId: string;
+  file: File;
+  description?: string;
+}): Promise<{ ok: true }> {
+  const { upload, asset } = await patientMessagesApi.initSessionAttachmentUpload({
+    sessionId: input.sessionId,
+    fileName: input.file.name,
+    fileSize: input.file.size,
+    mimeType: input.file.type || 'application/octet-stream',
+    mechanicalMode: true,
+  });
+
+  await crmApiUploadProxy({ uploadUrl: upload.uploadUrl, file: input.file });
+
+  await patientMessagesApi.sendSessionMessage({
+    sessionId: input.sessionId,
+    content: '',
+    messageType: 'FILE',
+    mechanicalMode: true,
+    attachments: [
+      {
+        fileName: asset.fileName,
+        mimeType: asset.mimeType,
+        fileSize: asset.fileSize,
+        storageKey: asset.storageKey,
+      },
+    ],
+  });
+
+  return { ok: true };
+}
+
 export const patientDashboardApi = {
   getPatientDashboardHomeSummary,
   listPatientDashboardQuotes,
   listPatientCaseDocuments,
   acceptPatientDashboardQuote,
   rejectPatientDashboardQuote,
+  uploadPatientCaseDocument,
 };

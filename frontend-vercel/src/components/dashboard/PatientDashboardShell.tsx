@@ -1,6 +1,6 @@
 import type React from 'react';
 import { useMemo } from 'react';
-import { FileText, Home, LifeBuoy, LogOut, MessageSquareMore, Route, ShieldCheck, ShoppingBag, Sparkles } from 'lucide-react';
+import { FileText, FolderHeart, Home, LifeBuoy, LogOut, MessageSquareMore, Route, ShieldCheck, ShoppingBag, Sparkles } from 'lucide-react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
@@ -13,10 +13,11 @@ import MessagesPage from './MessagesPage';
 import TicketsPage from './TicketsPage';
 import OrdersPage from './OrdersPage';
 import JourneyPage from './JourneyPage';
+import MedicalRecordsPage from './MedicalRecordsPage';
 
-type DashboardTab = 'home' | 'quotes' | 'messages' | 'tickets' | 'orders' | 'journey';
+type DashboardTab = 'home' | 'quotes' | 'messages' | 'tickets' | 'orders' | 'journey' | 'medical-records';
 
-const VALID_TABS: DashboardTab[] = ['home', 'quotes', 'messages', 'tickets', 'orders', 'journey'];
+const VALID_TABS: DashboardTab[] = ['home', 'quotes', 'messages', 'tickets', 'orders', 'journey', 'medical-records'];
 
 const NAV_ITEMS: Array<{
   value: DashboardTab;
@@ -29,6 +30,7 @@ const NAV_ITEMS: Array<{
   { value: 'tickets', labelKey: 'dashboard.shell.tickets', icon: LifeBuoy },
   { value: 'orders', labelKey: 'dashboard.shell.orders', icon: ShoppingBag },
   { value: 'journey', labelKey: 'dashboard.shell.journey', icon: Route },
+  { value: 'medical-records', labelKey: 'dashboard.shell.medicalRecords', icon: FolderHeart },
 ];
 
 export default function PatientDashboardShell() {
@@ -64,6 +66,10 @@ export default function PatientDashboardShell() {
       next.delete('caseId');
     }
 
+    if (tab !== 'medical-records') {
+      next.delete('recordId');
+    }
+
     Object.entries(params ?? {}).forEach(([key, value]) => {
       if (value) {
         next.set(key, value);
@@ -83,6 +89,7 @@ export default function PatientDashboardShell() {
       {activeTab === 'tickets' && <TicketsPage />}
       {activeTab === 'orders' && <OrdersPage />}
       {activeTab === 'journey' && <JourneyPage />}
+      {activeTab === 'medical-records' && <MedicalRecordsPage />}
     </>
   );
 
