@@ -5,6 +5,7 @@ import { supa } from '../config/supabase.mjs'
 import { json } from '../utils/response.mjs'
 import { normalizeLocale } from '../utils/locale.mjs'
 import { getQuery, getRequestedLocale } from '../utils/query.mjs'
+import { parseProcedurePrice } from '../utils/procedure-price.mjs'
 
 const LOW_MEDIA_BASE = `${(process.env.PUBLIC_MEDIA_BASE_URL || 'https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev').replace(/\/+$/, '')}/low`
 
@@ -79,7 +80,10 @@ export const getProceduresByDisease = async (event) => {
   if (error) return json(400, { error: error.message })
   
   // Transform data to match frontend expectations for ProcedureCard
-  const transformedData = data?.map(item => ({
+  const transformedData = data?.map(item => {
+    const sourcePrice = parseProcedurePrice(item.cost_usd)
+
+    return {
     id: item.procedure_id,
     slug: item.procedure_slug,
     name: item.procedure_name,
@@ -99,9 +103,15 @@ export const getProceduresByDisease = async (event) => {
     
     waiting_time: item.waiting_time,
     avg_wait_days: item.waiting_time,
-    price_min: item.cost_usd ? parseInt(item.cost_usd * 0.8) : 22000,
-    price_max: item.cost_usd || 65000,
+    price_min: sourcePrice.minAmount ?? 22000,
+    price_max: sourcePrice.maxAmount ?? 65000,
+    currency: sourcePrice.currency || 'USD',
     cost_usd: item.cost_usd,
+    source_price_display: sourcePrice.display,
+    source_price_amount: sourcePrice.amount,
+    source_price_min: sourcePrice.minAmount,
+    source_price_max: sourcePrice.maxAmount,
+    source_price_currency: sourcePrice.currency,
     stay_at_hospital: item.stay_at_hospital,
     stay_at_hotel: item.stay_at_hotel,
     stay_in_china: item.stay_in_china,
@@ -115,7 +125,8 @@ export const getProceduresByDisease = async (event) => {
     recovery_steps: item.recovery_steps,
     image_url: `${LOW_MEDIA_BASE}/disease-illustrations/${item.procedure_id}_x2.png`,
     updated_at: item.updated_at
-  })) || []
+    }
+  }) || []
   
   return json(200, {
     data: transformedData,

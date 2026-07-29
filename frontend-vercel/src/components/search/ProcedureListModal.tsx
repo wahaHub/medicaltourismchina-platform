@@ -6,6 +6,7 @@ import { getLowResImageUrl, getProgressiveBaseFromUrl } from '@/utils/imageUrl';
 import { getProcedurePath } from '@/utils/procedure-path';
 import ProgressiveImage from '@/components/ProgressiveImage';
 import { LOW_MEDIA_BASE_URL } from "@/config/media";
+import { formatProcedurePrice } from '@/utils/procedure-pricing';
 
 const SURGERY_PLACEHOLDER_URL = `${LOW_MEDIA_BASE_URL}/root_assets/surgery_placeholder_x2.png`;
 
@@ -15,6 +16,7 @@ interface ProcedureListModalProps {
   procedures: ProcedureCard[];
   loading: boolean;
   diseaseName: string;
+  visitorCountry: string | null;
 }
 
 export default function ProcedureListModal({
@@ -23,9 +25,10 @@ export default function ProcedureListModal({
   procedures,
   loading,
   diseaseName,
+  visitorCountry,
 }: ProcedureListModalProps) {
   const navigate = useNavigate();
-  const { t } = useLanguage();
+  const { currentLanguage } = useLanguage();
 
   console.log('[ProcedureListModal] Render:', { isOpen, proceduresCount: procedures.length, loading, diseaseName });
 
@@ -143,11 +146,10 @@ export default function ProcedureListModal({
                       {(procedure as any).waiting_time || (procedure as any).avg_wait_days || '3-5 days'}
                     </span>
                     <span className="text-base font-bold text-gray-900">
-                      {typeof (procedure as any).cost_usd === 'string'
-                        ? (procedure as any).cost_usd
-                        : (procedure as any).cost_usd
-                        ? `$${(procedure as any).cost_usd.toLocaleString()}`
-                        : '$28,000'}
+                      {formatProcedurePrice(procedure, {
+                        country: visitorCountry,
+                        language: currentLanguage.code,
+                      }) || '—'}
                     </span>
                   </div>
 

@@ -23,9 +23,12 @@ import { getProcedurePath } from '@/utils/procedure-path';
 import ProgressiveImage from '@/components/ProgressiveImage';
 import { setPageSeo } from '@/utils/seo';
 import { getStaticPageMetadata } from '@/seo/static-page';
+import { useVisitorCountry } from '@/hooks/useVisitorCountry';
+import { formatProcedurePrice } from '@/utils/procedure-pricing';
 
 const Search = () => {
   const { currentLanguage, getApiLocale, t } = useLanguage();
+  const visitorCountry = useVisitorCountry();
   const contentApiLocale = getMedicalTaxonomyApiLocale(getApiLocale());
   const [searchParams, setSearchParams] = useSearchParams();
   const [departments, setDepartments] = useState<Department[]>([]);
@@ -498,15 +501,10 @@ const Search = () => {
                                         }}
                                       >
                                         <span className="text-base font-bold text-gray-900 transition-colors duration-200 hover:text-[rgb(149,196,182)]">
-                                          {typeof (procedure as any).cost_usd === 'string'
-                                            ? (procedure as any).cost_usd
-                                            : typeof (procedure as any).price_max === 'string'
-                                            ? (procedure as any).price_max
-                                            : (procedure as any).cost_usd
-                                            ? `$${(procedure as any).cost_usd.toLocaleString()}`
-                                            : (procedure as any).price_max
-                                            ? `$${(procedure as any).price_max.toLocaleString()}`
-                                            : '$28,000'}
+                                          {formatProcedurePrice(procedure, {
+                                            country: visitorCountry,
+                                            language: currentLanguage.code,
+                                          }) || '—'}
                                         </span>
                                       </div>
 
@@ -559,6 +557,7 @@ const Search = () => {
         procedures={procedures}
         loading={proceduresLoading}
         diseaseName={selectedDis?.name || ''}
+        visitorCountry={visitorCountry}
       />
 
       <Footer />
