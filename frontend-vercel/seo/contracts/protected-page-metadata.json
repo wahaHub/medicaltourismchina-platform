@@ -1,0 +1,795 @@
+{
+  "version": 1,
+  "source": "production initial HTML",
+  "capturedAt": "2026-07-26T13:20:18.661Z",
+  "pages": [
+    {
+      "url": "https://www.medicaltourismchina.health/",
+      "title": "Medical Care in China for International Patients | Medora Health",
+      "description": "Connect with China&#039;s leading hospitals and specialists. Medora Health supports international patients with professional medical evaluations, treatment planning, and end-to-end care coordination.",
+      "h1": "Connecting global patients with China&#039;s leading hospitals and specialists",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/",
+      "lang": "en",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/",
+        "es": "https://www.medicaltourismchina.health/es/",
+        "fr": "https://www.medicaltourismchina.health/fr/",
+        "de": "https://www.medicaltourismchina.health/de/",
+        "ru": "https://www.medicaltourismchina.health/ru/",
+        "ar": "https://www.medicaltourismchina.health/ar/",
+        "id": "https://www.medicaltourismchina.health/id/",
+        "x-default": "https://www.medicaltourismchina.health/"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/ar/",
+      "title": "الرعاية الطبية في الصين للمرضى الدوليين | Medora Health",
+      "description": "تواصل مع أفضل المستشفيات والأطباء المتخصصين في الصين. تقدم Medora Health تقييماً طبياً متخصصاً وتخطيطاً للعلاج وتنسيقاً متكاملاً للرعاية.",
+      "h1": "نربط المرضى حول العالم بأفضل المستشفيات والأطباء المتخصصين في الصين",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/ar/",
+      "lang": "ar",
+      "dir": "rtl",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/",
+        "es": "https://www.medicaltourismchina.health/es/",
+        "fr": "https://www.medicaltourismchina.health/fr/",
+        "de": "https://www.medicaltourismchina.health/de/",
+        "ru": "https://www.medicaltourismchina.health/ru/",
+        "ar": "https://www.medicaltourismchina.health/ar/",
+        "id": "https://www.medicaltourismchina.health/id/",
+        "x-default": "https://www.medicaltourismchina.health/"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/ar/hospitals",
+      "title": "مستشفيات الصين للمرضى الدوليين | Medora Health",
+      "description": "قارن بين المستشفيات الصينية ومواقعها وتخصصاتها وخدمات المرضى الدوليين وخيارات العلاج المتاحة.",
+      "h1": "مستشفيات في الصين للمرضى الدوليين",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/ar/hospitals",
+      "lang": "ar",
+      "dir": "rtl",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/hospitals",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/hospitals",
+        "ar": "https://www.medicaltourismchina.health/ar/hospitals",
+        "id": "https://www.medicaltourismchina.health/id/hospitals",
+        "x-default": "https://www.medicaltourismchina.health/hospitals"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/ar/packages",
+      "title": "مراحل رحلة العلاج في الصين | Medora Health",
+      "description": "تعرّف على خطوات مراجعة الملف الطبي واختيار المستشفى والسفر والعلاج والخروج والمتابعة.",
+      "h1": "رحلتك للحصول على الرعاية الطبية في الصين",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/ar/packages",
+      "lang": "ar",
+      "dir": "rtl",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/packages",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/packages",
+        "es": "https://www.medicaltourismchina.health/es/packages",
+        "fr": "https://www.medicaltourismchina.health/fr/packages",
+        "de": "https://www.medicaltourismchina.health/de/packages",
+        "ru": "https://www.medicaltourismchina.health/ru/packages",
+        "ar": "https://www.medicaltourismchina.health/ar/packages",
+        "id": "https://www.medicaltourismchina.health/id/packages",
+        "x-default": "https://www.medicaltourismchina.health/packages"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/ar/telemedicine",
+      "title": "استشارة طبية عن بُعد في الصين | Medora Health",
+      "description": "اطلب استشارة فيديو أو مراجعة مكتوبة ورأياً طبياً ثانياً قبل السفر إلى الصين للعلاج.",
+      "h1": "الاستشارة الطبية عن بُعد والرأي الطبي الثاني من الصين",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/ar/telemedicine",
+      "lang": "ar",
+      "dir": "rtl",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/telemedicine",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/telemedicine",
+        "es": "https://www.medicaltourismchina.health/es/telemedicine",
+        "fr": "https://www.medicaltourismchina.health/fr/telemedicine",
+        "de": "https://www.medicaltourismchina.health/de/telemedicine",
+        "ru": "https://www.medicaltourismchina.health/ru/telemedicine",
+        "ar": "https://www.medicaltourismchina.health/ar/telemedicine",
+        "id": "https://www.medicaltourismchina.health/id/telemedicine",
+        "x-default": "https://www.medicaltourismchina.health/telemedicine"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/ar/treatment",
+      "title": "العلاجات الطبية في الصين | Medora Health",
+      "description": "استكشف خيارات العلاج وخدمات الأطباء المتخصصين والتكاليف التقديرية ومسارات الرعاية الطبية المتاحة في الصين.",
+      "h1": "العلاجات الطبية المتاحة في الصين",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/ar/treatment",
+      "lang": "ar",
+      "dir": "rtl",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/treatment",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/treatment",
+        "es": "https://www.medicaltourismchina.health/es/treatment",
+        "fr": "https://www.medicaltourismchina.health/fr/treatment",
+        "de": "https://www.medicaltourismchina.health/de/treatment",
+        "ru": "https://www.medicaltourismchina.health/ru/treatment",
+        "ar": "https://www.medicaltourismchina.health/ar/treatment",
+        "id": "https://www.medicaltourismchina.health/id/treatment",
+        "x-default": "https://www.medicaltourismchina.health/treatment"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/ar/visa",
+      "title": "تأشيرة الصين ودعم السفر للعلاج | Medora Health",
+      "description": "استعد لرحلتك العلاجية إلى الصين مع إرشادات التأشيرة والمستندات الداعمة والمواعيد والترجمة وترتيبات الوصول.",
+      "h1": "تأشيرة الصين ودعم السفر للعلاج",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/ar/visa",
+      "lang": "ar",
+      "dir": "rtl",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/visa",
+        "ar": "https://www.medicaltourismchina.health/ar/visa",
+        "id": "https://www.medicaltourismchina.health/id/visa",
+        "x-default": "https://www.medicaltourismchina.health/visa"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/de/",
+      "title": "Medizinische Versorgung in China für internationale Patienten | Medora Health",
+      "description": "Vernetzen Sie sich mit Chinas führenden Krankenhäusern und Spezialisten. Medora Health unterstützt internationale Patienten mit medizinischer Bewertung, Behandlungsplanung und umfassender Versorgungskoordination.",
+      "h1": "Wir verbinden Patienten weltweit mit Chinas führenden Krankenhäusern und Spezialisten",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/de/",
+      "lang": "de",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/",
+        "es": "https://www.medicaltourismchina.health/es/",
+        "fr": "https://www.medicaltourismchina.health/fr/",
+        "de": "https://www.medicaltourismchina.health/de/",
+        "ru": "https://www.medicaltourismchina.health/ru/",
+        "ar": "https://www.medicaltourismchina.health/ar/",
+        "id": "https://www.medicaltourismchina.health/id/",
+        "x-default": "https://www.medicaltourismchina.health/"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/de/packages",
+      "title": "Ablauf einer medizinischen Behandlung in China | Medora Health",
+      "description": "Von der Prüfung Ihrer Unterlagen und Klinikauswahl bis zu Reise, Behandlung, Entlassung und Nachsorge.",
+      "h1": "Ihr Weg zur medizinischen Versorgung in China",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/de/packages",
+      "lang": "de",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/packages",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/packages",
+        "es": "https://www.medicaltourismchina.health/es/packages",
+        "fr": "https://www.medicaltourismchina.health/fr/packages",
+        "de": "https://www.medicaltourismchina.health/de/packages",
+        "ru": "https://www.medicaltourismchina.health/ru/packages",
+        "ar": "https://www.medicaltourismchina.health/ar/packages",
+        "id": "https://www.medicaltourismchina.health/id/packages",
+        "x-default": "https://www.medicaltourismchina.health/packages"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/de/telemedicine",
+      "title": "Telemedizinische Beratung in China | Medora Health",
+      "description": "Fordern Sie vor Ihrer Reise nach China eine Videosprechstunde oder eine schriftliche ärztliche Zweitmeinung an.",
+      "h1": "Telemedizin und ärztliche Zweitmeinungen aus China",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/de/telemedicine",
+      "lang": "de",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/telemedicine",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/telemedicine",
+        "es": "https://www.medicaltourismchina.health/es/telemedicine",
+        "fr": "https://www.medicaltourismchina.health/fr/telemedicine",
+        "de": "https://www.medicaltourismchina.health/de/telemedicine",
+        "ru": "https://www.medicaltourismchina.health/ru/telemedicine",
+        "ar": "https://www.medicaltourismchina.health/ar/telemedicine",
+        "id": "https://www.medicaltourismchina.health/id/telemedicine",
+        "x-default": "https://www.medicaltourismchina.health/telemedicine"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/de/treatment",
+      "title": "Medizinische Behandlungen in China | Medora Health",
+      "description": "Informieren Sie sich über Behandlungen, Fachärzte, geschätzte Kosten und Versorgungsabläufe in China.",
+      "h1": "Medizinische Behandlungen in China",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/de/treatment",
+      "lang": "de",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/treatment",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/treatment",
+        "es": "https://www.medicaltourismchina.health/es/treatment",
+        "fr": "https://www.medicaltourismchina.health/fr/treatment",
+        "de": "https://www.medicaltourismchina.health/de/treatment",
+        "ru": "https://www.medicaltourismchina.health/ru/treatment",
+        "ar": "https://www.medicaltourismchina.health/ar/treatment",
+        "id": "https://www.medicaltourismchina.health/id/treatment",
+        "x-default": "https://www.medicaltourismchina.health/treatment"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/es/",
+      "title": "Atención médica en China para pacientes internacionales | Medora Health",
+      "description": "Conecte con los principales hospitales y especialistas de China. Medora Health ofrece evaluaciones médicas profesionales, planificación del tratamiento y coordinación integral de la atención.",
+      "h1": "Conectamos a pacientes de todo el mundo con los principales hospitales y especialistas de China",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/es/",
+      "lang": "es",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/",
+        "es": "https://www.medicaltourismchina.health/es/",
+        "fr": "https://www.medicaltourismchina.health/fr/",
+        "de": "https://www.medicaltourismchina.health/de/",
+        "ru": "https://www.medicaltourismchina.health/ru/",
+        "ar": "https://www.medicaltourismchina.health/ar/",
+        "id": "https://www.medicaltourismchina.health/id/",
+        "x-default": "https://www.medicaltourismchina.health/"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/es/packages",
+      "title": "Proceso de tratamiento médico en China | Medora Health",
+      "description": "Conozca las etapas desde la revisión del historial y la selección del hospital hasta el viaje, tratamiento y seguimiento.",
+      "h1": "Su recorrido para recibir atención médica en China",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/es/packages",
+      "lang": "es",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/packages",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/packages",
+        "es": "https://www.medicaltourismchina.health/es/packages",
+        "fr": "https://www.medicaltourismchina.health/fr/packages",
+        "de": "https://www.medicaltourismchina.health/de/packages",
+        "ru": "https://www.medicaltourismchina.health/ru/packages",
+        "ar": "https://www.medicaltourismchina.health/ar/packages",
+        "id": "https://www.medicaltourismchina.health/id/packages",
+        "x-default": "https://www.medicaltourismchina.health/packages"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/es/telemedicine",
+      "title": "Consulta de telemedicina en China | Medora Health",
+      "description": "Solicite una videoconsulta o una segunda opinión médica por escrito antes de viajar a China.",
+      "h1": "Telemedicina y segundas opiniones médicas desde China",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/es/telemedicine",
+      "lang": "es",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/telemedicine",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/telemedicine",
+        "es": "https://www.medicaltourismchina.health/es/telemedicine",
+        "fr": "https://www.medicaltourismchina.health/fr/telemedicine",
+        "de": "https://www.medicaltourismchina.health/de/telemedicine",
+        "ru": "https://www.medicaltourismchina.health/ru/telemedicine",
+        "ar": "https://www.medicaltourismchina.health/ar/telemedicine",
+        "id": "https://www.medicaltourismchina.health/id/telemedicine",
+        "x-default": "https://www.medicaltourismchina.health/telemedicine"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/es/treatment",
+      "title": "Tratamientos médicos en China | Medora Health",
+      "description": "Explore tratamientos, servicios de especialistas, costes estimados y procesos de atención médica disponibles en China.",
+      "h1": "Tratamientos médicos disponibles en China",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/es/treatment",
+      "lang": "es",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/treatment",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/treatment",
+        "es": "https://www.medicaltourismchina.health/es/treatment",
+        "fr": "https://www.medicaltourismchina.health/fr/treatment",
+        "de": "https://www.medicaltourismchina.health/de/treatment",
+        "ru": "https://www.medicaltourismchina.health/ru/treatment",
+        "ar": "https://www.medicaltourismchina.health/ar/treatment",
+        "id": "https://www.medicaltourismchina.health/id/treatment",
+        "x-default": "https://www.medicaltourismchina.health/treatment"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/fr/",
+      "title": "Soins médicaux en Chine pour les patients internationaux | Medora Health",
+      "description": "Accédez aux meilleurs hôpitaux et spécialistes de Chine. Medora Health propose une évaluation médicale professionnelle, une planification du traitement et une coordination complète des soins.",
+      "h1": "Connecter les patients du monde entier aux meilleurs hôpitaux et spécialistes de Chine",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/fr/",
+      "lang": "fr",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/",
+        "es": "https://www.medicaltourismchina.health/es/",
+        "fr": "https://www.medicaltourismchina.health/fr/",
+        "de": "https://www.medicaltourismchina.health/de/",
+        "ru": "https://www.medicaltourismchina.health/ru/",
+        "ar": "https://www.medicaltourismchina.health/ar/",
+        "id": "https://www.medicaltourismchina.health/id/",
+        "x-default": "https://www.medicaltourismchina.health/"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/fr/packages",
+      "title": "Parcours de soins médicaux en Chine | Medora Health",
+      "description": "Découvrez les étapes de l’étude du dossier et du choix de l’hôpital jusqu’au voyage, au traitement et au suivi.",
+      "h1": "Votre parcours de soins médicaux en Chine",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/fr/packages",
+      "lang": "fr",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/packages",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/packages",
+        "es": "https://www.medicaltourismchina.health/es/packages",
+        "fr": "https://www.medicaltourismchina.health/fr/packages",
+        "de": "https://www.medicaltourismchina.health/de/packages",
+        "ru": "https://www.medicaltourismchina.health/ru/packages",
+        "ar": "https://www.medicaltourismchina.health/ar/packages",
+        "id": "https://www.medicaltourismchina.health/id/packages",
+        "x-default": "https://www.medicaltourismchina.health/packages"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/fr/telemedicine",
+      "title": "Consultation de télémédecine en Chine | Medora Health",
+      "description": "Demandez une consultation vidéo ou un deuxième avis médical écrit avant votre voyage en Chine.",
+      "h1": "Télémédecine et deuxième avis médical depuis la Chine",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/fr/telemedicine",
+      "lang": "fr",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/telemedicine",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/telemedicine",
+        "es": "https://www.medicaltourismchina.health/es/telemedicine",
+        "fr": "https://www.medicaltourismchina.health/fr/telemedicine",
+        "de": "https://www.medicaltourismchina.health/de/telemedicine",
+        "ru": "https://www.medicaltourismchina.health/ru/telemedicine",
+        "ar": "https://www.medicaltourismchina.health/ar/telemedicine",
+        "id": "https://www.medicaltourismchina.health/id/telemedicine",
+        "x-default": "https://www.medicaltourismchina.health/telemedicine"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/fr/treatment",
+      "title": "Traitements médicaux en Chine | Medora Health",
+      "description": "Explorez les traitements, les services spécialisés, les coûts estimés et les parcours de soins disponibles en Chine.",
+      "h1": "Traitements médicaux disponibles en Chine",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/fr/treatment",
+      "lang": "fr",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/treatment",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/treatment",
+        "es": "https://www.medicaltourismchina.health/es/treatment",
+        "fr": "https://www.medicaltourismchina.health/fr/treatment",
+        "de": "https://www.medicaltourismchina.health/de/treatment",
+        "ru": "https://www.medicaltourismchina.health/ru/treatment",
+        "ar": "https://www.medicaltourismchina.health/ar/treatment",
+        "id": "https://www.medicaltourismchina.health/id/treatment",
+        "x-default": "https://www.medicaltourismchina.health/treatment"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/hospitals",
+      "title": "Hospitals in China for International Patients | Medora Health",
+      "description": "Compare hospitals in China, locations, specialties, international patient services, and available treatment options.",
+      "h1": "Hospitals in China for international patients",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/hospitals",
+      "lang": "en",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/hospitals",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/hospitals",
+        "ar": "https://www.medicaltourismchina.health/ar/hospitals",
+        "id": "https://www.medicaltourismchina.health/id/hospitals",
+        "x-default": "https://www.medicaltourismchina.health/hospitals"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/id/",
+      "title": "Layanan Medis di Tiongkok untuk Pasien Internasional | Medora Health",
+      "description": "Terhubung dengan rumah sakit dan spesialis terkemuka di Tiongkok. Medora Health mendukung pasien internasional dengan evaluasi medis profesional, perencanaan perawatan, dan koordinasi layanan menyeluruh.",
+      "h1": "Menghubungkan pasien global dengan rumah sakit dan spesialis terkemuka di Tiongkok",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/id/",
+      "lang": "id",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/",
+        "es": "https://www.medicaltourismchina.health/es/",
+        "fr": "https://www.medicaltourismchina.health/fr/",
+        "de": "https://www.medicaltourismchina.health/de/",
+        "ru": "https://www.medicaltourismchina.health/ru/",
+        "ar": "https://www.medicaltourismchina.health/ar/",
+        "id": "https://www.medicaltourismchina.health/id/",
+        "x-default": "https://www.medicaltourismchina.health/"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/id/hospitals",
+      "title": "Rumah Sakit di Tiongkok untuk Pasien Internasional | Medora Health",
+      "description": "Bandingkan rumah sakit di Tiongkok, lokasi, spesialisasi, layanan pasien internasional, dan pilihan perawatan yang tersedia.",
+      "h1": "Rumah sakit di Tiongkok untuk pasien internasional",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/id/hospitals",
+      "lang": "id",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/hospitals",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/hospitals",
+        "ar": "https://www.medicaltourismchina.health/ar/hospitals",
+        "id": "https://www.medicaltourismchina.health/id/hospitals",
+        "x-default": "https://www.medicaltourismchina.health/hospitals"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/id/packages",
+      "title": "Tahapan Perjalanan Perawatan di Tiongkok | Medora Health",
+      "description": "Pahami tahapan peninjauan rekam medis, pemilihan rumah sakit, perjalanan, perawatan, kepulangan, dan tindak lanjut.",
+      "h1": "Perjalanan Anda mendapatkan perawatan medis di Tiongkok",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/id/packages",
+      "lang": "id",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/packages",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/packages",
+        "es": "https://www.medicaltourismchina.health/es/packages",
+        "fr": "https://www.medicaltourismchina.health/fr/packages",
+        "de": "https://www.medicaltourismchina.health/de/packages",
+        "ru": "https://www.medicaltourismchina.health/ru/packages",
+        "ar": "https://www.medicaltourismchina.health/ar/packages",
+        "id": "https://www.medicaltourismchina.health/id/packages",
+        "x-default": "https://www.medicaltourismchina.health/packages"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/id/telemedicine",
+      "title": "Konsultasi Telemedisin di Tiongkok | Medora Health",
+      "description": "Ajukan konsultasi video atau tinjauan tertulis dari spesialis sebelum bepergian ke Tiongkok untuk perawatan medis.",
+      "h1": "Telemedisin dan opini medis kedua dari Tiongkok",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/id/telemedicine",
+      "lang": "id",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/telemedicine",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/telemedicine",
+        "es": "https://www.medicaltourismchina.health/es/telemedicine",
+        "fr": "https://www.medicaltourismchina.health/fr/telemedicine",
+        "de": "https://www.medicaltourismchina.health/de/telemedicine",
+        "ru": "https://www.medicaltourismchina.health/ru/telemedicine",
+        "ar": "https://www.medicaltourismchina.health/ar/telemedicine",
+        "id": "https://www.medicaltourismchina.health/id/telemedicine",
+        "x-default": "https://www.medicaltourismchina.health/telemedicine"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/id/treatment",
+      "title": "Perawatan Medis di Tiongkok | Medora Health",
+      "description": "Jelajahi pilihan perawatan, layanan spesialis, perkiraan biaya, dan alur layanan medis yang tersedia di Tiongkok.",
+      "h1": "Pilihan perawatan medis di Tiongkok",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/id/treatment",
+      "lang": "id",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/treatment",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/treatment",
+        "es": "https://www.medicaltourismchina.health/es/treatment",
+        "fr": "https://www.medicaltourismchina.health/fr/treatment",
+        "de": "https://www.medicaltourismchina.health/de/treatment",
+        "ru": "https://www.medicaltourismchina.health/ru/treatment",
+        "ar": "https://www.medicaltourismchina.health/ar/treatment",
+        "id": "https://www.medicaltourismchina.health/id/treatment",
+        "x-default": "https://www.medicaltourismchina.health/treatment"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/id/visa",
+      "title": "Visa Tiongkok dan Dukungan Perjalanan Medis | Medora Health",
+      "description": "Persiapkan perjalanan medis ke Tiongkok dengan panduan visa, dokumen pendukung, janji temu, penerjemahan, dan rencana kedatangan.",
+      "h1": "Visa Tiongkok dan dukungan perjalanan medis",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/id/visa",
+      "lang": "id",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/visa",
+        "ar": "https://www.medicaltourismchina.health/ar/visa",
+        "id": "https://www.medicaltourismchina.health/id/visa",
+        "x-default": "https://www.medicaltourismchina.health/visa"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/packages",
+      "title": "Medical Treatment Journey in China | Medora Health",
+      "description": "Understand the steps from medical record review and hospital matching to travel, treatment, discharge, and follow-up.",
+      "h1": "Your journey to medical care in China",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/packages",
+      "lang": "en",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/packages",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/packages",
+        "es": "https://www.medicaltourismchina.health/es/packages",
+        "fr": "https://www.medicaltourismchina.health/fr/packages",
+        "de": "https://www.medicaltourismchina.health/de/packages",
+        "ru": "https://www.medicaltourismchina.health/ru/packages",
+        "ar": "https://www.medicaltourismchina.health/ar/packages",
+        "id": "https://www.medicaltourismchina.health/id/packages",
+        "x-default": "https://www.medicaltourismchina.health/packages"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/ru/",
+      "title": "Медицинская помощь в Китае для иностранных пациентов | Medora Health",
+      "description": "Получите доступ к ведущим больницам и специалистам Китая. Medora Health помогает иностранным пациентам с медицинской оценкой, планированием лечения и полной координацией помощи.",
+      "h1": "Соединяем пациентов со всего мира с ведущими больницами и специалистами Китая",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/ru/",
+      "lang": "ru",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/",
+        "es": "https://www.medicaltourismchina.health/es/",
+        "fr": "https://www.medicaltourismchina.health/fr/",
+        "de": "https://www.medicaltourismchina.health/de/",
+        "ru": "https://www.medicaltourismchina.health/ru/",
+        "ar": "https://www.medicaltourismchina.health/ar/",
+        "id": "https://www.medicaltourismchina.health/id/",
+        "x-default": "https://www.medicaltourismchina.health/"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/ru/packages",
+      "title": "Этапы лечения в Китае | Medora Health",
+      "description": "Узнайте, как проходят проверка документов, подбор больницы, поездка, лечение, выписка и последующее наблюдение.",
+      "h1": "Ваш путь к медицинской помощи в Китае",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/ru/packages",
+      "lang": "ru",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/packages",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/packages",
+        "es": "https://www.medicaltourismchina.health/es/packages",
+        "fr": "https://www.medicaltourismchina.health/fr/packages",
+        "de": "https://www.medicaltourismchina.health/de/packages",
+        "ru": "https://www.medicaltourismchina.health/ru/packages",
+        "ar": "https://www.medicaltourismchina.health/ar/packages",
+        "id": "https://www.medicaltourismchina.health/id/packages",
+        "x-default": "https://www.medicaltourismchina.health/packages"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/ru/telemedicine",
+      "title": "Телемедицинская консультация в Китае | Medora Health",
+      "description": "Получите видеоконсультацию или письменное второе мнение специалиста до поездки на лечение в Китай.",
+      "h1": "Телемедицина и второе медицинское мнение из Китая",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/ru/telemedicine",
+      "lang": "ru",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/telemedicine",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/telemedicine",
+        "es": "https://www.medicaltourismchina.health/es/telemedicine",
+        "fr": "https://www.medicaltourismchina.health/fr/telemedicine",
+        "de": "https://www.medicaltourismchina.health/de/telemedicine",
+        "ru": "https://www.medicaltourismchina.health/ru/telemedicine",
+        "ar": "https://www.medicaltourismchina.health/ar/telemedicine",
+        "id": "https://www.medicaltourismchina.health/id/telemedicine",
+        "x-default": "https://www.medicaltourismchina.health/telemedicine"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/ru/treatment",
+      "title": "Лечение в Китае | Medora Health",
+      "description": "Изучите направления лечения, услуги специалистов, ориентировочную стоимость и организацию медицинской помощи в Китае.",
+      "h1": "Варианты лечения в Китае",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/ru/treatment",
+      "lang": "ru",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/treatment",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/treatment",
+        "es": "https://www.medicaltourismchina.health/es/treatment",
+        "fr": "https://www.medicaltourismchina.health/fr/treatment",
+        "de": "https://www.medicaltourismchina.health/de/treatment",
+        "ru": "https://www.medicaltourismchina.health/ru/treatment",
+        "ar": "https://www.medicaltourismchina.health/ar/treatment",
+        "id": "https://www.medicaltourismchina.health/id/treatment",
+        "x-default": "https://www.medicaltourismchina.health/treatment"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/telemedicine",
+      "title": "Telemedicine Consultation in China | Medora Health",
+      "description": "Request a video consultation or written specialist review before travelling to China for medical care.",
+      "h1": "Telemedicine and medical second opinions from China",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/telemedicine",
+      "lang": "en",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/telemedicine",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/telemedicine",
+        "es": "https://www.medicaltourismchina.health/es/telemedicine",
+        "fr": "https://www.medicaltourismchina.health/fr/telemedicine",
+        "de": "https://www.medicaltourismchina.health/de/telemedicine",
+        "ru": "https://www.medicaltourismchina.health/ru/telemedicine",
+        "ar": "https://www.medicaltourismchina.health/ar/telemedicine",
+        "id": "https://www.medicaltourismchina.health/id/telemedicine",
+        "x-default": "https://www.medicaltourismchina.health/telemedicine"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/treatment",
+      "title": "Medical Treatments in China | Medora Health",
+      "description": "Explore treatment options, specialist services, estimated costs, and medical care pathways available in China.",
+      "h1": "Medical treatments available in China",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/treatment",
+      "lang": "en",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/treatment",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/treatment",
+        "es": "https://www.medicaltourismchina.health/es/treatment",
+        "fr": "https://www.medicaltourismchina.health/fr/treatment",
+        "de": "https://www.medicaltourismchina.health/de/treatment",
+        "ru": "https://www.medicaltourismchina.health/ru/treatment",
+        "ar": "https://www.medicaltourismchina.health/ar/treatment",
+        "id": "https://www.medicaltourismchina.health/id/treatment",
+        "x-default": "https://www.medicaltourismchina.health/treatment"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/visa",
+      "title": "China Visa and Medical Travel Support | Medora Health",
+      "description": "Prepare for medical travel to China with guidance on visa requirements, supporting documents, appointments, translation, and arrival planning.",
+      "h1": "China visa and medical travel support",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/visa",
+      "lang": "en",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/visa",
+        "ar": "https://www.medicaltourismchina.health/ar/visa",
+        "id": "https://www.medicaltourismchina.health/id/visa",
+        "x-default": "https://www.medicaltourismchina.health/visa"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/zh/",
+      "title": "连接全球患者与中国顶尖医院及专家｜Medora Health",
+      "description": "帮助国际患者获得专业医疗评估、治疗方案规划及赴华就医全程支持。",
+      "h1": "连接全球患者与中国顶尖医院及专家",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/zh/",
+      "lang": "zh-Hans",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/",
+        "es": "https://www.medicaltourismchina.health/es/",
+        "fr": "https://www.medicaltourismchina.health/fr/",
+        "de": "https://www.medicaltourismchina.health/de/",
+        "ru": "https://www.medicaltourismchina.health/ru/",
+        "ar": "https://www.medicaltourismchina.health/ar/",
+        "id": "https://www.medicaltourismchina.health/id/",
+        "x-default": "https://www.medicaltourismchina.health/"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/zh/hospitals",
+      "title": "中国医院与国际患者服务｜Medora Health",
+      "description": "比较中国医院的地点、重点专科、国际患者服务和可提供的治疗方案。",
+      "h1": "面向国际患者的中国医院",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/zh/hospitals",
+      "lang": "zh-Hans",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/hospitals",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/hospitals",
+        "ar": "https://www.medicaltourismchina.health/ar/hospitals",
+        "id": "https://www.medicaltourismchina.health/id/hospitals",
+        "x-default": "https://www.medicaltourismchina.health/hospitals"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/zh/packages",
+      "title": "赴华医疗服务流程｜Medora Health",
+      "description": "了解从病历审核、医院匹配到赴华、治疗、出院和随访的完整步骤。",
+      "h1": "您的中国医疗之旅",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/zh/packages",
+      "lang": "zh-Hans",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/packages",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/packages",
+        "es": "https://www.medicaltourismchina.health/es/packages",
+        "fr": "https://www.medicaltourismchina.health/fr/packages",
+        "de": "https://www.medicaltourismchina.health/de/packages",
+        "ru": "https://www.medicaltourismchina.health/ru/packages",
+        "ar": "https://www.medicaltourismchina.health/ar/packages",
+        "id": "https://www.medicaltourismchina.health/id/packages",
+        "x-default": "https://www.medicaltourismchina.health/packages"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/zh/telemedicine",
+      "title": "中国远程医疗咨询｜Medora Health",
+      "description": "在赴华就医前申请视频问诊或专家书面第二诊疗意见。",
+      "h1": "中国远程医疗与专家第二诊疗意见",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/zh/telemedicine",
+      "lang": "zh-Hans",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/telemedicine",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/telemedicine",
+        "es": "https://www.medicaltourismchina.health/es/telemedicine",
+        "fr": "https://www.medicaltourismchina.health/fr/telemedicine",
+        "de": "https://www.medicaltourismchina.health/de/telemedicine",
+        "ru": "https://www.medicaltourismchina.health/ru/telemedicine",
+        "ar": "https://www.medicaltourismchina.health/ar/telemedicine",
+        "id": "https://www.medicaltourismchina.health/id/telemedicine",
+        "x-default": "https://www.medicaltourismchina.health/telemedicine"
+      }
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/zh/treatment",
+      "title": "中国医疗项目与治疗选择｜Medora Health",
+      "description": "了解中国可提供的治疗方案、专家服务、费用预估和就医路径。",
+      "h1": "中国医疗项目与治疗选择",
+      "robots": "index, follow",
+      "canonical": "https://www.medicaltourismchina.health/zh/treatment",
+      "lang": "zh-Hans",
+      "dir": "ltr",
+      "alternates": {
+        "en": "https://www.medicaltourismchina.health/treatment",
+        "zh-Hans": "https://www.medicaltourismchina.health/zh/treatment",
+        "es": "https://www.medicaltourismchina.health/es/treatment",
+        "fr": "https://www.medicaltourismchina.health/fr/treatment",
+        "de": "https://www.medicaltourismchina.health/de/treatment",
+        "ru": "https://www.medicaltourismchina.health/ru/treatment",
+        "ar": "https://www.medicaltourismchina.health/ar/treatment",
+        "id": "https://www.medicaltourismchina.health/id/treatment",
+        "x-default": "https://www.medicaltourismchina.health/treatment"
+      }
+    }
+  ]
+}

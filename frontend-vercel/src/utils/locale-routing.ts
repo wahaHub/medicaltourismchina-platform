@@ -14,9 +14,11 @@ const LIMITED_LOCALIZED_PATHS = new Set([
   "/packages",
   "/hospitals",
   "/visa",
+  "/work-with-us",
 ]);
 const LIMITED_LOCALIZED_DYNAMIC_PATHS = [
   /^\/procedures\/[^/]+$/,
+  /^\/work-with-us(?:\/.*)?$/,
 ];
 
 function normalizeContentPath(pathname: string): string {

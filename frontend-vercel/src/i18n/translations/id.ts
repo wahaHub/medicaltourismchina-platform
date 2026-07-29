@@ -1,10 +1,12 @@
 import { en } from "./en";
+import { idChatDashboard } from "./chat-dashboard-locales";
 
 // Indonesian inherits the complete English dictionary so components outside the
 // approved public entrypoints remain readable, while the seven Indonesian
 // entrypoints below receive first-class localized UI and content.
 export const id = {
   ...en,
+  ...idChatDashboard,
   "common.close": "Tutup",
 
   "auth.dashboard": "Dasbor",

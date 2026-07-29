@@ -12,9 +12,11 @@ const LIMITED_PUBLIC_PATHS = new Set([
   "/packages",
   "/hospitals",
   "/visa",
+  "/work-with-us",
 ]);
 const LIMITED_PUBLIC_DYNAMIC_PATHS = [
   /^\/procedures\/[^/]+$/,
+  /^\/work-with-us(?:\/.*)?$/,
 ];
 const RETIRED_PUBLIC_PATHS = new Set([
   "/health-packages",
@@ -25,7 +27,6 @@ const RETIRED_PUBLIC_PATHS = new Set([
   "/bariatric-surgery",
   "/insurance",
   "/faq",
-  "/work-with-us",
   "/why-china",
   "/hospitals/ceshi-logs",
 ]);
@@ -44,11 +45,7 @@ export const config = {
     "/hospitals/:path*",
     "/:locale(zh|es|fr|de|ru)/hospitals/:path*",
     "/:retired(health-packages|hollywood-smile-veneers|rhinoplasty|double-eyelid-surgery|facial-liposuction|bariatric-surgery|insurance|faq|why-china)",
-    "/work-with-us",
-    "/work-with-us/:path*",
     "/:locale(zh|es|fr|de|ru|ar|id)/:retired(health-packages|hollywood-smile-veneers|rhinoplasty|double-eyelid-surgery|facial-liposuction|bariatric-surgery|insurance|faq|why-china)",
-    "/:locale(zh|es|fr|de|ru|ar|id)/work-with-us",
-    "/:locale(zh|es|fr|de|ru|ar|id)/work-with-us/:path*",
     "/hospitals/ceshi-logs",
     "/:locale(zh|es|fr|de|ru|ar|id)/hospitals/ceshi-logs",
   ],
@@ -65,7 +62,7 @@ function retireRemovedPublicPage(url: URL): Response | undefined {
   );
   if (
     !RETIRED_PUBLIC_PATHS.has(contentPath)
-    && !contentPath.startsWith("/work-with-us/")
+    
   ) {
     return undefined;
   }

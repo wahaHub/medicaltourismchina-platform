@@ -2472,6 +2472,7 @@ export const ru = {
   'chatWidget.form.destination.shenzhen': 'Шэньчжэнь',
   'chatWidget.form.destination.hongKong': 'Гонконг',
   'chatWidget.form.destination.noPreference': 'Без предпочтений',
+  'chatWidget.form.destinationDone': 'Готово',
   'chatWidget.form.treatmentTime': 'Сроки лечения',
   'chatWidget.form.treatmentTimePlaceholder': 'Выберите сроки лечения',
   'chatWidget.form.treatmentTime.asap': 'Как можно скорее',

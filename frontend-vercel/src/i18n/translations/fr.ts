@@ -2160,6 +2160,7 @@ export const fr = {
   'chatWidget.form.destination.shenzhen': 'Shenzhen',
   'chatWidget.form.destination.hongKong': 'Hong Kong',
   'chatWidget.form.destination.noPreference': 'Pas de préférence',
+  'chatWidget.form.destinationDone': 'Terminé',
   'chatWidget.form.treatmentTime': 'Délai de traitement',
   'chatWidget.form.treatmentTimePlaceholder': 'Sélectionnez le délai',
   'chatWidget.form.treatmentTime.asap': 'Dès que possible',

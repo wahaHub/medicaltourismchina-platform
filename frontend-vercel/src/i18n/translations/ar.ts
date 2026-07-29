@@ -1,10 +1,12 @@
 import { en } from "./en";
+import { arChatDashboard } from "./chat-dashboard-locales";
 
 // Arabic is intentionally based on the complete English dictionary so every
 // component has a readable fallback while the public Arabic entrypoints receive
 // first-class translations for their navigation and primary page content.
 export const ar = {
   ...en,
+  ...arChatDashboard,
 
   "auth.dashboard": "لوحة التحكم",
   "auth.login": "تسجيل الدخول",

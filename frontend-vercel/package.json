@@ -5,13 +5,19 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build && node scripts/prerender-seo.mjs",
+    "build": "vite build && node scripts/prerender-seo.mjs && node scripts/validate-seo-artifacts.mjs",
     "build:app": "vite build",
     "prerender:seo": "node scripts/prerender-seo.mjs",
     "build:dev": "vite build --mode development",
     "lint": "eslint .",
     "perf:budget": "node scripts/check-performance-budget.mjs",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:seo:unit": "vitest run seo src/utils/__tests__/seo.test.ts src/utils/__tests__/locale-routing.test.ts src/__tests__/seo-public-entrypoints.test.ts",
+    "test:seo:artifact": "node scripts/validate-seo-artifacts.mjs",
+    "test:seo": "npm run test:seo:unit && npm run build",
+    "test:seo:production": "node scripts/validate-seo-production.mjs",
+    "seo:contract:capture": "node scripts/capture-seo-contract.mjs"
   },
   "dependencies": {
     "@aws-amplify/auth": "^6.14.0",

@@ -99,7 +99,6 @@ export default function MechanicalChatMenu({
   const [bookingError, setBookingError] = useState<string | null>(null);
   const [bookingResult, setBookingResult] = useState<{ userTime: string; beijingTime: string } | null>(null);
   const [isBookingSubmitting, setIsBookingSubmitting] = useState(false);
-  const isZh = currentLanguage.code === 'zh';
   const detectedTimeZone = useMemo(() => getBrowserTimeZone(), []);
   const [userTimeZone, setUserTimeZone] = useState(detectedTimeZone);
   const timeZoneOptions = useMemo(() => getTimeZoneOptions(detectedTimeZone), [detectedTimeZone]);
@@ -136,13 +135,13 @@ export default function MechanicalChatMenu({
     setBookingResult(null);
 
     if (!sessionId) {
-      setBookingError(isZh ? '当前会话不可用，请稍后再试。' : 'This chat session is not available. Please try again.');
+      setBookingError(translate('chatWidget.booking.sessionUnavailable'));
       return;
     }
 
     const selectedDate = new Date(`${bookingDate}T${bookingTime}:00`);
     if (Number.isNaN(selectedDate.getTime())) {
-      setBookingError(isZh ? '请选择有效的日期和时间。' : 'Please choose a valid date and time.');
+      setBookingError(translate('chatWidget.booking.invalidDate'));
       return;
     }
 
@@ -152,14 +151,14 @@ export default function MechanicalChatMenu({
         sessionId,
         startsAt: selectedDate.toISOString(),
         timeZone: userTimeZone,
-        locale: isZh ? 'zh' : 'en',
+        locale: currentLanguage.code,
       });
       setBookingResult({
         userTime: result.userTime,
         beijingTime: result.beijingTime,
       });
     } catch (error) {
-      setBookingError(error instanceof Error ? error.message : (isZh ? '预约提交失败，请稍后再试。' : 'Booking failed. Please try again.'));
+      setBookingError(error instanceof Error ? error.message : translate('chatWidget.booking.failed'));
     } finally {
       setIsBookingSubmitting(false);
     }
@@ -238,10 +237,10 @@ export default function MechanicalChatMenu({
             <div className="flex items-start justify-between gap-4">
               <div>
                 <Dialog.Title className="text-base font-semibold text-slate-900">
-                  {isZh ? '预约在线问诊' : 'Book online consult'}
+                  {translate('chatWidget.booking.title')}
                 </Dialog.Title>
                 <Dialog.Description className="mt-1 text-sm leading-6 text-slate-600">
-                  {isZh ? '请选择问诊时间，并确认时区。' : 'Choose a consultation time and confirm the time zone.'}
+                  {translate('chatWidget.booking.description')}
                 </Dialog.Description>
               </div>
               <Dialog.Close asChild>
@@ -253,7 +252,7 @@ export default function MechanicalChatMenu({
 
             <div className="mt-5 grid gap-4 sm:grid-cols-2">
               <label className="space-y-2 text-sm font-medium text-slate-700">
-                <span>{isZh ? '日期' : 'Date'}</span>
+                <span>{translate('chatWidget.booking.date')}</span>
                 <Input
                   type="date"
                   min={getTodayInputValue()}
@@ -262,7 +261,7 @@ export default function MechanicalChatMenu({
                 />
               </label>
               <label className="space-y-2 text-sm font-medium text-slate-700">
-                <span>{isZh ? '时间' : 'Time'}</span>
+                <span>{translate('chatWidget.booking.time')}</span>
                 <Input
                   type="time"
                   value={bookingTime}
@@ -270,7 +269,7 @@ export default function MechanicalChatMenu({
                 />
               </label>
               <label className="space-y-2 text-sm font-medium text-slate-700 sm:col-span-2">
-                <span>{isZh ? '时区' : 'Time zone'}</span>
+                <span>{translate('chatWidget.booking.timeZone')}</span>
                 <select
                   value={userTimeZone}
                   onChange={(event) => setUserTimeZone(event.target.value)}
@@ -293,15 +292,15 @@ export default function MechanicalChatMenu({
 
             {bookingResult ? (
               <div className="mt-4 rounded-xl border border-teal-200 bg-teal-50 px-3 py-2 text-sm leading-6 text-teal-800">
-                <div>{isZh ? '预约请求已发送。' : 'Your consultation request has been sent.'}</div>
-                <div>{isZh ? '您的时间：' : 'Your time: '}{bookingResult.userTime}</div>
+                <div>{translate('chatWidget.booking.requestSent')}</div>
+                <div>{translate('chatWidget.booking.yourTime')}{bookingResult.userTime}</div>
               </div>
             ) : null}
 
             <div className="mt-5 flex justify-end gap-2">
               <Dialog.Close asChild>
                 <Button type="button" variant="outline">
-                  {isZh ? '关闭' : 'Close'}
+                  {translate('chatWidget.booking.close')}
                 </Button>
               </Dialog.Close>
               <Button
@@ -311,7 +310,7 @@ export default function MechanicalChatMenu({
                 className="bg-teal-600 text-white hover:bg-teal-700"
               >
                 {isBookingSubmitting ? <Loader2 className="mr-2 h-4 w-4 animate-spin" /> : null}
-                {bookingResult ? (isZh ? '已提交' : 'Request sent') : (isZh ? '提交预约' : 'Send request')}
+                {bookingResult ? translate('chatWidget.booking.requestSentButton') : translate('chatWidget.booking.sendRequest')}
               </Button>
             </div>
           </Dialog.Content>

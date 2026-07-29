@@ -1,4 +1,5 @@
 import fs from "node:fs/promises";
+import { existsSync } from "node:fs";
 import path from "node:path";
 import process from "node:process";
 import {
@@ -29,7 +30,10 @@ const CONTENT_API_BASE_URL = (
 ).replace(/\/+$/, "");
 const REMOTE_REQUIRED =
   process.env.VERCEL === "1"
-  || process.env.SEO_PRERENDER_REMOTE_REQUIRED === "1";
+  || process.env.SEO_PRERENDER_REMOTE_REQUIRED === "1"
+  || existsSync(
+    path.join(PROJECT_ROOT, "seo", "contracts", "protected-urls.json"),
+  );
 const REMOTE_ENABLED = process.env.SEO_PRERENDER_REMOTE !== "0";
 
 const HREFLANG = {
@@ -299,20 +303,42 @@ async function writePage(baseHtml, page) {
 }
 
 async function fetchJson(pathname) {
-  const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), 30000);
-  try {
-    const response = await fetch(`${CONTENT_API_BASE_URL}${pathname}`, {
-      headers: { accept: "application/json" },
-      signal: controller.signal,
-    });
-    if (!response.ok) {
-      throw new Error(`${response.status} ${response.statusText}`);
+  let lastError;
+  for (let attempt = 1; attempt <= 2; attempt += 1) {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 30000);
+    try {
+      const response = await fetch(`${CONTENT_API_BASE_URL}${pathname}`, {
+        headers: { accept: "application/json" },
+        signal: controller.signal,
+      });
+      if (!response.ok) {
+        const responseError = new Error(
+          `${response.status} ${response.statusText}`,
+        );
+        responseError.retryable = response.status === 429 || response.status >= 500;
+        throw responseError;
+      }
+      return await response.json();
+    } catch (error) {
+      lastError = error;
+      const retryable =
+        error?.name === "AbortError"
+        || error?.retryable === true
+        || error instanceof TypeError;
+      if (!retryable || attempt === 2) {
+        throw new Error(
+          `${pathname} failed after ${attempt} attempt(s): `
+          + `${error instanceof Error ? error.message : String(error)}`,
+        );
+      }
+      await new Promise((resolve) => setTimeout(resolve, 500 * attempt));
+    } finally {
+      clearTimeout(timeout);
     }
-    return await response.json();
-  } finally {
-    clearTimeout(timeout);
   }
+
+  throw lastError;
 }
 
 async function fetchPaginated(

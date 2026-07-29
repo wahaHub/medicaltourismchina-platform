@@ -25,7 +25,6 @@ const RETIRED_PATHS = [
   "/bariatric-surgery",
   "/insurance",
   "/faq",
-  "/work-with-us",
   "/why-china",
 ];
 

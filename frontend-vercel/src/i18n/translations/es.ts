@@ -2059,6 +2059,7 @@ export const es = {
   'chatWidget.form.destination.shenzhen': 'Shenzhen',
   'chatWidget.form.destination.hongKong': 'Hong Kong',
   'chatWidget.form.destination.noPreference': 'Sin preferencia',
+  'chatWidget.form.destinationDone': 'Listo',
   'chatWidget.form.treatmentTime': 'Plazo del tratamiento',
   'chatWidget.form.treatmentTimePlaceholder': 'Seleccione el plazo',
   'chatWidget.form.treatmentTime.asap': 'Lo antes posible',

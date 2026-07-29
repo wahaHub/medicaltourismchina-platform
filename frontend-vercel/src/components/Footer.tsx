@@ -5,6 +5,7 @@ import { useLanguage } from "@/contexts/LanguageContext";
 import { Link, useLocation } from "react-router-dom";
 import { handleInternalScroll } from "@/utils/routeScroll";
 import { PRE_DEPARTURE_GUIDE_URL } from "@/config/media";
+import { localizePathname, type SiteLocale } from "@/utils/locale-routing";
 
 type FooterLinkItem =
   | {
@@ -20,7 +21,7 @@ type FooterLinkItem =
     };
 
 const Footer = () => {
-  const { t } = useLanguage();
+  const { t, currentLanguage } = useLanguage();
   const location = useLocation();
   const [showBangladeshContact, setShowBangladeshContact] = useState(false);
   const trustpilotProfileUrl = "https://www.trustpilot.com/review/medicaltourismchina.health";
@@ -59,6 +60,12 @@ const Footer = () => {
   const packagesLinks: FooterLinkItem[] = [
     { key: "footer.servicePackages", href: "/packages" },
     { key: "footer.partnerTourismPackages", placeholder: true },
+  ];
+
+  const workWithUsLinks: FooterLinkItem[] = [
+    { key: "footer.forHospitals", href: `${localizePathname("/work-with-us", currentLanguage.code as SiteLocale)}#hospitals` },
+    { key: "footer.forReferralPartners", href: `${localizePathname("/work-with-us", currentLanguage.code as SiteLocale)}#referral-partners` },
+    { key: "footer.forTravelPartners", href: `${localizePathname("/work-with-us", currentLanguage.code as SiteLocale)}#travel-services` },
   ];
 
   const resourceLinks: FooterLinkItem[] = [
@@ -166,6 +173,16 @@ const Footer = () => {
             <h3 className="text-xl font-bold mb-4">{t('footer.resources')}</h3>
             <ul className="space-y-2">
               {resourceLinks.map((item) => (
+                <li key={item.key}>{renderFooterItem(item)}</li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Work With Us Column */}
+          <div>
+            <h3 className="text-xl font-bold mb-4">{t('footer.workWithUs')}</h3>
+            <ul className="space-y-2">
+              {workWithUsLinks.map((item) => (
                 <li key={item.key}>{renderFooterItem(item)}</li>
               ))}
             </ul>
