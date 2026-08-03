@@ -604,6 +604,9 @@ export default function PatientEntryWindow() {
   const stickToBottomRef = useRef(true);
   const lastScrollTopRef = useRef(0);
   const isProgrammaticScrollRef = useRef(false);
+  const userScrollingRef = useRef(false);
+  const userScrollTimeoutRef = useRef<number | null>(null);
+  const resizeDebounceTimeoutRef = useRef<number | null>(null);
   const translate = useMemo(
     () => createChatWidgetTranslator(currentLanguage.code),
     [currentLanguage.code],
@@ -713,6 +716,20 @@ export default function PatientEntryWindow() {
   const renderedMessages = useMemo(
     () => (stageWidgetMessage ? mergeChatMessages([stageWidgetMessage], displayedMessages) : displayedMessages),
     [displayedMessages, stageWidgetMessage],
+  );
+  // Stable signature so auto-scroll only fires when message content actually changes,
+  // not when the upstream query refetches and produces new object references.
+  const messagesSignature = useMemo(
+    () => renderedMessages
+      .map((message) => [
+        message.id,
+        message.messageState ?? '',
+        message.content?.length ?? 0,
+        message.attachments?.length ?? 0,
+        message.blocks?.length ?? 0,
+      ].join(':'))
+      .join('|'),
+    [renderedMessages],
   );
   const isFallbackPolling = connectionState === 'polling';
   const isConversationSwitchPending = canShowFormalMessages
@@ -947,6 +964,14 @@ export default function PatientEntryWindow() {
         return;
       }
 
+      userScrollingRef.current = true;
+      if (userScrollTimeoutRef.current) {
+        window.clearTimeout(userScrollTimeoutRef.current);
+      }
+      userScrollTimeoutRef.current = window.setTimeout(() => {
+        userScrollingRef.current = false;
+      }, 500);
+
       if (currentTop < lastScrollTopRef.current - 4 && !nearBottom) {
         stickToBottomRef.current = false;
       } else if (nearBottom) {
@@ -960,12 +985,15 @@ export default function PatientEntryWindow() {
     element.addEventListener('scroll', handleScroll, { passive: true });
     return () => {
       element.removeEventListener('scroll', handleScroll);
+      if (userScrollTimeoutRef.current) {
+        window.clearTimeout(userScrollTimeoutRef.current);
+      }
     };
   }, [scrollContainerElement]);
 
   useLayoutEffect(() => {
     const element = scrollContainerElement;
-    if (!element || !stickToBottomRef.current) {
+    if (!element || !stickToBottomRef.current || userScrollingRef.current) {
       return;
     }
 
@@ -975,7 +1003,7 @@ export default function PatientEntryWindow() {
     window.requestAnimationFrame(() => {
       isProgrammaticScrollRef.current = false;
     });
-  }, [renderedMessages, phase, detailLoading, isConversationSwitchPending, canShowFormalMessages, scrollContainerElement]);
+  }, [messagesSignature, scrollContainerElement]);
 
   useEffect(() => {
     const element = scrollContainerElement;
@@ -984,20 +1012,35 @@ export default function PatientEntryWindow() {
     }
 
     const observer = new ResizeObserver(() => {
-      if (!stickToBottomRef.current) {
+      if (!stickToBottomRef.current || userScrollingRef.current) {
         return;
       }
 
-      isProgrammaticScrollRef.current = true;
-      scrollContainerToBottom(element);
-      lastScrollTopRef.current = element.scrollTop;
-      window.requestAnimationFrame(() => {
-        isProgrammaticScrollRef.current = false;
-      });
+      if (resizeDebounceTimeoutRef.current) {
+        window.clearTimeout(resizeDebounceTimeoutRef.current);
+      }
+
+      resizeDebounceTimeoutRef.current = window.setTimeout(() => {
+        if (!stickToBottomRef.current || userScrollingRef.current) {
+          return;
+        }
+
+        isProgrammaticScrollRef.current = true;
+        scrollContainerToBottom(element);
+        lastScrollTopRef.current = element.scrollTop;
+        window.requestAnimationFrame(() => {
+          isProgrammaticScrollRef.current = false;
+        });
+      }, 150);
     });
 
     observer.observe(element);
-    return () => observer.disconnect();
+    return () => {
+      observer.disconnect();
+      if (resizeDebounceTimeoutRef.current) {
+        window.clearTimeout(resizeDebounceTimeoutRef.current);
+      }
+    };
   }, [scrollContainerElement]);
 
   return (
