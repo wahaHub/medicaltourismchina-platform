@@ -152,7 +152,7 @@ describe('PatientChatMessageList — rich blocks', () => {
     expect(screen.getAllByTestId(/assistant-typing-dot-/)).toHaveLength(3);
   });
 
-  it('renders formal conversation blocks unchanged', () => {
+  it('suppresses medical travel process blocks from stored messages', () => {
     render(<PatientChatMessageList messages={[
       makeMessage({
         messageSource: 'formal',
@@ -166,9 +166,36 @@ describe('PatientChatMessageList — rich blocks', () => {
       }),
     ]} />);
 
-    expect(document.querySelector('[data-block-type="PROCESS_MODAL_TRIGGER"]')).toBeTruthy();
-    expect(screen.getByText('Medical Travel Process')).toBeTruthy();
+    expect(document.querySelector('[data-block-type="PROCESS_MODAL_TRIGGER"]')).toBeNull();
+    expect(screen.queryByText('Medical Travel Process')).toBeNull();
     expect(screen.getByText('Here is the process')).toBeTruthy();
+  });
+
+  it('suppresses medical travel process cards from chatbot v3 turns', () => {
+    render(<PatientChatMessageList messages={[
+      makeMessage({
+        messageSource: 'chatbot',
+        content: '',
+        v3Turn: {
+          assistantText: null,
+          attachments: [],
+          cards: [{
+            id: 'card-process',
+            kind: 'PROCESS_GUIDE',
+            title: 'Medical travel process',
+            guideId: 'medical-travel-process',
+            actions: [],
+          }],
+          journey: { stage: 'EXPLAIN_PROCESS', phase: 'active' },
+          handoff: { required: false, ticketId: null },
+          turnOutcome: null,
+          uiIntent: 'EXPLAIN_PROCESS',
+        },
+      }),
+    ]} />);
+
+    expect(screen.queryByText('Medical travel process')).toBeNull();
+    expect(document.querySelector('[data-block-type="PROCESS_MODAL_TRIGGER"]')).toBeNull();
   });
 
   it('bridges questionnaire history resources into the existing questionnaire block', () => {

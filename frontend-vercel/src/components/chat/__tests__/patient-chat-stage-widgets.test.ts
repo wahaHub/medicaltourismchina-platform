@@ -16,7 +16,7 @@ function makeMessage(overrides: Partial<CompactChatMessage> = {}): CompactChatMe
 }
 
 describe('resolveSyntheticStageWidgetMessage', () => {
-  it('places explain-process widgets after the latest rendered turn', () => {
+  it('does not inject the medical travel process widget', () => {
     const widget = resolveSyntheticStageWidgetMessage({
       journeySnapshot: {
         currentStage: 'EXPLAIN_PROCESS',
@@ -31,8 +31,7 @@ describe('resolveSyntheticStageWidgetMessage', () => {
       widgetChatSessionId: 'widget-session-1',
     });
 
-    expect(widget?.id).toBe('stage-widget:explain-process');
-    expect(new Date(widget?.createdAt ?? 0).getTime()).toBeGreaterThan(new Date('2026-04-24T10:05:00.000Z').getTime());
+    expect(widget).toBeNull();
   });
 
   it('keeps handoff widgets available after assistant mode flips to HUMAN_TAKEOVER', () => {

@@ -39,12 +39,6 @@ export function buildChatbotBlocksFromV3Turn(
   for (const card of viewModel.cards) {
     switch (card.kind) {
       case 'PROCESS_GUIDE':
-        blocks.push({
-          id: `v3:${card.id}`,
-          type: 'PROCESS_MODAL_TRIGGER',
-          modalKey: 'MEDICAL_TRAVEL_PROCESS',
-          title: card.title,
-        });
         break;
       case 'UPLOAD_RECORDS':
         blocks.push({
@@ -109,15 +103,6 @@ export function buildChatbotBlocksFromV3Turn(
 
   if (blocks.length > 0) {
     return blocks;
-  }
-
-  if (viewModel.uiIntent === 'EXPLAIN_PROCESS') {
-    return [{
-      id: 'v3:intent:process-guide',
-      type: 'PROCESS_MODAL_TRIGGER',
-      modalKey: 'MEDICAL_TRAVEL_PROCESS',
-      title: translate('chatWidget.v3.process.title'),
-    }];
   }
 
   if (viewModel.uiIntent === 'SUPPORTING_DOCUMENT_UPLOAD') {

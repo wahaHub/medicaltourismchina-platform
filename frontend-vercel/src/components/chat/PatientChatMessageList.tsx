@@ -214,7 +214,8 @@ export default function PatientChatMessageList({
           : [];
         const coveredResourceTypes = resolveCoveredResourceTypes(chatbotV3Blocks);
         const remainingAssistantResources = assistantResources.filter(
-          (resource) => !coveredResourceTypes.has(resource.resourceType),
+          (resource) => resource.resourceType !== 'PROCESS_GUIDE'
+            && !coveredResourceTypes.has(resource.resourceType),
         );
         const coveredLegacyBlockTypes = resolveCoveredLegacyBlockTypes(remainingAssistantResources);
         const effectiveBlocks = [...chatbotV3Blocks];
@@ -224,6 +225,10 @@ export default function PatientChatMessageList({
           && chatbotV3Blocks.length === 0;
 
         for (const block of message.blocks ?? []) {
+          if (block.type === 'PROCESS_MODAL_TRIGGER') {
+            continue;
+          }
+
           if (shouldSuppressLegacyChatbotBlocks) {
             continue;
           }
@@ -247,6 +252,15 @@ export default function PatientChatMessageList({
           && !isPatient
           && remainingAssistantResources.length > 0;
         const shouldRenderBlocks = hasLegacyBlocks || (hasChatbotBlocks && (chatbotV3Blocks.length > 0 || !shouldRenderLegacyResources));
+        const hasVisibleContent = isTyping
+          || (visibleAssistantText.length > 0 && !hideContent)
+          || shouldRenderLegacyResources
+          || shouldRenderBlocks
+          || Boolean(message.attachments?.length);
+
+        if (!isPatient && !hasVisibleContent) {
+          return null;
+        }
 
         return (
           <div

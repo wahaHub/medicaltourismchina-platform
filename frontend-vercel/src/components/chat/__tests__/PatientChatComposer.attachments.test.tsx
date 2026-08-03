@@ -204,7 +204,7 @@ describe('PatientChatComposer attachments', () => {
     );
 
     const textarea = screen.getByRole('textbox');
-    expect(textarea).toHaveProperty('disabled', true);
+    expect(textarea).toHaveProperty('disabled', false);
 
     const file = new File(['scan'], 'ct-scan.pdf', { type: 'application/pdf' });
     fireEvent.change(screen.getByLabelText('Attach files'), { target: { files: [file] } });
@@ -249,6 +249,50 @@ describe('PatientChatComposer attachments', () => {
         })],
       })],
     }));
+  });
+
+  it('sends free-text messages to the formal session in mechanical mode', async () => {
+    vi.mocked(patientMessagesApi.sendSessionMessage).mockResolvedValue({
+      id: 'mechanical-text-message-1',
+      sessionId: 'widget-chat:patient-1:case-1',
+      conversationId: null,
+      senderId: 'patient-1',
+      senderRole: 'PATIENT',
+      senderName: 'Patient',
+      content: 'I have an additional symptom to share.',
+      originalLanguage: null,
+      translatedContent: null,
+      messageType: 'TEXT',
+      moderationStatus: 'APPROVED',
+      attachments: [],
+      aiSummary: null,
+      createdAt: '2026-06-02T00:00:00.000Z',
+    } as never);
+
+    render(
+      <PatientChatComposer
+        sessionId="widget-chat:patient-1:case-1"
+        assistantMode="AI_ACTIVE"
+        widgetChatTarget={{ sessionId: 'widget-session-1' }}
+        mechanicalMode
+      />,
+    );
+
+    fireEvent.change(screen.getByRole('textbox'), {
+      target: { value: 'I have an additional symptom to share.' },
+    });
+    fireEvent.click(screen.getByRole('button', { name: 'Send' }));
+
+    await waitFor(() => {
+      expect(patientMessagesApi.sendSessionMessage).toHaveBeenCalledWith({
+        sessionId: 'widget-chat:patient-1:case-1',
+        content: 'I have an additional symptom to share.',
+        messageType: 'TEXT',
+        mechanicalMode: true,
+        attachments: [],
+      });
+    });
+    expect(patientChatbotV3Api.sendMessage).not.toHaveBeenCalled();
   });
 
   it('marks the optimistic mechanical upload block failed and reports failure when upload fails', async () => {

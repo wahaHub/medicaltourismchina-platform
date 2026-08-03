@@ -62,42 +62,6 @@ function buildSyntheticStageWidgetMessage(
     messageState: 'sent' as const,
   };
 
-  if (input.stage === 'EXPLAIN_PROCESS') {
-    const v3Turn: ChatbotV3TurnViewModel = {
-      assistantText: null,
-      attachments: [],
-      cards: input.cards && input.cards.length > 0
-        ? input.cards
-        : [{
-            id: 'card-process-guide',
-            kind: 'PROCESS_GUIDE',
-            title: 'Medical travel process',
-            guideId: 'guide-process',
-            actions: [{
-              type: 'OPEN_MODAL',
-              label: 'Open process guide',
-              modalKey: 'MEDICAL_TRAVEL_PROCESS',
-            }],
-          }],
-      journey: {
-        stage: 'EXPLAIN_PROCESS',
-        phase: input.phase,
-      },
-      handoff: input.handoff ?? {
-        required: false,
-        ticketId: null,
-      },
-      turnOutcome: null,
-      uiIntent: 'EXPLAIN_PROCESS',
-    };
-
-    return {
-      id: 'stage-widget:explain-process',
-      ...baseMessage,
-      v3Turn,
-    };
-  }
-
   if (input.stage === 'COLLECT_MEDICAL_INPUTS') {
     const v3Turn: ChatbotV3TurnViewModel = {
       assistantText: null,
@@ -239,10 +203,7 @@ export function resolveSyntheticStageWidgetMessage(
     return null;
   }
 
-  if (
-    effectiveJourney.stage === 'EXPLAIN_PROCESS'
-    && hasRenderedChatStageWidget(displayedMessages, 'PROCESS_MODAL_TRIGGER')
-  ) {
+  if (effectiveJourney.stage === 'EXPLAIN_PROCESS') {
     return null;
   }
 
@@ -280,7 +241,7 @@ export function resolveSyntheticStageWidgetMessage(
     return null;
   }
 
-  if (effectiveJourney.stage !== 'EXPLAIN_PROCESS' && effectiveJourney.stage !== 'COLLECT_MEDICAL_INPUTS') {
+  if (effectiveJourney.stage !== 'COLLECT_MEDICAL_INPUTS') {
     return null;
   }
 

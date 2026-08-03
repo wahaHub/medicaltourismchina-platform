@@ -102,6 +102,7 @@ export default function MechanicalChatMenu({
   const detectedTimeZone = useMemo(() => getBrowserTimeZone(), []);
   const [userTimeZone, setUserTimeZone] = useState(detectedTimeZone);
   const timeZoneOptions = useMemo(() => getTimeZoneOptions(detectedTimeZone), [detectedTimeZone]);
+  const visibleActions = chatState.availableActions.filter((action) => action.id === 'UPLOAD_RECORDS');
 
   const runAction = async (actionKey: PatientChatActionKey) => {
     if (pendingAction) {
@@ -166,10 +167,10 @@ export default function MechanicalChatMenu({
 
   return (
     <div className="space-y-4" data-testid="mechanical-chat-menu">
-      {chatState.availableActions.length > 0 ? (
+      {visibleActions.length > 0 ? (
         <div className="sticky bottom-0 z-10 rounded-2xl border border-slate-200 bg-white p-2 shadow-[0_12px_30px_rgba(15,23,42,0.10)]" data-testid="mechanical-action-bar">
           <div className="grid grid-cols-2 gap-2">
-            {chatState.availableActions.map((action) => {
+            {visibleActions.map((action) => {
               const Icon = ACTION_ICONS[action.id] ?? Route;
               const isPending = pendingAction === action.id;
               return (

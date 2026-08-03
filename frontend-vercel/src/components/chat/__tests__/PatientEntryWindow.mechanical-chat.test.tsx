@@ -74,10 +74,10 @@ const backendMechanicalState: PatientChatState = {
     { id: 'BOOK_ONLINE_CONSULT', label: '预约在线问诊', icon: 'calendar' },
   ],
   composerPolicy: {
-    textEnabled: false,
+    textEnabled: true,
     attachmentsEnabled: true,
-    sendEnabledWhen: 'attachment_only',
-    placeholder: '请使用上方菜单继续。',
+    sendEnabledWhen: 'text_or_attachment',
+    placeholder: '发送消息给顾问团队。',
   },
 };
 
@@ -198,12 +198,12 @@ describe('PatientEntryWindow backend-owned mechanical chat', () => {
   it('renders backend-provided mechanical actions after profile onboarding', () => {
     renderWithQueryClient(<PatientEntryWindow />);
 
-    expect(screen.getByRole('button', { name: '了解就医流程' })).toBeDefined();
+    expect(screen.queryByRole('button', { name: '了解就医流程' })).toBeNull();
     expect(screen.getByRole('button', { name: '上传医疗资料' })).toBeDefined();
-    expect(screen.getByRole('button', { name: '联系顾问' })).toBeDefined();
-    expect(screen.getByRole('button', { name: '填写病情表' })).toBeDefined();
-    expect(screen.getByRole('button', { name: '预约在线问诊' })).toBeDefined();
-    expect(screen.getByPlaceholderText('请使用上方菜单继续。')).toBeDefined();
+    expect(screen.queryByRole('button', { name: '联系顾问' })).toBeNull();
+    expect(screen.queryByRole('button', { name: '填写病情表' })).toBeNull();
+    expect(screen.queryByRole('button', { name: '预约在线问诊' })).toBeNull();
+    expect(screen.getByPlaceholderText('发送消息给顾问团队。')).toBeDefined();
   });
 
   it('does not render the mechanical menu unless the backend chatState says mechanical', () => {
@@ -253,51 +253,4 @@ describe('PatientEntryWindow backend-owned mechanical chat', () => {
     expect(patientChatbotV3Api.sendMessage).not.toHaveBeenCalled();
   });
 
-  it('requests human handoff through the backend state machine', async () => {
-    renderWithQueryClient(<PatientEntryWindow />);
-
-    fireEvent.click(screen.getByRole('button', { name: '联系顾问' }));
-
-    await waitFor(() => {
-      expect(patientMessagesApi.sendSessionChatEvent).toHaveBeenCalledWith({
-        sessionId: 'widget-chat:patient-1:case-1',
-        eventType: 'ACTION_SELECTED',
-        actionKey: 'CONTACT_ADVISOR',
-        clientMessageId: 'ma:widget-chat:patient-1:case-1:ca',
-        locale: 'zh',
-      });
-    });
-    expect(patientMessagesApi.sendSessionChatEvent).toHaveBeenCalledTimes(1);
-  });
-
-  it('keeps mechanical action client ids within backend validation limits', async () => {
-    const uuidSessionId = 'widget-chat:00000000-0000-4000-8000-000000000001:00000000-0000-4000-8000-000000000002';
-    const uuidSession = {
-      ...careTeamSession,
-      id: uuidSessionId,
-      sessionId: uuidSessionId,
-    };
-    vi.mocked(usePatientSessionRuntime).mockReturnValue(buildRuntimeState({
-      sessions: [uuidSession],
-      activeSessionId: uuidSessionId,
-      activeSession: uuidSession,
-      detail: {
-        ...buildRuntimeState().detail,
-        sessionId: uuidSessionId,
-      },
-    }) as never);
-
-    renderWithQueryClient(<PatientEntryWindow />);
-
-    fireEvent.click(screen.getByRole('button', { name: '填写病情表' }));
-
-    await waitFor(() => {
-      expect(patientMessagesApi.sendSessionChatEvent).toHaveBeenCalledWith(expect.objectContaining({
-        actionKey: 'OPEN_QUESTIONNAIRE',
-        clientMessageId: expect.any(String),
-      }));
-    });
-    const payload = vi.mocked(patientMessagesApi.sendSessionChatEvent).mock.calls[0]?.[0];
-    expect(payload?.clientMessageId?.length).toBeLessThanOrEqual(120);
-  });
 });

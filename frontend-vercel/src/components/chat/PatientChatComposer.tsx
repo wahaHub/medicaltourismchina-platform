@@ -227,15 +227,14 @@ export default function PatientChatComposer({
         : null);
   const attachmentsSupported = Boolean(effectiveTarget) && (composerPolicy?.attachmentsEnabled ?? true);
   const isTextDisabled = isSending
-    || !(composerPolicy?.textEnabled ?? !mechanicalMode)
+    || !(composerPolicy?.textEnabled ?? true)
     || !isFormalMessagingPhase
     || !effectiveTarget;
   const isSendDisabled = isSending
     || !isFormalMessagingPhase
     || !effectiveTarget
     || composerPolicy?.sendEnabledWhen === 'disabled'
-    || (composerPolicy?.sendEnabledWhen === 'attachment_only' && selectedFiles.length === 0)
-    || (!composerPolicy && mechanicalMode && selectedFiles.length === 0);
+    || (composerPolicy?.sendEnabledWhen === 'attachment_only' && selectedFiles.length === 0);
 
   useEffect(() => {
     if (!registerComposerAttachmentPicker) {
@@ -622,7 +621,7 @@ export default function PatientChatComposer({
         value={value}
         onChange={(event) => setValue(event.target.value)}
         placeholder={composerPolicy?.placeholder ?? (isFormalMessagingPhase
-          ? (mechanicalMode ? translate('chatWidget.composer.placeholderMechanical') : translate('chatWidget.composer.placeholderHuman'))
+          ? translate('chatWidget.composer.placeholderHuman')
           : translate('chatWidget.composer.placeholderAi'))}
         className="min-h-[88px] resize-none"
         disabled={isTextDisabled}
