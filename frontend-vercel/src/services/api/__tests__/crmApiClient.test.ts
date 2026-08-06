@@ -65,3 +65,46 @@ describe('crmApiRequest', () => {
     vi.useRealTimers();
   });
 });
+
+describe('patient intake API', () => {
+  beforeEach(() => {
+    vi.resetModules();
+  });
+
+  it('submits the medical intake through the authenticated CRM patient route', async () => {
+    const fetchMock = vi.fn()
+      .mockResolvedValueOnce({
+        ok: true,
+        text: vi.fn().mockResolvedValue(JSON.stringify({
+          template: { id: 'template-1', templateName: 'Default', category: 'DEFAULT' },
+        })),
+      })
+      .mockResolvedValueOnce({
+        ok: true,
+        text: vi.fn().mockResolvedValue(JSON.stringify({
+          response: {
+            id: 'response-1',
+            caseId: 'case-1',
+            templateId: 'template-1',
+            completionStatus: 'COMPLETED',
+          },
+        })),
+      });
+    vi.stubGlobal('fetch', fetchMock);
+
+    const { crmApi } = await import('../crmApiClient');
+    const { template } = await crmApi.getIntakeTemplate();
+    await crmApi.submitIntakeResponse('case-1', template.id, { step2: { main_category: 'oncology' } });
+
+    expect(fetchMock.mock.calls[0]?.[0]).toBe('/api/patient/qc-templates/by-disease?disease=DEFAULT');
+    expect(fetchMock.mock.calls[1]?.[0]).toBe('/api/patient/intake/case-1/response');
+    expect(fetchMock.mock.calls[1]?.[1]).toMatchObject({
+      method: 'POST',
+      credentials: 'include',
+      body: JSON.stringify({
+        templateId: 'template-1',
+        responses: { step2: { main_category: 'oncology' } },
+      }),
+    });
+  });
+});

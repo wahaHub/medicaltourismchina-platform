@@ -21,6 +21,7 @@ import {
 } from 'lucide-react';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { useAuth } from '@/contexts/AuthContext';
+import { usePatientAuth } from '@/hooks/usePatientAuth';
 import { CaseIntakeFormData, CaseIntake } from '@/types/caseIntake';
 import {
   createCaseIntake,
@@ -29,6 +30,7 @@ import {
 } from '@/services/api/caseIntakes';
 import { ValidateTokenResponse } from '@/services/api/salesTokens';
 import { supabase, isSupabaseConfigured } from '@/config/supabaseClient';
+import { crmApi } from '@/services/api/crmApiClient';
 
 // Import step components
 import Step2Component from './steps/Step2';
@@ -110,6 +112,7 @@ export function CaseIntakeSinglePage({
 }: CaseIntakeSinglePageProps) {
   const { t, currentLanguage } = useLanguage();
   const { user, logout } = useAuth();
+  const { patient } = usePatientAuth();
   const navigate = useNavigate();
   const isZh = String(currentLanguage) === 'zh';
 
@@ -280,6 +283,18 @@ export function CaseIntakeSinglePage({
     setSaveError(null);
 
     try {
+      if (!isTokenMode && patient?.caseId) {
+        const { template } = await crmApi.getIntakeTemplate();
+        await crmApi.submitIntakeResponse(patient.caseId, template.id, formData);
+
+        if (onComplete) {
+          onComplete();
+        } else {
+          navigate('/dashboard?caseIntakeSuccess=true');
+        }
+        return;
+      }
+
       let userId = user?.id;
       let authUserId: string | null = null;
 

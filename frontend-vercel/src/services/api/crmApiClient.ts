@@ -299,6 +299,23 @@ export type PatientSessionProfileUpdate = Partial<Pick<
   | 'treatmentTime'
 >>;
 
+export type PatientIntakeTemplateResponse = {
+  template: {
+    id: string;
+    templateName: string;
+    category: string;
+  };
+};
+
+export type PatientIntakeSubmissionResponse = {
+  response: {
+    id: string;
+    caseId: string;
+    templateId: string;
+    completionStatus: string;
+  };
+};
+
 export type VerifyTokenResponse = PatientSessionProfile & {
   patientId: string;
   caseId: string;
@@ -315,6 +332,16 @@ export const crmApi = {
     crmApiRequest<PatientSessionProfile>('/me', {
       method: 'PATCH',
       body: JSON.stringify(profile),
+    }),
+  getIntakeTemplate: (disease = 'DEFAULT') =>
+    crmApiRequest<PatientIntakeTemplateResponse>(
+      `/qc-templates/by-disease?disease=${encodeURIComponent(disease)}`,
+      { method: 'GET' },
+    ),
+  submitIntakeResponse: (caseId: string, templateId: string, responses: unknown) =>
+    crmApiRequest<PatientIntakeSubmissionResponse>(`/intake/${encodeURIComponent(caseId)}/response`, {
+      method: 'POST',
+      body: JSON.stringify({ templateId, responses }),
     }),
   restoreSession: (restoreToken: string) =>
     crmApiRequest<VerifyTokenResponse>('/session/restore', {
