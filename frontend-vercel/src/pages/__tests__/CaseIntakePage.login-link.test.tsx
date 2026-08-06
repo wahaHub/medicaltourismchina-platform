@@ -1,6 +1,6 @@
 import { fireEvent, render, screen } from '@testing-library/react';
 import { MemoryRouter, Route, Routes, useLocation } from 'react-router-dom';
-import { describe, expect, it, vi } from 'vitest';
+import { beforeEach, describe, expect, it, vi } from 'vitest';
 import { CaseIntakePage } from '../CaseIntakePage';
 
 vi.mock('@/components/case-intake/CaseIntakeSinglePage', () => ({
@@ -13,6 +13,16 @@ vi.mock('@/contexts/LanguageContext', () => ({
 
 vi.mock('@/contexts/AuthContext', () => ({
   useAuth: () => ({ user: null, isAuthenticated: false, isLoading: false }),
+}));
+
+const patientAuthState = vi.hoisted(() => ({
+  patient: null as { id: string } | null,
+  isAuthenticated: false,
+  isLoading: false,
+}));
+
+vi.mock('@/hooks/usePatientAuth', () => ({
+  usePatientAuth: () => patientAuthState,
 }));
 
 vi.mock('@/config/supabaseClient', () => ({
@@ -30,6 +40,12 @@ function PatientLoginDestination() {
 }
 
 describe('CaseIntakePage login link', () => {
+  beforeEach(() => {
+    patientAuthState.patient = null;
+    patientAuthState.isAuthenticated = false;
+    patientAuthState.isLoading = false;
+  });
+
   it('opens the patient email sign-in page', () => {
     render(
       <MemoryRouter initialEntries={['/medical-case-intake']}>
@@ -43,5 +59,21 @@ describe('CaseIntakePage login link', () => {
     fireEvent.click(screen.getByRole('button', { name: 'Go to Login' }));
 
     expect(screen.getByTestId('login-location').textContent).toBe('/patient-login');
+  });
+
+  it('accepts the CRM patient session created by patient login', () => {
+    patientAuthState.patient = { id: 'patient-1' };
+    patientAuthState.isAuthenticated = true;
+
+    render(
+      <MemoryRouter initialEntries={['/medical-case-intake']}>
+        <Routes>
+          <Route path="/medical-case-intake" element={<CaseIntakePage />} />
+        </Routes>
+      </MemoryRouter>,
+    );
+
+    expect(screen.getByText('intake form')).toBeTruthy();
+    expect(screen.queryByRole('button', { name: 'Go to Login' })).toBeNull();
   });
 });

@@ -5,6 +5,7 @@ import { Button } from '@/components/ui/button';
 import { ArrowLeft, Loader2, Mail, AlertTriangle } from 'lucide-react';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { useAuth } from '@/contexts/AuthContext';
+import { usePatientAuth } from '@/hooks/usePatientAuth';
 import { supabase, isSupabaseConfigured } from '@/config/supabaseClient';
 import { validateSalesToken, ValidateTokenResponse } from '@/services/api/salesTokens';
 import { BRAND_LOGO_URL } from '@/config/brandAssets';
@@ -14,7 +15,16 @@ export function CaseIntakePage() {
   const location = useLocation();
   const [searchParams] = useSearchParams();
   const { t, currentLanguage } = useLanguage();
-  const { user, isAuthenticated, isLoading: authLoading } = useAuth();
+  const {
+    user: legacyUser,
+    isAuthenticated: isLegacyAuthenticated,
+    isLoading: isLegacyAuthLoading,
+  } = useAuth();
+  const {
+    patient,
+    isAuthenticated: isPatientAuthenticated,
+    isLoading: isPatientAuthLoading,
+  } = usePatientAuth();
   const [isProcessingMagicLink, setIsProcessingMagicLink] = useState(false);
   const [magicLinkError, setMagicLinkError] = useState<string | null>(null);
 
@@ -25,6 +35,10 @@ export function CaseIntakePage() {
   const [tokenError, setTokenError] = useState<string | null>(null);
   const isZh = String(currentLanguage) === 'zh';
   const loginPath = '/patient-login';
+  const hasAuthenticatedUser = Boolean(
+    (isPatientAuthenticated && patient) || (isLegacyAuthenticated && legacyUser),
+  );
+  const authLoading = !hasAuthenticatedUser && (isPatientAuthLoading || isLegacyAuthLoading);
 
   // Check for sales token in URL
   useEffect(() => {
@@ -181,7 +195,7 @@ export function CaseIntakePage() {
   const isTokenMode = salesToken && tokenValidation?.is_valid;
 
   // Show login prompt if not authenticated AND not in token mode
-  if (!isTokenMode && (!isAuthenticated || !user)) {
+  if (!isTokenMode && !hasAuthenticatedUser) {
     return (
       <div className="min-h-screen bg-gray-50 flex items-center justify-center relative">
         <LogoHeader />
