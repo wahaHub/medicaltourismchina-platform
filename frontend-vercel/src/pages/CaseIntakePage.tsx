@@ -24,6 +24,7 @@ export function CaseIntakePage() {
   const [isValidatingToken, setIsValidatingToken] = useState(false);
   const [tokenError, setTokenError] = useState<string | null>(null);
   const isZh = String(currentLanguage) === 'zh';
+  const loginPath = `/auth?returnTo=${encodeURIComponent(`${location.pathname}${location.search}`)}`;
 
   // Check for sales token in URL
   useEffect(() => {
@@ -164,7 +165,7 @@ export function CaseIntakePage() {
           </h2>
           <p className="text-gray-600 mb-6">{magicLinkError}</p>
           <div className="space-y-3">
-            <Button onClick={() => navigate('/auth')} className="w-full">
+            <Button onClick={() => navigate(loginPath)} className="w-full">
               {t('caseIntake.goToLogin') || 'Go to Login'}
             </Button>
             <Button variant="outline" onClick={() => navigate('/')} className="w-full">
@@ -195,7 +196,7 @@ export function CaseIntakePage() {
             {t('caseIntake.loginRequiredMessage') || 'Please log in to access the Medical Case Intake form. If you received an email invitation, please use the link in that email.'}
           </p>
           <div className="space-y-3">
-            <Button onClick={() => navigate('/auth')} className="w-full">
+            <Button onClick={() => navigate(loginPath)} className="w-full">
               {t('caseIntake.goToLogin') || 'Go to Login'}
             </Button>
             <Button variant="outline" onClick={() => navigate('/')} className="w-full">
