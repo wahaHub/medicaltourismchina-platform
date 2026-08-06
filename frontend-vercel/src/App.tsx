@@ -39,8 +39,6 @@ const NotFound = lazy(() => import("./pages/NotFound"));
 const Telemedicine = lazy(() => import("./pages/Telemedicine"));
 const FreeQuote = lazy(() => import("./pages/FreeQuote"));
 const PatientLoginPage = lazy(() => import("./pages/PatientLoginPage"));
-const AuthPage = lazy(() => import("./pages/AuthPage"));
-const AuthCallback = lazy(() => import("./pages/AuthCallback"));
 const DashboardRoute = lazy(() => import("./pages/DashboardRoute"));
 const LocationGuide = lazy(() => import("./pages/LocationGuide"));
 const DeferredPatientMessaging = lazy(() => import("./components/DeferredPatientMessaging"));
@@ -189,8 +187,6 @@ const App = () => (
                     <Route path="/locations/china/:city" element={<LocationGuide />} />
                     <Route path="/medical-case-intake" element={<NoIndexRoute title="Medical Case Intake | Medora Health"><CaseIntakePage /></NoIndexRoute>} />
                     <Route path="/case-intake/:id" element={<NoIndexRoute title="Medical Case | Medora Health"><CaseIntakeViewPage /></NoIndexRoute>} />
-                    <Route path="/auth" element={<NoIndexRoute title="Login | Medora Health"><AuthPage /></NoIndexRoute>} />
-                    <Route path="/auth/callback" element={<NoIndexRoute title="Login | Medora Health"><AuthCallback /></NoIndexRoute>} />
                     <Route path="/patient-login" element={<NoIndexRoute title="Patient Login | Medora Health"><PatientLoginPage /></NoIndexRoute>} />
                     <Route path="/dashboard" element={<NoIndexRoute title="Patient Dashboard | Medora Health"><PatientRuntimeRoute><DashboardRoute /></PatientRuntimeRoute></NoIndexRoute>} />
 

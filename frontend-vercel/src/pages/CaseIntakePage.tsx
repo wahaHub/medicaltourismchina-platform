@@ -24,7 +24,7 @@ export function CaseIntakePage() {
   const [isValidatingToken, setIsValidatingToken] = useState(false);
   const [tokenError, setTokenError] = useState<string | null>(null);
   const isZh = String(currentLanguage) === 'zh';
-  const loginPath = `/auth?returnTo=${encodeURIComponent(`${location.pathname}${location.search}`)}`;
+  const loginPath = '/patient-login';
 
   // Check for sales token in URL
   useEffect(() => {

@@ -1,12 +1,9 @@
 import { useEffect, useState } from 'react'
-import { useNavigate, useSearchParams } from 'react-router-dom'
+import { useNavigate } from 'react-router-dom'
 import { supabase, isSupabaseConfigured } from '../config/supabaseClient'
-import { resolveSafeAuthReturnPath } from '../utils/auth-return-path'
 
 export default function AuthCallback() {
   const navigate = useNavigate()
-  const [searchParams] = useSearchParams()
-  const returnPath = resolveSafeAuthReturnPath(searchParams.get('returnTo'))
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
 
@@ -25,29 +22,29 @@ export default function AuthCallback() {
           console.error('Auth callback error:', error)
           setError(error.message)
           // 3秒后重定向到登录页
-          setTimeout(() => navigate(`/auth?returnTo=${encodeURIComponent(returnPath)}`), 3000)
+          setTimeout(() => navigate('/auth'), 3000)
           return
         }
 
         if (data.session) {
           console.log('Auth successful:', data.session.user)
-          // Complete OAuth by returning to the page that requested authentication.
-          navigate(returnPath, { replace: true })
+          // 登录成功，重定向到 dashboard
+          navigate('/dashboard')
         } else {
           // 没有会话，重定向到登录页
-          navigate(`/auth?returnTo=${encodeURIComponent(returnPath)}`, { replace: true })
+          navigate('/auth')
         }
       } catch (err) {
         console.error('Unexpected error during auth callback:', err)
         setError('认证过程中发生意外错误')
-        setTimeout(() => navigate(`/auth?returnTo=${encodeURIComponent(returnPath)}`), 3000)
+        setTimeout(() => navigate('/auth'), 3000)
       } finally {
         setLoading(false)
       }
     }
 
     handleAuthCallback()
-  }, [navigate, returnPath])
+  }, [navigate])
 
   if (loading) {
     return (

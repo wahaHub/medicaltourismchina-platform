@@ -1,16 +1,13 @@
 import { useEffect } from 'react'
-import { useNavigate, useSearchParams } from 'react-router-dom'
+import { useNavigate } from 'react-router-dom'
 import { supabase, isSupabaseConfigured } from '../config/supabaseClient'
 import { Auth } from '@supabase/auth-ui-react'
 import { ThemeSupa } from '@supabase/auth-ui-shared'
 import { useLanguage } from '../contexts/LanguageContext'
-import { resolveSafeAuthReturnPath } from '../utils/auth-return-path'
 
 export default function AuthPage() {
   const navigate = useNavigate()
-  const [searchParams] = useSearchParams()
   const { t } = useLanguage()
-  const returnPath = resolveSafeAuthReturnPath(searchParams.get('returnTo'))
 
   useEffect(() => {
     if (!isSupabaseConfigured) {
@@ -20,8 +17,8 @@ export default function AuthPage() {
     const checkUser = async () => {
       const { data: { session } } = await supabase.auth.getSession()
       if (session) {
-        // Return an existing session to the page that requested authentication.
-        navigate(returnPath, { replace: true })
+        // 用户已登录，重定向到首页或 dashboard
+        navigate('/dashboard')
       }
     }
     
@@ -30,13 +27,13 @@ export default function AuthPage() {
     // 监听认证状态变化
     const { data: { subscription } } = supabase.auth.onAuthStateChange((event, session) => {
       if (event === 'SIGNED_IN' && session) {
-        // Return a newly authenticated user to the requesting page.
-        navigate(returnPath, { replace: true })
+        // 登录成功，重定向到 dashboard
+        navigate('/dashboard')
       }
     })
 
     return () => subscription.unsubscribe()
-  }, [navigate, returnPath])
+  }, [navigate])
 
   if (!isSupabaseConfigured) {
     return (
@@ -84,7 +81,7 @@ export default function AuthPage() {
             providers={['google']}
             view="sign_in"
             showLinks={true}
-            redirectTo={`${window.location.origin}/auth/callback?returnTo=${encodeURIComponent(returnPath)}`}
+            redirectTo={`${window.location.origin}/auth/callback`}
             localization={{
               variables: {
                 sign_in: {

@@ -24,26 +24,24 @@ vi.mock('@/services/api/salesTokens', () => ({
   validateSalesToken: vi.fn(),
 }));
 
-function AuthDestination() {
+function PatientLoginDestination() {
   const location = useLocation();
-  return <div data-testid="auth-location">{`${location.pathname}${location.search}`}</div>;
+  return <div data-testid="login-location">{`${location.pathname}${location.search}`}</div>;
 }
 
 describe('CaseIntakePage login link', () => {
-  it('opens the registered auth route with the intake page as return target', () => {
+  it('opens the patient email sign-in page', () => {
     render(
       <MemoryRouter initialEntries={['/medical-case-intake']}>
         <Routes>
           <Route path="/medical-case-intake" element={<CaseIntakePage />} />
-          <Route path="/auth" element={<AuthDestination />} />
+          <Route path="/patient-login" element={<PatientLoginDestination />} />
         </Routes>
       </MemoryRouter>,
     );
 
     fireEvent.click(screen.getByRole('button', { name: 'Go to Login' }));
 
-    expect(screen.getByTestId('auth-location').textContent).toBe(
-      '/auth?returnTo=%2Fmedical-case-intake',
-    );
+    expect(screen.getByTestId('login-location').textContent).toBe('/patient-login');
   });
 });
