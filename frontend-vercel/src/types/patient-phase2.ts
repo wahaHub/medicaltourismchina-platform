@@ -59,6 +59,7 @@ export type PatientOrder = {
   paymentMethod: string | null;
   paidAt: string | null;
   completedAt: string | null;
+  metadata: unknown;
   createdAt: string;
   updatedAt: string;
 };
@@ -147,6 +148,6 @@ export type CreatePatientOrderInput = {
 };
 
 export type PaymentIntentResult = {
-  clientSecret: string;
   orderId: string;
+  checkoutUrl: string;
 };

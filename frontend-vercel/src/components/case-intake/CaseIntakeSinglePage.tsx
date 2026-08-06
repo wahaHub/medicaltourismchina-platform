@@ -30,7 +30,7 @@ import {
 } from '@/services/api/caseIntakes';
 import { ValidateTokenResponse } from '@/services/api/salesTokens';
 import { supabase, isSupabaseConfigured } from '@/config/supabaseClient';
-import { crmApi } from '@/services/api/crmApiClient';
+import { ApiError, crmApi } from '@/services/api/crmApiClient';
 
 // Import step components
 import Step2Component from './steps/Step2';
@@ -285,13 +285,25 @@ export function CaseIntakeSinglePage({
     try {
       if (!isTokenMode && patient?.caseId) {
         const { template } = await crmApi.getIntakeTemplate();
-        await crmApi.submitIntakeResponse(patient.caseId, template.id, formData);
-
-        if (onComplete) {
-          onComplete();
-        } else {
-          navigate('/dashboard?caseIntakeSuccess=true');
+        let responseId: string;
+        try {
+          const submission = await crmApi.submitIntakeResponse(patient.caseId, template.id, formData);
+          responseId = submission.response.id;
+        } catch (error) {
+          if (!(error instanceof ApiError) || error.status !== 409) {
+            throw error;
+          }
+          const existingSubmission = await crmApi.getIntakeResponse(patient.caseId);
+          if (!existingSubmission.response) {
+            throw error;
+          }
+          responseId = existingSubmission.response.id;
         }
+        const checkout = await crmApi.startWrittenReviewCheckout(
+          patient.caseId,
+          `written-review-${responseId}`,
+        );
+        window.location.assign(checkout.checkoutUrl);
         return;
       }
 

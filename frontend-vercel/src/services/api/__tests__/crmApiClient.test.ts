@@ -107,4 +107,56 @@ describe('patient intake API', () => {
       }),
     });
   });
+
+  it('starts and confirms a Written Review Stripe checkout through CRM orders', async () => {
+    const fetchMock = vi.fn()
+      .mockResolvedValueOnce({
+        ok: true,
+        text: vi.fn().mockResolvedValue(JSON.stringify({
+          orderId: 'order-1',
+          checkoutUrl: 'https://checkout.stripe.com/c/pay/test',
+        })),
+      })
+      .mockResolvedValueOnce({
+        ok: true,
+        text: vi.fn().mockResolvedValue(JSON.stringify({
+          orderId: 'order-1',
+          paymentStatus: 'paid',
+        })),
+      });
+    vi.stubGlobal('fetch', fetchMock);
+
+    const { crmApi } = await import('../crmApiClient');
+    await crmApi.startWrittenReviewCheckout('case-1', 'written-review-response-1');
+    await crmApi.confirmOrderCheckout('cs_test_1');
+
+    expect(fetchMock.mock.calls[0]?.[0]).toBe('/api/patient/orders/written-review/checkout');
+    expect(fetchMock.mock.calls[0]?.[1]).toMatchObject({
+      method: 'POST',
+      body: JSON.stringify({ caseId: 'case-1', idempotencyKey: 'written-review-response-1' }),
+    });
+    expect(fetchMock.mock.calls[1]?.[0]).toBe('/api/patient/orders/checkout-session/cs_test_1/confirm');
+  });
+
+  it('retrieves an existing intake response so checkout can be retried', async () => {
+    const fetchMock = vi.fn().mockResolvedValue({
+      ok: true,
+      text: vi.fn().mockResolvedValue(JSON.stringify({
+        response: {
+          id: 'response-1',
+          caseId: 'case-1',
+          templateId: 'template-1',
+          completionStatus: 'COMPLETED',
+        },
+      })),
+    });
+    vi.stubGlobal('fetch', fetchMock);
+
+    const { crmApi } = await import('../crmApiClient');
+    const result = await crmApi.getIntakeResponse('case-1');
+
+    expect(result.response?.id).toBe('response-1');
+    expect(fetchMock.mock.calls[0]?.[0]).toBe('/api/patient/intake/case-1/response');
+    expect(fetchMock.mock.calls[0]?.[1]).toMatchObject({ method: 'GET' });
+  });
 });

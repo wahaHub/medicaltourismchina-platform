@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { CreditCard, Package2, ReceiptText } from 'lucide-react';
 import { useSearchParams } from 'react-router-dom';
 import { Badge } from '@/components/ui/badge';
@@ -17,6 +17,7 @@ import {
   paymentMethodLabel,
 } from '@/lib/patient-phase2';
 import type { PatientPackage } from '@/types/patient-phase2';
+import { crmApi } from '@/services/api/crmApiClient';
 
 function localizedPackageName(pkg: PatientPackage, languageCode: string) {
   const localizedName = (pkg as PatientPackage & { name?: string | null }).name;
@@ -36,7 +37,8 @@ export default function OrdersPage() {
   const ordersQuery = usePatientOrders({ page, limit: 20 });
   const orderDetailQuery = usePatientOrder(selectedOrderId);
   const paymentIntentMutation = useCreatePatientPaymentIntent();
-  const [paymentPreparedOrderId, setPaymentPreparedOrderId] = useState<string | null>(null);
+  const [checkoutStatus, setCheckoutStatus] = useState<'idle' | 'confirming' | 'confirmed' | 'cancelled' | 'failed'>('idle');
+  const checkoutConfirmationRef = useRef<string | null>(null);
 
   const orders = ordersQuery.data?.data ?? [];
   const selectedOrder = useMemo(
@@ -55,8 +57,41 @@ export default function OrdersPage() {
   }, [orders, searchParams, selectedOrderId, setSearchParams]);
 
   useEffect(() => {
-    setPaymentPreparedOrderId(null);
-  }, [selectedOrderId]);
+    if (searchParams.get('checkout') === 'cancelled') {
+      const next = new URLSearchParams(searchParams);
+      next.delete('checkout');
+      setSearchParams(next, { replace: true });
+      setCheckoutStatus('cancelled');
+      return;
+    }
+
+    const checkoutSessionId = searchParams.get('session_id');
+    if (
+      searchParams.get('checkout') !== 'success'
+      || !checkoutSessionId
+      || checkoutConfirmationRef.current === checkoutSessionId
+    ) {
+      return;
+    }
+
+    checkoutConfirmationRef.current = checkoutSessionId;
+    setCheckoutStatus('confirming');
+
+    void crmApi.confirmOrderCheckout(checkoutSessionId)
+      .then(async ({ orderId }) => {
+        await ordersQuery.refetch();
+        const next = new URLSearchParams(searchParams);
+        next.set('tab', 'orders');
+        next.set('orderId', orderId);
+        next.delete('checkout');
+        next.delete('session_id');
+        setSearchParams(next, { replace: true });
+        setCheckoutStatus('confirmed');
+      })
+      .catch(() => {
+        setCheckoutStatus('failed');
+      });
+  }, [ordersQuery.refetch, searchParams, setSearchParams]);
 
   const handleSelectOrder = (orderId: string) => {
     const next = new URLSearchParams(searchParams);
@@ -70,7 +105,7 @@ export default function OrdersPage() {
     }
 
     const result = await paymentIntentMutation.mutateAsync(selectedOrder.id);
-    setPaymentPreparedOrderId(result.orderId);
+    window.location.assign(result.checkoutUrl);
   };
 
   return (
@@ -81,6 +116,22 @@ export default function OrdersPage() {
           {t('dashboard.orders.subtitle')}
         </div>
       </div>
+
+      {checkoutStatus !== 'idle' ? (
+        <div className={`rounded-lg border px-4 py-3 text-sm ${
+          checkoutStatus === 'failed'
+            ? 'border-rose-200 bg-rose-50 text-rose-700'
+            : 'border-teal-200 bg-teal-50 text-teal-800'
+        }`}>
+          {checkoutStatus === 'confirming'
+            ? 'Confirming your Stripe payment...'
+            : checkoutStatus === 'confirmed'
+              ? 'Payment confirmed. Your Written Review order is now available below.'
+              : checkoutStatus === 'cancelled'
+                ? 'Payment was not completed. Your order has been saved, and you can continue payment below.'
+                : 'We could not confirm the payment yet. Please refresh the Orders page in a moment.'}
+        </div>
+      ) : null}
 
       <div className="grid min-h-0 flex-1 overflow-hidden rounded-3xl border border-slate-200 bg-white shadow-xl shadow-slate-950/10 lg:grid-cols-[340px_1fr]">
         <div className="flex min-h-0 flex-col border-r border-slate-200 bg-slate-50/70">
@@ -205,11 +256,6 @@ export default function OrdersPage() {
                           <CreditCard className="mr-2 h-4 w-4" />
                           {paymentIntentMutation.isPending ? t('dashboard.orders.preparing') : t('dashboard.orders.preparePayment')}
                         </Button>
-                        {paymentPreparedOrderId === selectedOrder.id ? (
-                          <div className="rounded-2xl bg-white px-4 py-4 text-sm text-slate-600">
-                            {t('dashboard.orders.paymentReady')}
-                          </div>
-                        ) : null}
                       </div>
                     ) : null}
                   </div>
@@ -241,9 +287,19 @@ export default function OrdersPage() {
                       ) : (
                         <div className="mt-4 text-sm text-slate-500">{t('dashboard.orders.packageUnavailable')}</div>
                       )
-                    ) : (
-                      <div className="mt-4 text-sm text-slate-500">{t('dashboard.orders.noPackageRecord')}</div>
-                    )}
+                    ) : selectedOrder.metadata && typeof selectedOrder.metadata === 'object'
+                      && typeof (selectedOrder.metadata as Record<string, unknown>).serviceName === 'string' ? (
+                        <div className="mt-4 space-y-2">
+                          <div className="text-lg font-semibold text-slate-900">
+                            {(selectedOrder.metadata as Record<string, unknown>).serviceName as string}
+                          </div>
+                          <div className="text-sm leading-6 text-slate-600">
+                            Specialist review of your submitted medical records and a written second-opinion report.
+                          </div>
+                        </div>
+                      ) : (
+                        <div className="mt-4 text-sm text-slate-500">{t('dashboard.orders.noPackageRecord')}</div>
+                      )}
                   </div>
                 </CardContent>
               </Card>

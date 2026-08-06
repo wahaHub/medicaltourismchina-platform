@@ -316,6 +316,16 @@ export type PatientIntakeSubmissionResponse = {
   };
 };
 
+export type WrittenReviewCheckoutResponse = {
+  orderId: string;
+  checkoutUrl: string;
+};
+
+export type OrderCheckoutConfirmationResponse = {
+  orderId: string;
+  paymentStatus: string;
+};
+
 export type VerifyTokenResponse = PatientSessionProfile & {
   patientId: string;
   caseId: string;
@@ -343,6 +353,21 @@ export const crmApi = {
       method: 'POST',
       body: JSON.stringify({ templateId, responses }),
     }),
+  getIntakeResponse: (caseId: string) =>
+    crmApiRequest<{ response: PatientIntakeSubmissionResponse['response'] | null }>(
+      `/intake/${encodeURIComponent(caseId)}/response`,
+      { method: 'GET' },
+    ),
+  startWrittenReviewCheckout: (caseId: string, idempotencyKey: string) =>
+    crmApiRequest<WrittenReviewCheckoutResponse>('/orders/written-review/checkout', {
+      method: 'POST',
+      body: JSON.stringify({ caseId, idempotencyKey }),
+    }),
+  confirmOrderCheckout: (sessionId: string) =>
+    crmApiRequest<OrderCheckoutConfirmationResponse>(
+      `/orders/checkout-session/${encodeURIComponent(sessionId)}/confirm`,
+      { method: 'POST' },
+    ),
   restoreSession: (restoreToken: string) =>
     crmApiRequest<VerifyTokenResponse>('/session/restore', {
       method: 'POST',
