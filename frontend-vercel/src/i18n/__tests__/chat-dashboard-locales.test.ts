@@ -18,6 +18,7 @@ const requiredKeys = [
   'chatWidget.composer.send',
   'dashboard.shell.home',
   'dashboard.shell.messages',
+  'dashboard.shell.medicalRecords',
   'dashboard.shell.signOut',
   'dashboard.home.welcomeBack',
   'dashboard.quotes.title',

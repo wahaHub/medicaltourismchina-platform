@@ -2689,6 +2689,7 @@ export const ru = {
   'dashboard.shell.tickets': 'Тикеты',
   'dashboard.shell.orders': 'Заказы',
   'dashboard.shell.journey': 'Путь',
+  'dashboard.shell.medicalRecords': 'Медицинские документы',
   'dashboard.shell.backHome': 'Вернуться на главную',
   'dashboard.shell.signOut': 'Выйти',
   'dashboard.common.loading': 'Загрузка...',

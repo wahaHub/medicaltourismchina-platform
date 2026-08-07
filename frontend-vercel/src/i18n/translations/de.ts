@@ -2345,6 +2345,7 @@ export const de = {
   'dashboard.shell.tickets': 'Tickets',
   'dashboard.shell.orders': 'Bestellungen',
   'dashboard.shell.journey': 'Reise',
+  'dashboard.shell.medicalRecords': 'Medizinische Unterlagen',
   'dashboard.shell.backHome': 'Zur Startseite',
   'dashboard.shell.signOut': 'Abmelden',
   'dashboard.common.loading': 'Wird geladen...',

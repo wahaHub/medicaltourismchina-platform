@@ -2377,6 +2377,7 @@ export const fr = {
   'dashboard.shell.tickets': 'Tickets',
   'dashboard.shell.orders': 'Commandes',
   'dashboard.shell.journey': 'Parcours',
+  'dashboard.shell.medicalRecords': 'Dossiers médicaux',
   'dashboard.shell.backHome': 'Retour à l’accueil',
   'dashboard.shell.signOut': 'Se déconnecter',
   'dashboard.common.loading': 'Chargement...',
