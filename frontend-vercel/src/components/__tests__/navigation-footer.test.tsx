@@ -90,10 +90,24 @@ describe("Footer", () => {
     expect(screen.getByRole("link", { name: "Pre-Departure Patient Guidelines" }).getAttribute("href")).toBe("https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev/documents/pre-departure-guide.pdf");
     expect(screen.getByRole("link", { name: "Patient Stories" }).getAttribute("href")).toBe("/#testimonials");
 
-    expect(screen.queryByRole("heading", { name: "Work With Us" })).toBeNull();
+    expect(screen.getByRole("heading", { name: "Work With Us" })).toBeTruthy();
+    expect(screen.getByRole("link", { name: "For Hospitals & Clinics" }).getAttribute("href")).toBe("/work-with-us#hospitals");
+    expect(screen.getByRole("link", { name: "For Referal Partners" }).getAttribute("href")).toBe("/work-with-us#referral-partners");
     expect(screen.getByRole("link", { name: "+86 17723081247" }).getAttribute("href")).toBe(
       "https://wa.me/8617723081247",
     );
+  });
+
+  it("adds a locale basename exactly once to Work With Us links", () => {
+    render(
+      <MemoryRouter basename="/zh" initialEntries={["/zh/"]}>
+        <Footer />
+      </MemoryRouter>,
+    );
+
+    expect(screen.getByRole("link", { name: "For Hospitals & Clinics" }).getAttribute("href")).toBe("/zh/work-with-us#hospitals");
+    expect(screen.getByRole("link", { name: "For Referal Partners" }).getAttribute("href")).toBe("/zh/work-with-us#referral-partners");
+    expect(screen.getByRole("link", { name: "For Travel & Services Partners" }).getAttribute("href")).toBe("/zh/work-with-us#travel-services");
   });
 
   it("adds the Bangladesh contact details for Bangladesh visitors", async () => {

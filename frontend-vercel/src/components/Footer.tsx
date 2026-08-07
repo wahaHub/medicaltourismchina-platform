@@ -5,7 +5,6 @@ import { useLanguage } from "@/contexts/LanguageContext";
 import { Link, useLocation } from "react-router-dom";
 import { handleInternalScroll } from "@/utils/routeScroll";
 import { PRE_DEPARTURE_GUIDE_URL } from "@/config/media";
-import { localizePathname, type SiteLocale } from "@/utils/locale-routing";
 
 type FooterLinkItem =
   | {
@@ -21,7 +20,7 @@ type FooterLinkItem =
     };
 
 const Footer = () => {
-  const { t, currentLanguage } = useLanguage();
+  const { t } = useLanguage();
   const location = useLocation();
   const [showBangladeshContact, setShowBangladeshContact] = useState(false);
   const trustpilotProfileUrl = "https://www.trustpilot.com/review/medicaltourismchina.health";
@@ -63,9 +62,11 @@ const Footer = () => {
   ];
 
   const workWithUsLinks: FooterLinkItem[] = [
-    { key: "footer.forHospitals", href: `${localizePathname("/work-with-us", currentLanguage.code as SiteLocale)}#hospitals` },
-    { key: "footer.forReferralPartners", href: `${localizePathname("/work-with-us", currentLanguage.code as SiteLocale)}#referral-partners` },
-    { key: "footer.forTravelPartners", href: `${localizePathname("/work-with-us", currentLanguage.code as SiteLocale)}#travel-services` },
+    // BrowserRouter applies the active locale basename itself. Prefixing these
+    // paths here would produce /zh/zh/work-with-us (and equivalent locales).
+    { key: "footer.forHospitals", href: "/work-with-us#hospitals" },
+    { key: "footer.forReferralPartners", href: "/work-with-us#referral-partners" },
+    { key: "footer.forTravelPartners", href: "/work-with-us#travel-services" },
   ];
 
   const resourceLinks: FooterLinkItem[] = [
