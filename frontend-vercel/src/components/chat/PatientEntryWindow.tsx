@@ -42,6 +42,11 @@ import PatientProfileForm from './PatientProfileForm';
 import MechanicalChatMenu from './MechanicalChatMenu';
 import { BRAND_LOGO_URL } from '@/config/brandAssets';
 
+function isUploadRecordsActionMessage(message: PatientConversationMessage): boolean {
+  return message.metadata?.eventType === 'ACTION_SELECTED'
+    && message.metadata?.actionKey === 'UPLOAD_RECORDS';
+}
+
 function mergeChatMessages(
   current: CompactChatMessage[],
   incoming: CompactChatMessage[],
@@ -631,7 +636,9 @@ export default function PatientEntryWindow() {
   const baseMessages = useMemo<CompactChatMessage[]>(
     () => (
       detail?.sessionId === activeSessionId
-        ? detail.data.map((message) => {
+        ? detail.data
+          .filter((message) => !isUploadRecordsActionMessage(message))
+          .map((message) => {
             if (message.source === 'CHATBOT') {
               return toCompactChatbotMessage({
                 id: message.id,
