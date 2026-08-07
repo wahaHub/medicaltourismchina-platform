@@ -254,14 +254,11 @@ export default function PatientChatComposer({
         : null);
   const attachmentsSupported = Boolean(effectiveTarget) && (composerPolicy?.attachmentsEnabled ?? true);
   const isTextDisabled = isSending
-    || !(composerPolicy?.textEnabled ?? true)
     || !isFormalMessagingPhase
     || !effectiveTarget;
   const isSendDisabled = isSending
     || !isFormalMessagingPhase
-    || !effectiveTarget
-    || composerPolicy?.sendEnabledWhen === 'disabled'
-    || (composerPolicy?.sendEnabledWhen === 'attachment_only' && selectedFiles.length === 0);
+    || !effectiveTarget;
 
   useEffect(() => {
     if (!registerComposerAttachmentPicker) {
@@ -293,9 +290,7 @@ export default function PatientChatComposer({
     const content = isAutomaticMechanicalUpload ? '' : value.trim();
     const sendBlocked = isSending
       || !isFormalMessagingPhase
-      || !effectiveTarget
-      || composerPolicy?.sendEnabledWhen === 'disabled'
-      || (composerPolicy?.sendEnabledWhen === 'attachment_only' && selectedFilesSnapshot.length === 0);
+      || !effectiveTarget;
     if ((!content && selectedFilesSnapshot.length === 0) || sendBlocked || !effectiveTarget) {
       return;
     }
