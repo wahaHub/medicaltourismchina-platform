@@ -1,6 +1,7 @@
 import { beforeEach, describe, expect, it, vi } from 'vitest';
-import { fireEvent, render, screen, waitFor } from '@testing-library/react';
+import { act, fireEvent, render, screen, waitFor } from '@testing-library/react';
 import PatientChatComposer from '../PatientChatComposer';
+import type { CompactChatMessage } from '../PatientChatMessageList';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { usePatientAuth } from '@/hooks/usePatientAuth';
 import { usePatientEntry } from '@/hooks/usePatientEntry';
@@ -156,7 +157,7 @@ describe('PatientChatComposer attachments', () => {
     ]);
   });
 
-  it('allows attachment-only uploads to the formal session in mechanical mode', async () => {
+  it('automatically uploads selected files to the formal session in mechanical mode', async () => {
     const onMessageMutation = vi.fn();
     vi.mocked(patientMessagesApi.initSessionAttachmentUpload).mockResolvedValue({
       upload: {
@@ -208,7 +209,6 @@ describe('PatientChatComposer attachments', () => {
 
     const file = new File(['scan'], 'ct-scan.pdf', { type: 'application/pdf' });
     fireEvent.change(screen.getByLabelText('Attach files'), { target: { files: [file] } });
-    fireEvent.click(screen.getByRole('button', { name: 'Send' }));
 
     await waitFor(() => {
       expect(patientMessagesApi.initSessionAttachmentUpload).toHaveBeenCalledWith({
@@ -218,6 +218,8 @@ describe('PatientChatComposer attachments', () => {
         mimeType: 'application/pdf',
         mechanicalMode: true,
         clientMessageId: expect.stringMatching(/^mechanical-upload:/),
+        uploadBatchId: expect.stringMatching(/^upload-batch:/),
+        uploadBatchSize: 1,
         locale: 'en',
       });
     });
@@ -316,7 +318,6 @@ describe('PatientChatComposer attachments', () => {
 
     const file = new File(['scan'], 'ct-scan.pdf', { type: 'application/pdf' });
     fireEvent.change(screen.getByLabelText('Attach files'), { target: { files: [file] } });
-    fireEvent.click(screen.getByRole('button', { name: 'Send' }));
 
     await waitFor(() => {
       expect(onMechanicalUploadFailed).toHaveBeenCalledWith(expect.any(Error));
@@ -338,6 +339,77 @@ describe('PatientChatComposer attachments', () => {
       locale: 'en',
     }));
     expect(patientMessagesApi.sendSessionMessage).not.toHaveBeenCalled();
+  });
+
+  it('retries only the failed mechanical upload using its original message and batch ids', async () => {
+    const onMessageMutation = vi.fn();
+    let retryHandler: ((message: CompactChatMessage) => void) | null = null;
+    vi.mocked(patientMessagesApi.initSessionAttachmentUpload)
+      .mockRejectedValueOnce(new Error('first upload failed'))
+      .mockResolvedValueOnce({
+        upload: {
+          uploadUrl: 'https://upload.example.com/retry-file',
+          storageKey: 'retry-storage-key',
+          expiresIn: 900,
+        },
+        asset: {
+          fileName: 'retry-report.pdf',
+          mimeType: 'application/pdf',
+          fileSize: 5,
+          storageKey: 'retry-storage-key',
+        },
+        message: {
+          serverMessageId: 'server-retry-1',
+          clientMessageId: 'client-retry-1',
+          deliveryStatus: 'uploading',
+        },
+      });
+
+    render(
+      <PatientChatComposer
+        sessionId="widget-chat:patient-1:case-1"
+        assistantMode="AI_ACTIVE"
+        widgetChatTarget={{ sessionId: 'widget-session-1' }}
+        onMessageMutation={onMessageMutation}
+        registerMechanicalUploadRetry={(handler) => {
+          retryHandler = handler;
+        }}
+        mechanicalMode
+      />,
+    );
+
+    const file = new File(['retry'], 'retry-report.pdf', { type: 'application/pdf' });
+    fireEvent.change(screen.getByLabelText('Attach files'), { target: { files: [file] } });
+    await waitFor(() => {
+      expect(onMessageMutation).toHaveBeenCalledWith(expect.objectContaining({
+        update: [expect.objectContaining({ messageState: 'failed' })],
+      }));
+    });
+
+    const optimisticMessage = onMessageMutation.mock.calls
+      .find(([mutation]) => mutation.add?.[0]?.clientMessageId)?.[0].add[0];
+    expect(optimisticMessage).toBeTruthy();
+    expect(retryHandler).not.toBeNull();
+
+    await act(async () => {
+      retryHandler?.(optimisticMessage);
+    });
+
+    await waitFor(() => {
+      expect(patientMessagesApi.initSessionAttachmentUpload).toHaveBeenCalledTimes(2);
+    });
+    const firstInput = vi.mocked(patientMessagesApi.initSessionAttachmentUpload).mock.calls[0]?.[0];
+    const retryInput = vi.mocked(patientMessagesApi.initSessionAttachmentUpload).mock.calls[1]?.[0];
+    expect(retryInput).toEqual(expect.objectContaining({
+      clientMessageId: firstInput?.clientMessageId,
+      uploadBatchId: firstInput?.uploadBatchId,
+      uploadBatchSize: 1,
+    }));
+    expect(patientMessagesApi.sendSessionChatEvent).toHaveBeenCalledWith(expect.objectContaining({
+      eventType: 'ATTACHMENT_UPLOAD_COMPLETED',
+      clientMessageId: 'client-retry-1',
+      serverMessageId: 'server-retry-1',
+    }));
   });
 
   it('keeps successful mechanical uploads sent when another selected file fails', async () => {
@@ -379,7 +451,6 @@ describe('PatientChatComposer attachments', () => {
     const successFile = new File(['success'], 'successful-report.pdf', { type: 'application/pdf' });
     const failedFile = new File(['failed'], 'failed-report.pdf', { type: 'application/pdf' });
     fireEvent.change(screen.getByLabelText('Attach files'), { target: { files: [successFile, failedFile] } });
-    fireEvent.click(screen.getByRole('button', { name: 'Send' }));
 
     await waitFor(() => {
       expect(onMechanicalUploadFailed).toHaveBeenCalledWith(expect.any(Error));
@@ -388,6 +459,10 @@ describe('PatientChatComposer attachments', () => {
     const addCall = onMessageMutation.mock.calls.find(([mutation]) => Array.isArray(mutation.add) && mutation.add.length === 2);
     const optimisticIds = addCall?.[0].add.map((message: { id: string }) => message.id) ?? [];
     expect(optimisticIds).toHaveLength(2);
+    const initCalls = vi.mocked(patientMessagesApi.initSessionAttachmentUpload).mock.calls;
+    expect(initCalls[0]?.[0].uploadBatchId).toMatch(/^upload-batch:/);
+    expect(initCalls[1]?.[0].uploadBatchId).toBe(initCalls[0]?.[0].uploadBatchId);
+    expect(initCalls.every(([input]) => input.uploadBatchSize === 2)).toBe(true);
 
     expect(patientMessagesApi.sendSessionChatEvent).toHaveBeenCalledWith({
       sessionId: 'widget-chat:patient-1:case-1',

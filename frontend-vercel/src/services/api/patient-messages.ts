@@ -378,6 +378,8 @@ export async function initSessionAttachmentUpload(input: {
   mimeType: string;
   mechanicalMode?: boolean;
   clientMessageId?: string;
+  uploadBatchId?: string;
+  uploadBatchSize?: number;
   locale?: string;
 }): Promise<{
   upload: {
@@ -405,6 +407,8 @@ export async function initSessionAttachmentUpload(input: {
       fileSize: input.fileSize,
       mimeType: input.mimeType,
       clientMessageId: input.clientMessageId,
+      uploadBatchId: input.uploadBatchId,
+      uploadBatchSize: input.uploadBatchSize,
       locale: input.locale,
     }),
   });

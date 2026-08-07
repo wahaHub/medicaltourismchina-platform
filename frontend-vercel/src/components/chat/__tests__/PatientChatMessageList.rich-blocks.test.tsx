@@ -446,4 +446,34 @@ describe('PatientChatMessageList — rich blocks', () => {
     expect(screen.getByText('scan.jpg')).toBeTruthy();
     expect(screen.getAllByText('Uploading')).toHaveLength(2);
   });
+
+  it('renders a red retry control on the left of a failed file and retries only that message', () => {
+    const onRetryUpload = vi.fn();
+    const failedMessage = makeMessage({
+      id: 'failed-upload-1',
+      clientMessageId: 'client-upload-1',
+      role: 'patient',
+      messageSource: 'formal',
+      content: 'Upload failed.',
+      messageState: 'failed',
+      attachments: [{
+        fileName: 'failed-report.pdf',
+        mimeType: 'application/pdf',
+        fileSize: 1024,
+        storageKey: 'crm/dev/failed-report.pdf',
+        name: 'failed-report.pdf',
+        type: 'application/pdf',
+        size: 1024,
+        url: '',
+      }],
+    });
+
+    render(<PatientChatMessageList messages={[failedMessage]} onRetryUpload={onRetryUpload} />);
+    const retryButton = screen.getByRole('button', { name: 'Retry failed-report.pdf' });
+
+    expect(retryButton.className).toContain('bg-rose-100');
+    fireEvent.click(retryButton);
+    expect(onRetryUpload).toHaveBeenCalledOnce();
+    expect(onRetryUpload).toHaveBeenCalledWith(failedMessage);
+  });
 });

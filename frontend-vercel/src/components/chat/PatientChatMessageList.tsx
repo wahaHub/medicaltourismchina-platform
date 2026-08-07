@@ -1,5 +1,5 @@
 import { useContext } from 'react';
-import { AlertCircle, BotMessageSquare, CheckCircle2, FileText, Image as ImageIcon, Loader2 } from 'lucide-react';
+import { AlertCircle, BotMessageSquare, CheckCircle2, FileText, Image as ImageIcon, Loader2, RotateCcw } from 'lucide-react';
 import type { ChatbotMessageBlock } from '../../types/chatbot-blocks';
 import { ChatMessageBlocks } from './ChatMessageBlocks';
 import { PatientEntryContext } from '@/contexts/PatientEntryContext';
@@ -21,6 +21,7 @@ export type CompactChatMessageSource = 'chatbot' | 'formal';
 
 export type CompactChatMessage = {
   id: string;
+  clientMessageId?: string | null;
   role: 'patient' | 'assistant' | 'system-ui';
   messageSource: CompactChatMessageSource;
   content: string;
@@ -33,6 +34,8 @@ export type CompactChatMessage = {
   senderType?: CompactChatSenderType;
   senderLabel?: string | null;
   messageState?: CompactChatMessageState;
+  uploadBatchId?: string | null;
+  uploadBatchSize?: number | null;
 };
 
 export type CompactChatMessageMutation = {
@@ -44,6 +47,7 @@ export type CompactChatMessageMutation = {
 interface PatientChatMessageListProps {
   messages: CompactChatMessage[];
   onConfirmProcessGuide?: () => Promise<void> | void;
+  onRetryUpload?: (message: CompactChatMessage) => void;
 }
 
 function resolveCoveredResourceTypes(
@@ -189,6 +193,7 @@ function resolveAttachmentStatus(messageState: CompactChatMessageState | undefin
 export default function PatientChatMessageList({
   messages,
   onConfirmProcessGuide,
+  onRetryUpload,
 }: PatientChatMessageListProps) {
   const ctx = useContext(PatientEntryContext);
   const { currentLanguage, t } = useLanguage();
@@ -328,7 +333,7 @@ export default function PatientChatMessageList({
                       ? AlertCircle
                       : CheckCircle2;
 
-                  if (isImage && hasUrl) {
+                  if (isImage && hasUrl && attachmentStatus !== 'failed') {
                     return (
                       <a
                         key={`${message.id}:${attachment.storageKey}`}
@@ -373,6 +378,17 @@ export default function PatientChatMessageList({
 
                   const content = (
                     <>
+                      {attachmentStatus === 'failed' ? (
+                        <button
+                          type="button"
+                          onClick={() => onRetryUpload?.(message)}
+                          aria-label={`${translate('chatWidget.retry')} ${attachment.fileName}`}
+                          title={translate('chatWidget.retry')}
+                          className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-rose-100 text-rose-700 transition hover:bg-rose-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-rose-500 focus-visible:ring-offset-2"
+                        >
+                          <RotateCcw className="h-3.5 w-3.5" />
+                        </button>
+                      ) : null}
                       <span className={`flex h-9 w-9 items-center justify-center rounded-xl ${isPatient ? 'bg-white/15' : 'bg-white'}`}>
                         {isImage ? <ImageIcon className="h-4 w-4" /> : <FileText className="h-4 w-4" />}
                       </span>
@@ -392,7 +408,7 @@ export default function PatientChatMessageList({
                     </>
                   );
 
-                  if (!hasUrl) {
+                  if (!hasUrl || attachmentStatus === 'failed') {
                     return (
                       <div
                         key={`${message.id}:${attachment.storageKey}`}

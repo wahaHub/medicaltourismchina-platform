@@ -49,11 +49,11 @@ function mergeChatMessages(
   const byId = new Map<string, CompactChatMessage>();
 
   for (const message of current) {
-    byId.set(message.id, message);
+    byId.set(message.clientMessageId ?? message.id, message);
   }
 
   for (const message of incoming) {
-    byId.set(message.id, message);
+    byId.set(message.clientMessageId ?? message.id, message);
   }
 
   return Array.from(byId.values()).sort((left, right) =>
@@ -79,6 +79,7 @@ function toCompactFormalMessage(message: PatientConversationMessage): CompactCha
 
   return {
     id: message.id,
+    clientMessageId: message.clientMessageId,
     role: message.senderRole === 'PATIENT'
       ? 'patient'
       : (message.senderRole === 'SYSTEM' || message.messageType === 'SYSTEM' ? 'system-ui' : 'assistant'),
@@ -90,6 +91,12 @@ function toCompactFormalMessage(message: PatientConversationMessage): CompactCha
     senderType,
     senderLabel: message.senderName,
     messageState,
+    uploadBatchId: typeof message.metadata?.uploadBatchId === 'string'
+      ? message.metadata.uploadBatchId
+      : null,
+    uploadBatchSize: typeof message.metadata?.uploadBatchSize === 'number'
+      ? message.metadata.uploadBatchSize
+      : null,
   };
 }
 
@@ -598,6 +605,7 @@ export default function PatientEntryWindow() {
     connectionState,
   } = usePatientSessionRuntime();
   const [optimisticMessages, setOptimisticMessages] = useState<CompactChatMessage[]>([]);
+  const mechanicalUploadRetryRef = useRef<((message: CompactChatMessage) => void) | null>(null);
   const canShowFormalMessages = phase === 'select-hospitals' || phase === 'messages-ready';
   const scrollContainerRef = useRef<HTMLDivElement | null>(null);
   const [scrollContainerElement, setScrollContainerElement] = useState<HTMLDivElement | null>(null);
@@ -832,6 +840,13 @@ export default function PatientEntryWindow() {
     void refreshActiveSession();
   };
 
+  const handleRetryUpload = useCallback((message: CompactChatMessage) => {
+    mechanicalUploadRetryRef.current?.(message);
+  }, []);
+  const registerMechanicalUploadRetry = useCallback((handler: ((message: CompactChatMessage) => void) | null) => {
+    mechanicalUploadRetryRef.current = handler;
+  }, []);
+
   const handleChatbotTurnReceived = (turn: ChatbotV3TurnViewModel) => {
     if (!canShowFormalMessages || activeSession?.sessionKind !== 'care-team' || !activeSessionId) {
       return;
@@ -928,7 +943,11 @@ export default function PatientEntryWindow() {
       ) : isMechanicalChatEnabled && chatState ? (
         <>
           {renderedMessages.length > 0 ? (
-            <PatientChatMessageList messages={renderedMessages} onConfirmProcessGuide={handleConfirmProcessGuide} />
+            <PatientChatMessageList
+              messages={renderedMessages}
+              onConfirmProcessGuide={handleConfirmProcessGuide}
+              onRetryUpload={handleRetryUpload}
+            />
           ) : null}
           <MechanicalChatMenu
             caseId={caseId}
@@ -943,7 +962,11 @@ export default function PatientEntryWindow() {
           />
         </>
       ) : (
-        <PatientChatMessageList messages={renderedMessages} onConfirmProcessGuide={handleConfirmProcessGuide} />
+        <PatientChatMessageList
+          messages={renderedMessages}
+          onConfirmProcessGuide={handleConfirmProcessGuide}
+          onRetryUpload={handleRetryUpload}
+        />
       )}
     </div>
   );
@@ -1115,6 +1138,7 @@ export default function PatientEntryWindow() {
         latestAssistantChatbotV3Turn={latestChatbotV3Turn}
         onChatbotTurnReceived={handleChatbotTurnReceived}
         onMechanicalUploadFailed={handleMechanicalUploadFailed}
+        registerMechanicalUploadRetry={registerMechanicalUploadRetry}
         mechanicalMode={isMechanicalChatEnabled}
         chatLocale={chatLocale}
         composerPolicy={chatState?.composerPolicy ?? null}

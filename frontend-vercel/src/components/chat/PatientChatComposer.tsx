@@ -36,6 +36,18 @@ type UploadAttachmentResult = {
   clientMessageId?: string | null;
 };
 
+function didServerUploadFail(
+  detail: { data?: PatientConversationMessage[] } | null | undefined,
+  clientMessageId: string,
+  serverMessageId?: string | null,
+): boolean {
+  const message = detail?.data?.find((candidate) =>
+    candidate.clientMessageId === clientMessageId
+    || (serverMessageId ? candidate.id === serverMessageId : false),
+  );
+  return message?.deliveryStatus === 'failed';
+}
+
 async function markMechanicalUploadFailed(input: {
   sessionId: string;
   clientMessageId: string;
@@ -66,6 +78,8 @@ async function uploadAttachment(
   file: File,
   options?: {
     clientMessageId?: string;
+    uploadBatchId?: string;
+    uploadBatchSize?: number;
     locale?: string;
   },
 ): Promise<UploadAttachmentResult> {
@@ -77,6 +91,8 @@ async function uploadAttachment(
         mimeType: file.type || 'application/octet-stream',
         ...(target.mechanicalMode ? { mechanicalMode: true } : {}),
         clientMessageId: options?.clientMessageId,
+        uploadBatchId: options?.uploadBatchId,
+        uploadBatchSize: options?.uploadBatchSize,
         locale: options?.locale,
       })
     : await patientChatbotV3Api.initAttachmentUpload({
@@ -167,6 +183,7 @@ interface PatientChatComposerProps {
   latestAssistantChatbotV3Turn?: ChatbotV3TurnViewModel | null;
   onChatbotTurnReceived?: (turn: ChatbotV3TurnViewModel) => void;
   onMechanicalUploadFailed?: (error: Error) => void;
+  registerMechanicalUploadRetry?: (handler: ((message: CompactChatMessage) => void) | null) => void;
   mechanicalMode?: boolean;
   chatLocale?: string;
   composerPolicy?: PatientChatState['composerPolicy'] | null;
@@ -183,6 +200,7 @@ export default function PatientChatComposer({
   latestAssistantChatbotV3Turn = null,
   onChatbotTurnReceived,
   onMechanicalUploadFailed,
+  registerMechanicalUploadRetry,
   mechanicalMode = false,
   chatLocale,
   composerPolicy = null,
@@ -202,6 +220,15 @@ export default function PatientChatComposer({
   const [isSending, setIsSending] = useState(false);
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
   const fileInputRef = useRef<HTMLInputElement | null>(null);
+  const retryFileInputRef = useRef<HTMLInputElement | null>(null);
+  const pendingRetryMessageRef = useRef<CompactChatMessage | null>(null);
+  const retryMechanicalUploadHandlerRef = useRef<((message: CompactChatMessage) => void) | null>(null);
+  const failedMechanicalUploadsRef = useRef(new Map<string, {
+    file: File;
+    clientMessageId: string;
+    uploadBatchId: string;
+    uploadBatchSize: number;
+  }>());
   const translate = createChatWidgetTranslator(currentLanguage.code);
   const effectiveChatLocale = chatLocale ?? currentLanguage.apiCode;
 
@@ -256,13 +283,23 @@ export default function PatientChatComposer({
     };
   }, [attachmentsSupported, effectiveTarget, isFormalMessagingPhase, isSending, registerComposerAttachmentPicker]);
 
-  const handleSend = async () => {
-    const content = value.trim();
-    if ((!content && selectedFiles.length === 0) || isSendDisabled || !effectiveTarget) {
+  const handleSend = async (autoSelectedFiles?: File[]) => {
+    const isAutomaticMechanicalUpload = Boolean(
+      autoSelectedFiles
+      && mechanicalMode
+      && effectiveTarget?.kind === 'FORMAL_SESSION',
+    );
+    const selectedFilesSnapshot = autoSelectedFiles ?? selectedFiles;
+    const content = isAutomaticMechanicalUpload ? '' : value.trim();
+    const sendBlocked = isSending
+      || !isFormalMessagingPhase
+      || !effectiveTarget
+      || composerPolicy?.sendEnabledWhen === 'disabled'
+      || (composerPolicy?.sendEnabledWhen === 'attachment_only' && selectedFilesSnapshot.length === 0);
+    if ((!content && selectedFilesSnapshot.length === 0) || sendBlocked || !effectiveTarget) {
       return;
     }
 
-    const selectedFilesSnapshot = selectedFiles;
     setErrorMessage(null);
     setIsSending(true);
     setValue('');
@@ -278,6 +315,10 @@ export default function PatientChatComposer({
     const hasMechanicalFormalUpload = effectiveTarget.kind === 'FORMAL_SESSION'
       && mechanicalMode
       && selectedFilesSnapshot.length > 0;
+    const uploadBatchId = hasMechanicalFormalUpload
+      ? createOptimisticMessageId('upload-batch')
+      : null;
+    const uploadBatchSize = selectedFilesSnapshot.length;
     const mechanicalClientMessageIds = selectedFilesSnapshot.map(() => createOptimisticMessageId('mechanical-upload'));
     const markAllMechanicalUploadsFailed = async () => {
       if (!hasMechanicalFormalUpload || effectiveTarget.kind !== 'FORMAL_SESSION') {
@@ -320,13 +361,16 @@ export default function PatientChatComposer({
       onMessageMutation?.({
         add: selectedFilesSnapshot.map((file, index) => ({
             id: mechanicalClientMessageIds[index] ?? createOptimisticMessageId('mechanical-upload'),
+            clientMessageId: mechanicalClientMessageIds[index],
             role: 'patient',
             messageSource: 'formal',
-            content: effectiveChatLocale === 'zh' ? '正在上传医疗资料...' : 'Uploading medical records...',
+            content: '',
             attachments: [toPendingAttachment(file)],
             createdAt: now,
             senderType: 'patient',
             messageState: 'sending',
+            uploadBatchId,
+            uploadBatchSize,
           })),
       });
     }
@@ -343,9 +387,14 @@ export default function PatientChatComposer({
             const result = await uploadAttachment(
               effectiveTarget,
               file,
-              { clientMessageId, locale: effectiveChatLocale },
+              {
+                clientMessageId,
+                uploadBatchId: uploadBatchId ?? undefined,
+                uploadBatchSize,
+                locale: effectiveChatLocale,
+              },
             );
-            await patientMessagesApi.sendSessionChatEvent({
+            const completionDetail = await patientMessagesApi.sendSessionChatEvent({
               sessionId: effectiveTarget.sessionId,
               eventType: 'ATTACHMENT_UPLOAD_COMPLETED',
               clientMessageId: result.clientMessageId ?? clientMessageId,
@@ -355,13 +404,29 @@ export default function PatientChatComposer({
                 attachments: [result.attachment],
               },
             });
+            if (didServerUploadFail(
+              completionDetail,
+              result.clientMessageId ?? clientMessageId,
+              result.serverMessageId,
+            )) {
+              throw new Error(translate('chatWidget.mechanical.upload.failedMessage'));
+            }
             completedClientMessageIds.push(clientMessageId);
+            failedMechanicalUploadsRef.current.delete(clientMessageId);
           } catch (uploadError) {
             const normalizedUploadError = uploadError instanceof Error
               ? uploadError
               : new Error(translate('chatWidget.composer.failed'));
             firstUploadError ??= normalizedUploadError;
             failedClientMessageIds.push(clientMessageId);
+            if (uploadBatchId) {
+              failedMechanicalUploadsRef.current.set(clientMessageId, {
+                file,
+                clientMessageId,
+                uploadBatchId,
+                uploadBatchSize,
+              });
+            }
             await markMechanicalUploadFailed({
               sessionId: effectiveTarget.sessionId,
               clientMessageId,
@@ -372,7 +437,10 @@ export default function PatientChatComposer({
 
         if (completedClientMessageIds.length > 0) {
           onMessageMutation?.({
-            removeIds: completedClientMessageIds,
+            update: completedClientMessageIds.map((clientMessageId) => ({
+              id: clientMessageId,
+              messageState: 'sent',
+            })),
           });
         }
 
@@ -382,15 +450,6 @@ export default function PatientChatComposer({
               id: clientMessageId,
               messageState: 'failed',
             })),
-            add: [{
-              id: createOptimisticMessageId('mechanical-upload-failed'),
-              role: 'assistant',
-              messageSource: 'formal',
-              content: translate('chatWidget.mechanical.upload.failedMessage'),
-              createdAt: new Date(Date.now() + 1).toISOString(),
-              senderType: 'system',
-              messageState: 'sent',
-            }],
           });
           if (firstUploadError) {
             onMechanicalUploadFailed?.(firstUploadError);
@@ -398,6 +457,9 @@ export default function PatientChatComposer({
         }
 
         await onConversationRefresh?.();
+        if (completedClientMessageIds.length > 0) {
+          onMessageMutation?.({ removeIds: completedClientMessageIds });
+        }
         onMessagesSent?.([]);
         return;
       }
@@ -522,15 +584,6 @@ export default function PatientChatComposer({
               id: clientMessageId,
               messageState: 'failed',
             })),
-            add: [{
-              id: createOptimisticMessageId('mechanical-upload-failed'),
-              role: 'assistant',
-              messageSource: 'formal',
-              content: translate('chatWidget.mechanical.upload.failedMessage'),
-              createdAt: new Date(Date.now() + 1).toISOString(),
-              senderType: 'system',
-              messageState: 'sent',
-            }],
           });
           onMechanicalUploadFailed?.(normalizedError);
         }
@@ -555,15 +608,6 @@ export default function PatientChatComposer({
             id: clientMessageId,
             messageState: 'failed',
           })),
-          add: [{
-            id: createOptimisticMessageId('mechanical-upload-failed'),
-            role: 'assistant',
-            messageSource: 'formal',
-            content: translate('chatWidget.mechanical.upload.failedMessage'),
-            createdAt: new Date(Date.now() + 1).toISOString(),
-            senderType: 'system',
-            messageState: 'sent',
-          }],
         });
         onMechanicalUploadFailed?.(normalizedError);
       }
@@ -573,9 +617,130 @@ export default function PatientChatComposer({
     }
   };
 
+  const retryMechanicalUpload = async (message: CompactChatMessage, replacementFile?: File) => {
+    if (isSending || effectiveTarget?.kind !== 'FORMAL_SESSION' || !mechanicalMode) {
+      return;
+    }
+
+    const clientMessageId = message.clientMessageId ?? message.id;
+    const retainedUpload = failedMechanicalUploadsRef.current.get(clientMessageId);
+    const file = replacementFile ?? retainedUpload?.file;
+    if (!file) {
+      pendingRetryMessageRef.current = message;
+      retryFileInputRef.current?.click();
+      return;
+    }
+
+    const uploadBatchId = retainedUpload?.uploadBatchId
+      ?? message.uploadBatchId
+      ?? createOptimisticMessageId('upload-batch');
+    const uploadBatchSize = retainedUpload?.uploadBatchSize
+      ?? message.uploadBatchSize
+      ?? 1;
+
+    setErrorMessage(null);
+    setIsSending(true);
+    onMessageMutation?.({
+      add: [{
+        id: clientMessageId,
+        clientMessageId,
+        role: 'patient',
+        messageSource: 'formal',
+        content: '',
+        attachments: [toPendingAttachment(file)],
+        createdAt: message.createdAt,
+        senderType: 'patient',
+        messageState: 'sending',
+        uploadBatchId,
+        uploadBatchSize,
+      }],
+    });
+
+    try {
+      const result = await uploadAttachment(effectiveTarget, file, {
+        clientMessageId,
+        uploadBatchId,
+        uploadBatchSize,
+        locale: effectiveChatLocale,
+      });
+      const completionDetail = await patientMessagesApi.sendSessionChatEvent({
+        sessionId: effectiveTarget.sessionId,
+        eventType: 'ATTACHMENT_UPLOAD_COMPLETED',
+        clientMessageId: result.clientMessageId ?? clientMessageId,
+        serverMessageId: result.serverMessageId ?? undefined,
+        locale: effectiveChatLocale,
+        payload: { attachments: [result.attachment] },
+      });
+      if (didServerUploadFail(
+        completionDetail,
+        result.clientMessageId ?? clientMessageId,
+        result.serverMessageId,
+      )) {
+        throw new Error(translate('chatWidget.mechanical.upload.failedMessage'));
+      }
+      failedMechanicalUploadsRef.current.delete(clientMessageId);
+      onMessageMutation?.({
+        update: [{ id: clientMessageId, messageState: 'sent' }],
+      });
+      await onConversationRefresh?.();
+      onMessageMutation?.({ removeIds: [clientMessageId] });
+    } catch (error) {
+      const normalizedError = error instanceof Error
+        ? error
+        : new Error(translate('chatWidget.composer.failed'));
+      failedMechanicalUploadsRef.current.set(clientMessageId, {
+        file,
+        clientMessageId,
+        uploadBatchId,
+        uploadBatchSize,
+      });
+      await markMechanicalUploadFailed({
+        sessionId: effectiveTarget.sessionId,
+        clientMessageId,
+        locale: effectiveChatLocale,
+      });
+      onMessageMutation?.({
+        update: [{ id: clientMessageId, messageState: 'failed' }],
+      });
+      onMechanicalUploadFailed?.(normalizedError);
+      setErrorMessage(normalizedError.message);
+    } finally {
+      setIsSending(false);
+    }
+  };
+  retryMechanicalUploadHandlerRef.current = (message) => {
+    void retryMechanicalUpload(message);
+  };
+
+  useEffect(() => {
+    if (!registerMechanicalUploadRetry) {
+      return;
+    }
+
+    registerMechanicalUploadRetry((message) => retryMechanicalUploadHandlerRef.current?.(message));
+
+    return () => registerMechanicalUploadRetry(null);
+  }, [registerMechanicalUploadRetry]);
+
+  const handleRetryFileSelection = (event: ChangeEvent<HTMLInputElement>) => {
+    const message = pendingRetryMessageRef.current;
+    const file = event.target.files?.[0];
+    event.target.value = '';
+    pendingRetryMessageRef.current = null;
+    if (message && file) {
+      void retryMechanicalUpload(message, file);
+    }
+  };
+
   const handleFileSelection = (event: ChangeEvent<HTMLInputElement>) => {
     const files = Array.from(event.target.files ?? []);
     if (files.length === 0) {
+      return;
+    }
+
+    if (mechanicalMode && effectiveTarget?.kind === 'FORMAL_SESSION') {
+      event.target.value = '';
+      void handleSend(files);
       return;
     }
 
@@ -635,6 +800,13 @@ export default function PatientChatComposer({
           )}
         </p>
         <div className="flex items-center gap-2">
+          <input
+            ref={retryFileInputRef}
+            type="file"
+            className="hidden"
+            aria-label={translate('chatWidget.retry')}
+            onChange={handleRetryFileSelection}
+          />
           <label className={`inline-flex cursor-pointer items-center justify-center rounded-full border px-3 py-2 text-sm transition ${
             isSending || !isFormalMessagingPhase || !effectiveTarget || !attachmentsSupported
               ? 'cursor-not-allowed border-slate-200 bg-slate-100 text-slate-400'
