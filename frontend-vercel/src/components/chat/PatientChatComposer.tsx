@@ -39,7 +39,7 @@ type UploadAttachmentResult = {
 async function markMechanicalUploadFailed(input: {
   sessionId: string;
   clientMessageId: string;
-  locale: 'en' | 'zh';
+  locale: string;
 }) {
   try {
     await patientMessagesApi.sendSessionChatEvent({
@@ -66,7 +66,7 @@ async function uploadAttachment(
   file: File,
   options?: {
     clientMessageId?: string;
-    locale?: 'en' | 'zh';
+    locale?: string;
   },
 ): Promise<UploadAttachmentResult> {
   const init = target.kind === 'FORMAL_SESSION'
@@ -168,7 +168,7 @@ interface PatientChatComposerProps {
   onChatbotTurnReceived?: (turn: ChatbotV3TurnViewModel) => void;
   onMechanicalUploadFailed?: (error: Error) => void;
   mechanicalMode?: boolean;
-  chatLocale?: 'en' | 'zh';
+  chatLocale?: string;
   composerPolicy?: PatientChatState['composerPolicy'] | null;
 }
 
@@ -203,7 +203,7 @@ export default function PatientChatComposer({
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
   const fileInputRef = useRef<HTMLInputElement | null>(null);
   const translate = createChatWidgetTranslator(currentLanguage.code);
-  const effectiveChatLocale = chatLocale ?? (currentLanguage.code === 'zh' ? 'zh' : 'en');
+  const effectiveChatLocale = chatLocale ?? currentLanguage.apiCode;
 
   const isFormalMessagingPhase = phase === 'select-hospitals' || phase === 'messages-ready';
   const effectiveTarget = mechanicalMode && sessionId

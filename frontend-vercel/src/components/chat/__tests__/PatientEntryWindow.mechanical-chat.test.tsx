@@ -178,6 +178,7 @@ describe('PatientEntryWindow backend-owned mechanical chat', () => {
     vi.mocked(useLanguage).mockReturnValue({
       currentLanguage: {
         code: 'zh',
+        apiCode: 'zh',
       },
       t: (key: string) => key,
     } as never);

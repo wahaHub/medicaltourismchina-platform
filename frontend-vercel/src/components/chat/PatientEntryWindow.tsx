@@ -619,7 +619,7 @@ export default function PatientEntryWindow() {
     ?? patient?.formalConversationState?.activeAssistantMode
     ?? null;
   const chatState = detail?.sessionId === activeSessionId ? detail.chatState ?? null : null;
-  const chatLocale = currentLanguage.code === 'zh' ? 'zh' as const : 'en' as const;
+  const chatLocale = currentLanguage.apiCode;
   const baseMessages = useMemo<CompactChatMessage[]>(
     () => (
       detail?.sessionId === activeSessionId

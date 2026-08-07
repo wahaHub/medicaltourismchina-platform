@@ -20,7 +20,7 @@ export function useActivePatientSessionController(input: {
   sessionId: string | null;
   enabled: boolean;
   limit?: number;
-  locale?: 'en' | 'zh' | null;
+  locale?: string | null;
 }) {
   const detailQuery = usePatientSessionDetail(input.sessionId, input.limit ?? 50, {
     enabled: input.enabled,

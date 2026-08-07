@@ -14,7 +14,7 @@ import {
 export const patientSessionKeys = {
   all: ['patient-sessions'] as const,
   list: (caseId?: string | null) => ['patient-sessions', 'list', caseId ?? 'all'] as const,
-  detail: (sessionId: string, locale?: 'en' | 'zh' | null) => ['patient-sessions', 'detail', sessionId, locale ?? 'en'] as const,
+  detail: (sessionId: string, locale?: string | null) => ['patient-sessions', 'detail', sessionId, locale ?? 'en'] as const,
 };
 
 function mergeMessageIntoDetail(
@@ -56,7 +56,7 @@ export function usePatientSessions(caseId?: string | null, options?: { enabled?:
 export function usePatientSessionDetail(
   sessionId: string | null,
   limit = 100,
-  options?: { enabled?: boolean; locale?: 'en' | 'zh' | null },
+  options?: { enabled?: boolean; locale?: string | null },
 ) {
   const locale = options?.locale ?? 'en';
   return useQuery({

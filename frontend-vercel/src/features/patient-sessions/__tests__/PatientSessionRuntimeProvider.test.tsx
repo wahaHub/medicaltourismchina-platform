@@ -5,6 +5,7 @@ import { beforeEach, describe, expect, it, vi } from 'vitest';
 import { ApiError } from '@/services/api/crmApiClient';
 import { usePatientAuth } from '@/hooks/usePatientAuth';
 import { usePatientEntry } from '@/hooks/usePatientEntry';
+import { useLanguage } from '@/contexts/LanguageContext';
 import { PatientSessionRuntimeProvider, usePatientSessionRuntime } from '../PatientSessionRuntimeProvider';
 import { useActivePatientSessionController } from '../useActivePatientSessionController';
 import { useDefaultPatientSessionId, usePatientSessions } from '../usePatientSessions';
@@ -23,7 +24,7 @@ vi.mock('@/hooks/usePatientEntry', () => ({
 
 vi.mock('@/contexts/LanguageContext', () => ({
   useLanguage: vi.fn(() => ({
-    currentLanguage: { code: 'en' },
+    currentLanguage: { code: 'en', apiCode: 'en' },
   })),
 }));
 
@@ -65,6 +66,10 @@ describe('PatientSessionRuntimeProvider', () => {
 
   beforeEach(() => {
     vi.clearAllMocks();
+
+    vi.mocked(useLanguage).mockReturnValue({
+      currentLanguage: { code: 'en', apiCode: 'en' },
+    } as never);
 
     vi.mocked(usePatientAuth).mockReturnValue({
       patient: { caseId: 'case-1' },
@@ -145,6 +150,18 @@ describe('PatientSessionRuntimeProvider', () => {
     await waitFor(() => {
       expect(expirePatientSession).toHaveBeenCalledTimes(1);
     });
+  });
+
+  it('passes the selected site locale to the active chat session', () => {
+    vi.mocked(useLanguage).mockReturnValue({
+      currentLanguage: { code: 'ar', apiCode: 'ar' },
+    } as never);
+
+    renderProvider();
+
+    expect(useActivePatientSessionController).toHaveBeenCalledWith(expect.objectContaining({
+      locale: 'ar',
+    }));
   });
 
   it('expires the patient session when the active detail query returns 401', async () => {

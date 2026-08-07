@@ -306,7 +306,7 @@ export async function sendSessionChatEvent(input: {
   actionKey?: PatientChatActionKey;
   clientMessageId?: string;
   serverMessageId?: string;
-  locale?: 'en' | 'zh';
+  locale?: string;
   payload?: Record<string, unknown>;
 }): Promise<PatientSessionDetail> {
   return crmApiRequest<PatientSessionDetailResponse>(`/sessions/${input.sessionId}/chat/events`, {
@@ -326,7 +326,7 @@ export async function requestOnlineConsultBooking(input: {
   sessionId: string;
   startsAt: string;
   timeZone: string;
-  locale?: 'en' | 'zh';
+  locale?: string;
 }): Promise<{
   ok: boolean;
   status: 'requested';
@@ -378,7 +378,7 @@ export async function initSessionAttachmentUpload(input: {
   mimeType: string;
   mechanicalMode?: boolean;
   clientMessageId?: string;
-  locale?: 'en' | 'zh';
+  locale?: string;
 }): Promise<{
   upload: {
     uploadUrl: string;

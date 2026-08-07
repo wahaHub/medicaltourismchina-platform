@@ -117,7 +117,7 @@ export function PatientSessionRuntimeProvider({ children }: { children: ReactNod
     sessionId: selectedSessionId,
     enabled: shouldEnableRuntime && Boolean(selectedSessionId),
     limit: 50,
-    locale: currentLanguage.code === 'zh' ? 'zh' : 'en',
+    locale: currentLanguage.apiCode,
   });
 
   useEffect(() => {
