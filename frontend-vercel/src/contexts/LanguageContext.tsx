@@ -49,8 +49,21 @@ export const LanguageProvider: React.FC<LanguageProviderProps> = ({
   const routeLanguageCode =
     initialLanguageCode
     ?? (typeof window !== 'undefined' ? getLocaleFromPathname(window.location.pathname) : DEFAULT_LOCALE);
+
+  const isDashboardPath = typeof window !== 'undefined'
+    && (window.location.pathname === '/dashboard' || window.location.pathname.startsWith('/dashboard/'));
+  const savedLanguageCode = isDashboardPath
+    ? localStorage.getItem('selectedLanguage')
+    : null;
+  const effectiveLanguageCode =
+    routeLanguageCode !== DEFAULT_LOCALE
+      ? routeLanguageCode
+      : isSiteLocale(savedLanguageCode)
+        ? savedLanguageCode
+        : DEFAULT_LOCALE;
+
   const routeLanguage =
-    SUPPORTED_LANGUAGES.find((language) => language.code === routeLanguageCode)
+    SUPPORTED_LANGUAGES.find((language) => language.code === effectiveLanguageCode)
     ?? SUPPORTED_LANGUAGES[0];
 
   // The URL is the source of truth. The unprefixed site is always English.
