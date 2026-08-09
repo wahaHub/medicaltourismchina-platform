@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build && node scripts/prerender-seo.mjs && node scripts/validate-seo-artifacts.mjs",
+    "build": "node scripts/build-guides-manifest.mjs && vite build && node scripts/prerender-seo.mjs && node scripts/validate-seo-artifacts.mjs",
     "build:app": "vite build",
     "prerender:seo": "node scripts/prerender-seo.mjs",
     "build:dev": "vite build --mode development",

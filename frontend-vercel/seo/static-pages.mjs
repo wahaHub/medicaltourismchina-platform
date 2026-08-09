@@ -285,19 +285,19 @@ export const STATIC_PAGE_METADATA = {
     indexableLocales: ["en", "ar", "id"],
     locales: {
       en: {
-        title: "China Visa and Medical Travel Support | Medora Health",
-        description: "Prepare for medical travel to China with guidance on visa requirements, supporting documents, appointments, translation, and arrival planning.",
-        heading: "China visa and medical travel support",
+        title: "Patient Guides for Medical Care in China | Medora Health",
+        description: "Explore expert-reviewed patient guides on hospitals, treatments, clinical trials, costs, insurance, and every step of care in China.",
+        heading: "Medora Health patient guides",
       },
       ar: {
-        title: "تأشيرة الصين ودعم السفر للعلاج | Medora Health",
-        description: "استعد لرحلتك العلاجية إلى الصين مع إرشادات التأشيرة والمستندات الداعمة والمواعيد والترجمة وترتيبات الوصول.",
-        heading: "تأشيرة الصين ودعم السفر للعلاج",
+        title: "أدلة المرضى للرعاية الطبية في الصين | Medora Health",
+        description: "اطلع على أدلة مرضى مراجعة من خبراء حول المستشفيات والعلاجات والتجارب السريرية والتكاليف والتأمين وكل خطوة من رحلة الرعاية في الصين.",
+        heading: "أدلة Medora Health للمرضى",
       },
       id: {
-        title: "Visa Tiongkok dan Dukungan Perjalanan Medis | Medora Health",
-        description: "Persiapkan perjalanan medis ke Tiongkok dengan panduan visa, dokumen pendukung, janji temu, penerjemahan, dan rencana kedatangan.",
-        heading: "Visa Tiongkok dan dukungan perjalanan medis",
+        title: "Panduan Pasien untuk Perawatan Medis di Tiongkok | Medora Health",
+        description: "Jelajahi panduan pasien yang ditinjau oleh ahli tentang rumah sakit, perawatan, uji klinis, biaya, asuransi, dan setiap langkah perawatan di Tiongkok.",
+        heading: "Panduan pasien Medora Health",
       },
     },
   },

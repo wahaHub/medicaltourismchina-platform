@@ -1,0 +1,3736 @@
+{
+  "categories": [
+    {
+      "slug": "china-healthcare-guides",
+      "title": "China Healthcare Guides",
+      "guides": [
+        {
+          "slug": "bringing-prescription-medicines-to-china-for-a-medical-trip",
+          "title": {
+            "en": "Bringing Prescription Medicines to China for a Medical Trip",
+            "zh": "赴华就医时如何携带处方药入境"
+          },
+          "subtitle": {
+            "en": "Check every active ingredient against Chinese rules, document the medical need and carry only a defensible personal-use quantity through the correct customs channel.",
+            "zh": "逐一核对有效成分在中国的管制状态，准备医疗用途证明，并通过正确申报渠道携带合理的个人自用数量。"
+          },
+          "subcategory": "药品、海关与旅行安全",
+          "excerpt": "The safest medicine folder is prepared drug by drug.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "community-vs-tertiary-hospitals",
+          "title": {
+            "en": "Community Health Centres vs Tertiary Hospitals in China",
+            "zh": "中国社区卫生服务中心与三级医院的区别"
+          },
+          "subtitle": {
+            "en": "One is designed for care close to home; the other concentrates difficult and critical treatment. A good care plan often uses both at different times.",
+            "zh": "一个强调就近和连续照护，一个集中处理疑难与危重问题；一份好的诊疗计划往往会在不同阶段用到两者。"
+          },
+          "subcategory": "首诊与转诊",
+          "excerpt": "The difference between a community health centre and a tertiary hospital is not best understood as “basic quality versus high quality.” They are built for different parts of care.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "expert-clinics-vip-clinics-and-international-departments-explained",
+          "title": {
+            "en": "Expert Clinics, VIP Clinics and International Departments in China",
+            "zh": "专家门诊、特需门诊和国际医疗部详解"
+          },
+          "subtitle": {
+            "en": "These labels describe different combinations of doctor seniority, service setting and international support. They are not interchangeable, and none guarantees better clinical judgment.",
+            "zh": "这些名称分别涉及医生资历、服务环境和国际支持，不能互相替代，也没有一种能保证临床判断更好。"
+          },
+          "subcategory": "门诊服务类型",
+          "excerpt": "On a hospital booking page, the same doctor may appear under ordinary expert clinic, special-service clinic and international clinic, each with a different fee.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "general-vs-specialized-hospitals",
+          "title": {
+            "en": "General vs Specialist Hospitals in China: Which Fits Your Care?",
+            "zh": "中国综合医院与专科医院：哪一种更适合您？"
+          },
+          "subtitle": {
+            "en": "The useful question is not which hospital type is “better,” but whether the patient needs depth in one field, support across several fields, or both.",
+            "zh": "真正有用的问题不是哪一种医院“更好”，而是患者需要一个领域的深度、多个领域的协同，还是两者兼具。"
+          },
+          "subcategory": "就医机构选择",
+          "excerpt": "A patient with a heart condition may find a cardiovascular hospital, a cardiac centre inside a general hospital and several general hospitals with cardiology departments.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "hospital-registration-in-china-a-step-by-step-guide",
+          "title": {
+            "en": "Hospital Registration in China: A Step-by-Step Guide",
+            "zh": "中国医院挂号：分步指南"
+          },
+          "subtitle": {
+            "en": "Registration creates the record that links the patient, department, visit, orders and payment. One wrong identity field can follow the patient through the whole hospital.",
+            "zh": "挂号会把患者、科室、当次就诊、医嘱和付款连接到同一份记录；一个身份字段错误，可能贯穿整个就医过程。"
+          },
+          "subcategory": "建档与报到",
+          "excerpt": "In many Chinese hospitals, “registration” can mean three different actions: creating a patient record, buying a clinic registration, and reporting arrival so the patient enters the live queue.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "how-international-patients-can-book-a-specialist-in-china",
+          "title": {
+            "en": "How International Patients Can Book a Specialist in China",
+            "zh": "国际患者如何预约中国专科医生"
+          },
+          "subtitle": {
+            "en": "The hardest part is often not finding an appointment button. It is booking the right doctor, at the right campus, for a question that specialist can actually answer.",
+            "zh": "难点往往不是找到“预约”按钮，而是用正确身份，在正确院区，约到真正能回答当前问题的医生。"
+          },
+          "subcategory": "预约与挂号",
+          "excerpt": "The phrase “book a specialist” hides several decisions.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "medical-referrals-in-china",
+          "title": {
+            "en": "How Medical Referrals Work in China",
+            "zh": "中国医疗转诊如何运作"
+          },
+          "subtitle": {
+            "en": "A referral should transfer a clinical question, relevant evidence and responsibility—not merely give the patient another hospital address.",
+            "zh": "真正的转诊应当把临床问题、关键证据和责任一起交过去，而不只是给患者另一个医院地址。"
+          },
+          "subcategory": "转诊与诊疗协调",
+          "excerpt": "“You need a larger hospital” is advice, but it is not yet a referral.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "how-to-choose-the-right-city-in-china-for-medical-treatment",
+          "title": {
+            "en": "How to Choose the Right City in China for Medical Treatment",
+            "zh": "如何选择适合赴华治疗的中国城市"
+          },
+          "subtitle": {
+            "en": "A clinical-first method for narrowing a country-sized search to one verified team, one workable care pathway and one safe return plan.",
+            "zh": "先验证临床团队和完整诊疗链，再比较出行、安全、费用与回国随访，把全国搜索缩小到一个真正可执行的方案。"
+          },
+          "subcategory": "就医目的地选择",
+          "excerpt": "City selection is often presented as a travel comparison: Beijing for one specialty, Shanghai for international service, Guangzhou or Shenzhen for Greater Bay Area access.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "how-to-organize-medical-records-before-seeking-care-in-china",
+          "title": {
+            "en": "How to Organise Medical Records Before Seeking Care in China",
+            "zh": "赴中国就医前如何整理医疗记录"
+          },
+          "subtitle": {
+            "en": "Build a review set a clinician can scan quickly, trace back to original evidence and update without losing the treatment timeline.",
+            "zh": "做一套医生能快速浏览、可追溯到原始证据、更新时又不会打乱治疗时间线的审核资料。"
+          },
+          "subcategory": "病历与病例准备",
+          "excerpt": "A 900-page upload can be harder to review than a 30-page one.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "how-to-prepare-for-a-remote-consultation-with-a-doctor-in-china",
+          "title": {
+            "en": "How to Prepare for a Remote Consultation With a Doctor in China",
+            "zh": "如何准备与中国医生进行远程会诊"
+          },
+          "subtitle": {
+            "en": "A useful video call begins before the camera turns on: the clinical question is agreed, records arrive in reviewable form, and everyone knows what the call can—and cannot—decide.",
+            "zh": "有用的视频会诊在打开摄像头前就已开始：临床问题明确、资料可审阅，所有人也知道这次会诊能决定什么、不能决定什么。"
+          },
+          "subcategory": "远程会诊",
+          "excerpt": "Remote care is most useful when it answers a defined question.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "how-to-request-english-language-medical-records-in-china",
+          "title": {
+            "en": "How to Request English-Language Medical Records in China",
+            "zh": "如何在中国申请英文医疗记录"
+          },
+          "subtitle": {
+            "en": "Get the hospital-stamped source record first, then arrange an English summary or translation without losing dates, doses, units or diagnostic detail.",
+            "zh": "先取得医院盖章的中文原始病历，再办理英文摘要或翻译，避免姓名、日期、剂量、单位和诊断细节在转换中失真。"
+          },
+          "subcategory": "病历与语言支持",
+          "excerpt": "“Can I get my records in English?” sounds like one request.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "how-to-share-ct-mri-and-other-imaging-files-with-a-chinese-hospital",
+          "title": {
+            "en": "How to Share CT, MRI and Other Imaging Files With a Chinese Hospital",
+            "zh": "如何向中国医院发送CT、MRI和其他影像文件"
+          },
+          "subtitle": {
+            "en": "Send the complete diagnostic study, the report and the clinical question—not a handful of screenshots that cannot be scrolled, measured or compared.",
+            "zh": "发送完整诊断级检查、正式报告和临床问题，而不是几张无法滚动、测量或对比的手机截图。"
+          },
+          "subcategory": "影像与医疗记录",
+          "excerpt": "A photograph of an MRI film may show a recognisable abnormality.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "informed-consent-across-languages-questions-patients-should-ask",
+          "title": {
+            "en": "Informed Consent Across Languages: Questions Patients Should Ask",
+            "zh": "跨语言知情同意：患者在签字前应该问什么"
+          },
+          "subtitle": {
+            "en": "Consent is a conversation about the proposed care, material risks, alternatives and the patient’s choice—not a signature obtained through guesswork.",
+            "zh": "知情同意是一场关于拟议治疗、重要风险、替代方案和患者选择的对话，不是靠猜测完成的一次签字。"
+          },
+          "subcategory": "语言、患者权利与医疗决策",
+          "excerpt": "A consent form can be signed in thirty seconds.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "medical-interpretation-in-china-what-international-patients-need",
+          "title": {
+            "en": "Medical Interpretation in China: What International Patients Need",
+            "zh": "中国医疗口译：国际患者需要了解什么"
+          },
+          "subtitle": {
+            "en": "A medical interpreter transfers meaning accurately and impartially. A coordinator manages logistics. A family member supports the patient. These are three different jobs.",
+            "zh": "医疗口译负责准确、中立地传递意思；协调员负责流程；家属负责支持患者。这是三种不同工作。"
+          },
+          "subcategory": "语言与沟通",
+          "excerpt": "A patient who can order dinner in Mandarin may still misunderstand a change in anticoagulant dose.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "pathology-and-laboratory-record-review-before-treatment-in-china",
+          "title": {
+            "en": "Pathology and Laboratory Record Review Before Treatment in China",
+            "zh": "在中国治疗前如何复核病理和检验资料"
+          },
+          "subtitle": {
+            "en": "Confirm what specimen was tested, which report is final, whether the result can guide today’s decision and what still needs to be repeated locally.",
+            "zh": "确认检测的是哪份标本、哪一版报告是最终结果、它能否回答今天的治疗问题，以及到院后还应重复什么。"
+          },
+          "subcategory": "诊断复核与治疗准备",
+          "excerpt": "Treatment can depend on a single line in a report: the tumour type, margin status, receptor expression, a molecular alteration, renal function or a clotting result.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "protecting-your-medical-privacy-when-sharing-records-internationally",
+          "title": {
+            "en": "Protecting Your Medical Privacy When Sharing Records Internationally",
+            "zh": "跨境分享医疗记录时如何保护隐私"
+          },
+          "subtitle": {
+            "en": "Know every recipient, send only what the task requires, use a controlled channel and decide when each person’s access should end.",
+            "zh": "认清每一位接收者，只发送完成任务所需资料，使用可控渠道，并为每个人的访问权限设定终点。"
+          },
+          "subcategory": "隐私与跨境病历",
+          "excerpt": "A record can cross several borders without the patient noticing.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "public-vs-private-hospitals",
+          "title": {
+            "en": "Public vs Private Hospitals in China: What International Patients Should Know",
+            "zh": "中国公立医院与私立医院：国际患者需要了解什么"
+          },
+          "subtitle": {
+            "en": "Ownership affects how a hospital is organised, but it does not settle the questions patients care about most: who will treat me, what can this site do, and what will I pay?",
+            "zh": "办医主体会影响医院的组织和服务方式，却不能直接回答患者最关心的三个问题：谁来治、这家院区能做什么、最终要付多少。"
+          },
+          "subcategory": "就医机构选择",
+          "excerpt": "Patients sometimes frame the choice as “public for medical quality, private for comfort.” That is too neat to be useful.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "seeking-medical-care-in-beijing-a-guide-for-international-patients",
+          "title": {
+            "en": "Seeking Medical Care in Beijing: A Practical Guide for International Patients",
+            "zh": "北京就医：国际患者实用指南"
+          },
+          "subtitle": {
+            "en": "Choose the right Beijing service line, confirm the exact campus, and arrive with an appointment that matches both the medical problem and the patient’s language needs.",
+            "zh": "先选对服务入口，再核对医院院区、预约信息和语言支持，避免到了北京才发现挂错科、走错院区。"
+          },
+          "subcategory": "就医城市与医院选择",
+          "excerpt": "Beijing has national-level referral centres, municipal hospitals, specialist institutions, international medical departments and private clinics.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "seeking-medical-care-in-guangzhou-a-guide-for-international-patients",
+          "title": {
+            "en": "Seeking Medical Care in Guangzhou: A Guide for International Patients",
+            "zh": "广州就医：国际患者指南"
+          },
+          "subtitle": {
+            "en": "A city-specific route through Guangzhou appointments, passport registration, test-result follow-up, language support and emergency care.",
+            "zh": "从护照实名预约、院区与门诊类型核对，到检验结果续诊、语言协助和 120 急救的一条完整广州就医路线。"
+          },
+          "subcategory": "城市就医与预约流程",
+          "excerpt": "Guangzhou is both a major referral city and a practical care base for people living, working or travelling across the Greater Bay Area.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "seeking-medical-care-in-shanghai-a-guide-for-international-patients",
+          "title": {
+            "en": "Seeking Medical Care in Shanghai: A Guide for International Patients",
+            "zh": "上海就医：国际患者指南"
+          },
+          "subtitle": {
+            "en": "Pick the right care pathway, make your passport identity work across appointments, and plan for the parts of Shanghai care that happen outside the consultation room.",
+            "zh": "在公立普通门诊、公立国际医疗与私立国际机构之间选对入口，并把护照实名、检查流程、保险和离沪交接提前安排好。"
+          },
+          "subcategory": "就医城市与服务路径选择",
+          "excerpt": "Shanghai can feel easy to navigate because international clinics, large teaching hospitals and digital services are all visible online.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "seeking-medical-care-in-shenzhen-a-guide-for-international-patients",
+          "title": {
+            "en": "Seeking Medical Care in Shenzhen: A Guide for International Patients",
+            "zh": "深圳就医：国际患者指南"
+          },
+          "subtitle": {
+            "en": "Plan a Shenzhen visit around the actual hospital entrance, the identity document in its system, and the clinical handover on whichever side of the border comes next.",
+            "zh": "核对深圳医院真正的接诊入口、系统采用的身份证件，以及患者离开深圳后病历如何交到下一位医生手里。"
+          },
+          "subcategory": "城市就医与跨境诊疗规划",
+          "excerpt": "Shenzhen’s proximity to Hong Kong makes cross-boundary care look simpler than it is.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "three-tier-hospital-system",
+          "title": {
+            "en": "Understanding China’s Three-Tier Hospital System",
+            "zh": "读懂中国医院三级分级体系"
+          },
+          "subtitle": {
+            "en": "“Tertiary” describes a hospital’s role and assessed capacity. It does not tell you which department, doctor or care pathway is right for one patient.",
+            "zh": "“三级”描述医院的功能定位和综合能力，“甲等”是评审结论；两者都不能代替对具体科室和医生的判断。"
+          },
+          "subcategory": "医疗体系与医院等级",
+          "excerpt": "An international patient may be told to look for a “three-A hospital,” a “Class III Grade A hospital” or simply a “top hospital.” These expressions are often used as if they mean the same thing.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "using-hospital-apps-and-wechat-during-medical-care-in-china",
+          "title": {
+            "en": "Using Hospital Apps and WeChat During Medical Care in China",
+            "zh": "在中国就医时如何使用医院App和微信"
+          },
+          "subtitle": {
+            "en": "A practical way to set up registration, payment, results and follow-up without letting an identity mismatch or unofficial account derail the visit.",
+            "zh": "从实名建档、预约和付款，到查看报告与复诊，一次把容易卡住国际患者的数字流程理顺。"
+          },
+          "subcategory": "数字化患者服务",
+          "excerpt": "At many Chinese hospitals, the phone is part of the outpatient pathway.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "what-a-medical-care-coordinator-can-and-cannot-do",
+          "title": {
+            "en": "What a Medical Care Coordinator Can—and Cannot—Do",
+            "zh": "医疗协调员可以做什么、不能做什么"
+          },
+          "subtitle": {
+            "en": "A good coordinator removes logistical friction and preserves the clinical chain of communication; they do not become the doctor, interpreter, insurer or decision-maker.",
+            "zh": "好的协调员负责扫清行政障碍、维持信息传递，却不会把自己变成医生、口译员、保险公司或患者的决策者。"
+          },
+          "subcategory": "患者协调与风险防范",
+          "excerpt": "The most useful coordinator is rarely the person making the biggest promises.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "what-to-expect-at-a-chinese-hospital-outpatient-appointment",
+          "title": {
+            "en": "What to Expect at a Chinese Hospital Outpatient Appointment",
+            "zh": "在中国医院看门诊会经历什么"
+          },
+          "subtitle": {
+            "en": "A Chinese outpatient visit is often a chain of short steps—identity check, consultation, payment, tests, results and another decision—rather than one long appointment.",
+            "zh": "中国门诊往往由多个短环节组成：身份核验、问诊、缴费、检查、取结果和再次决策，而不是一场持续很久的单次预约。"
+          },
+          "subcategory": "门诊就医",
+          "excerpt": "For many international patients, the surprising part of a Chinese hospital visit is not the medicine.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        }
+      ]
+    },
+    {
+      "slug": "clinical-trials-advanced-treatments",
+      "title": "Clinical Trials Advanced Treatments",
+      "guides": [
+        {
+          "slug": "adverse-event-reporting-in-clinical-trials-a-patient-guide",
+          "title": {
+            "en": "Adverse Event Reporting in Clinical Trials: A Patient Guide",
+            "zh": "临床试验不良事件报告：患者实用指南"
+          },
+          "subtitle": {
+            "en": "What to report, who needs to know and how to protect care when an event happens away from the trial site.",
+            "zh": "出现症状、住院或器械问题时，应该告诉谁、提供什么，以及人在异地时怎样保证救治与研究信息不断线。"
+          },
+          "subcategory": "受试者安全与事件报告",
+          "excerpt": "A participant develops a fever on a Saturday, is admitted to a hospital near home and assumes the clinical-trial team will see the record automatically.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "antibody-drug-conjugates-treatment-and-clinical-trial-questions",
+          "title": {
+            "en": "Antibody-Drug Conjugates: Treatment and Clinical Trial Questions",
+            "zh": "抗体偶联药物：治疗与临床试验应问什么"
+          },
+          "subtitle": {
+            "en": "Read an ADC proposal as a complete antibody-linker-payload system, then verify the tumour target, exact indication, dose, combination and monitoring plan.",
+            "zh": "把 ADC 当作完整的“抗体—连接子—载荷”系统来理解，再核对肿瘤靶点、准确适应证、剂量、联合方案和监测计划。"
+          },
+          "subcategory": "精准肿瘤治疗",
+          "excerpt": "An ADC is sometimes described as “chemotherapy with a homing device.” That image is useful only up to a point.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "artificial-intelligence-in-medical-imaging-what-patients-should-know",
+          "title": {
+            "en": "Artificial Intelligence in Medical Imaging: What Patients Should Know",
+            "zh": "医学影像中的人工智能：患者真正需要知道什么"
+          },
+          "subtitle": {
+            "en": "Find out what the software actually does, who checks it and whether it changes your care.",
+            "zh": "先问软件到底做什么、谁来复核，再问它是否改变诊疗。"
+          },
+          "subcategory": "影像、软件与临床决策",
+          "excerpt": "A patient may encounter artificial intelligence before, during or after a scan without seeing a robot or even an “AI” button.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "bispecific-antibodies-in-cancer-care-a-patient-guide",
+          "title": {
+            "en": "Bispecific Antibodies in Cancer Care: A Patient Guide",
+            "zh": "双特异性抗体用于肿瘤治疗：患者指南"
+          },
+          "subtitle": {
+            "en": "Identify the two binding targets and the job they perform before judging eligibility, step-up dosing, immune toxicity, infection risk and travel feasibility.",
+            "zh": "先弄清两个结合靶点及其功能，再判断入组、阶梯加量、免疫毒性、感染风险和跨境可行性。"
+          },
+          "subcategory": "肿瘤免疫治疗",
+          "excerpt": "A conventional antibody binds one kind of target.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "cancer-vaccine-trials-what-the-research-is-testing",
+          "title": {
+            "en": "Cancer Vaccine Trials: What the Research Is Testing",
+            "zh": "肿瘤疫苗试验：研究究竟在验证什么"
+          },
+          "subtitle": {
+            "en": "Separate prevention from treatment, then examine antigen choice, vaccine platform, immune readouts, manufacturing time and the clinical endpoint that matters.",
+            "zh": "先区分预防与治疗，再查看抗原选择、疫苗平台、免疫指标、制造时间和真正重要的临床终点。"
+          },
+          "subcategory": "肿瘤免疫治疗",
+          "excerpt": "The word “vaccine” creates an understandable but misleading expectation: one injection prevents disease.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "car-t-cell-therapy-in-china-approved-care-vs-clinical-trials",
+          "title": {
+            "en": "CAR-T Cell Therapy in China: Approved Care vs Clinical Trials",
+            "zh": "中国 CAR-T 细胞治疗：获批诊疗与临床试验怎样区分"
+          },
+          "subtitle": {
+            "en": "Verify the product, target, disease, treatment line and regulatory route before comparing access, manufacturing, risk, cost and follow-up.",
+            "zh": ""
+          },
+          "subcategory": "Cellular Immunotherapy",
+          "excerpt": "CAR-T is a process, not a single infusion.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "cell-therapy-manufacturing-and-quality-why-it-matters",
+          "title": {
+            "en": "Cell Therapy Manufacturing and Quality: Why It Matters",
+            "zh": "细胞治疗的生产与质量：为什么会直接影响患者"
+          },
+          "subtitle": {
+            "en": "Follow a cell product from collection and identity control through manufacture, release, transport and bedside administration—and understand what happens when a batch fails.",
+            "zh": ""
+          },
+          "subcategory": "Cell, Gene & Regenerative Medicine",
+          "excerpt": "A tablet can often be fully tested before anyone takes it.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "clinical-trial-costs-travel-and-follow-up-responsibilities",
+          "title": {
+            "en": "Clinical Trial Costs, Travel, and Follow-Up Responsibilities",
+            "zh": "临床试验费用、跨境出行与随访责任"
+          },
+          "subtitle": {
+            "en": "Replace the phrase “the trial is free” with a written map of research costs, routine care, travel, complications and follow-up across borders.",
+            "zh": ""
+          },
+          "subcategory": "International Trial Planning",
+          "excerpt": "“The clinical trial is free” is not a financial plan.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "clinical-trial-eligibility-why-patients-may-or-may-not-qualify",
+          "title": {
+            "en": "Clinical Trial Eligibility: Why Patients May or May Not Qualify",
+            "zh": "临床试验资格：患者为什么可能符合或不符合"
+          },
+          "subtitle": {
+            "en": "A practical guide to pre-screening, protocol criteria, screening windows, screen failure and the difference between eligibility and actual enrollment.",
+            "zh": ""
+          },
+          "subcategory": "Trial Screening and Enrollment",
+          "excerpt": "Clinical-trial eligibility is often described as a yes-or-no decision.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "clinical-trial-phases-explained-for-patients",
+          "title": {
+            "en": "Clinical Trial Phases Explained for Patients",
+            "zh": "患者怎样理解临床试验 I–IV 期"
+          },
+          "subtitle": {
+            "en": "Use the phase to understand the study’s main question, then read the actual protocol, arms, endpoints and prior evidence before judging personal relevance.",
+            "zh": ""
+          },
+          "subcategory": "Clinical Trial Fundamentals",
+          "excerpt": "Trial “phase” is a shorthand for the question a study is designed to answer at a point in medical-product development.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "gene-therapy-in-china-approved-uses-trials-and-red-flags",
+          "title": {
+            "en": "Gene Therapy in China: Approved Uses, Trials, and Red Flags",
+            "zh": "中国基因治疗：获批用途、临床试验与风险信号"
+          },
+          "subtitle": {
+            "en": "Verify the disease, genetic mechanism, exact product, vector or editing system, Chinese regulatory route and lifelong obligations before judging a gene-therapy offer.",
+            "zh": "在判断基因治疗建议前，先核实疾病、遗传机制、准确产品、载体或编辑系统、中国监管路径和长期义务。"
+          },
+          "subcategory": "细胞、基因与再生医学",
+          "excerpt": "Gene therapy uses genetic material to treat or prevent disease.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "how-to-find-a-clinical-trial-in-china",
+          "title": {
+            "en": "How to Find a Clinical Trial in China",
+            "zh": "如何在中国寻找临床试验"
+          },
+          "subtitle": {
+            "en": "Search the right registries, read the actual eligibility criteria, and verify recruitment with the study site before making travel plans.",
+            "zh": "先找对注册平台、读懂真实入排标准，再向具体研究中心确认是否仍在招募，最后才考虑行程。"
+          },
+          "subcategory": "临床试验基础",
+          "excerpt": "Patients often arrive at a clinical-trial search with a drug name they saw online.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "how-to-verify-a-research-hospital-and-clinical-trial",
+          "title": {
+            "en": "How to Verify a Research Hospital and Clinical Trial",
+            "zh": "如何核实研究型医院与临床试验"
+          },
+          "subtitle": {
+            "en": "Match the institution, protocol, site, investigator and recruitment status before sharing records or travelling.",
+            "zh": "在发送病历或出行前，把机构、方案、中心、研究者和招募状态逐一对应。"
+          },
+          "subcategory": "研究核验与伦理",
+          "excerpt": "“This is a research hospital” is not enough to establish that a proposed study is genuine.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "informed-consent-for-clinical-trials-in-china",
+          "title": {
+            "en": "Informed Consent for Clinical Trials in China",
+            "zh": "在中国参加临床试验：怎样才算真正的知情同意"
+          },
+          "subtitle": {
+            "en": "What international patients should understand before signing, from experimental procedures and alternatives to translation, injury, samples, withdrawal and re-consent.",
+            "zh": ""
+          },
+          "subcategory": "Participant Rights and Research Ethics",
+          "excerpt": "The most important part of a clinical-trial consent form is not the signature page.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "liquid-biopsy-in-cancer-care-uses-limits-and-clinical-trials",
+          "title": {
+            "en": "Liquid Biopsy in Cancer Care: Uses, Limits, and Clinical Trials",
+            "zh": "肿瘤液体活检：用途、局限与临床试验"
+          },
+          "subtitle": {
+            "en": "Match the specimen, assay and clinical decision—and know what a negative result cannot exclude.",
+            "zh": "让样本、检测和临床决定准确对应，也要知道阴性结果排除不了什么。"
+          },
+          "subcategory": "分子检测与精准肿瘤学",
+          "excerpt": "A blood draw is easier than a tissue biopsy, but the word “biopsy” can create the wrong expectation.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "long-term-follow-up-after-cell-or-gene-therapy",
+          "title": {
+            "en": "Long-Term Follow-Up After Cell or Gene Therapy",
+            "zh": "细胞或基因治疗后的长期随访"
+          },
+          "subtitle": {
+            "en": "Build a product-specific follow-up passport for early toxicity, immune recovery, disease response, delayed adverse events, pregnancy and cross-border reporting.",
+            "zh": ""
+          },
+          "subcategory": "Cell, Gene & Regenerative Medicine",
+          "excerpt": "Some cell and gene therapies are designed to persist or cause long-lasting biological change.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "mr-guided-radiotherapy-how-real-time-imaging-supports-treatment",
+          "title": {
+            "en": "MR-Guided Radiotherapy: How Real-Time Imaging Supports Treatment",
+            "zh": "MR 引导放疗：实时影像怎样支持治疗"
+          },
+          "subtitle": {
+            "en": "Understand what is imaged, what is adapted and what the team still has to decide.",
+            "zh": "弄清看到了什么、调整了什么，以及哪些决定仍必须由团队完成。"
+          },
+          "subcategory": "影像引导与自适应放疗",
+          "excerpt": "Radiotherapy has always depended on images.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "oncolytic-virus-therapy-trials-evidence-risks-and-eligibility",
+          "title": {
+            "en": "Oncolytic Virus Therapy Trials: Evidence, Risks, and Eligibility",
+            "zh": "溶瘤病毒治疗试验：证据、风险与入组条件"
+          },
+          "subtitle": {
+            "en": "Assess the exact virus, genetic design, delivery route, injectable lesion, combination and biosafety plan—not the broad promise of “a virus that kills cancer.”",
+            "zh": "评估准确的病毒、基因设计、给药途径、可注射病灶、联合方案和生物安全计划，而不是相信“病毒杀死癌症”的笼统承诺。"
+          },
+          "subcategory": "肿瘤免疫治疗",
+          "excerpt": "An oncolytic virus is intended to infect and break down cancer cells while limiting harm to normal cells .",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "precision-oncology-trials-in-china-biomarkers-and-matching",
+          "title": {
+            "en": "Precision Oncology Trials in China: Biomarkers and Matching",
+            "zh": "中国精准肿瘤临床试验：生物标志物怎样真正匹配"
+          },
+          "subtitle": {
+            "en": "A molecular finding becomes a credible trial lead only after the sample, assay, exact variant, evidence, disease context and protocol cohort all line up.",
+            "zh": ""
+          },
+          "subcategory": "Biomarker-Directed Trials",
+          "excerpt": "Precision oncology is not the act of uploading a sequencing report and receiving the name of a drug.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "proton-and-carbon-ion-therapy-in-china-a-patient-guide",
+          "title": {
+            "en": "Proton and Carbon-Ion Therapy in China: A Patient Guide",
+            "zh": "中国质子与碳离子治疗：患者判断指南"
+          },
+          "subtitle": {
+            "en": "Compare the actual treatment plans, evidence and centre capability—not the prestige of the particle.",
+            "zh": "比较真正可执行的计划、证据和中心能力，而不是比较粒子名称的先进感。"
+          },
+          "subcategory": "粒子放射治疗",
+          "excerpt": "Patients are often shown a diagram in which a particle beam stops inside a tumour while an X-ray beam continues through the body.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "regenerative-medicine-claims-questions-patients-should-ask",
+          "title": {
+            "en": "Regenerative Medicine Claims: Questions Patients Should Ask",
+            "zh": "再生医学宣传：患者应该追问什么"
+          },
+          "subtitle": {
+            "en": "Turn words such as “repair,” “rejuvenate” and “activate healing” into precise questions about the product, approval, evidence, outcome, risk and financial interest.",
+            "zh": ""
+          },
+          "subcategory": "Cell, Gene & Regenerative Medicine",
+          "excerpt": "“Regenerative” is an attractive word because it suggests that damaged tissue will become normal again.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "robotic-surgery-in-china-benefits-limits-and-surgeon-experience",
+          "title": {
+            "en": "Robotic Surgery in China: Benefits, Limits, and Surgeon Experience",
+            "zh": "中国机器人辅助手术：优势、局限与术者经验怎么看"
+          },
+          "subtitle": {
+            "en": "Judge the operation, surgeon and rescue plan before judging the machine.",
+            "zh": "先判断手术方案、主刀和应急能力，再判断机器。"
+          },
+          "subcategory": "外科技术与医疗决策",
+          "excerpt": "The word “robot” can make a familiar operation sound like a completely different treatment.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "stem-cell-treatment-how-to-distinguish-evidence-from-marketing",
+          "title": {
+            "en": "Stem Cell Treatment: How to Distinguish Evidence From Marketing",
+            "zh": "干细胞治疗：如何分清证据与营销"
+          },
+          "subtitle": {
+            "en": "Identify the cells, disease-specific evidence, Chinese regulatory route, manufacturing controls and follow-up before accepting a regenerative-medicine claim.",
+            "zh": ""
+          },
+          "subcategory": "Cell, Gene & Regenerative Medicine",
+          "excerpt": "The most useful first question is not “Do stem cells work?” It is: what exact cell product, for which diagnosis, through which regulated pathway, compared with what, and measured by which patient outcome?",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "tcr-t-cell-therapy-trials-what-patients-should-understand",
+          "title": {
+            "en": "TCR-T Cell Therapy Trials: What Patients Should Understand",
+            "zh": "TCR-T 细胞治疗试验：患者需要了解什么"
+          },
+          "subtitle": {
+            "en": "A trial match depends on the exact HLA allele, tumour target, engineered receptor, cohort and treatment pathway—not on the words “TCR-T” alone.",
+            "zh": "能否匹配一项试验，取决于准确的 HLA 等位基因、肿瘤靶点、工程化受体、研究队列和治疗流程，而不只是“TCR-T”三个字。"
+          },
+          "subcategory": "细胞免疫治疗",
+          "excerpt": "TCR-T is not one medicine.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "what-happens-after-a-clinical-trial-ends-post-trial-access-and-follow-up",
+          "title": {
+            "en": "What Happens After a Clinical Trial Ends? Post-Trial Access and Follow-Up",
+            "zh": "临床试验结束以后：继续用药、随访与医疗交接"
+          },
+          "subtitle": {
+            "en": "Separate the last study visit from the end of treatment, safety follow-up, access to the intervention and publication of results.",
+            "zh": "把末次研究访视、停止治疗、安全随访、继续获得干预和研究结果公布分开安排。"
+          },
+          "subcategory": "试验退出与连续照护",
+          "excerpt": "A trial can be “over” for one patient while study visits continue for everyone else.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        }
+      ]
+    },
+    {
+      "slug": "cost-insurance-guides",
+      "title": "Cost Insurance Guides",
+      "guides": [
+        {
+          "slug": "building-a-contingency-budget-for-medical-travel",
+          "title": {
+            "en": "A Contingency Budget for China Medical Travel: Fund the Failure Branches",
+            "zh": "赴华医疗应急预算：为会失败的分支准备可用资金"
+          },
+          "subtitle": {
+            "en": "Replace a generic percentage reserve with named clinical, travel, insurance and payment scenarios, each with a trigger, owner and available cash.",
+            "zh": "用有名称的临床、出行、保险和支付情景替代笼统百分比，并为每项写明触发点、负责人和可用现金。"
+          },
+          "subcategory": "财务风险与保护",
+          "excerpt": "A contingency budget is not spare money added to an optimistic estimate.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "refund-and-cancellation-policies-for-medical-travel",
+          "title": {
+            "en": "A Refund Is a Workflow: Cancel Medical Travel Without Losing the Paper Trail",
+            "zh": "退款不是一句承诺：取消赴华医疗行程的完整留证与追款流程"
+          },
+          "subtitle": {
+            "en": "Separate hospital, facilitator, flight and lodging contracts; classify why the plan stopped; and track every refundable amount from notice to bank receipt.",
+            "zh": "分开医院、中介、航班和住宿合同，准确记录计划停止的原因，并把每笔可退金额从通知追到银行入账。"
+          },
+          "subcategory": "财务风险与保护",
+          "excerpt": "“Refundable” sounds like a yes-or-no property.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "financial-questions-to-ask-before-signing-a-treatment-agreement",
+          "title": {
+            "en": "Before You Sign a China Treatment Agreement: 23 Financial Questions That Change the Deal",
+            "zh": "签署赴华治疗协议前：真正会改变交易的 23 个财务问题"
+          },
+          "subtitle": {
+            "en": "Turn an attractive quotation into a usable agreement by fixing the parties, price logic, change controls, refund path, documents and dispute route in writing.",
+            "zh": "把一份看起来不错的报价变成可执行的协议：写清签约方、价格逻辑、变更控制、退款路径、票据和争议处理。"
+          },
+          "subcategory": "财务风险与保护",
+          "excerpt": "The most expensive sentence in a treatment agreement is often not a price.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "documents-needed-for-overseas-insurance-reimbursement",
+          "title": {
+            "en": "China Treatment Reimbursement: Build a Claim File That Proves the Episode",
+            "zh": "中国治疗如何准备境外保险理赔：让文件证明完整就医阶段"
+          },
+          "subtitle": {
+            "en": "Link identity, medical necessity, delivered care, charges and payment into one traceable overseas insurance dossier.",
+            "zh": ""
+          },
+          "subcategory": "Claim Documentation",
+          "excerpt": "A folder containing many hospital PDFs can still fail as a claim.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "comparing-treatment-quotes-from-hospitals-in-china",
+          "title": {
+            "en": "Comparing China Hospital Quotes: Normalize the Care Before the Price",
+            "zh": "比较中国医院治疗报价：先统一方案，再比较价格"
+          },
+          "subtitle": {
+            "en": "Turn different clinical proposals into a comparable matrix without mistaking a lower scope, missing contingency or different service channel for a bargain.",
+            "zh": ""
+          },
+          "subcategory": "Quote Comparison",
+          "excerpt": "Hospital A quotes half as much as Hospital B.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "direct-billing-vs-pay-and-claim-at-chinese-hospitals",
+          "title": {
+            "en": "Direct Billing or Pay-and-Claim in China: Choose the Failure You Can Manage",
+            "zh": "中国医院直付还是先付后报：选择自己能承受的失败方式"
+          },
+          "subtitle": {
+            "en": "Compare cash exposure, provider choice, document burden and failure recovery—not just whether a hospital displays an insurer’s logo.",
+            "zh": ""
+          },
+          "subcategory": "Insurance Payment Workflows",
+          "excerpt": "The usual comparison says direct billing is easy and reimbursement is inconvenient.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "budgeting-for-flights-and-accommodation-during-medical-travel",
+          "title": {
+            "en": "Flights and Accommodation for China Medical Travel: Budget for Schedule Change",
+            "zh": "赴华医疗的机票与住宿预算：为时间变化留出余地"
+          },
+          "subtitle": {
+            "en": "Price the patient and companion separately, then test the budget against a longer stay, a changed flight and a slower-than-expected recovery.",
+            "zh": "分开计算患者和陪同者，再用延长住宿、改签航班及恢复慢于预期三种情况检验预算。"
+          },
+          "subcategory": "出行与非医疗费用",
+          "excerpt": "A medical-travel budget fails when it is built like a holiday budget: fixed arrival, fixed checkout and a return flight that will definitely be used.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "planning-food-local-transport-and-companion-costs",
+          "title": {
+            "en": "Food, Local Transport and Companion Costs in China: Budget by Day Type",
+            "zh": "赴华医疗的餐饮、当地交通与陪同费用：按“日型”做预算"
+          },
+          "subtitle": {
+            "en": "Replace one daily allowance with four realistic day types that reflect diet, mobility, appointment load and the companion’s actual work.",
+            "zh": "用四种真实日型替代统一每日补贴，让预算反映饮食、活动能力、预约强度和陪同者的实际工作。"
+          },
+          "subcategory": "日常生活与陪同费用",
+          "excerpt": "Flights and hotels are visible before departure.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "hospital-deposits-final-payments-and-refunds-explained",
+          "title": {
+            "en": "Hospital Deposits and Refunds in China: Follow the Money to Closure",
+            "zh": "中国医院预交金与退款：把每一笔钱追到真正结案"
+          },
+          "subtitle": {
+            "en": "Know why money is requested, where it is credited, when another payment is due and what proves that a refund is truly complete.",
+            "zh": ""
+          },
+          "subcategory": "Deposits, Settlement and Refunds",
+          "excerpt": "International patients often hear the word “deposit” and assume it reserves a doctor, fixes a price or buys a treatment package.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "how-to-request-an-itemized-treatment-estimate-in-china",
+          "title": {
+            "en": "How to Request an Itemized Treatment Estimate in China",
+            "zh": "如何在中国索取分项治疗费用估算"
+          },
+          "subtitle": {
+            "en": "Ask for assumptions, quantities, exclusions and change triggers—not just one impressive total at the bottom of a page.",
+            "zh": "不要只看页面底部一个漂亮总数，应要求医院写明临床假设、数量、除外项和价格变化条件。"
+          },
+          "subcategory": "费用估算与医院账单",
+          "excerpt": "Two estimates can show the same total and mean completely different things.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "interpreter-and-patient-coordinator-fees-in-china",
+          "title": {
+            "en": "Medical Interpreter and Patient Coordinator Fees in China: Buy the Right Role",
+            "zh": "中国医疗口译与患者协调费用：先买对角色，再比较价格"
+          },
+          "subtitle": {
+            "en": "Separate interpreting, document translation and case coordination, then compare qualifications, time rules, deliverables and conflicts—not just hourly price.",
+            "zh": "把口译、书面翻译和病例协调分开，再比较资质、计时规则、交付内容和利益冲突，而不只看小时单价。"
+          },
+          "subcategory": "语言与协调费用",
+          "excerpt": "“Interpreter and coordinator included” is not a useful quotation.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "medical-tourism-complication-insurance-what-to-review",
+          "title": {
+            "en": "Medical Tourism Complication Insurance: Stress-Test the Rescue Plan",
+            "zh": "医疗旅行并发症保险：用真实救治情景检验保障"
+          },
+          "subtitle": {
+            "en": "Test who pays and who takes control if planned treatment in China leads to emergency care, revision, evacuation or delayed problems after the patient returns home.",
+            "zh": "如果计划中的赴华治疗引发急救、再次手术、医疗转运或回国后的延迟问题，提前核实谁付款、谁接管。"
+          },
+          "subcategory": "并发症保障",
+          "excerpt": "Complication insurance is easy to overestimate because the product name sounds broader than its contract.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "currency-cards-and-hospital-payment-methods-in-china",
+          "title": {
+            "en": "Paying a China Hospital: Build a Payment Route That Can Survive Failure",
+            "zh": "向中国医院付款：建立一条经得住失败的支付路径"
+          },
+          "subtitle": {
+            "en": "Verify hospital acceptance, card and wallet limits, payer identity, currency conversion, receipts and refunds before a large medical payment is due.",
+            "zh": "大额医疗付款到期前，核实医院受理、卡与钱包限额、付款人身份、货币转换、票据和退款路径。"
+          },
+          "subcategory": "币种与付款方式",
+          "excerpt": "International patients often prepare enough money but not a reliable route for moving it.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "preauthorization-for-medical-treatment-in-china",
+          "title": {
+            "en": "Preauthorization for Treatment in China: Make Approval Match the Actual Plan",
+            "zh": "赴华治疗预授权：让保险批准与实际方案逐项对应"
+          },
+          "subtitle": {
+            "en": "Turn a proposed China treatment plan into a written, traceable insurer decision—and keep it valid when dates, services or providers change.",
+            "zh": "把拟定的赴华治疗方案变成可追踪的书面保险决定，并在日期、项目或医疗机构变化时及时修订。"
+          },
+          "subcategory": "预授权流程",
+          "excerpt": "Preauthorization is not a reassuring email to collect and forget.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "understanding-hospital-bills-in-china",
+          "title": {
+            "en": "Reading a Hospital Bill in China: From Deposit to Final Receipt",
+            "zh": "看懂中国医院账单：从预交金到最终票据"
+          },
+          "subtitle": {
+            "en": "Reconcile what was ordered, delivered, charged, paid and refunded without confusing a deposit slip with the final medical bill.",
+            "zh": ""
+          },
+          "subcategory": "Bills, Statements and Receipts",
+          "excerpt": "A China hospital stay may generate several numbers that look like “the bill”: a preliminary estimate, a requested prepayment, the account balance shown in an app, a daily charge list and the final settlement.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "estimating-recovery-accommodation-after-treatment",
+          "title": {
+            "en": "Recovery Accommodation After Treatment in China: Estimate by Exit Criteria",
+            "zh": "赴华治疗后的康复住宿：按离院条件估算，不按固定天数"
+          },
+          "subtitle": {
+            "en": "Replace a fixed number of hotel nights with three clinical gates: ready to leave hospital, ready to recover nearby and ready for the journey home.",
+            "zh": "用三道临床门槛替代固定酒店晚数：适合离院、适合在附近恢复，以及适合踏上返程。"
+          },
+          "subcategory": "康复住宿",
+          "excerpt": "“How many nights should I book after treatment?” sounds like a calendar question, but the answer is really a chain of clinical and practical decisions.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "how-to-avoid-misleading-medical-tourism-price-claims",
+          "title": {
+            "en": "The Price-Claim Autopsy: Test a Medical Tourism Offer Before It Tests You",
+            "zh": "给医疗旅游价格宣传做“解剖”：付款前把每句话变成证据"
+          },
+          "subtitle": {
+            "en": "A field method for taking apart “from,” “save,” “all-inclusive,” “no hidden fees” and outcome-linked price claims before paying for care in China.",
+            "zh": "拆解“低至”“节省”“全包”“无隐藏费用”和结果挂钩的价格话术，再决定是否为赴华治疗付款。"
+          },
+          "subcategory": "财务风险与保护",
+          "excerpt": "A medical tourism price ad is built to be read in one direction: large number first, reassuring icons second, conditions last.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "planning-for-unexpected-complications-and-extended-stays",
+          "title": {
+            "en": "When the Return Date Breaks: An Extended-Stay Playbook for Medical Care in China",
+            "zh": "回程日期失效以后：赴华治疗延期停留的现场运行手册"
+          },
+          "subtitle": {
+            "en": "Organize clinical escalation, records, medicines, immigration status, accommodation, companion coverage, payments and the new route home after a complication changes the plan.",
+            "zh": "并发症改变计划后，同步管理临床升级、病历、用药、合法停留、住宿、陪同、付款和新的回国路径。"
+          },
+          "subcategory": "财务风险与保护",
+          "excerpt": "The return date usually breaks quietly.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "why-a-medical-cost-estimate-may-change-after-evaluation",
+          "title": {
+            "en": "Why the Estimate Changed After Evaluation: Audit the Clinical Delta",
+            "zh": "评估后估算为什么变了：审核真正发生的临床变化"
+          },
+          "subtitle": {
+            "en": "Connect every material price change to new evidence, a changed treatment decision or a corrected administrative assumption.",
+            "zh": ""
+          },
+          "subcategory": "Estimate Revisions",
+          "excerpt": "The first estimate may have been built from translated reports, selected images and a short clinical summary.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "does-international-health-insurance-cover-treatment-in-china",
+          "title": {
+            "en": "Will International Health Insurance Pay for Treatment in China?",
+            "zh": "国际健康保险会支付在中国的治疗吗？"
+          },
+          "subtitle": {
+            "en": "Test the policy, proposed treatment, hospital channel and payment method separately before relying on a logo or membership card.",
+            "zh": ""
+          },
+          "subcategory": "Insurance Coverage and Claims",
+          "excerpt": "An insurance card with “worldwide” printed on it is not a payment instruction.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        }
+      ]
+    },
+    {
+      "slug": "hospital-guides",
+      "title": "Hospital Guides",
+      "guides": [
+        {
+          "slug": "choosing-a-hospital-in-beijing-specialties-access-and-travel",
+          "title": {
+            "en": "Choosing a Hospital in Beijing: Specialties, Access, and Travel",
+            "zh": "怎样选择北京医院：专科、院区、就医渠道与行程"
+          },
+          "subtitle": {
+            "en": "Choose the clinical pathway first, confirm the exact campus second, and build travel around the real sequence of appointments.",
+            "zh": "先确定临床路径，再核实实际院区，最后按照真实的问诊、检查和治疗顺序安排行程。"
+          },
+          "subcategory": "北京就医规划",
+          "excerpt": "“Which is the best hospital in Beijing?” sounds sensible but usually produces the wrong shortlist.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "choosing-a-hospital-in-chengdu-specialties-access-and-travel",
+          "title": {
+            "en": "Choosing a Hospital in Chengdu: Three Distances, Two Airports, and a Safe Recovery Radius",
+            "zh": "怎样选择成都医院：三种距离、两座机场与安全康复半径"
+          },
+          "subtitle": {
+            "en": "A city-specific way to connect case readiness, the actual treatment campus, airport and rail access, and the place where recovery will happen.",
+            "zh": "把病历成熟度、实际治疗院区、机场和铁路交通，以及出院后真正休养的地点放在同一张图上判断。"
+          },
+          "subcategory": "成都就医规划",
+          "excerpt": "Choosing in Chengdu becomes easier when the patient stops asking “Which hospital is best?” and starts measuring three distances.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "choosing-a-hospital-in-guangzhou-specialties-access-and-travel",
+          "title": {
+            "en": "Choosing a Hospital in Guangzhou: Specialties, Access, and Travel",
+            "zh": "怎样选择广州医院：专科、院区、湾区交通与返程"
+          },
+          "subtitle": {
+            "en": "Match the case to a verified team, then test whether the campus, booking identity, Greater Bay Area route and recovery plan actually connect.",
+            "zh": "先让病例匹配到已经核实的团队，再检验院区、建档身份、粤港澳大湾区路线和康复安排能否真正衔接。"
+          },
+          "subcategory": "广州就医规划",
+          "excerpt": "Guangzhou can look deceptively easy on a regional map: a major airport, several high-speed rail stations, dense metro lines and connections across the Greater Bay Area.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "choosing-a-hospital-in-hainan-specialties-access-and-recovery",
+          "title": {
+            "en": "Choosing a Hospital in Hainan: Five Island Filters for Treatment and Recovery",
+            "zh": "怎样选择海南医院：治疗与康复前的五道海岛过滤器"
+          },
+          "subtitle": {
+            "en": "Separate city, campus, regulatory pathway, island access, and recovery before relying on a Hainan medical-tourism offer.",
+            "zh": "在相信海南医疗旅游方案前，先分清城市、院区、监管路径、海岛交通和康复责任。"
+          },
+          "subcategory": "海南就医规划",
+          "excerpt": "The first correction is geographic: Hainan is a province.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "choosing-a-hospital-in-hangzhou-specialties-access-and-travel",
+          "title": {
+            "en": "Choosing a Hospital in Hangzhou: Three Proofs and One Real-world Test",
+            "zh": "怎样选择杭州医院：三级证明和一次真实演练"
+          },
+          "subtitle": {
+            "en": "Prove clinical acceptance, prove the campus and service route, prove continuity—then test the passport and journey before committing.",
+            "zh": "先证明病例已被接受、院区和服务渠道可用、后续有人接手，再实际测试护照和行程。"
+          },
+          "subcategory": "杭州就医规划",
+          "excerpt": "Hangzhou’s digital reputation can create a subtle planning mistake: if an appointment, map, payment, and result can all appear on a phone, the care pathway feels complete.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "choosing-a-hospital-in-nanjing-specialties-access-and-travel",
+          "title": {
+            "en": "Choosing a Hospital in Nanjing: Clinical Dependencies, River Crossings, and Campus Access",
+            "zh": "怎样选择南京医院：临床依赖、过江路线与实际院区"
+          },
+          "subtitle": {
+            "en": "Map the clinical dependencies first, then make sure the passport, campus, river crossing, emergency, and discharge routes support them.",
+            "zh": "先画临床依赖图，再确认护照、院区、过江、急救和出院路线能否真正支撑它。"
+          },
+          "subcategory": "南京就医规划",
+          "excerpt": "In Nanjing, a clinical plan and a city map must be drawn together.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "choosing-a-hospital-in-shanghai-specialties-access-and-travel",
+          "title": {
+            "en": "Choosing a Hospital in Shanghai: Specialties, Access, and Travel",
+            "zh": "怎样选择上海医院：专科、院区、国际服务与行程"
+          },
+          "subtitle": {
+            "en": "Turn a Shanghai hospital name into a verified clinical route, exact-campus itinerary and workable arrival-to-discharge plan.",
+            "zh": "把一个上海医院名称拆解为可核实的临床路径、精确院区安排和从抵达到出院都能执行的计划。"
+          },
+          "subcategory": "上海就医规划",
+          "excerpt": "A Shanghai hospital may have an old central campus, a newer branch across the river, a specialist clinic in another district and an international desk that does not cover emergency care.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "choosing-a-hospital-in-shenzhen-specialties-access-and-travel",
+          "title": {
+            "en": "Choosing a Hospital in Shenzhen: Clinical Fit, Cross-border Boundaries, and Travel",
+            "zh": "怎样选择深圳医院：临床匹配、深港边界与就医行程"
+          },
+          "subtitle": {
+            "en": "Fix the clinical owner and exact campus first; then test the passport, data, border, payment, emergency, and return-home chain.",
+            "zh": "先确定临床责任人和实际院区，再逐项验证护照、数据、口岸、付款、急救和返程衔接。"
+          },
+          "subcategory": "深圳就医规划",
+          "excerpt": "Shenzhen rewards speed, but a hospital decision should resist it.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "choosing-a-hospital-in-tianjin-specialties-access-and-travel",
+          "title": {
+            "en": "Choosing a Hospital in Tianjin: Specialty Fit, Campus Geography, and the Beijing Question",
+            "zh": "怎样选择天津医院：专科匹配、院区地理与“要不要去北京”"
+          },
+          "subtitle": {
+            "en": "Build the trip around one clinical anchor, one recovery base, and one written escalation route—not around a famous name or a fast train.",
+            "zh": "围绕一个临床锚点、一个康复驻点和一条书面升级路线安排行程，而不是围绕名气或高铁时长。"
+          },
+          "subcategory": "天津就医规划",
+          "excerpt": "The most common Tianjin planning error is to treat the city as a compact alternative to Beijing.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "choosing-a-hospital-in-wuhan-specialties-access-and-travel",
+          "title": {
+            "en": "Choosing a Hospital in Wuhan: Four Clocks Across the Three Towns",
+            "zh": "怎样选择武汉医院：穿行三镇时要盯住的四只时钟"
+          },
+          "subtitle": {
+            "en": "Keep the clinical, specimen, city, and recovery clocks aligned while confirming the exact team and campus across Wuhan.",
+            "zh": "同时管理临床决定、标本检查、城市移动和康复交接四条时间线，并把医生落实到武汉的具体院区。"
+          },
+          "subcategory": "武汉就医规划",
+          "excerpt": "Wuhan is not a city where a hospital name and a taxi estimate are enough.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "discharge-coordination-and-overseas-follow-up-from-a-chinese-hospital",
+          "title": {
+            "en": "Discharge Coordination and Overseas Follow-Up from a Chinese Hospital: “Sent” Is Not “Received”",
+            "zh": "从中国医院出院与海外随访：“已发送”不等于“已接收”"
+          },
+          "subtitle": {
+            "en": "A safe discharge closes only when the patient is stable, travel is separately assessed, the record is usable, pending results have an owner, and a clinician at home accepts the next task.",
+            "zh": "只有患者稳定、旅行另行评估、病历可用、待出结果有责任人且回国医生接受下一项任务，出院闭环才完成。"
+          },
+          "subcategory": "跨境出院与随访",
+          "excerpt": "An email can be sent without being opened.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "hospital-insurance-billing-and-payment-support-for-foreign-patients",
+          "title": {
+            "en": "Hospital Insurance, Billing, and Payment Support for Foreign Patients in China: Reconcile Three Ledgers",
+            "zh": "中国医院外国患者保险、账单与付款支持：核对三本账"
+          },
+          "subtitle": {
+            "en": "The hospital’s clinical-charge ledger, the insurer’s authorisation ledger, and the patient’s cash ledger must be reconciled line by line.",
+            "zh": "医院临床收费账、保险授权账和患者现金账必须逐项核对。"
+          },
+          "subcategory": "保险与医院付款",
+          "excerpt": "A hospital bill, an insurance benefit and the amount on a credit-card statement can all be correct—and still be different.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "hospital-quality-signals-international-patients-should-review",
+          "title": {
+            "en": "Hospital Quality Signals International Patients Should Review",
+            "zh": "国际患者真正值得核实的医院质量信号"
+          },
+          "subtitle": {
+            "en": "Replace prestige, décor and vague success claims with signals that can be checked at the department, team and care-pathway level.",
+            "zh": "不凭名气、装修和模糊的“成功率”做决定，而是逐项核实科室、团队、结果、救治后备与跨境交接。"
+          },
+          "subcategory": "医院质量与患者安全",
+          "excerpt": "A marble lobby, an “international” sign and a famous hospital name are easy to see.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "how-to-choose-a-cancer-hospital-in-china",
+          "title": {
+            "en": "How to Choose a Cancer Hospital in China: Audit the Whole Treatment Chain",
+            "zh": "怎样选择中国肿瘤医院：审核整条治疗链，而不是只看排名"
+          },
+          "subtitle": {
+            "en": "Match the tumour, stage, treatment sequence, safety backup, and cross-border handoff to one accountable team—not to a ranking or hospital label.",
+            "zh": "把癌种、分期、治疗顺序、安全后备与跨境交接落实到一个有责任人的团队，而不是医院标签或单一榜单。"
+          },
+          "subcategory": "肿瘤中心选择",
+          "excerpt": "There is no single “best cancer hospital in China.” The useful question is narrower: Which accountable team can complete this patient’s next treatment chain, at the right time, with the necessary rescue and follow-up?",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "how-to-choose-a-fertility-center-in-china",
+          "title": {
+            "en": "How to Choose a Fertility Centre in China: Read the Denominator Before the Success Rate",
+            "zh": "怎样选择中国生殖中心：先看成功率的分母"
+          },
+          "subtitle": {
+            "en": "Verify legal eligibility and the centre’s approved technology, then compare the clinical team, embryology laboratory, honest outcomes, safeguards, cost, and handoff.",
+            "zh": "先核实法律/伦理条件和机构获批技术，再比较临床团队、胚胎实验室、真实结局、安全、费用和跨境交接。"
+          },
+          "subcategory": "生殖医学中心选择",
+          "excerpt": "Two clinics can both advertise “60% success” while describing completely different events.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "how-to-choose-a-heart-hospital-or-cardiology-center-in-china",
+          "title": {
+            "en": "How to Choose a Heart Hospital or Cardiology Centre in China: Start with the 2 a.m. Door",
+            "zh": "怎样选择中国心脏医院或心脏中心：先看凌晨两点从哪扇门进去"
+          },
+          "subtitle": {
+            "en": "Match the patient to the correct cardiac pathway, then verify the team, quality measures, rescue system, implant record, and follow-up behind it.",
+            "zh": "先匹配患者真正需要的心脏路径，再核实背后的团队、质量、救治系统、植入物记录与随访。"
+          },
+          "subcategory": "心血管中心选择",
+          "excerpt": "The best first question is not “Which Chinese heart hospital is number one?” It is: Which door would this patient need if the condition worsened at 2 a.m., and does the elective team connect to that door?",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "how-to-choose-a-hospital-in-china-a-guide-for-international-patients",
+          "title": {
+            "en": "How to Choose a Hospital in China: A Guide for International Patients",
+            "zh": "如何选择中国医院：国际患者指南"
+          },
+          "subtitle": {
+            "en": "Start with the clinical decision, then verify the department, named team and support services that the case actually needs.",
+            "zh": "先明确需要解决的临床问题，再核实科室、具体医生和病例所需的支持系统。"
+          },
+          "subcategory": "医院选择",
+          "excerpt": "Hospital selection often goes wrong in the first ten minutes.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "how-to-choose-a-rehabilitation-hospital-in-china",
+          "title": {
+            "en": "How to Choose a Rehabilitation Hospital in China: Follow the Patient’s Whole Day",
+            "zh": "怎样选择中国康复医院：跟着患者过完整的一天"
+          },
+          "subtitle": {
+            "en": "A therapy timetable shows only a few hours; the safer comparison follows function, nursing, communication, complications, caregiver practice, and discharge across all 24.",
+            "zh": "治疗表只覆盖几小时；更安全的比较要追踪全天功能、护理、沟通、并发症、家属实操和出院。"
+          },
+          "subcategory": "康复医院选择",
+          "excerpt": "A glossy rehabilitation gym can be empty at night.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "how-to-choose-an-orthopedic-or-spine-hospital-in-china",
+          "title": {
+            "en": "How to Choose an Orthopaedic or Spine Hospital in China: Function Before Hardware",
+            "zh": "怎样选择中国骨科或脊柱医院：先看功能，再看植入物"
+          },
+          "subtitle": {
+            "en": "Define the loss of function, test whether the diagnosis explains it, and only then compare teams, operations, implants, rehabilitation, and follow-up.",
+            "zh": "先说清失去了什么功能，再验证诊断能否解释它，最后才比较团队、手术、植入物、康复与随访。"
+          },
+          "subcategory": "骨科与脊柱中心选择",
+          "excerpt": "The most expensive failure in orthopaedic travel is not choosing the “wrong brand” of implant.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "how-to-compare-hospital-second-opinions-in-china",
+          "title": {
+            "en": "How to Compare Hospital Second Opinions in China",
+            "zh": "怎样比较中国医院给出的不同第二诊疗意见"
+          },
+          "subtitle": {
+            "en": "Put opinions on the same evidence, separate facts from preferences and resolve the disagreement that could change care.",
+            "zh": "让不同意见基于同一套证据，把事实与偏好分开，再解决真正会改变治疗的分歧。"
+          },
+          "subcategory": "第二诊疗意见与决策比较",
+          "excerpt": "One hospital recommends surgery, another recommends observation, and a third says more tests are needed.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "how-to-verify-a-hospital-department-and-doctor-in-china",
+          "title": {
+            "en": "How to Verify a Hospital, Department, and Doctor in China",
+            "zh": "如何核实中国的医院、科室和医生"
+          },
+          "subtitle": {
+            "en": "Check three identities separately, then confirm that the exact campus and team can deliver the proposed care.",
+            "zh": "分别核实三个身份，再确认准确院区和团队能够提供拟议的医疗服务。"
+          },
+          "subcategory": "医疗服务提供者核验",
+          "excerpt": "Provider verification goes wrong when three questions are collapsed into one.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "international-patient-admission-services-in-chinese-hospitals",
+          "title": {
+            "en": "International Patient Admission Services in Chinese Hospitals: Get Four Confirmations Before You Fly",
+            "zh": "中国医院国际患者入院服务：登机前拿到四项确认"
+          },
+          "subtitle": {
+            "en": "Clinical acceptance, a bed at the correct campus, a usable identity record, and a valid payment route are four separate decisions.",
+            "zh": "临床接收、正确院区的床位、可用的实名病历和有效付款路径，是四个彼此独立的决定。"
+          },
+          "subcategory": "国际患者入院",
+          "excerpt": "International admission fails in ordinary gaps.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "language-support-and-english-medical-records-at-chinese-hospitals",
+          "title": {
+            "en": "Language Support and English Medical Records at Chinese Hospitals: Three Different Products",
+            "zh": "中国医院语言支持与英文病历：其实是三种不同产品"
+          },
+          "subtitle": {
+            "en": "Live clinical interpretation, the hospital’s source record, and an English handoff are connected—but they are not the same service or document.",
+            "zh": "实时医学口译、医院源病历和英文交接彼此相连，但不是同一种服务，也不是同一份文件。"
+          },
+          "subcategory": "语言与病历服务",
+          "excerpt": "A hospital can have an English website, an English-speaking lobby and no qualified interpreter on the ward at night.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "private-rooms-vip-wards-and-international-clinics-explained",
+          "title": {
+            "en": "Private Rooms, VIP Wards, and International Clinics in China: Do Not Confuse Comfort with Capability",
+            "zh": "中国医院单人病房、VIP 病区与国际门诊：不要把舒适当成能力"
+          },
+          "subtitle": {
+            "en": "A private room is a physical space, a VIP ward is a service and billing channel, and an international clinic is an access route; none automatically adds specialist rescue.",
+            "zh": "单人房是物理空间，VIP/特需病区是服务与收费渠道，国际门诊是就医入口；三者都不会自动增加专科救治能力。"
+          },
+          "subcategory": "房型与服务渠道选择",
+          "excerpt": "The easiest way to misunderstand premium hospital care is to treat three different nouns as synonyms: - a private room describes who sleeps in the room; - a VIP/special-needs ward describes a service and pricing channel…",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "what-makes-a-strong-international-medical-department",
+          "title": {
+            "en": "What Makes a Strong International Medical Department?",
+            "zh": "怎样判断一家医院的国际医疗部是否真正可靠"
+          },
+          "subtitle": {
+            "en": "Judge the department by clinical ownership, language safety, escalation, records and continuity—not the lounge or concierge brochure.",
+            "zh": "看临床责任、语言安全、升级机制、病历和连续照护，而不是只看休息室和礼宾宣传册。"
+          },
+          "subcategory": "国际患者服务",
+          "excerpt": "A polished lobby can make an international service feel reassuring.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        }
+      ]
+    },
+    {
+      "slug": "patient-education-faq",
+      "title": "Patient Education Faq",
+      "guides": [
+        {
+          "slug": "building-a-personal-medical-travel-safety-plan",
+          "title": {
+            "en": "A Personal Medical-Travel Safety Plan That Still Works When Something Changes",
+            "zh": "一份在意外发生时仍然能用的个人医疗出行安全方案"
+          },
+          "subtitle": {
+            "en": "Build a compact risk register, decision gates, contact ladder and backup route for the clinical, travel and recovery failures that matter most.",
+            "zh": "用小型风险表、决策闸门、联系阶梯和备选路径，覆盖真正会改变治疗、旅行与康复的故障。"
+          },
+          "subcategory": "患者决策与照护支持",
+          "excerpt": "Most travel plans work when the diagnosis stays the same, flights run on time, the patient recovers quickly and every phone has signal.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "postoperative-warning-signs-that-need-urgent-assessment",
+          "title": {
+            "en": "After Surgery Away From Home: Which Warning Signs Need 120, Same-Day Surgical Contact or Monitoring?",
+            "zh": "术后在异地恢复：哪些警示症状要拨 120、当天联系手术团队或继续观察？"
+          },
+          "subtitle": {
+            "en": "A practical triage guide for international patients recovering in a hotel, apartment or unfamiliar city after an operation.",
+            "zh": "写给在酒店、公寓或陌生城市恢复的国际患者：用三级分流判断术后变化，避免该等时拖延、该观察时恐慌。"
+          },
+          "subcategory": "症状与紧急就医",
+          "excerpt": "Postoperative recovery is full of sensations that can be hard to interpret: tiredness, bruising, reduced appetite, wound tightness, constipation and pain with movement may all occur.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "antibiotics-why-they-are-not-needed-for-every-infection",
+          "title": {
+            "en": "Antibiotics Are Not a Measure of How “Serious” an Infection Is",
+            "zh": "抗菌药不是判断感染“重不重”的尺子"
+          },
+          "subtitle": {
+            "en": "A practical guide to deciding when antibiotics help, when observation is safer, and why cultures, source control and a review date matter.",
+            "zh": "从病原、感染部位和患者风险出发，理解何时应立即用药、何时观察更安全，以及为什么培养、感染源控制和复评时间缺一不可。"
+          },
+          "subcategory": "药物",
+          "excerpt": "When a patient says, “The infection feels worse—shouldn’t I have a stronger antibiotic?”, two different questions have become mixed together.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "questions-to-ask-before-accepting-a-treatment-plan-abroad",
+          "title": {
+            "en": "Before You Accept an Overseas Treatment Plan: Questions That Change the Decision",
+            "zh": "接受境外治疗方案之前：真正会改变决定的十组问题"
+          },
+          "subtitle": {
+            "en": "A structured way to test the diagnosis, compare options, understand personal risk and define who owns complications and follow-up.",
+            "zh": "从诊断依据、替代方案和个体风险，一直问到并发症责任、费用边界与回国随访。"
+          },
+          "subcategory": "患者决策与照护支持",
+          "excerpt": "An overseas plan can arrive as a polished PDF: a treatment name, optimistic timeline, package price and a few testimonials.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "understanding-benefits-risks-and-alternatives-in-plain-language",
+          "title": {
+            "en": "Benefits, Risks and Alternatives: How to Make Medical Numbers Mean Something",
+            "zh": "收益、风险与替代方案：怎样让医疗数字真正有意义"
+          },
+          "subtitle": {
+            "en": "A plain-language guide to absolute risk, comparable options, meaningful outcomes, uncertainty and teach-back across languages.",
+            "zh": "用绝对风险、同口径选项、患者相关结局、不确定性和复述确认，把专业说明还原成可理解的决定。"
+          },
+          "subcategory": "患者决策与照护支持",
+          "excerpt": "Medical decisions often fail in the space between a technically correct sentence and what the patient hears.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "blood-tests-before-treatment-common-questions-answered",
+          "title": {
+            "en": "Blood Tests Before Treatment: Why They Are Repeated, Whether to Fast and How Results Change the Plan",
+            "zh": "治疗前验血：为什么要重抽、是否空腹，以及异常结果会怎样改变方案？"
+          },
+          "subtitle": {
+            "en": "A plain-language guide to pre-treatment blood panels, preparation, international reports, redraws and the decisions behind an abnormal result.",
+            "zh": "用患者能看懂的方式解释治疗前血液检查、准备要求、境外报告、重抽原因和异常值背后的临床决定。"
+          },
+          "subcategory": "检查与诊断",
+          "excerpt": "The phrase “blood tests before treatment” often arrives as a short message: “Please come fasting for labs.” For an international patient, that can create a page of unanswered questions.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "blood-transfusion-safety-consent-testing-and-alternatives",
+          "title": {
+            "en": "Blood Transfusion Safety: Decide the Need, Match the Component and Monitor the Patient",
+            "zh": "输血安全不是一句“血液合格”：先判断需要，再匹配成分并监测患者"
+          },
+          "subtitle": {
+            "en": "A patient guide to red cells, platelets and plasma, informed consent, blood grouping and crossmatching, bedside identity checks, transfusion reactions and blood-conservation options.",
+            "zh": ""
+          },
+          "subcategory": "Surgery & Hospital Safety",
+          "excerpt": "“Will I need blood?” sounds like a yes-or-no question.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "blood-clot-prevention-during-and-after-medical-travel",
+          "title": {
+            "en": "Blood-Clot Prevention During Medical Travel: Join the Hospital Plan to the Journey Home",
+            "zh": "医疗旅行中的血栓预防：把住院方案一直连接到回程结束"
+          },
+          "subtitle": {
+            "en": "How to connect surgical VTE assessment, early mobility, compression and anticoagulants with long flights, ground transfers and urgent DVT or pulmonary-embolism symptoms.",
+            "zh": ""
+          },
+          "subcategory": "Travel & Recovery Safety",
+          "excerpt": "A medical traveler can pass through several different clot-risk environments in a week: a long flight, a procedure, bed rest, pain-limited walking, a hotel room and another long journey home.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "chest-pain-while-traveling-why-immediate-local-care-matters",
+          "title": {
+            "en": "Chest Pain While Traveling: Stop the Journey and Start Local Emergency Care",
+            "zh": "旅行途中胸痛：立即中断行程，在所在地启动急救"
+          },
+          "subtitle": {
+            "en": "Why a booked flight, preferred hospital or overseas doctor must not delay emergency assessment—and what a traveler or companion should do in the first minutes.",
+            "zh": "为什么机票、指定医院或境外医生都不能延误急诊评估，以及患者和陪同者在最初几分钟该做什么。"
+          },
+          "subcategory": "症状与紧急照护",
+          "excerpt": "Travel creates a dangerous temptation: finish the next leg first.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "ct-scans-radiation-contrast-and-what-to-expect",
+          "title": {
+            "en": "CT in China: Radiation, Iodinated Contrast and the Exact Scan Protocol to Confirm",
+            "zh": "在中国做 CT：先确认辐射、含碘对比剂和准确扫描方案"
+          },
+          "subtitle": {
+            "en": "A patient guide to scan range, phases, dose questions, kidney and allergy screening, pregnancy, injection sensations and portable results.",
+            "zh": "从扫描范围和期相、剂量问题、肾功能与过敏筛查，到妊娠告知、注射体验和可携带结果。"
+          },
+          "subcategory": "检查与诊断",
+          "excerpt": "CT is fast.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "how-family-caregivers-can-support-an-international-patient",
+          "title": {
+            "en": "Family Caregivers in International Care: Be the Safety Net, Not the Whole System",
+            "zh": "国际患者的家属陪护：做安全网，不做整套医疗系统"
+          },
+          "subtitle": {
+            "en": "A practical job description for records, communication, bedside safety, discharge skills, boundaries, backup and caregiver health.",
+            "zh": "把资料、沟通、床旁观察、出院技能、责任边界、后备人员和陪护健康写成一份可执行的岗位说明。"
+          },
+          "subcategory": "患者决策与照护支持",
+          "excerpt": "International treatment often turns a spouse, adult child or friend into translator, scheduler, luggage handler, medication keeper, bedside observer and emergency contact overnight.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "fever-before-or-after-treatment-when-to-contact-a-clinician",
+          "title": {
+            "en": "Fever Before or After Treatment: The Number Matters, but the Context Decides the Urgency",
+            "zh": "治疗前后发热：温度数字很重要，但风险场景决定紧急程度"
+          },
+          "subtitle": {
+            "en": "A safety-first guide to measuring temperature, recognizing high-risk treatment windows, reporting the right details and knowing when not to wait for a callback.",
+            "zh": "正确测量体温、识别高风险治疗窗口、准确报告信息，并判断何时不能继续等待回电。"
+          },
+          "subcategory": "症状与紧急照护",
+          "excerpt": "Fever is not one diagnosis.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "food-and-water-safety-during-recovery-in-china",
+          "title": {
+            "en": "Food and Water During Recovery in China: Safe Enough for This Patient, This Week",
+            "zh": "在中国恢复期间的饮食饮水：要适合“这个患者、这个阶段”"
+          },
+          "subtitle": {
+            "en": "A recovery-focused guide to drinking water, food delivery, leftovers, immune suppression, texture restrictions, diarrhoea and safe hydration after treatment.",
+            "zh": "从饮用水、外卖、剩菜、免疫抑制、食物质地、腹泻和个体补液要求，建立真正可执行的恢复期安全方案。"
+          },
+          "subcategory": "感染预防",
+          "excerpt": "Recovery changes the meaning of an ordinary meal.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "general-anesthesia-common-patient-questions",
+          "title": {
+            "en": "General Anesthesia Without the Mystique: What Happens From Induction to the Recovery Room",
+            "zh": "不神秘化全身麻醉：从入睡、气道管理到复苏室，患者会经历什么"
+          },
+          "subtitle": {
+            "en": "Plain answers about unconsciousness, airway support, monitoring, accidental awareness, nausea, sore throat, delirium and going home safely.",
+            "zh": ""
+          },
+          "subcategory": "Anesthesia & Recovery",
+          "excerpt": "The moments before general anesthesia can feel strangely compressed: monitors appear, someone confirms your name, oxygen flows through a mask, and the next memory may be a recovery-room voice.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "genetic-and-genomic-tests-what-patients-should-know",
+          "title": {
+            "en": "Genetic or Genomic Test? First Decide Whether the Question Is Inherited Risk, Diagnosis or Treatment",
+            "zh": "遗传检测还是肿瘤基因组检测？先分清要回答的是家族风险、诊断还是用药"
+          },
+          "subtitle": {
+            "en": "A practical guide to germline testing, tumor profiling, uncertain variants, broad panels, direct-to-consumer results and questions to settle before a sample is sent.",
+            "zh": ""
+          },
+          "subcategory": "Tests & Diagnosis",
+          "excerpt": "A patient may be offered “genetic testing” by an oncologist, a fertility clinic, a neurologist, an online company or a hospital abroad.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "herb-drug-interactions-why-your-medical-team-needs-a-complete-list",
+          "title": {
+            "en": "Herb–Drug Interactions: “Natural” Is Not a Medication Category",
+            "zh": "草药与西药相互作用：“天然”不是一种药理分类"
+          },
+          "subtitle": {
+            "en": "How to build an identifiable product list, recognize high-risk combinations and help pharmacists distinguish documented interactions from uncertain ones.",
+            "zh": "如何建立可识别的产品清单、优先排查高风险组合，并帮助药师区分已有证据的相互作用和真正的不确定性。"
+          },
+          "subcategory": "药物",
+          "excerpt": "A patient may carefully report every prescription yet omit the tea taken for sleep, the concentrated extract bought online, the traditional formula prescribed elsewhere and the powder mixed into breakfast.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "hand-hygiene-in-hospitals-how-patients-and-families-can-help",
+          "title": {
+            "en": "Hospital Hand Hygiene: Patients Can Ask Without Policing the Ward",
+            "zh": "医院手卫生：患者可以提醒，但不必充当病区监督员"
+          },
+          "subtitle": {
+            "en": "A practical guide to the clinical moments that matter, sanitizer versus soap and water, glove use, visitor habits and respectful ways to speak up.",
+            "zh": "分清真正重要的操作时刻、手消毒剂与流动水洗手、手套使用、探视习惯，以及怎样礼貌而明确地提出提醒。"
+          },
+          "subcategory": "感染预防",
+          "excerpt": "A patient sees a doctor walk through the door without using the dispenser and wonders whether to say something.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "medical-emergencies-during-travel-in-china-what-to-do",
+          "title": {
+            "en": "Medical Emergencies During Travel in China: What to Do",
+            "zh": "在中国旅行时遇到医疗急症怎么办"
+          },
+          "subtitle": {
+            "en": "When minutes matter, call for local help first. Here is what to say, what to bring, and what to sort out after the patient is stable.",
+            "zh": "真正紧急时，先呼叫本地急救。本文讲清楚电话里怎么说、随身资料带什么，以及病情稳定后还要办哪些事。"
+          },
+          "subcategory": "症状识别与急诊就医",
+          "excerpt": "If someone collapses in a hotel lobby, develops crushing chest pain in a taxi, or becomes confused after a procedure, the first decision is not which hospital has the strongest international department.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "medical-travel-for-older-adults-planning-support-and-follow-up",
+          "title": {
+            "en": "Medical Travel for Older Adults: Plan Around Function, Not the Birth Date",
+            "zh": "老年患者医疗出行：按功能和支持来规划，不按出生年份贴标签"
+          },
+          "subtitle": {
+            "en": "A practical framework for assessing function, medicines, delirium risk, caregiver capacity and recovery before an older adult travels for care.",
+            "zh": "从功能、用药、谵妄风险、照护能力和康复去向出发，为老年患者制定可执行的跨境就医计划。"
+          },
+          "subcategory": "慢性病与出行",
+          "excerpt": "“Older adult” is not a single risk category.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "medical-travel-with-diabetes-planning-medicines-meals-and-monitoring",
+          "title": {
+            "en": "Medical Travel With Diabetes: Keep the Treatment Clock Running",
+            "zh": "糖尿病患者医疗出行：让治疗时钟不断档"
+          },
+          "subtitle": {
+            "en": "A practical plan for medicines, insulin storage, time-zone changes, glucose monitoring, unfamiliar meals, fasting for procedures and sick-day emergencies.",
+            "zh": "一份涵盖药物、胰岛素保存、跨时区给药、血糖监测、陌生餐食、术前禁食和患病日急症的实用方案。"
+          },
+          "subcategory": "慢性病与出行",
+          "excerpt": "Diabetes does not make medical travel impossible.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "medical-travel-with-heart-disease-preparing-safely",
+          "title": {
+            "en": "Medical Travel With Heart Disease: Stability Has to Survive the Itinerary",
+            "zh": "心脏病患者医疗出行：稳定状态要经得起完整行程"
+          },
+          "subtitle": {
+            "en": "A route-specific plan for coronary disease, heart failure, rhythm disorders, recent procedures, cardiac devices, oxygen and in-transit emergencies.",
+            "zh": "按冠心病、心衰、心律失常、近期心脏操作、植入设备、氧疗和途中急症制定真实路线方案。"
+          },
+          "subcategory": "慢性病与出行",
+          "excerpt": "A calm clinic visit does not prove that a patient can manage two airports, a missed connection and an unfamiliar city.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "medical-travel-with-high-blood-pressure-a-patient-checklist",
+          "title": {
+            "en": "Medical Travel With High Blood Pressure: Bring a Reliable Trend, Not One Anxious Reading",
+            "zh": "高血压患者医疗出行：带上一段可靠趋势，而不是一次紧张读数"
+          },
+          "subtitle": {
+            "en": "A practical checklist for accurate home readings, medicine timing, air and altitude travel, procedure-day decisions and hypertensive emergencies.",
+            "zh": "从正确居家测量、跨时区用药，到乘机、高海拔、操作当日判断和高血压急症的一份实用清单。"
+          },
+          "subcategory": "慢性病与出行",
+          "excerpt": "High blood pressure usually causes no immediate sensation, so travel planning can swing between two mistakes: ignoring it completely or reacting to every number as a crisis.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "medical-travel-with-kidney-disease-questions-to-ask-before-flying",
+          "title": {
+            "en": "Medical Travel With Kidney Disease: The Flight Is the Short Part of the Plan",
+            "zh": "肾病患者医疗出行：飞行只是整个计划中较短的一段"
+          },
+          "subtitle": {
+            "en": "Questions for people with CKD, dialysis or a kidney transplant about laboratory stability, fluid limits, medicines, treatment slots and emergency backup.",
+            "zh": "为慢性肾病、透析及肾移植患者梳理化验稳定性、限液、用药、异地治疗席位和备用急救问题。"
+          },
+          "subcategory": "慢性病与出行",
+          "excerpt": "For a person with kidney disease, the aircraft is often the most predictable part of medical travel.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "medical-travel-with-limited-mobility-airports-hospitals-and-recovery",
+          "title": {
+            "en": "Medical Travel With Limited Mobility: Plan Every Transfer, Not Just the Flight",
+            "zh": "行动受限患者医疗出行：要规划每一次转移，不只是那趟飞机"
+          },
+          "subtitle": {
+            "en": "A door-to-door guide to assistance requests, wheelchair handling, toileting, pressure relief, hospital access, accommodation and recovery support.",
+            "zh": "从无障碍协助、轮椅运输、如厕和减压，到医院动线、住宿与术后康复的一份门到门指南。"
+          },
+          "subcategory": "无障碍与康复",
+          "excerpt": "Limited mobility is a functional description, not a diagnosis.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "mri-scans-preparation-safety-and-contrast-questions",
+          "title": {
+            "en": "MRI in China: The Implant Card, Contrast Decision and Claustrophobia Plan to Settle Before Scan Day",
+            "zh": "在中国做 MRI：扫描前先解决植入物卡、对比剂和幽闭恐惧三个问题"
+          },
+          "subtitle": {
+            "en": "A practical guide to magnetic-safety screening, gadolinium questions, scan-day preparation and receiving usable images after the examination.",
+            "zh": "从磁安全筛查、钆对比剂到检查当天准备，以及检查后如何拿到真正可用的影像资料。"
+          },
+          "subcategory": "检查与诊断",
+          "excerpt": "An MRI booking looks simple until the safety questionnaire arrives.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "how-to-prepare-a-one-page-medical-summary-for-overseas-care",
+          "title": {
+            "en": "One-Page Medical Summary for Overseas Care: Make the First Minute Count",
+            "zh": "境外就医一页病情摘要：让医生在第一分钟看懂重点"
+          },
+          "subtitle": {
+            "en": "A field-by-field method for turning a scattered medical history into a concise, dated and clinically useful handover.",
+            "zh": "按字段整理身份、转诊问题、诊断、过敏、用药、关键结果与附件，把零散病历变成可核对的临床交接页。"
+          },
+          "subcategory": "患者决策与照护支持",
+          "excerpt": "At an overseas hospital, the first clinician may have ten minutes, an unfamiliar language and hundreds of uploaded pages.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "pain-medicines-after-surgery-safe-use-and-warning-signs",
+          "title": {
+            "en": "Pain Medicine After Surgery: Control Pain Without Hiding a Complication",
+            "zh": "术后止痛药怎么用：既控制疼痛，也别掩盖并发症"
+          },
+          "subtitle": {
+            "en": "How to read a multimodal pain plan, avoid duplicate ingredients, use opioids safely and recognize pain that needs surgical review rather than another dose.",
+            "zh": "看懂多模式镇痛方案，避免成分叠加，安全使用阿片类药物，并识别不能靠“再吃一片”处理的异常疼痛。"
+          },
+          "subcategory": "药物",
+          "excerpt": "The first evening after surgery is an easy time to make a medication error.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "pet-ct-for-cancer-care-uses-and-limitations",
+          "title": {
+            "en": "PET/CT for Cancer Care: The Tracer, Timing and Limitations Behind a “Hot Spot”",
+            "zh": "肿瘤 PET/CT：一个“亮点”背后的示踪剂、检查时点与局限"
+          },
+          "subtitle": {
+            "en": "A decision-focused guide to FDG and other tracers, preparation, treatment timing, radiation, false positives and obtaining a comparable study in China.",
+            "zh": "从 FDG 和其他示踪剂、检查准备、治疗后时点和辐射，到假阳性、假阴性及如何在中国取得可比较的影像。"
+          },
+          "subcategory": "检查与诊断",
+          "excerpt": "Patients often hear PET/CT described as a scan that “finds cancer anywhere.” That sentence is memorable but wrong.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "recognizing-possible-stroke-symptoms-during-medical-travel",
+          "title": {
+            "en": "Possible Stroke During Medical Travel: Use BE-FAST, Note the Last-Known-Well Time, Call 120",
+            "zh": "医疗旅行途中疑似卒中：用 BE-FAST 识别，记住最后正常时间，立即拨打 120"
+          },
+          "subtitle": {
+            "en": "A traveler-and-companion guide to recognizing sudden neurologic symptoms, preserving the treatment timeline and reaching local stroke care without detours.",
+            "zh": "写给旅行者和陪同者的现场指南：识别突发神经症状、保留关键时间线，不绕路进入本地卒中急救通道。"
+          },
+          "subcategory": "症状与紧急就医",
+          "excerpt": "Stroke rarely announces itself with a neat label.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "preoperative-assessment-why-it-matters-before-surgery",
+          "title": {
+            "en": "Preoperative Assessment Is Not a Rubber Stamp: It Builds the Safest Achievable Plan for Surgery",
+            "zh": "术前评估不是“盖章放行”：它要为这一次手术做出可执行的安全方案"
+          },
+          "subtitle": {
+            "en": "What surgeons, anesthesiology teams and patients need to settle about health changes, medicines, testing, fasting, risk and postoperative care before the operating-room schedule becomes the plan.",
+            "zh": ""
+          },
+          "subcategory": "Surgery & Hospital Safety",
+          "excerpt": "Patients sometimes describe a preoperative visit as the appointment where a doctor “signs me fit.” That description misses its purpose.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "preventing-surgical-site-infections-patient-questions-to-ask",
+          "title": {
+            "en": "Preventing Surgical Site Infection: The Questions Patients Can Ask Before and After an Operation",
+            "zh": "预防手术部位感染：患者在手术前后真正可以问的那些问题"
+          },
+          "subtitle": {
+            "en": "A patient-facing guide to skin preparation, hair removal, antibiotic timing, glucose and temperature management, hand hygiene, dressings and early wound review.",
+            "zh": ""
+          },
+          "subcategory": "Surgery & Infection Prevention",
+          "excerpt": "Patients often receive two unhelpful messages about wound infection: either “keep it clean” with no definition, or “a little redness is normal” without a boundary.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "protecting-a-surgical-wound-while-traveling",
+          "title": {
+            "en": "Protecting a Surgical Wound While Traveling: A Plan for the Journey, Not Just the Dressing",
+            "zh": "带着手术伤口出行：要保护的不只是敷料"
+          },
+          "subtitle": {
+            "en": "How to decide whether travel is sensible, pack wound supplies, change a dressing away from home, protect drains and recognize trouble after surgery.",
+            "zh": "从判断能否出发、准备换药物品，到保护引流管和识别异常，给术后跨城及跨境患者一份可执行的出行方案。"
+          },
+          "subcategory": "感染预防",
+          "excerpt": "A dressing is only one part of protecting an incision.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "respiratory-infection-prevention-during-medical-travel",
+          "title": {
+            "en": "Respiratory Infection Prevention During Medical Travel: Protect the Treatment Window",
+            "zh": "医疗旅行中的呼吸道感染预防：守住治疗时间窗"
+          },
+          "subtitle": {
+            "en": "A layered plan for vaccination, well-fitting masks, cleaner air, travel timing, symptom testing and rapid access to treatment before and after hospital care.",
+            "zh": "用疫苗、贴合口罩、清洁空气、行程调整、症状检测和早期治疗通道，建立出发前后都能执行的分层方案。"
+          },
+          "subcategory": "感染预防",
+          "excerpt": "For a healthy holiday traveler, a respiratory infection may mean several unpleasant days.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "traveling-with-prescription-medicines-a-patient-checklist",
+          "title": {
+            "en": "Traveling With Prescription Medicines: Build a Legal, Temperature-Safe and Clinically Usable Medication Plan",
+            "zh": "携带处方药跨境旅行：让药品同时满足合法、稳定和临床可用"
+          },
+          "subtitle": {
+            "en": "A checklist for entry and transit rules, controlled medicines, original packaging, generic names, carry-on supply, cold-chain storage, time-zone dosing and hospital medication reconciliation.",
+            "zh": ""
+          },
+          "subcategory": "Medicines",
+          "excerpt": "Prescription travel problems rarely begin with a dramatic medical emergency.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "biopsy-and-pathology-review-why-results-may-differ",
+          "title": {
+            "en": "When Two Pathology Reports Differ: Reconcile the Specimen, Methods and Diagnosis Before Treatment",
+            "zh": "两份病理报告不一致：治疗前先核对标本、方法并形成正式结论"
+          },
+          "subtitle": {
+            "en": "A cross-border guide to slides, paraffin blocks, sampling, immunohistochemistry, molecular tests and closing a clinically important discrepancy.",
+            "zh": "一份跨境病理复核指南：从玻片、蜡块、取样和免疫组化，到分子检测及重大分歧闭环。"
+          },
+          "subcategory": "检查与诊断",
+          "excerpt": "Two pathology reports can use different words without describing different diseases.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        }
+      ]
+    },
+    {
+      "slug": "patient-journey-guides",
+      "title": "Patient Journey Guides",
+      "guides": [
+        {
+          "slug": "choosing-accommodation-near-a-hospital-in-china",
+          "title": {
+            "en": "Accommodation Near a Chinese Hospital: Test the Recovery Route, Not the Map Pin",
+            "zh": "中国医院附近住宿：别只看地图针，要测试恢复路线"
+          },
+          "subtitle": {
+            "en": "The right room is connected to the correct campus, usable after treatment, legally registered, flexible when dates change and linked to a real escalation route.",
+            "zh": "合适的房间要连到正确院区，治疗后确实能使用，住宿登记合规，日期变化时可调整，并有真实的病情升级路线。"
+          },
+          "subcategory": "本地住宿与恢复",
+          "excerpt": "“Five hundred metres from the hospital” can mean a ten-minute wheelchair route—or a forty-minute journey around a closed gate, over a footbridge and through three buildings.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "creating-a-complication-and-emergency-plan-after-medical-travel",
+          "title": {
+            "en": "After Medical Travel: Build a Complication Plan That Works Under Stress",
+            "zh": "医疗旅行回国后：做一份在慌乱中也能执行的并发症预案"
+          },
+          "subtitle": {
+            "en": "Pre-decide where to go, what to say, what to carry and who takes over when recovery stops following the expected path.",
+            "zh": ""
+          },
+          "subcategory": "Complication and Emergency Response",
+          "excerpt": "Most recovery plans describe the expected road.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "what-to-expect-during-an-inpatient-hospital-stay-in-china",
+          "title": {
+            "en": "An Inpatient Stay in China: Build a Daily Control Board at the Bedside",
+            "zh": "在中国住院：用床旁每日控制板看清今天的目标"
+          },
+          "subtitle": {
+            "en": "Hospital life becomes easier to understand when each day has a clinical goal, named owners, pending results, active risks and a discharge barrier—not just a stream of rounds and tests.",
+            "zh": "每天都有临床目标、明确负责人、待出结果、当前风险和出院障碍时，住院生活就不再只是一连串查房和检查。"
+          },
+          "subcategory": "病房节奏、用药安全与出院准备",
+          "excerpt": "An inpatient ward can look busy without making the plan visible.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "understanding-informed-consent-before-a-procedure-in-china",
+          "title": {
+            "en": "Before a Procedure in China: Audit the Decision, Not Just the Signature",
+            "zh": "在中国做操作前的知情同意：审核决定，不只检查签名"
+          },
+          "subtitle": {
+            "en": "A signed page cannot show whether the patient understood the exact procedure, its limits, alternatives and possible change points. Trace the decision from explanation to the operating-room check.",
+            "zh": "一页签字无法证明患者是否理解具体操作、边界、替代方案和可能改变计划的节点。应从医生解释一路核对到手术室安全检查。"
+          },
+          "subcategory": "操作同意、授权边界与当日核查",
+          "excerpt": "The weakest consent question is, “Where do I sign?” The stronger question is, “What decision does this signature document?” An international patient may receive a Chinese form, an oral English explanation, a coordinator…",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "documents-to-prepare-before-traveling-to-china-for-treatment",
+          "title": {
+            "en": "Documents for Treatment in China: Build a Decision-Ready Case Packet",
+            "zh": "赴华治疗文件：做成一套能让医生下判断的病例包"
+          },
+          "subtitle": {
+            "en": "The useful packet is not the thickest one. It lets a Chinese team match identity, reconstruct the clinical timeline, open the source evidence and identify what is still missing.",
+            "zh": "有用的病例包不在于厚，而在于中国医院能核对身份、还原病程、打开原始证据，并看清还缺什么。"
+          },
+          "subcategory": "出发前准备",
+          "excerpt": "A folder can contain 600 pages and still fail at the first clinical question.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "planning-flights-before-and-after-medical-treatment",
+          "title": {
+            "en": "Flights Before and After Treatment in China: Four Clearances, Not One Date",
+            "zh": "赴华治疗前后乘机：要过四道关，不是等一个日期"
+          },
+          "subtitle": {
+            "en": "Hospital discharge, clinical fitness to fly, airline acceptance and the ability to complete the airport journey are separate gates. Plan both directions around physiology and contingencies.",
+            "zh": "出院、临床适航、航空公司承运和实际完成机场转移是四道独立关卡。往返航班都要围绕生理状态和备用方案规划。"
+          },
+          "subcategory": "出行与恢复",
+          "excerpt": "The procedure date is not the centre of a safe flight plan.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "when-is-it-safe-to-fly-after-surgery-or-treatment",
+          "title": {
+            "en": "Flying After Surgery or Treatment: Clearance Is a Risk Profile, Not a Date",
+            "zh": "手术或治疗后乘机：适航不是一个日期，而是一组风险画像"
+          },
+          "subtitle": {
+            "en": "The calendar is only one input. Trapped gas, oxygen reserve, blood-clot risk, unresolved complications and the ability to manage an airport day must all be cleared.",
+            "zh": ""
+          },
+          "subcategory": "Fitness to Fly and Return Travel",
+          "excerpt": "“Can I fly next Friday?” sounds like a date question.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "handing-over-care-to-your-doctor-at-home",
+          "title": {
+            "en": "Handing Care to Your Doctor at Home: “Received” Is Not “Accepted”",
+            "zh": "把照护交给回国后的医生：“已收到”不等于“已接管”"
+          },
+          "subtitle": {
+            "en": "Turn an overseas treatment record into an accepted local plan, with a named doctor, explicit responsibilities and no orphaned tasks.",
+            "zh": ""
+          },
+          "subcategory": "Clinical Handover at Home",
+          "excerpt": "The courier notification says the records arrived.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "hospital-admission-in-china-documents-deposits-and-rooms",
+          "title": {
+            "en": "Hospital Admission in China: Know When the Bed, Account and Clinical Responsibility Become Real",
+            "zh": "在中国医院办理住院：床位、账户与临床责任什么时候才真正生效"
+          },
+          "subtitle": {
+            "en": "A planned admission passes through several gates: a valid clinical order, an available bed, an active inpatient account, correct identity and acceptance by the ward. Keep those gates separate.",
+            "zh": "计划住院要经过几道不同的门：有效住院医嘱、可用床位、已启用的住院账户、正确身份和病区正式接收。不能把它们混成一句“已经安排好”。"
+          },
+          "subcategory": "住院当日文件、预交金与床位交接",
+          "excerpt": "“Your admission is arranged” can mean anything from “the doctor agrees that inpatient care is reasonable” to “a specific bed is waiting and the ward has accepted the patient.” International patients need a more exact la…",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "paying-a-hospital-deposit-in-china-practical-questions",
+          "title": {
+            "en": "Hospital Deposits in China: Match the Payer, Patient Account and Refund Route",
+            "zh": "中国医院预交金：先把付款人、患者账户和退款路径对齐"
+          },
+          "subtitle": {
+            "en": "A hospital can receive the money and still be unable to match it to the right patient. Control the payment instruction, four reference numbers, official receipt and refund destination before funds move.",
+            "zh": "钱汇到医院，不等于已经记到正确的患者名下。付款前先核对付款指令、四个控制编号、正式票据和退款去向。"
+          },
+          "subcategory": "跨境付款、票据与结算核对",
+          "excerpt": "A request to “pay the deposit today” sounds simple until four parties are involved: the patient, a companion with a card, an overseas bank and a hospital using a Chinese inpatient account.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "hospital-discharge-in-china-a-complete-checklist",
+          "title": {
+            "en": "Hospital Discharge in China: Do Not Leave Until Six Closure Chains Agree",
+            "zh": "在中国医院出院：六条关闭链全部对齐后再离开"
+          },
+          "subtitle": {
+            "en": "A discharge order starts the closing work. It does not prove that medicines, pending results, device training, documents, payment and transport are ready at the same time.",
+            "zh": ""
+          },
+          "subcategory": "Discharge-Day Readiness and Hospital Exit",
+          "excerpt": "A discharge order can be signed while the pharmacy is still preparing medicines, the pathology report is unfinished, a deposit has not been settled and the person collecting the patient is stuck in traffic.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "registration-and-identity-checks-at-a-chinese-hospital",
+          "title": {
+            "en": "Identity Checks at a Chinese Hospital: Keep One Patient Attached to One Story",
+            "zh": "中国医院身份核验：让一个患者始终连着同一条病情故事"
+          },
+          "subtitle": {
+            "en": "For an international patient, a spelling difference can separate scans from reports, create a second medical record or put an order under the wrong identity. Build and check the identity chain before care begins.",
+            "zh": "对国际患者来说，一个拼写差异就可能让影像与报告分家、生成第二个病历号，甚至把医嘱挂到错误身份下。诊疗开始前，先把身份链建立并核对好。"
+          },
+          "subcategory": "登记、身份与病历安全",
+          "excerpt": "Identity mistakes are quiet.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "working-with-a-medical-interpreter-during-appointments",
+          "title": {
+            "en": "Medical Interpreters in Appointments: Keep the Conversation Between Patient and Clinician",
+            "zh": "门诊医疗口译：让对话始终发生在患者与医生之间"
+          },
+          "subtitle": {
+            "en": "A good interpreted visit is not three separate conversations. The patient and clinician speak to each other while the interpreter carries every question, qualification, number and uncertainty across languages.",
+            "zh": "一场好的口译门诊不是三段各说各话。患者与医生彼此交谈，口译员把每个问题、限定条件、数字和不确定性完整带过语言边界。"
+          },
+          "subcategory": "口译会诊与沟通安全",
+          "excerpt": "An interpreted appointment fails quietly.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "medical-records-to-take-home-after-treatment-in-china",
+          "title": {
+            "en": "Medical Records to Take Home from China: Build an Evidence Pack with Provenance",
+            "zh": "在中国治疗后带回哪些病历：建立可追溯的证据包"
+          },
+          "subtitle": {
+            "en": "A usable record pack proves what happened, which version is final, which patient it belongs to, what remains pending and where the original data can be opened.",
+            "zh": ""
+          },
+          "subcategory": "Post-Treatment Records and Data Portability",
+          "excerpt": "The most expensive record failure is not a missing page.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "medical-travel-to-china-a-12-week-planning-timeline",
+          "title": {
+            "en": "Medical Travel to China: A 12-Week Planning Timeline",
+            "zh": "赴华就医：12 周规划时间表"
+          },
+          "subtitle": {
+            "en": "A flexible countdown that puts clinical acceptance before flights and keeps recovery, records and the return home in the plan.",
+            "zh": "先取得临床接收意见，再安排行程；恢复期、病历交接和回程同样属于计划的一部分。"
+          },
+          "subcategory": "出发前准备",
+          "excerpt": "A medical trip is not a holiday with an appointment added.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "medication-reconciliation-before-leaving-china",
+          "title": {
+            "en": "Medication Reconciliation Before Leaving China: Make Every Dose Survive the Border",
+            "zh": "离开中国前核对药物：让每一剂药都能安全跨境"
+          },
+          "subtitle": {
+            "en": "Reconciliation is complete only when each medicine has an identity, decision, timing, supply, monitoring plan and receiving prescriber.",
+            "zh": ""
+          },
+          "subcategory": "Cross-Border Medication Continuity",
+          "excerpt": "Medication reconciliation fails when two correct-looking lists describe different realities.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "nutrition-and-hydration-during-hospital-recovery",
+          "title": {
+            "en": "Nutrition During Hospital Recovery: Choose the Route Before Counting Calories",
+            "zh": "住院恢复期营养：先选安全途径，再计算热量"
+          },
+          "subtitle": {
+            "en": "Recovery nutrition starts by asking whether swallowing is safe, the gut works and fluids need restriction. Only then do energy, protein, supplements and meal preferences become useful numbers.",
+            "zh": "恢复期营养先判断吞咽是否安全、胃肠道能否使用、液体是否受限；之后，热量、蛋白质、补充剂和口味偏好才是有用数字。"
+          },
+          "subcategory": "营养筛查、喂养途径与液体平衡",
+          "excerpt": "A fruit bowl and a bottle of water look like recovery.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "pain-management-after-a-procedure-questions-to-ask",
+          "title": {
+            "en": "Pain After a Procedure: Set a Function Target and a Rescue Boundary",
+            "zh": "操作后疼痛：先设功能目标，再画清救援边界"
+          },
+          "subtitle": {
+            "en": "Good pain care does not chase a zero on the scale. It identifies the pain pattern, supports breathing and movement, limits treatment harm and defines when the usual plan is no longer enough.",
+            "zh": "好的镇痛不是追求量表归零，而是识别疼痛模式、支持呼吸和活动、限制治疗伤害，并知道何时常规方案已经不够。"
+          },
+          "subcategory": "急性疼痛、用药安全与功能恢复",
+          "excerpt": "“How bad is the pain?” is necessary but incomplete.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "recovering-in-a-hotel-after-medical-treatment",
+          "title": {
+            "en": "Recovering in a Hotel After Treatment: Make the Room Pass a Clinical Use Test",
+            "zh": "治疗后在酒店恢复：先让房间通过临床用途测试"
+          },
+          "subtitle": {
+            "en": "A hotel supplies a room, not nursing care. Test the patient, caregiver, space, equipment and emergency route before using it as a recovery base.",
+            "zh": ""
+          },
+          "subcategory": "Temporary Accommodation and Outpatient Recovery",
+          "excerpt": "A hotel can be quiet, clean and five minutes from the hospital—and still be the wrong place to recover.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "planning-rehabilitation-before-returning-home",
+          "title": {
+            "en": "Rehabilitation Before Returning Home: Transfer Function, Not Exercise Names",
+            "zh": "回国前规划康复：交接的是功能，不是几个动作名称"
+          },
+          "subtitle": {
+            "en": "A useful handover preserves what the patient can do, how it was measured, what is restricted, what comes next and who has accepted responsibility.",
+            "zh": ""
+          },
+          "subcategory": "Cross-Border Rehabilitation Handover",
+          "excerpt": "Rehabilitation plans often cross borders as a few exercise names: “gait training, strengthening, balance.” That tells the next therapist almost nothing about the patient’s actual ability, the assistance used, the risk a…",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "remote-follow-up-with-your-medical-team-in-china",
+          "title": {
+            "en": "Remote Follow-Up with a China Medical Team: Build a Three-Party Control Loop",
+            "zh": "与中国医疗团队远程随访：建立三方控制闭环"
+          },
+          "subtitle": {
+            "en": "Safe follow-up connects the China treatment team, a clinician who can examine the patient locally and the patient—not an unanswered chat window.",
+            "zh": ""
+          },
+          "subcategory": "Cross-Border Remote Follow-Up",
+          "excerpt": "A video call can bridge distance.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "repeating-tests-after-arrival-why-it-may-be-necessary",
+          "title": {
+            "en": "Repeating Tests After Arrival: Ask What Decision the New Result Will Change",
+            "zh": "到院后为什么可能需要复查：先问新结果会改变哪个决定"
+          },
+          "subtitle": {
+            "en": "A previous result should be reused when it is fit for the present decision. A repeat is justified when identity, timing, method, quality or the clinical question makes the old evidence insufficient.",
+            "zh": "既往结果适合当前决定时就应利用；当身份、时间、方法、质量或临床问题出现缺口时，复查才有明确理由。"
+          },
+          "subcategory": "检查复核、重复检查与治疗基线",
+          "excerpt": "Patients often hear two unsatisfying explanations after arriving in China: “foreign results are not accepted” or “everything must be repeated for safety.” Neither is a sufficient clinical reason.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "should-a-family-member-or-companion-travel-with-you",
+          "title": {
+            "en": "Should Someone Accompany You for Treatment in China? Write the Job Description First",
+            "zh": "赴华治疗要不要有人陪：先写岗位说明，再选人"
+          },
+          "subtitle": {
+            "en": "Choose support by the work that must be done—communication, decisions, mobility, paperwork, observation and handoff—not simply by who is the closest relative.",
+            "zh": "依据沟通、决策、活动、文件、观察和交接任务选择支持者，而不是只看谁与患者血缘最近。"
+          },
+          "subcategory": "出发前准备",
+          "excerpt": "The question is not “Do I love or trust this person?” It is “What work will exist at 2 a.m., after anaesthesia, at the payment desk, during a translated consent discussion and on the first night outside hospital?” Write…",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "the-day-of-surgery-in-china-a-patient-timeline",
+          "title": {
+            "en": "Surgery Day in China: Follow the Handoffs, Not a Promised Clock Time",
+            "zh": "在中国手术当天：跟踪交接，不要只盯着一个钟点"
+          },
+          "subtitle": {
+            "en": "The meaningful timeline is a sequence of readiness gates—from ward preparation to operating room, recovery and the destination bed. Track the owner and evidence at every transfer.",
+            "zh": "真正有意义的时间线是一连串就绪关口：病房准备、手术室、复苏和目的病床。每次转移都要知道由谁负责、凭什么进入下一阶段。"
+          },
+          "subcategory": "围手术期时间线、延迟与恢复交接",
+          "excerpt": "Families often build surgery day around one number: “The operation is at 8:00.” At 8:40 the patient is still in the ward, nobody knows whether the delay is ten minutes or three hours, and every silence starts to feel li…",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "vaccination-and-general-health-preparation-before-medical-travel",
+          "title": {
+            "en": "Vaccination Before Medical Travel to China: Protect the Treatment Window",
+            "zh": "赴华治疗前接种：保护治疗窗口，而不是机械打勾"
+          },
+          "subtitle": {
+            "en": "A pre-travel vaccine plan must fit the itinerary, the patient's immune status, the proposed treatment and the time available—without delaying urgent care or using a live vaccine unsafely.",
+            "zh": "行前疫苗方案要同时适配路线、免疫状态、拟接受治疗和剩余时间，既不能因活疫苗带来风险，也不能无故耽误必要治疗。"
+          },
+          "subcategory": "出发前准备",
+          "excerpt": "“Which vaccines do I need for China?” sounds like a destination question.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "visa-planning-for-a-medical-trip-to-china",
+          "title": {
+            "en": "Visa Planning for Treatment in China: Two Approvals, Four Dates",
+            "zh": "赴华治疗签证规划：两项审批、四个日期"
+          },
+          "subtitle": {
+            "en": "Hospital acceptance and permission to enter are separate decisions. Plan the application around the correct consular post, the patient’s actual purpose, and a stay that may change after clinical review.",
+            "zh": "医院接收和获准入境是两项独立决定。申请应以负责受理的使领馆、真实来华事由和可能调整的治疗时间为准。"
+          },
+          "subcategory": "出发前准备",
+          "excerpt": "A hospital can agree to review a case and a visa can still be refused.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "warning-signs-during-recovery-when-to-seek-urgent-care",
+          "title": {
+            "en": "Warning Signs During Recovery: Read the Change, Not Just the Number",
+            "zh": "恢复期警示信号：读懂变化，而不是只盯一个数字"
+          },
+          "subtitle": {
+            "en": "A temperature, pain score or oxygen reading is meaningful only beside the patient’s baseline, expected recovery path and accompanying changes.",
+            "zh": ""
+          },
+          "subcategory": "Complication Recognition and Urgent Escalation",
+          "excerpt": "Recovery is rarely a straight line.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "what-to-pack-for-hospital-treatment-in-china",
+          "title": {
+            "en": "What to Pack for Hospital Treatment in China: Pack by Failure Consequence",
+            "zh": "赴华住院带什么：按“丢了会怎样”来装箱"
+          },
+          "subtitle": {
+            "en": "Put identity, essential medicines, records and life-sustaining devices where a delayed suitcase cannot reach them; let the treatment plan—not a generic holiday list—determine the rest.",
+            "zh": "身份、关键药物、病历和维持生命的设备要放在延误行李拿不到的地方；其余物品由治疗方案决定，而不是照搬旅游清单。"
+          },
+          "subcategory": "出发前准备",
+          "excerpt": "The cheapest item in a suitcase can become the most important if it is irreplaceable on arrival.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "from-the-airport-to-the-hospital-your-first-24-hours-in-china",
+          "title": {
+            "en": "Your First 24 Hours in China: Make Every Handoff Visible",
+            "zh": "抵达中国后的前 24 小时：把每一次交接都说清楚"
+          },
+          "subtitle": {
+            "en": "A safe arrival is not simply an airport pickup. It is a chain of named people, verified destinations, medicine decisions and escalation routes from the aircraft door to the first clinical contact.",
+            "zh": "安全抵达不等于“有人接机”，而是从舱门到第一次临床接触，每一段都有人接、地点无歧义、药物有时钟、病情变化有升级路线。"
+          },
+          "subcategory": "抵达、转运与首夜安全",
+          "excerpt": "The most fragile part of an international treatment journey is often the unremarkable-looking gap after landing.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        },
+        {
+          "slug": "your-first-hospital-appointment-in-china-what-to-expect",
+          "title": {
+            "en": "Your First Hospital Appointment in China: Leave With a Decision Record",
+            "zh": "第一次到中国医院就诊：离开时要带走一份“决策记录”"
+          },
+          "subtitle": {
+            "en": "The first visit is successful when the patient and clinician agree on the problem, the evidence, what remains uncertain and the next decision—not merely when registration is complete.",
+            "zh": "第一次就诊的成果，不是“终于挂上号”，而是医患双方对问题、证据、不确定性和下一步决定形成同一版本。"
+          },
+          "subcategory": "首次会诊与临床交接",
+          "excerpt": "International patients often prepare for a first hospital appointment by carrying every report they own.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/04"
+        }
+      ]
+    },
+    {
+      "slug": "treatment-guides",
+      "title": "Treatment Guides",
+      "guides": [
+        {
+          "slug": "acupuncture-in-china-evidence-safety-and-choosing-a-provider",
+          "title": {
+            "en": "Acupuncture in China: Evidence, Safety, and Choosing a Provider",
+            "zh": "在中国接受针灸：证据、安全与医生选择"
+          },
+          "subtitle": {
+            "en": "Judge acupuncture claim by claim, verify the practitioner and facility, and agree on safety checks and a stopping rule before the first needle.",
+            "zh": ""
+          },
+          "subcategory": "Traditional Chinese Medicine & Integrative Care",
+          "excerpt": "Acupuncture involves inserting fine needles through the skin, sometimes with manual manipulation, heat or a small electrical current.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "arrhythmia-evaluation-and-catheter-ablation-in-china",
+          "title": {
+            "en": "Arrhythmia Evaluation and Catheter Ablation in China",
+            "zh": "在中国评估心律失常和进行导管消融"
+          },
+          "subtitle": {
+            "en": "Document the rhythm, define the ablation target, understand procedure-specific risks and arrange monitoring after returning home.",
+            "zh": "先记录真实心律，再明确消融靶点和特异风险，并安排回国后的抗凝与节律监测。"
+          },
+          "subcategory": "心脏与血管照护",
+          "excerpt": "“My heart suddenly races” can describe an arrhythmia, but also sinus tachycardia from fever, anaemia, thyroid disease, dehydration, pain or anxiety.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "brain-tumor-surgery-in-china-multidisciplinary-treatment-planning",
+          "title": {
+            "en": "Brain Tumor Surgery in China: Multidisciplinary Treatment Planning",
+            "zh": "中国脑肿瘤手术：多学科治疗规划"
+          },
+          "subtitle": {
+            "en": "Plan tissue diagnosis, safe resection and the next phase of treatment as one connected neuro-oncology pathway.",
+            "zh": "把组织诊断、安全切除和下一阶段治疗连成一条完整的神经肿瘤路径。"
+          },
+          "subcategory": "神经内科与神经外科",
+          "excerpt": "Brain tumour surgery has several possible purposes: obtain a diagnosis, relieve pressure, reduce tumour burden, control seizures, preserve neurological function or create a safer route to radiotherapy and drug treatment.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "cancer-immunotherapy-in-china-questions-to-ask-before-treatment",
+          "title": {
+            "en": "Cancer Immunotherapy in China: Questions to Ask Before Treatment",
+            "zh": "在中国接受肿瘤免疫治疗：开始前要问清的问题"
+          },
+          "subtitle": {
+            "en": "How to verify the exact therapy, evidence and monitoring plan—and recognise immune-related problems after returning home.",
+            "zh": "核实具体疗法、适应证和监测方案，并在回国后继续识别免疫相关不良反应。"
+          },
+          "subcategory": "肿瘤诊疗",
+          "excerpt": "Immunotherapy is often marketed as if it were one modern alternative to chemotherapy.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "cancer-rehabilitation-managing-function-fatigue-and-recovery",
+          "title": {
+            "en": "Cancer Rehabilitation: Managing Function, Fatigue, and Recovery",
+            "zh": "癌症康复：怎样管理功能、疲劳与恢复"
+          },
+          "subtitle": {
+            "en": "Build rehabilitation around the cancer, treatment phase and life tasks that matter—not a generic exercise package.",
+            "zh": ""
+          },
+          "subcategory": "Rehabilitation",
+          "excerpt": "Cancer rehabilitation is not one treatment.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "cancer-surgery-in-china-how-to-prepare-and-compare-options",
+          "title": {
+            "en": "Cancer Surgery in China: How to Prepare and Compare Options",
+            "zh": "在中国接受肿瘤手术：怎样准备与比较方案"
+          },
+          "subtitle": {
+            "en": "Compare the oncologic operation, surgeon and hospital backup—not just the incision, robot or advertised length of stay.",
+            "zh": "比较肿瘤切除目标、主刀医生和医院后备，而不只看切口、机器人或宣传中的住院天数。"
+          },
+          "subcategory": "肿瘤诊疗",
+          "excerpt": "For an international patient, “Can you operate?” is only the first question.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "cardiac-rehabilitation-after-heart-treatment",
+          "title": {
+            "en": "Cardiac Rehabilitation After Heart Treatment",
+            "zh": "心脏治疗后的心脏康复"
+          },
+          "subtitle": {
+            "en": "Turn discharge restrictions into a medically supervised plan for exercise, risk reduction, confidence and safe return to daily life.",
+            "zh": "把出院限制转化为医学监督下的运动、危险因素管理、信心恢复和重返日常生活计划。"
+          },
+          "subcategory": "心脏与血管照护",
+          "excerpt": "The end of a heart procedure often creates an awkward gap.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "chemotherapy-in-china-planning-safety-and-follow-up",
+          "title": {
+            "en": "Chemotherapy in China: Planning, Safety, and Follow-Up",
+            "zh": "在中国接受化疗：规划、安全与随访"
+          },
+          "subtitle": {
+            "en": "A cycle-by-cycle guide to confirming the regimen, preparing for treatment, responding to urgent symptoms and handing care back home.",
+            "zh": "按疗程核对方案、做好治疗准备、识别紧急症状，并把后续照护完整交接回患者所在地。"
+          },
+          "subcategory": "肿瘤诊疗",
+          "excerpt": "The word chemotherapy is often used loosely for any anticancer medicine.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "chinese-herbal-medicine-safety-interactions-and-quality-questions",
+          "title": {
+            "en": "Chinese Herbal Medicine Safety: Interactions and Quality Questions",
+            "zh": "中药安全：相互作用与质量核验"
+          },
+          "subtitle": {
+            "en": "Identify the exact product, trace its batch, screen the whole formula against the whole medication list, and monitor a defined clinical goal.",
+            "zh": ""
+          },
+          "subcategory": "Traditional Chinese Medicine & Integrative Care",
+          "excerpt": "Herbal medicines are pharmacologically active products.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "coronary-angiography-in-china-what-patients-can-expect",
+          "title": {
+            "en": "Coronary Angiography in China: What Patients Can Expect",
+            "zh": "在中国做冠状动脉造影：患者会经历什么"
+          },
+          "subtitle": {
+            "en": "Understand why an invasive angiogram is proposed, how wrist or groin access works, and what must be agreed before a possible same-session stent.",
+            "zh": "了解为什么要做有创造影、手腕或腹股沟穿刺如何进行，以及可能当场放支架时必须提前约定什么。"
+          },
+          "subcategory": "心脏与血管照护",
+          "excerpt": "A coronary angiogram is a moving X-ray study of the arteries that supply the heart.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "coronary-artery-bypass-surgery-in-china-planning-your-care",
+          "title": {
+            "en": "Coronary Artery Bypass Surgery in China: Planning Your Care",
+            "zh": "在中国做冠状动脉旁路移植术：怎样规划治疗"
+          },
+          "subtitle": {
+            "en": "Compare CABG with PCI, understand the graft and operative plan, and prepare for intensive-care recovery and a safe handover home.",
+            "zh": "比较搭桥与 PCI，读懂桥血管和手术方案，并为重症监护恢复及回国交接做好准备。"
+          },
+          "subcategory": "心脏与血管照护",
+          "excerpt": "Coronary artery bypass grafting CABG reroutes blood around narrowed or blocked coronary arteries.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "deep-brain-stimulation-candidacy-surgery-and-follow-up",
+          "title": {
+            "en": "Deep Brain Stimulation: Candidacy, Surgery, and Follow-Up",
+            "zh": "脑深部刺激：适应证、手术与长期随访"
+          },
+          "subtitle": {
+            "en": "Decide whether DBS matches the diagnosis and target symptoms—and whether long-term programming will remain accessible after travel.",
+            "zh": "先判断DBS是否匹配诊断和目标症状，再确认跨境回家后能否持续获得程控服务。"
+          },
+          "subcategory": "神经内科与神经外科",
+          "excerpt": "DBS is often described as a “brain pacemaker,” but the comparison is incomplete.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "dental-crowns-and-bridges-materials-treatment-and-aftercare",
+          "title": {
+            "en": "Dental Crowns and Bridges: Materials, Treatment, and Aftercare",
+            "zh": "牙冠与固定桥：材料、治疗流程和后期维护"
+          },
+          "subtitle": {
+            "en": "Decide whether a tooth needs full coverage, compare bridge designs and judge the finished work by fit, function and maintainability—not material labels alone.",
+            "zh": ""
+          },
+          "subcategory": "Dental & Oral Health",
+          "excerpt": "A crown covers most or all of the visible portion of a prepared tooth.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "dental-implants-in-china-planning-safe-treatment-abroad",
+          "title": {
+            "en": "Dental Implants in China: Planning Safe Treatment Abroad",
+            "zh": "在中国做牙种植：跨境安全治疗规划"
+          },
+          "subtitle": {
+            "en": "Plan the final tooth first, separate surgery from restoration and make sure the implant can be maintained and repaired after returning home.",
+            "zh": ""
+          },
+          "subcategory": "Dental & Oral Health",
+          "excerpt": "Dental-implant travel is unusually sensitive to time.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "endometriosis-treatment-in-china-diagnosis-surgery-and-follow-up",
+          "title": {
+            "en": "Endometriosis Treatment in China: Diagnosis, Surgery and Follow-Up",
+            "zh": "在中国治疗子宫内膜异位症：诊断、手术与随访"
+          },
+          "subtitle": {
+            "en": "Separate the pain plan from the fertility plan, map deep disease before surgery and arrange long-term care for a chronic condition that can recur.",
+            "zh": ""
+          },
+          "subcategory": "Gynaecology & Fertility",
+          "excerpt": "Endometriosis care goes wrong when every problem is forced into one solution.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "epilepsy-evaluation-and-surgery-understanding-the-care-pathway",
+          "title": {
+            "en": "Epilepsy Evaluation and Surgery: Understanding the Care Pathway",
+            "zh": "癫痫评估与手术：读懂完整诊疗路径"
+          },
+          "subtitle": {
+            "en": "Understand what an epilepsy centre must prove before it can recommend resection, ablation or neurostimulation.",
+            "zh": "在接受切除、消融或神经调控之前，先看癫痫中心是否证明了病灶、风险与治疗目标。"
+          },
+          "subcategory": "神经内科与神经外科",
+          "excerpt": "Epilepsy surgery begins with doubt, not an operating-room booking.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "fertility-assessment-in-china-tests-timelines-and-questions",
+          "title": {
+            "en": "Fertility Assessment in China: Tests, Timelines and Questions",
+            "zh": "在中国进行生育力评估：检查、时间与提问清单"
+          },
+          "subtitle": {
+            "en": "A diagnosis-led work-up for both partners, with each test tied to a decision and every cross-border result checked for timing and comparability.",
+            "zh": ""
+          },
+          "subcategory": "Fertility & Reproductive Medicine",
+          "excerpt": "A good fertility assessment is deliberately small at the beginning.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "follow-up-care-after-cancer-treatment-in-china",
+          "title": {
+            "en": "Follow-Up Care After Cancer Treatment in China",
+            "zh": "在中国完成癌症治疗后，随访应该怎么安排"
+          },
+          "subtitle": {
+            "en": "Build a follow-up plan that assigns the right tests, records and clinical decisions across China and the patient's home country.",
+            "zh": "把检查、病历和临床责任落实到具体时间与具体医生，让中国治疗团队和患者回国后的医生能够真正接续照护。"
+          },
+          "subcategory": "肿瘤照护",
+          "excerpt": "Finishing surgery, radiation or a course of systemic therapy is a transition, not the end of cancer care.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "full-mouth-rehabilitation-in-china-a-patient-guide",
+          "title": {
+            "en": "Full-Mouth Rehabilitation in China: A Patient Guide",
+            "zh": "在中国做全口功能重建：国际患者指南"
+          },
+          "subtitle": {
+            "en": "Build one coordinated plan for damaged, missing and heavily restored teeth—then test function before committing to definitive work.",
+            "zh": ""
+          },
+          "subcategory": "Dental & Oral Health",
+          "excerpt": "“Full-mouth rehabilitation” describes the coordination of several types of dental care across much or all of the mouth.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "getting-a-cancer-second-opinion-in-china",
+          "title": {
+            "en": "Getting a Cancer Second Opinion in China",
+            "zh": "在中国获取肿瘤第二诊疗意见"
+          },
+          "subtitle": {
+            "en": "A useful second opinion tests the diagnosis, staging and treatment logic—not just whether another doctor prefers a different drug.",
+            "zh": "有价值的第二意见，不是简单换一位医生开药，而是重新检验诊断、分期和治疗逻辑。"
+          },
+          "subcategory": "肿瘤诊疗",
+          "excerpt": "“Can China offer something different?” is usually too broad a question for a cancer second opinion.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "getting-a-neurosurgery-second-opinion-in-china",
+          "title": {
+            "en": "Getting a Neurosurgery Second Opinion in China",
+            "zh": "如何在中国获取神经外科第二意见"
+          },
+          "subtitle": {
+            "en": "Turn a second opinion into a documented comparison of diagnosis, timing, operative goals, alternatives and neurological trade-offs.",
+            "zh": "把第二意见变成对诊断、时机、手术目标、替代方案和神经功能权衡的书面比较。"
+          },
+          "subcategory": "神经内科与神经外科",
+          "excerpt": "A useful neurosurgical second opinion does more than produce another recommendation.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "gynecologic-cancer-treatment-in-china-planning-multidisciplinary-care",
+          "title": {
+            "en": "Gynecologic Cancer Treatment in China: Planning Multidisciplinary Care",
+            "zh": "在中国治疗妇科恶性肿瘤：怎样规划多学科照护"
+          },
+          "subtitle": {
+            "en": "Turn pathology, site-specific staging, surgery, radiation, systemic therapy, genetics and fertility into one written sequence with named ownership.",
+            "zh": ""
+          },
+          "subcategory": "Gynaecologic Oncology",
+          "excerpt": "The phrase “multidisciplinary care” is useful only when it changes a decision and assigns responsibility.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "heart-valve-repair-and-replacement-comparing-treatment-options",
+          "title": {
+            "en": "Heart Valve Repair and Replacement: Comparing Treatment Options",
+            "zh": "心脏瓣膜修复与置换：怎样比较治疗方案"
+          },
+          "subtitle": {
+            "en": "Compare repair, mechanical and tissue replacement, and transcatheter treatment using the valve lesion, lifetime plan and patient's priorities.",
+            "zh": "根据瓣膜病变、终身管理计划和患者优先事项，比较修复、机械瓣、生物瓣与经导管治疗。"
+          },
+          "subcategory": "心脏与血管照护",
+          "excerpt": "A heart valve decision begins long before choosing an implant.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "hip-replacement-in-china-surgery-recovery-and-travel",
+          "title": {
+            "en": "Hip Replacement in China: Surgery, Recovery, and Travel",
+            "zh": "在中国做髋关节置换：手术、康复与旅行"
+          },
+          "subtitle": {
+            "en": "Understand the hip being treated, the choices made in theatre and the recovery milestones that should determine travel home.",
+            "zh": "先弄清需要治疗的髋关节、术中每项选择，以及真正决定何时回国的康复里程碑。"
+          },
+          "subcategory": "骨科诊疗",
+          "excerpt": "Hip pain can be surprisingly difficult to locate.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "inpatient-vs-outpatient-rehabilitation-in-china",
+          "title": {
+            "en": "Inpatient vs Outpatient Rehabilitation in China",
+            "zh": "中国住院康复与门诊康复怎么选"
+          },
+          "subtitle": {
+            "en": "Choose the level of care by overnight medical and nursing need, functional safety and support between sessions—not by which package sounds more intensive.",
+            "zh": ""
+          },
+          "subcategory": "Rehabilitation",
+          "excerpt": "“Inpatient” and “outpatient” describe where care is delivered, not whether the treatment is good.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "integrative-supportive-care-during-cancer-treatment-in-china",
+          "title": {
+            "en": "Integrative Supportive Care During Cancer Treatment in China",
+            "zh": "在中国接受癌症整合支持治疗"
+          },
+          "subtitle": {
+            "en": "Add evidence-informed symptom support to oncology care without hiding interactions, delaying treatment or turning a wellness package into a cancer claim.",
+            "zh": ""
+          },
+          "subcategory": "Traditional Chinese Medicine & Integrative Care",
+          "excerpt": "Supportive care aims to prevent or reduce the physical, psychological and practical burden of cancer and its treatment.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "ivf-treatment-in-china-a-practical-guide-for-international-patients",
+          "title": {
+            "en": "IVF Treatment in China: A Practical Guide for International Patients",
+            "zh": "国际患者赴中国接受试管婴儿治疗：实用指南"
+          },
+          "subtitle": {
+            "en": "Check eligibility and laboratory authorization before planning a cycle, then build the medical and travel plan around real decision points rather than a promised success rate.",
+            "zh": ""
+          },
+          "subcategory": "Fertility & Reproductive Medicine",
+          "excerpt": "IVF abroad asks two questions at once: Is this treatment medically appropriate?",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "joint-preservation-treatments-questions-to-ask-before-surgery",
+          "title": {
+            "en": "Joint Preservation Treatments: Questions to Ask Before Surgery",
+            "zh": "关节保留治疗：手术前应该问什么"
+          },
+          "subtitle": {
+            "en": "Find out whether the joint still has a treatable mechanical or focal problem—and what “preservation” can realistically preserve.",
+            "zh": "先确认关节是否还有可纠正的力学或局灶性问题，再判断所谓“保关节”究竟能保留什么。"
+          },
+          "subcategory": "关节重建与运动医学",
+          "excerpt": "The phrase “save your natural joint” is emotionally powerful, especially for a younger or active patient.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "knee-replacement-in-china-a-patient-planning-guide",
+          "title": {
+            "en": "Knee Replacement in China: A Patient Planning Guide",
+            "zh": "在中国做膝关节置换：患者规划指南"
+          },
+          "subtitle": {
+            "en": "Plan the operation around the knee that needs treating, the recovery you must manage and the records your home team will need.",
+            "zh": "围绕真正需要治疗的膝关节、能够落实的康复安排，以及回国后团队所需资料来规划手术。"
+          },
+          "subcategory": "骨科诊疗",
+          "excerpt": "Knee replacement is often advertised as a single, standard operation.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "multidisciplinary-cancer-care-how-tumor-boards-guide-treatment",
+          "title": {
+            "en": "Multidisciplinary Cancer Care: How Tumor Boards Guide Treatment",
+            "zh": "多学科肿瘤诊疗：MDT 如何指导治疗"
+          },
+          "subtitle": {
+            "en": "Understand who reviewed the case, what evidence was available, how the recommendation was recorded and where the patient’s own decision enters the process.",
+            "zh": "看清是谁审阅了病例、当时有哪些证据、建议如何记录，以及患者本人的选择在什么环节进入方案。"
+          },
+          "subcategory": "肿瘤治疗决策",
+          "excerpt": "Cancer care becomes multidisciplinary because no single specialty owns all of the evidence.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "neurological-rehabilitation-in-china-choosing-the-right-program",
+          "title": {
+            "en": "Neurological Rehabilitation in China: Choosing the Right Program",
+            "zh": "在中国选择神经康复项目：怎样判断是否真正适合"
+          },
+          "subtitle": {
+            "en": "Compare programmes by neurological expertise, medical safety, measurable function and continuity—not by robots, session counts or recovery promises.",
+            "zh": ""
+          },
+          "subcategory": "Rehabilitation",
+          "excerpt": "Neurological rehabilitation deals with the consequences of disease or injury to the brain, spinal cord and peripheral nerves.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "oral-and-maxillofacial-surgery-in-china-what-patients-should-know",
+          "title": {
+            "en": "Oral and Maxillofacial Surgery in China: What Patients Should Know",
+            "zh": "在中国接受口腔颌面外科治疗：患者需要了解什么"
+          },
+          "subtitle": {
+            "en": "Match the diagnosis to the right surgical team, setting and follow-up plan before arranging treatment for the mouth, jaws or face.",
+            "zh": ""
+          },
+          "subcategory": "Dental & Oral Health",
+          "excerpt": "The mouth and jaws sit where dentistry, surgery, anaesthesia, airway management, speech, swallowing and facial appearance meet.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "orthodontic-treatment-in-china-planning-for-long-term-follow-up",
+          "title": {
+            "en": "Orthodontic Treatment in China: Planning for Long-Term Follow-Up",
+            "zh": "在中国做牙齿矫正：如何安排长期复诊与交接"
+          },
+          "subtitle": {
+            "en": "Choose a treatment that can be monitored where you live, document every planned movement and arrange transfer and retention before the first appliance is fitted.",
+            "zh": ""
+          },
+          "subcategory": "Dental & Oral Health",
+          "excerpt": "Orthodontic treatment often lasts longer than a temporary stay in another country.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "pathology-review-before-cancer-treatment-in-china",
+          "title": {
+            "en": "Pathology Review Before Cancer Treatment in China",
+            "zh": "在中国接受癌症治疗前进行病理复核"
+          },
+          "subtitle": {
+            "en": "Confirm the tumour diagnosis, the treatment-defining features and the evidence still missing before an irreversible cancer decision is made.",
+            "zh": "在不可逆的癌症治疗开始前，确认肿瘤诊断、真正影响治疗的特征，以及仍然缺少的证据。"
+          },
+          "subcategory": "肿瘤诊断与治疗决策",
+          "excerpt": "Cancer treatment is chosen for a diagnosis, not for an image that “looks suspicious.” Surgery, systemic therapy and radiotherapy can all depend on what the tumour is, where it came from and which features the specimen t…",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "percutaneous-coronary-intervention-and-stents-a-patient-guide",
+          "title": {
+            "en": "Percutaneous Coronary Intervention and Stents: A Patient Guide",
+            "zh": "经皮冠状动脉介入治疗与支架：患者指南"
+          },
+          "subtitle": {
+            "en": "Decide what PCI is meant to achieve, how the lesion will be treated, and how to protect the result after returning home.",
+            "zh": "弄清 PCI 要实现什么、病变准备怎样处理，以及回国后如何用药和随访来保护治疗结果。"
+          },
+          "subcategory": "心脏与血管照护",
+          "excerpt": "Percutaneous coronary intervention PCI is a catheter-based treatment for a narrowed or blocked coronary artery.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "postoperative-rehabilitation-in-china-building-a-recovery-plan",
+          "title": {
+            "en": "Postoperative Rehabilitation in China: Building a Recovery Plan",
+            "zh": "在中国进行术后康复：怎样建立可执行的恢复计划"
+          },
+          "subtitle": {
+            "en": "Turn the surgeon's restrictions into measurable mobility, self-care and travel milestones—and make the plan usable after returning home.",
+            "zh": ""
+          },
+          "subcategory": "Rehabilitation",
+          "excerpt": "Postoperative rehabilitation is the work of recovering function after surgery.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "radiation-therapy-in-china-a-patient-guide",
+          "title": {
+            "en": "Radiation Therapy in China: A Patient Guide",
+            "zh": "在中国接受放射治疗：一份写给患者的实用指南"
+          },
+          "subtitle": {
+            "en": "What international patients need to know about planning, daily treatment, safety checks, side effects and the records to take home.",
+            "zh": "从定位、计划和每日治疗，到安全核查、副作用管理及回国时应带走的资料。"
+          },
+          "subcategory": "肿瘤诊疗",
+          "excerpt": "Radiation therapy is often described as a machine delivering radiation to a tumour.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "scoliosis-treatment-in-china-evaluation-and-care-planning",
+          "title": {
+            "en": "Scoliosis Treatment in China: Evaluation and Care Planning",
+            "zh": "在中国治疗脊柱侧弯：评估与诊疗规划"
+          },
+          "subtitle": {
+            "en": "Measure the curve in the context of growth, balance, symptoms and progression before deciding on observation, bracing or surgery.",
+            "zh": "把弯曲角度放回生长、身体平衡、症状和进展中判断，再选择观察、支具或手术。"
+          },
+          "subcategory": "脊柱畸形诊疗",
+          "excerpt": "Two people can both have a 35-degree curve and need entirely different advice.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "spine-surgery-in-china-how-to-evaluate-your-options",
+          "title": {
+            "en": "Spine Surgery in China: How to Evaluate Your Options",
+            "zh": "在中国做脊柱手术：怎样评估不同方案"
+          },
+          "subtitle": {
+            "en": "Test whether the diagnosis, imaging, neurological findings and proposed operation form one coherent plan before travelling.",
+            "zh": "出发前先检验诊断、影像、神经体征和拟行手术能否组成同一套合乎逻辑的方案。"
+          },
+          "subcategory": "脊柱诊疗",
+          "excerpt": "Spine consultations often begin with a powerful image: a disc protrusion, a narrow canal or a curved column highlighted on MRI.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "sports-injury-treatment-in-china-from-imaging-to-rehabilitation",
+          "title": {
+            "en": "Sports Injury Treatment in China: From Imaging to Rehabilitation",
+            "zh": "在中国治疗运动损伤：从影像检查到康复"
+          },
+          "subtitle": {
+            "en": "Turn an injury mechanism, examination and useful imaging into a staged recovery plan—not a scan-led treatment package.",
+            "zh": "把受伤机制、查体和真正有用的影像转化为分阶段恢复计划，而不是围绕检查套餐治疗。"
+          },
+          "subcategory": "运动医学与康复",
+          "excerpt": "A runner with gradual Achilles pain, a footballer whose knee gave way during a turn, and a climber who fell onto an outstretched hand all have “sports injuries.” Beyond that label, their work-up has little in common.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "stereotactic-body-radiotherapy-sbrt-a-patient-guide",
+          "title": {
+            "en": "Stereotactic Body Radiotherapy (SBRT): A Patient Guide",
+            "zh": "体部立体定向放射治疗（SBRT）：患者实用指南"
+          },
+          "subtitle": {
+            "en": "How eligibility, motion control, organ-at-risk limits and patient-specific quality assurance shape a short, high-precision course.",
+            "zh": "了解适应性、运动管理、危及器官限量和患者专属质控，怎样共同决定一次短疗程高精度放疗。"
+          },
+          "subcategory": "肿瘤诊疗",
+          "excerpt": "SBRT—also called stereotactic ablative body radiotherapy, or SABR—is a form of external-beam radiation that uses precise positioning and focused dose delivery for tumours in the body outside the brain.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "stroke-rehabilitation-in-china-a-guide-for-patients-and-families",
+          "title": {
+            "en": "Stroke Rehabilitation in China: A Guide for Patients and Families",
+            "zh": "中国卒中康复：患者与家属指南"
+          },
+          "subtitle": {
+            "en": "Build a safe, measurable rehabilitation plan that includes swallowing, communication, daily life and prevention—not only walking practice.",
+            "zh": "把吞咽、沟通、日常生活和复发预防纳入一份安全且可衡量的康复计划，而不只是练走路。"
+          },
+          "subcategory": "神经康复",
+          "excerpt": "Stroke rehabilitation is not a machine, a fixed number of sessions or a promise to “wake up” damaged nerves.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "targeted-cancer-therapy-biomarker-testing-and-treatment-planning",
+          "title": {
+            "en": "Targeted Cancer Therapy: Biomarker Testing and Treatment Planning",
+            "zh": "肿瘤靶向治疗：从生物标志物检测到治疗计划"
+          },
+          "subtitle": {
+            "en": "How to connect a real specimen and validated test to the exact alteration, evidence, medicine and monitoring plan.",
+            "zh": "把真实标本和合适检测，与具体变异、临床证据、药物及监测方案逐一对应。"
+          },
+          "subcategory": "肿瘤诊疗",
+          "excerpt": "Targeted therapy is often described as matching one mutation to one drug.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "uterine-fibroid-treatment-comparing-medical-and-surgical-options",
+          "title": {
+            "en": "Uterine Fibroid Treatment: Comparing Medical and Surgical Options",
+            "zh": "子宫肌瘤治疗：药物与手术方案怎样比较"
+          },
+          "subtitle": {
+            "en": "Choose by symptoms, fibroid map, reproductive plans and tolerance for recurrence—not by size alone or the promise of a small incision.",
+            "zh": ""
+          },
+          "subcategory": "Gynaecology & Fertility",
+          "excerpt": "Fibroid treatment is not a contest between “medicine” and “surgery.” It is a trade-off among several outcomes: control bleeding, correct iron-deficiency anaemia, relieve bulk or pain, preserve the uterus, preserve a rea…",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        },
+        {
+          "slug": "what-to-expect-at-a-traditional-chinese-medicine-consultation",
+          "title": {
+            "en": "What to Expect at a Traditional Chinese Medicine Consultation",
+            "zh": "中医门诊初诊会经历什么"
+          },
+          "subtitle": {
+            "en": "Prepare for both a traditional pattern assessment and a modern medication-safety review, then leave with a legible plan you can explain to every clinician involved.",
+            "zh": ""
+          },
+          "subcategory": "Traditional Chinese Medicine & Integrative Care",
+          "excerpt": "A traditional Chinese medicine consultation may feel familiar in some ways and unfamiliar in others.",
+          "locales": [
+            "en",
+            "zh"
+          ],
+          "updatedDate": "2026/08/03"
+        }
+      ]
+    }
+  ]
+}

@@ -13,7 +13,7 @@ const navLinks = [
   { label: "FEATURED", labelKey: "nav.treatment", href: "/treatment" },
   { label: "TREATMENT PACKAGES", labelKey: "nav.packages", href: "/packages" },
   { label: "HOSPITALS", labelKey: "nav.hospitals", href: "/hospitals" },
-  { label: "VISA & TRAVEL", labelKey: "nav.visa", href: "/visa" },
+  { label: "GUIDES", labelKey: "nav.visa", href: "/visa" },
 ];
 
 export default function Header() {

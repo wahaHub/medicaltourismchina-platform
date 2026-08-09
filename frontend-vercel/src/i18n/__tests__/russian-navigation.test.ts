@@ -10,7 +10,7 @@ const expectedRussianNavigation = {
   "nav.treatment": "РЕКОМЕНДУЕМОЕ",
   "nav.packages": "ЭТАПЫ",
   "nav.hospitals": "БОЛЬНИЦЫ",
-  "nav.visa": "ВИЗА",
+  "nav.visa": "РУКОВОДСТВА",
 } as const;
 
 describe("Russian navigation translations", () => {

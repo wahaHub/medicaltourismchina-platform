@@ -14,7 +14,7 @@ const translations: Record<string, string> = {
   "nav.packages": "STEPS",
   "nav.hospitals": "HOSPITALS",
   "nav.insurance": "INSURANCE",
-  "nav.visa": "VISA",
+  "nav.visa": "GUIDES",
   "nav.whyChina": "WHY CHINA",
   "nav.bookAppointment": "Book an Appointment",
   "footer.aboutUs": "About Us",
@@ -24,7 +24,7 @@ const translations: Record<string, string> = {
   "footer.partnerTourismPackages": "Partner Tourism Packages",
   "footer.resources": "Resources",
   "footer.faq": "FAQ",
-  "footer.visaInformation": "Visa Information",
+  "footer.visaInformation": "Guides",
   "footer.patientGuide": "Pre-Departure Patient Guidelines",
   "footer.patientStories": "Patient Stories",
   "footer.workWithUs": "Work With Us",
@@ -68,7 +68,7 @@ describe("Header", () => {
     expect(screen.queryByRole("link", { name: "INSURANCE" })).toBeNull();
     expect(screen.queryByRole("link", { name: "WHY CHINA" })).toBeNull();
     expect(screen.getAllByRole("link", { name: "STEPS" }).length).toBeGreaterThan(0);
-    expect(screen.getAllByRole("link", { name: "VISA" }).length).toBeGreaterThan(0);
+    expect(screen.getAllByRole("link", { name: "GUIDES" }).length).toBeGreaterThan(0);
   });
 });
 
@@ -86,7 +86,7 @@ describe("Footer", () => {
 
     expect(screen.getByRole("heading", { name: "Resources" })).toBeTruthy();
     expect(screen.queryByRole("link", { name: "FAQ" })).toBeNull();
-    expect(screen.getByRole("link", { name: "Visa Information" }).getAttribute("href")).toBe("/visa");
+    expect(screen.getByRole("link", { name: "Guides" }).getAttribute("href")).toBe("/visa");
     expect(screen.getByRole("link", { name: "Pre-Departure Patient Guidelines" }).getAttribute("href")).toBe("https://pub-364cedbcf5a84cd38214f731bce112c0.r2.dev/documents/pre-departure-guide.pdf");
     expect(screen.getByRole("link", { name: "Patient Stories" }).getAttribute("href")).toBe("/#testimonials");
 

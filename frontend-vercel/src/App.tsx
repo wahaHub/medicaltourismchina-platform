@@ -32,7 +32,8 @@ const SeoTreatmentLanding = lazy(() => import("./pages/SeoTreatmentLanding"));
 const Packages = lazy(() => import("./pages/Packages"));
 const WorkWithUs = lazy(() => import("./pages/WorkWithUs"));
 const PartnershipApplicationPage = lazy(() => import("./pages/PartnershipApplicationPage"));
-const Visa = lazy(() => import("./pages/Visa"));
+const Guides = lazy(() => import("./pages/Guides"));
+const GuideDetail = lazy(() => import("./pages/GuideDetail"));
 const CaseIntakePage = lazy(() => import("./pages/CaseIntakePage"));
 const CaseIntakeViewPage = lazy(() => import("./pages/CaseIntakeViewPage"));
 const NotFound = lazy(() => import("./pages/NotFound"));
@@ -183,7 +184,8 @@ const App = () => (
                     <Route path="/work-with-us/hospitals/apply" element={<NoIndexRoute title="Hospital Partnership Application | Medora Health"><PartnershipApplicationPage applicationType="hospitals" /></NoIndexRoute>} />
                     <Route path="/work-with-us/referral-partners/apply" element={<NoIndexRoute title="Referral Partner Application | Medora Health"><PartnershipApplicationPage applicationType="referral-partners" /></NoIndexRoute>} />
                     <Route path="/work-with-us/travel-services/apply" element={<NoIndexRoute title="Travel Services Application | Medora Health"><PartnershipApplicationPage applicationType="travel-services" /></NoIndexRoute>} />
-                    <Route path="/visa" element={<Visa />} />
+                    <Route path="/visa" element={<Guides />} />
+                    <Route path="/visa/:categorySlug/:guideSlug" element={<GuideDetail />} />
                     <Route path="/locations/china/:city" element={<LocationGuide />} />
                     <Route path="/medical-case-intake" element={<NoIndexRoute title="Medical Case Intake | Medora Health"><CaseIntakePage /></NoIndexRoute>} />
                     <Route path="/case-intake/:id" element={<NoIndexRoute title="Medical Case | Medora Health"><CaseIntakeViewPage /></NoIndexRoute>} />
