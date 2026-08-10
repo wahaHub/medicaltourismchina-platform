@@ -17,6 +17,17 @@ const EXTERNAL_SOURCE_DIR = path.resolve(
 
 const PUBLIC_GUIDES_DIR = path.join(PROJECT_ROOT, "public", "guides");
 const MANIFEST_PATH = path.join(PROJECT_ROOT, "src", "data", "guides-manifest.json");
+const TRANSLATIONS_PATH = path.join(PROJECT_ROOT, "src", "data", "guides-translations.json");
+
+const CATEGORY_IMAGES = {
+  "china-healthcare-guides": "/guides/_categories/china-healthcare-guides.jpg",
+  "treatment-guides": "/guides/_categories/treatment-guides.jpg",
+  "clinical-trials-advanced-treatments": "/guides/_categories/clinical-trials-advanced-treatments.jpg",
+  "hospital-guides": "/guides/_categories/hospital-guides.jpg",
+  "patient-journey-guides": "/guides/_categories/patient-journey-guides.jpg",
+  "cost-insurance-guides": "/guides/_categories/cost-insurance-guides.jpg",
+  "patient-education-faq": "/guides/_categories/patient-education-faq.jpg",
+};
 
 function toSlug(value) {
   return value
@@ -98,6 +109,51 @@ function makeExcerpt(markdown, fallback) {
   return fallback || "";
 }
 
+function estimateReadTimeMinutes(markdown, locale) {
+  const plain = String(markdown || "")
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, " ")
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, "$1")
+    .replace(/[#*_`>|\-]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  if (!plain) return 5;
+
+  if (locale === "zh") {
+    const cjkCount = (plain.match(/[\u3400-\u9fff\uf900-\ufaff]/g) || []).length;
+    const minutes = Math.ceil(cjkCount / 400);
+    return Math.max(3, minutes);
+  }
+
+  const wordCount = plain.split(" ").filter(Boolean).length;
+  const minutes = Math.ceil(wordCount / 200);
+  return Math.max(3, minutes);
+}
+
+async function loadTranslations() {
+  try {
+    const raw = await fs.readFile(TRANSLATIONS_PATH, "utf8");
+    const parsed = JSON.parse(raw);
+    return {
+      categories: parsed?.categories ?? {},
+      guides: parsed?.guides ?? {},
+    };
+  } catch {
+    return { categories: {}, guides: {} };
+  }
+}
+
+function mergeLocalizedText(base, translated) {
+  const merged = { ...base };
+  if (!translated || typeof translated !== "object") return merged;
+  for (const [locale, value] of Object.entries(translated)) {
+    if (typeof value === "string" && value.trim()) {
+      merged[locale] = value;
+    }
+  }
+  return merged;
+}
+
 async function directoryExists(dir) {
   try {
     const stat = await fs.stat(dir);
@@ -113,8 +169,17 @@ async function copyMarkdownFromSource() {
     return false;
   }
 
-  await fs.rm(PUBLIC_GUIDES_DIR, { recursive: true, force: true });
-  await fs.mkdir(PUBLIC_GUIDES_DIR, { recursive: true });
+  // Preserve auxiliary asset directories (e.g. _categories cover images) when
+  // rebuilding the markdown tree from the external source.
+  if (await directoryExists(PUBLIC_GUIDES_DIR)) {
+    const existingEntries = await fs.readdir(PUBLIC_GUIDES_DIR, { withFileTypes: true });
+    for (const entry of existingEntries) {
+      if (entry.name.startsWith("_")) continue;
+      await fs.rm(path.join(PUBLIC_GUIDES_DIR, entry.name), { recursive: true, force: true });
+    }
+  } else {
+    await fs.mkdir(PUBLIC_GUIDES_DIR, { recursive: true });
+  }
 
   const topEntries = await fs.readdir(EXTERNAL_SOURCE_DIR, { withFileTypes: true });
   const categoryDirs = topEntries
@@ -166,9 +231,10 @@ async function buildManifest() {
     throw new Error(`Guides directory does not exist: ${PUBLIC_GUIDES_DIR}`);
   }
 
+  const translations = await loadTranslations();
   const categories = [];
   const categoryDirs = (await fs.readdir(PUBLIC_GUIDES_DIR, { withFileTypes: true }))
-    .filter((entry) => entry.isDirectory())
+    .filter((entry) => entry.isDirectory() && !entry.name.startsWith("_"))
     .map((entry) => entry.name)
     .sort();
 
@@ -197,6 +263,7 @@ async function buildManifest() {
           excerpt: "",
           locales: [],
           updatedDate: "",
+          readTimeMinutes: 0,
         };
         guideMap.set(base, guide);
       }
@@ -209,6 +276,10 @@ async function buildManifest() {
       if (!guide.excerpt) {
         guide.excerpt = makeExcerpt(markdown, hero.subtitle);
       }
+      const readTime = estimateReadTimeMinutes(markdown, locale);
+      if (!guide.readTimeMinutes || (locale === "en" && readTime > 0)) {
+        guide.readTimeMinutes = readTime;
+      }
     }
 
     const guides = [...guideMap.values()].sort((a, b) => {
@@ -217,10 +288,27 @@ async function buildManifest() {
       return titleA.localeCompare(titleB);
     });
 
+    for (const guide of guides) {
+      const localized = translations.guides[guide.slug];
+      if (localized) {
+        guide.title = mergeLocalizedText(guide.title, localized.title);
+        guide.subtitle = mergeLocalizedText(guide.subtitle, localized.subtitle);
+      }
+      if (!guide.readTimeMinutes) guide.readTimeMinutes = 5;
+    }
+
     if (guides.length > 0) {
+      const categoryTranslation = translations.categories[categorySlug];
+      const baseTitle = categoryTranslation?.title?.en || toTitle(categorySlug);
+      const categoryTitle = mergeLocalizedText(
+        { en: baseTitle },
+        categoryTranslation?.title,
+      );
+      if (!categoryTitle.zh) categoryTitle.zh = baseTitle;
       categories.push({
         slug: categorySlug,
-        title: toTitle(categorySlug),
+        title: categoryTitle,
+        image: CATEGORY_IMAGES[categorySlug] ?? null,
         guides,
       });
     }

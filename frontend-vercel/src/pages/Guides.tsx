@@ -1,9 +1,9 @@
 import { useEffect, useMemo, useState } from "react";
-import { BookOpen, Compass, MapPin, Plane, ShieldCheck, Stethoscope, Wallet } from "lucide-react";
+import { BookOpen, Compass, MapPin, Plane, RotateCcw, Search, ShieldCheck, Stethoscope, Wallet } from "lucide-react";
 import TopBanner from "@/components/TopBanner";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import GuideCard from "@/components/guides/GuideCard";
+import GuideCard, { type GuideCardGuide } from "@/components/guides/GuideCard";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { setPageSeo } from "@/utils/seo";
 import { getStaticPageMetadata } from "@/seo/static-page";
@@ -20,17 +20,49 @@ const CATEGORY_ICONS: Record<string, React.ComponentType<{ className?: string }>
   "patient-education-faq": BookOpen,
 };
 
-function useGuideLocale() {
+const GUIDE_LOCALES = ["en", "zh", "es", "fr", "de", "ru", "ar", "id"] as const;
+type GuideLocale = (typeof GUIDE_LOCALES)[number];
+
+type ManifestGuide = GuideCardGuide;
+
+interface ManifestCategory {
+  slug: string;
+  title: Record<string, string>;
+  image: string | null;
+  guides: ManifestGuide[];
+}
+
+interface FlatGuide extends ManifestGuide {
+  categorySlug: string;
+  categoryTitle: Record<string, string>;
+  categoryImage: string | null;
+}
+
+function useGuideLocale(): GuideLocale {
   const { currentLanguage } = useLanguage();
-  return currentLanguage.code === "zh" || currentLanguage.code === "zh-CN" ? "zh" : "en";
+  const code = currentLanguage.code === "zh-CN" ? "zh" : currentLanguage.code;
+  return (GUIDE_LOCALES as readonly string[]).includes(code) ? (code as GuideLocale) : "en";
+}
+
+function pickLocalized(record: Record<string, string> | undefined, locale: string) {
+  if (!record) return "";
+  return record[locale] || record.en || record.zh || Object.values(record)[0] || "";
+}
+
+function parseGuideDate(value: string) {
+  const normalized = value.replace(/\//g, "-");
+  const timestamp = Date.parse(normalized);
+  return Number.isNaN(timestamp) ? 0 : timestamp;
 }
 
 export default function Guides() {
-  const { currentLanguage } = useLanguage();
+  const { currentLanguage, t } = useLanguage();
   const locale = useGuideLocale();
-  const { categories } = guidesManifest;
+  const categories = guidesManifest.categories as unknown as ManifestCategory[];
 
-  const [activeCategory, setActiveCategory] = useState<string>(categories[0]?.slug ?? "");
+  const [searchQuery, setSearchQuery] = useState("");
+  const [activeCategory, setActiveCategory] = useState<string | null>(null);
+  const [sortBy, setSortBy] = useState<"recent" | "title">("recent");
 
   useEffect(() => {
     const metadata = getStaticPageMetadata("visa", currentLanguage.code);
@@ -44,89 +76,213 @@ export default function Guides() {
     });
   }, [currentLanguage.code]);
 
-  const activeGuides = useMemo(() => {
-    const category = categories.find((c) => c.slug === activeCategory);
-    return category?.guides ?? [];
-  }, [activeCategory, categories]);
+  const allGuides = useMemo<FlatGuide[]>(() => {
+    return categories.flatMap((category) =>
+      category.guides.map((guide) => ({
+        ...guide,
+        categorySlug: category.slug,
+        categoryTitle: category.title,
+        categoryImage: category.image,
+      })),
+    );
+  }, [categories]);
+
+  const categoryCounts = useMemo(() => {
+    const counts = new Map<string, number>();
+    for (const category of categories) {
+      counts.set(category.slug, category.guides.length);
+    }
+    return counts;
+  }, [categories]);
+
+  const filteredGuides = useMemo(() => {
+    const query = searchQuery.trim().toLowerCase();
+    const filtered = allGuides.filter((guide) => {
+      if (activeCategory && guide.categorySlug !== activeCategory) return false;
+      if (!query) return true;
+      const localizedTitle = pickLocalized(guide.title, locale).toLowerCase();
+      const localizedSubtitle = pickLocalized(guide.subtitle, locale).toLowerCase();
+      const englishTitle = (guide.title?.en ?? "").toLowerCase();
+      const englishSubtitle = (guide.subtitle?.en ?? "").toLowerCase();
+      return (
+        localizedTitle.includes(query)
+        || localizedSubtitle.includes(query)
+        || englishTitle.includes(query)
+        || englishSubtitle.includes(query)
+      );
+    });
+
+    const sorted = [...filtered];
+    if (sortBy === "title") {
+      sorted.sort((a, b) =>
+        pickLocalized(a.title, locale).localeCompare(pickLocalized(b.title, locale), locale),
+      );
+    } else {
+      sorted.sort((a, b) => parseGuideDate(b.updatedDate) - parseGuideDate(a.updatedDate));
+    }
+    return sorted;
+  }, [activeCategory, allGuides, locale, searchQuery, sortBy]);
+
+  const resetFilters = () => {
+    setSearchQuery("");
+    setActiveCategory(null);
+    setSortBy("recent");
+  };
 
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen bg-slate-50">
       <TopBanner />
       <Header />
 
       <main className="pb-16">
         {/* Hero */}
-        <section className="relative overflow-hidden bg-gradient-to-br from-teal-50 via-white to-sky-50 px-4 py-16 sm:px-6 lg:px-8 lg:py-24">
-          <div className="container mx-auto max-w-4xl text-center">
-            <div className="mb-6 inline-flex items-center gap-2 rounded-full bg-white px-4 py-2 text-sm font-medium text-teal-700 shadow-sm">
-              <BookOpen className="h-4 w-4" />
-              <span>Patient resources</span>
-            </div>
-            <h1 className="text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl lg:text-5xl">
-              Medora Health Guides
-            </h1>
-            <p className="mx-auto mt-4 max-w-2xl text-lg text-slate-600">
-              Practical, expert-reviewed guides to help international patients understand hospitals,
-              treatments, clinical trials, costs, and every step of care in China.
-            </p>
-          </div>
-        </section>
-
-        {/* Category tabs */}
-        <section className="sticky top-[132px] z-30 border-b border-slate-200 bg-white/95 backdrop-blur">
-          <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="flex gap-2 overflow-x-auto py-4">
-              {categories.map((category) => {
-                const Icon = CATEGORY_ICONS[category.slug] || BookOpen;
-                const isActive = activeCategory === category.slug;
-                return (
-                  <button
-                    key={category.slug}
-                    type="button"
-                    onClick={() => setActiveCategory(category.slug)}
-                    className={cn(
-                      "flex shrink-0 items-center gap-2 rounded-full px-4 py-2.5 text-sm font-medium transition-colors",
-                      isActive
-                        ? "bg-teal-600 text-white shadow-sm"
-                        : "bg-slate-100 text-slate-700 hover:bg-slate-200",
-                    )}
-                  >
-                    <Icon className="h-4 w-4" />
-                    {category.title}
-                  </button>
-                );
-              })}
-            </div>
-          </div>
-        </section>
-
-        {/* Guide grid */}
-        <section className="container mx-auto px-4 py-12 sm:px-6 lg:px-8">
-          <div className="mb-8 flex items-center justify-between">
-            <h2 className="text-2xl font-semibold text-slate-900">
-              {categories.find((c) => c.slug === activeCategory)?.title}
-            </h2>
-            <span className="text-sm text-slate-500">
-              {activeGuides.length} guide{activeGuides.length === 1 ? "" : "s"}
-            </span>
-          </div>
-
-          {activeGuides.length > 0 ? (
-            <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-              {activeGuides.map((guide) => (
-                <GuideCard
-                  key={guide.slug}
-                  guide={guide}
-                  categorySlug={activeCategory}
-                  locale={locale}
+        <section className="relative overflow-hidden bg-gradient-to-br from-teal-50 via-white to-sky-50 px-4 py-12 sm:px-6 lg:px-8 lg:py-16">
+          <div className="container mx-auto max-w-7xl">
+            <nav className="mb-6 flex items-center gap-2 text-sm text-slate-500" aria-label="Breadcrumb">
+              <span>{t("guides.breadcrumbHome")}</span>
+              <span aria-hidden="true">›</span>
+              <span className="font-medium text-teal-700">{t("guides.breadcrumbGuides")}</span>
+            </nav>
+            <div className="grid items-center gap-8 lg:grid-cols-2">
+              <div>
+                <h1 className="text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl lg:text-5xl">
+                  {t("guides.heroTitle")}
+                </h1>
+                <p className="mt-4 max-w-xl text-lg leading-relaxed text-slate-600">
+                  {t("guides.heroSubtitle")}
+                </p>
+              </div>
+              <div className="relative hidden h-56 overflow-hidden rounded-2xl lg:block">
+                <img
+                  src="/guides/_categories/patient-education-faq.jpg"
+                  alt=""
+                  className="h-full w-full object-cover"
                 />
-              ))}
+                <div className="absolute inset-0 bg-gradient-to-t from-teal-900/10 to-transparent" />
+              </div>
             </div>
-          ) : (
-            <div className="rounded-xl border border-slate-200 bg-slate-50 px-6 py-12 text-center">
-              <p className="text-slate-600">No guides available in this category yet.</p>
+          </div>
+        </section>
+
+        {/* Content */}
+        <section className="container mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
+          <div className="grid gap-8 lg:grid-cols-[280px_minmax(0,1fr)]">
+            {/* Sidebar */}
+            <aside className="lg:sticky lg:top-[150px] lg:self-start">
+              <div className="rounded-2xl border border-slate-200 bg-white p-5 shadow-card">
+                <h2 className="mb-4 text-base font-semibold text-slate-900">
+                  {t("guides.sidebarTitle")}
+                </h2>
+                <div className="relative mb-5">
+                  <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-slate-400" />
+                  <input
+                    type="search"
+                    value={searchQuery}
+                    onChange={(event) => setSearchQuery(event.target.value)}
+                    placeholder={t("guides.searchPlaceholder")}
+                    className="w-full rounded-lg border border-slate-200 bg-slate-50 py-2.5 pl-9 pr-3 text-sm text-slate-900 outline-none transition focus:border-teal-500 focus:bg-white focus:ring-2 focus:ring-teal-100"
+                  />
+                </div>
+
+                <h3 className="mb-3 text-xs font-semibold uppercase tracking-wide text-slate-500">
+                  {t("guides.categoriesTitle")}
+                </h3>
+                <ul className="space-y-1">
+                  {categories.map((category) => {
+                    const Icon = CATEGORY_ICONS[category.slug] || BookOpen;
+                    const isActive = activeCategory === category.slug;
+                    return (
+                      <li key={category.slug}>
+                        <button
+                          type="button"
+                          onClick={() => setActiveCategory(isActive ? null : category.slug)}
+                          className={cn(
+                            "flex w-full items-center gap-3 rounded-lg px-3 py-2.5 text-left text-sm transition-colors",
+                            isActive
+                              ? "bg-teal-50 font-semibold text-teal-700"
+                              : "text-slate-700 hover:bg-slate-50",
+                          )}
+                        >
+                          <Icon className="h-4 w-4 shrink-0" />
+                          <span className="flex-1 leading-snug">
+                            {pickLocalized(category.title, locale)}
+                          </span>
+                          <span className="text-xs text-slate-400">
+                            {categoryCounts.get(category.slug) ?? 0}
+                          </span>
+                        </button>
+                      </li>
+                    );
+                  })}
+                </ul>
+
+                <button
+                  type="button"
+                  onClick={resetFilters}
+                  className="mt-5 flex w-full items-center justify-center gap-2 rounded-lg border border-slate-200 px-4 py-2.5 text-sm font-medium text-slate-700 transition-colors hover:bg-slate-50"
+                >
+                  <RotateCcw className="h-4 w-4" />
+                  {t("guides.resetFilters")}
+                </button>
+              </div>
+            </aside>
+
+            {/* Guide list */}
+            <div>
+              <div className="mb-6 flex flex-wrap items-end justify-between gap-4">
+                <div>
+                  <h2 className="text-2xl font-semibold text-slate-900">
+                    {activeCategory
+                      ? pickLocalized(
+                          categories.find((category) => category.slug === activeCategory)?.title,
+                          locale,
+                        )
+                      : t("guides.allGuides")}
+                  </h2>
+                  <p className="mt-1 text-sm text-slate-500">
+                    {t("guides.guidesFound", { count: filteredGuides.length })}
+                  </p>
+                </div>
+                <div className="flex items-center gap-2">
+                  <label htmlFor="guides-sort" className="text-sm text-slate-500">
+                    {t("guides.sortBy")}:
+                  </label>
+                  <select
+                    id="guides-sort"
+                    value={sortBy}
+                    onChange={(event) => setSortBy(event.target.value === "title" ? "title" : "recent")}
+                    className="rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm text-slate-700 outline-none focus:border-teal-500 focus:ring-2 focus:ring-teal-100"
+                  >
+                    <option value="recent">{t("guides.sortMostRecent")}</option>
+                    <option value="title">{t("guides.sortTitle")}</option>
+                  </select>
+                </div>
+              </div>
+
+              {filteredGuides.length > 0 ? (
+                <div className="grid gap-6 md:grid-cols-2">
+                  {filteredGuides.map((guide) => (
+                    <GuideCard
+                      key={`${guide.categorySlug}/${guide.slug}`}
+                      guide={guide}
+                      categorySlug={guide.categorySlug}
+                      categoryTitle={pickLocalized(guide.categoryTitle, locale)}
+                      categoryImage={guide.categoryImage}
+                      locale={locale}
+                      updatedLabel={t("guides.updated")}
+                      minReadLabel={t("guides.minRead")}
+                      readGuideLabel={t("guides.readGuide")}
+                    />
+                  ))}
+                </div>
+              ) : (
+                <div className="rounded-2xl border border-slate-200 bg-white px-6 py-16 text-center shadow-card">
+                  <BookOpen className="mx-auto mb-4 h-10 w-10 text-slate-300" />
+                  <p className="text-slate-600">{t("guides.noGuides")}</p>
+                </div>
+              )}
             </div>
-          )}
+          </div>
         </section>
       </main>
 

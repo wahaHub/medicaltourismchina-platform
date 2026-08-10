@@ -2,7 +2,7 @@ import { useEffect, useMemo, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import { ArrowLeft, BookOpen, Calendar } from "lucide-react";
+import { ArrowLeft, BookOpen, Calendar, Clock } from "lucide-react";
 import TopBanner from "@/components/TopBanner";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
@@ -10,9 +10,41 @@ import { useLanguage } from "@/contexts/LanguageContext";
 import { setPageSeo } from "@/utils/seo";
 import guidesManifest from "@/data/guides-manifest.json";
 
-function useGuideLocale() {
+const GUIDE_LOCALES = ["en", "zh", "es", "fr", "de", "ru", "ar", "id"] as const;
+type GuideLocale = (typeof GUIDE_LOCALES)[number];
+
+interface ManifestGuide {
+  slug: string;
+  title: Record<string, string>;
+  subtitle: Record<string, string>;
+  subcategory: string;
+  excerpt: string;
+  locales: string[];
+  updatedDate: string;
+  readTimeMinutes: number;
+}
+
+interface ManifestCategory {
+  slug: string;
+  title: Record<string, string>;
+  image: string | null;
+  guides: ManifestGuide[];
+}
+
+function useDisplayLocale(): GuideLocale {
+  const { currentLanguage } = useLanguage();
+  const code = currentLanguage.code === "zh-CN" ? "zh" : currentLanguage.code;
+  return (GUIDE_LOCALES as readonly string[]).includes(code) ? (code as GuideLocale) : "en";
+}
+
+function useContentLocale(): "en" | "zh" {
   const { currentLanguage } = useLanguage();
   return currentLanguage.code === "zh" || currentLanguage.code === "zh-CN" ? "zh" : "en";
+}
+
+function pickLocalized(record: Record<string, string> | undefined, locale: string) {
+  if (!record) return "";
+  return record[locale] || record.en || record.zh || Object.values(record)[0] || "";
 }
 
 function stripHeroSection(markdown: string): string {
@@ -27,39 +59,17 @@ function stripHeroSection(markdown: string): string {
   return markdown.trim();
 }
 
-function parseHero(markdown: string) {
-  const lines = markdown.split(/\r?\n/);
-  const hero: Record<string, string> = {};
-  let inHero = false;
-  for (const line of lines) {
-    const trimmed = line.trim();
-    if (trimmed === "## Hero") {
-      inHero = true;
-      continue;
-    }
-    if (inHero && trimmed.startsWith("## ") && trimmed !== "## Hero") {
-      break;
-    }
-    if (!inHero) continue;
-    const match = trimmed.match(/^-\s*\*\*(.+?):\s*\*\*\s*(.*)$/);
-    if (match) {
-      const key = match[1].trim().toLowerCase();
-      hero[key] = match[2].trim().replace(/^`+|`+$/g, "").trim();
-    }
-  }
-  return hero;
-}
-
 export default function GuideDetail() {
   const { categorySlug, guideSlug } = useParams<{ categorySlug: string; guideSlug: string }>();
-  const { currentLanguage } = useLanguage();
-  const locale = useGuideLocale();
+  const { t } = useLanguage();
+  const displayLocale = useDisplayLocale();
+  const contentLocale = useContentLocale();
 
   const [markdown, setMarkdown] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
 
   const category = useMemo(
-    () => guidesManifest.categories.find((c) => c.slug === categorySlug),
+    () => (guidesManifest.categories as unknown as ManifestCategory[]).find((c) => c.slug === categorySlug),
     [categorySlug],
   );
   const guide = useMemo(
@@ -70,7 +80,7 @@ export default function GuideDetail() {
   useEffect(() => {
     if (!categorySlug || !guideSlug) return;
 
-    const suffix = locale === "zh" ? ".zh.md" : ".md";
+    const suffix = contentLocale === "zh" ? ".zh.md" : ".md";
     const url = `/guides/${categorySlug}/${guideSlug}${suffix}`;
 
     fetch(url)
@@ -85,25 +95,17 @@ export default function GuideDetail() {
       .catch((err) => {
         setError(err instanceof Error ? err.message : "Failed to load guide");
       });
-  }, [categorySlug, guideSlug, locale]);
+  }, [categorySlug, guideSlug, contentLocale]);
 
-  const hero = useMemo(() => (markdown ? parseHero(markdown) : {}), [markdown]);
   const displayTitle =
-    hero.title
-    || guide?.title[locale]
-    || guide?.title.en
-    || guide?.title.zh
+    pickLocalized(guide?.title, displayLocale)
     || guideSlug
     || "";
-  const displaySubtitle =
-    hero.subtitle
-    || guide?.subtitle[locale]
-    || guide?.subtitle.en
-    || guide?.subtitle.zh
-    || "";
+  const displaySubtitle = pickLocalized(guide?.subtitle, displayLocale);
+  const categoryTitle = pickLocalized(category?.title, displayLocale) || "Guide";
   const metaDescription =
-    hero["meta description"]
-    || displaySubtitle
+    displaySubtitle
+    || guide?.excerpt
     || `${displayTitle} — Medora Health patient guide`;
 
   useEffect(() => {
@@ -128,31 +130,37 @@ export default function GuideDetail() {
 
       <main className="pb-16">
         {/* Hero */}
-        <section className="bg-gradient-to-br from-teal-50 via-white to-sky-50 px-4 py-12 sm:px-6 lg:px-8 lg:py-20">
+        <section className="bg-gradient-to-br from-teal-50 via-white to-sky-50 px-4 py-12 sm:px-6 lg:px-8 lg:py-16">
           <div className="container mx-auto max-w-4xl">
             <Link
               to="/visa"
               className="mb-6 inline-flex items-center text-sm font-medium text-teal-700 hover:text-teal-800"
             >
               <ArrowLeft className="mr-1 h-4 w-4" />
-              Back to guides
+              {t("guides.backToGuides")}
             </Link>
             <div className="mb-4 inline-flex items-center gap-2 rounded-full bg-white px-3 py-1 text-xs font-semibold uppercase tracking-wide text-teal-700 shadow-sm">
               <BookOpen className="h-3.5 w-3.5" />
-              {category?.title || "Guide"}
+              {categoryTitle}
             </div>
             <h1 className="text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl lg:text-5xl">
               {displayTitle}
             </h1>
             {displaySubtitle ? (
-              <p className="mt-4 text-lg text-slate-600">{displaySubtitle}</p>
+              <p className="mt-4 text-lg leading-relaxed text-slate-600">{displaySubtitle}</p>
             ) : null}
-            {guide?.updatedDate ? (
-              <div className="mt-6 flex items-center text-sm text-slate-500">
-                <Calendar className="mr-1.5 h-4 w-4" />
-                Updated {guide.updatedDate}
-              </div>
-            ) : null}
+            <div className="mt-6 flex flex-wrap items-center gap-x-5 gap-y-2 text-sm text-slate-500">
+              {guide?.updatedDate ? (
+                <span className="inline-flex items-center gap-1.5">
+                  <Calendar className="h-4 w-4" />
+                  {t("guides.updated", { date: guide.updatedDate })}
+                </span>
+              ) : null}
+              <span className="inline-flex items-center gap-1.5">
+                <Clock className="h-4 w-4" />
+                {t("guides.minRead", { minutes: guide?.readTimeMinutes || 5 })}
+              </span>
+            </div>
           </div>
         </section>
 
@@ -166,7 +174,7 @@ export default function GuideDetail() {
                   to="/visa"
                   className="mt-4 inline-block text-sm font-medium text-rose-700 underline"
                 >
-                  Return to guides
+                  {t("guides.backToGuides")}
                 </Link>
               </div>
             ) : markdown ? (
