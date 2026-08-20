@@ -66,7 +66,7 @@ export default function Guides() {
   const [sortBy, setSortBy] = useState<"recent" | "title">("recent");
 
   useEffect(() => {
-    const metadata = getStaticPageMetadata("visa", currentLanguage.code);
+    const metadata = getStaticPageMetadata("guides", currentLanguage.code);
     setPageSeo({
       title: metadata.locale.title,
       description: metadata.locale.description,
