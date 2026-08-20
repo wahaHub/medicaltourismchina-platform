@@ -203,7 +203,7 @@ export default function GuideDetail() {
       <TopBanner />
       <Header />
 
-      <main className="pb-16">
+      <main className="pb-16 pt-[100px] sm:pt-[108px] xl:pt-[116px]">
         {/* Hero */}
         <section className="bg-gradient-to-br from-teal-50 via-white to-sky-50 px-4 py-12 sm:px-6 lg:px-8 lg:py-16">
           <div className="container mx-auto max-w-4xl">
