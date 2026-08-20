@@ -2,13 +2,15 @@ import { useEffect, useMemo, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import { ArrowLeft, BookOpen, Calendar, Clock } from "lucide-react";
+import { ArrowLeft, BadgeCheck, BookOpen, Calendar, Clock } from "lucide-react";
 import TopBanner from "@/components/TopBanner";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { setPageSeo } from "@/utils/seo";
+import { setPageSeo, SITE_ORIGIN } from "@/utils/seo";
+import { localizePathname, type SiteLocale } from "@/utils/locale-routing";
 import guidesManifest from "@/data/guides-manifest.json";
+import guidesSeoManifest from "@/data/guides-seo-manifest.json";
 
 const GUIDE_LOCALES = ["en", "zh", "es", "fr", "de", "ru", "ar", "id"] as const;
 type GuideLocale = (typeof GUIDE_LOCALES)[number];
@@ -22,6 +24,12 @@ interface ManifestGuide {
   locales: string[];
   updatedDate: string;
   readTimeMinutes: number;
+}
+
+interface GuideSeoMetadata {
+  title?: Record<string, string>;
+  description?: Record<string, string>;
+  reviewedBy?: Record<string, string>;
 }
 
 interface ManifestCategory {
@@ -50,11 +58,17 @@ function pickLocalized(record: Record<string, string> | undefined, locale: strin
 function stripHeroSection(markdown: string): string {
   const keyTakeawaysIndex = markdown.search(/^## Key Takeaways\s*$/m);
   if (keyTakeawaysIndex >= 0) {
-    return markdown.slice(keyTakeawaysIndex).trim();
+    return markdown
+      .slice(keyTakeawaysIndex)
+      .replace(/^## SEO Metadata\s*$[\s\S]*?(?=^##\s|(?![\s\S]))/m, "")
+      .trim();
   }
   const contentIndex = markdown.search(/^## Content\s*$/m);
   if (contentIndex >= 0) {
-    return markdown.slice(contentIndex).trim();
+    return markdown
+      .slice(contentIndex)
+      .replace(/^## SEO Metadata\s*$[\s\S]*?(?=^##\s|(?![\s\S]))/m, "")
+      .trim();
   }
   return markdown.trim();
 }
@@ -75,6 +89,10 @@ export default function GuideDetail() {
   const guide = useMemo(
     () => category?.guides.find((g) => g.slug === guideSlug),
     [category, guideSlug],
+  );
+  const guideSeo = useMemo(
+    () => (guidesSeoManifest.guides as Record<string, GuideSeoMetadata>)[`${categorySlug}/${guideSlug}`],
+    [categorySlug, guideSlug],
   );
 
   useEffect(() => {
@@ -104,19 +122,76 @@ export default function GuideDetail() {
   const displaySubtitle = pickLocalized(guide?.subtitle, displayLocale);
   const categoryTitle = pickLocalized(category?.title, displayLocale) || "Guide";
   const metaDescription =
-    displaySubtitle
+    guideSeo?.description?.[displayLocale]
+    || displaySubtitle
     || guide?.excerpt
     || `${displayTitle} — Medora Health patient guide`;
+  const seoTitle = guideSeo?.title?.[displayLocale] || displayTitle;
+  const reviewedBy = guideSeo?.reviewedBy?.[displayLocale]
+    || guideSeo?.reviewedBy?.en
+    || "Medora Health Editorial Team";
+  const guidePath = `/visa/${categorySlug}/${guideSlug}`;
+  const availableLocales = useMemo(
+    () => (guide?.locales || []).filter((locale): locale is SiteLocale =>
+      (GUIDE_LOCALES as readonly string[]).includes(locale)
+    ),
+    [guide?.locales],
+  );
+  const isIndexable = Boolean(guide && availableLocales.includes(displayLocale));
+  const canonicalUrl = `${SITE_ORIGIN}${localizePathname(guidePath, displayLocale)}`;
+  const structuredData = useMemo(() => {
+    if (!guide || !category || !isIndexable) return undefined;
+    const modifiedDate = guide.updatedDate.replaceAll("/", "-");
+    const categoryImage = category.image ? `${SITE_ORIGIN}${category.image}` : undefined;
+    return {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": `${canonicalUrl}#article`,
+          headline: displayTitle,
+          description: metaDescription,
+          articleSection: categoryTitle,
+          dateModified: modifiedDate,
+          inLanguage: displayLocale === "zh" ? "zh-Hans" : displayLocale,
+          isAccessibleForFree: true,
+          ...(categoryImage ? { image: categoryImage } : {}),
+          mainEntityOfPage: { "@type": "WebPage", "@id": canonicalUrl },
+          author: { "@type": "Organization", "@id": `${SITE_ORIGIN}/#organization`, name: "Medora Health" },
+          publisher: { "@type": "Organization", "@id": `${SITE_ORIGIN}/#organization`, name: "Medora Health" },
+          reviewedBy: { "@type": "Organization", name: reviewedBy },
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": `${canonicalUrl}#breadcrumb`,
+          itemListElement: [
+            { "@type": "ListItem", position: 1, name: "Medora Health", item: `${SITE_ORIGIN}/` },
+            {
+              "@type": "ListItem",
+              position: 2,
+              name: displayLocale === "zh" ? "赴华就医指南" : "Medical Travel Guides",
+              item: `${SITE_ORIGIN}${localizePathname("/guides", displayLocale)}`,
+            },
+            { "@type": "ListItem", position: 3, name: categoryTitle, item: canonicalUrl },
+          ],
+        },
+      ],
+    };
+  }, [canonicalUrl, category, categoryTitle, displayLocale, displayTitle, guide, isIndexable, metaDescription, reviewedBy]);
 
   useEffect(() => {
     setPageSeo({
-      title: `${displayTitle} | Medora Health Guides`,
+      title: seoTitle,
       description: metaDescription,
-      path: `/visa/${categorySlug}/${guideSlug}`,
-      robots: "index,follow",
-      includeAlternates: false,
+      path: guidePath,
+      image: category?.image ? `${SITE_ORIGIN}${category.image}` : undefined,
+      robots: isIndexable ? "index,follow" : "noindex,follow",
+      includeAlternates: isIndexable,
+      availableLocales,
+      ogType: isIndexable ? "article" : "website",
+      structuredData,
     });
-  }, [displayTitle, metaDescription, categorySlug, guideSlug]);
+  }, [availableLocales, category?.image, guidePath, isIndexable, metaDescription, seoTitle, structuredData]);
 
   const renderedMarkdown = useMemo(
     () => (markdown ? stripHeroSection(markdown) : ""),
@@ -133,7 +208,7 @@ export default function GuideDetail() {
         <section className="bg-gradient-to-br from-teal-50 via-white to-sky-50 px-4 py-12 sm:px-6 lg:px-8 lg:py-16">
           <div className="container mx-auto max-w-4xl">
             <Link
-              to="/visa"
+              to="/guides"
               className="mb-6 inline-flex items-center text-sm font-medium text-teal-700 hover:text-teal-800"
             >
               <ArrowLeft className="mr-1 h-4 w-4" />
@@ -160,6 +235,10 @@ export default function GuideDetail() {
                 <Clock className="h-4 w-4" />
                 {t("guides.minRead", { minutes: guide?.readTimeMinutes || 5 })}
               </span>
+              <span className="inline-flex items-center gap-1.5">
+                <BadgeCheck className="h-4 w-4" />
+                {reviewedBy}
+              </span>
             </div>
           </div>
         </section>
@@ -171,7 +250,7 @@ export default function GuideDetail() {
               <div className="rounded-xl border border-rose-200 bg-rose-50 px-6 py-12 text-center">
                 <p className="text-rose-700">{error}</p>
                 <Link
-                  to="/visa"
+                  to="/guides"
                   className="mt-4 inline-block text-sm font-medium text-rose-700 underline"
                 >
                   {t("guides.backToGuides")}

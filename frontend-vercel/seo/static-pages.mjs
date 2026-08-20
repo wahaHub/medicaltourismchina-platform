@@ -281,7 +281,7 @@ export const STATIC_PAGE_METADATA = {
     },
   },
   visa: {
-    path: "/visa",
+    path: "/guides",
     indexableLocales: ["en", "ar", "id"],
     locales: {
       en: {

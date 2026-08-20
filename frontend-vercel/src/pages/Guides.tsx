@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
+import { Link } from "react-router-dom";
 import { BookOpen, Compass, MapPin, Plane, RotateCcw, Search, ShieldCheck, Stethoscope, Wallet } from "lucide-react";
 import TopBanner from "@/components/TopBanner";
 import Header from "@/components/Header";
@@ -69,7 +70,7 @@ export default function Guides() {
     setPageSeo({
       title: metadata.locale.title,
       description: metadata.locale.description,
-      path: metadata.path,
+      path: "/guides",
       robots: metadata.indexable ? "index,follow" : "noindex,follow",
       includeAlternates: metadata.indexable,
       availableLocales: metadata.indexableLocales,
@@ -134,12 +135,14 @@ export default function Guides() {
       <TopBanner />
       <Header />
 
-      <main className="pb-16">
+      <main className="pb-16 pt-[100px] sm:pt-[108px] xl:pt-[116px]">
         {/* Hero */}
         <section className="relative overflow-hidden bg-gradient-to-br from-teal-50 via-white to-sky-50 px-4 py-12 sm:px-6 lg:px-8 lg:py-16">
           <div className="container mx-auto max-w-7xl">
             <nav className="mb-6 flex items-center gap-2 text-sm text-slate-500" aria-label="Breadcrumb">
-              <span>{t("guides.breadcrumbHome")}</span>
+              <Link to="/" className="transition-colors hover:text-teal-700">
+                {t("guides.breadcrumbHome")}
+              </Link>
               <span aria-hidden="true">›</span>
               <span className="font-medium text-teal-700">{t("guides.breadcrumbGuides")}</span>
             </nav>

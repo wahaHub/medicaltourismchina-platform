@@ -17,6 +17,7 @@ import {
   getHospitalSeoDescription,
   getHospitalSeoTitle,
 } from "../seo/hospital-metadata.mjs";
+import { makeGuidePages } from "../seo/guide-pages.mjs";
 
 const PROJECT_ROOT = path.resolve(import.meta.dirname, "..");
 const DIST_DIR = path.join(PROJECT_ROOT, "dist");
@@ -216,13 +217,14 @@ function buildAlternateTags(alternates) {
   return tags.join("\n");
 }
 
-function buildSeoShell({ heading, description, eyebrow }) {
+function buildSeoShell({ heading, description, eyebrow, contentHtml }) {
   return [
     '<main data-seo-prerender="true" class="min-h-[45vh] bg-white px-6 py-24">',
     '  <div class="mx-auto max-w-5xl">',
     eyebrow ? `    <p class="mb-4 text-sm font-semibold text-teal-700">${escapeHtml(eyebrow)}</p>` : "",
     `    <h1 class="text-4xl font-bold text-slate-950">${escapeHtml(heading)}</h1>`,
     `    <p class="mt-5 max-w-3xl text-lg leading-8 text-slate-600">${escapeHtml(description)}</p>`,
+    contentHtml ? `    ${contentHtml}` : "",
     "  </div>",
     "</main>",
   ].filter(Boolean).join("\n");
@@ -251,6 +253,11 @@ function renderHtml(baseHtml, page) {
     html,
     '<meta\\s+name=["\']description["\'][^>]*>',
     `<meta name="description" content="${escapeHtml(page.description)}" />`,
+  );
+  html = replaceMeta(
+    html,
+    '<meta\\s+property=["\']og:type["\'][^>]*>',
+    `<meta property="og:type" content="${page.ogType || "website"}" />`,
   );
   html = replaceMeta(
     html,
@@ -287,6 +294,35 @@ function renderHtml(baseHtml, page) {
     '<meta\\s+name=["\']twitter:description["\'][^>]*>',
     `<meta name="twitter:description" content="${escapeHtml(page.description)}" />`,
   );
+
+  if (page.image) {
+    html = replaceMeta(
+      html,
+      '<meta\\s+property=["\']og:image["\'][^>]*>',
+      `<meta property="og:image" content="${escapeHtml(page.image)}" />`,
+    );
+    html = replaceMeta(
+      html,
+      '<meta\\s+name=["\']twitter:image["\'][^>]*>',
+      `<meta name="twitter:image" content="${escapeHtml(page.image)}" />`,
+    );
+  }
+
+  if (page.lastmod) {
+    html = replaceMeta(
+      html,
+      '<meta\\s+property=["\']article:modified_time["\'][^>]*>',
+      `<meta property="article:modified_time" content="${escapeHtml(page.lastmod)}" />`,
+    );
+  }
+
+  if (page.structuredData) {
+    const jsonLd = JSON.stringify(page.structuredData).replaceAll("</script", "<\\/script");
+    html = html.replace(
+      "</head>",
+      `    <script id="page-structured-data" type="application/ld+json">${jsonLd}</script>\n  </head>`,
+    );
+  }
 
   return html;
 }
@@ -691,9 +727,10 @@ function buildSitemap(pages) {
     return [
       "  <url>",
       `    <loc>${escapeHtml(absoluteUrl(page.path))}</loc>`,
+      page.lastmod ? `    <lastmod>${escapeHtml(page.lastmod)}</lastmod>` : "",
       ...alternateLinks,
       "  </url>",
-    ].join("\n");
+    ].filter(Boolean).join("\n");
   });
 
   return [
@@ -715,6 +752,7 @@ async function main() {
     await fs.writeFile(DIST_BASE_INDEX, baseHtml, "utf8");
   }
   const pages = makeStaticPages();
+  pages.push(...await makeGuidePages(PROJECT_ROOT));
 
   if (REMOTE_ENABLED) {
     try {

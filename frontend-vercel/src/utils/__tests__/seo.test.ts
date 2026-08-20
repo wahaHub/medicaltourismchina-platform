@@ -12,6 +12,29 @@ afterEach(() => {
 });
 
 describe("setPageSeo", () => {
+  it("sets article metadata and replaces page-scoped structured data", () => {
+    window.history.replaceState({}, "", "/visa/cost-insurance-guides/example");
+
+    setPageSeo({
+      title: "Example medical travel guide",
+      description: "A sufficiently detailed example description for a medical travel guide page.",
+      path: "/visa/cost-insurance-guides/example",
+      availableLocales: ["en", "zh"],
+      ogType: "article",
+      structuredData: { "@context": "https://schema.org", "@type": "Article" },
+    });
+
+    expect(document.querySelector('meta[property="og:type"]')?.getAttribute("content")).toBe("article");
+    expect(document.getElementById("page-structured-data")?.textContent).toContain('"@type":"Article"');
+
+    setPageSeo({
+      title: "Another page",
+      description: "A sufficiently detailed description for a non-article page on the website.",
+      path: "/another-page",
+    });
+    expect(document.getElementById("page-structured-data")).toBeNull();
+  });
+
   it("creates a self-canonical localized URL and reciprocal language alternates", () => {
     window.history.replaceState({}, "", "/ru/telemedicine");
 

@@ -17,6 +17,7 @@ const EXTERNAL_SOURCE_DIR = path.resolve(
 
 const PUBLIC_GUIDES_DIR = path.join(PROJECT_ROOT, "public", "guides");
 const MANIFEST_PATH = path.join(PROJECT_ROOT, "src", "data", "guides-manifest.json");
+const SEO_MANIFEST_PATH = path.join(PROJECT_ROOT, "src", "data", "guides-seo-manifest.json");
 const TRANSLATIONS_PATH = path.join(PROJECT_ROOT, "src", "data", "guides-translations.json");
 
 const CATEGORY_IMAGES = {
@@ -59,6 +60,7 @@ function parseHero(markdown) {
     category: "",
     subcategory: "",
     updatedDate: "",
+    reviewedBy: "",
   };
 
   let inHero = false;
@@ -82,6 +84,7 @@ function parseHero(markdown) {
     if (key === "category") hero.category = value;
     if (key === "subcategory") hero.subcategory = value;
     if (key === "updated date") hero.updatedDate = value;
+    if (key === "reviewed by") hero.reviewedBy = value;
   }
 
   // Fallback title from first H1 if Hero title missing
@@ -91,6 +94,24 @@ function parseHero(markdown) {
   }
 
   return hero;
+}
+
+function parseSeoMetadata(markdown) {
+  const metadata = { title: "", description: "" };
+  let inSeoMetadata = false;
+  for (const line of markdown.split(/\r?\n/)) {
+    if (line.trim() === "## SEO Metadata") {
+      inSeoMetadata = true;
+      continue;
+    }
+    if (inSeoMetadata && /^##\s/.test(line.trim())) break;
+    if (!inSeoMetadata) continue;
+    const match = line.trim().match(/^[-*]\s+\*\*(Meta title|Meta description):\*\*\s*(.+)$/i);
+    if (!match) continue;
+    if (match[1].toLowerCase() === "meta title") metadata.title = match[2].trim();
+    if (match[1].toLowerCase() === "meta description") metadata.description = match[2].trim();
+  }
+  return metadata;
 }
 
 function makeExcerpt(markdown, fallback) {
@@ -233,6 +254,7 @@ async function buildManifest() {
 
   const translations = await loadTranslations();
   const categories = [];
+  const seoGuides = {};
   const categoryDirs = (await fs.readdir(PUBLIC_GUIDES_DIR, { withFileTypes: true }))
     .filter((entry) => entry.isDirectory() && !entry.name.startsWith("_"))
     .map((entry) => entry.name)
@@ -252,6 +274,7 @@ async function buildManifest() {
       const locale = isZh ? "zh" : "en";
       const markdown = await fs.readFile(path.join(categoryPath, file), "utf8");
       const hero = parseHero(markdown);
+      const seo = parseSeoMetadata(markdown);
 
       let guide = guideMap.get(base);
       if (!guide) {
@@ -270,6 +293,11 @@ async function buildManifest() {
 
       guide.title[locale] = hero.title;
       guide.subtitle[locale] = hero.subtitle;
+      const seoKey = `${categorySlug}/${base}`;
+      seoGuides[seoKey] ||= { title: {}, description: {}, reviewedBy: {} };
+      if (seo.title) seoGuides[seoKey].title[locale] = seo.title;
+      if (seo.description) seoGuides[seoKey].description[locale] = seo.description;
+      if (hero.reviewedBy) seoGuides[seoKey].reviewedBy[locale] = hero.reviewedBy;
       guide.subcategory = hero.subcategory || guide.subcategory;
       guide.updatedDate = hero.updatedDate || guide.updatedDate;
       if (!guide.locales.includes(locale)) guide.locales.push(locale);
@@ -317,6 +345,7 @@ async function buildManifest() {
   const manifest = { categories };
   await fs.mkdir(path.dirname(MANIFEST_PATH), { recursive: true });
   await fs.writeFile(MANIFEST_PATH, JSON.stringify(manifest, null, 2));
+  await fs.writeFile(SEO_MANIFEST_PATH, JSON.stringify({ guides: seoGuides }, null, 2));
   console.log(`[guides] Manifest written with ${categories.length} categories`);
 }
 

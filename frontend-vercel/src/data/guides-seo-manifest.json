@@ -1,0 +1,2686 @@
+{
+  "guides": {
+    "china-healthcare-guides/bringing-prescription-medicines-to-china-for-a-medical-trip": {
+      "title": {
+        "en": "Bringing Prescription Medicine to China",
+        "zh": "赴华就医如何携带处方药入境中国"
+      },
+      "description": {
+        "en": "Check Chinese controlled-drug rules, prepare prescriptions and diagnosis documents, declare correctly and protect medicine during a medical trip.",
+        "zh": "核对中国受管制药物规则，准备处方和诊断证明，如实申报，并在医疗旅行中安全保存处方药。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; pharmacy, customs and legal review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需完成药学、海关和法律审核"
+      }
+    },
+    "china-healthcare-guides/community-vs-tertiary-hospitals": {
+      "title": {
+        "en": "Community Health Centres vs Tertiary Hospitals in China",
+        "zh": "中国社区卫生服务中心与三级医院有什么区别"
+      },
+      "description": {
+        "en": "Learn when community care, tertiary care or emergency services may fit an international patient in China, and how referral and follow-up connect them.",
+        "zh": "了解国际患者在中国何时适合社区首诊、三级医院或急诊，以及上转、下转和后续随访如何衔接。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; healthcare-system review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需由熟悉中国医疗体系的专业人员复核"
+      }
+    },
+    "china-healthcare-guides/expert-clinics-vip-clinics-and-international-departments-explained": {
+      "title": {
+        "en": "Expert, VIP and International Clinics in China Explained",
+        "zh": "中国专家门诊、特需门诊和国际医疗部详解"
+      },
+      "description": {
+        "en": "Compare expert clinics, VIP or special-service clinics and international departments by doctor access, language support, price and included services.",
+        "zh": "从医生资历、语言支持、价格和包含服务等方面，比较中国专家门诊、特需门诊和国际医疗部。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; healthcare-system review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需由熟悉中国医疗体系的专业人员复核"
+      }
+    },
+    "china-healthcare-guides/general-vs-specialized-hospitals": {
+      "title": {
+        "en": "General vs Specialist Hospitals in China",
+        "zh": "中国综合医院与专科医院怎么选：国际患者指南"
+      },
+      "description": {
+        "en": "Compare general and specialist hospitals in China by disease expertise, comorbidity support, emergency backup and integrated care for international patients.",
+        "zh": "从专病经验、合并症、急救后备和多学科协作等方面，比较中国综合医院与专科医院。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; healthcare-system review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需由熟悉中国医疗体系的专业人员复核"
+      }
+    },
+    "china-healthcare-guides/hospital-registration-in-china-a-step-by-step-guide": {
+      "title": {
+        "en": "Hospital Registration in China: Step-by-Step",
+        "zh": "中国医院挂号：国际患者分步指南"
+      },
+      "description": {
+        "en": "Register at a Chinese hospital with the correct passport identity, department, payment and check-in steps while keeping one complete medical record.",
+        "zh": "使用正确护照身份、科室、付款和报到步骤完成中国医院挂号，并保持一份连续完整的病历。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; healthcare-system review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需由熟悉中国医疗体系的专业人员复核"
+      }
+    },
+    "china-healthcare-guides/how-international-patients-can-book-a-specialist-in-china": {
+      "title": {
+        "en": "How International Patients Can Book a Specialist in China",
+        "zh": "国际患者如何预约中国专科医生"
+      },
+      "description": {
+        "en": "Book the right Chinese specialist with consistent passport details, verified hospital channels, clear appointment scope and a complete confirmation.",
+        "zh": "使用一致的护照身份、医院官方渠道、明确的门诊范围和完整确认，预约真正匹配的中国专科医生。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; healthcare-system review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需由熟悉中国医疗体系的专业人员复核"
+      }
+    },
+    "china-healthcare-guides/how-to-choose-the-right-city-in-china-for-medical-treatment": {
+      "title": {
+        "en": "How to Choose a City in China for Medical Treatment",
+        "zh": "如何选择赴华治疗城市"
+      },
+      "description": {
+        "en": "Compare Chinese medical destinations using clinical fit, travel safety, backup care, records, total cost and follow-up—not city reputation alone.",
+        "zh": "用临床匹配、出行安全、急症后备、病历交接、总费用和回国随访比较中国就医城市，而非只看名气。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; disease-specific and travel-medicine review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需完成疾病专科与旅行医学复核"
+      }
+    },
+    "china-healthcare-guides/how-to-organize-medical-records-before-seeking-care-in-china": {
+      "title": {
+        "en": "Organise Medical Records for Care in China",
+        "zh": "赴中国就医前如何整理医疗记录"
+      },
+      "description": {
+        "en": "Build a clear clinical summary, timeline, medication list, pathology set and DICOM imaging package for review by a Chinese hospital.",
+        "zh": "为中国医院病例审核准备清晰的病情摘要、时间线、用药清单、病理资料和DICOM影像，并保持中英文证据可追溯。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; specialty-specific medical review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需按专科完成医学审核"
+      }
+    },
+    "china-healthcare-guides/how-to-prepare-for-a-remote-consultation-with-a-doctor-in-china": {
+      "title": {
+        "en": "Prepare for a Remote Consultation With a Doctor in China",
+        "zh": "如何准备与中国医生进行远程会诊"
+      },
+      "description": {
+        "en": "Prepare records, technology, interpretation and focused questions for a remote consultation with a Chinese doctor and clarify its clinical limits.",
+        "zh": "为与中国医生的远程会诊准备资料、设备、口译和聚焦问题，并明确远程意见的临床边界。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; telemedicine review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需进行远程医疗专业复核"
+      }
+    },
+    "china-healthcare-guides/how-to-request-english-language-medical-records-in-china": {
+      "title": {
+        "en": "How to Request English Medical Records in China",
+        "zh": "如何在中国申请英文病历和医疗记录"
+      },
+      "description": {
+        "en": "Learn how to obtain stamped Chinese medical records, request an English summary, organise imaging and arrange an accurate translation for care abroad.",
+        "zh": "了解如何取得中国医院盖章病历、申请英文摘要、收集DICOM影像，并为海外转诊安排准确的英文翻译。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; legal, medical-records and translation review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需完成病案管理、医学和翻译审核"
+      }
+    },
+    "china-healthcare-guides/how-to-share-ct-mri-and-other-imaging-files-with-a-chinese-hospital": {
+      "title": {
+        "en": "Share CT and MRI Files With a Chinese Hospital",
+        "zh": "如何向中国医院发送CT和MRI影像文件"
+      },
+      "description": {
+        "en": "Export complete DICOM studies, verify series, protect patient data and confirm successful import and radiology review in China.",
+        "zh": "导出完整DICOM、核对序列、保护患者隐私，并确认中国医院成功导入和完成放射科复核。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; radiology and information-security review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需完成放射科和信息安全审核"
+      }
+    },
+    "china-healthcare-guides/informed-consent-across-languages-questions-patients-should-ask": {
+      "title": {
+        "en": "Informed Consent Across Languages in China",
+        "zh": "跨语言知情同意：国际患者签字前的问题"
+      },
+      "description": {
+        "en": "Ask better questions about benefits, risks, alternatives, interpreters and plan changes before signing a Chinese hospital consent form.",
+        "zh": "在中国医院签署同意书前，问清治疗获益、风险、替代方案、口译、费用和方案改变，避免语言造成无效沟通。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; clinical, legal and language-access review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需完成临床、法律和语言服务审核"
+      }
+    },
+    "china-healthcare-guides/medical-interpretation-in-china-what-international-patients-need": {
+      "title": {
+        "en": "Medical Interpretation in China for International Patients",
+        "zh": "中国医疗口译：国际患者安全沟通指南"
+      },
+      "description": {
+        "en": "Arrange safe medical interpretation in China, distinguish interpreters from coordinators, and reduce language risk in consent, medicines and discharge.",
+        "zh": "在中国安排安全医疗口译，区分口译员与协调员，减少知情同意、用药和出院过程中的语言风险。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; language-access and clinical review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需进行语言服务与临床复核"
+      }
+    },
+    "china-healthcare-guides/medical-referrals-in-china": {
+      "title": {
+        "en": "How Medical Referrals Work in China",
+        "zh": "中国医疗转诊如何运作：国际患者实用指南"
+      },
+      "description": {
+        "en": "Understand direct booking, formal referral, hospital acceptance, record transfer, emergency transport and follow-up for international patients in China.",
+        "zh": "了解中国直接预约、正式转诊、医院接收、病历传递、急救转运和后续随访的实际流程。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; healthcare-system review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需由熟悉中国医疗体系的专业人员复核"
+      }
+    },
+    "china-healthcare-guides/pathology-and-laboratory-record-review-before-treatment-in-china": {
+      "title": {
+        "en": "Pathology and Lab Review Before Treatment in China",
+        "zh": "在中国治疗前如何复核病理和检验资料"
+      },
+      "description": {
+        "en": "Prepare pathology slides, reports, biomarkers and laboratory trends for review before treatment in China, while protecting tissue and avoiding false comparisons.",
+        "zh": "治疗前整理病理切片、报告、生物标志物和化验趋势，保护有限组织，并避免把不同实验室结果错误比较。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; pathology, laboratory medicine and treating-specialty review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需完成病理、检验医学和治疗专科审核"
+      }
+    },
+    "china-healthcare-guides/protecting-your-medical-privacy-when-sharing-records-internationally": {
+      "title": {
+        "en": "Protect Medical Privacy in Cross-Border Record Sharing",
+        "zh": "跨境分享病历时如何保护医疗隐私"
+      },
+      "description": {
+        "en": "Map every recipient, minimise records, use secure transfer and manage consent, access, metadata and deletion when sharing health data internationally.",
+        "zh": "明确每个接收方、最小化病历、使用安全传输，并管理跨境医疗数据的同意、权限、元数据和删除。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; Chinese data-protection, privacy and information-security review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需完成中国数据保护、隐私和信息安全审核"
+      }
+    },
+    "china-healthcare-guides/public-vs-private-hospitals": {
+      "title": {
+        "en": "Public vs Private Hospitals in China for International Patients",
+        "zh": "中国公立医院与私立医院怎么选：国际患者指南"
+      },
+      "description": {
+        "en": "Compare public and private hospitals in China by clinical team, access, cost, insurance, emergency backup and international-patient support.",
+        "zh": "从临床团队、预约、费用、保险、急诊后备和国际服务等方面，比较中国公立医院与私立医院。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; China healthcare-system review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需由熟悉中国医疗体系的专业人员复核"
+      }
+    },
+    "china-healthcare-guides/seeking-medical-care-in-beijing-a-guide-for-international-patients": {
+      "title": {
+        "en": "Medical Care in Beijing for International Patients",
+        "zh": "国际患者北京就医实用指南"
+      },
+      "description": {
+        "en": "A practical Beijing medical-care guide covering hospital and campus selection, English appointment routes, passports, payment, emergencies and follow-up.",
+        "zh": "北京医院与院区选择、英文预约、护照建档、付款保险、120 急救和回国随访的实用指南。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; local clinical and operations review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需由熟悉北京医院流程的临床与运营人员复核"
+      }
+    },
+    "china-healthcare-guides/seeking-medical-care-in-guangzhou-a-guide-for-international-patients": {
+      "title": {
+        "en": "Medical Care in Guangzhou for International Patients",
+        "zh": "国际患者广州就医指南"
+      },
+      "description": {
+        "en": "Use Guangzhou Health Link with a passport, verify hospitals, arrange interpretation, understand three-day follow-up and prepare for 120 emergencies.",
+        "zh": "用护照注册广州健康通、核验医院、安排口译、正确使用三天续诊，并准备广州120急救和离院交接。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; Guangzhou hospital-navigation and clinical review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需由熟悉广州医院流程的临床与运营人员复核"
+      }
+    },
+    "china-healthcare-guides/seeking-medical-care-in-shanghai-a-guide-for-international-patients": {
+      "title": {
+        "en": "Medical Care in Shanghai for International Patients",
+        "zh": "国际患者上海就医指南"
+      },
+      "description": {
+        "en": "Choose a Shanghai care pathway, book with a passport, use Suishenban safely, confirm insurance and prepare for tests, records and 120 emergencies.",
+        "zh": "选择上海就医路径、用外国护照预约随申办、确认保险直付，并提前安排检查、病历导出和120急救。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; Shanghai clinical-navigation and insurance review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需由熟悉上海就医流程和商业保险的专业人员复核"
+      }
+    },
+    "china-healthcare-guides/seeking-medical-care-in-shenzhen-a-guide-for-international-patients": {
+      "title": {
+        "en": "Medical Care in Shenzhen for International Patients",
+        "zh": "国际患者深圳就医与跨境衔接指南"
+      },
+      "description": {
+        "en": "Plan Shenzhen appointments, passport registration, Hong Kong record sharing and voucher limits, cross-boundary handover and 120 emergency care.",
+        "zh": "深圳医院预约、护照建档、香港病历互通和医疗券边界、跨境交接及120急救的实用指南。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; Shenzhen and cross-boundary care review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需完成深圳就医与跨境衔接专业复核"
+      }
+    },
+    "china-healthcare-guides/three-tier-hospital-system": {
+      "title": {
+        "en": "China’s Three-Tier Hospital System Explained",
+        "zh": "中国医院三级分级体系：一级、二级、三级和三甲的区别"
+      },
+      "description": {
+        "en": "Understand Level I, II and III hospitals in China, what tertiary Grade A means, and why international patients should compare departments as well as grades.",
+        "zh": "了解中国一级、二级和三级医院的功能，读懂“三级甲等”，并按科室、医生和配套服务为国际患者选择医院。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; healthcare-system review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需由熟悉中国医疗体系的专业人员复核"
+      }
+    },
+    "china-healthcare-guides/using-hospital-apps-and-wechat-during-medical-care-in-china": {
+      "title": {
+        "en": "Using Chinese Hospital Apps and WeChat Safely",
+        "zh": "国际患者如何使用中国医院App和微信"
+      },
+      "description": {
+        "en": "Set up a Chinese hospital app or WeChat mini-program for appointments, payment and results while avoiding identity, privacy and access problems.",
+        "zh": "了解如何通过医院App或微信小程序预约、付款和查报告，并避免护照建档、隐私及账号权限问题。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; digital-service and privacy review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需完成数字服务和隐私审核"
+      }
+    },
+    "china-healthcare-guides/what-a-medical-care-coordinator-can-and-cannot-do": {
+      "title": {
+        "en": "What a Medical Care Coordinator Can and Cannot Do",
+        "zh": "医疗协调员可以做什么、不能做什么"
+      },
+      "description": {
+        "en": "Define a medical coordinator’s role, verify fees and conflicts, protect records and keep diagnosis, consent and treatment with licensed clinicians.",
+        "zh": "了解中国医疗协调员的职责边界，核实佣金、付款、隐私和资质，并让诊断、知情同意与治疗决定回到注册临床人员手中。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; clinical-governance, contract and privacy review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需完成临床治理、合同和隐私审核"
+      }
+    },
+    "china-healthcare-guides/what-to-expect-at-a-chinese-hospital-outpatient-appointment": {
+      "title": {
+        "en": "What to Expect at a Chinese Hospital Outpatient Appointment",
+        "zh": "在中国医院看门诊会经历什么：国际患者指南"
+      },
+      "description": {
+        "en": "Follow the outpatient process in China from passport check-in and consultation to tests, payment, pharmacy, results and follow-up.",
+        "zh": "从护照签到、问诊到检查、缴费、药房、取结果和复诊，了解中国医院门诊完整流程。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; healthcare-system review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需由熟悉中国医疗体系的专业人员复核"
+      }
+    },
+    "clinical-trials-advanced-treatments/adverse-event-reporting-in-clinical-trials-a-patient-guide": {
+      "title": {
+        "en": "Clinical Trial Adverse Event Reporting: Patient Guide",
+        "zh": "临床试验不良事件怎样报告：患者指南"
+      },
+      "description": {
+        "en": "Learn what trial participants should report, the difference between severe and serious events, emergency steps, site and sponsor roles, and cross-border follow-up.",
+        "zh": "说明临床试验参与者应报告哪些事件、重度与严重的区别、急诊处理、研究者和申办者职责，以及跨境安全随访。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "clinical-trials-advanced-treatments/antibody-drug-conjugates-treatment-and-clinical-trial-questions": {
+      "title": {
+        "en": "ADC Treatment and Trials: Targets, Risks and Questions",
+        "zh": "ADC 治疗与试验：靶点、风险和提问清单"
+      },
+      "description": {
+        "en": "Evaluate an antibody-drug conjugate by its target, antibody, linker and payload, then verify China approval, trial cohort, toxicities and monitoring.",
+        "zh": "从靶点、抗体、连接子和载荷评估 ADC，并核对中国批准、试验队列、产品特有毒性和跨境监测。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "clinical-trials-advanced-treatments/artificial-intelligence-in-medical-imaging-what-patients-should-know": {
+      "title": {
+        "en": "AI in Medical Imaging: A Patient Guide",
+        "zh": "医学影像 AI：患者实用指南"
+      },
+      "description": {
+        "en": "Understand what imaging AI does, how to verify its product and evidence, false results, radiologist oversight, data privacy and records for a second opinion.",
+        "zh": "了解影像 AI 的具体任务、产品与证据核验、假阳性和假阴性、医生复核、数据隐私，以及第二意见所需资料。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "clinical-trials-advanced-treatments/bispecific-antibodies-in-cancer-care-a-patient-guide": {
+      "title": {
+        "en": "Bispecific Antibodies: Targets, Step-Up Dosing and Risks",
+        "zh": "双特异性抗体：靶点、阶梯加量与风险"
+      },
+      "description": {
+        "en": "Learn how cancer bispecific antibodies differ, including CD3 T-cell engagers, target testing, step-up dosing, CRS, infection risk and China verification.",
+        "zh": "了解不同肿瘤双特异性抗体，包括 CD3 T 细胞衔接器、靶点检测、阶梯加量、CRS、感染风险和中国路径核验。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "clinical-trials-advanced-treatments/cancer-vaccine-trials-what-the-research-is-testing": {
+      "title": {
+        "en": "Cancer Vaccine Trials: Antigens, Evidence and Manufacture",
+        "zh": "肿瘤疫苗试验：抗原、证据与制造"
+      },
+      "description": {
+        "en": "Understand treatment-vaccine trials, including prevention versus therapy, antigens, neoantigen manufacture, immune endpoints, combinations and China verification.",
+        "zh": "了解治疗性肿瘤疫苗，包括预防与治疗区别、抗原、新抗原制造、免疫终点、联合方案和中国试验核验。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "clinical-trials-advanced-treatments/car-t-cell-therapy-in-china-approved-care-vs-clinical-trials": {
+      "title": {
+        "en": "CAR-T in China: Approved Product vs Clinical Trial",
+        "zh": "中国 CAR-T：获批产品与临床试验的区别"
+      },
+      "description": {
+        "en": "Compare approved CAR-T care and clinical trials in China, including label verification, apheresis, manufacture, bridging, infusion, toxicity and follow-up.",
+        "zh": "比较中国获批 CAR-T 与临床试验，核实说明书、单采、制造、桥接、清淋、回输、CRS 神经毒性和长期随访。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "clinical-trials-advanced-treatments/cell-therapy-manufacturing-and-quality-why-it-matters": {
+      "title": {
+        "en": "Cell Therapy Manufacturing, Release and Quality"
+      },
+      "description": {
+        "en": "Understand cell collection, chain of identity, manufacturing controls, release tests, potency, OOS batches, comparability, shipping and bedside handling."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "clinical-trials-advanced-treatments/clinical-trial-costs-travel-and-follow-up-responsibilities": {
+      "title": {
+        "en": "Clinical Trial Costs, Travel and Follow-Up Abroad",
+        "zh": "临床试验费用、差旅报销与跨境随访责任"
+      },
+      "description": {
+        "en": "Plan China trial expenses by separating research, routine care, travel, complications and follow-up, with a practical cross-border responsibility checklist.",
+        "zh": "把中国临床试验费用拆成研究、常规诊疗、差旅、并发症和随访五类，并用责任矩阵规划国际患者回国交接。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "clinical-trials-advanced-treatments/clinical-trial-eligibility-why-patients-may-or-may-not-qualify": {
+      "title": {
+        "en": "Clinical Trial Eligibility and Screen Failure Explained",
+        "zh": "临床试验入组资格、筛选与筛选失败详解"
+      },
+      "description": {
+        "en": "Understand trial pre-screening, inclusion and exclusion criteria, biomarker and washout checks, screen failure, open slots and international-patient barriers.",
+        "zh": "了解临床试验预筛、入排标准、标志物与洗脱期核查、筛选失败、队列名额和国际患者实际限制。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "clinical-trials-advanced-treatments/clinical-trial-phases-explained-for-patients": {
+      "title": {
+        "en": "Clinical Trial Phases 0–IV Explained for Patients",
+        "zh": "患者看懂临床试验 0–IV 期"
+      },
+      "description": {
+        "en": "Understand Phase 0–IV, combined and adaptive trials, dose escalation, randomisation, endpoints, post-market studies and consent in China.",
+        "zh": "解释 0–IV 期、联合期、适应性设计、剂量递增、随机分组、研究终点、上市后研究和中国知情同意。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "clinical-trials-advanced-treatments/gene-therapy-in-china-approved-uses-trials-and-red-flags": {
+      "title": {
+        "en": "Gene Therapy in China: Approval, Trials and Red Flags",
+        "zh": "中国基因治疗：批准、试验与风险信号"
+      },
+      "description": {
+        "en": "Verify gene therapy in China by product, vector, genotype, NMPA route, trial registry, editing risks, long-term follow-up and red flags.",
+        "zh": "从产品、载体、基因型、NMPA 路径、试验登记、编辑风险、长期随访和红旗核实中国基因治疗。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "clinical-trials-advanced-treatments/how-to-find-a-clinical-trial-in-china": {
+      "title": {
+        "en": "How to Find a Clinical Trial in China",
+        "zh": "如何在中国寻找临床试验：注册平台与资格核实"
+      },
+      "description": {
+        "en": "Search Chinese and international trial registries, read recruitment and eligibility details, and verify a China study site before arranging travel.",
+        "zh": "学会检索中国和国际临床试验注册平台，读懂招募与入排标准，并在安排行程前向中国研究中心核实真实状态。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; clinical-research review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需完成临床研究审核"
+      }
+    },
+    "clinical-trials-advanced-treatments/how-to-verify-a-research-hospital-and-clinical-trial": {
+      "title": {
+        "en": "Verify a Chinese Research Hospital and Clinical Trial",
+        "zh": "如何核实中国研究型医院与临床试验"
+      },
+      "description": {
+        "en": "Verify a Chinese trial by matching hospital licence, institution filing, registry and protocol IDs, activated site, investigator, ethics, consent, recruiter and payments.",
+        "zh": "通过医院执业、机构备案、登记号与方案号、中心启动、研究者、伦理、同意书、招募方和付款，核实中国临床试验。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "clinical-trials-advanced-treatments/informed-consent-for-clinical-trials-in-china": {
+      "title": {
+        "en": "Clinical Trial Informed Consent in China: Patient Guide",
+        "zh": "中国临床试验知情同意：国际患者签字指南"
+      },
+      "description": {
+        "en": "Learn what a China clinical-trial consent should cover, including risks, alternatives, translation, costs, injury, withdrawal, re-consent, samples and data.",
+        "zh": "了解中国临床试验知情同意应涵盖的风险、替代方案、翻译、费用、研究损害、退出、再次同意、样本和数据授权。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "clinical-trials-advanced-treatments/liquid-biopsy-in-cancer-care-uses-limits-and-clinical-trials": {
+      "title": {
+        "en": "Liquid Biopsy in Cancer: Uses, Limits and Trials",
+        "zh": "肿瘤液体活检：用途、局限与试验"
+      },
+      "description": {
+        "en": "Understand ctDNA liquid biopsy for advanced cancer, MRD, monitoring and screening, including false negatives, clonal haematopoiesis, tissue confirmation and trials.",
+        "zh": "了解 ctDNA 用于晚期肿瘤、MRD、疗效监测和筛查的边界，包括假阴性、克隆性造血、组织复核和临床试验。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "clinical-trials-advanced-treatments/long-term-follow-up-after-cell-or-gene-therapy": {
+      "title": {
+        "en": "Long-Term Follow-Up After Cell or Gene Therapy"
+      },
+      "description": {
+        "en": "Plan product-specific follow-up for disease response, immune recovery, delayed toxicity, malignancy, pregnancy, reporting, records and cross-border care."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "clinical-trials-advanced-treatments/mr-guided-radiotherapy-how-real-time-imaging-supports-treatment": {
+      "title": {
+        "en": "MR-Guided Radiotherapy: Real-Time Imaging and Adaptation",
+        "zh": "MR 引导放疗：实时成像与在线自适应"
+      },
+      "description": {
+        "en": "Learn how MR-guided radiotherapy uses setup imaging, cine MRI, gating and online adaptation, plus evidence, MR safety, session burden, QA and records.",
+        "zh": "了解 MR 引导放疗的每日定位、电影式 MRI、门控和在线自适应，以及临床证据、MR 安全、治疗时长、质控和病历。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "clinical-trials-advanced-treatments/oncolytic-virus-therapy-trials-evidence-risks-and-eligibility": {
+      "title": {
+        "en": "Oncolytic Virus Trials: Eligibility, Shedding and Evidence",
+        "zh": "溶瘤病毒试验：入组、脱落风险与证据"
+      },
+      "description": {
+        "en": "Evaluate oncolytic-virus trials by viral platform, delivery route, injectable lesions, evidence, infection and shedding risks, imaging and China trial status.",
+        "zh": "按病毒平台、给药途径、可注射病灶、证据、感染与脱落风险、影像变化和中国试验状态评估溶瘤病毒研究。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "clinical-trials-advanced-treatments/precision-oncology-trials-in-china-biomarkers-and-matching": {
+      "title": {
+        "en": "Precision Oncology Trials in China: Biomarker Matching",
+        "zh": "中国精准肿瘤临床试验：标志物匹配指南"
+      },
+      "description": {
+        "en": "Learn how tissue, liquid biopsy, exact variants, evidence tiers and master-protocol cohorts determine credible biomarker trial matches in China.",
+        "zh": "了解组织、液体活检、具体变异、证据等级和主方案队列怎样共同决定中国肿瘤临床试验的可信匹配。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "clinical-trials-advanced-treatments/proton-and-carbon-ion-therapy-in-china-a-patient-guide": {
+      "title": {
+        "en": "Proton and Carbon-Ion Therapy in China: Patient Guide",
+        "zh": "中国质子与碳离子治疗：患者指南"
+      },
+      "description": {
+        "en": "Compare proton, carbon-ion and photon plans in China by evidence, range and RBE uncertainty, centre licensing, quality control, side effects, records and cost.",
+        "zh": "按临床证据、射程与 RBE 不确定性、中心许可和质控、副作用、病历及费用，比较中国质子、碳离子和光子计划。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "clinical-trials-advanced-treatments/regenerative-medicine-claims-questions-patients-should-ask": {
+      "title": {
+        "en": "Regenerative Medicine Claims: Nine Questions to Ask"
+      },
+      "description": {
+        "en": "Test regenerative-medicine claims by product identity, measurable outcomes, Chinese authority, clinical evidence, quality, risk, conflicts and records."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "clinical-trials-advanced-treatments/robotic-surgery-in-china-benefits-limits-and-surgeon-experience": {
+      "title": {
+        "en": "Robotic Surgery in China: Evidence and Surgeon Experience",
+        "zh": "中国机器人手术：证据、局限与主刀经验"
+      },
+      "description": {
+        "en": "Evaluate robotic surgery in China by procedure-specific evidence, surgeon and team experience, conversion planning, device limits, records and full cost.",
+        "zh": "按具体术式证据、主刀及团队经验、中转预案、设备局限、手术记录和完整费用，判断中国机器人辅助手术。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "clinical-trials-advanced-treatments/stem-cell-treatment-how-to-distinguish-evidence-from-marketing": {
+      "title": {
+        "en": "Stem Cell Treatment: Evidence, Approval and Red Flags"
+      },
+      "description": {
+        "en": "Check stem-cell treatment claims by product identity, Chinese regulatory route, disease-specific evidence, batch quality, risks, costs and follow-up."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "clinical-trials-advanced-treatments/tcr-t-cell-therapy-trials-what-patients-should-understand": {
+      "title": {
+        "en": "TCR-T Trials: HLA Matching, Eligibility and Risks",
+        "zh": "TCR-T 试验：HLA 匹配、入组与风险"
+      },
+      "description": {
+        "en": "Understand TCR-T trial matching, including HLA and tumour targets, screening, cell manufacture, cross-reactivity risks, China verification and follow-up.",
+        "zh": "了解 TCR-T 试验中的 HLA 与肿瘤靶点匹配、筛查、细胞制造、交叉反应风险、中国项目核验及回国随访。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "clinical-trials-advanced-treatments/what-happens-after-a-clinical-trial-ends-post-trial-access-and-follow-up": {
+      "title": {
+        "en": "After a Clinical Trial Ends: Access and Follow-Up",
+        "zh": "临床试验结束后：继续用药与随访指南"
+      },
+      "description": {
+        "en": "Understand trial end dates, post-trial access routes, final records, long-term safety follow-up, costs, unblinding, results and cross-border clinical handover.",
+        "zh": "说明试验结束的不同节点、继续获得干预的路径、退出资料、长期安全随访、费用、揭盲、研究结果和跨境医疗交接。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "cost-insurance-guides/budgeting-for-flights-and-accommodation-during-medical-travel": {
+      "title": {
+        "en": "China Medical Travel Flight and Accommodation Budget",
+        "zh": "赴华医疗机票与住宿预算：把延期和改签算进去"
+      },
+      "description": {
+        "en": "Budget China medical travel with clinical date ranges, flexible flights, phased lodging, patient and companion costs, and extension scenarios.",
+        "zh": "按临床日期范围、灵活机票、分阶段住宿、患者与陪同者双线费用，以及延期情景规划赴华医疗出行预算。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "cost-insurance-guides/building-a-contingency-budget-for-medical-travel": {
+      "title": {
+        "en": "Contingency Budget for China Medical Travel",
+        "zh": "赴华医疗应急预算：按失败情景准备资金"
+      },
+      "description": {
+        "en": "Fund clinical, complication, insurance, travel, companion and payment failure branches with triggers, deadlines and usable liquidity.",
+        "zh": "为临床、并发症、保险、出行、陪同和支付失败分支设置触发点、截止时间和真正可用的流动资金。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "cost-insurance-guides/comparing-treatment-quotes-from-hospitals-in-china": {
+      "title": {
+        "en": "Compare Treatment Quotes from Hospitals in China"
+      },
+      "description": {
+        "en": "Normalize clinical scope, hospital resources, contingencies, service channels and patient payment before comparing China hospital quotes."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "cost-insurance-guides/currency-cards-and-hospital-payment-methods-in-china": {
+      "title": {
+        "en": "Paying a China Hospital: Cards, Currency and Transfers",
+        "zh": "中国医院付款：银行卡、人民币与银行转账"
+      },
+      "description": {
+        "en": "Verify China hospital card, wallet, cash and bank-transfer routes; control currency conversion, patient credit, medical receipts and refunds.",
+        "zh": "核实中国医院银行卡、钱包、现金和银行转账路径，控制汇兑、患者入账、医疗票据及退款。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "cost-insurance-guides/direct-billing-vs-pay-and-claim-at-chinese-hospitals": {
+      "title": {
+        "en": "Direct Billing vs Pay-and-Claim at Chinese Hospitals"
+      },
+      "description": {
+        "en": "Compare direct billing and reimbursement in China by cash exposure, provider choice, guarantees, claim documents, fallback and duplicate-payment control."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "cost-insurance-guides/documents-needed-for-overseas-insurance-reimbursement": {
+      "title": {
+        "en": "Documents for Overseas Insurance Reimbursement After China Care"
+      },
+      "description": {
+        "en": "Build a China treatment claim file linking identity, authorization, medical necessity, delivered care, charges, receipts, payment and translation."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "cost-insurance-guides/does-international-health-insurance-cover-treatment-in-china": {
+      "title": {
+        "en": "Does International Health Insurance Cover China Treatment?"
+      },
+      "description": {
+        "en": "Test international insurance for planned China treatment across geography, diagnosis, service, hospital, authorization, direct billing and claim limits."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "cost-insurance-guides/estimating-recovery-accommodation-after-treatment": {
+      "title": {
+        "en": "Recovery Accommodation After Treatment in China",
+        "zh": "赴华治疗后康复住宿要订多久"
+      },
+      "description": {
+        "en": "Estimate China recovery lodging by discharge, nonclinical recovery and travel-readiness criteria; verify room, support, route and extension costs.",
+        "zh": "按出院、非医疗住宿恢复和适合返程三道门槛估算赴华治疗后的住宿，核实房间、支持、路线和延期成本。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "cost-insurance-guides/financial-questions-to-ask-before-signing-a-treatment-agreement": {
+      "title": {
+        "en": "23 Questions Before Signing a China Treatment Agreement",
+        "zh": "签署赴华治疗协议前必问的 23 个财务问题"
+      },
+      "description": {
+        "en": "Ask who is paid, what changes the price, who approves overruns, how refunds work and which receipts support a claim before signing for treatment in China.",
+        "zh": "签署赴华治疗协议前，问清收款主体、调价条件、追加审批、退款流程以及支持理赔的正式票据。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "cost-insurance-guides/hospital-deposits-final-payments-and-refunds-explained": {
+      "title": {
+        "en": "China Hospital Deposits, Final Payments and Refunds"
+      },
+      "description": {
+        "en": "Track China hospital deposits, top-ups, settlement and refunds with payment identities, transaction states, corrected receipts and arrival proof."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "cost-insurance-guides/how-to-avoid-misleading-medical-tourism-price-claims": {
+      "title": {
+        "en": "How to Test Misleading Medical Tourism Price Claims",
+        "zh": "怎样核验误导性的医疗旅游价格宣传"
+      },
+      "description": {
+        "en": "Take apart “from,” “save 70%,” “all-inclusive,” success-rate and quick-recovery claims before paying for medical travel to China.",
+        "zh": "付款前拆解“低至”“节省 70%”“全包”、成功率和快速恢复宣传，并向实际治疗医院重建报价。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "cost-insurance-guides/how-to-request-an-itemized-treatment-estimate-in-china": {
+      "title": {
+        "en": "How to Request an Itemized Treatment Estimate in China",
+        "zh": "如何向中国医院索取分项治疗费用估算"
+      },
+      "description": {
+        "en": "Ask a Chinese hospital for treatment assumptions, quantities, exclusions, deposits and change triggers so you can compare estimates and prepare insurance claims.",
+        "zh": "要求中国医院写明治疗假设、数量、除外项、押金和价格变化条件，以便比较估算并准备保险理赔。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; financial and clinical review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需完成费用与临床审核"
+      }
+    },
+    "cost-insurance-guides/interpreter-and-patient-coordinator-fees-in-china": {
+      "title": {
+        "en": "Medical Interpreter and Coordinator Fees in China",
+        "zh": "中国医疗口译与患者协调费用怎么比较"
+      },
+      "description": {
+        "en": "Compare China medical interpreter, translation and patient coordinator fees by role, qualification, booking unit, waiting, overtime, privacy and conflict.",
+        "zh": "按角色、资质、起订时长、等候、加班、隐私和利益冲突，比较中国医疗口译、笔译及患者协调费用。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "cost-insurance-guides/medical-tourism-complication-insurance-what-to-review": {
+      "title": {
+        "en": "Medical Tourism Complication Insurance: A Coverage Stress Test",
+        "zh": "医疗旅行并发症保险：六类真实情景核对方法"
+      },
+      "description": {
+        "en": "Review complication definitions, exclusions, time windows, treatment limits, emergency payment, evacuation and delayed care after medical travel.",
+        "zh": "核对并发症定义、除外、保障期限、治疗限额、急救付款、医疗转运及回国后延迟照护责任。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "cost-insurance-guides/planning-food-local-transport-and-companion-costs": {
+      "title": {
+        "en": "Food, Transport and Companion Costs for China Medical Travel",
+        "zh": "赴华医疗餐饮、交通和陪同费用怎么预算"
+      },
+      "description": {
+        "en": "Budget meals, door-to-door local transport and companion workload for clinic, inpatient, recovery and disruption days during China medical travel.",
+        "zh": "按门诊、住院、恢复和突发四种日型，规划赴华医疗的餐饮、门到门交通和陪同者任务与成本。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "cost-insurance-guides/planning-for-unexpected-complications-and-extended-stays": {
+      "title": {
+        "en": "Extended Medical Stay in China: Complication Playbook",
+        "zh": "赴华治疗延期停留：并发症现场运行手册"
+      },
+      "description": {
+        "en": "Coordinate clinical escalation, medicines, records, China visa timing, accommodation, companions, payments and return travel when treatment runs long.",
+        "zh": "治疗延期后，同步管理临床升级、用药、病历、中国停留期限、住宿、陪同、付款和返程交接。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "cost-insurance-guides/preauthorization-for-medical-treatment-in-china": {
+      "title": {
+        "en": "Preauthorization for Treatment in China: A Practical Workflow",
+        "zh": "赴华治疗预授权：从申请、部分批准到方案变更"
+      },
+      "description": {
+        "en": "Match China treatment, provider, dates and costs to written insurer approval; manage partial decisions, amendments, guarantees and denials.",
+        "zh": "逐项核对赴华治疗、医院、日期和费用与保险书面批准，处理部分批准、付款担保、方案修订和拒绝原因。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "cost-insurance-guides/refund-and-cancellation-policies-for-medical-travel": {
+      "title": {
+        "en": "Medical Travel Refunds: Cancellation and Tracking Guide",
+        "zh": "赴华医疗退款：取消、结算与银行追踪指南"
+      },
+      "description": {
+        "en": "Map hospital, flight and lodging policies, classify why care stopped, calculate deductions and track a China medical travel refund into the bank.",
+        "zh": "分开医院、航班和住宿规则，记录治疗停止原因，复算扣款，并把赴华医疗退款从批准追到银行实际入账。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "cost-insurance-guides/understanding-hospital-bills-in-china": {
+      "title": {
+        "en": "Understanding Hospital Bills in China | Charges and Receipts"
+      },
+      "description": {
+        "en": "Read a China hospital bill by reconciling deposits, item codes, quantities, clinical records, final settlement, electronic receipts and refunds."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "cost-insurance-guides/why-a-medical-cost-estimate-may-change-after-evaluation": {
+      "title": {
+        "en": "Why a China Medical Cost Estimate Changes After Evaluation"
+      },
+      "description": {
+        "en": "Audit a revised China treatment estimate by linking new findings to clinical decisions, added or removed services, consent and patient payment."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "hospital-guides/choosing-a-hospital-in-beijing-specialties-access-and-travel": {
+      "title": {
+        "en": "Choosing a Hospital in Beijing: Specialty, Campus and Travel",
+        "zh": "怎样选择北京医院：专科、院区与行程"
+      },
+      "description": {
+        "en": "A practical method for international patients to choose a Beijing hospital by specialty fit, exact campus, booking route, geography, payment and safe return planning.",
+        "zh": "国际患者按专科匹配、实际院区、挂号渠道、地理位置、付款和安全返程选择北京医院的实用方法。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/choosing-a-hospital-in-chengdu-specialties-access-and-travel": {
+      "title": {
+        "en": "Choosing a Chengdu Hospital: Campuses, Airports, and Recovery",
+        "zh": "成都选院指南：院区、两座机场与康复半径"
+      },
+      "description": {
+        "en": "Choose a Chengdu hospital by verifying case review, doctor and campus, passport and language workflow, Tianfu or Shuangliu access, recovery radius, emergency care, and onward altitude travel.",
+        "zh": "从病例审阅、医生和院区核验、护照与语言流程，到天府或双流交通、康复半径、急救及后续高原旅行，系统规划成都就医。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/choosing-a-hospital-in-guangzhou-specialties-access-and-travel": {
+      "title": {
+        "en": "Choosing a Hospital in Guangzhou: Campus and Travel",
+        "zh": "怎样选择广州医院：院区与湾区交通"
+      },
+      "description": {
+        "en": "Choose a Guangzhou hospital by verified team, campus, passport access, emergency backup, Baiyun airport or rail route, cross-border risk and discharge handoff.",
+        "zh": "从团队、院区、护照建档、急救后备、白云机场或高铁、跨境风险及出院交接规划广州就医。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/choosing-a-hospital-in-hainan-specialties-access-and-recovery": {
+      "title": {
+        "en": "Choosing a Hainan Hospital: Lecheng Access and Safe Recovery",
+        "zh": "海南选院指南：乐城特许药械与安全康复"
+      },
+      "description": {
+        "en": "Choose Hainan care by separating city and campus, ordinary approval from Lecheng special access and research, island transport, emergency escalation, costs, and measurable recovery.",
+        "zh": "从城市和院区、常规批准与乐城特许及研究区别，到海岛交通、急救升级、费用和可量化康复，系统核实海南就医方案。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/choosing-a-hospital-in-hangzhou-specialties-access-and-travel": {
+      "title": {
+        "en": "Choosing a Hospital in Hangzhou: Campuses, Digital Access, and Travel",
+        "zh": "怎样选择杭州医院：院区、数字入口与就医交通"
+      },
+      "description": {
+        "en": "Choose a Hangzhou hospital with three proofs and a real-world test covering case acceptance, campus, passport systems, international service, transport, emergency care, and follow-up.",
+        "zh": "用三级证明和一次真实演练核实杭州医院的病例接收、实际院区、护照系统、国际服务、交通、急救和随访责任。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/choosing-a-hospital-in-nanjing-specialties-access-and-travel": {
+      "title": {
+        "en": "Choosing a Hospital in Nanjing: Campuses, Passport Booking, and Travel",
+        "zh": "怎样选择南京医院：院区、护照挂号与就医交通"
+      },
+      "description": {
+        "en": "Choose a Nanjing hospital by mapping clinical dependencies, campuses, 12320 passport booking, interpretation, river crossings, operating gateways, emergency care, and discharge.",
+        "zh": "通过临床依赖图核验南京医院的院区、12320 护照预约、医疗口译、过江路线、现有交通入口、急救和出院责任。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/choosing-a-hospital-in-shanghai-specialties-access-and-travel": {
+      "title": {
+        "en": "Choosing a Hospital in Shanghai: Campus, Access and Travel",
+        "zh": "怎样选择上海医院：院区、服务与行程"
+      },
+      "description": {
+        "en": "Build a safe Shanghai medical route by verifying the specialty team, exact campuses, international service, passport identity, payment, airports and discharge handoff.",
+        "zh": "从专科团队、实际院区、国际服务、护照身份、保险付款、两场交通和出院交接规划上海就医路径。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/choosing-a-hospital-in-shenzhen-specialties-access-and-travel": {
+      "title": {
+        "en": "Choosing a Hospital in Shenzhen: Clinical Fit and Cross-border Boundaries",
+        "zh": "怎样选择深圳医院：临床匹配与深港边界"
+      },
+      "description": {
+        "en": "Choose a Shenzhen hospital by verifying the clinical owner, legal campus, passport and data chain, deep-border policy limits, travel route, emergency backup, and discharge handoff.",
+        "zh": "从临床责任、法定院区、护照建档、病历数据、深港政策边界、入城交通、急救后备和出院交接八方面选择深圳医院。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/choosing-a-hospital-in-tianjin-specialties-access-and-travel": {
+      "title": {
+        "en": "Choosing a Hospital in Tianjin: Campuses, Travel, and Beijing Referrals",
+        "zh": "怎样选择天津医院：院区、交通与北京转诊边界"
+      },
+      "description": {
+        "en": "Choose a Tianjin hospital by verifying the specialty team, exact campus, recovery base, Beijing referral limits, passport access, transport, emergency backup, and discharge responsibility.",
+        "zh": "从专科团队、实际院区、康复驻点、北京转诊边界、护照渠道、交通、急救后备和出院责任八方面选择天津医院。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/choosing-a-hospital-in-wuhan-specialties-access-and-travel": {
+      "title": {
+        "en": "Choosing a Wuhan Hospital: Campuses, Stations, and Four Clocks",
+        "zh": "武汉选院指南：院区、车站与四只时钟"
+      },
+      "description": {
+        "en": "Choose a Wuhan hospital by aligning clinical, specimen, travel, and recovery timing across exact campuses, three-town geography, rail and airport gateways, language, insurance, and emergency care.",
+        "zh": "同时管理临床、标本、通行和康复时间，核实武汉具体院区、三镇地理、机场铁路、语言、保险及急诊路径。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/discharge-coordination-and-overseas-follow-up-from-a-chinese-hospital": {
+      "title": {
+        "en": "Discharge and Overseas Follow-Up from a Chinese Hospital",
+        "zh": "从中国医院出院与海外随访：病历、药物与适航"
+      },
+      "description": {
+        "en": "Close a China hospital discharge safely with medication reconciliation, source records, pending-result ownership, fitness-to-travel review and confirmed home-clinician handoff.",
+        "zh": "通过药物核对、源病历、待出结果责任、旅行评估和回国医生确认，安全完成中国医院跨境出院。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/hospital-insurance-billing-and-payment-support-for-foreign-patients": {
+      "title": {
+        "en": "China Hospital Insurance and Billing for Foreign Patients",
+        "zh": "中国医院外国患者保险、直付、押金和票据"
+      },
+      "description": {
+        "en": "Manage Chinese hospital costs by reconciling hospital charges, insurer authorisations and patient payments, including direct billing, deposits, itemisation, receipts and claims.",
+        "zh": "通过核对医院收费、保险授权和患者付款，管理中国医院直付、押金、费用明细、正式票据与理赔资料。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/hospital-quality-signals-international-patients-should-review": {
+      "title": {
+        "en": "Hospital Quality Signals International Patients Should Review",
+        "zh": "国际患者真正值得核实的医院质量信号"
+      },
+      "description": {
+        "en": "A practical method to evaluate Chinese hospitals using team fit, defined outcomes, rescue capability, safety systems, records and cross-border follow-up.",
+        "zh": "从团队匹配、结果口径、并发症救治、安全系统、病历与跨境随访判断中国医院质量的实用方法。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/how-to-choose-a-cancer-hospital-in-china": {
+      "title": {
+        "en": "How to Choose a Cancer Hospital in China: Full-chain Audit",
+        "zh": "怎样选择中国肿瘤医院：完整治疗链审核"
+      },
+      "description": {
+        "en": "Choose a China cancer centre by auditing pathology, staging, MDT decisions, surgery, drugs, radiation, quality metrics, emergency support, trials, costs, and cross-border follow-up.",
+        "zh": "从病理、分期、MDT、手术、药物、放疗和质量指标，到急救、临床试验、费用与跨境随访，审核中国肿瘤中心完整能力链。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/how-to-choose-a-fertility-center-in-china": {
+      "title": {
+        "en": "Choosing a Fertility Centre in China: IVF Quality and Data",
+        "zh": "怎样选择中国生殖中心：IVF 实验室、成功率与费用"
+      },
+      "description": {
+        "en": "Verify a Chinese fertility centre’s authorised technology, eligibility rules, IVF laboratory chain, comparable live-birth data, add-ons, full costs, and cross-border follow-up.",
+        "zh": "核实中国生殖中心获批技术和适用资格，比较 IVF 实验室身份链、可比活产数据、附加项目、完整费用与跨境随访。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/how-to-choose-a-heart-hospital-or-cardiology-center-in-china": {
+      "title": {
+        "en": "Choosing a Heart Hospital in China: Team, Rescue, Quality",
+        "zh": "怎样选择中国心脏医院：团队、救治与质量"
+      },
+      "description": {
+        "en": "Choose a China heart centre by matching the cardiac pathway, verifying the team and 24-hour rescue, comparing treatment alternatives and quality data, and securing implant and follow-up records.",
+        "zh": "按心脏路径选择中国心脏中心，核实团队和 24 小时救治，比较方案与质量数据，并取得植入物、康复和回国随访记录。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/how-to-choose-a-hospital-in-china-a-guide-for-international-patients": {
+      "title": {
+        "en": "How International Patients Can Choose a Hospital in China",
+        "zh": "国际患者如何选择中国医院：核实与比较方法"
+      },
+      "description": {
+        "en": "Verify a Chinese hospital, match the right department and specialist, and compare clinical support, language, costs, complications and follow-up.",
+        "zh": "核实中国医院和科室，匹配具体医生，并比较临床支持、语言、费用、并发症处理和回国随访。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; clinical review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需完成临床审核"
+      }
+    },
+    "hospital-guides/how-to-choose-a-rehabilitation-hospital-in-china": {
+      "title": {
+        "en": "Choosing a Rehabilitation Hospital in China: 24-hour Care",
+        "zh": "怎样选择中国康复医院：全天护理、功能与出院"
+      },
+      "description": {
+        "en": "Compare China rehabilitation hospitals by condition fit, measurable function, 24-hour nursing, delivered therapy, safety, caregiver training and discharge handoff.",
+        "zh": "按病种能力、可测功能、全天康复护理、实际课时、安全、家属训练和出院交接比较中国康复医院。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/how-to-choose-an-orthopedic-or-spine-hospital-in-china": {
+      "title": {
+        "en": "Choosing an Orthopaedic or Spine Hospital in China",
+        "zh": "怎样选择中国骨科或脊柱医院：功能、团队与康复"
+      },
+      "description": {
+        "en": "Choose a China orthopaedic or spine centre by matching diagnosis to function, verifying the team and campus, comparing outcomes and implants, and planning rehabilitation and return travel.",
+        "zh": "按诊断与功能目标选择中国骨科或脊柱中心，核实团队和院区，比较结局与植入物，并提前安排康复和返程。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/how-to-compare-hospital-second-opinions-in-china": {
+      "title": {
+        "en": "Compare Hospital Second Opinions in China",
+        "zh": "怎样比较中国医院的不同第二诊疗意见"
+      },
+      "description": {
+        "en": "Compare Chinese hospital opinions using the same records, a reasoning matrix, absolute risks, targeted adjudication, capability checks and cross-border feasibility.",
+        "zh": "用同一病历、推理矩阵、绝对风险、针对性裁决、能力核验和跨境可执行性比较中国医院意见。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/how-to-verify-a-hospital-department-and-doctor-in-china": {
+      "title": {
+        "en": "Verify a Chinese Hospital, Department and Doctor",
+        "zh": "怎样核实中国医院、科室和医生"
+      },
+      "description": {
+        "en": "Verify a Chinese hospital licence and campus, department scope, doctor registration and appointment, procedure authorisation, records review, payment and communication channel.",
+        "zh": "核实中国医院许可和院区、科室范围、医师注册与任职、手术授权、病历审阅、付款和官方沟通渠道。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/international-patient-admission-services-in-chinese-hospitals": {
+      "title": {
+        "en": "International Patient Admission in China: Four Confirmations",
+        "zh": "中国医院国际患者入院：临床、床位、身份与付款"
+      },
+      "description": {
+        "en": "Plan Chinese hospital admission by confirming clinical acceptance, campus and bed, passport identity, payment ownership, interpretation, records and discharge handoff.",
+        "zh": "通过临床接收、院区床位、护照实名和付款责任四项确认，规划中国医院国际患者入院、口译、病历与出院交接。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/language-support-and-english-medical-records-at-chinese-hospitals": {
+      "title": {
+        "en": "Language Support and English Records at Chinese Hospitals",
+        "zh": "中国医院语言支持与英文病历：口译、源件和交接"
+      },
+      "description": {
+        "en": "Verify medical interpretation, Chinese source records and clinically reviewed English handoffs at Chinese hospitals, including consent, medicines, DICOM, privacy and corrections.",
+        "zh": "核实中国医院医学口译、中文源病历和临床复核英文交接，包括同意、用药、DICOM、隐私与纠错。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/private-rooms-vip-wards-and-international-clinics-explained": {
+      "title": {
+        "en": "Private Rooms, VIP Wards and International Clinics in China",
+        "zh": "中国医院单人房、VIP 病区与国际门诊怎么比较"
+      },
+      "description": {
+        "en": "Compare Chinese private rooms, VIP wards and international clinics by physical space, service channel, clinical capability, nursing, emergency backup, price and insurance.",
+        "zh": "从物理空间、服务渠道、临床能力、护理、急救、价格与保险比较中国医院单人房、VIP 病区和国际门诊。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "hospital-guides/what-makes-a-strong-international-medical-department": {
+      "title": {
+        "en": "What Makes a Strong International Medical Department?",
+        "zh": "怎样判断中国医院国际医疗部是否可靠"
+      },
+      "description": {
+        "en": "Evaluate international hospital services by clinical ownership, interpretation, records, emergency escalation, medication safety, pricing, privacy and discharge handover.",
+        "zh": "从临床责任、医疗口译、病历、紧急升级、用药安全、费用、隐私和出院交接评价国际患者服务。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/antibiotics-why-they-are-not-needed-for-every-infection": {
+      "title": {},
+      "description": {
+        "en": "Learn why fever or green mucus does not prove a bacterial infection, when urgent antibiotics are needed, and how cultures, review dates and source control guide treatment.",
+        "zh": "发热或黄绿色鼻涕为何不能确认细菌感染？本文说明何时应紧急用抗菌药，以及培养、复评时间和感染源控制如何决定治疗。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/biopsy-and-pathology-review-why-results-may-differ": {
+      "title": {
+        "en": "Different Pathology Reports: How to Reconcile the Diagnosis",
+        "zh": "两份病理报告不同：如何复核并统一诊断"
+      },
+      "description": {
+        "en": "Understand sampling, tissue processing, stains, molecular tests and tumor heterogeneity, and safely transfer slides/blocks for pathology review.",
+        "zh": "解释取样、组织处理、染色、分子检测和肿瘤异质性，并安全借调玻片蜡块完成病理复核。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/blood-clot-prevention-during-and-after-medical-travel": {
+      "title": {},
+      "description": {
+        "en": "Connect surgical DVT and PE prevention with long flights and transfers: risk assessment, walking, compression, anticoagulants, fit-to-travel decisions and emergency symptoms."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "patient-education-faq/blood-tests-before-treatment-common-questions-answered": {
+      "title": {
+        "en": "Blood Tests Before Treatment: Fasting, Repeats and Results",
+        "zh": "治疗前验血：空腹、重抽和异常结果怎么理解"
+      },
+      "description": {
+        "en": "Understand CBC, chemistry and clotting tests, fasting and medicines, overseas report reuse, redraws and what an abnormal result changes.",
+        "zh": "解释血常规、生化和凝血检查，空腹与用药、境外报告复用、标本重抽，以及异常值如何改变治疗决定。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/blood-transfusion-safety-consent-testing-and-alternatives": {
+      "title": {},
+      "description": {
+        "en": "Understand blood components, when transfusion is needed, consent, blood typing and crossmatching, reaction warning signs and patient blood-management alternatives."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "patient-education-faq/building-a-personal-medical-travel-safety-plan": {
+      "title": {},
+      "description": {
+        "en": "Build a medical-travel risk register, decision gates, emergency contacts, records, medicine contingencies, insurance and recovery backups.",
+        "zh": "制作医疗出行风险表、决策闸门、急救联系人、病历、药物预案、保险和康复后备路径。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/chest-pain-while-traveling-why-immediate-local-care-matters": {
+      "title": {
+        "en": "Chest Pain While Traveling: Call Local Emergency Care",
+        "zh": "旅行途中胸痛：立即呼叫当地急救"
+      },
+      "description": {
+        "en": "Stop travel, call local emergency services, avoid self-driving and understand why chest pain needs local assessment before a flight or distant hospital.",
+        "zh": "中断行程、呼叫当地急救、不要自行驾车，并了解为什么登机或去远处医院前必须先评估胸痛。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/ct-scans-radiation-contrast-and-what-to-expect": {
+      "title": {
+        "en": "CT in China: Radiation, Iodinated Contrast and Preparation",
+        "zh": "在中国做 CT：辐射、含碘对比剂与检查准备"
+      },
+      "description": {
+        "en": "Confirm CT range and phases, understand dose, iodine contrast, kidney and metformin questions, pregnancy screening and portable DICOM results.",
+        "zh": "确认 CT 范围与期相，理解剂量、含碘对比剂、肾功能与二甲双胍、妊娠筛查和 DICOM 获取。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/fever-before-or-after-treatment-when-to-contact-a-clinician": {
+      "title": {
+        "en": "Fever After Treatment: When to Call or Seek Emergency Care",
+        "zh": "治疗后发热：何时联系医生或立即去急诊"
+      },
+      "description": {
+        "en": "Know when fever after chemotherapy, surgery, an infusion or transfusion needs an immediate call, emergency care and a clear treatment handover.",
+        "zh": "了解化疗、手术、输液或输血后发热的联系阈值、急症红旗、报告方法和跨境就医路径。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/food-and-water-safety-during-recovery-in-china": {
+      "title": {},
+      "description": {
+        "en": "A practical guide to safe water, delivery meals, leftovers, immune suppression and diarrhoea during medical recovery in China without unnecessary food restrictions.",
+        "zh": "了解恢复期安全饮水、外卖、剩菜、免疫抑制饮食和腹泻处理，在避免感染的同时不过度限制营养。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/general-anesthesia-common-patient-questions": {
+      "title": {},
+      "description": {
+        "en": "Understand what happens during general anesthesia, airway support and monitoring, accidental awareness, nausea, sore throat, delirium and safe discharge after surgery."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "patient-education-faq/genetic-and-genomic-tests-what-patients-should-know": {
+      "title": {},
+      "description": {
+        "en": "Understand germline and tumor genomic tests, VUS and negative results, broad panels, consumer DNA tests, report quality and questions to ask before testing."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "patient-education-faq/hand-hygiene-in-hospitals-how-patients-and-families-can-help": {
+      "title": {},
+      "description": {
+        "en": "Learn when hospital staff, patients and visitors should clean their hands, when sanitizer or soap is preferred, why gloves are not enough and how to speak up respectfully.",
+        "zh": "了解医务人员、患者和探视者何时清洁双手，怎样选择手消毒剂或皂液，为什么手套不够，以及怎样礼貌提醒。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/herb-drug-interactions-why-your-medical-team-needs-a-complete-list": {
+      "title": {},
+      "description": {
+        "en": "Learn how herbs and supplements can alter prescription medicines, which combinations need urgent review, and what details pharmacists need beyond a product name.",
+        "zh": "了解草药和补充剂怎样改变处方药，哪些组合需要紧急复核，以及药师为什么需要产品、剂量和批次而不只是一个名称。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/how-family-caregivers-can-support-an-international-patient": {
+      "title": {},
+      "description": {
+        "en": "Define caregiver consent, records, bedside observation, discharge skills, medication checks, boundaries, backup and self-care during overseas treatment.",
+        "zh": "明确家属陪护的授权、资料、床旁观察、出院技能、用药核对、责任边界、后备人员与自我照护。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/how-to-prepare-a-one-page-medical-summary-for-overseas-care": {
+      "title": {},
+      "description": {
+        "en": "Build a concise overseas medical summary with the right referral question, diagnoses, allergies, medicines, results, devices and indexed attachments.",
+        "zh": "按转诊问题、诊断、过敏、用药、关键结果、器械和编号附件，制作可核对的境外就医一页病情摘要。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/medical-emergencies-during-travel-in-china-what-to-do": {
+      "title": {
+        "en": "Medical Emergencies in China: What Travelers Should Do",
+        "zh": "在中国遇到医疗急症怎么办：拨打 120 与就医要点"
+      },
+      "description": {
+        "en": "Call 120 for a medical emergency in mainland China. Learn what to tell the dispatcher, what to bring, and how to handle records and insurance afterward.",
+        "zh": "在中国大陆遇到医疗急症，应先拨打 120。了解电话里如何说明位置、急诊要带什么，以及病情稳定后怎样保存病历和理赔资料。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; medical review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需完成医学审核"
+      }
+    },
+    "patient-education-faq/medical-travel-for-older-adults-planning-support-and-follow-up": {
+      "title": {},
+      "description": {
+        "en": "Plan medical travel for an older adult around frailty, function, medicines, delirium prevention, caregiver capacity and safe follow-up.",
+        "zh": "从衰弱、日常功能、用药、谵妄预防、陪护能力到返程随访，系统规划老年患者跨境就医。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/medical-travel-with-diabetes-planning-medicines-meals-and-monitoring": {
+      "title": {},
+      "description": {
+        "en": "Plan insulin storage, time-zone dosing, glucose monitoring, meals, procedure fasting, pumps, CGMs and diabetes emergencies during medical travel.",
+        "zh": "糖尿病医疗出行规划：胰岛素保存、跨时区用药、血糖监测、餐食、术前禁食、泵和CGM及急症处理。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/medical-travel-with-heart-disease-preparing-safely": {
+      "title": {},
+      "description": {
+        "en": "Prepare for medical travel with heart disease: clearance, ECG records, medicines, oxygen, cardiac devices, clot risk and emergency action.",
+        "zh": "心脏病医疗出行规划：适航许可、心电图资料、药物、机上氧疗、植入设备、血栓风险及急症处理。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/medical-travel-with-high-blood-pressure-a-patient-checklist": {
+      "title": {},
+      "description": {
+        "en": "Plan accurate blood-pressure monitoring, medicine timing, flights, altitude, procedure-day care and emergency action during medical travel.",
+        "zh": "高血压医疗出行规划：如何正确测量、跨时区用药、乘机、上高原、接受手术并识别高血压急症。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/medical-travel-with-kidney-disease-questions-to-ask-before-flying": {
+      "title": {},
+      "description": {
+        "en": "Plan medical travel with CKD, dialysis or a kidney transplant: records, treatment slots, fluid limits, medicines, access care and emergencies.",
+        "zh": "慢性肾病、透析及肾移植医疗出行规划：资料、异地透析、限液、药物、通路护理和急症备用方案。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/medical-travel-with-limited-mobility-airports-hospitals-and-recovery": {
+      "title": {},
+      "description": {
+        "en": "Plan wheelchair assistance, transfers, batteries, seating, toileting, hospital access and recovery for medical travel with limited mobility.",
+        "zh": "行动受限患者如何规划机场轮椅、转移、电池、坐姿、如厕、医院动线和治疗后回程。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/mri-scans-preparation-safety-and-contrast-questions": {
+      "title": {
+        "en": "MRI Preparation: Implants, Gadolinium and Claustrophobia",
+        "zh": "MRI 检查准备：植入物、钆对比剂与幽闭恐惧"
+      },
+      "description": {
+        "en": "Prepare for MRI in China with verified implant details, contrast and kidney questions, pregnancy screening, claustrophobia planning and DICOM retrieval.",
+        "zh": "核实植入物条件，了解钆与肾功能、妊娠筛查、幽闭镇静和 DICOM 获取，安全完成在中国的 MRI。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/pain-medicines-after-surgery-safe-use-and-warning-signs": {
+      "title": {},
+      "description": {
+        "en": "Learn how to combine postoperative pain medicines safely, avoid duplicate acetaminophen, recognize opioid overdose and distinguish expected pain from a surgical complication.",
+        "zh": "学会组合术后镇痛药、避免对乙酰氨基酚重复、识别阿片过量，并判断疼痛何时可能提示手术并发症。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/pet-ct-for-cancer-care-uses-and-limitations": {
+      "title": {
+        "en": "PET/CT for Cancer: Tracers, Preparation and Limitations",
+        "zh": "肿瘤 PET/CT：示踪剂、检查准备与局限"
+      },
+      "description": {
+        "en": "Understand FDG and other PET tracers, fasting and diabetes preparation, treatment timing, false positives, false negatives and PET/CT reports.",
+        "zh": "了解 FDG 等 PET 示踪剂、空腹和糖尿病准备、治疗后时点、假阳性假阴性，以及 PET/CT 报告要求。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/postoperative-warning-signs-that-need-urgent-assessment": {
+      "title": {
+        "en": "Postoperative Warning Signs: Call 120 or the Surgeon?",
+        "zh": "术后警示症状：何时拨 120，何时联系手术医生？"
+      },
+      "description": {
+        "en": "Triage breathing trouble, bleeding, wound changes, fever, vomiting, leg swelling and drain problems after surgery while traveling.",
+        "zh": "分流术后呼吸困难、出血、伤口变化、发热、呕吐、腿肿和引流问题，帮助异地恢复患者及时求助。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/preoperative-assessment-why-it-matters-before-surgery": {
+      "title": {},
+      "description": {
+        "en": "Learn what preoperative assessment really checks, why tests are selective, how medicines and fasting are planned, when surgery may be delayed and what patients should bring."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "patient-education-faq/preventing-surgical-site-infections-patient-questions-to-ask": {
+      "title": {},
+      "description": {
+        "en": "Learn how patients can help prevent surgical site infection before and after surgery, including shaving, antibiotics, hand hygiene, dressings, photos and urgent warning signs."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "patient-education-faq/protecting-a-surgical-wound-while-traveling": {
+      "title": {},
+      "description": {
+        "en": "A practical post-surgery travel guide covering wound dressings, drains, flights, showering, warning signs, supplies and emergency planning.",
+        "zh": "术后出行实用指南：如何准备敷料、携带引流管乘机、淋浴、预防血栓、识别伤口感染及安排异地急诊。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/questions-to-ask-before-accepting-a-treatment-plan-abroad": {
+      "title": {},
+      "description": {
+        "en": "Test an overseas treatment proposal by asking about diagnosis, alternatives, outcomes, personal risks, clinician responsibility, costs and follow-up.",
+        "zh": "从诊断、替代方案、结局数据和个体风险，核查到医生责任、费用边界、并发症与回国随访。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/recognizing-possible-stroke-symptoms-during-medical-travel": {
+      "title": {
+        "en": "Possible Stroke During Travel: BE-FAST and Call 120",
+        "zh": "医疗旅行途中疑似卒中：BE-FAST 识别并拨打 120"
+      },
+      "description": {
+        "en": "Recognize BE-FAST stroke signs, record last known well, call 120, avoid aspirin and keep a medical-travel emergency handover concise.",
+        "zh": "识别 BE-FAST 卒中信号，记录最后正常时间，拨打 120，不自行喂阿司匹林，完成简洁的医疗旅行急救交接。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/respiratory-infection-prevention-during-medical-travel": {
+      "title": {},
+      "description": {
+        "en": "Protect a surgery or treatment trip with layered vaccination, masks, cleaner air and symptom planning, including what to do if illness begins before departure.",
+        "zh": "用疫苗、贴合口罩、清洁空气和症状预案保护手术或治疗行程，并了解出发前突然生病时该怎样处理。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-education-faq/traveling-with-prescription-medicines-a-patient-checklist": {
+      "title": {},
+      "description": {
+        "en": "A practical checklist for carrying prescription and controlled medicines internationally, including original packaging, letters, China customs, refrigeration and dose timing."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "patient-education-faq/understanding-benefits-risks-and-alternatives-in-plain-language": {
+      "title": {},
+      "description": {
+        "en": "Understand absolute versus relative risk, comparable options, meaningful outcomes, uncertainty and teach-back before a medical decision.",
+        "zh": "用绝对风险、同口径比较、患者相关结局、不确定性和复述确认，真正理解医疗方案的收益与伤害。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-journey-guides/choosing-accommodation-near-a-hospital-in-china": {
+      "title": {
+        "en": "Accommodation Near a Hospital in China for Recovery",
+        "zh": "中国医院附近住宿怎么选：恢复与无障碍清单"
+      },
+      "description": {
+        "en": "Choose China hospital accommodation by exact campus, accessible route, recovery needs, medication storage, registration, flexible costs and emergency escalation.",
+        "zh": "按准确院区、无障碍路线、恢复需求、药物冷藏、住宿登记、弹性费用和急诊升级，选择中国医院附近住宿。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-journey-guides/creating-a-complication-and-emergency-plan-after-medical-travel": {
+      "title": {
+        "en": "Emergency Plan After Medical Travel | Complication Response"
+      },
+      "description": {
+        "en": "Build a practical post-treatment emergency plan with response lanes, local hospitals, a 60-second handover, records, insurance and rehearsal."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "patient-journey-guides/documents-to-prepare-before-traveling-to-china-for-treatment": {
+      "title": {
+        "en": "Documents for Medical Treatment in China: Complete Checklist",
+        "zh": "赴华治疗需要准备哪些文件：完整病例包清单"
+      },
+      "description": {
+        "en": "Build a decision-ready China treatment packet with passport identity, clinical summary, DICOM imaging, pathology, medicines, translations, authorisations and secure receipt checks.",
+        "zh": "按身份、病情摘要、DICOM、病理、药物、翻译、授权和安全接收，制作能供中国医院真正复核的赴华治疗病例包。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-journey-guides/from-the-airport-to-the-hospital-your-first-24-hours-in-china": {
+      "title": {
+        "en": "First 24 Hours in China for Medical Travellers | Safe Arrival Guide",
+        "zh": "抵达中国后的前 24 小时｜国际患者安全落地指南"
+      },
+      "description": {
+        "en": "Plan the airport handoff, accessible transfer, first destination, medication timing, accommodation registration and emergency escalation for a medical trip to China.",
+        "zh": "逐项规划机场交接、无障碍转运、第一目的地、跨时区用药、住宿登记与首夜急救升级，让赴华医疗抵达过程真正可执行。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-journey-guides/handing-over-care-to-your-doctor-at-home": {
+      "title": {
+        "en": "Handing Care to Your Doctor at Home | Clinical Handover"
+      },
+      "description": {
+        "en": "Transfer care after treatment in China with a receiving doctor, problem brief, task owners, pending-result plan and explicit acceptance."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "patient-journey-guides/hospital-admission-in-china-documents-deposits-and-rooms": {
+      "title": {
+        "en": "Hospital Admission in China | Documents, Deposits and Rooms",
+        "zh": "中国医院住院办理｜文件、预交金与房型指南"
+      },
+      "description": {
+        "en": "Track the admission order, bed, inpatient account, deposit, consent forms and ward handoff separately when entering a Chinese hospital as an international patient.",
+        "zh": "国际患者办理中国医院住院时，应把住院医嘱、床位、住院账户、预交金、知情同意和病区交接逐项确认。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-journey-guides/hospital-discharge-in-china-a-complete-checklist": {
+      "title": {
+        "en": "Hospital Discharge in China | Six-Chain Checklist"
+      },
+      "description": {
+        "en": "Close clinical, medication, pending-result, device, document, payment and transport tasks before leaving a hospital in China."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "patient-journey-guides/medical-records-to-take-home-after-treatment-in-china": {
+      "title": {
+        "en": "Medical Records to Take Home After Treatment in China"
+      },
+      "description": {
+        "en": "Build a verified pack of source records, DICOM images, pathology, medicines, devices, pending results and certified later releases."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "patient-journey-guides/medical-travel-to-china-a-12-week-planning-timeline": {
+      "title": {
+        "en": "Medical Travel to China: A 12-Week Planning Timeline",
+        "zh": "赴华就医 12 周规划：从病历审核到回国随访"
+      },
+      "description": {
+        "en": "Plan records, hospital review, costs, visa checks, medicines, flexible travel, recovery and follow-up with this 12-week China medical travel timeline.",
+        "zh": "用 12 周时间表安排病历、医院审阅、费用、签证核对、药物、灵活行程、恢复和回国随访。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; medical review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需完成医学审核"
+      }
+    },
+    "patient-journey-guides/medication-reconciliation-before-leaving-china": {
+      "title": {
+        "en": "Medication Reconciliation Before Leaving China"
+      },
+      "description": {
+        "en": "Reconcile medicine identity, decision, travel-day timing, lawful supply, cold chain, monitoring and the next prescriber before departure."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "patient-journey-guides/nutrition-and-hydration-during-hospital-recovery": {
+      "title": {
+        "en": "Nutrition During Hospital Recovery | Route and Fluid Plan",
+        "zh": "住院恢复期营养｜途径、液体与再喂养风险"
+      },
+      "description": {
+        "en": "Screen nutrition risk, confirm safe swallowing and gut function, choose oral/tube/IV support, track fluid balance and plan discharge nutrition after hospital care.",
+        "zh": "筛查营养风险，确认吞咽和胃肠安全，选择口服、管饲或静脉支持，管理液体平衡并制定出院营养交接。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-journey-guides/pain-management-after-a-procedure-questions-to-ask": {
+      "title": {
+        "en": "Pain After a Procedure | Questions and Safety Checks",
+        "zh": "操作后疼痛｜功能目标、救援规则与用药安全"
+      },
+      "description": {
+        "en": "Build a postoperative pain plan around pain pattern, functional goals, multimodal treatment, rescue rules, sedation monitoring and a safe take-home transition.",
+        "zh": "围绕疼痛模式、功能目标、多模式镇痛、救援触发、镇静和呼吸监测及安全带药，制定操作后疼痛方案。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-journey-guides/paying-a-hospital-deposit-in-china-practical-questions": {
+      "title": {
+        "en": "Paying a Hospital Deposit in China | Receipts and Refunds",
+        "zh": "中国医院预交金｜付款凭证、票据与退款核对"
+      },
+      "description": {
+        "en": "Match the payer, patient account, hospital beneficiary, transaction reference, official receipt and refund route when paying a hospital deposit in China.",
+        "zh": "国际患者支付中国医院预交金时，逐项对齐付款人、患者账户、医院收款主体、交易流水、正式票据和退款路径。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-journey-guides/planning-flights-before-and-after-medical-treatment": {
+      "title": {
+        "en": "Flights Before and After Treatment in China",
+        "zh": "赴华治疗前后航班怎么安排"
+      },
+      "description": {
+        "en": "Plan China treatment flights through clinical fitness, airline approval, airport assistance, cabin physiology, clot risk, changeable return dates and stop rules.",
+        "zh": "从临床适航、航空批准、机场协助、客舱生理、血栓风险、可变更回程和停止规则，规划赴华治疗前后航班。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-journey-guides/planning-rehabilitation-before-returning-home": {
+      "title": {
+        "en": "Rehabilitation Handover Before Returning Home"
+      },
+      "description": {
+        "en": "Transfer functional baselines, goals, exercise dose, equipment, caregiver skills and an accepted first appointment before returning home."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "patient-journey-guides/recovering-in-a-hotel-after-medical-treatment": {
+      "title": {
+        "en": "Hotel Recovery After Treatment in China | Room Safety Test"
+      },
+      "description": {
+        "en": "Test hotel eligibility, room access, caregiver coverage, medicine storage, devices and the emergency route after outpatient treatment in China."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "patient-journey-guides/registration-and-identity-checks-at-a-chinese-hospital": {
+      "title": {
+        "en": "Hospital Identity Checks in China | International Patient Safety",
+        "zh": "中国医院身份核验｜国际患者病历安全指南"
+      },
+      "description": {
+        "en": "Prevent duplicate medical records and name mismatches by linking passport variants, hospital numbers, specimens, images and reports throughout care in China.",
+        "zh": "关联护照姓名变体、医院病历号、标本、影像与报告，避免国际患者在中国就医时出现重复病历和身份错配。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-journey-guides/remote-follow-up-with-your-medical-team-in-china": {
+      "title": {
+        "en": "Remote Follow-Up with a Medical Team in China"
+      },
+      "description": {
+        "en": "Build a China–local clinician–patient loop for remote follow-up, pending results, decisions, prescriptions, privacy and escalation."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "patient-journey-guides/repeating-tests-after-arrival-why-it-may-be-necessary": {
+      "title": {
+        "en": "Repeating Medical Tests in China | When Is It Necessary?",
+        "zh": "到中国医院后为什么需要复查｜检查互认与安全指南"
+      },
+      "description": {
+        "en": "Use a five-part fitness test to decide whether overseas laboratory, imaging or pathology evidence should be reused, reinterpreted, repeated or replaced after arrival in China.",
+        "zh": "用身份、临床问题、方法、时间和质量五项标准，判断海外检验、影像或病理资料应沿用、重读、重复还是替换。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-journey-guides/should-a-family-member-or-companion-travel-with-you": {
+      "title": {
+        "en": "Companion for Treatment in China: How to Decide",
+        "zh": "赴华治疗是否需要家属陪同：判断清单"
+      },
+      "description": {
+        "en": "Decide whether to bring a companion to China by mapping communication, consent, mobility, ward rules, records, discharge training and backup support.",
+        "zh": "按沟通、同意、活动、病区规则、病历、出院培训和后备支持，判断赴华治疗是否需要家属或陪同者。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-journey-guides/the-day-of-surgery-in-china-a-patient-timeline": {
+      "title": {
+        "en": "Surgery Day in China | Timeline, Delays and Handoffs",
+        "zh": "中国手术当天｜时间线、延迟、复苏与交接"
+      },
+      "description": {
+        "en": "Track surgery day through readiness gates, identity checks, operating-room milestones, companion updates, PACU recovery and the final ward or discharge handoff.",
+        "zh": "按就绪关口、身份核查、手术室节点、家属更新、PACU 复苏及病房或出院交接，追踪在中国手术当天的真实进度。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-journey-guides/understanding-informed-consent-before-a-procedure-in-china": {
+      "title": {
+        "en": "Informed Consent Before a Procedure in China | Patient Audit",
+        "zh": "中国操作前知情同意｜范围、风险与当日核查"
+      },
+      "description": {
+        "en": "Check procedure scope, site, risks, alternatives, conditional changes, decision authority and day-of-procedure verification before signing consent in China.",
+        "zh": "在中国接受手术或有创操作前，核对操作范围、部位、风险、替代方案、条件性变更、决策权限和当日安全检查。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-journey-guides/vaccination-and-general-health-preparation-before-medical-travel": {
+      "title": {
+        "en": "Vaccination Before Medical Travel to China",
+        "zh": "赴华治疗前疫苗与健康准备"
+      },
+      "description": {
+        "en": "Plan vaccines for treatment in China by separating entry rules, routine and itinerary risks, immune suppression, treatment timing, health readiness and documentation.",
+        "zh": "分开核对入境要求、常规和行程风险、免疫抑制、治疗时序、一般健康状态与接种文件，安全规划赴华治疗前疫苗。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-journey-guides/visa-planning-for-a-medical-trip-to-china": {
+      "title": {
+        "en": "China Medical-trip Visa Planning: Dates and Documents",
+        "zh": "赴华治疗签证规划：材料、日期与延期"
+      },
+      "description": {
+        "en": "Plan a China treatment visa without confusing hospital acceptance, visa category, entry validity, stay duration, companion evidence or extensions.",
+        "zh": "区分医院接收与签证审批，核对类别、医院证明、入境有效期、停留期限、陪同材料和在华延期，规划赴华治疗签证。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-journey-guides/warning-signs-during-recovery-when-to-seek-urgent-care": {
+      "title": {
+        "en": "Recovery Warning Signs | When to Call 120 in China"
+      },
+      "description": {
+        "en": "Recognize emergency, same-day and monitor-at-home recovery changes using symptom trajectory, function and procedure-specific thresholds."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "patient-journey-guides/what-to-expect-during-an-inpatient-hospital-stay-in-china": {
+      "title": {
+        "en": "Inpatient Hospital Stay in China | Daily Ward Guide",
+        "zh": "在中国住院｜病房查房、用药、护理与出院准备"
+      },
+      "description": {
+        "en": "Use a daily bedside control board to track ward rounds, orders, medicines, test results, devices, nursing risks, handoffs and discharge readiness in China.",
+        "zh": "用床旁每日控制板追踪中国医院住院期间的查房、医嘱、药物、检查结果、管路、护理风险、交接和出院就绪状态。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-journey-guides/what-to-pack-for-hospital-treatment-in-china": {
+      "title": {
+        "en": "What to Pack for Hospital Treatment in China",
+        "zh": "赴华治疗住院要带什么：完整装箱清单"
+      },
+      "description": {
+        "en": "Pack for treatment in China by protecting carry-on medicines, records and devices, checking ward supplies, battery rules, cold chain, customs and recovery needs.",
+        "zh": "保护随身药物、病历和设备，核对病区供应、电池、冷链、海关与恢复需要，按故障后果准备赴华治疗行李。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-journey-guides/when-is-it-safe-to-fly-after-surgery-or-treatment": {
+      "title": {
+        "en": "When Is It Safe to Fly After Surgery? | Five-Gate Check"
+      },
+      "description": {
+        "en": "Assess trapped gas, oxygen reserve, clot and complication risk, airport function and airline clearance before flying after treatment."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "patient-journey-guides/working-with-a-medical-interpreter-during-appointments": {
+      "title": {
+        "en": "Using a Medical Interpreter in China | Appointment Guide",
+        "zh": "中国门诊医疗口译｜角色、复述确认与会诊记录"
+      },
+      "description": {
+        "en": "Run an interpreted medical appointment with clear roles, short turns, labelled speakers, double-checked medicines, teach-back and a written decision record.",
+        "zh": "通过第一人称、短句轮次、说话人标记、药物双重核对、复述确认和书面决策记录，提高口译门诊的准确性。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "patient-journey-guides/your-first-hospital-appointment-in-china-what-to-expect": {
+      "title": {
+        "en": "First Hospital Appointment in China | International Patient Guide",
+        "zh": "第一次到中国医院就诊｜国际患者会诊准备指南"
+      },
+      "description": {
+        "en": "Prepare a three-decision agenda, verify record review, map each test to a decision, reconcile medicines and leave a first Chinese hospital visit with a written plan.",
+        "zh": "用三个决定组织首次会诊，核实资料审阅状态，把检查连接到临床决定，核对药物，并在离院前形成一页书面决策记录。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/acupuncture-in-china-evidence-safety-and-choosing-a-provider": {
+      "title": {
+        "en": "Acupuncture in China: Evidence, Safety and Provider Checks",
+        "zh": "在中国针灸：证据、安全与医生资质核验"
+      },
+      "description": {
+        "en": "Evaluate acupuncture evidence by condition, verify a Chinese provider, inspect sterile technique, review medical risks and set a stopping rule.",
+        "zh": "按病种判断针灸证据，核实中国针灸医生和机构，检查无菌流程、医学风险，并设定停止规则。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "treatment-guides/arrhythmia-evaluation-and-catheter-ablation-in-china": {
+      "title": {
+        "en": "Arrhythmia and Catheter Ablation in China | Patient Guide",
+        "zh": "在中国评估心律失常和做导管消融：患者指南"
+      },
+      "description": {
+        "en": "Prepare for arrhythmia evaluation and catheter ablation in China: rhythm documentation, AF, SVT and VT targets, risks, anticoagulation and follow-up.",
+        "zh": "了解心律记录、房颤、室上速和室速消融靶点、特异风险、房颤术后抗凝，以及回国后的节律监测。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/brain-tumor-surgery-in-china-multidisciplinary-treatment-planning": {
+      "title": {
+        "en": "Brain Tumor Surgery in China | Multidisciplinary Planning",
+        "zh": "中国脑肿瘤手术｜多学科规划与术后衔接"
+      },
+      "description": {
+        "en": "Plan brain tumour biopsy or safe resection in China with imaging, functional mapping, integrated pathology, postoperative MRI and adjuvant handover.",
+        "zh": "规划中国脑肿瘤活检或安全切除，覆盖影像、功能定位、整合病理、术后MRI和辅助治疗交接。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/cancer-immunotherapy-in-china-questions-to-ask-before-treatment": {
+      "title": {
+        "en": "Cancer Immunotherapy in China: Questions Before Treatment",
+        "zh": "中国肿瘤免疫治疗：开始前要问什么"
+      },
+      "description": {
+        "en": "Questions to ask before cancer immunotherapy in China, covering indications, biomarkers, autoimmune risk, immune-related side effects and follow-up abroad.",
+        "zh": "赴华接受肿瘤免疫治疗前，核实适应证、生物标志物、自身免疫风险、免疫相关不良反应及回国随访安排。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/cancer-rehabilitation-managing-function-fatigue-and-recovery": {
+      "title": {
+        "en": "Cancer Rehabilitation: Function, Fatigue and Safe Recovery",
+        "zh": "癌症康复：功能、疲劳与安全恢复"
+      },
+      "description": {
+        "en": "How to assess cancer rehabilitation in China: fatigue, exercise safety, neuropathy, lymphedema, bone risk, measurable goals and handover.",
+        "zh": "比较中国癌症康复项目时，怎样评估疲劳、运动安全、神经病、淋巴水肿、骨风险、功能目标和回国交接。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "treatment-guides/cancer-surgery-in-china-how-to-prepare-and-compare-options": {
+      "title": {
+        "en": "Cancer Surgery in China: Prepare and Compare Options",
+        "zh": "中国肿瘤手术：准备与方案比较指南"
+      },
+      "description": {
+        "en": "Compare cancer surgery in China by resection plan, surgeon, hospital backup, safety checks, pathology, recovery and safe timing for international travel.",
+        "zh": "从切除范围、主刀、医院后备、安全核查、最终病理、康复和术后乘机安排，比较中国肿瘤手术方案。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/cardiac-rehabilitation-after-heart-treatment": {
+      "title": {
+        "en": "Cardiac Rehabilitation After Heart Treatment | Patient Guide",
+        "zh": "心脏治疗后的心脏康复：运动处方与跨境交接"
+      },
+      "description": {
+        "en": "Build a safe cardiac rehabilitation plan after heart treatment, including assessment, exercise dose, risk-factor care, warning signs and cross-border transfer.",
+        "zh": "了解心脏治疗后怎样通过评估、处方运动、危险因素管理、警示信号和跨境交接建立安全康复计划。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/chemotherapy-in-china-planning-safety-and-follow-up": {
+      "title": {
+        "en": "Chemotherapy in China: Safety and Follow-Up Guide",
+        "zh": "在中国接受化疗：安全、规划与随访指南"
+      },
+      "description": {
+        "en": "Plan chemotherapy in China cycle by cycle, with practical guidance on regimen checks, blood tests, fever, oral medicines, costs and international follow-up.",
+        "zh": "按周期介绍中国化疗的方案核对、验血、发热处理、口服药、费用和跨国随访，帮助患者安全衔接治疗。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/chinese-herbal-medicine-safety-interactions-and-quality-questions": {
+      "title": {
+        "en": "Chinese Herbal Medicine Safety and Interaction Checks",
+        "zh": "中药安全、相互作用与质量核验"
+      },
+      "description": {
+        "en": "Identify herbal product type, trace batch quality, screen interactions, plan monitoring, report adverse reactions and check travel restrictions.",
+        "zh": "识别中药产品类别，追溯批次质量，筛查相互作用，安排监测、报告不良反应并核对跨境限制。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "treatment-guides/coronary-angiography-in-china-what-patients-can-expect": {
+      "title": {
+        "en": "Coronary Angiography in China: Procedure and Safety Guide",
+        "zh": "在中国做冠状动脉造影：流程、风险与支架知情同意"
+      },
+      "description": {
+        "en": "Prepare for coronary angiography in China: indications, wrist versus groin access, contrast and kidney checks, possible PCI, recovery and records.",
+        "zh": "了解中国冠脉造影的适应场景、手腕或腹股沟穿刺、造影剂和肾功能检查、可能的 PCI、恢复及病历交接。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/coronary-artery-bypass-surgery-in-china-planning-your-care": {
+      "title": {
+        "en": "CABG in China: Surgery, Grafts and Recovery Planning",
+        "zh": "在中国做冠脉搭桥：手术、桥血管与恢复规划"
+      },
+      "description": {
+        "en": "Plan coronary bypass surgery in China: compare CABG with PCI, review grafts and surgical risk, prepare for ICU recovery and arrange follow-up home.",
+        "zh": "了解中国 CABG 如何与 PCI 比较，怎样评估桥血管和手术风险，并规划 ICU 恢复、心脏康复和回国交接。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/deep-brain-stimulation-candidacy-surgery-and-follow-up": {
+      "title": {
+        "en": "Deep Brain Stimulation | Candidacy, Surgery and Programming",
+        "zh": "脑深部刺激｜适应证、手术、程控与随访"
+      },
+      "description": {
+        "en": "Evaluate DBS by diagnosis, symptoms, target, surgical risk, programming, hardware, MRI safety and long-term cross-border support.",
+        "zh": "从诊断、目标症状、靶点、手术风险、程控、硬件、MRI安全和跨境服务评估DBS治疗。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/dental-crowns-and-bridges-materials-treatment-and-aftercare": {
+      "title": {
+        "en": "Dental Crowns and Bridges | Materials and Aftercare"
+      },
+      "description": {
+        "en": "Compare crowns, conventional and adhesive bridges, root-filled tooth design, ceramic and metal materials, fit checks, risks and maintenance abroad."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "treatment-guides/dental-implants-in-china-planning-safe-treatment-abroad": {
+      "title": {
+        "en": "Dental Implants in China | Safe Staging and Follow-Up",
+        "zh": "中国牙种植｜分阶段治疗与回国维护指南"
+      },
+      "description": {
+        "en": "Plan dental implants in China with tooth-prognosis review, CBCT, periodontal risk control, staged surgery, graft records, exact component details and home follow-up.",
+        "zh": "了解赴中国种牙前的天然牙预后、CBCT、牙周风险、分期手术、植骨记录、准确零件信息和回国维护规划。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "treatment-guides/endometriosis-treatment-in-china-diagnosis-surgery-and-follow-up": {
+      "title": {
+        "en": "Endometriosis Treatment in China | Diagnosis and Surgery",
+        "zh": "中国子宫内膜异位症治疗｜诊断、手术与随访"
+      },
+      "description": {
+        "en": "Plan endometriosis care in China with specialist imaging, pain and fertility pathways, deep-disease surgery, ovarian-reserve protection and long-term follow-up.",
+        "zh": "了解在中国进行内异症专科影像、疼痛与生育分流、深部病变手术、卵巢储备保护及长期跨境随访。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "treatment-guides/epilepsy-evaluation-and-surgery-understanding-the-care-pathway": {
+      "title": {
+        "en": "Epilepsy Surgery Evaluation | Tests, Options and Follow-up",
+        "zh": "癫痫手术评估｜检查、治疗选择与术后随访"
+      },
+      "description": {
+        "en": "Understand drug-resistant epilepsy, video-EEG, MRI, neuropsychology, intracranial EEG, surgery, stimulation and cross-border follow-up.",
+        "zh": "了解耐药性癫痫、视频脑电、MRI、神经心理、颅内脑电、切除消融、神经调控和跨境随访。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/fertility-assessment-in-china-tests-timelines-and-questions": {
+      "title": {
+        "en": "Fertility Assessment in China | Tests and Timing",
+        "zh": "中国生育力评估｜检查项目与时间安排"
+      },
+      "description": {
+        "en": "Plan a fertility work-up in China with concurrent partner assessment, targeted ovarian, tubal and semen tests, realistic timing and cross-border result checks.",
+        "zh": "了解在中国进行男女同步生育力评估、卵巢和输卵管检查、精液分析、分阶段时间表及跨境结果复用方法。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "treatment-guides/follow-up-care-after-cancer-treatment-in-china": {
+      "title": {
+        "en": "Cancer Follow-Up After Treatment in China | Patient Guide",
+        "zh": "在中国完成癌症治疗后的随访与病历交接指南"
+      },
+      "description": {
+        "en": "Plan cancer follow-up across China and home: surveillance, late effects, records, ongoing medicines, clinical ownership and urgent-care rules.",
+        "zh": "了解跨境癌症随访如何安排复发监测、迟发影响、持续用药、病历交接、负责医生和紧急就医规则。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/full-mouth-rehabilitation-in-china-a-patient-guide": {
+      "title": {
+        "en": "Full-Mouth Rehabilitation in China | Patient Guide"
+      },
+      "description": {
+        "en": "Plan full-mouth rehabilitation in China with tooth-by-tooth prognosis, disease control, provisional testing, bite safeguards, clear costs and local follow-up."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "treatment-guides/getting-a-cancer-second-opinion-in-china": {
+      "title": {
+        "en": "Getting a Cancer Second Opinion in China",
+        "zh": "在中国获取肿瘤第二诊疗意见：资料与复核要点"
+      },
+      "description": {
+        "en": "Prepare pathology, imaging and treatment records for a cancer second opinion in China, choose the right reviewer, and compare conflicting recommendations.",
+        "zh": "准备病理、DICOM影像和治疗记录，选择匹配的肿瘤专家，并理解怎样比较两份不同的治疗建议。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; oncology review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需完成肿瘤专科审核"
+      }
+    },
+    "treatment-guides/getting-a-neurosurgery-second-opinion-in-china": {
+      "title": {
+        "en": "Neurosurgery Second Opinion in China | Records and Questions",
+        "zh": "中国神经外科第二意见｜资料准备与关键问题"
+      },
+      "description": {
+        "en": "Prepare a neurosurgical second opinion in China with DICOM imaging, specialist matching, written comparisons, risk questions and treatment acceptance checks.",
+        "zh": "用DICOM影像、专科匹配、书面对比、风险问题和正式接收核验，准备中国神经外科第二意见。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/gynecologic-cancer-treatment-in-china-planning-multidisciplinary-care": {
+      "title": {
+        "en": "Gynaecologic Cancer Treatment in China | MDT Planning",
+        "zh": "中国妇科恶性肿瘤治疗｜多学科方案规划"
+      },
+      "description": {
+        "en": "Plan gynaecologic cancer care in China with pathology review, site-specific staging, surgery, radiotherapy, systemic therapy, genetics and fertility coordination.",
+        "zh": "了解在中国进行妇科肿瘤病理复核、分部位分期、手术、放疗、系统治疗、遗传和生育保护的多学科规划。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "treatment-guides/heart-valve-repair-and-replacement-comparing-treatment-options": {
+      "title": {
+        "en": "Heart Valve Repair vs Replacement: A Patient Comparison",
+        "zh": "心脏瓣膜修复与置换：机械瓣、生物瓣和入路比较"
+      },
+      "description": {
+        "en": "Compare valve repair, mechanical and tissue replacement, surgery and transcatheter options, anticoagulation, recovery and lifelong follow-up.",
+        "zh": "比较瓣膜修复、机械瓣、生物瓣、外科与经导管方案，并了解抗凝、恢复和终身随访如何影响选择。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/hip-replacement-in-china-surgery-recovery-and-travel": {
+      "title": {
+        "en": "Hip Replacement in China | Surgery, Recovery and Travel",
+        "zh": "在中国做髋关节置换｜手术、康复与旅行"
+      },
+      "description": {
+        "en": "Plan hip replacement in China with clear decisions on diagnosis, approach, implants, precautions, rehabilitation, flight safety and long-term records.",
+        "zh": "了解在中国做髋关节置换时怎样核实诊断、入路和假体，安排动作限制、康复、航班安全及长期植入物档案。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/inpatient-vs-outpatient-rehabilitation-in-china": {
+      "title": {
+        "en": "Inpatient vs Outpatient Rehabilitation in China",
+        "zh": "中国住院康复与门诊康复怎么选"
+      },
+      "description": {
+        "en": "Compare inpatient and outpatient rehabilitation by medical oversight, nursing, function, therapy dose, home safety, costs and handover.",
+        "zh": "按医学监护、护理、功能、治疗剂量、住所安全、费用和交接比较中国住院与门诊康复。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "treatment-guides/integrative-supportive-care-during-cancer-treatment-in-china": {
+      "title": {
+        "en": "Integrative Supportive Cancer Care in China",
+        "zh": "中国癌症整合支持治疗指南"
+      },
+      "description": {
+        "en": "Evaluate integrative oncology support for pain, fatigue, mood, nausea, nutrition and function while screening interactions and treatment-cycle risks.",
+        "zh": "怎样评估疼痛、疲劳、情绪、恶心、营养和功能支持，同时筛查补充剂相互作用和治疗周期风险。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "treatment-guides/ivf-treatment-in-china-a-practical-guide-for-international-patients": {
+      "title": {
+        "en": "IVF Treatment in China | International Patient Guide",
+        "zh": "中国试管婴儿治疗｜国际患者实用指南"
+      },
+      "description": {
+        "en": "Check IVF eligibility, licensed technologies, cycle steps, laboratory safety, success-rate denominators, embryo transfer and cross-border follow-up in China.",
+        "zh": "了解赴中国接受 IVF 前的接诊资格、获批技术、周期步骤、实验室安全、成功率分母、胚胎移植及跨境随访要点。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "treatment-guides/joint-preservation-treatments-questions-to-ask-before-surgery": {
+      "title": {
+        "en": "Joint Preservation Treatments | Questions Before Surgery",
+        "zh": "关节保留治疗｜手术前应该问什么"
+      },
+      "description": {
+        "en": "Evaluate joint preservation surgery by diagnosis, cartilage, alignment and stability, with clear evidence, rehabilitation, failure criteria and future options.",
+        "zh": "从诊断、软骨、力线与稳定性评估保关节手术，核实证据、康复、失败标准和未来置换选择。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/knee-replacement-in-china-a-patient-planning-guide": {
+      "title": {
+        "en": "Knee Replacement in China | Patient Planning Guide",
+        "zh": "在中国做膝关节置换｜患者规划指南"
+      },
+      "description": {
+        "en": "Plan knee replacement in China with clear choices on total versus partial surgery, implants, infection and clot prevention, rehabilitation, flights and records.",
+        "zh": "了解在中国做膝关节置换时怎样选择全膝或单髁、核实植入物、预防感染和血栓、安排康复、返程与病历交接。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/multidisciplinary-cancer-care-how-tumor-boards-guide-treatment": {
+      "title": {
+        "en": "How Cancer Tumor Boards Guide Treatment",
+        "zh": "肿瘤 MDT 如何指导治疗"
+      },
+      "description": {
+        "en": "Learn how cancer tumor boards review evidence, record options and uncertainty, involve patient preferences and turn an MDT recommendation into action.",
+        "zh": "了解肿瘤委员会如何审阅证据、记录选项和不确定性、纳入患者偏好，并把MDT建议转化为可执行方案。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; oncology MDT governance and shared-decision review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需完成肿瘤 MDT 管理与共同决策复核"
+      }
+    },
+    "treatment-guides/neurological-rehabilitation-in-china-choosing-the-right-program": {
+      "title": {
+        "en": "Neurological Rehabilitation in China | Program Guide"
+      },
+      "description": {
+        "en": "Compare neurological rehabilitation programmes in China by diagnosis expertise, team, intensity, swallowing, cognition, medical safety, outcomes and handover."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "treatment-guides/oral-and-maxillofacial-surgery-in-china-what-patients-should-know": {
+      "title": {
+        "en": "Oral and Maxillofacial Surgery in China | Guide"
+      },
+      "description": {
+        "en": "Plan oral and maxillofacial surgery in China by matching the diagnosis, imaging, surgeon, anaesthesia setting, pathology, recovery and follow-up."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "treatment-guides/orthodontic-treatment-in-china-planning-for-long-term-follow-up": {
+      "title": {
+        "en": "Orthodontic Treatment in China | Follow-Up Guide"
+      },
+      "description": {
+        "en": "Plan braces or aligners in China with complete diagnostics, realistic monitoring, transfer-ready records, risk checks, clear fees and long-term retainers."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "treatment-guides/pathology-review-before-cancer-treatment-in-china": {
+      "title": {
+        "en": "Pathology Review Before Cancer Treatment in China",
+        "zh": "在中国治疗癌症前进行病理复核"
+      },
+      "description": {
+        "en": "Prepare a cancer pathology review in China that confirms diagnosis, stage-related features and biomarkers while conserving tissue for treatment decisions.",
+        "zh": "为赴华癌症治疗准备病理复核，确认诊断、分期相关特征和生物标志物，同时保护有限肿瘤组织。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team; tumour-site pathologist and treating oncologist review required before publication",
+        "zh": "Medora Health 编辑团队；发布前需由相应瘤种病理医生和治疗团队复核"
+      }
+    },
+    "treatment-guides/percutaneous-coronary-intervention-and-stents-a-patient-guide": {
+      "title": {
+        "en": "PCI and Coronary Stents: Decisions, DAPT and Recovery",
+        "zh": "冠脉 PCI 与支架指南：适应性、双抗和术后管理"
+      },
+      "description": {
+        "en": "Understand PCI benefit, lesion and stent planning, complex coronary decisions, dual antiplatelet therapy, recovery and cross-border follow-up.",
+        "zh": "了解 PCI 预期获益、病变和支架规划、复杂冠脉决策、双联抗血小板治疗、恢复与跨境随访。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/postoperative-rehabilitation-in-china-building-a-recovery-plan": {
+      "title": {
+        "en": "Postoperative Rehabilitation in China | Recovery Plan"
+      },
+      "description": {
+        "en": "Build a surgery-specific recovery plan in China covering precautions, measurable function, pain, nutrition, wounds, clot risk, discharge and flight follow-up."
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "treatment-guides/radiation-therapy-in-china-a-patient-guide": {
+      "title": {
+        "en": "Radiation Therapy in China: A Practical Patient Guide",
+        "zh": "在中国接受放射治疗：国际患者实用指南"
+      },
+      "description": {
+        "en": "A practical guide to radiation therapy in China: simulation, planning, fractions, safety checks, side effects, costs and records for international patients.",
+        "zh": "介绍在中国接受放疗的定位、计划、分次、安全核查、副作用、费用及回国资料，帮助国际患者安排完整疗程。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/scoliosis-treatment-in-china-evaluation-and-care-planning": {
+      "title": {
+        "en": "Scoliosis Treatment in China | Evaluation and Care Planning",
+        "zh": "在中国治疗脊柱侧弯｜评估与诊疗规划"
+      },
+      "description": {
+        "en": "Plan scoliosis care in China using standing curve measurements, growth and balance, with clear observation, bracing, surgery and follow-up decisions.",
+        "zh": "了解如何用站立位弯曲测量、生长和平衡规划中国侧弯治疗，并明确观察、支具、手术和长期随访选择。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/spine-surgery-in-china-how-to-evaluate-your-options": {
+      "title": {
+        "en": "Spine Surgery in China | How to Evaluate Your Options",
+        "zh": "在中国做脊柱手术｜怎样评估不同方案"
+      },
+      "description": {
+        "en": "Evaluate spine surgery in China by matching symptoms to imaging, distinguishing decompression from fusion, checking risks, recovery, travel and records.",
+        "zh": "评估中国脊柱手术时，把症状与影像对应，分清减压和融合，核实风险、康复、旅行与手术资料交接。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/sports-injury-treatment-in-china-from-imaging-to-rehabilitation": {
+      "title": {
+        "en": "Sports Injury Treatment in China | Imaging to Rehabilitation",
+        "zh": "在中国治疗运动损伤｜从影像检查到康复"
+      },
+      "description": {
+        "en": "Plan sports injury treatment in China with diagnosis-led imaging, treatment choices, measurable rehabilitation, return-to-sport criteria and cross-border handover.",
+        "zh": "了解在中国治疗运动损伤时怎样按诊断选择影像、比较治疗方案、量化康复、制定复出标准并完成跨境交接。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/stereotactic-body-radiotherapy-sbrt-a-patient-guide": {
+      "title": {
+        "en": "SBRT Patient Guide: Planning, Safety and Follow-Up",
+        "zh": "SBRT患者指南：计划、安全与随访"
+      },
+      "description": {
+        "en": "Understand SBRT eligibility, motion management, image guidance, organ limits, quality assurance and follow-up before stereotactic body radiotherapy.",
+        "zh": "了解SBRT适应性、运动管理、影像引导、危及器官限量、质量保证和复查影像，为体部立体定向放疗做好准备。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/stroke-rehabilitation-in-china-a-guide-for-patients-and-families": {
+      "title": {
+        "en": "Stroke Rehabilitation in China | Patient and Family Guide",
+        "zh": "中国卒中康复｜患者与家属实用指南"
+      },
+      "description": {
+        "en": "Plan safe stroke rehabilitation in China across mobility, swallowing, communication, cognition, prevention, caregiver training and international handover.",
+        "zh": "了解中国卒中康复如何覆盖移动、吞咽、沟通、认知、复发预防、家属训练和跨国医疗交接。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/targeted-cancer-therapy-biomarker-testing-and-treatment-planning": {
+      "title": {
+        "en": "Targeted Cancer Therapy and Biomarker Testing Guide",
+        "zh": "肿瘤靶向治疗与生物标志物检测指南"
+      },
+      "description": {
+        "en": "Understand tissue and liquid biomarker tests, companion diagnostics, actionable variants, targeted-drug planning and resistance before treatment in China.",
+        "zh": "了解组织与液体活检、伴随诊断、可用药变异、靶向治疗计划及耐药复测，避免从基因名直接跳到药物。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team",
+        "zh": "Medora Health 编辑团队"
+      }
+    },
+    "treatment-guides/uterine-fibroid-treatment-comparing-medical-and-surgical-options": {
+      "title": {
+        "en": "Uterine Fibroid Treatment | Compare Medicines and Procedures",
+        "zh": "子宫肌瘤治疗｜药物、肌瘤切除与栓塞比较"
+      },
+      "description": {
+        "en": "Compare observation, medicines, myomectomy, uterine artery embolisation, ablation and hysterectomy by symptoms, fibroid location, fertility and retreatment.",
+        "zh": "按症状、肌瘤位置、生育计划和再次治疗风险，比较观察、药物、肌瘤切除、子宫动脉栓塞、消融与全子宫切除。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    },
+    "treatment-guides/what-to-expect-at-a-traditional-chinese-medicine-consultation": {
+      "title": {
+        "en": "What to Expect at a TCM Consultation in China",
+        "zh": "中国中医初诊流程与准备指南"
+      },
+      "description": {
+        "en": "Prepare for a Chinese medicine visit: history, tongue and pulse, pattern diagnosis, herbal prescription, interaction checks, follow-up and travel rules.",
+        "zh": "中医门诊会怎样问诊、看舌把脉和辨证？怎样核对中药处方、相互作用、复诊指标及携药出境规则。"
+      },
+      "reviewedBy": {
+        "en": "Medora Health Editorial Team"
+      }
+    }
+  }
+}

@@ -11,6 +11,7 @@ const LIMITED_PUBLIC_PATHS = new Set([
   "/treatment",
   "/packages",
   "/hospitals",
+  "/guides",
   "/visa",
   "/work-with-us",
 ]);

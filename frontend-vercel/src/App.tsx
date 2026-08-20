@@ -184,6 +184,7 @@ const App = () => (
                     <Route path="/work-with-us/hospitals/apply" element={<NoIndexRoute title="Hospital Partnership Application | Medora Health"><PartnershipApplicationPage applicationType="hospitals" /></NoIndexRoute>} />
                     <Route path="/work-with-us/referral-partners/apply" element={<NoIndexRoute title="Referral Partner Application | Medora Health"><PartnershipApplicationPage applicationType="referral-partners" /></NoIndexRoute>} />
                     <Route path="/work-with-us/travel-services/apply" element={<NoIndexRoute title="Travel Services Application | Medora Health"><PartnershipApplicationPage applicationType="travel-services" /></NoIndexRoute>} />
+                    <Route path="/guides" element={<Guides />} />
                     <Route path="/visa" element={<Guides />} />
                     <Route path="/visa/:categorySlug/:guideSlug" element={<GuideDetail />} />
                     <Route path="/locations/china/:city" element={<LocationGuide />} />

@@ -21,6 +21,8 @@ type SeoConfig = {
   includeAlternates?: boolean;
   availableLocales?: SiteLocale[];
   alternatePaths?: Partial<Record<SiteLocale, string>>;
+  ogType?: "website" | "article";
+  structuredData?: unknown;
 };
 
 function ensureMeta(selector: string, attributes: Record<string, string>) {
@@ -89,6 +91,17 @@ function setLanguageAlternates(
   }
 }
 
+function setStructuredData(structuredData: unknown) {
+  document.getElementById("page-structured-data")?.remove();
+  if (!structuredData) return;
+
+  const script = document.createElement("script");
+  script.id = "page-structured-data";
+  script.type = "application/ld+json";
+  script.textContent = JSON.stringify(structuredData);
+  document.head.appendChild(script);
+}
+
 export function setPageSeo({
   title,
   description,
@@ -98,6 +111,8 @@ export function setPageSeo({
   includeAlternates = robots === "index,follow",
   availableLocales = [...ALL_LOCALES],
   alternatePaths = {},
+  ogType = "website",
+  structuredData,
 }: SeoConfig) {
   const currentLocale =
     typeof window === "undefined"
@@ -113,7 +128,7 @@ export function setPageSeo({
   ensureMeta('meta[property="og:site_name"]', { property: "og:site_name", content: SITE_NAME });
   ensureMeta('meta[property="og:title"]', { property: "og:title", content: title });
   ensureMeta('meta[property="og:description"]', { property: "og:description", content: description });
-  ensureMeta('meta[property="og:type"]', { property: "og:type", content: "website" });
+  ensureMeta('meta[property="og:type"]', { property: "og:type", content: ogType });
   ensureMeta('meta[property="og:url"]', { property: "og:url", content: canonicalUrl });
   ensureMeta('meta[property="og:image"]', { property: "og:image", content: image });
   ensureMeta('meta[name="twitter:card"]', { name: "twitter:card", content: "summary_large_image" });
@@ -121,6 +136,7 @@ export function setPageSeo({
   ensureMeta('meta[name="twitter:description"]', { name: "twitter:description", content: description });
   ensureMeta('meta[name="twitter:image"]', { name: "twitter:image", content: image });
   ensureCanonical(canonicalUrl);
+  setStructuredData(structuredData);
 
   document.documentElement.lang = getHreflang(currentLocale);
   document.documentElement.dir = currentLocale === "ar" ? "rtl" : "ltr";

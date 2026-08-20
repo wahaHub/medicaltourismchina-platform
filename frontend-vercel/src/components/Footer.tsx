@@ -70,7 +70,7 @@ const Footer = () => {
   ];
 
   const resourceLinks: FooterLinkItem[] = [
-    { key: "footer.visaInformation", href: "/visa" },
+    { key: "footer.visaInformation", href: "/guides" },
     { key: "footer.patientGuide", href: PRE_DEPARTURE_GUIDE_URL, external: true, download: true },
     { key: "footer.patientStories", href: "/#testimonials" },
   ];

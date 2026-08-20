@@ -13,6 +13,7 @@ const LIMITED_LOCALIZED_PATHS = new Set([
   "/treatment",
   "/packages",
   "/hospitals",
+  "/guides",
   "/visa",
   "/work-with-us",
 ]);
