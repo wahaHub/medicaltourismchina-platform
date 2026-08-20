@@ -13,12 +13,12 @@ afterEach(() => {
 
 describe("setPageSeo", () => {
   it("sets article metadata and replaces page-scoped structured data", () => {
-    window.history.replaceState({}, "", "/visa/cost-insurance-guides/example");
+    window.history.replaceState({}, "", "/guides/cost-insurance-guides/example");
 
     setPageSeo({
       title: "Example medical travel guide",
       description: "A sufficiently detailed example description for a medical travel guide page.",
-      path: "/visa/cost-insurance-guides/example",
+      path: "/guides/cost-insurance-guides/example",
       availableLocales: ["en", "zh"],
       ogType: "article",
       structuredData: { "@context": "https://schema.org", "@type": "Article" },

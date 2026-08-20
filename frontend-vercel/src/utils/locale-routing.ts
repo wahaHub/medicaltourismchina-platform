@@ -19,6 +19,7 @@ const LIMITED_LOCALIZED_PATHS = new Set([
 ]);
 const LIMITED_LOCALIZED_DYNAMIC_PATHS = [
   /^\/procedures\/[^/]+$/,
+  /^\/(?:guides|visa)\/[^/]+\/[^/]+$/,
   /^\/work-with-us(?:\/.*)?$/,
 ];
 

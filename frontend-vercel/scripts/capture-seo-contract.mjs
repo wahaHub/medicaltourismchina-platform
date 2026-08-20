@@ -24,7 +24,7 @@ const CRITICAL_CONTENT_PATHS = new Set([
   "/treatment",
   "/packages",
   "/hospitals",
-  "/visa",
+  "/guides",
 ]);
 const LOCALE_PREFIX = /^\/(?:zh|es|fr|de|ru|ar|id)(?=\/|$)/;
 

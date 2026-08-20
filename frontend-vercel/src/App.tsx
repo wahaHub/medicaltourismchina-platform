@@ -4,7 +4,7 @@ import { Toaster as Sonner } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { lazy, Suspense, useEffect, useState, type ReactNode } from "react";
-import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
+import { BrowserRouter, Navigate, Routes, Route, useLocation, useParams } from "react-router-dom";
 import { AuthProvider } from "@/contexts/AuthContext";
 import { PatientAuthProvider } from "@/contexts/PatientAuthContext";
 import { PatientEntryProvider } from "@/contexts/PatientEntryContext";
@@ -124,6 +124,19 @@ function NoIndexRoute({ children, title }: { children: ReactNode; title: string 
   return children;
 }
 
+function LegacyGuideRedirect() {
+  const { categorySlug, guideSlug } = useParams<{
+    categorySlug: string;
+    guideSlug: string;
+  }>();
+
+  if (!categorySlug || !guideSlug) {
+    return <Navigate to="/guides" replace />;
+  }
+
+  return <Navigate to={`/guides/${categorySlug}/${guideSlug}`} replace />;
+}
+
 function LocaleRouteBoundary({ children }: { children: ReactNode }) {
   const location = useLocation();
   const isUnsupportedLimitedLocalePath =
@@ -185,8 +198,9 @@ const App = () => (
                     <Route path="/work-with-us/referral-partners/apply" element={<NoIndexRoute title="Referral Partner Application | Medora Health"><PartnershipApplicationPage applicationType="referral-partners" /></NoIndexRoute>} />
                     <Route path="/work-with-us/travel-services/apply" element={<NoIndexRoute title="Travel Services Application | Medora Health"><PartnershipApplicationPage applicationType="travel-services" /></NoIndexRoute>} />
                     <Route path="/guides" element={<Guides />} />
-                    <Route path="/visa" element={<Guides />} />
-                    <Route path="/visa/:categorySlug/:guideSlug" element={<GuideDetail />} />
+                    <Route path="/guides/:categorySlug/:guideSlug" element={<GuideDetail />} />
+                    <Route path="/visa" element={<Navigate to="/guides" replace />} />
+                    <Route path="/visa/:categorySlug/:guideSlug" element={<LegacyGuideRedirect />} />
                     <Route path="/locations/china/:city" element={<LocationGuide />} />
                     <Route path="/medical-case-intake" element={<NoIndexRoute title="Medical Case Intake | Medora Health"><CaseIntakePage /></NoIndexRoute>} />
                     <Route path="/case-intake/:id" element={<NoIndexRoute title="Medical Case | Medora Health"><CaseIntakeViewPage /></NoIndexRoute>} />

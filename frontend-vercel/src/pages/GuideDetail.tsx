@@ -130,7 +130,7 @@ export default function GuideDetail() {
   const reviewedBy = guideSeo?.reviewedBy?.[displayLocale]
     || guideSeo?.reviewedBy?.en
     || "Medora Health Editorial Team";
-  const guidePath = `/visa/${categorySlug}/${guideSlug}`;
+  const guidePath = `/guides/${categorySlug}/${guideSlug}`;
   const availableLocales = useMemo(
     () => (guide?.locales || []).filter((locale): locale is SiteLocale =>
       (GUIDE_LOCALES as readonly string[]).includes(locale)

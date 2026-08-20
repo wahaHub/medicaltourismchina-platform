@@ -14,8 +14,8 @@ describe("guide SEO pages", () => {
 
     expect(pages).toHaveLength(410);
     expect(targetPages.map((page) => page.path).sort()).toEqual([
-      `/visa/cost-insurance-guides/${SLUG}`,
-      `/zh/visa/cost-insurance-guides/${SLUG}`,
+      `/guides/cost-insurance-guides/${SLUG}`,
+      `/zh/guides/cost-insurance-guides/${SLUG}`,
     ]);
 
     for (const page of targetPages) {
@@ -28,8 +28,8 @@ describe("guide SEO pages", () => {
           : "China Medical Travel Flight and Accommodation Budget",
       );
       expect(page.alternates).toEqual({
-        en: `/visa/cost-insurance-guides/${SLUG}`,
-        zh: `/zh/visa/cost-insurance-guides/${SLUG}`,
+        en: `/guides/cost-insurance-guides/${SLUG}`,
+        zh: `/zh/guides/cost-insurance-guides/${SLUG}`,
       });
       expect(page.contentHtml).toContain('data-seo-article-content="true"');
       expect(page.contentHtml).not.toContain("SEO Metadata");

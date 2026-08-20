@@ -516,11 +516,15 @@ export function validateProtectedUrls(currentUrls, contract, approvals) {
   };
 }
 
-export function validateProtectedMetadata(htmlByUrl, metadataContract) {
+export function validateProtectedMetadata(htmlByUrl, metadataContract, approvals = {}) {
   const errors = [];
   const warnings = [];
+  const approvedRemovals = new Set(
+    (approvals?.removals ?? []).map((entry) => entry.url),
+  );
 
   for (const expected of metadataContract?.pages ?? []) {
+    if (approvedRemovals.has(expected.url)) continue;
     const actual = htmlByUrl.get(expected.url);
     if (!actual) {
       errors.push(`Protected metadata page is missing from build: ${expected.url}`);
@@ -612,6 +616,7 @@ export async function validateSeoArtifacts({
   const metadataValidation = validateProtectedMetadata(
     htmlByUrl,
     metadataContract,
+    approvals,
   );
   errors.push(...metadataValidation.errors);
   warnings.push(...metadataValidation.warnings);

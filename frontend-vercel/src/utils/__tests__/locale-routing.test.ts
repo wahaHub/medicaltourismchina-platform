@@ -80,6 +80,20 @@ describe("locale routing", () => {
   );
 
   it.each(["ar", "id"] as const)(
+    "preserves localized guide detail paths for %s",
+    (locale) => {
+      expect(buildLocaleUrl(locale, {
+        origin: "https://www.medicaltourismchina.health",
+        pathname: "/guides/clinical-trials-advanced-treatments/adverse-event-reporting-in-clinical-trials-a-patient-guide",
+        search: "",
+        hash: "#reporting-timeline",
+      } as Location)).toBe(
+        `https://www.medicaltourismchina.health/${locale}/guides/clinical-trials-advanced-treatments/adverse-event-reporting-in-clinical-trials-a-patient-guide#reporting-timeline`,
+      );
+    },
+  );
+
+  it.each(["ar", "id"] as const)(
     "still sends unsupported %s dynamic content paths to the localized homepage",
     (locale) => {
       expect(buildLocaleUrl(locale, {
