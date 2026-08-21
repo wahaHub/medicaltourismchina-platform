@@ -253,6 +253,24 @@ describe("protected SEO contracts", () => {
       ).errors[0],
     ).toContain("changed protected title");
   });
+
+  it("skips metadata checks for an explicitly approved URL migration", () => {
+    const oldUrl = `${SITE_ORIGIN}/visa`;
+    const result = validateProtectedMetadata(
+      new Map(),
+      { pages: [{ url: oldUrl }] },
+      {
+        removals: [{
+          url: oldUrl,
+          reason: "The Guides hub moved to a dedicated namespace.",
+          expectedStatus: 308,
+          replacement: `${SITE_ORIGIN}/guides`,
+        }],
+      },
+    );
+
+    expect(result.errors).toEqual([]);
+  });
 });
 
 describe("full build artifact validation", () => {

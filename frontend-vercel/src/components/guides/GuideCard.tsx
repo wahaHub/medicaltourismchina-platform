@@ -46,7 +46,7 @@ export default function GuideCard({
 
   return (
     <Link
-      to={`/visa/${categorySlug}/${guide.slug}`}
+      to={`/guides/${categorySlug}/${guide.slug}`}
       className={cn(
         "group flex h-full flex-col overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-card transition-all hover:-translate-y-0.5 hover:shadow-lg sm:flex-row",
         className,

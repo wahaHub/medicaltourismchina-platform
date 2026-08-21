@@ -1,4 +1,23 @@
 {
   "version": 1,
-  "removals": []
+  "removals": [
+    {
+      "url": "https://www.medicaltourismchina.health/visa",
+      "reason": "The patient Guides hub moved from the legacy Visa namespace to the clearer /guides URL.",
+      "expectedStatus": 308,
+      "replacement": "https://www.medicaltourismchina.health/guides"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/ar/visa",
+      "reason": "The Arabic patient Guides hub moved from the legacy Visa namespace to the localized /guides URL.",
+      "expectedStatus": 308,
+      "replacement": "https://www.medicaltourismchina.health/ar/guides"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/id/visa",
+      "reason": "The Indonesian patient Guides hub moved from the legacy Visa namespace to the localized /guides URL.",
+      "expectedStatus": 308,
+      "replacement": "https://www.medicaltourismchina.health/id/guides"
+    }
+  ]
 }

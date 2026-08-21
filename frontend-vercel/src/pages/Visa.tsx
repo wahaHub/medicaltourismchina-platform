@@ -16,7 +16,7 @@ const Visa = () => {
   const { currentLanguage } = useLanguage();
 
   useEffect(() => {
-    const metadata = getStaticPageMetadata("visa", currentLanguage.code);
+    const metadata = getStaticPageMetadata("guides", currentLanguage.code);
     setPageSeo({
       title: metadata.locale.title,
       description: metadata.locale.description,

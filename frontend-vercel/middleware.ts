@@ -17,6 +17,7 @@ const LIMITED_PUBLIC_PATHS = new Set([
 ]);
 const LIMITED_PUBLIC_DYNAMIC_PATHS = [
   /^\/procedures\/[^/]+$/,
+  /^\/(?:guides|visa)\/[^/]+\/[^/]+$/,
   /^\/work-with-us(?:\/.*)?$/,
 ];
 const RETIRED_PUBLIC_PATHS = new Set([

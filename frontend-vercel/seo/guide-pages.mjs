@@ -147,7 +147,7 @@ export async function makeGuidePages(projectRoot) {
       const availableLocales = (guide.locales || []).filter((locale) => INDEXABLE_GUIDE_LOCALES.has(locale));
       if (!availableLocales.includes("en")) continue;
 
-      const route = `/visa/${category.slug}/${guide.slug}`;
+      const route = `/guides/${category.slug}/${guide.slug}`;
       const seoGuide = seoManifest.guides?.[`${category.slug}/${guide.slug}`] || {};
       const alternates = Object.fromEntries(
         availableLocales.map((locale) => [locale, localizePath(route, locale)]),

@@ -280,27 +280,6 @@ export const STATIC_PAGE_METADATA = {
       },
     },
   },
-  visa: {
-    path: "/visa",
-    indexableLocales: ["en", "ar", "id"],
-    locales: {
-      en: {
-        title: "Patient Guides for Medical Care in China | Medora Health",
-        description: "Explore expert-reviewed patient guides on hospitals, treatments, clinical trials, costs, insurance, and every step of care in China.",
-        heading: "Medora Health patient guides",
-      },
-      ar: {
-        title: "أدلة المرضى للرعاية الطبية في الصين | Medora Health",
-        description: "اطلع على أدلة مرضى مراجعة من خبراء حول المستشفيات والعلاجات والتجارب السريرية والتكاليف والتأمين وكل خطوة من رحلة الرعاية في الصين.",
-        heading: "أدلة Medora Health للمرضى",
-      },
-      id: {
-        title: "Panduan Pasien untuk Perawatan Medis di Tiongkok | Medora Health",
-        description: "Jelajahi panduan pasien yang ditinjau oleh ahli tentang rumah sakit, perawatan, uji klinis, biaya, asuransi, dan setiap langkah perawatan di Tiongkok.",
-        heading: "Panduan pasien Medora Health",
-      },
-    },
-  },
   guides: {
     path: "/guides",
     indexableLocales: ["en", "ar", "id"],

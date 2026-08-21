@@ -4,6 +4,36 @@
   "framework": "vite",
   "redirects": [
     {
+      "source": "/en/visa",
+      "destination": "/guides",
+      "permanent": true
+    },
+    {
+      "source": "/en/visa/:path*",
+      "destination": "/guides/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/visa",
+      "destination": "/guides",
+      "permanent": true
+    },
+    {
+      "source": "/visa/:path*",
+      "destination": "/guides/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/:locale/visa",
+      "destination": "/:locale/guides",
+      "permanent": true
+    },
+    {
+      "source": "/:locale/visa/:path*",
+      "destination": "/:locale/guides/:path*",
+      "permanent": true
+    },
+    {
       "source": "/en",
       "destination": "/",
       "permanent": true
