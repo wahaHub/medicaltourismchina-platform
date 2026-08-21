@@ -1,4 +1,4 @@
-import { crmApiRequest, crmApiUploadProxy } from './crmApiClient';
+import { crmApiRequest } from './crmApiClient';
 import { patientMessagesApi, type PatientMessageAttachment } from './patient-messages';
 
 export type PatientDashboardCase = {
@@ -244,7 +244,32 @@ export async function uploadPatientCaseDocument(input: {
   file: File;
   description?: string;
 }): Promise<{ ok: true }> {
-  const { upload, asset } = await patientMessagesApi.initSessionAttachmentUpload({
+  const retainedKey = `medora-patient-upload-completion:v1:${encodeURIComponent([
+    input.sessionId, input.file.name, input.file.size, input.file.type, input.file.lastModified,
+  ].join(':'))}`;
+  const retained = typeof window !== 'undefined'
+    ? readRetainedPatientCompletion(window.sessionStorage.getItem(retainedKey))
+    : null;
+  if (retained) {
+    let effectiveStatus: string | null = null;
+    try {
+      effectiveStatus = (await patientMessagesApi.getUploadStatus(retained.uploadIntentId)).effectiveStatus;
+    } catch {
+      // Completion is idempotent and remains the fallback if status is temporarily unavailable.
+    }
+    if (effectiveStatus === 'COMPLETED') {
+      window.sessionStorage.removeItem(retainedKey);
+      return { ok: true };
+    }
+    if (!effectiveStatus || effectiveStatus === 'INITIATED') {
+      await completePatientCaseDocument(input, retained);
+      window.sessionStorage.removeItem(retainedKey);
+      return { ok: true };
+    }
+    window.sessionStorage.removeItem(retainedKey);
+  }
+
+  const { upload, message } = await patientMessagesApi.initSessionAttachmentUpload({
     sessionId: input.sessionId,
     fileName: input.file.name,
     fileSize: input.file.size,
@@ -252,24 +277,53 @@ export async function uploadPatientCaseDocument(input: {
     mechanicalMode: true,
   });
 
-  await crmApiUploadProxy({ uploadUrl: upload.uploadUrl, file: input.file });
-
-  await patientMessagesApi.sendSessionMessage({
-    sessionId: input.sessionId,
-    content: '',
-    messageType: 'FILE',
-    mechanicalMode: true,
-    attachments: [
-      {
-        fileName: asset.fileName,
-        mimeType: asset.mimeType,
-        fileSize: asset.fileSize,
-        storageKey: asset.storageKey,
-      },
-    ],
+  const uploadResponse = await fetch(upload.uploadUrl, {
+    method: 'PUT',
+    headers: upload.requiredHeaders,
+    body: input.file,
   });
+  if (!uploadResponse.ok && uploadResponse.status !== 409 && uploadResponse.status !== 412) {
+    throw new Error(`Medical record upload failed with HTTP ${uploadResponse.status}`);
+  }
+
+  const completion = {
+    uploadIntentId: upload.uploadIntentId,
+    serverMessageId: message?.serverMessageId,
+    clientMessageId: message?.clientMessageId ?? undefined,
+  };
+  if (typeof window !== 'undefined') window.sessionStorage.setItem(retainedKey, JSON.stringify(completion));
+  await completePatientCaseDocument(input, completion);
+  if (typeof window !== 'undefined') window.sessionStorage.removeItem(retainedKey);
 
   return { ok: true };
+}
+
+type RetainedPatientCompletion = {
+  uploadIntentId: string;
+  serverMessageId?: string;
+  clientMessageId?: string;
+};
+
+function readRetainedPatientCompletion(value: string | null): RetainedPatientCompletion | null {
+  if (!value) return null;
+  try {
+    const parsed = JSON.parse(value) as RetainedPatientCompletion;
+    return typeof parsed.uploadIntentId === 'string' ? parsed : null;
+  } catch {
+    return null;
+  }
+}
+
+async function completePatientCaseDocument(
+  input: { sessionId: string; description?: string },
+  completion: RetainedPatientCompletion,
+): Promise<void> {
+  await patientMessagesApi.sendSessionChatEvent({
+    sessionId: input.sessionId,
+    eventType: 'ATTACHMENT_UPLOAD_COMPLETED',
+    ...completion,
+    payload: input.description ? { description: input.description } : undefined,
+  });
 }
 
 export const patientDashboardApi = {
