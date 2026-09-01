@@ -20,6 +20,26 @@ interface VideoCallRoomProps {
   onLeave: () => void;
 }
 
+interface SubtitleLine {
+  sourceText: string;
+  translatedText: string;
+  fromLanguage: string;
+  toLanguage: string;
+  isFinal: boolean;
+}
+
+interface RemoteAudioEntry {
+  track: RemoteAudioTrack;
+  participantIdentity: string;
+}
+
+// Subtitle/interpretation data messages are only trusted from the translator
+// agent. Agent identities are server-assigned as 'translator-<jobId>' and
+// guest tokens cannot publish data messages, so this prefix cannot be spoofed
+// by link holders.
+const TRANSLATOR_IDENTITY_PREFIX = 'translator-';
+const DUCKED_ORIGINAL_VOLUME = 0.15;
+
 function RemoteVideoView({ track, className }: { track: RemoteVideoTrack; className?: string }) {
   const containerRef = useRef<HTMLDivElement>(null);
 
@@ -38,16 +58,27 @@ function RemoteVideoView({ track, className }: { track: RemoteVideoTrack; classN
   return <div ref={containerRef} className={cn('overflow-hidden bg-slate-900', className)} />;
 }
 
-function RemoteAudio({ track }: { track: RemoteAudioTrack }) {
+function RemoteAudio({ track, volume }: { track: RemoteAudioTrack; volume: number }) {
+  const elementRef = useRef<HTMLMediaElement | null>(null);
+
   useEffect(() => {
     const element = track.attach();
     element.style.display = 'none';
     document.body.appendChild(element);
+    elementRef.current = element;
     return () => {
       track.detach(element);
       element.remove();
+      elementRef.current = null;
     };
   }, [track]);
+
+  useEffect(() => {
+    if (elementRef.current) {
+      elementRef.current.volume = volume;
+    }
+  }, [volume]);
+
   return null;
 }
 
@@ -60,7 +91,9 @@ export default function VideoCallRoom({ token, livekitUrl, displayName, onLeave 
   const [cameraEnabled, setCameraEnabled] = useState(true);
   const [localVideoTrack, setLocalVideoTrack] = useState<LocalVideoTrack | null>(null);
   const [remoteVideoTracks, setRemoteVideoTracks] = useState<RemoteVideoTrack[]>([]);
-  const [remoteAudioTracks, setRemoteAudioTracks] = useState<RemoteAudioTrack[]>([]);
+  const [remoteAudioEntries, setRemoteAudioEntries] = useState<RemoteAudioEntry[]>([]);
+  const [subtitles, setSubtitles] = useState<SubtitleLine[]>([]);
+  const [translatedPlayoutCount, setTranslatedPlayoutCount] = useState(0);
   const localVideoRef = useRef<HTMLDivElement>(null);
   const onLeaveRef = useRef(onLeave);
   onLeaveRef.current = onLeave;
@@ -82,20 +115,59 @@ export default function VideoCallRoom({ token, livekitUrl, displayName, onLeave 
     lkRoom
       .on(RoomEvent.LocalTrackPublished, syncLocalVideo)
       .on(RoomEvent.LocalTrackUnpublished, syncLocalVideo)
-      .on(RoomEvent.TrackSubscribed, (track) => {
+      .on(RoomEvent.TrackSubscribed, (track, _publication, participant) => {
         if (track.kind === Track.Kind.Video) {
           const videoTrack = track as RemoteVideoTrack;
           setRemoteVideoTracks((prev) => (prev.some((item) => item.sid === videoTrack.sid) ? prev : [...prev, videoTrack]));
         } else if (track.kind === Track.Kind.Audio) {
           const audioTrack = track as RemoteAudioTrack;
-          setRemoteAudioTracks((prev) => (prev.some((item) => item.sid === audioTrack.sid) ? prev : [...prev, audioTrack]));
+          setRemoteAudioEntries((prev) => (
+            prev.some((item) => item.track.sid === audioTrack.sid)
+              ? prev
+              : [...prev, { track: audioTrack, participantIdentity: participant.identity }]
+          ));
         }
       })
       .on(RoomEvent.TrackUnsubscribed, (track) => {
         if (track.kind === Track.Kind.Video) {
           setRemoteVideoTracks((prev) => prev.filter((item) => item.sid !== track.sid));
         } else if (track.kind === Track.Kind.Audio) {
-          setRemoteAudioTracks((prev) => prev.filter((item) => item.sid !== track.sid));
+          setRemoteAudioEntries((prev) => prev.filter((item) => item.track.sid !== track.sid));
+        }
+      })
+      .on(RoomEvent.ParticipantDisconnected, (participant) => {
+        setRemoteAudioEntries((prev) => prev.filter((entry) => entry.participantIdentity !== participant.identity));
+        if (participant.identity.startsWith(TRANSLATOR_IDENTITY_PREFIX)) {
+          setTranslatedPlayoutCount(0);
+        }
+      })
+      .on(RoomEvent.DataReceived, (payload, participant, _kind, topic) => {
+        if (!participant?.identity?.startsWith(TRANSLATOR_IDENTITY_PREFIX)) return;
+        if (payload.byteLength > 64 * 1024) return;
+        try {
+          const msg = JSON.parse(new TextDecoder().decode(payload)) as Record<string, unknown>;
+          if (topic === 'interpretation-status' && msg.schema === 'medora.interpretation.status.v1') {
+            if (msg.code === 'TRANSLATED_PLAYOUT_STARTED') {
+              setTranslatedPlayoutCount((count) => count + 1);
+            } else if (msg.code === 'TRANSLATED_PLAYOUT_ENDED') {
+              setTranslatedPlayoutCount((count) => Math.max(0, count - 1));
+            }
+            return;
+          }
+          if (topic !== 'subtitle' || msg.schema !== 'medora.subtitle.v1') return;
+          if (typeof msg.sourceText !== 'string' || typeof msg.translatedText !== 'string') return;
+          if (msg.sourceText.length > 4_000 || msg.translatedText.length > 4_000) return;
+          if (typeof msg.isFinal !== 'boolean') return;
+          const line: SubtitleLine = {
+            sourceText: msg.sourceText,
+            translatedText: msg.translatedText,
+            fromLanguage: String(msg.fromLanguage ?? ''),
+            toLanguage: String(msg.toLanguage ?? ''),
+            isFinal: msg.isFinal,
+          };
+          setSubtitles((prev) => [...prev.slice(-49), line]);
+        } catch {
+          // Ignore malformed data messages.
         }
       })
       .on(RoomEvent.Disconnected, () => {
@@ -166,6 +238,8 @@ export default function VideoCallRoom({ token, livekitUrl, displayName, onLeave 
     );
   }
 
+  const visibleSubtitles = subtitles.slice(-2);
+
   return (
     <div className="overflow-hidden rounded-xl bg-slate-950 text-white">
       <div className="relative aspect-video w-full">
@@ -182,6 +256,25 @@ export default function VideoCallRoom({ token, livekitUrl, displayName, onLeave 
           </div>
         )}
 
+        {visibleSubtitles.length > 0 && (
+          <div className="pointer-events-none absolute inset-x-0 bottom-3 flex flex-col items-center gap-1 px-4">
+            {visibleSubtitles.map((line, index) => (
+              <div
+                key={`${subtitles.length - visibleSubtitles.length + index}`}
+                className={cn(
+                  'max-w-2xl rounded-lg bg-black/70 px-3 py-1.5 text-center',
+                  line.isFinal ? '' : 'opacity-80',
+                )}
+              >
+                <p className="text-sm text-white">{line.translatedText}</p>
+                {line.translatedText !== line.sourceText && (
+                  <p className="text-xs text-slate-400">{line.sourceText}</p>
+                )}
+              </div>
+            ))}
+          </div>
+        )}
+
         <div className="absolute bottom-3 right-3 h-28 w-40 overflow-hidden rounded-lg border border-slate-700 bg-slate-800 shadow-lg">
           {localVideoTrack && cameraEnabled ? (
             <div ref={localVideoRef} className="h-full w-full" />
@@ -193,8 +286,18 @@ export default function VideoCallRoom({ token, livekitUrl, displayName, onLeave 
         </div>
       </div>
 
-      {remoteAudioTracks.map((track) => (
-        <RemoteAudio key={track.sid} track={track} />
+      {remoteAudioEntries.map((entry) => (
+        <RemoteAudio
+          key={entry.track.sid}
+          track={entry.track}
+          volume={
+            entry.participantIdentity.startsWith(TRANSLATOR_IDENTITY_PREFIX)
+              ? 1
+              : translatedPlayoutCount > 0
+                ? DUCKED_ORIGINAL_VOLUME
+                : 1
+          }
+        />
       ))}
 
       <div className="flex items-center justify-center gap-3 bg-slate-900 px-4 py-3">
