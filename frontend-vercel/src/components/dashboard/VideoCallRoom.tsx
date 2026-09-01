@@ -242,9 +242,9 @@ export default function VideoCallRoom({ token, livekitUrl, displayName, onLeave 
 
   return (
     <div className="overflow-hidden rounded-xl bg-slate-950 text-white">
-      <div className="relative aspect-video w-full">
+      <div className="relative aspect-[4/3] w-full sm:aspect-video">
         {remoteVideoTracks.length > 0 ? (
-          <div className={cn('grid h-full w-full gap-1', remoteVideoTracks.length > 1 ? 'grid-cols-2' : 'grid-cols-1')}>
+          <div className={cn('grid h-full w-full gap-1', remoteVideoTracks.length > 1 ? 'grid-cols-1 sm:grid-cols-2' : 'grid-cols-1')}>
             {remoteVideoTracks.map((track) => (
               <RemoteVideoView key={track.sid} track={track} className="h-full w-full" />
             ))}
@@ -275,7 +275,7 @@ export default function VideoCallRoom({ token, livekitUrl, displayName, onLeave 
           </div>
         )}
 
-        <div className="absolute bottom-3 right-3 h-28 w-40 overflow-hidden rounded-lg border border-slate-700 bg-slate-800 shadow-lg">
+        <div className="absolute right-2 top-2 h-20 w-28 overflow-hidden rounded-lg border border-slate-700 bg-slate-800 shadow-lg sm:right-3 sm:top-3 sm:h-28 sm:w-40">
           {localVideoTrack && cameraEnabled ? (
             <div ref={localVideoRef} className="h-full w-full" />
           ) : (
