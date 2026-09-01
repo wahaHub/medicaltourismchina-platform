@@ -1,6 +1,6 @@
 import type React from 'react';
 import { useMemo } from 'react';
-import { FileText, FolderHeart, Home, LifeBuoy, LogOut, MessageSquareMore, Route, ShieldCheck, ShoppingBag, Sparkles } from 'lucide-react';
+import { FileText, FolderHeart, Home, LifeBuoy, LogOut, MessageSquareMore, Route, ShieldCheck, ShoppingBag, Sparkles, Video } from 'lucide-react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
@@ -14,10 +14,11 @@ import TicketsPage from './TicketsPage';
 import OrdersPage from './OrdersPage';
 import JourneyPage from './JourneyPage';
 import MedicalRecordsPage from './MedicalRecordsPage';
+import VideoConsultationsPage from './VideoConsultationsPage';
 
-type DashboardTab = 'home' | 'quotes' | 'messages' | 'tickets' | 'orders' | 'journey' | 'medical-records';
+type DashboardTab = 'home' | 'quotes' | 'messages' | 'tickets' | 'orders' | 'journey' | 'medical-records' | 'video-consultations';
 
-const VALID_TABS: DashboardTab[] = ['home', 'quotes', 'messages', 'tickets', 'orders', 'journey', 'medical-records'];
+const VALID_TABS: DashboardTab[] = ['home', 'quotes', 'messages', 'tickets', 'orders', 'journey', 'medical-records', 'video-consultations'];
 
 const NAV_ITEMS: Array<{
   value: DashboardTab;
@@ -31,6 +32,7 @@ const NAV_ITEMS: Array<{
   { value: 'orders', labelKey: 'dashboard.shell.orders', icon: ShoppingBag },
   { value: 'journey', labelKey: 'dashboard.shell.journey', icon: Route },
   { value: 'medical-records', labelKey: 'dashboard.shell.medicalRecords', icon: FolderHeart },
+  { value: 'video-consultations', labelKey: 'dashboard.shell.videoConsultations', icon: Video },
 ];
 
 export default function PatientDashboardShell() {
@@ -90,6 +92,7 @@ export default function PatientDashboardShell() {
       {activeTab === 'orders' && <OrdersPage />}
       {activeTab === 'journey' && <JourneyPage />}
       {activeTab === 'medical-records' && <MedicalRecordsPage />}
+      {activeTab === 'video-consultations' && <VideoConsultationsPage />}
     </>
   );
 

@@ -40,6 +40,7 @@ const NotFound = lazy(() => import("./pages/NotFound"));
 const Telemedicine = lazy(() => import("./pages/Telemedicine"));
 const FreeQuote = lazy(() => import("./pages/FreeQuote"));
 const PatientLoginPage = lazy(() => import("./pages/PatientLoginPage"));
+const VideoRoomPage = lazy(() => import("./pages/VideoRoomPage"));
 const DashboardRoute = lazy(() => import("./pages/DashboardRoute"));
 const LocationGuide = lazy(() => import("./pages/LocationGuide"));
 const DeferredPatientMessaging = lazy(() => import("./components/DeferredPatientMessaging"));
@@ -206,6 +207,7 @@ const App = () => (
                     <Route path="/case-intake/:id" element={<NoIndexRoute title="Medical Case | Medora Health"><CaseIntakeViewPage /></NoIndexRoute>} />
                     <Route path="/patient-login" element={<NoIndexRoute title="Patient Login | Medora Health"><PatientLoginPage /></NoIndexRoute>} />
                     <Route path="/dashboard" element={<NoIndexRoute title="Patient Dashboard | Medora Health"><PatientRuntimeRoute><DashboardRoute /></PatientRuntimeRoute></NoIndexRoute>} />
+                    <Route path="/video-room/:consultationId" element={<NoIndexRoute title="Video Consultation | Medora Health"><VideoRoomPage /></NoIndexRoute>} />
 
                     <Route path="/telemedicine" element={<Telemedicine />} />
                     <Route path="/free-quote" element={<NoIndexRoute title="Request a Treatment Quote | Medora Health"><FreeQuote /></NoIndexRoute>} />
