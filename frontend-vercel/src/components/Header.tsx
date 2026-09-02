@@ -5,6 +5,7 @@ import { Link, useLocation } from "react-router-dom";
 import { useLanguage } from "@/contexts/LanguageContext";
 import QuoteRequestModal from "@/components/QuoteRequestModal";
 import { BRAND_LOGO_URL } from "@/config/brandAssets";
+import { SHOW_TELEMEDICINE } from "@/config/publicVisibility.mjs";
 
 const navLinks = [
   { label: "HOME", labelKey: "nav.home", href: "/" },
@@ -21,7 +22,9 @@ export default function Header() {
   const [isConsultationModalOpen, setIsConsultationModalOpen] = useState(false);
   const location = useLocation();
   const { t } = useLanguage();
-  const visibleNavLinks = navLinks;
+  const visibleNavLinks = SHOW_TELEMEDICINE
+    ? navLinks
+    : navLinks.filter((link) => link.href !== "/telemedicine");
 
   const isActive = (href: string) => {
     if (href === "/") {

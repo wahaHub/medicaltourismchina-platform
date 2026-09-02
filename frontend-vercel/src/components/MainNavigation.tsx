@@ -4,6 +4,7 @@ import { Menu, X, Heart, Package, Hospital, Search, Home, FileText, Stethoscope 
 import { cn } from "@/lib/utils";
 import { Link, useLocation } from "react-router-dom";
 import { useLanguage } from "@/contexts/LanguageContext";
+import { SHOW_TELEMEDICINE } from "@/config/publicVisibility.mjs";
 
 const MainNavigation = () => {
   const { t } = useLanguage();
@@ -23,7 +24,7 @@ const MainNavigation = () => {
     return false;
   };
   
-  const navItems = [
+  const allNavItems = [
     { name: t("nav.home"), href: "/", icon: <Home className="h-5 w-5" /> },
     { name: t("nav.telemedicine"), href: "/telemedicine", icon: <Stethoscope className="h-5 w-5" /> },
     { name: t("nav.search"), href: "/search", icon: <Search className="h-5 w-5" /> },
@@ -32,6 +33,9 @@ const MainNavigation = () => {
     { name: t("nav.hospitals"), href: "/hospitals", icon: <Hospital className="h-5 w-5" /> },
     { name: t("nav.visa"), href: "/visa", icon: <FileText className="h-5 w-5" /> },
   ];
+  const navItems = SHOW_TELEMEDICINE
+    ? allNavItems
+    : allNavItems.filter((item) => item.href !== "/telemedicine");
 
   return (
     <>
