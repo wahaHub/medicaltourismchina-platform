@@ -18,7 +18,6 @@ import {
   getHospitalSeoTitle,
 } from "../seo/hospital-metadata.mjs";
 import { makeGuidePages } from "../seo/guide-pages.mjs";
-import { SHOW_TELEMEDICINE } from "../src/config/publicVisibility.mjs";
 
 const PROJECT_ROOT = path.resolve(import.meta.dirname, "..");
 const DIST_DIR = path.join(PROJECT_ROOT, "dist");
@@ -433,7 +432,6 @@ async function mapWithConcurrency(items, concurrency, mapper) {
 function makeStaticPages() {
   const pages = [];
   for (const key of Object.keys(STATIC_PAGE_METADATA)) {
-    if (key === "telemedicine" && !SHOW_TELEMEDICINE) continue;
     for (const locale of SEO_LOCALES) {
       const metadata = getStaticPageMetadata(key, locale);
       const path = localizePath(metadata.path, locale);
