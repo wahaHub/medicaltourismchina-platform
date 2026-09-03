@@ -1,17 +1,24 @@
 import { beforeEach, describe, expect, it, vi } from 'vitest';
-import { listPatientCaseDocuments } from '../patient-dashboard';
+import { listPatientCaseDocuments, uploadPatientCaseDocument } from '../patient-dashboard';
 import { patientMessagesApi } from '../patient-messages';
 
 vi.mock('../patient-messages', () => ({
   patientMessagesApi: {
     listSessions: vi.fn(),
     getSessionMessages: vi.fn(),
+    initSessionAttachmentUpload: vi.fn(),
+    sendSessionChatEvent: vi.fn(),
+    getUploadStatus: vi.fn(),
   },
 }));
 
 describe('patientDashboardApi', () => {
   beforeEach(() => {
     vi.clearAllMocks();
+    window.sessionStorage.clear();
+    vi.mocked(patientMessagesApi.getUploadStatus).mockResolvedValue({
+      status: 'INITIATED', effectiveStatus: 'INITIATED', documentId: null,
+    });
   });
 
   it('groups patient uploads and care-team reply documents from case conversations', async () => {
@@ -150,5 +157,105 @@ describe('patientDashboardApi', () => {
         hospitalName: 'Ruijin Hospital',
       }),
     ]);
+  });
+
+  it('uploads medical records directly and completes the server upload intent', async () => {
+    const file = {
+      name: 'medical-record.pdf',
+      size: 1024,
+      type: 'application/pdf',
+    } as File;
+    vi.mocked(patientMessagesApi.initSessionAttachmentUpload).mockResolvedValue({
+      upload: {
+        uploadUrl: 'https://upload.example.test/presigned',
+        storageKey: 'crm/test/messages/asset.pdf',
+        expiresIn: 600,
+        uploadIntentId: 'intent-1',
+        traceId: 'trace-1',
+        expiresAt: '2026-08-20T12:00:00.000Z',
+        requiredHeaders: {
+          'Content-Type': 'application/pdf',
+          'If-None-Match': '*',
+        },
+      },
+      asset: {
+        fileName: 'medical-record.pdf',
+        mimeType: 'application/pdf',
+        fileSize: 1024,
+        storageKey: 'crm/test/messages/asset.pdf',
+      },
+      message: {
+        serverMessageId: 'message-1',
+        clientMessageId: 'client-1',
+        deliveryStatus: 'uploading',
+      },
+    });
+    vi.mocked(patientMessagesApi.sendSessionChatEvent).mockResolvedValue({} as never);
+    const fetchMock = vi.fn().mockResolvedValue({ ok: true, status: 200 });
+    vi.stubGlobal('fetch', fetchMock);
+
+    await uploadPatientCaseDocument({
+      sessionId: 'session-1',
+      file,
+      description: 'Latest scan',
+    });
+
+    expect(fetchMock).toHaveBeenCalledWith('https://upload.example.test/presigned', {
+      method: 'PUT',
+      headers: {
+        'Content-Type': 'application/pdf',
+        'If-None-Match': '*',
+      },
+      body: file,
+    });
+    expect(patientMessagesApi.sendSessionMessage).toBeUndefined();
+    expect(patientMessagesApi.sendSessionChatEvent).toHaveBeenCalledWith({
+      sessionId: 'session-1',
+      eventType: 'ATTACHMENT_UPLOAD_COMPLETED',
+      uploadIntentId: 'intent-1',
+      serverMessageId: 'message-1',
+      clientMessageId: 'client-1',
+      payload: { description: 'Latest scan' },
+    });
+  });
+
+  it('retries only completion after a 5xx without another init or PUT', async () => {
+    const file = new File(['record'], 'medical-record.pdf', { type: 'application/pdf', lastModified: 1 });
+    vi.mocked(patientMessagesApi.initSessionAttachmentUpload).mockResolvedValue({
+      upload: {
+        uploadUrl: 'https://upload.example.test/presigned', storageKey: 'opaque', expiresIn: 600,
+        uploadIntentId: 'intent-1', traceId: 'trace-1', expiresAt: '2030-01-01T00:00:00.000Z',
+        requiredHeaders: { 'Content-Type': 'application/pdf', 'If-None-Match': '*' },
+      },
+      asset: { fileName: file.name, mimeType: file.type, fileSize: file.size, storageKey: 'opaque' },
+      message: { serverMessageId: 'message-1', clientMessageId: 'client-1', deliveryStatus: 'uploading' },
+    });
+    vi.mocked(patientMessagesApi.sendSessionChatEvent)
+      .mockRejectedValueOnce(new Error('completion 500'))
+      .mockResolvedValueOnce({} as never);
+    const fetchMock = vi.fn().mockResolvedValue({ ok: true, status: 200 });
+    vi.stubGlobal('fetch', fetchMock);
+
+    await expect(uploadPatientCaseDocument({ sessionId: 'session-1', file })).rejects.toThrow('completion 500');
+    await expect(uploadPatientCaseDocument({ sessionId: 'session-1', file })).resolves.toEqual({ ok: true });
+
+    expect(patientMessagesApi.initSessionAttachmentUpload).toHaveBeenCalledTimes(1);
+    expect(fetchMock).toHaveBeenCalledTimes(1);
+    expect(patientMessagesApi.getUploadStatus).toHaveBeenCalledWith('intent-1');
+  });
+
+  it('recovers a lost completion response from completed status after refresh', async () => {
+    const file = new File(['record'], 'medical-record.pdf', { type: 'application/pdf', lastModified: 2 });
+    const key = `medora-patient-upload-completion:v1:${encodeURIComponent(['session-1', file.name, file.size, file.type, file.lastModified].join(':'))}`;
+    window.sessionStorage.setItem(key, JSON.stringify({ uploadIntentId: 'intent-completed', serverMessageId: 'message-1', clientMessageId: 'client-1' }));
+    vi.mocked(patientMessagesApi.getUploadStatus).mockResolvedValue({
+      status: 'COMPLETED', effectiveStatus: 'COMPLETED', documentId: 'document-1',
+    });
+
+    await expect(uploadPatientCaseDocument({ sessionId: 'session-1', file })).resolves.toEqual({ ok: true });
+
+    expect(patientMessagesApi.initSessionAttachmentUpload).not.toHaveBeenCalled();
+    expect(patientMessagesApi.sendSessionChatEvent).not.toHaveBeenCalled();
+    expect(fetch).not.toHaveBeenCalled();
   });
 });

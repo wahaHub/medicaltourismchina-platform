@@ -9,6 +9,7 @@ import HeroSection from "@/components/home-v2/HeroSection";
 import { setPageSeo } from "@/utils/seo";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { getStaticPageMetadata } from "@/seo/static-page";
+import { SHOW_TELEMEDICINE } from "@/config/publicVisibility.mjs";
 
 const OnlineConsultationSection = lazy(() => import("@/components/home-v2/OnlineConsultationSection"));
 const Footer = lazy(() => import("@/components/Footer"));
@@ -47,7 +48,7 @@ const HomePage = () => {
         <FeaturedInSection />
 
         {/* Online Consultation / Second Opinion Section */}
-        <OnlineConsultationSection />
+        {SHOW_TELEMEDICINE && <OnlineConsultationSection />}
 
         {/* New V2 Why Medora Section */}
         <WhyMedoraSection />

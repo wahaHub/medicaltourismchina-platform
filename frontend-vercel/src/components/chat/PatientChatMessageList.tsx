@@ -36,6 +36,7 @@ export type CompactChatMessage = {
   messageState?: CompactChatMessageState;
   uploadBatchId?: string | null;
   uploadBatchSize?: number | null;
+  uploadIntentId?: string | null;
 };
 
 export type CompactChatMessageMutation = {

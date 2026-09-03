@@ -27,6 +27,7 @@ vi.mock('@/services/api/patient-messages', () => ({
     initSessionAttachmentUpload: vi.fn(),
     sendSessionMessage: vi.fn(),
     sendSessionChatEvent: vi.fn(),
+    getUploadStatus: vi.fn(),
   },
 }));
 
@@ -61,9 +62,12 @@ describe('PatientChatComposer attachments', () => {
         text: vi.fn().mockResolvedValue(''),
       }),
     );
+    vi.mocked(patientMessagesApi.getUploadStatus).mockResolvedValue({
+      status: 'INITIATED', effectiveStatus: 'INITIATED', documentId: null,
+    });
   });
 
-  it('uploads selected files and sends them through the formal conversation when assistantMode is HUMAN_TAKEOVER', async () => {
+  it('completes formal attachments before sending accompanying text when assistantMode is HUMAN_TAKEOVER', async () => {
     const onMessagesSent = vi.fn();
 
     vi.mocked(patientMessagesApi.initSessionAttachmentUpload).mockResolvedValue({
@@ -121,6 +125,10 @@ describe('PatientChatComposer attachments', () => {
         fileName: 'lab-report.pdf',
         fileSize: file.size,
         mimeType: 'application/pdf',
+        clientMessageId: expect.stringMatching(/^formal-upload:/),
+        uploadBatchId: expect.stringMatching(/^upload-batch:/),
+        uploadBatchSize: 1,
+        locale: 'en',
       });
     });
 
@@ -132,18 +140,24 @@ describe('PatientChatComposer attachments', () => {
       }),
     );
 
-    expect(patientMessagesApi.sendSessionMessage).toHaveBeenCalledWith({
+    expect(patientMessagesApi.sendSessionChatEvent).toHaveBeenCalledWith({
       sessionId: 'conversation-1',
-      content: 'Please review',
-      messageType: 'FILE',
-      attachments: [
-        {
+      eventType: 'ATTACHMENT_UPLOAD_COMPLETED',
+      clientMessageId: expect.stringMatching(/^formal-upload:/),
+      locale: 'en',
+      payload: {
+        attachments: [{
           fileName: 'lab-report.pdf',
           mimeType: 'application/pdf',
           fileSize: 12,
           storageKey: 'storage-key-1',
-        },
-      ],
+        }],
+      },
+    });
+    expect(patientMessagesApi.sendSessionMessage).toHaveBeenCalledWith({
+      sessionId: 'conversation-1',
+      content: 'Please review',
+      messageType: 'TEXT',
     });
     expect(patientChatbotV3Api.sendMessage).not.toHaveBeenCalled();
     expect(onMessagesSent).toHaveBeenCalledWith([
@@ -217,7 +231,7 @@ describe('PatientChatComposer attachments', () => {
         fileSize: file.size,
         mimeType: 'application/pdf',
         mechanicalMode: true,
-        clientMessageId: expect.stringMatching(/^mechanical-upload:/),
+        clientMessageId: expect.stringMatching(/^formal-upload:/),
         uploadBatchId: expect.stringMatching(/^upload-batch:/),
         uploadBatchSize: 1,
         locale: 'en',
@@ -410,6 +424,183 @@ describe('PatientChatComposer attachments', () => {
       clientMessageId: 'client-retry-1',
       serverMessageId: 'server-retry-1',
     }));
+  });
+
+  it('retries completion without re-initializing or re-uploading after a completion 5xx', async () => {
+    const onMessageMutation = vi.fn();
+    let retryHandler: ((message: CompactChatMessage) => void) | null = null;
+    vi.mocked(patientMessagesApi.initSessionAttachmentUpload).mockResolvedValue({
+      upload: {
+        uploadUrl: 'https://upload.example.com/completion-only', storageKey: 'opaque-key', expiresIn: 900,
+        uploadIntentId: 'intent-completion-only', traceId: 'trace-1', expiresAt: '2030-01-01T00:00:00.000Z',
+        requiredHeaders: { 'Content-Type': 'application/pdf', 'If-None-Match': '*' },
+      },
+      asset: { fileName: 'completion-only.pdf', mimeType: 'application/pdf', fileSize: 7, storageKey: 'opaque-key' },
+      message: { serverMessageId: 'server-1', clientMessageId: 'client-1', deliveryStatus: 'uploading' },
+    });
+    vi.mocked(patientMessagesApi.sendSessionChatEvent)
+      .mockRejectedValueOnce(new Error('completion 500'))
+      .mockResolvedValueOnce({} as never)
+      .mockResolvedValueOnce({} as never);
+
+    render(
+      <PatientChatComposer
+        sessionId="widget-chat:patient-1:case-1" assistantMode="AI_ACTIVE"
+        widgetChatTarget={{ sessionId: 'widget-session-1' }} onMessageMutation={onMessageMutation}
+        registerMechanicalUploadRetry={(handler) => { retryHandler = handler; }} mechanicalMode
+      />,
+    );
+    const file = new File(['content'], 'completion-only.pdf', { type: 'application/pdf' });
+    fireEvent.change(screen.getByLabelText('Attach files'), { target: { files: [file] } });
+    await waitFor(() => expect(onMessageMutation).toHaveBeenCalledWith(expect.objectContaining({
+      update: [expect.objectContaining({ messageState: 'failed' })],
+    })));
+    const failedMessage = onMessageMutation.mock.calls.find(([mutation]) => mutation.add?.[0]?.clientMessageId)?.[0].add[0];
+
+    await act(async () => { retryHandler?.(failedMessage); });
+    await waitFor(() => expect(patientMessagesApi.getUploadStatus).toHaveBeenCalledWith('intent-completion-only'));
+
+    expect(patientMessagesApi.initSessionAttachmentUpload).toHaveBeenCalledTimes(1);
+    expect(fetch).toHaveBeenCalledTimes(1);
+    expect(patientMessagesApi.sendSessionChatEvent).toHaveBeenLastCalledWith(expect.objectContaining({
+      eventType: 'ATTACHMENT_UPLOAD_COMPLETED', uploadIntentId: 'intent-completion-only',
+    }));
+  });
+
+  it('treats a lost completion response as complete after refresh/status without another PUT', async () => {
+    const onMessageMutation = vi.fn();
+    let retryHandler: ((message: CompactChatMessage) => void) | null = null;
+    vi.mocked(patientMessagesApi.getUploadStatus).mockResolvedValue({
+      status: 'COMPLETED', effectiveStatus: 'COMPLETED', documentId: 'document-1',
+    });
+    render(
+      <PatientChatComposer
+        sessionId="widget-chat:patient-1:case-1" assistantMode="AI_ACTIVE"
+        widgetChatTarget={{ sessionId: 'widget-session-1' }} onMessageMutation={onMessageMutation}
+        registerMechanicalUploadRetry={(handler) => { retryHandler = handler; }} mechanicalMode
+      />,
+    );
+    const refreshedMessage: CompactChatMessage = {
+      id: 'server-refreshed', clientMessageId: 'client-refreshed', role: 'patient', messageSource: 'formal', content: '',
+      createdAt: '2026-08-20T00:00:00.000Z', senderType: 'patient', messageState: 'failed', uploadIntentId: 'intent-refreshed',
+      attachments: [{ fileName: 'report.pdf', mimeType: 'application/pdf', fileSize: 5, storageKey: 'opaque', name: 'report.pdf', type: 'application/pdf', size: 5, url: '' }],
+    };
+
+    await act(async () => { retryHandler?.(refreshedMessage); });
+    await waitFor(() => expect(patientMessagesApi.getUploadStatus).toHaveBeenCalledWith('intent-refreshed'));
+
+    expect(patientMessagesApi.initSessionAttachmentUpload).not.toHaveBeenCalled();
+    expect(fetch).not.toHaveBeenCalled();
+    expect(patientMessagesApi.sendSessionChatEvent).not.toHaveBeenCalled();
+  });
+
+  it('retries HUMAN_TAKEOVER completion without another init or PUT after a completion 5xx', async () => {
+    let retryHandler: ((message: CompactChatMessage) => void) | null = null;
+    vi.mocked(patientMessagesApi.initSessionAttachmentUpload).mockResolvedValue({
+      upload: {
+        uploadUrl: 'https://upload.example.com/human-completion', storageKey: 'human-key', expiresIn: 900,
+        uploadIntentId: 'intent-human', traceId: 'trace-human', expiresAt: '2030-01-01T00:00:00.000Z',
+        requiredHeaders: { 'Content-Type': 'application/pdf', 'If-None-Match': '*' },
+      },
+      asset: { fileName: 'human.pdf', mimeType: 'application/pdf', fileSize: 5, storageKey: 'human-key' },
+      message: { serverMessageId: 'server-human', clientMessageId: 'client-human', deliveryStatus: 'uploading' },
+    });
+    vi.mocked(patientMessagesApi.sendSessionChatEvent)
+      .mockRejectedValueOnce(new Error('completion 500'))
+      .mockResolvedValueOnce({} as never)
+      .mockResolvedValueOnce({} as never);
+
+    render(
+      <PatientChatComposer
+        sessionId="conversation-human" assistantMode="HUMAN_TAKEOVER"
+        registerMechanicalUploadRetry={(handler) => { retryHandler = handler; }}
+      />,
+    );
+    const file = new File(['human'], 'human.pdf', { type: 'application/pdf' });
+    fireEvent.change(screen.getByLabelText('Attach files'), { target: { files: [file] } });
+    fireEvent.click(screen.getByRole('button', { name: 'Send' }));
+    await waitFor(() => expect(screen.getByText('completion 500')).toBeTruthy());
+
+    await act(async () => {
+      retryHandler?.({
+        id: 'server-human', clientMessageId: 'client-human', role: 'patient', messageSource: 'formal', content: '',
+        createdAt: '2026-08-20T00:00:00.000Z', senderType: 'patient', messageState: 'failed', uploadIntentId: 'intent-human',
+        attachments: [{ fileName: 'human.pdf', mimeType: 'application/pdf', fileSize: 5, storageKey: 'human-key', name: 'human.pdf', type: 'application/pdf', size: 5, url: '' }],
+      });
+    });
+    await waitFor(() => expect(patientMessagesApi.getUploadStatus).toHaveBeenCalledWith('intent-human'));
+
+    expect(patientMessagesApi.initSessionAttachmentUpload).toHaveBeenCalledTimes(1);
+    expect(fetch).toHaveBeenCalledTimes(1);
+    expect(patientMessagesApi.sendSessionChatEvent).toHaveBeenLastCalledWith(expect.objectContaining({
+      eventType: 'ATTACHMENT_UPLOAD_COMPLETED', uploadIntentId: 'intent-human',
+    }));
+  });
+
+  it('completes a refreshed HUMAN_TAKEOVER INITIATED message before asking for the file again', async () => {
+    let retryHandler: ((message: CompactChatMessage) => void) | null = null;
+    render(
+      <PatientChatComposer
+        sessionId="conversation-human" assistantMode="HUMAN_TAKEOVER"
+        registerMechanicalUploadRetry={(handler) => { retryHandler = handler; }}
+      />,
+    );
+    const refreshedMessage: CompactChatMessage = {
+      id: 'server-human-refresh', clientMessageId: 'client-human-refresh', role: 'patient', messageSource: 'formal', content: '',
+      createdAt: '2026-08-20T00:00:00.000Z', senderType: 'patient', messageState: 'failed', uploadIntentId: 'intent-human-refresh',
+      attachments: [{ fileName: 'human.pdf', mimeType: 'application/pdf', fileSize: 5, storageKey: 'human-key', name: 'human.pdf', type: 'application/pdf', size: 5, url: '' }],
+    };
+
+    await act(async () => { retryHandler?.(refreshedMessage); });
+    await waitFor(() => expect(patientMessagesApi.sendSessionChatEvent).toHaveBeenCalledWith(expect.objectContaining({
+      eventType: 'ATTACHMENT_UPLOAD_COMPLETED', uploadIntentId: 'intent-human-refresh',
+    })));
+
+    expect(patientMessagesApi.initSessionAttachmentUpload).not.toHaveBeenCalled();
+    expect(fetch).not.toHaveBeenCalled();
+  });
+
+  it.each([
+    { label: 'AI_ACTIVE', assistantMode: 'AI_ACTIVE' as const, mechanicalMode: true },
+    { label: 'HUMAN_TAKEOVER', assistantMode: 'HUMAN_TAKEOVER' as const, mechanicalMode: false },
+  ])('tries idempotent completion when $label status GET returns 5xx', async ({ assistantMode, mechanicalMode }) => {
+    let retryHandler: ((message: CompactChatMessage) => void) | null = null;
+    vi.mocked(patientMessagesApi.getUploadStatus).mockRejectedValue(new Error('status 500'));
+    vi.mocked(patientMessagesApi.sendSessionChatEvent).mockResolvedValue({} as never);
+    render(
+      <PatientChatComposer
+        sessionId="conversation-status-down"
+        assistantMode={assistantMode}
+        widgetChatTarget={assistantMode === 'AI_ACTIVE' ? { sessionId: 'widget-session-1' } : undefined}
+        mechanicalMode={mechanicalMode}
+        registerMechanicalUploadRetry={(handler) => { retryHandler = handler; }}
+      />,
+    );
+    const refreshedMessage: CompactChatMessage = {
+      id: 'server-status-down',
+      clientMessageId: 'client-status-down',
+      role: 'patient',
+      messageSource: 'formal',
+      content: '',
+      createdAt: '2026-08-20T00:00:00.000Z',
+      senderType: 'patient',
+      messageState: 'failed',
+      uploadIntentId: 'intent-status-down',
+      attachments: [{
+        fileName: 'report.pdf', mimeType: 'application/pdf', fileSize: 5, storageKey: 'opaque-key',
+        name: 'report.pdf', type: 'application/pdf', size: 5, url: '',
+      }],
+    };
+
+    await act(async () => { retryHandler?.(refreshedMessage); });
+
+    await waitFor(() => expect(patientMessagesApi.sendSessionChatEvent).toHaveBeenCalledWith(expect.objectContaining({
+      eventType: 'ATTACHMENT_UPLOAD_COMPLETED',
+      uploadIntentId: 'intent-status-down',
+    })));
+    expect(patientMessagesApi.getUploadStatus).toHaveBeenCalledWith('intent-status-down');
+    expect(patientMessagesApi.initSessionAttachmentUpload).not.toHaveBeenCalled();
+    expect(fetch).not.toHaveBeenCalled();
   });
 
   it('keeps successful mechanical uploads sent when another selected file fails', async () => {
@@ -920,7 +1111,7 @@ describe('PatientChatComposer attachments', () => {
     expect(patientMessagesApi.initSessionAttachmentUpload).not.toHaveBeenCalled();
   });
 
-  it('falls back to the CRM patient upload proxy when the signed upload URL fails in the browser', async () => {
+  it('keeps a direct-upload failure retryable without proxying file bytes', async () => {
     vi.mocked(patientChatbotV3Api.initAttachmentUpload).mockResolvedValue({
       upload: {
         uploadUrl: 'https://example.r2.cloudflarestorage.com/widget-file-1',
@@ -954,12 +1145,7 @@ describe('PatientChatComposer attachments', () => {
       },
     });
 
-    const fetchMock = vi.fn()
-      .mockRejectedValueOnce(new TypeError('Failed to fetch'))
-      .mockResolvedValueOnce({
-        ok: true,
-        text: vi.fn().mockResolvedValue(''),
-      });
+    const fetchMock = vi.fn().mockRejectedValueOnce(new TypeError('Failed to fetch'));
     vi.stubGlobal('fetch', fetchMock);
 
     render(
@@ -977,17 +1163,10 @@ describe('PatientChatComposer attachments', () => {
     fireEvent.click(screen.getByRole('button', { name: 'Send' }));
 
     await waitFor(() => {
-      expect(patientChatbotV3Api.sendMessage).toHaveBeenCalledWith({
-        sessionId: 'widget-session-1',
-        locale: 'en',
-        attachments: [{
-          fileName: 'scan.jpg',
-          mimeType: 'image/jpeg',
-          fileSize: 48,
-          storageKey: 'widget-storage-key-1',
-        }],
-      });
+      expect(screen.getByText('Failed to fetch')).toBeTruthy();
     });
+
+    expect(patientChatbotV3Api.sendMessage).not.toHaveBeenCalled();
 
     expect(fetchMock).toHaveBeenNthCalledWith(
       1,
@@ -997,14 +1176,28 @@ describe('PatientChatComposer attachments', () => {
         body: file,
       }),
     );
-    expect(fetchMock).toHaveBeenNthCalledWith(
-      2,
-      '/api/patient/uploads/proxy',
-      expect.objectContaining({
-        method: 'POST',
-        body: expect.any(FormData),
-      }),
+    expect(fetchMock).toHaveBeenCalledTimes(1);
+  });
+
+  it.each([409, 412])('does not treat chatbot PUT HTTP %s as a verifiable completion', async (status) => {
+    vi.mocked(patientChatbotV3Api.initAttachmentUpload).mockResolvedValue({
+      upload: { uploadUrl: 'https://upload.example.com/chatbot-conflict', storageKey: 'chatbot-key', expiresIn: 900 },
+      asset: { fileName: 'scan.pdf', mimeType: 'application/pdf', fileSize: 4, storageKey: 'chatbot-key' },
+    });
+    vi.stubGlobal('fetch', vi.fn().mockResolvedValue({ ok: false, status }));
+    render(
+      <PatientChatComposer
+        sessionId="conversation-1" assistantMode="AI_ACTIVE"
+        widgetChatTarget={{ sessionId: 'widget-session-1' }}
+      />,
     );
+
+    const file = new File(['scan'], 'scan.pdf', { type: 'application/pdf' });
+    fireEvent.change(screen.getByLabelText('Attach files'), { target: { files: [file] } });
+    fireEvent.click(screen.getByRole('button', { name: 'Send' }));
+
+    await waitFor(() => expect(screen.getByText('Attachment upload failed for scan.pdf')).toBeTruthy());
+    expect(patientChatbotV3Api.sendMessage).not.toHaveBeenCalled();
   });
 
   it('expires the patient session when a send returns 401', async () => {

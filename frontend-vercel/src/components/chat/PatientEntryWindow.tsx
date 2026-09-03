@@ -102,6 +102,9 @@ function toCompactFormalMessage(message: PatientConversationMessage): CompactCha
     uploadBatchSize: typeof message.metadata?.uploadBatchSize === 'number'
       ? message.metadata.uploadBatchSize
       : null,
+    uploadIntentId: typeof message.metadata?.currentUploadIntentId === 'string'
+      ? message.metadata.currentUploadIntentId
+      : (typeof message.metadata?.uploadIntentId === 'string' ? message.metadata.uploadIntentId : null),
   };
 }
 

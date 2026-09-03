@@ -306,6 +306,7 @@ export async function sendSessionChatEvent(input: {
   actionKey?: PatientChatActionKey;
   clientMessageId?: string;
   serverMessageId?: string;
+  uploadIntentId?: string;
   locale?: string;
   payload?: Record<string, unknown>;
 }): Promise<PatientSessionDetail> {
@@ -316,6 +317,7 @@ export async function sendSessionChatEvent(input: {
       actionKey: input.actionKey,
       clientMessageId: input.clientMessageId,
       serverMessageId: input.serverMessageId,
+      uploadIntentId: input.uploadIntentId,
       locale: input.locale ?? 'en',
       payload: input.payload,
     }),
@@ -355,6 +357,10 @@ export async function initConversationAttachmentUpload(input: {
     uploadUrl: string;
     storageKey: string;
     expiresIn: number;
+    uploadIntentId?: string;
+    traceId?: string;
+    expiresAt?: string;
+    requiredHeaders?: Record<string, string>;
   } | null;
   asset: {
     fileName: string;
@@ -386,6 +392,10 @@ export async function initSessionAttachmentUpload(input: {
     uploadUrl: string;
     storageKey: string;
     expiresIn: number;
+    uploadIntentId: string;
+    traceId: string;
+    expiresAt: string;
+    requiredHeaders: Record<string, string>;
   };
   asset: {
     fileName: string;
@@ -402,6 +412,7 @@ export async function initSessionAttachmentUpload(input: {
   const suffix = input.mechanicalMode ? '?mode=mechanical' : '';
   return crmApiRequest(`/sessions/${input.sessionId}/attachments/upload${suffix}`, {
     method: 'POST',
+    headers: { 'X-Upload-Contract-Version': '2' },
     body: JSON.stringify({
       fileName: input.fileName,
       fileSize: input.fileSize,
@@ -412,6 +423,14 @@ export async function initSessionAttachmentUpload(input: {
       locale: input.locale,
     }),
   });
+}
+
+export async function getUploadStatus(uploadIntentId: string): Promise<{
+  status: 'INITIATED' | 'COMPLETED' | 'FAILED' | 'SUPERSEDED';
+  effectiveStatus: 'INITIATED' | 'COMPLETED' | 'FAILED' | 'SUPERSEDED' | 'EXPIRED';
+  documentId: string | null;
+}> {
+  return crmApiRequest(`/uploads/${uploadIntentId}`, { method: 'GET' });
 }
 
 export const patientMessagesApi = {
@@ -426,4 +445,5 @@ export const patientMessagesApi = {
   requestOnlineConsultBooking,
   initConversationAttachmentUpload,
   initSessionAttachmentUpload,
+  getUploadStatus,
 };

@@ -21,7 +21,7 @@ const Process = () => {
     {
       icon: <MessageCircle className="h-12 w-12 text-mintGreen" />,
       title: "Post-treatment Follow-up",
-      description: "Continuous support after your procedure, including telemedicine consultations."
+      description: "Continuous support after your procedure, including remote follow-up coordination."
     }
   ];
 
