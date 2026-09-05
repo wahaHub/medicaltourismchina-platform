@@ -97,6 +97,7 @@ export const arChatDashboard = {
   'guestVideo.join': 'الانضمام إلى مكالمة الفيديو', 'guestVideo.joining': 'جارٍ الانضمام…',
   'guestVideo.notFound': 'رابط الاستشارة غير صالح أو منتهي.', 'guestVideo.notJoinable': 'هذه الاستشارة غير متاحة للانضمام حالياً.',
   'guestVideo.left': 'لقد غادرت المكالمة.', 'guestVideo.error': 'تعذر الانضمام إلى المكالمة. يرجى المحاولة مرة أخرى.',
+  'patientVideo.loginRequired': 'يرجى تسجيل الدخول بالبريد الإلكتروني الذي استخدمته عند الحجز. هذا الرابط متاح فقط للمريض الذي حجز الاستشارة.', 'patientVideo.onlyBookingPatient': 'هذا الرابط يخص حساب مريض آخر. يرجى تسجيل الدخول بالبريد المستخدم في الحجز أو التواصل مع منسق Medora.', 'patientVideo.backToDashboard': 'العودة إلى لوحتي',
 } as const;
 
 export const idChatDashboard = {
@@ -180,4 +181,5 @@ export const idChatDashboard = {
   'guestVideo.join': 'Gabung panggilan video', 'guestVideo.joining': 'Bergabung…',
   'guestVideo.notFound': 'Tautan konsultasi ini tidak valid atau sudah kedaluwarsa.', 'guestVideo.notJoinable': 'Konsultasi ini tidak dapat diikuti saat ini.',
   'guestVideo.left': 'Anda telah meninggalkan panggilan.', 'guestVideo.error': 'Tidak dapat bergabung ke panggilan. Silakan coba lagi.',
+  'patientVideo.loginRequired': 'Silakan masuk dengan email yang Anda gunakan saat memesan. Tautan konsultasi video ini hanya tersedia untuk pasien yang melakukan pemesanan.', 'patientVideo.onlyBookingPatient': 'Tautan ini milik akun pasien lain. Silakan masuk dengan email yang digunakan saat pemesanan, atau hubungi koordinator Medora Anda.', 'patientVideo.backToDashboard': 'Kembali ke dasbor saya',
 } as const;

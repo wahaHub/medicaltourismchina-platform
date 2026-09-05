@@ -60,6 +60,10 @@ function shouldBootstrapPatientSession(pathname: string, search: string): boolea
     return true;
   }
 
+  if (pathname.startsWith('/video-consultation/')) {
+    return true;
+  }
+
   if (pathname.startsWith('/medical-case-intake') || pathname.startsWith('/case-intake')) {
     return true;
   }
