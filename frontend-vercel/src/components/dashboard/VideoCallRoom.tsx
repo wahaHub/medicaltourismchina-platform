@@ -8,9 +8,10 @@ import {
   type RemoteAudioTrack,
   type RemoteVideoTrack,
 } from 'livekit-client';
-import { Loader2, Mic, MicOff, PhoneOff, Video as VideoIcon, VideoOff } from 'lucide-react';
+import { AlertTriangle, Loader2, Mic, MicOff, PhoneOff, Video as VideoIcon, VideoOff, X } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { useLanguage } from '@/contexts/LanguageContext';
+import type { TranslationKey } from '@/i18n';
 import { cn } from '@/lib/utils';
 
 interface VideoCallRoomProps {
@@ -39,6 +40,28 @@ interface RemoteAudioEntry {
 // by link holders.
 const TRANSLATOR_IDENTITY_PREFIX = 'translator-';
 const DUCKED_ORIGINAL_VOLUME = 0.15;
+
+type DeviceIssueReason = 'not-found' | 'denied' | 'busy' | 'error';
+
+interface DeviceIssue {
+  mic: DeviceIssueReason | null;
+  camera: DeviceIssueReason | null;
+}
+
+function classifyMediaError(err: unknown): DeviceIssueReason {
+  const name = err instanceof DOMException ? err.name : '';
+  if (name === 'NotFoundError' || name === 'OverconstrainedError' || name === 'DevicesNotFoundError') return 'not-found';
+  if (name === 'NotAllowedError' || name === 'SecurityError') return 'denied';
+  if (name === 'NotReadableError' || name === 'AbortError') return 'busy';
+  return 'error';
+}
+
+const DEVICE_ISSUE_REASON_KEYS: Record<DeviceIssueReason, TranslationKey> = {
+  'not-found': 'dashboard.video.deviceIssue.reason.notFound',
+  denied: 'dashboard.video.deviceIssue.reason.denied',
+  busy: 'dashboard.video.deviceIssue.reason.busy',
+  error: 'dashboard.video.deviceIssue.reason.error',
+};
 
 function RemoteVideoView({ track, className }: { track: RemoteVideoTrack; className?: string }) {
   const containerRef = useRef<HTMLDivElement>(null);
@@ -94,6 +117,8 @@ export default function VideoCallRoom({ token, livekitUrl, displayName, onLeave 
   const [remoteAudioEntries, setRemoteAudioEntries] = useState<RemoteAudioEntry[]>([]);
   const [subtitles, setSubtitles] = useState<SubtitleLine[]>([]);
   const [translatedPlayoutCount, setTranslatedPlayoutCount] = useState(0);
+  const [deviceIssue, setDeviceIssue] = useState<DeviceIssue | null>(null);
+  const [deviceIssueDismissed, setDeviceIssueDismissed] = useState(false);
   const localVideoRef = useRef<HTMLDivElement>(null);
   const onLeaveRef = useRef(onLeave);
   onLeaveRef.current = onLeave;
@@ -179,10 +204,24 @@ export default function VideoCallRoom({ token, livekitUrl, displayName, onLeave 
     (async () => {
       try {
         await lkRoom.connect(livekitUrl, token);
-        await lkRoom.localParticipant.enableCameraAndMicrophone();
+        // Enable devices independently so one missing device doesn't block the
+        // other — or the whole join. A device-less participant still enters the
+        // room in watch/listen mode and gets the device-issue banner.
+        const issue: DeviceIssue = { mic: null, camera: null };
+        try {
+          await lkRoom.localParticipant.setMicrophoneEnabled(true);
+        } catch (deviceErr) {
+          issue.mic = classifyMediaError(deviceErr);
+        }
+        try {
+          await lkRoom.localParticipant.setCameraEnabled(true);
+        } catch (deviceErr) {
+          issue.camera = classifyMediaError(deviceErr);
+        }
         if (disposed) return;
         setMicEnabled(lkRoom.localParticipant.isMicrophoneEnabled);
         setCameraEnabled(lkRoom.localParticipant.isCameraEnabled);
+        if (issue.mic || issue.camera) setDeviceIssue(issue);
         setRoom(lkRoom);
         setConnecting(false);
       } catch (err) {
@@ -215,15 +254,27 @@ export default function VideoCallRoom({ token, livekitUrl, displayName, onLeave 
   const toggleMic = async () => {
     if (!room) return;
     const next = !micEnabled;
-    await room.localParticipant.setMicrophoneEnabled(next);
-    setMicEnabled(next);
+    try {
+      await room.localParticipant.setMicrophoneEnabled(next);
+      setMicEnabled(next);
+      // Retrying after a device failure (e.g. user plugged in a headset)
+      // clears the banner entry for this device.
+      if (next) setDeviceIssue((prev) => (prev ? { ...prev, mic: null } : prev));
+    } catch (err) {
+      if (next) setDeviceIssue((prev) => ({ mic: classifyMediaError(err), camera: prev?.camera ?? null }));
+    }
   };
 
   const toggleCamera = async () => {
     if (!room) return;
     const next = !cameraEnabled;
-    await room.localParticipant.setCameraEnabled(next);
-    setCameraEnabled(next);
+    try {
+      await room.localParticipant.setCameraEnabled(next);
+      setCameraEnabled(next);
+      if (next) setDeviceIssue((prev) => (prev ? { ...prev, camera: null } : prev));
+    } catch (err) {
+      if (next) setDeviceIssue((prev) => ({ mic: prev?.mic ?? null, camera: classifyMediaError(err) }));
+    }
   };
 
   if (error) {
@@ -299,6 +350,31 @@ export default function VideoCallRoom({ token, livekitUrl, displayName, onLeave 
           }
         />
       ))}
+
+      {deviceIssue && !deviceIssueDismissed && (deviceIssue.mic || deviceIssue.camera) && (
+        <div className="flex items-start gap-3 border-t border-amber-500/40 bg-amber-500/15 px-4 py-3 text-amber-100">
+          <AlertTriangle className="mt-0.5 h-4 w-4 shrink-0 text-amber-300" />
+          <div className="flex-1 space-y-1 text-xs leading-relaxed">
+            {deviceIssue.mic && (
+              <p>{t('dashboard.video.deviceIssue.mic', { reason: t(DEVICE_ISSUE_REASON_KEYS[deviceIssue.mic]) })}</p>
+            )}
+            {deviceIssue.camera && (
+              <p>{t('dashboard.video.deviceIssue.camera', { reason: t(DEVICE_ISSUE_REASON_KEYS[deviceIssue.camera]) })}</p>
+            )}
+            {deviceIssue.mic && deviceIssue.camera && (
+              <p>{t('dashboard.video.deviceIssue.listenOnly')}</p>
+            )}
+          </div>
+          <button
+            type="button"
+            onClick={() => setDeviceIssueDismissed(true)}
+            className="shrink-0 rounded p-1 text-amber-200/80 hover:bg-amber-500/20 hover:text-amber-100"
+            aria-label={t('dashboard.video.deviceIssue.dismiss')}
+          >
+            <X className="h-4 w-4" />
+          </button>
+        </div>
+      )}
 
       <div className="flex items-center justify-center gap-3 bg-slate-900 px-4 py-3">
         <Button

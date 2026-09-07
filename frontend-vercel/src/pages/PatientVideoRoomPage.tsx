@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
-import { Link, useParams } from 'react-router-dom';
+import { Link, useNavigate, useParams } from 'react-router-dom';
 import { Loader2, LogIn, ShieldX, Video as VideoIcon } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
@@ -21,7 +21,8 @@ type JoinedCall = {
 export default function PatientVideoRoomPage() {
   const { consultationId } = useParams<{ consultationId: string }>();
   const { t } = useLanguage();
-  const { patient, isAuthenticated, isLoading } = usePatientAuth();
+  const { patient, isAuthenticated, isLoading, logout } = usePatientAuth();
+  const navigate = useNavigate();
   const [joining, setJoining] = useState(false);
   const [joinError, setJoinError] = useState(false);
   const [call, setCall] = useState<JoinedCall | null>(null);
@@ -59,6 +60,14 @@ export default function PatientVideoRoomPage() {
     }
     setCall(null);
   }, [consultationId, call]);
+
+  // The 404 join failure almost always means the visitor is signed in with a
+  // different account than the booking email — show the current account and
+  // offer a sign-out shortcut so they can switch to the booking email.
+  const switchAccount = useCallback(async () => {
+    await logout().catch(() => undefined);
+    navigate('/patient-login');
+  }, [logout, navigate]);
 
   if (call) {
     return (
@@ -107,9 +116,20 @@ export default function PatientVideoRoomPage() {
                 <ShieldX className="mt-0.5 h-4 w-4 shrink-0" />
                 <p>{t('patientVideo.onlyBookingPatient')}</p>
               </div>
-              <Button asChild variant="outline" className="w-full">
-                <Link to="/dashboard">{t('patientVideo.backToDashboard')}</Link>
-              </Button>
+              {patient?.email ? (
+                <p className="rounded-md bg-slate-50 px-3 py-2 text-sm text-slate-600">
+                  {t('patientVideo.signedInAs', { email: patient.email })}
+                </p>
+              ) : null}
+              <div className="flex flex-col gap-2">
+                <Button variant="outline" className="w-full" onClick={() => void switchAccount()}>
+                  <LogIn className="mr-1 h-4 w-4" />
+                  {t('patientVideo.switchAccount')}
+                </Button>
+                <Button asChild variant="ghost" className="w-full">
+                  <Link to="/dashboard">{t('patientVideo.backToDashboard')}</Link>
+                </Button>
+              </div>
             </div>
           ) : null}
         </CardContent>

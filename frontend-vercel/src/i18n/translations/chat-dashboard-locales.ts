@@ -87,7 +87,7 @@ export const arChatDashboard = {
   'dashboard.video.statusPendingConfirmation': 'في انتظار التأكيد', 'dashboard.video.statusScheduled': 'مجدولة', 'dashboard.video.statusInProgress': 'جارية',
   'dashboard.video.statusCompleted': 'مكتملة', 'dashboard.video.statusCancelled': 'ملغاة', 'dashboard.video.statusRejected': 'مرفوضة',
   'dashboard.video.connecting': 'جارٍ الاتصال…', 'dashboard.video.waitingForHost': 'في انتظار انضمام المشارك الآخر…',
-  'dashboard.video.connectionError': 'تعذر الاتصال بالمكالمة. يرجى المحاولة مرة أخرى.', 'dashboard.video.leave': 'مغادرة المكالمة',
+  'dashboard.video.connectionError': 'تعذر الاتصال بالمكالمة. يرجى المحاولة مرة أخرى.', 'dashboard.video.leave': 'مغادرة المكالمة', 'dashboard.video.deviceIssue.mic': 'الميكروفون غير متاح ({{reason}}). لن يتمكن الآخرون من سماعك، لكن المكالمة ستستمر.', 'dashboard.video.deviceIssue.camera': 'الكاميرا غير متاحة ({{reason}}). لن يتمكن الآخرون من رؤيتك، لكن المكالمة ستستمر.', 'dashboard.video.deviceIssue.listenOnly': 'لا يزال بإمكانك مشاهدة المكالمة والاستماع إليها.', 'dashboard.video.deviceIssue.reason.notFound': 'لم يتم العثور على جهاز', 'dashboard.video.deviceIssue.reason.denied': 'تم حظر الإذن في المتصفح', 'dashboard.video.deviceIssue.reason.busy': 'الجهاز مستخدم من تطبيق آخر', 'dashboard.video.deviceIssue.reason.error': 'خطأ غير معروف', 'dashboard.video.deviceIssue.dismiss': 'حسنًا',
   'dashboard.video.mute': 'كتم الميكروفون', 'dashboard.video.unmute': 'تفعيل الميكروفون',
   'dashboard.video.cameraOff': 'إيقاف الكاميرا', 'dashboard.video.cameraOn': 'تشغيل الكاميرا', 'dashboard.video.you': 'أنت',
   'dashboard.video.noDoctors': 'لا يوجد أطباء متاحون للاستشارة المرئية حالياً. يرجى التواصل معنا عبر الرسائل.',
@@ -97,7 +97,7 @@ export const arChatDashboard = {
   'guestVideo.join': 'الانضمام إلى مكالمة الفيديو', 'guestVideo.joining': 'جارٍ الانضمام…',
   'guestVideo.notFound': 'رابط الاستشارة غير صالح أو منتهي.', 'guestVideo.notJoinable': 'هذه الاستشارة غير متاحة للانضمام حالياً.',
   'guestVideo.left': 'لقد غادرت المكالمة.', 'guestVideo.error': 'تعذر الانضمام إلى المكالمة. يرجى المحاولة مرة أخرى.',
-  'patientVideo.loginRequired': 'يرجى تسجيل الدخول بالبريد الإلكتروني الذي استخدمته عند الحجز. هذا الرابط متاح فقط للمريض الذي حجز الاستشارة.', 'patientVideo.onlyBookingPatient': 'هذا الرابط يخص حساب مريض آخر. يرجى تسجيل الدخول بالبريد المستخدم في الحجز أو التواصل مع منسق Medora.', 'patientVideo.backToDashboard': 'العودة إلى لوحتي',
+  'patientVideo.loginRequired': 'يرجى تسجيل الدخول بالبريد الإلكتروني الذي استخدمته عند الحجز. هذا الرابط متاح فقط للمريض الذي حجز الاستشارة.', 'patientVideo.onlyBookingPatient': 'هذا الرابط يخص حساب مريض آخر. يرجى تسجيل الدخول بالبريد المستخدم في الحجز أو التواصل مع منسق Medora.', 'patientVideo.backToDashboard': 'العودة إلى لوحتي', 'patientVideo.signedInAs': 'أنت مسجل الدخول حاليًا باسم {{email}}. إذا تم الحجز باستخدام بريد إلكتروني آخر، فسجّل الخروج ثم سجّل الدخول مرة أخرى بالبريد الإلكتروني المستخدم في الحجز.', 'patientVideo.switchAccount': 'تسجيل الخروج ثم الدخول مجددًا',
 } as const;
 
 export const idChatDashboard = {
@@ -171,7 +171,7 @@ export const idChatDashboard = {
   'dashboard.video.statusPendingConfirmation': 'Menunggu konfirmasi', 'dashboard.video.statusScheduled': 'Terjadwal', 'dashboard.video.statusInProgress': 'Sedang berlangsung',
   'dashboard.video.statusCompleted': 'Selesai', 'dashboard.video.statusCancelled': 'Dibatalkan', 'dashboard.video.statusRejected': 'Ditolak',
   'dashboard.video.connecting': 'Menghubungkan…', 'dashboard.video.waitingForHost': 'Menunggu peserta lain bergabung…',
-  'dashboard.video.connectionError': 'Tidak dapat terhubung ke panggilan. Silakan coba lagi.', 'dashboard.video.leave': 'Tinggalkan panggilan',
+  'dashboard.video.connectionError': 'Tidak dapat terhubung ke panggilan. Silakan coba lagi.', 'dashboard.video.leave': 'Tinggalkan panggilan', 'dashboard.video.deviceIssue.mic': 'Mikrofon tidak tersedia ({{reason}}). Orang lain tidak dapat mendengar Anda, tetapi panggilan tetap berlanjut.', 'dashboard.video.deviceIssue.camera': 'Kamera tidak tersedia ({{reason}}). Orang lain tidak dapat melihat Anda, tetapi panggilan tetap berlanjut.', 'dashboard.video.deviceIssue.listenOnly': 'Anda tetap dapat menonton dan mendengar panggilan.', 'dashboard.video.deviceIssue.reason.notFound': 'perangkat tidak ditemukan', 'dashboard.video.deviceIssue.reason.denied': 'izin ditolak di browser', 'dashboard.video.deviceIssue.reason.busy': 'perangkat sedang dipakai aplikasi lain', 'dashboard.video.deviceIssue.reason.error': 'kesalahan tidak diketahui', 'dashboard.video.deviceIssue.dismiss': 'Mengerti',
   'dashboard.video.mute': 'Matikan mikrofon', 'dashboard.video.unmute': 'Nyalakan mikrofon',
   'dashboard.video.cameraOff': 'Matikan kamera', 'dashboard.video.cameraOn': 'Nyalakan kamera', 'dashboard.video.you': 'Anda',
   'dashboard.video.noDoctors': 'Belum ada dokter yang tersedia untuk konsultasi video saat ini. Silakan hubungi kami melalui Pesan.',
@@ -181,5 +181,5 @@ export const idChatDashboard = {
   'guestVideo.join': 'Gabung panggilan video', 'guestVideo.joining': 'Bergabung…',
   'guestVideo.notFound': 'Tautan konsultasi ini tidak valid atau sudah kedaluwarsa.', 'guestVideo.notJoinable': 'Konsultasi ini tidak dapat diikuti saat ini.',
   'guestVideo.left': 'Anda telah meninggalkan panggilan.', 'guestVideo.error': 'Tidak dapat bergabung ke panggilan. Silakan coba lagi.',
-  'patientVideo.loginRequired': 'Silakan masuk dengan email yang Anda gunakan saat memesan. Tautan konsultasi video ini hanya tersedia untuk pasien yang melakukan pemesanan.', 'patientVideo.onlyBookingPatient': 'Tautan ini milik akun pasien lain. Silakan masuk dengan email yang digunakan saat pemesanan, atau hubungi koordinator Medora Anda.', 'patientVideo.backToDashboard': 'Kembali ke dasbor saya',
+  'patientVideo.loginRequired': 'Silakan masuk dengan email yang Anda gunakan saat memesan. Tautan konsultasi video ini hanya tersedia untuk pasien yang melakukan pemesanan.', 'patientVideo.onlyBookingPatient': 'Tautan ini milik akun pasien lain. Silakan masuk dengan email yang digunakan saat pemesanan, atau hubungi koordinator Medora Anda.', 'patientVideo.backToDashboard': 'Kembali ke dasbor saya', 'patientVideo.signedInAs': 'Anda saat ini masuk sebagai {{email}}. Jika pemesanan dilakukan dengan email lain, keluar lalu masuk kembali dengan email yang digunakan saat pemesanan.', 'patientVideo.switchAccount': 'Keluar dan masuk lagi',
 } as const;
