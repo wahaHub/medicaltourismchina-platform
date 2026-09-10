@@ -5,6 +5,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 import { Badge } from '@/components/ui/badge';
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import {
   Dialog,
   DialogContent,
@@ -23,6 +24,11 @@ import {
 } from '@/services/api/patient-video-consultations';
 import { cn } from '@/lib/utils';
 import VideoCallRoom from './VideoCallRoom';
+import {
+  normalizeVideoInterpretationLanguage,
+  VIDEO_INTERPRETATION_LANGUAGES,
+  type VideoInterpretationLanguage,
+} from './video-interpretation-language';
 
 type ActiveCall = {
   consultation: PatientVideoConsultation;
@@ -50,6 +56,27 @@ const STATUS_LABEL_KEY: Record<VideoConsultationStatus, Parameters<ReturnType<ty
   REJECTED: 'dashboard.video.statusRejected',
 };
 
+const LANGUAGE_NATIVE_NAMES: Record<VideoInterpretationLanguage, string> = {
+  zh: '中文',
+  en: 'English',
+  es: 'Español',
+  pt: 'Português',
+  fr: 'Français',
+  de: 'Deutsch',
+  it: 'Italiano',
+  ru: 'Русский',
+  ja: '日本語',
+  ko: '한국어',
+  hi: 'हिन्दी',
+  id: 'Bahasa Indonesia',
+  vi: 'Tiếng Việt',
+};
+
+function consultationLanguageName(language: string | null): string | null {
+  const normalized = normalizeVideoInterpretationLanguage(language);
+  return normalized ? LANGUAGE_NATIVE_NAMES[normalized] : null;
+}
+
 function isUpcoming(consultation: PatientVideoConsultation): boolean {
   return ['PENDING_CONFIRMATION', 'SCHEDULED', 'IN_PROGRESS'].includes(consultation.status);
 }
@@ -73,6 +100,11 @@ export default function VideoConsultationsPage() {
   const [bookingDoctorId, setBookingDoctorId] = useState('');
   const [bookingDateTime, setBookingDateTime] = useState('');
   const [bookingTitle, setBookingTitle] = useState('');
+  const [bookingPatientLanguage, setBookingPatientLanguage] = useState<VideoInterpretationLanguage>(
+    normalizeVideoInterpretationLanguage(patient?.preferredLanguage)
+      ?? normalizeVideoInterpretationLanguage(currentLanguage.code)
+      ?? 'en',
+  );
   const [bookingSubmitting, setBookingSubmitting] = useState(false);
   const [bookingError, setBookingError] = useState<string | null>(null);
   const [bookingSuccess, setBookingSuccess] = useState(false);
@@ -108,6 +140,15 @@ export default function VideoConsultationsPage() {
     }
   }, [doctors]);
 
+  useEffect(() => {
+    if (bookingOpen) return;
+    setBookingPatientLanguage(
+      normalizeVideoInterpretationLanguage(patient?.preferredLanguage)
+        ?? normalizeVideoInterpretationLanguage(currentLanguage.code)
+        ?? 'en',
+    );
+  }, [bookingOpen, currentLanguage.code, patient?.preferredLanguage]);
+
   const upcoming = useMemo(() => consultations.filter(isUpcoming), [consultations]);
   const past = useMemo(() => consultations.filter((item) => !isUpcoming(item)), [consultations]);
 
@@ -137,7 +178,7 @@ export default function VideoConsultationsPage() {
         doctorName: doctor?.name ?? null,
         title: bookingTitle.trim() || undefined,
         timezone: Intl.DateTimeFormat().resolvedOptions().timeZone || 'UTC',
-        patientLanguage: patient.preferredLanguage ?? currentLanguage.code,
+        patientLanguage: bookingPatientLanguage,
       });
       setBookingOpen(false);
       setBookingDoctorId('');
@@ -212,8 +253,10 @@ export default function VideoConsultationsPage() {
     return (
       <div className="mx-auto max-w-4xl">
         <VideoCallRoom
+          consultationId={activeCall.consultation.id}
           token={activeCall.token}
           livekitUrl={activeCall.livekitUrl}
+          preferredLanguage={activeCall.consultation.patient_language}
           displayName={patient?.name}
           onLeave={leaveCall}
         />
@@ -239,6 +282,9 @@ export default function VideoConsultationsPage() {
             {formatDateTime(consultation.scheduled_at)}
             {' · '}
             {consultation.duration_minutes} {t('dashboard.video.minutes')}
+            {consultationLanguageName(consultation.patient_language) ? (
+              <> · {consultationLanguageName(consultation.patient_language)}</>
+            ) : null}
           </p>
           {consultation.status === 'PENDING_CONFIRMATION' && (
             <p className="text-xs text-amber-700">{t('dashboard.video.pendingConfirmationHint')}</p>
@@ -383,6 +429,24 @@ export default function VideoConsultationsPage() {
                   })}
                 </div>
               )}
+            </div>
+            <div className="space-y-2">
+              <Label htmlFor="video-consultation-language">{t('profile.preferredLanguage')}</Label>
+              <Select
+                value={bookingPatientLanguage}
+                onValueChange={(value) => setBookingPatientLanguage(value as VideoInterpretationLanguage)}
+              >
+                <SelectTrigger id="video-consultation-language">
+                  <SelectValue placeholder={t('profile.language.placeholder')} />
+                </SelectTrigger>
+                <SelectContent>
+                  {VIDEO_INTERPRETATION_LANGUAGES.map((language) => (
+                    <SelectItem key={language} value={language}>
+                      {LANGUAGE_NATIVE_NAMES[language]}
+                    </SelectItem>
+                  ))}
+                </SelectContent>
+              </Select>
             </div>
             <div className="space-y-2">
               <Label>{t('dashboard.video.dateTime')}</Label>

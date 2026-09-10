@@ -13,15 +13,31 @@ import { Button } from '@/components/ui/button';
 import { useLanguage } from '@/contexts/LanguageContext';
 import type { TranslationKey } from '@/i18n';
 import { cn } from '@/lib/utils';
+import { patientVideoConsultationsApi } from '@/services/api/patient-video-consultations';
+import {
+  activeInterpretationFence,
+  classifyRemoteAudioTrust,
+  interpretationFenceIsCurrent,
+  matchesInterpretationFence,
+  type VideoInterpretationFence,
+} from './video-interpretation-trust';
+import {
+  isPatientTranslationTarget,
+  isPatientTranslationTrack,
+  normalizeVideoInterpretationLanguage,
+} from './video-interpretation-language';
 
 interface VideoCallRoomProps {
+  consultationId: string;
   token: string;
   livekitUrl: string;
+  preferredLanguage?: string | null;
   displayName?: string;
   onLeave: () => void;
 }
 
 interface SubtitleLine {
+  from: string;
   sourceText: string;
   translatedText: string;
   fromLanguage: string;
@@ -32,13 +48,9 @@ interface SubtitleLine {
 interface RemoteAudioEntry {
   track: RemoteAudioTrack;
   participantIdentity: string;
+  trackName: string;
 }
 
-// Subtitle/interpretation data messages are only trusted from the translator
-// agent. Agent identities are server-assigned as 'translator-<jobId>' and
-// guest tokens cannot publish data messages, so this prefix cannot be spoofed
-// by link holders.
-const TRANSLATOR_IDENTITY_PREFIX = 'translator-';
 const DUCKED_ORIGINAL_VOLUME = 0.15;
 
 type DeviceIssueReason = 'not-found' | 'denied' | 'busy' | 'error';
@@ -83,9 +95,12 @@ function RemoteVideoView({ track, className }: { track: RemoteVideoTrack; classN
 
 function RemoteAudio({ track, volume }: { track: RemoteAudioTrack; volume: number }) {
   const elementRef = useRef<HTMLMediaElement | null>(null);
+  const volumeRef = useRef(volume);
+  volumeRef.current = volume;
 
   useEffect(() => {
     const element = track.attach();
+    element.volume = volumeRef.current;
     element.style.display = 'none';
     document.body.appendChild(element);
     elementRef.current = element;
@@ -105,8 +120,18 @@ function RemoteAudio({ track, volume }: { track: RemoteAudioTrack; volume: numbe
   return null;
 }
 
-export default function VideoCallRoom({ token, livekitUrl, displayName, onLeave }: VideoCallRoomProps) {
+export default function VideoCallRoom({
+  consultationId,
+  token,
+  livekitUrl,
+  preferredLanguage,
+  displayName,
+  onLeave,
+}: VideoCallRoomProps) {
   const { t } = useLanguage();
+  // Legacy consultations may predate the required booking field. Their CRM
+  // room already defaults to English, so retain the same fallback here.
+  const patientLanguage = normalizeVideoInterpretationLanguage(preferredLanguage) ?? 'en';
   const [room, setRoom] = useState<Room | null>(null);
   const [connecting, setConnecting] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -117,11 +142,53 @@ export default function VideoCallRoom({ token, livekitUrl, displayName, onLeave 
   const [remoteAudioEntries, setRemoteAudioEntries] = useState<RemoteAudioEntry[]>([]);
   const [subtitles, setSubtitles] = useState<SubtitleLine[]>([]);
   const [translatedPlayoutCount, setTranslatedPlayoutCount] = useState(0);
+  const [interpretationFence, setInterpretationFence] = useState<VideoInterpretationFence | null>(null);
+  const interpretationFenceRef = useRef<VideoInterpretationFence | null>(null);
   const [deviceIssue, setDeviceIssue] = useState<DeviceIssue | null>(null);
   const [deviceIssueDismissed, setDeviceIssueDismissed] = useState(false);
   const localVideoRef = useRef<HTMLDivElement>(null);
   const onLeaveRef = useRef(onLeave);
   onLeaveRef.current = onLeave;
+
+  useEffect(() => {
+    let disposed = false;
+    let timer: ReturnType<typeof setTimeout> | null = null;
+
+    const applyFence = (next: VideoInterpretationFence | null) => {
+      const current = interpretationFenceRef.current;
+      const changed = current?.jobId !== next?.jobId
+        || current?.roomGeneration !== next?.roomGeneration
+        || current?.interpretationGeneration !== next?.interpretationGeneration
+        || current?.executionVersion !== next?.executionVersion
+        || current?.agentIdentity !== next?.agentIdentity;
+      if (!changed) return;
+      interpretationFenceRef.current = next;
+      setInterpretationFence(next);
+      setTranslatedPlayoutCount(0);
+      setSubtitles([]);
+    };
+
+    const refresh = async () => {
+      try {
+        const result = await patientVideoConsultationsApi.getInterpretationStatus(consultationId);
+        if (!disposed) applyFence(activeInterpretationFence(result.job));
+      } catch {
+        // A single control-plane/network miss must not mute a sentence in
+        // progress. Retain only the exact fence until its server-issued expiry.
+        if (!disposed && !interpretationFenceIsCurrent(interpretationFenceRef.current)) {
+          applyFence(null);
+        }
+      } finally {
+        if (!disposed) timer = setTimeout(() => { void refresh(); }, 1_000);
+      }
+    };
+    void refresh();
+    return () => {
+      disposed = true;
+      if (timer) clearTimeout(timer);
+      interpretationFenceRef.current = null;
+    };
+  }, [consultationId]);
 
   useEffect(() => {
     let disposed = false;
@@ -140,7 +207,7 @@ export default function VideoCallRoom({ token, livekitUrl, displayName, onLeave 
     lkRoom
       .on(RoomEvent.LocalTrackPublished, syncLocalVideo)
       .on(RoomEvent.LocalTrackUnpublished, syncLocalVideo)
-      .on(RoomEvent.TrackSubscribed, (track, _publication, participant) => {
+      .on(RoomEvent.TrackSubscribed, (track, publication, participant) => {
         if (track.kind === Track.Kind.Video) {
           const videoTrack = track as RemoteVideoTrack;
           setRemoteVideoTracks((prev) => (prev.some((item) => item.sid === videoTrack.sid) ? prev : [...prev, videoTrack]));
@@ -149,7 +216,11 @@ export default function VideoCallRoom({ token, livekitUrl, displayName, onLeave 
           setRemoteAudioEntries((prev) => (
             prev.some((item) => item.track.sid === audioTrack.sid)
               ? prev
-              : [...prev, { track: audioTrack, participantIdentity: participant.identity }]
+              : [...prev, {
+                track: audioTrack,
+                participantIdentity: participant.identity,
+                trackName: publication.trackName || audioTrack.name,
+              }]
           ));
         }
       })
@@ -162,16 +233,21 @@ export default function VideoCallRoom({ token, livekitUrl, displayName, onLeave 
       })
       .on(RoomEvent.ParticipantDisconnected, (participant) => {
         setRemoteAudioEntries((prev) => prev.filter((entry) => entry.participantIdentity !== participant.identity));
-        if (participant.identity.startsWith(TRANSLATOR_IDENTITY_PREFIX)) {
+        if (participant.identity === interpretationFenceRef.current?.agentIdentity) {
           setTranslatedPlayoutCount(0);
         }
       })
       .on(RoomEvent.DataReceived, (payload, participant, _kind, topic) => {
-        if (!participant?.identity?.startsWith(TRANSLATOR_IDENTITY_PREFIX)) return;
         if (payload.byteLength > 64 * 1024) return;
         try {
           const msg = JSON.parse(new TextDecoder().decode(payload)) as Record<string, unknown>;
+          if (!matchesInterpretationFence(
+            participant?.identity,
+            msg,
+            interpretationFenceRef.current,
+          )) return;
           if (topic === 'interpretation-status' && msg.schema === 'medora.interpretation.status.v1') {
+            if (!isPatientTranslationTarget(msg.targetLanguage, patientLanguage)) return;
             if (msg.code === 'TRANSLATED_PLAYOUT_STARTED') {
               setTranslatedPlayoutCount((count) => count + 1);
             } else if (msg.code === 'TRANSLATED_PLAYOUT_ENDED') {
@@ -183,14 +259,32 @@ export default function VideoCallRoom({ token, livekitUrl, displayName, onLeave 
           if (typeof msg.sourceText !== 'string' || typeof msg.translatedText !== 'string') return;
           if (msg.sourceText.length > 4_000 || msg.translatedText.length > 4_000) return;
           if (typeof msg.isFinal !== 'boolean') return;
+          if (!isPatientTranslationTarget(msg.toLanguage, patientLanguage)) return;
           const line: SubtitleLine = {
+            from: String(msg.from ?? ''),
             sourceText: msg.sourceText,
             translatedText: msg.translatedText,
             fromLanguage: String(msg.fromLanguage ?? ''),
             toLanguage: String(msg.toLanguage ?? ''),
             isFinal: msg.isFinal,
           };
-          setSubtitles((prev) => [...prev.slice(-49), line]);
+          setSubtitles((prev) => {
+            // Interim captions carry the accumulated text of the same turn —
+            // update the speaker's in-progress line in place instead of
+            // appending one line per delta.
+            const next = [...prev];
+            let liveIndex = -1;
+            for (let i = next.length - 1; i >= 0; i -= 1) {
+              const entry = next[i];
+              if (entry && !entry.isFinal && entry.from === line.from) {
+                liveIndex = i;
+                break;
+              }
+            }
+            if (liveIndex >= 0) next[liveIndex] = line;
+            else next.push(line);
+            return next.slice(-49);
+          });
         } catch {
           // Ignore malformed data messages.
         }
@@ -235,7 +329,7 @@ export default function VideoCallRoom({ token, livekitUrl, displayName, onLeave 
       disposed = true;
       lkRoom.disconnect();
     };
-  }, [token, livekitUrl]);
+  }, [token, livekitUrl, patientLanguage]);
 
   useEffect(() => {
     if (!localVideoTrack || !localVideoRef.current) return;
@@ -289,7 +383,7 @@ export default function VideoCallRoom({ token, livekitUrl, displayName, onLeave 
     );
   }
 
-  const visibleSubtitles = subtitles.slice(-2);
+  const visibleSubtitles = subtitles.slice(-1);
 
   return (
     <div className="overflow-hidden rounded-xl bg-slate-950 text-white">
@@ -318,9 +412,6 @@ export default function VideoCallRoom({ token, livekitUrl, displayName, onLeave 
                 )}
               >
                 <p className="text-sm text-white">{line.translatedText}</p>
-                {line.translatedText !== line.sourceText && (
-                  <p className="text-xs text-slate-400">{line.sourceText}</p>
-                )}
               </div>
             ))}
           </div>
@@ -341,13 +432,14 @@ export default function VideoCallRoom({ token, livekitUrl, displayName, onLeave 
         <RemoteAudio
           key={entry.track.sid}
           track={entry.track}
-          volume={
-            entry.participantIdentity.startsWith(TRANSLATOR_IDENTITY_PREFIX)
-              ? 1
-              : translatedPlayoutCount > 0
-                ? DUCKED_ORIGINAL_VOLUME
-                : 1
-          }
+          volume={(() => {
+            const trust = classifyRemoteAudioTrust(entry.participantIdentity, interpretationFence);
+            if (trust === 'BLOCKED_AGENT') return 0;
+            if (trust === 'TRANSLATED') {
+              return isPatientTranslationTrack(entry.trackName, patientLanguage) ? 1 : 0;
+            }
+            return translatedPlayoutCount > 0 ? DUCKED_ORIGINAL_VOLUME : 1;
+          })()}
         />
       ))}
 

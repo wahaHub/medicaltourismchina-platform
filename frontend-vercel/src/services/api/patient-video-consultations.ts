@@ -47,6 +47,21 @@ export interface VideoConsultationJoinToken {
   livekitUrl: string;
   identity: string;
   roomName: string;
+  patientLanguage: string | null;
+}
+
+export interface VideoInterpretationStatus {
+  success: boolean;
+  job: {
+    jobId: string;
+    roomGeneration: number;
+    interpretationGeneration: number;
+    executionVersion: number;
+    agentIdentity: string;
+    desiredState: string;
+    status: string;
+    validUntil: string;
+  } | null;
 }
 
 export interface BookVideoConsultationInput {
@@ -61,7 +76,7 @@ export interface BookVideoConsultationInput {
   description?: string;
   durationMinutes?: number;
   timezone?: string;
-  patientLanguage?: string | null;
+  patientLanguage: string;
 }
 
 export const patientVideoConsultationsApi = {
@@ -97,6 +112,9 @@ export const patientVideoConsultationsApi = {
       method: 'POST',
       body: '{}',
     }),
+
+  getInterpretationStatus: (id: string) =>
+    crmApiRequest<VideoInterpretationStatus>(`/video-consultations/${encodeURIComponent(id)}/interpretation-status`),
 
   // Public guest access (no patient session required)
   getPublicInfo: (id: string) =>

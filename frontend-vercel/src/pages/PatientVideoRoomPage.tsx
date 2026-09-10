@@ -12,6 +12,7 @@ type JoinedCall = {
   token: string;
   livekitUrl: string;
   participantId: string | null;
+  patientLanguage: string | null;
 };
 
 // Patient-authenticated video room entry. Unlike the public guest link
@@ -43,6 +44,7 @@ export default function PatientVideoRoomPage() {
           token: tokenResult.token,
           livekitUrl: tokenResult.livekitUrl,
           participantId: participant.id,
+          patientLanguage: tokenResult.patientLanguage,
         });
       } catch {
         // The API returns 404 both for unknown ids and for consultations owned
@@ -74,8 +76,10 @@ export default function PatientVideoRoomPage() {
       <div className="flex min-h-screen items-center justify-center bg-slate-100 p-4">
         <div className="w-full max-w-4xl">
           <VideoCallRoom
+            consultationId={consultationId!}
             token={call.token}
             livekitUrl={call.livekitUrl}
+            preferredLanguage={call.patientLanguage}
             displayName={patient?.name ?? ''}
             onLeave={leave}
           />
