@@ -15,11 +15,16 @@ const status = {
   desiredState: 'RUNNING',
   status: 'ACTIVE',
   validUntil: new Date(Date.now() + 60_000).toISOString(),
+  patientLanguage: 'fr',
 };
 
 describe('patient video interpretation trust', () => {
   it('only activates a complete running execution fence', () => {
-    expect(activeInterpretationFence(status)).toMatchObject({ jobId: 'job-1', executionVersion: 4 });
+    expect(activeInterpretationFence(status)).toMatchObject({
+      jobId: 'job-1',
+      executionVersion: 4,
+      patientLanguage: 'fr',
+    });
     expect(activeInterpretationFence({ ...status, status: 'STOPPING' })).toBeNull();
     expect(activeInterpretationFence({ ...status, agentIdentity: 'patient-1' })).toBeNull();
   });

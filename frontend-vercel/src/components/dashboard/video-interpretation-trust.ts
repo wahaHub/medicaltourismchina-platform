@@ -5,6 +5,7 @@ export interface VideoInterpretationFence {
   executionVersion: number;
   agentIdentity: string;
   validUntil: string;
+  patientLanguage?: string;
 }
 
 export type RemoteAudioTrust = 'ORIGINAL' | 'TRANSLATED' | 'BLOCKED_AGENT';
@@ -18,6 +19,7 @@ export function activeInterpretationFence(value: unknown): VideoInterpretationFe
     || typeof job.jobId !== 'string'
     || typeof job.agentIdentity !== 'string'
     || typeof job.validUntil !== 'string'
+    || (job.patientLanguage !== undefined && typeof job.patientLanguage !== 'string')
     || !Number.isFinite(Date.parse(job.validUntil))
     || Date.parse(job.validUntil) <= Date.now()
     || !job.agentIdentity.startsWith(TRANSLATOR_IDENTITY_PREFIX)

@@ -160,7 +160,8 @@ export default function VideoCallRoom({
         || current?.roomGeneration !== next?.roomGeneration
         || current?.interpretationGeneration !== next?.interpretationGeneration
         || current?.executionVersion !== next?.executionVersion
-        || current?.agentIdentity !== next?.agentIdentity;
+        || current?.agentIdentity !== next?.agentIdentity
+        || current?.patientLanguage !== next?.patientLanguage;
       if (!changed) return;
       interpretationFenceRef.current = next;
       setInterpretationFence(next);
@@ -246,8 +247,11 @@ export default function VideoCallRoom({
             msg,
             interpretationFenceRef.current,
           )) return;
+          const activePatientLanguage = normalizeVideoInterpretationLanguage(
+            interpretationFenceRef.current?.patientLanguage,
+          ) ?? patientLanguage;
           if (topic === 'interpretation-status' && msg.schema === 'medora.interpretation.status.v1') {
-            if (!isPatientTranslationTarget(msg.targetLanguage, patientLanguage)) return;
+            if (!isPatientTranslationTarget(msg.targetLanguage, activePatientLanguage)) return;
             if (msg.code === 'TRANSLATED_PLAYOUT_STARTED') {
               setTranslatedPlayoutCount((count) => count + 1);
             } else if (msg.code === 'TRANSLATED_PLAYOUT_ENDED') {
@@ -259,7 +263,7 @@ export default function VideoCallRoom({
           if (typeof msg.sourceText !== 'string' || typeof msg.translatedText !== 'string') return;
           if (msg.sourceText.length > 4_000 || msg.translatedText.length > 4_000) return;
           if (typeof msg.isFinal !== 'boolean') return;
-          if (!isPatientTranslationTarget(msg.toLanguage, patientLanguage)) return;
+          if (!isPatientTranslationTarget(msg.toLanguage, activePatientLanguage)) return;
           const line: SubtitleLine = {
             from: String(msg.from ?? ''),
             sourceText: msg.sourceText,
@@ -436,7 +440,10 @@ export default function VideoCallRoom({
             const trust = classifyRemoteAudioTrust(entry.participantIdentity, interpretationFence);
             if (trust === 'BLOCKED_AGENT') return 0;
             if (trust === 'TRANSLATED') {
-              return isPatientTranslationTrack(entry.trackName, patientLanguage) ? 1 : 0;
+              const activePatientLanguage = normalizeVideoInterpretationLanguage(
+                interpretationFence?.patientLanguage,
+              ) ?? patientLanguage;
+              return isPatientTranslationTrack(entry.trackName, activePatientLanguage) ? 1 : 0;
             }
             return translatedPlayoutCount > 0 ? DUCKED_ORIGINAL_VOLUME : 1;
           })()}

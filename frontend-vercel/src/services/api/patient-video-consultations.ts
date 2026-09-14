@@ -61,6 +61,7 @@ export interface VideoInterpretationStatus {
     desiredState: string;
     status: string;
     validUntil: string;
+    patientLanguage: string;
   } | null;
 }
 
