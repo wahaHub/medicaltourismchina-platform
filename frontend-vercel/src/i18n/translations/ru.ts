@@ -2744,6 +2744,7 @@ export const ru = {
   'dashboard.video.waitingForHost': 'Ожидание подключения другого участника…',
   'dashboard.video.connectionError': 'Не удалось подключиться к звонку. Повторите попытку.',
   'dashboard.video.leave': 'Покинуть звонок',
+  'dashboard.video.originalAudio': 'Оригинальный голос собеседника',
   'dashboard.video.deviceIssue.mic': 'Микрофон недоступен ({{reason}}). Собеседники вас не услышат, но звонок продолжится.',
   'dashboard.video.deviceIssue.camera': 'Камера недоступна ({{reason}}). Собеседники вас не увидят, но звонок продолжится.',
   'dashboard.video.deviceIssue.listenOnly': 'Вы по-прежнему можете видеть и слышать звонок.',

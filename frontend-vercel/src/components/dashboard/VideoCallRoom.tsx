@@ -8,8 +8,9 @@ import {
   type RemoteAudioTrack,
   type RemoteVideoTrack,
 } from 'livekit-client';
-import { AlertTriangle, Loader2, Mic, MicOff, PhoneOff, Video as VideoIcon, VideoOff, X } from 'lucide-react';
+import { AlertTriangle, Loader2, Mic, MicOff, PhoneOff, Video as VideoIcon, VideoOff, Volume2, VolumeX, X } from 'lucide-react';
 import { Button } from '@/components/ui/button';
+import { Switch } from '@/components/ui/switch';
 import { useLanguage } from '@/contexts/LanguageContext';
 import type { TranslationKey } from '@/i18n';
 import { cn } from '@/lib/utils';
@@ -140,6 +141,7 @@ export default function VideoCallRoom({
   const [localVideoTrack, setLocalVideoTrack] = useState<LocalVideoTrack | null>(null);
   const [remoteVideoTracks, setRemoteVideoTracks] = useState<RemoteVideoTrack[]>([]);
   const [remoteAudioEntries, setRemoteAudioEntries] = useState<RemoteAudioEntry[]>([]);
+  const [originalAudioEnabled, setOriginalAudioEnabled] = useState(true);
   const [subtitles, setSubtitles] = useState<SubtitleLine[]>([]);
   const [translatedPlayoutCount, setTranslatedPlayoutCount] = useState(0);
   const [interpretationFence, setInterpretationFence] = useState<VideoInterpretationFence | null>(null);
@@ -445,6 +447,7 @@ export default function VideoCallRoom({
               ) ?? patientLanguage;
               return isPatientTranslationTrack(entry.trackName, activePatientLanguage) ? 1 : 0;
             }
+            if (!originalAudioEnabled) return 0;
             return translatedPlayoutCount > 0 ? DUCKED_ORIGINAL_VOLUME : 1;
           })()}
         />
@@ -475,7 +478,18 @@ export default function VideoCallRoom({
         </div>
       )}
 
-      <div className="flex items-center justify-center gap-3 bg-slate-900 px-4 py-3">
+      <div className="flex flex-wrap items-center justify-center gap-3 bg-slate-900 px-4 py-3">
+        <div className="mr-1 inline-flex items-center gap-2 text-xs text-slate-200">
+          {originalAudioEnabled ? <Volume2 className="h-4 w-4" /> : <VolumeX className="h-4 w-4" />}
+          <label htmlFor="patient-original-audio">{t('dashboard.video.originalAudio')}</label>
+          <Switch
+            id="patient-original-audio"
+            checked={originalAudioEnabled}
+            onCheckedChange={setOriginalAudioEnabled}
+            className="data-[state=checked]:bg-teal-600 data-[state=unchecked]:bg-slate-600"
+            aria-label={t('dashboard.video.originalAudio')}
+          />
+        </div>
         <Button
           type="button"
           variant={micEnabled ? 'secondary' : 'destructive'}

@@ -2659,6 +2659,7 @@ export const zh = {
   'dashboard.video.waitingForHost': '等待对方加入…',
   'dashboard.video.connectionError': '无法连接通话，请重试。',
   'dashboard.video.leave': '离开通话',
+  'dashboard.video.originalAudio': '对方原声',
   'dashboard.video.deviceIssue.mic': '麦克风不可用（{{reason}}），对方将无法听到你的声音，但通话会继续。',
   'dashboard.video.deviceIssue.camera': '摄像头不可用（{{reason}}），对方将无法看到你，但通话会继续。',
   'dashboard.video.deviceIssue.listenOnly': '你仍可正常观看和收听本次通话。',

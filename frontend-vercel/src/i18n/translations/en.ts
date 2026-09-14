@@ -2785,6 +2785,7 @@ export const en = {
   'dashboard.video.waitingForHost': 'Waiting for the other participant to join…',
   'dashboard.video.connectionError': 'Could not connect to the call. Please try again.',
   'dashboard.video.leave': 'Leave call',
+  'dashboard.video.originalAudio': 'Other participant original audio',
   'dashboard.video.deviceIssue.mic': 'Microphone unavailable ({{reason}}). Others cannot hear you, but the call continues.',
   'dashboard.video.deviceIssue.camera': 'Camera unavailable ({{reason}}). Others cannot see you, but the call continues.',
   'dashboard.video.deviceIssue.listenOnly': 'You can still watch and hear the call.',

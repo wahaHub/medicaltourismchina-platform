@@ -2400,6 +2400,7 @@ export const de = {
   'dashboard.video.waitingForHost': 'Warten auf den anderen Teilnehmer…',
   'dashboard.video.connectionError': 'Verbindung zum Anruf fehlgeschlagen. Bitte erneut versuchen.',
   'dashboard.video.leave': 'Anruf verlassen',
+  'dashboard.video.originalAudio': 'Originalstimme des anderen Teilnehmers',
   'dashboard.video.deviceIssue.mic': 'Mikrofon nicht verfügbar ({{reason}}). Andere können Sie nicht hören, aber der Anruf läuft weiter.',
   'dashboard.video.deviceIssue.camera': 'Kamera nicht verfügbar ({{reason}}). Andere können Sie nicht sehen, aber der Anruf läuft weiter.',
   'dashboard.video.deviceIssue.listenOnly': 'Sie können den Anruf weiterhin sehen und hören.',

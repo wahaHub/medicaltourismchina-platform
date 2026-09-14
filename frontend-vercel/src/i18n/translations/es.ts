@@ -2331,6 +2331,7 @@ export const es = {
   'dashboard.video.waitingForHost': 'Esperando a que se una el otro participante…',
   'dashboard.video.connectionError': 'No se pudo conectar a la llamada. Inténtelo de nuevo.',
   'dashboard.video.leave': 'Salir de la llamada',
+  'dashboard.video.originalAudio': 'Voz original del otro participante',
   'dashboard.video.deviceIssue.mic': 'Micrófono no disponible ({{reason}}). Los demás no podrán oírte, pero la llamada continúa.',
   'dashboard.video.deviceIssue.camera': 'Cámara no disponible ({{reason}}). Los demás no podrán verte, pero la llamada continúa.',
   'dashboard.video.deviceIssue.listenOnly': 'Aún puedes ver y escuchar la llamada.',

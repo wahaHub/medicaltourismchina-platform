@@ -2432,6 +2432,7 @@ export const fr = {
   'dashboard.video.waitingForHost': 'En attente de l\'autre participant…',
   'dashboard.video.connectionError': 'Impossible de se connecter à l\'appel. Veuillez réessayer.',
   'dashboard.video.leave': 'Quitter l\'appel',
+  'dashboard.video.originalAudio': 'Voix originale de l\'autre participant',
   'dashboard.video.deviceIssue.mic': 'Microphone indisponible ({{reason}}). Les autres ne vous entendront pas, mais l’appel continue.',
   'dashboard.video.deviceIssue.camera': 'Caméra indisponible ({{reason}}). Les autres ne vous verront pas, mais l’appel continue.',
   'dashboard.video.deviceIssue.listenOnly': 'Vous pouvez toujours voir et entendre l’appel.',
