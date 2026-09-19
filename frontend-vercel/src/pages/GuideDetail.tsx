@@ -10,7 +10,10 @@ import { useLanguage } from "@/contexts/LanguageContext";
 import { setPageSeo, SITE_ORIGIN } from "@/utils/seo";
 import { localizePathname, type SiteLocale } from "@/utils/locale-routing";
 import guidesManifest from "@/data/guides-manifest.json";
-import guidesSeoManifest from "@/data/guides-seo-manifest.json";
+import { parseGuideMetadata } from "@/lib/guide-metadata.mjs";
+import { prepareGuideBody } from "@/lib/guide-markdown.mjs";
+import { guideContentLocale, guideFilename, guideHeadingId, localizeGuideHeading, GUIDE_LABELS } from "@/lib/guide-locales.mjs";
+import { getStaticPageMetadata } from "@/seo/static-page";
 
 const GUIDE_LOCALES = ["en", "zh", "es", "fr", "de", "ru", "ar", "id"] as const;
 type GuideLocale = (typeof GUIDE_LOCALES)[number];
@@ -26,12 +29,6 @@ interface ManifestGuide {
   readTimeMinutes: number;
 }
 
-interface GuideSeoMetadata {
-  title?: Record<string, string>;
-  description?: Record<string, string>;
-  reviewedBy?: Record<string, string>;
-}
-
 interface ManifestCategory {
   slug: string;
   title: Record<string, string>;
@@ -45,42 +42,17 @@ function useDisplayLocale(): GuideLocale {
   return (GUIDE_LOCALES as readonly string[]).includes(code) ? (code as GuideLocale) : "en";
 }
 
-function useContentLocale(): "en" | "zh" {
-  const { currentLanguage } = useLanguage();
-  return currentLanguage.code === "zh" || currentLanguage.code === "zh-CN" ? "zh" : "en";
-}
-
 function pickLocalized(record: Record<string, string> | undefined, locale: string) {
   if (!record) return "";
   return record[locale] || record.en || record.zh || Object.values(record)[0] || "";
-}
-
-function stripHeroSection(markdown: string): string {
-  // Defensively strip pipeline-only sections so they can never render even if
-  // a source file still contains them (cleaned at source in polish_ai_traces.py).
-  const stripPipelineSections = (text: string) =>
-    text
-      .replace(/^## SEO Metadata\s*$[\s\S]*?(?=^##\s|(?![\s\S]))/m, "")
-      .replace(/^## Hero Image Prompt\s*$[\s\S]*?(?=^##\s|(?![\s\S]))/m, "")
-      .replace(/^## (?:Hero )?Image Review\s*$[\s\S]*?(?=^##\s|(?![\s\S]))/m, "");
-  const keyTakeawaysIndex = markdown.search(/^## Key Takeaways\s*$/m);
-  if (keyTakeawaysIndex >= 0) {
-    return stripPipelineSections(markdown.slice(keyTakeawaysIndex)).trim();
-  }
-  const contentIndex = markdown.search(/^## Content\s*$/m);
-  if (contentIndex >= 0) {
-    return stripPipelineSections(markdown.slice(contentIndex)).trim();
-  }
-  return markdown.trim();
 }
 
 export default function GuideDetail() {
   const { categorySlug, guideSlug } = useParams<{ categorySlug: string; guideSlug: string }>();
   const { t } = useLanguage();
   const displayLocale = useDisplayLocale();
-  const contentLocale = useContentLocale();
 
-  const [markdown, setMarkdown] = useState<string | null>(null);
+  const [loadedGuide, setLoadedGuide] = useState<{ key: string; text: string } | null>(null);
   const [error, setError] = useState<string | null>(null);
 
   const category = useMemo(
@@ -91,30 +63,35 @@ export default function GuideDetail() {
     () => category?.guides.find((g) => g.slug === guideSlug),
     [category, guideSlug],
   );
-  const guideSeo = useMemo(
-    () => (guidesSeoManifest.guides as Record<string, GuideSeoMetadata>)[`${categorySlug}/${guideSlug}`],
-    [categorySlug, guideSlug],
-  );
+  const contentLocale = guideContentLocale(displayLocale, guide?.locales);
+  const documentKey = `${categorySlug}/${guideSlug}/${contentLocale}`;
+  const markdown = loadedGuide?.key === documentKey ? loadedGuide.text : null;
+  const articleMetadata = useMemo(() => markdown ? parseGuideMetadata(markdown) : undefined, [markdown]);
+  const labels = GUIDE_LABELS[displayLocale];
 
   useEffect(() => {
-    if (!categorySlug || !guideSlug) return;
+    if (!categorySlug || !guideSlug || !guide) return;
+    const controller = new AbortController();
+    setLoadedGuide(null);
+    setError(null);
+    const url = `/guides/${categorySlug}/${guideFilename(guideSlug, contentLocale)}`;
 
-    const suffix = contentLocale === "zh" ? ".zh.md" : ".md";
-    const url = `/guides/${categorySlug}/${guideSlug}${suffix}`;
-
-    fetch(url)
+    fetch(url, { signal: controller.signal })
       .then((response) => {
         if (!response.ok) throw new Error("Guide not found");
         return response.text();
       })
       .then((text) => {
-        setMarkdown(text);
+        if (controller.signal.aborted) return;
+        setLoadedGuide({ key: documentKey, text });
         setError(null);
       })
       .catch((err) => {
+        if (controller.signal.aborted) return;
         setError(err instanceof Error ? err.message : "Failed to load guide");
       });
-  }, [categorySlug, guideSlug, contentLocale]);
+    return () => controller.abort();
+  }, [categorySlug, guideSlug, contentLocale, documentKey, guide]);
 
   const displayTitle =
     pickLocalized(guide?.title, displayLocale)
@@ -123,14 +100,12 @@ export default function GuideDetail() {
   const displaySubtitle = pickLocalized(guide?.subtitle, displayLocale);
   const categoryTitle = pickLocalized(category?.title, displayLocale) || "Guide";
   const metaDescription =
-    guideSeo?.description?.[displayLocale]
+    articleMetadata?.seo.description
     || displaySubtitle
     || guide?.excerpt
     || `${displayTitle} — Medora Health patient guide`;
-  const seoTitle = guideSeo?.title?.[displayLocale] || displayTitle;
-  const reviewedBy = guideSeo?.reviewedBy?.[displayLocale]
-    || guideSeo?.reviewedBy?.en
-    || "Medora Health Editorial Team";
+  const seoTitle = articleMetadata?.seo.title || displayTitle;
+  const reviewedBy = articleMetadata?.hero.reviewedBy || "";
   const guidePath = `/guides/${categorySlug}/${guideSlug}`;
   const availableLocales = useMemo(
     () => (guide?.locales || []).filter((locale): locale is SiteLocale =>
@@ -160,7 +135,6 @@ export default function GuideDetail() {
           mainEntityOfPage: { "@type": "WebPage", "@id": canonicalUrl },
           author: { "@type": "Organization", "@id": `${SITE_ORIGIN}/#organization`, name: "Medora Health" },
           publisher: { "@type": "Organization", "@id": `${SITE_ORIGIN}/#organization`, name: "Medora Health" },
-          reviewedBy: { "@type": "Organization", name: reviewedBy },
         },
         {
           "@type": "BreadcrumbList",
@@ -170,10 +144,10 @@ export default function GuideDetail() {
             {
               "@type": "ListItem",
               position: 2,
-              name: displayLocale === "zh" ? "赴华就医指南" : "Medical Travel Guides",
+              name: getStaticPageMetadata("guides", displayLocale).locale.heading,
               item: `${SITE_ORIGIN}${localizePathname("/guides", displayLocale)}`,
             },
-            { "@type": "ListItem", position: 3, name: categoryTitle, item: canonicalUrl },
+            { "@type": "ListItem", position: 3, name: displayTitle, item: canonicalUrl },
           ],
         },
       ],
@@ -181,6 +155,8 @@ export default function GuideDetail() {
   }, [canonicalUrl, category, categoryTitle, displayLocale, displayTitle, guide, isIndexable, metaDescription, reviewedBy]);
 
   useEffect(() => {
+    // Keep the prerendered metadata until this article's source has loaded.
+    if (guide && !markdown && !error) return;
     setPageSeo({
       title: seoTitle,
       description: metaDescription,
@@ -192,12 +168,14 @@ export default function GuideDetail() {
       ogType: isIndexable ? "article" : "website",
       structuredData,
     });
-  }, [availableLocales, category?.image, guidePath, isIndexable, metaDescription, seoTitle, structuredData]);
+  }, [availableLocales, category?.image, error, guide, guidePath, isIndexable, markdown, metaDescription, seoTitle, structuredData]);
 
   const renderedMarkdown = useMemo(
-    () => (markdown ? stripHeroSection(markdown) : ""),
+    () => (markdown ? prepareGuideBody(markdown) : ""),
     [markdown],
   );
+  const contents = useMemo(() => [...renderedMarkdown.matchAll(/^## (.+)$/gm)]
+    .map((match) => ({ text: localizeGuideHeading(match[1].replace(/\[([^\]]+)\]\([^)]*\)/g, "$1").replace(/[*_`]/g, ""), contentLocale), id: guideHeadingId(match[1]) })), [renderedMarkdown, contentLocale]);
 
   return (
     <div className="min-h-screen bg-white">
@@ -236,10 +214,10 @@ export default function GuideDetail() {
                 <Clock className="h-4 w-4" />
                 {t("guides.minRead", { minutes: guide?.readTimeMinutes || 5 })}
               </span>
-              <span className="inline-flex items-center gap-1.5">
+              {reviewedBy ? <span className="inline-flex items-center gap-1.5">
                 <BadgeCheck className="h-4 w-4" />
                 {reviewedBy}
-              </span>
+              </span> : null}
             </div>
           </div>
         </section>
@@ -247,6 +225,13 @@ export default function GuideDetail() {
         {/* Content */}
         <section className="container mx-auto px-4 py-12 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-3xl">
+            {displayLocale !== contentLocale && <p className="mb-6 rounded-lg bg-amber-50 p-4 text-sm text-amber-900">{labels[5]}</p>}
+            {contents.length > 0 && <nav aria-label={labels[4]} className="mb-8 rounded-xl border border-slate-200 p-5">
+              <details>
+                <summary className="cursor-pointer font-semibold text-slate-800">{labels[4]}</summary>
+                <ul className="mt-3 space-y-2 text-sm text-teal-700">{contents.map((item) => <li key={item.id}><a href={`#${item.id}`}>{item.text}</a></li>)}</ul>
+              </details>
+            </nav>}
             {error ? (
               <div className="rounded-xl border border-rose-200 bg-rose-50 px-6 py-12 text-center">
                 <p className="text-rose-700">{error}</p>
@@ -258,8 +243,12 @@ export default function GuideDetail() {
                 </Link>
               </div>
             ) : markdown ? (
-              <article className="prose prose-slate max-w-none prose-headings:font-semibold prose-headings:text-slate-900 prose-a:text-teal-700 prose-a:no-underline hover:prose-a:underline prose-strong:text-slate-900 prose-li:marker:text-teal-600">
-                <ReactMarkdown remarkPlugins={[remarkGfm]}>{renderedMarkdown}</ReactMarkdown>
+              <article lang={contentLocale === "zh" ? "zh-Hans" : contentLocale} dir={contentLocale === "ar" ? "rtl" : "ltr"} className="prose prose-slate max-w-none prose-headings:font-semibold prose-headings:text-slate-900 prose-a:text-teal-700 prose-a:no-underline hover:prose-a:underline prose-strong:text-slate-900 prose-li:marker:text-teal-600">
+                <ReactMarkdown remarkPlugins={[remarkGfm]} components={{ h2: ({children, node}) => {
+                  const line = node?.position?.start.line;
+                  const heading = line ? renderedMarkdown.split(/\r?\n/)[line - 1].replace(/^##\s+/, "") : String(children);
+                  return <h2 id={guideHeadingId(heading)} className="scroll-mt-32">{typeof children === "string" ? localizeGuideHeading(children, contentLocale) : children}</h2>;
+                } }}>{renderedMarkdown}</ReactMarkdown>
               </article>
             ) : (
               <div className="space-y-4">

@@ -1,0 +1,138 @@
+{
+  "myelodysplastic-syndrome": {
+    "es": "Síndrome mielodisplásico",
+    "fr": "Syndrome myélodysplasique",
+    "de": "Myelodysplastisches Syndrom",
+    "ru": "Миелодиспластический синдром",
+    "ar": "متلازمة خلل التنسج النخاعي",
+    "id": "Sindrom mielodisplastik"
+  },
+  "aplastic-anemia": {
+    "es": "Anemia aplásica",
+    "fr": "Anémie aplasique",
+    "de": "Aplastische Anämie",
+    "ru": "Апластическая анемия",
+    "ar": "فقر الدم اللاتنسجي",
+    "id": "Anemia aplastik"
+  },
+  "diffuse-large-b-cell-lymphoma": {
+    "es": "Linfoma difuso de células B grandes",
+    "fr": "Lymphome diffus à grandes cellules B",
+    "de": "Diffuses großzelliges B-Zell-Lymphom",
+    "ru": "Диффузная В-крупноклеточная лимфома",
+    "ar": "لمفوما الخلايا البائية الكبيرة المنتشرة",
+    "id": "Limfoma sel B besar difus"
+  },
+  "follicular-lymphoma": {
+    "es": "Linfoma folicular",
+    "fr": "Lymphome folliculaire",
+    "de": "Follikuläres Lymphom",
+    "ru": "Фолликулярная лимфома",
+    "ar": "اللمفوما الجريبية",
+    "id": "Limfoma folikular"
+  },
+  "mantle-cell-lymphoma": {
+    "es": "Linfoma de células del manto",
+    "fr": "Lymphome à cellules du manteau",
+    "de": "Mantelzelllymphom",
+    "ru": "Лимфома из клеток мантийной зоны",
+    "ar": "لمفوما الخلايا الوشاحية",
+    "id": "Limfoma sel mantel"
+  },
+  "t-cell-lymphoma": {
+    "es": "Linfoma de células T",
+    "fr": "Lymphome à cellules T",
+    "de": "T-Zell-Lymphom",
+    "ru": "Т-клеточная лимфома",
+    "ar": "لمفوما الخلايا التائية",
+    "id": "Limfoma sel T"
+  },
+  "hodgkin-lymphoma": {
+    "es": "Linfoma de Hodgkin",
+    "fr": "Lymphome de Hodgkin",
+    "de": "Hodgkin-Lymphom",
+    "ru": "Лимфома Ходжкина",
+    "ar": "لمفوما هودجكين",
+    "id": "Limfoma Hodgkin"
+  },
+  "multiple-myeloma": {
+    "es": "Mieloma múltiple",
+    "fr": "Myélome multiple",
+    "de": "Multiples Myelom",
+    "ru": "Множественная миелома",
+    "ar": "الورم النقوي المتعدد",
+    "id": "Mieloma multipel"
+  },
+  "graft-versus-host-disease": {
+    "es": "Enfermedad de injerto contra huésped",
+    "fr": "Maladie du greffon contre l’hôte",
+    "de": "Transplantat-gegen-Wirt-Erkrankung",
+    "ru": "Болезнь «трансплантат против хозяина»",
+    "ar": "داء الطعم حيال المضيف",
+    "id": "Penyakit graft-versus-host"
+  },
+  "thalassemia": {
+    "es": "Talasemia",
+    "fr": "Thalassémie",
+    "de": "Thalassämie",
+    "ru": "Талассемия",
+    "ar": "الثلاسيميا",
+    "id": "Talasemia"
+  },
+  "sickle-cell-disease": {
+    "es": "Enfermedad de células falciformes",
+    "fr": "Drépanocytose",
+    "de": "Sichelzellkrankheit",
+    "ru": "Серповидноклеточная болезнь",
+    "ar": "مرض الخلايا المنجلية",
+    "id": "Penyakit sel sabit"
+  },
+  "parkinson-disease": {
+    "es": "Enfermedad de Parkinson",
+    "fr": "Maladie de Parkinson",
+    "de": "Parkinson-Krankheit",
+    "ru": "Болезнь Паркинсона",
+    "ar": "مرض باركنسون",
+    "id": "Penyakit Parkinson"
+  },
+  "alzheimer-disease": {
+    "es": "Enfermedad de Alzheimer",
+    "fr": "Maladie d’Alzheimer",
+    "de": "Alzheimer-Krankheit",
+    "ru": "Болезнь Альцгеймера",
+    "ar": "مرض ألزهايمر",
+    "id": "Penyakit Alzheimer"
+  },
+  "drug-resistant-epilepsy": {
+    "es": "Epilepsia farmacorresistente",
+    "fr": "Épilepsie pharmacorésistante",
+    "de": "Pharmakoresistente Epilepsie",
+    "ru": "Фармакорезистентная эпилепсия",
+    "ar": "الصرع المقاوم للأدوية",
+    "id": "Epilepsi resistan obat"
+  },
+  "post-ischemic-stroke-rehabilitation": {
+    "es": "Rehabilitación tras un ictus isquémico",
+    "fr": "Rééducation après un AVC ischémique",
+    "de": "Rehabilitation nach ischämischem Schlaganfall",
+    "ru": "Реабилитация после ишемического инсульта",
+    "ar": "إعادة التأهيل بعد السكتة الدماغية الإقفارية",
+    "id": "Rehabilitasi pascastroke iskemik"
+  },
+  "multiple-sclerosis": {
+    "es": "Esclerosis múltiple",
+    "fr": "Sclérose en plaques",
+    "de": "Multiple Sklerose",
+    "ru": "Рассеянный склероз",
+    "ar": "التصلب المتعدد",
+    "id": "Sklerosis multipel"
+  },
+  "amyotrophic-lateral-sclerosis": {
+    "es": "Esclerosis lateral amiotrófica",
+    "fr": "Sclérose latérale amyotrophique",
+    "de": "Amyotrophe Lateralsklerose",
+    "ru": "Боковой амиотрофический склероз",
+    "ar": "التصلب الجانبي الضموري",
+    "id": "Sklerosis lateral amiotrofik"
+  }
+}

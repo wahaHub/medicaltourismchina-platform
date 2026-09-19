@@ -1,6 +1,12 @@
 import { Link } from "react-router-dom";
 import { Calendar, ChevronRight, Clock } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { guideContentLocale } from "@/lib/guide-locales.mjs";
+
+const CONTENT_LANGUAGE_LABELS: Record<string, string> = {
+  en: "English", zh: "中文", es: "Español", fr: "Français",
+  de: "Deutsch", ru: "Русский", ar: "العربية", id: "Bahasa Indonesia",
+};
 
 export interface GuideCardGuide {
   slug: string;
@@ -11,6 +17,9 @@ export interface GuideCardGuide {
   locales: string[];
   updatedDate: string;
   readTimeMinutes: number;
+  conditionId?: string;
+  condition?: Record<string, string>;
+  topic?: string;
 }
 
 interface GuideCardProps {
@@ -25,11 +34,6 @@ interface GuideCardProps {
   className?: string;
 }
 
-function pickLocalized(record: Record<string, string> | undefined, locale: string, fallbackLocale = "en") {
-  if (!record) return "";
-  return record[locale] || record[fallbackLocale] || record.zh || Object.values(record)[0] || "";
-}
-
 export default function GuideCard({
   guide,
   categorySlug,
@@ -41,17 +45,18 @@ export default function GuideCard({
   readGuideLabel,
   className,
 }: GuideCardProps) {
-  const title = pickLocalized(guide.title, locale) || guide.slug;
-  const subtitle = pickLocalized(guide.subtitle, locale);
+  const contentLocale = guideContentLocale(locale, guide.locales);
+  const isFallback = contentLocale !== locale;
+  const title = guide.title[contentLocale] || guide.slug;
+  const subtitle = guide.subtitle[contentLocale] || "";
+  const guidePath = `/guides/${categorySlug}/${guide.slug}`;
+  const cardClassName = cn(
+    "group flex h-full flex-col overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-card transition-all hover:-translate-y-0.5 hover:shadow-lg sm:flex-row",
+    className,
+  );
 
-  return (
-    <Link
-      to={`/guides/${categorySlug}/${guide.slug}`}
-      className={cn(
-        "group flex h-full flex-col overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-card transition-all hover:-translate-y-0.5 hover:shadow-lg sm:flex-row",
-        className,
-      )}
-    >
+  const content = (
+    <>
       <div className="relative h-40 shrink-0 overflow-hidden bg-slate-100 sm:h-auto sm:w-2/5 sm:min-w-[180px]">
         {categoryImage ? (
           <img
@@ -70,11 +75,16 @@ export default function GuideCard({
         <span className="mb-2 inline-flex w-fit rounded-full bg-teal-50 px-2.5 py-1 text-xs font-semibold text-teal-700">
           {categoryTitle}
         </span>
-        <h3 className="mb-2 text-lg font-semibold leading-snug text-slate-900 group-hover:text-teal-700">
+        {isFallback ? (
+          <span lang={contentLocale} dir="auto" className="mb-2 w-fit rounded bg-slate-100 px-2 py-0.5 text-xs text-slate-600">
+            {CONTENT_LANGUAGE_LABELS[contentLocale] || contentLocale}
+          </span>
+        ) : null}
+        <h3 lang={contentLocale} dir="auto" className="mb-2 text-lg font-semibold leading-snug text-slate-900 group-hover:text-teal-700">
           {title}
         </h3>
         {subtitle ? (
-          <p className="mb-4 line-clamp-2 text-sm leading-relaxed text-slate-600">{subtitle}</p>
+          <p lang={contentLocale} dir="auto" className="mb-4 line-clamp-2 text-sm leading-relaxed text-slate-600">{subtitle}</p>
         ) : null}
         <div className="mt-auto flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-slate-500">
           {guide.updatedDate ? (
@@ -93,6 +103,16 @@ export default function GuideCard({
           <ChevronRight className="ml-1 h-4 w-4 transition-transform group-hover:translate-x-1" />
         </div>
       </div>
-    </Link>
+    </>
+  );
+
+  // The router applies the current locale basename to Link. Crossing locales
+  // must reload the document at its real path so the app selects a new basename.
+  return isFallback ? (
+    <a href={`${contentLocale === "en" ? "" : `/${contentLocale}`}${guidePath}`} className={cardClassName}>
+      {content}
+    </a>
+  ) : (
+    <Link to={guidePath} className={cardClassName}>{content}</Link>
   );
 }

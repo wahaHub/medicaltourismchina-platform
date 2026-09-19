@@ -1,3 +1,5 @@
+import guideLocaleAvailability from "../src/data/guide-locale-availability.json" with { type: "json" };
+
 export const SEO_LOCALES = ["en", "zh", "es", "fr", "de", "ru", "ar", "id"];
 
 export const STATIC_PAGE_METADATA = {
@@ -282,21 +284,46 @@ export const STATIC_PAGE_METADATA = {
   },
   guides: {
     path: "/guides",
-    indexableLocales: ["en", "ar", "id"],
+    indexableLocales: SEO_LOCALES.filter((locale) => guideLocaleAvailability.includes(locale) || ["ar", "id"].includes(locale)),
     locales: {
       en: {
         title: "Patient Guides for Medical Care in China | Medora Health",
-        description: "Explore expert-reviewed patient guides on hospitals, treatments, clinical trials, costs, insurance, and every step of care in China.",
+        description: "Explore patient guides on hospitals, treatments, clinical trials, costs, insurance, and planning each stage of medical care in China.",
         heading: "Medora Health patient guides",
+      },
+      zh: {
+        title: "赴华就医指南：医院、治疗、费用与行程规划｜Medora Health",
+        description: "阅读赴华就医指南，了解医院选择、治疗方案、临床试验、费用与保险、行前资料准备及回国后的随访安排。",
+        heading: "Medora Health 赴华就医指南",
+      },
+      es: {
+        title: "Guías para recibir atención médica en China | Medora Health",
+        description: "Consulta guías sobre hospitales, tratamientos, ensayos clínicos, costes, seguros y planificación de la atención médica en China.",
+        heading: "Guías para pacientes de Medora Health",
+      },
+      fr: {
+        title: "Guides pour les soins médicaux en Chine | Medora Health",
+        description: "Consultez nos guides sur les hôpitaux, traitements, essais cliniques, coûts, assurances et étapes des soins médicaux en Chine.",
+        heading: "Guides patients de Medora Health",
+      },
+      de: {
+        title: "Patientenratgeber für medizinische Versorgung in China | Medora Health",
+        description: "Lesen Sie Ratgeber zu Krankenhäusern, Behandlungen, klinischen Studien, Kosten, Versicherungen und der Planung Ihrer Versorgung in China.",
+        heading: "Patientenratgeber von Medora Health",
+      },
+      ru: {
+        title: "Руководства по лечению в Китае | Medora Health",
+        description: "Узнайте о больницах, лечении, клинических исследованиях, расходах, страховании и планировании медицинской поездки в Китай.",
+        heading: "Руководства для пациентов Medora Health",
       },
       ar: {
         title: "أدلة المرضى للرعاية الطبية في الصين | Medora Health",
-        description: "اطلع على أدلة مرضى مراجعة من خبراء حول المستشفيات والعلاجات والتجارب السريرية والتكاليف والتأمين وكل خطوة من رحلة الرعاية في الصين.",
+        description: "اطلع على أدلة المرضى حول المستشفيات والعلاجات والتجارب السريرية والتكاليف والتأمين والتخطيط لمراحل الرعاية الطبية في الصين.",
         heading: "أدلة Medora Health للمرضى",
       },
       id: {
         title: "Panduan Pasien untuk Perawatan Medis di Tiongkok | Medora Health",
-        description: "Jelajahi panduan pasien yang ditinjau oleh ahli tentang rumah sakit, perawatan, uji klinis, biaya, asuransi, dan setiap langkah perawatan di Tiongkok.",
+        description: "Jelajahi panduan pasien tentang rumah sakit, pengobatan, uji klinis, biaya, asuransi, dan perencanaan perawatan medis di Tiongkok.",
         heading: "Panduan pasien Medora Health",
       },
     },

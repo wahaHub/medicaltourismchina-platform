@@ -17,7 +17,7 @@ import {
   getHospitalSeoDescription,
   getHospitalSeoTitle,
 } from "../seo/hospital-metadata.mjs";
-import { makeGuidePages } from "../seo/guide-pages.mjs";
+import { makeGuidePages, makeGuideIndexPages } from "../seo/guide-pages.mjs";
 
 const PROJECT_ROOT = path.resolve(import.meta.dirname, "..");
 const DIST_DIR = path.join(PROJECT_ROOT, "dist");
@@ -753,6 +753,7 @@ async function main() {
   }
   const pages = makeStaticPages();
   pages.push(...await makeGuidePages(PROJECT_ROOT));
+  pages.push(...await makeGuideIndexPages(PROJECT_ROOT));
 
   if (REMOTE_ENABLED) {
     try {

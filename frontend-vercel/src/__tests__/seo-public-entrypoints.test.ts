@@ -13,7 +13,7 @@ const SITEMAP_PATHS = [
   "/treatment",
   "/hospitals",
   "/packages",
-  "/visa",
+  "/guides",
 ];
 
 const RETIRED_PATHS = [
@@ -51,13 +51,16 @@ describe("SEO public entrypoints", () => {
     expect(fs.existsSync(sitemapPath)).toBe(true);
 
     const sitemap = fs.readFileSync(sitemapPath, "utf8");
+    const urls = new Set([...sitemap.matchAll(/<loc>(.*?)<\/loc>/g)].map((match) => match[1]));
     for (const publicPath of SITEMAP_PATHS) {
-      expect(sitemap).toContain(`https://www.medicaltourismchina.health${publicPath}`);
+      expect(urls.has(`https://www.medicaltourismchina.health${publicPath}`)).toBe(true);
     }
     for (const retiredPath of RETIRED_PATHS) {
-      expect(sitemap).not.toContain(
-        `https://www.medicaltourismchina.health${retiredPath}`,
-      );
+      expect(urls.has(`https://www.medicaltourismchina.health${retiredPath}`)).toBe(false);
+    }
+    for (const locale of ["", "/zh", "/es", "/fr", "/de", "/ru", "/ar", "/id"]) {
+      expect(urls.has(`https://www.medicaltourismchina.health${locale}/telemedicine`)).toBe(true);
+      expect(urls.has(`https://www.medicaltourismchina.health${locale}/visa`)).toBe(false);
     }
   });
 

@@ -1,0 +1,4581 @@
+{
+  "batch": "2026-09-09-new-305",
+  "articleCount": 305,
+  "articles": [
+    {
+      "id": "040-17",
+      "conditionId": "myelodysplastic-syndrome",
+      "condition": {
+        "en": "Myelodysplastic Syndrome",
+        "zh": "骨髓增生异常综合征"
+      },
+      "topic": "17_who_should_travel_china",
+      "slug": "myelodysplastic-syndrome-who-should-travel-china",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Should You Travel to China for Myelodysplastic Syndrome Treatment? Defining the Benefit Before Booking",
+        "zh": "骨髓增生异常综合征患者适合来中国治疗吗？先看诊断疑点、移植机会和旅行安全"
+      }
+    },
+    {
+      "id": "040-18",
+      "conditionId": "myelodysplastic-syndrome",
+      "condition": {
+        "en": "Myelodysplastic Syndrome",
+        "zh": "骨髓增生异常综合征"
+      },
+      "topic": "18_medical_records",
+      "slug": "myelodysplastic-syndrome-medical-records",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Medical Records for an MDS Consultation in China: Marrow Reports, Genetics, Transfusions and Treatment History",
+        "zh": "骨髓增生异常综合征来华会诊要准备什么病历？骨髓、基因、输血与用药记录清单"
+      }
+    },
+    {
+      "id": "040-19",
+      "conditionId": "myelodysplastic-syndrome",
+      "condition": {
+        "en": "Myelodysplastic Syndrome",
+        "zh": "骨髓增生异常综合征"
+      },
+      "topic": "19_follow_up_after_return_home",
+      "slug": "myelodysplastic-syndrome-follow-up-after-return-home",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Returning Home After MDS Treatment in China: Follow-Up Tests, Transfusions, Prescriptions and Transplant Care",
+        "zh": "MDS在中国治疗后回国怎么随访？把复查、输血、处方和移植照护接起来"
+      }
+    },
+    {
+      "id": "040-20",
+      "conditionId": "myelodysplastic-syndrome",
+      "condition": {
+        "en": "Myelodysplastic Syndrome",
+        "zh": "骨髓增生异常综合征"
+      },
+      "topic": "20_patient_faq",
+      "slug": "myelodysplastic-syndrome-patient-faq",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Twenty Questions About Myelodysplastic Syndrome: Diagnosis, Transfusions, Medicines, Transplant and Care in China",
+        "zh": "骨髓增生异常综合征患者常问的20个问题：诊断、输血、用药、移植与中国就医"
+      }
+    },
+    {
+      "id": "041-01",
+      "conditionId": "aplastic-anemia",
+      "condition": {
+        "en": "Aplastic Anemia",
+        "zh": "再生障碍性贫血"
+      },
+      "topic": "01_treatment_overview",
+      "slug": "aplastic-anemia-treatment-overview",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Aplastic anemia treatment: from immediate protection to lasting marrow recovery",
+        "zh": "再生障碍性贫血怎么治疗：从眼前危险到长期造血恢复"
+      }
+    },
+    {
+      "id": "041-02",
+      "conditionId": "aplastic-anemia",
+      "condition": {
+        "en": "Aplastic Anemia",
+        "zh": "再生障碍性贫血"
+      },
+      "topic": "02_diagnosis_tests",
+      "slug": "aplastic-anemia-diagnosis-tests",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Diagnosing aplastic anemia: essential tests and targeted investigations",
+        "zh": "再生障碍性贫血如何确诊：哪些检查必须做，哪些要有针对性"
+      }
+    },
+    {
+      "id": "041-03",
+      "conditionId": "aplastic-anemia",
+      "condition": {
+        "en": "Aplastic Anemia",
+        "zh": "再生障碍性贫血"
+      },
+      "topic": "03_report_explained",
+      "slug": "aplastic-anemia-report-explained",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Understanding an aplastic anemia report: hypocellularity, PNH clones, and genetic findings",
+        "zh": "再障报告怎么看：从“低增生”到PNH克隆与基因结果"
+      }
+    },
+    {
+      "id": "041-04",
+      "conditionId": "aplastic-anemia",
+      "condition": {
+        "en": "Aplastic Anemia",
+        "zh": "再生障碍性贫血"
+      },
+      "topic": "04_types_and_risk",
+      "slug": "aplastic-anemia-types-and-risk",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Aplastic anemia types and risk: what nonsevere, severe, and very severe mean",
+        "zh": "再障分型与风险：非重型、重型和极重型怎样影响选择"
+      }
+    },
+    {
+      "id": "041-05",
+      "conditionId": "aplastic-anemia",
+      "condition": {
+        "en": "Aplastic Anemia",
+        "zh": "再生障碍性贫血"
+      },
+      "topic": "05_first_line_treatment",
+      "slug": "aplastic-anemia-first-line-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "First-line treatment for severe aplastic anemia: transplantation or ATG-based therapy",
+        "zh": "重型再障一线治疗怎么选：先做移植，还是ATG联合治疗"
+      }
+    },
+    {
+      "id": "041-06",
+      "conditionId": "aplastic-anemia",
+      "condition": {
+        "en": "Aplastic Anemia",
+        "zh": "再生障碍性贫血"
+      },
+      "topic": "06_treatment_comparison",
+      "slug": "aplastic-anemia-treatment-comparison",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Comparing aplastic anemia treatments: making a decision between transplant and immunosuppression",
+        "zh": "再障治疗方案比较：怎样在移植与免疫抑制之间作决定"
+      }
+    },
+    {
+      "id": "041-07",
+      "conditionId": "aplastic-anemia",
+      "condition": {
+        "en": "Aplastic Anemia",
+        "zh": "再生障碍性贫血"
+      },
+      "topic": "07_surgery_procedures",
+      "slug": "aplastic-anemia-surgery-procedures",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Procedures for aplastic anemia: marrow sampling, vascular access, and transplantation",
+        "zh": "再障需要手术吗：骨髓取样、静脉通路与移植过程"
+      }
+    },
+    {
+      "id": "041-08",
+      "conditionId": "aplastic-anemia",
+      "condition": {
+        "en": "Aplastic Anemia",
+        "zh": "再生障碍性贫血"
+      },
+      "topic": "08_drug_treatment",
+      "slug": "aplastic-anemia-drug-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Medicines for aplastic anemia: understanding ATG, cyclosporine, and eltrombopag",
+        "zh": "再障药物治疗：认清ATG、环孢素、艾曲泊帕各自的任务"
+      }
+    },
+    {
+      "id": "041-09",
+      "conditionId": "aplastic-anemia",
+      "condition": {
+        "en": "Aplastic Anemia",
+        "zh": "再生障碍性贫血"
+      },
+      "topic": "09_radiation_interventional",
+      "slug": "aplastic-anemia-radiation-interventional",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Transfusion support in aplastic anemia: irradiated components, reactions, and iron burden",
+        "zh": "再障输血与支持治疗：辐照血、输后反应和长期铁负荷"
+      }
+    },
+    {
+      "id": "041-10",
+      "conditionId": "aplastic-anemia",
+      "condition": {
+        "en": "Aplastic Anemia",
+        "zh": "再生障碍性贫血"
+      },
+      "topic": "10_outcomes_prognosis",
+      "slug": "aplastic-anemia-outcomes-prognosis",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Aplastic anemia prognosis: response, relapse, and long-term recovery",
+        "zh": "再障能治好吗：疗效、复发与长期恢复怎样判断"
+      }
+    },
+    {
+      "id": "041-11",
+      "conditionId": "aplastic-anemia",
+      "condition": {
+        "en": "Aplastic Anemia",
+        "zh": "再生障碍性贫血"
+      },
+      "topic": "11_relapsed_refractory",
+      "slug": "aplastic-anemia-relapsed-refractory",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Relapsed or refractory aplastic anemia: confirming the cause and planning second-line treatment",
+        "zh": "再障复发或治疗无效怎么办：先确认原因，再安排第二线"
+      }
+    },
+    {
+      "id": "041-12",
+      "conditionId": "aplastic-anemia",
+      "condition": {
+        "en": "Aplastic Anemia",
+        "zh": "再生障碍性贫血"
+      },
+      "topic": "12_new_drugs_trials",
+      "slug": "aplastic-anemia-new-drugs-trials",
+      "category": "clinical-trials-advanced-treatments",
+      "titles": {
+        "en": "New drugs and trials for aplastic anemia: interpreting progress and checking eligibility",
+        "zh": "再障新药与临床试验：哪些进展有证据，怎样判断自己能否参加"
+      }
+    },
+    {
+      "id": "041-13",
+      "conditionId": "aplastic-anemia",
+      "condition": {
+        "en": "Aplastic Anemia",
+        "zh": "再生障碍性贫血"
+      },
+      "topic": "13_side_effects",
+      "slug": "aplastic-anemia-side-effects",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Side effects of aplastic anemia treatment: what needs review and what needs urgent care",
+        "zh": "再障治疗副作用：哪些可以复诊讨论，哪些需要立即处理"
+      }
+    },
+    {
+      "id": "041-14",
+      "conditionId": "aplastic-anemia",
+      "condition": {
+        "en": "Aplastic Anemia",
+        "zh": "再生障碍性贫血"
+      },
+      "topic": "14_treatment_duration",
+      "slug": "aplastic-anemia-treatment-duration",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "How long aplastic anemia treatment takes: admission, response, tapering, and return home",
+        "zh": "再障治疗要多久：住院、等待反应、减药与回国怎样安排"
+      }
+    },
+    {
+      "id": "041-15",
+      "conditionId": "aplastic-anemia",
+      "condition": {
+        "en": "Aplastic Anemia",
+        "zh": "再生障碍性贫血"
+      },
+      "topic": "15_cost_in_china",
+      "slug": "aplastic-anemia-cost-in-china",
+      "category": "cost-insurance-guides",
+      "titles": {
+        "en": "Aplastic anemia treatment costs in China: build an itemized renminbi budget",
+        "zh": "在中国治疗再障要多少钱：按真实项目建立人民币预算"
+      }
+    },
+    {
+      "id": "041-16",
+      "conditionId": "aplastic-anemia",
+      "condition": {
+        "en": "Aplastic Anemia",
+        "zh": "再生障碍性贫血"
+      },
+      "topic": "16_hospital_selection",
+      "slug": "aplastic-anemia-hospital-selection",
+      "category": "hospital-guides",
+      "titles": {
+        "en": "Choosing a hospital in China for aplastic anemia: diagnosis, medical treatment, and donor transplantation",
+        "zh": "再障在中国看哪家医院：按诊断、药物治疗和移植需求选择"
+      }
+    },
+    {
+      "id": "041-17",
+      "conditionId": "aplastic-anemia",
+      "condition": {
+        "en": "Aplastic Anemia",
+        "zh": "再生障碍性贫血"
+      },
+      "topic": "17_who_should_travel_china",
+      "slug": "aplastic-anemia-who-should-travel-china",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Should you travel to China for aplastic anemia treatment?",
+        "zh": "再障患者是否适合来中国治疗：先确认转诊价值和转运条件"
+      }
+    },
+    {
+      "id": "041-18",
+      "conditionId": "aplastic-anemia",
+      "condition": {
+        "en": "Aplastic Anemia",
+        "zh": "再生障碍性贫血"
+      },
+      "topic": "18_medical_records",
+      "slug": "aplastic-anemia-medical-records",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Medical records for an aplastic anemia referral: making the evidence usable",
+        "zh": "再障转诊带哪些病历：把骨髓、血象和用药经过整理成可判断的资料"
+      }
+    },
+    {
+      "id": "041-19",
+      "conditionId": "aplastic-anemia",
+      "condition": {
+        "en": "Aplastic Anemia",
+        "zh": "再生障碍性贫血"
+      },
+      "topic": "19_follow_up_after_return_home",
+      "slug": "aplastic-anemia-follow-up-after-return-home",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Follow-up at home after aplastic anemia treatment in China",
+        "zh": "再障在中国治疗后回国随访：让检查结果有人看、药物调整有人负责"
+      }
+    },
+    {
+      "id": "041-20",
+      "conditionId": "aplastic-anemia",
+      "condition": {
+        "en": "Aplastic Anemia",
+        "zh": "再生障碍性贫血"
+      },
+      "topic": "20_patient_faq",
+      "slug": "aplastic-anemia-patient-faq",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Twenty patient questions about aplastic anemia, treatment, and care in China",
+        "zh": "再生障碍性贫血患者常见20问：诊断、治疗与赴华就医"
+      }
+    },
+    {
+      "id": "042-01",
+      "conditionId": "diffuse-large-b-cell-lymphoma",
+      "condition": {
+        "en": "Diffuse Large B Cell Lymphoma",
+        "zh": "弥漫大B细胞淋巴瘤"
+      },
+      "topic": "01_treatment_overview",
+      "slug": "diffuse-large-b-cell-lymphoma-treatment-overview",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Treatment for diffuse large B-cell lymphoma: building a complete plan",
+        "zh": "弥漫大B细胞淋巴瘤怎么治疗：先明确病理，再走完以治愈为目标的疗程"
+      }
+    },
+    {
+      "id": "042-02",
+      "conditionId": "diffuse-large-b-cell-lymphoma",
+      "condition": {
+        "en": "Diffuse Large B Cell Lymphoma",
+        "zh": "弥漫大B细胞淋巴瘤"
+      },
+      "topic": "02_diagnosis_tests",
+      "slug": "diffuse-large-b-cell-lymphoma-diagnosis-tests",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Tests for suspected DLBCL: biopsy, staging and preparation for treatment",
+        "zh": "怀疑弥漫大B细胞淋巴瘤要做哪些检查：活检、PET/CT与治疗前准备"
+      }
+    },
+    {
+      "id": "042-03",
+      "conditionId": "diffuse-large-b-cell-lymphoma",
+      "condition": {
+        "en": "Diffuse Large B Cell Lymphoma",
+        "zh": "弥漫大B细胞淋巴瘤"
+      },
+      "topic": "03_report_explained",
+      "slug": "diffuse-large-b-cell-lymphoma-report-explained",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Understanding a DLBCL report: pathology, FISH, IPI and PET findings",
+        "zh": "弥漫大B细胞淋巴瘤报告怎么看：病理、FISH、IPI与PET评分"
+      }
+    },
+    {
+      "id": "042-04",
+      "conditionId": "diffuse-large-b-cell-lymphoma",
+      "condition": {
+        "en": "Diffuse Large B Cell Lymphoma",
+        "zh": "弥漫大B细胞淋巴瘤"
+      },
+      "topic": "04_types_and_risk",
+      "slug": "diffuse-large-b-cell-lymphoma-types-and-risk",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "DLBCL types and risk: distinguishing disease biology from treatment fitness",
+        "zh": "弥漫大B细胞淋巴瘤有哪些类型：区分病理亚型、临床风险与治疗耐受性"
+      }
+    },
+    {
+      "id": "042-05",
+      "conditionId": "diffuse-large-b-cell-lymphoma",
+      "condition": {
+        "en": "Diffuse Large B Cell Lymphoma",
+        "zh": "弥漫大B细胞淋巴瘤"
+      },
+      "topic": "05_first_line_treatment",
+      "slug": "diffuse-large-b-cell-lymphoma-first-line-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Choosing first-line treatment for DLBCL and preparing for the first cycle",
+        "zh": "弥漫大B细胞淋巴瘤一线治疗怎么选：从首次用药到疗程结束"
+      }
+    },
+    {
+      "id": "042-06",
+      "conditionId": "diffuse-large-b-cell-lymphoma",
+      "condition": {
+        "en": "Diffuse Large B Cell Lymphoma",
+        "zh": "弥漫大B细胞淋巴瘤"
+      },
+      "topic": "06_treatment_comparison",
+      "slug": "diffuse-large-b-cell-lymphoma-treatment-comparison",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Comparing DLBCL treatments: which options belong at which stage?",
+        "zh": "弥漫大B细胞淋巴瘤方案比较：R-CHOP、Pola-R-CHP、移植、CAR-T与双抗"
+      }
+    },
+    {
+      "id": "042-07",
+      "conditionId": "diffuse-large-b-cell-lymphoma",
+      "condition": {
+        "en": "Diffuse Large B Cell Lymphoma",
+        "zh": "弥漫大B细胞淋巴瘤"
+      },
+      "topic": "07_surgery_procedures",
+      "slug": "diffuse-large-b-cell-lymphoma-surgery-procedures",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Does DLBCL need surgery? Biopsy, vascular access and urgent procedures",
+        "zh": "弥漫大B细胞淋巴瘤需要手术吗：活检、输液通路与急症操作"
+      }
+    },
+    {
+      "id": "042-08",
+      "conditionId": "diffuse-large-b-cell-lymphoma",
+      "condition": {
+        "en": "Diffuse Large B Cell Lymphoma",
+        "zh": "弥漫大B细胞淋巴瘤"
+      },
+      "topic": "08_drug_treatment",
+      "slug": "diffuse-large-b-cell-lymphoma-drug-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "DLBCL medicines: drug classes, combinations and safe medication records",
+        "zh": "弥漫大B细胞淋巴瘤用药指南：药物类别、联合方案与用药记录"
+      }
+    },
+    {
+      "id": "042-09",
+      "conditionId": "diffuse-large-b-cell-lymphoma",
+      "condition": {
+        "en": "Diffuse Large B Cell Lymphoma",
+        "zh": "弥漫大B细胞淋巴瘤"
+      },
+      "topic": "09_radiation_interventional",
+      "slug": "diffuse-large-b-cell-lymphoma-radiation-interventional",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Radiation for DLBCL: localized disease, residual sites and symptom relief",
+        "zh": "弥漫大B细胞淋巴瘤什么时候做放疗：局限期、残留病灶与症状缓解"
+      }
+    },
+    {
+      "id": "042-10",
+      "conditionId": "diffuse-large-b-cell-lymphoma",
+      "condition": {
+        "en": "Diffuse Large B Cell Lymphoma",
+        "zh": "弥漫大B细胞淋巴瘤"
+      },
+      "topic": "10_outcomes_prognosis",
+      "slug": "diffuse-large-b-cell-lymphoma-outcomes-prognosis",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Can DLBCL be cured? Understanding response, relapse and prognosis",
+        "zh": "弥漫大B细胞淋巴瘤能治愈吗：怎样理解缓解、复发与个人预后"
+      }
+    },
+    {
+      "id": "042-11",
+      "conditionId": "diffuse-large-b-cell-lymphoma",
+      "condition": {
+        "en": "Diffuse Large B Cell Lymphoma",
+        "zh": "弥漫大B细胞淋巴瘤"
+      },
+      "topic": "11_relapsed_refractory",
+      "slug": "diffuse-large-b-cell-lymphoma-relapsed-refractory",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Relapsed or refractory DLBCL: reassessment and the next treatment decision",
+        "zh": "弥漫大B细胞淋巴瘤复发或难治后怎么办：重新活检与二线治疗选择"
+      }
+    },
+    {
+      "id": "042-12",
+      "conditionId": "diffuse-large-b-cell-lymphoma",
+      "condition": {
+        "en": "Diffuse Large B Cell Lymphoma",
+        "zh": "弥漫大B细胞淋巴瘤"
+      },
+      "topic": "12_new_drugs_trials",
+      "slug": "diffuse-large-b-cell-lymphoma-new-drugs-trials",
+      "category": "clinical-trials-advanced-treatments",
+      "titles": {
+        "en": "New DLBCL treatments and clinical trials: evidence that can change a decision",
+        "zh": "弥漫大B细胞淋巴瘤新药与临床试验：哪些证据能影响当前选择"
+      }
+    },
+    {
+      "id": "042-13",
+      "conditionId": "diffuse-large-b-cell-lymphoma",
+      "condition": {
+        "en": "Diffuse Large B Cell Lymphoma",
+        "zh": "弥漫大B细胞淋巴瘤"
+      },
+      "topic": "13_side_effects",
+      "slug": "diffuse-large-b-cell-lymphoma-side-effects",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "DLBCL treatment side effects: daily management and urgent symptoms",
+        "zh": "弥漫大B细胞淋巴瘤治疗副作用：哪些可以提前处理，哪些要立即就医"
+      }
+    },
+    {
+      "id": "042-14",
+      "conditionId": "diffuse-large-b-cell-lymphoma",
+      "condition": {
+        "en": "Diffuse Large B Cell Lymphoma",
+        "zh": "弥漫大B细胞淋巴瘤"
+      },
+      "topic": "14_treatment_duration",
+      "slug": "diffuse-large-b-cell-lymphoma-treatment-duration",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "How long DLBCL treatment takes: cycles, assessment and time away from home",
+        "zh": "弥漫大B细胞淋巴瘤治疗需要多久：周期、评估与跨境停留怎么安排"
+      }
+    },
+    {
+      "id": "042-15",
+      "conditionId": "diffuse-large-b-cell-lymphoma",
+      "condition": {
+        "en": "Diffuse Large B Cell Lymphoma",
+        "zh": "弥漫大B细胞淋巴瘤"
+      },
+      "topic": "15_cost_in_china",
+      "slug": "diffuse-large-b-cell-lymphoma-cost-in-china",
+      "category": "cost-insurance-guides",
+      "titles": {
+        "en": "DLBCL treatment costs in China: building an itemized yuan budget",
+        "zh": "弥漫大B细胞淋巴瘤在中国治疗多少钱：按方案索取人民币明细预算"
+      }
+    },
+    {
+      "id": "042-16",
+      "conditionId": "diffuse-large-b-cell-lymphoma",
+      "condition": {
+        "en": "Diffuse Large B Cell Lymphoma",
+        "zh": "弥漫大B细胞淋巴瘤"
+      },
+      "topic": "16_hospital_selection",
+      "slug": "diffuse-large-b-cell-lymphoma-hospital-selection",
+      "category": "hospital-guides",
+      "titles": {
+        "en": "Choosing a China hospital for DLBCL: match the center to the clinical task",
+        "zh": "弥漫大B细胞淋巴瘤在中国如何选医院：按病理、治疗阶段与照护能力筛选"
+      }
+    },
+    {
+      "id": "042-17",
+      "conditionId": "diffuse-large-b-cell-lymphoma",
+      "condition": {
+        "en": "Diffuse Large B Cell Lymphoma",
+        "zh": "弥漫大B细胞淋巴瘤"
+      },
+      "topic": "17_who_should_travel_china",
+      "slug": "diffuse-large-b-cell-lymphoma-who-should-travel-china",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Should a patient with DLBCL travel to China for treatment?",
+        "zh": "弥漫大B细胞淋巴瘤患者是否适合赴中国治疗：先看临床需要与旅行安全"
+      }
+    },
+    {
+      "id": "042-18",
+      "conditionId": "diffuse-large-b-cell-lymphoma",
+      "condition": {
+        "en": "Diffuse Large B Cell Lymphoma",
+        "zh": "弥漫大B细胞淋巴瘤"
+      },
+      "topic": "18_medical_records",
+      "slug": "diffuse-large-b-cell-lymphoma-medical-records",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Medical records for a DLBCL consultation in China: a practical preparation guide",
+        "zh": "弥漫大B细胞淋巴瘤赴中国会诊需要哪些病历：病理、影像与治疗时间线"
+      }
+    },
+    {
+      "id": "042-19",
+      "conditionId": "diffuse-large-b-cell-lymphoma",
+      "condition": {
+        "en": "Diffuse Large B Cell Lymphoma",
+        "zh": "弥漫大B细胞淋巴瘤"
+      },
+      "topic": "19_follow_up_after_return_home",
+      "slug": "diffuse-large-b-cell-lymphoma-follow-up-after-return-home",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "DLBCL follow-up after returning home: surveillance, recovery and handover",
+        "zh": "弥漫大B细胞淋巴瘤治疗后回国怎么随访：复查、感染预防与资料交接"
+      }
+    },
+    {
+      "id": "042-20",
+      "conditionId": "diffuse-large-b-cell-lymphoma",
+      "condition": {
+        "en": "Diffuse Large B Cell Lymphoma",
+        "zh": "弥漫大B细胞淋巴瘤"
+      },
+      "topic": "20_patient_faq",
+      "slug": "diffuse-large-b-cell-lymphoma-patient-faq",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "DLBCL patient FAQ: 20 questions about treatment, relapse and care in China",
+        "zh": "弥漫大B细胞淋巴瘤患者常见问题：治疗、复发与中国就医20问"
+      }
+    },
+    {
+      "id": "043-01",
+      "conditionId": "follicular-lymphoma",
+      "condition": {
+        "en": "Follicular Lymphoma",
+        "zh": "滤泡性淋巴瘤"
+      },
+      "topic": "01_treatment_overview",
+      "slug": "follicular-lymphoma-treatment-overview",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Follicular lymphoma treatment: deciding when to act and what the first plan should achieve",
+        "zh": "滤泡性淋巴瘤怎么治疗？先判断是否需要用药，再安排长期管理"
+      }
+    },
+    {
+      "id": "043-02",
+      "conditionId": "follicular-lymphoma",
+      "condition": {
+        "en": "Follicular Lymphoma",
+        "zh": "滤泡性淋巴瘤"
+      },
+      "topic": "02_diagnosis_tests",
+      "slug": "follicular-lymphoma-diagnosis-tests",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Tests for follicular lymphoma: choosing a biopsy, establishing stage and preparing safely for treatment",
+        "zh": "怀疑滤泡性淋巴瘤要做哪些检查？从活检到分期的就诊顺序"
+      }
+    },
+    {
+      "id": "043-03",
+      "conditionId": "follicular-lymphoma",
+      "condition": {
+        "en": "Follicular Lymphoma",
+        "zh": "滤泡性淋巴瘤"
+      },
+      "topic": "03_report_explained",
+      "slug": "follicular-lymphoma-report-explained",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Reading a follicular lymphoma report: what pathology, PET and blood results can tell you",
+        "zh": "滤泡性淋巴瘤报告怎么看？病理、PET和血液结果要放在一起读"
+      }
+    },
+    {
+      "id": "043-04",
+      "conditionId": "follicular-lymphoma",
+      "condition": {
+        "en": "Follicular Lymphoma",
+        "zh": "滤泡性淋巴瘤"
+      },
+      "topic": "04_types_and_risk",
+      "slug": "follicular-lymphoma-types-and-risk",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Follicular lymphoma types and risk: separating grade, stage, FLIPI and early progression",
+        "zh": "滤泡性淋巴瘤分型与风险：分级、分期、FLIPI和早期进展怎样区别"
+      }
+    },
+    {
+      "id": "043-05",
+      "conditionId": "follicular-lymphoma",
+      "condition": {
+        "en": "Follicular Lymphoma",
+        "zh": "滤泡性淋巴瘤"
+      },
+      "topic": "05_first_line_treatment",
+      "slug": "follicular-lymphoma-first-line-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "First-line treatment for follicular lymphoma: defining the reason to start and choosing a workable regimen",
+        "zh": "滤泡性淋巴瘤一线治疗怎么选？把治疗指征、方案和停药条件问清楚"
+      }
+    },
+    {
+      "id": "043-06",
+      "conditionId": "follicular-lymphoma",
+      "condition": {
+        "en": "Follicular Lymphoma",
+        "zh": "滤泡性淋巴瘤"
+      },
+      "topic": "06_treatment_comparison",
+      "slug": "follicular-lymphoma-treatment-comparison",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Comparing follicular lymphoma treatments: which choices address the same problem?",
+        "zh": "滤泡性淋巴瘤方案比较：观察、抗体、化疗、R²和放疗各适合谁"
+      }
+    },
+    {
+      "id": "043-07",
+      "conditionId": "follicular-lymphoma",
+      "condition": {
+        "en": "Follicular Lymphoma",
+        "zh": "滤泡性淋巴瘤"
+      },
+      "topic": "07_surgery_procedures",
+      "slug": "follicular-lymphoma-surgery-procedures",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Procedures in follicular lymphoma: biopsy, venous access, marrow examination and cell collection",
+        "zh": "滤泡性淋巴瘤需要手术吗？活检、输液港、骨髓检查和细胞采集的作用"
+      }
+    },
+    {
+      "id": "043-08",
+      "conditionId": "follicular-lymphoma",
+      "condition": {
+        "en": "Follicular Lymphoma",
+        "zh": "滤泡性淋巴瘤"
+      },
+      "topic": "08_drug_treatment",
+      "slug": "follicular-lymphoma-drug-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Medicines for follicular lymphoma: understanding the regimen, treatment line and monitoring",
+        "zh": "滤泡性淋巴瘤药物有哪些？按作用、治疗线数和监测要求理解处方"
+      }
+    },
+    {
+      "id": "043-09",
+      "conditionId": "follicular-lymphoma",
+      "condition": {
+        "en": "Follicular Lymphoma",
+        "zh": "滤泡性淋巴瘤"
+      },
+      "topic": "09_radiation_interventional",
+      "slug": "follicular-lymphoma-radiation-interventional",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Radiation for follicular lymphoma: localized treatment, low-dose palliation and repeat irradiation",
+        "zh": "滤泡性淋巴瘤放疗怎么做？局限期、低剂量缓解与再次照射的区别"
+      }
+    },
+    {
+      "id": "043-10",
+      "conditionId": "follicular-lymphoma",
+      "condition": {
+        "en": "Follicular Lymphoma",
+        "zh": "滤泡性淋巴瘤"
+      },
+      "topic": "10_outcomes_prognosis",
+      "slug": "follicular-lymphoma-outcomes-prognosis",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Follicular lymphoma prognosis: interpreting survival, remission and the course ahead",
+        "zh": "滤泡性淋巴瘤能活多久？怎样理解生存率、缓解和自己的病程"
+      }
+    },
+    {
+      "id": "043-11",
+      "conditionId": "follicular-lymphoma",
+      "condition": {
+        "en": "Follicular Lymphoma",
+        "zh": "滤泡性淋巴瘤"
+      },
+      "topic": "11_relapsed_refractory",
+      "slug": "follicular-lymphoma-relapsed-refractory",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Relapsed or refractory follicular lymphoma: confirm what changed before choosing the next line",
+        "zh": "滤泡性淋巴瘤复发或耐药怎么办？先确认变化，再选择下一线"
+      }
+    },
+    {
+      "id": "043-12",
+      "conditionId": "follicular-lymphoma",
+      "condition": {
+        "en": "Follicular Lymphoma",
+        "zh": "滤泡性淋巴瘤"
+      },
+      "topic": "12_new_drugs_trials",
+      "slug": "follicular-lymphoma-new-drugs-trials",
+      "category": "clinical-trials-advanced-treatments",
+      "titles": {
+        "en": "New treatments and trials for follicular lymphoma: matching the evidence to your situation",
+        "zh": "滤泡性淋巴瘤新药和临床试验：怎样判断研究是否适合自己"
+      }
+    },
+    {
+      "id": "043-13",
+      "conditionId": "follicular-lymphoma",
+      "condition": {
+        "en": "Follicular Lymphoma",
+        "zh": "滤泡性淋巴瘤"
+      },
+      "topic": "13_side_effects",
+      "slug": "follicular-lymphoma-side-effects",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Follicular lymphoma treatment side effects: recognizing problems and knowing when to seek help",
+        "zh": "滤泡性淋巴瘤治疗副作用怎么处理？哪些症状需要马上联系医院"
+      }
+    },
+    {
+      "id": "043-14",
+      "conditionId": "follicular-lymphoma",
+      "condition": {
+        "en": "Follicular Lymphoma",
+        "zh": "滤泡性淋巴瘤"
+      },
+      "topic": "14_treatment_duration",
+      "slug": "follicular-lymphoma-treatment-duration",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "How long does follicular lymphoma treatment take? Monitoring, induction, maintenance and recovery",
+        "zh": "滤泡性淋巴瘤治疗要多久？区分观察期、诱导、维持和恢复时间"
+      }
+    },
+    {
+      "id": "043-15",
+      "conditionId": "follicular-lymphoma",
+      "condition": {
+        "en": "Follicular Lymphoma",
+        "zh": "滤泡性淋巴瘤"
+      },
+      "topic": "15_cost_in_china",
+      "slug": "follicular-lymphoma-cost-in-china",
+      "category": "cost-insurance-guides",
+      "titles": {
+        "en": "Follicular lymphoma treatment costs in China: budgeting for assessment, the course and continuing care",
+        "zh": "滤泡性淋巴瘤在中国治疗多少钱？按检查、疗程和后续照护核算"
+      }
+    },
+    {
+      "id": "043-16",
+      "conditionId": "follicular-lymphoma",
+      "condition": {
+        "en": "Follicular Lymphoma",
+        "zh": "滤泡性淋巴瘤"
+      },
+      "topic": "16_hospital_selection",
+      "slug": "follicular-lymphoma-hospital-selection",
+      "category": "hospital-guides",
+      "titles": {
+        "en": "Choosing a follicular lymphoma hospital in China: match the team to the decision you need",
+        "zh": "滤泡性淋巴瘤在中国如何选医院：先确认这次需要解决的问题"
+      }
+    },
+    {
+      "id": "043-17",
+      "conditionId": "follicular-lymphoma",
+      "condition": {
+        "en": "Follicular Lymphoma",
+        "zh": "滤泡性淋巴瘤"
+      },
+      "topic": "17_who_should_travel_china",
+      "slug": "follicular-lymphoma-who-should-travel-china",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Should you travel to China for follicular lymphoma care?",
+        "zh": "滤泡性淋巴瘤患者是否适合来中国：把医疗收益和旅行条件一起评估"
+      }
+    },
+    {
+      "id": "043-18",
+      "conditionId": "follicular-lymphoma",
+      "condition": {
+        "en": "Follicular Lymphoma",
+        "zh": "滤泡性淋巴瘤"
+      },
+      "topic": "18_medical_records",
+      "slug": "follicular-lymphoma-medical-records",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Preparing follicular lymphoma records for care in China",
+        "zh": "滤泡性淋巴瘤来华病历准备：让病理、治疗和复发时间能够相互对应"
+      }
+    },
+    {
+      "id": "043-19",
+      "conditionId": "follicular-lymphoma",
+      "condition": {
+        "en": "Follicular Lymphoma",
+        "zh": "滤泡性淋巴瘤"
+      },
+      "topic": "19_follow_up_after_return_home",
+      "slug": "follicular-lymphoma-follow-up-after-return-home",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Follicular lymphoma follow-up after returning home from China",
+        "zh": "滤泡性淋巴瘤回国后如何随访：把复查、用药与异常结果的责任交接清楚"
+      }
+    },
+    {
+      "id": "043-20",
+      "conditionId": "follicular-lymphoma",
+      "condition": {
+        "en": "Follicular Lymphoma",
+        "zh": "滤泡性淋巴瘤"
+      },
+      "topic": "20_patient_faq",
+      "slug": "follicular-lymphoma-patient-faq",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Twenty questions patients ask about follicular lymphoma and care in China",
+        "zh": "滤泡性淋巴瘤患者常问的20个问题：从观察到来中国就医"
+      }
+    },
+    {
+      "id": "044-01",
+      "conditionId": "mantle-cell-lymphoma",
+      "condition": {
+        "en": "Mantle Cell Lymphoma",
+        "zh": "套细胞淋巴瘤"
+      },
+      "topic": "01_treatment_overview",
+      "slug": "mantle-cell-lymphoma-treatment-overview",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "How is mantle cell lymphoma treated? A practical guide from observation to treatment after relapse",
+        "zh": "套细胞淋巴瘤怎么治疗？从观察、一线方案到复发治疗的选择顺序"
+      }
+    },
+    {
+      "id": "044-02",
+      "conditionId": "mantle-cell-lymphoma",
+      "condition": {
+        "en": "Mantle Cell Lymphoma",
+        "zh": "套细胞淋巴瘤"
+      },
+      "topic": "02_diagnosis_tests",
+      "slug": "mantle-cell-lymphoma-diagnosis-tests",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Which tests diagnose mantle cell lymphoma? Understanding biopsy, PET/CT, bone marrow and gene testing",
+        "zh": "怀疑套细胞淋巴瘤要做哪些检查？病理、PET/CT、骨髓和基因检测各查什么"
+      }
+    },
+    {
+      "id": "044-03",
+      "conditionId": "mantle-cell-lymphoma",
+      "condition": {
+        "en": "Mantle Cell Lymphoma",
+        "zh": "套细胞淋巴瘤"
+      },
+      "topic": "03_report_explained",
+      "slug": "mantle-cell-lymphoma-report-explained",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Reading a mantle cell lymphoma report: Cyclin D1, SOX11, Ki-67 and TP53 explained",
+        "zh": "套细胞淋巴瘤报告怎么看？Cyclin D1、SOX11、Ki-67和TP53的患者读法"
+      }
+    },
+    {
+      "id": "044-04",
+      "conditionId": "mantle-cell-lymphoma",
+      "condition": {
+        "en": "Mantle Cell Lymphoma",
+        "zh": "套细胞淋巴瘤"
+      },
+      "topic": "04_types_and_risk",
+      "slug": "mantle-cell-lymphoma-types-and-risk",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Mantle cell lymphoma types and risk: understanding indolent behavior, high-risk biology and stage",
+        "zh": "套细胞淋巴瘤有哪些类型？惰性表现、高风险特征和分期该怎样一起看"
+      }
+    },
+    {
+      "id": "044-05",
+      "conditionId": "mantle-cell-lymphoma",
+      "condition": {
+        "en": "Mantle Cell Lymphoma",
+        "zh": "套细胞淋巴瘤"
+      },
+      "topic": "05_first_line_treatment",
+      "slug": "mantle-cell-lymphoma-first-line-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Choosing first-line treatment for mantle cell lymphoma: questions to settle before the first cycle",
+        "zh": "套细胞淋巴瘤初次治疗怎么选？开始第一线方案前应谈清楚的问题"
+      }
+    },
+    {
+      "id": "044-06",
+      "conditionId": "mantle-cell-lymphoma",
+      "condition": {
+        "en": "Mantle Cell Lymphoma",
+        "zh": "套细胞淋巴瘤"
+      },
+      "topic": "06_treatment_comparison",
+      "slug": "mantle-cell-lymphoma-treatment-comparison",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Comparing mantle cell lymphoma treatments: chemoimmunotherapy, BTK combinations and autologous transplant",
+        "zh": "套细胞淋巴瘤疗法怎么比较？化疗、BTK抑制剂组合和自体移植的取舍"
+      }
+    },
+    {
+      "id": "044-07",
+      "conditionId": "mantle-cell-lymphoma",
+      "condition": {
+        "en": "Mantle Cell Lymphoma",
+        "zh": "套细胞淋巴瘤"
+      },
+      "topic": "07_surgery_procedures",
+      "slug": "mantle-cell-lymphoma-surgery-procedures",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Does mantle cell lymphoma need surgery? Biopsy, venous access, cell collection and emergency procedures",
+        "zh": "套细胞淋巴瘤需要手术吗？活检、置管、细胞采集和急症处理的不同作用"
+      }
+    },
+    {
+      "id": "044-08",
+      "conditionId": "mantle-cell-lymphoma",
+      "condition": {
+        "en": "Mantle Cell Lymphoma",
+        "zh": "套细胞淋巴瘤"
+      },
+      "topic": "08_drug_treatment",
+      "slug": "mantle-cell-lymphoma-drug-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Medicines for mantle cell lymphoma: Chinese indications, BTK inhibitors and newer treatment options",
+        "zh": "套细胞淋巴瘤有哪些药物？中国适应证、BTK抑制剂和新药使用要点"
+      }
+    },
+    {
+      "id": "044-09",
+      "conditionId": "mantle-cell-lymphoma",
+      "condition": {
+        "en": "Mantle Cell Lymphoma",
+        "zh": "套细胞淋巴瘤"
+      },
+      "topic": "09_radiation_interventional",
+      "slug": "mantle-cell-lymphoma-radiation-interventional",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Radiation Therapy for Mantle Cell Lymphoma: Local Control, Short Courses, and Planning Care in China",
+        "zh": "套细胞淋巴瘤什么时候需要放疗？局部控制、低剂量照射与赴华治疗安排"
+      }
+    },
+    {
+      "id": "044-10",
+      "conditionId": "mantle-cell-lymphoma",
+      "condition": {
+        "en": "Mantle Cell Lymphoma",
+        "zh": "套细胞淋巴瘤"
+      },
+      "topic": "10_outcomes_prognosis",
+      "slug": "mantle-cell-lymphoma-outcomes-prognosis",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "How Long Can Mantle Cell Lymphoma Be Controlled? Understanding Remission, Survival, and Your Prognosis",
+        "zh": "套细胞淋巴瘤能控制多久？如何理解缓解率、生存数据和个人预后"
+      }
+    },
+    {
+      "id": "044-11",
+      "conditionId": "mantle-cell-lymphoma",
+      "condition": {
+        "en": "Mantle Cell Lymphoma",
+        "zh": "套细胞淋巴瘤"
+      },
+      "topic": "11_relapsed_refractory",
+      "slug": "mantle-cell-lymphoma-relapsed-refractory",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Relapsed or Refractory Mantle Cell Lymphoma: Confirming Progression and Planning the Next Treatment",
+        "zh": "套细胞淋巴瘤复发或难治怎么办？先确认进展，再安排下一线治疗"
+      }
+    },
+    {
+      "id": "044-12",
+      "conditionId": "mantle-cell-lymphoma",
+      "condition": {
+        "en": "Mantle Cell Lymphoma",
+        "zh": "套细胞淋巴瘤"
+      },
+      "topic": "12_new_drugs_trials",
+      "slug": "mantle-cell-lymphoma-new-drugs-trials",
+      "category": "clinical-trials-advanced-treatments",
+      "titles": {
+        "en": "New Drugs and Clinical Trials for Mantle Cell Lymphoma: Understanding the 2026 Updates",
+        "zh": "套细胞淋巴瘤有哪些新药和临床试验？读懂2026年更新与入组条件"
+      }
+    },
+    {
+      "id": "044-13",
+      "conditionId": "mantle-cell-lymphoma",
+      "condition": {
+        "en": "Mantle Cell Lymphoma",
+        "zh": "套细胞淋巴瘤"
+      },
+      "topic": "13_side_effects",
+      "slug": "mantle-cell-lymphoma-side-effects",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Managing Mantle Cell Lymphoma Treatment Side Effects: Fever, Bleeding, Targeted Therapy, and CAR-T Monitoring",
+        "zh": "套细胞淋巴瘤治疗副作用怎么处理？从发热、出血到靶向药与CAR-T监测"
+      }
+    },
+    {
+      "id": "044-14",
+      "conditionId": "mantle-cell-lymphoma",
+      "condition": {
+        "en": "Mantle Cell Lymphoma",
+        "zh": "套细胞淋巴瘤"
+      },
+      "topic": "14_treatment_duration",
+      "slug": "mantle-cell-lymphoma-treatment-duration",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "How Long Does Mantle Cell Lymphoma Treatment Take? Cycles, Maintenance, and Planning a Stay in China",
+        "zh": "套细胞淋巴瘤治疗要多久？周期、维持、口服药与赴华停留如何安排"
+      }
+    },
+    {
+      "id": "044-15",
+      "conditionId": "mantle-cell-lymphoma",
+      "condition": {
+        "en": "Mantle Cell Lymphoma",
+        "zh": "套细胞淋巴瘤"
+      },
+      "topic": "15_cost_in_china",
+      "slug": "mantle-cell-lymphoma-cost-in-china",
+      "category": "cost-insurance-guides",
+      "titles": {
+        "en": "What Does Mantle Cell Lymphoma Treatment Cost in China? Building an Itemized Renminbi Budget",
+        "zh": "套细胞淋巴瘤在中国治疗要多少钱？如何取得可比较的人民币分项预算"
+      }
+    },
+    {
+      "id": "044-16",
+      "conditionId": "mantle-cell-lymphoma",
+      "condition": {
+        "en": "Mantle Cell Lymphoma",
+        "zh": "套细胞淋巴瘤"
+      },
+      "topic": "16_hospital_selection",
+      "slug": "mantle-cell-lymphoma-hospital-selection",
+      "category": "hospital-guides",
+      "titles": {
+        "en": "Choosing a Hospital in China for Mantle Cell Lymphoma: Specialist Review and Continuity of Care",
+        "zh": "套细胞淋巴瘤在中国如何选医院？从MCL病理复核到长期治疗衔接"
+      }
+    },
+    {
+      "id": "044-17",
+      "conditionId": "mantle-cell-lymphoma",
+      "condition": {
+        "en": "Mantle Cell Lymphoma",
+        "zh": "套细胞淋巴瘤"
+      },
+      "topic": "17_who_should_travel_china",
+      "slug": "mantle-cell-lymphoma-who-should-travel-china",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Should You Travel to China for Mantle Cell Lymphoma Care? Purpose, Stability, and Treatment Continuity",
+        "zh": "套细胞淋巴瘤患者适合赴中国治疗吗？先评估就医目的、病情稳定性和治疗连续性"
+      }
+    },
+    {
+      "id": "044-18",
+      "conditionId": "mantle-cell-lymphoma",
+      "condition": {
+        "en": "Mantle Cell Lymphoma",
+        "zh": "套细胞淋巴瘤"
+      },
+      "topic": "18_medical_records",
+      "slug": "mantle-cell-lymphoma-medical-records",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Preparing Mantle Cell Lymphoma Records for a Consultation in China",
+        "zh": "套细胞淋巴瘤赴华会诊病历准备：把诊断依据、治疗经过和当前问题接起来"
+      }
+    },
+    {
+      "id": "044-19",
+      "conditionId": "mantle-cell-lymphoma",
+      "condition": {
+        "en": "Mantle Cell Lymphoma",
+        "zh": "套细胞淋巴瘤"
+      },
+      "topic": "19_follow_up_after_return_home",
+      "slug": "mantle-cell-lymphoma-follow-up-after-return-home",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Returning Home After Mantle Cell Lymphoma Treatment in China: Making Follow-Up Work",
+        "zh": "套细胞淋巴瘤在中国治疗后回国：怎样把随访接到当地医院"
+      }
+    },
+    {
+      "id": "044-20",
+      "conditionId": "mantle-cell-lymphoma",
+      "condition": {
+        "en": "Mantle Cell Lymphoma",
+        "zh": "套细胞淋巴瘤"
+      },
+      "topic": "20_patient_faq",
+      "slug": "mantle-cell-lymphoma-patient-faq",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Mantle Cell Lymphoma: 20 Questions About Diagnosis, Treatment in China, and Returning Home",
+        "zh": "套细胞淋巴瘤患者常问的20个问题：从确诊到赴中国治疗与随访"
+      }
+    },
+    {
+      "id": "045-01",
+      "conditionId": "t-cell-lymphoma",
+      "condition": {
+        "en": "T Cell Lymphoma",
+        "zh": "T细胞淋巴瘤"
+      },
+      "topic": "01_treatment_overview",
+      "slug": "t-cell-lymphoma-treatment-overview",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Where T-cell lymphoma treatment begins: subtype, initial therapy, and care in China",
+        "zh": "T细胞淋巴瘤治疗从哪里开始：亚型、初治与中国就医安排"
+      }
+    },
+    {
+      "id": "045-02",
+      "conditionId": "t-cell-lymphoma",
+      "condition": {
+        "en": "T Cell Lymphoma",
+        "zh": "T细胞淋巴瘤"
+      },
+      "topic": "02_diagnosis_tests",
+      "slug": "t-cell-lymphoma-diagnosis-tests",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Tests for suspected T-cell lymphoma: obtaining the right tissue and a usable diagnosis",
+        "zh": "怀疑T细胞淋巴瘤要做哪些检查：从取对组织到明确分型"
+      }
+    },
+    {
+      "id": "045-03",
+      "conditionId": "t-cell-lymphoma",
+      "condition": {
+        "en": "T Cell Lymphoma",
+        "zh": "T细胞淋巴瘤"
+      },
+      "topic": "03_report_explained",
+      "slug": "t-cell-lymphoma-report-explained",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Reading T-cell lymphoma reports: connecting pathology, PET scans and blood results",
+        "zh": "T细胞淋巴瘤报告怎么看：把病理、PET和血液结果放回同一条时间线"
+      }
+    },
+    {
+      "id": "045-04",
+      "conditionId": "t-cell-lymphoma",
+      "condition": {
+        "en": "T Cell Lymphoma",
+        "zh": "T细胞淋巴瘤"
+      },
+      "topic": "04_types_and_risk",
+      "slug": "t-cell-lymphoma-types-and-risk",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Types of T-cell lymphoma: why subtype, stage and risk describe different things",
+        "zh": "T细胞淋巴瘤有哪些类型：分型、分期与风险为什么要分开谈"
+      }
+    },
+    {
+      "id": "045-05",
+      "conditionId": "t-cell-lymphoma",
+      "condition": {
+        "en": "T Cell Lymphoma",
+        "zh": "T细胞淋巴瘤"
+      },
+      "topic": "05_first_line_treatment",
+      "slug": "t-cell-lymphoma-first-line-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Choosing first treatment for T-cell lymphoma: diagnosis, regimen and response planning",
+        "zh": "T细胞淋巴瘤第一次治疗怎么定：从亚型确认到疗程中的评估"
+      }
+    },
+    {
+      "id": "045-06",
+      "conditionId": "t-cell-lymphoma",
+      "condition": {
+        "en": "T Cell Lymphoma",
+        "zh": "T细胞淋巴瘤"
+      },
+      "topic": "06_treatment_comparison",
+      "slug": "t-cell-lymphoma-treatment-comparison",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Comparing T-cell lymphoma treatments: what drug lists and response rates leave out",
+        "zh": "T细胞淋巴瘤方案怎么比较：药名、缓解率和移植建议背后的差别"
+      }
+    },
+    {
+      "id": "045-07",
+      "conditionId": "t-cell-lymphoma",
+      "condition": {
+        "en": "T Cell Lymphoma",
+        "zh": "T细胞淋巴瘤"
+      },
+      "topic": "07_surgery_procedures",
+      "slug": "t-cell-lymphoma-surgery-procedures",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Does T-cell lymphoma need surgery? Biopsy, vascular access, bowel procedures and cell collection",
+        "zh": "T细胞淋巴瘤需要手术吗：活检、置管、肠道处理与细胞采集各有什么用"
+      }
+    },
+    {
+      "id": "045-08",
+      "conditionId": "t-cell-lymphoma",
+      "condition": {
+        "en": "T Cell Lymphoma",
+        "zh": "T细胞淋巴瘤"
+      },
+      "topic": "08_drug_treatment",
+      "slug": "t-cell-lymphoma-drug-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Medicines for T-cell lymphoma: indications, monitoring and treatment at home",
+        "zh": "T细胞淋巴瘤药物怎么用才有依据：适应证、监测和家中用药要点"
+      }
+    },
+    {
+      "id": "045-09",
+      "conditionId": "t-cell-lymphoma",
+      "condition": {
+        "en": "T Cell Lymphoma",
+        "zh": "T细胞淋巴瘤"
+      },
+      "topic": "09_radiation_interventional",
+      "slug": "t-cell-lymphoma-radiation-interventional",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "When does T-cell lymphoma need radiotherapy? Purpose, treatment area and planning",
+        "zh": "T细胞淋巴瘤什么时候需要放疗：照射目的、部位与疗程怎样确认"
+      }
+    },
+    {
+      "id": "045-10",
+      "conditionId": "t-cell-lymphoma",
+      "condition": {
+        "en": "T Cell Lymphoma",
+        "zh": "T细胞淋巴瘤"
+      },
+      "topic": "10_outcomes_prognosis",
+      "slug": "t-cell-lymphoma-outcomes-prognosis",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "How long can remission last in T-cell lymphoma? Understanding prognosis and survival figures",
+        "zh": "T细胞淋巴瘤能缓解多久：怎样理解预后、治疗反应和网上生存数字"
+      }
+    },
+    {
+      "id": "045-11",
+      "conditionId": "t-cell-lymphoma",
+      "condition": {
+        "en": "T Cell Lymphoma",
+        "zh": "T细胞淋巴瘤"
+      },
+      "topic": "11_relapsed_refractory",
+      "slug": "t-cell-lymphoma-relapsed-refractory",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "What happens after relapsed or refractory T-cell lymphoma? Confirming change and planning the next line",
+        "zh": "T细胞淋巴瘤复发或难治后怎么办：先确认变化，再安排下一线治疗"
+      }
+    },
+    {
+      "id": "045-12",
+      "conditionId": "t-cell-lymphoma",
+      "condition": {
+        "en": "T Cell Lymphoma",
+        "zh": "T细胞淋巴瘤"
+      },
+      "topic": "12_new_drugs_trials",
+      "slug": "t-cell-lymphoma-new-drugs-trials",
+      "category": "clinical-trials-advanced-treatments",
+      "titles": {
+        "en": "New T-cell lymphoma drugs and trials in 2026: turning a research update into a verifiable option",
+        "zh": "2026年T细胞淋巴瘤新药与试验怎么看：从研究消息走到可核实的选择"
+      }
+    },
+    {
+      "id": "045-13",
+      "conditionId": "t-cell-lymphoma",
+      "condition": {
+        "en": "T Cell Lymphoma",
+        "zh": "T细胞淋巴瘤"
+      },
+      "topic": "13_side_effects",
+      "slug": "t-cell-lymphoma-side-effects",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Managing T-cell lymphoma treatment side effects: when to seek help and what to record at home",
+        "zh": "T细胞淋巴瘤治疗副作用怎么处理：把需要急诊的变化和日常照护分清楚"
+      }
+    },
+    {
+      "id": "045-14",
+      "conditionId": "t-cell-lymphoma",
+      "condition": {
+        "en": "T Cell Lymphoma",
+        "zh": "T细胞淋巴瘤"
+      },
+      "topic": "14_treatment_duration",
+      "slug": "t-cell-lymphoma-treatment-duration",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "How long does T-cell lymphoma treatment take? Planning cycles, assessment, transplantation and travel",
+        "zh": "T细胞淋巴瘤治疗要多久：怎样安排疗程、评估、移植和回家时间"
+      }
+    },
+    {
+      "id": "045-15",
+      "conditionId": "t-cell-lymphoma",
+      "condition": {
+        "en": "T Cell Lymphoma",
+        "zh": "T细胞淋巴瘤"
+      },
+      "topic": "15_cost_in_china",
+      "slug": "t-cell-lymphoma-cost-in-china",
+      "category": "cost-insurance-guides",
+      "titles": {
+        "en": "What does T-cell lymphoma treatment cost in China? Building an estimate that can be compared and updated",
+        "zh": "T细胞淋巴瘤在中国治疗多少钱：怎样取得能比较、能更新的费用估算"
+      }
+    },
+    {
+      "id": "045-16",
+      "conditionId": "t-cell-lymphoma",
+      "condition": {
+        "en": "T Cell Lymphoma",
+        "zh": "T细胞淋巴瘤"
+      },
+      "topic": "16_hospital_selection",
+      "slug": "t-cell-lymphoma-hospital-selection",
+      "category": "hospital-guides",
+      "titles": {
+        "en": "Choosing a hospital in China for T-cell lymphoma: questions about subtype expertise, pathology and continuity",
+        "zh": "T细胞淋巴瘤在中国怎么选医院：把亚型经验、病理能力和接续照护问具体"
+      }
+    },
+    {
+      "id": "045-17",
+      "conditionId": "t-cell-lymphoma",
+      "condition": {
+        "en": "T Cell Lymphoma",
+        "zh": "T细胞淋巴瘤"
+      },
+      "topic": "17_who_should_travel_china",
+      "slug": "t-cell-lymphoma-who-should-travel-china",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Who should consider travelling to China for T-cell lymphoma care? Clarifying referral value and travel readiness",
+        "zh": "哪些T细胞淋巴瘤患者适合来中国就医：先明确转诊价值，再评估旅行条件"
+      }
+    },
+    {
+      "id": "045-18",
+      "conditionId": "t-cell-lymphoma",
+      "condition": {
+        "en": "T Cell Lymphoma",
+        "zh": "T细胞淋巴瘤"
+      },
+      "topic": "18_medical_records",
+      "slug": "t-cell-lymphoma-medical-records",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Preparing T-cell lymphoma records for referral: documenting the diagnosis and each treatment line",
+        "zh": "T细胞淋巴瘤转诊资料怎么准备：让下一位医生看懂诊断和每一线治疗"
+      }
+    },
+    {
+      "id": "045-19",
+      "conditionId": "t-cell-lymphoma",
+      "condition": {
+        "en": "T Cell Lymphoma",
+        "zh": "T细胞淋巴瘤"
+      },
+      "topic": "19_follow_up_after_return_home",
+      "slug": "t-cell-lymphoma-follow-up-after-return-home",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Follow-up after returning home from T-cell lymphoma treatment: coordinating tests, medicines and new symptoms",
+        "zh": "T细胞淋巴瘤治疗后回国怎样随访：接好检查、用药和异常处理这三件事"
+      }
+    },
+    {
+      "id": "045-20",
+      "conditionId": "t-cell-lymphoma",
+      "condition": {
+        "en": "T Cell Lymphoma",
+        "zh": "T细胞淋巴瘤"
+      },
+      "topic": "20_patient_faq",
+      "slug": "t-cell-lymphoma-patient-faq",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Twenty patient questions about T-cell lymphoma: diagnosis, treatment and daily decisions",
+        "zh": "T细胞淋巴瘤患者常问的20个问题：诊断、治疗与生活安排"
+      }
+    },
+    {
+      "id": "046-01",
+      "conditionId": "hodgkin-lymphoma",
+      "condition": {
+        "en": "Hodgkin Lymphoma",
+        "zh": "霍奇金淋巴瘤"
+      },
+      "topic": "01_treatment_overview",
+      "slug": "hodgkin-lymphoma-treatment-overview",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Hodgkin lymphoma treatment: decisions from diagnosis to recovery",
+        "zh": "霍奇金淋巴瘤治疗：从确诊、分期到完成疗程"
+      }
+    },
+    {
+      "id": "046-02",
+      "conditionId": "hodgkin-lymphoma",
+      "condition": {
+        "en": "Hodgkin Lymphoma",
+        "zh": "霍奇金淋巴瘤"
+      },
+      "topic": "02_diagnosis_tests",
+      "slug": "hodgkin-lymphoma-diagnosis-tests",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Tests for suspected Hodgkin lymphoma: biopsy, staging, and treatment preparation",
+        "zh": "怀疑霍奇金淋巴瘤要做什么检查：活检、PET与开疗前评估"
+      }
+    },
+    {
+      "id": "046-03",
+      "conditionId": "hodgkin-lymphoma",
+      "condition": {
+        "en": "Hodgkin Lymphoma",
+        "zh": "霍奇金淋巴瘤"
+      },
+      "topic": "03_report_explained",
+      "slug": "hodgkin-lymphoma-report-explained",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Understanding a Hodgkin lymphoma report: pathology, stage, and Deauville score",
+        "zh": "霍奇金淋巴瘤报告怎么看：病理名称、分期与Deauville评分"
+      }
+    },
+    {
+      "id": "046-04",
+      "conditionId": "hodgkin-lymphoma",
+      "condition": {
+        "en": "Hodgkin Lymphoma",
+        "zh": "霍奇金淋巴瘤"
+      },
+      "topic": "04_types_and_risk",
+      "slug": "hodgkin-lymphoma-types-and-risk",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Types and risk groups of Hodgkin lymphoma: what changes treatment",
+        "zh": "霍奇金淋巴瘤有哪些类型：从病理分类到治疗风险分组"
+      }
+    },
+    {
+      "id": "046-05",
+      "conditionId": "hodgkin-lymphoma",
+      "condition": {
+        "en": "Hodgkin Lymphoma",
+        "zh": "霍奇金淋巴瘤"
+      },
+      "topic": "05_first_line_treatment",
+      "slug": "hodgkin-lymphoma-first-line-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Choosing first-line Hodgkin lymphoma treatment: a practical decision guide",
+        "zh": "霍奇金淋巴瘤一线治疗怎么选：开始治疗前应确认的决定"
+      }
+    },
+    {
+      "id": "046-06",
+      "conditionId": "hodgkin-lymphoma",
+      "condition": {
+        "en": "Hodgkin Lymphoma",
+        "zh": "霍奇金淋巴瘤"
+      },
+      "topic": "06_treatment_comparison",
+      "slug": "hodgkin-lymphoma-treatment-comparison",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Comparing Hodgkin lymphoma regimens: ABVD, N-AVD, BV-AVD, and BrECADD",
+        "zh": "霍奇金淋巴瘤方案比较：ABVD、N-AVD、BV-AVD与BrECADD怎么讨论"
+      }
+    },
+    {
+      "id": "046-07",
+      "conditionId": "hodgkin-lymphoma",
+      "condition": {
+        "en": "Hodgkin Lymphoma",
+        "zh": "霍奇金淋巴瘤"
+      },
+      "topic": "07_surgery_procedures",
+      "slug": "hodgkin-lymphoma-surgery-procedures",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Does Hodgkin lymphoma need surgery? Biopsy, venous access, and stem cell collection",
+        "zh": "霍奇金淋巴瘤需要手术吗：活检、输液通路与移植采集"
+      }
+    },
+    {
+      "id": "046-08",
+      "conditionId": "hodgkin-lymphoma",
+      "condition": {
+        "en": "Hodgkin Lymphoma",
+        "zh": "霍奇金淋巴瘤"
+      },
+      "topic": "08_drug_treatment",
+      "slug": "hodgkin-lymphoma-drug-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Medicines for Hodgkin lymphoma: understanding chemotherapy, CD30 treatment, and PD-1 therapy",
+        "zh": "霍奇金淋巴瘤药物怎么用：看懂化疗、CD30药物与PD-1治疗"
+      }
+    },
+    {
+      "id": "046-09",
+      "conditionId": "hodgkin-lymphoma",
+      "condition": {
+        "en": "Hodgkin Lymphoma",
+        "zh": "霍奇金淋巴瘤"
+      },
+      "topic": "09_radiation_interventional",
+      "slug": "hodgkin-lymphoma-radiation-interventional",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Do I need radiation after Hodgkin lymphoma chemotherapy? From PET results to a treatment plan",
+        "zh": "霍奇金淋巴瘤化疗后还要放疗吗：从PET结果到照射计划"
+      }
+    },
+    {
+      "id": "046-10",
+      "conditionId": "hodgkin-lymphoma",
+      "condition": {
+        "en": "Hodgkin Lymphoma",
+        "zh": "霍奇金淋巴瘤"
+      },
+      "topic": "10_outcomes_prognosis",
+      "slug": "hodgkin-lymphoma-outcomes-prognosis",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Can Hodgkin lymphoma be cured? Making sense of remission, survival, and relapse risk",
+        "zh": "霍奇金淋巴瘤能治好吗：怎样理解缓解、生存率与复发风险"
+      }
+    },
+    {
+      "id": "046-11",
+      "conditionId": "hodgkin-lymphoma",
+      "condition": {
+        "en": "Hodgkin Lymphoma",
+        "zh": "霍奇金淋巴瘤"
+      },
+      "topic": "11_relapsed_refractory",
+      "slug": "hodgkin-lymphoma-relapsed-refractory",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "When Hodgkin lymphoma returns or resists treatment: reassessment, salvage therapy, and transplantation",
+        "zh": "霍奇金淋巴瘤复发或难治后怎么办：重新确诊、挽救治疗与移植衔接"
+      }
+    },
+    {
+      "id": "046-12",
+      "conditionId": "hodgkin-lymphoma",
+      "condition": {
+        "en": "Hodgkin Lymphoma",
+        "zh": "霍奇金淋巴瘤"
+      },
+      "topic": "12_new_drugs_trials",
+      "slug": "hodgkin-lymphoma-new-drugs-trials",
+      "category": "clinical-trials-advanced-treatments",
+      "titles": {
+        "en": "New drugs and clinical trials for Hodgkin lymphoma: separating established evidence from research",
+        "zh": "霍奇金淋巴瘤新药和临床试验：哪些已经有证据，哪些仍在研究"
+      }
+    },
+    {
+      "id": "046-13",
+      "conditionId": "hodgkin-lymphoma",
+      "condition": {
+        "en": "Hodgkin Lymphoma",
+        "zh": "霍奇金淋巴瘤"
+      },
+      "topic": "13_side_effects",
+      "slug": "hodgkin-lymphoma-side-effects",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Side effects of Hodgkin lymphoma treatment: urgent symptoms and problems to track",
+        "zh": "霍奇金淋巴瘤治疗副作用：哪些要当天联系，哪些需要持续记录"
+      }
+    },
+    {
+      "id": "046-14",
+      "conditionId": "hodgkin-lymphoma",
+      "condition": {
+        "en": "Hodgkin Lymphoma",
+        "zh": "霍奇金淋巴瘤"
+      },
+      "topic": "14_treatment_duration",
+      "slug": "hodgkin-lymphoma-treatment-duration",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "How long does Hodgkin lymphoma treatment take? Cycles, PET checkpoints, radiation, and travel",
+        "zh": "霍奇金淋巴瘤要治疗多久：周期、PET节点、放疗和返程怎样排"
+      }
+    },
+    {
+      "id": "046-15",
+      "conditionId": "hodgkin-lymphoma",
+      "condition": {
+        "en": "Hodgkin Lymphoma",
+        "zh": "霍奇金淋巴瘤"
+      },
+      "topic": "15_cost_in_china",
+      "slug": "hodgkin-lymphoma-cost-in-china",
+      "category": "cost-insurance-guides",
+      "titles": {
+        "en": "Hodgkin lymphoma treatment costs in China: obtaining a comparable RMB quotation",
+        "zh": "霍奇金淋巴瘤在中国治疗多少钱：怎样取得能比较的人民币报价"
+      }
+    },
+    {
+      "id": "046-16",
+      "conditionId": "hodgkin-lymphoma",
+      "condition": {
+        "en": "Hodgkin Lymphoma",
+        "zh": "霍奇金淋巴瘤"
+      },
+      "topic": "16_hospital_selection",
+      "slug": "hodgkin-lymphoma-hospital-selection",
+      "category": "hospital-guides",
+      "titles": {
+        "en": "Choosing a Hodgkin lymphoma hospital in China: matching first-line, radiation, and relapse needs",
+        "zh": "霍奇金淋巴瘤在中国选哪家医院：按初治、放疗与复发需求核实"
+      }
+    },
+    {
+      "id": "046-17",
+      "conditionId": "hodgkin-lymphoma",
+      "condition": {
+        "en": "Hodgkin Lymphoma",
+        "zh": "霍奇金淋巴瘤"
+      },
+      "topic": "17_who_should_travel_china",
+      "slug": "hodgkin-lymphoma-who-should-travel-china",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Should I travel to China for Hodgkin lymphoma care? Referral value and medical readiness",
+        "zh": "霍奇金淋巴瘤适合来中国治疗吗：先明确转诊价值与旅行条件"
+      }
+    },
+    {
+      "id": "046-18",
+      "conditionId": "hodgkin-lymphoma",
+      "condition": {
+        "en": "Hodgkin Lymphoma",
+        "zh": "霍奇金淋巴瘤"
+      },
+      "topic": "18_medical_records",
+      "slug": "hodgkin-lymphoma-medical-records",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Records for a Hodgkin lymphoma consultation in China: pathology, PET images, and treatment actually given",
+        "zh": "霍奇金淋巴瘤来中国就诊要带什么资料：病理、PET和实际用药记录"
+      }
+    },
+    {
+      "id": "046-19",
+      "conditionId": "hodgkin-lymphoma",
+      "condition": {
+        "en": "Hodgkin Lymphoma",
+        "zh": "霍奇金淋巴瘤"
+      },
+      "topic": "19_follow_up_after_return_home",
+      "slug": "hodgkin-lymphoma-follow-up-after-return-home",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Returning Home After Hodgkin Lymphoma Treatment in China: Follow-up That Continues Across Borders",
+        "zh": "霍奇金淋巴瘤在中国治疗后回国：怎样接好随访和长期健康管理"
+      }
+    },
+    {
+      "id": "046-20",
+      "conditionId": "hodgkin-lymphoma",
+      "condition": {
+        "en": "Hodgkin Lymphoma",
+        "zh": "霍奇金淋巴瘤"
+      },
+      "topic": "20_patient_faq",
+      "slug": "hodgkin-lymphoma-patient-faq",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Hodgkin Lymphoma: 20 Patient Questions About Diagnosis, Treatment, and Care in China",
+        "zh": "霍奇金淋巴瘤治疗 20 问：从确诊、用药到来华与回国随访"
+      }
+    },
+    {
+      "id": "047-01",
+      "conditionId": "multiple-myeloma",
+      "condition": {
+        "en": "Multiple Myeloma",
+        "zh": "多发性骨髓瘤"
+      },
+      "topic": "01_treatment_overview",
+      "slug": "multiple-myeloma-treatment-overview",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Multiple myeloma treatment: protecting organs while planning long-term control",
+        "zh": "多发性骨髓瘤怎么治疗：先保护肾脏和骨骼，再安排长期控制路径"
+      }
+    },
+    {
+      "id": "047-02",
+      "conditionId": "multiple-myeloma",
+      "condition": {
+        "en": "Multiple Myeloma",
+        "zh": "多发性骨髓瘤"
+      },
+      "topic": "02_diagnosis_tests",
+      "slug": "multiple-myeloma-diagnosis-tests",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Tests for suspected multiple myeloma: what each step is meant to establish",
+        "zh": "怀疑多发性骨髓瘤要做哪些检查：每一步分别回答什么问题"
+      }
+    },
+    {
+      "id": "047-03",
+      "conditionId": "multiple-myeloma",
+      "condition": {
+        "en": "Multiple Myeloma",
+        "zh": "多发性骨髓瘤"
+      },
+      "topic": "03_report_explained",
+      "slug": "multiple-myeloma-report-explained",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Understanding a multiple myeloma report: protein, marrow, imaging, and MRD",
+        "zh": "多发性骨髓瘤报告怎么看：M蛋白、轻链、骨髓和MRD不能混成一个结论"
+      }
+    },
+    {
+      "id": "047-04",
+      "conditionId": "multiple-myeloma",
+      "condition": {
+        "en": "Multiple Myeloma",
+        "zh": "多发性骨髓瘤"
+      },
+      "topic": "04_types_and_risk",
+      "slug": "multiple-myeloma-types-and-risk",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Multiple myeloma types and risk: understanding the different labels",
+        "zh": "多发性骨髓瘤分型和风险怎么理解：蛋白类型、疾病阶段与身体耐受性各有用途"
+      }
+    },
+    {
+      "id": "047-05",
+      "conditionId": "multiple-myeloma",
+      "condition": {
+        "en": "Multiple Myeloma",
+        "zh": "多发性骨髓瘤"
+      },
+      "topic": "05_first_line_treatment",
+      "slug": "multiple-myeloma-first-line-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Starting first-line treatment for multiple myeloma",
+        "zh": "多发性骨髓瘤一线治疗如何开始：把药物、移植准备和支持治疗排在同一张计划里"
+      }
+    },
+    {
+      "id": "047-06",
+      "conditionId": "multiple-myeloma",
+      "condition": {
+        "en": "Multiple Myeloma",
+        "zh": "多发性骨髓瘤"
+      },
+      "topic": "06_treatment_comparison",
+      "slug": "multiple-myeloma-treatment-comparison",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Comparing multiple myeloma treatments: match the stage and resistance history",
+        "zh": "多发性骨髓瘤方案怎么比较：先看是不是同一阶段、同一种耐药情况"
+      }
+    },
+    {
+      "id": "047-07",
+      "conditionId": "multiple-myeloma",
+      "condition": {
+        "en": "Multiple Myeloma",
+        "zh": "多发性骨髓瘤"
+      },
+      "topic": "07_surgery_procedures",
+      "slug": "multiple-myeloma-surgery-procedures",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Procedures and surgery in multiple myeloma: sampling, cell collection, and skeletal stability",
+        "zh": "多发性骨髓瘤需要哪些操作或手术：分清取材、细胞采集与骨骼稳定"
+      }
+    },
+    {
+      "id": "047-08",
+      "conditionId": "multiple-myeloma",
+      "condition": {
+        "en": "Multiple Myeloma",
+        "zh": "多发性骨髓瘤"
+      },
+      "topic": "08_drug_treatment",
+      "slug": "multiple-myeloma-drug-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Multiple myeloma medicines: understanding the prescription and arranging treatment in China",
+        "zh": "多发性骨髓瘤用药怎么选：药物类别、监测重点与在中国接续治疗"
+      }
+    },
+    {
+      "id": "047-09",
+      "conditionId": "multiple-myeloma",
+      "condition": {
+        "en": "Multiple Myeloma",
+        "zh": "多发性骨髓瘤"
+      },
+      "topic": "09_radiation_interventional",
+      "slug": "multiple-myeloma-radiation-interventional",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Radiation therapy for multiple myeloma: treating painful lesions and protecting function",
+        "zh": "多发性骨髓瘤什么时候需要放疗：骨痛、脊柱问题与局部治疗安排"
+      }
+    },
+    {
+      "id": "047-10",
+      "conditionId": "multiple-myeloma",
+      "condition": {
+        "en": "Multiple Myeloma",
+        "zh": "多发性骨髓瘤"
+      },
+      "topic": "10_outcomes_prognosis",
+      "slug": "multiple-myeloma-outcomes-prognosis",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Multiple myeloma outcomes: interpreting survival figures and planning for recovery",
+        "zh": "多发性骨髓瘤治疗后能恢复到什么程度：生存数据、缓解与个人预后"
+      }
+    },
+    {
+      "id": "047-11",
+      "conditionId": "multiple-myeloma",
+      "condition": {
+        "en": "Multiple Myeloma",
+        "zh": "多发性骨髓瘤"
+      },
+      "topic": "11_relapsed_refractory",
+      "slug": "multiple-myeloma-relapsed-refractory",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Relapsed or refractory multiple myeloma: confirming progression and choosing the next treatment",
+        "zh": "多发性骨髓瘤复发或难治后怎么办：确认进展、重选方案与中国就医准备"
+      }
+    },
+    {
+      "id": "047-12",
+      "conditionId": "multiple-myeloma",
+      "condition": {
+        "en": "Multiple Myeloma",
+        "zh": "多发性骨髓瘤"
+      },
+      "topic": "12_new_drugs_trials",
+      "slug": "multiple-myeloma-new-drugs-trials",
+      "category": "clinical-trials-advanced-treatments",
+      "titles": {
+        "en": "New myeloma drugs and clinical trials: evaluating options in China in 2026",
+        "zh": "多发性骨髓瘤新药与临床试验：2026年进展怎样转化为个人选择"
+      }
+    },
+    {
+      "id": "047-13",
+      "conditionId": "multiple-myeloma",
+      "condition": {
+        "en": "Multiple Myeloma",
+        "zh": "多发性骨髓瘤"
+      },
+      "topic": "13_side_effects",
+      "slug": "multiple-myeloma-side-effects",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Managing multiple myeloma treatment side effects: urgent symptoms and continuing care",
+        "zh": "多发性骨髓瘤治疗副作用怎么处理：需要急诊的变化与日常监测"
+      }
+    },
+    {
+      "id": "047-14",
+      "conditionId": "multiple-myeloma",
+      "condition": {
+        "en": "Multiple Myeloma",
+        "zh": "多发性骨髓瘤"
+      },
+      "topic": "14_treatment_duration",
+      "slug": "multiple-myeloma-treatment-duration",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "How long does multiple myeloma treatment take? Cycles, maintenance and time in China",
+        "zh": "多发性骨髓瘤要治疗多久：疗程、维持停药研究与在中国停留安排"
+      }
+    },
+    {
+      "id": "047-15",
+      "conditionId": "multiple-myeloma",
+      "condition": {
+        "en": "Multiple Myeloma",
+        "zh": "多发性骨髓瘤"
+      },
+      "topic": "15_cost_in_china",
+      "slug": "multiple-myeloma-cost-in-china",
+      "category": "cost-insurance-guides",
+      "titles": {
+        "en": "Multiple myeloma treatment costs in China: obtaining a comparable, staged estimate",
+        "zh": "多发性骨髓瘤在中国治疗多少钱：怎样取得可比较的分阶段费用估算"
+      }
+    },
+    {
+      "id": "047-16",
+      "conditionId": "multiple-myeloma",
+      "condition": {
+        "en": "Multiple Myeloma",
+        "zh": "多发性骨髓瘤"
+      },
+      "topic": "16_hospital_selection",
+      "slug": "multiple-myeloma-hospital-selection",
+      "category": "hospital-guides",
+      "titles": {
+        "en": "Choosing a hospital in China for multiple myeloma: match the team to the treatment phase",
+        "zh": "多发性骨髓瘤去中国哪家医院：按病情阶段核对团队与治疗条件"
+      }
+    },
+    {
+      "id": "047-17",
+      "conditionId": "multiple-myeloma",
+      "condition": {
+        "en": "Multiple Myeloma",
+        "zh": "多发性骨髓瘤"
+      },
+      "topic": "17_who_should_travel_china",
+      "slug": "multiple-myeloma-who-should-travel-china",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Should a patient with multiple myeloma travel to China for treatment?",
+        "zh": "多发性骨髓瘤患者适合来中国治疗吗：病情稳定、治疗机会与旅途准备"
+      }
+    },
+    {
+      "id": "047-18",
+      "conditionId": "multiple-myeloma",
+      "condition": {
+        "en": "Multiple Myeloma",
+        "zh": "多发性骨髓瘤"
+      },
+      "topic": "18_medical_records",
+      "slug": "multiple-myeloma-medical-records",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Medical records for myeloma care in China: documenting diagnosis, resistance and treatment readiness",
+        "zh": "多发性骨髓瘤来中国就医需要哪些病历：诊断、耐药与治疗准备资料"
+      }
+    },
+    {
+      "id": "047-19",
+      "conditionId": "multiple-myeloma",
+      "condition": {
+        "en": "Multiple Myeloma",
+        "zh": "多发性骨髓瘤"
+      },
+      "topic": "19_follow_up_after_return_home",
+      "slug": "multiple-myeloma-follow-up-after-return-home",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Myeloma follow-up after treatment in China: tests, prescriptions and continuing care at home",
+        "zh": "多发性骨髓瘤在中国治疗后回国：复查、续药与异常情况怎样衔接"
+      }
+    },
+    {
+      "id": "047-20",
+      "conditionId": "multiple-myeloma",
+      "condition": {
+        "en": "Multiple Myeloma",
+        "zh": "多发性骨髓瘤"
+      },
+      "topic": "20_patient_faq",
+      "slug": "multiple-myeloma-patient-faq",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Twenty Questions Patients Ask About Multiple Myeloma Treatment in China",
+        "zh": "多发性骨髓瘤患者常问的20个问题：从确诊、选药到赴华治疗后的生活"
+      }
+    },
+    {
+      "id": "048-01",
+      "conditionId": "graft-versus-host-disease",
+      "condition": {
+        "en": "Graft Versus Host Disease",
+        "zh": "移植物抗宿主病"
+      },
+      "topic": "01_treatment_overview",
+      "slug": "graft-versus-host-disease-treatment-overview",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Treating Graft-Versus-Host Disease: Acute and Chronic GVHD Care in China",
+        "zh": "移植物抗宿主病怎么治疗？急性、慢性GVHD与中国就医路径"
+      }
+    },
+    {
+      "id": "048-02",
+      "conditionId": "graft-versus-host-disease",
+      "condition": {
+        "en": "Graft Versus Host Disease",
+        "zh": "移植物抗宿主病"
+      },
+      "topic": "02_diagnosis_tests",
+      "slug": "graft-versus-host-disease-diagnosis-tests",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Which Tests Help Diagnose Graft-Versus-Host Disease After Transplantation?",
+        "zh": "怀疑移植物抗宿主病要做哪些检查？从移植后症状到器官评估"
+      }
+    },
+    {
+      "id": "048-03",
+      "conditionId": "graft-versus-host-disease",
+      "condition": {
+        "en": "Graft Versus Host Disease",
+        "zh": "移植物抗宿主病"
+      },
+      "topic": "03_report_explained",
+      "slug": "graft-versus-host-disease-report-explained",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Understanding a GVHD Report: Organ Scores, Pathology, and Transplant Results",
+        "zh": "移植物抗宿主病报告怎么看？分清器官评分、病理结论和移植检查"
+      }
+    },
+    {
+      "id": "048-04",
+      "conditionId": "graft-versus-host-disease",
+      "condition": {
+        "en": "Graft Versus Host Disease",
+        "zh": "移植物抗宿主病"
+      },
+      "topic": "04_types_and_risk",
+      "slug": "graft-versus-host-disease-types-and-risk",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "GVHD Types and Risk: Acute, Chronic, Overlap, and Steroid-Refractory Disease",
+        "zh": "移植物抗宿主病有哪些类型？急慢性、重叠型与“高风险”分别指什么"
+      }
+    },
+    {
+      "id": "048-05",
+      "conditionId": "graft-versus-host-disease",
+      "condition": {
+        "en": "Graft Versus Host Disease",
+        "zh": "移植物抗宿主病"
+      },
+      "topic": "05_first_line_treatment",
+      "slug": "graft-versus-host-disease-first-line-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Starting GVHD Treatment: Local Care, Corticosteroids, and Early Reassessment",
+        "zh": "移植物抗宿主病初次治疗怎样安排？局部治疗、激素与早期复评"
+      }
+    },
+    {
+      "id": "048-06",
+      "conditionId": "graft-versus-host-disease",
+      "condition": {
+        "en": "Graft Versus Host Disease",
+        "zh": "移植物抗宿主病"
+      },
+      "topic": "06_treatment_comparison",
+      "slug": "graft-versus-host-disease-treatment-comparison",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Comparing GVHD Treatments: What Steroids, Targeted Medicines, Photopheresis and Cell Products Can Offer",
+        "zh": "GVHD治疗怎么比较：激素、靶向药、光分离与细胞治疗各解决什么问题"
+      }
+    },
+    {
+      "id": "048-07",
+      "conditionId": "graft-versus-host-disease",
+      "condition": {
+        "en": "Graft Versus Host Disease",
+        "zh": "移植物抗宿主病"
+      },
+      "topic": "07_surgery_procedures",
+      "slug": "graft-versus-host-disease-surgery-procedures",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Does GVHD Require Surgery? Understanding Biopsies, Dilation, Eye Procedures and Treatment Access",
+        "zh": "GVHD需要手术吗：活检、食管扩张、眼部操作与治疗通路的作用"
+      }
+    },
+    {
+      "id": "048-08",
+      "conditionId": "graft-versus-host-disease",
+      "condition": {
+        "en": "Graft Versus Host Disease",
+        "zh": "移植物抗宿主病"
+      },
+      "topic": "08_drug_treatment",
+      "slug": "graft-versus-host-disease-drug-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Medicines for GVHD: Understanding Steroids, Ruxolitinib, Belumosudil and Later Treatment Options",
+        "zh": "GVHD常用药怎么理解：从激素到芦可替尼、贝舒地尔与其他后线治疗"
+      }
+    },
+    {
+      "id": "048-09",
+      "conditionId": "graft-versus-host-disease",
+      "condition": {
+        "en": "Graft Versus Host Disease",
+        "zh": "移植物抗宿主病"
+      },
+      "topic": "09_radiation_interventional",
+      "slug": "graft-versus-host-disease-radiation-interventional",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Extracorporeal Photopheresis for GVHD: The Procedure, Repeated Visits and Response Assessment",
+        "zh": "体外光分离治疗GVHD：ECP怎样进行，什么时候评估效果"
+      }
+    },
+    {
+      "id": "048-10",
+      "conditionId": "graft-versus-host-disease",
+      "condition": {
+        "en": "Graft Versus Host Disease",
+        "zh": "移植物抗宿主病"
+      },
+      "topic": "10_outcomes_prognosis",
+      "slug": "graft-versus-host-disease-outcomes-prognosis",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Recovery and Prognosis After GVHD: Understanding Response, Treatment-Free Time and Daily Function",
+        "zh": "GVHD能恢复到什么程度：怎样理解应答、停药机会和长期预后"
+      }
+    },
+    {
+      "id": "048-11",
+      "conditionId": "graft-versus-host-disease",
+      "condition": {
+        "en": "Graft Versus Host Disease",
+        "zh": "移植物抗宿主病"
+      },
+      "topic": "11_relapsed_refractory",
+      "slug": "graft-versus-host-disease-relapsed-refractory",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "When GVHD Persists or Flares Again: Reassessment and Later Treatment Decisions",
+        "zh": "GVHD反复或治疗效果不够怎么办：重新评估病因、器官活动与后续方案"
+      }
+    },
+    {
+      "id": "048-12",
+      "conditionId": "graft-versus-host-disease",
+      "condition": {
+        "en": "Graft Versus Host Disease",
+        "zh": "移植物抗宿主病"
+      },
+      "topic": "12_new_drugs_trials",
+      "slug": "graft-versus-host-disease-new-drugs-trials",
+      "category": "clinical-trials-advanced-treatments",
+      "titles": {
+        "en": "New GVHD treatments and clinical trials: making sense of the 2026 developments",
+        "zh": "GVHD新药与临床试验：2026年进展中，哪些与自己的病情有关？"
+      }
+    },
+    {
+      "id": "048-13",
+      "conditionId": "graft-versus-host-disease",
+      "condition": {
+        "en": "Graft Versus Host Disease",
+        "zh": "移植物抗宿主病"
+      },
+      "topic": "13_side_effects",
+      "slug": "graft-versus-host-disease-side-effects",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Managing GVHD treatment side effects: symptoms, monitoring, and continuity of care",
+        "zh": "GVHD治疗副作用怎么应对？从发热、血细胞减少到长期激素影响"
+      }
+    },
+    {
+      "id": "048-14",
+      "conditionId": "graft-versus-host-disease",
+      "condition": {
+        "en": "Graft Versus Host Disease",
+        "zh": "移植物抗宿主病"
+      },
+      "topic": "14_treatment_duration",
+      "slug": "graft-versus-host-disease-treatment-duration",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "How long does GVHD treatment take? Planning admission, response assessment, tapering, and return travel",
+        "zh": "GVHD要治疗多久？住院、起效、减药和回国时间应分别规划"
+      }
+    },
+    {
+      "id": "048-15",
+      "conditionId": "graft-versus-host-disease",
+      "condition": {
+        "en": "Graft Versus Host Disease",
+        "zh": "移植物抗宿主病"
+      },
+      "topic": "15_cost_in_china",
+      "slug": "graft-versus-host-disease-cost-in-china",
+      "category": "cost-insurance-guides",
+      "titles": {
+        "en": "GVHD treatment costs in China: building an itemized RMB estimate",
+        "zh": "在中国治疗GVHD要花多少钱？按病情阶段核对人民币费用"
+      }
+    },
+    {
+      "id": "048-16",
+      "conditionId": "graft-versus-host-disease",
+      "condition": {
+        "en": "Graft Versus Host Disease",
+        "zh": "移植物抗宿主病"
+      },
+      "topic": "16_hospital_selection",
+      "slug": "graft-versus-host-disease-hospital-selection",
+      "category": "hospital-guides",
+      "titles": {
+        "en": "Choosing a GVHD hospital in China: transplant follow-up and organ-specific care",
+        "zh": "中国GVHD医院怎么选？重点看移植后管理与受累器官的协作能力"
+      }
+    },
+    {
+      "id": "048-17",
+      "conditionId": "graft-versus-host-disease",
+      "condition": {
+        "en": "Graft Versus Host Disease",
+        "zh": "移植物抗宿主病"
+      },
+      "topic": "17_who_should_travel_china",
+      "slug": "graft-versus-host-disease-who-should-travel-china",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Should you travel to China for GVHD treatment? Define the benefit and the care needed around the journey",
+        "zh": "GVHD患者适合来中国治疗吗？先确认能解决的问题与跨境照护条件"
+      }
+    },
+    {
+      "id": "048-18",
+      "conditionId": "graft-versus-host-disease",
+      "condition": {
+        "en": "Graft Versus Host Disease",
+        "zh": "移植物抗宿主病"
+      },
+      "topic": "18_medical_records",
+      "slug": "graft-versus-host-disease-medical-records",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Medical records for a GVHD consultation in China: connect the transplant history, organ changes, and treatment response",
+        "zh": "GVHD来华会诊要准备哪些病历？把移植过程、器官变化与用药反应讲清楚"
+      }
+    },
+    {
+      "id": "048-19",
+      "conditionId": "graft-versus-host-disease",
+      "condition": {
+        "en": "Graft Versus Host Disease",
+        "zh": "移植物抗宿主病"
+      },
+      "topic": "19_follow_up_after_return_home",
+      "slug": "graft-versus-host-disease-follow-up-after-return-home",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Follow-up after GVHD treatment in China: connecting tests, prescriptions, and organ care at home",
+        "zh": "GVHD在中国治疗后回国，怎样接好复查、药物和器官护理？"
+      }
+    },
+    {
+      "id": "048-20",
+      "conditionId": "graft-versus-host-disease",
+      "condition": {
+        "en": "Graft Versus Host Disease",
+        "zh": "移植物抗宿主病"
+      },
+      "topic": "20_patient_faq",
+      "slug": "graft-versus-host-disease-patient-faq",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Twenty patient questions about GVHD: treatment, tapering, care in China, and follow-up",
+        "zh": "GVHD患者常问的20个问题：治疗、减药、赴华与回国管理"
+      }
+    },
+    {
+      "id": "049-01",
+      "conditionId": "thalassemia",
+      "condition": {
+        "en": "Thalassemia",
+        "zh": "地中海贫血"
+      },
+      "topic": "01_treatment_overview",
+      "slug": "thalassemia-treatment-overview",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Treating thalassemia: from carrier status, transfusion and chelation to transplantation and newer therapies",
+        "zh": "地中海贫血怎样治疗：从携带状态、输血和祛铁，到移植与新疗法"
+      }
+    },
+    {
+      "id": "049-02",
+      "conditionId": "thalassemia",
+      "condition": {
+        "en": "Thalassemia",
+        "zh": "地中海贫血"
+      },
+      "topic": "02_diagnosis_tests",
+      "slug": "thalassemia-diagnosis-tests",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Tests for suspected thalassemia: moving from a blood count to hemoglobin and genetic confirmation",
+        "zh": "怀疑地中海贫血要查什么：按血常规、血红蛋白和基因结果逐步确认"
+      }
+    },
+    {
+      "id": "049-03",
+      "conditionId": "thalassemia",
+      "condition": {
+        "en": "Thalassemia",
+        "zh": "地中海贫血"
+      },
+      "topic": "03_report_explained",
+      "slug": "thalassemia-report-explained",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Reading thalassemia reports: distinguish the inherited diagnosis, anemia, iron burden, and organ health",
+        "zh": "地中海贫血报告怎么看：把基因、贫血、铁负荷和器官检查分开读"
+      }
+    },
+    {
+      "id": "049-04",
+      "conditionId": "thalassemia",
+      "condition": {
+        "en": "Thalassemia",
+        "zh": "地中海贫血"
+      },
+      "topic": "04_types_and_risk",
+      "slug": "thalassemia-types-and-risk",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Thalassemia types and risk: why people with the same broad diagnosis need different care",
+        "zh": "地中海贫血分型与风险：为什么同样叫地贫，治疗需要差别很大"
+      }
+    },
+    {
+      "id": "049-05",
+      "conditionId": "thalassemia",
+      "condition": {
+        "en": "Thalassemia",
+        "zh": "地中海贫血"
+      },
+      "topic": "05_first_line_treatment",
+      "slug": "thalassemia-first-line-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Starting care after a thalassemia diagnosis: planning the first stage of treatment",
+        "zh": "刚确诊地中海贫血，第一阶段治疗怎样安排"
+      }
+    },
+    {
+      "id": "049-06",
+      "conditionId": "thalassemia",
+      "condition": {
+        "en": "Thalassemia",
+        "zh": "地中海贫血"
+      },
+      "topic": "06_treatment_comparison",
+      "slug": "thalassemia-treatment-comparison",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Comparing thalassemia treatments: blood support, anemia medicines, transplantation, and gene therapy",
+        "zh": "地中海贫血治疗怎么比较：输血祛铁、改善贫血药物、移植和基因治疗"
+      }
+    },
+    {
+      "id": "049-07",
+      "conditionId": "thalassemia",
+      "condition": {
+        "en": "Thalassemia",
+        "zh": "地中海贫血"
+      },
+      "topic": "07_surgery_procedures",
+      "slug": "thalassemia-surgery-procedures",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Surgery and procedures in thalassemia: decisions about the spleen, gallbladder, and other interventions",
+        "zh": "地中海贫血需要做手术吗：切脾、胆囊处理与其他操作怎样决定"
+      }
+    },
+    {
+      "id": "049-08",
+      "conditionId": "thalassemia",
+      "condition": {
+        "en": "Thalassemia",
+        "zh": "地中海贫血"
+      },
+      "topic": "08_drug_treatment",
+      "slug": "thalassemia-drug-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Thalassemia medicines: understanding the purpose of a prescription and its monitoring plan",
+        "zh": "地中海贫血常用药与新药：从药物用途到安全监测，患者怎样看懂处方"
+      }
+    },
+    {
+      "id": "049-09",
+      "conditionId": "thalassemia",
+      "condition": {
+        "en": "Thalassemia",
+        "zh": "地中海贫血"
+      },
+      "topic": "09_radiation_interventional",
+      "slug": "thalassemia-radiation-interventional",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Why radiotherapy is sometimes used in thalassemia: extramedullary hematopoiesis and spinal cord compression",
+        "zh": "地中海贫血为什么有时需要放疗：髓外造血肿块与脊髓压迫的处理"
+      }
+    },
+    {
+      "id": "049-10",
+      "conditionId": "thalassemia",
+      "condition": {
+        "en": "Thalassemia",
+        "zh": "地中海贫血"
+      },
+      "topic": "10_outcomes_prognosis",
+      "slug": "thalassemia-outcomes-prognosis",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "How long can someone with thalassemia live? Understanding prognosis, treatment outcomes, and everyday life",
+        "zh": "地中海贫血能活多久：怎样理解预后、治疗效果与长期生活"
+      }
+    },
+    {
+      "id": "049-11",
+      "conditionId": "thalassemia",
+      "condition": {
+        "en": "Thalassemia",
+        "zh": "地中海贫血"
+      },
+      "topic": "11_relapsed_refractory",
+      "slug": "thalassemia-relapsed-refractory",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "When thalassemia treatment seems insufficient: worsening anemia, increasing transfusions, and poor iron control",
+        "zh": "地中海贫血治疗效果不理想怎么办：贫血加重、输血增加和祛铁不佳的排查"
+      }
+    },
+    {
+      "id": "049-12",
+      "conditionId": "thalassemia",
+      "condition": {
+        "en": "Thalassemia",
+        "zh": "地中海贫血"
+      },
+      "topic": "12_new_drugs_trials",
+      "slug": "thalassemia-new-drugs-trials",
+      "category": "clinical-trials-advanced-treatments",
+      "titles": {
+        "en": "New thalassemia medicines and clinical trials in 2026: separating approvals, research, and personal eligibility",
+        "zh": "2026年地中海贫血新药与临床试验：哪些已经获批，哪些仍需研究"
+      }
+    },
+    {
+      "id": "049-13",
+      "conditionId": "thalassemia",
+      "condition": {
+        "en": "Thalassemia",
+        "zh": "地中海贫血"
+      },
+      "topic": "13_side_effects",
+      "slug": "thalassemia-side-effects",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Managing thalassemia treatment side effects: what to report, when to seek help, and how to prepare",
+        "zh": "地中海贫血治疗副作用怎么处理：从出现症状到联系医生的实用安排"
+      }
+    },
+    {
+      "id": "049-14",
+      "conditionId": "thalassemia",
+      "condition": {
+        "en": "Thalassemia",
+        "zh": "地中海贫血"
+      },
+      "topic": "14_treatment_duration",
+      "slug": "thalassemia-treatment-duration",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "How long does thalassemia treatment take? Transfusion cycles, medication assessment, and time needed in China",
+        "zh": "地中海贫血要治疗多久：输血周期、用药观察期与来华停留怎样安排"
+      }
+    },
+    {
+      "id": "049-15",
+      "conditionId": "thalassemia",
+      "condition": {
+        "en": "Thalassemia",
+        "zh": "地中海贫血"
+      },
+      "topic": "15_cost_in_china",
+      "slug": "thalassemia-cost-in-china",
+      "category": "cost-insurance-guides",
+      "titles": {
+        "en": "What does thalassemia treatment cost in China? Building a budget for transfusion, chelation, transplantation, and follow-up",
+        "zh": "地中海贫血在中国治疗要多少钱：按输血、祛铁、移植和后续照护核对预算"
+      }
+    },
+    {
+      "id": "049-16",
+      "conditionId": "thalassemia",
+      "condition": {
+        "en": "Thalassemia",
+        "zh": "地中海贫血"
+      },
+      "topic": "16_hospital_selection",
+      "slug": "thalassemia-hospital-selection",
+      "category": "hospital-guides",
+      "titles": {
+        "en": "Choosing a thalassemia hospital in China: match the service to the problem you need solved",
+        "zh": "地中海贫血在中国选哪家医院：从接诊任务判断中心是否适合"
+      }
+    },
+    {
+      "id": "049-17",
+      "conditionId": "thalassemia",
+      "condition": {
+        "en": "Thalassemia",
+        "zh": "地中海贫血"
+      },
+      "topic": "17_who_should_travel_china",
+      "slug": "thalassemia-who-should-travel-china",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Should you travel to China for thalassemia care? Assess the purpose and the conditions for a safe journey",
+        "zh": "地中海贫血患者适合赴华就医吗：先判断来诊价值和旅行条件"
+      }
+    },
+    {
+      "id": "049-18",
+      "conditionId": "thalassemia",
+      "condition": {
+        "en": "Thalassemia",
+        "zh": "地中海贫血"
+      },
+      "topic": "18_medical_records",
+      "slug": "thalassemia-medical-records",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Medical records for thalassemia care in China: build a usable history of diagnosis, transfusions, iron, and treatment",
+        "zh": "地中海贫血赴中国就诊带什么资料：把诊断、输血、铁负荷和用药连成一份病历"
+      }
+    },
+    {
+      "id": "049-19",
+      "conditionId": "thalassemia",
+      "condition": {
+        "en": "Thalassemia",
+        "zh": "地中海贫血"
+      },
+      "topic": "19_follow_up_after_return_home",
+      "slug": "thalassemia-follow-up-after-return-home",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Follow-up after thalassemia care in China: assign each next step to a clinician who can carry it out",
+        "zh": "地中海贫血在中国就诊后如何回国随访：把复查任务交到具体医生手中"
+      }
+    },
+    {
+      "id": "049-20",
+      "conditionId": "thalassemia",
+      "condition": {
+        "en": "Thalassemia",
+        "zh": "地中海贫血"
+      },
+      "topic": "20_patient_faq",
+      "slug": "thalassemia-patient-faq",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Twenty thalassemia questions: diagnosis, treatment, and planning care in China",
+        "zh": "地中海贫血患者常见20问：诊断、治疗与中国就医中容易混淆的事"
+      }
+    },
+    {
+      "id": "050-01",
+      "conditionId": "sickle-cell-disease",
+      "condition": {
+        "en": "Sickle Cell Disease",
+        "zh": "镰状细胞病"
+      },
+      "topic": "01_treatment_overview",
+      "slug": "sickle-cell-disease-treatment-overview",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Sickle Cell Disease Treatment: Preventing Crises, Protecting Organs, and Considering Transformative Therapy",
+        "zh": "镰状细胞病怎么治疗：控制疼痛、保护器官与评估移植和基因治疗"
+      }
+    },
+    {
+      "id": "050-02",
+      "conditionId": "sickle-cell-disease",
+      "condition": {
+        "en": "Sickle Cell Disease",
+        "zh": "镰状细胞病"
+      },
+      "topic": "02_diagnosis_tests",
+      "slug": "sickle-cell-disease-diagnosis-tests",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Testing for Sickle Cell Disease: From a Screening Result to a Confirmed Diagnosis",
+        "zh": "怀疑镰状细胞病要做哪些检查：从筛查阳性到明确诊断"
+      }
+    },
+    {
+      "id": "050-03",
+      "conditionId": "sickle-cell-disease",
+      "condition": {
+        "en": "Sickle Cell Disease",
+        "zh": "镰状细胞病"
+      },
+      "topic": "03_report_explained",
+      "slug": "sickle-cell-disease-report-explained",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Understanding Sickle Cell Reports: Hemoglobin, HbS, HbF, Reticulocytes, and Iron Measurements",
+        "zh": "镰状细胞病报告怎么看：血红蛋白、HbS、HbF、网织红细胞与铁负荷"
+      }
+    },
+    {
+      "id": "050-04",
+      "conditionId": "sickle-cell-disease",
+      "condition": {
+        "en": "Sickle Cell Disease",
+        "zh": "镰状细胞病"
+      },
+      "topic": "04_types_and_risk",
+      "slug": "sickle-cell-disease-types-and-risk",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Sickle Cell Genotypes and Risk: Understanding HbSS, HbSC, and Sickle Beta Thalassemia",
+        "zh": "镰状细胞病分型与风险：HbSS、HbSC 和镰状细胞地中海贫血有何不同"
+      }
+    },
+    {
+      "id": "050-05",
+      "conditionId": "sickle-cell-disease",
+      "condition": {
+        "en": "Sickle Cell Disease",
+        "zh": "镰状细胞病"
+      },
+      "topic": "05_first_line_treatment",
+      "slug": "sickle-cell-disease-first-line-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Starting Treatment After a Sickle Cell Diagnosis: Hydroxyurea, Prevention, and the First Follow-up Plan",
+        "zh": "镰状细胞病刚确诊后怎样开始治疗：羟基脲、预防用药与第一份随访计划"
+      }
+    },
+    {
+      "id": "050-06",
+      "conditionId": "sickle-cell-disease",
+      "condition": {
+        "en": "Sickle Cell Disease",
+        "zh": "镰状细胞病"
+      },
+      "topic": "06_treatment_comparison",
+      "slug": "sickle-cell-disease-treatment-comparison",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Comparing Sickle Cell Treatments: Medicines, Transfusion, Transplantation, and Gene Therapy",
+        "zh": "镰状细胞病治疗怎么选：药物、输血、移植与基因治疗的实际区别"
+      }
+    },
+    {
+      "id": "050-07",
+      "conditionId": "sickle-cell-disease",
+      "condition": {
+        "en": "Sickle Cell Disease",
+        "zh": "镰状细胞病"
+      },
+      "topic": "07_surgery_procedures",
+      "slug": "sickle-cell-disease-surgery-procedures",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Surgery with Sickle Cell Disease: Gallbladder, Spleen, Joint Procedures, and Perioperative Planning",
+        "zh": "镰状细胞病患者需要手术时：胆囊、脾脏、关节与麻醉前后的准备"
+      }
+    },
+    {
+      "id": "050-08",
+      "conditionId": "sickle-cell-disease",
+      "condition": {
+        "en": "Sickle Cell Disease",
+        "zh": "镰状细胞病"
+      },
+      "topic": "08_drug_treatment",
+      "slug": "sickle-cell-disease-drug-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Checking Sickle Cell Medicines: Hydroxyurea, Regulatory Updates, Pain Relief, and Monitoring",
+        "zh": "镰状细胞病用药怎么核对：羟基脲、新药状态、止痛药与监测"
+      }
+    },
+    {
+      "id": "050-09",
+      "conditionId": "sickle-cell-disease",
+      "condition": {
+        "en": "Sickle Cell Disease",
+        "zh": "镰状细胞病"
+      },
+      "topic": "09_radiation_interventional",
+      "slug": "sickle-cell-disease-radiation-interventional",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Why Red Cell Exchange Is Used in Sickle Cell Disease: Urgent Treatment and Aftercare",
+        "zh": "镰状细胞病为什么需要换血：红细胞置换、急症干预与离院观察"
+      }
+    },
+    {
+      "id": "050-10",
+      "conditionId": "sickle-cell-disease",
+      "condition": {
+        "en": "Sickle Cell Disease",
+        "zh": "镰状细胞病"
+      },
+      "topic": "10_outcomes_prognosis",
+      "slug": "sickle-cell-disease-outcomes-prognosis",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "What Outcomes Are Possible with Sickle Cell Disease? Understanding Survival, Treatment Response, and Personal Prognosis",
+        "zh": "镰状细胞病能控制到什么程度：寿命数字、治疗效果与个人预后"
+      }
+    },
+    {
+      "id": "050-11",
+      "conditionId": "sickle-cell-disease",
+      "condition": {
+        "en": "Sickle Cell Disease",
+        "zh": "镰状细胞病"
+      },
+      "topic": "11_relapsed_refractory",
+      "slug": "sickle-cell-disease-relapsed-refractory",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Recurrent Pain Despite Sickle Cell Treatment: Reassessment and Next Steps",
+        "zh": "镰状细胞病治疗后还是反复疼痛：怎样重新评估与调整方案"
+      }
+    },
+    {
+      "id": "050-12",
+      "conditionId": "sickle-cell-disease",
+      "condition": {
+        "en": "Sickle Cell Disease",
+        "zh": "镰状细胞病"
+      },
+      "topic": "12_new_drugs_trials",
+      "slug": "sickle-cell-disease-new-drugs-trials",
+      "category": "clinical-trials-advanced-treatments",
+      "titles": {
+        "en": "Sickle Cell New Treatments and Clinical Trials: 2026 Progress, Evidence Limits, and Participation",
+        "zh": "镰状细胞病新药与临床试验：2026年进展、证据限制及参与前准备"
+      }
+    },
+    {
+      "id": "050-13",
+      "conditionId": "sickle-cell-disease",
+      "condition": {
+        "en": "Sickle Cell Disease",
+        "zh": "镰状细胞病"
+      },
+      "topic": "13_side_effects",
+      "slug": "sickle-cell-disease-side-effects",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Recognizing Sickle Cell Treatment Side Effects: Urgent Symptoms and Planned Review",
+        "zh": "镰状细胞病治疗副作用怎样识别：哪些要急诊，哪些需要联系开药团队"
+      }
+    },
+    {
+      "id": "050-14",
+      "conditionId": "sickle-cell-disease",
+      "condition": {
+        "en": "Sickle Cell Disease",
+        "zh": "镰状细胞病"
+      },
+      "topic": "14_treatment_duration",
+      "slug": "sickle-cell-disease-treatment-duration",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "How Long Does Sickle Cell Treatment Take? Medicines, Transfusions, Recovery, and Travel Planning",
+        "zh": "镰状细胞病治疗要多久：用药起效、输血安排、移植恢复与返程计划"
+      }
+    },
+    {
+      "id": "050-15",
+      "conditionId": "sickle-cell-disease",
+      "condition": {
+        "en": "Sickle Cell Disease",
+        "zh": "镰状细胞病"
+      },
+      "topic": "15_cost_in_china",
+      "slug": "sickle-cell-disease-cost-in-china",
+      "category": "cost-insurance-guides",
+      "titles": {
+        "en": "Sickle Cell Disease Treatment Costs in China: Checking Medicines, Transfusions, and Transplant Budgets",
+        "zh": "镰状细胞病在中国治疗费用：怎样核对输血、药物、移植与长期预算"
+      }
+    },
+    {
+      "id": "050-16",
+      "conditionId": "sickle-cell-disease",
+      "condition": {
+        "en": "Sickle Cell Disease",
+        "zh": "镰状细胞病"
+      },
+      "topic": "16_hospital_selection",
+      "slug": "sickle-cell-disease-hospital-selection",
+      "category": "hospital-guides",
+      "titles": {
+        "en": "Choosing a Hospital in China for Sickle Cell Disease: Expertise, Blood Support, and Continuing Care",
+        "zh": "镰状细胞病在中国怎么选医院：从专科经验、配血能力到长期照护"
+      }
+    },
+    {
+      "id": "050-17",
+      "conditionId": "sickle-cell-disease",
+      "condition": {
+        "en": "Sickle Cell Disease",
+        "zh": "镰状细胞病"
+      },
+      "topic": "17_who_should_travel_china",
+      "slug": "sickle-cell-disease-who-should-travel-china",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Who Should Travel to China for Sickle Cell Care? Clinical Benefit, Stability, and Receiving Arrangements",
+        "zh": "哪些镰状细胞病患者适合来中国就医：出行获益、病情稳定与接诊条件"
+      }
+    },
+    {
+      "id": "050-18",
+      "conditionId": "sickle-cell-disease",
+      "condition": {
+        "en": "Sickle Cell Disease",
+        "zh": "镰状细胞病"
+      },
+      "topic": "18_medical_records",
+      "slug": "sickle-cell-disease-medical-records",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Medical Records for Sickle Cell Care in China: Diagnosis, Blood Compatibility, Crises, and Treatment History",
+        "zh": "镰状细胞病来中国就医要带哪些病历：诊断、配血、危象和治疗记录"
+      }
+    },
+    {
+      "id": "050-19",
+      "conditionId": "sickle-cell-disease",
+      "condition": {
+        "en": "Sickle Cell Disease",
+        "zh": "镰状细胞病"
+      },
+      "topic": "19_follow_up_after_return_home",
+      "slug": "sickle-cell-disease-follow-up-after-return-home",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Sickle Cell Follow-up After Treatment in China: Medicines, Transfusions, Monitoring, and Urgent Care",
+        "zh": "镰状细胞病在中国治疗后回国：复查、用药、输血与紧急求助怎样衔接"
+      }
+    },
+    {
+      "id": "050-20",
+      "conditionId": "sickle-cell-disease",
+      "condition": {
+        "en": "Sickle Cell Disease",
+        "zh": "镰状细胞病"
+      },
+      "topic": "20_patient_faq",
+      "slug": "sickle-cell-disease-patient-faq",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "20 Questions About Sickle Cell Disease: Medicines, Transfusion, Gene Therapy, and Care in China",
+        "zh": "镰状细胞病患者20问：从日常用药、输血到基因治疗和中国就医"
+      }
+    },
+    {
+      "id": "051-01",
+      "conditionId": "parkinson-disease",
+      "condition": {
+        "en": "Parkinson Disease",
+        "zh": "帕金森病"
+      },
+      "topic": "01_treatment_overview",
+      "slug": "parkinson-disease-treatment-overview",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Parkinson's Disease Treatment in China: A Plan Built Around Daily Function",
+        "zh": "帕金森病在中国如何治疗：先改善每天的活动，再决定药物与手术"
+      }
+    },
+    {
+      "id": "051-02",
+      "conditionId": "parkinson-disease",
+      "condition": {
+        "en": "Parkinson Disease",
+        "zh": "帕金森病"
+      },
+      "topic": "02_diagnosis_tests",
+      "slug": "parkinson-disease-diagnosis-tests",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Tests for Suspected Parkinson's Disease in China: What Each Assessment Can Establish",
+        "zh": "怀疑帕金森病要做哪些检查：查体、影像和新标志物分别能回答什么"
+      }
+    },
+    {
+      "id": "051-03",
+      "conditionId": "parkinson-disease",
+      "condition": {
+        "en": "Parkinson Disease",
+        "zh": "帕金森病"
+      },
+      "topic": "03_report_explained",
+      "slug": "parkinson-disease-report-explained",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Understanding a Parkinson's Assessment Report: Scores, Imaging, and Biomarker Results",
+        "zh": "看懂帕金森病评估报告：分期、量表、影像和基因结果怎样影响下一步"
+      }
+    },
+    {
+      "id": "051-04",
+      "conditionId": "parkinson-disease",
+      "condition": {
+        "en": "Parkinson Disease",
+        "zh": "帕金森病"
+      },
+      "topic": "04_types_and_risk",
+      "slug": "parkinson-disease-types-and-risk",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Parkinson's Disease Types: How Age at Onset, Tremor, and Gait Problems Affect Care",
+        "zh": "帕金森病有哪些类型：起病年龄、震颤与步态问题怎样影响治疗选择"
+      }
+    },
+    {
+      "id": "051-05",
+      "conditionId": "parkinson-disease",
+      "condition": {
+        "en": "Parkinson Disease",
+        "zh": "帕金森病"
+      },
+      "topic": "05_first_line_treatment",
+      "slug": "parkinson-disease-first-line-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Starting Treatment for Parkinson's Disease: What the First Prescription Should Achieve",
+        "zh": "帕金森病刚确诊如何开始治疗：第一张处方应解决哪些问题"
+      }
+    },
+    {
+      "id": "051-06",
+      "conditionId": "parkinson-disease",
+      "condition": {
+        "en": "Parkinson Disease",
+        "zh": "帕金森病"
+      },
+      "topic": "06_treatment_comparison",
+      "slug": "parkinson-disease-treatment-comparison",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Comparing Parkinson's Treatments: Medication Adjustment, Infusion, DBS, and Focused Ultrasound",
+        "zh": "帕金森病治疗怎么比较：继续调药、持续输注、DBS与聚焦超声的取舍"
+      }
+    },
+    {
+      "id": "051-07",
+      "conditionId": "parkinson-disease",
+      "condition": {
+        "en": "Parkinson Disease",
+        "zh": "帕金森病"
+      },
+      "topic": "07_surgery_procedures",
+      "slug": "parkinson-disease-surgery-procedures",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Deep brain stimulation for Parkinson’s disease: assessment, surgery and follow-up after treatment in China",
+        "zh": "帕金森病脑深部电刺激手术：从评估、靶点选择到回国程控"
+      }
+    },
+    {
+      "id": "051-08",
+      "conditionId": "parkinson-disease",
+      "condition": {
+        "en": "Parkinson Disease",
+        "zh": "帕金森病"
+      },
+      "topic": "08_drug_treatment",
+      "slug": "parkinson-disease-drug-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Parkinson’s disease medicines: levodopa, add-on treatments and continuous delivery",
+        "zh": "帕金森病药物怎么选：看懂左旋多巴、辅助药和持续给药"
+      }
+    },
+    {
+      "id": "051-09",
+      "conditionId": "parkinson-disease",
+      "condition": {
+        "en": "Parkinson Disease",
+        "zh": "帕金森病"
+      },
+      "topic": "09_radiation_interventional",
+      "slug": "parkinson-disease-radiation-interventional",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Focused ultrasound and lesion procedures for Parkinson’s disease: targets, bilateral risks and treatment in China",
+        "zh": "帕金森病聚焦超声与局部消融：适用症状、双侧风险和中国就诊核查"
+      }
+    },
+    {
+      "id": "051-10",
+      "conditionId": "parkinson-disease",
+      "condition": {
+        "en": "Parkinson Disease",
+        "zh": "帕金森病"
+      },
+      "topic": "10_outcomes_prognosis",
+      "slug": "parkinson-disease-outcomes-prognosis",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Parkinson’s disease outcomes and prognosis: independence, long-term risks and planning ahead",
+        "zh": "帕金森病治疗效果与预后：怎样讨论生活能力、长期风险和未来安排"
+      }
+    },
+    {
+      "id": "051-11",
+      "conditionId": "parkinson-disease",
+      "condition": {
+        "en": "Parkinson Disease",
+        "zh": "帕金森病"
+      },
+      "topic": "11_relapsed_refractory",
+      "slug": "parkinson-disease-relapsed-refractory",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "When Parkinson’s symptoms worsen again: wearing-off, acute deterioration and next treatment steps",
+        "zh": "帕金森病症状再次加重：药效波动、突然恶化与下一步治疗"
+      }
+    },
+    {
+      "id": "051-12",
+      "conditionId": "parkinson-disease",
+      "condition": {
+        "en": "Parkinson Disease",
+        "zh": "帕金森病"
+      },
+      "topic": "12_new_drugs_trials",
+      "slug": "parkinson-disease-new-drugs-trials",
+      "category": "clinical-trials-advanced-treatments",
+      "titles": {
+        "en": "New Parkinson’s drugs and clinical trials in 2026: evidence, limitations and preparing for assessment in China",
+        "zh": "帕金森病新药与临床试验：2026年进展、证据限制和来中国前的准备"
+      }
+    },
+    {
+      "id": "051-13",
+      "conditionId": "parkinson-disease",
+      "condition": {
+        "en": "Parkinson Disease",
+        "zh": "帕金森病"
+      },
+      "topic": "13_side_effects",
+      "slug": "parkinson-disease-side-effects",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Parkinson’s treatment side effects: dizziness, hallucinations, dyskinesia and new symptoms",
+        "zh": "帕金森病治疗副作用：出现头晕、幻觉、异动或新症状时怎么办"
+      }
+    },
+    {
+      "id": "051-14",
+      "conditionId": "parkinson-disease",
+      "condition": {
+        "en": "Parkinson Disease",
+        "zh": "帕金森病"
+      },
+      "topic": "14_treatment_duration",
+      "slug": "parkinson-disease-treatment-duration",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "How Long Does Parkinson’s Treatment Take? Medication Changes, DBS and Planning a Visit to China",
+        "zh": "帕金森病要治疗多久：调药、脑起搏器和赴华停留时间怎么安排"
+      }
+    },
+    {
+      "id": "051-15",
+      "conditionId": "parkinson-disease",
+      "condition": {
+        "en": "Parkinson Disease",
+        "zh": "帕金森病"
+      },
+      "topic": "15_cost_in_china",
+      "slug": "parkinson-disease-cost-in-china",
+      "category": "cost-insurance-guides",
+      "titles": {
+        "en": "Parkinson’s Treatment Costs in China: Medication, DBS and the Expenses After Treatment",
+        "zh": "帕金森病在中国治疗要多少钱：看懂药物、脑起搏器和长期照护报价"
+      }
+    },
+    {
+      "id": "051-16",
+      "conditionId": "parkinson-disease",
+      "condition": {
+        "en": "Parkinson Disease",
+        "zh": "帕金森病"
+      },
+      "topic": "16_hospital_selection",
+      "slug": "parkinson-disease-hospital-selection",
+      "category": "hospital-guides",
+      "titles": {
+        "en": "Choosing a Parkinson’s Hospital in China: Diagnosis, Procedures and Support at Home",
+        "zh": "帕金森病去中国哪家医院：从诊断、手术能力和回国支持选择团队"
+      }
+    },
+    {
+      "id": "051-17",
+      "conditionId": "parkinson-disease",
+      "condition": {
+        "en": "Parkinson Disease",
+        "zh": "帕金森病"
+      },
+      "topic": "17_who_should_travel_china",
+      "slug": "parkinson-disease-who-should-travel-china",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Can Someone with Parkinson’s Travel to China for Treatment? Readiness, Medicines and Care During the Journey",
+        "zh": "帕金森病患者适合赴华治疗吗：出发前评估病情、用药和旅途照护"
+      }
+    },
+    {
+      "id": "051-18",
+      "conditionId": "parkinson-disease",
+      "condition": {
+        "en": "Parkinson Disease",
+        "zh": "帕金森病"
+      },
+      "topic": "18_medical_records",
+      "slug": "parkinson-disease-medical-records",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Medical Records for Parkinson’s Care in China: Showing Symptoms, Medication Response and Previous Procedures",
+        "zh": "帕金森病赴华就医要准备哪些病历：让医生看清症状、药效和既往操作"
+      }
+    },
+    {
+      "id": "051-19",
+      "conditionId": "parkinson-disease",
+      "condition": {
+        "en": "Parkinson Disease",
+        "zh": "帕金森病"
+      },
+      "topic": "19_follow_up_after_return_home",
+      "slug": "parkinson-disease-follow-up-after-return-home",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Parkinson’s Follow-up After Treatment in China: Prescriptions, Devices and Everyday Function at Home",
+        "zh": "帕金森病在中国治疗后回国怎样随访：从处方交接到装置和日常功能复查"
+      }
+    },
+    {
+      "id": "051-20",
+      "conditionId": "parkinson-disease",
+      "condition": {
+        "en": "Parkinson Disease",
+        "zh": "帕金森病"
+      },
+      "topic": "20_patient_faq",
+      "slug": "parkinson-disease-patient-faq",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "20 Questions About Parkinson’s Treatment: Medicines, DBS, New Therapies and Care in China",
+        "zh": "帕金森病治疗20问：药物、脑起搏器、新疗法与赴华就医"
+      }
+    },
+    {
+      "id": "052-01",
+      "conditionId": "alzheimer-disease",
+      "condition": {
+        "en": "Alzheimer Disease",
+        "zh": "阿尔茨海默病"
+      },
+      "topic": "01_treatment_overview",
+      "slug": "alzheimer-disease-treatment-overview",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Treating Alzheimer's Disease: A Plan for Symptoms, Disease Progression, and Everyday Life",
+        "zh": "阿尔茨海默病怎么治疗：从明确病因到安排长期照护"
+      }
+    },
+    {
+      "id": "052-02",
+      "conditionId": "alzheimer-disease",
+      "condition": {
+        "en": "Alzheimer Disease",
+        "zh": "阿尔茨海默病"
+      },
+      "topic": "02_diagnosis_tests",
+      "slug": "alzheimer-disease-diagnosis-tests",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Tests for Suspected Alzheimer's Disease: What a Memory Clinic Needs to Establish",
+        "zh": "怀疑阿尔茨海默病要做哪些检查：记忆门诊如何一步步查清原因"
+      }
+    },
+    {
+      "id": "052-03",
+      "conditionId": "alzheimer-disease",
+      "condition": {
+        "en": "Alzheimer Disease",
+        "zh": "阿尔茨海默病"
+      },
+      "topic": "03_report_explained",
+      "slug": "alzheimer-disease-report-explained",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Understanding Alzheimer's Test Reports: Cognitive Scores, Atrophy, p-tau, and APOE",
+        "zh": "阿尔茨海默病报告怎么看：量表分数、脑萎缩、p-tau和APOE各代表什么"
+      }
+    },
+    {
+      "id": "052-04",
+      "conditionId": "alzheimer-disease",
+      "condition": {
+        "en": "Alzheimer Disease",
+        "zh": "阿尔茨海默病"
+      },
+      "topic": "04_types_and_risk",
+      "slug": "alzheimer-disease-types-and-risk",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Alzheimer's Stages and Risk: Why Younger Onset, Early Disease, and MCI Differ",
+        "zh": "阿尔茨海默病分期与风险：早发、早期、轻度认知障碍不是一回事"
+      }
+    },
+    {
+      "id": "052-05",
+      "conditionId": "alzheimer-disease",
+      "condition": {
+        "en": "Alzheimer Disease",
+        "zh": "阿尔茨海默病"
+      },
+      "topic": "05_first_line_treatment",
+      "slug": "alzheimer-disease-first-line-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "After an Alzheimer's Diagnosis: Building the First Treatment Plan",
+        "zh": "阿尔茨海默病刚确诊后怎么办：第一次治疗计划应包括哪些事"
+      }
+    },
+    {
+      "id": "052-06",
+      "conditionId": "alzheimer-disease",
+      "condition": {
+        "en": "Alzheimer Disease",
+        "zh": "阿尔茨海默病"
+      },
+      "topic": "06_treatment_comparison",
+      "slug": "alzheimer-disease-treatment-comparison",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Comparing Alzheimer's Treatments: Symptom Medicines, Lecanemab, and Donanemab",
+        "zh": "阿尔茨海默病治疗怎么选：症状药、仑卡奈单抗和多奈单抗如何比较"
+      }
+    },
+    {
+      "id": "052-07",
+      "conditionId": "alzheimer-disease",
+      "condition": {
+        "en": "Alzheimer Disease",
+        "zh": "阿尔茨海默病"
+      },
+      "topic": "07_surgery_procedures",
+      "slug": "alzheimer-disease-surgery-procedures",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Surgery for Alzheimer’s Disease: Understanding Neck Procedures, Brain Stimulation and Other Operations",
+        "zh": "阿尔茨海默病可以手术治疗吗？颈部吻合术、脑深部刺激与就医判断"
+      }
+    },
+    {
+      "id": "052-08",
+      "conditionId": "alzheimer-disease",
+      "condition": {
+        "en": "Alzheimer Disease",
+        "zh": "阿尔茨海默病"
+      },
+      "topic": "08_drug_treatment",
+      "slug": "alzheimer-disease-drug-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Alzheimer’s Disease Medication: Cognitive Symptoms, Antibodies and Treatment of Agitation",
+        "zh": "阿尔茨海默病药物怎么用？认知症状、抗体治疗和激越用药的区别"
+      }
+    },
+    {
+      "id": "052-09",
+      "conditionId": "alzheimer-disease",
+      "condition": {
+        "en": "Alzheimer Disease",
+        "zh": "阿尔茨海默病"
+      },
+      "topic": "09_radiation_interventional",
+      "slug": "alzheimer-disease-radiation-interventional",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Radiation and Device Interventions for Alzheimer’s: Focused Ultrasound, Magnetic Stimulation and Sensory Therapy",
+        "zh": "阿尔茨海默病放疗和介入治疗：聚焦超声、磁刺激与声光设备能做什么"
+      }
+    },
+    {
+      "id": "052-10",
+      "conditionId": "alzheimer-disease",
+      "condition": {
+        "en": "Alzheimer Disease",
+        "zh": "阿尔茨海默病"
+      },
+      "topic": "10_outcomes_prognosis",
+      "slug": "alzheimer-disease-outcomes-prognosis",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Alzheimer’s Disease Prognosis: Treatment Outcomes, Daily Function and Future Care",
+        "zh": "阿尔茨海默病预后怎么看？治疗效果、生活能力与长期照护"
+      }
+    },
+    {
+      "id": "052-11",
+      "conditionId": "alzheimer-disease",
+      "condition": {
+        "en": "Alzheimer Disease",
+        "zh": "阿尔茨海默病"
+      },
+      "topic": "11_relapsed_refractory",
+      "slug": "alzheimer-disease-relapsed-refractory",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Alzheimer’s Getting Worse Despite Treatment: What Should Happen Next?",
+        "zh": "阿尔茨海默病加重怎么办？用药后继续下降与突然恶化的处理"
+      }
+    },
+    {
+      "id": "052-12",
+      "conditionId": "alzheimer-disease",
+      "condition": {
+        "en": "Alzheimer Disease",
+        "zh": "阿尔茨海默病"
+      },
+      "topic": "12_new_drugs_trials",
+      "slug": "alzheimer-disease-new-drugs-trials",
+      "category": "clinical-trials-advanced-treatments",
+      "titles": {
+        "en": "New Alzheimer’s Drugs and Clinical Trials: Interpreting the 2026 Developments",
+        "zh": "阿尔茨海默病新药与临床试验：2026年进展如何影响就医选择"
+      }
+    },
+    {
+      "id": "052-13",
+      "conditionId": "alzheimer-disease",
+      "condition": {
+        "en": "Alzheimer Disease",
+        "zh": "阿尔茨海默病"
+      },
+      "topic": "13_side_effects",
+      "slug": "alzheimer-disease-side-effects",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Alzheimer's Treatment Side Effects: Recognizing Problems and Getting the Right Help",
+        "zh": "阿尔茨海默病治疗副作用：怎样记录、何时联系医生、哪些情况需要急诊"
+      }
+    },
+    {
+      "id": "052-14",
+      "conditionId": "alzheimer-disease",
+      "condition": {
+        "en": "Alzheimer Disease",
+        "zh": "阿尔茨海默病"
+      },
+      "topic": "14_treatment_duration",
+      "slug": "alzheimer-disease-treatment-duration",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "How Long Does Alzheimer's Treatment Last? Reviews, Antibody Therapy, and Planning Care in China",
+        "zh": "阿尔茨海默病要治疗多久？药物复核、抗体疗程与赴华停留安排"
+      }
+    },
+    {
+      "id": "052-15",
+      "conditionId": "alzheimer-disease",
+      "condition": {
+        "en": "Alzheimer Disease",
+        "zh": "阿尔茨海默病"
+      },
+      "topic": "15_cost_in_china",
+      "slug": "alzheimer-disease-cost-in-china",
+      "category": "cost-insurance-guides",
+      "titles": {
+        "en": "Alzheimer's Treatment Costs in China: Building a Budget for Assessment, Medicines, and Care",
+        "zh": "阿尔茨海默病在中国治疗费用：检查、抗体用药与长期照护怎样分别预算"
+      }
+    },
+    {
+      "id": "052-16",
+      "conditionId": "alzheimer-disease",
+      "condition": {
+        "en": "Alzheimer Disease",
+        "zh": "阿尔茨海默病"
+      },
+      "topic": "16_hospital_selection",
+      "slug": "alzheimer-disease-hospital-selection",
+      "category": "hospital-guides",
+      "titles": {
+        "en": "Choosing an Alzheimer's Hospital in China: Memory Assessment, Antibody Treatment, and Care Support",
+        "zh": "阿尔茨海默病在中国如何选医院：记忆门诊、抗体治疗与照护支持"
+      }
+    },
+    {
+      "id": "052-17",
+      "conditionId": "alzheimer-disease",
+      "condition": {
+        "en": "Alzheimer Disease",
+        "zh": "阿尔茨海默病"
+      },
+      "topic": "17_who_should_travel_china",
+      "slug": "alzheimer-disease-who-should-travel-china",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Should Someone With Alzheimer's Disease Travel to China for Care?",
+        "zh": "阿尔茨海默病患者是否适合赴中国就医：先明确目的，再决定行程"
+      }
+    },
+    {
+      "id": "052-18",
+      "conditionId": "alzheimer-disease",
+      "condition": {
+        "en": "Alzheimer Disease",
+        "zh": "阿尔茨海默病"
+      },
+      "topic": "18_medical_records",
+      "slug": "alzheimer-disease-medical-records",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Preparing Alzheimer's Medical Records for a Consultation in China",
+        "zh": "阿尔茨海默病赴华就诊病历清单：怎样让症状、检查与用药记录对得上"
+      }
+    },
+    {
+      "id": "052-19",
+      "conditionId": "alzheimer-disease",
+      "condition": {
+        "en": "Alzheimer Disease",
+        "zh": "阿尔茨海默病"
+      },
+      "topic": "19_follow_up_after_return_home",
+      "slug": "alzheimer-disease-follow-up-after-return-home",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Alzheimer's Follow-up After Care in China: Making the Return-Home Plan Work",
+        "zh": "阿尔茨海默病在中国就诊后如何回国随访：把治疗安排交接到日常生活中"
+      }
+    },
+    {
+      "id": "052-20",
+      "conditionId": "alzheimer-disease",
+      "condition": {
+        "en": "Alzheimer Disease",
+        "zh": "阿尔茨海默病"
+      },
+      "topic": "20_patient_faq",
+      "slug": "alzheimer-disease-patient-faq",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Twenty Questions Families Ask About Alzheimer's Disease and Care in China",
+        "zh": "阿尔茨海默病患者与家属常问的20个问题：诊断、新药和赴华就医"
+      }
+    },
+    {
+      "id": "053-01",
+      "conditionId": "drug-resistant-epilepsy",
+      "condition": {
+        "en": "Drug Resistant Epilepsy",
+        "zh": "药物难治性癫痫"
+      },
+      "topic": "01_treatment_overview",
+      "slug": "drug-resistant-epilepsy-treatment-overview",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Drug-resistant epilepsy treatment: what to do when two suitable medication schedules have not controlled seizures",
+        "zh": "难治性癫痫治疗总览：两种合适药物仍控制不住，下一步怎么走"
+      }
+    },
+    {
+      "id": "053-02",
+      "conditionId": "drug-resistant-epilepsy",
+      "condition": {
+        "en": "Drug Resistant Epilepsy",
+        "zh": "药物难治性癫痫"
+      },
+      "topic": "02_diagnosis_tests",
+      "slug": "drug-resistant-epilepsy-diagnosis-tests",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Tests for drug-resistant epilepsy: confirm the events, investigate the cause, and define treatment options",
+        "zh": "难治性癫痫需要做哪些检查：先确认发作，再寻找病因和治疗机会"
+      }
+    },
+    {
+      "id": "053-03",
+      "conditionId": "drug-resistant-epilepsy",
+      "condition": {
+        "en": "Drug Resistant Epilepsy",
+        "zh": "药物难治性癫痫"
+      },
+      "topic": "03_report_explained",
+      "slug": "drug-resistant-epilepsy-report-explained",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Understanding drug-resistant epilepsy reports: EEG findings, MRI lesions, and the final presurgical opinion",
+        "zh": "难治性癫痫报告怎么看：脑电异常、磁共振病灶和术前结论各说明什么"
+      }
+    },
+    {
+      "id": "053-04",
+      "conditionId": "drug-resistant-epilepsy",
+      "condition": {
+        "en": "Drug Resistant Epilepsy",
+        "zh": "药物难治性癫痫"
+      },
+      "topic": "04_types_and_risk",
+      "slug": "drug-resistant-epilepsy-types-and-risk",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Classifying drug-resistant epilepsy and assessing risk: separate seizure type, syndrome, cause, and treatment response",
+        "zh": "难治性癫痫怎样分型和判断风险：发作类型、综合征与病因要分开看"
+      }
+    },
+    {
+      "id": "053-05",
+      "conditionId": "drug-resistant-epilepsy",
+      "condition": {
+        "en": "Drug Resistant Epilepsy",
+        "zh": "药物难治性癫痫"
+      },
+      "topic": "05_first_line_treatment",
+      "slug": "drug-resistant-epilepsy-first-line-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "The first treatment plan after drug-resistant epilepsy is recognized: agree on changes, monitoring, and referral",
+        "zh": "确认难治性癫痫后先做什么治疗：制定第一份可执行的调整计划"
+      }
+    },
+    {
+      "id": "053-06",
+      "conditionId": "drug-resistant-epilepsy",
+      "condition": {
+        "en": "Drug Resistant Epilepsy",
+        "zh": "药物难治性癫痫"
+      },
+      "topic": "06_treatment_comparison",
+      "slug": "drug-resistant-epilepsy-treatment-comparison",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Comparing drug-resistant epilepsy treatments: medicines, resection, ablation, stimulation, and dietary therapy",
+        "zh": "难治性癫痫治疗怎么比较：药物、切除消融、神经调控和饮食各适合什么情况"
+      }
+    },
+    {
+      "id": "053-07",
+      "conditionId": "drug-resistant-epilepsy",
+      "condition": {
+        "en": "Drug Resistant Epilepsy",
+        "zh": "药物难治性癫痫"
+      },
+      "topic": "07_surgery_procedures",
+      "slug": "drug-resistant-epilepsy-surgery-procedures",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Drug-resistant epilepsy surgery: preparing for evaluation, consent, the procedure and recovery",
+        "zh": "难治性癫痫手术怎么安排：从术前评估、知情选择到出院恢复"
+      }
+    },
+    {
+      "id": "053-08",
+      "conditionId": "drug-resistant-epilepsy",
+      "condition": {
+        "en": "Drug Resistant Epilepsy",
+        "zh": "药物难治性癫痫"
+      },
+      "topic": "08_drug_treatment",
+      "slug": "drug-resistant-epilepsy-drug-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Medication for drug-resistant epilepsy: choosing a regimen, checking newer drugs and planning monitoring",
+        "zh": "难治性癫痫用药如何调整：选药依据、新药边界与长期监测"
+      }
+    },
+    {
+      "id": "053-09",
+      "conditionId": "drug-resistant-epilepsy",
+      "condition": {
+        "en": "Drug Resistant Epilepsy",
+        "zh": "药物难治性癫痫"
+      },
+      "topic": "09_radiation_interventional",
+      "slug": "drug-resistant-epilepsy-radiation-interventional",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "SEEG and focal ablation for drug-resistant epilepsy: how recording, radiofrequency treatment and laser therapy differ",
+        "zh": "难治性癫痫SEEG与局部消融：电极检查、射频热凝和激光治疗如何衔接"
+      }
+    },
+    {
+      "id": "053-10",
+      "conditionId": "drug-resistant-epilepsy",
+      "condition": {
+        "en": "Drug Resistant Epilepsy",
+        "zh": "药物难治性癫痫"
+      },
+      "topic": "10_outcomes_prognosis",
+      "slug": "drug-resistant-epilepsy-outcomes-prognosis",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Prognosis in drug-resistant epilepsy: seizure freedom, meaningful improvement and long-term review",
+        "zh": "难治性癫痫预后怎么看：无发作、减发作、生活质量与长期复评"
+      }
+    },
+    {
+      "id": "053-11",
+      "conditionId": "drug-resistant-epilepsy",
+      "condition": {
+        "en": "Drug Resistant Epilepsy",
+        "zh": "药物难治性癫痫"
+      },
+      "topic": "11_relapsed_refractory",
+      "slug": "drug-resistant-epilepsy-relapsed-refractory",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "When seizures return in drug-resistant epilepsy: medication review, postoperative recurrence and reassessment",
+        "zh": "难治性癫痫再次发作怎么办：药物调整、术后复发与重新评估"
+      }
+    },
+    {
+      "id": "053-12",
+      "conditionId": "drug-resistant-epilepsy",
+      "condition": {
+        "en": "Drug Resistant Epilepsy",
+        "zh": "药物难治性癫痫"
+      },
+      "topic": "12_new_drugs_trials",
+      "slug": "drug-resistant-epilepsy-new-drugs-trials",
+      "category": "clinical-trials-advanced-treatments",
+      "titles": {
+        "en": "New treatments and clinical trials for drug-resistant epilepsy: interpreting the 2026 developments",
+        "zh": "难治性癫痫新药与临床试验：2026年进展怎样联系到个人治疗"
+      }
+    },
+    {
+      "id": "053-13",
+      "conditionId": "drug-resistant-epilepsy",
+      "condition": {
+        "en": "Drug Resistant Epilepsy",
+        "zh": "药物难治性癫痫"
+      },
+      "topic": "13_side_effects",
+      "slug": "drug-resistant-epilepsy-side-effects",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Side effects of drug-resistant epilepsy treatment: recognizing changes and getting the right help",
+        "zh": "难治性癫痫治疗副作用：从身体变化判断何时求助"
+      }
+    },
+    {
+      "id": "053-14",
+      "conditionId": "drug-resistant-epilepsy",
+      "condition": {
+        "en": "Drug Resistant Epilepsy",
+        "zh": "药物难治性癫痫"
+      },
+      "topic": "14_treatment_duration",
+      "slug": "drug-resistant-epilepsy-treatment-duration",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "How long does drug-resistant epilepsy treatment take? Planning medication, procedures, and withdrawal",
+        "zh": "难治性癫痫要治疗多久：用药、手术评估与停药的时间安排"
+      }
+    },
+    {
+      "id": "053-15",
+      "conditionId": "drug-resistant-epilepsy",
+      "condition": {
+        "en": "Drug Resistant Epilepsy",
+        "zh": "药物难治性癫痫"
+      },
+      "topic": "15_cost_in_china",
+      "slug": "drug-resistant-epilepsy-cost-in-china",
+      "category": "cost-insurance-guides",
+      "titles": {
+        "en": "What does drug-resistant epilepsy treatment cost in China? Building a usable estimate",
+        "zh": "难治性癫痫在中国治疗要花多少钱：怎样取得可信的费用估算"
+      }
+    },
+    {
+      "id": "053-16",
+      "conditionId": "drug-resistant-epilepsy",
+      "condition": {
+        "en": "Drug Resistant Epilepsy",
+        "zh": "药物难治性癫痫"
+      },
+      "topic": "16_hospital_selection",
+      "slug": "drug-resistant-epilepsy-hospital-selection",
+      "category": "hospital-guides",
+      "titles": {
+        "en": "Choosing a hospital in China for drug-resistant epilepsy: match the center to the clinical problem",
+        "zh": "难治性癫痫如何选择中国医院：把中心能力与自己的问题对上"
+      }
+    },
+    {
+      "id": "053-17",
+      "conditionId": "drug-resistant-epilepsy",
+      "condition": {
+        "en": "Drug Resistant Epilepsy",
+        "zh": "药物难治性癫痫"
+      },
+      "topic": "17_who_should_travel_china",
+      "slug": "drug-resistant-epilepsy-who-should-travel-china",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Should someone with drug-resistant epilepsy travel to China for care?",
+        "zh": "难治性癫痫患者是否适合来中国就医：先判断医疗价值与旅途可行性"
+      }
+    },
+    {
+      "id": "053-18",
+      "conditionId": "drug-resistant-epilepsy",
+      "condition": {
+        "en": "Drug Resistant Epilepsy",
+        "zh": "药物难治性癫痫"
+      },
+      "topic": "18_medical_records",
+      "slug": "drug-resistant-epilepsy-medical-records",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Medical records for a drug-resistant epilepsy consultation in China: make the history understandable",
+        "zh": "难治性癫痫赴中国就医要准备哪些病历：让医生看懂完整治疗经过"
+      }
+    },
+    {
+      "id": "053-19",
+      "conditionId": "drug-resistant-epilepsy",
+      "condition": {
+        "en": "Drug Resistant Epilepsy",
+        "zh": "药物难治性癫痫"
+      },
+      "topic": "19_follow_up_after_return_home",
+      "slug": "drug-resistant-epilepsy-follow-up-after-return-home",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Follow-up after drug-resistant epilepsy treatment in China: keeping care connected at home",
+        "zh": "难治性癫痫在中国治疗后如何回国随访：让方案有人接、问题有人处理"
+      }
+    },
+    {
+      "id": "053-20",
+      "conditionId": "drug-resistant-epilepsy",
+      "condition": {
+        "en": "Drug Resistant Epilepsy",
+        "zh": "药物难治性癫痫"
+      },
+      "topic": "20_patient_faq",
+      "slug": "drug-resistant-epilepsy-patient-faq",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Twenty questions patients ask about drug-resistant epilepsy and treatment in China",
+        "zh": "难治性癫痫患者常问的20个问题：从治疗选择到中国就医准备"
+      }
+    },
+    {
+      "id": "054-01",
+      "conditionId": "post-ischemic-stroke-rehabilitation",
+      "condition": {
+        "en": "Post Ischemic Stroke Rehabilitation",
+        "zh": "缺血性脑卒中后康复"
+      },
+      "topic": "01_treatment_overview",
+      "slug": "post-ischemic-stroke-rehabilitation-treatment-overview",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Rehabilitation After Ischemic Stroke: From Hospital Therapy to Everyday Life",
+        "zh": "缺血性卒中后康复：从住院训练到重新安排生活"
+      }
+    },
+    {
+      "id": "054-02",
+      "conditionId": "post-ischemic-stroke-rehabilitation",
+      "condition": {
+        "en": "Post Ischemic Stroke Rehabilitation",
+        "zh": "缺血性脑卒中后康复"
+      },
+      "topic": "02_diagnosis_tests",
+      "slug": "post-ischemic-stroke-rehabilitation-diagnosis-tests",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Tests Before Stroke Rehabilitation: Medical Review, Functional Assessment and Preparation",
+        "zh": "脑梗死后做康复前要查什么：检查、功能评估与准备"
+      }
+    },
+    {
+      "id": "054-03",
+      "conditionId": "post-ischemic-stroke-rehabilitation",
+      "condition": {
+        "en": "Post Ischemic Stroke Rehabilitation",
+        "zh": "缺血性脑卒中后康复"
+      },
+      "topic": "03_report_explained",
+      "slug": "post-ischemic-stroke-rehabilitation-report-explained",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Understanding a Stroke Rehabilitation Report: Imaging, Scores and Assistance Needs",
+        "zh": "看懂卒中康复报告：影像、评分和“需要帮助”分别意味着什么"
+      }
+    },
+    {
+      "id": "054-04",
+      "conditionId": "post-ischemic-stroke-rehabilitation",
+      "condition": {
+        "en": "Post Ischemic Stroke Rehabilitation",
+        "zh": "缺血性脑卒中后康复"
+      },
+      "topic": "04_types_and_risk",
+      "slug": "post-ischemic-stroke-rehabilitation-types-and-risk",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "How Stroke Rehabilitation Needs Differ: Cause, Disability and Risk",
+        "zh": "缺血性卒中康复怎样分轻重：病因、功能障碍与风险"
+      }
+    },
+    {
+      "id": "054-05",
+      "conditionId": "post-ischemic-stroke-rehabilitation",
+      "condition": {
+        "en": "Post Ischemic Stroke Rehabilitation",
+        "zh": "缺血性脑卒中后康复"
+      },
+      "topic": "05_first_line_treatment",
+      "slug": "post-ischemic-stroke-rehabilitation-first-line-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Building the Initial Rehabilitation Plan After Ischemic Stroke",
+        "zh": "脑梗死后初始康复方案：先练什么，怎样调整"
+      }
+    },
+    {
+      "id": "054-06",
+      "conditionId": "post-ischemic-stroke-rehabilitation",
+      "condition": {
+        "en": "Post Ischemic Stroke Rehabilitation",
+        "zh": "缺血性脑卒中后康复"
+      },
+      "topic": "06_treatment_comparison",
+      "slug": "post-ischemic-stroke-rehabilitation-treatment-comparison",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Choosing Stroke Rehabilitation Methods: Task Practice, Robotics, Virtual Reality and Home Care",
+        "zh": "卒中康复方法怎么选：任务训练、机器人、虚拟现实与居家治疗"
+      }
+    },
+    {
+      "id": "054-07",
+      "conditionId": "post-ischemic-stroke-rehabilitation",
+      "condition": {
+        "en": "Post Ischemic Stroke Rehabilitation",
+        "zh": "缺血性脑卒中后康复"
+      },
+      "topic": "07_surgery_procedures",
+      "slug": "post-ischemic-stroke-rehabilitation-surgery-procedures",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Is Surgery Needed After Ischemic Stroke? Emergency, Preventive and Rehabilitation Procedures",
+        "zh": "脑梗死后还需要手术吗：急救、预防复发和康复相关操作"
+      }
+    },
+    {
+      "id": "054-08",
+      "conditionId": "post-ischemic-stroke-rehabilitation",
+      "condition": {
+        "en": "Post Ischemic Stroke Rehabilitation",
+        "zh": "缺血性脑卒中后康复"
+      },
+      "topic": "08_drug_treatment",
+      "slug": "post-ischemic-stroke-rehabilitation-drug-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Medicines During Stroke Rehabilitation: Prevention, Symptom Relief and Evidence Limits",
+        "zh": "卒中康复期间吃什么药：预防复发、缓解症状与证据边界"
+      }
+    },
+    {
+      "id": "054-09",
+      "conditionId": "post-ischemic-stroke-rehabilitation",
+      "condition": {
+        "en": "Post Ischemic Stroke Rehabilitation",
+        "zh": "缺血性脑卒中后康复"
+      },
+      "topic": "09_radiation_interventional",
+      "slug": "post-ischemic-stroke-rehabilitation-radiation-interventional",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Stimulation, Local Injections and Brain–Computer Interfaces in Stroke Rehabilitation",
+        "zh": "卒中康复中的刺激治疗、局部注射与脑机接口：适合谁"
+      }
+    },
+    {
+      "id": "054-10",
+      "conditionId": "post-ischemic-stroke-rehabilitation",
+      "condition": {
+        "en": "Post Ischemic Stroke Rehabilitation",
+        "zh": "缺血性脑卒中后康复"
+      },
+      "topic": "10_outcomes_prognosis",
+      "slug": "post-ischemic-stroke-rehabilitation-outcomes-prognosis",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "How Much Recovery Is Possible After Ischemic Stroke? Understanding Prognosis and Progress",
+        "zh": "脑梗死康复能恢复到什么程度：怎样理解预后和进步"
+      }
+    },
+    {
+      "id": "054-11",
+      "conditionId": "post-ischemic-stroke-rehabilitation",
+      "condition": {
+        "en": "Post Ischemic Stroke Rehabilitation",
+        "zh": "缺血性脑卒中后康复"
+      },
+      "topic": "11_relapsed_refractory",
+      "slug": "post-ischemic-stroke-rehabilitation-relapsed-refractory",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Sudden Worsening or Gradual Decline During Stroke Rehabilitation: What Needs Assessment?",
+        "zh": "脑梗死康复中突然变差或逐渐退步：先排查什么"
+      }
+    },
+    {
+      "id": "054-12",
+      "conditionId": "post-ischemic-stroke-rehabilitation",
+      "condition": {
+        "en": "Post Ischemic Stroke Rehabilitation",
+        "zh": "缺血性脑卒中后康复"
+      },
+      "topic": "12_new_drugs_trials",
+      "slug": "post-ischemic-stroke-rehabilitation-new-drugs-trials",
+      "category": "clinical-trials-advanced-treatments",
+      "titles": {
+        "en": "New Drugs, Brain–Computer Interfaces and Clinical Trials in Stroke Rehabilitation",
+        "zh": "脑梗死康复新药、脑机接口与临床试验：怎样判断研究机会"
+      }
+    },
+    {
+      "id": "054-13",
+      "conditionId": "post-ischemic-stroke-rehabilitation",
+      "condition": {
+        "en": "Post Ischemic Stroke Rehabilitation",
+        "zh": "缺血性脑卒中后康复"
+      },
+      "topic": "13_side_effects",
+      "slug": "post-ischemic-stroke-rehabilitation-side-effects",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Discomfort and Treatment Risks During Stroke Rehabilitation: When to Adjust or Seek Help",
+        "zh": "脑梗死康复中的不适和治疗风险：哪些情况需要调整或就医"
+      }
+    },
+    {
+      "id": "054-14",
+      "conditionId": "post-ischemic-stroke-rehabilitation",
+      "condition": {
+        "en": "Post Ischemic Stroke Rehabilitation",
+        "zh": "缺血性脑卒中后康复"
+      },
+      "topic": "14_treatment_duration",
+      "slug": "post-ischemic-stroke-rehabilitation-treatment-duration",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "How Long Does Stroke Rehabilitation Take? Connecting Hospital, Outpatient and Home Care",
+        "zh": "脑梗死康复要做多久：住院、门诊和居家阶段怎样衔接"
+      }
+    },
+    {
+      "id": "054-15",
+      "conditionId": "post-ischemic-stroke-rehabilitation",
+      "condition": {
+        "en": "Post Ischemic Stroke Rehabilitation",
+        "zh": "缺血性脑卒中后康复"
+      },
+      "topic": "15_cost_in_china",
+      "slug": "post-ischemic-stroke-rehabilitation-cost-in-china",
+      "category": "cost-insurance-guides",
+      "titles": {
+        "en": "Stroke Rehabilitation Costs in China: Building an Itemized RMB Budget",
+        "zh": "脑梗死在中国做康复多少钱：如何核对人民币分项预算"
+      }
+    },
+    {
+      "id": "054-16",
+      "conditionId": "post-ischemic-stroke-rehabilitation",
+      "condition": {
+        "en": "Post Ischemic Stroke Rehabilitation",
+        "zh": "缺血性脑卒中后康复"
+      },
+      "topic": "16_hospital_selection",
+      "slug": "post-ischemic-stroke-rehabilitation-hospital-selection",
+      "category": "hospital-guides",
+      "titles": {
+        "en": "Choosing a Stroke Rehabilitation Hospital in China: Match the Team to Your Needs",
+        "zh": "脑梗死康复在中国如何选医院：按功能需求核对团队与服务"
+      }
+    },
+    {
+      "id": "054-17",
+      "conditionId": "post-ischemic-stroke-rehabilitation",
+      "condition": {
+        "en": "Post Ischemic Stroke Rehabilitation",
+        "zh": "缺血性脑卒中后康复"
+      },
+      "topic": "17_who_should_travel_china",
+      "slug": "post-ischemic-stroke-rehabilitation-who-should-travel-china",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Who should travel to China for stroke rehabilitation? Assessing need and travel readiness",
+        "zh": "脑梗死后谁适合来中国康复：出行评估与接诊准备"
+      }
+    },
+    {
+      "id": "054-18",
+      "conditionId": "post-ischemic-stroke-rehabilitation",
+      "condition": {
+        "en": "Post Ischemic Stroke Rehabilitation",
+        "zh": "缺血性脑卒中后康复"
+      },
+      "topic": "18_medical_records",
+      "slug": "post-ischemic-stroke-rehabilitation-medical-records",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Preparing records for stroke rehabilitation in China: Imaging, medicines and function",
+        "zh": "脑梗死康复就医资料怎么准备：影像、用药与功能记录"
+      }
+    },
+    {
+      "id": "054-19",
+      "conditionId": "post-ischemic-stroke-rehabilitation",
+      "condition": {
+        "en": "Post Ischemic Stroke Rehabilitation",
+        "zh": "缺血性脑卒中后康复"
+      },
+      "topic": "19_follow_up_after_return_home",
+      "slug": "post-ischemic-stroke-rehabilitation-follow-up-after-return-home",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "After stroke rehabilitation in China: Continuing care and recovery at home",
+        "zh": "脑梗死康复回国后怎么办：用药、训练与长期随访"
+      }
+    },
+    {
+      "id": "054-20",
+      "conditionId": "post-ischemic-stroke-rehabilitation",
+      "condition": {
+        "en": "Post Ischemic Stroke Rehabilitation",
+        "zh": "缺血性脑卒中后康复"
+      },
+      "topic": "20_patient_faq",
+      "slug": "post-ischemic-stroke-rehabilitation-patient-faq",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Twenty patient questions about ischemic stroke rehabilitation and care in China",
+        "zh": "脑梗死康复患者常见20问：训练、药物与中国就医"
+      }
+    },
+    {
+      "id": "055-01",
+      "conditionId": "multiple-sclerosis",
+      "condition": {
+        "en": "Multiple Sclerosis",
+        "zh": "多发性硬化"
+      },
+      "topic": "01_treatment_overview",
+      "slug": "multiple-sclerosis-treatment-overview",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Multiple sclerosis treatment: building a plan for attacks, progression, and everyday function",
+        "zh": "多发性硬化治疗总览：先确认诊断，再把复发、进展和日常功能分开处理"
+      }
+    },
+    {
+      "id": "055-02",
+      "conditionId": "multiple-sclerosis",
+      "condition": {
+        "en": "Multiple Sclerosis",
+        "zh": "多发性硬化"
+      },
+      "topic": "02_diagnosis_tests",
+      "slug": "multiple-sclerosis-diagnosis-tests",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Tests for suspected multiple sclerosis: preparing for MRI, spinal-fluid testing, and specialist review",
+        "zh": "怀疑多发性硬化要做哪些检查：从病史、磁共振到脑脊液的就诊准备"
+      }
+    },
+    {
+      "id": "055-03",
+      "conditionId": "multiple-sclerosis",
+      "condition": {
+        "en": "Multiple Sclerosis",
+        "zh": "多发性硬化"
+      },
+      "topic": "03_report_explained",
+      "slug": "multiple-sclerosis-report-explained",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Understanding an MS report: MRI lesions, spinal-fluid results, and functional measurements",
+        "zh": "多发性硬化报告怎么看：磁共振病灶、脑脊液和功能评分分别说明什么"
+      }
+    },
+    {
+      "id": "055-04",
+      "conditionId": "multiple-sclerosis",
+      "condition": {
+        "en": "Multiple Sclerosis",
+        "zh": "多发性硬化"
+      },
+      "topic": "04_types_and_risk",
+      "slug": "multiple-sclerosis-types-and-risk",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Types of multiple sclerosis and personal risk: what relapses and progression change",
+        "zh": "多发性硬化有哪些类型：复发、进展与个人风险怎样影响治疗"
+      }
+    },
+    {
+      "id": "055-05",
+      "conditionId": "multiple-sclerosis",
+      "condition": {
+        "en": "Multiple Sclerosis",
+        "zh": "多发性硬化"
+      },
+      "topic": "05_first_line_treatment",
+      "slug": "multiple-sclerosis-first-line-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Choosing the first MS treatment: turning an initial prescription into a workable plan",
+        "zh": "多发性硬化首次治疗怎么选：从第一张处方到能够长期执行的方案"
+      }
+    },
+    {
+      "id": "055-06",
+      "conditionId": "multiple-sclerosis",
+      "condition": {
+        "en": "Multiple Sclerosis",
+        "zh": "多发性硬化"
+      },
+      "topic": "06_treatment_comparison",
+      "slug": "multiple-sclerosis-treatment-comparison",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Comparing MS treatment plans: medicines, transplantation, rehabilitation, and the outcomes that matter",
+        "zh": "多发性硬化治疗方案比较：怎样判断药物、移植和康复各自的价值"
+      }
+    },
+    {
+      "id": "055-07",
+      "conditionId": "multiple-sclerosis",
+      "condition": {
+        "en": "Multiple Sclerosis",
+        "zh": "多发性硬化"
+      },
+      "topic": "07_surgery_procedures",
+      "slug": "multiple-sclerosis-surgery-procedures",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Procedures for multiple sclerosis: plasma exchange, AHSCT, and preparation before treatment",
+        "zh": "多发性硬化需要手术或移植吗：血浆置换、AHSCT与操作前评估"
+      }
+    },
+    {
+      "id": "055-08",
+      "conditionId": "multiple-sclerosis",
+      "condition": {
+        "en": "Multiple Sclerosis",
+        "zh": "多发性硬化"
+      },
+      "topic": "08_drug_treatment",
+      "slug": "multiple-sclerosis-drug-treatment",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Medicines for multiple sclerosis: DMT options, monitoring, and planned transitions",
+        "zh": "多发性硬化药物治疗：认识不同DMT，以及开始、监测和停换药的要点"
+      }
+    },
+    {
+      "id": "055-09",
+      "conditionId": "multiple-sclerosis",
+      "condition": {
+        "en": "Multiple Sclerosis",
+        "zh": "多发性硬化"
+      },
+      "topic": "09_radiation_interventional",
+      "slug": "multiple-sclerosis-radiation-interventional",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Radiation and interventional procedures for multiple sclerosis: choosing a specific treatment target",
+        "zh": "多发性硬化需要放疗或介入吗：从面痛、痉挛到膀胱问题逐项判断"
+      }
+    },
+    {
+      "id": "055-10",
+      "conditionId": "multiple-sclerosis",
+      "condition": {
+        "en": "Multiple Sclerosis",
+        "zh": "多发性硬化"
+      },
+      "topic": "10_outcomes_prognosis",
+      "slug": "multiple-sclerosis-outcomes-prognosis",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Understanding multiple sclerosis prognosis: survival, independence and treatment response",
+        "zh": "多发性硬化预后怎么看：寿命、行走能力和治疗效果不能用同一个数字回答"
+      }
+    },
+    {
+      "id": "055-11",
+      "conditionId": "multiple-sclerosis",
+      "condition": {
+        "en": "Multiple Sclerosis",
+        "zh": "多发性硬化"
+      },
+      "topic": "11_relapsed_refractory",
+      "slug": "multiple-sclerosis-relapsed-refractory",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Relapse or inadequate response in multiple sclerosis: managing the episode and the next treatment decision",
+        "zh": "多发性硬化复发或疗效不足后怎么办：先处理这次变化，再安排长期方案"
+      }
+    },
+    {
+      "id": "055-12",
+      "conditionId": "multiple-sclerosis",
+      "condition": {
+        "en": "Multiple Sclerosis",
+        "zh": "多发性硬化"
+      },
+      "topic": "12_new_drugs_trials",
+      "slug": "multiple-sclerosis-new-drugs-trials",
+      "category": "clinical-trials-advanced-treatments",
+      "titles": {
+        "en": "New multiple sclerosis medicines and clinical trials: interpreting developments in 2026",
+        "zh": "多发性硬化新药与临床试验：2026年进展中，哪些信息会改变患者选择"
+      }
+    },
+    {
+      "id": "055-13",
+      "conditionId": "multiple-sclerosis",
+      "condition": {
+        "en": "Multiple Sclerosis",
+        "zh": "多发性硬化"
+      },
+      "topic": "13_side_effects",
+      "slug": "multiple-sclerosis-side-effects",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "Managing adverse effects of multiple sclerosis treatment: symptoms, tests and timely help",
+        "zh": "多发性硬化治疗不良反应：出现不舒服后，怎样判断和联系医生"
+      }
+    },
+    {
+      "id": "055-14",
+      "conditionId": "multiple-sclerosis",
+      "condition": {
+        "en": "Multiple Sclerosis",
+        "zh": "多发性硬化"
+      },
+      "topic": "14_treatment_duration",
+      "slug": "multiple-sclerosis-treatment-duration",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "How long does multiple sclerosis treatment last? Dosing schedules, review and stopping decisions",
+        "zh": "多发性硬化要治疗多久：给药周期、长期管理与停药评估"
+      }
+    },
+    {
+      "id": "055-15",
+      "conditionId": "multiple-sclerosis",
+      "condition": {
+        "en": "Multiple Sclerosis",
+        "zh": "多发性硬化"
+      },
+      "topic": "15_cost_in_china",
+      "slug": "multiple-sclerosis-cost-in-china",
+      "category": "cost-insurance-guides",
+      "titles": {
+        "en": "Multiple sclerosis treatment costs in China: building a useful personal estimate",
+        "zh": "多发性硬化在中国治疗多少钱：把诊断、长期用药和个人支付分开核算"
+      }
+    },
+    {
+      "id": "055-16",
+      "conditionId": "multiple-sclerosis",
+      "condition": {
+        "en": "Multiple Sclerosis",
+        "zh": "多发性硬化"
+      },
+      "topic": "16_hospital_selection",
+      "slug": "multiple-sclerosis-hospital-selection",
+      "category": "hospital-guides",
+      "titles": {
+        "en": "Choosing a hospital in China for multiple sclerosis: matching the team to the full course of care",
+        "zh": "多发性硬化来中国如何选医院：看神经免疫团队能否接住整个治疗过程"
+      }
+    },
+    {
+      "id": "055-17",
+      "conditionId": "multiple-sclerosis",
+      "condition": {
+        "en": "Multiple Sclerosis",
+        "zh": "多发性硬化"
+      },
+      "topic": "17_who_should_travel_china",
+      "slug": "multiple-sclerosis-who-should-travel-china",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Is Travel to China Appropriate for Multiple Sclerosis Care? Planning Around Your Treatment",
+        "zh": "多发性硬化患者是否适合来中国就诊：把旅程放进治疗安排"
+      }
+    },
+    {
+      "id": "055-18",
+      "conditionId": "multiple-sclerosis",
+      "condition": {
+        "en": "Multiple Sclerosis",
+        "zh": "多发性硬化"
+      },
+      "topic": "18_medical_records",
+      "slug": "multiple-sclerosis-medical-records",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Medical Records for an MS Consultation in China: Showing How the Disease Has Changed",
+        "zh": "多发性硬化来中国就诊要带哪些病历：让医生看见病情如何变化"
+      }
+    },
+    {
+      "id": "055-19",
+      "conditionId": "multiple-sclerosis",
+      "condition": {
+        "en": "Multiple Sclerosis",
+        "zh": "多发性硬化"
+      },
+      "topic": "19_follow_up_after_return_home",
+      "slug": "multiple-sclerosis-follow-up-after-return-home",
+      "category": "patient-journey-guides",
+      "titles": {
+        "en": "Follow-Up After Multiple Sclerosis Care in China: Connecting Results to Decisions",
+        "zh": "多发性硬化在中国就诊后如何随访：把检查结果接到下一步行动"
+      }
+    },
+    {
+      "id": "056-01",
+      "conditionId": "amyotrophic-lateral-sclerosis",
+      "condition": {
+        "en": "Amyotrophic Lateral Sclerosis",
+        "zh": "肌萎缩侧索硬化"
+      },
+      "topic": "01_treatment_overview",
+      "slug": "amyotrophic-lateral-sclerosis-treatment-overview",
+      "category": "treatment-guides",
+      "titles": {
+        "en": "ALS Treatment in China: Medicines, Breathing Support, and Everyday Care",
+        "zh": "肌萎缩侧索硬化治疗指南：药物、呼吸支持与赴中国就医安排"
+      }
+    },
+    {
+      "id": "056-02",
+      "conditionId": "amyotrophic-lateral-sclerosis",
+      "condition": {
+        "en": "Amyotrophic Lateral Sclerosis",
+        "zh": "肌萎缩侧索硬化"
+      },
+      "topic": "02_diagnosis_tests",
+      "slug": "amyotrophic-lateral-sclerosis-diagnosis-tests",
+      "category": "patient-education-faq",
+      "titles": {
+        "en": "Tests for Suspected ALS: What Examination, EMG, Imaging, and Genetics Can Establish",
+        "zh": "怀疑肌萎缩侧索硬化要做哪些检查？从查体、肌电图到遗传检测"
+      }
+    }
+  ]
+}

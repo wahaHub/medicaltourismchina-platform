@@ -1,6 +1,9 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 import process from "node:process";
+import { stripGuideEditorialSections } from "../src/lib/guide-markdown.mjs";
+import { parseGuideMetadata, mergeLocalizedText, makeExcerpt } from "../src/lib/guide-metadata.mjs";
+import { parseGuideFilename } from "../src/lib/guide-locales.mjs";
 
 const PROJECT_ROOT = path.resolve(import.meta.dirname, "..");
 
@@ -18,6 +21,9 @@ const EXTERNAL_SOURCE_DIR = path.resolve(
 const PUBLIC_GUIDES_DIR = path.join(PROJECT_ROOT, "public", "guides");
 const MANIFEST_PATH = path.join(PROJECT_ROOT, "src", "data", "guides-manifest.json");
 const SEO_MANIFEST_PATH = path.join(PROJECT_ROOT, "src", "data", "guides-seo-manifest.json");
+const ROUTE_AVAILABILITY_PATH = path.join(PROJECT_ROOT, "src", "data", "guide-route-availability.json");
+const LOCALE_AVAILABILITY_PATH = path.join(PROJECT_ROOT, "src", "data", "guide-locale-availability.json");
+const CONDITION_TRANSLATIONS_PATH = path.join(PROJECT_ROOT, "src", "data", "guide-condition-translations.json");
 const TRANSLATIONS_PATH = path.join(PROJECT_ROOT, "src", "data", "guides-translations.json");
 
 const CATEGORY_IMAGES = {
@@ -52,84 +58,6 @@ function toTitle(value) {
     .join(" ");
 }
 
-function parseHero(markdown) {
-  const lines = markdown.split(/\r?\n/);
-  const hero = {
-    title: "",
-    subtitle: "",
-    category: "",
-    subcategory: "",
-    updatedDate: "",
-    reviewedBy: "",
-  };
-
-  let inHero = false;
-  for (const line of lines) {
-    const trimmed = line.trim();
-    if (trimmed === "## Hero") {
-      inHero = true;
-      continue;
-    }
-    if (inHero && trimmed.startsWith("## ") && trimmed !== "## Hero") {
-      break;
-    }
-    if (!inHero) continue;
-
-    const match = trimmed.match(/^-\s*\*\*(.+?):\s*\*\*\s*(.*)$/);
-    if (!match) continue;
-    const key = match[1].trim().toLowerCase();
-    const value = match[2].trim().replace(/^`+|`+$/g, "").trim();
-    if (key === "title") hero.title = value;
-    if (key === "subtitle") hero.subtitle = value;
-    if (key === "category") hero.category = value;
-    if (key === "subcategory") hero.subcategory = value;
-    if (key === "updated date") hero.updatedDate = value;
-    if (key === "reviewed by") hero.reviewedBy = value;
-  }
-
-  // Fallback title from first H1 if Hero title missing
-  if (!hero.title) {
-    const h1Match = markdown.match(/^#\s+\d*\s*(.+)$/m);
-    if (h1Match) hero.title = h1Match[1].trim();
-  }
-
-  return hero;
-}
-
-function parseSeoMetadata(markdown) {
-  const metadata = { title: "", description: "" };
-  let inSeoMetadata = false;
-  for (const line of markdown.split(/\r?\n/)) {
-    if (line.trim() === "## SEO Metadata") {
-      inSeoMetadata = true;
-      continue;
-    }
-    if (inSeoMetadata && /^##\s/.test(line.trim())) break;
-    if (!inSeoMetadata) continue;
-    const match = line.trim().match(/^[-*]\s+\*\*(Meta title|Meta description):\*\*\s*(.+)$/i);
-    if (!match) continue;
-    if (match[1].toLowerCase() === "meta title") metadata.title = match[2].trim();
-    if (match[1].toLowerCase() === "meta description") metadata.description = match[2].trim();
-  }
-  return metadata;
-}
-
-function makeExcerpt(markdown, fallback) {
-  const contentMatch = markdown.match(/## Content\s*\n([\s\S]*?)(?:\n## |\n# |\Z)/);
-  if (contentMatch) {
-    const text = contentMatch[1]
-      .replace(/\[\d+\]/g, "")
-      .replace(/[#*_`\[\]\(\)]/g, "")
-      .replace(/\s+/g, " ")
-      .trim();
-    if (text.length > 20) {
-      const sentence = text.split(/(?<=[.!?])\s+/)[0];
-      return sentence.length > 220 ? `${sentence.slice(0, 219).trim()}…` : sentence;
-    }
-  }
-  return fallback || "";
-}
-
 function estimateReadTimeMinutes(markdown, locale) {
   const plain = String(markdown || "")
     .replace(/!\[[^\]]*\]\([^)]*\)/g, " ")
@@ -162,17 +90,6 @@ async function loadTranslations() {
   } catch {
     return { categories: {}, guides: {} };
   }
-}
-
-function mergeLocalizedText(base, translated) {
-  const merged = { ...base };
-  if (!translated || typeof translated !== "object") return merged;
-  for (const [locale, value] of Object.entries(translated)) {
-    if (typeof value === "string" && value.trim()) {
-      merged[locale] = value;
-    }
-  }
-  return merged;
 }
 
 async function directoryExists(dir) {
@@ -253,8 +170,15 @@ async function buildManifest() {
   }
 
   const translations = await loadTranslations();
+  const conditionTranslations = JSON.parse(await fs.readFile(CONDITION_TRANSLATIONS_PATH, "utf8"));
+  const importInventoryPath = path.join(PROJECT_ROOT, 'content-imports/2026-09-09-new-305/inventory.json');
+  const importedArticles = await fileExists(importInventoryPath)
+    ? JSON.parse(await fs.readFile(importInventoryPath, 'utf8')).articles : [];
+  const importedBySlug = new Map(importedArticles.map((article) => [article.slug, article]));
   const categories = [];
   const seoGuides = {};
+  const availableLocales = new Set();
+  const routeAvailability = {};
   const categoryDirs = (await fs.readdir(PUBLIC_GUIDES_DIR, { withFileTypes: true }))
     .filter((entry) => entry.isDirectory() && !entry.name.startsWith("_"))
     .map((entry) => entry.name)
@@ -269,12 +193,24 @@ async function buildManifest() {
     const guideMap = new Map();
 
     for (const file of files) {
-      const base = file.replace(/\.zh\.md$/, "").replace(/\.md$/, "");
-      const isZh = file.endsWith(".zh.md");
-      const locale = isZh ? "zh" : "en";
-      const markdown = await fs.readFile(path.join(categoryPath, file), "utf8");
-      const hero = parseHero(markdown);
-      const seo = parseSeoMetadata(markdown);
+      const { slug: base, locale } = parseGuideFilename(file);
+      const markdownPath = path.join(categoryPath, file);
+      const originalMarkdown = await fs.readFile(markdownPath, "utf8");
+      const markdown = stripGuideEditorialSections(originalMarkdown);
+      // Clean committed assets and any newly imported external drafts before
+      // Vite copies them into dist; retain SEO metadata for manifest extraction.
+      if (markdown !== originalMarkdown) {
+        await fs.writeFile(markdownPath, markdown.replace(/\n+$/, "\n"));
+      }
+      const { hero, seo, excerpt } = parseGuideMetadata(markdown);
+      // Count actual patient prose, never title dictionaries or metadata-only
+      // source stubs. Static pages can import this tiny array independently.
+      if (makeExcerpt(markdown)) {
+        availableLocales.add(locale);
+        const routeKey = `${categorySlug}/${base}`;
+        const routeLocales = routeAvailability[routeKey] ||= [];
+        if (!routeLocales.includes(locale)) routeLocales.push(locale);
+      }
 
       let guide = guideMap.get(base);
       if (!guide) {
@@ -289,6 +225,13 @@ async function buildManifest() {
           readTimeMinutes: 0,
         };
         guideMap.set(base, guide);
+        const imported = importedBySlug.get(base);
+        if (imported) {
+          guide.conditionId = imported.conditionId;
+          guide.condition = mergeLocalizedText(imported.condition, conditionTranslations[imported.conditionId]);
+          guide.topic = imported.topic;
+          guide.importBatch = '2026-09-09-new-305';
+        }
       }
 
       guide.title[locale] = hero.title;
@@ -302,7 +245,7 @@ async function buildManifest() {
       guide.updatedDate = hero.updatedDate || guide.updatedDate;
       if (!guide.locales.includes(locale)) guide.locales.push(locale);
       if (!guide.excerpt) {
-        guide.excerpt = makeExcerpt(markdown, hero.subtitle);
+        guide.excerpt = excerpt;
       }
       const readTime = estimateReadTimeMinutes(markdown, locale);
       if (!guide.readTimeMinutes || (locale === "en" && readTime > 0)) {
@@ -346,12 +289,17 @@ async function buildManifest() {
   await fs.mkdir(path.dirname(MANIFEST_PATH), { recursive: true });
   await fs.writeFile(MANIFEST_PATH, JSON.stringify(manifest, null, 2));
   await fs.writeFile(SEO_MANIFEST_PATH, JSON.stringify({ guides: seoGuides }, null, 2));
+  await fs.writeFile(LOCALE_AVAILABILITY_PATH, `${JSON.stringify([...availableLocales].sort())}\n`);
+  for (const locales of Object.values(routeAvailability)) locales.sort();
+  await fs.writeFile(ROUTE_AVAILABILITY_PATH, `${JSON.stringify(routeAvailability)}\n`);
   console.log(`[guides] Manifest written with ${categories.length} categories`);
 }
 
 async function main() {
   const sourceAvailable = await directoryExists(EXTERNAL_SOURCE_DIR);
-  if (sourceAvailable) {
+  // An ordinary build must not delete new imports or translations just because
+  // an old external drafting folder happens to be present on this machine.
+  if (sourceAvailable && process.argv.includes('--import-legacy-source')) {
     await copyMarkdownFromSource();
   }
   await buildManifest();

@@ -6,10 +6,13 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import GuideCard, { type GuideCardGuide } from "@/components/guides/GuideCard";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { setPageSeo } from "@/utils/seo";
+import { setPageSeo, SITE_ORIGIN } from "@/utils/seo";
 import { getStaticPageMetadata } from "@/seo/static-page";
 import guidesManifest from "@/data/guides-manifest.json";
 import { cn } from "@/lib/utils";
+import { GUIDE_LABELS } from "@/lib/guide-locales.mjs";
+
+import { GUIDE_AREAS, AREA_LABEL, ALL_AREAS_LABEL, TYPE_LABEL, guideHealthArea } from "@/lib/guide-taxonomy.mjs";
 
 const CATEGORY_ICONS: Record<string, React.ComponentType<{ className?: string }>> = {
   "china-healthcare-guides": ShieldCheck,
@@ -64,9 +67,28 @@ export default function Guides() {
   const [searchQuery, setSearchQuery] = useState("");
   const [activeCategory, setActiveCategory] = useState<string | null>(null);
   const [sortBy, setSortBy] = useState<"recent" | "title">("recent");
+  const [conditionId, setConditionId] = useState('');
+  const [healthArea, setHealthArea] = useState('');
+  const [visibleCount, setVisibleCount] = useState(24);
+  const labels = GUIDE_LABELS[locale];
+  useEffect(() => setVisibleCount(24), [searchQuery, activeCategory, conditionId, healthArea, sortBy, locale]);
 
   useEffect(() => {
     const metadata = getStaticPageMetadata("guides", currentLanguage.code);
+    const ownLocale = categories.flatMap((category) => category.guides
+      .filter((guide) => guide.locales.includes(locale))
+      .map((guide) => ({ guide, category, contentLocale: locale })));
+    const entries = ownLocale.length ? ownLocale : categories.flatMap((category) => category.guides
+      .filter((guide) => guide.locales.includes("en"))
+      .map((guide) => ({ guide, category, contentLocale: "en" })));
+    const canonical = `${SITE_ORIGIN}${locale === "en" ? "" : `/${locale}`}/guides`;
+    const itemList = {
+      "@type": "ItemList", "@id": `${canonical}#list`, numberOfItems: entries.length,
+      itemListElement: entries.map(({ guide, category, contentLocale }, index) => ({
+        "@type": "ListItem", position: index + 1, name: guide.title[contentLocale] || guide.slug,
+        url: `${SITE_ORIGIN}${contentLocale === "en" ? "" : `/${contentLocale}`}/guides/${category.slug}/${guide.slug}`,
+      })),
+    };
     setPageSeo({
       title: metadata.locale.title,
       description: metadata.locale.description,
@@ -74,8 +96,14 @@ export default function Guides() {
       robots: metadata.indexable ? "index,follow" : "noindex,follow",
       includeAlternates: metadata.indexable,
       availableLocales: metadata.indexableLocales,
+      structuredData: { "@context": "https://schema.org", "@graph": [
+        { "@type": "CollectionPage", "@id": canonical, url: canonical,
+          name: metadata.locale.title, description: metadata.locale.description,
+          inLanguage: locale === "zh" ? "zh-Hans" : locale,
+          mainEntity: { "@id": itemList["@id"] } }, itemList,
+      ] },
     });
-  }, [currentLanguage.code]);
+  }, [currentLanguage.code, locale, categories]);
 
   const allGuides = useMemo<FlatGuide[]>(() => {
     return categories.flatMap((category) =>
@@ -91,15 +119,20 @@ export default function Guides() {
   const categoryCounts = useMemo(() => {
     const counts = new Map<string, number>();
     for (const category of categories) {
-      counts.set(category.slug, category.guides.length);
+      counts.set(category.slug, category.guides.filter(guide => (!healthArea || guideHealthArea(guide) === healthArea) && (!conditionId || guide.conditionId === conditionId)).length);
     }
     return counts;
-  }, [categories]);
+  }, [categories, healthArea, conditionId]);
+  const conditions = useMemo(() => [...new Map(allGuides.filter((g) => g.conditionId && (!healthArea || guideHealthArea(g) === healthArea))
+    .map((g) => [g.conditionId, { id: g.conditionId, name: pickLocalized(g.condition, locale) }])).values()]
+    .sort((a, b) => a.name.localeCompare(b.name, locale)), [allGuides, locale, healthArea]);
 
   const filteredGuides = useMemo(() => {
     const query = searchQuery.trim().toLowerCase();
     const filtered = allGuides.filter((guide) => {
+      if (healthArea && guideHealthArea(guide) !== healthArea) return false;
       if (activeCategory && guide.categorySlug !== activeCategory) return false;
+      if (conditionId && guide.conditionId !== conditionId) return false;
       if (!query) return true;
       const localizedTitle = pickLocalized(guide.title, locale).toLowerCase();
       const localizedSubtitle = pickLocalized(guide.subtitle, locale).toLowerCase();
@@ -122,12 +155,14 @@ export default function Guides() {
       sorted.sort((a, b) => parseGuideDate(b.updatedDate) - parseGuideDate(a.updatedDate));
     }
     return sorted;
-  }, [activeCategory, allGuides, locale, searchQuery, sortBy]);
+  }, [activeCategory, allGuides, locale, searchQuery, sortBy, conditionId, healthArea]);
 
   const resetFilters = () => {
     setSearchQuery("");
     setActiveCategory(null);
     setSortBy("recent");
+    setConditionId('');
+    setHealthArea('');
   };
 
   return (
@@ -187,8 +222,26 @@ export default function Guides() {
                   />
                 </div>
 
+                <fieldset className="mb-5">
+                  <legend className="mb-2 text-sm font-semibold text-slate-700">{AREA_LABEL[locale]}</legend>
+                  <div className="space-y-1">
+                    {[{id: '', label: ALL_AREAS_LABEL}, ...GUIDE_AREAS].map((area) => (
+                      <button key={area.id} type="button" aria-pressed={healthArea === area.id}
+                        onClick={() => { setHealthArea(area.id); setConditionId(''); }}
+                        className={cn("flex w-full items-center justify-between gap-2 rounded-lg px-3 py-2 text-start text-sm", healthArea === area.id ? "bg-teal-50 font-semibold text-teal-800" : "text-slate-700 hover:bg-slate-50")}>
+                        <span>{area.label[locale]}</span>
+                        <span className="text-xs text-slate-500">{allGuides.filter(g => !area.id || guideHealthArea(g) === area.id).length}</span>
+                      </button>
+                    ))}
+                  </div>
+                </fieldset>
+                <label htmlFor="guides-condition" className="mb-2 mt-5 block text-sm font-semibold text-slate-700">{labels[6]}</label>
+                <select id="guides-condition" value={conditionId} onChange={(event) => setConditionId(event.target.value)} className="mb-5 w-full rounded-lg border border-slate-200 bg-white p-2 text-sm">
+                  <option value="">{labels[7]}</option>
+                  {conditions.map((condition) => <option key={condition.id} value={condition.id}>{condition.name}</option>)}
+                </select>
                 <h3 className="mb-3 text-xs font-semibold uppercase tracking-wide text-slate-500">
-                  {t("guides.categoriesTitle")}
+                  {TYPE_LABEL[locale]}
                 </h3>
                 <ul className="space-y-1">
                   {categories.map((category) => {
@@ -198,6 +251,7 @@ export default function Guides() {
                       <li key={category.slug}>
                         <button
                           type="button"
+                          aria-pressed={isActive}
                           onClick={() => setActiveCategory(isActive ? null : category.slug)}
                           className={cn(
                             "flex w-full items-center gap-3 rounded-lg px-3 py-2.5 text-left text-sm transition-colors",
@@ -235,12 +289,13 @@ export default function Guides() {
               <div className="mb-6 flex flex-wrap items-end justify-between gap-4">
                 <div>
                   <h2 className="text-2xl font-semibold text-slate-900">
+                    {healthArea && <>{GUIDE_AREAS.find(area => area.id === healthArea)?.label[locale]}{activeCategory ? " · " : ""}</>}
                     {activeCategory
                       ? pickLocalized(
                           categories.find((category) => category.slug === activeCategory)?.title,
                           locale,
                         )
-                      : t("guides.allGuides")}
+                      : healthArea ? null : t("guides.allGuides")}
                   </h2>
                   <p className="mt-1 text-sm text-slate-500">
                     {t("guides.guidesFound", { count: filteredGuides.length })}
@@ -264,7 +319,7 @@ export default function Guides() {
 
               {filteredGuides.length > 0 ? (
                 <div className="grid gap-6 md:grid-cols-2">
-                  {filteredGuides.map((guide) => (
+                  {filteredGuides.slice(0, visibleCount).map((guide) => (
                     <GuideCard
                       key={`${guide.categorySlug}/${guide.slug}`}
                       guide={guide}
@@ -284,6 +339,7 @@ export default function Guides() {
                   <p className="text-slate-600">{t("guides.noGuides")}</p>
                 </div>
               )}
+              {visibleCount < filteredGuides.length && <button type="button" onClick={() => setVisibleCount((count) => count + 24)} className="mt-8 rounded-lg border border-teal-700 px-5 py-3 text-sm font-semibold text-teal-700">{labels[8]}</button>}
             </div>
           </div>
         </section>
