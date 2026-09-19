@@ -1,4 +1,4 @@
-# 075 Clinical Trial Costs, Travel, and Follow-Up Responsibilities
+# Clinical Trial Costs, Travel, and Follow-Up Responsibilities
 
 ## Hero
 

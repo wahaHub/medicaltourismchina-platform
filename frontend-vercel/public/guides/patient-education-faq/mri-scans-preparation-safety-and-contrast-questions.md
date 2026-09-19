@@ -146,10 +146,6 @@ Keep the DICOM files, report, contrast agent name/dose if given, scan date, body
 
 Possibly, but only after the exact device and all components are identified. An MR Conditional system must be scanned under its specified conditions and may require programming, monitoring and specialist coordination. Unknown status is not treated as safe.
 
-### Does MRI expose me to radiation?
-
-MRI does not use ionizing radiation. It uses strong magnetic fields, changing gradients and radiofrequency energy, which create different safety issues such as projectiles, device interaction, noise and heating.
-
 ### Is gadolinium contrast the same as CT iodine contrast?
 
 No. They are different agents. A prior CT contrast reaction does not automatically predict a gadolinium reaction, but every prior contrast event, kidney problem and current pregnancy possibility should be reported.

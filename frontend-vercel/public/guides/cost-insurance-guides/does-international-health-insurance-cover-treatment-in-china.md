@@ -1,4 +1,4 @@
-# 156 Will International Health Insurance Pay for Treatment in China?
+# Will International Health Insurance Pay for Treatment in China?
 
 ## Hero
 
@@ -183,17 +183,9 @@ No. It may still be subject to planned-care rules, area tiers, exclusions, netwo
 
 Often not. Travel insurance commonly focuses on unexpected illness or injury and may exclude trips made for treatment. Review the exact policy before relying on it.
 
-### Does direct billing mean I pay nothing?
-
-No. Direct billing is a payment workflow. Deductibles, coinsurance, excluded items, limits and services outside the guarantee can remain patient responsibility.
-
 ### Can the insurer change its decision after pre-authorization?
 
 Final payment can differ if facts, diagnosis, service, dates, provider, membership or policy limits differ from the approval. Keep the authorization conditions and update it when care changes.
-
-### What if the insurer denies the claim?
-
-Request the exact denied line, policy clause, reason, missing documents and appeal deadline. Submit a focused appeal with clinical and billing evidence through the policy’s complaint process.
 
 ## SEO Metadata
 

@@ -1,4 +1,4 @@
-# 096 How to Choose a Hospital in China: A Guide for International Patients
+# How to Choose a Hospital in China: A Guide for International Patients
 
 ## Hero
 
@@ -100,14 +100,6 @@ Be cautious if a seller refuses to identify the treating doctor; uses rankings w
 
 **Medical disclaimer:** This guide provides a framework for comparing hospitals and does not endorse a facility or determine which hospital is appropriate for a particular patient. Decisions should be made with qualified clinicians who have reviewed the complete case.
 
-## Related Hospitals
-
-No hospital list is published here because suitability is diagnosis- and service-specific. Verify current registration, campus, department and named clinician through official channels.
-
-## Related Treatments
-
-Treatment availability should be confirmed only after record review. A service advertised by a hospital may not be appropriate, available at every campus or open to every international patient.
-
 ## Related Guides
 
 - Understanding China’s Three-Tier Hospital System
@@ -154,7 +146,3 @@ Obtain the hospital and campus name, department, reviewing clinician, preliminar
 2. [National Health Commission of China: Electronic Registration System Overview](https://www.nhc.gov.cn/wjw/zccl/201806/dc57f8ae7582450882b165dccb421976.shtml)
 3. [National Health Commission of China: Tertiary Hospital Assessment Standard (2025)](https://www.nhc.gov.cn/cms-search/xxgk/getManuscriptXxgk.htm?id=25229edc80d34694b7debf54ddef9f9f)
 4. [CDC Yellow Book: Medical Tourism](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Hero Image Prompt
-
-Use case: photorealistic-natural. Asset type: 16:9 website hero. An international patient and companion at a table with a bilingual care coordinator, comparing three de-identified hospital profiles on a laptop and paper checklist. The checklist visually distinguishes department, named specialist, pathology, intensive care, interpretation and follow-up without readable text. Modern Chinese clinical coordination office, documentary photography, natural daylight, thoughtful expressions. No logos, rankings, stars, flags, patient identifiers, promises, futuristic screens or staged handshake.

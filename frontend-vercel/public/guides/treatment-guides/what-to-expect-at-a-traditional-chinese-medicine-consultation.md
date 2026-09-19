@@ -1,4 +1,4 @@
-# 068 What to Expect at a Traditional Chinese Medicine Consultation
+# What to Expect at a Traditional Chinese Medicine Consultation
 
 ## Hero
 
@@ -117,17 +117,9 @@ They are common, but the exact examination depends on the practitioner and probl
 
 A TCM pattern is a traditional synthesis used to guide treatment; a biomedical diagnosis identifies disease using clinical criteria and, when needed, tests or imaging. The terms may coexist but are not interchangeable.
 
-### Should I tell the TCM doctor about all supplements and prescription medicines?
-
-Yes. Bring exact names, doses and schedules. Herbal ingredients can interact with medicines or add liver, kidney, bleeding, sedation, glucose or immune effects.
-
 ### Can I take an unlabelled herbal mixture home?
 
 It is not a safe or practical choice. Obtain the complete prescription and labelled packaging, then check export, destination and transit rules; loose products may be impossible to identify clinically or at customs.
-
-### How soon should a herbal formula be reviewed?
-
-The prescriber should set the interval according to the condition, formula and risk. New formulas usually need a defined early review of benefit, tolerance and interactions rather than automatic long-term refills.
 
 ## SEO Metadata
 

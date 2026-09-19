@@ -1,4 +1,4 @@
-# 077 CAR-T Cell Therapy in China: Approved Care vs Clinical Trials
+# CAR-T Cell Therapy in China: Approved Care vs Clinical Trials
 
 ## Hero
 
@@ -146,10 +146,6 @@ CAR-T can produce durable remissions for some people with advanced blood cancers
 ### If one CAR-T product is approved, is another product with the same target equivalent?
 
 No. Construct, cells, manufacturing, dose, evidence, indication and safety management can differ. Verify the exact product or trial.
-
-### Does successful leukapheresis guarantee infusion?
-
-No. Manufacture can fail or be delayed, and the patient’s disease, infection or organ function may change before infusion.
 
 ### Is CAR-T only the infusion day?
 

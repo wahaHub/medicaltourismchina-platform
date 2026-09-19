@@ -1,4 +1,4 @@
-# 137 Surgery Day in China: Follow the Handoffs, Not a Promised Clock Time
+# Surgery Day in China: Follow the Handoffs, Not a Promised Clock Time
 
 ## Hero
 
@@ -200,14 +200,6 @@ Before sleeping, confirm four closing points: actual procedure, current location
 
 Patient readiness is only one of four clocks. The team, operating room and system resources—such as blood, equipment or a postoperative bed—must also align. Ask which milestone is pending, who owns it and when the next update will be given.
 
-### Should I stop eating and drinking at midnight?
-
-Only if that is the patient-specific instruction from the responsible team. Requirements vary by anaesthesia, procedure, health status and intake type. Record the exact last food, liquid and medicine times and report any deviation honestly.
-
-### Why do so many staff ask my name and operation?
-
-Because each handoff and operating-room phase is a new opportunity to catch an identity, site or procedure mismatch. Answer with at least two identifiers and describe the procedure/site in your own words when awake.
-
 ### Does “operation finished” mean I can see the patient immediately?
 
 Not always. Closure may be followed by emergence from anaesthesia, transfer, PACU assessment and stabilisation. Ask whether “finished” means the procedure ended, the patient entered recovery or the patient is ready for visitors.
@@ -235,4 +227,3 @@ Record the actual procedure, important findings, any change from plan, immediate
 4. [National Health Commission — Surgical Safety Verification System](https://www.nhc.gov.cn/wjw/gfxwj/201003/c4b599eb645c4c3dbacc28b39d8d470c.shtml)
 5. [World Health Organization — Surgical Safety Checklist](https://www.who.int/docs/default-source/patient-safety/9789241598590-eng-checklist.pdf)
 6. [Agency for Healthcare Research and Quality — Handoff Tool](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/handoff.html)
-

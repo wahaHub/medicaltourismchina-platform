@@ -1,4 +1,4 @@
-# 018 Pathology and Laboratory Record Review Before Treatment in China
+# Pathology and Laboratory Record Review Before Treatment in China
 
 ## Hero
 
@@ -211,14 +211,6 @@ Request a short integrated note stating:
 This note turns a pile of reports into an auditable decision.
 
 **Medical disclaimer:** Pathology and laboratory interpretation is case-specific. This guide does not determine which review or repeat testing is clinically necessary. Treatment timing and specimen use must be decided by qualified professionals with access to the full case.
-
-## Related Hospitals
-
-Confirm that the named hospital has the relevant pathology subspecialty, accepts external slides or blocks, can perform the required tests and provides written receipt and return procedures.
-
-## Related Treatments
-
-Cancer surgery, chemotherapy, targeted therapy, immunotherapy, transplantation and other high-risk treatments may depend on specific diagnostic and laboratory confirmation.
 
 ## Related Guides
 

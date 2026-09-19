@@ -1,4 +1,4 @@
-# 103 Choosing a Hospital in Guangzhou: Specialties, Access, and Travel
+# Choosing a Hospital in Guangzhou: Specialties, Access, and Travel
 
 ## Hero
 
@@ -221,14 +221,6 @@ If one test fails, solve it or choose another route. Do not average a serious ga
 
 **Medical disclaimer:** This guide provides general planning information and does not rank or endorse Guangzhou hospitals. Treatment and travel decisions require current review by qualified clinicians. Seek immediate local emergency care for severe or rapidly worsening symptoms rather than delaying care to travel.
 
-## Related Hospitals
-
-Add a Guangzhou hospital only after verifying the institution, campus, clinical subject, named team and complete patient pathway. Do not publish an unsupported “best hospitals” list.
-
-## Related Treatments
-
-Link only a treatment confirmed at the exact campus and for the patient’s clinical situation. Access-service participation does not establish treatment eligibility.
-
 ## Related Guides
 
 - Guangzhou Medical Care for International Patients
@@ -245,10 +237,6 @@ The platform publicly supports certain foreign identity documents, including the
 ### Is one registration really valid for three days in Guangzhou?
 
 The Guangdong policy covers eligible general-outpatient same-department result reviews and has stated exclusions. Confirm the visit type, follow-up booking and hospital implementation before relying on it.
-
-### Should I fly to Baiyun Airport or arrive at Guangzhou South?
-
-Choose after confirming the treatment campus. Compare terminal/station-to-building travel, transfers, walking, mobility, arrival time and contingency transport—not just the map distance.
 
 ### Can I stay in Hong Kong and commute to Guangzhou for treatment?
 
@@ -280,7 +268,3 @@ No. Confirm which clinical documents are bilingual, who translates them, when fi
 7. [Guangzhou International — Baiyun Airport Airline Relocation to Terminal 3, May 2026](https://www.eguangzhou.gov.cn/gzservice/content/post_42958.html)
 8. [Guangzhou Municipal Government — Transport Access to Baiyun Airport Terminal 3](https://www.gz.gov.cn/zwfw/zxfw/jtfw/content/post_10690829.html)
 9. [Guangzhou International — Emergency Assistance Numbers](https://www.gz.gov.cn/guangzhouinternational/residents/safety/)
-
-## Hero Image Prompt
-
-Retained after visual review. The map, calendar, luggage and Guangzhou skyline fit the selection-and-travel topic. The illustrated hospital is generic and is not located or endorsed by the skyline shown.

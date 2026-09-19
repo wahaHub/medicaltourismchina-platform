@@ -1,4 +1,4 @@
-# 037 Percutaneous Coronary Intervention and Stents: A Patient Guide
+# Percutaneous Coronary Intervention and Stents: A Patient Guide
 
 ## Hero
 
@@ -146,10 +146,6 @@ Duration varies. Many lower-bleeding-risk ACS patients are advised to continue D
 ### Can I pause antiplatelet medicine for dental work or surgery?
 
 Not without coordinated advice. Stopping too early can allow a clot to form in the stent.[7] The interventional cardiologist and the clinician planning the dental or surgical procedure should balance thrombosis and bleeding risk and document the plan.
-
-### What should I know about an untreated narrowing after PCI?
-
-Ask where it is, how severe it is, whether physiology was assessed, why it was left untreated, and what symptoms or test results would trigger review. The report should distinguish deliberately deferred disease from a lesion planned for staged PCI or bypass discussion.
 
 ## SEO Metadata
 

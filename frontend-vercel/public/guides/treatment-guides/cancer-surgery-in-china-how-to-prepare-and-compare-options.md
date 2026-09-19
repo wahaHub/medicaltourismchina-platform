@@ -1,4 +1,4 @@
-# 033 Cancer Surgery in China: How to Prepare and Compare Options
+# Cancer Surgery in China: How to Prepare and Compare Options
 
 ## Hero
 
@@ -79,14 +79,6 @@ Costs should distinguish preoperative review, surgeon and assistants, anaesthesi
 
 **Medical disclaimer:** This guide is general education and cannot determine whether surgery is indicated or safe. The treating surgical, anaesthesia and multidisciplinary teams must assess the complete case. Suspected postoperative bleeding, breathing difficulty, chest pain, new one-sided leg swelling, confusion or rapid deterioration needs urgent local care.
 
-## Related Hospitals
-
-List only hospitals whose tumour-specific surgical service, named surgeon, perioperative backup and international follow-up pathway have been verified.
-
-## Related Treatments
-
-Link only the specific operation or combined-treatment pathway supported by the patient's diagnosis and current multidisciplinary plan.
-
 ## Related Guides
 
 - Cancer pathology review
@@ -95,14 +87,6 @@ Link only the specific operation or combined-treatment pathway supported by the 
 - Post-treatment travel and follow-up
 
 ## FAQ
-
-### Is robotic surgery always better for cancer?
-
-No. The important outcome is a safe, appropriate cancer operation. Surgeon experience, anatomy, tumour extent and backup matter; the robot is an access tool, not a guarantee of margins or recovery.
-
-### Why can the proposed operation change after I arrive?
-
-New imaging, pathology review, examination, anaesthetic assessment or multidisciplinary discussion may reveal a safer or more effective sequence. The remote proposal should state what remains uncertain.
 
 ### What does conversion to open surgery mean?
 

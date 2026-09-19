@@ -172,14 +172,6 @@ Not always. It documents medical need but does not replace destination or transi
 
 Carry-on is generally safer because it reduces loss, delay and temperature exposure and keeps you present during inspection [1][3]. Follow security rules for liquids, needles, coolants and devices.
 
-### 4. How should I change dosing when crossing time zones?
-
-Ask the prescribing clinician or pharmacist for a medicine-specific interval schedule. Do not automatically repeat or skip a dose when the clock changes, especially for insulin, anticoagulants, seizure medicines or steroids.
-
-### 5. Can I buy the same brand abroad if my supply runs out?
-
-Do not rely on the brand name. Verify the active ingredient, strength, formulation and route with a licensed clinician or pharmacist and buy from a trusted source. Keep the receipt and package for later reconciliation [8].
-
 ## SEO Metadata
 
 - **SEO title:** Traveling With Prescription Medicines: Customs, Cold Chain and Time Zones

@@ -1,4 +1,4 @@
-# 056 Endometriosis Treatment in China: Diagnosis, Surgery and Follow-Up
+# Endometriosis Treatment in China: Diagnosis, Surgery and Follow-Up
 
 ## Hero
 
@@ -171,10 +171,6 @@ No. Surgery can remove visible lesions and adhesions and may improve pain or fer
 ### Should an ovarian endometrioma always be removed before IVF?
 
 No universal rule applies. Surgery may help pain, access or diagnostic concerns but can reduce ovarian reserve. Compare cyst size, laterality, age, AMH/AFC, prior surgery, symptoms, retrieval access and the reason for intervention with both the surgeon and fertility specialist.[2][3]
-
-### What records are most important after endometriosis surgery in China?
-
-Obtain operative photographs, a site-by-site anatomical report, pathology, residual-disease statement, details of any bowel or urinary procedure, medication plan, fertility timing and follow-up responsibility. A stage number alone is not enough.
 
 ## SEO Metadata
 

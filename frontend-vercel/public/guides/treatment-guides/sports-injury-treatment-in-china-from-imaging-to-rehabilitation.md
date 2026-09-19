@@ -1,4 +1,4 @@
-# 045 Sports Injury Treatment in China: From Imaging to Rehabilitation
+# Sports Injury Treatment in China: From Imaging to Rehabilitation
 
 ## Hero
 

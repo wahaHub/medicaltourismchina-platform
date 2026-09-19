@@ -1,4 +1,4 @@
-# 011 Medical Interpretation in China: What International Patients Need
+# Medical Interpretation in China: What International Patients Need
 
 ## Hero
 
@@ -121,14 +121,6 @@ Use hospital-approved equipment where possible. Avoid an interpreter joining fro
 
 **Medical disclaimer:** Language support improves communication but does not replace a clinician’s responsibility to explain care and obtain valid consent. Urgent symptoms should not be left untreated while waiting for an ideal interpreter; emergency teams should use the safest available communication support and arrange qualified interpretation as soon as possible.
 
-## Related Hospitals
-
-Ask the exact hospital which languages, formats and hours it supports and whether interpretation is included or separately charged.
-
-## Related Treatments
-
-Complex, invasive or high-risk treatment requires more than general conversational fluency. Interpretation should cover consent, preparation, medication, recovery and discharge.
-
 ## Related Guides
 
 - Informed Consent Across Languages
@@ -145,10 +137,6 @@ It depends on verified proficiency and the complexity of the discussion. Ask the
 ### Can my spouse interpret?
 
 They can support the visit, but a trained interpreter is safer for major decisions, consent, medicines and serious news because family may unintentionally omit or change information.[1][3]
-
-### Who pays for interpretation in China?
-
-Arrangements vary by hospital and service channel. Confirm the provider, hourly or visit fee, minimum charge, overtime and cancellation terms before booking.
 
 ### Should the interpreter sign the consent form?
 
@@ -181,4 +169,3 @@ Pause. Ask the doctor to define the term, write it down and verify the exact dru
 ## Hero Image Review
 
 The original image is retained because it clearly places the interpreter between patient and doctor while preserving eye contact between the clinical participants. It contains no readable patient information and does not confuse interpretation with general travel assistance.
-

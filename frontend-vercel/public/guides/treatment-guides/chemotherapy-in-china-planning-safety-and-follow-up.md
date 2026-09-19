@@ -1,4 +1,4 @@
-# 030 Chemotherapy in China: Planning, Safety, and Follow-Up
+# Chemotherapy in China: Planning, Safety, and Follow-Up
 
 ## Hero
 
@@ -92,14 +92,6 @@ Separate the anticancer drugs from day-unit or inpatient charges, pharmacy prepa
 At the end of each cycle, update one compact handover: actual drugs and doses, date administered, laboratory results, worst toxicities and their timing, admissions or infections, dose modifications, response assessment and next proposed date. This record is what makes safe follow-up possible across countries.
 
 **Medical disclaimer:** This article is general education, not a chemotherapy prescription or a rule for delaying treatment. Regimens, laboratory thresholds and emergency instructions must come from the oncology team responsible for the patient. Fever or rapidly worsening symptoms during cancer treatment require prompt local clinical assessment.
-
-## Related Hospitals
-
-Include only institutions whose relevant oncology service, pharmacy preparation, emergency response and international-patient arrangements have been verified.
-
-## Related Treatments
-
-Do not link a drug or regimen merely because its name appears in this guide. Availability, indication and patient eligibility require current clinical confirmation.
 
 ## Related Guides
 

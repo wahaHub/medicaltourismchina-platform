@@ -1,4 +1,4 @@
-# 146 Medical Records to Take Home from China: Build an Evidence Pack with Provenance
+# Medical Records to Take Home from China: Build an Evidence Pack with Provenance
 
 ## Hero
 
@@ -219,10 +219,6 @@ Often not. Some notes, pathology, cultures, molecular tests, billing items or am
 ### Is an English summary enough?
 
 Usually not by itself. Keep the certified Chinese source and link any English hospital summary or third-party translation to it. The receiving clinician may also need detailed reports, images, procedure evidence and medicine/device data.
-
-### Are screenshots of CT or MRI sufficient?
-
-No for most diagnostic handovers. Request the original DICOM series plus the radiology report, test the files outside the hospital system and verify patient, date and series identity.
 
 ### Can pathology slides or blocks be carried home?
 

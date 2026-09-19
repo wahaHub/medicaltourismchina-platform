@@ -1,4 +1,4 @@
-# 084 Stem Cell Treatment: How to Distinguish Evidence From Marketing
+# Stem Cell Treatment: How to Distinguish Evidence From Marketing
 
 ## Hero
 
@@ -153,10 +153,6 @@ Do not stop a proven treatment merely to qualify for an unproven intervention un
 ### Are all stem-cell treatments experimental?
 
 No. Haematopoietic stem-cell transplantation is established for selected disorders, and individual stem-cell products may have narrow regulatory approvals. Many other uses remain investigational or unproven; the exact product and indication determine the category.
-
-### Does using my own cells make the treatment safe?
-
-No. Autologous cells can still be contaminated, altered during culture, delivered to the wrong site, form unwanted tissue or cause procedure-related harm. Product processing and intended use still matter.
 
 ### Does registration on a clinical-trial website prove effectiveness?
 

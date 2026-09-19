@@ -162,10 +162,6 @@ China’s current nuclear medicine quality indicators list these elements as par
 
 No. Infection and inflammation can also be PET-positive. The location, CT appearance, timing and cancer type matter, and biopsy may still be required if the result changes treatment.
 
-### Does a negative PET mean there is no cancer?
-
-No. Small or low-uptake tumors and lesions near high-background organs can be missed. The result must be reconciled with pathology, CT/MRI and symptoms.
-
 ### Why must I avoid exercise before FDG PET/CT?
 
 Active muscles take up glucose and may also take up FDG, creating distracting activity. Follow the center’s exact exercise restriction, commonly about 24 hours for vigorous exercise.
@@ -173,10 +169,6 @@ Active muscles take up glucose and may also take up FDG, creating distracting ac
 ### Can a patient with diabetes have PET/CT?
 
 Yes, but appointment time, meals, insulin/tablets and glucose targets need a coordinated plan. Do not independently prolong fasting or take an unplanned correction dose.
-
-### Is the CT in PET/CT a full diagnostic CT?
-
-Not always. It may be low-dose CT used mainly for localization, or a diagnostic CT with a separate protocol and possibly iodinated contrast. Ask which one is ordered.
 
 ## SEO Metadata
 

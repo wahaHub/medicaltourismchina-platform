@@ -1,4 +1,4 @@
-# 122 Documents for Treatment in China: Build a Decision-Ready Case Packet
+# Documents for Treatment in China: Build a Decision-Ready Case Packet
 
 ## Hero
 
@@ -169,7 +169,3 @@ The receiving team can match identity, open the source evidence, understand the 
 6. [US CDC Yellow Book: Travelling with Prohibited or Restricted Medications](https://www.cdc.gov/yellow-book/hcp/travelers-with-additional-considerations/traveling-with-prohibited-or-restricted-medications.html)
 7. [US CDC Yellow Book: Medical Tourism](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
 8. [National Health Commission: Strengthening the Use and Management of Electronic Medical-record Information, 2025](https://www.nhc.gov.cn/yzygj/c100068/202506/c68abee7c54b4651a774cd533761780b.shtml)
-
-## Hero Image Prompt
-
-Original illustration retained after review: two international travellers check a medical paper, passport, calendar and luggage before a hospital visit. It accurately conveys document and travel preparation but does not depict a real hospital, visa, appointment confirmation or authentic patient record.

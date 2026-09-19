@@ -1,4 +1,4 @@
-# 061 Orthodontic Treatment in China: Planning for Long-Term Follow-Up
+# Orthodontic Treatment in China: Planning for Long-Term Follow-Up
 
 ## Hero
 
@@ -183,17 +183,9 @@ Only if an appropriately qualified clinician at home agrees in advance. Transfer
 
 No. Removability does not remove biological risk or the need for supervision. Teeth may fail to track, attachments can detach, roots and gums still need assessment, and some movements are more predictable with braces or combined methods.[2]
 
-### How often do I need an orthodontic review?
-
-There is no single interval for every appliance and stage. Your orthodontist should specify which reviews require examination and what can be monitored remotely. If the planned schedule is incompatible with where you live, choose a different care arrangement before starting.
-
 ### Will orthodontics shorten my tooth roots?
 
 Small root changes can accompany movement and usually do not affect long-term health; extensive resorption is uncommon but significant and cannot always be predicted.[8] Prior trauma, root form, long or large movements and clinical changes may influence monitoring.
-
-### How long will I need a retainer?
-
-Long-term retention is normally required because teeth continue to change. AAO advises ongoing wear, with the frequency and fixed or removable design tailored by the orthodontist.[5] Plan replacements and a local provider before active treatment ends.
 
 ## SEO Metadata
 

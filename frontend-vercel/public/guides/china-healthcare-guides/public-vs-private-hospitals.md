@@ -1,4 +1,4 @@
-# 002 Public vs Private Hospitals in China: What International Patients Should Know
+# Public vs Private Hospitals in China: What International Patients Should Know
 
 ## Hero
 
@@ -90,14 +90,6 @@ Also pause if the hospital name on the invoice differs from the institution that
 
 **Medical disclaimer:** This article provides general information about hospital ownership and service models in China. It does not endorse a facility or determine the appropriate setting for an individual patient. Urgent or worsening symptoms require prompt local medical assessment.
 
-## Related Hospitals
-
-No public or private hospital is recommended solely because of ownership. Verify the legal institution, campus, clinical department, named doctor and support services for the individual case.
-
-## Related Treatments
-
-The appropriate setting depends on clinical risk, team experience and required backup. The same procedure may be suitable at one private hospital and inappropriate at another, just as it may differ between public hospitals.
-
 ## Related Guides
 
 - Understanding China’s Three-Tier Hospital System
@@ -114,10 +106,6 @@ They are not outside the regulatory system. Licensed private institutions must f
 ### Is treatment always cheaper at a public hospital?
 
 No. Price depends on the service channel, room, doctor, procedure, medicines and consumables. Compare written estimates for the same clinical plan rather than general labels.
-
-### Do private hospitals accept international insurance?
-
-Some do, but “accept” may not mean direct billing. Confirm network status, pre-authorisation, deposits, exclusions and who pays if the insurer denies the claim.
 
 ### Can a public-hospital doctor also see patients privately?
 
@@ -149,4 +137,3 @@ Choose the team with relevant case experience and the necessary anaesthesia, blo
 ## Hero Image Review
 
 The original image is retained because it shows a genuine comparison decision between two visibly different hospitals rather than a generic consultation. The aeroplane and luggage signal the international-patient context. Neither facility is labelled as superior, and the image contains no readable medical or financial claim.
-

@@ -1,4 +1,4 @@
-# 081 Oncolytic Virus Therapy Trials: Evidence, Risks, and Eligibility
+# Oncolytic Virus Therapy Trials: Evidence, Risks, and Eligibility
 
 ## Hero
 
@@ -165,10 +165,6 @@ It is designed or selected to favour tumour cells and limit normal-tissue harm, 
 ### Must the tumour be reachable by a needle?
 
 For an intratumoural study, usually at least one lesion must be safely accessible, sometimes repeatedly. Intravenous or other routes have different eligibility and delivery questions.
-
-### Is fever after injection expected?
-
-It can occur, but fever should follow the study’s urgent-assessment instructions because infection, immune toxicity and other complications may look similar.
 
 ### Can family members catch the treatment virus?
 

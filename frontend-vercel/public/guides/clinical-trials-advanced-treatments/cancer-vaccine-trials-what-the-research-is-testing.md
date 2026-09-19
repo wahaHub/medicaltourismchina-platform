@@ -1,4 +1,4 @@
-# 082 Cancer Vaccine Trials: What the Research Is Testing
+# Cancer Vaccine Trials: What the Research Is Testing
 
 ## Hero
 
@@ -150,14 +150,6 @@ The return-home record should include antigen/platform, lot or batch identifier,
 ### Can the HPV vaccine treat HPV-positive cancer?
 
 Preventive HPV vaccines reduce future infection and cancer risk; they do not treat an existing HPV infection or cancer. Therapeutic HPV vaccines are separate investigational products.
-
-### Does a vaccine-specific T-cell response mean the tumour will shrink?
-
-No. It shows immunogenicity. Tumour response, recurrence and survival require their own clinical endpoints and controls.
-
-### Is every cancer vaccine personalised?
-
-No. Some use shared antigens or allogeneic material; others use patient-specific tumour cells, antigen-presenting cells or predicted neoantigens.
 
 ### Can manufacture fail after my tumour is sequenced?
 

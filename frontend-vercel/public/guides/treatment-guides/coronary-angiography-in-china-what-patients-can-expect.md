@@ -1,4 +1,4 @@
-# 036 Coronary Angiography in China: What Patients Can Expect
+# Coronary Angiography in China: What Patients Can Expect
 
 ## Hero
 
@@ -138,10 +138,6 @@ Ask the China team to state when the access site, kidney function and symptoms s
 **Medical disclaimer:** This guide is general education and does not determine whether an individual should have angiography or PCI. New or worsening possible heart-attack symptoms require immediate local emergency assessment.
 
 ## FAQ
-
-### Is coronary angiography the same as coronary CT angiography?
-
-No. Invasive coronary angiography advances a catheter through an artery to the coronary openings, while CCTA injects contrast through a vein and acquires CT images. They have different strengths, risks and treatment possibilities. Confirm the exact test on the hospital booking.
 
 ### Will I automatically receive a stent if the angiogram finds a narrowing?
 

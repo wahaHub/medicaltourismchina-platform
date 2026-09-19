@@ -1,4 +1,4 @@
-# 087 Long-Term Follow-Up After Cell or Gene Therapy
+# Long-Term Follow-Up After Cell or Gene Therapy
 
 ## Hero
 
@@ -185,17 +185,9 @@ For non-urgent signals—new lumps, persistent cytopenias, recurrent infections,
 
 No. Duration is risk- and product-specific. Some integrating-vector products have 15-year obligations in certain jurisdictions, while other platforms need different periods. Use the actual Chinese label or protocol.
 
-### If the treatment worked, why continue safety follow-up?
-
-Benefit and delayed risk can coexist. Persistent vectors or cells may create rare effects years later, and follow-up also measures durability and loss of effect.
-
 ### Can all follow-up be done in my home country?
 
 Sometimes much of it can, but only if the Chinese site accepts the laboratories, methods, imaging and source records. Specialised samples or assessments may still require the treatment centre or a designated laboratory.
-
-### Should a new cancer be reported even if doctors think it is unrelated?
-
-Yes. Report it promptly. The ordinary cancer work-up and product-specific investigation can proceed together; causality should not be decided before relevant evidence is collected.
 
 ### What if the sponsor or trial site closes?
 

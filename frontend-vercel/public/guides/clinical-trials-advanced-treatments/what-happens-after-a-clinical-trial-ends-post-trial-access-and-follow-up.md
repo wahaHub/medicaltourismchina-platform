@@ -1,4 +1,4 @@
-# 095 What Happens After a Clinical Trial Ends? Post-Trial Access and Follow-Up
+# What Happens After a Clinical Trial Ends? Post-Trial Access and Follow-Up
 
 ## Hero
 

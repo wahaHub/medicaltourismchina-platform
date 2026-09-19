@@ -1,4 +1,4 @@
-# 105 Choosing a Hospital in Tianjin: Specialty Fit, Campus Geography, and the Beijing Question
+# Choosing a Hospital in Tianjin: Specialty Fit, Campus Geography, and the Beijing Question
 
 ## Hero
 
@@ -206,14 +206,6 @@ The hospital choice is ready when the clinical anchor is real, the recovery base
 
 **Medical disclaimer:** This guide provides general planning information and does not rank or endorse Tianjin hospitals. Clinical suitability, travel safety, insurance, and immigration decisions require current confirmation from qualified professionals and responsible institutions. Seek immediate local emergency care for severe or rapidly worsening symptoms.
 
-## Related Hospitals
-
-Add a Tianjin hospital only after verifying the legal institution, campus, department, named team, capability ring, passport route, and emergency plan. Remove unrelated hospitals from other cities rather than filling this section for SEO.
-
-## Related Treatments
-
-Link only treatments confirmed for the exact Tianjin campus and patient. A specialist brand, medical alliance, or foreign-invested licence does not establish case eligibility.
-
 ## Related Guides
 
 - Tianjin Medical Care for International Patients
@@ -268,7 +260,3 @@ Only if the treating team confirms fitness to travel and provides a written comp
 10. [Tianjin Municipal Transportation Commission: Tianjin Airport Service Point at Tianjin West Station](https://jtys.tj.gov.cn/ZWXX2900/TPXW/202501/t20250123_6843277.html)
 11. [Tianjin Municipal Government: High-speed Rail Hub Service Measures, 2026](https://www.tj.gov.cn/zmhd/hygqx/202603/t20260310_7258219.html)
 12. [Tianjin Municipal Health Commission: Tianjin Pre-hospital Medical Emergency Service Regulations](https://wsjk.tj.gov.cn/XWZX6600/MTBD3030/202108/t20210811_5530574.html)
-
-## Hero Image Prompt
-
-Retained and reviewed the original concept illustration. The Tianjin-style skyline, observation wheel, hospital, medical icons, map, and scanner are editorial symbols and must not be interpreted as a real campus combination, route, capability, or endorsement.

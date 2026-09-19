@@ -1,4 +1,4 @@
-# 150 After Medical Travel: Build a Complication Plan That Works Under Stress
+# After Medical Travel: Build a Complication Plan That Works Under Stress
 
 ## Hero
 

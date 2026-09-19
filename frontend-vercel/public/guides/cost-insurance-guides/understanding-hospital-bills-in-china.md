@@ -1,4 +1,4 @@
-# 152 Reading a Hospital Bill in China: From Deposit to Final Receipt
+# Reading a Hospital Bill in China: From Deposit to Final Receipt
 
 ## Hero
 
@@ -159,10 +159,6 @@ Check that names, dates, totals and encounter numbers agree across the pack. A p
 **Financial and medical disclaimer:** Billing formats, price policies, insurer requirements and refund procedures vary by institution, locality, service channel and contract. This guide supports document reconciliation; it is not legal, tax, insurance or medical advice. Clinical care should not be delayed while a non-urgent billing issue is reviewed.
 
 ## FAQ
-
-### Is the hospital deposit the same as the final bill?
-
-No. A deposit is money placed on account. The final settlement applies actual charges to all payments and produces either an amount due or a refund.
 
 ### Why do I need both a receipt and a detailed charge list?
 

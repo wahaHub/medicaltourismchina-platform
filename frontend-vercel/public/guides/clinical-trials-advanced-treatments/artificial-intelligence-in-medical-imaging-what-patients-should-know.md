@@ -1,4 +1,4 @@
-# 089 Artificial Intelligence in Medical Imaging: What Patients Should Know
+# Artificial Intelligence in Medical Imaging: What Patients Should Know
 
 ## Hero
 

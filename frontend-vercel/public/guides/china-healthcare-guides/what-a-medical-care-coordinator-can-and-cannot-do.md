@@ -1,4 +1,4 @@
-# 015 What a Medical Care Coordinator Can—and Cannot—Do
+# What a Medical Care Coordinator Can—and Cannot—Do
 
 ## Hero
 
@@ -175,14 +175,6 @@ Mark excluded tasks just as clearly. Ambiguity is expensive when a complication 
 
 **Medical and legal disclaimer:** This guide provides general educational information, not medical or legal advice. Titles, contracts and service models vary. Verify the coordinator’s employer, qualifications and authority and obtain clinical decisions from licensed professionals at the treating institution.
 
-## Related Hospitals
-
-Ask the hospital to confirm whether a named coordinator is employed or authorised by that institution, which campus they cover and how patients can escalate a concern independently.
-
-## Related Treatments
-
-Complex surgery, cancer care, transplantation, fertility care and rehabilitation may require intensive coordination, but greater complexity also makes clinical and commercial role separation more important.
-
 ## Related Guides
 
 - Medical Interpretation in China: What International Patients Need
@@ -236,4 +228,3 @@ Activate the written clinical escalation route, connect the patient with the tre
 ## Hero Image Review
 
 The original illustration is retained because its split panel directly shows the role boundary: scheduling, communication, records and team coordination on one side; clinical authority, prescribing, money and institutional decisions on the other. Although the coordinator wears healthcare-style clothing, the surrounding symbols make the intended distinction clear.
-

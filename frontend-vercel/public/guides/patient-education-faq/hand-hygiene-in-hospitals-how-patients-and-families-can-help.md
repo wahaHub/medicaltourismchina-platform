@@ -154,17 +154,9 @@ Not in most routine clinical situations. When hands are not visibly dirty, alcoh
 
 No. Gloves are not a substitute for hand hygiene. Hands should be cleaned at the indicated moments, including after glove removal, and gloves must be changed between contaminated and clean tasks [6].
 
-### 3. May I ask a doctor to clean their hands again?
-
-Yes. Use a neutral, task-specific request before examination, wound care or device contact. You may have missed cleaning that occurred outside, but asking for visible repetition is reasonable [8].
-
 ### 4. What should visitors do in a *C. difficile* room?
 
 Follow the posted contact precautions and staff instructions for gown, gloves and hand cleaning. Patients and families should wash with soap and water after the toilet and before eating. Environmental cleaning and correct removal of protective equipment matter as well [4][5].
-
-### 5. Should family members clean the patient’s catheter or intravenous line?
-
-Only if the clinical team has formally taught and authorized a specific care task. Otherwise, do not manipulate connections. Report wet dressings, looseness, leakage or alarms to the nurse.
 
 ## SEO Metadata
 

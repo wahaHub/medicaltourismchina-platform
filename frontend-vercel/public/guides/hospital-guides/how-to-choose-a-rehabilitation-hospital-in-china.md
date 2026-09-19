@@ -1,4 +1,4 @@
-# 115 How to Choose a Rehabilitation Hospital in China: Follow the Patient’s Whole Day
+# How to Choose a Rehabilitation Hospital in China: Follow the Patient’s Whole Day
 
 ## Hero
 
@@ -144,14 +144,6 @@ The most convincing rehabilitation hospital is not the one that promises the lar
 
 **Medical disclaimer:** This guide provides general selection and planning information. It does not determine medical stability, prescribe rehabilitation intensity, predict recovery, or rank Chinese hospitals. Acute or worsening symptoms require immediate local medical assessment.
 
-## Related Hospitals
-
-List a rehabilitation hospital only after verifying its legal identity, exact unit, condition-specific capability, medical and nursing support, delivered therapy, outcome measurement, accessibility, emergency transfer and discharge pathway.
-
-## Related Treatments
-
-Link only the rehabilitation pathway and technologies tied to a documented impairment, meaningful activity goal, safety screen and measurable review; do not present equipment as a cure.
-
 ## Related Guides
 
 - Stroke Rehabilitation in China: From Swallowing to Community Return
@@ -162,17 +154,9 @@ Link only the rehabilitation pathway and technologies tied to a documented impai
 
 ## FAQ
 
-### Is more therapy always better?
-
-No. The dose must fit medical stability, endurance, learning, rest and meaningful goals. Compare delivered—not advertised—therapy and whether skills carry into daily life.
-
 ### Should I choose a rehabilitation hospital or a rehabilitation department in a general hospital?
 
 A general hospital may be safer for active medical complexity and rapid specialty access. A dedicated rehabilitation hospital may offer deeper rehabilitation nursing, longer practice and discharge preparation. Match the current risk and dependency.
-
-### Which outcome score is best?
-
-No single score covers everyone. Use the same validated measures over time and combine them with patient goals, complications, participation and discharge destination. Ask what a change means in daily life.
 
 ### Can a family caregiver replace professional rehabilitation nursing?
 
@@ -202,7 +186,3 @@ The patient must be stable for travel; equipment and medicines must be available
 5. [National Health Commission and Partner Agencies: Opinions on Accelerating Rehabilitation Medical Services](https://www.nhc.gov.cn/yzygj/c100068/202106/54832e92612a4a2c947b8a36d7c305ca.shtml)
 6. [National Health Commission: Basic Standards for Rehabilitation Hospitals, 2012](https://www.nhc.gov.cn/zwgkzt/pyzgl1/201204/54557.shtml)
 7. [National Health Commission: 2026 Specialty Quality-improvement Targets—Rehabilitation ADL](https://www.nhc.gov.cn/yzygj/c100068/202603/9f642951b99c447f8cff9da8abb74dc3/files/2.2026%E5%B9%B4%E5%90%84%E4%B8%93%E4%B8%9A%E8%B4%A8%E6%8E%A7%E5%B7%A5%E4%BD%9C%E6%94%B9%E8%BF%9B%E7%9B%AE%E6%A0%87.pdf)
-
-## Hero Image Prompt
-
-Original illustration retained after review: a patient with a walking aid discusses staged recovery beside parallel bars and a therapy ball. It accurately represents goal-based rehabilitation but does not show a real institution, patient, treatment result, or endorsement.

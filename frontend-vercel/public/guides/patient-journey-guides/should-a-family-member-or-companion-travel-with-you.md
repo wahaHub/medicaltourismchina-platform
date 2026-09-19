@@ -1,4 +1,4 @@
-# 125 Should Someone Accompany You for Treatment in China? Write the Job Description First
+# Should Someone Accompany You for Treatment in China? Write the Job Description First
 
 ## Hero
 
@@ -174,7 +174,3 @@ Use the backup plan: notify the hospital, avoid exposing vulnerable patients, ac
 5. [World Health Organization: Patient Engagement for Patient Safety](https://www.who.int/health-topics/patient-safety/patient-engagement-for-patient-safety)
 6. [US Agency for Healthcare Research and Quality: IDEAL Discharge Planning with Patients and Families](https://www.ahrq.gov/patient-safety/patients-families/engagingfamilies/strategy4/index.html)
 7. [US CDC Yellow Book: Medical Tourism and Planning for Complications and Follow-Up](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Hero Image Prompt
-
-Original illustration retained after review: a patient and companion plan a hospital trip with luggage, map and calendar. It communicates shared preparation but does not show a real relationship, hospital, consent authority, appointment or guarantee of support.

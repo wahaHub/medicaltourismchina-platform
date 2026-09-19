@@ -1,4 +1,4 @@
-# 078 TCR-T Cell Therapy Trials: What Patients Should Understand
+# TCR-T Cell Therapy Trials: What Patients Should Understand
 
 ## Hero
 
@@ -150,10 +150,6 @@ Not necessarily. The relevant peptide must be processed and displayed by the req
 ### Is TCR-T the same as CAR-T?
 
 No. TCR-T generally recognises peptide-HLA complexes and is HLA-restricted; most CAR-T products bind surface molecules directly. Their matching requirements, escape mechanisms and safety questions differ.
-
-### Does leukapheresis mean I am enrolled and will receive the cells?
-
-No. Protocol eligibility can change, manufacture or release testing can fail, and the patient may become medically unable to proceed before infusion.
 
 ### Can I return home immediately after infusion?
 

@@ -1,4 +1,4 @@
-# 143 Flying After Surgery or Treatment: Clearance Is a Risk Profile, Not a Date
+# Flying After Surgery or Treatment: Clearance Is a Risk Profile, Not a Date
 
 ## Hero
 

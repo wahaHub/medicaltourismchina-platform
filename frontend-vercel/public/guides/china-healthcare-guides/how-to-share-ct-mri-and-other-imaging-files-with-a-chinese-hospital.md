@@ -1,4 +1,4 @@
-# 019 How to Share CT, MRI and Other Imaging Files With a Chinese Hospital
+# How to Share CT, MRI and Other Imaging Files With a Chinese Hospital
 
 ## Hero
 
@@ -204,14 +204,6 @@ Send the manifest and missing-series description back to the source facility. A 
 
 **Medical disclaimer:** File transfer does not establish a diagnosis. Image adequacy, comparison and treatment implications must be assessed by qualified clinicians with the full case. Urgent symptoms require local medical evaluation and should not wait for a remote upload.
 
-## Related Hospitals
-
-Before sending, verify that the target hospital can import outside DICOM studies, accepts the study modality and offers the needed radiology subspecialty.
-
-## Related Treatments
-
-Surgical planning, radiation therapy, interventional procedures, cancer response assessment and neurological or orthopaedic review often need specific sequences, phases or prior comparisons.
-
 ## Related Guides
 
 - How to Organise Medical Records Before Seeking Care in China
@@ -237,10 +229,6 @@ For direct care, follow the hospital’s identity-matching instructions. For de-
 
 Send the comparisons the receiving clinician requests. Baseline and immediately prior studies are often important, but relevance depends on the clinical question.[3]
 
-### How do I know the hospital really reviewed the images?
-
-Ask for the radiologist or reviewing team, the form of output and the expected date. An upload receipt confirms transfer, not interpretation.
-
 ## SEO Metadata
 
 - **Slug:** `how-to-share-ct-mri-and-other-imaging-files-with-a-chinese-hospital`
@@ -264,4 +252,3 @@ Ask for the radiologist or reviewing team, the form of output and the expected d
 ## Hero Image Review
 
 The original illustration is retained because it clearly depicts a clinician reviewing cross-sectional imaging with a patient and shows both a display and image series. It contains no readable identity information or unsupported diagnostic claim.
-

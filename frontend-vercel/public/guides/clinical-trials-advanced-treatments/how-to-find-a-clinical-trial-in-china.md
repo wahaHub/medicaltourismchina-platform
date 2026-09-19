@@ -1,4 +1,4 @@
-# 071 How to Find a Clinical Trial in China
+# How to Find a Clinical Trial in China
 
 ## Hero
 
@@ -89,14 +89,6 @@ A real registry number does not prove that every claim made by an intermediary i
 
 **Medical disclaimer:** This guide explains how to search for and verify clinical trials. It does not determine eligibility or recommend an experimental treatment. Trial status, sites and criteria change; confirm all details directly with the study team and discuss the decision with a qualified clinician.
 
-## Related Hospitals
-
-Use the facility listed in the current registry record and verify it through the hospital’s official clinical-research or department contact. A hospital may run some trials but not the specific protocol being considered.
-
-## Related Treatments
-
-Registration does not mean an investigational product is approved or proven effective. Standard care, other trials and supportive care should remain part of the discussion.
-
 ## Related Guides
 
 - Understanding Clinical Trial Phases
@@ -146,7 +138,3 @@ No legitimate intermediary can override the protocol or the investigator’s eli
 5. [ClinicalTrials.gov: Protocol Registration Definitions](https://clinicaltrials.gov/prs-info/protocol-definitions)
 6. [ClinicalTrials.gov: Learn About Studies](https://clinicaltrials.gov/study-basics/learn-about-studies)
 7. [State Council Gazette: Good Clinical Practice for Drug Trials (2020)](https://www.gov.cn/gbgl/c3b91a472a6141c397dabebc7984a5a1/files/c1136cecc15b43b5aaae09ebcbf8a3d7.pdf)
-
-## Hero Image Prompt
-
-Use case: photorealistic-natural. Asset type: 16:9 website hero. A patient and bilingual clinical-research coordinator seated side by side in a hospital research office, comparing a de-identified trial registry page on a laptop with a concise paper screening checklist. A clinician is visible in the background reviewing a chart. Documentary editorial photography, natural light, focused expressions, realistic modern Chinese hospital. No readable text, logos, flags, patient identifiers, medication branding, needles, promises of benefit or futuristic interfaces.

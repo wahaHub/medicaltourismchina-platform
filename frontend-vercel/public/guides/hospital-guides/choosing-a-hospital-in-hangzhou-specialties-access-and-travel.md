@@ -1,4 +1,4 @@
-# 106 Choosing a Hospital in Hangzhou: Three Proofs and One Real-world Test
+# Choosing a Hospital in Hangzhou: Three Proofs and One Real-world Test
 
 ## Hero
 
@@ -224,14 +224,6 @@ Digital convenience is valuable after the clinical and identity chain is correct
 
 **Medical disclaimer:** This guide provides general planning information and does not rank or endorse Hangzhou hospitals. Clinical suitability, digital access, insurance, and fitness to travel require current confirmation from qualified professionals and responsible organisations. Seek immediate local emergency care for severe or rapidly worsening symptoms.
 
-## Related Hospitals
-
-Add a Hangzhou hospital only after verifying the legal entity, exact campus, named team, case acceptance, passport route, language service, and escalation plan. Remove unrelated hospitals from other cities.
-
-## Related Treatments
-
-Link only treatments confirmed by the responsible team at the exact campus. Digital access or international-service status does not establish treatment eligibility.
-
 ## Related Guides
 
 - Hangzhou Medical Care for International Patients
@@ -249,17 +241,9 @@ Possibly, but support differs by platform and hospital subsystem. Test the exact
 
 No. It may indicate service facilities or a local review. Clinical selection still requires a named team, case review, exact campus, support capabilities, and outcome evidence relevant to the patient.
 
-### Should I arrive at Hangzhou East, Hangzhou West, or Xiaoshan Airport?
-
-Choose after confirming the treatment building. Compare the full journey with transfers, walking, luggage, mobility, operating hours, and a backup route.
-
 ### Can the hospital’s internet service replace an in-person first visit?
 
 Only when the provider confirms the service type and eligibility. Some online routes are limited to triage or follow-up and may require an established diagnosis, local identity verification, or examination.
-
-### What should I obtain before leaving Hangzhou?
-
-Obtain the clinical summary, actual treatment details, source imaging, pathology and laboratory results, medicines, restrictions, warning signs, pending-result owner, follow-up date, and a named contact.
 
 ## SEO Metadata
 
@@ -283,7 +267,3 @@ Obtain the clinical summary, actual treatment details, source imaging, pathology
 7. [Hangzhou Xiaoshan International Airport: Terminal Medical Services](https://www.hzairport.com/mobile/ride/service.html)
 8. [Hangzhou Xiaoshan International Airport: Assistance for Passengers with Medical Conditions](https://www.hzairport.com/emobile/ride/cares.html)
 9. [Hangzhou Municipal Health Commission: Hangzhou Emergency Center](https://wsjkw.hangzhou.gov.cn/art/2020/9/14/art_1229232831_75553.html)
-
-## Hero Image Prompt
-
-Retained and reviewed the existing concept illustration. The West Lake-style bridge and pagoda, hospital, health icons, route map, luggage, calendar, and train are editorial symbols, not a real Hangzhou campus map, appointment, capability claim, or endorsement.

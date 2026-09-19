@@ -1,4 +1,4 @@
-# 125 赴华治疗要不要有人陪：先写岗位说明，再选人
+# 赴华治疗要不要有人陪：先写岗位说明，再选人
 
 ## Hero
 
@@ -174,7 +174,3 @@ AHRQ 的出院框架要求让患者和家属参与，复核药物与警示症状
 5. [世界卫生组织：患者参与和患者安全](https://www.who.int/health-topics/patient-safety/patient-engagement-for-patient-safety)
 6. [美国医疗保健研究与质量局：患者与家属参与的 IDEAL 出院规划](https://www.ahrq.gov/patient-safety/patients-families/engagingfamilies/strategy4/index.html)
 7. [美国 CDC Yellow Book：医疗旅行的并发症与随访规划](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Hero Image Prompt
-
-经复核保留原插图：患者与陪同者在行李、地图和日历旁规划医院行程。画面能够表达共同准备，但不代表真实亲属关系、医院、同意权限、预约或支持保证。

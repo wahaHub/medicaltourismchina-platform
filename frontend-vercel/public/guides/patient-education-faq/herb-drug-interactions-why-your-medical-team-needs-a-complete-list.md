@@ -174,10 +174,6 @@ Do not convert “unknown” into “safe” during translation. An incomplete p
 
 Report products used regularly for a health effect, especially concentrated extracts, medicinal teas and multi-ingredient powders. Ordinary occasional foods may also matter when a medicine has a known food interaction. Let the pharmacist decide relevance from the actual product and amount.
 
-### 2. Can I check interactions using only the herb’s English name?
-
-No. Record the original name, botanical name if available, plant part, extract, manufacturer and all ingredients. Common names and translations can map to different species or formulas.
-
 ### 3. Should every herbal product be stopped two weeks before surgery?
 
 Not by self-direction. Tell the team early and obtain an exact stop and restart plan. Risks and clearance differ, and suddenly stopping a regularly used product may also need management [11].
@@ -185,10 +181,6 @@ Not by self-direction. Tell the team early and obtain an exact stop and restart 
 ### 4. If an interaction checker shows nothing, is the combination safe?
 
 Not necessarily. Evidence is missing for many pairs, and the database may not identify a regional multi-herb product or variable extract. Absence of a listing should be documented as uncertainty, not proof of safety [1][8].
-
-### 5. Which medicines make herb interactions especially urgent?
-
-Transplant drugs, anticoagulants, cancer and HIV therapies, antiseizure drugs, digoxin/antiarrhythmics, diabetes medicines and sedatives deserve prompt review. These treatments can have serious consequences if exposure becomes too low or too high.
 
 ## SEO Metadata
 

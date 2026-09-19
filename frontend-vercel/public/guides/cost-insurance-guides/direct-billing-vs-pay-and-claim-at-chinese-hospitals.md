@@ -1,4 +1,4 @@
-# 157 Direct Billing or Pay-and-Claim in China: Choose the Failure You Can Manage
+# Direct Billing or Pay-and-Claim in China: Choose the Failure You Can Manage
 
 ## Hero
 

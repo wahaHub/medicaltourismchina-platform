@@ -1,4 +1,4 @@
-# 097 How to Verify a Hospital, Department, and Doctor in China
+# How to Verify a Hospital, Department, and Doctor in China
 
 ## Hero
 
@@ -187,10 +187,6 @@ Save the confirmation outside the messaging app. Verification is complete when i
 
 No. Confirm current appointment, exact campus, clinic date and proposed role through the hospital. The doctor may only review, refer or supervise rather than personally perform the procedure.
 
-### Is a physician-registration search enough?
-
-It is an important identity check, but not enough. Also confirm hospital appointment, department, schedule and any internal procedure authorisation.
-
 ### Does “chief physician” mean the hospital’s top doctor?
 
 Not necessarily. It is a senior professional title. Administrative leadership, subspecialty fit, current authorisation and role in your case are separate.
@@ -226,4 +222,3 @@ A dated hospital-channel reply naming the clinician, records reviewed, prelimina
 
 - **Decision:** Approved after editorial review; copied as `hero-reviewed.png`.
 - **Editorial note:** The international patient, hospital setting and separate hospital/doctor/safety symbols support the article’s identity-checking concept. It remains illustrative: the coordinator’s booklet is not a government query, licence or proof of authorisation, so the caption and article require independent official checks.
-

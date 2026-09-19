@@ -1,4 +1,4 @@
-# 144 Warning Signs During Recovery: Read the Change, Not Just the Number
+# Warning Signs During Recovery: Read the Change, Not Just the Number
 
 ## Hero
 

@@ -1,4 +1,4 @@
-# 012 How to Request English-Language Medical Records in China
+# How to Request English-Language Medical Records in China
 
 ## Hero
 
@@ -131,14 +131,6 @@ On the index, list each document, date, language and whether it is original, hos
 
 **Medical disclaimer:** This guide provides general administrative and communication information, not legal or medical advice. Record-access procedures, available languages and document requirements vary by institution and intended use. Confirm the current rules with the hospital and the receiving clinician, insurer or authority.
 
-## Related Hospitals
-
-Ask the specific hospital’s medical-records office and international department about English summaries, record-copying hours, identity documents, fees and electronic formats. Do not infer these services from a hospital ranking or an English-language website.
-
-## Related Treatments
-
-For surgery, cancer care, transplantation and implanted devices, ask the receiving clinician for a document checklist early; pathology, imaging and device records may take longer to assemble than a general discharge summary.
-
 ## Related Guides
 
 - Medical Interpretation in China: What International Patients Need
@@ -159,10 +151,6 @@ Often yes, if the hospital accepts the arrangement and the representative provid
 ### Is an English discharge summary enough for a second opinion?
 
 Usually not by itself. The reviewing specialist may also need pathology, laboratory results, imaging reports, native DICOM files, operation notes and treatment details. Ask the reviewer first.
-
-### Should I translate every page?
-
-Not necessarily. Ask the receiving clinician or insurer which documents are material. Always retain the complete source set and clearly state which pages were not translated.
 
 ### What if a pathology addendum arrives after I leave China?
 
@@ -190,4 +178,3 @@ Before discharge, designate an authorised contact, confirm the release channel a
 ## Hero Image Review
 
 The original illustration is retained. The document folder and globe directly support the topic of cross-language record transfer, while the hospital conversation gives the request appropriate clinical context. No readable personal health information appears in the image.
-

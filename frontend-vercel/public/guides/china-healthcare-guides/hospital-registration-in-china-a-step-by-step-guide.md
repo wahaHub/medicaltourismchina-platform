@@ -1,4 +1,4 @@
-# 008 Hospital Registration in China: A Step-by-Step Guide
+# Hospital Registration in China: A Step-by-Step Guide
 
 ## Hero
 
@@ -99,14 +99,6 @@ This is usually enough to solve a check-in problem without exposing the rest of 
 
 **Medical disclaimer:** Registration is an administrative step and does not determine whether a symptom is urgent. Severe or rapidly worsening symptoms require emergency assessment rather than waiting for ordinary registration.
 
-## Related Hospitals
-
-Registration rules are hospital- and campus-specific. Use official channels and confirm requirements with the exact institution.
-
-## Related Treatments
-
-Paying a registration fee confirms access to the booked service, not eligibility or scheduling for a treatment.
-
 ## Related Guides
 
 - How International Patients Can Book a Specialist in China
@@ -157,4 +149,3 @@ The patient should retain access. Obtain the login or recovery method and copies
 ## Hero Image Review
 
 The original image is retained because it shows international patients at a registration desk and includes a simple identity-to-service-to-appointment sequence. The icons contain no readable personal data and correctly frame registration as an administrative pathway.
-

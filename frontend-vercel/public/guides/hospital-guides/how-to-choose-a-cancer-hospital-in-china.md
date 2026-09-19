@@ -1,4 +1,4 @@
-# 111 How to Choose a Cancer Hospital in China: Audit the Whole Treatment Chain
+# How to Choose a Cancer Hospital in China: Audit the Whole Treatment Chain
 
 ## Hero
 
@@ -170,14 +170,6 @@ If several answers remain “the hospital will decide after arrival,” postpone
 
 **Medical disclaimer:** This guide provides general selection and planning information. It does not rank Chinese cancer hospitals or recommend a treatment. Cancer diagnosis and treatment require patient-specific review by qualified clinicians. Seek immediate local emergency care for severe or rapidly worsening symptoms.
 
-## Related Hospitals
-
-Add a cancer centre only after verifying the legal institution, exact campus, tumour-specific team, pathology and staging chain, treatment delivery, quality evidence, rescue capability, and cross-border follow-up. Do not publish a generic “top hospital” list.
-
-## Related Treatments
-
-Link only the treatment, drug, device, or trial that matches the confirmed diagnosis, stage, biomarker, patient condition, regulatory status, responsible site, and written plan.
-
 ## Related Guides
 
 - Pathology Review before Cancer Treatment in China
@@ -230,7 +222,3 @@ No. Registration shows that a study record exists. The authorised site must stil
 8. [WHO International Clinical Trials Registry Platform: Chinese Clinical Trial Registry](https://www.who.int/tools/clinical-trials-registry-platform/network/primary-registries/chinese-clinical-trial-registry-%28chictr%29)
 9. [National Medical Products Administration: Drug Clinical Trial Registration and Disclosure Requirements](https://zwfw.nmpa.gov.cn/web/taskview/11100000MB0341032Y100207202900001)
 10. [US National Cancer Institute: Finding Cancer Care](https://www.cancer.gov/about-cancer/managing-care/finding-cancer-care)
-
-## Hero Image Prompt
-
-Generated with the built-in image tool for this article: a realistic, unbranded multidisciplinary oncology review with an international patient and companion, showing anonymised CT, pathology, and treatment sequencing. The displayed records are fictional visual elements and do not indicate diagnosis, hospital identity, outcome, or endorsement.

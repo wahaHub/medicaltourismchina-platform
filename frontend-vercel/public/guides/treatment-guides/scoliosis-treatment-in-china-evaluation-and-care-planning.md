@@ -1,4 +1,4 @@
-# 046 Scoliosis Treatment in China: Evaluation and Care Planning
+# Scoliosis Treatment in China: Evaluation and Care Planning
 
 ## Hero
 

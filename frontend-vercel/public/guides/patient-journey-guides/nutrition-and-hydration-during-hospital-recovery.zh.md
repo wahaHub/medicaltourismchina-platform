@@ -1,4 +1,4 @@
-# 140 住院恢复期营养：先选安全途径，再计算热量
+# 住院恢复期营养：先选安全途径，再计算热量
 
 ## Hero
 
@@ -174,4 +174,3 @@ NICE 给出高风险标准，并建议由受训人员谨慎启动、结合临床
 4. [英国国家卫生与临床优化研究所——住院成人静脉液体治疗](https://www.nice.org.uk/guidance/cg174/chapter/recommendations)
 5. [美国肠外肠内营养学会——临床实践库：再喂养综合征共识](https://nutritioncare.org/Clinical_Practice_Library/)
 6. [世界卫生组织——食品安全五要点手册](https://tdr.who.int/home/our-work/global-engagement/9789241594639)
-

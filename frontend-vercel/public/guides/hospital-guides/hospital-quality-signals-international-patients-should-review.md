@@ -1,4 +1,4 @@
-# 100 Hospital Quality Signals International Patients Should Review
+# Hospital Quality Signals International Patients Should Review
 
 ## Hero
 
@@ -189,14 +189,6 @@ Only then compare preferences such as room type, waiting time, location and comp
 
 **Medical disclaimer:** This guide provides general educational information, not a hospital endorsement, diagnosis or treatment recommendation. Quality signals must be interpreted for the patient’s condition by qualified clinicians. Seek immediate local emergency care for severe or rapidly worsening symptoms rather than delaying care for international arrangements.
 
-## Related Hospitals
-
-Add a hospital only after its licensed identity, campus, department, team and case-specific pathway have been verified. Do not infer quality from inclusion in this guide.
-
-## Related Treatments
-
-Link only a currently verified treatment that directly matches the patient’s diagnosis and decision. A technology name alone is not a quality signal.
-
 ## Related Guides
 
 - How to Verify a Hospital, Department and Doctor in China
@@ -247,7 +239,3 @@ Coordinators can provide licensing documents, schedules, estimates and process i
 6. [US Agency for Healthcare Research and Quality — What Is Patient Safety Culture?](https://www.ahrq.gov/sops/about/patient-safety-culture.html)
 7. [World Health Organization — Patient Safety Rights Charter](https://www.who.int/publications/i/item/9789240093249)
 8. [National Health Commission of China — Medical Institution Quality and Safety Rectification Action Plan](https://www.nhc.gov.cn/yzygj/c100068/202506/9cd15882a85048c98b54960ac37d5cd5.shtml)
-
-## Hero Image Prompt
-
-Retained after visual review. The illustration communicates an international patient asking about safety, team, recognition, hospital capability and data. Its icons are conceptual and must not be presented as an actual certificate, award, ranking or quality dashboard.

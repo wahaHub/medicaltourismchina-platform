@@ -1,4 +1,4 @@
-# 130 Your First Hospital Appointment in China: Leave With a Decision Record
+# Your First Hospital Appointment in China: Leave With a Decision Record
 
 ## Hero
 
@@ -189,4 +189,3 @@ At minimum: the working assessment, test orders and preparation, medicine change
 6. [AHRQ — Medication Reconciliation](https://www.ahrq.gov/patient-safety/settings/hospital/match/appendix/app-7.html)
 7. [Ministry of Justice of China — Regulations on the Prevention and Handling of Medical Disputes](https://xzfg.moj.gov.cn/law/download?LawID=438&type=pdf)
 8. [National Health Commission — Management of Electronic Medical Record Information (2025)](https://www.nhc.gov.cn/yzygj/c100068/202506/c68abee7c54b4651a774cd533761780b.shtml)
-

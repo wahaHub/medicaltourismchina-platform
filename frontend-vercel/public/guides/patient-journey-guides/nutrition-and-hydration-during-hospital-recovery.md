@@ -1,4 +1,4 @@
-# 140 Nutrition During Hospital Recovery: Choose the Route Before Counting Calories
+# Nutrition During Hospital Recovery: Choose the Route Before Counting Calories
 
 ## Hero
 
@@ -200,4 +200,3 @@ Send the safe route/texture, recent intake and weight trend, restrictions, targe
 4. [National Institute for Health and Care Excellence — Intravenous Fluid Therapy in Adults in Hospital](https://www.nice.org.uk/guidance/cg174/chapter/recommendations)
 5. [American Society for Parenteral and Enteral Nutrition — Clinical Practice Library, Refeeding Syndrome Consensus](https://nutritioncare.org/Clinical_Practice_Library/)
 6. [World Health Organization — Five Keys to Safer Food Manual](https://tdr.who.int/home/our-work/global-engagement/9789241594639)
-

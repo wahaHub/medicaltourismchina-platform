@@ -1,4 +1,4 @@
-# 118 Private Rooms, VIP Wards, and International Clinics in China: Do Not Confuse Comfort with Capability
+# Private Rooms, VIP Wards, and International Clinics in China: Do Not Confuse Comfort with Capability
 
 ## Hero
 
@@ -162,14 +162,6 @@ The best premium option is not necessarily the most luxurious. It is the one who
 
 **Medical disclaimer:** This guide provides general service-comparison information. It does not establish room availability, infection-isolation suitability, clinical capability, insurance coverage or treatment priority. Verify each with the exact hospital and payer.
 
-## Related Hospitals
-
-List a private room, VIP ward or international clinic only after verifying the legal institution/campus, responsible clinical team, 24-hour support, isolation/accessibility, pricing, insurance, language service and emergency transfer.
-
-## Related Treatments
-
-Link treatments by clinical pathway and exact campus capability; room class or international branding is not a treatment indication.
-
 ## Related Guides
 
 - International Patient Admission in China: Four Confirmations
@@ -220,7 +212,3 @@ Nursing and physician coverage, monitoring, emergency response, pharmacy/laborat
 5. [National Health Commission: Internal Price-behaviour Management Rules for Medical Institutions](https://www.nhc.gov.cn/caiwusi/c100043/202001/9a04a37485214153ba8761abadf17726.shtml)
 6. [National Health Commission: Basic Healthcare and Health Promotion Law](https://www.nhc.gov.cn/fzs/c100048/202007/e1192329ea4d45ef892892cd8232d385.shtml)
 7. [National Health Commission: Medical Institution Record-management Provisions, 2013](https://www.nhc.gov.cn/yzygj/c100068/201312/c9955f0471c04450a9f9ab74648fbdd4.shtml)
-
-## Hero Image Prompt
-
-Original illustration retained after review: international patients discuss service with a coordinator in a premium reception area with a private room visible. It fits the service-comparison topic but does not show a real hospital, guaranteed room, clinical capability, or endorsement.

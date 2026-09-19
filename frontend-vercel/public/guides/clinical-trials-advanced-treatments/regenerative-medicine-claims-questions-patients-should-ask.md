@@ -1,4 +1,4 @@
-# 085 Regenerative Medicine Claims: Questions Patients Should Ask
+# Regenerative Medicine Claims: Questions Patients Should Ask
 
 ## Hero
 

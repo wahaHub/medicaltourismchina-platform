@@ -1,4 +1,4 @@
-# 024 Seeking Medical Care in Shenzhen: A Guide for International Patients
+# Seeking Medical Care in Shenzhen: A Guide for International Patients
 
 ## Hero
 
@@ -174,10 +174,6 @@ Mark pending results separately. Assign a person and deadline for each one. If a
 
 The original article’s Beijing hospital entry has been removed. These official directories are starting points, not referrals.
 
-## Related Treatments
-
-Cross-boundary convenience is not a treatment indication. Link a Shenzhen service only after the responsible clinical team confirms the diagnosis, eligibility and site.
-
 ## Related Guides
 
 - How International Patients Can Book a Specialist in China
@@ -203,10 +199,6 @@ No. Eligibility, identity, institution and designated-service rules apply. The H
 ### Does Hong Kong eHealth make my complete record visible in Shenzhen?
 
 Not automatically. The user must follow the cross-boundary authorisation workflow, the institution must be designated, access is time-limited, and the available dataset may not be the entire chart.[5]
-
-### Should I cross into Hong Kong during a Shenzhen medical emergency?
-
-No. Call Shenzhen 120 and follow emergency instructions. Border transport is not an ambulance, and delay can be dangerous.[4]
 
 ## SEO Metadata
 
@@ -234,4 +226,3 @@ No. Call Shenzhen 120 and follow emergency instructions. Border transport is not
 - **Decision:** Approved and retained as `hero-reviewed.png`.
 - **Why:** The consultation is framed by a recognisable Shenzhen civic skyline, making it more specific than a generic hospital illustration.
 - **Risk check:** No provider logo, border document, readable medical data, procedure, distress or outcome claim appears.
-

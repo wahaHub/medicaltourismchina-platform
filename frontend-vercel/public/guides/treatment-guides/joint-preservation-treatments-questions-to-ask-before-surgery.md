@@ -1,4 +1,4 @@
-# 047 Joint Preservation Treatments: Questions to Ask Before Surgery
+# Joint Preservation Treatments: Questions to Ask Before Surgery
 
 ## Hero
 
@@ -162,10 +162,6 @@ CDC advises medical travellers to arrange follow-up before travel and request re
 
 ## FAQ
 
-### What does “joint preservation” actually mean?
-
-It describes treatments intended to maintain the native joint, such as repair, realignment, cartilage restoration or selected early-stage bone procedures. It does not identify one operation or guarantee avoidance of replacement.
-
 ### Can cartilage be regrown to its original condition?
 
 Cartilage procedures create or transplant different repair tissues for selected focal defects. Results depend on lesion size, bone, alignment, stability and patient factors; some methods produce fibrocartilage rather than normal hyaline cartilage.[1]
@@ -177,10 +173,6 @@ A generic washout or clean-up for diffuse knee arthritis is usually not a reliab
 ### Are stem-cell injections proven to preserve joints?
 
 Products marketed as stem cells or regenerative therapy vary substantially. FDA has not approved regenerative medicine products for orthopaedic conditions in the United States and warns about unapproved products.[7] Ask for product-specific regulatory and clinical evidence.
-
-### What should happen if the preservation procedure fails?
-
-Agree in advance how failure is measured, how long recovery is allowed, which imaging is repeated and whether revision, another preservation operation or joint replacement is next. The original operation should preserve usable records and future options.
 
 ## SEO Metadata
 

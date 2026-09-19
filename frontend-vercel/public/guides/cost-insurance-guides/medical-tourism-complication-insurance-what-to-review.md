@@ -1,4 +1,4 @@
-# 160 Medical Tourism Complication Insurance: Stress-Test the Rescue Plan
+# Medical Tourism Complication Insurance: Stress-Test the Rescue Plan
 
 ## Hero
 
@@ -209,17 +209,9 @@ Often not automatically. Some policies exclude travel whose purpose is elective 
 
 No. A policy may transport the patient only to the nearest adequate facility, and the assistance company may control necessity, provider and transport method. Repatriation home can be a separate benefit.
 
-### What if the complication is diagnosed only after I return home?
-
-Coverage depends on the policy’s territorial and time definitions. Ask whether symptom onset, diagnosis or treatment date controls and which insurer pays first at home.
-
 ### Will complication insurance pay for a revision because I dislike the result?
 
 Not necessarily. A desired revision, failure to achieve an expected result and a medically necessary response to an adverse event may be defined differently. Test the scenario against the policy wording.
-
-### What should my companion carry in an emergency?
-
-Policy and assistance numbers, passport/patient identifiers, treatment summary, medicines and allergies, hospital contacts, communication authority and access to an emergency payment method.
 
 ## SEO Metadata
 

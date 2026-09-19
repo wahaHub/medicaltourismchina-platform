@@ -1,4 +1,4 @@
-# 126 What to Pack for Hospital Treatment in China: Pack by Failure Consequence
+# What to Pack for Hospital Treatment in China: Pack by Failure Consequence
 
 ## Hero
 
@@ -155,10 +155,6 @@ Bring them for reconciliation, but ask the ward how they will be stored and admi
 
 Only after checking the device, batteries, airline approval, power and hospital inspection requirements. Approval for cabin use does not automatically permit bedside integration, and vice versa.
 
-### What clothing is most useful after treatment?
-
-Choose loose, easy-fastening garments that accommodate the actual treated area, swelling, devices and movement restrictions. Ask the clinical team before buying braces or compression products.
-
 ### Can I hand-carry pathology slides or samples?
 
 Only through a confirmed compliant process. Physical specimens may require release, packaging, permits, chain of custody and a qualified courier; never assume they are ordinary personal baggage.
@@ -183,7 +179,3 @@ Only through a confirmed compliant process. Physical specimens may require relea
 5. [International Air Transport Association: Passenger Baggage Dangerous-goods Table for Medical Devices and Lithium Batteries](https://www.iata.org/contentassets/6fea26dd84d24b26a7a1fd5788561d6e/dgr-62-en-2.3a.pdf)
 6. [Civil Aviation Administration of China: Air Transport Restrictions for Dangerous Goods in Passenger Baggage](https://www.caac.gov.cn/XXGK/XXGK/BZGF/HYBZ/201904/P020190419595222412891.pdf)
 7. [General Administration of Customs of China: Health-quarantine Rules for Entry and Exit Special Biological Articles](https://www.customs.gov.cn/eportal/attachDir/customs/2026/01/2026010810235490137.pdf)
-
-## Hero Image Prompt
-
-Original illustration retained after review: a patient and companion use a checklist beside an open suitcase, calendar, passport and conceptual Chinese hospital. It fits the packing topic but does not show a real hospital list, medicine, customs decision or airline acceptance.

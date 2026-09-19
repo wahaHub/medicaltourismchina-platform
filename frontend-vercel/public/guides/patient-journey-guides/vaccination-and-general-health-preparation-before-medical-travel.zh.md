@@ -1,4 +1,4 @@
-# 124 赴华治疗前接种：保护治疗窗口，而不是机械打勾
+# 赴华治疗前接种：保护治疗窗口，而不是机械打勾
 
 ## Hero
 
@@ -114,10 +114,6 @@ ASCO 成人癌症患者接种指导建议尽早记录疫苗状态，在不干扰
 
 ## FAQ
 
-### 所有赴华治疗患者需要相同疫苗吗？
-
-不需要。常规接种史、路线、季节、活动、免疫状态和拟接受治疗都会改变结论；入境要求也与医学建议不同。
-
 ### 化疗期间可以接种活疫苗吗？
 
 明显免疫抑制期间通常禁用活疫苗。具体限制及以后何时安全，要看治疗和免疫恢复，由肿瘤与接种团队共同判断。
@@ -154,7 +150,3 @@ ASCO 成人癌症患者接种指导建议尽早记录疫苗状态，在不干扰
 5. [美国临床肿瘤学会：成人癌症患者疫苗指南摘要](https://www.asco.org/news-initiatives/policy-news-analysis/new-asco-guideline-recommendations-answer-key-questions-about)
 6. [美国 CDC Yellow Book：旅行健康包](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travel-health-kits.html)
 7. [美国 CDC：旅行相关血栓风险](https://www.cdc.gov/blood-clots/risk-factors/travel.html)
-
-## Hero Image Prompt
-
-经复核保留原插图：出行者在飞往医院前查看健康日历，周围是一般防护符号。画面能够表达行前健康规划，但不代表真实疫苗、证书、医院、入境规则或免疫保证。

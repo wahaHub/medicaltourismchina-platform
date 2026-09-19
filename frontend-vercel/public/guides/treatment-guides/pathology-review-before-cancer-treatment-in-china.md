@@ -1,4 +1,4 @@
-# 027 Pathology Review Before Cancer Treatment in China
+# Pathology Review Before Cancer Treatment in China
 
 ## Hero
 
@@ -180,14 +180,6 @@ The treating clinician—not the travel agency—should decide whether waiting i
 
 **Medical disclaimer:** This guide does not interpret a pathology specimen or decide cancer treatment. Pathology review, tissue use and treatment timing require case-specific decisions by qualified pathologists and the treating oncology team.
 
-## Related Hospitals
-
-Link only a hospital whose relevant tumour-site pathology service confirms that it accepts outside material and can issue a formal consultation report. The original generic hospital list has been removed.
-
-## Related Treatments
-
-Pathology may affect surgery, radiotherapy, chemotherapy, endocrine therapy, targeted therapy, immunotherapy and clinical-trial eligibility. A treatment link should be added only after the diagnosis and decision-defining evidence are established.
-
 ## Related Guides
 
 - Pathology and Laboratory Record Review Before Treatment in China
@@ -243,4 +235,3 @@ The treating oncologist should decide with pathology and other specialists, weig
 - **Decision:** Approved and retained as `hero-reviewed.png`.
 - **Why:** The visual pathway explicitly connects a report, microscope, cancer symbol and clinical discussion, matching the article’s patient-facing purpose.
 - **Risk check:** The diagram is non-diagnostic and contains no readable specimen label, patient identifier, provider logo or outcome guarantee.
-

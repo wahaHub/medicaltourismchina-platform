@@ -1,4 +1,4 @@
-# 162 Medical Interpreter and Patient Coordinator Fees in China: Buy the Right Role
+# Medical Interpreter and Patient Coordinator Fees in China: Buy the Right Role
 
 ## Hero
 
@@ -257,17 +257,9 @@ Not necessarily. Interpreters handle spoken or signed clinical communication; co
 
 No. Bilingual ability alone does not show assessed interpreting skill, medical terminology knowledge, confidentiality practice or role-boundary training. Ask what was evaluated.
 
-### How should waiting time be charged?
-
-The contract should define grace period, billable start, increments, maximum, clinic-delay treatment and who approves overtime. Compare the full rule, not only the hourly rate.
-
 ### Can a family member interpret to save money?
 
 Family can support the patient, but should not automatically replace a qualified interpreter for consent, medicines, anesthesia, complications or discharge. Ask the hospital about its policy and professional options.
-
-### How can I avoid paying twice for coordination?
-
-Ask the hospital what its package includes, obtain the external supplier’s itemized scope, disclose commissions and margins, and match every final invoice line to a named deliverable.
 
 ## SEO Metadata
 

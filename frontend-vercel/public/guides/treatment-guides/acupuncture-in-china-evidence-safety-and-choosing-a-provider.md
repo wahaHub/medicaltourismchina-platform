@@ -1,4 +1,4 @@
-# 067 Acupuncture in China: Evidence, Safety, and Choosing a Provider
+# Acupuncture in China: Evidence, Safety, and Choosing a Provider
 
 ## Hero
 

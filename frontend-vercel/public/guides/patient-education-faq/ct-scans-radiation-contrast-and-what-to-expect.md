@@ -148,14 +148,6 @@ No. Shellfish allergy does not specifically predict iodinated-contrast reaction.
 
 Not automatically. Current guidance depends on acute kidney injury, renal function, procedure and local policy. Follow the radiology/ordering team’s written instruction for the last dose, restart and any repeat test.
 
-### Can I have CT while pregnant?
-
-Sometimes, when the information is important and alternatives cannot answer the question quickly enough. Tell the team before scanning so they can assess fetal exposure, alternatives, urgency and protocol optimization.
-
-### Why are non-contrast and contrast images both needed?
-
-They show different information, but each acquisition adds radiation. Ask which phase answers which clinical question. “With and without” should be a deliberate protocol, not an automatic add-on.
-
 ## SEO Metadata
 
 - **Slug:** `ct-scans-radiation-contrast-and-what-to-expect`

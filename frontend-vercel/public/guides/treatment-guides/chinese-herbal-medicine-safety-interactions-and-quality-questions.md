@@ -1,4 +1,4 @@
-# 070 Chinese Herbal Medicine Safety: Interactions and Quality Questions
+# Chinese Herbal Medicine Safety: Interactions and Quality Questions
 
 ## Hero
 
@@ -141,10 +141,6 @@ Before returning home, give the clinician or pharmacist the complete formulation
 ### Are concentrated granules equivalent to the same gram amount of raw herbal pieces?
 
 Not necessarily. Extraction ratio, concentration, excipients and manufacturer specifications matter. Use the product-specific prescription and instructions rather than converting gram for gram.
-
-### Does a Chinese Pharmacopoeia standard prove that a formula is effective?
-
-No. A pharmacopoeial standard addresses identity, quality specifications and testing. Clinical suitability, dose, evidence and interactions still need an individual assessment.
 
 ### Is taking herbs two hours apart from prescription medicines enough?
 

@@ -1,4 +1,4 @@
-# 034 Stereotactic Body Radiotherapy (SBRT): A Patient Guide
+# Stereotactic Body Radiotherapy (SBRT): A Patient Guide
 
 ## Hero
 
@@ -108,14 +108,6 @@ An estimate should separate specialist review, repeat imaging or pathology, simu
 Travel dates should allow for planning and clinical review after the last fraction. Site-specific complications may not appear before the patient boards a plane; a named home-country radiation oncologist and an emergency plan remain necessary.
 
 **Medical disclaimer:** This guide provides general education and cannot determine SBRT eligibility, dose or fractionation. Those decisions require review by a radiation oncologist and qualified physics team using the patient's complete pathology, imaging, prior treatment and organ-at-risk constraints. Severe or rapidly worsening symptoms require urgent local assessment.
-
-## Related Hospitals
-
-List only centres whose stereotactic radiotherapy licence, disease-site experience, medical-physics support, image guidance and complication pathway have been verified.
-
-## Related Treatments
-
-Do not link SBRT as a generic upgrade. Relate it only to a defined tumour site and clinical indication after specialist review.
 
 ## Related Guides
 

@@ -1,4 +1,4 @@
-# 098 What Makes a Strong International Medical Department?
+# What Makes a Strong International Medical Department?
 
 ## Hero
 
@@ -249,10 +249,6 @@ Score the department on what can be demonstrated:
 
 Not always. It may be a service/coordination office, a dedicated clinical unit or a separate licensed clinic. Confirm the legal entity and which clinical department owns care.
 
-### Does “English-speaking service” mean medical interpretation is available?
-
-No. Ask who interprets high-risk clinical conversations, their training, after-hours availability and how written translations are checked.
-
 ### What is the single most important sign of a strong service?
 
 Visible clinical ownership: at every stage, the patient can identify the clinician responsible for decisions and the documented escalation route when that person is unavailable.
@@ -289,4 +285,3 @@ Diagnosis/treatment summary, reconciled medicines, results and pending-item owne
 
 - **Decision:** Approved after editorial review; copied as `hero-reviewed.png`.
 - **Editorial note:** The international traveller, coordinator, hospital reception and world map clearly signal international navigation. The image does not show clinical ownership, interpretation quality or emergency capability, so it is retained only as a service-access concept image and not evidence that a department is strong.
-

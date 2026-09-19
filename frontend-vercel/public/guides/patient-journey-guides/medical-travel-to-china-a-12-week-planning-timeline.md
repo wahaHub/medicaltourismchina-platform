@@ -1,4 +1,4 @@
-# 121 Medical Travel to China: A 12-Week Planning Timeline
+# Medical Travel to China: A 12-Week Planning Timeline
 
 ## Hero
 
@@ -100,14 +100,6 @@ Build a buffer into the itinerary. If the patient is not fit to fly, change the 
 
 **Medical disclaimer:** This timeline is general planning guidance, not approval to travel or undergo treatment. The treating clinicians must decide whether travel, delay, treatment and return flight are medically appropriate for the individual patient.
 
-## Related Hospitals
-
-Select and verify the hospital before booking. The correct destination depends on the patient’s diagnosis, required department and support needs.
-
-## Related Treatments
-
-The timeline does not confirm treatment availability. Eligibility and the final plan may change after examination or additional testing in China.
-
 ## Related Guides
 
 - How to Choose a Hospital in China
@@ -121,17 +113,9 @@ The timeline does not confirm treatment availability. Eligibility and the final 
 
 No. It is a workable planning window for many nonurgent cases, but pathology transfer, visa processing, complex review or changes in health can extend it. Urgent care should not wait for the timeline.
 
-### When should I book flights?
-
-After a clinician has reviewed the case and the hospital has provided a realistic appointment or admission window. Choose changeable tickets whenever possible.
-
 ### Do I need a special medical visa?
 
 Visa category and documents depend on nationality, purpose, duration and place of application. Check the current instructions from the responsible Chinese embassy, consulate or visa center; do not rely on an old article or another country’s checklist.[1]
-
-### How much recovery time should I add?
-
-Ask the treating clinician for a range based on the proposed care, and keep contingency days. The estimate may change after examination or if a complication occurs.
 
 ### What should stay in carry-on baggage?
 

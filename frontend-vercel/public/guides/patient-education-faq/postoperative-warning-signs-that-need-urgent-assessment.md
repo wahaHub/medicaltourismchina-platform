@@ -161,10 +161,6 @@ No. New one-sided swelling, warmth, pain or discoloration needs urgent same-day 
 
 A video or wound photo may help triage, but it cannot replace vital signs, examination, blood tests or imaging when a serious complication is possible. Use local emergency care first when red-lane signs are present.
 
-### Should I take leftover antibiotics if the wound looks infected?
-
-No. Contact the surgical team or a local clinician. The wound may need examination, drainage or a culture, and the correct treatment depends on the site, operation and severity.
-
 ## SEO Metadata
 
 - **Slug:** `postoperative-warning-signs-that-need-urgent-assessment`

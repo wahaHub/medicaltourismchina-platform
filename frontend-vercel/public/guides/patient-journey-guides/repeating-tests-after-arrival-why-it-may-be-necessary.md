@@ -1,4 +1,4 @@
-# 132 Repeating Tests After Arrival: Ask What Decision the New Result Will Change
+# Repeating Tests After Arrival: Ask What Decision the New Result Will Change
 
 ## Hero
 
@@ -201,4 +201,3 @@ Keep the order, preparation instructions, report, units and reference range, DIC
 4. [US FDA — Medical X-ray Imaging: Justification, Optimisation and Imaging History](https://www.fda.gov/radiation-emitting-products/medical-imaging/medical-x-ray-imaging)
 5. [American College of Radiology — Manual on Contrast Media](https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Contrast-Manual)
 6. [US National Cancer Institute — Surgical Pathology Reports and Second Opinions](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/pathology-reports-fact-sheet)
-

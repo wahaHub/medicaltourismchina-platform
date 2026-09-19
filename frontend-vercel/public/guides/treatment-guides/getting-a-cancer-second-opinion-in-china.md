@@ -1,4 +1,4 @@
-# 026 Getting a Cancer Second Opinion in China
+# Getting a Cancer Second Opinion in China
 
 ## Hero
 
@@ -85,14 +85,6 @@ Confirm accepted languages and translation requirements. Keep original records s
 Ask for the professional fee, pathology or imaging review charges, expected turnaround time and refund rules before sending payment. Avoid intermediaries who promise a particular conclusion, guarantee access to an experimental treatment or refuse to name the reviewing doctor.
 
 **Medical disclaimer:** This guide explains how to prepare for a cancer second opinion. It does not diagnose cancer or recommend a treatment. Urgent symptoms and time-sensitive treatment decisions require prompt advice from the treating oncology team or local emergency services.
-
-## Related Hospitals
-
-Select a center only after confirming that the relevant tumor service, pathology or imaging review and named specialist are available for this case. No hospital is endorsed solely by appearing in this guide.
-
-## Related Treatments
-
-A second opinion may discuss standard treatment, off-label use or a clinical trial. Availability and eligibility must be confirmed by the treating center at the time of review.
 
 ## Related Guides
 

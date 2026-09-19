@@ -1,4 +1,4 @@
-# 111 怎样选择中国肿瘤医院：审核整条治疗链，而不是只看排名
+# 怎样选择中国肿瘤医院：审核整条治疗链，而不是只看排名
 
 ## Hero
 
@@ -114,14 +114,6 @@
 
 **医疗免责声明：** 本文提供一般选院和规划信息，不对中国肿瘤医院进行排名，也不推荐具体治疗。癌症诊断与治疗必须由合格医生结合完整病例决定。严重或快速恶化时应立即使用当地急救服务。
 
-## Related Hospitals
-
-只有核实法定机构、具体院区、癌种团队、病理和分期链、治疗执行、质量证据、救治能力和跨境随访后，才添加肿瘤中心；不要发布泛化“顶级医院”名单。
-
-## Related Treatments
-
-只有治疗、药品、器械或试验与已确认诊断、分期、生物标志物、患者状况、监管状态、责任中心和书面方案吻合时才链接。
-
 ## Related Guides
 
 - 中国肿瘤治疗前的病理复核
@@ -174,7 +166,3 @@
 8. [世界卫生组织国际临床试验注册平台：中国临床试验注册中心](https://www.who.int/tools/clinical-trials-registry-platform/network/primary-registries/chinese-clinical-trial-registry-%28chictr%29)
 9. [国家药品监督管理局：药物临床试验登记与信息公示要求](https://zwfw.nmpa.gov.cn/web/taskview/11100000MB0341032Y100207202900001)
 10. [美国国家癌症研究所：怎样寻找癌症诊疗机构](https://www.cancer.gov/about-cancer/managing-care/finding-cancer-care)
-
-## Hero Image Prompt
-
-使用内置图像工具为本文生成：无品牌的真实肿瘤多学科会诊场景，国际患者与陪同者共同参与，画面同时呈现匿名 CT、病理和治疗顺序。屏幕内容均为虚构视觉元素，不代表诊断、医院、疗效或推荐。

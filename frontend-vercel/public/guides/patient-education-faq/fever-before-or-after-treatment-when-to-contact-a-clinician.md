@@ -156,17 +156,9 @@ Before restarting postponed treatment or travel, obtain explicit clearance from 
 
 It is an immediate-call threshold during chemotherapy according to CDC guidance, and many high-risk teams use similarly cautious rules. Other situations may have a different written threshold. Emergency symptoms, rapid deterioration or severe immunosuppression require action even below 38.0°C.
 
-### Should I take paracetamol or acetaminophen before calling?
-
-Ask the treatment team first unless a written plan already says to take it. Fever-reducing medicines can lower the reading and hide progression, particularly during cancer treatment. Report any dose and time already taken.
-
 ### Can fever after surgery be a normal reaction?
 
 Some postoperative fevers have noninfectious causes, but a patient cannot reliably determine the cause from timing alone. Use the surgeon’s threshold and report the full pattern, especially wound changes, breathing symptoms, urinary symptoms, severe pain or deterioration after improvement.
-
-### What if the thermometer reads differently each time?
-
-Confirm the unit, battery and measurement method. If the patient is stable, repeat once using the agreed method and record both values. Do not average temperatures or delay a call when the patient is high risk or looks seriously ill.
 
 ### Where should an international patient seek help in China?
 

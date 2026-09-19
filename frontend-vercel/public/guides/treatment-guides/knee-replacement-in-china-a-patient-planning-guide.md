@@ -1,4 +1,4 @@
-# 042 Knee Replacement in China: A Patient Planning Guide
+# Knee Replacement in China: A Patient Planning Guide
 
 ## Hero
 
@@ -134,10 +134,6 @@ No. Imaging should be interpreted alongside pain, examination, function, diagnos
 ### Is partial knee replacement better than total knee replacement?
 
 It is better only for the right pattern of disease. Partial replacement may allow easier early recovery when damage is confined to one compartment and the knee meets anatomical and ligament criteria; more widespread disease usually needs another plan.[3]
-
-### Is a robotic knee replacement automatically more accurate or longer-lasting?
-
-Robotics and navigation are tools used to carry out an alignment and bone-cutting plan. Ask the surgeon what problem the technology solves in your case and what outcome evidence applies; the label alone does not guarantee function or implant survival.
 
 ### When can I fly home after knee replacement in China?
 

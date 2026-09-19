@@ -1,4 +1,4 @@
-# 052 Getting a Neurosurgery Second Opinion in China
+# Getting a Neurosurgery Second Opinion in China
 
 ## Hero
 

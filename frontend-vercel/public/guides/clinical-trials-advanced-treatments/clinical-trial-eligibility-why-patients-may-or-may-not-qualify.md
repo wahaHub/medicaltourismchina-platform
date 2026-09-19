@@ -1,4 +1,4 @@
-# 073 Clinical Trial Eligibility: Why Patients May or May Not Qualify
+# Clinical Trial Eligibility: Why Patients May or May Not Qualify
 
 ## Hero
 
@@ -121,14 +121,6 @@ Not yet. The listing supports pre-screening. The site must apply the full curren
 ### Can an abnormal laboratory result be repeated?
 
 Sometimes. The protocol specifies acceptable windows, repeat testing and rescreening. A transient result may improve, but tests should not be manipulated with unapproved treatment merely to cross a threshold.
-
-### Why does a trial exclude a previous treatment?
-
-The prior treatment may change safety, drug sensitivity or interpretation of outcomes. Ask for the scientific reason and the exact protocol definition; another trial may use different criteria.
-
-### Does screen failure mean I am too sick for all trials?
-
-No. Criteria differ by protocol, and failure may be biological, temporary, medical or operational. Request the specific reason and discuss other trials and standard care promptly.
 
 ### Can paying privately reserve a clinical-trial place?
 

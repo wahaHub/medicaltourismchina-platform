@@ -1,4 +1,4 @@
-# 086 Cell Therapy Manufacturing and Quality: Why It Matters
+# Cell Therapy Manufacturing and Quality: Why It Matters
 
 ## Hero
 
@@ -152,17 +152,9 @@ If care continues in another country, the home clinician should know whether the
 
 ## FAQ
 
-### Does GMP certification guarantee that my cell product will work?
-
-No. GMP supports consistent, controlled manufacture. It does not prove clinical efficacy, guarantee that an individual batch will pass or replace product-specific trial evidence.
-
 ### Why can an autologous CAR-T batch fail?
 
 Starting cells may be too few or poor quality; expansion or gene transfer may be inadequate; contamination, equipment or testing problems can occur; or the final product may miss identity, dose, viability or potency criteria.
-
-### Is a high cell viability result enough for release?
-
-No. Viability says how many measured cells are alive. It does not establish correct identity, purity, potency, sterility, dose or genetic safety.
 
 ### What is comparability after a manufacturing change?
 

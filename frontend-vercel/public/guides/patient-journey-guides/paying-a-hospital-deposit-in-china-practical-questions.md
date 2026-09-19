@@ -1,4 +1,4 @@
-# 134 Hospital Deposits in China: Match the Payer, Patient Account and Refund Route
+# Hospital Deposits in China: Match the Payer, Patient Account and Refund Route
 
 ## Hero
 
@@ -177,4 +177,3 @@ Requirements differ, but a defensible packet usually includes the estimate or pr
 3. [National Health Commission — Internal Price Conduct Rules for Medical Institutions](https://www.nhc.gov.cn/caiwusi/c100043/202001/9a04a37485214153ba8761abadf17726.shtml)
 4. [Ministry of Finance, National Health Commission and National Healthcare Security Administration — Nationwide Medical Electronic Billing Tickets](https://www.mof.gov.cn/gkml/caizhengwengao/wg201901/wg201908/201912/t20191230_3452059.htm)
 5. [National People's Congress — Basic Medical and Health Promotion Law of the People's Republic of China](https://www.npc.gov.cn/c2/c30834/201912/t20191231_304414.html)
-

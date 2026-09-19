@@ -1,4 +1,4 @@
-# 102 Choosing a Hospital in Shanghai: Specialties, Access, and Travel
+# Choosing a Hospital in Shanghai: Specialties, Access, and Travel
 
 ## Hero
 
@@ -208,14 +208,6 @@ Any blank that could delay treatment, hide a cost or separate the patient from u
 
 **Medical disclaimer:** This guide provides general planning information and does not rank or endorse Shanghai hospitals. A qualified clinical team must review the patient’s complete history before treatment or travel decisions. Seek immediate local emergency care for severe or rapidly worsening symptoms instead of delaying care to travel.
 
-## Related Hospitals
-
-Add a Shanghai hospital only after confirming the current campus, service line, responsible team and full clinical pathway. Do not reproduce a generic “best hospital” list.
-
-## Related Treatments
-
-Link only a treatment verified at the exact Shanghai campus and available through the proposed care lane. Preliminary interest is not proof of eligibility.
-
 ## Related Guides
 
 - Shanghai Medical Care for International Patients
@@ -266,7 +258,3 @@ Ask whether the hospital can consolidate them. If not, map door-to-door transfer
 6. [Shanghai Municipal Government — Airport Link Line Timetable Adjustment, April 2026](https://www.shanghai.gov.cn/nw17239/20260401/5131b375c3d44c22a2222266ede0a326.html)
 7. [Shanghai International Services / Shanghai Customs — Emergency Medical Entry Coordination](https://english.shanghai.gov.cn/en-ImmigrationCustoms/20260602/0360c3e57d3c4376968b20f950a368ea.html)
 8. [Shanghai International Services — Emergency Numbers and How to Call 120](https://english.shanghai.gov.cn/en-EmergencyNumbers/20241210/cbc5280b9f96440a93234bfc5e0c1023.html)
-
-## Hero Image Prompt
-
-Retained after visual review. The map, calendar, suitcase, train and Shanghai skyline fit the hospital-access and travel-planning theme. The depicted hospital and transport relationship are illustrative, not a real campus, timetable or endorsement.

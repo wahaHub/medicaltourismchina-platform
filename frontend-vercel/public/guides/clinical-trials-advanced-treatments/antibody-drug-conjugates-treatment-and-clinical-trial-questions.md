@@ -1,4 +1,4 @@
-# 079 Antibody-Drug Conjugates: Treatment and Clinical Trial Questions
+# Antibody-Drug Conjugates: Treatment and Clinical Trial Questions
 
 ## Hero
 
@@ -151,14 +151,6 @@ An international patient should leave each cycle with the exact drug name, dose,
 ### Is an ADC simply a monoclonal antibody plus ordinary chemotherapy?
 
 It is a chemically defined antibody-linker-payload product with its own pharmacology. The payload may be highly potent, and release, distribution and toxicity depend on the full construct.
-
-### Does a target-positive result guarantee benefit?
-
-No. Assay method, threshold, tumour heterogeneity, internalisation, intracellular processing and payload sensitivity all matter, and clinical benefit still remains uncertain.
-
-### Are all ADC side effects similar?
-
-No. Some products are especially associated with lung, eye, skin, nerve, blood-count, gastrointestinal, cardiac or metabolic risks. Use the exact current label or protocol.
 
 ### Can I use an older pathology result for trial screening?
 

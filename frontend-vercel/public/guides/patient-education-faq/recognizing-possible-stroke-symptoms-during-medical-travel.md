@@ -117,10 +117,6 @@ Do not use a missed booking as the reason to abbreviate observation or rehabilit
 
 ## FAQ
 
-### What if only the face droops and the arm seems normal?
-
-One sudden focal sign is enough to suspect stroke. Call emergency services, note the last-known-well time and do not wait for another BE-FAST sign to appear.
-
 ### Should I drive the patient to the hospital I originally selected?
 
 No. Call an ambulance. The patient can deteriorate in transit, and emergency teams can assess, monitor and route them to an appropriate stroke-capable facility. A distant preferred hospital should not create a detour.

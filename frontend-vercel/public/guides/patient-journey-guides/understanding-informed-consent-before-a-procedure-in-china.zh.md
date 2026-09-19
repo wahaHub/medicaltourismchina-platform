@@ -1,4 +1,4 @@
-# 136 在中国做操作前的知情同意：审核决定，不只检查签名
+# 在中国做操作前的知情同意：审核决定，不只检查签名
 
 ## Hero
 
@@ -199,4 +199,3 @@
 4. [国家卫生健康委——《手术安全核查制度》](https://www.nhc.gov.cn/zwgk/wtwj/201304/f95253fa25c14d339ed99ef75f5c2b17.shtml)
 5. [国家卫生健康委——医疗质量安全核心制度要点](https://www.nhc.gov.cn/yzygj/c100068/201804/42ab2552298047679cd6ec733f233862.shtml)
 6. [世界卫生组织——手术安全核查表](https://www.who.int/docs/default-source/patient-safety/9789241598590-eng-checklist.pdf)
-

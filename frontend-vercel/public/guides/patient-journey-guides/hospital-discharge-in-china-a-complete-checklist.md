@@ -1,4 +1,4 @@
-# 141 Hospital Discharge in China: Do Not Leave Until Six Closure Chains Agree
+# Hospital Discharge in China: Do Not Leave Until Six Closure Chains Agree
 
 ## Hero
 
@@ -175,14 +175,6 @@ Use staged status language when delays occur: **medically cleared; clinical docu
 ### Does a signed discharge order mean the patient can leave immediately?
 
 Not always. It usually records a clinical decision, while pharmacy, results, device training, documentation, settlement and transport may still be open. Ask which of the six closure chains remains incomplete and who owns it.
-
-### What should happen if a result is still pending?
-
-Record the exact test, expected date, reviewing clinician, delivery channel, overdue contact and action if abnormal. The hospital should retain a review route; the patient should also have a backup route if no message arrives.
-
-### Which medicine list controls after discharge?
-
-The final reconciled discharge list should control, but only after differences from pre-admission and inpatient medicines are explained. Every item needs an action, dose, route, timing, duration or stop date, and reason.
 
 ### Can departure wait for supplies, training or transport?
 

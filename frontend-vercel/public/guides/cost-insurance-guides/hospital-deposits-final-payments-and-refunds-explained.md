@@ -1,4 +1,4 @@
-# 153 Hospital Deposits and Refunds in China: Follow the Money to Closure
+# Hospital Deposits and Refunds in China: Follow the Money to Closure
 
 ## Hero
 

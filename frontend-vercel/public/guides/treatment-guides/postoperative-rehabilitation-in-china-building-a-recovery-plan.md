@@ -1,4 +1,4 @@
-# 063 Postoperative Rehabilitation in China: Building a Recovery Plan
+# Postoperative Rehabilitation in China: Building a Recovery Plan
 
 ## Hero
 
@@ -181,10 +181,6 @@ Preparation may begin before surgery, and appropriate activity often starts earl
 ### Is pain during therapy normal?
 
 Some discomfort may be expected, but the acceptable pattern is procedure-specific. Sudden, escalating or different pain—and pain with fever, swelling, chest symptoms, loss of function or new neurological change—needs reassessment rather than more exercise or medication.
-
-### Do I need inpatient rehabilitation?
-
-Not everyone does. The decision depends on medical complexity, intensity of multidisciplinary therapy needed, ability to participate, safety at the next destination and available caregiver support. Ask for the functional reasons behind the recommended setting.
 
 ### When can I fly home after surgery?
 

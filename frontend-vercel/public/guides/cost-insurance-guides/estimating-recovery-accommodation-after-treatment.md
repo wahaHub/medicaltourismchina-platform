@@ -1,4 +1,4 @@
-# 164 Recovery Accommodation After Treatment in China: Estimate by Exit Criteria
+# Recovery Accommodation After Treatment in China: Estimate by Exit Criteria
 
 ## Hero
 
@@ -237,10 +237,6 @@ Only then finalize checkout and return travel. The accommodation estimate has do
 ### Is hospital discharge the right date for hotel checkout and the flight home?
 
 No. Discharge, safe nonclinical recovery and fitness for a long journey are separate gates and can occur on different dates.
-
-### How many extra nights should I reserve?
-
-Price a defined extension—such as seven nights plus another clinic visit—then ask which clinical events would activate it. Avoid an arbitrary percentage alone.
 
 ### Is a hotel with an accessible room enough after surgery?
 

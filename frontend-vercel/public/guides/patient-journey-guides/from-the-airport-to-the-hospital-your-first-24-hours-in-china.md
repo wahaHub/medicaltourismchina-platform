@@ -1,4 +1,4 @@
-# 129 Your First 24 Hours in China: Make Every Handoff Visible
+# Your First 24 Hours in China: Make Every Handoff Visible
 
 ## Hero
 
@@ -149,14 +149,6 @@ No. Go directly only when the named hospital team has confirmed a same-day asses
 
 Prevent that gap by naming the handoff point and the person accepting responsibility. Confirm whether assistance reaches the public meeting area or vehicle. If it does not, arrange a separate airport service, trained escort or accessible transfer rather than expecting the companion to improvise.
 
-### Can the driver hold the patient's passport or medical records?
-
-The patient or an explicitly authorised companion should retain identity and clinical documents. A service may need limited details to verify the booking, but there is normally no operational reason for a driver to keep original passports or the complete medical file.
-
-### How should medicines be handled after crossing many time zones?
-
-Use a prescriber-approved schedule showing the last and next dose in both time zones. On arrival, reconcile what was actually taken. Do not calculate a catch-up dose from memory, especially for time-critical or narrow-therapeutic-index medicines.
-
 ### What information should be ready when calling 120?
 
 Give the exact location and visible landmark, the main emergency, patient age if known, hazards or access barriers, and a callback number. Keep the line available, follow dispatcher instructions and send someone to guide responders when this is safe.
@@ -182,4 +174,3 @@ Give the exact location and visible landmark, the main emergency, patient age if
 6. [CDC Yellow Book — Travelers with Chronic Illnesses](https://www.cdc.gov/yellow-book/hcp/travelers-with-additional-considerations/travelers-with-chronic-illnesses.html)
 7. [AHRQ — Medication Reconciliation Introduction](https://www.ahrq.gov/patient-safety/settings/hospital/match/intro.html)
 8. [CDC Yellow Book — Jet Lag Disorder](https://www.cdc.gov/yellow-book/hcp/travel-air-sea/jet-lag-disorder.html)
-

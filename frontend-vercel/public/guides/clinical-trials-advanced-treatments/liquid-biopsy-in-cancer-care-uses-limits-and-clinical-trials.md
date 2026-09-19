@@ -1,4 +1,4 @@
-# 092 Liquid Biopsy in Cancer Care: Uses, Limits, and Clinical Trials
+# Liquid Biopsy in Cancer Care: Uses, Limits, and Clinical Trials
 
 ## Hero
 
@@ -117,10 +117,6 @@ Do not let a report’s list of “associated drugs” override pathology, tumou
 ### Can a liquid biopsy diagnose my cancer without tissue?
 
 Sometimes it contributes molecular information, but it often cannot establish histology, grade or tissue architecture. Tissue is still required in many diagnostic situations.
-
-### Does “ctDNA not detected” mean I am cancer-free?
-
-No. Disease may be present below the assay’s detection limit or may shed little DNA. Interpret the result with imaging, pathology, stage and sampling time.
 
 ### Can liquid biopsy select a targeted drug?
 

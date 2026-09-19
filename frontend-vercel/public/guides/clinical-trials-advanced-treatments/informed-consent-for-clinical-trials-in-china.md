@@ -1,4 +1,4 @@
-# 074 Informed Consent for Clinical Trials in China
+# Informed Consent for Clinical Trials in China
 
 ## Hero
 
@@ -122,14 +122,6 @@ If these answers are unclear, pause. A consent form can be signed later; misunde
 ### Can the coordinator ask me to sign before the doctor speaks with me?
 
 Delegated staff may support the process, but questions involving medical judgment must be answered by qualified study personnel. Do not sign until the approved information is explained and your questions are answered.
-
-### Does signing mean I cannot leave the trial?
-
-No. Participation remains voluntary, and you may withdraw. Ask how to stop the intervention safely and what data, samples or follow-up can or must remain after withdrawal.
-
-### Is an English translation enough for an international patient?
-
-Only if the patient genuinely understands it and the site’s ethics-approved process supports its use. Confirm version control, interpreter support and which language controls if texts differ.
 
 ### Is a family interpreter the same as an impartial witness?
 

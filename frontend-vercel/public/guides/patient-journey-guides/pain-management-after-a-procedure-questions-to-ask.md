@@ -1,4 +1,4 @@
-# 139 Pain After a Procedure: Set a Function Target and a Rescue Boundary
+# Pain After a Procedure: Set a Function Target and a Rescue Boundary
 
 ## Hero
 
@@ -213,4 +213,3 @@ It depends on the medicine and destination country's controlled-drug and import 
 4. [US Centers for Disease Control and Prevention — Clinical Practice Guideline for Prescribing Opioids for Pain (2022)](https://www.cdc.gov/mmwr/volumes/71/rr/rr7103a1.htm)
 5. [US Food and Drug Administration — Discussing Naloxone With Patients Prescribed Opioids](https://www.fda.gov/drugs/drug-safety-communications/fda-recommends-health-care-professionals-discuss-naloxone-all-patients-when-prescribing-opioid-pain)
 6. [National Health Commission — Action Plan to Further Improve Nursing Services (2023–2025)](https://www.nhc.gov.cn/yzygj/c100068/202306/8fe28be0f8e241cb8444b4f242706495.shtml)
-

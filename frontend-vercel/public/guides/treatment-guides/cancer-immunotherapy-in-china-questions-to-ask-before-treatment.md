@@ -1,4 +1,4 @@
-# 031 Cancer Immunotherapy in China: Questions to Ask Before Treatment
+# Cancer Immunotherapy in China: Questions to Ask Before Treatment
 
 ## Hero
 
@@ -91,14 +91,6 @@ Clarify whether duration is defined by a fixed number of cycles, a maximum time,
 An infusion can finish in an hour while follow-up lasts months. Some endocrine injury may require long-term hormone replacement, and new immune-related problems may begin after the final dose.[7] The handover plan therefore needs more than a “next scan” date. It should specify monitoring results, unresolved symptoms, prior toxicity grade and treatment, steroid taper if any, next planned dose, criteria for restarting and the clinical owner at home.
 
 **Medical disclaimer:** This guide provides general education and does not determine eligibility for immunotherapy or manage an adverse event. New or rapidly worsening symptoms during or after immunotherapy require prompt evaluation by clinicians who know the exact treatment. Severe breathing difficulty, chest pain, confusion, weakness or other emergency symptoms need immediate local care.
-
-## Related Hospitals
-
-List only institutions whose tumour-specific oncology team, pharmacy, immune-toxicity pathway and international follow-up arrangements have been verified.
-
-## Related Treatments
-
-Separate checkpoint inhibitors from cell therapy and clinical trials. Link a medicine only after verifying the current product, indication and hospital availability.
 
 ## Related Guides
 

@@ -1,4 +1,4 @@
-# 133 Hospital Admission in China: Know When the Bed, Account and Clinical Responsibility Become Real
+# Hospital Admission in China: Know When the Bed, Account and Clinical Responsibility Become Real
 
 ## Hero
 
@@ -202,4 +202,3 @@ When identity is verified, the inpatient account and bed are active, the ward ha
 3. [National Health Commission and Partner Agencies — Regulation of Prepayments at Public Medical Institutions (2025)](https://www.nhc.gov.cn/caiwusi/c100043/202503/6e557f14642445099064cf61ef1645ca.shtml)
 4. [National Health Commission — Internal Price Conduct Rules for Medical Institutions](https://www.nhc.gov.cn/caiwusi/c100043/202001/9a04a37485214153ba8761abadf17726.shtml)
 5. [National Health Commission — WS/T 840—2025 Patient Identification Management Standard](https://www.nhc.gov.cn/fzs/c100048/202508/ca6d87e1ab7442b99db623c702110c9c/files/WST%20840-2025%E6%82%A3%E8%80%85%E8%BA%AB%E4%BB%BD%E8%AF%86%E5%88%AB%E7%AE%A1%E7%90%86%E6%A0%87%E5%87%86.pdf)
-

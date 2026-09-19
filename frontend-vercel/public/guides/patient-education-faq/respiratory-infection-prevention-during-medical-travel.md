@@ -153,14 +153,6 @@ A high-quality, well-fitting respirator can add protection in crowded indoor set
 
 No. Antibiotics do not prevent viral respiratory infections and can cause adverse effects and resistance. A narrowly defined prophylactic antibiotic is used only for specific medical indications prescribed by a clinician—not routine air travel.
 
-### 4. What if I develop a cough the day before surgery or treatment?
-
-Contact the receiving team before travel or hospital arrival. Report fever, exposure, test results, breathing symptoms and onset date. The decision may be to assess, test, isolate, treat or reschedule; hiding symptoms can make care less safe.
-
-### 5. Is one negative rapid test enough to protect the patient?
-
-Not always. Timing, specimen quality and the pathogen affect sensitivity. Use testing when it changes treatment or precautions and follow instructions about repeat testing. Continue layered measures when symptoms or a high-risk exposure remain.
-
 ## SEO Metadata
 
 - **SEO title:** Prevent Respiratory Infection During Medical Travel

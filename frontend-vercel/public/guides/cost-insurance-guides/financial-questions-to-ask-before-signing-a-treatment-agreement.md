@@ -132,17 +132,9 @@ If the two answers differ, the agreement is not operationally clear yet. The pau
 
 Not automatically. Some care can be packaged, while diagnosis, complications and length of stay may remain variable. The useful demand is a transparent baseline, specific change triggers, an approval process and prompt itemized reporting—not a fictional guarantee that clinical needs cannot change.
 
-### Is a quotation the same as a signed treatment agreement?
-
-No. A quotation may describe a preliminary scope without settling cancellation, authority, refund, governing language or disputes. Incorporate the accepted quotation by title, date and version into the signed agreement or its schedule.
-
 ### Can the hospital charge more in an emergency without prior approval?
 
 Necessary emergency care may not allow time for advance financial consent. The agreement can still define who must be notified, how soon an interim statement is issued, what records support the charge and how the decision is reviewed afterward.
-
-### What if the English and Chinese versions do not match?
-
-Flag the exact clauses before signing, obtain a corrected bilingual version and state which text prevails if an inconsistency remains. Keep both signed texts and the explanation of any material standard term; do not rely on an informal chat translation.
 
 ### What should the patient take home after final settlement?
 
@@ -167,4 +159,3 @@ Keep the signed agreement and amendments, final itemized expense list, official 
 4. [Ministry of Finance and Ministry of Health: Administrative Measures for Medical Charging Receipts](https://www.mof.gov.cn/gkml/caizhengwengao/2012wg/wg201211/201302/t20130204_732021.htm)
 5. [Ministry of Finance, National Health Commission and National Healthcare Security Administration: National Electronic Medical Charging Receipt Reform](https://www.mof.gov.cn/gkml/caizhengwengao/wg201901/wg201908/201912/t20191230_3452059.htm)
 6. [Supreme People’s Court: Interpretation on the General Provisions of the Contract Part of the Civil Code](https://gongbao.court.gov.cn/Details/f4722cf61c92a585f04b2ecd334f5b.html)
-

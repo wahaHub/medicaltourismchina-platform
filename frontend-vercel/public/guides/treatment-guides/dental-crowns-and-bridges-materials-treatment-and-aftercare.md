@@ -1,4 +1,4 @@
-# 060 Dental Crowns and Bridges: Materials, Treatment, and Aftercare
+# Dental Crowns and Bridges: Materials, Treatment, and Aftercare
 
 ## Hero
 
@@ -150,10 +150,6 @@ It requires preparation of supporting teeth, so the trade-off is real. It may be
 ### How can I tell whether a crown or bridge fits properly?
 
 The dentist checks seating, margins, contacts, bite and cleanability using examination and, when indicated, intraoral radiographs.[4] The patient should report pain, a high bite, floss catching or shredding, food trapping, poor speech or dissatisfaction with shape and colour before final cementation.
-
-### How do I clean under a fixed bridge?
-
-An ordinary toothbrush cannot reach the underside. Use the floss threader, superfloss, interdental brush or other aid demonstrated for the bridge's actual space. Persistent bleeding, bad taste, swelling or inability to pass a cleaning aid warrants review rather than more force.
 
 ## SEO Metadata
 

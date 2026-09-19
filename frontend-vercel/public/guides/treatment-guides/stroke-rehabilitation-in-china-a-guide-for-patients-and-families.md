@@ -1,4 +1,4 @@
-# 048 Stroke Rehabilitation in China: A Guide for Patients and Families
+# Stroke Rehabilitation in China: A Guide for Patients and Families
 
 ## Hero
 
@@ -149,10 +149,6 @@ The strongest rehabilitation programme is one whose work can continue after the 
 
 ## FAQ
 
-### When should stroke rehabilitation start?
-
-Assessment and early rehabilitation usually begin once the patient is medically stable and able to participate. Timing and intensity depend on stroke severity, acute treatment, complications, alertness and tolerance; new neurological symptoms require emergency assessment first.
-
 ### Is three hours of therapy a day right for everyone?
 
 No. NICE recommends up to 3 hours a day across relevant therapies on at least 5 days a week when the person can participate, but necessary therapy should still be offered across 5 days when that dose is not tolerated.[1] Active, goal-directed practice and response matter more than a marketed number.
@@ -160,10 +156,6 @@ No. NICE recommends up to 3 hours a day across relevant therapies on at least 5 
 ### Can a patient eat if there is no coughing?
 
 Not on that basis alone. Aspiration can occur without obvious coughing. Swallow screening should occur before oral food, drink or medication, followed by specialist assessment when the screen is not passed.[3]
-
-### Will a rehabilitation robot make the arm or leg recover faster?
-
-Technology may increase safe repetitions for selected patients, but it is an adjunct. Ask which impairment it targets, how much active work the patient performs, what evidence applies and how gains transfer to dressing, walking or other real tasks.
 
 ### What should the family take home after treatment in China?
 

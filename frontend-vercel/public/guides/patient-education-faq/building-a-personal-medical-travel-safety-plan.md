@@ -182,17 +182,9 @@ No. Insurance may finance defined events; the safety plan also covers clinical d
 
 The patient owns it, while relevant parts should be reviewed by the home clinician, destination team, travel-medicine clinician when appropriate, insurer and caregiver. No single party controls every risk.
 
-### 3. How many risks should the register contain?
-
-Usually five to ten high-priority failures are more usable than a hundred generic hazards. Choose those most likely to cause serious harm or derail continuity.
-
 ### 4. What if there is no 24-hour number from the treating hospital?
 
 Document the gap and create a local alternative: emergency department, urgent service and home clinician. Do not represent daytime messaging as round-the-clock clinical cover.
-
-### 5. When must the plan be updated?
-
-After any diagnosis, condition, medicine, treatment, route, caregiver, insurance or return-date change—and at the mandatory gates before departure, treatment, discharge and return.
 
 ## SEO Metadata
 

@@ -1,4 +1,4 @@
-# 130 第一次到中国医院就诊：离开时要带走一份“决策记录”
+# 第一次到中国医院就诊：离开时要带走一份“决策记录”
 
 ## Hero
 
@@ -189,4 +189,3 @@ WHO 将诊断错误、用药错误、患者身份错误和沟通失效列为可�
 6. [AHRQ：用药核对](https://www.ahrq.gov/patient-safety/settings/hospital/match/appendix/app-7.html)
 7. [司法部法规库：《医疗纠纷预防和处理条例》](https://xzfg.moj.gov.cn/law/download?LawID=438&type=pdf)
 8. [国家卫生健康委员会：《关于进一步加强医疗机构电子病历信息使用管理的通知》](https://www.nhc.gov.cn/yzygj/c100068/202506/c68abee7c54b4651a774cd533761780b.shtml)
-

@@ -1,4 +1,4 @@
-# 127 Flights Before and After Treatment in China: Four Clearances, Not One Date
+# Flights Before and After Treatment in China: Four Clearances, Not One Date
 
 ## Hero
 
@@ -147,10 +147,6 @@ No. Discharge addresses inpatient need. Flight adds cabin pressure, immobility, 
 
 There is no universal number. The operation, residual gas, bleeding/infection, oxygen, anaemia, clot risk, mobility, complications and route determine the decision.
 
-### Is a doctor's fit-to-fly letter enough for the airline?
-
-Not necessarily. The operating carrier may require its own form, deadline, medical desk approval, equipment documents or escort arrangements.
-
 ### Should I take aspirin or an anticoagulant for a long flight?
 
 Do not self-start either. A clinician should assess clot and bleeding risk and choose movement, compression or medicine only when appropriate.
@@ -179,7 +175,3 @@ Describe tasks: walking distance, stairs, transfers, cabin aisle chair, toiletin
 5. [US CDC Yellow Book: The Pre-Travel Consultation](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/the-pre-travel-consultation.html)
 6. [US CDC Yellow Book: Medical Tourism and Post-procedure Travel](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
 7. [Aerospace Medical Association: Medical Guidelines for Airline Travel](https://asma.org/publications/medical-publications-for-airline-travel/medical-guidelines-for-airline-travel/)
-
-## Hero Image Prompt
-
-Original illustration retained after review: travellers compare a route map, hospital and coloured treatment timeline before a flight. It fits pre/post-treatment planning but does not show a real hospital, ticket, clearance, airline approval or safe departure date.

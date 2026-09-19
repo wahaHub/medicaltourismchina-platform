@@ -1,4 +1,4 @@
-# 163 Food, Local Transport and Companion Costs in China: Budget by Day Type
+# Food, Local Transport and Companion Costs in China: Budget by Day Type
 
 ## Hero
 
@@ -230,17 +230,9 @@ The point is not to account for every cup of tea. It is to identify which small,
 
 Because clinic, inpatient, recovery and disruption days have different needs. A day-type model reveals expensive transitions and reduces false averages.
 
-### Are hospital meals normally included in the room charge?
-
-There is no universal rule. Ask whether patient meals, prescribed diets and companion meals are included, separately charged or unavailable.
-
 ### Is public transit suitable after treatment?
 
 Sometimes, but assess the full route, walking, stairs, standing, crowding and clinical restrictions. A taxi or accessible vehicle may be safer on some days.
-
-### What companion costs are often forgotten?
-
-Lost work, dependent care at home, daily hospital trips, laundry, phone/data, food preparation, extended stay and replacement support are common omissions.
 
 ### How should I set a contingency amount?
 

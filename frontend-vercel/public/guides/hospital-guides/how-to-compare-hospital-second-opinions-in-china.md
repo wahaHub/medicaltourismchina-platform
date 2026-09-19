@@ -1,4 +1,4 @@
-# 099 How to Compare Hospital Second Opinions in China
+# How to Compare Hospital Second Opinions in China
 
 ## Hero
 
@@ -270,4 +270,3 @@ You can compare service fees, but total treatment estimates are meaningful only 
 
 - **Decision:** Approved after editorial review; copied as `hero-reviewed.png`.
 - **Editorial note:** The patient, coordinator and booklet containing several hospital symbols make option comparison visible. It is a conceptual navigation image only: the booklet is not a set of independent medical opinions, and a coordinator cannot adjudicate clinical disagreement.
-

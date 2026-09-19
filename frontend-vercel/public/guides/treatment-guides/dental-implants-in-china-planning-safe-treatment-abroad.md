@@ -1,4 +1,4 @@
-# 058 Dental Implants in China: Planning Safe Treatment Abroad
+# Dental Implants in China: Planning Safe Treatment Abroad
 
 ## Hero
 

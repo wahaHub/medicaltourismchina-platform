@@ -1,4 +1,4 @@
-# 059 Full-Mouth Rehabilitation in China: A Patient Guide
+# Full-Mouth Rehabilitation in China: A Patient Guide
 
 ## Hero
 

@@ -1,4 +1,4 @@
-# 010 How to Prepare for a Remote Consultation With a Doctor in China
+# How to Prepare for a Remote Consultation With a Doctor in China
 
 ## Hero
 
@@ -130,14 +130,6 @@ Do not stop medication or delay urgent care solely because a remote opinion is p
 
 **Medical disclaimer:** Remote consultation cannot manage an emergency and may not establish a final diagnosis or treatment offer. Urgent symptoms require local in-person care.
 
-## Related Hospitals
-
-Use services provided or formally arranged by a verifiable licensed medical institution. Confirm which hospital holds the record and is responsible for the opinion.
-
-## Related Treatments
-
-Remote review can support triage and planning, but most procedures require separate in-person assessment and formal acceptance.
-
 ## Related Guides
 
 - How to Organise Medical Records Before Seeking Care in China
@@ -154,14 +146,6 @@ The permitted service and clinical limits depend on the platform, institution an
 ### Can the doctor prescribe medicine internationally?
 
 Do not assume so. Prescription authority, dispensing and cross-border validity are separate issues. Ask what the institution is authorised to provide and discuss any plan with a local prescriber.
-
-### Should I send every medical file I have?
-
-No. Send an indexed core set relevant to the question, then make the full archive available if requested.
-
-### May I record the consultation?
-
-Only with explicit permission and within the institution’s rules. A written clinical note is usually safer and easier to use for follow-up.
 
 ### What if the doctor recommends travelling to China?
 
@@ -188,4 +172,3 @@ Ask what remains preliminary, which tests are still required, whether the hospit
 ## Hero Image Review
 
 The original image is retained because it clearly shows a live cross-border video consultation, note-taking and a private home setting. It contains no readable patient data and does not imply that a suitcase or treatment plan has already been approved.
-

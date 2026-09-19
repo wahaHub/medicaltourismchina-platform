@@ -1,4 +1,4 @@
-# 083 Gene Therapy in China: Approved Uses, Trials, and Red Flags
+# Gene Therapy in China: Approved Uses, Trials, and Red Flags
 
 ## Hero
 

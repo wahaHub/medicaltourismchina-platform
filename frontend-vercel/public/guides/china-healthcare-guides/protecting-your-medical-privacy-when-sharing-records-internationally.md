@@ -1,4 +1,4 @@
-# 020 Protecting Your Medical Privacy When Sharing Records Internationally
+# Protecting Your Medical Privacy When Sharing Records Internationally
 
 ## Hero
 
@@ -219,14 +219,6 @@ Do not delete evidence of the incident before the responsible security team reco
 
 **Legal and medical disclaimer:** This guide provides general privacy and security information, not legal advice. Cross-border data obligations depend on the organisations, data, purpose, volume, location and current rules. Hospitals and service providers should obtain qualified Chinese and destination-country advice; patients should not delay emergency care for administrative formalities.
 
-## Related Hospitals
-
-Ask each hospital for its privacy contact, approved upload channels, overseas-recipient notice, retention policy and procedure for proxy access, correction and incident reporting.
-
-## Related Treatments
-
-Genomic testing, fertility care, mental-health care, infectious-disease treatment and rare-disease review can involve especially sensitive or family-linked information that merits a narrow disclosure plan.
-
 ## Related Guides
 
 - How to Organise Medical Records Before Seeking Care in China
@@ -243,10 +235,6 @@ This article does not make that blanket claim. The legal obligations differ betw
 ### Does signing one consent form allow every service provider to use my record?
 
 No such assumption is safe. Recipients, purposes, data categories and onward transfers should be disclosed specifically, and PIPL requires separate consent for certain sharing and sensitive-information activities unless another lawful basis applies.[1]
-
-### Is a password-protected ZIP enough?
-
-It is one control, not a complete system. Also verify the recipient, use strong encryption, send the password separately, limit access, set expiry and confirm deletion.
 
 ### Can I remove my name from DICOM files myself?
 
@@ -279,4 +267,3 @@ Individuals have deletion rights under specified legal conditions, but hospitals
 ## Hero Image Review
 
 The original illustration is retained because the global route, medical file, hospital and central lock directly communicate controlled cross-border health-data transfer. The image contains no readable patient information and does not imply that encryption alone satisfies every legal obligation.
-

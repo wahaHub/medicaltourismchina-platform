@@ -1,4 +1,4 @@
-# 064 Neurological Rehabilitation in China: Choosing the Right Program
+# Neurological Rehabilitation in China: Choosing the Right Program
 
 ## Hero
 
@@ -185,10 +185,6 @@ Ask for condition-specific physicians, rehabilitation nursing, PT, OT, speech/sw
 ### Is more therapy always better?
 
 No. Practice must be active, targeted and tolerable. Stroke guidance supports high needs-based intensity for people able to participate, but arousal, fatigue, pain, medical stability and learning capacity change the useful dose.[3]
-
-### Can a gait robot make someone walk independently?
-
-It may provide repetitive practice for selected patients, but independent walking also depends on strength, motor control, sensation, balance, cognition, endurance and environment. Require baseline measures, eligibility, stop rules and evidence that gains transfer outside the device.
 
 ### What if the patient cannot speak or understand the local language?
 

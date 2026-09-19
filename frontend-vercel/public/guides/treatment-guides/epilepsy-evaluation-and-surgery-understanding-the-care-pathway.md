@@ -1,4 +1,4 @@
-# 049 Epilepsy Evaluation and Surgery: Understanding the Care Pathway
+# Epilepsy Evaluation and Surgery: Understanding the Care Pathway
 
 ## Hero
 
@@ -181,10 +181,6 @@ Yes. Drug-resistant epilepsy can be referred to a tertiary centre even without a
 ### Is an implanted stimulator the same as removing the seizure focus?
 
 No. Resection or ablation targets defined tissue and may offer seizure freedom in selected focal epilepsy. VNS, DBS and responsive stimulation modulate networks and usually have different goals, follow-up and device obligations.
-
-### Can medicines be stopped immediately after successful surgery?
-
-Usually not. Medication changes depend on the epilepsy type, procedure, postoperative events, EEG and individual risk. Continue the prescribed regimen until the treating epilepsy team provides a documented taper or change.
 
 ## SEO Metadata
 

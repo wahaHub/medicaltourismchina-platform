@@ -86,10 +86,6 @@ Before departure, reconcile medicines, capture the final ECG and procedure/devic
 
 Many stable patients can, but the diagnosis, symptoms, recent events, oxygen requirement and itinerary matter. Recent heart attack, acute heart failure, unstable angina, stenting, ablation, surgery or device implantation needs cardiology clearance [1].
 
-### 2. Should antiplatelet or anticoagulant medicine be stopped before a flight?
-
-No routine stop is recommended for travel. Any interruption for a procedure must be coordinated by the prescribing and procedural teams because both clotting and bleeding risks matter.
-
 ### 3. Can I bring a pacemaker or ICD through airport security?
 
 Usually yes. Carry the device card, tell staff and follow the manufacturer’s screening instructions. Ask the cardiology team whether pre-travel interrogation or destination support is needed [1].

@@ -1,4 +1,4 @@
-# 151 How to Request an Itemized Treatment Estimate in China
+# How to Request an Itemized Treatment Estimate in China
 
 ## Hero
 
@@ -99,14 +99,6 @@ Instead of “How much will treatment cost?”, write:
 Do not ask the hospital to certify that the amount can never change. Ask it to explain why it may change.
 
 **Medical and financial disclaimer:** This guide is general educational information. It does not provide a price quote, insurance interpretation or treatment recommendation. Current prices, coverage and clinical needs must be confirmed in writing with the hospital and insurer.
-
-## Related Hospitals
-
-Request the estimate from the actual hospital and campus expected to provide care. Prices and billing arrangements should not be inferred from another institution.
-
-## Related Treatments
-
-The treatment scope must be clinically reviewed before cost comparison. A cheaper estimate for a different pathway is not a like-for-like alternative.
 
 ## Related Guides
 

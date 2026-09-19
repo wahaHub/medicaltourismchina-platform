@@ -1,4 +1,4 @@
-# 091 MR-Guided Radiotherapy: How Real-Time Imaging Supports Treatment
+# MR-Guided Radiotherapy: How Real-Time Imaging Supports Treatment
 
 ## Hero
 
@@ -119,10 +119,6 @@ No. MRI supplies images. Radiation is delivered by the integrated treatment unit
 ### Is the tumour watched continuously during every treatment?
 
 Not always. Some workflows use a setup scan only; others use cine imaging or gating for selected structures. Ask what is imaged during actual beam delivery.
-
-### Is a new plan made at every fraction?
-
-Not necessarily. The team may recalculate the original plan and adapt only when target coverage or organ constraints justify it. Policies vary by disease and centre.
 
 ### Can I have MR-guided treatment with a pacemaker or implant?
 

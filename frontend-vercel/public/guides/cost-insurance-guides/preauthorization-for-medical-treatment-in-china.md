@@ -1,4 +1,4 @@
-# 159 Preauthorization for Treatment in China: Make Approval Match the Actual Plan
+# Preauthorization for Treatment in China: Make Approval Match the Actual Plan
 
 ## Hero
 

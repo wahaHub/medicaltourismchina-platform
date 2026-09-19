@@ -1,4 +1,4 @@
-# 016 How to Organise Medical Records Before Seeking Care in China
+# How to Organise Medical Records Before Seeking Care in China
 
 ## Hero
 
@@ -207,14 +207,6 @@ Before pressing upload, check:
 
 **Medical disclaimer:** This guide explains record organisation, not what evidence is sufficient for a particular diagnosis or treatment. The receiving specialty team should define its requirements. Urgent symptoms require local assessment and should not wait for record preparation or remote review.
 
-## Related Hospitals
-
-Ask the target hospital which department receives the case, accepted file formats and sizes, whether DICOM upload is supported and how pathology material should be addressed.
-
-## Related Treatments
-
-Cancer, transplant, complex surgery, rare disease and revision procedures commonly require specialty-specific pathology, imaging and prior treatment material beyond a general summary.
-
 ## Related Guides
 
 - How to Share CT, MRI and Other Imaging Files With a Chinese Hospital
@@ -240,10 +232,6 @@ No for diagnostic review. Send the radiology report and the complete original DI
 
 Not always. Prioritise the summary and decision-critical documents after asking the recipient, but retain the complete original record and disclose what was not translated.
 
-### What if a report is still preliminary?
-
-Label it prominently, state what is pending and who will send the final or addendum. Do not allow a preliminary filename to masquerade as the final diagnosis.
-
 ## SEO Metadata
 
 - **Slug:** `how-to-organize-medical-records-before-seeking-care-in-china`
@@ -267,4 +255,3 @@ Label it prominently, state what is pending and who will send the final or adden
 ## Hero Image Review
 
 The original illustration is retained because it directly shows a patient bringing a mixed paper-and-digital record set to a Chinese clinician. The folder and devices reinforce organisation without displaying readable personal information.
-

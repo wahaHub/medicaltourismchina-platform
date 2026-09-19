@@ -1,4 +1,4 @@
-# 110 Choosing a Hospital in Hainan: Five Island Filters for Treatment and Recovery
+# Choosing a Hospital in Hainan: Five Island Filters for Treatment and Recovery
 
 ## Hero
 
@@ -121,14 +121,6 @@ Send a usable bilingual record to the clinician at home. Confirm who will manage
 
 **Medical disclaimer:** This guide provides general planning information and does not endorse a Hainan or Lecheng institution, product, or research project. Eligibility and treatment decisions require qualified clinical and regulatory review. Use immediate local emergency care for severe or rapidly worsening symptoms.
 
-## Related Hospitals
-
-Add a Hainan institution only after verifying the city, legal provider, exact campus, named team, regulatory pathway, emergency support, and post-island follow-up. Remove unrelated mainland hospital listings.
-
-## Related Treatments
-
-Link a special product only when its identity, regulatory route, designated institution, patient eligibility, consent, supply, monitoring, and aftercare are documented.
-
 ## Related Guides
 
 - Understanding Specially Permitted Imported Drugs and Devices in Boao Lecheng
@@ -142,17 +134,9 @@ Link a special product only when its identity, regulatory route, designated inst
 
 No. Lecheng is a specific pilot zone in Qionghai with particular institutions and policies. Those arrangements do not automatically apply in Haikou, Sanya, or every Hainan hospital.
 
-### Does overseas approval mean a drug or device can be used in Lecheng?
-
-No. The designated institution must confirm the applicable Chinese special pathway, patient need, product permission, supply, and monitoring before use.
-
 ### Is real-world research the same as receiving experimental treatment?
 
 Not necessarily. Ask whether care is routine, special-access use, research participation, or a combination, and obtain separate consent and cost information for each role.
-
-### Which Hainan airport should a medical traveller use?
-
-Choose after confirming the treatment address. Meilan, Phoenix, and Boao airports are in different locations, and route availability varies by date.
 
 ### Can I recover at a beach resort after treatment?
 
@@ -179,7 +163,3 @@ Only if the treating clinician agrees and the property lies within a safe monito
 6. [Hainan Provincial Government: International Airports and Open Ports](https://en.hainan.gov.cn/englishsite/Transportation/202506/d9b1aa47bb9b4f3c8f12503850e06357.shtml?ddtab=true)
 7. [Hainan Provincial Government: 2026 Government Work Report](https://en.hainan.gov.cn/englishsite/Reports/202602/8a1f1a7775ee4a1ca9acc9f1a7b04536.shtml?ddtab=true)
 8. [National Health Commission: Measures for the Administration of Pre-hospital Medical Emergency Care](https://www.nhc.gov.cn/wjw/c100221/202201/26ea3c97e82d466f9aa2b4a9901ae187/files/%E9%99%A2%E5%89%8D%E5%8C%BB%E7%96%97%E6%80%A5%E6%95%91%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95.pdf)
-
-## Hero Image Prompt
-
-Retained and reviewed the original concept illustration. The patient, rehabilitation worker, walking aid, progress chart, coastal view, palms, and Sanya-style buildings do not depict a real facility, treatment result, recovery timeline, or endorsement.

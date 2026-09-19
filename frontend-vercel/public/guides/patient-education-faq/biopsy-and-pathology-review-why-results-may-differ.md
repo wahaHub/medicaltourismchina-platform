@@ -179,14 +179,6 @@ Pathology is often the definitive basis for cancer diagnosis, but it still belon
 
 Usually not at first. The reviewing pathologist can examine existing slides and blocks. A new biopsy is considered only if the material is insufficient, no longer representative or unable to answer a treatment-changing question.
 
-### Why can a biopsy and surgical specimen have different diagnoses?
-
-A biopsy samples only part of a lesion, while a resection shows more tissue and architecture. Heterogeneity, treatment effect and tissue quality can reveal features not present in the smaller sample.
-
-### Should I send slides or the paraffin block?
-
-Follow the receiving laboratory’s written list. It may request H&E and stained slides, unstained slides, a selected block or all relevant material. Never send the only block without tracking, tissue planning and a return agreement.
-
 ### Which report should the oncologist use if they conflict?
 
 There should be a formal reconciliation based on the actual material, methods and clinical context, ideally with pathologist-to-pathologist discussion. The treating team should document the final governing diagnosis and any uncertainty.

@@ -1,4 +1,4 @@
-# 014 Informed Consent Across Languages: Questions Patients Should Ask
+# Informed Consent Across Languages: Questions Patients Should Ask
 
 ## Hero
 
@@ -148,14 +148,6 @@ Then confirm that the English explanation, interpreter’s words and Chinese for
 
 **Medical and legal disclaimer:** This guide provides general educational information and is not legal advice or a substitute for consent discussions with the treating team. Capacity, representation, emergency authority and documentation requirements depend on the circumstances and applicable law. Patients should ask the hospital to explain its current procedure.
 
-## Related Hospitals
-
-Before selecting an international service, ask which languages it supports for consent, whether trained interpreters are available after hours and how language assistance is documented.
-
-## Related Treatments
-
-Detailed consent is especially important for surgery, anaesthesia, invasive procedures, transfusion, fertility-related treatment, high-risk medicines, radiation and research participation.
-
 ## Related Guides
 
 - Medical Interpretation in China: What International Patients Need
@@ -172,14 +164,6 @@ The national sources cited here require understandable communication and appropr
 ### Can a coordinator explain the risks instead of the doctor?
 
 A coordinator can facilitate communication, but clinical risks, benefits and alternatives should come from the responsible clinical team. An interpreter transfers that explanation; neither role should invent clinical advice.
-
-### May I take the form away and discuss it?
-
-For non-emergency care, ask how much time is available and request a copy. Urgency varies, but pressure based only on travel arrangements or a sales deadline deserves scrutiny.
-
-### What if the form and the verbal explanation do not match?
-
-Do not sign until the treating team reconciles the procedure, side, risk or plan and corrects the document. Record the interpreter and obtain the final copy.
 
 ### Does signing mean I have accepted every possible change during surgery?
 
@@ -207,4 +191,3 @@ Not automatically. Ask the surgeon what foreseeable extensions or conversions ar
 ## Hero Image Review
 
 The original illustration is retained because it presents consent as an active, question-led conversation rather than a rushed signature. The checklist and question symbols reinforce deliberation, and the companion is shown supporting rather than replacing the patient.
-

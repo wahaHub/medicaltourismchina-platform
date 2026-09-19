@@ -1,4 +1,4 @@
-# 069 Integrative Supportive Care During Cancer Treatment in China
+# Integrative Supportive Care During Cancer Treatment in China
 
 ## Hero
 
@@ -120,10 +120,6 @@ Timing alone may not prevent an interaction because effects on enzymes, transpor
 ### Which supportive therapy is best for cancer-related fatigue?
 
 There is no single best option. First assess contributing causes. Tailored exercise, cognitive behavioural therapy and mindfulness programmes have guideline support, but the choice depends on medical status, preference, access and the main driver of fatigue.
-
-### Does palliative-care referral mean anticancer treatment is ending?
-
-No. Palliative care can begin early and work alongside active treatment to address symptoms, communication, quality of life and caregiver needs.
 
 ### What should be in the discharge record?
 

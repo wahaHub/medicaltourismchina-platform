@@ -1,4 +1,4 @@
-# 128 Accommodation Near a Chinese Hospital: Test the Recovery Route, Not the Map Pin
+# Accommodation Near a Chinese Hospital: Test the Recovery Route, Not the Map Pin
 
 ## Hero
 
@@ -144,17 +144,9 @@ Use door-to-service time and effort, not a fixed distance. Measure the route to 
 
 Not automatically. An apartment may offer kitchen and laundry; a hotel may offer staffed access and registration. Inspect the actual room, lift, bathroom, emergency route and support.
 
-### Can hotel staff provide postoperative care?
-
-Do not assume so. Ordinary staff are not a substitute for nursing, trained transfer assistance or clinical monitoring. Arrange authorised professional care if required.
-
 ### How is a foreign guest's accommodation registered?
 
 Hotels normally register guests. For non-hotel lodging, the guest or host must complete local registration within 24 hours; confirm the current channel and keep proof.
-
-### What if treatment lasts longer than the booking?
-
-Use a flexible rate, calculate overrun costs in advance and identify a backup property. Also check visa/stay, medicines, caregiver and clinical follow-up—not only room availability.
 
 ## SEO Metadata
 
@@ -175,7 +167,3 @@ Use a flexible rate, calculate overrun costs in advance and identify a backup pr
 4. [National Immigration Administration: Accommodation Registration for Foreigners](https://en.nia.gov.cn/n147423/n147478/n147715/c158241/content.html)
 5. [National Immigration Administration: 2026 Pilot for Online Non-hotel Accommodation Registration](https://es.nia.gov.cn/n32407/n32461/c198068/content.html)
 6. [US CDC Yellow Book: Food and Water Precautions for Travellers](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/food-and-water-precautions-for-travelers.html)
-
-## Hero Image Prompt
-
-Original illustration retained after review: travellers compare a map, calendar, bed, transport and conceptual hospital while choosing accommodation. It does not show a real property, campus, route, booking or medical endorsement.

@@ -1,4 +1,4 @@
-# 138 An Inpatient Stay in China: Build a Daily Control Board at the Bedside
+# An Inpatient Stay in China: Build a Daily Control Board at the Bedside
 
 ## Hero
 

@@ -1,4 +1,4 @@
-# 107 Choosing a Hospital in Nanjing: Clinical Dependencies, River Crossings, and Campus Access
+# Choosing a Hospital in Nanjing: Clinical Dependencies, River Crossings, and Campus Access
 
 ## Hero
 
@@ -169,14 +169,6 @@ For each, state who responds, during which hours, through what channel, and what
 
 **Medical disclaimer:** This guide provides general planning information and does not rank or endorse Nanjing hospitals. Clinical fit, interpretation, insurance, and travel safety require current confirmation from qualified professionals and responsible institutions. Seek immediate local emergency care for severe or rapidly worsening symptoms.
 
-## Related Hospitals
-
-Add a Nanjing provider only after verifying the legal institution, campus, named team, dependency chain, passport route, language support, and emergency plan. Remove unrelated Beijing or Shenzhen hospitals.
-
-## Related Treatments
-
-Link only treatments accepted for the patient at the exact Nanjing campus. Appointment access, international service, or an affiliated-hospital name does not prove eligibility.
-
 ## Related Guides
 
 - Nanjing Medical Care for International Patients
@@ -201,10 +193,6 @@ Only after mapping the treatment, emergency, and follow-up locations. Repeated c
 ### Can I arrive at Nanjing North Station?
 
 Do not assume so. It remained under construction in the 2026 government investment plan. Use a currently operating gateway confirmed against the treatment address.
-
-### Does an insurer’s partnership with a Nanjing hospital guarantee direct billing?
-
-No. Written authorisation must match the patient, plan, legal provider, campus, dates, and services, and must state deposits and exclusions.
 
 ## SEO Metadata
 
@@ -231,7 +219,3 @@ No. Written authorisation must match the patient, plan, legal provider, campus, 
 10. [Nanjing Municipal Government: Approved Comprehensive Transport Plan 2021–2035](https://www.nanjing.gov.cn/njxx/202604/t20260411_5821909.html)
 11. [Nanjing Municipal Transportation Bureau: B28 Hospital Shuttle to a Named Xianlin Campus](https://jtj.nanjing.gov.cn/bmdt/202601/t20260113_5764737.html)
 12. [Nanjing Municipal Government English Site: Service Hotlines](https://english.nanjing.gov.cn/LivinginNanjing/ServiceHotlines/)
-
-## Hero Image Prompt
-
-Retained and reviewed the original concept image. The skyline, historic gate, water, hospital, calendar, luggage, and health icons are editorial symbols and do not identify a real Nanjing campus combination, timetable, capability, or endorsement.

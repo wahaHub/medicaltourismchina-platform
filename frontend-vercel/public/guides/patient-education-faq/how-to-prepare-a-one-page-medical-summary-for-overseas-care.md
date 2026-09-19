@@ -162,10 +162,6 @@ Aim for one readable page, but never sacrifice a critical allergy, medicine or c
 
 A patient can draft it, but a clinician familiar with the case should verify diagnoses, medicines, key results and the referral question before it is used for clinical decisions.
 
-### 3. Should normal results be included?
-
-Include a normal result when it changes the decision or shows an important baseline. Do not fill the page with routine normal panels; link the full report instead.
-
 ### 4. Is an AI translation enough for the medical summary?
 
 It can be a draft aid, but high-risk terms, numbers, units, negation, laterality and uncertainty need human checking. Keep the signed source document available.

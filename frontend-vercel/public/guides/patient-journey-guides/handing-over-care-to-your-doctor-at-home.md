@@ -1,4 +1,4 @@
-# 149 Handing Care to Your Doctor at Home: “Received” Is Not “Accepted”
+# Handing Care to Your Doctor at Home: “Received” Is Not “Accepted”
 
 ## Hero
 

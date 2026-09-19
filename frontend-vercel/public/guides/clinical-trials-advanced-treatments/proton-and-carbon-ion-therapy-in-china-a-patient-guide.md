@@ -1,4 +1,4 @@
-# 090 Proton and Carbon-Ion Therapy in China: A Patient Guide
+# Proton and Carbon-Ion Therapy in China: A Patient Guide
 
 ## Hero
 
@@ -125,10 +125,6 @@ Do not book a non-refundable stay based on a marketing review. A provisional opi
 
 ## FAQ
 
-### Are carbon ions simply “stronger protons”?
-
-No. They differ in particle mass, beam behaviour and biological effect. Carbon-ion dose uses RBE modelling, and a higher biological effect can affect normal tissue as well as tumour.
-
 ### Does no exit dose mean no side effects?
 
 No. There is entrance dose, the target includes nearby tissue and range/motion uncertainty remains. Effects depend on the organ, total and fraction dose, prior treatment and actual plan.
@@ -136,10 +132,6 @@ No. There is entrance dose, the target includes nearby tissue and range/motion u
 ### Is proton therapy always better for children?
 
 Reducing integral dose can be especially valuable for growing tissues and long-term survivors, but the indication, anaesthesia needs, motion, target and available photon plan still require individual comparison.
-
-### Can particle therapy be used after previous radiotherapy?
-
-Sometimes. It may reduce new dose to selected organs, but cumulative tolerance and serious late risks must be reconstructed from the original treatment data.
 
 ### How can I compare two centres’ quotations?
 

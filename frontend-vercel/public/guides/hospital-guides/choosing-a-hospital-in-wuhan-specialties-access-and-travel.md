@@ -1,4 +1,4 @@
-# 109 Choosing a Hospital in Wuhan: Four Clocks Across the Three Towns
+# Choosing a Hospital in Wuhan: Four Clocks Across the Three Towns
 
 ## Hero
 
@@ -163,14 +163,6 @@ At final discharge, obtain the diagnosis, actual treatment, procedure and anaest
 
 **Medical disclaimer:** This article is general planning guidance and does not rank or recommend Wuhan hospitals. Clinical selection, travel fitness, and emergency decisions require case-specific advice from qualified professionals. Seek immediate local emergency care for severe or rapidly worsening symptoms.
 
-## Related Hospitals
-
-List a Wuhan provider only after verifying the legal institution, exact campus, named team, record and specimen pathway, interpreter, payment terms, and emergency support. The unrelated Beijing, Guangzhou, and Shenzhen entries in the original draft were removed.
-
-## Related Treatments
-
-Link a treatment only when the responsible team has confirmed the patient, procedure, campus, timing, and supporting services. A hospital-group specialty page does not establish acceptance.
-
 ## Related Guides
 
 - Preparing Pathology and Imaging for Review in China
@@ -183,10 +175,6 @@ Link a treatment only when the responsible team has confirmed the patient, proce
 ### Is Wuhan Station the best rail station for every Wuhan hospital?
 
 No. It is one specific station. Compare Wuhan Station, Hankou Station, Wuchang Station, Wuhan East Station, and other operating gateways only after the treatment building is confirmed.
-
-### If two campuses share a hospital name, can they access the same services and records?
-
-Do not assume so. Confirm the department, clinician, test, inpatient service, emergency backup, patient number, and record visibility at the exact campus.
 
 ### Does a Wuhan international medical centre guarantee insurer direct billing?
 
@@ -224,7 +212,3 @@ Not while medically unstable. Call 120 and use the locally appropriate emergency
 9. [Wuhan Municipal Government: International Medical Centre at Union Hospital WEDZ Branch, 2025](https://english.wuhan.gov.cn/H_1/NWP/202504/t20250424_2572079.shtml)
 10. [Wuhan Municipal Government: Medical Insurance Options and Eligibility for Foreign Nationals](https://jrj.wuhan.gov.cn/ztzl_57/xyrd/bxy/202507/t20250708_2616997.shtml)
 11. [National Health Commission: Measures for the Administration of Pre-hospital Medical Emergency Care](https://www.nhc.gov.cn/wjw/c100221/202201/26ea3c97e82d466f9aa2b4a9901ae187/files/%E9%99%A2%E5%89%8D%E5%8C%BB%E7%96%97%E6%80%A5%E6%95%91%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95.pdf)
-
-## Hero Image Prompt
-
-Retained and reviewed the original concept illustration. The river, bridge, city tower, hospital, doctor, train, map, calendar, laptop, documents, and luggage are editorial symbols and do not identify a real Wuhan campus, route, timetable, capability, outcome, or endorsement.

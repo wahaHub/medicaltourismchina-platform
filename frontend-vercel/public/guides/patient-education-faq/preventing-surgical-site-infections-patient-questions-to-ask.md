@@ -129,14 +129,6 @@ Usually not. Prophylaxis is selected and timed around the procedure. Longer trea
 
 Yes. Hand hygiene is a core safety practice before wound contact and aseptic tasks [4]. A respectful reminder is appropriate, and visitors should clean their hands too.
 
-### 4. Is redness around an incision always infection?
-
-No. Mild early inflammation or bruising can occur, but expanding redness, increasing pain, warmth, cloudy drainage, separation or fever deserves prompt review. Compare the trend, not one isolated photograph.
-
-### 5. Can an overseas surgeon diagnose an SSI from a photo?
-
-A photo can document surface change but cannot reliably exclude deep or organ-space infection. Worsening symptoms may require local examination, blood tests, imaging, culture or a procedure. Emergency signs should be assessed locally without delay.
-
 ## SEO Metadata
 
 - **SEO title:** Surgical Site Infection Prevention: Antibiotics, Wound Care and Warning Signs

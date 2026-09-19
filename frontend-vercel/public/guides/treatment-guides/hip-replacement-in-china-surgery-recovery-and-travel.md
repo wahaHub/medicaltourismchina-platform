@@ -1,4 +1,4 @@
-# 043 Hip Replacement in China: Surgery, Recovery, and Travel
+# Hip Replacement in China: Surgery, Recovery, and Travel
 
 ## Hero
 

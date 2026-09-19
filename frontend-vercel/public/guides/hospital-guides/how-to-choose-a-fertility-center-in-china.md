@@ -1,4 +1,4 @@
-# 114 How to Choose a Fertility Centre in China: Read the Denominator Before the Success Rate
+# How to Choose a Fertility Centre in China: Read the Denominator Before the Success Rate
 
 ## Hero
 
@@ -151,14 +151,6 @@ If pregnant, arrange obstetric care at home for location and viability assessmen
 
 **Medical disclaimer:** This guide provides general selection and planning information and does not determine legal eligibility, diagnose infertility, recommend a fertility treatment, or rank Chinese centres. Regulations, documents and clinical eligibility must be confirmed for the specific patient with an authorised institution.
 
-## Related Hospitals
-
-List a fertility centre only after matching its legal Chinese institution name and exact authorised technology in the current official list, then verifying the responsible team, laboratory chain, emergency support, outcome definitions, costs, and follow-up.
-
-## Related Treatments
-
-Link only a lawful, authorised, patient-indicated pathway such as evaluation, ovulation management, AIH, donor insemination, IVF, ICSI, eligible PGT, preservation, or counselling; do not present add-ons as routine.
-
 ## Related Guides
 
 - IVF in China: A Cycle-by-cycle Planning Guide
@@ -211,7 +203,3 @@ Keep monitoring and medication charts, retrieval and fertilisation data, embryo-
 7. [National Health Commission: Provisions Strengthening Management of Assisted-reproduction Institutions and Personnel](https://www.nhc.gov.cn/fys/c100078/201909/079250c33eff44a987ce19057a632e48.shtml)
 8. [UK Human Fertilisation and Embryology Authority: Choosing a Fertility Clinic and Reading Success Rates](https://www.hfea.gov.uk/choose-a-fertility-clinic/)
 9. [UK Human Fertilisation and Embryology Authority: Treatment Add-ons with Limited Evidence](https://www.hfea.gov.uk/treatments/treatment-add-ons)
-
-## Hero Image Prompt
-
-Generated with the built-in image tool for this article: an unbranded reproductive-medicine consultation connecting a couple’s anonymised identity and treatment checkpoints with an embryology laboratory, witnessing process, incubator, and controlled storage. It does not show a real embryo, record, institution, treatment outcome, or endorsement.

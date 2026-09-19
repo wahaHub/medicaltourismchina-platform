@@ -1,4 +1,4 @@
-# 038 Coronary Artery Bypass Surgery in China: Planning Your Care
+# Coronary Artery Bypass Surgery in China: Planning Your Care
 
 ## Hero
 
@@ -153,14 +153,6 @@ A phrase such as “CABG ×3 successful” cannot tell the next surgeon which gr
 ### When is CABG preferred over coronary stents?
 
 The answer depends on left-main or multivessel anatomy, lesion complexity, diabetes, heart function, surgical risk, expected durability and patient goals. When the choice is not clear, a Heart Team should compare CABG, PCI and medical therapy using the same records.[2]
-
-### What does “triple bypass” mean?
-
-It usually means three grafts are constructed. It does not identify the target vessels, whether artery or vein conduits are used, or whether all important disease is addressed. Request the graft map and operative note.
-
-### Is off-pump or minimally invasive CABG always better?
-
-No. These techniques can offer advantages in selected patients, but suitability depends on anatomy, other procedures and team expertise. Ask whether a smaller-access approach changes completeness, durability, conversion risk or the planned conduits.
 
 ### How long does recovery take after traditional CABG?
 

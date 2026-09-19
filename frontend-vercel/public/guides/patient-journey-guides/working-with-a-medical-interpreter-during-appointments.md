@@ -1,4 +1,4 @@
-# 135 Medical Interpreters in Appointments: Keep the Conversation Between Patient and Clinician
+# Medical Interpreters in Appointments: Keep the Conversation Between Patient and Clinician
 
 ## Hero
 
@@ -160,10 +160,6 @@ If the video drops, note the last accurately interpreted point and reconnect by 
 
 ## FAQ
 
-### Should the clinician speak to the interpreter or to the patient?
-
-To the patient. Patient and clinician should face each other, use first person and pause for interpretation. The interpreter carries the exchange; they do not become the person being consulted.
-
 ### What should happen when the interpreter does not know a term?
 
 They should disclose the problem and request clarification, spelling, a diagram or another qualified resource. Guessing or silently substituting a broader word is unsafe. Any material error already interpreted should be openly corrected in speech and, if necessary, in the record.
@@ -175,10 +171,6 @@ With the patient's agreement, a companion can observe, add clearly labelled info
 ### Is a phone translation application enough for an appointment?
 
 It may help with simple directions or a non-critical phrase, but it cannot reliably manage role boundaries, ambiguous symptoms, consent, complex numbers or error recovery. Use trained healthcare interpretation for consequential clinical communication whenever reasonably available.
-
-### What should I check before leaving an interpreted visit?
-
-Teach back the working diagnosis, medicine changes, next action, date and warning signs. Compare names and numbers with the written plan, identify unresolved questions, and confirm who will answer them and in which language.
 
 ## SEO Metadata
 
@@ -199,4 +191,3 @@ Teach back the working diagnosis, medicine changes, next action, date and warnin
 4. [US Department of Health and Human Services — Use of Family or Friends as Interpreters](https://www.hhs.gov/civil-rights/for-individuals/faqs/may-an-lep-person-use-a-family-member-as-an-interpreter/709/index.html)
 5. [National Health Commission — Regulations on the Prevention and Handling of Medical Disputes](https://www.nhc.gov.cn/wjw/xwdt/201808/b2b4ee8f65534257a998b5f5ba938701.shtml)
 6. [Agency for Healthcare Research and Quality — Teach-Back Tool](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/teachback.html)
-

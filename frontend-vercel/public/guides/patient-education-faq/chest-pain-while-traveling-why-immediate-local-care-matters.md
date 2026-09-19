@@ -145,10 +145,6 @@ Emergency activation comes first. Aspirin can help in some heart attacks but may
 
 Usually not safer. The patient can deteriorate en route, while an ambulance can monitor, treat and alert the receiving hospital. In mainland China, call 120 and follow the dispatcher’s transport instructions.
 
-### Can a video consultation rule out a heart attack or pulmonary embolism?
-
-No. A remote clinician can take history and assist communication, but ruling out dangerous causes may require an ECG, serial blood tests, vital-sign monitoring and imaging. Do not use telemedicine to postpone local emergency assessment.
-
 ### Can I fly after an emergency department says the first ECG is normal?
 
 Not on that fact alone. Ask the treating team whether evaluation is complete, what diagnosis is most likely, whether repeat testing or observation is needed, and when the proposed journey is safe. The airline may also require its own clearance.

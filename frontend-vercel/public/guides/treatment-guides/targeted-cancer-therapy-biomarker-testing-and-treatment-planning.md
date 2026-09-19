@@ -1,4 +1,4 @@
-# 032 Targeted Cancer Therapy: Biomarker Testing and Treatment Planning
+# Targeted Cancer Therapy: Biomarker Testing and Treatment Planning
 
 ## Hero
 
@@ -93,14 +93,6 @@ For cross-border handover, retain the pathology report, specimen identifiers, fu
 
 **Medical disclaimer:** This guide is educational and does not interpret an individual genomic report or recommend a targeted medicine. Biomarker results must be integrated with pathology, cancer setting, drug labelling, clinical evidence and patient factors by qualified oncology and laboratory professionals.
 
-## Related Hospitals
-
-List only centres whose tumour-specific service, pathology or molecular laboratory, multidisciplinary interpretation and access to the proposed medicine have been verified.
-
-## Related Treatments
-
-Link a medicine only after checking the exact alteration, approved or evidence-supported setting, current availability and clinical eligibility.
-
 ## Related Guides
 
 - Pathology review and tissue preservation
@@ -109,14 +101,6 @@ Link a medicine only after checking the exact alteration, approved or evidence-s
 - Oral anticancer medicine safety
 
 ## FAQ
-
-### Does finding a mutation mean there is a targeted drug for it?
-
-No. The exact alteration may be non-driving, uncertain, resistant to a drug, unsupported in that cancer or matched only to a research study. The report must be interpreted in the tumour and treatment context.
-
-### Is a large NGS panel always better than a small test?
-
-No. A focused validated test may answer the immediate treatment question. A broad panel is useful only if it adequately covers relevant alteration types, has sufficient sample quality and produces results that can change care.
 
 ### What does a negative liquid biopsy mean?
 

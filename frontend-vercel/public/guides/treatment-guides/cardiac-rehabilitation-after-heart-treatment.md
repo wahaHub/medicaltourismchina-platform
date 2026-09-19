@@ -1,4 +1,4 @@
-# 041 Cardiac Rehabilitation After Heart Treatment
+# Cardiac Rehabilitation After Heart Treatment
 
 ## Hero
 

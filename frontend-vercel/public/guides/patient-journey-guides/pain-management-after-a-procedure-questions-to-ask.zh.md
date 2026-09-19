@@ -1,4 +1,4 @@
-# 139 操作后疼痛：先设功能目标，再画清救援边界
+# 操作后疼痛：先设功能目标，再画清救援边界
 
 ## Hero
 
@@ -213,4 +213,3 @@ CDC 2022 年指南面向门诊疼痛，不适用于癌痛、姑息医疗或镰�
 4. [美国疾病控制与预防中心——阿片类药物疼痛处方临床实践指南（2022）](https://www.cdc.gov/mmwr/volumes/71/rr/rr7103a1.htm)
 5. [美国食品药品监督管理局——向阿片药患者讨论纳洛酮](https://www.fda.gov/drugs/drug-safety-communications/fda-recommends-health-care-professionals-discuss-naloxone-all-patients-when-prescribing-opioid-pain)
 6. [国家卫生健康委——进一步改善护理服务行动计划（2023—2025 年）](https://www.nhc.gov.cn/yzygj/c100068/202306/8fe28be0f8e241cb8444b4f242706495.shtml)
-

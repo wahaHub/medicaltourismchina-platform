@@ -1,4 +1,4 @@
-# 050 Deep Brain Stimulation: Candidacy, Surgery, and Follow-Up
+# Deep Brain Stimulation: Candidacy, Surgery, and Follow-Up
 
 ## Hero
 

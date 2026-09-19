@@ -120,17 +120,9 @@ The useful outcome of monitoring is not a perfect travel graph. It is a safe han
 
 Controlled hypertension by itself is usually compatible with commercial air travel. Recent heart attack or stroke, unstable symptoms, heart failure, oxygen needs or poorly controlled pressure requires individual clearance [2][3].
 
-### 2. Should I take an extra tablet if my hotel reading is high?
-
-Not unless that exact rescue plan was prescribed. Rest, repeat the measurement correctly, check for missed doses and follow the written contact threshold. Doubling a dose can cause delayed hypotension.
-
 ### 3. What blood pressure monitor should I pack?
 
 A validated automatic upper-arm monitor with the correct cuff size. Compare it with the clinic device before departure; wrist, finger and cuffless wearable readings are generally less suitable for treatment decisions [1][5].
-
-### 4. Can I take a decongestant or ibuprofen while traveling?
-
-Ask a pharmacist or clinician who has the full medicine list. Decongestants and NSAIDs can raise pressure or interfere with treatment, and combination products can hide these ingredients [6].
 
 ### 5. When does a high reading become an emergency?
 

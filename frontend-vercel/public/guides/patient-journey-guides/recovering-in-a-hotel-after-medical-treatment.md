@@ -1,4 +1,4 @@
-# 142 Recovering in a Hotel After Treatment: Make the Room Pass a Clinical Use Test
+# Recovering in a Hotel After Treatment: Make the Room Pass a Clinical Use Test
 
 ## Hero
 

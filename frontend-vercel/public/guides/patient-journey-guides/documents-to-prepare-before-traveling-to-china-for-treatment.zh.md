@@ -1,4 +1,4 @@
-# 122 赴华治疗文件：做成一套能让医生下判断的病例包
+# 赴华治疗文件：做成一套能让医生下判断的病例包
 
 ## Hero
 
@@ -169,7 +169,3 @@ CDC 的医疗旅行指导建议行前与医生讨论，备足常用药物，预�
 6. [美国 CDC Yellow Book：携带受禁止或限制药物旅行](https://www.cdc.gov/yellow-book/hcp/travelers-with-additional-considerations/traveling-with-prohibited-or-restricted-medications.html)
 7. [美国 CDC Yellow Book：医疗旅行](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
 8. [国家卫生健康委员会：进一步加强医疗机构电子病历信息使用管理，2025](https://www.nhc.gov.cn/yzygj/c100068/202506/c68abee7c54b4651a774cd533761780b.shtml)
-
-## Hero Image Prompt
-
-经复核保留原插图：两位国际出行者在医院就诊前核对医疗文件、护照、日历和行李。画面能够表达资料与旅行准备，但不代表真实医院、签证、预约确认或患者病历。

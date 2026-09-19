@@ -1,4 +1,4 @@
-# 136 Before a Procedure in China: Audit the Decision, Not Just the Signature
+# Before a Procedure in China: Audit the Decision, Not Just the Signature
 
 ## Hero
 
@@ -199,4 +199,3 @@ Because consent and the day-of-procedure safety check serve different purposes. 
 4. [National Health Commission — Surgical Safety Verification System](https://www.nhc.gov.cn/zwgk/wtwj/201304/f95253fa25c14d339ed99ef75f5c2b17.shtml)
 5. [National Health Commission — Key Medical Quality and Safety Systems](https://www.nhc.gov.cn/yzygj/c100068/201804/42ab2552298047679cd6ec733f233862.shtml)
 6. [World Health Organization — Surgical Safety Checklist](https://www.who.int/docs/default-source/patient-safety/9789241598590-eng-checklist.pdf)
-

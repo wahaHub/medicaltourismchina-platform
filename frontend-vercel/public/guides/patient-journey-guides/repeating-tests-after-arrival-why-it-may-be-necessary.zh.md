@@ -1,4 +1,4 @@
-# 132 到院后为什么可能需要复查：先问新结果会改变哪个决定
+# 到院后为什么可能需要复查：先问新结果会改变哪个决定
 
 ## Hero
 
@@ -201,4 +201,3 @@ WHO 实验室质量体系把检测视为检验前、检验中和检验后的完�
 4. [美国 FDA：医学 X 线影像的正当性、优化与既往影像史](https://www.fda.gov/radiation-emitting-products/medical-imaging/medical-x-ray-imaging)
 5. [美国放射学会：《对比剂手册》](https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Contrast-Manual)
 6. [美国国家癌症研究所：外科病理报告与第二意见](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/pathology-reports-fact-sheet)
-

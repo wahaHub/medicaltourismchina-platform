@@ -150,17 +150,9 @@ The conversation is ready only when the patient can describe the choice without 
 
 ## FAQ
 
-### 1. Is relative risk wrong?
-
-No, but it is incomplete without baseline risk. Ask for the absolute numbers with and without each option, using the same denominator and time frame.
-
 ### 2. What if the doctor cannot give an exact percentage?
 
 Ask for a reasonable range, the evidence source, why it may differ for this patient and which new information could narrow the uncertainty. False precision is not better information.
-
-### 3. Does “rare” mean the risk can be ignored?
-
-No. Likelihood is only one dimension. A rare but permanent or catastrophic harm may be material to the patient and should be discussed.
 
 ### 4. Are pictures always easier than numbers?
 

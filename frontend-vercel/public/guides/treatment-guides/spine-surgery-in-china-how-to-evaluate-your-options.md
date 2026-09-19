@@ -1,4 +1,4 @@
-# 044 Spine Surgery in China: How to Evaluate Your Options
+# Spine Surgery in China: How to Evaluate Your Options
 
 ## Hero
 
@@ -165,10 +165,6 @@ No. The level and side must match symptoms and examination, and urgency depends 
 ### What is the difference between decompression and fusion?
 
 Decompression creates space for nerves or the spinal cord. Fusion joins vertebral segments to address instability, deformity or another reconstructive need. A fusion proposal should explain why decompression alone is insufficient.
-
-### Is minimally invasive spine surgery safer?
-
-It may reduce tissue disruption for selected operations, but the phrase covers different techniques. Ask for the exact procedure, levels, conversion plan and complication profile rather than relying on the label.
 
 ### Which symptoms mean I should not wait to travel?
 

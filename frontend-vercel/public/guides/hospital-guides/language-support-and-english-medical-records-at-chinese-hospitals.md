@@ -1,4 +1,4 @@
-# 117 Language Support and English Medical Records at Chinese Hospitals: Three Different Products
+# Language Support and English Medical Records at Chinese Hospitals: Three Different Products
 
 ## Hero
 
@@ -183,14 +183,6 @@ The handoff is complete only when the receiving clinician confirms receipt and c
 
 **Medical disclaimer:** This guide provides general communication and record-planning information. It does not certify an interpreter or translation, determine legal sufficiency, or replace clinical review of source records.
 
-## Related Hospitals
-
-List language or English-record services only after verifying languages, hours, qualified interpretation for high-risk care, source-record access, translation scope, clinical review, privacy, turnaround and correction process.
-
-## Related Treatments
-
-Link treatment only with an interpreted patient-specific discussion and source-grounded written plan; an English marketing page is not evidence of clinical language coverage.
-
 ## Related Guides
 
 - How to Work with a Medical Interpreter in China
@@ -200,10 +192,6 @@ Link treatment only with an interpreted patient-specific discussion and source-g
 - Cross-border Discharge Handoff Checklist
 
 ## FAQ
-
-### Does an English-speaking international department mean doctors and nurses speak English?
-
-No. Verify each role, encounter and shift. Administrative English does not establish qualified clinical interpretation, especially on wards, in consent or after hours.
 
 ### Is an English discharge summary the official medical record?
 
@@ -240,7 +228,3 @@ Prioritise the discharge summary, operation/procedure record, pathology, relevan
 4. [National Health Commission: Basic Standards for Writing Medical Records](https://www.nhc.gov.cn/wjw/gfxwj/200205/8348500efb5b490c8db6519e818e96e3.shtml)
 5. [National Health Commission: Medical Institution Record-management Provisions, 2013](https://www.nhc.gov.cn/yzygj/c100068/201312/c9955f0471c04450a9f9ab74648fbdd4.shtml)
 6. [National Health Commission: Strengthening Electronic Medical-record Information Use Management, 2025](https://www.nhc.gov.cn/yzygj/c100068/202506/c68abee7c54b4651a774cd533761780b.shtml)
-
-## Hero Image Prompt
-
-Original illustration retained after review: a hospital language coordinator uses a tablet with speech and document icons while speaking with an international patient. It fits language and record assistance but does not show a real translation, source record, institution, or endorsement.

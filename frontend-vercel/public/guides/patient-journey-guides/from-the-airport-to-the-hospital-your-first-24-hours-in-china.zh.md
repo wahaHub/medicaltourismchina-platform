@@ -1,4 +1,4 @@
-# 129 抵达中国后的前 24 小时：把每一次交接都说清楚
+# 抵达中国后的前 24 小时：把每一次交接都说清楚
 
 ## Hero
 
@@ -149,14 +149,6 @@ AHRQ 将“用药核对”定义为把当前药物方案与新的医嘱比较，
 
 计划阶段就要写明机场服务把患者送到哪里、谁在该处接手。若轮椅服务不到车辆旁，应另订机场协助、受训陪同或无障碍接驳，不能默认陪同者可以临时完成转移。
 
-### 司机可以保管患者护照或完整病历吗？
-
-原始证件和临床资料应由患者本人或明确授权的陪同者保管。接送服务可以查看完成订单核验所需的有限信息，但通常没有理由长期持有护照原件或整套病历。
-
-### 跨越多个时区后，药物究竟按哪个时间吃？
-
-使用处方医生确认的双时区给药表，写清最后一次和下一次用药。落地后按实际服药记录做核对，尤其是时间敏感或治疗窗较窄的药物，不能凭记忆计算补服剂量。
-
 ### 拨打 120 时要准备哪些信息？
 
 说明准确地址与显眼地标、主要急症、患者年龄（如已知）、现场危险或通行障碍，以及回拨电话。保持线路畅通，遵从调度人员指示；安全时安排人在入口引导救护人员。
@@ -182,4 +174,3 @@ AHRQ 将“用药核对”定义为把当前药物方案与新的医嘱比较，
 6. [CDC Yellow Book：慢性病旅行者](https://www.cdc.gov/yellow-book/hcp/travelers-with-additional-considerations/travelers-with-chronic-illnesses.html)
 7. [AHRQ：用药核对工具简介](https://www.ahrq.gov/patient-safety/settings/hospital/match/intro.html)
 8. [CDC Yellow Book：时差反应](https://www.cdc.gov/yellow-book/hcp/travel-air-sea/jet-lag-disorder.html)
-

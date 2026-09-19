@@ -1,4 +1,4 @@
-# 147 Medication Reconciliation Before Leaving China: Make Every Dose Survive the Border
+# Medication Reconciliation Before Leaving China: Make Every Dose Survive the Border
 
 ## Hero
 
@@ -213,10 +213,6 @@ Only after it has been reconciled against pre-treatment use, actual inpatient ad
 ### Should medicines be repacked into a pill organiser for the flight?
 
 Not before border and security checks unless authorities explicitly permit it. Original labelled packaging makes identity and prescription ownership easier to verify; organise doses after arrival if clinically safe.
-
-### How should dose times change across time zones?
-
-Use a clinician-approved plan based on the interval from the last dose and the medicine’s risk, not an automatic switch to local clock time. High-risk schedules require individual instructions.
 
 ### Can I bring controlled or injectable medicine through a connection?
 

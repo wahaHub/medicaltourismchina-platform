@@ -1,4 +1,4 @@
-# 029 Radiation Therapy in China: A Patient Guide
+# Radiation Therapy in China: A Patient Guide
 
 ## Hero
 
@@ -96,14 +96,6 @@ Before leaving China, request a radiation treatment summary in a language the ho
 If future care may occur elsewhere, ask whether the centre can also export relevant planning data. Keep the summary with pathology, current medicines and the name of a clinical contact. Follow-up is not merely a scan date: it should say who reviews tumour response, who monitors late effects and which team takes responsibility when a new symptom appears.
 
 **Medical disclaimer:** This guide provides general educational information and does not diagnose cancer, determine radiation eligibility or recommend a dose or technique. A radiation oncologist and the relevant multidisciplinary team must review the complete case. Seek urgent local care for severe or rapidly worsening symptoms rather than delaying for international travel.
-
-## Related Hospitals
-
-List only hospitals whose radiotherapy licence, relevant tumour service and international-patient pathway have been verified for the period in question.
-
-## Related Treatments
-
-Link a technique only when the hospital has confirmed current availability and a radiation oncologist has explained why it fits the patient's diagnosis and treatment intent.
 
 ## Related Guides
 

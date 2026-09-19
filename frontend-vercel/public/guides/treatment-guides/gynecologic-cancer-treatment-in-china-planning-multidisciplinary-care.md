@@ -1,4 +1,4 @@
-# 057 Gynecologic Cancer Treatment in China: Planning Multidisciplinary Care
+# Gynecologic Cancer Treatment in China: Planning Multidisciplinary Care
 
 ## Hero
 

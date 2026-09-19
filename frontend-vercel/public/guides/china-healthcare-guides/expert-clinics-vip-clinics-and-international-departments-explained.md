@@ -1,4 +1,4 @@
-# 009 Expert Clinics, VIP Clinics and International Departments in China
+# Expert Clinics, VIP Clinics and International Departments in China
 
 ## Hero
 
@@ -106,14 +106,6 @@ Pause if a premium label is used without a named doctor or defined service, if a
 
 **Medical disclaimer:** This guide explains outpatient service labels. It does not endorse a channel or indicate that a higher-priced service is clinically superior.
 
-## Related Hospitals
-
-Service names are hospital-specific. Verify the exact unit, doctor, campus, clinical scope and price rather than comparing labels alone.
-
-## Related Treatments
-
-Expert, special-service and international appointments are routes to assessment. Treatment eligibility and scheduling remain separate clinical decisions.
-
 ## Related Guides
 
 - How International Patients Can Book a Specialist in China
@@ -165,4 +157,3 @@ It may coordinate evaluation, but surgery still requires clinical acceptance, te
 ## Hero Image Review
 
 The original image is retained because it separates three concepts visually: senior-clinician consultation, premium room and international coordination. It contains no prices, institutional names or promise that one route produces better outcomes.
-

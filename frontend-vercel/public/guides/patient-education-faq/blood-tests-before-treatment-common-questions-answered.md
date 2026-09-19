@@ -150,14 +150,6 @@ Afterward, obtain both the result and the decision. “Labs complete” is not t
 
 ## FAQ
 
-### Can I drink water before a fasting blood test?
-
-Plain water is commonly allowed and can make venous sampling easier, but follow the written instruction for the exact test. Coffee, tea, juice and flavored drinks are not the same as water.
-
-### Should I skip my morning tablets?
-
-Not unless the responsible clinician tells you to. Send the exact medicine, dose and usual time and ask for a medicine-by-medicine instruction, especially for diabetes drugs, anticoagulants, steroids and therapeutic drug levels.
-
 ### Why was my overseas result not accepted?
 
 It may be too old for the decision, lack identifiers/units/reference ranges, use a non-comparable method, or need a current local baseline. Ask for the reason by test rather than assuming all foreign reports are rejected.

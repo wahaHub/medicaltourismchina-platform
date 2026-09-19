@@ -1,4 +1,4 @@
-# 158 China Treatment Reimbursement: Build a Claim File That Proves the Episode
+# China Treatment Reimbursement: Build a Claim File That Proves the Episode
 
 ## Hero
 
@@ -222,10 +222,6 @@ Then match bank receipt, hospital refunds and any direct-billing payment. Store 
 ### Are the hospital receipt and itemized bill the same document?
 
 No. The official receipt records the formal charge/payment total; the itemized list explains services, medicines and consumables. Insurers often require both.
-
-### Do all Chinese medical records need certified translation?
-
-Not necessarily. Ask the insurer which documents and certification level it requires. Preserve every Chinese source and pair translations separately.
 
 ### What if the final pathology is not ready when I leave China?
 

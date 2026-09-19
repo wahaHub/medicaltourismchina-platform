@@ -181,10 +181,6 @@ No. Accreditation can inform facility review, but it does not confirm that the d
 
 Not necessarily. It is particularly valuable when the diagnosis is uncertain, treatment is irreversible or high risk, reasonable clinicians may disagree, or the proposal comes from a single commercial channel.
 
-### 3. How should a “95% success rate” be checked?
-
-Ask what success means, the denominator, follow-up period, patient selection, data source and whether complications, revisions and loss to follow-up were included.
-
 ### 4. Can a coordinator answer consent questions?
 
 A coordinator can organize information, but the responsible clinician should explain the diagnosis, recommendation, alternatives, patient-specific risks and consequences of declining treatment.

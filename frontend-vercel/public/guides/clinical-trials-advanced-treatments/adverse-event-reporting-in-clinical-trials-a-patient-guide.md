@@ -1,4 +1,4 @@
-# 094 Adverse Event Reporting in Clinical Trials: A Patient Guide
+# Adverse Event Reporting in Clinical Trials: A Patient Guide
 
 ## Hero
 

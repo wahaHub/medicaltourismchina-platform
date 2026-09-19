@@ -1,4 +1,4 @@
-# 001 Understanding China’s Three-Tier Hospital System
+# Understanding China’s Three-Tier Hospital System
 
 ## Hero
 
@@ -88,14 +88,6 @@ Then ask for evidence at department level: the service offered, the proposed cli
 
 **Medical disclaimer:** This guide explains healthcare organisation and hospital assessment. It does not recommend a hospital or determine the appropriate level of care for an individual. Severe or rapidly worsening symptoms require prompt local emergency assessment.
 
-## Related Hospitals
-
-No hospital is endorsed solely because of its level or Grade A status. Selection should follow a case-specific review of the relevant department, clinician, campus and support services.
-
-## Related Treatments
-
-The required hospital level depends on the diagnosis, procedure, risk, need for multidisciplinary input and follow-up—not on the treatment name alone.
-
 ## Related Guides
 
 - Public vs Private Hospitals in China
@@ -116,10 +108,6 @@ Not automatically. It may have broad institutional capacity, but safety for one 
 ### Can international patients contact a tertiary hospital directly?
 
 Often they can submit an inquiry, especially through an international or patient-service office, but intake rules differ. The hospital may require records before naming a specialist or offering an appointment.
-
-### When might a Level II hospital be a better fit?
-
-It may be suitable for many common conditions, routine inpatient care, rehabilitation or stable follow-up when tertiary-level technology and multidisciplinary backup are not needed.
 
 ### How can I verify a hospital’s current level?
 
@@ -146,4 +134,3 @@ Use the hospital’s exact Chinese legal name and campus, then check public heal
 ## Hero Image Review
 
 The existing illustration is retained because its three visibly different facility levels and upward referral arrows explain this article’s central distinction at a glance. It contains no hospital name, ranking claim or readable patient data. The image is diagrammatic rather than a claim to show a real Chinese hospital.
-

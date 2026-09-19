@@ -129,17 +129,9 @@ Often yes when the condition and related heart, lung, anaemia and fluid issues a
 
 Start at least six to eight weeks in advance and earlier for international or high-demand destinations. Do not purchase inflexible travel until clinical acceptance and session details are confirmed [1].
 
-### 3. Should a kidney patient drink extra water on a flight?
-
-Not automatically. Fluid advice depends on urine output, dialysis, heart function, diuretics, heat and illness. Follow a prescribed range; both overload and dehydration can be dangerous.
-
 ### 4. Is ibuprofen safe for travel pain with CKD?
 
 It may increase kidney-injury risk, particularly during dehydration or low blood pressure. Ask the renal team or pharmacist for a patient-specific alternative and check combination cold medicines for NSAIDs [2].
-
-### 5. What dialysis-access symptoms are urgent?
-
-Loss of fistula/graft thrill, uncontrolled bleeding, rapid swelling, redness or drainage, catheter damage/displacement, or fever and chills needs immediate clinical contact. Cloudy peritoneal effluent with pain or fever also requires urgent assessment.
 
 ## SEO Metadata
 

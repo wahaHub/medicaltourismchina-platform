@@ -1,4 +1,4 @@
-# 101 Choosing a Hospital in Beijing: Specialties, Access, and Travel
+# Choosing a Hospital in Beijing: Specialties, Access, and Travel
 
 ## Hero
 
@@ -192,14 +192,6 @@ Cross-check the campus and clinician in official sources, call the hospital thro
 
 **Medical disclaimer:** This guide provides general planning information and does not rank or endorse Beijing hospitals. Hospital and travel decisions must be based on current, case-specific review by qualified clinicians. For an emergency or rapidly worsening condition, seek immediate local care rather than delaying treatment to travel to Beijing.
 
-## Related Hospitals
-
-Do not populate this section as a city “best hospital” list. Add a Beijing hospital only after verifying the current campus, department, named team, access lane and case-specific pathway.
-
-## Related Treatments
-
-Link only treatments currently verified at the exact campus and department. A hospital group’s general capability does not prove local availability or patient eligibility.
-
 ## Related Guides
 
 - Beijing Medical Care for International Patients
@@ -251,7 +243,3 @@ There is no safe generic duration. It depends on tests, pathology turnaround, pr
 7. [Beijing Municipal Government — Unified Appointment Release Rules](https://www.beijing.gov.cn/hudong/bmwd/jsjbmyyt/2025jmwd/2025jmwd1/202510/t20251017_4229355.html)
 8. [Beijing Municipal Government — Capital and Daxing Airport Bus Route Adjustments, April 2026](https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202603/t20260330_4569298.html)
 9. [Beijing Municipal Health Commission — Unified 120 Pre-hospital Emergency Dispatch](https://wjw.beijing.gov.cn/English/News_1/PressReleases/202201/t20220114_2591285.html)
-
-## Hero Image Prompt
-
-Retained after visual review. The luggage, map, calendar, aircraft and Beijing landmark support the access-and-travel theme. The illustrated landmark and hospital are conceptual and must not be read as a real campus location, route or hospital endorsement.

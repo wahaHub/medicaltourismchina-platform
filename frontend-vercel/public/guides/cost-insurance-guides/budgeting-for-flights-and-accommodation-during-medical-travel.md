@@ -1,4 +1,4 @@
-# 161 Flights and Accommodation for China Medical Travel: Budget for Schedule Change
+# Flights and Accommodation for China Medical Travel: Budget for Schedule Change
 
 ## Hero
 
@@ -208,10 +208,6 @@ The strongest budget is not the one with the lowest base total. It is the one th
 
 Usually not without further clinical advice. Hospital discharge and fitness for a long journey are different milestones. Use a changeable booking and update it after treatment.
 
-### Is a refundable flight always the best choice?
-
-Not always. Compare total price, refundable amount, fare difference, change channel and worst-case replacement cost against the likelihood and cost of a schedule change.
-
 ### Should accommodation be booked for the whole stay at once?
 
 Only if the dates and property fit are sufficiently certain. Many patients benefit from phased bookings: pre-admission, companion lodging, recovery and an extendable backup period.
@@ -219,10 +215,6 @@ Only if the dates and property fit are sufficiently certain. Many patients benef
 ### Can an apartment or homestay host a foreign medical traveler in China?
 
 Possibly, but confirm acceptance and the applicable foreigner accommodation-registration process before payment. Hotels normally handle registration; non-hotel stays require a separate process.
-
-### How large should the contingency budget be?
-
-Price a defined extension rather than choosing an arbitrary percentage: extra nights, two changed flights, meals, local transport, companion expenses and a separate medical-payment buffer.
 
 ## SEO Metadata
 

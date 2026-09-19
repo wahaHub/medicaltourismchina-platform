@@ -1,4 +1,4 @@
-# 123 Visa Planning for Treatment in China: Two Approvals, Four Dates
+# Visa Planning for Treatment in China: Two Approvals, Four Dates
 
 ## Hero
 
@@ -130,10 +130,6 @@ Only the responsible Chinese embassy, consulate or authorised visa centre can co
 
 No. It supports purpose but does not replace the application, passport, identity, finance, residence, companion or other evidence requested by the deciding authority.
 
-### Can a companion use the patient's approval?
-
-No. Each traveller needs their own lawful basis and documents. Some posts ask for kinship and hospital companion proof; check the companion's application separately.
-
 ### Can a hospital extend the patient's visa after surgery?
 
 The hospital may provide medical evidence, but the competent exit-entry administration decides. Apply before expiry and plan for refusal or a shorter period than requested.
@@ -162,7 +158,3 @@ No. Entry validity, number of entries and duration of each stay are separate fie
 5. [National Immigration Administration: Accommodation Registration for Foreigners](https://en.nia.gov.cn/n147423/n147478/n147715/c158241/content.html)
 6. [National Immigration Administration: Guide to Visa Extension, Replacement and Reissuance](https://s.nia.gov.cn/mps/mbbszy/wgrcrj/201903/t20190316_1014.html)
 7. [National Immigration Administration Government-service Platform: Foreign Entry, Exit, Stay and Residence Services](https://s.nia.gov.cn/mps/mbbszy/wgrcrj/)
-
-## Hero Image Prompt
-
-Original illustration retained after review: two travellers compare a passport and calendar beside luggage, an aircraft route and a conceptual Chinese hospital. It fits visa planning but does not show a real visa, institution, entry approval, appointment or official route.

@@ -1,4 +1,4 @@
-# 112 How to Choose a Heart Hospital or Cardiology Centre in China: Start with the 2 a.m. Door
+# How to Choose a Heart Hospital or Cardiology Centre in China: Start with the 2 a.m. Door
 
 ## Hero
 
@@ -136,14 +136,6 @@ For long travel, ask about timing, mobility, oxygen, venous-thromboembolism risk
 
 **Medical disclaimer:** This guide provides general selection and planning information and does not rank Chinese cardiac institutions or recommend a procedure. Heart symptoms can become emergencies; seek immediate local care for severe or worsening symptoms.
 
-## Related Hospitals
-
-List a heart centre only after verifying the legal institution, exact campus, relevant pathway, team, after-hours rescue, quality evidence, implant traceability, rehabilitation, and cross-border follow-up.
-
-## Related Treatments
-
-Link only the medicine, PCI, surgery, valve procedure, ablation, device, VAD, or transplant pathway that matches the confirmed diagnosis, anatomy, risk, regulatory status, and written team decision.
-
 ## Related Guides
 
 - Coronary Angiography and PCI in China
@@ -196,7 +188,3 @@ Source imaging and signals, procedure details, haemodynamics, implant identifier
 7. [National Health Commission: 2025 Specialty Quality-improvement Targets, including Left-main PCI](https://www.nhc.gov.cn/wjw/c100378/202503/62073c6fc3064f7f9d971f0b1b9c7dd5/files/1743410147158_61714.pdf)
 8. [National Health Commission: Cardiovascular and Cerebrovascular Disease Action Plan 2023–2030](https://www.nhc.gov.cn/ylyjs/gzdt/202311/a40dcf8a65314b818c46c9d1e683b9c3.shtml)
 9. [National Medical Products Administration: Medical Device Unique Identification Database](https://udi.nmpa.gov.cn/toApply.html)
-
-## Hero Image Prompt
-
-Generated with the built-in image tool for this article: an unbranded heart-team decision meeting with an international patient and companion, interventional cardiology, cardiac surgery, electrophysiology, anonymised coronary angiography, echocardiography, and rhythm mapping. It does not show a real record, institution, treatment outcome, or endorsement.

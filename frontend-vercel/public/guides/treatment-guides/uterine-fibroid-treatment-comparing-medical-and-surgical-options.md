@@ -1,4 +1,4 @@
-# 055 Uterine Fibroid Treatment: Comparing Medical and Surgical Options
+# Uterine Fibroid Treatment: Comparing Medical and Surgical Options
 
 ## Hero
 

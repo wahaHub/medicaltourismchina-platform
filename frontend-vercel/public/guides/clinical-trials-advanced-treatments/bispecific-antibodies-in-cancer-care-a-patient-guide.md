@@ -1,4 +1,4 @@
-# 080 Bispecific Antibodies in Cancer Care: A Patient Guide
+# Bispecific Antibodies in Cancer Care: A Patient Guide
 
 ## Hero
 

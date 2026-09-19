@@ -1,4 +1,4 @@
-# 003 General vs Specialist Hospitals in China: Which Fits Your Care?
+# General vs Specialist Hospitals in China: Which Fits Your Care?
 
 ## Hero
 
@@ -101,14 +101,6 @@ The hospital that gives the clearest answers may be safer than the one with the 
 
 **Medical disclaimer:** This article explains general and specialist hospital models. It does not recommend an institution or determine the appropriate setting for an individual. A qualified clinician should assess the diagnosis, treatment risk and required backup services.
 
-## Related Hospitals
-
-No general or specialist hospital is endorsed by type alone. Selection requires case-specific confirmation of the department, clinician, campus, treatment scope and backup services.
-
-## Related Treatments
-
-Complex surgery, cancer treatment, paediatric care and rehabilitation can be delivered in different hospital models. Suitability depends on the programme and patient, not the institution’s category alone.
-
 ## Related Guides
 
 - Understanding China’s Three-Tier Hospital System
@@ -160,4 +152,3 @@ Not necessarily. It may have a focused follow-up pathway, but distance, language
 ## Hero Image Review
 
 The existing image is retained. Its paired hospital views, one carrying a general medical symbol and the other a cardiac specialty symbol, directly support the comparison. It is a conceptual illustration, not an image of real institutions, and makes no ranking or outcome claim.
-

@@ -112,10 +112,6 @@ Delirium usually begins acutely, fluctuates and affects attention and awareness.
 
 Only if the tasks are clearly defined and within that person’s ability. Transfers, night supervision, injections, wound care or complex medicines may require trained help and a backup plan.
 
-### 4. Why record everyday function before travel?
-
-The baseline helps the team recognize new decline, set realistic recovery goals and choose appropriate accommodation, rehabilitation and return assistance.
-
 ### 5. What should delay the journey home?
 
 Delay and reassess when there is new confusion, unstable symptoms, repeated falls, poor intake, uncontrolled pain, unsafe transfers, inability to manage medicines or no suitable support at the destination.

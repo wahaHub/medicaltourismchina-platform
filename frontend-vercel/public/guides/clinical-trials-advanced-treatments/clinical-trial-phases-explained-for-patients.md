@@ -1,4 +1,4 @@
-# 072 Clinical Trial Phases Explained for Patients
+# Clinical Trial Phases Explained for Patients
 
 ## Hero
 
@@ -128,10 +128,6 @@ No. A later phase usually means a later development question and more accumulate
 ### Can Phase I participants receive a dose too low to help?
 
 Yes. Dose-escalation studies may assign lower doses to learn about safety and exposure, and benefit may be uncertain at every dose. The consent discussion should explain the assigned cohort and therapeutic uncertainty.
-
-### Does Phase III guarantee that I will receive the new treatment?
-
-No. Many Phase III trials randomise participants between an investigational and control arm. The number of arms and probability of assignment should be stated clearly before consent.
 
 ### Why does a device or behavioural study say “phase not applicable”?
 

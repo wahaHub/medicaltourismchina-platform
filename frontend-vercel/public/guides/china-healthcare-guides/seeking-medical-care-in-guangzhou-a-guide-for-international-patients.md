@@ -1,4 +1,4 @@
-# 023 Seeking Medical Care in Guangzhou: A Guide for International Patients
+# Seeking Medical Care in Guangzhou: A Guide for International Patients
 
 ## Hero
 
@@ -160,10 +160,6 @@ For patients continuing care elsewhere in the Greater Bay Area or overseas, ask 
 
 The original draft listed hospitals in Beijing and Shenzhen. Those unrelated entries have been removed. Use the municipal lookup, then verify the exact Guangzhou campus and clinical team.
 
-## Related Treatments
-
-Do not associate a treatment because a Guangzhou institution advertises it. Link only after the receiving clinician confirms diagnosis, eligibility and the service location.
-
 ## Related Guides
 
 - Hospital Registration in China: A Step-by-Step Guide
@@ -220,4 +216,3 @@ Call 120 and state the exact location and patient condition. Guangzhou’s inter
 - **Decision:** Approved and retained as `hero-reviewed.png`.
 - **Why:** The Canton Tower, Pearl River setting and suitcase make the Guangzhou international-patient context specific and immediately understandable.
 - **Risk check:** No hospital logo, readable record, watermark, procedure, visible illness or guaranteed-outcome claim is shown.
-

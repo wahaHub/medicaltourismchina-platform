@@ -1,4 +1,4 @@
-# 005 How Medical Referrals Work in China
+# How Medical Referrals Work in China
 
 ## Hero
 
@@ -116,14 +116,6 @@ Keep referral notes, acceptance correspondence, itemised invoices and transport 
 
 **Medical disclaimer:** This guide explains referral logistics and does not decide whether a patient is safe to travel or which hospital should accept care. Unstable or rapidly worsening symptoms require immediate clinical assessment and medically coordinated transfer where necessary.
 
-## Related Hospitals
-
-A referral should name the exact institution, campus and department. No hospital is endorsed simply because it is a higher level or in another city.
-
-## Related Treatments
-
-Referral may be for diagnosis, a second opinion, a procedure, rehabilitation or follow-up. The receiving team must confirm the actual scope before travel.
-
 ## Related Guides
 
 - Community Health Centres vs Tertiary Hospitals in China
@@ -136,10 +128,6 @@ Referral may be for diagnosis, a second opinion, a procedure, rehabilitation or 
 ### Do international patients need a referral letter to see a specialist in China?
 
 Not always. Many services accept direct inquiries, but a focused referral letter and complete records can improve triage and may be required by the hospital or insurer.
-
-### Does a referral guarantee admission?
-
-No. The receiving hospital must confirm what it has accepted. An outpatient assessment, provisional opinion and reserved inpatient bed are different commitments.
 
 ### Can one Chinese hospital transfer my records electronically to another?
 
@@ -175,4 +163,3 @@ It is a planned transfer of stable, recovery or long-term care from a higher-lev
 ## Hero Image Review
 
 The original image is retained because it depicts a referral sequence—clinician, records and receiving hospital—rather than a generic hospital visit. The dotted handover path and travelling patient support the article without naming a real institution or implying guaranteed acceptance.
-

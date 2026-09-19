@@ -102,10 +102,6 @@ The best travel kit cannot compensate for departing too early. A stable wound, a
 
 There is no universal interval. The procedure, anaesthesia, bleeding and clot risk, wound stability, drains, lung function and airline rules all matter. Ask the operating surgeon to approve the specific itinerary; CDC also describes additional concerns after chest or abdominal surgery [4].
 
-### 2. Should I change the dressing before every flight or train ride?
-
-Not automatically. Follow the surgeon’s schedule and change it sooner if it is wet, loose, dirty or saturated. Unnecessary changes can irritate skin and introduce contamination.
-
 ### 3. Can airport security inspect a drain or wound device?
 
 Procedures vary. Contact the airport and airline in advance, carry a clinical letter and device details, and request a private screening if needed. Never disconnect or open a prescribed device solely to speed screening.

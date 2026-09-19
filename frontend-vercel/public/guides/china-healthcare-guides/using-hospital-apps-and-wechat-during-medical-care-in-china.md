@@ -1,4 +1,4 @@
-# 013 Using Hospital Apps and WeChat During Medical Care in China
+# Using Hospital Apps and WeChat During Medical Care in China
 
 ## Hero
 
@@ -159,14 +159,6 @@ The same principle applies to administrative dead ends. If the system cannot rec
 
 **Medical disclaimer:** Digital services help with access and administration but do not replace emergency care, clinical examination or direct instructions from the treating hospital. Functions and rules change; verify the current process with the named hospital before relying on it.
 
-## Related Hospitals
-
-Link only to the hospital’s verified official website, app listing, official account or mini-program. Record the campus and last verification date because digital channels can change.
-
-## Related Treatments
-
-Patients undergoing repeated infusions, radiotherapy, rehabilitation or chronic-disease follow-up may benefit from digital scheduling and report access, but should still keep a written clinical and emergency plan.
-
 ## Related Guides
 
 - Hospital Registration in China: A Step-by-Step Guide
@@ -175,10 +167,6 @@ Patients undergoing repeated infusions, radiotherapy, rehabilitation or chronic-
 - Protecting Your Medical Privacy When Sharing Records Internationally
 
 ## FAQ
-
-### Do I need WeChat to visit a hospital in China?
-
-Not always. Many hospitals offer WeChat services, but alternatives may include the hospital app, website, telephone, kiosk or service desk. Ask the exact hospital what it supports.
 
 ### Why can’t the app find my appointment?
 
@@ -191,10 +179,6 @@ Some services support them and others do not. Chinese official guidance describe
 ### Is a test result in the app an official medical record?
 
 It is useful clinical information, but a screen view may not satisfy a receiving doctor, insurer or authority. Ask for the report’s downloadable or stamped version and obtain original imaging files when needed.
-
-### Can my coordinator register and pay for me?
-
-Possibly, but the patient identity in the clinical record must remain accurate. Define the coordinator’s authority, retain institutional receipts and remove unnecessary account access after the visit.
 
 ## SEO Metadata
 
@@ -218,4 +202,3 @@ Possibly, but the patient identity in the clinical record must remain accurate. 
 ## Hero Image Review
 
 The original illustration is retained because it specifically shows an international patient receiving help with a hospital mobile service and a recognisable WeChat interface at an official-looking service desk. The screens contain no readable health or identity data.
-

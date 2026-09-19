@@ -1,4 +1,4 @@
-# 021 Seeking Medical Care in Beijing: A Practical Guide for International Patients
+# Seeking Medical Care in Beijing: A Practical Guide for International Patients
 
 ## Hero
 
@@ -154,10 +154,6 @@ The return-home clinician needs to know what was concluded, what remains uncerta
 
 These links illustrate how to check services; they are not patient-specific referrals or quality rankings.
 
-## Related Treatments
-
-No treatment should be linked solely because it is available in Beijing. Add a treatment only after matching the diagnosis, stage, prior therapy and receiving department.
-
 ## Related Guides
 
 - How International Patients Can Book a Specialist in China
@@ -179,14 +175,6 @@ No. A 2025 municipal notice identified 15 hospitals or campuses with a full Engl
 ### Can I go to a different campus of the same hospital?
 
 Only after confirming that the appointment and service exist there. Campuses can have different departments, check-in systems and emergency capability.[5][6]
-
-### Will commercial insurance pay the hospital directly?
-
-Only if the hospital, campus, service and policy are covered and any required authorisation is complete. Obtain confirmation from both the hospital and insurer; bring a backup payment method.[1]
-
-### Which number should I call for medical help?
-
-Call 120 for a medical emergency. Beijing 12345 can assist with non-emergency public-service information in multiple languages but does not replace emergency or clinical services.[4]
 
 ## SEO Metadata
 

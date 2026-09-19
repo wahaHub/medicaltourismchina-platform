@@ -1,4 +1,4 @@
-# 028 Multidisciplinary Cancer Care: How Tumor Boards Guide Treatment
+# Multidisciplinary Cancer Care: How Tumor Boards Guide Treatment
 
 ## Hero
 
@@ -190,14 +190,6 @@ A recommendation that never reaches the patient or cannot be implemented is not 
 
 **Medical disclaimer:** Tumour-board review is a planning process, not a diagnosis, guarantee or substitute for informed consent. The treating clinician must apply the recommendation to the patient’s current condition and preferences. Urgent deterioration requires immediate clinical assessment rather than waiting for a scheduled meeting.
 
-## Related Hospitals
-
-Link a hospital only after verifying a disease-specific tumour board, its core membership, record requirements, written output and route for international patients. The original generic hospital list has been removed.
-
-## Related Treatments
-
-An MDT may compare surgery, systemic therapy, radiotherapy, local procedures, clinical trials, surveillance and supportive care. Link only the options actually considered for the patient’s diagnosis and treatment intent.
-
 ## Related Guides
 
 - Pathology Review Before Cancer Treatment in China
@@ -216,17 +208,9 @@ Often not. Tumour boards are usually clinician meetings, while multidisciplinary
 
 No. It reflects the evidence and expertise available at that time. Missing material, new results or patient preferences can change the plan.
 
-### Must every specialist agree?
-
-Not necessarily. The record should show unresolved issues or reasonable alternatives instead of presenting false unanimity.
-
 ### Can an international case be discussed before travel?
 
 Sometimes. The hospital must confirm that it accepts remote records and whether pathology and DICOM imaging can be formally reviewed. An administrative file check is not the same service.
-
-### When should a case return to the tumour board?
-
-When a diagnosis, stage, biomarker, response, toxicity, surgical finding, health condition or patient goal changes enough to affect the recommendation.
 
 ## SEO Metadata
 

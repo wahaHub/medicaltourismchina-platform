@@ -1,4 +1,4 @@
-# 004 Community Health Centres vs Tertiary Hospitals in China
+# Community Health Centres vs Tertiary Hospitals in China
 
 ## Hero
 
@@ -92,14 +92,6 @@ When comparing options, ask: what must be done today, what risk requires backup,
 
 **Medical disclaimer:** This guide does not diagnose symptoms or direct an individual to a particular facility. If symptoms are severe, sudden or rapidly worsening, use local emergency services without delaying for a routine community appointment.
 
-## Related Hospitals
-
-No facility is recommended solely by level. Verify the actual services, hours, referral links and language arrangements of the exact community centre or tertiary hospital.
-
-## Related Treatments
-
-Routine monitoring and rehabilitation may be shared with a local facility only when the treating team and receiving clinician agree that it is safe and provide a written plan.
-
 ## Related Guides
 
 - Understanding China’s Three-Tier Hospital System
@@ -108,14 +100,6 @@ Routine monitoring and rehabilitation may be shared with a local facility only w
 - Medical Emergencies During Travel in China
 
 ## FAQ
-
-### Can a foreign visitor use a community health centre in China?
-
-Often yes, but registration, payment and language arrangements vary. Contact the exact centre and ask which identification it accepts before attending.
-
-### Can a community centre manage chronic medication?
-
-It may monitor stable conditions and prescribe medicines within its scope, but availability and local prescribing rules differ. Bring the original prescription and a full medication list.
 
 ### Do I need a community referral to see a tertiary hospital?
 
@@ -151,4 +135,3 @@ Often some of it can, especially routine monitoring or rehabilitation, but only 
 ## Hero Image Review
 
 The original image is retained because it clearly contrasts a small neighbourhood facility with a large tertiary hospital and places the patient between two care pathways. It supports a navigation decision without depicting either setting as universally superior.
-

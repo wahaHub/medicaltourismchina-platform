@@ -1,4 +1,4 @@
-# 108 Choosing a Hospital in Chengdu: Three Distances, Two Airports, and a Safe Recovery Radius
+# Choosing a Hospital in Chengdu: Three Distances, Two Airports, and a Safe Recovery Radius
 
 ## Hero
 
@@ -140,14 +140,6 @@ Collect the final diagnosis, treatment and procedure notes, anaesthesia record i
 
 **Medical disclaimer:** This guide offers general planning information and does not rank or endorse Chengdu hospitals. A qualified clinician who has reviewed the full case must determine clinical suitability, travel timing, and high-altitude fitness. Use immediate local emergency care for severe or rapidly worsening symptoms.
 
-## Related Hospitals
-
-Add a Chengdu provider only after verifying the legal institution, named department and clinician, exact treatment campus, clinical dependency chain, passport workflow, interpretation, payment terms, and emergency route. The unrelated Beijing, Guangdong, and Shenzhen entries in the previous draft were removed.
-
-## Related Treatments
-
-Link only a treatment that the responsible Chengdu team has confirmed for this patient at the stated campus. An appointment, brochure, or specialty label is not treatment acceptance.
-
 ## Related Guides
 
 - Preparing a Medical Case Index for Review in China
@@ -164,10 +156,6 @@ Use the airport and terminal printed on the actual flight, then compare the comp
 ### Does an international medical department mean treatment is in English?
 
 Not necessarily. Confirm interpretation for the specific clinic, consent, ward rounds, pharmacy, and discharge. Coordination staff and clinical interpreters may be different people with different hours.
-
-### Can I choose a hotel before the hospital confirms the campus?
-
-That is risky. First identify the building used for review, treatment, emergencies, and follow-up; then choose accommodation inside the clinician-approved recovery radius.
 
 ### Is Chengdu a safe acclimatisation stop before travelling to Tibet or western Sichuan?
 
@@ -199,7 +187,3 @@ A written clinical response should identify the files reviewed, the question bei
 7. [Sichuan Provincial Government: Passenger Assistance at Major Chengdu Rail Stations, 2025](https://www.sc.gov.cn/10462/10464/10465/10574/2025/1/15/6df2a1b934794de8a6dd45cede8caae2.shtml)
 8. [US CDC Yellow Book: High-Altitude Travel and Altitude Illness](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html)
 9. [National Health Commission: Measures for the Administration of Pre-hospital Medical Emergency Care](https://www.nhc.gov.cn/wjw/c100221/202201/26ea3c97e82d466f9aa2b4a9901ae187/files/%E9%99%A2%E5%89%8D%E5%8C%BB%E7%96%97%E6%80%A5%E6%95%91%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95.pdf)
-
-## Hero Image Prompt
-
-Retained and reviewed the original editorial illustration. Its skyline, bridge or pagoda, hospital, heart, brain, doctor, luggage, calendar, and map symbols are conceptual; they do not show a real Chengdu campus, route, timetable, specialty capability, patient outcome, or endorsement.

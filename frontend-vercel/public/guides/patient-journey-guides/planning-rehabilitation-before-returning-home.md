@@ -1,4 +1,4 @@
-# 145 Rehabilitation Before Returning Home: Transfer Function, Not Exercise Names
+# Rehabilitation Before Returning Home: Transfer Function, Not Exercise Names
 
 ## Hero
 
@@ -217,10 +217,6 @@ Only the safe bridge programme taught and documented by the team. It should stat
 ### What equipment information should cross the border?
 
 Send purpose, manufacturer/model, dimensions or settings, weight rating, side, accessories, patient fit, training, maintenance and consumables. Confirm that equivalent local supply and repair are available.
-
-### When is the handover actually complete?
-
-When a named receiving service confirms receipt, accepts responsibility, books an initial assessment and then communicates the takeover plan. Sending a referral or giving the patient a phone number is not enough.
 
 ## SEO Metadata
 

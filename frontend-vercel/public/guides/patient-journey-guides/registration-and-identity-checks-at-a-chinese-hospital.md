@@ -1,4 +1,4 @@
-# 131 Identity Checks at a Chinese Hospital: Keep One Patient Attached to One Story
+# Identity Checks at a Chinese Hospital: Keep One Patient Attached to One Story
 
 ## Hero
 
@@ -148,10 +148,6 @@ Record every hospital identifier on the crosswalk. If two numbers were legitimat
 
 Ask the hospital which field its system treats as authoritative, then document both exactly and link any difference. The visible page and MRZ may legitimately represent punctuation or long names differently. The unsafe outcome is not the chosen display format; it is two unlinked identities.
 
-### Can a companion's phone number be used for the patient account?
-
-Sometimes, if the hospital permits it and authority is clear. Confirm that the clinical record remains assigned to the patient, not the phone owner, and document how access will be transferred or revoked after treatment.
-
 ### Why does staff keep asking for name and date of birth?
 
 Repeated checking is a safety control. Identity should be verified again before medicines, specimens, procedures, transfers and release of results. The patient should answer actively rather than treating repetition as a sign that staff have forgotten them.
@@ -184,4 +180,3 @@ Possibly, but the process is harder once reports have been translated, submitted
 5. [WHO Collaborating Centre for Patient Safety — Patient Identification Solution](https://cdn.who.int/media/docs/default-source/patient-safety/patient-safety-solutions/ps-solution2-patient-identification.pdf)
 6. [National Health Commission — Measures for the Administration of Complaints by Medical Institutions](https://www.nhc.gov.cn/wjw/c100221/202201/3d1d9a04f09e488fadaf2a377b772370.shtml)
 7. [National Health Commission — Regulations on the Prevention and Handling of Medical Disputes](https://www.nhc.gov.cn/wjw/xwdt/201808/b2b4ee8f65534257a998b5f5ba938701.shtml)
-

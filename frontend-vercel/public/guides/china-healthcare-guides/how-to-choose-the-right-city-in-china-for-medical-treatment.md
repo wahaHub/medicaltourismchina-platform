@@ -1,4 +1,4 @@
-# 025 How to Choose the Right City in China for Medical Treatment
+# How to Choose the Right City in China for Medical Treatment
 
 ## Hero
 
@@ -171,14 +171,6 @@ A city choice should improve the care pathway, not merely relocate the patient.
 
 **Medical disclaimer:** This framework supports comparison and does not rank cities, select a hospital or determine fitness to travel. Clinical and travel decisions must be made with professionals who know the complete record. Seek urgent local care if the patient deteriorates rather than travelling to a planned destination.
 
-## Related Hospitals
-
-No hospital should be auto-linked at the city-selection stage. First identify the required specialty and use official institution and professional registries to build a patient-specific shortlist.[1]
-
-## Related Treatments
-
-Leave treatment links empty until a clinician-reviewed destination plan exists. Availability in a city does not establish indication, eligibility or expected benefit.
-
 ## Related Guides
 
 - Seeking Medical Care in Beijing: A Guide for International Patients
@@ -236,4 +228,3 @@ Ask who has clinically reviewed the record and what exact decision or service th
 - **Decision:** Approved and retained as `hero-reviewed.png`.
 - **Why:** The map, multiple destination markers and conversation directly express a comparison rather than a single-city visit.
 - **Risk check:** Stylised landmarks are illustrative; there is no provider endorsement, readable patient data, medical procedure or promised result.
-

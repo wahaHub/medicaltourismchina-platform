@@ -1,4 +1,4 @@
-# 119 Hospital Insurance, Billing, and Payment Support for Foreign Patients in China: Reconcile Three Ledgers
+# Hospital Insurance, Billing, and Payment Support for Foreign Patients in China: Reconcile Three Ledgers
 
 ## Hero
 
@@ -187,14 +187,6 @@ If the insurer denies a claim, ask for the specific policy clause, clinical/codi
 
 **Financial and medical disclaimer:** This guide provides general planning information, not insurance, legal, tax or medical advice. Coverage, emergency payment, exchange, social-insurance eligibility and reimbursement depend on the individual policy, enrolment, hospital and jurisdiction.
 
-## Related Hospitals
-
-List billing or insurance support only after verifying the legal provider, accepted payer route, direct-billing conditions, deposit, authorisation changes, itemisation, official receipts, refunds, privacy and dispute contacts.
-
-## Related Treatments
-
-Link treatments to a clinician-confirmed plan and a separate financial scenario; insurer authorisation is not a treatment recommendation, and a hospital estimate is not coverage.
-
 ## Related Guides
 
 - International Patient Admission: Four Confirmations
@@ -204,10 +196,6 @@ Link treatments to a clinician-confirmed plan and a separate financial scenario;
 - Emergency Medical Care and Payment in China
 
 ## FAQ
-
-### Does direct billing mean cashless treatment?
-
-Not always. The hospital may still require a deposit or payment for exclusions, deductibles, room upgrades and amounts above the guarantee. Ask both hospital and payer.
 
 ### Can a foreign visitor use China’s basic medical insurance?
 
@@ -244,7 +232,3 @@ Keep them at least through final settlement, reimbursement, appeal and any appli
 4. [National Health Commission: Basic Healthcare and Health Promotion Law](https://www.nhc.gov.cn/fzs/c100048/202007/e1192329ea4d45ef892892cd8232d385.shtml)
 5. [Ministry of Finance, National Health Commission and NHSA: National Medical Electronic Receipt Reform](https://www.mof.gov.cn/gkml/caizhengwengao/wg201901/wg201908/201912/t20191230_3452059.htm)
 6. [National Health Commission: Medical Institution Record-management Provisions, 2013](https://www.nhc.gov.cn/yzygj/c100068/201312/c9955f0471c04450a9f9ab74648fbdd4.shtml)
-
-## Hero Image Prompt
-
-Original illustration retained after review: an international patient reviews billing documents with a hospital coordinator beside a calculator and luggage. It fits payment support but does not show a real invoice, insurer, hospital, quote, coverage decision, or guarantee.

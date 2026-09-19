@@ -1,4 +1,4 @@
-# 120 Discharge Coordination and Overseas Follow-Up from a Chinese Hospital: “Sent” Is Not “Received”
+# Discharge Coordination and Overseas Follow-Up from a Chinese Hospital: “Sent” Is Not “Received”
 
 ## Hero
 
@@ -178,14 +178,6 @@ The safest international discharge is intentionally uneventful: no missing medic
 
 **Medical disclaimer:** This guide provides general discharge and travel-planning information. It does not determine fitness to fly, prescribe medicines or replace local emergency and follow-up care. Patient-specific decisions require the treating and receiving clinicians and, where relevant, the carrier.
 
-## Related Hospitals
-
-List discharge/follow-up support only after verifying the responsible clinical team, source-record release, English handoff, medication reconciliation, pending-result ownership, travel review, remote-care boundaries and receiving-clinician confirmation.
-
-## Related Treatments
-
-Link post-treatment care only when restrictions, monitoring, medicines, complications, pending results and the next responsible clinician are explicit.
-
 ## Related Guides
 
 - Obtaining and Translating Chinese Hospital Records
@@ -207,10 +199,6 @@ Enough for a clinically and legally appropriate bridge period, plus written gene
 ### Can the Chinese hospital follow me by video after I return?
 
 Sometimes for suitable follow-up, depending on the hospital, platform, jurisdiction and clinical issue. New or worsening problems may require the online visit to stop and local in-person care.
-
-### What if pathology is still pending when I leave?
-
-Create a named result owner, expected date, secure delivery route, review appointment and action plan. Confirm the home clinician will receive and act on the final report.
 
 ### What proves that a cross-border handoff is complete?
 
@@ -236,7 +224,3 @@ The receiving clinician confirms that the records are readable, identity and med
 5. [US CDC Yellow Book: Medical Tourism and Post-procedure Travel](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
 6. [National Health Commission: Medical Institution Record-management Provisions, 2013](https://www.nhc.gov.cn/yzygj/c100068/201312/c9955f0471c04450a9f9ab74648fbdd4.shtml)
 7. [National Health Commission: Internet Diagnosis and Treatment Supervision Rules](https://www.nhc.gov.cn/yzygj/c100068/202203/2072f0e8988249e59d942e1b2a933916.shtml)
-
-## Hero Image Prompt
-
-Original illustration retained after review: an international patient with luggage reviews a calendar, route and follow-up contact with a hospital coordinator. It fits cross-border discharge but does not show a real hospital, flight clearance, medical record, appointment or guarantee.

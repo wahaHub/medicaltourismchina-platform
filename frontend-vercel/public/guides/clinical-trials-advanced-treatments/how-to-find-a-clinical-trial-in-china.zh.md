@@ -1,4 +1,4 @@
-# 071 如何在中国寻找临床试验
+# 如何在中国寻找临床试验
 
 ## Hero
 
@@ -89,14 +89,6 @@ ClinicalTrials.gov 对状态的定义显示，多中心研究只要至少一个�
 
 **医疗免责声明：** 本文说明如何检索和核实临床试验，不判断患者是否符合资格，也不推荐任何试验性治疗。研究状态、中心和标准会变化，所有信息都需向研究团队重新确认，并与具备资质的医生讨论。
 
-## Related Hospitals
-
-以当前注册记录列出的研究中心为准，并通过医院官方科研或临床科室渠道核实。某家医院开展临床试验，不代表它正在开展患者所关注的具体方案。
-
-## Related Treatments
-
-登记不代表研究产品已经获批或证实有效。标准治疗、其他研究和支持治疗都应继续纳入讨论。
-
 ## Related Guides
 
 - 怎样理解临床试验不同分期
@@ -146,7 +138,3 @@ ClinicalTrials.gov 对状态的定义显示，多中心研究只要至少一个�
 5. [ClinicalTrials.gov：研究状态等注册字段定义](https://clinicaltrials.gov/prs-info/protocol-definitions)
 6. [ClinicalTrials.gov：认识临床研究](https://clinicaltrials.gov/study-basics/learn-about-studies)
 7. [国务院公报：《药物临床试验质量管理规范》（2020）](https://www.gov.cn/gbgl/c3b91a472a6141c397dabebc7984a5a1/files/c1136cecc15b43b5aaae09ebcbf8a3d7.pdf)
-
-## Hero Image Prompt
-
-用途：自然写实编辑照片。素材类型：16:9 网站主图。患者与双语临床研究协调员并排坐在医院研究办公室，对照笔记本电脑上的匿名化试验注册页面和一张简洁的纸质预筛查清单，背景中有医生正在查看资料。现代中国医院、自然光、专注而真实的表情。不要出现可读文字、标识、旗帜、患者身份信息、药品品牌、针具、疗效承诺或未来感界面。

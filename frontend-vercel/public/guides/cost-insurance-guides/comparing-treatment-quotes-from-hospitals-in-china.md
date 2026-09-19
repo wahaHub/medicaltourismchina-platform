@@ -1,4 +1,4 @@
-# 155 Comparing China Hospital Quotes: Normalize the Care Before the Price
+# Comparing China Hospital Quotes: Normalize the Care Before the Price
 
 ## Hero
 

@@ -1,4 +1,4 @@
-# 127 赴华治疗前后乘机：要过四道关，不是等一个日期
+# 赴华治疗前后乘机：要过四道关，不是等一个日期
 
 ## Hero
 
@@ -145,10 +145,6 @@ CDC 医疗旅行指导提醒，操作后旅行会叠加血栓风险，出现并�
 
 没有统一天数。手术、残余气体、出血/感染、氧气、贫血、血栓风险、活动能力、并发症和路线共同决定。
 
-### 有医生适航证明，航空公司就一定接受吗？
-
-不一定。实际承运人可能要求自己的表格、提交期限、医学部门批准、设备文件或护送安排。
-
 ### 长途飞行前应该吃阿司匹林或抗凝药吗？
 
 不得自行开始。医生要评估血栓和出血风险，再决定活动、压力用品或药物是否合适。
@@ -177,7 +173,3 @@ CDC 医疗旅行指导提醒，操作后旅行会叠加血栓风险，出现并�
 5. [美国 CDC Yellow Book：行前健康咨询](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/the-pre-travel-consultation.html)
 6. [美国 CDC Yellow Book：医疗旅行与操作后出行](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
 7. [航空航天医学协会：航空旅行医学指南](https://asma.org/publications/medical-publications-for-airline-travel/medical-guidelines-for-airline-travel/)
-
-## Hero Image Prompt
-
-经复核保留原插图：出行者在航班前把路线地图、医院与彩色治疗时间轴放在一起比较。画面符合术前术后航班规划，但不代表真实医院、机票、许可、航空批准或安全出发日期。

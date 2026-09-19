@@ -1,4 +1,4 @@
-# 039 Heart Valve Repair and Replacement: Comparing Treatment Options
+# Heart Valve Repair and Replacement: Comparing Treatment Options
 
 ## Hero
 
@@ -163,10 +163,6 @@ No. Current ACC/AHA guidance contraindicates direct thrombin and anti-Xa oral an
 ### Is a transcatheter valve always safer than open surgery?
 
 No. It avoids an open operation for suitable patients, but has its own anatomical limits and risks and may not address other cardiac disease. A Heart Team should compare early risk, durability, pacemaker and leak risk, future coronary access and later reintervention.[1]
-
-### What record matters most after valve treatment abroad?
-
-Carry the procedure report and implant or repair details together with the baseline postoperative echocardiogram and antithrombotic plan. An implant card alone does not show gradients, residual regurgitation, complications or the next surveillance date.
 
 ## SEO Metadata
 

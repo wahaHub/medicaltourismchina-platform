@@ -1,4 +1,4 @@
-# 088 Robotic Surgery in China: Benefits, Limits, and Surgeon Experience
+# Robotic Surgery in China: Benefits, Limits, and Surgeon Experience
 
 ## Hero
 

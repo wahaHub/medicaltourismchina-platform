@@ -1,4 +1,4 @@
-# 171 Medical Emergencies During Travel in China: What to Do
+# Medical Emergencies During Travel in China: What to Do
 
 ## Hero
 
@@ -85,14 +85,6 @@ Do not place a full medical record on an unlocked phone. The card should help a 
 
 **Medical disclaimer:** This article provides general educational information and cannot determine whether a particular symptom is an emergency. If a person has severe, sudden or rapidly worsening symptoms, call 120 in mainland China or seek immediate local emergency care. Follow instructions from the emergency dispatcher and treating clinicians.
 
-## Related Hospitals
-
-In an emergency, the appropriate destination depends on the patient’s condition, location and the emergency service’s assessment. A preselected international hospital should not delay calling 120.
-
-## Related Treatments
-
-No treatment is recommended in this article. Emergency clinicians must assess the patient before treatment decisions are made.
-
 ## Related Guides
 
 - Fever Before or After Treatment: When to Contact a Clinician
@@ -106,10 +98,6 @@ No treatment is recommended in this article. Emergency clinicians must assess th
 
 You can tell the dispatcher about recent treatment and a preferred hospital, but the crew must consider urgency, distance and the care the patient needs. Do not refuse timely emergency transport solely to reach a preselected facility.
 
-### What if I cannot explain the problem in Chinese?
-
-Give the location first. Ask a hotel employee, colleague, driver or bilingual bystander to join the call. Keep a short bilingual emergency card on the patient’s phone and in their wallet.
-
 ### Should I call my insurer before calling 120?
 
 No. Call for emergency help first. Once help is on the way and another person is available, contact the insurer’s assistance line to discuss payment, network rules or a possible transfer.
@@ -117,10 +105,6 @@ No. Call for emergency help first. Once help is on the way and another person is
 ### What documents matter most at the emergency department?
 
 A short medication and allergy list, recent procedure details and a concise medical summary are usually more useful in the first minutes than a large unsorted record archive. Bring a passport and insurance details if they are immediately accessible.
-
-### What should I collect for follow-up or an insurance claim?
-
-Ask for the clinical summary, test and imaging reports, prescriptions, itemized bills, proof of payment and the hospital’s contact details. Keep the originals and make secure copies.
 
 ## SEO Metadata
 
@@ -140,7 +124,3 @@ Ask for the clinical summary, test and imaging reports, prescriptions, itemized 
 3. [MedlinePlus: Recognizing Medical Emergencies](https://medlineplus.gov/ency/article/001927.htm)
 4. [CDC Yellow Book: What to Do When Sick Abroad](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/what-to-do-when-sick-abroad.html)
 5. [CDC Yellow Book: Travel Insurance, Travel Health Insurance, and Medical Evacuation Insurance](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/travel-insurance.html)
-
-## Hero Image Prompt
-
-Use case: photorealistic-natural. Asset type: 16:9 website hero. A calm but time-sensitive emergency response in a modern Chinese hotel lobby: an international traveler seated and unwell, a companion speaking on a phone, a hotel employee guiding two paramedics carrying a closed medical kit toward them. Documentary editorial photography, natural daylight, believable body language, diverse adults, wide composition with clear negative space. No visible logos, flags, readable text, patient records, needles, blood, resuscitation, dramatic distress or staged smiles.

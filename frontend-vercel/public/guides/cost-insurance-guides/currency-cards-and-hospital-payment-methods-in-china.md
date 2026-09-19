@@ -1,4 +1,4 @@
-# 165 Paying a China Hospital: Build a Payment Route That Can Survive Failure
+# Paying a China Hospital: Build a Payment Route That Can Survive Failure
 
 ## Hero
 
@@ -222,10 +222,6 @@ No. The wallet and underlying card can have separate identity, transaction and r
 ### Should I choose to pay in RMB or my home currency at the terminal?
 
 Compare the terminal’s displayed conversion and fees with the issuer’s conversion method. Always retain the original RMB amount for hospital reconciliation.
-
-### Is a card receipt enough for an insurance claim?
-
-Usually not by itself. Keep transaction proof, proof the hospital credited the correct patient account, the official medical receipt and the itemized charge list.
 
 ### How will a hospital refund an unused deposit?
 

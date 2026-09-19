@@ -1,4 +1,4 @@
-# 007 What to Expect at a Chinese Hospital Outpatient Appointment
+# What to Expect at a Chinese Hospital Outpatient Appointment
 
 ## Hero
 
@@ -118,14 +118,6 @@ If the patient is not safe to leave, ask staff to arrange clinical escalation. D
 
 **Medical disclaimer:** This guide explains common outpatient workflows. It does not diagnose symptoms or guarantee that every Chinese hospital follows the same process. Severe or rapidly worsening symptoms require urgent local assessment.
 
-## Related Hospitals
-
-Outpatient processes differ by campus and service channel. Confirm the exact department and registration route rather than relying on a hospital-wide description.
-
-## Related Treatments
-
-An outpatient visit may lead to testing, treatment planning or admission. It does not by itself mean that a procedure has been accepted or scheduled.
-
 ## Related Guides
 
 - How International Patients Can Book a Specialist in China
@@ -177,4 +169,3 @@ The interpreter can facilitate communication, but the clinician needs the patien
 ## Hero Image Review
 
 The original image is retained because it accurately shows an international patient and companion in an outpatient consultation, with a visible waiting area but no readable health data. It represents one stage of the visit without claiming that every clinic has the same décor or waiting time.
-

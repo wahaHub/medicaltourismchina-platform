@@ -1,4 +1,4 @@
-# 035 Follow-Up Care After Cancer Treatment in China
+# Follow-Up Care After Cancer Treatment in China
 
 ## Hero
 
@@ -130,10 +130,6 @@ Usually not. Remote review may help interpret treatment records or planned resul
 ### What is the single most important document to obtain before leaving China?
 
 Do not choose between a treatment summary and a follow-up plan; obtain both. The summary records what actually happened, while the plan records what comes next, including tests, late-effect risks and responsible clinicians.[4] Keep original pathology, imaging and treatment data as supporting records.
-
-### What should I do if a new symptom appears between planned visits?
-
-Use the urgency instructions in the written plan and contact the designated local clinician. Severe or rapidly worsening symptoms need immediate local assessment, not a delayed international message. A persistent change should be evaluated, but it should not be assumed to be recurrence without clinical review.
 
 ## SEO Metadata
 

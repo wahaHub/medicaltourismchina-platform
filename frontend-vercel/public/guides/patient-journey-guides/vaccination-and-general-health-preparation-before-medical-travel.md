@@ -1,4 +1,4 @@
-# 124 Vaccination Before Medical Travel to China: Protect the Treatment Window
+# Vaccination Before Medical Travel to China: Protect the Treatment Window
 
 ## Hero
 
@@ -114,10 +114,6 @@ If time is short, still seek advice. A late consultation may identify a useful s
 
 ## FAQ
 
-### Does every patient travelling to China need the same vaccines?
-
-No. Routine history, route, season, activities, immune status and planned treatment change the recommendation. Entry requirements are also distinct from clinical advice.
-
 ### Can I receive a live vaccine during chemotherapy?
 
 Live vaccines are generally contraindicated during substantial immune suppression. The exact restriction and safe future timing depend on the therapy and immune recovery; ask the oncology and vaccination teams.
@@ -154,7 +150,3 @@ It helps, but the team also needs immune-suppressing treatment dates, reactions,
 5. [American Society of Clinical Oncology: Vaccination of Adults with Cancer Guideline Summary](https://www.asco.org/news-initiatives/policy-news-analysis/new-asco-guideline-recommendations-answer-key-questions-about)
 6. [US CDC Yellow Book: Travel Health Kits](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travel-health-kits.html)
 7. [US CDC: Understanding Blood-clot Risk with Travel](https://www.cdc.gov/blood-clots/risk-factors/travel.html)
-
-## Hero Image Prompt
-
-Original illustration retained after review: travellers review a health calendar before a flight and hospital visit, with general protection symbols. It communicates pre-travel health planning but does not show a real vaccine, certificate, hospital, entry rule or guarantee of immunity.

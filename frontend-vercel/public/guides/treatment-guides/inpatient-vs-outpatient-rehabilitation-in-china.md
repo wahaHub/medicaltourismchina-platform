@@ -1,4 +1,4 @@
-# 066 Inpatient vs Outpatient Rehabilitation in China
+# Inpatient vs Outpatient Rehabilitation in China
 
 ## Hero
 
@@ -114,10 +114,6 @@ International patients also need a local plan for deterioration. A telephone num
 ### Is inpatient rehabilitation always more intensive than outpatient rehabilitation?
 
 No. Inpatient care adds overnight hospital and nursing support, but useful therapy time varies. Compare active sessions, disciplines, weekend service, patient tolerance and measured progress rather than the bed alone.
-
-### Can a family companion make outpatient rehabilitation safe?
-
-Sometimes, if the patient’s needs are predictable and the companion is willing, trained and physically able. A companion cannot replace skilled nursing, medical monitoring or emergency response.
 
 ### What is the difference between inpatient rehabilitation and staying in a nearby hotel?
 

@@ -1,4 +1,4 @@
-# 148 Remote Follow-Up with a China Medical Team: Build a Three-Party Control Loop
+# Remote Follow-Up with a China Medical Team: Build a Three-Party Control Loop
 
 ## Hero
 

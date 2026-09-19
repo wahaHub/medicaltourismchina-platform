@@ -1,4 +1,4 @@
-# 116 International Patient Admission Services in Chinese Hospitals: Get Four Confirmations Before You Fly
+# International Patient Admission Services in Chinese Hospitals: Get Four Confirmations Before You Fly
 
 ## Hero
 
@@ -184,14 +184,6 @@ The true admission service is not airport pickup or a private room. It is the sy
 
 **Medical disclaimer:** This guide provides general admission-planning information. It does not confirm clinical acceptance, insurance coverage, bed availability, legal representation or fitness to travel. These must be verified with the relevant hospital, clinician and payer for the specific patient.
 
-## Related Hospitals
-
-List a hospital’s international admission service only after verifying the legal institution and campus, clinical acceptance route, identity process, bed rules, interpreter coverage, billing responsibility, emergency pathway and record handoff.
-
-## Related Treatments
-
-Link treatment only after the admitting clinician confirms the patient-specific pathway; an invitation letter, estimate or bed booking is not a treatment recommendation.
-
 ## Related Guides
 
 - Preparing a Medical File for Admission in China
@@ -213,10 +205,6 @@ Only if the hospital specifically instructs this or the patient develops an emer
 ### Why must my passport name match every hospital document?
 
 Identity consistency reduces duplicate records and errors involving specimens, medicines, procedures, insurance and invoices. Ask the hospital to link old records rather than casually creating another identity.
-
-### Does direct billing mean I will pay nothing?
-
-No. Coverage may have a limit, exclusions, deductible, co-pay or pre-authorisation conditions. Obtain a written payer map and ask how deposits and uncovered services are handled.
 
 ### When should I request my inpatient records?
 
@@ -242,7 +230,3 @@ Ask about the process at admission. Some documents are only final after discharg
 5. [National Health Commission: Internal Price-behaviour Management Rules for Medical Institutions](https://www.nhc.gov.cn/caiwusi/c100043/202001/9a04a37485214153ba8761abadf17726.shtml)
 6. [Ministry of Finance, National Health Commission and NHSA: National Medical Electronic Receipt Reform](https://www.mof.gov.cn/gkml/caizhengwengao/wg201901/wg201908/201912/t20191230_3452059.htm)
 7. [National Health Commission: Strengthening Electronic Medical-record Information Use Management, 2025](https://www.nhc.gov.cn/yzygj/c100068/202506/c68abee7c54b4651a774cd533761780b.shtml)
-
-## Hero Image Prompt
-
-Original illustration retained after review: an international traveller with luggage speaks to an admission coordinator beside a reception desk and ward corridor. It accurately represents administrative arrival but does not show a real institution, confirmed bed, clinical acceptance, or endorsement.

@@ -1,4 +1,4 @@
-# 113 How to Choose an Orthopaedic or Spine Hospital in China: Function Before Hardware
+# How to Choose an Orthopaedic or Spine Hospital in China: Function Before Hardware
 
 ## Hero
 
@@ -147,14 +147,6 @@ The better centre is not the one with the most hardware in its brochure. It is t
 
 **Medical disclaimer:** This guide provides general selection and travel-planning information. It does not diagnose a musculoskeletal condition, recommend surgery, or rank Chinese hospitals. Urgent neurological, vascular, infectious, or traumatic symptoms require immediate local assessment.
 
-## Related Hospitals
-
-List an orthopaedic or spine centre only after verifying its legal identity, exact campus, relevant programme, responsible team, rescue and revision capability, rehabilitation, outcomes, and cross-border follow-up.
-
-## Related Treatments
-
-Link only the conservative, interventional, surgical, implant, infection, or rehabilitation pathway that matches the confirmed diagnosis, side/level, functional goal, and written decision.
-
 ## Related Guides
 
 - Joint Replacement in China: Building a Complete Decision
@@ -208,7 +200,3 @@ There is no universal interval. It depends on the operation, wound, mobility, cl
 8. [National Medical Products Administration: Interpretation of the Medical Device UDI System Rules](https://udi.nmpa.gov.cn/toDetail.html?CatalogId=2&infoId=43)
 9. [National Health Commission: Guidelines for Rehabilitation Medicine Departments in General Hospitals](https://www.nhc.gov.cn/zwgkzt/pyzgl1/201105/51579.shtml)
 10. [US CDC: Understanding Blood-clot Risk with Travel](https://www.cdc.gov/blood-clots/risk-factors/travel.html)
-
-## Hero Image Prompt
-
-Generated with the built-in image tool for this article: a natural, unbranded function-first assessment with an international patient walking, a companion, orthopaedic and spine clinicians, a physiotherapist, and anonymised weight-bearing joint radiographs and lumbar MRI. It does not show a real record, institution, treatment outcome, or endorsement.

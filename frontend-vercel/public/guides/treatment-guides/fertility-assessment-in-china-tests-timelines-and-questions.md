@@ -1,4 +1,4 @@
-# 054 Fertility Assessment in China: Tests, Timelines and Questions
+# Fertility Assessment in China: Tests, Timelines and Questions
 
 ## Hero
 
@@ -145,10 +145,6 @@ If the conclusion is “unexplained infertility,” confirm which basic domains 
 
 ## FAQ
 
-### How long should an international patient stay in China for a fertility assessment?
-
-There is no reliable universal duration. History, ultrasound, blood tests and semen analysis may fit into a short visit, but cycle-timed imaging, repeat semen testing, genetic results or specialist review can take longer. Obtain a personalised test calendar before booking non-refundable travel.
-
 ### Is AMH a test of egg quality or the chance of natural pregnancy?
 
 No. AMH mainly helps estimate ovarian response and possible egg yield during stimulation. It must be interpreted with age, antral follicle count, history and treatment goal; it does not directly measure egg quality and is a poor stand-alone predictor of natural conception.[2][6]
@@ -160,10 +156,6 @@ Not by itself. Semen parameters vary, and collection, fever, abstinence, transpo
 ### Do I need hysteroscopy and laparoscopy as part of the first work-up?
 
 Usually not routinely. Ultrasound and a tubal-patency test often answer the first anatomical questions. Hysteroscopy or laparoscopy is reserved for a suspected cavity, tubal, endometriosis or pelvic problem, or when an intervention is planned.[2]
-
-### Why does the Chinese clinic want to repeat tests already done at home?
-
-A repeat can be justified by expiry, cycle timing, incompatible methods, missing images, identity or regulatory requirements, or a result that needs confirmation. Ask the clinician to document the reason for each repeat; “part of the package” is not a clinical explanation.
 
 ## SEO Metadata
 

@@ -189,10 +189,6 @@ No. A lower price may reflect a different cost structure or a genuinely narrow s
 
 Map pre-arrival, destination-care and post-return services; identify the provider for every item; then request inclusions, exclusions, quantities, change triggers and complication responsibility in writing. Confirm the reconstruction directly with the treating hospital.
 
-### Can patient reviews prove a typical price or success rate?
-
-No. Reviews can generate useful questions but rarely establish a representative denominator, clinical similarity, full cost or outcome definition. Disclose incentives and verify the review against current provider documents.
-
 ### What is the fastest way to test a “save 70%” claim?
 
 Ask for the two underlying totals, their sources, collection dates and included services. If the advertiser cannot reproduce the percentage using comparable scopes and the same currency date, do not use it in the decision.
@@ -221,4 +217,3 @@ First preserve the evidence. The correct route depends on the advertiser, public
 5. [State Administration for Market Regulation: Advertising Law of the People’s Republic of China](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_5474cf75173c45d6a0379730fb4e8d97.html)
 6. [State Administration for Market Regulation: 2025 Medical Advertising Supervision Work Guide](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/ggjgs/art/2025/art_cd56662cf13b4ad59eabfe31cb1122e1.html)
 7. [US Federal Trade Commission: Health Products Compliance Guidance](https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance)
-

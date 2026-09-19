@@ -123,10 +123,6 @@ Request a written explanation: what finding triggered the delay, what must be ev
 
 ## FAQ
 
-### 1. Does “cleared for surgery” mean complications are unlikely?
-
-No. It means the team has assessed known risks and judged that proceeding under a defined plan is reasonable. It is not a guarantee and should not replace a procedure-specific consent discussion.
-
 ### 2. Why did the hospital not order a chest X-ray or many blood tests?
 
 Routine testing is selected according to the operation, health conditions and whether a result could change care. Not ordering a low-yield test can be evidence-based, not careless [2]. Ask what assessment supports the decision.

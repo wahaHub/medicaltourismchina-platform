@@ -1,4 +1,4 @@
-# 104 Choosing a Hospital in Shenzhen: Clinical Fit, Cross-border Boundaries, and Travel
+# Choosing a Hospital in Shenzhen: Clinical Fit, Cross-border Boundaries, and Travel
 
 ## Hero
 
@@ -184,14 +184,6 @@ Proceed only when the named team owns the defined clinical task, the licensed en
 
 **Medical disclaimer:** This guide provides general planning information and does not rank or endorse Shenzhen hospitals. Clinical suitability, policy eligibility, and fitness to travel require current confirmation from qualified professionals and responsible institutions. For severe or rapidly worsening symptoms, seek immediate local emergency care.
 
-## Related Hospitals
-
-Add a Shenzhen hospital only after verifying the legal institution, campus, relevant licensed subject, named team, surrounding capabilities, and patient-specific access route. Do not publish an unsupported “best hospitals” list.
-
-## Related Treatments
-
-Link a treatment only when the exact Shenzhen campus and team have confirmed clinical eligibility, necessary backup, medicine/device availability, and follow-up responsibility.
-
 ## Related Guides
 
 - Shenzhen Medical Care for International Patients
@@ -212,10 +204,6 @@ No. Collaboration, management, medicine/device policy, and insurance settlement 
 ### Can my Hong Kong doctor automatically see my Shenzhen records?
 
 Do not assume so. Cross-border data work is controlled and pathway-specific. Arrange a lawful handoff of the clinical summary, source imaging, pathology, medicines, and pending results to a named recipient.
-
-### Which Shenzhen station or port is closest to the right hospital?
-
-Confirm the campus building first, then compare airport, rail, and port routes door to door. Include immigration, transfers, walking, mobility assistance, queues, and a backup route.
 
 ### Can a cross-border ambulance take me between Shenzhen and Hong Kong?
 
@@ -245,7 +233,3 @@ There has been a cooperation pilot, but that does not create an on-demand entitl
 9. [Shenzhen Municipal People’s Government: Shenzhen–Hong Kong Cross-border Ambulance Cooperation Pilot](https://www.sz.gov.cn/szzt2010/wgkzl/jcgk/jchgk/content/mpost_11967969.html)
 10. [Shenzhen Municipal Justice Bureau: Regulations of Shenzhen Special Economic Zone on Emergency Medical Aid](https://sf.sz.gov.cn/fggzywyb/content/post_8857961.html)
 11. [Foreign Affairs Office of Shenzhen: English Translation and Writing Standards for Public Services](https://fao.sz.gov.cn/attachment/0/100/100576/1674050.pdf)
-
-## Hero Image Prompt
-
-Retained and reviewed the existing conceptual hero image. Do not treat its skyline, hospital, doctor, train, calendar, or interface elements as a depiction of a real Shenzhen campus, route, timetable, or endorsement.

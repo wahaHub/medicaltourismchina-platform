@@ -1,4 +1,4 @@
-# 006 How International Patients Can Book a Specialist in China
+# How International Patients Can Book a Specialist in China
 
 ## Hero
 
@@ -119,14 +119,6 @@ Cancel through the original channel when possible. Repeated missed appointments 
 Do not wait for a routine specialist slot if symptoms are severe or rapidly worsening. Use emergency services. Conversely, if the request is for elective complex treatment, do not buy flights based only on an outpatient booking. Obtain record review, clinical acceptance and a realistic next-step plan first.
 
 **Medical disclaimer:** This guide explains appointment logistics. It does not select a specialist, determine urgency or guarantee that a hospital will offer treatment after consultation.
-
-## Related Hospitals
-
-Use official hospital channels and verify the exact campus. No specialist is endorsed solely by title, popularity or appointment scarcity.
-
-## Related Treatments
-
-An appointment allows assessment. It does not itself confirm eligibility, price, admission or availability of a treatment.
 
 ## Related Guides
 

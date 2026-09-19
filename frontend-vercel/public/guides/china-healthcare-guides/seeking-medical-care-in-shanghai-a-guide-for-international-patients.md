@@ -1,4 +1,4 @@
-# 022 Seeking Medical Care in Shanghai: A Guide for International Patients
+# Seeking Medical Care in Shanghai: A Guide for International Patients
 
 ## Hero
 
@@ -165,10 +165,6 @@ Check that every page belongs to the patient and that dates, laterality and spec
 
 Use the directory to find official contact details and opening information. Add individual hospitals to a patient plan only after confirming the relevant department, site, language support and current availability.
 
-## Related Treatments
-
-Treatment pages should be connected only after a receiving Shanghai department has confirmed that the case and service pathway match. City availability alone is not evidence of suitability.
-
 ## Related Guides
 
 - Public vs Private Hospitals in China
@@ -225,4 +221,3 @@ No. Call 120 for a medical emergency. Shanghai 12345 handles non-emergency gover
 - **Decision:** Approved and retained as `hero-reviewed.png`.
 - **Why:** The recognisable Shanghai skyline, suitcase and consultation make the city-specific medical-travel context clear without naming a provider.
 - **Risk check:** No readable clinical record, hospital logo, watermark, invasive procedure, distress or outcome promise appears.
-

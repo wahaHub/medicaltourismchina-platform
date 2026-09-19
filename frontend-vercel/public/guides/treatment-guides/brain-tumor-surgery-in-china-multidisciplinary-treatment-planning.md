@@ -1,4 +1,4 @@
-# 051 Brain Tumor Surgery in China: Multidisciplinary Treatment Planning
+# Brain Tumor Surgery in China: Multidisciplinary Treatment Planning
 
 ## Hero
 

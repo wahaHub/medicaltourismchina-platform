@@ -1,4 +1,4 @@
-# 053 IVF Treatment in China: A Practical Guide for International Patients
+# IVF Treatment in China: A Practical Guide for International Patients
 
 ## Hero
 
@@ -153,10 +153,6 @@ Before leaving China, collect an English or professionally translated record con
 
 Published national technical and ethical principles require identity and marriage documentation and state that assisted reproduction should not be performed for single women.[3] Eligibility and implementation can change, so obtain a written pre-assessment from the licensed hospital before paying or travelling; do not rely on a facilitator's promise.
 
-### Does approval to offer IVF mean a clinic can also perform ICSI or PGT?
-
-No. China's planning framework treats conventional IVF-ET, ICSI and PGT as distinct technology categories.[1] Check the exact campus and current approved scope through official information and ask the hospital to confirm it in writing.
-
 ### Is ICSI better than conventional IVF for every patient?
 
 No. ICSI can be appropriate for particular male-factor, fertilisation or genetic-testing circumstances, but it is not a universal quality upgrade. The laboratory and doctor should document the indication and discuss conventional IVF, ICSI or a split approach when appropriate.[9]
@@ -164,10 +160,6 @@ No. ICSI can be appropriate for particular male-factor, fertilisation or genetic
 ### Which IVF success-rate number should I compare?
 
 Start with live birth per intended or actual retrieval and cumulative live birth after all transfers from that retrieval, matched by age and egg source. Also ask for cancellation, no-transfer, miscarriage and singleton outcomes. Pregnancy per transfer alone omits important earlier steps.[5]
-
-### Can frozen embryos be shipped from China to another country later?
-
-Do not assume so. Release, export, import, infectious-disease testing, cryogenic transport, receiving-laboratory compatibility and legal eligibility all need written confirmation before the cycle. If any party cannot approve the route, the embryos may need to remain at the original storage site.
 
 ## SEO Metadata
 

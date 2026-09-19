@@ -1,4 +1,4 @@
-# 065 Cancer Rehabilitation: Managing Function, Fatigue, and Recovery
+# Cancer Rehabilitation: Managing Function, Fatigue, and Recovery
 
 ## Hero
 

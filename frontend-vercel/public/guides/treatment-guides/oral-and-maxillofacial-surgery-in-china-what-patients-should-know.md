@@ -1,4 +1,4 @@
-# 062 Oral and Maxillofacial Surgery in China: What Patients Should Know
+# Oral and Maxillofacial Surgery in China: What Patients Should Know
 
 ## Hero
 
@@ -197,10 +197,6 @@ Imaging can define location and extent, but many lesions require histopathology.
 ### Can jaw surgery be completed during one short trip?
 
 Major orthognathic care usually includes presurgical orthodontics, updated planning, surgery, early postoperative checks and postsurgical orthodontics.[6] A short visit may cover one phase, but not the entire biological and orthodontic pathway.
-
-### When is numbness after jaw surgery an emergency?
-
-Some altered sensation may be an anticipated nerve risk, but its pattern and expected course are procedure-specific. Sudden neurological change with facial trauma, visual symptoms, worsening weakness or other acute signs requires urgent assessment; otherwise report new or increasing numbness promptly to the surgeon.
 
 ## SEO Metadata
 

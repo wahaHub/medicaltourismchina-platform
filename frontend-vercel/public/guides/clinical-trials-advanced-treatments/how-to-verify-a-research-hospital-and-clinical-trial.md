@@ -1,4 +1,4 @@
-# 093 How to Verify a Research Hospital and Clinical Trial
+# How to Verify a Research Hospital and Clinical Trial
 
 ## Hero
 

@@ -1,4 +1,4 @@
-# 017 Bringing Prescription Medicines to China for a Medical Trip
+# Bringing Prescription Medicines to China for a Medical Trip
 
 ## Hero
 
@@ -171,14 +171,6 @@ If an essential drug will be unavailable, contact a clinician promptly to plan a
 
 **Medical and legal disclaimer:** Medicine and border rules change and clearance is case-specific. This guide is not legal or prescribing advice. Verify each active ingredient, formulation and quantity with China Customs and relevant authorities before travel; follow the prescribing and receiving clinical teams for any change in therapy.
 
-## Related Hospitals
-
-Ask the receiving hospital whether its pharmacy stocks the same active ingredient and formulation, how outside medicines are handled on admission and which clinician can advise on peri-procedural changes.
-
-## Related Treatments
-
-Anticoagulation, diabetes treatment, epilepsy care, immunosuppression, cancer therapy, hormone treatment and chronic pain management need an individual continuation and interruption plan before travel.
-
 ## Related Guides
 
 - How to Organise Medical Records Before Seeking Care in China
@@ -232,4 +224,3 @@ Availability, approved formulation, brand and prescription requirements may diff
 ## Hero Image Review
 
 The original illustration is retained because it shows the traveller, clinician, written medication list, labelled containers and hand luggage in a pre-travel medication review. The containers carry no readable brand or patient data.
-

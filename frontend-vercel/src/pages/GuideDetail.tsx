@@ -56,19 +56,19 @@ function pickLocalized(record: Record<string, string> | undefined, locale: strin
 }
 
 function stripHeroSection(markdown: string): string {
+  // Defensively strip pipeline-only sections so they can never render even if
+  // a source file still contains them (cleaned at source in polish_ai_traces.py).
+  const stripPipelineSections = (text: string) =>
+    text
+      .replace(/^## SEO Metadata\s*$[\s\S]*?(?=^##\s|(?![\s\S]))/m, "")
+      .replace(/^## Hero Image Prompt\s*$[\s\S]*?(?=^##\s|(?![\s\S]))/m, "");
   const keyTakeawaysIndex = markdown.search(/^## Key Takeaways\s*$/m);
   if (keyTakeawaysIndex >= 0) {
-    return markdown
-      .slice(keyTakeawaysIndex)
-      .replace(/^## SEO Metadata\s*$[\s\S]*?(?=^##\s|(?![\s\S]))/m, "")
-      .trim();
+    return stripPipelineSections(markdown.slice(keyTakeawaysIndex)).trim();
   }
   const contentIndex = markdown.search(/^## Content\s*$/m);
   if (contentIndex >= 0) {
-    return markdown
-      .slice(contentIndex)
-      .replace(/^## SEO Metadata\s*$[\s\S]*?(?=^##\s|(?![\s\S]))/m, "")
-      .trim();
+    return stripPipelineSections(markdown.slice(contentIndex)).trim();
   }
   return markdown.trim();
 }

@@ -168,14 +168,6 @@ Finally, keep the original agreement, policy version in force at booking, notice
 
 No. It is important evidence, but each hospital, airline, hotel, facilitator and insurer applies its own contract and jurisdiction. The advice should be obtained promptly and describe the relevant inability or risk; then the patient must submit it through each provider’s required channel.
 
-### Are “deposit,” 预付款, 订金 and 定金 interchangeable?
-
-No. Their legal function can differ substantially, especially where a China-governed contract uses 定金 as statutory earnest money. Preserve the original Chinese term and ask for the purpose, refund trigger and governing version in writing.
-
-### Can a hospital deduct work already completed if treatment never starts?
-
-Potentially, if the agreement supports it and the work is real, authorized and itemized. Ask for dates, provider, work product, unit or amount, and separate completed services from unused future care and recoverable supplier commitments.
-
 ### When should I cancel flights and hotels if the hospital has not answered yet?
 
 Protect the nearest cutoff. Send written notice to the hospital, then cancel or preserve downstream bookings according to their own deadlines when delay would predictably increase loss. Record why each action was taken and retain cancellation confirmations.
@@ -203,4 +195,3 @@ Obtain the approved amount, currency, release date, destination and payment trac
 4. [Civil Aviation Administration of China: Policy Interpretation of the Passenger Service Provisions](https://www.caac.gov.cn/XXGK/XXGK/ZCJD/202103/t20210315_206803.html)
 5. [US Department of Transportation: Airline Refunds](https://www.transportation.gov/individuals/aviation-consumer-protection/refunds)
 6. [European Union Your Europe: Air Passenger Rights](https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm)
-
