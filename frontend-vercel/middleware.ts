@@ -1,3 +1,64 @@
+import guideRouteAvailability from "./src/data/guide-route-availability.json";
+
+const GUIDE_LOCALES = new Set(["en", "zh", "es", "fr", "de", "ru", "ar", "id"]);
+const GUIDE_ROUTE = /^\/(?:([^/]+)\/)?guides(?=\/|$)(.*)$/;
+const GUIDE_AVAILABILITY = new Map<string, Set<string>>(
+  Object.entries(guideRouteAvailability).map(([route, locales]) => [
+    route, new Set<string>(locales),
+  ]),
+);
+
+function handleGuideRoute(match: RegExpMatchArray): Response | undefined {
+  const locale = match[1] || "en";
+  const path = normalizePathname(match[2] || "/");
+
+  if (GUIDE_LOCALES.has(locale)) {
+    if (path === "/") return undefined;
+    try {
+      const segments = path.slice(1).split("/").map(decodeURIComponent);
+      const validSegments = segments.every((segment) => segment && !/[\\/\u0000-\u001f\u007f]/.test(segment));
+      // Category images remain static assets, outside article validation.
+      if (!match[1] && validSegments && segments.length > 1 && segments[0] === "_categories"
+        && /\.(?:avif|gif|ico|jpe?g|png|svg|webp)$/i.test(path)) {
+        return undefined;
+      }
+      if (segments.length === 2 && validSegments) {
+        const [category, article] = segments;
+        if (article.endsWith(".md")) {
+          // Public filenames are slug.md (English) or slug.<locale>.md.
+          // /en/* is canonicalized by vercel.json before middleware runs.
+          // Other locale prefixes and trailing slashes are not static files.
+          const filename = article.match(/^([^.]+?)(?:\.(zh|es|fr|de|ru|ar|id))?\.md$/);
+          if (!match[1] && !match[2].endsWith("/") && filename
+            && GUIDE_AVAILABILITY.get(`${category}/${filename[1]}`)?.has(filename[2] || "en")) {
+            return undefined;
+          }
+        } else {
+          // Localized titles do not imply a translated body exists. The build
+          // regenerates this compact route map from public guide files.
+          if (GUIDE_AVAILABILITY.get(segments.join("/"))?.has(locale)) return undefined;
+        }
+      }
+    } catch {
+      // Malformed URL encoding is an unknown guide, not a middleware failure.
+    }
+  }
+
+  // Do not let the SPA fallback serve homepage HTML for unavailable guide pages.
+  // Avoid caching misses so newly published translations become available at once.
+  return new Response(
+    '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex,nofollow"><title>Guide Not Found | Medora Health</title></head><body><main><h1>Guide not found</h1><p>This guide is not available in the requested language.</p><a href="/guides">Browse guides</a></main></body></html>',
+    {
+      status: 404,
+      headers: {
+        "cache-control": "no-store",
+        "content-type": "text/html; charset=utf-8",
+        "x-robots-tag": "noindex, nofollow",
+      },
+    },
+  );
+}
+
 const DEFAULT_CONTENT_API_BASE_URL = "https://content.medicaltourismchina.health";
 const CONTENT_API_BASE_URL =
   process.env.VITE_CONTENT_API_BASE_URL
@@ -40,6 +101,8 @@ type SlugResolution =
 
 export const config = {
   matcher: [
+    "/guides/:path*",
+    "/:locale/guides/:path*",
     "/ar",
     "/ar/:path*",
     "/id",
@@ -138,6 +201,9 @@ export default async function middleware(request: Request): Promise<Response | u
   const url = new URL(request.url);
   const retiredPageResponse = retireRemovedPublicPage(url);
   if (retiredPageResponse) return retiredPageResponse;
+
+  const guideMatch = url.pathname.match(GUIDE_ROUTE);
+  if (guideMatch) return handleGuideRoute(guideMatch);
 
   const unsupportedLimitedLocaleRedirect = redirectUnsupportedLimitedLocalePath(url);
   if (unsupportedLimitedLocaleRedirect) return unsupportedLimitedLocaleRedirect;
