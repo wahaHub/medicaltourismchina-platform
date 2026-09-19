@@ -199,8 +199,3 @@ CDC建议在医疗旅行前安排随访，并取得完整英文记录。[7] 出�
 5. [美国食品药品监督管理局 — 植入物患者MRI的获益与风险](https://www.fda.gov/radiation-emitting-products/mri-magnetic-resonance-imaging/benefits-and-risks)
 6. [美国食品药品监督管理局 — CT检查中预防神经刺激器受损](https://www.fda.gov/radiation-emitting-products/electronic-medical-devices-x-ray-imaging-and-radiation-therapy-what-know-and-how-prevent-damage/preventing-damage-neurostimulators-during-ct-scans)
 7. [美国疾病控制与预防中心 — 《黄皮书2026》医疗旅游章节](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** 审核通过并保留为 `hero-reviewed.png`。
-- **Editorial note:** 图片有可识别的颅内电极、延长导线和胸部脉冲发生器示意，同时呈现多学科咨询，能够支持适应证和设备规划主题；画面没有品牌、手术效果主张或疗效保证。

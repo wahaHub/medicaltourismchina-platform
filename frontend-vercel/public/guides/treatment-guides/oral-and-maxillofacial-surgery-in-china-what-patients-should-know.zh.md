@@ -222,8 +222,3 @@ WHO手术安全核查表包括确认身份、术式、部位和同意，麻醉�
 9. [世界卫生组织（WHO）— 手术安全核查表](https://www.who.int/teams/integrated-health-services/quality-of-care-and-patient-safety/patient-safety-guidance-and-tools/safe-surgery/tool-and-resources)
 10. [美国疾病控制与预防中心（CDC）— 牙科诊疗机构感染预防基本要求](https://www.cdc.gov/dental-infection-control/hcp/summary/)
 11. [美国疾病控制与预防中心（CDC）— 《黄皮书2026》跨境医疗](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **结论：** 审核通过，保留并命名为 `hero-reviewed.png`。
-- **编辑说明：** 画面同时包含颌面侧位解剖示意、外科医生和护士、患者及中国城市环境，适合覆盖多个颌面外科分支的总览文章；没有暗示具体术式或保证结果。

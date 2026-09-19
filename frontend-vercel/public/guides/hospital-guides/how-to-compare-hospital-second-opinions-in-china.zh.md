@@ -265,8 +265,3 @@ NICE 建议使用绝对风险而非只给相对风险，采用一致分母和时
 6. [NICE NG197：获益、伤害与绝对风险沟通](https://www.nice.org.uk/guidance/ng197/chapter/Recommendations)
 7. [国家卫生健康委：电子病历信息使用管理（2025）](https://www.nhc.gov.cn/yzygj/c100068/202506/c68abee7c54b4651a774cd533761780b.shtml)
 8. [国家卫生健康委：《医疗质量管理办法》](https://www.nhc.gov.cn/fzs/c100048/201610/c25a55c02c79461589d1a963625871d9.shtml)
-
-## Image Review
-
-- **Decision:** 经编辑复核后保留，并复制为 `hero-reviewed.png`。
-- **Editorial note:** 患者、协调员和带有多个医院符号的手册能够表达选项比较。它仍只是就医导航概念图：手册不是独立医学意见，协调员也不能裁决临床分歧。

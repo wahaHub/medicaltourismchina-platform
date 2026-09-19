@@ -203,8 +203,3 @@ Yes, participation is voluntary. Ask the team to separate stopping treatment fro
 6. [National Health Commission of China — Ethical Review Measures for Life-Science and Medical Research Involving Humans](https://www.nhc.gov.cn/wjw/c100375/202302/902b4a1dc3af4aba862a6387e6e376dc.shtml)
 7. [China Drug Good Clinical Practice (2026 revision, effective 1 September 2026)](https://yjj.sh.gov.cn/qtgzwj/20260608/89cbf084b5cb4eab8fd0fb56d8538a1d.html)
 8. [NIAMS/NIH — Reportable Events Requirements and Safety Assessment Fields](https://www.niams.nih.gov/grants-funding/conducting-clinical-trials/clinical-trial-policies-guidelines-and-templates/data-1)
-
-## Image Review
-
-- **Decision:** Replaced with a topic-specific ImageGen hero and visually reviewed for medical relevance, obvious generation artifacts and bilingual reuse.
-- **Editorial note:** The existing image shows a friendly routine reception conversation but no symptom timeline, urgent contact, participant card, external-hospital handover or safety-reporting action. A replacement should show a participant or companion contacting the study team while a concise event timeline and emergency records are being handed over, without readable health data, distress or regulatory logos.

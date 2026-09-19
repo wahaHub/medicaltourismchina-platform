@@ -195,8 +195,3 @@
 8. [Journal for ImmunoTherapy of Cancer—溶瘤病毒试验中的假性进展](https://pubmed.ncbi.nlm.nih.gov/38886116/)
 9. [Virology—溶瘤病毒作为抗癌和免疫治疗工具](https://pubmed.ncbi.nlm.nih.gov/39293238/)
 10. [国家药品监督管理局—药物临床试验质量管理规范](https://ypjg.ln.gov.cn/ypjg/zwgk/flfg/zcjd/EC143FD7C4374A2C86E76DB42118D2AA/index.shtml)
-
-## Image Review
-
-- **Decision:** 经编辑复核后通过，复制为 `hero-reviewed.png`。
-- **Editorial note:** 图中包含病毒颗粒、肿瘤细胞、受试者群体、安全盾牌和结果图表，符合机制与试验审核主题；它只是示意图，不能标为显微镜图像或某个具名病毒平台。

@@ -202,8 +202,3 @@ Not automatically. Ask which lesions will be removed, how the uterus will be rep
 6. [American College of Radiology — Appropriateness Criteria: Fibroids](https://acsearch.acr.org/docs/3188532/Narrative/)
 7. [American Society for Reproductive Medicine — Removal of Myomas in Asymptomatic Patients to Improve Fertility or Reduce Miscarriage](https://www.asrm.org/practice-guidance/practice-committee-documents/removal-of-myomas-in-asymptomatic-patients-to-improve-fertility-andor-reduce-miscarriage-rate-a-guideline-2017/)
 8. [American College of Obstetricians and Gynecologists — Heavy Menstrual Bleeding](https://www.acog.org/womens-health/faqs/heavy-menstrual-bleeding)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The image clearly depicts multiple uterine fibroids and places medication and surgery side by side in a clinical consultation. It supports comparative decision-making without implying that every fibroid needs treatment or that either option guarantees a result.

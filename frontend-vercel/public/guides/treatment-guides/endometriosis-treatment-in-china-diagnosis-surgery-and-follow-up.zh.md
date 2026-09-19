@@ -192,8 +192,3 @@ NICE 建议考虑切除而非单纯消融，同时把生育愿望和卵巢储备
 5. [美国妇产科医师学会——子宫内膜异位症诊断临床实践指南（2026）](https://www.acog.org/clinical/clinical-guidance/clinical-practice-guideline/articles/2026/03/diagnosis-of-endometriosis)
 6. [英国国家卫生与临床优化研究所——内异症分期、监测和非药物照护建议](https://www.nice.org.uk/guidance/ng73/chapter/Recommendations#staging-systems)
 7. [美国妇产科医师学会——子宫内膜异位症](https://www.acog.org/womens-health/faqs/endometriosis)
-
-## Image Review
-
-- **结论：** 已完成主题专属 ImageGen 主图替换，并人工复核医学相关性、明显生成瑕疵及中英文共用效果。
-- **编辑说明：** 原图只有普通妇科咨询、正常子宫图标、清单和日历，没有病灶、巧克力囊肿、深部疾病影像或疼痛与生育权衡；继续使用会让视觉与已删除的模板正文一样泛化。

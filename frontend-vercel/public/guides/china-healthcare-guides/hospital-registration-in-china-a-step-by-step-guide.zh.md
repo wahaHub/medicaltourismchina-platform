@@ -145,7 +145,3 @@
 2. [国家卫生健康委：《关于进一步完善预约诊疗制度加强智慧医院建设的通知》](https://www.nhc.gov.cn/yzygj/c100068/202005/43b2d23ff48448ffae96700bc6eaccd7.shtml)
 3. [国家卫生健康委：《医疗机构病历管理规定》](https://www.nhc.gov.cn/zwgkzt/glgf/201306/d7bd030b5a2b4f8f88967c73d3e5c0ca.shtml)
 4. [国家卫生健康委：《关于进一步加强医疗机构电子病历信息使用管理的通知》](https://www.nhc.gov.cn/yzygj/c100068/202506/c68abee7c54b4651a774cd533761780b.shtml)
-
-## Hero Image Review
-
-保留原配图。画面明确表现国际患者在服务台办理登记，并用身份—服务—预约三个图标概括流程；图标没有可读个人信息，能够准确说明挂号属于行政链路。

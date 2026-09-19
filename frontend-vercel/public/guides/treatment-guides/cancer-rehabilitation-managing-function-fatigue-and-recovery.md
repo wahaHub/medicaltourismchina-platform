@@ -145,8 +145,3 @@ Ask for the baseline and final measures, goals, exercise and activity plan, prec
 6. [US National Cancer Institute — Peripheral Neuropathy and Cancer Treatment](https://www.cancer.gov/about-cancer/treatment/side-effects/nerve-problems)
 7. [US National Cancer Institute — Lymphedema and Cancer](https://www.cancer.gov/about-cancer/treatment/side-effects/lymphedema)
 8. [US National Cancer Institute — Head and Neck Cancers: Rehabilitation and Support](https://www.cancer.gov/types/head-and-neck/head-neck-fact-sheet)
-
-## Image Review
-
-- **Decision:** Approved for publication and retained as `hero-simple.png`.
-- **Editorial note:** The head covering suggests active cancer treatment without showing distress, while the cane, therapy ball, light weights and one-to-one therapist discussion clearly support the function, fatigue and recovery theme. No text, logo, procedure or outcome claim is embedded in the image.

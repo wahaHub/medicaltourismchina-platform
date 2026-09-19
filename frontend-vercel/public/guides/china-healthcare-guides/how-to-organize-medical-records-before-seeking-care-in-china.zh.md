@@ -17,7 +17,6 @@
 - 最前面放一页病情摘要和带日期的时间线，后面用目录连接到原始报告；不能用重新编写的摘要代替源文件。
 - 所有处方药、非处方药、维生素和补充剂都要记录通用名、规格、剂量、途径、频次和用途。[1]
 - 影像要同时提供报告和原始DICOM文件；手机截图会丢失序列信息，无法替代诊断级影像。[2]
-- 翻译件、初步报告和被后续版本取代的文件必须清楚标记，不能让审核医生猜哪一份才是最终版。
 
 ## Content
 
@@ -249,7 +248,3 @@
 4. [美国国家癌症研究所：外科病理报告与病理第二意见](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/pathology-reports-fact-sheet)
 5. [中国人大网：《中华人民共和国个人信息保护法》](https://www.npc.gov.cn/WZWSREL25wYy9jMi9jMzA4MzQvMjAyMTA4L3QyMDIxMDgyMF8zMTMwODguaHRtbD9yZWY9aW1i)
 6. [国家卫生健康委：《电子病历应用管理规范（试行）》](https://www.nhc.gov.cn/wjw/c100175/201702/90f3de8ae03d488cbddf509dc958f75b.shtml)
-
-## Hero Image Review
-
-保留原配图。画面直接表现患者把纸质与电子病历一并交给中国医生，文件夹和设备能够表达“整理并交接资料”的主题，同时没有出现可读的个人医疗信息。

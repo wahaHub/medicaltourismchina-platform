@@ -166,7 +166,3 @@ Ask whether another clinician from the same team can cover, whether a remote rev
 2. [National Health Commission: Improving Appointment Systems and Smart Hospitals](https://www.nhc.gov.cn/yzygj/c100068/202005/43b2d23ff48448ffae96700bc6eaccd7.shtml)
 3. [National Health Commission: Strengthening First-Contact and Referral Services—Policy Explanation](https://www.nhc.gov.cn/yzygj/c100068/202411/5704acd751e344d0b7632bb7338e2572.shtml)
 4. [National Health Commission: Primary Healthcare Convenience Measures](https://www.nhc.gov.cn/jws/c100073/202308/bcd9ef6a07a34bce96005fd254227e6a.shtml)
-
-## Hero Image Review
-
-The old image shows patients already speaking with a doctor and does not depict appointment search, identity verification or confirmation. It is not retained. A replacement should show a coordinator checking a passport-matched booking, specialist profile and confirmed campus without readable personal data.

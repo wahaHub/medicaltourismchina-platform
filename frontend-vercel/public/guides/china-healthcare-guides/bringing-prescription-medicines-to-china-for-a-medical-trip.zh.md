@@ -220,7 +220,3 @@
 5. [美国疾病控制与预防中心：携带药品出国旅行](https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine)
 6. [中华人民共和国海关总署：进出境邮件及特殊物品常见问题](https://online.customs.gov.cn/ociswebserver/pages/jcjybcx/question.html)
 7. [美国疾病控制与预防中心《Yellow Book》：携带禁止或限制药物旅行](https://www.cdc.gov/yellow-book/hcp/travelers-with-additional-considerations/traveling-with-prohibited-or-restricted-medications.html)
-
-## Hero Image Review
-
-保留原配图。画面把旅客、医生、书面药物清单、带标签药瓶和随身药包放在同一出行前审核场景中，与正文准备步骤直接对应；包装上没有可读的商品名或患者信息。

@@ -217,8 +217,3 @@ A dated hospital-channel reply naming the clinician, records reviewed, prelimina
 5. [National Health Commission — Measures for the Clinical Application of Medical Technologies](https://www.nhc.gov.cn/wjw/c100221/202201/7fd3c31ef929472aa57794cbc49c3f0f.shtml)
 6. [National Health Commission — Measures for Surgical Grading Management in Medical Institutions](https://www.nhc.gov.cn/yzygj/c100068/202212/d929c6f9b0684585a4821fa60d2a8166.shtml)
 7. [National Health Commission — Notice on Standardising Outpatient Clinic Names](https://www.nhc.gov.cn/yzygj/c100068/202508/54d58d1c84744269b898366e23a38c4a.shtml)
-
-## Image Review
-
-- **Decision:** Approved after editorial review; copied as `hero-reviewed.png`.
-- **Editorial note:** The international patient, hospital setting and separate hospital/doctor/safety symbols support the article’s identity-checking concept. It remains illustrative: the coordinator’s booklet is not a government query, licence or proof of authorisation, so the caption and article require independent official checks.

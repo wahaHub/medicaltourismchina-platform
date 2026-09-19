@@ -225,8 +225,3 @@ Travel may be necessary for examination, but first obtain written confirmation o
 6. [China National Government Services — Physician Practice Registration Lookup](https://app.gjzwfw.gov.cn/jmopen/webapp/html5/zwfwdoctorsearch/index.html?login=false)
 7. [World Health Organization — Safe Surgery Tools and Surgical Safety Checklist](https://www.who.int/teams/integrated-health-services/quality-of-care-and-patient-safety/patient-safety-guidance-and-tools/safe-surgery/tool-and-resources)
 8. [US Centers for Disease Control and Prevention — Medical Tourism, Yellow Book 2026](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The image clearly shows an international patient and companion reviewing brain imaging with a clinician in a recognisably Chinese setting. It supports a neurosurgical second-opinion consultation without depicting an operation, a named hospital or a promised outcome.

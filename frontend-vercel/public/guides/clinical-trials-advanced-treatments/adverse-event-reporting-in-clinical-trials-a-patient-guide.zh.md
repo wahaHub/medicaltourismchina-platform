@@ -203,8 +203,3 @@ SUSAR 同时包含“可疑相关、非预期、严重”三个要素，是申�
 6. [国家卫生健康委：《涉及人的生命科学和医学研究伦理审查办法》](https://www.nhc.gov.cn/wjw/c100375/202302/902b4a1dc3af4aba862a6387e6e376dc.shtml)
 7. [中国《药物临床试验质量管理规范》（2026 修订版，2026 年 9 月 1 日实施）](https://yjj.sh.gov.cn/qtgzwj/20260608/89cbf084b5cb4eab8fd0fb56d8538a1d.html)
 8. [美国国立关节炎、肌肉骨骼和皮肤病研究所：研究事件报告要求与安全评估字段](https://www.niams.nih.gov/grants-funding/conducting-clinical-trials/clinical-trial-policies-guidelines-and-templates/data-1)
-
-## Image Review
-
-- **结论：** 已完成主题专属 ImageGen 主图替换，并人工复核医学相关性、明显生成瑕疵及中英文共用效果。
-- **Editorial note:** 原图只是友好的前台咨询，没有症状时间线、紧急联系、受试者卡、外院病历交接或安全报告动作。新图应表现患者或陪同者联系研究团队，同时交接简明事件时间线和急诊资料；不得出现可读病历、痛苦渲染或监管机构标志。

@@ -15,7 +15,6 @@
 
 - 冠状动脉旁路移植术（CABG）使用胸部、手臂或腿部的血管，在堵塞冠脉周围建立新通路。它不会消除动脉粥样硬化，术后仍需长期预防治疗。
 - 选择 CABG 应把冠脉解剖、糖尿病、心功能、手术风险、远期耐久性和患者目标与 PCI、药物治疗一起比较，不能只数“堵了几根血管”。
-- 要问清准备搭桥的冠脉靶点和使用的移植物。“三根桥”只表示桥血管数量，不说明材料、质量或预计寿命。
 - 常规正中开胸、停跳或不停跳手术、微创入路和杂交治疗适用于不同患者。切口较小并不自动代表手术更安全或血运重建更完整。
 - 跨境规划必须预留充足恢复时间，安排当地伤口和心脏复查、心脏康复，并在回国前取得完整桥血管地图和手术记录。
 
@@ -179,8 +178,3 @@ CABG 是大型心脏手术。一份可靠的跨境方案要同时成立三件事
 4. [美国心脏协会（AHA）— 心脏手术回家后会经历什么](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/How-Can-I-Recover-From-Heart-Surgery.pdf)
 5. [美国心脏协会（AHA）— CABG 后二级预防：2026 年更新](https://professional.heart.org/en/science-news/secondary-prevention-after-coronary-artery-bypass-graft-surgery-2026-update/top-things-to-know)
 6. [美国心脏协会（AHA）— 什么是心脏康复](https://www.heart.org/en/health-topics/cardiac-rehab/what-is-cardiac-rehabilitation)
-
-## Image Review
-
-- **Decision:** 需要替换，未复制原图。
-- **结论：** 已完成主题专属 ImageGen 主图替换，并人工复核医学相关性、明显生成瑕疵及中英文共用效果。

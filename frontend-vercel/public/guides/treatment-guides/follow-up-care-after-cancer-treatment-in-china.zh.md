@@ -150,8 +150,3 @@ NCI 明确指出，复诊频率和检查内容会随癌种、既往治疗以及�
 4. [美国临床肿瘤学会（ASCO）— 癌症治疗与生存照护计划](https://www.asco.org/practice-patients/patient-resources/asco-resources-patients-providers)
 5. [美国疾病控制与预防中心《旅行卫生黄皮书》— 跨境医疗](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
 6. [美国国家癌症研究所（NCI）— 《直面未来：癌症治疗后的生活》](https://www.cancer.gov/publications/patient-education/facing-forward)
-
-## Image Review
-
-- **Decision:** 审核通过，保留为 `hero-reviewed.png`。
-- **Editorial note:** 画面呈现患者、陪同家属与医生共同核对检查、临床复核和康复组成的连续计划。图标只作示意，不应理解为固定的检查处方。

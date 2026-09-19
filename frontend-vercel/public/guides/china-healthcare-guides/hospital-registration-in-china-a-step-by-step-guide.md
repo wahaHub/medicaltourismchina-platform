@@ -145,7 +145,3 @@ The patient should retain access. Obtain the login or recovery method and copies
 2. [National Health Commission: Improving Appointment Systems and Smart Hospitals](https://www.nhc.gov.cn/yzygj/c100068/202005/43b2d23ff48448ffae96700bc6eaccd7.shtml)
 3. [National Health Commission: Medical Record Management Provisions](https://www.nhc.gov.cn/zwgkzt/glgf/201306/d7bd030b5a2b4f8f88967c73d3e5c0ca.shtml)
 4. [National Health Commission: Strengthening the Use and Management of Electronic Medical Record Information](https://www.nhc.gov.cn/yzygj/c100068/202506/c68abee7c54b4651a774cd533761780b.shtml)
-
-## Hero Image Review
-
-The original image is retained because it shows international patients at a registration desk and includes a simple identity-to-service-to-appointment sequence. The icons contain no readable personal data and correctly frame registration as an administrative pathway.

@@ -215,8 +215,3 @@
 5. [国家卫生健康委：《医疗技术临床应用管理办法》](https://www.nhc.gov.cn/wjw/c100221/202201/7fd3c31ef929472aa57794cbc49c3f0f.shtml)
 6. [国家卫生健康委：《医疗机构手术分级管理办法》](https://www.nhc.gov.cn/yzygj/c100068/202212/d929c6f9b0684585a4821fa60d2a8166.shtml)
 7. [国家卫生健康委：规范医疗机构门诊名称管理通知](https://www.nhc.gov.cn/yzygj/c100068/202508/54d58d1c84744269b898366e23a38c4a.shtml)
-
-## Image Review
-
-- **Decision:** 经编辑复核后保留，并复制为 `hero-reviewed.png`。
-- **Editorial note:** 国际患者、医院场景和分开的医院/医生/安全符号能够支持身份核验概念。但它仍是插图：协调员手册不是政府查询、执业许可证或授权证明，正文和图注均要求通过独立官方渠道核实。

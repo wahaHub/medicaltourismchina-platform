@@ -16,7 +16,6 @@
 - Learn the care map: responsible physician, ward-round team, responsible nurse, duty doctor and night nurse are related roles, not interchangeable titles.
 - Keep a bedside daily board with today's clinical objective, orders, pending results, medicine changes, devices, mobility/nutrition targets, risks and the next decision time.
 - Do not take medicines from a suitcase without the ward's knowledge. Reconcile home medicines with active inpatient orders and ask about every start, hold, substitution and restart.
-- Track tests through four states—ordered, collected/performed, resulted and acted on. “Blood was taken” does not close the loop.
 - Begin discharge preparation on the first day. The team and patient should know what still prevents safe discharge and who will own care afterward.
 
 ## Content

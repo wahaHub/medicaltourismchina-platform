@@ -16,7 +16,6 @@
 - Ask the insurer to identify the approved patient, diagnosis, service, provider, site, dates, quantity, currency and financial limit. “Treatment in China approved” is too vague to rely on.
 - Keep four decisions separate: medical recommendation, insurer preauthorization, guarantee of payment and the hospital’s acceptance of that guarantee.
 - Treat partial approval as a line-by-line decision. A consultation may be approved while admission, a device, a medicine or extra treatment days remain undecided.
-- Synchronize the clinical booking, insurer review and authorization expiry. A valid approval that expires before admission is not travel-ready.
 - If the plan changes, document the difference and request an amendment before non-urgent care. Emergencies should be stabilized first, with insurer notification as soon as the policy requires and circumstances allow.
 
 ## Content

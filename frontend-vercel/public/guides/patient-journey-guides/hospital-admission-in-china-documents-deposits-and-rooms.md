@@ -17,7 +17,6 @@
 - Separate clinical consent, privacy/authorisation, administrative terms and payment documents. Signing one does not replace understanding the others.
 - A hospital prepayment is money held against future charges, not the same as a package price or final bill. Obtain the official receipt and reconciliation rules.
 - Room class is an accommodation and charging decision; it must not become the patient's identity or silently redefine the clinical team and safety pathway.
-- Admission is complete only after the ward verifies identity, medicines, allergies, current condition, belongings and the initial clinical plan.
 
 ## Content
 

@@ -181,8 +181,3 @@ Keep serial standing DICOM images, measured curves and balance, the complete ope
 7. [Scoliosis Research Society — Scoliosis Surgery](https://www.srs.org/Patients/Diagnosis-And-Treatment/Surgery)
 8. [American Academy of Orthopaedic Surgeons — Neuromuscular Scoliosis](https://orthoinfo.aaos.org/diseases--conditions/neuromuscular-scoliosis/)
 9. [US Centers for Disease Control and Prevention — Medical Tourism, Yellow Book 2026](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The clinician is showing a clearly curved spine on a tablet, with a second scoliosis silhouette in the room. It communicates evaluation and explanation without claiming a particular correction or portraying a procedure.

@@ -15,7 +15,6 @@
 
 - “Joint preservation” is an umbrella term, not a diagnosis or guarantee. The plan must name the damaged tissue, remaining healthy joint surface and mechanical problem being corrected.
 - Focal cartilage injury, malalignment, instability, dysplasia, impingement and early osteonecrosis require different operations. A procedure that suits one can worsen another.
-- Ask whether disease is focal or diffuse. Advanced arthritis across the joint makes many cartilage-repair or reshaping procedures less predictable.
 - Arthroscopy, osteotomy, cartilage restoration and biologic injections are not interchangeable. Each has different evidence, rehabilitation and effects on later joint replacement.
 - A good preservation plan includes an exit strategy: how success is measured, when failure is declared and whether a later replacement remains feasible.
 
@@ -195,8 +194,3 @@ Products marketed as stem cells or regenerative therapy vary substantially. FDA 
 6. [American Association of Hip and Knee Surgeons — Osteonecrosis of the Hip](https://hipkneeinfo.org/hip-care/osteonecrosis-of-the-hip/)
 7. [US Food and Drug Administration — Important Information About Regenerative Medicine Therapies](https://www.fda.gov/vaccines-blood-biologics/consumers-biologics/important-patient-and-consumer-information-about-regenerative-medicine-therapies)
 8. [US Centers for Disease Control and Prevention — Medical Tourism, Yellow Book 2026](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** Because the article spans several joints and procedures, the image appropriately focuses on functional goals—walking, stairs and cycling—during a preoperative discussion. It does not imply a specific implant, injection or guaranteed joint rescue.

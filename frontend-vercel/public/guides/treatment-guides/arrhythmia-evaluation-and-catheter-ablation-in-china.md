@@ -13,7 +13,6 @@
 
 ## Key Takeaways
 
-- Palpitations are a symptom, not an ablation diagnosis. Whenever possible, the rhythm should be recorded during symptoms and matched to the patient's experience before an invasive procedure is planned.
 - Atrial fibrillation, typical atrial flutter, AV nodal re-entrant tachycardia, accessory-pathway tachycardia, focal atrial tachycardia, premature ventricular beats and ventricular tachycardia have different targets, success definitions and risks.
 - An electrophysiology study can induce and map an arrhythmia; ablation then modifies a small area or pathway using an energy source. Some procedures are short and focal, while persistent AF or scar-related VT may be extensive and require repeat treatment.
 - After AF ablation, freedom from palpitations does not by itself remove stroke risk. Anticoagulation must follow a written, risk-based plan and should never be stopped because a wearable shows normal rhythm.
@@ -170,8 +169,3 @@ The home electrophysiologist needs the diagnostic tracings, mapping and lesion s
 5. [American College of Cardiology — 2024 ESC Atrial Fibrillation Guidelines: Key Points](https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2024/09/17/04/05/2024-esc-guidelines-for-af-esc-2024)
 6. [American Heart Association — Ablation for Arrhythmias](https://www.heart.org/en/health-topics/arrhythmia/prevention--treatment-of-arrhythmia/ablation-for-arrhythmias)
 7. [国家卫生健康委员会 — 心血管疾病介入诊疗技术临床应用管理规范（2019年版）](https://www.nhc.gov.cn/yzygj/c100068/201911/a4fccc8dd088417f99c892276da6dc93.shtml)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The image combines an ECG trace, an intracardiac electrical path and a focal catheter target in a clinician discussion. It is schematic and does not claim that all arrhythmias share the same circuit.

@@ -14,7 +14,6 @@
 ## Key Takeaways
 
 - 抗体偶联药物（ADC）由靶向抗体、化学连接子和高活性载荷组成；改变任何一个部分，都可能改变疗效、耐药和毒性。
-- “靶向”不代表载荷只会停留在癌细胞内，也不代表常见的化疗样不良反应会消失。
 - 是否适用可能取决于准确瘤种、分期、治疗史、靶点检测方法、标本、评分体系和阈值，而不只是“HER2 阳性”或“有 TROP-2”。
 - 获批治疗、超说明书治疗与临床试验是三条不同路径。必须核实准确通用名、方案和治疗线次在中国的当前适应证。
 - 监测应跟着具体产品走，不能只用一张通用 ADC 清单：肺、眼、神经、皮肤、血细胞、肝脏、心脏和血糖风险在不同药物及联合方案中差异很大。
@@ -182,8 +181,3 @@ ADC 可能引起输注反应、恶心、乏力、血细胞减少、感染、肝�
 9. [美国食品药品监督管理局—Sacituzumab Govitecan 说明书](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761115s059lbl.pdf)
 10. [Journal of Pharmacokinetics and Pharmacodynamics—连接子、药物抗体比与全身毒性](https://pubmed.ncbi.nlm.nih.gov/39704752/)
 11. [Cancers—抗体偶联药物的耐药机制](https://pubmed.ncbi.nlm.nih.gov/36831621/)
-
-## Image Review
-
-- **Decision:** 不通过发布复核，暂存为 `hero-reviewed.png`。
-- **Editorial note:** 原图只有普通用药讨论和多个药瓶，没有 ADC 的关键“抗体—连接子—载荷”结构、肿瘤靶点检测、静脉给药或产品专属监测，题文匹配度不足。

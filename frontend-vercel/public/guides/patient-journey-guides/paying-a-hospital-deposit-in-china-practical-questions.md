@@ -16,7 +16,6 @@
 - First identify what the hospital is asking for: a refundable inpatient prepayment, a package payment, a separate service fee or an insurer guarantee. They carry different rights and records.
 - Obtain a written payment instruction tied to the patient's hospital number. Pay the hospital's authorised legal beneficiary, never a coordinator's personal account or an improvised QR code.
 - Preserve four control numbers: the patient/inpatient account, hospital payment order, bank or card transaction reference, and official receipt or medical e-ticket number.
-- If a relative, employer or coordinator pays, settle the payer name, receipt name, authority to discuss the account and refund destination before payment.
 - Reconcile the balance during care. At discharge, obtain the itemised account and formal medical receipt; the deposit receipt alone is not the final bill.
 
 ## Content

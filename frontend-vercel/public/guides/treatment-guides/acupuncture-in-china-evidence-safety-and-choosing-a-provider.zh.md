@@ -156,8 +156,3 @@ WHO 针灸实践基准覆盖操作步骤、设施和安全要素 [6]。至少应
 6. [世界卫生组织（WHO）— 针灸实践基准](https://qualityhealthservices.who.int/quality-toolkit/qt-catalog-item/who-benchmarks-for-the-practice-of-acupuncture)
 7. [美国食品药品监督管理局（FDA）— 一次性针灸针产品分类](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/classification.cfm?id=2912)
 8. [中国人大网 —《中华人民共和国医师法》](https://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313104.html)
-
-## Image Review
-
-- **结论：** 通过，可保留为 `hero-simple.png`。
-- **编辑说明：** 画面能明确识别针刺治疗，环境平静，有陪同者，并以图标提示安全、资质查询和团队复核；没有可读疗效宣传、品牌、痛苦场景或夸张设备。

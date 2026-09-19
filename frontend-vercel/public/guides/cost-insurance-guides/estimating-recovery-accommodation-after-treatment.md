@@ -13,7 +13,6 @@
 
 ## Key Takeaways
 
-- Hospital discharge, safe recovery in nonclinical accommodation and fitness for a long journey are different decisions.
 - Estimate a minimum, likely and extension stay. Tie each date to measurable criteria rather than a procedure label alone.
 - A hotel or apartment is not a step-down medical facility. Confirm who will manage medicines, wounds, drains, mobility, nutrition and urgent changes.
 - Match the exact room and route to the patient’s expected function: entrance, lift, bathroom, bed, kitchen, cleaning and door-to-clinic travel.

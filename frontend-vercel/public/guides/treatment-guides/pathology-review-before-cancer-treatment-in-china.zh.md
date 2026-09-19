@@ -229,9 +229,3 @@ NCI 介绍，肿瘤讨论团队会把病理和其他检查放在一起制定治�
 4. [国家卫生健康委员会——《病理科建设与管理指南（试行）》](https://www.nhc.gov.cn/zwgk/wtwj/201304/b67e2ccc097948109e33d80781b77f79.shtml)
 5. [美国国家癌症研究所——用于癌症治疗的生物标志物检测](https://www.cancer.gov/about-cancer/treatment/types/biomarker-testing-cancer-treatment)
 6. [美国食品药品监督管理局——获批伴随诊断设备清单](https://www.fda.gov/medical-devices/in-vitro-diagnostics/list-fda-authorized-companion-diagnostic-devices-in-vitro-and-imaging-tools)
-
-## Hero Image Review
-
-- **Decision:** 通过，作为 `hero-reviewed.png` 保留。
-- **Why:** 图中把报告、显微镜、肿瘤符号和临床沟通串成连续路径，与患者理解“病理如何进入治疗决策”的用途一致。
-- **Risk check:** 示意图不作诊断，没有可读标本标签、患者身份、医院标识或疗效保证。

@@ -198,8 +198,3 @@ Provide the diagnosis and grade, original imaging, procedure details, restrictio
 5. [British Journal of Sports Medicine — 2016 Bern Consensus on Return to Sport](https://bjsm.bmj.com/content/50/14/853)
 6. [British Journal of Sports Medicine — PAASS Return-to-Sport Framework After Acute Lateral Ankle Sprain](https://bjsm.bmj.com/content/55/22/1270)
 7. [US Centers for Disease Control and Prevention — Medical Tourism, Yellow Book 2026](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The image shows an athletic patient with a sports rehabilitation professional, treatment table, exercise ball and mobility aid. It supports assessment-to-rehabilitation planning without implying a particular injury or guaranteed return date.

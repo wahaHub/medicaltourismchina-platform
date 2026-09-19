@@ -16,7 +16,6 @@
 - “Private” and “for-profit” are not interchangeable. A privately founded—or socially run—medical institution may be non-profit or for-profit.[1]
 - Public and private hospitals operate under the same core licensing and clinical-regulation framework; private ownership is not an exemption from medical quality and safety requirements.[2][3]
 - Public hospitals often have deep specialist networks and large case volumes. Private hospitals may offer easier scheduling, quieter facilities or more consistent language support. These are tendencies, not guarantees.
-- Compare the exact hospital, campus, department and named clinician. Ownership alone says little about experience with one diagnosis or procedure.
 - Obtain written confirmation of the clinical plan, estimate, deposits, insurance handling, refund rules and emergency-transfer arrangements before travelling.
 
 ## Content
@@ -133,7 +132,3 @@ Choose the team with relevant case experience and the necessary anaesthesia, blo
 3. [National Health Commission: Improving Management and Medical Quality in Socially Run Medical Institutions](https://www.nhc.gov.cn/yzygj/c100068/201910/b678f99405bb4612ba4d51f704ac574e.shtml)
 4. [National Health Commission: Measures for Verification of Medical Institutions](https://www.nhc.gov.cn/zwgk/wtwj/201304/0ad05c4ca1d44be98a40fee06cab1f5e.shtml)
 5. [National Healthcare Security Administration: Interim Measures for Designated Medical Institutions](https://www.nhsa.gov.cn/art/2021/1/8/art_173_10987.html)
-
-## Hero Image Review
-
-The original image is retained because it shows a genuine comparison decision between two visibly different hospitals rather than a generic consultation. The aeroplane and luggage signal the international-patient context. Neither facility is labelled as superior, and the image contains no readable medical or financial claim.

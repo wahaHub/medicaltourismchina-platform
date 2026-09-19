@@ -214,8 +214,3 @@ NCI 建议在可能损害生育力的癌症治疗前，同时咨询肿瘤和生�
 6. [美国国家癌症研究所——宫颈癌分期治疗与保留生育方案](https://www.cancer.gov/types/cervical/treatment/by-stage)
 7. [美国国家癌症研究所——乳腺和妇科肿瘤遗传学（PDQ）](https://www.cancer.gov/types/breast/hp/breast-ovarian-genetics-pdq)
 8. [中华人民共和国国家卫生健康委员会——肿瘤和血液病相关病种诊疗指南（2022年版）](https://www.nhc.gov.cn/yzygj/c100068/202204/0c1f7d3aca0545abbeb02030ce255930.shtml)
-
-## Image Review
-
-- **结论：** 已完成主题专属 ImageGen 主图替换，并人工复核医学相关性、明显生成瑕疵及中英文共用效果。
-- **编辑说明：** 原图只有一名医生向患者及陪同者展示抽象服务路径，没有盆腔影像、病理、肿瘤解剖或多学科共同参与，无法支撑妇科肿瘤方案规划主题。

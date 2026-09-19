@@ -13,7 +13,6 @@
 
 ## Key Takeaways
 
-- Ask for the patient’s preferred **spoken** and **written** language; they may not be the same.
 - Use a trained medical interpreter for diagnosis, consent, medication reconciliation, serious news, discharge and major treatment decisions whenever possible.[1][2]
 - A bilingual coordinator may be excellent at scheduling but not trained to interpret medical conversations. Verify the role and competence.
 - Family members can support and take notes, but may omit, soften or add information. Children should not carry the burden of interpreting clinical decisions.[2][3]
@@ -165,7 +164,3 @@ Pause. Ask the doctor to define the term, write it down and verify the exact dru
 4. [National Health Commission: Medical Quality and Safety Core System Requirements](https://www.nhc.gov.cn/fzs/c100048/201903/567150be669a482abff52f6126f4ff53.shtml)
 5. [National Health Commission: Response on the Process of Informed Consent](https://www.nhc.gov.cn/zwgk/jianyi/201801/b885f4081c3d43898690bf2bf1b90db9.shtml)
 6. [Agency for Healthcare Research and Quality: The Role of Health Literacy in Patient Safety](https://psnet.ahrq.gov/perspective/role-health-literacy-patient-safety)
-
-## Hero Image Review
-
-The original image is retained because it clearly places the interpreter between patient and doctor while preserving eye contact between the clinical participants. It contains no readable patient information and does not confuse interpretation with general travel assistance.

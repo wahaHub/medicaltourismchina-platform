@@ -17,7 +17,6 @@
 - “Direct billing” only describes who sends money to whom. It does not prove that the hospital, doctor, room, diagnosis, procedure, implant or complication is covered.
 - Keep three ledgers: the hospital estimate/charges, insurer authorisations, and the patient’s deposits/payments/refunds. Add an owner and document number to every movement.
 - Treat a guarantee of payment as a bounded contract: institution, dates, diagnosis, services, currency, limit, exclusions, deductible, co-pay and extension route.
-- Leave with the official medical receipt, itemised charges, payment allocation, refund record and source medical documents required for claim review.
 
 ## Content
 

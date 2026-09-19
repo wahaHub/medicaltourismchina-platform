@@ -191,8 +191,3 @@ Provide the procedure and complication summary, current cardiac findings, wounds
 4. [American Heart Association — Develop a Physical Activity Plan for You](https://www.heart.org/en/health-topics/cardiac-rehab/getting-physically-active/develop-a-physical-activity-plan-for-you)
 5. [American Heart Association — Cardiac Rehabilitation for Heart Failure](https://www.heart.org/en/health-topics/heart-failure/treatment-options-for-heart-failure/cardiac-rehab-for-heart-failure)
 6. [World Health Organization — Consolidated Guideline on Self-Care Interventions for Health](https://iris.who.int/bitstream/handle/10665/325480/9789241550550-eng.pdf)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The image shows a patient in exercise clothing with a rehabilitation professional, mobility support and simple training equipment. It communicates medically guided recovery without implying a specific exercise dose.

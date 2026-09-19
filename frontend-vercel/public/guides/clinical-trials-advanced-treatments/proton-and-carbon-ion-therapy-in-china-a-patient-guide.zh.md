@@ -158,8 +158,3 @@
 8. [Physics in Medicine & Biology——碳离子治疗的 RBE 与模型](https://pubmed.ncbi.nlm.nih.gov/28976361/)
 9. [Radiotherapy and Oncology——ISAC 质子与碳离子随机试验](https://pubmed.ncbi.nlm.nih.gov/38944346/)
 10. [脊柱和骶骨脊索瘤/肉瘤带电粒子治疗系统综述](https://pubmed.ncbi.nlm.nih.gov/33932924/)
-
-## Image Review
-
-- **Decision:** 经编辑复核后保留，复制为 `hero-reviewed.png`。
-- **Editorial note:** 图片能呈现医生比较头部靶区附近的束流安排，并有清楚的中国场景，符合主题。但它只是简化概念图，不是真实布拉格峰图、质子—碳离子剂量比较或患者计划；图片说明不能擅自把左右两栏指定为某种粒子。

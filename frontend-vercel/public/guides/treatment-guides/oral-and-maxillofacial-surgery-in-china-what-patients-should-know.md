@@ -222,8 +222,3 @@ Major orthognathic care usually includes presurgical orthodontics, updated plann
 9. [World Health Organization — Surgical Safety Checklist](https://www.who.int/teams/integrated-health-services/quality-of-care-and-patient-safety/patient-safety-guidance-and-tools/safe-surgery/tool-and-resources)
 10. [US Centers for Disease Control and Prevention — Infection Prevention Practices in Dental Settings](https://www.cdc.gov/dental-infection-control/hcp/summary/)
 11. [US Centers for Disease Control and Prevention — Medical Tourism, Yellow Book 2026](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The image combines a jaw-profile anatomical reference, a surgical clinician and nurse, a patient and a Chinese city context. It appropriately represents a broad maxillofacial-surgery consultation without claiming a specific procedure or outcome.

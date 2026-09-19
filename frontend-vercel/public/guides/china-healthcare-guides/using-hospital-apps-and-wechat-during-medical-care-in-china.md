@@ -13,7 +13,6 @@
 
 ## Key Takeaways
 
-- Ask the hospital for its exact official app, WeChat official account or mini-program. Similar names and search results are not proof of affiliation.
 - Register with the same name, passport number and document type used by the hospital. A one-character or spacing difference can split the patient’s records.
 - Digital channels may support booking, queue updates, payment, reports and follow-up, but the available functions differ by hospital and sometimes by department.[1][2]
 - Save the appointment confirmation, patient number, cancellation rule and offline address. A phone should make the visit easier, not become the only way to enter care.
@@ -198,7 +197,3 @@ It is useful clinical information, but a screen view may not satisfy a receiving
 3. [National People’s Congress: Personal Information Protection Law of the People’s Republic of China](https://www.npc.gov.cn/WZWSREL25wYy9jMi9jMzA4MzQvMjAyMTA4L3QyMDIxMDgyMF8zMTMwODguaHRtbD9yZWY9aW1i)
 4. [National Health Commission: Detailed Rules for the Supervision of Internet Diagnosis and Treatment (Trial)](https://www.nhc.gov.cn/yzygj/c100068/202203/2072f0e8988249e59d942e1b2a933916.shtml)
 5. [State Council of the People’s Republic of China: Payment Service Guide for Overseas Visitors](https://english.www.gov.cn/news/202404/11/content_WS6617c858c6d0868f4e8e5f4d.html)
-
-## Hero Image Review
-
-The original illustration is retained because it specifically shows an international patient receiving help with a hospital mobile service and a recognisable WeChat interface at an official-looking service desk. The screens contain no readable health or identity data.

@@ -165,7 +165,3 @@ The interpreter can facilitate communication, but the clinician needs the patien
 3. [National Health Commission: Basic Standards for Medical Record Writing](https://www.nhc.gov.cn/wjw/gfxwj/200205/8348500efb5b490c8db6519e818e96e3.shtml)
 4. [National Health Commission: 2025 Public Service Measures on Mutual Recognition of Tests](https://www.nhc.gov.cn/bgt/c100023/202502/e730c90e23a24e419bc0509632f62bad.shtml)
 5. [National Health Commission: Medical Record Management Provisions](https://www.nhc.gov.cn/zwgkzt/glgf/201306/d7bd030b5a2b4f8f88967c73d3e5c0ca.shtml)
-
-## Hero Image Review
-
-The original image is retained because it accurately shows an international patient and companion in an outpatient consultation, with a visible waiting area but no readable health data. It represents one stage of the visit without claiming that every clinic has the same décor or waiting time.

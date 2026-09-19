@@ -195,8 +195,3 @@ Not automatically. Inflammation can mimic growth, but true progression remains p
 8. [Journal for ImmunoTherapy of Cancer — Pseudoprogression in an Oncolytic-Virus Trial](https://pubmed.ncbi.nlm.nih.gov/38886116/)
 9. [Virology — Oncolytic Viruses as Anticancer and Immunotherapeutic Agents](https://pubmed.ncbi.nlm.nih.gov/39293238/)
 10. [National Medical Products Administration — Good Clinical Practice for Drug Trials](https://ypjg.ln.gov.cn/ypjg/zwgk/flfg/zcjd/EC143FD7C4374A2C86E76DB42118D2AA/index.shtml)
-
-## Image Review
-
-- **Decision:** Approved after editorial review; copied as `hero-reviewed.png`.
-- **Editorial note:** The illustration includes a viral particle, tumour cells, participant group, safety shield and outcome chart, which fit mechanism and trial review. It is schematic and must not be described as a microscope image or any named viral platform.

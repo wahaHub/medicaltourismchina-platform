@@ -17,7 +17,6 @@
 - Verify four boundaries separately: what the Shenzhen team will clinically own, which legal institution and campus will deliver it, which identity and data systems will work, and where mainland–Hong Kong responsibilities begin and end.
 - A hospital name, university affiliation, “Hong Kong-style” service, or international desk does not prove that the relevant doctor, device, medicine, insurer, or emergency backup applies to this patient.
 - Shenzhen–Hong Kong data tests, ambulance pilots, port shuttles, direct settlement, and special medicine/device policies are programme-specific. None should be presented as a citywide entitlement.
-- Choose the airport, rail station, or land port only after the building is confirmed, and leave with a named owner for complications, pending results, and home follow-up.
 
 ## Content
 

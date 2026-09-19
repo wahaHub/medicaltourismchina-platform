@@ -158,8 +158,3 @@ Compare the exact particle and technique, fractions, included planning and imagi
 8. [Physics in Medicine & Biology — RBE and Modelling in Carbon-Ion Therapy](https://pubmed.ncbi.nlm.nih.gov/28976361/)
 9. [Radiotherapy and Oncology — ISAC Randomized Proton vs Carbon-Ion Trial](https://pubmed.ncbi.nlm.nih.gov/38944346/)
 10. [Systematic Review of Charged-Particle Therapy for Spinal and Sacral Chordoma/Sarcoma](https://pubmed.ncbi.nlm.nih.gov/33932924/)
-
-## Image Review
-
-- **Decision:** Approved after editorial review; copied as `hero-reviewed.png`.
-- **Editorial note:** The illustration shows a clinician comparing beam arrangements near a head target and includes a recognisable Chinese setting. It is a simplified concept, not a real Bragg-peak plot, proton–carbon dose comparison or patient treatment plan; captions must not assign the left and right panels to specific particles.

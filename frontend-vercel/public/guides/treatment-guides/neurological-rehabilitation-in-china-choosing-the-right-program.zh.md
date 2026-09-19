@@ -214,8 +214,3 @@ WHO把辅助产品和使用训练视为支持活动、认知和沟通的康复�
 5. [世界卫生组织（WHO）— 康复中的辅助技术](https://www.who.int/teams/noncommunicable-diseases/sensory-functions-disability-and-rehabilitation/rehabilitation/assistive-technology)
 6. [美国退伍军人事务部/国防部 — 2024卒中康复指南](https://www.healthquality.va.gov/guidelines/Rehab/stroke/VADOD-2024-Stroke-Rehab-CPG-Full-CPG_final_508.pdf)
 7. [美国疾病控制与预防中心（CDC）— 脑外伤症状和危险信号](https://www.cdc.gov/traumatic-brain-injury/signs-symptoms/index.html)
-
-## Image Review
-
-- **结论：** 已完成主题专属 ImageGen 主图替换，并人工复核医学相关性、明显生成瑕疵及中英文共用效果。
-- **编辑说明：** 原图只有手杖、治疗球和普通步行目标，无法体现神经系统评估、脑或脊髓背景、上肢控制、吞咽沟通或认知训练，不能与普通骨科术后康复区分，需更换专属图。

@@ -192,8 +192,3 @@ Variant class, disease stage, target-cell loss, organ function, vector antibodie
 8. [US Food and Drug Administration — Revised Gene-Therapy Indication After Fatal Liver Injury](https://www.fda.gov/news-events/press-announcements/fda-approves-new-safety-warning-and-revised-indication-limits-use-elevidys-following-reports-fatal)
 9. [World Health Organization — Human Genome Editing Recommendations](https://iris.who.int/bitstream/handle/10665/342486/9789240030381-eng.pdf)
 10. [Ministry of Justice — Regulation on the Administration of Human Genetic Resources](https://xzfg.moj.gov.cn/front/law/detail?LawID=446)
-
-## Image Review
-
-- **Decision:** Approved after editorial review; copied as `hero-reviewed.png`.
-- **Editorial note:** The DNA graphic, Shanghai setting and approval/search/warning symbols support regulatory verification and red-flag review. The illustration is not a gene-therapy product, approval label or patient genetic result.

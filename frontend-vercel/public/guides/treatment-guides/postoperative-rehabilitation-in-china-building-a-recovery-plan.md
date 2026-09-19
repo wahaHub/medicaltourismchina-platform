@@ -213,8 +213,3 @@ Send the operative report, restrictions with dates, complications, implant/devic
 8. [US Centers for Disease Control and Prevention — Surgical Site Infection Basics](https://www.cdc.gov/surgical-site-infections/index.html)
 9. [US Centers for Disease Control and Prevention — Healthcare-Associated Venous Thromboembolism](https://www.cdc.gov/blood-clots/risk-factors/ha-vte.html)
 10. [World Health Organization — Medication Safety in Transitions of Care](https://www.who.int/publications/i/item/WHO-UHC-SDS-2019.9)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The image shows a clinician, patient, walking aid, therapy equipment and staged mobility milestones in a Chinese setting. It communicates goal-based postoperative rehabilitation without implying a particular operation or guaranteed pace.

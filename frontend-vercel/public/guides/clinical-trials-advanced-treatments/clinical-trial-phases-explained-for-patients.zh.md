@@ -16,7 +16,6 @@
 - 期别描述药物或生物制品研发的主要问题，不是质量评分、批准状态或个人获益预测。
 - I 期重点是剂量、药理和安全；II 期寻找初步活性；III 期通常通过对照确认获益风险；IV 期发生在上市批准后。
 - 0 期、I/II 或 II/III 联合期、剂量扩展队列和适应性设计并非简单阶梯，但每一部分仍要有清楚目标。
-- 器械、行为干预和许多观察性研究显示“不适用期别”可能完全正确。
 - 知情同意必须说明试验性内容、分配、操作、风险、替代选择、费用以及可能没有直接获益。
 
 ## Content
@@ -156,8 +155,3 @@ I–IV 期体系主要为药物和生物制品研发建立。器械、行为和�
 6. [美国食品药品监督管理局（FDA）— 患者扩大使用信息](https://www.fda.gov/news-events/expanded-access/expanded-access-information-patients)
 7. [美国食品药品监督管理局（FDA）— 药物研发与审评定义](https://www.fda.gov/drugs/investigational-new-drug-ind-application/drug-development-and-review-definitions)
 8. [美国国家癌症研究所（NCI）— 参加癌症治疗研究](https://www.cancer.gov/publications/patient-education/crs.pdf)
-
-## Image Review
-
-- **结论：** 已完成主题专属 ImageGen 主图替换，并人工复核医学相关性、明显生成瑕疵及中英文共用效果。
-- **编辑说明：** 原图只是在接待休息区的一次普通交谈，没有期别推进、剂量队列、随机分组、对照、知情同意文件或试验里程碑，不能传达文章主题。

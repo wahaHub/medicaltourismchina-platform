@@ -16,7 +16,6 @@
 - Write one arrival control sheet with the flight, terminal, exact meeting point, driver, destination, hospital contact and backup numbers. Screenshots should work without mobile data.
 - Airport wheelchair help, baggage help, vehicle boarding and hospital navigation are separate links. Name the person responsible for each handoff.
 - Decide before landing whether the first destination is the hospital, accommodation or emergency care. A hospital logo on an itinerary is not an admission confirmation.
-- Reconcile medicines against both home time and China Standard Time; do not guess a catch-up dose after a long flight.
 - Use a first-night escalation card. Serious or rapidly worsening symptoms belong on the local emergency pathway, not in a coordinator's chat queue.
 
 ## Content

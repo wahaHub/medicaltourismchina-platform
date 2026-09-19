@@ -209,8 +209,3 @@ The home team usually needs the integrated pathology, molecular results, pre- an
 5. [National Health Commission of China — Clinical Guideline for Diagnosis and Treatment of Glioma (2022)](https://www.nhc.gov.cn/cms-search/downFiles/2888d8e5c72c48ca8a9844000f55be58.pdf)
 6. [EANS–EANO — Guidelines on the Extent of Resection in Gliomas (2026)](https://pubmed.ncbi.nlm.nih.gov/40973061/)
 7. [US Centers for Disease Control and Prevention — Medical Tourism, Yellow Book 2026](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** Original image rejected; replacement pending as `hero-reviewed.png`.
-- **Editorial note:** The current illustration is a generic consultation with a circular care-pathway graphic and a small brain icon. It does not show neuroradiology, operative planning, neuropathology or a genuine multidisciplinary tumour conference. The replacement should show several relevant specialists reviewing the same scan without displaying identifiable patient information or implying complete removal.

@@ -198,8 +198,3 @@ ACR 对急性膝外伤的建议是：临床规则提示骨折风险时先做 X �
 5. [英国运动医学杂志（BJSM）— 2016 伯尔尼重返运动共识](https://bjsm.bmj.com/content/50/14/853)
 6. [英国运动医学杂志（BJSM）— 急性踝外侧扭伤复出的 PAASS 框架](https://bjsm.bmj.com/content/55/22/1270)
 7. [美国疾病控制与预防中心（CDC）— 2026 Yellow Book：跨境医疗](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** 审核通过，保留为 `hero-reviewed.png`。
-- **Editorial note:** 画面呈现运动者、运动康复人员、治疗床、训练球和助行工具，能够支持从评估到康复的主题，同时没有暗示具体损伤或保证复出日期。

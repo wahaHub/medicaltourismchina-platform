@@ -15,7 +15,6 @@
 
 - A knee-replacement decision should connect pain and loss of function with examination and weight-bearing imaging. An abnormal X-ray alone does not decide the operation.
 - Total and partial knee replacement solve different problems. Ask which compartments are damaged, whether the ligaments are suitable for the proposed implant and what would make the surgeon change the plan.
-- Implant brand is only one detail. Fixation, alignment strategy, patellar management, surgeon experience and a traceable implant record matter just as much.
 - Infection prevention, blood-clot prevention and multimodal pain control need named plans before surgery. Recent surgery plus a long flight increases venous-thromboembolism risk.
 - Do not book the return flight around a marketing package. Return when the wound, mobility, pain control and clot-prevention plan are clinically acceptable, with local follow-up already arranged.
 
@@ -162,8 +161,3 @@ Keep the operative report, implant labels and identifiers, fixation and patellar
 4. [American Academy of Orthopaedic Surgeons — Activities After Total Knee Replacement](https://orthoinfo.aaos.org/en/recovery/activities-after-knee-replacement/)
 5. [American Academy of Orthopaedic Surgeons — Total Knee Replacement Exercise Guide](https://orthoinfo.aaos.org/recovery/total-knee-replacement-exercise-guide/)
 6. [US Centers for Disease Control and Prevention — Medical Tourism, Yellow Book 2026](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The image shows a patient discussing recovery beside a walking aid, which supports the article's patient-planning focus. It is used as a rehabilitation-planning image, not as an anatomical depiction of an implant or operation.

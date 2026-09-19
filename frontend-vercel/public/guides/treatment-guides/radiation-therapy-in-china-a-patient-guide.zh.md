@@ -146,9 +146,3 @@ IMRT、VMAT、立体定向放疗、质子和重离子，说的是不同的剂量
 5. [美国国家癌症研究所——癌症治疗期间的皮肤和指甲变化](https://www.cancer.gov/about-cancer/treatment/side-effects/skin-nail-changes)
 6. [美国国家癌症研究所——放射治疗的副作用](https://www.cancer.gov/about-cancer/treatment/types/radiation-therapy/side-effects)
 7. [美国放射肿瘤学会——Safety Is No Accident 放疗质量与安全框架](https://www.astro.org/ASTRO/media/ASTRO/Patient%20Care%20and%20Research/PDFs/Safety_is_No_Accident.pdf)
-
-## Hero Image Review
-
-- **结论：** 已完成主题专属 ImageGen 主图替换，并人工复核医学相关性、明显生成瑕疵及中英文共用效果。
-- **Why:** 原图只是普通门诊沟通，没有治疗机房、摆位装置、直线加速器或其他能够识别放疗主题的元素。
-- **Replacement brief:** 纪实感 16:9 现代放疗机房场景：一名放疗技师核对摆位，一位成年患者平静躺在治疗床上，旁边是结构真实的直线加速器；保持尊重距离，不出现痛苦表情、可读屏幕、标识、可见射线、遮住整张脸的面罩或科幻效果。

@@ -220,7 +220,3 @@ Availability, approved formulation, brand and prescription requirements may diff
 5. [US Centers for Disease Control and Prevention: Traveling Abroad With Medicine](https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine)
 6. [General Administration of Customs of China: Common Questions on Mail and Special Products](https://online.customs.gov.cn/ociswebserver/pages/jcjybcx/question.html)
 7. [US Centers for Disease Control and Prevention, Yellow Book: Traveling With Prohibited or Restricted Medications](https://www.cdc.gov/yellow-book/hcp/travelers-with-additional-considerations/traveling-with-prohibited-or-restricted-medications.html)
-
-## Hero Image Review
-
-The original illustration is retained because it shows the traveller, clinician, written medication list, labelled containers and hand luggage in a pre-travel medication review. The containers carry no readable brand or patient data.

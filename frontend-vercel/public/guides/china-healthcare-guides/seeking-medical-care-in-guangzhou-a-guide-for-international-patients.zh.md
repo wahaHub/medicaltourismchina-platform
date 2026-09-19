@@ -210,9 +210,3 @@
 5. [广州市人民政府外事办公室——广州多语种公共服务平台 960169](https://www.eguangzhou.gov.cn/gzexpatsinguangzhou/content/post_29556.html)
 6. [广州市人民政府——面向国际居民的紧急服务信息](https://www.gz.gov.cn/guangzhouinternational/residents/safety/)
 7. [广州国际门户——国际医疗旅游服务中心与 17 家试点医院](https://www.eguangzhou.gov.cn/gzservice/content/post_43361.html)
-
-## Hero Image Review
-
-- **Decision:** 通过，作为 `hero-reviewed.png` 保留。
-- **Why:** 广州塔、珠江、行李和问诊场景共同指向广州国际患者主题，城市识别明确。
-- **Risk check:** 未出现医院标识、可读病历、水印、操作画面、明显痛苦或疗效承诺。

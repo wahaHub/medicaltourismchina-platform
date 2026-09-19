@@ -158,9 +158,3 @@ Obtain the treatment summary with site, intent, technique, total and per-fractio
 5. [National Health Commission of China — WS 582—2017 Quality Control Testing for X- and Gamma-Ray Stereotactic Radiotherapy Systems](https://www.nhc.gov.cn/wjw/pcrb/201712/1d9503343d6541dfbf1d6e75f7101da2.shtml)
 6. [National Health Commission of China — GBZ 121—2020 Requirements for Radiotherapy Protection and Quality Assurance](https://www.nhc.gov.cn/fzs/c100048/202011/f9805f07f68243c7bf01a209d5b60133/files/1734000632526_37652.pdf)
 7. [American Society for Radiation Oncology — SRS/SBRT Quality and Safety White Paper Update](https://www.astro.org/provider-resources/guidelines/srs-sbrt-safety-white-paper)
-
-## Hero Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Why:** The image clearly shows a body CT cross-section, a small defined target and converging beam paths while a clinician explains the concept. It is recognisably related to SBRT and contains no patient identifiers, brand claims or graphic procedure details.
-- **Editorial note:** The beam display is intentionally simplified and must not be presented as a real patient plan or an exact depiction of dose distribution.

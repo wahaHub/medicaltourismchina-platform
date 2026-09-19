@@ -17,7 +17,6 @@
 - Separate the main procedure from anaesthesia, blood, implants, additional procedures, research, photography/data use and financial terms. One signature should not make their boundaries disappear.
 - Ask for expected benefit, material risks, reasonable alternatives and the consequence of waiting or declining. Record both certainty and uncertainty.
 - Anticipate change: define what can be decided during the procedure, what rescue action is permitted, and what would require a new discussion.
-- On the procedure day, the patient, consent, schedule, site mark and team must still agree. A signed form does not replace the safety check.
 
 ## Content
 

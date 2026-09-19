@@ -16,7 +16,6 @@
 - “Chinese herbal medicine” may mean individually dispensed decoction pieces, concentrated granules, a manufactured patent medicine, a hospital preparation or a non-drug supplement; the quality and regulatory questions differ.
 - Safety has three separate dimensions: correct identity and quality, the herb’s own toxicity, and interactions with diseases or other treatments.
 - Review the complete formula and complete medication list. Checking one famous ingredient or spacing doses by a few hours is not enough.
-- Keep the prescription, package, manufacturer, lot, expiry and dispensing source so a suspected adverse reaction can be investigated.
 - Stop and obtain medical advice for jaundice, dark urine, severe rash, breathing difficulty, unusual bleeding, persistent vomiting, confusion or rapid deterioration.
 
 ## Content
@@ -175,8 +174,3 @@ Rules vary by ingredient and country. Original labels, a prescription and an acc
 8. [US National Cancer Institute — Cancer Therapy Interactions With Foods and Dietary Supplements](https://www.cancer.gov/about-cancer/treatment/cam/patient/dietary-interactions-pdq)
 9. [National Medical Products Administration of China — Provisions for Adverse Drug Reaction Reporting and Monitoring](https://english.nmpa.gov.cn/2019-12/14/c_432227.htm)
 10. [General Administration of Customs of China — Rules for Carrying or Mailing Chinese Herbs and Patent Medicines Abroad](https://online.customs.gov.cn/ociswebserver/pages/jcjybcx/question.html)
-
-## Image Review
-
-- **Decision:** Approved for publication and retained as `hero-simple.png`.
-- **Editorial note:** The clinician and patient are visibly comparing a prescription medicine, capsule and plant ingredient on one list, while labelled containers and loose roots support the identity, interaction and quality-control theme. No cure claim or unsafe preparation is shown.

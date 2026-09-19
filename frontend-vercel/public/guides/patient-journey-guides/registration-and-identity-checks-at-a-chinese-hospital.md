@@ -16,7 +16,6 @@
 - Choose one authoritative identity—normally the current passport presentation—and document every meaningful name variant without casually replacing it.
 - A hospital medical record number is institution-specific. Reusing the same phone number or creating a second account can split one patient's history.
 - Staff should use at least two identifiers for clinical actions. The patient should actively answer rather than merely agree when a name is read aloud.
-- Check the identity label on orders, specimen containers, wristbands, reports and images, not only at the registration desk.
 - If a mismatch is found, stop the affected process, preserve both records and request a controlled correction or merge; do not delete evidence or “fix” labels by hand.
 
 ## Content

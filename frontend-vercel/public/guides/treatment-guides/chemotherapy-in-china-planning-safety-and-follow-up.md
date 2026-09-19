@@ -14,7 +14,6 @@
 ## Key Takeaways
 
 - “Chemotherapy” is not a complete treatment plan. Record the generic drug names, dose, route, treatment days, cycle length, number of planned cycles and treatment intent.
-- A planned cycle can be delayed or adjusted after examination and blood tests. This is a safety decision, not automatically evidence that treatment has failed.
 - Fever or infection during a low-white-cell period can become life-threatening. The treating unit must give the patient a 24-hour contact and an action threshold before the first dose.
 - Tablets and capsules require the same discipline as an infusion: a written calendar, interaction review, missed-dose instructions, monitoring and safe storage.
 - After every cycle, keep an administration record and toxicity summary. A traveller should never arrive at the next hospital with only the name of a “chemo package.”
@@ -141,9 +140,3 @@ Obtain the actual administration record: generic drug names, doses, route and da
 4. [US National Cancer Institute — Nausea and Vomiting and Cancer Treatment](https://www.cancer.gov/about-cancer/treatment/side-effects/nausea-vomiting)
 5. [US National Cancer Institute — Infection and Neutropenia During Cancer Treatment](https://www.cancer.gov/about-cancer/treatment/side-effects/infection)
 6. [US National Cancer Institute, DCCPS — Adherence to Oral Anticancer Agents](https://cancercontrol.cancer.gov/brp/bbpsb/oral-anticancer-agents)
-
-## Hero Image Review
-
-- **Decision:** Rejected; replacement pending as `hero-reviewed.png`.
-- **Why:** A head covering hints at cancer, but the image is still a generic consultation with abstract icons. It does not show a chemotherapy administration or safety check.
-- **Replacement brief:** Natural 16:9 oncology day-unit scene: an oncology nurse and adult patient calmly verify a medication label and wristband beside an infusion chair and pump; companion seated nearby, clean clinical environment, no visible needles, drug names, logos, patient data, distress or exaggerated technology.

@@ -16,7 +16,6 @@
 - An **expert clinic** usually refers to the clinician’s seniority or recognised expertise; it does not necessarily include a private room, interpreter or longer visit.
 - A **VIP or special-service clinic** usually refers to an optional premium service channel. The exact package and price are set locally and must be disclosed by the hospital.[1][2]
 - An **international department** may coordinate languages, overseas insurance and medical documents, but its clinical services and doctors vary by hospital.
-- A higher registration fee does not prove that the doctor is the best match for the patient’s diagnosis.
 - Before booking, ask what is included, who will personally see the patient, where tests and treatment occur, and which charges remain separate.
 
 ## Content
@@ -153,7 +152,3 @@ It may coordinate evaluation, but surgery still requires clinical acceptance, te
 3. [National Health Commission: Policy Explanation on Standardising Outpatient Clinic Names](https://www.nhc.gov.cn/yzygj/c100067/202508/0fb76d26462c4dd2ba7104355c00df48.shtml)
 4. [National Health Commission: Campaign to Improve Patient Experience](https://www.nhc.gov.cn/yzygj/c100068/202305/e2379d47ca3244c7b733fbcfb5f0675a.shtml)
 5. [National Health Commission: Quality Management of Outpatient and Emergency Information Pages](https://www.nhc.gov.cn/yzygj/c100067/202409/0f2a60b7f8d44566bd84bac2e6b17e41.shtml)
-
-## Hero Image Review
-
-The original image is retained because it separates three concepts visually: senior-clinician consultation, premium room and international coordination. It contains no prices, institutional names or promise that one route produces better outcomes.

@@ -15,7 +15,6 @@
 
 - “保关节”是总称，不是诊断，更不是保证。方案必须写明受损组织、仍然健康的关节面和要纠正的力学问题。
 - 局灶性软骨损伤、力线异常、不稳、髋臼发育不良、撞击和早期骨坏死需要不同手术；适合一种问题的操作可能使另一种问题更糟。
-- 必须分清病变是局灶还是弥漫。关节已有广泛晚期退变时，许多软骨修复或骨形态矫正的效果更难预测。
 - 关节镜、截骨、软骨修复和生物注射不能互相替代；它们的证据、康复要求及对以后置换的影响不同。
 - 好的保关节计划包括退出方案：怎样衡量成功、何时判定失败，以及失败后能否顺利转为置换。
 
@@ -195,8 +194,3 @@ CDC 建议跨境医疗患者提前安排随访并索取英文病历。[8] 如果
 6. [美国髋膝关节外科医师协会（AAHKS）— 股骨头坏死](https://hipkneeinfo.org/hip-care/osteonecrosis-of-the-hip/)
 7. [美国食品药品监督管理局（FDA）— 再生医学治疗患者重要信息](https://www.fda.gov/vaccines-blood-biologics/consumers-biologics/important-patient-and-consumer-information-about-regenerative-medicine-therapies)
 8. [美国疾病控制与预防中心（CDC）— 2026 Yellow Book：跨境医疗](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** 审核通过，保留为 `hero-reviewed.png`。
-- **Editorial note:** 本文涉及多个关节和多种术式，因此画面聚焦医患讨论步行、楼梯和骑车等功能目标是合适的；它没有暗示某种植入物、注射或保证保住关节。

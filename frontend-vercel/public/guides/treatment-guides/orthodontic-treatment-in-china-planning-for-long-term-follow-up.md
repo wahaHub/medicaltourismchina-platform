@@ -209,8 +209,3 @@ Small root changes can accompany movement and usually do not affect long-term he
 7. [American Association of Orthodontists — Preventing White-Spot Demineralisation](https://aaoinfo.org/whats-trending/will-treatment-cause-white-marks-on-teeth/)
 8. [British Orthodontic Society — Risks of Orthodontic Treatment](https://www.bos.org.uk/wp-content/uploads/2023/05/RisksOfOrthodonticTreatment-AdviceSheet-2023.pdf)
 9. [US Centers for Disease Control and Prevention — Medical Tourism, Yellow Book 2026](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The image shows a patient discussing a fixed orthodontic appliance and treatment milestones with a clinician in a Chinese setting. It supports supervised follow-up without showing a brand, mail-order appliance or guaranteed final smile.

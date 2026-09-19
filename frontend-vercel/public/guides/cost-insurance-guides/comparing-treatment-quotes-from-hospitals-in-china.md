@@ -17,7 +17,6 @@
 - Compare three layers separately: clinical plan, hospital resources and patient payment. A single total hides too many differences.
 - Mark every item as included, excluded, conditional, unknown or not applicable. A blank cell is not zero.
 - Verify that a named clinician or department reviewed the same dated record set at each hospital; sales summaries are not clinical proposals.
-- Choose on clinical fit and execution risk first, then compare the cost of genuinely feasible options.
 
 ## Content
 

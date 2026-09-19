@@ -228,8 +228,3 @@ AAOMR 建议用横断面影像评估植入位点，并把 CBCT 作为首选方�
 7. [美国疾病控制与预防中心——牙科机构感染预防实践](https://www.cdc.gov/dental-infection-control/hcp/summary/index.html)
 8. [美国牙科协会——牙科操作前抗生素预防](https://www.ada.org/resources/ada-library/oral-health-topics/antibiotic-prophylaxis)
 9. [美国疾病控制与预防中心——《黄皮书 2026》医疗旅游](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **结论：** 图片审核通过，保留并命名为 `hero-reviewed.png`。
-- **编辑说明：** 画面清楚呈现牙槽骨内植体、医生向国际患者讲解修复模型，以及中国城市环境，符合种植规划主题；没有描绘手术、具体诊所或保证“当天完成”。

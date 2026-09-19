@@ -16,7 +16,6 @@
 - The most important warning sign is often a change in pattern: symptoms become faster, stronger, more frequent, newly one-sided or function-limiting instead of gradually improving.
 - Call emergency services for life-threatening breathing, circulation, neurological, bleeding or responsiveness changes. In China, the national pre-hospital medical emergency number is 120.
 - Fever alone neither proves nor excludes serious infection. Combine temperature with breathing, heart rate, alertness, skin, urine, pain and the patient’s overall trajectory.
-- A normal wearable or home-device reading cannot overrule severe symptoms. Repeat a surprising measurement correctly, but never delay urgent help to create a perfect chart.
 - Use the treating team’s procedure-specific thresholds. A generic internet checklist cannot know what type of wound, implant, drain, medicine or complication this patient has.
 
 ## Content

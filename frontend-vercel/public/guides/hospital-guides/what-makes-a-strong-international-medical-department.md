@@ -280,8 +280,3 @@ Diagnosis/treatment summary, reconciled medicines, results and pending-item owne
 6. [Personal Information Protection Law of the People’s Republic of China](https://www.miit.gov.cn/jgsj/zfs/fl/art/2022/art_515a4b20c12f430eab54bb4f56d89f56.html)
 7. [National Health Commission — Measures for Complaint Management in Medical Institutions](https://www.nhc.gov.cn/wjw/c100221/202201/3d1d9a04f09e488fadaf2a377b772370.shtml)
 8. [National Health Commission — Further Strengthening the Use and Management of Electronic Medical Records (2025)](https://www.nhc.gov.cn/yzygj/c100068/202506/c68abee7c54b4651a774cd533761780b.shtml)
-
-## Image Review
-
-- **Decision:** Approved after editorial review; copied as `hero-reviewed.png`.
-- **Editorial note:** The international traveller, coordinator, hospital reception and world map clearly signal international navigation. The image does not show clinical ownership, interpretation quality or emergency capability, so it is retained only as a service-access concept image and not evidence that a department is strong.

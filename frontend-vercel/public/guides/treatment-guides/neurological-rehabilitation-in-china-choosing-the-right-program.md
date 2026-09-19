@@ -214,8 +214,3 @@ Reassess when function changes, goals are not progressing, medical instability a
 5. [World Health Organization — Assistive Technology in Rehabilitation](https://www.who.int/teams/noncommunicable-diseases/sensory-functions-disability-and-rehabilitation/rehabilitation/assistive-technology)
 6. [US Department of Veterans Affairs and Department of Defense — 2024 Stroke Rehabilitation Guideline](https://www.healthquality.va.gov/guidelines/Rehab/stroke/VADOD-2024-Stroke-Rehab-CPG-Full-CPG_final_508.pdf)
 7. [US Centers for Disease Control and Prevention — Traumatic Brain Injury Signs and Symptoms](https://www.cdc.gov/traumatic-brain-injury/signs-symptoms/index.html)
-
-## Image Review
-
-- **Decision:** Replaced with a topic-specific ImageGen hero and visually reviewed for medical relevance, obvious generation artifacts and bilingual reuse.
-- **Editorial note:** The illustration shows a generic walking-rehabilitation consultation with a cane and therapy balls. It lacks a recognisable neurological assessment, brain or spinal-cord context, upper-limb control, swallowing/communication work or cognitive task, so it cannot distinguish neurorehabilitation from routine orthopaedic recovery.

@@ -215,9 +215,3 @@ No. Call 120 for a medical emergency. Shanghai 12345 handles non-emergency gover
 5. [Shanghai Municipal People’s Government — What to do in an emergency](https://english.shanghai.gov.cn/en-EmergencyNumbers/20241210/cbc5280b9f96440a93234bfc5e0c1023.html)
 6. [Shanghai Municipal People’s Government — 12345 public service hotline](https://english.shanghai.gov.cn/en/20231223/7b8359d283634bd99b4e7a2c5a89314c.html)
 7. [Shanghai Municipal People’s Government — Shanghai’s Specification for Service of International Medicine](https://english.shanghai.gov.cn/en-Latest-WhatsNew/20240926/801a7ca7253946808361311826621db9.html)
-
-## Hero Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Why:** The recognisable Shanghai skyline, suitcase and consultation make the city-specific medical-travel context clear without naming a provider.
-- **Risk check:** No readable clinical record, hospital logo, watermark, invasive procedure, distress or outcome promise appears.

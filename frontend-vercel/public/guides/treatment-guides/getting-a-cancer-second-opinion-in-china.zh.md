@@ -131,7 +131,3 @@
 3. [国家卫生健康委员会：《关于加强肿瘤规范化诊疗管理工作的通知》](https://www.nhc.gov.cn/yzygj/c100068/201603/fa4e45c3ae6148f5b99ac1a91f6c5ee8.shtml)
 4. [国家卫生健康委员会：肿瘤和血液病相关病种诊疗指南（2022年版）](https://www.nhc.gov.cn/yzygj/c100068/202204/0c1f7d3aca0545abbeb02030ce255930.shtml)
 5. [美国国家癌症研究所：向医生询问肿瘤治疗的问题](https://www.cancer.gov/about-cancer/treatment/questions)
-
-## Hero Image Review
-
-本次保留原插画。画面明确表现医生向患者及陪同人员解释决策路径，没有可识别病历或疗效暗示，与相邻肿瘤文章配图也不完全重复。它仍属于品牌化插画，不是纪实照片。

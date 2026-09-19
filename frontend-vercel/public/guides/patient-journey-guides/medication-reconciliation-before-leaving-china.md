@@ -14,7 +14,6 @@
 ## Key Takeaways
 
 - Reconcile what the patient actually used before treatment, what was administered in China and what is intended after departure. A prescription is only one of those histories.
-- Identify medicines by generic name, active ingredient, strength, formulation and route—not colour, shape or brand alone.
 - Give every medicine one explicit action: continue, stop, start, hold, restart on a stated condition/date, taper, or use as needed with a maximum.
 - Build the travel-day clock from the last dose in China to the first dose after arrival. Time-zone changes must preserve safe intervals rather than blindly following two local clocks.
 - Verify destination and transit-country rules, lawful quantity, original packaging, documents, cold-chain or device needs, and who will prescribe the next supply.

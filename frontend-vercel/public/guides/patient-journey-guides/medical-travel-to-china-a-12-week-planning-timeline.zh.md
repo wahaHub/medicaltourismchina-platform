@@ -17,7 +17,6 @@
 - 12 周只是规划框架，不是医学规定。急症可能需要立刻在当地处理，复杂病例也可能需要更长准备时间。
 - 护照和签证材料应以患者申请地所对应的中国使领馆或签证中心最新要求为准，规则可能变化。[1]
 - 回程与到达同样需要规划：恢复时间、是否适合乘机、并发症处理和病历交接都会影响行程。
-- 核心病历、常用药、紧急联系人和保险资料应放在随身行李，并保存安全电子副本。
 
 ## Content
 
@@ -139,7 +138,3 @@
 3. [CDC Yellow Book：旅行前健康咨询](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/the-pre-travel-consultation.html)
 4. [CDC Yellow Book：在境外生病时怎么办](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/what-to-do-when-sick-abroad.html)
 5. [CDC Yellow Book：医疗旅游](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Hero Image Review
-
-本次保留原插画。画面具体表现两位旅客使用阶段日历规划，并包含护照、航班和医院线索；没有可读行程或个人医疗资料，能够准确支持时间表主题。它仍属于品牌化插画，不是纪实照片。

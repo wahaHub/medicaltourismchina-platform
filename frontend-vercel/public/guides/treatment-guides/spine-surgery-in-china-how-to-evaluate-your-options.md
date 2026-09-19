@@ -13,7 +13,6 @@
 
 ## Key Takeaways
 
-- A spine MRI report is not an operation plan. The abnormal level and side should match the patient's pain, weakness, sensory change, gait or spinal-cord findings.
 - “Spine surgery” may mean discectomy, decompression, fusion, disc replacement, deformity correction or treatment of tumour, infection or fracture. Ask for the exact level, approach and goal.
 - Decompression and fusion answer different questions. If fusion is proposed, the surgeon should identify instability, deformity or another reason that decompression alone is insufficient.
 - New bladder retention, saddle numbness, rapidly progressive weakness or signs of spinal-cord compression require urgent local assessment, not delayed international travel.
@@ -193,8 +192,3 @@ Keep the operative note, treated and fused levels, graft or biologic details, ev
 4. [National Institute for Health and Care Excellence — Low Back Pain and Sciatica: Recommendations](https://www.nice.org.uk/guidance/ng59/chapter/recommendations)
 5. [US Centers for Disease Control and Prevention — Medical Tourism, Yellow Book 2026](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
 6. [North American Spine Society — Clinical Guidelines for Low Back Pain and Lumbar Spinal Stenosis](https://www.spine.org/Research/Clinical-Guidelines/Low-Back-Pain)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The illustration includes a recognisable spine silhouette, a stair-walking goal and a walker beside a clinician-patient discussion. It supports evaluation and recovery planning without depicting a particular procedure or making an outcome claim.

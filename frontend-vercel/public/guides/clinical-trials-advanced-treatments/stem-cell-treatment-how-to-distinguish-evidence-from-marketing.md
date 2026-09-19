@@ -185,8 +185,3 @@ There is no single badge. Credibility comes from a consistent chain: exact diagn
 6. [Center for Drug Evaluation — Clinical Trials of Human Stem-Cell and Derived-Cell Products](https://www.cde.org.cn/main/news/viewInfoCommon/f82a0fee1e625a1a3834a93cee3836c7)
 7. [National Health Commission — Management of Investigator-Initiated Clinical Research](https://www.nhc.gov.cn/qjjys/c100016/202409/3a3ad0a7b656420d9580b65f2321a623.shtml)
 8. [US Food and Drug Administration — Patient Information on Regenerative Medicine Therapies](https://www.fda.gov/vaccines-blood-biologics/consumers-biologics/important-patient-and-consumer-information-about-regenerative-medicine-therapies)
-
-## Image Review
-
-- **Decision:** Approved after editorial review; copied as `hero-reviewed.png`.
-- **Editorial note:** The cell symbol, safety shield, checklist, evidence balance and advertising megaphone directly support the article’s verification theme. It is a conceptual illustration, not microscopy, a product certificate or proof of efficacy.

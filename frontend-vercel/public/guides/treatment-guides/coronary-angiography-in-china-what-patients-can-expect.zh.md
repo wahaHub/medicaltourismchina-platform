@@ -13,7 +13,6 @@
 
 ## Key Takeaways
 
-- 有创冠状动脉造影通过导管、含碘造影剂和 X 线显示冠脉管腔，它和冠状动脉 CT 血管成像不是同一项检查。
 - 检查前要先明确临床问题：处理急症、进一步判断高风险症状或检查结果、为心脏手术做准备，还是已经预备必要时进行冠脉介入治疗？
 - 同意做诊断造影，不等于自动同意球囊扩张或放支架。要事先问清能否当场 PCI，以及什么发现会导致治疗、暂缓、讨论搭桥或采用药物管理。
 - 对适合的患者，由有经验的团队从手腕入路通常比腹股沟入路更能降低出血和血管并发症，但解剖和操作需求仍可能使股动脉入路更合理。
@@ -175,8 +174,3 @@
 5. [美国放射学会（ACR）— 造影剂手册](https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Contrast-Manual)
 6. [国家卫生健康委员会 — 心血管疾病介入诊疗技术临床应用管理规范（2019年版）](https://www.nhc.gov.cn/yzygj/c100068/201911/a4fccc8dd088417f99c892276da6dc93.shtml)
 7. [美国心脏协会（AHA）— 心导管检查](https://www.heart.org/en/health-topics/heart-attack/diagnosing-a-heart-attack/cardiac-catheterization)
-
-## Image Review
-
-- **Decision:** 审核通过，保留为 `hero-reviewed.png`。
-- **Editorial note:** 插画明确呈现冠状动脉解剖和血管内导管，并置于医生与患者沟通场景中；它是教育性示意，不代表导管室的真实环境。

@@ -248,7 +248,3 @@ DICOM对象内部可包含患者姓名、编号、日期等数据；改变文件
 4. [DICOM标准委员会：怎样显示光盘中的医学影像](https://www.dicomstandard.org/using/cds)
 5. [国家卫生健康委：《电子病历应用管理规范（试行）》](https://www.nhc.gov.cn/wjw/c100175/201702/90f3de8ae03d488cbddf509dc958f75b.shtml)
 6. [中国人大网：《中华人民共和国个人信息保护法》](https://www.npc.gov.cn/WZWSREL25wYy9jMi9jMzA4MzQvMjAyMTA4L3QyMDIxMDgyMF8zMTMwODguaHRtbD9yZWY9aW1i)
-
-## Hero Image Review
-
-保留原配图。画面清楚表现医生与患者共同查看断层影像，并同时出现显示屏和影像序列；图中没有可读身份信息，也没有无依据的诊断或疗效暗示。

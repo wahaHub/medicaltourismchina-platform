@@ -15,7 +15,6 @@
 
 - PCI can reopen a coronary artery during an acute heart attack and can relieve limiting angina in selected stable disease. A visible narrowing alone does not explain what benefit an individual patient should expect.
 - “One stent” is not a complete plan. Vessel, lesion length, calcification, bifurcation, chronic total occlusion, stent dimensions, imaging guidance and untreated disease all affect the procedure and its durability.
-- Complex left-main or multivessel disease may require comparison with coronary bypass surgery. A Heart Team decision can be more important than immediate treatment in the catheterisation laboratory.
 - After a coronary stent, antiplatelet therapy is part of the procedure—not optional aftercare. Duration and drug choice depend on whether the event was acute or stable, and on both clotting and bleeding risk.
 - Before medical travel, confirm that the required antiplatelet medicines are affordable and available at home. Never stop them for dental work, surgery, bleeding concerns or travel without a coordinated clinical plan.
 
@@ -167,8 +166,3 @@ Not without coordinated advice. Stopping too early can allow a clot to form in t
 5. [American College of Cardiology — 2025 Acute Coronary Syndromes Guideline](https://www.acc.org/About-ACC/Press-Releases/2025/02/28/17/51/ACC-AHA-Issue-New-Acute-Coronary-Syndromes-Guideline)
 6. [国家卫生健康委员会 — 心血管疾病介入诊疗技术临床应用管理规范（2019年版）](https://www.nhc.gov.cn/yzygj/c100068/201911/a4fccc8dd088417f99c892276da6dc93.shtml)
 7. [American Heart Association — Aspirin and Dual Antiplatelet Therapy](https://www.heart.org/en/health-topics/heart-attack/treatment-of-a-heart-attack/aspirin-and-heart-disease)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The image accurately presents a simplified sequence of balloon dilation and stent expansion. It does not imply that every coronary narrowing requires a stent.

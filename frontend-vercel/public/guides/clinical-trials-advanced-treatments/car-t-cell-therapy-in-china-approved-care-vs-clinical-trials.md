@@ -178,8 +178,3 @@ No. It may be an approved product, off-label use or a clinical study. Ask for th
 6. [US Food and Drug Administration — T-Cell Malignancy Warning After CD19- and BCMA-Directed CAR-T](https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/fda-requires-boxed-warning-t-cell-malignancies-following-treatment-bcma-directed-or-cd19-directed)
 7. [EBMT and JACIE — Best-Practice Recommendations for CAR-T Care](https://pubmed.ncbi.nlm.nih.gov/31753925/)
 8. [EHA and EBMT — Consensus on Immune Effector Cell-Associated Haematotoxicity](https://pubmed.ncbi.nlm.nih.gov/37300386/)
-
-## Image Review
-
-- **Decision:** Replaced with a topic-specific ImageGen hero and visually reviewed for medical relevance, obvious generation artifacts and bilingual reuse.
-- **Editorial note:** The existing image is a generic reception conversation with a decorative cell graphic. It does not show apheresis, controlled manufacture, bridging, lymphodepletion, infusion or toxicity monitoring, so it cannot represent the CAR-T pathway.

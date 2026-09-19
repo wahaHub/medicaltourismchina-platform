@@ -180,8 +180,3 @@ Bring the original DICOM study, final report and addenda, relevant prior images 
 7. [Nature Medicine — DECIDE-AI Reporting Guideline for Live Clinical Evaluation](https://www.nature.com/articles/s41591-022-01772-9)
 8. [The Lancet — MASAI Randomized Trial of AI-Supported Mammography Screening](https://pubmed.ncbi.nlm.nih.gov/41620232/)
 9. [European Radiology — Effect of Incorrect AI Results on Chest-Radiograph Readers](https://pubmed.ncbi.nlm.nih.gov/37266657/)
-
-## Image Review
-
-- **Decision:** Approved after editorial review; copied as `hero-reviewed.png`.
-- **Editorial note:** The image specifically shows a clinician, patient, radiograph and an AI-style analysis symbol, so it supports the topic better than a generic consultation scene. It remains a conceptual illustration: the chest image and brain icon are not a coherent real product output and must not be presented as a diagnosis, heatmap or validated interface.

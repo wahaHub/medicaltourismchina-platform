@@ -13,7 +13,6 @@
 
 ## Key Takeaways
 
-- Shenzhen care plans often involve two borders: the administrative border between hospital systems and, for some patients, the physical boundary with Hong Kong. Neither medical records nor payment entitlements move automatically.
 - The city health commission maintains official appointment information, while Shenzhen’s 2025 foreign-resident handbook gives institution-specific English routes and warns that same-day appointments may not be available.[1][2]
 - Four Shenzhen hospitals were included in Guangdong’s first group of international medical-service pilots in 2026, but pilot status is not a referral, quality ranking or promise that a particular department can accept a case.[3]
 - Hong Kong’s cross-boundary eHealth functions and Elderly Health Care Voucher arrangements apply only under their stated identity, consent, institution and service rules.[5][6]
@@ -220,9 +219,3 @@ Not automatically. The user must follow the cross-boundary authorisation workflo
 5. [Hong Kong eHealth — Cross-boundary Health Record and Personal Folder upgrade (2026)](https://www.ehealth.gov.hk/en/whats-new/ehealth-news/202603/cross-boundary-health-record-sharing.html)
 6. [Hong Kong Department of Health — Elderly Health Care Voucher Scheme at the University of Hong Kong–Shenzhen Hospital](https://www.hcv.gov.hk/en/shenzhen/highlights.html)
 7. [Shenzhen Government Online — Example of manual passport registration for international patients](https://www.sz.gov.cn/hospital/bayy/baczyzlyy/content/post_9379570.html)
-
-## Hero Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Why:** The consultation is framed by a recognisable Shenzhen civic skyline, making it more specific than a generic hospital illustration.
-- **Risk check:** No provider logo, border document, readable medical data, procedure, distress or outcome claim appears.

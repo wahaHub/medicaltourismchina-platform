@@ -16,7 +16,6 @@
 - A surgical robot is a surgeon-controlled instrument system, not an autonomous operator. The surgeon remains responsible for every movement and decision [1].
 - “Robotic surgery” is not one treatment. Evidence from prostate, rectal, cardiac, gynaecologic, thoracic, orthopaedic or neurosurgical procedures cannot be pooled into a universal promise.
 - The useful comparison is the same operation for the same indication: robotic versus conventional laparoscopy or open surgery, with outcomes that matter to that patient.
-- Surgeon experience should be measured in recent cases of the proposed procedure and platform—not total career operations or the hospital’s cumulative robot count.
 - A safe programme needs an experienced bedside assistant, anaesthesia and nursing team, working backup equipment and a rehearsed plan for undocking and conversion.
 
 ## Content
@@ -182,8 +181,3 @@ Compare total expected cost and the outcomes relevant to you: complications, blo
 5. [JAMA — ROLARR Randomized Clinical Trial of Robotic vs Laparoscopic Rectal Cancer Surgery](https://pubmed.ncbi.nlm.nih.gov/29067426/)
 6. [The Lancet Oncology — Randomized Trial of Robot-Assisted vs Open Radical Prostatectomy](https://pubmed.ncbi.nlm.nih.gov/38723593/)
 7. [Systematic Review of Randomized Trials of Robotic vs Laparoscopic Surgery](https://pubmed.ncbi.nlm.nih.gov/37442833/)
-
-## Image Review
-
-- **Decision:** Replaced with a topic-specific ImageGen hero and visually reviewed for medical relevance, obvious generation artifacts and bilingual reuse.
-- **Editorial note:** The existing image shows a routine clinician–patient consultation and Shanghai skyline but no surgical robot, console, instruments, operating room or procedure comparison. It is visually polished yet materially non-specific. Replace it with a non-branded, anatomically neutral scene showing a surgeon at a console and the bedside team, without implying autonomous surgery.

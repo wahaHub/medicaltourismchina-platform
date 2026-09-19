@@ -215,8 +215,3 @@ Hospital legal name and campus, investigator, registry and protocol numbers, spo
 8. [China Drug Good Clinical Practice (2026 revision, effective 1 September 2026)](https://yjj.sh.gov.cn/qtgzwj/20260608/89cbf084b5cb4eab8fd0fb56d8538a1d.html)
 9. [World Health Organization — Trial Registration Data Set](https://www.who.int/tools/clinical-trials-registry-platform/network/who-data-set)
 10. [World Health Organization — Primary Registries, Including ChiCTR](https://www.who.int/tools/clinical-trials-registry-platform/network/primary-registries)
-
-## Image Review
-
-- **Decision:** Approved after editorial review; copied as `hero-reviewed.png`.
-- **Editorial note:** The checklist, magnifier, safety shield, identity badge, international patient and hospital reception make verification the identifiable action. It remains conceptual: the person at the desk may be a coordinator, not an investigator or ethics reviewer, and the image does not prove any hospital or trial is authorised.

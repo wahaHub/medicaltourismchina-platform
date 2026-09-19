@@ -227,9 +227,3 @@ MDT 可能帮助患者避免无必要出行，也可能先要求补做活检。�
 4. [英国 NHS——肿瘤 MDT 会议优化指南](https://www.england.nhs.uk/publication/streamlining-mdt-meetings-guidance-cancer-alliances/)
 5. [英国 NICE——患者共同决策原则](https://www.nice.org.uk/process/pmg42/chapter/introduction)
 6. [美国国家癌症研究所——外科病理报告与肿瘤讨论会](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/pathology-reports-fact-sheet)
-
-## Hero Image Review
-
-- **结论：** 已完成主题专属 ImageGen 主图替换，并人工复核医学相关性、明显生成瑕疵及中英文共用效果。
-- **Why:** 原图只有一位医生向患者和陪同人展示流程，小小的“多人”图标不足以表现多个专科共同复阅影像、病理和治疗方案。
-- **Replacement brief:** 真实会议场景：外科、肿瘤内科、放疗、影像和病理医生围绕同一份不可读病例显示屏平等讨论；不出现机构标识、患者身份或夸张全息科技。

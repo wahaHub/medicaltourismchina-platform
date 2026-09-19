@@ -135,9 +135,3 @@ Tumour biomarkers can change, and treatment can select resistant clones. A new t
 6. [China NMPA Center for Food and Drug Inspection — Registration Review Guideline for Non-Original Companion Diagnostics](https://www.ccfdie.org/cn/yjxx/yphzp/webinfo/2021/12/1640589634851672.htm)
 7. [US National Cancer Institute — Targeted Therapy to Treat Cancer](https://www.cancer.gov/about-cancer/treatment/types/targeted-therapies)
 8. [US National Cancer Institute — Why Cancer Treatments Stop Working](https://www.cancer.gov/about-cancer/treatment/research/drug-combo-resistance)
-
-## Hero Image Review
-
-- **Decision:** Rejected; replacement pending as `hero-reviewed.png`.
-- **Why:** DNA and target icons decorate another generic consultation scene but do not show a specimen, laboratory method, report interpretation or drug-matching decision.
-- **Replacement brief:** Documentary 16:9 laboratory consultation: a molecular pathologist and oncologist compare a de-identified, unreadable biomarker report with clearly differentiated tissue-block and blood-tube sample types; no patient identifiers, legible variants, oversized DNA helix, glowing target symbols, logos or futuristic interface.

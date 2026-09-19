@@ -224,7 +224,3 @@
 5. [国家市场监督管理总局：《医疗广告管理办法》](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/ggjgs/art/2023/art_6584dc1c94c2408db7c73f0b5e3d225a.html)
 6. [美国疾病控制与预防中心：《Yellow Book：医疗旅行》](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
 7. [国家卫生健康委：《医疗机构工作人员廉洁从业九项准则》解读](https://www.nhc.gov.cn/yzygj/c100067/202111/10374396aa0e4d21a068b5f30eea3691.shtml)
-
-## Hero Image Review
-
-保留原配图。分栏图标直接表达了职责边界：一侧是排期、沟通、资料和团队协调，另一侧是医疗权限、处方、资金和医院决定。虽然人物服装带有医疗机构风格，但旁边的“可以／不可以”结构足以让读者理解其协调角色。

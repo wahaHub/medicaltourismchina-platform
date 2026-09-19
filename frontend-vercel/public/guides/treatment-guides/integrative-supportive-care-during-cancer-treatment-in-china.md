@@ -146,8 +146,3 @@ Include every supportive intervention and product, exact ingredients and doses, 
 8. [US National Center for Complementary and Integrative Health — Cancer and Complementary Health Approaches](https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches-what-you-need-to-know)
 9. [US National Cancer Institute — Cancer Therapy Interactions With Foods and Dietary Supplements](https://www.cancer.gov/about-cancer/treatment/cam/patient/dietary-interactions-pdq)
 10. [American Society of Clinical Oncology — Palliative Care for Patients With Cancer, 2024 Guideline Update](https://ascopubs.org/doi/10.1200/JCO.24.00542)
-
-## Image Review
-
-- **Decision:** Replaced with a topic-specific ImageGen hero and visually reviewed for medical relevance, obvious generation artifacts and bilingual reuse.
-- **Editorial note:** The image depicts a generic wellness discussion with icons for walking, a lotus, heart, food and meditation. It has no oncology treatment, symptom monitoring, medicine review or multidisciplinary supportive-care cue, so it cannot distinguish integrative cancer care from a lifestyle package.

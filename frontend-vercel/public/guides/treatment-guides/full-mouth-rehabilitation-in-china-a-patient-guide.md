@@ -205,8 +205,3 @@ There is no single record. Take the complete diagnostic images, tooth-by-tooth p
 6. [US Centers for Disease Control and Prevention — Infection Prevention Practices in Dental Settings](https://www.cdc.gov/dental-infection-control/hcp/summary/)
 7. [American College of Prosthodontists — Recall and Maintenance Guidelines for Dental Restorations](https://www.prosthodontics.org/assets/1/7/Clinical_Practice_Guidelines.pdf)
 8. [US Centers for Disease Control and Prevention — Medical Tourism, Yellow Book 2026](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The illustration shows an older patient discussing a complete dental arch and functional goals with a dentist in a Chinese setting. It supports consultation and rehabilitation planning without depicting a named provider, a specific procedure or a guaranteed result.

@@ -15,7 +15,6 @@
 
 - Transfer a functional baseline across physical, cognitive, communication, swallowing, self-care, psychological and participation domains—not just a diagnosis and a list of exercises.
 - Preserve measurement conditions. “Walked 50 metres” means little without the aid, assistance, surface, oxygen, pain, rest breaks and safety response.
-- Every exercise needs dose, technique, assistance, stop rules and progression criteria. A translated name or video alone is not a prescription.
 - Confirm that a named provider at home has reviewed the plan, can deliver the required disciplines and has accepted the first appointment. A referral sent is not a handover received.
 - Test equipment, caregiver skills and the real home environment before travel, and create a bridge for any gap between the last session in China and first session at home.
 

@@ -17,7 +17,6 @@
 - Twelve weeks is a planning framework, not a medical rule. Urgent cases may need faster local care; complex cases may take longer.
 - Check passport and visa requirements with the Chinese mission or visa center responsible for the patient’s place of application because documentation rules can change.[1]
 - Plan the return as carefully as the arrival: recovery time, fitness to fly, complication care and record handover all affect the itinerary.
-- Keep medical records, regular medicines, emergency contacts and insurance details in carry-on baggage and secure digital copies.
 
 ## Content
 
@@ -139,7 +138,3 @@ Regular medicines, prescriptions, the concise medical summary, allergies, critic
 3. [CDC Yellow Book: The Pre-Travel Consultation](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/the-pre-travel-consultation.html)
 4. [CDC Yellow Book: What to Do When Sick Abroad](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/what-to-do-when-sick-abroad.html)
 5. [CDC Yellow Book: Medical Tourism](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Hero Image Review
-
-The existing illustration is retained. It specifically depicts two travelers working through a staged calendar with passport, flight and hospital cues; it contains no readable itinerary or personal medical data. It accurately supports a planning-timeline article despite remaining a stylized brand illustration.

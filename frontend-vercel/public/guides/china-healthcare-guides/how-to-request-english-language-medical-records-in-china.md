@@ -17,7 +17,6 @@
 - Chinese rules allow patients and authorised representatives to request copies of specified medical records after identity and authority are verified.[1]
 - Request the complete Chinese source set even if the hospital can prepare an English summary. Keep the hospital stamp, page order and original files intact.
 - For transfer of care, collect imaging files as well as reports, pathology material or reports, operative and anaesthesia notes, medication details and a discharge summary.
-- Translation should reproduce names, numbers, dates, units and uncertainty faithfully. It must not silently “correct” or reinterpret the source record.
 
 ## Content
 
@@ -174,7 +173,3 @@ Before discharge, designate an authorised contact, confirm the release channel a
 3. [National Health Commission: Response on Protecting Patient Privacy and Medical-Record Access](https://www.nhc.gov.cn/wjw/tia/201812/f21590f31fb04409b7b8323a57c7fcce.shtml)
 4. [National Health Commission: Guidance on Hospital Information Disclosure](https://www.nhc.gov.cn/wjw/gfxwj/200611/4f1027feaa9e42bebccf53906bcce24e.shtml)
 5. [National Health Commission: Response on Obtaining Records for Continuing Care Elsewhere](https://www.nhc.gov.cn/wjw/jiany/202007/f51a8f08c6fa410681086f81c6363268.shtml)
-
-## Hero Image Review
-
-The original illustration is retained. The document folder and globe directly support the topic of cross-language record transfer, while the hospital conversation gives the request appropriate clinical context. No readable personal health information appears in the image.

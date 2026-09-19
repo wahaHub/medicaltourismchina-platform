@@ -209,8 +209,3 @@ The pre-treatment plan should name a successor for records, safety reporting, tr
 3. [US Food and Drug Administration — CAR-T Products and Risk of T-Cell Malignancy](https://www.fda.gov/safety/medical-product-safety-information/bcma-directed-or-cd19-directed-autologous-chimeric-antigen-receptor-car-t-cell-immunotherapies-fda)
 4. [European Medicines Agency — Follow-Up of Patients Given Gene-Therapy Medicinal Products](https://www.ema.europa.eu/en/follow-patients-administered-gene-therapy-medicinal-products-scientific-guideline)
 5. [State Administration for Market Regulation — Measures for Adverse Drug Reaction Reporting and Monitoring](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_eb5331517f7b4ed6b31b1bc5e816b88a.html)
-
-## Image Review
-
-- **Decision:** Approved after editorial review; copied as `hero-reviewed.png`.
-- **Editorial note:** The clinician, patient, body/health symbols and calendar communicate longitudinal follow-up. The illustration is not a product-specific visit schedule and should not be used to infer timing or tests.

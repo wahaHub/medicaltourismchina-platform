@@ -14,7 +14,6 @@
 ## Key Takeaways
 
 - A biomarker report is not a treatment prescription. Confirm the specimen, assay, exact alteration, evidence level and disease context before searching trials.
-- “Pathogenic,” “actionable,” “drug approved” and “trial eligible” are different conclusions.
 - Tissue and plasma tests answer overlapping but not identical questions; a negative liquid biopsy may be uninformative when little tumour DNA is shed.
 - A biomarker match still has to satisfy tumour type, stage, prior-treatment, measurable-disease, organ-function, washout and site-specific cohort criteria.
 - Basket, umbrella and platform trials organise matching differently. Verify the exact arm and recruitment status at the Chinese site, not just the master protocol.
@@ -175,8 +174,3 @@ The study investigator applies the current protocol. A molecular tumour board or
 6. [US Food and Drug Administration — Tissue-Agnostic Drug Development in Oncology](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/tissue-agnostic-drug-development-oncology)
 7. [NCI-MATCH Investigators — Lessons for Precision Oncology](https://pubmed.ncbi.nlm.nih.gov/37322121/)
 8. [National Medical Products Administration of China — Technical Review Guidance for Oncology Companion Diagnostic Reagents](https://english.nmpa.gov.cn/2021-04/15/c_655106.htm)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The image connects DNA, a molecular target and a selected patient cohort within a China-based oncology discussion. It supports biomarker matching without showing a specific drug, test result or guaranteed benefit.

@@ -172,8 +172,3 @@ The dentist checks seating, margins, contacts, bite and cleanability using exami
 6. [American Association of Endodontists — Fundamentals of Restorability](https://www.aae.org/specialty/fundamentals-of-restorability/)
 7. [American College of Prosthodontists — Dental Laboratory and Dentist Relationship](https://www.prosthodontics.org/about-acp/position-statement-dental-laboratory-and-dentist-relationship/)
 8. [US Centers for Disease Control and Prevention — Medical Tourism, Yellow Book 2026](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The image accurately presents a three-unit bridge, prepared supports and several crown material samples during a patient consultation. It supports material and design comparison without showing a real clinic, brand or promised outcome.

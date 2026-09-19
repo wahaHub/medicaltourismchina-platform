@@ -150,8 +150,3 @@ NCI 把早诊列为仍在验证的领域，并设有专门液体活检研究项�
 7. [New England Journal of Medicine——DYNAMIC 随机试验](https://pubmed.ncbi.nlm.nih.gov/35657320/)
 8. [Nature Medicine——DYNAMIC 试验五年结局](https://pubmed.ncbi.nlm.nih.gov/40055522/)
 9. [Clinical Cancer Research——克隆性造血导致血浆基因检测假阳性](https://pubmed.ncbi.nlm.nih.gov/29567812/)
-
-## Image Review
-
-- **结论：** 已完成主题专属 ImageGen 主图替换，并人工复核医学相关性、明显生成瑕疵及中英文共用效果。
-- **Editorial note:** 现图仍是通用医患咨询，只增加了试管和流程图标；没有血液分离、血浆、游离 DNA、测序、组织—血浆比较或残留病灶监测，读者无法把它与普通化验区分开。建议更换为非品牌化的血浆管、碎片化 DNA 和清楚标注的决策路径，不得伪造患者检测结果。

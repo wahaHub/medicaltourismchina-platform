@@ -180,8 +180,3 @@ Usually not routinely. Ultrasound and a tubal-patency test often answer the firs
 8. [European Society of Human Reproduction and Embryology — Evidence-Based Guideline on Unexplained Infertility](https://www.eshre.eu/guideline/UI)
 9. [National Health Commission of China — Approved Human Assisted Reproductive Technology Institutions](https://www.nhc.gov.cn/wjw/fzszjg/list.shtml)
 10. [National Health Commission of China — Guiding Principles for Planning the Application of Human Assisted Reproductive Technology (2021)](https://www.nhc.gov.cn/fys/c100078/202101/2ab417fe9160445fbf3faea11cc0d38b.shtml)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The image shows a reproductive-medicine consultation focused on sperm, egg and fertilisation, with an international couple and a recognisably Chinese city context. It supports assessment and counselling without showing test results, a named clinic or a promised outcome.

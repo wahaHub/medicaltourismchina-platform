@@ -146,8 +146,3 @@ Payment does not replace eligibility, ethics review or cohort availability. Legi
 7. [Chinese National Regulators — Revised Drug GCP, Effective 1 September 2026](https://yjj.sh.gov.cn/qtgzwj/20260608/89cbf084b5cb4eab8fd0fb56d8538a1d.html)
 8. [International Council for Harmonisation — ICH E6(R3) Good Clinical Practice](https://database.ich.org/sites/default/files/ICH_E6%28R3%29_Step4_FinalGuideline_2025_0106.pdf)
 9. [ClinicalTrials.gov — How to Read a Study Record](https://clinicaltrials.gov/study-basics/how-to-read-study-record)
-
-## Image Review
-
-- **Decision:** Replaced with a topic-specific ImageGen hero and visually reviewed for medical relevance, obvious generation artifacts and bilingual reuse.
-- **Editorial note:** The existing image depicts a general international-patient consultation in a lobby. It does not show pathology, biomarkers, prior therapy, washout, organ function or an inclusion/exclusion review, so it cannot communicate trial-eligibility screening.

@@ -146,8 +146,3 @@ ICH E6(R3) 强调，设计良好的方案是保护受试者和产生可靠结果
 7. [中国相关国家监管部门——新版药物临床试验质量管理规范，2026 年 9 月 1 日施行](https://yjj.sh.gov.cn/qtgzwj/20260608/89cbf084b5cb4eab8fd0fb56d8538a1d.html)
 8. [国际人用药品注册技术协调会——ICH E6(R3) 药物临床试验质量管理规范](https://database.ich.org/sites/default/files/ICH_E6%28R3%29_Step4_FinalGuideline_2025_0106.pdf)
 9. [ClinicalTrials.gov——如何阅读一项研究的登记记录](https://clinicaltrials.gov/study-basics/how-to-read-study-record)
-
-## Image Review
-
-- **结论：** 已完成主题专属 ImageGen 主图替换，并人工复核医学相关性、明显生成瑕疵及中英文共用效果。
-- **编辑说明：** 原图只是医院大厅中的普通国际患者咨询，没有呈现病理、标志物、既往治疗、洗脱期、器官功能或入排条款核对，无法准确表达“试验资格筛选”。

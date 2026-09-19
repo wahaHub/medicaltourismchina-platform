@@ -181,8 +181,3 @@ CDC建议医疗旅行者提前安排随访，并取得完整的英文病历。[7
 5. [美国心脏协会 — 急性缺血性卒中患者照护要点](https://professional.heart.org/en/science-news/2021-update-care-of-the-patient-with-acute-ischemic-stroke/top-things-to-know)
 6. [美国心脏协会/美国卒中协会 — 卒中和短暂性脑缺血发作患者的卒中预防指南](https://professional.heart.org/en/science-news/2021-guideline-for-the-prevention-of-stroke-in-patients-with-stroke-and-transient-ischemic-attack/top-things-to-know)
 7. [美国疾病控制与预防中心 — 《黄皮书2026》医疗旅游章节](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** 审核通过并保留为 `hero-reviewed.png`。
-- **Editorial note:** 图片包含使用手杖的老年患者、康复专业人员、家属和简单训练器材，与本文强调的监督训练及家属参与一致；画面没有突出品牌设备，也没有暗示保证恢复。

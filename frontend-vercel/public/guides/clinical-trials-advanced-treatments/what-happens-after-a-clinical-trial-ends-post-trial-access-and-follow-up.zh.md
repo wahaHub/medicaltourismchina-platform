@@ -220,8 +220,3 @@
 7. [中国《药物临床试验质量管理规范》（2020 版，本次审核时有效）](https://ypjg.ln.gov.cn/ypjg/zwgk/flfg/zcjd/EC143FD7C4374A2C86E76DB42118D2AA/index.shtml)
 8. [世界卫生组织：临床试验结果公开声明](https://www.who.int/news/item/09-04-2015-japan-primary-registries-network)
 9. [国家卫生健康委：《涉及人的生命科学和医学研究伦理审查办法》](https://www.nhc.gov.cn/wjw/c100375/202302/902b4a1dc3af4aba862a6387e6e376dc.shtml)
-
-## Image Review
-
-- **Decision:** 需要替换；原图仅以 `hero-reviewed.png` 保留，用于记录仍待完成的制作项。
-- **Editorial note:** 现有护士与患者交谈画面亲切，但和普通门诊没有区别。新图应明确表现“转衔”：研究时间线到达终点，一份退出资料包交给本国医生，同时分出长期随访、常规医疗和经授权继续获得干预三条路径；不得出现可读病历或保证继续治疗的暗示。

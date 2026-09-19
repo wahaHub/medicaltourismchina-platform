@@ -61,7 +61,8 @@ function stripHeroSection(markdown: string): string {
   const stripPipelineSections = (text: string) =>
     text
       .replace(/^## SEO Metadata\s*$[\s\S]*?(?=^##\s|(?![\s\S]))/m, "")
-      .replace(/^## Hero Image Prompt\s*$[\s\S]*?(?=^##\s|(?![\s\S]))/m, "");
+      .replace(/^## Hero Image Prompt\s*$[\s\S]*?(?=^##\s|(?![\s\S]))/m, "")
+      .replace(/^## (?:Hero )?Image Review\s*$[\s\S]*?(?=^##\s|(?![\s\S]))/m, "");
   const keyTakeawaysIndex = markdown.search(/^## Key Takeaways\s*$/m);
   if (keyTakeawaysIndex >= 0) {
     return stripPipelineSections(markdown.slice(keyTakeawaysIndex)).trim();

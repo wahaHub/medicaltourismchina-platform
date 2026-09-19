@@ -14,7 +14,6 @@
 ## Key Takeaways
 
 - An antibody-drug conjugate (ADC) combines a targeting antibody, a chemical linker and a potent payload. Changing any one component can change efficacy, resistance and toxicity.
-- The word “targeted” does not mean the payload remains only inside cancer cells or that ordinary chemotherapy-type adverse effects disappear.
 - Eligibility may depend on the exact tumour type, stage, treatment history, target assay, specimen, scoring system and threshold—not simply “HER2 positive” or “TROP-2 present.”
 - Approved treatment, off-label treatment and a clinical trial are different routes. Verify the current Chinese indication for the exact generic product, regimen and line of therapy.
 - Monitoring must follow the product rather than a generic ADC checklist: lung, eye, nerve, skin, blood-count, liver, cardiac or glucose risks vary markedly across agents and combinations.
@@ -182,8 +181,3 @@ Not on that fact alone. Verify the current NMPA approval, Chinese indication, pr
 9. [US Food and Drug Administration — Sacituzumab Govitecan Prescribing Information](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761115s059lbl.pdf)
 10. [Journal of Pharmacokinetics and Pharmacodynamics — Linker, Drug-to-Antibody Ratio and Systemic Toxicity](https://pubmed.ncbi.nlm.nih.gov/39704752/)
 11. [Cancers — Mechanisms of Resistance to Antibody-Drug Conjugates](https://pubmed.ncbi.nlm.nih.gov/36831621/)
-
-## Image Review
-
-- **Decision:** Replaced with a topic-specific ImageGen hero and visually reviewed for medical relevance, obvious generation artifacts and bilingual reuse.
-- **Editorial note:** The existing image shows a general medication discussion and several bottles. It does not depict the defining antibody-linker-payload structure, tumour-target testing, intravenous administration or product-specific monitoring, so it is not sufficiently specific for this guide.

@@ -148,7 +148,3 @@ Not necessarily. It may have a focused follow-up pathway, but distance, language
 3. [National Health Commission: National Healthcare Service System Planning Outline](https://www.nhc.gov.cn/zwgk/zcqgh1/201503/480336e6612644f8b8950134ee4405c5.shtml)
 4. [National Health Commission: Policy Explanation on National and Regional Medical Centres](https://www.nhc.gov.cn/zwgk/jdjd/201702/70995d887f1f4605b9bc131a236d7cf4.shtml)
 5. [National Health Commission: Tertiary Hospital Assessment Standards (2025 Edition)](https://www.nhc.gov.cn/yzygj/c100068/202506/25229edc80d34694b7debf54ddef9f9f.shtml)
-
-## Hero Image Review
-
-The existing image is retained. Its paired hospital views, one carrying a general medical symbol and the other a cardiac specialty symbol, directly support the comparison. It is a conceptual illustration, not an image of real institutions, and makes no ranking or outcome claim.

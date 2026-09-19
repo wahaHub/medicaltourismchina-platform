@@ -17,7 +17,6 @@
 - Build response cards around plausible complications of the actual treatment, not a generic collection of symptoms. Ask the treating team what may happen, when it tends to appear and what capability is needed.
 - For emergencies, use the nearest appropriate local emergency service. Do not wait for a reply from the overseas team or make a longer trip merely to reach a preferred hospital.
 - Put recent overseas healthcare on the first line of the emergency handover, especially after an operation, admission, invasive procedure, implant, transfusion or antimicrobial treatment.
-- Rehearse the plan with the companion. A telephone number, insurer promise or hospital name that has not been tested is an assumption, not a safeguard.
 
 ## Content
 

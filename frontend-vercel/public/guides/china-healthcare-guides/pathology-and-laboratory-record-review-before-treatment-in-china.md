@@ -260,7 +260,3 @@ The treating clinician, with input from pathology, laboratory and the relevant s
 4. [US National Cancer Institute: Surgical Pathology Reports and Second Opinions](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/pathology-reports-fact-sheet)
 5. [National Health Commission: Provisions on the Management of Medical Records in Medical Institutions](https://www.nhc.gov.cn/yzygj/c100068/201312/c9955f0471c04450a9f9ab74648fbdd4.shtml)
 6. [US National Cancer Institute: Tumor Markers](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/tumor-markers-fact-sheet)
-
-## Hero Image Review
-
-The original image is rejected. It shows a generic doctor explaining a care pathway and contains no pathology slides, specimen identifiers, laboratory data or review workstation. A replacement should show a pathologist and laboratory physician comparing labelled slides, a final report with non-readable fields and a trend chart, with no identifiable patient data or exaggerated technology.

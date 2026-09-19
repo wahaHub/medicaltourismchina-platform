@@ -13,7 +13,6 @@
 
 ## Key Takeaways
 
-- One average daily allowance hides the expensive days. Price clinic, inpatient, recovery and disruption days separately.
 - Separate the patient’s prescribed or tolerated food from the companion’s meals. Hospital food, delivery, groceries and special preparation solve different needs.
 - Budget transport door to door: pickup, waiting, wheelchair or mobility help, tolls/parking, return journey and a backup when the patient cannot use public transit.
 - Treat the companion as a second traveler and a care resource. Include meals, local travel, lost work, dependent care, communications and replacement support.

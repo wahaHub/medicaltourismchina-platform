@@ -179,8 +179,3 @@ Not without an oncologist and protocol-specific plan. Ask what standard or bridg
 7. [The Lancet — Randomised Phase 2b Individualised Neoantigen Therapy Study](https://pubmed.ncbi.nlm.nih.gov/38246194/)
 8. [China Drug Trials — Drug Trial Registration and Information Publication Platform](https://www.chinadrugtrials.org.cn/)
 9. [National Medical Products Administration — Good Clinical Practice for Drug Trials](https://ypjg.ln.gov.cn/ypjg/zwgk/flfg/zcjd/EC143FD7C4374A2C86E76DB42118D2AA/index.shtml)
-
-## Image Review
-
-- **Decision:** Replaced with a topic-specific ImageGen hero and visually reviewed for medical relevance, obvious generation artifacts and bilingual reuse.
-- **Editorial note:** The generic consultation, shield and particle icons do not distinguish prevention from treatment or show antigen presentation, immune-cell priming and personalised manufacture. A dedicated vaccine-research graphic is required.

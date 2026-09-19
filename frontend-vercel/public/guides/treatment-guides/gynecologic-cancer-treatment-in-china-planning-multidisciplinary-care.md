@@ -214,8 +214,3 @@ A useful record names participants or specialties, diagnosis, stage, reviewed ev
 6. [US National Cancer Institute — Cervical Cancer Treatment by Stage and Fertility-Sparing Options](https://www.cancer.gov/types/cervical/treatment/by-stage)
 7. [US National Cancer Institute — Genetics of Breast and Gynecologic Cancers (PDQ)](https://www.cancer.gov/types/breast/hp/breast-ovarian-genetics-pdq)
 8. [National Health Commission of China — National Cancer and Blood-Disease Diagnosis and Treatment Guidelines (2022)](https://www.nhc.gov.cn/yzygj/c100068/202204/0c1f7d3aca0545abbeb02030ce255930.shtml)
-
-## Image Review
-
-- **Decision:** Replaced with a topic-specific ImageGen hero and visually reviewed for medical relevance, obvious generation artifacts and bilingual reuse.
-- **Editorial note:** The original shows one clinician presenting an abstract service pathway to a patient and companion. It contains no pelvic imaging, pathology, cancer anatomy or multidisciplinary participation and therefore cannot support a gynaecologic-oncology planning article.

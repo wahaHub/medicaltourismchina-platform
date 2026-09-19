@@ -13,7 +13,6 @@
 
 ## Key Takeaways
 
-- 一份脊柱 MRI 报告不是手术方案。异常节段和侧别应与疼痛、无力、感觉变化、步态或脊髓体征相吻合。
 - “脊柱手术”可能指椎间盘切除、减压、融合、人工椎间盘、畸形矫正，或肿瘤、感染、骨折处理。必须问清节段、入路和目标。
 - 减压与融合解决的问题不同。如果提出融合，医生应说明不稳、畸形，或为什么单纯减压不够。
 - 新发尿潴留、会阴区麻木、迅速进展的无力或脊髓压迫表现，需要立即在当地就诊，不能等待跨境安排。
@@ -193,8 +192,3 @@ NASS 不建议在没有红旗的非特异性急性腰痛早期常规做高级影
 4. [英国国家卫生与临床优化研究所（NICE）— 腰痛与坐骨神经痛建议](https://www.nice.org.uk/guidance/ng59/chapter/recommendations)
 5. [美国疾病控制与预防中心（CDC）— 2026 Yellow Book：跨境医疗](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
 6. [北美脊柱学会（NASS）— 腰痛和腰椎管狭窄临床指南](https://www.spine.org/Research/Clinical-Guidelines/Low-Back-Pain)
-
-## Image Review
-
-- **Decision:** 审核通过，保留为 `hero-reviewed.png`。
-- **Editorial note:** 插图包含清晰可识别的脊柱轮廓、楼梯步行目标，以及医患讨论旁的助行器，能支持方案评估与恢复规划，同时没有暗示特定术式或保证疗效。

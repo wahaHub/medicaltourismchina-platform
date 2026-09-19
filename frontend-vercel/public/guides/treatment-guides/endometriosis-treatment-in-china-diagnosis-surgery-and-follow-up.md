@@ -192,8 +192,3 @@ No universal rule applies. Surgery may help pain, access or diagnostic concerns 
 5. [American College of Obstetricians and Gynecologists — Diagnosis of Endometriosis Clinical Practice Guideline (2026)](https://www.acog.org/clinical/clinical-guidance/clinical-practice-guideline/articles/2026/03/diagnosis-of-endometriosis)
 6. [National Institute for Health and Care Excellence — Endometriosis Recommendations on Staging, Monitoring and Non-Pharmacological Care](https://www.nice.org.uk/guidance/ng73/chapter/Recommendations#staging-systems)
 7. [American College of Obstetricians and Gynecologists — Endometriosis](https://www.acog.org/womens-health/faqs/endometriosis)
-
-## Image Review
-
-- **Decision:** Replaced with a topic-specific ImageGen hero and visually reviewed for medical relevance, obvious generation artifacts and bilingual reuse.
-- **Editorial note:** The original image shows a generic gynaecology consultation, a normal uterus icon, a checklist and a calendar. It does not depict endometriotic lesions, endometrioma, deep-disease mapping, pain or fertility trade-offs, so retaining it would make the visual as generic as the discarded text.

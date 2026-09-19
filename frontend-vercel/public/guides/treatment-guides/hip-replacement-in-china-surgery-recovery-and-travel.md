@@ -17,7 +17,6 @@
 - Surgical approach, implant bearing, fixation and stability are separate decisions. No single approach is best for every patient, and “minimally invasive” does not remove the risks of fracture, nerve injury, infection or dislocation.
 - Ask whether full weight-bearing is expected, which hip precautions actually apply and what would change them. Generic restrictions copied from a different surgical approach may be unhelpful.
 - A safe discharge requires functional milestones: transfers, walking with the correct aid, essential stairs, medication understanding and a workable home environment.
-- Recent hip surgery and long-haul travel both increase venous-thromboembolism risk. Flight timing must follow clinical review, not a fixed tourism itinerary.
 
 ## Content
 
@@ -172,8 +171,3 @@ The operative report plus the implant label or implant log should identify every
 4. [American Academy of Orthopaedic Surgeons — Diagnosis and Prevention of Periprosthetic Joint Infections](https://www.aaos.org/globalassets/quality-and-practice-resources/pji/pji-clinical-practice-guideline-final-2-17-21.pdf)
 5. [American Academy of Orthopaedic Surgeons — Activities After Total Hip Replacement](https://orthoinfo.aaos.org/recovery/activities-after-hip-replacement)
 6. [US Centers for Disease Control and Prevention — Medical Tourism, Yellow Book 2026](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** Original image rejected; replacement pending as `hero-reviewed.png`.
-- **Editorial note:** The current illustration shows a couple, luggage, an aircraft icon and a generic hospital. It does not communicate hip anatomy, arthroplasty, assisted walking or postoperative precautions. A replacement should show hip-specific planning without depicting an operation or promising recovery.

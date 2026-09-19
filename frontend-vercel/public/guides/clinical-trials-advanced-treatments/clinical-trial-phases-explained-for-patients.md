@@ -16,7 +16,6 @@
 - A phase describes the main development question for a drug or biologic; it is not a quality score, approval status or prediction of personal benefit.
 - Phase I emphasises dose, pharmacology and safety; Phase II looks for preliminary activity; Phase III usually confirms benefit–risk against a comparator; Phase IV occurs after marketing approval.
 - Phase 0, Phase I/II, Phase II/III, dose-expansion and adaptive designs do not fit a simple staircase but should still state a clear objective for each part.
-- Devices, behavioural interventions and many observational studies may correctly show “not applicable” rather than a phase.
 - The consent form must explain the experimental elements, assignment, procedures, risks, alternatives, costs and the possibility of no direct benefit.
 
 ## Content
@@ -156,8 +155,3 @@ Not necessarily. The product is marketed, but the study may test a new populatio
 6. [US Food and Drug Administration — Expanded Access Information for Patients](https://www.fda.gov/news-events/expanded-access/expanded-access-information-patients)
 7. [US Food and Drug Administration — Drug Development and Review Definitions](https://www.fda.gov/drugs/investigational-new-drug-ind-application/drug-development-and-review-definitions)
 8. [US National Cancer Institute — Taking Part in Cancer Treatment Research Studies](https://www.cancer.gov/publications/patient-education/crs.pdf)
-
-## Image Review
-
-- **Decision:** Replaced with a topic-specific ImageGen hero and visually reviewed for medical relevance, obvious generation artifacts and bilingual reuse.
-- **Editorial note:** The image shows a generic conversation in a reception lounge. It contains no phase progression, dose cohort, randomisation, comparison arm, consent document or trial milestone, so it cannot communicate the article’s subject.

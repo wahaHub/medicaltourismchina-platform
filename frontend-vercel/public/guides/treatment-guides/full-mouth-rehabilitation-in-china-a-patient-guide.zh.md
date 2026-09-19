@@ -205,8 +205,3 @@
 6. [美国疾病控制与预防中心（CDC）— 牙科诊疗机构感染预防基本要求](https://www.cdc.gov/dental-infection-control/hcp/summary/)
 7. [美国修复牙科学院（ACP）— 天然牙与种植体支持修复的复查和维护指南](https://www.prosthodontics.org/assets/1/7/Clinical_Practice_Guidelines.pdf)
 8. [美国疾病控制与预防中心（CDC）— 《黄皮书2026》跨境医疗](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **结论：** 审核通过，保留并命名为 `hero-reviewed.png`。
-- **编辑说明：** 画面表现年长患者与牙医讨论完整牙弓和功能目标，并有中国环境线索，适合“全口功能重建咨询”的主题；它没有暗示特定机构、具体术式或保证疗效。

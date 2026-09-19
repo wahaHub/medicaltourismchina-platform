@@ -179,8 +179,3 @@ Sipuleucel-T 是美国获批的自体细胞免疫治疗，用于无症状或轻�
 7. [The Lancet—个体化新抗原治疗随机 IIb 期研究](https://pubmed.ncbi.nlm.nih.gov/38246194/)
 8. [中国药物临床试验登记与信息公示平台](https://www.chinadrugtrials.org.cn/)
 9. [国家药品监督管理局—药物临床试验质量管理规范](https://ypjg.ln.gov.cn/ypjg/zwgk/flfg/zcjd/EC143FD7C4374A2C86E76DB42118D2AA/index.shtml)
-
-## Image Review
-
-- **Decision:** 不通过发布复核，暂存为 `hero-reviewed.png`。
-- **Editorial note:** 原图的普通咨询、盾牌和颗粒图标不能区分预防与治疗，也没有表现抗原呈递、免疫细胞启动和个体化制造，需要专属的疫苗研究图。

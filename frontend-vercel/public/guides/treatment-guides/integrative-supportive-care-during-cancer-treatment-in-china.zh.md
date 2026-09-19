@@ -146,8 +146,3 @@
 8. [美国国家补充与整合健康中心（NCCIH）— 癌症与补充健康方法](https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches-what-you-need-to-know)
 9. [美国国家癌症研究所（NCI）— 癌症治疗与食物及膳食补充剂相互作用](https://www.cancer.gov/about-cancer/treatment/cam/patient/dietary-interactions-pdq)
 10. [美国临床肿瘤学会 — 2024 癌症患者姑息治疗指南更新](https://ascopubs.org/doi/10.1200/JCO.24.00542)
-
-## Image Review
-
-- **结论：** 已完成主题专属 ImageGen 主图替换，并人工复核医学相关性、明显生成瑕疵及中英文共用效果。
-- **编辑说明：** 原图只是包含步行、莲花、爱心、饮食和冥想图标的普通健康咨询，没有肿瘤治疗、症状监测、用药核对或多专业支持线索，无法把癌症整合支持治疗与普通养生套餐区分开。

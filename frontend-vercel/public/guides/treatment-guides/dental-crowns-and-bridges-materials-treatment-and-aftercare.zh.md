@@ -172,8 +172,3 @@ ADA把间接修复材料分为金属合金、陶瓷、树脂基复合材料和�
 6. [美国牙髓病学会（AAE）— 牙齿可修复性基础](https://www.aae.org/specialty/fundamentals-of-restorability/)
 7. [美国修复牙科学院（ACP）— 牙医与牙科技工室的责任关系](https://www.prosthodontics.org/about-acp/position-statement-dental-laboratory-and-dentist-relationship/)
 8. [美国疾病控制与预防中心（CDC）— 《黄皮书2026》跨境医疗](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **结论：** 审核通过，保留并命名为 `hero-reviewed.png`。
-- **编辑说明：** 画面清楚展示三单位固定桥、预备后的支撑结构和多种牙冠材料样本，适合材料与设计比较；没有真实诊所、品牌或疗效承诺。

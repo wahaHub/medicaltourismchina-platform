@@ -209,8 +209,3 @@ WHO CNS5用显微形态与分子特征共同定义许多肿瘤。[3][4] 分子�
 5. [中国国家卫生健康委员会 —《脑胶质瘤诊疗指南（2022年版）》](https://www.nhc.gov.cn/cms-search/downFiles/2888d8e5c72c48ca8a9844000f55be58.pdf)
 6. [EANS–EANO — 胶质瘤切除程度指南（2026）](https://pubmed.ncbi.nlm.nih.gov/40973061/)
 7. [美国疾病控制与预防中心 —《黄皮书2026》医疗旅游章节](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **结论：** 已完成主题专属 ImageGen 主图替换，并人工复核医学相关性、明显生成瑕疵及中英文共用效果。
-- **Editorial note:** 现图只是普通咨询配合圆形流程图和小型脑部图标，不能呈现神经影像、手术规划、神经病理或真正的肿瘤多学科讨论。新图应由多个相关专业共同查看同一影像，同时避免显示可识别患者资料或暗示一定能够全切。

@@ -17,7 +17,6 @@
 - Follow the hospital's patient-specific fasting and medication instructions. Record what the patient actually ate, drank and took, with exact times.
 - Each move transfers responsibility: ward to preoperative holding, holding to operating room, operating room to recovery, then recovery to ward, ICU or discharge.
 - Use the repeated identity and procedure questions as safety checks. Answer in the patient's own words and stop when the site, side, procedure or consent does not match.
-- Give the companion a communication plan: which milestones can be reported, who calls, where to wait and what delay does—or does not—mean.
 
 ## Content
 

@@ -203,8 +203,3 @@ CDC建议医疗旅行者提前安排随访，并索取完整英文病历。[8] �
 6. [NICE — 儿童、青少年与成人癫痫完整指南（NG217 PDF）](https://www.nice.org.uk/guidance/ng217/resources/epilepsies-in-children-young-people-and-adults-pdf-66143780239813)
 7. [世界卫生组织 — 癫痫事实清单](https://www.who.int/news-room/fact-sheets/detail/epilepsy)
 8. [美国疾病控制与预防中心 — 《黄皮书2026》医疗旅游章节](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** 审核通过并保留为 `hero-reviewed.png`。
-- **Editorial note:** 图片中的脑部示意，以及患者与神经科医师、外科团队成员共同讨论的场景，能够支持本文的“评估与共同决策”主题；画面没有虚构特定设备、颅内电极或无发作保证。

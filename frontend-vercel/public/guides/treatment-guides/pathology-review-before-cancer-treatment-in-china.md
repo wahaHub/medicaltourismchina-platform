@@ -229,9 +229,3 @@ The treating oncologist should decide with pathology and other specialists, weig
 4. [National Health Commission of China — Guidelines for Construction and Management of Pathology Departments](https://www.nhc.gov.cn/zwgk/wtwj/201304/b67e2ccc097948109e33d80781b77f79.shtml)
 5. [US National Cancer Institute — Biomarker Testing for Cancer Treatment](https://www.cancer.gov/about-cancer/treatment/types/biomarker-testing-cancer-treatment)
 6. [US Food and Drug Administration — Authorized Companion Diagnostic Devices](https://www.fda.gov/medical-devices/in-vitro-diagnostics/list-fda-authorized-companion-diagnostic-devices-in-vitro-and-imaging-tools)
-
-## Hero Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Why:** The visual pathway explicitly connects a report, microscope, cancer symbol and clinical discussion, matching the article’s patient-facing purpose.
-- **Risk check:** The diagram is non-diagnostic and contains no readable specimen label, patient identifier, provider logo or outcome guarantee.

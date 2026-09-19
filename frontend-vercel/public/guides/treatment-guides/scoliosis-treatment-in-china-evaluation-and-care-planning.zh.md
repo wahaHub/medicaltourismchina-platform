@@ -181,8 +181,3 @@ CDC 建议跨境医疗患者在离境前安排随访并取得完整英文病历�
 7. [脊柱侧弯研究学会（SRS）— 脊柱侧弯手术](https://www.srs.org/Patients/Diagnosis-And-Treatment/Surgery)
 8. [美国骨科医师学会（AAOS）— 神经肌肉性脊柱侧弯](https://orthoinfo.aaos.org/diseases--conditions/neuromuscular-scoliosis/)
 9. [美国疾病控制与预防中心（CDC）— 2026 Yellow Book：跨境医疗](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** 审核通过，保留为 `hero-reviewed.png`。
-- **Editorial note:** 医生手中的平板清楚呈现弯曲脊柱，室内还有第二个侧弯轮廓，能够表达评估和解释，同时没有暗示特定矫正幅度或展示手术。

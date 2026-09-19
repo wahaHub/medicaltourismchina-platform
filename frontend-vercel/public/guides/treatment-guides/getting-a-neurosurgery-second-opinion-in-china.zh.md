@@ -225,8 +225,3 @@ WHO外科安全工作强调麻醉前、切皮前和离开手术室前三次团�
 6. [中国国家政务服务平台 — 医师执业证照信息查询](https://app.gjzwfw.gov.cn/jmopen/webapp/html5/zwfwdoctorsearch/index.html?login=false)
 7. [世界卫生组织 — 安全手术工具与外科安全核查表](https://www.who.int/teams/integrated-health-services/quality-of-care-and-patient-safety/patient-safety-guidance-and-tools/safe-surgery/tool-and-resources)
 8. [美国疾病控制与预防中心 —《黄皮书2026》医疗旅游章节](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** 审核通过并保留为 `hero-reviewed.png`。
-- **Editorial note:** 图片清楚呈现国际患者与陪同人员在具有中国环境特征的诊室中和医生查看脑部影像，符合神经外科第二意见主题；画面没有手术场景、具名医院或疗效承诺。

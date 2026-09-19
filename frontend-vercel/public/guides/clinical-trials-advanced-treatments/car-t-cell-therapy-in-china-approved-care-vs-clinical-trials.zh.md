@@ -178,8 +178,3 @@ CAR-T 可使部分晚期血液肿瘤患者获得持久缓解，但结果不能�
 6. [美国食品药品监督管理局——CD19/BCMA CAR-T 后 T 细胞恶性肿瘤警示](https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/fda-requires-boxed-warning-t-cell-malignancies-following-treatment-bcma-directed-or-cd19-directed)
 7. [EBMT 与 JACIE——CAR-T 全流程最佳实践建议](https://pubmed.ncbi.nlm.nih.gov/31753925/)
 8. [EHA 与 EBMT——免疫效应细胞相关血液毒性共识](https://pubmed.ncbi.nlm.nih.gov/37300386/)
-
-## Image Review
-
-- **结论：** 已完成主题专属 ImageGen 主图替换，并人工复核医学相关性、明显生成瑕疵及中英文共用效果。
-- **编辑说明：** 原图只是带细胞装饰的普通前台咨询，没有白细胞单采、受控制造、桥接、清淋、回输或毒性监护，无法表达 CAR-T 的真实流程。

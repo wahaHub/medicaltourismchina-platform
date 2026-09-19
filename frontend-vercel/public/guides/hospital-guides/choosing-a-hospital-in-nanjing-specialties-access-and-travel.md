@@ -13,7 +13,6 @@
 
 ## Key Takeaways
 
-- Select a Nanjing hospital by the complete clinical dependency chain—not a university name, hospital group, “international” label, or citywide ranking.
 - Nanjing’s main medical areas extend across the central city, Hexi, Xianlin, Jiangning, Jiangbei, and more distant districts. Crossing the Yangtze or changing campuses can become a clinical risk after treatment.
 - Nanjing’s 12320 appointment platform officially supports passport registration, but a successful booking does not prove that every hospital subsystem or department uses the same foreign-identity workflow.
 - Bilingual signs and volunteers help navigation. They do not automatically provide independent medical interpretation for consent, risk discussion, ward rounds, or discharge.

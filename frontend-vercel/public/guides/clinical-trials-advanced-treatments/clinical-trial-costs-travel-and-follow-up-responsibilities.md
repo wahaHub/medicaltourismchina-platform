@@ -161,8 +161,3 @@ Yes, participation is voluntary. Tell the site rather than simply disappearing s
 6. [US National Cancer Institute — What to Expect During a Clinical Trial](https://www.cancer.gov/research/participate/clinical-trials/what-to-expect)
 7. [US Food and Drug Administration — Long-Term Follow-Up After Human Gene Therapy](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/long-term-follow-after-administration-human-gene-therapy-products)
 8. [US Centers for Disease Control and Prevention — Yellow Book: Medical Tourism](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The illustration combines a cost calculation, travel symbol, visit calendar and protection motif in a clinician–patient discussion. It directly supports the article’s planning theme without showing identifiable records or promising an outcome.

@@ -16,7 +16,6 @@
 - Verify the exact hospital campus, building and patient entrance before searching. A hospital name may cover several sites.
 - Measure door-to-clinic and door-to-emergency time at the hours that matter; straight-line distance hides gates, lifts, traffic and indoor walking.
 - Treat the room as a temporary recovery environment. Test bed, toilet, shower, stairs, food, refrigeration, air quality, noise and caregiver workload.
-- Confirm foreign-guest accommodation registration, cancellation rules, deposits and documentation before payment.
 - A hotel or apartment is not a step-down hospital. If the patient needs skilled observation, oxygen, drains, injections or transfer help, arrange an appropriate care setting.
 
 ## Content

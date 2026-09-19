@@ -215,9 +215,3 @@
 5. [上海市人民政府——紧急情况处理指南](https://english.shanghai.gov.cn/en-EmergencyNumbers/20241210/cbc5280b9f96440a93234bfc5e0c1023.html)
 6. [上海市人民政府——12345 政务服务热线](https://english.shanghai.gov.cn/en/20231223/7b8359d283634bd99b4e7a2c5a89314c.html)
 7. [上海市人民政府——上海国际医疗服务地方规范](https://english.shanghai.gov.cn/en-Latest-WhatsNew/20240926/801a7ca7253946808361311826621db9.html)
-
-## Hero Image Review
-
-- **Decision:** 通过，作为 `hero-reviewed.png` 保留。
-- **Why:** 上海城市轮廓、行李与问诊场景共同表达国际患者赴沪就医，没有指向或宣传具体机构。
-- **Risk check:** 未见可读病历、医院标识、水印、侵入性操作、痛苦画面或疗效承诺。

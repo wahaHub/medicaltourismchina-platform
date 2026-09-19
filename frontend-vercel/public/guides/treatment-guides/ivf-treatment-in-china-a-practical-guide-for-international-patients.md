@@ -183,8 +183,3 @@ Start with live birth per intended or actual retrieval and cumulative live birth
 7. [World Health Organization — Infertility Fact Sheet](https://www.who.int/news-room/fact-sheets/detail/infertility)
 8. [National Health Commission of China — Approved Human Assisted Reproductive Technology Institutions](https://www.nhc.gov.cn/wjw/fzszjg/list.shtml)
 9. [American Society for Reproductive Medicine — ICSI for Non-Male-Factor Indications: Committee Opinion (2026)](https://www.asrm.org/practice-guidance/practice-committee-documents/intracytoplasmic-sperm-injection-for-nonmale-factor-indications-a-committee-opinion-2026/)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The image shows a doctor, an international couple, embryo-development imagery and a Chinese city setting. It is directly relevant to IVF care in China and does not depict a named institution, a specific embryo result or a guaranteed pregnancy.

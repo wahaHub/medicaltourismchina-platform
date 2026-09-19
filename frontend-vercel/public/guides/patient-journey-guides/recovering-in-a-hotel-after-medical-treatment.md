@@ -15,7 +15,6 @@
 
 - The hospital—not the booking website—decides whether hotel recovery is clinically appropriate. “Outpatient” does not automatically mean “safe alone.”
 - Inspect the real route from vehicle to bed and bed to bathroom. A beautiful room can still fail because of stairs, a low toilet, a slippery shower, poor lighting or no space for a walker.
-- Name a capable caregiver, define when they must be present and rehearse medicines, wound or device care, food, mobility and emergency escalation.
 - Hotel employees are not clinical observers. Housekeeping, room service and the front desk need practical instructions without being asked to interpret symptoms or administer treatment.
 - Set return-to-hospital triggers before check-in. In an emergency in China, call 120 and give the hotel’s Chinese name, full address, tower, floor and room number.
 

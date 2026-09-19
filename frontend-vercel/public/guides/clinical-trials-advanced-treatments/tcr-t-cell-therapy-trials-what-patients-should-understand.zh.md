@@ -175,8 +175,3 @@ TCR-T 还必须正面回答两个问题：
 7. [美国移植与细胞治疗学会—CRS 与 ICANS 共识分级](https://pubmed.ncbi.nlm.nih.gov/30592986/)
 8. [Journal for ImmunoTherapy of Cancer—TCR 交叉反应的系统安全检测](https://pubmed.ncbi.nlm.nih.gov/37607971/)
 9. [国家药品监督管理局—药物临床试验质量管理规范](https://ypjg.ln.gov.cn/ypjg/zwgk/flfg/zcjd/EC143FD7C4374A2C86E76DB42118D2AA/index.shtml)
-
-## Image Review
-
-- **Decision:** 经编辑复核后通过，复制为 `hero-reviewed.png`。
-- **Editorial note:** 图中的带受体细胞、细胞群和患者筛选图标能够辅助表达工程化免疫细胞与队列筛选；它只是示意图，不能标为多肽—HLA 检测图、显微镜图像或某一种 TCR-T 产品。

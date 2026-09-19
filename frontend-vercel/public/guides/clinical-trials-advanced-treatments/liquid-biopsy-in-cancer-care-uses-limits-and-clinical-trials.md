@@ -150,8 +150,3 @@ White-cell DNA helps distinguish tumour variants from clonal haematopoiesis or p
 7. [New England Journal of Medicine — DYNAMIC Randomized Trial](https://pubmed.ncbi.nlm.nih.gov/35657320/)
 8. [Nature Medicine — Five-Year Outcomes of the DYNAMIC Trial](https://pubmed.ncbi.nlm.nih.gov/40055522/)
 9. [Clinical Cancer Research — False-Positive Plasma Genotyping From Clonal Haematopoiesis](https://pubmed.ncbi.nlm.nih.gov/29567812/)
-
-## Image Review
-
-- **Decision:** Replaced with a topic-specific ImageGen hero and visually reviewed for medical relevance, obvious generation artifacts and bilingual reuse.
-- **Editorial note:** The image is another generic clinician consultation with a test-tube and pathway icons. It does not show blood separation, plasma, cell-free DNA, sequencing, tissue–plasma comparison or residual-disease monitoring, so readers cannot distinguish liquid biopsy from an ordinary laboratory test. Replace it with a non-branded plasma tube, fragmented DNA and a clearly labelled decision pathway without fabricated patient results.

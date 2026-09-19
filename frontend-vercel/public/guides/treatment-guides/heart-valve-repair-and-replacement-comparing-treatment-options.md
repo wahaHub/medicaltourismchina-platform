@@ -183,8 +183,3 @@ No. It avoids an open operation for suitable patients, but has its own anatomica
 4. [American College of Cardiology — 2020 ACC/AHA Heart Valve Disease Guideline, Part 3](https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2020/12/16/22/01/2020-acc-aha-vhd-gl-pt-3-gl-vhd)
 5. [Society of Thoracic Surgeons — ACSD Operative Risk Calculator](https://www.sts.org/resources/acsd-operative-risk-calculator)
 6. [American Heart Association — What Can I Expect When I Go Home After Heart Surgery?](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/How-Can-I-Recover-From-Heart-Surgery.pdf)
-
-## Image Review
-
-- **Decision:** Replaced with a topic-specific ImageGen hero and visually reviewed for medical relevance, obvious generation artifacts and bilingual reuse.
-- **Editorial note:** The original image is a generic consultation with a decorative valve-like heart symbol. It does not compare repair with mechanical or tissue replacement and could be mistaken for branding rather than anatomy.

@@ -213,8 +213,3 @@ WHO 最低试验登记数据集包含一级登记号、登记日期、申办者�
 8. [中国《药物临床试验质量管理规范》（2026年修订，2026年9月1日实施）](https://yjj.sh.gov.cn/qtgzwj/20260608/89cbf084b5cb4eab8fd0fb56d8538a1d.html)
 9. [世界卫生组织——试验登记数据集](https://www.who.int/tools/clinical-trials-registry-platform/network/who-data-set)
 10. [世界卫生组织——一级注册机构名单（含 ChiCTR）](https://www.who.int/tools/clinical-trials-registry-platform/network/primary-registries)
-
-## Image Review
-
-- **Decision:** 经编辑复核后保留，复制为 `hero-reviewed.png`。
-- **Editorial note:** 清单、放大镜、安全盾牌、身份牌、国际患者和医院接待场景能明确表达核验动作。但图中人员可以是协调员，并不代表研究医生或伦理审查人；图片也不能证明任何具体医院或试验已获授权。

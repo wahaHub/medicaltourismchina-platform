@@ -16,7 +16,6 @@
 - Chinese law requires clinicians to explain the condition and medical measures; before surgery, special examinations or special treatment, material risks and alternatives must be explained and explicit consent obtained.[1]
 - A signed Chinese form does not cure a failed conversation. Hospitals are expected to communicate in a way and language the patient can understand.[2][3]
 - Use a trained medical interpreter for material decisions when the patient and clinician do not share enough language. A coordinator or relative should not silently edit the message.
-- Ask what is proposed, why now, what benefit is realistic, what important harms may occur, what alternatives exist and what happens if the patient waits or declines.
 - If the plan changes, consent may need to be revisited. Emergency exceptions are narrow and should not be treated as routine convenience.[1]
 
 ## Content
@@ -187,7 +186,3 @@ Not automatically. Ask the surgeon what foreseeable extensions or conversions ar
 3. [National Health Commission: Response Explaining Informed Consent as a Communication Process](https://www.nhc.gov.cn/zwgk/jianyi/201801/b885f4081c3d43898690bf2bf1b90db9.shtml)
 4. [World Health Organization: WHO Guidelines for Safe Surgery](https://iris.who.int/bitstream/handle/10665/44185/9789241598552_eng.pdf?sequence=1)
 5. [National Health Commission: Measures for Ethical Review of Life Science and Medical Research Involving Humans](https://www.nhc.gov.cn/wjw/c100375/202302/902b4a1dc3af4aba862a6387e6e376dc.shtml)
-
-## Hero Image Review
-
-The original illustration is retained because it presents consent as an active, question-led conversation rather than a rushed signature. The checklist and question symbols reinforce deliberation, and the companion is shown supporting rather than replacing the patient.

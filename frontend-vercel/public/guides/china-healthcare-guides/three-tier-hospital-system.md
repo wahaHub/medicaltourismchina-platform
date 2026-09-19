@@ -17,7 +17,6 @@
 - Tertiary hospitals are expected to handle critical, difficult and complex care and to support specialist services, teaching and lower-level institutions.[2]
 - “Primary care,” “primary healthcare facility” and “Level I hospital” should not be treated as perfect synonyms. Community health centres and township health centres are important parts of first-contact care but are not simply small versions of tertiary hospitals.
 - A higher hospital level is not proof that every department is stronger, that a particular doctor accepts international patients or that the hospital is the best place for rehabilitation and routine follow-up.
-- Verify the hospital’s current official status, then assess the named department, clinical team, required backup services, communication support and follow-up plan.
 
 ## Content
 
@@ -130,7 +129,3 @@ Use the hospital’s exact Chinese legal name and campus, then check public heal
 2. [National Health Commission: Tertiary Hospital Assessment Standards (2025 Edition)](https://www.nhc.gov.cn/yzygj/c100068/202506/25229edc80d34694b7debf54ddef9f9f.shtml)
 3. [National Health Commission: Strengthening First-Contact and Referral Services](https://www.nhc.gov.cn/yzygj/c100068/202411/d85d3ba36c43460fa67deb333f52203b.shtml)
 4. [National Health Commission Government Services: Healthcare Institution Information Search](https://zwfw.nhc.gov.cn/cxx/)
-
-## Hero Image Review
-
-The existing illustration is retained because its three visibly different facility levels and upward referral arrows explain this article’s central distinction at a glance. It contains no hospital name, ranking claim or readable patient data. The image is diagrammatic rather than a claim to show a real Chinese hospital.

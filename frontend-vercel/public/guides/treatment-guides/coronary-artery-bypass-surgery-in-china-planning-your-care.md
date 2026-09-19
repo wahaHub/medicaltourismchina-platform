@@ -15,7 +15,6 @@
 
 - CABG creates new routes around blocked coronary arteries using vessels from the chest, arm or leg. It does not remove atherosclerosis, and long-term preventive treatment remains essential.
 - The operation should be justified against PCI and medical therapy using coronary anatomy, diabetes, heart function, surgical risk, expected durability and the patient's goals—not simply the number of blocked vessels.
-- Ask which coronary targets will be bypassed and which conduits will be used. “Triple bypass” describes the number of grafts, not their material, quality or expected durability.
 - Conventional sternotomy, on-pump or off-pump surgery, minimally invasive access and hybrid treatment are different strategies for selected patients. A smaller incision is not automatically a safer or more complete operation.
 - Cross-border planning must include an adequate recovery period, a local wound and cardiac review, cardiac rehabilitation, and a complete graft map and operative record before travel home.
 
@@ -181,8 +180,3 @@ No. CABG does not cure atherosclerosis. Long-term aspirin where indicated, chole
 4. [American Heart Association — What Can I Expect When I Go Home After Heart Surgery?](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/How-Can-I-Recover-From-Heart-Surgery.pdf)
 5. [American Heart Association — Secondary Prevention After Coronary Artery Bypass Graft Surgery: 2026 Update](https://professional.heart.org/en/science-news/secondary-prevention-after-coronary-artery-bypass-graft-surgery-2026-update/top-things-to-know)
 6. [American Heart Association — What Is Cardiac Rehabilitation?](https://www.heart.org/en/health-topics/cardiac-rehab/what-is-cardiac-rehabilitation)
-
-## Image Review
-
-- **Decision:** Replaced with a topic-specific ImageGen hero and visually reviewed for medical relevance, obvious generation artifacts and bilingual reuse.
-- **Editorial note:** The existing image is a generic consultation with an abstract heart-and-vessel icon. It does not show bypass grafts, a blocked coronary segment or surgical planning, so it is marked pending rather than presented as CABG-specific art.

@@ -203,8 +203,3 @@ No. Resection or ablation targets defined tissue and may offer seizure freedom i
 6. [National Institute for Health and Care Excellence — Epilepsies in Children, Young People and Adults (NG217 PDF)](https://www.nice.org.uk/guidance/ng217/resources/epilepsies-in-children-young-people-and-adults-pdf-66143780239813)
 7. [World Health Organization — Epilepsy Fact Sheet](https://www.who.int/news-room/fact-sheets/detail/epilepsy)
 8. [US Centers for Disease Control and Prevention — Medical Tourism, Yellow Book 2026](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The brain graphic and consultation among a patient, neurologist and surgical team member support the article's emphasis on evaluation and shared decisions. The image does not depict a specific device, invasive electrode or guaranteed seizure outcome.

@@ -13,7 +13,6 @@
 
 ## Key Takeaways
 
-- “A hospital in Beijing” is not a complete destination. Record the official hospital name, department, campus, building and service line before travelling.
 - Beijing’s official medical guide offers a current starting point for facilities with foreign-language services, but inclusion is not a clinical endorsement for a particular condition.[1]
 - The English interface in the “International Service Beijing” mini program can connect eligible users to Beijing 114 appointments; a 2025 municipal notice listed 15 participating hospitals or campuses, so verify current coverage instead of assuming every hospital is included.[1][2]
 - International or special-service clinics may be easier to navigate, but department scope, price, insurance arrangements and emergency coverage vary. Confirm each item in writing.
@@ -196,9 +195,3 @@ Only after confirming that the appointment and service exist there. Campuses can
 5. [People’s Government of Beijing Municipality — Peking Union Medical College Hospital International Medical Services](https://english.beijing.gov.cn/quickguideservices/medicalguide/majormedicalinstitutions/202312/t20231220_3505728.html)
 6. [People’s Government of Beijing Municipality — Peking University International Hospital International Medical Services](https://english.beijing.gov.cn/quickguideservices/medicalguide/majormedicalinstitutions/202510/t20251021_4234745.html)
 7. [National Health Commission Government Service Platform — Public information searches](https://zwfw.nhc.gov.cn/cxx/)
-
-## Hero Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Why:** The Beijing skyline and consultation setting make the location and patient journey legible without showing a specific hospital brand, readable records or a treatment claim.
-- **Risk check:** No logo, watermark, personal medical data, procedure, distress or guaranteed-outcome message is visible.

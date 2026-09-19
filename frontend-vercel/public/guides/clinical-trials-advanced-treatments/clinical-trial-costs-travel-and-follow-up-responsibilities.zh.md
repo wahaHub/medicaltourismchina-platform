@@ -161,8 +161,3 @@ FDA 指南把合理差旅住宿的报销与“为参加研究而支付的补助�
 6. [美国国家癌症研究所——参加临床试验时会经历什么](https://www.cancer.gov/research/participate/clinical-trials/what-to-expect)
 7. [美国食品药品监督管理局——人用基因治疗后的长期随访](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/long-term-follow-after-administration-human-gene-therapy-products)
 8. [美国疾病控制与预防中心——《黄皮书》：跨境医疗](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **决定：** 通过，保留为 `hero-reviewed.png`。
-- **编辑说明：** 画面把费用计算、出行符号、访视日历和保障图形放在医患讨论中，能直接支持文章的规划主题；未显示可识别病历，也没有疗效承诺。

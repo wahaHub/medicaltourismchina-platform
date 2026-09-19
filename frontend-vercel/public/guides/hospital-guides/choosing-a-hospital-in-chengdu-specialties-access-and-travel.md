@@ -17,7 +17,6 @@
 - Measure three distances: the gap between the records and a usable decision; the gap between a specialty label and the complete care team; and the physical distance among the campus, gateway, accommodation, and emergency department.
 - Chengdu Tianfu and Chengdu Shuangliu are different airports. Check the airport printed on every flight sector before choosing a hospital-area hotel or scheduling a same-day visit.
 - An “international” service may help with coordination, but language support, direct billing, inpatient availability, and after-hours clinical coverage still need separate written confirmation.
-- Chengdu can be a staging point for western Sichuan or Tibet. It is not a substitute for a clinician’s high-altitude fitness assessment or a gradual-ascent plan.
 
 ## Content
 

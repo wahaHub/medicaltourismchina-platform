@@ -202,8 +202,3 @@ UAE 后可以发生妊娠，但 NICE 和 ACOG 都指出生育与妊娠结局存�
 6. [美国放射学会——子宫肌瘤影像适宜性标准](https://acsearch.acr.org/docs/3188532/Narrative/)
 7. [美国生殖医学学会——无症状肌瘤切除对生育与流产的影响](https://www.asrm.org/practice-guidance/practice-committee-documents/removal-of-myomas-in-asymptomatic-patients-to-improve-fertility-andor-reduce-miscarriage-rate-a-guideline-2017/)
 8. [美国妇产科医师学会——月经过多](https://www.acog.org/womens-health/faqs/heavy-menstrual-bleeding)
-
-## Image Review
-
-- **结论：** 图片审核通过，保留并命名为 `hero-reviewed.png`。
-- **编辑说明：** 画面清楚呈现多发子宫肌瘤，并在问诊中并列展示药物与手术，符合方案比较主题；没有暗示每一枚肌瘤都必须治疗，也没有承诺任一方案必然成功。

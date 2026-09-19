@@ -146,7 +146,3 @@
 2. [国家医疗保障局：各地医疗服务价格项目对接与查询](https://www.nhsa.gov.cn/art/2026/6/26/art_14_21122.html)
 3. [CDC Yellow Book：境外医疗保险与费用支付](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/travel-insurance.html)
 4. [CDC Yellow Book：医疗旅游](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Hero Image Review
-
-本次保留原插画。画面清楚表现医院费用人员、估算文件和计算器，没有可读价格或个人信息，与文章主题直接一致，也没有暗示费用低廉。

@@ -199,8 +199,3 @@ Keep the target and side, lead-location images, operative report, full component
 5. [US Food and Drug Administration — MRI Benefits and Risks for Patients With Implants](https://www.fda.gov/radiation-emitting-products/mri-magnetic-resonance-imaging/benefits-and-risks)
 6. [US Food and Drug Administration — Preventing Damage to Neurostimulators During CT Scans](https://www.fda.gov/radiation-emitting-products/electronic-medical-devices-x-ray-imaging-and-radiation-therapy-what-know-and-how-prevent-damage/preventing-damage-neurostimulators-during-ct-scans)
 7. [US Centers for Disease Control and Prevention — Medical Tourism, Yellow Book 2026](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The image includes a recognisable intracranial lead, extension and chest pulse-generator diagram alongside multidisciplinary counselling. It supports candidacy and device-planning content without showing a brand, a surgical claim or a guaranteed response.

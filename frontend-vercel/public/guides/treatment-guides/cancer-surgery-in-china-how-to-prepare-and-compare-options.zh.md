@@ -119,9 +119,3 @@
 4. [世界卫生组织——手术安全核查表工具](https://www.who.int/teams/integrated-health-services/quality-of-care-and-patient-safety/patient-safety-guidance-and-tools/safe-surgery/tool-and-resources)
 5. [美国 CDC《黄皮书》——医疗旅行](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
 6. [美国国家癌症研究所——外科病理报告](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/pathology-reports-fact-sheet)
-
-## Hero Image Review
-
-- **结论：** 已完成主题专属 ImageGen 主图替换，并人工复核医学相关性、明显生成瑕疵及中英文共用效果。
-- **Why:** 原图仍是配有“搜索—输液—爱心”图标的通用咨询，没有手术范围、解剖、麻醉准备或恢复规划。
-- **Replacement brief:** 尊重患者的 16:9 术前咨询：外科医生用中性解剖模型和去标识影像，向患者与陪同人比较计划切除范围及必要时转开放的路径；不出现手术室戏剧场景、暴露器官、切口、血液、标识或可读病历。

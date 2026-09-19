@@ -185,8 +185,3 @@
 6. [国家药监局药审中心——《人源性干细胞及其衍生细胞治疗产品临床试验技术指导原则（试行）》](https://www.cde.org.cn/main/news/viewInfoCommon/f82a0fee1e625a1a3834a93cee3836c7)
 7. [国家卫生健康委员会——《医疗卫生机构开展研究者发起的临床研究管理办法》](https://www.nhc.gov.cn/qjjys/c100016/202409/3a3ad0a7b656420d9580b65f2321a623.shtml)
 8. [美国食品药品监督管理局——再生医学产品患者与消费者信息](https://www.fda.gov/vaccines-blood-biologics/consumers-biologics/important-patient-and-consumer-information-about-regenerative-medicine-therapies)
-
-## Image Review
-
-- **结论：** 经编辑复核后保留，复制为 `hero-reviewed.png`。
-- **说明：** 细胞、盾牌、清单、天平和宣传喇叭能直接表达“核验证据与识别营销”的主题；该图仅为概念示意，不是显微图、产品证书或疗效证明。

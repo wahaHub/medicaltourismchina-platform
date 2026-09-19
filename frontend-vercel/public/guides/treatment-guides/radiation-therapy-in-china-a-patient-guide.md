@@ -146,9 +146,3 @@ Confirm the licence and tumour-specific team, then ask who contours the target, 
 5. [US National Cancer Institute — Skin and Nail Changes During Cancer Treatment](https://www.cancer.gov/about-cancer/treatment/side-effects/skin-nail-changes)
 6. [US National Cancer Institute — Radiation Therapy Side Effects](https://www.cancer.gov/about-cancer/treatment/types/radiation-therapy/side-effects)
 7. [American Society for Radiation Oncology — Safety Is No Accident: A Framework for Quality Radiation Oncology Care](https://www.astro.org/ASTRO/media/ASTRO/Patient%20Care%20and%20Research/PDFs/Safety_is_No_Accident.pdf)
-
-## Hero Image Review
-
-- **Decision:** Rejected; replacement pending as `hero-reviewed.png`.
-- **Why:** The original is a generic consultation illustration. It contains no treatment room, positioning device, linear accelerator or other visual cue specific to radiation therapy.
-- **Replacement brief:** Documentary-style 16:9 scene in a modern radiotherapy suite: a radiation therapist checking alignment while an adult patient lies calmly on a treatment couch beneath a realistic linear accelerator; respectful distance, no distress, readable screens, logos, beams, masks covering the face, or science-fiction effects.

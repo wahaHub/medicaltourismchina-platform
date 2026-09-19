@@ -13,7 +13,6 @@
 
 ## Key Takeaways
 
-- Invasive coronary angiography uses a catheter, iodinated contrast and X-rays to show the coronary artery lumen. It is not the same examination as coronary CT angiography.
 - The question should be defined before the procedure: Is the team investigating an emergency, clarifying high-risk symptoms or test results, planning valve or heart surgery, or preparing for possible coronary intervention?
 - A diagnostic angiogram does not automatically authorise balloon angioplasty or a stent. Ask in advance whether same-session PCI is possible and what findings would lead to treatment, deferral, bypass-surgery discussion or medical management.
 - Wrist access often lowers bleeding and vascular complications compared with groin access when appropriate and performed by an experienced team, but anatomy and the planned procedure can still make femoral access reasonable.
@@ -175,8 +174,3 @@ Take the angiography and PCI report, full image study, stent/device identifiers,
 5. [American College of Radiology — Manual on Contrast Media](https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Contrast-Manual)
 6. [国家卫生健康委员会 — 心血管疾病介入诊疗技术临床应用管理规范（2019年版）](https://www.nhc.gov.cn/yzygj/c100068/201911/a4fccc8dd088417f99c892276da6dc93.shtml)
 7. [American Heart Association — Cardiac Catheterization](https://www.heart.org/en/health-topics/heart-attack/diagnosing-a-heart-attack/cardiac-catheterization)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The illustration clearly shows coronary anatomy and a catheter within a vessel during a clinician-patient discussion. It is educational rather than a literal view of the catheterisation laboratory.

@@ -222,9 +222,3 @@ Ask who has clinically reviewed the record and what exact decision or service th
 6. [Shenzhen international portal — Foreigners’ Guide to Services in Shenzhen 2025](https://www.eyeshenzhen.com/download/%E8%8B%B1%E8%AF%AD%E5%A4%96%E7%B1%8D%E4%BA%BA%E5%A3%AB%E5%9C%A8%E6%B7%B1%E6%9C%8D%E5%8A%A1%E6%89%8B%E5%86%8C2025%E6%9B%B4%E6%96%B0.pdf)
 7. [CDC Yellow Book 2026 — Travelers with Chronic Illnesses](https://www.cdc.gov/yellow-book/hcp/travelers-with-additional-considerations/travelers-with-chronic-illnesses.html)
 8. [CDC Yellow Book 2026 — Medical Tourism](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Hero Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Why:** The map, multiple destination markers and conversation directly express a comparison rather than a single-city visit.
-- **Risk check:** Stylised landmarks are illustrative; there is no provider endorsement, readable patient data, medical procedure or promised result.

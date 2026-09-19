@@ -182,8 +182,3 @@ Yes. The protocol should define immediate notification, clinical assessment, org
 5. [International Council for Harmonisation — Q5E Comparability of Biological Products](https://database.ich.org/sites/default/files/Q5E_Guideline.pdf)
 6. [Center for Drug Evaluation — Pharmaceutical Changes for Cell-Therapy Drugs, 2026](https://www.ccfdie.org/zryyxxw/yaop/cfdatz/webinfo/2026/02/1772561610434482.htm)
 7. [European Medicines Agency — GMP and Distribution Guidance for Advanced Therapies](https://www.ema.europa.eu/en/human-regulatory-overview/research-development/compliance-research-development/good-manufacturing-practice/guidance-good-manufacturing-practice-good-distribution-practice-questions-answers)
-
-## Image Review
-
-- **Decision:** Approved after editorial review; copied as `hero-reviewed.png`.
-- **Editorial note:** The cell-to-vial-to-safety-check-to-patient sequence supports the manufacturing and release theme. It remains a simplified pathway and does not represent a batch record, cleanroom, test result or release authorisation.

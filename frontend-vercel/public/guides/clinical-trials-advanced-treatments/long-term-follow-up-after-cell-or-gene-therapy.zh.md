@@ -209,8 +209,3 @@
 3. [美国食品药品监督管理局——CAR-T 产品与 T 细胞恶性肿瘤风险](https://www.fda.gov/safety/medical-product-safety-information/bcma-directed-or-cd19-directed-autologous-chimeric-antigen-receptor-car-t-cell-immunotherapies-fda)
 4. [欧洲药品管理局——基因治疗药品用药后的患者随访](https://www.ema.europa.eu/en/follow-patients-administered-gene-therapy-medicinal-products-scientific-guideline)
 5. [国家市场监督管理总局——《药品不良反应报告和监测管理办法》](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_eb5331517f7b4ed6b31b1bc5e816b88a.html)
-
-## Image Review
-
-- **结论：** 经编辑复核后保留，复制为 `hero-reviewed.png`。
-- **说明：** 医生、患者、身体/健康符号和日历能表达纵向随访；该图不是产品专属复诊日程，不能据此推断检查时间和项目。

@@ -15,7 +15,6 @@
 
 - Choose by the cancer-specific treatment chain: diagnosis, stage, biomarkers, surgery, systemic therapy, radiation, supportive care, complication rescue, and follow-up.
 - “Cancer hospital,” “general hospital,” “national centre,” and “famous specialist” are labels. Ask for case-level evidence that the exact department and campus can deliver the required sequence.
-- Pathology and staging must be settled before relying on a plan. A hospital’s willingness to book a consultation is not acceptance for treatment.
 - A genuine multidisciplinary review should identify participants, records reviewed, disagreements, recommendation, alternatives, and the owner of the final decision.
 - Compare quality through definitions and denominators, not an unexplained success rate. Include treatment delays, complications, unplanned admissions, and missing follow-up.
 

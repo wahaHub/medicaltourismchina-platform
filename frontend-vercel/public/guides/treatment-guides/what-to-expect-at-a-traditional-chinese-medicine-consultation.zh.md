@@ -140,8 +140,3 @@
 6. [海关总署 — 携带或寄递中药材、中成药出境规则](https://online.customs.gov.cn/ociswebserver/pages/jcjybcx/question.html)
 7. [国家卫生健康委 —《中医诊所备案管理暂行办法》](https://www.nhc.gov.cn/wjw/c100221/202201/ae1fa198f00e424a873a13b3818c21c8.shtml)
 8. [中国人大网 —《中华人民共和国医师法》](https://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313104.html)
-
-## Image Review
-
-- **结论：** 通过，可保留为 `hero-simple.png`。
-- **编辑说明：** 画面明确表现一对一中医问诊和可识别药材说明，同时有处方单与调剂环境；没有侵入性操作、可读疗效宣传、品牌或保证性结果。

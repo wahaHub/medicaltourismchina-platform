@@ -17,7 +17,6 @@
 - 手术入路、摩擦界面、固定与稳定性是不同决策。没有一种入路对人人最好，“微创”也不会消除骨折、神经损伤、感染或脱位风险。
 - 要问清能否立即完全负重、哪些髋关节动作限制真正适用，以及何时调整。照搬另一种入路的通用禁忌未必有帮助。
 - 安全出院看的是功能：能转移、用正确助行工具走路、处理必要楼梯、理解用药，并有可行的居住环境。
-- 近期髋部手术和长途旅行都会增加静脉血栓风险。返程时间要经过临床评估，不能跟着固定医疗旅游行程走。
 
 ## Content
 
@@ -172,8 +171,3 @@ CDC 建议跨境医疗患者取得英文病历，并交给后续医务人员。[
 4. [美国骨科医师学会（AAOS）— 假体周围关节感染的诊断与预防](https://www.aaos.org/globalassets/quality-and-practice-resources/pji/pji-clinical-practice-guideline-final-2-17-21.pdf)
 5. [美国骨科医师学会（AAOS）— 全髋关节置换后的活动](https://orthoinfo.aaos.org/recovery/activities-after-hip-replacement)
 6. [美国疾病控制与预防中心（CDC）— 2026 Yellow Book：跨境医疗](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **结论：** 已完成主题专属 ImageGen 主图替换，并人工复核医学相关性、明显生成瑕疵及中英文共用效果。
-- **Editorial note:** 当前插图只有夫妇、行李、飞机图标和通用医院，没有髋关节、置换、辅助步行或术后动作限制信息。新图应体现髋关节专属规划，同时避免展示手术画面或暗示保证康复。

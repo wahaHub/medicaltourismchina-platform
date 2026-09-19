@@ -16,7 +16,6 @@
 - A registry entry is a public study record, not a recommendation, treatment offer or proof that a site currently has a place available.
 - Search more than one source: the Chinese Clinical Trial Registry, China’s drug-trial information platform, ClinicalTrials.gov and the WHO ICTRP can contain different records.[1][2]
 - Search with the diagnosis, subtype, stage, biomarker and city; a broad phrase such as “advanced cancer trial China” produces too much noise.
-- Only the study team can determine eligibility after reviewing the complete case. Matching a few online criteria is not enrollment.
 - Before traveling, confirm site-level recruitment, required tests, language support, costs, follow-up and who handles complications.
 
 ## Content

@@ -213,8 +213,3 @@ WHO把照护转衔中的用药差错列为患者安全重点。[10] 患者、外
 8. [美国疾病控制与预防中心（CDC）— 手术部位感染基础](https://www.cdc.gov/surgical-site-infections/index.html)
 9. [美国疾病控制与预防中心（CDC）— 医疗相关静脉血栓](https://www.cdc.gov/blood-clots/risk-factors/ha-vte.html)
 10. [世界卫生组织（WHO）— 照护转衔中的用药安全](https://www.who.int/publications/i/item/WHO-UHC-SDS-2019.9)
-
-## Image Review
-
-- **结论：** 审核通过，保留并命名为 `hero-reviewed.png`。
-- **编辑说明：** 画面包含康复人员、患者、助行器、训练设备和分阶段活动目标，并有中国环境，能准确表达目标导向的术后康复；没有暗示特定手术或保证恢复速度。

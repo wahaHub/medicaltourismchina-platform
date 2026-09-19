@@ -220,8 +220,3 @@ Obtain actual exposure and procedure details, current medicines, unresolved even
 7. [China Drug Good Clinical Practice (2020, effective at review date)](https://ypjg.ln.gov.cn/ypjg/zwgk/flfg/zcjd/EC143FD7C4374A2C86E76DB42118D2AA/index.shtml)
 8. [World Health Organization — Public Disclosure of Clinical Trial Results](https://www.who.int/news/item/09-04-2015-japan-primary-registries-network)
 9. [National Health Commission of China — Ethical Review Measures for Life-Science and Medical Research Involving Humans](https://www.nhc.gov.cn/wjw/c100375/202302/902b4a1dc3af4aba862a6387e6e376dc.shtml)
-
-## Image Review
-
-- **Decision:** Replaced with a topic-specific ImageGen hero and visually reviewed for medical relevance, obvious generation artifacts and bilingual reuse.
-- **Editorial note:** The existing nurse–patient conversation is pleasant but indistinguishable from a routine appointment. A replacement should show a clear transition: a final study timeline ending, a handover packet moving to a home-country clinician, and separate branches for follow-up, routine care and authorised continued access, without readable medical data or promises of ongoing treatment.

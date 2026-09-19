@@ -159,7 +159,3 @@ It is a planned transfer of stable, recovery or long-term care from a higher-lev
 3. [National Health Commission: Guidance on Establishing a Hierarchical Diagnosis and Treatment System](https://www.nhc.gov.cn/yzygj/c100068/201509/1d374d8faef1403b8d0d41a840ff4e73.shtml)
 4. [National Health Commission: Community Health Centre Service Capacity Standards (2022)](https://www.nhc.gov.cn/jws/c100073/202207/41a895202f914385b8dde47238e22679.shtml)
 5. [National Health Commission: Tertiary Hospital Assessment Standards (2025 Edition)](https://www.nhc.gov.cn/yzygj/c100068/202506/25229edc80d34694b7debf54ddef9f9f.shtml)
-
-## Hero Image Review
-
-The original image is retained because it depicts a referral sequence—clinician, records and receiving hospital—rather than a generic hospital visit. The dotted handover path and travelling patient support the article without naming a real institution or implying guaranteed acceptance.

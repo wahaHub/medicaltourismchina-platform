@@ -149,8 +149,3 @@ MR 引导项目需要放疗医生、治疗师、医学物理师、剂量师、MR
 8. [International Journal of Radiation Oncology Biology Physics——在线 MR 引导自适应首批临床工作流](https://pubmed.ncbi.nlm.nih.gov/26678659/)
 9. [美国医学物理师协会——TG352 MR 引导放疗实施与质控](https://aapm.org/org/structure/?committee_code=TG352)
 10. [Radiotherapy and Oncology——自适应与非自适应 MR 引导治疗的患者体验](https://pubmed.ncbi.nlm.nih.gov/41710668/)
-
-## Image Review
-
-- **Decision:** 经编辑复核后保留，复制为 `hero-reviewed.png`。
-- **Editorial note:** 整合式扫描机架、治疗床、断层图像和靶点标识能把 MR 引导放疗与普通问诊明显区分开。但屏幕图像更像 CT 而非可识别 MR 序列，束流锥也是象征表达，因此不能描述为真实 MR-Linac 屏幕、实时追踪曲线或患者剂量分布。

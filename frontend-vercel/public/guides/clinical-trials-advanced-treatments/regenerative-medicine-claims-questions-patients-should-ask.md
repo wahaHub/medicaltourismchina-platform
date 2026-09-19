@@ -14,7 +14,6 @@
 ## Key Takeaways
 
 - “Regenerative medicine” is an umbrella, not an approval category that guarantees benefit. A proposal may involve cells, genes, engineered tissue, platelet products, marrow or fat preparations, exosomes, scaffolds, devices—or merely a supplement using regenerative language.
-- Translate every claim into a product, patient group, comparator, measurable outcome and time point. “Repairs cartilage” and “reduces knee pain for six months” are not the same claim.
 - Product registration, a clinical-trial listing, a patent, laboratory accreditation and a hospital’s permission to operate each answer different questions. None should be presented as proof of efficacy.
 - Mechanism and imaging can support a hypothesis, but patients need to know whether daily function, symptoms, complications or survival improved and what happened to participants who did not respond.
 - A responsible provider welcomes written questions, names conflicts of interest, explains standard alternatives and failure branches, and does not use deposits or limited-time offers to shorten consent.
@@ -189,8 +188,3 @@ Collection, expansion, differentiation, contamination testing or release can fai
 6. [State Administration for Market Regulation — Measures for the Administration of Medical Advertisements](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/ggjgs/art/2023/art_6584dc1c94c2408db7c73f0b5e3d225a.html)
 7. [State Administration for Market Regulation — Advertising Law of the People’s Republic of China](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_5474cf75173c45d6a0379730fb4e8d97.html)
 8. [US Federal Trade Commission — Orders Against Deceptive Stem-Cell Treatment Marketing](https://www.ftc.gov/news-events/news/press-releases/2025/01/stem-cell-institute-co-founders-companies-banned-marketing-stem-cell-treatments-ordered-pay-more-51)
-
-## Image Review
-
-- **Decision:** Replaced with a topic-specific ImageGen hero and visually reviewed for medical relevance, obvious generation artifacts and bilingual reuse.
-- **Editorial note:** The image shows a generic consultation about unlabelled bottles and could be mistaken for supplements. It does not compare distinct regenerative products, evidence, approval paths or procedural risks. A dedicated verification graphic is required.

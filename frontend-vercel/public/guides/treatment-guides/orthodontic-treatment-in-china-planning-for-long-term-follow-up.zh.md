@@ -209,8 +209,3 @@ BOS建议转诊时提供足够信息，说明初始错牙合、目标、装置�
 7. [美国正畸医师协会（AAO）— 预防牙面白斑脱矿](https://aaoinfo.org/whats-trending/will-treatment-cause-white-marks-on-teeth/)
 8. [英国正畸学会（BOS）— 正畸治疗风险](https://www.bos.org.uk/wp-content/uploads/2023/05/RisksOfOrthodonticTreatment-AdviceSheet-2023.pdf)
 9. [美国疾病控制与预防中心（CDC）— 《黄皮书2026》跨境医疗](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **结论：** 审核通过，保留并命名为 `hero-reviewed.png`。
-- **编辑说明：** 画面表现患者与医生讨论固定正畸装置和疗程节点，并有中国就诊环境，符合“长期监督和复诊规划”主题；没有展示特定品牌、邮寄牙套或保证的最终笑容。

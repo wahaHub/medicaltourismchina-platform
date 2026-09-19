@@ -133,7 +133,3 @@ Ask whether there is an evidence-based alternative, what testing and monitoring 
 3. [National Health Commission of China: Standardized Cancer Diagnosis and Treatment Management](https://www.nhc.gov.cn/yzygj/c100068/201603/fa4e45c3ae6148f5b99ac1a91f6c5ee8.shtml)
 4. [National Health Commission of China: Cancer and Hematologic Disease Guidelines (2022)](https://www.nhc.gov.cn/yzygj/c100068/202204/0c1f7d3aca0545abbeb02030ce255930.shtml)
 5. [National Cancer Institute: Questions to Ask About Cancer Treatment](https://www.cancer.gov/about-cancer/treatment/questions)
-
-## Hero Image Review
-
-The existing illustration is retained for this revision because it clearly shows an oncologist explaining a decision pathway to a patient and companion, contains no readable medical data or claims, and is distinct from the adjacent cancer-guide images. It remains a stylized brand illustration rather than documentary photography.

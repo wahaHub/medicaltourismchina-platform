@@ -16,7 +16,6 @@
 - “Medically cleared” and “ready to walk out” are different states. Treat discharge as six linked closures: clinical, medication, results, devices and function, documents and finance, and physical departure.
 - Reconcile the admission medicine list, inpatient administration record and discharge prescription. Every drug needs an explicit continue, stop, start, hold, restart or as-needed instruction.
 - A pending test is not safely handed over until one person owns it, a review date exists, the patient knows how the result will arrive and an abnormal result has a defined action.
-- Demonstrate wound, drain, catheter, oxygen or mobility care, then have the patient or caregiver demonstrate it back with the actual supplies that will go home.
 - The final test is practical: can the patient or caregiver execute the first 24 hours without guessing about the next dose, meal, dressing, restriction, appointment or emergency contact?
 
 ## Content

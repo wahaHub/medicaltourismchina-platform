@@ -15,7 +15,6 @@
 
 - Medical-health information is sensitive personal information under China’s Personal Information Protection Law (PIPL). Processing it requires a specific purpose, sufficient necessity and strict safeguards.[1]
 - “Send my records abroad” may involve the source hospital, coordinator, translation company, platform, overseas hospital, insurer and family. Identify each recipient and role.
-- Use the minimum necessary record set for the stated purpose. A driver needs mobility instructions, not pathology; a pricing desk may not need the full psychiatric history.
 - Separate consent and cross-border transfer requirements depend on who is processing the information and why. Ask the institution to explain its legal basis and transfer mechanism; do not rely on a blanket checkbox.[1][2]
 - Encrypt files, send the password separately, set link expiry and confirm deletion or return when the task ends. DICOM and document metadata can contain identity even when the filename looks anonymous.[3]
 
@@ -263,7 +262,3 @@ Individuals have deletion rights under specified legal conditions, but hospitals
 4. [National Health Commission: Provisions on the Management of Medical Records in Medical Institutions (2013 Edition)](https://www.nhc.gov.cn/yzygj/c100068/201312/c9955f0471c04450a9f9ab74648fbdd4.shtml)
 5. [Cyberspace Administration of China: Measures on the Standard Contract for Cross-Border Transfer of Personal Information](https://www.cac.gov.cn/2023-02/24/c_1678884830036813.htm)
 6. [National Health Commission: Functional Specification for Electronic Medical Record Systems](https://www.nhc.gov.cn/wjw/gfxwj/201101/a769b5f4b9ca4415a72fa9888bce0bc1.shtml)
-
-## Hero Image Review
-
-The original illustration is retained because the global route, medical file, hospital and central lock directly communicate controlled cross-border health-data transfer. The image contains no readable patient information and does not imply that encryption alone satisfies every legal obligation.

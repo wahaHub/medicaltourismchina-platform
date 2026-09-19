@@ -158,9 +158,3 @@ SBRT 不会让患者带有放射性。射线来自体外，机器停止出束后
 5. [国家卫生健康委员会——WS 582—2017《X、γ射线立体定向放射治疗系统质量控制检测规范》](https://www.nhc.gov.cn/wjw/pcrb/201712/1d9503343d6541dfbf1d6e75f7101da2.shtml)
 6. [国家卫生健康委员会——GBZ 121—2020 放射治疗防护与质量保证要求](https://www.nhc.gov.cn/fzs/c100048/202011/f9805f07f68243c7bf01a209d5b60133/files/1734000632526_37652.pdf)
 7. [美国放射肿瘤学会——SRS/SBRT质量与安全白皮书更新](https://www.astro.org/provider-resources/guidelines/srs-sbrt-safety-white-paper)
-
-## Hero Image Review
-
-- **Decision:** 通过，保留为 `hero-reviewed.png`。
-- **Why:** 图中明确出现身体CT横断面、小范围靶区和多条汇聚的射线路径，医生正在向患者解释概念，能够识别SBRT主题；没有患者身份、品牌宣传或刺激性操作细节。
-- **Editorial note:** 图上的射线路径属于简化示意，不能当作真实患者计划或精确剂量分布展示。

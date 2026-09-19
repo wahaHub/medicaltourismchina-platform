@@ -140,8 +140,3 @@ It is not a safe or practical choice. Obtain the complete prescription and label
 6. [General Administration of Customs of China — Rules for Carrying or Mailing Chinese Herbs and Patent Medicines Abroad](https://online.customs.gov.cn/ociswebserver/pages/jcjybcx/question.html)
 7. [National Health Commission of China — Interim Measures for Filing TCM Clinics](https://www.nhc.gov.cn/wjw/c100221/202201/ae1fa198f00e424a873a13b3818c21c8.shtml)
 8. [National People’s Congress of China — Physicians Law of the People’s Republic of China](https://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313104.html)
-
-## Image Review
-
-- **Decision:** Approved for publication and retained as `hero-simple.png`.
-- **Editorial note:** The scene clearly depicts a one-to-one TCM consultation and discussion of identifiable herbal materials, with a prescription sheet and dispensing context. It contains no invasive procedure, readable claim, branding or guaranteed outcome.

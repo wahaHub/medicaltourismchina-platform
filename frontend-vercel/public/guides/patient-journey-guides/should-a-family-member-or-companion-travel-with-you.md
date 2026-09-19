@@ -13,7 +13,6 @@
 
 ## Key Takeaways
 
-- Decide from the patient's functional and treatment workload, not a blanket rule that everyone must—or must not—bring family.
 - “Companion” can mean emotional support, navigator, interpreter, authorised representative, physical helper or post-discharge observer. One person may not safely cover every role.
 - Being a spouse or adult child does not automatically confer access to records or authority to consent. Prepare task-specific authorisations.
 - Confirm hospital, ward and infection-control rules before travel; bedside companion numbers and visiting hours may be restricted.

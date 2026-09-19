@@ -180,8 +180,3 @@ AI 经常被称为“第二双眼睛”，但提示出现的时间、位置和�
 7. [Nature Medicine——DECIDE-AI 真实临床评价报告规范](https://www.nature.com/articles/s41591-022-01772-9)
 8. [The Lancet——MASAI 人工智能辅助乳腺筛查随机试验](https://pubmed.ncbi.nlm.nih.gov/41620232/)
 9. [European Radiology——错误 AI 结果对胸片阅片者的影响](https://pubmed.ncbi.nlm.nih.gov/37266657/)
-
-## Image Review
-
-- **Decision:** 经编辑复核后保留，复制为 `hero-reviewed.png`。
-- **Editorial note:** 图中同时出现临床人员、患者、放射影像和 AI 分析符号，主题辨识度明显高于普通问诊图。但它仍是概念插图：胸片与脑部符号不是同一真实产品的连贯输出，不能描述为诊断结果、真实热图或已验证软件界面。

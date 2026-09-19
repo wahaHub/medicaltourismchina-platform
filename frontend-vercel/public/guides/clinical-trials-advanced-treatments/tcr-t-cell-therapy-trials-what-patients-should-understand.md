@@ -175,8 +175,3 @@ Only if the protocol and treating centre clear it. Early inflammatory, neurologi
 7. [American Society for Transplantation and Cellular Therapy — Consensus Grading for CRS and ICANS](https://pubmed.ncbi.nlm.nih.gov/30592986/)
 8. [Journal for ImmunoTherapy of Cancer — Systematic Safety Testing for TCR Cross-Reactivity](https://pubmed.ncbi.nlm.nih.gov/37607971/)
 9. [National Medical Products Administration — Good Clinical Practice for Drug Trials](https://ypjg.ln.gov.cn/ypjg/zwgk/flfg/zcjd/EC143FD7C4374A2C86E76DB42118D2AA/index.shtml)
-
-## Image Review
-
-- **Decision:** Approved after editorial review; copied as `hero-reviewed.png`.
-- **Editorial note:** The receptor-bearing cells, cell group and patient-selection icons support the concepts of engineered immune cells and cohort screening. The image is schematic and must not be presented as a peptide-HLA assay, a microscope image or a particular TCR-T product.

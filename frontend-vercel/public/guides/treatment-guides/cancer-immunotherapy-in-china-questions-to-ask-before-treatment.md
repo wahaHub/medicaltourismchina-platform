@@ -16,7 +16,6 @@
 - “Immunotherapy” is an umbrella term, not a regimen. Immune checkpoint inhibitors, CAR T-cell therapy, treatment vaccines and other approaches are clinically different.
 - Match the exact generic drug and combination to the cancer type, stage, line of treatment, biomarker requirements and current indication. A positive PD-L1 result is not a universal guarantee of benefit.
 - Checkpoint inhibitors can inflame healthy organs. New diarrhoea, cough, breathlessness, jaundice, weakness, confusion or hormonal symptoms deserve prompt assessment—even after treatment has stopped.
-- Tell the oncologist about autoimmune disease, organ or stem-cell transplantation, chronic infections and prior immune toxicity before treatment is booked.
 - Carry an immunotherapy alert record across borders. Emergency clinicians need the drug name, last dose, treating contact and prior immune-related adverse events.
 
 ## Content
@@ -142,9 +141,3 @@ No. CAR T-cell therapy involves collecting and modifying immune cells and has di
 6. [US National Cancer Institute — Organ-Related Inflammation and Immunotherapy](https://www.cancer.gov/about-cancer/treatment/side-effects/organ-inflammation)
 7. [US National Cancer Institute — Side Effects of Immunotherapy](https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/side-effects)
 8. [ASCO Guideline Update — Management of Immune-Related Adverse Events](https://pubmed.ncbi.nlm.nih.gov/34724392/)
-
-## Hero Image Review
-
-- **Decision:** Rejected; replacement pending as `hero-reviewed.png`.
-- **Why:** The original repeats the generic doctor–patient consultation composition and uses abstract shield, cell and IV icons that do not show an immunotherapy-specific clinical decision or safety task.
-- **Replacement brief:** Natural 16:9 oncology consultation: patient and oncologist review a simple, non-readable body-system monitoring checklist and an immunotherapy alert card, with a companion present; documentary lighting, no molecular graphics, shield metaphors, logos, drug brands, personal data, visible needles or futuristic effects.

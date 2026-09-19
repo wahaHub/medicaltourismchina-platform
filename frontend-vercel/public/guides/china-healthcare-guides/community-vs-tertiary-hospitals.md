@@ -131,7 +131,3 @@ Often some of it can, especially routine monitoring or rehabilitation, but only 
 3. [National Health Commission: Strengthening First-Contact and Referral Services](https://www.nhc.gov.cn/yzygj/c100068/202411/d85d3ba36c43460fa67deb333f52203b.shtml)
 4. [National Health Commission: Primary Healthcare Standards, including WS/T 810—2022 on Urgent-Patient Recognition and Referral](https://www.nhc.gov.cn/wjw/c100309/wsbz.shtml)
 5. [National Health Commission: Measures to Accelerate the Hierarchical Diagnosis and Treatment System (2026)](https://www.nhc.gov.cn/wjw/mtbd/202604/7f64a7d2f54c4f7197692ff18869b02a.shtml)
-
-## Hero Image Review
-
-The original image is retained because it clearly contrasts a small neighbourhood facility with a large tertiary hospital and places the patient between two care pathways. It supports a navigation decision without depicting either setting as universally superior.

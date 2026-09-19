@@ -15,7 +15,6 @@
 
 - Build travel dates from a clinical window, not a treatment salesperson’s single date. Arrival, admission, discharge and fitness to fly are separate milestones.
 - Compare the total changeable itinerary—not the cheapest ticket or nightly rate. Refundability can be valuable when pathology, recovery or treatment timing is uncertain.
-- Price two people on two timelines. The patient may be admitted while the companion still pays for lodging, meals, local transport and laundry.
 - Use three scenarios: planned stay, extended stay and disruption/complication. Give each a daily cash-burn rate and an identified funding source.
 - Confirm accessibility, foreign-guest registration, payment, deposits, cancellation and invoice requirements directly with the property before booking.
 

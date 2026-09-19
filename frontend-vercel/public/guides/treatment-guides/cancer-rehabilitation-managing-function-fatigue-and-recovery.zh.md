@@ -145,8 +145,3 @@
 6. [美国国家癌症研究所（NCI）— 癌症治疗相关周围神经问题](https://www.cancer.gov/about-cancer/treatment/side-effects/nerve-problems)
 7. [美国国家癌症研究所（NCI）— 淋巴水肿与癌症](https://www.cancer.gov/about-cancer/treatment/side-effects/lymphedema)
 8. [美国国家癌症研究所（NCI）— 头颈部肿瘤的康复与支持](https://www.cancer.gov/types/head-and-neck/head-neck-fact-sheet)
-
-## Image Review
-
-- **结论：** 通过，可保留为 `hero-simple.png`。
-- **编辑说明：** 头巾自然提示治疗阶段但没有表现痛苦；手杖、治疗球、轻器械和一对一康复讨论能够同时支撑功能、疲劳与恢复主题。图中没有文字、标志、侵入操作或疗效承诺。

@@ -15,7 +15,6 @@
 
 - 是否置换膝关节，要把疼痛与功能损失、查体和负重影像放在一起判断；X 光片“很严重”本身不能决定手术。
 - 全膝与单髁置换解决的是不同问题。要问清受损间室、韧带条件，以及哪些术中发现会改变原方案。
-- 植入物品牌只是一个环节；固定方式、力线策略、髌骨处理、医生经验和可追溯的植入物记录同样重要。
 - 感染预防、静脉血栓预防和多模式镇痛应在术前分别写清。近期手术叠加长途飞行会进一步增加血栓风险。
 - 不要按照“医疗套餐天数”预订返程。应在伤口、活动能力、疼痛和防血栓方案允许时返程，并提前接好当地随访。
 
@@ -162,8 +161,3 @@ CDC 建议跨境医疗患者索取英文病历，并交给后续医务人员。[
 4. [美国骨科医师学会（AAOS）— 全膝关节置换后的活动](https://orthoinfo.aaos.org/en/recovery/activities-after-knee-replacement/)
 5. [美国骨科医师学会（AAOS）— 全膝关节置换康复锻炼指南](https://orthoinfo.aaos.org/recovery/total-knee-replacement-exercise-guide/)
 6. [美国疾病控制与预防中心（CDC）— 2026 Yellow Book：跨境医疗](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** 审核通过，保留为 `hero-reviewed.png`。
-- **Editorial note:** 画面呈现患者在助行器旁与康复人员讨论恢复，符合“患者规划指南”的主题。该图用于表达术后步行与康复规划，并不作为植入物或手术解剖示意图。

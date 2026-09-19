@@ -260,7 +260,3 @@
 4. [美国国家癌症研究所：外科病理报告与病理第二意见](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/pathology-reports-fact-sheet)
 5. [国家卫生健康委：《医疗机构病历管理规定（2013年版）》](https://www.nhc.gov.cn/yzygj/c100068/201312/c9955f0471c04450a9f9ab74648fbdd4.shtml)
 6. [美国国家癌症研究所：肿瘤标志物](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/tumor-markers-fact-sheet)
-
-## Hero Image Review
-
-原图不予保留。它只是医生向患者讲解通用诊疗流程，没有病理切片、标本标识、实验室数据或复核工作台，不能支撑本文主题。替换图应表现病理科与检验科人员核对带标签的切片、不可读个人信息的最终报告和趋势图，避免出现可识别病历及夸张科技画面。

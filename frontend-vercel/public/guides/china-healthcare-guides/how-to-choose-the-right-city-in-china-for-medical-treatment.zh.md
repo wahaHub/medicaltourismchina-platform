@@ -220,9 +220,3 @@
 6. [深圳国际门户——2025 年外籍人士在深服务手册](https://www.eyeshenzhen.com/download/%E8%8B%B1%E8%AF%AD%E5%A4%96%E7%B1%8D%E4%BA%BA%E5%A3%AB%E5%9C%A8%E6%B7%B1%E6%9C%8D%E5%8A%A1%E6%89%8B%E5%86%8C2025%E6%9B%B4%E6%96%B0.pdf)
 7. [美国疾控中心《黄皮书》2026——慢性病旅行者](https://www.cdc.gov/yellow-book/hcp/travelers-with-additional-considerations/travelers-with-chronic-illnesses.html)
 8. [美国疾控中心《黄皮书》2026——医疗旅行](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Hero Image Review
-
-- **Decision:** 通过，作为 `hero-reviewed.png` 保留。
-- **Why:** 地图、多个目的地标记和讨论场景直接表达城市比较，不是单一城市或泛问诊画面。
-- **Risk check:** 地标仅作示意，没有机构背书、可读患者资料、医疗操作或疗效承诺。

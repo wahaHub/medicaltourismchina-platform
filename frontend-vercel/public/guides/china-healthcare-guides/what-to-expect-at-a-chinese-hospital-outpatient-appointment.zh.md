@@ -165,7 +165,3 @@
 3. [国家卫生健康委：《病历书写基本规范》](https://www.nhc.gov.cn/wjw/gfxwj/200205/8348500efb5b490c8db6519e818e96e3.shtml)
 4. [国家卫生健康委：2025 年检查检验互认为民服务项目](https://www.nhc.gov.cn/bgt/c100023/202502/e730c90e23a24e419bc0509632f62bad.shtml)
 5. [国家卫生健康委：《医疗机构病历管理规定》](https://www.nhc.gov.cn/zwgkzt/glgf/201306/d7bd030b5a2b4f8f88967c73d3e5c0ca.shtml)
-
-## Hero Image Review
-
-保留原配图。画面准确表现国际患者和陪同者在门诊与医生交流，背景可见候诊区域且没有可读病历。它代表流程中的一个环节，不暗示所有门诊拥有相同环境或等待时间。

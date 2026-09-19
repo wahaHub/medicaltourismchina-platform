@@ -224,7 +224,3 @@ Activate the written clinical escalation route, connect the patient with the tre
 5. [State Administration for Market Regulation: Measures for the Administration of Medical Advertisements](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/ggjgs/art/2023/art_6584dc1c94c2408db7c73f0b5e3d225a.html)
 6. [US Centers for Disease Control and Prevention: Medical Tourism, Yellow Book](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
 7. [National Health Commission: Nine Standards for Integrity in Medical Institutions](https://www.nhc.gov.cn/yzygj/c100067/202111/10374396aa0e4d21a068b5f30eea3691.shtml)
-
-## Hero Image Review
-
-The original illustration is retained because its split panel directly shows the role boundary: scheduling, communication, records and team coordination on one side; clinical authority, prescribing, money and institutional decisions on the other. Although the coordinator wears healthcare-style clothing, the surrounding symbols make the intended distinction clear.

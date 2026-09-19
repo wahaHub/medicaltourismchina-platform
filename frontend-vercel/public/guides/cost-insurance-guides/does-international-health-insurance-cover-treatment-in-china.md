@@ -14,7 +14,6 @@
 ## Key Takeaways
 
 - There is no universal answer. Coverage depends on the exact policy wording, country/area, planned versus emergency care, diagnosis, treatment, provider and authorization.
-- “Covered,” “pre-authorized,” “direct billing” and “claim paid” are different states. Obtain written evidence for each one.
 - Planned treatment abroad often follows different rules from an unexpected illness during travel. Do not use a travel-emergency benefit as proof that elective care in China is covered.
 - A hospital may work with an insurer but not through every campus, department or service channel. Verify the exact legal entity and appointment.
 - Keep a self-pay contingency. A guarantee of payment may have limits, exclusions and patient cost-sharing, and final coding can change the insurer’s decision.

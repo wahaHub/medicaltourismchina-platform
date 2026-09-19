@@ -16,7 +16,6 @@
 - Separate entry requirements, routine vaccines, itinerary-specific vaccines and treatment-specific precautions. They answer different questions.
 - Review the exact route—not only “China.” Province, season, rural exposure, animals, food/water and transit countries can change advice.
 - Tell the travel clinician about chemotherapy, radiotherapy, transplant, immune-modifying drugs, pregnancy, splenectomy and recent blood products before any vaccine is given.
-- Live and non-live vaccines are not interchangeable. Immune suppression can change both safety and expected response.
 - The goal is not a perfect vaccine record at any cost. It is to reduce preventable infection without disrupting clinically necessary treatment.
 
 ## Content

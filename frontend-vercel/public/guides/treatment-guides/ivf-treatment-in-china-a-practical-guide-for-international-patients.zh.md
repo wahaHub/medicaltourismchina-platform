@@ -183,8 +183,3 @@ CDC 说明，辅助生殖结局可以按计划取卵、实际取卵、每次移�
 7. [世界卫生组织——不孕症事实清单](https://www.who.int/news-room/fact-sheets/detail/infertility)
 8. [中华人民共和国国家卫生健康委员会——经批准开展人类辅助生殖技术的医疗机构](https://www.nhc.gov.cn/wjw/fzszjg/list.shtml)
 9. [美国生殖医学学会——非男性因素适应证使用 ICSI：委员会意见（2026）](https://www.asrm.org/practice-guidance/practice-committee-documents/intracytoplasmic-sperm-injection-for-nonmale-factor-indications-a-committee-opinion-2026/)
-
-## Image Review
-
-- **结论：** 图片审核通过，保留并命名为 `hero-reviewed.png`。
-- **编辑说明：** 图片包含医生、国际患者夫妇、胚胎发育示意和中国城市背景，与赴华 IVF 主题直接相关；画面没有指向具体医院、特定胚胎结果或保证怀孕。

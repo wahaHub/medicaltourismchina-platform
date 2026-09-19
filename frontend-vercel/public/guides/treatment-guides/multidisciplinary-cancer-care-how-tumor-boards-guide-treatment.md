@@ -231,9 +231,3 @@ Sometimes. The hospital must confirm that it accepts remote records and whether 
 4. [NHS England — Streamlining Multidisciplinary Team Meetings: Guidance for Cancer Alliances](https://www.england.nhs.uk/publication/streamlining-mdt-meetings-guidance-cancer-alliances/)
 5. [NICE — Shared decision-making principles for patient decision aids](https://www.nice.org.uk/process/pmg42/chapter/introduction)
 6. [US National Cancer Institute — Surgical Pathology Reports and Tumor Review Boards](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/pathology-reports-fact-sheet)
-
-## Hero Image Review
-
-- **Decision:** Rejected; replacement pending as `hero-reviewed.png`.
-- **Why:** The original shows one doctor presenting to a patient and companion. A small “group” icon is not enough to represent specialists jointly reviewing imaging, pathology and treatment options.
-- **Replacement brief:** A genuine conference scene with a surgeon, medical oncologist, radiation oncologist, radiologist and pathologist around one non-readable case display; balanced participation, no logos, patient identifiers or futuristic holograms.

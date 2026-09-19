@@ -13,7 +13,6 @@
 
 ## Key Takeaways
 
-- 心悸是症状，不是消融诊断。计划有创操作前，应尽量在症状发生时记录心律，并确认它与患者感受相对应。
 - 房颤、典型房扑、房室结折返性心动过速、旁路心动过速、局灶性房速、室性早搏和室性心动过速的靶点、成功标准与风险各不相同。
 - 电生理检查可以诱发并标测心律失常，消融再用能量改变很小的组织或传导路径。有些操作短而局灶，持续性房颤或瘢痕性室速则可能范围更大并需要重复治疗。
 - 房颤消融后没有心悸，并不自动表示卒中风险消失。抗凝必须依照书面风险方案，不能因为可穿戴设备显示窦律就自行停药。
@@ -170,8 +169,3 @@
 5. [美国心脏病学会（ACC）— 2024 ESC 心房颤动指南要点](https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2024/09/17/04/05/2024-esc-guidelines-for-af-esc-2024)
 6. [美国心脏协会（AHA）— 心律失常导管消融](https://www.heart.org/en/health-topics/arrhythmia/prevention--treatment-of-arrhythmia/ablation-for-arrhythmias)
 7. [国家卫生健康委员会 — 心血管疾病介入诊疗技术临床应用管理规范（2019年版）](https://www.nhc.gov.cn/yzygj/c100068/201911/a4fccc8dd088417f99c892276da6dc93.shtml)
-
-## Image Review
-
-- **Decision:** 审核通过，保留为 `hero-reviewed.png`。
-- **Editorial note:** 配图同时呈现心电波形、心腔电活动路径和局灶导管靶点，适合作为电生理主题示意；它不表示所有心律失常共享同一条环路。

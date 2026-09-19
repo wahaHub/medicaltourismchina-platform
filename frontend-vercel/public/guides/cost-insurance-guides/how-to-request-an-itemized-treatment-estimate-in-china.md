@@ -146,7 +146,3 @@ Ask for an itemized comparison with the estimate, identify added or changed serv
 2. [National Healthcare Security Administration: Local Implementation of Medical Service Price Items](https://www.nhsa.gov.cn/art/2026/6/26/art_14_21122.html)
 3. [CDC Yellow Book: Travel Insurance and Paying for Care Abroad](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/travel-insurance.html)
 4. [CDC Yellow Book: Medical Tourism](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Hero Image Review
-
-The existing illustration is retained. It clearly shows a hospital financial counselor, estimate papers and calculator without readable prices or personal information. The scene directly matches the article and makes no claim about affordability.

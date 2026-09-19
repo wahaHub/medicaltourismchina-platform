@@ -137,9 +137,3 @@
 6. [国家药监局食品药品审核查验中心——抗肿瘤药物非原研伴随诊断试剂注册审查指导原则](https://www.ccfdie.org/cn/yjxx/yphzp/webinfo/2021/12/1640589634851672.htm)
 7. [美国国家癌症研究所——癌症靶向治疗](https://www.cancer.gov/about-cancer/treatment/types/targeted-therapies)
 8. [美国国家癌症研究所——癌症治疗为什么会失效](https://www.cancer.gov/about-cancer/treatment/research/drug-combo-resistance)
-
-## Hero Image Review
-
-- **结论：** 已完成主题专属 ImageGen 主图替换，并人工复核医学相关性、明显生成瑕疵及中英文共用效果。
-- **Why:** DNA 和靶心图标只是装饰在另一幅通用咨询场景上，没有呈现标本、实验室方法、报告解读或药物匹配决定。
-- **Replacement brief:** 纪实感 16:9 实验室会诊：分子病理医生与肿瘤科医生对照一份去标识且不可读的生物标志物报告，并区分组织蜡块与血液管两类样本；不出现患者身份、可读变异、巨型DNA链、发光靶心、标识或科幻界面。

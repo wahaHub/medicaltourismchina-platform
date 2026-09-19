@@ -15,7 +15,6 @@
 
 - “Bispecific antibody” describes the ability to bind two targets, not one uniform treatment mechanism. Some redirect T cells; others block two signalling receptors, bind two sites on one receptor or combine immune-checkpoint functions.
 - For a T-cell engager, name both sides—for example, a tumour or blood-cell antigen and CD3. The target pair, molecular format, dose schedule and disease are not interchangeable.
-- Many T-cell-engaging products use step-up doses and premedication to reduce cytokine release syndrome (CRS), but the exact schedule and observation requirements are product-specific.
 - Neurological toxicity, cytopenias, serious or opportunistic infection, low immunoglobulins and tumour lysis can matter in addition to CRS. Non-CD3 bispecifics have different dominant risks.
 - These are generally ready-made medicines rather than patient-specific cell manufacture, yet treatment may involve repeated doses, prolonged immune suppression and strict local access during high-risk periods.
 
@@ -192,8 +191,3 @@ Only if the protocol or treating team allows it and a qualified home centre has 
 8. [American Society for Transplantation and Cellular Therapy — Consensus Grading for CRS and ICANS](https://pubmed.ncbi.nlm.nih.gov/30592986/)
 9. [Blood Advances — Infections With Bispecific Antibodies in Lymphoma](https://pubmed.ncbi.nlm.nih.gov/38625983/)
 10. [National Medical Products Administration — Good Clinical Practice for Drug Trials](https://ypjg.ln.gov.cn/ypjg/zwgk/flfg/zcjd/EC143FD7C4374A2C86E76DB42118D2AA/index.shtml)
-
-## Image Review
-
-- **Decision:** Replaced with a topic-specific ImageGen hero and visually reviewed for medical relevance, obvious generation artifacts and bilingual reuse.
-- **Editorial note:** The existing image is a generic five-step consultation graphic. It does not show two-target binding, immune-cell bridging, step-up dosing or toxicity monitoring, and therefore cannot accurately introduce bispecific-antibody care.

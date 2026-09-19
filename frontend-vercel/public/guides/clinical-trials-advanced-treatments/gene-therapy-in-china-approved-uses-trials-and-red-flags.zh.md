@@ -192,8 +192,3 @@ CRISPR 是一种基因组编辑工具。基因治疗范围更广，还包括基�
 8. [美国食品药品监督管理局—致死性肝损伤后修订基因治疗适应证](https://www.fda.gov/news-events/press-announcements/fda-approves-new-safety-warning-and-revised-indication-limits-use-elevidys-following-reports-fatal)
 9. [世界卫生组织—人类基因组编辑建议](https://iris.who.int/bitstream/handle/10665/342486/9789240030381-eng.pdf)
 10. [司法部国家行政法规库—中华人民共和国人类遗传资源管理条例](https://xzfg.moj.gov.cn/front/law/detail?LawID=446)
-
-## Image Review
-
-- **Decision:** 经编辑复核后通过，复制为 `hero-reviewed.png`。
-- **Editorial note:** DNA、上海场景和批准/检索/警示符号符合监管核验与风险信号主题；它不是基因治疗产品、批准标签或患者遗传结果。

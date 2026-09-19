@@ -191,8 +191,3 @@
 4. [美国心脏协会（AHA）— 制定适合自己的身体活动计划](https://www.heart.org/en/health-topics/cardiac-rehab/getting-physically-active/develop-a-physical-activity-plan-for-you)
 5. [美国心脏协会（AHA）— 心力衰竭的心脏康复](https://www.heart.org/en/health-topics/heart-failure/treatment-options-for-heart-failure/cardiac-rehab-for-heart-failure)
 6. [世界卫生组织（WHO）— 健康自我照护干预综合指南](https://iris.who.int/bitstream/handle/10665/325480/9789241550550-eng.pdf)
-
-## Image Review
-
-- **Decision:** 审核通过，保留为 `hero-reviewed.png`。
-- **Editorial note:** 画面呈现身着运动服的患者、康复人员、辅助移动工具和简单训练器械，能够表达医学指导下的恢复，同时没有暗示固定运动剂量。

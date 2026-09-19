@@ -168,7 +168,3 @@ Ask what remains preliminary, which tests are still required, whether the hospit
 2. [National Health Commission: Detailed Rules for Supervision of Internet Diagnosis](https://www.nhc.gov.cn/yzygj/c100068/202203/2072f0e8988249e59d942e1b2a933916.shtml)
 3. [National Health Commission: Basic Functional Specification for Telemedicine Information Systems (WS/T 529—2016)](https://www.nhc.gov.cn/mohwsbwstjxxzx/s8553/201612/aa12dc0f50024c38a48ff4113e3566f4/files/1740020998095_81610.pdf)
 4. [National Health Commission: Electronic Medical Record Application Management Specification](https://www.nhc.gov.cn/wjw/c100175/201702/90f3de8ae03d488cbddf509dc958f75b.shtml)
-
-## Hero Image Review
-
-The original image is retained because it clearly shows a live cross-border video consultation, note-taking and a private home setting. It contains no readable patient data and does not imply that a suitcase or treatment plan has already been approved.

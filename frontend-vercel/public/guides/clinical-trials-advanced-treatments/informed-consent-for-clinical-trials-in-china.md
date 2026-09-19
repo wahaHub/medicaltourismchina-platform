@@ -149,8 +149,3 @@ Not necessarily. Future sample or data use may be optional, but some biomarker t
 5. [National Health Commission of China and Partner Ministries — Measures for Ethical Review of Life Science and Medical Research Involving Humans, 2023](https://www.nhc.gov.cn/wjw/c100375/202302/902b4a1dc3af4aba862a6387e6e376dc.shtml)
 6. [Ministry of Science and Technology of China — Implementing Rules for the Regulation on Human Genetic Resources, 2023](https://www.most.gov.cn/xxgk/xinxifenlei/fdzdgknr/fgzc/bmgz/202306/t20230601_186416.html)
 7. [Chinese National Regulators — Revised Drug GCP, Effective 1 September 2026](https://yjj.sh.gov.cn/qtgzwj/20260608/89cbf084b5cb4eab8fd0fb56d8538a1d.html)
-
-## Image Review
-
-- **Decision:** Replaced with a topic-specific ImageGen hero and visually reviewed for medical relevance, obvious generation artifacts and bilingual reuse.
-- **Editorial note:** The existing illustration shows a reception-style conversation and a clipboard with generic icons. It has no ethics-approved consent document, trial arms, risk and alternatives discussion, signature or copy handover, so it does not depict informed consent accurately.

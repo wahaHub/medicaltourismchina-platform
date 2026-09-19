@@ -149,8 +149,3 @@ No. It may support smaller margins or better organ sparing in selected workflows
 8. [International Journal of Radiation Oncology Biology Physics — First Online MR-Guided Adaptive Clinical Workflow](https://pubmed.ncbi.nlm.nih.gov/26678659/)
 9. [American Association of Physicists in Medicine — TG352 MR-Guided Radiotherapy Implementation and QA](https://aapm.org/org/structure/?committee_code=TG352)
 10. [Radiotherapy and Oncology — Patient Experience With Adaptive vs Non-Adaptive MR-Guided Treatment](https://pubmed.ncbi.nlm.nih.gov/41710668/)
-
-## Image Review
-
-- **Decision:** Approved after editorial review; copied as `hero-reviewed.png`.
-- **Editorial note:** The integrated scanner, treatment couch, cross-sectional images and target marker clearly distinguish MR-guided radiotherapy from a generic consultation. The monitor resembles CT more than a defined MR sequence and the beam cone is symbolic, so the image must not be described as a real MR-Linac screen, live tracking trace or patient dose distribution.

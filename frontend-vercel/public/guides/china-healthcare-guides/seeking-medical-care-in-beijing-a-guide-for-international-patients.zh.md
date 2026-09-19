@@ -13,7 +13,6 @@
 
 ## Key Takeaways
 
-- “去北京某医院”还不是完整计划。出发前应把医院全称、科室、院区、楼宇和就医服务类型写清楚。
 - 北京市政府的外国人就医指南可以帮助查找提供外语服务的机构，但被列入指南不等于适合某位患者或某种疾病。[1]
 - “京通”中的“International Service Beijing”医疗服务可进入北京 114 英文预约；北京市政府 2025 年答复列出当时支持全程英文预约的 15 家医院或院区，使用前仍要查看最新范围。[1][2]
 - 国际医疗部、特需门诊和普通门诊在语言、价格、保险、科室覆盖和急诊后备上可能不同，不能只看医院名称。
@@ -194,9 +193,3 @@
 5. [北京市人民政府——北京协和医院国际医疗服务](https://english.beijing.gov.cn/quickguideservices/medicalguide/majormedicalinstitutions/202312/t20231220_3505728.html)
 6. [北京市人民政府——北京大学国际医院国际医疗服务](https://english.beijing.gov.cn/quickguideservices/medicalguide/majormedicalinstitutions/202510/t20251021_4234745.html)
 7. [国家卫生健康委员会政务服务平台——公开信息查询](https://zwfw.nhc.gov.cn/cxx/)
-
-## Hero Image Review
-
-- **Decision:** 通过，作为 `hero-reviewed.png` 保留。
-- **Why:** 北京城市轮廓和就诊沟通场景能同时表达城市与国际患者主题，没有绑定具体医院品牌。
-- **Risk check:** 未见标识、水印、可识别病历、操作场景、痛苦画面或疗效承诺。

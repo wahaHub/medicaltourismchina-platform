@@ -280,8 +280,3 @@ WHO 患者安全工具把医疗转衔中的用药准确性列为标准安全目�
 6. [《中华人民共和国个人信息保护法》](https://www.miit.gov.cn/jgsj/zfs/fl/art/2022/art_515a4b20c12f430eab54bb4f56d89f56.html)
 7. [国家卫生健康委：《医疗机构投诉管理办法》](https://www.nhc.gov.cn/wjw/c100221/202201/3d1d9a04f09e488fadaf2a377b772370.shtml)
 8. [国家卫生健康委：进一步加强医疗机构电子病历信息使用管理（2025）](https://www.nhc.gov.cn/yzygj/c100068/202506/c68abee7c54b4651a774cd533761780b.shtml)
-
-## Image Review
-
-- **Decision:** 经编辑复核后保留，并复制为 `hero-reviewed.png`。
-- **Editorial note:** 国际旅行者、协调员、医院前台和世界地图能清楚表达国际就医导航。但图中没有临床责任、口译质量或急救能力，因此只能作为服务入口概念图，不能证明某个国际医疗部可靠。

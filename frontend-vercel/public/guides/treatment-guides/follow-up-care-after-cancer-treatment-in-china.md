@@ -150,8 +150,3 @@ Do not choose between a treatment summary and a follow-up plan; obtain both. The
 4. [American Society of Clinical Oncology — Cancer Treatment & Survivorship Care Plans](https://www.asco.org/practice-patients/patient-resources/asco-resources-patients-providers)
 5. [US Centers for Disease Control and Prevention, Yellow Book — Medical Tourism](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
 6. [National Cancer Institute — Facing Forward: Life After Cancer Treatment](https://www.cancer.gov/publications/patient-education/facing-forward)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The illustration shows a patient, companion and clinician reviewing a continuous check-up, clinical-review and rehabilitation pathway. Its icons are schematic and should not be read as a prescribed test schedule.

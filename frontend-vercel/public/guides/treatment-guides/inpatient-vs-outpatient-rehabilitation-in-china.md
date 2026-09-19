@@ -17,7 +17,6 @@
 - Outpatient care can be more realistic and task-specific once the patient is medically stable, safe outside therapy hours and able to reach the clinic reliably.
 - A hospital bed does not guarantee more useful therapy; compare active treatment time, disciplines involved, weekend provision and progress measures.
 - Discharge readiness includes transfers, toileting, medicines, nutrition, skin, cognition, accommodation, transport and caregiver capacity—not walking distance alone.
-- International patients need a written escalation plan and handover because a hotel companion cannot replace licensed nursing or emergency care.
 
 ## Content
 
@@ -145,8 +144,3 @@ Possibly, but the route must be agreed in advance. Ask who reassesses the patien
 5. [National Institute for Health and Care Excellence — Rehabilitation After Traumatic Injury](https://www.nice.org.uk/guidance/ng211/chapter/Recommendations)
 6. [National Institute for Health and Care Excellence — Stroke Rehabilitation: Transfer From Hospital to Community](https://www.nice.org.uk/guidance/ng236/chapter/Recommendations)
 7. [National Institute for Health and Care Excellence — Transition Between Inpatient Hospital and Community Settings](https://www.nice.org.uk/guidance/ng27/chapter/Recommendations)
-
-## Image Review
-
-- **Decision:** Approved for publication and retained as `hero-simple.png`.
-- **Editorial note:** The split scene clearly contrasts a hospital bed with an ambulatory therapy gym, while the same patient, therapist, cane and transition symbols connect the settings. It contains no misleading technology, text or outcome claim.

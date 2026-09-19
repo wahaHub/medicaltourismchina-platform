@@ -156,8 +156,3 @@ A short trial with a defined symptom or functional measure is more defensible th
 6. [World Health Organization — Benchmarks for the Practice of Acupuncture](https://qualityhealthservices.who.int/quality-toolkit/qt-catalog-item/who-benchmarks-for-the-practice-of-acupuncture)
 7. [US Food and Drug Administration — Single-Use Acupuncture Needle Product Classification](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/classification.cfm?id=2912)
 8. [National People’s Congress of China — Physicians Law of the People’s Republic of China](https://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313104.html)
-
-## Image Review
-
-- **Decision:** Approved for publication and retained as `hero-simple.png`.
-- **Editorial note:** The image unmistakably shows acupuncture in a calm clinical setting, with a companion and icons for safety, credential checking and team review. It contains no readable claims, branding, distress or unrealistic technology.

@@ -182,8 +182,3 @@ ICH Q5E 的基本原则是：生物制品工艺变化前后要证明可比性，
 5. [国际人用药品注册技术协调会——Q5E 生物制品工艺变更可比性](https://database.ich.org/sites/default/files/Q5E_Guideline.pdf)
 6. [国家药监局药审中心——《细胞治疗药品药学变更研究与评价技术指导原则（试行）》](https://www.ccfdie.org/zryyxxw/yaop/cfdatz/webinfo/2026/02/1772561610434482.htm)
 7. [欧洲药品管理局——先进治疗产品 GMP 与配送指导](https://www.ema.europa.eu/en/human-regulatory-overview/research-development/compliance-research-development/good-manufacturing-practice/guidance-good-manufacturing-practice-good-distribution-practice-questions-answers)
-
-## Image Review
-
-- **结论：** 经编辑复核后保留，复制为 `hero-reviewed.png`。
-- **说明：** “细胞—制剂瓶—安全核验—患者”的顺序能支持生产与放行主题；它仍是简化流程，并不代表真实批记录、洁净车间、检测结果或放行授权。

@@ -181,8 +181,3 @@ Take the stroke and mechanism summary, DICOM images, generic medication list, sw
 5. [American Heart Association — Care of the Patient With Acute Ischemic Stroke](https://professional.heart.org/en/science-news/2021-update-care-of-the-patient-with-acute-ischemic-stroke/top-things-to-know)
 6. [American Heart Association/American Stroke Association — Prevention of Stroke in Patients With Stroke and TIA](https://professional.heart.org/en/science-news/2021-guideline-for-the-prevention-of-stroke-in-patients-with-stroke-and-transient-ischemic-attack/top-things-to-know)
 7. [US Centers for Disease Control and Prevention — Medical Tourism, Yellow Book 2026](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The image shows an older patient using a cane with both a rehabilitation professional and a family member, plus simple training equipment. It supports the article's emphasis on supervised practice and caregiver participation without depicting a branded device or implying a guaranteed recovery.

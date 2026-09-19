@@ -17,7 +17,6 @@
 - Put a one-page clinical summary and dated timeline first, then index the source reports behind them. Never replace originals with a rewritten summary.
 - List every prescription medicine, over-the-counter drug, vitamin and supplement with generic name, strength, dose, route, schedule and reason.[1]
 - Send imaging in original DICOM format as well as the radiology report; screenshots lose series information and clinical usability.[2]
-- Label translations, preliminary reports and superseded versions plainly. A reviewer should never have to guess which document is final.
 
 ## Content
 
@@ -251,7 +250,3 @@ Not always. Prioritise the summary and decision-critical documents after asking 
 4. [US National Cancer Institute: Surgical Pathology Reports](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/pathology-reports-fact-sheet)
 5. [National People’s Congress: Personal Information Protection Law of the People’s Republic of China](https://www.npc.gov.cn/WZWSREL25wYy9jMi9jMzA4MzQvMjAyMTA4L3QyMDIxMDgyMF8zMTMwODguaHRtbD9yZWY9aW1i)
 6. [National Health Commission: Electronic Medical Record Application Management Specification](https://www.nhc.gov.cn/wjw/c100175/201702/90f3de8ae03d488cbddf509dc958f75b.shtml)
-
-## Hero Image Review
-
-The original illustration is retained because it directly shows a patient bringing a mixed paper-and-digital record set to a Chinese clinician. The folder and devices reinforce organisation without displaying readable personal information.

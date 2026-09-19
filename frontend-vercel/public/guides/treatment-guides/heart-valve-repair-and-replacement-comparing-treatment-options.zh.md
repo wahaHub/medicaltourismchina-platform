@@ -183,8 +183,3 @@ ACC/AHA 指南建议术后建立基线影像并长期随访，出现提示人工
 4. [美国心脏病学会（ACC）— 2020 ACC/AHA 心脏瓣膜病指南要点（第三部分）](https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2020/12/16/22/01/2020-acc-aha-vhd-gl-pt-3-gl-vhd)
 5. [美国胸外科医师学会（STS）— 成人心脏外科手术风险计算器](https://www.sts.org/resources/acsd-operative-risk-calculator)
 6. [美国心脏协会（AHA）— 心脏手术回家后会经历什么](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/How-Can-I-Recover-From-Heart-Surgery.pdf)
-
-## Image Review
-
-- **Decision:** 需要替换，未复制原图。
-- **Editorial note:** 原图只是普通问诊和装饰性的瓣膜心形符号，不能比较修复、机械瓣和生物瓣，也容易被误认为品牌图标而非医学结构。

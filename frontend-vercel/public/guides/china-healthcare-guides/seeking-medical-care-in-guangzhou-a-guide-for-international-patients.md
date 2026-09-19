@@ -210,9 +210,3 @@ Call 120 and state the exact location and patient condition. Guangzhou’s inter
 5. [Guangzhou Foreign Affairs Office — Guangzhou multilingual public-service hotline 960169](https://www.eguangzhou.gov.cn/gzexpatsinguangzhou/content/post_29556.html)
 6. [Guangzhou Municipal People’s Government — Emergency assistance for international residents](https://www.gz.gov.cn/guangzhouinternational/residents/safety/)
 7. [Guangzhou international portal — International medical-tourism service centre and 17 pilot hospitals](https://www.eguangzhou.gov.cn/gzservice/content/post_43361.html)
-
-## Hero Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Why:** The Canton Tower, Pearl River setting and suitcase make the Guangzhou international-patient context specific and immediately understandable.
-- **Risk check:** No hospital logo, readable record, watermark, procedure, visible illness or guaranteed-outcome claim is shown.

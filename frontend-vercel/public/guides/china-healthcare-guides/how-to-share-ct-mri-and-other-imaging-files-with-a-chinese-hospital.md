@@ -248,7 +248,3 @@ Send the comparisons the receiving clinician requests. Baseline and immediately 
 4. [DICOM Standard Committee: Displaying Medical Images From a CD](https://www.dicomstandard.org/using/cds)
 5. [National Health Commission: Electronic Medical Record Application Management Specification](https://www.nhc.gov.cn/wjw/c100175/201702/90f3de8ae03d488cbddf509dc958f75b.shtml)
 6. [National People’s Congress: Personal Information Protection Law of the People’s Republic of China](https://www.npc.gov.cn/WZWSREL25wYy9jMi9jMzA4MzQvMjAyMTA4L3QyMDIxMDgyMF8zMTMwODguaHRtbD9yZWY9aW1i)
-
-## Hero Image Review
-
-The original illustration is retained because it clearly depicts a clinician reviewing cross-sectional imaging with a patient and shows both a display and image series. It contains no readable identity information or unsupported diagnostic claim.

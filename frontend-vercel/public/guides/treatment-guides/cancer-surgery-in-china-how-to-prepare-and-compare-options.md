@@ -119,9 +119,3 @@ At minimum, obtain the operative and anaesthesia records, discharge summary, med
 4. [World Health Organization — Surgical Safety Checklist Tools](https://www.who.int/teams/integrated-health-services/quality-of-care-and-patient-safety/patient-safety-guidance-and-tools/safe-surgery/tool-and-resources)
 5. [US CDC Yellow Book — Medical Tourism](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
 6. [US National Cancer Institute — Surgical Pathology Reports](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/pathology-reports-fact-sheet)
-
-## Hero Image Review
-
-- **Decision:** Rejected; replacement pending as `hero-reviewed.png`.
-- **Why:** The original is another generic consultation with a search–IV–heart icon path. It does not show an operation, surgical anatomy, anaesthesia preparation or recovery planning.
-- **Replacement brief:** Respectful 16:9 preoperative consultation: surgeon uses a neutral anatomical model and de-identified imaging to compare the planned resection and possible open-conversion route with patient and companion; no operating-room drama, exposed organs, incisions, blood, logos or readable records.

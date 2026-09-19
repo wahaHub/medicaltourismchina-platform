@@ -265,8 +265,3 @@ You can compare service fees, but total treatment estimates are meaningful only 
 6. [NICE NG197 — Communicating Benefits, Harms and Absolute Risk](https://www.nice.org.uk/guidance/ng197/chapter/Recommendations)
 7. [National Health Commission — Electronic Medical Record Use and Management (2025)](https://www.nhc.gov.cn/yzygj/c100068/202506/c68abee7c54b4651a774cd533761780b.shtml)
 8. [National Health Commission — Measures for Medical Quality Management](https://www.nhc.gov.cn/fzs/c100048/201610/c25a55c02c79461589d1a963625871d9.shtml)
-
-## Image Review
-
-- **Decision:** Approved after editorial review; copied as `hero-reviewed.png`.
-- **Editorial note:** The patient, coordinator and booklet containing several hospital symbols make option comparison visible. It is a conceptual navigation image only: the booklet is not a set of independent medical opinions, and a coordinator cannot adjudicate clinical disagreement.

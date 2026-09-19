@@ -228,8 +228,3 @@ Provide the manufacturer and exact implant line, diameter, length, connection/pl
 7. [US Centers for Disease Control and Prevention — Infection Prevention Practices in Dental Settings](https://www.cdc.gov/dental-infection-control/hcp/summary/index.html)
 8. [American Dental Association — Antibiotic Prophylaxis Prior to Dental Procedures](https://www.ada.org/resources/ada-library/oral-health-topics/antibiotic-prophylaxis)
 9. [US Centers for Disease Control and Prevention — Medical Tourism, Yellow Book 2026](https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html)
-
-## Image Review
-
-- **Decision:** Approved and retained as `hero-reviewed.png`.
-- **Editorial note:** The image clearly shows an implant fixture within alveolar bone, a dentist explaining the restoration to an international patient and a Chinese city context. It supports planning without depicting surgery, a named clinic or a guaranteed “same-day” result.
