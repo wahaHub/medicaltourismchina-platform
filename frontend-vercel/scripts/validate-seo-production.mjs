@@ -13,6 +13,8 @@ import {
   validateSitemapEntries,
 } from "../seo/artifact-validation.mjs";
 
+import { validateApprovedRemovalResponse } from "../seo/production-redirect-validation.mjs";
+
 const PROJECT_ROOT = path.resolve(import.meta.dirname, "..");
 const CONTRACTS_DIR = path.join(PROJECT_ROOT, "seo", "contracts");
 const SITEMAP_URL = `${SITE_ORIGIN}/sitemap.xml`;
@@ -98,9 +100,17 @@ const protectedValidation = validateProtectedUrls(
   approvedRemovals,
 );
 
-const criticalUrls = metadataContract.pages.map((page) => page.url);
+const removals = approvedRemovals.removals ?? [];
+const retiredUrls = new Set(removals.map((entry) => entry.url));
+const redirectResults = await mapWithConcurrency(removals, 8, async (approval) => {
+  const result = await fetch(approval.url, { redirect: "manual" });
+  return validateApprovedRemovalResponse(approval, {
+    status: result.status, location: result.headers.get("location"),
+  });
+});
+const criticalUrls = metadataContract.pages.map((page) => page.url).filter((url) => !retiredUrls.has(url));
 const urlsToFetch = [
-  ...new Set([...criticalUrls, ...selectDynamicSamples(entries)]),
+  ...new Set([...criticalUrls, ...removals.map((entry) => entry.replacement).filter(Boolean), ...selectDynamicSamples(entries)]),
 ];
 const htmlResults = await mapWithConcurrency(urlsToFetch, 8, async (url) => {
   const pageResponse = await fetch(url, {
@@ -139,8 +149,10 @@ const htmlByUrl = new Map(
 const metadataValidation = validateProtectedMetadata(
   htmlByUrl,
   metadataContract,
+  approvedRemovals,
 );
 const errors = [
+  ...redirectResults.flatMap((result) => result.errors),
   ...sitemapValidation.errors,
   ...protectedValidation.errors,
   ...htmlResults.flatMap((result) => result.errors),
@@ -171,6 +183,6 @@ if (errors.length > 0) {
 } else {
   process.stdout.write(
     `[seo-production] PASS sitemap=${entries.length}, `
-    + `protected=${protectedUrls.urls.length}, checked-pages=${urlsToFetch.length}\n`,
+    + `protected=${protectedUrls.urls.length}, checked-pages=${urlsToFetch.length}, approved-redirects=${removals.length}\n`,
   );
 }

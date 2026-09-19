@@ -35,3 +35,7 @@ npm run test:seo:production
 The release verifier checks all 4,080 source/HTML title, H1 and description values, unique H1, canonical URL, nine hreflang alternates, Article metadata, OG/Twitter titles, sitemap membership and matching per-locale modification dates. Application reports check preserved clinical body and reference links.
 
 Google considers visible headings and other page signals when generating title links; concise, accurate titles and language consistency are intentional. See [Google title-link guidance](https://developers.google.com/search/docs/appearance/title-link). Sitemap dates represent actual edits, following [Google sitemap guidance](https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap). Deployment and valid sitemap inclusion do not establish that Google has already recrawled or indexed a page.
+
+## Production acceptance
+
+Deployment `dpl_Hkr6ngf3F59MuZGqRTYdNyJCUeZ1` reached READY. Thirty-two article samples cover all eight languages; the live sitemap contains 11,910 URLs, including all 4,080 articles and eight Telemedicine pages. The protected production contract passes across 49 pages and all three previously approved legacy Visa redirects. The production checker now validates the exact 308 status and destination without following a redirect and misattributing the target metadata to the old URL. Five regression tests cover correct and incorrect redirect responses.

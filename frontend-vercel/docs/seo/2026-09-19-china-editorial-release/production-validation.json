@@ -1,0 +1,182 @@
+{
+  "verifiedAt": "2026-09-19T10:05:43.427Z",
+  "sitemapUrls": 11910,
+  "articleUrls": 4080,
+  "articleSamples": 32,
+  "telemedicineLocales": 8,
+  "robotsSitemap": true,
+  "pass": true,
+  "samples": [
+    {
+      "url": "https://www.medicaltourismchina.health/ar/guides/china-healthcare-guides/seeking-medical-care-in-beijing-a-guide-for-international-patients",
+      "title": "الرعاية الطبية في الصين: دليل المريض في بكين",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/ar/guides/clinical-trials-advanced-treatments/clinical-trial-costs-travel-and-follow-up-responsibilities",
+      "title": "تكاليف التجارب السريرية في الصين: السفر والمتابعة",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/ar/guides/treatment-guides/alzheimer-disease-surgery-procedures",
+      "title": "ادعاءات جراحة ألزهايمر في الصين: القيود والأدلة",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/ar/guides/treatment-guides/alzheimer-disease-treatment-overview",
+      "title": "علاج ألزهايمر في الصين: الخيارات والوصول",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/de/guides/china-healthcare-guides/seeking-medical-care-in-beijing-a-guide-for-international-patients",
+      "title": "Medizinische Versorgung in China: Patientenratgeber für Peking",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/de/guides/clinical-trials-advanced-treatments/clinical-trial-costs-travel-and-follow-up-responsibilities",
+      "title": "Kosten klinischer Studien in China: Reise und Nachbeobachtung",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/de/guides/treatment-guides/alzheimer-disease-surgery-procedures",
+      "title": "Operationsangebote bei Alzheimer in China: Einschränkungen und Evidenz",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/de/guides/treatment-guides/alzheimer-disease-treatment-overview",
+      "title": "Alzheimer-Behandlung in China: Optionen und Zugang",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/es/guides/china-healthcare-guides/seeking-medical-care-in-beijing-a-guide-for-international-patients",
+      "title": "Atención médica en China: guía del paciente en Pekín",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/es/guides/clinical-trials-advanced-treatments/clinical-trial-costs-travel-and-follow-up-responsibilities",
+      "title": "Costes de ensayos clínicos en China: viajes y seguimiento",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/es/guides/treatment-guides/alzheimer-disease-surgery-procedures",
+      "title": "Afirmaciones sobre cirugía para Alzheimer en China: restricciones y evidencia",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/es/guides/treatment-guides/alzheimer-disease-treatment-overview",
+      "title": "Tratamiento del Alzheimer en China: opciones y acceso",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/fr/guides/china-healthcare-guides/seeking-medical-care-in-beijing-a-guide-for-international-patients",
+      "title": "Se soigner en Chine : guide du patient à Pékin",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/fr/guides/clinical-trials-advanced-treatments/clinical-trial-costs-travel-and-follow-up-responsibilities",
+      "title": "Coûts des essais cliniques en Chine : voyage et suivi",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/fr/guides/treatment-guides/alzheimer-disease-surgery-procedures",
+      "title": "Chirurgie proposée pour Alzheimer en Chine : restrictions et preuves",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/fr/guides/treatment-guides/alzheimer-disease-treatment-overview",
+      "title": "Traitement d’Alzheimer en Chine : options et accès",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/guides/china-healthcare-guides/seeking-medical-care-in-beijing-a-guide-for-international-patients",
+      "title": "Medical Care in China: Beijing Patient Guide",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/guides/clinical-trials-advanced-treatments/clinical-trial-costs-travel-and-follow-up-responsibilities",
+      "title": "Clinical Trial Costs in China: Travel and Follow-Up",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/guides/treatment-guides/alzheimer-disease-surgery-procedures",
+      "title": "Alzheimer’s Surgery Claims in China: Restrictions and Evidence",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/guides/treatment-guides/alzheimer-disease-treatment-overview",
+      "title": "Alzheimer’s Treatment in China: Options and Access",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/id/guides/china-healthcare-guides/seeking-medical-care-in-beijing-a-guide-for-international-patients",
+      "title": "Perawatan Medis di Tiongkok: Panduan Pasien di Beijing",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/id/guides/clinical-trials-advanced-treatments/clinical-trial-costs-travel-and-follow-up-responsibilities",
+      "title": "Biaya Uji Klinis di Tiongkok: Perjalanan dan Tindak Lanjut",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/id/guides/treatment-guides/alzheimer-disease-surgery-procedures",
+      "title": "Klaim Operasi Alzheimer di Tiongkok: Pembatasan dan Bukti",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/id/guides/treatment-guides/alzheimer-disease-treatment-overview",
+      "title": "Pengobatan Alzheimer di Tiongkok: Pilihan dan Akses",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/ru/guides/china-healthcare-guides/seeking-medical-care-in-beijing-a-guide-for-international-patients",
+      "title": "Медицинская помощь в Китае: руководство для пациентов в Пекине",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/ru/guides/clinical-trials-advanced-treatments/clinical-trial-costs-travel-and-follow-up-responsibilities",
+      "title": "Расходы на участие в клиническом исследовании в Китае: поездки и наблюдение",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/ru/guides/treatment-guides/alzheimer-disease-surgery-procedures",
+      "title": "Заявления о хирургии болезни Альцгеймера в Китае: ограничения и доказательства",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/ru/guides/treatment-guides/alzheimer-disease-treatment-overview",
+      "title": "Лечение болезни Альцгеймера в Китае: варианты и доступ",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/zh/guides/china-healthcare-guides/seeking-medical-care-in-beijing-a-guide-for-international-patients",
+      "title": "中国就医指南：国际患者在北京看病",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/zh/guides/clinical-trials-advanced-treatments/clinical-trial-costs-travel-and-follow-up-responsibilities",
+      "title": "中国临床试验费用：差旅与随访责任",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/zh/guides/treatment-guides/alzheimer-disease-surgery-procedures",
+      "title": "中国阿尔茨海默病手术宣传：临床限制与研究证据",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "url": "https://www.medicaltourismchina.health/zh/guides/treatment-guides/alzheimer-disease-treatment-overview",
+      "title": "中国阿尔茨海默病治疗：治疗选择与就医条件",
+      "dateModified": "2026-09-19"
+    }
+  ],
+  "deployment": {
+    "id": "dpl_Hkr6ngf3F59MuZGqRTYdNyJCUeZ1",
+    "url": "https://frontend-vercel-g5ozkj86z-medora-beautys-projects.vercel.app",
+    "readyState": "READY"
+  },
+  "protectedContract": {
+    "pass": true,
+    "protectedUrls": 11913,
+    "checkedPages": 49,
+    "approvedRedirects": 3
+  }
+}
