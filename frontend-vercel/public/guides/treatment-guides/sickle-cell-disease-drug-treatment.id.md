@@ -1,12 +1,14 @@
-# Memeriksa Obat Sel Sabit: Hidroksiurea, Pembaruan Regulasi, Peredaan Nyeri, dan Pemantauan
+# Obat Penyakit Sel Sabit di Tiongkok: Pemeriksaan Akses dan Pemantauan
 
 ## Hero
 
-- **Title:** Memeriksa Obat Sel Sabit: Hidroksiurea, Pembaruan Regulasi, Peredaan Nyeri, dan Pemantauan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Sel Sabit
-- **Subtitle:** Daftar obat sel sabit dapat berisi pengobatan harian, obat untuk episode nyeri, pencegahan infeksi, dan obat untuk kelebihan zat besi akibat transfusi.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat Penyakit Sel Sabit di Tiongkok: Pemeriksaan Akses dan Pemantauan
+- **Subtitle:** Bedakan obat pencegahan, pengendalian penyakit, dan pereda nyeri sel sabit. Siapkan pemeriksaan indikasi, akses, serta pemantauan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Sebelum meninggalkan konsultasi, rencana obat harus menyatakan apa yang diminum 
 ## SEO Metadata
 
 - **Primary keyword:** obat untuk penyakit sel sabit
+
+- **Meta title:** Obat Penyakit Sel Sabit di Tiongkok: Pemeriksaan Akses dan Pemantauan
+- **Meta description:** Bedakan obat pencegahan, pengendalian penyakit, dan pereda nyeri sel sabit. Siapkan pemeriksaan indikasi, akses, serta pemantauan di Tiongkok.

@@ -1,12 +1,14 @@
-# Medikamente bei Thalassämie: den Zweck einer Verordnung und ihren Kontrollplan verstehen
+# Thalassämie-Medikamente in China: Anwendungen, Zugang und Überwachung
 
 ## Hero
 
-- **Title:** Medikamente bei Thalassämie: den Zweck einer Verordnung und ihren Kontrollplan verstehen
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Thalassämie
-- **Subtitle:** Eine Medikamentenliste bei Thalassämie kann Chelatoren, gegen Anämie gerichtete Behandlungen, Nahrungsergänzungsmittel und Medikamente für andere Gesundheitsprobleme enthalten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Thalassämie-Medikamente in China: Anwendungen, Zugang und Überwachung
+- **Subtitle:** Thalassämiemedikamente für China prüfen: Anämiebehandlung und Eisenentfernung unterscheiden sowie Darreichungsform, Organsicherheit und Ansprechkontrollen klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Der hilfreichste Medikamentenplan enthält den Zweck jedes Arzneimittels, die n�
 ## SEO Metadata
 
 - **Primary keyword:** Medikamente bei Thalassämie; Deferasirox; Deferipron; Deferoxamin; Luspatercept; Mitapivat
+
+- **Meta title:** Thalassämie-Medikamente in China: Anwendungen, Zugang und Überwachung
+- **Meta description:** Thalassämiemedikamente für China prüfen: Anämiebehandlung und Eisenentfernung unterscheiden sowie Darreichungsform, Organsicherheit und Ansprechkontrollen klären.

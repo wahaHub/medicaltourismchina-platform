@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Should you travel to China for aplastic anemia treatment?
 - **Category:** Patient Journey Guides
 - **Subcategory:** Aplastic Anemia
-- **Subtitle:** A useful overseas referral starts with a defined clinical task.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Should you travel to China for aplastic anemia treatment?
+- **Subtitle:** Review aplastic anemia travel to China through current clinical needs, blood support, hospital acceptance and a plan for continuing treatment at home.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -111,3 +113,6 @@ Before committing to the journey, write down the unresolved clinical problem, th
 ## SEO Metadata
 
 - **Primary keyword:** traveling to China for aplastic anemia treatment
+
+- **Meta title:** Should you travel to China for aplastic anemia treatment?
+- **Meta description:** Review aplastic anemia travel to China through current clinical needs, blood support, hospital acceptance and a plan for continuing treatment at home.

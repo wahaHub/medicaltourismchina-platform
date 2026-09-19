@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Medizinische Unterlagen für eine DLBCL-Beratung in China: ein praktischer Vorbereitungsleitfaden
 - **Category:** Leitfäden zum Patientenweg
 - **Subcategory:** Diffuses großzelliges B-Zell-Lymphom
-- **Subtitle:** Eine DLBCL-Zweitmeinung ist schwierig, wenn die Unterlagen aus einem einzigen Diagnose-Screenshot, einigen PET-Fotos und Erinnerungen an die Chemotherapie bestehen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medizinische Unterlagen für eine DLBCL-Beratung in China: ein praktischer Vorbereitungsleitfaden
+- **Subtitle:** Unterlagen für eine DLBCL-Beratung in China ordnen: vollständige Pathologie, Originalbilder, verabreichte Dosen, Ansprechverlauf und schwere Nebenwirkungen beilegen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Erstellen Sie vor der Beratung eine kurze Liste fehlender Informationen mit dem 
 ## SEO Metadata
 
 - **Primary keyword:** Medizinische DLBCL-Unterlagen für eine Beratung in China
+
+- **Meta title:** Medizinische Unterlagen für eine DLBCL-Beratung in China: ein praktischer Vorbereitungsleitfaden
+- **Meta description:** Unterlagen für eine DLBCL-Beratung in China ordnen: vollständige Pathologie, Originalbilder, verabreichte Dosen, Ansprechverlauf und schwere Nebenwirkungen beilegen.

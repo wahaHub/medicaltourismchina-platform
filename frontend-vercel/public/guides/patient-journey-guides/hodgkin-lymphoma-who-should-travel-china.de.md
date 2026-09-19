@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Sollte ich zur Hodgkin-Lymphom-Versorgung nach China reisen? Überweisungsnutzen und medizinische Reisebereitschaft
 - **Category:** Leitfäden zum Patientenweg
 - **Subcategory:** Hodgkin-Lymphom
-- **Subtitle:** Eine Reise nach China zur Hodgkin-Lymphom-Versorgung umfasst zwei getrennte Fragen: was der Besuch erreichen kann und ob die Person medizinisch bereit für die Reise ist.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sollte ich zur Hodgkin-Lymphom-Versorgung nach China reisen? Überweisungsnutzen und medizinische Reisebereitschaft
+- **Subtitle:** Eine Reise zur Hodgkin-Lymphom-Versorgung in China abwägen: konkrete Beratungsfrage, Rückfallbedarf, körperliche Stabilität und Behandlungszeitplan prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,3 +143,6 @@ Bitten Sie die Teams vor der Entscheidung, aktuelle medizinische Stabilität, di
 ## SEO Metadata
 
 - **Primary keyword:** Reise nach China zur Hodgkin-Lymphom-Behandlung
+
+- **Meta title:** Sollte ich zur Hodgkin-Lymphom-Versorgung nach China reisen? Überweisungsnutzen und medizinische Reisebereitschaft
+- **Meta description:** Eine Reise zur Hodgkin-Lymphom-Versorgung in China abwägen: konkrete Beratungsfrage, Rückfallbedarf, körperliche Stabilität und Behandlungszeitplan prüfen.

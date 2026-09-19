@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Memilih rumah sakit limfoma folikular di Tiongkok: sesuaikan tim dengan keputusan yang Anda butuhkan
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Limfoma Folikular
-- **Subtitle:** Pencarian rumah sakit menjadi lebih mudah ketika dimulai dengan pertanyaan klinis.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Memilih rumah sakit limfoma folikular di Tiongkok: sesuaikan tim dengan keputusan yang Anda butuhkan
+- **Subtitle:** Pilih tim limfoma folikular di Tiongkok berdasarkan pertanyaan klinis, dari konfirmasi biopsi hingga radiasi atau kekambuhan dan perawatan lanjutan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Rumah sakit paling berguna bagi orang dengan limfoma folikular adalah yang sesua
 ## SEO Metadata
 
 - **Primary keyword:** pemilihan rumah sakit limfoma folikular di Tiongkok
+
+- **Meta title:** Memilih rumah sakit limfoma folikular di Tiongkok: sesuaikan tim dengan keputusan yang Anda butuhkan
+- **Meta description:** Pilih tim limfoma folikular di Tiongkok berdasarkan pertanyaan klinis, dari konfirmasi biopsi hingga radiasi atau kekambuhan dan perawatan lanjutan.

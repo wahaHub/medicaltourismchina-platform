@@ -1,12 +1,14 @@
-# Elegir el primer tratamiento del linfoma de células T: diagnóstico, esquema y planificación de la respuesta
+# Tratamiento de primera línea del linfoma de células T en China: planificar la atención
 
 ## Hero
 
-- **Title:** Elegir el primer tratamiento del linfoma de células T: diagnóstico, esquema y planificación de la respuesta
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de células T
-- **Subtitle:** En la primera conversación sobre el tratamiento, los pacientes suelen preguntar qué medicamento es más potente, si el trasplante es inevitable y cuándo debe comenzar el tratamiento.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento de primera línea del linfoma de células T en China: planificar la atención
+- **Subtitle:** Prepare el tratamiento inicial del linfoma de células T en China según el subtipo, la pauta propuesta y la evaluación de respuesta, con preguntas para el equipo.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ El plan inicial debe ser un documento actualizable: por qué se eligió el esque
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento de primera línea del linfoma de células T
+
+- **Meta title:** Tratamiento de primera línea del linfoma de células T en China: planificar la atención
+- **Meta description:** Prepare el tratamiento inicial del linfoma de células T en China según el subtipo, la pauta propuesta y la evaluación de respuesta, con preguntas para el equipo.

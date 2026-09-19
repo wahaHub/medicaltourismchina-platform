@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Should you travel to China for thalassemia care? Assess the purpose and the conditions for a safe journey
 - **Category:** Patient Journey Guides
 - **Subcategory:** Thalassemia
-- **Subtitle:** A decision to seek care abroad needs both a clinical purpose and a workable travel plan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Should you travel to China for thalassemia care? Assess the purpose and the conditions for a safe journey
+- **Subtitle:** Assess thalassemia travel to China by the reason for referral, transfusion and monitoring needs, receiving acceptance and continuity of care.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -146,3 +148,6 @@ Proceed when the clinical objective, current stability, receiving arrangements, 
 ## SEO Metadata
 
 - **Primary keyword:** travel to China for thalassemia treatment; thalassemia travel assessment; second opinion in China; transfusion continuity abroad
+
+- **Meta title:** Should you travel to China for thalassemia care? Assess the purpose and the conditions for a safe journey
+- **Meta description:** Assess thalassemia travel to China by the reason for referral, transfusion and monitoring needs, receiving acceptance and continuity of care.

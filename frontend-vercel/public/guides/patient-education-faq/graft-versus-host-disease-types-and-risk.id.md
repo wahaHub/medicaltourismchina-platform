@@ -1,12 +1,14 @@
-# Jenis dan Risiko GVHD: Penyakit Akut, Kronis, Tumpang Tindih, dan Refrakter terhadap Steroid
+# Jenis dan Risiko GVHD: Persiapan Perawatan Spesialis di Tiongkok
 
 ## Hero
 
-- **Title:** Jenis dan Risiko GVHD: Penyakit Akut, Kronis, Tumpang Tindih, dan Refrakter terhadap Steroid
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Penyakit Graft Versus Host
-- **Subtitle:** Kronis, berat, berisiko tinggi, dan refrakter terhadap steroid mungkin terdengar seperti tahapan berurutan pada satu skala.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Jenis dan Risiko GVHD: Persiapan Perawatan Spesialis di Tiongkok
+- **Subtitle:** Pahami GVHD akut, kronis, tumpang tindih, dan refrakter steroid. Bedakan pola penyakit dari keparahan sebelum penilaian spesialis di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Penerimaan untuk konsultasi bukan penerimaan untuk terapi tertentu dan tidak men
 ## SEO Metadata
 
 - **Primary keyword:** jenis penyakit graft-versus-host dan penilaian risiko Tiongkok
+
+- **Meta title:** Jenis dan Risiko GVHD: Persiapan Perawatan Spesialis di Tiongkok
+- **Meta description:** Pahami GVHD akut, kronis, tumpang tindih, dan refrakter steroid. Bedakan pola penyakit dari keparahan sebelum penilaian spesialis di Tiongkok.

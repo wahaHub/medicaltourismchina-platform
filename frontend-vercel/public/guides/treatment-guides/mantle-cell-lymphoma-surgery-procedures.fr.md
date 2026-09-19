@@ -1,12 +1,14 @@
-# Le lymphome à cellules du manteau nécessite-t-il une chirurgie ? Biopsie, accès veineux, collecte cellulaire et procédures d’urgence
+# Interventions pour le lymphome du manteau en Chine : objectifs et préparation
 
 ## Hero
 
-- **Title:** Le lymphome à cellules du manteau nécessite-t-il une chirurgie ? Biopsie, accès veineux, collecte cellulaire et procédures d’urgence
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Lymphome à cellules du manteau
-- **Subtitle:** Recherches associées : biopsie du LCM ; procédures pendant le traitement du lymphome ; soins du LCM en Chine
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Interventions pour le lymphome du manteau en Chine : objectifs et préparation
+- **Subtitle:** Distinguez biopsie, examen médullaire, accès veineux et collecte cellulaire dans le lymphome du manteau pour préparer les interventions en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -121,3 +123,6 @@ La valeur d’un geste réside dans le problème clinique qu’il résout et la 
 ## SEO Metadata
 
 - **Primary keyword:** chirurgie du lymphome à cellules du manteau
+
+- **Meta title:** Interventions pour le lymphome du manteau en Chine : objectifs et préparation
+- **Meta description:** Distinguez biopsie, examen médullaire, accès veineux et collecte cellulaire dans le lymphome du manteau pour préparer les interventions en Chine.

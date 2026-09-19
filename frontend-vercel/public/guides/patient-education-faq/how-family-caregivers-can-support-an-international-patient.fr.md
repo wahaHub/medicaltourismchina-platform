@@ -1,15 +1,17 @@
-# Proches aidants dans les soins internationaux : être le filet de sécurité, pas tout le système
+# Accompagner un proche pendant un traitement médical en Chine
 
 ## Hero
 
-- **Title:** Proches aidants dans les soins internationaux : être le filet de sécurité, pas tout le système
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Décisions du patient et soutien aux aidants
-- **Subtitle:** Une fiche de rôle pratique pour les dossiers, la communication, la sécurité au chevet, les compétences de sortie, les limites, les relais et la santé de l’aidant.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un patient et son proche aidant clarifient leurs rôles avec un médecin avant un traitement à l’étranger
+
+
+- **Title:** Accompagner un proche pendant un traitement médical en Chine
+- **Subtitle:** Définissez autorisations de l’aidant, dossiers, observation au chevet, compétences de sortie, vérification des médicaments, limites, relais et soins de soi pendant un traitement à l’étranger.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - L’épuisement concerne la sécurité du patient. Intégrez des relais, du sommeil, des repas, du répit et un aidant remplaçant en urgence dans le plan [1][4].
 
 ## Content
+
+Pour une famille accompagnant une personne qui se fait soigner en Chine, définissez les responsabilités du proche aidant avant le départ. Rendez-vous, assistance linguistique, médicaments, observations au chevet et transmission des soins au retour nécessitent une répartition des tâches réalisable, les décisions cliniques restant du ressort de l’équipe soignante.
+
 
 Un traitement international transforme souvent du jour au lendemain un conjoint, un enfant adulte ou un ami en traducteur, organisateur, porteur de bagages, gardien des médicaments, observateur au chevet et contact d’urgence. L’amour et la détermination ne fournissent pas automatiquement la formation, l’autorité ou les capacités physiques nécessaires à tous ces rôles. Un plan plus sûr considère l’aidant comme un partenaire au rôle défini, pas comme du personnel gratuit censé combler toutes les lacunes.
 
@@ -165,11 +170,13 @@ Oui. Manque de sommeil, maladie et surcharge peuvent altérer attention, gestion
 
 ## SEO Metadata
 
-- **SEO title:** Guide du proche aidant pour les patients internationaux
-- **Meta description:** Définissez autorisations de l’aidant, dossiers, observation au chevet, compétences de sortie, vérification des médicaments, limites, relais et soins de soi pendant un traitement à l’étranger.
 - **Primary keyword:** proche aidant patient international
 - **Secondary keywords:** aidant voyage médical, accompagnant traitement à l’étranger, aidant sortie hospitalière, défenseur du patient transfrontalier, plan de sécurité aidant
 - **Suggested URL slug:** `/family-caregiver-international-patient`
+
+
+- **Meta title:** Accompagner un proche pendant un traitement médical en Chine
+- **Meta description:** Définissez autorisations de l’aidant, dossiers, observation au chevet, compétences de sortie, vérification des médicaments, limites, relais et soins de soi pendant un traitement à l’étranger.
 
 ## Sources
 

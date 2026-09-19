@@ -1,12 +1,14 @@
-# Cuando la EICH persiste o se reactiva: reevaluación y decisiones terapéuticas posteriores
+# EICH persistente o recurrente: segundas opiniones en China
 
 ## Hero
 
-- **Title:** Cuando la EICH persiste o se reactiva: reevaluación y decisiones terapéuticas posteriores
 - **Category:** Guías de tratamientos
 - **Subcategory:** Enfermedad de injerto contra huésped
-- **Subtitle:** Cuando la EICH persiste o se reactiva: reevaluación y decisiones terapéuticas posteriores
-- **Updated date:** 2026/09/09
+
+
+- **Title:** EICH persistente o recurrente: segundas opiniones en China
+- **Subtitle:** Prepare una segunda opinión de enfermedad injerto contra huésped persistente en China para distinguir actividad, daño residual, intolerancia y otras causas.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,3 +142,6 @@ Los cambios terapéuticos repetidos agotan a pacientes y cuidadores. Una reevalu
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento de la EICH refractaria y recurrente en China
+
+- **Meta title:** EICH persistente o recurrente: segundas opiniones en China
+- **Meta description:** Prepare una segunda opinión de enfermedad injerto contra huésped persistente en China para distinguir actividad, daño residual, intolerancia y otras causas.

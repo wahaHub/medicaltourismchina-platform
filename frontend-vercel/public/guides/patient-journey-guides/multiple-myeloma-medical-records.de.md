@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Medizinische Unterlagen für die Myelomversorgung in China: Diagnose, Resistenz und Behandlungsbereitschaft dokumentieren
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Multiples Myelom
-- **Subtitle:** Eine Diagnosebescheinigung allein ermöglicht einem neuen Team selten, den nächsten Schritt festzulegen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medizinische Unterlagen für die Myelomversorgung in China: Diagnose, Resistenz und Behandlungsbereitschaft dokumentieren
+- **Subtitle:** Myelomunterlagen für eine Beratung in China aufbereiten: Pathologie, Genetik, Proteinverlauf, Bildgebung, Organfunktion und Gründe für Therapieabbrüche dokumentieren.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Aktualisieren Sie die Zusammenfassung vor der Abreise um die letzte Behandlung u
 ## SEO Metadata
 
 - **Primary keyword:** medizinische Unterlagen für die Behandlung des multiplen Myeloms in China
+
+- **Meta title:** Medizinische Unterlagen für die Myelomversorgung in China: Diagnose, Resistenz und Behandlungsbereitschaft dokumentieren
+- **Meta description:** Myelomunterlagen für eine Beratung in China aufbereiten: Pathologie, Genetik, Proteinverlauf, Bildgebung, Organfunktion und Gründe für Therapieabbrüche dokumentieren.

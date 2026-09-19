@@ -1,15 +1,17 @@
-# 101 Elegir un hospital en Pekín: especialidades, acceso y viaje
+# Elegir un hospital en China: atención y viajes en Pekín
 
 ## Hero
 
-- **Title:** Elegir un hospital en Pekín: especialidades, acceso y viaje
 - **Category:** Guías de hospitales
 - **Subcategory:** Planificación de la atención en Pekín
-- **Subtitle:** Elija primero la vía clínica, confirme después el campus exacto y organice el viaje en torno a la secuencia real de citas.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustración conceptual de viajeros internacionales que planifican el acceso a un hospital de Pekín con un mapa y un calendario; el monumento y el hospital no representan una combinación real de campus y ubicación.
+
+
+- **Title:** Elegir un hospital en China: atención y viajes en Pekín
+- **Subtitle:** Un método práctico para que los pacientes internacionales elijan un hospital de Pekín por adecuación de especialidad, campus exacto, vía de reserva, geografía, pago y planificación de un regreso seguro.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -232,13 +234,15 @@ No hay una duración genérica segura. Depende de las pruebas, el plazo de anato
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-beijing-specialties-access-and-travel`
-- **Meta title:** Elegir un hospital en Pekín: especialidad, campus y viaje
-- **Meta description:** Un método práctico para que los pacientes internacionales elijan un hospital de Pekín por adecuación de especialidad, campus exacto, vía de reserva, geografía, pago y planificación de un regreso seguro.
 - **Primary keyword:** elegir un hospital en Pekín
 - **Pillar keyword:** hospitales de Pekín para pacientes internacionales
 - **Vertical keyword:** especialidad acceso viaje hospital Pekín
 - **Search intent:** comparación de hospitales / planificación de viajes
 - **Secondary keywords:** campus hospitalario Pekín; cita para paciente internacional Pekín; reserva hospitalaria Pekín 114; viaje médico Pekín; especialidad hospitalaria Pekín
+
+
+- **Meta title:** Elegir un hospital en China: atención y viajes en Pekín
+- **Meta description:** Un método práctico para que los pacientes internacionales elijan un hospital de Pekín por adecuación de especialidad, campus exacto, vía de reserva, geografía, pago y planificación de un regreso seguro.
 
 ## Fuentes
 

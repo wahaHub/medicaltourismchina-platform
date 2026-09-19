@@ -1,15 +1,17 @@
-# Después de una cirugía lejos de casa: ¿qué señales de alarma requieren llamar al 120, contactar con cirugía el mismo día o vigilar?
+# Señales de alarma después de una cirugía en China: ¿llamar al 120 o al cirujano?
 
 ## Hero
 
-- **Title:** Después de una cirugía lejos de casa: ¿qué señales de alarma requieren llamar al 120, contactar con cirugía el mismo día o vigilar?
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Síntomas y atención urgente
-- **Subtitle:** Guía práctica de triaje para pacientes internacionales que se recuperan en un hotel, apartamento o ciudad desconocida después de una operación.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Paciente posoperatorio hablando con un médico junto a iconos de fiebre, dificultad respiratoria, síntomas cardíacos, dolor de pierna y dolor abdominal
+
+
+- **Title:** Señales de alarma después de una cirugía en China: ¿llamar al 120 o al cirujano?
+- **Subtitle:** Valore dificultad respiratoria, sangrado, cambios de herida, fiebre, vómitos, hinchazón de pierna y problemas de drenaje después de una cirugía durante un viaje.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -168,13 +170,15 @@ No. Contacte con el equipo quirúrgico o un médico local. La herida puede neces
 ## SEO Metadata
 
 - **Slug:** `postoperative-warning-signs-that-need-urgent-assessment`
-- **Meta title:** Señales de alarma posoperatorias: ¿llamar al 120 o al cirujano?
-- **Meta description:** Valore dificultad respiratoria, sangrado, cambios de herida, fiebre, vómitos, hinchazón de pierna y problemas de drenaje después de una cirugía durante un viaje.
 - **Primary keyword:** señales de alarma posoperatorias
 - **Pillar keyword:** seguridad del paciente durante viajes médicos
 - **Vertical keyword:** síntomas urgentes después de cirugía
 - **Search intent:** orientación de triaje posoperatorio
 - **Secondary keywords:** infección de herida después de cirugía; coágulo después de cirugía; fiebre posoperatoria; llamar al cirujano después de operación; llamar al 120 China
+
+
+- **Meta title:** Señales de alarma después de una cirugía en China: ¿llamar al 120 o al cirujano?
+- **Meta description:** Valore dificultad respiratoria, sangrado, cambios de herida, fiebre, vómitos, hinchazón de pierna y problemas de drenaje después de una cirugía durante un viaje.
 
 ## Fuentes
 

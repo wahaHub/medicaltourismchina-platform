@@ -1,15 +1,17 @@
-# Heart Valve Repair and Replacement: Comparing Treatment Options
+# Heart Valve Treatment in China: Repair vs Replacement
 
 ## Hero
 
-- **Title:** Heart Valve Repair and Replacement: Comparing Treatment Options
 - **Category:** Treatment Guides
 - **Subcategory:** Heart & Vascular Care
-- **Subtitle:** Compare repair, mechanical and tissue replacement, and transcatheter treatment using the valve lesion, lifetime plan and patient's priorities.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** PENDING — requires a medically accurate comparison of valve repair, mechanical replacement and tissue replacement
+
+
+- **Title:** Heart Valve Treatment in China: Repair vs Replacement
+- **Subtitle:** Compare valve repair, mechanical and tissue replacement, surgery and transcatheter options, anticoagulation, recovery and lifelong follow-up.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -167,13 +169,15 @@ No. It avoids an open operation for suitable patients, but has its own anatomica
 ## SEO Metadata
 
 - **Slug:** `heart-valve-repair-and-replacement-comparing-treatment-options`
-- **Meta title:** Heart Valve Repair vs Replacement: A Patient Comparison
-- **Meta description:** Compare valve repair, mechanical and tissue replacement, surgery and transcatheter options, anticoagulation, recovery and lifelong follow-up.
 - **Primary keyword:** heart valve repair and replacement
 - **Pillar keyword:** heart valve treatment
 - **Vertical keyword:** valve surgery options
 - **Search intent:** treatment comparison / prosthesis decision
 - **Secondary keywords:** valve repair vs replacement; mechanical valve; tissue valve; heart valve surgery; valve anticoagulation; valve follow-up
+
+
+- **Meta title:** Heart Valve Treatment in China: Repair vs Replacement
+- **Meta description:** Compare valve repair, mechanical and tissue replacement, surgery and transcatheter options, anticoagulation, recovery and lifelong follow-up.
 
 ## Sources
 

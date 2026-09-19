@@ -1,12 +1,14 @@
-# LDCBG en recaída o refractario: reevaluación y siguiente decisión terapéutica
+# LDCBG en recaída o refractario en China: revisión y próximos pasos
 
 ## Hero
 
-- **Title:** LDCBG en recaída o refractario: reevaluación y siguiente decisión terapéutica
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma difuso de células B grandes
-- **Subtitle:** Una masa nueva o una captación sospechosa en la PET después del tratamiento del LDCBG necesitan reevaluación rápida, pero una exploración por sí sola no debe declarar ineficaces todos los tratamientos.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** LDCBG en recaída o refractario en China: revisión y próximos pasos
+- **Subtitle:** Prepare la revisión de linfoma difuso de células B grandes en recaída en China con confirmación, cronología y evaluación de las siguientes opciones terapéuticas.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Antes de volver a casa, obtenga el resumen de respuesta, el plan de medicación 
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento del LDCBG en recaída o refractario
+
+- **Meta title:** LDCBG en recaída o refractario en China: revisión y próximos pasos
+- **Meta description:** Prepare la revisión de linfoma difuso de células B grandes en recaída en China con confirmación, cronología y evaluación de las siguientes opciones terapéuticas.

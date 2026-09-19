@@ -1,15 +1,17 @@
-# After Surgery Away From Home: Which Warning Signs Need 120, Same-Day Surgical Contact or Monitoring?
+# Warning Signs After Surgery in China: Call 120 or Your Surgeon?
 
 ## Hero
 
-- **Title:** After Surgery Away From Home: Which Warning Signs Need 120, Same-Day Surgical Contact or Monitoring?
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Symptoms & Urgent Care
-- **Subtitle:** A practical triage guide for international patients recovering in a hotel, apartment or unfamiliar city after an operation.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Postoperative patient speaking with a clinician beside icons for fever, breathing trouble, heart symptoms, leg pain and abdominal pain
+
+
+- **Title:** Warning Signs After Surgery in China: Call 120 or Your Surgeon?
+- **Subtitle:** Triage breathing trouble, bleeding, wound changes, fever, vomiting, leg swelling and drain problems after surgery while traveling.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -164,13 +166,15 @@ A video or wound photo may help triage, but it cannot replace vital signs, exami
 ## SEO Metadata
 
 - **Slug:** `postoperative-warning-signs-that-need-urgent-assessment`
-- **Meta title:** Postoperative Warning Signs: Call 120 or the Surgeon?
-- **Meta description:** Triage breathing trouble, bleeding, wound changes, fever, vomiting, leg swelling and drain problems after surgery while traveling.
 - **Primary keyword:** postoperative warning signs
 - **Pillar keyword:** patient safety during medical travel
 - **Vertical keyword:** urgent symptoms after surgery
 - **Search intent:** postoperative triage guidance
 - **Secondary keywords:** wound infection after surgery; blood clot after surgery; postoperative fever; call surgeon after operation; call 120 China
+
+
+- **Meta title:** Warning Signs After Surgery in China: Call 120 or Your Surgeon?
+- **Meta description:** Triage breathing trouble, bleeding, wound changes, fever, vomiting, leg swelling and drain problems after surgery while traveling.
 
 ## Sources
 

@@ -1,15 +1,17 @@
-# 117 Sprachunterstützung und englische Patientenunterlagen an chinesischen Krankenhäusern: Drei verschiedene Produkte
+# Sprachunterstützung und englische Unterlagen in Krankenhäusern in China
 
 ## Hero
 
-- **Title:** Sprachunterstützung und englische Patientenunterlagen an chinesischen Krankenhäusern: Drei verschiedene Produkte
 - **Category:** Krankenhausratgeber
 - **Subcategory:** Sprach- und Patientenunterlagendienste
-- **Subtitle:** Direktes medizinisches Dolmetschen, die Originaldokumentation des Krankenhauses und eine englische Übergabe hängen zusammen – sind aber weder dieselbe Leistung noch dasselbe Dokument.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Symbolisches Beratungsgespräch zur Sprachunterstützung, bei dem ein Krankenhauskoordinator einem Patienten ein Sprachsymbol und ein elektronisches Dokument zeigt; es handelt sich nicht um eine echte Übersetzung, Patientenakte, Einrichtung oder Empfehlung.
+
+
+- **Title:** Sprachunterstützung und englische Unterlagen in Krankenhäusern in China
+- **Subtitle:** Prüfen Sie medizinisches Dolmetschen, chinesische Originalakten und klinisch geprüfte englische Übergaben an chinesischen Krankenhäusern, einschließlich Einwilligung, Medikamenten, DICOM, Datenschutz und Korrekturen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -224,13 +226,15 @@ Priorisieren Sie entsprechend der nächsten ärztlichen Entscheidung Entlassungs
 ## SEO Metadata
 
 - **Slug:** `language-support-and-english-medical-records-at-chinese-hospitals`
-- **Meta title:** Sprachunterstützung und englische Unterlagen an chinesischen Krankenhäusern
-- **Meta description:** Prüfen Sie medizinisches Dolmetschen, chinesische Originalakten und klinisch geprüfte englische Übergaben an chinesischen Krankenhäusern, einschließlich Einwilligung, Medikamenten, DICOM, Datenschutz und Korrekturen.
 - **Primary keyword:** englische Patientenunterlagen an chinesischen Krankenhäusern
 - **Pillar keyword:** Sprachunterstützung in chinesischen Krankenhäusern für Ausländer
 - **Vertical keyword:** medizinisches Dolmetschen und Aktenübersetzung China
 - **Search intent:** Sprachdienste im Krankenhaus / Planung medizinischer Unterlagen
 - **Secondary keywords:** englischsprachiges Krankenhaus China; medizinischer Dolmetscher China; chinesische Patientenunterlagen übersetzen; englischer Entlassungsbrief China; zweisprachige Krankenhausunterlagen
+
+
+- **Meta title:** Sprachunterstützung und englische Unterlagen in Krankenhäusern in China
+- **Meta description:** Prüfen Sie medizinisches Dolmetschen, chinesische Originalakten und klinisch geprüfte englische Übergaben an chinesischen Krankenhäusern, einschließlich Einwilligung, Medikamenten, DICOM, Datenschutz und Korrekturen.
 
 ## Quellen
 

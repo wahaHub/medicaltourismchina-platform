@@ -1,12 +1,14 @@
-# Comparing multiple myeloma treatments: match the stage and resistance history
+# Myeloma Treatment Options in China: Comparing by Care Stage
 
 ## Hero
 
-- **Title:** Comparing multiple myeloma treatments: match the stage and resistance history
 - **Category:** Treatment Guides
 - **Subcategory:** Multiple Myeloma
-- **Subtitle:** When two myeloma recommendations differ, asking which is stronger may not resolve the choice.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Myeloma Treatment Options in China: Comparing by Care Stage
+- **Subtitle:** Compare myeloma options against treatment stage and resistance history, then confirm the specific regimen and support available at the China hospital.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Finally, ask each doctor which evidence or personal constraint explains the diff
 ## SEO Metadata
 
 - **Primary keyword:** multiple myeloma treatment comparison
+
+- **Meta title:** Myeloma Treatment Options in China: Comparing by Care Stage
+- **Meta description:** Compare myeloma options against treatment stage and resistance history, then confirm the specific regimen and support available at the China hospital.

@@ -1,15 +1,17 @@
-# Los antibióticos no son una medida de lo «grave» que es una infección
+# Decisiones sobre antibióticos en China: preguntas para su médico
 
 ## Hero
 
-- **Title:** Los antibióticos no son una medida de lo «grave» que es una infección
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Medicamentos
-- **Subtitle:** Una guía práctica para decidir cuándo ayudan los antibióticos, cuándo es más segura la observación y por qué importan los cultivos, el control del foco y una fecha de revisión.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un profesional clínico y un paciente revisan una hoja de decisiones sobre medicación junto a envases de medicamentos etiquetados
+
+
+- **Title:** Decisiones sobre antibióticos en China: preguntas para su médico
+- **Subtitle:** Sepa por qué la fiebre o la mucosidad verde no demuestran infección bacteriana, cuándo se necesitan antibióticos urgentes y cómo los cultivos, las fechas de revisión y el control del foco orientan el tratamiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -155,11 +157,13 @@ El cultivo, las imágenes y la respuesta clínica pueden haber identificado un o
 
 ## SEO Metadata
 
-- **SEO title:** ¿Cuándo se necesitan antibióticos? Una guía de decisiones para pacientes
-- **Meta description:** Sepa por qué la fiebre o la mucosidad verde no demuestran infección bacteriana, cuándo se necesitan antibióticos urgentes y cómo los cultivos, las fechas de revisión y el control del foco orientan el tratamiento.
 - **Primary keyword:** cuándo se necesitan antibióticos
 - **Secondary keywords:** antibióticos para infección viral, resistencia a los antibióticos, antibióticos guiados por cultivos, antibióticos de espectro amplio frente a estrecho, efectos secundarios de los antibióticos, uso responsable de antimicrobianos
 - **Suggested URL slug:** `/when-antibiotics-are-needed-infection-guide`
+
+
+- **Meta title:** Decisiones sobre antibióticos en China: preguntas para su médico
+- **Meta description:** Sepa por qué la fiebre o la mucosidad verde no demuestran infección bacteriana, cuándo se necesitan antibióticos urgentes y cómo los cultivos, las fechas de revisión y el control del foco orientan el tratamiento.
 
 ## Fuentes
 

@@ -1,12 +1,14 @@
-# Radiation and Device Interventions for Alzheimer’s: Focused Ultrasound, Magnetic Stimulation and Sensory Therapy
+# Alzheimer’s Radiation and Device Research: China Care Checks
 
 ## Hero
 
-- **Title:** Radiation and Device Interventions for Alzheimer’s: Focused Ultrasound, Magnetic Stimulation and Sensory Therapy
 - **Category:** Treatment Guides
 - **Subcategory:** Alzheimer Disease
-- **Subtitle:** Descriptions such as “noninvasive,” “precision stimulation” and “opening the blood–brain barrier” can refer to very different technologies.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Alzheimer’s Radiation and Device Research: China Care Checks
+- **Subtitle:** Examine Alzheimer’s radiation and device research, evidence limits and regulatory distinctions, with questions before considering a proposal in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,3 +142,6 @@ Continue to address eating, movement, sleep, home safety and caregiver support. 
 ## SEO Metadata
 
 - **Primary keyword:** interventional treatment for Alzheimer’s disease
+
+- **Meta title:** Alzheimer’s Radiation and Device Research: China Care Checks
+- **Meta description:** Examine Alzheimer’s radiation and device research, evidence limits and regulatory distinctions, with questions before considering a proposal in China.

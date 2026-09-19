@@ -1,15 +1,17 @@
-# 怎样选择天津医院：专科匹配、院区地理与“要不要去北京”
+# 中国医院选择：天津院区、交通与北京转诊
 
 ## Hero
 
-- **Title:** 怎样选择天津医院：专科匹配、院区地理与“要不要去北京”
 - **Category:** 医院指南
 - **Subcategory:** 天津就医规划
-- **Subtitle:** 围绕一个临床锚点、一个康复驻点和一条书面升级路线安排行程，而不是围绕名气或高铁时长。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 患者规划天津就医行程的概念插画；天津风格天际线、医院、地图和扫描仪图标均不代表真实院区、路线或机构背书。
+
+
+- **Title:** 中国医院选择：天津院区、交通与北京转诊
+- **Subtitle:** 从专科团队、实际院区、康复驻点、北京转诊边界、护照渠道、交通、急救后备和出院责任八方面选择天津医院。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -236,13 +238,15 @@
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-tianjin-specialties-access-and-travel`
-- **Meta title:** 怎样选择天津医院：院区、交通与北京转诊边界
-- **Meta description:** 从专科团队、实际院区、康复驻点、北京转诊边界、护照渠道、交通、急救后备和出院责任八方面选择天津医院。
 - **Primary keyword:** 怎样选择天津医院
 - **Pillar keyword:** 天津国际患者医院
 - **Vertical keyword:** 天津医院专科院区交通
 - **Search intent:** 医院比较 / 天津医疗旅行规划
 - **Secondary keywords:** 天津医院院区；天津还是北京看病；天津医院护照挂号；天津南站医院；天津 120 急救
+
+
+- **Meta title:** 中国医院选择：天津院区、交通与北京转诊
+- **Meta description:** 从专科团队、实际院区、康复驻点、北京转诊边界、护照渠道、交通、急救后备和出院责任八方面选择天津医院。
 
 ## Sources
 

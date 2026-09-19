@@ -1,12 +1,14 @@
-# Mieloma multipel kambuh atau refrakter: memastikan progresi dan memilih pengobatan berikutnya
+# Mieloma Kambuh atau Refrakter di Tiongkok: Tinjauan Pengobatan
 
 ## Hero
 
-- **Title:** Mieloma multipel kambuh atau refrakter: memastikan progresi dan memilih pengobatan berikutnya
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Mieloma Multipel
-- **Subtitle:** Peningkatan protein monoklonal dapat membuat pasien takut bahwa semua pengobatan yang tersedia telah berhenti bekerja.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Mieloma Kambuh atau Refrakter di Tiongkok: Tinjauan Pengobatan
+- **Subtitle:** Tinjau mieloma kambuh atau refrakter di Tiongkok melalui konfirmasi progresi, ancaman organ, dan riwayat respons sebelum memilih terapi berikutnya.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Dampak emosional juga patut diperhatikan. Kekambuhan tidak menghapus waktu dan p
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan mieloma multipel kambuh refrakter di Tiongkok
+
+- **Meta title:** Mieloma Kambuh atau Refrakter di Tiongkok: Tinjauan Pengobatan
+- **Meta description:** Tinjau mieloma kambuh atau refrakter di Tiongkok melalui konfirmasi progresi, ancaman organ, dan riwayat respons sebelum memilih terapi berikutnya.

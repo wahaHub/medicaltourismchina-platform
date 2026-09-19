@@ -1,12 +1,14 @@
-# Comparación de tratamientos para la epilepsia farmacorresistente: medicamentos, resección, ablación, estimulación y terapia dietética
+# Epilepsia farmacorresistente en China: comparar opciones de tratamiento
 
 ## Hero
 
-- **Title:** Comparación de tratamientos para la epilepsia farmacorresistente: medicamentos, resección, ablación, estimulación y terapia dietética
 - **Category:** Guías de tratamiento
 - **Subcategory:** Epilepsia farmacorresistente
-- **Subtitle:** Empiece por establecer qué opciones son viables para la persona.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Epilepsia farmacorresistente en China: comparar opciones de tratamiento
+- **Subtitle:** Compare medicamentos, resección, ablación, estimulación y dieta para epilepsia farmacorresistente según objetivos y evaluación especializada en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -152,3 +154,6 @@ Si los datos son insuficientes, complete las pruebas que probablemente cambien l
 ## SEO Metadata
 
 - **Primary keyword:** comparación de tratamientos de la epilepsia farmacorresistente; medicación frente a cirugía de la epilepsia; neuroestimulación para la epilepsia; ablación láser en China
+
+- **Meta title:** Epilepsia farmacorresistente en China: comparar opciones de tratamiento
+- **Meta description:** Compare medicamentos, resección, ablación, estimulación y dieta para epilepsia farmacorresistente según objetivos y evaluación especializada en China.

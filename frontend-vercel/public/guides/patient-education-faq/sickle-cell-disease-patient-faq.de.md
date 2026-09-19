@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** 20 Fragen zur Sichelzellkrankheit: Medikamente, Transfusion, Gentherapie und Versorgung in China
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Sichelzellkrankheit
-- **Subtitle:** Fragen zur Sichelzellkrankheit entstehen oft im Alltag: Ein Kind hat wenig Schmerzen, erhält aber vorbeugende Medikamente; Symptome verschlechtern sich nach Transfusion; oder eine Gentherapiemeldung lässt eine Familie über sofortiges Reisen nachdenken.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** 20 Fragen zur Sichelzellkrankheit: Medikamente, Transfusion, Gentherapie und Versorgung in China
+- **Subtitle:** 20 Fragen zur Sichelzellversorgung in China: Diagnose, Hydroxyurea, Schmerzkrisen, Transfusionen, Gentherapie und notwendige Sicherheitskontrollen verstehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -157,3 +159,6 @@ Schreiben Sie zuerst die Hauptfrage auf und sammeln Sie dann Genotypnachweise, a
 ## SEO Metadata
 
 - **Primary keyword:** häufige Patientenfragen zur Sichelzellkrankheit
+
+- **Meta title:** 20 Fragen zur Sichelzellkrankheit: Medikamente, Transfusion, Gentherapie und Versorgung in China
+- **Meta description:** 20 Fragen zur Sichelzellversorgung in China: Diagnose, Hydroxyurea, Schmerzkrisen, Transfusionen, Gentherapie und notwendige Sicherheitskontrollen verstehen.

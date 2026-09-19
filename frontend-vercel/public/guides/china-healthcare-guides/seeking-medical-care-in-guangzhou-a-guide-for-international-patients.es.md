@@ -1,15 +1,17 @@
-# 023 Buscar atención médica en Guangzhou: guía para pacientes internacionales
+# Atención médica en China: guía del paciente en Guangzhou
 
 ## Hero
 
-- **Title:** Buscar atención médica en Guangzhou: guía para pacientes internacionales
 - **Category:** Guías de atención sanitaria en China
 - **Subcategory:** Elegir un destino asistencial
-- **Subtitle:** Un recorrido específico por las citas en Guangzhou, el registro con pasaporte, el seguimiento de resultados, el apoyo lingüístico y la atención de urgencias.
 - **Reviewed by:** Equipo editorial de Medora Health; se requiere revisión clínica y de orientación hospitalaria en Guangzhou antes de la publicación
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un paciente internacional se reúne con un médico con equipaje y el perfil urbano de Guangzhou cerca
+
+
+- **Title:** Atención médica en China: guía del paciente en Guangzhou
+- **Subtitle:** Utilice Guangzhou Health Link con pasaporte, verifique hospitales, organice interpretación, comprenda el seguimiento de tres días y prepárese para emergencias al 120.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -197,13 +199,15 @@ Llame al 120 e indique la ubicación exacta y el estado del paciente. La página
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-guangzhou-a-guide-for-international-patients`
-- **Meta title:** Atención médica en Guangzhou para pacientes internacionales
-- **Meta description:** Utilice Guangzhou Health Link con pasaporte, verifique hospitales, organice interpretación, comprenda el seguimiento de tres días y prepárese para emergencias al 120.
 - **Primary keyword:** atención médica en Guangzhou para pacientes internacionales
 - **Pillar keyword:** atención sanitaria en China para pacientes internacionales
 - **Vertical keyword:** cita hospitalaria en Guangzhou para extranjeros
 - **Search intent:** planificación de citas y atención en la ciudad
 - **Secondary keywords:** Guangzhou Health Link pasaporte; paciente internacional hospital Guangzhou; seguimiento de tres días Guangzhou; ambulancia Guangzhou 120
+
+
+- **Meta title:** Atención médica en China: guía del paciente en Guangzhou
+- **Meta description:** Utilice Guangzhou Health Link con pasaporte, verifique hospitales, organice interpretación, comprenda el seguimiento de tres días y prepárese para emergencias al 120.
 
 ## Fuentes
 

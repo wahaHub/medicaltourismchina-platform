@@ -1,12 +1,14 @@
-# New Drugs, Brain–Computer Interfaces and Clinical Trials in Stroke Rehabilitation
+# Stroke Rehabilitation Research in China: Drugs and BCI Trials
 
 ## Hero
 
-- **Title:** New Drugs, Brain–Computer Interfaces and Clinical Trials in Stroke Rehabilitation
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Post Ischemic Stroke Rehabilitation
-- **Subtitle:** After a period of stroke rehabilitation, patients often continue looking for a new medicine, device, or research study.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Stroke Rehabilitation Research in China: Drugs and BCI Trials
+- **Subtitle:** Explore stroke rehabilitation drug and brain–computer interface research, including evidence limits and checks before considering a study in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -136,3 +138,6 @@ A participant's wishes can change. Discuss withdrawal and safety follow-up in ad
 ## SEO Metadata
 
 - **Primary keyword:** new stroke rehabilitation treatments and clinical trials
+
+- **Meta title:** Stroke Rehabilitation Research in China: Drugs and BCI Trials
+- **Meta description:** Explore stroke rehabilitation drug and brain–computer interface research, including evidence limits and checks before considering a study in China.

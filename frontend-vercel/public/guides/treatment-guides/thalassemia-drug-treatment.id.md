@@ -1,12 +1,14 @@
-# Obat talasemia: memahami tujuan resep dan rencana pemantauannya
+# Obat Talasemia di Tiongkok: Kegunaan, Akses, dan Pemantauan
 
 ## Hero
 
-- **Title:** Obat talasemia: memahami tujuan resep dan rencana pemantauannya
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Talasemia
-- **Subtitle:** Daftar obat talasemia dapat berisi kelator, pengobatan yang ditujukan pada anemia, suplemen nutrisi, dan obat untuk masalah kesehatan lain.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat Talasemia di Tiongkok: Kegunaan, Akses, dan Pemantauan
+- **Subtitle:** Pahami tujuan kelator dan obat anemia pada talasemia. Periksa formulasi, akses, serta pemantauan ginjal, hati, dan efek samping di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Rencana obat paling berguna mencakup tujuan setiap obat, penilaian berikutnya, s
 ## SEO Metadata
 
 - **Primary keyword:** obat talasemia; deferasirox; deferiprone; deferoxamine; luspatercept; mitapivat
+
+- **Meta title:** Obat Talasemia di Tiongkok: Kegunaan, Akses, dan Pemantauan
+- **Meta description:** Pahami tujuan kelator dan obat anemia pada talasemia. Periksa formulasi, akses, serta pemantauan ginjal, hati, dan efek samping di Tiongkok.

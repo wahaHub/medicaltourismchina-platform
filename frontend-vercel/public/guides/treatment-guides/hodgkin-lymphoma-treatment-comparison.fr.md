@@ -1,12 +1,14 @@
-# Comparer les protocoles du lymphome de Hodgkin : ABVD, N-AVD, BV-AVD et BrECADD
+# Protocoles du lymphome de Hodgkin en Chine : comparer les options
 
 ## Hero
 
-- **Title:** Comparer les protocoles du lymphome de Hodgkin : ABVD, N-AVD, BV-AVD et BrECADD
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome de Hodgkin
-- **Subtitle:** La première règle pour comparer les traitements du lymphome de Hodgkin est de vérifier que les recommandations concernent la même situation.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Protocoles du lymphome de Hodgkin en Chine : comparer les options
+- **Subtitle:** Comparez les protocoles du lymphome de Hodgkin selon la population étudiée, les risques pulmonaires et la place de l’irradiation avant des soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -136,3 +138,6 @@ Après le choix, conservez la trace de la discussion. Une nouvelle actualité sc
 ## SEO Metadata
 
 - **Primary keyword:** comparaison des traitements du lymphome de Hodgkin
+
+- **Meta title:** Protocoles du lymphome de Hodgkin en Chine : comparer les options
+- **Meta description:** Comparez les protocoles du lymphome de Hodgkin selon la population étudiée, les risques pulmonaires et la place de l’irradiation avant des soins en Chine.

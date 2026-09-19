@@ -1,15 +1,17 @@
-# Eine Operationswunde auf Reisen schützen: Ein Plan für die Reise, nicht nur für den Verband
+# Reisen nach einer Operation in China: Ihre Wunde schützen
 
 ## Hero
 
-- **Title:** Eine Operationswunde auf Reisen schützen: Ein Plan für die Reise, nicht nur für den Verband
 - **Category:** Patienteninformation & FAQ
 - **Subcategory:** Infektionsprävention
-- **Subtitle:** Wie Sie entscheiden, ob eine Reise sinnvoll ist, Wundmaterial einpacken, unterwegs einen Verband wechseln, Drainagen schützen und Probleme nach einer Operation erkennen.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Eine reisende Person mit abgedecktem Bauchschnitt bespricht Verbandmaterial und einen schriftlichen Wundversorgungsplan mit einer Pflegefachkraft
+
+
+- **Title:** Reisen nach einer Operation in China: Ihre Wunde schützen
+- **Subtitle:** Praktischer Reiseführer für die Zeit nach einer Operation zu Wundverbänden, Drainagen, Flügen, Duschen, Warnzeichen, Material und Notfallplanung.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Sich ausbreitende Rötung, zunehmende Schmerzen, eitriges oder übel riechendes Sekret, auseinanderweichende Wundränder, anhaltende Blutungen, Fieber, Wadenschwellung, Brustschmerzen oder Atemnot erfordern eine rasche ärztliche Beurteilung.
 
 ## Content
+
+Wenn Ihre Reise auf eine Operation in China folgt, stimmen Sie den Wundversorgungs- und Reiseplan vor der Abreise mit dem Operationsteam ab. Verbandanweisungen, Drainagen, Bewegungseinschränkungen, Warnzeichen und der weiterbehandelnde Arzt zu Hause sollten sämtlich in der Übergabe enthalten sein.
+
 
 Ein Verband ist nur ein Teil des Schutzes einer Operationswunde. Schwieriger sind die Fragen, ob die Wunde stabil ist, ob der Patient sich bewegen und die Körperpflege bewältigen kann und was geschieht, wenn sich der Wundverschluss Hunderte Kilometer vom Operationsteam entfernt öffnet.
 
@@ -120,11 +125,13 @@ Auseinanderweichende Wundränder, unkontrollierte Blutung, rasch zunehmende Röt
 
 ## SEO Metadata
 
-- **SEO title:** So schützen Sie eine Operationswunde auf Reisen
-- **Meta description:** Praktischer Reiseführer für die Zeit nach einer Operation zu Wundverbänden, Drainagen, Flügen, Duschen, Warnzeichen, Material und Notfallplanung.
 - **Primary keyword:** eine Operationswunde auf Reisen schützen
 - **Secondary keywords:** Wundversorgung beim Fliegen nach Operation, Reisen mit chirurgischer Drainage, Wundverband im Flugzeug, Anzeichen einer Wundinfektion, Reiseset nach Operation
 - **Suggested URL slug:** `/protect-surgical-wound-travel`
+
+
+- **Meta title:** Reisen nach einer Operation in China: Ihre Wunde schützen
+- **Meta description:** Praktischer Reiseführer für die Zeit nach einer Operation zu Wundverbänden, Drainagen, Flügen, Duschen, Warnzeichen, Material und Notfallplanung.
 
 ## Quellen
 

@@ -1,12 +1,14 @@
-# Obat untuk epilepsi resistan obat: memilih regimen, memeriksa obat lebih baru, dan merencanakan pemantauan
+# Obat Epilepsi Resistan Obat di Tiongkok: Akses dan Pemantauan
 
 ## Hero
 
-- **Title:** Obat untuk epilepsi resistan obat: memilih regimen, memeriksa obat lebih baru, dan merencanakan pemantauan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Epilepsi Resistan Obat
-- **Subtitle:** Setelah beberapa obat gagal mengendalikan kejang, wajar jika bertanya apakah tersedia obat yang lebih kuat atau lebih baru.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat Epilepsi Resistan Obat di Tiongkok: Akses dan Pemantauan
+- **Subtitle:** Tinjau obat epilepsi resistan obat berdasarkan jenis kejang, riwayat penggunaan, dan toleransi. Siapkan pemeriksaan akses serta pemantauan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -149,3 +151,6 @@ Perbaikan berkelanjutan memerlukan lebih dari mencapai target pada bagan resep. 
 ## SEO Metadata
 
 - **Primary keyword:** obat epilepsi resistan obat; pengobatan obat antikejang; cenobamate di Tiongkok; pengobatan kombinasi epilepsi
+
+- **Meta title:** Obat Epilepsi Resistan Obat di Tiongkok: Akses dan Pemantauan
+- **Meta description:** Tinjau obat epilepsi resistan obat berdasarkan jenis kejang, riwayat penggunaan, dan toleransi. Siapkan pemeriksaan akses serta pemantauan di Tiongkok.

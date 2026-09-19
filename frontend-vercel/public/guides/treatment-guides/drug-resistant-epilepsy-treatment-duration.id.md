@@ -1,12 +1,14 @@
-# Berapa lama pengobatan epilepsi resistan obat? Merencanakan obat, prosedur, dan penghentian
+# Perawatan Epilepsi Resistan Obat di Tiongkok: Jadwal Pengobatan
 
 ## Hero
 
-- **Title:** Berapa lama pengobatan epilepsi resistan obat? Merencanakan obat, prosedur, dan penghentian
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Epilepsi Resistan Obat
-- **Subtitle:** Lama rawat inap dan durasi pengobatan epilepsi menjawab pertanyaan yang berbeda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Perawatan Epilepsi Resistan Obat di Tiongkok: Jadwal Pengobatan
+- **Subtitle:** Bedakan lama rawat inap, titrasi obat, evaluasi prosedur, dan tindak lanjut epilepsi resistan obat saat merencanakan pengobatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -162,3 +164,6 @@ Tidak seorang pun dapat secara andal menjadwalkan setiap keputusan pengobatan ma
 ## SEO Metadata
 
 - **Primary keyword:** durasi pengobatan epilepsi resistan obat; penghentian obat setelah bedah epilepsi; jadwal pengobatan epilepsi di Tiongkok
+
+- **Meta title:** Perawatan Epilepsi Resistan Obat di Tiongkok: Jadwal Pengobatan
+- **Meta description:** Bedakan lama rawat inap, titrasi obat, evaluasi prosedur, dan tindak lanjut epilepsi resistan obat saat merencanakan pengobatan di Tiongkok.

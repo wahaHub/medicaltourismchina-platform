@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** DLBCL-Patientenfragen: 20 Fragen zu Behandlung, Rückfall und Versorgung in China
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Diffuses großzelliges B-Zell-Lymphom
-- **Subtitle:** Bei Fragen zu DLBCL müssen häufig Pathologie, Stadium, bisherige Behandlung und körperliche Belastbarkeit gemeinsam betrachtet werden.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL-Patientenfragen: 20 Fragen zu Behandlung, Rückfall und Versorgung in China
+- **Subtitle:** 20 Fragen zur DLBCL-Versorgung in China: Diagnose, Risikobefunde, Erstlinientherapie, PET-Ansprechen, Rückfall und weitere Betreuung verständlich einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Bringen Sie abschließende Pathologiebefunde, verabreichte Medikamente, Dosisän
 ## SEO Metadata
 
 - **Primary keyword:** DLBCL häufige Patientenfragen
+
+- **Meta title:** DLBCL-Patientenfragen: 20 Fragen zu Behandlung, Rückfall und Versorgung in China
+- **Meta description:** 20 Fragen zur DLBCL-Versorgung in China: Diagnose, Risikobefunde, Erstlinientherapie, PET-Ansprechen, Rückfall und weitere Betreuung verständlich einordnen.

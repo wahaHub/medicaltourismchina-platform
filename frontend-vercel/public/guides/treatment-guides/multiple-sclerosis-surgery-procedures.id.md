@@ -1,12 +1,14 @@
-# Prosedur untuk sklerosis multipel: pertukaran plasma, AHSCT, dan persiapan sebelum pengobatan
+# Prosedur Sklerosis Multipel di Tiongkok: Pertukaran Plasma dan Penilaian AHSCT
 
 ## Hero
 
-- **Title:** Prosedur untuk sklerosis multipel: pertukaran plasma, AHSCT, dan persiapan sebelum pengobatan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Sklerosis Multipel
-- **Subtitle:** MS biasanya tidak diobati dengan mengangkat lesi tertentu melalui operasi.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prosedur Sklerosis Multipel di Tiongkok: Pertukaran Plasma dan Penilaian AHSCT
+- **Subtitle:** Pahami tujuan pertukaran plasma dan penilaian transplantasi sel punca autologus pada sklerosis multipel, termasuk risiko serta persiapan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Konfirmasikan tahap mana yang dicakup perkiraan biaya, bagaimana komplikasi akan
 ## SEO Metadata
 
 - **Primary keyword:** prosedur sklerosis multipel dan transplantasi sel punca
+
+- **Meta title:** Prosedur Sklerosis Multipel di Tiongkok: Pertukaran Plasma dan Penilaian AHSCT
+- **Meta description:** Pahami tujuan pertukaran plasma dan penilaian transplantasi sel punca autologus pada sklerosis multipel, termasuk risiko serta persiapan di Tiongkok.

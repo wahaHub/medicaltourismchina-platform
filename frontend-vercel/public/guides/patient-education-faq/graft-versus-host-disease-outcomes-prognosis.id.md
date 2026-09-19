@@ -1,12 +1,14 @@
-# Pemulihan dan Prognosis Setelah GVHD: Memahami Respons, Waktu Bebas Pengobatan, dan Fungsi Sehari-hari
+# Pemulihan dan Prognosis GVHD: Pertanyaan Penilaian di Tiongkok
 
 ## Hero
 
-- **Title:** Pemulihan dan Prognosis Setelah GVHD: Memahami Respons, Waktu Bebas Pengobatan, dan Fungsi Sehari-hari
 - **Category:** Edukasi Pasien & FAQ
 - **Subcategory:** Penyakit Graft Versus Host
-- **Subtitle:** “Apakah saya akan pulih?” dapat berarti beberapa hal bagi seseorang yang hidup dengan penyakit graft-versus-host.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pemulihan dan Prognosis GVHD: Pertanyaan Penilaian di Tiongkok
+- **Subtitle:** Pahami pemulihan GVHD melalui respons organ, fungsi, dan kebutuhan obat. Siapkan pertanyaan prognosis serta tujuan perawatan untuk penilaian di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -136,3 +138,6 @@ Prospek dapat berubah seiring perkembangan pengendalian organ, penanganan infeks
 ## SEO Metadata
 
 - **Primary keyword:** prognosis GVHD dan hasil pengobatan
+
+- **Meta title:** Pemulihan dan Prognosis GVHD: Pertanyaan Penilaian di Tiongkok
+- **Meta description:** Pahami pemulihan GVHD melalui respons organ, fungsi, dan kebutuhan obat. Siapkan pertanyaan prognosis serta tujuan perawatan untuk penilaian di Tiongkok.

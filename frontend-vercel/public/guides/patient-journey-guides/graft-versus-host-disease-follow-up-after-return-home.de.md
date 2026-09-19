@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Nachsorge nach einer GVHD-Behandlung in China: Untersuchungen, Verordnungen und Organversorgung zu Hause verbinden
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Graft-versus-Host-Erkrankung
-- **Subtitle:** Nach der Heimkehr können unklare Zuständigkeiten das Hauptproblem sein, eher als ein fehlender Entlassungsbrief.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Nachsorge nach einer GVHD-Behandlung in China: Untersuchungen, Verordnungen und Organversorgung zu Hause verbinden
+- **Subtitle:** GVHD-Nachsorge nach Behandlung in China organisieren: Verordnungen, Ausschleichen, Laborkontrollen und Lungen-, Augen-, Mund- und Hautversorgung abstimmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Ein wirksamer Heimkehrplan macht die nächste Maßnahme, den Empfänger der Erge
 ## SEO Metadata
 
 - **Primary keyword:** Nachsorge nach GVHD-Behandlung in China
+
+- **Meta title:** Nachsorge nach einer GVHD-Behandlung in China: Untersuchungen, Verordnungen und Organversorgung zu Hause verbinden
+- **Meta description:** GVHD-Nachsorge nach Behandlung in China organisieren: Verordnungen, Ausschleichen, Laborkontrollen und Lungen-, Augen-, Mund- und Hautversorgung abstimmen.

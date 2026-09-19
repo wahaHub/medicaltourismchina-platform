@@ -1,12 +1,14 @@
-# The first treatment plan after drug-resistant epilepsy is recognized: agree on changes, monitoring, and referral
+# Drug-Resistant Epilepsy in China: The Initial Treatment Plan
 
 ## Hero
 
-- **Title:** The first treatment plan after drug-resistant epilepsy is recognized: agree on changes, monitoring, and referral
 - **Category:** Treatment Guides
 - **Subcategory:** Drug Resistant Epilepsy
-- **Subtitle:** At this stage, the patient needs a plan that can be carried out and reviewed.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Drug-Resistant Epilepsy in China: The Initial Treatment Plan
+- **Subtitle:** Build an initial plan for established drug-resistant epilepsy that explains medicine changes, monitoring and referral responsibilities during care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,3 +152,6 @@ At later review, bring together events, adverse effects, and the patient's goals
 ## SEO Metadata
 
 - **Primary keyword:** initial drug-resistant epilepsy management plan; antiseizure medication adjustment; add-on epilepsy treatment; referral in China
+
+- **Meta title:** Drug-Resistant Epilepsy in China: The Initial Treatment Plan
+- **Meta description:** Build an initial plan for established drug-resistant epilepsy that explains medicine changes, monitoring and referral responsibilities during care in China.

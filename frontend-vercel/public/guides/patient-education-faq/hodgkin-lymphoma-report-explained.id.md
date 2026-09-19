@@ -1,12 +1,14 @@
-# Memahami laporan limfoma Hodgkin: patologi, stadium, dan skor Deauville
+# Laporan Limfoma Hodgkin: Persiapan Tinjauan di Tiongkok
 
 ## Hero
 
-- **Title:** Memahami laporan limfoma Hodgkin: patologi, stadium, dan skor Deauville
 - **Category:** Edukasi Pasien & FAQ
 - **Subcategory:** Limfoma Hodgkin
-- **Subtitle:** Berkas limfoma Hodgkin biasanya berisi beberapa jenis laporan berbeda: patologi, PET/CT, hasil laboratorium, dan penilaian stadium oleh dokter.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Laporan Limfoma Hodgkin: Persiapan Tinjauan di Tiongkok
+- **Subtitle:** Pahami laporan patologi, stadium, gejala B, dan skor Deauville pada limfoma Hodgkin. Siapkan hasil lengkap untuk tinjauan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ Mintalah dokter merangkum keadaan saat ini dalam kalimat biasa: penyakit apa yan
 ## SEO Metadata
 
 - **Primary keyword:** penjelasan laporan limfoma Hodgkin
+
+- **Meta title:** Laporan Limfoma Hodgkin: Persiapan Tinjauan di Tiongkok
+- **Meta description:** Pahami laporan patologi, stadium, gejala B, dan skor Deauville pada limfoma Hodgkin. Siapkan hasil lengkap untuk tinjauan di Tiongkok.

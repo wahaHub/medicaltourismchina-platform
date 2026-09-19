@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Parkinson-Behandlung in China: Ein Plan rund um die Alltagsfunktion
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Parkinson-Krankheit
-- **Subtitle:** Eine in Ruhe zitternde Hand, zunehmende Schwierigkeiten beim Schließen von Kleidung oder zögernde Füße beim Wenden können jemanden zum Neurologen führen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Parkinson-Behandlung in China: Ein Plan rund um die Alltagsfunktion
+- **Subtitle:** Parkinson-Behandlung in China am Alltag ausrichten: Diagnose, Medikamentenwirkung, Rehabilitation, nichtmotorische Beschwerden und mögliche Hirnstimulation besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -92,3 +94,6 @@ Quellen geprüft: 9. September 2026. Dieser Artikel dient der allgemeinen Patien
 ## SEO Metadata
 
 - **Primary keyword:** Behandlung der Parkinson-Krankheit in China
+
+- **Meta title:** Parkinson-Behandlung in China: Ein Plan rund um die Alltagsfunktion
+- **Meta description:** Parkinson-Behandlung in China am Alltag ausrichten: Diagnose, Medikamentenwirkung, Rehabilitation, nichtmotorische Beschwerden und mögliche Hirnstimulation besprechen.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choisir un hôpital pour le lymphome de Hodgkin en Chine : adapter le choix aux besoins de première ligne, de radiothérapie et de rechute
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Lymphome de Hodgkin
-- **Subtitle:** Choisir un hôpital pour le lymphome de Hodgkin en Chine commence par le problème à résoudre.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choisir un hôpital pour le lymphome de Hodgkin en Chine : adapter le choix aux besoins de première ligne, de radiothérapie et de rechute
+- **Subtitle:** Comparez les équipes de lymphome de Hodgkin en Chine sur l’anatomopathologie, l’interprétation de la TEP, la radiothérapie et la continuité des soins.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -143,3 +145,6 @@ Le choix final peut être éprouvé par des questions concrètes : cette équipe
 ## SEO Metadata
 
 - **Primary keyword:** choisir un hôpital pour le lymphome de Hodgkin en Chine
+
+- **Meta title:** Choisir un hôpital pour le lymphome de Hodgkin en Chine : adapter le choix aux besoins de première ligne, de radiothérapie et de rechute
+- **Meta description:** Comparez les équipes de lymphome de Hodgkin en Chine sur l’anatomopathologie, l’interprétation de la TEP, la radiothérapie et la continuité des soins.

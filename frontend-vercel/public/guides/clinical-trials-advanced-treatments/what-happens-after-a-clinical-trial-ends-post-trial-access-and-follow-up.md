@@ -1,15 +1,17 @@
-# What Happens After a Clinical Trial Ends? Post-Trial Access and Follow-Up
+# After a Clinical Trial in China: Access and Follow-Up
 
 ## Hero
 
-- **Title:** What Happens After a Clinical Trial Ends? Post-Trial Access and Follow-Up
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Trial Exit & Continuing Care
-- **Subtitle:** Separate the last study visit from the end of treatment, safety follow-up, access to the intervention and publication of results.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** The current generic consultation image is awaiting replacement with a trial-exit handover and post-trial access planning illustration.
+
+
+- **Title:** After a Clinical Trial in China: Access and Follow-Up
+- **Subtitle:** Understand trial end dates, post-trial access routes, final records, long-term safety follow-up, costs, unblinding, results and cross-border clinical handover.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -203,11 +205,13 @@ Obtain actual exposure and procedure details, current medicines, unresolved even
 ## SEO Metadata
 
 - **Slug:** `what-happens-after-a-clinical-trial-ends-post-trial-access-and-follow-up`
-- **Meta title:** After a Clinical Trial Ends: Access and Follow-Up
-- **Meta description:** Understand trial end dates, post-trial access routes, final records, long-term safety follow-up, costs, unblinding, results and cross-border clinical handover.
 - **Primary keyword:** post-trial access and follow-up
 - **Secondary keywords:** after clinical trial ends; open-label extension; China expanded access; clinical trial exit visit; long-term trial follow-up
 - **Search intent:** trial completion, continuing access and care transition
+
+
+- **Meta title:** After a Clinical Trial in China: Access and Follow-Up
+- **Meta description:** Understand trial end dates, post-trial access routes, final records, long-term safety follow-up, costs, unblinding, results and cross-border clinical handover.
 
 ## Sources
 

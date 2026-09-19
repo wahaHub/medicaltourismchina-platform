@@ -1,15 +1,17 @@
-# 广州就医：国际患者指南
+# 中国就医指南：国际患者在广州看病
 
 ## Hero
 
-- **Title:** 广州就医：国际患者指南
 - **Category:** 中国医疗指南
 - **Subcategory:** 城市就医与预约流程
-- **Subtitle:** 从护照实名预约、院区与门诊类型核对，到检验结果续诊、语言协助和 120 急救的一条完整广州就医路线。
 - **Reviewed by:** Medora Health 编辑团队；发布前需由熟悉广州医院流程的临床与运营人员复核
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 国际患者带着行李，在广州城市背景下与医生沟通
+
+
+- **Title:** 中国就医指南：国际患者在广州看病
+- **Subtitle:** 用护照注册广州健康通、核验医院、安排口译、正确使用三天续诊，并准备广州120急救和离院交接。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -193,13 +195,15 @@
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-guangzhou-a-guide-for-international-patients`
-- **Meta title:** 国际患者广州就医指南
-- **Meta description:** 用护照注册广州健康通、核验医院、安排口译、正确使用三天续诊，并准备广州120急救和离院交接。
 - **Primary keyword:** 国际患者广州就医
 - **Pillar keyword:** 国际患者赴华就医
 - **Vertical keyword:** 外国人在广州预约医院
 - **Search intent:** 挂号与城市就医规划
 - **Secondary keywords:** 广州健康通护照注册；广州国际患者医院；一次挂号管三天；广州120救护车
+
+
+- **Meta title:** 中国就医指南：国际患者在广州看病
+- **Meta description:** 用护照注册广州健康通、核验医院、安排口译、正确使用三天续诊，并准备广州120急救和离院交接。
 
 ## Sources
 

@@ -1,12 +1,14 @@
-# Médicaments de la sclérose en plaques : traitements de fond, surveillance et transitions planifiées
+# Médicaments de la SEP en Chine : options, surveillance et transitions
 
 ## Hero
 
-- **Title:** Médicaments de la sclérose en plaques : traitements de fond, surveillance et transitions planifiées
 - **Category:** Guides des traitements
 - **Subcategory:** Sclérose en plaques
-- **Subtitle:** Les listes de médicaments de la SEP diffèrent parce que les pays, les dates d’autorisation et les indications diffèrent.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Médicaments de la SEP en Chine : options, surveillance et transitions
+- **Subtitle:** Distinguez traitements de fond, des poussées et des symptômes de la SEP pour organiser bilans de sécurité, surveillance et transitions thérapeutiques en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Confirmez séparément les coûts du médicament, de l’administration, des ana
 ## SEO Metadata
 
 - **Primary keyword:** traitement médicamenteux et surveillance de la sclérose en plaques
+
+- **Meta title:** Médicaments de la SEP en Chine : options, surveillance et transitions
+- **Meta description:** Distinguez traitements de fond, des poussées et des symptômes de la SEP pour organiser bilans de sécurité, surveillance et transitions thérapeutiques en Chine.

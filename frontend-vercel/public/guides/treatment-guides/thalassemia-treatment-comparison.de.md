@@ -1,12 +1,14 @@
-# Thalassämiebehandlungen vergleichen: Transfusionsversorgung, Anämiemedikamente, Transplantation und Gentherapie
+# Behandlungsoptionen bei Thalassämie: Eignung und Zugang in China
 
 ## Hero
 
-- **Title:** Thalassämiebehandlungen vergleichen: Transfusionsversorgung, Anämiemedikamente, Transplantation und Gentherapie
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Thalassämie
-- **Subtitle:** Thalassämiebehandlungen werden häufig miteinander verglichen, obwohl sie unterschiedliche Probleme behandeln.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Behandlungsoptionen bei Thalassämie: Eignung und Zugang in China
+- **Subtitle:** Thalassämietherapien für China vergleichen: Transfusionen, Anämiemedikamente, Transplantation und Genverfahren nach Eignung, Überwachung und Gesamtaufwand prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -129,3 +131,6 @@ Bringen Sie einen einseitigen Vergleich zur Besprechung mit: ob die aktuelle Ver
 ## SEO Metadata
 
 - **Primary keyword:** Vergleich von Thalassämiebehandlungen; Transplantation gegenüber Medikamenten; Luspatercept; Mitapivat; Entscheidungen zur Gentherapie
+
+- **Meta title:** Behandlungsoptionen bei Thalassämie: Eignung und Zugang in China
+- **Meta description:** Thalassämietherapien für China vergleichen: Transfusionen, Anämiemedikamente, Transplantation und Genverfahren nach Eignung, Überwachung und Gesamtaufwand prüfen.

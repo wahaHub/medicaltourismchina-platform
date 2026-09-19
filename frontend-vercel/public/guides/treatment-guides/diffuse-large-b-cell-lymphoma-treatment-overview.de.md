@@ -1,12 +1,14 @@
-# Behandlung des diffus großzelligen B-Zell-Lymphoms: Einen vollständigen Plan erstellen
+# DLBCL-Behandlung in China: Einen vollständigen Versorgungsplan erstellen
 
 ## Hero
 
-- **Title:** Behandlung des diffus großzelligen B-Zell-Lymphoms: Einen vollständigen Plan erstellen
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Diffus großzelliges B-Zell-Lymphom
-- **Subtitle:** Das diffus großzellige B-Zell-Lymphom, meist DLBCL genannt, muss häufig rasch behandelt werden, weil es schnell wachsen kann.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL-Behandlung in China: Einen vollständigen Versorgungsplan erstellen
+- **Subtitle:** Einen DLBCL-Behandlungsplan in China vorbereiten: Diagnose, Stadium, Belastbarkeit, Erstlinientherapie, Ansprechkontrollen und Betreuung zwischen Terminen verbinden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Beschaffen Sie bei Abschluss eine Behandlungszusammenfassung mit tatsächlichen 
 ## SEO Metadata
 
 - **Primary keyword:** Behandlung diffus großzelliges B-Zell-Lymphom
+
+- **Meta title:** DLBCL-Behandlung in China: Einen vollständigen Versorgungsplan erstellen
+- **Meta description:** Einen DLBCL-Behandlungsplan in China vorbereiten: Diagnose, Stadium, Belastbarkeit, Erstlinientherapie, Ansprechkontrollen und Betreuung zwischen Terminen verbinden.

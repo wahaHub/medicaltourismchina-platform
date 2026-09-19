@@ -1,15 +1,17 @@
-# Deep Brain Stimulation: Candidacy, Surgery, and Follow-Up
+# Deep Brain Stimulation in China: Assessment and Programming
 
 ## Hero
 
-- **Title:** Deep Brain Stimulation: Candidacy, Surgery, and Follow-Up
 - **Category:** Treatment Guides
 - **Subcategory:** Neurology & Neurosurgery
-- **Subtitle:** Decide whether DBS matches the diagnosis and target symptoms—and whether long-term programming will remain accessible after travel.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Older patient reviewing a deep brain stimulation lead and pulse-generator diagram with a neurologist and surgical clinician
+
+
+- **Title:** Deep Brain Stimulation in China: Assessment and Programming
+- **Subtitle:** Evaluate DBS by diagnosis, symptoms, target, surgical risk, programming, hardware, MRI safety and long-term cross-border support.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -182,13 +184,15 @@ Keep the target and side, lead-location images, operative report, full component
 ## SEO Metadata
 
 - **Slug:** `deep-brain-stimulation-candidacy-surgery-and-follow-up`
-- **Meta title:** Deep Brain Stimulation | Candidacy, Surgery and Programming
-- **Meta description:** Evaluate DBS by diagnosis, symptoms, target, surgical risk, programming, hardware, MRI safety and long-term cross-border support.
 - **Primary keyword:** deep brain stimulation candidacy
 - **Pillar keyword:** DBS surgery and programming
 - **Vertical keyword:** functional neurosurgery
 - **Search intent:** treatment evaluation / long-term planning
 - **Secondary keywords:** Parkinson DBS; essential tremor DBS; dystonia DBS; DBS programming; DBS MRI safety
+
+
+- **Meta title:** Deep Brain Stimulation in China: Assessment and Programming
+- **Meta description:** Evaluate DBS by diagnosis, symptoms, target, surgical risk, programming, hardware, MRI safety and long-term cross-border support.
 
 ## Sources
 

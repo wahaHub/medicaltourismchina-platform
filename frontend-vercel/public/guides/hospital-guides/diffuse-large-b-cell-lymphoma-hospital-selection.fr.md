@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choisir un hôpital chinois pour le LDGCB : adapter le centre à la tâche clinique
 - **Category:** Guides hospitaliers
 - **Subcategory:** Lymphome diffus à grandes cellules B
-- **Subtitle:** Choisissez un hôpital pour le LDGCB selon la tâche clinique qu’il doit accomplir.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choisir un hôpital chinois pour le LDGCB : adapter le centre à la tâche clinique
+- **Subtitle:** Choisissez un centre pour le LDGCB en Chine selon la relecture diagnostique, les soins de première ligne, la prise en charge des rechutes et des toxicités.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -138,3 +140,6 @@ Une fiche comparative peut consigner les mêmes questions cliniques pour chaque 
 ## SEO Metadata
 
 - **Primary keyword:** choisir un hôpital en Chine pour le LDGCB
+
+- **Meta title:** Choisir un hôpital chinois pour le LDGCB : adapter le centre à la tâche clinique
+- **Meta description:** Choisissez un centre pour le LDGCB en Chine selon la relecture diagnostique, les soins de première ligne, la prise en charge des rechutes et des toxicités.

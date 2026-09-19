@@ -1,15 +1,17 @@
-# Accommodation Near a Chinese Hospital: Test the Recovery Route, Not the Map Pin
+# Accommodation Near a Hospital in China for Recovery
 
 ## Hero
 
-- **Title:** Accommodation Near a Chinese Hospital: Test the Recovery Route, Not the Map Pin
 - **Category:** Patient Journey Guides
 - **Subcategory:** Local Stay and Recovery
-- **Subtitle:** The right room is connected to the correct campus, usable after treatment, legally registered, flexible when dates change and linked to a real escalation route.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Conceptual travellers comparing accommodation, transport and a hospital on a map; it is not a real hospital, property, route, booking or medical endorsement.
+
+
+- **Title:** Accommodation Near a Hospital in China for Recovery
+- **Subtitle:** The right room is connected to the correct campus, usable after treatment, legally registered, flexible when dates change and linked to a real escalation route.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,13 +152,15 @@ Hotels normally register guests. For non-hotel lodging, the guest or host must c
 ## SEO Metadata
 
 - **Slug:** `choosing-accommodation-near-a-hospital-in-china`
-- **Meta title:** Accommodation Near a Hospital in China for Recovery
-- **Meta description:** Choose China hospital accommodation by exact campus, accessible route, recovery needs, medication storage, registration, flexible costs and emergency escalation.
 - **Primary keyword:** accommodation near a hospital in China
 - **Pillar keyword:** recovery stay in China
 - **Vertical keyword:** hospital hotel China international patient
 - **Search intent:** medical accommodation planning
 - **Secondary keywords:** hotel near China hospital; accessible apartment China treatment; foreign guest accommodation registration China; postoperative hotel recovery; hospital campus accommodation
+
+
+- **Meta title:** Accommodation Near a Hospital in China for Recovery
+- **Meta description:** Choose China hospital accommodation by exact campus, accessible route, recovery needs, medication storage, registration, flexible costs and emergency escalation.
 
 ## Sources
 

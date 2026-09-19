@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Dua puluh pertanyaan pasien tentang limfoma folikular dan perawatan di Tiongkok
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Limfoma Folikular
-- **Subtitle:** Dua puluh pertanyaan pasien tentang limfoma folikular dan perawatan di Tiongkok
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dua puluh pertanyaan pasien tentang limfoma folikular dan perawatan di Tiongkok
+- **Subtitle:** Siapkan konsultasi limfoma folikular di Tiongkok melalui 20 pertanyaan tentang biopsi, derajat, stadium, observasi, dan pilihan pengobatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Tindak lanjut juga mencakup gejala, pemeriksaan, efek pengobatan, obat yang masi
 ## SEO Metadata
 
 - **Primary keyword:** pertanyaan yang sering diajukan pasien limfoma folikular
+
+- **Meta title:** Dua puluh pertanyaan pasien tentang limfoma folikular dan perawatan di Tiongkok
+- **Meta description:** Siapkan konsultasi limfoma folikular di Tiongkok melalui 20 pertanyaan tentang biopsi, derajat, stadium, observasi, dan pilihan pengobatan.

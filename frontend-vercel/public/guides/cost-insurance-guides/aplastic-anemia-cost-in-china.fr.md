@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Coûts du traitement de l’aplasie médullaire en Chine : établir un budget détaillé en renminbis
 - **Category:** Guides des coûts et de l’assurance
 - **Subcategory:** Aplasie médullaire
-- **Subtitle:** Les coûts les plus facilement sous-estimés sont souvent ceux qui suivent la première hospitalisation : médicaments au long cours, transfusions, soins des infections et suivi.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Coûts du traitement de l’aplasie médullaire en Chine : établir un budget détaillé en renminbis
+- **Subtitle:** Établissez un budget pour l’aplasie médullaire en Chine en distinguant diagnostic, immunosuppression, transfusions et greffe selon le parcours retenu.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -122,3 +124,6 @@ Avant de soumettre le budget, vérifiez que le centre a confirmé le plan, que l
 ## SEO Metadata
 
 - **Primary keyword:** coût du traitement de l’aplasie médullaire en Chine
+
+- **Meta title:** Coûts du traitement de l’aplasie médullaire en Chine : établir un budget détaillé en renminbis
+- **Meta description:** Établissez un budget pour l’aplasie médullaire en Chine en distinguant diagnostic, immunosuppression, transfusions et greffe selon le parcours retenu.

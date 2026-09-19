@@ -1,12 +1,14 @@
-# Wenn die Thalassämiebehandlung unzureichend erscheint: zunehmende Anämie, häufigere Transfusionen und schlechte Eisenkontrolle
+# Unzureichende Thalassämiebehandlung: Zweitmeinungen in China
 
 ## Hero
 
-- **Title:** Wenn die Thalassämiebehandlung unzureichend erscheint: zunehmende Anämie, häufigere Transfusionen und schlechte Eisenkontrolle
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Thalassämie
-- **Subtitle:** Ein sinkender Hämoglobinwert, häufigere Transfusionen und steigendes Ferritin beschreiben unterschiedliche Probleme.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Unzureichende Thalassämiebehandlung: Zweitmeinungen in China
+- **Subtitle:** Unzureichende Thalassämiebehandlung für eine Zweitmeinung in China prüfen: zunehmende Anämie, Transfusionsreaktionen, Milzveränderungen und Eisenkontrolle einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Unzureichender Nutzen bedeutet nicht immer, dass eine teurere Maßnahme fehlt. D
 ## SEO Metadata
 
 - **Primary keyword:** Thalassämiebehandlung wirkt nicht; erhöhter Transfusionsbedarf; unzureichende Chelattherapie; Zweitmeinung in China
+
+- **Meta title:** Unzureichende Thalassämiebehandlung: Zweitmeinungen in China
+- **Meta description:** Unzureichende Thalassämiebehandlung für eine Zweitmeinung in China prüfen: zunehmende Anämie, Transfusionsreaktionen, Milzveränderungen und Eisenkontrolle einordnen.

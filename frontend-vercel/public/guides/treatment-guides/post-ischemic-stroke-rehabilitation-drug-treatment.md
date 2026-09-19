@@ -1,12 +1,14 @@
-# Medicines During Stroke Rehabilitation: Prevention, Symptom Relief and Evidence Limits
+# Stroke Rehabilitation Medicines in China: Uses and Limits
 
 ## Hero
 
-- **Title:** Medicines During Stroke Rehabilitation: Prevention, Symptom Relief and Evidence Limits
 - **Category:** Treatment Guides
 - **Subcategory:** Post Ischemic Stroke Rehabilitation
-- **Subtitle:** Medication during stroke rehabilitation often comes from several specialties.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Stroke Rehabilitation Medicines in China: Uses and Limits
+- **Subtitle:** Understand medicines used during stroke rehabilitation for prevention and symptoms, including evidence limits and continuity between China and home care.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -131,3 +133,6 @@ Before discharge, obtain the final active list and identify discontinued medicin
 ## SEO Metadata
 
 - **Primary keyword:** medication during ischemic stroke rehabilitation
+
+- **Meta title:** Stroke Rehabilitation Medicines in China: Uses and Limits
+- **Meta description:** Understand medicines used during stroke rehabilitation for prevention and symptoms, including evidence limits and continuity between China and home care.

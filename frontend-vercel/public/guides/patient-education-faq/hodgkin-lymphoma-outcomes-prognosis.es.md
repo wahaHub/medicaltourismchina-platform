@@ -1,12 +1,14 @@
-# ¿Puede curarse el linfoma de Hodgkin? Comprender la remisión, la supervivencia y el riesgo de recaída
+# Pronóstico del linfoma de Hodgkin: preguntas para la atención en China
 
 ## Hero
 
-- **Title:** ¿Puede curarse el linfoma de Hodgkin? Comprender la remisión, la supervivencia y el riesgo de recaída
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma de Hodgkin
-- **Subtitle:** «¿Esto se puede curar?» suele ser la pregunta que más desea hacer una persona tras un diagnóstico de linfoma de Hodgkin.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronóstico del linfoma de Hodgkin: preguntas para la atención en China
+- **Subtitle:** Comprenda las cifras de supervivencia y remisión del linfoma de Hodgkin y cómo la respuesta actualiza el riesgo al preparar una consulta en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Si hoy solo puede resolverse una cuestión, pida al médico que indique el objet
 ## SEO Metadata
 
 - **Primary keyword:** pronóstico y supervivencia del linfoma de Hodgkin
+
+- **Meta title:** Pronóstico del linfoma de Hodgkin: preguntas para la atención en China
+- **Meta description:** Comprenda las cifras de supervivencia y remisión del linfoma de Hodgkin y cómo la respuesta actualiza el riesgo al preparar una consulta en China.

@@ -1,12 +1,14 @@
-# Beschwerden und Behandlungsrisiken während der Schlaganfallrehabilitation: Wann Anpassungen oder Hilfe nötig sind
+# Schlaganfallrehabilitation in China: Beschwerden und Warnzeichen
 
 ## Hero
 
-- **Title:** Beschwerden und Behandlungsrisiken während der Schlaganfallrehabilitation: Wann Anpassungen oder Hilfe nötig sind
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Rehabilitation nach ischämischem Schlaganfall
-- **Subtitle:** Rehabilitation umfasst Üben, doch Schmerzen, Schwindel oder starke Benommenheit nach Medikamenten sollten nicht automatisch als Zeichen einer wirksamen Behandlung akzeptiert werden.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Schlaganfallrehabilitation in China: Beschwerden und Warnzeichen
+- **Subtitle:** Beschwerden während der Schlaganfallrehabilitation in China einordnen: Schulterbelastung, Stürze, Hautprobleme, Spastikbehandlung und dringliche Warnzeichen besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ Prüfen Sie nach einer Änderung, was die Person sicher fortsetzen kann. Bleibt 
 ## SEO Metadata
 
 - **Primary keyword:** Nebenwirkungen und Sicherheit der Schlaganfallrehabilitation
+
+- **Meta title:** Schlaganfallrehabilitation in China: Beschwerden und Warnzeichen
+- **Meta description:** Beschwerden während der Schlaganfallrehabilitation in China einordnen: Schulterbelastung, Stürze, Hautprobleme, Spastikbehandlung und dringliche Warnzeichen besprechen.

@@ -1,12 +1,14 @@
-# Pronóstico de la epilepsia farmacorresistente: ausencia de crisis, mejoría significativa y revisión a largo plazo
+# Pronóstico de la epilepsia farmacorresistente: preguntas para la atención en China
 
 ## Hero
 
-- **Title:** Pronóstico de la epilepsia farmacorresistente: ausencia de crisis, mejoría significativa y revisión a largo plazo
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Epilepsia farmacorresistente
-- **Subtitle:** Pronóstico de la epilepsia farmacorresistente: ausencia de crisis, mejoría significativa y revisión a largo plazo
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronóstico de la epilepsia farmacorresistente: preguntas para la atención en China
+- **Subtitle:** Distinga ausencia de crisis y mejoría en epilepsia farmacorresistente, e interprete resultados de estudios para preparar una consulta sobre atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ Cuando no se ha alcanzado un objetivo, la respuesta puede implicar aclarar la ca
 ## SEO Metadata
 
 - **Primary keyword:** pronóstico de la epilepsia farmacorresistente; resultados del tratamiento de la epilepsia; ausencia sostenida de crisis; evaluación de resultados de la epilepsia en China
+
+- **Meta title:** Pronóstico de la epilepsia farmacorresistente: preguntas para la atención en China
+- **Meta description:** Distinga ausencia de crisis y mejoría en epilepsia farmacorresistente, e interprete resultados de estudios para preparar una consulta sobre atención en China.

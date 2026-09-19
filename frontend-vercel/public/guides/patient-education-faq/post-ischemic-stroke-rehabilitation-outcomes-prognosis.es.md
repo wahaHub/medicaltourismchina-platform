@@ -1,12 +1,14 @@
-# ¿Cuánta recuperación es posible después de un ictus isquémico? Comprender el pronóstico y el progreso
+# Resultados de recuperación del ictus: comparar la rehabilitación en China
 
 ## Hero
 
-- **Title:** ¿Cuánta recuperación es posible después de un ictus isquémico? Comprender el pronóstico y el progreso
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Rehabilitación después de un ictus isquémico
-- **Subtitle:** Después de un ictus isquémico, las familias suelen querer una respuesta clara: ¿cuánta recuperación es posible?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Resultados de recuperación del ictus: comparar la rehabilitación en China
+- **Subtitle:** Valore la recuperación del ictus mediante tareas cotidianas, autonomía y cambios en la ayuda necesaria al comparar opciones de rehabilitación en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Las necesidades pueden cambiar durante un traslado entre plantas, el alta, el re
 ## SEO Metadata
 
 - **Primary keyword:** pronóstico de rehabilitación del ictus isquémico
+
+- **Meta title:** Resultados de recuperación del ictus: comparar la rehabilitación en China
+- **Meta description:** Valore la recuperación del ictus mediante tareas cotidianas, autonomía y cambios en la ayuda necesaria al comparar opciones de rehabilitación en China.

@@ -1,15 +1,17 @@
-# 039 Réparation et remplacement des valves cardiaques : comparer les options thérapeutiques
+# Traitement des valves cardiaques en Chine : réparation ou remplacement
 
 ## Hero
 
-- **Title:** Réparation et remplacement des valves cardiaques : comparer les options thérapeutiques
 - **Category:** Guides des traitements
 - **Subcategory:** Soins cardiaques et vasculaires
-- **Subtitle:** Comparez la réparation, le remplacement mécanique ou biologique et le traitement transcathéter en fonction de la lésion valvulaire, du plan à vie et des priorités du patient.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** EN ATTENTE — nécessite une comparaison médicalement exacte entre réparation valvulaire, remplacement mécanique et remplacement biologique
+
+
+- **Title:** Traitement des valves cardiaques en Chine : réparation ou remplacement
+- **Subtitle:** Comparez réparation valvulaire, remplacement mécanique ou biologique, chirurgie et options transcathéters, anticoagulation, récupération et suivi à vie.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -171,13 +173,15 @@ Emportez le compte rendu du geste et les détails de l’implant ou de la répar
 ## SEO Metadata
 
 - **Slug:** `heart-valve-repair-and-replacement-comparing-treatment-options`
-- **Meta title:** Réparation ou remplacement valvulaire : comparaison pour les patients
-- **Meta description:** Comparez réparation valvulaire, remplacement mécanique ou biologique, chirurgie et options transcathéters, anticoagulation, récupération et suivi à vie.
 - **Primary keyword:** réparation et remplacement des valves cardiaques
 - **Pillar keyword:** traitement des valves cardiaques
 - **Vertical keyword:** options de chirurgie valvulaire
 - **Search intent:** comparaison des traitements / choix de prothèse
 - **Secondary keywords:** réparation ou remplacement valvulaire ; valve mécanique ; valve biologique ; chirurgie valvulaire cardiaque ; anticoagulation valvulaire ; suivi valvulaire
+
+
+- **Meta title:** Traitement des valves cardiaques en Chine : réparation ou remplacement
+- **Meta description:** Comparez réparation valvulaire, remplacement mécanique ou biologique, chirurgie et options transcathéters, anticoagulation, récupération et suivi à vie.
 
 ## Sources
 

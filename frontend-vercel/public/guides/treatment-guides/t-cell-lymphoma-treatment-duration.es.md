@@ -1,12 +1,14 @@
-# ¿Cuánto dura el tratamiento del linfoma de células T? Planificación de ciclos, evaluación, trasplante y viajes
+# Tratamiento del linfoma de células T en China: ciclos y planificación del viaje
 
 ## Hero
 
-- **Title:** ¿Cuánto dura el tratamiento del linfoma de células T? Planificación de ciclos, evaluación, trasplante y viajes
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de células T
-- **Subtitle:** Preguntar cuánto dura el tratamiento puede referirse a la duración de una infusión, al tiempo antes de volver a casa o al momento en que se puede reanudar el trabajo.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento del linfoma de células T en China: ciclos y planificación del viaje
+- **Subtitle:** Planifique el tratamiento del linfoma de células T en China según subtipo, ciclos, recuperación, controles y posible trasplante antes de fijar fechas de viaje.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ Mantenga una fecha de versión en el calendario y sustituya las copias obsoletas
 ## SEO Metadata
 
 - **Primary keyword:** duración del tratamiento del linfoma de células T
+
+- **Meta title:** Tratamiento del linfoma de células T en China: ciclos y planificación del viaje
+- **Meta description:** Planifique el tratamiento del linfoma de células T en China según subtipo, ciclos, recuperación, controles y posible trasplante antes de fijar fechas de viaje.

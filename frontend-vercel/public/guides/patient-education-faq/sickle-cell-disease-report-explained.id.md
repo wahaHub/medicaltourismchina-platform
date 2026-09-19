@@ -1,12 +1,14 @@
-# Memahami Laporan Sel Sabit: Hemoglobin, HbS, HbF, Retikulosit, dan Pengukuran Zat Besi
+# Laporan Penyakit Sel Sabit: Persiapan Penilaian di Tiongkok
 
 ## Hero
 
-- **Title:** Memahami Laporan Sel Sabit: Hemoglobin, HbS, HbF, Retikulosit, dan Pengukuran Zat Besi
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Penyakit Sel Sabit
-- **Subtitle:** Tindak lanjut sel sabit sering menghasilkan dua pengukuran yang tampak serupa tetapi menjawab pertanyaan berbeda: konsentrasi hemoglobin pada hitung darah dan persentase HbS pada analisis hemoglobin.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Laporan Penyakit Sel Sabit: Persiapan Penilaian di Tiongkok
+- **Subtitle:** Bedakan hemoglobin, HbS, HbF, retikulosit, dan hasil zat besi pada penyakit sel sabit. Siapkan konteks klinis untuk penilaian di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,3 +143,6 @@ Hasil tinjauan harus berupa langkah berikutnya yang dapat dipahami. Laporan haru
 ## SEO Metadata
 
 - **Primary keyword:** memahami laporan laboratorium penyakit sel sabit
+
+- **Meta title:** Laporan Penyakit Sel Sabit: Persiapan Penilaian di Tiongkok
+- **Meta description:** Bedakan hemoglobin, HbS, HbF, retikulosit, dan hasil zat besi pada penyakit sel sabit. Siapkan konteks klinis untuk penilaian di Tiongkok.

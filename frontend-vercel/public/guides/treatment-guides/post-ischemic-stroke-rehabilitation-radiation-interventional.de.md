@@ -1,12 +1,14 @@
-# Stimulation, lokale Injektionen und Gehirn-Computer-Schnittstellen in der Schlaganfallrehabilitation
+# Geräte in der Schlaganfallrehabilitation in China: Stimulation und Gehirn-Computer-Schnittstellen
 
 ## Hero
 
-- **Title:** Stimulation, lokale Injektionen und Gehirn-Computer-Schnittstellen in der Schlaganfallrehabilitation
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Rehabilitation nach ischämischem Schlaganfall
-- **Subtitle:** Elektrische Stimulation, Magnetstimulation, Neuromodulation und Gehirn-Computer-Schnittstellen mögen auf einem Rehabilitationsplan wie eng verwandte Maßnahmen wirken.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Geräte in der Schlaganfallrehabilitation in China: Stimulation und Gehirn-Computer-Schnittstellen
+- **Subtitle:** Geräte in der Schlaganfallrehabilitation in China einordnen: elektrische und magnetische Stimulation, gekoppelte Übungen und Gehirn-Computer-Schnittstellen vergleichen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Wenn Erwartungen nicht erfüllt werden, überdenken Sie Eignung, Methode und Zie
 ## SEO Metadata
 
 - **Primary keyword:** Stimulation und Verfahren in der Schlaganfallrehabilitation
+
+- **Meta title:** Geräte in der Schlaganfallrehabilitation in China: Stimulation und Gehirn-Computer-Schnittstellen
+- **Meta description:** Geräte in der Schlaganfallrehabilitation in China einordnen: elektrische und magnetische Stimulation, gekoppelte Übungen und Gehirn-Computer-Schnittstellen vergleichen.

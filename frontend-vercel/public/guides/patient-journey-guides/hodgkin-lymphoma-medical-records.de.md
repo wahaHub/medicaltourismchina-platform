@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Unterlagen für eine Hodgkin-Lymphom-Beratung in China: Pathologie, PET-Bilder und tatsächlich verabreichte Behandlung
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Hodgkin-Lymphom
-- **Subtitle:** Die Schwierigkeit bei Unterlagen für eine Hodgkin-Lymphom-Beratung liegt oft eher in ihrem Zusammenhang als in der Anzahl der Dateien.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Unterlagen für eine Hodgkin-Lymphom-Beratung in China: Pathologie, PET-Bilder und tatsächlich verabreichte Behandlung
+- **Subtitle:** Hodgkin-Lymphom-Unterlagen für China ordnen: vollständige Pathologie, PET-Verlauf, tatsächlich verabreichte Medikamente, Nebenwirkungen und Bestrahlungsdaten beilegen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,3 +146,6 @@ Die Unterlagen sollten dem nächsten Arzt ermöglichen, die Diagnosegrundlage, d
 ## SEO Metadata
 
 - **Primary keyword:** medizinische Unterlagen für Hodgkin-Lymphom-Beratung in China
+
+- **Meta title:** Unterlagen für eine Hodgkin-Lymphom-Beratung in China: Pathologie, PET-Bilder und tatsächlich verabreichte Behandlung
+- **Meta description:** Hodgkin-Lymphom-Unterlagen für China ordnen: vollständige Pathologie, PET-Verlauf, tatsächlich verabreichte Medikamente, Nebenwirkungen und Bestrahlungsdaten beilegen.

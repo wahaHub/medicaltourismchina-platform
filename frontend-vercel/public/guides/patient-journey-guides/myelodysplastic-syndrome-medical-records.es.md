@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Documentación médica para una consulta por SMD en China: informes de médula ósea, genética, transfusiones y antecedentes terapéuticos
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Síndrome mielodisplásico
-- **Subtitle:** Un certificado diagnóstico y el hemograma más reciente indican al médico receptor que usted tiene SMD.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Documentación médica para una consulta por SMD en China: informes de médula ósea, genética, transfusiones y antecedentes terapéuticos
+- **Subtitle:** Prepare una consulta de síndrome mielodisplásico en China con informes completos de médula y genética, hemogramas, transfusiones y tratamientos recibidos.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Esta lista se refiere a registros existentes. El médico receptor debe decidir s
 ## SEO Metadata
 
 - **Primary keyword:** documentación médica para consulta por síndrome mielodisplásico
+
+- **Meta title:** Documentación médica para una consulta por SMD en China: informes de médula ósea, genética, transfusiones y antecedentes terapéuticos
+- **Meta description:** Prepare una consulta de síndrome mielodisplásico en China con informes completos de médula y genética, hemogramas, transfusiones y tratamientos recibidos.

@@ -1,12 +1,14 @@
-# Die Prognose bei Multipler Sklerose verstehen: Überleben, Selbstständigkeit und Therapieansprechen
+# Prognose bei Multipler Sklerose: Fragen zur Versorgung in China
 
 ## Hero
 
-- **Title:** Die Prognose bei Multipler Sklerose verstehen: Überleben, Selbstständigkeit und Therapieansprechen
 - **Category:** Patientenaufklärung & FAQ
 - **Subcategory:** Multiple Sklerose
-- **Subtitle:** Fragen zu Arbeit, Gehen und Familienleben sind für neu diagnostizierte Menschen oft wichtiger als der Name der Erkrankung.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prognose bei Multipler Sklerose: Fragen zur Versorgung in China
+- **Subtitle:** Die MS-Prognose für eine Beratung in China besprechen: Schübe, MRT-Verlauf, Alltagsfunktion und Therapieansprechen als unterschiedliche Ergebnisse beurteilen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Ein kurzer Aufenthalt kann kein langfristiges Ergebnis belegen, und eine vielver
 ## SEO Metadata
 
 - **Primary keyword:** Prognose und Behandlungsergebnisse bei Multipler Sklerose
+
+- **Meta title:** Prognose bei Multipler Sklerose: Fragen zur Versorgung in China
+- **Meta description:** Die MS-Prognose für eine Beratung in China besprechen: Schübe, MRT-Verlauf, Alltagsfunktion und Therapieansprechen als unterschiedliche Ergebnisse beurteilen.

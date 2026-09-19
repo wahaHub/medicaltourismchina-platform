@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Debería una persona con epilepsia farmacorresistente viajar a China para recibir atención?
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Epilepsia farmacorresistente
-- **Subtitle:** Decidir si buscar atención en China implica dos preguntas relacionadas: qué valor médico adicional puede ofrecer la derivación y si la persona puede completar el viaje y la atención continuada con seguridad.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Debería una persona con epilepsia farmacorresistente viajar a China para recibir atención?
+- **Subtitle:** Valore la utilidad de una revisión de epilepsia farmacorresistente en China, la documentación previa y la estabilidad médica antes de organizar el viaje.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -164,3 +166,6 @@ Las recomendaciones sanitarias para China como destino pueden ayudar a completar
 ## SEO Metadata
 
 - **Primary keyword:** viaje a China para tratamiento de la epilepsia farmacorresistente; aptitud para volar con epilepsia; derivación internacional por epilepsia; revisión remota de documentación de epilepsia en China
+
+- **Meta title:** ¿Debería una persona con epilepsia farmacorresistente viajar a China para recibir atención?
+- **Meta description:** Valore la utilidad de una revisión de epilepsia farmacorresistente en China, la documentación previa y la estabilidad médica antes de organizar el viaje.

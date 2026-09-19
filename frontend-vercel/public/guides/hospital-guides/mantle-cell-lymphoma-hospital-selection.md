@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choosing a Hospital in China for Mantle Cell Lymphoma: Specialist Review and Continuity of Care
 - **Category:** Hospital Guides
 - **Subcategory:** Mantle Cell Lymphoma
-- **Subtitle:** Patients often begin choosing an MCL hospital by comparing reputations before defining the question the visit needs to resolve.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choosing a Hospital in China for Mantle Cell Lymphoma: Specialist Review and Continuity of Care
+- **Subtitle:** Compare mantle cell lymphoma hospitals in China by specialist review, treatment-stage expertise, support services and continuity after returning home.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ When opinions differ, establish whether both teams reviewed the same records, ad
 ## SEO Metadata
 
 - **Primary keyword:** mantle cell lymphoma hospitals in China
+
+- **Meta title:** Choosing a Hospital in China for Mantle Cell Lymphoma: Specialist Review and Continuity of Care
+- **Meta description:** Compare mantle cell lymphoma hospitals in China by specialist review, treatment-stage expertise, support services and continuity after returning home.

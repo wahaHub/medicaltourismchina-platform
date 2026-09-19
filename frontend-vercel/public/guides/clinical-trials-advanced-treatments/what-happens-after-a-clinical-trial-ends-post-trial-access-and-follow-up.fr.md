@@ -1,15 +1,17 @@
-# 095 Que se passe-t-il après la fin d’un essai clinique ? Accès après l’essai et suivi
+# Après un essai clinique en Chine : accès au traitement et suivi
 
 ## Hero
 
-- **Title:** Que se passe-t-il après la fin d’un essai clinique ? Accès après l’essai et suivi
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Sortie d’essai et continuité des soins
-- **Subtitle:** Distinguer la dernière visite d’étude de la fin du traitement, du suivi de sécurité, de l’accès à l’intervention et de la publication des résultats.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** L’image générique actuelle de consultation attend d’être remplacée par une illustration de la transmission des soins à la sortie d’un essai et de la planification de l’accès après l’essai.
+
+
+- **Title:** Après un essai clinique en Chine : accès au traitement et suivi
+- **Subtitle:** Comprendre les dates de fin d’essai, les voies d’accès après l’essai, les dossiers finaux, le suivi de sécurité à long terme, les coûts, la levée de l’aveugle, les résultats et la transmission clinique transfrontalière.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -203,11 +205,13 @@ Obtenez les détails de l’exposition réelle et des procédures, les médicame
 ## SEO Metadata
 
 - **Slug:** `what-happens-after-a-clinical-trial-ends-post-trial-access-and-follow-up`
-- **Meta title:** Après la fin d’un essai clinique : accès et suivi
-- **Meta description:** Comprendre les dates de fin d’essai, les voies d’accès après l’essai, les dossiers finaux, le suivi de sécurité à long terme, les coûts, la levée de l’aveugle, les résultats et la transmission clinique transfrontalière.
 - **Primary keyword:** accès après l’essai et suivi
 - **Secondary keywords:** après la fin d’un essai clinique ; extension en ouvert ; accès élargi en Chine ; visite de sortie d’essai clinique ; suivi d’essai à long terme
 - **Search intent:** achèvement de l’essai, maintien de l’accès et transition des soins
+
+
+- **Meta title:** Après un essai clinique en Chine : accès au traitement et suivi
+- **Meta description:** Comprendre les dates de fin d’essai, les voies d’accès après l’essai, les dossiers finaux, le suivi de sécurité à long terme, les coûts, la levée de l’aveugle, les résultats et la transmission clinique transfrontalière.
 
 ## Sources
 

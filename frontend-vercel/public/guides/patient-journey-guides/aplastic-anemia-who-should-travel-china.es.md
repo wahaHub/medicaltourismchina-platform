@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Debería viajar a China para tratar la anemia aplásica?
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Anemia aplásica
-- **Subtitle:** Una derivación útil al extranjero comienza con una tarea clínica definida.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Debería viajar a China para tratar la anemia aplásica?
+- **Subtitle:** Valore viajar a China por anemia aplásica según la decisión clínica pendiente, la estabilidad, la continuidad de la medicación y las necesidades del trasplante.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -111,3 +113,6 @@ Antes de comprometerse al viaje, anote el problema clínico sin resolver, el cam
 ## SEO Metadata
 
 - **Primary keyword:** viajar a China para tratar la anemia aplásica
+
+- **Meta title:** ¿Debería viajar a China para tratar la anemia aplásica?
+- **Meta description:** Valore viajar a China por anemia aplásica según la decisión clínica pendiente, la estabilidad, la continuidad de la medicación y las necesidades del trasplante.

@@ -1,15 +1,17 @@
-# Long-Term Follow-Up After Cell or Gene Therapy
+# Cell and Gene Therapy in China: Long-Term Follow-Up
 
 ## Hero
 
-- **Title:** Long-Term Follow-Up After Cell or Gene Therapy
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Cell, Gene & Regenerative Medicine
-- **Subtitle:** Build a product-specific follow-up passport for early toxicity, immune recovery, disease response, delayed adverse events, pregnancy and cross-border reporting.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Editorial illustration of a patient and clinician planning health checks over time with a calendar; not a product-specific monitoring schedule.
+
+
+- **Title:** Cell and Gene Therapy in China: Long-Term Follow-Up
+- **Subtitle:** Plan product-specific follow-up for disease response, immune recovery, delayed toxicity, malignancy, pregnancy, reporting, records and cross-border care.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -196,11 +198,13 @@ The pre-treatment plan should name a successor for records, safety reporting, tr
 ## SEO Metadata
 
 - **Slug:** `long-term-follow-up-after-cell-or-gene-therapy`
-- **Meta title:** Long-Term Follow-Up After Cell or Gene Therapy
-- **Meta description:** Plan product-specific follow-up for disease response, immune recovery, delayed toxicity, malignancy, pregnancy, reporting, records and cross-border care.
 - **Primary keyword:** long-term follow-up cell gene therapy
 - **Secondary keywords:** gene therapy long-term monitoring; CAR-T 15-year follow-up; delayed gene therapy risks; cell therapy passport; cross-border therapy follow-up
 - **Search intent:** post-treatment monitoring / long-term safety planning
+
+
+- **Meta title:** Cell and Gene Therapy in China: Long-Term Follow-Up
+- **Meta description:** Plan product-specific follow-up for disease response, immune recovery, delayed toxicity, malignancy, pregnancy, reporting, records and cross-border care.
 
 ## Sources
 

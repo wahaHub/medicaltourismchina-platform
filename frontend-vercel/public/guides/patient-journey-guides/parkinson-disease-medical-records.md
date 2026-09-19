@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Medical Records for Parkinson’s Care in China: Showing Symptoms, Medication Response and Previous Procedures
 - **Category:** Patient Journey Guides
 - **Subcategory:** Parkinson Disease
-- **Subtitle:** Preparing Parkinson’s records is about helping a new team understand how symptoms developed, which treatments were actually tried and what the patient now wants to address.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medical Records for Parkinson’s Care in China: Showing Symptoms, Medication Response and Previous Procedures
+- **Subtitle:** Prepare Parkinson’s records for China care with symptom history, medicine response, daily function and details of previous procedures or devices.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ The home clinician needs a traceable account of what was found and changed durin
 ## SEO Metadata
 
 - **Primary keyword:** medical records for Parkinson’s treatment in China
+
+- **Meta title:** Medical Records for Parkinson’s Care in China: Showing Symptoms, Medication Response and Previous Procedures
+- **Meta description:** Prepare Parkinson’s records for China care with symptom history, medicine response, daily function and details of previous procedures or devices.

@@ -1,12 +1,14 @@
-# Berapa lama remisi limfoma sel T dapat bertahan? Memahami prognosis dan angka kelangsungan hidup
+# Prognosis Limfoma Sel T: Pertanyaan untuk Perawatan di Tiongkok
 
 ## Hero
 
-- **Title:** Berapa lama remisi limfoma sel T dapat bertahan? Memahami prognosis dan angka kelangsungan hidup
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Limfoma Sel T
-- **Subtitle:** Pencarian tentang harapan hidup dapat menghasilkan angka historis yang mengecewakan maupun janji promosi tentang kesembuhan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prognosis Limfoma Sel T: Pertanyaan untuk Perawatan di Tiongkok
+- **Subtitle:** Pahami prognosis limfoma sel T berdasarkan subtipe, respons, dan riwayat pengobatan. Siapkan pertanyaan perawatan di Tiongkok serta tindak lanjut.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ Mencatat tanggal setiap pembahasan prognosis dan dasar penilaiannya mungkin memb
 ## SEO Metadata
 
 - **Primary keyword:** prognosis dan kelangsungan hidup limfoma sel T
+
+- **Meta title:** Prognosis Limfoma Sel T: Pertanyaan untuk Perawatan di Tiongkok
+- **Meta description:** Pahami prognosis limfoma sel T berdasarkan subtipe, respons, dan riwayat pengobatan. Siapkan pertanyaan perawatan di Tiongkok serta tindak lanjut.

@@ -1,12 +1,14 @@
-# Comparer les traitements de l’épilepsie pharmacorésistante : médicaments, résection, ablation, stimulation et thérapie diététique
+# Épilepsie pharmacorésistante en Chine : comparer les traitements
 
 ## Hero
 
-- **Title:** Comparer les traitements de l’épilepsie pharmacorésistante : médicaments, résection, ablation, stimulation et thérapie diététique
 - **Category:** Guides des traitements
 - **Subcategory:** Épilepsie pharmacorésistante
-- **Subtitle:** Commencez par déterminer quelles options sont réalisables pour la personne concernée.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Épilepsie pharmacorésistante en Chine : comparer les traitements
+- **Subtitle:** Comparez médicaments, résection, ablation, stimulation et régime thérapeutique pour l’épilepsie pharmacorésistante selon vos objectifs de soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -152,3 +154,6 @@ Si les données sont insuffisantes, complétez les examens susceptibles de modif
 ## SEO Metadata
 
 - **Primary keyword:** comparaison des traitements de l’épilepsie pharmacorésistante ; médicaments versus chirurgie de l’épilepsie ; neurostimulation dans l’épilepsie ; ablation laser en Chine
+
+- **Meta title:** Épilepsie pharmacorésistante en Chine : comparer les traitements
+- **Meta description:** Comparez médicaments, résection, ablation, stimulation et régime thérapeutique pour l’épilepsie pharmacorésistante selon vos objectifs de soins en Chine.

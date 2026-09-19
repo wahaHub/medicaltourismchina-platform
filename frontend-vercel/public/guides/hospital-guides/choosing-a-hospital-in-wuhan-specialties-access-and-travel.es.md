@@ -1,15 +1,17 @@
-# 109 Elegir un hospital en Wuhan: cuatro relojes en las tres ciudades
+# Elegir un hospital en China: sedes y viajes en Wuhan
 
 ## Hero
 
-- **Title:** Elegir un hospital en Wuhan: cuatro relojes en las tres ciudades
 - **Category:** Guías de hospitales
 - **Subcategory:** Planificación de la atención en Wuhan
-- **Subtitle:** Coordine los tiempos clínicos, de las muestras, de los desplazamientos urbanos y de la recuperación mientras confirma el equipo y el campus exactos en Wuhan.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustración conceptual de pacientes internacionales que planifican su atención hospitalaria en Wuhan; el río, el puente, la torre, el tren y el hospital no representan una combinación real de campus y recorrido ni una recomendación.
+
+
+- **Title:** Elegir un hospital en China: sedes y viajes en Wuhan
+- **Subtitle:** Elija un hospital en Wuhan coordinando los tiempos clínicos, de muestras, viaje y recuperación según los campus exactos, la geografía de las tres ciudades, los accesos ferroviarios y aeroportuarios, el idioma, el seguro y las urgencias.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -203,13 +205,15 @@ No mientras exista inestabilidad médica. Llame al 120 y utilice el sistema loca
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-wuhan-specialties-access-and-travel`
-- **Meta title:** Elegir un hospital en Wuhan: campus, estaciones y cuatro relojes
-- **Meta description:** Elija un hospital en Wuhan coordinando los tiempos clínicos, de muestras, viaje y recuperación según los campus exactos, la geografía de las tres ciudades, los accesos ferroviarios y aeroportuarios, el idioma, el seguro y las urgencias.
 - **Primary keyword:** elegir un hospital en Wuhan
 - **Pillar keyword:** hospitales de Wuhan para pacientes internacionales
 - **Vertical keyword:** acceso y desplazamientos a campus hospitalarios de Wuhan
 - **Search intent:** comparación de hospitales / planificación de viajes médicos a Wuhan
 - **Secondary keywords:** centro médico internacional de Wuhan; campus hospitalario de Wuhan; viaje al hospital desde Wuhan Station; hospital de Hankou; hospital de Wuchang; Wuhan 120
+
+
+- **Meta title:** Elegir un hospital en China: sedes y viajes en Wuhan
+- **Meta description:** Elija un hospital en Wuhan coordinando los tiempos clínicos, de muestras, viaje y recuperación según los campus exactos, la geografía de las tres ciudades, los accesos ferroviarios y aeroportuarios, el idioma, el seguro y las urgencias.
 
 ## Fuentes
 

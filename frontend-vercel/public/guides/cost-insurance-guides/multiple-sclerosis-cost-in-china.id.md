@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Biaya pengobatan sklerosis multipel di China: menyusun perkiraan pribadi yang berguna
 - **Category:** Panduan Biaya & Asuransi
 - **Subcategory:** Sklerosis Multipel
-- **Subtitle:** Biaya pengobatan sklerosis multipel di China: menyusun perkiraan pribadi yang berguna
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Biaya pengobatan sklerosis multipel di China: menyusun perkiraan pribadi yang berguna
+- **Subtitle:** Tentukan tujuan kunjungan sklerosis multipel ke Tiongkok sebelum menyusun anggaran. Pisahkan diagnosis, kekambuhan, obat, pemantauan, dan rehabilitasi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Bandingkan usulan selama periode observasi yang sama, misalnya dari penilaian aw
 ## SEO Metadata
 
 - **Primary keyword:** biaya pengobatan sklerosis multipel di China
+
+- **Meta title:** Biaya pengobatan sklerosis multipel di China: menyusun perkiraan pribadi yang berguna
+- **Meta description:** Tentukan tujuan kunjungan sklerosis multipel ke Tiongkok sebelum menyusun anggaran. Pisahkan diagnosis, kekambuhan, obat, pemantauan, dan rehabilitasi.

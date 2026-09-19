@@ -1,15 +1,17 @@
-# 095 ¿Qué ocurre cuando termina un ensayo clínico? Acceso posterior al ensayo y seguimiento
+# Después de un ensayo clínico en China: acceso y seguimiento
 
 ## Hero
 
-- **Title:** ¿Qué ocurre cuando termina un ensayo clínico? Acceso posterior al ensayo y seguimiento
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Salida del ensayo y continuidad asistencial
-- **Subtitle:** Distinga la última visita del estudio del final del tratamiento, el seguimiento de seguridad, el acceso a la intervención y la publicación de resultados.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** La imagen genérica actual de una consulta está pendiente de sustituirse por una ilustración del traspaso asistencial al salir del ensayo y la planificación del acceso posterior.
+
+
+- **Title:** Después de un ensayo clínico en China: acceso y seguimiento
+- **Subtitle:** Comprenda las fechas de finalización del ensayo, las vías de acceso posterior, los registros finales, el seguimiento de seguridad a largo plazo, los costes, el desenmascaramiento, los resultados y el traspaso clínico transfronterizo.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -203,11 +205,13 @@ Obtenga los detalles reales de exposición y procedimientos, los medicamentos ac
 ## SEO Metadata
 
 - **Slug:** `what-happens-after-a-clinical-trial-ends-post-trial-access-and-follow-up`
-- **Meta title:** Después de un ensayo clínico: Acceso y seguimiento
-- **Meta description:** Comprenda las fechas de finalización del ensayo, las vías de acceso posterior, los registros finales, el seguimiento de seguridad a largo plazo, los costes, el desenmascaramiento, los resultados y el traspaso clínico transfronterizo.
 - **Primary keyword:** acceso posterior al ensayo y seguimiento
 - **Secondary keywords:** después de terminar un ensayo clínico; extensión abierta; acceso ampliado en China; visita de salida del ensayo clínico; seguimiento del ensayo a largo plazo
 - **Search intent:** finalización del ensayo, acceso continuado y transición asistencial
+
+
+- **Meta title:** Después de un ensayo clínico en China: acceso y seguimiento
+- **Meta description:** Comprenda las fechas de finalización del ensayo, las vías de acceso posterior, los registros finales, el seguimiento de seguridad a largo plazo, los costes, el desenmascaramiento, los resultados y el traspaso clínico transfronterizo.
 
 ## Fuentes
 

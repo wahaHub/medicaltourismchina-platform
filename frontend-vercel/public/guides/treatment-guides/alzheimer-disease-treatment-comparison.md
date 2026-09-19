@@ -1,12 +1,14 @@
-# Comparing Alzheimer's Treatments: Symptom Medicines, Lecanemab, and Donanemab
+# Alzheimer’s Treatment Options in China: A Patient Comparison
 
 ## Hero
 
-- **Title:** Comparing Alzheimer's Treatments: Symptom Medicines, Lecanemab, and Donanemab
 - **Category:** Treatment Guides
 - **Subcategory:** Alzheimer Disease
-- **Subtitle:** Families comparing donepezil, memantine, lecanemab, and donanemab often want a single answer about which is best.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Alzheimer’s Treatment Options in China: A Patient Comparison
+- **Subtitle:** Compare Alzheimer’s symptom medicines and antibody therapies by their goals, eligibility and monitoring, with separate checks for access in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ Follow-up can assess current function, symptoms, tolerability, and the household
 ## SEO Metadata
 
 - **Primary keyword:** Alzheimer's treatment comparison
+
+- **Meta title:** Alzheimer’s Treatment Options in China: A Patient Comparison
+- **Meta description:** Compare Alzheimer’s symptom medicines and antibody therapies by their goals, eligibility and monitoring, with separate checks for access in China.

@@ -1,15 +1,17 @@
-# 160 Seguro de complicaciones del turismo médico: ponga a prueba el plan de rescate
+# Viajes médicos a China: comprobar el seguro de complicaciones
 
 ## Hero
 
-- **Title:** Seguro de complicaciones del turismo médico: ponga a prueba el plan de rescate
 - **Category:** Guías de costes y seguros
 - **Subcategory:** Cobertura de complicaciones
-- **Subtitle:** Compruebe quién paga y quién asume el control si un tratamiento programado en China deriva en atención de urgencia, cirugía de revisión, evacuación o problemas tardíos después del regreso del paciente.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Se necesita sustitución: mapa de respuesta a complicaciones en cuatro etapas que conecta un hospital de China, atención de rescate urgente, transporte médico y seguimiento en el país de origen.
+
+
+- **Title:** Viajes médicos a China: comprobar el seguro de complicaciones
+- **Subtitle:** Revise definiciones de complicación, exclusiones, períodos, límites de tratamiento, pago de urgencias, evacuación y atención tardía después de viajes médicos.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -224,13 +226,15 @@ Números de póliza y asistencia, pasaporte/identificadores del paciente, resume
 ## SEO Metadata
 
 - **Slug:** `medical-tourism-complication-insurance-what-to-review`
-- **Meta title:** Seguro de complicaciones del turismo médico: prueba de resistencia de la cobertura
-- **Meta description:** Revise definiciones de complicación, exclusiones, períodos, límites de tratamiento, pago de urgencias, evacuación y atención tardía después de viajes médicos.
 - **Primary keyword:** seguro de complicaciones del turismo médico
 - **Pillar keyword:** seguro de turismo médico
 - **Vertical keyword:** cobertura de complicaciones del tratamiento en el extranjero
 - **Search intent:** comparación de seguros / planificación de riesgos
 - **Secondary keywords:** seguro de viaje cirugía electiva; cobertura complicaciones tratamiento extranjero; seguro evacuación médica; cobertura revisión turismo médico; atención complicaciones después del regreso
+
+
+- **Meta title:** Viajes médicos a China: comprobar el seguro de complicaciones
+- **Meta description:** Revise definiciones de complicación, exclusiones, períodos, límites de tratamiento, pago de urgencias, evacuación y atención tardía después de viajes médicos.
 
 ## Fuentes
 

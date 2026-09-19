@@ -1,12 +1,14 @@
-# Pengobatan baru dan uji klinis untuk epilepsi resistan obat: menafsirkan perkembangan 2026
+# Epilepsi Resistan Obat: Pengobatan Baru dan Uji Klinis di Tiongkok
 
 ## Hero
 
-- **Title:** Pengobatan baru dan uji klinis untuk epilepsi resistan obat: menafsirkan perkembangan 2026
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Epilepsi Resistan Obat
-- **Subtitle:** Angka mencolok dalam pengumuman pengobatan baru tidak menjawab apakah pengobatan itu sesuai bagi pasien individual.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Epilepsi Resistan Obat: Pengobatan Baru dan Uji Klinis di Tiongkok
+- **Subtitle:** Pahami bukti pengobatan baru epilepsi resistan obat menurut jenis kejang dan populasi studi. Periksa kelayakan serta akses di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Untuk konsultasi di Tiongkok, bawalah rekam pribadi terkait dan tautan asli pene
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan baru untuk epilepsi resistan obat; uji klinis epilepsi; azetukalner; zorevunersen; penelitian epilepsi di Tiongkok
+
+- **Meta title:** Epilepsi Resistan Obat: Pengobatan Baru dan Uji Klinis di Tiongkok
+- **Meta description:** Pahami bukti pengobatan baru epilepsi resistan obat menurut jenis kejang dan populasi studi. Periksa kelayakan serta akses di Tiongkok.

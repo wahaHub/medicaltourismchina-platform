@@ -1,15 +1,17 @@
-# 086 Herstellung und Qualität von Zelltherapien: Warum sie wichtig sind
+# Zelltherapie in China: Herstellung und Qualitätsprüfungen
 
 ## Hero
 
-- **Title:** Herstellung und Qualität von Zelltherapien: Warum sie wichtig sind
 - **Category:** Klinische Studien und fortschrittliche Behandlungen
 - **Subcategory:** Zell-, Gen- und regenerative Medizin
-- **Subtitle:** Verfolgen Sie ein Zellprodukt von der Entnahme und Identitätskontrolle über Herstellung, Freigabe und Transport bis zur Verabreichung am Krankenbett – und verstehen Sie, was bei einer fehlgeschlagenen Charge geschieht.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Redaktionelle Illustration von Zellen, die über ein Produktfläschchen und eine Sicherheitsprüfung zum Patienten gelangen; ein schematischer Ablauf, kein echter Herstellungsnachweis oder Freigabeschein.
+
+
+- **Title:** Zelltherapie in China: Herstellung und Qualitätsprüfungen
+- **Subtitle:** Verstehen Sie Zellentnahme, Identitätskette, Herstellungskontrollen, Freigabetests, Potenz, OOS-Chargen, Vergleichbarkeit, Versand und Handhabung am Krankenbett.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -175,11 +177,13 @@ Ja. Das Protokoll sollte unverzügliche Benachrichtigung, klinische Beurteilung,
 ## SEO Metadata
 
 - **Slug:** `cell-therapy-manufacturing-and-quality-why-it-matters`
-- **Meta title:** Herstellung, Freigabe und Qualität von Zelltherapien
-- **Meta description:** Verstehen Sie Zellentnahme, Identitätskette, Herstellungskontrollen, Freigabetests, Potenz, OOS-Chargen, Vergleichbarkeit, Versand und Handhabung am Krankenbett.
 - **Primary keyword:** Qualität der Zelltherapieherstellung
 - **Secondary keywords:** Chargenfreigabe bei Zelltherapien; CAR-T-Herstellungsversagen; Zelltherapie-Potenz; Identitätskette; Vergleichbarkeit von Zelltherapien
 - **Search intent:** sorgfältige Prüfung der Herstellung / Zellproduktqualität
+
+
+- **Meta title:** Zelltherapie in China: Herstellung und Qualitätsprüfungen
+- **Meta description:** Verstehen Sie Zellentnahme, Identitätskette, Herstellungskontrollen, Freigabetests, Potenz, OOS-Chargen, Vergleichbarkeit, Versand und Handhabung am Krankenbett.
 
 ## Quellen
 

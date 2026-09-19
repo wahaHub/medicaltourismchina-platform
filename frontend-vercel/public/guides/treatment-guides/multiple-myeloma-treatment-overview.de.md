@@ -1,12 +1,14 @@
-# Behandlung des multiplen Myeloms: Organe schützen und langfristige Kontrolle planen
+# Behandlung des multiplen Myeloms in China: Optionen und fortlaufende Versorgung
 
 ## Hero
 
-- **Title:** Behandlung des multiplen Myeloms: Organe schützen und langfristige Kontrolle planen
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Multiples Myelom
-- **Subtitle:** Die Behandlung des multiplen Myeloms ist meist eine Folge von Entscheidungen statt eines einzelnen Eingriffs.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Behandlung des multiplen Myeloms in China: Optionen und fortlaufende Versorgung
+- **Subtitle:** Myelombehandlung in China planen: Diagnose, dringliche Organprobleme, Anfangstherapie, Transplantation, Erhaltung und unterstützende Versorgung zusammenführen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Eine hilfreiche Erstberatung hinterlässt das unmittelbare Behandlungsziel, die 
 ## SEO Metadata
 
 - **Primary keyword:** Behandlungsmöglichkeiten für multiples Myelom in China
+
+- **Meta title:** Behandlung des multiplen Myeloms in China: Optionen und fortlaufende Versorgung
+- **Meta description:** Myelombehandlung in China planen: Diagnose, dringliche Organprobleme, Anfangstherapie, Transplantation, Erhaltung und unterstützende Versorgung zusammenführen.

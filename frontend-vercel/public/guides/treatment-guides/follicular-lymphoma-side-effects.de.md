@@ -1,12 +1,14 @@
-# Nebenwirkungen der Behandlung des follikulären Lymphoms: Probleme erkennen und wissen, wann Hilfe nötig ist
+# Versorgung beim follikulären Lymphom in China: Nebenwirkungen und dringende Hilfe
 
 ## Hero
 
-- **Title:** Nebenwirkungen der Behandlung des follikulären Lymphoms: Probleme erkennen und wissen, wann Hilfe nötig ist
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Follikuläres Lymphom
-- **Subtitle:** Nebenwirkungen der Behandlung des follikulären Lymphoms: Probleme erkennen und wissen, wann Hilfe nötig ist
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Versorgung beim follikulären Lymphom in China: Nebenwirkungen und dringende Hilfe
+- **Subtitle:** Nebenwirkungen beim follikulären Lymphom in China besprechen: Fieber, Infusionsreaktionen, niedrige Blutwerte, Nervenprobleme und Wege zur dringenden Hilfe klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Beschaffen Sie vor der Heimreise Verabreichungsprotokolle, aktuelle Blutwerte, B
 ## SEO Metadata
 
 - **Primary keyword:** follikuläres Lymphom Behandlungsnebenwirkungen
+
+- **Meta title:** Versorgung beim follikulären Lymphom in China: Nebenwirkungen und dringende Hilfe
+- **Meta description:** Nebenwirkungen beim follikulären Lymphom in China besprechen: Fieber, Infusionsreaktionen, niedrige Blutwerte, Nervenprobleme und Wege zur dringenden Hilfe klären.

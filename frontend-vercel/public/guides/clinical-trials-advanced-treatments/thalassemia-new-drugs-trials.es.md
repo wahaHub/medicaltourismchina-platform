@@ -1,12 +1,14 @@
-# Nuevos medicamentos y ensayos clínicos para la talasemia en 2026: distinguir las aprobaciones, la investigación y la elegibilidad personal
+# Fármacos y ensayos para la talasemia: evidencia y acceso en China
 
 ## Hero
 
-- **Title:** Nuevos medicamentos y ensayos clínicos para la talasemia en 2026: distinguir las aprobaciones, la investigación y la elegibilidad personal
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Talasemia
-- **Subtitle:** Las noticias sobre independencia transfusional pueden plantear de inmediato si un tratamiento está disponible para un paciente concreto.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Fármacos y ensayos para la talasemia: evidencia y acceso en China
+- **Subtitle:** Distinga aprobaciones, investigación y elegibilidad en talasemia. Revise la evidencia de fármacos y terapias génicas antes de explorar el acceso en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,3 +143,6 @@ Para la próxima consulta, céntrese en tres decisiones: qué podría cambiar el
 ## SEO Metadata
 
 - **Primary keyword:** nuevos tratamientos de talasemia 2026; ensayos clínicos en China; mitapivat; edición genética; CS-101
+
+- **Meta title:** Fármacos y ensayos para la talasemia: evidencia y acceso en China
+- **Meta description:** Distinga aprobaciones, investigación y elegibilidad en talasemia. Revise la evidencia de fármacos y terapias génicas antes de explorar el acceso en China.

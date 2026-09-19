@@ -1,12 +1,14 @@
-# Molestias y riesgos del tratamiento durante la rehabilitación del ictus: cuándo ajustar o buscar ayuda
+# Rehabilitación del ictus en China: molestias y señales de alarma
 
 ## Hero
 
-- **Title:** Molestias y riesgos del tratamiento durante la rehabilitación del ictus: cuándo ajustar o buscar ayuda
 - **Category:** Guías de tratamiento
 - **Subcategory:** Rehabilitación tras un ictus isquémico
-- **Subtitle:** La rehabilitación implica práctica, pero el dolor, el mareo o una somnolencia intensa después de la medicación no deben aceptarse automáticamente como prueba de que el tratamiento funciona.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rehabilitación del ictus en China: molestias y señales de alarma
+- **Subtitle:** Distinga molestias de rehabilitación del ictus y señales que requieren ayuda, y revise riesgos de hombro, caídas y equipos con su equipo de atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ Después de un cambio, revise qué puede seguir haciendo la persona de forma seg
 ## SEO Metadata
 
 - **Primary keyword:** efectos secundarios y seguridad de la rehabilitación del ictus
+
+- **Meta title:** Rehabilitación del ictus en China: molestias y señales de alarma
+- **Meta description:** Distinga molestias de rehabilitación del ictus y señales que requieren ayuda, y revise riesgos de hombro, caídas y equipos con su equipo de atención en China.

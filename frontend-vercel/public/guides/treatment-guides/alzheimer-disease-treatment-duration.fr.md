@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Combien de temps dure le traitement de la maladie d’Alzheimer ? Réévaluations, anticorps et planification des soins en Chine
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Maladie d’Alzheimer
-- **Subtitle:** La maladie d’Alzheimer nécessite généralement une prise en charge continue, mais cela ne signifie pas que chaque médicament est prescrit indéfiniment.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Combien de temps dure le traitement de la maladie d’Alzheimer ? Réévaluations, anticorps et planification des soins en Chine
+- **Subtitle:** Comprenez les calendriers du traitement d’Alzheimer en Chine : ajustement initial, médicaments au long cours, surveillance des anticorps et décisions d’arrêt.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Le soutien quotidien évolue avec le stade de la maladie. Les rappels, les mesur
 ## SEO Metadata
 
 - **Primary keyword:** durée du traitement de la maladie d’Alzheimer
+
+- **Meta title:** Combien de temps dure le traitement de la maladie d’Alzheimer ? Réévaluations, anticorps et planification des soins en Chine
+- **Meta description:** Comprenez les calendriers du traitement d’Alzheimer en Chine : ajustement initial, médicaments au long cours, surveillance des anticorps et décisions d’arrêt.

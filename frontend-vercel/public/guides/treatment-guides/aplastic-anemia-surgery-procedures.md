@@ -1,12 +1,14 @@
-# Procedures for aplastic anemia: marrow sampling, vascular access, and transplantation
+# Aplastic Anemia Procedures in China: Marrow Tests and Transplant
 
 ## Hero
 
-- **Title:** Procedures for aplastic anemia: marrow sampling, vascular access, and transplantation
 - **Category:** Treatment Guides
 - **Subcategory:** Aplastic Anemia
-- **Subtitle:** Procedures for aplastic anemia: marrow sampling, vascular access, and transplantation
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Aplastic Anemia Procedures in China: Marrow Tests and Transplant
+- **Subtitle:** Separate marrow sampling, venous access and transplantation in aplastic anemia, and confirm preparation and itemized procedure costs in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ The timetable should likewise separate diagnostic review, donor confirmation, re
 ## SEO Metadata
 
 - **Primary keyword:** aplastic anemia stem cell transplant procedure
+
+- **Meta title:** Aplastic Anemia Procedures in China: Marrow Tests and Transplant
+- **Meta description:** Separate marrow sampling, venous access and transplantation in aplastic anemia, and confirm preparation and itemized procedure costs in China.

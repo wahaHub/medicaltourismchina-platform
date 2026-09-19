@@ -1,15 +1,17 @@
-# 086 Fabrication et qualité des thérapies cellulaires : pourquoi elles comptent
+# Thérapies cellulaires en Chine : fabrication et contrôles de qualité
 
 ## Hero
 
-- **Title:** Fabrication et qualité des thérapies cellulaires : pourquoi elles comptent
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Médecine cellulaire, génique et régénérative
-- **Subtitle:** Suivez un produit cellulaire depuis le prélèvement et le contrôle de l’identité jusqu’à la fabrication, la libération, le transport et l’administration au lit du patient, et comprenez ce qui se passe lorsqu’un lot échoue.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Illustration éditoriale de cellules passant par un flacon de produit et un contrôle de sécurité jusqu’à un patient ; un parcours général, et non un véritable dossier de fabrication ou certificat de libération.
+
+
+- **Title:** Thérapies cellulaires en Chine : fabrication et contrôles de qualité
+- **Subtitle:** Comprendre le prélèvement cellulaire, la chaîne d’identité, les contrôles de fabrication, les tests de libération, l’activité biologique, les lots OOS, la comparabilité, l’expédition et la manipulation au lit du patient.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -175,11 +177,13 @@ Oui. Le protocole doit définir la notification immédiate, l’évaluation clin
 ## SEO Metadata
 
 - **Slug:** `cell-therapy-manufacturing-and-quality-why-it-matters`
-- **Meta title:** Fabrication, libération et qualité des thérapies cellulaires
-- **Meta description:** Comprendre le prélèvement cellulaire, la chaîne d’identité, les contrôles de fabrication, les tests de libération, l’activité biologique, les lots OOS, la comparabilité, l’expédition et la manipulation au lit du patient.
 - **Primary keyword:** qualité de fabrication des thérapies cellulaires
 - **Secondary keywords:** libération des lots de thérapie cellulaire ; échec de fabrication des CAR-T ; activité biologique des thérapies cellulaires ; chaîne d’identité ; comparabilité des thérapies cellulaires
 - **Search intent:** vérifications préalables de fabrication / qualité du produit cellulaire
+
+
+- **Meta title:** Thérapies cellulaires en Chine : fabrication et contrôles de qualité
+- **Meta description:** Comprendre le prélèvement cellulaire, la chaîne d’identité, les contrôles de fabrication, les tests de libération, l’activité biologique, les lots OOS, la comparabilité, l’expédition et la manipulation au lit du patient.
 
 ## Sources
 

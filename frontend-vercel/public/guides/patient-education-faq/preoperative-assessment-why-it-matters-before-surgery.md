@@ -1,15 +1,17 @@
-# Preoperative Assessment Is Not a Rubber Stamp: It Builds the Safest Achievable Plan for Surgery
+# Preparing for Surgery in China: Tests and Anesthesia Review
 
 ## Hero
 
-- **Title:** Preoperative Assessment Is Not a Rubber Stamp: It Builds the Safest Achievable Plan for Surgery
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Surgery & Hospital Safety
-- **Subtitle:** What surgeons, anesthesiology teams and patients need to settle about health changes, medicines, testing, fasting, risk and postoperative care before the operating-room schedule becomes the plan.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** A surgeon and preoperative nurse conduct a face-to-face assessment with a patient before surgery
+
+
+- **Title:** Preparing for Surgery in China: Tests and Anesthesia Review
+- **Subtitle:** Learn what preoperative assessment really checks, why tests are selective, how medicines and fasting are planned, when surgery may be delayed and what patients should bring.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,11 +143,13 @@ No. Assessment develops the medical plan over days or weeks. The checklist is a 
 
 ## SEO Metadata
 
-- **SEO title:** Preoperative Assessment: Tests, Medicines, Anesthesia and Surgery Readiness
-- **Meta description:** Learn what preoperative assessment really checks, why tests are selective, how medicines and fasting are planned, when surgery may be delayed and what patients should bring.
 - **Primary keyword:** preoperative assessment before surgery
 - **Secondary keywords:** preanesthesia evaluation, preoperative tests, surgery clearance, perioperative risk, medication before surgery, surgical safety checklist
 - **Suggested URL slug:** `/preoperative-assessment-tests-medicines-anesthesia-risk`
+
+
+- **Meta title:** Preparing for Surgery in China: Tests and Anesthesia Review
+- **Meta description:** Learn what preoperative assessment really checks, why tests are selective, how medicines and fasting are planned, when surgery may be delayed and what patients should bring.
 
 ## Sources
 

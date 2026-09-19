@@ -1,15 +1,17 @@
-# 094 Pelaporan Kejadian Tidak Diinginkan dalam Uji Klinis: Panduan Pasien
+# Uji Klinis di Tiongkok: Pelaporan Kejadian Tidak Diinginkan
 
 ## Hero
 
-- **Title:** Pelaporan Kejadian Tidak Diinginkan dalam Uji Klinis: Panduan Pasien
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Keselamatan Peserta & Pelaporan
-- **Subtitle:** Apa yang perlu dilaporkan, siapa yang perlu mengetahuinya, dan bagaimana melindungi perawatan ketika suatu kejadian terjadi jauh dari lokasi uji klinis.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Gambar sementara saat ini menunjukkan percakapan rutin di resepsionis dan menunggu ilustrasi pelaporan kejadian tidak diinginkan yang dibuat khusus.
+
+
+- **Title:** Uji Klinis di Tiongkok: Pelaporan Kejadian Tidak Diinginkan
+- **Subtitle:** Pelajari apa yang harus dilaporkan peserta uji klinis, perbedaan kejadian berat dan serius, langkah darurat, peran lokasi dan sponsor, serta tindak lanjut lintas negara.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -187,11 +189,13 @@ Ya, partisipasi bersifat sukarela. Mintalah tim memisahkan penghentian pengobata
 ## SEO Metadata
 
 - **Slug:** `adverse-event-reporting-in-clinical-trials-a-patient-guide`
-- **Meta title:** Pelaporan Kejadian Tidak Diinginkan Uji Klinis: Panduan Pasien
-- **Meta description:** Pelajari apa yang harus dilaporkan peserta uji klinis, perbedaan kejadian berat dan serius, langkah darurat, peran lokasi dan sponsor, serta tindak lanjut lintas negara.
 - **Primary keyword:** pelaporan kejadian tidak diinginkan uji klinis
 - **Secondary keywords:** kejadian tidak diinginkan versus kejadian tidak diinginkan serius; pelaporan SAE Tiongkok; panduan pasien SUSAR; kontak darurat uji klinis; tindak lanjut keselamatan uji klinis
 - **Search intent:** keselamatan peserta dan pelaporan kejadian tidak diinginkan
+
+
+- **Meta title:** Uji Klinis di Tiongkok: Pelaporan Kejadian Tidak Diinginkan
+- **Meta description:** Pelajari apa yang harus dilaporkan peserta uji klinis, perbedaan kejadian berat dan serius, langkah darurat, peran lokasi dan sponsor, serta tindak lanjut lintas negara.
 
 ## Sumber
 

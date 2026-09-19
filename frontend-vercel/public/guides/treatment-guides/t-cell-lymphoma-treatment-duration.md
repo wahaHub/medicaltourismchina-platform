@@ -1,12 +1,14 @@
-# How long does T-cell lymphoma treatment take? Planning cycles, assessment, transplantation and travel
+# T-Cell Lymphoma Treatment in China: Cycles and Travel Planning
 
 ## Hero
 
-- **Title:** How long does T-cell lymphoma treatment take? Planning cycles, assessment, transplantation and travel
 - **Category:** Treatment Guides
 - **Subcategory:** T Cell Lymphoma
-- **Subtitle:** Asking how long treatment takes may mean the duration of an infusion, the time before returning home, or the point at which work can resume.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** T-Cell Lymphoma Treatment in China: Cycles and Travel Planning
+- **Subtitle:** Plan T-cell lymphoma treatment in China around cycles, assessments, possible transplantation and recovery, with room for clinical changes.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ Maintain a version date on the schedule and replace superseded copies. When the 
 ## SEO Metadata
 
 - **Primary keyword:** T-cell lymphoma treatment duration
+
+- **Meta title:** T-Cell Lymphoma Treatment in China: Cycles and Travel Planning
+- **Meta description:** Plan T-cell lymphoma treatment in China around cycles, assessments, possible transplantation and recovery, with room for clinical changes.

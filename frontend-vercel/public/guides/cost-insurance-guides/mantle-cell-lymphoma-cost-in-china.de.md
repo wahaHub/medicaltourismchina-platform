@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Was kostet die Behandlung eines Mantelzelllymphoms in China? Ein aufgeschlüsseltes Budget in Renminbi erstellen
 - **Category:** Leitfäden zu Kosten und Versicherung
 - **Subcategory:** Mantelzelllymphom
-- **Subtitle:** Zwei Angebote können beide eine MCL-Behandlung beschreiben und dabei unterschiedliche Leistungen abdecken.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Was kostet die Behandlung eines Mantelzelllymphoms in China? Ein aufgeschlüsseltes Budget in Renminbi erstellen
+- **Subtitle:** Ein Budget für Mantelzelllymphom-Behandlung in China erstellen: Therapiephase, Medikamente, Transplantation, Zelltherapie und Erhaltung im Angebot berücksichtigen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Ein offenes Gespräch über Budgetgrenzen kann dem Team helfen, geeignete durchf
 ## SEO Metadata
 
 - **Primary keyword:** Kosten der Behandlung eines Mantelzelllymphoms in China
+
+- **Meta title:** Was kostet die Behandlung eines Mantelzelllymphoms in China? Ein aufgeschlüsseltes Budget in Renminbi erstellen
+- **Meta description:** Ein Budget für Mantelzelllymphom-Behandlung in China erstellen: Therapiephase, Medikamente, Transplantation, Zelltherapie und Erhaltung im Angebot berücksichtigen.

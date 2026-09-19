@@ -1,15 +1,17 @@
-# 132 Mengulang Tes Setelah Kedatangan: Tanyakan Keputusan Apa yang Akan Diubah Hasil Baru
+# Mengulang Tes Medis di Tiongkok | Kapan Diperlukan?
 
 ## Hero
 
-- **Title:** Mengulang Tes Setelah Kedatangan: Tanyakan Keputusan Apa yang Akan Diubah Hasil Baru
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Tinjauan Tes, Pengulangan, dan Nilai Dasar Pengobatan
-- **Subtitle:** Hasil sebelumnya sebaiknya digunakan kembali bila sesuai untuk keputusan saat ini. Pengulangan beralasan ketika identitas, waktu, metode, mutu, atau pertanyaan klinis membuat bukti lama tidak memadai.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Diskusi konseptual dokter-pasien tentang beberapa aspek pemeriksaan; tidak menunjukkan hasil tes nyata, protokol rumah sakit, atau rekomendasi mengulang tes.
+
+
+- **Title:** Mengulang Tes Medis di Tiongkok | Kapan Diperlukan?
+- **Subtitle:** Hasil sebelumnya sebaiknya digunakan kembali bila sesuai untuk keputusan saat ini. Pengulangan beralasan ketika identitas, waktu, metode, mutu, atau pertanyaan klinis membuat bukti lama tidak memadai.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -185,13 +187,15 @@ Simpan permintaan tes, petunjuk persiapan, laporan, satuan dan rentang rujukan, 
 ## SEO Metadata
 
 - **Slug:** `repeating-tests-after-arrival-why-it-may-be-necessary`
-- **Meta title:** Mengulang Tes Medis di Tiongkok | Kapan Diperlukan?
-- **Meta description:** Gunakan uji kesesuaian lima bagian untuk memutuskan apakah bukti laboratorium, pencitraan, atau patologi luar negeri harus digunakan kembali, ditafsirkan ulang, diulang, atau diganti setelah tiba di Tiongkok.
 - **Primary keyword:** mengulang tes medis di Tiongkok
 - **Pillar keyword:** perjalanan medis ke Tiongkok
 - **Vertical keyword:** hasil tes luar negeri rumah sakit Tiongkok
 - **Search intent:** tinjauan tes / perencanaan biaya dan keamanan
 - **Secondary keywords:** pengakuan hasil tes Tiongkok; CT ulang Tiongkok; tinjauan patologi Tiongkok; rentang rujukan laboratorium; tes nilai dasar pengobatan
+
+
+- **Meta title:** Mengulang Tes Medis di Tiongkok | Kapan Diperlukan?
+- **Meta description:** Gunakan uji kesesuaian lima bagian untuk memutuskan apakah bukti laboratorium, pencitraan, atau patologi luar negeri harus digunakan kembali, ditafsirkan ulang, diulang, atau diganti setelah tiba di Tiongkok.
 
 ## Sumber
 

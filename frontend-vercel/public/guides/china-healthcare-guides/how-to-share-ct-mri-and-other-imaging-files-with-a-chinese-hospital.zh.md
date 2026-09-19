@@ -1,15 +1,17 @@
-# 如何向中国医院发送CT、MRI和其他影像文件
+# 如何向中国医院分享 CT 和 MRI 影像
 
 ## Hero
 
-- **Title:** 如何向中国医院发送CT、MRI和其他影像文件
 - **Category:** 中国医疗指南
 - **Subcategory:** 影像与医疗记录
-- **Subtitle:** 发送完整诊断级检查、正式报告和临床问题，而不是几张无法滚动、测量或对比的手机截图。
 - **Reviewed by:** Medora Health 编辑团队；发布前需完成放射科和信息安全审核
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 中国放射科医生与国际患者讨论断层影像
+
+
+- **Title:** 如何向中国医院分享 CT 和 MRI 影像
+- **Subtitle:** 导出完整DICOM、核对序列、保护患者隐私，并确认中国医院成功导入和完成放射科复核。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -232,13 +234,15 @@ DICOM对象内部可包含患者姓名、编号、日期等数据；改变文件
 ## SEO Metadata
 
 - **Slug:** `how-to-share-ct-mri-and-other-imaging-files-with-a-chinese-hospital`
-- **Meta title:** 如何向中国医院发送CT和MRI影像文件
-- **Meta description:** 导出完整DICOM、核对序列、保护患者隐私，并确认中国医院成功导入和完成放射科复核。
 - **Primary keyword:** 向中国医院发送DICOM
 - **Pillar keyword:** 国际患者在中国就医
 - **Vertical keyword:** CT MRI影像传输中国
 - **Search intent:** 信息查询 / 技术准备
 - **Secondary keywords:** 中国医院DICOM上传；中国CT第二意见；MRI文件传输
+
+
+- **Meta title:** 如何向中国医院分享 CT 和 MRI 影像
+- **Meta description:** 导出完整DICOM、核对序列、保护患者隐私，并确认中国医院成功导入和完成放射科复核。
 
 ## Sources
 

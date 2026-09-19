@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Heimkehr nach MDS-Behandlung in China: Nachsorgeuntersuchungen, Transfusionen, Verordnungen und Transplantationsnachsorge
 - **Category:** Leitfäden zum Patientenweg
 - **Subcategory:** Myelodysplastisches Syndrom
-- **Subtitle:** Heimkehr nach MDS-Behandlung in China: Nachsorgeuntersuchungen, Transfusionen, Verordnungen und Transplantationsnachsorge
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Heimkehr nach MDS-Behandlung in China: Nachsorgeuntersuchungen, Transfusionen, Verordnungen und Transplantationsnachsorge
+- **Subtitle:** Nach MDS-Behandlung in China die Versorgung zu Hause sichern: Blutkontrollen, Transfusionen, Verordnungen, Notfallwege und Transplantationsnachsorge abstimmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Befolgen Sie die individuellen Anweisungen des Patienten zu Überwachung, Medika
 ## SEO Metadata
 
 - **Primary keyword:** Nachsorge beim myelodysplastischen Syndrom nach Behandlung in China
+
+- **Meta title:** Heimkehr nach MDS-Behandlung in China: Nachsorgeuntersuchungen, Transfusionen, Verordnungen und Transplantationsnachsorge
+- **Meta description:** Nach MDS-Behandlung in China die Versorgung zu Hause sichern: Blutkontrollen, Transfusionen, Verordnungen, Notfallwege und Transplantationsnachsorge abstimmen.

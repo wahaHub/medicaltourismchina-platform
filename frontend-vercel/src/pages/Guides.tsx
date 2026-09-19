@@ -10,7 +10,7 @@ import { setPageSeo, SITE_ORIGIN } from "@/utils/seo";
 import { getStaticPageMetadata } from "@/seo/static-page";
 import guidesManifest from "@/data/guides-manifest.json";
 import { cn } from "@/lib/utils";
-import { GUIDE_LABELS } from "@/lib/guide-locales.mjs";
+import { GUIDE_LABELS, guideContentLocale } from "@/lib/guide-locales.mjs";
 
 import { GUIDE_AREAS, AREA_LABEL, ALL_AREAS_LABEL, TYPE_LABEL, guideHealthArea } from "@/lib/guide-taxonomy.mjs";
 
@@ -152,7 +152,8 @@ export default function Guides() {
         pickLocalized(a.title, locale).localeCompare(pickLocalized(b.title, locale), locale),
       );
     } else {
-      sorted.sort((a, b) => parseGuideDate(b.updatedDate) - parseGuideDate(a.updatedDate));
+      const localizedDate = (guide: FlatGuide) => guide.updatedDateByLocale?.[guideContentLocale(locale, guide.locales)] ?? guide.updatedDate;
+      sorted.sort((a, b) => parseGuideDate(localizedDate(b)) - parseGuideDate(localizedDate(a)));
     }
     return sorted;
   }, [activeCategory, allGuides, locale, searchQuery, sortBy, conditionId, healthArea]);

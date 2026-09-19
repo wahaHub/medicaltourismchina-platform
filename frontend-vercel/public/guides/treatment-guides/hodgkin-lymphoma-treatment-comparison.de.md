@@ -1,12 +1,14 @@
-# Behandlungsschemata beim Hodgkin-Lymphom im Vergleich: ABVD, N-AVD, BV-AVD und BrECADD
+# Behandlungsschemata beim Hodgkin-Lymphom in China: Optionen vergleichen
 
 ## Hero
 
-- **Title:** Behandlungsschemata beim Hodgkin-Lymphom im Vergleich: ABVD, N-AVD, BV-AVD und BrECADD
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Hodgkin-Lymphom
-- **Subtitle:** Die erste Regel beim Vergleich von Hodgkin-Lymphom-Behandlungen lautet: Prüfen Sie, ob die Empfehlungen dieselbe Behandlungssituation betreffen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Behandlungsschemata beim Hodgkin-Lymphom in China: Optionen vergleichen
+- **Subtitle:** Hodgkin-Lymphom-Schemata für China vergleichen: ABVD, N-AVD, BV-AVD und BrECADD nach Patientengruppe, Wirksamkeit, Risiken und Bestrahlungsplan einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -136,3 +138,6 @@ Bewahren Sie nach der Entscheidung das Gesprächsprotokoll auf. Eine neue Forsch
 ## SEO Metadata
 
 - **Primary keyword:** Behandlungsvergleich Hodgkin-Lymphom
+
+- **Meta title:** Behandlungsschemata beim Hodgkin-Lymphom in China: Optionen vergleichen
+- **Meta description:** Hodgkin-Lymphom-Schemata für China vergleichen: ABVD, N-AVD, BV-AVD und BrECADD nach Patientengruppe, Wirksamkeit, Risiken und Bestrahlungsplan einordnen.

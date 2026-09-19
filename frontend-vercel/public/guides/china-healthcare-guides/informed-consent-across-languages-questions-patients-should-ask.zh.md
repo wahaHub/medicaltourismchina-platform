@@ -1,15 +1,17 @@
-# 跨语言知情同意：患者在签字前应该问什么
+# 在中国就医的跨语言知情同意：签字前要问什么
 
 ## Hero
 
-- **Title:** 跨语言知情同意：患者在签字前应该问什么
 - **Category:** 中国医疗指南
 - **Subcategory:** 语言、患者权利与医疗决策
-- **Subtitle:** 知情同意是一场关于拟议治疗、重要风险、替代方案和患者选择的对话，不是靠猜测完成的一次签字。
 - **Reviewed by:** Medora Health 编辑团队；发布前需完成临床、法律和语言服务审核
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 国际患者和陪同人员在同意治疗前向医生提问
+
+
+- **Title:** 在中国就医的跨语言知情同意：签字前要问什么
+- **Subtitle:** 在中国医院签署同意书前，问清治疗获益、风险、替代方案、口译、费用和方案改变，避免语言造成无效沟通。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -169,13 +171,15 @@
 ## SEO Metadata
 
 - **Slug:** `informed-consent-across-languages-questions-patients-should-ask`
-- **Meta title:** 跨语言知情同意：国际患者签字前的问题
-- **Meta description:** 在中国医院签署同意书前，问清治疗获益、风险、替代方案、口译、费用和方案改变，避免语言造成无效沟通。
 - **Primary keyword:** 中国医院知情同意
 - **Pillar keyword:** 国际患者在中国就医
 - **Vertical keyword:** 跨语言医疗知情同意
 - **Search intent:** 信息查询 / 治疗决策支持
 - **Secondary keywords:** 中国医院英文同意书；手术同意医疗口译；国际患者手术签字
+
+
+- **Meta title:** 在中国就医的跨语言知情同意：签字前要问什么
+- **Meta description:** 在中国医院签署同意书前，问清治疗获益、风险、替代方案、口译、费用和方案改变，避免语言造成无效沟通。
 
 ## Sources
 

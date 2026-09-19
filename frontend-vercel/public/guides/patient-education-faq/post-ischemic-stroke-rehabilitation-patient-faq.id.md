@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Dua puluh pertanyaan pasien tentang rehabilitasi stroke iskemik dan perawatan di Tiongkok
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Rehabilitasi Pascastroke Iskemik
-- **Subtitle:** Pertanyaan tentang pemulihan setelah stroke iskemik sering berubah seiring waktu.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dua puluh pertanyaan pasien tentang rehabilitasi stroke iskemik dan perawatan di Tiongkok
+- **Subtitle:** Siapkan rehabilitasi stroke iskemik di Tiongkok melalui 20 pertanyaan tentang waktu mulai, penilaian, pemulihan fungsi, dan perawatan lanjutan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -187,3 +189,6 @@ Kelemahan satu sisi mendadak yang baru, perubahan bicara atau penglihatan, atau 
 ## SEO Metadata
 
 - **Primary keyword:** pertanyaan pasien rehabilitasi stroke iskemik
+
+- **Meta title:** Dua puluh pertanyaan pasien tentang rehabilitasi stroke iskemik dan perawatan di Tiongkok
+- **Meta description:** Siapkan rehabilitasi stroke iskemik di Tiongkok melalui 20 pertanyaan tentang waktu mulai, penilaian, pemulihan fungsi, dan perawatan lanjutan.

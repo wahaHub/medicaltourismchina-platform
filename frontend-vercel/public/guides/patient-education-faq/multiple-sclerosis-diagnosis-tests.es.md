@@ -1,12 +1,14 @@
-# Pruebas ante la sospecha de esclerosis múltiple: prepararse para la resonancia magnética, el análisis del líquido cefalorraquídeo y la revisión especializada
+# Evaluación de esclerosis múltiple en China: resonancia magnética y otras pruebas
 
 ## Hero
 
-- **Title:** Pruebas ante la sospecha de esclerosis múltiple: prepararse para la resonancia magnética, el análisis del líquido cefalorraquídeo y la revisión especializada
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Esclerosis múltiple
-- **Subtitle:** La evaluación de la EM busca explicar un problema neurológico, no simplemente completar un conjunto estándar de pruebas.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Evaluación de esclerosis múltiple en China: resonancia magnética y otras pruebas
+- **Subtitle:** Prepare una evaluación de esclerosis múltiple en China con la historia clínica, las resonancias y preguntas sobre líquido cefalorraquídeo y otras pruebas.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ En cuanto a los costes, solicite una lista de las pruebas consideradas necesaria
 ## SEO Metadata
 
 - **Primary keyword:** pruebas diagnósticas de esclerosis múltiple en China
+
+- **Meta title:** Evaluación de esclerosis múltiple en China: resonancia magnética y otras pruebas
+- **Meta description:** Prepare una evaluación de esclerosis múltiple en China con la historia clínica, las resonancias y preguntas sobre líquido cefalorraquídeo y otras pruebas.

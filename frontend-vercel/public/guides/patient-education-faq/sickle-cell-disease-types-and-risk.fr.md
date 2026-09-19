@@ -1,12 +1,14 @@
-# Génotypes drépanocytaires et risque : comprendre HbSS, HbSC et la drépanocytose bêta-thalassémique
+# Types et risques de drépanocytose : préparer des soins en Chine
 
 ## Hero
 
-- **Title:** Génotypes drépanocytaires et risque : comprendre HbSS, HbSC et la drépanocytose bêta-thalassémique
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Drépanocytose
-- **Subtitle:** Certaines personnes voient un diagnostic HbSS et supposent que leur avenir sera nécessairement plus difficile que celui de tous les autres patients.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Types et risques de drépanocytose : préparer des soins en Chine
+- **Subtitle:** Comprenez les différences entre HbSS, HbSC, drépanocytose bêta-thalassémique et trait drépanocytaire pour préparer une évaluation du risque en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Si les avis diffèrent, vérifiez d’abord que les deux équipes utilisent le m
 ## SEO Metadata
 
 - **Primary keyword:** types de drépanocytose et risque individuel
+
+- **Meta title:** Types et risques de drépanocytose : préparer des soins en Chine
+- **Meta description:** Comprenez les différences entre HbSS, HbSC, drépanocytose bêta-thalassémique et trait drépanocytaire pour préparer une évaluation du risque en Chine.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Quién debería viajar a China para recibir atención por enfermedad falciforme? Beneficio clínico, estabilidad y organización de la recepción
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Enfermedad de células falciformes
-- **Subtitle:** Para una persona con enfermedad de células falciformes, decidir si viajar a China para recibir atención implica más que preguntar si es posible volar.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Quién debería viajar a China para recibir atención por enfermedad falciforme? Beneficio clínico, estabilidad y organización de la recepción
+- **Subtitle:** Valore viajar a China por enfermedad falciforme según el beneficio clínico, la estabilidad tras crisis y los acuerdos de recepción y continuidad asistencial.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,3 +152,6 @@ La fiebre nueva, el dolor torácico, la falta de aire, la debilidad marcada o lo
 ## SEO Metadata
 
 - **Primary keyword:** viajar a China para tratar la enfermedad de células falciformes
+
+- **Meta title:** ¿Quién debería viajar a China para recibir atención por enfermedad falciforme? Beneficio clínico, estabilidad y organización de la recepción
+- **Meta description:** Valore viajar a China por enfermedad falciforme según el beneficio clínico, la estabilidad tras crisis y los acuerdos de recepción y continuidad asistencial.

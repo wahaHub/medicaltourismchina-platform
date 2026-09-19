@@ -1,12 +1,14 @@
-# Berapa lama pengobatan DLBCL berlangsung: siklus, penilaian, dan waktu jauh dari rumah
+# Pengobatan DLBCL di Tiongkok: Siklus, Evaluasi, dan Lama Tinggal
 
 ## Hero
 
-- **Title:** Berapa lama pengobatan DLBCL berlangsung: siklus, penilaian, dan waktu jauh dari rumah
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel B Besar Difus
-- **Subtitle:** Waktu pengobatan DLBCL lebih dari sekadar jumlah hari infus.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan DLBCL di Tiongkok: Siklus, Evaluasi, dan Lama Tinggal
+- **Subtitle:** Rencanakan lama tinggal untuk DLBCL di Tiongkok berdasarkan diagnosis, siklus, pemulihan, dan evaluasi respons, bukan hanya jumlah hari infus.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Untuk kalender keluarga, tandai tanggal sebagai sementara atau terkonfirmasi dan
 ## SEO Metadata
 
 - **Primary keyword:** durasi pengobatan DLBCL
+
+- **Meta title:** Pengobatan DLBCL di Tiongkok: Siklus, Evaluasi, dan Lama Tinggal
+- **Meta description:** Rencanakan lama tinggal untuk DLBCL di Tiongkok berdasarkan diagnosis, siklus, pemulihan, dan evaluasi respons, bukan hanya jumlah hari infus.

@@ -1,15 +1,17 @@
-# 怎样选择北京医院：专科、院区、就医渠道与行程
+# 中国医院选择：北京专科、院区与行程
 
 ## Hero
 
-- **Title:** 怎样选择北京医院：专科、院区、就医渠道与行程
 - **Category:** 医院指南
 - **Subcategory:** 北京就医规划
-- **Subtitle:** 先确定临床路径，再核实实际院区，最后按照真实的问诊、检查和治疗顺序安排行程。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 国际患者用地图和日历规划北京就医的概念插图；画面中的地标和医院不是现实中的院区位置组合。
+
+
+- **Title:** 中国医院选择：北京专科、院区与行程
+- **Subtitle:** 国际患者按专科匹配、实际院区、挂号渠道、地理位置、付款和安全返程选择北京医院的实用方法。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -224,13 +226,15 @@
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-beijing-specialties-access-and-travel`
-- **Meta title:** 怎样选择北京医院：专科、院区与行程
-- **Meta description:** 国际患者按专科匹配、实际院区、挂号渠道、地理位置、付款和安全返程选择北京医院的实用方法。
 - **Primary keyword:** 怎样选择北京医院
 - **Pillar keyword:** 北京国际患者医院
 - **Vertical keyword:** 北京医院专科院区就医行程
 - **Search intent:** 医院比较 / 就医行程规划
 - **Secondary keywords:** 北京医院院区；外籍患者北京挂号；北京 114 挂号；赴北京就医；北京医院专科
+
+
+- **Meta title:** 中国医院选择：北京专科、院区与行程
+- **Meta description:** 国际患者按专科匹配、实际院区、挂号渠道、地理位置、付款和安全返程选择北京医院的实用方法。
 
 ## Sources
 

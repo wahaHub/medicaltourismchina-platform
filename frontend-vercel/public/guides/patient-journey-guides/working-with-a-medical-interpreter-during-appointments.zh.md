@@ -1,15 +1,17 @@
-# 门诊医疗口译：让对话始终发生在患者与医生之间
+# 中国门诊医疗口译｜角色、复述确认与会诊记录
 
 ## Hero
 
-- **Title:** 门诊医疗口译：让对话始终发生在患者与医生之间
 - **Category:** 患者旅程指南
 - **Subcategory:** 口译会诊与沟通安全
-- **Subtitle:** 一场好的口译门诊不是三段各说各话。患者与医生彼此交谈，口译员把每个问题、限定条件、数字和不确定性完整带过语言边界。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** 编辑插图：患者和陪同者通过在场口译员与医生交谈；角色为概念呈现，不对应真实医院或个人。
+
+
+- **Title:** 中国门诊医疗口译｜角色、复述确认与会诊记录
+- **Subtitle:** 一场好的口译门诊不是三段各说各话。患者与医生彼此交谈，口译员把每个问题、限定条件、数字和不确定性完整带过语言边界。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -175,13 +177,15 @@ ISO 21998:2020 对口语和手语医疗口译提出要求与建议 [2]。医院�
 ## SEO Metadata
 
 - **Slug:** `working-with-a-medical-interpreter-during-appointments`
-- **Meta title:** 中国门诊医疗口译｜角色、复述确认与会诊记录
-- **Meta description:** 通过第一人称、短句轮次、说话人标记、药物双重核对、复述确认和书面决策记录，提高口译门诊的准确性。
 - **Primary keyword:** 中国门诊医疗口译
 - **Pillar keyword:** 赴华医疗
 - **Vertical keyword:** 跨语言医疗会诊
 - **Search intent:** 门诊准备 / 沟通安全
 - **Secondary keywords:** 中国医疗口译员；口译门诊；医疗口译复述确认；跨语言知情同意；国际患者沟通
+
+
+- **Meta title:** 中国门诊医疗口译｜角色、复述确认与会诊记录
+- **Meta description:** 通过第一人称、短句轮次、说话人标记、药物双重核对、复述确认和书面决策记录，提高口译门诊的准确性。
 
 ## Sources
 

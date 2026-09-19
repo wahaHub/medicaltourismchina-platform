@@ -1,12 +1,14 @@
-# Comprender un informe de EICH: puntuaciones de órganos, anatomía patológica y resultados del trasplante
+# Informes de EICH: puntuaciones de órganos y revisión especializada en China
 
 ## Hero
 
-- **Title:** Comprender un informe de EICH: puntuaciones de órganos, anatomía patológica y resultados del trasplante
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedad de injerto contra huésped
-- **Subtitle:** Los informes de un paciente pueden contener un grado histológico bajo en una biopsia intestinal, un grado global más alto de EICH aguda, una puntuación pulmonar de uno y un quimerismo del donante casi completo.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Informes de EICH: puntuaciones de órganos y revisión especializada en China
+- **Subtitle:** Sitúe las puntuaciones de órganos y la anatomía patológica de la enfermedad injerto contra huésped en su cronología para una revisión médica en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ El valor práctico de un informe reside en si respalda observación, más prueba
 ## SEO Metadata
 
 - **Primary keyword:** explicación del informe de enfermedad de injerto contra huésped consulta en China
+
+- **Meta title:** Informes de EICH: puntuaciones de órganos y revisión especializada en China
+- **Meta description:** Sitúe las puntuaciones de órganos y la anatomía patológica de la enfermedad injerto contra huésped en su cronología para una revisión médica en China.

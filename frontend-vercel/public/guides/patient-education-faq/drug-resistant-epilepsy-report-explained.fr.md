@@ -1,12 +1,14 @@
-# Comprendre les comptes rendus d’épilepsie pharmacorésistante : résultats EEG, lésions à l’IRM et avis préchirurgical final
+# Comptes rendus d’épilepsie pharmacorésistante : avis spécialisé en Chine
 
 ## Hero
 
-- **Title:** Comprendre les comptes rendus d’épilepsie pharmacorésistante : résultats EEG, lésions à l’IRM et avis préchirurgical final
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Épilepsie pharmacorésistante
-- **Subtitle:** Il peut sembler contradictoire qu’un EEG décrive des décharges, qu’une IRM soit jugée normale et que le clinicien recommande pourtant une évaluation complémentaire.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Comptes rendus d’épilepsie pharmacorésistante : avis spécialisé en Chine
+- **Subtitle:** Comprenez les limites de l’EEG, les lésions à l’IRM et les conclusions préchirurgicales pour préparer un avis sur l’épilepsie pharmacorésistante en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -157,3 +159,6 @@ Préparez une liste d’une page des termes préoccupants et des conclusions app
 ## SEO Metadata
 
 - **Primary keyword:** interprétation des comptes rendus d’épilepsie pharmacorésistante ; pointes EEG ; compte rendu de sclérose hippocampique ; épilepsie à IRM négative ; second avis en Chine
+
+- **Meta title:** Comptes rendus d’épilepsie pharmacorésistante : avis spécialisé en Chine
+- **Meta description:** Comprenez les limites de l’EEG, les lésions à l’IRM et les conclusions préchirurgicales pour préparer un avis sur l’épilepsie pharmacorésistante en Chine.

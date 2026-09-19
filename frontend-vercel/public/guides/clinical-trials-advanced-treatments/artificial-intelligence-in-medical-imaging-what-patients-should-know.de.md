@@ -1,15 +1,17 @@
-# 089 Künstliche Intelligenz in der medizinischen Bildgebung: Was Patienten wissen sollten
+# KI in der medizinischen Bildgebung in China: Was Patienten wissen sollten
 
 ## Hero
 
-- **Title:** Künstliche Intelligenz in der medizinischen Bildgebung: Was Patienten wissen sollten
 - **Category:** Klinische Studien & fortschrittliche Behandlungen
 - **Subcategory:** Bildgebung, Software & klinische Entscheidungen
-- **Subtitle:** Erfahren Sie, was die Software tatsächlich tut, wer sie überprüft und ob sie Ihre Versorgung verändert.
 - **Reviewed by:** Medora Health Redaktion
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Konzeptillustration einer radiologischen Fachkraft, die mit einem Patienten ein Brustkorbbild und KI-Unterstützung bespricht; keine echte Aufnahme oder diagnostische Ausgabe.
+
+
+- **Title:** KI in der medizinischen Bildgebung in China: Was Patienten wissen sollten
+- **Subtitle:** Verstehen Sie die Aufgaben von Bildgebungs-KI, die Prüfung von Produkt und Evidenz, falsche Ergebnisse, radiologische Aufsicht, Datenschutz und Unterlagen für eine Zweitmeinung.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -163,11 +165,13 @@ Bringen Sie die ursprüngliche DICOM-Untersuchung, den endgültigen Bericht und 
 ## SEO Metadata
 
 - **Slug:** `artificial-intelligence-in-medical-imaging-what-patients-should-know`
-- **Meta title:** KI in der medizinischen Bildgebung: Ein Patientenratgeber
-- **Meta description:** Verstehen Sie die Aufgaben von Bildgebungs-KI, die Prüfung von Produkt und Evidenz, falsche Ergebnisse, radiologische Aufsicht, Datenschutz und Unterlagen für eine Zweitmeinung.
 - **Primary keyword:** KI in der medizinischen Bildgebung
 - **Secondary keywords:** künstliche Intelligenz in der Radiologie; Genauigkeit von KI-Bildgebung; falsch positive Bildgebungs-KI; NMPA-Software für medizinische Bildgebung; KI-Radiologiebericht
 - **Search intent:** Technologieerklärung / Unterstützung bei Bildgebungsentscheidungen
+
+
+- **Meta title:** KI in der medizinischen Bildgebung in China: Was Patienten wissen sollten
+- **Meta description:** Verstehen Sie die Aufgaben von Bildgebungs-KI, die Prüfung von Produkt und Evidenz, falsche Ergebnisse, radiologische Aufsicht, Datenschutz und Unterlagen für eine Zweitmeinung.
 
 ## Quellen
 

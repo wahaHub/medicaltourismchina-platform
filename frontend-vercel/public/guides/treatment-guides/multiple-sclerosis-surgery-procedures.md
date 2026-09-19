@@ -1,12 +1,14 @@
-# Procedures for multiple sclerosis: plasma exchange, AHSCT, and preparation before treatment
+# MS Procedures in China: Plasma Exchange and AHSCT Assessment
 
 ## Hero
 
-- **Title:** Procedures for multiple sclerosis: plasma exchange, AHSCT, and preparation before treatment
 - **Category:** Treatment Guides
 - **Subcategory:** Multiple Sclerosis
-- **Subtitle:** MS is usually not treated by surgically removing a particular lesion.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** MS Procedures in China: Plasma Exchange and AHSCT Assessment
+- **Subtitle:** Understand plasma exchange and AHSCT assessment for MS, including suitability, preparation and a verifiable procedural plan before treatment in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Confirm which stages the estimate covers, how complications will be managed, and
 ## SEO Metadata
 
 - **Primary keyword:** multiple sclerosis procedures and stem cell transplantation
+
+- **Meta title:** MS Procedures in China: Plasma Exchange and AHSCT Assessment
+- **Meta description:** Understand plasma exchange and AHSCT assessment for MS, including suitability, preparation and a verifiable procedural plan before treatment in China.

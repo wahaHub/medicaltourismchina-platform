@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Siapa yang sebaiknya pergi ke Tiongkok untuk rehabilitasi stroke? Menilai kebutuhan dan kesiapan perjalanan
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Rehabilitasi Pascastroke Iskemik
-- **Subtitle:** Perjalanan ke Tiongkok setelah stroke iskemik paling bermanfaat jika kunjungan memiliki tujuan klinis yang jelas.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Siapa yang sebaiknya pergi ke Tiongkok untuk rehabilitasi stroke? Menilai kebutuhan dan kesiapan perjalanan
+- **Subtitle:** Tentukan tujuan rehabilitasi stroke di Tiongkok serta kesiapan perjalanan. Bedakan kebutuhan pemulihan fungsi dari kestabilan medis pasien.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Bahas catatan tersebut dengan pasien menggunakan metode komunikasi pilihannya. P
 ## SEO Metadata
 
 - **Primary keyword:** perjalanan ke Tiongkok untuk rehabilitasi stroke iskemik
+
+- **Meta title:** Siapa yang sebaiknya pergi ke Tiongkok untuk rehabilitasi stroke? Menilai kebutuhan dan kesiapan perjalanan
+- **Meta description:** Tentukan tujuan rehabilitasi stroke di Tiongkok serta kesiapan perjalanan. Bedakan kebutuhan pemulihan fungsi dari kestabilan medis pasien.

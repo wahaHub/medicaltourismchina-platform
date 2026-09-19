@@ -1,12 +1,14 @@
-# Obat selama Rehabilitasi Stroke: Pencegahan, Peredaan Gejala, dan Batas Bukti
+# Obat Rehabilitasi Stroke di Tiongkok: Kegunaan dan Keterbatasan
 
 ## Hero
 
-- **Title:** Obat selama Rehabilitasi Stroke: Pencegahan, Peredaan Gejala, dan Batas Bukti
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Rehabilitasi Pascastroke Iskemik
-- **Subtitle:** Obat selama rehabilitasi stroke sering berasal dari beberapa bidang spesialisasi.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat Rehabilitasi Stroke di Tiongkok: Kegunaan dan Keterbatasan
+- **Subtitle:** Pahami peran obat untuk pencegahan stroke, peredaan gejala, dan rehabilitasi di Tiongkok. Bedakan tujuan terapi serta keterbatasan buktinya.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -131,3 +133,6 @@ Sebelum keluar dari rumah sakit, dapatkan daftar aktif akhir dan tandai obat yan
 ## SEO Metadata
 
 - **Primary keyword:** obat selama rehabilitasi stroke iskemik
+
+- **Meta title:** Obat Rehabilitasi Stroke di Tiongkok: Kegunaan dan Keterbatasan
+- **Meta description:** Pahami peran obat untuk pencegahan stroke, peredaan gejala, dan rehabilitasi di Tiongkok. Bedakan tujuan terapi serta keterbatasan buktinya.

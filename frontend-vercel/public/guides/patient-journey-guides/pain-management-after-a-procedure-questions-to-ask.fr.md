@@ -1,15 +1,17 @@
-# 139 Douleur après une intervention : fixer un objectif fonctionnel et une limite au traitement de secours
+# Douleur après une intervention en Chine : questions et signes d’alerte
 
 ## Hero
 
-- **Title:** Douleur après une intervention : fixer un objectif fonctionnel et une limite au traitement de secours
 - **Category:** Guides du parcours patient
 - **Subcategory:** Douleur aiguë, sécurité médicamenteuse et récupération fonctionnelle
-- **Subtitle:** Une bonne prise en charge de la douleur ne poursuit pas le zéro sur l’échelle. Elle identifie le profil douloureux, soutient la respiration et le mouvement, limite les effets nocifs du traitement et définit quand le plan habituel ne suffit plus.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Représentation conceptuelle d’un médecin discutant d’un plan de douleur postopératoire avec un patient et son accompagnant ; l’image ne montre ni douleur active, ni médicament précis, ni résultat attendu de récupération.
+
+
+- **Title:** Douleur après une intervention en Chine : questions et signes d’alerte
+- **Subtitle:** Construisez un plan de douleur postopératoire autour du profil douloureux, des objectifs fonctionnels, du traitement multimodal, des règles de secours, de la surveillance de la sédation et d’une transition sûre vers le domicile.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -197,13 +199,15 @@ Cela dépend du médicament et des règles de médicaments contrôlés et d’im
 ## SEO Metadata
 
 - **Slug:** `pain-management-after-a-procedure-questions-to-ask`
-- **Meta title:** Douleur après une intervention | Questions et contrôles de sécurité
-- **Meta description:** Construisez un plan de douleur postopératoire autour du profil douloureux, des objectifs fonctionnels, du traitement multimodal, des règles de secours, de la surveillance de la sédation et d’une transition sûre vers le domicile.
 - **Primary keyword:** prise en charge de la douleur après une intervention en Chine
 - **Pillar keyword:** voyage médical en Chine
 - **Vertical keyword:** plan de douleur postopératoire pour patient international
 - **Search intent:** planification de la récupération / sécurité médicamenteuse
 - **Secondary keywords:** douleur postopératoire en Chine ; analgésie multimodale ; sécurité de la PCA ; sécurité des opioïdes après chirurgie ; plan de secours contre la douleur
+
+
+- **Meta title:** Douleur après une intervention en Chine : questions et signes d’alerte
+- **Meta description:** Construisez un plan de douleur postopératoire autour du profil douloureux, des objectifs fonctionnels, du traitement multimodal, des règles de secours, de la surveillance de la sédation et d’une transition sûre vers le domicile.
 
 ## Sources
 
@@ -213,4 +217,3 @@ Cela dépend du médicament et des règles de médicaments contrôlés et d’im
 4. [Centres américains de contrôle et de prévention des maladies — Recommandations de pratique clinique pour la prescription d’opioïdes contre la douleur (2022)](https://www.cdc.gov/mmwr/volumes/71/rr/rr7103a1.htm)
 5. [Agence américaine des produits alimentaires et médicamenteux — Discuter de la naloxone avec les patients recevant des opioïdes](https://www.fda.gov/drugs/drug-safety-communications/fda-recommends-health-care-professionals-discuss-naloxone-all-patients-when-prescribing-opioid-pain)
 6. [Commission nationale de la santé — Plan d’action pour améliorer davantage les services infirmiers (2023–2025)](https://www.nhc.gov.cn/yzygj/c100068/202306/8fe28be0f8e241cb8444b4f242706495.shtml)
-

@@ -1,12 +1,14 @@
-# Effets indésirables du traitement de Parkinson : vertiges, hallucinations, dyskinésies et nouveaux symptômes
+# Traitement de Parkinson en Chine : effets indésirables et nouveaux symptômes
 
 ## Hero
 
-- **Title:** Effets indésirables du traitement de Parkinson : vertiges, hallucinations, dyskinésies et nouveaux symptômes
 - **Category:** Guides de traitement
 - **Subcategory:** Maladie de Parkinson
-- **Subtitle:** Effets indésirables du traitement de Parkinson : vertiges, hallucinations, dyskinésies et nouveaux symptômes
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement de Parkinson en Chine : effets indésirables et nouveaux symptômes
+- **Subtitle:** Consignez vertiges, somnolence, hallucinations et dyskinésies sous traitement de Parkinson pour préparer une évaluation adaptée et un suivi en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ L’objectif pratique est un équilibre thérapeutique qui puisse être maintenu
 ## SEO Metadata
 
 - **Primary keyword:** effets indésirables du traitement de la maladie de Parkinson
+
+- **Meta title:** Traitement de Parkinson en Chine : effets indésirables et nouveaux symptômes
+- **Meta description:** Consignez vertiges, somnolence, hallucinations et dyskinésies sous traitement de Parkinson pour préparer une évaluation adaptée et un suivi en Chine.

@@ -1,15 +1,17 @@
-# 065 Rehabilitación oncológica: manejo de la función, la fatiga y la recuperación
+# Rehabilitación oncológica en China: función, fatiga y recuperación
 
 ## Hero
 
-- **Title:** Rehabilitación oncológica: manejo de la función, la fatiga y la recuperación
 - **Category:** Guías de tratamiento
 - **Subcategory:** Rehabilitación
-- **Subtitle:** Organice la rehabilitación en torno al cáncer, la fase del tratamiento y las tareas cotidianas importantes, no a un paquete genérico de ejercicio.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Una mujer en tratamiento contra el cáncer habla sobre rehabilitación de la marcha y la fuerza con un terapeuta junto a equipos sencillos de ejercicio.
+
+
+- **Title:** Rehabilitación oncológica en China: función, fatiga y recuperación
+- **Subtitle:** Cómo evaluar la rehabilitación oncológica en China: fatiga, seguridad del ejercicio, neuropatía, linfedema, riesgo óseo, objetivos medibles y traspaso asistencial.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -129,11 +131,13 @@ Solicite las medidas iniciales y finales, objetivos, plan de ejercicio y activid
 ## SEO Metadata
 
 - **Slug:** `cancer-rehabilitation-managing-function-fatigue-and-recovery`
-- **Meta title:** Rehabilitación oncológica: función, fatiga y recuperación segura
-- **Meta description:** Cómo evaluar la rehabilitación oncológica en China: fatiga, seguridad del ejercicio, neuropatía, linfedema, riesgo óseo, objetivos medibles y traspaso asistencial.
 - **Primary keyword:** rehabilitación oncológica en China
 - **Secondary keywords:** rehabilitación de la fatiga relacionada con el cáncer; fisioterapia oncológica; ejercicio durante el tratamiento del cáncer; programa de recuperación del cáncer; rehabilitación del linfedema
 - **Search intent:** planificación del tratamiento / comparación de programas de rehabilitación
+
+
+- **Meta title:** Rehabilitación oncológica en China: función, fatiga y recuperación
+- **Meta description:** Cómo evaluar la rehabilitación oncológica en China: fatiga, seguridad del ejercicio, neuropatía, linfedema, riesgo óseo, objetivos medibles y traspaso asistencial.
 
 ## Fuentes
 

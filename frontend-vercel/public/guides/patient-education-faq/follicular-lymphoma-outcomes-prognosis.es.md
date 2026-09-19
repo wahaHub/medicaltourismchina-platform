@@ -1,12 +1,14 @@
-# Pronóstico del linfoma folicular: interpretar la supervivencia, la remisión y la evolución futura
+# Pronóstico del linfoma folicular: preguntas para la consulta en China
 
 ## Hero
 
-- **Title:** Pronóstico del linfoma folicular: interpretar la supervivencia, la remisión y la evolución futura
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma folicular
-- **Subtitle:** El nombre de la enfermedad por sí solo no permite predecir cuántos años vivirá una persona con linfoma folicular.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronóstico del linfoma folicular: preguntas para la consulta en China
+- **Subtitle:** Interprete supervivencia, remisión y progresión del linfoma folicular sin convertir cifras de grupos en predicciones personales, para su consulta en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Los próximos meses pueden planificarse en torno a las fechas de revisión, los 
 ## SEO Metadata
 
 - **Primary keyword:** pronóstico del linfoma folicular
+
+- **Meta title:** Pronóstico del linfoma folicular: preguntas para la consulta en China
+- **Meta description:** Interprete supervivencia, remisión y progresión del linfoma folicular sin convertir cifras de grupos en predicciones personales, para su consulta en China.

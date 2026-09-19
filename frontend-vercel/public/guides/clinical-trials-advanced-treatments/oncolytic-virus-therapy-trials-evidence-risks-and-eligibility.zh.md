@@ -1,15 +1,17 @@
-# 溶瘤病毒治疗试验：证据、风险与入组条件
+# 中国溶瘤病毒临床试验：入组条件与风险
 
 ## Hero
 
-- **Title:** 溶瘤病毒治疗试验：证据、风险与入组条件
 - **Category:** 临床试验与先进治疗
 - **Subcategory:** 肿瘤免疫治疗
-- **Subtitle:** 评估准确的病毒、基因设计、给药途径、可注射病灶、联合方案和生物安全计划，而不是相信“病毒杀死癌症”的笼统承诺。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 溶瘤病毒、肿瘤细胞、受试者、安全审核与结果跟踪的示意图；不代表显微镜图像或某一种病毒产品。
+
+
+- **Title:** 中国溶瘤病毒临床试验：入组条件与风险
+- **Subtitle:** 按病毒平台、给药途径、可注射病灶、证据、感染与脱落风险、影像变化和中国试验状态评估溶瘤病毒研究。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -177,11 +179,13 @@
 ## SEO Metadata
 
 - **Slug:** `oncolytic-virus-therapy-trials-evidence-risks-and-eligibility`
-- **Meta title:** 溶瘤病毒试验：入组、脱落风险与证据
-- **Meta description:** 按病毒平台、给药途径、可注射病灶、证据、感染与脱落风险、影像变化和中国试验状态评估溶瘤病毒研究。
 - **Primary keyword:** 溶瘤病毒临床试验
 - **Secondary keywords:** 中国溶瘤病毒；瘤内病毒治疗；病毒脱落；溶瘤病毒入组条件；溶瘤免疫治疗
 - **Search intent:** 溶瘤病毒试验筛查 / 证据和安全审核
+
+
+- **Meta title:** 中国溶瘤病毒临床试验：入组条件与风险
+- **Meta description:** 按病毒平台、给药途径、可注射病灶、证据、感染与脱落风险、影像变化和中国试验状态评估溶瘤病毒研究。
 
 ## Sources
 

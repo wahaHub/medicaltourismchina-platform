@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Medical records for thalassemia care in China: build a usable history of diagnosis, transfusions, iron, and treatment
 - **Category:** Patient Journey Guides
 - **Subcategory:** Thalassemia
-- **Subtitle:** The most informative thalassemia record is often a sequence rather than the latest test.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medical records for thalassemia care in China: build a usable history of diagnosis, transfusions, iron, and treatment
+- **Subtitle:** Prepare thalassemia records for China with diagnosis, transfusions, iron monitoring, organ assessments and a traceable treatment history.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -156,3 +158,6 @@ If a new fever, hospitalization, transfusion, or medication change occurs after 
 ## SEO Metadata
 
 - **Primary keyword:** thalassemia medical records for China; transfusion history; thalassemia genetic report translation; iron monitoring documents
+
+- **Meta title:** Medical records for thalassemia care in China: build a usable history of diagnosis, transfusions, iron, and treatment
+- **Meta description:** Prepare thalassemia records for China with diagnosis, transfusions, iron monitoring, organ assessments and a traceable treatment history.

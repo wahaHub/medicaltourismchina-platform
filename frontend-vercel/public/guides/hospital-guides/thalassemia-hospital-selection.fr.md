@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choisir un hôpital pour la thalassémie en Chine : adapter le service au problème à résoudre
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Thalassémie
-- **Subtitle:** Une présélection utile d’hôpitaux commence par la raison de la demande de soins.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choisir un hôpital pour la thalassémie en Chine : adapter le service au problème à résoudre
+- **Subtitle:** Pour la thalassémie en Chine, vérifiez le parcours transfusionnel, la surveillance du fer et l’expertise adaptée à l’âge avant de choisir un service.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Avant de choisir, préparez une brève fiche comparative indiquant la tâche cli
 ## SEO Metadata
 
 - **Primary keyword:** choix d’un hôpital pour la thalassémie en Chine ; centre spécialisé en thalassémie ; services de transfusion ; équipe de greffe pour la thalassémie
+
+- **Meta title:** Choisir un hôpital pour la thalassémie en Chine : adapter le service au problème à résoudre
+- **Meta description:** Pour la thalassémie en Chine, vérifiez le parcours transfusionnel, la surveillance du fer et l’expertise adaptée à l’âge avant de choisir un service.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Rekam Medis untuk Konsultasi MS di Tiongkok: Menunjukkan Bagaimana Penyakit Berubah
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Sklerosis Multipel
-- **Subtitle:** Rekam medis MS yang paling berguna menjelaskan apa yang terjadi, kapan terjadinya, dan pengobatan apa yang digunakan saat itu.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rekam Medis untuk Konsultasi MS di Tiongkok: Menunjukkan Bagaimana Penyakit Berubah
+- **Subtitle:** Susun rekam medis sklerosis multipel untuk konsultasi di Tiongkok dengan linimasa gejala, pemulihan, obat, serta berkas MRI lengkap.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Sebelum meninggalkan Tiongkok, perbarui rekam medis dengan penilaian baru, alasa
 ## SEO Metadata
 
 - **Primary keyword:** rekam medis sklerosis multipel untuk pengobatan di Tiongkok
+
+- **Meta title:** Rekam Medis untuk Konsultasi MS di Tiongkok: Menunjukkan Bagaimana Penyakit Berubah
+- **Meta description:** Susun rekam medis sklerosis multipel untuk konsultasi di Tiongkok dengan linimasa gejala, pemulihan, obat, serta berkas MRI lengkap.

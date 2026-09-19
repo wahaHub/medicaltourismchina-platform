@@ -1,12 +1,14 @@
-# Brauche ich nach der Chemotherapie beim Hodgkin-Lymphom eine Bestrahlung? Vom PET-Befund zum Behandlungsplan
+# Strahlentherapie beim Hodgkin-Lymphom in China: Wann ist sie nötig?
 
 ## Hero
 
-- **Title:** Brauche ich nach der Chemotherapie beim Hodgkin-Lymphom eine Bestrahlung? Vom PET-Befund zum Behandlungsplan
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Hodgkin-Lymphom
-- **Subtitle:** Ein günstiges PET-Ergebnis nach Chemotherapie bedeutet nicht immer, dass Bestrahlung unnötig geworden ist.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Strahlentherapie beim Hodgkin-Lymphom in China: Wann ist sie nötig?
+- **Subtitle:** Strahlentherapie beim Hodgkin-Lymphom in China verstehen: Zweck, PET-Befund, Behandlungsgebiet, Planung und mögliche Belastung benachbarter Organe besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Die Entscheidung für oder gegen Bestrahlung sollte klar dokumentiert werden: di
 ## SEO Metadata
 
 - **Primary keyword:** Bestrahlung nach Chemotherapie beim Hodgkin-Lymphom
+
+- **Meta title:** Strahlentherapie beim Hodgkin-Lymphom in China: Wann ist sie nötig?
+- **Meta description:** Strahlentherapie beim Hodgkin-Lymphom in China verstehen: Zweck, PET-Befund, Behandlungsgebiet, Planung und mögliche Belastung benachbarter Organe besprechen.

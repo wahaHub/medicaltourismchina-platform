@@ -1,12 +1,14 @@
-# Pruebas ante sospecha de ELA: qué pueden establecer la exploración, la EMG, las imágenes y la genética
+# Revisión diagnóstica de ELA en China: exploración, electromiografía y pruebas
 
 ## Hero
 
-- **Title:** Pruebas ante sospecha de ELA: qué pueden establecer la exploración, la EMG, las imágenes y la genética
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Esclerosis lateral amiotrófica
-- **Subtitle:** La debilidad progresiva de la mano, los tropiezos repetidos o un cambio en el habla pueden motivar una evaluación de esclerosis lateral amiotrófica.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Revisión diagnóstica de ELA en China: exploración, electromiografía y pruebas
+- **Subtitle:** Comprenda qué aportan la exploración neurológica, la electromiografía, las imágenes y la genética ante sospecha de ELA para una revisión diagnóstica en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ Al finalizar la evaluación, el paciente debe comprender el diagnóstico princip
 ## SEO Metadata
 
 - **Primary keyword:** pruebas para diagnosticar la esclerosis lateral amiotrófica
+
+- **Meta title:** Revisión diagnóstica de ELA en China: exploración, electromiografía y pruebas
+- **Meta description:** Comprenda qué aportan la exploración neurológica, la electromiografía, las imágenes y la genética ante sospecha de ELA para una revisión diagnóstica en China.

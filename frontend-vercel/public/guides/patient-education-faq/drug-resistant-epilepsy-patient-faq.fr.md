@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Vingt questions posées par les patients sur l’épilepsie pharmacorésistante et son traitement en Chine
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Épilepsie pharmacorésistante
-- **Subtitle:** Les décisions concernant l’épilepsie pharmacorésistante peuvent impliquer plusieurs spécialités.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Vingt questions posées par les patients sur l’épilepsie pharmacorésistante et son traitement en Chine
+- **Subtitle:** Préparez des soins d’épilepsie pharmacorésistante en Chine avec 20 questions sur les médicaments essayés, les examens et l’évaluation spécialisée.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -153,3 +155,6 @@ En cas de convulsions prolongées, de crises répétées sans récupération, de
 ## SEO Metadata
 
 - **Primary keyword:** questions et réponses sur l’épilepsie pharmacorésistante ; traitement de l’épilepsie en Chine ; FAQ sur la chirurgie de l’épilepsie et les médicaments
+
+- **Meta title:** Vingt questions posées par les patients sur l’épilepsie pharmacorésistante et son traitement en Chine
+- **Meta description:** Préparez des soins d’épilepsie pharmacorésistante en Chine avec 20 questions sur les médicaments essayés, les examens et l’évaluation spécialisée.

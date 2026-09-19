@@ -1,15 +1,17 @@
-# 094 Notificación de eventos adversos en ensayos clínicos: guía para pacientes
+# Ensayos clínicos en China: notificación de eventos adversos
 
 ## Hero
 
-- **Title:** Notificación de eventos adversos en ensayos clínicos: guía para pacientes
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Seguridad del participante y notificación
-- **Subtitle:** Qué notificar, quién debe saberlo y cómo proteger la atención cuando ocurre un evento lejos del centro del ensayo.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** La imagen provisional actual muestra una conversación rutinaria en recepción y está pendiente de una ilustración específica sobre notificación de eventos adversos.
+
+
+- **Title:** Ensayos clínicos en China: notificación de eventos adversos
+- **Subtitle:** Conozca qué deben comunicar los participantes, la diferencia entre eventos intensos y graves, pasos de urgencia, funciones del centro y promotor y seguimiento transfronterizo.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -187,11 +189,13 @@ Sí, la participación es voluntaria. Pida al equipo que distinga suspender el t
 ## SEO Metadata
 
 - **Slug:** `adverse-event-reporting-in-clinical-trials-a-patient-guide`
-- **Meta title:** Notificación de eventos adversos en ensayos clínicos: guía del paciente
-- **Meta description:** Conozca qué deben comunicar los participantes, la diferencia entre eventos intensos y graves, pasos de urgencia, funciones del centro y promotor y seguimiento transfronterizo.
 - **Primary keyword:** notificación de eventos adversos en ensayos clínicos
 - **Secondary keywords:** evento adverso frente a evento adverso grave; notificación de SAE en China; guía de SUSAR para pacientes; contacto de emergencia de ensayo clínico; seguimiento de seguridad del ensayo
 - **Search intent:** seguridad del participante y notificación de eventos adversos
+
+
+- **Meta title:** Ensayos clínicos en China: notificación de eventos adversos
+- **Meta description:** Conozca qué deben comunicar los participantes, la diferencia entre eventos intensos y graves, pasos de urgencia, funciones del centro y promotor y seguimiento transfronterizo.
 
 ## Fuentes
 

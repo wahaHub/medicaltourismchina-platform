@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Registros médicos para atender la talasemia en China: Cree una historia útil de diagnóstico, transfusiones, hierro y tratamiento
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Talasemia
-- **Subtitle:** El registro más informativo de talasemia suele ser una secuencia, más que la última prueba.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Registros médicos para atender la talasemia en China: Cree una historia útil de diagnóstico, transfusiones, hierro y tratamiento
+- **Subtitle:** Prepare la documentación de talasemia para China con informes genéticos, historial de transfusiones, compatibilidad sanguínea, hierro y tratamientos previos.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -156,3 +158,6 @@ Si después del envío se produce nueva fiebre, hospitalización, transfusión o
 ## SEO Metadata
 
 - **Primary keyword:** registros médicos de talasemia para China; antecedentes transfusionales; traducción del informe genético de talasemia; documentos de vigilancia del hierro
+
+- **Meta title:** Registros médicos para atender la talasemia en China: Cree una historia útil de diagnóstico, transfusiones, hierro y tratamiento
+- **Meta description:** Prepare la documentación de talasemia para China con informes genéticos, historial de transfusiones, compatibilidad sanguínea, hierro y tratamientos previos.

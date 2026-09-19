@@ -1,12 +1,14 @@
-# Nebenwirkungen der Sichelzellbehandlung erkennen: dringliche Symptome und geplante Kontrollen
+# Behandlung der Sichelzellkrankheit in China: Nebenwirkungen und dringliche Warnzeichen
 
 ## Hero
 
-- **Title:** Nebenwirkungen der Sichelzellbehandlung erkennen: dringliche Symptome und geplante Kontrollen
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Sichelzellkrankheit
-- **Subtitle:** Übelkeit, Müdigkeit oder Schmerzen nach Behandlungsbeginn beweisen für sich allein keine Nebenwirkung.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Behandlung der Sichelzellkrankheit in China: Nebenwirkungen und dringliche Warnzeichen
+- **Subtitle:** Nebenwirkungen der Sichelzellbehandlung in China erkennen: Blutkontrollen, Chelatorrisiken, spätere Transfusionsreaktionen und dringliche Symptome besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Legen Sie bei jedem Behandlungsbeginn oder -wechsel fest, was zu erwarten ist, w
 ## SEO Metadata
 
 - **Primary keyword:** Nebenwirkungen der Sichelzellbehandlung
+
+- **Meta title:** Behandlung der Sichelzellkrankheit in China: Nebenwirkungen und dringliche Warnzeichen
+- **Meta description:** Nebenwirkungen der Sichelzellbehandlung in China erkennen: Blutkontrollen, Chelatorrisiken, spätere Transfusionsreaktionen und dringliche Symptome besprechen.

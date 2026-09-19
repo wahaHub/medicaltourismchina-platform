@@ -1,12 +1,14 @@
-# Por qué se utiliza a veces radioterapia en la talasemia: hematopoyesis extramedular y compresión de la médula espinal
+# Radioterapia de talasemia en China: complicaciones y evaluación
 
 ## Hero
 
-- **Title:** Por qué se utiliza a veces radioterapia en la talasemia: hematopoyesis extramedular y compresión de la médula espinal
 - **Category:** Guías de tratamiento
 - **Subcategory:** Talasemia
-- **Subtitle:** Una derivación a oncología radioterápica puede resultar confusa para alguien cuyo diagnóstico establecido es talasemia.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Radioterapia de talasemia en China: complicaciones y evaluación
+- **Subtitle:** Comprenda el uso de radioterapia ante hematopoyesis extramedular en talasemia, la evaluación de compresión medular y las preguntas para la atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Antes del alta, establezca qué síntomas requieren ayuda inmediata, dónde tend
 ## SEO Metadata
 
 - **Primary keyword:** radioterapia para la talasemia; hematopoyesis extramedular; compresión medular; evaluación del tratamiento en China
+
+- **Meta title:** Radioterapia de talasemia en China: complicaciones y evaluación
+- **Meta description:** Comprenda el uso de radioterapia ante hematopoyesis extramedular en talasemia, la evaluación de compresión medular y las preguntas para la atención en China.

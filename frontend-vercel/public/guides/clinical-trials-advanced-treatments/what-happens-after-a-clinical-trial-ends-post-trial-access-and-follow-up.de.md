@@ -1,15 +1,17 @@
-# 095 Was geschieht nach dem Ende einer klinischen Studie? Weiterer Zugang und Nachbeobachtung
+# Nach einer klinischen Studie in China: Zugang und Nachbeobachtung
 
 ## Hero
 
-- **Title:** Was geschieht nach dem Ende einer klinischen Studie? Weiterer Zugang und Nachbeobachtung
 - **Category:** Klinische Studien und fortgeschrittene Behandlungen
 - **Subcategory:** Studienaustritt und weitere Versorgung
-- **Subtitle:** Unterscheiden Sie den letzten Studienbesuch vom Behandlungsende, der Sicherheitsnachbeobachtung, dem Zugang zur Intervention und der Veröffentlichung der Ergebnisse.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Das derzeitige allgemeine Beratungsbild wartet auf den Ersatz durch eine Illustration zur Übergabe beim Studienaustritt und zur Planung des Zugangs nach Studienende.
+
+
+- **Title:** Nach einer klinischen Studie in China: Zugang und Nachbeobachtung
+- **Subtitle:** Verstehen Sie Studienenddaten, Zugangswege nach Studienende, Abschlussunterlagen, langfristige Sicherheitsnachbeobachtung, Kosten, Entblindung, Ergebnisse und grenzüberschreitende klinische Übergabe.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -203,11 +205,13 @@ Besorgen Sie Angaben zur tatsächlichen Exposition und zu Eingriffen, aktuellen 
 ## SEO Metadata
 
 - **Slug:** `what-happens-after-a-clinical-trial-ends-post-trial-access-and-follow-up`
-- **Meta title:** Nach dem Ende einer klinischen Studie: Zugang und Nachbeobachtung
-- **Meta description:** Verstehen Sie Studienenddaten, Zugangswege nach Studienende, Abschlussunterlagen, langfristige Sicherheitsnachbeobachtung, Kosten, Entblindung, Ergebnisse und grenzüberschreitende klinische Übergabe.
 - **Primary keyword:** Zugang und Nachbeobachtung nach Studienende
 - **Secondary keywords:** nach Ende einer klinischen Studie; offene Verlängerungsstudie; erweiterter Zugang in China; Abschlussbesuch einer klinischen Studie; langfristige Studiennachbeobachtung
 - **Search intent:** Studienabschluss, weiterer Zugang und Versorgungsübergang
+
+
+- **Meta title:** Nach einer klinischen Studie in China: Zugang und Nachbeobachtung
+- **Meta description:** Verstehen Sie Studienenddaten, Zugangswege nach Studienende, Abschlussunterlagen, langfristige Sicherheitsnachbeobachtung, Kosten, Entblindung, Ergebnisse und grenzüberschreitende klinische Übergabe.
 
 ## Quellen
 

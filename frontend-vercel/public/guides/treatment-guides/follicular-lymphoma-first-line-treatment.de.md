@@ -1,12 +1,14 @@
-# Erstlinienbehandlung des follikulären Lymphoms: Behandlungsanlass klären und ein praktikables Schema wählen
+# Erstlinientherapie beim follikulären Lymphom in China: Planung
 
 ## Hero
 
-- **Title:** Erstlinienbehandlung des follikulären Lymphoms: Behandlungsanlass klären und ein praktikables Schema wählen
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Follikuläres Lymphom
-- **Subtitle:** Die Erstlinienbehandlung ist der erste Behandlungsansatz, wenn ein follikuläres Lymphom behandelt werden muss.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Erstlinientherapie beim follikulären Lymphom in China: Planung
+- **Subtitle:** Erstlinientherapie beim follikulären Lymphom in China planen: Behandlungsbedarf, Bestrahlung, vollständiges Schema, Sicherheitsprüfungen und Erhaltung besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Einige Besprechungen zu Pathologie und Behandlungsschema können aus der Ferne s
 ## SEO Metadata
 
 - **Primary keyword:** Erstlinienbehandlung des follikulären Lymphoms
+
+- **Meta title:** Erstlinientherapie beim follikulären Lymphom in China: Planung
+- **Meta description:** Erstlinientherapie beim follikulären Lymphom in China planen: Behandlungsbedarf, Bestrahlung, vollständiges Schema, Sicherheitsprüfungen und Erhaltung besprechen.

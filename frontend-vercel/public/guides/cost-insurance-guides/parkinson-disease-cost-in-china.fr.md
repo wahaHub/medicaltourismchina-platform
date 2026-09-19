@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Coûts du traitement de Parkinson en Chine : médicaments, stimulation cérébrale profonde et dépenses après traitement
 - **Category:** Guides des coûts et de l’assurance
 - **Subcategory:** Maladie de Parkinson
-- **Subtitle:** Le coût des soins de Parkinson dépend du problème pris en charge.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Coûts du traitement de Parkinson en Chine : médicaments, stimulation cérébrale profonde et dépenses après traitement
+- **Subtitle:** Préparez le budget des soins de Parkinson en Chine : bilan, médicaments, implantation éventuelle, réglages de stimulation cérébrale profonde et suivi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Conservez le nom officiel de l’hôpital, la date du devis, sa validité, la de
 ## SEO Metadata
 
 - **Primary keyword:** coût du traitement de la maladie de Parkinson en Chine
+
+- **Meta title:** Coûts du traitement de Parkinson en Chine : médicaments, stimulation cérébrale profonde et dépenses après traitement
+- **Meta description:** Préparez le budget des soins de Parkinson en Chine : bilan, médicaments, implantation éventuelle, réglages de stimulation cérébrale profonde et suivi.

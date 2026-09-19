@@ -1,15 +1,17 @@
-# Möglicher Schlaganfall auf einer medizinischen Reise: BE-FAST anwenden, den letzten sicher unauffälligen Zeitpunkt notieren, 120 wählen
+# Schlaganfallverdacht in China: Anzeichen erkennen und 120 wählen
 
 ## Hero
 
-- **Title:** Möglicher Schlaganfall auf einer medizinischen Reise: BE-FAST anwenden, den letzten sicher unauffälligen Zeitpunkt notieren, 120 wählen
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Symptome & dringende Versorgung
-- **Subtitle:** Ein Ratgeber für Reisende und Begleitpersonen zum Erkennen plötzlich auftretender neurologischer Symptome, zum Festhalten des zeitlichen Verlaufs und zum direkten Zugang zur örtlichen Schlaganfallversorgung.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Reisender und Begleitperson neben einer Krankenhausszene mit Symbolen für Gehirn, Gesichtsasymmetrie und Schwäche eines Arms
+
+
+- **Title:** Schlaganfallverdacht in China: Anzeichen erkennen und 120 wählen
+- **Subtitle:** BE-FAST-Schlaganfallzeichen erkennen, letzten sicher unauffälligen Zeitpunkt notieren, 120 rufen, Aspirin vermeiden und den Reisenotfall knapp übergeben.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,13 +142,15 @@ Der Entdeckungszeitpunkt ist der Moment, in dem die Schwäche bemerkt wurde. Der
 ## SEO Metadata
 
 - **Slug:** `recognizing-possible-stroke-symptoms-during-medical-travel`
-- **Meta title:** Möglicher Schlaganfall auf Reisen: BE-FAST und 120 wählen
-- **Meta description:** BE-FAST-Schlaganfallzeichen erkennen, letzten sicher unauffälligen Zeitpunkt notieren, 120 rufen, Aspirin vermeiden und den Reisenotfall knapp übergeben.
 - **Primary keyword:** Schlaganfallsymptome auf medizinischen Reisen
 - **Pillar keyword:** Patientensicherheit auf medizinischen Reisen
 - **Vertical keyword:** BE-FAST Schlaganfallzeichen China 120
 - **Search intent:** Notfallratgeber für Patienten
 - **Secondary keywords:** letzter sicher unauffälliger Zeitpunkt; Schlaganfall am Flughafen; TIA auf Reisen; 120 in China anrufen; Aspirin bei Schlaganfallverdacht
+
+
+- **Meta title:** Schlaganfallverdacht in China: Anzeichen erkennen und 120 wählen
+- **Meta description:** BE-FAST-Schlaganfallzeichen erkennen, letzten sicher unauffälligen Zeitpunkt notieren, 120 rufen, Aspirin vermeiden und den Reisenotfall knapp übergeben.
 
 ## Quellen
 

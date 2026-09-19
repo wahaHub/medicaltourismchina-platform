@@ -1,12 +1,14 @@
-# Nouveaux médicaments et essais cliniques pour le lymphome de Hodgkin : distinguer les preuves établies de la recherche
+# Médicaments et essais du lymphome de Hodgkin : accès en Chine et preuves
 
 ## Hero
 
-- **Title:** Nouveaux médicaments et essais cliniques pour le lymphome de Hodgkin : distinguer les preuves établies de la recherche
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Lymphome de Hodgkin
-- **Subtitle:** Une recherche de nouveaux traitements du lymphome de Hodgkin peut afficher sur le même écran un médicament autorisé, une association soutenue par des recommandations, une étude cellulaire précoce et une expérience de laboratoire.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Médicaments et essais du lymphome de Hodgkin : accès en Chine et preuves
+- **Subtitle:** Distinguez traitements établis et recherches sur le lymphome de Hodgkin. Vérifiez les preuves, la population étudiée et les conditions d’accès en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ La valeur d'une nouvelle approche dépend conjointement des preuves, de l'éligi
 ## SEO Metadata
 
 - **Primary keyword:** nouveaux médicaments et essais cliniques pour le lymphome de Hodgkin
+
+- **Meta title:** Médicaments et essais du lymphome de Hodgkin : accès en Chine et preuves
+- **Meta description:** Distinguez traitements établis et recherches sur le lymphome de Hodgkin. Vérifiez les preuves, la population étudiée et les conditions d’accès en Chine.

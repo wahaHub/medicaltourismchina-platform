@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Faut-il se rendre en Chine pour un lymphome à cellules du manteau ? Objectif, stabilité et continuité du traitement
 - **Category:** Guides du parcours patient
 - **Subcategory:** Lymphome à cellules du manteau
-- **Subtitle:** Avant d’organiser des soins en Chine, un patient atteint de MCL doit établir ce que le voyage pourrait résoudre et s’il peut être effectué en sécurité.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Faut-il se rendre en Chine pour un lymphome à cellules du manteau ? Objectif, stabilité et continuité du traitement
+- **Subtitle:** Évaluez un voyage pour lymphome du manteau en Chine selon l’intérêt d’un avis, la stabilité médicale, l’immunosuppression et la continuité thérapeutique.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ L’adéquation des soins en Chine dépend finalement de la possibilité de rech
 ## SEO Metadata
 
 - **Primary keyword:** voyager en Chine pour un traitement du lymphome à cellules du manteau
+
+- **Meta title:** Faut-il se rendre en Chine pour un lymphome à cellules du manteau ? Objectif, stabilité et continuité du traitement
+- **Meta description:** Évaluez un voyage pour lymphome du manteau en Chine selon l’intérêt d’un avis, la stabilité médicale, l’immunosuppression et la continuité thérapeutique.

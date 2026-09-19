@@ -1,15 +1,17 @@
-# 015 Ce qu’un coordinateur de soins médicaux peut — et ne peut pas — faire
+# Coordinateurs de soins en Chine : rôles et limites
 
 ## Hero
 
-- **Title:** Ce qu’un coordinateur de soins médicaux peut — et ne peut pas — faire
 - **Category:** Guides du système de santé chinois
 - **Subcategory:** Coordination des patients et garanties
-- **Subtitle:** Un bon coordinateur élimine les obstacles logistiques et préserve la chaîne de communication clinique ; il ne devient ni médecin, ni interprète, ni assureur, ni décideur.
 - **Reviewed by:** Équipe éditoriale de Medora Health ; examen de la gouvernance clinique, du contrat et de la confidentialité requis avant publication
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Une coordinatrice explique quels services pratiques elle peut fournir et quelles décisions cliniques restent du ressort des professionnels habilités
+
+
+- **Title:** Coordinateurs de soins en Chine : rôles et limites
+- **Subtitle:** Définir le rôle du coordinateur, vérifier frais et conflits, protéger les dossiers et laisser diagnostic, consentement et traitement aux cliniciens habilités.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -215,13 +217,15 @@ Activer le circuit écrit de recours clinique, mettre le patient en relation ave
 ## SEO Metadata
 
 - **Slug:** `what-a-medical-care-coordinator-can-and-cannot-do`
-- **Meta title:** Ce qu’un coordinateur de soins médicaux peut et ne peut pas faire
-- **Meta description:** Définir le rôle du coordinateur, vérifier frais et conflits, protéger les dossiers et laisser diagnostic, consentement et traitement aux cliniciens habilités.
 - **Primary keyword:** coordinateur de soins médicaux en Chine
 - **Pillar keyword:** soins en Chine pour les patients internationaux
 - **Vertical keyword:** responsabilités du coordinateur de tourisme médical
 - **Search intent:** information / vérification préalable d’un service
 - **Secondary keywords:** coordinateur patient en Chine ; facilitateur de voyage médical ; rôle du coordinateur hospitalier
+
+
+- **Meta title:** Coordinateurs de soins en Chine : rôles et limites
+- **Meta description:** Définir le rôle du coordinateur, vérifier frais et conflits, protéger les dossiers et laisser diagnostic, consentement et traitement aux cliniciens habilités.
 
 ## Sources
 

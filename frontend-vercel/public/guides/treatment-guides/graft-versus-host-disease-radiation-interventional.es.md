@@ -1,12 +1,14 @@
-# Fotoféresis extracorpórea para la EICH: el procedimiento, las visitas repetidas y la evaluación de la respuesta
+# Fotoféresis para la EICH en China: visitas y evaluación de respuesta
 
 ## Hero
 
-- **Title:** Fotoféresis extracorpórea para la EICH: el procedimiento, las visitas repetidas y la evaluación de la respuesta
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de injerto contra huésped
-- **Subtitle:** El nombre fotoféresis extracorpórea puede sugerir radioterapia, un recambio sanguíneo o una eliminación única de la actividad inmunitaria perjudicial.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Fotoféresis para la EICH en China: visitas y evaluación de respuesta
+- **Subtitle:** Comprenda la fotoféresis para enfermedad injerto contra huésped en China: evaluación previa, acceso vascular, visitas repetidas y revisión de la respuesta.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -138,3 +140,6 @@ La continuación en casa requiere la aceptación previa del servicio receptor. U
 ## SEO Metadata
 
 - **Primary keyword:** fotoféresis extracorpórea para la EICH en China
+
+- **Meta title:** Fotoféresis para la EICH en China: visitas y evaluación de respuesta
+- **Meta description:** Comprenda la fotoféresis para enfermedad injerto contra huésped en China: evaluación previa, acceso vascular, visitas repetidas y revisión de la respuesta.

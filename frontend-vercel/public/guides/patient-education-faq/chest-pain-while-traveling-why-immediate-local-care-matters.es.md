@@ -1,15 +1,17 @@
-# Dolor torácico durante un viaje: interrumpa el viaje e inicie la atención local de emergencia
+# Dolor torácico durante un viaje en China: busque atención de urgencia
 
 ## Hero
 
-- **Title:** Dolor torácico durante un viaje: interrumpa el viaje e inicie la atención local de emergencia
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Síntomas y atención urgente
-- **Subtitle:** Por qué un vuelo reservado, un hospital preferido o un médico en el extranjero no deben retrasar la valoración de emergencia, y qué deben hacer el viajero o su acompañante en los primeros minutos.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Sustitución prevista que muestra a un viajero con dolor torácico mientras su acompañante llama a emergencias y se inicia la respuesta de una ambulancia
+
+
+- **Title:** Dolor torácico durante un viaje en China: busque atención de urgencia
+- **Subtitle:** Interrumpa el viaje, llame a emergencias locales, evite conducir y comprenda por qué el dolor torácico necesita valoración local antes de volar o ir a un hospital lejano.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -156,13 +158,15 @@ No basándose solo en ese dato. Pregunte al equipo responsable si la evaluación
 ## SEO Metadata
 
 - **Slug:** `chest-pain-while-traveling-why-immediate-local-care-matters`
-- **Meta title:** Dolor torácico durante un viaje: llame a emergencias locales
-- **Meta description:** Interrumpa el viaje, llame a emergencias locales, evite conducir y comprenda por qué el dolor torácico necesita valoración local antes de volar o ir a un hospital lejano.
 - **Primary keyword:** dolor torácico durante un viaje
 - **Pillar keyword:** seguridad del paciente durante un viaje médico
 - **Vertical keyword:** emergencia por dolor torácico en el aeropuerto
 - **Search intent:** orientación de emergencia para pacientes
 - **Secondary keywords:** dolor torácico en el avión; llamar al 120 en China; embolia pulmonar después de un vuelo; infarto en el extranjero; dolor torácico no conducir
+
+
+- **Meta title:** Dolor torácico durante un viaje en China: busque atención de urgencia
+- **Meta description:** Interrumpa el viaje, llame a emergencias locales, evite conducir y comprenda por qué el dolor torácico necesita valoración local antes de volar o ir a un hospital lejano.
 
 ## Fuentes
 

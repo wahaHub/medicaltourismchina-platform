@@ -1,15 +1,17 @@
-# 110 Choisir un hôpital à Hainan : cinq critères insulaires pour le traitement et la convalescence
+# Choisir un hôpital en Chine : Hainan et accès à Lecheng
 
 ## Hero
 
-- **Title:** Choisir un hôpital à Hainan : cinq critères insulaires pour le traitement et la convalescence
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Planification des soins à Hainan
-- **Subtitle:** Distinguez la ville, le site hospitalier, le cadre réglementaire, l’accès à l’île et la convalescence avant de vous fier à une offre de tourisme médical à Hainan.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Illustration conceptuelle d’un patient international âgé discutant de rééducation dans un cadre côtier évoquant Hainan ; elle ne représente ni un établissement réel, ni un résultat clinique, ni une recommandation.
+
+
+- **Title:** Choisir un hôpital en Chine : Hainan et accès à Lecheng
+- **Subtitle:** Choisissez vos soins à Hainan en distinguant ville et site, autorisation ordinaire, accès spécial et recherche à Lecheng, transports insulaires, recours aux urgences, coûts et convalescence mesurable.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -161,13 +163,15 @@ Uniquement si le médecin traitant donne son accord et si l’établissement se 
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-hainan-specialties-access-and-recovery`
-- **Meta title:** Choisir un hôpital à Hainan : accès à Lecheng et convalescence sûre
-- **Meta description:** Choisissez vos soins à Hainan en distinguant ville et site, autorisation ordinaire, accès spécial et recherche à Lecheng, transports insulaires, recours aux urgences, coûts et convalescence mesurable.
 - **Primary keyword:** choisir un hôpital à Hainan
 - **Pillar keyword:** hôpitaux de Hainan pour patients internationaux
 - **Vertical keyword:** voyage médical médicaments spéciaux Boao Lecheng
 - **Search intent:** comparaison d’hôpitaux / planification d’un voyage médical à Hainan
 - **Secondary keywords:** hôpital de Boao Lecheng ; médicament importé spécial à Hainan ; tourisme médical à Hainan ; voyage hospitalier à Haikou ; convalescence hospitalière à Sanya ; Hainan 120
+
+
+- **Meta title:** Choisir un hôpital en Chine : Hainan et accès à Lecheng
+- **Meta description:** Choisissez vos soins à Hainan en distinguant ville et site, autorisation ordinaire, accès spécial et recherche à Lecheng, transports insulaires, recours aux urgences, coûts et convalescence mesurable.
 
 ## Sources
 

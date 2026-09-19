@@ -1,15 +1,17 @@
-# When Two Pathology Reports Differ: Reconcile the Specimen, Methods and Diagnosis Before Treatment
+# Pathology Review in China: Resolving Different Reports
 
 ## Hero
 
-- **Title:** When Two Pathology Reports Differ: Reconcile the Specimen, Methods and Diagnosis Before Treatment
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Tests & Diagnosis
-- **Subtitle:** A cross-border guide to slides, paraffin blocks, sampling, immunohistochemistry, molecular tests and closing a clinically important discrepancy.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Patients discussing a pathology review workflow with microscope, tissue slide, specialist team and final report symbols
+
+
+- **Title:** Pathology Review in China: Resolving Different Reports
+- **Subtitle:** Understand sampling, tissue processing, stains, molecular tests and tumor heterogeneity, and safely transfer slides/blocks for pathology review.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -190,13 +192,15 @@ Yes. Different tumor areas or time points may contain different biomarkers, and 
 ## SEO Metadata
 
 - **Slug:** `biopsy-and-pathology-review-why-results-may-differ`
-- **Meta title:** Different Pathology Reports: How to Reconcile the Diagnosis
-- **Meta description:** Understand sampling, tissue processing, stains, molecular tests and tumor heterogeneity, and safely transfer slides/blocks for pathology review.
 - **Primary keyword:** pathology review different diagnosis
 - **Pillar keyword:** cancer diagnosis in China
 - **Vertical keyword:** biopsy slide and block second opinion
 - **Search intent:** pathology discrepancy guidance
 - **Secondary keywords:** pathology second opinion China; transfer paraffin block; biopsy versus resection; biomarker discordance; conserve tumor tissue
+
+
+- **Meta title:** Pathology Review in China: Resolving Different Reports
+- **Meta description:** Understand sampling, tissue processing, stains, molecular tests and tumor heterogeneity, and safely transfer slides/blocks for pathology review.
 
 ## Sources
 

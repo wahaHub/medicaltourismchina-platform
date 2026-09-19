@@ -1,15 +1,17 @@
-# 144 Warnzeichen während der Genesung: die Veränderung beurteilen, nicht nur den Zahlenwert
+# Warnzeichen bei der Genesung | Wann in China 120 anrufen
 
 ## Hero
 
-- **Title:** Warnzeichen während der Genesung: die Veränderung beurteilen, nicht nur den Zahlenwert
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Komplikationen erkennen und dringend weiterleiten
-- **Subtitle:** Temperatur, Schmerzscore oder Sauerstoffwert sind nur im Zusammenhang mit dem Ausgangszustand des Patienten, dem erwarteten Genesungsverlauf und begleitenden Veränderungen aussagekräftig.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Eine medizinische Fachkraft bespricht Mobilität, Symptome und Herzstatus mit einem genesenden Patienten neben einer Gehhilfe.
+
+
+- **Title:** Warnzeichen bei der Genesung | Wann in China 120 anrufen
+- **Subtitle:** Temperatur, Schmerzscore oder Sauerstoffwert sind nur im Zusammenhang mit dem Ausgangszustand des Patienten, dem erwarteten Genesungsverlauf und begleitenden Veränderungen aussagekräftig.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -194,13 +196,15 @@ Nennen Sie Eingriff und Datum, genaues Symptom und Beginn, ob es sich verschlech
 ## SEO Metadata
 
 - **Slug:** `warning-signs-during-recovery-when-to-seek-urgent-care`
-- **Meta title:** Warnzeichen bei der Genesung | Wann in China 120 anrufen
-- **Meta description:** Notfälle, dringende Veränderungen am selben Tag und zu Hause beobachtbare Genesungsveränderungen anhand von Symptomverlauf, Funktion und eingriffsspezifischen Schwellenwerten erkennen.
 - **Primary keyword:** Warnzeichen bei der Genesung nach einer Operation
 - **Pillar keyword:** medizinische Reisen nach China
 - **Vertical keyword:** dringende Versorgung während der Genesung nach Behandlung
 - **Search intent:** Komplikationen erkennen / Notfallmaßnahmen
 - **Secondary keywords:** wann 120 in China anrufen; postoperative Warnzeichen; Zeichen einer Wundinfektion; Atmung bei Opioidüberdosierung; Eskalation bei Genesungssymptomen
+
+
+- **Meta title:** Warnzeichen bei der Genesung | Wann in China 120 anrufen
+- **Meta description:** Notfälle, dringende Veränderungen am selben Tag und zu Hause beobachtbare Genesungsveränderungen anhand von Symptomverlauf, Funktion und eingriffsspezifischen Schwellenwerten erkennen.
 
 ## Quellen
 

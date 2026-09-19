@@ -1,15 +1,17 @@
-# 019 Cómo compartir archivos de TC, RM y otras imágenes con un hospital chino
+# Compartir archivos de TC y RM con un hospital en China
 
 ## Hero
 
-- **Title:** Cómo compartir archivos de TC, RM y otras imágenes con un hospital chino
 - **Category:** Guías de atención sanitaria en China
 - **Subcategory:** Diagnóstico por imagen y registros médicos
-- **Subtitle:** Envíe el estudio diagnóstico completo, el informe y la pregunta clínica, no un puñado de capturas de pantalla que no permiten recorrer las imágenes, medir ni comparar.
 - **Reviewed by:** Equipo editorial de Medora Health; se requiere revisión radiológica y de seguridad de la información antes de la publicación
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un radiólogo chino comenta imágenes de cortes anatómicos con un paciente internacional
+
+
+- **Title:** Compartir archivos de TC y RM con un hospital en China
+- **Subtitle:** Exporte estudios DICOM completos, verifique las series, proteja los datos del paciente y confirme la importación satisfactoria y la revisión radiológica en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -244,13 +246,15 @@ Pregunte por el radiólogo o equipo revisor, la forma del resultado y la fecha p
 ## SEO Metadata
 
 - **Slug:** `how-to-share-ct-mri-and-other-imaging-files-with-a-chinese-hospital`
-- **Meta title:** Compartir archivos de TC y RM con un hospital chino
-- **Meta description:** Exporte estudios DICOM completos, verifique las series, proteja los datos del paciente y confirme la importación satisfactoria y la revisión radiológica en China.
 - **Primary keyword:** enviar DICOM a un hospital chino
 - **Pillar keyword:** atención sanitaria en China para pacientes internacionales
 - **Vertical keyword:** compartir archivos TC RM China
 - **Search intent:** informativa / preparación técnica
 - **Secondary keywords:** cargar DICOM hospital China; segunda opinión TC China; transferencia de archivos RM China
+
+
+- **Meta title:** Compartir archivos de TC y RM con un hospital en China
+- **Meta description:** Exporte estudios DICOM completos, verifique las series, proteja los datos del paciente y confirme la importación satisfactoria y la revisión radiológica en China.
 
 ## Fuentes
 

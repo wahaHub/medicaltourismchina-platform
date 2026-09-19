@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Was kostet die Behandlung eines T-Zell-Lymphoms in China? Eine vergleichbare und aktualisierbare Schätzung erstellen
 - **Category:** Kosten- & Versicherungsratgeber
 - **Subcategory:** T-Zell-Lymphom
-- **Subtitle:** Zwei Dokumente mit der Bezeichnung T-Zell-Lymphom-Behandlung können sehr unterschiedliche Leistungen beschreiben.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Was kostet die Behandlung eines T-Zell-Lymphoms in China? Eine vergleichbare und aktualisierbare Schätzung erstellen
+- **Subtitle:** Kosten der T-Zell-Lymphom-Behandlung in China vergleichen: Diagnostik, Verordnung, unterstützende Versorgung, Transplantation und Zeit fern von zu Hause erfassen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Verändern Sie keine Tabletteneinnahme, verlängern Sie keine Intervalle und kau
 ## SEO Metadata
 
 - **Primary keyword:** Kosten der T-Zell-Lymphom-Behandlung in China
+
+- **Meta title:** Was kostet die Behandlung eines T-Zell-Lymphoms in China? Eine vergleichbare und aktualisierbare Schätzung erstellen
+- **Meta description:** Kosten der T-Zell-Lymphom-Behandlung in China vergleichen: Diagnostik, Verordnung, unterstützende Versorgung, Transplantation und Zeit fern von zu Hause erfassen.

@@ -1,15 +1,17 @@
-# 105 Memilih Rumah Sakit di Tianjin: Kesesuaian Spesialisasi, Geografi Kampus, dan Pertanyaan tentang Beijing
+# Memilih Rumah Sakit di Tiongkok: Tianjin dan Rujukan ke Beijing
 
 ## Hero
 
-- **Title:** Memilih Rumah Sakit di Tianjin: Kesesuaian Spesialisasi, Geografi Kampus, dan Pertanyaan tentang Beijing
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Perencanaan Perawatan di Tianjin
-- **Subtitle:** Susun perjalanan berdasarkan satu penanggung jawab klinis utama, satu tempat pemulihan, dan satu jalur eskalasi tertulis—bukan berdasarkan nama terkenal atau kereta cepat.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustrasi konseptual pelancong yang merencanakan perawatan rumah sakit di Tianjin; cakrawala bergaya Tianjin, rumah sakit, peta, dan ikon pemindai tidak menunjukkan kampus, rute, atau dukungan nyata.
+
+
+- **Title:** Memilih Rumah Sakit di Tiongkok: Tianjin dan Rujukan ke Beijing
+- **Subtitle:** Pilih rumah sakit Tianjin dengan memverifikasi tim spesialis, kampus yang tepat, tempat pemulihan, batas rujukan Beijing, akses paspor, transportasi, dukungan darurat, dan tanggung jawab pemulangan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -246,13 +248,15 @@ Hanya jika tim perawat memastikan kelayakan bepergian dan memberikan rencana kom
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-tianjin-specialties-access-and-travel`
-- **Meta title:** Memilih Rumah Sakit di Tianjin: Kampus, Perjalanan, dan Rujukan Beijing
-- **Meta description:** Pilih rumah sakit Tianjin dengan memverifikasi tim spesialis, kampus yang tepat, tempat pemulihan, batas rujukan Beijing, akses paspor, transportasi, dukungan darurat, dan tanggung jawab pemulangan.
 - **Primary keyword:** memilih rumah sakit di Tianjin
 - **Pillar keyword:** rumah sakit Tianjin untuk pasien internasional
 - **Vertical keyword:** spesialisasi kampus perjalanan rumah sakit Tianjin
 - **Search intent:** perbandingan rumah sakit / perencanaan perjalanan medis Tianjin
 - **Secondary keywords:** kampus rumah sakit Tianjin; pengobatan Tianjin atau Beijing; paspor rumah sakit Tianjin; rumah sakit Tianjin South; darurat Tianjin 120
+
+
+- **Meta title:** Memilih Rumah Sakit di Tiongkok: Tianjin dan Rujukan ke Beijing
+- **Meta description:** Pilih rumah sakit Tianjin dengan memverifikasi tim spesialis, kampus yang tepat, tempat pemulihan, batas rujukan Beijing, akses paspor, transportasi, dukungan darurat, dan tanggung jawab pemulangan.
 
 ## Sumber
 

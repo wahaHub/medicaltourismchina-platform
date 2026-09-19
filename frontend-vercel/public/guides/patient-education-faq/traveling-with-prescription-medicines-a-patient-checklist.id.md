@@ -1,15 +1,17 @@
-# Bepergian Membawa Obat Resep: Susun Rencana Pengobatan yang Legal, Aman dari Segi Suhu, dan Dapat Digunakan secara Klinis
+# Membawa Obat Resep ke Tiongkok: Bea Cukai dan Rantai Dingin
 
 ## Hero
 
-- **Title:** Bepergian Membawa Obat Resep: Susun Rencana Pengobatan yang Legal, Aman dari Segi Suhu, dan Dapat Digunakan secara Klinis
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Obat-obatan
-- **Subtitle:** Daftar periksa untuk aturan masuk dan transit, obat yang dikendalikan, kemasan asli, nama generik, persediaan di bagasi kabin, penyimpanan rantai dingin, pemberian dosis lintas zona waktu, dan rekonsiliasi obat di rumah sakit.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Dua pelancong medis menata wadah obat resep berlabel, surat keterangan obat, kalender dosis, tas kabin, dan dokumen perjalanan
+
+
+- **Title:** Membawa Obat Resep ke Tiongkok: Bea Cukai dan Rantai Dingin
+- **Subtitle:** Daftar periksa praktis untuk membawa obat resep dan obat yang dikendalikan secara internasional, termasuk kemasan asli, surat, bea cukai Tiongkok, pendinginan, dan waktu pemberian dosis.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -182,11 +184,13 @@ Jangan mengandalkan nama merek. Verifikasi bahan aktif, kekuatan, formulasi, dan
 
 ## SEO Metadata
 
-- **SEO title:** Bepergian Membawa Obat Resep: Bea Cukai, Rantai Dingin, dan Zona Waktu
-- **Meta description:** Daftar periksa praktis untuk membawa obat resep dan obat yang dikendalikan secara internasional, termasuk kemasan asli, surat, bea cukai Tiongkok, pendinginan, dan waktu pemberian dosis.
 - **Primary keyword:** bepergian membawa obat resep
 - **Secondary keywords:** bea cukai obat Tiongkok, perjalanan dengan obat yang dikendalikan, penerbangan obat berpendingin, zona waktu obat, surat dokter untuk obat, obat resep di kabin
 - **Suggested URL slug:** `/travel-prescription-medicines-customs-cold-chain-time-zones`
+
+
+- **Meta title:** Membawa Obat Resep ke Tiongkok: Bea Cukai dan Rantai Dingin
+- **Meta description:** Daftar periksa praktis untuk membawa obat resep dan obat yang dikendalikan secara internasional, termasuk kemasan asli, surat, bea cukai Tiongkok, pendinginan, dan waktu pemberian dosis.
 
 ## Sumber
 

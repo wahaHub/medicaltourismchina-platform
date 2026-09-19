@@ -1,12 +1,14 @@
-# Prognose bei medikamentenresistenter Epilepsie: Anfallsfreiheit, bedeutsame Verbesserung und langfristige Verlaufskontrolle
+# Prognose bei pharmakoresistenter Epilepsie: Fragen zur Versorgung in China
 
 ## Hero
 
-- **Title:** Prognose bei medikamentenresistenter Epilepsie: Anfallsfreiheit, bedeutsame Verbesserung und langfristige Verlaufskontrolle
 - **Category:** Patientenaufklärung & FAQ
 - **Subcategory:** Medikamentenresistente Epilepsie
-- **Subtitle:** Prognose bei medikamentenresistenter Epilepsie: Anfallsfreiheit, bedeutsame Verbesserung und langfristige Verlaufskontrolle
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prognose bei pharmakoresistenter Epilepsie: Fragen zur Versorgung in China
+- **Subtitle:** Ergebnisse bei pharmakoresistenter Epilepsie für eine Beratung in China prüfen: Anfallsfreiheit, Anfallsreduktion, Funktionsrisiken und Lebensqualität unterscheiden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ Wurde ein Ziel nicht erreicht, können die nächsten Schritte eine Ursachenklär
 ## SEO Metadata
 
 - **Primary keyword:** Prognose bei medikamentenresistenter Epilepsie; Ergebnisse der Epilepsiebehandlung; anhaltende Anfallsfreiheit; Beurteilung von Epilepsieergebnissen in China
+
+- **Meta title:** Prognose bei pharmakoresistenter Epilepsie: Fragen zur Versorgung in China
+- **Meta description:** Ergebnisse bei pharmakoresistenter Epilepsie für eine Beratung in China prüfen: Anfallsfreiheit, Anfallsreduktion, Funktionsrisiken und Lebensqualität unterscheiden.

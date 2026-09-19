@@ -1,12 +1,14 @@
-# Nuevos medicamentos y ensayos clínicos para la esclerosis múltiple: interpretar los avances de 2026
+# Nuevos medicamentos y ensayos para la esclerosis múltiple: comprobar el acceso en China
 
 ## Hero
 
-- **Title:** Nuevos medicamentos y ensayos clínicos para la esclerosis múltiple: interpretar los avances de 2026
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Esclerosis múltiple
-- **Subtitle:** Las noticias sobre un mecanismo nuevo, resultados positivos de fase 3 o terapia celular suelen plantear preguntas prácticas: ¿las pruebas se refieren a mi forma de EM, puedo recibir el tratamiento y qué exigiría?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Nuevos medicamentos y ensayos para la esclerosis múltiple: comprobar el acceso en China
+- **Subtitle:** Compare resultados y riesgos de nuevos tratamientos para la esclerosis múltiple y prepare la revisión de elegibilidad para un ensayo clínico en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Una decisión razonable sobre investigación permite comprender la incertidumbre
 ## SEO Metadata
 
 - **Primary keyword:** nuevos fármacos y ensayos clínicos para la esclerosis múltiple
+
+- **Meta title:** Nuevos medicamentos y ensayos para la esclerosis múltiple: comprobar el acceso en China
+- **Meta description:** Compare resultados y riesgos de nuevos tratamientos para la esclerosis múltiple y prepare la revisión de elegibilidad para un ensayo clínico en China.

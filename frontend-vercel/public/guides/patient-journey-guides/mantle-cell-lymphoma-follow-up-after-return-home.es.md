@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Regresar a casa tras el tratamiento del linfoma de células del manto en China: cómo hacer que funcione el seguimiento
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Linfoma de células del manto
-- **Subtitle:** Salir de un hospital chino no corresponde a una única fase de la atención del linfoma de células del manto.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Regresar a casa tras el tratamiento del linfoma de células del manto en China: cómo hacer que funcione el seguimiento
+- **Subtitle:** Prepare el seguimiento del linfoma de células del manto al volver de China con citas concretas, revisión de cambios y continuidad de medicación y mantenimiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Si se necesita más tratamiento, volverán a importar el régimen previo, la dur
 ## SEO Metadata
 
 - **Primary keyword:** seguimiento del linfoma de células del manto después del tratamiento en China
+
+- **Meta title:** Regresar a casa tras el tratamiento del linfoma de células del manto en China: cómo hacer que funcione el seguimiento
+- **Meta description:** Prepare el seguimiento del linfoma de células del manto al volver de China con citas concretas, revisión de cambios y continuidad de medicación y mantenimiento.

@@ -1,12 +1,14 @@
-# Mendiagnosis anemia aplastik: pemeriksaan esensial dan investigasi terarah
+# Diagnosis Anemia Aplastik di Tiongkok: Pemeriksaan dan Persiapan
 
 ## Hero
 
-- **Title:** Mendiagnosis anemia aplastik: pemeriksaan esensial dan investigasi terarah
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Anemia Aplastik
-- **Subtitle:** Temuan sel darah merah, sel darah putih, dan trombosit rendah tidak dengan sendirinya mengonfirmasi anemia aplastik.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnosis Anemia Aplastik di Tiongkok: Pemeriksaan dan Persiapan
+- **Subtitle:** Pahami peran hitung darah, biopsi sumsum, dan pemeriksaan terarah dalam diagnosis anemia aplastik. Siapkan bukti untuk konsultasi di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -101,3 +103,6 @@ Mintalah penawaran dalam renminbi untuk konsultasi, tinjauan preparat, pewarnaan
 ## SEO Metadata
 
 - **Primary keyword:** pemeriksaan diagnosis anemia aplastik
+
+- **Meta title:** Diagnosis Anemia Aplastik di Tiongkok: Pemeriksaan dan Persiapan
+- **Meta description:** Pahami peran hitung darah, biopsi sumsum, dan pemeriksaan terarah dalam diagnosis anemia aplastik. Siapkan bukti untuk konsultasi di Tiongkok.

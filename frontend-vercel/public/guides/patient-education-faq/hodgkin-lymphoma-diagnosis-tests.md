@@ -1,12 +1,14 @@
-# Tests for suspected Hodgkin lymphoma: biopsy, staging, and treatment preparation
+# Hodgkin Lymphoma Diagnosis in China: Biopsy and Staging
 
 ## Hero
 
-- **Title:** Tests for suspected Hodgkin lymphoma: biopsy, staging, and treatment preparation
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Hodgkin Lymphoma
-- **Subtitle:** An enlarged neck node, night sweats, or unexplained fever can lead to an assessment for Hodgkin lymphoma, but symptoms alone cannot establish the diagnosis.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Hodgkin Lymphoma Diagnosis in China: Biopsy and Staging
+- **Subtitle:** Prepare for Hodgkin lymphoma diagnosis and staging in China, including biopsy records, imaging and tests relevant to the planned treatment.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Before leaving the consultation, know who will assemble the final diagnostic con
 ## SEO Metadata
 
 - **Primary keyword:** tests for Hodgkin lymphoma
+
+- **Meta title:** Hodgkin Lymphoma Diagnosis in China: Biopsy and Staging
+- **Meta description:** Prepare for Hodgkin lymphoma diagnosis and staging in China, including biopsy records, imaging and tests relevant to the planned treatment.

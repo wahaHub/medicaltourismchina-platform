@@ -1,15 +1,17 @@
-# 怎样选择广州医院：专科、院区、湾区交通与返程
+# 中国医院选择：广州院区与就医交通
 
 ## Hero
 
-- **Title:** 怎样选择广州医院：专科、院区、湾区交通与返程
 - **Category:** 医院指南
 - **Subcategory:** 广州就医规划
-- **Subtitle:** 先让病例匹配到已经核实的团队，再检验院区、建档身份、粤港澳大湾区路线和康复安排能否真正衔接。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 国际患者用地图和日历比较广州医院的概念插图；画面中的天际线和医院并非真实院区组合。
+
+
+- **Title:** 中国医院选择：广州院区与就医交通
+- **Subtitle:** 从团队、院区、护照建档、急救后备、白云机场或高铁、跨境风险及出院交接规划广州就医。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -249,13 +251,15 @@
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-guangzhou-specialties-access-and-travel`
-- **Meta title:** 怎样选择广州医院：院区与湾区交通
-- **Meta description:** 从团队、院区、护照建档、急救后备、白云机场或高铁、跨境风险及出院交接规划广州就医。
 - **Primary keyword:** 怎样选择广州医院
 - **Pillar keyword:** 广州国际患者医院
 - **Vertical keyword:** 广州医院专科院区湾区交通
 - **Search intent:** 医院比较 / 大湾区就医规划
 - **Secondary keywords:** 广州健康通外国人；广州医院院区；白云机场赴穗就医；广州 120 英文；广州国际医疗
+
+
+- **Meta title:** 中国医院选择：广州院区与就医交通
+- **Meta description:** 从团队、院区、护照建档、急救后备、白云机场或高铁、跨境风险及出院交接规划广州就医。
 
 ## Sources
 

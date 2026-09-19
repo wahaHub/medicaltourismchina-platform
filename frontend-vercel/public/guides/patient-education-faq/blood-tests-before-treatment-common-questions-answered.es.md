@@ -1,15 +1,17 @@
-# Análisis de sangre antes del tratamiento: por qué se repiten, cuándo ayunar y cómo cambian los resultados el plan
+# Análisis de sangre en China: ayuno, repeticiones y resultados
 
 ## Hero
 
-- **Title:** Análisis de sangre antes del tratamiento: por qué se repiten, cuándo ayunar y cómo cambian los resultados el plan
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Pruebas y diagnóstico
-- **Subtitle:** Una guía en lenguaje sencillo sobre los análisis previos al tratamiento, la preparación, los informes internacionales, las nuevas extracciones y las decisiones ante un resultado anormal.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Sustitución prevista que muestra una muestra de sangre etiquetada, un informe de laboratorio, una lista de medicamentos y una lista de comprobación de seguridad previa al tratamiento
+
+
+- **Title:** Análisis de sangre en China: ayuno, repeticiones y resultados
+- **Subtitle:** Comprenda el hemograma, las pruebas bioquímicas y de coagulación, el ayuno y los medicamentos, la reutilización de informes extranjeros, las nuevas extracciones y qué cambia un resultado anormal.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -173,13 +175,15 @@ Las células pueden haberse roto durante la extracción o manipulación, o un tu
 ## SEO Metadata
 
 - **Slug:** `blood-tests-before-treatment-common-questions-answered`
-- **Meta title:** Análisis de sangre antes del tratamiento: ayuno, repeticiones y resultados
-- **Meta description:** Comprenda el hemograma, las pruebas bioquímicas y de coagulación, el ayuno y los medicamentos, la reutilización de informes extranjeros, las nuevas extracciones y qué cambia un resultado anormal.
 - **Primary keyword:** análisis de sangre antes del tratamiento
 - **Pillar keyword:** pruebas antes del tratamiento médico en China
 - **Vertical keyword:** ayuno y repetición de análisis de sangre
 - **Search intent:** preparación para pruebas previas al tratamiento
 - **Secondary keywords:** hemograma antes del tratamiento; repetición de análisis de sangre en hospital chino; medicación y análisis de sangre en ayunas; resultado de laboratorio anormal; unidades de informes de laboratorio internacionales
+
+
+- **Meta title:** Análisis de sangre en China: ayuno, repeticiones y resultados
+- **Meta description:** Comprenda el hemograma, las pruebas bioquímicas y de coagulación, el ayuno y los medicamentos, la reutilización de informes extranjeros, las nuevas extracciones y qué cambia un resultado anormal.
 
 ## Fuentes
 

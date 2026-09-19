@@ -1,12 +1,14 @@
-# Rehabilitasi Setelah Stroke Iskemik: Dari Terapi Rumah Sakit hingga Kehidupan Sehari-hari
+# Rehabilitasi Stroke Iskemik di Tiongkok: Dari Rumah Sakit ke Rumah
 
 ## Hero
 
-- **Title:** Rehabilitasi Setelah Stroke Iskemik: Dari Terapi Rumah Sakit hingga Kehidupan Sehari-hari
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Rehabilitasi Pascastroke Iskemik
-- **Subtitle:** Setelah stroke iskemik, kerabat sering bertanya apakah lengan atau tungkai akan pulih.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rehabilitasi Stroke Iskemik di Tiongkok: Dari Rumah Sakit ke Rumah
+- **Subtitle:** Rencanakan rehabilitasi stroke iskemik di Tiongkok dari kesiapan medis hingga latihan fungsi. Hubungkan terapi rumah sakit dengan kegiatan di rumah.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Pemulihan mungkin berlangsung dengan kecepatan berbeda pada kemampuan berbeda. K
 ## SEO Metadata
 
 - **Primary keyword:** rehabilitasi setelah stroke iskemik
+
+- **Meta title:** Rehabilitasi Stroke Iskemik di Tiongkok: Dari Rumah Sakit ke Rumah
+- **Meta description:** Rencanakan rehabilitasi stroke iskemik di Tiongkok dari kesiapan medis hingga latihan fungsi. Hubungkan terapi rumah sakit dengan kegiatan di rumah.

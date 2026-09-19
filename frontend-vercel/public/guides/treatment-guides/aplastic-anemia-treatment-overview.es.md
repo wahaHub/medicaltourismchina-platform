@@ -1,12 +1,14 @@
-# Tratamiento de la anemia aplásica: desde la protección inmediata hasta una recuperación medular duradera
+# Tratamiento de la anemia aplásica en China: opciones y recuperación
 
 ## Hero
 
-- **Title:** Tratamiento de la anemia aplásica: desde la protección inmediata hasta una recuperación medular duradera
 - **Category:** Guías de tratamiento
 - **Subcategory:** Anemia aplásica
-- **Subtitle:** Después de un diagnóstico de anemia aplásica, la primera pregunta práctica es si el paciente necesita protección hospitalaria ahora.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento de la anemia aplásica en China: opciones y recuperación
+- **Subtitle:** Comprenda las decisiones de tratamiento de anemia aplásica en China, desde observación y apoyo inmediato hasta inmunosupresión, trasplante y recuperación medular.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Al alta, el paciente necesita la fecha de la siguiente prueba, el médico respon
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento de la anemia aplásica
+
+- **Meta title:** Tratamiento de la anemia aplásica en China: opciones y recuperación
+- **Meta description:** Comprenda las decisiones de tratamiento de anemia aplásica en China, desde observación y apoyo inmediato hasta inmunosupresión, trasplante y recuperación medular.

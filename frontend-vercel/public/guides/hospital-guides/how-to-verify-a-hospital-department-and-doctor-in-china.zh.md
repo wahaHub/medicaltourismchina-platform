@@ -1,15 +1,17 @@
-# 如何核实中国的医院、科室和医生
+# 如何核实中国医院、科室与医生资质
 
 ## Hero
 
-- **Title:** 如何核实中国的医院、科室和医生
 - **Category:** 医院指南
 - **Subcategory:** 医疗服务提供者核验
-- **Subtitle:** 分别核实三个身份，再确认准确院区和团队能够提供拟议的医疗服务。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 概念插图中，国际患者与医院协调员查看医院、医生和安全符号；画面中的手册不是官方资质证明。
+
+
+- **Title:** 如何核实中国医院、科室与医生资质
+- **Subtitle:** 核实中国医院许可和院区、科室范围、医师注册与任职、手术授权、病历审阅、付款和官方沟通渠道。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -200,11 +202,13 @@
 ## SEO Metadata
 
 - **Slug:** `how-to-verify-a-hospital-department-and-doctor-in-china`
-- **Meta title:** 怎样核实中国医院、科室和医生
-- **Meta description:** 核实中国医院许可和院区、科室范围、医师注册与任职、手术授权、病历审阅、付款和官方沟通渠道。
 - **Primary keyword:** 核实中国医院和医生
 - **Secondary keywords:** 中国医师执业注册查询；医疗机构执业许可证；医院院区核验；中国手术医师授权；国际患者医院核验
 - **Search intent:** 医疗服务者身份与能力核验
+
+
+- **Meta title:** 如何核实中国医院、科室与医生资质
+- **Meta description:** 核实中国医院许可和院区、科室范围、医师注册与任职、手术授权、病历审阅、付款和官方沟通渠道。
 
 ## Sources
 

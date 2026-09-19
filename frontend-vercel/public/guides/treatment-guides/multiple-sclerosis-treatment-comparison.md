@@ -1,12 +1,14 @@
-# Comparing MS treatment plans: medicines, transplantation, rehabilitation, and the outcomes that matter
+# MS Treatment Comparisons: Medicines, AHSCT and Care in China
 
 ## Hero
 
-- **Title:** Comparing MS treatment plans: medicines, transplantation, rehabilitation, and the outcomes that matter
 - **Category:** Treatment Guides
 - **Subcategory:** Multiple Sclerosis
-- **Subtitle:** Two different recommendations may be addressing different problems.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** MS Treatment Comparisons: Medicines, AHSCT and Care in China
+- **Subtitle:** Compare MS medicines, transplantation and rehabilitation by the outcome sought, evidence and risks, while verifying the actual care pathway in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Return to the personal goal: maintaining employment, reducing admissions, preser
 ## SEO Metadata
 
 - **Primary keyword:** multiple sclerosis treatment comparison
+
+- **Meta title:** MS Treatment Comparisons: Medicines, AHSCT and Care in China
+- **Meta description:** Compare MS medicines, transplantation and rehabilitation by the outcome sought, evidence and risks, while verifying the actual care pathway in China.

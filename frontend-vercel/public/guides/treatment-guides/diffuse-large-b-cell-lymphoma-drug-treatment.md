@@ -1,12 +1,14 @@
-# DLBCL medicines: drug classes, combinations and safe medication records
+# DLBCL Medicines in China: Regimens, Records and Access
 
 ## Hero
 
-- **Title:** DLBCL medicines: drug classes, combinations and safe medication records
 - **Category:** Treatment Guides
 - **Subcategory:** Diffuse Large B Cell Lymphoma
-- **Subtitle:** DLBCL treatment usually combines several classes of medicines.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL Medicines in China: Regimens, Records and Access
+- **Subtitle:** Understand DLBCL drug classes and combinations, and verify the complete prescription, monitoring and hospital supply before treatment in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Finally, assign one clinician and pharmacy team to reconcile the list and decide
 ## SEO Metadata
 
 - **Primary keyword:** medicines for DLBCL
+
+- **Meta title:** DLBCL Medicines in China: Regimens, Records and Access
+- **Meta description:** Understand DLBCL drug classes and combinations, and verify the complete prescription, monitoring and hospital supply before treatment in China.

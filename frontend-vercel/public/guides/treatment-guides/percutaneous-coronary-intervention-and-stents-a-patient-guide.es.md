@@ -1,15 +1,17 @@
-# 037 Intervención coronaria percutánea y stents: guía para pacientes
+# Intervención coronaria percutánea y stents en China: decisiones y recuperación
 
 ## Hero
 
-- **Title:** Intervención coronaria percutánea y stents: guía para pacientes
 - **Category:** Guías de tratamiento
 - **Subcategory:** Atención cardíaca y vascular
-- **Subtitle:** Decida qué pretende conseguir la ICP, cómo se tratará la lesión y cómo proteger el resultado después de regresar a casa.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Cardiólogo explicando a un paciente la angioplastia con balón y la expansión de un stent coronario
+
+
+- **Title:** Intervención coronaria percutánea y stents en China: decisiones y recuperación
+- **Subtitle:** Comprenda el beneficio de la ICP, la planificación de lesiones y stents, las decisiones coronarias complejas, la doble antiagregación, la recuperación y el seguimiento transfronterizo.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -154,13 +156,15 @@ Pregunte dónde está, qué gravedad tiene, si se evaluó la fisiología, por qu
 ## SEO Metadata
 
 - **Slug:** `percutaneous-coronary-intervention-and-stents-a-patient-guide`
-- **Meta title:** ICP y stents coronarios: decisiones, DAPT y recuperación
-- **Meta description:** Comprenda el beneficio de la ICP, la planificación de lesiones y stents, las decisiones coronarias complejas, la doble antiagregación, la recuperación y el seguimiento transfronterizo.
 - **Primary keyword:** intervención coronaria percutánea y stents
 - **Pillar keyword:** tratamiento coronario en China
 - **Vertical keyword:** guía de ICP para pacientes
 - **Search intent:** decisión de tratamiento / planificación después del stent
 - **Secondary keywords:** guía de stent coronario; angioplastia; stent liberador de fármaco; doble antiagregación plaquetaria; recuperación de ICP; ICP compleja
+
+
+- **Meta title:** Intervención coronaria percutánea y stents en China: decisiones y recuperación
+- **Meta description:** Comprenda el beneficio de la ICP, la planificación de lesiones y stents, las decisiones coronarias complejas, la doble antiagregación, la recuperación y el seguimiento transfronterizo.
 
 ## Fuentes
 

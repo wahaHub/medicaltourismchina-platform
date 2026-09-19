@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choosing a hospital in China for aplastic anemia: diagnosis, medical treatment, and donor transplantation
 - **Category:** Hospital Guides
 - **Subcategory:** Aplastic Anemia
-- **Subtitle:** Begin by naming the problem to solve: a disputed diagnosis, a first-treatment decision, persistent nonresponse, or a specific donor-transplant pathway.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choosing a hospital in China for aplastic anemia: diagnosis, medical treatment, and donor transplantation
+- **Subtitle:** Evaluate aplastic anemia hospitals in China for diagnosis, drug treatment, blood support and donor transplantation according to the clinical need.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -118,3 +120,6 @@ Narrow the choice to a few centers that genuinely meet the patient’s condition
 ## SEO Metadata
 
 - **Primary keyword:** aplastic anemia hospital selection
+
+- **Meta title:** Choosing a hospital in China for aplastic anemia: diagnosis, medical treatment, and donor transplantation
+- **Meta description:** Evaluate aplastic anemia hospitals in China for diagnosis, drug treatment, blood support and donor transplantation according to the clinical need.

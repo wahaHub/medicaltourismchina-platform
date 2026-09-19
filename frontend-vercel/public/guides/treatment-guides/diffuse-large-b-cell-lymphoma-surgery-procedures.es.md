@@ -1,12 +1,14 @@
-# ¿Necesita cirugía el DLBCL? Biopsia, acceso vascular y procedimientos urgentes
+# Procedimientos para el LDCBG en China: biopsia, acceso vascular y atención urgente
 
 ## Hero
 
-- **Title:** ¿Necesita cirugía el DLBCL? Biopsia, acceso vascular y procedimientos urgentes
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma difuso de células B grandes
-- **Subtitle:** El DLBCL suele tratarse con medicamentos que actúan en todo el organismo.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Procedimientos para el LDCBG en China: biopsia, acceso vascular y atención urgente
+- **Subtitle:** Distinga biopsia, acceso vascular y procedimientos urgentes del linfoma difuso de células B grandes al preparar una evaluación y atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -122,3 +124,6 @@ El seguimiento debe abordar el linfoma y también heridas sin resolver, infecci�
 ## SEO Metadata
 
 - **Primary keyword:** cirugía y procedimientos para DLBCL
+
+- **Meta title:** Procedimientos para el LDCBG en China: biopsia, acceso vascular y atención urgente
+- **Meta description:** Distinga biopsia, acceso vascular y procedimientos urgentes del linfoma difuso de células B grandes al preparar una evaluación y atención en China.

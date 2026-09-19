@@ -1,15 +1,17 @@
-# Blood Tests Before Treatment: Why They Are Repeated, Whether to Fast and How Results Change the Plan
+# Blood Tests in China: Fasting, Repeat Tests and Results
 
 ## Hero
 
-- **Title:** Blood Tests Before Treatment: Why They Are Repeated, Whether to Fast and How Results Change the Plan
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Tests & Diagnosis
-- **Subtitle:** A plain-language guide to pre-treatment blood panels, preparation, international reports, redraws and the decisions behind an abnormal result.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Planned replacement showing a labeled blood sample, laboratory report, medication list and pre-treatment safety checklist
+
+
+- **Title:** Blood Tests in China: Fasting, Repeat Tests and Results
+- **Subtitle:** Understand CBC, chemistry and clotting tests, fasting and medicines, overseas report reuse, redraws and what an abnormal result changes.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -165,13 +167,15 @@ Cells may have broken during collection/handling, or an anticoagulated tube may 
 ## SEO Metadata
 
 - **Slug:** `blood-tests-before-treatment-common-questions-answered`
-- **Meta title:** Blood Tests Before Treatment: Fasting, Repeats and Results
-- **Meta description:** Understand CBC, chemistry and clotting tests, fasting and medicines, overseas report reuse, redraws and what an abnormal result changes.
 - **Primary keyword:** blood tests before treatment
 - **Pillar keyword:** tests before medical treatment in China
 - **Vertical keyword:** fasting and repeat blood tests
 - **Search intent:** pre-treatment test preparation
 - **Secondary keywords:** CBC before treatment; repeat blood test China hospital; fasting blood test medicine; abnormal lab result; international lab report units
+
+
+- **Meta title:** Blood Tests in China: Fasting, Repeat Tests and Results
+- **Meta description:** Understand CBC, chemistry and clotting tests, fasting and medicines, overseas report reuse, redraws and what an abnormal result changes.
 
 ## Sources
 

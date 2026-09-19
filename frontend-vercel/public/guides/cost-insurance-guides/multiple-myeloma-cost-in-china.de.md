@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Behandlungskosten beim multiplen Myelom in China: Eine vergleichbare, nach Phasen gegliederte Schätzung erhalten
 - **Category:** Ratgeber zu Kosten & Versicherung
 - **Subcategory:** Multiples Myelom
-- **Subtitle:** Ein neu diagnostizierter Patient mit Induktions- und Erhaltungstherapie, ein Patient vor autologer Transplantation und jemand, der nach einem Rückfall CAR-T erwägt, folgen unterschiedlichen Behandlungswegen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Behandlungskosten beim multiplen Myelom in China: Eine vergleichbare, nach Phasen gegliederte Schätzung erhalten
+- **Subtitle:** Myelom-Behandlungskosten in China nach Phasen planen: Untersuchungen, Medikamente, Transplantation, unterstützende Versorgung und Erhaltung getrennt erfassen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Das nützliche Ergebnis ist eine datierte schriftliche Schätzung, die ihren Umf
 ## SEO Metadata
 
 - **Primary keyword:** Behandlungskosten des multiplen Myeloms in China
+
+- **Meta title:** Behandlungskosten beim multiplen Myelom in China: Eine vergleichbare, nach Phasen gegliederte Schätzung erhalten
+- **Meta description:** Myelom-Behandlungskosten in China nach Phasen planen: Untersuchungen, Medikamente, Transplantation, unterstützende Versorgung und Erhaltung getrennt erfassen.

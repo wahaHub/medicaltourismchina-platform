@@ -1,12 +1,14 @@
-# Combien de temps dure la réadaptation après un AVC ? Relier les soins hospitaliers, ambulatoires et à domicile
+# Réadaptation après AVC en Chine : durée et continuité des soins
 
 ## Hero
 
-- **Title:** Combien de temps dure la réadaptation après un AVC ? Relier les soins hospitaliers, ambulatoires et à domicile
 - **Category:** Guides des traitements
 - **Subcategory:** Réadaptation après un AVC ischémique
-- **Subtitle:** Lorsqu’une famille demande combien de temps durera la réadaptation, la question recouvre généralement plusieurs calendriers : la durée de l’hospitalisation actuelle, le moment où un traitement sera réévalué et les exercices nécessaires après la sortie.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Réadaptation après AVC en Chine : durée et continuité des soins
+- **Subtitle:** Planifiez la réadaptation après AVC en Chine selon la tolérance, les objectifs et les progrès, puis organisez la poursuite des soins en ambulatoire et à domicile.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Les hôpitaux ont des horaires de services, les médicaments des échéances de 
 ## SEO Metadata
 
 - **Primary keyword:** durée et calendrier de réadaptation après AVC
+
+- **Meta title:** Réadaptation après AVC en Chine : durée et continuité des soins
+- **Meta description:** Planifiez la réadaptation après AVC en Chine selon la tolérance, les objectifs et les progrès, puis organisez la poursuite des soins en ambulatoire et à domicile.

@@ -1,12 +1,14 @@
-# Tipos y riesgo del LDCBG: distinguir la biología de la enfermedad de la aptitud para el tratamiento
+# Tipos y riesgo del LDCBG: prepararse para una revisión en China
 
 ## Hero
 
-- **Title:** Tipos y riesgo del LDCBG: distinguir la biología de la enfermedad de la aptitud para el tratamiento
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma difuso de células B grandes
-- **Subtitle:** Tipos y riesgo del LDCBG: distinguir la biología de la enfermedad de la aptitud para el tratamiento
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tipos y riesgo del LDCBG: prepararse para una revisión en China
+- **Subtitle:** Comprenda los subtipos y factores de riesgo del linfoma difuso de células B grandes y qué informes preparar para una revisión especializada en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -117,3 +119,6 @@ La anatomía patológica original y el resumen del tratamiento completado siguen
 ## SEO Metadata
 
 - **Primary keyword:** tipos y factores de riesgo del LDCBG
+
+- **Meta title:** Tipos y riesgo del LDCBG: prepararse para una revisión en China
+- **Meta description:** Comprenda los subtipos y factores de riesgo del linfoma difuso de células B grandes y qué informes preparar para una revisión especializada en China.

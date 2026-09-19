@@ -1,12 +1,14 @@
-# Médicaments contre l’épilepsie pharmacorésistante : choisir un schéma, vérifier les nouveaux médicaments et planifier la surveillance
+# Médicaments de l’épilepsie pharmacorésistante en Chine : accès et surveillance
 
 ## Hero
 
-- **Title:** Médicaments contre l’épilepsie pharmacorésistante : choisir un schéma, vérifier les nouveaux médicaments et planifier la surveillance
 - **Category:** Guides des traitements
 - **Subcategory:** Épilepsie pharmacorésistante
-- **Subtitle:** Lorsque plusieurs médicaments n’ont pas contrôlé les crises, il est compréhensible de demander s’il existe un médicament plus puissant ou plus récent.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Médicaments de l’épilepsie pharmacorésistante en Chine : accès et surveillance
+- **Subtitle:** Préparez une revue des médicaments de l’épilepsie pharmacorésistante en Chine selon les essais antérieurs, les types de crises et la surveillance requise.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -149,3 +151,6 @@ Une amélioration durable exige plus que d’atteindre une cible sur le tableau 
 ## SEO Metadata
 
 - **Primary keyword:** médicaments contre l’épilepsie pharmacorésistante ; traitement antiépileptique ; cénobamate en Chine ; traitement combiné de l’épilepsie
+
+- **Meta title:** Médicaments de l’épilepsie pharmacorésistante en Chine : accès et surveillance
+- **Meta description:** Préparez une revue des médicaments de l’épilepsie pharmacorésistante en Chine selon les essais antérieurs, les types de crises et la surveillance requise.

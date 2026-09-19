@@ -1,12 +1,14 @@
-# How long does drug-resistant epilepsy treatment take? Planning medication, procedures, and withdrawal
+# Drug-Resistant Epilepsy Care in China: Treatment Timelines
 
 ## Hero
 
-- **Title:** How long does drug-resistant epilepsy treatment take? Planning medication, procedures, and withdrawal
 - **Category:** Treatment Guides
 - **Subcategory:** Drug Resistant Epilepsy
-- **Subtitle:** The length of a hospital admission and the duration of epilepsy treatment answer different questions.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Drug-Resistant Epilepsy Care in China: Treatment Timelines
+- **Subtitle:** Plan drug-resistant epilepsy care in China by separating medicine review, investigations, admission, procedures and continuing follow-up.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -162,3 +164,6 @@ Nobody can reliably schedule every future treatment decision years in advance. P
 ## SEO Metadata
 
 - **Primary keyword:** drug-resistant epilepsy treatment duration; medication withdrawal after epilepsy surgery; epilepsy treatment schedule in China
+
+- **Meta title:** Drug-Resistant Epilepsy Care in China: Treatment Timelines
+- **Meta description:** Plan drug-resistant epilepsy care in China by separating medicine review, investigations, admission, procedures and continuing follow-up.

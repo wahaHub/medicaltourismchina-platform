@@ -1,12 +1,14 @@
-# Élaborer le plan initial de rééducation après un AVC ischémique
+# Commencer une rééducation après AVC en Chine : le premier plan de soins
 
 ## Hero
 
-- **Title:** Élaborer le plan initial de rééducation après un AVC ischémique
 - **Category:** Guides de traitement
 - **Subcategory:** Rééducation après un AVC ischémique
-- **Subtitle:** Les familles recevant un programme de rééducation demandent souvent quels traitements doivent être prioritaires.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Commencer une rééducation après AVC en Chine : le premier plan de soins
+- **Subtitle:** Préparez un premier plan de rééducation post-AVC en Chine avec des objectifs observables, une intensité adaptée et des exercices liés aux gestes quotidiens.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ Un plan initial de rééducation doit définir une direction adaptable : l'activ
 ## SEO Metadata
 
 - **Primary keyword:** rééducation de première intention après un AVC ischémique
+
+- **Meta title:** Commencer une rééducation après AVC en Chine : le premier plan de soins
+- **Meta description:** Préparez un premier plan de rééducation post-AVC en Chine avec des objectifs observables, une intensité adaptée et des exercices liés aux gestes quotidiens.

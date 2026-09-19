@@ -1,12 +1,14 @@
-# Gestes et chirurgie dans le myélome multiple : prélèvements, collecte cellulaire et stabilité osseuse
+# Interventions pour le myélome en Chine : prélèvements, collecte cellulaire et soins osseux
 
 ## Hero
 
-- **Title:** Gestes et chirurgie dans le myélome multiple : prélèvements, collecte cellulaire et stabilité osseuse
 - **Category:** Guides des traitements
 - **Subcategory:** Myélome multiple
-- **Subtitle:** Les soins du myélome peuvent comporter une biopsie médullaire, une collecte cellulaire, un cathéter, une augmentation vertébrale ou une fixation de fracture.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Interventions pour le myélome en Chine : prélèvements, collecte cellulaire et soins osseux
+- **Subtitle:** Distinguez prélèvement médullaire, collecte de cellules, greffe et gestes de stabilisation osseuse dans le myélome pour préparer les interventions en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ La question centrale est de savoir quel problème précis le geste peut résoudr
 ## SEO Metadata
 
 - **Primary keyword:** chirurgie du myélome multiple et procédures d’autogreffe
+
+- **Meta title:** Interventions pour le myélome en Chine : prélèvements, collecte cellulaire et soins osseux
+- **Meta description:** Distinguez prélèvement médullaire, collecte de cellules, greffe et gestes de stabilisation osseuse dans le myélome pour préparer les interventions en Chine.

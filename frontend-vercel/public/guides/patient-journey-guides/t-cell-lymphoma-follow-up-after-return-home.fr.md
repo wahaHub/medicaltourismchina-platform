@@ -1,12 +1,14 @@
-# Suivi après le retour à domicile à la suite d’un traitement du lymphome T : coordonner les examens, les médicaments et les nouveaux symptômes
+# Suivi du lymphome T après un traitement en Chine
 
 ## Hero
 
-- **Title:** Suivi après le retour à domicile à la suite d’un traitement du lymphome T : coordonner les examens, les médicaments et les nouveaux symptômes
 - **Category:** Guides du parcours patient
 - **Subcategory:** Lymphome T
-- **Subtitle:** Certains patients rentrent chez eux en rémission complète, d’autres poursuivent un médicament oral et d’autres viennent de quitter une unité de greffe.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Suivi du lymphome T après un traitement en Chine
+- **Subtitle:** Après un traitement du lymphome T en Chine, préparez la transmission du bilan de réponse, le suivi des symptômes et un recours local en cas de fièvre.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Gardez à jour l’exemplaire du plan détenu par le patient et retirez les cons
 ## SEO Metadata
 
 - **Primary keyword:** suivi du lymphome T après le retour à domicile
+
+- **Meta title:** Suivi du lymphome T après un traitement en Chine
+- **Meta description:** Après un traitement du lymphome T en Chine, préparez la transmission du bilan de réponse, le suivi des symptômes et un recours local en cas de fièvre.

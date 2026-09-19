@@ -1,12 +1,14 @@
-# Lorsque le traitement de la thalassémie semble insuffisant : aggravation de l'anémie, augmentation des transfusions et mauvais contrôle du fer
+# Traitement insuffisant de la thalassémie : deuxième avis en Chine
 
 ## Hero
 
-- **Title:** Lorsque le traitement de la thalassémie semble insuffisant : aggravation de l'anémie, augmentation des transfusions et mauvais contrôle du fer
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Thalassémie
-- **Subtitle:** Une baisse de l'hémoglobine, des transfusions plus fréquentes et une hausse de la ferritine décrivent des problèmes différents.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement insuffisant de la thalassémie : deuxième avis en Chine
+- **Subtitle:** Préparez un deuxième avis de thalassémie en Chine en documentant aggravation de l’anémie, besoins transfusionnels, compatibilité sanguine et contrôle du fer.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Un bénéfice insuffisant ne signifie pas toujours qu'il manque une intervention
 ## SEO Metadata
 
 - **Primary keyword:** traitement de la thalassémie inefficace ; besoins transfusionnels accrus ; chélation insuffisante ; deuxième avis en Chine
+
+- **Meta title:** Traitement insuffisant de la thalassémie : deuxième avis en Chine
+- **Meta description:** Préparez un deuxième avis de thalassémie en Chine en documentant aggravation de l’anémie, besoins transfusionnels, compatibilité sanguine et contrôle du fer.

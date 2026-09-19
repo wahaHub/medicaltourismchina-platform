@@ -1,15 +1,17 @@
-# 怎样选择深圳医院：临床匹配、深港边界与就医行程
+# 中国医院选择：深圳诊疗匹配与跨境衔接
 
 ## Hero
 
-- **Title:** 怎样选择深圳医院：临床匹配、深港边界与就医行程
 - **Category:** 医院指南
 - **Subcategory:** 深圳就医规划
-- **Subtitle:** 先确定临床责任人和实际院区，再逐项验证护照、数据、口岸、付款、急救和返程衔接。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 国际患者比较深圳医院就医路径的概念插画；其中天际线、医院、医生和列车图标均不代表真实院区、路线或机构背书。
+
+
+- **Title:** 中国医院选择：深圳诊疗匹配与跨境衔接
+- **Subtitle:** 从临床责任、法定院区、护照建档、病历数据、深港政策边界、入城交通、急救后备和出院交接八方面选择深圳医院。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -211,13 +213,15 @@
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-shenzhen-specialties-access-and-travel`
-- **Meta title:** 怎样选择深圳医院：临床匹配与深港边界
-- **Meta description:** 从临床责任、法定院区、护照建档、病历数据、深港政策边界、入城交通、急救后备和出院交接八方面选择深圳医院。
 - **Primary keyword:** 怎样选择深圳医院
 - **Pillar keyword:** 深圳国际患者医院
 - **Vertical keyword:** 深圳医院专科院区深港交通
 - **Search intent:** 医院比较 / 深港就医规划
 - **Secondary keywords:** 深圳医院护照挂号；深港医疗数据；深圳跨境救护车；深圳医院院区；深圳 120 急救
+
+
+- **Meta title:** 中国医院选择：深圳诊疗匹配与跨境衔接
+- **Meta description:** 从临床责任、法定院区、护照建档、病历数据、深港政策边界、入城交通、急救后备和出院交接八方面选择深圳医院。
 
 ## Sources
 

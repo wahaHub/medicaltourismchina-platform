@@ -1,12 +1,14 @@
-# Comparación de tratamientos del mieloma múltiple: considerar la etapa y los antecedentes de resistencia
+# Opciones de tratamiento del mieloma en China: comparar según la etapa asistencial
 
 ## Hero
 
-- **Title:** Comparación de tratamientos del mieloma múltiple: considerar la etapa y los antecedentes de resistencia
 - **Category:** Guías de tratamiento
 - **Subcategory:** Mieloma múltiple
-- **Subtitle:** Cuando difieren dos recomendaciones para el mieloma, preguntar cuál es más potente puede no resolver la elección.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Opciones de tratamiento del mieloma en China: comparar según la etapa asistencial
+- **Subtitle:** Compare opciones de mieloma múltiple en China según fase, aptitud para trasplante y resistencia previa, considerando el beneficio y la carga de cada estrategia.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Por último, pregunte a cada médico qué prueba o limitación personal explica 
 ## SEO Metadata
 
 - **Primary keyword:** comparación de tratamientos del mieloma múltiple
+
+- **Meta title:** Opciones de tratamiento del mieloma en China: comparar según la etapa asistencial
+- **Meta description:** Compare opciones de mieloma múltiple en China según fase, aptitud para trasplante y resistencia previa, considerando el beneficio y la carga de cada estrategia.

@@ -1,15 +1,17 @@
-# 临床试验结束以后：继续用药、随访与医疗交接
+# 中国临床试验结束后：继续用药与随访
 
 ## Hero
 
-- **Title:** 临床试验结束以后：继续用药、随访与医疗交接
 - **Category:** 临床试验与先进治疗
 - **Subcategory:** 试验退出与连续照护
-- **Subtitle:** 把末次研究访视、停止治疗、安全随访、继续获得干预和研究结果公布分开安排。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **图片替代文字：** 与《095 临床试验结束以后：继续用药、随访与医疗交接》对应的临床场景，呈现相关诊疗决策、操作流程与安全核对。
+
+
+- **Title:** 中国临床试验结束后：继续用药与随访
+- **Subtitle:** 说明试验结束的不同节点、继续获得干预的路径、退出资料、长期安全随访、费用、揭盲、研究结果和跨境医疗交接。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -203,11 +205,13 @@
 ## SEO Metadata
 
 - **Slug:** `what-happens-after-a-clinical-trial-ends-post-trial-access-and-follow-up`
-- **Meta title:** 临床试验结束后：继续用药与随访指南
-- **Meta description:** 说明试验结束的不同节点、继续获得干预的路径、退出资料、长期安全随访、费用、揭盲、研究结果和跨境医疗交接。
 - **Primary keyword:** 临床试验结束后继续用药与随访
 - **Secondary keywords:** 试验后继续获得干预；开放标签延长期；中国拓展性使用；临床试验退出访视；长期安全随访
 - **Search intent:** 试验结束、继续获得干预与医疗转衔
+
+
+- **Meta title:** 中国临床试验结束后：继续用药与随访
+- **Meta description:** 说明试验结束的不同节点、继续获得干预的路径、退出资料、长期安全随访、费用、揭盲、研究结果和跨境医疗交接。
 
 ## Sources
 

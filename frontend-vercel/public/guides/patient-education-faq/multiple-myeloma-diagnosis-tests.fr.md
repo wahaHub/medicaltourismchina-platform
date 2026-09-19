@@ -1,12 +1,14 @@
-# Examens en cas de suspicion de myélome multiple : ce que chaque étape vise à établir
+# Diagnostic du myélome multiple en Chine : examens et préparation
 
 ## Hero
 
-- **Title:** Examens en cas de suspicion de myélome multiple : ce que chaque étape vise à établir
 - **Category:** Éducation des patients et questions fréquentes
 - **Subcategory:** Myélome multiple
-- **Subtitle:** Une protéine sanguine anormale, des douleurs dorsales persistantes ou une baisse inattendue de la fonction rénale peuvent conduire à rechercher une maladie plasmocytaire.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnostic du myélome multiple en Chine : examens et préparation
+- **Subtitle:** Comprenez les examens des protéines, des urines, de la moelle, de la génétique et des os pour préparer un bilan de myélome multiple en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Pour un deuxième avis en Chine, demandez quels résultats existants restent uti
 ## SEO Metadata
 
 - **Primary keyword:** examens diagnostiques du myélome multiple
+
+- **Meta title:** Diagnostic du myélome multiple en Chine : examens et préparation
+- **Meta description:** Comprenez les examens des protéines, des urines, de la moelle, de la génétique et des os pour préparer un bilan de myélome multiple en Chine.

@@ -1,12 +1,14 @@
-# Mengelola efek samping pengobatan talasemia: apa yang perlu dilaporkan, kapan mencari bantuan, dan cara mempersiapkan diri
+# Pengobatan Talasemia di Tiongkok: Efek Samping dan Pemeriksaan Keamanan
 
 ## Hero
 
-- **Title:** Mengelola efek samping pengobatan talasemia: apa yang perlu dilaporkan, kapan mencari bantuan, dan cara mempersiapkan diri
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Talasemia
-- **Subtitle:** Menemukan daftar kemungkinan efek samping sering lebih mudah daripada memutuskan apa yang harus dilakukan terhadap suatu gejala.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Talasemia di Tiongkok: Efek Samping dan Pemeriksaan Keamanan
+- **Subtitle:** Kenali reaksi transfusi dan efek obat talasemia selama perawatan di Tiongkok. Siapkan informasi pengobatan, pemeriksaan, dan jalur pertolongan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -146,3 +148,6 @@ Pasien tidak perlu menghafal setiap kemungkinan reaksi. Mengenali perubahan mend
 ## SEO Metadata
 
 - **Primary keyword:** efek samping pengobatan talasemia; reaksi merugikan kelator; reaksi transfusi; keamanan obat di Tiongkok
+
+- **Meta title:** Pengobatan Talasemia di Tiongkok: Efek Samping dan Pemeriksaan Keamanan
+- **Meta description:** Kenali reaksi transfusi dan efek obat talasemia selama perawatan di Tiongkok. Siapkan informasi pengobatan, pemeriksaan, dan jalur pertolongan.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Sollten Sie zur Versorgung eines Mantelzelllymphoms nach China reisen? Zweck, Stabilität und Behandlungskontinuität
 - **Category:** Leitfäden zur Patientenreise
 - **Subcategory:** Mantelzelllymphom
-- **Subtitle:** Bevor ein MCL-Patient eine Versorgung in China organisiert, muss geklärt werden, was die Reise lösen könnte und ob sie sicher durchgeführt werden kann.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sollten Sie zur Versorgung eines Mantelzelllymphoms nach China reisen? Zweck, Stabilität und Behandlungskontinuität
+- **Subtitle:** Eine Reise bei Mantelzelllymphom nach China prüfen: Überweisungsziel, Stabilität, Immunsuppression, Medikamentenkontinuität und Unterstützung abstimmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Die Eignung für eine Versorgung in China hängt letztlich davon ab, ob ein konk
 ## SEO Metadata
 
 - **Primary keyword:** zur Behandlung eines Mantelzelllymphoms nach China reisen
+
+- **Meta title:** Sollten Sie zur Versorgung eines Mantelzelllymphoms nach China reisen? Zweck, Stabilität und Behandlungskontinuität
+- **Meta description:** Eine Reise bei Mantelzelllymphom nach China prüfen: Überweisungsziel, Stabilität, Immunsuppression, Medikamentenkontinuität und Unterstützung abstimmen.

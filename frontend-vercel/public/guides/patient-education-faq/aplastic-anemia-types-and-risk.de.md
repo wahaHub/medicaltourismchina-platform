@@ -1,12 +1,14 @@
-# Formen und Risiken der aplastischen Anämie: Was nicht schwer, schwer und sehr schwer bedeutet
+# Schweregrad der aplastischen Anämie: Vorbereitung auf eine Beurteilung in China
 
 ## Hero
 
-- **Title:** Formen und Risiken der aplastischen Anämie: Was nicht schwer, schwer und sehr schwer bedeutet
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Aplastische Anämie
-- **Subtitle:** Nicht schwer bedeutet nicht, dass niemals eine Behandlung nötig wird, und schwer bedeutet nicht, dass eine Behandlung nicht mehr helfen kann.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Schweregrad der aplastischen Anämie: Vorbereitung auf eine Beurteilung in China
+- **Subtitle:** Aplastische Anämie vor einer Beurteilung in China einordnen: Ursache, Schweregrad, PNH-Befunde und Behandlungsrisiken als unterschiedliche Fragen verstehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Senden Sie für eine Neubewertung in China das ursprüngliche Knochenmarkmateria
 ## SEO Metadata
 
 - **Primary keyword:** Formen und Risiken der aplastischen Anämie
+
+- **Meta title:** Schweregrad der aplastischen Anämie: Vorbereitung auf eine Beurteilung in China
+- **Meta description:** Aplastische Anämie vor einer Beurteilung in China einordnen: Ursache, Schweregrad, PNH-Befunde und Behandlungsrisiken als unterschiedliche Fragen verstehen.

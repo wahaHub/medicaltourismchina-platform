@@ -1,12 +1,14 @@
-# Hasil dan prognosis penyakit Parkinson: kemandirian, risiko jangka panjang, dan perencanaan ke depan
+# Prognosis Parkinson: Merencanakan Perawatan Berkelanjutan di Tiongkok
 
 ## Hero
 
-- **Title:** Hasil dan prognosis penyakit Parkinson: kemandirian, risiko jangka panjang, dan perencanaan ke depan
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Penyakit Parkinson
-- **Subtitle:** “Berapa lama saya akan tetap mandiri?” sering lebih mendekati kekhawatiran pasien daripada jumlah poin yang diperoleh pada skala gerakan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prognosis Parkinson: Merencanakan Perawatan Berkelanjutan di Tiongkok
+- **Subtitle:** Pahami prognosis Parkinson melalui kemandirian, fungsi, dan kesehatan umum. Siapkan rencana pemantauan serta dukungan berkelanjutan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -122,3 +124,6 @@ Rencana yang dapat berlanjut di tempat tinggal pasien, dengan tanggung jawab dit
 ## SEO Metadata
 
 - **Primary keyword:** prognosis penyakit Parkinson
+
+- **Meta title:** Prognosis Parkinson: Merencanakan Perawatan Berkelanjutan di Tiongkok
+- **Meta description:** Pahami prognosis Parkinson melalui kemandirian, fungsi, dan kesehatan umum. Siapkan rencana pemantauan serta dukungan berkelanjutan di Tiongkok.

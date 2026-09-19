@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Cuánto cuesta tratar el linfoma de células del manto en China? Elaborar un presupuesto desglosado en renminbi
 - **Category:** Guías de costes y seguros
 - **Subcategory:** Linfoma de células del manto
-- **Subtitle:** Dos presupuestos pueden describir un tratamiento completo del MCL y cubrir servicios diferentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Cuánto cuesta tratar el linfoma de células del manto en China? Elaborar un presupuesto desglosado en renminbi
+- **Subtitle:** Prepare un presupuesto del linfoma de células del manto en China que incluya evaluación, fármacos, cuidados de apoyo y las fases de trasplante o CAR-T.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Hablar abiertamente de los límites presupuestarios puede ayudar al equipo a con
 ## SEO Metadata
 
 - **Primary keyword:** coste del tratamiento del linfoma de células del manto en China
+
+- **Meta title:** ¿Cuánto cuesta tratar el linfoma de células del manto en China? Elaborar un presupuesto desglosado en renminbi
+- **Meta description:** Prepare un presupuesto del linfoma de células del manto en China que incluya evaluación, fármacos, cuidados de apoyo y las fases de trasplante o CAR-T.

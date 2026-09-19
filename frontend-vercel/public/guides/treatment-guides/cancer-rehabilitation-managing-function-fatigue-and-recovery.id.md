@@ -1,15 +1,17 @@
-# 065 Rehabilitasi Kanker: Mengelola Fungsi, Kelelahan, dan Pemulihan
+# Rehabilitasi Kanker di Tiongkok: Fungsi, Kelelahan, dan Pemulihan
 
 ## Hero
 
-- **Title:** Rehabilitasi Kanker: Mengelola Fungsi, Kelelahan, dan Pemulihan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Rehabilitasi
-- **Subtitle:** Susun rehabilitasi berdasarkan kanker, fase pengobatan, dan tugas kehidupan yang penting—bukan paket latihan umum.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Seorang perempuan yang menjalani pengobatan kanker membahas rehabilitasi berjalan dan kekuatan dengan terapis di samping peralatan latihan sederhana.
+
+
+- **Title:** Rehabilitasi Kanker di Tiongkok: Fungsi, Kelelahan, dan Pemulihan
+- **Subtitle:** Cara menilai rehabilitasi kanker di Tiongkok: kelelahan, keamanan latihan, neuropati, limfedema, risiko tulang, tujuan terukur, dan serah terima.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -129,11 +131,13 @@ Mintalah ukuran awal dan akhir, tujuan, rencana latihan dan aktivitas, tindakan 
 ## SEO Metadata
 
 - **Slug:** `cancer-rehabilitation-managing-function-fatigue-and-recovery`
-- **Meta title:** Rehabilitasi Kanker: Fungsi, Kelelahan, dan Pemulihan yang Aman
-- **Meta description:** Cara menilai rehabilitasi kanker di Tiongkok: kelelahan, keamanan latihan, neuropati, limfedema, risiko tulang, tujuan terukur, dan serah terima.
 - **Primary keyword:** rehabilitasi kanker di Tiongkok
 - **Secondary keywords:** rehabilitasi kelelahan terkait kanker; fisioterapi onkologi; latihan selama pengobatan kanker; program pemulihan kanker; rehabilitasi limfedema
 - **Search intent:** perencanaan pengobatan / perbandingan program rehabilitasi
+
+
+- **Meta title:** Rehabilitasi Kanker di Tiongkok: Fungsi, Kelelahan, dan Pemulihan
+- **Meta description:** Cara menilai rehabilitasi kanker di Tiongkok: kelelahan, keamanan latihan, neuropati, limfedema, risiko tulang, tujuan terukur, dan serah terima.
 
 ## Sumber
 

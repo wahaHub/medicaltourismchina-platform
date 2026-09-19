@@ -1,12 +1,14 @@
-# Operasi dan tindakan pada talasemia: keputusan tentang limpa, kandung empedu, dan intervensi lainnya
+# Operasi Talasemia di Tiongkok: Limpa, Kandung Empedu, dan Pemulihan
 
 ## Hero
 
-- **Title:** Operasi dan tindakan pada talasemia: keputusan tentang limpa, kandung empedu, dan intervensi lainnya
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Talasemia
-- **Subtitle:** Tidak ada operasi talasemia umum yang mengangkat jaringan abnormal dan dengan demikian memperbaiki kelainan bawaan tersebut.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Operasi Talasemia di Tiongkok: Limpa, Kandung Empedu, dan Pemulihan
+- **Subtitle:** Pahami tujuan operasi limpa, kandung empedu, dan prosedur lain pada talasemia. Siapkan pertanyaan risiko, manfaat, serta pemulihan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ Hindari mendasarkan perjalanan pulang yang tidak fleksibel hanya pada perkiraan 
 ## SEO Metadata
 
 - **Primary keyword:** operasi pada talasemia; splenektomi; batu empedu; penilaian praoperasi; limpa membesar
+
+- **Meta title:** Operasi Talasemia di Tiongkok: Limpa, Kandung Empedu, dan Pemulihan
+- **Meta description:** Pahami tujuan operasi limpa, kandung empedu, dan prosedur lain pada talasemia. Siapkan pertanyaan risiko, manfaat, serta pemulihan di Tiongkok.

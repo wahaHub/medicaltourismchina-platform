@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Berapa Lama Pengobatan Parkinson Berlangsung? Perubahan Obat, DBS dan Perencanaan Kunjungan ke Tiongkok
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Parkinson
-- **Subtitle:** Penyakit Parkinson umumnya memerlukan perawatan berkelanjutan, sementara kunjungan pengobatan tertentu dapat memiliki tujuan jelas dan titik akhir yang disepakati.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Berapa Lama Pengobatan Parkinson Berlangsung? Perubahan Obat, DBS dan Perencanaan Kunjungan ke Tiongkok
+- **Subtitle:** Rencanakan kunjungan Parkinson ke Tiongkok sesuai tujuan penyesuaian obat atau DBS. Perhitungkan penilaian, pemrograman, dan perawatan berkelanjutan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ Berikan tujuan pada janji berikutnya. Tujuannya mungkin meninjau mobilitas malam
 ## SEO Metadata
 
 - **Primary keyword:** durasi pengobatan penyakit Parkinson di Tiongkok
+
+- **Meta title:** Berapa Lama Pengobatan Parkinson Berlangsung? Perubahan Obat, DBS dan Perencanaan Kunjungan ke Tiongkok
+- **Meta description:** Rencanakan kunjungan Parkinson ke Tiongkok sesuai tujuan penyesuaian obat atau DBS. Perhitungkan penilaian, pemrograman, dan perawatan berkelanjutan.

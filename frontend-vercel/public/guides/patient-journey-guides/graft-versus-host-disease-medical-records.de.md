@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Medizinische Unterlagen für eine GVHD-Konsultation in China: Transplantationsverlauf, Organveränderungen und Therapieansprechen verbinden
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Graft-versus-Host-Erkrankung
-- **Subtitle:** Viele Patienten besitzen eine große Sammlung von GVHD-Unterlagen: Entlassungsberichte zur Transplantation, monatliche Laboruntersuchungen, Biopsieberichte, Verordnungen verschiedener Fachrichtungen und auf dem Handy gespeicherte Hautfotos.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medizinische Unterlagen für eine GVHD-Konsultation in China: Transplantationsverlauf, Organveränderungen und Therapieansprechen verbinden
+- **Subtitle:** Eine GVHD-Beratung in China vorbereiten: Transplantationsverlauf, Organveränderungen, Behandlungslinien, Lungenfunktion und pathologische Unsicherheiten dokumentieren.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Klären Sie bei der Konsultation, wie die neue Beurteilung und Verordnung für d
 ## SEO Metadata
 
 - **Primary keyword:** medizinische Unterlagen für eine GVHD-Konsultation in China
+
+- **Meta title:** Medizinische Unterlagen für eine GVHD-Konsultation in China: Transplantationsverlauf, Organveränderungen und Therapieansprechen verbinden
+- **Meta description:** Eine GVHD-Beratung in China vorbereiten: Transplantationsverlauf, Organveränderungen, Behandlungslinien, Lungenfunktion und pathologische Unsicherheiten dokumentieren.

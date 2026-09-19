@@ -1,15 +1,17 @@
-# Analgésicos después de la cirugía: controlar el dolor sin ocultar una complicación
+# Analgésicos después de una cirugía en China: dosis y seguridad
 
 ## Hero
 
-- **Title:** Analgésicos después de la cirugía: controlar el dolor sin ocultar una complicación
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Medicamentos
-- **Subtitle:** Cómo interpretar un plan multimodal para el dolor, evitar ingredientes duplicados, usar opioides de forma segura y reconocer el dolor que requiere revisión quirúrgica en lugar de otra dosis.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un cirujano revisa con un paciente una lista de medicamentos posoperatorios codificada por colores junto a varios envases de medicamentos etiquetados
+
+
+- **Title:** Analgésicos después de una cirugía en China: dosis y seguridad
+- **Subtitle:** Aprenda a combinar de forma segura los analgésicos posoperatorios, evitar la duplicación de acetaminofén, reconocer una sobredosis de opioides y distinguir el dolor esperado de una complicación quirúrgica.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -172,11 +174,13 @@ Llame sin demora si el dolor aumenta rápidamente, es desproporcionado, no respo
 
 ## SEO Metadata
 
-- **SEO title:** Analgésicos después de la cirugía: dosis seguras y señales de alarma
-- **Meta description:** Aprenda a combinar de forma segura los analgésicos posoperatorios, evitar la duplicación de acetaminofén, reconocer una sobredosis de opioides y distinguir el dolor esperado de una complicación quirúrgica.
 - **Primary keyword:** analgésicos después de la cirugía
 - **Secondary keywords:** plan para el dolor posoperatorio, seguridad de los opioides después de la cirugía, dosis duplicada de acetaminofén, AINE después de la cirugía, naloxona, empeoramiento del dolor después de la cirugía
 - **Suggested URL slug:** `/pain-medicine-after-surgery-safe-use-warning-signs`
+
+
+- **Meta title:** Analgésicos después de una cirugía en China: dosis y seguridad
+- **Meta description:** Aprenda a combinar de forma segura los analgésicos posoperatorios, evitar la duplicación de acetaminofén, reconocer una sobredosis de opioides y distinguir el dolor esperado de una complicación quirúrgica.
 
 ## Fuentes
 

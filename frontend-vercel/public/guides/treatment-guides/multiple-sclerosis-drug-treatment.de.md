@@ -1,12 +1,14 @@
-# Medikamente bei Multipler Sklerose: DMT-Optionen, Überwachung und geplante Umstellungen
+# MS-Medikamente in China: Optionen, Überwachung und Umstellungen
 
 ## Hero
 
-- **Title:** Medikamente bei Multipler Sklerose: DMT-Optionen, Überwachung und geplante Umstellungen
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Multiple Sklerose
-- **Subtitle:** Listen von MS-Medikamenten unterscheiden sich, weil Länder, Zulassungszeitpunkte und Krankheitsindikationen unterschiedlich sind.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** MS-Medikamente in China: Optionen, Überwachung und Umstellungen
+- **Subtitle:** MS-Medikamente in China einordnen: Verlaufs-, Schub- und Symptombehandlung unterscheiden sowie Sicherheitskontrollen, Impfungen und Umstellungen planen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Bestätigen Sie Medikamenten-, Verabreichungs-, Labor- und Kontrollkosten getren
 ## SEO Metadata
 
 - **Primary keyword:** medikamentöse Behandlung und Überwachung bei Multipler Sklerose
+
+- **Meta title:** MS-Medikamente in China: Optionen, Überwachung und Umstellungen
+- **Meta description:** MS-Medikamente in China einordnen: Verlaufs-, Schub- und Symptombehandlung unterscheiden sowie Sicherheitskontrollen, Impfungen und Umstellungen planen.

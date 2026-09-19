@@ -1,12 +1,14 @@
-# Behandlung des Hodgkin-Lymphoms: Entscheidungen von der Diagnose bis zur Erholung
+# Behandlung des Hodgkin-Lymphoms in China: Von der Diagnose zur Erholung
 
 ## Hero
 
-- **Title:** Behandlung des Hodgkin-Lymphoms: Entscheidungen von der Diagnose bis zur Erholung
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Hodgkin-Lymphom
-- **Subtitle:** Die Behandlung des Hodgkin-Lymphoms wird sowohl auf Krankheitskontrolle als auch auf das Leben nach der Behandlung ausgerichtet.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Behandlung des Hodgkin-Lymphoms in China: Von der Diagnose zur Erholung
+- **Subtitle:** Hodgkin-Lymphom-Behandlung in China vorbereiten: Diagnose, Stadium, Therapieauswahl, Fruchtbarkeit, Ansprechkontrollen und mögliche Rückfallversorgung besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -117,3 +119,6 @@ Bitten Sie nach Behandlung um einen Nachsorgeplan für das Leben nach Krebs, der
 ## SEO Metadata
 
 - **Primary keyword:** Behandlung des Hodgkin-Lymphoms
+
+- **Meta title:** Behandlung des Hodgkin-Lymphoms in China: Von der Diagnose zur Erholung
+- **Meta description:** Hodgkin-Lymphom-Behandlung in China vorbereiten: Diagnose, Stadium, Therapieauswahl, Fruchtbarkeit, Ansprechkontrollen und mögliche Rückfallversorgung besprechen.

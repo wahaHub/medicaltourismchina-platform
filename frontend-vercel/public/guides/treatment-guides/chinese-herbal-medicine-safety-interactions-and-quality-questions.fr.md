@@ -1,15 +1,17 @@
-# 070 Sécurité de la phytothérapie chinoise : interactions et questions de qualité
+# Phytothérapie chinoise en Chine : sécurité et interactions
 
 ## Hero
 
-- **Title:** Sécurité de la phytothérapie chinoise : interactions et questions de qualité
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Médecine traditionnelle chinoise et soins intégratifs
-- **Subtitle:** Identifiez le produit exact, retracez son lot, vérifiez la formule entière par rapport à la liste complète des médicaments et surveillez un objectif clinique défini.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un clinicien et un patient âgé comparent des médicaments sur ordonnance, des gélules et des ingrédients de phytothérapie sur une même liste de sécurité médicamenteuse.
+
+
+- **Title:** Phytothérapie chinoise en Chine : sécurité et interactions
+- **Subtitle:** Identifiez le type de produit de phytothérapie, retracez la qualité du lot, vérifiez les interactions, prévoyez la surveillance, déclarez les effets indésirables et vérifiez les restrictions de voyage.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -161,11 +163,13 @@ Les règles varient selon les ingrédients et les pays. Les étiquettes d’orig
 ## SEO Metadata
 
 - **Slug:** `chinese-herbal-medicine-safety-interactions-and-quality-questions`
-- **Meta title:** Sécurité de la phytothérapie chinoise et contrôle des interactions
-- **Meta description:** Identifiez le type de produit de phytothérapie, retracez la qualité du lot, vérifiez les interactions, prévoyez la surveillance, déclarez les effets indésirables et vérifiez les restrictions de voyage.
 - **Primary keyword:** sécurité de la phytothérapie chinoise
 - **Secondary keywords:** interactions plantes chinoises et médicaments ; qualité de la phytothérapie ; sécurité des spécialités de médecine chinoise ; effets indésirables des plantes ; traçabilité des lots de produits de phytothérapie
 - **Search intent:** sécurité médicamenteuse / évaluation de produit
+
+
+- **Meta title:** Phytothérapie chinoise en Chine : sécurité et interactions
+- **Meta description:** Identifiez le type de produit de phytothérapie, retracez la qualité du lot, vérifiez les interactions, prévoyez la surveillance, déclarez les effets indésirables et vérifiez les restrictions de voyage.
 
 ## Sources
 

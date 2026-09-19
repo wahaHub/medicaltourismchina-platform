@@ -1,12 +1,14 @@
-# Wenn das Hodgkin-Lymphom zurückkehrt oder der Behandlung widersteht: erneute Beurteilung, Salvage-Therapie und Transplantation
+# Rezidiviertes Hodgkin-Lymphom in China: Planung der Salvage-Therapie
 
 ## Hero
 
-- **Title:** Wenn das Hodgkin-Lymphom zurückkehrt oder der Behandlung widersteht: erneute Beurteilung, Salvage-Therapie und Transplantation
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Hodgkin-Lymphom
-- **Subtitle:** Zu hören, dass das Hodgkin-Lymphom zurückgekehrt ist oder der Behandlung widerstanden hat, kann die Anstrengungen der ersten Behandlung vergeblich erscheinen lassen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rezidiviertes Hodgkin-Lymphom in China: Planung der Salvage-Therapie
+- **Subtitle:** Rezidiviertes Hodgkin-Lymphom in China neu beurteilen: Biopsie, PET, bisherige Behandlung und Ziele von Salvage-Therapie, Transplantation oder Bestrahlung klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Die Rezidivberatung kann sich um eine knappe Frage drehen: Welchen nächsten Sch
 ## SEO Metadata
 
 - **Primary keyword:** Behandlung des rezidivierten refraktären Hodgkin-Lymphoms
+
+- **Meta title:** Rezidiviertes Hodgkin-Lymphom in China: Planung der Salvage-Therapie
+- **Meta description:** Rezidiviertes Hodgkin-Lymphom in China neu beurteilen: Biopsie, PET, bisherige Behandlung und Ziele von Salvage-Therapie, Transplantation oder Bestrahlung klären.

@@ -1,15 +1,17 @@
-# After Medical Travel: Build a Complication Plan That Works Under Stress
+# After Treatment in China: An Emergency and Complication Plan
 
 ## Hero
 
-- **Title:** After Medical Travel: Build a Complication Plan That Works Under Stress
 - **Category:** Patient Journey Guides
 - **Subcategory:** Complication and Emergency Response
-- **Subtitle:** Pre-decide where to go, what to say, what to carry and who takes over when recovery stops following the expected path.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** A patient and companion prepare an emergency contact sheet and calendar after overseas medical treatment.
+
+
+- **Title:** After Treatment in China: An Emergency and Complication Plan
+- **Subtitle:** Build a practical post-treatment emergency plan with response lanes, local hospitals, a 60-second handover, records, insurance and rehearsal.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -203,13 +205,15 @@ No. Coverage depends on the contract, exclusions, medical necessity, stabilizati
 ## SEO Metadata
 
 - **Slug:** `creating-a-complication-and-emergency-plan-after-medical-travel`
-- **Meta title:** Emergency Plan After Medical Travel | Complication Response
-- **Meta description:** Build a practical post-treatment emergency plan with response lanes, local hospitals, a 60-second handover, records, insurance and rehearsal.
 - **Primary keyword:** emergency plan after medical travel
 - **Pillar keyword:** medical travel to China
 - **Vertical keyword:** complication plan after overseas treatment
 - **Search intent:** safety planning / return-home care
 - **Secondary keywords:** medical tourism complication plan; emergency records after surgery abroad; overseas treatment emergency; post-travel infection disclosure; medical evacuation planning
+
+
+- **Meta title:** After Treatment in China: An Emergency and Complication Plan
+- **Meta description:** Build a practical post-treatment emergency plan with response lanes, local hospitals, a 60-second handover, records, insurance and rehearsal.
 
 ## Sources
 

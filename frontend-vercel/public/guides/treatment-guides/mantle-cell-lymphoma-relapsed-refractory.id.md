@@ -1,12 +1,14 @@
-# Limfoma Sel Mantel Kambuh atau Refrakter: Memastikan Progresi dan Merencanakan Pengobatan Berikutnya
+# Limfoma Sel Mantel Kambuh di Tiongkok: Tinjauan dan Langkah Selanjutnya
 
 ## Hero
 
-- **Title:** Limfoma Sel Mantel Kambuh atau Refrakter: Memastikan Progresi dan Merencanakan Pengobatan Berikutnya
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel Mantel
-- **Subtitle:** Ketika kelenjar getah bening yang sebelumnya mengecil membesar lagi, dorongan mencari obat berikutnya dapat langsung muncul.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Limfoma Sel Mantel Kambuh di Tiongkok: Tinjauan dan Langkah Selanjutnya
+- **Subtitle:** Siapkan tinjauan limfoma sel mantel kambuh di Tiongkok dengan konfirmasi progresi dan riwayat terapi, termasuk perbedaan intoleransi dan resistansi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -118,3 +120,6 @@ Anda tidak harus menyelesaikan setiap keputusan masa depan pada hari konsultasi.
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan limfoma sel mantel kambuh refrakter
+
+- **Meta title:** Limfoma Sel Mantel Kambuh di Tiongkok: Tinjauan dan Langkah Selanjutnya
+- **Meta description:** Siapkan tinjauan limfoma sel mantel kambuh di Tiongkok dengan konfirmasi progresi dan riwayat terapi, termasuk perbedaan intoleransi dan resistansi.

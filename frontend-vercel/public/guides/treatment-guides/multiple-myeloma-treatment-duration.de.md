@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Wie lange dauert die Behandlung des multiplen Myeloms? Zyklen, Erhaltungstherapie und Zeit in China
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Multiples Myelom
-- **Subtitle:** Die Dauer eines Krankenhausaufenthalts und die Dauer der Myelombehandlung sind unterschiedliche Fragen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Wie lange dauert die Behandlung des multiplen Myeloms? Zyklen, Erhaltungstherapie und Zeit in China
+- **Subtitle:** Myelombehandlung in China zeitlich planen: Zyklen, Zellsammlung, Transplantation, Erhaltung und Immunerholung als unterschiedliche Versorgungsphasen verstehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Bestätigen Sie mit dem heimischen Arzt, welche genauen Medikamente und Tests fo
 ## SEO Metadata
 
 - **Primary keyword:** Behandlungsdauer des multiplen Myeloms in China
+
+- **Meta title:** Wie lange dauert die Behandlung des multiplen Myeloms? Zyklen, Erhaltungstherapie und Zeit in China
+- **Meta description:** Myelombehandlung in China zeitlich planen: Zyklen, Zellsammlung, Transplantation, Erhaltung und Immunerholung als unterschiedliche Versorgungsphasen verstehen.

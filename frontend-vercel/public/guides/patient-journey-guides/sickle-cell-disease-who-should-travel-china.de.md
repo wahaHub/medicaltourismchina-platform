@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Wer sollte zur Sichelzellversorgung nach China reisen? Klinischer Nutzen, Stabilität und Aufnahmevereinbarungen
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Sichelzellkrankheit
-- **Subtitle:** Für Menschen mit Sichelzellkrankheit umfasst die Entscheidung über eine Behandlungsreise nach China mehr als die Frage, ob Fliegen möglich ist.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Wer sollte zur Sichelzellversorgung nach China reisen? Klinischer Nutzen, Stabilität und Aufnahmevereinbarungen
+- **Subtitle:** Eine Reise zur Sichelzellversorgung in China abwägen: konkreter Nutzen, aktuelle Stabilität, Flugbedingungen, Blutversorgung und klinische Übergabe prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,3 +152,6 @@ Neues Fieber, Brustschmerz, Atemnot, ausgeprägte Schwäche oder neurologische S
 ## SEO Metadata
 
 - **Primary keyword:** Reise nach China zur Behandlung der Sichelzellkrankheit
+
+- **Meta title:** Wer sollte zur Sichelzellversorgung nach China reisen? Klinischer Nutzen, Stabilität und Aufnahmevereinbarungen
+- **Meta description:** Eine Reise zur Sichelzellversorgung in China abwägen: konkreter Nutzen, aktuelle Stabilität, Flugbedingungen, Blutversorgung und klinische Übergabe prüfen.

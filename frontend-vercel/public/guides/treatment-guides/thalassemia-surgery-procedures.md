@@ -1,12 +1,14 @@
-# Surgery and procedures in thalassemia: decisions about the spleen, gallbladder, and other interventions
+# Thalassemia Surgery in China: Spleen, Gallbladder and Recovery
 
 ## Hero
 
-- **Title:** Surgery and procedures in thalassemia: decisions about the spleen, gallbladder, and other interventions
 - **Category:** Treatment Guides
 - **Subcategory:** Thalassemia
-- **Subtitle:** There is no general thalassemia operation that removes abnormal tissue and thereby corrects the inherited disorder.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Thalassemia Surgery in China: Spleen, Gallbladder and Recovery
+- **Subtitle:** Understand spleen, gallbladder and other procedures in thalassemia, including the purpose and postoperative coordination before travel to China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ Avoid basing an inflexible return journey only on an estimated wound-review date
 ## SEO Metadata
 
 - **Primary keyword:** surgery in thalassemia; splenectomy; gallstones; preoperative assessment; enlarged spleen
+
+- **Meta title:** Thalassemia Surgery in China: Spleen, Gallbladder and Recovery
+- **Meta description:** Understand spleen, gallbladder and other procedures in thalassemia, including the purpose and postoperative coordination before travel to China.

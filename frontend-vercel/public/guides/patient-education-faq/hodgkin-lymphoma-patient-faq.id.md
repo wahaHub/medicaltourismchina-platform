@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Limfoma Hodgkin: 20 Pertanyaan Pasien tentang Diagnosis, Pengobatan, dan Perawatan di Tiongkok
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Limfoma Hodgkin
-- **Subtitle:** Diagnosis limfoma Hodgkin dapat memperkenalkan banyak istilah asing dalam beberapa kunjungan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Limfoma Hodgkin: 20 Pertanyaan Pasien tentang Diagnosis, Pengobatan, dan Perawatan di Tiongkok
+- **Subtitle:** Siapkan konsultasi limfoma Hodgkin di Tiongkok melalui 20 pertanyaan tentang biopsi, stadium, PET, pengobatan, dan tindak lanjut.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -201,3 +203,6 @@ Sebelum pulang, identifikasi klinisi penerima dan penilaian berikutnya, serta se
 ## SEO Metadata
 
 - **Primary keyword:** pertanyaan pasien limfoma Hodgkin
+
+- **Meta title:** Limfoma Hodgkin: 20 Pertanyaan Pasien tentang Diagnosis, Pengobatan, dan Perawatan di Tiongkok
+- **Meta description:** Siapkan konsultasi limfoma Hodgkin di Tiongkok melalui 20 pertanyaan tentang biopsi, stadium, PET, pengobatan, dan tindak lanjut.

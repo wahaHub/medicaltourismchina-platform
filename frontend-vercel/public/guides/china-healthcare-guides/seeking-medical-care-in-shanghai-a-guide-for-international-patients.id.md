@@ -1,15 +1,17 @@
-# 022 Mencari Perawatan Medis di Shanghai: Panduan bagi Pasien Internasional
+# Perawatan Medis di Tiongkok: Panduan Pasien di Shanghai
 
 ## Hero
 
-- **Title:** Mencari Perawatan Medis di Shanghai: Panduan bagi Pasien Internasional
 - **Category:** Panduan Layanan Kesehatan Tiongkok
 - **Subcategory:** Memilih Tujuan Perawatan
-- **Subtitle:** Pilih jalur perawatan yang tepat, pastikan identitas paspor Anda berfungsi di seluruh janji temu, dan rencanakan bagian perawatan Shanghai yang berlangsung di luar ruang konsultasi.
 - **Reviewed by:** Tim Editorial Medora Health; peninjauan navigasi klinis dan asuransi Shanghai diperlukan sebelum publikasi
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Pengunjung internasional berbicara dengan dokter di samping koper dan pemandangan cakrawala Shanghai
+
+
+- **Title:** Perawatan Medis di Tiongkok: Panduan Pasien di Shanghai
+- **Subtitle:** Pilih jalur perawatan Shanghai, pesan dengan paspor, gunakan Suishenban dengan aman, konfirmasikan asuransi, dan bersiap untuk pemeriksaan, rekam, serta keadaan darurat 120.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -202,13 +204,15 @@ Tidak. Hubungi 120 untuk keadaan darurat medis. Shanghai 12345 menangani pertany
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-shanghai-a-guide-for-international-patients`
-- **Meta title:** Perawatan Medis di Shanghai bagi Pasien Internasional
-- **Meta description:** Pilih jalur perawatan Shanghai, pesan dengan paspor, gunakan Suishenban dengan aman, konfirmasikan asuransi, dan bersiap untuk pemeriksaan, rekam, serta keadaan darurat 120.
 - **Primary keyword:** perawatan medis di Shanghai bagi pasien internasional
 - **Pillar keyword:** layanan kesehatan di Tiongkok bagi pasien internasional
 - **Vertical keyword:** rumah sakit Shanghai bagi pasien asing
 - **Search intent:** navigasi perawatan / perencanaan janji temu
 - **Secondary keywords:** layanan medis internasional Shanghai; janji temu rumah sakit Suishenban; paspor asing rumah sakit Shanghai; keadaan darurat medis Shanghai 120
+
+
+- **Meta title:** Perawatan Medis di Tiongkok: Panduan Pasien di Shanghai
+- **Meta description:** Pilih jalur perawatan Shanghai, pesan dengan paspor, gunakan Suishenban dengan aman, konfirmasikan asuransi, dan bersiap untuk pemeriksaan, rekam, serta keadaan darurat 120.
 
 ## Sumber
 

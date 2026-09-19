@@ -1,15 +1,17 @@
-# 143 Prendre l’avion après une opération ou un traitement : l’autorisation dépend d’un profil de risque, pas d’une date
+# Prendre l’avion après une opération en Chine : avis médical et délai
 
 ## Hero
 
-- **Title:** Prendre l’avion après une opération ou un traitement : l’autorisation dépend d’un profil de risque, pas d’une date
 - **Category:** Guides du parcours patient
 - **Subcategory:** Aptitude au vol et voyage de retour
-- **Subtitle:** Le calendrier n’est qu’un élément. Les gaz piégés, la réserve en oxygène, le risque de caillots, les complications non résolues et la capacité à gérer une journée d’aéroport doivent tous être évalués.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un patient et son accompagnant discutent du voyage aérien après traitement avec un clinicien, près de bagages et d’une vue sur un avion.
+
+
+- **Title:** Prendre l’avion après une opération en Chine : avis médical et délai
+- **Subtitle:** Évaluez les gaz piégés, la réserve en oxygène, les risques de caillots et de complications, les capacités à l’aéroport et l’autorisation de la compagnie avant un vol après traitement.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -186,13 +188,15 @@ Une nouvelle douleur thoracique, un essoufflement, une perte de connaissance, un
 ## SEO Metadata
 
 - **Slug:** `when-is-it-safe-to-fly-after-surgery-or-treatment`
-- **Meta title:** Quand peut-on voler sans danger après une opération ? | Vérification en cinq points
-- **Meta description:** Évaluez les gaz piégés, la réserve en oxygène, les risques de caillots et de complications, les capacités à l’aéroport et l’autorisation de la compagnie avant un vol après traitement.
 - **Primary keyword:** prendre l’avion sans danger après une opération
 - **Pillar keyword:** voyage médical en Chine
 - **Vertical keyword:** aptitude au vol après traitement médical
 - **Search intent:** sécurité du voyage de retour / autorisation médicale
 - **Secondary keywords:** vol après chirurgie Chine ; certificat d’aptitude au vol ; voyage aérien après bulle de gaz rétinienne ; risque thromboembolique long vol chirurgie ; autorisation médicale compagnie aérienne
+
+
+- **Meta title:** Prendre l’avion après une opération en Chine : avis médical et délai
+- **Meta description:** Évaluez les gaz piégés, la réserve en oxygène, les risques de caillots et de complications, les capacités à l’aéroport et l’autorisation de la compagnie avant un vol après traitement.
 
 ## Sources
 

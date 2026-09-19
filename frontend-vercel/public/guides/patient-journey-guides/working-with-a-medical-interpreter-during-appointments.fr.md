@@ -1,15 +1,17 @@
-# 135 Interprètes médicaux en consultation : gardez le dialogue entre patient et clinicien
+# Recourir à un interprète médical en Chine | Guide de consultation
 
 ## Hero
 
-- **Title:** Interprètes médicaux en consultation : gardez le dialogue entre patient et clinicien
 - **Category:** Guides du parcours patient
 - **Subcategory:** Consultations avec interprète et sécurité de la communication
-- **Subtitle:** Une bonne consultation interprétée n’est pas trois conversations distinctes. Patient et clinicien se parlent tandis que l’interprète transmet chaque question, réserve, chiffre et incertitude d’une langue à l’autre.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Illustration éditoriale d’un patient et d’un accompagnant parlant à un clinicien par l’intermédiaire d’un interprète assis ; les rôles sont conceptuels et n’identifient aucun hôpital ni individu réel.
+
+
+- **Title:** Recourir à un interprète médical en Chine | Guide de consultation
+- **Subtitle:** Une bonne consultation interprétée n’est pas trois conversations distinctes. Patient et clinicien se parlent tandis que l’interprète transmet chaque question, réserve, chiffre et incertitude d’une langue à l’autre.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -183,13 +185,15 @@ Reformulez le diagnostic de travail, les changements médicamenteux, la prochain
 ## SEO Metadata
 
 - **Slug:** `working-with-a-medical-interpreter-during-appointments`
-- **Meta title:** Recourir à un interprète médical en Chine | Guide de consultation
-- **Meta description:** Organisez une consultation interprétée avec rôles clairs, interventions courtes, intervenants identifiés, médicaments vérifiés, reformulation et relevé décisionnel écrit.
 - **Primary keyword:** interprète médical consultation Chine
 - **Pillar keyword:** voyage médical en Chine
 - **Vertical keyword:** consultation médicale interprétée
 - **Search intent:** préparation de consultation / sécurité de la communication
 - **Secondary keywords:** interprète en santé Chine ; interprétation médicale en consultation ; reformulation avec interprète ; consentement médical traduit ; communication des patients internationaux
+
+
+- **Meta title:** Recourir à un interprète médical en Chine | Guide de consultation
+- **Meta description:** Organisez une consultation interprétée avec rôles clairs, interventions courtes, intervenants identifiés, médicaments vérifiés, reformulation et relevé décisionnel écrit.
 
 ## Sources
 

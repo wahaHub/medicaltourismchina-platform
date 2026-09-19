@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Dossier pour une consultation de lymphome de Hodgkin en Chine : anatomopathologie, images TEP et traitement réellement administré
 - **Category:** Guides du parcours patient
 - **Subcategory:** Lymphome de Hodgkin
-- **Subtitle:** La difficulté d’un dossier pour une consultation de lymphome de Hodgkin tient souvent aux liens entre les documents plutôt qu’à leur nombre.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dossier pour une consultation de lymphome de Hodgkin en Chine : anatomopathologie, images TEP et traitement réellement administré
+- **Subtitle:** Préparez une consultation de lymphome de Hodgkin en Chine avec l’anatomopathologie complète, les images TEP et la chronologie du traitement réellement reçu.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,3 +146,6 @@ Le dossier doit permettre au prochain médecin d’établir le fondement du diag
 ## SEO Metadata
 
 - **Primary keyword:** dossier médical pour une consultation de lymphome de Hodgkin en Chine
+
+- **Meta title:** Dossier pour une consultation de lymphome de Hodgkin en Chine : anatomopathologie, images TEP et traitement réellement administré
+- **Meta description:** Préparez une consultation de lymphome de Hodgkin en Chine avec l’anatomopathologie complète, les images TEP et la chronologie du traitement réellement reçu.

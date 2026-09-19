@@ -1,12 +1,14 @@
-# Tratamiento de primera línea de la anemia aplásica grave: trasplante o terapia basada en ATG
+# Anemia aplásica grave en China: opciones de tratamiento de primera línea
 
 ## Hero
 
-- **Title:** Tratamiento de primera línea de la anemia aplásica grave: trasplante o terapia basada en ATG
 - **Category:** Guías de tratamiento
 - **Subcategory:** Anemia aplásica
-- **Subtitle:** A un paciente con un diagnóstico reciente de anemia aplásica grave se le puede aconsejar un trasplante o iniciar un tratamiento médico basado en ATG.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Anemia aplásica grave en China: opciones de tratamiento de primera línea
+- **Subtitle:** Comprenda las decisiones iniciales de anemia aplásica grave en China: trasplante o terapia basada en globulina antitimocítica y planificación de los meses siguientes.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -111,3 +113,6 @@ Solicite un presupuesto en renminbi para la vía elegida. Para la inmunosupresi�
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento de primera línea de la anemia aplásica grave
+
+- **Meta title:** Anemia aplásica grave en China: opciones de tratamiento de primera línea
+- **Meta description:** Comprenda las decisiones iniciales de anemia aplásica grave en China: trasplante o terapia basada en globulina antitimocítica y planificación de los meses siguientes.

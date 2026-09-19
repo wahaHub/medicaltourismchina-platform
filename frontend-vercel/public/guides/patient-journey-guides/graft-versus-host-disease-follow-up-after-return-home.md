@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Follow-up after GVHD treatment in China: connecting tests, prescriptions, and organ care at home
 - **Category:** Patient Journey Guides
 - **Subcategory:** Graft Versus Host Disease
-- **Subtitle:** The main difficulty after returning home may be an unclear responsibility rather than a missing discharge letter.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Follow-up after GVHD treatment in China: connecting tests, prescriptions, and organ care at home
+- **Subtitle:** Coordinate GVHD care after returning from China with organ reviews, laboratory tests, prescriptions and a clear transplant-team handover.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ An effective return-home plan makes the next action, destination for results, re
 ## SEO Metadata
 
 - **Primary keyword:** follow-up after GVHD treatment in China
+
+- **Meta title:** Follow-up after GVHD treatment in China: connecting tests, prescriptions, and organ care at home
+- **Meta description:** Coordinate GVHD care after returning from China with organ reviews, laboratory tests, prescriptions and a clear transplant-team handover.

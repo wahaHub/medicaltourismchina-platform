@@ -1,15 +1,17 @@
-# Rehabilitation Before Returning Home: Transfer Function, Not Exercise Names
+# Returning Home After Rehabilitation in China: Care Handover
 
 ## Hero
 
-- **Title:** Rehabilitation Before Returning Home: Transfer Function, Not Exercise Names
 - **Category:** Patient Journey Guides
 - **Subcategory:** Cross-Border Rehabilitation Handover
-- **Subtitle:** A useful handover preserves what the patient can do, how it was measured, what is restricted, what comes next and who has accepted responsibility.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** A rehabilitation professional plans the next stage with an older patient beside a walker and exercise equipment.
+
+
+- **Title:** Returning Home After Rehabilitation in China: Care Handover
+- **Subtitle:** Transfer functional baselines, goals, exercise dose, equipment, caregiver skills and an accepted first appointment before returning home.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -220,13 +222,15 @@ Send purpose, manufacturer/model, dimensions or settings, weight rating, side, a
 ## SEO Metadata
 
 - **Slug:** `planning-rehabilitation-before-returning-home`
-- **Meta title:** Rehabilitation Handover Before Returning Home
-- **Meta description:** Transfer functional baselines, goals, exercise dose, equipment, caregiver skills and an accepted first appointment before returning home.
 - **Primary keyword:** rehabilitation plan before returning home
 - **Pillar keyword:** medical travel to China
 - **Vertical keyword:** cross-border rehabilitation handover
 - **Search intent:** continuity planning / rehabilitation transfer
 - **Secondary keywords:** rehabilitation discharge summary; functional handover; home rehabilitation equipment; international patient physiotherapy; caregiver rehab training
+
+
+- **Meta title:** Returning Home After Rehabilitation in China: Care Handover
+- **Meta description:** Transfer functional baselines, goals, exercise dose, equipment, caregiver skills and an accepted first appointment before returning home.
 
 ## Sources
 

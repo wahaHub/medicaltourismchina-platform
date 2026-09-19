@@ -1,12 +1,14 @@
-# Tests for suspected T-cell lymphoma: obtaining the right tissue and a usable diagnosis
+# T-Cell Lymphoma Diagnosis in China: Biopsy and Review
 
 ## Hero
 
-- **Title:** Tests for suspected T-cell lymphoma: obtaining the right tissue and a usable diagnosis
 - **Category:** Patient Education & FAQ
 - **Subcategory:** T Cell Lymphoma
-- **Subtitle:** The order of investigations should follow the questions that remain unanswered.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** T-Cell Lymphoma Diagnosis in China: Biopsy and Review
+- **Subtitle:** Learn why usable tissue and integrated pathology matter in T-cell lymphoma, and identify missing evidence before repeating investigations in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -113,3 +115,6 @@ At the final diagnostic discussion, distinguish established findings, meaningful
 ## SEO Metadata
 
 - **Primary keyword:** T-cell lymphoma diagnostic tests
+
+- **Meta title:** T-Cell Lymphoma Diagnosis in China: Biopsy and Review
+- **Meta description:** Learn why usable tissue and integrated pathology matter in T-cell lymphoma, and identify missing evidence before repeating investigations in China.

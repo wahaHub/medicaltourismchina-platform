@@ -1,15 +1,17 @@
-# 091 Radioterapia guiada por RM: cómo las imágenes en tiempo real apoyan el tratamiento
+# Radioterapia guiada por RM en China: planificación y seguridad
 
 ## Hero
 
-- **Title:** Radioterapia guiada por RM: cómo las imágenes en tiempo real apoyan el tratamiento
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Radioterapia guiada por imagen y adaptativa
-- **Subtitle:** Comprenda qué se visualiza, qué se adapta y qué debe seguir decidiendo el equipo.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Sala conceptual de radioterapia guiada por RM con un paciente colocado en un equipo integrado, imágenes transversales y un blanco terapéutico visible; no es una interfaz ni un plan de dosis reales.
+
+
+- **Title:** Radioterapia guiada por RM en China: planificación y seguridad
+- **Subtitle:** Conozca cómo la radioterapia guiada por RM utiliza imágenes de posicionamiento, RM cine, sincronización y adaptación en línea, además de evidencia, seguridad de RM, carga de las sesiones, garantía de calidad y registros.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,11 +137,13 @@ No. Puede permitir márgenes menores o mejor protección de órganos en determin
 ## SEO Metadata
 
 - **Slug:** `mr-guided-radiotherapy-how-real-time-imaging-supports-treatment`
-- **Meta title:** Radioterapia guiada por RM: imágenes en tiempo real y adaptación
-- **Meta description:** Conozca cómo la radioterapia guiada por RM utiliza imágenes de posicionamiento, RM cine, sincronización y adaptación en línea, además de evidencia, seguridad de RM, carga de las sesiones, garantía de calidad y registros.
 - **Primary keyword:** radioterapia guiada por RM
 - **Secondary keywords:** MR-Linac; radioterapia adaptativa en línea; radioterapia con RM en tiempo real; SBRT guiada por RM; sincronización de la radiación
 - **Search intent:** explicación tecnológica / planificación de radioterapia
+
+
+- **Meta title:** Radioterapia guiada por RM en China: planificación y seguridad
+- **Meta description:** Conozca cómo la radioterapia guiada por RM utiliza imágenes de posicionamiento, RM cine, sincronización y adaptación en línea, además de evidencia, seguridad de RM, carga de las sesiones, garantía de calidad y registros.
 
 ## Fuentes
 

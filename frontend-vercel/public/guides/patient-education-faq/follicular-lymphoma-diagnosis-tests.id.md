@@ -1,12 +1,14 @@
-# Tes untuk limfoma folikular: memilih biopsi, menetapkan stadium, dan mempersiapkan pengobatan dengan aman
+# Diagnosis Limfoma Folikular di Tiongkok: Biopsi dan Penentuan Stadium
 
 ## Hero
 
-- **Title:** Tes untuk limfoma folikular: memilih biopsi, menetapkan stadium, dan mempersiapkan pengobatan dengan aman
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Limfoma Folikular
-- **Subtitle:** Kelenjar leher yang membesar atau pemindaian yang menggambarkan beberapa kelenjar getah bening bengkak tidak menetapkan limfoma folikular.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnosis Limfoma Folikular di Tiongkok: Biopsi dan Penentuan Stadium
+- **Subtitle:** Pahami biopsi, pemeriksaan patologi, dan penentuan stadium limfoma folikular. Siapkan riwayat serta hasil untuk konsultasi diagnosis di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Transportasi spesimen, pemrosesan rutin, dan tes tambahan memiliki waktu penyele
 ## SEO Metadata
 
 - **Primary keyword:** tes limfoma folikular
+
+- **Meta title:** Diagnosis Limfoma Folikular di Tiongkok: Biopsi dan Penentuan Stadium
+- **Meta description:** Pahami biopsi, pemeriksaan patologi, dan penentuan stadium limfoma folikular. Siapkan riwayat serta hasil untuk konsultasi diagnosis di Tiongkok.

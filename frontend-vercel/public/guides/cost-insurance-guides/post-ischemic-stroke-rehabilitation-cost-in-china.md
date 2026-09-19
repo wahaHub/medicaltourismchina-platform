@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Stroke Rehabilitation Costs in China: Building an Itemized RMB Budget
 - **Category:** Cost & Insurance Guides
 - **Subcategory:** Post Ischemic Stroke Rehabilitation
-- **Subtitle:** The cost of stroke rehabilitation in China cannot be answered reliably by one monthly figure.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Stroke Rehabilitation Costs in China: Building an Itemized RMB Budget
+- **Subtitle:** Build an itemized stroke rehabilitation estimate in China around nursing needs, therapy, assessments, accommodation and the expected care setting.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -143,3 +145,6 @@ A useful cost opinion shows how spending relates to the individual's functional 
 ## SEO Metadata
 
 - **Primary keyword:** stroke rehabilitation cost in China
+
+- **Meta title:** Stroke Rehabilitation Costs in China: Building an Itemized RMB Budget
+- **Meta description:** Build an itemized stroke rehabilitation estimate in China around nursing needs, therapy, assessments, accommodation and the expected care setting.

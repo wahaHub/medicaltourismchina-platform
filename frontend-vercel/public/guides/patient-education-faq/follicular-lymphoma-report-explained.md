@@ -1,12 +1,14 @@
-# Reading a follicular lymphoma report: what pathology, PET and blood results can tell you
+# Follicular Lymphoma Reports: Preparing for Review in China
 
 ## Hero
 
-- **Title:** Reading a follicular lymphoma report: what pathology, PET and blood results can tell you
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Follicular Lymphoma
-- **Subtitle:** A pathology report names follicular lymphoma, a PET/CT describes several active nodes and a blood test marks LDH as high.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Follicular Lymphoma Reports: Preparing for Review in China
+- **Subtitle:** Read follicular lymphoma pathology, PET and blood results together, and organize original records for a diagnostic review in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Leave the results visit with three written elements: what is established, what r
 ## SEO Metadata
 
 - **Primary keyword:** follicular lymphoma report explained
+
+- **Meta title:** Follicular Lymphoma Reports: Preparing for Review in China
+- **Meta description:** Read follicular lymphoma pathology, PET and blood results together, and organize original records for a diagnostic review in China.

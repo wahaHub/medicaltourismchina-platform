@@ -1,15 +1,17 @@
-# 怎样选择成都医院：三种距离、两座机场与安全康复半径
+# 中国医院选择：成都院区、交通与恢复
 
 ## Hero
 
-- **Title:** 怎样选择成都医院：三种距离、两座机场与安全康复半径
 - **Category:** 医院指南
 - **Subcategory:** 成都就医规划
-- **Subtitle:** 把病历成熟度、实际治疗院区、机场和铁路交通，以及出院后真正休养的地点放在同一张图上判断。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 国际患者与陪同者规划成都就医的概念插图；画面中的城市轮廓、桥梁、医院及医疗图标并非真实院区、路线、能力或推荐。
+
+
+- **Title:** 中国医院选择：成都院区、交通与恢复
+- **Subtitle:** 从病例审阅、医生和院区核验、护照与语言流程，到天府或双流交通、康复半径、急救及后续高原旅行，系统规划成都就医。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -167,13 +169,15 @@
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-chengdu-specialties-access-and-travel`
-- **Meta title:** 成都选院指南：院区、两座机场与康复半径
-- **Meta description:** 从病例审阅、医生和院区核验、护照与语言流程，到天府或双流交通、康复半径、急救及后续高原旅行，系统规划成都就医。
 - **Primary keyword:** 成都怎么选医院
 - **Pillar keyword:** 成都国际患者医院
 - **Vertical keyword:** 成都医院院区机场就医交通
 - **Search intent:** 医院比较 / 成都医疗旅行规划
 - **Secondary keywords:** 成都国际医疗；成都天府机场医院交通；成都双流医疗旅行；成都医院院区；成都医疗口译；成都120
+
+
+- **Meta title:** 中国医院选择：成都院区、交通与恢复
+- **Meta description:** 从病例审阅、医生和院区核验、护照与语言流程，到天府或双流交通、康复半径、急救及后续高原旅行，系统规划成都就医。
 
 ## Sources
 

@@ -1,15 +1,17 @@
-# Seeking Medical Care in Guangzhou: A Guide for International Patients
+# Medical Care in China: Guangzhou Patient Guide
 
 ## Hero
 
-- **Title:** Seeking Medical Care in Guangzhou: A Guide for International Patients
 - **Category:** China Healthcare Guides
 - **Subcategory:** Choosing a Care Destination
-- **Subtitle:** A city-specific route through Guangzhou appointments, passport registration, test-result follow-up, language support and emergency care.
 - **Reviewed by:** Medora Health Editorial Team; Guangzhou hospital-navigation and clinical review required before publication
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** An international patient meets a doctor with luggage and the Guangzhou skyline nearby
+
+
+- **Title:** Medical Care in China: Guangzhou Patient Guide
+- **Subtitle:** Use Guangzhou Health Link with a passport, verify hospitals, arrange interpretation, understand three-day follow-up and prepare for 120 emergencies.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -193,13 +195,15 @@ Call 120 and state the exact location and patient condition. Guangzhou’s inter
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-guangzhou-a-guide-for-international-patients`
-- **Meta title:** Medical Care in Guangzhou for International Patients
-- **Meta description:** Use Guangzhou Health Link with a passport, verify hospitals, arrange interpretation, understand three-day follow-up and prepare for 120 emergencies.
 - **Primary keyword:** medical care in Guangzhou for international patients
 - **Pillar keyword:** healthcare in China for international patients
 - **Vertical keyword:** Guangzhou hospital appointment for foreigners
 - **Search intent:** appointment and city-care planning
 - **Secondary keywords:** Guangzhou Health Link passport; Guangzhou hospital international patient; Guangzhou three-day follow-up; Guangzhou ambulance 120
+
+
+- **Meta title:** Medical Care in China: Guangzhou Patient Guide
+- **Meta description:** Use Guangzhou Health Link with a passport, verify hospitals, arrange interpretation, understand three-day follow-up and prepare for 120 emergencies.
 
 ## Sources
 

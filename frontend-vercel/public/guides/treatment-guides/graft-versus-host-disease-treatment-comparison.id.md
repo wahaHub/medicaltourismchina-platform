@@ -1,12 +1,14 @@
-# Membandingkan Pengobatan GVHD: Manfaat yang Dapat Ditawarkan Steroid, Obat Bertarget, Fotoferesis, dan Produk Sel
+# Pilihan Pengobatan GVHD di Tiongkok: Membandingkan Manfaat dan Keterbatasan
 
 ## Hero
 
-- **Title:** Membandingkan Pengobatan GVHD: Manfaat yang Dapat Ditawarkan Steroid, Obat Bertarget, Fotoferesis, dan Produk Sel
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Graft Versus Host
-- **Subtitle:** Keluarga yang membandingkan pengobatan penyakit graft-versus-host mungkin menerima beberapa rekomendasi yang tampaknya saling bersaing.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pilihan Pengobatan GVHD di Tiongkok: Membandingkan Manfaat dan Keterbatasan
+- **Subtitle:** Bandingkan terapi GVHD di Tiongkok menurut organ, fase penyakit, serta tujuan. Pahami peran pengobatan lokal, steroid, obat bertarget, dan fotoferesis.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ Sebelum memilih di antara usulan tertulis, minta setiap tim menyatakan alasan ut
 ## SEO Metadata
 
 - **Primary keyword:** perbandingan pengobatan GVHD di Tiongkok
+
+- **Meta title:** Pilihan Pengobatan GVHD di Tiongkok: Membandingkan Manfaat dan Keterbatasan
+- **Meta description:** Bandingkan terapi GVHD di Tiongkok menurut organ, fase penyakit, serta tujuan. Pahami peran pengobatan lokal, steroid, obat bertarget, dan fotoferesis.

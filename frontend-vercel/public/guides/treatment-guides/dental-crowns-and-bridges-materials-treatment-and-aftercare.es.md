@@ -1,15 +1,17 @@
-# 060 Coronas y puentes dentales: materiales, tratamiento y cuidados posteriores
+# Coronas y puentes dentales en China: materiales y cuidados posteriores
 
 ## Hero
 
-- **Title:** Coronas y puentes dentales: materiales, tratamiento y cuidados posteriores
 - **Category:** Guías de tratamiento
 - **Subcategory:** Salud dental y bucal
-- **Subtitle:** Decida si un diente necesita recubrimiento completo, compare diseños de puentes y valore el trabajo terminado por su ajuste, función y facilidad de mantenimiento, no solo por las etiquetas de materiales.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un dentista explica un puente dental de tres unidades y muestras de materiales de coronas a un paciente internacional
+
+
+- **Title:** Coronas y puentes dentales en China: materiales y cuidados posteriores
+- **Subtitle:** Compare coronas, puentes convencionales y adhesivos, diseño en dientes endodonciados, materiales cerámicos y metálicos, controles de ajuste, riesgos y mantenimiento en el extranjero.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -158,13 +160,15 @@ Un cepillo ordinario no puede llegar a la parte inferior. Utilice el enhebrador,
 ## SEO Metadata
 
 - **Slug:** `dental-crowns-and-bridges-materials-treatment-and-aftercare`
-- **Meta title:** Coronas y puentes dentales | Materiales y cuidados posteriores
-- **Meta description:** Compare coronas, puentes convencionales y adhesivos, diseño en dientes endodonciados, materiales cerámicos y metálicos, controles de ajuste, riesgos y mantenimiento en el extranjero.
 - **Primary keyword:** coronas y puentes dentales
 - **Pillar keyword:** tratamiento dental en China
 - **Vertical keyword:** odontología restauradora para pacientes internacionales
 - **Search intent:** comparación de tratamientos / planificación de cuidados posteriores
 - **Secondary keywords:** corona dental China; puente dental China; corona de zirconia; corona de porcelana sobre metal; puente adhesivo; cuidados de coronas; limpieza de puentes
+
+
+- **Meta title:** Coronas y puentes dentales en China: materiales y cuidados posteriores
+- **Meta description:** Compare coronas, puentes convencionales y adhesivos, diseño en dientes endodonciados, materiales cerámicos y metálicos, controles de ajuste, riesgos y mantenimiento en el extranjero.
 
 ## Fuentes
 

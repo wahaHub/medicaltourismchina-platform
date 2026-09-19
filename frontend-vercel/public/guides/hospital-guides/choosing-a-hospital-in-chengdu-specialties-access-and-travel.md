@@ -1,15 +1,17 @@
-# Choosing a Hospital in Chengdu: Three Distances, Two Airports, and a Safe Recovery Radius
+# Choosing a Hospital in China: Chengdu Care and Recovery
 
 ## Hero
 
-- **Title:** Choosing a Hospital in Chengdu: Three Distances, Two Airports, and a Safe Recovery Radius
 - **Category:** Hospital Guides
 - **Subcategory:** Chengdu Care Planning
-- **Subtitle:** A city-specific way to connect case readiness, the actual treatment campus, airport and rail access, and the place where recovery will happen.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Conceptual illustration of international travellers planning medical care in Chengdu; the skyline, bridge, hospital and clinical icons do not depict a real hospital campus, route, capability or endorsement.
+
+
+- **Title:** Choosing a Hospital in China: Chengdu Care and Recovery
+- **Subtitle:** Choose a Chengdu hospital by verifying case review, doctor and campus, passport and language workflow, Tianfu or Shuangliu access, recovery radius, emergency care, and onward altitude travel.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -167,13 +169,15 @@ A written clinical response should identify the files reviewed, the question bei
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-chengdu-specialties-access-and-travel`
-- **Meta title:** Choosing a Chengdu Hospital: Campuses, Airports, and Recovery
-- **Meta description:** Choose a Chengdu hospital by verifying case review, doctor and campus, passport and language workflow, Tianfu or Shuangliu access, recovery radius, emergency care, and onward altitude travel.
 - **Primary keyword:** choosing a hospital in Chengdu
 - **Pillar keyword:** Chengdu hospitals for international patients
 - **Vertical keyword:** Chengdu hospital campuses airports travel
 - **Search intent:** hospital comparison / Chengdu medical travel planning
 - **Secondary keywords:** Chengdu international hospital; Chengdu Tianfu hospital transfer; Chengdu Shuangliu medical travel; Chengdu hospital campus; Chengdu medical interpreter; Chengdu 120
+
+
+- **Meta title:** Choosing a Hospital in China: Chengdu Care and Recovery
+- **Meta description:** Choose a Chengdu hospital by verifying case review, doctor and campus, passport and language workflow, Tianfu or Shuangliu access, recovery radius, emergency care, and onward altitude travel.
 
 ## Sources
 

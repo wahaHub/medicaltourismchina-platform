@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Dossier médical pour les soins de Parkinson en Chine : montrer les symptômes, la réponse médicamenteuse et les interventions antérieures
 - **Category:** Guides du parcours patient
 - **Subcategory:** Maladie de Parkinson
-- **Subtitle:** Préparer le dossier de Parkinson consiste à aider une nouvelle équipe à comprendre comment les symptômes se sont développés, quels traitements ont réellement été essayés et ce que le patient souhaite maintenant prendre en charge.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dossier médical pour les soins de Parkinson en Chine : montrer les symptômes, la réponse médicamenteuse et les interventions antérieures
+- **Subtitle:** Préparez une consultation Parkinson en Chine avec les symptômes, les doses réellement prises, les réponses aux médicaments et les conditions des évaluations.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ Le médecin au pays a besoin d’un récit traçable de ce qui a été constaté
 ## SEO Metadata
 
 - **Primary keyword:** dossier médical pour le traitement de Parkinson en Chine
+
+- **Meta title:** Dossier médical pour les soins de Parkinson en Chine : montrer les symptômes, la réponse médicamenteuse et les interventions antérieures
+- **Meta description:** Préparez une consultation Parkinson en Chine avec les symptômes, les doses réellement prises, les réponses aux médicaments et les conditions des évaluations.

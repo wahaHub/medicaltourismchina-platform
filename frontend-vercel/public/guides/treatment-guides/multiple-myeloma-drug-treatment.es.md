@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Medicamentos para el mieloma múltiple: comprender la prescripción y organizar el tratamiento en China
 - **Category:** Guías de tratamiento
 - **Subcategory:** Mieloma múltiple
-- **Subtitle:** Una prescripción para el mieloma suele contener varios medicamentos anticancerosos, medicamentos preventivos y un corticoide, con distintos días de tratamiento para cada uno.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medicamentos para el mieloma múltiple: comprender la prescripción y organizar el tratamiento en China
+- **Subtitle:** Comprenda la pauta completa de mieloma múltiple y los controles específicos de cada clase de fármaco al organizar tratamiento y seguimiento en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Solicite un calendario escrito, las pruebas necesarias antes de cada decisión y
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento farmacológico del mieloma múltiple en China
+
+- **Meta title:** Medicamentos para el mieloma múltiple: comprender la prescripción y organizar el tratamiento en China
+- **Meta description:** Comprenda la pauta completa de mieloma múltiple y los controles específicos de cada clase de fármaco al organizar tratamiento y seguimiento en China.

@@ -1,12 +1,14 @@
-# Procedures and surgery in multiple myeloma: sampling, cell collection, and skeletal stability
+# Myeloma Procedures in China: Sampling, Cell Collection and Bone Care
 
 ## Hero
 
-- **Title:** Procedures and surgery in multiple myeloma: sampling, cell collection, and skeletal stability
 - **Category:** Treatment Guides
 - **Subcategory:** Multiple Myeloma
-- **Subtitle:** Myeloma care may involve a marrow biopsy, cell collection, a catheter, vertebral augmentation, or fracture fixation.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Myeloma Procedures in China: Sampling, Cell Collection and Bone Care
+- **Subtitle:** Understand myeloma sampling, cell collection and bone-stability procedures, with preparation and follow-up questions before receiving care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ The central question is what specific problem the procedure can solve, which alt
 ## SEO Metadata
 
 - **Primary keyword:** multiple myeloma surgery and autologous transplant procedures
+
+- **Meta title:** Myeloma Procedures in China: Sampling, Cell Collection and Bone Care
+- **Meta description:** Understand myeloma sampling, cell collection and bone-stability procedures, with preparation and follow-up questions before receiving care in China.

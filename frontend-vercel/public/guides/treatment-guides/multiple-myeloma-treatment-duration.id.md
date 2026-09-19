@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Berapa lama pengobatan mieloma multipel berlangsung? Siklus, pemeliharaan, dan waktu di Tiongkok
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Mieloma Multipel
-- **Subtitle:** Durasi rawat inap dan durasi pengobatan mieloma merupakan pertanyaan berbeda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Berapa lama pengobatan mieloma multipel berlangsung? Siklus, pemeliharaan, dan waktu di Tiongkok
+- **Subtitle:** Rencanakan pengobatan mieloma di Tiongkok dengan membedakan siklus, pengumpulan sel, transplantasi, dan pemeliharaan dari lama rawat inap.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Pastikan dengan dokter di negara asal obat dan tes mana tepatnya yang dapat dila
 ## SEO Metadata
 
 - **Primary keyword:** durasi pengobatan mieloma multipel di Tiongkok
+
+- **Meta title:** Berapa lama pengobatan mieloma multipel berlangsung? Siklus, pemeliharaan, dan waktu di Tiongkok
+- **Meta description:** Rencanakan pengobatan mieloma di Tiongkok dengan membedakan siklus, pengumpulan sel, transplantasi, dan pemeliharaan dari lama rawat inap.

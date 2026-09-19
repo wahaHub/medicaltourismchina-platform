@@ -1,15 +1,17 @@
-# 145 Rehabilitación antes de volver a casa: transmita la capacidad funcional, no los nombres de los ejercicios
+# Regresar a casa después de la rehabilitación en China: traspaso de la atención
 
 ## Hero
 
-- **Title:** Rehabilitación antes de volver a casa: transmita la capacidad funcional, no los nombres de los ejercicios
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Transferencia transfronteriza de la atención rehabilitadora
-- **Subtitle:** Una transferencia útil conserva lo que el paciente puede hacer, cómo se midió, qué está restringido, qué viene después y quién ha aceptado la responsabilidad.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un profesional de rehabilitación planifica la siguiente etapa con un paciente mayor junto a un andador y equipo de ejercicios.
+
+
+- **Title:** Regresar a casa después de la rehabilitación en China: traspaso de la atención
+- **Subtitle:** Transfiera las referencias funcionales, los objetivos, la dosis de ejercicio, el equipo, las habilidades del cuidador y una primera cita aceptada antes de volver a casa.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -225,13 +227,15 @@ Cuando un servicio receptor identificado confirma la recepción, acepta la respo
 ## SEO Metadata
 
 - **Slug:** `planning-rehabilitation-before-returning-home`
-- **Meta title:** Transferencia de la atención rehabilitadora antes de volver a casa
-- **Meta description:** Transfiera las referencias funcionales, los objetivos, la dosis de ejercicio, el equipo, las habilidades del cuidador y una primera cita aceptada antes de volver a casa.
 - **Primary keyword:** plan de rehabilitación antes de volver a casa
 - **Pillar keyword:** viaje médico a China
 - **Vertical keyword:** transferencia transfronteriza de la atención rehabilitadora
 - **Search intent:** planificación de continuidad / transferencia de rehabilitación
 - **Secondary keywords:** informe de alta de rehabilitación; transferencia de información funcional; equipo de rehabilitación domiciliaria; fisioterapia del paciente internacional; formación del cuidador en rehabilitación
+
+
+- **Meta title:** Regresar a casa después de la rehabilitación en China: traspaso de la atención
+- **Meta description:** Transfiera las referencias funcionales, los objetivos, la dosis de ejercicio, el equipo, las habilidades del cuidador y una primera cita aceptada antes de volver a casa.
 
 ## Fuentes
 

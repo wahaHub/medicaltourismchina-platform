@@ -1,12 +1,14 @@
-# Radiation for follicular lymphoma: localized treatment, low-dose palliation and repeat irradiation
+# Follicular Lymphoma Radiotherapy in China: Purpose and Planning
 
 ## Hero
 
-- **Title:** Radiation for follicular lymphoma: localized treatment, low-dose palliation and repeat irradiation
 - **Category:** Treatment Guides
 - **Subcategory:** Follicular Lymphoma
-- **Subtitle:** Follicular lymphoma is often sensitive to radiation, but sensitivity does not determine the dose, field or need for systemic medicine.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Follicular Lymphoma Radiotherapy in China: Purpose and Planning
+- **Subtitle:** Distinguish follicular lymphoma radiation goals, low-dose palliation and repeat treatment, and plan a China course around the actual indication.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ The stay needs to allow consultation, simulation, plan review, treatment and rel
 ## SEO Metadata
 
 - **Primary keyword:** follicular lymphoma radiation therapy
+
+- **Meta title:** Follicular Lymphoma Radiotherapy in China: Purpose and Planning
+- **Meta description:** Distinguish follicular lymphoma radiation goals, low-dose palliation and repeat treatment, and plan a China course around the actual indication.

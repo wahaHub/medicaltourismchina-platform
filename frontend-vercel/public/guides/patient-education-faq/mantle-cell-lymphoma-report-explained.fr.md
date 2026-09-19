@@ -1,12 +1,14 @@
-# Lire un compte rendu de lymphome à cellules du manteau : comprendre la cycline D1, SOX11, Ki-67 et TP53
+# Comptes rendus du lymphome du manteau : préparer une relecture en Chine
 
 ## Hero
 
-- **Title:** Lire un compte rendu de lymphome à cellules du manteau : comprendre la cycline D1, SOX11, Ki-67 et TP53
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Lymphome à cellules du manteau
-- **Subtitle:** Recherches associées : cycline D1 positive ; Ki-67 du LCM ; mutation TP53 dans le lymphome à cellules du manteau
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Comptes rendus du lymphome du manteau : préparer une relecture en Chine
+- **Subtitle:** Lisez les résultats du lymphome du manteau avec leur contexte : prélèvement, cycline D1, SOX11, Ki-67 et TP53. Préparez une relecture en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -143,3 +145,6 @@ Gardez les comptes rendus originaux et traduits reliés. Les mots positif, néga
 ## SEO Metadata
 
 - **Primary keyword:** compte rendu anatomopathologique du lymphome à cellules du manteau
+
+- **Meta title:** Comptes rendus du lymphome du manteau : préparer une relecture en Chine
+- **Meta description:** Lisez les résultats du lymphome du manteau avec leur contexte : prélèvement, cycline D1, SOX11, Ki-67 et TP53. Préparez une relecture en Chine.

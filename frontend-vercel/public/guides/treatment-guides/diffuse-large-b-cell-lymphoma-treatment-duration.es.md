@@ -1,12 +1,14 @@
-# Cuánto dura el tratamiento del LDCBG: ciclos, evaluación y tiempo lejos de casa
+# Tratamiento del LDCBG en China: ciclos, revisiones y duración de la estancia
 
 ## Hero
 
-- **Title:** Cuánto dura el tratamiento del LDCBG: ciclos, evaluación y tiempo lejos de casa
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma difuso de células B grandes
-- **Subtitle:** El tiempo de tratamiento del LDCBG abarca más que el número de días de infusión.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento del LDCBG en China: ciclos, revisiones y duración de la estancia
+- **Subtitle:** Organice el tratamiento del linfoma difuso de células B grandes en China con ciclos, recuperación y controles de respuesta antes de fijar la estancia.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ En el calendario familiar, marque una fecha como provisional o confirmada y escr
 ## SEO Metadata
 
 - **Primary keyword:** duración del tratamiento del LDCBG
+
+- **Meta title:** Tratamiento del LDCBG en China: ciclos, revisiones y duración de la estancia
+- **Meta description:** Organice el tratamiento del linfoma difuso de células B grandes en China con ciclos, recuperación y controles de respuesta antes de fijar la estancia.

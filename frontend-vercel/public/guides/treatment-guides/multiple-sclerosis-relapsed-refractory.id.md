@@ -1,12 +1,14 @@
-# Kekambuhan atau respons tidak memadai pada sklerosis multipel: menangani episode dan keputusan pengobatan berikutnya
+# Sklerosis Multipel Kambuh atau Kurang Merespons: Penilaian Ulang dan Perawatan di Tiongkok
 
 ## Hero
 
-- **Title:** Kekambuhan atau respons tidak memadai pada sklerosis multipel: menangani episode dan keputusan pengobatan berikutnya
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Sklerosis Multipel
-- **Subtitle:** Penglihatan kabur, kelemahan, atau kebas yang baru meskipun obat diminum teratur dapat membuat pengobatan sebelumnya terasa sia-sia.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sklerosis Multipel Kambuh atau Kurang Merespons: Penilaian Ulang dan Perawatan di Tiongkok
+- **Subtitle:** Siapkan penilaian sklerosis multipel yang kambuh atau kurang merespons di Tiongkok. Catat waktu, perubahan fungsi, pemicu, dan riwayat obat.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Serah terima akhir setelah episode harus memuat kronologinya, temuan infeksi, pe
 ## SEO Metadata
 
 - **Primary keyword:** sklerosis multipel kambuh dan resistan terhadap pengobatan
+
+- **Meta title:** Sklerosis Multipel Kambuh atau Kurang Merespons: Penilaian Ulang dan Perawatan di Tiongkok
+- **Meta description:** Siapkan penilaian sklerosis multipel yang kambuh atau kurang merespons di Tiongkok. Catat waktu, perubahan fungsi, pemicu, dan riwayat obat.

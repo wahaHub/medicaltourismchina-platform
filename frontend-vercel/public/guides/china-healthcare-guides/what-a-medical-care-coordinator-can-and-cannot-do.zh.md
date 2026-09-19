@@ -1,15 +1,17 @@
-# 医疗协调员可以做什么、不能做什么
+# 中国医疗协调员：服务范围与职责边界
 
 ## Hero
 
-- **Title:** 医疗协调员可以做什么、不能做什么
 - **Category:** 中国医疗指南
 - **Subcategory:** 患者协调与风险防范
-- **Subtitle:** 好的协调员负责扫清行政障碍、维持信息传递，却不会把自己变成医生、口译员、保险公司或患者的决策者。
 - **Reviewed by:** Medora Health 编辑团队；发布前需完成临床治理、合同和隐私审核
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 协调员向患者说明自己能够提供的实际服务以及必须由专业人员负责的临床事项
+
+
+- **Title:** 中国医疗协调员：服务范围与职责边界
+- **Subtitle:** 了解中国医疗协调员的职责边界，核实佣金、付款、隐私和资质，并让诊断、知情同意与治疗决定回到注册临床人员手中。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -207,13 +209,15 @@
 ## SEO Metadata
 
 - **Slug:** `what-a-medical-care-coordinator-can-and-cannot-do`
-- **Meta title:** 医疗协调员可以做什么、不能做什么
-- **Meta description:** 了解中国医疗协调员的职责边界，核实佣金、付款、隐私和资质，并让诊断、知情同意与治疗决定回到注册临床人员手中。
 - **Primary keyword:** 中国医疗协调员
 - **Pillar keyword:** 国际患者在中国就医
 - **Vertical keyword:** 医疗旅行协调员职责
 - **Search intent:** 信息查询 / 服务尽职调查
 - **Secondary keywords:** 中国患者协调员；医疗旅行中介；医院协调员职责
+
+
+- **Meta title:** 中国医疗协调员：服务范围与职责边界
+- **Meta description:** 了解中国医疗协调员的职责边界，核实佣金、付款、隐私和资质，并让诊断、知情同意与治疗决定回到注册临床人员手中。
 
 ## Sources
 

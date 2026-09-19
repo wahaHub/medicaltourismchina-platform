@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Tratamiento de la ELA en China: medicamentos, apoyo respiratorio y cuidados cotidianos
 - **Category:** Guías de tratamiento
 - **Subcategory:** Esclerosis lateral amiotrófica
-- **Subtitle:** La esclerosis lateral amiotrófica, o ELA, afecta a las neuronas motoras que controlan el movimiento voluntario.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento de la ELA en China: medicamentos, apoyo respiratorio y cuidados cotidianos
+- **Subtitle:** Conozca las decisiones de atención de la ELA en China: revisión diagnóstica, medicación, apoyo respiratorio y cuidados cotidianos coordinados por un equipo.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Solicite costes por separado para evaluación, medicamentos, procedimientos, dis
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento de la esclerosis lateral amiotrófica en China
+
+- **Meta title:** Tratamiento de la ELA en China: medicamentos, apoyo respiratorio y cuidados cotidianos
+- **Meta description:** Conozca las decisiones de atención de la ELA en China: revisión diagnóstica, medicación, apoyo respiratorio y cuidados cotidianos coordinados por un equipo.

@@ -1,15 +1,17 @@
-# Seeking Medical Care in Beijing: A Practical Guide for International Patients
+# Medical Care in China: Beijing Patient Guide
 
 ## Hero
 
-- **Title:** Seeking Medical Care in Beijing: A Practical Guide for International Patients
 - **Category:** China Healthcare Guides
 - **Subcategory:** Choosing a Care Destination
-- **Subtitle:** Choose the right Beijing service line, confirm the exact campus, and arrive with an appointment that matches both the medical problem and the patient’s language needs.
 - **Reviewed by:** Medora Health Editorial Team; local clinical and operations review required before publication
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** An international patient and companion meet a clinician with the Beijing skyline beyond the window
+
+
+- **Title:** Medical Care in China: Beijing Patient Guide
+- **Subtitle:** A practical Beijing medical-care guide covering hospital and campus selection, English appointment routes, passports, payment, emergencies and follow-up.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -178,13 +180,15 @@ Only after confirming that the appointment and service exist there. Campuses can
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-beijing-a-guide-for-international-patients`
-- **Meta title:** Medical Care in Beijing for International Patients
-- **Meta description:** A practical Beijing medical-care guide covering hospital and campus selection, English appointment routes, passports, payment, emergencies and follow-up.
 - **Primary keyword:** medical care in Beijing for international patients
 - **Pillar keyword:** healthcare in China for international patients
 - **Vertical keyword:** Beijing hospital appointment for foreigners
 - **Search intent:** practical planning / hospital navigation
 - **Secondary keywords:** Beijing 114 English appointment; Beijing international medical services; foreign patient hospital Beijing; Beijing medical emergency 120
+
+
+- **Meta title:** Medical Care in China: Beijing Patient Guide
+- **Meta description:** A practical Beijing medical-care guide covering hospital and campus selection, English appointment routes, passports, payment, emergencies and follow-up.
 
 ## Sources
 

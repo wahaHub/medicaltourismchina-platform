@@ -1,15 +1,17 @@
-# 013 Menggunakan Aplikasi Rumah Sakit dan WeChat Selama Perawatan Medis di Tiongkok
+# Aplikasi Rumah Sakit dan WeChat di Tiongkok: Panduan Keselamatan Pasien
 
 ## Hero
 
-- **Title:** Menggunakan Aplikasi Rumah Sakit dan WeChat Selama Perawatan Medis di Tiongkok
 - **Category:** Panduan Layanan Kesehatan Tiongkok
 - **Subcategory:** Layanan Pasien Digital
-- **Subtitle:** Cara praktis menyiapkan pendaftaran, pembayaran, hasil, dan tindak lanjut tanpa membiarkan ketidakcocokan identitas atau akun tidak resmi mengganggu kunjungan.
 - **Reviewed by:** Tim Editorial Medora Health; tinjauan layanan digital dan privasi diperlukan sebelum publikasi
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Petugas meja layanan rumah sakit membantu pasien internasional menggunakan program mini rumah sakit di ponsel
+
+
+- **Title:** Aplikasi Rumah Sakit dan WeChat di Tiongkok: Panduan Keselamatan Pasien
+- **Subtitle:** Siapkan aplikasi rumah sakit Tiongkok atau program mini WeChat untuk janji temu, pembayaran, dan hasil sambil menghindari masalah identitas, privasi, dan akses.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -199,13 +201,15 @@ Mungkin, tetapi identitas pasien dalam rekam klinis harus tetap akurat. Tetapkan
 ## SEO Metadata
 
 - **Slug:** `using-hospital-apps-and-wechat-during-medical-care-in-china`
-- **Meta title:** Menggunakan Aplikasi Rumah Sakit Tiongkok dan WeChat dengan Aman
-- **Meta description:** Siapkan aplikasi rumah sakit Tiongkok atau program mini WeChat untuk janji temu, pembayaran, dan hasil sambil menghindari masalah identitas, privasi, dan akses.
 - **Primary keyword:** aplikasi rumah sakit Tiongkok untuk warga asing
 - **Pillar keyword:** layanan kesehatan di Tiongkok untuk pasien internasional
 - **Vertical keyword:** menggunakan WeChat di rumah sakit Tiongkok
 - **Search intent:** informasional / persiapan kunjungan
 - **Secondary keywords:** program mini rumah sakit Tiongkok; janji temu rumah sakit WeChat; pembayaran seluler rumah sakit Tiongkok
+
+
+- **Meta title:** Aplikasi Rumah Sakit dan WeChat di Tiongkok: Panduan Keselamatan Pasien
+- **Meta description:** Siapkan aplikasi rumah sakit Tiongkok atau program mini WeChat untuk janji temu, pembayaran, dan hasil sambil menghindari masalah identitas, privasi, dan akses.
 
 ## Sumber
 

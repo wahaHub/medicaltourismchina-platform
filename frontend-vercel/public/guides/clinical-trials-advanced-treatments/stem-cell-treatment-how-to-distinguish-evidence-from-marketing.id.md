@@ -1,15 +1,17 @@
-# 084 Pengobatan Sel Punca: Cara Membedakan Bukti dari Pemasaran
+# Pengobatan Sel Punca di Tiongkok: Bukti dan Tanda Bahaya
 
 ## Hero
 
-- **Title:** Pengobatan Sel Punca: Cara Membedakan Bukti dari Pemasaran
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Kedokteran Sel, Gen & Regeneratif
-- **Subtitle:** Identifikasi sel, bukti khusus penyakit, jalur regulasi Tiongkok, kendali produksi, dan tindak lanjut sebelum menerima klaim kedokteran regeneratif.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustrasi editorial yang membandingkan klaim sel punca dengan pemeriksaan keselamatan, tinjauan bukti, dan pemasaran; bukan gambar sel, persetujuan regulator, atau hasil pengobatan.
+
+
+- **Title:** Pengobatan Sel Punca di Tiongkok: Bukti dan Tanda Bahaya
+- **Subtitle:** Periksa klaim pengobatan sel punca berdasarkan identitas produk, jalur regulasi Tiongkok, bukti khusus penyakit, mutu batch, risiko, biaya, dan tindak lanjut.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -173,11 +175,13 @@ Tidak ada satu lencana tunggal. Kredibilitas berasal dari rangkaian konsisten: d
 ## SEO Metadata
 
 - **Slug:** `stem-cell-treatment-how-to-distinguish-evidence-from-marketing`
-- **Meta title:** Pengobatan Sel Punca: Bukti, Persetujuan, dan Tanda Bahaya
-- **Meta description:** Periksa klaim pengobatan sel punca berdasarkan identitas produk, jalur regulasi Tiongkok, bukti khusus penyakit, mutu batch, risiko, biaya, dan tindak lanjut.
 - **Primary keyword:** bukti pengobatan sel punca
 - **Secondary keywords:** pengobatan sel punca Tiongkok; terapi sel punca belum terbukti; uji sel punca Tiongkok; persetujuan sel punca NMPA; tanda bahaya kedokteran regeneratif
 - **Search intent:** verifikasi pengobatan / tinjauan bukti dan keselamatan
+
+
+- **Meta title:** Pengobatan Sel Punca di Tiongkok: Bukti dan Tanda Bahaya
+- **Meta description:** Periksa klaim pengobatan sel punca berdasarkan identitas produk, jalur regulasi Tiongkok, bukti khusus penyakit, mutu batch, risiko, biaya, dan tindak lanjut.
 
 ## Sumber
 

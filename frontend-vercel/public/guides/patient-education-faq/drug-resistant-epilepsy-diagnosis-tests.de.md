@@ -1,12 +1,14 @@
-# Untersuchungen bei medikamentenresistenter Epilepsie: Ereignisse bestätigen, Ursachen untersuchen und Behandlungsoptionen bestimmen
+# Untersuchungen bei pharmakoresistenter Epilepsie in China: Diagnose überprüfen
 
 ## Hero
 
-- **Title:** Untersuchungen bei medikamentenresistenter Epilepsie: Ereignisse bestätigen, Ursachen untersuchen und Behandlungsoptionen bestimmen
 - **Category:** Patientenaufklärung & FAQ
 - **Subcategory:** Medikamentenresistente Epilepsie
-- **Subtitle:** Die Abklärung schwer kontrollierbarer Anfälle behandelt gewöhnlich drei Fragen: Sind die wiederkehrenden Ereignisse epileptisch, warum hat die Behandlung sie nicht kontrolliert, und könnten zusätzliche Befunde die verfügbaren Möglichkeiten verändern?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Untersuchungen bei pharmakoresistenter Epilepsie in China: Diagnose überprüfen
+- **Subtitle:** Pharmakoresistente Epilepsie in China abklären: Anfallsbeschreibung, Medikamentenverlauf, Video-EEG, MRT und ausgewählte Zusatztests mit der Diagnosefrage verbinden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -149,3 +151,6 @@ Lassen Sie sich formelle Berichte und verfügbare Quelldaten geben, halten Sie d
 ## SEO Metadata
 
 - **Primary keyword:** Diagnostische Untersuchungen bei medikamentenresistenter Epilepsie; Video-EEG-Überwachung; Epilepsie-MRT; präoperative Abklärung in China
+
+- **Meta title:** Untersuchungen bei pharmakoresistenter Epilepsie in China: Diagnose überprüfen
+- **Meta description:** Pharmakoresistente Epilepsie in China abklären: Anfallsbeschreibung, Medikamentenverlauf, Video-EEG, MRT und ausgewählte Zusatztests mit der Diagnosefrage verbinden.

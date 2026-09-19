@@ -1,12 +1,14 @@
-# Plötzliche Verschlechterung oder allmählicher Abbau während der Schlaganfallrehabilitation: Was muss abgeklärt werden?
+# Verschlechterung während der Schlaganfallrehabilitation in China: Wann Hilfe nötig ist
 
 ## Hero
 
-- **Title:** Plötzliche Verschlechterung oder allmählicher Abbau während der Schlaganfallrehabilitation: Was muss abgeklärt werden?
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Rehabilitation nach ischämischem Schlaganfall
-- **Subtitle:** Eine Person, die gestern mit Unterstützung gehen konnte, kann plötzlich ein Bein nicht mehr nach vorn bewegen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Verschlechterung während der Schlaganfallrehabilitation in China: Wann Hilfe nötig ist
+- **Subtitle:** Verschlechterung während der Schlaganfallrehabilitation in China einordnen: Beginn, neue Ausfälle, Schmerzen und allmählichen Abbau unterscheiden und Hilfe organisieren.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Wenn die medizinische Situation die Fortsetzung der Rehabilitation erlaubt, soll
 ## SEO Metadata
 
 - **Primary keyword:** Verschlechterung von Symptomen während der Schlaganfallrehabilitation
+
+- **Meta title:** Verschlechterung während der Schlaganfallrehabilitation in China: Wann Hilfe nötig ist
+- **Meta description:** Verschlechterung während der Schlaganfallrehabilitation in China einordnen: Beginn, neue Ausfälle, Schmerzen und allmählichen Abbau unterscheiden und Hilfe organisieren.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Combien coûte le traitement de la thalassémie en Chine ? Établir un budget pour les transfusions, la chélation, la greffe et le suivi
 - **Category:** Guides des coûts et de l’assurance
 - **Subcategory:** Thalassémie
-- **Subtitle:** Le diagnostic seul ne permet pas d’établir un prix de traitement fiable.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Combien coûte le traitement de la thalassémie en Chine ? Établir un budget pour les transfusions, la chélation, la greffe et le suivi
+- **Subtitle:** Organisez le budget de la thalassémie en Chine autour du plan clinique : transfusions, chélation, surveillance du fer, greffe éventuelle et suivi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -158,3 +160,6 @@ Pour la thalassémie, une discussion financière utile aide à maintenir des soi
 ## SEO Metadata
 
 - **Primary keyword:** coût du traitement de la thalassémie en Chine ; coûts transfusionnels ; budget de chélation ; devis de greffe pour la thalassémie en RMB
+
+- **Meta title:** Combien coûte le traitement de la thalassémie en Chine ? Établir un budget pour les transfusions, la chélation, la greffe et le suivi
+- **Meta description:** Organisez le budget de la thalassémie en Chine autour du plan clinique : transfusions, chélation, surveillance du fer, greffe éventuelle et suivi.

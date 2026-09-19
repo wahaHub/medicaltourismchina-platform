@@ -1,12 +1,14 @@
-# Reading a mantle cell lymphoma report: Cyclin D1, SOX11, Ki-67 and TP53 explained
+# Mantle Cell Lymphoma Reports: Preparing for Review in China
 
 ## Hero
 
-- **Title:** Reading a mantle cell lymphoma report: Cyclin D1, SOX11, Ki-67 and TP53 explained
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Mantle Cell Lymphoma
-- **Subtitle:** Related searches: cyclin D1 positive; MCL Ki-67; TP53 mutation in mantle cell lymphoma
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Mantle Cell Lymphoma Reports: Preparing for Review in China
+- **Subtitle:** Understand Cyclin D1, SOX11, Ki-67 and TP53 in mantle cell lymphoma reports, and prepare complete records for a specialist review in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -143,3 +145,6 @@ Keep the original and translated reports linked. Words such as positive, negativ
 ## SEO Metadata
 
 - **Primary keyword:** mantle cell lymphoma pathology report
+
+- **Meta title:** Mantle Cell Lymphoma Reports: Preparing for Review in China
+- **Meta description:** Understand Cyclin D1, SOX11, Ki-67 and TP53 in mantle cell lymphoma reports, and prepare complete records for a specialist review in China.

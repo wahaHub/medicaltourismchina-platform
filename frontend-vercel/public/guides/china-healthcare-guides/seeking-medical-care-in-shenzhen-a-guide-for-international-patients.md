@@ -1,15 +1,17 @@
-# Seeking Medical Care in Shenzhen: A Guide for International Patients
+# Medical Care in China: Shenzhen Patient Guide
 
 ## Hero
 
-- **Title:** Seeking Medical Care in Shenzhen: A Guide for International Patients
 - **Category:** China Healthcare Guides
 - **Subcategory:** City and Cross-Boundary Care Planning
-- **Subtitle:** Plan a Shenzhen visit around the actual hospital entrance, the identity document in its system, and the clinical handover on whichever side of the border comes next.
 - **Reviewed by:** Medora Health Editorial Team; Shenzhen and cross-boundary care review required before publication
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** An international patient discusses care with a doctor against the Shenzhen skyline
+
+
+- **Title:** Medical Care in China: Shenzhen Patient Guide
+- **Subtitle:** Plan Shenzhen appointments, passport registration, Hong Kong record sharing and voucher limits, cross-boundary handover and 120 emergency care.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -202,13 +204,15 @@ Not automatically. The user must follow the cross-boundary authorisation workflo
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-shenzhen-a-guide-for-international-patients`
-- **Meta title:** Medical Care in Shenzhen for International Patients
-- **Meta description:** Plan Shenzhen appointments, passport registration, Hong Kong record sharing and voucher limits, cross-boundary handover and 120 emergency care.
 - **Primary keyword:** medical care in Shenzhen for international patients
 - **Pillar keyword:** healthcare in China for international patients
 - **Vertical keyword:** Shenzhen cross-border medical care
 - **Search intent:** hospital navigation / cross-boundary planning
 - **Secondary keywords:** Shenzhen hospital passport registration; Shenzhen international medical service; Hong Kong Shenzhen medical records; Shenzhen 120 ambulance
+
+
+- **Meta title:** Medical Care in China: Shenzhen Patient Guide
+- **Meta description:** Plan Shenzhen appointments, passport registration, Hong Kong record sharing and voucher limits, cross-boundary handover and 120 emergency care.
 
 ## Sources
 

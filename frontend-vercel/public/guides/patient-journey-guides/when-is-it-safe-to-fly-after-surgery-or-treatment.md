@@ -1,15 +1,17 @@
-# Flying After Surgery or Treatment: Clearance Is a Risk Profile, Not a Date
+# Flying After Surgery in China: Medical Clearance and Timing
 
 ## Hero
 
-- **Title:** Flying After Surgery or Treatment: Clearance Is a Risk Profile, Not a Date
 - **Category:** Patient Journey Guides
 - **Subcategory:** Fitness to Fly and Return Travel
-- **Subtitle:** The calendar is only one input. Trapped gas, oxygen reserve, blood-clot risk, unresolved complications and the ability to manage an airport day must all be cleared.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** A patient and companion discuss post-treatment air travel with a clinician beside luggage and an aircraft view.
+
+
+- **Title:** Flying After Surgery in China: Medical Clearance and Timing
+- **Subtitle:** Assess trapped gas, oxygen reserve, clot and complication risk, airport function and airline clearance before flying after treatment.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -186,13 +188,15 @@ New chest pain, breathlessness, fainting, one-sided weakness, major bleeding, fe
 ## SEO Metadata
 
 - **Slug:** `when-is-it-safe-to-fly-after-surgery-or-treatment`
-- **Meta title:** When Is It Safe to Fly After Surgery? | Five-Gate Check
-- **Meta description:** Assess trapped gas, oxygen reserve, clot and complication risk, airport function and airline clearance before flying after treatment.
 - **Primary keyword:** safe to fly after surgery
 - **Pillar keyword:** medical travel to China
 - **Vertical keyword:** fit to fly after medical treatment
 - **Search intent:** return-travel safety / medical clearance
 - **Secondary keywords:** flying after surgery China; fit-to-fly letter; air travel after retinal gas bubble; VTE risk long flight surgery; airline medical clearance
+
+
+- **Meta title:** Flying After Surgery in China: Medical Clearance and Timing
+- **Meta description:** Assess trapped gas, oxygen reserve, clot and complication risk, airport function and airline clearance before flying after treatment.
 
 ## Sources
 

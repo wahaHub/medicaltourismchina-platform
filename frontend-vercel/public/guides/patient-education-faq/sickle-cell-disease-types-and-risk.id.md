@@ -1,12 +1,14 @@
-# Genotipe Sel Sabit dan Risiko: Memahami HbSS, HbSC, dan Talasemia Beta Sel Sabit
+# Jenis dan Risiko Penyakit Sel Sabit: Persiapan Perawatan di Tiongkok
 
 ## Hero
 
-- **Title:** Genotipe Sel Sabit dan Risiko: Memahami HbSS, HbSC, dan Talasemia Beta Sel Sabit
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Penyakit Sel Sabit
-- **Subtitle:** Sebagian orang melihat diagnosis HbSS dan menganggap masa depan mereka pasti lebih buruk daripada semua pasien lainnya.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Jenis dan Risiko Penyakit Sel Sabit: Persiapan Perawatan di Tiongkok
+- **Subtitle:** Pahami HbSS, HbSC, talasemia beta sel sabit, dan sifat pembawa. Hubungkan genotipe dengan riwayat klinis sebelum perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Jika pendapat berbeda, pertama periksa bahwa kedua tim menggunakan diagnosis dan
 ## SEO Metadata
 
 - **Primary keyword:** jenis penyakit sel sabit dan risiko individual
+
+- **Meta title:** Jenis dan Risiko Penyakit Sel Sabit: Persiapan Perawatan di Tiongkok
+- **Meta description:** Pahami HbSS, HbSC, talasemia beta sel sabit, dan sifat pembawa. Hubungkan genotipe dengan riwayat klinis sebelum perawatan di Tiongkok.

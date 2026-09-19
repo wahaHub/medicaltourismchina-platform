@@ -1,15 +1,17 @@
-# Language Support and English Medical Records at Chinese Hospitals: Three Different Products
+# Language Support and English Records at Hospitals in China
 
 ## Hero
 
-- **Title:** Language Support and English Medical Records at Chinese Hospitals: Three Different Products
 - **Category:** Hospital Guides
 - **Subcategory:** Language and Medical-record Services
-- **Subtitle:** Live clinical interpretation, the hospital’s source record, and an English handoff are connected—but they are not the same service or document.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Conceptual language-support consultation in which a hospital coordinator shows a patient a speech icon and electronic document; it is not a real translation, record, institution, or endorsement.
+
+
+- **Title:** Language Support and English Records at Hospitals in China
+- **Subtitle:** Verify medical interpretation, Chinese source records and clinically reviewed English handoffs at Chinese hospitals, including consent, medicines, DICOM, privacy and corrections.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -212,13 +214,15 @@ Prioritise the discharge summary, operation/procedure record, pathology, relevan
 ## SEO Metadata
 
 - **Slug:** `language-support-and-english-medical-records-at-chinese-hospitals`
-- **Meta title:** Language Support and English Records at Chinese Hospitals
-- **Meta description:** Verify medical interpretation, Chinese source records and clinically reviewed English handoffs at Chinese hospitals, including consent, medicines, DICOM, privacy and corrections.
 - **Primary keyword:** English medical records at Chinese hospitals
 - **Pillar keyword:** language support in Chinese hospitals for foreigners
 - **Vertical keyword:** medical interpretation and record translation China
 - **Search intent:** hospital language service / medical-record planning
 - **Secondary keywords:** English-speaking hospital China; medical interpreter China; translate Chinese medical records; English discharge summary China; bilingual hospital records
+
+
+- **Meta title:** Language Support and English Records at Hospitals in China
+- **Meta description:** Verify medical interpretation, Chinese source records and clinically reviewed English handoffs at Chinese hospitals, including consent, medicines, DICOM, privacy and corrections.
 
 ## Sources
 

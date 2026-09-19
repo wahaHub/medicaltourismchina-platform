@@ -1,15 +1,17 @@
-# 退款不是一句承诺：取消赴华医疗行程的完整留证与追款流程
+# 赴中国医疗旅行：退款、取消与到账追踪
 
 ## Hero
 
-- **Title:** 退款不是一句承诺：取消赴华医疗行程的完整留证与追款流程
 - **Category:** 费用与保险指南
 - **Subcategory:** 财务风险与保护
-- **Subtitle:** 分开医院、中介、航班和住宿合同，准确记录计划停止的原因，并把每笔可退金额从通知追到银行入账。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** 国际患者在已经收拾好的行李旁，与医疗旅行行政人员核对取消文件和退款计算
+
+
+- **Title:** 赴中国医疗旅行：退款、取消与到账追踪
+- **Subtitle:** 分开医院、航班和住宿规则，记录治疗停止原因，复算扣款，并把赴华医疗退款从批准追到银行实际入账。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -179,13 +181,15 @@
 ## SEO Metadata
 
 - **Slug:** `refund-and-cancellation-policies-for-medical-travel`
-- **Meta title:** 赴华医疗退款：取消、结算与银行追踪指南
-- **Meta description:** 分开医院、航班和住宿规则，记录治疗停止原因，复算扣款，并把赴华医疗退款从批准追到银行实际入账。
 - **Primary keyword:** 医疗旅行退款政策
 - **Pillar keyword:** 中国医疗费用
 - **Vertical keyword:** 取消赴华治疗行程
 - **Search intent:** 取消规划 / 退款追踪
 - **Secondary keywords:** 中国医院预交金退款；医疗行程取消；医疗原因机票退改；国际患者退款；治疗预付款
+
+
+- **Meta title:** 赴中国医疗旅行：退款、取消与到账追踪
+- **Meta description:** 分开医院、航班和住宿规则，记录治疗停止原因，复算扣款，并把赴华医疗退款从批准追到银行实际入账。
 
 ## Sources
 

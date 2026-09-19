@@ -1,12 +1,14 @@
-# Por qué se utiliza el recambio de glóbulos rojos en la enfermedad falciforme: tratamiento urgente y cuidados posteriores
+# Recambio de glóbulos rojos para enfermedad falciforme en China: planificación
 
 ## Hero
 
-- **Title:** Por qué se utiliza el recambio de glóbulos rojos en la enfermedad falciforme: tratamiento urgente y cuidados posteriores
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad falciforme
-- **Subtitle:** La expresión «transfusión de recambio» puede sonar como si se fuera a sustituir toda la sangre de una persona o la enfermedad se hubiera vuelto incontrolable.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Recambio de glóbulos rojos para enfermedad falciforme en China: planificación
+- **Subtitle:** Comprenda cuándo se valora recambio de glóbulos rojos en enfermedad falciforme y prepare datos de compatibilidad y preguntas para el procedimiento en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Para alguien con dolor torácico y dificultad respiratoria o síntomas similares
 ## SEO Metadata
 
 - **Primary keyword:** recambio de glóbulos rojos para enfermedad falciforme
+
+- **Meta title:** Recambio de glóbulos rojos para enfermedad falciforme en China: planificación
+- **Meta description:** Comprenda cuándo se valora recambio de glóbulos rojos en enfermedad falciforme y prepare datos de compatibilidad y preguntas para el procedimiento en China.

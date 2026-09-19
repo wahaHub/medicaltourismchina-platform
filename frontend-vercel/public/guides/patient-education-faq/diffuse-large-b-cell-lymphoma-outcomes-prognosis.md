@@ -1,12 +1,14 @@
-# Can DLBCL be cured? Understanding response, relapse and prognosis
+# DLBCL Remission and Prognosis: Questions for Care in China
 
 ## Hero
 
-- **Title:** Can DLBCL be cured? Understanding response, relapse and prognosis
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Diffuse Large B Cell Lymphoma
-- **Subtitle:** DLBCL can be treated with cure as the goal, including in some people with advanced-stage disease.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL Remission and Prognosis: Questions for Care in China
+- **Subtitle:** Interpret DLBCL remission, relapse and prognosis without treating group survival figures as a personal prediction, and plan useful questions for China care.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ Family members should ask how much detail the patient wants and support their pa
 ## SEO Metadata
 
 - **Primary keyword:** DLBCL prognosis and cure
+
+- **Meta title:** DLBCL Remission and Prognosis: Questions for Care in China
+- **Meta description:** Interpret DLBCL remission, relapse and prognosis without treating group survival figures as a personal prediction, and plan useful questions for China care.

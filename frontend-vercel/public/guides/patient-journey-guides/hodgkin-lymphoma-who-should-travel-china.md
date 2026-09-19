@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Should I travel to China for Hodgkin lymphoma care? Referral value and medical readiness
 - **Category:** Patient Journey Guides
 - **Subcategory:** Hodgkin Lymphoma
-- **Subtitle:** Traveling to China for Hodgkin lymphoma care involves two separate questions: what the visit can achieve and whether the person is medically ready for the journey.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Should I travel to China for Hodgkin lymphoma care? Referral value and medical readiness
+- **Subtitle:** Decide whether a Hodgkin lymphoma referral to China offers a useful clinical benefit, with medical readiness, budget and home-care arrangements in place.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,3 +143,6 @@ Before deciding, ask the teams to address current medical stability, the destina
 ## SEO Metadata
 
 - **Primary keyword:** travel to China for Hodgkin lymphoma treatment
+
+- **Meta title:** Should I travel to China for Hodgkin lymphoma care? Referral value and medical readiness
+- **Meta description:** Decide whether a Hodgkin lymphoma referral to China offers a useful clinical benefit, with medical readiness, budget and home-care arrangements in place.

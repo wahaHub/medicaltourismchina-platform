@@ -1,12 +1,14 @@
-# Comparing follicular lymphoma treatments: which choices address the same problem?
+# Follicular Lymphoma Treatment Options in China: Comparison
 
 ## Hero
 
-- **Title:** Comparing follicular lymphoma treatments: which choices address the same problem?
 - **Category:** Treatment Guides
 - **Subcategory:** Follicular Lymphoma
-- **Subtitle:** Before comparing treatments for follicular lymphoma, establish whether the options are intended to solve the same clinical problem.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Follicular Lymphoma Treatment Options in China: Comparison
+- **Subtitle:** Compare follicular lymphoma treatments using the same clinical problem, treatment stage and practical assumptions when reviewing options in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Stable disease may allow time to consider these differences. Acute breathlessnes
 ## SEO Metadata
 
 - **Primary keyword:** follicular lymphoma treatment comparison
+
+- **Meta title:** Follicular Lymphoma Treatment Options in China: Comparison
+- **Meta description:** Compare follicular lymphoma treatments using the same clinical problem, treatment stage and practical assumptions when reviewing options in China.

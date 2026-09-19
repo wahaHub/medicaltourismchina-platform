@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Faut-il se rendre en Chine pour des soins de thalassémie ? Évaluer l’objectif et les conditions d’un voyage sûr
 - **Category:** Guides du parcours patient
 - **Subcategory:** Thalassémie
-- **Subtitle:** La décision de se faire soigner à l’étranger nécessite à la fois un objectif clinique et un plan de voyage réalisable.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Faut-il se rendre en Chine pour des soins de thalassémie ? Évaluer l’objectif et les conditions d’un voyage sûr
+- **Subtitle:** Évaluez un voyage pour thalassémie en Chine selon le bénéfice attendu, les besoins transfusionnels, l’état récent et les conditions d’un vol adapté.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -146,3 +148,6 @@ Partez lorsque l’objectif clinique, la stabilité actuelle, les modalités d�
 ## SEO Metadata
 
 - **Primary keyword:** voyager en Chine pour traiter la thalassémie ; évaluation du voyage avec une thalassémie ; deuxième avis en Chine ; continuité transfusionnelle à l’étranger
+
+- **Meta title:** Faut-il se rendre en Chine pour des soins de thalassémie ? Évaluer l’objectif et les conditions d’un voyage sûr
+- **Meta description:** Évaluez un voyage pour thalassémie en Chine selon le bénéfice attendu, les besoins transfusionnels, l’état récent et les conditions d’un vol adapté.

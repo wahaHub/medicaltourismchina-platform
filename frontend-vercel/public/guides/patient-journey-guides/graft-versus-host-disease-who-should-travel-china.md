@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Should you travel to China for GVHD treatment? Define the benefit and the care needed around the journey
 - **Category:** Patient Journey Guides
 - **Subcategory:** Graft Versus Host Disease
-- **Subtitle:** Disease severity alone cannot decide whether a person with graft-versus-host disease should travel to China.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Should you travel to China for GVHD treatment? Define the benefit and the care needed around the journey
+- **Subtitle:** Assess a GVHD journey to China by the specific clinical benefit, organ needs, infection risks, caregiving demands and confirmed receiving arrangements.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ When the necessary assessment and treatment are available locally, staying with 
 ## SEO Metadata
 
 - **Primary keyword:** traveling to China for GVHD treatment
+
+- **Meta title:** Should you travel to China for GVHD treatment? Define the benefit and the care needed around the journey
+- **Meta description:** Assess a GVHD journey to China by the specific clinical benefit, organ needs, infection risks, caregiving demands and confirmed receiving arrangements.

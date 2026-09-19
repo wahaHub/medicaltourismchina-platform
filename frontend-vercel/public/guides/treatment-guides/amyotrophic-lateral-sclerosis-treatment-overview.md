@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ALS Treatment in China: Medicines, Breathing Support, and Everyday Care
 - **Category:** Treatment Guides
 - **Subcategory:** Amyotrophic Lateral Sclerosis
-- **Subtitle:** Amyotrophic lateral sclerosis, or ALS, affects the motor neurons that control voluntary movement.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ALS Treatment in China: Medicines, Breathing Support, and Everyday Care
+- **Subtitle:** Understand ALS care in China across medicines, breathing, nutrition, communication and daily support, with a plan for coordinated continuing care.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Request costs separately for assessment, medicines, procedures, devices, consuma
 ## SEO Metadata
 
 - **Primary keyword:** amyotrophic lateral sclerosis treatment in China
+
+- **Meta title:** ALS Treatment in China: Medicines, Breathing Support, and Everyday Care
+- **Meta description:** Understand ALS care in China across medicines, breathing, nutrition, communication and daily support, with a plan for coordinated continuing care.

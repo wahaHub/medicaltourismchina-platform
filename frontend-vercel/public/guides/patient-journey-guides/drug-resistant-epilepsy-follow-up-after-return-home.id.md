@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Tindak lanjut setelah pengobatan epilepsi resistan obat di Tiongkok: menjaga perawatan tetap terhubung di negara asal
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Epilepsi Resistan Obat
-- **Subtitle:** Setelah kunjungan ke Tiongkok, membawa pulang rekam medis hanyalah awal perawatan lanjutan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tindak lanjut setelah pengobatan epilepsi resistan obat di Tiongkok: menjaga perawatan tetap terhubung di negara asal
+- **Subtitle:** Jaga kesinambungan perawatan epilepsi resistan obat setelah pulang dari Tiongkok melalui serah terima, daftar obat akhir, dan keputusan tindak lanjut.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -169,3 +171,6 @@ Perawatan setelah pulang merupakan proses berkelanjutan dengan tanggung jawab ya
 ## SEO Metadata
 
 - **Primary keyword:** tindak lanjut epilepsi resistan obat setelah pengobatan di Tiongkok; perawatan setelah bedah epilepsi; tindak lanjut neurostimulasi internasional
+
+- **Meta title:** Tindak lanjut setelah pengobatan epilepsi resistan obat di Tiongkok: menjaga perawatan tetap terhubung di negara asal
+- **Meta description:** Jaga kesinambungan perawatan epilepsi resistan obat setelah pulang dari Tiongkok melalui serah terima, daftar obat akhir, dan keputusan tindak lanjut.

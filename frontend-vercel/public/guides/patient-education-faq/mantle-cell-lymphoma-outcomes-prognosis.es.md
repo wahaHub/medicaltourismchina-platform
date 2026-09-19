@@ -1,12 +1,14 @@
-# ¿Cuánto tiempo puede controlarse el linfoma de células del manto? Comprender la remisión, la supervivencia y su pronóstico
+# Pronóstico del linfoma de células del manto: segundas opiniones en China
 
 ## Hero
 
-- **Title:** ¿Cuánto tiempo puede controlarse el linfoma de células del manto? Comprender la remisión, la supervivencia y su pronóstico
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma de células del manto
-- **Subtitle:** Después de un diagnóstico de LCM, es natural buscar cuánto tiempo viven las personas.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronóstico del linfoma de células del manto: segundas opiniones en China
+- **Subtitle:** Comprenda remisión, progresión y medidas de supervivencia del linfoma de células del manto, y prepare una segunda opinión sobre su pronóstico en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ Es mejor tratar el pronóstico como una conversación continua. La nueva informa
 ## SEO Metadata
 
 - **Primary keyword:** pronóstico y supervivencia del linfoma de células del manto
+
+- **Meta title:** Pronóstico del linfoma de células del manto: segundas opiniones en China
+- **Meta description:** Comprenda remisión, progresión y medidas de supervivencia del linfoma de células del manto, y prepare una segunda opinión sobre su pronóstico en China.

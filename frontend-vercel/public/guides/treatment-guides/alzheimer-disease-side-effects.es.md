@@ -1,12 +1,14 @@
-# Efectos secundarios del tratamiento del Alzheimer: reconocer problemas y obtener la ayuda adecuada
+# Tratamiento del Alzheimer en China: efectos secundarios y señales urgentes
 
 ## Hero
 
-- **Title:** Efectos secundarios del tratamiento del Alzheimer: reconocer problemas y obtener la ayuda adecuada
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de Alzheimer
-- **Subtitle:** Una persona comienza un tratamiento para la enfermedad de Alzheimer y después come menos, se duerme durante el almuerzo o pierde estabilidad.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento del Alzheimer en China: efectos secundarios y señales urgentes
+- **Subtitle:** Reconozca posibles efectos secundarios de medicamentos para el Alzheimer, la función de las resonancias de control y cuándo buscar ayuda durante la atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -111,3 +113,6 @@ Antes del tratamiento en China o del regreso a casa, transfiera las reacciones p
 ## SEO Metadata
 
 - **Primary keyword:** efectos secundarios del tratamiento del Alzheimer
+
+- **Meta title:** Tratamiento del Alzheimer en China: efectos secundarios y señales urgentes
+- **Meta description:** Reconozca posibles efectos secundarios de medicamentos para el Alzheimer, la función de las resonancias de control y cuándo buscar ayuda durante la atención en China.

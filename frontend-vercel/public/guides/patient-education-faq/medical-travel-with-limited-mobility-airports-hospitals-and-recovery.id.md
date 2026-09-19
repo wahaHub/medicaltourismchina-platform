@@ -1,15 +1,17 @@
-# Perjalanan Medis dengan Mobilitas Terbatas: Rencanakan Setiap Perpindahan, Bukan Hanya Penerbangan
+# Perjalanan Medis ke Tiongkok dengan Mobilitas Terbatas: Bantuan yang Dibutuhkan
 
 ## Hero
 
-- **Title:** Perjalanan Medis dengan Mobilitas Terbatas: Rencanakan Setiap Perpindahan, Bukan Hanya Penerbangan
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Aksesibilitas & Pemulihan
-- **Subtitle:** Panduan dari pintu ke pintu tentang permintaan bantuan, penanganan kursi roda, penggunaan toilet, pengurangan tekanan, akses rumah sakit, akomodasi, dan dukungan pemulihan.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Pengguna kursi roda dan pendamping meninjau bantuan bandara, akses rumah sakit, dan tanggal pemulihan sebelum perjalanan medis
+
+
+- **Title:** Perjalanan Medis ke Tiongkok dengan Mobilitas Terbatas: Bantuan yang Dibutuhkan
+- **Subtitle:** Rencanakan bantuan kursi roda, perpindahan, baterai, posisi duduk, penggunaan toilet, akses rumah sakit, dan pemulihan untuk perjalanan medis dengan mobilitas terbatas.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Tujuan harus dapat digunakan setelah kedatangan: perpindahan kendaraan, lebar pintu, tinggi tempat tidur dan toilet, akses pancuran, lift, rute rumah sakit, dan perbaikan peralatan yang andal sama pentingnya dengan pesawat.
 
 ## Content
+
+Bagi pasien dengan mobilitas terbatas yang bepergian ke Tiongkok untuk perawatan, periksa setiap perpindahan dari alamat keberangkatan hingga rumah sakit dan tempat tinggal selama pemulihan. Catat bantuan, rincian kursi roda, dan dukungan perawatan pribadi yang diperlukan, lalu tinjau kembali rute kepulangan setelah pengobatan.
+
 
 Mobilitas terbatas adalah deskripsi fungsi, bukan diagnosis. Seorang pelancong mungkin dapat berjalan beberapa meter tetapi tidak dapat menaiki tangga pesawat. Yang lain dapat berpindah mandiri tetapi tidak dapat duduk tanpa bantalan pengurang tekanan. Orang ketiga membutuhkan dua orang terlatih dan alat pengangkat. Rencana perjalanan aman hanya jika setiap serah terima dibangun sesuai fungsi sebenarnya.
 
@@ -159,11 +164,13 @@ Tunda dan nilai ulang jika perpindahan tidak aman, nyeri tidak terkendali, pasie
 
 ## SEO Metadata
 
-- **SEO title:** Perjalanan Medis dengan Mobilitas Terbatas: Panduan dari Pintu ke Pintu
-- **Meta description:** Rencanakan bantuan kursi roda, perpindahan, baterai, posisi duduk, penggunaan toilet, akses rumah sakit, dan pemulihan untuk perjalanan medis dengan mobilitas terbatas.
 - **Primary keyword:** perjalanan medis dengan mobilitas terbatas
 - **Secondary keywords:** bantuan kursi roda bandara, perjalanan udara kursi roda listrik, perjalanan medis aksesibel, perpindahan kursi roda rumah sakit, perjalanan pemulihan mobilitas
 - **Suggested URL slug:** `/medical-travel-limited-mobility`
+
+
+- **Meta title:** Perjalanan Medis ke Tiongkok dengan Mobilitas Terbatas: Bantuan yang Dibutuhkan
+- **Meta description:** Rencanakan bantuan kursi roda, perpindahan, baterai, posisi duduk, penggunaan toilet, akses rumah sakit, dan pemulihan untuk perjalanan medis dengan mobilitas terbatas.
 
 ## Sumber
 

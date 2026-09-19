@@ -1,12 +1,14 @@
-# Traitement de première intention de l’aplasie médullaire sévère : greffe ou traitement à base d’ATG
+# Aplasie médullaire sévère en Chine : options de première intention
 
 ## Hero
 
-- **Title:** Traitement de première intention de l’aplasie médullaire sévère : greffe ou traitement à base d’ATG
 - **Category:** Guides des traitements
 - **Subcategory:** Aplasie médullaire
-- **Subtitle:** Une personne chez qui une aplasie médullaire sévère vient d’être diagnostiquée peut se voir proposer une greffe ou un traitement médical à base d’ATG.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Aplasie médullaire sévère en Chine : options de première intention
+- **Subtitle:** Comprenez le choix initial entre greffe et traitement à base de globulines antithymocytaires pour l’aplasie médullaire sévère et préparez le suivi en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -111,3 +113,6 @@ Demandez un devis en renminbis pour le parcours choisi. Pour l’immunosuppressi
 ## SEO Metadata
 
 - **Primary keyword:** traitement de première intention de l’aplasie médullaire sévère
+
+- **Meta title:** Aplasie médullaire sévère en Chine : options de première intention
+- **Meta description:** Comprenez le choix initial entre greffe et traitement à base de globulines antithymocytaires pour l’aplasie médullaire sévère et préparez le suivi en Chine.

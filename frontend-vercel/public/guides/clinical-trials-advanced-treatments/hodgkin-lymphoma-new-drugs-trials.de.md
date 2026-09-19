@@ -1,12 +1,14 @@
-# Neue Medikamente und klinische Studien beim Hodgkin-Lymphom: etablierte Evidenz von Forschung unterscheiden
+# Medikamente und Studien beim Hodgkin-Lymphom: Zugang in China und Evidenz
 
 ## Hero
 
-- **Title:** Neue Medikamente und klinische Studien beim Hodgkin-Lymphom: etablierte Evidenz von Forschung unterscheiden
 - **Category:** Klinische Studien & fortgeschrittene Behandlungen
 - **Subcategory:** Hodgkin-Lymphom
-- **Subtitle:** Bei der Suche nach neuen Hodgkin-Lymphom-Behandlungen können ein zugelassenes Medikament, eine leitliniengestützte Kombination, eine frühe Zellstudie und ein Laborexperiment auf demselben Bildschirm erscheinen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medikamente und Studien beim Hodgkin-Lymphom: Zugang in China und Evidenz
+- **Subtitle:** Medikamente und Studien beim Hodgkin-Lymphom in China beurteilen: Aussagekraft der Ergebnisse, Teilnahmebedingungen, Sicherheitsvorkehrungen und Kosten klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Der Wert eines neuen Ansatzes hängt gemeinsam von Evidenz, Eignung und praktisc
 ## SEO Metadata
 
 - **Primary keyword:** neue Medikamente und klinische Studien beim Hodgkin-Lymphom
+
+- **Meta title:** Medikamente und Studien beim Hodgkin-Lymphom: Zugang in China und Evidenz
+- **Meta description:** Medikamente und Studien beim Hodgkin-Lymphom in China beurteilen: Aussagekraft der Ergebnisse, Teilnahmebedingungen, Sicherheitsvorkehrungen und Kosten klären.

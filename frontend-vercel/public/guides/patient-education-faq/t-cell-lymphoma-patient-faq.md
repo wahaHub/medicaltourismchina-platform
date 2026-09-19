@@ -1,12 +1,14 @@
-# Twenty patient questions about T-cell lymphoma: diagnosis, treatment and daily decisions
+# T-Cell Lymphoma Care in China: 20 Patient Questions
 
 ## Hero
 
-- **Title:** Twenty patient questions about T-cell lymphoma: diagnosis, treatment and daily decisions
 - **Category:** Patient Education & FAQ
 - **Subcategory:** T Cell Lymphoma
-- **Subtitle:** It is enough to begin contacting a specialist, but usually not to define the entire treatment plan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** T-Cell Lymphoma Care in China: 20 Patient Questions
+- **Subtitle:** Answers to 20 T-cell lymphoma questions on diagnosis, treatment, China access, cost planning and daily decisions during care.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -136,3 +138,6 @@ Bring complete pathology and consultation reports, key original imaging, a dated
 ## SEO Metadata
 
 - **Primary keyword:** T-cell lymphoma patient questions
+
+- **Meta title:** T-Cell Lymphoma Care in China: 20 Patient Questions
+- **Meta description:** Answers to 20 T-cell lymphoma questions on diagnosis, treatment, China access, cost planning and daily decisions during care.

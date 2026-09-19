@@ -1,12 +1,14 @@
-# Medicamentos para el linfoma folicular: comprender el régimen, la línea de tratamiento y la monitorización
+# Medicamentos para linfoma folicular en China: pautas y vigilancia
 
 ## Hero
 
-- **Title:** Medicamentos para el linfoma folicular: comprender el régimen, la línea de tratamiento y la monitorización
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma folicular
-- **Subtitle:** Los medicamentos para el linfoma folicular no pueden clasificarse como buenos o malos simplemente por llamarlos quimioterapia, terapia dirigida o inmunoterapia.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medicamentos para linfoma folicular en China: pautas y vigilancia
+- **Subtitle:** Comprenda las pautas de linfoma folicular, su línea de tratamiento y los controles de anticuerpos, quimioterapia y fármacos orales al preparar atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Conserve los registros reales de administración y acontecimientos adversos, inc
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento farmacológico del linfoma folicular
+
+- **Meta title:** Medicamentos para linfoma folicular en China: pautas y vigilancia
+- **Meta description:** Comprenda las pautas de linfoma folicular, su línea de tratamiento y los controles de anticuerpos, quimioterapia y fármacos orales al preparar atención en China.

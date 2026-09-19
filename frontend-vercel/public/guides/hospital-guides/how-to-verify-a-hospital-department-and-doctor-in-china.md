@@ -1,15 +1,17 @@
-# How to Verify a Hospital, Department, and Doctor in China
+# Verify a Hospital, Department and Doctor in China
 
 ## Hero
 
-- **Title:** How to Verify a Hospital, Department, and Doctor in China
 - **Category:** Hospital Guides
 - **Subcategory:** Provider Verification
-- **Subtitle:** Check three identities separately, then confirm that the exact campus and team can deliver the proposed care.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Conceptual illustration of an international patient reviewing hospital, doctor and safety symbols with a hospital coordinator; the booklet is not an official credential.
+
+
+- **Title:** Verify a Hospital, Department and Doctor in China
+- **Subtitle:** Verify a Chinese hospital licence and campus, department scope, doctor registration and appointment, procedure authorisation, records review, payment and communication channel.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -202,11 +204,13 @@ A dated hospital-channel reply naming the clinician, records reviewed, prelimina
 ## SEO Metadata
 
 - **Slug:** `how-to-verify-a-hospital-department-and-doctor-in-china`
-- **Meta title:** Verify a Chinese Hospital, Department and Doctor
-- **Meta description:** Verify a Chinese hospital licence and campus, department scope, doctor registration and appointment, procedure authorisation, records review, payment and communication channel.
 - **Primary keyword:** verify hospital and doctor in China
 - **Secondary keywords:** China doctor registration check; Chinese hospital licence; verify hospital campus; surgeon authorisation China; international patient hospital verification
 - **Search intent:** provider identity and capability verification
+
+
+- **Meta title:** Verify a Hospital, Department and Doctor in China
+- **Meta description:** Verify a Chinese hospital licence and campus, department scope, doctor registration and appointment, procedure authorisation, records review, payment and communication channel.
 
 ## Sources
 

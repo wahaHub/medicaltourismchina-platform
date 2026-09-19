@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Neue Myelommedikamente und klinische Studien: Optionen in China im Jahr 2026 bewerten
 - **Category:** Klinische Studien und fortgeschrittene Behandlungen
 - **Subcategory:** Multiples Myelom
-- **Subtitle:** Eine Myelom-Schlagzeile kann ein neues Molekül, eine neue Kombination bekannter Medikamente oder eine frühere Behandlungssituation beschreiben.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Neue Myelommedikamente und klinische Studien: Optionen in China im Jahr 2026 bewerten
+- **Subtitle:** Neue Myelomtherapien und Studien in China bewerten: Vorbehandlungen, Studienziele, Sicherheitsanforderungen und tatsächliche Teilnahmewege gezielt prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Bestätigen Sie nach dem Screening erneut Besuchsplan, Behandlungstermin und Ver
 ## SEO Metadata
 
 - **Primary keyword:** neue Behandlungen des multiplen Myeloms und klinische Studien in China
+
+- **Meta title:** Neue Myelommedikamente und klinische Studien: Optionen in China im Jahr 2026 bewerten
+- **Meta description:** Neue Myelomtherapien und Studien in China bewerten: Vorbehandlungen, Studienziele, Sicherheitsanforderungen und tatsächliche Teilnahmewege gezielt prüfen.

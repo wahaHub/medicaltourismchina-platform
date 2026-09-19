@@ -1,15 +1,17 @@
-# 怎样选择武汉医院：穿行三镇时要盯住的四只时钟
+# 中国医院选择：武汉院区、车站与就诊时间
 
 ## Hero
 
-- **Title:** 怎样选择武汉医院：穿行三镇时要盯住的四只时钟
 - **Category:** 医院指南
 - **Subcategory:** 武汉就医规划
-- **Subtitle:** 同时管理临床决定、标本检查、城市移动和康复交接四条时间线，并把医生落实到武汉的具体院区。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 国际患者规划武汉就医的概念插图；江面、桥梁、城市塔、列车和医院并非真实院区与路线组合，也不构成推荐。
+
+
+- **Title:** 中国医院选择：武汉院区、车站与就诊时间
+- **Subtitle:** 同时管理临床、标本、通行和康复时间，核实武汉具体院区、三镇地理、机场铁路、语言、保险及急诊路径。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -189,13 +191,15 @@
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-wuhan-specialties-access-and-travel`
-- **Meta title:** 武汉选院指南：院区、车站与四只时钟
-- **Meta description:** 同时管理临床、标本、通行和康复时间，核实武汉具体院区、三镇地理、机场铁路、语言、保险及急诊路径。
 - **Primary keyword:** 武汉怎么选医院
 - **Pillar keyword:** 武汉国际患者医院
 - **Vertical keyword:** 武汉医院院区交通就医
 - **Search intent:** 医院比较 / 武汉医疗旅行规划
 - **Secondary keywords:** 武汉国际医疗中心；武汉医院院区；武汉站就医；汉口医院；武昌医院；武汉120
+
+
+- **Meta title:** 中国医院选择：武汉院区、车站与就诊时间
+- **Meta description:** 同时管理临床、标本、通行和康复时间，核实武汉具体院区、三镇地理、机场铁路、语言、保险及急诊路径。
 
 ## Sources
 

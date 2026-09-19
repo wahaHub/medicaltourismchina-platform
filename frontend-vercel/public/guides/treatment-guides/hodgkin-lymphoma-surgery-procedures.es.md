@@ -1,12 +1,14 @@
-# ¿Necesita cirugía el linfoma de Hodgkin? Biopsia, acceso venoso y recogida de células madre
+# Procedimientos para el linfoma de Hodgkin en China: biopsia y recogida de células
 
 ## Hero
 
-- **Title:** ¿Necesita cirugía el linfoma de Hodgkin? Biopsia, acceso venoso y recogida de células madre
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de Hodgkin
-- **Subtitle:** El linfoma de Hodgkin clásico generalmente se trata con medicamentos sistémicos, a veces combinados con radioterapia.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Procedimientos para el linfoma de Hodgkin en China: biopsia y recogida de células
+- **Subtitle:** Comprenda el papel de biopsia, acceso venoso y recogida de células en el linfoma de Hodgkin, con preguntas de preparación para los procedimientos en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ Pregunte al profesional qué problema ha resuelto el procedimiento y qué queda 
 ## SEO Metadata
 
 - **Primary keyword:** cirugía y procedimientos del linfoma de Hodgkin
+
+- **Meta title:** Procedimientos para el linfoma de Hodgkin en China: biopsia y recogida de células
+- **Meta description:** Comprenda el papel de biopsia, acceso venoso y recogida de células en el linfoma de Hodgkin, con preguntas de preparación para los procedimientos en China.

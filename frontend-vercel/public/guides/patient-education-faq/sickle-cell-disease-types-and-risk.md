@@ -1,12 +1,14 @@
-# Sickle Cell Genotypes and Risk: Understanding HbSS, HbSC, and Sickle Beta Thalassemia
+# Sickle Cell Types and Risk: Preparing for Care in China
 
 ## Hero
 
-- **Title:** Sickle Cell Genotypes and Risk: Understanding HbSS, HbSC, and Sickle Beta Thalassemia
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Sickle Cell Disease
-- **Subtitle:** Some people see an HbSS diagnosis and assume their future must be worse than every other patient's.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sickle Cell Types and Risk: Preparing for Care in China
+- **Subtitle:** Distinguish sickle cell genotypes and individual risk, and prepare a concise clinical history for a consultation in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ If opinions differ, first check that both teams are using the same diagnosis and
 ## SEO Metadata
 
 - **Primary keyword:** sickle cell disease types and individual risk
+
+- **Meta title:** Sickle Cell Types and Risk: Preparing for Care in China
+- **Meta description:** Distinguish sickle cell genotypes and individual risk, and prepare a concise clinical history for a consultation in China.

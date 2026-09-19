@@ -1,12 +1,14 @@
-# Medical records for an aplastic anemia referral: making the evidence usable
+# Aplastic Anemia Records for Referral to China
 
 ## Hero
 
-- **Title:** Medical records for an aplastic anemia referral: making the evidence usable
 - **Category:** Patient Journey Guides
 - **Subcategory:** Aplastic Anemia
-- **Subtitle:** The most useful referral file shows how the evidence fits together over time.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Aplastic Anemia Records for Referral to China
+- **Subtitle:** Build an aplastic anemia referral record for China with blood trends, marrow findings, medicine history, transfusions and transplant details when relevant.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ For the consultation, bring the current medicine list, recent counts, and the ma
 ## SEO Metadata
 
 - **Primary keyword:** aplastic anemia medical records
+
+- **Meta title:** Aplastic Anemia Records for Referral to China
+- **Meta description:** Build an aplastic anemia referral record for China with blood trends, marrow findings, medicine history, transfusions and transplant details when relevant.

@@ -1,15 +1,17 @@
-# 157 Penagihan Langsung atau Bayar Lalu Klaim di Tiongkok: Pilih Kegagalan yang Dapat Anda Tangani
+# Asuransi Rumah Sakit di Tiongkok: Penagihan Langsung atau Klaim
 
 ## Hero
 
-- **Title:** Penagihan Langsung atau Bayar Lalu Klaim di Tiongkok: Pilih Kegagalan yang Dapat Anda Tangani
 - **Category:** Panduan Biaya & Asuransi
 - **Subcategory:** Alur Pembayaran Asuransi
-- **Subtitle:** Bandingkan kebutuhan dana tunai, pilihan penyedia, beban dokumen, dan penanganan kegagalan—bukan hanya apakah rumah sakit menampilkan logo perusahaan asuransi.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Koordinator penagihan dan pasien internasional membandingkan dokumen pembayaran di rumah sakit Tiongkok.
+
+
+- **Title:** Asuransi Rumah Sakit di Tiongkok: Penagihan Langsung atau Klaim
+- **Subtitle:** Bandingkan penagihan langsung dan penggantian biaya di Tiongkok berdasarkan kebutuhan tunai, pilihan penyedia, jaminan, dokumen klaim, rencana cadangan, dan pengendalian pembayaran ganda.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -207,13 +209,15 @@ Beri tahu bagian keuangan rumah sakit dan perusahaan asuransi dengan referensi t
 ## SEO Metadata
 
 - **Slug:** `direct-billing-vs-pay-and-claim-at-chinese-hospitals`
-- **Meta title:** Penagihan Langsung vs Bayar Lalu Klaim di Rumah Sakit Tiongkok
-- **Meta description:** Bandingkan penagihan langsung dan penggantian biaya di Tiongkok berdasarkan kebutuhan tunai, pilihan penyedia, jaminan, dokumen klaim, rencana cadangan, dan pengendalian pembayaran ganda.
 - **Primary keyword:** penagihan langsung vs bayar lalu klaim Tiongkok
 - **Pillar keyword:** asuransi wisata medis
 - **Vertical keyword:** pembayaran asuransi rumah sakit Tiongkok
 - **Search intent:** metode pembayaran / perencanaan klaim
 - **Secondary keywords:** asuransi nontunai rumah sakit Tiongkok; bayar lalu klaim Tiongkok; jaminan pembayaran rumah sakit; dokumen klaim medis Tiongkok; pembayaran rumah sakit ganda
+
+
+- **Meta title:** Asuransi Rumah Sakit di Tiongkok: Penagihan Langsung atau Klaim
+- **Meta description:** Bandingkan penagihan langsung dan penggantian biaya di Tiongkok berdasarkan kebutuhan tunai, pilihan penyedia, jaminan, dokumen klaim, rencana cadangan, dan pengendalian pembayaran ganda.
 
 ## Sumber
 

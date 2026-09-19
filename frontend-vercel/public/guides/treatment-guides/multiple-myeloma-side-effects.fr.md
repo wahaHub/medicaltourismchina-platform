@@ -1,12 +1,14 @@
-# Gérer les effets indésirables du traitement du myélome multiple : symptômes urgents et poursuite des soins
+# Traitement du myélome en Chine : effets indésirables et symptômes urgents
 
 ## Hero
 
-- **Title:** Gérer les effets indésirables du traitement du myélome multiple : symptômes urgents et poursuite des soins
 - **Category:** Guides des traitements
 - **Subcategory:** Myélome multiple
-- **Subtitle:** La prise en charge des effets indésirables aide les patients à recevoir le traitement dans des conditions qu’ils peuvent tolérer.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement du myélome en Chine : effets indésirables et symptômes urgents
+- **Subtitle:** Reconnaissez les signes urgents pendant les soins du myélome en Chine et préparez le suivi des infections, numérations, neuropathies et troubles cardiovasculaires.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Pendant le traitement en Chine, confirmez comment le service coordonne si néces
 ## SEO Metadata
 
 - **Primary keyword:** effets indésirables du traitement du myélome multiple et soins de soutien en Chine
+
+- **Meta title:** Traitement du myélome en Chine : effets indésirables et symptômes urgents
+- **Meta description:** Reconnaissez les signes urgents pendant les soins du myélome en Chine et préparez le suivi des infections, numérations, neuropathies et troubles cardiovasculaires.

@@ -1,15 +1,17 @@
-# Demam Sebelum atau Setelah Pengobatan: Angkanya Penting, tetapi Konteks Menentukan Urgensinya
+# Demam Setelah Pengobatan di Tiongkok: Kapan Mencari Pertolongan Segera
 
 ## Hero
 
-- **Title:** Demam Sebelum atau Setelah Pengobatan: Angkanya Penting, tetapi Konteks Menentukan Urgensinya
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Gejala & Perawatan Mendesak
-- **Subtitle:** Panduan yang mengutamakan keselamatan untuk mengukur suhu, mengenali periode pengobatan berisiko tinggi, melaporkan detail yang tepat, dan mengetahui kapan tidak boleh menunggu telepon balasan.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Gambar pengganti yang direncanakan menampilkan pasien memeriksa termometer sambil menghubungi tim perawatan, dengan konteks peringatan kemoterapi dan pascaoperasi
+
+
+- **Title:** Demam Setelah Pengobatan di Tiongkok: Kapan Mencari Pertolongan Segera
+- **Subtitle:** Ketahui kapan demam setelah kemoterapi, operasi, infus, atau transfusi memerlukan telepon segera, perawatan darurat, dan serah terima pengobatan yang jelas.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -175,13 +177,15 @@ Gunakan jalur 24 jam rumah sakit yang merawat jika tersedia. Untuk gejala berat 
 ## SEO Metadata
 
 - **Slug:** `fever-before-or-after-treatment-when-to-contact-a-clinician`
-- **Meta title:** Demam Setelah Pengobatan: Kapan Menelepon atau Mencari Perawatan Darurat
-- **Meta description:** Ketahui kapan demam setelah kemoterapi, operasi, infus, atau transfusi memerlukan telepon segera, perawatan darurat, dan serah terima pengobatan yang jelas.
 - **Primary keyword:** demam setelah pengobatan kapan menelepon dokter
 - **Pillar keyword:** keselamatan pasien selama perjalanan medis
 - **Vertical keyword:** demam setelah kemoterapi atau operasi
 - **Search intent:** edukasi pasien mendesak
 - **Secondary keywords:** demam kemoterapi 38 C; tanda peringatan demam pascaoperasi; demam setelah infus; demam neutropenik; demam setelah transfusi darah
+
+
+- **Meta title:** Demam Setelah Pengobatan di Tiongkok: Kapan Mencari Pertolongan Segera
+- **Meta description:** Ketahui kapan demam setelah kemoterapi, operasi, infus, atau transfusi memerlukan telepon segera, perawatan darurat, dan serah terima pengobatan yang jelas.
 
 ## Sumber
 

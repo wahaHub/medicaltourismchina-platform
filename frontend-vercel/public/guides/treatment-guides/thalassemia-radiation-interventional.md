@@ -1,12 +1,14 @@
-# Why radiotherapy is sometimes used in thalassemia: extramedullary hematopoiesis and spinal cord compression
+# Thalassemia Radiotherapy in China: Complications and Assessment
 
 ## Hero
 
-- **Title:** Why radiotherapy is sometimes used in thalassemia: extramedullary hematopoiesis and spinal cord compression
 - **Category:** Treatment Guides
 - **Subcategory:** Thalassemia
-- **Subtitle:** A referral to radiation oncology can be confusing for someone whose established diagnosis is thalassemia.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Thalassemia Radiotherapy in China: Complications and Assessment
+- **Subtitle:** Understand why selected thalassemia complications may prompt radiotherapy assessment, including spinal symptoms and questions for a specialist team in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Before discharge, establish which symptoms require immediate help, where planned
 ## SEO Metadata
 
 - **Primary keyword:** radiotherapy for thalassemia; extramedullary hematopoiesis; spinal cord compression; treatment assessment in China
+
+- **Meta title:** Thalassemia Radiotherapy in China: Complications and Assessment
+- **Meta description:** Understand why selected thalassemia complications may prompt radiotherapy assessment, including spinal symptoms and questions for a specialist team in China.

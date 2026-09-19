@@ -1,12 +1,14 @@
-# Seguimiento del LDCBG tras volver a casa: vigilancia, recuperación y transferencia de la atención
+# Seguimiento del LDCBG después del tratamiento en China: regreso a casa
 
 ## Hero
 
-- **Title:** Seguimiento del LDCBG tras volver a casa: vigilancia, recuperación y transferencia de la atención
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Linfoma difuso de células B grandes
-- **Subtitle:** El seguimiento después del tratamiento del LDCBG en China comienza con una conclusión clara del tratamiento y una transferencia de atención que funcione.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Seguimiento del LDCBG después del tratamiento en China: regreso a casa
+- **Subtitle:** Prepare el seguimiento del linfoma difuso de células B grandes tras la atención en China con evaluación de respuesta, responsables y prevención de infecciones.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Utilice la primera cita en su país para confirmar que la transferencia de atenc
 ## SEO Metadata
 
 - **Primary keyword:** seguimiento del LDCBG tras volver a casa
+
+- **Meta title:** Seguimiento del LDCBG después del tratamiento en China: regreso a casa
+- **Meta description:** Prepare el seguimiento del linfoma difuso de células B grandes tras la atención en China con evaluación de respuesta, responsables y prevención de infecciones.

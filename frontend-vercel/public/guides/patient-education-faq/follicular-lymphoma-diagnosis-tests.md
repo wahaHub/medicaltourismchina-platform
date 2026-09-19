@@ -1,12 +1,14 @@
-# Tests for follicular lymphoma: choosing a biopsy, establishing stage and preparing safely for treatment
+# Follicular Lymphoma Diagnosis in China: Biopsy and Staging
 
 ## Hero
 
-- **Title:** Tests for follicular lymphoma: choosing a biopsy, establishing stage and preparing safely for treatment
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Follicular Lymphoma
-- **Subtitle:** An enlarged neck node or a scan describing several swollen lymph nodes does not establish follicular lymphoma.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Follicular Lymphoma Diagnosis in China: Biopsy and Staging
+- **Subtitle:** Plan a follicular lymphoma diagnostic review in China, including biopsy material, staging, treatment readiness and avoiding unnecessary repeat tests.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Specimen transport, routine processing and additional testing have different tur
 ## SEO Metadata
 
 - **Primary keyword:** follicular lymphoma tests
+
+- **Meta title:** Follicular Lymphoma Diagnosis in China: Biopsy and Staging
+- **Meta description:** Plan a follicular lymphoma diagnostic review in China, including biopsy material, staging, treatment readiness and avoiding unnecessary repeat tests.

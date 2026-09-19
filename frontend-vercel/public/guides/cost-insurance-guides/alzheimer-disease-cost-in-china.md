@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Alzheimer's Treatment Costs in China: Building a Budget for Assessment, Medicines, and Care
 - **Category:** Cost & Insurance Guides
 - **Subcategory:** Alzheimer Disease
-- **Subtitle:** There is no single national total price for treating Alzheimer's disease in China.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Alzheimer's Treatment Costs in China: Building a Budget for Assessment, Medicines, and Care
+- **Subtitle:** Build an Alzheimer’s care budget in China covering assessment, medicines, monitoring and support, with an itemized hospital estimate rather than a package promise.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Ask for a baseline assessment and care budget, then a separate addition for anti
 ## SEO Metadata
 
 - **Primary keyword:** Alzheimer's treatment cost in China
+
+- **Meta title:** Alzheimer's Treatment Costs in China: Building a Budget for Assessment, Medicines, and Care
+- **Meta description:** Build an Alzheimer’s care budget in China covering assessment, medicines, monitoring and support, with an itemized hospital estimate rather than a package promise.

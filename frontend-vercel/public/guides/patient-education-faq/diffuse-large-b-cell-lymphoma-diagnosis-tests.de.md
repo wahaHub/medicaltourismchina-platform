@@ -1,12 +1,14 @@
-# Untersuchungen bei DLBCL-Verdacht: Biopsie, Stadienbestimmung und Behandlungsvorbereitung
+# DLBCL-Diagnose in China: Biopsie, Stadienbestimmung und Vorbereitung
 
 ## Hero
 
-- **Title:** Untersuchungen bei DLBCL-Verdacht: Biopsie, Stadienbestimmung und Behandlungsvorbereitung
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Diffuses großzelliges B-Zell-Lymphom
-- **Subtitle:** Die Diagnostik des diffusen großzelligen B-Zell-Lymphoms sollte vier zusammenhängende Fragen beantworten: Ist dies ein Lymphom, welches Lymphom ist es, wo ist es vorhanden und welche Behandlung kann der Patient sicher erhalten?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL-Diagnose in China: Biopsie, Stadienbestimmung und Vorbereitung
+- **Subtitle:** DLBCL-Diagnostik in China planen: Biopsie, Pathologie, Genumlagerungen, PET/CT und Sicherheitsuntersuchungen vor dem ersten Behandlungszyklus einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Fruchtbarkeit, Ernährung und praktische Unterstützung sollten nach Möglichkei
 ## SEO Metadata
 
 - **Primary keyword:** DLBCL-Diagnostik
+
+- **Meta title:** DLBCL-Diagnose in China: Biopsie, Stadienbestimmung und Vorbereitung
+- **Meta description:** DLBCL-Diagnostik in China planen: Biopsie, Pathologie, Genumlagerungen, PET/CT und Sicherheitsuntersuchungen vor dem ersten Behandlungszyklus einordnen.

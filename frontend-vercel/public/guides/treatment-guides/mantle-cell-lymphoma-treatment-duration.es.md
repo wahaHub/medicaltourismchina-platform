@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Cuánto dura el tratamiento del linfoma de células del manto? Ciclos, mantenimiento y planificación de una estancia en China
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de células del manto
-- **Subtitle:** La duración del tratamiento puede significar varias cosas: la preparación antes de la primera dosis, la duración del tratamiento intensivo, el mantenimiento o los comprimidos continuados y el momento en que puede volver a casa o al trabajo.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Cuánto dura el tratamiento del linfoma de células del manto? Ciclos, mantenimiento y planificación de una estancia en China
+- **Subtitle:** Planifique la estancia para tratar el linfoma de células del manto en China distinguiendo preparación, ciclos, mantenimiento y controles de medicación.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Un calendario útil identifica la fase actual, las condiciones para el siguiente
 ## SEO Metadata
 
 - **Primary keyword:** duración del tratamiento del linfoma de células del manto
+
+- **Meta title:** ¿Cuánto dura el tratamiento del linfoma de células del manto? Ciclos, mantenimiento y planificación de una estancia en China
+- **Meta description:** Planifique la estancia para tratar el linfoma de células del manto en China distinguiendo preparación, ciclos, mantenimiento y controles de medicación.

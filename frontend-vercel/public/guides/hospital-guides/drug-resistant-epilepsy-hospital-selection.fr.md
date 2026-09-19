@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choisir un hôpital en Chine pour l’épilepsie pharmacorésistante : adapter le centre au problème clinique
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Épilepsie pharmacorésistante
-- **Subtitle:** Un clinicien connu, un dispositif avancé ou le récit d’un cas réussi peut être la première chose qu’un patient voit en recherchant des soins.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choisir un hôpital en Chine pour l’épilepsie pharmacorésistante : adapter le centre au problème clinique
+- **Subtitle:** Choisissez un centre d’épilepsie pharmacorésistante en Chine selon l’âge, le type de crises, les examens et le processus de décision multidisciplinaire.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -172,3 +174,6 @@ Une présélection n’a pas besoin de contenir beaucoup d’établissements. Co
 ## SEO Metadata
 
 - **Primary keyword:** choisir un hôpital d’épilepsie pharmacorésistante en Chine ; centre complet d’épilepsie ; soins multidisciplinaires de l’épilepsie pédiatrique
+
+- **Meta title:** Choisir un hôpital en Chine pour l’épilepsie pharmacorésistante : adapter le centre au problème clinique
+- **Meta description:** Choisissez un centre d’épilepsie pharmacorésistante en Chine selon l’âge, le type de crises, les examens et le processus de décision multidisciplinaire.

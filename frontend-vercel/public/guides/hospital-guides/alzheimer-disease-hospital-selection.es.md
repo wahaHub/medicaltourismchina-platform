@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Elegir un hospital para el alzhéimer en China: evaluación de la memoria, tratamiento con anticuerpos y apoyo a los cuidados
 - **Category:** Guías de hospitales
 - **Subcategory:** Enfermedad de Alzheimer
-- **Subtitle:** Elegir un hospital para la enfermedad de Alzheimer empieza por el problema que la consulta debe resolver.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Elegir un hospital para el alzhéimer en China: evaluación de la memoria, tratamiento con anticuerpos y apoyo a los cuidados
+- **Subtitle:** Valore hospitales de Alzheimer en China según la evaluación de memoria, la vigilancia del tratamiento con anticuerpos y el apoyo a pacientes y cuidadores.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Considere la distancia, la disponibilidad de un acompañante cuidador constante 
 ## SEO Metadata
 
 - **Primary keyword:** hospitales para el alzhéimer en China
+
+- **Meta title:** Elegir un hospital para el alzhéimer en China: evaluación de la memoria, tratamiento con anticuerpos y apoyo a los cuidados
+- **Meta description:** Valore hospitales de Alzheimer en China según la evaluación de memoria, la vigilancia del tratamiento con anticuerpos y el apoyo a pacientes y cuidadores.

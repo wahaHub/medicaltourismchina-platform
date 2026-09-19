@@ -1,15 +1,17 @@
-# 014 Informierte Einwilligung über Sprachgrenzen hinweg: Fragen, die Patienten stellen sollten
+# Informierte Einwilligung über Sprachgrenzen hinweg in China
 
 ## Hero
 
-- **Title:** Informierte Einwilligung über Sprachgrenzen hinweg: Fragen, die Patienten stellen sollten
 - **Category:** Ratgeber zur Gesundheitsversorgung in China
 - **Subcategory:** Sprache, Rechte und Entscheidungen
-- **Subtitle:** Einwilligung ist ein Gespräch über die vorgeschlagene Versorgung, wesentliche Risiken, Alternativen und die Entscheidung des Patienten – keine durch Rätselraten erlangte Unterschrift.
 - **Reviewed by:** Redaktionsteam von Medora Health; vor Veröffentlichung sind klinische, rechtliche und sprachzugangsbezogene Prüfungen erforderlich
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ein internationaler Patient und eine Begleitperson stellen einem Arzt Fragen, bevor sie der Versorgung zustimmen
+
+
+- **Title:** Informierte Einwilligung über Sprachgrenzen hinweg in China
+- **Subtitle:** Einwilligung ist ein Gespräch über die vorgeschlagene Versorgung, wesentliche Risiken, Alternativen und die Entscheidung des Patienten – keine durch Rätselraten erlangte Unterschrift.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -188,13 +190,15 @@ Nicht automatisch. Fragen Sie den Chirurgen, welche vorhersehbaren Erweiterungen
 ## SEO Metadata
 
 - **Slug:** `informed-consent-across-languages-questions-patients-should-ask`
-- **Meta title:** Informierte Einwilligung über Sprachgrenzen hinweg in China
-- **Meta description:** Stellen Sie gezieltere Fragen zu Nutzen, Risiken, Alternativen, Dolmetschern und Planänderungen, bevor Sie ein Einwilligungsformular eines chinesischen Krankenhauses unterschreiben.
 - **Primary keyword:** informierte Einwilligung in chinesischen Krankenhäusern
 - **Pillar keyword:** Gesundheitsversorgung in China für internationale Patienten
 - **Vertical keyword:** informierte Einwilligung über Sprachgrenzen hinweg
 - **Search intent:** Information / Unterstützung bei Behandlungsentscheidungen
 - **Secondary keywords:** englische Einwilligung chinesisches Krankenhaus; medizinischer Dolmetscher Einwilligung; Operationseinwilligung China
+
+
+- **Meta title:** Informierte Einwilligung über Sprachgrenzen hinweg in China
+- **Meta description:** Stellen Sie gezieltere Fragen zu Nutzen, Risiken, Alternativen, Dolmetschern und Planänderungen, bevor Sie ein Einwilligungsformular eines chinesischen Krankenhauses unterschreiben.
 
 ## Quellen
 

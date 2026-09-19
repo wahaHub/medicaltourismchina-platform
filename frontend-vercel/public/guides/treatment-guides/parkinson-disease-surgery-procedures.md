@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Deep brain stimulation for Parkinson’s disease: assessment, surgery and follow-up after treatment in China
 - **Category:** Treatment Guides
 - **Subcategory:** Parkinson Disease
-- **Subtitle:** A person may walk and dress reasonably well when medication is working, then become markedly stiff when its effect fades.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Deep brain stimulation for Parkinson’s disease: assessment, surgery and follow-up after treatment in China
+- **Subtitle:** Prepare for Parkinson’s DBS in China with assessment, target selection, surgical expectations, programming and care arrangements after returning home.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ Rehabilitation remains relevant after DBS. Walking, balance and daily activities
 ## SEO Metadata
 
 - **Primary keyword:** Parkinson’s disease DBS surgery
+
+- **Meta title:** Deep brain stimulation for Parkinson’s disease: assessment, surgery and follow-up after treatment in China
+- **Meta description:** Prepare for Parkinson’s DBS in China with assessment, target selection, surgical expectations, programming and care arrangements after returning home.

@@ -1,12 +1,14 @@
-# How long DLBCL treatment takes: cycles, assessment and time away from home
+# DLBCL Treatment in China: Cycles, Reviews and Length of Stay
 
 ## Hero
 
-- **Title:** How long DLBCL treatment takes: cycles, assessment and time away from home
 - **Category:** Treatment Guides
 - **Subcategory:** Diffuse Large B Cell Lymphoma
-- **Subtitle:** DLBCL treatment time is more than the number of infusion days.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL Treatment in China: Cycles, Reviews and Length of Stay
+- **Subtitle:** Estimate time needed for DLBCL care in China using treatment cycles, response checks and recovery, with flexibility for changes in the clinical plan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ For the family calendar, mark a date as provisional or confirmed and write the c
 ## SEO Metadata
 
 - **Primary keyword:** DLBCL treatment duration
+
+- **Meta title:** DLBCL Treatment in China: Cycles, Reviews and Length of Stay
+- **Meta description:** Estimate time needed for DLBCL care in China using treatment cycles, response checks and recovery, with flexibility for changes in the clinical plan.

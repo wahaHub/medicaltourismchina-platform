@@ -1,12 +1,14 @@
-# ¿Cuánto dura el tratamiento de la epilepsia farmacorresistente? Planificar medicamentos, procedimientos y retirada
+# Atención de epilepsia farmacorresistente en China: plazos del tratamiento
 
 ## Hero
 
-- **Title:** ¿Cuánto dura el tratamiento de la epilepsia farmacorresistente? Planificar medicamentos, procedimientos y retirada
 - **Category:** Guías de tratamiento
 - **Subcategory:** Epilepsia farmacorresistente
-- **Subtitle:** La duración de un ingreso hospitalario y la del tratamiento de la epilepsia responden a preguntas diferentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Atención de epilepsia farmacorresistente en China: plazos del tratamiento
+- **Subtitle:** Planifique la atención de epilepsia farmacorresistente en China según las decisiones pendientes, la titulación de fármacos y la evaluación para procedimientos.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -162,3 +164,6 @@ Nadie puede programar de forma fiable todas las decisiones terapéuticas futuras
 ## SEO Metadata
 
 - **Primary keyword:** duración del tratamiento de la epilepsia farmacorresistente; retirada de medicación después de cirugía de epilepsia; calendario de tratamiento de epilepsia en China
+
+- **Meta title:** Atención de epilepsia farmacorresistente en China: plazos del tratamiento
+- **Meta description:** Planifique la atención de epilepsia farmacorresistente en China según las decisiones pendientes, la titulación de fármacos y la evaluación para procedimientos.

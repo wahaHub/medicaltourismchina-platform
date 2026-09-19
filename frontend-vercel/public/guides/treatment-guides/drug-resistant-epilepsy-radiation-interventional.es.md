@@ -1,12 +1,14 @@
-# SEEG y ablación focal para epilepsia farmacorresistente: diferencias entre registro, tratamiento por radiofrecuencia y terapia láser
+# Estereoelectroencefalografía y ablación de epilepsia en China: pruebas frente a tratamiento
 
 ## Hero
 
-- **Title:** SEEG y ablación focal para epilepsia farmacorresistente: diferencias entre registro, tratamiento por radiofrecuencia y terapia láser
 - **Category:** Guías de tratamiento
 - **Subcategory:** Epilepsia farmacorresistente
-- **Subtitle:** Cuando un paciente oye que los electrodos implantados también pueden usarse para termocoagulación, puede parecer que un solo ingreso localizará y eliminará la causa de las crisis.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Estereoelectroencefalografía y ablación de epilepsia en China: pruebas frente a tratamiento
+- **Subtitle:** Distinga el registro mediante estereoelectroencefalografía de la ablación por radiofrecuencia o láser para preparar una evaluación de epilepsia en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Si la atención continuada será fuera de China, identifique al médico que revi
 ## SEO Metadata
 
 - **Primary keyword:** SEEG para epilepsia farmacorresistente; termocoagulación por radiofrecuencia para epilepsia; ablación láser; evaluación mínimamente invasiva de epilepsia en China
+
+- **Meta title:** Estereoelectroencefalografía y ablación de epilepsia en China: pruebas frente a tratamiento
+- **Meta description:** Distinga el registro mediante estereoelectroencefalografía de la ablación por radiofrecuencia o láser para preparar una evaluación de epilepsia en China.

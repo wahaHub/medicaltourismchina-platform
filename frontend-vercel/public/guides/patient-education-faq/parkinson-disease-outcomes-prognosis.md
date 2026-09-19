@@ -1,12 +1,14 @@
-# Parkinson’s disease outcomes and prognosis: independence, long-term risks and planning ahead
+# Parkinson’s Prognosis: Planning Ongoing Care in China
 
 ## Hero
 
-- **Title:** Parkinson’s disease outcomes and prognosis: independence, long-term risks and planning ahead
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Parkinson Disease
-- **Subtitle:** “How long will I remain independent?” often comes closer to a patient’s concern than the number of points gained on a movement scale.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Parkinson’s Prognosis: Planning Ongoing Care in China
+- **Subtitle:** Explore Parkinson’s prognosis through independence, symptoms and long-term care needs, and prepare a continuing plan after assessment in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -122,3 +124,6 @@ A plan that can continue where the patient lives, with responsibility assigned a
 ## SEO Metadata
 
 - **Primary keyword:** Parkinson’s disease prognosis
+
+- **Meta title:** Parkinson’s Prognosis: Planning Ongoing Care in China
+- **Meta description:** Explore Parkinson’s prognosis through independence, symptoms and long-term care needs, and prepare a continuing plan after assessment in China.

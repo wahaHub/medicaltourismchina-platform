@@ -1,12 +1,14 @@
-# Obat untuk anemia aplastik: memahami ATG, cyclosporine, dan eltrombopag
+# Obat Anemia Aplastik di Tiongkok: ATG, Siklosporin, dan Pilihan Lain
 
 ## Hero
 
-- **Title:** Obat untuk anemia aplastik: memahami ATG, cyclosporine, dan eltrombopag
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Anemia Aplastik
-- **Subtitle:** Tas obat anemia aplastik dapat berisi terapi jangka panjang, pencegahan infeksi, dan pengobatan singkat untuk gejala atau efek merugikan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat Anemia Aplastik di Tiongkok: ATG, Siklosporin, dan Pilihan Lain
+- **Subtitle:** Pahami peran ATG, siklosporin, dan eltrombopag dalam anemia aplastik. Siapkan pertanyaan formulasi, pemantauan organ, serta perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ Anggaran renminbi terperinci harus memisahkan ATG dan pemberiannya, obat oral be
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan obat anemia aplastik
+
+- **Meta title:** Obat Anemia Aplastik di Tiongkok: ATG, Siklosporin, dan Pilihan Lain
+- **Meta description:** Pahami peran ATG, siklosporin, dan eltrombopag dalam anemia aplastik. Siapkan pertanyaan formulasi, pemantauan organ, serta perawatan di Tiongkok.

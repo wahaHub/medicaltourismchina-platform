@@ -1,12 +1,14 @@
-# Radioterapia y procedimientos intervencionistas para la esclerosis múltiple: elegir un objetivo terapéutico específico
+# Procedimientos intervencionistas de esclerosis múltiple en China: objetivos y límites
 
 ## Hero
 
-- **Title:** Radioterapia y procedimientos intervencionistas para la esclerosis múltiple: elegir un objetivo terapéutico específico
 - **Category:** Guías de tratamiento
 - **Subcategory:** Esclerosis múltiple
-- **Subtitle:** Un informe de resonancia magnética que muestre varias lesiones cerebrales puede hacer que la radiación focalizada parezca una solución directa.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Procedimientos intervencionistas de esclerosis múltiple en China: objetivos y límites
+- **Subtitle:** Comprenda los objetivos de procedimientos para dolor facial, espasticidad, vejiga o pie caído en esclerosis múltiple al valorar atención especializada en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ La decisión de viajar debe basarse en si todo el proceso es viable: selección 
 ## SEO Metadata
 
 - **Primary keyword:** radioterapia y tratamiento intervencionista de la esclerosis múltiple
+
+- **Meta title:** Procedimientos intervencionistas de esclerosis múltiple en China: objetivos y límites
+- **Meta description:** Comprenda los objetivos de procedimientos para dolor facial, espasticidad, vejiga o pie caído en esclerosis múltiple al valorar atención especializada en China.

@@ -1,15 +1,17 @@
-# Ein persönlicher Sicherheitsplan für medizinische Reisen, der auch bei Veränderungen funktioniert
+# Behandlungsreisen nach China: Persönlicher Sicherheits- und Notfallplan
 
 ## Hero
 
-- **Title:** Ein persönlicher Sicherheitsplan für medizinische Reisen, der auch bei Veränderungen funktioniert
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Patientenentscheidungen & Unterstützung für Betreuungspersonen
-- **Subtitle:** Erstellen Sie ein kompaktes Risikoregister, Entscheidungspunkte, eine Kontaktkette und einen Ausweichweg für die wichtigsten Probleme bei Behandlung, Reise und Erholung.
 - **Reviewed by:** Medora Health Redaktion
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Patient und Begleitperson erstellen eine Checkliste für medizinische Reisen neben Kalender, Krankenhausroute, Dokumenten und Gepäck
+
+
+- **Title:** Behandlungsreisen nach China: Persönlicher Sicherheits- und Notfallplan
+- **Subtitle:** Erstellen Sie ein Risikoregister für medizinische Reisen, Entscheidungspunkte, Notfallkontakte, Unterlagen, Medikamentenpläne, Versicherung und Erholungsausweichlösungen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Testen Sie den Plan vor der Reise. Kann die Begleitperson die Allergieliste nicht offline öffnen oder nicht erklären, wen sie um 2 Uhr morgens anrufen muss, ist der Plan nicht fertig.
 
 ## Content
+
+Vereinbaren Sie vor einer Behandlungsreise nach China, wer sich um eine geänderte Diagnose, eine verzögerte Entlassung oder ein dringliches Symptom kümmert. Nutzen Sie diesen Leitfaden, um Krankenhauskontakte, Medikamente, Unterlagen und alternative Reisevereinbarungen zu einem Plan zusammenzuführen, den Patient und Begleitperson tatsächlich nutzen können.
+
 
 Die meisten Reisepläne funktionieren, wenn die Diagnose gleich bleibt, Flüge pünktlich sind, der Patient sich rasch erholt und jedes Telefon Empfang hat. Ein Sicherheitsplan beginnt mit der gegenteiligen Frage: Welcher einzelne Störfall würde den größten Schaden verursachen, und was tun wir, bevor daraus eine Krise wird?
 
@@ -196,11 +201,13 @@ Nach jeder Änderung von Diagnose, Zustand, Medikament, Behandlung, Route, Betre
 
 ## SEO Metadata
 
-- **SEO title:** Persönlicher Sicherheitsplan für medizinische Reisen: Risiken und Ausweichlösungen
-- **Meta description:** Erstellen Sie ein Risikoregister für medizinische Reisen, Entscheidungspunkte, Notfallkontakte, Unterlagen, Medikamentenpläne, Versicherung und Erholungsausweichlösungen.
 - **Primary keyword:** persönlicher Sicherheitsplan für medizinische Reisen
 - **Secondary keywords:** Sicherheitscheckliste Medizintourismus, Notfallplan Auslandsbehandlung, Risikoregister medizinische Reisen, Ausweichplan internationale Patienten, Sicherheit bei Behandlung im Ausland
 - **Suggested URL slug:** `/personal-medical-travel-safety-plan`
+
+
+- **Meta title:** Behandlungsreisen nach China: Persönlicher Sicherheits- und Notfallplan
+- **Meta description:** Erstellen Sie ein Risikoregister für medizinische Reisen, Entscheidungspunkte, Notfallkontakte, Unterlagen, Medikamentenpläne, Versicherung und Erholungsausweichlösungen.
 
 ## Quellen
 

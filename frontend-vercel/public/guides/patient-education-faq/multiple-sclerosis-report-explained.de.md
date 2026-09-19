@@ -1,12 +1,14 @@
-# Einen MS-Befund verstehen: MRT-Läsionen, Nervenwasserbefunde und Funktionsmessungen
+# Befunde zur Multiplen Sklerose: Vorbereitung auf eine Prüfung in China
 
 ## Hero
 
-- **Title:** Einen MS-Befund verstehen: MRT-Läsionen, Nervenwasserbefunde und Funktionsmessungen
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Multiple Sklerose
-- **Subtitle:** Begriffe wie „mehrere Läsionen“, „mögliche Demyelinisierung“ und „positive oligoklonale Banden“ können wie unmittelbare Schlussfolgerungen über Schweregrad oder Therapieversagen klingen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Befunde zur Multiplen Sklerose: Vorbereitung auf eine Prüfung in China
+- **Subtitle:** MS-Befunde für eine Prüfung in China verstehen: MRT-Veränderungen, Nervenwasser, Antikörper und Funktionswerte mit Zeitpunkt und klinischem Verlauf verbinden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Wenn weitere Untersuchungen angefordert werden, fragen Sie, welche Informationen
 ## SEO Metadata
 
 - **Primary keyword:** Interpretation von MRT- und Untersuchungsbefunden bei Multipler Sklerose
+
+- **Meta title:** Befunde zur Multiplen Sklerose: Vorbereitung auf eine Prüfung in China
+- **Meta description:** MS-Befunde für eine Prüfung in China verstehen: MRT-Veränderungen, Nervenwasser, Antikörper und Funktionswerte mit Zeitpunkt und klinischem Verlauf verbinden.

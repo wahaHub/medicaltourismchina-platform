@@ -1,12 +1,14 @@
-# How long does GVHD treatment take? Planning admission, response assessment, tapering, and return travel
+# GVHD Treatment in China: Admission, Review and Travel Timing
 
 ## Hero
 
-- **Title:** How long does GVHD treatment take? Planning admission, response assessment, tapering, and return travel
 - **Category:** Treatment Guides
 - **Subcategory:** Graft Versus Host Disease
-- **Subtitle:** The length of a visit to China and the length of graft-versus-host disease treatment are different questions.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** GVHD Treatment in China: Admission, Review and Travel Timing
+- **Subtitle:** Plan GVHD treatment time in China around organ needs, admission, response reviews, tapering and the conditions for a safe return journey.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ A productive duration discussion leaves three practical answers: the goal of the
 ## SEO Metadata
 
 - **Primary keyword:** GVHD treatment duration and hospital stay in China
+
+- **Meta title:** GVHD Treatment in China: Admission, Review and Travel Timing
+- **Meta description:** Plan GVHD treatment time in China around organ needs, admission, response reviews, tapering and the conditions for a safe return journey.

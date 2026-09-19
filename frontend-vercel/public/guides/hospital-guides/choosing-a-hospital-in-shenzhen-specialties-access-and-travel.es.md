@@ -1,15 +1,17 @@
-# 104 Elegir un hospital en Shenzhen: adecuación clínica, límites transfronterizos y viaje
+# Elegir un hospital en China: Shenzhen y atención transfronteriza
 
 ## Hero
 
-- **Title:** Elegir un hospital en Shenzhen: adecuación clínica, límites transfronterizos y viaje
 - **Category:** Guías de hospitales
 - **Subcategory:** Planificación de la atención en Shenzhen
-- **Subtitle:** Determine primero el responsable clínico y la sede exacta; después compruebe la cadena de pasaporte, datos, frontera, pago, urgencias y regreso a casa.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustración conceptual de viajeros internacionales que comparan el acceso hospitalario en Shenzhen; los iconos del horizonte urbano, hospital, médico y tren no identifican una sede, ruta ni recomendación reales.
+
+
+- **Title:** Elegir un hospital en China: Shenzhen y atención transfronteriza
+- **Subtitle:** Elija un hospital de Shenzhen verificando el responsable clínico, la sede legal, la cadena de pasaporte y datos, los límites de las políticas fronterizas, la ruta de viaje, el respaldo de urgencias y el traspaso al alta.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -224,13 +226,15 @@ Ha habido un proyecto piloto de cooperación, pero eso no crea un derecho a dema
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-shenzhen-specialties-access-and-travel`
-- **Meta title:** Elegir un hospital en Shenzhen: adecuación clínica y límites transfronterizos
-- **Meta description:** Elija un hospital de Shenzhen verificando el responsable clínico, la sede legal, la cadena de pasaporte y datos, los límites de las políticas fronterizas, la ruta de viaje, el respaldo de urgencias y el traspaso al alta.
 - **Primary keyword:** elegir un hospital en Shenzhen
 - **Pillar keyword:** hospitales de Shenzhen para pacientes internacionales
 - **Vertical keyword:** especialidades acceso viaje hospitales Shenzhen
 - **Search intent:** comparación de hospitales / planificación de atención en Shenzhen y Hong Kong
 - **Secondary keywords:** reserva hospital Shenzhen pasaporte; datos médicos Shenzhen Hong Kong; ambulancia transfronteriza Shenzhen; sede hospital Shenzhen; emergencias Shenzhen 120
+
+
+- **Meta title:** Elegir un hospital en China: Shenzhen y atención transfronteriza
+- **Meta description:** Elija un hospital de Shenzhen verificando el responsable clínico, la sede legal, la cadena de pasaporte y datos, los límites de las políticas fronterizas, la ruta de viaje, el respaldo de urgencias y el traspaso al alta.
 
 ## Fuentes
 

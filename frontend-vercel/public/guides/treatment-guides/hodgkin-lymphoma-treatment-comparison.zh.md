@@ -1,12 +1,14 @@
-# 霍奇金淋巴瘤方案比较：ABVD、N-AVD、BV-AVD与BrECADD怎么讨论
+# 中国霍奇金淋巴瘤治疗方案比较
 
 ## Hero
 
-- **Title:** 霍奇金淋巴瘤方案比较：ABVD、N-AVD、BV-AVD与BrECADD怎么讨论
 - **Category:** 治疗指南
 - **Subcategory:** 霍奇金淋巴瘤
-- **Subtitle:** 霍奇金淋巴瘤方案比较：ABVD、N-AVD、BV-AVD与BrECADD怎么讨论
-- **Updated date:** 2026/09/09
+
+
+- **Title:** 中国霍奇金淋巴瘤治疗方案比较
+- **Subtitle:** 在中国比较霍奇金淋巴瘤治疗时，按病期、全身用药和放疗策略核对证据。结合心肺风险、治疗强度及个人需求理解方案差别，避免把不同人群的结果直接排名。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ FDA于2026年批准N-AVD的初治进展期适应证属于美国监管信息。�
 ## SEO Metadata
 
 - **Primary keyword:** 霍奇金淋巴瘤治疗方案比较
+
+- **Meta title:** 中国霍奇金淋巴瘤治疗方案比较
+- **Meta description:** 在中国比较霍奇金淋巴瘤治疗时，按病期、全身用药和放疗策略核对证据。结合心肺风险、治疗强度及个人需求理解方案差别，避免把不同人群的结果直接排名。

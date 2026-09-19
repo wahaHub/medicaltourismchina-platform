@@ -1,12 +1,14 @@
-# Radiasi untuk DLBCL: penyakit terlokalisasi, lokasi residual, dan peredaan gejala
+# Radioterapi DLBCL di Tiongkok: Kendali Lokal dan Peredaan Gejala
 
 ## Hero
 
-- **Title:** Radiasi untuk DLBCL: penyakit terlokalisasi, lokasi residual, dan peredaan gejala
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel B Besar Difus
-- **Subtitle:** Radiasi memiliki peran yang jelas dalam DLBCL, tetapi bukan langkah otomatis setelah kemoterapi.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Radioterapi DLBCL di Tiongkok: Kendali Lokal dan Peredaan Gejala
+- **Subtitle:** Pahami radioterapi DLBCL di Tiongkok untuk kendali lokal, temuan residual, atau peredaan gejala. Bahas hasil PET, target, dan rencana keseluruhan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Tindak lanjut harus mengidentifikasi siapa yang menafsirkan pencitraan berikutny
 ## SEO Metadata
 
 - **Primary keyword:** terapi radiasi untuk DLBCL
+
+- **Meta title:** Radioterapi DLBCL di Tiongkok: Kendali Lokal dan Peredaan Gejala
+- **Meta description:** Pahami radioterapi DLBCL di Tiongkok untuk kendali lokal, temuan residual, atau peredaan gejala. Bahas hasil PET, target, dan rencana keseluruhan.

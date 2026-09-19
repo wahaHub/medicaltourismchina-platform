@@ -1,12 +1,14 @@
-# Types de maladie de Parkinson : comment l’âge de début, le tremblement et les troubles de la marche influencent les soins
+# Types et risques de Parkinson : préparer des soins en Chine
 
 ## Hero
 
-- **Title:** Types de maladie de Parkinson : comment l’âge de début, le tremblement et les troubles de la marche influencent les soins
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Maladie de Parkinson
-- **Subtitle:** Les patients espèrent souvent qu’un sous-type éclairera leur avenir : une maladie à prédominance de tremblement reste-t-elle légère ?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Types et risques de Parkinson : préparer des soins en Chine
+- **Subtitle:** Distinguez les profils de Parkinson selon l’âge de début, le tremblement et les troubles de la marche pour préparer une évaluation des besoins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Informations vérifiées : September 9, 2026. Une équipe clinique doit interpr�
 ## SEO Metadata
 
 - **Primary keyword:** types de maladie de Parkinson et évaluation du risque
+
+- **Meta title:** Types et risques de Parkinson : préparer des soins en Chine
+- **Meta description:** Distinguez les profils de Parkinson selon l’âge de début, le tremblement et les troubles de la marche pour préparer une évaluation des besoins en Chine.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Combien coûte le traitement du lymphome T en Chine ? Construire une estimation comparable et actualisable
 - **Category:** Guides des coûts et des assurances
 - **Subcategory:** Lymphome T
-- **Subtitle:** Deux documents intitulés traitement du lymphome T peuvent décrire des prestations très différentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Combien coûte le traitement du lymphome T en Chine ? Construire une estimation comparable et actualisable
+- **Subtitle:** Construisez un budget du lymphome T en Chine selon le sous-type, la prescription et la phase de soins, en rendant visibles surveillance et soins de soutien.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Si le budget proposé dépasse les moyens durables de la famille, prévenez le c
 ## SEO Metadata
 
 - **Primary keyword:** coût du traitement du lymphome T en Chine
+
+- **Meta title:** Combien coûte le traitement du lymphome T en Chine ? Construire une estimation comparable et actualisable
+- **Meta description:** Construisez un budget du lymphome T en Chine selon le sous-type, la prescription et la phase de soins, en rendant visibles surveillance et soins de soutien.

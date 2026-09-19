@@ -1,12 +1,14 @@
-# Inconfort et risques thérapeutiques pendant la rééducation post-AVC : quand adapter ou demander de l’aide
+# Rééducation après AVC en Chine : inconfort et signes d’alerte
 
 ## Hero
 
-- **Title:** Inconfort et risques thérapeutiques pendant la rééducation post-AVC : quand adapter ou demander de l’aide
 - **Category:** Guides des traitements
 - **Subcategory:** Rééducation après un AVC ischémique
-- **Subtitle:** La rééducation comporte des exercices, mais la douleur, les vertiges ou une forte somnolence après un médicament ne doivent pas être automatiquement considérés comme la preuve que le traitement fonctionne.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rééducation après AVC en Chine : inconfort et signes d’alerte
+- **Subtitle:** Pendant une rééducation post-AVC en Chine, distinguez inconfort et urgence. Discutez protection de l’épaule, risque de chute et peau sous les équipements.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ Après un changement, réévaluez ce que la personne peut poursuivre sans danger
 ## SEO Metadata
 
 - **Primary keyword:** effets indésirables et sécurité de la rééducation post-AVC
+
+- **Meta title:** Rééducation après AVC en Chine : inconfort et signes d’alerte
+- **Meta description:** Pendant une rééducation post-AVC en Chine, distinguez inconfort et urgence. Discutez protection de l’épaule, risque de chute et peau sous les équipements.

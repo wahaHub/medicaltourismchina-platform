@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Costes del tratamiento del mieloma múltiple en China: obtener una estimación comparable por etapas
 - **Category:** Guías de costes y seguros
 - **Subcategory:** Mieloma múltiple
-- **Subtitle:** Un paciente recién diagnosticado que recibe inducción y mantenimiento, otro que se prepara para un trasplante autólogo y alguien que considera CAR-T tras una recaída siguen vías diferentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Costes del tratamiento del mieloma múltiple en China: obtener una estimación comparable por etapas
+- **Subtitle:** Solicite un presupuesto de mieloma múltiple en China por etapas, con pruebas, medicación, trasplante o terapias inmunológicas y recuperación bien definidos.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ El resultado útil es una estimación escrita y fechada que indique su alcance y
 ## SEO Metadata
 
 - **Primary keyword:** coste del tratamiento del mieloma múltiple en China
+
+- **Meta title:** Costes del tratamiento del mieloma múltiple en China: obtener una estimación comparable por etapas
+- **Meta description:** Solicite un presupuesto de mieloma múltiple en China por etapas, con pruebas, medicación, trasplante o terapias inmunológicas y recuperación bien definidos.

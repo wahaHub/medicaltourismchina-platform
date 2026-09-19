@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Biaya pengobatan GVHD di Tiongkok: menyusun perkiraan terperinci dalam RMB
 - **Category:** Panduan Biaya & Asuransi
 - **Subcategory:** Penyakit Graft Versus Host
-- **Subtitle:** Tidak ada satu harga nasional untuk mengobati penyakit graft-versus-host.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Biaya pengobatan GVHD di Tiongkok: menyusun perkiraan terperinci dalam RMB
+- **Subtitle:** Susun estimasi GVHD di Tiongkok berdasarkan organ terdampak dan kebutuhan perawatan. Rinci obat, pemeriksaan, rawat inap, serta dukungan nutrisi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ Hasil yang berguna adalah anggaran RMB yang dapat dijelaskan dengan ketidakpasti
 ## SEO Metadata
 
 - **Primary keyword:** biaya pengobatan GVHD di Tiongkok
+
+- **Meta title:** Biaya pengobatan GVHD di Tiongkok: menyusun perkiraan terperinci dalam RMB
+- **Meta description:** Susun estimasi GVHD di Tiongkok berdasarkan organ terdampak dan kebutuhan perawatan. Rinci obat, pemeriksaan, rawat inap, serta dukungan nutrisi.

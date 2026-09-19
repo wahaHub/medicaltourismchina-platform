@@ -1,12 +1,14 @@
-# New Drugs and Clinical Trials for Mantle Cell Lymphoma: Understanding the 2026 Updates
+# New Mantle Cell Lymphoma Treatments: China Trials and Access
 
 ## Hero
 
-- **Title:** New Drugs and Clinical Trials for Mantle Cell Lymphoma: Understanding the 2026 Updates
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Mantle Cell Lymphoma
-- **Subtitle:** News about a breakthrough or a chemotherapy-free regimen naturally raises the question of whether you could receive it.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** New Mantle Cell Lymphoma Treatments: China Trials and Access
+- **Subtitle:** Read new mantle cell lymphoma results in context, then verify the China treatment pathway, study eligibility, practical demands and costs.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ New publications can expand choices without requiring you to change an effective
 ## SEO Metadata
 
 - **Primary keyword:** new mantle cell lymphoma drugs and clinical trials 2026
+
+- **Meta title:** New Mantle Cell Lymphoma Treatments: China Trials and Access
+- **Meta description:** Read new mantle cell lymphoma results in context, then verify the China treatment pathway, study eligibility, practical demands and costs.

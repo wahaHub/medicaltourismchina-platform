@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Perlukah Anda bepergian ke Tiongkok untuk perawatan limfoma folikular?
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Limfoma Folikular
-- **Subtitle:** Perjalanan untuk perawatan limfoma folikular paling bermanfaat bila dapat mengatasi kekurangan yang jelas dalam rencana saat ini.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Perlukah Anda bepergian ke Tiongkok untuk perawatan limfoma folikular?
+- **Subtitle:** Nilai manfaat perjalanan limfoma folikular ke Tiongkok berdasarkan kesenjangan perawatan, fase penyakit, serta kesiapan medis dan kesinambungan terapi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Sebelum berangkat, Anda harus memiliki janji temu terkonfirmasi, metode transfer
 ## SEO Metadata
 
 - **Primary keyword:** siapa yang sebaiknya bepergian ke Tiongkok untuk pengobatan limfoma folikular
+
+- **Meta title:** Perlukah Anda bepergian ke Tiongkok untuk perawatan limfoma folikular?
+- **Meta description:** Nilai manfaat perjalanan limfoma folikular ke Tiongkok berdasarkan kesenjangan perawatan, fase penyakit, serta kesiapan medis dan kesinambungan terapi.

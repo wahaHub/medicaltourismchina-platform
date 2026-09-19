@@ -1,15 +1,17 @@
-# Hygiène des mains à l’hôpital : les patients peuvent poser des questions sans surveiller le service
+# Hygiène des mains à l’hôpital en Chine : guide des patients et des familles
 
 ## Hero
 
-- **Title:** Hygiène des mains à l’hôpital : les patients peuvent poser des questions sans surveiller le service
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Prévention des infections
-- **Subtitle:** Guide pratique des moments cliniques importants, du choix entre solution hydroalcoolique et eau et savon, de l’usage des gants, des habitudes des visiteurs et des façons respectueuses de s’exprimer.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Une infirmière hospitalière explique les précautions d’hygiène des mains à un patient à côté d’un symbole de lavage des mains bien visible
+
+
+- **Title:** Hygiène des mains à l’hôpital en Chine : guide des patients et des familles
+- **Subtitle:** Découvrez quand le personnel, les patients et les visiteurs doivent se nettoyer les mains, quand privilégier solution hydroalcoolique ou savon, pourquoi les gants ne suffisent pas et comment s’exprimer avec respect.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -168,11 +170,13 @@ Uniquement si l’équipe clinique leur a formellement enseigné et autorisé un
 
 ## SEO Metadata
 
-- **SEO title:** Hygiène des mains à l’hôpital : guide pour les patients et les familles
-- **Meta description:** Découvrez quand le personnel, les patients et les visiteurs doivent se nettoyer les mains, quand privilégier solution hydroalcoolique ou savon, pourquoi les gants ne suffisent pas et comment s’exprimer avec respect.
 - **Primary keyword:** hygiène des mains à l’hôpital
 - **Secondary keywords:** cinq moments de l’hygiène des mains, solution hydroalcoolique ou savon à l’hôpital, gants et hygiène des mains, prévention des infections chez le patient, lavage des mains C difficile, demander au médecin de se laver les mains
 - **Suggested URL slug:** `/hospital-hand-hygiene-patients-families`
+
+
+- **Meta title:** Hygiène des mains à l’hôpital en Chine : guide des patients et des familles
+- **Meta description:** Découvrez quand le personnel, les patients et les visiteurs doivent se nettoyer les mains, quand privilégier solution hydroalcoolique ou savon, pourquoi les gants ne suffisent pas et comment s’exprimer avec respect.
 
 ## Sources
 

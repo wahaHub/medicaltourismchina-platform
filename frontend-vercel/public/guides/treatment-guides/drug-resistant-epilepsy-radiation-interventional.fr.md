@@ -1,12 +1,14 @@
-# SEEG et ablation focale dans l’épilepsie pharmacorésistante : différences entre enregistrement, radiofréquence et laser
+# SEEG et ablation de l’épilepsie en Chine : examens et traitements
 
 ## Hero
 
-- **Title:** SEEG et ablation focale dans l’épilepsie pharmacorésistante : différences entre enregistrement, radiofréquence et laser
 - **Category:** Guides des traitements
 - **Subcategory:** Épilepsie pharmacorésistante
-- **Subtitle:** Lorsqu’un patient apprend que des électrodes implantées peuvent aussi servir à la thermocoagulation, il peut avoir l’impression qu’une seule hospitalisation localisera et éliminera la cause des crises.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** SEEG et ablation de l’épilepsie en Chine : examens et traitements
+- **Subtitle:** Distinguez enregistrement par SEEG, ablation par radiofréquence et laser dans l’épilepsie pour comprendre les objectifs et préparer une évaluation en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Si les soins ultérieurs ont lieu hors de Chine, identifiez le clinicien qui év
 ## SEO Metadata
 
 - **Primary keyword:** SEEG pour l’épilepsie pharmacorésistante ; thermocoagulation par radiofréquence de l’épilepsie ; ablation laser ; évaluation mini-invasive de l’épilepsie en Chine
+
+- **Meta title:** SEEG et ablation de l’épilepsie en Chine : examens et traitements
+- **Meta description:** Distinguez enregistrement par SEEG, ablation par radiofréquence et laser dans l’épilepsie pour comprendre les objectifs et préparer une évaluation en Chine.

@@ -1,12 +1,14 @@
-# Rehabilitation nach ischämischem Schlaganfall: von der Krankenhausbehandlung zum Alltag
+# Rehabilitation nach ischämischem Schlaganfall in China: Vom Krankenhaus nach Hause
 
 ## Hero
 
-- **Title:** Rehabilitation nach ischämischem Schlaganfall: von der Krankenhausbehandlung zum Alltag
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Rehabilitation nach ischämischem Schlaganfall
-- **Subtitle:** Nach einem ischämischen Schlaganfall fragen Angehörige oft, ob sich ein Arm oder Bein erholen wird.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rehabilitation nach ischämischem Schlaganfall in China: Vom Krankenhaus nach Hause
+- **Subtitle:** Schlaganfallrehabilitation in China planen: medizinische Stabilität, Alltagstraining, Schlucken, Sprache und Vorbeugung mit der Versorgung zu Hause verbinden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Verschiedene Fähigkeiten können sich unterschiedlich schnell erholen. Verände
 ## SEO Metadata
 
 - **Primary keyword:** Rehabilitation nach ischämischem Schlaganfall
+
+- **Meta title:** Rehabilitation nach ischämischem Schlaganfall in China: Vom Krankenhaus nach Hause
+- **Meta description:** Schlaganfallrehabilitation in China planen: medizinische Stabilität, Alltagstraining, Schlucken, Sprache und Vorbeugung mit der Versorgung zu Hause verbinden.

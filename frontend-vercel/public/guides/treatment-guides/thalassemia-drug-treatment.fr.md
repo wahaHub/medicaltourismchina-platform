@@ -1,12 +1,14 @@
-# Médicaments de la thalassémie : comprendre l’objectif d’une ordonnance et son plan de surveillance
+# Médicaments de la thalassémie en Chine : rôles, accès et surveillance
 
 ## Hero
 
-- **Title:** Médicaments de la thalassémie : comprendre l’objectif d’une ordonnance et son plan de surveillance
 - **Category:** Guides des traitements
 - **Subcategory:** Thalassémie
-- **Subtitle:** Une liste de médicaments pour la thalassémie peut comprendre des chélateurs, un traitement de l’anémie, des compléments nutritionnels et des médicaments pour d’autres problèmes de santé.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Médicaments de la thalassémie en Chine : rôles, accès et surveillance
+- **Subtitle:** Comprenez les objectifs des médicaments de la thalassémie, les formulations des chélateurs et leur surveillance rénale, hépatique et sanguine en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Le plan médicamenteux le plus utile comprend l’objectif de chaque médicament
 ## SEO Metadata
 
 - **Primary keyword:** médicaments de la thalassémie ; déférasirox ; défériprone ; déféroxamine ; luspatercept ; mitapivat
+
+- **Meta title:** Médicaments de la thalassémie en Chine : rôles, accès et surveillance
+- **Meta description:** Comprenez les objectifs des médicaments de la thalassémie, les formulations des chélateurs et leur surveillance rénale, hépatique et sanguine en Chine.

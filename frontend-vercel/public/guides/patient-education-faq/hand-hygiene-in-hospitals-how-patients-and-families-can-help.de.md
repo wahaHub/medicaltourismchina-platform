@@ -1,15 +1,17 @@
-# Händehygiene im Krankenhaus: Patienten dürfen nachfragen, ohne die Station zu kontrollieren
+# Händehygiene im Krankenhaus in China: Leitfaden für Patienten und Angehörige
 
 ## Hero
 
-- **Title:** Händehygiene im Krankenhaus: Patienten dürfen nachfragen, ohne die Station zu kontrollieren
 - **Category:** Patienteninformation & häufige Fragen
 - **Subcategory:** Infektionsprävention
-- **Subtitle:** Ein praktischer Leitfaden zu entscheidenden klinischen Situationen, Desinfektionsmittel im Vergleich zu Wasser und Seife, Handschuhgebrauch, Besuchergewohnheiten und respektvollem Nachfragen.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Pflegekraft im Krankenhaus erklärt einem Patienten neben einem deutlich sichtbaren Händewaschsymbol Vorsichtsmaßnahmen für saubere Hände
+
+
+- **Title:** Händehygiene im Krankenhaus in China: Leitfaden für Patienten und Angehörige
+- **Subtitle:** Erfahren Sie, wann Krankenhauspersonal, Patienten und Besucher ihre Hände reinigen sollten, wann Desinfektionsmittel oder Seife bevorzugt werden, warum Handschuhe nicht genügen und wie Sie respektvoll nachfragen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -168,11 +170,13 @@ Nur wenn das klinische Team sie für eine konkrete Pflegetätigkeit formell ange
 
 ## SEO Metadata
 
-- **SEO title:** Händehygiene im Krankenhaus: Ein Leitfaden für Patienten und Angehörige
-- **Meta description:** Erfahren Sie, wann Krankenhauspersonal, Patienten und Besucher ihre Hände reinigen sollten, wann Desinfektionsmittel oder Seife bevorzugt werden, warum Handschuhe nicht genügen und wie Sie respektvoll nachfragen.
 - **Primary keyword:** Händehygiene im Krankenhaus
 - **Secondary keywords:** fünf Momente der Händehygiene, Desinfektionsmittel oder Seife im Krankenhaus, Handschuhe und Händehygiene, Infektionsprävention für Patienten, Händewaschen bei C difficile, Arzt um Händewaschen bitten
 - **Suggested URL slug:** `/hospital-hand-hygiene-patients-families`
+
+
+- **Meta title:** Händehygiene im Krankenhaus in China: Leitfaden für Patienten und Angehörige
+- **Meta description:** Erfahren Sie, wann Krankenhauspersonal, Patienten und Besucher ihre Hände reinigen sollten, wann Desinfektionsmittel oder Seife bevorzugt werden, warum Handschuhe nicht genügen und wie Sie respektvoll nachfragen.
 
 ## Quellen
 

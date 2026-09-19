@@ -1,12 +1,14 @@
-# Tipos de linfoma de células T: por qué subtipo, estadio y riesgo describen cosas distintas
+# Tipos y riesgo del linfoma de células T: prepararse para la atención en China
 
 ## Hero
 
-- **Title:** Tipos de linfoma de células T: por qué subtipo, estadio y riesgo describen cosas distintas
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma de células T
-- **Subtitle:** Una persona con un linfoma de células T puede recibir tratamiento dirigido a la piel mientras otra necesita quimioterapia sistémica.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tipos y riesgo del linfoma de células T: prepararse para la atención en China
+- **Subtitle:** Distinga subtipo, estadio y riesgo del linfoma de células T, incluidas las formas cutáneas y asociadas a virus, antes de preparar atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Una respuesta útil podría identificar la necesidad de una revisión anatomopat
 ## SEO Metadata
 
 - **Primary keyword:** tipos de linfoma de células T y grupos de riesgo
+
+- **Meta title:** Tipos y riesgo del linfoma de células T: prepararse para la atención en China
+- **Meta description:** Distinga subtipo, estadio y riesgo del linfoma de células T, incluidas las formas cutáneas y asociadas a virus, antes de preparar atención en China.

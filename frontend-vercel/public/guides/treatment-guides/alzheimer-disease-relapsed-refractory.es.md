@@ -1,12 +1,14 @@
-# El alzhéimer empeora pese al tratamiento: ¿qué debería hacerse ahora?
+# Empeoramiento del Alzheimer: prepararse para una reevaluación en China
 
 ## Hero
 
-- **Title:** El alzhéimer empeora pese al tratamiento: ¿qué debería hacerse ahora?
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de Alzheimer
-- **Subtitle:** Cuando la memoria o la función cotidiana siguen deteriorándose durante el tratamiento, las familias pueden preguntarse si la enfermedad ha recaído, se ha vuelto resistente o necesita inmediatamente un medicamento más potente.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Empeoramiento del Alzheimer: prepararse para una reevaluación en China
+- **Subtitle:** Prepare una reevaluación del Alzheimer en China con la evolución de los síntomas, la medicación real y los cambios cotidianos, distinguiendo deterioro brusco y gradual.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ Encontrar otro medicamento es solo una respuesta posible. Una revisión que prod
 ## SEO Metadata
 
 - **Primary keyword:** el alzhéimer empeora pese al tratamiento
+
+- **Meta title:** Empeoramiento del Alzheimer: prepararse para una reevaluación en China
+- **Meta description:** Prepare una reevaluación del Alzheimer en China con la evolución de los síntomas, la medicación real y los cambios cotidianos, distinguiendo deterioro brusco y gradual.

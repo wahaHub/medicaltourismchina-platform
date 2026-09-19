@@ -1,12 +1,14 @@
-# Nebenwirkungen der Alzheimer-Behandlung: Probleme erkennen und die richtige Hilfe erhalten
+# Alzheimer-Behandlung in China: Nebenwirkungen und dringliche Warnzeichen
 
 ## Hero
 
-- **Title:** Nebenwirkungen der Alzheimer-Behandlung: Probleme erkennen und die richtige Hilfe erhalten
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Alzheimer-Krankheit
-- **Subtitle:** Eine Person beginnt eine Alzheimer-Behandlung und isst anschließend weniger, verschläft das Mittagessen oder wird unsicher auf den Beinen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Alzheimer-Behandlung in China: Nebenwirkungen und dringliche Warnzeichen
+- **Subtitle:** Nebenwirkungen der Alzheimer-Behandlung in China einordnen: Magenbeschwerden, Schwindel, Sedierung und Antikörperrisiken mit einem klaren Überwachungsplan besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -111,3 +113,6 @@ Eine nützliche Notiz zu einem unerwünschten Ereignis nennt Medikament und Stä
 ## SEO Metadata
 
 - **Primary keyword:** Nebenwirkungen der Alzheimer-Behandlung
+
+- **Meta title:** Alzheimer-Behandlung in China: Nebenwirkungen und dringliche Warnzeichen
+- **Meta description:** Nebenwirkungen der Alzheimer-Behandlung in China einordnen: Magenbeschwerden, Schwindel, Sedierung und Antikörperrisiken mit einem klaren Überwachungsplan besprechen.

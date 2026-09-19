@@ -1,15 +1,17 @@
-# 091 Radiothérapie guidée par IRM : comment l’imagerie en temps réel soutient le traitement
+# Radiothérapie guidée par IRM en Chine : planification et sécurité
 
 ## Hero
 
-- **Title:** Radiothérapie guidée par IRM : comment l’imagerie en temps réel soutient le traitement
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Radiothérapie guidée par l’image et adaptative
-- **Subtitle:** Comprendre ce qui est visualisé, ce qui est adapté et ce que l’équipe doit encore décider.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Salle conceptuelle de radiothérapie guidée par IRM avec un patient positionné dans un appareil intégré, des images en coupe et une cible de traitement visible ; il ne s’agit ni d’une interface réelle ni d’un plan de dose.
+
+
+- **Title:** Radiothérapie guidée par IRM en Chine : planification et sécurité
+- **Subtitle:** Découvrez l’imagerie de positionnement, l’IRM ciné, l’asservissement et l’adaptation en ligne en radiothérapie guidée par IRM, les données, la sécurité, les contraintes des séances, l’assurance qualité et les dossiers.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,11 +137,13 @@ Non. Il peut permettre des marges plus petites ou une meilleure épargne des org
 ## SEO Metadata
 
 - **Slug:** `mr-guided-radiotherapy-how-real-time-imaging-supports-treatment`
-- **Meta title:** Radiothérapie guidée par IRM : imagerie en temps réel et adaptation
-- **Meta description:** Découvrez l’imagerie de positionnement, l’IRM ciné, l’asservissement et l’adaptation en ligne en radiothérapie guidée par IRM, les données, la sécurité, les contraintes des séances, l’assurance qualité et les dossiers.
 - **Primary keyword:** radiothérapie guidée par IRM
 - **Secondary keywords:** MR-Linac ; radiothérapie adaptative en ligne ; radiothérapie IRM en temps réel ; SBRT guidée par IRM ; asservissement des rayonnements
 - **Search intent:** explication technologique / planification de radiothérapie
+
+
+- **Meta title:** Radiothérapie guidée par IRM en Chine : planification et sécurité
+- **Meta description:** Découvrez l’imagerie de positionnement, l’IRM ciné, l’asservissement et l’adaptation en ligne en radiothérapie guidée par IRM, les données, la sécurité, les contraintes des séances, l’assurance qualité et les dossiers.
 
 ## Sources
 

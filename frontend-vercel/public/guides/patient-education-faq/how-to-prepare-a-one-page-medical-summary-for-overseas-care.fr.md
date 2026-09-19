@@ -1,15 +1,17 @@
-# Résumé médical d’une page pour des soins à l’étranger : rendre la première minute utile
+# Résumé médical pour des soins en Chine : modèle sur une page
 
 ## Hero
 
-- **Title:** Résumé médical d’une page pour des soins à l’étranger : rendre la première minute utile
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Décision du patient et soutien aux aidants
-- **Subtitle:** Une méthode champ par champ pour transformer des antécédents médicaux dispersés en une transmission concise, datée et cliniquement utile.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un patient et son accompagnant examinent un résumé médical concis avec un clinicien avant des soins à l’étranger
+
+
+- **Title:** Résumé médical pour des soins en Chine : modèle sur une page
+- **Subtitle:** Préparez un résumé médical concis pour l’étranger avec la bonne question d’orientation, les diagnostics, allergies, médicaments, résultats, dispositifs et pièces jointes indexées.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Le résumé ne remplace jamais les comptes rendus originaux, l’anatomopathologie, les images DICOM ou les emballages des médicaments. Il doit renvoyer à ces fichiers avec un index simple.
 
 ## Content
+
+Lorsque vous envoyez un dossier à un hôpital en Chine, placez un résumé médical concis en tête de l’ensemble des documents. Rendez faciles à repérer la question motivant l’orientation, le diagnostic, les allergies, les médicaments et les résultats d’examens datés, tout en conservant les comptes rendus originaux pour l’évaluation clinique.
+
 
 Dans un hôpital à l’étranger, le premier clinicien peut disposer de dix minutes, être confronté à une langue inconnue et à des centaines de pages téléversées. Un bon résumé d’une page lui permet de comprendre les grandes lignes du cas avant d’ouvrir les archives. Un mauvais résumé cache le motif d’orientation sous tous les examens normaux que le patient a jamais eus.
 
@@ -176,11 +181,13 @@ Mettez-la à jour après un changement significatif de diagnostic, médicament, 
 
 ## SEO Metadata
 
-- **SEO title:** Résumé médical d’une page pour des soins à l’étranger : guide de modèle
-- **Meta description:** Préparez un résumé médical concis pour l’étranger avec la bonne question d’orientation, les diagnostics, allergies, médicaments, résultats, dispositifs et pièces jointes indexées.
 - **Primary keyword:** résumé médical d’une page pour des soins à l’étranger
 - **Secondary keywords:** résumé médical de patient international, traduction des antécédents médicaux, dossiers de traitement à l’étranger, résumé patient transfrontalier, modèle de résumé médical
 - **Suggested URL slug:** `/one-page-medical-summary-overseas-care`
+
+
+- **Meta title:** Résumé médical pour des soins en Chine : modèle sur une page
+- **Meta description:** Préparez un résumé médical concis pour l’étranger avec la bonne question d’orientation, les diagnostics, allergies, médicaments, résultats, dispositifs et pièces jointes indexées.
 
 ## Sources
 

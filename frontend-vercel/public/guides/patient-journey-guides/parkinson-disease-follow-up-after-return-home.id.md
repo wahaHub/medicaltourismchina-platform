@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Tindak Lanjut Parkinson Setelah Pengobatan di Tiongkok: Resep, Alat, dan Fungsi Sehari-hari di Rumah
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Penyakit Parkinson
-- **Subtitle:** Peninjauan pertama setelah kembali ke rumah harus memeriksa apakah rencana yang dibuat di Tiongkok berjalan dalam kehidupan sehari-hari.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tindak Lanjut Parkinson Setelah Pengobatan di Tiongkok: Resep, Alat, dan Fungsi Sehari-hari di Rumah
+- **Subtitle:** Lanjutkan perawatan Parkinson setelah pulang dari Tiongkok dengan evaluasi manfaat obat, pemantauan keamanan, dukungan perangkat, dan fungsi harian.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Rencana rumah yang efektif memberi tahu pasien resep mana yang diikuti hari ini,
 ## SEO Metadata
 
 - **Primary keyword:** tindak lanjut penyakit Parkinson setelah kembali ke rumah dari Tiongkok
+
+- **Meta title:** Tindak Lanjut Parkinson Setelah Pengobatan di Tiongkok: Resep, Alat, dan Fungsi Sehari-hari di Rumah
+- **Meta description:** Lanjutkan perawatan Parkinson setelah pulang dari Tiongkok dengan evaluasi manfaat obat, pemantauan keamanan, dukungan perangkat, dan fungsi harian.

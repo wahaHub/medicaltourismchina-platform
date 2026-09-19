@@ -1,12 +1,14 @@
-# Memahami laporan DLBCL: temuan patologi, FISH, IPI dan PET
+# Laporan DLBCL: Tinjauan Patologi, FISH, dan PET di Tiongkok
 
 ## Hero
 
-- **Title:** Memahami laporan DLBCL: temuan patologi, FISH, IPI dan PET
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Limfoma Sel B Besar Difus
-- **Subtitle:** Laporan DLBCL dapat memuat beberapa bahasa yang berbeda sekaligus: nama diagnosis, pewarnaan positif, hasil gen, persentase, stadium dan skor PET.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Laporan DLBCL: Tinjauan Patologi, FISH, dan PET di Tiongkok
+- **Subtitle:** Pahami patologi, ekspresi protein, penataan ulang gen, dan skor PET pada DLBCL. Siapkan laporan lengkap untuk tinjauan perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ Setelah pengobatan, dosis aktual, toksisitas utama dan penilaian pencitraan akhi
 ## SEO Metadata
 
 - **Primary keyword:** memahami laporan DLBCL
+
+- **Meta title:** Laporan DLBCL: Tinjauan Patologi, FISH, dan PET di Tiongkok
+- **Meta description:** Pahami patologi, ekspresi protein, penataan ulang gen, dan skor PET pada DLBCL. Siapkan laporan lengkap untuk tinjauan perawatan di Tiongkok.

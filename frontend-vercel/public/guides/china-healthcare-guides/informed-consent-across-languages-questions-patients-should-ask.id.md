@@ -1,15 +1,17 @@
-# 014 Persetujuan Tindakan Medis Lintas Bahasa: Pertanyaan yang Perlu Diajukan Pasien
+# Persetujuan Tindakan Medis Lintas Bahasa di Tiongkok
 
 ## Hero
 
-- **Title:** Persetujuan Tindakan Medis Lintas Bahasa: Pertanyaan yang Perlu Diajukan Pasien
 - **Category:** Panduan Layanan Kesehatan di Tiongkok
 - **Subcategory:** Bahasa, Hak, dan Keputusan
-- **Subtitle:** Persetujuan adalah percakapan mengenai perawatan yang diusulkan, risiko penting, alternatif, dan pilihan pasien—bukan tanda tangan yang diperoleh melalui tebakan.
 - **Reviewed by:** Tim Editorial Medora Health; tinjauan klinis, hukum, dan akses bahasa diperlukan sebelum publikasi
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Seorang pasien internasional dan pendamping mengajukan pertanyaan kepada dokter sebelum menyetujui perawatan
+
+
+- **Title:** Persetujuan Tindakan Medis Lintas Bahasa di Tiongkok
+- **Subtitle:** Persetujuan adalah percakapan mengenai perawatan yang diusulkan, risiko penting, alternatif, dan pilihan pasien—bukan tanda tangan yang diperoleh melalui tebakan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -188,13 +190,15 @@ Tidak otomatis. Tanyakan kepada dokter bedah perluasan atau peralihan yang dapat
 ## SEO Metadata
 
 - **Slug:** `informed-consent-across-languages-questions-patients-should-ask`
-- **Meta title:** Persetujuan Tindakan Medis Lintas Bahasa di Tiongkok
-- **Meta description:** Ajukan pertanyaan yang lebih baik tentang manfaat, risiko, alternatif, juru bahasa, dan perubahan rencana sebelum menandatangani formulir persetujuan rumah sakit Tiongkok.
 - **Primary keyword:** persetujuan tindakan medis di rumah sakit Tiongkok
 - **Pillar keyword:** layanan kesehatan di Tiongkok untuk pasien internasional
 - **Vertical keyword:** persetujuan tindakan medis lintas bahasa
 - **Search intent:** informasional / dukungan keputusan pengobatan
 - **Secondary keywords:** persetujuan bahasa Inggris rumah sakit Tiongkok; juru bahasa medis persetujuan; persetujuan operasi Tiongkok
+
+
+- **Meta title:** Persetujuan Tindakan Medis Lintas Bahasa di Tiongkok
+- **Meta description:** Ajukan pertanyaan yang lebih baik tentang manfaat, risiko, alternatif, juru bahasa, dan perubahan rencana sebelum menandatangani formulir persetujuan rumah sakit Tiongkok.
 
 ## Sumber
 

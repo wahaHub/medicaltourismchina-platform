@@ -1,12 +1,14 @@
-# T-Zell-Lymphomtherapien vergleichen: Was Medikamentenlisten und Ansprechraten auslassen
+# Behandlungen beim T-Zell-Lymphom in China: Ein Vergleich
 
 ## Hero
 
-- **Title:** T-Zell-Lymphomtherapien vergleichen: Was Medikamentenlisten und Ansprechraten auslassen
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** T-Zell-Lymphom
-- **Subtitle:** Zwei unterschiedliche Empfehlungen führen häufig dazu, dass Patienten die Zahl der Medikamente, ihren Preis oder online gefundene Ansprechraten vergleichen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Behandlungen beim T-Zell-Lymphom in China: Ein Vergleich
+- **Subtitle:** T-Zell-Lymphom-Therapien in China vergleichen: Subtyp, tatsächliche Studienpopulation, Transplantationsart und Gesamtbelastung statt einzelner Ansprechraten betrachten.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -109,3 +111,6 @@ Fragen Sie den Arzt, was durch die Wahl der alternativen Empfehlung gewonnen und
 ## SEO Metadata
 
 - **Primary keyword:** Vergleich von T-Zell-Lymphomtherapien
+
+- **Meta title:** Behandlungen beim T-Zell-Lymphom in China: Ein Vergleich
+- **Meta description:** T-Zell-Lymphom-Therapien in China vergleichen: Subtyp, tatsächliche Studienpopulation, Transplantationsart und Gesamtbelastung statt einzelner Ansprechraten betrachten.

@@ -1,12 +1,14 @@
-# Apakah Operasi Diperlukan Setelah Stroke Iskemik? Prosedur Darurat, Pencegahan dan Rehabilitasi
+# Prosedur Stroke di Tiongkok: Peran dalam Keadaan Darurat dan Rehabilitasi
 
 ## Hero
 
-- **Title:** Apakah Operasi Diperlukan Setelah Stroke Iskemik? Prosedur Darurat, Pencegahan dan Rehabilitasi
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Rehabilitasi Pasc Stroke Iskemik
-- **Subtitle:** Mendengar bahwa operasi lain mungkin dapat dilakukan dapat membuat seseorang yang menjalani rehabilitasi stroke berharap gerakan akan segera kembali.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prosedur Stroke di Tiongkok: Peran dalam Keadaan Darurat dan Rehabilitasi
+- **Subtitle:** Bedakan prosedur darurat stroke, pencegahan, dan tindakan pendukung rehabilitasi. Pahami tujuan serta keterbatasannya sebelum perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ Jika ketidakpastian masih ada, mintalah profesional terkait menjelaskan bukti be
 ## SEO Metadata
 
 - **Primary keyword:** operasi setelah rehabilitasi stroke iskemik
+
+- **Meta title:** Prosedur Stroke di Tiongkok: Peran dalam Keadaan Darurat dan Rehabilitasi
+- **Meta description:** Bedakan prosedur darurat stroke, pencegahan, dan tindakan pendukung rehabilitasi. Pahami tujuan serta keterbatasannya sebelum perawatan di Tiongkok.

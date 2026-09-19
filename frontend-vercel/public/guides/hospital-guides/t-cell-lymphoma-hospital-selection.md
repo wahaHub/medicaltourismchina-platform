@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choosing a hospital in China for T-cell lymphoma: questions about subtype expertise, pathology and continuity
 - **Category:** Hospital Guides
 - **Subcategory:** T Cell Lymphoma
-- **Subtitle:** Before comparing hospitals, describe the purpose in one sentence: confirming the pathological entity, choosing initial therapy, managing relapse or assessing transplantation.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choosing a hospital in China for T-cell lymphoma: questions about subtype expertise, pathology and continuity
+- **Subtitle:** Review T-cell lymphoma hospitals in China for subtype expertise, pathology assessment, relevant treatments and the handover to your home team.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ If urgent symptoms develop while referrals are being compared, use the current l
 ## SEO Metadata
 
 - **Primary keyword:** T-cell lymphoma hospital in China
+
+- **Meta title:** Choosing a hospital in China for T-cell lymphoma: questions about subtype expertise, pathology and continuity
+- **Meta description:** Review T-cell lymphoma hospitals in China for subtype expertise, pathology assessment, relevant treatments and the handover to your home team.

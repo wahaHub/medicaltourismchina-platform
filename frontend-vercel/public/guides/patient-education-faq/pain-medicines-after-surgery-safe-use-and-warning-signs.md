@@ -1,15 +1,17 @@
-# Pain Medicine After Surgery: Control Pain Without Hiding a Complication
+# Pain Medicines After Surgery in China: Doses and Safety
 
 ## Hero
 
-- **Title:** Pain Medicine After Surgery: Control Pain Without Hiding a Complication
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Medicines
-- **Subtitle:** How to read a multimodal pain plan, avoid duplicate ingredients, use opioids safely and recognize pain that needs surgical review rather than another dose.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Surgeon reviews a colour-coded postoperative medication list with a patient beside several labelled medicine containers
+
+
+- **Title:** Pain Medicines After Surgery in China: Doses and Safety
+- **Subtitle:** Learn how to combine postoperative pain medicines safely, avoid duplicate acetaminophen, recognize opioid overdose and distinguish expected pain from a surgical complication.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -172,11 +174,13 @@ Call promptly if pain is rapidly increasing, out of proportion, unresponsive to 
 
 ## SEO Metadata
 
-- **SEO title:** Pain Medicine After Surgery: Safe Doses and Warning Signs
-- **Meta description:** Learn how to combine postoperative pain medicines safely, avoid duplicate acetaminophen, recognize opioid overdose and distinguish expected pain from a surgical complication.
 - **Primary keyword:** pain medicine after surgery
 - **Secondary keywords:** postoperative pain plan, opioid safety after surgery, acetaminophen duplicate dose, NSAIDs after surgery, naloxone, worsening pain after surgery
 - **Suggested URL slug:** `/pain-medicine-after-surgery-safe-use-warning-signs`
+
+
+- **Meta title:** Pain Medicines After Surgery in China: Doses and Safety
+- **Meta description:** Learn how to combine postoperative pain medicines safely, avoid duplicate acetaminophen, recognize opioid overdose and distinguish expected pain from a surgical complication.
 
 ## Sources
 

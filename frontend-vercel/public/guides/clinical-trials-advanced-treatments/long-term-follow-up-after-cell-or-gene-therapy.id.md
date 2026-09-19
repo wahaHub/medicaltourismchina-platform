@@ -1,15 +1,17 @@
-# 087 Tindak Lanjut Jangka Panjang setelah Terapi Sel atau Gen
+# Terapi Sel dan Gen di Tiongkok: Tindak Lanjut Jangka Panjang
 
 ## Hero
 
-- **Title:** Tindak Lanjut Jangka Panjang setelah Terapi Sel atau Gen
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Kedokteran Sel, Gen & Regeneratif
-- **Subtitle:** Susun paspor tindak lanjut spesifik produk untuk toksisitas dini, pemulihan imun, respons penyakit, kejadian merugikan tertunda, kehamilan, dan pelaporan lintas negara.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustrasi editorial pasien dan dokter merencanakan pemeriksaan kesehatan dari waktu ke waktu dengan kalender; bukan jadwal pemantauan spesifik produk.
+
+
+- **Title:** Terapi Sel dan Gen di Tiongkok: Tindak Lanjut Jangka Panjang
+- **Subtitle:** Rencanakan tindak lanjut spesifik produk untuk respons penyakit, pemulihan imun, toksisitas tertunda, keganasan, kehamilan, pelaporan, rekam medis, dan perawatan lintas negara.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -204,11 +206,13 @@ Rencana sebelum pengobatan harus menyebutkan penerus untuk rekam medis, pelapora
 ## SEO Metadata
 
 - **Slug:** `long-term-follow-up-after-cell-or-gene-therapy`
-- **Meta title:** Tindak Lanjut Jangka Panjang setelah Terapi Sel atau Gen
-- **Meta description:** Rencanakan tindak lanjut spesifik produk untuk respons penyakit, pemulihan imun, toksisitas tertunda, keganasan, kehamilan, pelaporan, rekam medis, dan perawatan lintas negara.
 - **Primary keyword:** tindak lanjut jangka panjang terapi sel gen
 - **Secondary keywords:** pemantauan jangka panjang terapi gen; tindak lanjut CAR-T 15 tahun; risiko tertunda terapi gen; paspor terapi sel; tindak lanjut terapi lintas negara
 - **Search intent:** pemantauan pascapengobatan / perencanaan keselamatan jangka panjang
+
+
+- **Meta title:** Terapi Sel dan Gen di Tiongkok: Tindak Lanjut Jangka Panjang
+- **Meta description:** Rencanakan tindak lanjut spesifik produk untuk respons penyakit, pemulihan imun, toksisitas tertunda, keganasan, kehamilan, pelaporan, rekam medis, dan perawatan lintas negara.
 
 ## Sumber
 

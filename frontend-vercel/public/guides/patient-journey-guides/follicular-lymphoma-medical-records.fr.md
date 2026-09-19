@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Préparer son dossier de lymphome folliculaire pour des soins en Chine
 - **Category:** Guides du parcours patient
 - **Subcategory:** Lymphome folliculaire
-- **Subtitle:** Le dossier le plus utile montre comment les différents éléments de votre histoire médicale s’articulent.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Préparer son dossier de lymphome folliculaire pour des soins en Chine
+- **Subtitle:** Préparez un dossier de lymphome folliculaire pour la Chine : synthèse clinique, prélèvements, imagerie comparable, traitements successifs et informations de sécurité.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Le critère final de votre préparation est la capacité d’un nouveau clinicie
 ## SEO Metadata
 
 - **Primary keyword:** dossier médical nécessaire au traitement du lymphome folliculaire en Chine
+
+- **Meta title:** Préparer son dossier de lymphome folliculaire pour des soins en Chine
+- **Meta description:** Préparez un dossier de lymphome folliculaire pour la Chine : synthèse clinique, prélèvements, imagerie comparable, traitements successifs et informations de sécurité.

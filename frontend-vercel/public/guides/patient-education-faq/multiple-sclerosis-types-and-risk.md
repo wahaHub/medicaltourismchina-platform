@@ -1,12 +1,14 @@
-# Types of multiple sclerosis and personal risk: what relapses and progression change
+# Multiple Sclerosis Types and Risk: Assessment in China
 
 ## Hero
 
-- **Title:** Types of multiple sclerosis and personal risk: what relapses and progression change
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Multiple Sclerosis
-- **Subtitle:** RRMS, SPMS, and PPMS are not three severity grades arranged from mild to severe.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Multiple Sclerosis Types and Risk: Assessment in China
+- **Subtitle:** Distinguish MS disease patterns, relapses and progression, and make the classification useful during a consultation in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ If two hospitals use different classifications, compare the disease history and 
 ## SEO Metadata
 
 - **Primary keyword:** multiple sclerosis types and risk assessment
+
+- **Meta title:** Multiple Sclerosis Types and Risk: Assessment in China
+- **Meta description:** Distinguish MS disease patterns, relapses and progression, and make the classification useful during a consultation in China.

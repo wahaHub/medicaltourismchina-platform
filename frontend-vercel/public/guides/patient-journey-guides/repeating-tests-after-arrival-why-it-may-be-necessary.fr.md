@@ -1,15 +1,17 @@
-# 132 Répéter des examens après l’arrivée : demander quelle décision le nouveau résultat modifiera
+# Répéter des examens médicaux en Chine | Quand est-ce nécessaire ?
 
 ## Hero
 
-- **Title:** Répéter des examens après l’arrivée : demander quelle décision le nouveau résultat modifiera
 - **Category:** Guides du parcours patient
 - **Subcategory:** Relecture, répétition des examens et bilans de référence thérapeutiques
-- **Subtitle:** Un résultat antérieur doit être réutilisé lorsqu’il convient à la décision présente. Une répétition se justifie lorsque l’identité, la date, la méthode, la qualité ou la question clinique rendent les anciennes données insuffisantes.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Discussion conceptuelle entre clinicien et patient sur plusieurs étapes d’examens ; elle ne montre ni un véritable résultat, ni un protocole hospitalier, ni une recommandation de répéter les examens.
+
+
+- **Title:** Répéter des examens médicaux en Chine | Quand est-ce nécessaire ?
+- **Subtitle:** Un résultat antérieur doit être réutilisé lorsqu’il convient à la décision présente. Une répétition se justifie lorsque l’identité, la date, la méthode, la qualité ou la question clinique rendent les anciennes données insuffisantes.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -185,13 +187,15 @@ Conservez la prescription, les consignes de préparation, le compte rendu, les u
 ## SEO Metadata
 
 - **Slug:** `repeating-tests-after-arrival-why-it-may-be-necessary`
-- **Meta title:** Répéter des examens médicaux en Chine | Quand est-ce nécessaire ?
-- **Meta description:** Utilisez un test d’adéquation en cinq parties pour décider si les données étrangères de laboratoire, d’imagerie ou d’anatomopathologie doivent être réutilisées, réinterprétées, répétées ou remplacées après l’arrivée en Chine.
 - **Primary keyword:** répétition d’examens médicaux en Chine
 - **Pillar keyword:** voyage médical en Chine
 - **Vertical keyword:** résultats d’examens étrangers dans un hôpital chinois
 - **Search intent:** revue d’examens / planification des coûts et de la sécurité
 - **Secondary keywords:** reconnaissance des résultats d’examens en Chine ; répétition de TDM en Chine ; relecture anatomopathologique en Chine ; intervalle de référence de laboratoire ; examens de référence avant traitement
+
+
+- **Meta title:** Répéter des examens médicaux en Chine | Quand est-ce nécessaire ?
+- **Meta description:** Utilisez un test d’adéquation en cinq parties pour décider si les données étrangères de laboratoire, d’imagerie ou d’anatomopathologie doivent être réutilisées, réinterprétées, répétées ou remplacées après l’arrivée en Chine.
 
 ## Sources
 
@@ -201,4 +205,3 @@ Conservez la prescription, les consignes de préparation, le compte rendu, les u
 4. [FDA américaine — Imagerie médicale par rayons X : justification, optimisation et historique d’imagerie](https://www.fda.gov/radiation-emitting-products/medical-imaging/medical-x-ray-imaging)
 5. [American College of Radiology — Manuel des produits de contraste](https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Contrast-Manual)
 6. [Institut national du cancer américain — Comptes rendus d’anatomopathologie chirurgicale et seconds avis](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/pathology-reports-fact-sheet)
-

@@ -1,15 +1,17 @@
-# 106 Memilih Rumah Sakit di Hangzhou: Tiga Bukti dan Satu Uji Nyata
+# Memilih Rumah Sakit di Tiongkok: Akses dan Perjalanan di Hangzhou
 
 ## Hero
 
-- **Title:** Memilih Rumah Sakit di Hangzhou: Tiga Bukti dan Satu Uji Nyata
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Perencanaan Perawatan Hangzhou
-- **Subtitle:** Buktikan penerimaan klinis, buktikan kampus dan jalur layanan, buktikan kesinambungan—lalu uji paspor dan perjalanan sebelum berkomitmen.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustrasi konseptual pelancong yang merencanakan perawatan rumah sakit di Hangzhou; jembatan dan pagoda bergaya Danau Barat, rumah sakit, peta, dan kereta tidak menunjukkan rute kampus nyata atau dukungan rekomendasi.
+
+
+- **Title:** Memilih Rumah Sakit di Tiongkok: Akses dan Perjalanan di Hangzhou
+- **Subtitle:** Pilih rumah sakit Hangzhou dengan tiga bukti dan uji nyata yang mencakup penerimaan kasus, kampus, sistem paspor, layanan internasional, transportasi, perawatan darurat, dan tindak lanjut.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -264,13 +266,15 @@ Dapatkan ringkasan klinis, rincian pengobatan sebenarnya, pencitraan sumber, has
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-hangzhou-specialties-access-and-travel`
-- **Meta title:** Memilih Rumah Sakit di Hangzhou: Kampus, Akses Digital, dan Perjalanan
-- **Meta description:** Pilih rumah sakit Hangzhou dengan tiga bukti dan uji nyata yang mencakup penerimaan kasus, kampus, sistem paspor, layanan internasional, transportasi, perawatan darurat, dan tindak lanjut.
 - **Primary keyword:** memilih rumah sakit di Hangzhou
 - **Pillar keyword:** rumah sakit Hangzhou untuk pasien internasional
 - **Vertical keyword:** kampus rumah sakit Hangzhou akses digital perjalanan
 - **Search intent:** perbandingan rumah sakit / perencanaan perjalanan medis Hangzhou
 - **Secondary keywords:** pemesanan rumah sakit Hangzhou dengan paspor; rumah sakit internasional Hangzhou; kampus rumah sakit Hangzhou; bantuan medis bandara Hangzhou; Hangzhou 120
+
+
+- **Meta title:** Memilih Rumah Sakit di Tiongkok: Akses dan Perjalanan di Hangzhou
+- **Meta description:** Pilih rumah sakit Hangzhou dengan tiga bukti dan uji nyata yang mencakup penerimaan kasus, kampus, sistem paspor, layanan internasional, transportasi, perawatan darurat, dan tindak lanjut.
 
 ## Sumber
 

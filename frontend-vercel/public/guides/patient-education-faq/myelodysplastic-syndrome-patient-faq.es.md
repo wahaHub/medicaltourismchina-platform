@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Veinte preguntas sobre el síndrome mielodisplásico: diagnóstico, transfusiones, medicamentos, trasplante y atención en China
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Síndrome mielodisplásico
-- **Subtitle:** Una persona con SMD puede acudir a controles regulares, otra necesita transfusiones repetidas y a otra se le aconseja hablar de trasplante.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Veinte preguntas sobre el síndrome mielodisplásico: diagnóstico, transfusiones, medicamentos, trasplante y atención en China
+- **Subtitle:** Comprenda las preguntas clave sobre síndrome mielodisplásico, pruebas, transfusiones, medicación y trasplante al organizar la atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Estas respuestas ayudan a preparar una consulta; el diagnóstico y las prescripc
 ## SEO Metadata
 
 - **Primary keyword:** preguntas de pacientes sobre síndrome mielodisplásico
+
+- **Meta title:** Veinte preguntas sobre el síndrome mielodisplásico: diagnóstico, transfusiones, medicamentos, trasplante y atención en China
+- **Meta description:** Comprenda las preguntas clave sobre síndrome mielodisplásico, pruebas, transfusiones, medicación y trasplante al organizar la atención en China.

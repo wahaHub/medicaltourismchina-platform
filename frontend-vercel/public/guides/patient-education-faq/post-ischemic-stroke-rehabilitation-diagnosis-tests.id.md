@@ -1,12 +1,14 @@
-# Pemeriksaan Sebelum Rehabilitasi Stroke: Tinjauan Medis, Penilaian Fungsi, dan Persiapan
+# Penilaian Rehabilitasi Stroke di Tiongkok: Pemeriksaan dan Perencanaan
 
 ## Hero
 
-- **Title:** Pemeriksaan Sebelum Rehabilitasi Stroke: Tinjauan Medis, Penilaian Fungsi, dan Persiapan
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Rehabilitasi Pascastroke Iskemik
-- **Subtitle:** Ketika rehabilitasi mulai dibahas, seseorang dengan stroke iskemik mungkin sudah memiliki laporan CT atau MRI, EKG, hasil laboratorium, dan daftar obat terperinci.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Penilaian Rehabilitasi Stroke di Tiongkok: Pemeriksaan dan Perencanaan
+- **Subtitle:** Siapkan penilaian rehabilitasi stroke di Tiongkok dengan tinjauan medis, pencitraan, dan pemeriksaan fungsi untuk menentukan rencana yang sesuai.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -118,3 +120,6 @@ Simpan tanggal penilaian, bahasa, dan nama alat ukur, beserta rincian penyangga,
 ## SEO Metadata
 
 - **Primary keyword:** pemeriksaan sebelum rehabilitasi stroke
+
+- **Meta title:** Penilaian Rehabilitasi Stroke di Tiongkok: Pemeriksaan dan Perencanaan
+- **Meta description:** Siapkan penilaian rehabilitasi stroke di Tiongkok dengan tinjauan medis, pencitraan, dan pemeriksaan fungsi untuk menentukan rencana yang sesuai.

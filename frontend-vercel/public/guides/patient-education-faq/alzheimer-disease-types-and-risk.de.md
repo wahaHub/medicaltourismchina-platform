@@ -1,12 +1,14 @@
-# Alzheimer-Stadien und Risiken: Warum jüngerer Erkrankungsbeginn, frühe Erkrankung und MCI verschieden sind
+# Alzheimer-Stadien und Risiken: Vorbereitung auf die Versorgung in China
 
 ## Hero
 
-- **Title:** Alzheimer-Stadien und Risiken: Warum jüngerer Erkrankungsbeginn, frühe Erkrankung und MCI verschieden sind
 - **Category:** Patientenaufklärung & FAQ
 - **Subcategory:** Alzheimer-Krankheit
-- **Subtitle:** Alzheimer mit jüngerem Erkrankungsbeginn, frühe Alzheimer-Krankheit und leichte kognitive Beeinträchtigung können wie verschiedene Namen für dieselbe Situation klingen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Alzheimer-Stadien und Risiken: Vorbereitung auf die Versorgung in China
+- **Subtitle:** Alzheimer-Stadien vor einer Versorgung in China verstehen: Erkrankungsalter, leichte kognitive Beeinträchtigung, Hilfebedarf und Behandlungsrisiken unterscheiden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -109,3 +111,6 @@ Befindet sich jemand jenseits des für den Beginn einer Antikörpertherapie unte
 ## SEO Metadata
 
 - **Primary keyword:** Stadien der Alzheimer-Krankheit
+
+- **Meta title:** Alzheimer-Stadien und Risiken: Vorbereitung auf die Versorgung in China
+- **Meta description:** Alzheimer-Stadien vor einer Versorgung in China verstehen: Erkrankungsalter, leichte kognitive Beeinträchtigung, Hilfebedarf und Behandlungsrisiken unterscheiden.

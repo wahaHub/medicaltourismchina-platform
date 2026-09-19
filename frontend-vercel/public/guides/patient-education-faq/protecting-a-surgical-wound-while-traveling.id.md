@@ -1,15 +1,17 @@
-# Melindungi Luka Operasi Saat Bepergian: Rencana untuk Perjalanan, Bukan Sekadar Balutan
+# Perjalanan Setelah Operasi di Tiongkok: Melindungi Luka Anda
 
 ## Hero
 
-- **Title:** Melindungi Luka Operasi Saat Bepergian: Rencana untuk Perjalanan, Bukan Sekadar Balutan
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Pencegahan Infeksi
-- **Subtitle:** Cara menentukan apakah perjalanan layak dilakukan, menyiapkan perlengkapan luka, mengganti balutan jauh dari rumah, melindungi drain, dan mengenali masalah setelah operasi.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Pelancong dengan sayatan perut tertutup meninjau perlengkapan balutan dan rencana perawatan luka tertulis bersama perawat
+
+
+- **Title:** Perjalanan Setelah Operasi di Tiongkok: Melindungi Luka Anda
+- **Subtitle:** Panduan praktis perjalanan setelah operasi yang mencakup balutan luka, drain, penerbangan, mandi pancuran, tanda bahaya, persediaan, dan perencanaan darurat.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Kemerahan yang meluas, nyeri yang meningkat, cairan seperti nanah atau berbau busuk, luka yang terbuka, perdarahan menetap, demam, pembengkakan betis, nyeri dada, atau sesak napas memerlukan pemeriksaan medis segera.
 
 ## Content
+
+Jika perjalanan Anda dilakukan setelah operasi di Tiongkok, sepakati rencana perawatan luka dan perjalanan dengan tim operasi sebelum meninggalkan rumah sakit. Petunjuk penggantian balutan, drain, batas gerakan, tanda bahaya, dan dokter yang mengambil alih perawatan di negara asal semuanya harus dicantumkan dalam serah terima.
+
 
 Balutan hanyalah salah satu bagian dari perlindungan sayatan. Pertanyaan perjalanan yang lebih sulit adalah apakah luka stabil, apakah pasien dapat bergerak dan merawat diri, serta apa yang akan terjadi jika penutupan luka terbuka ratusan kilometer dari tim operasi.
 
@@ -120,11 +125,13 @@ Luka yang terbuka, perdarahan tidak terkendali, kemerahan meluas cepat, cairan s
 
 ## SEO Metadata
 
-- **SEO title:** Cara Melindungi Luka Operasi Saat Bepergian
-- **Meta description:** Panduan praktis perjalanan setelah operasi yang mencakup balutan luka, drain, penerbangan, mandi pancuran, tanda bahaya, persediaan, dan perencanaan darurat.
 - **Primary keyword:** melindungi luka operasi saat bepergian
 - **Secondary keywords:** perawatan luka saat terbang setelah operasi, bepergian dengan drain operasi, balutan luka dalam penerbangan, tanda infeksi sayatan, perlengkapan perjalanan pascaoperasi
 - **Suggested URL slug:** `/protect-surgical-wound-travel`
+
+
+- **Meta title:** Perjalanan Setelah Operasi di Tiongkok: Melindungi Luka Anda
+- **Meta description:** Panduan praktis perjalanan setelah operasi yang mencakup balutan luka, drain, penerbangan, mandi pancuran, tanda bahaya, persediaan, dan perencanaan darurat.
 
 ## Sumber
 

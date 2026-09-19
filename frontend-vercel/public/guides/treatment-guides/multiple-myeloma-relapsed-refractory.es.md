@@ -1,12 +1,14 @@
-# Mieloma múltiple recaído o refractario: confirmar la progresión y elegir el siguiente tratamiento
+# Mieloma en recaída o refractario en China: revisión del tratamiento
 
 ## Hero
 
-- **Title:** Mieloma múltiple recaído o refractario: confirmar la progresión y elegir el siguiente tratamiento
 - **Category:** Guías de tratamiento
 - **Subcategory:** Mieloma múltiple
-- **Subtitle:** Una proteína monoclonal en aumento puede hacer que un paciente tema que todos los tratamientos disponibles hayan dejado de funcionar.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Mieloma en recaída o refractario en China: revisión del tratamiento
+- **Subtitle:** Prepare una revisión de mieloma en recaída en China con confirmación de progresión, riesgos orgánicos e historial de respuesta y resistencia a medicamentos.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ El impacto emocional también merece atención. La recaída no borra el tiempo y
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento del mieloma múltiple recaído refractario en China
+
+- **Meta title:** Mieloma en recaída o refractario en China: revisión del tratamiento
+- **Meta description:** Prepare una revisión de mieloma en recaída en China con confirmación de progresión, riesgos orgánicos e historial de respuesta y resistencia a medicamentos.

@@ -1,12 +1,14 @@
-# Mengelola efek samping pengobatan GVHD: gejala, pemantauan, dan kesinambungan perawatan
+# Pengobatan GVHD di Tiongkok: Efek Samping dan Pemantauan
 
 ## Hero
 
-- **Title:** Mengelola efek samping pengobatan GVHD: gejala, pemantauan, dan kesinambungan perawatan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Cangkok Melawan Inang
-- **Subtitle:** Selama pengobatan penyakit cangkok melawan inang, kelelahan, diare, atau tes hati abnormal dapat memiliki beberapa kemungkinan penjelasan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan GVHD di Tiongkok: Efek Samping dan Pemantauan
+- **Subtitle:** Bedakan kemungkinan efek obat, infeksi, dan perubahan GVHD. Siapkan pemantauan, catatan gejala, serta rencana kontak selama pengobatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -121,3 +123,6 @@ Pemantauan, kunjungan spesialis, pengobatan infeksi, dan kemungkinan rawat inap 
 ## SEO Metadata
 
 - **Primary keyword:** efek samping pengobatan GVHD dan pemantauan di Tiongkok
+
+- **Meta title:** Pengobatan GVHD di Tiongkok: Efek Samping dan Pemantauan
+- **Meta description:** Bedakan kemungkinan efek obat, infeksi, dan perubahan GVHD. Siapkan pemantauan, catatan gejala, serta rencana kontak selama pengobatan di Tiongkok.

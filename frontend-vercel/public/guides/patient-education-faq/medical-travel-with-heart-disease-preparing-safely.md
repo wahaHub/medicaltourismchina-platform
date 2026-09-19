@@ -1,15 +1,17 @@
-# Medical Travel With Heart Disease: Stability Has to Survive the Itinerary
+# Medical Travel to China With Heart Disease: Preparation
 
 ## Hero
 
-- **Title:** Medical Travel With Heart Disease: Stability Has to Survive the Itinerary
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Chronic Conditions & Travel
-- **Subtitle:** A route-specific plan for coronary disease, heart failure, rhythm disorders, recent procedures, cardiac devices, oxygen and in-transit emergencies.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Couple review a cardiac medical summary, medicines and treatment calendar before flying to a hospital
+
+
+- **Title:** Medical Travel to China With Heart Disease: Preparation
+- **Subtitle:** Prepare for medical travel with heart disease: clearance, ECG records, medicines, oxygen, cardiac devices, clot risk and emergency action.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - New or worsening chest pressure, severe breathlessness, fainting, sustained palpitations with weakness, stroke symptoms or an implanted defibrillator shock with ongoing symptoms needs urgent local care.
 
 ## Content
+
+If you have heart disease and are considering medical travel to China, bring the exact diagnosis, recent events and complete route to the pre-travel review. The plan should cover medicine continuity, assistance during transfers and what to do if symptoms change before or during the journey.
+
 
 A calm clinic visit does not prove that a patient can manage two airports, a missed connection and an unfamiliar city. Cardiac travel clearance should test the itinerary against the patient’s current reserve and provide a failure plan.
 
@@ -100,11 +105,13 @@ New chest pressure, severe breathlessness, fainting, stroke signs, sustained sym
 
 ## SEO Metadata
 
-- **SEO title:** Medical Travel With Heart Disease: Safe Preparation
-- **Meta description:** Prepare for medical travel with heart disease: clearance, ECG records, medicines, oxygen, cardiac devices, clot risk and emergency action.
 - **Primary keyword:** medical travel with heart disease
 - **Secondary keywords:** flying with heart disease, travel after heart stent, heart failure air travel, pacemaker airport security, cardiac travel clearance
 - **Suggested URL slug:** `/medical-travel-heart-disease-safely`
+
+
+- **Meta title:** Medical Travel to China With Heart Disease: Preparation
+- **Meta description:** Prepare for medical travel with heart disease: clearance, ECG records, medicines, oxygen, cardiac devices, clot risk and emergency action.
 
 ## Sources
 

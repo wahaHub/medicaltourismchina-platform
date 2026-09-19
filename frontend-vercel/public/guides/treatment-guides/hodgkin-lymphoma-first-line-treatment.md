@@ -1,12 +1,14 @@
-# Choosing first-line Hodgkin lymphoma treatment: a practical decision guide
+# First-Line Hodgkin Lymphoma Treatment in China: Decisions
 
 ## Hero
 
-- **Title:** Choosing first-line Hodgkin lymphoma treatment: a practical decision guide
 - **Category:** Treatment Guides
 - **Subcategory:** Hodgkin Lymphoma
-- **Subtitle:** First-line treatment is the initial complete treatment pathway for the current Hodgkin lymphoma diagnosis.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** First-Line Hodgkin Lymphoma Treatment in China: Decisions
+- **Subtitle:** Discuss first-line Hodgkin lymphoma treatment in China using the diagnosis, risk group, regimen, assessment schedule and practical care needs.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ When comparing two first-line recommendations, ask both teams to address the sam
 ## SEO Metadata
 
 - **Primary keyword:** first-line Hodgkin lymphoma treatment
+
+- **Meta title:** First-Line Hodgkin Lymphoma Treatment in China: Decisions
+- **Meta description:** Discuss first-line Hodgkin lymphoma treatment in China using the diagnosis, risk group, regimen, assessment schedule and practical care needs.

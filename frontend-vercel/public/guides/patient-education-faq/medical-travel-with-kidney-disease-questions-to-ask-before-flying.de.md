@@ -1,15 +1,17 @@
-# Medizinische Reisen mit Nierenerkrankung: Der Flug ist der kurze Teil des Plans
+# Behandlungsreisen nach China mit Nierenerkrankung: Versorgung planen
 
 ## Hero
 
-- **Title:** Medizinische Reisen mit Nierenerkrankung: Der Flug ist der kurze Teil des Plans
 - **Category:** Patienteninformation & FAQ
 - **Subcategory:** Chronische Erkrankungen & Reisen
-- **Subtitle:** Fragen für Menschen mit CKD, Dialyse oder Nierentransplantat zu stabilen Laborwerten, Flüssigkeitsgrenzen, Medikamenten, Behandlungsplätzen und Notfallabsicherung.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Patient und Begleitperson prüfen zwischen Flughafen und Krankenhaus einen Nierenversorgungsplan und Reiseunterlagen
+
+
+- **Title:** Behandlungsreisen nach China mit Nierenerkrankung: Versorgung planen
+- **Subtitle:** Medizinische Reisen mit CKD, Dialyse oder Nierentransplantat planen: Unterlagen, Behandlungsplätze, Flüssigkeitsgrenzen, Medikamente, Zugangspflege und Notfälle.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Verminderte Urinmenge, rasch zunehmende Schwellung oder Gewichtszunahme, schwere Atemnot, Brustschmerzen, Verwirrtheit, anhaltendes Erbrechen, Muskelschwäche/Herzklopfen oder ein Notfall am Dialysezugang erfordern eine rasche örtliche Beurteilung.
 
 ## Content
+
+Bestätigen Sie bei einer Behandlungsreise nach China mit Nierenerkrankung die aufnehmende Einrichtung und den nephrologischen Versorgungsplan, bevor Sie die Reise buchen. Dialysevereinbarungen, Medikamentenprüfung, Schutz des Gefäßzugangs und eine nutzbare Übergabe müssen auf den einzelnen Patienten abgestimmt werden; sie dürfen nicht aus einer Krankenhausreservierung als gegeben vorausgesetzt werden.
+
 
 Für Menschen mit Nierenerkrankung ist das Flugzeug oft der berechenbarste Teil einer medizinischen Reise. Die eigentlichen Schwachstellen sind eine versäumte Dialyse, eine unerkannte Kaliumveränderung, Medikamentenanreicherung, ein von einem unpassenden Patienten übernommener Flüssigkeitsplan oder eine akute Erkrankung fern vom heimischen Nephrologieteam.
 
@@ -143,11 +148,13 @@ Verlust des Schwirrens an Fistel/Gefäßprothese, unkontrollierte Blutung, rasch
 
 ## SEO Metadata
 
-- **SEO title:** Medizinische Reisen mit Nierenerkrankung: Fragen vor dem Flug
-- **Meta description:** Medizinische Reisen mit CKD, Dialyse oder Nierentransplantat planen: Unterlagen, Behandlungsplätze, Flüssigkeitsgrenzen, Medikamente, Zugangspflege und Notfälle.
 - **Primary keyword:** medizinische Reisen mit Nierenerkrankung
 - **Secondary keywords:** Fliegen mit CKD, Dialysereise planen, Peritonealdialyse im Ausland, Reisen nach Nierentransplantation, nephrologische Reisecheckliste
 - **Suggested URL slug:** `/medical-travel-kidney-disease-flying`
+
+
+- **Meta title:** Behandlungsreisen nach China mit Nierenerkrankung: Versorgung planen
+- **Meta description:** Medizinische Reisen mit CKD, Dialyse oder Nierentransplantat planen: Unterlagen, Behandlungsplätze, Flüssigkeitsgrenzen, Medikamente, Zugangspflege und Notfälle.
 
 ## Quellen
 

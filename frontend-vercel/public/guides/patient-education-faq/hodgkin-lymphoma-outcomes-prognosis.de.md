@@ -1,12 +1,14 @@
-# Kann ein Hodgkin-Lymphom geheilt werden? Remission, Überleben und Rückfallrisiko verstehen
+# Prognose beim Hodgkin-Lymphom: Fragen zur Versorgung in China
 
 ## Hero
 
-- **Title:** Kann ein Hodgkin-Lymphom geheilt werden? Remission, Überleben und Rückfallrisiko verstehen
 - **Category:** Patienteninformation und häufige Fragen
 - **Subcategory:** Hodgkin-Lymphom
-- **Subtitle:** „Kann das geheilt werden?“ ist nach einer Hodgkin-Lymphom-Diagnose oft die Frage, die eine Person am dringendsten stellen möchte.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prognose beim Hodgkin-Lymphom: Fragen zur Versorgung in China
+- **Subtitle:** Die Prognose beim Hodgkin-Lymphom für eine Beratung in China besprechen: Remission, Überlebensmaße, PET-Ansprechen und langfristige Erholung unterscheiden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Lässt sich heute nur ein Punkt klären, bitten Sie den Arzt, das aktuelle Behan
 ## SEO Metadata
 
 - **Primary keyword:** Hodgkin-Lymphom Prognose und Überleben
+
+- **Meta title:** Prognose beim Hodgkin-Lymphom: Fragen zur Versorgung in China
+- **Meta description:** Die Prognose beim Hodgkin-Lymphom für eine Beratung in China besprechen: Remission, Überlebensmaße, PET-Ansprechen und langfristige Erholung unterscheiden.

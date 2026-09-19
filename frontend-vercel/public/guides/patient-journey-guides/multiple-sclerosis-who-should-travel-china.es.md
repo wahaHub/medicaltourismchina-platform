@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Es adecuado viajar a China para recibir atención por esclerosis múltiple? Planificar en función de su tratamiento
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Esclerosis múltiple
-- **Subtitle:** Un viaje médico útil comienza con una pregunta que otra consulta pueda responder de forma realista.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Es adecuado viajar a China para recibir atención por esclerosis múltiple? Planificar en función de su tratamiento
+- **Subtitle:** Valore si viajar a China aporta a su atención de esclerosis múltiple, considerando síntomas recientes, tratamiento, movilidad y continuidad de la medicación.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Viajar se convierte en una elección más fundamentada cuando la finalidad clín
 ## SEO Metadata
 
 - **Primary keyword:** viajar a China para el tratamiento de la esclerosis múltiple
+
+- **Meta title:** ¿Es adecuado viajar a China para recibir atención por esclerosis múltiple? Planificar en función de su tratamiento
+- **Meta description:** Valore si viajar a China aporta a su atención de esclerosis múltiple, considerando síntomas recientes, tratamiento, movilidad y continuidad de la medicación.

@@ -1,12 +1,14 @@
-# Understanding a Hodgkin lymphoma report: pathology, stage, and Deauville score
+# Hodgkin Lymphoma Reports: Preparing for Review in China
 
 ## Hero
 
-- **Title:** Understanding a Hodgkin lymphoma report: pathology, stage, and Deauville score
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Hodgkin Lymphoma
-- **Subtitle:** A Hodgkin lymphoma file usually contains several different kinds of report: pathology, PET/CT, laboratory results, and a clinician's staging assessment.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Hodgkin Lymphoma Reports: Preparing for Review in China
+- **Subtitle:** Understand Hodgkin lymphoma pathology, staging and Deauville scores, and organize the reports needed for a treatment discussion in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ Ask the doctor to summarize the current position in an ordinary sentence: what d
 ## SEO Metadata
 
 - **Primary keyword:** Hodgkin lymphoma report explained
+
+- **Meta title:** Hodgkin Lymphoma Reports: Preparing for Review in China
+- **Meta description:** Understand Hodgkin lymphoma pathology, staging and Deauville scores, and organize the reports needed for a treatment discussion in China.

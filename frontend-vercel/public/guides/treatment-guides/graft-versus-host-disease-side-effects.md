@@ -1,12 +1,14 @@
-# Managing GVHD treatment side effects: symptoms, monitoring, and continuity of care
+# GVHD Treatment in China: Side Effects and Monitoring
 
 ## Hero
 
-- **Title:** Managing GVHD treatment side effects: symptoms, monitoring, and continuity of care
 - **Category:** Treatment Guides
 - **Subcategory:** Graft Versus Host Disease
-- **Subtitle:** During graft-versus-host disease treatment, fatigue, diarrhea, or an abnormal liver test may have several possible explanations.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** GVHD Treatment in China: Side Effects and Monitoring
+- **Subtitle:** Prepare for GVHD treatment side effects with symptom records, laboratory monitoring and continuing-care arrangements during and after treatment in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -121,3 +123,6 @@ Monitoring, specialist visits, infection treatment, and possible readmission als
 ## SEO Metadata
 
 - **Primary keyword:** GVHD treatment side effects and monitoring in China
+
+- **Meta title:** GVHD Treatment in China: Side Effects and Monitoring
+- **Meta description:** Prepare for GVHD treatment side effects with symptom records, laboratory monitoring and continuing-care arrangements during and after treatment in China.

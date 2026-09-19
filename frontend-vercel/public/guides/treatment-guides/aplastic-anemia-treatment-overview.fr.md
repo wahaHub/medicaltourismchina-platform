@@ -1,12 +1,14 @@
-# Traitement de l’aplasie médullaire : de la protection immédiate à une récupération médullaire durable
+# Traitement de l’aplasie médullaire en Chine : options et récupération
 
 ## Hero
 
-- **Title:** Traitement de l’aplasie médullaire : de la protection immédiate à une récupération médullaire durable
 - **Category:** Guides des traitements
 - **Subcategory:** Aplasie médullaire
-- **Subtitle:** Après un diagnostic d’aplasie médullaire, la première question pratique est de savoir si le patient a besoin d’une protection hospitalière immédiate.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement de l’aplasie médullaire en Chine : options et récupération
+- **Subtitle:** Comprenez les choix de traitement de l’aplasie médullaire en Chine : surveillance, immunosuppression, greffe et soins de soutien pendant la récupération.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Posez des questions distinctes sur la relecture diagnostique, l’hospitalisatio
 ## SEO Metadata
 
 - **Primary keyword:** traitement de l’aplasie médullaire
+
+- **Meta title:** Traitement de l’aplasie médullaire en Chine : options et récupération
+- **Meta description:** Comprenez les choix de traitement de l’aplasie médullaire en Chine : surveillance, immunosuppression, greffe et soins de soutien pendant la récupération.

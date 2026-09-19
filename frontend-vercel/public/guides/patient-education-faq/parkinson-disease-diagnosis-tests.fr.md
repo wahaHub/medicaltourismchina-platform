@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Examens en cas de suspicion de maladie de Parkinson en Chine : ce que chaque évaluation peut établir
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Maladie de Parkinson
-- **Subtitle:** Les patients quittent parfois une première consultation en se demandant pourquoi le neurologue a passé du temps à observer les mouvements des doigts et la marche plutôt qu’à prescrire un examen d’imagerie décisif.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Examens en cas de suspicion de maladie de Parkinson en Chine : ce que chaque évaluation peut établir
+- **Subtitle:** Préparez un bilan de Parkinson en Chine en comprenant les rôles de l’examen clinique, de la revue des médicaments et des examens d’imagerie ciblés.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Données vérifiées : September 9, 2026. Le choix et l’interprétation des ex
 ## SEO Metadata
 
 - **Primary keyword:** examens diagnostiques de la maladie de Parkinson en Chine
+
+- **Meta title:** Examens en cas de suspicion de maladie de Parkinson en Chine : ce que chaque évaluation peut établir
+- **Meta description:** Préparez un bilan de Parkinson en Chine en comprenant les rôles de l’examen clinique, de la revue des médicaments et des examens d’imagerie ciblés.

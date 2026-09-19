@@ -1,12 +1,14 @@
-# Apakah DLBCL membutuhkan operasi? Biopsi, akses vaskular, dan prosedur mendesak
+# Prosedur DLBCL di Tiongkok: Biopsi, Akses Vaskular, dan Perawatan Mendesak
 
 ## Hero
 
-- **Title:** Apakah DLBCL membutuhkan operasi? Biopsi, akses vaskular, dan prosedur mendesak
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel B Besar Difus
-- **Subtitle:** DLBCL umumnya diobati dengan obat yang bekerja di seluruh tubuh.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prosedur DLBCL di Tiongkok: Biopsi, Akses Vaskular, dan Perawatan Mendesak
+- **Subtitle:** Pahami peran biopsi, akses vaskular, dan prosedur mendesak pada DLBCL di Tiongkok serta alasan pengobatan sistemik tetap diperlukan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -122,3 +124,6 @@ Tindak lanjut harus menangani limfoma sekaligus luka yang belum pulih, infeksi a
 ## SEO Metadata
 
 - **Primary keyword:** operasi dan prosedur untuk DLBCL
+
+- **Meta title:** Prosedur DLBCL di Tiongkok: Biopsi, Akses Vaskular, dan Perawatan Mendesak
+- **Meta description:** Pahami peran biopsi, akses vaskular, dan prosedur mendesak pada DLBCL di Tiongkok serta alasan pengobatan sistemik tetap diperlukan.

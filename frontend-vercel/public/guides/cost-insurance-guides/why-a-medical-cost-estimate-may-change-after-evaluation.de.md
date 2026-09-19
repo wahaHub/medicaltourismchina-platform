@@ -1,15 +1,17 @@
-# 154 Warum sich der Kostenvoranschlag nach der Untersuchung geändert hat: klinische Änderungen prüfen
+# Warum sich medizinische Kostenvoranschläge in China nach der Untersuchung ändern
 
 ## Hero
 
-- **Title:** Warum sich der Kostenvoranschlag nach der Untersuchung geändert hat: klinische Änderungen prüfen
 - **Category:** Kosten- und Versicherungsleitfäden
 - **Subcategory:** Überarbeitung von Kostenvoranschlägen
-- **Subtitle:** Verknüpfen Sie jede wesentliche Preisänderung mit neuen Befunden, einer geänderten Behandlungsentscheidung oder einer korrigierten administrativen Annahme.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Ein Arzt erläutert einen überarbeiteten Behandlungskostenvoranschlag zu Versorgung, Versicherung und Kosten.
+
+
+- **Title:** Warum sich medizinische Kostenvoranschläge in China nach der Untersuchung ändern
+- **Subtitle:** Verknüpfen Sie jede wesentliche Preisänderung mit neuen Befunden, einer geänderten Behandlungsentscheidung oder einer korrigierten administrativen Annahme.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -199,13 +201,15 @@ Verwenden Sie den zuletzt genehmigten Kostenvoranschlag und sein Änderungsproto
 ## SEO Metadata
 
 - **Slug:** `why-a-medical-cost-estimate-may-change-after-evaluation`
-- **Meta title:** Warum sich medizinische Kostenvoranschläge in China nach der Untersuchung ändern
-- **Meta description:** Prüfen Sie einen überarbeiteten Behandlungskostenvoranschlag in China: neue Befunde, klinische Entscheidungen, ergänzte oder entfernte Leistungen, Einwilligung und Eigenzahlung.
 - **Primary keyword:** medizinischer Kostenvoranschlag nach Untersuchung geändert
 - **Pillar keyword:** Kosten medizinischer Behandlung in China
 - **Vertical keyword:** überarbeiteter Krankenhauskostenvoranschlag China
 - **Search intent:** Kostenänderung / Behandlungsentscheidung
 - **Secondary keywords:** geänderter Kostenvoranschlag bei Medizinreisen; Änderungsprotokoll Krankenhauskosten; überarbeiteter Behandlungsplan China; vorläufiges medizinisches Angebot; Kostenvoranschlag und Schlussrechnung
+
+
+- **Meta title:** Warum sich medizinische Kostenvoranschläge in China nach der Untersuchung ändern
+- **Meta description:** Prüfen Sie einen überarbeiteten Behandlungskostenvoranschlag in China: neue Befunde, klinische Entscheidungen, ergänzte oder entfernte Leistungen, Einwilligung und Eigenzahlung.
 
 ## Quellen
 

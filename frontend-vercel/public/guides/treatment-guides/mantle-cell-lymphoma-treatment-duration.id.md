@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Berapa Lama Pengobatan Limfoma Sel Mantel Berlangsung? Siklus, Pemeliharaan, dan Perencanaan Masa Tinggal di Tiongkok
 - **Category:** Panduan Perawatan
 - **Subcategory:** Limfoma Sel Mantel
-- **Subtitle:** Lama pengobatan dapat berarti beberapa hal: persiapan sebelum dosis pertama, lamanya pengobatan intensif, pemeliharaan atau tablet berkelanjutan, serta saat Anda dapat pulang atau kembali bekerja.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Berapa Lama Pengobatan Limfoma Sel Mantel Berlangsung? Siklus, Pemeliharaan, dan Perencanaan Masa Tinggal di Tiongkok
+- **Subtitle:** Pahami fase persiapan, induksi, dan pemeliharaan limfoma sel mantel. Sesuaikan rencana tinggal di Tiongkok dengan evaluasi serta kebutuhan perawatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Jadwal yang berguna mengidentifikasi fase saat ini, syarat untuk langkah berikut
 ## SEO Metadata
 
 - **Primary keyword:** durasi pengobatan limfoma sel mantel
+
+- **Meta title:** Berapa Lama Pengobatan Limfoma Sel Mantel Berlangsung? Siklus, Pemeliharaan, dan Perencanaan Masa Tinggal di Tiongkok
+- **Meta description:** Pahami fase persiapan, induksi, dan pemeliharaan limfoma sel mantel. Sesuaikan rencana tinggal di Tiongkok dengan evaluasi serta kebutuhan perawatan.

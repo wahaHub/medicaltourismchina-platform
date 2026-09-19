@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Memilih rumah sakit di Tiongkok untuk mieloma multipel: sesuaikan tim dengan tahap pengobatan
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Mieloma Multipel
-- **Subtitle:** Pasien mungkin memerlukan klarifikasi diagnosis, perencanaan lini pertama, penilaian transplantasi, pengobatan kekambuhan, atau penanganan komplikasi.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Memilih rumah sakit di Tiongkok untuk mieloma multipel: sesuaikan tim dengan tahap pengobatan
+- **Subtitle:** Cari tim mieloma di Tiongkok yang sesuai dengan tahap diagnosis, transplantasi, atau kekambuhan. Periksa penanganan komplikasi dan perawatan lanjutan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Pilihan akhir harus mencerminkan kebutuhan penyakit, pengobatan tersedia, pemant
 ## SEO Metadata
 
 - **Primary keyword:** rumah sakit dan pusat pengobatan mieloma multipel di Tiongkok
+
+- **Meta title:** Memilih rumah sakit di Tiongkok untuk mieloma multipel: sesuaikan tim dengan tahap pengobatan
+- **Meta description:** Cari tim mieloma di Tiongkok yang sesuai dengan tahap diagnosis, transplantasi, atau kekambuhan. Periksa penanganan komplikasi dan perawatan lanjutan.

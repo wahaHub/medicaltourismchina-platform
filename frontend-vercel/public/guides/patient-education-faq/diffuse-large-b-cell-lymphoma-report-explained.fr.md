@@ -1,12 +1,14 @@
-# Comprendre un compte rendu de LDGCB : anatomopathologie, FISH, IPI et résultats de TEP
+# Comptes rendus du LDGCB : relecture de l’anatomopathologie, de la FISH et de la TEP en Chine
 
 ## Hero
 
-- **Title:** Comprendre un compte rendu de LDGCB : anatomopathologie, FISH, IPI et résultats de TEP
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Lymphome diffus à grandes cellules B
-- **Subtitle:** Un compte rendu de LDGCB peut réunir plusieurs langages à la fois : un nom diagnostique, des marquages positifs, des résultats génétiques, des pourcentages, un stade et un score de TEP.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Comptes rendus du LDGCB : relecture de l’anatomopathologie, de la FISH et de la TEP en Chine
+- **Subtitle:** Comprenez les marqueurs, les réarrangements génétiques et les résultats de TEP du LDGCB pour préparer une relecture anatomopathologique en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ Après le traitement, les doses effectivement administrées, les toxicités maje
 ## SEO Metadata
 
 - **Primary keyword:** comprendre un compte rendu de LDGCB
+
+- **Meta title:** Comptes rendus du LDGCB : relecture de l’anatomopathologie, de la FISH et de la TEP en Chine
+- **Meta description:** Comprenez les marqueurs, les réarrangements génétiques et les résultats de TEP du LDGCB pour préparer une relecture anatomopathologique en Chine.

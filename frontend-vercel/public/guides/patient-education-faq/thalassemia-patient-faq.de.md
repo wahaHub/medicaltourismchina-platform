@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Zwanzig Fragen zur Thalassämie: Diagnose, Behandlung und Versorgungsplanung in China
 - **Category:** Patientenaufklärung & FAQ
 - **Subcategory:** Thalassämie
-- **Subtitle:** Thalassämie kann eine Anlageträgerschaft, eine gelegentlich unterstützungsbedürftige Erkrankung oder einen Zustand mit regelmäßigem Transfusionsbedarf bezeichnen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Zwanzig Fragen zur Thalassämie: Diagnose, Behandlung und Versorgungsplanung in China
+- **Subtitle:** 20 Fragen zur Thalassämieversorgung in China: Vererbung, Diagnose, Transfusionen, Blutverträglichkeit, Eisenbelastung und langfristige Behandlungsplanung verstehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -191,3 +193,6 @@ Starke Brustschmerzen, Atemnot, Bewusstseinsveränderung oder nach Behandlungspl
 ## SEO Metadata
 
 - **Primary keyword:** Thalassämie-Patienten-FAQ; zwanzig Fragen zur Thalassämie; Thalassämiebehandlung in China; Fragen zu Transfusion und Chelattherapie
+
+- **Meta title:** Zwanzig Fragen zur Thalassämie: Diagnose, Behandlung und Versorgungsplanung in China
+- **Meta description:** 20 Fragen zur Thalassämieversorgung in China: Vererbung, Diagnose, Transfusionen, Blutverträglichkeit, Eisenbelastung und langfristige Behandlungsplanung verstehen.

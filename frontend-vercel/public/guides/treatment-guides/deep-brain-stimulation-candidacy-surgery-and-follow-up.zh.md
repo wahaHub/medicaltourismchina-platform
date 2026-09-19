@@ -1,15 +1,17 @@
-# 脑深部刺激：适应证、手术与长期随访
+# 中国脑深部电刺激：适用性评估与术后程控
 
 ## Hero
 
-- **Title:** 脑深部刺激：适应证、手术与长期随访
 - **Category:** 治疗指南
 - **Subcategory:** 神经内科与神经外科
-- **Subtitle:** 先判断DBS是否匹配诊断和目标症状，再确认跨境回家后能否持续获得程控服务。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 一位老年患者与神经科医师和外科人员查看脑深部刺激电极及脉冲发生器示意
+
+
+- **Title:** 中国脑深部电刺激：适用性评估与术后程控
+- **Subtitle:** 从诊断、目标症状、靶点、手术风险、程控、硬件、MRI安全和跨境服务评估DBS治疗。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -182,13 +184,15 @@ CDC建议在医疗旅行前安排随访，并取得完整英文记录。[7] 出�
 ## SEO Metadata
 
 - **Slug:** `deep-brain-stimulation-candidacy-surgery-and-follow-up`
-- **Meta title:** 脑深部刺激｜适应证、手术、程控与随访
-- **Meta description:** 从诊断、目标症状、靶点、手术风险、程控、硬件、MRI安全和跨境服务评估DBS治疗。
 - **Primary keyword:** 脑深部刺激适应证
 - **Pillar keyword:** DBS手术与程控
 - **Vertical keyword:** 功能神经外科
 - **Search intent:** 治疗评估 / 长期规划
 - **Secondary keywords:** 帕金森DBS；特发性震颤DBS；肌张力障碍DBS；DBS程控；DBS与MRI安全
+
+
+- **Meta title:** 中国脑深部电刺激：适用性评估与术后程控
+- **Meta description:** 从诊断、目标症状、靶点、手术风险、程控、硬件、MRI安全和跨境服务评估DBS治疗。
 
 ## Sources
 

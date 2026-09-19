@@ -1,12 +1,14 @@
-# Obat baru dan uji klinis limfoma sel T pada 2026: mengubah pembaruan penelitian menjadi pilihan yang dapat diverifikasi
+# Obat Baru dan Uji Klinis Limfoma Sel T: Pemeriksaan Akses di Tiongkok
 
 ## Hero
 
-- **Title:** Obat baru dan uji klinis limfoma sel T pada 2026: mengubah pembaruan penelitian menjadi pilihan yang dapat diverifikasi
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Limfoma Sel T
-- **Subtitle:** Berita dapat mengumumkan pengujian pertama pada manusia, tindak lanjut lebih panjang, persetujuan di negara lain, atau perekrutan di satu rumah sakit.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat Baru dan Uji Klinis Limfoma Sel T: Pemeriksaan Akses di Tiongkok
+- **Subtitle:** Hubungkan berita pengobatan limfoma sel T dengan subtipe, rancangan studi, dan riwayat terapi. Periksa akses serta kelayakan di rumah sakit Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -118,3 +120,6 @@ Pada akhir pertanyaan, catat pengenal penelitian, orang yang mengonfirmasi statu
 ## SEO Metadata
 
 - **Primary keyword:** obat baru dan uji klinis untuk limfoma sel T
+
+- **Meta title:** Obat Baru dan Uji Klinis Limfoma Sel T: Pemeriksaan Akses di Tiongkok
+- **Meta description:** Hubungkan berita pengobatan limfoma sel T dengan subtipe, rancangan studi, dan riwayat terapi. Periksa akses serta kelayakan di rumah sakit Tiongkok.

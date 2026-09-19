@@ -1,15 +1,17 @@
-# 150 Después de un viaje médico: elabore un plan de complicaciones que funcione bajo estrés
+# Después del tratamiento en China: plan para urgencias y complicaciones
 
 ## Hero
 
-- **Title:** Después de un viaje médico: elabore un plan de complicaciones que funcione bajo estrés
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Respuesta ante complicaciones y emergencias
-- **Subtitle:** Decida de antemano adónde ir, qué decir, qué llevar y quién se hace cargo cuando la recuperación deja de seguir el curso previsto.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un paciente y su acompañante preparan una hoja de contactos de emergencia y un calendario después de un tratamiento médico en el extranjero.
+
+
+- **Title:** Después del tratamiento en China: plan para urgencias y complicaciones
+- **Subtitle:** Elabore un plan práctico de emergencia posterior al tratamiento con vías de respuesta, hospitales locales, traspaso de 60 segundos, documentos, seguro y ensayo.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -204,13 +206,15 @@ No. La cobertura depende del contrato, las exclusiones, la necesidad médica, la
 ## SEO Metadata
 
 - **Slug:** `creating-a-complication-and-emergency-plan-after-medical-travel`
-- **Meta title:** Plan de emergencia después de un viaje médico | Respuesta ante complicaciones
-- **Meta description:** Elabore un plan práctico de emergencia posterior al tratamiento con vías de respuesta, hospitales locales, traspaso de 60 segundos, documentos, seguro y ensayo.
 - **Primary keyword:** plan de emergencia después de un viaje médico
 - **Pillar keyword:** viaje médico a China
 - **Vertical keyword:** plan de complicaciones después de tratamiento en el extranjero
 - **Search intent:** planificación de seguridad / atención al volver a casa
 - **Secondary keywords:** plan de complicaciones de turismo médico; documentos de emergencia después de cirugía en el extranjero; emergencia de tratamiento en el extranjero; comunicación de infecciones posteriores al viaje; planificación de evacuación médica
+
+
+- **Meta title:** Después del tratamiento en China: plan para urgencias y complicaciones
+- **Meta description:** Elabore un plan práctico de emergencia posterior al tratamiento con vías de respuesta, hospitales locales, traspaso de 60 segundos, documentos, seguro y ensayo.
 
 ## Fuentes
 

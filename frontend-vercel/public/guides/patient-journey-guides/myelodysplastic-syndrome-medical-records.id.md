@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Rekam Medis untuk Konsultasi MDS di Tiongkok: Laporan Sumsum Tulang, Genetika, Transfusi, dan Riwayat Pengobatan
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Sindrom Mielodisplastik
-- **Subtitle:** Surat diagnosis dan hitung darah terbaru memberi tahu dokter penerima bahwa Anda menderita MDS.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rekam Medis untuk Konsultasi MDS di Tiongkok: Laporan Sumsum Tulang, Genetika, Transfusi, dan Riwayat Pengobatan
+- **Subtitle:** Siapkan konsultasi MDS di Tiongkok dengan laporan sumsum, genetika, transfusi, dan riwayat terapi yang menjelaskan masalah serta tujuan rujukan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Daftar periksa ini berkaitan dengan rekam medis yang sudah ada. Klinisi penerima
 ## SEO Metadata
 
 - **Primary keyword:** rekam medis untuk konsultasi sindrom mielodisplastik
+
+- **Meta title:** Rekam Medis untuk Konsultasi MDS di Tiongkok: Laporan Sumsum Tulang, Genetika, Transfusi, dan Riwayat Pengobatan
+- **Meta description:** Siapkan konsultasi MDS di Tiongkok dengan laporan sumsum, genetika, transfusi, dan riwayat terapi yang menjelaskan masalah serta tujuan rujukan.

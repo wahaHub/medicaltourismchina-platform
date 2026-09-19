@@ -1,15 +1,17 @@
-# 住院恢复期营养：先选安全途径，再计算热量
+# 在中国住院恢复：营养与液体管理计划
 
 ## Hero
 
-- **Title:** 住院恢复期营养：先选安全途径，再计算热量
 - **Category:** 患者旅程指南
 - **Subcategory:** 营养筛查、喂养途径与液体平衡
-- **Subtitle:** 恢复期营养先判断吞咽是否安全、胃肠道能否使用、液体是否受限；之后，热量、蛋白质、补充剂和口味偏好才是有用数字。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** 概念图：住院患者与医务人员讨论营养和饮水，旁有水果、水和步行器；画面不代表具体处方或可以不限量饮水。
+
+
+- **Title:** 在中国住院恢复：营养与液体管理计划
+- **Subtitle:** 筛查营养风险，确认吞咽和胃肠安全，选择口服、管饲或静脉支持，管理液体平衡并制定出院营养交接。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -158,13 +160,15 @@ NICE 给出高风险标准，并建议由受训人员谨慎启动、结合临床
 ## SEO Metadata
 
 - **Slug:** `nutrition-and-hydration-during-hospital-recovery`
-- **Meta title:** 住院恢复期营养｜途径、液体与再喂养风险
-- **Meta description:** 筛查营养风险，确认吞咽和胃肠安全，选择口服、管饲或静脉支持，管理液体平衡并制定出院营养交接。
 - **Primary keyword:** 中国住院恢复期营养
 - **Pillar keyword:** 赴华医疗
 - **Vertical keyword:** 住院营养与液体方案
 - **Search intent:** 恢复规划 / 营养支持
 - **Secondary keywords:** 中国医院营养筛查；术后进食；中国肠内营养；再喂养风险；住院液体平衡
+
+
+- **Meta title:** 在中国住院恢复：营养与液体管理计划
+- **Meta description:** 筛查营养风险，确认吞咽和胃肠安全，选择口服、管饲或静脉支持，管理液体平衡并制定出院营养交接。
 
 ## Sources
 

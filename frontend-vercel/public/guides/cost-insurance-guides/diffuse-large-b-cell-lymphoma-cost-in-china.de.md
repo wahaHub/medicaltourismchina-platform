@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Kosten der DLBCL-Behandlung in China: ein aufgeschlüsseltes Budget in Yuan erstellen
 - **Category:** Ratgeber zu Kosten und Versicherung
 - **Subcategory:** Diffuses großzelliges B-Zell-Lymphom
-- **Subtitle:** Kosten der DLBCL-Behandlung in China: ein aufgeschlüsseltes Budget in Yuan erstellen
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Kosten der DLBCL-Behandlung in China: ein aufgeschlüsseltes Budget in Yuan erstellen
+- **Subtitle:** DLBCL-Behandlungskosten in China vergleichbar kalkulieren: Diagnostik, Zyklen, unterstützende Versorgung, Bestrahlung und spätere Therapiephasen berücksichtigen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,3 +143,6 @@ Lassen Sie sich nach Abschluss die tatsächlichen Einzelkosten und eine klinisch
 ## SEO Metadata
 
 - **Primary keyword:** Kosten der DLBCL-Behandlung in China
+
+- **Meta title:** Kosten der DLBCL-Behandlung in China: ein aufgeschlüsseltes Budget in Yuan erstellen
+- **Meta description:** DLBCL-Behandlungskosten in China vergleichbar kalkulieren: Diagnostik, Zyklen, unterstützende Versorgung, Bestrahlung und spätere Therapiephasen berücksichtigen.

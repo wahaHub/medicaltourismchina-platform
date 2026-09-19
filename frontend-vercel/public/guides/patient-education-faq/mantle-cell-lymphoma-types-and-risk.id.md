@@ -1,12 +1,14 @@
-# Jenis dan risiko limfoma sel mantel: memahami perilaku indolen, biologi berisiko tinggi, dan stadium
+# Jenis dan Risiko Limfoma Sel Mantel: Tinjauan di Tiongkok
 
 ## Hero
 
-- **Title:** Jenis dan risiko limfoma sel mantel: memahami perilaku indolen, biologi berisiko tinggi, dan stadium
 - **Category:** Edukasi Pasien & FAQ
 - **Subcategory:** Limfoma Sel Mantel
-- **Subtitle:** Pencarian terkait: MCL indolen; limfoma sel mantel berisiko tinggi; penilaian risiko MCL di Tiongkok
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Jenis dan Risiko Limfoma Sel Mantel: Tinjauan di Tiongkok
+- **Subtitle:** Bedakan stadium, perilaku indolen, dan biologi berisiko tinggi pada limfoma sel mantel. Siapkan hasil patologi untuk tinjauan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Konsultasi harus berakhir dengan tindakan: melanjutkan rencana pemantauan yang j
 ## SEO Metadata
 
 - **Primary keyword:** jenis dan risiko limfoma sel mantel
+
+- **Meta title:** Jenis dan Risiko Limfoma Sel Mantel: Tinjauan di Tiongkok
+- **Meta description:** Bedakan stadium, perilaku indolen, dan biologi berisiko tinggi pada limfoma sel mantel. Siapkan hasil patologi untuk tinjauan di Tiongkok.

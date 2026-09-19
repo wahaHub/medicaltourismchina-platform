@@ -1,12 +1,14 @@
-# Gérer les effets indésirables du traitement de la sclérose en plaques : symptômes, examens et aide rapide
+# Traitement de la SEP en Chine : effets indésirables et recours aux soins
 
 ## Hero
 
-- **Title:** Gérer les effets indésirables du traitement de la sclérose en plaques : symptômes, examens et aide rapide
 - **Category:** Guides des traitements
 - **Subcategory:** Sclérose en plaques
-- **Subtitle:** Une longue liste d'effets indésirables possibles peut rendre les décisions thérapeutiques plus difficiles.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement de la SEP en Chine : effets indésirables et recours aux soins
+- **Subtitle:** Préparez le suivi des effets indésirables de la sclérose en plaques en Chine : symptômes, réactions aux injections, analyses hépatiques et risque infectieux.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ La gestion des effets indésirables vise un soutien rapide et un plan thérapeut
 ## SEO Metadata
 
 - **Primary keyword:** effets indésirables du traitement de la sclérose en plaques
+
+- **Meta title:** Traitement de la SEP en Chine : effets indésirables et recours aux soins
+- **Meta description:** Préparez le suivi des effets indésirables de la sclérose en plaques en Chine : symptômes, réactions aux injections, analyses hépatiques et risque infectieux.

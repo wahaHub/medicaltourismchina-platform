@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Veinte preguntas de pacientes sobre la EICH: tratamiento, reducción gradual, atención en China y seguimiento
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedad de injerto contra huésped
-- **Subtitle:** La enfermedad de injerto contra huésped reúne los antecedentes de trasplante, el tratamiento inmunitario y problemas que afectan a varios órganos.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Veinte preguntas de pacientes sobre la EICH: tratamiento, reducción gradual, atención en China y seguimiento
+- **Subtitle:** Resuelva dudas sobre diagnóstico, tratamiento y reducción de medicación de la enfermedad injerto contra huésped al planificar atención y seguimiento en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Continúe el seguimiento sanguíneo y bioquímico específico del esquema, la ev
 ## SEO Metadata
 
 - **Primary keyword:** preguntas de pacientes sobre EICH y tratamiento en China
+
+- **Meta title:** Veinte preguntas de pacientes sobre la EICH: tratamiento, reducción gradual, atención en China y seguimiento
+- **Meta description:** Resuelva dudas sobre diagnóstico, tratamiento y reducción de medicación de la enfermedad injerto contra huésped al planificar atención y seguimiento en China.

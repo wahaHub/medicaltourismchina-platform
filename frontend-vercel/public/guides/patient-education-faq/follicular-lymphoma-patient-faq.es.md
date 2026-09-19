@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Veinte preguntas de los pacientes sobre el linfoma folicular y la atención en China
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma folicular
-- **Subtitle:** Veinte preguntas de los pacientes sobre el linfoma folicular y la atención en China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Veinte preguntas de los pacientes sobre el linfoma folicular y la atención en China
+- **Subtitle:** Prepare preguntas sobre biopsia, grado, estadio, observación y tratamiento del linfoma folicular para participar en las decisiones de atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ El seguimiento también abarca síntomas, exploración, efectos del tratamiento,
 ## SEO Metadata
 
 - **Primary keyword:** preguntas frecuentes de pacientes con linfoma folicular
+
+- **Meta title:** Veinte preguntas de los pacientes sobre el linfoma folicular y la atención en China
+- **Meta description:** Prepare preguntas sobre biopsia, grado, estadio, observación y tratamiento del linfoma folicular para participar en las decisiones de atención en China.

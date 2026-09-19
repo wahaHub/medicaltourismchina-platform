@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Haruskah Seseorang dengan Penyakit Alzheimer Bepergian ke Tiongkok untuk Mendapatkan Perawatan?
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Penyakit Alzheimer
-- **Subtitle:** Keluarga yang mempertimbangkan perawatan di negara lain membutuhkan lebih dari sekadar janji temu yang tersedia.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Haruskah Seseorang dengan Penyakit Alzheimer Bepergian ke Tiongkok untuk Mendapatkan Perawatan?
+- **Subtitle:** Nilai manfaat perawatan Alzheimer di Tiongkok sesuai stadium, kebutuhan keluarga, dan kondisi terkini. Siapkan bantuan selama perjalanan dan kunjungan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Keputusan bepergian harus tetap tanggap terhadap kondisi, preferensi, dan jaring
 ## SEO Metadata
 
 - **Primary keyword:** perjalanan medis penyakit Alzheimer ke Tiongkok
+
+- **Meta title:** Haruskah Seseorang dengan Penyakit Alzheimer Bepergian ke Tiongkok untuk Mendapatkan Perawatan?
+- **Meta description:** Nilai manfaat perawatan Alzheimer di Tiongkok sesuai stadium, kebutuhan keluarga, dan kondisi terkini. Siapkan bantuan selama perjalanan dan kunjungan.

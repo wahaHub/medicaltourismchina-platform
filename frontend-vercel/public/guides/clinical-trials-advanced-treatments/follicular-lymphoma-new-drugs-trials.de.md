@@ -1,12 +1,14 @@
-# Neue Behandlungen und Studien beim follikulären Lymphom: Die Evidenz auf Ihre Situation beziehen
+# Neue Behandlungen beim follikulären Lymphom: Studien und Zugang in China
 
 ## Hero
 
-- **Title:** Neue Behandlungen und Studien beim follikulären Lymphom: Die Evidenz auf Ihre Situation beziehen
 - **Category:** Klinische Studien & fortgeschrittene Behandlungen
 - **Subcategory:** Follikuläres Lymphom
-- **Subtitle:** Eine hohe Ansprechrate eines neuen Medikaments sollte zunächst Fragen zu Teilnehmern, Kombination, Nachbeobachtung und Zulassungsstatus auslösen, bevor nach einem Anbieter gesucht wird.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Neue Behandlungen beim follikulären Lymphom: Studien und Zugang in China
+- **Subtitle:** Neue Therapien beim follikulären Lymphom für die Versorgung in China bewerten: Vergleichsbehandlung, Evidenz, Sicherheit und Studienanforderungen einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Halten Sie während der Eignungsprüfung eine Standardbehandlung als Ausweichopt
 ## SEO Metadata
 
 - **Primary keyword:** follikuläres Lymphom neue Medikamente und klinische Studien
+
+- **Meta title:** Neue Behandlungen beim follikulären Lymphom: Studien und Zugang in China
+- **Meta description:** Neue Therapien beim follikulären Lymphom für die Versorgung in China bewerten: Vergleichsbehandlung, Evidenz, Sicherheit und Studienanforderungen einordnen.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Combien de temps dure le traitement de la thalassémie ? Cycles transfusionnels, évaluation des médicaments et durée nécessaire en Chine
 - **Category:** Guides des traitements
 - **Subcategory:** Thalassémie
-- **Subtitle:** Demander combien de temps dure le traitement peut concerner la durée d’une consultation, la possibilité d’arrêter les médicaments à l’avenir ou le moment où l’on peut rentrer chez soi après une greffe.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Combien de temps dure le traitement de la thalassémie ? Cycles transfusionnels, évaluation des médicaments et durée nécessaire en Chine
+- **Subtitle:** Comprenez les calendriers de la thalassémie en Chine : transfusions régulières, chélation, réévaluation médicamenteuse et temps nécessaire au suivi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -147,3 +149,6 @@ La durée du traitement varie selon l’intervention et l’évolution individue
 ## SEO Metadata
 
 - **Primary keyword:** durée du traitement de la thalassémie ; intervalles transfusionnels ; temps de récupération après greffe ; séjour thérapeutique en Chine
+
+- **Meta title:** Combien de temps dure le traitement de la thalassémie ? Cycles transfusionnels, évaluation des médicaments et durée nécessaire en Chine
+- **Meta description:** Comprenez les calendriers de la thalassémie en Chine : transfusions régulières, chélation, réévaluation médicamenteuse et temps nécessaire au suivi.

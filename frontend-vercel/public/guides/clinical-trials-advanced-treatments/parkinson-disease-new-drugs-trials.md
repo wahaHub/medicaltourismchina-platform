@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** New Parkinson’s drugs and clinical trials in 2026: evidence, limitations and preparing for assessment in China
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Parkinson Disease
-- **Subtitle:** New medicines, antibodies, cell transplants and device studies understandably attract people looking for better future function.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** New Parkinson’s drugs and clinical trials in 2026: evidence, limitations and preparing for assessment in China
+- **Subtitle:** Understand new Parkinson’s drug and trial reports, their limits and the records needed for a treatment or research assessment in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ At the end of a consultation, request a clear description of your status: furthe
 ## SEO Metadata
 
 - **Primary keyword:** Parkinson’s disease new drugs and clinical trials
+
+- **Meta title:** New Parkinson’s drugs and clinical trials in 2026: evidence, limitations and preparing for assessment in China
+- **Meta description:** Understand new Parkinson’s drug and trial reports, their limits and the records needed for a treatment or research assessment in China.

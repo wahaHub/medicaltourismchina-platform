@@ -1,15 +1,17 @@
-# TCR-T Cell Therapy Trials: What Patients Should Understand
+# TCR-T Trials in China: HLA Matching and Eligibility
 
 ## Hero
 
-- **Title:** TCR-T Cell Therapy Trials: What Patients Should Understand
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Cellular Immunotherapy
-- **Subtitle:** A trial match depends on the exact HLA allele, tumour target, engineered receptor, cohort and treatment pathway—not on the words “TCR-T” alone.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Editorial illustration of receptor-bearing immune cells beside a patient-selection discussion; schematic only, not a laboratory assay or a specific TCR-T product.
+
+
+- **Title:** TCR-T Trials in China: HLA Matching and Eligibility
+- **Subtitle:** Understand TCR-T trial matching, including HLA and tumour targets, screening, cell manufacture, cross-reactivity risks, China verification and follow-up.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -158,11 +160,13 @@ Only if the protocol and treating centre clear it. Early inflammatory, neurologi
 ## SEO Metadata
 
 - **Slug:** `tcr-t-cell-therapy-trials-what-patients-should-understand`
-- **Meta title:** TCR-T Trials: HLA Matching, Eligibility and Risks
-- **Meta description:** Understand TCR-T trial matching, including HLA and tumour targets, screening, cell manufacture, cross-reactivity risks, China verification and follow-up.
 - **Primary keyword:** TCR-T cell therapy trials
 - **Secondary keywords:** TCR-T HLA matching; TCR-T eligibility; engineered T-cell receptor; TCR-T China trial; TCR-T risks
 - **Search intent:** TCR-T trial screening / advanced treatment decision
+
+
+- **Meta title:** TCR-T Trials in China: HLA Matching and Eligibility
+- **Meta description:** Understand TCR-T trial matching, including HLA and tumour targets, screening, cell manufacture, cross-reactivity risks, China verification and follow-up.
 
 ## Sources
 

@@ -1,12 +1,14 @@
-# Effets indésirables du traitement du lymphome de Hodgkin : symptômes urgents et problèmes à suivre
+# Soins du lymphome de Hodgkin en Chine : effets indésirables et aide urgente
 
 ## Hero
 
-- **Title:** Effets indésirables du traitement du lymphome de Hodgkin : symptômes urgents et problèmes à suivre
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome de Hodgkin
-- **Subtitle:** L’inconfort pendant le traitement du lymphome de Hodgkin ne doit pas être simplement divisé entre symptômes supportables et insupportables.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Soins du lymphome de Hodgkin en Chine : effets indésirables et aide urgente
+- **Subtitle:** Pendant les soins du lymphome de Hodgkin en Chine, repérez fièvre, toux, essoufflement et troubles nerveux nécessitant une évaluation ou un ajustement.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Après la fin du traitement, neuropathie persistante, problèmes cardiopulmonair
 ## SEO Metadata
 
 - **Primary keyword:** effets indésirables du traitement du lymphome de Hodgkin
+
+- **Meta title:** Soins du lymphome de Hodgkin en Chine : effets indésirables et aide urgente
+- **Meta description:** Pendant les soins du lymphome de Hodgkin en Chine, repérez fièvre, toux, essoufflement et troubles nerveux nécessitant une évaluation ou un ajustement.

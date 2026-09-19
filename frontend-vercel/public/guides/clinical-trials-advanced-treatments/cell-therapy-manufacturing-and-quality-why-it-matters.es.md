@@ -1,15 +1,17 @@
-# 086 Fabricación y calidad de la terapia celular: por qué importan
+# Terapia celular en China: fabricación y controles de calidad
 
 ## Hero
 
-- **Title:** Fabricación y calidad de la terapia celular: por qué importan
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Medicina celular, génica y regenerativa
-- **Subtitle:** Siga un producto celular desde la obtención y el control de identidad hasta la fabricación, liberación, transporte y administración al paciente, y comprenda qué sucede cuando falla un lote.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustración editorial de células que pasan por un vial de producto y un control de seguridad hasta llegar a un paciente; un recorrido general, no un registro real de fabricación ni un certificado de liberación.
+
+
+- **Title:** Terapia celular en China: fabricación y controles de calidad
+- **Subtitle:** Comprenda la obtención celular, la cadena de identidad, los controles de fabricación, las pruebas de liberación, la potencia, los lotes OOS, la comparabilidad, el transporte y la manipulación junto al paciente.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -175,11 +177,13 @@ Sí. El protocolo debe definir la notificación inmediata, la evaluación clíni
 ## SEO Metadata
 
 - **Slug:** `cell-therapy-manufacturing-and-quality-why-it-matters`
-- **Meta title:** Fabricación, liberación y calidad de la terapia celular
-- **Meta description:** Comprenda la obtención celular, la cadena de identidad, los controles de fabricación, las pruebas de liberación, la potencia, los lotes OOS, la comparabilidad, el transporte y la manipulación junto al paciente.
 - **Primary keyword:** calidad de fabricación de la terapia celular
 - **Secondary keywords:** liberación de lotes de terapia celular; fallo de fabricación de CAR-T; potencia de la terapia celular; cadena de identidad; comparabilidad de la terapia celular
 - **Search intent:** diligencia debida de fabricación / calidad del producto celular
+
+
+- **Meta title:** Terapia celular en China: fabricación y controles de calidad
+- **Meta description:** Comprenda la obtención celular, la cadena de identidad, los controles de fabricación, las pruebas de liberación, la potencia, los lotes OOS, la comparabilidad, el transporte y la manipulación junto al paciente.
 
 ## Fuentes
 

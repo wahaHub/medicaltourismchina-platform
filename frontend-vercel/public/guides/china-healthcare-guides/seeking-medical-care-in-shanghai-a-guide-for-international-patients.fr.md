@@ -1,15 +1,17 @@
-# 022 Se faire soigner à Shanghai : guide pour les patients internationaux
+# Se soigner en Chine : guide du patient à Shanghai
 
 ## Hero
 
-- **Title:** Se faire soigner à Shanghai : guide pour les patients internationaux
 - **Category:** Guides du système de santé chinois
 - **Subcategory:** Choisir une destination de soins
-- **Subtitle:** Choisissez le bon parcours de soins, assurez la cohérence de votre identité de passeport entre les rendez-vous et préparez les étapes des soins à Shanghai qui se déroulent hors du cabinet de consultation.
 - **Reviewed by:** Équipe éditoriale de Medora Health ; relecture du parcours clinique et de l’assurance à Shanghai requise avant publication
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un visiteur international parle avec un médecin près d’une valise, avec une vue sur la silhouette urbaine de Shanghai
+
+
+- **Title:** Se soigner en Chine : guide du patient à Shanghai
+- **Subtitle:** Choisissez un parcours de soins à Shanghai, réservez avec passeport, utilisez Suishenban en sécurité, confirmez l’assurance et préparez examens, dossiers et urgences 120.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -202,13 +204,15 @@ Non. Appelez le 120 pour une urgence médicale. Le Shanghai 12345 traite les dem
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-shanghai-a-guide-for-international-patients`
-- **Meta title:** Soins médicaux à Shanghai pour les patients internationaux
-- **Meta description:** Choisissez un parcours de soins à Shanghai, réservez avec passeport, utilisez Suishenban en sécurité, confirmez l’assurance et préparez examens, dossiers et urgences 120.
 - **Primary keyword:** soins médicaux à Shanghai pour patients internationaux
 - **Pillar keyword:** soins de santé en Chine pour patients internationaux
 - **Vertical keyword:** hôpitaux de Shanghai pour patients étrangers
 - **Search intent:** orientation dans les soins / planification des rendez-vous
 - **Secondary keywords:** services médicaux internationaux Shanghai ; rendez-vous hospitalier Suishenban ; passeport étranger hôpital Shanghai ; urgence médicale Shanghai 120
+
+
+- **Meta title:** Se soigner en Chine : guide du patient à Shanghai
+- **Meta description:** Choisissez un parcours de soins à Shanghai, réservez avec passeport, utilisez Suishenban en sécurité, confirmez l’assurance et préparez examens, dossiers et urgences 120.
 
 ## Sources
 

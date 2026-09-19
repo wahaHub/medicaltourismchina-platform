@@ -1,12 +1,14 @@
-# Sichelzellbehandlungen vergleichen: Medikamente, Transfusion, Transplantation und Gentherapie
+# Behandlungsoptionen bei Sichelzellkrankheit: Eignung und Zugang in China
 
 ## Hero
 
-- **Title:** Sichelzellbehandlungen vergleichen: Medikamente, Transfusion, Transplantation und Gentherapie
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Sichelzellkrankheit
-- **Subtitle:** Die Wahl zwischen Hydroxyurea, regelmäßigen Transfusionen, einer Stammzelltransplantation mit Spenderzellen und Gentherapie ist nicht einfach eine Suche nach der neuesten Behandlung.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Behandlungsoptionen bei Sichelzellkrankheit: Eignung und Zugang in China
+- **Subtitle:** Sichelzelltherapien für China vergleichen: Hydroxyurea, Transfusionen, Spendertransplantation und Gentherapie nach Eignung, Risiken und langfristiger Belastung prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ Führen Sie das abschließende Gespräch zum Alltag zurück. Wie häufig werden 
 ## SEO Metadata
 
 - **Primary keyword:** Behandlungsvergleich bei Sichelzellkrankheit
+
+- **Meta title:** Behandlungsoptionen bei Sichelzellkrankheit: Eignung und Zugang in China
+- **Meta description:** Sichelzelltherapien für China vergleichen: Hydroxyurea, Transfusionen, Spendertransplantation und Gentherapie nach Eignung, Risiken und langfristiger Belastung prüfen.

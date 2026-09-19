@@ -1,12 +1,14 @@
-# Manejo de los efectos secundarios del tratamiento del linfoma de células del manto: fiebre, sangrado, terapia dirigida y vigilancia de CAR-T
+# Atención del linfoma de células del manto en China: efectos secundarios y seguridad
 
 ## Hero
 
-- **Title:** Manejo de los efectos secundarios del tratamiento del linfoma de células del manto: fiebre, sangrado, terapia dirigida y vigilancia de CAR-T
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de células del manto
-- **Subtitle:** Manejo de los efectos secundarios del tratamiento del linfoma de células del manto: fiebre, sangrado, terapia dirigida y vigilancia de CAR-T
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Atención del linfoma de células del manto en China: efectos secundarios y seguridad
+- **Subtitle:** Prepare un plan de seguridad del tratamiento del linfoma de células del manto en China con señales de fiebre, sangrado y cambios durante terapias dirigidas.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ El manejo de los efectos secundarios busca identificar pronto el peligro, reduci
 ## SEO Metadata
 
 - **Primary keyword:** efectos secundarios del tratamiento del linfoma de células del manto
+
+- **Meta title:** Atención del linfoma de células del manto en China: efectos secundarios y seguridad
+- **Meta description:** Prepare un plan de seguridad del tratamiento del linfoma de células del manto en China con señales de fiebre, sangrado y cambios durante terapias dirigidas.

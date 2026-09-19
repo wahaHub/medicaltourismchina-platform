@@ -1,12 +1,14 @@
-# Gérer les effets indésirables du traitement du lymphome à cellules du manteau : fièvre, saignements, thérapie ciblée et surveillance des CAR-T
+# Soins du lymphome du manteau en Chine : effets indésirables et sécurité
 
 ## Hero
 
-- **Title:** Gérer les effets indésirables du traitement du lymphome à cellules du manteau : fièvre, saignements, thérapie ciblée et surveillance des CAR-T
 - **Category:** Guides de traitement
 - **Subcategory:** Lymphome à cellules du manteau
-- **Subtitle:** Gérer les effets indésirables du traitement du lymphome à cellules du manteau : fièvre, saignements, thérapie ciblée et surveillance des CAR-T
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Soins du lymphome du manteau en Chine : effets indésirables et sécurité
+- **Subtitle:** Préparez la surveillance du lymphome du manteau en Chine : fièvre, saignements, effets des traitements ciblés et signes nécessitant un contact rapide.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ La prise en charge des effets indésirables vise à repérer tôt le danger, à 
 ## SEO Metadata
 
 - **Primary keyword:** effets indésirables du traitement du lymphome à cellules du manteau
+
+- **Meta title:** Soins du lymphome du manteau en Chine : effets indésirables et sécurité
+- **Meta description:** Préparez la surveillance du lymphome du manteau en Chine : fièvre, saignements, effets des traitements ciblés et signes nécessitant un contact rapide.

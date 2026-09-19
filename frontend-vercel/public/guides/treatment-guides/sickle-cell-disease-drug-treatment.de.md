@@ -1,12 +1,14 @@
-# Medikamente bei Sichelzellkrankheit prüfen: Hydroxyurea, regulatorische Änderungen, Schmerzlinderung und Überwachung
+# Medikamente bei Sichelzellkrankheit in China: Zugang und Überwachung prüfen
 
 ## Hero
 
-- **Title:** Medikamente bei Sichelzellkrankheit prüfen: Hydroxyurea, regulatorische Änderungen, Schmerzlinderung und Überwachung
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Sichelzellkrankheit
-- **Subtitle:** Eine Medikamentenliste bei Sichelzellkrankheit kann tägliche Behandlung, Medikamente für Schmerzepisoden, Infektionsvorsorge und Mittel gegen transfusionsbedingte Eisenüberladung enthalten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medikamente bei Sichelzellkrankheit in China: Zugang und Überwachung prüfen
+- **Subtitle:** Sichelzellmedikamente für die Versorgung in China prüfen: Zweck der Verordnung, Hydroxyurea-Kontrollen, Schmerzbehandlung und regionale Produktinformationen klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Vor Ende der Beratung sollte der Medikamentenplan festhalten, was täglich genom
 ## SEO Metadata
 
 - **Primary keyword:** Medikamente gegen Sichelzellkrankheit
+
+- **Meta title:** Medikamente bei Sichelzellkrankheit in China: Zugang und Überwachung prüfen
+- **Meta description:** Sichelzellmedikamente für die Versorgung in China prüfen: Zweck der Verordnung, Hydroxyurea-Kontrollen, Schmerzbehandlung und regionale Produktinformationen klären.

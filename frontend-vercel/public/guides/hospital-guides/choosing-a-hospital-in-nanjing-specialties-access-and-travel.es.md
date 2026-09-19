@@ -1,15 +1,17 @@
-# 107 Elegir un hospital en Nanjing: dependencias clínicas, cruces del río y acceso a las sedes
+# Elegir un hospital en China: citas y viajes en Nanjing
 
 ## Hero
 
-- **Title:** Elegir un hospital en Nanjing: dependencias clínicas, cruces del río y acceso a las sedes
 - **Category:** Guías hospitalarias
 - **Subcategory:** Planificación de la atención en Nanjing
-- **Subtitle:** Trace primero las dependencias clínicas y después asegúrese de que los procedimientos con pasaporte, la sede, el cruce del río, las urgencias y el alta permitan atenderlas.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustración conceptual de viajeros internacionales que planifican atención hospitalaria en Nanjing; el perfil urbano, la puerta histórica, el hospital y los iconos de rutas no representan una combinación real de sedes ni un aval.
+
+
+- **Title:** Elegir un hospital en China: citas y viajes en Nanjing
+- **Subtitle:** Elija un hospital de Nanjing trazando dependencias clínicas, sedes, reservas con pasaporte en 12320, interpretación, cruces del río, llegadas operativas, urgencias y alta.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -209,13 +211,15 @@ No. La autorización escrita debe coincidir con el paciente, plan, proveedor leg
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-nanjing-specialties-access-and-travel`
-- **Meta title:** Elegir un hospital en Nanjing: sedes, reservas con pasaporte y desplazamientos
-- **Meta description:** Elija un hospital de Nanjing trazando dependencias clínicas, sedes, reservas con pasaporte en 12320, interpretación, cruces del río, llegadas operativas, urgencias y alta.
 - **Primary keyword:** elegir un hospital en Nanjing
 - **Pillar keyword:** hospitales de Nanjing para pacientes internacionales
 - **Vertical keyword:** sedes hospitalarias Nanjing acceso desplazamientos
 - **Search intent:** comparación de hospitales / planificación de viajes médicos a Nanjing
 - **Secondary keywords:** Nanjing 12320 pasaporte; hospital internacional Nanjing; sede hospitalaria Nanjing; cruce río hospital Nanjing; Nanjing 120
+
+
+- **Meta title:** Elegir un hospital en China: citas y viajes en Nanjing
+- **Meta description:** Elija un hospital de Nanjing trazando dependencias clínicas, sedes, reservas con pasaporte en 12320, interpretación, cruces del río, llegadas operativas, urgencias y alta.
 
 ## Fuentes
 

@@ -1,15 +1,17 @@
-# 临床试验不良事件报告：患者实用指南
+# 中国临床试验：患者如何报告不良事件
 
 ## Hero
 
-- **Title:** 临床试验不良事件报告：患者实用指南
 - **Category:** 临床试验与先进治疗
 - **Subcategory:** 受试者安全与事件报告
-- **Subtitle:** 出现症状、住院或器械问题时，应该告诉谁、提供什么，以及人在异地时怎样保证救治与研究信息不断线。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **图片替代文字：** 与《094 临床试验不良事件报告：患者实用指南》对应的临床场景，呈现相关诊疗决策、操作流程与安全核对。
+
+
+- **Title:** 中国临床试验：患者如何报告不良事件
+- **Subtitle:** 说明临床试验参与者应报告哪些事件、重度与严重的区别、急诊处理、研究者和申办者职责，以及跨境安全随访。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -187,11 +189,13 @@ SUSAR 同时包含“可疑相关、非预期、严重”三个要素，是申�
 ## SEO Metadata
 
 - **Slug:** `adverse-event-reporting-in-clinical-trials-a-patient-guide`
-- **Meta title:** 临床试验不良事件怎样报告：患者指南
-- **Meta description:** 说明临床试验参与者应报告哪些事件、重度与严重的区别、急诊处理、研究者和申办者职责，以及跨境安全随访。
 - **Primary keyword:** 临床试验不良事件报告
 - **Secondary keywords:** 不良事件与严重不良事件区别；中国临床试验 SAE；SUSAR 患者指南；临床试验紧急联系人；试验安全随访
 - **Search intent:** 受试者安全与不良事件报告
+
+
+- **Meta title:** 中国临床试验：患者如何报告不良事件
+- **Meta description:** 说明临床试验参与者应报告哪些事件、重度与严重的区别、急诊处理、研究者和申办者职责，以及跨境安全随访。
 
 ## Sources
 

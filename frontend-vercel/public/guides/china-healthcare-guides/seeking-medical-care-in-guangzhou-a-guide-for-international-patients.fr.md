@@ -1,15 +1,17 @@
-# 023 Se faire soigner à Guangzhou : guide pour les patients internationaux
+# Se soigner en Chine : guide du patient à Guangzhou
 
 ## Hero
 
-- **Title:** Se faire soigner à Guangzhou : guide pour les patients internationaux
 - **Category:** Guides du système de santé chinois
 - **Subcategory:** Choisir une destination de soins
-- **Subtitle:** Un parcours propre à Guangzhou pour les rendez-vous, l’inscription avec un passeport, le suivi des résultats, l’aide linguistique et les soins d’urgence.
 - **Reviewed by:** Équipe éditoriale de Medora Health ; relecture clinique et vérification du parcours hospitalier à Guangzhou requises avant publication
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un patient international rencontre un médecin, avec des bagages et la silhouette urbaine de Guangzhou à proximité
+
+
+- **Title:** Se soigner en Chine : guide du patient à Guangzhou
+- **Subtitle:** Utiliser Guangzhou Health Link avec un passeport, vérifier les hôpitaux, organiser l’interprétation, comprendre le suivi dans les trois jours et préparer les urgences au 120.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -197,13 +199,15 @@ Appelez le 120 et indiquez le lieu exact et l’état du patient. La page intern
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-guangzhou-a-guide-for-international-patients`
-- **Meta title:** Soins médicaux à Guangzhou pour les patients internationaux
-- **Meta description:** Utiliser Guangzhou Health Link avec un passeport, vérifier les hôpitaux, organiser l’interprétation, comprendre le suivi dans les trois jours et préparer les urgences au 120.
 - **Primary keyword:** soins médicaux à Guangzhou pour les patients internationaux
 - **Pillar keyword:** soins de santé en Chine pour les patients internationaux
 - **Vertical keyword:** rendez-vous hospitalier à Guangzhou pour les étrangers
 - **Search intent:** organisation des rendez-vous et des soins dans la ville
 - **Secondary keywords:** Guangzhou Health Link passeport ; hôpital Guangzhou patient international ; suivi dans les trois jours Guangzhou ; ambulance Guangzhou 120
+
+
+- **Meta title:** Se soigner en Chine : guide du patient à Guangzhou
+- **Meta description:** Utiliser Guangzhou Health Link avec un passeport, vérifier les hôpitaux, organiser l’interprétation, comprendre le suivi dans les trois jours et préparer les urgences au 120.
 
 ## Sources
 

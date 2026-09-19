@@ -1,15 +1,17 @@
-# 094 Meldung unerwünschter Ereignisse in klinischen Studien: Ein Patientenleitfaden
+# Klinische Studien in China: Unerwünschte Ereignisse melden
 
 ## Hero
 
-- **Title:** Meldung unerwünschter Ereignisse in klinischen Studien: Ein Patientenleitfaden
 - **Category:** Klinische Studien & fortgeschrittene Behandlungen
 - **Subcategory:** Teilnehmersicherheit & Meldungen
-- **Subtitle:** Was zu melden ist, wer informiert werden muss und wie die Versorgung geschützt wird, wenn ein Ereignis fern vom Studienzentrum auftritt.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Der aktuelle Platzhalter zeigt ein routinemäßiges Empfangsgespräch und wartet auf eine eigens erstellte Illustration zur Meldung unerwünschter Ereignisse.
+
+
+- **Title:** Klinische Studien in China: Unerwünschte Ereignisse melden
+- **Subtitle:** Erfahren Sie, was Studienteilnehmer melden sollten, wie sich schwere und schwerwiegende Ereignisse unterscheiden, welche Notfallschritte, Zentrums- und Sponsorrollen sowie grenzüberschreitende Nachsorge gelten.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -187,11 +189,13 @@ Ja, Teilnahme ist freiwillig. Bitten Sie das Team, Behandlungsende von freiwilli
 ## SEO Metadata
 
 - **Slug:** `adverse-event-reporting-in-clinical-trials-a-patient-guide`
-- **Meta title:** Unerwünschte Ereignisse in klinischen Studien melden: Patientenleitfaden
-- **Meta description:** Erfahren Sie, was Studienteilnehmer melden sollten, wie sich schwere und schwerwiegende Ereignisse unterscheiden, welche Notfallschritte, Zentrums- und Sponsorrollen sowie grenzüberschreitende Nachsorge gelten.
 - **Primary keyword:** Meldung unerwünschter Ereignisse in klinischen Studien
 - **Secondary keywords:** unerwünschtes versus schwerwiegendes unerwünschtes Ereignis; SAE-Meldung China; SUSAR-Patientenleitfaden; Notfallkontakt klinische Studie; Sicherheitsnachbeobachtung von Studien
 - **Search intent:** Teilnehmersicherheit und Meldung unerwünschter Ereignisse
+
+
+- **Meta title:** Klinische Studien in China: Unerwünschte Ereignisse melden
+- **Meta description:** Erfahren Sie, was Studienteilnehmer melden sollten, wie sich schwere und schwerwiegende Ereignisse unterscheiden, welche Notfallschritte, Zentrums- und Sponsorrollen sowie grenzüberschreitende Nachsorge gelten.
 
 ## Quellen
 

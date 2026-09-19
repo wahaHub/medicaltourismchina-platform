@@ -1,12 +1,14 @@
-# Extracorporeal Photopheresis for GVHD: The Procedure, Repeated Visits and Response Assessment
+# Photopheresis for GVHD in China: Visits and Response Review
 
 ## Hero
 
-- **Title:** Extracorporeal Photopheresis for GVHD: The Procedure, Repeated Visits and Response Assessment
 - **Category:** Treatment Guides
 - **Subcategory:** Graft Versus Host Disease
-- **Subtitle:** The name extracorporeal photopheresis can suggest radiotherapy, a blood exchange or a one-time removal of harmful immunity.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Photopheresis for GVHD in China: Visits and Response Review
+- **Subtitle:** Understand extracorporeal photopheresis for GVHD, including repeated visits, response review and service continuity before arranging treatment in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -138,3 +140,6 @@ Continuation at home requires acceptance by the receiving service in advance. A 
 ## SEO Metadata
 
 - **Primary keyword:** extracorporeal photopheresis for GVHD in China
+
+- **Meta title:** Photopheresis for GVHD in China: Visits and Response Review
+- **Meta description:** Understand extracorporeal photopheresis for GVHD, including repeated visits, response review and service continuity before arranging treatment in China.

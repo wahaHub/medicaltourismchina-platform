@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Tests for Suspected Parkinson's Disease in China: What Each Assessment Can Establish
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Parkinson Disease
-- **Subtitle:** Patients sometimes leave an initial appointment wondering why the neurologist spent time watching finger movements and walking rather than ordering a definitive scan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tests for Suspected Parkinson's Disease in China: What Each Assessment Can Establish
+- **Subtitle:** Understand clinical assessment, imaging and other tests for suspected Parkinson’s disease, and prepare a focused diagnostic consultation in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Evidence checked: September 9, 2026. Test selection and interpretation depend on
 ## SEO Metadata
 
 - **Primary keyword:** Parkinson's disease diagnosis tests in China
+
+- **Meta title:** Tests for Suspected Parkinson's Disease in China: What Each Assessment Can Establish
+- **Meta description:** Understand clinical assessment, imaging and other tests for suspected Parkinson’s disease, and prepare a focused diagnostic consultation in China.

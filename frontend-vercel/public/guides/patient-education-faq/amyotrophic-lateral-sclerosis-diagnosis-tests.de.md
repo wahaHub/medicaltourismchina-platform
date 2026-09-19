@@ -1,12 +1,14 @@
-# Untersuchungen bei ALS-Verdacht: Was körperliche Untersuchung, EMG, Bildgebung und Genetik feststellen können
+# ALS-Diagnoseprüfung in China: Klinische Untersuchung, EMG und weitere Tests
 
 ## Hero
 
-- **Title:** Untersuchungen bei ALS-Verdacht: Was körperliche Untersuchung, EMG, Bildgebung und Genetik feststellen können
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Amyotrophe Lateralsklerose
-- **Subtitle:** Fortschreitende Handschwäche, wiederholtes Stolpern oder eine Veränderung des Sprechens können eine Abklärung auf amyotrophe Lateralsklerose veranlassen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ALS-Diagnoseprüfung in China: Klinische Untersuchung, EMG und weitere Tests
+- **Subtitle:** Eine ALS-Diagnoseprüfung in China vorbereiten: neurologische Untersuchung, EMG, Bildgebung und gezielte Tests verstehen sowie Atmung und Schlucken berücksichtigen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ Am Ende der Beurteilung sollte der Patient die führende Diagnose, stützende Be
 ## SEO Metadata
 
 - **Primary keyword:** Untersuchungen zur Diagnose amyotropher Lateralsklerose
+
+- **Meta title:** ALS-Diagnoseprüfung in China: Klinische Untersuchung, EMG und weitere Tests
+- **Meta description:** Eine ALS-Diagnoseprüfung in China vorbereiten: neurologische Untersuchung, EMG, Bildgebung und gezielte Tests verstehen sowie Atmung und Schlucken berücksichtigen.

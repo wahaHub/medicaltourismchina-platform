@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Dua puluh pertanyaan talasemia: diagnosis, pengobatan, dan perencanaan perawatan di Tiongkok
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Talasemia
-- **Subtitle:** Istilah talasemia dapat menggambarkan status pembawa, penyakit yang memerlukan dukungan sesekali, atau kondisi yang memerlukan transfusi teratur.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dua puluh pertanyaan talasemia: diagnosis, pengobatan, dan perencanaan perawatan di Tiongkok
+- **Subtitle:** Pahami talasemia melalui 20 pertanyaan tentang pembawa sifat, diagnosis, transfusi, kelasi, serta perencanaan pengobatan dan perjalanan ke Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -191,3 +193,6 @@ Nyeri dada berat, sesak napas, perubahan kesadaran, atau demam yang memerlukan t
 ## SEO Metadata
 
 - **Primary keyword:** tanya jawab pasien talasemia; dua puluh pertanyaan talasemia; pengobatan talasemia di Tiongkok; pertanyaan transfusi dan kelasi
+
+- **Meta title:** Dua puluh pertanyaan talasemia: diagnosis, pengobatan, dan perencanaan perawatan di Tiongkok
+- **Meta description:** Pahami talasemia melalui 20 pertanyaan tentang pembawa sifat, diagnosis, transfusi, kelasi, serta perencanaan pengobatan dan perjalanan ke Tiongkok.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Parkinson-Nachsorge nach Behandlung in China: Verordnungen, Geräte und Alltagsfunktion zu Hause
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Parkinson-Krankheit
-- **Subtitle:** Die erste Kontrolle nach der Heimkehr sollte prüfen, ob der in China erstellte Plan im gewöhnlichen Alltag funktioniert.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Parkinson-Nachsorge nach Behandlung in China: Verordnungen, Geräte und Alltagsfunktion zu Hause
+- **Subtitle:** Parkinson-Nachsorge nach Behandlung in China planen: Medikamente, Hirnstimulation, Infusionsversorgung, Rehabilitation und Zuständigkeiten im Alltag klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Ein wirksamer häuslicher Plan sagt dem Patienten, welcher Verordnung er heute f
 ## SEO Metadata
 
 - **Primary keyword:** Parkinson-Nachsorge nach der Heimkehr aus China
+
+- **Meta title:** Parkinson-Nachsorge nach Behandlung in China: Verordnungen, Geräte und Alltagsfunktion zu Hause
+- **Meta description:** Parkinson-Nachsorge nach Behandlung in China planen: Medikamente, Hirnstimulation, Infusionsversorgung, Rehabilitation und Zuständigkeiten im Alltag klären.

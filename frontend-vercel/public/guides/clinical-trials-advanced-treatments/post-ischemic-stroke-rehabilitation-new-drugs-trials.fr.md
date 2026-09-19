@@ -1,12 +1,14 @@
-# Nouveaux médicaments, interfaces cerveau-ordinateur et essais cliniques en réadaptation après AVC
+# Recherche en réadaptation après AVC en Chine : médicaments et interfaces cerveau-ordinateur
 
 ## Hero
 
-- **Title:** Nouveaux médicaments, interfaces cerveau-ordinateur et essais cliniques en réadaptation après AVC
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Réadaptation après un AVC ischémique
-- **Subtitle:** Après une période de réadaptation après AVC, les patients continuent souvent à rechercher un nouveau médicament, dispositif ou projet de recherche.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Recherche en réadaptation après AVC en Chine : médicaments et interfaces cerveau-ordinateur
+- **Subtitle:** Distinguez recherche sur l’AVC aigu et récupération fonctionnelle. Examinez les preuves des médicaments et interfaces cerveau-ordinateur étudiés en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -136,3 +138,6 @@ Les souhaits d’un participant peuvent changer. Discutez à l’avance du retra
 ## SEO Metadata
 
 - **Primary keyword:** nouveaux traitements et essais cliniques de réadaptation après AVC
+
+- **Meta title:** Recherche en réadaptation après AVC en Chine : médicaments et interfaces cerveau-ordinateur
+- **Meta description:** Distinguez recherche sur l’AVC aigu et récupération fonctionnelle. Examinez les preuves des médicaments et interfaces cerveau-ordinateur étudiés en Chine.

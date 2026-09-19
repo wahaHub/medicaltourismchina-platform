@@ -1,12 +1,14 @@
-# DLBCL-Medikamente: Wirkstoffklassen, Kombinationen und sichere Medikationsdokumentation
+# DLBCL-Medikamente in China: Behandlungsschemata, Dokumentation und Zugang
 
 ## Hero
 
-- **Title:** DLBCL-Medikamente: Wirkstoffklassen, Kombinationen und sichere Medikationsdokumentation
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Diffuses großzelliges B-Zell-Lymphom
-- **Subtitle:** Die DLBCL-Behandlung kombiniert meist mehrere Medikamentenklassen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL-Medikamente in China: Behandlungsschemata, Dokumentation und Zugang
+- **Subtitle:** DLBCL-Medikamente in China verstehen: Wirkstoffe, vollständige Kombinationen, stufenweise Dosierung, Infektionsvorbeugung und sichere Medikationsdokumentation klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Bestimmen Sie schließlich einen Arzt und ein Apothekenteam für den Listenabgle
 ## SEO Metadata
 
 - **Primary keyword:** Medikamente gegen DLBCL
+
+- **Meta title:** DLBCL-Medikamente in China: Behandlungsschemata, Dokumentation und Zugang
+- **Meta description:** DLBCL-Medikamente in China verstehen: Wirkstoffe, vollständige Kombinationen, stufenweise Dosierung, Infektionsvorbeugung und sichere Medikationsdokumentation klären.

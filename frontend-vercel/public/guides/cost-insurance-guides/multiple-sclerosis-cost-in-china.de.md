@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Behandlungskosten bei Multipler Sklerose in China: einen brauchbaren persönlichen Kostenvoranschlag erstellen
 - **Category:** Ratgeber zu Kosten & Versicherung
 - **Subcategory:** Multiple Sklerose
-- **Subtitle:** Behandlungskosten bei Multipler Sklerose in China: einen brauchbaren persönlichen Kostenvoranschlag erstellen
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Behandlungskosten bei Multipler Sklerose in China: einen brauchbaren persönlichen Kostenvoranschlag erstellen
+- **Subtitle:** Ein persönliches Budget für MS-Versorgung in China erstellen: Diagnostik, Schubbehandlung, Medikamente, Überwachung und Rehabilitation gemeinsam kalkulieren.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Vergleichen Sie Angebote über denselben Beobachtungszeitraum, etwa von der Erst
 ## SEO Metadata
 
 - **Primary keyword:** Behandlungskosten bei Multipler Sklerose in China
+
+- **Meta title:** Behandlungskosten bei Multipler Sklerose in China: einen brauchbaren persönlichen Kostenvoranschlag erstellen
+- **Meta description:** Ein persönliches Budget für MS-Versorgung in China erstellen: Diagnostik, Schubbehandlung, Medikamente, Überwachung und Rehabilitation gemeinsam kalkulieren.

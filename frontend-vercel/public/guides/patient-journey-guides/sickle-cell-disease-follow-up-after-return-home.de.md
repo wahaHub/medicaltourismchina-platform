@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Sichelzell-Nachsorge nach Behandlung in China: Medikamente, Transfusionen, Überwachung und dringende Versorgung
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Sichelzellkrankheit
-- **Subtitle:** Die Versorgung bei Sichelzellkrankheit geht nach einem Besuch in China weiter.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sichelzell-Nachsorge nach Behandlung in China: Medikamente, Transfusionen, Überwachung und dringende Versorgung
+- **Subtitle:** Sichelzell-Nachsorge nach China organisieren: Medikamente, nächste Transfusion, Blutverträglichkeit, Organüberwachung und Hilfe bei dringlichen Symptomen abstimmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,3 +146,6 @@ Klären Sie für Fernkontrollen, welche Informationen hochzuladen sind, wann sie
 ## SEO Metadata
 
 - **Primary keyword:** Sichelzell-Nachsorge nach Behandlung in China
+
+- **Meta title:** Sichelzell-Nachsorge nach Behandlung in China: Medikamente, Transfusionen, Überwachung und dringende Versorgung
+- **Meta description:** Sichelzell-Nachsorge nach China organisieren: Medikamente, nächste Transfusion, Blutverträglichkeit, Organüberwachung und Hilfe bei dringlichen Symptomen abstimmen.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Dua Puluh Pertanyaan tentang Sindrom Mielodisplastik: Diagnosis, Transfusi, Obat, Transplantasi, dan Perawatan di Tiongkok
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Sindrom Mielodisplastik
-- **Subtitle:** Seseorang dengan MDS mungkin menjalani pemeriksaan rutin, orang lain membutuhkan transfusi berulang, dan yang lain disarankan membahas transplantasi.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dua Puluh Pertanyaan tentang Sindrom Mielodisplastik: Diagnosis, Transfusi, Obat, Transplantasi, dan Perawatan di Tiongkok
+- **Subtitle:** Pahami sindrom mielodisplastik melalui 20 pertanyaan tentang diagnosis, transfusi, obat, serta transplantasi untuk merencanakan perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Jawaban ini membantu mempersiapkan konsultasi; diagnosis dan resep memerlukan pe
 ## SEO Metadata
 
 - **Primary keyword:** pertanyaan pasien sindrom mielodisplastik
+
+- **Meta title:** Dua Puluh Pertanyaan tentang Sindrom Mielodisplastik: Diagnosis, Transfusi, Obat, Transplantasi, dan Perawatan di Tiongkok
+- **Meta description:** Pahami sindrom mielodisplastik melalui 20 pertanyaan tentang diagnosis, transfusi, obat, serta transplantasi untuk merencanakan perawatan di Tiongkok.

@@ -1,15 +1,17 @@
-# Fiebre antes o después del tratamiento: la cifra importa, pero el contexto determina la urgencia
+# Fiebre después del tratamiento en China: cuándo buscar ayuda urgente
 
 ## Hero
 
-- **Title:** Fiebre antes o después del tratamiento: la cifra importa, pero el contexto determina la urgencia
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Síntomas y atención urgente
-- **Subtitle:** Una guía centrada en la seguridad para medir la temperatura, reconocer los períodos de tratamiento de alto riesgo, comunicar los detalles adecuados y saber cuándo no esperar a que le devuelvan la llamada.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Sustitución prevista que muestra a un paciente mirando un termómetro mientras contacta con el equipo tratante, con contextos de alerta de quimioterapia y posoperatorio
+
+
+- **Title:** Fiebre después del tratamiento en China: cuándo buscar ayuda urgente
+- **Subtitle:** Sepa cuándo la fiebre tras quimioterapia, cirugía, una infusión o transfusión requiere una llamada inmediata, atención de emergencia y un traspaso claro de la información del tratamiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -175,13 +177,15 @@ Utilice la vía de 24 horas del hospital tratante si está disponible. Ante sín
 ## SEO Metadata
 
 - **Slug:** `fever-before-or-after-treatment-when-to-contact-a-clinician`
-- **Meta title:** Fiebre después del tratamiento: cuándo llamar o buscar atención de emergencia
-- **Meta description:** Sepa cuándo la fiebre tras quimioterapia, cirugía, una infusión o transfusión requiere una llamada inmediata, atención de emergencia y un traspaso claro de la información del tratamiento.
 - **Primary keyword:** fiebre después del tratamiento cuándo llamar al médico
 - **Pillar keyword:** seguridad del paciente durante los viajes médicos
 - **Vertical keyword:** fiebre después de quimioterapia o cirugía
 - **Search intent:** educación urgente del paciente
 - **Secondary keywords:** fiebre quimioterapia 38 C; señales de alarma de fiebre posoperatoria; fiebre después de infusión; fiebre neutropénica; fiebre después de transfusión de sangre
+
+
+- **Meta title:** Fiebre después del tratamiento en China: cuándo buscar ayuda urgente
+- **Meta description:** Sepa cuándo la fiebre tras quimioterapia, cirugía, una infusión o transfusión requiere una llamada inmediata, atención de emergencia y un traspaso claro de la información del tratamiento.
 
 ## Fuentes
 

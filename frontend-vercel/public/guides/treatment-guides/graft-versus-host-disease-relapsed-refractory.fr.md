@@ -1,12 +1,14 @@
-# Lorsque la GVHD persiste ou connaît une nouvelle poussée : réévaluation et décisions thérapeutiques ultérieures
+# GVH persistante ou récidivante : deuxième avis en Chine
 
 ## Hero
 
-- **Title:** Lorsque la GVHD persiste ou connaît une nouvelle poussée : réévaluation et décisions thérapeutiques ultérieures
 - **Category:** Guides des traitements
 - **Subcategory:** Maladie du greffon contre l’hôte
-- **Subtitle:** Lorsque la GVHD persiste ou connaît une nouvelle poussée : réévaluation et décisions thérapeutiques ultérieures
-- **Updated date:** 2026/09/09
+
+
+- **Title:** GVH persistante ou récidivante : deuxième avis en Chine
+- **Subtitle:** Préparez un deuxième avis sur une GVH persistante en Chine en distinguant activité, lésions résiduelles, intolérance et autres causes des symptômes.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,3 +142,6 @@ Les changements thérapeutiques répétés épuisent patients et aidants. Une r�
 ## SEO Metadata
 
 - **Primary keyword:** traitement de la GVHD réfractaire et récurrente en Chine
+
+- **Meta title:** GVH persistante ou récidivante : deuxième avis en Chine
+- **Meta description:** Préparez un deuxième avis sur une GVH persistante en Chine en distinguant activité, lésions résiduelles, intolérance et autres causes des symptômes.

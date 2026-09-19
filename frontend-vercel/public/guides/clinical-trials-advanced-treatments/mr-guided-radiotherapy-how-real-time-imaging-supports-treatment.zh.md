@@ -1,15 +1,17 @@
-# MR 引导放疗：实时影像怎样支持治疗
+# 中国 MR 引导放疗：治疗计划与安全核验
 
 ## Hero
 
-- **Title:** MR 引导放疗：实时影像怎样支持治疗
 - **Category:** 临床试验与前沿治疗
 - **Subcategory:** 影像引导与自适应放疗
-- **Subtitle:** 弄清看到了什么、调整了什么，以及哪些决定仍必须由团队完成。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 患者躺在整合式扫描设备内、屏幕显示断层图像和治疗目标的 MR 引导放疗概念图；不是真实界面或剂量计划。
+
+
+- **Title:** 中国 MR 引导放疗：治疗计划与安全核验
+- **Subtitle:** 了解 MR 引导放疗的每日定位、电影式 MRI、门控和在线自适应，以及临床证据、MR 安全、治疗时长、质控和病历。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -131,11 +133,13 @@ MR 引导项目需要放疗医生、治疗师、医学物理师、剂量师、MR
 ## SEO Metadata
 
 - **Slug:** `mr-guided-radiotherapy-how-real-time-imaging-supports-treatment`
-- **Meta title:** MR 引导放疗：实时成像与在线自适应
-- **Meta description:** 了解 MR 引导放疗的每日定位、电影式 MRI、门控和在线自适应，以及临床证据、MR 安全、治疗时长、质控和病历。
 - **Primary keyword:** MR 引导放疗
 - **Secondary keywords:** MR-Linac；在线自适应放疗；实时 MRI 放疗；MRI 引导 SBRT；放疗门控
 - **Search intent:** 技术解释 / 放疗规划
+
+
+- **Meta title:** 中国 MR 引导放疗：治疗计划与安全核验
+- **Meta description:** 了解 MR 引导放疗的每日定位、电影式 MRI、门控和在线自适应，以及临床证据、MR 安全、治疗时长、质控和病历。
 
 ## Sources
 

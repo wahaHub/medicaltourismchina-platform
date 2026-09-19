@@ -1,12 +1,14 @@
-# Medikamente bei Parkinson: Levodopa, Zusatzbehandlungen und kontinuierliche Verabreichung
+# Parkinson-Medikamente in China: Levodopa und weitere Optionen
 
 ## Hero
 
-- **Title:** Medikamente bei Parkinson: Levodopa, Zusatzbehandlungen und kontinuierliche Verabreichung
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Parkinson-Krankheit
-- **Subtitle:** Eine länger werdende Medikamentenliste bedeutet nicht zwangsläufig, dass die Parkinson-Krankheit unkontrollierbar geworden ist.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Parkinson-Medikamente in China: Levodopa und weitere Optionen
+- **Subtitle:** Parkinson-Medikamente für die Versorgung in China verstehen: Levodopa, Darreichungsformen, Zusatzmittel, Verhaltensrisiken und kontinuierliche Verabreichung einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Richten Sie das längerfristige Budget am erwarteten Verbrauch, an Kontrolltermi
 ## SEO Metadata
 
 - **Primary keyword:** Medikamentöse Behandlung der Parkinson-Krankheit
+
+- **Meta title:** Parkinson-Medikamente in China: Levodopa und weitere Optionen
+- **Meta description:** Parkinson-Medikamente für die Versorgung in China verstehen: Levodopa, Darreichungsformen, Zusatzmittel, Verhaltensrisiken und kontinuierliche Verabreichung einordnen.

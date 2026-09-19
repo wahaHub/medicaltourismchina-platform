@@ -1,12 +1,14 @@
-# Comment traite-t-on le lymphome à cellules du manteau ? Guide pratique de l’observation au traitement après rechute
+# Traitement du lymphome du manteau en Chine : options selon l’étape des soins
 
 ## Hero
 
-- **Title:** Comment traite-t-on le lymphome à cellules du manteau ? Guide pratique de l’observation au traitement après rechute
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome à cellules du manteau
-- **Subtitle:** Recherches associées : options thérapeutiques du MCL ; soins du lymphome à cellules du manteau en Chine
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement du lymphome du manteau en Chine : options selon l’étape des soins
+- **Subtitle:** Comprenez les choix du lymphome du manteau en Chine, de la surveillance au traitement de rechute, selon la biologie, l’état général et le parcours envisagé.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Si votre état change rapidement pendant l’organisation de soins internationau
 ## SEO Metadata
 
 - **Primary keyword:** traitement du lymphome à cellules du manteau
+
+- **Meta title:** Traitement du lymphome du manteau en Chine : options selon l’étape des soins
+- **Meta description:** Comprenez les choix du lymphome du manteau en Chine, de la surveillance au traitement de rechute, selon la biologie, l’état général et le parcours envisagé.

@@ -1,15 +1,17 @@
-# Antibiotics Are Not a Measure of How “Serious” an Infection Is
+# Antibiotic Decisions in China: Questions for Your Doctor
 
 ## Hero
 
-- **Title:** Antibiotics Are Not a Measure of How “Serious” an Infection Is
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Medicines
-- **Subtitle:** A practical guide to deciding when antibiotics help, when observation is safer, and why cultures, source control and a review date matter.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Clinician and patient review a medication decision sheet beside labelled medicine containers
+
+
+- **Title:** Antibiotic Decisions in China: Questions for Your Doctor
+- **Subtitle:** Learn why fever or green mucus does not prove a bacterial infection, when urgent antibiotics are needed, and how cultures, review dates and source control guide treatment.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -155,11 +157,13 @@ The culture, imaging and clinical response may have identified a specific organi
 
 ## SEO Metadata
 
-- **SEO title:** When Are Antibiotics Needed? A Patient Decision Guide
-- **Meta description:** Learn why fever or green mucus does not prove a bacterial infection, when urgent antibiotics are needed, and how cultures, review dates and source control guide treatment.
 - **Primary keyword:** when are antibiotics needed
 - **Secondary keywords:** antibiotics for viral infection, antibiotic resistance, culture-guided antibiotics, broad versus narrow antibiotics, antibiotic side effects, antimicrobial stewardship
 - **Suggested URL slug:** `/when-antibiotics-are-needed-infection-guide`
+
+
+- **Meta title:** Antibiotic Decisions in China: Questions for Your Doctor
+- **Meta description:** Learn why fever or green mucus does not prove a bacterial infection, when urgent antibiotics are needed, and how cultures, review dates and source control guide treatment.
 
 ## Sources
 

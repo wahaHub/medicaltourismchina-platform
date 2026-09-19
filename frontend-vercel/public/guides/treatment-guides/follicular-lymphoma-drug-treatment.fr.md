@@ -1,12 +1,14 @@
-# Médicaments du lymphome folliculaire : comprendre le protocole, la ligne de traitement et la surveillance
+# Médicaments du lymphome folliculaire en Chine : protocoles et surveillance
 
 ## Hero
 
-- **Title:** Médicaments du lymphome folliculaire : comprendre le protocole, la ligne de traitement et la surveillance
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome folliculaire
-- **Subtitle:** On ne peut pas classer les médicaments du lymphome folliculaire comme bons ou mauvais simplement en les appelant chimiothérapie, thérapie ciblée ou immunothérapie.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Médicaments du lymphome folliculaire en Chine : protocoles et surveillance
+- **Subtitle:** Comprenez le rôle des anticorps, de la chimiothérapie et des traitements oraux du lymphome folliculaire pour préparer leur calendrier et leur surveillance en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Conservez les comptes rendus d’administration réelle et les événements ind�
 ## SEO Metadata
 
 - **Primary keyword:** traitement médicamenteux du lymphome folliculaire
+
+- **Meta title:** Médicaments du lymphome folliculaire en Chine : protocoles et surveillance
+- **Meta description:** Comprenez le rôle des anticorps, de la chimiothérapie et des traitements oraux du lymphome folliculaire pour préparer leur calendrier et leur surveillance en Chine.

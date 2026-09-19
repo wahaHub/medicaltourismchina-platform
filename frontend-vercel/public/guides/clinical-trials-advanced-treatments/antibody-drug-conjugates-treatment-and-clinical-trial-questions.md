@@ -1,15 +1,17 @@
-# Antibody-Drug Conjugates: Treatment and Clinical Trial Questions
+# ADC Treatment and Trials in China: Targets and Risks
 
 ## Hero
 
-- **Title:** Antibody-Drug Conjugates: Treatment and Clinical Trial Questions
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Precision Oncology
-- **Subtitle:** Read an ADC proposal as a complete antibody-linker-payload system, then verify the tumour target, exact indication, dose, combination and monitoring plan.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Replacement needed: an accurate ADC diagram showing an antibody, linker and payload binding a tumour-cell target, alongside biomarker testing and infusion monitoring.
+
+
+- **Title:** ADC Treatment and Trials in China: Targets and Risks
+- **Subtitle:** Evaluate an antibody-drug conjugate by its target, antibody, linker and payload, then verify China approval, trial cohort, toxicities and monitoring.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -162,11 +164,13 @@ Not on that fact alone. Verify the current NMPA approval, Chinese indication, pr
 ## SEO Metadata
 
 - **Slug:** `antibody-drug-conjugates-treatment-and-clinical-trial-questions`
-- **Meta title:** ADC Treatment and Trials: Targets, Risks and Questions
-- **Meta description:** Evaluate an antibody-drug conjugate by its target, antibody, linker and payload, then verify China approval, trial cohort, toxicities and monitoring.
 - **Primary keyword:** antibody-drug conjugate treatment
 - **Secondary keywords:** ADC clinical trial China; ADC target testing; ADC side effects; antibody linker payload; ADC eligibility
 - **Search intent:** ADC treatment comparison / clinical-trial screening
+
+
+- **Meta title:** ADC Treatment and Trials in China: Targets and Risks
+- **Meta description:** Evaluate an antibody-drug conjugate by its target, antibody, linker and payload, then verify China approval, trial cohort, toxicities and monitoring.
 
 ## Sources
 

@@ -1,15 +1,17 @@
-# Sebelum Menerima Rencana Pengobatan di Luar Negeri: Pertanyaan yang Mengubah Keputusan
+# Rencana Pengobatan di Tiongkok: Pertanyaan Sebelum Menyetujui
 
 ## Hero
 
-- **Title:** Sebelum Menerima Rencana Pengobatan di Luar Negeri: Pertanyaan yang Mengubah Keputusan
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Pengambilan Keputusan Pasien & Dukungan Pendamping
-- **Subtitle:** Cara terstruktur untuk menguji diagnosis, membandingkan pilihan, memahami risiko pribadi, dan menentukan siapa yang bertanggung jawab atas komplikasi serta tindak lanjut.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Pasien internasional dan pendamping mengajukan pertanyaan terperinci kepada klinisi sebelum menerima rencana pengobatan
+
+
+- **Title:** Rencana Pengobatan di Tiongkok: Pertanyaan Sebelum Menyetujui
+- **Subtitle:** Uji usulan pengobatan di Tiongkok dengan menanyakan diagnosis, alternatif, luaran, risiko pribadi, tanggung jawab klinisi, biaya, dan tindak lanjut.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Persetujuan adalah percakapan, bukan tanda tangan. Gunakan juru bahasa berkualifikasi dan metode menjelaskan kembali untuk memeriksa pemahaman [1][6].
 
 ## Content
+
+Jika Anda mempertimbangkan rencana pengobatan dari rumah sakit di Tiongkok, gunakan pertanyaan ini sebelum menerima penawaran biaya atau mengatur perjalanan. Penjelasan klinis, alternatif, identitas tim yang merawat, dan pengaturan penanganan komplikasi harus cukup jelas untuk dibahas dengan dokter Anda di negara asal.
+
 
 Rencana dari luar negeri dapat datang sebagai PDF yang rapi: nama pengobatan, linimasa optimistis, harga paket, dan beberapa testimoni. Namun, keputusan klinisnya mungkin masih hampir belum tersentuh. Pekerjaan yang berguna dimulai ketika pasien dapat menjelaskan dengan bahasa sederhana mengapa pilihan ini direkomendasikan, apa lagi yang dapat dilakukan, apa yang mungkin bermasalah, dan siapa yang akan membantu jika pemulihan yang diharapkan tidak terjadi.
 
@@ -195,11 +200,13 @@ Mintalah bukti baru, alternatif, risiko, waktu, dan biaya secara tertulis; gunak
 
 ## SEO Metadata
 
-- **SEO title:** Pertanyaan Sebelum Menerima Rencana Pengobatan di Luar Negeri
-- **Meta description:** Uji usulan pengobatan luar negeri dengan menanyakan diagnosis, alternatif, luaran, risiko pribadi, tanggung jawab klinisi, biaya, dan tindak lanjut.
 - **Primary keyword:** pertanyaan sebelum pengobatan luar negeri
 - **Secondary keywords:** rencana pengobatan luar negeri, persetujuan setelah penjelasan wisata medis, risiko pengobatan luar negeri, pendapat kedua pasien internasional, tindak lanjut perjalanan medis
 - **Suggested URL slug:** `/questions-before-accepting-overseas-treatment`
+
+
+- **Meta title:** Rencana Pengobatan di Tiongkok: Pertanyaan Sebelum Menyetujui
+- **Meta description:** Uji usulan pengobatan di Tiongkok dengan menanyakan diagnosis, alternatif, luaran, risiko pribadi, tanggung jawab klinisi, biaya, dan tindak lanjut.
 
 ## Sumber
 

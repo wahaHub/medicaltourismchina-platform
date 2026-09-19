@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Ein Krankenhaus für Alzheimer in China auswählen: Gedächtnisdiagnostik, Antikörperbehandlung und Unterstützung bei der Betreuung
 - **Category:** Krankenhausratgeber
 - **Subcategory:** Alzheimer-Krankheit
-- **Subtitle:** Die Auswahl eines Krankenhauses für die Alzheimer-Krankheit beginnt mit dem Problem, das der Besuch klären soll.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Ein Krankenhaus für Alzheimer in China auswählen: Gedächtnisdiagnostik, Antikörperbehandlung und Unterstützung bei der Betreuung
+- **Subtitle:** Ein Alzheimer-Zentrum in China beurteilen: Gedächtnisdiagnostik, Antikörperüberwachung, Verhaltenssymptome und Unterstützung für betreuende Angehörige prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Berücksichtigen Sie Entfernung, Verfügbarkeit einer verlässlichen Betreuungsp
 ## SEO Metadata
 
 - **Primary keyword:** Alzheimer-Krankenhäuser in China
+
+- **Meta title:** Ein Krankenhaus für Alzheimer in China auswählen: Gedächtnisdiagnostik, Antikörperbehandlung und Unterstützung bei der Betreuung
+- **Meta description:** Ein Alzheimer-Zentrum in China beurteilen: Gedächtnisdiagnostik, Antikörperüberwachung, Verhaltenssymptome und Unterstützung für betreuende Angehörige prüfen.

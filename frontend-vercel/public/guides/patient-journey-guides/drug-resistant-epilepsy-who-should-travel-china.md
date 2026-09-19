@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Should someone with drug-resistant epilepsy travel to China for care?
 - **Category:** Patient Journey Guides
 - **Subcategory:** Drug Resistant Epilepsy
-- **Subtitle:** Deciding whether to seek care in China involves two linked questions: what additional medical value the referral may offer, and whether the person can complete the journey and continuing care safely.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Should someone with drug-resistant epilepsy travel to China for care?
+- **Subtitle:** Assess travel to China for drug-resistant epilepsy by the clinical question, seizure stability, receiving service and continuity of medicines and care.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -164,3 +166,6 @@ Destination health advice for China can help complete general travel preparation
 ## SEO Metadata
 
 - **Primary keyword:** drug-resistant epilepsy treatment travel to China; epilepsy fitness to fly; international epilepsy referral; remote epilepsy record review in China
+
+- **Meta title:** Should someone with drug-resistant epilepsy travel to China for care?
+- **Meta description:** Assess travel to China for drug-resistant epilepsy by the clinical question, seizure stability, receiving service and continuity of medicines and care.

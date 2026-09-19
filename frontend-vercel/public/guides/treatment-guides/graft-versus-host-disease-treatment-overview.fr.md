@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Traiter la maladie du greffon contre l’hôte : prise en charge des GVHD aiguës et chroniques en Chine
 - **Category:** Guides des traitements
 - **Subcategory:** Maladie du greffon contre l’hôte
-- **Subtitle:** Après une allogreffe de cellules souches, une nouvelle éruption cutanée, une diarrhée, une sécheresse oculaire ou une limitation des mouvements peuvent conduire à rechercher une maladie du greffon contre l’hôte, généralement appelée GVHD.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traiter la maladie du greffon contre l’hôte : prise en charge des GVHD aiguës et chroniques en Chine
+- **Subtitle:** Comprenez les soins de GVH aiguë et chronique en Chine selon la gravité, les organes atteints, les corticoïdes et les objectifs fonctionnels.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Sans plan individuel et devis hospitalier formel, un prix complet en RMB ne peut
 ## SEO Metadata
 
 - **Primary keyword:** traitement de la maladie du greffon contre l’hôte en Chine
+
+- **Meta title:** Traiter la maladie du greffon contre l’hôte : prise en charge des GVHD aiguës et chroniques en Chine
+- **Meta description:** Comprenez les soins de GVH aiguë et chronique en Chine selon la gravité, les organes atteints, les corticoïdes et les objectifs fonctionnels.

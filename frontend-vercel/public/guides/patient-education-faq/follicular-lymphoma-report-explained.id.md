@@ -1,12 +1,14 @@
-# Membaca laporan limfoma folikular: informasi dari hasil patologi, PET, dan darah
+# Laporan Limfoma Folikular: Persiapan Tinjauan di Tiongkok
 
 ## Hero
 
-- **Title:** Membaca laporan limfoma folikular: informasi dari hasil patologi, PET, dan darah
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Limfoma Folikular
-- **Subtitle:** Laporan patologi menyebutkan limfoma folikular, PET/CT menggambarkan beberapa kelenjar yang aktif, dan pemeriksaan darah menandai LDH sebagai tinggi.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Laporan Limfoma Folikular: Persiapan Tinjauan di Tiongkok
+- **Subtitle:** Pahami hubungan patologi, PET, dan tes darah pada limfoma folikular. Susun pertanyaan tentang temuan serta konteksnya untuk tinjauan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Akhiri kunjungan pembahasan hasil dengan tiga unsur tertulis: apa yang telah dip
 ## SEO Metadata
 
 - **Primary keyword:** penjelasan laporan limfoma folikular
+
+- **Meta title:** Laporan Limfoma Folikular: Persiapan Tinjauan di Tiongkok
+- **Meta description:** Pahami hubungan patologi, PET, dan tes darah pada limfoma folikular. Susun pertanyaan tentang temuan serta konteksnya untuk tinjauan di Tiongkok.

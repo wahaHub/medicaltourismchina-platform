@@ -1,12 +1,14 @@
-# Choosing first treatment for T-cell lymphoma: diagnosis, regimen and response planning
+# First-Line T-Cell Lymphoma Treatment in China: Planning Care
 
 ## Hero
 
-- **Title:** Choosing first treatment for T-cell lymphoma: diagnosis, regimen and response planning
 - **Category:** Treatment Guides
 - **Subcategory:** T Cell Lymphoma
-- **Subtitle:** At the first treatment discussion, patients often ask which medicine is strongest, whether transplantation is inevitable and how soon treatment should begin.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** First-Line T-Cell Lymphoma Treatment in China: Planning Care
+- **Subtitle:** Prepare first-line T-cell lymphoma care in China with the confirmed subtype, proposed regimen, response-assessment plan and supportive-care arrangements.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ The initial plan should be a document that can be updated: why the regimen was c
 ## SEO Metadata
 
 - **Primary keyword:** first-line treatment for T-cell lymphoma
+
+- **Meta title:** First-Line T-Cell Lymphoma Treatment in China: Planning Care
+- **Meta description:** Prepare first-line T-cell lymphoma care in China with the confirmed subtype, proposed regimen, response-assessment plan and supportive-care arrangements.

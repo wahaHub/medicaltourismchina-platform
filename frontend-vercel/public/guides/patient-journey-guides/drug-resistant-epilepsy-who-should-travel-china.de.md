@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Sollte jemand mit pharmakoresistenter Epilepsie zur Versorgung nach China reisen?
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Pharmakoresistente Epilepsie
-- **Subtitle:** Die Entscheidung für eine Versorgung in China umfasst zwei zusammenhängende Fragen: welchen zusätzlichen medizinischen Nutzen die Überweisung bieten kann und ob die Person Reise und weitere Versorgung sicher bewältigen kann.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sollte jemand mit pharmakoresistenter Epilepsie zur Versorgung nach China reisen?
+- **Subtitle:** Eine Reise wegen pharmakoresistenter Epilepsie nach China prüfen: Überweisungsnutzen, Vorabprüfung, stabile Medikation, Flugtauglichkeit und Betreuung planen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -165,3 +167,6 @@ Gesundheitshinweise für das Reiseziel China können die allgemeine Vorbereitung
 
 - **Primary keyword:** Reise nach China zur Behandlung pharmakoresistenter Epilepsie; Flugtauglichkeit bei Epilepsie; internationale Epilepsieüberweisung; Fernprüfung von Epilepsieunterlagen in China
 
+
+- **Meta title:** Sollte jemand mit pharmakoresistenter Epilepsie zur Versorgung nach China reisen?
+- **Meta description:** Eine Reise wegen pharmakoresistenter Epilepsie nach China prüfen: Überweisungsnutzen, Vorabprüfung, stabile Medikation, Flugtauglichkeit und Betreuung planen.

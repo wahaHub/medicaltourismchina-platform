@@ -1,15 +1,17 @@
-# Autopsie d’une annonce tarifaire : testez une offre de tourisme médical avant qu’elle ne vous mette à l’épreuve
+# Tarifs du tourisme médical en Chine : vérifier les annonces de coûts
 
 ## Hero
 
-- **Title:** Autopsie d’une annonce tarifaire : testez une offre de tourisme médical avant qu’elle ne vous mette à l’épreuve
 - **Category:** Guides des coûts et assurances
 - **Subcategory:** Risques financiers et protection
-- **Subtitle:** Une méthode pratique pour décortiquer les annonces « à partir de », « économisez », « tout compris », « sans frais cachés » et les prix associés à des résultats avant de payer des soins en Chine.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un voyageur confrontant une offre médicale à une question de prix, au traitement, au transport, à la protection et à une liste de vérification
+
+
+- **Title:** Tarifs du tourisme médical en Chine : vérifier les annonces de coûts
+- **Subtitle:** Décortiquez les annonces « à partir de », « économisez 70% », « tout compris », les taux de réussite et la récupération rapide avant de payer un voyage médical en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -204,13 +206,15 @@ Conservez d’abord les preuves. Le bon recours dépend de l’annonceur, du lie
 ## SEO Metadata
 
 - **Slug:** `how-to-avoid-misleading-medical-tourism-price-claims`
-- **Meta title:** Comment tester les annonces tarifaires trompeuses du tourisme médical
-- **Meta description:** Décortiquez les annonces « à partir de », « économisez 70% », « tout compris », les taux de réussite et la récupération rapide avant de payer un voyage médical en Chine.
 - **Primary keyword:** annonces tarifaires trompeuses du tourisme médical
 - **Pillar keyword:** coût des traitements médicaux en Chine
 - **Vertical keyword:** vérifier le prix d’un forfait de tourisme médical
 - **Search intent:** prévention de la fraude / comparaison des prix
 - **Secondary keywords:** frais cachés du tourisme médical ; forfait médical tout compris ; publicité de prix de traitement ; comparaison des coûts de voyage médical ; vérification d’un devis hospitalier
+
+
+- **Meta title:** Tarifs du tourisme médical en Chine : vérifier les annonces de coûts
+- **Meta description:** Décortiquez les annonces « à partir de », « économisez 70% », « tout compris », les taux de réussite et la récupération rapide avant de payer un voyage médical en Chine.
 
 ## Sources
 

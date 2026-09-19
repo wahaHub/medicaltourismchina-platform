@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Haruskah Anda bepergian ke Tiongkok untuk pengobatan GVHD? Tentukan manfaat dan perawatan yang dibutuhkan selama perjalanan
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Penyakit Graft Versus Host
-- **Subtitle:** Tingkat keparahan penyakit saja tidak dapat menentukan apakah seseorang dengan penyakit graft-versus-host sebaiknya bepergian ke Tiongkok.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Haruskah Anda bepergian ke Tiongkok untuk pengobatan GVHD? Tentukan manfaat dan perawatan yang dibutuhkan selama perjalanan
+- **Subtitle:** Nilai manfaat rujukan GVHD ke Tiongkok dan kebutuhan perawatan selama perjalanan. Pertimbangkan perubahan organ, kestabilan, dan dukungan tim penerima.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Ketika penilaian dan pengobatan yang diperlukan tersedia secara lokal, tetap ber
 ## SEO Metadata
 
 - **Primary keyword:** bepergian ke Tiongkok untuk pengobatan GVHD
+
+- **Meta title:** Haruskah Anda bepergian ke Tiongkok untuk pengobatan GVHD? Tentukan manfaat dan perawatan yang dibutuhkan selama perjalanan
+- **Meta description:** Nilai manfaat rujukan GVHD ke Tiongkok dan kebutuhan perawatan selama perjalanan. Pertimbangkan perubahan organ, kestabilan, dan dukungan tim penerima.

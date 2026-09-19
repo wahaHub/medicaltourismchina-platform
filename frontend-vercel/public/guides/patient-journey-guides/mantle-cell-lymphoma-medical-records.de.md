@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Unterlagen zum Mantelzelllymphom für eine Beratung in China vorbereiten
 - **Category:** Leitfäden zum Patientenweg
 - **Subcategory:** Mantelzelllymphom
-- **Subtitle:** Eine Familie kann Hunderte gescannter Seiten schicken und einen Lymphomspezialisten trotzdem außerstande lassen, eine grundlegende Frage zu beantworten: Warum wurde die letzte Behandlung beendet?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Unterlagen zum Mantelzelllymphom für eine Beratung in China vorbereiten
+- **Subtitle:** Mantelzelllymphom-Unterlagen für China vorbereiten: vollständige Pathologie, molekulare Befunde, Bildgebung, Behandlungspausen und aktuelle Medikamente zusammenführen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ Wenden Sie vor der Abreise aus China dieselbe Methode auf die neuen Unterlagen a
 ## SEO Metadata
 
 - **Primary keyword:** medizinische Unterlagen zum Mantelzelllymphom für eine Beratung in China
+
+- **Meta title:** Unterlagen zum Mantelzelllymphom für eine Beratung in China vorbereiten
+- **Meta description:** Mantelzelllymphom-Unterlagen für China vorbereiten: vollständige Pathologie, molekulare Befunde, Bildgebung, Behandlungspausen und aktuelle Medikamente zusammenführen.

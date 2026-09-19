@@ -1,12 +1,14 @@
-# Pemeriksaan untuk Dugaan Penyakit Alzheimer: Apa yang Perlu Dipastikan Klinik Memori
+# Penilaian Alzheimer di Tiongkok: Pemeriksaan di Klinik Memori
 
 ## Hero
 
-- **Title:** Pemeriksaan untuk Dugaan Penyakit Alzheimer: Apa yang Perlu Dipastikan Klinik Memori
 - **Category:** Edukasi Pasien & Pertanyaan yang Sering Diajukan
 - **Subcategory:** Penyakit Alzheimer
-- **Subtitle:** Penilaian memori dapat mengarah pada pembahasan tes kognitif, MRI, biomarker darah, PET, atau pungsi lumbal.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Penilaian Alzheimer di Tiongkok: Pemeriksaan di Klinik Memori
+- **Subtitle:** Siapkan penilaian Alzheimer di Tiongkok dengan riwayat perubahan memori dan fungsi. Pahami tujuan tes kognitif, MRI, biomarker, dan pemeriksaan lainnya.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -113,3 +115,6 @@ Atur kunjungan untuk membahas hasil bersama. Hasil akhirnya harus berupa uraian 
 ## SEO Metadata
 
 - **Primary keyword:** tes diagnostik penyakit Alzheimer
+
+- **Meta title:** Penilaian Alzheimer di Tiongkok: Pemeriksaan di Klinik Memori
+- **Meta description:** Siapkan penilaian Alzheimer di Tiongkok dengan riwayat perubahan memori dan fungsi. Pahami tujuan tes kognitif, MRI, biomarker, dan pemeriksaan lainnya.

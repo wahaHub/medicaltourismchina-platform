@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choosing a hospital in China for multiple sclerosis: matching the team to the full course of care
 - **Category:** Hospital Guides
 - **Subcategory:** Multiple Sclerosis
-- **Subtitle:** Choosing a hospital in China for multiple sclerosis: matching the team to the full course of care
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choosing a hospital in China for multiple sclerosis: matching the team to the full course of care
+- **Subtitle:** Assess multiple sclerosis hospitals in China for diagnostic expertise, disease-modifying treatment, monitoring, rehabilitation and ongoing care.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ For a stable patient with effective local care, a focused second opinion may be 
 ## SEO Metadata
 
 - **Primary keyword:** choosing a multiple sclerosis hospital in China
+
+- **Meta title:** Choosing a hospital in China for multiple sclerosis: matching the team to the full course of care
+- **Meta description:** Assess multiple sclerosis hospitals in China for diagnostic expertise, disease-modifying treatment, monitoring, rehabilitation and ongoing care.

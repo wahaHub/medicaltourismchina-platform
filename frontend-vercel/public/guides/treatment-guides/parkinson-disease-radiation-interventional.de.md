@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Fokussierter Ultraschall und läsionierende Verfahren bei Parkinson: Zielgebiete, beidseitige Risiken und Behandlung in China
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Parkinson-Krankheit
-- **Subtitle:** Ein Video, das nach einer Behandlung eine ruhigere Hand zeigt, kann leicht irrtümlich als Beleg für eine Heilung der Parkinson-Krankheit verstanden werden.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Fokussierter Ultraschall und läsionierende Verfahren bei Parkinson: Zielgebiete, beidseitige Risiken und Behandlung in China
+- **Subtitle:** Fokussierten Ultraschall bei Parkinson für eine Behandlung in China prüfen: Zielgebiet, bleibende Läsion, beidseitige Risiken und Anforderungen an die Nachsorge klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Internationale Patienten sollten bei der Abreise Angaben zu behandelter Seite un
 ## SEO Metadata
 
 - **Primary keyword:** Behandlung mit fokussiertem Ultraschall bei Parkinson
+
+- **Meta title:** Fokussierter Ultraschall und läsionierende Verfahren bei Parkinson: Zielgebiete, beidseitige Risiken und Behandlung in China
+- **Meta description:** Fokussierten Ultraschall bei Parkinson für eine Behandlung in China prüfen: Zielgebiet, bleibende Läsion, beidseitige Risiken und Anforderungen an die Nachsorge klären.

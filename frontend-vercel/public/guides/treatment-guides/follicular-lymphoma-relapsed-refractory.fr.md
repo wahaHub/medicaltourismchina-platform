@@ -1,12 +1,14 @@
-# Lymphome folliculaire en rechute ou réfractaire : confirmer ce qui a changé avant de choisir la ligne suivante
+# Lymphome folliculaire en rechute en Chine : réévaluation et traitement suivant
 
 ## Hero
 
-- **Title:** Lymphome folliculaire en rechute ou réfractaire : confirmer ce qui a changé avant de choisir la ligne suivante
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome folliculaire
-- **Subtitle:** Retrouver un ganglion après le traitement n’impose pas automatiquement de répéter le schéma précédent et ne signifie pas que les options utiles sont épuisées.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Lymphome folliculaire en rechute en Chine : réévaluation et traitement suivant
+- **Subtitle:** Avant une nouvelle ligne de traitement du lymphome folliculaire en Chine, clarifiez progression, besoin de biopsie et pertinence des options déjà reçues.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Détaillez les coûts en RMB de la relecture anatomopathologique, de toute nouve
 ## SEO Metadata
 
 - **Primary keyword:** traitement du lymphome folliculaire en rechute réfractaire
+
+- **Meta title:** Lymphome folliculaire en rechute en Chine : réévaluation et traitement suivant
+- **Meta description:** Avant une nouvelle ligne de traitement du lymphome folliculaire en Chine, clarifiez progression, besoin de biopsie et pertinence des options déjà reçues.

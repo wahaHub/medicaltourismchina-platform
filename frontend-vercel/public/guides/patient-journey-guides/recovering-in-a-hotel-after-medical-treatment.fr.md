@@ -1,15 +1,17 @@
-# 142 Convalescence à l’hôtel après traitement : soumettre la chambre à un test d’usage clinique
+# Convalescence à l’hôtel après traitement en Chine | Test de sécurité de la chambre
 
 ## Hero
 
-- **Title:** Convalescence à l’hôtel après traitement : soumettre la chambre à un test d’usage clinique
 - **Category:** Guides du parcours patient
 - **Subcategory:** Hébergement temporaire et récupération ambulatoire
-- **Subtitle:** Un hôtel fournit une chambre, pas des soins infirmiers. Évaluez le patient, l’aidant, l’espace, le matériel et le circuit d’urgence avant d’en faire un lieu de convalescence.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un patient et son accompagnant planifient les dates de convalescence dans une chambre d’hôtel, avec des bagages et un symbole d’hôpital à proximité.
+
+
+- **Title:** Convalescence à l’hôtel après traitement en Chine | Test de sécurité de la chambre
+- **Subtitle:** Un hôtel fournit une chambre, pas des soins infirmiers. Évaluez le patient, l’aidant, l’espace, le matériel et le circuit d’urgence avant d’en faire un lieu de convalescence.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -183,13 +185,15 @@ Préparez le nom chinois et l’adresse complète de l’hôtel, la tour, l’é
 ## SEO Metadata
 
 - **Slug:** `recovering-in-a-hotel-after-medical-treatment`
-- **Meta title:** Convalescence à l’hôtel après traitement en Chine | Test de sécurité de la chambre
-- **Meta description:** Vérifier l’éligibilité à l’hôtel, l’accès à la chambre, la présence de l’aidant, le stockage des médicaments, les dispositifs et le circuit d’urgence après traitement ambulatoire en Chine.
 - **Primary keyword:** convalescence à l’hôtel après chirurgie en Chine
 - **Pillar keyword:** voyage médical en Chine
 - **Vertical keyword:** convalescence à l’hôtel après traitement
 - **Search intent:** hébergement de convalescence / planification de la sécurité
 - **Secondary keywords:** hôtel près d’un hôpital chinois ; convalescence à l’hôtel après chirurgie ambulatoire ; aidant après anesthésie ; matériel médical à l’hôtel ; adresse d’hôtel pour les urgences 120
+
+
+- **Meta title:** Convalescence à l’hôtel après traitement en Chine | Test de sécurité de la chambre
+- **Meta description:** Vérifier l’éligibilité à l’hôtel, l’accès à la chambre, la présence de l’aidant, le stockage des médicaments, les dispositifs et le circuit d’urgence après traitement ambulatoire en Chine.
 
 ## Sources
 

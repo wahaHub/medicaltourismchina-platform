@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Preparar la documentación del linfoma de células del manto para una consulta en China
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Linfoma de células del manto
-- **Subtitle:** Una familia puede enviar cientos de páginas escaneadas y aun así dejar al especialista en linfomas sin respuesta a una pregunta básica: ¿por qué se suspendió el último tratamiento?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Preparar la documentación del linfoma de células del manto para una consulta en China
+- **Subtitle:** Prepare una consulta de linfoma de células del manto en China con informes de biopsia y genética, imágenes y una secuencia completa de tratamientos.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ Antes de salir de China, aplique el mismo método a los nuevos documentos: añad
 ## SEO Metadata
 
 - **Primary keyword:** documentación médica del linfoma de células del manto para consulta en China
+
+- **Meta title:** Preparar la documentación del linfoma de células del manto para una consulta en China
+- **Meta description:** Prepare una consulta de linfoma de células del manto en China con informes de biopsia y genética, imágenes y una secuencia completa de tratamientos.

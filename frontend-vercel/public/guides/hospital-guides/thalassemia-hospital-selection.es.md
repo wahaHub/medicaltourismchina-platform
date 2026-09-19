@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Elegir un hospital para la talasemia en China: adapte el servicio al problema que necesita resolver
 - **Category:** Guías de hospitales
 - **Subcategory:** Talasemia
-- **Subtitle:** Una lista útil de hospitales candidatos empieza por el motivo para buscar atención.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Elegir un hospital para la talasemia en China: adapte el servicio al problema que necesita resolver
+- **Subtitle:** Elija un hospital para talasemia en China según transfusiones, evaluación del hierro, edad y necesidades de trasplante, con preguntas concretas para el equipo.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Antes de elegir, elabore una breve hoja comparativa con la tarea clínica real, 
 ## SEO Metadata
 
 - **Primary keyword:** elección de hospital para talasemia en China; centro especializado en talasemia; servicios de transfusión; equipo de trasplante para talasemia
+
+- **Meta title:** Elegir un hospital para la talasemia en China: adapte el servicio al problema que necesita resolver
+- **Meta description:** Elija un hospital para talasemia en China según transfusiones, evaluación del hierro, edad y necesidades de trasplante, con preguntas concretas para el equipo.

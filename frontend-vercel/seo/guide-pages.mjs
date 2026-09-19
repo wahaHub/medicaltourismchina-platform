@@ -149,7 +149,7 @@ export async function makeGuidePages(projectRoot) {
         const pathname = alternates[locale];
         const canonicalUrl = `${SITE_ORIGIN}${pathname}`;
         const image = category.image ? `${SITE_ORIGIN}${category.image}` : undefined;
-        const modifiedDate = normalizeDate(guide.updatedDate);
+        const modifiedDate = normalizeDate(guide.updatedDateByLocale?.[locale] ?? guide.updatedDate);
 
         pages.push({
           path: pathname,

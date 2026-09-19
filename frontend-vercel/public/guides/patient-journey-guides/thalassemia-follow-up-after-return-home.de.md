@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Nachsorge nach Thalassämie-Behandlung in China: Jeden nächsten Schritt einem Arzt zuweisen, der ihn umsetzen kann
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Thalassämie
-- **Subtitle:** Ein Nachsorgeplan ist nur sinnvoll, wenn er am künftigen Wohnort des Patienten funktioniert.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Nachsorge nach Thalassämie-Behandlung in China: Jeden nächsten Schritt einem Arzt zuweisen, der ihn umsetzen kann
+- **Subtitle:** Thalassämie-Nachsorge nach China vorbereiten: nächste Transfusion, Chelattherapie, Arzneimittelsicherheit und Organüberwachung benannten Ärzten zuordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -157,3 +159,6 @@ Bewahren Sie nach jeder Änderung datierte Fassungen auf, damit der nächste Arz
 ## SEO Metadata
 
 - **Primary keyword:** Thalassämie-Nachsorge nach Behandlung in China; internationale Versorgungsübergabe; Transfusions- und Chelattherapiekontrollen; Versorgung nach Transplantation
+
+- **Meta title:** Nachsorge nach Thalassämie-Behandlung in China: Jeden nächsten Schritt einem Arzt zuweisen, der ihn umsetzen kann
+- **Meta description:** Thalassämie-Nachsorge nach China vorbereiten: nächste Transfusion, Chelattherapie, Arzneimittelsicherheit und Organüberwachung benannten Ärzten zuordnen.

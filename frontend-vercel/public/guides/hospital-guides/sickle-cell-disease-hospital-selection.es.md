@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Elegir un hospital en China para la enfermedad de células falciformes: experiencia, apoyo transfusional y atención continuada
 - **Category:** Guías de hospitales
 - **Subcategory:** Enfermedad de células falciformes
-- **Subtitle:** Para una persona con enfermedad de células falciformes, elegir hospital significa encontrar un equipo que comprenda su afección individual y proporcione la atención necesaria tanto en visitas rutinarias como en emergencias.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Elegir un hospital en China para la enfermedad de células falciformes: experiencia, apoyo transfusional y atención continuada
+- **Subtitle:** Busque atención para enfermedad falciforme en China valorando la experiencia del equipo, el apoyo transfusional, las urgencias y el seguimiento continuado.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -151,3 +153,6 @@ Idioma, coste y transporte importan, pero deben considerarse junto con las neces
 ## SEO Metadata
 
 - **Primary keyword:** hospital para enfermedad de células falciformes en China
+
+- **Meta title:** Elegir un hospital en China para la enfermedad de células falciformes: experiencia, apoyo transfusional y atención continuada
+- **Meta description:** Busque atención para enfermedad falciforme en China valorando la experiencia del equipo, el apoyo transfusional, las urgencias y el seguimiento continuado.

@@ -1,12 +1,14 @@
-# Efectos adversos del tratamiento de la epilepsia farmacorresistente: reconocer cambios y obtener la ayuda adecuada
+# Atención de epilepsia farmacorresistente en China: efectos secundarios del tratamiento
 
 ## Hero
 
-- **Title:** Efectos adversos del tratamiento de la epilepsia farmacorresistente: reconocer cambios y obtener la ayuda adecuada
 - **Category:** Guías de tratamiento
 - **Subcategory:** Epilepsia farmacorresistente
-- **Subtitle:** Alguien cuyas crisis han mejorado puede seguir teniendo dificultades para mantenerse despierto en clase, seguir una conversación o caminar con seguridad.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Atención de epilepsia farmacorresistente en China: efectos secundarios del tratamiento
+- **Subtitle:** Reconozca erupción, somnolencia, desequilibrio y cambios de ánimo durante el tratamiento de epilepsia farmacorresistente, y prepare una revisión en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -153,3 +155,6 @@ El resultado práctico de una revisión de seguridad es un plan de actuación cl
 ## SEO Metadata
 
 - **Primary keyword:** efectos adversos del tratamiento de la epilepsia farmacorresistente; seguridad de los medicamentos anticrisis; reacciones adversas en epilepsia; seguimiento de la epilepsia en China
+
+- **Meta title:** Atención de epilepsia farmacorresistente en China: efectos secundarios del tratamiento
+- **Meta description:** Reconozca erupción, somnolencia, desequilibrio y cambios de ánimo durante el tratamiento de epilepsia farmacorresistente, y prepare una revisión en China.

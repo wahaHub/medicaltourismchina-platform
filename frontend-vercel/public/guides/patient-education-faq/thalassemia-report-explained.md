@@ -1,12 +1,14 @@
-# Reading thalassemia reports: distinguish the inherited diagnosis, anemia, iron burden, and organ health
+# Thalassemia Reports: Preparing for Assessment in China
 
 ## Hero
 
-- **Title:** Reading thalassemia reports: distinguish the inherited diagnosis, anemia, iron burden, and organ health
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Thalassemia
-- **Subtitle:** A thalassemia folder can contain gene notation, hemoglobin percentages, ferritin measurements, and MRI values.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Thalassemia Reports: Preparing for Assessment in China
+- **Subtitle:** Separate thalassemia diagnosis, anemia, iron burden and organ results, and prepare comparable reports for the receiving team in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Ask for the individual's treatment targets, the next review date, and symptoms t
 ## SEO Metadata
 
 - **Primary keyword:** thalassemia laboratory results; HbA2; liver iron MRI; cardiac T2 star; ferritin interpretation
+
+- **Meta title:** Thalassemia Reports: Preparing for Assessment in China
+- **Meta description:** Separate thalassemia diagnosis, anemia, iron burden and organ results, and prepare comparable reports for the receiving team in China.

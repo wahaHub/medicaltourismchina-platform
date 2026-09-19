@@ -1,12 +1,14 @@
-# Pengobatan sklerosis multipel: menyusun rencana untuk serangan, progresi, dan fungsi sehari-hari
+# Pengobatan Sklerosis Multipel di Tiongkok: Rencana Perawatan Berkelanjutan
 
 ## Hero
 
-- **Title:** Pengobatan sklerosis multipel: menyusun rencana untuk serangan, progresi, dan fungsi sehari-hari
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Sklerosis Multipel
-- **Subtitle:** Rencana pengobatan sklerosis multipel yang berguna menjawab beberapa pertanyaan berbeda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Sklerosis Multipel di Tiongkok: Rencana Perawatan Berkelanjutan
+- **Subtitle:** Susun rencana sklerosis multipel di Tiongkok yang mencakup diagnosis, serangan, progresi, obat pemodifikasi penyakit, dan fungsi sehari-hari.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Mintalah perkiraan yang terkait jalur aktual yang diusulkan, termasuk penilaian,
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan sklerosis multipel di Tiongkok
+
+- **Meta title:** Pengobatan Sklerosis Multipel di Tiongkok: Rencana Perawatan Berkelanjutan
+- **Meta description:** Susun rencana sklerosis multipel di Tiongkok yang mencakup diagnosis, serangan, progresi, obat pemodifikasi penyakit, dan fungsi sehari-hari.

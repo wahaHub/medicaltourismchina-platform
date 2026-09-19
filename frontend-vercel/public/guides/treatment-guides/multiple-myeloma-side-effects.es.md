@@ -1,12 +1,14 @@
-# Manejo de los efectos adversos del tratamiento del mieloma múltiple: síntomas urgentes y atención continuada
+# Tratamiento del mieloma en China: efectos secundarios y síntomas urgentes
 
 ## Hero
 
-- **Title:** Manejo de los efectos adversos del tratamiento del mieloma múltiple: síntomas urgentes y atención continuada
 - **Category:** Guías de tratamiento
 - **Subcategory:** Mieloma múltiple
-- **Subtitle:** El manejo de los efectos adversos ayuda a los pacientes a recibir tratamiento en condiciones que puedan tolerar.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento del mieloma en China: efectos secundarios y síntomas urgentes
+- **Subtitle:** Reconozca síntomas urgentes y efectos del tratamiento del mieloma en China, con vigilancia de infecciones, recuentos, neuropatía y cambios cardiovasculares.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Durante el tratamiento en China, confirme cómo coordina el servicio las evaluac
 ## SEO Metadata
 
 - **Primary keyword:** efectos adversos del tratamiento del mieloma múltiple y atención de apoyo en China
+
+- **Meta title:** Tratamiento del mieloma en China: efectos secundarios y síntomas urgentes
+- **Meta description:** Reconozca síntomas urgentes y efectos del tratamiento del mieloma en China, con vigilancia de infecciones, recuentos, neuropatía y cambios cardiovasculares.

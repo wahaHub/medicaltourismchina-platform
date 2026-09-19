@@ -1,15 +1,17 @@
-# 怎样选择上海医院：专科、院区、国际服务与行程
+# 中国医院选择：上海就诊路径、院区与交通
 
 ## Hero
 
-- **Title:** 怎样选择上海医院：专科、院区、国际服务与行程
 - **Category:** 医院指南
 - **Subcategory:** 上海就医规划
-- **Subtitle:** 把一个上海医院名称拆解为可核实的临床路径、精确院区安排和从抵达到出院都能执行的计划。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 国际患者规划上海医院就医入口的概念插图；城市天际线、列车符号和医院并不代表真实院区或路线。
+
+
+- **Title:** 中国医院选择：上海就诊路径、院区与交通
+- **Subtitle:** 从专科团队、实际院区、国际服务、护照身份、保险付款、两场交通和出院交接规划上海就医路径。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -240,13 +242,15 @@
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-shanghai-specialties-access-and-travel`
-- **Meta title:** 怎样选择上海医院：院区、服务与行程
-- **Meta description:** 从专科团队、实际院区、国际服务、护照身份、保险付款、两场交通和出院交接规划上海就医路径。
 - **Primary keyword:** 怎样选择上海医院
 - **Pillar keyword:** 上海国际患者医院
 - **Vertical keyword:** 上海医院院区国际服务行程
 - **Search intent:** 医院比较 / 医疗行程规划
 - **Secondary keywords:** 上海国际医疗；护照上海医院挂号；随申办预约医院；浦东虹桥就医交通；上海医院院区
+
+
+- **Meta title:** 中国医院选择：上海就诊路径、院区与交通
+- **Meta description:** 从专科团队、实际院区、国际服务、护照身份、保险付款、两场交通和出院交接规划上海就医路径。
 
 ## Sources
 

@@ -1,12 +1,14 @@
-# ¿Requiere cirugía la EICH? Comprender las biopsias, la dilatación, los procedimientos oculares y el acceso para el tratamiento
+# Procedimientos para la EICH en China: biopsias, dilatación y atención ocular
 
 ## Hero
 
-- **Title:** ¿Requiere cirugía la EICH? Comprender las biopsias, la dilatación, los procedimientos oculares y el acceso para el tratamiento
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de injerto contra huésped
-- **Subtitle:** Que le digan que necesita un procedimiento después del trasplante puede resultar alarmante.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Procedimientos para la EICH en China: biopsias, dilatación y atención ocular
+- **Subtitle:** Comprenda el propósito de biopsias, dilatación y procedimientos oculares en enfermedad injerto contra huésped al preparar atención especializada en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ El informe de alta debe explicar qué se hizo, qué se encontró, qué resultado
 ## SEO Metadata
 
 - **Primary keyword:** procedimientos y cirugía para la EICH en China
+
+- **Meta title:** Procedimientos para la EICH en China: biopsias, dilatación y atención ocular
+- **Meta description:** Comprenda el propósito de biopsias, dilatación y procedimientos oculares en enfermedad injerto contra huésped al preparar atención especializada en China.

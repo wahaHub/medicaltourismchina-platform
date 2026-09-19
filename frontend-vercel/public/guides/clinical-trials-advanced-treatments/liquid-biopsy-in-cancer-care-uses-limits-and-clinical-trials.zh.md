@@ -1,15 +1,17 @@
-# 肿瘤液体活检：用途、局限与临床试验
+# 中国肿瘤液体活检：检测用途、局限与试验
 
 ## Hero
 
-- **Title:** 肿瘤液体活检：用途、局限与临床试验
 - **Category:** 临床试验与前沿治疗
 - **Subcategory:** 分子检测与精准肿瘤学
-- **Subtitle:** 让样本、检测和临床决定准确对应，也要知道阴性结果排除不了什么。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 带试管图标的暂用咨询插图；等待更换为科学准确的血浆、游离 DNA 和测序画面。
+
+
+- **Title:** 中国肿瘤液体活检：检测用途、局限与试验
+- **Subtitle:** 了解 ctDNA 用于晚期肿瘤、MRD、疗效监测和筛查的边界，包括假阴性、克隆性造血、组织复核和临床试验。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,11 +135,13 @@ NCI 把早诊列为仍在验证的领域，并设有专门液体活检研究项�
 ## SEO Metadata
 
 - **Slug:** `liquid-biopsy-in-cancer-care-uses-limits-and-clinical-trials`
-- **Meta title:** 肿瘤液体活检：用途、局限与试验
-- **Meta description:** 了解 ctDNA 用于晚期肿瘤、MRD、疗效监测和筛查的边界，包括假阴性、克隆性造血、组织复核和临床试验。
 - **Primary keyword:** 肿瘤液体活检
 - **Secondary keywords:** ctDNA 检测；分子残留病灶；血浆基因检测；液体活检假阴性；ctDNA 临床试验
 - **Search intent:** 分子检测解读 / 临床试验筛选
+
+
+- **Meta title:** 中国肿瘤液体活检：检测用途、局限与试验
+- **Meta description:** 了解 ctDNA 用于晚期肿瘤、MRD、疗效监测和筛查的边界，包括假阴性、克隆性造血、组织复核和临床试验。
 
 ## Sources
 

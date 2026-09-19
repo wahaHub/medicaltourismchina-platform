@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Untersuchungen bei Parkinson-Verdacht in China: Was jede Beurteilung feststellen kann
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Parkinson-Krankheit
-- **Subtitle:** Patienten fragen sich nach einem ersten Termin manchmal, warum der Neurologe Zeit damit verbracht hat, Fingerbewegungen und Gang zu beobachten, statt eine eindeutig diagnostische Bildgebung anzuordnen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Untersuchungen bei Parkinson-Verdacht in China: Was jede Beurteilung feststellen kann
+- **Subtitle:** Parkinson-Diagnostik in China vorbereiten: klinische Untersuchung, Medikamentenprüfung, Bildgebung und Biomarker nach ihrer jeweiligen Aussagekraft einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Evidenz geprüft: September 9, 2026. Testauswahl und Interpretation hängen von 
 ## SEO Metadata
 
 - **Primary keyword:** Untersuchungen zur Parkinson-Diagnose in China
+
+- **Meta title:** Untersuchungen bei Parkinson-Verdacht in China: Was jede Beurteilung feststellen kann
+- **Meta description:** Parkinson-Diagnostik in China vorbereiten: klinische Untersuchung, Medikamentenprüfung, Bildgebung und Biomarker nach ihrer jeweiligen Aussagekraft einordnen.

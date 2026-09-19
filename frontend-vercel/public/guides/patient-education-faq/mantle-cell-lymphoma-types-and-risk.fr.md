@@ -1,12 +1,14 @@
-# Types et risque du lymphome du manteau : comprendre le comportement indolent, la biologie à haut risque et le stade
+# Types et risques du lymphome du manteau : réévaluation en Chine
 
 ## Hero
 
-- **Title:** Types et risque du lymphome du manteau : comprendre le comportement indolent, la biologie à haut risque et le stade
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Lymphome du manteau
-- **Subtitle:** Recherches associées : MCL indolent ; lymphome du manteau à haut risque ; évaluation du risque du MCL en Chine
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Types et risques du lymphome du manteau : réévaluation en Chine
+- **Subtitle:** Comprenez les formes indolentes, les caractéristiques biologiques à haut risque et le stade du lymphome du manteau avant une réévaluation en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ La consultation doit se terminer par une action : poursuivre un plan de surveill
 ## SEO Metadata
 
 - **Primary keyword:** types et risque du lymphome du manteau
+
+- **Meta title:** Types et risques du lymphome du manteau : réévaluation en Chine
+- **Meta description:** Comprenez les formes indolentes, les caractéristiques biologiques à haut risque et le stade du lymphome du manteau avant une réévaluation en Chine.

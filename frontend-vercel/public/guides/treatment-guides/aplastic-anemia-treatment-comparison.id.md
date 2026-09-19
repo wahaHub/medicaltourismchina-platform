@@ -1,12 +1,14 @@
-# Membandingkan pengobatan anemia aplastik: memilih antara transplantasi dan imunosupresi
+# Perawatan Anemia Aplastik di Tiongkok: Transplantasi atau Imunosupresi
 
 ## Hero
 
-- **Title:** Membandingkan pengobatan anemia aplastik: memilih antara transplantasi dan imunosupresi
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Anemia Aplastik
-- **Subtitle:** Jika satu rumah sakit mengusulkan transplantasi dan rumah sakit lain menganjurkan terapi berbasis ATG, jangan mulai dengan mengurutkan angka keberhasilan yang mereka sebutkan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Perawatan Anemia Aplastik di Tiongkok: Transplantasi atau Imunosupresi
+- **Subtitle:** Bandingkan transplantasi dan imunosupresi untuk anemia aplastik di Tiongkok menurut kelayakan, tujuan, risiko awal, dan kebutuhan perawatan lanjutan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -107,3 +109,6 @@ Bandingkan pula akomodasi dekat rumah sakit, waktu pendamping meninggalkan peker
 ## SEO Metadata
 
 - **Primary keyword:** membandingkan pengobatan anemia aplastik
+
+- **Meta title:** Perawatan Anemia Aplastik di Tiongkok: Transplantasi atau Imunosupresi
+- **Meta description:** Bandingkan transplantasi dan imunosupresi untuk anemia aplastik di Tiongkok menurut kelayakan, tujuan, risiko awal, dan kebutuhan perawatan lanjutan.

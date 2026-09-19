@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Behandlungskosten bei Hodgkin-Lymphom in China: einen vergleichbaren Kostenvoranschlag in RMB erhalten
 - **Category:** Kosten- und Versicherungsleitfäden
 - **Subcategory:** Hodgkin-Lymphom
-- **Subtitle:** Es gibt keinen einheitlichen Gesamtpreis für die Behandlung eines Hodgkin-Lymphoms in China, der für jeden Patienten gilt.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Behandlungskosten bei Hodgkin-Lymphom in China: einen vergleichbaren Kostenvoranschlag in RMB erhalten
+- **Subtitle:** Ein vergleichbares Angebot für Hodgkin-Lymphom-Behandlung in China einholen: Medikamente, Verabreichung, Bestrahlung, unterstützende Versorgung und Reise einbeziehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Ein hilfreicher Kostenvoranschlag nennt möglicherweise am ersten Tag keine endg
 ## SEO Metadata
 
 - **Primary keyword:** Behandlungskosten bei Hodgkin-Lymphom in China
+
+- **Meta title:** Behandlungskosten bei Hodgkin-Lymphom in China: einen vergleichbaren Kostenvoranschlag in RMB erhalten
+- **Meta description:** Ein vergleichbares Angebot für Hodgkin-Lymphom-Behandlung in China einholen: Medikamente, Verabreichung, Bestrahlung, unterstützende Versorgung und Reise einbeziehen.

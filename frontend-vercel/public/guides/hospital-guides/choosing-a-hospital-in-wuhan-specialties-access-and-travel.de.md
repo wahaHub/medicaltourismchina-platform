@@ -1,15 +1,17 @@
-# 109 Ein Krankenhaus in Wuhan auswählen: Vier Uhren in den drei Stadtteilen
+# Krankenhauswahl in China: Klinikstandorte und Reiseplanung in Wuhan
 
 ## Hero
 
-- **Title:** Ein Krankenhaus in Wuhan auswählen: Vier Uhren in den drei Stadtteilen
 - **Category:** Krankenhausratgeber
 - **Subcategory:** Behandlungsplanung in Wuhan
-- **Subtitle:** Stimmen Sie medizinische Entscheidungen, Proben, Stadtwege und Erholung zeitlich aufeinander ab und bestätigen Sie das genaue Team und den Standort in Wuhan.
 - **Reviewed by:** Medora Health Redaktion
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Konzeptillustration internationaler Patienten bei der Planung einer Krankenhausbehandlung in Wuhan; Fluss, Brücke, Turm, Zug und Krankenhaus stellen keine tatsächliche Kombination aus Standort und Route oder eine Empfehlung dar.
+
+
+- **Title:** Krankenhauswahl in China: Klinikstandorte und Reiseplanung in Wuhan
+- **Subtitle:** Wählen Sie ein Krankenhaus in Wuhan, indem Sie medizinische Entscheidungen, Proben, Reise und Erholung mit genauen Standorten, den drei Stadtteilen, Bahn und Flughafen, Sprache, Versicherung und Notfallversorgung abstimmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -203,13 +205,15 @@ Nicht bei medizinisch instabilem Zustand. Rufen Sie 120 an und nutzen Sie das ö
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-wuhan-specialties-access-and-travel`
-- **Meta title:** Ein Krankenhaus in Wuhan wählen: Standorte, Bahnhöfe und vier Uhren
-- **Meta description:** Wählen Sie ein Krankenhaus in Wuhan, indem Sie medizinische Entscheidungen, Proben, Reise und Erholung mit genauen Standorten, den drei Stadtteilen, Bahn und Flughafen, Sprache, Versicherung und Notfallversorgung abstimmen.
 - **Primary keyword:** ein Krankenhaus in Wuhan auswählen
 - **Pillar keyword:** Krankenhäuser in Wuhan für internationale Patienten
 - **Vertical keyword:** Wuhan Krankenhausstandorte Anreise Erreichbarkeit
 - **Search intent:** Krankenhausvergleich / Planung medizinischer Reisen nach Wuhan
 - **Secondary keywords:** internationales medizinisches Zentrum Wuhan; Krankenhausstandort Wuhan; Wuhan Station Krankenhausanreise; Krankenhaus Hankou; Krankenhaus Wuchang; Wuhan 120
+
+
+- **Meta title:** Krankenhauswahl in China: Klinikstandorte und Reiseplanung in Wuhan
+- **Meta description:** Wählen Sie ein Krankenhaus in Wuhan, indem Sie medizinische Entscheidungen, Proben, Reise und Erholung mit genauen Standorten, den drei Stadtteilen, Bahn und Flughafen, Sprache, Versicherung und Notfallversorgung abstimmen.
 
 ## Quellen
 

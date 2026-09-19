@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Seguimiento del mieloma después del tratamiento en China: pruebas, prescripciones y continuidad asistencial en casa
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Mieloma múltiple
-- **Subtitle:** Salir del hospital tratante no suele poner fin a la atención del mieloma.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Seguimiento del mieloma después del tratamiento en China: pruebas, prescripciones y continuidad asistencial en casa
+- **Subtitle:** Coordine el seguimiento del mieloma al regresar de China con resultados comparables, recetas de continuación y responsables de las próximas decisiones clínicas.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Planifique las prescripciones locales, las pruebas, la atención de apoyo y nuev
 ## SEO Metadata
 
 - **Primary keyword:** seguimiento del mieloma múltiple después del tratamiento en China
+
+- **Meta title:** Seguimiento del mieloma después del tratamiento en China: pruebas, prescripciones y continuidad asistencial en casa
+- **Meta description:** Coordine el seguimiento del mieloma al regresar de China con resultados comparables, recetas de continuación y responsables de las próximas decisiones clínicas.

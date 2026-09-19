@@ -1,15 +1,17 @@
-# 在中国就医时如何使用医院App和微信
+# 在中国使用医院应用和微信：患者安全指南
 
 ## Hero
 
-- **Title:** 在中国就医时如何使用医院App和微信
 - **Category:** 中国医疗指南
 - **Subcategory:** 数字化患者服务
-- **Subtitle:** 从实名建档、预约和付款，到查看报告与复诊，一次把容易卡住国际患者的数字流程理顺。
 - **Reviewed by:** Medora Health 编辑团队；发布前需完成数字服务和隐私审核
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 医院服务台工作人员协助国际患者使用医院微信小程序
+
+
+- **Title:** 在中国使用医院应用和微信：患者安全指南
+- **Subtitle:** 了解如何通过医院App或微信小程序预约、付款和查报告，并避免护照建档、隐私及账号权限问题。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -180,13 +182,15 @@ App可能用于报到、展示电子就诊码、查看候诊队列、院内导�
 ## SEO Metadata
 
 - **Slug:** `using-hospital-apps-and-wechat-during-medical-care-in-china`
-- **Meta title:** 国际患者如何使用中国医院App和微信
-- **Meta description:** 了解如何通过医院App或微信小程序预约、付款和查报告，并避免护照建档、隐私及账号权限问题。
 - **Primary keyword:** 外国人使用中国医院App
 - **Pillar keyword:** 国际患者在中国就医
 - **Vertical keyword:** 中国医院微信小程序使用方法
 - **Search intent:** 信息查询 / 就诊准备
 - **Secondary keywords:** 微信医院挂号；中国医院移动支付；医院小程序护照注册
+
+
+- **Meta title:** 在中国使用医院应用和微信：患者安全指南
+- **Meta description:** 了解如何通过医院App或微信小程序预约、付款和查报告，并避免护照建档、隐私及账号权限问题。
 
 ## Sources
 

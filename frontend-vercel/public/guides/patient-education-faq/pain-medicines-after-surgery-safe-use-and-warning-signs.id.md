@@ -1,15 +1,17 @@
-# Obat Nyeri Setelah Operasi: Kendalikan Nyeri Tanpa Menutupi Komplikasi
+# Obat Nyeri Setelah Operasi di Tiongkok: Dosis dan Keamanan
 
 ## Hero
 
-- **Title:** Obat Nyeri Setelah Operasi: Kendalikan Nyeri Tanpa Menutupi Komplikasi
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Obat-obatan
-- **Subtitle:** Cara membaca rencana penanganan nyeri multimodal, menghindari bahan aktif ganda, menggunakan opioid dengan aman, dan mengenali nyeri yang membutuhkan evaluasi bedah alih-alih dosis tambahan.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Dokter bedah meninjau daftar obat pascaoperasi berkode warna bersama pasien di samping beberapa wadah obat berlabel
+
+
+- **Title:** Obat Nyeri Setelah Operasi di Tiongkok: Dosis dan Keamanan
+- **Subtitle:** Pelajari cara menggabungkan obat nyeri pascaoperasi dengan aman, menghindari asetaminofen ganda, mengenali overdosis opioid, dan membedakan nyeri yang diperkirakan dari komplikasi bedah.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -172,11 +174,13 @@ Segera hubungi jika nyeri meningkat cepat, tidak sebanding, tidak merespons renc
 
 ## SEO Metadata
 
-- **SEO title:** Obat Nyeri Setelah Operasi: Dosis Aman dan Tanda Peringatan
-- **Meta description:** Pelajari cara menggabungkan obat nyeri pascaoperasi dengan aman, menghindari asetaminofen ganda, mengenali overdosis opioid, dan membedakan nyeri yang diperkirakan dari komplikasi bedah.
 - **Primary keyword:** obat nyeri setelah operasi
 - **Secondary keywords:** rencana nyeri pascaoperasi, keamanan opioid setelah operasi, dosis ganda asetaminofen, NSAID setelah operasi, nalokson, nyeri memburuk setelah operasi
 - **Suggested URL slug:** `/pain-medicine-after-surgery-safe-use-warning-signs`
+
+
+- **Meta title:** Obat Nyeri Setelah Operasi di Tiongkok: Dosis dan Keamanan
+- **Meta description:** Pelajari cara menggabungkan obat nyeri pascaoperasi dengan aman, menghindari asetaminofen ganda, mengenali overdosis opioid, dan membedakan nyeri yang diperkirakan dari komplikasi bedah.
 
 ## Sumber
 

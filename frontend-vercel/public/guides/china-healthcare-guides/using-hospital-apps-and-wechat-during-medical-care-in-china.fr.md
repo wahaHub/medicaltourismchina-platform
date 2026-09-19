@@ -1,15 +1,17 @@
-# 013 Utiliser les applications hospitalières et WeChat pendant des soins médicaux en Chine
+# Applications hospitalières et WeChat en Chine : guide de sécurité du patient
 
 ## Hero
 
-- **Title:** Utiliser les applications hospitalières et WeChat pendant des soins médicaux en Chine
 - **Category:** Guides du système de santé chinois
 - **Subcategory:** Services numériques aux patients
-- **Subtitle:** Une méthode pratique pour préparer l’inscription, le paiement, les résultats et le suivi sans qu’une discordance d’identité ou un compte non officiel ne compromette la visite.
 - **Reviewed by:** Équipe éditoriale de Medora Health ; relecture des services numériques et de la confidentialité nécessaire avant publication
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un employé du guichet hospitalier aide un patient international à utiliser un mini-programme hospitalier sur un téléphone
+
+
+- **Title:** Applications hospitalières et WeChat en Chine : guide de sécurité du patient
+- **Subtitle:** Configurez une application hospitalière chinoise ou un mini-programme WeChat pour les rendez-vous, paiements et résultats en évitant les problèmes d’identité, de confidentialité et d’accès.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -199,13 +201,15 @@ C’est une information clinique utile, mais un affichage à l’écran peut ne 
 ## SEO Metadata
 
 - **Slug:** `using-hospital-apps-and-wechat-during-medical-care-in-china`
-- **Meta title:** Utiliser les applications hospitalières chinoises et WeChat en sécurité
-- **Meta description:** Configurez une application hospitalière chinoise ou un mini-programme WeChat pour les rendez-vous, paiements et résultats en évitant les problèmes d’identité, de confidentialité et d’accès.
 - **Primary keyword:** application hospitalière chinoise pour les étrangers
 - **Pillar keyword:** soins de santé en Chine pour les patients internationaux
 - **Vertical keyword:** utiliser WeChat dans un hôpital chinois
 - **Search intent:** information / préparation de la visite
 - **Secondary keywords:** mini-programme hôpital Chine ; rendez-vous hospitalier WeChat ; paiement mobile hôpital chinois
+
+
+- **Meta title:** Applications hospitalières et WeChat en Chine : guide de sécurité du patient
+- **Meta description:** Configurez une application hospitalière chinoise ou un mini-programme WeChat pour les rendez-vous, paiements et résultats en évitant les problèmes d’identité, de confidentialité et d’accès.
 
 ## Sources
 

@@ -1,12 +1,14 @@
-# Strahlentherapie bei DLBCL: lokalisierte Erkrankung, Restbefunde und Symptomlinderung
+# Strahlentherapie bei DLBCL in China: Lokale Kontrolle und Symptomlinderung
 
 ## Hero
 
-- **Title:** Strahlentherapie bei DLBCL: lokalisierte Erkrankung, Restbefunde und Symptomlinderung
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Diffuses großzelliges B-Zell-Lymphom
-- **Subtitle:** Die Strahlentherapie hat bei DLBCL eine klar definierte Rolle, ist nach einer Chemotherapie aber kein automatischer nächster Schritt.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Strahlentherapie bei DLBCL in China: Lokale Kontrolle und Symptomlinderung
+- **Subtitle:** DLBCL-Strahlentherapie in China planen: lokale Kontrolle, Restbefunde und Symptomlinderung mit PET-Beurteilung, Zielgebiet und weiteren Therapien abstimmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Die Nachsorge sollte festlegen, wer spätere Bildgebung auswertet, wann Spätfol
 ## SEO Metadata
 
 - **Primary keyword:** Strahlentherapie bei DLBCL
+
+- **Meta title:** Strahlentherapie bei DLBCL in China: Lokale Kontrolle und Symptomlinderung
+- **Meta description:** DLBCL-Strahlentherapie in China planen: lokale Kontrolle, Restbefunde und Symptomlinderung mit PET-Beurteilung, Zielgebiet und weiteren Therapien abstimmen.

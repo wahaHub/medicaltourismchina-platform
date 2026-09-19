@@ -1,15 +1,17 @@
-# 080 Les anticorps bispécifiques dans les soins du cancer : guide pour les patients
+# Anticorps bispécifiques en Chine : doses, accès et risques
 
 ## Hero
 
-- **Title:** Les anticorps bispécifiques dans les soins du cancer : guide pour les patients
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Immunothérapie du cancer
-- **Subtitle:** Identifiez les deux cibles de liaison et leur rôle avant de juger l’admissibilité, l’augmentation progressive des doses, la toxicité immunitaire, le risque infectieux et la faisabilité du voyage.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Remplacement nécessaire : un anticorps bispécifique scientifiquement exact reliant deux cibles, avec augmentation progressive des doses et activation surveillée des cellules immunitaires.
+
+
+- **Title:** Anticorps bispécifiques en Chine : doses, accès et risques
+- **Subtitle:** Découvrez les différences entre anticorps bispécifiques anticancéreux : engageurs CD3 des lymphocytes T, tests des cibles, doses progressives, CRS, risque infectieux et vérification en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -174,11 +176,13 @@ Seulement si le protocole ou l’équipe soignante le permet et si un centre qua
 ## SEO Metadata
 
 - **Slug:** `bispecific-antibodies-in-cancer-care-a-patient-guide`
-- **Meta title:** Anticorps bispécifiques : cibles, doses progressives et risques
-- **Meta description:** Découvrez les différences entre anticorps bispécifiques anticancéreux : engageurs CD3 des lymphocytes T, tests des cibles, doses progressives, CRS, risque infectieux et vérification en Chine.
 - **Primary keyword:** anticorps bispécifiques traitement du cancer
 - **Secondary keywords:** engageur bispécifique de lymphocytes T ; anticorps bispécifique Chine ; augmentation progressive des doses ; CRS ICANS ; infection anticorps bispécifique
 - **Search intent:** comparaison de traitements par anticorps bispécifiques / sélection pour un essai
+
+
+- **Meta title:** Anticorps bispécifiques en Chine : doses, accès et risques
+- **Meta description:** Découvrez les différences entre anticorps bispécifiques anticancéreux : engageurs CD3 des lymphocytes T, tests des cibles, doses progressives, CRS, risque infectieux et vérification en Chine.
 
 ## Sources
 

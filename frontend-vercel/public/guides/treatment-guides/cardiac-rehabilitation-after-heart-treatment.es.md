@@ -1,15 +1,17 @@
-# 041 Rehabilitación cardíaca después de un tratamiento del corazón
+# Rehabilitación cardíaca en China: recuperación tras un tratamiento del corazón
 
 ## Hero
 
-- **Title:** Rehabilitación cardíaca después de un tratamiento del corazón
 - **Category:** Guías de tratamiento
 - **Subcategory:** Atención cardíaca y vascular
-- **Subtitle:** Convierta las restricciones al alta en un plan con supervisión médica para hacer ejercicio, reducir riesgos, ganar confianza y retomar con seguridad la vida cotidiana.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Profesional de rehabilitación cardíaca evaluando a un paciente mayor junto a equipos sencillos de ejercicio
+
+
+- **Title:** Rehabilitación cardíaca en China: recuperación tras un tratamiento del corazón
+- **Subtitle:** Elabore un plan seguro de rehabilitación cardíaca tras tratar el corazón, con evaluación, dosis de ejercicio, atención a factores de riesgo, señales de alarma y transferencia entre países.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -175,13 +177,15 @@ Facilite el resumen del procedimiento y las complicaciones, los hallazgos cardí
 ## SEO Metadata
 
 - **Slug:** `cardiac-rehabilitation-after-heart-treatment`
-- **Meta title:** Rehabilitación cardíaca después de un tratamiento del corazón | Guía del paciente
-- **Meta description:** Elabore un plan seguro de rehabilitación cardíaca tras tratar el corazón, con evaluación, dosis de ejercicio, atención a factores de riesgo, señales de alarma y transferencia entre países.
 - **Primary keyword:** rehabilitación cardíaca después de un tratamiento del corazón
 - **Pillar keyword:** recuperación del tratamiento cardíaco
 - **Vertical keyword:** programa de rehabilitación cardíaca
 - **Search intent:** planificación de recuperación / prevención secundaria
 - **Secondary keywords:** rehabilitación cardíaca después de intervención coronaria percutánea; rehabilitación cardíaca después de derivación coronaria; ejercicio después de cirugía cardíaca; rehabilitación cardíaca en casa; transferencia de rehabilitación cardíaca
+
+
+- **Meta title:** Rehabilitación cardíaca en China: recuperación tras un tratamiento del corazón
+- **Meta description:** Elabore un plan seguro de rehabilitación cardíaca tras tratar el corazón, con evaluación, dosis de ejercicio, atención a factores de riesgo, señales de alarma y transferencia entre países.
 
 ## Fuentes
 

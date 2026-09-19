@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choosing a Hodgkin lymphoma hospital in China: matching first-line, radiation, and relapse needs
 - **Category:** Hospital Guides
 - **Subcategory:** Hodgkin Lymphoma
-- **Subtitle:** Choosing a hospital for Hodgkin lymphoma in China starts with the problem that needs solving.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choosing a Hodgkin lymphoma hospital in China: matching first-line, radiation, and relapse needs
+- **Subtitle:** Choose a Hodgkin lymphoma hospital in China with attention to first-line care, PET review, radiotherapy, relapse services and continuing support.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -143,3 +145,6 @@ A final choice can be tested through concrete questions: can this team explain t
 ## SEO Metadata
 
 - **Primary keyword:** choosing a Hodgkin lymphoma hospital in China
+
+- **Meta title:** Choosing a Hodgkin lymphoma hospital in China: matching first-line, radiation, and relapse needs
+- **Meta description:** Choose a Hodgkin lymphoma hospital in China with attention to first-line care, PET review, radiotherapy, relapse services and continuing support.

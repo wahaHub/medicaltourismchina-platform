@@ -1,12 +1,14 @@
-# Nebenwirkungen der Parkinson-Behandlung: Schwindel, Halluzinationen, Dyskinesien und neue Symptome
+# Parkinson-Behandlung in China: Nebenwirkungen und neue Symptome
 
 ## Hero
 
-- **Title:** Nebenwirkungen der Parkinson-Behandlung: Schwindel, Halluzinationen, Dyskinesien und neue Symptome
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Parkinson-Krankheit
-- **Subtitle:** Nebenwirkungen der Parkinson-Behandlung: Schwindel, Halluzinationen, Dyskinesien und neue Symptome
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Parkinson-Behandlung in China: Nebenwirkungen und neue Symptome
+- **Subtitle:** Neue Symptome unter Parkinson-Behandlung in China einordnen: Schwindel, Schläfrigkeit, Impulskontrolle, Halluzinationen und Dyskinesien nachvollziehbar dokumentieren.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Das praktische Ziel ist ein Behandlungsgleichgewicht, das aufrechterhalten und �
 ## SEO Metadata
 
 - **Primary keyword:** Nebenwirkungen der Behandlung der Parkinson-Krankheit
+
+- **Meta title:** Parkinson-Behandlung in China: Nebenwirkungen und neue Symptome
+- **Meta description:** Neue Symptome unter Parkinson-Behandlung in China einordnen: Schwindel, Schläfrigkeit, Impulskontrolle, Halluzinationen und Dyskinesien nachvollziehbar dokumentieren.

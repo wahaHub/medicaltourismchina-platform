@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Zwanzig Patientenfragen zu medikamentenresistenter Epilepsie und Behandlung in China
 - **Category:** Patientenaufklärung & FAQ
 - **Subcategory:** Medikamentenresistente Epilepsie
-- **Subtitle:** Entscheidungen bei medikamentenresistenter Epilepsie können mehrere Fachrichtungen einbeziehen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Zwanzig Patientenfragen zu medikamentenresistenter Epilepsie und Behandlung in China
+- **Subtitle:** 20 Fragen zu pharmakoresistenter Epilepsie und Versorgung in China: Medikamentenversuche, EEG, MRT, Operationsabklärung und weitere Behandlungswege verstehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -153,3 +155,6 @@ Folgen Sie bei verlängerten Krampfanfällen, wiederholten Anfällen ohne Erholu
 ## SEO Metadata
 
 - **Primary keyword:** Fragen und Antworten zu medikamentenresistenter Epilepsie; Epilepsiebehandlung in China; FAQ zu Epilepsiechirurgie und Medikamenten
+
+- **Meta title:** Zwanzig Patientenfragen zu medikamentenresistenter Epilepsie und Behandlung in China
+- **Meta description:** 20 Fragen zu pharmakoresistenter Epilepsie und Versorgung in China: Medikamentenversuche, EEG, MRT, Operationsabklärung und weitere Behandlungswege verstehen.

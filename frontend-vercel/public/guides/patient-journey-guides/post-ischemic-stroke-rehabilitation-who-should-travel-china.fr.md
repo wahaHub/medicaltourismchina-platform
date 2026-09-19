@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Qui devrait se rendre en Chine pour une réadaptation après un AVC ? Évaluer les besoins et l’aptitude au voyage
 - **Category:** Guides du parcours patient
 - **Subcategory:** Réadaptation après un AVC ischémique
-- **Subtitle:** Se rendre en Chine après un AVC ischémique est surtout utile lorsque le séjour a un objectif clinique précis.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Qui devrait se rendre en Chine pour une réadaptation après un AVC ? Évaluer les besoins et l’aptitude au voyage
+- **Subtitle:** Évaluez un projet de réadaptation post-AVC en Chine selon les objectifs, la stabilité médicale, les transferts, l’alimentation et la communication.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Discutez de ce document avec le patient en utilisant son mode de communication p
 ## SEO Metadata
 
 - **Primary keyword:** se rendre en Chine pour une réadaptation après un AVC ischémique
+
+- **Meta title:** Qui devrait se rendre en Chine pour une réadaptation après un AVC ? Évaluer les besoins et l’aptitude au voyage
+- **Meta description:** Évaluez un projet de réadaptation post-AVC en Chine selon les objectifs, la stabilité médicale, les transferts, l’alimentation et la communication.

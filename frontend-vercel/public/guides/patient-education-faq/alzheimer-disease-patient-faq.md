@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Twenty Questions Families Ask About Alzheimer's Disease and Care in China
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Alzheimer Disease
-- **Subtitle:** Families encounter many different kinds of Alzheimer's information: diagnostic blood tests, antibody medicines, surgical claims, research announcements, and overseas treatment offers.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Twenty Questions Families Ask About Alzheimer's Disease and Care in China
+- **Subtitle:** Answers to 20 Alzheimer’s questions about diagnosis, medicines, new treatments, hospital selection in China and practical family support.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ The family should know which clinician will prescribe, where necessary tests wil
 ## SEO Metadata
 
 - **Primary keyword:** Alzheimer's disease treatment frequently asked questions
+
+- **Meta title:** Twenty Questions Families Ask About Alzheimer's Disease and Care in China
+- **Meta description:** Answers to 20 Alzheimer’s questions about diagnosis, medicines, new treatments, hospital selection in China and practical family support.

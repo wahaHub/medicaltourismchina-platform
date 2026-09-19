@@ -1,12 +1,14 @@
-# When does T-cell lymphoma need radiotherapy? Purpose, treatment area and planning
+# T-Cell Lymphoma Radiotherapy in China: When and Why
 
 ## Hero
 
-- **Title:** When does T-cell lymphoma need radiotherapy? Purpose, treatment area and planning
 - **Category:** Treatment Guides
 - **Subcategory:** T Cell Lymphoma
-- **Subtitle:** A radiotherapy recommendation does not automatically mean chemotherapy has failed.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** T-Cell Lymphoma Radiotherapy in China: When and Why
+- **Subtitle:** Understand radiotherapy’s role in T-cell lymphoma by subtype, site and treatment goal, with questions about planning and practical care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ The consultation should leave the patient able to explain why radiation was chos
 ## SEO Metadata
 
 - **Primary keyword:** radiotherapy for T-cell lymphoma
+
+- **Meta title:** T-Cell Lymphoma Radiotherapy in China: When and Why
+- **Meta description:** Understand radiotherapy’s role in T-cell lymphoma by subtype, site and treatment goal, with questions about planning and practical care in China.

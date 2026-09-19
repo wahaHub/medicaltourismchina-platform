@@ -1,12 +1,14 @@
-# SEEG and focal ablation for drug-resistant epilepsy: how recording, radiofrequency treatment and laser therapy differ
+# SEEG and Epilepsy Ablation in China: Tests vs Treatment
 
 ## Hero
 
-- **Title:** SEEG and focal ablation for drug-resistant epilepsy: how recording, radiofrequency treatment and laser therapy differ
 - **Category:** Treatment Guides
 - **Subcategory:** Drug Resistant Epilepsy
-- **Subtitle:** When a patient hears that implanted electrodes may also be used for thermocoagulation, it can sound as though one admission will both locate and eliminate the cause of seizures.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** SEEG and Epilepsy Ablation in China: Tests vs Treatment
+- **Subtitle:** Distinguish SEEG recording from radiofrequency or laser treatment in epilepsy, and confirm the proposed service before travelling to China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ If ongoing care will occur outside China, identify the clinician who will review
 ## SEO Metadata
 
 - **Primary keyword:** SEEG for drug-resistant epilepsy; epilepsy radiofrequency thermocoagulation; laser ablation; minimally invasive epilepsy assessment in China
+
+- **Meta title:** SEEG and Epilepsy Ablation in China: Tests vs Treatment
+- **Meta description:** Distinguish SEEG recording from radiofrequency or laser treatment in epilepsy, and confirm the proposed service before travelling to China.

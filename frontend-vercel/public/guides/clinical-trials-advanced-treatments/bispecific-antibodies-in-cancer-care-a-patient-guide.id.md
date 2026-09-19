@@ -1,15 +1,17 @@
-# 080 Antibodi Bispesifik dalam Perawatan Kanker: Panduan Pasien
+# Antibodi Bispesifik di Tiongkok: Dosis, Akses, dan Risiko
 
 ## Hero
 
-- **Title:** Antibodi Bispesifik dalam Perawatan Kanker: Panduan Pasien
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Imunoterapi Kanker
-- **Subtitle:** Identifikasi dua target pengikatan dan tugasnya sebelum menilai kelayakan, peningkatan dosis bertahap, toksisitas imun, risiko infeksi, dan kelayakan perjalanan.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Perlu penggantian: antibodi bispesifik yang akurat secara ilmiah menghubungkan dua target, dengan peningkatan dosis bertahap dan aktivasi sel imun yang dipantau.
+
+
+- **Title:** Antibodi Bispesifik di Tiongkok: Dosis, Akses, dan Risiko
+- **Subtitle:** Pelajari perbedaan antibodi bispesifik kanker, termasuk penghubung sel T CD3, pengujian target, dosis bertahap, CRS, risiko infeksi, dan verifikasi Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -174,11 +176,13 @@ Hanya jika protokol atau tim yang merawat mengizinkan dan pusat berkualifikasi d
 ## SEO Metadata
 
 - **Slug:** `bispecific-antibodies-in-cancer-care-a-patient-guide`
-- **Meta title:** Antibodi Bispesifik: Target, Dosis Bertahap, dan Risiko
-- **Meta description:** Pelajari perbedaan antibodi bispesifik kanker, termasuk penghubung sel T CD3, pengujian target, dosis bertahap, CRS, risiko infeksi, dan verifikasi Tiongkok.
 - **Primary keyword:** antibodi bispesifik pengobatan kanker
 - **Secondary keywords:** penghubung sel T bispesifik; antibodi bispesifik Tiongkok; peningkatan dosis bertahap; CRS ICANS; infeksi antibodi bispesifik
 - **Search intent:** perbandingan pengobatan antibodi bispesifik / skrining uji
+
+
+- **Meta title:** Antibodi Bispesifik di Tiongkok: Dosis, Akses, dan Risiko
+- **Meta description:** Pelajari perbedaan antibodi bispesifik kanker, termasuk penghubung sel T CD3, pengujian target, dosis bertahap, CRS, risiko infeksi, dan verifikasi Tiongkok.
 
 ## Sumber
 

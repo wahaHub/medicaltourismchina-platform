@@ -1,12 +1,14 @@
-# Parkinson's Disease Types: How Age at Onset, Tremor, and Gait Problems Affect Care
+# Parkinson’s Types and Risk: Preparing for Care in China
 
 ## Hero
 
-- **Title:** Parkinson's Disease Types: How Age at Onset, Tremor, and Gait Problems Affect Care
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Parkinson Disease
-- **Subtitle:** Patients often hope that a subtype will explain the future: Does tremor-dominant disease stay mild?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Parkinson’s Types and Risk: Preparing for Care in China
+- **Subtitle:** Understand Parkinson’s age at onset, symptom patterns and risk, with questions to make a consultation in China clinically useful.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Information checked: September 9, 2026. A clinical team should interpret subtype
 ## SEO Metadata
 
 - **Primary keyword:** Parkinson's disease types and risk assessment
+
+- **Meta title:** Parkinson’s Types and Risk: Preparing for Care in China
+- **Meta description:** Understand Parkinson’s age at onset, symptom patterns and risk, with questions to make a consultation in China clinically useful.

@@ -1,15 +1,17 @@
-# Perjalanan Medis dengan Penyakit Jantung: Kondisi Harus Tetap Stabil Sepanjang Rencana Perjalanan
+# Perjalanan Medis ke Tiongkok dengan Penyakit Jantung: Persiapan
 
 ## Hero
 
-- **Title:** Perjalanan Medis dengan Penyakit Jantung: Kondisi Harus Tetap Stabil Sepanjang Rencana Perjalanan
 - **Category:** Edukasi Pasien & Pertanyaan yang Sering Diajukan
 - **Subcategory:** Kondisi Kronis & Perjalanan
-- **Subtitle:** Rencana sesuai rute untuk penyakit koroner, gagal jantung, gangguan irama, prosedur baru-baru ini, perangkat jantung, oksigen, dan keadaan darurat dalam perjalanan.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Pasangan meninjau ringkasan medis jantung, obat, dan kalender pengobatan sebelum terbang ke rumah sakit
+
+
+- **Title:** Perjalanan Medis ke Tiongkok dengan Penyakit Jantung: Persiapan
+- **Subtitle:** Persiapkan perjalanan medis dengan penyakit jantung: izin, rekam EKG, obat, oksigen, perangkat jantung, risiko bekuan, dan tindakan darurat.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Tekanan dada baru atau memburuk, sesak napas berat, pingsan, jantung berdebar menetap disertai kelemahan, gejala strok, atau kejutan defibrilator implan disertai gejala berkelanjutan memerlukan perawatan setempat segera.
 
 ## Content
+
+Jika Anda memiliki penyakit jantung dan mempertimbangkan perjalanan medis ke Tiongkok, bawalah diagnosis yang tepat, riwayat kejadian terkini, dan rute lengkap untuk penilaian sebelum perjalanan. Rencana harus mencakup kesinambungan obat, bantuan saat berpindah moda atau tempat, serta tindakan jika gejala berubah sebelum atau selama perjalanan.
+
 
 Kunjungan klinik yang tenang tidak membuktikan bahwa pasien mampu menghadapi dua bandara, penerbangan sambungan yang terlewat, dan kota asing. Izin perjalanan bagi pasien jantung harus menilai rencana perjalanan berdasarkan cadangan kemampuan pasien saat ini serta menyediakan rencana jika terjadi masalah.
 
@@ -104,11 +109,13 @@ Tekanan dada baru, sesak napas berat, pingsan, tanda strok, jantung berdebar ber
 
 ## SEO Metadata
 
-- **SEO title:** Perjalanan Medis dengan Penyakit Jantung: Persiapan Aman
-- **Meta description:** Persiapkan perjalanan medis dengan penyakit jantung: izin, rekam EKG, obat, oksigen, perangkat jantung, risiko bekuan, dan tindakan darurat.
 - **Primary keyword:** perjalanan medis dengan penyakit jantung
 - **Secondary keywords:** terbang dengan penyakit jantung, perjalanan setelah stent jantung, perjalanan udara gagal jantung, alat pacu jantung keamanan bandara, izin perjalanan pasien jantung
 - **Suggested URL slug:** `/medical-travel-heart-disease-safely`
+
+
+- **Meta title:** Perjalanan Medis ke Tiongkok dengan Penyakit Jantung: Persiapan
+- **Meta description:** Persiapkan perjalanan medis dengan penyakit jantung: izin, rekam EKG, obat, oksigen, perangkat jantung, risiko bekuan, dan tindakan darurat.
 
 ## Sumber
 

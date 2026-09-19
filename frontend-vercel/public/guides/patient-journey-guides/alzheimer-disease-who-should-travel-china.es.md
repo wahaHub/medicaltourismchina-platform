@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Debería una persona con enfermedad de Alzheimer viajar a China para recibir atención?
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Enfermedad de Alzheimer
-- **Subtitle:** Una familia que considera recibir atención en otro país necesita más que una cita disponible.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Debería una persona con enfermedad de Alzheimer viajar a China para recibir atención?
+- **Subtitle:** Valore una visita por Alzheimer a China según la pregunta clínica, la fase de enfermedad, los retos del viaje y la continuidad de los cuidados necesarios.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ La decisión de viajar debe seguir adaptándose al estado, las preferencias y la
 ## SEO Metadata
 
 - **Primary keyword:** viaje médico a China por enfermedad de Alzheimer
+
+- **Meta title:** ¿Debería una persona con enfermedad de Alzheimer viajar a China para recibir atención?
+- **Meta description:** Valore una visita por Alzheimer a China según la pregunta clínica, la fase de enfermedad, los retos del viaje y la continuidad de los cuidados necesarios.

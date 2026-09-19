@@ -1,15 +1,17 @@
-# Nyeri Dada Saat Bepergian: Hentikan Perjalanan dan Mulai Perawatan Darurat Setempat
+# Nyeri Dada Saat Bepergian di Tiongkok: Cari Pertolongan Darurat
 
 ## Hero
 
-- **Title:** Nyeri Dada Saat Bepergian: Hentikan Perjalanan dan Mulai Perawatan Darurat Setempat
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Gejala & Perawatan Mendesak
-- **Subtitle:** Mengapa penerbangan yang sudah dipesan, rumah sakit pilihan, atau dokter luar negeri tidak boleh menunda penilaian darurat—dan apa yang harus dilakukan pelancong atau pendamping pada menit-menit pertama.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Pengganti yang direncanakan menampilkan pelancong dengan nyeri dada sementara pendamping menghubungi layanan darurat dan respons ambulans dimulai
+
+
+- **Title:** Nyeri Dada Saat Bepergian di Tiongkok: Cari Pertolongan Darurat
+- **Subtitle:** Hentikan perjalanan, hubungi layanan darurat setempat, hindari mengemudi sendiri, dan pahami mengapa nyeri dada perlu dinilai setempat sebelum penerbangan atau rumah sakit jauh.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -156,13 +158,15 @@ Tidak berdasarkan fakta itu saja. Tanyakan kepada tim yang merawat apakah evalua
 ## SEO Metadata
 
 - **Slug:** `chest-pain-while-traveling-why-immediate-local-care-matters`
-- **Meta title:** Nyeri Dada Saat Bepergian: Hubungi Perawatan Darurat Setempat
-- **Meta description:** Hentikan perjalanan, hubungi layanan darurat setempat, hindari mengemudi sendiri, dan pahami mengapa nyeri dada perlu dinilai setempat sebelum penerbangan atau rumah sakit jauh.
 - **Primary keyword:** nyeri dada saat bepergian
 - **Pillar keyword:** keselamatan pasien selama perjalanan medis
 - **Vertical keyword:** darurat nyeri dada bandara
 - **Search intent:** panduan darurat pasien
 - **Secondary keywords:** nyeri dada di pesawat; hubungi 120 China; emboli paru setelah penerbangan; serangan jantung di luar negeri; nyeri dada jangan mengemudi
+
+
+- **Meta title:** Nyeri Dada Saat Bepergian di Tiongkok: Cari Pertolongan Darurat
+- **Meta description:** Hentikan perjalanan, hubungi layanan darurat setempat, hindari mengemudi sendiri, dan pahami mengapa nyeri dada perlu dinilai setempat sebelum penerbangan atau rumah sakit jauh.
 
 ## Sumber
 

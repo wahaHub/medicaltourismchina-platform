@@ -1,12 +1,14 @@
-# Memilih pengobatan pertama untuk limfoma sel T: diagnosis, regimen, dan perencanaan respons
+# Pengobatan Lini Pertama Limfoma Sel T di Tiongkok: Perencanaan Perawatan
 
 ## Hero
 
-- **Title:** Memilih pengobatan pertama untuk limfoma sel T: diagnosis, regimen, dan perencanaan respons
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel T
-- **Subtitle:** Pada pembahasan pengobatan pertama, pasien sering menanyakan obat mana yang paling kuat, apakah transplantasi tidak terelakkan, dan seberapa cepat pengobatan harus dimulai.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Lini Pertama Limfoma Sel T di Tiongkok: Perencanaan Perawatan
+- **Subtitle:** Siapkan pengobatan pertama limfoma sel T di Tiongkok berdasarkan subtipe, regimen lengkap, dan rencana evaluasi respons bersama tim spesialis.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ Rencana awal harus berupa dokumen yang dapat diperbarui: alasan pemilihan regime
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan lini pertama untuk limfoma sel T
+
+- **Meta title:** Pengobatan Lini Pertama Limfoma Sel T di Tiongkok: Perencanaan Perawatan
+- **Meta description:** Siapkan pengobatan pertama limfoma sel T di Tiongkok berdasarkan subtipe, regimen lengkap, dan rencana evaluasi respons bersama tim spesialis.

@@ -1,12 +1,14 @@
-# Wie geht es bei rezidiviertem oder refraktärem T-Zell-Lymphom weiter? Veränderungen bestätigen und die nächste Therapielinie planen
+# Rezidiviertes T-Zell-Lymphom in China: Beurteilung und Folgetherapie
 
 ## Hero
 
-- **Title:** Wie geht es bei rezidiviertem oder refraktärem T-Zell-Lymphom weiter? Veränderungen bestätigen und die nächste Therapielinie planen
 - **Category:** Behandlungsratgeber
 - **Subcategory:** T-Zell-Lymphom
-- **Subtitle:** Ein neuer Knoten oder die Beurteilung eines unzureichenden Ansprechens kann Patienten dazu bringen, dringend nach einem anderen Medikament zu suchen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rezidiviertes T-Zell-Lymphom in China: Beurteilung und Folgetherapie
+- **Subtitle:** Bei rezidiviertem T-Zell-Lymphom in China neu beurteilen: Rückfallbestätigung, erneute Biopsie, Vorbehandlungen und Ziel der nächsten Therapielinie klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -121,3 +123,6 @@ Bewahren Sie nach der Beratung einen aktuellen Plan auf, der die nächste Maßna
 ## SEO Metadata
 
 - **Primary keyword:** Behandlung rezidivierter refraktärer T-Zell-Lymphome
+
+- **Meta title:** Rezidiviertes T-Zell-Lymphom in China: Beurteilung und Folgetherapie
+- **Meta description:** Bei rezidiviertem T-Zell-Lymphom in China neu beurteilen: Rückfallbestätigung, erneute Biopsie, Vorbehandlungen und Ziel der nächsten Therapielinie klären.

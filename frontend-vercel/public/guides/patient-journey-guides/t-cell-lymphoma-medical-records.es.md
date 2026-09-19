@@ -1,12 +1,14 @@
-# Preparación de los registros del linfoma de células T para una derivación: documentar el diagnóstico y cada línea de tratamiento
+# Documentación de linfoma de células T para una derivación a China
 
 ## Hero
 
-- **Title:** Preparación de los registros del linfoma de células T para una derivación: documentar el diagnóstico y cada línea de tratamiento
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Linfoma de células T
-- **Subtitle:** Un expediente debe ayudar al médico receptor a localizar la información que cambia una decisión.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Documentación de linfoma de células T para una derivación a China
+- **Subtitle:** Organice una derivación por linfoma de células T a China con biopsias rastreables, informes moleculares, imágenes y cada línea de tratamiento recibida.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Un registro bien preparado muestra cómo se llegó al diagnóstico, qué tratami
 ## SEO Metadata
 
 - **Primary keyword:** registros médicos del linfoma de células T para derivación
+
+- **Meta title:** Documentación de linfoma de células T para una derivación a China
+- **Meta description:** Organice una derivación por linfoma de células T a China con biopsias rastreables, informes moleculares, imágenes y cada línea de tratamiento recibida.

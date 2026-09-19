@@ -1,12 +1,14 @@
-# Nuevos tratamientos y ensayos clínicos para epilepsia farmacorresistente: interpretar los avances de 2026
+# Epilepsia farmacorresistente: nuevos tratamientos y ensayos en China
 
 ## Hero
 
-- **Title:** Nuevos tratamientos y ensayos clínicos para epilepsia farmacorresistente: interpretar los avances de 2026
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Epilepsia farmacorresistente
-- **Subtitle:** Una cifra llamativa en un anuncio de tratamiento nuevo no responde si ese tratamiento es adecuado para un paciente concreto.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Epilepsia farmacorresistente: nuevos tratamientos y ensayos en China
+- **Subtitle:** Comprenda qué aportan los nuevos fármacos y ensayos de epilepsia farmacorresistente y cómo verificar la indicación y la participación en centros de China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Para una consulta en China, lleve los documentos personales pertinentes y enlace
 ## SEO Metadata
 
 - **Primary keyword:** nuevos tratamientos para epilepsia farmacorresistente; ensayos clínicos de epilepsia; azetukalner; zorevunersen; investigación de epilepsia en China
+
+- **Meta title:** Epilepsia farmacorresistente: nuevos tratamientos y ensayos en China
+- **Meta description:** Comprenda qué aportan los nuevos fármacos y ensayos de epilepsia farmacorresistente y cómo verificar la indicación y la participación en centros de China.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Sollten Sie zur Versorgung eines follikulären Lymphoms nach China reisen?
 - **Category:** Leitfäden zum Patientenweg
 - **Subcategory:** Follikuläres Lymphom
-- **Subtitle:** Eine Reise zur Versorgung eines follikulären Lymphoms ist am sinnvollsten, wenn sie eine klar definierte Lücke im aktuellen Plan schließen kann.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sollten Sie zur Versorgung eines follikulären Lymphoms nach China reisen?
+- **Subtitle:** Eine Reise bei follikulärem Lymphom nach China abwägen: Beratungsziel, Therapiephase, Infektionsrisiken, klinische Stabilität und Rückkehrplan berücksichtigen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Vor der Abreise sollten Sie einen bestätigten Termin, einen akzeptierten Weg zu
 ## SEO Metadata
 
 - **Primary keyword:** wer zur Behandlung eines follikulären Lymphoms nach China reisen sollte
+
+- **Meta title:** Sollten Sie zur Versorgung eines follikulären Lymphoms nach China reisen?
+- **Meta description:** Eine Reise bei follikulärem Lymphom nach China abwägen: Beratungsziel, Therapiephase, Infektionsrisiken, klinische Stabilität und Rückkehrplan berücksichtigen.

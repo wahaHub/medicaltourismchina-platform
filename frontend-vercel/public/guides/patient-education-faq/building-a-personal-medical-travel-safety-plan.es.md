@@ -1,15 +1,17 @@
-# Un plan personal de seguridad para viajes médicos que siga funcionando cuando algo cambie
+# Viajes médicos a China: plan personal de seguridad y alternativas
 
 ## Hero
 
-- **Title:** Un plan personal de seguridad para viajes médicos que siga funcionando cuando algo cambie
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Toma de decisiones del paciente y apoyo al cuidador
-- **Subtitle:** Prepare un registro compacto de riesgos, puntos de decisión, una cadena de contactos y una alternativa para los fallos clínicos, del viaje y de la recuperación más importantes.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un paciente y su acompañante elaboran una lista de comprobación para un viaje médico junto a un calendario, una ruta al hospital, documentos y equipaje
+
+
+- **Title:** Viajes médicos a China: plan personal de seguridad y alternativas
+- **Subtitle:** Prepare un registro de riesgos del viaje médico, puntos de decisión, contactos de urgencia, documentos, contingencias de medicación, seguro y alternativas de recuperación.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Pruebe el plan antes de viajar. Si el acompañante no puede abrir la lista de alergias sin conexión o explicar a quién llamar a las 2 de la madrugada, el plan no está terminado.
 
 ## Content
+
+Antes de un viaje médico a China, acuerde quién se ocupará de un cambio en el diagnóstico, un retraso del alta o un síntoma urgente. Utilice esta guía para convertir los contactos hospitalarios, los medicamentos, la documentación y las alternativas de viaje en un plan que el paciente y su acompañante puedan utilizar en la práctica.
+
 
 La mayoría de los planes de viaje funcionan cuando el diagnóstico se mantiene, los vuelos salen a tiempo, el paciente se recupera rápido y todos los teléfonos tienen señal. Un plan de seguridad empieza con la pregunta opuesta: ¿qué fallo individual causaría más daño y qué haremos antes de que se convierta en una crisis?
 
@@ -196,11 +201,13 @@ Después de cualquier cambio de diagnóstico, estado, medicación, tratamiento, 
 
 ## SEO Metadata
 
-- **SEO title:** Plan personal de seguridad para viajes médicos: guía de riesgos y alternativas
-- **Meta description:** Prepare un registro de riesgos del viaje médico, puntos de decisión, contactos de urgencia, documentos, contingencias de medicación, seguro y alternativas de recuperación.
 - **Primary keyword:** plan personal de seguridad para viajes médicos
 - **Secondary keywords:** lista de seguridad para turismo médico, plan de urgencias para tratamiento extranjero, registro de riesgos de viaje médico, plan de respaldo del paciente internacional, seguridad del tratamiento en el extranjero
 - **Suggested URL slug:** `/personal-medical-travel-safety-plan`
+
+
+- **Meta title:** Viajes médicos a China: plan personal de seguridad y alternativas
+- **Meta description:** Prepare un registro de riesgos del viaje médico, puntos de decisión, contactos de urgencia, documentos, contingencias de medicación, seguro y alternativas de recuperación.
 
 ## Fuentes
 

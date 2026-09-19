@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** How long does thalassemia treatment take? Transfusion cycles, medication assessment, and time needed in China
 - **Category:** Treatment Guides
 - **Subcategory:** Thalassemia
-- **Subtitle:** Asking how long treatment takes can mean the length of a clinic visit, the possibility of stopping medicine in the future, or the point at which someone can travel home after transplantation.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** How long does thalassemia treatment take? Transfusion cycles, medication assessment, and time needed in China
+- **Subtitle:** Estimate time in China for thalassemia care by separating transfusion needs, medicine assessment, procedures and continuing monitoring.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -147,3 +149,6 @@ Treatment duration varies with the intervention and the individual's course. Red
 ## SEO Metadata
 
 - **Primary keyword:** thalassemia treatment duration; transfusion intervals; transplant recovery time; treatment stay in China
+
+- **Meta title:** How long does thalassemia treatment take? Transfusion cycles, medication assessment, and time needed in China
+- **Meta description:** Estimate time in China for thalassemia care by separating transfusion needs, medicine assessment, procedures and continuing monitoring.

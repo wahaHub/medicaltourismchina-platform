@@ -1,12 +1,14 @@
-# Strahlen- und Geräteinterventionen bei Alzheimer: Fokussierter Ultraschall, Magnetstimulation und sensorische Therapie
+# Strahlen- und Geräteforschung bei Alzheimer: Versorgung in China prüfen
 
 ## Hero
 
-- **Title:** Strahlen- und Geräteinterventionen bei Alzheimer: Fokussierter Ultraschall, Magnetstimulation und sensorische Therapie
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Alzheimer-Krankheit
-- **Subtitle:** Beschreibungen wie „nicht invasiv“, „Präzisionsstimulation“ und „Öffnung der Blut-Hirn-Schranke“ können sehr unterschiedliche Technologien meinen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Strahlen- und Geräteforschung bei Alzheimer: Versorgung in China prüfen
+- **Subtitle:** Strahlen- und Geräteansätze bei Alzheimer für China prüfen: konkrete Technologie, Studiengröße, gemessene Ergebnisse und Grenzen der klinischen Evidenz einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,3 +142,6 @@ Kümmern Sie sich weiterhin um Essen, Bewegung, Schlaf, häusliche Sicherheit un
 ## SEO Metadata
 
 - **Primary keyword:** interventionelle Behandlung der Alzheimer-Krankheit
+
+- **Meta title:** Strahlen- und Geräteforschung bei Alzheimer: Versorgung in China prüfen
+- **Meta description:** Strahlen- und Geräteansätze bei Alzheimer für China prüfen: konkrete Technologie, Studiengröße, gemessene Ergebnisse und Grenzen der klinischen Evidenz einordnen.

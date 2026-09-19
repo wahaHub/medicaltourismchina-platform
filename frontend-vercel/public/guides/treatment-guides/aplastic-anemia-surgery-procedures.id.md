@@ -1,12 +1,14 @@
-# Prosedur untuk anemia aplastik: pengambilan sampel sumsum tulang, akses vaskular, dan transplantasi
+# Prosedur Anemia Aplastik di Tiongkok: Pemeriksaan Sumsum Tulang dan Transplantasi
 
 ## Hero
 
-- **Title:** Prosedur untuk anemia aplastik: pengambilan sampel sumsum tulang, akses vaskular, dan transplantasi
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Anemia Aplastik
-- **Subtitle:** Prosedur untuk anemia aplastik: pengambilan sampel sumsum tulang, akses vaskular, dan transplantasi
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prosedur Anemia Aplastik di Tiongkok: Pemeriksaan Sumsum Tulang dan Transplantasi
+- **Subtitle:** Pahami pemeriksaan sumsum, akses vaskular, dan tahapan transplantasi untuk anemia aplastik. Siapkan donor, pasien, serta pertanyaan prosedur di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Jadwal juga harus memisahkan peninjauan diagnostik, konfirmasi donor, persiapan 
 ## SEO Metadata
 
 - **Primary keyword:** prosedur transplantasi sel punca anemia aplastik
+
+- **Meta title:** Prosedur Anemia Aplastik di Tiongkok: Pemeriksaan Sumsum Tulang dan Transplantasi
+- **Meta description:** Pahami pemeriksaan sumsum, akses vaskular, dan tahapan transplantasi untuk anemia aplastik. Siapkan donor, pasien, serta pertanyaan prosedur di Tiongkok.

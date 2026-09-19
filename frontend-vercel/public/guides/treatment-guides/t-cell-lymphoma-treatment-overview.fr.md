@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Où commence le traitement du lymphome T : sous-type, traitement initial et soins en Chine
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Lymphome T
-- **Subtitle:** Après un diagnostic de lymphome T, la première question utile est de savoir quelle maladie ce nom désigne.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Où commence le traitement du lymphome T : sous-type, traitement initial et soins en Chine
+- **Subtitle:** Comprenez le début des soins du lymphome T en Chine : sous-type exact, bilan d’extension, état général, choix initial et décisions après la réponse.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Après la première discussion complète, vous devriez pouvoir identifier le sou
 ## SEO Metadata
 
 - **Primary keyword:** traitement du lymphome T
+
+- **Meta title:** Où commence le traitement du lymphome T : sous-type, traitement initial et soins en Chine
+- **Meta description:** Comprenez le début des soins du lymphome T en Chine : sous-type exact, bilan d’extension, état général, choix initial et décisions après la réponse.

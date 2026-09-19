@@ -1,15 +1,17 @@
-# 135 Intérpretes médicos en las consultas: mantenga la conversación entre paciente y profesional
+# Utilizar un intérprete médico en China | Guía para la consulta
 
 ## Hero
 
-- **Title:** Intérpretes médicos en las consultas: mantenga la conversación entre paciente y profesional
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Consultas con interpretación y seguridad de la comunicación
-- **Subtitle:** Una buena visita con interpretación no son tres conversaciones separadas. El paciente y el profesional hablan entre sí mientras el intérprete transmite cada pregunta, matiz, cifra e incertidumbre de un idioma a otro.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Ilustración editorial de un paciente y un acompañante hablando con un profesional mediante un intérprete sentado; las funciones son conceptuales y no identifican a ningún hospital ni persona reales.
+
+
+- **Title:** Utilizar un intérprete médico en China | Guía para la consulta
+- **Subtitle:** Una buena visita con interpretación no son tres conversaciones separadas. El paciente y el profesional hablan entre sí mientras el intérprete transmite cada pregunta, matiz, cifra e incertidumbre de un idioma a otro.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -183,13 +185,15 @@ Explique con sus propias palabras el diagnóstico de trabajo, los cambios de med
 ## SEO Metadata
 
 - **Slug:** `working-with-a-medical-interpreter-during-appointments`
-- **Meta title:** Utilizar un intérprete médico en China | Guía para la consulta
-- **Meta description:** Organice una consulta médica con interpretación con funciones claras, turnos breves, hablantes identificados, medicamentos comprobados dos veces, verificación de la comprensión y un registro escrito de decisiones.
 - **Primary keyword:** consulta con intérprete médico en China
 - **Pillar keyword:** viaje médico a China
 - **Vertical keyword:** consulta médica con interpretación
 - **Search intent:** preparación de la consulta / seguridad de la comunicación
 - **Secondary keywords:** intérprete sanitario en China; consulta con interpretación médica; comprobación de la comprensión con intérprete; consentimiento médico traducido; comunicación con pacientes internacionales
+
+
+- **Meta title:** Utilizar un intérprete médico en China | Guía para la consulta
+- **Meta description:** Organice una consulta médica con interpretación con funciones claras, turnos breves, hablantes identificados, medicamentos comprobados dos veces, verificación de la comprensión y un registro escrito de decisiones.
 
 ## Fuentes
 

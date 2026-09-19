@@ -1,12 +1,14 @@
-# Pruebas ante sospecha de talasemia: del hemograma a la confirmación de hemoglobina y genética
+# Diagnóstico de talasemia en China: análisis de sangre y pruebas genéticas
 
 ## Hero
 
-- **Title:** Pruebas ante sospecha de talasemia: del hemograma a la confirmación de hemoglobina y genética
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Talasemia
-- **Subtitle:** Un tamaño pequeño de glóbulos rojos en un hemograma rutinario, palidez persistente en un niño y un resultado positivo de portador durante el embarazo plantean preguntas clínicas distintas.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnóstico de talasemia en China: análisis de sangre y pruebas genéticas
+- **Subtitle:** Distinga hemograma, estudio de hierro, análisis de hemoglobina y confirmación genética de talasemia para preparar una evaluación diagnóstica en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,3 +142,6 @@ Falta de aire marcada, desmayo o un niño con enfermedad aguda requieren evaluac
 ## SEO Metadata
 
 - **Primary keyword:** diagnóstico de talasemia; cribado de talasemia; análisis de hemoglobina; pruebas genéticas; anemia microcítica
+
+- **Meta title:** Diagnóstico de talasemia en China: análisis de sangre y pruebas genéticas
+- **Meta description:** Distinga hemograma, estudio de hierro, análisis de hemoglobina y confirmación genética de talasemia para preparar una evaluación diagnóstica en China.

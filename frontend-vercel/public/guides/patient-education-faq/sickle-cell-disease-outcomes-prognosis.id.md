@@ -1,12 +1,14 @@
-# Luaran Apa yang Mungkin pada Penyakit Sel Sabit? Memahami Kelangsungan Hidup, Respons Pengobatan, dan Prognosis Pribadi
+# Prognosis Penyakit Sel Sabit: Pertanyaan untuk Perawatan di Tiongkok
 
 ## Hero
 
-- **Title:** Luaran Apa yang Mungkin pada Penyakit Sel Sabit? Memahami Kelangsungan Hidup, Respons Pengobatan, dan Prognosis Pribadi
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Penyakit Sel Sabit
-- **Subtitle:** “Berapa lama saya akan hidup?”, “Apakah saya akan dapat bekerja?”, dan “Apa yang akan terjadi saat anak saya tumbuh dewasa?” adalah pertanyaan praktis dalam perawatan sel sabit.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prognosis Penyakit Sel Sabit: Pertanyaan untuk Perawatan di Tiongkok
+- **Subtitle:** Pahami prognosis penyakit sel sabit melalui riwayat klinis, genotipe, dan respons. Siapkan pertanyaan tentang fungsi serta perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Pasien berhak atas ketidakpastian yang disampaikan jujur dan langkah berikutnya 
 ## SEO Metadata
 
 - **Primary keyword:** prognosis dan luaran pengobatan penyakit sel sabit
+
+- **Meta title:** Prognosis Penyakit Sel Sabit: Pertanyaan untuk Perawatan di Tiongkok
+- **Meta description:** Pahami prognosis penyakit sel sabit melalui riwayat klinis, genotipe, dan respons. Siapkan pertanyaan tentang fungsi serta perawatan di Tiongkok.

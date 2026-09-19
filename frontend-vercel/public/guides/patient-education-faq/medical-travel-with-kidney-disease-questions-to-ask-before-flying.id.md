@@ -1,15 +1,17 @@
-# Perjalanan Medis dengan Penyakit Ginjal: Penerbangan Adalah Bagian Singkat dari Rencana
+# Perjalanan Medis ke Tiongkok dengan Penyakit Ginjal: Merencanakan Perawatan
 
 ## Hero
 
-- **Title:** Perjalanan Medis dengan Penyakit Ginjal: Penerbangan Adalah Bagian Singkat dari Rencana
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Kondisi Kronis & Perjalanan
-- **Subtitle:** Pertanyaan bagi orang dengan CKD, dialisis, atau transplantasi ginjal mengenai kestabilan hasil laboratorium, batas cairan, obat, jadwal pengobatan, dan cadangan darurat.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Pasien dan pendamping meninjau jadwal perawatan ginjal dan dokumen perjalanan di antara bandara dan rumah sakit
+
+
+- **Title:** Perjalanan Medis ke Tiongkok dengan Penyakit Ginjal: Merencanakan Perawatan
+- **Subtitle:** Rencanakan perjalanan medis dengan CKD, dialisis, atau transplantasi ginjal: catatan, jadwal pengobatan, batas cairan, obat, perawatan akses, dan keadaan darurat.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Urine berkurang, pembengkakan atau berat badan yang meningkat cepat, sesak napas berat, nyeri dada, kebingungan, muntah menetap, kelemahan otot/palpitasi, atau keadaan darurat akses dialisis memerlukan penilaian setempat segera.
 
 ## Content
+
+Untuk perjalanan medis ke Tiongkok dengan penyakit ginjal, konfirmasikan layanan penerima dan rencana perawatan ginjal sebelum memesan perjalanan. Pengaturan dialisis, tinjauan obat, perlindungan akses, dan serah terima yang dapat digunakan perlu disesuaikan dengan masing-masing pasien, bukan diasumsikan sudah terpenuhi hanya karena ada reservasi rumah sakit.
+
 
 Bagi seseorang dengan penyakit ginjal, pesawat sering merupakan bagian perjalanan medis yang paling dapat diprediksi. Kerentanan sebenarnya adalah sesi dialisis yang terlewat, perubahan kalium yang tidak dikenali, penumpukan obat, rencana cairan yang disalin dari pasien yang keliru, atau penyakit akut jauh dari tim nefrologi di negara asal.
 
@@ -143,11 +148,13 @@ Hilangnya getaran fistula/graft, perdarahan tidak terkendali, pembengkakan cepat
 
 ## SEO Metadata
 
-- **SEO title:** Perjalanan Medis dengan Penyakit Ginjal: Pertanyaan Sebelum Terbang
-- **Meta description:** Rencanakan perjalanan medis dengan CKD, dialisis, atau transplantasi ginjal: catatan, jadwal pengobatan, batas cairan, obat, perawatan akses, dan keadaan darurat.
 - **Primary keyword:** perjalanan medis dengan penyakit ginjal
 - **Secondary keywords:** terbang dengan CKD, perencanaan perjalanan dialisis, dialisis peritoneal di luar negeri, perjalanan transplantasi ginjal, daftar periksa perjalanan obat ginjal
 - **Suggested URL slug:** `/medical-travel-kidney-disease-flying`
+
+
+- **Meta title:** Perjalanan Medis ke Tiongkok dengan Penyakit Ginjal: Merencanakan Perawatan
+- **Meta description:** Rencanakan perjalanan medis dengan CKD, dialisis, atau transplantasi ginjal: catatan, jadwal pengobatan, batas cairan, obat, perawatan akses, dan keadaan darurat.
 
 ## Sumber
 

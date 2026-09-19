@@ -1,15 +1,17 @@
-# Douleur thoracique en voyage : interrompre le trajet et engager les soins d'urgence locaux
+# Douleur thoracique pendant un voyage en Chine : consulter en urgence
 
 ## Hero
 
-- **Title:** Douleur thoracique en voyage : interrompre le trajet et engager les soins d'urgence locaux
 - **Category:** Éducation des patients et questions fréquentes
 - **Subcategory:** Symptômes et soins urgents
-- **Subtitle:** Pourquoi un vol réservé, un hôpital préféré ou un médecin à l'étranger ne doivent pas retarder l'évaluation d'urgence, et ce que le voyageur ou son accompagnant doivent faire dans les premières minutes.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Remplacement prévu montrant un voyageur souffrant de douleur thoracique tandis qu'un accompagnant appelle les secours et qu'une intervention en ambulance débute
+
+
+- **Title:** Douleur thoracique pendant un voyage en Chine : consulter en urgence
+- **Subtitle:** Interrompez le voyage, appelez les secours locaux, évitez de conduire et comprenez pourquoi la douleur thoracique nécessite une évaluation locale avant un vol ou un hôpital éloigné.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -156,13 +158,15 @@ Pas sur ce seul élément. Demandez à l'équipe traitante si l'évaluation est 
 ## SEO Metadata
 
 - **Slug:** `chest-pain-while-traveling-why-immediate-local-care-matters`
-- **Meta title:** Douleur thoracique en voyage : appelez les secours locaux
-- **Meta description:** Interrompez le voyage, appelez les secours locaux, évitez de conduire et comprenez pourquoi la douleur thoracique nécessite une évaluation locale avant un vol ou un hôpital éloigné.
 - **Primary keyword:** douleur thoracique en voyage
 - **Pillar keyword:** sécurité des patients pendant un voyage médical
 - **Vertical keyword:** douleur thoracique aéroport urgence
 - **Search intent:** conseils d'urgence aux patients
 - **Secondary keywords:** douleur thoracique en avion ; appeler le 120 Chine ; embolie pulmonaire après un vol ; infarctus à l'étranger ; douleur thoracique ne pas conduire
+
+
+- **Meta title:** Douleur thoracique pendant un voyage en Chine : consulter en urgence
+- **Meta description:** Interrompez le voyage, appelez les secours locaux, évitez de conduire et comprenez pourquoi la douleur thoracique nécessite une évaluation locale avant un vol ou un hôpital éloigné.
 
 ## Sources
 

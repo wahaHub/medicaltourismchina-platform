@@ -1,12 +1,14 @@
-# Aplastic anemia prognosis: response, relapse, and long-term recovery
+# Aplastic Anemia Prognosis: Questions for Care in China
 
 ## Hero
 
-- **Title:** Aplastic anemia prognosis: response, relapse, and long-term recovery
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Aplastic Anemia
-- **Subtitle:** “Can it be cured?” can mean surviving the current danger, stopping transfusions, coming off medicines, or returning to work and family life.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Aplastic Anemia Prognosis: Questions for Care in China
+- **Subtitle:** Understand aplastic anemia response, relapse and long-term recovery, with questions to make a prognosis consultation in China useful.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Consultation, pathology review, and further evaluation have center-specific sche
 ## SEO Metadata
 
 - **Primary keyword:** aplastic anemia prognosis
+
+- **Meta title:** Aplastic Anemia Prognosis: Questions for Care in China
+- **Meta description:** Understand aplastic anemia response, relapse and long-term recovery, with questions to make a prognosis consultation in China useful.

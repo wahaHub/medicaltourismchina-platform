@@ -1,12 +1,14 @@
-# Diagnostiquer l’aplasie médullaire : examens essentiels et investigations ciblées
+# Diagnostic de l’aplasie médullaire en Chine : examens et préparation
 
 ## Hero
 
-- **Title:** Diagnostiquer l’aplasie médullaire : examens essentiels et investigations ciblées
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Aplasie médullaire
-- **Subtitle:** Constater une baisse des globules rouges, des globules blancs et des plaquettes ne suffit pas à confirmer une aplasie médullaire.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnostic de l’aplasie médullaire en Chine : examens et préparation
+- **Subtitle:** Préparez le bilan d’aplasie médullaire en Chine : numération sanguine, prélèvements médullaires et examens ciblés pour écarter les maladies ressemblantes.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -101,3 +103,6 @@ Demandez des devis en renminbis distinguant consultation, relecture des lames, c
 ## SEO Metadata
 
 - **Primary keyword:** examens diagnostiques de l’aplasie médullaire
+
+- **Meta title:** Diagnostic de l’aplasie médullaire en Chine : examens et préparation
+- **Meta description:** Préparez le bilan d’aplasie médullaire en Chine : numération sanguine, prélèvements médullaires et examens ciblés pour écarter les maladies ressemblantes.

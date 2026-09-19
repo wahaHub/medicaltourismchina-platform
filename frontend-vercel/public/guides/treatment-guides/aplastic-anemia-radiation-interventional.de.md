@@ -1,12 +1,14 @@
-# Transfusionsunterstützung bei aplastischer Anämie: Bestrahlte Blutkomponenten, Reaktionen und Eisenbelastung
+# Transfusionen bei aplastischer Anämie in China: Sicherheit und Überwachung
 
 ## Hero
 
-- **Title:** Transfusionsunterstützung bei aplastischer Anämie: Bestrahlte Blutkomponenten, Reaktionen und Eisenbelastung
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Aplastische Anämie
-- **Subtitle:** „Noch eine Transfusion“ kann Erythrozyten oder Thrombozyten bedeuten, die unterschiedliche Zwecke erfüllen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Transfusionen bei aplastischer Anämie in China: Sicherheit und Überwachung
+- **Subtitle:** Transfusionen bei aplastischer Anämie in China verstehen: Blutkomponenten, Bestrahlung, Reaktionen, Thrombozytenansprechen und Eisenüberwachung besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ Die Unterstützungshäufigkeit kann sich zwischen anfänglichem Warten auf Anspr
 ## SEO Metadata
 
 - **Primary keyword:** Transfusionsunterstützung bei aplastischer Anämie
+
+- **Meta title:** Transfusionen bei aplastischer Anämie in China: Sicherheit und Überwachung
+- **Meta description:** Transfusionen bei aplastischer Anämie in China verstehen: Blutkomponenten, Bestrahlung, Reaktionen, Thrombozytenansprechen und Eisenüberwachung besprechen.

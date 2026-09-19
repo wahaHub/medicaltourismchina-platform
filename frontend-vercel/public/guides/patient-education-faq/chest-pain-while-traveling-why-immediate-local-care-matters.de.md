@@ -1,15 +1,17 @@
-# Brustschmerzen auf Reisen: Reise unterbrechen und örtliche Notfallversorgung einleiten
+# Brustschmerzen auf Reisen in China: Notfallversorgung aufsuchen
 
 ## Hero
 
-- **Title:** Brustschmerzen auf Reisen: Reise unterbrechen und örtliche Notfallversorgung einleiten
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Symptome & dringende Versorgung
-- **Subtitle:** Warum ein gebuchter Flug, ein bevorzugtes Krankenhaus oder ein Arzt im Ausland die Notfallabklärung nicht verzögern dürfen – und was Reisende oder Begleitpersonen in den ersten Minuten tun sollten.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Geplanter Bildersatz mit einem Reisenden mit Brustschmerzen, während eine Begleitperson den Rettungsdienst ruft und der Rettungswageneinsatz beginnt
+
+
+- **Title:** Brustschmerzen auf Reisen in China: Notfallversorgung aufsuchen
+- **Subtitle:** Reise unterbrechen, örtlichen Rettungsdienst rufen, nicht selbst fahren und verstehen, warum Brustschmerzen vor einem Flug oder entfernten Krankenhausbesuch örtlich abgeklärt werden müssen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -156,13 +158,15 @@ Nicht allein aufgrund dieser Tatsache. Fragen Sie das Behandlungsteam, ob die Ab
 ## SEO Metadata
 
 - **Slug:** `chest-pain-while-traveling-why-immediate-local-care-matters`
-- **Meta title:** Brustschmerzen auf Reisen: Örtlichen Rettungsdienst rufen
-- **Meta description:** Reise unterbrechen, örtlichen Rettungsdienst rufen, nicht selbst fahren und verstehen, warum Brustschmerzen vor einem Flug oder entfernten Krankenhausbesuch örtlich abgeklärt werden müssen.
 - **Primary keyword:** Brustschmerzen auf Reisen
 - **Pillar keyword:** Patientensicherheit auf medizinischen Reisen
 - **Vertical keyword:** Brustschmerzen Flughafen Notfall
 - **Search intent:** Notfallratgeber für Patienten
 - **Secondary keywords:** Brustschmerzen im Flugzeug; 120 in China anrufen; Lungenembolie nach Flug; Herzinfarkt im Ausland; bei Brustschmerzen nicht selbst fahren
+
+
+- **Meta title:** Brustschmerzen auf Reisen in China: Notfallversorgung aufsuchen
+- **Meta description:** Reise unterbrechen, örtlichen Rettungsdienst rufen, nicht selbst fahren und verstehen, warum Brustschmerzen vor einem Flug oder entfernten Krankenhausbesuch örtlich abgeklärt werden müssen.
 
 ## Quellen
 

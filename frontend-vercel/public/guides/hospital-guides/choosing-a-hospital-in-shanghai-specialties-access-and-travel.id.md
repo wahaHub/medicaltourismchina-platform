@@ -1,15 +1,17 @@
-# 102 Memilih Rumah Sakit di Shanghai: Spesialisasi, Akses, dan Perjalanan
+# Memilih Rumah Sakit di Tiongkok: Akses dan Perjalanan di Shanghai
 
 ## Hero
 
-- **Title:** Memilih Rumah Sakit di Shanghai: Spesialisasi, Akses, dan Perjalanan
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Perencanaan Perawatan Shanghai
-- **Subtitle:** Ubah nama rumah sakit Shanghai menjadi jalur klinis terverifikasi, rencana perjalanan dengan kampus yang tepat, dan rencana kedatangan hingga pulang yang dapat dijalankan.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustrasi konseptual pelancong internasional yang merencanakan akses rumah sakit di Shanghai; cakrawala kota, simbol kereta, dan rumah sakit tidak menunjukkan kampus atau rute nyata.
+
+
+- **Title:** Memilih Rumah Sakit di Tiongkok: Akses dan Perjalanan di Shanghai
+- **Subtitle:** Susun jalur medis Shanghai yang aman dengan memverifikasi tim spesialis, kampus tepat, layanan internasional, identitas paspor, pembayaran, bandara, dan serah terima pemulangan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -248,13 +250,15 @@ Tanyakan apakah rumah sakit dapat menyatukannya. Jika tidak, petakan transfer da
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-shanghai-specialties-access-and-travel`
-- **Meta title:** Memilih Rumah Sakit di Shanghai: Kampus, Akses, dan Perjalanan
-- **Meta description:** Susun jalur medis Shanghai yang aman dengan memverifikasi tim spesialis, kampus tepat, layanan internasional, identitas paspor, pembayaran, bandara, dan serah terima pemulangan.
 - **Primary keyword:** memilih rumah sakit di Shanghai
 - **Pillar keyword:** rumah sakit Shanghai untuk pasien internasional
 - **Vertical keyword:** akses perjalanan kampus rumah sakit Shanghai
 - **Search intent:** perbandingan rumah sakit / perencanaan perjalanan medis
 - **Secondary keywords:** layanan medis internasional Shanghai; janji rumah sakit Shanghai paspor; pemesanan rumah sakit Suishenban; perjalanan rumah sakit Pudong Hongqiao; kampus rumah sakit Shanghai
+
+
+- **Meta title:** Memilih Rumah Sakit di Tiongkok: Akses dan Perjalanan di Shanghai
+- **Meta description:** Susun jalur medis Shanghai yang aman dengan memverifikasi tim spesialis, kampus tepat, layanan internasional, identitas paspor, pembayaran, bandara, dan serah terima pemulangan.
 
 ## Sumber
 

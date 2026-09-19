@@ -1,12 +1,14 @@
-# Gestes dans le lymphome folliculaire : biopsie, accès veineux, examen médullaire et collecte cellulaire
+# Interventions pour le lymphome folliculaire en Chine : biopsie et préparation
 
 ## Hero
 
-- **Title:** Gestes dans le lymphome folliculaire : biopsie, accès veineux, examen médullaire et collecte cellulaire
 - **Category:** Guides de traitement
 - **Subcategory:** Lymphome folliculaire
-- **Subtitle:** Une personne atteinte de lymphome folliculaire peut subir une chirurgie ganglionnaire, un examen médullaire, la pose d’une chambre implantable ou une collecte cellulaire.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Interventions pour le lymphome folliculaire en Chine : biopsie et préparation
+- **Subtitle:** Préparez les gestes du lymphome folliculaire en Chine : biopsie, prélèvement médullaire, accès veineux et collecte cellulaire selon leur objectif.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ La durée d’hospitalisation, le temps nécessaire près de l’hôpital et l�
 ## SEO Metadata
 
 - **Primary keyword:** chirurgie et gestes du lymphome folliculaire
+
+- **Meta title:** Interventions pour le lymphome folliculaire en Chine : biopsie et préparation
+- **Meta description:** Préparez les gestes du lymphome folliculaire en Chine : biopsie, prélèvement médullaire, accès veineux et collecte cellulaire selon leur objectif.

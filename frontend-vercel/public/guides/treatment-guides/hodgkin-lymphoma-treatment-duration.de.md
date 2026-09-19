@@ -1,12 +1,14 @@
-# Wie lange dauert die Behandlung des Hodgkin-Lymphoms? Zyklen, PET-Kontrollpunkte, Bestrahlung und Reisen
+# Versorgung beim Hodgkin-Lymphom in China: Zyklen, PET-Kontrollen und Reise
 
 ## Hero
 
-- **Title:** Wie lange dauert die Behandlung des Hodgkin-Lymphoms? Zyklen, PET-Kontrollpunkte, Bestrahlung und Reisen
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Hodgkin-Lymphom
-- **Subtitle:** Die Frage nach der Dauer einer Hodgkin-Lymphom-Behandlung lässt sich nicht einfach mit einer Krankenhausaufenthaltsdauer beantworten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Versorgung beim Hodgkin-Lymphom in China: Zyklen, PET-Kontrollen und Reise
+- **Subtitle:** Hodgkin-Lymphom-Versorgung in China zeitlich planen: Zyklen, Zwischen-PET, Bestrahlungsvorbereitung, mögliche Verzögerungen und Rückfallbehandlung berücksichtigen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Gab es mehrere Änderungen, unterscheiden Sie im Abschlussbericht den ursprüngl
 ## SEO Metadata
 
 - **Primary keyword:** Behandlungsdauer und Zyklen beim Hodgkin-Lymphom
+
+- **Meta title:** Versorgung beim Hodgkin-Lymphom in China: Zyklen, PET-Kontrollen und Reise
+- **Meta description:** Hodgkin-Lymphom-Versorgung in China zeitlich planen: Zyklen, Zwischen-PET, Bestrahlungsvorbereitung, mögliche Verzögerungen und Rückfallbehandlung berücksichtigen.

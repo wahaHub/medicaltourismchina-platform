@@ -1,15 +1,17 @@
-# 093 Cara Memverifikasi Rumah Sakit Penelitian dan Uji Klinis
+# Memverifikasi Rumah Sakit Penelitian dan Uji Klinis di Tiongkok
 
 ## Hero
 
-- **Title:** Cara Memverifikasi Rumah Sakit Penelitian dan Uji Klinis
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Verifikasi Penelitian & Etika
-- **Subtitle:** Cocokkan institusi, protokol, lokasi, peneliti, dan status perekrutan sebelum berbagi rekam medis atau bepergian.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustrasi konseptual pasien internasional menggunakan daftar periksa dan simbol verifikasi bersama koordinator rumah sakit; koordinator tidak digambarkan memberikan persetujuan klinis.
+
+
+- **Title:** Memverifikasi Rumah Sakit Penelitian dan Uji Klinis di Tiongkok
+- **Subtitle:** Verifikasi uji klinis Tiongkok dengan mencocokkan izin rumah sakit, pencatatan institusi, ID registri dan protokol, lokasi aktif, peneliti, etika, persetujuan, perekrut, dan pembayaran.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -197,11 +199,13 @@ Nama resmi dan kampus rumah sakit, peneliti, nomor registri dan protokol, sponso
 ## SEO Metadata
 
 - **Slug:** `how-to-verify-a-research-hospital-and-clinical-trial`
-- **Meta title:** Verifikasi Rumah Sakit Penelitian dan Uji Klinis Tiongkok
-- **Meta description:** Verifikasi uji klinis Tiongkok dengan mencocokkan izin rumah sakit, pencatatan institusi, ID registri dan protokol, lokasi aktif, peneliti, etika, persetujuan, perekrut, dan pembayaran.
 - **Primary keyword:** verifikasi uji klinis di Tiongkok
 - **Secondary keywords:** verifikasi rumah sakit penelitian Tiongkok; registri uji klinis Tiongkok; nomor uji klinis CTR; institusi GCP Tiongkok; pemeriksaan penipuan uji klinis
 - **Search intent:** keabsahan uji klinis dan verifikasi lokasi
+
+
+- **Meta title:** Memverifikasi Rumah Sakit Penelitian dan Uji Klinis di Tiongkok
+- **Meta description:** Verifikasi uji klinis Tiongkok dengan mencocokkan izin rumah sakit, pencatatan institusi, ID registri dan protokol, lokasi aktif, peneliti, etika, persetujuan, perekrut, dan pembayaran.
 
 ## Sumber
 

@@ -1,12 +1,14 @@
-# Surgery with Sickle Cell Disease: Gallbladder, Spleen, Joint Procedures, and Perioperative Planning
+# Surgery With Sickle Cell Disease in China: Perioperative Care
 
 ## Hero
 
-- **Title:** Surgery with Sickle Cell Disease: Gallbladder, Spleen, Joint Procedures, and Perioperative Planning
 - **Category:** Treatment Guides
 - **Subcategory:** Sickle Cell Disease
-- **Subtitle:** People with sickle cell disease often worry that an operation or anesthetic will trigger a crisis.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Surgery With Sickle Cell Disease in China: Perioperative Care
+- **Subtitle:** Plan surgery for someone with sickle cell disease through the procedure’s purpose, anesthesia assessment, blood support and perioperative care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ A workable plan enables the patient to explain why surgery is proposed now, what
 ## SEO Metadata
 
 - **Primary keyword:** surgery preparation for sickle cell disease
+
+- **Meta title:** Surgery With Sickle Cell Disease in China: Perioperative Care
+- **Meta description:** Plan surgery for someone with sickle cell disease through the procedure’s purpose, anesthesia assessment, blood support and perioperative care in China.

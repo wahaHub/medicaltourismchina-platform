@@ -1,15 +1,17 @@
-# 023 Mencari Perawatan Medis di Guangzhou: Panduan untuk Pasien Internasional
+# Perawatan Medis di Tiongkok: Panduan Pasien di Guangzhou
 
 ## Hero
 
-- **Title:** Mencari Perawatan Medis di Guangzhou: Panduan untuk Pasien Internasional
 - **Category:** Panduan Layanan Kesehatan Tiongkok
 - **Subcategory:** Memilih Tujuan Perawatan
-- **Subtitle:** Panduan khusus kota untuk janji temu di Guangzhou, pendaftaran dengan paspor, tindak lanjut hasil pemeriksaan, dukungan bahasa, dan perawatan darurat.
 - **Reviewed by:** Tim Editorial Medora Health; tinjauan navigasi rumah sakit Guangzhou dan tinjauan klinis diperlukan sebelum publikasi
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Seorang pasien internasional bertemu dokter dengan koper dan cakrawala Guangzhou di dekatnya
+
+
+- **Title:** Perawatan Medis di Tiongkok: Panduan Pasien di Guangzhou
+- **Subtitle:** Gunakan Guangzhou Health Link dengan paspor, verifikasi rumah sakit, atur interpretasi, pahami tindak lanjut tiga hari, dan persiapkan keadaan darurat 120.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -197,13 +199,15 @@ Hubungi 120 dan sebutkan lokasi persis serta kondisi pasien. Halaman keselamatan
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-guangzhou-a-guide-for-international-patients`
-- **Meta title:** Perawatan Medis di Guangzhou untuk Pasien Internasional
-- **Meta description:** Gunakan Guangzhou Health Link dengan paspor, verifikasi rumah sakit, atur interpretasi, pahami tindak lanjut tiga hari, dan persiapkan keadaan darurat 120.
 - **Primary keyword:** perawatan medis di Guangzhou untuk pasien internasional
 - **Pillar keyword:** layanan kesehatan di Tiongkok untuk pasien internasional
 - **Vertical keyword:** janji temu rumah sakit Guangzhou untuk orang asing
 - **Search intent:** perencanaan janji temu dan perawatan di kota
 - **Secondary keywords:** Guangzhou Health Link paspor; rumah sakit Guangzhou pasien internasional; tindak lanjut tiga hari Guangzhou; ambulans Guangzhou 120
+
+
+- **Meta title:** Perawatan Medis di Tiongkok: Panduan Pasien di Guangzhou
+- **Meta description:** Gunakan Guangzhou Health Link dengan paspor, verifikasi rumah sakit, atur interpretasi, pahami tindak lanjut tiga hari, dan persiapkan keadaan darurat 120.
 
 ## Sumber
 

@@ -1,12 +1,14 @@
-# Starting Treatment for Parkinson's Disease: What the First Prescription Should Achieve
+# Starting Parkinson’s Treatment in China: The First Prescription
 
 ## Hero
 
-- **Title:** Starting Treatment for Parkinson's Disease: What the First Prescription Should Achieve
 - **Category:** Treatment Guides
 - **Subcategory:** Parkinson Disease
-- **Subtitle:** Newly diagnosed patients often worry both about delaying care and about using up treatment options too soon.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Starting Parkinson’s Treatment in China: The First Prescription
+- **Subtitle:** Discuss what an initial Parkinson’s prescription should achieve, with medicine review and a continuation plan after starting care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Evidence checked: September 9, 2026. This article does not specify an individual
 ## SEO Metadata
 
 - **Primary keyword:** first-line treatment for Parkinson's disease in China
+
+- **Meta title:** Starting Parkinson’s Treatment in China: The First Prescription
+- **Meta description:** Discuss what an initial Parkinson’s prescription should achieve, with medicine review and a continuation plan after starting care in China.

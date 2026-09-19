@@ -1,15 +1,17 @@
-# Kebersihan Tangan di Rumah Sakit: Pasien Dapat Bertanya Tanpa Menjadi Pengawas Bangsal
+# Kebersihan Tangan di Rumah Sakit Tiongkok: Panduan Pasien dan Keluarga
 
 ## Hero
 
-- **Title:** Kebersihan Tangan di Rumah Sakit: Pasien Dapat Bertanya Tanpa Menjadi Pengawas Bangsal
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Pencegahan Infeksi
-- **Subtitle:** Panduan praktis tentang momen klinis yang penting, pembersih tangan dibandingkan sabun dan air, penggunaan sarung tangan, kebiasaan pengunjung, dan cara menyampaikan kekhawatiran dengan hormat.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Perawat rumah sakit menjelaskan tindakan pencegahan melalui tangan bersih kepada pasien di samping simbol cuci tangan yang menonjol
+
+
+- **Title:** Kebersihan Tangan di Rumah Sakit Tiongkok: Panduan Pasien dan Keluarga
+- **Subtitle:** Pelajari kapan staf rumah sakit, pasien, dan pengunjung harus membersihkan tangan, kapan pembersih tangan atau sabun diutamakan, mengapa sarung tangan tidak cukup, dan cara berbicara dengan hormat.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -168,11 +170,13 @@ Hanya jika tim klinis telah secara formal mengajarkan dan mengizinkan tugas pera
 
 ## SEO Metadata
 
-- **SEO title:** Kebersihan Tangan di Rumah Sakit: Panduan untuk Pasien dan Keluarga
-- **Meta description:** Pelajari kapan staf rumah sakit, pasien, dan pengunjung harus membersihkan tangan, kapan pembersih tangan atau sabun diutamakan, mengapa sarung tangan tidak cukup, dan cara berbicara dengan hormat.
 - **Primary keyword:** kebersihan tangan di rumah sakit
 - **Secondary keywords:** lima momen kebersihan tangan, pembersih tangan versus sabun rumah sakit, sarung tangan dan kebersihan tangan, pencegahan infeksi pasien, cuci tangan C difficile, meminta dokter mencuci tangan
 - **Suggested URL slug:** `/hospital-hand-hygiene-patients-families`
+
+
+- **Meta title:** Kebersihan Tangan di Rumah Sakit Tiongkok: Panduan Pasien dan Keluarga
+- **Meta description:** Pelajari kapan staf rumah sakit, pasien, dan pengunjung harus membersihkan tangan, kapan pembersih tangan atau sabun diutamakan, mengapa sarung tangan tidak cukup, dan cara berbicara dengan hormat.
 
 ## Sumber
 

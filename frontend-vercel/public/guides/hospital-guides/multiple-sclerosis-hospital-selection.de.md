@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Ein Krankenhaus in China für Multiple Sklerose auswählen: das Team auf den gesamten Versorgungsverlauf abstimmen
 - **Category:** Krankenhausratgeber
 - **Subcategory:** Multiple Sklerose
-- **Subtitle:** Ein Krankenhaus in China für Multiple Sklerose auswählen: das Team auf den gesamten Versorgungsverlauf abstimmen
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Ein Krankenhaus in China für Multiple Sklerose auswählen: das Team auf den gesamten Versorgungsverlauf abstimmen
+- **Subtitle:** Ein MS-Team in China auswählen: diagnostische Erfahrung, MRT-Vergleich, Medikamentenüberwachung, Schubversorgung und Rehabilitation gemeinsam bewerten.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Bei einem stabilen Patienten mit wirksamer örtlicher Versorgung kann eine gezie
 ## SEO Metadata
 
 - **Primary keyword:** ein Krankenhaus für Multiple Sklerose in China auswählen
+
+- **Meta title:** Ein Krankenhaus in China für Multiple Sklerose auswählen: das Team auf den gesamten Versorgungsverlauf abstimmen
+- **Meta description:** Ein MS-Team in China auswählen: diagnostische Erfahrung, MRT-Vergleich, Medikamentenüberwachung, Schubversorgung und Rehabilitation gemeinsam bewerten.

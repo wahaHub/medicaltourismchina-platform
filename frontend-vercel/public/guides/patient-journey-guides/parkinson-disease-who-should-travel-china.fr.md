@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Une personne atteinte de Parkinson peut-elle se rendre en Chine pour un traitement ? Aptitude, médicaments et soins pendant le voyage
 - **Category:** Guides du parcours patient
 - **Subcategory:** Maladie de Parkinson
-- **Subtitle:** Un diagnostic de maladie de Parkinson ne détermine pas, à lui seul, si une personne peut se rendre en Chine pour recevoir des soins.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Une personne atteinte de Parkinson peut-elle se rendre en Chine pour un traitement ? Aptitude, médicaments et soins pendant le voyage
+- **Subtitle:** Préparez un voyage pour Parkinson en Chine en évaluant les changements récents, les besoins d’assistance et la continuité des médicaments entre fuseaux horaires.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ L’aptitude repose sur l’association d’un objectif clinique clair, d’un �
 ## SEO Metadata
 
 - **Primary keyword:** aptitude à se rendre en Chine pour le traitement de Parkinson
+
+- **Meta title:** Une personne atteinte de Parkinson peut-elle se rendre en Chine pour un traitement ? Aptitude, médicaments et soins pendant le voyage
+- **Meta description:** Préparez un voyage pour Parkinson en Chine en évaluant les changements récents, les besoins d’assistance et la continuité des médicaments entre fuseaux horaires.

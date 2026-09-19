@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** How Long Does Mantle Cell Lymphoma Treatment Take? Cycles, Maintenance, and Planning a Stay in China
 - **Category:** Treatment Guides
 - **Subcategory:** Mantle Cell Lymphoma
-- **Subtitle:** How long treatment takes can mean several things: preparation before the first dose, the length of intensive treatment, maintenance or ongoing tablets, and the point at which you can return home or work.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** How Long Does Mantle Cell Lymphoma Treatment Take? Cycles, Maintenance, and Planning a Stay in China
+- **Subtitle:** Understand mantle cell lymphoma cycles, maintenance and follow-up, and distinguish the treatment course from the length of a visit to China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ A useful timetable identifies the current phase, conditions for the next step, t
 ## SEO Metadata
 
 - **Primary keyword:** mantle cell lymphoma treatment duration
+
+- **Meta title:** How Long Does Mantle Cell Lymphoma Treatment Take? Cycles, Maintenance, and Planning a Stay in China
+- **Meta description:** Understand mantle cell lymphoma cycles, maintenance and follow-up, and distinguish the treatment course from the length of a visit to China.

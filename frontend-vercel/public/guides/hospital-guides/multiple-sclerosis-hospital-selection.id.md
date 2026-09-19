@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Memilih rumah sakit di Tiongkok untuk sklerosis multipel: menyesuaikan tim dengan seluruh rangkaian perawatan
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Sklerosis Multipel
-- **Subtitle:** Memilih rumah sakit di Tiongkok untuk sklerosis multipel: menyesuaikan tim dengan seluruh rangkaian perawatan
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Memilih rumah sakit di Tiongkok untuk sklerosis multipel: menyesuaikan tim dengan seluruh rangkaian perawatan
+- **Subtitle:** Nilai rumah sakit sklerosis multipel di Tiongkok dari keahlian diagnosis, perbandingan MRI, pemantauan obat, dan dukungan fungsi sehari-hari.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Untuk pasien stabil dengan perawatan lokal yang efektif, pendapat kedua yang ter
 ## SEO Metadata
 
 - **Primary keyword:** memilih rumah sakit sklerosis multipel di Tiongkok
+
+- **Meta title:** Memilih rumah sakit di Tiongkok untuk sklerosis multipel: menyesuaikan tim dengan seluruh rangkaian perawatan
+- **Meta description:** Nilai rumah sakit sklerosis multipel di Tiongkok dari keahlian diagnosis, perbandingan MRI, pemantauan obat, dan dukungan fungsi sehari-hari.

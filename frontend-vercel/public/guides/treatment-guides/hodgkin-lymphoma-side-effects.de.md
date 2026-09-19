@@ -1,12 +1,14 @@
-# Nebenwirkungen der Hodgkin-Lymphom-Behandlung: Dringende Symptome und zu beobachtende Probleme
+# Versorgung beim Hodgkin-Lymphom in China: Nebenwirkungen und dringende Hilfe
 
 ## Hero
 
-- **Title:** Nebenwirkungen der Hodgkin-Lymphom-Behandlung: Dringende Symptome und zu beobachtende Probleme
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Hodgkin-Lymphom
-- **Subtitle:** Beschwerden während einer Hodgkin-Lymphom-Behandlung sollten nicht einfach in erträgliche und unerträgliche Symptome eingeteilt werden.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Versorgung beim Hodgkin-Lymphom in China: Nebenwirkungen und dringende Hilfe
+- **Subtitle:** Nebenwirkungen beim Hodgkin-Lymphom in China besprechen: Fieber, Atembeschwerden, Nervensymptome, Mund- und Darmprobleme sowie Immunreaktionen einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Nach Behandlungsende sollten anhaltende Neuropathie, Herz-Lungen-Probleme und en
 ## SEO Metadata
 
 - **Primary keyword:** Nebenwirkungen der Hodgkin-Lymphom-Behandlung
+
+- **Meta title:** Versorgung beim Hodgkin-Lymphom in China: Nebenwirkungen und dringende Hilfe
+- **Meta description:** Nebenwirkungen beim Hodgkin-Lymphom in China besprechen: Fieber, Atembeschwerden, Nervensymptome, Mund- und Darmprobleme sowie Immunreaktionen einordnen.

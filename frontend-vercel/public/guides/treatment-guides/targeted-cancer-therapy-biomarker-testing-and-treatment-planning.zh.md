@@ -1,15 +1,17 @@
-# 肿瘤靶向治疗：从生物标志物检测到治疗计划
+# 中国肿瘤靶向治疗：生物标志物检测与规划
 
 ## Hero
 
-- **Title:** 肿瘤靶向治疗：从生物标志物检测到治疗计划
 - **Category:** 治疗指南
 - **Subcategory:** 肿瘤诊疗
-- **Subtitle:** 把真实标本和合适检测，与具体变异、临床证据、药物及监测方案逐一对应。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 分子病理医生与肿瘤科医生对照去标识的检测报告、组织和血液样本类型
+
+
+- **Title:** 中国肿瘤靶向治疗：生物标志物检测与规划
+- **Subtitle:** 了解组织与液体活检、伴随诊断、可用药变异、靶向治疗计划及耐药复测，避免从基因名直接跳到药物。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,13 +121,15 @@
 ## SEO Metadata
 
 - **Slug:** `targeted-cancer-therapy-biomarker-testing-and-treatment-planning`
-- **Meta title:** 肿瘤靶向治疗与生物标志物检测指南
-- **Meta description:** 了解组织与液体活检、伴随诊断、可用药变异、靶向治疗计划及耐药复测，避免从基因名直接跳到药物。
 - **Primary keyword:** 中国肿瘤靶向治疗
 - **Pillar keyword:** 中国肿瘤治疗
 - **Vertical keyword:** 中国肿瘤生物标志物检测
 - **Search intent:** 检测解读 / 治疗规划
 - **Secondary keywords:** 中国 NGS 检测；肿瘤液体活检；伴随诊断；可用药突变；靶向治疗耐药
+
+
+- **Meta title:** 中国肿瘤靶向治疗：生物标志物检测与规划
+- **Meta description:** 了解组织与液体活检、伴随诊断、可用药变异、靶向治疗计划及耐药复测，避免从基因名直接跳到药物。
 
 ## Sources
 

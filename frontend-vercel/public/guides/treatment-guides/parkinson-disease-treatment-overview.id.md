@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Pengobatan Penyakit Parkinson di Tiongkok: Rencana Berdasarkan Fungsi Sehari-hari
 - **Category:** Panduan Perawatan
 - **Subcategory:** Penyakit Parkinson
-- **Subtitle:** Tangan yang gemetar saat istirahat, makin sulit mengancingkan pakaian, atau kaki yang ragu melangkah saat berbelok dapat membawa seseorang ke ahli neurologi.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Penyakit Parkinson di Tiongkok: Rencana Berdasarkan Fungsi Sehari-hari
+- **Subtitle:** Rencanakan pengobatan Parkinson di Tiongkok berdasarkan diagnosis dan tugas sehari-hari. Bahas obat, tujuan fungsi, serta evaluasi manfaatnya.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -92,3 +94,6 @@ Sumber diperiksa: September 9, 2026. Artikel ini memberikan edukasi umum bagi pa
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan penyakit Parkinson di Tiongkok
+
+- **Meta title:** Pengobatan Penyakit Parkinson di Tiongkok: Rencana Berdasarkan Fungsi Sehari-hari
+- **Meta description:** Rencanakan pengobatan Parkinson di Tiongkok berdasarkan diagnosis dan tugas sehari-hari. Bahas obat, tujuan fungsi, serta evaluasi manfaatnya.

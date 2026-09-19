@@ -1,12 +1,14 @@
-# Limfoma folikular kambuh atau refrakter: pastikan apa yang berubah sebelum memilih lini berikutnya
+# Limfoma Folikular Kambuh di Tiongkok: Tinjauan dan Pengobatan Lini Berikutnya
 
 ## Hero
 
-- **Title:** Limfoma folikular kambuh atau refrakter: pastikan apa yang berubah sebelum memilih lini berikutnya
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Folikular
-- **Subtitle:** Menemukan kembali kelenjar getah bening setelah pengobatan tidak otomatis mengharuskan pengulangan regimen sebelumnya, dan tidak berarti pilihan yang bermanfaat telah habis.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Limfoma Folikular Kambuh di Tiongkok: Tinjauan dan Pengobatan Lini Berikutnya
+- **Subtitle:** Tinjau limfoma folikular kambuh di Tiongkok dengan memastikan progresi dan kebutuhan biopsi. Bahas observasi atau terapi berikutnya sesuai kondisi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Susun riwayat bertanggal tentang rangkaian pengobatan sebelumnya dan obat saat i
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan limfoma folikular kambuh refrakter
+
+- **Meta title:** Limfoma Folikular Kambuh di Tiongkok: Tinjauan dan Pengobatan Lini Berikutnya
+- **Meta description:** Tinjau limfoma folikular kambuh di Tiongkok dengan memastikan progresi dan kebutuhan biopsi. Bahas observasi atau terapi berikutnya sesuai kondisi.

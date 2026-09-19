@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Medical Records for an MS Consultation in China: Showing How the Disease Has Changed
 - **Category:** Patient Journey Guides
 - **Subcategory:** Multiple Sclerosis
-- **Subtitle:** The most useful MS record explains what happened, when it happened and which treatment was being used at the time.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medical Records for an MS Consultation in China: Showing How the Disease Has Changed
+- **Subtitle:** Organize MS records for a consultation in China so relapses, MRI changes, medicine exposure and functional changes can be assessed together.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Before leaving China, update the record with the new assessment, the reasoning b
 ## SEO Metadata
 
 - **Primary keyword:** multiple sclerosis medical records for treatment in China
+
+- **Meta title:** Medical Records for an MS Consultation in China: Showing How the Disease Has Changed
+- **Meta description:** Organize MS records for a consultation in China so relapses, MRI changes, medicine exposure and functional changes can be assessed together.

@@ -1,12 +1,14 @@
-# Nouveaux traitements et essais cliniques de l’épilepsie pharmacorésistante : interpréter les avancées de 2026
+# Épilepsie pharmacorésistante : nouveaux traitements et essais en Chine
 
 ## Hero
 
-- **Title:** Nouveaux traitements et essais cliniques de l’épilepsie pharmacorésistante : interpréter les avancées de 2026
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Épilepsie pharmacorésistante
-- **Subtitle:** Un chiffre frappant dans l’annonce d’un nouveau traitement ne dit pas si ce traitement convient à un patient donné.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Épilepsie pharmacorésistante : nouveaux traitements et essais en Chine
+- **Subtitle:** Évaluez les nouveaux traitements de l’épilepsie pharmacorésistante selon le type de crises, les preuves et les risques avant une évaluation en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Pour une consultation en Chine, apportez les dossiers personnels pertinents et l
 ## SEO Metadata
 
 - **Primary keyword:** nouveaux traitements de l’épilepsie pharmacorésistante ; essais cliniques d’épilepsie ; azétukalner ; zorévunersen ; recherche sur l’épilepsie en Chine
+
+- **Meta title:** Épilepsie pharmacorésistante : nouveaux traitements et essais en Chine
+- **Meta description:** Évaluez les nouveaux traitements de l’épilepsie pharmacorésistante selon le type de crises, les preuves et les risques avant une évaluation en Chine.

@@ -1,12 +1,14 @@
-# Untersuchungen auf Sichelzellkrankheit: Vom Screeningbefund zur gesicherten Diagnose
+# Diagnose der Sichelzellkrankheit in China: Tests und Bestätigung
 
 ## Hero
 
-- **Title:** Untersuchungen auf Sichelzellkrankheit: Vom Screeningbefund zur gesicherten Diagnose
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Sichelzellkrankheit
-- **Subtitle:** Ein Befund über den Nachweis von Hämoglobin S, kurz HbS, kann bei jemandem, der sich nie krank gefühlt hat, Fragen aufwerfen oder für ein Neugeborenes einen wichtigen Versorgungsweg einleiten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnose der Sichelzellkrankheit in China: Tests und Bestätigung
+- **Subtitle:** Eine Sichelzelldiagnostik in China vorbereiten: Blutbild, Hämoglobinanalyse und gezielte Gentests unterscheiden sowie frühere Transfusionen dokumentieren.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Bitten Sie am Ende des Diagnoseprozesses um eine verständliche Schlussfolgerung
 ## SEO Metadata
 
 - **Primary keyword:** Untersuchungen zur Diagnose der Sichelzellkrankheit
+
+- **Meta title:** Diagnose der Sichelzellkrankheit in China: Tests und Bestätigung
+- **Meta description:** Eine Sichelzelldiagnostik in China vorbereiten: Blutbild, Hämoglobinanalyse und gezielte Gentests unterscheiden sowie frühere Transfusionen dokumentieren.

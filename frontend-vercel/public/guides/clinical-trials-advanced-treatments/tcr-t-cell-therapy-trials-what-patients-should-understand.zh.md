@@ -1,15 +1,17 @@
-# TCR-T 细胞治疗试验：患者需要了解什么
+# 中国 TCR-T 临床试验：HLA 匹配与入组条件
 
 ## Hero
 
-- **Title:** TCR-T 细胞治疗试验：患者需要了解什么
 - **Category:** 临床试验与先进治疗
 - **Subcategory:** 细胞免疫治疗
-- **Subtitle:** 能否匹配一项试验，取决于准确的 HLA 等位基因、肿瘤靶点、工程化受体、研究队列和治疗流程，而不只是“TCR-T”三个字。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 带受体的免疫细胞与患者筛选讨论的编辑示意图；仅用于说明概念，不代表真实实验室检测或某一种 TCR-T 产品。
+
+
+- **Title:** 中国 TCR-T 临床试验：HLA 匹配与入组条件
+- **Subtitle:** 了解 TCR-T 试验中的 HLA 与肿瘤靶点匹配、筛查、细胞制造、交叉反应风险、中国项目核验及回国随访。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -158,11 +160,13 @@ TCR-T 还必须正面回答两个问题：
 ## SEO Metadata
 
 - **Slug:** `tcr-t-cell-therapy-trials-what-patients-should-understand`
-- **Meta title:** TCR-T 试验：HLA 匹配、入组与风险
-- **Meta description:** 了解 TCR-T 试验中的 HLA 与肿瘤靶点匹配、筛查、细胞制造、交叉反应风险、中国项目核验及回国随访。
 - **Primary keyword:** TCR-T 细胞治疗试验
 - **Secondary keywords:** TCR-T HLA 匹配；TCR-T 入组条件；工程化 T 细胞受体；中国 TCR-T 试验；TCR-T 风险
 - **Search intent:** TCR-T 试验筛查 / 先进治疗决策
+
+
+- **Meta title:** 中国 TCR-T 临床试验：HLA 匹配与入组条件
+- **Meta description:** 了解 TCR-T 试验中的 HLA 与肿瘤靶点匹配、筛查、细胞制造、交叉反应风险、中国项目核验及回国随访。
 
 ## Sources
 

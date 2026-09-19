@@ -1,12 +1,14 @@
-# Behandlungen der aplastischen Anämie vergleichen: zwischen Transplantation und Immunsuppression entscheiden
+# Versorgung bei aplastischer Anämie in China: Transplantation oder Immunsuppression
 
 ## Hero
 
-- **Title:** Behandlungen der aplastischen Anämie vergleichen: zwischen Transplantation und Immunsuppression entscheiden
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Aplastische Anämie
-- **Subtitle:** Wenn ein Krankenhaus eine Transplantation vorschlägt und ein anderes eine ATG-basierte Therapie empfiehlt, beginnen Sie nicht damit, die genannten Erfolgsraten zu ordnen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Versorgung bei aplastischer Anämie in China: Transplantation oder Immunsuppression
+- **Subtitle:** Bei aplastischer Anämie in China Transplantation und Immunsuppression vergleichen: Eignung, Ergebnismaße, frühe Risiken und langfristige Verpflichtungen besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -107,3 +109,6 @@ Vergleichen Sie auch Unterkunft in Krankenhausnähe, Arbeitsausfall der Betreuun
 ## SEO Metadata
 
 - **Primary keyword:** Behandlungen der aplastischen Anämie vergleichen
+
+- **Meta title:** Versorgung bei aplastischer Anämie in China: Transplantation oder Immunsuppression
+- **Meta description:** Bei aplastischer Anämie in China Transplantation und Immunsuppression vergleichen: Eignung, Ergebnismaße, frühe Risiken und langfristige Verpflichtungen besprechen.

@@ -1,12 +1,14 @@
-# New treatments and trials for follicular lymphoma: matching the evidence to your situation
+# New Follicular Lymphoma Treatments: Trials and Access in China
 
 ## Hero
 
-- **Title:** New treatments and trials for follicular lymphoma: matching the evidence to your situation
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Follicular Lymphoma
-- **Subtitle:** A high response rate for a new medicine should prompt questions about the participants, combination, follow-up and regulatory status before a search for a supplier.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** New Follicular Lymphoma Treatments: Trials and Access in China
+- **Subtitle:** Assess new follicular lymphoma treatments by disease setting and evidence, then check China access, study eligibility and itemized costs.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Maintain a standard-treatment fallback while screening proceeds and a clear rout
 ## SEO Metadata
 
 - **Primary keyword:** follicular lymphoma new drugs and clinical trials
+
+- **Meta title:** New Follicular Lymphoma Treatments: Trials and Access in China
+- **Meta description:** Assess new follicular lymphoma treatments by disease setting and evidence, then check China access, study eligibility and itemized costs.

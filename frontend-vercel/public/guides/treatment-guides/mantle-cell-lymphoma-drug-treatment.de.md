@@ -1,12 +1,14 @@
-# Medikamente gegen Mantelzelllymphom: chinesische Indikationen, BTK-Inhibitoren und neuere Behandlungsoptionen
+# Medikamente beim Mantelzelllymphom in China: Zugang und Überwachung
 
 ## Hero
 
-- **Title:** Medikamente gegen Mantelzelllymphom: chinesische Indikationen, BTK-Inhibitoren und neuere Behandlungsoptionen
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Mantelzelllymphom
-- **Subtitle:** Verwandte Suchbegriffe: zielgerichtete MCL-Medikamente; Pirtobrutinib; Sonrotoclax; MCL-Medikamente in China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medikamente beim Mantelzelllymphom in China: Zugang und Überwachung
+- **Subtitle:** Medikamente beim Mantelzelllymphom in China prüfen: Aufgabe im Schema, genaue Indikation, BTK-Hemmer, Wechselwirkungen und fortlaufende Überwachung klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Ein brauchbarer Verordnungsplan erklärt, was Sie einnehmen, warum es eingesetzt
 ## SEO Metadata
 
 - **Primary keyword:** Medikamente gegen Mantelzelllymphom
+
+- **Meta title:** Medikamente beim Mantelzelllymphom in China: Zugang und Überwachung
+- **Meta description:** Medikamente beim Mantelzelllymphom in China prüfen: Aufgabe im Schema, genaue Indikation, BTK-Hemmer, Wechselwirkungen und fortlaufende Überwachung klären.

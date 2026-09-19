@@ -1,12 +1,14 @@
-# Medicamentos durante la rehabilitación del ictus: prevención, alivio de los síntomas y límites de la evidencia
+# Medicamentos en rehabilitación del ictus en China: usos y límites
 
 ## Hero
 
-- **Title:** Medicamentos durante la rehabilitación del ictus: prevención, alivio de los síntomas y límites de la evidencia
 - **Category:** Guías de tratamiento
 - **Subcategory:** Rehabilitación después de un ictus isquémico
-- **Subtitle:** La medicación durante la rehabilitación del ictus suele proceder de varias especialidades.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medicamentos en rehabilitación del ictus en China: usos y límites
+- **Subtitle:** Distinga prevención vascular y alivio de síntomas en los medicamentos usados durante la rehabilitación del ictus, con sus límites de evidencia en la atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -131,3 +133,6 @@ Antes del alta, obtenga la lista final de medicación activa e identifique los m
 ## SEO Metadata
 
 - **Primary keyword:** medicación durante la rehabilitación del ictus isquémico
+
+- **Meta title:** Medicamentos en rehabilitación del ictus en China: usos y límites
+- **Meta description:** Distinga prevención vascular y alivio de síntomas en los medicamentos usados durante la rehabilitación del ictus, con sus límites de evidencia en la atención en China.

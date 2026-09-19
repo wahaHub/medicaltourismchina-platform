@@ -1,12 +1,14 @@
-# Bestrahlung und interventionelle Verfahren bei Multipler Sklerose: Ein konkretes Behandlungsziel wählen
+# Interventionelle Verfahren bei MS in China: Ziele und Grenzen
 
 ## Hero
 
-- **Title:** Bestrahlung und interventionelle Verfahren bei Multipler Sklerose: Ein konkretes Behandlungsziel wählen
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Multiple Sklerose
-- **Subtitle:** Ein MRT-Bericht mit mehreren Hirnläsionen kann eine gezielte Bestrahlung wie eine direkte Lösung erscheinen lassen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Interventionelle Verfahren bei MS in China: Ziele und Grenzen
+- **Subtitle:** Interventionelle MS-Verfahren in China nach dem Ziel beurteilen: Gesichtsschmerz, Spastik, Blasenprobleme und Fußheberschwäche von der Grunderkrankung unterscheiden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Die Reiseentscheidung sollte darauf beruhen, ob der vollständige Ablauf machbar
 ## SEO Metadata
 
 - **Primary keyword:** Multiple Sklerose Bestrahlung und interventionelle Behandlung
+
+- **Meta title:** Interventionelle Verfahren bei MS in China: Ziele und Grenzen
+- **Meta description:** Interventionelle MS-Verfahren in China nach dem Ziel beurteilen: Gesichtsschmerz, Spastik, Blasenprobleme und Fußheberschwäche von der Grunderkrankung unterscheiden.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Berapa Biaya Pengobatan Limfoma Sel Mantel di Tiongkok? Menyusun Anggaran Renminbi Terperinci
 - **Category:** Panduan Biaya & Asuransi
 - **Subcategory:** Limfoma Sel Mantel
-- **Subtitle:** Dua penawaran biaya dapat sama-sama menggambarkan satu rangkaian pengobatan MCL tetapi mencakup layanan berbeda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Berapa Biaya Pengobatan Limfoma Sel Mantel di Tiongkok? Menyusun Anggaran Renminbi Terperinci
+- **Subtitle:** Bandingkan estimasi limfoma sel mantel di Tiongkok dengan fase perawatan yang sama. Rinci evaluasi, obat, siklus, pemeliharaan, dan komplikasi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Pembahasan terbuka mengenai batas anggaran dapat membantu tim mempertimbangkan p
 ## SEO Metadata
 
 - **Primary keyword:** biaya pengobatan limfoma sel mantel di Tiongkok
+
+- **Meta title:** Berapa Biaya Pengobatan Limfoma Sel Mantel di Tiongkok? Menyusun Anggaran Renminbi Terperinci
+- **Meta description:** Bandingkan estimasi limfoma sel mantel di Tiongkok dengan fase perawatan yang sama. Rinci evaluasi, obat, siklus, pemeliharaan, dan komplikasi.

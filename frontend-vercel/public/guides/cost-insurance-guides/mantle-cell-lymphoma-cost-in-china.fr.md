@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Combien coûte le traitement du lymphome à cellules du manteau en Chine ? Établir un budget détaillé en renminbi
 - **Category:** Guides des coûts et de l’assurance
 - **Subcategory:** Lymphome à cellules du manteau
-- **Subtitle:** Deux devis peuvent décrire un traitement complet du lymphome à cellules du manteau tout en couvrant des prestations différentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Combien coûte le traitement du lymphome à cellules du manteau en Chine ? Établir un budget détaillé en renminbi
+- **Subtitle:** Préparez un devis de soins du lymphome du manteau en Chine couvrant l’évaluation, les médicaments, les soins de soutien et le parcours de greffe si indiqué.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Une discussion ouverte sur les limites budgétaires peut aider l’équipe à en
 ## SEO Metadata
 
 - **Primary keyword:** coût du traitement du lymphome à cellules du manteau en Chine
+
+- **Meta title:** Combien coûte le traitement du lymphome à cellules du manteau en Chine ? Établir un budget détaillé en renminbi
+- **Meta description:** Préparez un devis de soins du lymphome du manteau en Chine couvrant l’évaluation, les médicaments, les soins de soutien et le parcours de greffe si indiqué.

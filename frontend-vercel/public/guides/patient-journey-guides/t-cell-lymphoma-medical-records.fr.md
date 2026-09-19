@@ -1,12 +1,14 @@
-# Préparer le dossier d’un lymphome T pour une orientation spécialisée : documenter le diagnostic et chaque ligne de traitement
+# Dossier de lymphome T pour une orientation vers la Chine
 
 ## Hero
 
-- **Title:** Préparer le dossier d’un lymphome T pour une orientation spécialisée : documenter le diagnostic et chaque ligne de traitement
 - **Category:** Guides du parcours patient
 - **Subcategory:** Lymphome T
-- **Subtitle:** Le dossier doit aider le médecin destinataire à repérer les informations qui modifient une décision.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dossier de lymphome T pour une orientation vers la Chine
+- **Subtitle:** Préparez une orientation pour lymphome T en Chine avec le diagnostic précis, les prélèvements, les rapports moléculaires et chaque ligne de traitement.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Un dossier bien préparé montre comment le diagnostic a été établi, quel tra
 ## SEO Metadata
 
 - **Primary keyword:** dossier médical du lymphome T pour une orientation spécialisée
+
+- **Meta title:** Dossier de lymphome T pour une orientation vers la Chine
+- **Meta description:** Préparez une orientation pour lymphome T en Chine avec le diagnostic précis, les prélèvements, les rapports moléculaires et chaque ligne de traitement.

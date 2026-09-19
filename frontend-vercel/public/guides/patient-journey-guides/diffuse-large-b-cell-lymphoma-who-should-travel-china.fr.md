@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Un patient atteint de DLBCL devrait-il se rendre en Chine pour se faire traiter ?
 - **Category:** Guides du parcours patient
 - **Subcategory:** Lymphome diffus à grandes cellules B
-- **Subtitle:** L’intérêt d’un voyage en Chine pour un DLBCL dépend du problème clinique qu’il pourrait résoudre, du délai d’attente et de la possibilité de mener à bien le traitement et les soins ultérieurs.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Un patient atteint de DLBCL devrait-il se rendre en Chine pour se faire traiter ?
+- **Subtitle:** Évaluez l’intérêt d’un voyage pour un LDGCB en Chine selon la question clinique, le délai de traitement, la stabilité médicale et les possibilités d’avis préalable.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Convenez d’une solution médicale de repli si le voyage est reporté. En cas d
 ## SEO Metadata
 
 - **Primary keyword:** voyager en Chine pour un traitement du DLBCL
+
+- **Meta title:** Un patient atteint de DLBCL devrait-il se rendre en Chine pour se faire traiter ?
+- **Meta description:** Évaluez l’intérêt d’un voyage pour un LDGCB en Chine selon la question clinique, le délai de traitement, la stabilité médicale et les possibilités d’avis préalable.

@@ -1,12 +1,14 @@
-# Comprender el pronóstico de la esclerosis múltiple: supervivencia, independencia y respuesta al tratamiento
+# Pronóstico de la esclerosis múltiple: preguntas para la atención en China
 
 ## Hero
 
-- **Title:** Comprender el pronóstico de la esclerosis múltiple: supervivencia, independencia y respuesta al tratamiento
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Esclerosis múltiple
-- **Subtitle:** Las preguntas sobre el trabajo, la marcha y la vida familiar suelen importar más a una persona recién diagnosticada que el nombre de la enfermedad.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronóstico de la esclerosis múltiple: preguntas para la atención en China
+- **Subtitle:** Prepare preguntas sobre independencia, brotes, progresión y respuesta al tratamiento de la esclerosis múltiple para valorar la atención continuada en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Una visita breve no puede demostrar un resultado a largo plazo, y una cifra prom
 ## SEO Metadata
 
 - **Primary keyword:** pronóstico de la esclerosis múltiple y resultados del tratamiento
+
+- **Meta title:** Pronóstico de la esclerosis múltiple: preguntas para la atención en China
+- **Meta description:** Prepare preguntas sobre independencia, brotes, progresión y respuesta al tratamiento de la esclerosis múltiple para valorar la atención continuada en China.

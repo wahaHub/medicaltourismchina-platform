@@ -1,12 +1,14 @@
-# New treatments and clinical trials for drug-resistant epilepsy: interpreting the 2026 developments
+# Drug-Resistant Epilepsy: New Treatments and Trials in China
 
 ## Hero
 
-- **Title:** New treatments and clinical trials for drug-resistant epilepsy: interpreting the 2026 developments
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Drug Resistant Epilepsy
-- **Subtitle:** A striking number in a new-treatment announcement does not answer whether that treatment fits an individual patient.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Drug-Resistant Epilepsy: New Treatments and Trials in China
+- **Subtitle:** Review new drug-resistant epilepsy medicines and studies, with separate checks for China approval, trial participation and treatment suitability.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ For a consultation in China, bring the relevant personal records and original li
 ## SEO Metadata
 
 - **Primary keyword:** new treatments for drug-resistant epilepsy; epilepsy clinical trials; azetukalner; zorevunersen; epilepsy research in China
+
+- **Meta title:** Drug-Resistant Epilepsy: New Treatments and Trials in China
+- **Meta description:** Review new drug-resistant epilepsy medicines and studies, with separate checks for China approval, trial participation and treatment suitability.

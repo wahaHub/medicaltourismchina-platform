@@ -1,12 +1,14 @@
-# ¿Se puede curar el LDCBG? Comprender la respuesta, la recaída y el pronóstico
+# Remisión y pronóstico del LDCBG: preguntas para la atención en China
 
 ## Hero
 
-- **Title:** ¿Se puede curar el LDCBG? Comprender la respuesta, la recaída y el pronóstico
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma difuso de células B grandes
-- **Subtitle:** El LDCBG puede tratarse con el objetivo de curarlo, incluso en algunas personas con enfermedad en estadio avanzado.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Remisión y pronóstico del LDCBG: preguntas para la atención en China
+- **Subtitle:** Distinga remisión, curación y recaída del linfoma difuso de células B grandes, y prepare preguntas sobre respuesta y pronóstico para su atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ Los familiares deben preguntar cuánto detalle desea el paciente y apoyar su par
 ## SEO Metadata
 
 - **Primary keyword:** pronóstico y curación del LDCBG
+
+- **Meta title:** Remisión y pronóstico del LDCBG: preguntas para la atención en China
+- **Meta description:** Distinga remisión, curación y recaída del linfoma difuso de células B grandes, y prepare preguntas sobre respuesta y pronóstico para su atención en China.

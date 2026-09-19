@@ -1,12 +1,14 @@
-# Commencer le traitement de la GVHD : soins locaux, corticoïdes et réévaluation précoce
+# Commencer un traitement de la GVH en Chine : options et réévaluation précoce
 
 ## Hero
 
-- **Title:** Commencer le traitement de la GVHD : soins locaux, corticoïdes et réévaluation précoce
 - **Category:** Guides des traitements
 - **Subcategory:** Maladie du greffon contre l’hôte
-- **Subtitle:** Les patients sont parfois perplexes lorsqu’on leur annonce le début d’un traitement de la GVHD alors qu’ils prennent déjà des immunosuppresseurs pendant la greffe.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Commencer un traitement de la GVH en Chine : options et réévaluation précoce
+- **Subtitle:** Préparez le premier traitement de la GVH en Chine selon les organes et la gravité, en associant soins locaux, corticoïdes et réévaluation précoce.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -129,3 +131,6 @@ Avant de quitter la ville du traitement, assurez-vous que la prochaine évaluati
 ## SEO Metadata
 
 - **Primary keyword:** traitement de première ligne de la maladie du greffon contre l’hôte en Chine
+
+- **Meta title:** Commencer un traitement de la GVH en Chine : options et réévaluation précoce
+- **Meta description:** Préparez le premier traitement de la GVH en Chine selon les organes et la gravité, en associant soins locaux, corticoïdes et réévaluation précoce.

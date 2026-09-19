@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** 20 Fragen zur Parkinson-Behandlung: Medikamente, THS, neue Therapien und Versorgung in China
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Parkinson-Krankheit
-- **Subtitle:** Behandlungsentscheidungen bei Parkinson verändern sich mit den Hauptsymptomen, dem Ansprechen auf Medikamente und den Alltagsbedürfnissen der Patienten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** 20 Fragen zur Parkinson-Behandlung: Medikamente, THS, neue Therapien und Versorgung in China
+- **Subtitle:** 20 Fragen zur Parkinson-Versorgung in China: Diagnose, Levodopa, tiefe Hirnstimulation, neue Ansätze und Betreuung nach der Behandlung verständlich einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Fieber mit starkem Rigor, plötzlich ausgeprägte Bewegungslosigkeit, verändert
 ## SEO Metadata
 
 - **Primary keyword:** Parkinson-Behandlung in China häufig gestellte Fragen
+
+- **Meta title:** 20 Fragen zur Parkinson-Behandlung: Medikamente, THS, neue Therapien und Versorgung in China
+- **Meta description:** 20 Fragen zur Parkinson-Versorgung in China: Diagnose, Levodopa, tiefe Hirnstimulation, neue Ansätze und Betreuung nach der Behandlung verständlich einordnen.

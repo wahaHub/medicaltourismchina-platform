@@ -1,15 +1,17 @@
-# Blood-Clot Prevention During Medical Travel: Join the Hospital Plan to the Journey Home
+# Surgery and Medical Travel to China: Blood-Clot Prevention
 
 ## Hero
 
-- **Title:** Blood-Clot Prevention During Medical Travel: Join the Hospital Plan to the Journey Home
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Travel & Recovery Safety
-- **Subtitle:** How to connect surgical VTE assessment, early mobility, compression and anticoagulants with long flights, ground transfers and urgent DVT or pulmonary-embolism symptoms.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Planned replacement showing a postoperative traveler, lower-leg venous circulation, walking and calf exercises, compression stockings, prescribed anticoagulation and urgent DVT/PE warning signs
+
+
+- **Title:** Surgery and Medical Travel to China: Blood-Clot Prevention
+- **Subtitle:** Connect surgical DVT and PE prevention with long flights and transfers: risk assessment, walking, compression, anticoagulants, fit-to-travel decisions and emergency symptoms.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,11 +144,13 @@ Treat it as an emergency, especially with chest pain, fainting, coughing blood o
 
 ## SEO Metadata
 
-- **SEO title:** Blood-Clot Prevention After Surgery and During Medical Travel
-- **Meta description:** Connect surgical DVT and PE prevention with long flights and transfers: risk assessment, walking, compression, anticoagulants, fit-to-travel decisions and emergency symptoms.
 - **Primary keyword:** blood clot prevention medical travel
 - **Secondary keywords:** DVT after surgery, pulmonary embolism travel, VTE prophylaxis, compression stockings flight, anticoagulant after surgery, fit to fly blood clot
 - **Suggested URL slug:** `/blood-clot-prevention-surgery-medical-travel-dvt-pe`
+
+
+- **Meta title:** Surgery and Medical Travel to China: Blood-Clot Prevention
+- **Meta description:** Connect surgical DVT and PE prevention with long flights and transfers: risk assessment, walking, compression, anticoagulants, fit-to-travel decisions and emergency symptoms.
 
 ## Sources
 

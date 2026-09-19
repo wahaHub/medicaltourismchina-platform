@@ -1,12 +1,14 @@
-# Memilih pengobatan lini pertama untuk limfoma sel mantel: pertanyaan yang perlu diselesaikan sebelum siklus pertama
+# Pengobatan Lini Pertama Limfoma Sel Mantel di Tiongkok
 
 ## Hero
 
-- **Title:** Memilih pengobatan lini pertama untuk limfoma sel mantel: pertanyaan yang perlu diselesaikan sebelum siklus pertama
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel Mantel
-- **Subtitle:** Pencarian terkait: pengobatan MCL yang baru didiagnosis; pengobatan limfoma sel mantel di Tiongkok
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Lini Pertama Limfoma Sel Mantel di Tiongkok
+- **Subtitle:** Tentukan alasan memulai terapi limfoma sel mantel di Tiongkok dengan menilai kebugaran, biologi penyakit, serta rencana lengkap sebelum siklus pertama.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -121,3 +123,6 @@ Sebelum meninggalkan kunjungan perencanaan, cobalah menjelaskan jalur dengan kat
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan lini pertama untuk limfoma sel mantel
+
+- **Meta title:** Pengobatan Lini Pertama Limfoma Sel Mantel di Tiongkok
+- **Meta description:** Tentukan alasan memulai terapi limfoma sel mantel di Tiongkok dengan menilai kebugaran, biologi penyakit, serta rencana lengkap sebelum siklus pertama.

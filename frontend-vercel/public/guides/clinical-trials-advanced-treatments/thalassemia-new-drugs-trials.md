@@ -1,12 +1,14 @@
-# New thalassemia medicines and clinical trials in 2026: separating approvals, research, and personal eligibility
+# Thalassemia Drugs and Trials: Evidence and Access in China
 
 ## Hero
 
-- **Title:** New thalassemia medicines and clinical trials in 2026: separating approvals, research, and personal eligibility
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Thalassemia
-- **Subtitle:** News of transfusion independence can immediately raise the question of whether a treatment is available to a particular patient.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Thalassemia Drugs and Trials: Evidence and Access in China
+- **Subtitle:** Distinguish thalassemia drug approvals from research findings, and check China trial details, personal eligibility and continuing-care requirements.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,3 +143,6 @@ For the next consultation, focus on three decisions: what the project could chan
 ## SEO Metadata
 
 - **Primary keyword:** new thalassemia treatments 2026; clinical trials in China; mitapivat; gene editing; CS-101
+
+- **Meta title:** Thalassemia Drugs and Trials: Evidence and Access in China
+- **Meta description:** Distinguish thalassemia drug approvals from research findings, and check China trial details, personal eligibility and continuing-care requirements.

@@ -1,15 +1,17 @@
-# 怎样选择杭州医院：三级证明和一次真实演练
+# 中国医院选择：杭州预约、院区与行程
 
 ## Hero
 
-- **Title:** 怎样选择杭州医院：三级证明和一次真实演练
 - **Category:** 医院指南
 - **Subcategory:** 杭州就医规划
-- **Subtitle:** 先证明病例已被接受、院区和服务渠道可用、后续有人接手，再实际测试护照和行程。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 患者规划杭州就医行程的概念插画；西湖风格桥塔、医院、地图和列车并不代表真实院区路线或机构背书。
+
+
+- **Title:** 中国医院选择：杭州预约、院区与行程
+- **Subtitle:** 用三级证明和一次真实演练核实杭州医院的病例接收、实际院区、护照系统、国际服务、交通、急救和随访责任。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -248,13 +250,15 @@
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-hangzhou-specialties-access-and-travel`
-- **Meta title:** 怎样选择杭州医院：院区、数字入口与就医交通
-- **Meta description:** 用三级证明和一次真实演练核实杭州医院的病例接收、实际院区、护照系统、国际服务、交通、急救和随访责任。
 - **Primary keyword:** 怎样选择杭州医院
 - **Pillar keyword:** 杭州国际患者医院
 - **Vertical keyword:** 杭州医院院区数字挂号交通
 - **Search intent:** 医院比较 / 杭州医疗旅行规划
 - **Secondary keywords:** 杭州医院护照挂号；杭州国际化医院；杭州医院院区；杭州机场医疗协助；杭州 120
+
+
+- **Meta title:** 中国医院选择：杭州预约、院区与行程
+- **Meta description:** 用三级证明和一次真实演练核实杭州医院的病例接收、实际院区、护照系统、国际服务、交通、急救和随访责任。
 
 ## Sources
 

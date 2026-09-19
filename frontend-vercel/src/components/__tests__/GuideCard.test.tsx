@@ -30,6 +30,11 @@ function renderCard(locale: string, overrides: Partial<GuideCardGuide> = {}) {
 }
 
 describe("GuideCard actual content locale", () => {
+  it("shows the actual content language date, including when falling back", () => {
+    renderCard("es", { locales: ["zh"], updatedDate: "2026/09/19", updatedDateByLocale: { en: "2026/09/19", zh: "2026/08/04" } });
+    expect(screen.getByText("Actualizado 2026/08/04")).toBeTruthy();
+    expect(screen.queryByText("Actualizado 2026/09/19")).toBeNull();
+  });
   it.each(["es", "zh", "ar", "id"])("links %s fallback directly to English outside the router basename", (locale) => {
     renderCard(locale, { locales: ["en"] });
     const link = screen.getByRole("link");

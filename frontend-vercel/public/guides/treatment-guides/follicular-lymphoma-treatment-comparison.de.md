@@ -1,12 +1,14 @@
-# Behandlungen des follikulären Lymphoms vergleichen: Welche Optionen lösen dasselbe Problem?
+# Behandlungsoptionen beim follikulären Lymphom in China: Ein Vergleich
 
 ## Hero
 
-- **Title:** Behandlungen des follikulären Lymphoms vergleichen: Welche Optionen lösen dasselbe Problem?
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Follikuläres Lymphom
-- **Subtitle:** Klären Sie vor einem Vergleich von Behandlungen des follikulären Lymphoms, ob die Optionen dasselbe klinische Problem lösen sollen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Behandlungsoptionen beim follikulären Lymphom in China: Ein Vergleich
+- **Subtitle:** Behandlungen beim follikulären Lymphom in China vergleichen: Beobachtung, Antikörper, Immunchemotherapie, Bestrahlung und Erhaltung auf dieselbe Entscheidung beziehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Eine stabile Erkrankung kann Zeit lassen, diese Unterschiede abzuwägen. Akute A
 ## SEO Metadata
 
 - **Primary keyword:** Behandlungsvergleich beim follikulären Lymphom
+
+- **Meta title:** Behandlungsoptionen beim follikulären Lymphom in China: Ein Vergleich
+- **Meta description:** Behandlungen beim follikulären Lymphom in China vergleichen: Beobachtung, Antikörper, Immunchemotherapie, Bestrahlung und Erhaltung auf dieselbe Entscheidung beziehen.

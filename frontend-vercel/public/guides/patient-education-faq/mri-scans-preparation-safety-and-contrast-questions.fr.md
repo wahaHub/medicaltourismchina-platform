@@ -1,15 +1,17 @@
-# IRM en Chine : carte d’implant, décision sur le contraste et prise en charge de la claustrophobie à régler avant l’examen
+# IRM en Chine : implants, produit de contraste et claustrophobie
 
 ## Hero
 
-- **Title:** IRM en Chine : carte d’implant, décision sur le contraste et prise en charge de la claustrophobie à régler avant l’examen
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Examens et diagnostic
-- **Subtitle:** Guide pratique du contrôle de sécurité magnétique, des questions sur le gadolinium, de la préparation le jour de l’examen et de la récupération d’images utilisables après celui-ci.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Clinicien expliquant un appareil d’IRM avec des symboles de sécurité magnétique et de produit de contraste intraveineux
+
+
+- **Title:** IRM en Chine : implants, produit de contraste et claustrophobie
+- **Subtitle:** Préparez une IRM en Chine : détails d’implants vérifiés, questions sur le contraste et les reins, grossesse, claustrophobie et récupération des DICOM.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -165,13 +167,15 @@ Les recommandations professionnelles soutiennent généralement la poursuite de 
 ## SEO Metadata
 
 - **Slug:** `mri-scans-preparation-safety-and-contrast-questions`
-- **Meta title:** Préparation à l’IRM : implants, gadolinium et claustrophobie
-- **Meta description:** Préparez une IRM en Chine : détails d’implants vérifiés, questions sur le contraste et les reins, grossesse, claustrophobie et récupération des DICOM.
 - **Primary keyword:** préparation et sécurité IRM
 - **Pillar keyword:** imagerie diagnostique en Chine
 - **Vertical keyword:** questions IRM implants et gadolinium
 - **Search intent:** conseils de préparation à l’imagerie
 - **Secondary keywords:** implant MR Conditional ; IRM gadolinium rein ; IRM claustrophobie sédation ; IRM grossesse ; IRM DICOM Chine
+
+
+- **Meta title:** IRM en Chine : implants, produit de contraste et claustrophobie
+- **Meta description:** Préparez une IRM en Chine : détails d’implants vérifiés, questions sur le contraste et les reins, grossesse, claustrophobie et récupération des DICOM.
 
 ## Sources
 

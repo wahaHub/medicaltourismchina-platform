@@ -1,12 +1,14 @@
-# Unterlagen zum T-Zell-Lymphom für eine Überweisung vorbereiten: Diagnose und jede Therapielinie dokumentieren
+# Unterlagen zum T-Zell-Lymphom für eine Überweisung nach China
 
 ## Hero
 
-- **Title:** Unterlagen zum T-Zell-Lymphom für eine Überweisung vorbereiten: Diagnose und jede Therapielinie dokumentieren
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** T-Zell-Lymphom
-- **Subtitle:** Ein Unterlagenpaket sollte dem aufnehmenden Arzt helfen, die entscheidungsrelevanten Informationen zu finden.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Unterlagen zum T-Zell-Lymphom für eine Überweisung nach China
+- **Subtitle:** T-Zell-Lymphom-Unterlagen für China vorbereiten: Gewebezuordnung, geänderte Diagnosen, vollständige Molekularbefunde, Therapielinien und schwere Nebenwirkungen erfassen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Gut vorbereitete Unterlagen zeigen, wie die Diagnose zustande kam, welche Behand
 ## SEO Metadata
 
 - **Primary keyword:** Medizinische Unterlagen zum T-Zell-Lymphom für eine Überweisung
+
+- **Meta title:** Unterlagen zum T-Zell-Lymphom für eine Überweisung nach China
+- **Meta description:** T-Zell-Lymphom-Unterlagen für China vorbereiten: Gewebezuordnung, geänderte Diagnosen, vollständige Molekularbefunde, Therapielinien und schwere Nebenwirkungen erfassen.

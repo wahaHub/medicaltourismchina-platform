@@ -1,12 +1,14 @@
-# Berapa Lama Pengobatan Sel Sabit Berlangsung? Obat, Transfusi, Pemulihan, dan Perencanaan Perjalanan
+# Pengobatan Penyakit Sel Sabit di Tiongkok: Jadwal dan Perencanaan Perjalanan
 
 ## Hero
 
-- **Title:** Berapa Lama Pengobatan Sel Sabit Berlangsung? Obat, Transfusi, Pemulihan, dan Perencanaan Perjalanan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Sel Sabit
-- **Subtitle:** Pasien sering perlu mengatur izin sekolah, pengganti di tempat kerja, perjalanan, atau pendamping sebelum pengobatan, sehingga menanyakan durasinya merupakan kebutuhan praktis.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Penyakit Sel Sabit di Tiongkok: Jadwal dan Perencanaan Perjalanan
+- **Subtitle:** Pahami jadwal obat, tes darah, transfusi, dan pemulihan pada penyakit sel sabit. Rencanakan perjalanan ke Tiongkok tanpa memutus perawatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,3 +146,6 @@ Keluarga kemudian dapat mengatur serah terima pekerjaan, pengasuhan anak, dan ke
 ## SEO Metadata
 
 - **Primary keyword:** durasi pengobatan penyakit sel sabit
+
+- **Meta title:** Pengobatan Penyakit Sel Sabit di Tiongkok: Jadwal dan Perencanaan Perjalanan
+- **Meta description:** Pahami jadwal obat, tes darah, transfusi, dan pemulihan pada penyakit sel sabit. Rencanakan perjalanan ke Tiongkok tanpa memutus perawatan.

@@ -1,12 +1,14 @@
-# Classer l’épilepsie pharmacorésistante et évaluer le risque : distinguer type de crise, syndrome, cause et réponse au traitement
+# Types et risques de l’épilepsie pharmacorésistante : évaluation en Chine
 
 ## Hero
 
-- **Title:** Classer l’épilepsie pharmacorésistante et évaluer le risque : distinguer type de crise, syndrome, cause et réponse au traitement
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Épilepsie pharmacorésistante
-- **Subtitle:** L’épilepsie pharmacorésistante ne progresse pas selon un système universel allant du stade un au stade quatre.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Types et risques de l’épilepsie pharmacorésistante : évaluation en Chine
+- **Subtitle:** Distinguez type de crise, syndrome et cause de l’épilepsie pharmacorésistante pour préparer une évaluation des risques et des options de soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -154,3 +156,6 @@ Demandez que la conclusion écrite distingue type de crise, type d’épilepsie,
 ## SEO Metadata
 
 - **Primary keyword:** classification de l’épilepsie pharmacorésistante ; épilepsie focale et généralisée ; syndromes épileptiques ; évaluation du risque épileptique en Chine
+
+- **Meta title:** Types et risques de l’épilepsie pharmacorésistante : évaluation en Chine
+- **Meta description:** Distinguez type de crise, syndrome et cause de l’épilepsie pharmacorésistante pour préparer une évaluation des risques et des options de soins en Chine.

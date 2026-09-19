@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Debería viajar a China para tratarse un paciente con mieloma múltiple?
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Mieloma múltiple
-- **Subtitle:** La disponibilidad de un medicamento nuevo es solo una parte de una decisión de tratamiento internacional.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Debería viajar a China para tratarse un paciente con mieloma múltiple?
+- **Subtitle:** Valore viajar a China por mieloma múltiple según el objetivo de la consulta, la función renal, el riesgo de fractura e infección y la aptitud para el trayecto.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Un plan de viaje viable incluye el estado clínico actual, la asistencia necesar
 ## SEO Metadata
 
 - **Primary keyword:** viajar a China para el tratamiento del mieloma múltiple
+
+- **Meta title:** ¿Debería viajar a China para tratarse un paciente con mieloma múltiple?
+- **Meta description:** Valore viajar a China por mieloma múltiple según el objetivo de la consulta, la función renal, el riesgo de fractura e infección y la aptitud para el trayecto.

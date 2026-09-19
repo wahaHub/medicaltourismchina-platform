@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Pulang Setelah Pengobatan Limfoma Hodgkin di Tiongkok: Tindak Lanjut yang Berlanjut Lintas Negara
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Limfoma Hodgkin
-- **Subtitle:** Pulang setelah pengobatan limfoma Hodgkin di Tiongkok dapat membawa kelegaan sekaligus ketidakpastian.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pulang Setelah Pengobatan Limfoma Hodgkin di Tiongkok: Tindak Lanjut yang Berlanjut Lintas Negara
+- **Subtitle:** Atur tindak lanjut limfoma Hodgkin setelah pulang dari Tiongkok dengan penilaian respons, riwayat terapi aktual, dan dokter penerima di negara asal.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Setelah setiap kunjungan penting, simpan hasil lengkap dan tindakan berikutnya y
 ## SEO Metadata
 
 - **Primary keyword:** tindak lanjut limfoma Hodgkin setelah pengobatan di Tiongkok
+
+- **Meta title:** Pulang Setelah Pengobatan Limfoma Hodgkin di Tiongkok: Tindak Lanjut yang Berlanjut Lintas Negara
+- **Meta description:** Atur tindak lanjut limfoma Hodgkin setelah pulang dari Tiongkok dengan penilaian respons, riwayat terapi aktual, dan dokter penerima di negara asal.

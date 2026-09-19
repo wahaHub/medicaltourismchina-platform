@@ -1,15 +1,17 @@
-# Protecting Your Medical Privacy When Sharing Records Internationally
+# Sharing Medical Records With China: Privacy and Consent
 
 ## Hero
 
-- **Title:** Protecting Your Medical Privacy When Sharing Records Internationally
 - **Category:** China Healthcare Guides
 - **Subcategory:** Privacy and Cross-Border Records
-- **Subtitle:** Know every recipient, send only what the task requires, use a controlled channel and decide when each person’s access should end.
 - **Reviewed by:** Medora Health Editorial Team; Chinese data-protection, privacy and information-security review required before publication
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** A patient and clinician review secure cross-border transfer of medical records
+
+
+- **Title:** Sharing Medical Records With China: Privacy and Consent
+- **Subtitle:** Map every recipient, minimise records, use secure transfer and manage consent, access, metadata and deletion when sharing health data internationally.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -246,13 +248,15 @@ Individuals have deletion rights under specified legal conditions, but hospitals
 ## SEO Metadata
 
 - **Slug:** `protecting-your-medical-privacy-when-sharing-records-internationally`
-- **Meta title:** Protect Medical Privacy in Cross-Border Record Sharing
-- **Meta description:** Map every recipient, minimise records, use secure transfer and manage consent, access, metadata and deletion when sharing health data internationally.
 - **Primary keyword:** cross-border medical record privacy China
 - **Pillar keyword:** healthcare in China for international patients
 - **Vertical keyword:** securely share medical records internationally
 - **Search intent:** informational / privacy risk management
 - **Secondary keywords:** China health data transfer; PIPL medical records; secure hospital record upload
+
+
+- **Meta title:** Sharing Medical Records With China: Privacy and Consent
+- **Meta description:** Map every recipient, minimise records, use secure transfer and manage consent, access, metadata and deletion when sharing health data internationally.
 
 ## Sources
 

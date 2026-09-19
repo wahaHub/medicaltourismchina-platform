@@ -1,12 +1,14 @@
-# Rehabilitationsmethoden nach Schlaganfall wählen: Aufgabenübung, Robotik, virtuelle Realität und häusliche Versorgung
+# Schlaganfallrehabilitation in China: Therapiemethoden vergleichen
 
 ## Hero
 
-- **Title:** Rehabilitationsmethoden nach Schlaganfall wählen: Aufgabenübung, Robotik, virtuelle Realität und häusliche Versorgung
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Rehabilitation nach ischämischem Schlaganfall
-- **Subtitle:** Familien, die eine Rehabilitation erwägen, erhalten möglicherweise sehr unterschiedliche Therapiepläne.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Schlaganfallrehabilitation in China: Therapiemethoden vergleichen
+- **Subtitle:** Methoden der Schlaganfallrehabilitation in China vergleichen: Aufgabenübung, Robotik, Stimulation und virtuelle Realität an denselben Funktionszielen messen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ Der geeignetste Vorschlag enthält möglicherweise nicht die längste Liste. Pr�
 ## SEO Metadata
 
 - **Primary keyword:** Vergleich von Behandlungen zur Schlaganfallrehabilitation
+
+- **Meta title:** Schlaganfallrehabilitation in China: Therapiemethoden vergleichen
+- **Meta description:** Methoden der Schlaganfallrehabilitation in China vergleichen: Aufgabenübung, Robotik, Stimulation und virtuelle Realität an denselben Funktionszielen messen.

@@ -1,15 +1,17 @@
-# 120 Coordinación del alta y seguimiento en el extranjero desde un hospital chino: «enviado» no es «recibido»
+# Alta hospitalaria en China: planificar el seguimiento en el extranjero
 
 ## Hero
 
-- **Title:** Coordinación del alta y seguimiento en el extranjero desde un hospital chino: «enviado» no es «recibido»
 - **Category:** Guías de hospitales
 - **Subcategory:** Alta y seguimiento transfronterizos
-- **Subtitle:** Un alta segura solo se completa cuando el paciente está estable, el viaje se evalúa por separado, los documentos son utilizables, los resultados pendientes tienen un responsable y un médico en el país de origen acepta la siguiente tarea.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Reunión conceptual de alta con un paciente internacional, equipaje, un coordinador, un calendario, una ruta y un contacto de seguimiento; no representa un hospital real, una autorización para volar, un expediente ni una garantía.
+
+
+- **Title:** Alta hospitalaria en China: planificar el seguimiento en el extranjero
+- **Subtitle:** Complete de forma segura el alta de un hospital chino con conciliación de medicamentos, documentos originales, responsables de resultados pendientes, evaluación para viajar y traspaso confirmado al médico del país de origen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -219,13 +221,15 @@ El médico receptor confirma que los documentos son legibles, que la identidad y
 ## SEO Metadata
 
 - **Slug:** `discharge-coordination-and-overseas-follow-up-from-a-chinese-hospital`
-- **Meta title:** Alta y seguimiento en el extranjero desde un hospital chino
-- **Meta description:** Complete de forma segura el alta de un hospital chino con conciliación de medicamentos, documentos originales, responsables de resultados pendientes, evaluación para viajar y traspaso confirmado al médico del país de origen.
 - **Primary keyword:** alta de un hospital chino para pacientes internacionales
 - **Pillar keyword:** seguimiento en el extranjero después de un tratamiento en China
 - **Vertical keyword:** coordinación del alta médica transfronteriza
 - **Search intent:** planificación del alta y seguimiento
 - **Secondary keywords:** alta hospitalaria en China; seguimiento después de tratamiento en China; aptitud para volar después de cirugía en China; documentos médicos chinos; traspaso transfronterizo de pacientes
+
+
+- **Meta title:** Alta hospitalaria en China: planificar el seguimiento en el extranjero
+- **Meta description:** Complete de forma segura el alta de un hospital chino con conciliación de medicamentos, documentos originales, responsables de resultados pendientes, evaluación para viajar y traspaso confirmado al médico del país de origen.
 
 ## Fuentes
 

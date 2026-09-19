@@ -1,15 +1,17 @@
-# Bevor Sie einem Behandlungsplan im Ausland zustimmen: Fragen, die die Entscheidung verändern
+# Behandlungspläne in China: Fragen vor Ihrer Zustimmung
 
 ## Hero
 
-- **Title:** Bevor Sie einem Behandlungsplan im Ausland zustimmen: Fragen, die die Entscheidung verändern
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Patientenentscheidungen & Unterstützung für Betreuungspersonen
-- **Subtitle:** Ein strukturiertes Vorgehen, um die Diagnose zu prüfen, Optionen zu vergleichen, persönliche Risiken zu verstehen und Zuständigkeiten für Komplikationen und Nachsorge festzulegen.
 - **Reviewed by:** Medora Health Redaktion
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Internationaler Patient und Begleitperson stellen einem Arzt ausführliche Fragen, bevor sie einem Behandlungsplan zustimmen
+
+
+- **Title:** Behandlungspläne in China: Fragen vor Ihrer Zustimmung
+- **Subtitle:** Prüfen Sie einen Auslandsbehandlungsvorschlag mit Fragen zu Diagnose, Alternativen, Ergebnissen, persönlichen Risiken, ärztlicher Verantwortung, Kosten und Nachsorge.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Einwilligung ist ein Gespräch, keine Unterschrift. Nutzen Sie einen qualifizierten Dolmetscher und die Wiedergabe in eigenen Worten, um das Verständnis zu prüfen [1][6].
 
 ## Content
+
+Wenn Sie einen Behandlungsplan eines Krankenhauses in China erwägen, nutzen Sie diese Fragen, bevor Sie den Kostenvoranschlag annehmen oder die Reise organisieren. Die medizinische Begründung, Alternativen, das namentlich benannte Behandlungsteam und die Regelungen für Komplikationen sollten so klar sein, dass Sie sie mit Ihrem Arzt zu Hause besprechen können.
+
 
 Ein Auslandsplan kann als professionell gestaltetes PDF eintreffen: Behandlungsname, optimistischer Zeitplan, Paketpreis und einige Erfahrungsberichte. Dennoch kann die klinische Entscheidung damit nahezu ungeklärt bleiben. Die nützliche Arbeit beginnt, wenn der Patient in einfacher Sprache erklären kann, warum diese Option empfohlen wurde, was sonst möglich wäre, was schiefgehen könnte und wer hilft, wenn die erwartete Erholung ausbleibt.
 
@@ -195,11 +200,13 @@ Bitten Sie schriftlich um neue Evidenz, Alternativen, Risiken, Zeitplan und Kost
 
 ## SEO Metadata
 
-- **SEO title:** Fragen vor Zustimmung zu einem Behandlungsplan im Ausland
-- **Meta description:** Prüfen Sie einen Auslandsbehandlungsvorschlag mit Fragen zu Diagnose, Alternativen, Ergebnissen, persönlichen Risiken, ärztlicher Verantwortung, Kosten und Nachsorge.
 - **Primary keyword:** Fragen vor einer Auslandsbehandlung
 - **Secondary keywords:** Behandlungsplan im Ausland, informierte Einwilligung Medizintourismus, Behandlungsrisiken im Ausland, Zweitmeinung internationale Patienten, Nachsorge medizinische Reisen
 - **Suggested URL slug:** `/questions-before-accepting-overseas-treatment`
+
+
+- **Meta title:** Behandlungspläne in China: Fragen vor Ihrer Zustimmung
+- **Meta description:** Prüfen Sie einen Auslandsbehandlungsvorschlag mit Fragen zu Diagnose, Alternativen, Ergebnissen, persönlichen Risiken, ärztlicher Verantwortung, Kosten und Nachsorge.
 
 ## Quellen
 

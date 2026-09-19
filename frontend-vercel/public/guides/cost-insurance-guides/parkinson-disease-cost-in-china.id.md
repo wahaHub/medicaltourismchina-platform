@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Biaya Pengobatan Parkinson di Tiongkok: Obat, DBS, dan Pengeluaran Setelah Pengobatan
 - **Category:** Panduan Biaya & Asuransi
 - **Subcategory:** Penyakit Parkinson
-- **Subtitle:** Biaya perawatan Parkinson bergantung pada masalah yang ditangani.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Biaya Pengobatan Parkinson di Tiongkok: Obat, DBS, dan Pengeluaran Setelah Pengobatan
+- **Subtitle:** Susun estimasi Parkinson di Tiongkok sesuai kebutuhan penilaian, obat, atau DBS. Perhitungkan pemrograman perangkat dan perawatan setelah tindakan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Simpan nama resmi rumah sakit, tanggal penawaran, masa berlaku, mata uang, pener
 ## SEO Metadata
 
 - **Primary keyword:** biaya pengobatan penyakit Parkinson di Tiongkok
+
+- **Meta title:** Biaya Pengobatan Parkinson di Tiongkok: Obat, DBS, dan Pengeluaran Setelah Pengobatan
+- **Meta description:** Susun estimasi Parkinson di Tiongkok sesuai kebutuhan penilaian, obat, atau DBS. Perhitungkan pemrograman perangkat dan perawatan setelah tindakan.

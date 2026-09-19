@@ -1,15 +1,17 @@
-# 082 Ensayos de vacunas contra el cáncer: qué está evaluando la investigación
+# Ensayos de vacunas contra el cáncer en China: evidencia y elegibilidad
 
 ## Hero
 
-- **Title:** Ensayos de vacunas contra el cáncer: qué está evaluando la investigación
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Inmunoterapia contra el cáncer
-- **Subtitle:** Distinga la prevención del tratamiento y después examine la elección de antígenos, la plataforma vacunal, las mediciones inmunitarias, el tiempo de fabricación y el criterio de valoración clínico relevante.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Se necesita una imagen de sustitución: presentación de antígenos tumorales a células inmunitarias, con un proceso de diseño y fabricación de vacunas personalizadas y evaluación de resultados clínicos.
+
+
+- **Title:** Ensayos de vacunas contra el cáncer en China: evidencia y elegibilidad
+- **Subtitle:** Comprenda los ensayos de vacunas terapéuticas: prevención frente a tratamiento, antígenos, fabricación de neoantígenos, criterios inmunitarios, combinaciones y verificación en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -170,11 +172,13 @@ No sin un plan establecido por un oncólogo y específico del protocolo. Pregunt
 ## SEO Metadata
 
 - **Slug:** `cancer-vaccine-trials-what-the-research-is-testing`
-- **Meta title:** Ensayos de vacunas contra el cáncer: antígenos, evidencia y fabricación
-- **Meta description:** Comprenda los ensayos de vacunas terapéuticas: prevención frente a tratamiento, antígenos, fabricación de neoantígenos, criterios inmunitarios, combinaciones y verificación en China.
 - **Primary keyword:** ensayos clínicos de vacunas contra el cáncer
 - **Secondary keywords:** vacuna terapéutica contra el cáncer; vacuna personalizada de neoantígenos; vacuna contra el cáncer en China; inmunogenicidad de vacunas contra el cáncer; ensayo de vacuna de células dendríticas
 - **Search intent:** evidencia de ensayos de vacunas contra el cáncer / evaluación de elegibilidad
+
+
+- **Meta title:** Ensayos de vacunas contra el cáncer en China: evidencia y elegibilidad
+- **Meta description:** Comprenda los ensayos de vacunas terapéuticas: prevención frente a tratamiento, antígenos, fabricación de neoantígenos, criterios inmunitarios, combinaciones y verificación en China.
 
 ## Fuentes
 

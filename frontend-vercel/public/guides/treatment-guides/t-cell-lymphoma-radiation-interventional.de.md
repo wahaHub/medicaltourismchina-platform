@@ -1,12 +1,14 @@
-# Wann braucht ein T-Zell-Lymphom eine Strahlentherapie? Zweck, Behandlungsgebiet und Planung
+# Strahlentherapie beim T-Zell-Lymphom in China: Wann und warum?
 
 ## Hero
 
-- **Title:** Wann braucht ein T-Zell-Lymphom eine Strahlentherapie? Zweck, Behandlungsgebiet und Planung
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** T-Zell-Lymphom
-- **Subtitle:** Eine Strahlentherapieempfehlung bedeutet nicht automatisch, dass die Chemotherapie versagt hat.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Strahlentherapie beim T-Zell-Lymphom in China: Wann und warum?
+- **Subtitle:** Strahlentherapie beim T-Zell-Lymphom in China besprechen: Subtyp, lokales Ziel, Behandlungsgebiet, Dosis und frühere Bestrahlung in die Planung einbeziehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ Nach dem Gespräch sollte der Patient erklären können, warum Bestrahlung gewä
 ## SEO Metadata
 
 - **Primary keyword:** Strahlentherapie bei T-Zell-Lymphomen
+
+- **Meta title:** Strahlentherapie beim T-Zell-Lymphom in China: Wann und warum?
+- **Meta description:** Strahlentherapie beim T-Zell-Lymphom in China besprechen: Subtyp, lokales Ziel, Behandlungsgebiet, Dosis und frühere Bestrahlung in die Planung einbeziehen.

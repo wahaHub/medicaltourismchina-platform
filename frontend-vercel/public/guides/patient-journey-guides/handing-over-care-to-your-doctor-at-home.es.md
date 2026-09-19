@@ -1,15 +1,17 @@
-# 149 Traspasar la atención a su médico en su país: «recibido» no es «aceptado»
+# Regresar a casa después de la atención en China: traspaso a su médico
 
 ## Hero
 
-- **Title:** Traspasar la atención a su médico en su país: «recibido» no es «aceptado»
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Traspaso de la atención clínica en su país
-- **Subtitle:** Convierta el registro de un tratamiento en el extranjero en un plan local aceptado, con un médico identificado, responsabilidades explícitas y ninguna tarea sin responsable.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un médico en el país de origen revisa un plan de atención con un paciente que regresa y un familiar.
+
+
+- **Title:** Regresar a casa después de la atención en China: traspaso a su médico
+- **Subtitle:** Transfiera la atención después del tratamiento en China con un médico receptor, un resumen de problemas, responsables de tareas, un plan de resultados pendientes y aceptación explícita.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -191,13 +193,15 @@ Después de que el equipo local haya evaluado al paciente, aceptado las tareas p
 ## SEO Metadata
 
 - **Slug:** `handing-over-care-to-your-doctor-at-home`
-- **Meta title:** Traspasar la atención a su médico en su país | Traspaso clínico
-- **Meta description:** Transfiera la atención después del tratamiento en China con un médico receptor, un resumen de problemas, responsables de tareas, un plan de resultados pendientes y aceptación explícita.
 - **Primary keyword:** traspasar la atención a su médico en su país
 - **Pillar keyword:** viaje médico a China
 - **Vertical keyword:** traspaso clínico de pacientes internacionales
 - **Search intent:** continuidad de la atención / planificación del regreso a casa
 - **Secondary keywords:** médico receptor después de un viaje médico; traspaso entre médicos; seguimiento de tratamiento en el extranjero; responsabilidad sobre pruebas pendientes; lista de comprobación de transferencia de atención
+
+
+- **Meta title:** Regresar a casa después de la atención en China: traspaso a su médico
+- **Meta description:** Transfiera la atención después del tratamiento en China con un médico receptor, un resumen de problemas, responsables de tareas, un plan de resultados pendientes y aceptación explícita.
 
 ## Fuentes
 

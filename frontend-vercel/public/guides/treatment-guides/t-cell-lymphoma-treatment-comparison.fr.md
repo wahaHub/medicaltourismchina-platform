@@ -1,12 +1,14 @@
-# Comparer les traitements des lymphomes T : ce que les listes de médicaments et les taux de réponse omettent
+# Options de traitement du lymphome T en Chine : comparaison
 
 ## Hero
 
-- **Title:** Comparer les traitements des lymphomes T : ce que les listes de médicaments et les taux de réponse omettent
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome T
-- **Subtitle:** Face à deux recommandations différentes, les patients comparent souvent le nombre de médicaments, leur prix ou les taux de réponse trouvés en ligne.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Options de traitement du lymphome T en Chine : comparaison
+- **Subtitle:** Comparez les traitements du lymphome T selon le sous-type, les données des essais et les critères de réponse plutôt que les seuls taux annoncés, pour des soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -109,3 +111,6 @@ Demandez au clinicien ce qui pourrait être gagné et ce qui pourrait être perd
 ## SEO Metadata
 
 - **Primary keyword:** comparaison des traitements du lymphome T
+
+- **Meta title:** Options de traitement du lymphome T en Chine : comparaison
+- **Meta description:** Comparez les traitements du lymphome T selon le sous-type, les données des essais et les critères de réponse plutôt que les seuls taux annoncés, pour des soins en Chine.

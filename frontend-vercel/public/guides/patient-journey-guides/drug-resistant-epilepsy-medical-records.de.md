@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Medizinische Unterlagen für eine Beratung zu pharmakoresistenter Epilepsie in China: die Vorgeschichte verständlich machen
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Pharmakoresistente Epilepsie
-- **Subtitle:** Eine große Tasche voller Berichte erleichtert eine Beratung nicht unbedingt mehr als eine sorgfältig geordnete Dokumentation.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medizinische Unterlagen für eine Beratung zu pharmakoresistenter Epilepsie in China: die Vorgeschichte verständlich machen
+- **Subtitle:** Unterlagen zur Epilepsieberatung in China vorbereiten: Ereignisarten, Anfallstagebuch, tatsächliche Medikamentenversuche, EEG-Aufzeichnungen und MRT zusammenführen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -169,3 +171,6 @@ Reagieren Sie nach der ersten Prüfung auf konkrete Anfragen, statt wiederholt e
 
 - **Primary keyword:** medizinische Unterlagen zu pharmakoresistenter Epilepsie für China; Dokumente für Epilepsieberatung; Original-MRT-Dateien; Vorgeschichte anfallssuppressiver Medikamente
 
+
+- **Meta title:** Medizinische Unterlagen für eine Beratung zu pharmakoresistenter Epilepsie in China: die Vorgeschichte verständlich machen
+- **Meta description:** Unterlagen zur Epilepsieberatung in China vorbereiten: Ereignisarten, Anfallstagebuch, tatsächliche Medikamentenversuche, EEG-Aufzeichnungen und MRT zusammenführen.

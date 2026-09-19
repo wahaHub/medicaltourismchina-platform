@@ -1,15 +1,17 @@
-# 154 Pourquoi le devis a changé après l’évaluation : examiner les changements cliniques
+# Pourquoi un devis médical en Chine change après l’évaluation
 
 ## Hero
 
-- **Title:** Pourquoi le devis a changé après l’évaluation : examiner les changements cliniques
 - **Category:** Guides des coûts et assurances
 - **Subcategory:** Révisions de devis
-- **Subtitle:** Reliez chaque modification importante du prix à de nouvelles données, à une décision thérapeutique modifiée ou à une hypothèse administrative corrigée.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un médecin explique un devis thérapeutique révisé couvrant les soins, l’assurance et les coûts.
+
+
+- **Title:** Pourquoi un devis médical en Chine change après l’évaluation
+- **Subtitle:** Reliez chaque modification importante du prix à de nouvelles données, à une décision thérapeutique modifiée ou à une hypothèse administrative corrigée.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -199,13 +201,15 @@ Utilisez le dernier devis approuvé et son historique de changements. Classez le
 ## SEO Metadata
 
 - **Slug:** `why-a-medical-cost-estimate-may-change-after-evaluation`
-- **Meta title:** Pourquoi un devis médical en Chine change après l’évaluation
-- **Meta description:** Examinez un devis thérapeutique révisé en Chine en reliant les nouvelles constatations aux décisions cliniques, services ajoutés ou retirés, consentement et paiement du patient.
 - **Primary keyword:** devis médical modifié après évaluation
 - **Pillar keyword:** coût des traitements médicaux en Chine
 - **Vertical keyword:** devis hospitalier révisé en Chine
 - **Search intent:** révision des coûts / décision thérapeutique
 - **Secondary keywords:** modification de devis de voyage médical ; historique des changements de coûts hospitaliers ; plan thérapeutique révisé en Chine ; devis médical préliminaire ; devis et facture finale
+
+
+- **Meta title:** Pourquoi un devis médical en Chine change après l’évaluation
+- **Meta description:** Examinez un devis thérapeutique révisé en Chine en reliant les nouvelles constatations aux décisions cliniques, services ajoutés ou retirés, consentement et paiement du patient.
 
 ## Sources
 

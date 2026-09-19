@@ -1,12 +1,14 @@
-# Medicación para la enfermedad de Alzheimer: síntomas cognitivos, anticuerpos y tratamiento de la agitación
+# Medicamentos para el Alzheimer en China: opciones, acceso y vigilancia
 
 ## Hero
 
-- **Title:** Medicación para la enfermedad de Alzheimer: síntomas cognitivos, anticuerpos y tratamiento de la agitación
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de Alzheimer
-- **Subtitle:** Una prescripción para el Alzheimer puede contener medicamentos para la cognición, tratamientos de otras enfermedades y un fármaco para abordar conductas que causan malestar.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medicamentos para el Alzheimer en China: opciones, acceso y vigilancia
+- **Subtitle:** Comprenda la finalidad de los medicamentos para el Alzheimer y qué comprobar sobre elegibilidad, acceso y vigilancia al preparar tratamiento en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -143,3 +145,6 @@ El valor de la prescripción depende en parte de si pueden mantenerse estas disp
 ## SEO Metadata
 
 - **Primary keyword:** medicación para la enfermedad de Alzheimer
+
+- **Meta title:** Medicamentos para el Alzheimer en China: opciones, acceso y vigilancia
+- **Meta description:** Comprenda la finalidad de los medicamentos para el Alzheimer y qué comprobar sobre elegibilidad, acceso y vigilancia al preparar tratamiento en China.

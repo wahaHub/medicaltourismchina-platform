@@ -1,12 +1,14 @@
-# Examens en cas de suspicion de LDGCB : biopsie, bilan d’extension et préparation au traitement
+# Diagnostic du LDGCB en Chine : biopsie, bilan d’extension et préparation
 
 ## Hero
 
-- **Title:** Examens en cas de suspicion de LDGCB : biopsie, bilan d’extension et préparation au traitement
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Lymphome diffus à grandes cellules B
-- **Subtitle:** Les examens du lymphome diffus à grandes cellules B doivent répondre à quatre questions liées : s’agit-il d’un lymphome, de quel lymphome s’agit-il, où est-il présent et quel traitement le patient peut-il recevoir sans danger ?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnostic du LDGCB en Chine : biopsie, bilan d’extension et préparation
+- **Subtitle:** Préparez le diagnostic d’un LDGCB en Chine en comprenant les rôles de la biopsie, des marqueurs, des tests génétiques et de la TEP/TDM.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ La fertilité, la nutrition et le soutien pratique doivent être discutés avant
 ## SEO Metadata
 
 - **Primary keyword:** examens diagnostiques du LDGCB
+
+- **Meta title:** Diagnostic du LDGCB en Chine : biopsie, bilan d’extension et préparation
+- **Meta description:** Préparez le diagnostic d’un LDGCB en Chine en comprenant les rôles de la biopsie, des marqueurs, des tests génétiques et de la TEP/TDM.

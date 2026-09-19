@@ -1,15 +1,17 @@
-# Liquid Biopsy in Cancer Care: Uses, Limits, and Clinical Trials
+# Liquid Biopsy in China: Cancer Testing, Limits and Trials
 
 ## Hero
 
-- **Title:** Liquid Biopsy in Cancer Care: Uses, Limits, and Clinical Trials
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Molecular Testing & Precision Oncology
-- **Subtitle:** Match the specimen, assay and clinical decision—and know what a negative result cannot exclude.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Temporary consultation illustration with a test-tube icon, awaiting a scientifically accurate blood-plasma, cell-free DNA and sequencing image.
+
+
+- **Title:** Liquid Biopsy in China: Cancer Testing, Limits and Trials
+- **Subtitle:** Understand ctDNA liquid biopsy for advanced cancer, MRD, monitoring and screening, including false negatives, clonal haematopoiesis, tissue confirmation and trials.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,11 +135,13 @@ White-cell DNA helps distinguish tumour variants from clonal haematopoiesis or p
 ## SEO Metadata
 
 - **Slug:** `liquid-biopsy-in-cancer-care-uses-limits-and-clinical-trials`
-- **Meta title:** Liquid Biopsy in Cancer: Uses, Limits and Trials
-- **Meta description:** Understand ctDNA liquid biopsy for advanced cancer, MRD, monitoring and screening, including false negatives, clonal haematopoiesis, tissue confirmation and trials.
 - **Primary keyword:** liquid biopsy in cancer care
 - **Secondary keywords:** ctDNA testing; molecular residual disease; plasma genomic testing; liquid biopsy false negative; ctDNA clinical trial
 - **Search intent:** molecular-test interpretation / trial screening
+
+
+- **Meta title:** Liquid Biopsy in China: Cancer Testing, Limits and Trials
+- **Meta description:** Understand ctDNA liquid biopsy for advanced cancer, MRD, monitoring and screening, including false negatives, clonal haematopoiesis, tissue confirmation and trials.
 
 ## Sources
 

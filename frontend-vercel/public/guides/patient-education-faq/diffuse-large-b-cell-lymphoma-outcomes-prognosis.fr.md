@@ -1,12 +1,14 @@
-# Peut-on guérir du DLBCL ? Comprendre la réponse, la rechute et le pronostic
+# Rémission et pronostic du LDGCB : questions pour des soins en Chine
 
 ## Hero
 
-- **Title:** Peut-on guérir du DLBCL ? Comprendre la réponse, la rechute et le pronostic
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Lymphome diffus à grandes cellules B
-- **Subtitle:** Le DLBCL peut être traité avec la guérison pour objectif, y compris chez certaines personnes ayant une maladie de stade avancé.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rémission et pronostic du LDGCB : questions pour des soins en Chine
+- **Subtitle:** Distinguez rémission et guérison du lymphome diffus à grandes cellules B. Préparez en Chine une discussion sur les facteurs de risque et la réponse au traitement.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ Les proches doivent demander quel niveau de détail le patient souhaite et soute
 ## SEO Metadata
 
 - **Primary keyword:** pronostic et guérison du DLBCL
+
+- **Meta title:** Rémission et pronostic du LDGCB : questions pour des soins en Chine
+- **Meta description:** Distinguez rémission et guérison du lymphome diffus à grandes cellules B. Préparez en Chine une discussion sur les facteurs de risque et la réponse au traitement.

@@ -1,12 +1,14 @@
-# Pruebas para el linfoma folicular: elegir una biopsia, establecer el estadio y prepararse de forma segura para el tratamiento
+# Diagnóstico de linfoma folicular en China: biopsia y estadificación
 
 ## Hero
 
-- **Title:** Pruebas para el linfoma folicular: elegir una biopsia, establecer el estadio y prepararse de forma segura para el tratamiento
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma folicular
-- **Subtitle:** Un ganglio aumentado de tamaño en el cuello o una exploración que describe varios ganglios hinchados no establecen un diagnóstico de linfoma folicular.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnóstico de linfoma folicular en China: biopsia y estadificación
+- **Subtitle:** Conozca el papel de la biopsia, los marcadores, los análisis y la PET/TC en el linfoma folicular al preparar diagnóstico y tratamiento en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ El transporte de muestras, el procesamiento rutinario y las pruebas adicionales 
 ## SEO Metadata
 
 - **Primary keyword:** pruebas de linfoma folicular
+
+- **Meta title:** Diagnóstico de linfoma folicular en China: biopsia y estadificación
+- **Meta description:** Conozca el papel de la biopsia, los marcadores, los análisis y la PET/TC en el linfoma folicular al preparar diagnóstico y tratamiento en China.

@@ -1,12 +1,14 @@
-# Parkinson’s treatment side effects: dizziness, hallucinations, dyskinesia and new symptoms
+# Parkinson’s Treatment in China: Side Effects and New Symptoms
 
 ## Hero
 
-- **Title:** Parkinson’s treatment side effects: dizziness, hallucinations, dyskinesia and new symptoms
 - **Category:** Treatment Guides
 - **Subcategory:** Parkinson Disease
-- **Subtitle:** Parkinson’s treatment side effects: dizziness, hallucinations, dyskinesia and new symptoms
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Parkinson’s Treatment in China: Side Effects and New Symptoms
+- **Subtitle:** Recognize dizziness, hallucinations, dyskinesia and other changes during Parkinson’s treatment, and arrange medicine review and follow-up after China care.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ The practical objective is a treatment balance that can be maintained and review
 ## SEO Metadata
 
 - **Primary keyword:** Parkinson’s disease treatment side effects
+
+- **Meta title:** Parkinson’s Treatment in China: Side Effects and New Symptoms
+- **Meta description:** Recognize dizziness, hallucinations, dyskinesia and other changes during Parkinson’s treatment, and arrange medicine review and follow-up after China care.

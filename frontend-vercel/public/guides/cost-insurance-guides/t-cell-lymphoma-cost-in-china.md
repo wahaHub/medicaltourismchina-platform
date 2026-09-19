@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** What does T-cell lymphoma treatment cost in China? Building an estimate that can be compared and updated
 - **Category:** Cost & Insurance Guides
 - **Subcategory:** T Cell Lymphoma
-- **Subtitle:** Two documents labelled T-cell lymphoma treatment may describe very different services.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** What does T-cell lymphoma treatment cost in China? Building an estimate that can be compared and updated
+- **Subtitle:** Compare T-cell lymphoma treatment costs in China with itemized assumptions for subtype review, medicines, procedures, support and follow-up.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Avoid altering tablets, extending intervals or buying an unverified substitute t
 ## SEO Metadata
 
 - **Primary keyword:** T-cell lymphoma treatment cost in China
+
+- **Meta title:** What does T-cell lymphoma treatment cost in China? Building an estimate that can be compared and updated
+- **Meta description:** Compare T-cell lymphoma treatment costs in China with itemized assumptions for subtype review, medicines, procedures, support and follow-up.

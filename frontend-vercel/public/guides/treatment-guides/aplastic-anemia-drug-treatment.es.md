@@ -1,12 +1,14 @@
-# Medicamentos para la anemia aplásica: comprender ATG, ciclosporina y eltrombopag
+# Medicamentos para anemia aplásica en China: globulina antitimocítica, ciclosporina y otras opciones
 
 ## Hero
 
-- **Title:** Medicamentos para la anemia aplásica: comprender ATG, ciclosporina y eltrombopag
 - **Category:** Guías de tratamiento
 - **Subcategory:** Anemia aplásica
-- **Subtitle:** Una bolsa de medicamentos para la anemia aplásica puede contener tratamiento prolongado, prevención de infecciones y ciclos cortos para síntomas o efectos adversos.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medicamentos para anemia aplásica en China: globulina antitimocítica, ciclosporina y otras opciones
+- **Subtitle:** Comprenda la función de la globulina antitimocítica, ciclosporina y eltrombopag en anemia aplásica, y prepare preguntas de vigilancia para su atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ Un presupuesto desglosado en renminbi debe separar ATG y administración, fárma
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento farmacológico de la anemia aplásica
+
+- **Meta title:** Medicamentos para anemia aplásica en China: globulina antitimocítica, ciclosporina y otras opciones
+- **Meta description:** Comprenda la función de la globulina antitimocítica, ciclosporina y eltrombopag en anemia aplásica, y prepare preguntas de vigilancia para su atención en China.

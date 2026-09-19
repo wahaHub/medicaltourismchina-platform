@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Costes del tratamiento de la EICH en China: elaborar un presupuesto desglosado en RMB
 - **Category:** Guías de costes y seguros
 - **Subcategory:** Enfermedad de injerto contra huésped
-- **Subtitle:** No existe un único precio nacional para tratar la enfermedad de injerto contra huésped.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Costes del tratamiento de la EICH en China: elaborar un presupuesto desglosado en RMB
+- **Subtitle:** Prepare una estimación de atención a la enfermedad injerto contra huésped en China que contemple medicación, órganos afectados y cuidados de apoyo continuados.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ El resultado útil es un presupuesto explicable en RMB con incertidumbres declar
 ## SEO Metadata
 
 - **Primary keyword:** coste del tratamiento de la EICH en China
+
+- **Meta title:** Costes del tratamiento de la EICH en China: elaborar un presupuesto desglosado en RMB
+- **Meta description:** Prepare una estimación de atención a la enfermedad injerto contra huésped en China que contemple medicación, órganos afectados y cuidados de apoyo continuados.

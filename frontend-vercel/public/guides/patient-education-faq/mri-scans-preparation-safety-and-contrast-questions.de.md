@@ -1,15 +1,17 @@
-# MRT in China: Implantatausweis, Kontrastmittelentscheidung und Klaustrophobieplan vor dem Untersuchungstag klären
+# MRT in China: Implantate, Kontrastmittel und Klaustrophobie
 
 ## Hero
 
-- **Title:** MRT in China: Implantatausweis, Kontrastmittelentscheidung und Klaustrophobieplan vor dem Untersuchungstag klären
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Untersuchungen und Diagnose
-- **Subtitle:** Ein praktischer Leitfaden zur Prüfung der Magnetsicherheit, zu Gadoliniumfragen, zur Vorbereitung am Untersuchungstag und zum Erhalt nutzbarer Bilder nach der Untersuchung.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Eine ärztliche Fachperson erklärt einen MRT-Scanner mit Symbolen für Magnetsicherheit und intravenöses Kontrastmittel
+
+
+- **Title:** MRT in China: Implantate, Kontrastmittel und Klaustrophobie
+- **Subtitle:** Bereiten Sie Ihre MRT in China mit geprüften Implantatdaten, Kontrastmittel- und Nierenfragen, Schwangerschaftsprüfung, Klaustrophobieplan und DICOM-Abruf vor.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -165,13 +167,15 @@ Fachliche Empfehlungen unterstützen im Allgemeinen das Weiterstillen nach stand
 ## SEO Metadata
 
 - **Slug:** `mri-scans-preparation-safety-and-contrast-questions`
-- **Meta title:** MRT-Vorbereitung: Implantate, Gadolinium und Klaustrophobie
-- **Meta description:** Bereiten Sie Ihre MRT in China mit geprüften Implantatdaten, Kontrastmittel- und Nierenfragen, Schwangerschaftsprüfung, Klaustrophobieplan und DICOM-Abruf vor.
 - **Primary keyword:** MRT Vorbereitung und Sicherheit
 - **Pillar keyword:** diagnostische Bildgebung in China
 - **Vertical keyword:** MRT Fragen zu Implantaten und Gadolinium
 - **Search intent:** Anleitung zur Vorbereitung auf Bildgebung
 - **Secondary keywords:** MR Conditional Implantat; MRT Gadolinium Niere; MRT Klaustrophobie Sedierung; MRT Schwangerschaft; MRT DICOM China
+
+
+- **Meta title:** MRT in China: Implantate, Kontrastmittel und Klaustrophobie
+- **Meta description:** Bereiten Sie Ihre MRT in China mit geprüften Implantatdaten, Kontrastmittel- und Nierenfragen, Schwangerschaftsprüfung, Klaustrophobieplan und DICOM-Abruf vor.
 
 ## Quellen
 

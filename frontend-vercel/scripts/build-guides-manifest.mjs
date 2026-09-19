@@ -222,6 +222,7 @@ async function buildManifest() {
           excerpt: "",
           locales: [],
           updatedDate: "",
+          updatedDateByLocale: {},
           readTimeMinutes: 0,
         };
         guideMap.set(base, guide);
@@ -242,7 +243,12 @@ async function buildManifest() {
       if (seo.description) seoGuides[seoKey].description[locale] = seo.description;
       if (hero.reviewedBy) seoGuides[seoKey].reviewedBy[locale] = hero.reviewedBy;
       guide.subcategory = hero.subcategory || guide.subcategory;
-      guide.updatedDate = hero.updatedDate || guide.updatedDate;
+      if (hero.updatedDate) {
+        guide.updatedDateByLocale[locale] = hero.updatedDate;
+        // A translation edit must not silently date every other language page.
+        const candidate = hero.updatedDate.replaceAll('/', '-');
+        if (candidate > guide.updatedDate.replaceAll('/', '-')) guide.updatedDate = hero.updatedDate;
+      }
       if (!guide.locales.includes(locale)) guide.locales.push(locale);
       if (!guide.excerpt) {
         guide.excerpt = excerpt;

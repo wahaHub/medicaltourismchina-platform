@@ -1,15 +1,17 @@
-# Medical Travel With Limited Mobility: Plan Every Transfer, Not Just the Flight
+# Medical Travel to China With Limited Mobility: Assistance
 
 ## Hero
 
-- **Title:** Medical Travel With Limited Mobility: Plan Every Transfer, Not Just the Flight
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Accessibility & Recovery
-- **Subtitle:** A door-to-door guide to assistance requests, wheelchair handling, toileting, pressure relief, hospital access, accommodation and recovery support.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Wheelchair user and companion review airport assistance, hospital access and recovery dates before medical travel
+
+
+- **Title:** Medical Travel to China With Limited Mobility: Assistance
+- **Subtitle:** Plan wheelchair assistance, transfers, batteries, seating, toileting, hospital access and recovery for medical travel with limited mobility.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - The destination must work after arrival: vehicle transfer, doorway widths, bed and toilet height, shower access, lifts, hospital routes and reliable equipment repair matter as much as the aircraft.
 
 ## Content
+
+For a patient with limited mobility travelling to China for care, check each transfer from the departure address to the hospital and recovery accommodation. Record the assistance, wheelchair details and personal-care support needed, then review the return route again after treatment.
+
 
 Limited mobility is a functional description, not a diagnosis. One traveler may walk a few metres but cannot climb aircraft stairs. Another can transfer independently but cannot sit without a pressure-relieving cushion. A third needs two trained people and a hoist. The itinerary is safe only when every handoff is built around the actual function.
 
@@ -159,11 +164,13 @@ Delay and reassess if transfers are unsafe, pain is uncontrolled, the patient ca
 
 ## SEO Metadata
 
-- **SEO title:** Medical Travel With Limited Mobility: Door-to-Door Guide
-- **Meta description:** Plan wheelchair assistance, transfers, batteries, seating, toileting, hospital access and recovery for medical travel with limited mobility.
 - **Primary keyword:** medical travel with limited mobility
 - **Secondary keywords:** wheelchair airport assistance, power wheelchair air travel, accessible medical travel, hospital wheelchair transfer, mobility recovery travel
 - **Suggested URL slug:** `/medical-travel-limited-mobility`
+
+
+- **Meta title:** Medical Travel to China With Limited Mobility: Assistance
+- **Meta description:** Plan wheelchair assistance, transfers, batteries, seating, toileting, hospital access and recovery for medical travel with limited mobility.
 
 ## Sources
 

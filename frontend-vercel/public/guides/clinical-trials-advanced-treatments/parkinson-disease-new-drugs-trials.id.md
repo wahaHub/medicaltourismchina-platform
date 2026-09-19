@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Obat baru Parkinson dan uji klinis pada 2026: bukti, keterbatasan, dan persiapan penilaian di Tiongkok
 - **Category:** Uji Klinis & Perawatan Lanjutan
 - **Subcategory:** Penyakit Parkinson
-- **Subtitle:** Obat baru, antibodi, transplantasi sel, dan penelitian perangkat dapat dipahami menarik perhatian orang yang menginginkan fungsi lebih baik di masa depan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat baru Parkinson dan uji klinis pada 2026: bukti, keterbatasan, dan persiapan penilaian di Tiongkok
+- **Subtitle:** Pahami sasaran dan keterbatasan penelitian obat Parkinson serta terapi sel. Siapkan pertanyaan berbasis bukti untuk penilaian di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ Pada akhir konsultasi, minta uraian jelas status Anda: rekam medis tambahan dipe
 ## SEO Metadata
 
 - **Primary keyword:** obat baru dan uji klinis penyakit Parkinson
+
+- **Meta title:** Obat baru Parkinson dan uji klinis pada 2026: bukti, keterbatasan, dan persiapan penilaian di Tiongkok
+- **Meta description:** Pahami sasaran dan keterbatasan penelitian obat Parkinson serta terapi sel. Siapkan pertanyaan berbasis bukti untuk penilaian di Tiongkok.

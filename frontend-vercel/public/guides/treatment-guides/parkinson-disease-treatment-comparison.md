@@ -1,12 +1,14 @@
-# Comparing Parkinson's Treatments: Medication Adjustment, Infusion, DBS, and Focused Ultrasound
+# Parkinson’s Treatment Options in China: Medicines and Devices
 
 ## Hero
 
-- **Title:** Comparing Parkinson's Treatments: Medication Adjustment, Infusion, DBS, and Focused Ultrasound
 - **Category:** Treatment Guides
 - **Subcategory:** Parkinson Disease
-- **Subtitle:** When medication no longer provides a predictable day, patients may hear recommendations to add a drug, change formulation, use an infusion system, or consider a procedure.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Parkinson’s Treatment Options in China: Medicines and Devices
+- **Subtitle:** Compare Parkinson’s medicine adjustment, infusion, DBS and focused ultrasound by symptom goals, suitability and continuing-care demands in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Evidence verified: September 9, 2026. Individual indications, local device regis
 ## SEO Metadata
 
 - **Primary keyword:** Parkinson's disease treatment comparison in China
+
+- **Meta title:** Parkinson’s Treatment Options in China: Medicines and Devices
+- **Meta description:** Compare Parkinson’s medicine adjustment, infusion, DBS and focused ultrasound by symptom goals, suitability and continuing-care demands in China.

@@ -1,15 +1,17 @@
-# Antibiotik Bukan Ukuran Seberapa “Serius” Suatu Infeksi
+# Keputusan Penggunaan Antibiotik di Tiongkok: Pertanyaan untuk Dokter
 
 ## Hero
 
-- **Title:** Antibiotik Bukan Ukuran Seberapa “Serius” Suatu Infeksi
 - **Category:** Edukasi Pasien & FAQ
 - **Subcategory:** Obat-obatan
-- **Subtitle:** Panduan praktis untuk memutuskan kapan antibiotik membantu, kapan observasi lebih aman, dan mengapa kultur, pengendalian sumber infeksi serta tanggal evaluasi penting.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Dokter dan pasien meninjau lembar keputusan obat di samping wadah obat berlabel
+
+
+- **Title:** Keputusan Penggunaan Antibiotik di Tiongkok: Pertanyaan untuk Dokter
+- **Subtitle:** Pelajari mengapa demam atau lendir hijau tidak membuktikan infeksi bakteri, kapan antibiotik mendesak diperlukan, dan bagaimana kultur, tanggal evaluasi serta pengendalian sumber infeksi memandu pengobatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -155,11 +157,13 @@ Kultur, pencitraan dan respons klinis mungkin telah mengidentifikasi organisme s
 
 ## SEO Metadata
 
-- **SEO title:** Kapan Antibiotik Diperlukan? Panduan Keputusan Pasien
-- **Meta description:** Pelajari mengapa demam atau lendir hijau tidak membuktikan infeksi bakteri, kapan antibiotik mendesak diperlukan, dan bagaimana kultur, tanggal evaluasi serta pengendalian sumber infeksi memandu pengobatan.
 - **Primary keyword:** kapan antibiotik diperlukan
 - **Secondary keywords:** antibiotik untuk infeksi virus, resistansi antibiotik, antibiotik dipandu kultur, antibiotik spektrum luas versus sempit, efek samping antibiotik, pengelolaan antimikroba
 - **Suggested URL slug:** `/when-antibiotics-are-needed-infection-guide`
+
+
+- **Meta title:** Keputusan Penggunaan Antibiotik di Tiongkok: Pertanyaan untuk Dokter
+- **Meta description:** Pelajari mengapa demam atau lendir hijau tidak membuktikan infeksi bakteri, kapan antibiotik mendesak diperlukan, dan bagaimana kultur, tanggal evaluasi serta pengendalian sumber infeksi memandu pengobatan.
 
 ## Sumber
 

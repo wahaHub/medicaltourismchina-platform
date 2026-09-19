@@ -1,12 +1,14 @@
-# Cómo leer un informe de linfoma folicular: qué pueden indicar la anatomía patológica, la PET y los análisis de sangre
+# Informes de linfoma folicular: prepararse para una revisión en China
 
 ## Hero
 
-- **Title:** Cómo leer un informe de linfoma folicular: qué pueden indicar la anatomía patológica, la PET y los análisis de sangre
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma folicular
-- **Subtitle:** Un informe anatomopatológico menciona linfoma folicular, una PET/TC describe varios ganglios activos y un análisis de sangre señala una LDH elevada.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Informes de linfoma folicular: prepararse para una revisión en China
+- **Subtitle:** Comprenda qué aportan la biopsia, los marcadores, la PET y los análisis del linfoma folicular, y organice los informes para una revisión médica en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Salga de la consulta de resultados con tres elementos escritos: qué está estab
 ## SEO Metadata
 
 - **Primary keyword:** explicación del informe de linfoma folicular
+
+- **Meta title:** Informes de linfoma folicular: prepararse para una revisión en China
+- **Meta description:** Comprenda qué aportan la biopsia, los marcadores, la PET y los análisis del linfoma folicular, y organice los informes para una revisión médica en China.

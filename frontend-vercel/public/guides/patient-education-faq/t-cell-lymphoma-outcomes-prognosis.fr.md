@@ -1,12 +1,14 @@
-# Combien de temps peut durer une rémission du lymphome T ? Comprendre le pronostic et les chiffres de survie
+# Pronostic du lymphome T : questions pour des soins en Chine
 
 ## Hero
 
-- **Title:** Combien de temps peut durer une rémission du lymphome T ? Comprendre le pronostic et les chiffres de survie
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Lymphome T
-- **Subtitle:** Rechercher l’espérance de vie peut faire apparaître à la fois des chiffres historiques décourageants et des promesses promotionnelles de guérison.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronostic du lymphome T : questions pour des soins en Chine
+- **Subtitle:** Reliez les chiffres de survie du lymphome T au sous-type, aux facteurs de risque et à la réponse pour préparer une discussion du pronostic en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ Il peut être utile de noter la date de chaque discussion pronostique et ce sur 
 ## SEO Metadata
 
 - **Primary keyword:** pronostic et survie du lymphome T
+
+- **Meta title:** Pronostic du lymphome T : questions pour des soins en Chine
+- **Meta description:** Reliez les chiffres de survie du lymphome T au sous-type, aux facteurs de risque et à la réponse pour préparer une discussion du pronostic en Chine.

@@ -1,12 +1,14 @@
-# New drugs and trials for aplastic anemia: interpreting progress and checking eligibility
+# Aplastic Anemia Drugs and Trials: Checking Access in China
 
 ## Hero
 
-- **Title:** New drugs and trials for aplastic anemia: interpreting progress and checking eligibility
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Aplastic Anemia
-- **Subtitle:** When hearing about a new aplastic-anemia medicine, first ask whether the information describes a published study, an approved indication, or an ongoing trial.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Aplastic Anemia Drugs and Trials: Checking Access in China
+- **Subtitle:** Assess new aplastic anemia medicines and trials by evidence, approval status and eligibility, with checks before arranging a consultation in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Keep a shortlist describing the question, population, phase, present status, con
 ## SEO Metadata
 
 - **Primary keyword:** new aplastic anemia drugs and clinical trials
+
+- **Meta title:** Aplastic Anemia Drugs and Trials: Checking Access in China
+- **Meta description:** Assess new aplastic anemia medicines and trials by evidence, approval status and eligibility, with checks before arranging a consultation in China.

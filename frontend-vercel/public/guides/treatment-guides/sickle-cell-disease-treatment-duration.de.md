@@ -1,12 +1,14 @@
-# Wie lange dauert die Behandlung der Sichelzellkrankheit? Medikamente, Transfusionen, Erholung und Reiseplanung
+# Behandlung der Sichelzellkrankheit in China: Dauer und Reiseplanung
 
 ## Hero
 
-- **Title:** Wie lange dauert die Behandlung der Sichelzellkrankheit? Medikamente, Transfusionen, Erholung und Reiseplanung
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Sichelzellkrankheit
-- **Subtitle:** Patienten müssen vor einer Behandlung häufig Schulbefreiung, Arbeitsvertretung, Reisen oder eine Betreuungsperson organisieren; die Frage nach der Dauer ist daher ein praktisches Anliegen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Behandlung der Sichelzellkrankheit in China: Dauer und Reiseplanung
+- **Subtitle:** Sichelzellbehandlung in China zeitlich planen: Medikamentenbeurteilung, Blutkontrollen, Transfusionen, Erholung und mögliche Transplantationsphasen unterscheiden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,3 +146,6 @@ Familien können dann Arbeitsübergabe, Kinderbetreuung und Finanzen mit Spielra
 ## SEO Metadata
 
 - **Primary keyword:** Behandlungsdauer bei Sichelzellkrankheit
+
+- **Meta title:** Behandlung der Sichelzellkrankheit in China: Dauer und Reiseplanung
+- **Meta description:** Sichelzellbehandlung in China zeitlich planen: Medikamentenbeurteilung, Blutkontrollen, Transfusionen, Erholung und mögliche Transplantationsphasen unterscheiden.

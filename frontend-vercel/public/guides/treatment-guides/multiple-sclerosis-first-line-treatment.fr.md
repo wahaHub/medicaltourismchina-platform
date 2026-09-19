@@ -1,12 +1,14 @@
-# Choisir le premier traitement de la SEP : transformer une prescription initiale en plan réalisable
+# Commencer un traitement de la SEP en Chine : médicaments et suivi
 
 ## Hero
 
-- **Title:** Choisir le premier traitement de la SEP : transformer une prescription initiale en plan réalisable
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Sclérose en plaques
-- **Subtitle:** Un traitement de première ligne ne signifie pas nécessairement que chaque personne atteinte de SEP doit commencer par le même médicament de moindre intensité.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Commencer un traitement de la SEP en Chine : médicaments et suivi
+- **Subtitle:** Préparez le début du traitement de la sclérose en plaques en Chine : prise en charge des poussées, choix du traitement de fond, bilan de sécurité et suivi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Demandez les coûts du bilan initial, du médicament et de son administration, d
 ## SEO Metadata
 
 - **Primary keyword:** traitement de première ligne de la sclérose en plaques en Chine
+
+- **Meta title:** Commencer un traitement de la SEP en Chine : médicaments et suivi
+- **Meta description:** Préparez le début du traitement de la sclérose en plaques en Chine : prise en charge des poussées, choix du traitement de fond, bilan de sécurité et suivi.

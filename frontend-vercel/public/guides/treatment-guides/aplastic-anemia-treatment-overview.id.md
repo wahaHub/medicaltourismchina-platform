@@ -1,12 +1,14 @@
-# Pengobatan anemia aplastik: dari perlindungan segera hingga pemulihan sumsum yang bertahan lama
+# Pengobatan Anemia Aplastik di Tiongkok: Pilihan dan Pemulihan
 
 ## Hero
 
-- **Title:** Pengobatan anemia aplastik: dari perlindungan segera hingga pemulihan sumsum yang bertahan lama
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Anemia Aplastik
-- **Subtitle:** Setelah diagnosis anemia aplastik, pertanyaan praktis pertama adalah apakah pasien membutuhkan perlindungan rumah sakit sekarang.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Anemia Aplastik di Tiongkok: Pilihan dan Pemulihan
+- **Subtitle:** Pahami pilihan anemia aplastik di Tiongkok, dari dukungan segera dan observasi hingga imunosupresi atau transplantasi serta pemulihan sumsum.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Saat pulang, pasien memerlukan tanggal tes berikutnya, dokter penanggung jawab p
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan anemia aplastik
+
+- **Meta title:** Pengobatan Anemia Aplastik di Tiongkok: Pilihan dan Pemulihan
+- **Meta description:** Pahami pilihan anemia aplastik di Tiongkok, dari dukungan segera dan observasi hingga imunosupresi atau transplantasi serta pemulihan sumsum.

@@ -1,15 +1,17 @@
-# 109 Memilih Rumah Sakit di Wuhan: Empat Jam di Tiga Kota
+# Memilih Rumah Sakit di Tiongkok: Kampus dan Perjalanan di Wuhan
 
 ## Hero
 
-- **Title:** Memilih Rumah Sakit di Wuhan: Empat Jam di Tiga Kota
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Perencanaan Perawatan di Wuhan
-- **Subtitle:** Selaraskan waktu klinis, spesimen, perjalanan kota, dan pemulihan sambil memastikan tim serta kampus yang tepat di seluruh Wuhan.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustrasi konseptual pasien internasional yang merencanakan perawatan rumah sakit di Wuhan; sungai, jembatan, menara, kereta, dan rumah sakit bukan kombinasi kampus dan rute nyata ataupun dukungan terhadap suatu fasilitas.
+
+
+- **Title:** Memilih Rumah Sakit di Tiongkok: Kampus dan Perjalanan di Wuhan
+- **Subtitle:** Pilih rumah sakit Wuhan dengan menyelaraskan waktu klinis, spesimen, perjalanan, dan pemulihan di kampus yang tepat, geografi tiga kota, gerbang kereta dan bandara, bahasa, asuransi, serta perawatan darurat.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -203,13 +205,15 @@ Tidak saat kondisi medis tidak stabil. Hubungi 120 dan gunakan sistem darurat ya
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-wuhan-specialties-access-and-travel`
-- **Meta title:** Memilih Rumah Sakit Wuhan: Kampus, Stasiun, dan Empat Jam
-- **Meta description:** Pilih rumah sakit Wuhan dengan menyelaraskan waktu klinis, spesimen, perjalanan, dan pemulihan di kampus yang tepat, geografi tiga kota, gerbang kereta dan bandara, bahasa, asuransi, serta perawatan darurat.
 - **Primary keyword:** memilih rumah sakit di Wuhan
 - **Pillar keyword:** rumah sakit Wuhan untuk pasien internasional
 - **Vertical keyword:** akses perjalanan kampus rumah sakit Wuhan
 - **Search intent:** perbandingan rumah sakit / perencanaan perjalanan medis Wuhan
 - **Secondary keywords:** pusat medis internasional Wuhan; kampus rumah sakit Wuhan; perjalanan rumah sakit Stasiun Wuhan; rumah sakit Hankou; rumah sakit Wuchang; Wuhan 120
+
+
+- **Meta title:** Memilih Rumah Sakit di Tiongkok: Kampus dan Perjalanan di Wuhan
+- **Meta description:** Pilih rumah sakit Wuhan dengan menyelaraskan waktu klinis, spesimen, perjalanan, dan pemulihan di kampus yang tepat, geografi tiga kota, gerbang kereta dan bandara, bahasa, asuransi, serta perawatan darurat.
 
 ## Sumber
 

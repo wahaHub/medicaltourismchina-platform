@@ -1,12 +1,14 @@
-# Preparing T-cell lymphoma records for referral: documenting the diagnosis and each treatment line
+# T-Cell Lymphoma Records for Referral to China
 
 ## Hero
 
-- **Title:** Preparing T-cell lymphoma records for referral: documenting the diagnosis and each treatment line
 - **Category:** Patient Journey Guides
 - **Subcategory:** T Cell Lymphoma
-- **Subtitle:** A records package should help the receiving clinician locate the information that changes a decision.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** T-Cell Lymphoma Records for Referral to China
+- **Subtitle:** Prepare T-cell lymphoma records for referral to China, making the subtype evidence, each treatment line and response history easy to verify.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ A well-prepared record shows how the diagnosis was reached, what treatment was a
 ## SEO Metadata
 
 - **Primary keyword:** T-cell lymphoma medical records for referral
+
+- **Meta title:** T-Cell Lymphoma Records for Referral to China
+- **Meta description:** Prepare T-cell lymphoma records for referral to China, making the subtype evidence, each treatment line and response history easy to verify.

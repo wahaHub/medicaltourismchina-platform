@@ -1,12 +1,14 @@
-# Verfahren bei aplastischer Anämie: Knochenmarkentnahme, Gefäßzugang und Transplantation
+# Verfahren bei aplastischer Anämie in China: Knochenmarkuntersuchung und Transplantation
 
 ## Hero
 
-- **Title:** Verfahren bei aplastischer Anämie: Knochenmarkentnahme, Gefäßzugang und Transplantation
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Aplastische Anämie
-- **Subtitle:** Verfahren bei aplastischer Anämie: Knochenmarkentnahme, Gefäßzugang und Transplantation
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Verfahren bei aplastischer Anämie in China: Knochenmarkuntersuchung und Transplantation
+- **Subtitle:** Verfahren bei aplastischer Anämie in China vorbereiten: Knochenmarkentnahme, Gefäßzugang, Spenderprüfung, Konditionierung und Transplantation getrennt planen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Auch der Zeitplan sollte diagnostische Überprüfung, Spenderbestätigung, Empf�
 ## SEO Metadata
 
 - **Primary keyword:** Ablauf der Stammzelltransplantation bei aplastischer Anämie
+
+- **Meta title:** Verfahren bei aplastischer Anämie in China: Knochenmarkuntersuchung und Transplantation
+- **Meta description:** Verfahren bei aplastischer Anämie in China vorbereiten: Knochenmarkentnahme, Gefäßzugang, Spenderprüfung, Konditionierung und Transplantation getrennt planen.

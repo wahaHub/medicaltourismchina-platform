@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Nachsorge zu Hause nach einer Behandlung der aplastischen Anämie in China
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Aplastische Anämie
-- **Subtitle:** Ein Nachsorgeplan muss festlegen, wo Untersuchungen stattfinden, wer sie beurteilt, wer Verordnungen ändern darf und wohin Sie sich bei einer Erkrankung wenden.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Nachsorge zu Hause nach einer Behandlung der aplastischen Anämie in China
+- **Subtitle:** Nach Behandlung aplastischer Anämie in China die Nachsorge planen: Blutwerte, Arzneimittelkontrollen, Transfusionen und transplantationsbezogene Übergabe klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Bestätigen Sie am Ende jeder Kontrolle die aktive Verordnung, nächsten Untersu
 ## SEO Metadata
 
 - **Primary keyword:** Nachsorge bei aplastischer Anämie nach Behandlung im Ausland
+
+- **Meta title:** Nachsorge zu Hause nach einer Behandlung der aplastischen Anämie in China
+- **Meta description:** Nach Behandlung aplastischer Anämie in China die Nachsorge planen: Blutwerte, Arzneimittelkontrollen, Transfusionen und transplantationsbezogene Übergabe klären.

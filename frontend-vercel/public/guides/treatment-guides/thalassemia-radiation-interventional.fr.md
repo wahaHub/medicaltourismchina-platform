@@ -1,12 +1,14 @@
-# Pourquoi la radiothérapie est parfois utilisée dans la thalassémie : hématopoïèse extramédullaire et compression de la moelle épinière
+# Radiothérapie de la thalassémie en Chine : complications et évaluation
 
 ## Hero
 
-- **Title:** Pourquoi la radiothérapie est parfois utilisée dans la thalassémie : hématopoïèse extramédullaire et compression de la moelle épinière
 - **Category:** Guides des traitements
 - **Subcategory:** Thalassémie
-- **Subtitle:** Une orientation en oncologie radiothérapique peut être déroutante pour une personne dont le diagnostic établi est une thalassémie.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Radiothérapie de la thalassémie en Chine : complications et évaluation
+- **Subtitle:** Comprenez la place de la radiothérapie dans l’hématopoïèse extramédullaire liée à la thalassémie et les signes de compression nécessitant une évaluation en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Avant la sortie, établissez quels symptômes nécessitent une aide immédiate, 
 ## SEO Metadata
 
 - **Primary keyword:** radiothérapie de la thalassémie ; hématopoïèse extramédullaire ; compression médullaire ; évaluation thérapeutique en Chine
+
+- **Meta title:** Radiothérapie de la thalassémie en Chine : complications et évaluation
+- **Meta description:** Comprenez la place de la radiothérapie dans l’hématopoïèse extramédullaire liée à la thalassémie et les signes de compression nécessitant une évaluation en Chine.

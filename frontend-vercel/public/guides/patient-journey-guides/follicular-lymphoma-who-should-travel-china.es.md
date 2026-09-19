@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Debería viajar a China para recibir atención por un linfoma folicular?
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Linfoma folicular
-- **Subtitle:** Viajar para recibir atención por un linfoma folicular resulta más útil cuando permite resolver una carencia definida del plan actual.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Debería viajar a China para recibir atención por un linfoma folicular?
+- **Subtitle:** Defina el objetivo de viajar a China por linfoma folicular y revise el momento del tratamiento, la estabilidad y el apoyo necesario durante todo el proceso.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Antes de partir, debe contar con una cita confirmada, un método aceptado para t
 ## SEO Metadata
 
 - **Primary keyword:** quién debería viajar a China para el tratamiento del linfoma folicular
+
+- **Meta title:** ¿Debería viajar a China para recibir atención por un linfoma folicular?
+- **Meta description:** Defina el objetivo de viajar a China por linfoma folicular y revise el momento del tratamiento, la estabilidad y el apoyo necesario durante todo el proceso.

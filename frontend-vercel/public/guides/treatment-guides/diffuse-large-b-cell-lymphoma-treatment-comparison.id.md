@@ -1,12 +1,14 @@
-# Membandingkan pengobatan DLBCL: pilihan mana sesuai untuk tahap mana?
+# Pilihan Pengobatan DLBCL di Tiongkok: Perbandingan Menurut Tahap Perawatan
 
 ## Hero
 
-- **Title:** Membandingkan pengobatan DLBCL: pilihan mana sesuai untuk tahap mana?
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel B Besar Difus
-- **Subtitle:** R-CHOP, kombinasi polatuzumab, transplantasi, sel CAR T, dan antibodi bispesifik tidak boleh ditempatkan dalam satu peringkat dari yang terlemah hingga terkuat.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pilihan Pengobatan DLBCL di Tiongkok: Perbandingan Menurut Tahap Perawatan
+- **Subtitle:** Bandingkan pilihan DLBCL di Tiongkok pada tahap perawatan yang sesuai, dari regimen awal hingga transplantasi, CAR-T, dan antibodi bispesifik.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Tetapkan tanggung jawab tindak lanjut dan tentukan pemeriksaan mana yang dapat d
 ## SEO Metadata
 
 - **Primary keyword:** perbandingan pengobatan DLBCL
+
+- **Meta title:** Pilihan Pengobatan DLBCL di Tiongkok: Perbandingan Menurut Tahap Perawatan
+- **Meta description:** Bandingkan pilihan DLBCL di Tiongkok pada tahap perawatan yang sesuai, dari regimen awal hingga transplantasi, CAR-T, dan antibodi bispesifik.

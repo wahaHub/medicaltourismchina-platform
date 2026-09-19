@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Nuevos fármacos y ensayos clínicos para el mieloma: evaluar opciones en China en 2026
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Mieloma múltiple
-- **Subtitle:** Un titular sobre mieloma puede describir una molécula nueva, una combinación nueva de medicamentos conocidos o un contexto terapéutico más temprano.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Nuevos fármacos y ensayos clínicos para el mieloma: evaluar opciones en China en 2026
+- **Subtitle:** Valore nuevos fármacos y ensayos para el mieloma en China según la evidencia, los tratamientos previos y la población concreta a la que se dirigen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Tras el cribado, reconfirme calendario de visitas, fecha de tratamiento y respon
 ## SEO Metadata
 
 - **Primary keyword:** nuevos tratamientos y ensayos clínicos del mieloma múltiple en China
+
+- **Meta title:** Nuevos fármacos y ensayos clínicos para el mieloma: evaluar opciones en China en 2026
+- **Meta description:** Valore nuevos fármacos y ensayos para el mieloma en China según la evidencia, los tratamientos previos y la población concreta a la que se dirigen.

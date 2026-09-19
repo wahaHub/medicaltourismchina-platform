@@ -1,12 +1,14 @@
-# Mantle cell lymphoma types and risk: understanding indolent behavior, high-risk biology and stage
+# Mantle Cell Lymphoma Types and Risk: Review in China
 
 ## Hero
 
-- **Title:** Mantle cell lymphoma types and risk: understanding indolent behavior, high-risk biology and stage
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Mantle Cell Lymphoma
-- **Subtitle:** Related searches: indolent MCL; high-risk mantle cell lymphoma; MCL risk assessment in China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Mantle Cell Lymphoma Types and Risk: Review in China
+- **Subtitle:** Distinguish mantle cell lymphoma subtype, stage, biology and risk scores, and prepare a specific question for a second opinion in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ The consultation should end with an action: continue a defined monitoring plan, 
 ## SEO Metadata
 
 - **Primary keyword:** mantle cell lymphoma types and risk
+
+- **Meta title:** Mantle Cell Lymphoma Types and Risk: Review in China
+- **Meta description:** Distinguish mantle cell lymphoma subtype, stage, biology and risk scores, and prepare a specific question for a second opinion in China.

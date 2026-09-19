@@ -1,12 +1,14 @@
-# Elaboración del plan inicial de rehabilitación tras un ictus isquémico
+# Iniciar la rehabilitación del ictus en China: su primer plan de atención
 
 ## Hero
 
-- **Title:** Elaboración del plan inicial de rehabilitación tras un ictus isquémico
 - **Category:** Guías de tratamiento
 - **Subcategory:** Rehabilitación tras un ictus isquémico
-- **Subtitle:** Las familias que reciben un programa de rehabilitación suelen preguntar qué tratamientos deben comenzar primero.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Iniciar la rehabilitación del ictus en China: su primer plan de atención
+- **Subtitle:** Prepare un primer plan de rehabilitación del ictus en China con objetivos observables, valoración médica y práctica vinculada a las actividades cotidianas.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ Un plan inicial de rehabilitación debe establecer una dirección ajustable: la 
 ## SEO Metadata
 
 - **Primary keyword:** rehabilitación de primera línea tras un ictus isquémico
+
+- **Meta title:** Iniciar la rehabilitación del ictus en China: su primer plan de atención
+- **Meta description:** Prepare un primer plan de rehabilitación del ictus en China con objetivos observables, valoración médica y práctica vinculada a las actividades cotidianas.

@@ -1,15 +1,17 @@
-# Ketika Dua Laporan Patologi Berbeda: Selaraskan Spesimen, Metode, dan Diagnosis Sebelum Pengobatan
+# Tinjauan Patologi di Tiongkok: Menyelaraskan Laporan yang Berbeda
 
 ## Hero
 
-- **Title:** Ketika Dua Laporan Patologi Berbeda: Selaraskan Spesimen, Metode, dan Diagnosis Sebelum Pengobatan
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Pemeriksaan & Diagnosis
-- **Subtitle:** Panduan lintas negara tentang preparat, blok parafin, pengambilan sampel, imunohistokimia, pemeriksaan molekuler, dan penyelesaian perbedaan yang penting secara klinis.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Pasien membahas alur tinjauan patologi dengan simbol mikroskop, preparat jaringan, tim spesialis, dan laporan final
+
+
+- **Title:** Tinjauan Patologi di Tiongkok: Menyelaraskan Laporan yang Berbeda
+- **Subtitle:** Pahami pengambilan sampel, pemrosesan jaringan, pewarnaan, pemeriksaan molekuler, dan heterogenitas tumor, serta transfer preparat/blok secara aman untuk tinjauan patologi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -198,13 +200,15 @@ Ya. Area tumor atau titik waktu berbeda dapat mengandung biomarker berbeda, dan 
 ## SEO Metadata
 
 - **Slug:** `biopsy-and-pathology-review-why-results-may-differ`
-- **Meta title:** Laporan Patologi Berbeda: Cara Menyelaraskan Diagnosis
-- **Meta description:** Pahami pengambilan sampel, pemrosesan jaringan, pewarnaan, pemeriksaan molekuler, dan heterogenitas tumor, serta transfer preparat/blok secara aman untuk tinjauan patologi.
 - **Primary keyword:** diagnosis berbeda dalam tinjauan patologi
 - **Pillar keyword:** diagnosis kanker di Tiongkok
 - **Vertical keyword:** pendapat kedua preparat dan blok biopsi
 - **Search intent:** panduan perbedaan patologi
 - **Secondary keywords:** pendapat kedua patologi Tiongkok; transfer blok parafin; biopsi versus reseksi; ketidakselarasan biomarker; melestarikan jaringan tumor
+
+
+- **Meta title:** Tinjauan Patologi di Tiongkok: Menyelaraskan Laporan yang Berbeda
+- **Meta description:** Pahami pengambilan sampel, pemrosesan jaringan, pewarnaan, pemeriksaan molekuler, dan heterogenitas tumor, serta transfer preparat/blok secara aman untuk tinjauan patologi.
 
 ## Sumber
 

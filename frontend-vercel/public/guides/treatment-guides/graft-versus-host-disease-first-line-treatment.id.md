@@ -1,12 +1,14 @@
-# Memulai Pengobatan GVHD: Perawatan Lokal, Kortikosteroid, dan Penilaian Ulang Dini
+# Memulai Pengobatan GVHD di Tiongkok: Pilihan dan Evaluasi Dini
 
 ## Hero
 
-- **Title:** Memulai Pengobatan GVHD: Perawatan Lokal, Kortikosteroid, dan Penilaian Ulang Dini
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Graft Versus Host
-- **Subtitle:** Pasien terkadang bingung ketika diberi tahu bahwa mereka mulai menjalani pengobatan GVHD meskipun sudah mengonsumsi obat penekan imun selama transplantasi.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Memulai Pengobatan GVHD di Tiongkok: Pilihan dan Evaluasi Dini
+- **Subtitle:** Pahami langkah awal pengobatan GVHD di Tiongkok, termasuk perawatan lokal, kortikosteroid, tujuan organ, dan penilaian respons dini.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -129,3 +131,6 @@ Sebelum meninggalkan kota pengobatan, pastikan penilaian berikutnya dan pasokan 
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan lini pertama penyakit graft-versus-host di Tiongkok
+
+- **Meta title:** Memulai Pengobatan GVHD di Tiongkok: Pilihan dan Evaluasi Dini
+- **Meta description:** Pahami langkah awal pengobatan GVHD di Tiongkok, termasuk perawatan lokal, kortikosteroid, tujuan organ, dan penilaian respons dini.

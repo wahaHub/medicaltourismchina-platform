@@ -1,12 +1,14 @@
-# When GVHD Persists or Flares Again: Reassessment and Later Treatment Decisions
+# Persistent or Recurrent GVHD: Second Opinions in China
 
 ## Hero
 
-- **Title:** When GVHD Persists or Flares Again: Reassessment and Later Treatment Decisions
 - **Category:** Treatment Guides
 - **Subcategory:** Graft Versus Host Disease
-- **Subtitle:** When GVHD Persists or Flares Again: Reassessment and Later Treatment Decisions
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Persistent or Recurrent GVHD: Second Opinions in China
+- **Subtitle:** Review persistent or recurrent GVHD through organ activity, other causes and prior treatment, with a complete timeline for a second opinion in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,3 +142,6 @@ Repeated treatment changes are exhausting for patients and caregivers. A helpful
 ## SEO Metadata
 
 - **Primary keyword:** refractory and recurrent GVHD treatment in China
+
+- **Meta title:** Persistent or Recurrent GVHD: Second Opinions in China
+- **Meta description:** Review persistent or recurrent GVHD through organ activity, other causes and prior treatment, with a complete timeline for a second opinion in China.

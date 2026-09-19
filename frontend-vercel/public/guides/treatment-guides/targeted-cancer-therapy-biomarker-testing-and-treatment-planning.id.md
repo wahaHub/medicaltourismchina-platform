@@ -1,15 +1,17 @@
-# 032 Terapi Kanker Bertarget: Pemeriksaan Biomarker dan Perencanaan Pengobatan
+# Terapi Kanker Bertarget di Tiongkok: Pemeriksaan Biomarker
 
 ## Hero
 
-- **Title:** Terapi Kanker Bertarget: Pemeriksaan Biomarker dan Perencanaan Pengobatan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Perawatan Kanker
-- **Subtitle:** Cara menghubungkan spesimen nyata dan pemeriksaan tervalidasi dengan perubahan yang tepat, bukti, obat, serta rencana pemantauan.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ahli patologi molekuler dan dokter onkologi meninjau laporan biomarker yang identitas pasiennya dihapus di samping jenis sampel jaringan dan darah berlabel
+
+
+- **Title:** Terapi Kanker Bertarget di Tiongkok: Pemeriksaan Biomarker
+- **Subtitle:** Pahami pemeriksaan biomarker jaringan dan cair, diagnostik pendamping, varian yang dapat ditindaklanjuti, perencanaan obat bertarget, dan resistansi sebelum pengobatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,13 +135,15 @@ Biomarker tumor dapat berubah, dan pengobatan dapat menyeleksi klon resistan. Sa
 ## SEO Metadata
 
 - **Slug:** `targeted-cancer-therapy-biomarker-testing-and-treatment-planning`
-- **Meta title:** Panduan Terapi Kanker Bertarget dan Pemeriksaan Biomarker
-- **Meta description:** Pahami pemeriksaan biomarker jaringan dan cair, diagnostik pendamping, varian yang dapat ditindaklanjuti, perencanaan obat bertarget, dan resistansi sebelum pengobatan di Tiongkok.
 - **Primary keyword:** terapi kanker bertarget di Tiongkok
 - **Pillar keyword:** pengobatan kanker di Tiongkok
 - **Vertical keyword:** pemeriksaan biomarker kanker Tiongkok
 - **Search intent:** interpretasi biomarker / perencanaan pengobatan
 - **Secondary keywords:** pemeriksaan NGS Tiongkok; biopsi cair kanker; diagnostik pendamping; mutasi yang dapat ditindaklanjuti; resistansi terapi bertarget
+
+
+- **Meta title:** Terapi Kanker Bertarget di Tiongkok: Pemeriksaan Biomarker
+- **Meta description:** Pahami pemeriksaan biomarker jaringan dan cair, diagnostik pendamping, varian yang dapat ditindaklanjuti, perencanaan obat bertarget, dan resistansi sebelum pengobatan di Tiongkok.
 
 ## Sumber
 

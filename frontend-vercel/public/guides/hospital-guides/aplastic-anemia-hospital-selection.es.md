@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Elegir un hospital en China para la anemia aplásica: diagnóstico, tratamiento médico y trasplante de donante
 - **Category:** Guías de hospitales
 - **Subcategory:** Anemia aplásica
-- **Subtitle:** Empiece por identificar el problema que se quiere resolver: un diagnóstico discutido, una decisión de primer tratamiento, falta de respuesta persistente o un itinerario específico de trasplante de donante.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Elegir un hospital en China para la anemia aplásica: diagnóstico, tratamiento médico y trasplante de donante
+- **Subtitle:** Compare hospitales para anemia aplásica en China según diagnóstico, inmunosupresión, apoyo transfusional, infecciones y el proceso de trasplante de donante.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -118,3 +120,6 @@ Reduzca la elección a unos pocos centros que realmente cumplan las condiciones 
 ## SEO Metadata
 
 - **Primary keyword:** selección de hospital para anemia aplásica
+
+- **Meta title:** Elegir un hospital en China para la anemia aplásica: diagnóstico, tratamiento médico y trasplante de donante
+- **Meta description:** Compare hospitales para anemia aplásica en China según diagnóstico, inmunosupresión, apoyo transfusional, infecciones y el proceso de trasplante de donante.

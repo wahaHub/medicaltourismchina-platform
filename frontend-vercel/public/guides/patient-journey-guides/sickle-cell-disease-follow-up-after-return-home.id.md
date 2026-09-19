@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Tindak Lanjut Sel Sabit Setelah Pengobatan di Tiongkok: Obat, Transfusi, Pemantauan, dan Perawatan Mendesak
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Penyakit Sel Sabit
-- **Subtitle:** Perawatan penyakit sel sabit berlanjut setelah kunjungan ke Tiongkok.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tindak Lanjut Sel Sabit Setelah Pengobatan di Tiongkok: Obat, Transfusi, Pemantauan, dan Perawatan Mendesak
+- **Subtitle:** Siapkan tindak lanjut penyakit sel sabit setelah perawatan di Tiongkok dengan serah terima, obat, transfusi, pemantauan, dan jalur pertolongan mendesak.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,3 +146,6 @@ Untuk peninjauan jarak jauh, tetapkan informasi yang diunggah, kapan dinilai, da
 ## SEO Metadata
 
 - **Primary keyword:** tindak lanjut penyakit sel sabit setelah pengobatan di Tiongkok
+
+- **Meta title:** Tindak Lanjut Sel Sabit Setelah Pengobatan di Tiongkok: Obat, Transfusi, Pemantauan, dan Perawatan Mendesak
+- **Meta description:** Siapkan tindak lanjut penyakit sel sabit setelah perawatan di Tiongkok dengan serah terima, obat, transfusi, pemantauan, dan jalur pertolongan mendesak.

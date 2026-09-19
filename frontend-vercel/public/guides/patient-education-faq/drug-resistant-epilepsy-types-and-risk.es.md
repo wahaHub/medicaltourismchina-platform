@@ -1,12 +1,14 @@
-# Clasificar la epilepsia farmacorresistente y evaluar el riesgo: separar tipo de crisis, síndrome, causa y respuesta al tratamiento
+# Tipos y riesgo de epilepsia farmacorresistente: evaluación en China
 
 ## Hero
 
-- **Title:** Clasificar la epilepsia farmacorresistente y evaluar el riesgo: separar tipo de crisis, síndrome, causa y respuesta al tratamiento
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Epilepsia farmacorresistente
-- **Subtitle:** La epilepsia farmacorresistente no progresa por un sistema universal de etapa uno a etapa cuatro.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tipos y riesgo de epilepsia farmacorresistente: evaluación en China
+- **Subtitle:** Distinga tipo de crisis, síndrome, causa y farmacorresistencia de la epilepsia para organizar la información necesaria en una evaluación en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -154,3 +156,6 @@ Pida que la conclusión escrita distinga tipo de crisis, tipo de epilepsia, sín
 ## SEO Metadata
 
 - **Primary keyword:** clasificación de la epilepsia farmacorresistente; epilepsia focal y generalizada; síndromes epilépticos; evaluación del riesgo de epilepsia en China
+
+- **Meta title:** Tipos y riesgo de epilepsia farmacorresistente: evaluación en China
+- **Meta description:** Distinga tipo de crisis, síndrome, causa y farmacorresistencia de la epilepsia para organizar la información necesaria en una evaluación en China.

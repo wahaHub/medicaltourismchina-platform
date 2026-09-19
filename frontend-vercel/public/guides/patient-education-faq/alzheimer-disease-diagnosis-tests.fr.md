@@ -1,12 +1,14 @@
-# Examens en cas de suspicion de maladie d’Alzheimer : ce qu’une consultation mémoire doit établir
+# Évaluation d’Alzheimer en Chine : examens en consultation mémoire
 
 ## Hero
 
-- **Title:** Examens en cas de suspicion de maladie d’Alzheimer : ce qu’une consultation mémoire doit établir
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Maladie d’Alzheimer
-- **Subtitle:** Une évaluation de la mémoire peut conduire à discuter de tests cognitifs, d’une IRM, de biomarqueurs sanguins, d’une TEP ou d’une ponction lombaire.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Évaluation d’Alzheimer en Chine : examens en consultation mémoire
+- **Subtitle:** Préparez une consultation mémoire en Chine : changements quotidiens, tests cognitifs, analyses, imagerie et interprétation des biomarqueurs d’Alzheimer.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -113,3 +115,6 @@ Organisez une consultation pour discuter ensemble des résultats. L’issue doit
 ## SEO Metadata
 
 - **Primary keyword:** examens diagnostiques de la maladie d’Alzheimer
+
+- **Meta title:** Évaluation d’Alzheimer en Chine : examens en consultation mémoire
+- **Meta description:** Préparez une consultation mémoire en Chine : changements quotidiens, tests cognitifs, analyses, imagerie et interprétation des biomarqueurs d’Alzheimer.

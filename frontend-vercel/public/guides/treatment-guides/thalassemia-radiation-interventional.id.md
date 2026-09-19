@@ -1,12 +1,14 @@
-# Mengapa radioterapi terkadang digunakan pada talasemia: hematopoiesis ekstramedular dan kompresi sumsum tulang belakang
+# Radioterapi Talasemia di Tiongkok: Komplikasi dan Penilaian
 
 ## Hero
 
-- **Title:** Mengapa radioterapi terkadang digunakan pada talasemia: hematopoiesis ekstramedular dan kompresi sumsum tulang belakang
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Talasemia
-- **Subtitle:** Rujukan ke onkologi radiasi dapat membingungkan seseorang yang diagnosis pastinya adalah talasemia.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Radioterapi Talasemia di Tiongkok: Komplikasi dan Penilaian
+- **Subtitle:** Pahami peran radioterapi pada komplikasi talasemia berupa hematopoiesis ekstramedular. Siapkan penilaian pencitraan dan gejala saraf di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Sebelum pulang, pastikan gejala mana yang memerlukan pertolongan segera, di mana
 ## SEO Metadata
 
 - **Primary keyword:** radioterapi untuk talasemia; hematopoiesis ekstramedular; kompresi sumsum tulang belakang; penilaian pengobatan di Tiongkok
+
+- **Meta title:** Radioterapi Talasemia di Tiongkok: Komplikasi dan Penilaian
+- **Meta description:** Pahami peran radioterapi pada komplikasi talasemia berupa hematopoiesis ekstramedular. Siapkan penilaian pencitraan dan gejala saraf di Tiongkok.

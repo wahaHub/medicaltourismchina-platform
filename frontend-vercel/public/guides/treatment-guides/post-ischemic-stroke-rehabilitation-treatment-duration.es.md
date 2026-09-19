@@ -1,12 +1,14 @@
-# ¿Cuánto dura la rehabilitación del ictus? Conectar la atención hospitalaria, ambulatoria y domiciliaria
+# Rehabilitación del ictus en China: duración y continuidad asistencial
 
 ## Hero
 
-- **Title:** ¿Cuánto dura la rehabilitación del ictus? Conectar la atención hospitalaria, ambulatoria y domiciliaria
 - **Category:** Guías de tratamiento
 - **Subcategory:** Rehabilitación tras un ictus isquémico
-- **Subtitle:** Cuando una familia pregunta cuánto durará la rehabilitación, la pregunta suele incluir varios plazos: la duración del ingreso actual, el momento en que se revisará un tratamiento y la práctica necesaria después de salir del hospital.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rehabilitación del ictus en China: duración y continuidad asistencial
+- **Subtitle:** Organice la rehabilitación del ictus en China como un proceso entre hospital, consulta y hogar, con plazos revisables según capacidad y participación.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Los hospitales tienen horarios de servicios, los medicamentos tienen momentos de
 ## SEO Metadata
 
 - **Primary keyword:** duración y horario de rehabilitación del ictus
+
+- **Meta title:** Rehabilitación del ictus en China: duración y continuidad asistencial
+- **Meta description:** Organice la rehabilitación del ictus en China como un proceso entre hospital, consulta y hogar, con plazos revisables según capacidad y participación.

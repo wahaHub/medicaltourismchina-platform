@@ -1,15 +1,17 @@
-# 034 Radiothérapie stéréotaxique corporelle (SBRT) : guide patient
+# Radiothérapie stéréotaxique corporelle en Chine : planification, sécurité et suivi
 
 ## Hero
 
-- **Title:** Radiothérapie stéréotaxique corporelle (SBRT) : guide patient
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Soins du cancer
-- **Subtitle:** Comment l’admissibilité, le contrôle des mouvements, les contraintes des organes à risque et l’assurance qualité propre au patient façonnent un traitement court et de haute précision.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un médecin explique un plan simplifié de SBRT thoracique montrant plusieurs trajets de faisceaux convergeant vers une petite cible
+
+
+- **Title:** Radiothérapie stéréotaxique corporelle en Chine : planification, sécurité et suivi
+- **Subtitle:** Comprendre l’admissibilité à la SBRT, la gestion des mouvements, le guidage par l’image, les limites des organes, l’assurance qualité et le suivi avant une radiothérapie stéréotaxique corporelle.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -149,13 +151,15 @@ Obtenez le résumé thérapeutique avec le site, l’intention, la technique, la
 ## SEO Metadata
 
 - **Slug:** `stereotactic-body-radiotherapy-sbrt-a-patient-guide`
-- **Meta title:** Guide patient SBRT : planification, sécurité et suivi
-- **Meta description:** Comprendre l’admissibilité à la SBRT, la gestion des mouvements, le guidage par l’image, les limites des organes, l’assurance qualité et le suivi avant une radiothérapie stéréotaxique corporelle.
 - **Primary keyword:** guide patient SBRT
 - **Pillar keyword:** radiothérapie en Chine
 - **Vertical keyword:** radiothérapie stéréotaxique corporelle Chine
 - **Search intent:** information sur le traitement / évaluation de la sécurité
 - **Secondary keywords:** traitement SABR ; gestion des mouvements SBRT ; fractions SBRT ; assurance qualité SBRT ; imagerie de suivi SBRT
+
+
+- **Meta title:** Radiothérapie stéréotaxique corporelle en Chine : planification, sécurité et suivi
+- **Meta description:** Comprendre l’admissibilité à la SBRT, la gestion des mouvements, le guidage par l’image, les limites des organes, l’assurance qualité et le suivi avant une radiothérapie stéréotaxique corporelle.
 
 ## Sources
 

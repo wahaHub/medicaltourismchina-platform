@@ -1,15 +1,17 @@
-# 085 Afirmaciones sobre medicina regenerativa: preguntas que deben hacer los pacientes
+# Medicina regenerativa en China: nueve preguntas que hacer
 
 ## Hero
 
-- **Title:** Afirmaciones sobre medicina regenerativa: preguntas que deben hacer los pacientes
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Medicina celular, génica y regenerativa
-- **Subtitle:** Convierta palabras como «reparar», «rejuvenecer» y «activar la curación» en preguntas precisas sobre el producto, la autorización, la evidencia, el resultado, el riesgo y el interés económico.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Se necesita un reemplazo: un paciente y un médico independiente comparan las identidades, las vías regulatorias, la evidencia clínica y los riesgos de varios productos de medicina regenerativa.
+
+
+- **Title:** Medicina regenerativa en China: nueve preguntas que hacer
+- **Subtitle:** Examine las afirmaciones regenerativas según identidad del producto, resultados medibles, autorización china, evidencia clínica, calidad, riesgo, conflictos y documentos.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -173,11 +175,13 @@ La recogida, expansión, diferenciación, las pruebas de contaminación o la lib
 ## SEO Metadata
 
 - **Slug:** `regenerative-medicine-claims-questions-patients-should-ask`
-- **Meta title:** Afirmaciones sobre medicina regenerativa: nueve preguntas que hacer
-- **Meta description:** Examine las afirmaciones regenerativas según identidad del producto, resultados medibles, autorización china, evidencia clínica, calidad, riesgo, conflictos y documentos.
 - **Primary keyword:** afirmaciones sobre medicina regenerativa
 - **Secondary keywords:** medicina regenerativa en China; afirmaciones sobre tratamiento con exosomas; PRP células madre; publicidad de terapia celular; preguntas sobre tratamientos regenerativos
 - **Search intent:** verificación de afirmaciones / diligencia debida sobre tratamientos
+
+
+- **Meta title:** Medicina regenerativa en China: nueve preguntas que hacer
+- **Meta description:** Examine las afirmaciones regenerativas según identidad del producto, resultados medibles, autorización china, evidencia clínica, calidad, riesgo, conflictos y documentos.
 
 ## Fuentes
 

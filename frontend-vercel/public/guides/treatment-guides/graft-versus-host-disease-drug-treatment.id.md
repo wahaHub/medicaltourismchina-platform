@@ -1,12 +1,14 @@
-# Obat untuk GVHD: Memahami Steroid, Ruxolitinib, Belumosudil, dan Pilihan Pengobatan Lanjutan
+# Obat GVHD di Tiongkok: Indikasi, Pemantauan, dan Akses
 
 ## Hero
 
-- **Title:** Obat untuk GVHD: Memahami Steroid, Ruxolitinib, Belumosudil, dan Pilihan Pengobatan Lanjutan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Graft Versus Host
-- **Subtitle:** Setelah transplantasi, banyaknya wadah obat dapat menjadi sulit dikelola.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat GVHD di Tiongkok: Indikasi, Pemantauan, dan Akses
+- **Subtitle:** Pahami tujuan steroid, obat bertarget, dan pencegahan infeksi pada GVHD. Periksa indikasi, akses, serta kebutuhan pemantauan bersama tim di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -131,3 +133,6 @@ Rencana obat yang jelas memungkinkan pasien menjelaskan mengapa regimen saat ini
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan obat GVHD di Tiongkok
+
+- **Meta title:** Obat GVHD di Tiongkok: Indikasi, Pemantauan, dan Akses
+- **Meta description:** Pahami tujuan steroid, obat bertarget, dan pencegahan infeksi pada GVHD. Periksa indikasi, akses, serta kebutuhan pemantauan bersama tim di Tiongkok.

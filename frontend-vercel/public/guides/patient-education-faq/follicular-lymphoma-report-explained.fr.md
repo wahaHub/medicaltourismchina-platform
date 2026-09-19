@@ -1,12 +1,14 @@
-# Lire un compte rendu de lymphome folliculaire : ce que peuvent vous apprendre l’anatomopathologie, la TEP et les analyses sanguines
+# Comptes rendus du lymphome folliculaire : préparer une relecture en Chine
 
 ## Hero
 
-- **Title:** Lire un compte rendu de lymphome folliculaire : ce que peuvent vous apprendre l’anatomopathologie, la TEP et les analyses sanguines
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Lymphome folliculaire
-- **Subtitle:** Un compte rendu anatomopathologique mentionne un lymphome folliculaire, une TEP/TDM décrit plusieurs ganglions actifs et une analyse sanguine signale une LDH élevée.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Comptes rendus du lymphome folliculaire : préparer une relecture en Chine
+- **Subtitle:** Comprenez ce que décrivent biopsie, marqueurs, TEP et analyses du lymphome folliculaire afin de préparer une relecture de dossier en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Quittez la consultation de résultats avec trois éléments écrits : ce qui est
 ## SEO Metadata
 
 - **Primary keyword:** compte rendu de lymphome folliculaire expliqué
+
+- **Meta title:** Comptes rendus du lymphome folliculaire : préparer une relecture en Chine
+- **Meta description:** Comprenez ce que décrivent biopsie, marqueurs, TEP et analyses du lymphome folliculaire afin de préparer une relecture de dossier en Chine.

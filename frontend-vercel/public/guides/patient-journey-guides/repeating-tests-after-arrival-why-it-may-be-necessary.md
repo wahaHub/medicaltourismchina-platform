@@ -1,15 +1,17 @@
-# Repeating Tests After Arrival: Ask What Decision the New Result Will Change
+# Repeating Medical Tests in China | When Is It Necessary?
 
 ## Hero
 
-- **Title:** Repeating Tests After Arrival: Ask What Decision the New Result Will Change
 - **Category:** Patient Journey Guides
 - **Subcategory:** Test Review, Repetition and Treatment Baselines
-- **Subtitle:** A previous result should be reused when it is fit for the present decision. A repeat is justified when identity, timing, method, quality or the clinical question makes the old evidence insufficient.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Conceptual clinician-patient discussion of several testing points; it does not show a real test result, hospital protocol or recommendation to repeat testing.
+
+
+- **Title:** Repeating Medical Tests in China | When Is It Necessary?
+- **Subtitle:** A previous result should be reused when it is fit for the present decision. A repeat is justified when identity, timing, method, quality or the clinical question makes the old evidence insufficient.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -185,13 +187,15 @@ Keep the order, preparation instructions, report, units and reference range, DIC
 ## SEO Metadata
 
 - **Slug:** `repeating-tests-after-arrival-why-it-may-be-necessary`
-- **Meta title:** Repeating Medical Tests in China | When Is It Necessary?
-- **Meta description:** Use a five-part fitness test to decide whether overseas laboratory, imaging or pathology evidence should be reused, reinterpreted, repeated or replaced after arrival in China.
 - **Primary keyword:** repeating medical tests in China
 - **Pillar keyword:** medical travel to China
 - **Vertical keyword:** overseas test results Chinese hospital
 - **Search intent:** test review / cost and safety planning
 - **Secondary keywords:** China test result recognition; repeat CT China; pathology review China; laboratory reference range; treatment baseline tests
+
+
+- **Meta title:** Repeating Medical Tests in China | When Is It Necessary?
+- **Meta description:** Use a five-part fitness test to decide whether overseas laboratory, imaging or pathology evidence should be reused, reinterpreted, repeated or replaced after arrival in China.
 
 ## Sources
 

@@ -1,12 +1,14 @@
-# Combien de temps dure le traitement de l’épilepsie pharmacorésistante ? Planifier les médicaments, les interventions et l’arrêt
+# Soins de l’épilepsie pharmacorésistante en Chine : calendrier des traitements
 
 ## Hero
 
-- **Title:** Combien de temps dure le traitement de l’épilepsie pharmacorésistante ? Planifier les médicaments, les interventions et l’arrêt
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Épilepsie pharmacorésistante
-- **Subtitle:** La durée d’une hospitalisation et celle du traitement de l’épilepsie répondent à des questions différentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Soins de l’épilepsie pharmacorésistante en Chine : calendrier des traitements
+- **Subtitle:** Planifiez les étapes des soins d’épilepsie pharmacorésistante en Chine : ajustements de doses, évaluation du bénéfice, bilan chirurgical et suivi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -162,3 +164,6 @@ Personne ne peut programmer fiablement toutes les décisions thérapeutiques fut
 ## SEO Metadata
 
 - **Primary keyword:** durée du traitement de l’épilepsie pharmacorésistante ; arrêt médicamenteux après chirurgie de l’épilepsie ; calendrier du traitement de l’épilepsie en Chine
+
+- **Meta title:** Soins de l’épilepsie pharmacorésistante en Chine : calendrier des traitements
+- **Meta description:** Planifiez les étapes des soins d’épilepsie pharmacorésistante en Chine : ajustements de doses, évaluation du bénéfice, bilan chirurgical et suivi.

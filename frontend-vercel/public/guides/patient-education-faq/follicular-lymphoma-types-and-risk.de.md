@@ -1,12 +1,14 @@
-# Formen und Risiko des follikulären Lymphoms: Grad, Stadium, FLIPI und frühe Progression unterscheiden
+# Grad und Risiko beim follikulären Lymphom: Vorbereitung auf die Versorgung in China
 
 ## Hero
 
-- **Title:** Formen und Risiko des follikulären Lymphoms: Grad, Stadium, FLIPI und frühe Progression unterscheiden
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Follikuläres Lymphom
-- **Subtitle:** Kein einzelner Score beschreibt alle wichtigen Risiken beim follikulären Lymphom.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Grad und Risiko beim follikulären Lymphom: Vorbereitung auf die Versorgung in China
+- **Subtitle:** Follikuläres Lymphom vor der Versorgung in China einordnen: Gewebegrad, Stadium, FLIPI, Tumorlast und frühe Progression als unterschiedliche Informationen verstehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Führen Sie die örtliche Nachsorge fort, während komplexe Ergebnisse ausstehen
 ## SEO Metadata
 
 - **Primary keyword:** Risikobeurteilung beim follikulären Lymphom
+
+- **Meta title:** Grad und Risiko beim follikulären Lymphom: Vorbereitung auf die Versorgung in China
+- **Meta description:** Follikuläres Lymphom vor der Versorgung in China einordnen: Gewebegrad, Stadium, FLIPI, Tumorlast und frühe Progression als unterschiedliche Informationen verstehen.

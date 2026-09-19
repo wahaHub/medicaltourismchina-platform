@@ -1,12 +1,14 @@
-# Combien de temps dure le traitement de la drépanocytose ? Médicaments, transfusions, récupération et organisation du voyage
+# Traitement de la drépanocytose en Chine : durées et organisation du voyage
 
 ## Hero
 
-- **Title:** Combien de temps dure le traitement de la drépanocytose ? Médicaments, transfusions, récupération et organisation du voyage
 - **Category:** Guides des traitements
 - **Subcategory:** Drépanocytose
-- **Subtitle:** Les patients doivent souvent prévoir une absence scolaire, un remplacement au travail, un voyage ou un aidant avant le traitement ; sa durée est donc une préoccupation pratique.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement de la drépanocytose en Chine : durées et organisation du voyage
+- **Subtitle:** Distinguez ajustement médicamenteux, transfusions, soins urgents et récupération dans la drépanocytose pour organiser le traitement et le voyage en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,3 +146,6 @@ Les familles peuvent alors organiser la relève au travail, la garde des enfants
 ## SEO Metadata
 
 - **Primary keyword:** durée du traitement de la drépanocytose
+
+- **Meta title:** Traitement de la drépanocytose en Chine : durées et organisation du voyage
+- **Meta description:** Distinguez ajustement médicamenteux, transfusions, soins urgents et récupération dans la drépanocytose pour organiser le traitement et le voyage en Chine.

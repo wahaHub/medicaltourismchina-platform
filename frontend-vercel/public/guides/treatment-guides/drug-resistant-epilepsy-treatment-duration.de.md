@@ -1,12 +1,14 @@
-# Wie lange dauert die Behandlung medikamentenresistenter Epilepsie? Medikamente, Eingriffe und Absetzen planen
+# Versorgung bei pharmakoresistenter Epilepsie in China: Behandlungsdauer
 
 ## Hero
 
-- **Title:** Wie lange dauert die Behandlung medikamentenresistenter Epilepsie? Medikamente, Eingriffe und Absetzen planen
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Medikamentenresistente Epilepsie
-- **Subtitle:** Die Dauer eines Krankenhausaufenthalts und die Dauer der Epilepsiebehandlung beantworten unterschiedliche Fragen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Versorgung bei pharmakoresistenter Epilepsie in China: Behandlungsdauer
+- **Subtitle:** Zeitbedarf bei pharmakoresistenter Epilepsie in China einordnen: Dosiseinstellung, Abklärung, Eingriffserholung, Anfallskontrolle und mögliche Absetzgespräche planen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -162,3 +164,6 @@ Niemand kann jede künftige Behandlungsentscheidung Jahre voraus verlässlich te
 ## SEO Metadata
 
 - **Primary keyword:** Behandlungsdauer medikamentenresistenter Epilepsie; Medikamentenabsetzen nach Epilepsiechirurgie; Epilepsiebehandlungszeitplan in China
+
+- **Meta title:** Versorgung bei pharmakoresistenter Epilepsie in China: Behandlungsdauer
+- **Meta description:** Zeitbedarf bei pharmakoresistenter Epilepsie in China einordnen: Dosiseinstellung, Abklärung, Eingriffserholung, Anfallskontrolle und mögliche Absetzgespräche planen.

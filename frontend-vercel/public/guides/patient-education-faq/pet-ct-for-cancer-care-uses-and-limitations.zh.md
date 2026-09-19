@@ -1,15 +1,17 @@
-# 肿瘤 PET/CT：一个“亮点”背后的示踪剂、检查时点与局限
+# 在中国做肿瘤 PET/CT：准备、示踪剂与局限
 
 ## Hero
 
-- **Title:** 肿瘤 PET/CT：一个“亮点”背后的示踪剂、检查时点与局限
 - **Category:** 患者教育与常见问题
 - **Subcategory:** 检查与诊断
-- **Subtitle:** 从 FDG 和其他示踪剂、检查准备、治疗后时点和辐射，到假阳性、假阴性及如何在中国取得可比较的影像。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **图片替代文字：** 与《肿瘤 PET/CT：一个“亮点”背后的示踪剂、检查时点与局限》对应的临床场景，呈现相关诊疗决策、操作流程与安全核对。
+
+
+- **Title:** 在中国做肿瘤 PET/CT：准备、示踪剂与局限
+- **Subtitle:** 了解 FDG 等 PET 示踪剂、空腹和糖尿病准备、治疗后时点、假阳性假阴性，以及 PET/CT 报告要求。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -173,13 +175,15 @@ FDG 检查后，医院可能建议多饮水、勤排尿、注意手卫生，并�
 ## SEO Metadata
 
 - **Slug:** `pet-ct-for-cancer-care-uses-and-limitations`
-- **Meta title:** 肿瘤 PET/CT：示踪剂、检查准备与局限
-- **Meta description:** 了解 FDG 等 PET 示踪剂、空腹和糖尿病准备、治疗后时点、假阳性假阴性，以及 PET/CT 报告要求。
 - **Primary keyword:** 肿瘤 PET CT
 - **Pillar keyword:** 中国肿瘤影像
 - **Vertical keyword:** FDG PET CT 准备与局限
 - **Search intent:** 肿瘤影像决策指导
 - **Secondary keywords:** PET 亮点不一定癌；PET 阴性癌症；糖尿病 PET CT；治疗后 PET CT；中国 PET CT DICOM
+
+
+- **Meta title:** 在中国做肿瘤 PET/CT：准备、示踪剂与局限
+- **Meta description:** 了解 FDG 等 PET 示踪剂、空腹和糖尿病准备、治疗后时点、假阳性假阴性，以及 PET/CT 报告要求。
 
 ## Sources
 

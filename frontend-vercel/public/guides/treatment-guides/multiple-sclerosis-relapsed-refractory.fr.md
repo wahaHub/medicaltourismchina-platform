@@ -1,12 +1,14 @@
-# Poussée ou réponse insuffisante dans la sclérose en plaques : gérer l’épisode et la prochaine décision thérapeutique
+# Poussée ou réponse insuffisante de la SEP : réévaluation et soins en Chine
 
 ## Hero
 
-- **Title:** Poussée ou réponse insuffisante dans la sclérose en plaques : gérer l’épisode et la prochaine décision thérapeutique
 - **Category:** Guides des traitements
 - **Subcategory:** Sclérose en plaques
-- **Subtitle:** Une nouvelle vision floue, une faiblesse ou un engourdissement malgré une prise régulière des médicaments peuvent donner l’impression que le traitement précédent a été inutile.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Poussée ou réponse insuffisante de la SEP : réévaluation et soins en Chine
+- **Subtitle:** Préparez une réévaluation de SEP en Chine en distinguant poussée, aggravation liée à un déclencheur et réponse insuffisante, avec un plan pour les symptômes urgents.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ La transmission finale après un épisode doit contenir sa chronologie, les rés
 ## SEO Metadata
 
 - **Primary keyword:** sclérose en plaques avec poussées et résistante au traitement
+
+- **Meta title:** Poussée ou réponse insuffisante de la SEP : réévaluation et soins en Chine
+- **Meta description:** Préparez une réévaluation de SEP en Chine en distinguant poussée, aggravation liée à un déclencheur et réponse insuffisante, avec un plan pour les symptômes urgents.

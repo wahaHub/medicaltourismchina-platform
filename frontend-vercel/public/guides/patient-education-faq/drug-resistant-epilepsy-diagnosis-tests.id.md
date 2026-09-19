@@ -1,12 +1,14 @@
-# Pemeriksaan untuk epilepsi resistan obat: memastikan kejadian, menyelidiki penyebab, dan menentukan pilihan pengobatan
+# Pemeriksaan Epilepsi Resistan Obat di Tiongkok: Tinjauan Diagnosis
 
 ## Hero
 
-- **Title:** Pemeriksaan untuk epilepsi resistan obat: memastikan kejadian, menyelidiki penyebab, dan menentukan pilihan pengobatan
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Epilepsi Resistan Obat
-- **Subtitle:** Pemeriksaan kejang yang sulit dikendalikan biasanya menjawab tiga pertanyaan: apakah kejadian berulang tersebut bersifat epileptik, mengapa pengobatan belum mengendalikannya, dan apakah bukti tambahan dapat mengubah pilihan yang tersedia.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pemeriksaan Epilepsi Resistan Obat di Tiongkok: Tinjauan Diagnosis
+- **Subtitle:** Pahami tinjauan riwayat kejang, obat, EEG, dan video-EEG pada epilepsi resistan obat. Siapkan pemeriksaan diagnostik di Tiongkok sesuai pertanyaan klinis.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -149,3 +151,6 @@ Dapatkan laporan resmi dan data sumber yang tersedia, catat kondisi untuk peninj
 ## SEO Metadata
 
 - **Primary keyword:** pemeriksaan diagnostik epilepsi resistan obat; pemantauan video-EEG; MRI epilepsi; penilaian praoperasi di Tiongkok
+
+- **Meta title:** Pemeriksaan Epilepsi Resistan Obat di Tiongkok: Tinjauan Diagnosis
+- **Meta description:** Pahami tinjauan riwayat kejang, obat, EEG, dan video-EEG pada epilepsi resistan obat. Siapkan pemeriksaan diagnostik di Tiongkok sesuai pertanyaan klinis.

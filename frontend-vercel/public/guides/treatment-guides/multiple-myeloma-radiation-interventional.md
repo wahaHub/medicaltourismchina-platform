@@ -1,12 +1,14 @@
-# Radiation therapy for multiple myeloma: treating painful lesions and protecting function
+# Myeloma Radiotherapy in China: Pain Relief and Function
 
 ## Hero
 
-- **Title:** Radiation therapy for multiple myeloma: treating painful lesions and protecting function
 - **Category:** Treatment Guides
 - **Subcategory:** Multiple Myeloma
-- **Subtitle:** A recommendation to irradiate one painful site does not necessarily mean that a patient's systemic myeloma treatment has failed.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Myeloma Radiotherapy in China: Pain Relief and Function
+- **Subtitle:** Understand myeloma radiotherapy for painful lesions and function-threatening problems, with the records needed for treatment planning in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Before return travel, review pain control, safe transfers, mobility support and 
 ## SEO Metadata
 
 - **Primary keyword:** multiple myeloma radiation therapy in China
+
+- **Meta title:** Myeloma Radiotherapy in China: Pain Relief and Function
+- **Meta description:** Understand myeloma radiotherapy for painful lesions and function-threatening problems, with the records needed for treatment planning in China.

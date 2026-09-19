@@ -1,15 +1,17 @@
-# 085 Allégations de médecine régénérative : les questions que les patients devraient poser
+# Médecine régénérative en Chine : neuf questions à poser
 
 ## Hero
 
-- **Title:** Allégations de médecine régénérative : les questions que les patients devraient poser
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Médecine cellulaire, génique et régénérative
-- **Subtitle:** Transformez des mots comme « réparer », « rajeunir » et « activer la guérison » en questions précises sur le produit, l’autorisation, les preuves, le résultat, le risque et l’intérêt financier.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Remplacement nécessaire : un patient et un clinicien indépendant comparant les identités, les voies réglementaires, les preuves cliniques et les risques de plusieurs produits de médecine régénérative.
+
+
+- **Title:** Médecine régénérative en Chine : neuf questions à poser
+- **Subtitle:** Évaluez les allégations de médecine régénérative par l’identité du produit, les résultats mesurables, l’autorisation chinoise, les preuves cliniques, la qualité, les risques, les conflits et les dossiers.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -173,11 +175,13 @@ La collecte, l’amplification, la différenciation, les tests de contamination 
 ## SEO Metadata
 
 - **Slug:** `regenerative-medicine-claims-questions-patients-should-ask`
-- **Meta title:** Allégations de médecine régénérative : neuf questions à poser
-- **Meta description:** Évaluez les allégations de médecine régénérative par l’identité du produit, les résultats mesurables, l’autorisation chinoise, les preuves cliniques, la qualité, les risques, les conflits et les dossiers.
 - **Primary keyword:** allégations de médecine régénérative
 - **Secondary keywords:** médecine régénérative en Chine ; allégations de traitement par exosomes ; PRP cellules souches ; commercialisation des thérapies cellulaires ; questions sur les traitements régénératifs
 - **Search intent:** vérification des allégations / vérifications préalables au traitement
+
+
+- **Meta title:** Médecine régénérative en Chine : neuf questions à poser
+- **Meta description:** Évaluez les allégations de médecine régénérative par l’identité du produit, les résultats mesurables, l’autorisation chinoise, les preuves cliniques, la qualité, les risques, les conflits et les dossiers.
 
 ## Sources
 

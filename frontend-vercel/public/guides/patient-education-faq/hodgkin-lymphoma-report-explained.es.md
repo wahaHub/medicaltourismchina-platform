@@ -1,12 +1,14 @@
-# Comprender un informe de linfoma de Hodgkin: anatomía patológica, estadio y puntuación de Deauville
+# Informes de linfoma de Hodgkin: prepararse para una revisión en China
 
 ## Hero
 
-- **Title:** Comprender un informe de linfoma de Hodgkin: anatomía patológica, estadio y puntuación de Deauville
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma de Hodgkin
-- **Subtitle:** Un expediente de linfoma de Hodgkin suele contener varios tipos distintos de informes: anatomía patológica, PET/TC, resultados de laboratorio y una evaluación del estadio por parte del médico.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Informes de linfoma de Hodgkin: prepararse para una revisión en China
+- **Subtitle:** Distinga diagnóstico, estadio, síntomas y puntuación de Deauville en informes de linfoma de Hodgkin para preparar una revisión especializada en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ Pida al médico que resuma la situación actual en una frase cotidiana: qué enf
 ## SEO Metadata
 
 - **Primary keyword:** explicación del informe de linfoma de Hodgkin
+
+- **Meta title:** Informes de linfoma de Hodgkin: prepararse para una revisión en China
+- **Meta description:** Distinga diagnóstico, estadio, síntomas y puntuación de Deauville en informes de linfoma de Hodgkin para preparar una revisión especializada en China.

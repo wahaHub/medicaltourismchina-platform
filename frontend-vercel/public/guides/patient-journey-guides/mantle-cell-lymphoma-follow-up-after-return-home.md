@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Returning Home After Mantle Cell Lymphoma Treatment in China: Making Follow-Up Work
 - **Category:** Patient Journey Guides
 - **Subcategory:** Mantle Cell Lymphoma
-- **Subtitle:** Leaving a Chinese hospital does not describe a single stage of mantle cell lymphoma care.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Returning Home After Mantle Cell Lymphoma Treatment in China: Making Follow-Up Work
+- **Subtitle:** Plan follow-up after mantle cell lymphoma care in China with medicine continuity, monitoring, recovery needs and instructions for suspected relapse.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ If further treatment becomes necessary, the previous regimen, duration of respon
 ## SEO Metadata
 
 - **Primary keyword:** mantle cell lymphoma follow-up after treatment in China
+
+- **Meta title:** Returning Home After Mantle Cell Lymphoma Treatment in China: Making Follow-Up Work
+- **Meta description:** Plan follow-up after mantle cell lymphoma care in China with medicine continuity, monitoring, recovery needs and instructions for suspected relapse.

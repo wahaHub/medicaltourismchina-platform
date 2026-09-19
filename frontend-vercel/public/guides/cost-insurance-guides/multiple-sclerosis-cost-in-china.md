@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Multiple sclerosis treatment costs in China: building a useful personal estimate
 - **Category:** Cost & Insurance Guides
 - **Subcategory:** Multiple Sclerosis
-- **Subtitle:** Multiple sclerosis treatment costs in China: building a useful personal estimate
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Multiple sclerosis treatment costs in China: building a useful personal estimate
+- **Subtitle:** Plan multiple sclerosis care costs in China around the actual consultation, investigations, medicines, monitoring and continuing-care pathway.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Compare proposals over the same observation period, such as from initial assessm
 ## SEO Metadata
 
 - **Primary keyword:** multiple sclerosis treatment cost in China
+
+- **Meta title:** Multiple sclerosis treatment costs in China: building a useful personal estimate
+- **Meta description:** Plan multiple sclerosis care costs in China around the actual consultation, investigations, medicines, monitoring and continuing-care pathway.

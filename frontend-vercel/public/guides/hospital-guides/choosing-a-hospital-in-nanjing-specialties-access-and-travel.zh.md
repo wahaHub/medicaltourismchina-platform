@@ -1,15 +1,17 @@
-# 怎样选择南京医院：临床依赖、过江路线与实际院区
+# 中国医院选择：南京护照预约与院区交通
 
 ## Hero
 
-- **Title:** 怎样选择南京医院：临床依赖、过江路线与实际院区
 - **Category:** 医院指南
 - **Subcategory:** 南京就医规划
-- **Subtitle:** 先画临床依赖图，再确认护照、院区、过江、急救和出院路线能否真正支撑它。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 国际患者规划南京就医的概念插画；天际线、历史城门、医院和路线图标均不代表真实院区组合或机构背书。
+
+
+- **Title:** 中国医院选择：南京护照预约与院区交通
+- **Subtitle:** 通过临床依赖图核验南京医院的院区、12320 护照预约、医疗口译、过江路线、现有交通入口、急救和出院责任。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -196,13 +198,15 @@
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-nanjing-specialties-access-and-travel`
-- **Meta title:** 怎样选择南京医院：院区、护照挂号与就医交通
-- **Meta description:** 通过临床依赖图核验南京医院的院区、12320 护照预约、医疗口译、过江路线、现有交通入口、急救和出院责任。
 - **Primary keyword:** 怎样选择南京医院
 - **Pillar keyword:** 南京国际患者医院
 - **Vertical keyword:** 南京医院院区护照交通
 - **Search intent:** 医院比较 / 南京医疗旅行规划
 - **Secondary keywords:** 南京 12320 护照；南京国际医院；南京医院院区；南京过江就医；南京 120
+
+
+- **Meta title:** 中国医院选择：南京护照预约与院区交通
+- **Meta description:** 通过临床依赖图核验南京医院的院区、12320 护照预约、医疗口译、过江路线、现有交通入口、急救和出院责任。
 
 ## Sources
 

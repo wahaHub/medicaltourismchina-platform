@@ -1,12 +1,14 @@
-# Radiothérapie du lymphome folliculaire : traitement localisé, palliation à faible dose et réirradiation
+# Radiothérapie du lymphome folliculaire en Chine : objectifs et préparation
 
 ## Hero
 
-- **Title:** Radiothérapie du lymphome folliculaire : traitement localisé, palliation à faible dose et réirradiation
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome folliculaire
-- **Subtitle:** Le lymphome folliculaire est souvent radiosensible, mais cette sensibilité ne détermine ni la dose, ni le champ, ni la nécessité d’un traitement médicamenteux systémique.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Radiothérapie du lymphome folliculaire en Chine : objectifs et préparation
+- **Subtitle:** Distinguez contrôle local et soulagement par radiothérapie du lymphome folliculaire pour discuter dose, séances, effets et préparation des soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Le séjour doit permettre la consultation, la simulation, la révision du plan, 
 ## SEO Metadata
 
 - **Primary keyword:** radiothérapie du lymphome folliculaire
+
+- **Meta title:** Radiothérapie du lymphome folliculaire en Chine : objectifs et préparation
+- **Meta description:** Distinguez contrôle local et soulagement par radiothérapie du lymphome folliculaire pour discuter dose, séances, effets et préparation des soins en Chine.

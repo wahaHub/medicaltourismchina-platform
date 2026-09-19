@@ -1,12 +1,14 @@
-# ¿Necesito radioterapia después de la quimioterapia del linfoma de Hodgkin? De los resultados de PET a un plan de tratamiento
+# Radioterapia del linfoma de Hodgkin en China: ¿cuándo es necesaria?
 
 ## Hero
 
-- **Title:** ¿Necesito radioterapia después de la quimioterapia del linfoma de Hodgkin? De los resultados de PET a un plan de tratamiento
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de Hodgkin
-- **Subtitle:** Un resultado favorable de PET después de la quimioterapia no siempre significa que la radioterapia se haya vuelto innecesaria.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Radioterapia del linfoma de Hodgkin en China: ¿cuándo es necesaria?
+- **Subtitle:** Comprenda cómo se decide la radioterapia del linfoma de Hodgkin en China según el tratamiento completo, la interpretación de PET y los órganos cercanos.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ La decisión de utilizar u omitir radioterapia debe dejar un registro claro: los
 ## SEO Metadata
 
 - **Primary keyword:** radioterapia después de la quimioterapia del linfoma de Hodgkin
+
+- **Meta title:** Radioterapia del linfoma de Hodgkin en China: ¿cuándo es necesaria?
+- **Meta description:** Comprenda cómo se decide la radioterapia del linfoma de Hodgkin en China según el tratamiento completo, la interpretación de PET y los órganos cercanos.

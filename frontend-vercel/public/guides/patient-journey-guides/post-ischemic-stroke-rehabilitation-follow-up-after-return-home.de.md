@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Nach der Schlaganfallrehabilitation in China: Versorgung und Genesung zu Hause fortsetzen
 - **Category:** Leitfäden zum Patientenweg
 - **Subcategory:** Rehabilitation nach ischämischem Schlaganfall
-- **Subtitle:** Nach einer Phase der Rehabilitation nach ischämischem Schlaganfall in China bedeutet die Heimkehr, die Behandlung in eine andere Umgebung zu übertragen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Nach der Schlaganfallrehabilitation in China: Versorgung und Genesung zu Hause fortsetzen
+- **Subtitle:** Nach Schlaganfallrehabilitation in China die Versorgung zu Hause fortführen: Zuständigkeiten, Medikamente, Alltagstraining, Schluckplan und Notfallwege klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,3 +146,6 @@ Falls die örtlichen Ressourcen vom in China entwickelten Plan abweichen, erläu
 ## SEO Metadata
 
 - **Primary keyword:** Nachsorge nach Schlaganfallrehabilitation in China
+
+- **Meta title:** Nach der Schlaganfallrehabilitation in China: Versorgung und Genesung zu Hause fortsetzen
+- **Meta description:** Nach Schlaganfallrehabilitation in China die Versorgung zu Hause fortführen: Zuständigkeiten, Medikamente, Alltagstraining, Schluckplan und Notfallwege klären.

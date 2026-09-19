@@ -1,12 +1,14 @@
-# Pronostic du lymphome folliculaire : comprendre la survie, la rémission et l’évolution à venir
+# Pronostic du lymphome folliculaire : questions pour une consultation en Chine
 
 ## Hero
 
-- **Title:** Pronostic du lymphome folliculaire : comprendre la survie, la rémission et l’évolution à venir
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Lymphome folliculaire
-- **Subtitle:** Le nom de la maladie ne suffit pas à prédire combien d’années vivra une personne atteinte d’un lymphome folliculaire.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronostic du lymphome folliculaire : questions pour une consultation en Chine
+- **Subtitle:** Interprétez survie, rémission et progression du lymphome folliculaire. Préparez vos questions sur l’évolution et le suivi avec une équipe en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Les prochains mois peuvent être organisés autour des dates de contrôle, des s
 ## SEO Metadata
 
 - **Primary keyword:** pronostic du lymphome folliculaire
+
+- **Meta title:** Pronostic du lymphome folliculaire : questions pour une consultation en Chine
+- **Meta description:** Interprétez survie, rémission et progression du lymphome folliculaire. Préparez vos questions sur l’évolution et le suivi avec une équipe en Chine.

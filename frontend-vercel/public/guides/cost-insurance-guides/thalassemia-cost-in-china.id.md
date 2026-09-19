@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Berapa biaya pengobatan talasemia di Tiongkok? Menyusun anggaran transfusi, kelasi, transplantasi, dan tindak lanjut
 - **Category:** Panduan Biaya & Asuransi
 - **Subcategory:** Talasemia
-- **Subtitle:** Diagnosis saja tidak dapat menghasilkan harga pengobatan yang andal.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Berapa biaya pengobatan talasemia di Tiongkok? Menyusun anggaran transfusi, kelasi, transplantasi, dan tindak lanjut
+- **Subtitle:** Rinci anggaran talasemia di Tiongkok untuk penilaian, transfusi, kelasi, atau transplantasi. Cocokkan estimasi dengan kebutuhan dan tindak lanjut pasien.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -158,3 +160,6 @@ Untuk talasemia, pembahasan keuangan yang berguna membantu mempertahankan perawa
 ## SEO Metadata
 
 - **Primary keyword:** biaya pengobatan talasemia di Tiongkok; biaya transfusi; anggaran kelasi; penawaran transplantasi talasemia dalam RMB
+
+- **Meta title:** Berapa biaya pengobatan talasemia di Tiongkok? Menyusun anggaran transfusi, kelasi, transplantasi, dan tindak lanjut
+- **Meta description:** Rinci anggaran talasemia di Tiongkok untuk penilaian, transfusi, kelasi, atau transplantasi. Cocokkan estimasi dengan kebutuhan dan tindak lanjut pasien.

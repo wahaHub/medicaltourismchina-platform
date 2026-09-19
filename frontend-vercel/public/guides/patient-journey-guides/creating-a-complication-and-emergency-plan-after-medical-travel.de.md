@@ -1,15 +1,17 @@
-# 150 Nach medizinischer Reise: Einen Komplikationsplan erstellen, der unter Stress funktioniert
+# Nach einer Behandlung in China: Notfall- und Komplikationsplan
 
 ## Hero
 
-- **Title:** Nach medizinischer Reise: Einen Komplikationsplan erstellen, der unter Stress funktioniert
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Reaktion auf Komplikationen und Notfälle
-- **Subtitle:** Entscheiden Sie vorab, wohin Sie gehen, was Sie sagen, was Sie mitnehmen und wer übernimmt, wenn die Erholung nicht mehr dem erwarteten Verlauf folgt.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Ein Patient und eine Begleitperson bereiten nach einer medizinischen Auslandsbehandlung ein Notfallkontaktblatt und einen Kalender vor.
+
+
+- **Title:** Nach einer Behandlung in China: Notfall- und Komplikationsplan
+- **Subtitle:** Erstellen Sie einen praktischen Notfallplan nach Behandlung mit Reaktionswegen, örtlichen Krankenhäusern, einer 60-Sekunden-Übergabe, Unterlagen, Versicherung und Probe.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -204,13 +206,15 @@ Nein. Deckung hängt von Vertrag, Ausschlüssen, medizinischer Notwendigkeit, St
 ## SEO Metadata
 
 - **Slug:** `creating-a-complication-and-emergency-plan-after-medical-travel`
-- **Meta title:** Notfallplan nach medizinischer Reise | Reaktion auf Komplikationen
-- **Meta description:** Erstellen Sie einen praktischen Notfallplan nach Behandlung mit Reaktionswegen, örtlichen Krankenhäusern, einer 60-Sekunden-Übergabe, Unterlagen, Versicherung und Probe.
 - **Primary keyword:** Notfallplan nach medizinischer Reise
 - **Pillar keyword:** medizinische Reise nach China
 - **Vertical keyword:** Komplikationsplan nach Auslandsbehandlung
 - **Search intent:** Sicherheitsplanung / Versorgung nach Heimkehr
 - **Secondary keywords:** Komplikationsplan Medizintourismus; Notfallunterlagen nach Operation im Ausland; Notfall nach Auslandsbehandlung; Offenlegung von Infektionen nach Reisen; Planung medizinischer Evakuierung
+
+
+- **Meta title:** Nach einer Behandlung in China: Notfall- und Komplikationsplan
+- **Meta description:** Erstellen Sie einen praktischen Notfallplan nach Behandlung mit Reaktionswegen, örtlichen Krankenhäusern, einer 60-Sekunden-Übergabe, Unterlagen, Versicherung und Probe.
 
 ## Quellen
 

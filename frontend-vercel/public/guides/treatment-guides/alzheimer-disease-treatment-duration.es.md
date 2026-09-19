@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Cuánto dura el tratamiento del Alzheimer? Revisiones, terapia con anticuerpos y planificación de la atención en China
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de Alzheimer
-- **Subtitle:** La enfermedad de Alzheimer generalmente requiere un manejo continuado, pero eso no significa que todos los medicamentos se prescriban indefinidamente.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Cuánto dura el tratamiento del Alzheimer? Revisiones, terapia con anticuerpos y planificación de la atención en China
+- **Subtitle:** Distinga los plazos de ajuste, revisión y vigilancia del tratamiento del Alzheimer para planificar medicamentos, anticuerpos y continuidad asistencial en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ El apoyo diario cambia con el estadio de la enfermedad. Los recordatorios, las m
 ## SEO Metadata
 
 - **Primary keyword:** duración del tratamiento del Alzheimer
+
+- **Meta title:** ¿Cuánto dura el tratamiento del Alzheimer? Revisiones, terapia con anticuerpos y planificación de la atención en China
+- **Meta description:** Distinga los plazos de ajuste, revisión y vigilancia del tratamiento del Alzheimer para planificar medicamentos, anticuerpos y continuidad asistencial en China.

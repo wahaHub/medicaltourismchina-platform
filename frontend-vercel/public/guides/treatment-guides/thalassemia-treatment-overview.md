@@ -1,12 +1,14 @@
-# Treating thalassemia: from carrier status, transfusion and chelation to transplantation and newer therapies
+# Thalassemia Treatment in China: Transfusions, Chelation and More
 
 ## Hero
 
-- **Title:** Treating thalassemia: from carrier status, transfusion and chelation to transplantation and newer therapies
 - **Category:** Treatment Guides
 - **Subcategory:** Thalassemia
-- **Subtitle:** Thalassemia comprises inherited disorders of globin production with presentations ranging from very few symptoms to a need for regular transfusion and multidisciplinary care.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Thalassemia Treatment in China: Transfusions, Chelation and More
+- **Subtitle:** Understand thalassemia care across blood support, chelation, transplant and newer approaches, with eligibility and access checks before treatment in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -131,3 +133,6 @@ Reviewing the plan periodically gives the patient an opportunity to discuss bene
 ## SEO Metadata
 
 - **Primary keyword:** thalassemia treatment
+
+- **Meta title:** Thalassemia Treatment in China: Transfusions, Chelation and More
+- **Meta description:** Understand thalassemia care across blood support, chelation, transplant and newer approaches, with eligibility and access checks before treatment in China.

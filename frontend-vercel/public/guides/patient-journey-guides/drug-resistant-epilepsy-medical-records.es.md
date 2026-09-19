@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Documentación médica para una consulta de epilepsia farmacorresistente en China: hacer comprensible la historia clínica
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Epilepsia farmacorresistente
-- **Subtitle:** Una bolsa grande de informes no facilita necesariamente más una consulta que una documentación organizada con cuidado.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Documentación médica para una consulta de epilepsia farmacorresistente en China: hacer comprensible la historia clínica
+- **Subtitle:** Organice la historia de epilepsia farmacorresistente para una consulta en China con cronología, descripción de episodios, diario de crisis y vídeos útiles.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -168,3 +170,6 @@ Después de la primera revisión, responda a solicitudes concretas en lugar de e
 ## SEO Metadata
 
 - **Primary keyword:** documentación médica de epilepsia farmacorresistente para China; documentos para consulta de epilepsia; archivos originales de MRI; historial de medicación anticrisis
+
+- **Meta title:** Documentación médica para una consulta de epilepsia farmacorresistente en China: hacer comprensible la historia clínica
+- **Meta description:** Organice la historia de epilepsia farmacorresistente para una consulta en China con cronología, descripción de episodios, diario de crisis y vídeos útiles.

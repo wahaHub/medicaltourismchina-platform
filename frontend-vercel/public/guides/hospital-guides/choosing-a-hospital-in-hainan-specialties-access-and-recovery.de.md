@@ -1,15 +1,17 @@
-# 110 Ein Krankenhaus in Hainan auswählen: Fünf Inselkriterien für Behandlung und Erholung
+# Krankenhauswahl in China: Hainan und Zugang in Lecheng
 
 ## Hero
 
-- **Title:** Ein Krankenhaus in Hainan auswählen: Fünf Inselkriterien für Behandlung und Erholung
 - **Category:** Krankenhausratgeber
 - **Subcategory:** Versorgungsplanung für Hainan
-- **Subtitle:** Prüfen Sie Stadt, Standort, regulatorischen Zugangsweg, Anreise auf der Insel und Erholung getrennt, bevor Sie sich auf ein Angebot für Medizintourismus in Hainan verlassen.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Konzeptionelle Illustration eines älteren internationalen Patienten beim Gespräch über Rehabilitation in einer Küstenumgebung im Stil Hainans; sie zeigt keine reale Einrichtung, kein klinisches Ergebnis und keine Empfehlung.
+
+
+- **Title:** Krankenhauswahl in China: Hainan und Zugang in Lecheng
+- **Subtitle:** Wählen Sie Versorgung in Hainan anhand von Stadt und Standort, regulärer Zulassung gegenüber Lecheng-Sonderzugang und Forschung, Inseltransport, Notfallversorgung, Kosten und messbarer Erholung.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -161,13 +163,15 @@ Nur wenn der behandelnde Arzt zustimmt und die Unterkunft innerhalb eines sicher
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-hainan-specialties-access-and-recovery`
-- **Meta title:** Krankenhauswahl in Hainan: Zugang in Lecheng und sichere Erholung
-- **Meta description:** Wählen Sie Versorgung in Hainan anhand von Stadt und Standort, regulärer Zulassung gegenüber Lecheng-Sonderzugang und Forschung, Inseltransport, Notfallversorgung, Kosten und messbarer Erholung.
 - **Primary keyword:** ein Krankenhaus in Hainan auswählen
 - **Pillar keyword:** Krankenhäuser in Hainan für internationale Patienten
 - **Vertical keyword:** Boao Lecheng spezielle Arzneimittel medizinische Reise
 - **Search intent:** Krankenhausvergleich / Planung medizinischer Reisen nach Hainan
 - **Secondary keywords:** Krankenhaus Boao Lecheng; spezielle importierte Medikamente Hainan; Medizintourismus Hainan; Krankenhausreise Haikou; Erholung nach Krankenhausaufenthalt Sanya; Hainan 120
+
+
+- **Meta title:** Krankenhauswahl in China: Hainan und Zugang in Lecheng
+- **Meta description:** Wählen Sie Versorgung in Hainan anhand von Stadt und Standort, regulärer Zulassung gegenüber Lecheng-Sonderzugang und Forschung, Inseltransport, Notfallversorgung, Kosten und messbarer Erholung.
 
 ## Quellen
 

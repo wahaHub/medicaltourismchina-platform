@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Documentación para una consulta de linfoma de Hodgkin en China: anatomía patológica, imágenes PET y tratamiento realmente administrado
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Linfoma de Hodgkin
-- **Subtitle:** La dificultad con la documentación para una consulta de linfoma de Hodgkin suele ser la relación entre los documentos, más que el número de archivos.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Documentación para una consulta de linfoma de Hodgkin en China: anatomía patológica, imágenes PET y tratamiento realmente administrado
+- **Subtitle:** Prepare una consulta de linfoma de Hodgkin en China con informes completos de biopsia, imágenes PET y un registro del tratamiento realmente administrado.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,3 +146,6 @@ La documentación debe permitir al siguiente médico establecer la base del diag
 ## SEO Metadata
 
 - **Primary keyword:** documentación médica para una consulta de linfoma de Hodgkin en China
+
+- **Meta title:** Documentación para una consulta de linfoma de Hodgkin en China: anatomía patológica, imágenes PET y tratamiento realmente administrado
+- **Meta description:** Prepare una consulta de linfoma de Hodgkin en China con informes completos de biopsia, imágenes PET y un registro del tratamiento realmente administrado.

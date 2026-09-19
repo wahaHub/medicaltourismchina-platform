@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** 20 Questions About Parkinson’s Treatment: Medicines, DBS, New Therapies and Care in China
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Parkinson Disease
-- **Subtitle:** Treatment decisions in Parkinson’s disease change with the main symptoms, response to medication and the patient’s daily needs.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** 20 Questions About Parkinson’s Treatment: Medicines, DBS, New Therapies and Care in China
+- **Subtitle:** Answers to 20 Parkinson’s questions about diagnosis, medicines, DBS, newer approaches, travel to China and continuing care at home.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Fever with severe rigidity, sudden profound immobility, altered awareness, inabi
 ## SEO Metadata
 
 - **Primary keyword:** Parkinson’s disease treatment in China frequently asked questions
+
+- **Meta title:** 20 Questions About Parkinson’s Treatment: Medicines, DBS, New Therapies and Care in China
+- **Meta description:** Answers to 20 Parkinson’s questions about diagnosis, medicines, DBS, newer approaches, travel to China and continuing care at home.

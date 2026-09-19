@@ -1,15 +1,17 @@
-# Blutgerinnseln auf medizinischen Reisen vorbeugen: Krankenhausplan und Heimreise verbinden
+# Operationen und Behandlungsreisen nach China: Blutgerinnseln vorbeugen
 
 ## Hero
 
-- **Title:** Blutgerinnseln auf medizinischen Reisen vorbeugen: Krankenhausplan und Heimreise verbinden
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Sicherheit bei Reise und Erholung
-- **Subtitle:** Wie sich chirurgische VTE-Beurteilung, frühe Mobilisation, Kompression und Antikoagulanzien mit Langstreckenflügen, Bodentransfers und dringlichen Symptomen einer TVT oder Lungenembolie verbinden lassen.
 - **Reviewed by:** Medora Health Redaktion
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Geplanter Ersatz mit einem Reisenden nach Operation, venösem Unterschenkelkreislauf, Gehen und Wadenübungen, Kompressionsstrümpfen, verordneter Antikoagulation und dringlichen TVT/LE-Warnzeichen
+
+
+- **Title:** Operationen und Behandlungsreisen nach China: Blutgerinnseln vorbeugen
+- **Subtitle:** Verbinden Sie chirurgische TVT- und LE-Vorbeugung mit langen Flügen und Transfers: Risikobeurteilung, Gehen, Kompression, Antikoagulanzien, Reisefähigkeit und Notfallsymptome.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,11 +144,13 @@ Behandeln Sie sie als Notfall, insbesondere mit Brustschmerzen, Ohnmacht, Bluthu
 
 ## SEO Metadata
 
-- **SEO title:** Blutgerinnseln nach Operation und auf medizinischen Reisen vorbeugen
-- **Meta description:** Verbinden Sie chirurgische TVT- und LE-Vorbeugung mit langen Flügen und Transfers: Risikobeurteilung, Gehen, Kompression, Antikoagulanzien, Reisefähigkeit und Notfallsymptome.
 - **Primary keyword:** Blutgerinnsel Vorbeugung medizinische Reise
 - **Secondary keywords:** TVT nach Operation, Lungenembolie Reise, VTE-Prophylaxe, Kompressionsstrümpfe Flug, Antikoagulanzien nach Operation, Flugfähigkeit Blutgerinnsel
 - **Suggested URL slug:** `/blood-clot-prevention-surgery-medical-travel-dvt-pe`
+
+
+- **Meta title:** Operationen und Behandlungsreisen nach China: Blutgerinnseln vorbeugen
+- **Meta description:** Verbinden Sie chirurgische TVT- und LE-Vorbeugung mit langen Flügen und Transfers: Risikobeurteilung, Gehen, Kompression, Antikoagulanzien, Reisefähigkeit und Notfallsymptome.
 
 ## Quellen
 

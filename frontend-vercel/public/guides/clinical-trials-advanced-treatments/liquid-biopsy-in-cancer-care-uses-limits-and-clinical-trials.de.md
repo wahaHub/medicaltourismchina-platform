@@ -1,15 +1,17 @@
-# 092 Flüssigbiopsie in der Krebsversorgung: Anwendungen, Grenzen und klinische Studien
+# Flüssigbiopsie in China: Krebsdiagnostik, Grenzen und Studien
 
 ## Hero
 
-- **Title:** Flüssigbiopsie in der Krebsversorgung: Anwendungen, Grenzen und klinische Studien
 - **Category:** Klinische Studien und fortgeschrittene Behandlungen
 - **Subcategory:** Molekulare Diagnostik und Präzisionsonkologie
-- **Subtitle:** Stimmen Sie Probe, Testverfahren und klinische Entscheidung aufeinander ab – und verstehen Sie, was ein negatives Ergebnis nicht ausschließen kann.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Vorläufige Beratungsillustration mit Reagenzglassymbol; eine wissenschaftlich korrekte Darstellung von Blutplasma, zellfreier DNA und Sequenzierung steht noch aus.
+
+
+- **Title:** Flüssigbiopsie in China: Krebsdiagnostik, Grenzen und Studien
+- **Subtitle:** Verstehen Sie ctDNA-Flüssigbiopsien bei fortgeschrittenem Krebs, MRD, Überwachung und Screening, einschließlich falsch negativer Ergebnisse, klonaler Hämatopoese, Gewebebestätigung und Studien.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,11 +139,13 @@ DNA weißer Blutkörperchen hilft, Tumorvarianten von klonaler Hämatopoese oder
 ## SEO Metadata
 
 - **Slug:** `liquid-biopsy-in-cancer-care-uses-limits-and-clinical-trials`
-- **Meta title:** Flüssigbiopsie bei Krebs: Anwendungen, Grenzen und Studien
-- **Meta description:** Verstehen Sie ctDNA-Flüssigbiopsien bei fortgeschrittenem Krebs, MRD, Überwachung und Screening, einschließlich falsch negativer Ergebnisse, klonaler Hämatopoese, Gewebebestätigung und Studien.
 - **Primary keyword:** Flüssigbiopsie in der Krebsversorgung
 - **Secondary keywords:** ctDNA-Untersuchung; molekulare Resterkrankung; genomische Plasmatests; falsch negative Flüssigbiopsie; klinische ctDNA-Studie
 - **Search intent:** Interpretation molekularer Tests / Studienscreening
+
+
+- **Meta title:** Flüssigbiopsie in China: Krebsdiagnostik, Grenzen und Studien
+- **Meta description:** Verstehen Sie ctDNA-Flüssigbiopsien bei fortgeschrittenem Krebs, MRD, Überwachung und Screening, einschließlich falsch negativer Ergebnisse, klonaler Hämatopoese, Gewebebestätigung und Studien.
 
 ## Quellen
 

@@ -1,15 +1,17 @@
-# 093 Comment vérifier un hôpital de recherche et un essai clinique
+# Vérifier un hôpital de recherche et un essai clinique en Chine
 
 ## Hero
 
-- **Title:** Comment vérifier un hôpital de recherche et un essai clinique
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Vérification de la recherche et éthique
-- **Subtitle:** Faites correspondre l’établissement, le protocole, le site, l’investigateur et le statut du recrutement avant de partager votre dossier ou de voyager.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Illustration conceptuelle d’un patient international utilisant une liste de contrôle et des symboles de vérification avec un coordinateur hospitalier ; le coordinateur n’est pas représenté comme recueillant le consentement clinique.
+
+
+- **Title:** Vérifier un hôpital de recherche et un essai clinique en Chine
+- **Subtitle:** Vérifiez un essai chinois en faisant correspondre l’autorisation hospitalière, la déclaration de l’établissement, les identifiants du registre et du protocole, le site activé, l’investigateur, l’éthique, le consentement, le recruteur et les paiements.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -197,11 +199,13 @@ Le nom juridique et le campus de l’hôpital, l’investigateur, les numéros d
 ## SEO Metadata
 
 - **Slug:** `how-to-verify-a-research-hospital-and-clinical-trial`
-- **Meta title:** Vérifier un hôpital de recherche et un essai clinique chinois
-- **Meta description:** Vérifiez un essai chinois en faisant correspondre l’autorisation hospitalière, la déclaration de l’établissement, les identifiants du registre et du protocole, le site activé, l’investigateur, l’éthique, le consentement, le recruteur et les paiements.
 - **Primary keyword:** vérifier un essai clinique en Chine
 - **Secondary keywords:** vérification d’un hôpital de recherche en Chine ; registre chinois des essais ; numéro CTR d’essai clinique ; établissement BPC en Chine ; vérification des arnaques aux essais cliniques
 - **Search intent:** légitimité de l’essai et vérification du site
+
+
+- **Meta title:** Vérifier un hôpital de recherche et un essai clinique en Chine
+- **Meta description:** Vérifiez un essai chinois en faisant correspondre l’autorisation hospitalière, la déclaration de l’établissement, les identifiants du registre et du protocole, le site activé, l’investigateur, l’éthique, le consentement, le recruteur et les paiements.
 
 ## Sources
 

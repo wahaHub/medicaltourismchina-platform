@@ -1,15 +1,17 @@
-# 103 Ein Krankenhaus in Guangzhou auswählen: Fachgebiete, Zugang und Reise
+# Krankenhauswahl in China: Leitfaden zu Klinikstandorten in Guangzhou
 
 ## Hero
 
-- **Title:** Ein Krankenhaus in Guangzhou auswählen: Fachgebiete, Zugang und Reise
 - **Category:** Krankenhausleitfäden
 - **Subcategory:** Versorgungsplanung in Guangzhou
-- **Subtitle:** Ordnen Sie den Fall einem überprüften Team zu und prüfen Sie dann, ob Standort, Buchungsidentität, Route in der Greater Bay Area und Erholungsplan tatsächlich zusammenpassen.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Konzeptionelle Illustration internationaler Reisender, die ein Krankenhaus in Guangzhou mit Karte und Kalender vergleichen; Skyline und Krankenhaus bilden keine reale Standortkombination.
+
+
+- **Title:** Krankenhauswahl in China: Leitfaden zu Klinikstandorten in Guangzhou
+- **Subtitle:** Wählen Sie ein Krankenhaus in Guangzhou nach überprüftem Team, Standort, Passzugang, Notfallabsicherung, Baiyun-Flughafen- oder Bahnroute, Grenzrisiko und Entlassungsübergabe.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -261,13 +263,15 @@ Nein. Bestätigen Sie, welche klinischen Dokumente zweisprachig sind, wer sie ü
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-guangzhou-specialties-access-and-travel`
-- **Meta title:** Ein Krankenhaus in Guangzhou auswählen: Standort und Reise
-- **Meta description:** Wählen Sie ein Krankenhaus in Guangzhou nach überprüftem Team, Standort, Passzugang, Notfallabsicherung, Baiyun-Flughafen- oder Bahnroute, Grenzrisiko und Entlassungsübergabe.
 - **Primary keyword:** ein Krankenhaus in Guangzhou auswählen
 - **Pillar keyword:** Krankenhäuser in Guangzhou für internationale Patienten
 - **Vertical keyword:** Guangzhou Krankenhaus Fachgebiet Zugang Reise
 - **Search intent:** Krankenhausvergleich / medizinische Reise in der Greater Bay Area
 - **Secondary keywords:** Guangzhou Health Link ausländischer Patient; Krankenhausstandort Guangzhou; Baiyun Airport Krankenhausreise; Guangzhou 120 Englisch; internationale medizinische Leistungen Guangzhou
+
+
+- **Meta title:** Krankenhauswahl in China: Leitfaden zu Klinikstandorten in Guangzhou
+- **Meta description:** Wählen Sie ein Krankenhaus in Guangzhou nach überprüftem Team, Standort, Passzugang, Notfallabsicherung, Baiyun-Flughafen- oder Bahnroute, Grenzrisiko und Entlassungsübergabe.
 
 ## Quellen
 

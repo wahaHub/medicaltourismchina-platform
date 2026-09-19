@@ -1,12 +1,14 @@
-# Traitement de la sclérose en plaques : élaborer un plan pour les poussées, la progression et les capacités quotidiennes
+# Traitement de la sclérose en plaques en Chine : un plan de soins continu
 
 ## Hero
 
-- **Title:** Traitement de la sclérose en plaques : élaborer un plan pour les poussées, la progression et les capacités quotidiennes
 - **Category:** Guides des traitements
 - **Subcategory:** Sclérose en plaques
-- **Subtitle:** Un plan thérapeutique utile pour la sclérose en plaques répond à plusieurs questions différentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement de la sclérose en plaques en Chine : un plan de soins continu
+- **Subtitle:** Construisez un plan de soins de la sclérose en plaques en Chine autour des poussées, de la progression, du traitement de fond et des capacités quotidiennes.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Demandez une estimation liée au parcours réellement proposé, comprenant l’�
 ## SEO Metadata
 
 - **Primary keyword:** traitement de la sclérose en plaques en Chine
+
+- **Meta title:** Traitement de la sclérose en plaques en Chine : un plan de soins continu
+- **Meta description:** Construisez un plan de soins de la sclérose en plaques en Chine autour des poussées, de la progression, du traitement de fond et des capacités quotidiennes.

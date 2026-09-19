@@ -1,12 +1,14 @@
-# Pengobatan lini pertama untuk limfoma folikular: menetapkan alasan untuk memulai dan memilih regimen yang dapat dijalankan
+# Pengobatan Lini Pertama Limfoma Folikular di Tiongkok: Perencanaan
 
 ## Hero
 
-- **Title:** Pengobatan lini pertama untuk limfoma folikular: menetapkan alasan untuk memulai dan memilih regimen yang dapat dijalankan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Folikular
-- **Subtitle:** Pengobatan lini pertama adalah pendekatan awal yang digunakan ketika limfoma folikular memerlukan pengobatan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Lini Pertama Limfoma Folikular di Tiongkok: Perencanaan
+- **Subtitle:** Tentukan kapan terapi pertama limfoma folikular diperlukan di Tiongkok. Bandingkan radiasi, antibodi, serta obat pendamping sebagai rencana lengkap.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Sebagian diskusi patologi dan regimen dapat dilakukan jarak jauh, tetapi pengatu
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan lini pertama limfoma folikular
+
+- **Meta title:** Pengobatan Lini Pertama Limfoma Folikular di Tiongkok: Perencanaan
+- **Meta description:** Tentukan kapan terapi pertama limfoma folikular diperlukan di Tiongkok. Bandingkan radiasi, antibodi, serta obat pendamping sebagai rencana lengkap.

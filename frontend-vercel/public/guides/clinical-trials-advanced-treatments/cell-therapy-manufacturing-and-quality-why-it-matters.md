@@ -1,15 +1,17 @@
-# Cell Therapy Manufacturing and Quality: Why It Matters
+# Cell Therapy in China: Manufacturing and Quality Checks
 
 ## Hero
 
-- **Title:** Cell Therapy Manufacturing and Quality: Why It Matters
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Cell, Gene & Regenerative Medicine
-- **Subtitle:** Follow a cell product from collection and identity control through manufacture, release, transport and bedside administration—and understand what happens when a batch fails.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Editorial illustration of cells moving through a product vial and safety check to a patient; a high-level pathway, not a real manufacturing record or release certificate.
+
+
+- **Title:** Cell Therapy in China: Manufacturing and Quality Checks
+- **Subtitle:** Understand cell collection, chain of identity, manufacturing controls, release tests, potency, OOS batches, comparability, shipping and bedside handling.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -167,11 +169,13 @@ Yes. The protocol should define immediate notification, clinical assessment, org
 ## SEO Metadata
 
 - **Slug:** `cell-therapy-manufacturing-and-quality-why-it-matters`
-- **Meta title:** Cell Therapy Manufacturing, Release and Quality
-- **Meta description:** Understand cell collection, chain of identity, manufacturing controls, release tests, potency, OOS batches, comparability, shipping and bedside handling.
 - **Primary keyword:** cell therapy manufacturing quality
 - **Secondary keywords:** cell therapy batch release; CAR-T manufacturing failure; cell therapy potency; chain of identity; cell therapy comparability
 - **Search intent:** manufacturing due diligence / cell-product quality
+
+
+- **Meta title:** Cell Therapy in China: Manufacturing and Quality Checks
+- **Meta description:** Understand cell collection, chain of identity, manufacturing controls, release tests, potency, OOS batches, comparability, shipping and bedside handling.
 
 ## Sources
 

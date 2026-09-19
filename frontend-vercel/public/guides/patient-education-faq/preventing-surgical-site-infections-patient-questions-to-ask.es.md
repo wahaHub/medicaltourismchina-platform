@@ -1,15 +1,17 @@
-# Prevención de la infección del sitio quirúrgico: preguntas que los pacientes pueden hacer antes y después de una operación
+# Cirugía en China: prevención de infecciones de heridas y señales de alarma
 
 ## Hero
 
-- **Title:** Prevención de la infección del sitio quirúrgico: preguntas que los pacientes pueden hacer antes y después de una operación
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Cirugía y prevención de infecciones
-- **Subtitle:** Una guía para pacientes sobre preparación de la piel, eliminación del vello, momento de administración de antibióticos, manejo de glucosa y temperatura, higiene de manos, apósitos y revisión temprana de la herida.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un paciente conversa con dos profesionales de atención perioperatoria sobre prevención de infecciones y cuidado de heridas
+
+
+- **Title:** Cirugía en China: prevención de infecciones de heridas y señales de alarma
+- **Subtitle:** Aprenda cómo pueden los pacientes ayudar a prevenir la infección del sitio quirúrgico antes y después de la cirugía: afeitado, antibióticos, higiene de manos, apósitos, fotos y señales urgentes de alarma.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,11 +141,13 @@ Una foto puede documentar cambios superficiales, pero no excluir de forma fiable
 
 ## SEO Metadata
 
-- **SEO title:** Prevención de la infección del sitio quirúrgico: antibióticos, cuidado de heridas y señales de alarma
-- **Meta description:** Aprenda cómo pueden los pacientes ayudar a prevenir la infección del sitio quirúrgico antes y después de la cirugía: afeitado, antibióticos, higiene de manos, apósitos, fotos y señales urgentes de alarma.
 - **Primary keyword:** prevenir la infección del sitio quirúrgico
 - **Secondary keywords:** prevención de ISQ, infección de herida quirúrgica, profilaxis antibiótica, cuidado de la incisión, señales de alarma de la herida posoperatoria, higiene de manos
 - **Suggested URL slug:** `/prevent-surgical-site-infection-antibiotics-wound-care-warning-signs`
+
+
+- **Meta title:** Cirugía en China: prevención de infecciones de heridas y señales de alarma
+- **Meta description:** Aprenda cómo pueden los pacientes ayudar a prevenir la infección del sitio quirúrgico antes y después de la cirugía: afeitado, antibióticos, higiene de manos, apósitos, fotos y señales urgentes de alarma.
 
 ## Fuentes
 

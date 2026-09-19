@@ -1,12 +1,14 @@
-# Comprendre un compte rendu de myélome multiple : protéine, moelle, imagerie et MRD
+# Comptes rendus du myélome multiple : préparer une relecture en Chine
 
 ## Hero
 
-- **Title:** Comprendre un compte rendu de myélome multiple : protéine, moelle, imagerie et MRD
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Myélome multiple
-- **Subtitle:** Un dossier de myélome peut contenir de nombreux résultats signalés comme anormaux, mais le nombre de flèches ne décrit pas la maladie.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Comptes rendus du myélome multiple : préparer une relecture en Chine
+- **Subtitle:** Reliez protéine monoclonale, moelle, génétique, imagerie et maladie résiduelle du myélome pour préparer une relecture de vos résultats en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ L’équipe d’accueil peut alors décider si une relecture ou des examens supp
 ## SEO Metadata
 
 - **Primary keyword:** explication du compte rendu de myélome multiple
+
+- **Meta title:** Comptes rendus du myélome multiple : préparer une relecture en Chine
+- **Meta description:** Reliez protéine monoclonale, moelle, génétique, imagerie et maladie résiduelle du myélome pour préparer une relecture de vos résultats en Chine.

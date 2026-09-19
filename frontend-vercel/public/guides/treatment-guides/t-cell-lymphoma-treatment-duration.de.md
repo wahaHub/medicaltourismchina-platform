@@ -1,12 +1,14 @@
-# Wie lange dauert die Behandlung eines T-Zell-Lymphoms? Zyklen, Beurteilung, Transplantation und Reise planen
+# Behandlung des T-Zell-Lymphoms in China: Zyklen und Reiseplanung
 
 ## Hero
 
-- **Title:** Wie lange dauert die Behandlung eines T-Zell-Lymphoms? Zyklen, Beurteilung, Transplantation und Reise planen
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** T-Zell-Lymphom
-- **Subtitle:** Die Frage nach der Behandlungsdauer kann die Dauer einer Infusion, die Zeit bis zur Heimkehr oder den Zeitpunkt der Wiederaufnahme der Arbeit meinen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Behandlung des T-Zell-Lymphoms in China: Zyklen und Reiseplanung
+- **Subtitle:** T-Zell-Lymphom-Behandlung in China zeitlich planen: Subtyp, Zyklen, Erholung, Ansprechkontrollen, Bestrahlung und Transplantation mit der Reise abstimmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ Versehen Sie den Zeitplan mit einem Versionsdatum und ersetzen Sie überholte Ko
 ## SEO Metadata
 
 - **Primary keyword:** Behandlungsdauer bei T-Zell-Lymphom
+
+- **Meta title:** Behandlung des T-Zell-Lymphoms in China: Zyklen und Reiseplanung
+- **Meta description:** T-Zell-Lymphom-Behandlung in China zeitlich planen: Subtyp, Zyklen, Erholung, Ansprechkontrollen, Bestrahlung und Transplantation mit der Reise abstimmen.

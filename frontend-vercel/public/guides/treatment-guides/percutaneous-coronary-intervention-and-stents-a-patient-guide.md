@@ -1,15 +1,17 @@
-# Percutaneous Coronary Intervention and Stents: A Patient Guide
+# PCI and Coronary Stents in China: Decisions and Recovery
 
 ## Hero
 
-- **Title:** Percutaneous Coronary Intervention and Stents: A Patient Guide
 - **Category:** Treatment Guides
 - **Subcategory:** Heart & Vascular Care
-- **Subtitle:** Decide what PCI is meant to achieve, how the lesion will be treated, and how to protect the result after returning home.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Cardiologist explaining balloon angioplasty and coronary stent expansion to a patient
+
+
+- **Title:** PCI and Coronary Stents in China: Decisions and Recovery
+- **Subtitle:** Understand PCI benefit, lesion and stent planning, complex coronary decisions, dual antiplatelet therapy, recovery and cross-border follow-up.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -149,13 +151,15 @@ Not without coordinated advice. Stopping too early can allow a clot to form in t
 ## SEO Metadata
 
 - **Slug:** `percutaneous-coronary-intervention-and-stents-a-patient-guide`
-- **Meta title:** PCI and Coronary Stents: Decisions, DAPT and Recovery
-- **Meta description:** Understand PCI benefit, lesion and stent planning, complex coronary decisions, dual antiplatelet therapy, recovery and cross-border follow-up.
 - **Primary keyword:** percutaneous coronary intervention and stents
 - **Pillar keyword:** coronary treatment in China
 - **Vertical keyword:** PCI patient guide
 - **Search intent:** treatment decision / post-stent planning
 - **Secondary keywords:** coronary stent guide; angioplasty; drug-eluting stent; dual antiplatelet therapy; PCI recovery; complex PCI
+
+
+- **Meta title:** PCI and Coronary Stents in China: Decisions and Recovery
+- **Meta description:** Understand PCI benefit, lesion and stent planning, complex coronary decisions, dual antiplatelet therapy, recovery and cross-border follow-up.
 
 ## Sources
 

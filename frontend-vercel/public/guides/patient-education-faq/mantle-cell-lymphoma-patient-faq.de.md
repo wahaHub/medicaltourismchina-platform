@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Mantelzelllymphom: 20 Fragen zu Diagnose, Behandlung in China und Rückkehr nach Hause
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Mantelzelllymphom
-- **Subtitle:** Die Behandlung des Mantelzelllymphoms verändert sich, und Patienten mit derselben Diagnose können sehr unterschiedliche Krankheitsverläufe und Behandlungsvorgeschichten haben.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Mantelzelllymphom: 20 Fragen zu Diagnose, Behandlung in China und Rückkehr nach Hause
+- **Subtitle:** 20 Fragen zur Mantelzelllymphom-Versorgung in China: Pathologie, Risikobefunde, Beobachtung, Therapieoptionen und Weiterbehandlung nach der Heimkehr klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -177,3 +179,6 @@ Fortlaufende Therapie oder Erholung nach Transplantation oder CAR-T wird durch e
 ## SEO Metadata
 
 - **Primary keyword:** Mantelzelllymphom Patientenfragen Behandlung in China
+
+- **Meta title:** Mantelzelllymphom: 20 Fragen zu Diagnose, Behandlung in China und Rückkehr nach Hause
+- **Meta description:** 20 Fragen zur Mantelzelllymphom-Versorgung in China: Pathologie, Risikobefunde, Beobachtung, Therapieoptionen und Weiterbehandlung nach der Heimkehr klären.

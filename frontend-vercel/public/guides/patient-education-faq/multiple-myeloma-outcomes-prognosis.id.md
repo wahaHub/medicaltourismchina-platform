@@ -1,12 +1,14 @@
-# Luaran mieloma multipel: menafsirkan angka kelangsungan hidup dan merencanakan pemulihan
+# Prognosis Mieloma: Menafsirkan Hasil untuk Perawatan di Tiongkok
 
 ## Hero
 
-- **Title:** Luaran mieloma multipel: menafsirkan angka kelangsungan hidup dan merencanakan pemulihan
 - **Category:** Edukasi Pasien & Pertanyaan yang Sering Diajukan
 - **Subcategory:** Mieloma Multipel
-- **Subtitle:** Ketika seseorang bertanya berapa lama ia dapat hidup dengan mieloma, ia mungkin juga bertanya apakah dapat pulang, berjalan mandiri, bekerja kembali, atau menghabiskan lebih sedikit waktu di rumah sakit.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prognosis Mieloma: Menafsirkan Hasil untuk Perawatan di Tiongkok
+- **Subtitle:** Tafsirkan prognosis mieloma melalui risiko awal, respons, dan fungsi sehari-hari. Siapkan pertanyaan hasil pengobatan untuk perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Sebelum bepergian ke Tiongkok, pastikan tindak lanjut dan obat berkelanjutan tet
 ## SEO Metadata
 
 - **Primary keyword:** prognosis mieloma multipel dan luaran pengobatan di Tiongkok
+
+- **Meta title:** Prognosis Mieloma: Menafsirkan Hasil untuk Perawatan di Tiongkok
+- **Meta description:** Tafsirkan prognosis mieloma melalui risiko awal, respons, dan fungsi sehari-hari. Siapkan pertanyaan hasil pengobatan untuk perawatan di Tiongkok.

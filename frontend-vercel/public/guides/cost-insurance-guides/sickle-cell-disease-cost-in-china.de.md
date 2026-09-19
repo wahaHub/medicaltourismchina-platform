@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Kosten der Sichelzellkrankheitsbehandlung in China: Budgets für Medikamente, Transfusionen und Transplantationen prüfen
 - **Category:** Kosten- und Versicherungsratgeber
 - **Subcategory:** Sichelzellkrankheit
-- **Subtitle:** Die Kosten der Versorgung bei Sichelzellkrankheit in China hängen zunächst davon ab, was ein Patient erreichen muss.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Kosten der Sichelzellkrankheitsbehandlung in China: Budgets für Medikamente, Transfusionen und Transplantationen prüfen
+- **Subtitle:** Kosten der Sichelzellversorgung in China planen: Medikamente, Blutverträglichkeit, Transfusionen, Transplantation und weitere Betreuung in einem Angebot erfassen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -155,3 +157,6 @@ Prüfen Sie beim Vergleich zweier Schätzungen zuerst, ob sie dasselbe klinische
 
 - **Primary keyword:** Kosten der Sichelzellkrankheitsbehandlung in China
 
+
+- **Meta title:** Kosten der Sichelzellkrankheitsbehandlung in China: Budgets für Medikamente, Transfusionen und Transplantationen prüfen
+- **Meta description:** Kosten der Sichelzellversorgung in China planen: Medikamente, Blutverträglichkeit, Transfusionen, Transplantation und weitere Betreuung in einem Angebot erfassen.

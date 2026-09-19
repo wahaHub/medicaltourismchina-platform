@@ -1,15 +1,17 @@
-# Setelah Operasi Jauh dari Rumah: Tanda Bahaya Mana yang Memerlukan 120, Kontak Tim Bedah pada Hari yang Sama, atau Pemantauan?
+# Tanda Bahaya Setelah Operasi di Tiongkok: Hubungi 120 atau Dokter Bedah?
 
 ## Hero
 
-- **Title:** Setelah Operasi Jauh dari Rumah: Tanda Bahaya Mana yang Memerlukan 120, Kontak Tim Bedah pada Hari yang Sama, atau Pemantauan?
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Gejala & Perawatan Mendesak
-- **Subtitle:** Panduan triase praktis bagi pasien internasional yang pulih di hotel, apartemen, atau kota yang belum dikenal setelah operasi.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Pasien pascaoperasi berbicara dengan dokter di samping ikon demam, gangguan pernapasan, gejala jantung, nyeri tungkai, dan nyeri perut
+
+
+- **Title:** Tanda Bahaya Setelah Operasi di Tiongkok: Hubungi 120 atau Dokter Bedah?
+- **Subtitle:** Triase gangguan pernapasan, perdarahan, perubahan luka, demam, muntah, pembengkakan tungkai, dan masalah drain setelah operasi saat bepergian.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -168,13 +170,15 @@ Tidak. Hubungi tim bedah atau dokter setempat. Luka mungkin memerlukan pemeriksa
 ## SEO Metadata
 
 - **Slug:** `postoperative-warning-signs-that-need-urgent-assessment`
-- **Meta title:** Tanda Bahaya Pascaoperasi: Hubungi 120 atau Ahli Bedah?
-- **Meta description:** Triase gangguan pernapasan, perdarahan, perubahan luka, demam, muntah, pembengkakan tungkai, dan masalah drain setelah operasi saat bepergian.
 - **Primary keyword:** tanda bahaya pascaoperasi
 - **Pillar keyword:** keselamatan pasien selama perjalanan medis
 - **Vertical keyword:** gejala mendesak setelah operasi
 - **Search intent:** panduan triase pascaoperasi
 - **Secondary keywords:** infeksi luka setelah operasi; bekuan darah setelah operasi; demam pascaoperasi; menghubungi ahli bedah setelah operasi; menghubungi 120 Tiongkok
+
+
+- **Meta title:** Tanda Bahaya Setelah Operasi di Tiongkok: Hubungi 120 atau Dokter Bedah?
+- **Meta description:** Triase gangguan pernapasan, perdarahan, perubahan luka, demam, muntah, pembengkakan tungkai, dan masalah drain setelah operasi saat bepergian.
 
 ## Sumber
 

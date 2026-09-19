@@ -1,12 +1,14 @@
-# Rehabilitation After Ischemic Stroke: From Hospital Therapy to Everyday Life
+# Ischemic Stroke Rehabilitation in China: Hospital to Home
 
 ## Hero
 
-- **Title:** Rehabilitation After Ischemic Stroke: From Hospital Therapy to Everyday Life
 - **Category:** Treatment Guides
 - **Subcategory:** Post Ischemic Stroke Rehabilitation
-- **Subtitle:** After an ischemic stroke, relatives often ask whether an arm or leg will recover.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Ischemic Stroke Rehabilitation in China: Hospital to Home
+- **Subtitle:** Plan ischemic stroke rehabilitation in China around function, safety and everyday tasks, with a pathway from hospital therapy to home support.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Recovery may proceed at different speeds across different abilities. When one me
 ## SEO Metadata
 
 - **Primary keyword:** rehabilitation after ischemic stroke
+
+- **Meta title:** Ischemic Stroke Rehabilitation in China: Hospital to Home
+- **Meta description:** Plan ischemic stroke rehabilitation in China around function, safety and everyday tasks, with a pathway from hospital therapy to home support.

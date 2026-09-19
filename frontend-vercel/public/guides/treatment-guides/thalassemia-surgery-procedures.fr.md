@@ -1,12 +1,14 @@
-# Chirurgie et interventions dans la thalassémie : décisions concernant la rate, la vésicule biliaire et les autres interventions
+# Chirurgie de la thalassémie en Chine : rate, vésicule biliaire et récupération
 
 ## Hero
 
-- **Title:** Chirurgie et interventions dans la thalassémie : décisions concernant la rate, la vésicule biliaire et les autres interventions
 - **Category:** Guides des traitements
 - **Subcategory:** Thalassémie
-- **Subtitle:** Il n’existe pas d’opération générale de la thalassémie retirant un tissu anormal pour corriger ainsi la maladie héréditaire.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Chirurgie de la thalassémie en Chine : rate, vésicule biliaire et récupération
+- **Subtitle:** Comprenez les indications des interventions sur la rate et la vésicule dans la thalassémie, avec préparation infectieuse et récupération pour des soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ Fournissez à l’hôpital d’accueil chinois l’intervention précise propos�
 ## SEO Metadata
 
 - **Primary keyword:** chirurgie dans la thalassémie ; splénectomie ; calculs biliaires ; évaluation préopératoire ; rate augmentée de volume
+
+- **Meta title:** Chirurgie de la thalassémie en Chine : rate, vésicule biliaire et récupération
+- **Meta description:** Comprenez les indications des interventions sur la rate et la vésicule dans la thalassémie, avec préparation infectieuse et récupération pour des soins en Chine.

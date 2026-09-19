@@ -1,12 +1,14 @@
-# Bestrahlung beim follikulären Lymphom: lokale Behandlung, niedrig dosierte Palliation und erneute Bestrahlung
+# Strahlentherapie beim follikulären Lymphom in China: Zweck und Planung
 
 ## Hero
 
-- **Title:** Bestrahlung beim follikulären Lymphom: lokale Behandlung, niedrig dosierte Palliation und erneute Bestrahlung
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Follikuläres Lymphom
-- **Subtitle:** Das follikuläre Lymphom ist häufig strahlenempfindlich, doch diese Empfindlichkeit bestimmt weder Dosis noch Bestrahlungsfeld oder die Notwendigkeit systemischer Medikamente.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Strahlentherapie beim follikulären Lymphom in China: Zweck und Planung
+- **Subtitle:** Strahlentherapie beim follikulären Lymphom in China besprechen: lokale Behandlung, symptomlindernde Dosis, Voraufnahmen und frühere Bestrahlungspläne berücksichtigen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Der Aufenthalt muss Zeit für Beratung, Simulation, Planprüfung, Behandlung und
 ## SEO Metadata
 
 - **Primary keyword:** Strahlentherapie follikuläres Lymphom
+
+- **Meta title:** Strahlentherapie beim follikulären Lymphom in China: Zweck und Planung
+- **Meta description:** Strahlentherapie beim follikulären Lymphom in China besprechen: lokale Behandlung, symptomlindernde Dosis, Voraufnahmen und frühere Bestrahlungspläne berücksichtigen.

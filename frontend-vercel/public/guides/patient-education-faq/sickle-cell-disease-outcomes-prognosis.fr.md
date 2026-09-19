@@ -1,12 +1,14 @@
-# Quelles évolutions sont possibles avec la drépanocytose ? Comprendre la survie, la réponse au traitement et le pronostic personnel
+# Pronostic de la drépanocytose : questions pour des soins en Chine
 
 ## Hero
 
-- **Title:** Quelles évolutions sont possibles avec la drépanocytose ? Comprendre la survie, la réponse au traitement et le pronostic personnel
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Drépanocytose
-- **Subtitle:** « Combien de temps vais-je vivre ? », « Pourrai-je travailler ? » et « Que se passera-t-il lorsque mon enfant grandira ? » sont des questions pratiques dans la prise en charge de la drépanocytose.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronostic de la drépanocytose : questions pour des soins en Chine
+- **Subtitle:** Reliez pronostic de la drépanocytose, génotype, crises douloureuses et santé des organes pour préparer une discussion personnalisée des soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Les patients méritent une incertitude exprimée honnêtement et une prochaine �
 ## SEO Metadata
 
 - **Primary keyword:** pronostic et résultats thérapeutiques de la drépanocytose
+
+- **Meta title:** Pronostic de la drépanocytose : questions pour des soins en Chine
+- **Meta description:** Reliez pronostic de la drépanocytose, génotype, crises douloureuses et santé des organes pour préparer une discussion personnalisée des soins en Chine.

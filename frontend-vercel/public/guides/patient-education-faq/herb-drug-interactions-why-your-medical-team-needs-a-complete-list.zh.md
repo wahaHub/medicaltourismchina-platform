@@ -1,15 +1,17 @@
-# 草药与西药相互作用：“天然”不是一种药理分类
+# 在中国就医：药物与草药产品相互作用核查
 
 ## Hero
 
-- **Title:** 草药与西药相互作用：“天然”不是一种药理分类
 - **Category:** 患者教育与常见问题
 - **Subcategory:** 药物
-- **Subtitle:** 如何建立可识别的产品清单、优先排查高风险组合，并帮助药师区分已有证据的相互作用和真正的不确定性。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** 医生与患者共同核对处方药瓶、草本滴剂、植物原料和书面产品清单
+
+
+- **Title:** 在中国就医：药物与草药产品相互作用核查
+- **Subtitle:** 了解草药和补充剂怎样改变处方药，哪些组合需要紧急复核，以及药师为什么需要产品、剂量和批次而不只是一个名称。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -184,11 +186,13 @@ NCCIH特别提醒地高辛、环孢素和华法林等治疗窗狭窄的药，因
 
 ## SEO Metadata
 
-- **SEO title:** 草药与西药相互作用：怎样建立完整产品清单
-- **Meta description:** 了解草药和补充剂怎样改变处方药，哪些组合需要紧急复核，以及药师为什么需要产品、剂量和批次而不只是一个名称。
 - **Primary keyword:** 草药与西药相互作用
 - **Secondary keywords:** 草本补充剂与药物, 圣约翰草相互作用, 术前停草药, 肿瘤治疗补充剂, 用药重整, 中药安全
 - **Suggested URL slug:** `/zh-cn/herb-drug-interactions-complete-product-list`
+
+
+- **Meta title:** 在中国就医：药物与草药产品相互作用核查
+- **Meta description:** 了解草药和补充剂怎样改变处方药，哪些组合需要紧急复核，以及药师为什么需要产品、剂量和批次而不只是一个名称。
 
 ## Sources
 

@@ -1,15 +1,17 @@
-# 140 Nutrición durante la recuperación hospitalaria: elija la vía antes de contar calorías
+# Recuperación hospitalaria en China: planificación de nutrición y líquidos
 
 ## Hero
 
-- **Title:** Nutrición durante la recuperación hospitalaria: elija la vía antes de contar calorías
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Cribado nutricional, vías de alimentación y balance de líquidos
-- **Subtitle:** La nutrición para la recuperación comienza preguntando si la deglución es segura, el intestino funciona y los líquidos necesitan restricción. Solo entonces la energía, las proteínas, los suplementos y las preferencias alimentarias se convierten en cifras útiles.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Conversación conceptual sobre recuperación hospitalaria con agua, fruta y una ayuda para caminar; representa la planificación de nutrición e hidratación, no una dieta prescrita ni una ingesta de líquidos sin restricciones.
+
+
+- **Title:** Recuperación hospitalaria en China: planificación de nutrición y líquidos
+- **Subtitle:** Detecte el riesgo nutricional, confirme deglución segura y función intestinal, elija apoyo oral/por sonda/intravenoso, controle el balance de líquidos y planifique la nutrición al alta hospitalaria.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -184,13 +186,15 @@ Envíe la vía/textura segura, la ingesta reciente y tendencia del peso, restric
 ## SEO Metadata
 
 - **Slug:** `nutrition-and-hydration-during-hospital-recovery`
-- **Meta title:** Nutrición durante la recuperación hospitalaria | Plan de vía y líquidos
-- **Meta description:** Detecte el riesgo nutricional, confirme deglución segura y función intestinal, elija apoyo oral/por sonda/intravenoso, controle el balance de líquidos y planifique la nutrición al alta hospitalaria.
 - **Primary keyword:** nutrición en la recuperación hospitalaria en China
 - **Pillar keyword:** viaje médico a China
 - **Vertical keyword:** plan de nutrición e hidratación hospitalaria
 - **Search intent:** planificación de recuperación / apoyo nutricional
 - **Secondary keywords:** cribado nutricional en hospital de China; alimentación posoperatoria; nutrición enteral en China; riesgo de realimentación; balance de líquidos hospitalario
+
+
+- **Meta title:** Recuperación hospitalaria en China: planificación de nutrición y líquidos
+- **Meta description:** Detecte el riesgo nutricional, confirme deglución segura y función intestinal, elija apoyo oral/por sonda/intravenoso, controle el balance de líquidos y planifique la nutrición al alta hospitalaria.
 
 ## Fuentes
 
@@ -200,4 +204,3 @@ Envíe la vía/textura segura, la ingesta reciente y tendencia del peso, restric
 4. [Instituto Nacional para la Excelencia en Salud y Atención — Tratamiento con líquidos intravenosos en adultos hospitalizados](https://www.nice.org.uk/guidance/cg174/chapter/recommendations)
 5. [Sociedad Estadounidense de Nutrición Parenteral y Enteral — Biblioteca de práctica clínica, consenso sobre síndrome de realimentación](https://nutritioncare.org/Clinical_Practice_Library/)
 6. [Organización Mundial de la Salud — Manual de las cinco claves para la inocuidad de los alimentos](https://tdr.who.int/home/our-work/global-engagement/9789241594639)
-

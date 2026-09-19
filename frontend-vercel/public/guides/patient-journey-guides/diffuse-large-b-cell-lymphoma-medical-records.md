@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Medical records for a DLBCL consultation in China: a practical preparation guide
 - **Category:** Patient Journey Guides
 - **Subcategory:** Diffuse Large B Cell Lymphoma
-- **Subtitle:** A DLBCL second opinion is difficult when the record consists of one diagnostic screenshot, several PET photographs and a recollection of chemotherapy.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medical records for a DLBCL consultation in China: a practical preparation guide
+- **Subtitle:** Prepare DLBCL records for China care with original pathology, imaging, treatment dates, response assessments and the question for the receiving team.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Before the consultation, make a short missing-information log with the document,
 ## SEO Metadata
 
 - **Primary keyword:** DLBCL medical records for China consultation
+
+- **Meta title:** Medical records for a DLBCL consultation in China: a practical preparation guide
+- **Meta description:** Prepare DLBCL records for China care with original pathology, imaging, treatment dates, response assessments and the question for the receiving team.

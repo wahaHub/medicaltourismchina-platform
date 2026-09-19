@@ -1,15 +1,17 @@
-# 075 Coûts des essais cliniques, voyage et responsabilités de suivi
+# Coûts des essais cliniques en Chine : voyage et suivi
 
 ## Hero
 
-- **Title:** Coûts des essais cliniques, voyage et responsabilités de suivi
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Préparation d’un essai international
-- **Subtitle:** Remplacez « l’essai est gratuit » par une répartition écrite des coûts de recherche, soins courants, voyage, complications et suivi transfrontalier.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un clinicien et un patient international examinent une fiche de coûts à côté de symboles de voyage, de calendrier et de protection.
+
+
+- **Title:** Coûts des essais cliniques en Chine : voyage et suivi
+- **Subtitle:** Préparez les dépenses d’un essai en Chine en distinguant recherche, soins courants, voyage, complications et suivi, avec une liste pratique des responsabilités transfrontalières.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -20,6 +22,9 @@
 - La participation transfrontalière nécessite des responsables nommés pour les urgences, analyses ou imagerie locales, documents sources, changements de médicaments et suivi après retour.
 
 ## Content
+
+Avant de vous rendre en Chine pour un essai clinique, distinguez les coûts de recherche des frais de soins courants, de voyage, de complications et de suivi. Demandez à l’équipe de l’étude de préciser par écrit qui paie chaque poste et qui assume chaque responsabilité, notamment si la sélection ne débouche pas sur une inclusion.
+
 
 « L’essai clinique est gratuit » n’est pas un plan financier. Cela peut signifier que le promoteur fournit le médicament étudié ; cela ne dit pas qui paie les soins hospitaliers ordinaires, une visite de sélection infructueuse, un séjour prolongé après toxicité, des vols répétés ou les soins après le retour du patient.
 
@@ -145,11 +150,13 @@ Oui, la participation est volontaire. Informez le site plutôt que de simplement
 ## SEO Metadata
 
 - **Slug:** `clinical-trial-costs-travel-and-follow-up-responsibilities`
-- **Meta title:** Coûts des essais cliniques, voyage et suivi à l’étranger
-- **Meta description:** Préparez les dépenses d’un essai en Chine en distinguant recherche, soins courants, voyage, complications et suivi, avec une liste pratique des responsabilités transfrontalières.
 - **Primary keyword:** coûts essai clinique voyage suivi
 - **Secondary keywords:** coût essai clinique Chine ; remboursement voyage essai ; essai clinique patient international ; coût recherche ou soins courants ; suivi essai à l’étranger
 - **Search intent:** préparation financière et du voyage pour un essai clinique
+
+
+- **Meta title:** Coûts des essais cliniques en Chine : voyage et suivi
+- **Meta description:** Préparez les dépenses d’un essai en Chine en distinguant recherche, soins courants, voyage, complications et suivi, avec une liste pratique des responsabilités transfrontalières.
 
 ## Sources
 

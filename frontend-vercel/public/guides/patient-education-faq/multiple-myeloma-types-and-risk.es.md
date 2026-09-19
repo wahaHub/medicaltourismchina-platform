@@ -1,12 +1,14 @@
-# Tipos y riesgo del mieloma múltiple: comprender las distintas etiquetas
+# Tipos y riesgo del mieloma múltiple: revisión especializada en China
 
 ## Hero
 
-- **Title:** Tipos y riesgo del mieloma múltiple: comprender las distintas etiquetas
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Mieloma múltiple
-- **Subtitle:** Una persona con mieloma puede describirse como alguien con enfermedad IgG, hallazgos de alto riesgo, elegibilidad para trasplante y recaída temprana.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tipos y riesgo del mieloma múltiple: revisión especializada en China
+- **Subtitle:** Distinga estados de células plasmáticas, tipos de proteína y escalas de riesgo del mieloma múltiple antes de una revisión especializada en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ El objetivo es una elección basada en la evidencia, un enfoque claro de vigilan
 ## SEO Metadata
 
 - **Primary keyword:** tipos y estratificación del riesgo del mieloma múltiple
+
+- **Meta title:** Tipos y riesgo del mieloma múltiple: revisión especializada en China
+- **Meta description:** Distinga estados de células plasmáticas, tipos de proteína y escalas de riesgo del mieloma múltiple antes de una revisión especializada en China.

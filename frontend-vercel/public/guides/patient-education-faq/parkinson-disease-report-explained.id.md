@@ -1,12 +1,14 @@
-# Memahami Laporan Penilaian Parkinson: Skor, Pencitraan, dan Hasil Biomarker
+# Laporan Parkinson: Persiapan Penilaian di Tiongkok
 
 ## Hero
 
-- **Title:** Memahami Laporan Penilaian Parkinson: Skor, Pencitraan, dan Hasil Biomarker
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Penyakit Parkinson
-- **Subtitle:** Rekam medis Parkinson dapat memuat stadium Hoehn–Yahr, skor MDS-UPDRS Bagian III, penurunan ambilan striatal, dan anjuran penilaian kognitif.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Laporan Parkinson: Persiapan Penilaian di Tiongkok
+- **Subtitle:** Pahami stadium Hoehn–Yahr, skor gerak, pencitraan, dan biomarker Parkinson. Sertakan kondisi pengukuran saat menyiapkan penilaian di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Bukti ditinjau: September 9, 2026. Artikel ini menjelaskan istilah laporan yang 
 ## SEO Metadata
 
 - **Primary keyword:** penjelasan laporan penyakit Parkinson
+
+- **Meta title:** Laporan Parkinson: Persiapan Penilaian di Tiongkok
+- **Meta description:** Pahami stadium Hoehn–Yahr, skor gerak, pencitraan, dan biomarker Parkinson. Sertakan kondisi pengukuran saat menyiapkan penilaian di Tiongkok.

@@ -1,15 +1,17 @@
-# 015 Was ein medizinischer Versorgungskoordinator tun kann – und was nicht
+# Medizinische Versorgungskoordinatoren in China: Aufgaben und Grenzen
 
 ## Hero
 
-- **Title:** Was ein medizinischer Versorgungskoordinator tun kann – und was nicht
 - **Category:** Ratgeber zum Gesundheitswesen in China
 - **Subcategory:** Patientenkoordination und Schutzmaßnahmen
-- **Subtitle:** Ein guter Koordinator beseitigt logistische Hindernisse und erhält die klinische Kommunikationskette; er übernimmt nicht die Rolle des Arztes, Dolmetschers, Versicherers oder Entscheidungsträgers.
 - **Reviewed by:** Medora Health Redaktionsteam; Prüfung von klinischer Governance, Vertrag und Datenschutz vor Veröffentlichung erforderlich
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Eine Koordinatorin erklärt, welche praktischen Leistungen sie anbieten kann und welche klinischen Entscheidungen bei zugelassenen Fachkräften verbleiben
+
+
+- **Title:** Medizinische Versorgungskoordinatoren in China: Aufgaben und Grenzen
+- **Subtitle:** Die Rolle eines medizinischen Koordinators definieren, Gebühren und Interessenkonflikte prüfen, Unterlagen schützen und Diagnose, Einwilligung und Behandlung bei zugelassenen Ärzten belassen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -215,13 +217,15 @@ Den schriftlichen klinischen Eskalationsweg aktivieren, den Patienten mit dem be
 ## SEO Metadata
 
 - **Slug:** `what-a-medical-care-coordinator-can-and-cannot-do`
-- **Meta title:** Was ein medizinischer Versorgungskoordinator tun kann und was nicht
-- **Meta description:** Die Rolle eines medizinischen Koordinators definieren, Gebühren und Interessenkonflikte prüfen, Unterlagen schützen und Diagnose, Einwilligung und Behandlung bei zugelassenen Ärzten belassen.
 - **Primary keyword:** medizinischer Versorgungskoordinator China
 - **Pillar keyword:** Gesundheitsversorgung in China für internationale Patienten
 - **Vertical keyword:** Aufgaben eines Koordinators für medizinischen Tourismus
 - **Search intent:** informativ / sorgfältige Prüfung von Dienstleistungen
 - **Secondary keywords:** Patientenkoordinator China; Vermittler medizinischer Reisen; Rolle des Krankenhauskoordinators
+
+
+- **Meta title:** Medizinische Versorgungskoordinatoren in China: Aufgaben und Grenzen
+- **Meta description:** Die Rolle eines medizinischen Koordinators definieren, Gebühren und Interessenkonflikte prüfen, Unterlagen schützen und Diagnose, Einwilligung und Behandlung bei zugelassenen Ärzten belassen.
 
 ## Quellen
 

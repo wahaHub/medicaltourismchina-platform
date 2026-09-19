@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** 20 questions sur la drépanocytose : médicaments, transfusion, thérapie génique et soins en Chine
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Drépanocytose
-- **Subtitle:** Les questions sur la drépanocytose naissent souvent de situations quotidiennes : un enfant souffre peu mais se voit proposer un traitement préventif ; les symptômes s’aggravent après une transfusion ; ou une annonce de thérapie génique pousse une famille à se demander si elle doit voyager immédiatement.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** 20 questions sur la drépanocytose : médicaments, transfusion, thérapie génique et soins en Chine
+- **Subtitle:** Préparez vos questions sur la drépanocytose en Chine : diagnostic, hydroxyurée, transfusions, thérapie génique et organisation du suivi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -157,3 +159,6 @@ L’objectif clinique et l’évaluation le déterminent. La révision d’une p
 ## SEO Metadata
 
 - **Primary keyword:** questions fréquentes des patients sur la drépanocytose
+
+- **Meta title:** 20 questions sur la drépanocytose : médicaments, transfusion, thérapie génique et soins en Chine
+- **Meta description:** Préparez vos questions sur la drépanocytose en Chine : diagnostic, hydroxyurée, transfusions, thérapie génique et organisation du suivi.

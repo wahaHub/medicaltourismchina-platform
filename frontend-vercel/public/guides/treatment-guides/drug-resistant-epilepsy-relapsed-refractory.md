@@ -1,12 +1,14 @@
-# When seizures return in drug-resistant epilepsy: medication review, postoperative recurrence and reassessment
+# Recurrent Seizures in Drug-Resistant Epilepsy: Review in China
 
 ## Hero
 
-- **Title:** When seizures return in drug-resistant epilepsy: medication review, postoperative recurrence and reassessment
 - **Category:** Treatment Guides
 - **Subcategory:** Drug Resistant Epilepsy
-- **Subtitle:** The return of a familiar seizure after a quieter period can be deeply discouraging.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Recurrent Seizures in Drug-Resistant Epilepsy: Review in China
+- **Subtitle:** Reassess recurrent seizures through medicine history, previous procedures and current findings, with local stabilization before a specialist visit to China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,3 +152,6 @@ Reassessment after recurrence aims to find modifiable factors and choose a reaso
 ## SEO Metadata
 
 - **Primary keyword:** recurrent drug-resistant epilepsy; seizures returning after epilepsy surgery; breakthrough seizures; epilepsy reassessment in China
+
+- **Meta title:** Recurrent Seizures in Drug-Resistant Epilepsy: Review in China
+- **Meta description:** Reassess recurrent seizures through medicine history, previous procedures and current findings, with local stabilization before a specialist visit to China.

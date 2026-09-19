@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Combien de temps dure le traitement de Parkinson ? Changements médicamenteux, SCP et préparation d’un séjour en Chine
 - **Category:** Guides des traitements
 - **Subcategory:** Maladie de Parkinson
-- **Subtitle:** La maladie de Parkinson nécessite généralement des soins continus, tandis qu’un séjour de traitement particulier peut avoir un objectif défini et une fin convenue.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Combien de temps dure le traitement de Parkinson ? Changements médicamenteux, SCP et préparation d’un séjour en Chine
+- **Subtitle:** Planifiez un séjour pour Parkinson en Chine selon l’objectif : ajustement des médicaments, évaluation de stimulation, réglages ou apprentissage d’une perfusion.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ Donnez un objectif au prochain rendez-vous. Il peut s’agir de revoir la mobili
 ## SEO Metadata
 
 - **Primary keyword:** durée du traitement de la maladie de Parkinson en Chine
+
+- **Meta title:** Combien de temps dure le traitement de Parkinson ? Changements médicamenteux, SCP et préparation d’un séjour en Chine
+- **Meta description:** Planifiez un séjour pour Parkinson en Chine selon l’objectif : ajustement des médicaments, évaluation de stimulation, réglages ou apprentissage d’une perfusion.

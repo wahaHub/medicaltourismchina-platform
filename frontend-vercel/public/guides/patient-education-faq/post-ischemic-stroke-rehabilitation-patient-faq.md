@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Twenty patient questions about ischemic stroke rehabilitation and care in China
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Post Ischemic Stroke Rehabilitation
-- **Subtitle:** Questions about recovery after an ischemic stroke often change over time.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Twenty patient questions about ischemic stroke rehabilitation and care in China
+- **Subtitle:** Answers to 20 stroke rehabilitation questions about recovery, methods, hospital assessment, costs and continuing care after a visit to China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -187,3 +189,6 @@ New sudden one-sided weakness, speech or visual change, or severe loss of balanc
 ## SEO Metadata
 
 - **Primary keyword:** ischemic stroke rehabilitation patient questions
+
+- **Meta title:** Twenty patient questions about ischemic stroke rehabilitation and care in China
+- **Meta description:** Answers to 20 stroke rehabilitation questions about recovery, methods, hospital assessment, costs and continuing care after a visit to China.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Medizinische Unterlagen für die Sichelzellversorgung in China: Diagnose, Blutverträglichkeit, Krisen und Behandlungsverlauf
 - **Category:** Leitfäden zum Patientenweg
 - **Subcategory:** Sichelzellkrankheit
-- **Subtitle:** Bei der Vorbereitung von Unterlagen für die Sichelzellversorgung geht es weniger um einen großen Papierstapel als darum, einem neuen Team den üblichen Zustand des Patienten, schwere frühere Ereignisse und die aktuelle Behandlung verständlich zu machen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medizinische Unterlagen für die Sichelzellversorgung in China: Diagnose, Blutverträglichkeit, Krisen und Behandlungsverlauf
+- **Subtitle:** Sichelzellunterlagen für China ordnen: Diagnose, Blutverträglichkeit, Transfusionsreaktionen, Krisenverlauf, Organbefunde und Gründe für Medikamentenänderungen beilegen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ Fragen Sie nach der Einreichung, welche konkreten Teile noch fehlen, statt immer
 ## SEO Metadata
 
 - **Primary keyword:** medizinische Unterlagen für die Behandlung der Sichelzellkrankheit in China
+
+- **Meta title:** Medizinische Unterlagen für die Sichelzellversorgung in China: Diagnose, Blutverträglichkeit, Krisen und Behandlungsverlauf
+- **Meta description:** Sichelzellunterlagen für China ordnen: Diagnose, Blutverträglichkeit, Transfusionsreaktionen, Krisenverlauf, Organbefunde und Gründe für Medikamentenänderungen beilegen.

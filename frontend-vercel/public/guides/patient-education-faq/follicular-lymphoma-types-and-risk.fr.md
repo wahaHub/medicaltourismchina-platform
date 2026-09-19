@@ -1,12 +1,14 @@
-# Types et risque du lymphome folliculaire : distinguer grade, stade, FLIPI et progression précoce
+# Grade et risque du lymphome folliculaire : préparer des soins en Chine
 
 ## Hero
 
-- **Title:** Types et risque du lymphome folliculaire : distinguer grade, stade, FLIPI et progression précoce
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Lymphome folliculaire
-- **Subtitle:** Aucun score unique ne décrit tous les risques importants du lymphome folliculaire.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Grade et risque du lymphome folliculaire : préparer des soins en Chine
+- **Subtitle:** Distinguez grade, stade et scores de risque du lymphome folliculaire pour comprendre leur rôle dans l’évaluation et préparer des soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Maintenez le suivi local pendant l’attente des résultats complexes. Confirmez
 ## SEO Metadata
 
 - **Primary keyword:** évaluation du risque du lymphome folliculaire
+
+- **Meta title:** Grade et risque du lymphome folliculaire : préparer des soins en Chine
+- **Meta description:** Distinguez grade, stade et scores de risque du lymphome folliculaire pour comprendre leur rôle dans l’évaluation et préparer des soins en Chine.

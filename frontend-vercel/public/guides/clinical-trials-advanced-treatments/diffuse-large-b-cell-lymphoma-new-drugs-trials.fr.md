@@ -1,12 +1,14 @@
-# Nouveaux traitements du LDGCB et essais cliniques : des preuves qui peuvent changer une décision
+# Nouveaux traitements et essais du LDGCB : vérifier l’accès en Chine
 
 ## Hero
 
-- **Title:** Nouveaux traitements du LDGCB et essais cliniques : des preuves qui peuvent changer une décision
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Lymphome diffus à grandes cellules B
-- **Subtitle:** De nouveaux traitements ont modifié certains aspects des soins du LDGCB en première ligne et en rechute, mais « nouveau » peut désigner plusieurs choses : un protocole autorisé dans une juridiction, une association étayée par une étude randomisée dont l’accès local reste à vérifier, ou une approche expérimentale dont la sécurité et l’efficacité sont encore étudiées.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Nouveaux traitements et essais du LDGCB : vérifier l’accès en Chine
+- **Subtitle:** Pour un lymphome diffus à grandes cellules B, comparez les données des nouveaux traitements selon la ligne de soins et préparez les vérifications d’accès en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,3 +142,6 @@ Les patients peuvent raisonnablement choisir des soins établis sans participer 
 ## SEO Metadata
 
 - **Primary keyword:** nouveaux traitements du LDGCB et essais cliniques
+
+- **Meta title:** Nouveaux traitements et essais du LDGCB : vérifier l’accès en Chine
+- **Meta description:** Pour un lymphome diffus à grandes cellules B, comparez les données des nouveaux traitements selon la ligne de soins et préparez les vérifications d’accès en Chine.

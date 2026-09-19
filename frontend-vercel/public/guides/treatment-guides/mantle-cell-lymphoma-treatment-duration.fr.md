@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Combien de temps dure le traitement du lymphome à cellules du manteau ? Cycles, entretien et organisation d’un séjour en Chine
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome à cellules du manteau
-- **Subtitle:** La durée du traitement peut désigner plusieurs choses : la préparation avant la première dose, la durée du traitement intensif, l’entretien ou la prise continue de comprimés, et le moment où vous pouvez rentrer chez vous ou reprendre le travail.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Combien de temps dure le traitement du lymphome à cellules du manteau ? Cycles, entretien et organisation d’un séjour en Chine
+- **Subtitle:** Planifiez un séjour pour lymphome du manteau en Chine en distinguant préparation, cycles, récupération, entretien et suivi des médicaments continus.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Un calendrier utile indique la phase actuelle, les conditions de l’étape suiv
 ## SEO Metadata
 
 - **Primary keyword:** durée du traitement du lymphome à cellules du manteau
+
+- **Meta title:** Combien de temps dure le traitement du lymphome à cellules du manteau ? Cycles, entretien et organisation d’un séjour en Chine
+- **Meta description:** Planifiez un séjour pour lymphome du manteau en Chine en distinguant préparation, cycles, récupération, entretien et suivi des médicaments continus.

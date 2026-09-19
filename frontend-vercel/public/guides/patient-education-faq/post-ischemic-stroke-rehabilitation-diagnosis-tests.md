@@ -1,12 +1,14 @@
-# Tests Before Stroke Rehabilitation: Medical Review, Functional Assessment and Preparation
+# Stroke Rehabilitation Assessment in China: Tests and Planning
 
 ## Hero
 
-- **Title:** Tests Before Stroke Rehabilitation: Medical Review, Functional Assessment and Preparation
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Post Ischemic Stroke Rehabilitation
-- **Subtitle:** By the time rehabilitation is discussed, a person with an ischemic stroke may already have CT or MRI reports, an ECG, laboratory results and a detailed medication list.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Stroke Rehabilitation Assessment in China: Tests and Planning
+- **Subtitle:** Prepare for stroke rehabilitation assessment in China with the medical review, functional measurements and safety information the receiving team needs.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -118,3 +120,6 @@ Keep the assessment date, language and tool names, together with details of brac
 ## SEO Metadata
 
 - **Primary keyword:** tests before stroke rehabilitation
+
+- **Meta title:** Stroke Rehabilitation Assessment in China: Tests and Planning
+- **Meta description:** Prepare for stroke rehabilitation assessment in China with the medical review, functional measurements and safety information the receiving team needs.

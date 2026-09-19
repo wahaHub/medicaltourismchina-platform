@@ -1,15 +1,17 @@
-# Cancer Rehabilitation: Managing Function, Fatigue, and Recovery
+# Cancer Rehabilitation in China: Function, Fatigue and Recovery
 
 ## Hero
 
-- **Title:** Cancer Rehabilitation: Managing Function, Fatigue, and Recovery
 - **Category:** Treatment Guides
 - **Subcategory:** Rehabilitation
-- **Subtitle:** Build rehabilitation around the cancer, treatment phase and life tasks that matter—not a generic exercise package.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** A woman receiving cancer treatment discusses walking and strength rehabilitation with a therapist beside simple exercise equipment.
+
+
+- **Title:** Cancer Rehabilitation in China: Function, Fatigue and Recovery
+- **Subtitle:** How to assess cancer rehabilitation in China: fatigue, exercise safety, neuropathy, lymphedema, bone risk, measurable goals and handover.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -129,11 +131,13 @@ Ask for the baseline and final measures, goals, exercise and activity plan, prec
 ## SEO Metadata
 
 - **Slug:** `cancer-rehabilitation-managing-function-fatigue-and-recovery`
-- **Meta title:** Cancer Rehabilitation: Function, Fatigue and Safe Recovery
-- **Meta description:** How to assess cancer rehabilitation in China: fatigue, exercise safety, neuropathy, lymphedema, bone risk, measurable goals and handover.
 - **Primary keyword:** cancer rehabilitation in China
 - **Secondary keywords:** cancer-related fatigue rehabilitation; oncology physiotherapy; exercise during cancer treatment; cancer recovery programme; lymphedema rehabilitation
 - **Search intent:** treatment planning / rehabilitation programme comparison
+
+
+- **Meta title:** Cancer Rehabilitation in China: Function, Fatigue and Recovery
+- **Meta description:** How to assess cancer rehabilitation in China: fatigue, exercise safety, neuropathy, lymphedema, bone risk, measurable goals and handover.
 
 ## Sources
 

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Biaya pengobatan anemia aplastik di Tiongkok: menyusun anggaran renminbi terperinci
 - **Category:** Panduan Biaya & Asuransi
 - **Subcategory:** Anemia Aplastik
-- **Subtitle:** Biaya yang paling mudah diremehkan sering kali adalah biaya setelah rawat inap pertama: obat berkelanjutan, transfusi, perawatan infeksi, dan tindak lanjut.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Biaya pengobatan anemia aplastik di Tiongkok: menyusun anggaran renminbi terperinci
+- **Subtitle:** Rinci anggaran anemia aplastik di Tiongkok dari pemeriksaan dan ATG hingga transfusi, transplantasi, komplikasi, serta perawatan setelah pulang.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -122,3 +124,6 @@ Sebelum menyerahkan anggaran, verifikasi bahwa pusat telah mengonfirmasi rencana
 ## SEO Metadata
 
 - **Primary keyword:** biaya pengobatan anemia aplastik di Tiongkok
+
+- **Meta title:** Biaya pengobatan anemia aplastik di Tiongkok: menyusun anggaran renminbi terperinci
+- **Meta description:** Rinci anggaran anemia aplastik di Tiongkok dari pemeriksaan dan ATG hingga transfusi, transplantasi, komplikasi, serta perawatan setelah pulang.

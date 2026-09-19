@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Haruskah saya bepergian ke Tiongkok untuk perawatan limfoma Hodgkin? Nilai rujukan dan kesiapan medis
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Limfoma Hodgkin
-- **Subtitle:** Bepergian ke Tiongkok untuk perawatan limfoma Hodgkin melibatkan dua pertanyaan terpisah: apa yang dapat dicapai kunjungan dan apakah orang tersebut siap secara medis untuk perjalanan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Haruskah saya bepergian ke Tiongkok untuk perawatan limfoma Hodgkin? Nilai rujukan dan kesiapan medis
+- **Subtitle:** Nilai manfaat kunjungan limfoma Hodgkin ke Tiongkok untuk patologi, terapi awal, atau kekambuhan. Periksa kesiapan medis serta rencana perjalanan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,3 +143,6 @@ Sebelum memutuskan, mintalah tim membahas stabilitas medis saat ini, kemampuan t
 ## SEO Metadata
 
 - **Primary keyword:** perjalanan ke Tiongkok untuk pengobatan limfoma Hodgkin
+
+- **Meta title:** Haruskah saya bepergian ke Tiongkok untuk perawatan limfoma Hodgkin? Nilai rujukan dan kesiapan medis
+- **Meta description:** Nilai manfaat kunjungan limfoma Hodgkin ke Tiongkok untuk patologi, terapi awal, atau kekambuhan. Periksa kesiapan medis serta rencana perjalanan.

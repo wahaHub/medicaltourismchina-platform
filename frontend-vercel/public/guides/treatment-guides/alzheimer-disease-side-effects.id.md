@@ -1,12 +1,14 @@
-# Efek Samping Pengobatan Alzheimer: Mengenali Masalah dan Mendapatkan Bantuan yang Tepat
+# Pengobatan Alzheimer di Tiongkok: Efek Samping dan Tanda Darurat
 
 ## Hero
 
-- **Title:** Efek Samping Pengobatan Alzheimer: Mengenali Masalah dan Mendapatkan Bantuan yang Tepat
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Alzheimer
-- **Subtitle:** Seseorang mulai menjalani pengobatan penyakit Alzheimer lalu makan lebih sedikit, tertidur melewati waktu makan siang, atau menjadi tidak stabil saat berdiri maupun berjalan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Alzheimer di Tiongkok: Efek Samping dan Tanda Darurat
+- **Subtitle:** Kenali efek samping obat Alzheimer dan gejala yang memerlukan pertolongan segera. Siapkan catatan perubahan serta rencana pemantauan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -111,3 +113,6 @@ Sebelum pengobatan di Tiongkok atau kepulangan, transfer reaksi sebelumnya, info
 ## SEO Metadata
 
 - **Primary keyword:** efek samping pengobatan Alzheimer
+
+- **Meta title:** Pengobatan Alzheimer di Tiongkok: Efek Samping dan Tanda Darurat
+- **Meta description:** Kenali efek samping obat Alzheimer dan gejala yang memerlukan pertolongan segera. Siapkan catatan perubahan serta rencana pemantauan di Tiongkok.

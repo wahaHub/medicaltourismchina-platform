@@ -1,12 +1,14 @@
-# Comprender los informes de pruebas de Alzheimer: puntuaciones cognitivas, atrofia, p-tau y APOE
+# Informes de pruebas de Alzheimer: prepararse para una revisión en China
 
 ## Hero
 
-- **Title:** Comprender los informes de pruebas de Alzheimer: puntuaciones cognitivas, atrofia, p-tau y APOE
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedad de Alzheimer
-- **Subtitle:** Después de una evaluación de la memoria, una familia puede recibir varios informes que parecen discrepar.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Informes de pruebas de Alzheimer: prepararse para una revisión en China
+- **Subtitle:** Comprenda los límites de las puntuaciones cognitivas, la atrofia y los biomarcadores del Alzheimer para preparar una revisión de sus informes en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ Antes de terminar la revisión, establezca si algún hallazgo necesita actuació
 ## SEO Metadata
 
 - **Primary keyword:** comprender los resultados de pruebas de Alzheimer
+
+- **Meta title:** Informes de pruebas de Alzheimer: prepararse para una revisión en China
+- **Meta description:** Comprenda los límites de las puntuaciones cognitivas, la atrofia y los biomarcadores del Alzheimer para preparar una revisión de sus informes en China.

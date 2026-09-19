@@ -1,12 +1,14 @@
-# Rencana perawatan pertama setelah epilepsi resistan obat dikenali: sepakati perubahan, pemantauan, dan rujukan
+# Epilepsi Resistan Obat di Tiongkok: Rencana Pengobatan Awal
 
 ## Hero
 
-- **Title:** Rencana perawatan pertama setelah epilepsi resistan obat dikenali: sepakati perubahan, pemantauan, dan rujukan
 - **Category:** Panduan Perawatan
 - **Subcategory:** Epilepsi Resistan Obat
-- **Subtitle:** Pada tahap ini, pasien memerlukan rencana yang dapat dijalankan dan ditinjau.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Epilepsi Resistan Obat di Tiongkok: Rencana Pengobatan Awal
+- **Subtitle:** Susun rencana awal epilepsi resistan obat di Tiongkok dengan tinjauan terapi sebelumnya, tujuan perubahan, pemantauan, dan rujukan yang dapat ditindaklanjuti.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,3 +152,6 @@ Pada tinjauan berikutnya, rangkum kejadian, efek merugikan, dan tujuan pasien. P
 ## SEO Metadata
 
 - **Primary keyword:** rencana penanganan awal epilepsi resistan obat; penyesuaian obat antikejang; perawatan tambahan epilepsi; rujukan di Tiongkok
+
+- **Meta title:** Epilepsi Resistan Obat di Tiongkok: Rencana Pengobatan Awal
+- **Meta description:** Susun rencana awal epilepsi resistan obat di Tiongkok dengan tinjauan terapi sebelumnya, tujuan perubahan, pemantauan, dan rujukan yang dapat ditindaklanjuti.

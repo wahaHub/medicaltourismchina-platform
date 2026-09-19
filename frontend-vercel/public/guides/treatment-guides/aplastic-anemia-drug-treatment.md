@@ -1,12 +1,14 @@
-# Medicines for aplastic anemia: understanding ATG, cyclosporine, and eltrombopag
+# Aplastic Anemia Medicines in China: ATG, Cyclosporine and More
 
 ## Hero
 
-- **Title:** Medicines for aplastic anemia: understanding ATG, cyclosporine, and eltrombopag
 - **Category:** Treatment Guides
 - **Subcategory:** Aplastic Anemia
-- **Subtitle:** An aplastic-anemia medication bag can contain long-term therapy, infection prevention, and short courses for symptoms or adverse effects.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Aplastic Anemia Medicines in China: ATG, Cyclosporine and More
+- **Subtitle:** Understand the roles of ATG, cyclosporine and eltrombopag in aplastic anemia, with medicine supply, monitoring and cost checks before care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ An itemized renminbi budget should separate ATG and administration, continuing o
 ## SEO Metadata
 
 - **Primary keyword:** aplastic anemia drug treatment
+
+- **Meta title:** Aplastic Anemia Medicines in China: ATG, Cyclosporine and More
+- **Meta description:** Understand the roles of ATG, cyclosporine and eltrombopag in aplastic anemia, with medicine supply, monitoring and cost checks before care in China.

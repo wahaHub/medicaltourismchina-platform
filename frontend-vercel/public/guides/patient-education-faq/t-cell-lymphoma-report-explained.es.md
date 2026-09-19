@@ -1,12 +1,14 @@
-# Cómo leer los informes del linfoma de células T: relacionar anatomía patológica, PET y análisis de sangre
+# Informes de linfoma de células T: prepararse para una revisión en China
 
 ## Hero
 
-- **Title:** Cómo leer los informes del linfoma de células T: relacionar anatomía patológica, PET y análisis de sangre
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma de células T
-- **Subtitle:** Un informe anatomopatológico puede indicar CD30 positivo, un informe medular puede no encontrar un linfoma definido y un informe PET puede describir varias zonas activas.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Informes de linfoma de células T: prepararse para una revisión en China
+- **Subtitle:** Relacione anatomía patológica, pruebas moleculares, PET y análisis del linfoma de células T al preparar una revisión de sus informes en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Al solicitar otra opinión, organice los informes por fecha y marque si cada mue
 ## SEO Metadata
 
 - **Primary keyword:** interpretación del informe de linfoma de células T
+
+- **Meta title:** Informes de linfoma de células T: prepararse para una revisión en China
+- **Meta description:** Relacione anatomía patológica, pruebas moleculares, PET y análisis del linfoma de células T al preparar una revisión de sus informes en China.

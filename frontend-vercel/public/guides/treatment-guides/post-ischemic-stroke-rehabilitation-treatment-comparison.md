@@ -1,12 +1,14 @@
-# Choosing Stroke Rehabilitation Methods: Task Practice, Robotics, Virtual Reality and Home Care
+# Stroke Rehabilitation in China: Comparing Therapy Methods
 
 ## Hero
 
-- **Title:** Choosing Stroke Rehabilitation Methods: Task Practice, Robotics, Virtual Reality and Home Care
 - **Category:** Treatment Guides
 - **Subcategory:** Post Ischemic Stroke Rehabilitation
-- **Subtitle:** Families considering rehabilitation may receive very different schedules.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Stroke Rehabilitation in China: Comparing Therapy Methods
+- **Subtitle:** Compare stroke rehabilitation methods in China by the functional task, evidence, patient suitability and whether gains can carry over into daily life.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ The most suitable proposal may not contain the longest list. Consider whether it
 ## SEO Metadata
 
 - **Primary keyword:** stroke rehabilitation treatment comparison
+
+- **Meta title:** Stroke Rehabilitation in China: Comparing Therapy Methods
+- **Meta description:** Compare stroke rehabilitation methods in China by the functional task, evidence, patient suitability and whether gains can carry over into daily life.

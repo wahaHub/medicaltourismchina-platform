@@ -1,12 +1,14 @@
-# Managing adverse effects of multiple sclerosis treatment: symptoms, tests and timely help
+# MS Treatment in China: Side Effects and When to Seek Help
 
 ## Hero
 
-- **Title:** Managing adverse effects of multiple sclerosis treatment: symptoms, tests and timely help
 - **Category:** Treatment Guides
 - **Subcategory:** Multiple Sclerosis
-- **Subtitle:** A long list of possible adverse effects can make treatment decisions harder.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** MS Treatment in China: Side Effects and When to Seek Help
+- **Subtitle:** Recognize MS treatment side effects, organize monitoring and know when to seek help, with clear responsibility for results after returning from China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ The purpose of adverse-effect management is timely support and a workable treatm
 ## SEO Metadata
 
 - **Primary keyword:** multiple sclerosis treatment side effects
+
+- **Meta title:** MS Treatment in China: Side Effects and When to Seek Help
+- **Meta description:** Recognize MS treatment side effects, organize monitoring and know when to seek help, with clear responsibility for results after returning from China.

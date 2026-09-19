@@ -1,12 +1,14 @@
-# Effets indésirables du traitement du LDGCB : gestion quotidienne et symptômes urgents
+# Traitement du LDGCB en Chine : effets indésirables et symptômes urgents
 
 ## Hero
 
-- **Title:** Effets indésirables du traitement du LDGCB : gestion quotidienne et symptômes urgents
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Lymphome diffus à grandes cellules B
-- **Subtitle:** Les effets indésirables pendant le traitement du LDGCB ne doivent pas tous être considérés comme normaux.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement du LDGCB en Chine : effets indésirables et symptômes urgents
+- **Subtitle:** Repérez les symptômes urgents pendant un traitement du LDGCB en Chine et préparez la surveillance des numérations, des infections et des réactions aux perfusions.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Sous glofitamab, une inflammation sévère peut aussi refléter une HLH. La lett
 ## SEO Metadata
 
 - **Primary keyword:** effets indésirables du traitement du LDGCB
+
+- **Meta title:** Traitement du LDGCB en Chine : effets indésirables et symptômes urgents
+- **Meta description:** Repérez les symptômes urgents pendant un traitement du LDGCB en Chine et préparez la surveillance des numérations, des infections et des réactions aux perfusions.

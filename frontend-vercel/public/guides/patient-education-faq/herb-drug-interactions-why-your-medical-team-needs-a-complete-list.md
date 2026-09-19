@@ -1,15 +1,17 @@
-# Herb–Drug Interactions: “Natural” Is Not a Medication Category
+# Medicines and Herbal Products in China: Interaction Checks
 
 ## Hero
 
-- **Title:** Herb–Drug Interactions: “Natural” Is Not a Medication Category
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Medicines
-- **Subtitle:** How to build an identifiable product list, recognize high-risk combinations and help pharmacists distinguish documented interactions from uncertain ones.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Clinician and patient reconcile prescription bottles, a herbal dropper, loose botanicals and a written product list
+
+
+- **Title:** Medicines and Herbal Products in China: Interaction Checks
+- **Subtitle:** Learn how herbs and supplements can alter prescription medicines, which combinations need urgent review, and what details pharmacists need beyond a product name.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -184,11 +186,13 @@ Not necessarily. Evidence is missing for many pairs, and the database may not id
 
 ## SEO Metadata
 
-- **SEO title:** Herb–Drug Interactions: Build a Complete Product List
-- **Meta description:** Learn how herbs and supplements can alter prescription medicines, which combinations need urgent review, and what details pharmacists need beyond a product name.
 - **Primary keyword:** herb drug interactions
 - **Secondary keywords:** herbal supplements and medicines, St John’s wort interactions, herbs before surgery, supplements during cancer treatment, medication reconciliation, traditional medicine safety
 - **Suggested URL slug:** `/herb-drug-interactions-complete-product-list`
+
+
+- **Meta title:** Medicines and Herbal Products in China: Interaction Checks
+- **Meta description:** Learn how herbs and supplements can alter prescription medicines, which combinations need urgent review, and what details pharmacists need beyond a product name.
 
 ## Sources
 

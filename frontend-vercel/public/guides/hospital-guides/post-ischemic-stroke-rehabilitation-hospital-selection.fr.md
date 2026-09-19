@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choisir un hôpital de réadaptation après AVC en Chine : adapter l’équipe à vos besoins
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Réadaptation après AVC ischémique
-- **Subtitle:** Pour choisir un hôpital de réadaptation après AVC ischémique en Chine, commencez par les difficultés qui comptent le plus aujourd’hui.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choisir un hôpital de réadaptation après AVC en Chine : adapter l’équipe à vos besoins
+- **Subtitle:** Comparez les centres de réadaptation après AVC en Chine selon vos besoins médicaux, moteurs, de langage et de déglutition, avec un plan partagé entre soignants.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ Le choix final doit considérer ensemble l’accessibilité du traitement, la ch
 ## SEO Metadata
 
 - **Primary keyword:** choisir un hôpital de réadaptation après AVC en Chine
+
+- **Meta title:** Choisir un hôpital de réadaptation après AVC en Chine : adapter l’équipe à vos besoins
+- **Meta description:** Comparez les centres de réadaptation après AVC en Chine selon vos besoins médicaux, moteurs, de langage et de déglutition, avec un plan partagé entre soignants.

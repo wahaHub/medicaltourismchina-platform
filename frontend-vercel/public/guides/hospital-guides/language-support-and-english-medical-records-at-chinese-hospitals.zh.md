@@ -1,15 +1,17 @@
-# 中国医院语言支持与英文病历：其实是三种不同产品
+# 中国医院语言支持与英文病历获取
 
 ## Hero
 
-- **Title:** 中国医院语言支持与英文病历：其实是三种不同产品
 - **Category:** 医院指南
 - **Subcategory:** 语言与病历服务
-- **Subtitle:** 实时医学口译、医院源病历和英文交接彼此相连，但不是同一种服务，也不是同一份文件。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** 医院语言协调员向患者展示带对话和电子文件图标的平板电脑；不是真实翻译、病历、机构或推荐。
+
+
+- **Title:** 中国医院语言支持与英文病历获取
+- **Subtitle:** 核实中国医院医学口译、中文源病历和临床复核英文交接，包括同意、用药、DICOM、隐私与纠错。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -203,13 +205,15 @@ WHO 将医护团队内部及同患者/家属的沟通失效列为可避免伤害
 ## SEO Metadata
 
 - **Slug:** `language-support-and-english-medical-records-at-chinese-hospitals`
-- **Meta title:** 中国医院语言支持与英文病历：口译、源件和交接
-- **Meta description:** 核实中国医院医学口译、中文源病历和临床复核英文交接，包括同意、用药、DICOM、隐私与纠错。
 - **Primary keyword:** 中国医院英文病历
 - **Pillar keyword:** 外国患者在中国医院的语言支持
 - **Vertical keyword:** 中国医学口译与病历翻译
 - **Search intent:** 医院语言服务 / 病历规划
 - **Secondary keywords:** 中国英语医院；中国医学口译；翻译中文病历；中国英文出院小结；双语医院病历
+
+
+- **Meta title:** 中国医院语言支持与英文病历获取
+- **Meta description:** 核实中国医院医学口译、中文源病历和临床复核英文交接，包括同意、用药、DICOM、隐私与纠错。
 
 ## Sources
 

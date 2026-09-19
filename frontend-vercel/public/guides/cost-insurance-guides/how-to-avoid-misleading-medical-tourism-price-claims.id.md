@@ -1,15 +1,17 @@
-# Bedah Klaim Harga: Uji Penawaran Wisata Medis Sebelum Penawaran Itu Menguji Anda
+# Harga Wisata Medis di Tiongkok: Memeriksa Klaim Biaya
 
 ## Hero
 
-- **Title:** Bedah Klaim Harga: Uji Penawaran Wisata Medis Sebelum Penawaran Itu Menguji Anda
 - **Category:** Panduan Biaya & Asuransi
 - **Subcategory:** Risiko & Perlindungan Keuangan
-- **Subtitle:** Metode praktis untuk mengurai klaim “mulai dari,” “hemat,” “semua termasuk,” “tanpa biaya tersembunyi,” dan harga yang dikaitkan dengan hasil sebelum membayar perawatan di Tiongkok.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Pelancong menguji penawaran medis berdasarkan pertanyaan harga, perawatan, transportasi, perlindungan, dan daftar periksa
+
+
+- **Title:** Harga Wisata Medis di Tiongkok: Memeriksa Klaim Biaya
+- **Subtitle:** Urai klaim “mulai dari,” “hemat 70%,” “semua termasuk,” tingkat keberhasilan, dan pemulihan cepat sebelum membayar perjalanan medis ke Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -204,13 +206,15 @@ Pertama simpan buktinya. Jalur yang benar bergantung pada pengiklan, lokasi pene
 ## SEO Metadata
 
 - **Slug:** `how-to-avoid-misleading-medical-tourism-price-claims`
-- **Meta title:** Cara Menguji Klaim Harga Wisata Medis yang Menyesatkan
-- **Meta description:** Urai klaim “mulai dari,” “hemat 70%,” “semua termasuk,” tingkat keberhasilan, dan pemulihan cepat sebelum membayar perjalanan medis ke Tiongkok.
 - **Primary keyword:** klaim harga wisata medis yang menyesatkan
 - **Pillar keyword:** biaya perawatan medis di Tiongkok
 - **Vertical keyword:** verifikasi harga paket wisata medis
 - **Search intent:** pencegahan penipuan / perbandingan harga
 - **Secondary keywords:** biaya tersembunyi wisata medis; paket medis semua termasuk; iklan harga perawatan; perbandingan biaya perjalanan medis; verifikasi penawaran harga rumah sakit
+
+
+- **Meta title:** Harga Wisata Medis di Tiongkok: Memeriksa Klaim Biaya
+- **Meta description:** Urai klaim “mulai dari,” “hemat 70%,” “semua termasuk,” tingkat keberhasilan, dan pemulihan cepat sebelum membayar perjalanan medis ke Tiongkok.
 
 ## Sumber
 
@@ -221,4 +225,3 @@ Pertama simpan buktinya. Jalur yang benar bergantung pada pengiklan, lokasi pene
 5. [Administrasi Negara untuk Regulasi Pasar: Undang-Undang Periklanan Republik Rakyat Tiongkok](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_5474cf75173c45d6a0379730fb4e8d97.html)
 6. [Administrasi Negara untuk Regulasi Pasar: Panduan Kerja Pengawasan Iklan Medis 2025](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/ggjgs/art/2025/art_cd56662cf13b4ad59eabfe31cb1122e1.html)
 7. [Komisi Perdagangan Federal AS: Panduan Kepatuhan Produk Kesehatan](https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance)
-

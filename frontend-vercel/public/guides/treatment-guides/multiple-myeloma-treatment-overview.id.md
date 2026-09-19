@@ -1,12 +1,14 @@
-# Pengobatan mieloma multipel: melindungi organ sambil merencanakan pengendalian jangka panjang
+# Pengobatan Mieloma Multipel di Tiongkok: Pilihan dan Perawatan Berkelanjutan
 
 ## Hero
 
-- **Title:** Pengobatan mieloma multipel: melindungi organ sambil merencanakan pengendalian jangka panjang
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Mieloma Multipel
-- **Subtitle:** Pengobatan mieloma multipel biasanya merupakan rangkaian keputusan, bukan satu prosedur.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Mieloma Multipel di Tiongkok: Pilihan dan Perawatan Berkelanjutan
+- **Subtitle:** Pahami pengobatan mieloma multipel di Tiongkok sebagai rencana bertahap untuk mengendalikan penyakit, melindungi organ, dan melanjutkan perawatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Konsultasi pertama yang berguna memberi Anda tujuan pengobatan segera, masalah t
 ## SEO Metadata
 
 - **Primary keyword:** pilihan pengobatan mieloma multipel di Tiongkok
+
+- **Meta title:** Pengobatan Mieloma Multipel di Tiongkok: Pilihan dan Perawatan Berkelanjutan
+- **Meta description:** Pahami pengobatan mieloma multipel di Tiongkok sebagai rencana bertahap untuk mengendalikan penyakit, melindungi organ, dan melanjutkan perawatan.

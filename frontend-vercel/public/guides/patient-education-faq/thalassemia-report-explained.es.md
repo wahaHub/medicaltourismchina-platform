@@ -1,12 +1,14 @@
-# Leer los informes de talasemia: distinguir el diagnóstico hereditario, la anemia, la carga de hierro y la salud orgánica
+# Informes de talasemia: prepararse para una evaluación en China
 
 ## Hero
 
-- **Title:** Leer los informes de talasemia: distinguir el diagnóstico hereditario, la anemia, la carga de hierro y la salud orgánica
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Talasemia
-- **Subtitle:** Una carpeta de talasemia puede contener notación genética, porcentajes de hemoglobina, mediciones de ferritina y valores de resonancia magnética.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Informes de talasemia: prepararse para una evaluación en China
+- **Subtitle:** Distinga diagnóstico hereditario, anemia, carga de hierro y función orgánica en los informes de talasemia antes de una evaluación especializada en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Pida que se registren en el plan clínico los objetivos terapéuticos individual
 ## SEO Metadata
 
 - **Primary keyword:** resultados de laboratorio de talasemia; HbA2; resonancia de hierro hepático; T2 estrella cardíaco; interpretación de ferritina
+
+- **Meta title:** Informes de talasemia: prepararse para una evaluación en China
+- **Meta description:** Distinga diagnóstico hereditario, anemia, carga de hierro y función orgánica en los informes de talasemia antes de una evaluación especializada en China.

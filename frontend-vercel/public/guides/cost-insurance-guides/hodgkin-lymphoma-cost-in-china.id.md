@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Biaya pengobatan limfoma Hodgkin di Tiongkok: memperoleh penawaran RMB yang dapat dibandingkan
 - **Category:** Panduan Biaya & Asuransi
 - **Subcategory:** Limfoma Hodgkin
-- **Subtitle:** Tidak ada satu harga total pengobatan limfoma Hodgkin di Tiongkok yang berlaku bagi setiap pasien.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Biaya pengobatan limfoma Hodgkin di Tiongkok: memperoleh penawaran RMB yang dapat dibandingkan
+- **Subtitle:** Minta estimasi limfoma Hodgkin di Tiongkok dengan cakupan yang sebanding: diagnosis, regimen, siklus, pemberian obat, dan perawatan lanjutan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Penawaran yang berguna mungkin tidak memberi total akhir pada hari pertama, teta
 ## SEO Metadata
 
 - **Primary keyword:** biaya pengobatan limfoma Hodgkin di Tiongkok
+
+- **Meta title:** Biaya pengobatan limfoma Hodgkin di Tiongkok: memperoleh penawaran RMB yang dapat dibandingkan
+- **Meta description:** Minta estimasi limfoma Hodgkin di Tiongkok dengan cakupan yang sebanding: diagnosis, regimen, siklus, pemberian obat, dan perawatan lanjutan.

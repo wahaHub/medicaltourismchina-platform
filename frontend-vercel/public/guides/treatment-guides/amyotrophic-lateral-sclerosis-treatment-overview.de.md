@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ALS-Behandlung in China: Medikamente, Atemunterstützung und Alltagsversorgung
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Amyotrophe Lateralsklerose
-- **Subtitle:** Amyotrophe Lateralsklerose, kurz ALS, betrifft die Motoneuronen, die willkürliche Bewegung steuern.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ALS-Behandlung in China: Medikamente, Atemunterstützung und Alltagsversorgung
+- **Subtitle:** ALS-Behandlung in China vorbereiten: Diagnose, Medikamente, genetische Fragen, Atemunterstützung, Ernährung und Kommunikation in einem Versorgungsplan verbinden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Erfragen Sie Kosten getrennt für Beurteilung, Medikamente, Eingriffe, Geräte, 
 ## SEO Metadata
 
 - **Primary keyword:** Behandlung amyotropher Lateralsklerose in China
+
+- **Meta title:** ALS-Behandlung in China: Medikamente, Atemunterstützung und Alltagsversorgung
+- **Meta description:** ALS-Behandlung in China vorbereiten: Diagnose, Medikamente, genetische Fragen, Atemunterstützung, Ernährung und Kommunikation in einem Versorgungsplan verbinden.

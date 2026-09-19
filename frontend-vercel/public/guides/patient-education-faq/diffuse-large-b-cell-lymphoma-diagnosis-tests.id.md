@@ -1,12 +1,14 @@
-# Tes untuk dugaan DLBCL: biopsi, penentuan stadium, dan persiapan pengobatan
+# Diagnosis DLBCL di Tiongkok: Biopsi, Penentuan Stadium, dan Persiapan
 
 ## Hero
 
-- **Title:** Tes untuk dugaan DLBCL: biopsi, penentuan stadium, dan persiapan pengobatan
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Limfoma Sel B Besar Difus
-- **Subtitle:** Pemeriksaan limfoma sel B besar difus harus menjawab empat pertanyaan terkait: apakah ini limfoma, limfoma jenis apa, di mana letaknya, dan pengobatan apa yang dapat diterima pasien dengan aman?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnosis DLBCL di Tiongkok: Biopsi, Penentuan Stadium, dan Persiapan
+- **Subtitle:** Pahami biopsi, patologi, pemeriksaan genetik, dan PET/CT untuk diagnosis DLBCL. Siapkan hasil serta penilaian kesiapan pengobatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Kesuburan, nutrisi, dan dukungan praktis harus dibahas sebelum siklus pertama bi
 ## SEO Metadata
 
 - **Primary keyword:** tes diagnostik DLBCL
+
+- **Meta title:** Diagnosis DLBCL di Tiongkok: Biopsi, Penentuan Stadium, dan Persiapan
+- **Meta description:** Pahami biopsi, patologi, pemeriksaan genetik, dan PET/CT untuk diagnosis DLBCL. Siapkan hasil serta penilaian kesiapan pengobatan di Tiongkok.

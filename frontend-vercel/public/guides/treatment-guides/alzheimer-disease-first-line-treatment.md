@@ -1,12 +1,14 @@
-# After an Alzheimer's Diagnosis: Building the First Treatment Plan
+# Starting Alzheimer’s Treatment in China: The First Care Plan
 
 ## Hero
 
-- **Title:** After an Alzheimer's Diagnosis: Building the First Treatment Plan
 - **Category:** Treatment Guides
 - **Subcategory:** Alzheimer Disease
-- **Subtitle:** After a diagnosis of Alzheimer's disease, it is understandable to want to start every available treatment immediately.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Starting Alzheimer’s Treatment in China: The First Care Plan
+- **Subtitle:** Build an initial Alzheimer’s care plan in China around diagnosis, symptoms, suitable treatment, monitoring and practical support for the patient and family.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ The family does not need to resolve every future decision at the first visit. It
 ## SEO Metadata
 
 - **Primary keyword:** initial treatment for Alzheimer's disease
+
+- **Meta title:** Starting Alzheimer’s Treatment in China: The First Care Plan
+- **Meta description:** Build an initial Alzheimer’s care plan in China around diagnosis, symptoms, suitable treatment, monitoring and practical support for the patient and family.

@@ -1,12 +1,14 @@
-# ¿Necesita cirugía el linfoma de células del manto? Biopsia, acceso venoso, recogida celular y procedimientos de urgencia
+# Procedimientos para el linfoma de células del manto en China: propósito y planificación
 
 ## Hero
 
-- **Title:** ¿Necesita cirugía el linfoma de células del manto? Biopsia, acceso venoso, recogida celular y procedimientos de urgencia
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de células del manto
-- **Subtitle:** Búsquedas relacionadas: biopsia de LCM; procedimientos durante el tratamiento del linfoma; atención del LCM en China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Procedimientos para el linfoma de células del manto en China: propósito y planificación
+- **Subtitle:** Distinga biopsia, acceso venoso, recogida celular y procedimientos urgentes en linfoma de células del manto para planificar la atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -121,3 +123,6 @@ El valor de un procedimiento es el problema clínico que resuelve y cómo su res
 ## SEO Metadata
 
 - **Primary keyword:** cirugía para el linfoma de células del manto
+
+- **Meta title:** Procedimientos para el linfoma de células del manto en China: propósito y planificación
+- **Meta description:** Distinga biopsia, acceso venoso, recogida celular y procedimientos urgentes en linfoma de células del manto para planificar la atención en China.

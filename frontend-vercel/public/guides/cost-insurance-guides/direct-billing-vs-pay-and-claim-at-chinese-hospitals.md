@@ -1,15 +1,17 @@
-# Direct Billing or Pay-and-Claim in China: Choose the Failure You Can Manage
+# Hospital Insurance in China: Direct Billing vs Claims
 
 ## Hero
 
-- **Title:** Direct Billing or Pay-and-Claim in China: Choose the Failure You Can Manage
 - **Category:** Cost & Insurance Guides
 - **Subcategory:** Insurance Payment Workflows
-- **Subtitle:** Compare cash exposure, provider choice, document burden and failure recovery—not just whether a hospital displays an insurer’s logo.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** A billing coordinator and international patient compare payment documents at a Chinese hospital.
+
+
+- **Title:** Hospital Insurance in China: Direct Billing vs Claims
+- **Subtitle:** Compare direct billing and reimbursement in China by cash exposure, provider choice, guarantees, claim documents, fallback and duplicate-payment control.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -207,13 +209,15 @@ Notify hospital finance and the insurer with transaction references. The hospita
 ## SEO Metadata
 
 - **Slug:** `direct-billing-vs-pay-and-claim-at-chinese-hospitals`
-- **Meta title:** Direct Billing vs Pay-and-Claim at Chinese Hospitals
-- **Meta description:** Compare direct billing and reimbursement in China by cash exposure, provider choice, guarantees, claim documents, fallback and duplicate-payment control.
 - **Primary keyword:** direct billing vs pay and claim China
 - **Pillar keyword:** medical tourism insurance
 - **Vertical keyword:** China hospital insurance payment
 - **Search intent:** payment method / claim planning
 - **Secondary keywords:** China hospital cashless insurance; pay and claim China; guarantee of payment hospital; medical claim documents China; duplicate hospital payment
+
+
+- **Meta title:** Hospital Insurance in China: Direct Billing vs Claims
+- **Meta description:** Compare direct billing and reimbursement in China by cash exposure, provider choice, guarantees, claim documents, fallback and duplicate-payment control.
 
 ## Sources
 

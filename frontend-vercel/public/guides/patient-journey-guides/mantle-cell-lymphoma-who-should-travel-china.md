@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Should You Travel to China for Mantle Cell Lymphoma Care? Purpose, Stability, and Treatment Continuity
 - **Category:** Patient Journey Guides
 - **Subcategory:** Mantle Cell Lymphoma
-- **Subtitle:** Before arranging care in China, an MCL patient needs to establish what the trip could resolve and whether it can be completed safely.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Should You Travel to China for Mantle Cell Lymphoma Care? Purpose, Stability, and Treatment Continuity
+- **Subtitle:** Consider mantle cell lymphoma travel to China through referral purpose, clinical stability, treatment timing and care after the journey.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Suitability for care in China ultimately depends on whether a specific medical b
 ## SEO Metadata
 
 - **Primary keyword:** travel to China for mantle cell lymphoma treatment
+
+- **Meta title:** Should You Travel to China for Mantle Cell Lymphoma Care? Purpose, Stability, and Treatment Continuity
+- **Meta description:** Consider mantle cell lymphoma travel to China through referral purpose, clinical stability, treatment timing and care after the journey.

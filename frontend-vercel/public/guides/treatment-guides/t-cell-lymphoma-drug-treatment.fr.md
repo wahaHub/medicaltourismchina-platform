@@ -1,12 +1,14 @@
-# Médicaments du lymphome T : indications, surveillance et traitement à domicile
+# Médicaments du lymphome T en Chine : indications et surveillance
 
 ## Hero
 
-- **Title:** Médicaments du lymphome T : indications, surveillance et traitement à domicile
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome T
-- **Subtitle:** Une liste toujours plus longue de noms de médicaments est moins utile que de comprendre ce qu'une personne prend, pourquoi ce traitement a été choisi et comment il sera surveillé.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Médicaments du lymphome T en Chine : indications et surveillance
+- **Subtitle:** Reliez chaque médicament du lymphome T à son indication, aux précautions et au soutien nécessaire pour préparer une prescription et un suivi en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -109,3 +111,6 @@ Lors de la réévaluation, demandez l'étape suivante par écrit : quels médica
 ## SEO Metadata
 
 - **Primary keyword:** traitement médicamenteux du lymphome T
+
+- **Meta title:** Médicaments du lymphome T en Chine : indications et surveillance
+- **Meta description:** Reliez chaque médicament du lymphome T à son indication, aux précautions et au soutien nécessaire pour préparer une prescription et un suivi en Chine.

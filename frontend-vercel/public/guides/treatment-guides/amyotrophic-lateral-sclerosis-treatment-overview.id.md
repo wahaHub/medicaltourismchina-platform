@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Perawatan ALS di Tiongkok: Obat, Dukungan Pernapasan, dan Perawatan Sehari-hari
 - **Category:** Panduan Perawatan
 - **Subcategory:** Sklerosis Lateral Amiotrofik
-- **Subtitle:** Sklerosis lateral amiotrofik, atau ALS, memengaruhi neuron motorik yang mengendalikan gerakan sadar.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Perawatan ALS di Tiongkok: Obat, Dukungan Pernapasan, dan Perawatan Sehari-hari
+- **Subtitle:** Pahami perawatan ALS di Tiongkok yang menghubungkan obat, dukungan pernapasan, nutrisi, dan fungsi sehari-hari sesuai kebutuhan pasien.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Mintalah biaya terpisah untuk penilaian, obat, prosedur, perangkat, bahan habis 
 ## SEO Metadata
 
 - **Primary keyword:** perawatan sklerosis lateral amiotrofik di Tiongkok
+
+- **Meta title:** Perawatan ALS di Tiongkok: Obat, Dukungan Pernapasan, dan Perawatan Sehari-hari
+- **Meta description:** Pahami perawatan ALS di Tiongkok yang menghubungkan obat, dukungan pernapasan, nutrisi, dan fungsi sehari-hari sesuai kebutuhan pasien.

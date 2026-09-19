@@ -1,12 +1,14 @@
-# Elegir el primer tratamiento de la EM: convertir una receta inicial en un plan viable
+# Iniciar el tratamiento de la esclerosis múltiple en China: medicamentos y seguimiento
 
 ## Hero
 
-- **Title:** Elegir el primer tratamiento de la EM: convertir una receta inicial en un plan viable
 - **Category:** Guías de tratamiento
 - **Subcategory:** Esclerosis múltiple
-- **Subtitle:** Tratamiento de primera línea no significa necesariamente que todas las personas con EM deban empezar con el mismo medicamento de menor intensidad.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Iniciar el tratamiento de la esclerosis múltiple en China: medicamentos y seguimiento
+- **Subtitle:** Prepare el inicio del tratamiento de esclerosis múltiple en China con diagnóstico confirmado, objetivos, controles de seguridad y un seguimiento viable.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Solicite los costes de la evaluación inicial, el medicamento y su administraci�
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento de primera línea de la esclerosis múltiple en China
+
+- **Meta title:** Iniciar el tratamiento de la esclerosis múltiple en China: medicamentos y seguimiento
+- **Meta description:** Prepare el inicio del tratamiento de esclerosis múltiple en China con diagnóstico confirmado, objetivos, controles de seguridad y un seguimiento viable.

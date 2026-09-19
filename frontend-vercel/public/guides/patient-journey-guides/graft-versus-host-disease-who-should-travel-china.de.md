@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Sollten Sie zur GVHD-Behandlung nach China reisen? Klären Sie den Nutzen und die rund um die Reise erforderliche Versorgung
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Graft-versus-Host-Erkrankung
-- **Subtitle:** Die Krankheitsschwere allein kann nicht entscheiden, ob eine Person mit Graft-versus-Host-Erkrankung nach China reisen sollte.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sollten Sie zur GVHD-Behandlung nach China reisen? Klären Sie den Nutzen und die rund um die Reise erforderliche Versorgung
+- **Subtitle:** Eine GVHD-Behandlungsreise nach China beurteilen: Beratungsnutzen, Organbefall, aktuelle Stabilität, Flugbelastung und notwendige Versorgung unterwegs klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Sind die erforderliche Beurteilung und Behandlung vor Ort verfügbar, kann es ge
 ## SEO Metadata
 
 - **Primary keyword:** Reise nach China zur GVHD-Behandlung
+
+- **Meta title:** Sollten Sie zur GVHD-Behandlung nach China reisen? Klären Sie den Nutzen und die rund um die Reise erforderliche Versorgung
+- **Meta description:** Eine GVHD-Behandlungsreise nach China beurteilen: Beratungsnutzen, Organbefall, aktuelle Stabilität, Flugbelastung und notwendige Versorgung unterwegs klären.

@@ -1,12 +1,14 @@
-# Wie sich der Rehabilitationsbedarf nach Schlaganfall unterscheidet: Ursache, Behinderung und Risiko
+# Rehabilitationsbedarf nach Schlaganfall: Vorbereitung auf die Versorgung in China
 
 ## Hero
 
-- **Title:** Wie sich der Rehabilitationsbedarf nach Schlaganfall unterscheidet: Ursache, Behinderung und Risiko
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Rehabilitation nach ischämischem Schlaganfall
-- **Subtitle:** Menschen mit derselben Diagnose eines ischämischen Schlaganfalls können sehr unterschiedliche Rehabilitationsbedürfnisse haben.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rehabilitationsbedarf nach Schlaganfall: Vorbereitung auf die Versorgung in China
+- **Subtitle:** Rehabilitationsbedarf nach Schlaganfall für die Versorgung in China beschreiben: Bewegung, Schlucken, Kommunikation, Kognition und notwendige Unterstützung erfassen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Risikobeurteilung ist wertvoll, wenn sie angemessene Unterstützung sichert. Än
 ## SEO Metadata
 
 - **Primary keyword:** Arten und Risiken der Rehabilitation nach ischämischem Schlaganfall
+
+- **Meta title:** Rehabilitationsbedarf nach Schlaganfall: Vorbereitung auf die Versorgung in China
+- **Meta description:** Rehabilitationsbedarf nach Schlaganfall für die Versorgung in China beschreiben: Bewegung, Schlucken, Kommunikation, Kognition und notwendige Unterstützung erfassen.

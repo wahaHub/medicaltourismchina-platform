@@ -1,12 +1,14 @@
-# Documentación médica para una derivación por anemia aplásica: hacer utilizables las pruebas
+# Documentación de anemia aplásica para una derivación a China
 
 ## Hero
 
-- **Title:** Documentación médica para una derivación por anemia aplásica: hacer utilizables las pruebas
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Anemia aplásica
-- **Subtitle:** El expediente de derivación más útil muestra cómo encajan las pruebas a lo largo del tiempo.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Documentación de anemia aplásica para una derivación a China
+- **Subtitle:** Prepare una derivación por anemia aplásica a China con evolución de recuentos, transfusiones, informes medulares, genética y medicación realmente tomada.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Para la consulta, lleve la lista actual de medicamentos, recuentos recientes y l
 ## SEO Metadata
 
 - **Primary keyword:** documentación médica de anemia aplásica
+
+- **Meta title:** Documentación de anemia aplásica para una derivación a China
+- **Meta description:** Prepare una derivación por anemia aplásica a China con evolución de recuentos, transfusiones, informes medulares, genética y medicación realmente tomada.

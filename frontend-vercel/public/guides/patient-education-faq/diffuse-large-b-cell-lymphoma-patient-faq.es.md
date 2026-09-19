@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Preguntas frecuentes de pacientes sobre DLBCL: 20 preguntas sobre tratamiento, recaída y atención en China
 - **Category:** Educación para pacientes y preguntas frecuentes
 - **Subcategory:** Linfoma difuso de células B grandes
-- **Subtitle:** Las preguntas sobre DLBCL suelen requerir considerar conjuntamente la anatomía patológica, el estadio, el tratamiento previo y el estado físico.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Preguntas frecuentes de pacientes sobre DLBCL: 20 preguntas sobre tratamiento, recaída y atención en China
+- **Subtitle:** Prepare preguntas sobre diagnóstico, primera línea, recaída y atención en China del linfoma difuso de células B grandes, con distinciones útiles para pacientes.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Lleve la anatomía patológica definitiva, los fármacos administrados, los camb
 ## SEO Metadata
 
 - **Primary keyword:** preguntas frecuentes de pacientes sobre DLBCL
+
+- **Meta title:** Preguntas frecuentes de pacientes sobre DLBCL: 20 preguntas sobre tratamiento, recaída y atención en China
+- **Meta description:** Prepare preguntas sobre diagnóstico, primera línea, recaída y atención en China del linfoma difuso de células B grandes, con distinciones útiles para pacientes.

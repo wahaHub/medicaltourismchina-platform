@@ -1,12 +1,14 @@
-# Understanding a DLBCL report: pathology, FISH, IPI and PET findings
+# DLBCL Reports: Pathology, FISH and PET Review in China
 
 ## Hero
 
-- **Title:** Understanding a DLBCL report: pathology, FISH, IPI and PET findings
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Diffuse Large B Cell Lymphoma
-- **Subtitle:** A DLBCL report can contain several different languages at once: a diagnostic name, positive stains, gene results, percentages, a stage and a PET score.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL Reports: Pathology, FISH and PET Review in China
+- **Subtitle:** Read DLBCL pathology, FISH, IPI and PET findings in context, and prepare original reports for a second opinion in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ After treatment, actual doses, major toxicities and the final imaging assessment
 ## SEO Metadata
 
 - **Primary keyword:** understanding a DLBCL report
+
+- **Meta title:** DLBCL Reports: Pathology, FISH and PET Review in China
+- **Meta description:** Read DLBCL pathology, FISH, IPI and PET findings in context, and prepare original reports for a second opinion in China.

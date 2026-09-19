@@ -1,12 +1,14 @@
-# Pemeriksaan untuk dugaan limfoma sel T: memperoleh jaringan yang tepat dan diagnosis yang dapat digunakan
+# Diagnosis Limfoma Sel T di Tiongkok: Biopsi dan Tinjauan
 
 ## Hero
 
-- **Title:** Pemeriksaan untuk dugaan limfoma sel T: memperoleh jaringan yang tepat dan diagnosis yang dapat digunakan
 - **Category:** Edukasi Pasien & FAQ
 - **Subcategory:** Limfoma Sel T
-- **Subtitle:** Urutan pemeriksaan harus mengikuti pertanyaan yang belum terjawab.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnosis Limfoma Sel T di Tiongkok: Biopsi dan Tinjauan
+- **Subtitle:** Siapkan diagnosis limfoma sel T di Tiongkok dengan biopsi yang memadai dan tinjauan patologi. Pahami peran penanda, klonalitas, dan riwayat penyakit.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -113,3 +115,6 @@ Pada pembahasan diagnosis akhir, bedakan temuan yang sudah dipastikan, ketidakpa
 ## SEO Metadata
 
 - **Primary keyword:** pemeriksaan diagnosis limfoma sel T
+
+- **Meta title:** Diagnosis Limfoma Sel T di Tiongkok: Biopsi dan Tinjauan
+- **Meta description:** Siapkan diagnosis limfoma sel T di Tiongkok dengan biopsi yang memadai dan tinjauan patologi. Pahami peran penanda, klonalitas, dan riwayat penyakit.

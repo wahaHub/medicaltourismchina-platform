@@ -1,12 +1,14 @@
-# Understanding a GVHD Report: Organ Scores, Pathology, and Transplant Results
+# GVHD Reports: Organ Scores and Specialist Review in China
 
 ## Hero
 
-- **Title:** Understanding a GVHD Report: Organ Scores, Pathology, and Transplant Results
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Graft Versus Host Disease
-- **Subtitle:** One patient's records may contain a low histologic grade from a bowel biopsy, a higher overall acute GVHD grade, a lung score of one, and almost complete donor chimerism.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** GVHD Reports: Organ Scores and Specialist Review in China
+- **Subtitle:** Distinguish GVHD organ scores, pathology, chimerism and other transplant results, and prepare a focused specialist review in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ The practical value of a report lies in whether it supports observation, further
 ## SEO Metadata
 
 - **Primary keyword:** graft-versus-host disease report explained China consultation
+
+- **Meta title:** GVHD Reports: Organ Scores and Specialist Review in China
+- **Meta description:** Distinguish GVHD organ scores, pathology, chimerism and other transplant results, and prepare a focused specialist review in China.

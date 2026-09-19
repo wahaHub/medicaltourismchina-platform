@@ -1,15 +1,17 @@
-# PET/CT for Cancer Care: The Tracer, Timing and Limitations Behind a “Hot Spot”
+# Cancer PET/CT in China: Preparation, Tracers and Limits
 
 ## Hero
 
-- **Title:** PET/CT for Cancer Care: The Tracer, Timing and Limitations Behind a “Hot Spot”
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Tests & Diagnosis
-- **Subtitle:** A decision-focused guide to FDG and other tracers, preparation, treatment timing, radiation, false positives and obtaining a comparable study in China.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Planned replacement showing a PET/CT scanner, radiotracer injection and fused metabolic-anatomic images with one highlighted lesion
+
+
+- **Title:** Cancer PET/CT in China: Preparation, Tracers and Limits
+- **Subtitle:** Understand FDG and other PET tracers, fasting and diabetes preparation, treatment timing, false positives, false negatives and PET/CT reports.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -173,13 +175,15 @@ Yes, but appointment time, meals, insulin/tablets and glucose targets need a coo
 ## SEO Metadata
 
 - **Slug:** `pet-ct-for-cancer-care-uses-and-limitations`
-- **Meta title:** PET/CT for Cancer: Tracers, Preparation and Limitations
-- **Meta description:** Understand FDG and other PET tracers, fasting and diabetes preparation, treatment timing, false positives, false negatives and PET/CT reports.
 - **Primary keyword:** PET CT for cancer
 - **Pillar keyword:** cancer imaging in China
 - **Vertical keyword:** FDG PET CT preparation and limitations
 - **Search intent:** oncology imaging decision guidance
 - **Secondary keywords:** PET hot spot not always cancer; PET negative cancer; PET CT diabetes; PET CT after treatment; PET CT DICOM China
+
+
+- **Meta title:** Cancer PET/CT in China: Preparation, Tracers and Limits
+- **Meta description:** Understand FDG and other PET tracers, fasting and diabetes preparation, treatment timing, false positives, false negatives and PET/CT reports.
 
 ## Sources
 

@@ -1,12 +1,14 @@
-# Nebenwirkungen der Behandlung aplastischer Anämie: was kontrolliert werden muss und was dringende Versorgung braucht
+# Versorgung bei aplastischer Anämie in China: Nebenwirkungen und dringende Hilfe
 
 ## Hero
 
-- **Title:** Nebenwirkungen der Behandlung aplastischer Anämie: was kontrolliert werden muss und was dringende Versorgung braucht
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Aplastische Anämie
-- **Subtitle:** Treten während der Behandlung Symptome auf, müssen Patienten wissen, ob sie diese bei der Kontrolle ansprechen oder sofort Hilfe suchen sollten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Versorgung bei aplastischer Anämie in China: Nebenwirkungen und dringende Hilfe
+- **Subtitle:** Nebenwirkungen bei aplastischer Anämie in China besprechen: ATG-Reaktionen, Arzneimittelkontrollen, Transfusionsprobleme und dringliche Veränderungen einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Trennen Sie im Renminbi-Budget Routinetherapie von möglicherweise zusätzlichen
 ## SEO Metadata
 
 - **Primary keyword:** Nebenwirkungen der Behandlung aplastischer Anämie
+
+- **Meta title:** Versorgung bei aplastischer Anämie in China: Nebenwirkungen und dringende Hilfe
+- **Meta description:** Nebenwirkungen bei aplastischer Anämie in China besprechen: ATG-Reaktionen, Arzneimittelkontrollen, Transfusionsprobleme und dringliche Veränderungen einordnen.

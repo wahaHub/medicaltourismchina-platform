@@ -1,12 +1,14 @@
-# Stadium dan Risiko Alzheimer: Mengapa Onset Usia Muda, Penyakit Tahap Awal, dan MCI Berbeda
+# Stadium dan Risiko Alzheimer: Persiapan Perawatan di Tiongkok
 
 ## Hero
 
-- **Title:** Stadium dan Risiko Alzheimer: Mengapa Onset Usia Muda, Penyakit Tahap Awal, dan MCI Berbeda
 - **Category:** Edukasi Pasien & FAQ
 - **Subcategory:** Penyakit Alzheimer
-- **Subtitle:** Alzheimer dengan onset usia muda, Alzheimer tahap awal, dan gangguan kognitif ringan dapat terdengar seperti nama berbeda untuk keadaan yang sama.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Stadium dan Risiko Alzheimer: Persiapan Perawatan di Tiongkok
+- **Subtitle:** Bedakan Alzheimer awitan muda, tahap awal, dan gangguan kognitif ringan. Pahami stadium serta kebutuhan bantuan sebelum mencari perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -109,3 +111,6 @@ Jika seseorang telah melewati stadium yang diteliti untuk memulai antibodi, masi
 ## SEO Metadata
 
 - **Primary keyword:** stadium penyakit Alzheimer
+
+- **Meta title:** Stadium dan Risiko Alzheimer: Persiapan Perawatan di Tiongkok
+- **Meta description:** Bedakan Alzheimer awitan muda, tahap awal, dan gangguan kognitif ringan. Pahami stadium serta kebutuhan bantuan sebelum mencari perawatan di Tiongkok.

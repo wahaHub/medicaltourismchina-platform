@@ -1,12 +1,14 @@
-# Medicamentos para la esclerosis múltiple: opciones de TME, vigilancia y transiciones planificadas
+# Medicamentos para esclerosis múltiple en China: opciones, vigilancia y cambios de tratamiento
 
 ## Hero
 
-- **Title:** Medicamentos para la esclerosis múltiple: opciones de TME, vigilancia y transiciones planificadas
 - **Category:** Guías de tratamiento
 - **Subcategory:** Esclerosis múltiple
-- **Subtitle:** Las listas de medicamentos para la EM difieren porque varían los países, las fechas de aprobación y las indicaciones de enfermedad.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medicamentos para esclerosis múltiple en China: opciones, vigilancia y cambios de tratamiento
+- **Subtitle:** Distinga tratamientos modificadores, de brotes y de síntomas de esclerosis múltiple, con preguntas sobre vigilancia y cambios de medicación en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Confirme por separado los costes del medicamento, la administración, el laborat
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento farmacológico y vigilancia de la esclerosis múltiple
+
+- **Meta title:** Medicamentos para esclerosis múltiple en China: opciones, vigilancia y cambios de tratamiento
+- **Meta description:** Distinga tratamientos modificadores, de brotes y de síntomas de esclerosis múltiple, con preguntas sobre vigilancia y cambios de medicación en China.

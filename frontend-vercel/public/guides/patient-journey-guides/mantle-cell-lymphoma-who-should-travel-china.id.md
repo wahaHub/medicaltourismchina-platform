@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Haruskah Anda Pergi ke Tiongkok untuk Perawatan Limfoma Sel Mantel? Tujuan, Kestabilan, dan Kesinambungan Pengobatan
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Limfoma Sel Mantel
-- **Subtitle:** Sebelum mengatur perawatan di Tiongkok, pasien MCL perlu memastikan apa yang dapat diselesaikan oleh perjalanan tersebut dan apakah perjalanan dapat dijalani dengan aman.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Haruskah Anda Pergi ke Tiongkok untuk Perawatan Limfoma Sel Mantel? Tujuan, Kestabilan, dan Kesinambungan Pengobatan
+- **Subtitle:** Tentukan tujuan kunjungan limfoma sel mantel ke Tiongkok. Periksa kestabilan, waktu perjalanan, dan kesinambungan pengobatan bersama tim klinis.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Kelayakan perawatan di Tiongkok pada akhirnya bergantung pada apakah manfaat med
 ## SEO Metadata
 
 - **Primary keyword:** perjalanan ke Tiongkok untuk pengobatan limfoma sel mantel
+
+- **Meta title:** Haruskah Anda Pergi ke Tiongkok untuk Perawatan Limfoma Sel Mantel? Tujuan, Kestabilan, dan Kesinambungan Pengobatan
+- **Meta description:** Tentukan tujuan kunjungan limfoma sel mantel ke Tiongkok. Periksa kestabilan, waktu perjalanan, dan kesinambungan pengobatan bersama tim klinis.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Memilih Rumah Sakit di Tiongkok untuk Limfoma Sel Mantel: Tinjauan Spesialis dan Kesinambungan Perawatan
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Limfoma Sel Mantel
-- **Subtitle:** Pasien sering mulai memilih rumah sakit MCL dengan membandingkan reputasi sebelum merumuskan pertanyaan yang perlu dijawab oleh kunjungan tersebut.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Memilih Rumah Sakit di Tiongkok untuk Limfoma Sel Mantel: Tinjauan Spesialis dan Kesinambungan Perawatan
+- **Subtitle:** Pilih rumah sakit limfoma sel mantel di Tiongkok sesuai kebutuhan patologi, observasi, terapi awal, atau progresi serta kesinambungan perawatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Ketika pendapat berbeda, pastikan apakah kedua tim meninjau catatan yang sama, m
 ## SEO Metadata
 
 - **Primary keyword:** rumah sakit limfoma sel mantel di Tiongkok
+
+- **Meta title:** Memilih Rumah Sakit di Tiongkok untuk Limfoma Sel Mantel: Tinjauan Spesialis dan Kesinambungan Perawatan
+- **Meta description:** Pilih rumah sakit limfoma sel mantel di Tiongkok sesuai kebutuhan patologi, observasi, terapi awal, atau progresi serta kesinambungan perawatan.

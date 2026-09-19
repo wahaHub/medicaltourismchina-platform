@@ -1,12 +1,14 @@
-# Effets indésirables du traitement de l’aplasie médullaire : ce qui nécessite une réévaluation et ce qui relève de l’urgence
+# Soins de l’aplasie médullaire en Chine : effets indésirables et aide urgente
 
 ## Hero
 
-- **Title:** Effets indésirables du traitement de l’aplasie médullaire : ce qui nécessite une réévaluation et ce qui relève de l’urgence
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Aplasie médullaire
-- **Subtitle:** Lorsque des symptômes apparaissent pendant le traitement, les patients doivent savoir s’il faut les évoquer au contrôle ou demander de l’aide maintenant.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Soins de l’aplasie médullaire en Chine : effets indésirables et aide urgente
+- **Subtitle:** Repérez les effets indésirables de l’aplasie médullaire en Chine : réactions à l’ATG, toxicités médicamenteuses, symptômes transfusionnels et situations urgentes.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Dans un budget en renminbis, séparez le traitement courant des éventuels exame
 ## SEO Metadata
 
 - **Primary keyword:** effets indésirables du traitement de l’aplasie médullaire
+
+- **Meta title:** Soins de l’aplasie médullaire en Chine : effets indésirables et aide urgente
+- **Meta description:** Repérez les effets indésirables de l’aplasie médullaire en Chine : réactions à l’ATG, toxicités médicamenteuses, symptômes transfusionnels et situations urgentes.

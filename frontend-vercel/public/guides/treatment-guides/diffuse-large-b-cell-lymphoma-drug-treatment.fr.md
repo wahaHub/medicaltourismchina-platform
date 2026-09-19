@@ -1,12 +1,14 @@
-# Médicaments du DLBCL : classes, associations et relevés médicamenteux sûrs
+# Médicaments du LDGCB en Chine : protocoles, dossier et accès
 
 ## Hero
 
-- **Title:** Médicaments du DLBCL : classes, associations et relevés médicamenteux sûrs
 - **Category:** Guides de traitement
 - **Subcategory:** Lymphome diffus à grandes cellules B
-- **Subtitle:** Le traitement du DLBCL associe habituellement plusieurs classes de médicaments.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Médicaments du LDGCB en Chine : protocoles, dossier et accès
+- **Subtitle:** Comprenez les médicaments du LDGCB, leurs associations et les précautions liées aux perfusions et aux corticoïdes pour préparer un traitement en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Enfin, désignez un clinicien et une équipe pharmaceutique pour concilier la li
 ## SEO Metadata
 
 - **Primary keyword:** médicaments du DLBCL
+
+- **Meta title:** Médicaments du LDGCB en Chine : protocoles, dossier et accès
+- **Meta description:** Comprenez les médicaments du LDGCB, leurs associations et les précautions liées aux perfusions et aux corticoïdes pour préparer un traitement en Chine.

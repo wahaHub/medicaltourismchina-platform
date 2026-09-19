@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Elegir un hospital en China para el mieloma múltiple: adapte el equipo a la fase del tratamiento
 - **Category:** Guías de hospitales
 - **Subcategory:** Mieloma múltiple
-- **Subtitle:** Un paciente puede necesitar aclaración diagnóstica, planificación de primera línea, evaluación para trasplante, tratamiento de la recaída o manejo de complicaciones.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Elegir un hospital en China para el mieloma múltiple: adapte el equipo a la fase del tratamiento
+- **Subtitle:** Compare hospitales de mieloma múltiple en China según la fase de atención, la revisión diagnóstica y el apoyo necesario para trasplante o inmunoterapia.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ La elección final debe reflejar las necesidades de la enfermedad, el tratamient
 ## SEO Metadata
 
 - **Primary keyword:** hospitales y centros de tratamiento del mieloma múltiple en China
+
+- **Meta title:** Elegir un hospital en China para el mieloma múltiple: adapte el equipo a la fase del tratamiento
+- **Meta description:** Compare hospitales de mieloma múltiple en China según la fase de atención, la revisión diagnóstica y el apoyo necesario para trasplante o inmunoterapia.

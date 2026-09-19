@@ -1,12 +1,14 @@
-# Zwanzig Patientenfragen zum T-Zell-Lymphom: Diagnose, Behandlung und alltägliche Entscheidungen
+# Versorgung bei T-Zell-Lymphomen in China: 20 Patientenfragen
 
 ## Hero
 
-- **Title:** Zwanzig Patientenfragen zum T-Zell-Lymphom: Diagnose, Behandlung und alltägliche Entscheidungen
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** T-Zell-Lymphom
-- **Subtitle:** Das reicht aus, um zunächst einen Spezialisten zu kontaktieren, gewöhnlich jedoch nicht, um den gesamten Behandlungsplan festzulegen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Versorgung bei T-Zell-Lymphomen in China: 20 Patientenfragen
+- **Subtitle:** 20 Fragen zur T-Zell-Lymphom-Versorgung in China: Subtyp, Pathologie, Marker, Behandlungswahl und praktische Entscheidungen im Krankheitsverlauf einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Bringen Sie vollständige Pathologie- und Konsiliarberichte, wichtige Originalbi
 
 - **Primary keyword:** Patientenfragen zum T-Zell-Lymphom
 
+
+- **Meta title:** Versorgung bei T-Zell-Lymphomen in China: 20 Patientenfragen
+- **Meta description:** 20 Fragen zur T-Zell-Lymphom-Versorgung in China: Subtyp, Pathologie, Marker, Behandlungswahl und praktische Entscheidungen im Krankheitsverlauf einordnen.

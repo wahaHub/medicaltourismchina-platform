@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Quién debería viajar a China para rehabilitación tras un ictus? Evaluación de las necesidades y la preparación para viajar
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Rehabilitación tras un ictus isquémico
-- **Subtitle:** Viajar a China después de un ictus isquémico resulta más útil cuando la visita tiene un propósito clínico claro.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Quién debería viajar a China para rehabilitación tras un ictus? Evaluación de las necesidades y la preparación para viajar
+- **Subtitle:** Valore viajar a China para rehabilitación del ictus según los objetivos funcionales, la estabilidad médica y las necesidades de traslado, alimentación y comunicación.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Comente ese registro con el paciente utilizando su método de comunicación pref
 ## SEO Metadata
 
 - **Primary keyword:** viajar a China para rehabilitación del ictus isquémico
+
+- **Meta title:** ¿Quién debería viajar a China para rehabilitación tras un ictus? Evaluación de las necesidades y la preparación para viajar
+- **Meta description:** Valore viajar a China para rehabilitación del ictus según los objetivos funcionales, la estabilidad médica y las necesidades de traslado, alimentación y comunicación.

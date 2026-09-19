@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Pertanyaan umum pasien DLBCL: 20 pertanyaan tentang pengobatan, kekambuhan, dan perawatan di Tiongkok
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Limfoma Sel B Besar Difus
-- **Subtitle:** Pertanyaan tentang DLBCL sering memerlukan pertimbangan patologi, stadium, pengobatan sebelumnya, dan kebugaran fisik secara bersamaan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pertanyaan umum pasien DLBCL: 20 pertanyaan tentang pengobatan, kekambuhan, dan perawatan di Tiongkok
+- **Subtitle:** Siapkan konsultasi DLBCL di Tiongkok dengan 20 pertanyaan tentang patologi, stadium, pengobatan, kekambuhan, dan tindak lanjut sesuai kondisi pasien.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Bawa hasil patologi akhir, obat yang diberikan, perubahan dosis, respons, catata
 ## SEO Metadata
 
 - **Primary keyword:** pertanyaan umum pasien DLBCL
+
+- **Meta title:** Pertanyaan umum pasien DLBCL: 20 pertanyaan tentang pengobatan, kekambuhan, dan perawatan di Tiongkok
+- **Meta description:** Siapkan konsultasi DLBCL di Tiongkok dengan 20 pertanyaan tentang patologi, stadium, pengobatan, kekambuhan, dan tindak lanjut sesuai kondisi pasien.

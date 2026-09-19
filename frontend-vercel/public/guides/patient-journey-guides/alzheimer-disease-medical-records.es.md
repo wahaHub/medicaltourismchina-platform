@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Preparar la documentación médica del alzhéimer para una consulta en China
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Enfermedad de Alzheimer
-- **Subtitle:** La derivación más útil por alzhéimer relaciona síntomas, funcionamiento cotidiano, pruebas y tratamiento en una misma cronología.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Preparar la documentación médica del alzhéimer para una consulta en China
+- **Subtitle:** Prepare una consulta de Alzheimer en China con la historia de cambios, evaluaciones cognitivas, imágenes originales y detalles de biomarcadores y genética.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -129,3 +131,6 @@ Un expediente bien preparado hace visible la incertidumbre en lugar de ocultarla
 ## SEO Metadata
 
 - **Primary keyword:** documentación médica de la enfermedad de Alzheimer para tratamiento en China
+
+- **Meta title:** Preparar la documentación médica del alzhéimer para una consulta en China
+- **Meta description:** Prepare una consulta de Alzheimer en China con la historia de cambios, evaluaciones cognitivas, imágenes originales y detalles de biomarcadores y genética.

@@ -1,12 +1,14 @@
-# Transfusion support in aplastic anemia: irradiated components, reactions, and iron burden
+# Aplastic Anemia Transfusions in China: Safety and Monitoring
 
 ## Hero
 
-- **Title:** Transfusion support in aplastic anemia: irradiated components, reactions, and iron burden
 - **Category:** Treatment Guides
 - **Subcategory:** Aplastic Anemia
-- **Subtitle:** “Another transfusion” may mean red cells or platelets, which serve different purposes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Aplastic Anemia Transfusions in China: Safety and Monitoring
+- **Subtitle:** Understand aplastic anemia transfusion support, irradiated components, reactions and iron burden, with scheduling and monitoring questions for care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ Support frequency can differ between initial response waiting, stable outpatient
 ## SEO Metadata
 
 - **Primary keyword:** aplastic anemia transfusion support
+
+- **Meta title:** Aplastic Anemia Transfusions in China: Safety and Monitoring
+- **Meta description:** Understand aplastic anemia transfusion support, irradiated components, reactions and iron burden, with scheduling and monitoring questions for care in China.

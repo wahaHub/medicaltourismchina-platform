@@ -1,12 +1,14 @@
-# Quand les crises reviennent dans l’épilepsie pharmacorésistante : revue médicamenteuse, récidive postopératoire et réévaluation
+# Retour des crises d’épilepsie pharmacorésistante : réévaluation en Chine
 
 ## Hero
 
-- **Title:** Quand les crises reviennent dans l’épilepsie pharmacorésistante : revue médicamenteuse, récidive postopératoire et réévaluation
 - **Category:** Guides des traitements
 - **Subcategory:** Épilepsie pharmacorésistante
-- **Subtitle:** Le retour d’une crise familière après une période plus calme peut être profondément décourageant.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Retour des crises d’épilepsie pharmacorésistante : réévaluation en Chine
+- **Subtitle:** Préparez une réévaluation des crises récurrentes en Chine avec leur chronologie, les traitements réellement pris, les interruptions et les facteurs associés.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,3 +152,6 @@ La réévaluation après récidive vise à trouver les facteurs modifiables et �
 ## SEO Metadata
 
 - **Primary keyword:** épilepsie pharmacorésistante récidivante ; retour des crises après chirurgie de l’épilepsie ; crises malgré le traitement ; réévaluation de l’épilepsie en Chine
+
+- **Meta title:** Retour des crises d’épilepsie pharmacorésistante : réévaluation en Chine
+- **Meta description:** Préparez une réévaluation des crises récurrentes en Chine avec leur chronologie, les traitements réellement pris, les interruptions et les facteurs associés.

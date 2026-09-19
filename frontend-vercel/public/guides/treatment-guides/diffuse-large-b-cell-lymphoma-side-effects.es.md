@@ -1,12 +1,14 @@
-# Efectos secundarios del tratamiento del LDCBG: manejo diario y síntomas urgentes
+# Tratamiento del LDCBG en China: efectos secundarios y síntomas urgentes
 
 ## Hero
 
-- **Title:** Efectos secundarios del tratamiento del LDCBG: manejo diario y síntomas urgentes
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma difuso de células B grandes
-- **Subtitle:** No deben descartarse todos los efectos secundarios durante el tratamiento del LDCBG como algo normal.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento del LDCBG en China: efectos secundarios y síntomas urgentes
+- **Subtitle:** Reconozca efectos secundarios y síntomas urgentes del tratamiento del linfoma difuso de células B grandes, y prepare un plan de vigilancia con su equipo en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Con glofitamab, la inflamación grave también puede reflejar HLH. La carta del 
 ## SEO Metadata
 
 - **Primary keyword:** efectos secundarios del tratamiento del LDCBG
+
+- **Meta title:** Tratamiento del LDCBG en China: efectos secundarios y síntomas urgentes
+- **Meta description:** Reconozca efectos secundarios y síntomas urgentes del tratamiento del linfoma difuso de células B grandes, y prepare un plan de vigilancia con su equipo en China.

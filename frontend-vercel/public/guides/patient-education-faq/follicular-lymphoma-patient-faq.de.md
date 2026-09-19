@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Zwanzig Patientenfragen zum follikulären Lymphom und zur Versorgung in China
 - **Category:** Patienteninformation & häufige Fragen
 - **Subcategory:** Follikuläres Lymphom
-- **Subtitle:** Zwanzig Patientenfragen zum follikulären Lymphom und zur Versorgung in China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Zwanzig Patientenfragen zum follikulären Lymphom und zur Versorgung in China
+- **Subtitle:** 20 Fragen zum follikulären Lymphom und zur Versorgung in China: Biopsie, Grad, Stadium, Beobachtung, Behandlungsbeginn und Therapieoptionen verständlich einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Die Nachsorge umfasst auch Symptome, körperliche Untersuchung, Behandlungsfolge
 ## SEO Metadata
 
 - **Primary keyword:** follikuläres Lymphom häufige Patientenfragen
+
+- **Meta title:** Zwanzig Patientenfragen zum follikulären Lymphom und zur Versorgung in China
+- **Meta description:** 20 Fragen zum follikulären Lymphom und zur Versorgung in China: Biopsie, Grad, Stadium, Beobachtung, Behandlungsbeginn und Therapieoptionen verständlich einordnen.

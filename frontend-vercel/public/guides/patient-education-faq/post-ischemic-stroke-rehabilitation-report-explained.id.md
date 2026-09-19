@@ -1,12 +1,14 @@
-# Memahami Laporan Rehabilitasi Stroke: Pencitraan, Skor, dan Kebutuhan Bantuan
+# Laporan Rehabilitasi Stroke: Merencanakan Tinjauan di Tiongkok
 
 ## Hero
 
-- **Title:** Memahami Laporan Rehabilitasi Stroke: Pencitraan, Skor, dan Kebutuhan Bantuan
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Rehabilitasi Pascastroke Iskemik
-- **Subtitle:** Laporan rehabilitasi stroke mungkin memuat NIHSS, Fugl-Meyer, Barthel, Berg, dan beberapa singkatan lain.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Laporan Rehabilitasi Stroke: Merencanakan Tinjauan di Tiongkok
+- **Subtitle:** Bedakan fungsi yang diukur skor rehabilitasi stroke dari temuan pencitraan. Siapkan hasil bertanggal dan kebutuhan bantuan untuk tinjauan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Pertahankan laporan asli lengkap dan buat catatan terpisah dalam bahasa sederhan
 ## SEO Metadata
 
 - **Primary keyword:** penjelasan laporan penilaian rehabilitasi stroke
+
+- **Meta title:** Laporan Rehabilitasi Stroke: Merencanakan Tinjauan di Tiongkok
+- **Meta description:** Bedakan fungsi yang diukur skor rehabilitasi stroke dari temuan pencitraan. Siapkan hasil bertanggal dan kebutuhan bantuan untuk tinjauan di Tiongkok.

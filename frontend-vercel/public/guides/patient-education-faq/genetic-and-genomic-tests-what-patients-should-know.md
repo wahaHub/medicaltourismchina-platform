@@ -1,15 +1,17 @@
-# Genetic or Genomic Test? First Decide Whether the Question Is Inherited Risk, Diagnosis or Treatment
+# Genetic and Genomic Tests in China: Understanding Results
 
 ## Hero
 
-- **Title:** Genetic or Genomic Test? First Decide Whether the Question Is Inherited Risk, Diagnosis or Treatment
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Tests & Diagnosis
-- **Subtitle:** A practical guide to germline testing, tumor profiling, uncertain variants, broad panels, direct-to-consumer results and questions to settle before a sample is sent.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** A clinician explains DNA findings and their possible implications to a patient and family member
+
+
+- **Title:** Genetic and Genomic Tests in China: Understanding Results
+- **Subtitle:** Understand germline and tumor genomic tests, VUS and negative results, broad panels, consumer DNA tests, report quality and questions to ask before testing.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,11 +147,13 @@ Do not act on it alone. Review the original result with a qualified clinician or
 
 ## SEO Metadata
 
-- **SEO title:** Genetic vs Genomic Testing: Germline, Tumor Results and VUS Explained
-- **Meta description:** Understand germline and tumor genomic tests, VUS and negative results, broad panels, consumer DNA tests, report quality and questions to ask before testing.
 - **Primary keyword:** genetic and genomic testing guide
 - **Secondary keywords:** germline testing, tumor profiling, somatic mutation, variant of uncertain significance, genetic counseling, cancer biomarker testing
 - **Suggested URL slug:** `/genetic-genomic-tests-inherited-risk-diagnosis-treatment`
+
+
+- **Meta title:** Genetic and Genomic Tests in China: Understanding Results
+- **Meta description:** Understand germline and tumor genomic tests, VUS and negative results, broad panels, consumer DNA tests, report quality and questions to ask before testing.
 
 ## Sources
 

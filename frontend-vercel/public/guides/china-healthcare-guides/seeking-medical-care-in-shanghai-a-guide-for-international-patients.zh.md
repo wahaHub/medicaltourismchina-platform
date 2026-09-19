@@ -1,15 +1,17 @@
-# 上海就医：国际患者指南
+# 中国就医指南：国际患者在上海看病
 
 ## Hero
 
-- **Title:** 上海就医：国际患者指南
 - **Category:** 中国医疗指南
 - **Subcategory:** 就医城市与服务路径选择
-- **Subtitle:** 在公立普通门诊、公立国际医疗与私立国际机构之间选对入口，并把护照实名、检查流程、保险和离沪交接提前安排好。
 - **Reviewed by:** Medora Health 编辑团队；发布前需由熟悉上海就医流程和商业保险的专业人员复核
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 带着行李的国际患者在上海城市背景下与医生沟通
+
+
+- **Title:** 中国就医指南：国际患者在上海看病
+- **Subtitle:** 选择上海就医路径、用外国护照预约随申办、确认保险直付，并提前安排检查、病历导出和120急救。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -198,13 +200,15 @@
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-shanghai-a-guide-for-international-patients`
-- **Meta title:** 国际患者上海就医指南
-- **Meta description:** 选择上海就医路径、用外国护照预约随申办、确认保险直付，并提前安排检查、病历导出和120急救。
 - **Primary keyword:** 国际患者上海就医
 - **Pillar keyword:** 国际患者赴华就医
 - **Vertical keyword:** 外国人在上海看病
 - **Search intent:** 医院流程 / 预约与就医规划
 - **Secondary keywords:** 上海国际医疗；随申办医院预约；外国护照上海挂号；上海120急救
+
+
+- **Meta title:** 中国就医指南：国际患者在上海看病
+- **Meta description:** 选择上海就医路径、用外国护照预约随申办、确认保险直付，并提前安排检查、病历导出和120急救。
 
 ## Sources
 

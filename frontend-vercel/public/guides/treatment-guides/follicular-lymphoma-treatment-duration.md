@@ -1,12 +1,14 @@
-# How long does follicular lymphoma treatment take? Monitoring, induction, maintenance and recovery
+# Follicular Lymphoma Care in China: Treatment Timelines
 
 ## Hero
 
-- **Title:** How long does follicular lymphoma treatment take? Monitoring, induction, maintenance and recovery
 - **Category:** Treatment Guides
 - **Subcategory:** Follicular Lymphoma
-- **Subtitle:** There is no single duration for every follicular lymphoma course.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Follicular Lymphoma Care in China: Treatment Timelines
+- **Subtitle:** Understand follicular lymphoma observation, induction, maintenance and recovery timelines, and request a revisable care schedule from the China center.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -104,3 +106,6 @@ Keep return arrangements flexible. Establish the review after the last dose, who
 ## SEO Metadata
 
 - **Primary keyword:** follicular lymphoma treatment duration
+
+- **Meta title:** Follicular Lymphoma Care in China: Treatment Timelines
+- **Meta description:** Understand follicular lymphoma observation, induction, maintenance and recovery timelines, and request a revisable care schedule from the China center.

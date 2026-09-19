@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Memilih rumah sakit di Tiongkok untuk limfoma sel T: pertanyaan tentang keahlian subtipe, patologi dan kesinambungan
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Limfoma Sel T
-- **Subtitle:** Sebelum membandingkan rumah sakit, jelaskan tujuan dalam satu kalimat: memastikan entitas patologis, memilih terapi awal, menangani kekambuhan atau menilai transplantasi.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Memilih rumah sakit di Tiongkok untuk limfoma sel T: pertanyaan tentang keahlian subtipe, patologi dan kesinambungan
+- **Subtitle:** Pilih rumah sakit limfoma sel T di Tiongkok berdasarkan subtipe dan tujuan konsultasi. Periksa tinjauan patologi, pengalaman tim, dan tindak lanjut.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ Jika gejala mendesak muncul saat rujukan dibandingkan, gunakan tim medis lokal s
 ## SEO Metadata
 
 - **Primary keyword:** rumah sakit limfoma sel T di Tiongkok
+
+- **Meta title:** Memilih rumah sakit di Tiongkok untuk limfoma sel T: pertanyaan tentang keahlian subtipe, patologi dan kesinambungan
+- **Meta description:** Pilih rumah sakit limfoma sel T di Tiongkok berdasarkan subtipe dan tujuan konsultasi. Periksa tinjauan patologi, pengalaman tim, dan tindak lanjut.

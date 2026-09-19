@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Coûts du traitement de la GVHD en Chine : établir un devis détaillé en RMB
 - **Category:** Guides des coûts et de l’assurance
 - **Subcategory:** Maladie du greffon contre l’hôte
-- **Subtitle:** Il n’existe pas de prix national unique pour traiter la maladie du greffon contre l’hôte.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Coûts du traitement de la GVHD en Chine : établir un devis détaillé en RMB
+- **Subtitle:** Construisez un devis de prise en charge de la maladie du greffon contre l’hôte en Chine : bilan, prescription, soins de soutien et suivi des organes atteints.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ Le résultat utile est un budget en RMB explicable, avec des incertitudes décla
 ## SEO Metadata
 
 - **Primary keyword:** coût du traitement de la GVHD en Chine
+
+- **Meta title:** Coûts du traitement de la GVHD en Chine : établir un devis détaillé en RMB
+- **Meta description:** Construisez un devis de prise en charge de la maladie du greffon contre l’hôte en Chine : bilan, prescription, soins de soutien et suivi des organes atteints.

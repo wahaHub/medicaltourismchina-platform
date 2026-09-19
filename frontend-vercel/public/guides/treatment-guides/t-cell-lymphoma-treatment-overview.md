@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Where T-cell lymphoma treatment begins: subtype, initial therapy, and care in China
 - **Category:** Treatment Guides
 - **Subcategory:** T Cell Lymphoma
-- **Subtitle:** After receiving a diagnosis of T-cell lymphoma, the first useful question is which disease that name describes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Where T-cell lymphoma treatment begins: subtype, initial therapy, and care in China
+- **Subtitle:** Understand how T-cell lymphoma subtype shapes initial care, and prepare the diagnostic evidence, treatment plan and support needed in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ After the first full discussion, you should be able to identify the subtype, the
 ## SEO Metadata
 
 - **Primary keyword:** T-cell lymphoma treatment
+
+- **Meta title:** Where T-cell lymphoma treatment begins: subtype, initial therapy, and care in China
+- **Meta description:** Understand how T-cell lymphoma subtype shapes initial care, and prepare the diagnostic evidence, treatment plan and support needed in China.

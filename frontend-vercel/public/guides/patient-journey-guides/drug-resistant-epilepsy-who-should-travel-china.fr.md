@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Une personne atteinte d’épilepsie pharmacorésistante devrait-elle se rendre en Chine pour des soins ?
 - **Category:** Guides du parcours patient
 - **Subcategory:** Épilepsie pharmacorésistante
-- **Subtitle:** Décider de se faire soigner en Chine implique deux questions liées : quelle valeur médicale supplémentaire l’orientation peut apporter, et si la personne peut accomplir le voyage et la continuité des soins sans danger.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Une personne atteinte d’épilepsie pharmacorésistante devrait-elle se rendre en Chine pour des soins ?
+- **Subtitle:** Évaluez un voyage pour épilepsie pharmacorésistante en Chine selon la question non résolue, l’avis sur dossier, la stabilité des crises et l’aptitude au vol.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -164,3 +166,6 @@ Les conseils sanitaires de destination pour la Chine peuvent compléter la prép
 ## SEO Metadata
 
 - **Primary keyword:** voyage en Chine pour traiter l’épilepsie pharmacorésistante ; aptitude au vol avec épilepsie ; orientation internationale en épileptologie ; revue à distance de dossiers d’épilepsie en Chine
+
+- **Meta title:** Une personne atteinte d’épilepsie pharmacorésistante devrait-elle se rendre en Chine pour des soins ?
+- **Meta description:** Évaluez un voyage pour épilepsie pharmacorésistante en Chine selon la question non résolue, l’avis sur dossier, la stabilité des crises et l’aptitude au vol.

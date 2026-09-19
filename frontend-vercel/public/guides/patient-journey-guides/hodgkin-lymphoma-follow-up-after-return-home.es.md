@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Volver a casa después del tratamiento del linfoma de Hodgkin en China: seguimiento que continúa a través de las fronteras
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Linfoma de Hodgkin
-- **Subtitle:** Volver a casa después del tratamiento del linfoma de Hodgkin en China puede traer alivio e incertidumbre al mismo tiempo.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Volver a casa después del tratamiento del linfoma de Hodgkin en China: seguimiento que continúa a través de las fronteras
+- **Subtitle:** Organice el seguimiento del linfoma de Hodgkin tras regresar de China con el tratamiento documentado, la evaluación de respuesta y un médico local responsable.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Después de cada visita importante, guarde los resultados completos y las próxi
 ## SEO Metadata
 
 - **Primary keyword:** seguimiento del linfoma de Hodgkin después del tratamiento en China
+
+- **Meta title:** Volver a casa después del tratamiento del linfoma de Hodgkin en China: seguimiento que continúa a través de las fronteras
+- **Meta description:** Organice el seguimiento del linfoma de Hodgkin tras regresar de China con el tratamiento documentado, la evaluación de respuesta y un médico local responsable.

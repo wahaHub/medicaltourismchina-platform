@@ -1,12 +1,14 @@
-# Rekam medis untuk rujukan anemia aplastik: membuat bukti dapat digunakan
+# Rekam Medis Anemia Aplastik untuk Rujukan ke Tiongkok
 
 ## Hero
 
-- **Title:** Rekam medis untuk rujukan anemia aplastik: membuat bukti dapat digunakan
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Anemia Aplastik
-- **Subtitle:** Berkas rujukan yang paling berguna menunjukkan bagaimana bukti saling berkaitan seiring waktu.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rekam Medis Anemia Aplastik untuk Rujukan ke Tiongkok
+- **Subtitle:** Siapkan rujukan anemia aplastik ke Tiongkok dengan kronologi, tren hitung darah, tanggal transfusi, laporan sumsum, dan riwayat pengobatan lengkap.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Untuk konsultasi, bawa daftar obat saat ini, hitung darah terbaru, dan keputusan
 ## SEO Metadata
 
 - **Primary keyword:** rekam medis anemia aplastik
+
+- **Meta title:** Rekam Medis Anemia Aplastik untuk Rujukan ke Tiongkok
+- **Meta description:** Siapkan rujukan anemia aplastik ke Tiongkok dengan kronologi, tren hitung darah, tanggal transfusi, laporan sumsum, dan riwayat pengobatan lengkap.

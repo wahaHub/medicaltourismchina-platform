@@ -1,12 +1,14 @@
-# Managing multiple myeloma treatment side effects: urgent symptoms and continuing care
+# Myeloma Treatment in China: Side Effects and Urgent Symptoms
 
 ## Hero
 
-- **Title:** Managing multiple myeloma treatment side effects: urgent symptoms and continuing care
 - **Category:** Treatment Guides
 - **Subcategory:** Multiple Myeloma
-- **Subtitle:** Managing adverse effects helps patients receive treatment under conditions they can tolerate.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Myeloma Treatment in China: Side Effects and Urgent Symptoms
+- **Subtitle:** Distinguish urgent myeloma treatment symptoms from problems for planned review, and coordinate monitoring and continuing care after a visit to China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ During treatment in China, confirm how the service coordinates infectious-diseas
 ## SEO Metadata
 
 - **Primary keyword:** multiple myeloma treatment side effects and supportive care in China
+
+- **Meta title:** Myeloma Treatment in China: Side Effects and Urgent Symptoms
+- **Meta description:** Distinguish urgent myeloma treatment symptoms from problems for planned review, and coordinate monitoring and continuing care after a visit to China.

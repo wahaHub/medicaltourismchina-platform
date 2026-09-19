@@ -1,12 +1,14 @@
-# Quand les symptômes de Parkinson s’aggravent à nouveau : épuisement de l’effet des doses, dégradation aiguë et prochaines étapes thérapeutiques
+# Aggravation des symptômes de Parkinson : préparer une réévaluation en Chine
 
 ## Hero
 
-- **Title:** Quand les symptômes de Parkinson s’aggravent à nouveau : épuisement de l’effet des doses, dégradation aiguë et prochaines étapes thérapeutiques
 - **Category:** Guides des traitements
 - **Subcategory:** Maladie de Parkinson
-- **Subtitle:** Une personne qui rejoignait auparavant seule la table à manger peut désormais avoir des difficultés chaque après-midi.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Aggravation des symptômes de Parkinson : préparer une réévaluation en Chine
+- **Subtitle:** Distinguez fluctuations quotidiennes et aggravation brutale de Parkinson pour préparer en Chine une revue des prises, de l’absorption et des facteurs déclenchants.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Gardez les informations d’urgence concises : diagnostic, horaires actuels des 
 ## SEO Metadata
 
 - **Primary keyword:** épuisement de l’effet des médicaments antiparkinsoniens
+
+- **Meta title:** Aggravation des symptômes de Parkinson : préparer une réévaluation en Chine
+- **Meta description:** Distinguez fluctuations quotidiennes et aggravation brutale de Parkinson pour préparer en Chine une revue des prises, de l’absorption et des facteurs déclenchants.

@@ -1,12 +1,14 @@
-# Efectos secundarios del tratamiento de la anemia aplásica: qué necesita revisión y qué requiere atención urgente
+# Atención de anemia aplásica en China: efectos secundarios y ayuda urgente
 
 ## Hero
 
-- **Title:** Efectos secundarios del tratamiento de la anemia aplásica: qué necesita revisión y qué requiere atención urgente
 - **Category:** Guías de tratamiento
 - **Subcategory:** Anemia aplásica
-- **Subtitle:** Cuando aparecen síntomas durante el tratamiento, los pacientes necesitan saber si comentarlos en la revisión o buscar ayuda ahora.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Atención de anemia aplásica en China: efectos secundarios y ayuda urgente
+- **Subtitle:** Reconozca efectos del tratamiento de anemia aplásica y qué cambios requieren revisión o ayuda urgente durante la atención en China, incluidos controles y transfusiones.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Separe en un presupuesto en renminbi la terapia rutinaria de posibles pruebas ad
 ## SEO Metadata
 
 - **Primary keyword:** efectos secundarios del tratamiento de la anemia aplásica
+
+- **Meta title:** Atención de anemia aplásica en China: efectos secundarios y ayuda urgente
+- **Meta description:** Reconozca efectos del tratamiento de anemia aplásica y qué cambios requieren revisión o ayuda urgente durante la atención en China, incluidos controles y transfusiones.

@@ -1,12 +1,14 @@
-# Comprendre un compte rendu de réadaptation après AVC : imagerie, scores et besoins d’assistance
+# Comptes rendus de réadaptation après AVC : préparer une réévaluation en Chine
 
 ## Hero
 
-- **Title:** Comprendre un compte rendu de réadaptation après AVC : imagerie, scores et besoins d’assistance
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Réadaptation après un AVC ischémique
-- **Subtitle:** Un compte rendu de réadaptation après AVC peut contenir NIHSS, Fugl-Meyer, Barthel, Berg et plusieurs autres abréviations.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Comptes rendus de réadaptation après AVC : préparer une réévaluation en Chine
+- **Subtitle:** Reliez imagerie, scores de déficit et autonomie après AVC pour préparer une réévaluation des besoins de réadaptation et d’assistance en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Préservez le compte rendu original complet et créez une note distincte en lang
 ## SEO Metadata
 
 - **Primary keyword:** explication du compte rendu d’évaluation de réadaptation après AVC
+
+- **Meta title:** Comptes rendus de réadaptation après AVC : préparer une réévaluation en Chine
+- **Meta description:** Reliez imagerie, scores de déficit et autonomie après AVC pour préparer une réévaluation des besoins de réadaptation et d’assistance en Chine.

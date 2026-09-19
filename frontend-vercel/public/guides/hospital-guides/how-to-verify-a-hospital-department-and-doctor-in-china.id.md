@@ -1,15 +1,17 @@
-# 097 Cara Memverifikasi Rumah Sakit, Departemen, dan Dokter di Tiongkok
+# Memverifikasi Rumah Sakit, Departemen, dan Dokter di Tiongkok
 
 ## Hero
 
-- **Title:** Cara Memverifikasi Rumah Sakit, Departemen, dan Dokter di Tiongkok
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Verifikasi Penyedia Layanan
-- **Subtitle:** Periksa tiga identitas secara terpisah, lalu pastikan lokasi rumah sakit dan tim yang tepat dapat memberikan perawatan yang diusulkan.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustrasi konseptual pasien internasional yang meninjau simbol rumah sakit, dokter, dan keselamatan bersama koordinator rumah sakit; buklet tersebut bukan kredensial resmi.
+
+
+- **Title:** Memverifikasi Rumah Sakit, Departemen, dan Dokter di Tiongkok
+- **Subtitle:** Verifikasi izin dan lokasi rumah sakit Tiongkok, lingkup departemen, registrasi dan penunjukan dokter, otorisasi prosedur, tinjauan rekam medis, pembayaran, dan jalur komunikasi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -206,11 +208,13 @@ Jawaban bertanggal melalui jalur rumah sakit yang menyebut klinisi, rekam medis 
 ## SEO Metadata
 
 - **Slug:** `how-to-verify-a-hospital-department-and-doctor-in-china`
-- **Meta title:** Verifikasi Rumah Sakit, Departemen, dan Dokter Tiongkok
-- **Meta description:** Verifikasi izin dan lokasi rumah sakit Tiongkok, lingkup departemen, registrasi dan penunjukan dokter, otorisasi prosedur, tinjauan rekam medis, pembayaran, dan jalur komunikasi.
 - **Primary keyword:** verifikasi rumah sakit dan dokter di Tiongkok
 - **Secondary keywords:** pemeriksaan registrasi dokter Tiongkok; izin rumah sakit Tiongkok; verifikasi lokasi rumah sakit; otorisasi ahli bedah Tiongkok; verifikasi rumah sakit pasien internasional
 - **Search intent:** verifikasi identitas dan kemampuan penyedia layanan
+
+
+- **Meta title:** Memverifikasi Rumah Sakit, Departemen, dan Dokter di Tiongkok
+- **Meta description:** Verifikasi izin dan lokasi rumah sakit Tiongkok, lingkup departemen, registrasi dan penunjukan dokter, otorisasi prosedur, tinjauan rekam medis, pembayaran, dan jalur komunikasi.
 
 ## Sumber
 

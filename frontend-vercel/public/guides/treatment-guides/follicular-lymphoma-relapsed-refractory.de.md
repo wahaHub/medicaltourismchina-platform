@@ -1,12 +1,14 @@
-# Rezidiviertes oder refraktäres follikuläres Lymphom: Veränderungen bestätigen, bevor die nächste Therapielinie gewählt wird
+# Rezidiviertes follikuläres Lymphom in China: Beurteilung und Folgetherapie
 
 ## Hero
 
-- **Title:** Rezidiviertes oder refraktäres follikuläres Lymphom: Veränderungen bestätigen, bevor die nächste Therapielinie gewählt wird
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Follikuläres Lymphom
-- **Subtitle:** Wird nach der Behandlung erneut ein Lymphknoten gefunden, erfordert dies nicht automatisch eine Wiederholung des bisherigen Schemas und bedeutet nicht, dass hilfreiche Optionen ausgeschöpft sind.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rezidiviertes follikuläres Lymphom in China: Beurteilung und Folgetherapie
+- **Subtitle:** Rezidiviertes follikuläres Lymphom in China beurteilen: Progression, erneute Biopsie, Beobachtung und Folgetherapie anhand der bisherigen Behandlung besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Erstellen Sie eine datierte Vorgeschichte früherer Behandlungszyklen und aktuel
 ## SEO Metadata
 
 - **Primary keyword:** rezidiviertes refraktäres follikuläres Lymphom Behandlung
+
+- **Meta title:** Rezidiviertes follikuläres Lymphom in China: Beurteilung und Folgetherapie
+- **Meta description:** Rezidiviertes follikuläres Lymphom in China beurteilen: Progression, erneute Biopsie, Beobachtung und Folgetherapie anhand der bisherigen Behandlung besprechen.

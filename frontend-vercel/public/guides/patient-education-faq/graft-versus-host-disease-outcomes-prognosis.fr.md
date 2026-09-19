@@ -1,12 +1,14 @@
-# Récupération et pronostic après une GVH : comprendre la réponse, le temps sans traitement et les capacités quotidiennes
+# Récupération et pronostic de la GVH : questions pour une évaluation en Chine
 
 ## Hero
 
-- **Title:** Récupération et pronostic après une GVH : comprendre la réponse, le temps sans traitement et les capacités quotidiennes
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Maladie du greffon contre l’hôte
-- **Subtitle:** « Vais-je me rétablir ? » peut avoir plusieurs sens pour une personne vivant avec une maladie du greffon contre l’hôte.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Récupération et pronostic de la GVH : questions pour une évaluation en Chine
+- **Subtitle:** Distinguez réponse au traitement, survie et capacités quotidiennes après une maladie du greffon contre l’hôte pour préparer une évaluation en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -136,3 +138,6 @@ Les perspectives peuvent changer à mesure qu’évoluent le contrôle des organ
 ## SEO Metadata
 
 - **Primary keyword:** pronostic et résultats thérapeutiques de la GVH
+
+- **Meta title:** Récupération et pronostic de la GVH : questions pour une évaluation en Chine
+- **Meta description:** Distinguez réponse au traitement, survie et capacités quotidiennes après une maladie du greffon contre l’hôte pour préparer une évaluation en Chine.

@@ -1,12 +1,14 @@
-# Wiederkehrende Schmerzen trotz Sichelzellbehandlung: Erneute Beurteilung und nächste Schritte
+# Schmerzen trotz Sichelzellbehandlung: Neubewertung in China
 
 ## Hero
 
-- **Title:** Wiederkehrende Schmerzen trotz Sichelzellbehandlung: Erneute Beurteilung und nächste Schritte
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Sichelzellkrankheit
-- **Subtitle:** Medikamente gewissenhaft einzunehmen und Nachsorgetermine wahrzunehmen, aber dennoch wegen Schmerzen wieder ins Krankenhaus zu müssen, kann jede Anstrengung sinnlos erscheinen lassen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Schmerzen trotz Sichelzellbehandlung: Neubewertung in China
+- **Subtitle:** Schmerzen trotz Sichelzellbehandlung für eine Neubewertung in China dokumentieren: verändertes Muster, tatsächliche Medikation und mögliche strukturelle Ursachen prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -131,3 +133,6 @@ Der Besuch sollte einen kurzfristigen Handlungsplan ergeben: Welches Problem wir
 ## SEO Metadata
 
 - **Primary keyword:** wiederkehrende Sichelzellkrisen trotz Behandlung
+
+- **Meta title:** Schmerzen trotz Sichelzellbehandlung: Neubewertung in China
+- **Meta description:** Schmerzen trotz Sichelzellbehandlung für eine Neubewertung in China dokumentieren: verändertes Muster, tatsächliche Medikation und mögliche strukturelle Ursachen prüfen.

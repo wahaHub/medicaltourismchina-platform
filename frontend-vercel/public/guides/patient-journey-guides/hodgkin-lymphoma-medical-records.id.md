@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Rekam medis untuk konsultasi limfoma Hodgkin di Tiongkok: patologi, citra PET, dan pengobatan yang benar-benar diberikan
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Limfoma Hodgkin
-- **Subtitle:** Kesulitan rekam medis untuk konsultasi limfoma Hodgkin sering terletak pada hubungan antardokumen, bukan jumlah berkasnya.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rekam medis untuk konsultasi limfoma Hodgkin di Tiongkok: patologi, citra PET, dan pengobatan yang benar-benar diberikan
+- **Subtitle:** Siapkan konsultasi limfoma Hodgkin di Tiongkok dengan patologi lengkap, bahan biopsi, gambar PET, serta catatan terapi yang benar-benar diberikan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,3 +146,6 @@ Rekam medis harus memungkinkan dokter berikutnya memastikan dasar diagnosis, apa
 ## SEO Metadata
 
 - **Primary keyword:** rekam medis untuk konsultasi limfoma Hodgkin di Tiongkok
+
+- **Meta title:** Rekam medis untuk konsultasi limfoma Hodgkin di Tiongkok: patologi, citra PET, dan pengobatan yang benar-benar diberikan
+- **Meta description:** Siapkan konsultasi limfoma Hodgkin di Tiongkok dengan patologi lengkap, bahan biopsi, gambar PET, serta catatan terapi yang benar-benar diberikan.

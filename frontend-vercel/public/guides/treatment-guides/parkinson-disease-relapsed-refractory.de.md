@@ -1,12 +1,14 @@
-# Wenn Parkinson-Symptome erneut zunehmen: Wearing-off, akute Verschlechterung und nächste Behandlungsschritte
+# Zunehmende Parkinson-Symptome: Vorbereitung auf eine Beurteilung in China
 
 ## Hero
 
-- **Title:** Wenn Parkinson-Symptome erneut zunehmen: Wearing-off, akute Verschlechterung und nächste Behandlungsschritte
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Parkinson-Krankheit
-- **Subtitle:** Ein Mensch, der früher selbstständig zum Esstisch gelangte, hat jetzt vielleicht jeden Nachmittag damit Schwierigkeiten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Zunehmende Parkinson-Symptome: Vorbereitung auf eine Beurteilung in China
+- **Subtitle:** Zunehmende Parkinson-Symptome für eine Beurteilung in China erfassen: akute Veränderungen, nachlassende Dosiswirkung, Aufnahmeprobleme und Gerätefunktion prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Halten Sie Notfallinformationen knapp: Diagnose, aktuelle Medikamentenzeiten, Al
 ## SEO Metadata
 
 - **Primary keyword:** nachlassende Wirkung der Parkinson-Medikation
+
+- **Meta title:** Zunehmende Parkinson-Symptome: Vorbereitung auf eine Beurteilung in China
+- **Meta description:** Zunehmende Parkinson-Symptome für eine Beurteilung in China erfassen: akute Veränderungen, nachlassende Dosiswirkung, Aufnahmeprobleme und Gerätefunktion prüfen.

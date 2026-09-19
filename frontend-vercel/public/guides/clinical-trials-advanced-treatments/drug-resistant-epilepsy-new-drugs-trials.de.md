@@ -1,12 +1,14 @@
-# Neue Behandlungen und klinische Studien bei pharmakoresistenter Epilepsie: Entwicklungen von 2026 einordnen
+# Pharmakoresistente Epilepsie: Neue Behandlungen und Studien in China
 
 ## Hero
 
-- **Title:** Neue Behandlungen und klinische Studien bei pharmakoresistenter Epilepsie: Entwicklungen von 2026 einordnen
 - **Category:** Klinische Studien & fortgeschrittene Behandlungen
 - **Subcategory:** Pharmakoresistente Epilepsie
-- **Subtitle:** Eine eindrucksvolle Zahl in einer Meldung über eine neue Behandlung beantwortet nicht, ob diese Behandlung zu einem einzelnen Patienten passt.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pharmakoresistente Epilepsie: Neue Behandlungen und Studien in China
+- **Subtitle:** Neue Therapien bei pharmakoresistenter Epilepsie in China beurteilen: Zulassung und Forschung unterscheiden, passende Anfallsformen und Teilnahmebedingungen prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Bringen Sie zur Beratung in China relevante persönliche Unterlagen und Original
 ## SEO Metadata
 
 - **Primary keyword:** neue Behandlungen bei pharmakoresistenter Epilepsie; klinische Epilepsiestudien; Azetukalner; Zorevunersen; Epilepsieforschung in China
+
+- **Meta title:** Pharmakoresistente Epilepsie: Neue Behandlungen und Studien in China
+- **Meta description:** Neue Therapien bei pharmakoresistenter Epilepsie in China beurteilen: Zulassung und Forschung unterscheiden, passende Anfallsformen und Teilnahmebedingungen prüfen.

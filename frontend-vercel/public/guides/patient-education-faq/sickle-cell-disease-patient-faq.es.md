@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** 20 preguntas sobre enfermedad de células falciformes: medicamentos, transfusión, terapia génica y atención en China
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedad de células falciformes
-- **Subtitle:** Las preguntas sobre enfermedad de células falciformes suelen surgir de situaciones cotidianas: un niño tiene poco dolor pero le ofrecen medicación preventiva; los síntomas empeoran tras transfusión; o un anuncio de terapia génica hace que una familia se pregunte si debe viajar inmediatamente.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** 20 preguntas sobre enfermedad de células falciformes: medicamentos, transfusión, terapia génica y atención en China
+- **Subtitle:** Prepare su consulta sobre enfermedad falciforme en China con preguntas sobre hidroxiurea, transfusiones, terapia génica y continuidad de los cuidados.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -157,3 +159,6 @@ Escriba primero la pregunta principal y luego reúna evidencia del genotipo, med
 ## SEO Metadata
 
 - **Primary keyword:** preguntas frecuentes de pacientes sobre enfermedad de células falciformes
+
+- **Meta title:** 20 preguntas sobre enfermedad de células falciformes: medicamentos, transfusión, terapia génica y atención en China
+- **Meta description:** Prepare su consulta sobre enfermedad falciforme en China con preguntas sobre hidroxiurea, transfusiones, terapia génica y continuidad de los cuidados.

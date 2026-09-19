@@ -1,15 +1,17 @@
-# Pengembalian Dana Adalah Alur Kerja: Batalkan Perjalanan Medis Tanpa Kehilangan Jejak Dokumen
+# Perjalanan Medis ke Tiongkok: Pengembalian Dana dan Pembatalan
 
 ## Hero
 
-- **Title:** Pengembalian Dana Adalah Alur Kerja: Batalkan Perjalanan Medis Tanpa Kehilangan Jejak Dokumen
 - **Category:** Panduan Biaya & Asuransi
 - **Subcategory:** Risiko & Perlindungan Keuangan
-- **Subtitle:** Pisahkan kontrak rumah sakit, fasilitator, penerbangan, dan penginapan; klasifikasikan alasan rencana terhenti; dan lacak setiap jumlah yang dapat dikembalikan dari pemberitahuan hingga penerimaan di bank.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Pasien internasional meninjau dokumen pembatalan dan perhitungan bersama administrator perjalanan medis di samping koper yang telah dikemas
+
+
+- **Title:** Perjalanan Medis ke Tiongkok: Pengembalian Dana dan Pembatalan
+- **Subtitle:** Petakan kebijakan rumah sakit, penerbangan, dan penginapan, klasifikasikan alasan perawatan terhenti, hitung pemotongan, dan lacak pengembalian dana perjalanan medis Tiongkok hingga masuk bank.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -187,13 +189,15 @@ Dapatkan jumlah disetujui, mata uang, tanggal pelepasan, tujuan, dan pelacakan p
 ## SEO Metadata
 
 - **Slug:** `refund-and-cancellation-policies-for-medical-travel`
-- **Meta title:** Pengembalian Dana Perjalanan Medis: Panduan Pembatalan dan Pelacakan
-- **Meta description:** Petakan kebijakan rumah sakit, penerbangan, dan penginapan, klasifikasikan alasan perawatan terhenti, hitung pemotongan, dan lacak pengembalian dana perjalanan medis Tiongkok hingga masuk bank.
 - **Primary keyword:** kebijakan pengembalian dana perjalanan medis
 - **Pillar keyword:** biaya pengobatan medis di Tiongkok
 - **Vertical keyword:** membatalkan perjalanan pengobatan medis Tiongkok
 - **Search intent:** perencanaan pembatalan / pemulihan pengembalian dana
 - **Secondary keywords:** pengembalian deposit rumah sakit Tiongkok; pembatalan perjalanan medis; pembatalan medis maskapai; pengembalian dana pasien internasional; pembayaran di muka pengobatan
+
+
+- **Meta title:** Perjalanan Medis ke Tiongkok: Pengembalian Dana dan Pembatalan
+- **Meta description:** Petakan kebijakan rumah sakit, penerbangan, dan penginapan, klasifikasikan alasan perawatan terhenti, hitung pemotongan, dan lacak pengembalian dana perjalanan medis Tiongkok hingga masuk bank.
 
 ## Sumber
 

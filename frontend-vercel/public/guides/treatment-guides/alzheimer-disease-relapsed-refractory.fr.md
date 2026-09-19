@@ -1,12 +1,14 @@
-# Maladie d’Alzheimer qui s’aggrave malgré le traitement : quelle doit être la suite ?
+# Aggravation d’Alzheimer : préparer une réévaluation en Chine
 
 ## Hero
 
-- **Title:** Maladie d’Alzheimer qui s’aggrave malgré le traitement : quelle doit être la suite ?
 - **Category:** Guides des traitements
 - **Subcategory:** Maladie d’Alzheimer
-- **Subtitle:** Lorsque la mémoire ou les capacités quotidiennes continuent de décliner sous traitement, les familles peuvent se demander si la maladie a rechuté, est devenue résistante ou nécessite immédiatement un médicament plus puissant.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Aggravation d’Alzheimer : préparer une réévaluation en Chine
+- **Subtitle:** Distinguez changement brutal et déclin progressif d’Alzheimer. Préparez une réévaluation en Chine des symptômes, médicaments et conditions de vie.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ Trouver un autre médicament n’est qu’une réponse possible. Une réévaluat
 ## SEO Metadata
 
 - **Primary keyword:** maladie d’Alzheimer qui s’aggrave malgré le traitement
+
+- **Meta title:** Aggravation d’Alzheimer : préparer une réévaluation en Chine
+- **Meta description:** Distinguez changement brutal et déclin progressif d’Alzheimer. Préparez une réévaluation en Chine des symptômes, médicaments et conditions de vie.

@@ -1,12 +1,14 @@
-# Rayonnements et procédures interventionnelles dans la sclérose en plaques : choisir une cible thérapeutique précise
+# Procédures interventionnelles pour la SEP en Chine : cibles et limites
 
 ## Hero
 
-- **Title:** Rayonnements et procédures interventionnelles dans la sclérose en plaques : choisir une cible thérapeutique précise
 - **Category:** Guides des traitements
 - **Subcategory:** Sclérose en plaques
-- **Subtitle:** Un compte rendu d’IRM montrant plusieurs lésions cérébrales peut donner l’impression que des rayonnements ciblés constituent une solution directe.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Procédures interventionnelles pour la SEP en Chine : cibles et limites
+- **Subtitle:** Distinguez les interventions ciblant douleur, spasticité, vessie ou marche dans la sclérose en plaques pour discuter de leur utilité et de leurs limites en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ La décision de voyager doit reposer sur la faisabilité du parcours complet : s
 ## SEO Metadata
 
 - **Primary keyword:** radiothérapie et traitement interventionnel de la sclérose en plaques
+
+- **Meta title:** Procédures interventionnelles pour la SEP en Chine : cibles et limites
+- **Meta description:** Distinguez les interventions ciblant douleur, spasticité, vessie ou marche dans la sclérose en plaques pour discuter de leur utilité et de leurs limites en Chine.

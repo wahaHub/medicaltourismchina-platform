@@ -1,15 +1,17 @@
-# Choosing a Hospital in Wuhan: Four Clocks Across the Three Towns
+# Choosing a Hospital in China: Wuhan Campuses and Travel
 
 ## Hero
 
-- **Title:** Choosing a Hospital in Wuhan: Four Clocks Across the Three Towns
 - **Category:** Hospital Guides
 - **Subcategory:** Wuhan Care Planning
-- **Subtitle:** Keep the clinical, specimen, city, and recovery clocks aligned while confirming the exact team and campus across Wuhan.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Conceptual illustration of international patients planning hospital care in Wuhan; the river, bridge, tower, train and hospital are not a real campus-and-route combination or endorsement.
+
+
+- **Title:** Choosing a Hospital in China: Wuhan Campuses and Travel
+- **Subtitle:** Choose a Wuhan hospital by aligning clinical, specimen, travel, and recovery timing across exact campuses, three-town geography, rail and airport gateways, language, insurance, and emergency care.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -191,13 +193,15 @@ Not while medically unstable. Call 120 and use the locally appropriate emergency
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-wuhan-specialties-access-and-travel`
-- **Meta title:** Choosing a Wuhan Hospital: Campuses, Stations, and Four Clocks
-- **Meta description:** Choose a Wuhan hospital by aligning clinical, specimen, travel, and recovery timing across exact campuses, three-town geography, rail and airport gateways, language, insurance, and emergency care.
 - **Primary keyword:** choosing a hospital in Wuhan
 - **Pillar keyword:** Wuhan hospitals for international patients
 - **Vertical keyword:** Wuhan hospital campuses travel access
 - **Search intent:** hospital comparison / Wuhan medical travel planning
 - **Secondary keywords:** Wuhan international medical centre; Wuhan hospital campus; Wuhan Station hospital travel; Hankou hospital; Wuchang hospital; Wuhan 120
+
+
+- **Meta title:** Choosing a Hospital in China: Wuhan Campuses and Travel
+- **Meta description:** Choose a Wuhan hospital by aligning clinical, specimen, travel, and recovery timing across exact campuses, three-town geography, rail and airport gateways, language, insurance, and emergency care.
 
 ## Sources
 

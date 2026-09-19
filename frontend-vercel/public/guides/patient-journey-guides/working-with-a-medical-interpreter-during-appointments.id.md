@@ -1,15 +1,17 @@
-# 135 Juru Bahasa Medis dalam Janji Konsultasi: Pertahankan Percakapan antara Pasien dan Klinisi
+# Menggunakan Juru Bahasa Medis di Tiongkok | Panduan Janji Konsultasi
 
 ## Hero
 
-- **Title:** Juru Bahasa Medis dalam Janji Konsultasi: Pertahankan Percakapan antara Pasien dan Klinisi
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Konsultasi dengan Juru Bahasa dan Keselamatan Komunikasi
-- **Subtitle:** Kunjungan dengan interpretasi yang baik bukan tiga percakapan terpisah. Pasien dan klinisi saling berbicara sementara juru bahasa menyampaikan setiap pertanyaan, kualifikasi, angka, dan ketidakpastian lintas bahasa.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Ilustrasi editorial pasien dan pendamping berbicara dengan klinisi melalui juru bahasa yang duduk; perannya konseptual dan tidak mengidentifikasi rumah sakit atau individu nyata.
+
+
+- **Title:** Menggunakan Juru Bahasa Medis di Tiongkok | Panduan Janji Konsultasi
+- **Subtitle:** Kunjungan dengan interpretasi yang baik bukan tiga percakapan terpisah. Pasien dan klinisi saling berbicara sementara juru bahasa menyampaikan setiap pertanyaan, kualifikasi, angka, dan ketidakpastian lintas bahasa.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -183,13 +185,15 @@ Jelaskan kembali diagnosis kerja, perubahan obat, tindakan berikutnya, tanggal, 
 ## SEO Metadata
 
 - **Slug:** `working-with-a-medical-interpreter-during-appointments`
-- **Meta title:** Menggunakan Juru Bahasa Medis di Tiongkok | Panduan Janji Konsultasi
-- **Meta description:** Jalani janji medis dengan interpretasi melalui peran jelas, giliran singkat, pembicara berlabel, pemeriksaan ulang obat, penjelasan kembali, dan catatan keputusan tertulis.
 - **Primary keyword:** janji juru bahasa medis Tiongkok
 - **Pillar keyword:** perjalanan medis ke Tiongkok
 - **Vertical keyword:** konsultasi medis dengan interpretasi
 - **Search intent:** persiapan janji / keselamatan komunikasi
 - **Secondary keywords:** juru bahasa layanan kesehatan Tiongkok; janji interpretasi medis; penjelasan kembali melalui juru bahasa; persetujuan medis terjemahan; komunikasi pasien internasional
+
+
+- **Meta title:** Menggunakan Juru Bahasa Medis di Tiongkok | Panduan Janji Konsultasi
+- **Meta description:** Jalani janji medis dengan interpretasi melalui peran jelas, giliran singkat, pembicara berlabel, pemeriksaan ulang obat, penjelasan kembali, dan catatan keputusan tertulis.
 
 ## Sumber
 
@@ -199,4 +203,3 @@ Jelaskan kembali diagnosis kerja, perubahan obat, tindakan berikutnya, tanggal, 
 4. [Departemen Kesehatan dan Layanan Kemanusiaan AS — Penggunaan Keluarga atau Teman sebagai Juru Bahasa](https://www.hhs.gov/civil-rights/for-individuals/faqs/may-an-lep-person-use-a-family-member-as-an-interpreter/709/index.html)
 5. [Komisi Kesehatan Nasional — Peraturan Pencegahan dan Penanganan Sengketa Medis](https://www.nhc.gov.cn/wjw/xwdt/201808/b2b4ee8f65534257a998b5f5ba938701.shtml)
 6. [Badan Penelitian dan Mutu Layanan Kesehatan — Alat Menjelaskan Kembali](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/teachback.html)
-

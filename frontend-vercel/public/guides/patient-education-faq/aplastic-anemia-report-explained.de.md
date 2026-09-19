@@ -1,12 +1,14 @@
-# Einen Befund zur aplastischen Anämie verstehen: Hypozellularität, PNH-Klone und genetische Befunde
+# Befunde zur aplastischen Anämie: Vorbereitung auf eine Prüfung in China
 
 ## Hero
 
-- **Title:** Einen Befund zur aplastischen Anämie verstehen: Hypozellularität, PNH-Klone und genetische Befunde
 - **Category:** Patienteninformation und häufige Fragen
 - **Subcategory:** Aplastische Anämie
-- **Subtitle:** Mehrere auffällige Angaben in einem Befund bedeuten nicht unbedingt mehrere neue Erkrankungen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Befunde zur aplastischen Anämie: Vorbereitung auf eine Prüfung in China
+- **Subtitle:** Befunde zur aplastischen Anämie für China ordnen: Blutbildverlauf, Knochenmarkzellgehalt, Genetik, PNH-Klone und Medikamentenkontrollen im Kontext lesen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Der Zeitplan sollte Materialeingang, Schnittbegutachtung, zusätzliche Untersuch
 ## SEO Metadata
 
 - **Primary keyword:** Befund zur aplastischen Anämie erklärt
+
+- **Meta title:** Befunde zur aplastischen Anämie: Vorbereitung auf eine Prüfung in China
+- **Meta description:** Befunde zur aplastischen Anämie für China ordnen: Blutbildverlauf, Knochenmarkzellgehalt, Genetik, PNH-Klone und Medikamentenkontrollen im Kontext lesen.

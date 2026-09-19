@@ -1,15 +1,17 @@
-# 085 Klaim Pengobatan Regeneratif: Pertanyaan yang Perlu Diajukan Pasien
+# Pengobatan Regeneratif di Tiongkok: Sembilan Pertanyaan untuk Diajukan
 
 ## Hero
 
-- **Title:** Klaim Pengobatan Regeneratif: Pertanyaan yang Perlu Diajukan Pasien
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Kedokteran Sel, Gen & Regeneratif
-- **Subtitle:** Ubah kata seperti “memperbaiki”, “meremajakan”, dan “mengaktifkan penyembuhan” menjadi pertanyaan tepat tentang produk, persetujuan, bukti, luaran, risiko, dan kepentingan finansial.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Perlu penggantian: seorang pasien dan klinisi independen membandingkan identitas, jalur regulasi, bukti klinis, dan risiko beberapa produk pengobatan regeneratif.
+
+
+- **Title:** Pengobatan Regeneratif di Tiongkok: Sembilan Pertanyaan untuk Diajukan
+- **Subtitle:** Uji klaim pengobatan regeneratif melalui identitas produk, luaran terukur, kewenangan Tiongkok, bukti klinis, mutu, risiko, konflik, dan catatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -173,11 +175,13 @@ Pengumpulan, perbanyakan, diferensiasi, pengujian kontaminasi, atau pelulusan da
 ## SEO Metadata
 
 - **Slug:** `regenerative-medicine-claims-questions-patients-should-ask`
-- **Meta title:** Klaim Pengobatan Regeneratif: Sembilan Pertanyaan untuk Diajukan
-- **Meta description:** Uji klaim pengobatan regeneratif melalui identitas produk, luaran terukur, kewenangan Tiongkok, bukti klinis, mutu, risiko, konflik, dan catatan.
 - **Primary keyword:** klaim pengobatan regeneratif
 - **Secondary keywords:** pengobatan regeneratif Tiongkok; klaim pengobatan eksosom; PRP sel punca; pemasaran terapi sel; pertanyaan pengobatan regeneratif
 - **Search intent:** verifikasi klaim / uji tuntas pengobatan
+
+
+- **Meta title:** Pengobatan Regeneratif di Tiongkok: Sembilan Pertanyaan untuk Diajukan
+- **Meta description:** Uji klaim pengobatan regeneratif melalui identitas produk, luaran terukur, kewenangan Tiongkok, bukti klinis, mutu, risiko, konflik, dan catatan.
 
 ## Sumber
 

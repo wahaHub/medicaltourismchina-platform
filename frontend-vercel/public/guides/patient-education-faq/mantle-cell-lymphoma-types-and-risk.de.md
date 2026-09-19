@@ -1,12 +1,14 @@
-# Formen und Risiko des Mantelzelllymphoms: Indolentes Verhalten, Hochrisikobiologie und Stadium verstehen
+# Formen und Risiken des Mantelzelllymphoms: Befundprüfung in China
 
 ## Hero
 
-- **Title:** Formen und Risiko des Mantelzelllymphoms: Indolentes Verhalten, Hochrisikobiologie und Stadium verstehen
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Mantelzelllymphom
-- **Subtitle:** Verwandte Suchbegriffe: indolentes MCL; Hochrisiko-Mantelzelllymphom; MCL-Risikobeurteilung in China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Formen und Risiken des Mantelzelllymphoms: Befundprüfung in China
+- **Subtitle:** Mantelzelllymphom vor einer Befundprüfung in China einordnen: indolenten Verlauf, TP53, Zellwachstum, Stadium und klinische Risikowerte unterscheiden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Das Gespräch sollte mit einer Handlung enden: einen definierten Überwachungspl
 ## SEO Metadata
 
 - **Primary keyword:** Formen und Risiko des Mantelzelllymphoms
+
+- **Meta title:** Formen und Risiken des Mantelzelllymphoms: Befundprüfung in China
+- **Meta description:** Mantelzelllymphom vor einer Befundprüfung in China einordnen: indolenten Verlauf, TP53, Zellwachstum, Stadium und klinische Risikowerte unterscheiden.

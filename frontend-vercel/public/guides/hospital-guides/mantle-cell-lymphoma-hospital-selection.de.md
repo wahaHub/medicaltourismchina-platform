@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Ein Krankenhaus in China für Mantelzelllymphom auswählen: Fachärztliche Beurteilung und Versorgungskontinuität
 - **Category:** Krankenhausratgeber
 - **Subcategory:** Mantelzelllymphom
-- **Subtitle:** Patienten beginnen die Auswahl eines MCL-Krankenhauses oft mit einem Vergleich des Rufs, bevor sie die Frage festlegen, die der Besuch klären soll.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Ein Krankenhaus in China für Mantelzelllymphom auswählen: Fachärztliche Beurteilung und Versorgungskontinuität
+- **Subtitle:** Ein Zentrum für Mantelzelllymphom in China beurteilen: Pathologie, Therapieintensität, Zelltherapie, Arzneimittelüberwachung und Versorgungskontinuität vergleichen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Bei unterschiedlichen Meinungen klären Sie, ob beide Teams dieselben Unterlagen
 ## SEO Metadata
 
 - **Primary keyword:** Krankenhäuser für Mantelzelllymphom in China
+
+- **Meta title:** Ein Krankenhaus in China für Mantelzelllymphom auswählen: Fachärztliche Beurteilung und Versorgungskontinuität
+- **Meta description:** Ein Zentrum für Mantelzelllymphom in China beurteilen: Pathologie, Therapieintensität, Zelltherapie, Arzneimittelüberwachung und Versorgungskontinuität vergleichen.

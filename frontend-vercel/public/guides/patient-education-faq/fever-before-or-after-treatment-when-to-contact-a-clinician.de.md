@@ -1,15 +1,17 @@
-# Fieber vor oder nach einer Behandlung: Der Messwert zählt, doch der Zusammenhang bestimmt die Dringlichkeit
+# Fieber nach einer Behandlung in China: Wann dringend Hilfe nötig ist
 
 ## Hero
 
-- **Title:** Fieber vor oder nach einer Behandlung: Der Messwert zählt, doch der Zusammenhang bestimmt die Dringlichkeit
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Symptome und dringliche Versorgung
-- **Subtitle:** Ein sicherheitsorientierter Ratgeber zum Temperaturmessen, zum Erkennen von Behandlungsphasen mit hohem Risiko, zur Mitteilung der richtigen Angaben und dazu, wann Sie nicht auf einen Rückruf warten sollten.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Geplantes Ersatzbild eines Patienten, der ein Thermometer abliest und das Behandlungsteam kontaktiert, mit Warnhinweisen im Zusammenhang mit Chemotherapie und der Zeit nach einer Operation
+
+
+- **Title:** Fieber nach einer Behandlung in China: Wann dringend Hilfe nötig ist
+- **Subtitle:** Erfahren Sie, wann Fieber nach Chemotherapie, Operation, Infusion oder Transfusion einen sofortigen Anruf, Notfallversorgung und eine klare Behandlungsübergabe erfordert.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -175,13 +177,15 @@ Nutzen Sie den 24-Stunden-Kontaktweg des behandelnden Krankenhauses, falls vorha
 ## SEO Metadata
 
 - **Slug:** `fever-before-or-after-treatment-when-to-contact-a-clinician`
-- **Meta title:** Fieber nach der Behandlung: Wann anrufen oder die Notfallversorgung aufsuchen
-- **Meta description:** Erfahren Sie, wann Fieber nach Chemotherapie, Operation, Infusion oder Transfusion einen sofortigen Anruf, Notfallversorgung und eine klare Behandlungsübergabe erfordert.
 - **Primary keyword:** Fieber nach Behandlung wann Arzt anrufen
 - **Pillar keyword:** Patientensicherheit bei medizinischen Reisen
 - **Vertical keyword:** Fieber nach Chemotherapie oder Operation
 - **Search intent:** dringliche Patientenaufklärung
 - **Secondary keywords:** Chemotherapie Fieber 38 C; postoperative Fieberwarnzeichen; Fieber nach Infusion; neutropenisches Fieber; Fieber nach Bluttransfusion
+
+
+- **Meta title:** Fieber nach einer Behandlung in China: Wann dringend Hilfe nötig ist
+- **Meta description:** Erfahren Sie, wann Fieber nach Chemotherapie, Operation, Infusion oder Transfusion einen sofortigen Anruf, Notfallversorgung und eine klare Behandlungsübergabe erfordert.
 
 ## Quellen
 

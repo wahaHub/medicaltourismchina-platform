@@ -1,12 +1,14 @@
-# Cuando el linfoma de Hodgkin reaparece o resiste al tratamiento: reevaluación, terapia de rescate y trasplante
+# Linfoma de Hodgkin en recaída en China: planificar el tratamiento de rescate
 
 ## Hero
 
-- **Title:** Cuando el linfoma de Hodgkin reaparece o resiste al tratamiento: reevaluación, terapia de rescate y trasplante
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de Hodgkin
-- **Subtitle:** Saber que el linfoma de Hodgkin ha reaparecido o resistido al tratamiento puede hacer sentir que el esfuerzo del primer ciclo terapéutico fue en vano.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Linfoma de Hodgkin en recaída en China: planificar el tratamiento de rescate
+- **Subtitle:** Prepare el tratamiento de rescate del linfoma de Hodgkin en China con revisión de biopsia, PET, tratamientos previos y objetivos de posible trasplante.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ La consulta por recaída puede centrarse en una pregunta concisa: ¿qué siguien
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento del linfoma de Hodgkin en recaída y refractario
+
+- **Meta title:** Linfoma de Hodgkin en recaída en China: planificar el tratamiento de rescate
+- **Meta description:** Prepare el tratamiento de rescate del linfoma de Hodgkin en China con revisión de biopsia, PET, tratamientos previos y objetivos de posible trasplante.

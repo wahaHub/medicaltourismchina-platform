@@ -1,12 +1,14 @@
-# Wie lange kann ein Mensch mit Thalassämie leben? Prognose, Behandlungsergebnisse und Alltag verstehen
+# Thalassämie-Prognose: Fragen für eine Beurteilung in China
 
 ## Hero
 
-- **Title:** Wie lange kann ein Mensch mit Thalassämie leben? Prognose, Behandlungsergebnisse und Alltag verstehen
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Thalassämie
-- **Subtitle:** Fragen zur Lebenserwartung kommen oft auf, bevor eine Familie Zeit hatte, die Diagnose zu verstehen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Thalassämie-Prognose: Fragen für eine Beurteilung in China
+- **Subtitle:** Thalassämie-Prognose für eine Beurteilung in China verstehen: Anämie, Eisenbelastung, Organfunktion und Behandlungsergebnisse im langfristigen Verlauf einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ Eine produktive Beratung sollte dem Patienten eine revidierbare Beurteilung mitg
 ## SEO Metadata
 
 - **Primary keyword:** Thalassämie-Prognose; Lebenserwartung mit Thalassämie; Transplantationsergebnisse; langfristige Thalassämieversorgung in China
+
+- **Meta title:** Thalassämie-Prognose: Fragen für eine Beurteilung in China
+- **Meta description:** Thalassämie-Prognose für eine Beurteilung in China verstehen: Anämie, Eisenbelastung, Organfunktion und Behandlungsergebnisse im langfristigen Verlauf einordnen.

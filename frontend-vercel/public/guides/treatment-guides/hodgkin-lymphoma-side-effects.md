@@ -1,12 +1,14 @@
-# Side effects of Hodgkin lymphoma treatment: urgent symptoms and problems to track
+# Hodgkin Lymphoma Care in China: Side Effects and Urgent Help
 
 ## Hero
 
-- **Title:** Side effects of Hodgkin lymphoma treatment: urgent symptoms and problems to track
 - **Category:** Treatment Guides
 - **Subcategory:** Hodgkin Lymphoma
-- **Subtitle:** Discomfort during Hodgkin lymphoma treatment should not be divided simply into symptoms that can be endured and symptoms that cannot.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Hodgkin Lymphoma Care in China: Side Effects and Urgent Help
+- **Subtitle:** Recognize Hodgkin lymphoma treatment problems that need urgent contact or continuing review, and arrange a safety handover after care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ After treatment ends, persistent neuropathy, cardiopulmonary problems, and endoc
 ## SEO Metadata
 
 - **Primary keyword:** Hodgkin lymphoma treatment side effects
+
+- **Meta title:** Hodgkin Lymphoma Care in China: Side Effects and Urgent Help
+- **Meta description:** Recognize Hodgkin lymphoma treatment problems that need urgent contact or continuing review, and arrange a safety handover after care in China.

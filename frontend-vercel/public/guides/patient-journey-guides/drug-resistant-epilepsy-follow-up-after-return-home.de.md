@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Nachsorge nach Behandlung pharmakoresistenter Epilepsie in China: die Versorgung zu Hause verbinden
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Pharmakoresistente Epilepsie
-- **Subtitle:** Nach einem Aufenthalt in China ist das Mitnehmen der Unterlagen erst der Anfang der weiteren Versorgung.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Nachsorge nach Behandlung pharmakoresistenter Epilepsie in China: die Versorgung zu Hause verbinden
+- **Subtitle:** Nach Epilepsiebehandlung in China die Versorgung verbinden: Medikamentenliste, Anfallstagebuch, ausstehende Befunde und Verantwortlichkeiten zu Hause klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -170,3 +172,6 @@ Die Versorgung nach der Heimkehr ist ein fortlaufender Prozess mit benannter Zus
 
 - **Primary keyword:** Nachsorge bei pharmakoresistenter Epilepsie nach Behandlung in China; Nachsorge nach Epilepsieoperation; internationale Neurostimulationsnachsorge
 
+
+- **Meta title:** Nachsorge nach Behandlung pharmakoresistenter Epilepsie in China: die Versorgung zu Hause verbinden
+- **Meta description:** Nach Epilepsiebehandlung in China die Versorgung verbinden: Medikamentenliste, Anfallstagebuch, ausstehende Befunde und Verantwortlichkeiten zu Hause klären.

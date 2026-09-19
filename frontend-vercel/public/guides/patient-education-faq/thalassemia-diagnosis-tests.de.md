@@ -1,12 +1,14 @@
-# Untersuchungen bei Thalassämieverdacht: Vom Blutbild zur Hämoglobin- und genetischen Bestätigung
+# Thalassämie-Diagnose in China: Blutuntersuchungen und Gentests
 
 ## Hero
 
-- **Title:** Untersuchungen bei Thalassämieverdacht: Vom Blutbild zur Hämoglobin- und genetischen Bestätigung
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Thalassämie
-- **Subtitle:** Kleine rote Blutkörperchen im Routineblutbild, anhaltende Blässe bei einem Kind und ein positiver Trägerbefund in der Schwangerschaft führen zu unterschiedlichen klinischen Fragen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Thalassämie-Diagnose in China: Blutuntersuchungen und Gentests
+- **Subtitle:** Thalassämie-Diagnostik in China vorbereiten: Blutbild, Eisenstatus, Hämoglobinanalyse und Genetik unterscheiden sowie Transfusionen und Familiengeschichte angeben.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,3 +142,6 @@ Ausgeprägte Atemnot, Ohnmacht oder ein akut krankes Kind erfordern Beurteilung 
 ## SEO Metadata
 
 - **Primary keyword:** Thalassämiediagnostik; Thalassämiescreening; Hämoglobinanalyse; genetische Tests; mikrozytäre Anämie
+
+- **Meta title:** Thalassämie-Diagnose in China: Blutuntersuchungen und Gentests
+- **Meta description:** Thalassämie-Diagnostik in China vorbereiten: Blutbild, Eisenstatus, Hämoglobinanalyse und Genetik unterscheiden sowie Transfusionen und Familiengeschichte angeben.

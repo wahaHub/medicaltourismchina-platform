@@ -1,12 +1,14 @@
-# Jenis limfoma sel T: mengapa subtipe, stadium, dan risiko menggambarkan hal yang berbeda
+# Jenis dan Risiko Limfoma Sel T: Persiapan Perawatan di Tiongkok
 
 ## Hero
 
-- **Title:** Jenis limfoma sel T: mengapa subtipe, stadium, dan risiko menggambarkan hal yang berbeda
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Limfoma Sel T
-- **Subtitle:** Seseorang dengan limfoma sel T mungkin menerima pengobatan yang diarahkan pada kulit, sementara yang lain memerlukan kemoterapi sistemik.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Jenis dan Risiko Limfoma Sel T: Persiapan Perawatan di Tiongkok
+- **Subtitle:** Bedakan subtipe, lokasi, stadium, dan risiko limfoma sel T. Siapkan diagnosis lengkap agar pembahasan perawatan di Tiongkok sesuai penyakitnya.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Tanggapan yang berguna mungkin mengidentifikasi kebutuhan tinjauan patologi spes
 ## SEO Metadata
 
 - **Primary keyword:** jenis limfoma sel T dan kelompok risiko
+
+- **Meta title:** Jenis dan Risiko Limfoma Sel T: Persiapan Perawatan di Tiongkok
+- **Meta description:** Bedakan subtipe, lokasi, stadium, dan risiko limfoma sel T. Siapkan diagnosis lengkap agar pembahasan perawatan di Tiongkok sesuai penyakitnya.

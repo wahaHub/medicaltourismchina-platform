@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Zwanzig Patientenfragen zur Behandlung des multiplen Myeloms in China
 - **Category:** Patientenaufklärung & FAQ
 - **Subcategory:** Multiples Myelom
-- **Subtitle:** Zwanzig Patientenfragen zur Behandlung des multiplen Myeloms in China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Zwanzig Patientenfragen zur Behandlung des multiplen Myeloms in China
+- **Subtitle:** 20 Fragen zur Myelombehandlung in China: Diagnose, Risikobefunde, Medikamentenkombinationen, Transplantation und Beschwerden im Behandlungsverlauf besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ Quellen geprüft: September 9, 2026. Dieser Artikel dient der allgemeinen Patien
 ## SEO Metadata
 
 - **Primary keyword:** Patientenfragen zum multiplen Myelom; Behandlung des multiplen Myeloms in China
+
+- **Meta title:** Zwanzig Patientenfragen zur Behandlung des multiplen Myeloms in China
+- **Meta description:** 20 Fragen zur Myelombehandlung in China: Diagnose, Risikobefunde, Medikamentenkombinationen, Transplantation und Beschwerden im Behandlungsverlauf besprechen.

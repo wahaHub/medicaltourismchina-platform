@@ -1,12 +1,14 @@
-# ¿Qué resultados son posibles con la enfermedad de células falciformes? Comprender la supervivencia, la respuesta al tratamiento y el pronóstico personal
+# Pronóstico de la enfermedad falciforme: preguntas para la atención en China
 
 ## Hero
 
-- **Title:** ¿Qué resultados son posibles con la enfermedad de células falciformes? Comprender la supervivencia, la respuesta al tratamiento y el pronóstico personal
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedad de células falciformes
-- **Subtitle:** «¿Cuánto viviré?», «¿Podré trabajar?» y «¿Qué ocurrirá a medida que mi hijo crezca?» son preguntas prácticas en la atención de la enfermedad de células falciformes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronóstico de la enfermedad falciforme: preguntas para la atención en China
+- **Subtitle:** Comprenda los límites de las cifras de supervivencia y respuesta en enfermedad falciforme, y prepare preguntas sobre riesgo personal y atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Los pacientes merecen una incertidumbre expresada con honestidad y un siguiente 
 ## SEO Metadata
 
 - **Primary keyword:** pronóstico y resultados del tratamiento de la enfermedad de células falciformes
+
+- **Meta title:** Pronóstico de la enfermedad falciforme: preguntas para la atención en China
+- **Meta description:** Comprenda los límites de las cifras de supervivencia y respuesta en enfermedad falciforme, y prepare preguntas sobre riesgo personal y atención en China.

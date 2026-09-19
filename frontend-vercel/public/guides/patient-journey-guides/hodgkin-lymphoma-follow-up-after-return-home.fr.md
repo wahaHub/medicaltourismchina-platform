@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Rentrer chez soi après un traitement du lymphome de Hodgkin en Chine : un suivi qui se poursuit au-delà des frontières
 - **Category:** Guides du parcours patient
 - **Subcategory:** Lymphome de Hodgkin
-- **Subtitle:** Rentrer chez soi après un traitement du lymphome de Hodgkin en Chine peut apporter à la fois soulagement et incertitude.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rentrer chez soi après un traitement du lymphome de Hodgkin en Chine : un suivi qui se poursuit au-delà des frontières
+- **Subtitle:** Après un traitement du lymphome de Hodgkin en Chine, organisez le relais médical, le bilan de réponse et un suivi adapté aux symptômes et traitements reçus.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Après chaque consultation importante, conservez les résultats complets et les 
 ## SEO Metadata
 
 - **Primary keyword:** suivi du lymphome de Hodgkin après un traitement en Chine
+
+- **Meta title:** Rentrer chez soi après un traitement du lymphome de Hodgkin en Chine : un suivi qui se poursuit au-delà des frontières
+- **Meta description:** Après un traitement du lymphome de Hodgkin en Chine, organisez le relais médical, le bilan de réponse et un suivi adapté aux symptômes et traitements reçus.

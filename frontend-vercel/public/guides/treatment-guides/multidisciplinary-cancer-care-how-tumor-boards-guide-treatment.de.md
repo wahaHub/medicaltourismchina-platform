@@ -1,15 +1,17 @@
-# 028 Multidisziplinäre Krebsversorgung: Wie Tumorkonferenzen die Behandlung steuern
+# Tumorkonferenzen in China: Wie interdisziplinäre Teams die Behandlung steuern
 
 ## Hero
 
-- **Title:** Multidisziplinäre Krebsversorgung: Wie Tumorkonferenzen die Behandlung steuern
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Planung der Krebsbehandlung
-- **Subtitle:** Verstehen Sie, wer den Fall geprüft hat, welche Befunde vorlagen, wie die Empfehlung dokumentiert wurde und an welcher Stelle die eigene Entscheidung des Patienten einfließt.
 - **Reviewed by:** Redaktionsteam von Medora Health; vor Veröffentlichung ist eine Prüfung der onkologischen MDT-Verantwortungsstrukturen und der gemeinsamen Entscheidungsfindung erforderlich
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Fachleute aus Chirurgie, internistischer Onkologie, Radioonkologie, Radiologie und Pathologie besprechen gemeinsam einen Krebsfall
+
+
+- **Title:** Tumorkonferenzen in China: Wie interdisziplinäre Teams die Behandlung steuern
+- **Subtitle:** Erfahren Sie, wie Tumorkonferenzen Befunde prüfen, Möglichkeiten und Unsicherheiten dokumentieren, Patientenpräferenzen einbeziehen und eine MDT-Empfehlung umsetzen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -231,13 +233,15 @@ Wenn sich Diagnose, Stadium, Biomarker, Ansprechen, Toxizität, Operationsbefund
 ## SEO Metadata
 
 - **Slug:** `multidisciplinary-cancer-care-how-tumor-boards-guide-treatment`
-- **Meta title:** Wie Tumorkonferenzen die Krebsbehandlung steuern
-- **Meta description:** Erfahren Sie, wie Tumorkonferenzen Befunde prüfen, Möglichkeiten und Unsicherheiten dokumentieren, Patientenpräferenzen einbeziehen und eine MDT-Empfehlung umsetzen.
 - **Primary keyword:** multidisziplinäre Krebsversorgung
 - **Pillar keyword:** Krebsbehandlung in China
 - **Vertical keyword:** wie Tumorkonferenzen die Behandlung steuern
 - **Search intent:** Information zur Behandlungsplanung / Bewertung von MDT-Angeboten
 - **Secondary keywords:** Krebs-MDT China; Tumorkonferenzbeurteilung; multidisziplinäre Onkologie; Besprechung zur Krebsbehandlungsplanung
+
+
+- **Meta title:** Tumorkonferenzen in China: Wie interdisziplinäre Teams die Behandlung steuern
+- **Meta description:** Erfahren Sie, wie Tumorkonferenzen Befunde prüfen, Möglichkeiten und Unsicherheiten dokumentieren, Patientenpräferenzen einbeziehen und eine MDT-Empfehlung umsetzen.
 
 ## Quellen
 

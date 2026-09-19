@@ -1,12 +1,14 @@
-# Memahami laporan anemia aplastik: hiposelularitas, klon PNH, dan temuan genetik
+# Laporan Anemia Aplastik: Persiapan Tinjauan di Tiongkok
 
 ## Hero
 
-- **Title:** Memahami laporan anemia aplastik: hiposelularitas, klon PNH, dan temuan genetik
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Anemia Aplastik
-- **Subtitle:** Beberapa hasil abnormal dalam laporan belum tentu menunjukkan beberapa penyakit baru.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Laporan Anemia Aplastik: Persiapan Tinjauan di Tiongkok
+- **Subtitle:** Pahami hiposelularitas, hitung darah, klon PNH, dan temuan genetik anemia aplastik. Siapkan laporan lengkap untuk tinjauan spesialis di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Jadwal perlu membedakan penerimaan bahan, peninjauan kaca objek, pemeriksaan tam
 ## SEO Metadata
 
 - **Primary keyword:** penjelasan laporan anemia aplastik
+
+- **Meta title:** Laporan Anemia Aplastik: Persiapan Tinjauan di Tiongkok
+- **Meta description:** Pahami hiposelularitas, hitung darah, klon PNH, dan temuan genetik anemia aplastik. Siapkan laporan lengkap untuk tinjauan spesialis di Tiongkok.

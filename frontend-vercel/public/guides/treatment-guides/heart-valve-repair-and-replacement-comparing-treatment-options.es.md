@@ -1,15 +1,17 @@
-# 039 Reparación y sustitución de válvulas cardíacas: comparación de opciones terapéuticas
+# Tratamiento valvular cardíaco en China: reparación frente a sustitución
 
 ## Hero
 
-- **Title:** Reparación y sustitución de válvulas cardíacas: comparación de opciones terapéuticas
 - **Category:** Guías de tratamiento
 - **Subcategory:** Atención cardíaca y vascular
-- **Subtitle:** Compare reparación, sustitución mecánica y biológica y tratamiento transcatéter según la lesión valvular, el plan de por vida y las prioridades del paciente.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** PENDIENTE: requiere una comparación médicamente precisa de reparación valvular, sustitución mecánica y sustitución biológica
+
+
+- **Title:** Tratamiento valvular cardíaco en China: reparación frente a sustitución
+- **Subtitle:** Compare reparación valvular, sustitución mecánica y biológica, cirugía y opciones transcatéter, anticoagulación, recuperación y seguimiento de por vida.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -171,13 +173,15 @@ Lleve el informe del procedimiento y los detalles del implante o reparación jun
 ## SEO Metadata
 
 - **Slug:** `heart-valve-repair-and-replacement-comparing-treatment-options`
-- **Meta title:** Reparación frente a sustitución valvular cardíaca: comparación para pacientes
-- **Meta description:** Compare reparación valvular, sustitución mecánica y biológica, cirugía y opciones transcatéter, anticoagulación, recuperación y seguimiento de por vida.
 - **Primary keyword:** reparación y sustitución de válvulas cardíacas
 - **Pillar keyword:** tratamiento valvular cardíaco
 - **Vertical keyword:** opciones de cirugía valvular
 - **Search intent:** comparación de tratamientos / decisión sobre prótesis
 - **Secondary keywords:** reparación frente a sustitución valvular; válvula mecánica; válvula biológica; cirugía valvular cardíaca; anticoagulación valvular; seguimiento valvular
+
+
+- **Meta title:** Tratamiento valvular cardíaco en China: reparación frente a sustitución
+- **Meta description:** Compare reparación valvular, sustitución mecánica y biológica, cirugía y opciones transcatéter, anticoagulación, recuperación y seguimiento de por vida.
 
 ## Fuentes
 

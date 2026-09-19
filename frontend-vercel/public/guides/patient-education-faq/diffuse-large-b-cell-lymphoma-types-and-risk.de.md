@@ -1,12 +1,14 @@
-# DLBCL-Formen und Risiko: Krankheitsbiologie und Behandlungseignung unterscheiden
+# DLBCL-Formen und Risiken: Vorbereitung auf eine Befundprüfung in China
 
 ## Hero
 
-- **Title:** DLBCL-Formen und Risiko: Krankheitsbiologie und Behandlungseignung unterscheiden
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Diffuses großzelliges B-Zell-Lymphom
-- **Subtitle:** DLBCL-Formen und Risiko: Krankheitsbiologie und Behandlungseignung unterscheiden
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL-Formen und Risiken: Vorbereitung auf eine Befundprüfung in China
+- **Subtitle:** DLBCL-Formen vor einer Befundprüfung in China verstehen: Zellursprung, genetische Veränderungen, klinisches Risiko und persönliche Behandlungseignung unterscheiden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -117,3 +119,6 @@ Die ursprüngliche Pathologie und die vollständige Behandlungszusammenfassung b
 ## SEO Metadata
 
 - **Primary keyword:** DLBCL-Formen und Risikofaktoren
+
+- **Meta title:** DLBCL-Formen und Risiken: Vorbereitung auf eine Befundprüfung in China
+- **Meta description:** DLBCL-Formen vor einer Befundprüfung in China verstehen: Zellursprung, genetische Veränderungen, klinisches Risiko und persönliche Behandlungseignung unterscheiden.

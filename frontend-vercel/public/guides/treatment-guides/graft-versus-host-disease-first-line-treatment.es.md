@@ -1,12 +1,14 @@
-# Inicio del tratamiento de la EICH: atención local, corticoides y reevaluación temprana
+# Iniciar el tratamiento de EICH en China: opciones y revisión temprana
 
 ## Hero
 
-- **Title:** Inicio del tratamiento de la EICH: atención local, corticoides y reevaluación temprana
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de injerto contra huésped
-- **Subtitle:** A veces los pacientes se sorprenden cuando se les dice que empiezan el tratamiento de la EICH pese a estar tomando ya medicamentos inmunosupresores durante el trasplante.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Iniciar el tratamiento de EICH en China: opciones y revisión temprana
+- **Subtitle:** Comprenda cómo se inicia el tratamiento de enfermedad injerto contra huésped en China según órganos, gravedad, cuidados locales y revisión temprana.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -129,3 +131,6 @@ Antes de salir de la ciudad de tratamiento, asegúrese de que puedan continuar l
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento de primera línea de la enfermedad de injerto contra huésped en China
+
+- **Meta title:** Iniciar el tratamiento de EICH en China: opciones y revisión temprana
+- **Meta description:** Comprenda cómo se inicia el tratamiento de enfermedad injerto contra huésped en China según órganos, gravedad, cuidados locales y revisión temprana.

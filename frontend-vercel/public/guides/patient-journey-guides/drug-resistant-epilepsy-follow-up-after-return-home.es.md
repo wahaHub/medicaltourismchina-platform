@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Seguimiento después del tratamiento de la epilepsia farmacorresistente en China: mantener conectada la atención en casa
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Epilepsia farmacorresistente
-- **Subtitle:** Después de una visita a China, llevarse los registros a casa es solo el comienzo de la atención continuada.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Seguimiento después del tratamiento de la epilepsia farmacorresistente en China: mantener conectada la atención en casa
+- **Subtitle:** Coordine el seguimiento de epilepsia farmacorresistente tras la atención en China con la lista de medicamentos, los resultados pendientes y un diario de crisis.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -169,3 +171,6 @@ La atención después del regreso a casa es un proceso continuado con responsabi
 ## SEO Metadata
 
 - **Primary keyword:** seguimiento de la epilepsia farmacorresistente después del tratamiento en China; cuidados posteriores a la cirugía de epilepsia; seguimiento internacional de neuroestimulación
+
+- **Meta title:** Seguimiento después del tratamiento de la epilepsia farmacorresistente en China: mantener conectada la atención en casa
+- **Meta description:** Coordine el seguimiento de epilepsia farmacorresistente tras la atención en China con la lista de medicamentos, los resultados pendientes y un diario de crisis.

@@ -1,12 +1,14 @@
-# Membandingkan pengobatan talasemia: dukungan darah, obat anemia, transplantasi, dan terapi gen
+# Pilihan Pengobatan Talasemia: Kesesuaian dan Akses di Tiongkok
 
 ## Hero
 
-- **Title:** Membandingkan pengobatan talasemia: dukungan darah, obat anemia, transplantasi, dan terapi gen
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Talasemia
-- **Subtitle:** Pengobatan talasemia sering dimasukkan dalam perbandingan yang sama meskipun menangani masalah yang berbeda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pilihan Pengobatan Talasemia: Kesesuaian dan Akses di Tiongkok
+- **Subtitle:** Bandingkan transfusi, kelasi, obat anemia, transplantasi, dan terapi gen untuk talasemia berdasarkan kebutuhan klinis serta akses di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -129,3 +131,6 @@ Bawa perbandingan satu halaman ke tinjauan: apakah perawatan saat ini sudah diop
 ## SEO Metadata
 
 - **Primary keyword:** perbandingan pengobatan talasemia; transplantasi versus obat; luspatercept; mitapivat; keputusan terapi gen
+
+- **Meta title:** Pilihan Pengobatan Talasemia: Kesesuaian dan Akses di Tiongkok
+- **Meta description:** Bandingkan transfusi, kelasi, obat anemia, transplantasi, dan terapi gen untuk talasemia berdasarkan kebutuhan klinis serta akses di Tiongkok.

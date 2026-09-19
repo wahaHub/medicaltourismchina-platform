@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Elegir un hospital de rehabilitación del ictus en China: adapte el equipo a sus necesidades
 - **Category:** Guías de hospitales
 - **Subcategory:** Rehabilitación tras un ictus isquémico
-- **Subtitle:** Al elegir un hospital para rehabilitación del ictus isquémico en China, comience por las dificultades que más importan ahora.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Elegir un hospital de rehabilitación del ictus en China: adapte el equipo a sus necesidades
+- **Subtitle:** Evalúe un hospital de rehabilitación del ictus en China según las necesidades médicas, la función diaria y los servicios de lenguaje, deglución y cognición.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ La elección final debe considerar conjuntamente el tratamiento accesible, la ca
 ## SEO Metadata
 
 - **Primary keyword:** elegir un hospital de rehabilitación del ictus en China
+
+- **Meta title:** Elegir un hospital de rehabilitación del ictus en China: adapte el equipo a sus necesidades
+- **Meta description:** Evalúe un hospital de rehabilitación del ictus en China según las necesidades médicas, la función diaria y los servicios de lenguaje, deglución y cognición.

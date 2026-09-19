@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** How Long Does Alzheimer's Treatment Last? Reviews, Antibody Therapy, and Planning Care in China
 - **Category:** Treatment Guides
 - **Subcategory:** Alzheimer Disease
-- **Subtitle:** Alzheimer's disease generally requires continuing management, but that does not mean every medicine is prescribed indefinitely.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** How Long Does Alzheimer's Treatment Last? Reviews, Antibody Therapy, and Planning Care in China
+- **Subtitle:** Understand Alzheimer’s review and treatment schedules, and plan a China visit around assessment, monitoring and care that must continue afterwards.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Daily support changes with disease stage. Reminders, home safety measures, meani
 ## SEO Metadata
 
 - **Primary keyword:** Alzheimer's treatment duration
+
+- **Meta title:** How Long Does Alzheimer's Treatment Last? Reviews, Antibody Therapy, and Planning Care in China
+- **Meta description:** Understand Alzheimer’s review and treatment schedules, and plan a China visit around assessment, monitoring and care that must continue afterwards.

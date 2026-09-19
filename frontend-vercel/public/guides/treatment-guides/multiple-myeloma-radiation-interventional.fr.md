@@ -1,12 +1,14 @@
-# Radiothérapie du myélome multiple : traiter les lésions douloureuses et préserver les fonctions
+# Radiothérapie du myélome en Chine : soulager la douleur et préserver les fonctions
 
 ## Hero
 
-- **Title:** Radiothérapie du myélome multiple : traiter les lésions douloureuses et préserver les fonctions
 - **Category:** Guides des traitements
 - **Subcategory:** Myélome multiple
-- **Subtitle:** Recommander l’irradiation d’un site douloureux ne signifie pas nécessairement que le traitement systémique du myélome a échoué.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Radiothérapie du myélome en Chine : soulager la douleur et préserver les fonctions
+- **Subtitle:** Comprenez la radiothérapie du myélome en Chine : objectif antalgique, évaluation de la stabilité osseuse, signes neurologiques urgents et préparation des séances.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Avant le retour, réévaluez le contrôle de la douleur, la sécurité des trans
 ## SEO Metadata
 
 - **Primary keyword:** radiothérapie du myélome multiple en Chine
+
+- **Meta title:** Radiothérapie du myélome en Chine : soulager la douleur et préserver les fonctions
+- **Meta description:** Comprenez la radiothérapie du myélome en Chine : objectif antalgique, évaluation de la stabilité osseuse, signes neurologiques urgents et préparation des séances.

@@ -1,15 +1,17 @@
-# 049 Evaluación y cirugía de la epilepsia: comprender el recorrido asistencial
+# Evaluación para cirugía de epilepsia en China: pruebas y seguimiento
 
 ## Hero
 
-- **Title:** Evaluación y cirugía de la epilepsia: comprender el recorrido asistencial
 - **Category:** Guías de tratamiento
 - **Subcategory:** Neurología y neurocirugía
-- **Subtitle:** Comprenda qué debe demostrar un centro de epilepsia antes de recomendar resección, ablación o neuroestimulación.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Paciente que habla sobre una evaluación cerebral de epilepsia con un neurólogo y un integrante del equipo de neurocirugía
+
+
+- **Title:** Evaluación para cirugía de epilepsia en China: pruebas y seguimiento
+- **Subtitle:** Comprenda la epilepsia farmacorresistente, vídeo-EEG, RM, neuropsicología, EEG intracraneal, cirugía, estimulación y seguimiento transfronterizo.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Tras tratarse en el extranjero, continúe la medicación anticrisis salvo que el equipo de epilepsia la modifique. Lleve a casa los datos de episodios registrados, imágenes, mapa de electrodos, informe operatorio, anatomía patológica, detalles del dispositivo y un plan de seguridad ante crisis.
 
 ## Content
+
+Si busca una evaluación para cirugía de epilepsia en China, prepárese para una valoración sin dar por hecho que después se realizará una operación. El equipo receptor necesita el historial de crisis, los tratamientos farmacológicos probados, las imágenes y los registros de EEG, junto con un plan de continuidad asistencial tras regresar a casa.
+
 
 La cirugía de la epilepsia empieza con dudas, no con una reserva de quirófano. El equipo debe comprobar primero si los episodios son crisis epilépticas, clasificarlas, comprender por qué fallaron los medicamentos, localizar la red generadora de crisis y estimar qué podría dañar el tratamiento además de qué podría mejorar.
 
@@ -189,13 +194,15 @@ Por lo general, no. Los cambios dependen del tipo de epilepsia, procedimiento, e
 ## SEO Metadata
 
 - **Slug:** `epilepsy-evaluation-and-surgery-understanding-the-care-pathway`
-- **Meta title:** Evaluación para cirugía de epilepsia | Pruebas, opciones y seguimiento
-- **Meta description:** Comprenda la epilepsia farmacorresistente, vídeo-EEG, RM, neuropsicología, EEG intracraneal, cirugía, estimulación y seguimiento transfronterizo.
 - **Primary keyword:** evaluación para cirugía de epilepsia
 - **Pillar keyword:** tratamiento de la epilepsia farmacorresistente
 - **Vertical keyword:** neurología y neurocirugía
 - **Search intent:** evaluación prequirúrgica / comparación de tratamientos
 - **Secondary keywords:** monitorización vídeo EEG; RM con protocolo de epilepsia; estéreo EEG; ablación de epilepsia; neuroestimulación para epilepsia
+
+
+- **Meta title:** Evaluación para cirugía de epilepsia en China: pruebas y seguimiento
+- **Meta description:** Comprenda la epilepsia farmacorresistente, vídeo-EEG, RM, neuropsicología, EEG intracraneal, cirugía, estimulación y seguimiento transfronterizo.
 
 ## Fuentes
 

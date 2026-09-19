@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Haruskah seseorang dengan epilepsi resistan obat bepergian ke Tiongkok untuk perawatan?
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Epilepsi Resistan Obat
-- **Subtitle:** Memutuskan mencari perawatan di Tiongkok melibatkan dua pertanyaan terkait: nilai medis tambahan yang mungkin diberikan rujukan, dan apakah orang tersebut dapat menyelesaikan perjalanan serta perawatan berkelanjutan dengan aman.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Haruskah seseorang dengan epilepsi resistan obat bepergian ke Tiongkok untuk perawatan?
+- **Subtitle:** Nilai manfaat rujukan epilepsi resistan obat ke Tiongkok serta kesiapan perjalanan. Gunakan tinjauan rekam medis awal untuk memperjelas kebutuhan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -164,3 +166,6 @@ Saran kesehatan tujuan untuk Tiongkok dapat membantu melengkapi persiapan perjal
 ## SEO Metadata
 
 - **Primary keyword:** perjalanan pengobatan epilepsi resistan obat ke Tiongkok; kelayakan terbang epilepsi; rujukan epilepsi internasional; peninjauan rekam medis epilepsi jarak jauh di Tiongkok
+
+- **Meta title:** Haruskah seseorang dengan epilepsi resistan obat bepergian ke Tiongkok untuk perawatan?
+- **Meta description:** Nilai manfaat rujukan epilepsi resistan obat ke Tiongkok serta kesiapan perjalanan. Gunakan tinjauan rekam medis awal untuk memperjelas kebutuhan.

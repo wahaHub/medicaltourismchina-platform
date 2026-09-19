@@ -1,15 +1,17 @@
-# 028 Perawatan Kanker Multidisiplin: Bagaimana Dewan Tumor Memandu Pengobatan
+# Dewan Tumor Kanker di Tiongkok: Peran Tim Multidisiplin dalam Pengobatan
 
 ## Hero
 
-- **Title:** Perawatan Kanker Multidisiplin: Bagaimana Dewan Tumor Memandu Pengobatan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Perencanaan Pengobatan Kanker
-- **Subtitle:** Pahami siapa yang meninjau kasus, bukti apa yang tersedia, bagaimana rekomendasi dicatat, dan di mana keputusan pasien sendiri masuk dalam proses.
 - **Reviewed by:** Tim Editorial Medora Health; peninjauan tata kelola MDT onkologi dan pengambilan keputusan bersama diperlukan sebelum publikasi
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Dokter bedah, dokter onkologi medik dan radiasi, ahli radiologi, serta ahli patologi meninjau satu kasus kanker bersama-sama
+
+
+- **Title:** Dewan Tumor Kanker di Tiongkok: Peran Tim Multidisiplin dalam Pengobatan
+- **Subtitle:** Pelajari cara dewan tumor kanker meninjau bukti, mencatat pilihan dan ketidakpastian, melibatkan preferensi pasien, dan mewujudkan rekomendasi MDT menjadi tindakan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -231,13 +233,15 @@ Ketika diagnosis, stadium, biomarker, respons, toksisitas, temuan operasi, kondi
 ## SEO Metadata
 
 - **Slug:** `multidisciplinary-cancer-care-how-tumor-boards-guide-treatment`
-- **Meta title:** Bagaimana Dewan Tumor Kanker Memandu Pengobatan
-- **Meta description:** Pelajari cara dewan tumor kanker meninjau bukti, mencatat pilihan dan ketidakpastian, melibatkan preferensi pasien, dan mewujudkan rekomendasi MDT menjadi tindakan.
 - **Primary keyword:** perawatan kanker multidisiplin
 - **Pillar keyword:** pengobatan kanker di Tiongkok
 - **Vertical keyword:** bagaimana dewan tumor memandu pengobatan
 - **Search intent:** edukasi perencanaan pengobatan / evaluasi layanan MDT
 - **Secondary keywords:** MDT kanker Tiongkok; peninjauan dewan tumor; onkologi multidisiplin; pertemuan perencanaan pengobatan kanker
+
+
+- **Meta title:** Dewan Tumor Kanker di Tiongkok: Peran Tim Multidisiplin dalam Pengobatan
+- **Meta description:** Pelajari cara dewan tumor kanker meninjau bukti, mencatat pilihan dan ketidakpastian, melibatkan preferensi pasien, dan mewujudkan rekomendasi MDT menjadi tindakan.
 
 ## Sumber
 

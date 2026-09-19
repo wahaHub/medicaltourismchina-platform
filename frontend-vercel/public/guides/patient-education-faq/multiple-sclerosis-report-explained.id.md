@@ -1,12 +1,14 @@
-# Memahami laporan MS: lesi MRI, hasil cairan serebrospinal, dan pengukuran fungsi
+# Laporan Sklerosis Multipel: Persiapan Tinjauan di Tiongkok
 
 ## Hero
 
-- **Title:** Memahami laporan MS: lesi MRI, hasil cairan serebrospinal, dan pengukuran fungsi
 - **Category:** Edukasi Pasien & FAQ
 - **Subcategory:** Sklerosis Multipel
-- **Subtitle:** Istilah seperti “lesi multipel,” “kemungkinan demielinisasi,” dan “pita oligoklonal positif” dapat terdengar seperti kesimpulan langsung tentang keparahan atau kegagalan pengobatan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Laporan Sklerosis Multipel: Persiapan Tinjauan di Tiongkok
+- **Subtitle:** Pahami lesi MRI, hasil cairan serebrospinal, dan pengukuran fungsi pada sklerosis multipel. Siapkan perbandingan hasil untuk tinjauan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Jika lebih banyak pemeriksaan diminta, tanyakan informasi apa yang kurang dari c
 ## SEO Metadata
 
 - **Primary keyword:** interpretasi MRI dan laporan pemeriksaan sklerosis multipel
+
+- **Meta title:** Laporan Sklerosis Multipel: Persiapan Tinjauan di Tiongkok
+- **Meta description:** Pahami lesi MRI, hasil cairan serebrospinal, dan pengukuran fungsi pada sklerosis multipel. Siapkan perbandingan hasil untuk tinjauan di Tiongkok.

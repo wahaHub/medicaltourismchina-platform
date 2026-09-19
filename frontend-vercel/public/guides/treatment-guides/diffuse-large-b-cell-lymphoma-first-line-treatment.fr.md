@@ -1,12 +1,14 @@
-# Choisir le traitement de première ligne du DLBCL et préparer le premier cycle
+# Traitement de première ligne du LDGCB en Chine : préparer les soins
 
 ## Hero
 
-- **Title:** Choisir le traitement de première ligne du DLBCL et préparer le premier cycle
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome diffus à grandes cellules B
-- **Subtitle:** Le traitement de première ligne du DLBCL est généralement conçu dans un objectif de guérison.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement de première ligne du LDGCB en Chine : préparer les soins
+- **Subtitle:** Préparez le premier cycle de traitement du LDGCB en Chine : diagnostic confirmé, choix du protocole, étendue de la maladie et aptitude au traitement.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Choisissez un aidant qui comprend les médicaments et les symptômes urgents, et
 ## SEO Metadata
 
 - **Primary keyword:** traitement de première ligne du DLBCL
+
+- **Meta title:** Traitement de première ligne du LDGCB en Chine : préparer les soins
+- **Meta description:** Préparez le premier cycle de traitement du LDGCB en Chine : diagnostic confirmé, choix du protocole, étendue de la maladie et aptitude au traitement.

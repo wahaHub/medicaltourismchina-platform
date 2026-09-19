@@ -1,12 +1,14 @@
-# Follicular lymphoma prognosis: interpreting survival, remission and the course ahead
+# Follicular Lymphoma Prognosis: Consultation Questions in China
 
 ## Hero
 
-- **Title:** Follicular lymphoma prognosis: interpreting survival, remission and the course ahead
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Follicular Lymphoma
-- **Subtitle:** The disease name alone cannot predict how many years an individual with follicular lymphoma will live.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Follicular Lymphoma Prognosis: Consultation Questions in China
+- **Subtitle:** Understand follicular lymphoma remission and survival figures, and prepare prognosis questions for a consultation in China without expecting a fixed timetable.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ The coming months can be planned around review dates, symptoms that require earl
 ## SEO Metadata
 
 - **Primary keyword:** follicular lymphoma prognosis
+
+- **Meta title:** Follicular Lymphoma Prognosis: Consultation Questions in China
+- **Meta description:** Understand follicular lymphoma remission and survival figures, and prepare prognosis questions for a consultation in China without expecting a fixed timetable.

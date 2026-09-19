@@ -1,15 +1,17 @@
-# Recovering in a Hotel After Treatment: Make the Room Pass a Clinical Use Test
+# Hotel Recovery After Treatment in China | Room Safety Test
 
 ## Hero
 
-- **Title:** Recovering in a Hotel After Treatment: Make the Room Pass a Clinical Use Test
 - **Category:** Patient Journey Guides
 - **Subcategory:** Temporary Accommodation and Outpatient Recovery
-- **Subtitle:** A hotel supplies a room, not nursing care. Test the patient, caregiver, space, equipment and emergency route before using it as a recovery base.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** A patient and companion plan recovery dates in a hotel room, with luggage and a nearby-hospital symbol.
+
+
+- **Title:** Hotel Recovery After Treatment in China | Room Safety Test
+- **Subtitle:** A hotel supplies a room, not nursing care. Test the patient, caregiver, space, equipment and emergency route before using it as a recovery base.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -182,13 +184,15 @@ Prepare the hotel’s Chinese name and full address, tower, floor, room, caller 
 ## SEO Metadata
 
 - **Slug:** `recovering-in-a-hotel-after-medical-treatment`
-- **Meta title:** Hotel Recovery After Treatment in China | Room Safety Test
-- **Meta description:** Test hotel eligibility, room access, caregiver coverage, medicine storage, devices and the emergency route after outpatient treatment in China.
 - **Primary keyword:** hotel recovery after surgery China
 - **Pillar keyword:** medical travel to China
 - **Vertical keyword:** recovering in a hotel after treatment
 - **Search intent:** recovery accommodation / safety planning
 - **Secondary keywords:** hotel near China hospital; outpatient surgery hotel recovery; caregiver after anaesthesia; medical equipment in hotel; 120 emergency hotel address
+
+
+- **Meta title:** Hotel Recovery After Treatment in China | Room Safety Test
+- **Meta description:** Test hotel eligibility, room access, caregiver coverage, medicine storage, devices and the emergency route after outpatient treatment in China.
 
 ## Sources
 

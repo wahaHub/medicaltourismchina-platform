@@ -1,15 +1,17 @@
-# 107 Memilih Rumah Sakit di Nanjing: Ketergantungan Klinis, Penyeberangan Sungai, dan Akses Kampus
+# Memilih Rumah Sakit di Tiongkok: Pendaftaran dan Perjalanan di Nanjing
 
 ## Hero
 
-- **Title:** Memilih Rumah Sakit di Nanjing: Ketergantungan Klinis, Penyeberangan Sungai, dan Akses Kampus
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Perencanaan Perawatan di Nanjing
-- **Subtitle:** Petakan dahulu ketergantungan klinis, lalu pastikan jalur paspor, kampus, penyeberangan sungai, darurat, dan kepulangan mendukungnya.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustrasi konseptual pelancong internasional yang merencanakan perawatan rumah sakit di Nanjing; cakrawala kota, gerbang bersejarah, rumah sakit, dan ikon rute bukan kombinasi kampus nyata atau bentuk dukungan.
+
+
+- **Title:** Memilih Rumah Sakit di Tiongkok: Pendaftaran dan Perjalanan di Nanjing
+- **Subtitle:** Pilih rumah sakit Nanjing dengan memetakan ketergantungan klinis, kampus, pemesanan paspor 12320, penerjemahan lisan, penyeberangan sungai, pintu masuk yang beroperasi, perawatan darurat, dan kepulangan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -209,13 +211,15 @@ Tidak. Otorisasi tertulis harus sesuai dengan pasien, paket asuransi, penyedia r
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-nanjing-specialties-access-and-travel`
-- **Meta title:** Memilih Rumah Sakit di Nanjing: Kampus, Pemesanan Paspor, dan Perjalanan
-- **Meta description:** Pilih rumah sakit Nanjing dengan memetakan ketergantungan klinis, kampus, pemesanan paspor 12320, penerjemahan lisan, penyeberangan sungai, pintu masuk yang beroperasi, perawatan darurat, dan kepulangan.
 - **Primary keyword:** memilih rumah sakit di Nanjing
 - **Pillar keyword:** rumah sakit Nanjing bagi pasien internasional
 - **Vertical keyword:** akses perjalanan kampus rumah sakit Nanjing
 - **Search intent:** perbandingan rumah sakit / perencanaan perjalanan medis Nanjing
 - **Secondary keywords:** paspor Nanjing 12320; rumah sakit internasional Nanjing; kampus rumah sakit Nanjing; penyeberangan sungai rumah sakit Nanjing; Nanjing 120
+
+
+- **Meta title:** Memilih Rumah Sakit di Tiongkok: Pendaftaran dan Perjalanan di Nanjing
+- **Meta description:** Pilih rumah sakit Nanjing dengan memetakan ketergantungan klinis, kampus, pemesanan paspor 12320, penerjemahan lisan, penyeberangan sungai, pintu masuk yang beroperasi, perawatan darurat, dan kepulangan.
 
 ## Sumber
 

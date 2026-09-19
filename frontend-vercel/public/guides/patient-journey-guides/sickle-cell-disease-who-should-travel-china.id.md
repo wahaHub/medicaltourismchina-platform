@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Siapa yang Sebaiknya Bepergian ke Tiongkok untuk Perawatan Sel Sabit? Manfaat Klinis, Stabilitas, dan Pengaturan Penerimaan
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Penyakit Sel Sabit
-- **Subtitle:** Bagi seseorang dengan penyakit sel sabit, memutuskan apakah akan bepergian ke Tiongkok untuk perawatan melibatkan lebih dari sekadar menanyakan apakah penerbangan memungkinkan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Siapa yang Sebaiknya Bepergian ke Tiongkok untuk Perawatan Sel Sabit? Manfaat Klinis, Stabilitas, dan Pengaturan Penerimaan
+- **Subtitle:** Nilai manfaat perawatan sel sabit di Tiongkok, kestabilan setelah krisis, dan pengaturan tim penerima sebelum merencanakan perjalanan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,3 +152,6 @@ Demam baru, nyeri dada, sesak napas, kelemahan nyata, atau gejala neurologis pad
 ## SEO Metadata
 
 - **Primary keyword:** perjalanan ke Tiongkok untuk pengobatan penyakit sel sabit
+
+- **Meta title:** Siapa yang Sebaiknya Bepergian ke Tiongkok untuk Perawatan Sel Sabit? Manfaat Klinis, Stabilitas, dan Pengaturan Penerimaan
+- **Meta description:** Nilai manfaat perawatan sel sabit di Tiongkok, kestabilan setelah krisis, dan pengaturan tim penerima sebelum merencanakan perjalanan.

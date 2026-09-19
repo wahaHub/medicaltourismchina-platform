@@ -1,12 +1,14 @@
-# Warum Erythrozytenaustausch bei Sichelzellkrankheit eingesetzt wird: Akutbehandlung und Nachsorge
+# Erythrozytenaustausch bei Sichelzellkrankheit in China: Planung
 
 ## Hero
 
-- **Title:** Warum Erythrozytenaustausch bei Sichelzellkrankheit eingesetzt wird: Akutbehandlung und Nachsorge
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Sichelzellkrankheit
-- **Subtitle:** Der Begriff „Austauschtransfusion“ kann so klingen, als werde das gesamte Blut eines Menschen ersetzt oder als sei die Krankheit unkontrollierbar geworden.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Erythrozytenaustausch bei Sichelzellkrankheit in China: Planung
+- **Subtitle:** Erythrozytenaustausch bei Sichelzellkrankheit in China planen: klinischer Anlass, Blutverträglichkeit, Gefäßzugang, Reaktionsüberwachung und Nachsorge klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Bei Brustschmerzen mit Atemnot oder schlaganfallähnlichen Symptomen hat örtlic
 ## SEO Metadata
 
 - **Primary keyword:** Erythrozytenaustausch bei Sichelzellkrankheit
+
+- **Meta title:** Erythrozytenaustausch bei Sichelzellkrankheit in China: Planung
+- **Meta description:** Erythrozytenaustausch bei Sichelzellkrankheit in China planen: klinischer Anlass, Blutverträglichkeit, Gefäßzugang, Reaktionsüberwachung und Nachsorge klären.

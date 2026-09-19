@@ -1,12 +1,14 @@
-# Tes apa yang mendiagnosis limfoma sel mantel? Memahami biopsi, PET/CT, sumsum tulang, dan tes gen
+# Diagnosis Limfoma Sel Mantel di Tiongkok: Biopsi dan Pemeriksaan
 
 ## Hero
 
-- **Title:** Tes apa yang mendiagnosis limfoma sel mantel? Memahami biopsi, PET/CT, sumsum tulang, dan tes gen
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Limfoma Sel Mantel
-- **Subtitle:** Pencarian terkait: biopsi MCL; penentuan stadium limfoma sel mantel; peninjauan patologi di Tiongkok
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnosis Limfoma Sel Mantel di Tiongkok: Biopsi dan Pemeriksaan
+- **Subtitle:** Pahami biopsi, patologi, PET/CT, dan pemeriksaan sumsum untuk limfoma sel mantel. Siapkan hasil yang diperlukan untuk diagnosis di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Pada akhir penilaian, minta klinisi menyatakan apa yang dipastikan tes dalam bah
 ## SEO Metadata
 
 - **Primary keyword:** tes diagnostik limfoma sel mantel
+
+- **Meta title:** Diagnosis Limfoma Sel Mantel di Tiongkok: Biopsi dan Pemeriksaan
+- **Meta description:** Pahami biopsi, patologi, PET/CT, dan pemeriksaan sumsum untuk limfoma sel mantel. Siapkan hasil yang diperlukan untuk diagnosis di Tiongkok.

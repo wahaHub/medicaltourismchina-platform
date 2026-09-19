@@ -1,12 +1,14 @@
-# Efek samping pengobatan DLBCL: penanganan sehari-hari dan gejala darurat
+# Pengobatan DLBCL di Tiongkok: Efek Samping dan Gejala Darurat
 
 ## Hero
 
-- **Title:** Efek samping pengobatan DLBCL: penanganan sehari-hari dan gejala darurat
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel B Besar Difus
-- **Subtitle:** Efek samping selama pengobatan DLBCL tidak boleh semuanya dianggap normal.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan DLBCL di Tiongkok: Efek Samping dan Gejala Darurat
+- **Subtitle:** Kenali efek samping pengobatan DLBCL di Tiongkok, dari mual hingga infeksi. Siapkan rencana kontak untuk demam, perdarahan, atau gejala darurat.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Dengan glofitamab, peradangan berat juga dapat mencerminkan HLH. Surat produsen 
 ## SEO Metadata
 
 - **Primary keyword:** efek samping pengobatan DLBCL
+
+- **Meta title:** Pengobatan DLBCL di Tiongkok: Efek Samping dan Gejala Darurat
+- **Meta description:** Kenali efek samping pengobatan DLBCL di Tiongkok, dari mual hingga infeksi. Siapkan rencana kontak untuk demam, perdarahan, atau gejala darurat.

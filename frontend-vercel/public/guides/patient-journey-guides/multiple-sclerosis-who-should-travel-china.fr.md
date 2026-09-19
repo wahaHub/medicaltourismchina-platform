@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Un voyage en Chine est-il adapté aux soins de la sclérose en plaques ? S’organiser autour du traitement
 - **Category:** Guides du parcours patient
 - **Subcategory:** Sclérose en plaques
-- **Subtitle:** Un voyage médical utile commence par une question à laquelle une autre consultation pourrait raisonnablement répondre.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Un voyage en Chine est-il adapté aux soins de la sclérose en plaques ? S’organiser autour du traitement
+- **Subtitle:** Évaluez un projet de soins de sclérose en plaques en Chine selon les symptômes récents, le traitement, les contraintes du trajet et la continuité des prescriptions.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Le voyage devient un choix mieux fondé lorsque l’objectif clinique est clair,
 ## SEO Metadata
 
 - **Primary keyword:** voyager en Chine pour le traitement de la sclérose en plaques
+
+- **Meta title:** Un voyage en Chine est-il adapté aux soins de la sclérose en plaques ? S’organiser autour du traitement
+- **Meta description:** Évaluez un projet de soins de sclérose en plaques en Chine selon les symptômes récents, le traitement, les contraintes du trajet et la continuité des prescriptions.

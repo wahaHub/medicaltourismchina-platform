@@ -1,12 +1,14 @@
-# Understanding a Stroke Rehabilitation Report: Imaging, Scores and Assistance Needs
+# Stroke Rehabilitation Reports: Planning a Review in China
 
 ## Hero
 
-- **Title:** Understanding a Stroke Rehabilitation Report: Imaging, Scores and Assistance Needs
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Post Ischemic Stroke Rehabilitation
-- **Subtitle:** A stroke rehabilitation report may contain NIHSS, Fugl-Meyer, Barthel, Berg and several other abbreviations.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Stroke Rehabilitation Reports: Planning a Review in China
+- **Subtitle:** Interpret stroke rehabilitation imaging and functional scores, preserving measurement details when transferring records to a team in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Preserve the complete original report and create a separate plain-language note 
 ## SEO Metadata
 
 - **Primary keyword:** stroke rehabilitation assessment report explained
+
+- **Meta title:** Stroke Rehabilitation Reports: Planning a Review in China
+- **Meta description:** Interpret stroke rehabilitation imaging and functional scores, preserving measurement details when transferring records to a team in China.

@@ -1,12 +1,14 @@
-# Pengobatan Baru dan Uji Klinis Sel Sabit: Kemajuan 2026, Batas Bukti, dan Partisipasi
+# Obat dan Uji Klinis Penyakit Sel Sabit: Bukti dan Pemeriksaan Akses di Tiongkok
 
 ## Hero
 
-- **Title:** Pengobatan Baru dan Uji Klinis Sel Sabit: Kemajuan 2026, Batas Bukti, dan Partisipasi
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Penyakit Sel Sabit
-- **Subtitle:** Berita tentang obat baru atau pengobatan penyuntingan gen dapat membawa harapan sekaligus kecemasan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat dan Uji Klinis Penyakit Sel Sabit: Bukti dan Pemeriksaan Akses di Tiongkok
+- **Subtitle:** Bedakan hasil penelitian, pengajuan izin, dan penggunaan klinis obat sel sabit. Tinjau keamanan, kelayakan, serta akses perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Bawa bukti diagnosis, pengobatan sebelumnya, dan luaran terpenting, lalu catat p
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan baru dan uji klinis penyakit sel sabit 2026
+
+- **Meta title:** Obat dan Uji Klinis Penyakit Sel Sabit: Bukti dan Pemeriksaan Akses di Tiongkok
+- **Meta description:** Bedakan hasil penelitian, pengajuan izin, dan penggunaan klinis obat sel sabit. Tinjau keamanan, kelayakan, serta akses perawatan di Tiongkok.

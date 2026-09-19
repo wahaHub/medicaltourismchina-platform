@@ -1,12 +1,14 @@
-# Procedures in follicular lymphoma: biopsy, venous access, marrow examination and cell collection
+# Follicular Lymphoma Procedures in China: Biopsy and Preparation
 
 ## Hero
 
-- **Title:** Procedures in follicular lymphoma: biopsy, venous access, marrow examination and cell collection
 - **Category:** Treatment Guides
 - **Subcategory:** Follicular Lymphoma
-- **Subtitle:** A person with follicular lymphoma may undergo lymph-node surgery, a marrow examination, placement of a port or cell collection.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Follicular Lymphoma Procedures in China: Biopsy and Preparation
+- **Subtitle:** Understand follicular lymphoma biopsy, venous access, marrow tests and cell collection, and confirm preparation and follow-up for procedures in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Length of admission, time needed near the hospital and fitness to fly depend on 
 ## SEO Metadata
 
 - **Primary keyword:** follicular lymphoma surgery and procedures
+
+- **Meta title:** Follicular Lymphoma Procedures in China: Biopsy and Preparation
+- **Meta description:** Understand follicular lymphoma biopsy, venous access, marrow tests and cell collection, and confirm preparation and follow-up for procedures in China.

@@ -1,15 +1,17 @@
-# 050 Estimulación cerebral profunda: Selección de candidatos, cirugía y seguimiento
+# Estimulación cerebral profunda en China: evaluación y programación
 
 ## Hero
 
-- **Title:** Estimulación cerebral profunda: Selección de candidatos, cirugía y seguimiento
 - **Category:** Guías de tratamiento
 - **Subcategory:** Neurología y neurocirugía
-- **Subtitle:** Decida si la DBS se ajusta al diagnóstico y a los síntomas que se pretende tratar, y si la programación a largo plazo seguirá siendo accesible después del viaje.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Paciente mayor revisando un diagrama del electrodo y el generador de impulsos de estimulación cerebral profunda con un neurólogo y un médico del equipo quirúrgico
+
+
+- **Title:** Estimulación cerebral profunda en China: evaluación y programación
+- **Subtitle:** Evalúe la DBS según diagnóstico, síntomas, diana, riesgo quirúrgico, programación, dispositivo, seguridad de resonancia y apoyo transfronterizo a largo plazo.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -182,13 +184,15 @@ Conserve la diana y el lado, las imágenes de ubicación de electrodos, el infor
 ## SEO Metadata
 
 - **Slug:** `deep-brain-stimulation-candidacy-surgery-and-follow-up`
-- **Meta title:** Estimulación cerebral profunda | Candidatura, cirugía y programación
-- **Meta description:** Evalúe la DBS según diagnóstico, síntomas, diana, riesgo quirúrgico, programación, dispositivo, seguridad de resonancia y apoyo transfronterizo a largo plazo.
 - **Primary keyword:** candidatura a estimulación cerebral profunda
 - **Pillar keyword:** cirugía y programación DBS
 - **Vertical keyword:** neurocirugía funcional
 - **Search intent:** evaluación de tratamiento / planificación a largo plazo
 - **Secondary keywords:** DBS Parkinson; DBS temblor esencial; DBS distonía; programación DBS; seguridad de resonancia DBS
+
+
+- **Meta title:** Estimulación cerebral profunda en China: evaluación y programación
+- **Meta description:** Evalúe la DBS según diagnóstico, síntomas, diana, riesgo quirúrgico, programación, dispositivo, seguridad de resonancia y apoyo transfronterizo a largo plazo.
 
 ## Fuentes
 

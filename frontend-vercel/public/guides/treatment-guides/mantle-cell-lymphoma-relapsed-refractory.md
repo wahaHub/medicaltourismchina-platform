@@ -1,12 +1,14 @@
-# Relapsed or Refractory Mantle Cell Lymphoma: Confirming Progression and Planning the Next Treatment
+# Relapsed Mantle Cell Lymphoma in China: Review and Next Steps
 
 ## Hero
 
-- **Title:** Relapsed or Refractory Mantle Cell Lymphoma: Confirming Progression and Planning the Next Treatment
 - **Category:** Treatment Guides
 - **Subcategory:** Mantle Cell Lymphoma
-- **Subtitle:** When a previously shrinking lymph node enlarges again, the urge to find the next drug can be immediate.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Relapsed Mantle Cell Lymphoma in China: Review and Next Steps
+- **Subtitle:** Prepare a mantle cell lymphoma relapse review in China with evidence of progression, prior treatments and questions about the next care plan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -118,3 +120,6 @@ You do not have to settle every future decision on the day of the consultation. 
 ## SEO Metadata
 
 - **Primary keyword:** relapsed refractory mantle cell lymphoma treatment
+
+- **Meta title:** Relapsed Mantle Cell Lymphoma in China: Review and Next Steps
+- **Meta description:** Prepare a mantle cell lymphoma relapse review in China with evidence of progression, prior treatments and questions about the next care plan.

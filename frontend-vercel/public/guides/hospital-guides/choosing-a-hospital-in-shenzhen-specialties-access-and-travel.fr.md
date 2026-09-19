@@ -1,15 +1,17 @@
-# 104 Choisir un hôpital à Shenzhen : adéquation clinique, limites transfrontalières et déplacements
+# Choisir un hôpital en Chine : Shenzhen et soins transfrontaliers
 
 ## Hero
 
-- **Title:** Choisir un hôpital à Shenzhen : adéquation clinique, limites transfrontalières et déplacements
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Organisation des soins à Shenzhen
-- **Subtitle:** Déterminez d'abord le responsable clinique et le site exact ; vérifiez ensuite toute la chaîne concernant le passeport, les données, la frontière, le paiement, les urgences et le retour à domicile.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Illustration conceptuelle de voyageurs internationaux comparant l'accès aux hôpitaux de Shenzhen ; la silhouette urbaine et les icônes d'hôpital, de médecin et de train ne désignent aucun site réel, itinéraire réel ni recommandation.
+
+
+- **Title:** Choisir un hôpital en Chine : Shenzhen et soins transfrontaliers
+- **Subtitle:** Choisissez un hôpital à Shenzhen en vérifiant le responsable clinique, le site légal, la chaîne du passeport et des données, les limites des politiques transfrontalières, l'itinéraire, le soutien d'urgence et la transmission à la sortie.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -224,13 +226,15 @@ Un projet pilote de coopération a existé, mais cela ne crée pas un droit à l
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-shenzhen-specialties-access-and-travel`
-- **Meta title:** Choisir un hôpital à Shenzhen : adéquation clinique et limites transfrontalières
-- **Meta description:** Choisissez un hôpital à Shenzhen en vérifiant le responsable clinique, le site légal, la chaîne du passeport et des données, les limites des politiques transfrontalières, l'itinéraire, le soutien d'urgence et la transmission à la sortie.
 - **Primary keyword:** choisir un hôpital à Shenzhen
 - **Pillar keyword:** hôpitaux de Shenzhen pour les patients internationaux
 - **Vertical keyword:** spécialités accès déplacements hôpitaux Shenzhen
 - **Search intent:** comparaison d'hôpitaux / organisation des soins à Shenzhen et Hong Kong
 - **Secondary keywords:** réservation hôpital Shenzhen passeport ; données médicales Shenzhen Hong Kong ; ambulance transfrontalière Shenzhen ; site hospitalier Shenzhen ; urgences Shenzhen 120
+
+
+- **Meta title:** Choisir un hôpital en Chine : Shenzhen et soins transfrontaliers
+- **Meta description:** Choisissez un hôpital à Shenzhen en vérifiant le responsable clinique, le site légal, la chaîne du passeport et des données, les limites des politiques transfrontalières, l'itinéraire, le soutien d'urgence et la transmission à la sortie.
 
 ## Sources
 

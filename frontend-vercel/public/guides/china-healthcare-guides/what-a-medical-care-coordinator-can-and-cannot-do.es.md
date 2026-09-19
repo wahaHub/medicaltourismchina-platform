@@ -1,15 +1,17 @@
-# 015 Qué puede y qué no puede hacer un coordinador de atención médica
+# Coordinadores de atención médica en China: funciones y límites
 
 ## Hero
 
-- **Title:** Qué puede y qué no puede hacer un coordinador de atención médica
 - **Category:** Guías del sistema sanitario chino
 - **Subcategory:** Coordinación del paciente y salvaguardas
-- **Subtitle:** Un buen coordinador elimina las dificultades logísticas y conserva la cadena de comunicación clínica; no se convierte en médico, intérprete, asegurador ni responsable de decidir.
 - **Reviewed by:** Equipo editorial de Medora Health; se requiere revisión de gobernanza clínica, contractual y de privacidad antes de la publicación
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Una coordinadora explica qué servicios prácticos puede prestar y qué decisiones clínicas siguen correspondiendo a profesionales autorizados
+
+
+- **Title:** Coordinadores de atención médica en China: funciones y límites
+- **Subtitle:** Defina la función de un coordinador médico, verifique honorarios y conflictos, proteja los registros y mantenga el diagnóstico, el consentimiento y el tratamiento en manos de médicos autorizados.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -215,13 +217,15 @@ Activar la vía escrita de derivación clínica, conectar al paciente con el equ
 ## SEO Metadata
 
 - **Slug:** `what-a-medical-care-coordinator-can-and-cannot-do`
-- **Meta title:** Qué puede y qué no puede hacer un coordinador de atención médica
-- **Meta description:** Defina la función de un coordinador médico, verifique honorarios y conflictos, proteja los registros y mantenga el diagnóstico, el consentimiento y el tratamiento en manos de médicos autorizados.
 - **Primary keyword:** coordinador de atención médica en China
 - **Pillar keyword:** atención sanitaria en China para pacientes internacionales
 - **Vertical keyword:** responsabilidades del coordinador de turismo médico
 - **Search intent:** informativa / diligencia debida del servicio
 - **Secondary keywords:** coordinador de pacientes en China; facilitador de viajes médicos; función del coordinador hospitalario
+
+
+- **Meta title:** Coordinadores de atención médica en China: funciones y límites
+- **Meta description:** Defina la función de un coordinador médico, verifique honorarios y conflictos, proteja los registros y mantenga el diagnóstico, el consentimiento y el tratamiento en manos de médicos autorizados.
 
 ## Fuentes
 

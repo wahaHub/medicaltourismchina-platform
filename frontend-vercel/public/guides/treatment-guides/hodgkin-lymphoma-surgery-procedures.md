@@ -1,12 +1,14 @@
-# Does Hodgkin lymphoma need surgery? Biopsy, venous access, and stem cell collection
+# Hodgkin Lymphoma Procedures in China: Biopsy and Cell Collection
 
 ## Hero
 
-- **Title:** Does Hodgkin lymphoma need surgery? Biopsy, venous access, and stem cell collection
 - **Category:** Treatment Guides
 - **Subcategory:** Hodgkin Lymphoma
-- **Subtitle:** Classical Hodgkin lymphoma is generally treated with systemic medicines, sometimes combined with radiotherapy.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Hodgkin Lymphoma Procedures in China: Biopsy and Cell Collection
+- **Subtitle:** Separate Hodgkin lymphoma diagnostic biopsy, venous access and stem-cell collection, and plan each procedure by its actual purpose in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ Ask the clinician which problem the procedure has resolved and what remains unfi
 ## SEO Metadata
 
 - **Primary keyword:** Hodgkin lymphoma surgery and procedures
+
+- **Meta title:** Hodgkin Lymphoma Procedures in China: Biopsy and Cell Collection
+- **Meta description:** Separate Hodgkin lymphoma diagnostic biopsy, venous access and stem-cell collection, and plan each procedure by its actual purpose in China.

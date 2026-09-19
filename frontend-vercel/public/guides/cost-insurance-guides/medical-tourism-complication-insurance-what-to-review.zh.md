@@ -1,15 +1,17 @@
-# 医疗旅行并发症保险：用真实救治情景检验保障
+# 赴中国医疗旅行：并发症保险核对指南
 
 ## Hero
 
-- **Title:** 医疗旅行并发症保险：用真实救治情景检验保障
 - **Category:** 费用与保险指南
 - **Subcategory:** 并发症保障
-- **Subtitle:** 如果计划中的赴华治疗引发急救、再次手术、医疗转运或回国后的延迟问题，提前核实谁付款、谁接管。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **图片替代文字：** 与《160 医疗旅行并发症保险：用真实救治情景检验保障》对应的临床场景，呈现相关诊疗决策、操作流程与安全核对。
+
+
+- **Title:** 赴中国医疗旅行：并发症保险核对指南
+- **Subtitle:** 核对并发症定义、除外、保障期限、治疗限额、急救付款、医疗转运及回国后延迟照护责任。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -216,13 +218,15 @@ CDC指出，医疗转运决定通常由保险方掌握，并可能取决于是�
 ## SEO Metadata
 
 - **Slug:** `medical-tourism-complication-insurance-what-to-review`
-- **Meta title:** 医疗旅行并发症保险：六类真实情景核对方法
-- **Meta description:** 核对并发症定义、除外、保障期限、治疗限额、急救付款、医疗转运及回国后延迟照护责任。
 - **Primary keyword:** 医疗旅行并发症保险
 - **Pillar keyword:** 医疗旅行保险
 - **Vertical keyword:** 境外治疗并发症保障
 - **Search intent:** 保险比较 / 风险规划
 - **Secondary keywords:** 选择性手术旅行保险；海外治疗并发症保障；医疗转运保险；医疗旅行翻修保障；回国后并发症照护
+
+
+- **Meta title:** 赴中国医疗旅行：并发症保险核对指南
+- **Meta description:** 核对并发症定义、除外、保障期限、治疗限额、急救付款、医疗转运及回国后延迟照护责任。
 
 ## Sources
 

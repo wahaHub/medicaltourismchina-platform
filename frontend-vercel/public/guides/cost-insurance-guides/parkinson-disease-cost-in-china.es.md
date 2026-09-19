@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Costes del tratamiento del Parkinson en China: medicación, DBS y gastos posteriores al tratamiento
 - **Category:** Guías de costes y seguros
 - **Subcategory:** Enfermedad de Parkinson
-- **Subtitle:** El coste de la atención del Parkinson depende del problema que se aborda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Costes del tratamiento del Parkinson en China: medicación, DBS y gastos posteriores al tratamiento
+- **Subtitle:** Planifique los costes del Parkinson en China incluyendo medicación, evaluación, estimulación cerebral profunda y los ajustes y cuidados posteriores.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Conserve el nombre formal del hospital, la fecha del presupuesto, el período de
 ## SEO Metadata
 
 - **Primary keyword:** coste del tratamiento de la enfermedad de Parkinson en China
+
+- **Meta title:** Costes del tratamiento del Parkinson en China: medicación, DBS y gastos posteriores al tratamiento
+- **Meta description:** Planifique los costes del Parkinson en China incluyendo medicación, evaluación, estimulación cerebral profunda y los ajustes y cuidados posteriores.

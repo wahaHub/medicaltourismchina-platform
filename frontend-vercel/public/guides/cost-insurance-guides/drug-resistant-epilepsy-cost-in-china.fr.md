@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Combien coûte le traitement de l’épilepsie pharmacorésistante en Chine ? Établir une estimation exploitable
 - **Category:** Guides des coûts et des assurances
 - **Subcategory:** Épilepsie pharmacorésistante
-- **Subtitle:** Les patients souhaitent légitimement savoir ce qu’ils doivent prévoir financièrement avant de choisir où se faire soigner.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Combien coûte le traitement de l’épilepsie pharmacorésistante en Chine ? Établir une estimation exploitable
+- **Subtitle:** Pour l’épilepsie pharmacorésistante en Chine, distinguez le coût du bilan, de la vidéo-EEG, de la localisation des crises et d’un éventuel traitement.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -171,3 +173,6 @@ Le résultat le plus utile est une explication clinique de la nécessité des pr
 ## SEO Metadata
 
 - **Primary keyword:** coût du traitement de l’épilepsie pharmacorésistante en Chine ; budget de chirurgie de l’épilepsie ; coûts de la SEEG ; couverture d’assurance de l’épilepsie en Chine
+
+- **Meta title:** Combien coûte le traitement de l’épilepsie pharmacorésistante en Chine ? Établir une estimation exploitable
+- **Meta description:** Pour l’épilepsie pharmacorésistante en Chine, distinguez le coût du bilan, de la vidéo-EEG, de la localisation des crises et d’un éventuel traitement.

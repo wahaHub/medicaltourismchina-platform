@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Dossier médical pour une consultation de GVHD en Chine : relier les antécédents de greffe, les changements des organes et la réponse au traitement
 - **Category:** Guides du parcours patient
 - **Subcategory:** Maladie du greffon contre l’hôte
-- **Subtitle:** De nombreux patients possèdent un vaste ensemble de documents sur leur GVHD : comptes rendus de sortie après greffe, analyses mensuelles, comptes rendus de biopsie, prescriptions de plusieurs spécialités et photographies cutanées conservées sur un téléphone.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dossier médical pour une consultation de GVHD en Chine : relier les antécédents de greffe, les changements des organes et la réponse au traitement
+- **Subtitle:** Préparez un dossier de GVH pour la Chine en reliant histoire de greffe, atteintes des organes, traitements, interruptions et évolution de la réponse.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Lors de la consultation, confirmez comment la nouvelle évaluation et l’ordonn
 ## SEO Metadata
 
 - **Primary keyword:** dossier médical pour une consultation de GVHD en Chine
+
+- **Meta title:** Dossier médical pour une consultation de GVHD en Chine : relier les antécédents de greffe, les changements des organes et la réponse au traitement
+- **Meta description:** Préparez un dossier de GVH pour la Chine en reliant histoire de greffe, atteintes des organes, traitements, interruptions et évolution de la réponse.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Follicular lymphoma treatment costs in China: budgeting for assessment, the course and continuing care
 - **Category:** Cost & Insurance Guides
 - **Subcategory:** Follicular Lymphoma
-- **Subtitle:** The cost of follicular lymphoma care in China depends first on what the patient will receive.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Follicular lymphoma treatment costs in China: budgeting for assessment, the course and continuing care
+- **Subtitle:** Prepare a follicular lymphoma budget in China that distinguishes assessment, treatment cycles, maintenance, monitoring and continuing care.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Unstable health requires treatment of the acute problem before optimizing an int
 ## SEO Metadata
 
 - **Primary keyword:** follicular lymphoma treatment cost in China
+
+- **Meta title:** Follicular lymphoma treatment costs in China: budgeting for assessment, the course and continuing care
+- **Meta description:** Prepare a follicular lymphoma budget in China that distinguishes assessment, treatment cycles, maintenance, monitoring and continuing care.

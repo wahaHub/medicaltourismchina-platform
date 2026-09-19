@@ -1,12 +1,14 @@
-# Comprendre un compte rendu de SEP : lésions à l’IRM, résultats du liquide céphalorachidien et mesures fonctionnelles
+# Comptes rendus de sclérose en plaques : préparer une relecture en Chine
 
 ## Hero
 
-- **Title:** Comprendre un compte rendu de SEP : lésions à l’IRM, résultats du liquide céphalorachidien et mesures fonctionnelles
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Sclérose en plaques
-- **Subtitle:** Des termes comme « lésions multiples », « démyélinisation possible » et « bandes oligoclonales positives » peuvent sembler être des conclusions immédiates sur la gravité ou l’échec du traitement.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Comptes rendus de sclérose en plaques : préparer une relecture en Chine
+- **Subtitle:** Reliez lésions à l’IRM, résultats du liquide céphalorachidien et mesures fonctionnelles de la SEP pour préparer une relecture spécialisée en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Si d’autres examens sont demandés, demandez quelles informations manquent dan
 ## SEO Metadata
 
 - **Primary keyword:** interprétation des comptes rendus d’IRM et d’examens de sclérose en plaques
+
+- **Meta title:** Comptes rendus de sclérose en plaques : préparer une relecture en Chine
+- **Meta description:** Reliez lésions à l’IRM, résultats du liquide céphalorachidien et mesures fonctionnelles de la SEP pour préparer une relecture spécialisée en Chine.

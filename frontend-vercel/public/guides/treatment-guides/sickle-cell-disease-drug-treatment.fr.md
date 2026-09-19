@@ -1,12 +1,14 @@
-# Vérifier les médicaments de la drépanocytose : hydroxyurée, actualités réglementaires, soulagement de la douleur et surveillance
+# Médicaments de la drépanocytose en Chine : vérifier l’accès et la surveillance
 
 ## Hero
 
-- **Title:** Vérifier les médicaments de la drépanocytose : hydroxyurée, actualités réglementaires, soulagement de la douleur et surveillance
 - **Category:** Guides des traitements
 - **Subcategory:** Drépanocytose
-- **Subtitle:** Une liste de médicaments de la drépanocytose peut comprendre un traitement quotidien, des médicaments pour les épisodes douloureux, la prévention infectieuse et des traitements de la surcharge en fer transfusionnelle.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Médicaments de la drépanocytose en Chine : vérifier l’accès et la surveillance
+- **Subtitle:** Distinguez traitement de fond et soulagement des crises de drépanocytose. Préparez en Chine les vérifications sur les produits et leur surveillance.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Avant de quitter la consultation, le plan médicamenteux doit préciser les pris
 ## SEO Metadata
 
 - **Primary keyword:** médicaments pour la drépanocytose
+
+- **Meta title:** Médicaments de la drépanocytose en Chine : vérifier l’accès et la surveillance
+- **Meta description:** Distinguez traitement de fond et soulagement des crises de drépanocytose. Préparez en Chine les vérifications sur les produits et leur surveillance.

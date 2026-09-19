@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Vingt questions des familles sur la maladie d’Alzheimer et les soins en Chine
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Maladie d’Alzheimer
-- **Subtitle:** Les familles rencontrent des informations très diverses sur Alzheimer : tests sanguins diagnostiques, médicaments à base d’anticorps, promesses chirurgicales, annonces de recherche et offres de traitement à l’étranger.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Vingt questions des familles sur la maladie d’Alzheimer et les soins en Chine
+- **Subtitle:** Préparez en famille une consultation Alzheimer en Chine : 20 questions sur les oublis, le diagnostic, l’hérédité, les médicaments et les soins quotidiens.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ La famille doit savoir quel clinicien prescrira, où auront lieu les examens né
 ## SEO Metadata
 
 - **Primary keyword:** questions fréquentes sur le traitement de la maladie d’Alzheimer
+
+- **Meta title:** Vingt questions des familles sur la maladie d’Alzheimer et les soins en Chine
+- **Meta description:** Préparez en famille une consultation Alzheimer en Chine : 20 questions sur les oublis, le diagnostic, l’hérédité, les médicaments et les soins quotidiens.

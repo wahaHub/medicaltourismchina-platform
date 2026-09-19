@@ -1,12 +1,14 @@
-# Multiple myeloma types and risk: understanding the different labels
+# Multiple Myeloma Types and Risk: Specialist Review in China
 
 ## Hero
 
-- **Title:** Multiple myeloma types and risk: understanding the different labels
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Multiple Myeloma
-- **Subtitle:** A person with myeloma may be described as having IgG disease, high-risk findings, transplant eligibility, and an early relapse.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Multiple Myeloma Types and Risk: Specialist Review in China
+- **Subtitle:** Separate myeloma disease labels, staging, genetic risk and fitness, and use them to prepare a focused specialist consultation in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ The aim is an evidence-based choice, a clear monitoring focus, and a response pl
 ## SEO Metadata
 
 - **Primary keyword:** multiple myeloma types and risk stratification
+
+- **Meta title:** Multiple Myeloma Types and Risk: Specialist Review in China
+- **Meta description:** Separate myeloma disease labels, staging, genetic risk and fitness, and use them to prepare a focused specialist consultation in China.

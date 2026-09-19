@@ -1,12 +1,14 @@
-# Is Surgery Needed After Ischemic Stroke? Emergency, Preventive and Rehabilitation Procedures
+# Stroke Procedures in China: Emergency and Rehabilitation Roles
 
 ## Hero
 
-- **Title:** Is Surgery Needed After Ischemic Stroke? Emergency, Preventive and Rehabilitation Procedures
 - **Category:** Treatment Guides
 - **Subcategory:** Post Ischemic Stroke Rehabilitation
-- **Subtitle:** Hearing that another operation might be possible can lead a person in stroke rehabilitation to hope that movement will return immediately.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Stroke Procedures in China: Emergency and Rehabilitation Roles
+- **Subtitle:** Distinguish emergency, preventive and rehabilitation-related procedures after ischemic stroke, and assess the complete pathway before care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ Where uncertainty remains, ask relevant professionals to explain the evidence to
 ## SEO Metadata
 
 - **Primary keyword:** surgery after ischemic stroke rehabilitation
+
+- **Meta title:** Stroke Procedures in China: Emergency and Rehabilitation Roles
+- **Meta description:** Distinguish emergency, preventive and rehabilitation-related procedures after ischemic stroke, and assess the complete pathway before care in China.

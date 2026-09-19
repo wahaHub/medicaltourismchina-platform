@@ -1,12 +1,14 @@
-# Follow-up after returning home from T-cell lymphoma treatment: coordinating tests, medicines and new symptoms
+# T-Cell Lymphoma Follow-Up After Treatment in China
 
 ## Hero
 
-- **Title:** Follow-up after returning home from T-cell lymphoma treatment: coordinating tests, medicines and new symptoms
 - **Category:** Patient Journey Guides
 - **Subcategory:** T Cell Lymphoma
-- **Subtitle:** Some patients return home in complete remission, others continue an oral medicine, and others have recently left a transplant unit.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** T-Cell Lymphoma Follow-Up After Treatment in China
+- **Subtitle:** Continue T-cell lymphoma care after returning from China with agreed tests, medicine instructions, new-symptom reporting and a usable clinical handover.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Keep the patient's copy of the plan current and remove superseded instructions f
 ## SEO Metadata
 
 - **Primary keyword:** T-cell lymphoma follow-up after returning home
+
+- **Meta title:** T-Cell Lymphoma Follow-Up After Treatment in China
+- **Meta description:** Continue T-cell lymphoma care after returning from China with agreed tests, medicine instructions, new-symptom reporting and a usable clinical handover.

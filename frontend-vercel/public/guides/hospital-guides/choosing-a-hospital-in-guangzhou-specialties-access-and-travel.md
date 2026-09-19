@@ -1,15 +1,17 @@
-# Choosing a Hospital in Guangzhou: Specialties, Access, and Travel
+# Choosing a Hospital in China: Guangzhou Campus Guide
 
 ## Hero
 
-- **Title:** Choosing a Hospital in Guangzhou: Specialties, Access, and Travel
 - **Category:** Hospital Guides
 - **Subcategory:** Guangzhou Care Planning
-- **Subtitle:** Match the case to a verified team, then test whether the campus, booking identity, Greater Bay Area route and recovery plan actually connect.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Conceptual illustration of international travellers comparing a Guangzhou hospital with a map and calendar; the skyline and hospital are not a real campus pairing.
+
+
+- **Title:** Choosing a Hospital in China: Guangzhou Campus Guide
+- **Subtitle:** Choose a Guangzhou hospital by verified team, campus, passport access, emergency backup, Baiyun airport or rail route, cross-border risk and discharge handoff.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -249,13 +251,15 @@ No. Confirm which clinical documents are bilingual, who translates them, when fi
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-guangzhou-specialties-access-and-travel`
-- **Meta title:** Choosing a Hospital in Guangzhou: Campus and Travel
-- **Meta description:** Choose a Guangzhou hospital by verified team, campus, passport access, emergency backup, Baiyun airport or rail route, cross-border risk and discharge handoff.
 - **Primary keyword:** choosing a hospital in Guangzhou
 - **Pillar keyword:** Guangzhou hospitals for international patients
 - **Vertical keyword:** Guangzhou hospital specialty access travel
 - **Search intent:** hospital comparison / Greater Bay Area medical travel
 - **Secondary keywords:** Guangzhou Health Link foreign patient; Guangzhou hospital campus; Baiyun Airport hospital travel; Guangzhou 120 English; Guangzhou international medical service
+
+
+- **Meta title:** Choosing a Hospital in China: Guangzhou Campus Guide
+- **Meta description:** Choose a Guangzhou hospital by verified team, campus, passport access, emergency backup, Baiyun airport or rail route, cross-border risk and discharge handoff.
 
 ## Sources
 

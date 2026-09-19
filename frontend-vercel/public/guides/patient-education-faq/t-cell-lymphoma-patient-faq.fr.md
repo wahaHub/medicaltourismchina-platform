@@ -1,12 +1,14 @@
-# Vingt questions de patients sur le lymphome T : diagnostic, traitement et décisions quotidiennes
+# Soins du lymphome T en Chine : 20 questions de patients
 
 ## Hero
 
-- **Title:** Vingt questions de patients sur le lymphome T : diagnostic, traitement et décisions quotidiennes
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Lymphome T
-- **Subtitle:** Cela suffit pour commencer à contacter un spécialiste, mais généralement pas pour définir l’ensemble du plan de traitement.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Soins du lymphome T en Chine : 20 questions de patients
+- **Subtitle:** Préparez vos soins du lymphome T en Chine : 20 questions pour comprendre le sous-type, la biopsie, les marqueurs et les décisions thérapeutiques.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -136,3 +138,6 @@ Apportez les comptes rendus complets d’anatomopathologie et de consultation, l
 ## SEO Metadata
 
 - **Primary keyword:** questions des patients sur le lymphome T
+
+- **Meta title:** Soins du lymphome T en Chine : 20 questions de patients
+- **Meta description:** Préparez vos soins du lymphome T en Chine : 20 questions pour comprendre le sous-type, la biopsie, les marqueurs et les décisions thérapeutiques.

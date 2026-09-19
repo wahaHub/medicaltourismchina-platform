@@ -1,15 +1,17 @@
-# Viajes médicos con movilidad reducida: planifique cada traslado, no solo el vuelo
+# Viajes médicos a China con movilidad reducida: asistencia
 
 ## Hero
 
-- **Title:** Viajes médicos con movilidad reducida: planifique cada traslado, no solo el vuelo
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Accesibilidad y recuperación
-- **Subtitle:** Una guía puerta a puerta sobre solicitudes de asistencia, manejo de sillas de ruedas, uso del baño, alivio de presión, acceso hospitalario, alojamiento y apoyo durante la recuperación.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Una persona usuaria de silla de ruedas y su acompañante revisan la asistencia aeroportuaria, el acceso hospitalario y las fechas de recuperación antes del viaje médico
+
+
+- **Title:** Viajes médicos a China con movilidad reducida: asistencia
+- **Subtitle:** Planifique asistencia con silla de ruedas, transferencias, baterías, asiento, baño, acceso hospitalario y recuperación para viajes médicos con movilidad reducida.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - El destino debe funcionar tras la llegada: transferencia al vehículo, anchura de puertas, altura de cama e inodoro, acceso a ducha, ascensores, rutas hospitalarias y reparación fiable de equipos importan tanto como el avión.
 
 ## Content
+
+Si un paciente con movilidad reducida viaja a China para recibir atención, revise cada traslado desde la dirección de salida hasta el hospital y el alojamiento de recuperación. Registre la asistencia, los detalles de la silla de ruedas y el apoyo para los cuidados personales que necesita, y vuelva a revisar el recorrido de regreso después del tratamiento.
+
 
 La movilidad reducida es una descripción funcional, no un diagnóstico. Una persona puede caminar unos metros pero no subir escaleras del avión. Otra puede transferirse de forma independiente pero no sentarse sin un cojín de alivio de presión. Una tercera necesita dos personas formadas y una grúa. El itinerario solo es seguro cuando cada traspaso se organiza según la función real.
 
@@ -159,11 +164,13 @@ Retrase y reevalúe si las transferencias son inseguras, el dolor no está contr
 
 ## SEO Metadata
 
-- **SEO title:** Viajes médicos con movilidad reducida: guía puerta a puerta
-- **Meta description:** Planifique asistencia con silla de ruedas, transferencias, baterías, asiento, baño, acceso hospitalario y recuperación para viajes médicos con movilidad reducida.
 - **Primary keyword:** viajes médicos con movilidad reducida
 - **Secondary keywords:** asistencia aeroportuaria con silla de ruedas, viaje aéreo con silla eléctrica, viajes médicos accesibles, transferencia hospitalaria en silla de ruedas, viajes de recuperación de movilidad
 - **Suggested URL slug:** `/medical-travel-limited-mobility`
+
+
+- **Meta title:** Viajes médicos a China con movilidad reducida: asistencia
+- **Meta description:** Planifique asistencia con silla de ruedas, transferencias, baterías, asiento, baño, acceso hospitalario y recuperación para viajes médicos con movilidad reducida.
 
 ## Fuentes
 

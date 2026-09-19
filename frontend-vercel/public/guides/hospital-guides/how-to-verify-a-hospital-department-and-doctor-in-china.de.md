@@ -1,15 +1,17 @@
-# 097 So überprüfen Sie ein Krankenhaus, eine Abteilung und einen Arzt in China
+# Ein Krankenhaus, eine Abteilung und einen Arzt in China überprüfen
 
 ## Hero
 
-- **Title:** So überprüfen Sie ein Krankenhaus, eine Abteilung und einen Arzt in China
 - **Category:** Krankenhausratgeber
 - **Subcategory:** Überprüfung von Leistungserbringern
-- **Subtitle:** Prüfen Sie drei Identitäten getrennt und bestätigen Sie anschließend, dass der genaue Standort und das Team die vorgeschlagene Versorgung leisten können.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Konzeptillustration eines internationalen Patienten, der mit einer Krankenhauskoordination Krankenhaus-, Arzt- und Sicherheitssymbole prüft; das Heft ist kein offizieller Qualifikationsnachweis.
+
+
+- **Title:** Ein Krankenhaus, eine Abteilung und einen Arzt in China überprüfen
+- **Subtitle:** Prüfen Sie Erlaubnis und Standort eines chinesischen Krankenhauses, Abteilungsumfang, Arztregistrierung und Bestellung, Eingriffsbefugnis, Aktenprüfung, Zahlung und Kommunikationsweg.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -206,11 +208,13 @@ Eine datierte Antwort über einen Krankenhauskanal, die Arzt, geprüfte Unterlag
 ## SEO Metadata
 
 - **Slug:** `how-to-verify-a-hospital-department-and-doctor-in-china`
-- **Meta title:** Chinesisches Krankenhaus, Abteilung und Arzt überprüfen
-- **Meta description:** Prüfen Sie Erlaubnis und Standort eines chinesischen Krankenhauses, Abteilungsumfang, Arztregistrierung und Bestellung, Eingriffsbefugnis, Aktenprüfung, Zahlung und Kommunikationsweg.
 - **Primary keyword:** Krankenhaus und Arzt in China überprüfen
 - **Secondary keywords:** Arztregistrierung China prüfen; chinesische Krankenhauserlaubnis; Krankenhausstandort überprüfen; Operationsberechtigung China; Krankenhausprüfung für internationale Patienten
 - **Search intent:** Identität und Fähigkeiten von Leistungserbringern überprüfen
+
+
+- **Meta title:** Ein Krankenhaus, eine Abteilung und einen Arzt in China überprüfen
+- **Meta description:** Prüfen Sie Erlaubnis und Standort eines chinesischen Krankenhauses, Abteilungsumfang, Arztregistrierung und Bestellung, Eingriffsbefugnis, Aktenprüfung, Zahlung und Kommunikationsweg.
 
 ## Quellen
 

@@ -1,12 +1,14 @@
-# Gérer les effets indésirables du traitement du lymphome T : quand demander de l’aide et que consigner à domicile
+# Soins du lymphome T en Chine : effets indésirables et aide urgente
 
 ## Hero
 
-- **Title:** Gérer les effets indésirables du traitement du lymphome T : quand demander de l’aide et que consigner à domicile
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Lymphome T
-- **Subtitle:** Face à un nouveau symptôme, on se demande souvent d’abord s’il s’agit d’un effet indésirable normal.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Soins du lymphome T en Chine : effets indésirables et aide urgente
+- **Subtitle:** Préparez un plan de contact pendant le traitement du lymphome T en Chine pour la fièvre, les saignements, les troubles sensitifs et les douleurs buccales.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -111,3 +113,6 @@ Avant de rentrer chez vous, obtenez la dernière numération sanguine, les résu
 ## SEO Metadata
 
 - **Primary keyword:** effets indésirables du traitement du lymphome T
+
+- **Meta title:** Soins du lymphome T en Chine : effets indésirables et aide urgente
+- **Meta description:** Préparez un plan de contact pendant le traitement du lymphome T en Chine pour la fièvre, les saignements, les troubles sensitifs et les douleurs buccales.

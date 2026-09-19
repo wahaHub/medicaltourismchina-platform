@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choosing a GVHD hospital in China: transplant follow-up and organ-specific care
 - **Category:** Hospital Guides
 - **Subcategory:** Graft Versus Host Disease
-- **Subtitle:** The search for a hospital becomes more useful when the problem is specific.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choosing a GVHD hospital in China: transplant follow-up and organ-specific care
+- **Subtitle:** Compare GVHD hospitals in China by transplant follow-up, organ-specific expertise, complication support and coordination with the home team.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ The suitable hospital is one that can connect the current clinical question with
 ## SEO Metadata
 
 - **Primary keyword:** hospitals for GVHD treatment in China
+
+- **Meta title:** Choosing a GVHD hospital in China: transplant follow-up and organ-specific care
+- **Meta description:** Compare GVHD hospitals in China by transplant follow-up, organ-specific expertise, complication support and coordination with the home team.

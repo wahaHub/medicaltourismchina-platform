@@ -1,12 +1,14 @@
-# Behandlungen des multiplen Myeloms vergleichen: Krankheitsphase und Resistenzgeschichte berücksichtigen
+# Behandlungen beim multiplen Myelom in China: Nach Versorgungsphase vergleichen
 
 ## Hero
 
-- **Title:** Behandlungen des multiplen Myeloms vergleichen: Krankheitsphase und Resistenzgeschichte berücksichtigen
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Multiples Myelom
-- **Subtitle:** Wenn sich zwei Myelomempfehlungen unterscheiden, klärt die Frage nach der stärkeren Behandlung die Entscheidung möglicherweise nicht.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Behandlungen beim multiplen Myelom in China: Nach Versorgungsphase vergleichen
+- **Subtitle:** Myelomtherapien in China nach Versorgungsphase vergleichen: Vorbehandlung, Resistenzen, Transplantation und Immuntherapien mit denselben Behandlungszielen beurteilen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Fragen Sie abschließend jeden Arzt, welche Evidenz oder persönliche Einschrän
 ## SEO Metadata
 
 - **Primary keyword:** Behandlungsvergleich beim multiplen Myelom
+
+- **Meta title:** Behandlungen beim multiplen Myelom in China: Nach Versorgungsphase vergleichen
+- **Meta description:** Myelomtherapien in China nach Versorgungsphase vergleichen: Vorbehandlung, Resistenzen, Transplantation und Immuntherapien mit denselben Behandlungszielen beurteilen.

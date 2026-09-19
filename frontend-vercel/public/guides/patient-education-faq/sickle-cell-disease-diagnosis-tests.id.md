@@ -1,12 +1,14 @@
-# Pemeriksaan Penyakit Sel Sabit: Dari Hasil Skrining hingga Diagnosis yang Dikonfirmasi
+# Diagnosis Penyakit Sel Sabit di Tiongkok: Pemeriksaan dan Konfirmasi
 
 ## Hero
 
-- **Title:** Pemeriksaan Penyakit Sel Sabit: Dari Hasil Skrining hingga Diagnosis yang Dikonfirmasi
 - **Category:** Edukasi Pasien & Pertanyaan yang Sering Diajukan
 - **Subcategory:** Penyakit Sel Sabit
-- **Subtitle:** Laporan yang menyatakan hemoglobin S, atau HbS, terdeteksi dapat menimbulkan pertanyaan pada orang yang belum pernah merasa sakit, atau memulai alur perawatan penting bagi bayi baru lahir.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnosis Penyakit Sel Sabit di Tiongkok: Pemeriksaan dan Konfirmasi
+- **Subtitle:** Pahami peran hitung darah, analisis hemoglobin, dan konfirmasi setelah skrining sel sabit. Siapkan riwayat serta hasil untuk diagnosis di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Pada akhir proses diagnostik, mintalah kesimpulan dalam bahasa awam: penyakit at
 ## SEO Metadata
 
 - **Primary keyword:** tes untuk mendiagnosis penyakit sel sabit
+
+- **Meta title:** Diagnosis Penyakit Sel Sabit di Tiongkok: Pemeriksaan dan Konfirmasi
+- **Meta description:** Pahami peran hitung darah, analisis hemoglobin, dan konfirmasi setelah skrining sel sabit. Siapkan riwayat serta hasil untuk diagnosis di Tiongkok.

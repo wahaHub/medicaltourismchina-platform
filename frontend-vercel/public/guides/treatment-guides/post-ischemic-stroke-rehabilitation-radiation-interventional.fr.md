@@ -1,12 +1,14 @@
-# Stimulation, injections locales et interfaces cerveau–ordinateur dans la rééducation après un AVC
+# Dispositifs de réadaptation après AVC en Chine : stimulation et interfaces cerveau-ordinateur
 
 ## Hero
 
-- **Title:** Stimulation, injections locales et interfaces cerveau–ordinateur dans la rééducation après un AVC
 - **Category:** Guides de traitement
 - **Subcategory:** Rééducation après un AVC ischémique
-- **Subtitle:** Stimulation électrique, stimulation magnétique, neuromodulation et interfaces cerveau–ordinateur peuvent sembler désigner des interventions très proches dans un programme de rééducation.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dispositifs de réadaptation après AVC en Chine : stimulation et interfaces cerveau-ordinateur
+- **Subtitle:** Comprenez les rôles de la stimulation, des injections locales et des interfaces cerveau-ordinateur après AVC pour préparer une réadaptation ciblée en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Lorsque les attentes ne sont pas satisfaites, réexaminez l’adéquation, la m�
 ## SEO Metadata
 
 - **Primary keyword:** stimulation et interventions de rééducation après un AVC
+
+- **Meta title:** Dispositifs de réadaptation après AVC en Chine : stimulation et interfaces cerveau-ordinateur
+- **Meta description:** Comprenez les rôles de la stimulation, des injections locales et des interfaces cerveau-ordinateur après AVC pour préparer une réadaptation ciblée en Chine.

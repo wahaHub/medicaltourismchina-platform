@@ -1,12 +1,14 @@
-# Does T-cell lymphoma need surgery? Biopsy, vascular access, bowel procedures and cell collection
+# T-Cell Lymphoma Procedures in China: Purpose and Preparation
 
 ## Hero
 
-- **Title:** Does T-cell lymphoma need surgery? Biopsy, vascular access, bowel procedures and cell collection
 - **Category:** Treatment Guides
 - **Subcategory:** T Cell Lymphoma
-- **Subtitle:** “The lymph node was removed, so why is more treatment needed?” “Does a stem cell transplant mean an operation to replace the marrow?” Several procedures may be called surgery in everyday conversation, although they serve very different purposes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** T-Cell Lymphoma Procedures in China: Purpose and Preparation
+- **Subtitle:** Understand the purposes of T-cell lymphoma biopsy, vascular access, bowel procedures and cell collection before arranging a procedure in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ For example, a surgical wound review and a haematology appointment may answer di
 ## SEO Metadata
 
 - **Primary keyword:** surgery and procedures for T-cell lymphoma
+
+- **Meta title:** T-Cell Lymphoma Procedures in China: Purpose and Preparation
+- **Meta description:** Understand the purposes of T-cell lymphoma biopsy, vascular access, bowel procedures and cell collection before arranging a procedure in China.

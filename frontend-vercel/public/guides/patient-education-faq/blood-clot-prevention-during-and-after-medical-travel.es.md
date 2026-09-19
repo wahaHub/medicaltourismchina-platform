@@ -1,15 +1,17 @@
-# Prevención de coágulos durante los viajes médicos: conecte el plan hospitalario con el regreso a casa
+# Cirugía y viajes médicos a China: prevención de coágulos
 
 ## Hero
 
-- **Title:** Prevención de coágulos durante los viajes médicos: conecte el plan hospitalario con el regreso a casa
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Seguridad en viajes y recuperación
-- **Subtitle:** Cómo conectar la evaluación quirúrgica del TEV, la movilidad temprana, la compresión y los anticoagulantes con vuelos largos, traslados terrestres y síntomas urgentes de TVP o embolia pulmonar.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Sustitución prevista que muestra a un viajero posoperatorio, la circulación venosa de la parte inferior de la pierna, caminar y ejercicios de pantorrilla, medias de compresión, anticoagulación prescrita y signos de alarma urgentes de TVP/EP
+
+
+- **Title:** Cirugía y viajes médicos a China: prevención de coágulos
+- **Subtitle:** Conecte la prevención quirúrgica de TVP y EP con vuelos largos y traslados: evaluación del riesgo, caminar, compresión, anticoagulantes, aptitud para viajar y síntomas urgentes.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,11 +144,13 @@ Trátela como una emergencia, especialmente con dolor torácico, desmayo, tos co
 
 ## SEO Metadata
 
-- **SEO title:** Prevención de coágulos después de cirugía y durante viajes médicos
-- **Meta description:** Conecte la prevención quirúrgica de TVP y EP con vuelos largos y traslados: evaluación del riesgo, caminar, compresión, anticoagulantes, aptitud para viajar y síntomas urgentes.
 - **Primary keyword:** prevención de coágulos viajes médicos
 - **Secondary keywords:** TVP después de cirugía, embolia pulmonar viajes, profilaxis del TEV, medias de compresión vuelo, anticoagulante después de cirugía, aptitud para volar coágulo
 - **Suggested URL slug:** `/blood-clot-prevention-surgery-medical-travel-dvt-pe`
+
+
+- **Meta title:** Cirugía y viajes médicos a China: prevención de coágulos
+- **Meta description:** Conecte la prevención quirúrgica de TVP y EP con vuelos largos y traslados: evaluación del riesgo, caminar, compresión, anticoagulantes, aptitud para viajar y síntomas urgentes.
 
 ## Fuentes
 

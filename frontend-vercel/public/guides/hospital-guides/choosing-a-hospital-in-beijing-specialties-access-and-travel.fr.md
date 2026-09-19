@@ -1,15 +1,17 @@
-# 101 Choisir un hôpital à Pékin : spécialités, accès et voyage
+# Choisir un hôpital en Chine : soins et voyage à Pékin
 
 ## Hero
 
-- **Title:** Choisir un hôpital à Pékin : spécialités, accès et voyage
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Planification des soins à Pékin
-- **Subtitle:** Choisissez d’abord le parcours clinique, confirmez ensuite le site exact et organisez le voyage autour de la séquence réelle des rendez-vous.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Illustration conceptuelle de voyageurs internationaux planifiant l’accès à un hôpital de Pékin avec une carte et un calendrier ; le monument et l’hôpital ne correspondent pas à une véritable association de site et de localisation.
+
+
+- **Title:** Choisir un hôpital en Chine : soins et voyage à Pékin
+- **Subtitle:** Une méthode pratique pour choisir un hôpital à Pékin selon la spécialité, le site exact, les rendez-vous, la géographie, le paiement et un retour sûr pour les patients internationaux.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -232,13 +234,15 @@ Il n’existe pas de durée générique sûre. Elle dépend des examens, du dél
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-beijing-specialties-access-and-travel`
-- **Meta title:** Choisir un hôpital à Pékin : spécialité, site et voyage
-- **Meta description:** Une méthode pratique pour choisir un hôpital à Pékin selon la spécialité, le site exact, les rendez-vous, la géographie, le paiement et un retour sûr pour les patients internationaux.
 - **Primary keyword:** choisir un hôpital à Pékin
 - **Pillar keyword:** hôpitaux de Pékin pour patients internationaux
 - **Vertical keyword:** spécialité accès voyage hôpital Pékin
 - **Search intent:** comparaison des hôpitaux / planification du voyage
 - **Secondary keywords:** site hospitalier Pékin ; rendez-vous patient international Pékin ; réservation hôpital Pékin 114 ; voyage médical Pékin ; spécialité hospitalière Pékin
+
+
+- **Meta title:** Choisir un hôpital en Chine : soins et voyage à Pékin
+- **Meta description:** Une méthode pratique pour choisir un hôpital à Pékin selon la spécialité, le site exact, les rendez-vous, la géographie, le paiement et un retour sûr pour les patients internationaux.
 
 ## Sources
 

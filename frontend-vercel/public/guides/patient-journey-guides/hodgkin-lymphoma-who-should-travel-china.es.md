@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Debería viajar a China para recibir atención del linfoma de Hodgkin? Valor de la derivación y preparación médica
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Linfoma de Hodgkin
-- **Subtitle:** Viajar a China para recibir atención del linfoma de Hodgkin implica dos preguntas separadas: qué puede lograr la visita y si la persona está médicamente preparada para el viaje.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Debería viajar a China para recibir atención del linfoma de Hodgkin? Valor de la derivación y preparación médica
+- **Subtitle:** Defina qué puede aportar una consulta de linfoma de Hodgkin en China y compruebe la preparación médica, la revisión diagnóstica y la continuidad del tratamiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,3 +143,6 @@ Antes de decidir, pida a los equipos que aborden la estabilidad médica actual, 
 ## SEO Metadata
 
 - **Primary keyword:** viajar a China para el tratamiento del linfoma de Hodgkin
+
+- **Meta title:** ¿Debería viajar a China para recibir atención del linfoma de Hodgkin? Valor de la derivación y preparación médica
+- **Meta description:** Defina qué puede aportar una consulta de linfoma de Hodgkin en China y compruebe la preparación médica, la revisión diagnóstica y la continuidad del tratamiento.

@@ -1,12 +1,14 @@
-# Prosedur dan operasi pada mieloma multipel: pengambilan sampel, pengumpulan sel, dan stabilitas tulang
+# Prosedur Mieloma di Tiongkok: Pengambilan Sampel, Pengumpulan Sel, dan Perawatan Tulang
 
 ## Hero
 
-- **Title:** Prosedur dan operasi pada mieloma multipel: pengambilan sampel, pengumpulan sel, dan stabilitas tulang
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Mieloma Multipel
-- **Subtitle:** Perawatan mieloma dapat melibatkan biopsi sumsum tulang, pengumpulan sel, kateter, augmentasi vertebra, atau fiksasi fraktur.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prosedur Mieloma di Tiongkok: Pengambilan Sampel, Pengumpulan Sel, dan Perawatan Tulang
+- **Subtitle:** Pahami pengambilan sampel sumsum, pengumpulan sel, dan prosedur tulang pada mieloma. Siapkan tujuan, risiko, serta perawatan setelah tindakan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Pertanyaan utama adalah masalah spesifik apa yang dapat diselesaikan prosedur, a
 ## SEO Metadata
 
 - **Primary keyword:** operasi mieloma multipel dan prosedur transplantasi autologus
+
+- **Meta title:** Prosedur Mieloma di Tiongkok: Pengambilan Sampel, Pengumpulan Sel, dan Perawatan Tulang
+- **Meta description:** Pahami pengambilan sampel sumsum, pengumpulan sel, dan prosedur tulang pada mieloma. Siapkan tujuan, risiko, serta perawatan setelah tindakan di Tiongkok.

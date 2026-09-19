@@ -1,15 +1,17 @@
-# 089 L’intelligence artificielle en imagerie médicale : ce que les patients doivent savoir
+# Intelligence artificielle en imagerie médicale en Chine : ce que le patient doit savoir
 
 ## Hero
 
-- **Title:** L’intelligence artificielle en imagerie médicale : ce que les patients doivent savoir
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Imagerie, logiciels et décisions cliniques
-- **Subtitle:** Découvrez ce que fait réellement le logiciel, qui le vérifie et s’il modifie votre prise en charge.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Illustration conceptuelle d’un clinicien en radiologie discutant d’une image thoracique et de l’aide de l’IA avec un patient ; il ne s’agit pas d’un véritable examen ni d’un résultat diagnostique.
+
+
+- **Title:** Intelligence artificielle en imagerie médicale en Chine : ce que le patient doit savoir
+- **Subtitle:** Comprenez le rôle de l’IA d’imagerie, comment vérifier le produit et ses preuves, les résultats erronés, le contrôle du radiologue, la confidentialité et le dossier pour un second avis.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -163,11 +165,13 @@ Apportez l’examen DICOM original, le compte rendu définitif et ses addenda, l
 ## SEO Metadata
 
 - **Slug:** `artificial-intelligence-in-medical-imaging-what-patients-should-know`
-- **Meta title:** L’IA en imagerie médicale : guide pour les patients
-- **Meta description:** Comprenez le rôle de l’IA d’imagerie, comment vérifier le produit et ses preuves, les résultats erronés, le contrôle du radiologue, la confidentialité et le dossier pour un second avis.
 - **Primary keyword:** IA en imagerie médicale
 - **Secondary keywords:** intelligence artificielle en radiologie ; précision de l’imagerie par IA ; faux positif de l’IA d’imagerie ; logiciel d’imagerie médicale NMPA ; compte rendu radiologique par IA
 - **Search intent:** explication technologique / aide à la décision en imagerie
+
+
+- **Meta title:** Intelligence artificielle en imagerie médicale en Chine : ce que le patient doit savoir
+- **Meta description:** Comprenez le rôle de l’IA d’imagerie, comment vérifier le produit et ses preuves, les résultats erronés, le contrôle du radiologue, la confidentialité et le dossier pour un second avis.
 
 ## Sources
 

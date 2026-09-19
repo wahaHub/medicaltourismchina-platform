@@ -1,12 +1,14 @@
-# Empeoramiento repentino o deterioro gradual durante la rehabilitación del ictus: ¿qué necesita evaluación?
+# Empeoramiento durante la rehabilitación del ictus en China: cuándo pedir ayuda
 
 ## Hero
 
-- **Title:** Empeoramiento repentino o deterioro gradual durante la rehabilitación del ictus: ¿qué necesita evaluación?
 - **Category:** Guías de tratamiento
 - **Subcategory:** Rehabilitación tras un ictus isquémico
-- **Subtitle:** Una persona que ayer podía caminar con apoyo de repente no puede adelantar una pierna.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Empeoramiento durante la rehabilitación del ictus en China: cuándo pedir ayuda
+- **Subtitle:** Reconozca cambios súbitos o graduales durante la rehabilitación del ictus en China y prepare una descripción útil de síntomas y tiempos para pedir ayuda.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Cuando la situación médica permita continuar la rehabilitación, los objetivos
 ## SEO Metadata
 
 - **Primary keyword:** empeoramiento de síntomas durante la rehabilitación del ictus
+
+- **Meta title:** Empeoramiento durante la rehabilitación del ictus en China: cuándo pedir ayuda
+- **Meta description:** Reconozca cambios súbitos o graduales durante la rehabilitación del ictus en China y prepare una descripción útil de síntomas y tiempos para pedir ayuda.

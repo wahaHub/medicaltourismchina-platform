@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Kosten der Alzheimer-Behandlung in China: ein Budget für Beurteilung, Medikamente und Versorgung erstellen
 - **Category:** Leitfäden zu Kosten und Versicherung
 - **Subcategory:** Alzheimer-Krankheit
-- **Subtitle:** Es gibt keinen landesweit einheitlichen Gesamtpreis für die Behandlung der Alzheimer-Krankheit in China.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Kosten der Alzheimer-Behandlung in China: ein Budget für Beurteilung, Medikamente und Versorgung erstellen
+- **Subtitle:** Ein Budget für Alzheimer-Versorgung in China erstellen: Diagnostik, Medikamente, Infusionen, Kontrollen und fortlaufende Betreuung getrennt kalkulieren.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Bitten Sie um ein Budget für die grundlegende Beurteilung und Versorgung und an
 ## SEO Metadata
 
 - **Primary keyword:** Kosten der Alzheimer-Behandlung in China
+
+- **Meta title:** Kosten der Alzheimer-Behandlung in China: ein Budget für Beurteilung, Medikamente und Versorgung erstellen
+- **Meta description:** Ein Budget für Alzheimer-Versorgung in China erstellen: Diagnostik, Medikamente, Infusionen, Kontrollen und fortlaufende Betreuung getrennt kalkulieren.

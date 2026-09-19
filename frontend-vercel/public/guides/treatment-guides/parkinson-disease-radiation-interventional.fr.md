@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Ultrasons focalisés et interventions lésionnelles pour la maladie de Parkinson : cibles, risques bilatéraux et traitement en Chine
 - **Category:** Guides des traitements
 - **Subcategory:** Maladie de Parkinson
-- **Subtitle:** Une vidéo montrant une main plus stable après traitement peut facilement être prise pour la preuve que la maladie de Parkinson a été guérie.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Ultrasons focalisés et interventions lésionnelles pour la maladie de Parkinson : cibles, risques bilatéraux et traitement en Chine
+- **Subtitle:** Évaluez ultrasons focalisés et interventions lésionnelles pour Parkinson selon la cible, les risques bilatéraux et les vérifications nécessaires en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Les patients internationaux doivent repartir avec le côté et la cible traités
 ## SEO Metadata
 
 - **Primary keyword:** traitement par ultrasons focalisés de la maladie de Parkinson
+
+- **Meta title:** Ultrasons focalisés et interventions lésionnelles pour la maladie de Parkinson : cibles, risques bilatéraux et traitement en Chine
+- **Meta description:** Évaluez ultrasons focalisés et interventions lésionnelles pour Parkinson selon la cible, les risques bilatéraux et les vérifications nécessaires en Chine.

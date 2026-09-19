@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Should Someone With Alzheimer's Disease Travel to China for Care?
 - **Category:** Patient Journey Guides
 - **Subcategory:** Alzheimer Disease
-- **Subtitle:** A family considering care in another country needs more than an available appointment.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Should Someone With Alzheimer's Disease Travel to China for Care?
+- **Subtitle:** Consider Alzheimer’s travel to China through the expected benefit, patient stability, caregiver capacity and a practical plan for care after returning home.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ The decision to travel should remain responsive to the person's condition, prefe
 ## SEO Metadata
 
 - **Primary keyword:** Alzheimer's disease medical travel to China
+
+- **Meta title:** Should Someone With Alzheimer's Disease Travel to China for Care?
+- **Meta description:** Consider Alzheimer’s travel to China through the expected benefit, patient stability, caregiver capacity and a practical plan for care after returning home.

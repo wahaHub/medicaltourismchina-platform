@@ -1,15 +1,17 @@
-# 145 Rééducation avant le retour : transmettre les capacités fonctionnelles, pas les noms d’exercices
+# Retour après une rééducation en Chine : organiser le relais des soins
 
 ## Hero
 
-- **Title:** Rééducation avant le retour : transmettre les capacités fonctionnelles, pas les noms d’exercices
 - **Category:** Guides du parcours patient
 - **Subcategory:** Transmission transfrontalière de la rééducation
-- **Subtitle:** Une transmission utile préserve ce que le patient peut faire, comment cela a été mesuré, les restrictions, les prochaines étapes et la personne ayant accepté la responsabilité.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un professionnel de rééducation prépare l’étape suivante avec un patient âgé près d’un déambulateur et de matériel d’exercice.
+
+
+- **Title:** Retour après une rééducation en Chine : organiser le relais des soins
+- **Subtitle:** Transmettez les capacités fonctionnelles initiales, objectifs, doses d’exercice, matériel, compétences de l’aidant et premier rendez-vous accepté avant le retour.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -225,13 +227,15 @@ Lorsqu’un service destinataire nommé confirme la réception, accepte la respo
 ## SEO Metadata
 
 - **Slug:** `planning-rehabilitation-before-returning-home`
-- **Meta title:** Transmission de la rééducation avant le retour
-- **Meta description:** Transmettez les capacités fonctionnelles initiales, objectifs, doses d’exercice, matériel, compétences de l’aidant et premier rendez-vous accepté avant le retour.
 - **Primary keyword:** plan de rééducation avant le retour
 - **Pillar keyword:** voyage médical en Chine
 - **Vertical keyword:** transmission transfrontalière de la rééducation
 - **Search intent:** planification de la continuité / transfert de rééducation
 - **Secondary keywords:** résumé de sortie de rééducation ; transmission fonctionnelle ; matériel de rééducation à domicile ; kinésithérapie pour patient international ; formation de l’aidant à la rééducation
+
+
+- **Meta title:** Retour après une rééducation en Chine : organiser le relais des soins
+- **Meta description:** Transmettez les capacités fonctionnelles initiales, objectifs, doses d’exercice, matériel, compétences de l’aidant et premier rendez-vous accepté avant le retour.
 
 ## Sources
 

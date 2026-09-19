@@ -1,12 +1,14 @@
-# Managing thalassemia treatment side effects: what to report, when to seek help, and how to prepare
+# Thalassemia Treatment in China: Side Effects and Safety Checks
 
 ## Hero
 
-- **Title:** Managing thalassemia treatment side effects: what to report, when to seek help, and how to prepare
 - **Category:** Treatment Guides
 - **Subcategory:** Thalassemia
-- **Subtitle:** Finding a list of possible side effects is often easier than deciding what to do about a symptom.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Thalassemia Treatment in China: Side Effects and Safety Checks
+- **Subtitle:** Prepare for thalassemia treatment side effects with medicine details, reporting instructions and a specific safety handover when receiving care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -146,3 +148,6 @@ Patients do not need to memorize every possible reaction. Recognizing the urgent
 ## SEO Metadata
 
 - **Primary keyword:** thalassemia treatment side effects; chelator adverse reactions; transfusion reactions; medication safety in China
+
+- **Meta title:** Thalassemia Treatment in China: Side Effects and Safety Checks
+- **Meta description:** Prepare for thalassemia treatment side effects with medicine details, reporting instructions and a specific safety handover when receiving care in China.

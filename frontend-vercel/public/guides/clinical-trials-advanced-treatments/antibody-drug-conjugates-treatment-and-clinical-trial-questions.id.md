@@ -1,15 +1,17 @@
-# 079 Konjugat Antibodi-Obat: Pertanyaan Perawatan dan Uji Klinis
+# Pengobatan dan Uji Klinis ADC di Tiongkok: Target dan Risiko
 
 ## Hero
 
-- **Title:** Konjugat Antibodi-Obat: Pertanyaan Perawatan dan Uji Klinis
 - **Category:** Uji Klinis & Perawatan Lanjutan
 - **Subcategory:** Onkologi Presisi
-- **Subtitle:** Baca usulan ADC sebagai sistem antibodi-penghubung-muatan yang lengkap, lalu verifikasi target tumor, indikasi tepat, dosis, kombinasi, dan rencana pemantauan.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Perlu penggantian: diagram ADC akurat yang menunjukkan antibodi, penghubung, dan muatan berikatan dengan target sel tumor, bersama pengujian biomarker dan pemantauan infus.
+
+
+- **Title:** Pengobatan dan Uji Klinis ADC di Tiongkok: Target dan Risiko
+- **Subtitle:** Nilai konjugat antibodi-obat berdasarkan target, antibodi, penghubung, dan muatannya, lalu verifikasi persetujuan Tiongkok, kohort uji, toksisitas, dan pemantauan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -171,11 +173,13 @@ Tidak berdasarkan fakta itu saja. Verifikasi persetujuan NMPA terkini, indikasi 
 ## SEO Metadata
 
 - **Slug:** `antibody-drug-conjugates-treatment-and-clinical-trial-questions`
-- **Meta title:** Perawatan dan Uji ADC: Target, Risiko, dan Pertanyaan
-- **Meta description:** Nilai konjugat antibodi-obat berdasarkan target, antibodi, penghubung, dan muatannya, lalu verifikasi persetujuan Tiongkok, kohort uji, toksisitas, dan pemantauan.
 - **Primary keyword:** perawatan konjugat antibodi-obat
 - **Secondary keywords:** uji klinis ADC Tiongkok; pengujian target ADC; efek samping ADC; antibodi penghubung muatan; kelayakan ADC
 - **Search intent:** perbandingan perawatan ADC / skrining uji klinis
+
+
+- **Meta title:** Pengobatan dan Uji Klinis ADC di Tiongkok: Target dan Risiko
+- **Meta description:** Nilai konjugat antibodi-obat berdasarkan target, antibodi, penghubung, dan muatannya, lalu verifikasi persetujuan Tiongkok, kohort uji, toksisitas, dan pemantauan.
 
 ## Sumber
 

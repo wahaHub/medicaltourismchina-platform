@@ -1,15 +1,17 @@
-# 007 Qué esperar de una consulta ambulatoria en un hospital chino
+# Consultas ambulatorias en hospitales de China: qué esperar
 
 ## Hero
 
-- **Title:** Qué esperar de una consulta ambulatoria en un hospital chino
 - **Category:** Guías de atención sanitaria en China
 - **Subcategory:** Consulta ambulatoria
-- **Subtitle:** Una visita ambulatoria en China suele ser una cadena de pasos breves —verificación de identidad, consulta, pago, pruebas, resultados y otra decisión— en vez de una cita larga.
 - **Reviewed by:** Equipo editorial de Medora Health; se requiere revisión del sistema sanitario antes de la publicación
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un paciente internacional y su acompañante hablan con un médico en una consulta ambulatoria china
+
+
+- **Title:** Consultas ambulatorias en hospitales de China: qué esperar
+- **Subtitle:** Conozca el proceso ambulatorio en China, desde el registro con pasaporte y la consulta hasta las pruebas, el pago, la farmacia, los resultados y el seguimiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -158,13 +160,15 @@ El intérprete puede facilitar la comunicación, pero el médico necesita la his
 ## SEO Metadata
 
 - **Slug:** `chinese-hospital-outpatient-appointment`
-- **Meta title:** Qué esperar de una consulta ambulatoria en un hospital chino
-- **Meta description:** Conozca el proceso ambulatorio en China, desde el registro con pasaporte y la consulta hasta las pruebas, el pago, la farmacia, los resultados y el seguimiento.
 - **Primary keyword:** consulta ambulatoria en hospital chino
 - **Pillar keyword:** atención sanitaria en China para pacientes internacionales
 - **Vertical keyword:** visita ambulatoria China
 - **Search intent:** práctica / preparación de la visita
 - **Secondary keywords:** consulta en hospital China; paciente internacional consulta ambulatoria China; qué ocurre en un hospital chino
+
+
+- **Meta title:** Consultas ambulatorias en hospitales de China: qué esperar
+- **Meta description:** Conozca el proceso ambulatorio en China, desde el registro con pasaporte y la consulta hasta las pruebas, el pago, la farmacia, los resultados y el seguimiento.
 
 ## Fuentes
 

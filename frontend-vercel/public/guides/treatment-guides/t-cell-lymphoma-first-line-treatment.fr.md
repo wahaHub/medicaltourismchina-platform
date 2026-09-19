@@ -1,12 +1,14 @@
-# Choisir le premier traitement d’un lymphome T : diagnostic, protocole et planification de l’évaluation de la réponse
+# Traitement de première ligne du lymphome T en Chine : organiser les soins
 
 ## Hero
 
-- **Title:** Choisir le premier traitement d’un lymphome T : diagnostic, protocole et planification de l’évaluation de la réponse
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome T
-- **Subtitle:** Lors de la première discussion sur le traitement, les patients demandent souvent quel médicament est le plus puissant, si une greffe est inévitable et dans quel délai le traitement doit commencer.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement de première ligne du lymphome T en Chine : organiser les soins
+- **Subtitle:** Préparez le premier traitement du lymphome T en Chine selon le sous-type, le protocole proposé, l’évaluation de la réponse et une éventuelle consolidation.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ Le plan initial doit être un document actualisable : pourquoi le protocole a é
 ## SEO Metadata
 
 - **Primary keyword:** traitement de première ligne du lymphome T
+
+- **Meta title:** Traitement de première ligne du lymphome T en Chine : organiser les soins
+- **Meta description:** Préparez le premier traitement du lymphome T en Chine selon le sous-type, le protocole proposé, l’évaluation de la réponse et une éventuelle consolidation.

@@ -1,12 +1,14 @@
-# Sichelzellbefunde verstehen: Hämoglobin, HbS, HbF, Retikulozyten und Eisenmessungen
+# Sichelzellbefunde: Vorbereitung auf eine Beurteilung in China
 
 ## Hero
 
-- **Title:** Sichelzellbefunde verstehen: Hämoglobin, HbS, HbF, Retikulozyten und Eisenmessungen
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Sichelzellkrankheit
-- **Subtitle:** Bei Verlaufskontrollen der Sichelzellkrankheit entstehen häufig zwei ähnlich aussehende Messwerte, die unterschiedliche Fragen beantworten: die Hämoglobinkonzentration im Blutbild und der HbS-Anteil in der Hämoglobinanalyse.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sichelzellbefunde: Vorbereitung auf eine Beurteilung in China
+- **Subtitle:** Sichelzellbefunde für eine Beurteilung in China lesen: Hämoglobinfraktionen, Retikulozyten, Ferritin und Organwerte im Transfusions- und Behandlungskontext einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,3 +143,6 @@ Das Ergebnis der Besprechung sollte ein verständlicher nächster Schritt sein. 
 ## SEO Metadata
 
 - **Primary keyword:** Laborbefunde bei Sichelzellkrankheit verstehen
+
+- **Meta title:** Sichelzellbefunde: Vorbereitung auf eine Beurteilung in China
+- **Meta description:** Sichelzellbefunde für eine Beurteilung in China lesen: Hämoglobinfraktionen, Retikulozyten, Ferritin und Organwerte im Transfusions- und Behandlungskontext einordnen.

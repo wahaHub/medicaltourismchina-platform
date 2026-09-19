@@ -1,12 +1,14 @@
-# Einen Hodgkin-Lymphom-Befund verstehen: Pathologie, Stadium und Deauville-Score
+# Befunde zum Hodgkin-Lymphom: Vorbereitung auf eine Prüfung in China
 
 ## Hero
 
-- **Title:** Einen Hodgkin-Lymphom-Befund verstehen: Pathologie, Stadium und Deauville-Score
 - **Category:** Patientenaufklärung & FAQ
 - **Subcategory:** Hodgkin-Lymphom
-- **Subtitle:** Eine Hodgkin-Lymphom-Akte enthält gewöhnlich verschiedene Befundarten: Pathologie, PET/CT, Laborergebnisse und die ärztliche Stadieneinteilung.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Befunde zum Hodgkin-Lymphom: Vorbereitung auf eine Prüfung in China
+- **Subtitle:** Hodgkin-Lymphom-Befunde für eine Prüfung in China lesen: Diagnose, Stadium, Deauville-Score, Restgröße und PET-Aktivität als unterschiedliche Angaben verstehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ Bitten Sie den Arzt, die aktuelle Situation in einem gewöhnlichen Satz zusammen
 ## SEO Metadata
 
 - **Primary keyword:** Hodgkin-Lymphom-Befund erklärt
+
+- **Meta title:** Befunde zum Hodgkin-Lymphom: Vorbereitung auf eine Prüfung in China
+- **Meta description:** Hodgkin-Lymphom-Befunde für eine Prüfung in China lesen: Diagnose, Stadium, Deauville-Score, Restgröße und PET-Aktivität als unterschiedliche Angaben verstehen.

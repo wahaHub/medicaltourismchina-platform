@@ -1,15 +1,17 @@
-# Cancer Vaccine Trials: What the Research Is Testing
+# Cancer Vaccine Trials in China: Evidence and Eligibility
 
 ## Hero
 
-- **Title:** Cancer Vaccine Trials: What the Research Is Testing
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Cancer Immunotherapy
-- **Subtitle:** Separate prevention from treatment, then examine antigen choice, vaccine platform, immune readouts, manufacturing time and the clinical endpoint that matters.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Replacement needed: tumour antigens being presented to immune cells, with a personalised vaccine design-and-manufacture pathway and clinical outcome assessment.
+
+
+- **Title:** Cancer Vaccine Trials in China: Evidence and Eligibility
+- **Subtitle:** Understand treatment-vaccine trials, including prevention versus therapy, antigens, neoantigen manufacture, immune endpoints, combinations and China verification.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -162,11 +164,13 @@ Not without an oncologist and protocol-specific plan. Ask what standard or bridg
 ## SEO Metadata
 
 - **Slug:** `cancer-vaccine-trials-what-the-research-is-testing`
-- **Meta title:** Cancer Vaccine Trials: Antigens, Evidence and Manufacture
-- **Meta description:** Understand treatment-vaccine trials, including prevention versus therapy, antigens, neoantigen manufacture, immune endpoints, combinations and China verification.
 - **Primary keyword:** cancer vaccine clinical trials
 - **Secondary keywords:** therapeutic cancer vaccine; personalised neoantigen vaccine; cancer vaccine China; cancer vaccine immunogenicity; dendritic cell vaccine trial
 - **Search intent:** cancer-vaccine trial evidence / eligibility screening
+
+
+- **Meta title:** Cancer Vaccine Trials in China: Evidence and Eligibility
+- **Meta description:** Understand treatment-vaccine trials, including prevention versus therapy, antigens, neoantigen manufacture, immune endpoints, combinations and China verification.
 
 ## Sources
 

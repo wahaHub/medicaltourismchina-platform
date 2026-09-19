@@ -1,12 +1,14 @@
-# Alzheimer-Befunde verstehen: Kognitive Testwerte, Atrophie, p-tau und APOE
+# Alzheimer-Befunde: Vorbereitung auf eine Prüfung in China
 
 ## Hero
 
-- **Title:** Alzheimer-Befunde verstehen: Kognitive Testwerte, Atrophie, p-tau und APOE
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Alzheimer-Krankheit
-- **Subtitle:** Nach einer Gedächtnisuntersuchung erhält eine Familie möglicherweise mehrere scheinbar widersprüchliche Befunde.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Alzheimer-Befunde: Vorbereitung auf eine Prüfung in China
+- **Subtitle:** Alzheimer-Befunde für eine Prüfung in China einordnen: Testbedingungen, Atrophie, Biomarker, PET-Tracer und APOE im klinischen Zusammenhang verstehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ Klären Sie vor Abschluss der Besprechung, ob ein Befund sofortiges Handeln erfo
 ## SEO Metadata
 
 - **Primary keyword:** Alzheimer-Testergebnisse verstehen
+
+- **Meta title:** Alzheimer-Befunde: Vorbereitung auf eine Prüfung in China
+- **Meta description:** Alzheimer-Befunde für eine Prüfung in China einordnen: Testbedingungen, Atrophie, Biomarker, PET-Tracer und APOE im klinischen Zusammenhang verstehen.

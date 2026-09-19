@@ -1,12 +1,14 @@
-# Erfordert DLBCL eine Operation? Biopsie, Gefäßzugang und dringliche Eingriffe
+# Eingriffe bei DLBCL in China: Biopsie, Gefäßzugang und Notfallversorgung
 
 ## Hero
 
-- **Title:** Erfordert DLBCL eine Operation? Biopsie, Gefäßzugang und dringliche Eingriffe
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Diffuses großzelliges B-Zell-Lymphom
-- **Subtitle:** DLBCL wird im Allgemeinen mit Medikamenten behandelt, die im gesamten Körper wirken.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Eingriffe bei DLBCL in China: Biopsie, Gefäßzugang und Notfallversorgung
+- **Subtitle:** Eingriffe bei DLBCL in China planen: diagnostische Biopsie, Gefäßzugang, Zellsammlung und Notfalloperationen nach Zweck, Vorbereitung und Nachsorge unterscheiden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -122,3 +124,6 @@ Nachsorge muss das Lymphom ebenso berücksichtigen wie ungelöste Wundprobleme, 
 ## SEO Metadata
 
 - **Primary keyword:** Operationen und Eingriffe bei DLBCL
+
+- **Meta title:** Eingriffe bei DLBCL in China: Biopsie, Gefäßzugang und Notfallversorgung
+- **Meta description:** Eingriffe bei DLBCL in China planen: diagnostische Biopsie, Gefäßzugang, Zellsammlung und Notfalloperationen nach Zweck, Vorbereitung und Nachsorge unterscheiden.

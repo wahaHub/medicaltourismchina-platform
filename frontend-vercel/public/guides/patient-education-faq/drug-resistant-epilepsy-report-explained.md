@@ -1,12 +1,14 @@
-# Understanding drug-resistant epilepsy reports: EEG findings, MRI lesions, and the final presurgical opinion
+# Drug-Resistant Epilepsy Reports: Specialist Review in China
 
 ## Hero
 
-- **Title:** Understanding drug-resistant epilepsy reports: EEG findings, MRI lesions, and the final presurgical opinion
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Drug Resistant Epilepsy
-- **Subtitle:** It can seem contradictory when an EEG describes discharges, an MRI is reported as normal, and the clinician still recommends further assessment.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Drug-Resistant Epilepsy Reports: Specialist Review in China
+- **Subtitle:** Interpret EEG, MRI and presurgical conclusions in drug-resistant epilepsy, and prepare the underlying evidence for specialist review in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -157,3 +159,6 @@ Prepare a one-page list of troubling terms and apparently conflicting conclusion
 ## SEO Metadata
 
 - **Primary keyword:** drug-resistant epilepsy report interpretation; EEG spikes; hippocampal sclerosis report; MRI-negative epilepsy; second opinion in China
+
+- **Meta title:** Drug-Resistant Epilepsy Reports: Specialist Review in China
+- **Meta description:** Interpret EEG, MRI and presurgical conclusions in drug-resistant epilepsy, and prepare the underlying evidence for specialist review in China.

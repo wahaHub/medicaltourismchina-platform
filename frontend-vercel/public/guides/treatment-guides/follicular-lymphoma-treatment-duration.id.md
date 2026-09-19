@@ -1,12 +1,14 @@
-# Berapa lama pengobatan limfoma folikular berlangsung? Pemantauan, induksi, pemeliharaan, dan pemulihan
+# Perawatan Limfoma Folikular di Tiongkok: Jadwal Pengobatan
 
 ## Hero
 
-- **Title:** Berapa lama pengobatan limfoma folikular berlangsung? Pemantauan, induksi, pemeliharaan, dan pemulihan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Folikular
-- **Subtitle:** Tidak ada satu durasi yang berlaku untuk setiap rangkaian pengobatan limfoma folikular.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Perawatan Limfoma Folikular di Tiongkok: Jadwal Pengobatan
+- **Subtitle:** Rencanakan waktu perawatan limfoma folikular di Tiongkok dengan membedakan observasi, induksi, radiasi, pemeliharaan, dan pemulihan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -104,3 +106,6 @@ Pertahankan fleksibilitas pengaturan pulang. Tentukan tinjauan setelah dosis ter
 ## SEO Metadata
 
 - **Primary keyword:** durasi pengobatan limfoma folikular
+
+- **Meta title:** Perawatan Limfoma Folikular di Tiongkok: Jadwal Pengobatan
+- **Meta description:** Rencanakan waktu perawatan limfoma folikular di Tiongkok dengan membedakan observasi, induksi, radiasi, pemeliharaan, dan pemulihan.

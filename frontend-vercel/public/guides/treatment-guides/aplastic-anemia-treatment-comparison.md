@@ -1,12 +1,14 @@
-# Comparing aplastic anemia treatments: making a decision between transplant and immunosuppression
+# Aplastic Anemia Care in China: Transplant vs Immunosuppression
 
 ## Hero
 
-- **Title:** Comparing aplastic anemia treatments: making a decision between transplant and immunosuppression
 - **Category:** Treatment Guides
 - **Subcategory:** Aplastic Anemia
-- **Subtitle:** If one hospital proposes transplantation and another recommends ATG-based therapy, do not begin by ranking the success rates they quote.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Aplastic Anemia Care in China: Transplant vs Immunosuppression
+- **Subtitle:** Compare aplastic anemia transplantation and immunosuppressive care using diagnosis, donor and patient factors, and comparable treatment plans in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -107,3 +109,6 @@ Also compare accommodation near the hospital, caregiver time away from work, tra
 ## SEO Metadata
 
 - **Primary keyword:** compare aplastic anemia treatments
+
+- **Meta title:** Aplastic Anemia Care in China: Transplant vs Immunosuppression
+- **Meta description:** Compare aplastic anemia transplantation and immunosuppressive care using diagnosis, donor and patient factors, and comparable treatment plans in China.

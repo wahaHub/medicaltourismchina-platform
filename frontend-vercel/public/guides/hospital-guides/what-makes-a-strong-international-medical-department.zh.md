@@ -1,15 +1,17 @@
-# 怎样判断一家医院的国际医疗部是否真正可靠
+# 中国医院国际医疗部：患者应核查什么
 
 ## Hero
 
-- **Title:** 怎样判断一家医院的国际医疗部是否真正可靠
 - **Category:** 医院指南
 - **Subcategory:** 国际患者服务
-- **Subtitle:** 看临床责任、语言安全、升级机制、病历和连续照护，而不是只看休息室和礼宾宣传册。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 概念插图中，国际患者在世界地图前与医院协调员沟通；画面表示就医导航，不代表医疗质量。
+
+
+- **Title:** 中国医院国际医疗部：患者应核查什么
+- **Subtitle:** 从临床责任、医疗口译、病历、紧急升级、用药安全、费用、隐私和出院交接评价国际患者服务。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -264,11 +266,13 @@ WHO 患者安全工具把医疗转衔中的用药准确性列为标准安全目�
 ## SEO Metadata
 
 - **Slug:** `what-makes-a-strong-international-medical-department`
-- **Meta title:** 怎样判断中国医院国际医疗部是否可靠
-- **Meta description:** 从临床责任、医疗口译、病历、紧急升级、用药安全、费用、隐私和出院交接评价国际患者服务。
 - **Primary keyword:** 中国医院国际医疗部
 - **Secondary keywords:** 中国国际患者服务；医院医疗口译；跨境医疗协调；跨境医疗病历；中国医院出院交接
 - **Search intent:** 国际患者服务质量比较
+
+
+- **Meta title:** 中国医院国际医疗部：患者应核查什么
+- **Meta description:** 从临床责任、医疗口译、病历、紧急升级、用药安全、费用、隐私和出院交接评价国际患者服务。
 
 ## Sources
 

@@ -1,15 +1,17 @@
-# 怎样选择海南医院：治疗与康复前的五道海岛过滤器
+# 中国医院选择：海南就医与乐城准入
 
 ## Hero
 
-- **Title:** 怎样选择海南医院：治疗与康复前的五道海岛过滤器
 - **Category:** 医院指南
 - **Subcategory:** 海南就医规划
-- **Subtitle:** 在相信海南医疗旅游方案前，先分清城市、院区、监管路径、海岛交通和康复责任。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 老年国际患者在海南风格滨海环境中讨论康复的概念插图；并非真实机构、治疗结果或推荐。
+
+
+- **Title:** 中国医院选择：海南就医与乐城准入
+- **Subtitle:** 从城市和院区、常规批准与乐城特许及研究区别，到海岛交通、急救升级、费用和可量化康复，系统核实海南就医方案。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,13 +118,15 @@
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-hainan-specialties-access-and-recovery`
-- **Meta title:** 海南选院指南：乐城特许药械与安全康复
-- **Meta description:** 从城市和院区、常规批准与乐城特许及研究区别，到海岛交通、急救升级、费用和可量化康复，系统核实海南就医方案。
 - **Primary keyword:** 海南怎么选医院
 - **Pillar keyword:** 海南国际患者医院
 - **Vertical keyword:** 博鳌乐城特许药械医疗旅行
 - **Search intent:** 医院比较 / 海南医疗旅行规划
 - **Secondary keywords:** 博鳌乐城医院；海南特许进口药；海南医疗旅游；海口就医；三亚康复；海南120
+
+
+- **Meta title:** 中国医院选择：海南就医与乐城准入
+- **Meta description:** 从城市和院区、常规批准与乐城特许及研究区别，到海岛交通、急救升级、费用和可量化康复，系统核实海南就医方案。
 
 ## Sources
 

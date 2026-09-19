@@ -1,12 +1,14 @@
-# Débuter les soins après un diagnostic de thalassémie : planifier la première étape du traitement
+# Commencer les soins de thalassémie en Chine : le premier plan de traitement
 
 ## Hero
 
-- **Title:** Débuter les soins après un diagnostic de thalassémie : planifier la première étape du traitement
 - **Category:** Guides des traitements
 - **Subcategory:** Thalassémie
-- **Subtitle:** Après un nouveau diagnostic de thalassémie, les familles souhaitent souvent une décision qui résoudra toutes leurs préoccupations.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Commencer les soins de thalassémie en Chine : le premier plan de traitement
+- **Subtitle:** Préparez les premiers soins de thalassémie en Chine selon la forme, la stabilité, les besoins transfusionnels et le bilan du fer avant une éventuelle chélation.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Le document peut être court. Il doit identifier le clinicien coordonnateur, la 
 ## SEO Metadata
 
 - **Primary keyword:** thalassémie nouvellement diagnostiquée ; traitement initial ; soins pédiatriques de la thalassémie ; début des transfusions ; début de la chélation
+
+- **Meta title:** Commencer les soins de thalassémie en Chine : le premier plan de traitement
+- **Meta description:** Préparez les premiers soins de thalassémie en Chine selon la forme, la stabilité, les besoins transfusionnels et le bilan du fer avant une éventuelle chélation.

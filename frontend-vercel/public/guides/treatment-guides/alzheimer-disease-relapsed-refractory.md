@@ -1,12 +1,14 @@
-# Alzheimer’s Getting Worse Despite Treatment: What Should Happen Next?
+# Alzheimer’s Worsening: Preparing for Reassessment in China
 
 ## Hero
 
-- **Title:** Alzheimer’s Getting Worse Despite Treatment: What Should Happen Next?
 - **Category:** Treatment Guides
 - **Subcategory:** Alzheimer Disease
-- **Subtitle:** When memory or daily function continues to decline during treatment, families may wonder whether the disease has relapsed, become resistant or needs a stronger drug immediately.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Alzheimer’s Worsening: Preparing for Reassessment in China
+- **Subtitle:** When Alzheimer’s worsens during treatment, distinguish gradual change from an urgent problem and prepare a focused reassessment before travel to China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ Finding another drug is only one possible response. A review that produces an ex
 ## SEO Metadata
 
 - **Primary keyword:** Alzheimer’s getting worse despite treatment
+
+- **Meta title:** Alzheimer’s Worsening: Preparing for Reassessment in China
+- **Meta description:** When Alzheimer’s worsens during treatment, distinguish gradual change from an urgent problem and prepare a focused reassessment before travel to China.

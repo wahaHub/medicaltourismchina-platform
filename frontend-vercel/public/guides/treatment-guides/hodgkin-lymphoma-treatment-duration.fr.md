@@ -1,12 +1,14 @@
-# Combien de temps dure le traitement du lymphome de Hodgkin ? Cycles, étapes de TEP, radiothérapie et voyages
+# Soins du lymphome de Hodgkin en Chine : cycles, TEP et voyage
 
 ## Hero
 
-- **Title:** Combien de temps dure le traitement du lymphome de Hodgkin ? Cycles, étapes de TEP, radiothérapie et voyages
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome de Hodgkin
-- **Subtitle:** On ne peut pas répondre à la question de la durée du traitement du lymphome de Hodgkin en indiquant simplement une durée d’hospitalisation.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Soins du lymphome de Hodgkin en Chine : cycles, TEP et voyage
+- **Subtitle:** Planifiez les soins du lymphome de Hodgkin en Chine en reliant cycles, TEP intermédiaire, éventuelle radiothérapie et décisions sur le voyage.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Si le traitement a connu plusieurs changements, distinguez dans la synthèse fin
 ## SEO Metadata
 
 - **Primary keyword:** durée et cycles du traitement du lymphome de Hodgkin
+
+- **Meta title:** Soins du lymphome de Hodgkin en Chine : cycles, TEP et voyage
+- **Meta description:** Planifiez les soins du lymphome de Hodgkin en Chine en reliant cycles, TEP intermédiaire, éventuelle radiothérapie et décisions sur le voyage.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Memilih rumah sakit limfoma Hodgkin di Tiongkok: menyesuaikan kebutuhan lini pertama, radiasi, dan kekambuhan
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Limfoma Hodgkin
-- **Subtitle:** Memilih rumah sakit untuk limfoma Hodgkin di Tiongkok dimulai dari masalah yang perlu diselesaikan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Memilih rumah sakit limfoma Hodgkin di Tiongkok: menyesuaikan kebutuhan lini pertama, radiasi, dan kekambuhan
+- **Subtitle:** Pilih rumah sakit limfoma Hodgkin di Tiongkok menurut kebutuhan patologi, terapi awal, PET, radiasi, atau kekambuhan serta kesinambungan perawatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -143,3 +145,6 @@ Pilihan akhir dapat diuji melalui pertanyaan konkret: dapatkah tim ini menjelask
 ## SEO Metadata
 
 - **Primary keyword:** memilih rumah sakit limfoma Hodgkin di Tiongkok
+
+- **Meta title:** Memilih rumah sakit limfoma Hodgkin di Tiongkok: menyesuaikan kebutuhan lini pertama, radiasi, dan kekambuhan
+- **Meta description:** Pilih rumah sakit limfoma Hodgkin di Tiongkok menurut kebutuhan patologi, terapi awal, PET, radiasi, atau kekambuhan serta kesinambungan perawatan.

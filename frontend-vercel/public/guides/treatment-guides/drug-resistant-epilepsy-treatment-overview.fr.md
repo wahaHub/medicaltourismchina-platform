@@ -1,12 +1,14 @@
-# Traitement de l’épilepsie pharmacorésistante : que faire lorsque deux schémas médicamenteux appropriés n’ont pas contrôlé les crises
+# Traitement de l’épilepsie pharmacorésistante en Chine : prochaines étapes
 
 ## Hero
 
-- **Title:** Traitement de l’épilepsie pharmacorésistante : que faire lorsque deux schémas médicamenteux appropriés n’ont pas contrôlé les crises
 - **Category:** Guides des traitements
 - **Subcategory:** Épilepsie pharmacorésistante
-- **Subtitle:** La persistance des crises ne signifie pas que les soins doivent se limiter à ajouter des médicaments.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement de l’épilepsie pharmacorésistante en Chine : prochaines étapes
+- **Subtitle:** Après l’échec de deux traitements adaptés de l’épilepsie, préparez en Chine une réévaluation des crises, du diagnostic et des options spécialisées.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -146,3 +148,6 @@ Lors du suivi, fournissez des relevés comparables des crises et des effets ind�
 ## SEO Metadata
 
 - **Primary keyword:** traitement de l’épilepsie pharmacorésistante ; soins complets de l’épilepsie en Chine ; évaluation chirurgicale de l’épilepsie ; crises réfractaires
+
+- **Meta title:** Traitement de l’épilepsie pharmacorésistante en Chine : prochaines étapes
+- **Meta description:** Après l’échec de deux traitements adaptés de l’épilepsie, préparez en Chine une réévaluation des crises, du diagnostic et des options spécialisées.

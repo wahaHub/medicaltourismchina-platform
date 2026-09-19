@@ -1,15 +1,17 @@
-# 020 Cómo proteger su privacidad médica al compartir historiales internacionalmente
+# Compartir historiales médicos con China: privacidad y consentimiento
 
 ## Hero
 
-- **Title:** Cómo proteger su privacidad médica al compartir historiales internacionalmente
 - **Category:** Guías de atención sanitaria en China
 - **Subcategory:** Privacidad e historiales transfronterizos
-- **Subtitle:** Conozca a todos los destinatarios, envíe solo lo necesario para la tarea, utilice un canal controlado y decida cuándo debe finalizar el acceso de cada persona.
 - **Reviewed by:** Equipo editorial de Medora Health; se requiere una revisión de protección de datos, privacidad y seguridad de la información conforme al marco chino antes de la publicación
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un paciente y un profesional clínico revisan la transferencia transfronteriza segura de historiales médicos
+
+
+- **Title:** Compartir historiales médicos con China: privacidad y consentimiento
+- **Subtitle:** Identifique a cada destinatario, minimice los historiales, utilice transferencias seguras y gestione consentimiento, acceso, metadatos y eliminación al compartir datos sanitarios internacionalmente.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -259,13 +261,15 @@ Las personas tienen derechos de eliminación en determinadas condiciones legales
 ## SEO Metadata
 
 - **Slug:** `protecting-your-medical-privacy-when-sharing-records-internationally`
-- **Meta title:** Proteja su privacidad médica al compartir historiales entre países
-- **Meta description:** Identifique a cada destinatario, minimice los historiales, utilice transferencias seguras y gestione consentimiento, acceso, metadatos y eliminación al compartir datos sanitarios internacionalmente.
 - **Primary keyword:** privacidad de historiales médicos transfronterizos China
 - **Pillar keyword:** atención sanitaria en China para pacientes internacionales
 - **Vertical keyword:** compartir historiales médicos internacionalmente de forma segura
 - **Search intent:** informativa / gestión de riesgos de privacidad
 - **Secondary keywords:** transferencia de datos sanitarios China; historiales médicos PIPL; carga segura de historiales hospitalarios
+
+
+- **Meta title:** Compartir historiales médicos con China: privacidad y consentimiento
+- **Meta description:** Identifique a cada destinatario, minimice los historiales, utilice transferencias seguras y gestione consentimiento, acceso, metadatos y eliminación al compartir datos sanitarios internacionalmente.
 
 ## Fuentes
 

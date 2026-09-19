@@ -1,15 +1,17 @@
-# 117 Assistance linguistique et dossiers médicaux en anglais dans les hôpitaux chinois : trois produits différents
+# Hôpitaux en Chine : assistance linguistique et dossiers en anglais
 
 ## Hero
 
-- **Title:** Assistance linguistique et dossiers médicaux en anglais dans les hôpitaux chinois : trois produits différents
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Services linguistiques et de dossiers médicaux
-- **Subtitle:** L’interprétariat clinique en direct, le dossier source de l’hôpital et une transmission en anglais sont liés, mais ne constituent ni le même service ni le même document.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Consultation conceptuelle d’assistance linguistique où un coordinateur hospitalier montre au patient une icône de parole et un document électronique ; il ne s’agit pas d’une traduction, d’un dossier, d’un établissement ou d’une recommandation réels.
+
+
+- **Title:** Hôpitaux en Chine : assistance linguistique et dossiers en anglais
+- **Subtitle:** Vérifiez l’interprétariat médical, les dossiers sources chinois et les transmissions anglaises révisées cliniquement dans les hôpitaux chinois : consentement, médicaments, DICOM, confidentialité et corrections.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -224,13 +226,15 @@ Priorisez le résumé de sortie, le compte rendu opératoire/de procédure, l’
 ## SEO Metadata
 
 - **Slug:** `language-support-and-english-medical-records-at-chinese-hospitals`
-- **Meta title:** Assistance linguistique et dossiers anglais dans les hôpitaux chinois
-- **Meta description:** Vérifiez l’interprétariat médical, les dossiers sources chinois et les transmissions anglaises révisées cliniquement dans les hôpitaux chinois : consentement, médicaments, DICOM, confidentialité et corrections.
 - **Primary keyword:** dossiers médicaux en anglais dans les hôpitaux chinois
 - **Pillar keyword:** assistance linguistique dans les hôpitaux chinois pour étrangers
 - **Vertical keyword:** interprétariat médical et traduction de dossiers en Chine
 - **Search intent:** service linguistique hospitalier / préparation des dossiers médicaux
 - **Secondary keywords:** hôpital anglophone Chine ; interprète médical Chine ; traduire des dossiers médicaux chinois ; résumé de sortie anglais Chine ; dossiers hospitaliers bilingues
+
+
+- **Meta title:** Hôpitaux en Chine : assistance linguistique et dossiers en anglais
+- **Meta description:** Vérifiez l’interprétariat médical, les dossiers sources chinois et les transmissions anglaises révisées cliniquement dans les hôpitaux chinois : consentement, médicaments, DICOM, confidentialité et corrections.
 
 ## Sources
 

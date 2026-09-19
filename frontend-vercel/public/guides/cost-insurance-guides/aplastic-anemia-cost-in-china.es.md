@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Costes del tratamiento de la anemia aplásica en China: elabore un presupuesto desglosado en renminbi
 - **Category:** Guías de costes y seguros
 - **Subcategory:** Anemia aplásica
-- **Subtitle:** Los costes que más fácilmente se subestiman suelen ser los posteriores al primer ingreso: medicamentos continuados, transfusiones, atención de infecciones y seguimiento.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Costes del tratamiento de la anemia aplásica en China: elabore un presupuesto desglosado en renminbi
+- **Subtitle:** Organice el presupuesto de anemia aplásica en China: pruebas, inmunosupresión, apoyo transfusional o trasplante, con cantidades y periodos bien definidos.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -122,3 +124,6 @@ Antes de presentar el presupuesto, verifique que el centro ha confirmado el plan
 ## SEO Metadata
 
 - **Primary keyword:** coste del tratamiento de la anemia aplásica en China
+
+- **Meta title:** Costes del tratamiento de la anemia aplásica en China: elabore un presupuesto desglosado en renminbi
+- **Meta description:** Organice el presupuesto de anemia aplásica en China: pruebas, inmunosupresión, apoyo transfusional o trasplante, con cantidades y periodos bien definidos.

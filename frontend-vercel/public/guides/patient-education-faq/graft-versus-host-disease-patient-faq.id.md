@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Dua puluh pertanyaan pasien tentang GVHD: pengobatan, penurunan dosis bertahap, perawatan di Tiongkok, dan tindak lanjut
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Penyakit Graft Versus Host
-- **Subtitle:** Penyakit graft-versus-host menggabungkan riwayat transplantasi, pengobatan imun, dan masalah yang memengaruhi beberapa organ.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dua puluh pertanyaan pasien tentang GVHD: pengobatan, penurunan dosis bertahap, perawatan di Tiongkok, dan tindak lanjut
+- **Subtitle:** Pahami GVHD melalui 20 pertanyaan tentang diagnosis, organ, pengobatan, dan penurunan dosis. Siapkan perawatan di Tiongkok serta tindak lanjut.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Lanjutkan pemantauan darah dan biokimia khusus regimen, penilaian organ terdampa
 ## SEO Metadata
 
 - **Primary keyword:** pertanyaan pasien GVHD dan pengobatan di Tiongkok
+
+- **Meta title:** Dua puluh pertanyaan pasien tentang GVHD: pengobatan, penurunan dosis bertahap, perawatan di Tiongkok, dan tindak lanjut
+- **Meta description:** Pahami GVHD melalui 20 pertanyaan tentang diagnosis, organ, pengobatan, dan penurunan dosis. Siapkan perawatan di Tiongkok serta tindak lanjut.

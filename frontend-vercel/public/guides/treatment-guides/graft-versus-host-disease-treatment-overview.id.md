@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Mengobati Penyakit Graft-Versus-Host: Perawatan GVHD Akut dan Kronis di Tiongkok
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Graft Versus Host
-- **Subtitle:** Setelah transplantasi sel punca alogenik, ruam baru, diare, mata kering, atau gerak terbatas dapat mendorong pemeriksaan untuk penyakit graft-versus-host, yang biasanya disebut GVHD.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Mengobati Penyakit Graft-Versus-Host: Perawatan GVHD Akut dan Kronis di Tiongkok
+- **Subtitle:** Pahami pengobatan GVHD akut dan kronis di Tiongkok berdasarkan organ, penyebab gejala, dan keparahan. Bahas steroid, pilihan lanjutan, serta pemantauan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Tanpa rencana individual dan perkiraan resmi rumah sakit, harga lengkap dalam RM
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan penyakit graft-versus-host di Tiongkok
+
+- **Meta title:** Mengobati Penyakit Graft-Versus-Host: Perawatan GVHD Akut dan Kronis di Tiongkok
+- **Meta description:** Pahami pengobatan GVHD akut dan kronis di Tiongkok berdasarkan organ, penyebab gejala, dan keparahan. Bahas steroid, pilihan lanjutan, serta pemantauan.

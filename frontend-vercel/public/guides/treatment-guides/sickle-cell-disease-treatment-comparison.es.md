@@ -1,12 +1,14 @@
-# Comparación de tratamientos de la enfermedad de células falciformes: medicamentos, transfusión, trasplante y terapia génica
+# Opciones de tratamiento de la enfermedad falciforme: idoneidad y acceso en China
 
 ## Hero
 
-- **Title:** Comparación de tratamientos de la enfermedad de células falciformes: medicamentos, transfusión, trasplante y terapia génica
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de células falciformes
-- **Subtitle:** Elegir entre hidroxiurea, transfusión regular, trasplante de células madre de donante y terapia génica no es simplemente buscar el tratamiento más nuevo.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Opciones de tratamiento de la enfermedad falciforme: idoneidad y acceso en China
+- **Subtitle:** Compare medicamentos, transfusiones, trasplante y terapia génica para enfermedad falciforme según objetivos, idoneidad y requisitos de acceso en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ Devuelva la discusión final a la vida cotidiana. ¿Con qué frecuencia habrá q
 ## SEO Metadata
 
 - **Primary keyword:** comparación de tratamientos de la enfermedad de células falciformes
+
+- **Meta title:** Opciones de tratamiento de la enfermedad falciforme: idoneidad y acceso en China
+- **Meta description:** Compare medicamentos, transfusiones, trasplante y terapia génica para enfermedad falciforme según objetivos, idoneidad y requisitos de acceso en China.

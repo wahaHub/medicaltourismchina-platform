@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Aplastic anemia treatment costs in China: build an itemized renminbi budget
 - **Category:** Cost & Insurance Guides
 - **Subcategory:** Aplastic Anemia
-- **Subtitle:** The most easily underestimated costs are often those after the first admission: continuing medicines, transfusions, infection care, and follow-up.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Aplastic anemia treatment costs in China: build an itemized renminbi budget
+- **Subtitle:** Plan aplastic anemia costs in China by separating diagnostic review, medicines, transfusions, transplantation and continuing support in an RMB estimate.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -122,3 +124,6 @@ Before submitting the budget, verify that the center has confirmed the plan, qua
 ## SEO Metadata
 
 - **Primary keyword:** aplastic anemia treatment cost in China
+
+- **Meta title:** Aplastic anemia treatment costs in China: build an itemized renminbi budget
+- **Meta description:** Plan aplastic anemia costs in China by separating diagnostic review, medicines, transfusions, transplantation and continuing support in an RMB estimate.

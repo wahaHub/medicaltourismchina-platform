@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Menyiapkan rekam medis limfoma folikular untuk perawatan di Tiongkok
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Limfoma Folikular
-- **Subtitle:** Paket rekam medis yang paling berguna menunjukkan hubungan antarbagian riwayat Anda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Menyiapkan rekam medis limfoma folikular untuk perawatan di Tiongkok
+- **Subtitle:** Susun rekam medis limfoma folikular untuk perawatan di Tiongkok dengan ringkasan, identitas biopsi, pencitraan bertanggal, serta riwayat terapi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Ujian akhir persiapan Anda adalah apakah dokter baru dapat dengan cepat mengiden
 ## SEO Metadata
 
 - **Primary keyword:** rekam medis yang diperlukan untuk pengobatan limfoma folikular di Tiongkok
+
+- **Meta title:** Menyiapkan rekam medis limfoma folikular untuk perawatan di Tiongkok
+- **Meta description:** Susun rekam medis limfoma folikular untuk perawatan di Tiongkok dengan ringkasan, identitas biopsi, pencitraan bertanggal, serta riwayat terapi.

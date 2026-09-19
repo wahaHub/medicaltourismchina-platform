@@ -1,12 +1,14 @@
-# Nebenwirkungen der Behandlung von T-Zell-Lymphomen bewältigen: Wann Sie Hilfe suchen und was Sie zu Hause dokumentieren sollten
+# Versorgung beim T-Zell-Lymphom in China: Nebenwirkungen und dringende Hilfe
 
 ## Hero
 
-- **Title:** Nebenwirkungen der Behandlung von T-Zell-Lymphomen bewältigen: Wann Sie Hilfe suchen und was Sie zu Hause dokumentieren sollten
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** T-Zell-Lymphom
-- **Subtitle:** Bei einem neuen Symptom lautet die erste Frage oft, ob es eine normale Nebenwirkung ist.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Versorgung beim T-Zell-Lymphom in China: Nebenwirkungen und dringende Hilfe
+- **Subtitle:** Nebenwirkungen beim T-Zell-Lymphom in China besprechen: Fieber, Blutungen, Nervensymptome, Mund- und Darmprobleme dokumentieren und Kontaktwege klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -111,3 +113,6 @@ Besorgen Sie vor der Heimreise das aktuelle Blutbild, Nieren- und Leberwerte, da
 ## SEO Metadata
 
 - **Primary keyword:** Nebenwirkungen der Behandlung von T-Zell-Lymphomen
+
+- **Meta title:** Versorgung beim T-Zell-Lymphom in China: Nebenwirkungen und dringende Hilfe
+- **Meta description:** Nebenwirkungen beim T-Zell-Lymphom in China besprechen: Fieber, Blutungen, Nervensymptome, Mund- und Darmprobleme dokumentieren und Kontaktwege klären.

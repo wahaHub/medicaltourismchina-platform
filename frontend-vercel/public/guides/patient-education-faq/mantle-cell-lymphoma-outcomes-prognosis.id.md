@@ -1,12 +1,14 @@
-# Berapa Lama Limfoma Sel Mantel Dapat Dikendalikan? Memahami Remisi, Kelangsungan Hidup, dan Prognosis Anda
+# Prognosis Limfoma Sel Mantel: Pendapat Kedua di Tiongkok
 
 ## Hero
 
-- **Title:** Berapa Lama Limfoma Sel Mantel Dapat Dikendalikan? Memahami Remisi, Kelangsungan Hidup, dan Prognosis Anda
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Limfoma Sel Mantel
-- **Subtitle:** Setelah diagnosis MCL, wajar untuk mencari tahu berapa lama orang dapat hidup.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prognosis Limfoma Sel Mantel: Pendapat Kedua di Tiongkok
+- **Subtitle:** Tafsirkan remisi dan angka kelangsungan hidup limfoma sel mantel sesuai risiko serta respons. Siapkan pertanyaan untuk pendapat kedua di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ Prognosis paling baik diperlakukan sebagai percakapan berkelanjutan. Informasi p
 ## SEO Metadata
 
 - **Primary keyword:** prognosis dan kelangsungan hidup limfoma sel mantel
+
+- **Meta title:** Prognosis Limfoma Sel Mantel: Pendapat Kedua di Tiongkok
+- **Meta description:** Tafsirkan remisi dan angka kelangsungan hidup limfoma sel mantel sesuai risiko serta respons. Siapkan pertanyaan untuk pendapat kedua di Tiongkok.

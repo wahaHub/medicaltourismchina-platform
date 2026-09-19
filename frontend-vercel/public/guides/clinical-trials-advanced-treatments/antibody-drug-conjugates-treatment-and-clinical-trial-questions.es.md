@@ -1,15 +1,17 @@
-# 079 Conjugados anticuerpo-fármaco: preguntas sobre tratamiento y ensayos clínicos
+# Tratamientos y ensayos con conjugados anticuerpo-fármaco en China: dianas y riesgos
 
 ## Hero
 
-- **Title:** Conjugados anticuerpo-fármaco: preguntas sobre tratamiento y ensayos clínicos
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Oncología de precisión
-- **Subtitle:** Lea una propuesta de ADC como un sistema completo de anticuerpo, enlazador y carga, y después verifique la diana tumoral, la indicación exacta, la dosis, la combinación y el plan de vigilancia.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Sustitución necesaria: un diagrama preciso de un ADC que muestre un anticuerpo, un enlazador y una carga uniéndose a una diana de una célula tumoral, junto con pruebas de biomarcadores y vigilancia de la infusión.
+
+
+- **Title:** Tratamientos y ensayos con conjugados anticuerpo-fármaco en China: dianas y riesgos
+- **Subtitle:** Evalúe un conjugado anticuerpo-fármaco por su diana, anticuerpo, enlazador y carga, y después verifique la aprobación china, la cohorte del ensayo, las toxicidades y la vigilancia.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -171,11 +173,13 @@ No basándose solo en ese hecho. Verifique la aprobación vigente de la NMPA, la
 ## SEO Metadata
 
 - **Slug:** `antibody-drug-conjugates-treatment-and-clinical-trial-questions`
-- **Meta title:** Tratamiento y ensayos de ADC: dianas, riesgos y preguntas
-- **Meta description:** Evalúe un conjugado anticuerpo-fármaco por su diana, anticuerpo, enlazador y carga, y después verifique la aprobación china, la cohorte del ensayo, las toxicidades y la vigilancia.
 - **Primary keyword:** tratamiento con conjugados anticuerpo-fármaco
 - **Secondary keywords:** ensayo clínico de ADC en China; pruebas de dianas de ADC; efectos secundarios de ADC; anticuerpo enlazador carga; elegibilidad para ADC
 - **Search intent:** comparación de tratamientos con ADC / cribado para ensayos clínicos
+
+
+- **Meta title:** Tratamientos y ensayos con conjugados anticuerpo-fármaco en China: dianas y riesgos
+- **Meta description:** Evalúe un conjugado anticuerpo-fármaco por su diana, anticuerpo, enlazador y carga, y después verifique la aprobación china, la cohorte del ensayo, las toxicidades y la vigilancia.
 
 ## Fuentes
 

@@ -1,15 +1,17 @@
-# 075 Biaya Uji Klinis, Perjalanan, dan Tanggung Jawab Tindak Lanjut
+# Biaya Uji Klinis di Tiongkok: Perjalanan dan Tindak Lanjut
 
 ## Hero
 
-- **Title:** Biaya Uji Klinis, Perjalanan, dan Tanggung Jawab Tindak Lanjut
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Perencanaan Uji Internasional
-- **Subtitle:** Ganti frasa “uji ini gratis” dengan pemetaan tertulis biaya penelitian, perawatan rutin, perjalanan, komplikasi, dan tindak lanjut lintas negara.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Klinisi dan pasien internasional meninjau lembar kerja biaya di samping simbol perjalanan, kalender, dan perlindungan.
+
+
+- **Title:** Biaya Uji Klinis di Tiongkok: Perjalanan dan Tindak Lanjut
+- **Subtitle:** Rencanakan biaya uji di Tiongkok dengan memisahkan penelitian, perawatan rutin, perjalanan, komplikasi, dan tindak lanjut, disertai daftar periksa tanggung jawab lintas negara yang praktis.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -20,6 +22,9 @@
 - Partisipasi lintas negara memerlukan penanggung jawab yang ditentukan untuk keadaan darurat, laboratorium atau pencitraan lokal, dokumen sumber, perubahan obat, dan tindak lanjut setelah pulang.
 
 ## Content
+
+Sebelum bepergian untuk mengikuti uji klinis di Tiongkok, pisahkan biaya penelitian dari biaya perawatan rutin, perjalanan, komplikasi, dan tindak lanjut. Mintalah tim penelitian mengidentifikasi secara tertulis pihak yang membayar setiap biaya dan tanggung jawab masing-masing, termasuk apa yang terjadi jika skrining tidak berlanjut ke keikutsertaan dalam uji klinis.
+
 
 “Uji klinis ini gratis” bukan rencana keuangan. Itu mungkin berarti sponsor memasok obat studi; tidak menjelaskan siapa yang membayar perawatan rumah sakit biasa, kunjungan skrining yang gagal, masa tinggal lebih lama setelah toksisitas, penerbangan berulang, atau perawatan setelah pasien kembali ke negara asal.
 
@@ -145,11 +150,13 @@ Ya, partisipasi bersifat sukarela. Beri tahu lokasi alih-alih menghilang begitu 
 ## SEO Metadata
 
 - **Slug:** `clinical-trial-costs-travel-and-follow-up-responsibilities`
-- **Meta title:** Biaya Uji Klinis, Perjalanan, dan Tindak Lanjut di Luar Negeri
-- **Meta description:** Rencanakan biaya uji di Tiongkok dengan memisahkan penelitian, perawatan rutin, perjalanan, komplikasi, dan tindak lanjut, disertai daftar periksa tanggung jawab lintas negara yang praktis.
 - **Primary keyword:** biaya uji klinis perjalanan tindak lanjut
 - **Secondary keywords:** biaya uji klinis Tiongkok; penggantian biaya perjalanan uji; uji klinis pasien internasional; biaya penelitian dibandingkan perawatan rutin; tindak lanjut uji di luar negeri
 - **Search intent:** perencanaan keuangan dan perjalanan uji klinis
+
+
+- **Meta title:** Biaya Uji Klinis di Tiongkok: Perjalanan dan Tindak Lanjut
+- **Meta description:** Rencanakan biaya uji di Tiongkok dengan memisahkan penelitian, perawatan rutin, perjalanan, komplikasi, dan tindak lanjut, disertai daftar periksa tanggung jawab lintas negara yang praktis.
 
 ## Sumber
 

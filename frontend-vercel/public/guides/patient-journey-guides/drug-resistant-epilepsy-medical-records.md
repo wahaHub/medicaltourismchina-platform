@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Medical records for a drug-resistant epilepsy consultation in China: make the history understandable
 - **Category:** Patient Journey Guides
 - **Subcategory:** Drug Resistant Epilepsy
-- **Subtitle:** A large bag of reports does not necessarily make a consultation easier than a carefully organized record.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medical records for a drug-resistant epilepsy consultation in China: make the history understandable
+- **Subtitle:** Organize epilepsy records for a consultation in China, including seizure history, medicine trials, EEG, imaging and the unresolved clinical question.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -168,3 +170,6 @@ After the first review, respond to specific requests rather than repeatedly send
 ## SEO Metadata
 
 - **Primary keyword:** drug-resistant epilepsy medical records for China; epilepsy consultation documents; original MRI files; antiseizure medication history
+
+- **Meta title:** Medical records for a drug-resistant epilepsy consultation in China: make the history understandable
+- **Meta description:** Organize epilepsy records for a consultation in China, including seizure history, medicine trials, EEG, imaging and the unresolved clinical question.

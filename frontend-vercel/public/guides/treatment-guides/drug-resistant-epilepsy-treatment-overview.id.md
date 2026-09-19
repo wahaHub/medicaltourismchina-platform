@@ -1,12 +1,14 @@
-# Pengobatan epilepsi resistan obat: apa yang perlu dilakukan ketika dua jadwal obat yang sesuai belum mengendalikan kejang
+# Pengobatan Epilepsi Resistan Obat di Tiongkok: Langkah Selanjutnya
 
 ## Hero
 
-- **Title:** Pengobatan epilepsi resistan obat: apa yang perlu dilakukan ketika dua jadwal obat yang sesuai belum mengendalikan kejang
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Epilepsi Resistan Obat
-- **Subtitle:** Kejang yang berlanjut tidak berarti perawatan harus hanya berupa penambahan obat.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Epilepsi Resistan Obat di Tiongkok: Langkah Selanjutnya
+- **Subtitle:** Pahami langkah setelah dua regimen yang sesuai belum mengendalikan kejang. Siapkan tinjauan diagnosis dan pilihan epilepsi resistan obat di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -146,3 +148,6 @@ Saat tindak lanjut, berikan catatan kejang dan efek merugikan yang dapat dibandi
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan epilepsi resistan obat; perawatan epilepsi komprehensif di Tiongkok; evaluasi bedah epilepsi; kejang refrakter
+
+- **Meta title:** Pengobatan Epilepsi Resistan Obat di Tiongkok: Langkah Selanjutnya
+- **Meta description:** Pahami langkah setelah dua regimen yang sesuai belum mengendalikan kejang. Siapkan tinjauan diagnosis dan pilihan epilepsi resistan obat di Tiongkok.

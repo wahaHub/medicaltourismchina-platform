@@ -1,15 +1,17 @@
-# 014 Consentimiento informado entre idiomas: preguntas que deben hacer los pacientes
+# Consentimiento informado entre idiomas en China
 
 ## Hero
 
-- **Title:** Consentimiento informado entre idiomas: preguntas que deben hacer los pacientes
 - **Category:** Guías de atención sanitaria en China
 - **Subcategory:** Idioma, derechos y decisiones
-- **Subtitle:** El consentimiento es una conversación sobre la atención propuesta, los riesgos relevantes, las alternativas y la elección del paciente, no una firma obtenida a base de suposiciones.
 - **Reviewed by:** Equipo editorial de Medora Health; se requiere revisión clínica, jurídica y de acceso lingüístico antes de la publicación
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un paciente internacional y su acompañante hacen preguntas a un médico antes de aceptar la atención
+
+
+- **Title:** Consentimiento informado entre idiomas en China
+- **Subtitle:** El consentimiento es una conversación sobre la atención propuesta, los riesgos relevantes, las alternativas y la elección del paciente, no una firma obtenida a base de suposiciones.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -188,13 +190,15 @@ No automáticamente. Pregunte al cirujano qué ampliaciones o cambios de técnic
 ## SEO Metadata
 
 - **Slug:** `informed-consent-across-languages-questions-patients-should-ask`
-- **Meta title:** Consentimiento informado entre idiomas en China
-- **Meta description:** Haga mejores preguntas sobre beneficios, riesgos, alternativas, intérpretes y cambios de plan antes de firmar un consentimiento hospitalario en China.
 - **Primary keyword:** consentimiento informado en hospitales chinos
 - **Pillar keyword:** atención sanitaria en China para pacientes internacionales
 - **Vertical keyword:** consentimiento informado entre idiomas
 - **Search intent:** informativa / apoyo a la decisión sobre tratamiento
 - **Secondary keywords:** consentimiento en inglés hospital chino; consentimiento con intérprete médico; consentimiento para cirugía China
+
+
+- **Meta title:** Consentimiento informado entre idiomas en China
+- **Meta description:** Haga mejores preguntas sobre beneficios, riesgos, alternativas, intérpretes y cambios de plan antes de firmar un consentimiento hospitalario en China.
 
 ## Fuentes
 

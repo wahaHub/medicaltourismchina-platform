@@ -1,12 +1,14 @@
-# Leer un informe de linfoma de células del manto: explicación de ciclina D1, SOX11, Ki-67 y TP53
+# Informes de linfoma de células del manto: prepararse para una revisión en China
 
 ## Hero
 
-- **Title:** Leer un informe de linfoma de células del manto: explicación de ciclina D1, SOX11, Ki-67 y TP53
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma de células del manto
-- **Subtitle:** Búsquedas relacionadas: ciclina D1 positiva; Ki-67 en MCL; mutación de TP53 en linfoma de células del manto
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Informes de linfoma de células del manto: prepararse para una revisión en China
+- **Subtitle:** Interprete ciclina D1, SOX11, Ki-67 y TP53 en el contexto del linfoma de células del manto, y prepare sus informes para una revisión especializada en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -143,3 +145,6 @@ Mantenga vinculados los informes originales y traducidos. Deben conservarse pala
 ## SEO Metadata
 
 - **Primary keyword:** informe anatomopatológico del linfoma de células del manto
+
+- **Meta title:** Informes de linfoma de células del manto: prepararse para una revisión en China
+- **Meta description:** Interprete ciclina D1, SOX11, Ki-67 y TP53 en el contexto del linfoma de células del manto, y prepare sus informes para una revisión especializada en China.

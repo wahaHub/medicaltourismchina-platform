@@ -1,12 +1,14 @@
-# DLBCL kambuh atau refrakter: penilaian ulang dan keputusan pengobatan berikutnya
+# DLBCL Kambuh atau Refrakter di Tiongkok: Tinjauan dan Langkah Selanjutnya
 
 ## Hero
 
-- **Title:** DLBCL kambuh atau refrakter: penilaian ulang dan keputusan pengobatan berikutnya
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel B Besar Difus
-- **Subtitle:** Massa baru atau penyerapan PET yang mencurigakan setelah pengobatan DLBCL memerlukan penilaian ulang segera, tetapi pemindaian saja tidak seharusnya menyatakan setiap pengobatan tidak efektif.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL Kambuh atau Refrakter di Tiongkok: Tinjauan dan Langkah Selanjutnya
+- **Subtitle:** Pahami penilaian ulang DLBCL kambuh atau refrakter di Tiongkok melalui konfirmasi jaringan, linimasa terapi, dan pembahasan langkah berikutnya.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Sebelum kembali ke rumah, dapatkan ringkasan respons, rencana obat dan infeksi, 
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan DLBCL kambuh atau refrakter
+
+- **Meta title:** DLBCL Kambuh atau Refrakter di Tiongkok: Tinjauan dan Langkah Selanjutnya
+- **Meta description:** Pahami penilaian ulang DLBCL kambuh atau refrakter di Tiongkok melalui konfirmasi jaringan, linimasa terapi, dan pembahasan langkah berikutnya.

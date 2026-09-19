@@ -1,15 +1,17 @@
-# Proteger una herida quirúrgica durante un viaje: un plan para el trayecto, no solo para el apósito
+# Viajar después de una cirugía en China: proteger la herida
 
 ## Hero
 
-- **Title:** Proteger una herida quirúrgica durante un viaje: un plan para el trayecto, no solo para el apósito
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Prevención de infecciones
-- **Subtitle:** Cómo decidir si es sensato viajar, preparar los suministros para la herida, cambiar un apósito fuera de casa, proteger los drenajes y reconocer problemas después de una operación.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Una persona que va a viajar, con una incisión abdominal cubierta, repasa los suministros para los apósitos y un plan escrito de cuidado de la herida con una enfermera
+
+
+- **Title:** Viajar después de una cirugía en China: proteger la herida
+- **Subtitle:** Una guía práctica para viajar después de una operación que abarca apósitos, drenajes, vuelos, duchas, señales de alarma, suministros y planificación de emergencias.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - El enrojecimiento que se extiende, el aumento del dolor, la secreción purulenta o maloliente, la separación de la herida, el sangrado persistente, la fiebre, la hinchazón de la pantorrilla, el dolor torácico o la dificultad para respirar requieren una valoración médica rápida.
 
 ## Content
+
+Si va a viajar después de una cirugía en China, acuerde con el equipo quirúrgico el plan de cuidado de la herida y de viaje antes de salir. El traspaso de la atención debe incluir las instrucciones sobre apósitos, los drenajes, los límites de movimiento, las señales de alarma y el profesional que asumirá la atención en su país.
+
 
 Un apósito es solo una parte de la protección de una incisión. Las preguntas más difíciles sobre el viaje son si la herida está estable, si el paciente puede moverse y atender sus cuidados personales, y qué ocurrirá si el cierre se abre a cientos de kilómetros del equipo que lo operó.
 
@@ -120,11 +125,13 @@ La separación de la herida, el sangrado incontrolable, el enrojecimiento que se
 
 ## SEO Metadata
 
-- **SEO title:** Cómo proteger una herida quirúrgica durante un viaje
-- **Meta description:** Una guía práctica para viajar después de una operación que abarca apósitos, drenajes, vuelos, duchas, señales de alarma, suministros y planificación de emergencias.
 - **Primary keyword:** proteger una herida quirúrgica durante un viaje
 - **Secondary keywords:** cuidado de heridas al volar después de una operación, viajar con drenaje quirúrgico, apósito de herida en un vuelo, signos de infección de incisión, kit de viaje posoperatorio
 - **Suggested URL slug:** `/protect-surgical-wound-travel`
+
+
+- **Meta title:** Viajar después de una cirugía en China: proteger la herida
+- **Meta description:** Una guía práctica para viajar después de una operación que abarca apósitos, drenajes, vuelos, duchas, señales de alarma, suministros y planificación de emergencias.
 
 ## Fuentes
 

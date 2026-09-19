@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Parkinson’s Follow-up After Treatment in China: Prescriptions, Devices and Everyday Function at Home
 - **Category:** Patient Journey Guides
 - **Subcategory:** Parkinson Disease
-- **Subtitle:** The first review after returning home should examine whether the plan made in China works in ordinary life.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Parkinson’s Follow-up After Treatment in China: Prescriptions, Devices and Everyday Function at Home
+- **Subtitle:** Plan Parkinson’s follow-up after treatment in China, including prescriptions, device care, everyday function and when local services should take over.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ An effective home plan tells the patient which prescription to follow today, wha
 ## SEO Metadata
 
 - **Primary keyword:** Parkinson’s disease follow-up after returning home from China
+
+- **Meta title:** Parkinson’s Follow-up After Treatment in China: Prescriptions, Devices and Everyday Function at Home
+- **Meta description:** Plan Parkinson’s follow-up after treatment in China, including prescriptions, device care, everyday function and when local services should take over.

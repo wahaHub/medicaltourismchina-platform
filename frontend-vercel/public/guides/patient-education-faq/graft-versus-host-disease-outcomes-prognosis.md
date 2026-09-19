@@ -1,12 +1,14 @@
-# Recovery and Prognosis After GVHD: Understanding Response, Treatment-Free Time and Daily Function
+# GVHD Recovery and Prognosis: Assessment Questions in China
 
 ## Hero
 
-- **Title:** Recovery and Prognosis After GVHD: Understanding Response, Treatment-Free Time and Daily Function
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Graft Versus Host Disease
-- **Subtitle:** “Will I recover?” may mean several things to someone living with graft-versus-host disease.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** GVHD Recovery and Prognosis: Assessment Questions in China
+- **Subtitle:** Understand GVHD response, daily function and continuing treatment needs, and prepare a timeline for an individualized prognosis review in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -136,3 +138,6 @@ The outlook can change as organ control, infection management and function evolv
 ## SEO Metadata
 
 - **Primary keyword:** GVHD prognosis and treatment outcomes
+
+- **Meta title:** GVHD Recovery and Prognosis: Assessment Questions in China
+- **Meta description:** Understand GVHD response, daily function and continuing treatment needs, and prepare a timeline for an individualized prognosis review in China.

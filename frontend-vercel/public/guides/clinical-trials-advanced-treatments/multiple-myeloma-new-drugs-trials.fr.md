@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Nouveaux médicaments et essais cliniques du myélome : évaluer les options en Chine en 2026
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Myélome multiple
-- **Subtitle:** Une actualité sur le myélome peut décrire une nouvelle molécule, une nouvelle association de médicaments connus ou un contexte thérapeutique plus précoce.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Nouveaux médicaments et essais cliniques du myélome : évaluer les options en Chine en 2026
+- **Subtitle:** Évaluez les nouveaux médicaments et essais du myélome en distinguant preuves, indications et admissibilité. Préparez les questions pour un centre en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Après la sélection, reconfirmez le calendrier des visites, la date de traiteme
 ## SEO Metadata
 
 - **Primary keyword:** nouveaux traitements et essais cliniques du myélome multiple en Chine
+
+- **Meta title:** Nouveaux médicaments et essais cliniques du myélome : évaluer les options en Chine en 2026
+- **Meta description:** Évaluez les nouveaux médicaments et essais du myélome en distinguant preuves, indications et admissibilité. Préparez les questions pour un centre en Chine.

@@ -1,12 +1,14 @@
-# Comparer les traitements de la GVHD : apports des corticoïdes, médicaments ciblés, photophérèse et produits cellulaires
+# Options de traitement de la GVH en Chine : bénéfices et limites
 
 ## Hero
 
-- **Title:** Comparer les traitements de la GVHD : apports des corticoïdes, médicaments ciblés, photophérèse et produits cellulaires
 - **Category:** Guides des traitements
 - **Subcategory:** Maladie du greffon contre l’hôte
-- **Subtitle:** Une famille comparant les traitements de la maladie du greffon contre l’hôte peut recevoir plusieurs recommandations apparemment concurrentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Options de traitement de la GVH en Chine : bénéfices et limites
+- **Subtitle:** Comparez corticoïdes, traitements ciblés, photophérèse et thérapies cellulaires de la GVH selon la forme, les organes et les contraintes de suivi en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ Avant de choisir entre des propositions écrites, demandez à chaque équipe sa 
 ## SEO Metadata
 
 - **Primary keyword:** comparaison des traitements de la GVHD en Chine
+
+- **Meta title:** Options de traitement de la GVH en Chine : bénéfices et limites
+- **Meta description:** Comparez corticoïdes, traitements ciblés, photophérèse et thérapies cellulaires de la GVH selon la forme, les organes et les contraintes de suivi en Chine.

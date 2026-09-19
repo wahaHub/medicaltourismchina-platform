@@ -1,12 +1,14 @@
-# Drug-resistant epilepsy treatment: what to do when two suitable medication schedules have not controlled seizures
+# Drug-Resistant Epilepsy Treatment in China: Next Steps
 
 ## Hero
 
-- **Title:** Drug-resistant epilepsy treatment: what to do when two suitable medication schedules have not controlled seizures
 - **Category:** Treatment Guides
 - **Subcategory:** Drug Resistant Epilepsy
-- **Subtitle:** Continuing seizures do not mean that care must consist only of adding more medicines.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Drug-Resistant Epilepsy Treatment in China: Next Steps
+- **Subtitle:** Understand the next steps when suitable medicines have not controlled epilepsy, and arrange a comprehensive assessment rather than assume surgery in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -146,3 +148,6 @@ At follow-up, provide comparable seizure and adverse-effect records rather than 
 ## SEO Metadata
 
 - **Primary keyword:** drug-resistant epilepsy treatment; comprehensive epilepsy care in China; epilepsy surgery evaluation; refractory seizures
+
+- **Meta title:** Drug-Resistant Epilepsy Treatment in China: Next Steps
+- **Meta description:** Understand the next steps when suitable medicines have not controlled epilepsy, and arrange a comprehensive assessment rather than assume surgery in China.

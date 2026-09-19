@@ -1,12 +1,14 @@
-# Der erste Behandlungsplan nach Feststellung einer medikamentenresistenten Epilepsie: Änderungen, Überwachung und Überweisung vereinbaren
+# Pharmakoresistente Epilepsie in China: Der erste Behandlungsplan
 
 ## Hero
 
-- **Title:** Der erste Behandlungsplan nach Feststellung einer medikamentenresistenten Epilepsie: Änderungen, Überwachung und Überweisung vereinbaren
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Medikamentenresistente Epilepsie
-- **Subtitle:** In dieser Phase braucht der Patient einen umsetzbaren und überprüfbaren Plan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pharmakoresistente Epilepsie in China: Der erste Behandlungsplan
+- **Subtitle:** Den ersten Plan bei pharmakoresistenter Epilepsie in China erstellen: frühere Versuche prüfen, Therapieziel benennen und Umstellung, Sicherheit sowie Überweisung planen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,3 +152,6 @@ Führen Sie bei späteren Kontrollen Ereignisse, Nebenwirkungen und die Ziele de
 ## SEO Metadata
 
 - **Primary keyword:** erster Behandlungsplan bei medikamentenresistenter Epilepsie; Anpassung anfallssuppressiver Medikamente; Zusatztherapie bei Epilepsie; Überweisung in China
+
+- **Meta title:** Pharmakoresistente Epilepsie in China: Der erste Behandlungsplan
+- **Meta description:** Den ersten Plan bei pharmakoresistenter Epilepsie in China erstellen: frühere Versuche prüfen, Therapieziel benennen und Umstellung, Sicherheit sowie Überweisung planen.

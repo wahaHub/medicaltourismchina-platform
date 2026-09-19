@@ -1,12 +1,14 @@
-# Recaída o respuesta insuficiente en la esclerosis múltiple: manejo del episodio y de la siguiente decisión terapéutica
+# Brote o respuesta insuficiente en esclerosis múltiple: reevaluación y atención en China
 
 ## Hero
 
-- **Title:** Recaída o respuesta insuficiente en la esclerosis múltiple: manejo del episodio y de la siguiente decisión terapéutica
 - **Category:** Guías de tratamiento
 - **Subcategory:** Esclerosis múltiple
-- **Subtitle:** La aparición de visión borrosa, debilidad o entumecimiento pese a tomar la medicación regularmente puede hacer que el tratamiento previo parezca inútil.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Brote o respuesta insuficiente en esclerosis múltiple: reevaluación y atención en China
+- **Subtitle:** Distinga un posible brote de otras causas de empeoramiento en esclerosis múltiple, y prepare una reevaluación del episodio y del tratamiento en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ El traspaso final tras un episodio debe contener su cronología, los hallazgos d
 ## SEO Metadata
 
 - **Primary keyword:** esclerosis múltiple recurrente y resistente al tratamiento
+
+- **Meta title:** Brote o respuesta insuficiente en esclerosis múltiple: reevaluación y atención en China
+- **Meta description:** Distinga un posible brote de otras causas de empeoramiento en esclerosis múltiple, y prepare una reevaluación del episodio y del tratamiento en China.

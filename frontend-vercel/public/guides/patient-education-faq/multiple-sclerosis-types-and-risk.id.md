@@ -1,12 +1,14 @@
-# Jenis sklerosis multipel dan risiko pribadi: pengaruh kekambuhan dan progresi
+# Jenis dan Risiko Sklerosis Multipel: Penilaian di Tiongkok
 
 ## Hero
 
-- **Title:** Jenis sklerosis multipel dan risiko pribadi: pengaruh kekambuhan dan progresi
 - **Category:** Edukasi Pasien & FAQ
 - **Subcategory:** Sklerosis Multipel
-- **Subtitle:** RRMS, SPMS, dan PPMS bukan tiga tingkat keparahan yang diurutkan dari ringan hingga berat.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Jenis dan Risiko Sklerosis Multipel: Penilaian di Tiongkok
+- **Subtitle:** Pahami pola relaps-remisi, progresif sekunder, dan progresif primer pada sklerosis multipel. Siapkan riwayat untuk penilaian risiko di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Jika dua rumah sakit menggunakan klasifikasi berbeda, bandingkan riwayat penyaki
 ## SEO Metadata
 
 - **Primary keyword:** jenis sklerosis multipel dan penilaian risiko
+
+- **Meta title:** Jenis dan Risiko Sklerosis Multipel: Penilaian di Tiongkok
+- **Meta description:** Pahami pola relaps-remisi, progresif sekunder, dan progresif primer pada sklerosis multipel. Siapkan riwayat untuk penilaian risiko di Tiongkok.

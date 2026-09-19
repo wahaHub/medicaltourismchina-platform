@@ -1,12 +1,14 @@
-# Nebenwirkungen der Thalassämiebehandlung bewältigen: Was Sie melden sollten, wann Sie Hilfe brauchen und wie Sie sich vorbereiten
+# Thalassämiebehandlung in China: Nebenwirkungen und Sicherheitsprüfungen
 
 ## Hero
 
-- **Title:** Nebenwirkungen der Thalassämiebehandlung bewältigen: Was Sie melden sollten, wann Sie Hilfe brauchen und wie Sie sich vorbereiten
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Thalassämie
-- **Subtitle:** Eine Liste möglicher Nebenwirkungen zu finden ist oft leichter, als zu entscheiden, was bei einem Symptom zu tun ist.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Thalassämiebehandlung in China: Nebenwirkungen und Sicherheitsprüfungen
+- **Subtitle:** Nebenwirkungen der Thalassämiebehandlung in China verstehen: Transfusionsreaktionen, Chelatorrisiken, Organüberwachung und Beschwerden mit dringendem Abklärungsbedarf.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -146,3 +148,6 @@ Patienten müssen nicht jede mögliche Reaktion auswendig kennen. Praktischere Z
 ## SEO Metadata
 
 - **Primary keyword:** Nebenwirkungen der Thalassämiebehandlung; unerwünschte Chelatorreaktionen; Transfusionsreaktionen; Medikationssicherheit in China
+
+- **Meta title:** Thalassämiebehandlung in China: Nebenwirkungen und Sicherheitsprüfungen
+- **Meta description:** Nebenwirkungen der Thalassämiebehandlung in China verstehen: Transfusionsreaktionen, Chelatorrisiken, Organüberwachung und Beschwerden mit dringendem Abklärungsbedarf.

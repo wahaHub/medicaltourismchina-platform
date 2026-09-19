@@ -1,15 +1,17 @@
-# Test génétique ou génomique ? Déterminer d’abord si la question concerne le risque héréditaire, le diagnostic ou le traitement
+# Tests génétiques et génomiques en Chine : comprendre les résultats
 
 ## Hero
 
-- **Title:** Test génétique ou génomique ? Déterminer d’abord si la question concerne le risque héréditaire, le diagnostic ou le traitement
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Examens et diagnostic
-- **Subtitle:** Un guide pratique des tests constitutionnels, du profilage tumoral, des variants incertains, des panels étendus, des résultats en accès direct aux consommateurs et des questions à régler avant l’envoi d’un échantillon.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un médecin explique à un patient et à un membre de sa famille des résultats concernant l’ADN et leurs implications possibles
+
+
+- **Title:** Tests génétiques et génomiques en Chine : comprendre les résultats
+- **Subtitle:** Comprendre les tests génomiques constitutionnels et tumoraux, les VUS et résultats négatifs, les panels étendus, les tests ADN grand public, la qualité des rapports et les questions avant le test.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,11 +147,13 @@ N’agissez pas sur ce seul résultat. Examinez le résultat original avec un m�
 
 ## SEO Metadata
 
-- **SEO title:** Tests génétiques et génomiques : comprendre les résultats constitutionnels, tumoraux et les VUS
-- **Meta description:** Comprendre les tests génomiques constitutionnels et tumoraux, les VUS et résultats négatifs, les panels étendus, les tests ADN grand public, la qualité des rapports et les questions avant le test.
 - **Primary keyword:** guide des tests génétiques et génomiques
 - **Secondary keywords:** tests constitutionnels, profilage tumoral, mutation somatique, variant de signification incertaine, conseil génétique, tests de biomarqueurs du cancer
 - **Suggested URL slug:** `/genetic-genomic-tests-inherited-risk-diagnosis-treatment`
+
+
+- **Meta title:** Tests génétiques et génomiques en Chine : comprendre les résultats
+- **Meta description:** Comprendre les tests génomiques constitutionnels et tumoraux, les VUS et résultats négatifs, les panels étendus, les tests ADN grand public, la qualité des rapports et les questions avant le test.
 
 ## Sources
 

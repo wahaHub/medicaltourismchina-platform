@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Radiation Therapy for Mantle Cell Lymphoma: Local Control, Short Courses, and Planning Care in China
 - **Category:** Treatment Guides
 - **Subcategory:** Mantle Cell Lymphoma
-- **Subtitle:** Being offered radiation for a lymphoma mass can raise an understandable question: if the area can be treated directly, why are medicines still being discussed?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Radiation Therapy for Mantle Cell Lymphoma: Local Control, Short Courses, and Planning Care in China
+- **Subtitle:** Understand radiotherapy’s role in mantle cell lymphoma, including local control and short courses, with practical planning for treatment in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -113,3 +115,6 @@ Follow-up should answer two separate questions: has the local problem improved, 
 ## SEO Metadata
 
 - **Primary keyword:** radiation therapy for mantle cell lymphoma
+
+- **Meta title:** Radiation Therapy for Mantle Cell Lymphoma: Local Control, Short Courses, and Planning Care in China
+- **Meta description:** Understand radiotherapy’s role in mantle cell lymphoma, including local control and short courses, with practical planning for treatment in China.

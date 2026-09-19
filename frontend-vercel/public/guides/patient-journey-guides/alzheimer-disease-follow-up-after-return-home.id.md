@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Tindak Lanjut Alzheimer Setelah Perawatan di Tiongkok: Menjalankan Rencana Kepulangan
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Penyakit Alzheimer
-- **Subtitle:** Konsultasi atau rangkaian pengobatan di Tiongkok baru bermanfaat dalam jangka panjang jika temuannya dapat dimasukkan ke dalam perawatan di tempat tinggal pasien.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tindak Lanjut Alzheimer Setelah Perawatan di Tiongkok: Menjalankan Rencana Kepulangan
+- **Subtitle:** Siapkan tindak lanjut Alzheimer setelah perawatan di Tiongkok: serah terima, jadwal evaluasi, pemantauan obat, dan MRI bila diperlukan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -130,3 +132,6 @@ Lanjutkan percakapan tentang preferensi pasien dan perawatan mendatang sambil me
 ## SEO Metadata
 
 - **Primary keyword:** tindak lanjut setelah pengobatan Alzheimer di Tiongkok
+
+- **Meta title:** Tindak Lanjut Alzheimer Setelah Perawatan di Tiongkok: Menjalankan Rencana Kepulangan
+- **Meta description:** Siapkan tindak lanjut Alzheimer setelah perawatan di Tiongkok: serah terima, jadwal evaluasi, pemantauan obat, dan MRI bila diperlukan.

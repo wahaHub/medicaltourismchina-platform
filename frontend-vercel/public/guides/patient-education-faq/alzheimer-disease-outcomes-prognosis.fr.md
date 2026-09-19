@@ -1,12 +1,14 @@
-# Pronostic de la maladie d'Alzheimer : résultats thérapeutiques, fonctionnement quotidien et soins futurs
+# Pronostic d’Alzheimer : questions pour une évaluation en Chine
 
 ## Hero
 
-- **Title:** Pronostic de la maladie d'Alzheimer : résultats thérapeutiques, fonctionnement quotidien et soins futurs
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Maladie d'Alzheimer
-- **Subtitle:** Après le diagnostic, les familles souhaitent souvent savoir combien de temps l'autonomie pourrait durer, si le traitement arrêtera le déclin et combien de temps il reste.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronostic d’Alzheimer : questions pour une évaluation en Chine
+- **Subtitle:** Comprenez les limites des chiffres de survie d’Alzheimer et les objectifs de traitement. Préparez une évaluation en Chine centrée sur l’autonomie et les soins futurs.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -146,3 +148,6 @@ L'incertitude sur l'avenir exact n'empêche pas d'agir utilement maintenant. Les
 ## SEO Metadata
 
 - **Primary keyword:** pronostic de la maladie d'Alzheimer
+
+- **Meta title:** Pronostic d’Alzheimer : questions pour une évaluation en Chine
+- **Meta description:** Comprenez les limites des chiffres de survie d’Alzheimer et les objectifs de traitement. Préparez une évaluation en Chine centrée sur l’autonomie et les soins futurs.

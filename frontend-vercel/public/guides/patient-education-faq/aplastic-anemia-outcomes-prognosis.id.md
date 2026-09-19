@@ -1,12 +1,14 @@
-# Prognosis anemia aplastik: respons, kekambuhan, dan pemulihan jangka panjang
+# Prognosis Anemia Aplastik: Pertanyaan untuk Perawatan di Tiongkok
 
 ## Hero
 
-- **Title:** Prognosis anemia aplastik: respons, kekambuhan, dan pemulihan jangka panjang
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Anemia Aplastik
-- **Subtitle:** “Apakah bisa disembuhkan?” dapat berarti selamat dari bahaya saat ini, berhenti menerima transfusi, lepas dari obat-obatan, atau kembali bekerja dan menjalani kehidupan keluarga.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prognosis Anemia Aplastik: Pertanyaan untuk Perawatan di Tiongkok
+- **Subtitle:** Bedakan respons, kemandirian dari transfusi, dan pemulihan jangka panjang pada anemia aplastik. Siapkan pertanyaan prognosis untuk tim di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Konsultasi, tinjauan patologi, dan evaluasi lanjutan memiliki jadwal khusus tiap
 ## SEO Metadata
 
 - **Primary keyword:** prognosis anemia aplastik
+
+- **Meta title:** Prognosis Anemia Aplastik: Pertanyaan untuk Perawatan di Tiongkok
+- **Meta description:** Bedakan respons, kemandirian dari transfusi, dan pemulihan jangka panjang pada anemia aplastik. Siapkan pertanyaan prognosis untuk tim di Tiongkok.

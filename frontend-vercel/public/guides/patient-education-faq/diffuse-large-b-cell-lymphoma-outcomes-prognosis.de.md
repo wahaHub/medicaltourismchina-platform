@@ -1,12 +1,14 @@
-# Ist DLBCL heilbar? Ansprechen, Rückfall und Prognose verstehen
+# DLBCL-Remission und Prognose: Fragen zur Versorgung in China
 
 ## Hero
 
-- **Title:** Ist DLBCL heilbar? Ansprechen, Rückfall und Prognose verstehen
 - **Category:** Patienteninformation & häufige Fragen
 - **Subcategory:** Diffuses großzelliges B-Zell-Lymphom
-- **Subtitle:** DLBCL kann mit Heilungsabsicht behandelt werden, auch bei manchen Menschen mit fortgeschrittener Erkrankung.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL-Remission und Prognose: Fragen zur Versorgung in China
+- **Subtitle:** DLBCL-Prognose für die Versorgung in China verstehen: Remission, IPI, Therapieansprechen und Rückfallrisiko einordnen, ohne Gruppendaten als persönliche Zusage zu lesen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ Angehörige sollten fragen, wie viele Details der Patient wünscht, und seine Be
 ## SEO Metadata
 
 - **Primary keyword:** DLBCL-Prognose und Heilung
+
+- **Meta title:** DLBCL-Remission und Prognose: Fragen zur Versorgung in China
+- **Meta description:** DLBCL-Prognose für die Versorgung in China verstehen: Remission, IPI, Therapieansprechen und Rückfallrisiko einordnen, ohne Gruppendaten als persönliche Zusage zu lesen.

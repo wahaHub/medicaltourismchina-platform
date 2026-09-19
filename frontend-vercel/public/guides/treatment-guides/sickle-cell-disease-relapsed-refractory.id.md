@@ -1,12 +1,14 @@
-# Nyeri Berulang Meski Menjalani Pengobatan Sel Sabit: Penilaian Ulang dan Langkah Berikutnya
+# Nyeri Sel Sabit Meski Sudah Diobati: Penilaian Ulang di Tiongkok
 
 ## Hero
 
-- **Title:** Nyeri Berulang Meski Menjalani Pengobatan Sel Sabit: Penilaian Ulang dan Langkah Berikutnya
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Sel Sabit
-- **Subtitle:** Bersungguh-sungguh minum obat dan menghadiri tindak lanjut, tetapi tetap kembali ke rumah sakit karena nyeri, dapat membuat setiap upaya terasa sia-sia.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Nyeri Sel Sabit Meski Sudah Diobati: Penilaian Ulang di Tiongkok
+- **Subtitle:** Tinjau nyeri sel sabit yang berulang melalui pola episode, obat yang digunakan, dan perubahan kondisi. Siapkan penilaian ulang perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -131,3 +133,6 @@ Kunjungan harus menghasilkan rencana tindakan jangka dekat: masalah mana ditanga
 ## SEO Metadata
 
 - **Primary keyword:** krisis sel sabit berulang meski menjalani pengobatan
+
+- **Meta title:** Nyeri Sel Sabit Meski Sudah Diobati: Penilaian Ulang di Tiongkok
+- **Meta description:** Tinjau nyeri sel sabit yang berulang melalui pola episode, obat yang digunakan, dan perubahan kondisi. Siapkan penilaian ulang perawatan di Tiongkok.

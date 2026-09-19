@@ -1,12 +1,14 @@
-# ¿Cuánto dura el tratamiento de la esclerosis múltiple? Calendarios de administración, revisiones y decisiones de suspensión
+# Tratamiento de esclerosis múltiple en China: administración, revisión y planificación a largo plazo
 
 ## Hero
 
-- **Title:** ¿Cuánto dura el tratamiento de la esclerosis múltiple? Calendarios de administración, revisiones y decisiones de suspensión
 - **Category:** Guías de tratamiento
 - **Subcategory:** Esclerosis múltiple
-- **Subtitle:** La duración de una visita a China y la duración del tratamiento de la EM son cuestiones diferentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento de esclerosis múltiple en China: administración, revisión y planificación a largo plazo
+- **Subtitle:** Comprenda los distintos plazos de brotes, administración y seguimiento de la esclerosis múltiple para planificar atención continuada en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Una relación terapéutica prolongada no tiene por qué hacer que cada día gire
 ## SEO Metadata
 
 - **Primary keyword:** duración del tratamiento de la esclerosis múltiple
+
+- **Meta title:** Tratamiento de esclerosis múltiple en China: administración, revisión y planificación a largo plazo
+- **Meta description:** Comprenda los distintos plazos de brotes, administración y seguimiento de la esclerosis múltiple para planificar atención continuada en China.

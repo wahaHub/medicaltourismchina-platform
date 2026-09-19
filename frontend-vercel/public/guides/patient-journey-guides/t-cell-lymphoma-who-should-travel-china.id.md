@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Siapa yang perlu mempertimbangkan perjalanan ke Tiongkok untuk perawatan limfoma sel T? Memperjelas manfaat rujukan dan kesiapan perjalanan
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Limfoma Sel T
-- **Subtitle:** Manfaat perjalanan pertama-tama bergantung pada masalah yang dapat dibantu diselesaikan oleh tim penerima.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Siapa yang perlu mempertimbangkan perjalanan ke Tiongkok untuk perawatan limfoma sel T? Memperjelas manfaat rujukan dan kesiapan perjalanan
+- **Subtitle:** Nilai manfaat rujukan limfoma sel T ke Tiongkok untuk patologi atau pilihan terapi. Periksa kesiapan perjalanan serta kesinambungan pengobatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Keluarga dapat menyimpan daftar periksa keberangkatan singkat berisi janji terko
 ## SEO Metadata
 
 - **Primary keyword:** perjalanan ke Tiongkok untuk pengobatan limfoma sel T
+
+- **Meta title:** Siapa yang perlu mempertimbangkan perjalanan ke Tiongkok untuk perawatan limfoma sel T? Memperjelas manfaat rujukan dan kesiapan perjalanan
+- **Meta description:** Nilai manfaat rujukan limfoma sel T ke Tiongkok untuk patologi atau pilihan terapi. Periksa kesiapan perjalanan serta kesinambungan pengobatan.

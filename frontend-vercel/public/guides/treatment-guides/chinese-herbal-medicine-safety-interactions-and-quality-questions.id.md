@@ -1,15 +1,17 @@
-# 070 Keamanan Obat Herbal Tiongkok: Pertanyaan tentang Interaksi dan Mutu
+# Pengobatan Herbal Tradisional Tiongkok: Keamanan dan Interaksi
 
 ## Hero
 
-- **Title:** Keamanan Obat Herbal Tiongkok: Pertanyaan tentang Interaksi dan Mutu
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Pengobatan Tradisional Tiongkok & Perawatan Integratif
-- **Subtitle:** Identifikasi produk secara tepat, telusuri betsnya, periksa seluruh formula terhadap seluruh daftar obat, dan pantau tujuan klinis yang terdefinisi.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Seorang klinisi dan pasien lanjut usia membandingkan obat resep, kapsul, dan bahan herbal dalam satu daftar keamanan obat.
+
+
+- **Title:** Pengobatan Herbal Tradisional Tiongkok: Keamanan dan Interaksi
+- **Subtitle:** Identifikasi jenis produk herbal, telusuri mutu bets, periksa interaksi, rencanakan pemantauan, laporkan reaksi merugikan, dan periksa pembatasan perjalanan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -161,11 +163,13 @@ Aturan bervariasi menurut bahan dan negara. Label asli, resep, dan daftar bahan 
 ## SEO Metadata
 
 - **Slug:** `chinese-herbal-medicine-safety-interactions-and-quality-questions`
-- **Meta title:** Keamanan Obat Herbal Tiongkok dan Pemeriksaan Interaksi
-- **Meta description:** Identifikasi jenis produk herbal, telusuri mutu bets, periksa interaksi, rencanakan pemantauan, laporkan reaksi merugikan, dan periksa pembatasan perjalanan.
 - **Primary keyword:** keamanan obat herbal Tiongkok
 - **Secondary keywords:** interaksi herbal Tiongkok dengan obat; mutu obat herbal; keamanan obat paten Tiongkok; reaksi merugikan herbal; ketertelusuran bets produk herbal
 - **Search intent:** keamanan obat / evaluasi produk
+
+
+- **Meta title:** Pengobatan Herbal Tradisional Tiongkok: Keamanan dan Interaksi
+- **Meta description:** Identifikasi jenis produk herbal, telusuri mutu bets, periksa interaksi, rencanakan pemantauan, laporkan reaksi merugikan, dan periksa pembatasan perjalanan.
 
 ## Sumber
 

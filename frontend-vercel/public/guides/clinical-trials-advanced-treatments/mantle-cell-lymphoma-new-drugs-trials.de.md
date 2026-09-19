@@ -1,12 +1,14 @@
-# Neue Medikamente und klinische Studien beim Mantelzelllymphom: Die Neuerungen von 2026 verstehen
+# Neue Behandlungen beim Mantelzelllymphom: Studien und Zugang in China
 
 ## Hero
 
-- **Title:** Neue Medikamente und klinische Studien beim Mantelzelllymphom: Die Neuerungen von 2026 verstehen
 - **Category:** Klinische Studien & fortgeschrittene Behandlungen
 - **Subcategory:** Mantelzelllymphom
-- **Subtitle:** Nachrichten über einen Durchbruch oder ein chemotherapiefreies Schema werfen verständlicherweise die Frage auf, ob Sie es erhalten könnten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Neue Behandlungen beim Mantelzelllymphom: Studien und Zugang in China
+- **Subtitle:** Neue Ansätze beim Mantelzelllymphom für eine Behandlung in China prüfen: Studienziel, Risikogruppe, Teilnahmebedingungen und praktische Anforderungen einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ Neue Veröffentlichungen können die Auswahl erweitern, ohne dass Sie bei jedem 
 ## SEO Metadata
 
 - **Primary keyword:** neue Medikamente und klinische Studien zum Mantelzelllymphom 2026
+
+- **Meta title:** Neue Behandlungen beim Mantelzelllymphom: Studien und Zugang in China
+- **Meta description:** Neue Ansätze beim Mantelzelllymphom für eine Behandlung in China prüfen: Studienziel, Risikogruppe, Teilnahmebedingungen und praktische Anforderungen einordnen.

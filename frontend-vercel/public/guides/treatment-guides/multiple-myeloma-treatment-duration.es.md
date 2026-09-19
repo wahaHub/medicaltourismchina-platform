@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Cuánto dura el tratamiento del mieloma múltiple? Ciclos, mantenimiento y tiempo en China
 - **Category:** Guías de tratamiento
 - **Subcategory:** Mieloma múltiple
-- **Subtitle:** La duración de un ingreso y la duración del tratamiento del mieloma son preguntas distintas.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Cuánto dura el tratamiento del mieloma múltiple? Ciclos, mantenimiento y tiempo en China
+- **Subtitle:** Distinga ciclos, recogida celular, trasplante y mantenimiento del mieloma múltiple para organizar el tratamiento y el tiempo de estancia en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Confirme con el médico de origen qué medicamentos y pruebas exactos pueden con
 ## SEO Metadata
 
 - **Primary keyword:** duración del tratamiento del mieloma múltiple en China
+
+- **Meta title:** ¿Cuánto dura el tratamiento del mieloma múltiple? Ciclos, mantenimiento y tiempo en China
+- **Meta description:** Distinga ciclos, recogida celular, trasplante y mantenimiento del mieloma múltiple para organizar el tratamiento y el tiempo de estancia en China.

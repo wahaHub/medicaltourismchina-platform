@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Veinte preguntas que hacen las familias sobre la enfermedad de Alzheimer y la atención en China
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedad de Alzheimer
-- **Subtitle:** Las familias encuentran muchos tipos distintos de información sobre Alzheimer: análisis de sangre diagnósticos, medicamentos con anticuerpos, afirmaciones sobre cirugía, anuncios de investigación y ofertas de tratamiento en el extranjero.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Veinte preguntas que hacen las familias sobre la enfermedad de Alzheimer y la atención en China
+- **Subtitle:** Prepare una consulta familiar sobre Alzheimer en China con preguntas sobre memoria, biomarcadores, herencia, tratamientos y necesidades de apoyo.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ La familia debe saber qué médico prescribirá, dónde se realizarán las prueb
 ## SEO Metadata
 
 - **Primary keyword:** preguntas frecuentes sobre tratamiento de la enfermedad de Alzheimer
+
+- **Meta title:** Veinte preguntas que hacen las familias sobre la enfermedad de Alzheimer y la atención en China
+- **Meta description:** Prepare una consulta familiar sobre Alzheimer en China con preguntas sobre memoria, biomarcadores, herencia, tratamientos y necesidades de apoyo.

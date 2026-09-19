@@ -1,12 +1,14 @@
-# Untersuchungen bei Verdacht auf Multiple Sklerose: Vorbereitung auf MRT, Nervenwasseruntersuchung und fachärztliche Beurteilung
+# Abklärung der Multiplen Sklerose in China: MRT und weitere Untersuchungen
 
 ## Hero
 
-- **Title:** Untersuchungen bei Verdacht auf Multiple Sklerose: Vorbereitung auf MRT, Nervenwasseruntersuchung und fachärztliche Beurteilung
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Multiple Sklerose
-- **Subtitle:** Eine MS-Abklärung soll ein neurologisches Problem erklären und nicht einfach ein standardisiertes Untersuchungspaket abarbeiten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Abklärung der Multiplen Sklerose in China: MRT und weitere Untersuchungen
+- **Subtitle:** Eine MS-Abklärung in China vorbereiten: Krankheitsverlauf, MRT, Nervenwasser und gezielte Zusatztests nutzen, um Diagnose und verbleibende Unsicherheit zu besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Bitten Sie für die Kostenplanung um eine Liste der jetzt notwendigen Untersuchu
 ## SEO Metadata
 
 - **Primary keyword:** diagnostische Untersuchungen bei Multipler Sklerose in China
+
+- **Meta title:** Abklärung der Multiplen Sklerose in China: MRT und weitere Untersuchungen
+- **Meta description:** Eine MS-Abklärung in China vorbereiten: Krankheitsverlauf, MRT, Nervenwasser und gezielte Zusatztests nutzen, um Diagnose und verbleibende Unsicherheit zu besprechen.

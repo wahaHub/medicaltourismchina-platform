@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Pemeriksaan untuk Dugaan Penyakit Parkinson di Tiongkok: Hal yang Dapat Dipastikan oleh Setiap Penilaian
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Penyakit Parkinson
-- **Subtitle:** Pasien terkadang meninggalkan janji temu awal sambil bertanya-tanya mengapa dokter neurologi menghabiskan waktu mengamati gerakan jari dan cara berjalan, alih-alih meminta pemindaian yang menentukan diagnosis secara pasti.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pemeriksaan untuk Dugaan Penyakit Parkinson di Tiongkok: Hal yang Dapat Dipastikan oleh Setiap Penilaian
+- **Subtitle:** Pahami peran pemeriksaan gerak, riwayat obat, MRI, dan pencitraan dopamin pada dugaan Parkinson. Siapkan pertanyaan untuk penilaian di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Bukti diperiksa: September 9, 2026. Pemilihan dan interpretasi pemeriksaan berga
 ## SEO Metadata
 
 - **Primary keyword:** pemeriksaan diagnosis penyakit Parkinson di Tiongkok
+
+- **Meta title:** Pemeriksaan untuk Dugaan Penyakit Parkinson di Tiongkok: Hal yang Dapat Dipastikan oleh Setiap Penilaian
+- **Meta description:** Pahami peran pemeriksaan gerak, riwayat obat, MRI, dan pencitraan dopamin pada dugaan Parkinson. Siapkan pertanyaan untuk penilaian di Tiongkok.

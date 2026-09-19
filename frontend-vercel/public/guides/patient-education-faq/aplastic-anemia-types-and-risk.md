@@ -1,12 +1,14 @@
-# Aplastic anemia types and risk: what nonsevere, severe, and very severe mean
+# Aplastic Anemia Severity: Preparing for Assessment in China
 
 ## Hero
 
-- **Title:** Aplastic anemia types and risk: what nonsevere, severe, and very severe mean
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Aplastic Anemia
-- **Subtitle:** Nonsevere does not mean that treatment will never be needed, and severe does not mean that treatment can no longer help.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Aplastic Anemia Severity: Preparing for Assessment in China
+- **Subtitle:** Learn how nonsevere, severe and very severe aplastic anemia differ, and organize disease and treatment risks for an assessment in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ For reassessment in China, send the original marrow material or reports, complet
 ## SEO Metadata
 
 - **Primary keyword:** aplastic anemia types and risk
+
+- **Meta title:** Aplastic Anemia Severity: Preparing for Assessment in China
+- **Meta description:** Learn how nonsevere, severe and very severe aplastic anemia differ, and organize disease and treatment risks for an assessment in China.

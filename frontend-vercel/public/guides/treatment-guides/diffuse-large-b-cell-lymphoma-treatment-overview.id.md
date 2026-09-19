@@ -1,12 +1,14 @@
-# Pengobatan limfoma sel B besar difus: menyusun rencana lengkap
+# Pengobatan DLBCL di Tiongkok: Menyusun Rencana Perawatan Lengkap
 
 ## Hero
 
-- **Title:** Pengobatan limfoma sel B besar difus: menyusun rencana lengkap
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel B Besar Difus
-- **Subtitle:** Limfoma sel B besar difus, biasanya disingkat DLBCL, sering memerlukan pengobatan segera karena dapat tumbuh cepat.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan DLBCL di Tiongkok: Menyusun Rencana Perawatan Lengkap
+- **Subtitle:** Susun rencana DLBCL di Tiongkok dengan konfirmasi diagnosis, penentuan stadium, penilaian kondisi pasien, regimen awal, dan dukungan perawatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Saat selesai, dapatkan ringkasan pengobatan berisi obat dan dosis aktual, peruba
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan limfoma sel B besar difus
+
+- **Meta title:** Pengobatan DLBCL di Tiongkok: Menyusun Rencana Perawatan Lengkap
+- **Meta description:** Susun rencana DLBCL di Tiongkok dengan konfirmasi diagnosis, penentuan stadium, penilaian kondisi pasien, regimen awal, dan dukungan perawatan.

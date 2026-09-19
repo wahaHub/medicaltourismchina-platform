@@ -1,12 +1,14 @@
-# Medicamentos para la EICH: comprender los corticoesteroides, ruxolitinib, belumosudil y las opciones de tratamiento posteriores
+# Medicamentos para EICH en China: indicaciones, vigilancia y acceso
 
 ## Hero
 
-- **Title:** Medicamentos para la EICH: comprender los corticoesteroides, ruxolitinib, belumosudil y las opciones de tratamiento posteriores
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de injerto contra huésped
-- **Subtitle:** Después del trasplante, la cantidad de envases de medicamentos puede resultar difícil de gestionar.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medicamentos para EICH en China: indicaciones, vigilancia y acceso
+- **Subtitle:** Comprenda las indicaciones y controles de los medicamentos de enfermedad injerto contra huésped, y qué verificar sobre uso y acceso para la atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -131,3 +133,6 @@ Un plan claro de medicación permite al paciente explicar por qué se utiliza la
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento farmacológico de la EICH en China
+
+- **Meta title:** Medicamentos para EICH en China: indicaciones, vigilancia y acceso
+- **Meta description:** Comprenda las indicaciones y controles de los medicamentos de enfermedad injerto contra huésped, y qué verificar sobre uso y acceso para la atención en China.

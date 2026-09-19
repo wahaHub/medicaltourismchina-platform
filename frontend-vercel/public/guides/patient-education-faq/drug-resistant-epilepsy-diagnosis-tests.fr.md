@@ -1,12 +1,14 @@
-# Examens de l’épilepsie pharmacorésistante : confirmer les événements, rechercher la cause et définir les options thérapeutiques
+# Examens de l’épilepsie pharmacorésistante en Chine : réévaluation diagnostique
 
 ## Hero
 
-- **Title:** Examens de l’épilepsie pharmacorésistante : confirmer les événements, rechercher la cause et définir les options thérapeutiques
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Épilepsie pharmacorésistante
-- **Subtitle:** L’exploration des crises difficiles à contrôler répond généralement à trois questions : les événements récurrents sont-ils épileptiques, pourquoi le traitement ne les a-t-il pas maîtrisés et des éléments supplémentaires pourraient-ils modifier les options disponibles ?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Examens de l’épilepsie pharmacorésistante en Chine : réévaluation diagnostique
+- **Subtitle:** Préparez un bilan d’épilepsie pharmacorésistante en Chine en documentant les crises, les médicaments essayés et les résultats d’EEG et de vidéo-EEG.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -149,3 +151,6 @@ Obtenez les comptes rendus officiels et les données sources disponibles, notez 
 ## SEO Metadata
 
 - **Primary keyword:** examens diagnostiques de l’épilepsie pharmacorésistante ; surveillance vidéo-EEG ; IRM d’épilepsie ; évaluation préchirurgicale en Chine
+
+- **Meta title:** Examens de l’épilepsie pharmacorésistante en Chine : réévaluation diagnostique
+- **Meta description:** Préparez un bilan d’épilepsie pharmacorésistante en Chine en documentant les crises, les médicaments essayés et les résultats d’EEG et de vidéo-EEG.

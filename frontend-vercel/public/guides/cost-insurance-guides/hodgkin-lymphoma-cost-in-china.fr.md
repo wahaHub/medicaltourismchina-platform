@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Coûts du traitement du lymphome de Hodgkin en Chine : obtenir un devis comparable en RMB
 - **Category:** Guides des coûts et de l’assurance
 - **Subcategory:** Lymphome de Hodgkin
-- **Subtitle:** Il n’existe pas de prix total unique du traitement du lymphome de Hodgkin en Chine applicable à tous les patients.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Coûts du traitement du lymphome de Hodgkin en Chine : obtenir un devis comparable en RMB
+- **Subtitle:** Comparez les devis du lymphome de Hodgkin en Chine sur une même base : bilan, protocole, cycles, administration et soins de soutien.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Un devis utile peut ne pas donner de total définitif le premier jour, mais il d
 ## SEO Metadata
 
 - **Primary keyword:** coût du traitement du lymphome de Hodgkin en Chine
+
+- **Meta title:** Coûts du traitement du lymphome de Hodgkin en Chine : obtenir un devis comparable en RMB
+- **Meta description:** Comparez les devis du lymphome de Hodgkin en Chine sur une même base : bilan, protocole, cycles, administration et soins de soutien.

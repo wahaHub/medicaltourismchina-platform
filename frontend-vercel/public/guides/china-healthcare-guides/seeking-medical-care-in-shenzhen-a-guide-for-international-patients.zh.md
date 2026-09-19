@@ -1,15 +1,17 @@
-# 深圳就医：国际患者指南
+# 中国就医指南：深圳看病与跨境衔接
 
 ## Hero
 
-- **Title:** 深圳就医：国际患者指南
 - **Category:** 中国医疗指南
 - **Subcategory:** 城市就医与跨境诊疗规划
-- **Subtitle:** 核对深圳医院真正的接诊入口、系统采用的身份证件，以及患者离开深圳后病历如何交到下一位医生手里。
 - **Reviewed by:** Medora Health 编辑团队；发布前需完成深圳就医与跨境衔接专业复核
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 国际患者在深圳城市背景下与医生讨论就诊安排
+
+
+- **Title:** 中国就医指南：深圳看病与跨境衔接
+- **Subtitle:** 深圳医院预约、护照建档、香港病历互通和医疗券边界、跨境交接及120急救的实用指南。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -202,13 +204,15 @@
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-shenzhen-a-guide-for-international-patients`
-- **Meta title:** 国际患者深圳就医与跨境衔接指南
-- **Meta description:** 深圳医院预约、护照建档、香港病历互通和医疗券边界、跨境交接及120急救的实用指南。
 - **Primary keyword:** 国际患者深圳就医
 - **Pillar keyword:** 国际患者赴华就医
 - **Vertical keyword:** 深圳跨境就医
 - **Search intent:** 医院导航 / 深港跨境诊疗规划
 - **Secondary keywords:** 深圳医院护照建档；深圳国际医疗；香港深圳病历互通；深圳120急救
+
+
+- **Meta title:** 中国就医指南：深圳看病与跨境衔接
+- **Meta description:** 深圳医院预约、护照建档、香港病历互通和医疗券边界、跨境交接及120急救的实用指南。
 
 ## Sources
 

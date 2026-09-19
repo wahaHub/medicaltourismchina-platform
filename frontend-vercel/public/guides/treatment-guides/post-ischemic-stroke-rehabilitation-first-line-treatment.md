@@ -1,12 +1,14 @@
-# Building the Initial Rehabilitation Plan After Ischemic Stroke
+# Starting Stroke Rehabilitation in China: Your First Care Plan
 
 ## Hero
 
-- **Title:** Building the Initial Rehabilitation Plan After Ischemic Stroke
 - **Category:** Treatment Guides
 - **Subcategory:** Post Ischemic Stroke Rehabilitation
-- **Subtitle:** Families receiving a rehabilitation schedule often ask which treatments should come first.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Starting Stroke Rehabilitation in China: Your First Care Plan
+- **Subtitle:** Build an initial stroke rehabilitation plan in China with functional goals, safety needs, coordinated clinicians and a schedule that can be reviewed.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ An initial rehabilitation plan should establish an adjustable direction: the act
 ## SEO Metadata
 
 - **Primary keyword:** first-line rehabilitation after ischemic stroke
+
+- **Meta title:** Starting Stroke Rehabilitation in China: Your First Care Plan
+- **Meta description:** Build an initial stroke rehabilitation plan in China with functional goals, safety needs, coordinated clinicians and a schedule that can be reviewed.

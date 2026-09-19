@@ -1,12 +1,14 @@
-# Cirugía con enfermedad de células falciformes: procedimientos de vesícula, bazo y articulaciones, y planificación perioperatoria
+# Cirugía con enfermedad falciforme en China: atención perioperatoria
 
 ## Hero
 
-- **Title:** Cirugía con enfermedad de células falciformes: procedimientos de vesícula, bazo y articulaciones, y planificación perioperatoria
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de células falciformes
-- **Subtitle:** A las personas con enfermedad de células falciformes les preocupa a menudo que una operación o anestesia desencadene una crisis.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Cirugía con enfermedad falciforme en China: atención perioperatoria
+- **Subtitle:** Prepare una cirugía con enfermedad falciforme en China con revisión de antecedentes, indicación del procedimiento y planificación individual de transfusión y cuidados.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ Un plan viable permite al paciente explicar por qué se propone cirugía ahora, 
 ## SEO Metadata
 
 - **Primary keyword:** preparación quirúrgica para enfermedad de células falciformes
+
+- **Meta title:** Cirugía con enfermedad falciforme en China: atención perioperatoria
+- **Meta description:** Prepare una cirugía con enfermedad falciforme en China con revisión de antecedentes, indicación del procedimiento y planificación individual de transfusión y cuidados.

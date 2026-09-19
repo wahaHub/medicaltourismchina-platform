@@ -1,15 +1,17 @@
-# 两份病理报告不一致：治疗前先核对标本、方法并形成正式结论
+# 中国病理会诊：如何核实不一致的报告
 
 ## Hero
 
-- **Title:** 两份病理报告不一致：治疗前先核对标本、方法并形成正式结论
 - **Category:** 患者教育与常见问题
 - **Subcategory:** 检查与诊断
-- **Subtitle:** 一份跨境病理复核指南：从玻片、蜡块、取样和免疫组化，到分子检测及重大分歧闭环。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** 患者与医生讨论病理复核流程，画面包含显微镜、组织玻片、专科团队和正式报告
+
+
+- **Title:** 中国病理会诊：如何核实不一致的报告
+- **Subtitle:** 解释取样、组织处理、染色、分子检测和肿瘤异质性，并安全借调玻片蜡块完成病理复核。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -190,13 +192,15 @@ NCI 强调，组织不足会导致生物标志物检测失败，而较早结果�
 ## SEO Metadata
 
 - **Slug:** `biopsy-and-pathology-review-why-results-may-differ`
-- **Meta title:** 两份病理报告不同：如何复核并统一诊断
-- **Meta description:** 解释取样、组织处理、染色、分子检测和肿瘤异质性，并安全借调玻片蜡块完成病理复核。
 - **Primary keyword:** 病理复核诊断不同
 - **Pillar keyword:** 中国癌症诊断
 - **Vertical keyword:** 活检玻片蜡块二次会诊
 - **Search intent:** 病理分歧处理指导
 - **Secondary keywords:** 中国病理二次会诊；跨境借调蜡块；穿刺与切除病理；标志物不一致；保护肿瘤组织
+
+
+- **Meta title:** 中国病理会诊：如何核实不一致的报告
+- **Meta description:** 解释取样、组织处理、染色、分子检测和肿瘤异质性，并安全借调玻片蜡块完成病理复核。
 
 ## Sources
 

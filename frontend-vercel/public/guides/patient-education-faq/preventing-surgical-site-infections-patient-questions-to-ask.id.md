@@ -1,15 +1,17 @@
-# Mencegah Infeksi Daerah Operasi: Pertanyaan yang Dapat Diajukan Pasien Sebelum dan Sesudah Operasi
+# Operasi di Tiongkok: Pencegahan Infeksi Luka dan Tanda Bahaya
 
 ## Hero
 
-- **Title:** Mencegah Infeksi Daerah Operasi: Pertanyaan yang Dapat Diajukan Pasien Sebelum dan Sesudah Operasi
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Pembedahan & Pencegahan Infeksi
-- **Subtitle:** Panduan bagi pasien tentang persiapan kulit, penghilangan rambut, waktu antibiotik, pengelolaan glukosa dan suhu, kebersihan tangan, balutan, dan pemeriksaan luka dini.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Seorang pasien membahas pertanyaan pencegahan infeksi dan perawatan luka dengan dua tenaga klinis perioperatif
+
+
+- **Title:** Operasi di Tiongkok: Pencegahan Infeksi Luka dan Tanda Bahaya
+- **Subtitle:** Pelajari cara pasien membantu mencegah infeksi daerah operasi sebelum dan sesudah pembedahan, termasuk mencukur, antibiotik, kebersihan tangan, balutan, foto, dan tanda peringatan mendesak.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,11 +141,13 @@ Foto dapat mendokumentasikan perubahan permukaan tetapi tidak dapat secara andal
 
 ## SEO Metadata
 
-- **SEO title:** Pencegahan Infeksi Daerah Operasi: Antibiotik, Perawatan Luka, dan Tanda Peringatan
-- **Meta description:** Pelajari cara pasien membantu mencegah infeksi daerah operasi sebelum dan sesudah pembedahan, termasuk mencukur, antibiotik, kebersihan tangan, balutan, foto, dan tanda peringatan mendesak.
 - **Primary keyword:** mencegah infeksi daerah operasi
 - **Secondary keywords:** pencegahan SSI, infeksi luka operasi, profilaksis antibiotik, perawatan sayatan, tanda peringatan luka pascaoperasi, kebersihan tangan
 - **Suggested URL slug:** `/prevent-surgical-site-infection-antibiotics-wound-care-warning-signs`
+
+
+- **Meta title:** Operasi di Tiongkok: Pencegahan Infeksi Luka dan Tanda Bahaya
+- **Meta description:** Pelajari cara pasien membantu mencegah infeksi daerah operasi sebelum dan sesudah pembedahan, termasuk mencukur, antibiotik, kebersihan tangan, balutan, foto, dan tanda peringatan mendesak.
 
 ## Sumber
 

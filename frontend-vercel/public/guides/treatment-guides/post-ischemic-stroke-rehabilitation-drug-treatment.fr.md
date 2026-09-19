@@ -1,12 +1,14 @@
-# Médicaments pendant la réadaptation après un AVC : prévention, soulagement des symptômes et limites des preuves
+# Médicaments en réadaptation après AVC en Chine : rôles et limites
 
 ## Hero
 
-- **Title:** Médicaments pendant la réadaptation après un AVC : prévention, soulagement des symptômes et limites des preuves
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Réadaptation après un AVC ischémique
-- **Subtitle:** Les médicaments pendant la réadaptation après un AVC relèvent souvent de plusieurs spécialités.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Médicaments en réadaptation après AVC en Chine : rôles et limites
+- **Subtitle:** Distinguez prévention d’un nouvel AVC et soulagement des symptômes pour comprendre les médicaments prescrits pendant la réadaptation en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -131,3 +133,6 @@ Avant la sortie, obtenez la liste définitive des traitements actifs et identifi
 ## SEO Metadata
 
 - **Primary keyword:** médicaments pendant la réadaptation après un AVC ischémique
+
+- **Meta title:** Médicaments en réadaptation après AVC en Chine : rôles et limites
+- **Meta description:** Distinguez prévention d’un nouvel AVC et soulagement des symptômes pour comprendre les médicaments prescrits pendant la réadaptation en Chine.

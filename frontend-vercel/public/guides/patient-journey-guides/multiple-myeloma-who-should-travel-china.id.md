@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Haruskah pasien mieloma multipel pergi ke Tiongkok untuk pengobatan?
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Mieloma Multipel
-- **Subtitle:** Ketersediaan obat baru hanyalah satu bagian dari keputusan pengobatan internasional.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Haruskah pasien mieloma multipel pergi ke Tiongkok untuk pengobatan?
+- **Subtitle:** Tentukan tujuan perawatan mieloma di Tiongkok dan kesiapan perjalanan. Pertimbangkan kondisi ginjal, kesinambungan obat, serta dukungan setelah pulang.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Rencana perjalanan yang dapat dijalankan mencakup status klinis saat ini, bantua
 ## SEO Metadata
 
 - **Primary keyword:** bepergian ke Tiongkok untuk pengobatan mieloma multipel
+
+- **Meta title:** Haruskah pasien mieloma multipel pergi ke Tiongkok untuk pengobatan?
+- **Meta description:** Tentukan tujuan perawatan mieloma di Tiongkok dan kesiapan perjalanan. Pertimbangkan kondisi ginjal, kesinambungan obat, serta dukungan setelah pulang.

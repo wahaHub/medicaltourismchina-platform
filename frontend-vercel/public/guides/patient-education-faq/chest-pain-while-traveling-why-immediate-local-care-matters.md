@@ -1,15 +1,17 @@
-# Chest Pain While Traveling: Stop the Journey and Start Local Emergency Care
+# Chest Pain While Traveling in China: Seek Emergency Care
 
 ## Hero
 
-- **Title:** Chest Pain While Traveling: Stop the Journey and Start Local Emergency Care
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Symptoms & Urgent Care
-- **Subtitle:** Why a booked flight, preferred hospital or overseas doctor must not delay emergency assessment—and what a traveler or companion should do in the first minutes.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Planned replacement showing a traveler with chest pain while a companion calls emergency services and an ambulance response begins
+
+
+- **Title:** Chest Pain While Traveling in China: Seek Emergency Care
+- **Subtitle:** Stop travel, call local emergency services, avoid self-driving and understand why chest pain needs local assessment before a flight or distant hospital.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -152,13 +154,15 @@ Not on that fact alone. Ask the treating team whether evaluation is complete, wh
 ## SEO Metadata
 
 - **Slug:** `chest-pain-while-traveling-why-immediate-local-care-matters`
-- **Meta title:** Chest Pain While Traveling: Call Local Emergency Care
-- **Meta description:** Stop travel, call local emergency services, avoid self-driving and understand why chest pain needs local assessment before a flight or distant hospital.
 - **Primary keyword:** chest pain while traveling
 - **Pillar keyword:** patient safety during medical travel
 - **Vertical keyword:** chest pain airport emergency
 - **Search intent:** emergency patient guidance
 - **Secondary keywords:** chest pain on airplane; call 120 China; pulmonary embolism after flight; heart attack while abroad; chest pain do not drive
+
+
+- **Meta title:** Chest Pain While Traveling in China: Seek Emergency Care
+- **Meta description:** Stop travel, call local emergency services, avoid self-driving and understand why chest pain needs local assessment before a flight or distant hospital.
 
 ## Sources
 

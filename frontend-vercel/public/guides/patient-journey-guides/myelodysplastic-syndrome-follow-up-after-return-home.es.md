@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Regreso a casa después del tratamiento del SMD en China: pruebas de seguimiento, transfusiones, recetas y atención del trasplante
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Síndrome mielodisplásico
-- **Subtitle:** Regreso a casa después del tratamiento del SMD en China: pruebas de seguimiento, transfusiones, recetas y atención del trasplante
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Regreso a casa después del tratamiento del SMD en China: pruebas de seguimiento, transfusiones, recetas y atención del trasplante
+- **Subtitle:** Planifique el regreso tras el tratamiento del síndrome mielodisplásico en China con pruebas, transfusiones, recetas y atención local ante fiebre o sangrado.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Siga las instrucciones individualizadas del paciente para la vigilancia, los med
 ## SEO Metadata
 
 - **Primary keyword:** seguimiento del síndrome mielodisplásico después del tratamiento en China
+
+- **Meta title:** Regreso a casa después del tratamiento del SMD en China: pruebas de seguimiento, transfusiones, recetas y atención del trasplante
+- **Meta description:** Planifique el regreso tras el tratamiento del síndrome mielodisplásico en China con pruebas, transfusiones, recetas y atención local ante fiebre o sangrado.

@@ -1,12 +1,14 @@
-# Nuevos fármacos y ensayos para la anemia aplásica: interpretar los avances y comprobar la elegibilidad
+# Fármacos y ensayos para la anemia aplásica: cómo comprobar el acceso en China
 
 ## Hero
 
-- **Title:** Nuevos fármacos y ensayos para la anemia aplásica: interpretar los avances y comprobar la elegibilidad
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Anemia aplásica
-- **Subtitle:** Al oír hablar de un nuevo medicamento para la anemia aplásica, pregunte primero si la información describe un estudio publicado, una indicación aprobada o un ensayo en curso.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Fármacos y ensayos para la anemia aplásica: cómo comprobar el acceso en China
+- **Subtitle:** Aprenda a interpretar los avances en anemia aplásica, comprobar la elegibilidad para ensayos en China y valorar los costes y las consecuencias de esperar.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Mantenga una lista breve que describa la pregunta, la población, la fase, el es
 ## SEO Metadata
 
 - **Primary keyword:** nuevos fármacos y ensayos clínicos para la anemia aplásica
+
+- **Meta title:** Fármacos y ensayos para la anemia aplásica: cómo comprobar el acceso en China
+- **Meta description:** Aprenda a interpretar los avances en anemia aplásica, comprobar la elegibilidad para ensayos en China y valorar los costes y las consecuencias de esperar.

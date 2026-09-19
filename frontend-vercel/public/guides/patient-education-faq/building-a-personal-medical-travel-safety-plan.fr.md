@@ -1,15 +1,17 @@
-# Un plan personnel de sécurité pour le voyage médical qui reste efficace quand la situation change
+# Voyage médical en Chine : plan personnel de sécurité et solutions de secours
 
 ## Hero
 
-- **Title:** Un plan personnel de sécurité pour le voyage médical qui reste efficace quand la situation change
 - **Category:** Éducation des patients et questions fréquentes
 - **Subcategory:** Décisions des patients et soutien aux aidants
-- **Subtitle:** Établissez un registre compact des risques, des étapes de décision, une chaîne de contacts et une solution de secours pour les défaillances cliniques, de voyage et de récupération les plus importantes.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un patient et son accompagnant élaborent une liste de contrôle de voyage médical à côté d’un calendrier, d’un itinéraire vers l’hôpital, de documents et de bagages
+
+
+- **Title:** Voyage médical en Chine : plan personnel de sécurité et solutions de secours
+- **Subtitle:** Établissez un registre des risques de voyage médical, des étapes de décision, des contacts d’urgence, des dossiers, des plans médicamenteux, une assurance et des solutions de récupération de secours.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Testez le plan avant le voyage. Si l’accompagnant ne peut pas ouvrir la liste des allergies hors ligne ou expliquer qui appeler à 2 heures du matin, le plan n’est pas terminé.
 
 ## Content
+
+Avant un voyage médical en Chine, convenez de la personne qui prendra en charge un changement de diagnostic, une sortie retardée ou un symptôme urgent. Utilisez ce guide pour réunir les contacts hospitaliers, les médicaments, les dossiers et les solutions de voyage de secours dans un plan que le patient et son accompagnant pourront réellement utiliser.
+
 
 La plupart des plans de voyage fonctionnent lorsque le diagnostic reste le même, que les vols sont à l’heure, que le patient récupère vite et que tous les téléphones captent. Un plan de sécurité commence par la question inverse : quelle défaillance unique causerait le plus de dommages, et que ferons-nous avant qu’elle ne devienne une crise ?
 
@@ -196,11 +201,13 @@ Après tout changement de diagnostic, d’état, de médicament, de traitement, 
 
 ## SEO Metadata
 
-- **SEO title:** Plan personnel de sécurité du voyage médical : guide des risques et solutions de secours
-- **Meta description:** Établissez un registre des risques de voyage médical, des étapes de décision, des contacts d’urgence, des dossiers, des plans médicamenteux, une assurance et des solutions de récupération de secours.
 - **Primary keyword:** plan personnel de sécurité du voyage médical
 - **Secondary keywords:** liste de sécurité du tourisme médical, plan d’urgence pour traitement à l’étranger, registre des risques de voyage médical, plan de secours pour patient international, sécurité des soins à l’étranger
 - **Suggested URL slug:** `/personal-medical-travel-safety-plan`
+
+
+- **Meta title:** Voyage médical en Chine : plan personnel de sécurité et solutions de secours
+- **Meta description:** Établissez un registre des risques de voyage médical, des étapes de décision, des contacts d’urgence, des dossiers, des plans médicamenteux, une assurance et des solutions de récupération de secours.
 
 ## Sources
 

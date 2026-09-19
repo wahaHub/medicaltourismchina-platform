@@ -1,12 +1,14 @@
-# ¿Cuánto dura el tratamiento del linfoma folicular? Vigilancia, inducción, mantenimiento y recuperación
+# Atención del linfoma folicular en China: plazos del tratamiento
 
 ## Hero
 
-- **Title:** ¿Cuánto dura el tratamiento del linfoma folicular? Vigilancia, inducción, mantenimiento y recuperación
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma folicular
-- **Subtitle:** No existe una duración única para todos los tratamientos del linfoma folicular.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Atención del linfoma folicular en China: plazos del tratamiento
+- **Subtitle:** Distinga vigilancia, inducción, mantenimiento y recuperación del linfoma folicular para organizar el calendario de tratamiento y la estancia en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -104,3 +106,6 @@ Mantenga flexibles los preparativos de regreso. Establezca la revisión después
 ## SEO Metadata
 
 - **Primary keyword:** duración del tratamiento del linfoma folicular
+
+- **Meta title:** Atención del linfoma folicular en China: plazos del tratamiento
+- **Meta description:** Distinga vigilancia, inducción, mantenimiento y recuperación del linfoma folicular para organizar el calendario de tratamiento y la estancia en China.

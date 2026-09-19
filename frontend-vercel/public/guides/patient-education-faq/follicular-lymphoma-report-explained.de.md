@@ -1,12 +1,14 @@
-# Einen Befund zum follikulären Lymphom lesen: Was Pathologie, PET und Blutwerte aussagen können
+# Befunde zum follikulären Lymphom: Vorbereitung auf eine Prüfung in China
 
 ## Hero
 
-- **Title:** Einen Befund zum follikulären Lymphom lesen: Was Pathologie, PET und Blutwerte aussagen können
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Follikuläres Lymphom
-- **Subtitle:** Ein Pathologiebericht nennt ein follikuläres Lymphom, ein PET/CT beschreibt mehrere aktive Lymphknoten und ein Bluttest kennzeichnet LDH als erhöht.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Befunde zum follikulären Lymphom: Vorbereitung auf eine Prüfung in China
+- **Subtitle:** Befunde zum follikulären Lymphom für eine Zweitmeinung in China ordnen: Gewebe, Marker, PET und Blutwerte zusammen lesen und widersprüchliche Ergebnisse klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Verlassen Sie das Befundgespräch mit drei schriftlichen Punkten: was gesichert 
 ## SEO Metadata
 
 - **Primary keyword:** Befund zum follikulären Lymphom erklärt
+
+- **Meta title:** Befunde zum follikulären Lymphom: Vorbereitung auf eine Prüfung in China
+- **Meta description:** Befunde zum follikulären Lymphom für eine Zweitmeinung in China ordnen: Gewebe, Marker, PET und Blutwerte zusammen lesen und widersprüchliche Ergebnisse klären.

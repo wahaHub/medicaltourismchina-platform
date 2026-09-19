@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Tindak lanjut di rumah setelah pengobatan anemia aplastik di Tiongkok
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Anemia Aplastik
-- **Subtitle:** Rencana tindak lanjut perlu menyebutkan tempat pemeriksaan, siapa yang meninjaunya, siapa yang boleh mengubah resep, dan ke mana harus pergi jika sakit.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tindak lanjut di rumah setelah pengobatan anemia aplastik di Tiongkok
+- **Subtitle:** Siapkan tindak lanjut anemia aplastik setelah perawatan di Tiongkok: tempat tes, peninjau hasil, pengelola resep, transfusi, dan rencana darurat.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Pada akhir setiap tinjauan, konfirmasikan resep aktif, pemeriksaan berikutnya, p
 ## SEO Metadata
 
 - **Primary keyword:** tindak lanjut anemia aplastik setelah pengobatan di luar negeri
+
+- **Meta title:** Tindak lanjut di rumah setelah pengobatan anemia aplastik di Tiongkok
+- **Meta description:** Siapkan tindak lanjut anemia aplastik setelah perawatan di Tiongkok: tempat tes, peninjau hasil, pengelola resep, transfusi, dan rencana darurat.

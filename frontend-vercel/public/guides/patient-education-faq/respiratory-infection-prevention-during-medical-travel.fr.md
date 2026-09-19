@@ -1,15 +1,17 @@
-# Prévenir les infections respiratoires pendant un voyage médical : préserver la fenêtre de traitement
+# Voyage médical en Chine : prévenir les infections respiratoires
 
 ## Hero
 
-- **Title:** Prévenir les infections respiratoires pendant un voyage médical : préserver la fenêtre de traitement
 - **Category:** Éducation des patients et questions fréquentes
 - **Subcategory:** Prévention des infections
-- **Subtitle:** Un plan à plusieurs niveaux : vaccination, masques bien ajustés, air plus propre, calendrier du voyage, dépistage des symptômes et accès rapide au traitement avant et après les soins hospitaliers.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Des voyageurs médicaux planifient leurs dates près de bagages et d’un hôpital, tandis que des icônes illustrent l’hygiène des mains, le masque, les médicaments et les règles à respecter en toussant
+
+
+- **Title:** Voyage médical en Chine : prévenir les infections respiratoires
+- **Subtitle:** Protégez votre voyage pour chirurgie ou traitement avec vaccination, masques, air plus propre et plan de gestion des symptômes, y compris avant le départ.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Les patients à haut risque ont besoin d’un circuit local convenu à l’avance pour évaluer rapidement l’indication d’antiviraux. Les antibiotiques ne préviennent pas les infections virales ; ne commencez pas des antiviraux restants sans examen des interactions et du délai de traitement.
 
 ## Content
+
+Lorsque vous organisez un voyage médical en Chine, prévoyez les précautions contre les infections en fonction du calendrier de traitement autant que du vol. Demandez à l’équipe d’accueil comment de nouveaux symptômes respiratoires pourraient modifier l’admission ou le traitement, et déterminez qui contacter si des symptômes apparaissent avant le départ ou pendant le séjour.
+
 
 Pour un vacancier en bonne santé, une infection respiratoire peut représenter plusieurs jours désagréables. Pour une personne prenant l’avion en vue d’une opération programmée ou entre des cycles de traitement, la même infection peut annuler une anesthésie, interrompre une chimiothérapie, exposer un voisin de chambre immunodéprimé ou transformer la convalescence en urgence.
 
@@ -163,11 +168,13 @@ Pas toujours. Le moment, la qualité du prélèvement et l’agent pathogène in
 
 ## SEO Metadata
 
-- **SEO title:** Prévenir les infections respiratoires en voyage médical
-- **Meta description:** Protégez votre voyage pour chirurgie ou traitement avec vaccination, masques, air plus propre et plan de gestion des symptômes, y compris avant le départ.
 - **Primary keyword:** prévention des infections respiratoires en voyage
 - **Secondary keywords:** prévention des infections en voyage médical, masque en avion, voyageur immunodéprimé, voyage avant chirurgie, air plus propre, symptômes respiratoires avant le vol
 - **Suggested URL slug:** `/respiratory-infection-prevention-medical-travel`
+
+
+- **Meta title:** Voyage médical en Chine : prévenir les infections respiratoires
+- **Meta description:** Protégez votre voyage pour chirurgie ou traitement avec vaccination, masques, air plus propre et plan de gestion des symptômes, y compris avant le départ.
 
 ## Sources
 

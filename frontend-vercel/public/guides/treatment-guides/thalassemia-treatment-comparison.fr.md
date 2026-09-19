@@ -1,12 +1,14 @@
-# Comparer les traitements de la thalassémie : soutien transfusionnel, médicaments contre l’anémie, greffe et thérapie génique
+# Traitements de la thalassémie : adéquation et accès en Chine
 
 ## Hero
 
-- **Title:** Comparer les traitements de la thalassémie : soutien transfusionnel, médicaments contre l’anémie, greffe et thérapie génique
 - **Category:** Guides des traitements
 - **Subcategory:** Thalassémie
-- **Subtitle:** Les traitements de la thalassémie sont souvent comparés entre eux alors même qu’ils répondent à des problèmes différents.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitements de la thalassémie : adéquation et accès en Chine
+- **Subtitle:** Comparez transfusions, médicaments contre l’anémie, greffe et thérapie génique de la thalassémie selon l’indication, les risques et le parcours de soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -129,3 +131,6 @@ Apportez une comparaison d’une page à la consultation : optimisation ou non d
 ## SEO Metadata
 
 - **Primary keyword:** comparaison des traitements de la thalassémie ; greffe versus médicaments ; luspatercept ; mitapivat ; décisions de thérapie génique
+
+- **Meta title:** Traitements de la thalassémie : adéquation et accès en Chine
+- **Meta description:** Comparez transfusions, médicaments contre l’anémie, greffe et thérapie génique de la thalassémie selon l’indication, les risques et le parcours de soins en Chine.

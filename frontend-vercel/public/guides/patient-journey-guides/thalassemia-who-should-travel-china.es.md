@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Debería viajar a China para atender su talasemia? Evalúe el propósito y las condiciones para un viaje seguro
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Talasemia
-- **Subtitle:** La decisión de buscar atención en el extranjero necesita tanto un propósito clínico como un plan de viaje viable.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Debería viajar a China para atender su talasemia? Evalúe el propósito y las condiciones para un viaje seguro
+- **Subtitle:** Valore el propósito de viajar a China por talasemia y prepare la continuidad transfusional, la evaluación médica y las condiciones para el trayecto.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -146,3 +148,6 @@ Proceda cuando el objetivo clínico, la estabilidad actual, los preparativos de 
 ## SEO Metadata
 
 - **Primary keyword:** viajar a China para tratamiento de talasemia; evaluación de viaje con talasemia; segunda opinión en China; continuidad transfusional en el extranjero
+
+- **Meta title:** ¿Debería viajar a China para atender su talasemia? Evalúe el propósito y las condiciones para un viaje seguro
+- **Meta description:** Valore el propósito de viajar a China por talasemia y prepare la continuidad transfusional, la evaluación médica y las condiciones para el trayecto.

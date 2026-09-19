@@ -1,12 +1,14 @@
-# Relapsed or refractory DLBCL: reassessment and the next treatment decision
+# Relapsed or Refractory DLBCL in China: Review and Next Steps
 
 ## Hero
 
-- **Title:** Relapsed or refractory DLBCL: reassessment and the next treatment decision
 - **Category:** Treatment Guides
 - **Subcategory:** Diffuse Large B Cell Lymphoma
-- **Subtitle:** A new mass or suspicious PET uptake after DLBCL treatment needs prompt reassessment, but a scan alone should not declare every treatment ineffective.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Relapsed or Refractory DLBCL in China: Review and Next Steps
+- **Subtitle:** Review relapsed or refractory DLBCL with the relevant biopsy, treatment history and timing, and prepare a specific referral and care budget in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Before returning home, obtain the response summary, medication and infection pla
 ## SEO Metadata
 
 - **Primary keyword:** relapsed or refractory DLBCL treatment
+
+- **Meta title:** Relapsed or Refractory DLBCL in China: Review and Next Steps
+- **Meta description:** Review relapsed or refractory DLBCL with the relevant biopsy, treatment history and timing, and prepare a specific referral and care budget in China.

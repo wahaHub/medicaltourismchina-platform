@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** GVHD treatment costs in China: building an itemized RMB estimate
 - **Category:** Cost & Insurance Guides
 - **Subcategory:** Graft Versus Host Disease
-- **Subtitle:** There is no single national price for treating graft-versus-host disease.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** GVHD treatment costs in China: building an itemized RMB estimate
+- **Subtitle:** Request an itemized GVHD cost estimate in China covering the affected organs, medicines, monitoring, admissions and care after returning home.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ The useful outcome is an explainable RMB budget with stated uncertainties. In GV
 ## SEO Metadata
 
 - **Primary keyword:** GVHD treatment cost in China
+
+- **Meta title:** GVHD treatment costs in China: building an itemized RMB estimate
+- **Meta description:** Request an itemized GVHD cost estimate in China covering the affected organs, medicines, monitoring, admissions and care after returning home.

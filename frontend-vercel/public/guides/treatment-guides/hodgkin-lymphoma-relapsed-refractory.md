@@ -1,12 +1,14 @@
-# When Hodgkin lymphoma returns or resists treatment: reassessment, salvage therapy, and transplantation
+# Relapsed Hodgkin Lymphoma in China: Salvage Treatment Planning
 
 ## Hero
 
-- **Title:** When Hodgkin lymphoma returns or resists treatment: reassessment, salvage therapy, and transplantation
 - **Category:** Treatment Guides
 - **Subcategory:** Hodgkin Lymphoma
-- **Subtitle:** Hearing that Hodgkin lymphoma has returned or resisted treatment can make the effort of the first course feel wasted.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Relapsed Hodgkin Lymphoma in China: Salvage Treatment Planning
+- **Subtitle:** Prepare for relapsed or refractory Hodgkin lymphoma care in China with diagnostic review, salvage options, transplant assessment and treatment coordination.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ The relapse consultation can center on a concise question: what next step are we
 ## SEO Metadata
 
 - **Primary keyword:** relapsed refractory Hodgkin lymphoma treatment
+
+- **Meta title:** Relapsed Hodgkin Lymphoma in China: Salvage Treatment Planning
+- **Meta description:** Prepare for relapsed or refractory Hodgkin lymphoma care in China with diagnostic review, salvage options, transplant assessment and treatment coordination.

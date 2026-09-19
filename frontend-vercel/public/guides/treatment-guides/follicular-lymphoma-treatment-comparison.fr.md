@@ -1,12 +1,14 @@
-# Comparer les traitements du lymphome folliculaire : quels choix répondent au même problème ?
+# Options de traitement du lymphome folliculaire en Chine : comparaison
 
 ## Hero
 
-- **Title:** Comparer les traitements du lymphome folliculaire : quels choix répondent au même problème ?
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome folliculaire
-- **Subtitle:** Avant de comparer les traitements du lymphome folliculaire, déterminez si les options visent à résoudre le même problème clinique.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Options de traitement du lymphome folliculaire en Chine : comparaison
+- **Subtitle:** Comparez surveillance, anticorps et associations thérapeutiques du lymphome folliculaire selon le même contexte clinique avant une décision en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Une maladie stable peut laisser le temps d’examiner ces différences. Un essou
 ## SEO Metadata
 
 - **Primary keyword:** comparaison des traitements du lymphome folliculaire
+
+- **Meta title:** Options de traitement du lymphome folliculaire en Chine : comparaison
+- **Meta description:** Comparez surveillance, anticorps et associations thérapeutiques du lymphome folliculaire selon le même contexte clinique avant une décision en Chine.

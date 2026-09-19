@@ -1,15 +1,17 @@
-# 107 Choisir un hôpital à Nanjing : dépendances cliniques, traversées du fleuve et accès aux sites
+# Choisir un hôpital en Chine : rendez-vous et voyage à Nanjing
 
 ## Hero
 
-- **Title:** Choisir un hôpital à Nanjing : dépendances cliniques, traversées du fleuve et accès aux sites
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Planification des soins à Nanjing
-- **Subtitle:** Cartographiez d’abord les dépendances cliniques, puis assurez-vous que les démarches liées au passeport, les sites, les traversées du fleuve, les urgences et les parcours de sortie les permettent.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Illustration conceptuelle de voyageurs internationaux préparant des soins hospitaliers à Nanjing ; la silhouette urbaine, la porte historique, l’hôpital et les icônes de trajet ne représentent pas une combinaison réelle de sites ni une recommandation.
+
+
+- **Title:** Choisir un hôpital en Chine : rendez-vous et voyage à Nanjing
+- **Subtitle:** Choisissez un hôpital à Nanjing en cartographiant dépendances cliniques, sites, réservation 12320 avec passeport, interprétariat, traversées du fleuve, arrivées en service, urgences et sortie.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -209,13 +211,15 @@ Non. L’autorisation écrite doit correspondre au patient, au contrat, au prest
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-nanjing-specialties-access-and-travel`
-- **Meta title:** Choisir un hôpital à Nanjing : sites, réservation avec passeport et trajets
-- **Meta description:** Choisissez un hôpital à Nanjing en cartographiant dépendances cliniques, sites, réservation 12320 avec passeport, interprétariat, traversées du fleuve, arrivées en service, urgences et sortie.
 - **Primary keyword:** choisir un hôpital à Nanjing
 - **Pillar keyword:** hôpitaux de Nanjing pour patients internationaux
 - **Vertical keyword:** sites hospitaliers Nanjing accès trajets
 - **Search intent:** comparaison d’hôpitaux / planification de voyage médical à Nanjing
 - **Secondary keywords:** Nanjing 12320 passeport ; hôpital international Nanjing ; site hospitalier Nanjing ; traversée fleuve hôpital Nanjing ; Nanjing 120
+
+
+- **Meta title:** Choisir un hôpital en Chine : rendez-vous et voyage à Nanjing
+- **Meta description:** Choisissez un hôpital à Nanjing en cartographiant dépendances cliniques, sites, réservation 12320 avec passeport, interprétariat, traversées du fleuve, arrivées en service, urgences et sortie.
 
 ## Sources
 

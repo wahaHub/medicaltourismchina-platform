@@ -1,12 +1,14 @@
-# Einen DLBCL-Befund verstehen: Pathologie, FISH, IPI und PET-Ergebnisse
+# DLBCL-Befunde: Pathologie, FISH und PET in China prüfen lassen
 
 ## Hero
 
-- **Title:** Einen DLBCL-Befund verstehen: Pathologie, FISH, IPI und PET-Ergebnisse
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Diffuses großzelliges B-Zell-Lymphom
-- **Subtitle:** Ein DLBCL-Befund kann mehrere unterschiedliche Sprachen zugleich enthalten: eine Diagnosebezeichnung, positive Färbungen, genetische Ergebnisse, Prozentangaben, ein Stadium und einen PET-Score.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL-Befunde: Pathologie, FISH und PET in China prüfen lassen
+- **Subtitle:** DLBCL-Befunde für eine Prüfung in China vorbereiten: Proteinexpression, FISH, Ki-67, IPI und PET-Ergebnisse im diagnostischen und zeitlichen Kontext lesen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ Nach der Behandlung werden die tatsächlich verabreichten Dosen, wesentliche Tox
 ## SEO Metadata
 
 - **Primary keyword:** einen DLBCL-Befund verstehen
+
+- **Meta title:** DLBCL-Befunde: Pathologie, FISH und PET in China prüfen lassen
+- **Meta description:** DLBCL-Befunde für eine Prüfung in China vorbereiten: Proteinexpression, FISH, Ki-67, IPI und PET-Ergebnisse im diagnostischen und zeitlichen Kontext lesen.

@@ -1,12 +1,14 @@
-# Medicamentos para la talasemia: comprender la finalidad de una prescripción y su plan de vigilancia
+# Medicamentos para talasemia en China: usos, acceso y vigilancia
 
 ## Hero
 
-- **Title:** Medicamentos para la talasemia: comprender la finalidad de una prescripción y su plan de vigilancia
 - **Category:** Guías de tratamiento
 - **Subcategory:** Talasemia
-- **Subtitle:** Una lista de medicamentos para la talasemia puede contener quelantes, tratamiento dirigido a la anemia, suplementos nutricionales y medicamentos para otros problemas de salud.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medicamentos para talasemia en China: usos, acceso y vigilancia
+- **Subtitle:** Comprenda la finalidad de medicamentos para talasemia y los controles de quelación, formulación y seguridad al preparar atención y acceso en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ El plan de medicación más útil incluye la finalidad de cada medicamento, la p
 ## SEO Metadata
 
 - **Primary keyword:** medicamentos para la talasemia; deferasirox; deferiprona; deferoxamina; luspatercept; mitapivat
+
+- **Meta title:** Medicamentos para talasemia en China: usos, acceso y vigilancia
+- **Meta description:** Comprenda la finalidad de medicamentos para talasemia y los controles de quelación, formulación y seguridad al preparar atención y acceso en China.

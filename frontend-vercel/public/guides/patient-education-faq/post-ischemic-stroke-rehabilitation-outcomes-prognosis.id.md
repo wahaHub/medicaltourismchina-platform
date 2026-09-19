@@ -1,12 +1,14 @@
-# Seberapa Besar Pemulihan yang Mungkin Setelah Stroke Iskemik? Memahami Prognosis dan Kemajuan
+# Hasil Pemulihan Stroke: Membandingkan Rehabilitasi di Tiongkok
 
 ## Hero
 
-- **Title:** Seberapa Besar Pemulihan yang Mungkin Setelah Stroke Iskemik? Memahami Prognosis dan Kemajuan
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Rehabilitasi Pascastroke Iskemik
-- **Subtitle:** Setelah stroke iskemik, keluarga sering menginginkan satu jawaban jelas: seberapa besar pemulihan yang mungkin?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Hasil Pemulihan Stroke: Membandingkan Rehabilitasi di Tiongkok
+- **Subtitle:** Nilai pemulihan stroke melalui kemampuan sehari-hari dan perubahan fungsi. Pahami batas perkiraan saat membandingkan rehabilitasi di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Kebutuhan dapat berubah selama perpindahan bangsal, pemulangan, kembali ke rumah
 ## SEO Metadata
 
 - **Primary keyword:** prognosis rehabilitasi stroke iskemik
+
+- **Meta title:** Hasil Pemulihan Stroke: Membandingkan Rehabilitasi di Tiongkok
+- **Meta description:** Nilai pemulihan stroke melalui kemampuan sehari-hari dan perubahan fungsi. Pahami batas perkiraan saat membandingkan rehabilitasi di Tiongkok.

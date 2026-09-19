@@ -1,12 +1,14 @@
-# Soutien transfusionnel dans l’aplasie médullaire : composants irradiés, réactions et charge en fer
+# Transfusions pour l’aplasie médullaire en Chine : sécurité et surveillance
 
 ## Hero
 
-- **Title:** Soutien transfusionnel dans l’aplasie médullaire : composants irradiés, réactions et charge en fer
 - **Category:** Guides des traitements
 - **Subcategory:** Aplasie médullaire
-- **Subtitle:** « Une nouvelle transfusion » peut désigner des globules rouges ou des plaquettes, qui ont des fonctions différentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Transfusions pour l’aplasie médullaire en Chine : sécurité et surveillance
+- **Subtitle:** Comprenez composants irradiés, réactions, réponse plaquettaire et surcharge en fer pour préparer un soutien transfusionnel d’aplasie médullaire en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ La fréquence du soutien peut différer entre attente initiale de réponse, mala
 ## SEO Metadata
 
 - **Primary keyword:** soutien transfusionnel aplasie médullaire
+
+- **Meta title:** Transfusions pour l’aplasie médullaire en Chine : sécurité et surveillance
+- **Meta description:** Comprenez composants irradiés, réactions, réponse plaquettaire et surcharge en fer pour préparer un soutien transfusionnel d’aplasie médullaire en Chine.

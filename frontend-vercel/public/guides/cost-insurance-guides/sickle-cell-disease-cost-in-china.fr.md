@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Coûts du traitement de la drépanocytose en Chine : vérifier les budgets des médicaments, des transfusions et de la greffe
 - **Category:** Guides des coûts et de l’assurance
 - **Subcategory:** Drépanocytose
-- **Subtitle:** Le coût des soins de la drépanocytose en Chine dépend d’abord de l’objectif à atteindre pour le patient.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Coûts du traitement de la drépanocytose en Chine : vérifier les budgets des médicaments, des transfusions et de la greffe
+- **Subtitle:** Préparez un budget pour la drépanocytose en Chine qui intègre examens, médicaments, compatibilité transfusionnelle, surveillance et éventuelle greffe.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -154,3 +156,6 @@ Lorsque vous comparez deux estimations, vérifiez d’abord qu’elles réponden
 ## SEO Metadata
 
 - **Primary keyword:** coût du traitement de la drépanocytose en Chine
+
+- **Meta title:** Coûts du traitement de la drépanocytose en Chine : vérifier les budgets des médicaments, des transfusions et de la greffe
+- **Meta description:** Préparez un budget pour la drépanocytose en Chine qui intègre examens, médicaments, compatibilité transfusionnelle, surveillance et éventuelle greffe.

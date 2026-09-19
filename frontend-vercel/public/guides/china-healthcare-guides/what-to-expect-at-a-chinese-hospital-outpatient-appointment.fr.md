@@ -1,15 +1,17 @@
-# 007 À quoi s’attendre lors d’une consultation externe dans un hôpital chinois
+# Consultation externe à l’hôpital en Chine : à quoi s’attendre
 
 ## Hero
 
-- **Title:** À quoi s’attendre lors d’une consultation externe dans un hôpital chinois
 - **Category:** Guides du système de santé chinois
 - **Subcategory:** Consultation externe
-- **Subtitle:** Une consultation externe en Chine est souvent une succession de courtes étapes — contrôle d’identité, consultation, paiement, examens, résultats et nouvelle décision — plutôt qu’un seul long rendez-vous.
 - **Reviewed by:** Équipe éditoriale de Medora Health ; une révision concernant le système de santé est requise avant publication
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un patient international et son accompagnant parlent avec un médecin dans un service de consultations externes chinois
+
+
+- **Title:** Consultation externe à l’hôpital en Chine : à quoi s’attendre
+- **Subtitle:** Suivez le parcours de consultation externe en Chine, du contrôle du passeport et de la consultation aux examens, au paiement, à la pharmacie, aux résultats et au suivi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -158,13 +160,15 @@ L’interprète peut faciliter la communication, mais le clinicien a besoin du r
 ## SEO Metadata
 
 - **Slug:** `chinese-hospital-outpatient-appointment`
-- **Meta title:** À quoi s’attendre lors d’une consultation externe dans un hôpital chinois
-- **Meta description:** Suivez le parcours de consultation externe en Chine, du contrôle du passeport et de la consultation aux examens, au paiement, à la pharmacie, aux résultats et au suivi.
 - **Primary keyword:** consultation externe dans un hôpital chinois
 - **Pillar keyword:** soins de santé en Chine pour les patients internationaux
 - **Vertical keyword:** consultation externe Chine
 - **Search intent:** pratique / préparation de la visite
 - **Secondary keywords:** consultation hospitalière en Chine ; consultation externe patient international Chine ; déroulement d’une visite dans un hôpital chinois
+
+
+- **Meta title:** Consultation externe à l’hôpital en Chine : à quoi s’attendre
+- **Meta description:** Suivez le parcours de consultation externe en Chine, du contrôle du passeport et de la consultation aux examens, au paiement, à la pharmacie, aux résultats et au suivi.
 
 ## Sources
 

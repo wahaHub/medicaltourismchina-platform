@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Medizinische Unterlagen für die Thalassämieversorgung in China: Eine nutzbare Geschichte von Diagnose, Transfusionen, Eisen und Behandlung erstellen
 - **Category:** Leitfäden zum Patientenweg
 - **Subcategory:** Thalassämie
-- **Subtitle:** Die aussagekräftigste Thalassämiedokumentation ist oft ein Verlauf statt des neuesten Tests.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medizinische Unterlagen für die Thalassämieversorgung in China: Eine nutzbare Geschichte von Diagnose, Transfusionen, Eisen und Behandlung erstellen
+- **Subtitle:** Thalassämieunterlagen für China vorbereiten: genetische Diagnose, Transfusionen, Blutbankbefunde, Eisenmessmethoden und tatsächliche Medikamentenanwendung dokumentieren.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -156,3 +158,6 @@ Tritt nach Einreichung neues Fieber, ein Krankenhausaufenthalt, eine Transfusion
 ## SEO Metadata
 
 - **Primary keyword:** Thalassämieunterlagen für China; Transfusionsgeschichte; Übersetzung genetischer Thalassämiebefunde; Unterlagen zur Eisenüberwachung
+
+- **Meta title:** Medizinische Unterlagen für die Thalassämieversorgung in China: Eine nutzbare Geschichte von Diagnose, Transfusionen, Eisen und Behandlung erstellen
+- **Meta description:** Thalassämieunterlagen für China vorbereiten: genetische Diagnose, Transfusionen, Blutbankbefunde, Eisenmessmethoden und tatsächliche Medikamentenanwendung dokumentieren.

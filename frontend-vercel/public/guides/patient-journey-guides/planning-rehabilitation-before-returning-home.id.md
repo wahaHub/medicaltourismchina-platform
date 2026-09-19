@@ -1,15 +1,17 @@
-# 145 Rehabilitasi Sebelum Pulang: Serahkan Informasi Fungsi, Bukan Nama Latihan
+# Pulang Setelah Rehabilitasi di Tiongkok: Serah Terima Perawatan
 
 ## Hero
 
-- **Title:** Rehabilitasi Sebelum Pulang: Serahkan Informasi Fungsi, Bukan Nama Latihan
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Serah Terima Rehabilitasi Lintas Negara
-- **Subtitle:** Serah terima yang berguna mempertahankan apa yang mampu dilakukan pasien, bagaimana pengukurannya, apa yang dibatasi, apa langkah berikutnya, dan siapa yang telah menerima tanggung jawab.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Seorang tenaga rehabilitasi merencanakan tahap berikutnya bersama pasien lanjut usia di samping alat bantu jalan dan peralatan latihan.
+
+
+- **Title:** Pulang Setelah Rehabilitasi di Tiongkok: Serah Terima Perawatan
+- **Subtitle:** Serahkan data dasar fungsi, tujuan, dosis latihan, peralatan, keterampilan pendamping, dan jadwal kunjungan pertama yang diterima sebelum pulang.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -225,13 +227,15 @@ Ketika layanan penerima yang ditetapkan memastikan penerimaan, menerima tanggung
 ## SEO Metadata
 
 - **Slug:** `planning-rehabilitation-before-returning-home`
-- **Meta title:** Serah Terima Rehabilitasi Sebelum Pulang
-- **Meta description:** Serahkan data dasar fungsi, tujuan, dosis latihan, peralatan, keterampilan pendamping, dan jadwal kunjungan pertama yang diterima sebelum pulang.
 - **Primary keyword:** rencana rehabilitasi sebelum pulang
 - **Pillar keyword:** perjalanan medis ke Tiongkok
 - **Vertical keyword:** serah terima rehabilitasi lintas negara
 - **Search intent:** perencanaan kesinambungan / transfer rehabilitasi
 - **Secondary keywords:** ringkasan pemulangan rehabilitasi; serah terima fungsi; peralatan rehabilitasi rumah; fisioterapi pasien internasional; pelatihan rehabilitasi pendamping
+
+
+- **Meta title:** Pulang Setelah Rehabilitasi di Tiongkok: Serah Terima Perawatan
+- **Meta description:** Serahkan data dasar fungsi, tujuan, dosis latihan, peralatan, keterampilan pendamping, dan jadwal kunjungan pertama yang diterima sebelum pulang.
 
 ## Sumber
 

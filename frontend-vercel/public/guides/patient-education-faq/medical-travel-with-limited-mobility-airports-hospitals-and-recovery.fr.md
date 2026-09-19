@@ -1,15 +1,17 @@
-# Voyager pour des soins avec une mobilité réduite : planifier chaque transfert, pas seulement le vol
+# Voyage médical en Chine avec une mobilité réduite : organiser l’assistance
 
 ## Hero
 
-- **Title:** Voyager pour des soins avec une mobilité réduite : planifier chaque transfert, pas seulement le vol
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Accessibilité et récupération
-- **Subtitle:** Un guide de porte à porte sur les demandes d’assistance, la manutention du fauteuil roulant, les toilettes, la décharge des appuis, l’accès hospitalier, l’hébergement et l’aide à la récupération.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Une personne en fauteuil roulant et son accompagnant examinent l’assistance aéroportuaire, l’accès hospitalier et les dates de récupération avant un voyage médical
+
+
+- **Title:** Voyage médical en Chine avec une mobilité réduite : organiser l’assistance
+- **Subtitle:** Planifiez l’assistance en fauteuil, les transferts, les batteries, l’assise, les toilettes, l’accès hospitalier et la récupération pour un voyage médical avec mobilité réduite.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - La destination doit être fonctionnelle après l’arrivée : transfert dans le véhicule, largeurs des portes, hauteur du lit et des toilettes, accès à la douche, ascenseurs, trajets hospitaliers et réparation fiable du matériel comptent autant que l’avion.
 
 ## Content
+
+Pour un patient à mobilité réduite qui se rend en Chine pour des soins, vérifiez chaque transfert entre l’adresse de départ, l’hôpital et l’hébergement de convalescence. Consignez l’assistance requise, les caractéristiques du fauteuil roulant et l’aide nécessaire aux soins personnels, puis réévaluez l’itinéraire de retour après le traitement.
+
 
 La mobilité réduite est une description fonctionnelle, pas un diagnostic. Un voyageur peut marcher quelques mètres mais ne pas pouvoir monter les escaliers de l’avion. Un autre peut effectuer ses transferts seul mais ne pas pouvoir rester assis sans coussin de décharge. Un troisième a besoin de deux personnes formées et d’un lève-personne. L’itinéraire n’est sûr que si chaque passage de relais est construit autour des capacités réelles.
 
@@ -159,11 +164,13 @@ Reportez et réévaluez si les transferts sont dangereux, si la douleur n’est 
 
 ## SEO Metadata
 
-- **SEO title:** Voyage médical avec mobilité réduite : guide de porte à porte
-- **Meta description:** Planifiez l’assistance en fauteuil, les transferts, les batteries, l’assise, les toilettes, l’accès hospitalier et la récupération pour un voyage médical avec mobilité réduite.
 - **Primary keyword:** voyage médical avec mobilité réduite
 - **Secondary keywords:** assistance fauteuil roulant aéroport, voyage aérien fauteuil électrique, voyage médical accessible, transfert fauteuil roulant hôpital, voyage récupération mobilité
 - **Suggested URL slug:** `/medical-travel-limited-mobility`
+
+
+- **Meta title:** Voyage médical en Chine avec une mobilité réduite : organiser l’assistance
+- **Meta description:** Planifiez l’assistance en fauteuil, les transferts, les batteries, l’assise, les toilettes, l’accès hospitalier et la récupération pour un voyage médical avec mobilité réduite.
 
 ## Sources
 

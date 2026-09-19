@@ -1,12 +1,14 @@
-# Comparing mantle cell lymphoma treatments: chemoimmunotherapy, BTK combinations and autologous transplant
+# Mantle Cell Lymphoma in China: Comparing Treatment Options
 
 ## Hero
 
-- **Title:** Comparing mantle cell lymphoma treatments: chemoimmunotherapy, BTK combinations and autologous transplant
 - **Category:** Treatment Guides
 - **Subcategory:** Mantle Cell Lymphoma
-- **Subtitle:** Related searches: BR versus targeted combinations; MCL transplant decision; comparing treatment in China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Mantle Cell Lymphoma in China: Comparing Treatment Options
+- **Subtitle:** Compare mantle cell lymphoma treatment approaches by disease setting, fitness and treatment goals, with practical checks before starting care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ The recommendation should finish with an understandable reason: why it fits curr
 ## SEO Metadata
 
 - **Primary keyword:** mantle cell lymphoma treatment comparison
+
+- **Meta title:** Mantle Cell Lymphoma in China: Comparing Treatment Options
+- **Meta description:** Compare mantle cell lymphoma treatment approaches by disease setting, fitness and treatment goals, with practical checks before starting care in China.

@@ -1,15 +1,17 @@
-# Traveling With Prescription Medicines: Build a Legal, Temperature-Safe and Clinically Usable Medication Plan
+# Taking Prescription Medicines to China: Customs and Cold Chain
 
 ## Hero
 
-- **Title:** Traveling With Prescription Medicines: Build a Legal, Temperature-Safe and Clinically Usable Medication Plan
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Medicines
-- **Subtitle:** A checklist for entry and transit rules, controlled medicines, original packaging, generic names, carry-on supply, cold-chain storage, time-zone dosing and hospital medication reconciliation.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Two medical travelers organize labelled prescription containers, a medication letter, dose calendar, carry-on bag and travel documents
+
+
+- **Title:** Taking Prescription Medicines to China: Customs and Cold Chain
+- **Subtitle:** A practical checklist for carrying prescription and controlled medicines internationally, including original packaging, letters, China customs, refrigeration and dose timing.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -174,11 +176,13 @@ Carry-on is generally safer because it reduces loss, delay and temperature expos
 
 ## SEO Metadata
 
-- **SEO title:** Traveling With Prescription Medicines: Customs, Cold Chain and Time Zones
-- **Meta description:** A practical checklist for carrying prescription and controlled medicines internationally, including original packaging, letters, China customs, refrigeration and dose timing.
 - **Primary keyword:** traveling with prescription medicines
 - **Secondary keywords:** medication customs China, controlled medicine travel, refrigerated medication flight, medicine time zones, doctor letter for medication, carry-on prescriptions
 - **Suggested URL slug:** `/travel-prescription-medicines-customs-cold-chain-time-zones`
+
+
+- **Meta title:** Taking Prescription Medicines to China: Customs and Cold Chain
+- **Meta description:** A practical checklist for carrying prescription and controlled medicines internationally, including original packaging, letters, China customs, refrigeration and dose timing.
 
 ## Sources
 

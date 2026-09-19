@@ -1,12 +1,14 @@
-# Reading T-cell lymphoma reports: connecting pathology, PET scans and blood results
+# T-Cell Lymphoma Reports: Preparing for Review in China
 
 ## Hero
 
-- **Title:** Reading T-cell lymphoma reports: connecting pathology, PET scans and blood results
 - **Category:** Patient Education & FAQ
 - **Subcategory:** T Cell Lymphoma
-- **Subtitle:** A pathology report may say CD30 positive, a marrow report may find no definite lymphoma, and a PET report may describe several active sites.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** T-Cell Lymphoma Reports: Preparing for Review in China
+- **Subtitle:** Connect T-cell lymphoma pathology, PET and blood findings to the clinical timeline, with records to support a second opinion in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ When requesting another opinion, organise reports by date and mark whether each 
 ## SEO Metadata
 
 - **Primary keyword:** T-cell lymphoma report interpretation
+
+- **Meta title:** T-Cell Lymphoma Reports: Preparing for Review in China
+- **Meta description:** Connect T-cell lymphoma pathology, PET and blood findings to the clinical timeline, with records to support a second opinion in China.

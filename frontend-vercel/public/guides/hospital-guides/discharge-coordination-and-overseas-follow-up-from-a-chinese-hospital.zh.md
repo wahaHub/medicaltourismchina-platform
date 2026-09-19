@@ -1,15 +1,17 @@
-# 从中国医院出院与海外随访：“已发送”不等于“已接收”
+# 中国医院出院：如何安排境外随访
 
 ## Hero
 
-- **Title:** 从中国医院出院与海外随访：“已发送”不等于“已接收”
 - **Category:** 医院指南
 - **Subcategory:** 跨境出院与随访
-- **Subtitle:** 只有患者稳定、旅行另行评估、病历可用、待出结果有责任人且回国医生接受下一项任务，出院闭环才完成。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** 国际患者携行李同协调员查看日历、路线和随访联系人；并非真实医院、适航证明、病历或保证。
+
+
+- **Title:** 中国医院出院：如何安排境外随访
+- **Subtitle:** 通过药物核对、源病历、待出结果责任、旅行评估和回国医生确认，安全完成中国医院跨境出院。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -168,13 +170,15 @@ CDC 提醒近期手术/损伤、肿瘤和活动受限会增加长途旅行血栓
 ## SEO Metadata
 
 - **Slug:** `discharge-coordination-and-overseas-follow-up-from-a-chinese-hospital`
-- **Meta title:** 从中国医院出院与海外随访：病历、药物与适航
-- **Meta description:** 通过药物核对、源病历、待出结果责任、旅行评估和回国医生确认，安全完成中国医院跨境出院。
 - **Primary keyword:** 国际患者从中国医院出院
 - **Pillar keyword:** 中国治疗后的海外随访
 - **Vertical keyword:** 跨境医疗出院协调
 - **Search intent:** 出院与随访规划
 - **Secondary keywords:** 中国医院出院；中国治疗后随访；中国术后适航；中国医疗病历；跨境患者交接
+
+
+- **Meta title:** 中国医院出院：如何安排境外随访
+- **Meta description:** 通过药物核对、源病历、待出结果责任、旅行评估和回国医生确认，安全完成中国医院跨境出院。
 
 ## Sources
 

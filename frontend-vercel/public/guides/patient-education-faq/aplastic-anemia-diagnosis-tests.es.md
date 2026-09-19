@@ -1,12 +1,14 @@
-# Diagnóstico de la anemia aplásica: pruebas esenciales e investigaciones dirigidas
+# Diagnóstico de anemia aplásica en China: pruebas y preparación
 
 ## Hero
 
-- **Title:** Diagnóstico de la anemia aplásica: pruebas esenciales e investigaciones dirigidas
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Anemia aplásica
-- **Subtitle:** Encontrar glóbulos rojos, glóbulos blancos y plaquetas bajos no confirma por sí solo la anemia aplásica.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnóstico de anemia aplásica en China: pruebas y preparación
+- **Subtitle:** Conozca las pruebas para evaluar una posible anemia aplásica en China, desde los recuentos y la médula ósea hasta la exclusión de causas alternativas.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -101,3 +103,6 @@ Solicite presupuestos en renminbi para consulta, revisión de portaobjetos, tinc
 ## SEO Metadata
 
 - **Primary keyword:** pruebas diagnósticas de anemia aplásica
+
+- **Meta title:** Diagnóstico de anemia aplásica en China: pruebas y preparación
+- **Meta description:** Conozca las pruebas para evaluar una posible anemia aplásica en China, desde los recuentos y la médula ósea hasta la exclusión de causas alternativas.

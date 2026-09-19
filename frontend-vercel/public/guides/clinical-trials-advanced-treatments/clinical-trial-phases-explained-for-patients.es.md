@@ -1,15 +1,17 @@
-# 072 Fases de los ensayos clínicos explicadas para pacientes
+# Fases 0–IV de los ensayos clínicos: guía para pacientes en China
 
 ## Hero
 
-- **Title:** Fases de los ensayos clínicos explicadas para pacientes
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Fundamentos de los ensayos clínicos
-- **Subtitle:** Utilice la fase para comprender la pregunta principal del estudio y después lea el protocolo real, los grupos, los criterios de valoración y la evidencia previa antes de juzgar su relevancia personal.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Se necesita sustitución: un paciente y un médico investigador revisan una cronología clara de fases 0–IV con hitos de dosis, comparación, autorización y poscomercialización.
+
+
+- **Title:** Fases 0–IV de los ensayos clínicos: guía para pacientes en China
+- **Subtitle:** Comprenda fases 0–IV, ensayos combinados y adaptativos, escalada de dosis, aleatorización, criterios de valoración, estudios poscomercialización y consentimiento en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,11 +146,13 @@ No necesariamente. El producto está comercializado, pero el estudio puede proba
 ## SEO Metadata
 
 - **Slug:** `clinical-trial-phases-explained-for-patients`
-- **Meta title:** Fases 0–IV de ensayos clínicos explicadas para pacientes
-- **Meta description:** Comprenda fases 0–IV, ensayos combinados y adaptativos, escalada de dosis, aleatorización, criterios de valoración, estudios poscomercialización y consentimiento en China.
 - **Primary keyword:** fases de ensayos clínicos explicadas
 - **Secondary keywords:** ensayo clínico fase I; ensayo fase II; ensayo aleatorizado fase III; estudio fase IV; ensayo clínico China
 - **Search intent:** educación sobre ensayos clínicos / decisión de participación
+
+
+- **Meta title:** Fases 0–IV de los ensayos clínicos: guía para pacientes en China
+- **Meta description:** Comprenda fases 0–IV, ensayos combinados y adaptativos, escalada de dosis, aleatorización, criterios de valoración, estudios poscomercialización y consentimiento en China.
 
 ## Fuentes
 

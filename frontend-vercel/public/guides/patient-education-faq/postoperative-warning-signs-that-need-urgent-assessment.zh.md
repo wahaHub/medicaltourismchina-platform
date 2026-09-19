@@ -1,15 +1,17 @@
-# 术后在异地恢复：哪些警示症状要拨 120、当天联系手术团队或继续观察？
+# 在中国术后出现警示症状：拨打 120 还是联系医生
 
 ## Hero
 
-- **Title:** 术后在异地恢复：哪些警示症状要拨 120、当天联系手术团队或继续观察？
 - **Category:** 患者教育与常见问题
 - **Subcategory:** 症状与紧急就医
-- **Subtitle:** 写给在酒店、公寓或陌生城市恢复的国际患者：用三级分流判断术后变化，避免该等时拖延、该观察时恐慌。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** 术后患者与医护人员交谈，旁边显示发热、呼吸困难、心脏、下肢疼痛和腹痛图标
+
+
+- **Title:** 在中国术后出现警示症状：拨打 120 还是联系医生
+- **Subtitle:** 分流术后呼吸困难、出血、伤口变化、发热、呕吐、腿肿和引流问题，帮助异地恢复患者及时求助。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -164,13 +166,15 @@ CDC 建议患者在手术部位出现红痛、渗液或发热时立即联系医�
 ## SEO Metadata
 
 - **Slug:** `postoperative-warning-signs-that-need-urgent-assessment`
-- **Meta title:** 术后警示症状：何时拨 120，何时联系手术医生？
-- **Meta description:** 分流术后呼吸困难、出血、伤口变化、发热、呕吐、腿肿和引流问题，帮助异地恢复患者及时求助。
 - **Primary keyword:** 术后警示症状
 - **Pillar keyword:** 医疗旅行患者安全
 - **Vertical keyword:** 术后哪些症状需要急诊
 - **Search intent:** 术后分流指导
 - **Secondary keywords:** 术后伤口感染；术后血栓；术后发热；术后联系医生；中国拨打 120
+
+
+- **Meta title:** 在中国术后出现警示症状：拨打 120 还是联系医生
+- **Meta description:** 分流术后呼吸困难、出血、伤口变化、发热、呕吐、腿肿和引流问题，帮助异地恢复患者及时求助。
 
 ## Sources
 

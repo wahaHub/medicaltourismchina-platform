@@ -1,12 +1,14 @@
-# Why Red Cell Exchange Is Used in Sickle Cell Disease: Urgent Treatment and Aftercare
+# Red Cell Exchange for Sickle Cell Disease in China: Planning
 
 ## Hero
 
-- **Title:** Why Red Cell Exchange Is Used in Sickle Cell Disease: Urgent Treatment and Aftercare
 - **Category:** Treatment Guides
 - **Subcategory:** Sickle Cell Disease
-- **Subtitle:** The phrase “exchange transfusion” can sound as though all of a person's blood will be replaced, or that the disease has become uncontrollable.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Red Cell Exchange for Sickle Cell Disease in China: Planning
+- **Subtitle:** Understand red cell exchange in sickle cell disease, including urgent indications, compatibility, monitoring and handover questions when arranging care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ For someone with chest pain and breathlessness or stroke-like symptoms, the imme
 ## SEO Metadata
 
 - **Primary keyword:** red cell exchange for sickle cell disease
+
+- **Meta title:** Red Cell Exchange for Sickle Cell Disease in China: Planning
+- **Meta description:** Understand red cell exchange in sickle cell disease, including urgent indications, compatibility, monitoring and handover questions when arranging care in China.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Multiple myeloma treatment costs in China: obtaining a comparable, staged estimate
 - **Category:** Cost & Insurance Guides
 - **Subcategory:** Multiple Myeloma
-- **Subtitle:** A newly diagnosed patient receiving induction and maintenance, a patient preparing for autologous transplant and someone considering CAR-T after relapse are following different pathways.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Multiple myeloma treatment costs in China: obtaining a comparable, staged estimate
+- **Subtitle:** Build a staged myeloma treatment estimate in China, with separate costs for assessment, medicines, procedures, support and follow-up.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ The useful outcome is a dated written estimate that states its scope and can cha
 ## SEO Metadata
 
 - **Primary keyword:** multiple myeloma treatment cost in China
+
+- **Meta title:** Multiple myeloma treatment costs in China: obtaining a comparable, staged estimate
+- **Meta description:** Build a staged myeloma treatment estimate in China, with separate costs for assessment, medicines, procedures, support and follow-up.

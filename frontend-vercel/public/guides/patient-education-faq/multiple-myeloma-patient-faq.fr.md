@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Vingt questions posées par les patients sur le traitement du myélome multiple en Chine
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Myélome multiple
-- **Subtitle:** Vingt questions posées par les patients sur le traitement du myélome multiple en Chine
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Vingt questions posées par les patients sur le traitement du myélome multiple en Chine
+- **Subtitle:** Préparez votre traitement du myélome en Chine avec 20 questions sur les résultats, le risque, le choix des médicaments, la greffe et la continuité des soins.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ Sources vérifiées : September 9, 2026. Cet article fournit une information gé
 ## SEO Metadata
 
 - **Primary keyword:** questions des patients sur le myélome multiple ; traitement du myélome multiple en Chine
+
+- **Meta title:** Vingt questions posées par les patients sur le traitement du myélome multiple en Chine
+- **Meta description:** Préparez votre traitement du myélome en Chine avec 20 questions sur les résultats, le risque, le choix des médicaments, la greffe et la continuité des soins.

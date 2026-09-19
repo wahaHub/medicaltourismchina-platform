@@ -1,12 +1,14 @@
-# Rezidiviertes oder refraktäres DLBCL: Neubewertung und die nächste Behandlungsentscheidung
+# Rezidiviertes oder refraktäres DLBCL in China: Beurteilung und nächste Schritte
 
 ## Hero
 
-- **Title:** Rezidiviertes oder refraktäres DLBCL: Neubewertung und die nächste Behandlungsentscheidung
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Diffuses großzelliges B-Zell-Lymphom
-- **Subtitle:** Eine neue Raumforderung oder verdächtige PET-Anreicherung nach DLBCL-Behandlung benötigt rasche Neubewertung, doch eine Bilduntersuchung allein sollte nicht jede Behandlung für unwirksam erklären.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rezidiviertes oder refraktäres DLBCL in China: Beurteilung und nächste Schritte
+- **Subtitle:** Bei rezidiviertem DLBCL in China die nächsten Schritte planen: Gewebebestätigung, Rückfallzeitpunkt, Transplantations- oder CAR-T-Eignung und Versorgung abstimmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Besorgen Sie vor der Heimkehr die Zusammenfassung des Ansprechens, den Medikamen
 ## SEO Metadata
 
 - **Primary keyword:** Behandlung bei rezidiviertem oder refraktärem DLBCL
+
+- **Meta title:** Rezidiviertes oder refraktäres DLBCL in China: Beurteilung und nächste Schritte
+- **Meta description:** Bei rezidiviertem DLBCL in China die nächsten Schritte planen: Gewebebestätigung, Rückfallzeitpunkt, Transplantations- oder CAR-T-Eignung und Versorgung abstimmen.

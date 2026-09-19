@@ -1,12 +1,14 @@
-# Traitement du lymphome de Hodgkin : décisions du diagnostic à la récupération
+# Traitement du lymphome de Hodgkin en Chine : du diagnostic à la récupération
 
 ## Hero
 
-- **Title:** Traitement du lymphome de Hodgkin : décisions du diagnostic à la récupération
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome de Hodgkin
-- **Subtitle:** Le traitement du lymphome de Hodgkin se planifie autour du contrôle de la maladie et de la vie après traitement.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement du lymphome de Hodgkin en Chine : du diagnostic à la récupération
+- **Subtitle:** Préparez le parcours du lymphome de Hodgkin en Chine : diagnostic, choix de chimiothérapie, place de la radiothérapie, fertilité et récupération.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -117,3 +119,6 @@ Après traitement, demandez un plan de suivi après cancer enregistrant l’expo
 ## SEO Metadata
 
 - **Primary keyword:** traitement du lymphome de Hodgkin
+
+- **Meta title:** Traitement du lymphome de Hodgkin en Chine : du diagnostic à la récupération
+- **Meta description:** Préparez le parcours du lymphome de Hodgkin en Chine : diagnostic, choix de chimiothérapie, place de la radiothérapie, fertilité et récupération.

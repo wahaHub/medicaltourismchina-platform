@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Wie lange dauert eine Parkinson-Behandlung? Medikamentenänderungen, THS und Planung eines Chinaaufenthalts
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Parkinson-Krankheit
-- **Subtitle:** Parkinson erfordert gewöhnlich fortlaufende Versorgung, während ein bestimmter Behandlungsaufenthalt einen definierten Zweck und einen vereinbarten Endpunkt haben kann.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Wie lange dauert eine Parkinson-Behandlung? Medikamentenänderungen, THS und Planung eines Chinaaufenthalts
+- **Subtitle:** Die Dauer einer Parkinson-Behandlung in China planen: Medikamentenanpassung, Abklärung und Programmierung der Hirnstimulation sowie Betreuung zu Hause abstimmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ Geben Sie dem nächsten Termin einen Zweck. Er könnte nächtliche Mobilität un
 ## SEO Metadata
 
 - **Primary keyword:** Dauer der Parkinson-Behandlung in China
+
+- **Meta title:** Wie lange dauert eine Parkinson-Behandlung? Medikamentenänderungen, THS und Planung eines Chinaaufenthalts
+- **Meta description:** Die Dauer einer Parkinson-Behandlung in China planen: Medikamentenanpassung, Abklärung und Programmierung der Hirnstimulation sowie Betreuung zu Hause abstimmen.

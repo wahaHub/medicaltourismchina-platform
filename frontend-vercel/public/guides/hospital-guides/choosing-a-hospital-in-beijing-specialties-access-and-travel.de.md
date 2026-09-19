@@ -1,15 +1,17 @@
-# 101 Ein Krankenhaus in Peking auswählen: Fachgebiete, Zugang und Reise
+# Krankenhauswahl in China: Versorgung und Reiseplanung in Peking
 
 ## Hero
 
-- **Title:** Ein Krankenhaus in Peking auswählen: Fachgebiete, Zugang und Reise
 - **Category:** Krankenhausleitfäden
 - **Subcategory:** Versorgungsplanung in Peking
-- **Subtitle:** Wählen Sie zuerst den klinischen Versorgungspfad, bestätigen Sie danach den genauen Standort und richten Sie die Reise nach der tatsächlichen Terminabfolge aus.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Konzeptionelle Illustration internationaler Reisender, die mit Karte und Kalender den Zugang zu einem Pekinger Krankenhaus planen; Wahrzeichen und Krankenhaus bilden keine reale Standortkombination.
+
+
+- **Title:** Krankenhauswahl in China: Versorgung und Reiseplanung in Peking
+- **Subtitle:** Eine praktische Methode für internationale Patienten zur Wahl eines Pekinger Krankenhauses nach fachlicher Eignung, genauem Standort, Buchungsweg, Lage, Zahlung und sicherer Rückkehrplanung.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -232,13 +234,15 @@ Es gibt keine sichere allgemeine Dauer. Sie hängt von Tests, Pathologie-Bearbei
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-beijing-specialties-access-and-travel`
-- **Meta title:** Ein Krankenhaus in Peking auswählen: Fachgebiet, Standort und Reise
-- **Meta description:** Eine praktische Methode für internationale Patienten zur Wahl eines Pekinger Krankenhauses nach fachlicher Eignung, genauem Standort, Buchungsweg, Lage, Zahlung und sicherer Rückkehrplanung.
 - **Primary keyword:** ein Krankenhaus in Peking auswählen
 - **Pillar keyword:** Pekinger Krankenhäuser für internationale Patienten
 - **Vertical keyword:** Peking Krankenhaus Fachgebiet Zugang Reise
 - **Search intent:** Krankenhausvergleich / Reiseplanung
 - **Secondary keywords:** Pekinger Krankenhausstandort; Peking Termin für internationale Patienten; Peking 114 Krankenhausbuchung; medizinische Reise Peking; Pekinger Krankenhausfachgebiet
+
+
+- **Meta title:** Krankenhauswahl in China: Versorgung und Reiseplanung in Peking
+- **Meta description:** Eine praktische Methode für internationale Patienten zur Wahl eines Pekinger Krankenhauses nach fachlicher Eignung, genauem Standort, Buchungsweg, Lage, Zahlung und sicherer Rückkehrplanung.
 
 ## Quellen
 

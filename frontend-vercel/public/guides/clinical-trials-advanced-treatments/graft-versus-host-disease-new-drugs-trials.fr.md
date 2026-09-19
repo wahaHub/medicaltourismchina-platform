@@ -1,12 +1,14 @@
-# Nouveaux traitements de la GVH et essais cliniques : comprendre les avancées de 2026
+# Nouveaux traitements et essais de la GVH : preuves et accès en Chine
 
 ## Hero
 
-- **Title:** Nouveaux traitements de la GVH et essais cliniques : comprendre les avancées de 2026
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Maladie du greffon contre l’hôte
-- **Subtitle:** Une annonce de percée après une greffe de cellules souches peut sembler immédiatement pertinente pour toute personne vivant avec une maladie du greffon contre l’hôte.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Nouveaux traitements et essais de la GVH : preuves et accès en Chine
+- **Subtitle:** Distinguez prévention et traitement de la maladie du greffon contre l’hôte. Évaluez les nouvelles données et les conditions d’accès aux soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ Une consultation utile se termine par une décision liée à un objectif cliniqu
 ## SEO Metadata
 
 - **Primary keyword:** nouveaux traitements de la GVH et essais cliniques en Chine
+
+- **Meta title:** Nouveaux traitements et essais de la GVH : preuves et accès en Chine
+- **Meta description:** Distinguez prévention et traitement de la maladie du greffon contre l’hôte. Évaluez les nouvelles données et les conditions d’accès aux soins en Chine.

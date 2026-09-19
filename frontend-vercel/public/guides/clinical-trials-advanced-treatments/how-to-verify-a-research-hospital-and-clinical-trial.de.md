@@ -1,15 +1,17 @@
-# 093 So überprüfen Sie ein Forschungskrankenhaus und eine klinische Studie
+# Ein Forschungskrankenhaus und eine klinische Studie in China überprüfen
 
 ## Hero
 
-- **Title:** So überprüfen Sie ein Forschungskrankenhaus und eine klinische Studie
 - **Category:** Klinische Studien und fortschrittliche Behandlungen
 - **Subcategory:** Forschungsprüfung und Ethik
-- **Subtitle:** Gleichen Sie Einrichtung, Protokoll, Prüfzentrum, Prüfarzt und Rekrutierungsstatus ab, bevor Sie Unterlagen teilen oder reisen.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Konzeptillustration eines internationalen Patienten, der mit einem Krankenhauskoordinator eine Checkliste und Prüfsymbole verwendet; der Koordinator wird nicht bei der klinischen Einwilligungsaufklärung gezeigt.
+
+
+- **Title:** Ein Forschungskrankenhaus und eine klinische Studie in China überprüfen
+- **Subtitle:** Prüfen Sie eine chinesische Studie durch Abgleich von Krankenhauszulassung, Einrichtungsregistrierung, Register- und Protokoll-IDs, aktivem Zentrum, Prüfarzt, Ethik, Einwilligung, Rekrutierer und Zahlungen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -197,11 +199,13 @@ Rechtlicher Krankenhausname und Standort, Prüfarzt, Register- und Protokollnumm
 ## SEO Metadata
 
 - **Slug:** `how-to-verify-a-research-hospital-and-clinical-trial`
-- **Meta title:** Chinesisches Forschungskrankenhaus und klinische Studie prüfen
-- **Meta description:** Prüfen Sie eine chinesische Studie durch Abgleich von Krankenhauszulassung, Einrichtungsregistrierung, Register- und Protokoll-IDs, aktivem Zentrum, Prüfarzt, Ethik, Einwilligung, Rekrutierer und Zahlungen.
 - **Primary keyword:** klinische Studie in China überprüfen
 - **Secondary keywords:** Forschungskrankenhaus in China prüfen; chinesisches Studienregister; CTR-Studiennummer; GCP-Einrichtung in China; Betrugsprüfung klinischer Studien
 - **Search intent:** Rechtmäßigkeit von Studien und Prüfung von Studienzentren
+
+
+- **Meta title:** Ein Forschungskrankenhaus und eine klinische Studie in China überprüfen
+- **Meta description:** Prüfen Sie eine chinesische Studie durch Abgleich von Krankenhauszulassung, Einrichtungsregistrierung, Register- und Protokoll-IDs, aktivem Zentrum, Prüfarzt, Ethik, Einwilligung, Rekrutierer und Zahlungen.
 
 ## Quellen
 

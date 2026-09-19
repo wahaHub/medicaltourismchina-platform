@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Vingt questions des patients sur le lymphome folliculaire et les soins en Chine
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Lymphome folliculaire
-- **Subtitle:** Vingt questions des patients sur le lymphome folliculaire et les soins en Chine
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Vingt questions des patients sur le lymphome folliculaire et les soins en Chine
+- **Subtitle:** Préparez vos soins du lymphome folliculaire en Chine avec 20 questions sur la biopsie, le grade, le stade, la surveillance et le début du traitement.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Le suivi porte aussi sur les symptômes, l'examen clinique, les effets du traite
 ## SEO Metadata
 
 - **Primary keyword:** questions fréquentes des patients sur le lymphome folliculaire
+
+- **Meta title:** Vingt questions des patients sur le lymphome folliculaire et les soins en Chine
+- **Meta description:** Préparez vos soins du lymphome folliculaire en Chine avec 20 questions sur la biopsie, le grade, le stade, la surveillance et le début du traitement.

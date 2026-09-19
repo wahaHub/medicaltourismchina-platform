@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** After stroke rehabilitation in China: Continuing care and recovery at home
 - **Category:** Patient Journey Guides
 - **Subcategory:** Post Ischemic Stroke Rehabilitation
-- **Subtitle:** After a period of ischemic stroke rehabilitation in China, returning home means transferring treatment into a different environment.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** After stroke rehabilitation in China: Continuing care and recovery at home
+- **Subtitle:** Continue stroke recovery after rehabilitation in China with a clear medicine list, home exercise plan, named clinicians and urgent-care instructions.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,3 +146,6 @@ If local resources differ from the plan developed in China, explain the specific
 ## SEO Metadata
 
 - **Primary keyword:** follow-up after stroke rehabilitation in China
+
+- **Meta title:** After stroke rehabilitation in China: Continuing care and recovery at home
+- **Meta description:** Continue stroke recovery after rehabilitation in China with a clear medicine list, home exercise plan, named clinicians and urgent-care instructions.

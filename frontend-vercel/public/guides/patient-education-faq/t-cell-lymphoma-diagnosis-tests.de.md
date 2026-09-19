@@ -1,12 +1,14 @@
-# Untersuchungen bei Verdacht auf T-Zell-Lymphom: das richtige Gewebe und eine nutzbare Diagnose gewinnen
+# Diagnose des T-Zell-Lymphoms in China: Biopsie und Befundprüfung
 
 ## Hero
 
-- **Title:** Untersuchungen bei Verdacht auf T-Zell-Lymphom: das richtige Gewebe und eine nutzbare Diagnose gewinnen
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** T-Zell-Lymphom
-- **Subtitle:** Die Reihenfolge der Untersuchungen sollte sich nach den noch unbeantworteten Fragen richten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnose des T-Zell-Lymphoms in China: Biopsie und Befundprüfung
+- **Subtitle:** T-Zell-Lymphom-Diagnostik in China planen: geeignete Gewebeprobe, Marker, Virusbefunde und Stadienbestimmung auf den vermuteten Subtyp abstimmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -113,3 +115,6 @@ Unterscheiden Sie im abschließenden Diagnosegespräch gesicherte Befunde, bedeu
 ## SEO Metadata
 
 - **Primary keyword:** diagnostische Untersuchungen bei T-Zell-Lymphom
+
+- **Meta title:** Diagnose des T-Zell-Lymphoms in China: Biopsie und Befundprüfung
+- **Meta description:** T-Zell-Lymphom-Diagnostik in China planen: geeignete Gewebeprobe, Marker, Virusbefunde und Stadienbestimmung auf den vermuteten Subtyp abstimmen.

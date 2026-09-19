@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Memilih rumah sakit Tiongkok untuk DLBCL: sesuaikan pusat dengan tugas klinis
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Limfoma Sel B Besar Difus
-- **Subtitle:** Pilih rumah sakit DLBCL berdasarkan tugas klinis yang perlu diselesaikannya.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Memilih rumah sakit Tiongkok untuk DLBCL: sesuaikan pusat dengan tugas klinis
+- **Subtitle:** Pilih rumah sakit DLBCL di Tiongkok sesuai kebutuhan patologi, lini pertama, atau kekambuhan. Periksa proses keputusan dan dukungan sepanjang perawatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -138,3 +140,6 @@ Lembar perbandingan dapat mencatat pertanyaan klinis yang sama untuk setiap pusa
 ## SEO Metadata
 
 - **Primary keyword:** memilih rumah sakit di Tiongkok untuk DLBCL
+
+- **Meta title:** Memilih rumah sakit Tiongkok untuk DLBCL: sesuaikan pusat dengan tugas klinis
+- **Meta description:** Pilih rumah sakit DLBCL di Tiongkok sesuai kebutuhan patologi, lini pertama, atau kekambuhan. Periksa proses keputusan dan dukungan sepanjang perawatan.

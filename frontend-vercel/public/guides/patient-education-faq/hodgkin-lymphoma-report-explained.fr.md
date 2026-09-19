@@ -1,12 +1,14 @@
-# Comprendre un compte rendu de lymphome de Hodgkin : anatomopathologie, stade et score de Deauville
+# Comptes rendus du lymphome de Hodgkin : préparer une relecture en Chine
 
 ## Hero
 
-- **Title:** Comprendre un compte rendu de lymphome de Hodgkin : anatomopathologie, stade et score de Deauville
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Lymphome de Hodgkin
-- **Subtitle:** Un dossier de lymphome de Hodgkin contient généralement plusieurs types de comptes rendus : anatomopathologie, TEP/TDM, résultats biologiques et évaluation du stade par le clinicien.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Comptes rendus du lymphome de Hodgkin : préparer une relecture en Chine
+- **Subtitle:** Comprenez le diagnostic tissulaire, le stade et le score de Deauville du lymphome de Hodgkin pour préparer une relecture des résultats en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ Demandez au médecin de résumer la situation actuelle en une phrase simple : qu
 ## SEO Metadata
 
 - **Primary keyword:** compte rendu de lymphome de Hodgkin expliqué
+
+- **Meta title:** Comptes rendus du lymphome de Hodgkin : préparer une relecture en Chine
+- **Meta description:** Comprenez le diagnostic tissulaire, le stade et le score de Deauville du lymphome de Hodgkin pour préparer une relecture des résultats en Chine.

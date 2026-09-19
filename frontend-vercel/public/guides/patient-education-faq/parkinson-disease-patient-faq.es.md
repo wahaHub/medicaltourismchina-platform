@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** 20 preguntas sobre el tratamiento del párkinson: medicamentos, DBS, nuevas terapias y atención en China
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedad de Parkinson
-- **Subtitle:** Las decisiones terapéuticas en la enfermedad de Parkinson cambian según los síntomas principales, la respuesta a la medicación y las necesidades diarias del paciente.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** 20 preguntas sobre el tratamiento del párkinson: medicamentos, DBS, nuevas terapias y atención en China
+- **Subtitle:** Resuelva dudas sobre diagnóstico, levodopa, estimulación cerebral profunda y nuevas terapias del Parkinson al preparar una consulta y la atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ La fiebre con rigidez intensa, la inmovilidad profunda repentina, la alteración
 ## SEO Metadata
 
 - **Primary keyword:** preguntas frecuentes sobre el tratamiento de la enfermedad de Parkinson en China
+
+- **Meta title:** 20 preguntas sobre el tratamiento del párkinson: medicamentos, DBS, nuevas terapias y atención en China
+- **Meta description:** Resuelva dudas sobre diagnóstico, levodopa, estimulación cerebral profunda y nuevas terapias del Parkinson al preparar una consulta y la atención en China.

@@ -1,12 +1,14 @@
-# Cuando regresan las crisis en la epilepsia farmacorresistente: revisión de la medicación, recurrencia posoperatoria y reevaluación
+# Crisis recurrentes en epilepsia farmacorresistente: revisión en China
 
 ## Hero
 
-- **Title:** Cuando regresan las crisis en la epilepsia farmacorresistente: revisión de la medicación, recurrencia posoperatoria y reevaluación
 - **Category:** Guías de tratamiento
 - **Subcategory:** Epilepsia farmacorresistente
-- **Subtitle:** El regreso de una crisis conocida después de un período más tranquilo puede resultar profundamente desalentador.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Crisis recurrentes en epilepsia farmacorresistente: revisión en China
+- **Subtitle:** Prepare una revisión en China ante crisis recurrentes de epilepsia farmacorresistente con cronología, medicación, suministro y posibles desencadenantes.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,3 +152,6 @@ La reevaluación después de una recurrencia pretende encontrar factores modific
 ## SEO Metadata
 
 - **Primary keyword:** epilepsia farmacorresistente recurrente; regreso de las crisis después de la cirugía de epilepsia; crisis intercurrentes; reevaluación de la epilepsia en China
+
+- **Meta title:** Crisis recurrentes en epilepsia farmacorresistente: revisión en China
+- **Meta description:** Prepare una revisión en China ante crisis recurrentes de epilepsia farmacorresistente con cronología, medicación, suministro y posibles desencadenantes.

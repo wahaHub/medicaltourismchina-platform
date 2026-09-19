@@ -1,12 +1,14 @@
-# Mengelola efek samping pengobatan mieloma multipel: gejala mendesak dan perawatan berkelanjutan
+# Pengobatan Mieloma di Tiongkok: Efek Samping dan Gejala Darurat
 
 ## Hero
 
-- **Title:** Mengelola efek samping pengobatan mieloma multipel: gejala mendesak dan perawatan berkelanjutan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Mieloma Multipel
-- **Subtitle:** Mengelola efek merugikan membantu pasien menerima pengobatan dalam kondisi yang dapat mereka toleransi.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Mieloma di Tiongkok: Efek Samping dan Gejala Darurat
+- **Subtitle:** Kenali efek samping pengobatan mieloma di Tiongkok, termasuk infeksi dan hitung darah rendah. Pahami gejala darurat serta kebutuhan pemantauan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Selama pengobatan di Tiongkok, pastikan bagaimana layanan mengoordinasikan penil
 ## SEO Metadata
 
 - **Primary keyword:** efek samping pengobatan mieloma multipel dan perawatan suportif di Tiongkok
+
+- **Meta title:** Pengobatan Mieloma di Tiongkok: Efek Samping dan Gejala Darurat
+- **Meta description:** Kenali efek samping pengobatan mieloma di Tiongkok, termasuk infeksi dan hitung darah rendah. Pahami gejala darurat serta kebutuhan pemantauan.

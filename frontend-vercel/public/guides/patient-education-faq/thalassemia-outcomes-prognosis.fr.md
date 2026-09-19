@@ -1,12 +1,14 @@
-# Combien de temps peut vivre une personne atteinte de thalassémie ? Comprendre le pronostic, les résultats du traitement et la vie quotidienne
+# Pronostic de la thalassémie : questions pour une évaluation en Chine
 
 ## Hero
 
-- **Title:** Combien de temps peut vivre une personne atteinte de thalassémie ? Comprendre le pronostic, les résultats du traitement et la vie quotidienne
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Thalassémie
-- **Subtitle:** Les questions sur l’espérance de vie arrivent souvent avant que la famille ait eu le temps de comprendre le diagnostic.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronostic de la thalassémie : questions pour une évaluation en Chine
+- **Subtitle:** Comprenez les liens entre type de thalassémie, anémie, surcharge en fer et résultats à long terme pour préparer une évaluation personnalisée en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ Une consultation productive doit laisser au patient une évaluation révisable :
 ## SEO Metadata
 
 - **Primary keyword:** pronostic de la thalassémie ; espérance de vie avec une thalassémie ; résultats de greffe ; soins à long terme de la thalassémie en Chine
+
+- **Meta title:** Pronostic de la thalassémie : questions pour une évaluation en Chine
+- **Meta description:** Comprenez les liens entre type de thalassémie, anémie, surcharge en fer et résultats à long terme pour préparer une évaluation personnalisée en Chine.

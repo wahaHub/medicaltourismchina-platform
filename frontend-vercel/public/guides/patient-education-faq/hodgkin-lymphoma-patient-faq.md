@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Hodgkin Lymphoma: 20 Patient Questions About Diagnosis, Treatment, and Care in China
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Hodgkin Lymphoma
-- **Subtitle:** A diagnosis of Hodgkin lymphoma can introduce many unfamiliar terms in a few appointments.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Hodgkin Lymphoma: 20 Patient Questions About Diagnosis, Treatment, and Care in China
+- **Subtitle:** Answers to 20 Hodgkin lymphoma questions about diagnosis, medicines, radiation, relapse, travel to China and follow-up after remission.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -201,3 +203,6 @@ Before returning home, identify the receiving clinician and next assessment, and
 ## SEO Metadata
 
 - **Primary keyword:** Hodgkin lymphoma patient questions
+
+- **Meta title:** Hodgkin Lymphoma: 20 Patient Questions About Diagnosis, Treatment, and Care in China
+- **Meta description:** Answers to 20 Hodgkin lymphoma questions about diagnosis, medicines, radiation, relapse, travel to China and follow-up after remission.

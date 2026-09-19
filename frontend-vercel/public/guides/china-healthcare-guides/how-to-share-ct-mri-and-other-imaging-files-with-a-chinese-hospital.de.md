@@ -1,15 +1,17 @@
-# 019 So übermitteln Sie CT-, MRT- und andere Bildgebungsdateien an ein chinesisches Krankenhaus
+# CT- und MRT-Dateien an ein Krankenhaus in China übermitteln
 
 ## Hero
 
-- **Title:** So übermitteln Sie CT-, MRT- und andere Bildgebungsdateien an ein chinesisches Krankenhaus
 - **Category:** Ratgeber zur Gesundheitsversorgung in China
 - **Subcategory:** Bildgebung und medizinische Unterlagen
-- **Subtitle:** Senden Sie die vollständige diagnostische Untersuchung, den Befundbericht und die klinische Frage – keine Handvoll Screenshots, die sich nicht durchblättern, vermessen oder vergleichen lassen.
 - **Reviewed by:** Redaktionsteam von Medora Health; vor Veröffentlichung sind radiologische und informationssicherheitsbezogene Prüfungen erforderlich
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ein chinesischer Radiologe bespricht Schnittbilder mit einem internationalen Patienten
+
+
+- **Title:** CT- und MRT-Dateien an ein Krankenhaus in China übermitteln
+- **Subtitle:** Exportieren Sie vollständige DICOM-Untersuchungen, prüfen Sie Serien, schützen Sie Patientendaten und bestätigen Sie erfolgreichen Import und radiologische Beurteilung in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -244,13 +246,15 @@ Fragen Sie nach dem Radiologen oder beurteilenden Team, der Ergebnisform und dem
 ## SEO Metadata
 
 - **Slug:** `how-to-share-ct-mri-and-other-imaging-files-with-a-chinese-hospital`
-- **Meta title:** CT- und MRT-Dateien an ein chinesisches Krankenhaus übermitteln
-- **Meta description:** Exportieren Sie vollständige DICOM-Untersuchungen, prüfen Sie Serien, schützen Sie Patientendaten und bestätigen Sie erfolgreichen Import und radiologische Beurteilung in China.
 - **Primary keyword:** DICOM an chinesisches Krankenhaus senden
 - **Pillar keyword:** Gesundheitsversorgung in China für internationale Patienten
 - **Vertical keyword:** CT-MRT-Dateien China übermitteln
 - **Search intent:** Information / technische Vorbereitung
 - **Secondary keywords:** DICOM-Upload Krankenhaus China; CT-Zweitmeinung China; MRT-Dateiübertragung China
+
+
+- **Meta title:** CT- und MRT-Dateien an ein Krankenhaus in China übermitteln
+- **Meta description:** Exportieren Sie vollständige DICOM-Untersuchungen, prüfen Sie Serien, schützen Sie Patientendaten und bestätigen Sie erfolgreichen Import und radiologische Beurteilung in China.
 
 ## Quellen
 

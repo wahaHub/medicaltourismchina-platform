@@ -1,12 +1,14 @@
-# Understanding multiple sclerosis prognosis: survival, independence and treatment response
+# Multiple Sclerosis Prognosis: Questions for Care in China
 
 ## Hero
 
-- **Title:** Understanding multiple sclerosis prognosis: survival, independence and treatment response
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Multiple Sclerosis
-- **Subtitle:** Questions about work, walking and family life often matter more to a newly diagnosed person than the name of the condition.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Multiple Sclerosis Prognosis: Questions for Care in China
+- **Subtitle:** Distinguish MS survival, independence and treatment response, and prepare questions for an individualized prognosis consultation in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ A short visit cannot demonstrate a long-term outcome, and a promising number doe
 ## SEO Metadata
 
 - **Primary keyword:** multiple sclerosis prognosis and treatment outcomes
+
+- **Meta title:** Multiple Sclerosis Prognosis: Questions for Care in China
+- **Meta description:** Distinguish MS survival, independence and treatment response, and prepare questions for an individualized prognosis consultation in China.

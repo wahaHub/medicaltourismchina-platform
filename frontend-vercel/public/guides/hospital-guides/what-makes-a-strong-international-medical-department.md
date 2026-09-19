@@ -1,15 +1,17 @@
-# What Makes a Strong International Medical Department?
+# International Medical Departments in China: What to Check
 
 ## Hero
 
-- **Title:** What Makes a Strong International Medical Department?
 - **Category:** Hospital Guides
 - **Subcategory:** International Patient Services
-- **Subtitle:** Judge the department by clinical ownership, language safety, escalation, records and continuity—not the lounge or concierge brochure.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Conceptual illustration of an international patient speaking with a hospital coordinator in front of a world map; the image represents navigation, not clinical quality.
+
+
+- **Title:** International Medical Departments in China: What to Check
+- **Subtitle:** Evaluate international hospital services by clinical ownership, interpretation, records, emergency escalation, medication safety, pricing, privacy and discharge handover.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -264,11 +266,13 @@ Diagnosis/treatment summary, reconciled medicines, results and pending-item owne
 ## SEO Metadata
 
 - **Slug:** `what-makes-a-strong-international-medical-department`
-- **Meta title:** What Makes a Strong International Medical Department?
-- **Meta description:** Evaluate international hospital services by clinical ownership, interpretation, records, emergency escalation, medication safety, pricing, privacy and discharge handover.
 - **Primary keyword:** international medical department China
 - **Secondary keywords:** international patient services China; hospital medical interpreter; international hospital coordination; cross-border medical records; hospital discharge handover China
 - **Search intent:** international patient service quality comparison
+
+
+- **Meta title:** International Medical Departments in China: What to Check
+- **Meta description:** Evaluate international hospital services by clinical ownership, interpretation, records, emergency escalation, medication safety, pricing, privacy and discharge handover.
 
 ## Sources
 

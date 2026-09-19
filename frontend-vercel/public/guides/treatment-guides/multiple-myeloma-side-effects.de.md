@@ -1,12 +1,14 @@
-# Nebenwirkungen der Behandlung des multiplen Myeloms bewältigen: Dringliche Symptome und weitere Versorgung
+# Myelombehandlung in China: Nebenwirkungen und dringliche Symptome
 
 ## Hero
 
-- **Title:** Nebenwirkungen der Behandlung des multiplen Myeloms bewältigen: Dringliche Symptome und weitere Versorgung
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Multiples Myelom
-- **Subtitle:** Die Behandlung von Nebenwirkungen hilft Patienten, ihre Therapie unter verträglichen Bedingungen zu erhalten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Myelombehandlung in China: Nebenwirkungen und dringliche Symptome
+- **Subtitle:** Nebenwirkungen der Myelombehandlung in China besprechen: Infektionen, Blutwerte, Nervenschäden, Gerinnungsrisiken und Immunreaktionen samt Notfallplan einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Klären Sie während der Behandlung in China, wie bei Bedarf infektiologische, k
 ## SEO Metadata
 
 - **Primary keyword:** Nebenwirkungen der Behandlung des multiplen Myeloms und unterstützende Versorgung in China
+
+- **Meta title:** Myelombehandlung in China: Nebenwirkungen und dringliche Symptome
+- **Meta description:** Nebenwirkungen der Myelombehandlung in China besprechen: Infektionen, Blutwerte, Nervenschäden, Gerinnungsrisiken und Immunreaktionen samt Notfallplan einordnen.

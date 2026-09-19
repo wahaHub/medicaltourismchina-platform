@@ -1,12 +1,14 @@
-# Ketika gejala Parkinson kembali memburuk: efek obat yang memudar, perburukan akut, dan langkah pengobatan berikutnya
+# Gejala Parkinson Memburuk: Persiapan Tinjauan di Tiongkok
 
 ## Hero
 
-- **Title:** Ketika gejala Parkinson kembali memburuk: efek obat yang memudar, perburukan akut, dan langkah pengobatan berikutnya
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Parkinson
-- **Subtitle:** Seseorang yang sebelumnya dapat mencapai meja makan sendiri kini mungkin kesulitan setiap sore.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Gejala Parkinson Memburuk: Persiapan Tinjauan di Tiongkok
+- **Subtitle:** Bedakan efek obat Parkinson yang memudar dari perburukan mendadak. Siapkan catatan gejala, dosis, dan penyerapan untuk tinjauan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Buat informasi darurat yang ringkas: diagnosis, waktu obat saat ini, alergi, kon
 ## SEO Metadata
 
 - **Primary keyword:** efek obat Parkinson memudar
+
+- **Meta title:** Gejala Parkinson Memburuk: Persiapan Tinjauan di Tiongkok
+- **Meta description:** Bedakan efek obat Parkinson yang memudar dari perburukan mendadak. Siapkan catatan gejala, dosis, dan penyerapan untuk tinjauan di Tiongkok.

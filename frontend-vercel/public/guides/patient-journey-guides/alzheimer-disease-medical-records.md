@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Preparing Alzheimer's Medical Records for a Consultation in China
 - **Category:** Patient Journey Guides
 - **Subcategory:** Alzheimer Disease
-- **Subtitle:** The most useful Alzheimer's referral connects symptoms, everyday function, investigations, and treatment on the same timeline.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Preparing Alzheimer's Medical Records for a Consultation in China
+- **Subtitle:** Prepare Alzheimer’s records for a consultation in China, including the symptom timeline, cognitive assessments, imaging, medicines and daily support needs.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -129,3 +131,6 @@ A well-prepared file makes uncertainty visible rather than hiding it. The hospit
 ## SEO Metadata
 
 - **Primary keyword:** Alzheimer's disease medical records for treatment in China
+
+- **Meta title:** Preparing Alzheimer's Medical Records for a Consultation in China
+- **Meta description:** Prepare Alzheimer’s records for a consultation in China, including the symptom timeline, cognitive assessments, imaging, medicines and daily support needs.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Medikamente beim multiplen Myelom: die Verordnung verstehen und die Behandlung in China organisieren
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Multiples Myelom
-- **Subtitle:** Eine Myelomverordnung enthält häufig mehrere Krebsmedikamente, vorbeugende Medikamente und ein Steroid mit jeweils unterschiedlichen Behandlungstagen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medikamente beim multiplen Myelom: die Verordnung verstehen und die Behandlung in China organisieren
+- **Subtitle:** Myelommedikamente für die Versorgung in China verstehen: vollständiges Schema, Blutbankhinweise, Infektionsvorsorge, Augenprüfungen und Behandlung zu Hause abstimmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Bitten Sie um einen schriftlichen Kalender, die vor jeder Entscheidung erforderl
 ## SEO Metadata
 
 - **Primary keyword:** medikamentöse Behandlung des multiplen Myeloms in China
+
+- **Meta title:** Medikamente beim multiplen Myelom: die Verordnung verstehen und die Behandlung in China organisieren
+- **Meta description:** Myelommedikamente für die Versorgung in China verstehen: vollständiges Schema, Blutbankhinweise, Infektionsvorsorge, Augenprüfungen und Behandlung zu Hause abstimmen.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Memilih rumah sakit di Tiongkok untuk epilepsi resistan obat: sesuaikan pusat dengan masalah klinis
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Epilepsi Resistan Obat
-- **Subtitle:** Dokter terkenal, perangkat canggih, atau kisah kasus berhasil mungkin hal pertama yang dilihat pasien ketika mencari perawatan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Memilih rumah sakit di Tiongkok untuk epilepsi resistan obat: sesuaikan pusat dengan masalah klinis
+- **Subtitle:** Nilai pusat epilepsi resistan obat di Tiongkok dari kemampuan diagnosis, lokalisasi kejang, penilaian fungsi, dan dukungan pengobatan berkelanjutan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -172,3 +174,6 @@ Daftar pilihan tidak perlu memuat banyak institusi. Fokus pada tim yang dapat me
 ## SEO Metadata
 
 - **Primary keyword:** memilih rumah sakit epilepsi resistan obat di Tiongkok; pusat epilepsi komprehensif; perawatan multidisiplin epilepsi anak
+
+- **Meta title:** Memilih rumah sakit di Tiongkok untuk epilepsi resistan obat: sesuaikan pusat dengan masalah klinis
+- **Meta description:** Nilai pusat epilepsi resistan obat di Tiongkok dari kemampuan diagnosis, lokalisasi kejang, penilaian fungsi, dan dukungan pengobatan berkelanjutan.

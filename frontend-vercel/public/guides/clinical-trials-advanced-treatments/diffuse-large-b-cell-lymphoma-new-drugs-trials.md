@@ -1,12 +1,14 @@
-# New DLBCL treatments and clinical trials: evidence that can change a decision
+# New DLBCL Treatments and Trials: Checking Access in China
 
 ## Hero
 
-- **Title:** New DLBCL treatments and clinical trials: evidence that can change a decision
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Diffuse Large B Cell Lymphoma
-- **Subtitle:** New treatments have changed parts of first-line and relapsed DLBCL care, but new can mean several things: an approved regimen in one jurisdiction, a combination supported by a randomized study whose local access still needs checking, or an experimental approach whose safety and efficacy remain under investigation.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** New DLBCL Treatments and Trials: Checking Access in China
+- **Subtitle:** Understand new DLBCL treatments and research, with questions about treatment line, China access, trial eligibility, costs and follow-up.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,3 +142,6 @@ Patients can reasonably choose established care without research participation. 
 ## SEO Metadata
 
 - **Primary keyword:** new DLBCL treatments and clinical trials
+
+- **Meta title:** New DLBCL Treatments and Trials: Checking Access in China
+- **Meta description:** Understand new DLBCL treatments and research, with questions about treatment line, China access, trial eligibility, costs and follow-up.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Sickle Cell Disease Treatment Costs in China: Checking Medicines, Transfusions, and Transplant Budgets
 - **Category:** Cost & Insurance Guides
 - **Subcategory:** Sickle Cell Disease
-- **Subtitle:** The cost of sickle cell disease care in China depends first on what a patient needs to accomplish.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sickle Cell Disease Treatment Costs in China: Checking Medicines, Transfusions, and Transplant Budgets
+- **Subtitle:** Request a sickle cell care budget in China that separates medicines, blood support, transplant assessment, monitoring and practical travel costs.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -154,3 +156,6 @@ When comparing two estimates, first check that they address the same clinical ob
 ## SEO Metadata
 
 - **Primary keyword:** sickle cell disease treatment cost in China
+
+- **Meta title:** Sickle Cell Disease Treatment Costs in China: Checking Medicines, Transfusions, and Transplant Budgets
+- **Meta description:** Request a sickle cell care budget in China that separates medicines, blood support, transplant assessment, monitoring and practical travel costs.

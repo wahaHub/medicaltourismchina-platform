@@ -1,15 +1,17 @@
-# Interaksi Herbal–Obat: “Alami” Bukan Kategori Obat
+# Obat dan Produk Herbal di Tiongkok: Pemeriksaan Interaksi
 
 ## Hero
 
-- **Title:** Interaksi Herbal–Obat: “Alami” Bukan Kategori Obat
 - **Category:** Edukasi Pasien & FAQ
 - **Subcategory:** Obat-obatan
-- **Subtitle:** Cara menyusun daftar produk yang dapat diidentifikasi, mengenali kombinasi berisiko tinggi dan membantu apoteker membedakan interaksi terdokumentasi dari yang belum pasti.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Dokter dan pasien mencocokkan botol obat resep, penetes herbal, bahan tumbuhan lepas dan daftar produk tertulis
+
+
+- **Title:** Obat dan Produk Herbal di Tiongkok: Pemeriksaan Interaksi
+- **Subtitle:** Pelajari bagaimana herbal dan suplemen dapat mengubah obat resep, kombinasi mana yang perlu evaluasi mendesak, dan rincian yang diperlukan apoteker selain nama produk.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -192,11 +194,13 @@ Obat transplantasi, antikoagulan, terapi kanker dan HIV, obat antikejang, digoks
 
 ## SEO Metadata
 
-- **SEO title:** Interaksi Herbal–Obat: Susun Daftar Produk Lengkap
-- **Meta description:** Pelajari bagaimana herbal dan suplemen dapat mengubah obat resep, kombinasi mana yang perlu evaluasi mendesak, dan rincian yang diperlukan apoteker selain nama produk.
 - **Primary keyword:** interaksi herbal obat
 - **Secondary keywords:** suplemen herbal dan obat, interaksi St John’s wort, herbal sebelum operasi, suplemen selama pengobatan kanker, rekonsiliasi obat, keamanan obat tradisional
 - **Suggested URL slug:** `/herb-drug-interactions-complete-product-list`
+
+
+- **Meta title:** Obat dan Produk Herbal di Tiongkok: Pemeriksaan Interaksi
+- **Meta description:** Pelajari bagaimana herbal dan suplemen dapat mengubah obat resep, kombinasi mana yang perlu evaluasi mendesak, dan rincian yang diperlukan apoteker selain nama produk.
 
 ## Sumber
 

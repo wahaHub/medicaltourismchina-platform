@@ -1,12 +1,14 @@
-# Bisakah limfoma Hodgkin disembuhkan? Memahami remisi, kelangsungan hidup, dan risiko kekambuhan
+# Prognosis Limfoma Hodgkin: Pertanyaan untuk Perawatan di Tiongkok
 
 ## Hero
 
-- **Title:** Bisakah limfoma Hodgkin disembuhkan? Memahami remisi, kelangsungan hidup, dan risiko kekambuhan
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Limfoma Hodgkin
-- **Subtitle:** “Bisakah ini disembuhkan?” sering menjadi pertanyaan yang paling ingin diajukan seseorang setelah diagnosis limfoma Hodgkin.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prognosis Limfoma Hodgkin: Pertanyaan untuk Perawatan di Tiongkok
+- **Subtitle:** Bedakan remisi, kesembuhan, dan kelangsungan hidup pada limfoma Hodgkin. Bahas stadium serta respons saat merencanakan perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Jika hanya satu masalah dapat diselesaikan hari ini, mintalah dokter menyatakan 
 ## SEO Metadata
 
 - **Primary keyword:** prognosis dan kelangsungan hidup limfoma Hodgkin
+
+- **Meta title:** Prognosis Limfoma Hodgkin: Pertanyaan untuk Perawatan di Tiongkok
+- **Meta description:** Bedakan remisi, kesembuhan, dan kelangsungan hidup pada limfoma Hodgkin. Bahas stadium serta respons saat merencanakan perawatan di Tiongkok.

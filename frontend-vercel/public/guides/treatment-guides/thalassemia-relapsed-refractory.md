@@ -1,12 +1,14 @@
-# When thalassemia treatment seems insufficient: worsening anemia, increasing transfusions, and poor iron control
+# Thalassemia Care Not Working Well: Second Opinions in China
 
 ## Hero
 
-- **Title:** When thalassemia treatment seems insufficient: worsening anemia, increasing transfusions, and poor iron control
 - **Category:** Treatment Guides
 - **Subcategory:** Thalassemia
-- **Subtitle:** A falling hemoglobin, more frequent transfusions, and a rising ferritin describe different problems.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Thalassemia Care Not Working Well: Second Opinions in China
+- **Subtitle:** Review worsening anemia, transfusion needs or iron control in thalassemia, and organize a second opinion in China around the changing problem.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Insufficient benefit does not always mean that a more expensive intervention is 
 ## SEO Metadata
 
 - **Primary keyword:** thalassemia treatment not working; increased transfusion requirements; inadequate chelation; second opinion in China
+
+- **Meta title:** Thalassemia Care Not Working Well: Second Opinions in China
+- **Meta description:** Review worsening anemia, transfusion needs or iron control in thalassemia, and organize a second opinion in China around the changing problem.

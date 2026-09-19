@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Menyiapkan Rekam Medis Alzheimer untuk Konsultasi di Tiongkok
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Penyakit Alzheimer
-- **Subtitle:** Rujukan Alzheimer yang paling berguna menghubungkan gejala, fungsi sehari-hari, pemeriksaan, dan pengobatan pada linimasa yang sama.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Menyiapkan Rekam Medis Alzheimer untuk Konsultasi di Tiongkok
+- **Subtitle:** Siapkan rekam medis Alzheimer untuk konsultasi di Tiongkok dengan linimasa gejala, penilaian kognitif, fungsi harian, gambar otak, dan pengobatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -129,3 +131,6 @@ Berkas yang dipersiapkan dengan baik membuat ketidakpastian terlihat, bukan meny
 ## SEO Metadata
 
 - **Primary keyword:** rekam medis penyakit Alzheimer untuk pengobatan di Tiongkok
+
+- **Meta title:** Menyiapkan Rekam Medis Alzheimer untuk Konsultasi di Tiongkok
+- **Meta description:** Siapkan rekam medis Alzheimer untuk konsultasi di Tiongkok dengan linimasa gejala, penilaian kognitif, fungsi harian, gambar otak, dan pengobatan.

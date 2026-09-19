@@ -1,12 +1,14 @@
-# Choisir le traitement de première ligne du lymphome à cellules du manteau : les questions à régler avant le premier cycle
+# Traitement de première ligne du lymphome du manteau en Chine
 
 ## Hero
 
-- **Title:** Choisir le traitement de première ligne du lymphome à cellules du manteau : les questions à régler avant le premier cycle
 - **Category:** Guides de traitement
 - **Subcategory:** Lymphome à cellules du manteau
-- **Subtitle:** Recherches associées : traitement du lymphome à cellules du manteau nouvellement diagnostiqué ; traitement du lymphome à cellules du manteau en Chine
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement de première ligne du lymphome du manteau en Chine
+- **Subtitle:** Préparez le premier traitement du lymphome du manteau en Chine selon le besoin d’agir, la biologie, l’état de santé et la place éventuelle de la greffe.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -121,3 +123,6 @@ Avant de quitter la consultation de planification, essayez d’expliquer le parc
 ## SEO Metadata
 
 - **Primary keyword:** traitement de première ligne du lymphome à cellules du manteau
+
+- **Meta title:** Traitement de première ligne du lymphome du manteau en Chine
+- **Meta description:** Préparez le premier traitement du lymphome du manteau en Chine selon le besoin d’agir, la biologie, l’état de santé et la place éventuelle de la greffe.

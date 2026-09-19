@@ -1,15 +1,17 @@
-# 019 Cara Membagikan Berkas CT, MRI, dan Pencitraan Lain ke Rumah Sakit Tiongkok
+# Berbagi Berkas CT dan MRI dengan Rumah Sakit di Tiongkok
 
 ## Hero
 
-- **Title:** Cara Membagikan Berkas CT, MRI, dan Pencitraan Lain ke Rumah Sakit Tiongkok
 - **Category:** Panduan Layanan Kesehatan di Tiongkok
 - **Subcategory:** Pencitraan dan Rekam Medis
-- **Subtitle:** Kirimkan pemeriksaan diagnostik lengkap, laporan, dan pertanyaan klinis—bukan beberapa tangkapan layar yang tidak dapat digulir, diukur, atau dibandingkan.
 - **Reviewed by:** Tim Editorial Medora Health; tinjauan radiologi dan keamanan informasi diperlukan sebelum publikasi
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Seorang radiolog Tiongkok mendiskusikan pencitraan penampang lintang dengan pasien internasional
+
+
+- **Title:** Berbagi Berkas CT dan MRI dengan Rumah Sakit di Tiongkok
+- **Subtitle:** Ekspor pemeriksaan DICOM lengkap, verifikasi seri, lindungi data pasien, serta konfirmasikan impor dan tinjauan radiologi yang berhasil di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -244,13 +246,15 @@ Tanyakan radiolog atau tim peninjau, bentuk hasil, dan tanggal yang diharapkan. 
 ## SEO Metadata
 
 - **Slug:** `how-to-share-ct-mri-and-other-imaging-files-with-a-chinese-hospital`
-- **Meta title:** Bagikan Berkas CT dan MRI ke Rumah Sakit Tiongkok
-- **Meta description:** Ekspor pemeriksaan DICOM lengkap, verifikasi seri, lindungi data pasien, serta konfirmasikan impor dan tinjauan radiologi yang berhasil di Tiongkok.
 - **Primary keyword:** kirim DICOM ke rumah sakit Tiongkok
 - **Pillar keyword:** layanan kesehatan di Tiongkok untuk pasien internasional
 - **Vertical keyword:** berbagi berkas CT MRI Tiongkok
 - **Search intent:** informasional / persiapan teknis
 - **Secondary keywords:** unggah DICOM rumah sakit Tiongkok; pendapat kedua CT Tiongkok; pemindahan berkas MRI Tiongkok
+
+
+- **Meta title:** Berbagi Berkas CT dan MRI dengan Rumah Sakit di Tiongkok
+- **Meta description:** Ekspor pemeriksaan DICOM lengkap, verifikasi seri, lindungi data pasien, serta konfirmasikan impor dan tinjauan radiologi yang berhasil di Tiongkok.
 
 ## Sumber
 

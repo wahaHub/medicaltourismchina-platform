@@ -1,12 +1,14 @@
-# Alzheimer's Treatment Side Effects: Recognizing Problems and Getting the Right Help
+# Alzheimer’s Treatment in China: Side Effects and Urgent Signs
 
 ## Hero
 
-- **Title:** Alzheimer's Treatment Side Effects: Recognizing Problems and Getting the Right Help
 - **Category:** Treatment Guides
 - **Subcategory:** Alzheimer Disease
-- **Subtitle:** A person starts treatment for Alzheimer's disease and then eats less, sleeps through lunch, or becomes unsteady.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Alzheimer’s Treatment in China: Side Effects and Urgent Signs
+- **Subtitle:** Recognize Alzheimer’s treatment side effects, record medicine exposure and know when to seek help during care in China or after returning home.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -111,3 +113,6 @@ Before treatment in China or a return home, transfer previous reactions, allergy
 ## SEO Metadata
 
 - **Primary keyword:** Alzheimer's treatment side effects
+
+- **Meta title:** Alzheimer’s Treatment in China: Side Effects and Urgent Signs
+- **Meta description:** Recognize Alzheimer’s treatment side effects, record medicine exposure and know when to seek help during care in China or after returning home.

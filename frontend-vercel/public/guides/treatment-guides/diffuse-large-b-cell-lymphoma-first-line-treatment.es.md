@@ -1,12 +1,14 @@
-# Elegir el tratamiento de primera línea para el DLBCL y prepararse para el primer ciclo
+# Tratamiento de primera línea del LDCBG en China: prepararse para la atención
 
 ## Hero
 
-- **Title:** Elegir el tratamiento de primera línea para el DLBCL y prepararse para el primer ciclo
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma difuso de células B grandes
-- **Subtitle:** El tratamiento de primera línea del DLBCL suele diseñarse con la curación como objetivo.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento de primera línea del LDCBG en China: prepararse para la atención
+- **Subtitle:** Comprenda las opciones iniciales de tratamiento del linfoma difuso de células B grandes en China y qué revisar antes de comenzar el primer ciclo.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Elija un cuidador que comprenda los medicamentos y los síntomas urgentes, y per
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento de primera línea del DLBCL
+
+- **Meta title:** Tratamiento de primera línea del LDCBG en China: prepararse para la atención
+- **Meta description:** Comprenda las opciones iniciales de tratamiento del linfoma difuso de células B grandes en China y qué revisar antes de comenzar el primer ciclo.

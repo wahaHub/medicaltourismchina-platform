@@ -1,15 +1,17 @@
-# 028 Atención oncológica multidisciplinaria: cómo orientan el tratamiento los comités de tumores
+# Comités oncológicos en China: cómo orienta el tratamiento el equipo multidisciplinar
 
 ## Hero
 
-- **Title:** Atención oncológica multidisciplinaria: cómo orientan el tratamiento los comités de tumores
 - **Category:** Guías de tratamiento
 - **Subcategory:** Planificación del tratamiento oncológico
-- **Subtitle:** Comprenda quién revisó el caso, qué evidencia estaba disponible, cómo se registró la recomendación y dónde interviene la decisión del propio paciente.
 - **Reviewed by:** Equipo editorial de Medora Health; se requiere revisión de la gobernanza del equipo multidisciplinario oncológico y de la decisión compartida antes de publicar
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Cirujanos, oncólogos médicos y radioterápicos, radiólogos y patólogos revisan juntos un caso de cáncer
+
+
+- **Title:** Comités oncológicos en China: cómo orienta el tratamiento el equipo multidisciplinar
+- **Subtitle:** Conozca cómo los comités de tumores revisan la evidencia, registran opciones e incertidumbre, incorporan las preferencias del paciente y convierten una recomendación multidisciplinaria en acciones.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -231,13 +233,15 @@ Cuando un diagnóstico, estadio, biomarcador, respuesta, toxicidad, hallazgo qui
 ## SEO Metadata
 
 - **Slug:** `multidisciplinary-cancer-care-how-tumor-boards-guide-treatment`
-- **Meta title:** Cómo orientan el tratamiento los comités oncológicos de tumores
-- **Meta description:** Conozca cómo los comités de tumores revisan la evidencia, registran opciones e incertidumbre, incorporan las preferencias del paciente y convierten una recomendación multidisciplinaria en acciones.
 - **Primary keyword:** atención oncológica multidisciplinaria
 - **Pillar keyword:** tratamiento del cáncer en China
 - **Vertical keyword:** cómo orientan el tratamiento los comités de tumores
 - **Search intent:** educación sobre planificación del tratamiento / evaluación de servicios multidisciplinarios
 - **Secondary keywords:** equipo multidisciplinario oncológico China; revisión por comité de tumores; oncología multidisciplinaria; reunión de planificación del tratamiento oncológico
+
+
+- **Meta title:** Comités oncológicos en China: cómo orienta el tratamiento el equipo multidisciplinar
+- **Meta description:** Conozca cómo los comités de tumores revisan la evidencia, registran opciones e incertidumbre, incorporan las preferencias del paciente y convierten una recomendación multidisciplinaria en acciones.
 
 ## Fuentes
 

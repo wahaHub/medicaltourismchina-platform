@@ -1,12 +1,14 @@
-# Medikamente beim Hodgkin-Lymphom: Chemotherapie, CD30-Behandlung und PD-1-Therapie verstehen
+# Medikamente beim Hodgkin-Lymphom in China: Optionen und Zugang
 
 ## Hero
 
-- **Title:** Medikamente beim Hodgkin-Lymphom: Chemotherapie, CD30-Behandlung und PD-1-Therapie verstehen
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Hodgkin-Lymphom
-- **Subtitle:** Wenn ABVD, AVD, BV und PD-1 auf derselben Behandlungsseite stehen, kann die erste Verordnung beim Hodgkin-Lymphom schwer verständlich sein.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medikamente beim Hodgkin-Lymphom in China: Optionen und Zugang
+- **Subtitle:** Hodgkin-Lymphom-Medikamente in China verstehen: Therapiekürzel, Chemotherapie, CD30- und PD-1-Behandlung sowie unterstützende Medikamente richtig einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -138,3 +140,6 @@ Versuchen Sie, am Ende eines Medikamentengesprächs eine klare Antwort zur genau
 ## SEO Metadata
 
 - **Primary keyword:** medikamentöse Behandlung des Hodgkin-Lymphoms
+
+- **Meta title:** Medikamente beim Hodgkin-Lymphom in China: Optionen und Zugang
+- **Meta description:** Hodgkin-Lymphom-Medikamente in China verstehen: Therapiekürzel, Chemotherapie, CD30- und PD-1-Behandlung sowie unterstützende Medikamente richtig einordnen.

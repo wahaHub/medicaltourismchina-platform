@@ -1,12 +1,14 @@
-# Tests for Suspected Alzheimer's Disease: What a Memory Clinic Needs to Establish
+# Alzheimer’s Assessment in China: Memory Clinic Tests
 
 ## Hero
 
-- **Title:** Tests for Suspected Alzheimer's Disease: What a Memory Clinic Needs to Establish
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Alzheimer Disease
-- **Subtitle:** A memory assessment may lead to discussion of cognitive testing, MRI, blood biomarkers, PET, or a lumbar puncture.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Alzheimer’s Assessment in China: Memory Clinic Tests
+- **Subtitle:** Learn how memory clinics assess suspected Alzheimer’s disease, with questions about symptoms, biomarkers and appropriate testing in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -113,3 +115,6 @@ Arrange a visit to discuss the results together. The outcome should be an unders
 ## SEO Metadata
 
 - **Primary keyword:** Alzheimer's disease diagnostic tests
+
+- **Meta title:** Alzheimer’s Assessment in China: Memory Clinic Tests
+- **Meta description:** Learn how memory clinics assess suspected Alzheimer’s disease, with questions about symptoms, biomarkers and appropriate testing in China.

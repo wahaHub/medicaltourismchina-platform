@@ -1,15 +1,17 @@
-# 149 Transmettre les soins à votre médecin dans votre pays : « reçu » ne signifie pas « accepté »
+# Retour après des soins en Chine : transmettre le dossier à votre médecin
 
 ## Hero
 
-- **Title:** Transmettre les soins à votre médecin dans votre pays : « reçu » ne signifie pas « accepté »
 - **Category:** Guides du parcours patient
 - **Subcategory:** Relais clinique dans le pays d'origine
-- **Subtitle:** Transformez un dossier de traitement à l'étranger en un plan local accepté, avec un médecin identifié, des responsabilités explicites et aucune tâche sans responsable.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un médecin dans le pays d'origine examine un plan de soins avec un patient de retour et un membre de sa famille.
+
+
+- **Title:** Retour après des soins en Chine : transmettre le dossier à votre médecin
+- **Subtitle:** Transférez les soins après un traitement en Chine avec un médecin relais, une synthèse des problèmes, des responsables de tâches, un plan des résultats en attente et une acceptation explicite.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -191,13 +193,15 @@ Après que l'équipe locale a évalué le patient, accepté les tâches pertinen
 ## SEO Metadata
 
 - **Slug:** `handing-over-care-to-your-doctor-at-home`
-- **Meta title:** Transmettre les soins à votre médecin dans votre pays | Relais clinique
-- **Meta description:** Transférez les soins après un traitement en Chine avec un médecin relais, une synthèse des problèmes, des responsables de tâches, un plan des résultats en attente et une acceptation explicite.
 - **Primary keyword:** transmettre les soins à votre médecin dans votre pays
 - **Pillar keyword:** voyage médical en Chine
 - **Vertical keyword:** transmission clinique du patient international
 - **Search intent:** continuité des soins / préparation du retour dans le pays d'origine
 - **Secondary keywords:** médecin relais après un voyage médical ; transmission entre médecins ; suivi après traitement à l'étranger ; responsabilité des examens en attente ; liste de vérification du transfert des soins
+
+
+- **Meta title:** Retour après des soins en Chine : transmettre le dossier à votre médecin
+- **Meta description:** Transférez les soins après un traitement en Chine avec un médecin relais, une synthèse des problèmes, des responsables de tâches, un plan des résultats en attente et une acceptation explicite.
 
 ## Sources
 

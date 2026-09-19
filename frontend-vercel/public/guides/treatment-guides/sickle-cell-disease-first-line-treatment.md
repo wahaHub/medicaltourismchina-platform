@@ -1,12 +1,14 @@
-# Starting Treatment After a Sickle Cell Diagnosis: Hydroxyurea, Prevention, and the First Follow-up Plan
+# Starting Sickle Cell Treatment in China: Medicines and Follow-Up
 
 ## Hero
 
-- **Title:** Starting Treatment After a Sickle Cell Diagnosis: Hydroxyurea, Prevention, and the First Follow-up Plan
 - **Category:** Treatment Guides
 - **Subcategory:** Sickle Cell Disease
-- **Subtitle:** After a sickle cell diagnosis, families often want to know which medicine comes first.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Starting Sickle Cell Treatment in China: Medicines and Follow-Up
+- **Subtitle:** Plan initial sickle cell care with medicines, prevention and follow-up, and confirm prescription and monitoring continuity before leaving China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,3 +152,6 @@ The first plan does not settle every future option. Patients with substantial di
 ## SEO Metadata
 
 - **Primary keyword:** initial treatment for sickle cell disease
+
+- **Meta title:** Starting Sickle Cell Treatment in China: Medicines and Follow-Up
+- **Meta description:** Plan initial sickle cell care with medicines, prevention and follow-up, and confirm prescription and monitoring continuity before leaving China.

@@ -1,12 +1,14 @@
-# Comparing Hodgkin lymphoma regimens: ABVD, N-AVD, BV-AVD, and BrECADD
+# Hodgkin Lymphoma Regimens in China: Comparing Options
 
 ## Hero
 
-- **Title:** Comparing Hodgkin lymphoma regimens: ABVD, N-AVD, BV-AVD, and BrECADD
 - **Category:** Treatment Guides
 - **Subcategory:** Hodgkin Lymphoma
-- **Subtitle:** The first rule when comparing Hodgkin lymphoma treatments is to check that the recommendations concern the same setting.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Hodgkin Lymphoma Regimens in China: Comparing Options
+- **Subtitle:** Understand differences between Hodgkin lymphoma regimens, including ABVD and newer combinations, and verify Chinese access and costs for the proposed plan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -136,3 +138,6 @@ After making a choice, retain the discussion record. A new research headline is 
 ## SEO Metadata
 
 - **Primary keyword:** Hodgkin lymphoma treatment comparison
+
+- **Meta title:** Hodgkin Lymphoma Regimens in China: Comparing Options
+- **Meta description:** Understand differences between Hodgkin lymphoma regimens, including ABVD and newer combinations, and verify Chinese access and costs for the proposed plan.

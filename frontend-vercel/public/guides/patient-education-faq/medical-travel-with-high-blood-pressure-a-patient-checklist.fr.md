@@ -1,15 +1,17 @@
-# Voyage médical avec hypertension : apportez une tendance fiable, pas une mesure isolée sous l'effet de l'anxiété
+# Voyage médical en Chine avec une hypertension : liste de vérification
 
 ## Hero
 
-- **Title:** Voyage médical avec hypertension : apportez une tendance fiable, pas une mesure isolée sous l'effet de l'anxiété
 - **Category:** Éducation des patients et questions fréquentes
 - **Subcategory:** Maladies chroniques et voyage
-- **Subtitle:** Une liste pratique pour des mesures fiables à domicile, les horaires médicamenteux, les voyages aériens et en altitude, les décisions le jour d'une intervention et les urgences hypertensives.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un voyageur et son accompagnant examinent un tensiomètre, une liste de médicaments et un itinéraire médical avant le départ
+
+
+- **Title:** Voyage médical en Chine avec une hypertension : liste de vérification
+- **Subtitle:** Planifiez des mesures fiables de pression artérielle, les horaires médicamenteux, les vols, l'altitude, les soins le jour d'une intervention et les actions d'urgence pendant un voyage médical.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Une pression artérielle répétée au-dessus de 180/120 mm Hg nécessite rapidement un avis professionnel ; si elle s'accompagne de douleur thoracique, d'essoufflement, de faiblesse, d'engourdissement, de modification visuelle, de difficulté à parler ou d'un autre symptôme nouveau préoccupant, appelez les secours locaux [4].
 
 ## Content
+
+Avant un voyage médical en Chine avec une hypertension, préparez un relevé fiable de votre tension et une liste de médicaments à jour. Utilisez les questions ci-dessous pour coordonner le voyage, les consignes du jour de l’intervention et le suivi avec les cliniciens responsables de vos soins.
+
 
 L'hypertension ne provoque généralement aucune sensation immédiate, si bien que la préparation du voyage peut osciller entre deux erreurs : l'ignorer complètement ou réagir à chaque chiffre comme à une crise. L'approche la plus sûre repose sur un état de référence fiable, des mesures correctement prises et un plan écrit distinguant une mauvaise mesure d'une atteinte aiguë d'organe.
 
@@ -138,11 +143,13 @@ Une pression répétée au-dessus de 180/120 mm Hg nécessite rapidement un avis
 
 ## SEO Metadata
 
-- **SEO title:** Voyage médical avec hypertension : liste de contrôle du patient
-- **Meta description:** Planifiez des mesures fiables de pression artérielle, les horaires médicamenteux, les vols, l'altitude, les soins le jour d'une intervention et les actions d'urgence pendant un voyage médical.
 - **Primary keyword:** voyage médical avec hypertension
 - **Secondary keywords:** prendre l'avion avec hypertension, tensiomètre voyage, médicaments hypertension fuseau horaire, hypertension chirurgie voyage, urgence hypertensive à l'étranger
 - **Suggested URL slug:** `/medical-travel-high-blood-pressure-checklist`
+
+
+- **Meta title:** Voyage médical en Chine avec une hypertension : liste de vérification
+- **Meta description:** Planifiez des mesures fiables de pression artérielle, les horaires médicamenteux, les vols, l'altitude, les soins le jour d'une intervention et les actions d'urgence pendant un voyage médical.
 
 ## Sources
 

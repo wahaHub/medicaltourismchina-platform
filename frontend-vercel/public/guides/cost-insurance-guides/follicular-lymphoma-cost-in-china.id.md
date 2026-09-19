@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Biaya pengobatan limfoma folikular di Tiongkok: menyusun anggaran penilaian, rangkaian pengobatan, dan perawatan berkelanjutan
 - **Category:** Panduan Biaya & Asuransi
 - **Subcategory:** Limfoma Folikular
-- **Subtitle:** Biaya perawatan limfoma folikular di Tiongkok pertama-tama bergantung pada apa yang akan diterima pasien.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Biaya pengobatan limfoma folikular di Tiongkok: menyusun anggaran penilaian, rangkaian pengobatan, dan perawatan berkelanjutan
+- **Subtitle:** Bandingkan estimasi limfoma folikular di Tiongkok menurut tujuan pengobatan. Rinci pemeriksaan, induksi, pemeliharaan, dan perawatan berkelanjutan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Kesehatan yang tidak stabil memerlukan penanganan masalah akut sebelum mengoptim
 ## SEO Metadata
 
 - **Primary keyword:** biaya pengobatan limfoma folikular di Tiongkok
+
+- **Meta title:** Biaya pengobatan limfoma folikular di Tiongkok: menyusun anggaran penilaian, rangkaian pengobatan, dan perawatan berkelanjutan
+- **Meta description:** Bandingkan estimasi limfoma folikular di Tiongkok menurut tujuan pengobatan. Rinci pemeriksaan, induksi, pemeliharaan, dan perawatan berkelanjutan.

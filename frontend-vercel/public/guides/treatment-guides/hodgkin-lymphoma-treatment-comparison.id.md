@@ -1,12 +1,14 @@
-# Membandingkan regimen limfoma Hodgkin: ABVD, N-AVD, BV-AVD, dan BrECADD
+# Regimen Limfoma Hodgkin di Tiongkok: Membandingkan Pilihan
 
 ## Hero
 
-- **Title:** Membandingkan regimen limfoma Hodgkin: ABVD, N-AVD, BV-AVD, dan BrECADD
 - **Category:** Panduan Perawatan
 - **Subcategory:** Limfoma Hodgkin
-- **Subtitle:** Aturan pertama saat membandingkan pengobatan limfoma Hodgkin adalah memastikan rekomendasinya menyangkut situasi yang sama.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Regimen Limfoma Hodgkin di Tiongkok: Membandingkan Pilihan
+- **Subtitle:** Bandingkan regimen limfoma Hodgkin di Tiongkok menurut stadium, populasi studi, dan risiko. Pahami ABVD serta kombinasi dengan terapi imun atau CD30.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -136,3 +138,6 @@ Setelah memilih, simpan catatan pembahasan. Tajuk penelitian baru tidak otomatis
 ## SEO Metadata
 
 - **Primary keyword:** perbandingan pengobatan limfoma Hodgkin
+
+- **Meta title:** Regimen Limfoma Hodgkin di Tiongkok: Membandingkan Pilihan
+- **Meta description:** Bandingkan regimen limfoma Hodgkin di Tiongkok menurut stadium, populasi studi, dan risiko. Pahami ABVD serta kombinasi dengan terapi imun atau CD30.

@@ -1,12 +1,14 @@
-# Starting GVHD Treatment: Local Care, Corticosteroids, and Early Reassessment
+# Starting GVHD Treatment in China: Options and Early Review
 
 ## Hero
 
-- **Title:** Starting GVHD Treatment: Local Care, Corticosteroids, and Early Reassessment
 - **Category:** Treatment Guides
 - **Subcategory:** Graft Versus Host Disease
-- **Subtitle:** Patients are sometimes puzzled when told they are starting GVHD treatment despite already taking immune-suppressing medicines during transplantation.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Starting GVHD Treatment in China: Options and Early Review
+- **Subtitle:** Understand initial GVHD treatment goals, local care, corticosteroids and early response review, with a coordinated plan for care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -129,3 +131,6 @@ Before leaving the treatment city, make sure the next assessment and medicine su
 ## SEO Metadata
 
 - **Primary keyword:** first-line graft-versus-host disease treatment in China
+
+- **Meta title:** Starting GVHD Treatment in China: Options and Early Review
+- **Meta description:** Understand initial GVHD treatment goals, local care, corticosteroids and early response review, with a coordinated plan for care in China.

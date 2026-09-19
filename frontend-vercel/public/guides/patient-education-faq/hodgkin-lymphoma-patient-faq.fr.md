@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Lymphome de Hodgkin : 20 questions de patients sur le diagnostic, le traitement et les soins en Chine
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Lymphome de Hodgkin
-- **Subtitle:** Un diagnostic de lymphome de Hodgkin peut introduire de nombreux termes inconnus en quelques consultations.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Lymphome de Hodgkin : 20 questions de patients sur le diagnostic, le traitement et les soins en Chine
+- **Subtitle:** Préparez vos soins du lymphome de Hodgkin en Chine avec 20 questions sur la biopsie, le stade, la TEP, les traitements et le suivi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -201,3 +203,6 @@ Avant le retour, identifiez le clinicien d’accueil et la prochaine évaluation
 ## SEO Metadata
 
 - **Primary keyword:** questions des patients sur le lymphome de Hodgkin
+
+- **Meta title:** Lymphome de Hodgkin : 20 questions de patients sur le diagnostic, le traitement et les soins en Chine
+- **Meta description:** Préparez vos soins du lymphome de Hodgkin en Chine avec 20 questions sur la biopsie, le stade, la TEP, les traitements et le suivi.

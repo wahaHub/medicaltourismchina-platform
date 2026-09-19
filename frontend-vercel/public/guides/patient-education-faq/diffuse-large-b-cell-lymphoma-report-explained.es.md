@@ -1,12 +1,14 @@
-# Cómo entender un informe de DLBCL: anatomía patológica, FISH, IPI y hallazgos de PET
+# Informes de LDCBG: revisión de anatomía patológica, FISH y PET en China
 
 ## Hero
 
-- **Title:** Cómo entender un informe de DLBCL: anatomía patológica, FISH, IPI y hallazgos de PET
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma difuso de células B grandes
-- **Subtitle:** Un informe de DLBCL puede contener varios lenguajes diferentes a la vez: un nombre diagnóstico, tinciones positivas, resultados genéticos, porcentajes, un estadio y una puntuación PET.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Informes de LDCBG: revisión de anatomía patológica, FISH y PET en China
+- **Subtitle:** Comprenda diagnóstico, marcadores, FISH, IPI y PET en los informes de linfoma difuso de células B grandes antes de una revisión especializada en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ Después del tratamiento, las dosis reales, las toxicidades importantes y la eva
 ## SEO Metadata
 
 - **Primary keyword:** cómo entender un informe de DLBCL
+
+- **Meta title:** Informes de LDCBG: revisión de anatomía patológica, FISH y PET en China
+- **Meta description:** Comprenda diagnóstico, marcadores, FISH, IPI y PET en los informes de linfoma difuso de células B grandes antes de una revisión especializada en China.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** How Long Does Parkinson’s Treatment Take? Medication Changes, DBS and Planning a Visit to China
 - **Category:** Treatment Guides
 - **Subcategory:** Parkinson Disease
-- **Subtitle:** Parkinson’s disease generally needs continuing care, while a particular visit for treatment can have a defined purpose and an agreed endpoint.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** How Long Does Parkinson’s Treatment Take? Medication Changes, DBS and Planning a Visit to China
+- **Subtitle:** Plan time in China for Parkinson’s medicine review, DBS assessment or other care, including recovery and the follow-up needed afterwards.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ Give the next appointment a purpose. It might be to review nighttime mobility on
 ## SEO Metadata
 
 - **Primary keyword:** Parkinson’s disease treatment duration in China
+
+- **Meta title:** How Long Does Parkinson’s Treatment Take? Medication Changes, DBS and Planning a Visit to China
+- **Meta description:** Plan time in China for Parkinson’s medicine review, DBS assessment or other care, including recovery and the follow-up needed afterwards.

@@ -1,12 +1,14 @@
-# Prognosis limfoma folikular: memahami kelangsungan hidup, remisi, dan perjalanan ke depan
+# Prognosis Limfoma Folikular: Pertanyaan Konsultasi di Tiongkok
 
 ## Hero
 
-- **Title:** Prognosis limfoma folikular: memahami kelangsungan hidup, remisi, dan perjalanan ke depan
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Limfoma Folikular
-- **Subtitle:** Nama penyakit saja tidak dapat memprediksi berapa tahun seseorang dengan limfoma folikular akan hidup.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prognosis Limfoma Folikular: Pertanyaan Konsultasi di Tiongkok
+- **Subtitle:** Pahami prognosis limfoma folikular, remisi, dan risiko progresi dalam konteks pribadi. Siapkan pertanyaan serta rencana tindak lanjut di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Bulan-bulan mendatang dapat direncanakan berdasarkan tanggal evaluasi, gejala ya
 ## SEO Metadata
 
 - **Primary keyword:** prognosis limfoma folikular
+
+- **Meta title:** Prognosis Limfoma Folikular: Pertanyaan Konsultasi di Tiongkok
+- **Meta description:** Pahami prognosis limfoma folikular, remisi, dan risiko progresi dalam konteks pribadi. Siapkan pertanyaan serta rencana tindak lanjut di Tiongkok.

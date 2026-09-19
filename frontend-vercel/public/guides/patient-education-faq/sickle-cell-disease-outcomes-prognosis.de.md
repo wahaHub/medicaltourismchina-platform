@@ -1,12 +1,14 @@
-# Welche Ergebnisse sind bei Sichelzellkrankheit möglich? Überleben, Therapieansprechen und persönliche Prognose verstehen
+# Prognose bei Sichelzellkrankheit: Fragen zur Versorgung in China
 
 ## Hero
 
-- **Title:** Welche Ergebnisse sind bei Sichelzellkrankheit möglich? Überleben, Therapieansprechen und persönliche Prognose verstehen
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Sichelzellkrankheit
-- **Subtitle:** „Wie lange werde ich leben?“, „Werde ich arbeiten können?“ und „Was passiert, wenn mein Kind älter wird?“ sind praktische Fragen in der Sichelzellversorgung.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prognose bei Sichelzellkrankheit: Fragen zur Versorgung in China
+- **Subtitle:** Die Prognose bei Sichelzellkrankheit für China besprechen: Genotyp, Krisenverlauf, Organfunktion und Therapieergebnisse statt einzelner Überlebenszahlen betrachten.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Patienten verdienen ehrliche Unsicherheit und einen klaren nächsten Schritt. Ke
 ## SEO Metadata
 
 - **Primary keyword:** Prognose und Behandlungsergebnisse bei Sichelzellkrankheit
+
+- **Meta title:** Prognose bei Sichelzellkrankheit: Fragen zur Versorgung in China
+- **Meta description:** Die Prognose bei Sichelzellkrankheit für China besprechen: Genotyp, Krisenverlauf, Organfunktion und Therapieergebnisse statt einzelner Überlebenszahlen betrachten.

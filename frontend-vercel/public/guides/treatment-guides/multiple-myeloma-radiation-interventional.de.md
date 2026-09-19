@@ -1,12 +1,14 @@
-# Strahlentherapie beim multiplen Myelom: schmerzhafte Läsionen behandeln und Funktionen schützen
+# Strahlentherapie beim Myelom in China: Schmerzlinderung und Funktion
 
 ## Hero
 
-- **Title:** Strahlentherapie beim multiplen Myelom: schmerzhafte Läsionen behandeln und Funktionen schützen
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Multiples Myelom
-- **Subtitle:** Die Empfehlung, eine einzelne schmerzhafte Stelle zu bestrahlen, bedeutet nicht zwangsläufig, dass die systemische Myelomtherapie eines Patienten versagt hat.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Strahlentherapie beim Myelom in China: Schmerzlinderung und Funktion
+- **Subtitle:** Myelom-Strahlentherapie in China prüfen: Schmerzursache, lokale Kontrolle, Knochenstabilität und neurologische Beschwerden mit dem übrigen Behandlungsplan verbinden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Prüfen Sie vor der Rückreise Schmerzkontrolle, sicheres Umsetzen, Mobilitätsh
 ## SEO Metadata
 
 - **Primary keyword:** Strahlentherapie beim multiplen Myelom in China
+
+- **Meta title:** Strahlentherapie beim Myelom in China: Schmerzlinderung und Funktion
+- **Meta description:** Myelom-Strahlentherapie in China prüfen: Schmerzursache, lokale Kontrolle, Knochenstabilität und neurologische Beschwerden mit dem übrigen Behandlungsplan verbinden.

@@ -1,12 +1,14 @@
-# Effets indésirables du traitement de l’épilepsie pharmacorésistante : reconnaître les changements et obtenir l’aide adaptée
+# Soins de l’épilepsie pharmacorésistante en Chine : effets indésirables
 
 ## Hero
 
-- **Title:** Effets indésirables du traitement de l’épilepsie pharmacorésistante : reconnaître les changements et obtenir l’aide adaptée
 - **Category:** Guides des traitements
 - **Subcategory:** Épilepsie pharmacorésistante
-- **Subtitle:** Une personne dont les crises se sont améliorées peut encore avoir du mal à rester éveillée en classe, suivre une conversation ou marcher sans danger.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Soins de l’épilepsie pharmacorésistante en Chine : effets indésirables
+- **Subtitle:** Consignez éruption, somnolence, troubles de l’équilibre et changements d’humeur sous traitement de l’épilepsie pour préparer une évaluation adaptée en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -153,3 +155,6 @@ Le résultat pratique d’une évaluation de sécurité est un plan d’action c
 ## SEO Metadata
 
 - **Primary keyword:** effets indésirables du traitement de l’épilepsie pharmacorésistante ; sécurité des antiépileptiques ; réactions indésirables dans l’épilepsie ; suivi de l’épilepsie en Chine
+
+- **Meta title:** Soins de l’épilepsie pharmacorésistante en Chine : effets indésirables
+- **Meta description:** Consignez éruption, somnolence, troubles de l’équilibre et changements d’humeur sous traitement de l’épilepsie pour préparer une évaluation adaptée en Chine.

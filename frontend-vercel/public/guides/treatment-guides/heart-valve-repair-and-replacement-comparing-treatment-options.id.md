@@ -1,15 +1,17 @@
-# 039 Perbaikan dan Penggantian Katup Jantung: Membandingkan Pilihan Pengobatan
+# Pengobatan Katup Jantung di Tiongkok: Perbaikan atau Penggantian
 
 ## Hero
 
-- **Title:** Perbaikan dan Penggantian Katup Jantung: Membandingkan Pilihan Pengobatan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Perawatan Jantung & Pembuluh Darah
-- **Subtitle:** Bandingkan perbaikan, penggantian mekanik dan jaringan, serta pengobatan transkateter berdasarkan lesi katup, rencana seumur hidup, dan prioritas pasien.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** TERTUNDA — memerlukan perbandingan yang akurat secara medis antara perbaikan katup, penggantian mekanik, dan penggantian jaringan
+
+
+- **Title:** Pengobatan Katup Jantung di Tiongkok: Perbaikan atau Penggantian
+- **Subtitle:** Bandingkan perbaikan katup, penggantian mekanik dan jaringan, pilihan bedah dan transkateter, antikoagulasi, pemulihan, dan tindak lanjut seumur hidup.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -171,13 +173,15 @@ Bawa laporan prosedur dan rincian implan atau perbaikan bersama ekokardiogram da
 ## SEO Metadata
 
 - **Slug:** `heart-valve-repair-and-replacement-comparing-treatment-options`
-- **Meta title:** Perbaikan vs Penggantian Katup Jantung: Perbandingan untuk Pasien
-- **Meta description:** Bandingkan perbaikan katup, penggantian mekanik dan jaringan, pilihan bedah dan transkateter, antikoagulasi, pemulihan, dan tindak lanjut seumur hidup.
 - **Primary keyword:** perbaikan dan penggantian katup jantung
 - **Pillar keyword:** pengobatan katup jantung
 - **Vertical keyword:** pilihan operasi katup
 - **Search intent:** perbandingan pengobatan / keputusan prostesis
 - **Secondary keywords:** perbaikan vs penggantian katup; katup mekanik; katup jaringan; operasi katup jantung; antikoagulasi katup; tindak lanjut katup
+
+
+- **Meta title:** Pengobatan Katup Jantung di Tiongkok: Perbaikan atau Penggantian
+- **Meta description:** Bandingkan perbaikan katup, penggantian mekanik dan jaringan, pilihan bedah dan transkateter, antikoagulasi, pemulihan, dan tindak lanjut seumur hidup.
 
 ## Sumber
 

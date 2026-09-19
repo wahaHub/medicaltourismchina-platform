@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Memilih Rumah Sakit Alzheimer di Tiongkok: Penilaian Memori, Terapi Antibodi, dan Dukungan Perawatan
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Penyakit Alzheimer
-- **Subtitle:** Memilih rumah sakit untuk penyakit Alzheimer dimulai dengan masalah yang perlu diselesaikan melalui kunjungan tersebut.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Memilih Rumah Sakit Alzheimer di Tiongkok: Penilaian Memori, Terapi Antibodi, dan Dukungan Perawatan
+- **Subtitle:** Pilih rumah sakit Alzheimer di Tiongkok sesuai kebutuhan penilaian memori, terapi antibodi, atau dukungan keluarga. Periksa tujuan dan cakupan layanan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Pertimbangkan jarak, ketersediaan pendamping perawatan yang konsisten, dan apaka
 ## SEO Metadata
 
 - **Primary keyword:** rumah sakit Alzheimer di Tiongkok
+
+- **Meta title:** Memilih Rumah Sakit Alzheimer di Tiongkok: Penilaian Memori, Terapi Antibodi, dan Dukungan Perawatan
+- **Meta description:** Pilih rumah sakit Alzheimer di Tiongkok sesuai kebutuhan penilaian memori, terapi antibodi, atau dukungan keluarga. Periksa tujuan dan cakupan layanan.

@@ -1,15 +1,17 @@
-# 098 Was zeichnet eine leistungsfähige internationale medizinische Abteilung aus?
+# Internationale medizinische Abteilungen in China: Was Sie prüfen sollten
 
 ## Hero
 
-- **Title:** Was zeichnet eine leistungsfähige internationale medizinische Abteilung aus?
 - **Category:** Krankenhausleitfäden
 - **Subcategory:** Dienste für internationale Patienten
-- **Subtitle:** Beurteilen Sie die Abteilung nach klinischer Verantwortung, Sprachsicherheit, Eskalation, Unterlagen und Kontinuität – nicht nach Lounge oder Concierge-Broschüre.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Konzeptillustration eines internationalen Patienten im Gespräch mit einer Krankenhauskoordination vor einer Weltkarte; das Bild steht für Orientierung, nicht für klinische Qualität.
+
+
+- **Title:** Internationale medizinische Abteilungen in China: Was Sie prüfen sollten
+- **Subtitle:** Bewerten Sie internationale Krankenhausdienste nach klinischer Verantwortung, Dolmetschen, Unterlagen, Notfalleskalation, Medikamentensicherheit, Preisen, Datenschutz und Entlassungsübergabe.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -268,11 +270,13 @@ Diagnose-/Behandlungszusammenfassung, abgeglichene Medikamente, Ergebnisse und Z
 ## SEO Metadata
 
 - **Slug:** `what-makes-a-strong-international-medical-department`
-- **Meta title:** Was zeichnet eine leistungsfähige internationale medizinische Abteilung aus?
-- **Meta description:** Bewerten Sie internationale Krankenhausdienste nach klinischer Verantwortung, Dolmetschen, Unterlagen, Notfalleskalation, Medikamentensicherheit, Preisen, Datenschutz und Entlassungsübergabe.
 - **Primary keyword:** internationale medizinische Abteilung China
 - **Secondary keywords:** internationale Patientendienste China; medizinisches Dolmetschen Krankenhaus; internationale Krankenhauskoordination; grenzüberschreitende Krankenunterlagen; Krankenhausentlassungsübergabe China
 - **Search intent:** Qualitätsvergleich internationaler Patientendienste
+
+
+- **Meta title:** Internationale medizinische Abteilungen in China: Was Sie prüfen sollten
+- **Meta description:** Bewerten Sie internationale Krankenhausdienste nach klinischer Verantwortung, Dolmetschen, Unterlagen, Notfalleskalation, Medikamentensicherheit, Preisen, Datenschutz und Entlassungsübergabe.
 
 ## Quellen
 

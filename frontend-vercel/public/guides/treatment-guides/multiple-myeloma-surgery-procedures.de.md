@@ -1,12 +1,14 @@
-# Eingriffe und Operationen beim multiplen Myelom: Probenentnahme, Zellsammlung und Skelettstabilität
+# Eingriffe beim Myelom in China: Probenentnahme, Zellsammlung und Knochenversorgung
 
 ## Hero
 
-- **Title:** Eingriffe und Operationen beim multiplen Myelom: Probenentnahme, Zellsammlung und Skelettstabilität
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Multiples Myelom
-- **Subtitle:** Die Myelomversorgung kann eine Knochenmarkbiopsie, Zellsammlung, einen Katheter, Wirbelkörperaugmentation oder Frakturfixierung umfassen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Eingriffe beim Myelom in China: Probenentnahme, Zellsammlung und Knochenversorgung
+- **Subtitle:** Eingriffe beim Myelom in China verstehen: Knochenmarkentnahme, Stammzell- und CAR-T-Sammlung sowie Maßnahmen für Wirbelsäulenstabilität und Erholung unterscheiden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Die zentrale Frage lautet, welches konkrete Problem der Eingriff lösen kann, we
 ## SEO Metadata
 
 - **Primary keyword:** Operationen und autologe Transplantationsverfahren beim multiplen Myelom
+
+- **Meta title:** Eingriffe beim Myelom in China: Probenentnahme, Zellsammlung und Knochenversorgung
+- **Meta description:** Eingriffe beim Myelom in China verstehen: Knochenmarkentnahme, Stammzell- und CAR-T-Sammlung sowie Maßnahmen für Wirbelsäulenstabilität und Erholung unterscheiden.

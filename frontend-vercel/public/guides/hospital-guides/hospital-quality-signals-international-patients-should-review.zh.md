@@ -1,15 +1,17 @@
-# 国际患者真正值得核实的医院质量信号
+# 中国医院质量：国际患者应核查哪些信息
 
 ## Hero
 
-- **Title:** 国际患者真正值得核实的医院质量信号
 - **Category:** 医院指南
 - **Subcategory:** 医院质量与患者安全
-- **Subtitle:** 不凭名气、装修和模糊的“成功率”做决定，而是逐项核实科室、团队、结果、救治后备与跨境交接。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 国际患者与协调人员讨论医院质量的概念插图；盾牌、奖章和图表只是主题符号，不是认证证书或真实质量评分。
+
+
+- **Title:** 中国医院质量：国际患者应核查哪些信息
+- **Subtitle:** 从团队匹配、结果口径、并发症救治、安全系统、病历与跨境随访判断中国医院质量的实用方法。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -219,13 +221,15 @@
 ## SEO Metadata
 
 - **Slug:** `hospital-quality-signals-international-patients-should-review`
-- **Meta title:** 国际患者真正值得核实的医院质量信号
-- **Meta description:** 从团队匹配、结果口径、并发症救治、安全系统、病历与跨境随访判断中国医院质量的实用方法。
 - **Primary keyword:** 中国医院质量信号
 - **Pillar keyword:** 国际患者怎样选择中国医院
 - **Vertical keyword:** 国际患者应关注的医院质量信号
 - **Search intent:** 医院比较 / 医疗质量核实
 - **Secondary keywords:** 中国医院质量；国际患者安全；医院结果数据；中国医院评审；赴华就医选择医院
+
+
+- **Meta title:** 中国医院质量：国际患者应核查哪些信息
+- **Meta description:** 从团队匹配、结果口径、并发症救治、安全系统、病历与跨境随访判断中国医院质量的实用方法。
 
 ## Sources
 

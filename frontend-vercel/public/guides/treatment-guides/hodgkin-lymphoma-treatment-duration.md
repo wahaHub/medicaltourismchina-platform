@@ -1,12 +1,14 @@
-# How long does Hodgkin lymphoma treatment take? Cycles, PET checkpoints, radiation, and travel
+# Hodgkin Lymphoma Care in China: Cycles, PET Checks and Travel
 
 ## Hero
 
-- **Title:** How long does Hodgkin lymphoma treatment take? Cycles, PET checkpoints, radiation, and travel
 - **Category:** Treatment Guides
 - **Subcategory:** Hodgkin Lymphoma
-- **Subtitle:** The duration of Hodgkin lymphoma treatment cannot be answered simply by stating a length of hospital stay.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Hodgkin Lymphoma Care in China: Cycles, PET Checks and Travel
+- **Subtitle:** Plan Hodgkin lymphoma treatment in China around cycles, PET checkpoints, possible radiation and recovery rather than a fixed travel promise.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ If the course involved several changes, distinguish the original proposal from t
 ## SEO Metadata
 
 - **Primary keyword:** Hodgkin lymphoma treatment duration and cycles
+
+- **Meta title:** Hodgkin Lymphoma Care in China: Cycles, PET Checks and Travel
+- **Meta description:** Plan Hodgkin lymphoma treatment in China around cycles, PET checkpoints, possible radiation and recovery rather than a fixed travel promise.

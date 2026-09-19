@@ -1,12 +1,14 @@
-# Operationen und Eingriffe bei Thalassämie: Entscheidungen zu Milz, Gallenblase und anderen Maßnahmen
+# Operationen bei Thalassämie in China: Milz, Gallenblase und Erholung
 
 ## Hero
 
-- **Title:** Operationen und Eingriffe bei Thalassämie: Entscheidungen zu Milz, Gallenblase und anderen Maßnahmen
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Thalassämie
-- **Subtitle:** Es gibt keine allgemeine Thalassämie-Operation, die abnormes Gewebe entfernt und dadurch die Erbkrankheit korrigiert.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Operationen bei Thalassämie in China: Milz, Gallenblase und Erholung
+- **Subtitle:** Operationen bei Thalassämie in China vorbereiten: Milz- und Gallenblasenbefunde, Infektionsschutz, Thromboserisiken, Blutversorgung und Organfunktion besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ Vermeiden Sie eine unflexible Rückreiseplanung allein auf Grundlage eines gesch
 ## SEO Metadata
 
 - **Primary keyword:** Operation bei Thalassämie; Splenektomie; Gallensteine; präoperative Beurteilung; vergrößerte Milz
+
+- **Meta title:** Operationen bei Thalassämie in China: Milz, Gallenblase und Erholung
+- **Meta description:** Operationen bei Thalassämie in China vorbereiten: Milz- und Gallenblasenbefunde, Infektionsschutz, Thromboserisiken, Blutversorgung und Organfunktion besprechen.

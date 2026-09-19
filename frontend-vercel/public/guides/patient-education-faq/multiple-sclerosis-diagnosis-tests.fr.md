@@ -1,12 +1,14 @@
-# Examens en cas de suspicion de sclérose en plaques : préparer l’IRM, l’analyse du liquide céphalorachidien et l’évaluation spécialisée
+# Bilan de sclérose en plaques en Chine : IRM et autres examens
 
 ## Hero
 
-- **Title:** Examens en cas de suspicion de sclérose en plaques : préparer l’IRM, l’analyse du liquide céphalorachidien et l’évaluation spécialisée
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Sclérose en plaques
-- **Subtitle:** Un bilan de SEP vise à expliquer un problème neurologique, et pas simplement à réaliser une série standard d’examens.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Bilan de sclérose en plaques en Chine : IRM et autres examens
+- **Subtitle:** Préparez une évaluation de sclérose en plaques en Chine : histoire des symptômes, IRM, liquide céphalorachidien et examens recherchant d’autres causes.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Pour les coûts, demandez une liste des examens jugés nécessaires maintenant e
 ## SEO Metadata
 
 - **Primary keyword:** examens diagnostiques de la sclérose en plaques en Chine
+
+- **Meta title:** Bilan de sclérose en plaques en Chine : IRM et autres examens
+- **Meta description:** Préparez une évaluation de sclérose en plaques en Chine : histoire des symptômes, IRM, liquide céphalorachidien et examens recherchant d’autres causes.

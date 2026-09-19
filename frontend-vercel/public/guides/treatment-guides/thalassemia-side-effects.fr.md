@@ -1,12 +1,14 @@
-# Gérer les effets indésirables du traitement de la thalassémie : que signaler, quand demander de l'aide et comment se préparer
+# Traitement de la thalassémie en Chine : effets indésirables et sécurité
 
 ## Hero
 
-- **Title:** Gérer les effets indésirables du traitement de la thalassémie : que signaler, quand demander de l'aide et comment se préparer
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Thalassémie
-- **Subtitle:** Trouver une liste d'effets indésirables possibles est souvent plus facile que décider quoi faire face à un symptôme.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement de la thalassémie en Chine : effets indésirables et sécurité
+- **Subtitle:** Préparez la surveillance de la thalassémie en Chine : réactions transfusionnelles, fièvre sous chélation, déshydratation et signes nécessitant un avis rapide.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -146,3 +148,6 @@ Les patients n'ont pas besoin de mémoriser toutes les réactions possibles. Rec
 ## SEO Metadata
 
 - **Primary keyword:** effets indésirables du traitement de la thalassémie ; réactions indésirables aux chélateurs ; réactions transfusionnelles ; sécurité médicamenteuse en Chine
+
+- **Meta title:** Traitement de la thalassémie en Chine : effets indésirables et sécurité
+- **Meta description:** Préparez la surveillance de la thalassémie en Chine : réactions transfusionnelles, fièvre sous chélation, déshydratation et signes nécessitant un avis rapide.

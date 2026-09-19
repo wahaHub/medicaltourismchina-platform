@@ -1,12 +1,14 @@
-# Tratamiento del linfoma folicular: decidir cuándo actuar y qué debe lograr el primer plan
+# Tratamiento del linfoma folicular en China: cuándo y cómo empezar
 
 ## Hero
 
-- **Title:** Tratamiento del linfoma folicular: decidir cuándo actuar y qué debe lograr el primer plan
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma folicular
-- **Subtitle:** Un diagnóstico de linfoma folicular no conduce a un único calendario estándar.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento del linfoma folicular en China: cuándo y cómo empezar
+- **Subtitle:** Comprenda cuándo iniciar tratamiento del linfoma folicular en China y cómo se valoran vigilancia, radioterapia y tratamiento sistémico según cada persona.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -104,3 +106,6 @@ La fiebre con escalofríos intensos, la dificultad respiratoria importante, la c
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento del linfoma folicular
+
+- **Meta title:** Tratamiento del linfoma folicular en China: cuándo y cómo empezar
+- **Meta description:** Comprenda cuándo iniciar tratamiento del linfoma folicular en China y cómo se valoran vigilancia, radioterapia y tratamiento sistémico según cada persona.

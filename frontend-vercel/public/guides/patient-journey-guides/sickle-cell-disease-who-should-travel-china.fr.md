@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Qui devrait se rendre en Chine pour des soins de drépanocytose ? Bénéfice clinique, stabilité et organisation de l’accueil
 - **Category:** Guides du parcours patient
 - **Subcategory:** Drépanocytose
-- **Subtitle:** Pour une personne atteinte de drépanocytose, décider de voyager en Chine pour des soins ne consiste pas seulement à demander s’il est possible de prendre l’avion.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Qui devrait se rendre en Chine pour des soins de drépanocytose ? Bénéfice clinique, stabilité et organisation de l’accueil
+- **Subtitle:** Avant des soins de drépanocytose en Chine, vérifiez le bénéfice attendu, la stabilité après une crise, les besoins en vol et l’organisation de l’accueil médical.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,3 +152,6 @@ Une nouvelle fièvre, une douleur thoracique, un essoufflement, une faiblesse ma
 ## SEO Metadata
 
 - **Primary keyword:** voyager en Chine pour le traitement de la drépanocytose
+
+- **Meta title:** Qui devrait se rendre en Chine pour des soins de drépanocytose ? Bénéfice clinique, stabilité et organisation de l’accueil
+- **Meta description:** Avant des soins de drépanocytose en Chine, vérifiez le bénéfice attendu, la stabilité après une crise, les besoins en vol et l’organisation de l’accueil médical.

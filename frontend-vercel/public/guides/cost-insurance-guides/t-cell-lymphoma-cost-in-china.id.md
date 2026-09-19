@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Berapa biaya pengobatan limfoma sel T di Tiongkok? Menyusun estimasi yang dapat dibandingkan dan diperbarui
 - **Category:** Panduan Biaya & Asuransi
 - **Subcategory:** Limfoma Sel T
-- **Subtitle:** Dua dokumen berlabel pengobatan limfoma sel T dapat menggambarkan layanan yang sangat berbeda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Berapa biaya pengobatan limfoma sel T di Tiongkok? Menyusun estimasi yang dapat dibandingkan dan diperbarui
+- **Subtitle:** Susun estimasi limfoma sel T di Tiongkok berdasarkan subtipe dan tahap terapi. Periksa resep, pemeriksaan, transplantasi, serta biaya lanjutan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Hindari mengubah tablet, memperpanjang interval, atau membeli pengganti yang bel
 ## SEO Metadata
 
 - **Primary keyword:** biaya pengobatan limfoma sel T di Tiongkok
+
+- **Meta title:** Berapa biaya pengobatan limfoma sel T di Tiongkok? Menyusun estimasi yang dapat dibandingkan dan diperbarui
+- **Meta description:** Susun estimasi limfoma sel T di Tiongkok berdasarkan subtipe dan tahap terapi. Periksa resep, pemeriksaan, transplantasi, serta biaya lanjutan.

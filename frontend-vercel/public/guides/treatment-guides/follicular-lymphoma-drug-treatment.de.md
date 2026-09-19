@@ -1,12 +1,14 @@
-# Medikamente beim follikulären Lymphom: Behandlungsschema, Therapielinie und Überwachung verstehen
+# Medikamente beim follikulären Lymphom in China: Schemata und Überwachung
 
 ## Hero
 
-- **Title:** Medikamente beim follikulären Lymphom: Behandlungsschema, Therapielinie und Überwachung verstehen
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Follikuläres Lymphom
-- **Subtitle:** Medikamente gegen das follikuläre Lymphom lassen sich nicht allein anhand der Bezeichnungen Chemotherapie, zielgerichtete Therapie oder Immuntherapie als gut oder schlecht einstufen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medikamente beim follikulären Lymphom in China: Schemata und Überwachung
+- **Subtitle:** Medikamente beim follikulären Lymphom in China einordnen: Antikörper, Chemotherapie, orale Mittel und unterstützende Verordnungen samt Überwachung prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Bewahren Sie tatsächliche Verabreichungsnachweise und unerwünschte Ereignisse 
 ## SEO Metadata
 
 - **Primary keyword:** medikamentöse Behandlung des follikulären Lymphoms
+
+- **Meta title:** Medikamente beim follikulären Lymphom in China: Schemata und Überwachung
+- **Meta description:** Medikamente beim follikulären Lymphom in China einordnen: Antikörper, Chemotherapie, orale Mittel und unterstützende Verordnungen samt Überwachung prüfen.

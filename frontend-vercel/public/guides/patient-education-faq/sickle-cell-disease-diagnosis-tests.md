@@ -1,12 +1,14 @@
-# Testing for Sickle Cell Disease: From a Screening Result to a Confirmed Diagnosis
+# Sickle Cell Diagnosis in China: Tests and Confirmation
 
 ## Hero
 
-- **Title:** Testing for Sickle Cell Disease: From a Screening Result to a Confirmed Diagnosis
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Sickle Cell Disease
-- **Subtitle:** A report stating that hemoglobin S, or HbS, was detected can raise questions in someone who has never felt unwell, or begin an important care pathway for a newborn.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sickle Cell Diagnosis in China: Tests and Confirmation
+- **Subtitle:** Understand how sickle cell screening leads to diagnostic confirmation, and organize blood, genetic and clinical records for evaluation in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ At the end of the diagnostic process, ask for a plain-language conclusion: the e
 ## SEO Metadata
 
 - **Primary keyword:** tests to diagnose sickle cell disease
+
+- **Meta title:** Sickle Cell Diagnosis in China: Tests and Confirmation
+- **Meta description:** Understand how sickle cell screening leads to diagnostic confirmation, and organize blood, genetic and clinical records for evaluation in China.

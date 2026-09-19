@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Elegir un hospital en China para el linfoma de células del manto: revisión especializada y continuidad de la atención
 - **Category:** Guías de hospitales
 - **Subcategory:** Linfoma de células del manto
-- **Subtitle:** Los pacientes suelen empezar a elegir un hospital para el LCM comparando reputaciones antes de definir la pregunta que la visita debe resolver.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Elegir un hospital en China para el linfoma de células del manto: revisión especializada y continuidad de la atención
+- **Subtitle:** Revise la experiencia en linfoma de células del manto de un hospital en China, desde la anatomía patológica hasta el tratamiento y la vigilancia continuada.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Cuando las opiniones difieran, establezca si ambos equipos revisaron los mismos 
 ## SEO Metadata
 
 - **Primary keyword:** hospitales para linfoma de células del manto en China
+
+- **Meta title:** Elegir un hospital en China para el linfoma de células del manto: revisión especializada y continuidad de la atención
+- **Meta description:** Revise la experiencia en linfoma de células del manto de un hospital en China, desde la anatomía patológica hasta el tratamiento y la vigilancia continuada.

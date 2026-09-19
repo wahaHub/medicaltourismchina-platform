@@ -1,15 +1,17 @@
-# 060 Mahkota dan Jembatan Gigi: Bahan, Pengobatan, dan Perawatan Lanjutan
+# Mahkota dan Jembatan Gigi di Tiongkok: Bahan dan Perawatan Lanjutan
 
 ## Hero
 
-- **Title:** Mahkota dan Jembatan Gigi: Bahan, Pengobatan, dan Perawatan Lanjutan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Kesehatan Gigi & Mulut
-- **Subtitle:** Tentukan apakah gigi membutuhkan penutupan penuh, bandingkan desain jembatan, dan nilai hasil berdasarkan ketepatan pemasangan, fungsi, serta kemudahan pemeliharaan—bukan label bahan saja.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Dokter gigi menjelaskan jembatan gigi tiga unit dan contoh bahan mahkota kepada pasien internasional
+
+
+- **Title:** Mahkota dan Jembatan Gigi di Tiongkok: Bahan dan Perawatan Lanjutan
+- **Subtitle:** Bandingkan mahkota, jembatan konvensional dan adhesif, desain gigi dengan saluran akar terisi, bahan keramik dan logam, pemeriksaan ketepatan, risiko, serta pemeliharaan di luar negeri.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -158,13 +160,15 @@ Sikat gigi biasa tidak dapat mencapai sisi bawah. Gunakan penuntun benang gigi, 
 ## SEO Metadata
 
 - **Slug:** `dental-crowns-and-bridges-materials-treatment-and-aftercare`
-- **Meta title:** Mahkota dan Jembatan Gigi | Bahan dan Perawatan Lanjutan
-- **Meta description:** Bandingkan mahkota, jembatan konvensional dan adhesif, desain gigi dengan saluran akar terisi, bahan keramik dan logam, pemeriksaan ketepatan, risiko, serta pemeliharaan di luar negeri.
 - **Primary keyword:** mahkota dan jembatan gigi
 - **Pillar keyword:** perawatan gigi di Tiongkok
 - **Vertical keyword:** kedokteran gigi restoratif untuk pasien internasional
 - **Search intent:** perbandingan pengobatan / perencanaan perawatan lanjutan
 - **Secondary keywords:** mahkota gigi Tiongkok; jembatan gigi Tiongkok; mahkota zirkonia; mahkota porselen menyatu dengan logam; jembatan adhesif; perawatan lanjutan mahkota; pembersihan jembatan
+
+
+- **Meta title:** Mahkota dan Jembatan Gigi di Tiongkok: Bahan dan Perawatan Lanjutan
+- **Meta description:** Bandingkan mahkota, jembatan konvensional dan adhesif, desain gigi dengan saluran akar terisi, bahan keramik dan logam, pemeriksaan ketepatan, risiko, serta pemeliharaan di luar negeri.
 
 ## Sumber
 

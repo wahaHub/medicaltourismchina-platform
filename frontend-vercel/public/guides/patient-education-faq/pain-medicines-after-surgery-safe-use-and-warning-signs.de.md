@@ -1,15 +1,17 @@
-# Schmerzmittel nach einer Operation: Schmerzen kontrollieren, ohne eine Komplikation zu verdecken
+# Schmerzmittel nach einer Operation in China: Dosierung und Sicherheit
 
 ## Hero
 
-- **Title:** Schmerzmittel nach einer Operation: Schmerzen kontrollieren, ohne eine Komplikation zu verdecken
 - **Category:** Patientenaufkl채rung & h채ufige Fragen
 - **Subcategory:** Medikamente
-- **Subtitle:** Wie Sie einen multimodalen Schmerzplan lesen, doppelte Wirkstoffe vermeiden, Opioide sicher anwenden und Schmerzen erkennen, die eine chirurgische Beurteilung statt einer weiteren Dosis erfordern.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Ein Chirurg bespricht mit einem Patienten neben mehreren beschrifteten Medikamentenbeh채ltern eine farblich gekennzeichnete postoperative Medikamentenliste
+
+
+- **Title:** Schmerzmittel nach einer Operation in China: Dosierung und Sicherheit
+- **Subtitle:** Erfahren Sie, wie Sie postoperative Schmerzmittel sicher kombinieren, doppelte Acetaminophen-Dosen vermeiden, Opioid체berdosierungen erkennen und erwartbare Schmerzen von einer chirurgischen Komplikation unterscheiden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -172,11 +174,13 @@ Rufen Sie unverz체glich an, wenn die Schmerzen rasch zunehmen, unverh채ltnism채�
 
 ## SEO Metadata
 
-- **SEO title:** Schmerzmittel nach Operationen: sichere Dosen und Warnzeichen
-- **Meta description:** Erfahren Sie, wie Sie postoperative Schmerzmittel sicher kombinieren, doppelte Acetaminophen-Dosen vermeiden, Opioid체berdosierungen erkennen und erwartbare Schmerzen von einer chirurgischen Komplikation unterscheiden.
 - **Primary keyword:** Schmerzmittel nach einer Operation
 - **Secondary keywords:** postoperativer Schmerzplan, Opioidsicherheit nach Operationen, doppelte Acetaminophen-Dosis, NSAR nach Operationen, Naloxon, zunehmende Schmerzen nach Operationen
 - **Suggested URL slug:** `/pain-medicine-after-surgery-safe-use-warning-signs`
+
+
+- **Meta title:** Schmerzmittel nach einer Operation in China: Dosierung und Sicherheit
+- **Meta description:** Erfahren Sie, wie Sie postoperative Schmerzmittel sicher kombinieren, doppelte Acetaminophen-Dosen vermeiden, Opioid체berdosierungen erkennen und erwartbare Schmerzen von einer chirurgischen Komplikation unterscheiden.
 
 ## Quellen
 

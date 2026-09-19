@@ -1,12 +1,14 @@
-# Effets indésirables des traitements d’Alzheimer : reconnaître les problèmes et obtenir l’aide adaptée
+# Traitement d’Alzheimer en Chine : effets indésirables et signes urgents
 
 ## Hero
 
-- **Title:** Effets indésirables des traitements d’Alzheimer : reconnaître les problèmes et obtenir l’aide adaptée
 - **Category:** Guides des traitements
 - **Subcategory:** Maladie d’Alzheimer
-- **Subtitle:** Une personne commence un traitement de la maladie d’Alzheimer, puis mange moins, dort pendant le déjeuner ou devient instable sur ses jambes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement d’Alzheimer en Chine : effets indésirables et signes urgents
+- **Subtitle:** Reconnaissez les effets indésirables des traitements d’Alzheimer, les signes urgents et les besoins de surveillance, notamment par IRM, pour des soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -111,3 +113,6 @@ Avant des soins en Chine ou un retour au domicile, transmettez les réactions an
 ## SEO Metadata
 
 - **Primary keyword:** effets indésirables des traitements d’Alzheimer
+
+- **Meta title:** Traitement d’Alzheimer en Chine : effets indésirables et signes urgents
+- **Meta description:** Reconnaissez les effets indésirables des traitements d’Alzheimer, les signes urgents et les besoins de surveillance, notamment par IRM, pour des soins en Chine.

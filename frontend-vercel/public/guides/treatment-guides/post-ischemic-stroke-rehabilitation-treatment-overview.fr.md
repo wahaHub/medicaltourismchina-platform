@@ -1,12 +1,14 @@
-# Réadaptation après un AVC ischémique : des soins hospitaliers à la vie quotidienne
+# Réadaptation après AVC ischémique en Chine : de l’hôpital au domicile
 
 ## Hero
 
-- **Title:** Réadaptation après un AVC ischémique : des soins hospitaliers à la vie quotidienne
 - **Category:** Guides des traitements
 - **Subcategory:** Réadaptation après un AVC ischémique
-- **Subtitle:** Après un AVC ischémique, les proches demandent souvent si un bras ou une jambe va récupérer.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Réadaptation après AVC ischémique en Chine : de l’hôpital au domicile
+- **Subtitle:** Préparez une réadaptation post-AVC en Chine associant stabilité médicale, bilan fonctionnel, déglutition et exercices utiles aux activités quotidiennes.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ La récupération peut progresser à des vitesses différentes selon les capacit
 ## SEO Metadata
 
 - **Primary keyword:** réadaptation après AVC ischémique
+
+- **Meta title:** Réadaptation après AVC ischémique en Chine : de l’hôpital au domicile
+- **Meta description:** Préparez une réadaptation post-AVC en Chine associant stabilité médicale, bilan fonctionnel, déglutition et exercices utiles aux activités quotidiennes.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Biaya Pengobatan Penyakit Sel Sabit di Tiongkok: Memeriksa Anggaran Obat, Transfusi, dan Transplantasi
 - **Category:** Panduan Biaya & Asuransi
 - **Subcategory:** Penyakit Sel Sabit
-- **Subtitle:** Biaya perawatan penyakit sel sabit di Tiongkok terutama bergantung pada apa yang perlu dicapai pasien.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Biaya Pengobatan Penyakit Sel Sabit di Tiongkok: Memeriksa Anggaran Obat, Transfusi, dan Transplantasi
+- **Subtitle:** Rencanakan anggaran sel sabit di Tiongkok berdasarkan tujuan klinis. Periksa komponen obat, transfusi, transplantasi, pemantauan, dan tindak lanjut.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -154,3 +156,6 @@ Saat membandingkan dua estimasi, periksa dahulu apakah keduanya membahas tujuan 
 ## SEO Metadata
 
 - **Primary keyword:** biaya pengobatan penyakit sel sabit di Tiongkok
+
+- **Meta title:** Biaya Pengobatan Penyakit Sel Sabit di Tiongkok: Memeriksa Anggaran Obat, Transfusi, dan Transplantasi
+- **Meta description:** Rencanakan anggaran sel sabit di Tiongkok berdasarkan tujuan klinis. Periksa komponen obat, transfusi, transplantasi, pemantauan, dan tindak lanjut.

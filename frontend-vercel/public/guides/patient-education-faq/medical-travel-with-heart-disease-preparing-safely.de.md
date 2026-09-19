@@ -1,15 +1,17 @@
-# Medizinische Reisen mit Herzerkrankung: Die Stabilität muss dem Reiseablauf standhalten
+# Behandlungsreisen nach China mit Herzerkrankung: Vorbereitung
 
 ## Hero
 
-- **Title:** Medizinische Reisen mit Herzerkrankung: Die Stabilität muss dem Reiseablauf standhalten
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Chronische Erkrankungen & Reisen
-- **Subtitle:** Ein auf die Reiseroute abgestimmter Plan für koronare Herzkrankheit, Herzinsuffizienz, Rhythmusstörungen, kürzlich erfolgte Eingriffe, Herzgeräte, Sauerstoff und Notfälle unterwegs.
 - **Reviewed by:** Redaktion von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Ein Paar prüft vor dem Flug zu einem Krankenhaus eine kardiologische Zusammenfassung, Medikamente und einen Behandlungskalender
+
+
+- **Title:** Behandlungsreisen nach China mit Herzerkrankung: Vorbereitung
+- **Subtitle:** Vorbereitung auf medizinische Reisen mit Herzerkrankung: Freigabe, EKG-Unterlagen, Medikamente, Sauerstoff, Herzgeräte, Gerinnselrisiko und Notfallmaßnahmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Neuer oder zunehmender Druck in der Brust, schwere Atemnot, Ohnmacht, anhaltendes Herzklopfen mit Schwäche, Schlaganfallsymptome oder ein Schock eines implantierten Defibrillators mit fortbestehenden Beschwerden erfordern dringende Versorgung vor Ort.
 
 ## Content
+
+Wenn Sie eine Herzerkrankung haben und eine Behandlungsreise nach China erwägen, bringen Sie die genaue Diagnose, kürzlich aufgetretene Ereignisse und die vollständige Reiseroute zur Untersuchung vor der Reise mit. Der Plan sollte die kontinuierliche Medikamentenversorgung, Unterstützung beim Umsteigen und Vorgehensweisen bei veränderten Beschwerden vor oder während der Reise abdecken.
+
 
 Ein ruhiger Praxisbesuch beweist nicht, dass ein Patient zwei Flughäfen, einen verpassten Anschluss und eine fremde Stadt bewältigen kann. Eine kardiologische Reisefreigabe sollte den Reiseablauf an der aktuellen Belastungsreserve des Patienten messen und einen Plan für Probleme enthalten.
 
@@ -104,11 +109,13 @@ Neuer Brustdruck, schwere Atemnot, Ohnmacht, Schlaganfallzeichen, anhaltendes sy
 
 ## SEO Metadata
 
-- **SEO title:** Medizinische Reisen mit Herzerkrankung: Sichere Vorbereitung
-- **Meta description:** Vorbereitung auf medizinische Reisen mit Herzerkrankung: Freigabe, EKG-Unterlagen, Medikamente, Sauerstoff, Herzgeräte, Gerinnselrisiko und Notfallmaßnahmen.
 - **Primary keyword:** medizinische Reisen mit Herzerkrankung
 - **Secondary keywords:** Fliegen mit Herzerkrankung, Reisen nach Herzstent, Flugreisen bei Herzinsuffizienz, Herzschrittmacher Flughafensicherheit, kardiologische Reisefreigabe
 - **Suggested URL slug:** `/medical-travel-heart-disease-safely`
+
+
+- **Meta title:** Behandlungsreisen nach China mit Herzerkrankung: Vorbereitung
+- **Meta description:** Vorbereitung auf medizinische Reisen mit Herzerkrankung: Freigabe, EKG-Unterlagen, Medikamente, Sauerstoff, Herzgeräte, Gerinnselrisiko und Notfallmaßnahmen.
 
 ## Quellen
 

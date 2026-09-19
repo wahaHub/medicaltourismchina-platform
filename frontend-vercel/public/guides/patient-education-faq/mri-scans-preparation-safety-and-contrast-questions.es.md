@@ -1,15 +1,17 @@
-# Resonancia magnética en China: tarjeta del implante, decisión sobre el contraste y plan para la claustrofobia antes del día de la exploración
+# Resonancia magnética en China: implantes, contraste y claustrofobia
 
 ## Hero
 
-- **Title:** Resonancia magnética en China: tarjeta del implante, decisión sobre el contraste y plan para la claustrofobia antes del día de la exploración
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Pruebas y diagnóstico
-- **Subtitle:** Guía práctica de la evaluación de seguridad magnética, las preguntas sobre el gadolinio, la preparación para el día de la exploración y la obtención de imágenes utilizables después del examen.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un profesional sanitario explica un equipo de resonancia magnética con símbolos de seguridad magnética y contraste intravenoso
+
+
+- **Title:** Resonancia magnética en China: implantes, contraste y claustrofobia
+- **Subtitle:** Prepárese para una resonancia magnética en China con datos verificados del implante, preguntas sobre contraste y riñón, evaluación del embarazo, planificación de la claustrofobia y obtención de DICOM.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -165,13 +167,15 @@ Las recomendaciones profesionales generalmente respaldan continuar la lactancia 
 ## SEO Metadata
 
 - **Slug:** `mri-scans-preparation-safety-and-contrast-questions`
-- **Meta title:** Preparación para la resonancia magnética: implantes, gadolinio y claustrofobia
-- **Meta description:** Prepárese para una resonancia magnética en China con datos verificados del implante, preguntas sobre contraste y riñón, evaluación del embarazo, planificación de la claustrofobia y obtención de DICOM.
 - **Primary keyword:** preparación y seguridad de la resonancia magnética
 - **Pillar keyword:** diagnóstico por imagen en China
 - **Vertical keyword:** preguntas sobre implantes y gadolinio en resonancia magnética
 - **Search intent:** orientación para preparar pruebas de imagen
 - **Secondary keywords:** implante MR Conditional; gadolinio y riñón en resonancia magnética; sedación para claustrofobia en resonancia magnética; resonancia magnética en el embarazo; DICOM de resonancia magnética en China
+
+
+- **Meta title:** Resonancia magnética en China: implantes, contraste y claustrofobia
+- **Meta description:** Prepárese para una resonancia magnética en China con datos verificados del implante, preguntas sobre contraste y riñón, evaluación del embarazo, planificación de la claustrofobia y obtención de DICOM.
 
 ## Fuentes
 

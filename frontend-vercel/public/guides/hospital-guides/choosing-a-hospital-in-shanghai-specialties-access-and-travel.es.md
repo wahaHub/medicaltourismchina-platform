@@ -1,15 +1,17 @@
-# 102 Elegir un hospital en Shanghái: especialidades, acceso y viaje
+# Elegir un hospital en China: acceso y viajes en Shanghái
 
 ## Hero
 
-- **Title:** Elegir un hospital en Shanghái: especialidades, acceso y viaje
 - **Category:** Guías de hospitales
 - **Subcategory:** Planificación de atención en Shanghái
-- **Subtitle:** Convierta el nombre de un hospital de Shanghái en una vía clínica verificada, un itinerario de sedes exactas y un plan viable desde la llegada hasta el alta.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustración conceptual de viajeros internacionales que planifican el acceso hospitalario en Shanghái; el perfil urbano, el símbolo ferroviario y el hospital no muestran una sede ni una ruta reales.
+
+
+- **Title:** Elegir un hospital en China: acceso y viajes en Shanghái
+- **Subtitle:** Construya una ruta médica segura en Shanghái verificando equipo especializado, sedes exactas, servicio internacional, identidad de pasaporte, pago, aeropuertos y traspaso al alta.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -248,13 +250,15 @@ Pregunte si el hospital puede agruparlas. Si no, trace traslados de puerta a pue
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-shanghai-specialties-access-and-travel`
-- **Meta title:** Elegir un hospital en Shanghái: sedes, acceso y viaje
-- **Meta description:** Construya una ruta médica segura en Shanghái verificando equipo especializado, sedes exactas, servicio internacional, identidad de pasaporte, pago, aeropuertos y traspaso al alta.
 - **Primary keyword:** elegir un hospital en Shanghái
 - **Pillar keyword:** hospitales de Shanghái para pacientes internacionales
 - **Vertical keyword:** acceso y viaje a sedes hospitalarias de Shanghái
 - **Search intent:** comparación de hospitales / planificación de viajes médicos
 - **Secondary keywords:** servicio médico internacional Shanghái; cita hospitalaria Shanghái pasaporte; reserva hospitalaria Suishenban; viaje hospitalario Pudong Hongqiao; sede hospitalaria Shanghái
+
+
+- **Meta title:** Elegir un hospital en China: acceso y viajes en Shanghái
+- **Meta description:** Construya una ruta médica segura en Shanghái verificando equipo especializado, sedes exactas, servicio internacional, identidad de pasaporte, pago, aeropuertos y traspaso al alta.
 
 ## Fuentes
 

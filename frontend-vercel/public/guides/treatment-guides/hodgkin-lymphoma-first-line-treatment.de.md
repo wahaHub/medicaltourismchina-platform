@@ -1,12 +1,14 @@
-# Die Erstlinienbehandlung beim Hodgkin-Lymphom wählen: Ein praktischer Entscheidungsratgeber
+# Erstlinientherapie beim Hodgkin-Lymphom in China: Entscheidungen
 
 ## Hero
 
-- **Title:** Die Erstlinienbehandlung beim Hodgkin-Lymphom wählen: Ein praktischer Entscheidungsratgeber
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Hodgkin-Lymphom
-- **Subtitle:** Die Erstlinienbehandlung ist der erste vollständige Behandlungspfad für die aktuelle Hodgkin-Lymphom-Diagnose.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Erstlinientherapie beim Hodgkin-Lymphom in China: Entscheidungen
+- **Subtitle:** Erstlinientherapie beim Hodgkin-Lymphom in China besprechen: Stadium, vollständiges Schema, Bestrahlung, Fruchtbarkeit und PET-Entscheidungspunkte berücksichtigen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Bitten Sie beim Vergleich zweier Erstlinienempfehlungen beide Teams, dieselben F
 ## SEO Metadata
 
 - **Primary keyword:** Erstlinienbehandlung Hodgkin-Lymphom
+
+- **Meta title:** Erstlinientherapie beim Hodgkin-Lymphom in China: Entscheidungen
+- **Meta description:** Erstlinientherapie beim Hodgkin-Lymphom in China besprechen: Stadium, vollständiges Schema, Bestrahlung, Fruchtbarkeit und PET-Entscheidungspunkte berücksichtigen.

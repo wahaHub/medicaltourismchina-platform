@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Suivi après des soins pour la sclérose en plaques en Chine : relier les résultats aux décisions
 - **Category:** Guides du parcours patient
 - **Subcategory:** Sclérose en plaques
-- **Subtitle:** La lacune la plus lourde de conséquences après une consultation à l’étranger n’est souvent pas une analyse sanguine oubliée.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Suivi après des soins pour la sclérose en plaques en Chine : relier les résultats aux décisions
+- **Subtitle:** Après des soins de sclérose en plaques en Chine, reliez surveillance des médicaments, bilan de réponse et nouveaux symptômes à des décisions de suivi précises.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -104,3 +106,6 @@ Un suivi réalisable aboutit à des responsabilités nominatives et des consigne
 ## SEO Metadata
 
 - **Primary keyword:** suivi de la sclérose en plaques après traitement en Chine
+
+- **Meta title:** Suivi après des soins pour la sclérose en plaques en Chine : relier les résultats aux décisions
+- **Meta description:** Après des soins de sclérose en plaques en Chine, reliez surveillance des médicaments, bilan de réponse et nouveaux symptômes à des décisions de suivi précises.

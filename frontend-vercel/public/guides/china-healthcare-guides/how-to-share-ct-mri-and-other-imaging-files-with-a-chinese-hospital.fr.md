@@ -1,15 +1,17 @@
-# 019 Comment partager des fichiers de scanner, d’IRM et d’autres examens d’imagerie avec un hôpital chinois
+# Partager des fichiers de scanner et d’IRM avec un hôpital en Chine
 
 ## Hero
 
-- **Title:** Comment partager des fichiers de scanner, d’IRM et d’autres examens d’imagerie avec un hôpital chinois
 - **Category:** Guides des soins de santé en Chine
 - **Subcategory:** Imagerie et dossiers médicaux
-- **Subtitle:** Envoyez l’examen diagnostique complet, le compte rendu et la question clinique — pas quelques captures d’écran impossibles à faire défiler, mesurer ou comparer.
 - **Reviewed by:** Équipe éditoriale de Medora Health ; relecture radiologique et de sécurité de l’information requise avant publication
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un radiologue chinois discute d’imagerie en coupes avec un patient international
+
+
+- **Title:** Partager des fichiers de scanner et d’IRM avec un hôpital en Chine
+- **Subtitle:** Exportez des examens DICOM complets, vérifiez les séries, protégez les données du patient et confirmez l’importation et la relecture radiologique en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -244,13 +246,15 @@ Demandez le radiologue ou l’équipe de relecture, la forme du résultat et la 
 ## SEO Metadata
 
 - **Slug:** `how-to-share-ct-mri-and-other-imaging-files-with-a-chinese-hospital`
-- **Meta title:** Partager des fichiers de scanner et d’IRM avec un hôpital chinois
-- **Meta description:** Exportez des examens DICOM complets, vérifiez les séries, protégez les données du patient et confirmez l’importation et la relecture radiologique en Chine.
 - **Primary keyword:** envoyer DICOM à un hôpital chinois
 - **Pillar keyword:** soins de santé en Chine pour les patients internationaux
 - **Vertical keyword:** partager fichiers scanner IRM Chine
 - **Search intent:** information / préparation technique
 - **Secondary keywords:** téléversement DICOM hôpital Chine ; deuxième avis scanner Chine ; transfert fichiers IRM Chine
+
+
+- **Meta title:** Partager des fichiers de scanner et d’IRM avec un hôpital en Chine
+- **Meta description:** Exportez des examens DICOM complets, vérifiez les séries, protégez les données du patient et confirmez l’importation et la relecture radiologique en Chine.
 
 ## Sources
 

@@ -1,15 +1,17 @@
-# 139 Dolor después de un procedimiento: establezca un objetivo funcional y un límite para el rescate
+# Dolor después de un procedimiento en China: preguntas y señales de alarma
 
 ## Hero
 
-- **Title:** Dolor después de un procedimiento: establezca un objetivo funcional y un límite para el rescate
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Dolor agudo, seguridad de la medicación y recuperación funcional
-- **Subtitle:** Una buena atención del dolor no persigue un cero en la escala. Identifica el patrón del dolor, favorece la respiración y el movimiento, limita los daños del tratamiento y define cuándo el plan habitual deja de ser suficiente.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Representación conceptual de un médico que habla de un plan de dolor posoperatorio con un paciente y un acompañante; la imagen no muestra dolor activo, un medicamento específico ni un resultado esperado de recuperación.
+
+
+- **Title:** Dolor después de un procedimiento en China: preguntas y señales de alarma
+- **Subtitle:** Elabore un plan de dolor posoperatorio en torno al patrón del dolor, objetivos funcionales, tratamiento multimodal, reglas de rescate, vigilancia de la sedación y una transición segura a casa.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -197,13 +199,15 @@ Depende del medicamento y de las normas de medicamentos controlados e importaci�
 ## SEO Metadata
 
 - **Slug:** `pain-management-after-a-procedure-questions-to-ask`
-- **Meta title:** Dolor después de un procedimiento | Preguntas y comprobaciones de seguridad
-- **Meta description:** Elabore un plan de dolor posoperatorio en torno al patrón del dolor, objetivos funcionales, tratamiento multimodal, reglas de rescate, vigilancia de la sedación y una transición segura a casa.
 - **Primary keyword:** manejo del dolor después de procedimiento China
 - **Pillar keyword:** viaje médico a China
 - **Vertical keyword:** plan de dolor posoperatorio paciente internacional
 - **Search intent:** planificación de recuperación / seguridad de la medicación
 - **Secondary keywords:** dolor posoperatorio China; analgesia multimodal; seguridad de PCA; seguridad de opioides después de cirugía; plan de rescate para el dolor
+
+
+- **Meta title:** Dolor después de un procedimiento en China: preguntas y señales de alarma
+- **Meta description:** Elabore un plan de dolor posoperatorio en torno al patrón del dolor, objetivos funcionales, tratamiento multimodal, reglas de rescate, vigilancia de la sedación y una transición segura a casa.
 
 ## Fuentes
 
@@ -213,4 +217,3 @@ Depende del medicamento y de las normas de medicamentos controlados e importaci�
 4. [Centros para el Control y la Prevención de Enfermedades de Estados Unidos — Guía de práctica clínica para la prescripción de opioides para el dolor (2022)](https://www.cdc.gov/mmwr/volumes/71/rr/rr7103a1.htm)
 5. [Administración de Alimentos y Medicamentos de Estados Unidos — Hablar de naloxona con pacientes a quienes se recetan opioides](https://www.fda.gov/drugs/drug-safety-communications/fda-recommends-health-care-professionals-discuss-naloxone-all-patients-when-prescribing-opioid-pain)
 6. [Comisión Nacional de Salud — Plan de acción para seguir mejorando los servicios de enfermería (2023–2025)](https://www.nhc.gov.cn/yzygj/c100068/202306/8fe28be0f8e241cb8444b4f242706495.shtml)
-

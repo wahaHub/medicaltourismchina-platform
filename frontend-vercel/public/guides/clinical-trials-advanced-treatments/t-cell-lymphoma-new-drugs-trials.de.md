@@ -1,12 +1,14 @@
-# Neue Medikamente und Studien beim T-Zell-Lymphom 2026: Aus einer Forschungsmeldung eine überprüfbare Option machen
+# Neue Medikamente und Studien beim T-Zell-Lymphom: Zugang in China prüfen
 
 ## Hero
 
-- **Title:** Neue Medikamente und Studien beim T-Zell-Lymphom 2026: Aus einer Forschungsmeldung eine überprüfbare Option machen
 - **Category:** Klinische Studien und fortschrittliche Behandlungen
 - **Subcategory:** T-Zell-Lymphom
-- **Subtitle:** Eine Meldung kann die erste Prüfung am Menschen, längere Nachbeobachtung, die Zulassung in einem anderen Land oder die Rekrutierung an einem Krankenhaus ankündigen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Neue Medikamente und Studien beim T-Zell-Lymphom: Zugang in China prüfen
+- **Subtitle:** Neue Studien beim T-Zell-Lymphom für eine Behandlung in China prüfen: Subtyp, Vorbehandlung, Aussagekraft der Ergebnisse und Teilnahmebedingungen berücksichtigen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -118,3 +120,6 @@ Halten Sie am Ende einer Anfrage Studienkennung, die Person, die den Status best
 ## SEO Metadata
 
 - **Primary keyword:** neue Medikamente und klinische Studien beim T-Zell-Lymphom
+
+- **Meta title:** Neue Medikamente und Studien beim T-Zell-Lymphom: Zugang in China prüfen
+- **Meta description:** Neue Studien beim T-Zell-Lymphom für eine Behandlung in China prüfen: Subtyp, Vorbehandlung, Aussagekraft der Ergebnisse und Teilnahmebedingungen berücksichtigen.

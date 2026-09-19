@@ -1,12 +1,14 @@
-# How Long Does Sickle Cell Treatment Take? Medicines, Transfusions, Recovery, and Travel Planning
+# Sickle Cell Treatment in China: Timelines and Travel Planning
 
 ## Hero
 
-- **Title:** How Long Does Sickle Cell Treatment Take? Medicines, Transfusions, Recovery, and Travel Planning
 - **Category:** Treatment Guides
 - **Subcategory:** Sickle Cell Disease
-- **Subtitle:** Patients often need to arrange school leave, work cover, travel, or a caregiver before treatment, so asking how long it will take is a practical concern.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sickle Cell Treatment in China: Timelines and Travel Planning
+- **Subtitle:** Plan sickle cell care in China around the actual medicines, transfusions, procedures and recovery needs rather than one standard treatment duration.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,3 +146,6 @@ Families can then arrange work handover, child care, and finances with room for 
 ## SEO Metadata
 
 - **Primary keyword:** sickle cell disease treatment duration
+
+- **Meta title:** Sickle Cell Treatment in China: Timelines and Travel Planning
+- **Meta description:** Plan sickle cell care in China around the actual medicines, transfusions, procedures and recovery needs rather than one standard treatment duration.

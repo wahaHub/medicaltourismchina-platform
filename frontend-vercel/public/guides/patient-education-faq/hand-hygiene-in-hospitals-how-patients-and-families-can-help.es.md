@@ -1,15 +1,17 @@
-# Higiene de manos en el hospital: los pacientes pueden preguntar sin vigilar la planta
+# Higiene de manos en hospitales de China: guía para pacientes y familias
 
 ## Hero
 
-- **Title:** Higiene de manos en el hospital: los pacientes pueden preguntar sin vigilar la planta
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Prevención de infecciones
-- **Subtitle:** Una guía práctica sobre los momentos clínicos importantes, el desinfectante frente al agua y jabón, el uso de guantes, los hábitos de las visitas y las formas respetuosas de expresar inquietudes.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Una enfermera del hospital explica las precauciones de higiene de manos a un paciente junto a un símbolo destacado de lavado de manos
+
+
+- **Title:** Higiene de manos en hospitales de China: guía para pacientes y familias
+- **Subtitle:** Sepa cuándo deben limpiarse las manos el personal hospitalario, los pacientes y las visitas, cuándo se prefiere desinfectante o jabón, por qué los guantes no bastan y cómo hablar con respeto.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -168,11 +170,13 @@ Solo si el equipo clínico ha enseñado y autorizado formalmente una tarea de cu
 
 ## SEO Metadata
 
-- **SEO title:** Higiene de manos en el hospital: guía para pacientes y familias
-- **Meta description:** Sepa cuándo deben limpiarse las manos el personal hospitalario, los pacientes y las visitas, cuándo se prefiere desinfectante o jabón, por qué los guantes no bastan y cómo hablar con respeto.
 - **Primary keyword:** higiene de manos en hospitales
 - **Secondary keywords:** cinco momentos higiene de manos, desinfectante frente a jabón hospital, guantes e higiene de manos, prevención de infecciones del paciente, lavado de manos C difficile, pedir al médico que se lave las manos
 - **Suggested URL slug:** `/hospital-hand-hygiene-patients-families`
+
+
+- **Meta title:** Higiene de manos en hospitales de China: guía para pacientes y familias
+- **Meta description:** Sepa cuándo deben limpiarse las manos el personal hospitalario, los pacientes y las visitas, cuándo se prefiere desinfectante o jabón, por qué los guantes no bastan y cómo hablar con respeto.
 
 ## Fuentes
 

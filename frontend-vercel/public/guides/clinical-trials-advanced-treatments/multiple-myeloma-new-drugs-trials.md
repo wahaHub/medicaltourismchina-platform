@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** New myeloma drugs and clinical trials: evaluating options in China in 2026
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Multiple Myeloma
-- **Subtitle:** A myeloma headline may describe a new molecule, a new combination of familiar medicines or an earlier treatment setting.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** New myeloma drugs and clinical trials: evaluating options in China in 2026
+- **Subtitle:** Compare new myeloma drug and trial evidence with your treatment history, then verify China indications, eligibility and practical access.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ After screening, reconfirm the visit schedule, treatment date and responsibiliti
 ## SEO Metadata
 
 - **Primary keyword:** new multiple myeloma treatments and clinical trials in China
+
+- **Meta title:** New myeloma drugs and clinical trials: evaluating options in China in 2026
+- **Meta description:** Compare new myeloma drug and trial evidence with your treatment history, then verify China indications, eligibility and practical access.

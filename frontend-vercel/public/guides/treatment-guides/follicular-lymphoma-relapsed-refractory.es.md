@@ -1,12 +1,14 @@
-# Linfoma folicular recidivante o refractario: confirme qué cambió antes de elegir la siguiente línea
+# Linfoma folicular en recaída en China: revisión y siguiente línea de atención
 
 ## Hero
 
-- **Title:** Linfoma folicular recidivante o refractario: confirme qué cambió antes de elegir la siguiente línea
 - **Category:** Guías de tratamientos
 - **Subcategory:** Linfoma folicular
-- **Subtitle:** Volver a encontrar un ganglio después del tratamiento no exige automáticamente repetir el régimen anterior, ni significa que se hayan agotado las opciones útiles.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Linfoma folicular en recaída en China: revisión y siguiente línea de atención
+- **Subtitle:** Prepare una revisión de linfoma folicular en recaída en China para confirmar los cambios, valorar nueva biopsia y comparar opciones según tratamientos previos.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Elabore una historia fechada de los cursos previos y la medicación actual, y es
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento del linfoma folicular recidivante refractario
+
+- **Meta title:** Linfoma folicular en recaída en China: revisión y siguiente línea de atención
+- **Meta description:** Prepare una revisión de linfoma folicular en recaída en China para confirmar los cambios, valorar nueva biopsia y comparar opciones según tratamientos previos.

@@ -1,15 +1,17 @@
-# Bluttests vor der Behandlung: Warum sie wiederholt werden, ob Sie nüchtern sein müssen und wie Ergebnisse den Plan verändern
+# Bluttests in China: Nüchternheit, Wiederholungen und Ergebnisse
 
 ## Hero
 
-- **Title:** Bluttests vor der Behandlung: Warum sie wiederholt werden, ob Sie nüchtern sein müssen und wie Ergebnisse den Plan verändern
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Untersuchungen & Diagnose
-- **Subtitle:** Ein verständlicher Leitfaden zu Blutuntersuchungen vor der Behandlung, Vorbereitung, internationalen Befunden, erneuten Blutentnahmen und den Entscheidungen hinter einem auffälligen Ergebnis.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Geplantes Ersatzbild mit beschrifteter Blutprobe, Laborbericht, Medikamentenliste und Sicherheitscheckliste vor der Behandlung
+
+
+- **Title:** Bluttests in China: Nüchternheit, Wiederholungen und Ergebnisse
+- **Subtitle:** Verstehen Sie Blutbild, klinische Chemie und Gerinnungstests, Nüchternheit und Medikamente, die Nutzung ausländischer Befunde, erneute Entnahmen und Folgen auffälliger Ergebnisse.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -173,13 +175,15 @@ Bei Entnahme/Handhabung können Zellen zerfallen sein, oder ein Röhrchen mit Ge
 ## SEO Metadata
 
 - **Slug:** `blood-tests-before-treatment-common-questions-answered`
-- **Meta title:** Bluttests vor der Behandlung: Nüchternheit, Wiederholungen und Ergebnisse
-- **Meta description:** Verstehen Sie Blutbild, klinische Chemie und Gerinnungstests, Nüchternheit und Medikamente, die Nutzung ausländischer Befunde, erneute Entnahmen und Folgen auffälliger Ergebnisse.
 - **Primary keyword:** Bluttests vor der Behandlung
 - **Pillar keyword:** Untersuchungen vor medizinischer Behandlung in China
 - **Vertical keyword:** Nüchternheit und wiederholte Bluttests
 - **Search intent:** Vorbereitung auf Untersuchungen vor der Behandlung
 - **Secondary keywords:** Blutbild vor Behandlung; erneuter Bluttest Krankenhaus China; Nüchternbluttest Medikamente; auffälliger Laborwert; internationale Laborberichtseinheiten
+
+
+- **Meta title:** Bluttests in China: Nüchternheit, Wiederholungen und Ergebnisse
+- **Meta description:** Verstehen Sie Blutbild, klinische Chemie und Gerinnungstests, Nüchternheit und Medikamente, die Nutzung ausländischer Befunde, erneute Entnahmen und Folgen auffälliger Ergebnisse.
 
 ## Quellen
 

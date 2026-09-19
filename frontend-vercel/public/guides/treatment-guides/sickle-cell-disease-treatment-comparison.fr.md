@@ -1,12 +1,14 @@
-# Comparer les traitements de la drépanocytose : médicaments, transfusion, greffe et thérapie génique
+# Traitements de la drépanocytose : adéquation et accès en Chine
 
 ## Hero
 
-- **Title:** Comparer les traitements de la drépanocytose : médicaments, transfusion, greffe et thérapie génique
 - **Category:** Guides des traitements
 - **Subcategory:** Drépanocytose
-- **Subtitle:** Choisir entre l’hydroxyurée, les transfusions régulières, la greffe de cellules souches d’un donneur et la thérapie génique ne consiste pas simplement à rechercher le traitement le plus récent.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitements de la drépanocytose : adéquation et accès en Chine
+- **Subtitle:** Comparez médicaments, transfusions, greffe et thérapie génique de la drépanocytose selon leurs objectifs, risques et exigences de suivi pour des soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ Ramenez la discussion finale à la vie ordinaire. À quelle fréquence faudra-t-
 ## SEO Metadata
 
 - **Primary keyword:** comparaison des traitements de la drépanocytose
+
+- **Meta title:** Traitements de la drépanocytose : adéquation et accès en Chine
+- **Meta description:** Comparez médicaments, transfusions, greffe et thérapie génique de la drépanocytose selon leurs objectifs, risques et exigences de suivi pour des soins en Chine.

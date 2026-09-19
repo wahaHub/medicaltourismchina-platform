@@ -1,12 +1,14 @@
-# Prognosis epilepsi resistan obat: bebas kejang, perbaikan bermakna dan tinjauan jangka panjang
+# Prognosis Epilepsi Resistan Obat: Pertanyaan untuk Perawatan di Tiongkok
 
 ## Hero
 
-- **Title:** Prognosis epilepsi resistan obat: bebas kejang, perbaikan bermakna dan tinjauan jangka panjang
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Epilepsi Resistan Obat
-- **Subtitle:** Prognosis epilepsi resistan obat: bebas kejang, perbaikan bermakna dan tinjauan jangka panjang
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prognosis Epilepsi Resistan Obat: Pertanyaan untuk Perawatan di Tiongkok
+- **Subtitle:** Bedakan bebas kejang, penurunan frekuensi, dan perbaikan kualitas hidup pada epilepsi resistan obat. Siapkan pertanyaan prognosis untuk tim di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ Ketika tujuan belum tercapai, respons dapat melibatkan memperjelas penyebab, men
 ## SEO Metadata
 
 - **Primary keyword:** prognosis epilepsi resistan obat; luaran pengobatan epilepsi; bebas kejang berkelanjutan; penilaian luaran epilepsi di Tiongkok
+
+- **Meta title:** Prognosis Epilepsi Resistan Obat: Pertanyaan untuk Perawatan di Tiongkok
+- **Meta description:** Bedakan bebas kejang, penurunan frekuensi, dan perbaikan kualitas hidup pada epilepsi resistan obat. Siapkan pertanyaan prognosis untuk tim di Tiongkok.

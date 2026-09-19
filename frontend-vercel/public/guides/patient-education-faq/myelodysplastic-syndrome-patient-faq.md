@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Twenty Questions About Myelodysplastic Syndrome: Diagnosis, Transfusions, Medicines, Transplant and Care in China
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Myelodysplastic Syndrome
-- **Subtitle:** One person with MDS may have regular checkups, another needs repeated transfusions and another is advised to discuss transplantation.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Twenty Questions About Myelodysplastic Syndrome: Diagnosis, Transfusions, Medicines, Transplant and Care in China
+- **Subtitle:** Answers to 20 MDS questions covering diagnosis, transfusions, medicines, transplantation, costs and continuing care after treatment in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ These answers help prepare a consultation; diagnosis and prescriptions require a
 ## SEO Metadata
 
 - **Primary keyword:** myelodysplastic syndrome patient questions
+
+- **Meta title:** Twenty Questions About Myelodysplastic Syndrome: Diagnosis, Transfusions, Medicines, Transplant and Care in China
+- **Meta description:** Answers to 20 MDS questions covering diagnosis, transfusions, medicines, transplantation, costs and continuing care after treatment in China.

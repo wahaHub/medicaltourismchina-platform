@@ -1,15 +1,17 @@
-# 120 Koordinasi Pemulangan dan Tindak Lanjut di Luar Negeri dari Rumah Sakit Tiongkok: “Terkirim” Bukan “Diterima”
+# Pemulangan dari Rumah Sakit di Tiongkok: Merencanakan Tindak Lanjut di Luar Negeri
 
 ## Hero
 
-- **Title:** Koordinasi Pemulangan dan Tindak Lanjut di Luar Negeri dari Rumah Sakit Tiongkok: “Terkirim” Bukan “Diterima”
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Pemulangan dan Tindak Lanjut Lintas Negara
-- **Subtitle:** Pemulangan yang aman baru tuntas ketika pasien stabil, perjalanan dinilai secara terpisah, rekam medis dapat digunakan, hasil tertunda memiliki penanggung jawab, dan dokter di negara asal menerima tugas berikutnya.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Ilustrasi konseptual pertemuan pemulangan dengan pasien internasional, koper, koordinator, kalender, rute, dan kontak tindak lanjut; bukan rumah sakit nyata, izin terbang, rekam medis, atau jaminan.
+
+
+- **Title:** Pemulangan dari Rumah Sakit di Tiongkok: Merencanakan Tindak Lanjut di Luar Negeri
+- **Subtitle:** Tuntaskan pemulangan rumah sakit Tiongkok dengan aman melalui rekonsiliasi obat, rekam sumber, penanggung jawab hasil tertunda, penilaian kelayakan perjalanan, dan serah terima dokter negara asal terkonfirmasi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -219,13 +221,15 @@ Dokter penerima mengonfirmasi bahwa rekam medis dapat dibaca, identitas dan obat
 ## SEO Metadata
 
 - **Slug:** `discharge-coordination-and-overseas-follow-up-from-a-chinese-hospital`
-- **Meta title:** Pemulangan dan Tindak Lanjut di Luar Negeri dari Rumah Sakit Tiongkok
-- **Meta description:** Tuntaskan pemulangan rumah sakit Tiongkok dengan aman melalui rekonsiliasi obat, rekam sumber, penanggung jawab hasil tertunda, penilaian kelayakan perjalanan, dan serah terima dokter negara asal terkonfirmasi.
 - **Primary keyword:** pemulangan dari rumah sakit Tiongkok untuk pasien internasional
 - **Pillar keyword:** tindak lanjut di luar negeri setelah pengobatan di Tiongkok
 - **Vertical keyword:** koordinasi pemulangan medis lintas negara
 - **Search intent:** perencanaan pemulangan dan tindak lanjut
 - **Secondary keywords:** pemulangan rumah sakit Tiongkok; tindak lanjut setelah pengobatan di Tiongkok; kelayakan terbang setelah operasi Tiongkok; rekam medis Tiongkok; serah terima pasien lintas negara
+
+
+- **Meta title:** Pemulangan dari Rumah Sakit di Tiongkok: Merencanakan Tindak Lanjut di Luar Negeri
+- **Meta description:** Tuntaskan pemulangan rumah sakit Tiongkok dengan aman melalui rekonsiliasi obat, rekam sumber, penanggung jawab hasil tertunda, penilaian kelayakan perjalanan, dan serah terima dokter negara asal terkonfirmasi.
 
 ## Sumber
 

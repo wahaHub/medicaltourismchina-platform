@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Dossier médical pour une consultation de SEP en Chine : montrer comment la maladie a évolué
 - **Category:** Guides du parcours patient
 - **Subcategory:** Sclérose en plaques
-- **Subtitle:** Le dossier de SEP le plus utile explique ce qui s’est passé, à quel moment et quel traitement était utilisé à cette période.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dossier médical pour une consultation de SEP en Chine : montrer comment la maladie a évolué
+- **Subtitle:** Préparez un avis de sclérose en plaques en Chine avec une chronologie des épisodes et de la récupération, les IRM complètes et les résultats fonctionnels.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Avant de quitter la Chine, actualisez le dossier avec la nouvelle évaluation, l
 ## SEO Metadata
 
 - **Primary keyword:** dossier médical de sclérose en plaques pour un traitement en Chine
+
+- **Meta title:** Dossier médical pour une consultation de SEP en Chine : montrer comment la maladie a évolué
+- **Meta description:** Préparez un avis de sclérose en plaques en Chine avec une chronologie des épisodes et de la récupération, les IRM complètes et les résultats fonctionnels.

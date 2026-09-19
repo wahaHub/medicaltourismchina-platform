@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Sollten Sie zur Thalassämieversorgung nach China reisen? Zweck und Voraussetzungen einer sicheren Reise beurteilen
 - **Category:** Leitfäden zum Patientenweg
 - **Subcategory:** Thalassämie
-- **Subtitle:** Die Entscheidung für Versorgung im Ausland erfordert sowohl einen klinischen Zweck als auch einen praktikablen Reiseplan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sollten Sie zur Thalassämieversorgung nach China reisen? Zweck und Voraussetzungen einer sicheren Reise beurteilen
+- **Subtitle:** Eine Reise zur Thalassämieversorgung in China prüfen: konkretes Ziel, Transfusionskontinuität, Flugtauglichkeit und individuelle Organ- und Thromboserisiken besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -146,3 +148,6 @@ Reisen Sie, wenn klinisches Ziel, aktuelle Stabilität, Aufnahmevorkehrungen und
 ## SEO Metadata
 
 - **Primary keyword:** Reise nach China zur Thalassämiebehandlung; Reisebeurteilung bei Thalassämie; Zweitmeinung in China; Transfusionskontinuität im Ausland
+
+- **Meta title:** Sollten Sie zur Thalassämieversorgung nach China reisen? Zweck und Voraussetzungen einer sicheren Reise beurteilen
+- **Meta description:** Eine Reise zur Thalassämieversorgung in China prüfen: konkretes Ziel, Transfusionskontinuität, Flugtauglichkeit und individuelle Organ- und Thromboserisiken besprechen.

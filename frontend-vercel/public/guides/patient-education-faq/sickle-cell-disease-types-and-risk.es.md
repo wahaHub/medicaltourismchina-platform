@@ -1,12 +1,14 @@
-# Genotipos falciformes y riesgo: comprender HbSS, HbSC y la beta-talasemia falciforme
+# Tipos y riesgo de enfermedad falciforme: prepararse para la atención en China
 
 ## Hero
 
-- **Title:** Genotipos falciformes y riesgo: comprender HbSS, HbSC y la beta-talasemia falciforme
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedad de células falciformes
-- **Subtitle:** Algunas personas ven un diagnóstico de HbSS y suponen que su futuro debe ser peor que el de cualquier otro paciente.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tipos y riesgo de enfermedad falciforme: prepararse para la atención en China
+- **Subtitle:** Distinga enfermedad y rasgo falciforme, y comprenda cómo HbSS, HbSC y la beta-talasemia falciforme orientan una evaluación individual de atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Si las opiniones difieren, compruebe primero que ambos equipos utilizan el mismo
 ## SEO Metadata
 
 - **Primary keyword:** tipos de enfermedad de células falciformes y riesgo individual
+
+- **Meta title:** Tipos y riesgo de enfermedad falciforme: prepararse para la atención en China
+- **Meta description:** Distinga enfermedad y rasgo falciforme, y comprenda cómo HbSS, HbSC y la beta-talasemia falciforme orientan una evaluación individual de atención en China.

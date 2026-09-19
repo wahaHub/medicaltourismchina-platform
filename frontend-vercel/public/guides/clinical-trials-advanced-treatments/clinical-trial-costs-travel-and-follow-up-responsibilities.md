@@ -1,15 +1,17 @@
-# Clinical Trial Costs, Travel, and Follow-Up Responsibilities
+# Clinical Trial Costs in China: Travel and Follow-Up
 
 ## Hero
 
-- **Title:** Clinical Trial Costs, Travel, and Follow-Up Responsibilities
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** International Trial Planning
-- **Subtitle:** Replace the phrase “the trial is free” with a written map of research costs, routine care, travel, complications and follow-up across borders.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** A clinician and international patient review a cost worksheet beside travel, calendar and protection symbols.
+
+
+- **Title:** Clinical Trial Costs in China: Travel and Follow-Up
+- **Subtitle:** Plan China trial expenses by separating research, routine care, travel, complications and follow-up, with a practical cross-border responsibility checklist.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -20,6 +22,9 @@
 - Cross-border participation needs named responsibility for emergencies, local laboratory or imaging, source documents, medication changes and follow-up after return.
 
 ## Content
+
+Before travelling for a clinical trial in China, separate research costs from routine care, travel, complications and follow-up. Ask the study team to identify each payer and responsibility in writing, including what happens if screening does not lead to enrolment.
+
 
 “The clinical trial is free” is not a financial plan. It may mean that the sponsor supplies the study drug; it does not reveal who pays for ordinary hospital care, a failed screening visit, a longer stay after toxicity, repeat flights or care after the patient returns home.
 
@@ -145,11 +150,13 @@ Yes, participation is voluntary. Tell the site rather than simply disappearing s
 ## SEO Metadata
 
 - **Slug:** `clinical-trial-costs-travel-and-follow-up-responsibilities`
-- **Meta title:** Clinical Trial Costs, Travel and Follow-Up Abroad
-- **Meta description:** Plan China trial expenses by separating research, routine care, travel, complications and follow-up, with a practical cross-border responsibility checklist.
 - **Primary keyword:** clinical trial costs travel follow-up
 - **Secondary keywords:** China clinical trial cost; trial travel reimbursement; international patient clinical trial; research cost versus routine care; trial follow-up abroad
 - **Search intent:** clinical-trial financial and travel planning
+
+
+- **Meta title:** Clinical Trial Costs in China: Travel and Follow-Up
+- **Meta description:** Plan China trial expenses by separating research, routine care, travel, complications and follow-up, with a practical cross-border responsibility checklist.
 
 ## Sources
 

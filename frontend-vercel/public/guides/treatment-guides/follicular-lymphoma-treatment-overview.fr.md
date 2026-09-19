@@ -1,12 +1,14 @@
-# Traitement du lymphome folliculaire : décider quand agir et ce que le premier plan doit accomplir
+# Traitement du lymphome folliculaire en Chine : quand et comment commencer
 
 ## Hero
 
-- **Title:** Traitement du lymphome folliculaire : décider quand agir et ce que le premier plan doit accomplir
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Lymphome folliculaire
-- **Subtitle:** Un diagnostic de lymphome folliculaire ne conduit pas à un calendrier standard unique.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement du lymphome folliculaire en Chine : quand et comment commencer
+- **Subtitle:** Comprenez quand surveiller ou traiter un lymphome folliculaire en Chine, selon le diagnostic, les symptômes et la place des traitements locaux ou systémiques.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -104,3 +106,6 @@ Une fièvre avec frissons intenses, un essoufflement important, une confusion, u
 ## SEO Metadata
 
 - **Primary keyword:** traitement du lymphome folliculaire
+
+- **Meta title:** Traitement du lymphome folliculaire en Chine : quand et comment commencer
+- **Meta description:** Comprenez quand surveiller ou traiter un lymphome folliculaire en Chine, selon le diagnostic, les symptômes et la place des traitements locaux ou systémiques.

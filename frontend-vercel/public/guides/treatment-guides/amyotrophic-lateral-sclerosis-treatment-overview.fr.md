@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Traitement de la SLA en Chine : médicaments, assistance respiratoire et soins quotidiens
 - **Category:** Guides des traitements
 - **Subcategory:** Sclérose latérale amyotrophique
-- **Subtitle:** La sclérose latérale amyotrophique, ou SLA, touche les motoneurones qui commandent les mouvements volontaires.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement de la SLA en Chine : médicaments, assistance respiratoire et soins quotidiens
+- **Subtitle:** Préparez la prise en charge de la SLA en Chine : confirmation diagnostique, médicaments adaptés, soutien respiratoire, conseil génétique et soins quotidiens.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Demandez séparément les coûts d’évaluation, de médicaments, d’intervent
 ## SEO Metadata
 
 - **Primary keyword:** traitement de la sclérose latérale amyotrophique en Chine
+
+- **Meta title:** Traitement de la SLA en Chine : médicaments, assistance respiratoire et soins quotidiens
+- **Meta description:** Préparez la prise en charge de la SLA en Chine : confirmation diagnostique, médicaments adaptés, soutien respiratoire, conseil génétique et soins quotidiens.

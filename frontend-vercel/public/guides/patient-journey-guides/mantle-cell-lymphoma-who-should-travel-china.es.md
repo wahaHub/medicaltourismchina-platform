@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Debería viajar a China para recibir atención por linfoma de células del manto? Propósito, estabilidad y continuidad del tratamiento
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Linfoma de células del manto
-- **Subtitle:** Antes de organizar la atención en China, un paciente con MCL debe establecer qué podría resolver el viaje y si puede completarlo de forma segura.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Debería viajar a China para recibir atención por linfoma de células del manto? Propósito, estabilidad y continuidad del tratamiento
+- **Subtitle:** Valore viajar a China por linfoma de células del manto según el propósito de la revisión, la estabilidad médica y la continuidad del tratamiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ La idoneidad de la atención en China depende, en última instancia, de si se pu
 ## SEO Metadata
 
 - **Primary keyword:** viajar a China para el tratamiento del linfoma de células del manto
+
+- **Meta title:** ¿Debería viajar a China para recibir atención por linfoma de células del manto? Propósito, estabilidad y continuidad del tratamiento
+- **Meta description:** Valore viajar a China por linfoma de células del manto según el propósito de la revisión, la estabilidad médica y la continuidad del tratamiento.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Coût du traitement du LDGCB en Chine : établir un budget détaillé en yuans
 - **Category:** Guides des coûts et des assurances
 - **Subcategory:** Lymphome diffus à grandes cellules B
-- **Subtitle:** Coût du traitement du LDGCB en Chine : établir un budget détaillé en yuans
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Coût du traitement du LDGCB en Chine : établir un budget détaillé en yuans
+- **Subtitle:** Pour un LDGCB en Chine, structurez le devis par phase de traitement : examens, cycles, administration, soins de soutien et éventuelle radiothérapie.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,3 +143,6 @@ Vérifiez l’identité, le diagnostic exact, la phase, le protocole, les quanti
 ## SEO Metadata
 
 - **Primary keyword:** coût du traitement du LDGCB en Chine
+
+- **Meta title:** Coût du traitement du LDGCB en Chine : établir un budget détaillé en yuans
+- **Meta description:** Pour un LDGCB en Chine, structurez le devis par phase de traitement : examens, cycles, administration, soins de soutien et éventuelle radiothérapie.

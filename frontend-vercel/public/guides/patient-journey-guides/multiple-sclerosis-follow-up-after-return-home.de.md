@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Nachsorge nach einer Versorgung bei Multipler Sklerose in China: Ergebnisse mit Entscheidungen verknüpfen
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Multiple Sklerose
-- **Subtitle:** Die folgenreichste Lücke nach einer Beratung im Ausland ist oft keine versäumte Blutuntersuchung.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Nachsorge nach einer Versorgung bei Multipler Sklerose in China: Ergebnisse mit Entscheidungen verknüpfen
+- **Subtitle:** MS-Nachsorge nach Versorgung in China planen: örtliche Zuständigkeit, Ausgangsbefunde, Sicherheitskontrollen, neue Symptome und Rehabilitation miteinander verbinden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -104,3 +106,6 @@ Eine funktionierende Nachsorgevereinbarung mündet in benannte Zuständigkeiten 
 ## SEO Metadata
 
 - **Primary keyword:** Nachsorge bei Multipler Sklerose nach einer Behandlung in China
+
+- **Meta title:** Nachsorge nach einer Versorgung bei Multipler Sklerose in China: Ergebnisse mit Entscheidungen verknüpfen
+- **Meta description:** MS-Nachsorge nach Versorgung in China planen: örtliche Zuständigkeit, Ausgangsbefunde, Sicherheitskontrollen, neue Symptome und Rehabilitation miteinander verbinden.

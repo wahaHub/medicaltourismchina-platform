@@ -1,15 +1,17 @@
-# 081 Essais de virothérapie oncolytique : données probantes, risques et admissibilité
+# Essais de virus oncolytiques en Chine : admissibilité et risques
 
 ## Hero
 
-- **Title:** Essais de virothérapie oncolytique : données probantes, risques et admissibilité
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Immunothérapie du cancer
-- **Subtitle:** Évaluez le virus précis, sa conception génétique, la voie d’administration, la lésion injectable, l’association et le plan de biosécurité, au-delà de la promesse générale d’un « virus qui tue le cancer ».
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Représentation schématique d’un virus oncolytique près de cellules tumorales, de participants à un essai, d’une évaluation de la sécurité et du suivi des résultats ; il ne s’agit ni d’une image au microscope ni d’un produit viral précis.
+
+
+- **Title:** Essais de virus oncolytiques en Chine : admissibilité et risques
+- **Subtitle:** Évaluez les essais de virus oncolytiques selon la plateforme virale, la voie d’administration, les lésions injectables, les données, les risques infectieux et d’excrétion, l’imagerie et le statut de l’essai en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -181,11 +183,13 @@ Pas automatiquement. L’inflammation peut imiter une croissance, mais une véri
 ## SEO Metadata
 
 - **Slug:** `oncolytic-virus-therapy-trials-evidence-risks-and-eligibility`
-- **Meta title:** Essais de virus oncolytiques : admissibilité, excrétion et données probantes
-- **Meta description:** Évaluez les essais de virus oncolytiques selon la plateforme virale, la voie d’administration, les lésions injectables, les données, les risques infectieux et d’excrétion, l’imagerie et le statut de l’essai en Chine.
 - **Primary keyword:** essais cliniques de virus oncolytiques
 - **Secondary keywords:** virus oncolytique Chine ; virothérapie intratumorale ; excrétion virale ; admissibilité virus oncolytique ; immunothérapie oncolytique
 - **Search intent:** sélection pour un essai de virus oncolytique / évaluation des données et de la sécurité
+
+
+- **Meta title:** Essais de virus oncolytiques en Chine : admissibilité et risques
+- **Meta description:** Évaluez les essais de virus oncolytiques selon la plateforme virale, la voie d’administration, les lésions injectables, les données, les risques infectieux et d’excrétion, l’imagerie et le statut de l’essai en Chine.
 
 ## Sources
 

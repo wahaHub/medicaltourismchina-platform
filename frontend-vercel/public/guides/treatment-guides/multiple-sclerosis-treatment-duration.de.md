@@ -1,12 +1,14 @@
-# Wie lange dauert die Behandlung der Multiplen Sklerose? Dosierungspläne, Kontrollen und Entscheidungen zum Absetzen
+# MS-Behandlung in China: Dosierung, Kontrollen und langfristige Planung
 
 ## Hero
 
-- **Title:** Wie lange dauert die Behandlung der Multiplen Sklerose? Dosierungspläne, Kontrollen und Entscheidungen zum Absetzen
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Multiple Sklerose
-- **Subtitle:** Die Dauer eines Aufenthalts in China und die Dauer einer MS-Behandlung sind unterschiedliche Fragen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** MS-Behandlung in China: Dosierung, Kontrollen und langfristige Planung
+- **Subtitle:** MS-Behandlung in China langfristig planen: Schubtherapie, Dosierungsabstände, Kontrollen, Medikamentenwechsel und ärztlich begleitetes Absetzen unterscheiden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Eine lange Behandlungsbeziehung muss nicht bedeuten, dass sich jeder Tag um Term
 ## SEO Metadata
 
 - **Primary keyword:** Dauer der Behandlung bei Multipler Sklerose
+
+- **Meta title:** MS-Behandlung in China: Dosierung, Kontrollen und langfristige Planung
+- **Meta description:** MS-Behandlung in China langfristig planen: Schubtherapie, Dosierungsabstände, Kontrollen, Medikamentenwechsel und ärztlich begleitetes Absetzen unterscheiden.

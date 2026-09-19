@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Who Should Travel to China for Sickle Cell Care? Clinical Benefit, Stability, and Receiving Arrangements
 - **Category:** Patient Journey Guides
 - **Subcategory:** Sickle Cell Disease
-- **Subtitle:** For a person with sickle cell disease, deciding whether to travel to China for care involves more than asking whether flying is possible.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Who Should Travel to China for Sickle Cell Care? Clinical Benefit, Stability, and Receiving Arrangements
+- **Subtitle:** Assess sickle cell travel to China through clinical benefit, stability, blood support and confirmed receiving arrangements rather than assumed availability.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,3 +152,6 @@ New fever, chest pain, breathlessness, marked weakness, or neurological symptoms
 ## SEO Metadata
 
 - **Primary keyword:** travel to China for sickle cell disease treatment
+
+- **Meta title:** Who Should Travel to China for Sickle Cell Care? Clinical Benefit, Stability, and Receiving Arrangements
+- **Meta description:** Assess sickle cell travel to China through clinical benefit, stability, blood support and confirmed receiving arrangements rather than assumed availability.

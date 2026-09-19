@@ -1,12 +1,14 @@
-# ¿Se necesita cirugía después de un ictus isquémico? Procedimientos de emergencia, preventivos y de rehabilitación
+# Procedimientos del ictus en China: funciones en urgencias y rehabilitación
 
 ## Hero
 
-- **Title:** ¿Se necesita cirugía después de un ictus isquémico? Procedimientos de emergencia, preventivos y de rehabilitación
 - **Category:** Guías de tratamiento
 - **Subcategory:** Rehabilitación después de un ictus isquémico
-- **Subtitle:** Oír que podría ser posible otra operación puede llevar a una persona en rehabilitación tras un ictus a esperar que el movimiento vuelva inmediatamente.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Procedimientos del ictus en China: funciones en urgencias y rehabilitación
+- **Subtitle:** Distinga los procedimientos urgentes, preventivos y de rehabilitación del ictus para comprender el propósito de cada propuesta durante la atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ Cuando persista la incertidumbre, pida a los profesionales pertinentes que expli
 ## SEO Metadata
 
 - **Primary keyword:** cirugía después de la rehabilitación del ictus isquémico
+
+- **Meta title:** Procedimientos del ictus en China: funciones en urgencias y rehabilitación
+- **Meta description:** Distinga los procedimientos urgentes, preventivos y de rehabilitación del ictus para comprender el propósito de cada propuesta durante la atención en China.

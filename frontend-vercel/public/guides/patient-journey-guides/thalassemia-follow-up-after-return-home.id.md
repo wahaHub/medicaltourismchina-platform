@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Tindak lanjut setelah perawatan talasemia di Tiongkok: tugaskan setiap langkah berikutnya kepada dokter yang dapat melaksanakannya
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Talasemia
-- **Subtitle:** Rencana tindak lanjut hanya berguna jika dapat berfungsi di tempat pasien akan tinggal.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tindak lanjut setelah perawatan talasemia di Tiongkok: tugaskan setiap langkah berikutnya kepada dokter yang dapat melaksanakannya
+- **Subtitle:** Atur tindak lanjut talasemia setelah perawatan di Tiongkok dengan jadwal transfusi, resep, pemeriksaan, serta dokter yang bertanggung jawab di rumah.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -157,3 +159,6 @@ Simpan versi bertanggal setelah setiap perubahan agar dokter berikutnya dapat me
 ## SEO Metadata
 
 - **Primary keyword:** tindak lanjut talasemia setelah pengobatan di Tiongkok; serah terima perawatan internasional; pemantauan transfusi dan kelasi; perawatan pascatransplantasi
+
+- **Meta title:** Tindak lanjut setelah perawatan talasemia di Tiongkok: tugaskan setiap langkah berikutnya kepada dokter yang dapat melaksanakannya
+- **Meta description:** Atur tindak lanjut talasemia setelah perawatan di Tiongkok dengan jadwal transfusi, resep, pemeriksaan, serta dokter yang bertanggung jawab di rumah.

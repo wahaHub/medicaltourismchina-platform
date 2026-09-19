@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** What does thalassemia treatment cost in China? Building a budget for transfusion, chelation, transplantation, and follow-up
 - **Category:** Cost & Insurance Guides
 - **Subcategory:** Thalassemia
-- **Subtitle:** The diagnosis alone cannot produce a reliable treatment price.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** What does thalassemia treatment cost in China? Building a budget for transfusion, chelation, transplantation, and follow-up
+- **Subtitle:** Budget for thalassemia care in China by separating transfusions, iron monitoring, chelation, transplant assessment and longer-term follow-up.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -158,3 +160,6 @@ For thalassemia, a useful financial discussion helps maintain appropriate care o
 ## SEO Metadata
 
 - **Primary keyword:** thalassemia treatment cost in China; transfusion costs; chelation budget; thalassemia transplant quotation in RMB
+
+- **Meta title:** What does thalassemia treatment cost in China? Building a budget for transfusion, chelation, transplantation, and follow-up
+- **Meta description:** Budget for thalassemia care in China by separating transfusions, iron monitoring, chelation, transplant assessment and longer-term follow-up.

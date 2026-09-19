@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Dapatkah Orang dengan Parkinson Bepergian ke Tiongkok untuk Pengobatan? Kesiapan, Obat, dan Perawatan selama Perjalanan
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Penyakit Parkinson
-- **Subtitle:** Diagnosis penyakit Parkinson sendiri tidak menentukan apakah seseorang dapat bepergian ke Tiongkok untuk perawatan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dapatkah Orang dengan Parkinson Bepergian ke Tiongkok untuk Pengobatan? Kesiapan, Obat, dan Perawatan selama Perjalanan
+- **Subtitle:** Nilai kesiapan perjalanan Parkinson ke Tiongkok berdasarkan manfaat kunjungan, perubahan gejala, jadwal obat, serta kebutuhan bantuan selama perjalanan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Kesiapan berasal dari penggabungan tujuan klinis yang jelas, kondisi saat ini ya
 ## SEO Metadata
 
 - **Primary keyword:** kelayakan bepergian ke Tiongkok untuk pengobatan Parkinson
+
+- **Meta title:** Dapatkah Orang dengan Parkinson Bepergian ke Tiongkok untuk Pengobatan? Kesiapan, Obat, dan Perawatan selama Perjalanan
+- **Meta description:** Nilai kesiapan perjalanan Parkinson ke Tiongkok berdasarkan manfaat kunjungan, perubahan gejala, jadwal obat, serta kebutuhan bantuan selama perjalanan.

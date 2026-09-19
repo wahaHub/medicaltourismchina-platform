@@ -1,12 +1,14 @@
-# Pruebas ante sospecha de enfermedad de Alzheimer: qué necesita establecer una clínica de memoria
+# Evaluación del Alzheimer en China: pruebas en la consulta de memoria
 
 ## Hero
 
-- **Title:** Pruebas ante sospecha de enfermedad de Alzheimer: qué necesita establecer una clínica de memoria
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedad de Alzheimer
-- **Subtitle:** Una evaluación de memoria puede llevar a hablar de pruebas cognitivas, RM, biomarcadores sanguíneos, PET o punción lumbar.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Evaluación del Alzheimer en China: pruebas en la consulta de memoria
+- **Subtitle:** Prepare una consulta de memoria en China con la historia de cambios cotidianos y conozca el papel de las pruebas cognitivas, las imágenes y los biomarcadores.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -113,3 +115,6 @@ Organice una visita para comentar juntos los resultados. El desenlace debe ser u
 ## SEO Metadata
 
 - **Primary keyword:** pruebas diagnósticas de la enfermedad de Alzheimer
+
+- **Meta title:** Evaluación del Alzheimer en China: pruebas en la consulta de memoria
+- **Meta description:** Prepare una consulta de memoria en China con la historia de cambios cotidianos y conozca el papel de las pruebas cognitivas, las imágenes y los biomarcadores.

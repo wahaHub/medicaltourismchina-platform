@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Debería viajar a China para tratar la EICH? Defina el beneficio y la atención necesaria en torno al viaje
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Enfermedad de injerto contra huésped
-- **Subtitle:** La gravedad de la enfermedad por sí sola no puede decidir si una persona con enfermedad de injerto contra huésped debería viajar a China.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Debería viajar a China para tratar la EICH? Defina el beneficio y la atención necesaria en torno al viaje
+- **Subtitle:** Valore viajar a China por enfermedad injerto contra huésped según el beneficio esperado, la afectación de órganos y los cuidados necesarios durante el trayecto.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Cuando la evaluación y el tratamiento necesarios estén disponibles localmente,
 ## SEO Metadata
 
 - **Primary keyword:** viajar a China para el tratamiento de la EICH
+
+- **Meta title:** ¿Debería viajar a China para tratar la EICH? Defina el beneficio y la atención necesaria en torno al viaje
+- **Meta description:** Valore viajar a China por enfermedad injerto contra huésped según el beneficio esperado, la afectación de órganos y los cuidados necesarios durante el trayecto.

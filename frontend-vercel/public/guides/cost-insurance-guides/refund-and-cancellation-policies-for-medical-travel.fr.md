@@ -1,15 +1,17 @@
-# Un remboursement est une procédure : annuler un voyage médical sans perdre la trace des documents
+# Voyage médical en Chine : remboursements et annulations
 
 ## Hero
 
-- **Title:** Un remboursement est une procédure : annuler un voyage médical sans perdre la trace des documents
 - **Category:** Guides des coûts et assurances
 - **Subcategory:** Risques financiers et protection
-- **Subtitle:** Distinguez les contrats de l’hôpital, de l’intermédiaire, du vol et de l’hébergement ; classez la raison de l’arrêt du projet et suivez chaque somme remboursable, de la notification à sa réception en banque.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Patient international examinant des documents et calculs d’annulation avec un administrateur de voyages médicaux à côté de bagages préparés
+
+
+- **Title:** Voyage médical en Chine : remboursements et annulations
+- **Subtitle:** Recensez les politiques hospitalières, aériennes et hôtelières, classez l’arrêt des soins, calculez les déductions et suivez le remboursement d’un voyage médical en Chine jusqu’en banque.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -187,13 +189,15 @@ Obtenez le montant approuvé, la devise, la date d’émission, la destination e
 ## SEO Metadata
 
 - **Slug:** `refund-and-cancellation-policies-for-medical-travel`
-- **Meta title:** Remboursements de voyage médical : guide d’annulation et de suivi
-- **Meta description:** Recensez les politiques hospitalières, aériennes et hôtelières, classez l’arrêt des soins, calculez les déductions et suivez le remboursement d’un voyage médical en Chine jusqu’en banque.
 - **Primary keyword:** politique de remboursement de voyage médical
 - **Pillar keyword:** coût du traitement médical en Chine
 - **Vertical keyword:** annuler un voyage de traitement médical en Chine
 - **Search intent:** préparation de l’annulation / récupération du remboursement
 - **Secondary keywords:** remboursement du dépôt hospitalier Chine ; annulation de voyage médical ; annulation aérienne pour raison médicale ; remboursement patient international ; prépaiement du traitement
+
+
+- **Meta title:** Voyage médical en Chine : remboursements et annulations
+- **Meta description:** Recensez les politiques hospitalières, aériennes et hôtelières, classez l’arrêt des soins, calculez les déductions et suivez le remboursement d’un voyage médical en Chine jusqu’en banque.
 
 ## Sources
 
@@ -203,4 +207,3 @@ Obtenez le montant approuvé, la devise, la date d’émission, la destination e
 4. [Administration de l’aviation civile de Chine : interprétation des dispositions sur les services aux passagers](https://www.caac.gov.cn/XXGK/XXGK/ZCJD/202103/t20210315_206803.html)
 5. [Département américain des Transports : remboursements aériens](https://www.transportation.gov/individuals/aviation-consumer-protection/refunds)
 6. [Union européenne, Your Europe : droits des passagers aériens](https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm)
-

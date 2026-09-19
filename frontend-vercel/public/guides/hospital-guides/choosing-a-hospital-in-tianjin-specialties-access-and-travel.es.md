@@ -1,15 +1,17 @@
-# 105 Elegir un hospital en Tianjin: adecuación de la especialidad, geografía de las sedes y la cuestión de Pekín
+# Elegir un hospital en China: Tianjin y derivaciones a Pekín
 
 ## Hero
 
-- **Title:** Elegir un hospital en Tianjin: adecuación de la especialidad, geografía de las sedes y la cuestión de Pekín
 - **Category:** Guías de hospitales
 - **Subcategory:** Planificación de la atención en Tianjin
-- **Subtitle:** Organice el viaje alrededor de un referente clínico, una base de recuperación y una vía de escalamiento escrita, no de un nombre famoso o un tren rápido.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustración conceptual de viajeros que planifican atención hospitalaria en Tianjin; el perfil urbano de estilo tianjinés y los iconos de hospital, mapa y escáner no identifican una sede real, una ruta ni un aval.
+
+
+- **Title:** Elegir un hospital en China: Tianjin y derivaciones a Pekín
+- **Subtitle:** Elija un hospital de Tianjin verificando el equipo especializado, la sede exacta, la base de recuperación, los límites de derivación a Pekín, el acceso con pasaporte, el transporte, el respaldo de urgencias y la responsabilidad del alta.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -246,13 +248,15 @@ Solo si el equipo tratante confirma la aptitud para viajar y proporciona un plan
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-tianjin-specialties-access-and-travel`
-- **Meta title:** Elegir un hospital en Tianjin: sedes, viajes y derivaciones a Pekín
-- **Meta description:** Elija un hospital de Tianjin verificando el equipo especializado, la sede exacta, la base de recuperación, los límites de derivación a Pekín, el acceso con pasaporte, el transporte, el respaldo de urgencias y la responsabilidad del alta.
 - **Primary keyword:** elegir un hospital en Tianjin
 - **Pillar keyword:** hospitales de Tianjin para pacientes internacionales
 - **Vertical keyword:** especialidades sedes viajes hospitales Tianjin
 - **Search intent:** comparación de hospitales / planificación de viajes médicos a Tianjin
 - **Secondary keywords:** sede hospitalaria Tianjin; tratamiento Tianjin o Pekín; pasaporte hospital Tianjin; hospital Tianjin South; urgencias 120 Tianjin
+
+
+- **Meta title:** Elegir un hospital en China: Tianjin y derivaciones a Pekín
+- **Meta description:** Elija un hospital de Tianjin verificando el equipo especializado, la sede exacta, la base de recuperación, los límites de derivación a Pekín, el acceso con pasaporte, el transporte, el respaldo de urgencias y la responsabilidad del alta.
 
 ## Fuentes
 

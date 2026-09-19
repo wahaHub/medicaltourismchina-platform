@@ -1,12 +1,14 @@
-# Types et risques de l’aplasie médullaire : comprendre les formes non sévères, sévères et très sévères
+# Gravité de l’aplasie médullaire : préparer une évaluation en Chine
 
 ## Hero
 
-- **Title:** Types et risques de l’aplasie médullaire : comprendre les formes non sévères, sévères et très sévères
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Aplasie médullaire
-- **Subtitle:** Non sévère ne signifie pas qu’un traitement ne sera jamais nécessaire, et sévère ne signifie pas qu’un traitement ne peut plus aider.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Gravité de l’aplasie médullaire : préparer une évaluation en Chine
+- **Subtitle:** Comprenez les formes non sévères, sévères et très sévères de l’aplasie médullaire, leur cause et les risques à examiner avant des soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Pour une réévaluation en Chine, envoyez les prélèvements médullaires origin
 ## SEO Metadata
 
 - **Primary keyword:** types et risques de l’aplasie médullaire
+
+- **Meta title:** Gravité de l’aplasie médullaire : préparer une évaluation en Chine
+- **Meta description:** Comprenez les formes non sévères, sévères et très sévères de l’aplasie médullaire, leur cause et les risques à examiner avant des soins en Chine.

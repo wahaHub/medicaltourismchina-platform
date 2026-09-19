@@ -1,15 +1,17 @@
-# 098 ¿Qué caracteriza a un departamento médico internacional sólido?
+# Departamentos médicos internacionales en China: qué comprobar
 
 ## Hero
 
-- **Title:** ¿Qué caracteriza a un departamento médico internacional sólido?
 - **Category:** Guías de hospitales
 - **Subcategory:** Servicios para pacientes internacionales
-- **Subtitle:** Valore el departamento por la responsabilidad clínica, la seguridad lingüística, la escalada asistencial, los registros y la continuidad, no por la sala de espera o el folleto de conserjería.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustración conceptual de un paciente internacional hablando con un coordinador hospitalario frente a un mapamundi; representa orientación, no calidad clínica.
+
+
+- **Title:** Departamentos médicos internacionales en China: qué comprobar
+- **Subtitle:** Evalúe servicios hospitalarios internacionales por responsabilidad clínica, interpretación, registros, escalada de urgencias, seguridad de medicación, precios, privacidad y transferencia al alta.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -268,11 +270,13 @@ Resumen diagnóstico/terapéutico, medicamentos conciliados, resultados y respon
 ## SEO Metadata
 
 - **Slug:** `what-makes-a-strong-international-medical-department`
-- **Meta title:** ¿Qué caracteriza a un departamento médico internacional sólido?
-- **Meta description:** Evalúe servicios hospitalarios internacionales por responsabilidad clínica, interpretación, registros, escalada de urgencias, seguridad de medicación, precios, privacidad y transferencia al alta.
 - **Primary keyword:** departamento médico internacional en China
 - **Secondary keywords:** servicios para pacientes internacionales en China; intérprete médico hospitalario; coordinación hospitalaria internacional; registros médicos transfronterizos; transferencia al alta hospitalaria en China
 - **Search intent:** comparación de calidad de servicios para pacientes internacionales
+
+
+- **Meta title:** Departamentos médicos internacionales en China: qué comprobar
+- **Meta description:** Evalúe servicios hospitalarios internacionales por responsabilidad clínica, interpretación, registros, escalada de urgencias, seguridad de medicación, precios, privacidad y transferencia al alta.
 
 ## Fuentes
 

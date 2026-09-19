@@ -1,12 +1,14 @@
-# Dukungan transfusi pada anemia aplastik: komponen yang diiradiasi, reaksi, dan beban zat besi
+# Transfusi Anemia Aplastik di Tiongkok: Keamanan dan Pemantauan
 
 ## Hero
 
-- **Title:** Dukungan transfusi pada anemia aplastik: komponen yang diiradiasi, reaksi, dan beban zat besi
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Anemia Aplastik
-- **Subtitle:** “Transfusi lagi” dapat berarti sel darah merah atau trombosit, yang memiliki tujuan berbeda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Transfusi Anemia Aplastik di Tiongkok: Keamanan dan Pemantauan
+- **Subtitle:** Pahami transfusi sel darah merah dan trombosit pada anemia aplastik di Tiongkok, termasuk iradiasi, reaksi transfusi, serta pemantauan beban besi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ Frekuensi dukungan dapat berbeda antara masa awal menunggu respons, penyakit raw
 ## SEO Metadata
 
 - **Primary keyword:** dukungan transfusi anemia aplastik
+
+- **Meta title:** Transfusi Anemia Aplastik di Tiongkok: Keamanan dan Pemantauan
+- **Meta description:** Pahami transfusi sel darah merah dan trombosit pada anemia aplastik di Tiongkok, termasuk iradiasi, reaksi transfusi, serta pemantauan beban besi.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Ein Krankenhaus für Hodgkin-Lymphom in China wählen: Erstlinienbehandlung, Bestrahlung und Rückfallversorgung passend auswählen
 - **Category:** Krankenhausratgeber
 - **Subcategory:** Hodgkin-Lymphom
-- **Subtitle:** Die Wahl eines Krankenhauses für Hodgkin-Lymphom in China beginnt mit dem Problem, das gelöst werden muss.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Ein Krankenhaus für Hodgkin-Lymphom in China wählen: Erstlinienbehandlung, Bestrahlung und Rückfallversorgung passend auswählen
+- **Subtitle:** Ein Zentrum für Hodgkin-Lymphom in China auswählen: Pathologie, PET-Beurteilung, Erstlinienbehandlung, Bestrahlung und Rückfallversorgung auf Ihren Bedarf abstimmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -143,3 +145,6 @@ Eine endgültige Wahl lässt sich anhand konkreter Fragen prüfen: Kann dieses T
 ## SEO Metadata
 
 - **Primary keyword:** Krankenhaus für Hodgkin-Lymphom in China wählen
+
+- **Meta title:** Ein Krankenhaus für Hodgkin-Lymphom in China wählen: Erstlinienbehandlung, Bestrahlung und Rückfallversorgung passend auswählen
+- **Meta description:** Ein Zentrum für Hodgkin-Lymphom in China auswählen: Pathologie, PET-Beurteilung, Erstlinienbehandlung, Bestrahlung und Rückfallversorgung auf Ihren Bedarf abstimmen.

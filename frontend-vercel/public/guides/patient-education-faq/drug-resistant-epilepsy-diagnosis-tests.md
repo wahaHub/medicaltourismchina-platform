@@ -1,12 +1,14 @@
-# Tests for drug-resistant epilepsy: confirm the events, investigate the cause, and define treatment options
+# Drug-Resistant Epilepsy Tests in China: Diagnostic Review
 
 ## Hero
 
-- **Title:** Tests for drug-resistant epilepsy: confirm the events, investigate the cause, and define treatment options
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Drug Resistant Epilepsy
-- **Subtitle:** Investigation of difficult-to-control seizures usually addresses three questions: whether the recurring events are epileptic, why treatment has not controlled them, and whether additional evidence could change the available options.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Drug-Resistant Epilepsy Tests in China: Diagnostic Review
+- **Subtitle:** Understand tests used to confirm drug-resistant epilepsy and assess options, and coordinate records and investigations with the receiving team in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -149,3 +151,6 @@ Obtain formal reports and available source data, record the conditions for anoth
 ## SEO Metadata
 
 - **Primary keyword:** drug-resistant epilepsy diagnostic tests; video-EEG monitoring; epilepsy MRI; presurgical assessment in China
+
+- **Meta title:** Drug-Resistant Epilepsy Tests in China: Diagnostic Review
+- **Meta description:** Understand tests used to confirm drug-resistant epilepsy and assess options, and coordinate records and investigations with the receiving team in China.

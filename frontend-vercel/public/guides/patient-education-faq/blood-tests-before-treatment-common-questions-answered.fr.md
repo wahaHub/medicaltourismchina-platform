@@ -1,15 +1,17 @@
-# Analyses sanguines avant un traitement : pourquoi les répéter, faut-il être à jeun et comment les résultats modifient le plan
+# Analyses sanguines en Chine : jeûne, nouveaux prélèvements et résultats
 
 ## Hero
 
-- **Title:** Analyses sanguines avant un traitement : pourquoi les répéter, faut-il être à jeun et comment les résultats modifient le plan
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Examens et diagnostic
-- **Subtitle:** Un guide en langage clair sur les bilans sanguins avant traitement, la préparation, les comptes rendus internationaux, les nouveaux prélèvements et les décisions face à un résultat anormal.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Illustration de remplacement prévue montrant un échantillon sanguin étiqueté, un compte rendu de laboratoire, une liste de médicaments et une liste de vérification de sécurité avant traitement
+
+
+- **Title:** Analyses sanguines en Chine : jeûne, nouveaux prélèvements et résultats
+- **Subtitle:** Comprendre la NFS, la biochimie et la coagulation, le jeûne et les médicaments, la réutilisation des comptes rendus étrangers, les nouveaux prélèvements et les conséquences d’un résultat anormal.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -173,13 +175,15 @@ Des cellules peuvent s’être rompues lors du prélèvement ou de sa manipulati
 ## SEO Metadata
 
 - **Slug:** `blood-tests-before-treatment-common-questions-answered`
-- **Meta title:** Analyses sanguines avant traitement : jeûne, répétitions et résultats
-- **Meta description:** Comprendre la NFS, la biochimie et la coagulation, le jeûne et les médicaments, la réutilisation des comptes rendus étrangers, les nouveaux prélèvements et les conséquences d’un résultat anormal.
 - **Primary keyword:** analyses sanguines avant traitement
 - **Pillar keyword:** examens avant un traitement médical en Chine
 - **Vertical keyword:** jeûne et répétition des analyses sanguines
 - **Search intent:** préparation aux examens avant traitement
 - **Secondary keywords:** NFS avant traitement ; répétition prise de sang hôpital Chine ; médicament prise de sang à jeun ; résultat de laboratoire anormal ; unités compte rendu de laboratoire international
+
+
+- **Meta title:** Analyses sanguines en Chine : jeûne, nouveaux prélèvements et résultats
+- **Meta description:** Comprendre la NFS, la biochimie et la coagulation, le jeûne et les médicaments, la réutilisation des comptes rendus étrangers, les nouveaux prélèvements et les conséquences d’un résultat anormal.
 
 ## Sources
 

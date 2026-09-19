@@ -1,12 +1,14 @@
-# Obat Baru, Antarmuka Otak–Komputer, dan Uji Klinis dalam Rehabilitasi Stroke
+# Penelitian Rehabilitasi Stroke di Tiongkok: Uji Obat dan Antarmuka Otak–Komputer
 
 ## Hero
 
-- **Title:** Obat Baru, Antarmuka Otak–Komputer, dan Uji Klinis dalam Rehabilitasi Stroke
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Rehabilitasi Pascastroke Iskemik
-- **Subtitle:** Setelah menjalani rehabilitasi stroke selama suatu periode, pasien sering terus mencari obat, perangkat, atau studi penelitian baru.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Penelitian Rehabilitasi Stroke di Tiongkok: Uji Obat dan Antarmuka Otak–Komputer
+- **Subtitle:** Tinjau penelitian obat dan antarmuka otak–komputer untuk rehabilitasi stroke di Tiongkok. Bedakan sasaran stroke akut, pencegahan, dan pemulihan fungsi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -136,3 +138,6 @@ Keinginan peserta dapat berubah. Bahas pengunduran diri dan tindak lanjut kesela
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan rehabilitasi stroke baru dan uji klinis
+
+- **Meta title:** Penelitian Rehabilitasi Stroke di Tiongkok: Uji Obat dan Antarmuka Otak–Komputer
+- **Meta description:** Tinjau penelitian obat dan antarmuka otak–komputer untuk rehabilitasi stroke di Tiongkok. Bedakan sasaran stroke akut, pencegahan, dan pemulihan fungsi.

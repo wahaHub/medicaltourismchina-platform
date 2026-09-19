@@ -1,15 +1,17 @@
-# 097 Cómo verificar un hospital, un departamento y un médico en China
+# Verifique un hospital, departamento y médico en China
 
 ## Hero
 
-- **Title:** Cómo verificar un hospital, un departamento y un médico en China
 - **Category:** Guías de hospitales
 - **Subcategory:** Verificación de proveedores sanitarios
-- **Subtitle:** Compruebe tres identidades por separado y después confirme que la sede y el equipo exactos pueden prestar la atención propuesta.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustración conceptual de un paciente internacional que revisa símbolos de hospital, médico y seguridad con un coordinador hospitalario; el folleto no es una credencial oficial.
+
+
+- **Title:** Verifique un hospital, departamento y médico en China
+- **Subtitle:** Verifique la licencia y sede de un hospital chino, el ámbito del departamento, el registro y vinculación del médico, la autorización de procedimientos, la revisión documental, el pago y el canal de comunicación.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -206,11 +208,13 @@ Una respuesta fechada por un canal hospitalario que identifique al médico, los 
 ## SEO Metadata
 
 - **Slug:** `how-to-verify-a-hospital-department-and-doctor-in-china`
-- **Meta title:** Verifique un hospital, departamento y médico chinos
-- **Meta description:** Verifique la licencia y sede de un hospital chino, el ámbito del departamento, el registro y vinculación del médico, la autorización de procedimientos, la revisión documental, el pago y el canal de comunicación.
 - **Primary keyword:** verificar hospital y médico en China
 - **Secondary keywords:** comprobar registro médico en China; licencia hospitalaria china; verificar sede hospitalaria; autorización de cirujanos en China; verificación hospitalaria para pacientes internacionales
 - **Search intent:** verificación de identidad y capacidad del proveedor
+
+
+- **Meta title:** Verifique un hospital, departamento y médico en China
+- **Meta description:** Verifique la licencia y sede de un hospital chino, el ámbito del departamento, el registro y vinculación del médico, la autorización de procedimientos, la revisión documental, el pago y el canal de comunicación.
 
 ## Fuentes
 

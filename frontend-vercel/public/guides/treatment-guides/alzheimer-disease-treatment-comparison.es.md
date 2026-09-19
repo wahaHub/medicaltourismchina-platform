@@ -1,12 +1,14 @@
-# Comparación de tratamientos para el alzhéimer: medicamentos sintomáticos, lecanemab y donanemab
+# Opciones de tratamiento del Alzheimer en China: comparación para pacientes
 
 ## Hero
 
-- **Title:** Comparación de tratamientos para el alzhéimer: medicamentos sintomáticos, lecanemab y donanemab
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de Alzheimer
-- **Subtitle:** Las familias que comparan donepezilo, memantina, lecanemab y donanemab suelen querer una respuesta única sobre cuál es el mejor.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Opciones de tratamiento del Alzheimer en China: comparación para pacientes
+- **Subtitle:** Compare medicamentos sintomáticos y anticuerpos para Alzheimer según población, resultados, administración y vigilancia al valorar tratamiento en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ El seguimiento puede evaluar la capacidad funcional actual, los síntomas, la to
 ## SEO Metadata
 
 - **Primary keyword:** comparación de tratamientos para el alzhéimer
+
+- **Meta title:** Opciones de tratamiento del Alzheimer en China: comparación para pacientes
+- **Meta description:** Compare medicamentos sintomáticos y anticuerpos para Alzheimer según población, resultados, administración y vigilancia al valorar tratamiento en China.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Tindak lanjut limfoma folikular setelah pulang dari Tiongkok
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Limfoma Folikular
-- **Subtitle:** Catatan pemulangan yang menyebut tindak lanjut rutin menyisakan banyak pertanyaan praktis tanpa jawaban.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tindak lanjut limfoma folikular setelah pulang dari Tiongkok
+- **Subtitle:** Atur tindak lanjut limfoma folikular setelah pulang dari Tiongkok menurut fase perawatan. Tentukan tujuan kunjungan, pemeriksaan, dan penanggung jawab.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Pada setiap transisi, perbarui ringkasan dan rincian kontak. Rencana tindak lanj
 ## SEO Metadata
 
 - **Primary keyword:** tindak lanjut limfoma folikular setelah pengobatan di Tiongkok
+
+- **Meta title:** Tindak lanjut limfoma folikular setelah pulang dari Tiongkok
+- **Meta description:** Atur tindak lanjut limfoma folikular setelah pulang dari Tiongkok menurut fase perawatan. Tentukan tujuan kunjungan, pemeriksaan, dan penanggung jawab.

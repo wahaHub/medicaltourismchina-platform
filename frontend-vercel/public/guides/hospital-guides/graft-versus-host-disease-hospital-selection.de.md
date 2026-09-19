@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Ein Krankenhaus für GVHD in China auswählen: Transplantationsnachsorge und organspezifische Versorgung
 - **Category:** Krankenhausratgeber
 - **Subcategory:** Graft-versus-Host-Erkrankung
-- **Subtitle:** Die Krankenhaussuche wird hilfreicher, wenn das Problem konkret benannt ist.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Ein Krankenhaus für GVHD in China auswählen: Transplantationsnachsorge und organspezifische Versorgung
+- **Subtitle:** Ein GVHD-Team in China beurteilen: Transplantationsnachsorge, koordinierte Organversorgung, dringliche Stabilisierung und Übergabe an die Ärzte zu Hause prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ Das geeignete Krankenhaus kann die aktuelle klinische Frage mit tatsächlich erb
 ## SEO Metadata
 
 - **Primary keyword:** Krankenhäuser für GVHD-Behandlung in China
+
+- **Meta title:** Ein Krankenhaus für GVHD in China auswählen: Transplantationsnachsorge und organspezifische Versorgung
+- **Meta description:** Ein GVHD-Team in China beurteilen: Transplantationsnachsorge, koordinierte Organversorgung, dringliche Stabilisierung und Übergabe an die Ärzte zu Hause prüfen.

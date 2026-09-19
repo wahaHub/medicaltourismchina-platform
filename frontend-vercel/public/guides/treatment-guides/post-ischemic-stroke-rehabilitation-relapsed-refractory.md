@@ -1,12 +1,14 @@
-# Sudden Worsening or Gradual Decline During Stroke Rehabilitation: What Needs Assessment?
+# Worsening During Stroke Rehab in China: When to Seek Help
 
 ## Hero
 
-- **Title:** Sudden Worsening or Gradual Decline During Stroke Rehabilitation: What Needs Assessment?
 - **Category:** Treatment Guides
 - **Subcategory:** Post Ischemic Stroke Rehabilitation
-- **Subtitle:** A person who could walk with support yesterday suddenly cannot advance a leg.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Worsening During Stroke Rehab in China: When to Seek Help
+- **Subtitle:** Recognize sudden worsening or gradual decline during stroke rehabilitation, and connect urgent local assessment with continuing care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ When the medical situation allows rehabilitation to continue, goals should refle
 ## SEO Metadata
 
 - **Primary keyword:** worsening symptoms during stroke rehabilitation
+
+- **Meta title:** Worsening During Stroke Rehab in China: When to Seek Help
+- **Meta description:** Recognize sudden worsening or gradual decline during stroke rehabilitation, and connect urgent local assessment with continuing care in China.

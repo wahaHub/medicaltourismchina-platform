@@ -1,12 +1,14 @@
-# Une chirurgie est-elle nécessaire après un AVC ischémique ? Interventions d’urgence, préventives et de rééducation
+# Interventions après AVC en Chine : rôles en urgence et en réadaptation
 
 ## Hero
 
-- **Title:** Une chirurgie est-elle nécessaire après un AVC ischémique ? Interventions d’urgence, préventives et de rééducation
 - **Category:** Guides des traitements
 - **Subcategory:** Rééducation après un AVC ischémique
-- **Subtitle:** Entendre qu’une autre opération pourrait être possible peut amener une personne en rééducation après un AVC à espérer un retour immédiat du mouvement.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Interventions après AVC en Chine : rôles en urgence et en réadaptation
+- **Subtitle:** Distinguez les interventions de l’AVC aigu, la prévention des récidives et les gestes utiles à la réadaptation avant de discuter des soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ Lorsqu’une incertitude persiste, demandez aux professionnels concernés d’ex
 ## SEO Metadata
 
 - **Primary keyword:** chirurgie après rééducation d’un AVC ischémique
+
+- **Meta title:** Interventions après AVC en Chine : rôles en urgence et en réadaptation
+- **Meta description:** Distinguez les interventions de l’AVC aigu, la prévention des récidives et les gestes utiles à la réadaptation avant de discuter des soins en Chine.

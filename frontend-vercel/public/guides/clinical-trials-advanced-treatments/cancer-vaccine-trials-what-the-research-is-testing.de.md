@@ -1,15 +1,17 @@
-# 082 Studien zu Krebsimpfstoffen: Was die Forschung untersucht
+# Studien zu Krebsimpfstoffen in China: Evidenz und Teilnahmevoraussetzungen
 
 ## Hero
 
-- **Title:** Studien zu Krebsimpfstoffen: Was die Forschung untersucht
 - **Category:** Klinische Studien und fortschrittliche Behandlungen
 - **Subcategory:** Krebsimmuntherapie
-- **Subtitle:** Unterscheiden Sie zunächst Prävention und Behandlung und prüfen Sie dann Antigenauswahl, Impfstoffplattform, Immunmessungen, Herstellungszeit und den entscheidenden klinischen Endpunkt.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ersatz erforderlich: Tumorantigene werden Immunzellen präsentiert, dargestellt zusammen mit dem Entwicklungs- und Herstellungsablauf eines personalisierten Impfstoffs und der Bewertung klinischer Ergebnisse.
+
+
+- **Title:** Studien zu Krebsimpfstoffen in China: Evidenz und Teilnahmevoraussetzungen
+- **Subtitle:** Verstehen Sie Studien zu therapeutischen Impfstoffen: Prävention versus Therapie, Antigene, Neoantigen-Herstellung, Immunendpunkte, Kombinationen und Prüfung in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -170,11 +172,13 @@ Nicht ohne einen onkologisch abgestimmten, protokollspezifischen Plan. Fragen Si
 ## SEO Metadata
 
 - **Slug:** `cancer-vaccine-trials-what-the-research-is-testing`
-- **Meta title:** Studien zu Krebsimpfstoffen: Antigene, Evidenz und Herstellung
-- **Meta description:** Verstehen Sie Studien zu therapeutischen Impfstoffen: Prävention versus Therapie, Antigene, Neoantigen-Herstellung, Immunendpunkte, Kombinationen und Prüfung in China.
 - **Primary keyword:** klinische Studien zu Krebsimpfstoffen
 - **Secondary keywords:** therapeutischer Krebsimpfstoff; personalisierter Neoantigen-Impfstoff; Krebsimpfstoff China; Immunogenität von Krebsimpfstoffen; Studie zu dendritischen Zellimpfstoffen
 - **Search intent:** Evidenz zu Krebsimpfstoffstudien / Prüfung der Teilnahmefähigkeit
+
+
+- **Meta title:** Studien zu Krebsimpfstoffen in China: Evidenz und Teilnahmevoraussetzungen
+- **Meta description:** Verstehen Sie Studien zu therapeutischen Impfstoffen: Prävention versus Therapie, Antigene, Neoantigen-Herstellung, Immunendpunkte, Kombinationen und Prüfung in China.
 
 ## Quellen
 

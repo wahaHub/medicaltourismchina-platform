@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Follow-up after drug-resistant epilepsy treatment in China: keeping care connected at home
 - **Category:** Patient Journey Guides
 - **Subcategory:** Drug Resistant Epilepsy
-- **Subtitle:** After a visit to China, taking the records home is only the beginning of continued care.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Follow-up after drug-resistant epilepsy treatment in China: keeping care connected at home
+- **Subtitle:** Keep epilepsy care connected after treatment in China with seizure records, prescriptions, device or surgical follow-up and local emergency arrangements.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -169,3 +171,6 @@ Care after returning home is an ongoing process with named responsibility and fe
 ## SEO Metadata
 
 - **Primary keyword:** drug-resistant epilepsy follow-up after China treatment; epilepsy surgery aftercare; international neurostimulation follow-up
+
+- **Meta title:** Follow-up after drug-resistant epilepsy treatment in China: keeping care connected at home
+- **Meta description:** Keep epilepsy care connected after treatment in China with seizure records, prescriptions, device or surgical follow-up and local emergency arrangements.

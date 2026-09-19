@@ -1,12 +1,14 @@
-# Obat talasemia baru dan uji klinis pada 2026: membedakan persetujuan, penelitian, dan kelayakan pribadi
+# Obat dan Uji Klinis Talasemia: Bukti dan Akses di Tiongkok
 
 ## Hero
 
-- **Title:** Obat talasemia baru dan uji klinis pada 2026: membedakan persetujuan, penelitian, dan kelayakan pribadi
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Talasemia
-- **Subtitle:** Berita tentang kemandirian dari transfusi dapat langsung memunculkan pertanyaan apakah pengobatan tersedia bagi pasien tertentu.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat dan Uji Klinis Talasemia: Bukti dan Akses di Tiongkok
+- **Subtitle:** Tinjau obat dan penelitian terapi sel untuk talasemia. Bedakan perbaikan anemia, pengurangan transfusi, dan pemeriksaan akses di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,3 +143,6 @@ Untuk konsultasi berikutnya, fokuslah pada tiga keputusan: apa yang dapat diubah
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan talasemia baru 2026; uji klinis di Tiongkok; mitapivat; penyuntingan gen; CS-101
+
+- **Meta title:** Obat dan Uji Klinis Talasemia: Bukti dan Akses di Tiongkok
+- **Meta description:** Tinjau obat dan penelitian terapi sel untuk talasemia. Bedakan perbaikan anemia, pengurangan transfusi, dan pemeriksaan akses di Tiongkok.

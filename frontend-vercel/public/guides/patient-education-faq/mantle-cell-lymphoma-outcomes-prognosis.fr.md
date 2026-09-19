@@ -1,12 +1,14 @@
-# Combien de temps peut-on contrôler le lymphome à cellules du manteau ? Comprendre la rémission, la survie et votre pronostic
+# Pronostic du lymphome du manteau : demander un deuxième avis en Chine
 
 ## Hero
 
-- **Title:** Combien de temps peut-on contrôler le lymphome à cellules du manteau ? Comprendre la rémission, la survie et votre pronostic
 - **Category:** Éducation des patients et questions fréquentes
 - **Subcategory:** Lymphome à cellules du manteau
-- **Subtitle:** Après un diagnostic de LCM, il est naturel de chercher combien de temps les personnes vivent.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronostic du lymphome du manteau : demander un deuxième avis en Chine
+- **Subtitle:** Interprétez rémission, survie et progression du lymphome du manteau sans en faire une prédiction individuelle. Préparez un deuxième avis en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ Il vaut mieux considérer le pronostic comme une conversation continue. De nouve
 ## SEO Metadata
 
 - **Primary keyword:** pronostic et survie du lymphome à cellules du manteau
+
+- **Meta title:** Pronostic du lymphome du manteau : demander un deuxième avis en Chine
+- **Meta description:** Interprétez rémission, survie et progression du lymphome du manteau sans en faire une prédiction individuelle. Préparez un deuxième avis en Chine.

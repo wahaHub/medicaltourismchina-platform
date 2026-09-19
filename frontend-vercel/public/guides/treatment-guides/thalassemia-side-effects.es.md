@@ -1,12 +1,14 @@
-# Manejo de los efectos secundarios del tratamiento de la talasemia: qué comunicar, cuándo buscar ayuda y cómo prepararse
+# Tratamiento de la talasemia en China: efectos secundarios y controles de seguridad
 
 ## Hero
 
-- **Title:** Manejo de los efectos secundarios del tratamiento de la talasemia: qué comunicar, cuándo buscar ayuda y cómo prepararse
 - **Category:** Guías de tratamiento
 - **Subcategory:** Talasemia
-- **Subtitle:** Encontrar una lista de posibles efectos secundarios suele ser más fácil que decidir qué hacer ante un síntoma.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento de la talasemia en China: efectos secundarios y controles de seguridad
+- **Subtitle:** Reconozca posibles reacciones transfusionales y efectos de la quelación en talasemia, y prepare controles y contactos para la atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -146,3 +148,6 @@ Los pacientes no necesitan memorizar todas las reacciones posibles. Reconocer lo
 ## SEO Metadata
 
 - **Primary keyword:** efectos secundarios del tratamiento de la talasemia; reacciones adversas a quelantes; reacciones transfusionales; seguridad de la medicación en China
+
+- **Meta title:** Tratamiento de la talasemia en China: efectos secundarios y controles de seguridad
+- **Meta description:** Reconozca posibles reacciones transfusionales y efectos de la quelación en talasemia, y prepare controles y contactos para la atención en China.

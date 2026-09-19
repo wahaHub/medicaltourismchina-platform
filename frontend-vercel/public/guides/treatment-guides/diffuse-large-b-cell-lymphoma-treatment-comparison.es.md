@@ -1,12 +1,14 @@
-# Comparación de tratamientos del DLBCL: ¿qué opciones corresponden a cada etapa?
+# Opciones de tratamiento del LDCBG en China: comparar según la etapa asistencial
 
 ## Hero
 
-- **Title:** Comparación de tratamientos del DLBCL: ¿qué opciones corresponden a cada etapa?
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma difuso de células B grandes
-- **Subtitle:** R-CHOP, las combinaciones con polatuzumab, el trasplante, las células CAR T y los anticuerpos biespecíficos no deben ordenarse en una única clasificación de menor a mayor potencia.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Opciones de tratamiento del LDCBG en China: comparar según la etapa asistencial
+- **Subtitle:** Compare tratamientos del linfoma difuso de células B grandes en China según la etapa, el momento de la recaída y el recorrido completo de cada opción.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Asigne la responsabilidad del seguimiento y especifique qué pruebas pueden hace
 ## SEO Metadata
 
 - **Primary keyword:** comparación de tratamientos del DLBCL
+
+- **Meta title:** Opciones de tratamiento del LDCBG en China: comparar según la etapa asistencial
+- **Meta description:** Compare tratamientos del linfoma difuso de células B grandes en China según la etapa, el momento de la recaída y el recorrido completo de cada opción.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Préparer le dossier de rééducation après AVC en Chine : imagerie, médicaments et capacités fonctionnelles
 - **Category:** Guides du parcours patient
 - **Subcategory:** Rééducation après un AVC ischémique
-- **Subtitle:** Un dossier utile de rééducation après AVC explique l'événement, les capacités actuelles de la personne et les risques nécessitant encore une attention.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Préparer le dossier de rééducation après AVC en Chine : imagerie, médicaments et capacités fonctionnelles
+- **Subtitle:** Préparez une rééducation post-AVC en Chine avec le dossier hospitalier, l’imagerie, les médicaments réellement pris et une description des capacités fonctionnelles.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ Un dossier bien organisé permet au lecteur de comprendre rapidement l'objectif 
 ## SEO Metadata
 
 - **Primary keyword:** dossier médical pour la rééducation après AVC en Chine
+
+- **Meta title:** Préparer le dossier de rééducation après AVC en Chine : imagerie, médicaments et capacités fonctionnelles
+- **Meta description:** Préparez une rééducation post-AVC en Chine avec le dossier hospitalier, l’imagerie, les médicaments réellement pris et une description des capacités fonctionnelles.

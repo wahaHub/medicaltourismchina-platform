@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Costes del tratamiento del linfoma de Hodgkin en China: obtener un presupuesto comparable en RMB
 - **Category:** Guías de costes y seguros
 - **Subcategory:** Linfoma de Hodgkin
-- **Subtitle:** No existe un precio total único para tratar el linfoma de Hodgkin en China que se aplique a todos los pacientes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Costes del tratamiento del linfoma de Hodgkin en China: obtener un presupuesto comparable en RMB
+- **Subtitle:** Compare presupuestos del linfoma de Hodgkin en China con pruebas, ciclos, administración, radioterapia y cuidados de apoyo claramente desglosados.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Un presupuesto útil puede no dar un total definitivo el primer día, pero debe 
 ## SEO Metadata
 
 - **Primary keyword:** coste del tratamiento del linfoma de Hodgkin en China
+
+- **Meta title:** Costes del tratamiento del linfoma de Hodgkin en China: obtener un presupuesto comparable en RMB
+- **Meta description:** Compare presupuestos del linfoma de Hodgkin en China con pruebas, ciclos, administración, radioterapia y cuidados de apoyo claramente desglosados.

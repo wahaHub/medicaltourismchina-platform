@@ -1,12 +1,14 @@
-# GVHD-Behandlungen vergleichen: Was Steroide, zielgerichtete Medikamente, Photopherese und Zellprodukte bieten können
+# GVHD-Behandlungen in China: Nutzen und Grenzen vergleichen
 
 ## Hero
 
-- **Title:** GVHD-Behandlungen vergleichen: Was Steroide, zielgerichtete Medikamente, Photopherese und Zellprodukte bieten können
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Graft-versus-Host-Erkrankung
-- **Subtitle:** Eine Familie, die Behandlungen der Graft-versus-Host-Erkrankung vergleicht, erhält möglicherweise mehrere scheinbar konkurrierende Empfehlungen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** GVHD-Behandlungen in China: Nutzen und Grenzen vergleichen
+- **Subtitle:** GVHD-Therapien in China vergleichen: lokale und systemische Behandlung, Photopherese und Zellprodukte nach Organbedarf, Evidenz und Belastung beurteilen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ Bevor Sie zwischen schriftlichen Vorschlägen wählen, bitten Sie jedes Team, se
 ## SEO Metadata
 
 - **Primary keyword:** GVHD-Behandlungsvergleich in China
+
+- **Meta title:** GVHD-Behandlungen in China: Nutzen und Grenzen vergleichen
+- **Meta description:** GVHD-Therapien in China vergleichen: lokale und systemische Behandlung, Photopherese und Zellprodukte nach Organbedarf, Evidenz und Belastung beurteilen.

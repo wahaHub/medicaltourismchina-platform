@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Estimulación cerebral profunda para la enfermedad de Parkinson: evaluación, cirugía y seguimiento después del tratamiento en China
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de Parkinson
-- **Subtitle:** Una persona puede caminar y vestirse razonablemente bien cuando la medicación está funcionando y después presentar una rigidez marcada cuando su efecto desaparece.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Estimulación cerebral profunda para la enfermedad de Parkinson: evaluación, cirugía y seguimiento después del tratamiento en China
+- **Subtitle:** Comprenda la evaluación para estimulación cerebral profunda del Parkinson, la elección de diana, la cirugía y el seguimiento tras el tratamiento en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ La rehabilitación sigue siendo pertinente después de la DBS. La marcha, el equ
 ## SEO Metadata
 
 - **Primary keyword:** cirugía DBS enfermedad de Parkinson
+
+- **Meta title:** Estimulación cerebral profunda para la enfermedad de Parkinson: evaluación, cirugía y seguimiento después del tratamiento en China
+- **Meta description:** Comprenda la evaluación para estimulación cerebral profunda del Parkinson, la elección de diana, la cirugía y el seguimiento tras el tratamiento en China.

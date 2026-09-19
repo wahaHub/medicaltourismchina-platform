@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Wer sollte zur Schlaganfallrehabilitation nach China reisen? Bedarf und Reisefähigkeit beurteilen
 - **Category:** Leitfäden zum Patientenweg
 - **Subcategory:** Rehabilitation nach ischämischem Schlaganfall
-- **Subtitle:** Eine Reise nach China nach einem ischämischen Schlaganfall ist am sinnvollsten, wenn der Aufenthalt einen klaren klinischen Zweck hat.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Wer sollte zur Schlaganfallrehabilitation nach China reisen? Bedarf und Reisefähigkeit beurteilen
+- **Subtitle:** Eine Reise zur Schlaganfallrehabilitation in China prüfen: erwarteter Nutzen, Stabilität, Transfers, Schlucken, Kommunikation und anschließende Betreuung klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Besprechen Sie diese Aufzeichnung mit dem Patienten über seine bevorzugte Kommu
 ## SEO Metadata
 
 - **Primary keyword:** Reise nach China zur Rehabilitation nach ischämischem Schlaganfall
+
+- **Meta title:** Wer sollte zur Schlaganfallrehabilitation nach China reisen? Bedarf und Reisefähigkeit beurteilen
+- **Meta description:** Eine Reise zur Schlaganfallrehabilitation in China prüfen: erwarteter Nutzen, Stabilität, Transfers, Schlucken, Kommunikation und anschließende Betreuung klären.

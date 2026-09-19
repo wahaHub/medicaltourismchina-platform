@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Ein Krankenhaus in China für Sichelzellkrankheit auswählen: Fachkompetenz, Blutversorgung und kontinuierliche Betreuung
 - **Category:** Krankenhausleitfäden
 - **Subcategory:** Sichelzellkrankheit
-- **Subtitle:** Für Menschen mit Sichelzellkrankheit bedeutet die Krankenhauswahl, ein Team zu finden, das den individuellen Zustand versteht und sowohl bei Routineterminen als auch in Notfällen die notwendige Versorgung leisten kann.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Ein Krankenhaus in China für Sichelzellkrankheit auswählen: Fachkompetenz, Blutversorgung und kontinuierliche Betreuung
+- **Subtitle:** Ein Krankenhaus für Sichelzellkrankheit in China prüfen: Erfahrung, passende Blutversorgung, Notfallwege, Transplantationsnachsorge und Kommunikation klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -151,3 +153,6 @@ Sprache, Kosten und Transport sind wichtig, sollten aber zusammen mit klinischen
 ## SEO Metadata
 
 - **Primary keyword:** Krankenhaus für Sichelzellkrankheit in China
+
+- **Meta title:** Ein Krankenhaus in China für Sichelzellkrankheit auswählen: Fachkompetenz, Blutversorgung und kontinuierliche Betreuung
+- **Meta description:** Ein Krankenhaus für Sichelzellkrankheit in China prüfen: Erfahrung, passende Blutversorgung, Notfallwege, Transplantationsnachsorge und Kommunikation klären.

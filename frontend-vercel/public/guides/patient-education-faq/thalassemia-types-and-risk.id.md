@@ -1,12 +1,14 @@
-# Jenis dan risiko talasemia: mengapa orang dengan diagnosis umum yang sama memerlukan perawatan berbeda
+# Jenis dan Risiko Talasemia: Persiapan Perawatan di Tiongkok
 
 ## Hero
 
-- **Title:** Jenis dan risiko talasemia: mengapa orang dengan diagnosis umum yang sama memerlukan perawatan berbeda
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Talasemia
-- **Subtitle:** Seseorang mengetahui status pembawa sifat saat pemeriksaan rutin.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Jenis dan Risiko Talasemia: Persiapan Perawatan di Tiongkok
+- **Subtitle:** Bedakan status pembawa, jenis genetik, dan kebutuhan transfusi pada talasemia. Siapkan penilaian risiko serta kebutuhan perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Tujuan evaluasi risiko adalah mengidentifikasi perawatan berguna, bukan menghapu
 ## SEO Metadata
 
 - **Primary keyword:** talasemia alfa; talasemia beta; penyakit HbH; talasemia bergantung transfusi; talasemia tidak bergantung transfusi
+
+- **Meta title:** Jenis dan Risiko Talasemia: Persiapan Perawatan di Tiongkok
+- **Meta description:** Bedakan status pembawa, jenis genetik, dan kebutuhan transfusi pada talasemia. Siapkan penilaian risiko serta kebutuhan perawatan di Tiongkok.

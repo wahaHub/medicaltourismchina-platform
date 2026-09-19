@@ -1,15 +1,17 @@
-# 145 Rehabilitation vor der Heimkehr: Funktionsfähigkeit übergeben, nicht Übungsnamen
+# Heimkehr nach Rehabilitation in China: Übergabe der Versorgung
 
 ## Hero
 
-- **Title:** Rehabilitation vor der Heimkehr: Funktionsfähigkeit übergeben, nicht Übungsnamen
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Grenzüberschreitende Rehabilitationsübergabe
-- **Subtitle:** Eine hilfreiche Übergabe hält fest, was der Patient kann, wie dies gemessen wurde, welche Einschränkungen bestehen, was als Nächstes folgt und wer die Verantwortung übernommen hat.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Eine Rehabilitationsfachkraft plant mit einem älteren Patienten neben einer Gehhilfe und Trainingsgeräten die nächste Phase.
+
+
+- **Title:** Heimkehr nach Rehabilitation in China: Übergabe der Versorgung
+- **Subtitle:** Übermitteln Sie vor der Heimkehr funktionelle Ausgangsbefunde, Ziele, Übungsdosierung, Hilfsmittel, Betreuungskompetenzen und einen angenommenen ersten Termin.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -225,13 +227,15 @@ Wenn ein benannter übernehmender Dienst den Empfang bestätigt, Verantwortung �
 ## SEO Metadata
 
 - **Slug:** `planning-rehabilitation-before-returning-home`
-- **Meta title:** Rehabilitationsübergabe vor der Heimkehr
-- **Meta description:** Übermitteln Sie vor der Heimkehr funktionelle Ausgangsbefunde, Ziele, Übungsdosierung, Hilfsmittel, Betreuungskompetenzen und einen angenommenen ersten Termin.
 - **Primary keyword:** Rehabilitationsplan vor der Heimkehr
 - **Pillar keyword:** medizinische Reise nach China
 - **Vertical keyword:** grenzüberschreitende Rehabilitationsübergabe
 - **Search intent:** Kontinuitätsplanung / Rehabilitationsübergabe
 - **Secondary keywords:** Rehabilitationsentlassungsbericht; funktionelle Übergabe; Hilfsmittel für häusliche Rehabilitation; Physiotherapie für internationale Patienten; Rehabilitationsschulung für Betreuungspersonen
+
+
+- **Meta title:** Heimkehr nach Rehabilitation in China: Übergabe der Versorgung
+- **Meta description:** Übermitteln Sie vor der Heimkehr funktionelle Ausgangsbefunde, Ziele, Übungsdosierung, Hilfsmittel, Betreuungskompetenzen und einen angenommenen ersten Termin.
 
 ## Quellen
 

@@ -1,15 +1,17 @@
-# 078 Studien zur TCR-T-Zelltherapie: Was Patienten verstehen sollten
+# TCR-T-Studien in China: HLA-Abgleich und Teilnahmevoraussetzungen
 
 ## Hero
 
-- **Title:** Studien zur TCR-T-Zelltherapie: Was Patienten verstehen sollten
 - **Category:** Klinische Studien und fortschrittliche Behandlungen
 - **Subcategory:** Zelluläre Immuntherapie
-- **Subtitle:** Die Eignung für eine Studie hängt vom genauen HLA-Allel, Tumorziel, gentechnisch veränderten Rezeptor, der Kohorte und dem Behandlungsablauf ab – nicht allein vom Begriff „TCR-T“.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Redaktionelle Illustration rezeptortragender Immunzellen neben einem Gespräch zur Patientenauswahl; rein schematisch, kein Labortest und kein bestimmtes TCR-T-Produkt.
+
+
+- **Title:** TCR-T-Studien in China: HLA-Abgleich und Teilnahmevoraussetzungen
+- **Subtitle:** Verstehen Sie die Eignungsprüfung für TCR-T-Studien mit HLA- und Tumorzielen, Screening, Zellherstellung, Kreuzreaktivitätsrisiken, Prüfung in China und Nachsorge.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -162,11 +164,13 @@ Nur wenn Prüfplan und behandelndes Zentrum dies freigeben. Frühe entzündliche
 ## SEO Metadata
 
 - **Slug:** `tcr-t-cell-therapy-trials-what-patients-should-understand`
-- **Meta title:** TCR-T-Studien: HLA-Abgleich, Teilnahmevoraussetzungen und Risiken
-- **Meta description:** Verstehen Sie die Eignungsprüfung für TCR-T-Studien mit HLA- und Tumorzielen, Screening, Zellherstellung, Kreuzreaktivitätsrisiken, Prüfung in China und Nachsorge.
 - **Primary keyword:** Studien zur TCR-T-Zelltherapie
 - **Secondary keywords:** TCR-T HLA-Abgleich; TCR-T Teilnahmevoraussetzungen; gentechnisch veränderter T-Zell-Rezeptor; TCR-T-Studie China; TCR-T Risiken
 - **Search intent:** Eignungsprüfung für TCR-T-Studien / Entscheidung über fortschrittliche Behandlung
+
+
+- **Meta title:** TCR-T-Studien in China: HLA-Abgleich und Teilnahmevoraussetzungen
+- **Meta description:** Verstehen Sie die Eignungsprüfung für TCR-T-Studien mit HLA- und Tumorzielen, Screening, Zellherstellung, Kreuzreaktivitätsrisiken, Prüfung in China und Nachsorge.
 
 ## Quellen
 

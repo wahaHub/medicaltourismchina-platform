@@ -1,12 +1,14 @@
-# Membandingkan pengobatan limfoma sel mantel: kemoimunoterapi, kombinasi BTK, dan transplantasi autologus
+# Limfoma Sel Mantel di Tiongkok: Membandingkan Pilihan Pengobatan
 
 ## Hero
 
-- **Title:** Membandingkan pengobatan limfoma sel mantel: kemoimunoterapi, kombinasi BTK, dan transplantasi autologus
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel Mantel
-- **Subtitle:** Pencarian terkait: BR versus kombinasi bertarget; keputusan transplantasi MCL; membandingkan pengobatan di Tiongkok
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Limfoma Sel Mantel di Tiongkok: Membandingkan Pilihan Pengobatan
+- **Subtitle:** Bandingkan terapi limfoma sel mantel di Tiongkok sebagai jalur lengkap, termasuk kemoimunoterapi, penghambat BTK, transplantasi, dan pemeliharaan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ Rekomendasi perlu diakhiri dengan alasan yang dapat dipahami: mengapa sesuai den
 ## SEO Metadata
 
 - **Primary keyword:** perbandingan pengobatan limfoma sel mantel
+
+- **Meta title:** Limfoma Sel Mantel di Tiongkok: Membandingkan Pilihan Pengobatan
+- **Meta description:** Bandingkan terapi limfoma sel mantel di Tiongkok sebagai jalur lengkap, termasuk kemoimunoterapi, penghambat BTK, transplantasi, dan pemeliharaan.

@@ -1,12 +1,14 @@
-# Jenis dan risiko DLBCL: membedakan biologi penyakit dari kelayakan menjalani pengobatan
+# Jenis dan Risiko DLBCL: Persiapan Tinjauan di Tiongkok
 
 ## Hero
 
-- **Title:** Jenis dan risiko DLBCL: membedakan biologi penyakit dari kelayakan menjalani pengobatan
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Limfoma Sel B Besar Difus
-- **Subtitle:** Jenis dan risiko DLBCL: membedakan biologi penyakit dari kelayakan menjalani pengobatan
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Jenis dan Risiko DLBCL: Persiapan Tinjauan di Tiongkok
+- **Subtitle:** Bedakan subtipe, temuan genetik, stadium, dan kesiapan pengobatan DLBCL. Siapkan pertanyaan risiko serta dokumen untuk tinjauan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -117,3 +119,6 @@ Patologi asli dan ringkasan pengobatan yang telah lengkap tetap penting selama t
 ## SEO Metadata
 
 - **Primary keyword:** jenis dan faktor risiko DLBCL
+
+- **Meta title:** Jenis dan Risiko DLBCL: Persiapan Tinjauan di Tiongkok
+- **Meta description:** Bedakan subtipe, temuan genetik, stadium, dan kesiapan pengobatan DLBCL. Siapkan pertanyaan risiko serta dokumen untuk tinjauan di Tiongkok.

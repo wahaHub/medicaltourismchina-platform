@@ -1,15 +1,17 @@
-# Fever Before or After Treatment: The Number Matters, but the Context Decides the Urgency
+# Fever After Treatment in China: When to Seek Urgent Help
 
 ## Hero
 
-- **Title:** Fever Before or After Treatment: The Number Matters, but the Context Decides the Urgency
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Symptoms & Urgent Care
-- **Subtitle:** A safety-first guide to measuring temperature, recognizing high-risk treatment windows, reporting the right details and knowing when not to wait for a callback.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Planned replacement showing a patient checking a thermometer while contacting the treatment team, with chemotherapy and postoperative warning contexts
+
+
+- **Title:** Fever After Treatment in China: When to Seek Urgent Help
+- **Subtitle:** Know when fever after chemotherapy, surgery, an infusion or transfusion needs an immediate call, emergency care and a clear treatment handover.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -167,13 +169,15 @@ Use the treating hospital’s 24-hour route if available. For severe or rapidly 
 ## SEO Metadata
 
 - **Slug:** `fever-before-or-after-treatment-when-to-contact-a-clinician`
-- **Meta title:** Fever After Treatment: When to Call or Seek Emergency Care
-- **Meta description:** Know when fever after chemotherapy, surgery, an infusion or transfusion needs an immediate call, emergency care and a clear treatment handover.
 - **Primary keyword:** fever after treatment when to call doctor
 - **Pillar keyword:** patient safety during medical travel
 - **Vertical keyword:** fever after chemotherapy or surgery
 - **Search intent:** urgent patient education
 - **Secondary keywords:** chemotherapy fever 38 C; postoperative fever warning signs; fever after infusion; neutropenic fever; fever after blood transfusion
+
+
+- **Meta title:** Fever After Treatment in China: When to Seek Urgent Help
+- **Meta description:** Know when fever after chemotherapy, surgery, an infusion or transfusion needs an immediate call, emergency care and a clear treatment handover.
 
 ## Sources
 

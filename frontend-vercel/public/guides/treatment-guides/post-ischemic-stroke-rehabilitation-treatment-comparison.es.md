@@ -1,12 +1,14 @@
-# Elegir métodos de rehabilitación tras un ictus: práctica de tareas, robótica, realidad virtual y atención domiciliaria
+# Rehabilitación del ictus en China: comparar métodos terapéuticos
 
 ## Hero
 
-- **Title:** Elegir métodos de rehabilitación tras un ictus: práctica de tareas, robótica, realidad virtual y atención domiciliaria
 - **Category:** Guías de tratamiento
 - **Subcategory:** Rehabilitación tras un ictus isquémico
-- **Subtitle:** Las familias que consideran la rehabilitación pueden recibir programas muy diferentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rehabilitación del ictus en China: comparar métodos terapéuticos
+- **Subtitle:** Compare métodos de rehabilitación del ictus en China según el objetivo funcional, la práctica de tareas y el papel de robótica, estimulación y atención domiciliaria.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ La propuesta más adecuada puede no contener la lista más larga. Considere si a
 ## SEO Metadata
 
 - **Primary keyword:** comparación de tratamientos de rehabilitación del ictus
+
+- **Meta title:** Rehabilitación del ictus en China: comparar métodos terapéuticos
+- **Meta description:** Compare métodos de rehabilitación del ictus en China según el objetivo funcional, la práctica de tareas y el papel de robótica, estimulación y atención domiciliaria.

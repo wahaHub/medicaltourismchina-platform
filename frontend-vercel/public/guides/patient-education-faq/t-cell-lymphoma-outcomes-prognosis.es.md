@@ -1,12 +1,14 @@
-# ¿Cuánto puede durar la remisión en el linfoma de células T? Comprender el pronóstico y las cifras de supervivencia
+# Pronóstico del linfoma de células T: preguntas para la atención en China
 
 ## Hero
 
-- **Title:** ¿Cuánto puede durar la remisión en el linfoma de células T? Comprender el pronóstico y las cifras de supervivencia
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma de células T
-- **Subtitle:** Buscar información sobre la esperanza de vida puede dar lugar tanto a cifras históricas desalentadoras como a promesas promocionales de curación.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronóstico del linfoma de células T: preguntas para la atención en China
+- **Subtitle:** Interprete las cifras de remisión y supervivencia del linfoma de células T según el subtipo y la respuesta para preparar una consulta especializada en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ Puede ayudar registrar la fecha de cada conversación sobre pronóstico y en qu�
 ## SEO Metadata
 
 - **Primary keyword:** pronóstico y supervivencia del linfoma de células T
+
+- **Meta title:** Pronóstico del linfoma de células T: preguntas para la atención en China
+- **Meta description:** Interprete las cifras de remisión y supervivencia del linfoma de células T según el subtipo y la respuesta para preparar una consulta especializada en China.

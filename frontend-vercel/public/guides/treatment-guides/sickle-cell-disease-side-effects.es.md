@@ -1,12 +1,14 @@
-# Reconocer los efectos secundarios del tratamiento de la enfermedad de células falciformes: síntomas urgentes y revisión programada
+# Tratamiento de enfermedad falciforme en China: efectos secundarios y señales urgentes
 
 ## Hero
 
-- **Title:** Reconocer los efectos secundarios del tratamiento de la enfermedad de células falciformes: síntomas urgentes y revisión programada
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de células falciformes
-- **Subtitle:** Las náuseas, el cansancio o el dolor después de empezar un tratamiento no demuestran por sí solos un efecto secundario.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento de enfermedad falciforme en China: efectos secundarios y señales urgentes
+- **Subtitle:** Reconozca posibles efectos de medicamentos y transfusiones para enfermedad falciforme, y prepare controles y una vía de atención urgente en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Siempre que se inicie o cambie un tratamiento, establezca qué se espera, qué c
 ## SEO Metadata
 
 - **Primary keyword:** efectos secundarios del tratamiento de la enfermedad de células falciformes
+
+- **Meta title:** Tratamiento de enfermedad falciforme en China: efectos secundarios y señales urgentes
+- **Meta description:** Reconozca posibles efectos de medicamentos y transfusiones para enfermedad falciforme, y prepare controles y una vía de atención urgente en China.

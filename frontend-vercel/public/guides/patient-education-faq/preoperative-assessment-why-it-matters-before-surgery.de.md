@@ -1,15 +1,17 @@
-# Die präoperative Beurteilung ist keine bloße Formalität: Sie schafft den sichersten erreichbaren Operationsplan
+# Operationsvorbereitung in China: Untersuchungen und Anästhesiebeurteilung
 
 ## Hero
 
-- **Title:** Die präoperative Beurteilung ist keine bloße Formalität: Sie schafft den sichersten erreichbaren Operationsplan
 - **Category:** Patientenaufklärung und häufig gestellte Fragen
 - **Subcategory:** Chirurgie und Krankenhaussicherheit
-- **Subtitle:** Was Chirurgen, Anästhesieteams und Patienten zu Gesundheitsveränderungen, Medikamenten, Untersuchungen, Nüchternheit, Risiken und postoperativer Versorgung klären müssen, bevor der OP-Zeitplan zum Behandlungsplan wird.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Ein Chirurg und eine präoperative Pflegekraft führen vor der Operation eine persönliche Beurteilung mit einem Patienten durch
+
+
+- **Title:** Operationsvorbereitung in China: Untersuchungen und Anästhesiebeurteilung
+- **Subtitle:** Erfahren Sie, was die präoperative Beurteilung wirklich prüft, warum Tests gezielt erfolgen, wie Medikamente und Nüchternheit geplant werden, wann sich Operationen verzögern und was Patienten mitbringen sollten.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,11 +147,13 @@ Nein. Die Beurteilung entwickelt den medizinischen Plan über Tage oder Wochen. 
 
 ## SEO Metadata
 
-- **SEO title:** Präoperative Beurteilung: Tests, Medikamente, Anästhesie und Operationsbereitschaft
-- **Meta description:** Erfahren Sie, was die präoperative Beurteilung wirklich prüft, warum Tests gezielt erfolgen, wie Medikamente und Nüchternheit geplant werden, wann sich Operationen verzögern und was Patienten mitbringen sollten.
 - **Primary keyword:** präoperative Beurteilung vor der Operation
 - **Secondary keywords:** präanästhesiologische Beurteilung, präoperative Untersuchungen, Operationsfreigabe, perioperatives Risiko, Medikamente vor der Operation, chirurgische Sicherheitscheckliste
 - **Suggested URL slug:** `/preoperative-assessment-tests-medicines-anesthesia-risk`
+
+
+- **Meta title:** Operationsvorbereitung in China: Untersuchungen und Anästhesiebeurteilung
+- **Meta description:** Erfahren Sie, was die präoperative Beurteilung wirklich prüft, warum Tests gezielt erfolgen, wie Medikamente und Nüchternheit geplant werden, wann sich Operationen verzögern und was Patienten mitbringen sollten.
 
 ## Quellen
 

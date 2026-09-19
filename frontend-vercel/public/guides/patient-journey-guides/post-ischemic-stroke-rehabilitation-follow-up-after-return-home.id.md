@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Setelah rehabilitasi stroke di Tiongkok: Melanjutkan perawatan dan pemulihan di rumah
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Rehabilitasi Pascastroke Iskemik
-- **Subtitle:** Setelah menjalani rehabilitasi stroke iskemik di Tiongkok, pulang berarti memindahkan pengobatan ke lingkungan yang berbeda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Setelah rehabilitasi stroke di Tiongkok: Melanjutkan perawatan dan pemulihan di rumah
+- **Subtitle:** Lanjutkan pemulihan stroke setelah rehabilitasi di Tiongkok dengan serah terima fungsi, obat, latihan, serta tugas tenaga kesehatan dan pendamping.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,3 +146,6 @@ Jika sumber daya lokal berbeda dari rencana yang dikembangkan di Tiongkok, jelas
 ## SEO Metadata
 
 - **Primary keyword:** tindak lanjut setelah rehabilitasi stroke di Tiongkok
+
+- **Meta title:** Setelah rehabilitasi stroke di Tiongkok: Melanjutkan perawatan dan pemulihan di rumah
+- **Meta description:** Lanjutkan pemulihan stroke setelah rehabilitasi di Tiongkok dengan serah terima fungsi, obat, latihan, serta tugas tenaga kesehatan dan pendamping.

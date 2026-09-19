@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Wer sollte für die Versorgung eines T-Zell-Lymphoms eine Reise nach China erwägen? Nutzen einer Überweisung und Reisefähigkeit klären
 - **Category:** Leitfäden zum Patientenweg
 - **Subcategory:** T-Zell-Lymphom
-- **Subtitle:** Der Nutzen einer Reise hängt zunächst davon ab, was das aufnehmende Team klären kann.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Wer sollte für die Versorgung eines T-Zell-Lymphoms eine Reise nach China erwägen? Nutzen einer Überweisung und Reisefähigkeit klären
+- **Subtitle:** Eine Reise bei T-Zell-Lymphom nach China prüfen: Subtypklärung, Rückfalloptionen, medizinische Stabilität, Therapieeignung und Aufnahmevereinbarungen klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Familien können eine kurze Abreisecheckliste mit bestätigtem Termin, aktueller
 ## SEO Metadata
 
 - **Primary keyword:** Reise nach China zur Behandlung eines T-Zell-Lymphoms
+
+- **Meta title:** Wer sollte für die Versorgung eines T-Zell-Lymphoms eine Reise nach China erwägen? Nutzen einer Überweisung und Reisefähigkeit klären
+- **Meta description:** Eine Reise bei T-Zell-Lymphom nach China prüfen: Subtypklärung, Rückfalloptionen, medizinische Stabilität, Therapieeignung und Aufnahmevereinbarungen klären.

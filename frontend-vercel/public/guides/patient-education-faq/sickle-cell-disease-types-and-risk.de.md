@@ -1,12 +1,14 @@
-# Sichelzellgenotypen und Risiko: HbSS, HbSC und Sichelzell-Beta-Thalassämie verstehen
+# Formen und Risiken der Sichelzellkrankheit: Vorbereitung auf die Versorgung in China
 
 ## Hero
 
-- **Title:** Sichelzellgenotypen und Risiko: HbSS, HbSC und Sichelzell-Beta-Thalassämie verstehen
 - **Category:** Patientenaufklärung & FAQ
 - **Subcategory:** Sichelzellkrankheit
-- **Subtitle:** Manche Menschen sehen die Diagnose HbSS und nehmen an, ihre Zukunft müsse schlechter sein als die aller anderen Patienten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Formen und Risiken der Sichelzellkrankheit: Vorbereitung auf die Versorgung in China
+- **Subtitle:** Sichelzellformen für eine Beratung in China einordnen: HbSS, HbSC und Sichelzell-Beta-Thalassämie mit Krisenverlauf, Organbefunden und Lebensphase verbinden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Prüfen Sie bei unterschiedlichen Meinungen zuerst, ob beide Teams dieselbe Diag
 ## SEO Metadata
 
 - **Primary keyword:** Formen der Sichelzellkrankheit und individuelles Risiko
+
+- **Meta title:** Formen und Risiken der Sichelzellkrankheit: Vorbereitung auf die Versorgung in China
+- **Meta description:** Sichelzellformen für eine Beratung in China einordnen: HbSS, HbSC und Sichelzell-Beta-Thalassämie mit Krisenverlauf, Organbefunden und Lebensphase verbinden.

@@ -1,12 +1,14 @@
-# Die erste MS-Behandlung wählen: Aus einer ersten Verordnung einen umsetzbaren Plan machen
+# Beginn der MS-Behandlung in China: Medikamente und Nachsorge
 
 ## Hero
 
-- **Title:** Die erste MS-Behandlung wählen: Aus einer ersten Verordnung einen umsetzbaren Plan machen
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Multiple Sklerose
-- **Subtitle:** Erstlinienbehandlung bedeutet nicht zwangsläufig, dass jeder Mensch mit MS mit demselben weniger intensiven Medikament beginnen muss.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Beginn der MS-Behandlung in China: Medikamente und Nachsorge
+- **Subtitle:** Den ersten MS-Behandlungsplan in China vorbereiten: Schubversorgung, verlaufsmodifizierende Medikamente, Sicherheitsprüfungen und Ausgangsbefunde abstimmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Erfragen Sie Kosten für anfängliche Abklärung, Medikament und Verabreichung, 
 ## SEO Metadata
 
 - **Primary keyword:** Erstlinienbehandlung der multiplen Sklerose in China
+
+- **Meta title:** Beginn der MS-Behandlung in China: Medikamente und Nachsorge
+- **Meta description:** Den ersten MS-Behandlungsplan in China vorbereiten: Schubversorgung, verlaufsmodifizierende Medikamente, Sicherheitsprüfungen und Ausgangsbefunde abstimmen.

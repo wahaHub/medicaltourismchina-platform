@@ -1,15 +1,17 @@
-# MRI di Tiongkok: Kartu Implan, Keputusan Kontras, dan Rencana Klaustrofobia yang Perlu Diselesaikan Sebelum Hari Pemindaian
+# MRI di Tiongkok: Implan, Kontras, dan Klaustrofobia
 
 ## Hero
 
-- **Title:** MRI di Tiongkok: Kartu Implan, Keputusan Kontras, dan Rencana Klaustrofobia yang Perlu Diselesaikan Sebelum Hari Pemindaian
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Pemeriksaan & Diagnosis
-- **Subtitle:** Panduan praktis untuk skrining keselamatan magnetik, pertanyaan tentang gadolinium, persiapan hari pemindaian, dan menerima citra yang dapat digunakan setelah pemeriksaan.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Klinisi menjelaskan pemindai MRI dengan simbol keselamatan magnetik dan kontras intravena
+
+
+- **Title:** MRI di Tiongkok: Implan, Kontras, dan Klaustrofobia
+- **Subtitle:** Bersiap untuk MRI di Tiongkok dengan rincian implan terverifikasi, pertanyaan kontras dan ginjal, skrining kehamilan, perencanaan klaustrofobia, dan pengambilan DICOM.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -165,13 +167,15 @@ Panduan profesi umumnya mendukung melanjutkan menyusui setelah kontras gadoliniu
 ## SEO Metadata
 
 - **Slug:** `mri-scans-preparation-safety-and-contrast-questions`
-- **Meta title:** Persiapan MRI: Implan, Gadolinium, dan Klaustrofobia
-- **Meta description:** Bersiap untuk MRI di Tiongkok dengan rincian implan terverifikasi, pertanyaan kontras dan ginjal, skrining kehamilan, perencanaan klaustrofobia, dan pengambilan DICOM.
 - **Primary keyword:** persiapan dan keselamatan MRI
 - **Pillar keyword:** pencitraan diagnostik di Tiongkok
 - **Vertical keyword:** pertanyaan implan MRI dan gadolinium
 - **Search intent:** panduan persiapan pencitraan
 - **Secondary keywords:** implan MR Conditional; gadolinium MRI ginjal; sedasi klaustrofobia MRI; MRI kehamilan; DICOM MRI Tiongkok
+
+
+- **Meta title:** MRI di Tiongkok: Implan, Kontras, dan Klaustrofobia
+- **Meta description:** Bersiap untuk MRI di Tiongkok dengan rincian implan terverifikasi, pertanyaan kontras dan ginjal, skrining kehamilan, perencanaan klaustrofobia, dan pengambilan DICOM.
 
 ## Sumber
 

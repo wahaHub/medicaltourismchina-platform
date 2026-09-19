@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Retour à domicile après un traitement du SMD en Chine : examens de suivi, transfusions, prescriptions et soins après greffe
 - **Category:** Guides du parcours patient
 - **Subcategory:** Syndrome myélodysplasique
-- **Subtitle:** Retour à domicile après un traitement du SMD en Chine : examens de suivi, transfusions, prescriptions et soins après greffe
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Retour à domicile après un traitement du SMD en Chine : examens de suivi, transfusions, prescriptions et soins après greffe
+- **Subtitle:** Après des soins de syndrome myélodysplasique en Chine, coordonnez analyses, transfusions, prescriptions et suivi de greffe avec un médecin local identifié.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Suivez les consignes individualisées du patient concernant la surveillance, les
 ## SEO Metadata
 
 - **Primary keyword:** suivi du syndrome myélodysplasique après traitement en Chine
+
+- **Meta title:** Retour à domicile après un traitement du SMD en Chine : examens de suivi, transfusions, prescriptions et soins après greffe
+- **Meta description:** Après des soins de syndrome myélodysplasique en Chine, coordonnez analyses, transfusions, prescriptions et suivi de greffe avec un médecin local identifié.

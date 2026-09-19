@@ -1,15 +1,17 @@
-# 140 Ernährung während der Erholung im Krankenhaus: den Zufuhrweg vor dem Kalorienzählen wählen
+# Erholung im Krankenhaus in China: Ernährung und Flüssigkeitszufuhr planen
 
 ## Hero
 
-- **Title:** Ernährung während der Erholung im Krankenhaus: den Zufuhrweg vor dem Kalorienzählen wählen
 - **Category:** Leitfäden zum Patientenweg
 - **Subcategory:** Ernährungsscreening, Ernährungswege und Flüssigkeitsbilanz
-- **Subtitle:** Ernährung in der Erholungsphase beginnt mit der Frage, ob Schlucken sicher ist, der Darm funktioniert und Flüssigkeit eingeschränkt werden muss. Erst dann werden Energie, Protein, Ergänzungsprodukte und Essensvorlieben zu hilfreichen Zahlen.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Symbolisches Gespräch zur stationären Erholung mit Wasser, Obst und einer Gehhilfe; es steht für die Planung von Ernährung und Flüssigkeitsversorgung, nicht für eine verordnete Kost oder uneingeschränkte Flüssigkeitsaufnahme.
+
+
+- **Title:** Erholung im Krankenhaus in China: Ernährung und Flüssigkeitszufuhr planen
+- **Subtitle:** Ernährungsrisiko erfassen, sicheres Schlucken und Darmfunktion bestätigen, orale/Sonden-/IV-Unterstützung wählen, Flüssigkeitsbilanz verfolgen und Ernährung nach dem Krankenhausaufenthalt planen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -184,13 +186,15 @@ Rasche Ernährung kann bei Hochrisikopatienten Refeeding-bedingte Flüssigkeits-
 ## SEO Metadata
 
 - **Slug:** `nutrition-and-hydration-during-hospital-recovery`
-- **Meta title:** Ernährung während der Erholung im Krankenhaus | Zufuhrweg und Flüssigkeitsplan
-- **Meta description:** Ernährungsrisiko erfassen, sicheres Schlucken und Darmfunktion bestätigen, orale/Sonden-/IV-Unterstützung wählen, Flüssigkeitsbilanz verfolgen und Ernährung nach dem Krankenhausaufenthalt planen.
 - **Primary keyword:** Ernährung bei Erholung im Krankenhaus China
 - **Pillar keyword:** medizinische Reisen nach China
 - **Vertical keyword:** stationärer Ernährungs- und Flüssigkeitsplan
 - **Search intent:** Erholungsplanung / Ernährungsunterstützung
 - **Secondary keywords:** Ernährungsscreening Krankenhaus China; postoperative Ernährung; enterale Ernährung China; Refeeding-Risiko; Flüssigkeitsbilanz im Krankenhaus
+
+
+- **Meta title:** Erholung im Krankenhaus in China: Ernährung und Flüssigkeitszufuhr planen
+- **Meta description:** Ernährungsrisiko erfassen, sicheres Schlucken und Darmfunktion bestätigen, orale/Sonden-/IV-Unterstützung wählen, Flüssigkeitsbilanz verfolgen und Ernährung nach dem Krankenhausaufenthalt planen.
 
 ## Quellen
 
@@ -200,4 +204,3 @@ Rasche Ernährung kann bei Hochrisikopatienten Refeeding-bedingte Flüssigkeits-
 4. [National Institute for Health and Care Excellence — Intravenöse Flüssigkeitstherapie bei Erwachsenen im Krankenhaus](https://www.nice.org.uk/guidance/cg174/chapter/recommendations)
 5. [Amerikanische Gesellschaft für parenterale und enterale Ernährung — Bibliothek zur klinischen Praxis, Konsens zum Refeeding-Syndrom](https://nutritioncare.org/Clinical_Practice_Library/)
 6. [Weltgesundheitsorganisation — Handbuch der fünf Schlüssel zu sicheren Lebensmitteln](https://tdr.who.int/home/our-work/global-engagement/9789241594639)
-

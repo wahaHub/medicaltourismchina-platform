@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Hodgkin-Lymphom: 20 Patientenfragen zu Diagnose, Behandlung und Versorgung in China
 - **Category:** Patientenaufklärung & FAQ
 - **Subcategory:** Hodgkin-Lymphom
-- **Subtitle:** Die Diagnose Hodgkin-Lymphom kann binnen weniger Termine viele unbekannte Begriffe mit sich bringen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Hodgkin-Lymphom: 20 Patientenfragen zu Diagnose, Behandlung und Versorgung in China
+- **Subtitle:** 20 Fragen zum Hodgkin-Lymphom und zur Versorgung in China: Biopsie, PET, Medikamente, Bestrahlung, Rückfall und wichtige Entscheidungen verständlich erklären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -201,3 +203,6 @@ Bestimmen Sie vor Heimkehr aufnehmenden Arzt und nächste Beurteilung und überm
 ## SEO Metadata
 
 - **Primary keyword:** Patientenfragen zum Hodgkin-Lymphom
+
+- **Meta title:** Hodgkin-Lymphom: 20 Patientenfragen zu Diagnose, Behandlung und Versorgung in China
+- **Meta description:** 20 Fragen zum Hodgkin-Lymphom und zur Versorgung in China: Biopsie, PET, Medikamente, Bestrahlung, Rückfall und wichtige Entscheidungen verständlich erklären.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** What does drug-resistant epilepsy treatment cost in China? Building a usable estimate
 - **Category:** Cost & Insurance Guides
 - **Subcategory:** Drug Resistant Epilepsy
-- **Subtitle:** Patients understandably want to know what they must prepare financially before choosing where to seek care.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** What does drug-resistant epilepsy treatment cost in China? Building a usable estimate
+- **Subtitle:** Estimate drug-resistant epilepsy care costs in China by separating evaluation, monitoring, medicines, procedures and follow-up requirements.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -171,3 +173,6 @@ The most useful outcome is an explanation from the clinicians of why the service
 ## SEO Metadata
 
 - **Primary keyword:** drug-resistant epilepsy treatment cost in China; epilepsy surgery budget; SEEG costs; epilepsy insurance coverage in China
+
+- **Meta title:** What does drug-resistant epilepsy treatment cost in China? Building a usable estimate
+- **Meta description:** Estimate drug-resistant epilepsy care costs in China by separating evaluation, monitoring, medicines, procedures and follow-up requirements.

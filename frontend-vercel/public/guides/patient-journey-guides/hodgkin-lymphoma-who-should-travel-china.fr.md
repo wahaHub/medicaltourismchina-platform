@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Dois-je me rendre en Chine pour les soins d’un lymphome de Hodgkin ? Intérêt de l’orientation et aptitude médicale
 - **Category:** Guides du parcours patient
 - **Subcategory:** Lymphome de Hodgkin
-- **Subtitle:** Voyager en Chine pour les soins d’un lymphome de Hodgkin implique deux questions distinctes : ce que la visite peut apporter et si la personne est médicalement prête pour le voyage.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dois-je me rendre en Chine pour les soins d’un lymphome de Hodgkin ? Intérêt de l’orientation et aptitude médicale
+- **Subtitle:** Avant des soins de lymphome de Hodgkin en Chine, clarifiez l’intérêt d’un avis, la relecture du diagnostic, les options à la rechute et l’aptitude au voyage.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,3 +143,6 @@ Avant de décider, demandez aux équipes d’aborder la stabilité médicale act
 ## SEO Metadata
 
 - **Primary keyword:** voyager en Chine pour le traitement du lymphome de Hodgkin
+
+- **Meta title:** Dois-je me rendre en Chine pour les soins d’un lymphome de Hodgkin ? Intérêt de l’orientation et aptitude médicale
+- **Meta description:** Avant des soins de lymphome de Hodgkin en Chine, clarifiez l’intérêt d’un avis, la relecture du diagnostic, les options à la rechute et l’aptitude au voyage.

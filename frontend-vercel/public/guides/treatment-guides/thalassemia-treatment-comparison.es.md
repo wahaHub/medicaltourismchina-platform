@@ -1,12 +1,14 @@
-# Comparación de tratamientos para la talasemia: apoyo transfusional, medicamentos para la anemia, trasplante y terapia génica
+# Opciones de tratamiento de la talasemia: idoneidad y acceso en China
 
 ## Hero
 
-- **Title:** Comparación de tratamientos para la talasemia: apoyo transfusional, medicamentos para la anemia, trasplante y terapia génica
 - **Category:** Guías de tratamiento
 - **Subcategory:** Talasemia
-- **Subtitle:** Los tratamientos para la talasemia suelen incluirse en una misma comparación aunque aborden problemas diferentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Opciones de tratamiento de la talasemia: idoneidad y acceso en China
+- **Subtitle:** Compare apoyo transfusional, medicamentos, trasplante y terapia génica para talasemia según objetivos, seguimiento e idoneidad para la atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -129,3 +131,6 @@ Lleve a la revisión una comparación de una página: si la atención actual est
 ## SEO Metadata
 
 - **Primary keyword:** comparación de tratamientos para la talasemia; trasplante frente a medicamentos; luspatercept; mitapivat; decisiones sobre terapia génica
+
+- **Meta title:** Opciones de tratamiento de la talasemia: idoneidad y acceso en China
+- **Meta description:** Compare apoyo transfusional, medicamentos, trasplante y terapia génica para talasemia según objetivos, seguimiento e idoneidad para la atención en China.

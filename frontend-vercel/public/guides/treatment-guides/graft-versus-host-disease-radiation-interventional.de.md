@@ -1,12 +1,14 @@
-# Extrakorporale Photopherese bei GVHD: das Verfahren, wiederholte Termine und die Beurteilung des Ansprechens
+# Photopherese bei GVHD in China: Termine und Ansprechkontrolle
 
 ## Hero
 
-- **Title:** Extrakorporale Photopherese bei GVHD: das Verfahren, wiederholte Termine und die Beurteilung des Ansprechens
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Graft-versus-Host-Erkrankung
-- **Subtitle:** Die Bezeichnung extrakorporale Photopherese kann an Strahlentherapie, einen Blutaustausch oder eine einmalige Beseitigung schädlicher Immunaktivität denken lassen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Photopherese bei GVHD in China: Termine und Ansprechkontrolle
+- **Subtitle:** Photopherese bei GVHD in China planen: Eignung, Gefäßzugang, wiederholte Termine, Sicherheitsfragen und Kriterien zur Beurteilung des Ansprechens besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -138,3 +140,6 @@ Für eine Fortsetzung zu Hause muss die übernehmende Einrichtung vorher zustimm
 ## SEO Metadata
 
 - **Primary keyword:** extrakorporale Photopherese bei GVHD in China
+
+- **Meta title:** Photopherese bei GVHD in China: Termine und Ansprechkontrolle
+- **Meta description:** Photopherese bei GVHD in China planen: Eignung, Gefäßzugang, wiederholte Termine, Sicherheitsfragen und Kriterien zur Beurteilung des Ansprechens besprechen.

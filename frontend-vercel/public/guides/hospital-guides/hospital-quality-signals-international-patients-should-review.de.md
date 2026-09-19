@@ -1,15 +1,17 @@
-# 100 Krankenhaus-Qualitätssignale, die internationale Patienten prüfen sollten
+# Krankenhausqualität in China: Prüfpunkte für internationale Patienten
 
 ## Hero
 
-- **Title:** Krankenhaus-Qualitätssignale, die internationale Patienten prüfen sollten
 - **Category:** Krankenhausleitfäden
 - **Subcategory:** Krankenhausqualität & Sicherheit
-- **Subtitle:** Ersetzen Sie Prestige, Ausstattung und vage Erfolgsversprechen durch Signale, die auf Abteilungs-, Team- und Versorgungspfadebene überprüfbar sind.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Konzeptillustration eines internationalen Patienten, der mit einem Koordinator über Krankenhausqualität spricht; die Schild-, Medaillen- und Diagrammsymbole sind weder ein Akkreditierungszertifikat noch eine tatsächliche Qualitätsbewertung.
+
+
+- **Title:** Krankenhausqualität in China: Prüfpunkte für internationale Patienten
+- **Subtitle:** Eine praktische Methode zur Bewertung chinesischer Krankenhäuser anhand von Teameignung, definierten Ergebnissen, Rettungsfähigkeit, Sicherheitssystemen, Unterlagen und grenzüberschreitender Nachsorge.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -229,13 +231,15 @@ Koordinatoren können Zulassungsunterlagen, Zeitpläne, Kostenvoranschläge und 
 ## SEO Metadata
 
 - **Slug:** `hospital-quality-signals-international-patients-should-review`
-- **Meta title:** Krankenhaus-Qualitätssignale, die internationale Patienten prüfen sollten
-- **Meta description:** Eine praktische Methode zur Bewertung chinesischer Krankenhäuser anhand von Teameignung, definierten Ergebnissen, Rettungsfähigkeit, Sicherheitssystemen, Unterlagen und grenzüberschreitender Nachsorge.
 - **Primary keyword:** Krankenhaus-Qualitätssignale China
 - **Pillar keyword:** beste Krankenhäuser in China für Ausländer
 - **Vertical keyword:** Krankenhaus-Qualitätssignale, die internationale Patienten prüfen sollten
 - **Search intent:** Krankenhausvergleich / Qualitätsprüfung
 - **Secondary keywords:** Krankenhausqualität China; internationale Patientensicherheit; Krankenhausergebnisse China; Krankenhausakkreditierung China; ein Krankenhaus in China wählen
+
+
+- **Meta title:** Krankenhausqualität in China: Prüfpunkte für internationale Patienten
+- **Meta description:** Eine praktische Methode zur Bewertung chinesischer Krankenhäuser anhand von Teameignung, definierten Ergebnissen, Rettungsfähigkeit, Sicherheitssystemen, Unterlagen und grenzüberschreitender Nachsorge.
 
 ## Quellen
 

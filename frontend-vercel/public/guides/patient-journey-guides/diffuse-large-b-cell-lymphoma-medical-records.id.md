@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Rekam medis untuk konsultasi DLBCL di Tiongkok: panduan persiapan praktis
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Limfoma Sel B Besar Difus
-- **Subtitle:** Pendapat kedua untuk DLBCL sulit diberikan ketika catatan hanya terdiri atas satu tangkapan layar diagnosis, beberapa foto PET, dan ingatan tentang kemoterapi.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rekam medis untuk konsultasi DLBCL di Tiongkok: panduan persiapan praktis
+- **Subtitle:** Siapkan rekam medis DLBCL untuk konsultasi di Tiongkok dengan ringkasan klinis, laporan patologi lengkap, bahan biopsi, pencitraan, dan riwayat terapi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Sebelum konsultasi, buat catatan singkat informasi yang belum ada, mencakup doku
 ## SEO Metadata
 
 - **Primary keyword:** rekam medis DLBCL untuk konsultasi di Tiongkok
+
+- **Meta title:** Rekam medis untuk konsultasi DLBCL di Tiongkok: panduan persiapan praktis
+- **Meta description:** Siapkan rekam medis DLBCL untuk konsultasi di Tiongkok dengan ringkasan klinis, laporan patologi lengkap, bahan biopsi, pencitraan, dan riwayat terapi.

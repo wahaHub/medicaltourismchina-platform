@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Dossier médical pour une consultation d’épilepsie pharmacorésistante en Chine : rendre l’histoire compréhensible
 - **Category:** Guides du parcours patient
 - **Subcategory:** Épilepsie pharmacorésistante
-- **Subtitle:** Un grand sac de comptes rendus ne facilite pas nécessairement une consultation davantage qu’un dossier soigneusement organisé.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dossier médical pour une consultation d’épilepsie pharmacorésistante en Chine : rendre l’histoire compréhensible
+- **Subtitle:** Préparez une consultation d’épilepsie pharmacorésistante en Chine avec une chronologie claire, un journal des crises, des vidéos utiles et les traitements essayés.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -168,3 +170,6 @@ Après la première revue, répondez aux demandes précises plutôt que de renvo
 ## SEO Metadata
 
 - **Primary keyword:** dossier médical d’épilepsie pharmacorésistante pour la Chine ; documents de consultation d’épilepsie ; fichiers IRM originaux ; historique des médicaments antiépileptiques
+
+- **Meta title:** Dossier médical pour une consultation d’épilepsie pharmacorésistante en Chine : rendre l’histoire compréhensible
+- **Meta description:** Préparez une consultation d’épilepsie pharmacorésistante en Chine avec une chronologie claire, un journal des crises, des vidéos utiles et les traitements essayés.

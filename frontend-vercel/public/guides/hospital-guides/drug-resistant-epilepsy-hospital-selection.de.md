@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Ein Krankenhaus in China für pharmakoresistente Epilepsie auswählen: das Zentrum auf das klinische Problem abstimmen
 - **Category:** Krankenhausratgeber
 - **Subcategory:** Pharmakoresistente Epilepsie
-- **Subtitle:** Ein bekannter Arzt, ein modernes Gerät oder eine erfolgreiche Fallgeschichte können das Erste sein, was ein Patient bei der Suche nach Versorgung sieht.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Ein Krankenhaus in China für pharmakoresistente Epilepsie auswählen: das Zentrum auf das klinische Problem abstimmen
+- **Subtitle:** Ein Epilepsiezentrum in China passend auswählen: Diagnostik, interdisziplinäre Operationsentscheidung, Altersgruppen und Betreuung nach einem Eingriff prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -173,3 +175,6 @@ Eine engere Auswahl muss nicht viele Einrichtungen enthalten. Konzentrieren Sie 
 
 - **Primary keyword:** Auswahl eines Krankenhauses für pharmakoresistente Epilepsie in China; umfassendes Epilepsiezentrum; multidisziplinäre Versorgung pädiatrischer Epilepsie
 
+
+- **Meta title:** Ein Krankenhaus in China für pharmakoresistente Epilepsie auswählen: das Zentrum auf das klinische Problem abstimmen
+- **Meta description:** Ein Epilepsiezentrum in China passend auswählen: Diagnostik, interdisziplinäre Operationsentscheidung, Altersgruppen und Betreuung nach einem Eingriff prüfen.

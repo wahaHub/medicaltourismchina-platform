@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choisir un hôpital en Chine pour le myélome multiple : adapter l’équipe à la phase du traitement
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Myélome multiple
-- **Subtitle:** Un patient peut avoir besoin d’une clarification diagnostique, d’une planification de première ligne, d’une évaluation pour greffe, d’un traitement de rechute ou d’une prise en charge des complications.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choisir un hôpital en Chine pour le myélome multiple : adapter l’équipe à la phase du traitement
+- **Subtitle:** Choisissez une équipe de myélome en Chine selon la phase de soins : interprétation du bilan, parcours d’autogreffe et vérification des thérapies cellulaires.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Le choix final doit refléter les besoins liés à la maladie, le traitement dis
 ## SEO Metadata
 
 - **Primary keyword:** hôpitaux et centres de traitement du myélome multiple en Chine
+
+- **Meta title:** Choisir un hôpital en Chine pour le myélome multiple : adapter l’équipe à la phase du traitement
+- **Meta description:** Choisissez une équipe de myélome en Chine selon la phase de soins : interprétation du bilan, parcours d’autogreffe et vérification des thérapies cellulaires.

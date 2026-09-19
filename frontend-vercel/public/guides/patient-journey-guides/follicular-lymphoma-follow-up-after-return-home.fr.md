@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Suivi du lymphome folliculaire après le retour de Chine
 - **Category:** Guides du parcours patient
 - **Subcategory:** Lymphome folliculaire
-- **Subtitle:** Un compte rendu de sortie indiquant un suivi régulier laisse de nombreuses questions pratiques sans réponse.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Suivi du lymphome folliculaire après le retour de Chine
+- **Subtitle:** Après des soins du lymphome folliculaire en Chine, préparez les consultations, le suivi de la réponse, les décisions d’entretien et la prévention des infections.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Planifiez la transmission financière avec la transmission médicale. Estimez s�
 ## SEO Metadata
 
 - **Primary keyword:** suivi du lymphome folliculaire après traitement en Chine
+
+- **Meta title:** Suivi du lymphome folliculaire après le retour de Chine
+- **Meta description:** Après des soins du lymphome folliculaire en Chine, préparez les consultations, le suivi de la réponse, les décisions d’entretien et la prévention des infections.

@@ -1,12 +1,14 @@
-# Beginn der Behandlung bei Parkinson: Was die erste Verordnung erreichen sollte
+# Beginn der Parkinson-Behandlung in China: Die erste Verordnung
 
 ## Hero
 
-- **Title:** Beginn der Behandlung bei Parkinson: Was die erste Verordnung erreichen sollte
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Parkinson-Krankheit
-- **Subtitle:** Neu diagnostizierte Patienten sorgen sich oft sowohl darum, die Versorgung zu verzögern, als auch darum, Behandlungsmöglichkeiten zu früh auszuschöpfen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Beginn der Parkinson-Behandlung in China: Die erste Verordnung
+- **Subtitle:** Die erste Parkinson-Verordnung in China besprechen: konkretes Symptomziel, Levodopa oder andere Optionen, Alltagstauglichkeit, Nutzen und Nebenwirkungen prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Evidenz geprüft: September 9, 2026. Dieser Artikel nennt keine individuelle Anf
 ## SEO Metadata
 
 - **Primary keyword:** Erstlinientherapie der Parkinson-Krankheit in China
+
+- **Meta title:** Beginn der Parkinson-Behandlung in China: Die erste Verordnung
+- **Meta description:** Die erste Parkinson-Verordnung in China besprechen: konkretes Symptomziel, Levodopa oder andere Optionen, Alltagstauglichkeit, Nutzen und Nebenwirkungen prüfen.

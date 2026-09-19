@@ -1,12 +1,14 @@
-# Cirugía y procedimientos en la talasemia: decisiones sobre el bazo, la vesícula biliar y otras intervenciones
+# Cirugía de talasemia en China: bazo, vesícula y recuperación
 
 ## Hero
 
-- **Title:** Cirugía y procedimientos en la talasemia: decisiones sobre el bazo, la vesícula biliar y otras intervenciones
 - **Category:** Guías de tratamiento
 - **Subcategory:** Talasemia
-- **Subtitle:** No existe una operación general para la talasemia que retire tejido anormal y corrija así el trastorno hereditario.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Cirugía de talasemia en China: bazo, vesícula y recuperación
+- **Subtitle:** Comprenda las decisiones sobre bazo, vesícula y otros procedimientos en talasemia, con preguntas sobre indicación, prevención y recuperación en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ Evite basar un viaje de regreso inflexible únicamente en una fecha estimada de 
 ## SEO Metadata
 
 - **Primary keyword:** cirugía en talasemia; esplenectomía; cálculos biliares; evaluación preoperatoria; bazo aumentado de tamaño
+
+- **Meta title:** Cirugía de talasemia en China: bazo, vesícula y recuperación
+- **Meta description:** Comprenda las decisiones sobre bazo, vesícula y otros procedimientos en talasemia, con preguntas sobre indicación, prevención y recuperación en China.

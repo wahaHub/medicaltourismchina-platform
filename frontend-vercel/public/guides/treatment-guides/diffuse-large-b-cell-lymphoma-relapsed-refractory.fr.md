@@ -1,12 +1,14 @@
-# LDGCB en rechute ou réfractaire : réévaluation et prochaine décision thérapeutique
+# LDGCB en rechute ou réfractaire en Chine : réévaluation et prochaines étapes
 
 ## Hero
 
-- **Title:** LDGCB en rechute ou réfractaire : réévaluation et prochaine décision thérapeutique
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome diffus à grandes cellules B
-- **Subtitle:** Une nouvelle masse ou une fixation suspecte à la TEP après un traitement du LDGCB nécessite une réévaluation rapide, mais une imagerie seule ne doit pas conduire à déclarer tous les traitements inefficaces.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** LDGCB en rechute ou réfractaire en Chine : réévaluation et prochaines étapes
+- **Subtitle:** Préparez une réévaluation du LDGCB en rechute en Chine : confirmation tissulaire, chronologie précise et discussion des parcours CAR-T ou de greffe.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Avant le retour, obtenez le résumé de réponse, le plan médicamenteux et infe
 ## SEO Metadata
 
 - **Primary keyword:** traitement du LDGCB en rechute ou réfractaire
+
+- **Meta title:** LDGCB en rechute ou réfractaire en Chine : réévaluation et prochaines étapes
+- **Meta description:** Préparez une réévaluation du LDGCB en rechute en Chine : confirmation tissulaire, chronologie précise et discussion des parcours CAR-T ou de greffe.

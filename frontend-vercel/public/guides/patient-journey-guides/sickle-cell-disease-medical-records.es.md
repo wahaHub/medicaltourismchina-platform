@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Registros médicos para la atención de la enfermedad de células falciformes en China: diagnóstico, compatibilidad sanguínea, crisis y antecedentes de tratamiento
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Enfermedad de células falciformes
-- **Subtitle:** Preparar los registros para la atención de la enfermedad de células falciformes consiste menos en producir una gran pila de papeles que en permitir a un equipo nuevo comprender el estado habitual del paciente, los episodios graves pasados y el tratamiento actual.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Registros médicos para la atención de la enfermedad de células falciformes en China: diagnóstico, compatibilidad sanguínea, crisis y antecedentes de tratamiento
+- **Subtitle:** Organice los documentos de enfermedad falciforme para China: diagnóstico, resultados fechados, compatibilidad sanguínea, reacciones y tratamientos recibidos.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ Tras el envío, pregunte qué elementos específicos siguen faltando en lugar de
 ## SEO Metadata
 
 - **Primary keyword:** registros médicos para el tratamiento de la enfermedad de células falciformes en China
+
+- **Meta title:** Registros médicos para la atención de la enfermedad de células falciformes en China: diagnóstico, compatibilidad sanguínea, crisis y antecedentes de tratamiento
+- **Meta description:** Organice los documentos de enfermedad falciforme para China: diagnóstico, resultados fechados, compatibilidad sanguínea, reacciones y tratamientos recibidos.

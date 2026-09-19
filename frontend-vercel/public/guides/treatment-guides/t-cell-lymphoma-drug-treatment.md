@@ -1,12 +1,14 @@
-# Medicines for T-cell lymphoma: indications, monitoring and treatment at home
+# T-Cell Lymphoma Medicines in China: Indications and Monitoring
 
 ## Hero
 
-- **Title:** Medicines for T-cell lymphoma: indications, monitoring and treatment at home
 - **Category:** Treatment Guides
 - **Subcategory:** T Cell Lymphoma
-- **Subtitle:** An expanding list of drug names is less useful than understanding what a person is taking, why it was selected and how it will be monitored.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** T-Cell Lymphoma Medicines in China: Indications and Monitoring
+- **Subtitle:** Review T-cell lymphoma medicines by the relevant indication, monitoring requirements and home-use instructions before arranging treatment in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -109,3 +111,6 @@ At review, ask for the next stage in writing: which medicines continue, when tes
 ## SEO Metadata
 
 - **Primary keyword:** drug treatment for T-cell lymphoma
+
+- **Meta title:** T-Cell Lymphoma Medicines in China: Indications and Monitoring
+- **Meta description:** Review T-cell lymphoma medicines by the relevant indication, monitoring requirements and home-use instructions before arranging treatment in China.

@@ -1,12 +1,14 @@
-# Nouveaux médicaments et essais cliniques dans la thalassémie en 2026 : distinguer autorisations, recherche et admissibilité personnelle
+# Médicaments et essais de la thalassémie : preuves et accès en Chine
 
 ## Hero
 
-- **Title:** Nouveaux médicaments et essais cliniques dans la thalassémie en 2026 : distinguer autorisations, recherche et admissibilité personnelle
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Thalassémie
-- **Subtitle:** L’annonce d’une indépendance transfusionnelle peut immédiatement soulever la question de l’accès à un traitement pour un patient donné.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Médicaments et essais de la thalassémie : preuves et accès en Chine
+- **Subtitle:** Comparez les recherches médicamenteuses et géniques sur la thalassémie, leurs objectifs et leurs risques. Préparez une évaluation de l’accès aux soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,3 +143,6 @@ Pour la prochaine consultation, concentrez-vous sur trois décisions : ce que le
 ## SEO Metadata
 
 - **Primary keyword:** nouveaux traitements de la thalassémie 2026 ; essais cliniques en Chine ; mitapivat ; édition génique ; CS-101
+
+- **Meta title:** Médicaments et essais de la thalassémie : preuves et accès en Chine
+- **Meta description:** Comparez les recherches médicamenteuses et géniques sur la thalassémie, leurs objectifs et leurs risques. Préparez une évaluation de l’accès aux soins en Chine.

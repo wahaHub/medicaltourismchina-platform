@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Behandlungskosten bei aplastischer Anämie in China: ein aufgeschlüsseltes Budget in Renminbi erstellen
 - **Category:** Kosten- & Versicherungsleitfäden
 - **Subcategory:** Aplastische Anämie
-- **Subtitle:** Am leichtesten unterschätzt werden häufig die Kosten nach dem ersten stationären Aufenthalt: laufende Medikamente, Transfusionen, Infektionsversorgung und Nachsorge.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Behandlungskosten bei aplastischer Anämie in China: ein aufgeschlüsseltes Budget in Renminbi erstellen
+- **Subtitle:** Kosten der Behandlung aplastischer Anämie in China planen: Diagnostik, Medikamente, Blutversorgung, Spenderabklärung und Nachsorge im Angebot erfassen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -122,3 +124,6 @@ Prüfen Sie vor Einreichung des Budgets, ob das Zentrum den Plan bestätigt hat,
 ## SEO Metadata
 
 - **Primary keyword:** Behandlungskosten bei aplastischer Anämie in China
+
+- **Meta title:** Behandlungskosten bei aplastischer Anämie in China: ein aufgeschlüsseltes Budget in Renminbi erstellen
+- **Meta description:** Kosten der Behandlung aplastischer Anämie in China planen: Diagnostik, Medikamente, Blutversorgung, Spenderabklärung und Nachsorge im Angebot erfassen.

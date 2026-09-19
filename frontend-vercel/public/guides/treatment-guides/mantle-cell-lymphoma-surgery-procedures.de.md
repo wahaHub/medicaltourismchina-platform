@@ -1,12 +1,14 @@
-# Muss ein Mantelzelllymphom operiert werden? Biopsie, Venenzugang, Zellsammlung und Notfalleingriffe
+# Eingriffe beim Mantelzelllymphom in China: Zweck und Planung
 
 ## Hero
 
-- **Title:** Muss ein Mantelzelllymphom operiert werden? Biopsie, Venenzugang, Zellsammlung und Notfalleingriffe
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Mantelzelllymphom
-- **Subtitle:** Verwandte Suchanfragen: MCL-Biopsie; Eingriffe während der Lymphombehandlung; MCL-Versorgung in China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Eingriffe beim Mantelzelllymphom in China: Zweck und Planung
+- **Subtitle:** Eingriffe beim Mantelzelllymphom in China planen: Biopsie, Knochenmarkentnahme, Port, Zellsammlung und dringliche Operationen ihrem jeweiligen Zweck zuordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -121,3 +123,6 @@ Der Wert eines Eingriffs liegt in dem klinischen Problem, das er löst, und dari
 ## SEO Metadata
 
 - **Primary keyword:** Operation beim Mantelzelllymphom
+
+- **Meta title:** Eingriffe beim Mantelzelllymphom in China: Zweck und Planung
+- **Meta description:** Eingriffe beim Mantelzelllymphom in China planen: Biopsie, Knochenmarkentnahme, Port, Zellsammlung und dringliche Operationen ihrem jeweiligen Zweck zuordnen.

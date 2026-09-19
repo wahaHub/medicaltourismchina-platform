@@ -1,12 +1,14 @@
-# Behandlung der aplastischen Anämie: vom unmittelbaren Schutz zur dauerhaften Knochenmarkerholung
+# Behandlung der aplastischen Anämie in China: Optionen und Erholung
 
 ## Hero
 
-- **Title:** Behandlung der aplastischen Anämie: vom unmittelbaren Schutz zur dauerhaften Knochenmarkerholung
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Aplastische Anämie
-- **Subtitle:** Nach der Diagnose einer aplastischen Anämie lautet die erste praktische Frage, ob der Patient jetzt den Schutz einer stationären Versorgung benötigt.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Behandlung der aplastischen Anämie in China: Optionen und Erholung
+- **Subtitle:** Behandlung aplastischer Anämie in China planen: Diagnose, Schweregrad, Transplantation, Immunsuppression und unterstützende Versorgung im Verlauf abstimmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Bei der Entlassung benötigt der Patient den nächsten Untersuchungstermin, den 
 ## SEO Metadata
 
 - **Primary keyword:** Behandlung der aplastischen Anämie
+
+- **Meta title:** Behandlung der aplastischen Anämie in China: Optionen und Erholung
+- **Meta description:** Behandlung aplastischer Anämie in China planen: Diagnose, Schweregrad, Transplantation, Immunsuppression und unterstützende Versorgung im Verlauf abstimmen.

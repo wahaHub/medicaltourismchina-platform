@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choisir un hôpital en Chine pour l’aplasie médullaire : diagnostic, traitement médical et greffe avec donneur
 - **Category:** Guides hospitaliers
 - **Subcategory:** Aplasie médullaire
-- **Subtitle:** Commencez par nommer le problème à résoudre : diagnostic contesté, décision de premier traitement, absence persistante de réponse ou parcours précis de greffe avec donneur.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choisir un hôpital en Chine pour l’aplasie médullaire : diagnostic, traitement médical et greffe avec donneur
+- **Subtitle:** Évaluez un hôpital en Chine pour l’aplasie médullaire selon la confirmation du diagnostic, le suivi sous immunosuppresseurs et le parcours de greffe avec donneur.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -118,3 +120,6 @@ Réduisez le choix à quelques centres répondant réellement aux conditions du 
 ## SEO Metadata
 
 - **Primary keyword:** choisir un hôpital pour l’aplasie médullaire
+
+- **Meta title:** Choisir un hôpital en Chine pour l’aplasie médullaire : diagnostic, traitement médical et greffe avec donneur
+- **Meta description:** Évaluez un hôpital en Chine pour l’aplasie médullaire selon la confirmation du diagnostic, le suivi sous immunosuppresseurs et le parcours de greffe avec donneur.

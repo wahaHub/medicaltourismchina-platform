@@ -1,12 +1,14 @@
-# SEEG und fokale Ablation bei pharmakoresistenter Epilepsie: Unterschiede zwischen Aufzeichnung, Radiofrequenzbehandlung und Lasertherapie
+# SEEG und Epilepsieablation in China: Untersuchung und Behandlung unterscheiden
 
 ## Hero
 
-- **Title:** SEEG und fokale Ablation bei pharmakoresistenter Epilepsie: Unterschiede zwischen Aufzeichnung, Radiofrequenzbehandlung und Lasertherapie
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Pharmakoresistente Epilepsie
-- **Subtitle:** Hört ein Patient, dass implantierte Elektroden auch zur Thermokoagulation eingesetzt werden können, kann es so klingen, als würde ein einziger Aufenthalt die Anfallsursache zugleich lokalisieren und beseitigen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** SEEG und Epilepsieablation in China: Untersuchung und Behandlung unterscheiden
+- **Subtitle:** SEEG und Ablation bei Epilepsie in China unterscheiden: invasive Aufzeichnung, Zielbestimmung, Radiofrequenz- und Laserbehandlung samt Funktionsrisiken besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Erfolgt die weitere Versorgung außerhalb Chinas, benennen Sie den Arzt für Anf
 ## SEO Metadata
 
 - **Primary keyword:** SEEG bei pharmakoresistenter Epilepsie; Radiofrequenzthermokoagulation bei Epilepsie; Laserablation; minimalinvasive Epilepsieabklärung in China
+
+- **Meta title:** SEEG und Epilepsieablation in China: Untersuchung und Behandlung unterscheiden
+- **Meta description:** SEEG und Ablation bei Epilepsie in China unterscheiden: invasive Aufzeichnung, Zielbestimmung, Radiofrequenz- und Laserbehandlung samt Funktionsrisiken besprechen.

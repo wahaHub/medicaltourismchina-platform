@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Cuánto cuesta tratar la talasemia en China? Elaborar un presupuesto para transfusiones, quelación, trasplante y seguimiento
 - **Category:** Guías de costes y seguros
 - **Subcategory:** Talasemia
-- **Subtitle:** El diagnóstico por sí solo no permite obtener un precio de tratamiento fiable.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Cuánto cuesta tratar la talasemia en China? Elaborar un presupuesto para transfusiones, quelación, trasplante y seguimiento
+- **Subtitle:** Planifique los costes de talasemia en China con transfusiones, quelación, controles de órganos y trasplante vinculados al tratamiento y al seguimiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -158,3 +160,6 @@ Para la talasemia, una conversación financiera útil ayuda a mantener una atenc
 ## SEO Metadata
 
 - **Primary keyword:** coste del tratamiento de la talasemia en China; costes de transfusiones; presupuesto de quelación; presupuesto de trasplante para talasemia en RMB
+
+- **Meta title:** ¿Cuánto cuesta tratar la talasemia en China? Elaborar un presupuesto para transfusiones, quelación, trasplante y seguimiento
+- **Meta description:** Planifique los costes de talasemia en China con transfusiones, quelación, controles de órganos y trasplante vinculados al tratamiento y al seguimiento.

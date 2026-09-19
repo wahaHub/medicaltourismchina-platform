@@ -1,12 +1,14 @@
-# Arzneimittel gegen T-Zell-Lymphome: Indikationen, Überwachung und Behandlung zu Hause
+# Medikamente beim T-Zell-Lymphom in China: Indikationen und Überwachung
 
 ## Hero
 
-- **Title:** Arzneimittel gegen T-Zell-Lymphome: Indikationen, Überwachung und Behandlung zu Hause
 - **Category:** Behandlungsratgeber
 - **Subcategory:** T-Zell-Lymphom
-- **Subtitle:** Eine immer längere Liste von Arzneimittelnamen ist weniger hilfreich als zu verstehen, was eine Person einnimmt, warum es ausgewählt wurde und wie es überwacht wird.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medikamente beim T-Zell-Lymphom in China: Indikationen und Überwachung
+- **Subtitle:** Medikamente beim T-Zell-Lymphom in China prüfen: subtypspezifische Indikation, unterstützende Verordnungen, Infektionsüberwachung und häusliche Verantwortung klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -109,3 +111,6 @@ Bitten Sie bei der Kontrolle um die nächste Phase in schriftlicher Form: Welche
 ## SEO Metadata
 
 - **Primary keyword:** medikamentöse Behandlung von T-Zell-Lymphomen
+
+- **Meta title:** Medikamente beim T-Zell-Lymphom in China: Indikationen und Überwachung
+- **Meta description:** Medikamente beim T-Zell-Lymphom in China prüfen: subtypspezifische Indikation, unterstützende Verordnungen, Infektionsüberwachung und häusliche Verantwortung klären.

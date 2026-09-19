@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Tratamiento de la enfermedad de injerto contra huésped: atención de la EICH aguda y crónica en China
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de injerto contra huésped
-- **Subtitle:** Después de un trasplante alogénico de células madre, una erupción nueva, diarrea, sequedad ocular o limitación del movimiento pueden dar lugar a una evaluación por enfermedad de injerto contra huésped, habitualmente llamada EICH.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento de la enfermedad de injerto contra huésped: atención de la EICH aguda y crónica en China
+- **Subtitle:** Comprenda la atención de enfermedad injerto contra huésped aguda y crónica en China según causa, gravedad, órganos afectados e indicaciones del tratamiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Sin un plan individual y un presupuesto hospitalario formal, no puede establecer
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento de la enfermedad de injerto contra huésped en China
+
+- **Meta title:** Tratamiento de la enfermedad de injerto contra huésped: atención de la EICH aguda y crónica en China
+- **Meta description:** Comprenda la atención de enfermedad injerto contra huésped aguda y crónica en China según causa, gravedad, órganos afectados e indicaciones del tratamiento.

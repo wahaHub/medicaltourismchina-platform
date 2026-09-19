@@ -1,15 +1,17 @@
-# One-Page Medical Summary for Overseas Care: Make the First Minute Count
+# Medical Summary for Care in China: A One-Page Template Guide
 
 ## Hero
 
-- **Title:** One-Page Medical Summary for Overseas Care: Make the First Minute Count
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Patient Decision-Making & Caregiver Support
-- **Subtitle:** A field-by-field method for turning a scattered medical history into a concise, dated and clinically useful handover.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Patient and companion review a concise medical summary with a clinician before overseas care
+
+
+- **Title:** Medical Summary for Care in China: A One-Page Template Guide
+- **Subtitle:** Build a concise overseas medical summary with the right referral question, diagnoses, allergies, medicines, results, devices and indexed attachments.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - The summary never replaces original reports, pathology, DICOM images or medication packaging. It should point to those files with a simple index.
 
 ## Content
+
+When sending records to a hospital in China, place a concise medical summary in front of the full document set. Make the referral question, diagnosis, allergies, medicines and dated test results easy to locate, while keeping the original reports available for clinical review.
+
 
 At an overseas hospital, the first clinician may have ten minutes, an unfamiliar language and hundreds of uploaded pages. A good one-page summary lets that person see the shape of the case before opening the archive. A poor one hides the reason for referral beneath every normal test the patient has ever had.
 
@@ -172,11 +177,13 @@ Update it after a meaningful diagnosis, medicine, procedure, test result or cond
 
 ## SEO Metadata
 
-- **SEO title:** One-Page Medical Summary for Overseas Care: Template Guide
-- **Meta description:** Build a concise overseas medical summary with the right referral question, diagnoses, allergies, medicines, results, devices and indexed attachments.
 - **Primary keyword:** one-page medical summary for overseas care
 - **Secondary keywords:** international patient medical summary, medical history translation, overseas treatment records, cross-border patient summary, medical summary template
 - **Suggested URL slug:** `/one-page-medical-summary-overseas-care`
+
+
+- **Meta title:** Medical Summary for Care in China: A One-Page Template Guide
+- **Meta description:** Build a concise overseas medical summary with the right referral question, diagnoses, allergies, medicines, results, devices and indexed attachments.
 
 ## Sources
 

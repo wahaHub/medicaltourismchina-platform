@@ -1,12 +1,14 @@
-# Memahami Laporan GVHD: Skor Organ, Patologi, dan Hasil Transplantasi
+# Laporan GVHD: Skor Organ dan Tinjauan Spesialis di Tiongkok
 
 ## Hero
 
-- **Title:** Memahami Laporan GVHD: Skor Organ, Patologi, dan Hasil Transplantasi
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Penyakit Graft-Versus-Host
-- **Subtitle:** Rekam medis seorang pasien dapat memuat derajat histologis rendah dari biopsi usus, derajat GVHD akut keseluruhan yang lebih tinggi, skor paru satu, dan kimerisme donor hampir lengkap.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Laporan GVHD: Skor Organ dan Tinjauan Spesialis di Tiongkok
+- **Subtitle:** Bedakan skor organ, derajat klinis, hasil biopsi, dan kimerisme pada GVHD. Susun linimasa laporan untuk penilaian spesialis di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Nilai praktis laporan terletak pada apakah laporan mendukung observasi, pemeriks
 ## SEO Metadata
 
 - **Primary keyword:** penjelasan laporan penyakit graft-versus-host konsultasi Tiongkok
+
+- **Meta title:** Laporan GVHD: Skor Organ dan Tinjauan Spesialis di Tiongkok
+- **Meta description:** Bedakan skor organ, derajat klinis, hasil biopsi, dan kimerisme pada GVHD. Susun linimasa laporan untuk penilaian spesialis di Tiongkok.

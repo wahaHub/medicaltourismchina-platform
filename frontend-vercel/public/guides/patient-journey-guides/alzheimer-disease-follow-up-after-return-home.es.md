@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Seguimiento del alzhéimer tras la atención en China: hacer que funcione el plan de regreso a casa
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Enfermedad de Alzheimer
-- **Subtitle:** Una consulta o un curso de tratamiento en China solo resulta útil a lo largo del tiempo si sus hallazgos pueden incorporarse a la atención donde vive el paciente.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Seguimiento del alzhéimer tras la atención en China: hacer que funcione el plan de regreso a casa
+- **Subtitle:** Prepare el regreso tras la atención del Alzheimer en China con responsables, calendarios de revisión y controles de seguridad del tratamiento con anticuerpos.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -130,3 +132,6 @@ Continúe las conversaciones sobre las preferencias del paciente y la atención 
 ## SEO Metadata
 
 - **Primary keyword:** seguimiento después del tratamiento del alzhéimer en China
+
+- **Meta title:** Seguimiento del alzhéimer tras la atención en China: hacer que funcione el plan de regreso a casa
+- **Meta description:** Prepare el regreso tras la atención del Alzheimer en China con responsables, calendarios de revisión y controles de seguridad del tratamiento con anticuerpos.

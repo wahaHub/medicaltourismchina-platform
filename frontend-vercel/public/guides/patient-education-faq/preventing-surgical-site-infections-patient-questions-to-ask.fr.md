@@ -1,15 +1,17 @@
-# Prévenir l’infection du site opératoire : les questions à poser avant et après une opération
+# Chirurgie en Chine : prévenir les infections de plaie et reconnaître les alertes
 
 ## Hero
 
-- **Title:** Prévenir l’infection du site opératoire : les questions à poser avant et après une opération
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Chirurgie et prévention des infections
-- **Subtitle:** Un guide destiné aux patients sur la préparation cutanée, la dépilation, le moment d’administration des antibiotiques, la gestion de la glycémie et de la température, l’hygiène des mains, les pansements et l’évaluation précoce de la plaie.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un patient discute de la prévention des infections et des soins de plaie avec deux soignants de l’équipe périopératoire
+
+
+- **Title:** Chirurgie en Chine : prévenir les infections de plaie et reconnaître les alertes
+- **Subtitle:** Découvrez comment les patients peuvent contribuer à prévenir les infections du site opératoire avant et après l’opération : rasage, antibiotiques, hygiène des mains, pansements, photos et signes d’urgence.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,11 +141,13 @@ Une photo peut documenter une modification superficielle mais ne peut exclure de
 
 ## SEO Metadata
 
-- **SEO title:** Prévention des infections du site opératoire : antibiotiques, soins de plaie et signes d’alerte
-- **Meta description:** Découvrez comment les patients peuvent contribuer à prévenir les infections du site opératoire avant et après l’opération : rasage, antibiotiques, hygiène des mains, pansements, photos et signes d’urgence.
 - **Primary keyword:** prévenir l’infection du site opératoire
 - **Secondary keywords:** prévention des ISO, infection de plaie chirurgicale, antibioprophylaxie, soins d’incision, signes d’alerte de plaie postopératoire, hygiène des mains
 - **Suggested URL slug:** `/prevent-surgical-site-infection-antibiotics-wound-care-warning-signs`
+
+
+- **Meta title:** Chirurgie en Chine : prévenir les infections de plaie et reconnaître les alertes
+- **Meta description:** Découvrez comment les patients peuvent contribuer à prévenir les infections du site opératoire avant et après l’opération : rasage, antibiotiques, hygiène des mains, pansements, photos et signes d’urgence.
 
 ## Sources
 

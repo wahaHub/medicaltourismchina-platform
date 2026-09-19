@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Follow-Up After Multiple Sclerosis Care in China: Connecting Results to Decisions
 - **Category:** Patient Journey Guides
 - **Subcategory:** Multiple Sclerosis
-- **Subtitle:** The most consequential gap after an overseas consultation is often not a missed blood test.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Follow-Up After Multiple Sclerosis Care in China: Connecting Results to Decisions
+- **Subtitle:** Plan MS follow-up after care in China so test results reach the responsible clinician and medicines, rehabilitation and symptom care continue locally.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -104,3 +106,6 @@ A workable follow-up arrangement ends in named responsibilities and usable instr
 ## SEO Metadata
 
 - **Primary keyword:** multiple sclerosis follow-up after treatment in China
+
+- **Meta title:** Follow-Up After Multiple Sclerosis Care in China: Connecting Results to Decisions
+- **Meta description:** Plan MS follow-up after care in China so test results reach the responsible clinician and medicines, rehabilitation and symptom care continue locally.

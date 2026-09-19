@@ -1,12 +1,14 @@
-# Traitement de première ligne du lymphome folliculaire : définir la raison de commencer et choisir un protocole réalisable
+# Traitement de première ligne du lymphome folliculaire en Chine : préparation
 
 ## Hero
 
-- **Title:** Traitement de première ligne du lymphome folliculaire : définir la raison de commencer et choisir un protocole réalisable
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Lymphome folliculaire
-- **Subtitle:** Le traitement de première ligne est l’approche initiale utilisée lorsque le lymphome folliculaire nécessite un traitement.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement de première ligne du lymphome folliculaire en Chine : préparation
+- **Subtitle:** Préparez le premier traitement du lymphome folliculaire en Chine en précisant le besoin d’agir, la place de l’irradiation et le programme médicamenteux.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Certaines discussions d’anatomopathologie et de protocole peuvent avoir lieu �
 ## SEO Metadata
 
 - **Primary keyword:** traitement de première ligne du lymphome folliculaire
+
+- **Meta title:** Traitement de première ligne du lymphome folliculaire en Chine : préparation
+- **Meta description:** Préparez le premier traitement du lymphome folliculaire en Chine en précisant le besoin d’agir, la place de l’irradiation et le programme médicamenteux.

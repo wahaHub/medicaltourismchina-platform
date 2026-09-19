@@ -1,12 +1,14 @@
-# Pruebas ante la sospecha de mieloma múltiple: qué pretende establecer cada paso
+# Diagnóstico de mieloma múltiple en China: pruebas y preparación
 
 ## Hero
 
-- **Title:** Pruebas ante la sospecha de mieloma múltiple: qué pretende establecer cada paso
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Mieloma múltiple
-- **Subtitle:** Una proteína sanguínea anormal, un dolor de espalda persistente o un deterioro inesperado de la función renal pueden llevar a investigar un trastorno de células plasmáticas.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnóstico de mieloma múltiple en China: pruebas y preparación
+- **Subtitle:** Comprenda el papel de las proteínas, la orina, la médula ósea y las imágenes en el diagnóstico de mieloma múltiple, y prepare una evaluación en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Al finalizar la evaluación, no necesita que todas las cifras sean normales para
 ## SEO Metadata
 
 - **Primary keyword:** pruebas diagnósticas del mieloma múltiple
+
+- **Meta title:** Diagnóstico de mieloma múltiple en China: pruebas y preparación
+- **Meta description:** Comprenda el papel de las proteínas, la orina, la médula ósea y las imágenes en el diagnóstico de mieloma múltiple, y prepare una evaluación en China.

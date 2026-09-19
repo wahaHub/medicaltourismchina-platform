@@ -1,12 +1,14 @@
-# Recurrent Pain Despite Sickle Cell Treatment: Reassessment and Next Steps
+# Sickle Cell Pain Despite Treatment: Reassessment in China
 
 ## Hero
 
-- **Title:** Recurrent Pain Despite Sickle Cell Treatment: Reassessment and Next Steps
 - **Category:** Treatment Guides
 - **Subcategory:** Sickle Cell Disease
-- **Subtitle:** Taking medicines seriously and attending follow-up, yet returning to hospital with pain, can make every effort feel pointless.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sickle Cell Pain Despite Treatment: Reassessment in China
+- **Subtitle:** Reassess recurrent sickle cell pain in the context of treatment, triggers and other causes, with records for a focused consultation in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -131,3 +133,6 @@ The visit should produce a near-term action plan: which problem is addressed fir
 ## SEO Metadata
 
 - **Primary keyword:** recurrent sickle cell crises despite treatment
+
+- **Meta title:** Sickle Cell Pain Despite Treatment: Reassessment in China
+- **Meta description:** Reassess recurrent sickle cell pain in the context of treatment, triggers and other causes, with records for a focused consultation in China.

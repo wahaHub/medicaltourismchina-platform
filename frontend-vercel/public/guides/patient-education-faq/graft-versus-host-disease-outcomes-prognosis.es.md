@@ -1,12 +1,14 @@
-# Recuperación y pronóstico tras la EICH: comprender la respuesta, el tiempo sin tratamiento y la función cotidiana
+# Recuperación y pronóstico de la EICH: preguntas para la evaluación en China
 
 ## Hero
 
-- **Title:** Recuperación y pronóstico tras la EICH: comprender la respuesta, el tiempo sin tratamiento y la función cotidiana
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedad de injerto contra huésped
-- **Subtitle:** «¿Me recuperaré?» puede significar varias cosas para alguien que vive con enfermedad de injerto contra huésped.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Recuperación y pronóstico de la EICH: preguntas para la evaluación en China
+- **Subtitle:** Comprenda respuesta, supervivencia y función cotidiana tras la enfermedad injerto contra huésped para preparar una evaluación de recuperación en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -136,3 +138,6 @@ Las perspectivas pueden cambiar a medida que evolucionen el control orgánico, e
 ## SEO Metadata
 
 - **Primary keyword:** pronóstico y resultados del tratamiento de la EICH
+
+- **Meta title:** Recuperación y pronóstico de la EICH: preguntas para la evaluación en China
+- **Meta description:** Comprenda respuesta, supervivencia y función cotidiana tras la enfermedad injerto contra huésped para preparar una evaluación de recuperación en China.

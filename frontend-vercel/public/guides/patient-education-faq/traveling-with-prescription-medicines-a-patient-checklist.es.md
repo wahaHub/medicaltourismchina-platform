@@ -1,15 +1,17 @@
-# Viajar con medicamentos recetados: prepare un plan de medicación legal, seguro en cuanto a temperatura y clínicamente utilizable
+# Llevar medicamentos recetados a China: aduanas y cadena de frío
 
 ## Hero
 
-- **Title:** Viajar con medicamentos recetados: prepare un plan de medicación legal, seguro en cuanto a temperatura y clínicamente utilizable
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Medicamentos
-- **Subtitle:** Una lista de comprobación de las normas de entrada y tránsito, los medicamentos controlados, los envases originales, los nombres genéricos, las reservas en el equipaje de mano, la conservación en cadena de frío, las dosis entre husos horarios y la conciliación de la medicación en el hospital.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Dos viajeros por motivos médicos organizan envases etiquetados de medicamentos recetados, una carta sobre la medicación, un calendario de dosis, una bolsa de mano y documentos de viaje
+
+
+- **Title:** Llevar medicamentos recetados a China: aduanas y cadena de frío
+- **Subtitle:** Una lista práctica para transportar medicamentos recetados y controlados internacionalmente, con envases originales, cartas, aduanas chinas, refrigeración y horarios de dosis.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -182,11 +184,13 @@ No se fíe de la marca. Verifique el principio activo, la concentración, la for
 
 ## SEO Metadata
 
-- **SEO title:** Viajar con medicamentos recetados: aduanas, cadena de frío y husos horarios
-- **Meta description:** Una lista práctica para transportar medicamentos recetados y controlados internacionalmente, con envases originales, cartas, aduanas chinas, refrigeración y horarios de dosis.
 - **Primary keyword:** viajar con medicamentos recetados
 - **Secondary keywords:** aduanas medicamentos China, viajar medicamentos controlados, vuelo medicamentos refrigerados, medicamentos husos horarios, carta médica para medicamentos, recetas equipaje de mano
 - **Suggested URL slug:** `/travel-prescription-medicines-customs-cold-chain-time-zones`
+
+
+- **Meta title:** Llevar medicamentos recetados a China: aduanas y cadena de frío
+- **Meta description:** Una lista práctica para transportar medicamentos recetados y controlados internacionalmente, con envases originales, cartas, aduanas chinas, refrigeración y horarios de dosis.
 
 ## Fuentes
 

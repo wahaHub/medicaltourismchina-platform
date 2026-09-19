@@ -1,15 +1,17 @@
-# 037 Intervensi Koroner Perkutan dan Stent: Panduan Pasien
+# PCI dan Stent Koroner di Tiongkok: Keputusan dan Pemulihan
 
 ## Hero
 
-- **Title:** Intervensi Koroner Perkutan dan Stent: Panduan Pasien
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Perawatan Jantung & Pembuluh Darah
-- **Subtitle:** Tentukan tujuan PCI, cara lesi akan diobati, dan cara melindungi hasilnya setelah pulang ke negara asal.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Kardiolog menjelaskan angioplasti balon dan pengembangan stent koroner kepada pasien
+
+
+- **Title:** PCI dan Stent Koroner di Tiongkok: Keputusan dan Pemulihan
+- **Subtitle:** Pahami manfaat PCI, perencanaan lesi dan stent, keputusan koroner kompleks, terapi antiplatelet ganda, pemulihan, dan tindak lanjut lintas negara.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -154,13 +156,15 @@ Tanyakan lokasinya, tingkat keparahannya, apakah fisiologi dinilai, alasan tidak
 ## SEO Metadata
 
 - **Slug:** `percutaneous-coronary-intervention-and-stents-a-patient-guide`
-- **Meta title:** PCI dan Stent Koroner: Keputusan, DAPT, dan Pemulihan
-- **Meta description:** Pahami manfaat PCI, perencanaan lesi dan stent, keputusan koroner kompleks, terapi antiplatelet ganda, pemulihan, dan tindak lanjut lintas negara.
 - **Primary keyword:** intervensi koroner perkutan dan stent
 - **Pillar keyword:** pengobatan koroner di Tiongkok
 - **Vertical keyword:** panduan pasien PCI
 - **Search intent:** keputusan pengobatan / perencanaan pascastent
 - **Secondary keywords:** panduan stent koroner; angioplasti; stent pelepas obat; terapi antiplatelet ganda; pemulihan PCI; PCI kompleks
+
+
+- **Meta title:** PCI dan Stent Koroner di Tiongkok: Keputusan dan Pemulihan
+- **Meta description:** Pahami manfaat PCI, perencanaan lesi dan stent, keputusan koroner kompleks, terapi antiplatelet ganda, pemulihan, dan tindak lanjut lintas negara.
 
 ## Sumber
 

@@ -1,15 +1,17 @@
-# 103 Choisir un hôpital à Guangzhou : spécialités, accès et voyage
+# Choisir un hôpital en Chine : guide des sites hospitaliers de Guangzhou
 
 ## Hero
 
-- **Title:** Choisir un hôpital à Guangzhou : spécialités, accès et voyage
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Planification des soins à Guangzhou
-- **Subtitle:** Faites correspondre le cas à une équipe vérifiée, puis vérifiez que le site, l’identité de réservation, l’itinéraire dans la Grande Baie et le plan de récupération s’articulent réellement.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Illustration conceptuelle de voyageurs internationaux comparant un hôpital de Guangzhou à une carte et un calendrier ; la silhouette urbaine et l’hôpital ne correspondent pas à un véritable site.
+
+
+- **Title:** Choisir un hôpital en Chine : guide des sites hospitaliers de Guangzhou
+- **Subtitle:** Choisissez un hôpital de Guangzhou selon l’équipe vérifiée, le site, l’accès avec passeport, les urgences, le trajet depuis Baiyun ou en train, le risque transfrontalier et la transmission de sortie.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -261,13 +263,15 @@ Non. Confirmez quels documents cliniques sont bilingues, qui les traduit, quand 
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-guangzhou-specialties-access-and-travel`
-- **Meta title:** Choisir un hôpital à Guangzhou : site et voyage
-- **Meta description:** Choisissez un hôpital de Guangzhou selon l’équipe vérifiée, le site, l’accès avec passeport, les urgences, le trajet depuis Baiyun ou en train, le risque transfrontalier et la transmission de sortie.
 - **Primary keyword:** choisir un hôpital à Guangzhou
 - **Pillar keyword:** hôpitaux de Guangzhou pour patients internationaux
 - **Vertical keyword:** spécialité accès voyage hôpital Guangzhou
 - **Search intent:** comparaison des hôpitaux / voyage médical dans la Grande Baie
 - **Secondary keywords:** patient étranger Guangzhou Health Link ; site hospitalier Guangzhou ; trajet hôpital aéroport Baiyun ; Guangzhou 120 anglais ; service médical international Guangzhou
+
+
+- **Meta title:** Choisir un hôpital en Chine : guide des sites hospitaliers de Guangzhou
+- **Meta description:** Choisissez un hôpital de Guangzhou selon l’équipe vérifiée, le site, l’accès avec passeport, les urgences, le trajet depuis Baiyun ou en train, le risque transfrontalier et la transmission de sortie.
 
 ## Sources
 

@@ -1,15 +1,17 @@
-# 108 Elegir un hospital en Chengdu: tres distancias, dos aeropuertos y un radio de recuperación seguro
+# Elegir un hospital en China: atención y recuperación en Chengdu
 
 ## Hero
 
-- **Title:** Elegir un hospital en Chengdu: tres distancias, dos aeropuertos y un radio de recuperación seguro
 - **Category:** Guías de hospitales
 - **Subcategory:** Planificación de la atención en Chengdu
-- **Subtitle:** Un enfoque específico para la ciudad que conecta la preparación del caso, el campus real de tratamiento, el acceso aéreo y ferroviario y el lugar donde se realizará la recuperación.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustración conceptual de viajeros internacionales que planifican atención médica en Chengdu; el perfil urbano, el puente, el hospital y los iconos clínicos no representan un campus hospitalario, una ruta, una capacidad ni un respaldo reales.
+
+
+- **Title:** Elegir un hospital en China: atención y recuperación en Chengdu
+- **Subtitle:** Elija un hospital de Chengdu verificando la revisión del caso, el médico y campus, el proceso con pasaporte e idiomas, el acceso por Tianfu o Shuangliu, el radio de recuperación, las urgencias y el viaje posterior a la altitud.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -180,13 +182,15 @@ Una respuesta clínica escrita debe identificar los archivos revisados, la pregu
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-chengdu-specialties-access-and-travel`
-- **Meta title:** Elegir un hospital de Chengdu: campus, aeropuertos y recuperación
-- **Meta description:** Elija un hospital de Chengdu verificando la revisión del caso, el médico y campus, el proceso con pasaporte e idiomas, el acceso por Tianfu o Shuangliu, el radio de recuperación, las urgencias y el viaje posterior a la altitud.
 - **Primary keyword:** elegir un hospital en Chengdu
 - **Pillar keyword:** hospitales de Chengdu para pacientes internacionales
 - **Vertical keyword:** campus hospitalarios aeropuertos viajes Chengdu
 - **Search intent:** comparación de hospitales / planificación de viajes médicos a Chengdu
 - **Secondary keywords:** hospital internacional de Chengdu; traslado hospitalario desde Chengdu Tianfu; viaje médico por Chengdu Shuangliu; campus hospitalario de Chengdu; intérprete médico en Chengdu; Chengdu 120
+
+
+- **Meta title:** Elegir un hospital en China: atención y recuperación en Chengdu
+- **Meta description:** Elija un hospital de Chengdu verificando la revisión del caso, el médico y campus, el proceso con pasaporte e idiomas, el acceso por Tianfu o Shuangliu, el radio de recuperación, las urgencias y el viaje posterior a la altitud.
 
 ## Fuentes
 

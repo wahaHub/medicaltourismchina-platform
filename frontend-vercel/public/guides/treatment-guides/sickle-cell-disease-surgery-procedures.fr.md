@@ -1,12 +1,14 @@
-# Chirurgie avec une drépanocytose : interventions sur la vésicule, la rate et les articulations, et planification périopératoire
+# Chirurgie avec une drépanocytose en Chine : soins périopératoires
 
 ## Hero
 
-- **Title:** Chirurgie avec une drépanocytose : interventions sur la vésicule, la rate et les articulations, et planification périopératoire
 - **Category:** Guides des traitements
 - **Subcategory:** Drépanocytose
-- **Subtitle:** Les personnes atteintes de drépanocytose craignent souvent qu’une opération ou une anesthésie déclenche une crise.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Chirurgie avec une drépanocytose en Chine : soins périopératoires
+- **Subtitle:** Préparez une chirurgie avec drépanocytose en Chine : indication, antécédents de complications, bilan préopératoire et décision transfusionnelle individualisée.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ Un plan réalisable permet au patient d’expliquer pourquoi la chirurgie est pr
 ## SEO Metadata
 
 - **Primary keyword:** préparation à la chirurgie en cas de drépanocytose
+
+- **Meta title:** Chirurgie avec une drépanocytose en Chine : soins périopératoires
+- **Meta description:** Préparez une chirurgie avec drépanocytose en Chine : indication, antécédents de complications, bilan préopératoire et décision transfusionnelle individualisée.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** How long does multiple myeloma treatment take? Cycles, maintenance and time in China
 - **Category:** Treatment Guides
 - **Subcategory:** Multiple Myeloma
-- **Subtitle:** The duration of an admission and the duration of myeloma treatment are different questions.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** How long does multiple myeloma treatment take? Cycles, maintenance and time in China
+- **Subtitle:** Plan myeloma care in China by separating active treatment, transplant-related time when applicable, maintenance and ongoing monitoring.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Confirm with the home physician which exact medicines and tests can be continued
 ## SEO Metadata
 
 - **Primary keyword:** multiple myeloma treatment duration in China
+
+- **Meta title:** How long does multiple myeloma treatment take? Cycles, maintenance and time in China
+- **Meta description:** Plan myeloma care in China by separating active treatment, transplant-related time when applicable, maintenance and ongoing monitoring.

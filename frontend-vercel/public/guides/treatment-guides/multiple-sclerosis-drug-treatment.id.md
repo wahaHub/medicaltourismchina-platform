@@ -1,12 +1,14 @@
-# Obat untuk sklerosis multipel: pilihan DMT, pemantauan, dan peralihan terencana
+# Obat Sklerosis Multipel di Tiongkok: Pilihan, Pemantauan, dan Pergantian Terapi
 
 ## Hero
 
-- **Title:** Obat untuk sklerosis multipel: pilihan DMT, pemantauan, dan peralihan terencana
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Sklerosis Multipel
-- **Subtitle:** Daftar obat MS berbeda karena negara, tanggal persetujuan, dan indikasi penyakit berbeda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat Sklerosis Multipel di Tiongkok: Pilihan, Pemantauan, dan Pergantian Terapi
+- **Subtitle:** Pahami pilihan obat sklerosis multipel, pemantauan hati, dan pergantian terapi. Bedakan pengendalian penyakit dari terapi gejala dalam perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Konfirmasikan biaya obat, pemberian, laboratorium, dan tinjauan secara terpisah,
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan obat dan pemantauan sklerosis multipel
+
+- **Meta title:** Obat Sklerosis Multipel di Tiongkok: Pilihan, Pemantauan, dan Pergantian Terapi
+- **Meta description:** Pahami pilihan obat sklerosis multipel, pemantauan hati, dan pergantian terapi. Bedakan pengendalian penyakit dari terapi gejala dalam perawatan di Tiongkok.

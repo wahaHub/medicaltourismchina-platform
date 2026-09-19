@@ -1,12 +1,14 @@
-# Nebenwirkungen der GVHD-Behandlung bewältigen: Symptome, Überwachung und Versorgungskontinuität
+# GVHD-Behandlung in China: Nebenwirkungen und Überwachung
 
 ## Hero
 
-- **Title:** Nebenwirkungen der GVHD-Behandlung bewältigen: Symptome, Überwachung und Versorgungskontinuität
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Graft-versus-Host-Erkrankung
-- **Subtitle:** Während der Behandlung einer Graft-versus-Host-Erkrankung können Müdigkeit, Durchfall oder ein auffälliger Leberwert mehrere mögliche Erklärungen haben.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** GVHD-Behandlung in China: Nebenwirkungen und Überwachung
+- **Subtitle:** Nebenwirkungen der GVHD-Behandlung in China einordnen: Steroidfolgen, Blutwerte, Wechselwirkungen, Infektionsvorsorge und dringliche Beschwerden gezielt besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -121,3 +123,6 @@ Bestätigen Sie, dass das heimische Labor wesentliche Tests durchführen kann un
 ## SEO Metadata
 
 - **Primary keyword:** GVHD-Behandlungsnebenwirkungen und Überwachung in China
+
+- **Meta title:** GVHD-Behandlung in China: Nebenwirkungen und Überwachung
+- **Meta description:** Nebenwirkungen der GVHD-Behandlung in China einordnen: Steroidfolgen, Blutwerte, Wechselwirkungen, Infektionsvorsorge und dringliche Beschwerden gezielt besprechen.

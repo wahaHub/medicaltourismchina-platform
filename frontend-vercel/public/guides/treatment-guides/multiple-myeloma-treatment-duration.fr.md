@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Combien de temps dure le traitement du myélome multiple ? Cycles, entretien et temps passé en Chine
 - **Category:** Guides des traitements
 - **Subcategory:** Myélome multiple
-- **Subtitle:** La durée d’une hospitalisation et celle du traitement du myélome sont deux questions différentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Combien de temps dure le traitement du myélome multiple ? Cycles, entretien et temps passé en Chine
+- **Subtitle:** Planifiez les soins du myélome en Chine : cycles initiaux, collecte cellulaire, greffe éventuelle, récupération immunitaire et entretien selon les évaluations.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Confirmez avec le médecin du domicile quels médicaments et examens exacts peuv
 ## SEO Metadata
 
 - **Primary keyword:** durée du traitement du myélome multiple en Chine
+
+- **Meta title:** Combien de temps dure le traitement du myélome multiple ? Cycles, entretien et temps passé en Chine
+- **Meta description:** Planifiez les soins du myélome en Chine : cycles initiaux, collecte cellulaire, greffe éventuelle, récupération immunitaire et entretien selon les évaluations.

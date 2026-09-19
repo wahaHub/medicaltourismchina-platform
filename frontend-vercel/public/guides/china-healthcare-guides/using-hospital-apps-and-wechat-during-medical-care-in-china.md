@@ -1,15 +1,17 @@
-# Using Hospital Apps and WeChat During Medical Care in China
+# Hospital Apps and WeChat in China: A Patient Safety Guide
 
 ## Hero
 
-- **Title:** Using Hospital Apps and WeChat During Medical Care in China
 - **Category:** China Healthcare Guides
 - **Subcategory:** Digital Patient Services
-- **Subtitle:** A practical way to set up registration, payment, results and follow-up without letting an identity mismatch or unofficial account derail the visit.
 - **Reviewed by:** Medora Health Editorial Team; digital-service and privacy review required before publication
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** A hospital service-desk employee helps an international patient use a hospital mini-program on a phone
+
+
+- **Title:** Hospital Apps and WeChat in China: A Patient Safety Guide
+- **Subtitle:** Set up a Chinese hospital app or WeChat mini-program for appointments, payment and results while avoiding identity, privacy and access problems.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -182,13 +184,15 @@ It is useful clinical information, but a screen view may not satisfy a receiving
 ## SEO Metadata
 
 - **Slug:** `using-hospital-apps-and-wechat-during-medical-care-in-china`
-- **Meta title:** Using Chinese Hospital Apps and WeChat Safely
-- **Meta description:** Set up a Chinese hospital app or WeChat mini-program for appointments, payment and results while avoiding identity, privacy and access problems.
 - **Primary keyword:** Chinese hospital app for foreigners
 - **Pillar keyword:** healthcare in China for international patients
 - **Vertical keyword:** use WeChat at a Chinese hospital
 - **Search intent:** informational / visit preparation
 - **Secondary keywords:** China hospital mini-program; WeChat hospital appointment; mobile payment Chinese hospital
+
+
+- **Meta title:** Hospital Apps and WeChat in China: A Patient Safety Guide
+- **Meta description:** Set up a Chinese hospital app or WeChat mini-program for appointments, payment and results while avoiding identity, privacy and access problems.
 
 ## Sources
 

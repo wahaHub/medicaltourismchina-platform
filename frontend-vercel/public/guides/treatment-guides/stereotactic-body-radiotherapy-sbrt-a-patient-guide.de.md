@@ -1,15 +1,17 @@
-# 034 Stereotaktische Körperstrahlentherapie (SBRT): Ein Patientenleitfaden
+# Stereotaktische Körperbestrahlung in China: Planung, Sicherheit und Nachsorge
 
 ## Hero
 
-- **Title:** Stereotaktische Körperstrahlentherapie (SBRT): Ein Patientenleitfaden
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Krebsversorgung
-- **Subtitle:** Wie Eignung, Bewegungskontrolle, Grenzwerte für Risikoorgane und patientenspezifische Qualitätssicherung eine kurze, hochpräzise Behandlungsserie bestimmen.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ein Arzt erklärt einen vereinfachten SBRT-Plan für den Brustkorb mit mehreren Strahlengängen, die auf ein kleines Ziel zulaufen
+
+
+- **Title:** Stereotaktische Körperbestrahlung in China: Planung, Sicherheit und Nachsorge
+- **Subtitle:** Verstehen Sie SBRT-Eignung, Bewegungsmanagement, Bildführung, Organgrenzen, Qualitätssicherung und Nachsorge vor stereotaktischer Körperstrahlentherapie.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -149,13 +151,15 @@ Besorgen Sie den Behandlungsbericht mit Stelle, Ziel, Technik, Gesamt- und Einze
 ## SEO Metadata
 
 - **Slug:** `stereotactic-body-radiotherapy-sbrt-a-patient-guide`
-- **Meta title:** SBRT-Patientenleitfaden: Planung, Sicherheit und Nachsorge
-- **Meta description:** Verstehen Sie SBRT-Eignung, Bewegungsmanagement, Bildführung, Organgrenzen, Qualitätssicherung und Nachsorge vor stereotaktischer Körperstrahlentherapie.
 - **Primary keyword:** SBRT-Patientenleitfaden
 - **Pillar keyword:** Strahlentherapie in China
 - **Vertical keyword:** stereotaktische Körperstrahlentherapie China
 - **Search intent:** Behandlungsaufklärung / Sicherheitsbewertung
 - **Secondary keywords:** SABR-Behandlung; SBRT-Bewegungsmanagement; SBRT-Fraktionen; SBRT-Qualitätssicherung; SBRT-Nachsorgebildgebung
+
+
+- **Meta title:** Stereotaktische Körperbestrahlung in China: Planung, Sicherheit und Nachsorge
+- **Meta description:** Verstehen Sie SBRT-Eignung, Bewegungsmanagement, Bildführung, Organgrenzen, Qualitätssicherung und Nachsorge vor stereotaktischer Körperstrahlentherapie.
 
 ## Quellen
 

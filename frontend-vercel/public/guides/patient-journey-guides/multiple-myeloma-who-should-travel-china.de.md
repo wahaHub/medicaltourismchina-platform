@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Sollte ein Patient mit multiplem Myelom zur Behandlung nach China reisen?
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Multiples Myelom
-- **Subtitle:** Die Verfügbarkeit eines neuen Medikaments ist nur ein Teil einer internationalen Behandlungsentscheidung.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sollte ein Patient mit multiplem Myelom zur Behandlung nach China reisen?
+- **Subtitle:** Eine Myelom-Behandlungsreise nach China prüfen: zusätzlichen Nutzen, Nierenfunktion, Knochenstabilität, Infektionsrisiken und fortlaufende Betreuung berücksichtigen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Ein umsetzbarer Reiseplan umfasst aktuellen klinischen Zustand, notwendige Hilfe
 ## SEO Metadata
 
 - **Primary keyword:** zur Behandlung des multiplen Myeloms nach China reisen
+
+- **Meta title:** Sollte ein Patient mit multiplem Myelom zur Behandlung nach China reisen?
+- **Meta description:** Eine Myelom-Behandlungsreise nach China prüfen: zusätzlichen Nutzen, Nierenfunktion, Knochenstabilität, Infektionsrisiken und fortlaufende Betreuung berücksichtigen.

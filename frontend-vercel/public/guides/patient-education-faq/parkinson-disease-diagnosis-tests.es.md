@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Pruebas ante la sospecha de enfermedad de Parkinson en China: qué puede establecer cada evaluación
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedad de Parkinson
-- **Subtitle:** A veces los pacientes salen de una primera consulta preguntándose por qué el neurólogo dedicó tiempo a observar los movimientos de los dedos y la marcha en lugar de solicitar una exploración definitiva.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pruebas ante la sospecha de enfermedad de Parkinson en China: qué puede establecer cada evaluación
+- **Subtitle:** Comprenda qué aportan la exploración, la revisión de medicación y las pruebas de imagen ante sospecha de Parkinson al preparar una evaluación en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Pruebas verificadas: September 9, 2026. La selección e interpretación de prueb
 ## SEO Metadata
 
 - **Primary keyword:** pruebas diagnósticas de enfermedad de Parkinson en China
+
+- **Meta title:** Pruebas ante la sospecha de enfermedad de Parkinson en China: qué puede establecer cada evaluación
+- **Meta description:** Comprenda qué aportan la exploración, la revisión de medicación y las pruebas de imagen ante sospecha de Parkinson al preparar una evaluación en China.

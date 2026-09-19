@@ -1,15 +1,17 @@
-# TEP/TDM en cancérologie : traceur, calendrier et limites derrière un « foyer hyperfixant »
+# TEP/TDM du cancer en Chine : préparation, traceurs et limites
 
 ## Hero
 
-- **Title:** TEP/TDM en cancérologie : traceur, calendrier et limites derrière un « foyer hyperfixant »
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Examens et diagnostic
-- **Subtitle:** Guide axé sur la décision concernant le FDG et les autres traceurs, la préparation, le calendrier des traitements, les rayonnements, les faux positifs et l’obtention d’un examen comparable en Chine.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Illustration de remplacement prévue montrant un appareil de TEP/TDM, l’injection d’un radiotraceur et des images métaboliques et anatomiques fusionnées avec une lésion mise en évidence
+
+
+- **Title:** TEP/TDM du cancer en Chine : préparation, traceurs et limites
+- **Subtitle:** Comprenez le FDG et les autres traceurs TEP, le jeûne et la préparation du diabète, le calendrier des traitements, les faux positifs et négatifs et les comptes rendus TEP/TDM.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -181,13 +183,15 @@ Pas toujours. Il peut s’agir d’une TDM à faible dose principalement destin�
 ## SEO Metadata
 
 - **Slug:** `pet-ct-for-cancer-care-uses-and-limitations`
-- **Meta title:** TEP/TDM et cancer : traceurs, préparation et limites
-- **Meta description:** Comprenez le FDG et les autres traceurs TEP, le jeûne et la préparation du diabète, le calendrier des traitements, les faux positifs et négatifs et les comptes rendus TEP/TDM.
 - **Primary keyword:** TEP TDM pour le cancer
 - **Pillar keyword:** imagerie du cancer en Chine
 - **Vertical keyword:** préparation et limites TEP TDM FDG
 - **Search intent:** aide à la décision en imagerie oncologique
 - **Secondary keywords:** foyer hyperfixant TEP pas toujours cancer ; TEP négative cancer ; TEP TDM diabète ; TEP TDM après traitement ; TEP TDM DICOM Chine
+
+
+- **Meta title:** TEP/TDM du cancer en Chine : préparation, traceurs et limites
+- **Meta description:** Comprenez le FDG et les autres traceurs TEP, le jeûne et la préparation du diabète, le calendrier des traitements, les faux positifs et négatifs et les comptes rendus TEP/TDM.
 
 ## Sources
 

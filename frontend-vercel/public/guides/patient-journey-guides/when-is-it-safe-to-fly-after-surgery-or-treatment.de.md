@@ -1,15 +1,17 @@
-# 143 Fliegen nach Operation oder Behandlung: Die Freigabe ist ein Risikoprofil, kein Datum
+# Fliegen nach einer Operation in China: Ärztliche Freigabe und Zeitpunkt
 
 ## Hero
 
-- **Title:** Fliegen nach Operation oder Behandlung: Die Freigabe ist ein Risikoprofil, kein Datum
 - **Category:** Leitfäden zum Patientenweg
 - **Subcategory:** Flugtauglichkeit und Rückreise
-- **Subtitle:** Der Kalender ist nur ein Faktor. Eingeschlossenes Gas, Sauerstoffreserve, Blutgerinnselrisiko, ungelöste Komplikationen und die Fähigkeit, einen Flughafentag zu bewältigen, müssen sämtlich geprüft werden.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Ein Patient und eine Begleitperson besprechen mit einem Arzt die Flugreise nach der Behandlung, neben Gepäck und einem Blick auf ein Flugzeug.
+
+
+- **Title:** Fliegen nach einer Operation in China: Ärztliche Freigabe und Zeitpunkt
+- **Subtitle:** Prüfen Sie eingeschlossenes Gas, Sauerstoffreserve, Gerinnsel- und Komplikationsrisiko, Flughafenfähigkeit und Airline-Freigabe vor einem Flug nach Behandlung.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -186,13 +188,15 @@ Neue Brustschmerzen, Atemnot, Ohnmacht, einseitige Schwäche, starke Blutung, Fi
 ## SEO Metadata
 
 - **Slug:** `when-is-it-safe-to-fly-after-surgery-or-treatment`
-- **Meta title:** Wann ist Fliegen nach einer Operation sicher? | Prüfung in fünf Bereichen
-- **Meta description:** Prüfen Sie eingeschlossenes Gas, Sauerstoffreserve, Gerinnsel- und Komplikationsrisiko, Flughafenfähigkeit und Airline-Freigabe vor einem Flug nach Behandlung.
 - **Primary keyword:** sicher fliegen nach Operation
 - **Pillar keyword:** medizinische Reise nach China
 - **Vertical keyword:** flugtauglich nach medizinischer Behandlung
 - **Search intent:** Sicherheit der Rückreise / medizinische Freigabe
 - **Secondary keywords:** Fliegen nach Operation China; Flugtauglichkeitsbescheinigung; Flugreise nach Gasblase bei Netzhautoperation; VTE-Risiko langer Flug Operation; medizinische Freigabe Fluggesellschaft
+
+
+- **Meta title:** Fliegen nach einer Operation in China: Ärztliche Freigabe und Zeitpunkt
+- **Meta description:** Prüfen Sie eingeschlossenes Gas, Sauerstoffreserve, Gerinnsel- und Komplikationsrisiko, Flughafenfähigkeit und Airline-Freigabe vor einem Flug nach Behandlung.
 
 ## Quellen
 

@@ -1,12 +1,14 @@
-# Thalassemia medicines: understanding the purpose of a prescription and its monitoring plan
+# Thalassemia Medicines in China: Uses, Access and Monitoring
 
 ## Hero
 
-- **Title:** Thalassemia medicines: understanding the purpose of a prescription and its monitoring plan
 - **Category:** Treatment Guides
 - **Subcategory:** Thalassemia
-- **Subtitle:** A thalassemia medicine list may contain chelators, anemia-directed treatment, nutritional supplements, and medicines for other health problems.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Thalassemia Medicines in China: Uses, Access and Monitoring
+- **Subtitle:** Understand thalassemia medicine purposes and monitoring, and coordinate product verification and follow-up when arranging or continuing care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ The most useful medicine plan includes each drug's purpose, the next assessment,
 ## SEO Metadata
 
 - **Primary keyword:** thalassemia medicines; deferasirox; deferiprone; deferoxamine; luspatercept; mitapivat
+
+- **Meta title:** Thalassemia Medicines in China: Uses, Access and Monitoring
+- **Meta description:** Understand thalassemia medicine purposes and monitoring, and coordinate product verification and follow-up when arranging or continuing care in China.

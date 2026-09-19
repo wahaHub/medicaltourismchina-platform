@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Should a patient with multiple myeloma travel to China for treatment?
 - **Category:** Patient Journey Guides
 - **Subcategory:** Multiple Myeloma
-- **Subtitle:** The availability of a new medicine is only one part of an international treatment decision.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Should a patient with multiple myeloma travel to China for treatment?
+- **Subtitle:** Review the purpose and safety of travelling to China for myeloma care, including organ problems, medicines, receiving arrangements and follow-up at home.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ A workable travel plan includes current clinical status, required assistance, co
 ## SEO Metadata
 
 - **Primary keyword:** traveling to China for multiple myeloma treatment
+
+- **Meta title:** Should a patient with multiple myeloma travel to China for treatment?
+- **Meta description:** Review the purpose and safety of travelling to China for myeloma care, including organ problems, medicines, receiving arrangements and follow-up at home.

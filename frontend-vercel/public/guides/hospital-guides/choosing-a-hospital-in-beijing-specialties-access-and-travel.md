@@ -1,15 +1,17 @@
-# Choosing a Hospital in Beijing: Specialties, Access, and Travel
+# Choosing a Hospital in China: Beijing Care and Travel
 
 ## Hero
 
-- **Title:** Choosing a Hospital in Beijing: Specialties, Access, and Travel
 - **Category:** Hospital Guides
 - **Subcategory:** Beijing Care Planning
-- **Subtitle:** Choose the clinical pathway first, confirm the exact campus second, and build travel around the real sequence of appointments.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Conceptual illustration of international travellers planning Beijing hospital access with a map and calendar; the landmark and hospital are not a real campus-location pairing.
+
+
+- **Title:** Choosing a Hospital in China: Beijing Care and Travel
+- **Subtitle:** A practical method for international patients to choose a Beijing hospital by specialty fit, exact campus, booking route, geography, payment and safe return planning.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -224,13 +226,15 @@ There is no safe generic duration. It depends on tests, pathology turnaround, pr
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-beijing-specialties-access-and-travel`
-- **Meta title:** Choosing a Hospital in Beijing: Specialty, Campus and Travel
-- **Meta description:** A practical method for international patients to choose a Beijing hospital by specialty fit, exact campus, booking route, geography, payment and safe return planning.
 - **Primary keyword:** choosing a hospital in Beijing
 - **Pillar keyword:** Beijing hospitals for international patients
 - **Vertical keyword:** Beijing hospital specialty access travel
 - **Search intent:** hospital comparison / travel planning
 - **Secondary keywords:** Beijing hospital campus; Beijing international patient appointment; Beijing 114 hospital booking; Beijing medical travel; Beijing hospital specialty
+
+
+- **Meta title:** Choosing a Hospital in China: Beijing Care and Travel
+- **Meta description:** A practical method for international patients to choose a Beijing hospital by specialty fit, exact campus, booking route, geography, payment and safe return planning.
 
 ## Sources
 

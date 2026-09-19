@@ -1,15 +1,17 @@
-# Eine Erstattung ist ein Arbeitsablauf: Behandlungsreisen stornieren und die Dokumentationskette erhalten
+# Behandlungsreisen nach China: Erstattungen und Stornierungen
 
 ## Hero
 
-- **Title:** Eine Erstattung ist ein Arbeitsablauf: Behandlungsreisen stornieren und die Dokumentationskette erhalten
 - **Category:** Kosten- und Versicherungsleitfäden
 - **Subcategory:** Finanzielle Risiken und Absicherung
-- **Subtitle:** Trennen Sie Krankenhaus-, Vermittler-, Flug- und Unterkunftsverträge, ordnen Sie den Abbruchgrund ein und verfolgen Sie jeden erstattungsfähigen Betrag von der Mitteilung bis zum Bankeingang.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Ein internationaler Patient prüft neben gepacktem Gepäck Stornierungsunterlagen und Berechnungen mit einer Verwaltungskraft für Behandlungsreisen
+
+
+- **Title:** Behandlungsreisen nach China: Erstattungen und Stornierungen
+- **Subtitle:** Krankenhaus-, Flug- und Unterkunftsregeln erfassen, Behandlungsabbruch einordnen, Abzüge berechnen und Erstattungen einer China-Behandlungsreise bis zur Bank verfolgen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -187,13 +189,15 @@ Beschaffen Sie genehmigten Betrag, Währung, Freigabedatum, Ziel und Zahlungsnac
 ## SEO Metadata
 
 - **Slug:** `refund-and-cancellation-policies-for-medical-travel`
-- **Meta title:** Erstattungen bei Behandlungsreisen: Leitfaden zu Stornierung und Nachverfolgung
-- **Meta description:** Krankenhaus-, Flug- und Unterkunftsregeln erfassen, Behandlungsabbruch einordnen, Abzüge berechnen und Erstattungen einer China-Behandlungsreise bis zur Bank verfolgen.
 - **Primary keyword:** Erstattungsregeln für Behandlungsreisen
 - **Pillar keyword:** Kosten medizinischer Behandlung in China
 - **Vertical keyword:** Behandlungsreise nach China stornieren
 - **Search intent:** Stornierungsplanung / Rückerhalt von Erstattungen
 - **Secondary keywords:** Krankenhaus-Anzahlungserstattung China; Stornierung einer Behandlungsreise; medizinische Flugstornierung; Erstattung für internationale Patienten; Behandlungsvorauszahlung
+
+
+- **Meta title:** Behandlungsreisen nach China: Erstattungen und Stornierungen
+- **Meta description:** Krankenhaus-, Flug- und Unterkunftsregeln erfassen, Behandlungsabbruch einordnen, Abzüge berechnen und Erstattungen einer China-Behandlungsreise bis zur Bank verfolgen.
 
 ## Quellen
 
@@ -203,4 +207,3 @@ Beschaffen Sie genehmigten Betrag, Währung, Freigabedatum, Ziel und Zahlungsnac
 4. [Chinesische Zivilluftfahrtbehörde: Politikauslegung der Bestimmungen zu Passagierdiensten](https://www.caac.gov.cn/XXGK/XXGK/ZCJD/202103/t20210315_206803.html)
 5. [US-Verkehrsministerium: Flugerstattungen](https://www.transportation.gov/individuals/aviation-consumer-protection/refunds)
 6. [Europäische Union, Your Europe: Fluggastrechte](https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm)
-

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Seguimiento del Parkinson después del tratamiento en China: recetas, dispositivos y función cotidiana en casa
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Enfermedad de Parkinson
-- **Subtitle:** La primera revisión al volver a casa debe examinar si el plan elaborado en China funciona en la vida cotidiana.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Seguimiento del Parkinson después del tratamiento en China: recetas, dispositivos y función cotidiana en casa
+- **Subtitle:** Prepare el seguimiento del Parkinson tras volver de China con revisión de medicación, programación de dispositivos y evaluación de la función cotidiana.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Un plan domiciliario eficaz indica al paciente qué receta seguir hoy, qué pret
 ## SEO Metadata
 
 - **Primary keyword:** seguimiento de la enfermedad de Parkinson al volver a casa desde China
+
+- **Meta title:** Seguimiento del Parkinson después del tratamiento en China: recetas, dispositivos y función cotidiana en casa
+- **Meta description:** Prepare el seguimiento del Parkinson tras volver de China con revisión de medicación, programación de dispositivos y evaluación de la función cotidiana.

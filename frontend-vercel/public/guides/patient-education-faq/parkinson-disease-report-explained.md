@@ -1,12 +1,14 @@
-# Understanding a Parkinson's Assessment Report: Scores, Imaging, and Biomarker Results
+# Parkinson’s Reports: Preparing for Assessment in China
 
 ## Hero
 
-- **Title:** Understanding a Parkinson's Assessment Report: Scores, Imaging, and Biomarker Results
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Parkinson Disease
-- **Subtitle:** A Parkinson's record may contain a Hoehn–Yahr stage, an MDS-UPDRS Part III score, reduced striatal uptake, and a recommendation for cognitive assessment.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Parkinson’s Reports: Preparing for Assessment in China
+- **Subtitle:** Understand Parkinson’s scores, imaging and biomarker reports, and connect them to the decision you want a consultation in China to address.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Evidence reviewed: September 9, 2026. This article explains common report terms 
 ## SEO Metadata
 
 - **Primary keyword:** Parkinson's disease report explained
+
+- **Meta title:** Parkinson’s Reports: Preparing for Assessment in China
+- **Meta description:** Understand Parkinson’s scores, imaging and biomarker reports, and connect them to the decision you want a consultation in China to address.

@@ -1,12 +1,14 @@
-# Choosing first-line treatment for mantle cell lymphoma: questions to settle before the first cycle
+# First-Line Mantle Cell Lymphoma Treatment in China
 
 ## Hero
 
-- **Title:** Choosing first-line treatment for mantle cell lymphoma: questions to settle before the first cycle
 - **Category:** Treatment Guides
 - **Subcategory:** Mantle Cell Lymphoma
-- **Subtitle:** Related searches: newly diagnosed MCL treatment; mantle cell lymphoma treatment in China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** First-Line Mantle Cell Lymphoma Treatment in China
+- **Subtitle:** Plan first-line mantle cell lymphoma treatment in China with questions about the regimen, fitness, response checks and continuing care before the first cycle.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -121,3 +123,6 @@ Before leaving the planning visit, try explaining the pathway in your own words:
 ## SEO Metadata
 
 - **Primary keyword:** first-line treatment for mantle cell lymphoma
+
+- **Meta title:** First-Line Mantle Cell Lymphoma Treatment in China
+- **Meta description:** Plan first-line mantle cell lymphoma treatment in China with questions about the regimen, fitness, response checks and continuing care before the first cycle.

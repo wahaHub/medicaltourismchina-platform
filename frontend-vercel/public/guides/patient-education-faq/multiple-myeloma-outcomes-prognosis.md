@@ -1,12 +1,14 @@
-# Multiple myeloma outcomes: interpreting survival figures and planning for recovery
+# Myeloma Prognosis: Interpreting Outcomes for Care in China
 
 ## Hero
 
-- **Title:** Multiple myeloma outcomes: interpreting survival figures and planning for recovery
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Multiple Myeloma
-- **Subtitle:** When someone asks how long they can live with myeloma, they may also be asking whether they can return home, walk independently, work again or spend less time in hospital.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Myeloma Prognosis: Interpreting Outcomes for Care in China
+- **Subtitle:** Understand myeloma response, survival and everyday function, and ask hospitals in China for outcome figures that fit your treatment situation.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Before traveling to China, confirm that follow-up and continuing medicines will 
 ## SEO Metadata
 
 - **Primary keyword:** multiple myeloma prognosis and treatment outcomes in China
+
+- **Meta title:** Myeloma Prognosis: Interpreting Outcomes for Care in China
+- **Meta description:** Understand myeloma response, survival and everyday function, and ask hospitals in China for outcome figures that fit your treatment situation.

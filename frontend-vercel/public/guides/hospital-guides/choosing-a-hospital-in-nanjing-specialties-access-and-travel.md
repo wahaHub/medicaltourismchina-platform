@@ -1,15 +1,17 @@
-# Choosing a Hospital in Nanjing: Clinical Dependencies, River Crossings, and Campus Access
+# Choosing a Hospital in China: Nanjing Booking and Travel
 
 ## Hero
 
-- **Title:** Choosing a Hospital in Nanjing: Clinical Dependencies, River Crossings, and Campus Access
 - **Category:** Hospital Guides
 - **Subcategory:** Nanjing Care Planning
-- **Subtitle:** Map the clinical dependencies first, then make sure the passport, campus, river crossing, emergency, and discharge routes support them.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Conceptual illustration of international travellers planning hospital care in Nanjing; the skyline, historic gate, hospital, and route icons are not a real campus combination or endorsement.
+
+
+- **Title:** Choosing a Hospital in China: Nanjing Booking and Travel
+- **Subtitle:** Choose a Nanjing hospital by mapping clinical dependencies, campuses, 12320 passport booking, interpretation, river crossings, operating gateways, emergency care, and discharge.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -196,13 +198,15 @@ Do not assume so. It remained under construction in the 2026 government investme
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-nanjing-specialties-access-and-travel`
-- **Meta title:** Choosing a Hospital in Nanjing: Campuses, Passport Booking, and Travel
-- **Meta description:** Choose a Nanjing hospital by mapping clinical dependencies, campuses, 12320 passport booking, interpretation, river crossings, operating gateways, emergency care, and discharge.
 - **Primary keyword:** choosing a hospital in Nanjing
 - **Pillar keyword:** Nanjing hospitals for international patients
 - **Vertical keyword:** Nanjing hospital campuses access travel
 - **Search intent:** hospital comparison / Nanjing medical travel planning
 - **Secondary keywords:** Nanjing 12320 passport; Nanjing international hospital; Nanjing hospital campus; Nanjing river crossing hospital; Nanjing 120
+
+
+- **Meta title:** Choosing a Hospital in China: Nanjing Booking and Travel
+- **Meta description:** Choose a Nanjing hospital by mapping clinical dependencies, campuses, 12320 passport booking, interpretation, river crossings, operating gateways, emergency care, and discharge.
 
 ## Sources
 

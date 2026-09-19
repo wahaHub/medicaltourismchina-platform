@@ -1,12 +1,14 @@
-# Medicamentos para el linfoma de células del manto: indicaciones en China, inhibidores de BTK y opciones terapéuticas más recientes
+# Medicamentos para linfoma de células del manto en China: acceso y vigilancia
 
 ## Hero
 
-- **Title:** Medicamentos para el linfoma de células del manto: indicaciones en China, inhibidores de BTK y opciones terapéuticas más recientes
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de células del manto
-- **Subtitle:** Búsquedas relacionadas: fármacos dirigidos para el LCM; pirtobrutinib; sonrotoclax; medicamentos para el LCM en China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medicamentos para linfoma de células del manto en China: acceso y vigilancia
+- **Subtitle:** Revise las funciones e indicaciones de medicamentos para linfoma de células del manto, incluidos inhibidores de BTK, al preparar acceso y vigilancia en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Un plan de prescripción útil explica qué toma, por qué se utiliza, cuándo s
 ## SEO Metadata
 
 - **Primary keyword:** medicamentos para el linfoma de células del manto
+
+- **Meta title:** Medicamentos para linfoma de células del manto en China: acceso y vigilancia
+- **Meta description:** Revise las funciones e indicaciones de medicamentos para linfoma de células del manto, incluidos inhibidores de BTK, al preparar acceso y vigilancia en China.

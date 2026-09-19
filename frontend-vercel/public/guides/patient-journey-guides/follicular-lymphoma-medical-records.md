@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Preparing follicular lymphoma records for care in China
 - **Category:** Patient Journey Guides
 - **Subcategory:** Follicular Lymphoma
-- **Subtitle:** The most useful record package shows how the pieces of your history fit together.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Preparing follicular lymphoma records for care in China
+- **Subtitle:** Organize follicular lymphoma records for China care with pathology, imaging, previous treatments and an explicit question for the receiving service.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ The final test of your preparation is whether a new clinician can quickly identi
 ## SEO Metadata
 
 - **Primary keyword:** medical records needed for follicular lymphoma treatment in China
+
+- **Meta title:** Preparing follicular lymphoma records for care in China
+- **Meta description:** Organize follicular lymphoma records for China care with pathology, imaging, previous treatments and an explicit question for the receiving service.

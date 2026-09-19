@@ -1,12 +1,14 @@
-# Einen GVHD-Befund verstehen: Organscores, Pathologie und Transplantationsergebnisse
+# GVHD-Befunde: Organbewertungen und fachärztliche Beurteilung in China
 
 ## Hero
 
-- **Title:** Einen GVHD-Befund verstehen: Organscores, Pathologie und Transplantationsergebnisse
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Graft-versus-Host-Erkrankung
-- **Subtitle:** Die Unterlagen eines Patienten können einen niedrigen histologischen Grad aus einer Darmbiopsie, einen höheren klinischen Gesamtgrad der akuten GVHD, einen Lungenscore von eins und nahezu vollständigen Spenderchimärismus enthalten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** GVHD-Befunde: Organbewertungen und fachärztliche Beurteilung in China
+- **Subtitle:** GVHD-Befunde für eine Beurteilung in China verstehen: Organstadium, Gesamtgrad, Pathologie, Lungenwerte und Chimärismus im Transplantationsverlauf einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Der praktische Wert eines Befunds liegt darin, ob er Beobachtung, weitere Tests,
 ## SEO Metadata
 
 - **Primary keyword:** Graft-versus-Host-Erkrankung Befund erklärt Konsultation China
+
+- **Meta title:** GVHD-Befunde: Organbewertungen und fachärztliche Beurteilung in China
+- **Meta description:** GVHD-Befunde für eine Beurteilung in China verstehen: Organstadium, Gesamtgrad, Pathologie, Lungenwerte und Chimärismus im Transplantationsverlauf einordnen.

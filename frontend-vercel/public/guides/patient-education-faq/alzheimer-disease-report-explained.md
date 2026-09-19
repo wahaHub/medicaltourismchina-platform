@@ -1,12 +1,14 @@
-# Understanding Alzheimer's Test Reports: Cognitive Scores, Atrophy, p-tau, and APOE
+# Alzheimer’s Test Reports: Preparing for Review in China
 
 ## Hero
 
-- **Title:** Understanding Alzheimer's Test Reports: Cognitive Scores, Atrophy, p-tau, and APOE
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Alzheimer Disease
-- **Subtitle:** After a memory assessment, a family may receive several reports that appear to disagree.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Alzheimer’s Test Reports: Preparing for Review in China
+- **Subtitle:** Understand Alzheimer’s cognitive scores, imaging, p-tau and APOE results, and prepare a clinical review in China without treating one result as the diagnosis.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ Before leaving the review, establish whether any finding needs immediate action,
 ## SEO Metadata
 
 - **Primary keyword:** understanding Alzheimer's test results
+
+- **Meta title:** Alzheimer’s Test Reports: Preparing for Review in China
+- **Meta description:** Understand Alzheimer’s cognitive scores, imaging, p-tau and APOE results, and prepare a clinical review in China without treating one result as the diagnosis.

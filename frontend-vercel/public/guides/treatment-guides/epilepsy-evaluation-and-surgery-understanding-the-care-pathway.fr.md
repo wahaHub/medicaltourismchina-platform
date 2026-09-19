@@ -1,15 +1,17 @@
-# 049 Évaluation et chirurgie de l’épilepsie : comprendre le parcours de soins
+# Bilan de chirurgie de l’épilepsie en Chine : examens et suivi
 
 ## Hero
 
-- **Title:** Évaluation et chirurgie de l’épilepsie : comprendre le parcours de soins
 - **Category:** Guides des traitements
 - **Subcategory:** Neurologie et neurochirurgie
-- **Subtitle:** Comprenez ce qu’un centre d’épileptologie doit démontrer avant de recommander résection, ablation ou neurostimulation.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Patient discutant d’un bilan cérébral d’épilepsie avec un neurologue et un membre de l’équipe neurochirurgicale
+
+
+- **Title:** Bilan de chirurgie de l’épilepsie en Chine : examens et suivi
+- **Subtitle:** Comprendre pharmacorésistance, vidéo-EEG, IRM, neuropsychologie, EEG intracrânien, chirurgie, stimulation et suivi transfrontalier.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Après un traitement à l’étranger, poursuivez les antiépileptiques sauf modification par l’équipe. Rapportez données des événements enregistrés, imagerie, carte des électrodes, compte rendu opératoire, anatomopathologie, détails du dispositif et plan de sécurité face aux crises.
 
 ## Content
+
+Si vous recherchez un bilan de chirurgie de l’épilepsie en Chine, préparez-vous à une évaluation sans supposer qu’une opération suivra. L’équipe d’accueil a besoin de l’historique des crises, des traitements médicamenteux déjà essayés, de l’imagerie et des enregistrements EEG, ainsi que d’un plan de poursuite des soins après le retour au pays.
+
 
 La chirurgie de l’épilepsie commence par le doute, pas par la réservation d’un bloc opératoire. L’équipe doit d’abord vérifier si les événements sont des crises épileptiques, les classer, comprendre l’échec des médicaments, localiser le réseau générateur et estimer ce que le traitement pourrait endommager autant que ce qu’il pourrait améliorer.
 
@@ -189,13 +194,15 @@ Généralement non. Les changements dépendent du type d’épilepsie, de l’in
 ## SEO Metadata
 
 - **Slug:** `epilepsy-evaluation-and-surgery-understanding-the-care-pathway`
-- **Meta title:** Bilan de chirurgie de l’épilepsie | Examens, options et suivi
-- **Meta description:** Comprendre pharmacorésistance, vidéo-EEG, IRM, neuropsychologie, EEG intracrânien, chirurgie, stimulation et suivi transfrontalier.
 - **Primary keyword:** évaluation pour chirurgie de l’épilepsie
 - **Pillar keyword:** traitement de l’épilepsie pharmacorésistante
 - **Vertical keyword:** neurologie et neurochirurgie
 - **Search intent:** évaluation préchirurgicale / comparaison des traitements
 - **Secondary keywords:** surveillance vidéo EEG ; IRM protocole épilepsie ; stéréo EEG ; ablation épilepsie ; neurostimulation épilepsie
+
+
+- **Meta title:** Bilan de chirurgie de l’épilepsie en Chine : examens et suivi
+- **Meta description:** Comprendre pharmacorésistance, vidéo-EEG, IRM, neuropsychologie, EEG intracrânien, chirurgie, stimulation et suivi transfrontalier.
 
 ## Sources
 

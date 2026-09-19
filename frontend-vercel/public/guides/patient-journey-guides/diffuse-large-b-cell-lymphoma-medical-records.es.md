@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Documentación médica para una consulta de LDCBG en China: guía práctica de preparación
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Linfoma difuso de células B grandes
-- **Subtitle:** Una segunda opinión sobre el LDCBG resulta difícil cuando el expediente consiste en una captura del diagnóstico, varias fotografías de PET y un recuerdo de la quimioterapia.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Documentación médica para una consulta de LDCBG en China: guía práctica de preparación
+- **Subtitle:** Prepare la documentación de LDCBG para una consulta en China con informes anatomopatológicos completos, imágenes originales y dosis de tratamientos recibidos.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Antes de la consulta, prepare un breve registro de información faltante con el 
 ## SEO Metadata
 
 - **Primary keyword:** documentación médica del LDCBG para consulta en China
+
+- **Meta title:** Documentación médica para una consulta de LDCBG en China: guía práctica de preparación
+- **Meta description:** Prepare la documentación de LDCBG para una consulta en China con informes anatomopatológicos completos, imágenes originales y dosis de tratamientos recibidos.

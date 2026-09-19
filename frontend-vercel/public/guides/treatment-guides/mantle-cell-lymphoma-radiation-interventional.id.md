@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Terapi Radiasi untuk Limfoma Sel Mantel: Kendali Lokal, Terapi Singkat, dan Perencanaan Perawatan di Tiongkok
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel Mantel
-- **Subtitle:** Tawaran radiasi untuk massa limfoma dapat menimbulkan pertanyaan yang wajar: jika area tersebut dapat diobati langsung, mengapa obat-obatan masih dibahas?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Terapi Radiasi untuk Limfoma Sel Mantel: Kendali Lokal, Terapi Singkat, dan Perencanaan Perawatan di Tiongkok
+- **Subtitle:** Pahami peran radiasi pada limfoma sel mantel untuk kendali lokal atau gejala. Bahas sasaran, terapi singkat, dan rencana perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -113,3 +115,6 @@ Tindak lanjut harus menjawab dua pertanyaan terpisah: apakah masalah lokal memba
 ## SEO Metadata
 
 - **Primary keyword:** terapi radiasi untuk limfoma sel mantel
+
+- **Meta title:** Terapi Radiasi untuk Limfoma Sel Mantel: Kendali Lokal, Terapi Singkat, dan Perencanaan Perawatan di Tiongkok
+- **Meta description:** Pahami peran radiasi pada limfoma sel mantel untuk kendali lokal atau gejala. Bahas sasaran, terapi singkat, dan rencana perawatan di Tiongkok.

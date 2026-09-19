@@ -1,12 +1,14 @@
-# Types et groupes de risque du lymphome de Hodgkin : ce qui modifie le traitement
+# Types et risques du lymphome de Hodgkin : deuxième avis en Chine
 
 ## Hero
 
-- **Title:** Types et groupes de risque du lymphome de Hodgkin : ce qui modifie le traitement
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Lymphome de Hodgkin
-- **Subtitle:** Les groupes de risque du lymphome de Hodgkin servent principalement à choisir le traitement.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Types et risques du lymphome de Hodgkin : deuxième avis en Chine
+- **Subtitle:** Distinguez formes classique et nodulaire, stade et facteurs de risque du lymphome de Hodgkin pour préparer un deuxième avis thérapeutique en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Un déplacement est surtout utile s’il résout une question anatomopathologiqu
 ## SEO Metadata
 
 - **Primary keyword:** types et groupes de risque du lymphome de Hodgkin
+
+- **Meta title:** Types et risques du lymphome de Hodgkin : deuxième avis en Chine
+- **Meta description:** Distinguez formes classique et nodulaire, stade et facteurs de risque du lymphome de Hodgkin pour préparer un deuxième avis thérapeutique en Chine.

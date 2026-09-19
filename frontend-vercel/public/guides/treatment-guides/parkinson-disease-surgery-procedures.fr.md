@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Stimulation cérébrale profonde pour la maladie de Parkinson : évaluation, chirurgie et suivi après traitement en Chine
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Maladie de Parkinson
-- **Subtitle:** Une personne peut marcher et s'habiller assez bien lorsque le médicament agit, puis devenir nettement raide lorsque son effet s'estompe.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Stimulation cérébrale profonde pour la maladie de Parkinson : évaluation, chirurgie et suivi après traitement en Chine
+- **Subtitle:** Préparez une évaluation de stimulation cérébrale profonde pour Parkinson en Chine : réponse aux médicaments, cognition, choix de cible, chirurgie et réglages.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ La réadaptation reste pertinente après la SCP. Marche, équilibre et activité
 ## SEO Metadata
 
 - **Primary keyword:** chirurgie de SCP pour la maladie de Parkinson
+
+- **Meta title:** Stimulation cérébrale profonde pour la maladie de Parkinson : évaluation, chirurgie et suivi après traitement en Chine
+- **Meta description:** Préparez une évaluation de stimulation cérébrale profonde pour Parkinson en Chine : réponse aux médicaments, cognition, choix de cible, chirurgie et réglages.

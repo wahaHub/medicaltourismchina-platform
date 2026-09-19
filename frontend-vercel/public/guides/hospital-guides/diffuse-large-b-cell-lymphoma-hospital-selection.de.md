@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Ein Krankenhaus in China für DLBCL wählen: das Zentrum auf die klinische Aufgabe abstimmen
 - **Category:** Krankenhausleitfäden
 - **Subcategory:** Diffuses großzelliges B-Zell-Lymphom
-- **Subtitle:** Wählen Sie ein DLBCL-Krankenhaus nach der klinischen Aufgabe, die es erfüllen muss.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Ein Krankenhaus in China für DLBCL wählen: das Zentrum auf die klinische Aufgabe abstimmen
+- **Subtitle:** Ein DLBCL-Zentrum in China anhand der Behandlungsaufgabe prüfen: Pathologie, Erstlinientherapie, Rückfallversorgung, Notfallunterstützung und Nachsorge vergleichen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -138,3 +140,6 @@ Eine Vergleichsübersicht kann dieselben klinischen Fragen für jedes mögliche 
 ## SEO Metadata
 
 - **Primary keyword:** ein Krankenhaus in China für DLBCL wählen
+
+- **Meta title:** Ein Krankenhaus in China für DLBCL wählen: das Zentrum auf die klinische Aufgabe abstimmen
+- **Meta description:** Ein DLBCL-Zentrum in China anhand der Behandlungsaufgabe prüfen: Pathologie, Erstlinientherapie, Rückfallversorgung, Notfallunterstützung und Nachsorge vergleichen.

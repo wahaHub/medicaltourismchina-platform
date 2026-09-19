@@ -1,12 +1,14 @@
-# Untersuchungen bei Verdacht auf Hodgkin-Lymphom: Biopsie, Stadieneinteilung und Behandlungsvorbereitung
+# Diagnose des Hodgkin-Lymphoms in China: Biopsie und Stadienbestimmung
 
 ## Hero
 
-- **Title:** Untersuchungen bei Verdacht auf Hodgkin-Lymphom: Biopsie, Stadieneinteilung und Behandlungsvorbereitung
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Hodgkin-Lymphom
-- **Subtitle:** Ein vergrößerter Halslymphknoten, Nachtschweiß oder unerklärliches Fieber können eine Abklärung auf ein Hodgkin-Lymphom veranlassen, doch Symptome allein sichern die Diagnose nicht.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnose des Hodgkin-Lymphoms in China: Biopsie und Stadienbestimmung
+- **Subtitle:** Hodgkin-Lymphom-Diagnostik in China vorbereiten: Gewebebiopsie, PET/CT, Blutwerte sowie Herz- und Lungenprüfungen nach ihrem jeweiligen Zweck unterscheiden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Klären Sie vor Ende der Beratung, wer die endgültige diagnostische Schlussfolg
 ## SEO Metadata
 
 - **Primary keyword:** Untersuchungen auf Hodgkin-Lymphom
+
+- **Meta title:** Diagnose des Hodgkin-Lymphoms in China: Biopsie und Stadienbestimmung
+- **Meta description:** Hodgkin-Lymphom-Diagnostik in China vorbereiten: Gewebebiopsie, PET/CT, Blutwerte sowie Herz- und Lungenprüfungen nach ihrem jeweiligen Zweck unterscheiden.

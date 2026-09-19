@@ -1,12 +1,14 @@
-# Membandingkan rencana perawatan MS: obat, transplantasi, rehabilitasi, dan hasil yang penting
+# Perbandingan Pengobatan Sklerosis Multipel: Obat, AHSCT, dan Perawatan di Tiongkok
 
 ## Hero
 
-- **Title:** Membandingkan rencana perawatan MS: obat, transplantasi, rehabilitasi, dan hasil yang penting
 - **Category:** Panduan Perawatan
 - **Subcategory:** Sklerosis Multipel
-- **Subtitle:** Dua rekomendasi yang berbeda mungkin menangani masalah yang berbeda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Perbandingan Pengobatan Sklerosis Multipel: Obat, AHSCT, dan Perawatan di Tiongkok
+- **Subtitle:** Bandingkan obat, transplantasi sel punca autologus, dan rehabilitasi sklerosis multipel menurut tujuan serta aktivitas penyakit sebelum perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Kembalilah pada tujuan pribadi: mempertahankan pekerjaan, mengurangi rawat inap,
 ## SEO Metadata
 
 - **Primary keyword:** perbandingan perawatan sklerosis multipel
+
+- **Meta title:** Perbandingan Pengobatan Sklerosis Multipel: Obat, AHSCT, dan Perawatan di Tiongkok
+- **Meta description:** Bandingkan obat, transplantasi sel punca autologus, dan rehabilitasi sklerosis multipel menurut tujuan serta aktivitas penyakit sebelum perawatan di Tiongkok.

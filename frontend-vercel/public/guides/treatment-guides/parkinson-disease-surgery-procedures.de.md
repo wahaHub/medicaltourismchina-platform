@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Tiefe Hirnstimulation bei Parkinson-Krankheit: Beurteilung, Operation und Nachsorge nach Behandlung in China
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Parkinson-Krankheit
-- **Subtitle:** Ein Mensch kann bei wirksamer Medikation recht gut gehen und sich anziehen, dann aber deutlich steif werden, wenn die Wirkung nachlässt.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tiefe Hirnstimulation bei Parkinson-Krankheit: Beurteilung, Operation und Nachsorge nach Behandlung in China
+- **Subtitle:** Tiefe Hirnstimulation bei Parkinson in China vorbereiten: Eignungsprüfung, Zielgebiet, Operation, Programmierung und langfristige Betreuung gemeinsam planen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ Rehabilitation bleibt nach THS relevant. Gehen, Gleichgewicht und Alltagsaktivit
 ## SEO Metadata
 
 - **Primary keyword:** THS-Operation bei Parkinson-Krankheit
+
+- **Meta title:** Tiefe Hirnstimulation bei Parkinson-Krankheit: Beurteilung, Operation und Nachsorge nach Behandlung in China
+- **Meta description:** Tiefe Hirnstimulation bei Parkinson in China vorbereiten: Eignungsprüfung, Zielgebiet, Operation, Programmierung und langfristige Betreuung gemeinsam planen.

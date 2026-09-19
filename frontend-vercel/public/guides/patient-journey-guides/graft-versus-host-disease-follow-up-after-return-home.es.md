@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Seguimiento tras el tratamiento de la EICH en China: coordinar pruebas, recetas y cuidados de los órganos en su país
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Enfermedad de injerto contra huésped
-- **Subtitle:** La principal dificultad al volver a casa puede ser la falta de claridad sobre las responsabilidades, más que la ausencia de un informe de alta.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Seguimiento tras el tratamiento de la EICH en China: coordinar pruebas, recetas y cuidados de los órganos en su país
+- **Subtitle:** Prepare el seguimiento de enfermedad injerto contra huésped tras volver de China con recetas conciliadas, controles analíticos y revisiones de órganos.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Un plan eficaz de regreso a casa deja claros la siguiente acción, el destinatar
 ## SEO Metadata
 
 - **Primary keyword:** seguimiento tras el tratamiento de la EICH en China
+
+- **Meta title:** Seguimiento tras el tratamiento de la EICH en China: coordinar pruebas, recetas y cuidados de los órganos en su país
+- **Meta description:** Prepare el seguimiento de enfermedad injerto contra huésped tras volver de China con recetas conciliadas, controles analíticos y revisiones de órganos.

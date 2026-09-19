@@ -1,12 +1,14 @@
-# Radioterapia para el LDCBG: enfermedad localizada, zonas residuales y alivio de síntomas
+# Radioterapia del LDCBG en China: control local y alivio de síntomas
 
 ## Hero
 
-- **Title:** Radioterapia para el LDCBG: enfermedad localizada, zonas residuales y alivio de síntomas
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma difuso de células B grandes
-- **Subtitle:** La radioterapia tiene una función definida en el LDCBG, pero no es un paso automático después de la quimioterapia.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Radioterapia del LDCBG en China: control local y alivio de síntomas
+- **Subtitle:** Comprenda el propósito de la radioterapia del linfoma difuso de células B grandes en China, la interpretación de PET y la planificación del área y las visitas.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ El seguimiento debe identificar quién interpreta las imágenes posteriores, cu�
 ## SEO Metadata
 
 - **Primary keyword:** radioterapia para el LDCBG
+
+- **Meta title:** Radioterapia del LDCBG en China: control local y alivio de síntomas
+- **Meta description:** Comprenda el propósito de la radioterapia del linfoma difuso de células B grandes en China, la interpretación de PET y la planificación del área y las visitas.

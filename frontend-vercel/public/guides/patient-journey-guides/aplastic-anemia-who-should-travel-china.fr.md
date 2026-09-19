@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Faut-il se rendre en Chine pour traiter une aplasie médullaire ?
 - **Category:** Guides du parcours patient
 - **Subcategory:** Aplasie médullaire
-- **Subtitle:** Une orientation utile à l'étranger commence par une tâche clinique définie.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Faut-il se rendre en Chine pour traiter une aplasie médullaire ?
+- **Subtitle:** Avant des soins d’aplasie médullaire en Chine, clarifiez la décision attendue, la stabilité clinique, le parcours de greffe et la continuité des traitements.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -111,3 +113,6 @@ Avant de vous engager dans le voyage, notez le problème clinique non résolu, l
 ## SEO Metadata
 
 - **Primary keyword:** voyager en Chine pour traiter une aplasie médullaire
+
+- **Meta title:** Faut-il se rendre en Chine pour traiter une aplasie médullaire ?
+- **Meta description:** Avant des soins d’aplasie médullaire en Chine, clarifiez la décision attendue, la stabilité clinique, le parcours de greffe et la continuité des traitements.

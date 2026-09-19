@@ -1,12 +1,14 @@
-# Tests for suspected DLBCL: biopsy, staging and preparation for treatment
+# DLBCL Diagnosis in China: Biopsy, Staging and Preparation
 
 ## Hero
 
-- **Title:** Tests for suspected DLBCL: biopsy, staging and preparation for treatment
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Diffuse Large B Cell Lymphoma
-- **Subtitle:** Testing for diffuse large B-cell lymphoma should answer four connected questions: is this lymphoma, which lymphoma is it, where is it present, and what treatment can the patient safely receive?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL Diagnosis in China: Biopsy, Staging and Preparation
+- **Subtitle:** Understand DLBCL biopsy, pathology review, staging and treatment-preparation tests, and bring complete records to a consultation in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Fertility, nutrition and practical support should be discussed before the first 
 ## SEO Metadata
 
 - **Primary keyword:** DLBCL diagnostic tests
+
+- **Meta title:** DLBCL Diagnosis in China: Biopsy, Staging and Preparation
+- **Meta description:** Understand DLBCL biopsy, pathology review, staging and treatment-preparation tests, and bring complete records to a consultation in China.

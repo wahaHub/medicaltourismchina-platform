@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Can Someone with Parkinson’s Travel to China for Treatment? Readiness, Medicines and Care During the Journey
 - **Category:** Patient Journey Guides
 - **Subcategory:** Parkinson Disease
-- **Subtitle:** A diagnosis of Parkinson’s disease does not, by itself, determine whether someone can travel to China for care.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Can Someone with Parkinson’s Travel to China for Treatment? Readiness, Medicines and Care During the Journey
+- **Subtitle:** Assess Parkinson’s travel readiness for China with attention to medicine timing, mobility, assistance, clinical stability and arrangements on arrival.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Readiness comes from bringing together a clear clinical purpose, an acceptable c
 ## SEO Metadata
 
 - **Primary keyword:** eligibility to travel to China for Parkinson’s treatment
+
+- **Meta title:** Can Someone with Parkinson’s Travel to China for Treatment? Readiness, Medicines and Care During the Journey
+- **Meta description:** Assess Parkinson’s travel readiness for China with attention to medicine timing, mobility, assistance, clinical stability and arrangements on arrival.

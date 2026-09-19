@@ -1,12 +1,14 @@
-# Comprender un informe de EM: lesiones en la resonancia magnética, resultados del líquido cefalorraquídeo y mediciones funcionales
+# Informes de esclerosis múltiple: prepararse para una revisión en China
 
 ## Hero
 
-- **Title:** Comprender un informe de EM: lesiones en la resonancia magnética, resultados del líquido cefalorraquídeo y mediciones funcionales
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Esclerosis múltiple
-- **Subtitle:** Términos como «múltiples lesiones», «posible desmielinización» y «bandas oligoclonales positivas» pueden parecer conclusiones inmediatas sobre la gravedad o el fracaso del tratamiento.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Informes de esclerosis múltiple: prepararse para una revisión en China
+- **Subtitle:** Comprenda lesiones en resonancia, hallazgos del líquido cefalorraquídeo y medidas funcionales de esclerosis múltiple antes de revisar sus informes en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Si se solicitan más pruebas, pregunte qué información falta en los registros 
 ## SEO Metadata
 
 - **Primary keyword:** interpretación de resonancia magnética e informes de pruebas de esclerosis múltiple
+
+- **Meta title:** Informes de esclerosis múltiple: prepararse para una revisión en China
+- **Meta description:** Comprenda lesiones en resonancia, hallazgos del líquido cefalorraquídeo y medidas funcionales de esclerosis múltiple antes de revisar sus informes en China.

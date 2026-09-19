@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Twenty Questions Patients Ask About Multiple Myeloma Treatment in China
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Multiple Myeloma
-- **Subtitle:** Twenty Questions Patients Ask About Multiple Myeloma Treatment in China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Twenty Questions Patients Ask About Multiple Myeloma Treatment in China
+- **Subtitle:** Answers to 20 myeloma questions on diagnosis, treatment stages, trials, travel readiness and continuity after treatment in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ Sources checked: September 9, 2026. This article provides general patient educat
 ## SEO Metadata
 
 - **Primary keyword:** multiple myeloma patient questions; multiple myeloma treatment in China
+
+- **Meta title:** Twenty Questions Patients Ask About Multiple Myeloma Treatment in China
+- **Meta description:** Answers to 20 myeloma questions on diagnosis, treatment stages, trials, travel readiness and continuity after treatment in China.

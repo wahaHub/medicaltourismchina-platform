@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Veinte preguntas de pacientes sobre rehabilitación del ictus isquémico y atención en China
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Rehabilitación después de un ictus isquémico
-- **Subtitle:** Las preguntas sobre la recuperación después de un ictus isquémico suelen cambiar con el tiempo.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Veinte preguntas de pacientes sobre rehabilitación del ictus isquémico y atención en China
+- **Subtitle:** Prepare preguntas sobre cuándo iniciar rehabilitación del ictus, cómo medir el progreso y qué esperar de una evaluación y un plan de atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -187,3 +189,6 @@ Una debilidad unilateral nueva y repentina, cambios del habla o la visión o una
 ## SEO Metadata
 
 - **Primary keyword:** preguntas de pacientes sobre rehabilitación del ictus isquémico
+
+- **Meta title:** Veinte preguntas de pacientes sobre rehabilitación del ictus isquémico y atención en China
+- **Meta description:** Prepare preguntas sobre cuándo iniciar rehabilitación del ictus, cómo medir el progreso y qué esperar de una evaluación y un plan de atención en China.

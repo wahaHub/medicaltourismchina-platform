@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Hodgkin lymphoma treatment costs in China: obtaining a comparable RMB quotation
 - **Category:** Cost & Insurance Guides
 - **Subcategory:** Hodgkin Lymphoma
-- **Subtitle:** There is no single total price for treating Hodgkin lymphoma in China that applies to every patient.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Hodgkin lymphoma treatment costs in China: obtaining a comparable RMB quotation
+- **Subtitle:** Compare Hodgkin lymphoma quotations in China using the same regimen, cycle assumptions, PET assessments, radiation plan and supportive-care items.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ A useful quotation may not give a final total on the first day, but it should sh
 ## SEO Metadata
 
 - **Primary keyword:** Hodgkin lymphoma treatment cost in China
+
+- **Meta title:** Hodgkin lymphoma treatment costs in China: obtaining a comparable RMB quotation
+- **Meta description:** Compare Hodgkin lymphoma quotations in China using the same regimen, cycle assumptions, PET assessments, radiation plan and supportive-care items.

@@ -1,15 +1,17 @@
-# 013 Krankenhaus-Apps und WeChat während einer medizinischen Behandlung in China nutzen
+# Krankenhaus-Apps und WeChat in China: Sicherheit für Patienten
 
 ## Hero
 
-- **Title:** Krankenhaus-Apps und WeChat während einer medizinischen Behandlung in China nutzen
 - **Category:** Ratgeber zum Gesundheitswesen in China
 - **Subcategory:** Digitale Patientendienste
-- **Subtitle:** So richten Sie Registrierung, Zahlung, Ergebnisabruf und Nachsorge praktisch ein, ohne dass abweichende Identitätsdaten oder ein inoffizielles Konto den Besuch gefährden.
 - **Reviewed by:** Medora Health Redaktionsteam; Prüfung digitaler Dienste und des Datenschutzes vor Veröffentlichung erforderlich
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ein Mitarbeiter am Krankenhaus-Serviceschalter hilft einem internationalen Patienten, ein Krankenhaus-Miniprogramm auf dem Handy zu nutzen
+
+
+- **Title:** Krankenhaus-Apps und WeChat in China: Sicherheit für Patienten
+- **Subtitle:** Richten Sie eine chinesische Krankenhaus-App oder ein WeChat-Miniprogramm für Termine, Zahlung und Ergebnisse ein und vermeiden Sie Identitäts-, Datenschutz- und Zugangsprobleme.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -199,13 +201,15 @@ Möglicherweise, doch die Patientenidentität in der klinischen Akte muss korrek
 ## SEO Metadata
 
 - **Slug:** `using-hospital-apps-and-wechat-during-medical-care-in-china`
-- **Meta title:** Chinesische Krankenhaus-Apps und WeChat sicher nutzen
-- **Meta description:** Richten Sie eine chinesische Krankenhaus-App oder ein WeChat-Miniprogramm für Termine, Zahlung und Ergebnisse ein und vermeiden Sie Identitäts-, Datenschutz- und Zugangsprobleme.
 - **Primary keyword:** chinesische Krankenhaus-App für Ausländer
 - **Pillar keyword:** Gesundheitsversorgung in China für internationale Patienten
 - **Vertical keyword:** WeChat in einem chinesischen Krankenhaus nutzen
 - **Search intent:** Information / Besuchsvorbereitung
 - **Secondary keywords:** Krankenhaus-Miniprogramm China; WeChat-Krankenhaustermin; mobile Zahlung chinesisches Krankenhaus
+
+
+- **Meta title:** Krankenhaus-Apps und WeChat in China: Sicherheit für Patienten
+- **Meta description:** Richten Sie eine chinesische Krankenhaus-App oder ein WeChat-Miniprogramm für Termine, Zahlung und Ergebnisse ein und vermeiden Sie Identitäts-, Datenschutz- und Zugangsprobleme.
 
 ## Quellen
 

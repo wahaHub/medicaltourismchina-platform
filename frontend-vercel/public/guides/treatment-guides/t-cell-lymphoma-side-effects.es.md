@@ -1,12 +1,14 @@
-# Manejo de los efectos secundarios del tratamiento del linfoma de células T: cuándo buscar ayuda y qué registrar en casa
+# Atención del linfoma de células T en China: efectos secundarios y ayuda urgente
 
 ## Hero
 
-- **Title:** Manejo de los efectos secundarios del tratamiento del linfoma de células T: cuándo buscar ayuda y qué registrar en casa
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de células T
-- **Subtitle:** La primera pregunta ante un síntoma nuevo suele ser si se trata de un efecto secundario normal.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Atención del linfoma de células T en China: efectos secundarios y ayuda urgente
+- **Subtitle:** Prepare un plan de ayuda durante el tratamiento del linfoma de células T en China con registros de fiebre, sangrado, cambios sensitivos y problemas de hidratación.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -111,3 +113,6 @@ Antes de viajar de regreso a casa, obtenga el último hemograma, los resultados 
 ## SEO Metadata
 
 - **Primary keyword:** efectos secundarios del tratamiento del linfoma de células T
+
+- **Meta title:** Atención del linfoma de células T en China: efectos secundarios y ayuda urgente
+- **Meta description:** Prepare un plan de ayuda durante el tratamiento del linfoma de células T en China con registros de fiebre, sangrado, cambios sensitivos y problemas de hidratación.

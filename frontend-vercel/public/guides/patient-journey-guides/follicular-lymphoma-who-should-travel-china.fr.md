@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Faut-il se rendre en Chine pour des soins du lymphome folliculaire ?
 - **Category:** Guides du parcours patient
 - **Subcategory:** Lymphome folliculaire
-- **Subtitle:** Voyager pour des soins du lymphome folliculaire est surtout utile lorsque cela peut résoudre une lacune précise du plan actuel.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Faut-il se rendre en Chine pour des soins du lymphome folliculaire ?
+- **Subtitle:** Évaluez un voyage pour lymphome folliculaire en Chine selon l’objectif de consultation, la phase de traitement, les symptômes et la continuité du parcours.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Avant le départ, vous devez disposer d’un rendez-vous confirmé, d’un mode 
 ## SEO Metadata
 
 - **Primary keyword:** qui devrait se rendre en Chine pour traiter un lymphome folliculaire
+
+- **Meta title:** Faut-il se rendre en Chine pour des soins du lymphome folliculaire ?
+- **Meta description:** Évaluez un voyage pour lymphome folliculaire en Chine selon l’objectif de consultation, la phase de traitement, les symptômes et la continuité du parcours.

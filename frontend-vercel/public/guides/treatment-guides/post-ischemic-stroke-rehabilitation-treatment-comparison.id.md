@@ -1,12 +1,14 @@
-# Memilih Metode Rehabilitasi Stroke: Latihan Tugas, Robotika, Realitas Virtual, dan Perawatan di Rumah
+# Rehabilitasi Stroke di Tiongkok: Membandingkan Metode Terapi
 
 ## Hero
 
-- **Title:** Memilih Metode Rehabilitasi Stroke: Latihan Tugas, Robotika, Realitas Virtual, dan Perawatan di Rumah
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Rehabilitasi Pascastroke Iskemik
-- **Subtitle:** Keluarga yang mempertimbangkan rehabilitasi mungkin menerima jadwal yang sangat berbeda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rehabilitasi Stroke di Tiongkok: Membandingkan Metode Terapi
+- **Subtitle:** Bandingkan metode rehabilitasi stroke di Tiongkok berdasarkan tujuan fungsi yang sama. Pahami peran latihan tugas, robotika, dan perawatan di rumah.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ Usulan paling sesuai mungkin tidak memuat daftar terpanjang. Pertimbangkan apaka
 ## SEO Metadata
 
 - **Primary keyword:** perbandingan pengobatan rehabilitasi stroke
+
+- **Meta title:** Rehabilitasi Stroke di Tiongkok: Membandingkan Metode Terapi
+- **Meta description:** Bandingkan metode rehabilitasi stroke di Tiongkok berdasarkan tujuan fungsi yang sama. Pahami peran latihan tugas, robotika, dan perawatan di rumah.

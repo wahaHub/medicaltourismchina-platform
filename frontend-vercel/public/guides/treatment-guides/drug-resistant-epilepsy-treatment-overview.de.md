@@ -1,12 +1,14 @@
-# Behandlung medikamentenresistenter Epilepsie: Was tun, wenn zwei geeignete Medikamentenschemata die Anfälle nicht kontrolliert haben?
+# Behandlung pharmakoresistenter Epilepsie in China: Nächste Schritte
 
 ## Hero
 
-- **Title:** Behandlung medikamentenresistenter Epilepsie: Was tun, wenn zwei geeignete Medikamentenschemata die Anfälle nicht kontrolliert haben?
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Medikamentenresistente Epilepsie
-- **Subtitle:** Fortbestehende Anfälle bedeuten nicht, dass Versorgung nur aus weiteren Medikamenten bestehen muss.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Behandlung pharmakoresistenter Epilepsie in China: Nächste Schritte
+- **Subtitle:** Pharmakoresistente Epilepsie in China neu beurteilen: frühere Medikamentenversuche, Anfallsart, Ursachen, Operationsabklärung und weitere Therapieziele überprüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -146,3 +148,6 @@ Legen Sie zur Nachsorge vergleichbare Aufzeichnungen über Anfälle und Nebenwir
 ## SEO Metadata
 
 - **Primary keyword:** Behandlung medikamentenresistenter Epilepsie; umfassende Epilepsieversorgung in China; epilepsiechirurgische Abklärung; therapierefraktäre Anfälle
+
+- **Meta title:** Behandlung pharmakoresistenter Epilepsie in China: Nächste Schritte
+- **Meta description:** Pharmakoresistente Epilepsie in China neu beurteilen: frühere Medikamentenversuche, Anfallsart, Ursachen, Operationsabklärung und weitere Therapieziele überprüfen.

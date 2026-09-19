@@ -1,12 +1,14 @@
-# Comparación de tratamientos del linfoma folicular: ¿qué opciones abordan el mismo problema?
+# Opciones de tratamiento del linfoma folicular en China: comparación
 
 ## Hero
 
-- **Title:** Comparación de tratamientos del linfoma folicular: ¿qué opciones abordan el mismo problema?
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma folicular
-- **Subtitle:** Antes de comparar tratamientos del linfoma folicular, determine si las opciones pretenden resolver el mismo problema clínico.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Opciones de tratamiento del linfoma folicular en China: comparación
+- **Subtitle:** Compare observación, anticuerpos e inmunoquimioterapia del linfoma folicular en China según el mismo problema clínico y las opciones pertinentes para usted.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Una enfermedad estable puede dar tiempo para considerar estas diferencias. La di
 ## SEO Metadata
 
 - **Primary keyword:** comparación de tratamientos del linfoma folicular
+
+- **Meta title:** Opciones de tratamiento del linfoma folicular en China: comparación
+- **Meta description:** Compare observación, anticuerpos e inmunoquimioterapia del linfoma folicular en China según el mismo problema clínico y las opciones pertinentes para usted.

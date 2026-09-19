@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Twenty questions patients ask about follicular lymphoma and care in China
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Follicular Lymphoma
-- **Subtitle:** Twenty questions patients ask about follicular lymphoma and care in China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Twenty questions patients ask about follicular lymphoma and care in China
+- **Subtitle:** Answers to 20 follicular lymphoma questions about monitoring, treatment, relapse, medical records and planning care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Follow-up also concerns symptoms, examination, treatment effects, ongoing medica
 ## SEO Metadata
 
 - **Primary keyword:** follicular lymphoma patient frequently asked questions
+
+- **Meta title:** Twenty questions patients ask about follicular lymphoma and care in China
+- **Meta description:** Answers to 20 follicular lymphoma questions about monitoring, treatment, relapse, medical records and planning care in China.

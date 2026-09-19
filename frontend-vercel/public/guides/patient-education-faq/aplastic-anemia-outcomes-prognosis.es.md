@@ -1,12 +1,14 @@
-# Pronóstico de la anemia aplásica: respuesta, recaída y recuperación a largo plazo
+# Pronóstico de la anemia aplásica: preguntas para la atención en China
 
 ## Hero
 
-- **Title:** Pronóstico de la anemia aplásica: respuesta, recaída y recuperación a largo plazo
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Anemia aplásica
-- **Subtitle:** «¿Se puede curar?» puede significar sobrevivir al peligro actual, dejar las transfusiones, suspender los medicamentos o volver al trabajo y a la vida familiar.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronóstico de la anemia aplásica: preguntas para la atención en China
+- **Subtitle:** Comprenda respuesta, recaída y recuperación en anemia aplásica, y prepare preguntas sobre riesgo inmediato y seguimiento a largo plazo para su atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ La consulta, la revisión anatomopatológica y la evaluación adicional tienen c
 ## SEO Metadata
 
 - **Primary keyword:** pronóstico de la anemia aplásica
+
+- **Meta title:** Pronóstico de la anemia aplásica: preguntas para la atención en China
+- **Meta description:** Comprenda respuesta, recaída y recuperación en anemia aplásica, y prepare preguntas sobre riesgo inmediato y seguimiento a largo plazo para su atención en China.

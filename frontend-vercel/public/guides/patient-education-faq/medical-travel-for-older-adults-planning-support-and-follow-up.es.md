@@ -1,15 +1,17 @@
-# Viajes médicos para personas mayores: planifique según la capacidad funcional, no la fecha de nacimiento
+# Viajes médicos a China para personas mayores: cuidados y apoyo
 
 ## Hero
 
-- **Title:** Viajes médicos para personas mayores: planifique según la capacidad funcional, no la fecha de nacimiento
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedades crónicas y viajes
-- **Subtitle:** Un marco práctico para evaluar la capacidad funcional, los medicamentos, el riesgo de delirium, la capacidad del cuidador y la recuperación antes de que una persona mayor viaje para recibir atención.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Una persona mayor y su acompañante revisan un plan de viaje médico y recuperación con un profesional sanitario
+
+
+- **Title:** Viajes médicos a China para personas mayores: cuidados y apoyo
+- **Subtitle:** Planifique el viaje médico de una persona mayor según la fragilidad, la capacidad funcional, los medicamentos, la prevención del delirium, la capacidad del cuidador y el seguimiento seguro.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - No fije la fecha de regreso antes de conocer la recuperación. El alojamiento tras el alta, el transporte y el seguimiento deben ajustarse a la nueva capacidad funcional del paciente, no a la que tenía antes del tratamiento.
 
 ## Content
+
+Al planificar atención médica en China para una persona mayor, empiece por la función cotidiana, los medicamentos y el apoyo disponible durante el viaje y la recuperación. Esta guía ayuda a las familias a preparar esa conversación sin considerar que la edad por sí sola determina la seguridad del viaje.
+
 
 «Persona mayor» no es una única categoría de riesgo. Una persona físicamente activa de 82 años que maneja sus medicamentos y finanzas de forma independiente puede viajar con más seguridad que una de 68 años con caídas recurrentes, pérdida de peso y confusión fluctuante. La pregunta útil no es «¿Es demasiado mayor este paciente?». Es «¿Qué puede hacer esta persona de forma fiable, qué es vulnerable al estrés y qué apoyo seguirá disponible si la recuperación es más lenta de lo previsto?».
 
@@ -122,11 +127,13 @@ Retrase y reevalúe cuando haya confusión nueva, síntomas inestables, caídas 
 
 ## SEO Metadata
 
-- **SEO title:** Viajes médicos para personas mayores: guía de capacidad funcional y apoyo
-- **Meta description:** Planifique el viaje médico de una persona mayor según la fragilidad, la capacidad funcional, los medicamentos, la prevención del delirium, la capacidad del cuidador y el seguimiento seguro.
 - **Primary keyword:** viajes médicos para personas mayores
 - **Secondary keywords:** turismo médico para personas mayores, evaluación geriátrica para viajar, prevención del delirium en viajes, cuidador en viajes médicos, recuperación del paciente mayor en el extranjero
 - **Suggested URL slug:** `/medical-travel-older-adults`
+
+
+- **Meta title:** Viajes médicos a China para personas mayores: cuidados y apoyo
+- **Meta description:** Planifique el viaje médico de una persona mayor según la fragilidad, la capacidad funcional, los medicamentos, la prevención del delirium, la capacidad del cuidador y el seguimiento seguro.
 
 ## Fuentes
 

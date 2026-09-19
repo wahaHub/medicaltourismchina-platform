@@ -1,12 +1,14 @@
-# Tipos de enfermedad de Parkinson: cómo influyen en la atención la edad de inicio, el temblor y los problemas de marcha
+# Tipos y riesgo del Parkinson: prepararse para la atención en China
 
 ## Hero
 
-- **Title:** Tipos de enfermedad de Parkinson: cómo influyen en la atención la edad de inicio, el temblor y los problemas de marcha
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedad de Parkinson
-- **Subtitle:** Los pacientes suelen esperar que un subtipo explique el futuro: ¿la enfermedad con predominio de temblor sigue siendo leve?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tipos y riesgo del Parkinson: prepararse para la atención en China
+- **Subtitle:** Comprenda cómo la edad de inicio, el temblor y las dificultades de marcha influyen en la evaluación del Parkinson y en la preparación de atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Información verificada: September 9, 2026. Un equipo clínico debe interpretar 
 ## SEO Metadata
 
 - **Primary keyword:** tipos de enfermedad de Parkinson y evaluación del riesgo
+
+- **Meta title:** Tipos y riesgo del Parkinson: prepararse para la atención en China
+- **Meta description:** Comprenda cómo la edad de inicio, el temblor y las dificultades de marcha influyen en la evaluación del Parkinson y en la preparación de atención en China.

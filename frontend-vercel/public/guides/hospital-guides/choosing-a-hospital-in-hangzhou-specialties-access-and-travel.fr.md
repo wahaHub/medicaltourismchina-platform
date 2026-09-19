@@ -1,15 +1,17 @@
-# 106 Choisir un hôpital à Hangzhou : trois preuves et un test en conditions réelles
+# Choisir un hôpital en Chine : accès aux soins et voyage à Hangzhou
 
 ## Hero
 
-- **Title:** Choisir un hôpital à Hangzhou : trois preuves et un test en conditions réelles
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Planification des soins à Hangzhou
-- **Subtitle:** Prouver l’acceptation clinique, vérifier le site et le parcours de service, prouver la continuité — puis tester le passeport et le trajet avant de s’engager.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Illustration conceptuelle de voyageurs planifiant des soins hospitaliers à Hangzhou ; le pont et la pagode inspirés du lac de l’Ouest, l’hôpital, la carte et le train ne montrent ni un itinéraire réel vers un site hospitalier ni une recommandation.
+
+
+- **Title:** Choisir un hôpital en Chine : accès aux soins et voyage à Hangzhou
+- **Subtitle:** Choisissez un hôpital de Hangzhou avec trois preuves et un test en conditions réelles couvrant acceptation du cas, site, systèmes de passeport, service international, transport, urgences et suivi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -264,13 +266,15 @@ Obtenez le résumé clinique, les détails du traitement effectivement réalisé
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-hangzhou-specialties-access-and-travel`
-- **Meta title:** Choisir un hôpital à Hangzhou : sites, accès numérique et voyage
-- **Meta description:** Choisissez un hôpital de Hangzhou avec trois preuves et un test en conditions réelles couvrant acceptation du cas, site, systèmes de passeport, service international, transport, urgences et suivi.
 - **Primary keyword:** choisir un hôpital à Hangzhou
 - **Pillar keyword:** hôpitaux de Hangzhou pour les patients internationaux
 - **Vertical keyword:** sites hospitaliers de Hangzhou accès numérique voyage
 - **Search intent:** comparaison d’hôpitaux / planification d’un voyage médical à Hangzhou
 - **Secondary keywords:** réservation hospitalière avec passeport à Hangzhou ; hôpital international de Hangzhou ; site hospitalier de Hangzhou ; assistance médicale à l’aéroport de Hangzhou ; Hangzhou 120
+
+
+- **Meta title:** Choisir un hôpital en Chine : accès aux soins et voyage à Hangzhou
+- **Meta description:** Choisissez un hôpital de Hangzhou avec trois preuves et un test en conditions réelles couvrant acceptation du cas, site, systèmes de passeport, service international, transport, urgences et suivi.
 
 ## Sources
 

@@ -1,12 +1,14 @@
-# Lymphome du manteau en rechute ou réfractaire : confirmer la progression et planifier le traitement suivant
+# Lymphome du manteau en rechute en Chine : réévaluation et prochaines étapes
 
 ## Hero
 
-- **Title:** Lymphome du manteau en rechute ou réfractaire : confirmer la progression et planifier le traitement suivant
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome du manteau
-- **Subtitle:** Lorsqu’un ganglion lymphatique qui diminuait auparavant grossit de nouveau, l’envie de trouver le médicament suivant peut être immédiate.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Lymphome du manteau en rechute en Chine : réévaluation et prochaines étapes
+- **Subtitle:** Préparez une réévaluation du lymphome du manteau en Chine en distinguant progression, intolérance aux médicaments et possibilités de traitement suivant.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -118,3 +120,6 @@ Vous n’avez pas à régler toutes les décisions futures le jour de la consult
 ## SEO Metadata
 
 - **Primary keyword:** traitement du lymphome du manteau en rechute ou réfractaire
+
+- **Meta title:** Lymphome du manteau en rechute en Chine : réévaluation et prochaines étapes
+- **Meta description:** Préparez une réévaluation du lymphome du manteau en Chine en distinguant progression, intolérance aux médicaments et possibilités de traitement suivant.

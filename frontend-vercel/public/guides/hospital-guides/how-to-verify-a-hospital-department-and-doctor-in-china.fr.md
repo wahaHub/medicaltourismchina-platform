@@ -1,15 +1,17 @@
-# 097 Comment vérifier un hôpital, un service et un médecin en Chine
+# Vérifier un hôpital, un service et un médecin en Chine
 
 ## Hero
 
-- **Title:** Comment vérifier un hôpital, un service et un médecin en Chine
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Vérification des prestataires
-- **Subtitle:** Vérifiez séparément trois identités, puis confirmez que le site exact et l’équipe peuvent assurer les soins proposés.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Illustration conceptuelle d’un patient international examinant des symboles d’hôpital, de médecin et de sécurité avec un coordinateur hospitalier ; le livret n’est pas un justificatif officiel.
+
+
+- **Title:** Vérifier un hôpital, un service et un médecin en Chine
+- **Subtitle:** Vérifiez licence et site hospitaliers chinois, périmètre du service, inscription et rattachement du médecin, autorisation opératoire, examen du dossier, paiement et communication.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -206,11 +208,13 @@ Une réponse datée par canal hospitalier nommant le clinicien, les documents ex
 ## SEO Metadata
 
 - **Slug:** `how-to-verify-a-hospital-department-and-doctor-in-china`
-- **Meta title:** Vérifier un hôpital, un service et un médecin chinois
-- **Meta description:** Vérifiez licence et site hospitaliers chinois, périmètre du service, inscription et rattachement du médecin, autorisation opératoire, examen du dossier, paiement et communication.
 - **Primary keyword:** vérifier un hôpital et un médecin en Chine
 - **Secondary keywords:** vérifier inscription médecin Chine ; licence hôpital chinois ; vérifier site hospitalier ; autorisation chirurgien Chine ; vérification hôpital patient international
 - **Search intent:** vérification de l’identité et des capacités des prestataires
+
+
+- **Meta title:** Vérifier un hôpital, un service et un médecin en Chine
+- **Meta description:** Vérifiez licence et site hospitaliers chinois, périmètre du service, inscription et rattachement du médecin, autorisation opératoire, examen du dossier, paiement et communication.
 
 ## Sources
 

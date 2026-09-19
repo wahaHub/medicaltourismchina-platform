@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Vingt questions de patients sur la rééducation après AVC ischémique et les soins en Chine
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Rééducation après un AVC ischémique
-- **Subtitle:** Les questions sur la récupération après un AVC ischémique changent souvent avec le temps.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Vingt questions de patients sur la rééducation après AVC ischémique et les soins en Chine
+- **Subtitle:** Préparez une rééducation après AVC ischémique en Chine avec 20 questions sur son début, les progrès, les limites des prévisions et le suivi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -187,3 +189,6 @@ Une nouvelle faiblesse soudaine d’un côté, une modification de la parole ou 
 ## SEO Metadata
 
 - **Primary keyword:** questions des patients sur la rééducation après AVC ischémique
+
+- **Meta title:** Vingt questions de patients sur la rééducation après AVC ischémique et les soins en Chine
+- **Meta description:** Préparez une rééducation après AVC ischémique en Chine avec 20 questions sur son début, les progrès, les limites des prévisions et le suivi.

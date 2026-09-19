@@ -1,15 +1,17 @@
-# 041 Rehabilitasi Jantung Setelah Pengobatan Jantung
+# Rehabilitasi Jantung di Tiongkok: Pemulihan Setelah Pengobatan Jantung
 
 ## Hero
 
-- **Title:** Rehabilitasi Jantung Setelah Pengobatan Jantung
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Perawatan Jantung & Pembuluh Darah
-- **Subtitle:** Ubah pembatasan saat pulang menjadi rencana dengan pengawasan medis untuk latihan, pengurangan risiko, kepercayaan diri dan kembali ke kehidupan sehari-hari secara aman.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Tenaga profesional rehabilitasi jantung menilai pasien lanjut usia di samping peralatan latihan sederhana
+
+
+- **Title:** Rehabilitasi Jantung di Tiongkok: Pemulihan Setelah Pengobatan Jantung
+- **Subtitle:** Susun rencana rehabilitasi jantung yang aman setelah pengobatan jantung, termasuk penilaian, dosis latihan, perawatan faktor risiko, tanda peringatan dan serah terima lintas negara.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -175,13 +177,15 @@ Berikan ringkasan prosedur dan komplikasi, temuan jantung terkini, luka dan pemb
 ## SEO Metadata
 
 - **Slug:** `cardiac-rehabilitation-after-heart-treatment`
-- **Meta title:** Rehabilitasi Jantung Setelah Pengobatan Jantung | Panduan Pasien
-- **Meta description:** Susun rencana rehabilitasi jantung yang aman setelah pengobatan jantung, termasuk penilaian, dosis latihan, perawatan faktor risiko, tanda peringatan dan serah terima lintas negara.
 - **Primary keyword:** rehabilitasi jantung setelah pengobatan jantung
 - **Pillar keyword:** pemulihan pengobatan jantung
 - **Vertical keyword:** program rehabilitasi jantung
 - **Search intent:** perencanaan pemulihan / pencegahan sekunder
 - **Secondary keywords:** rehabilitasi jantung setelah PCI; rehabilitasi jantung setelah CABG; latihan setelah operasi jantung; rehabilitasi jantung di rumah; serah terima rehabilitasi jantung
+
+
+- **Meta title:** Rehabilitasi Jantung di Tiongkok: Pemulihan Setelah Pengobatan Jantung
+- **Meta description:** Susun rencana rehabilitasi jantung yang aman setelah pengobatan jantung, termasuk penilaian, dosis latihan, perawatan faktor risiko, tanda peringatan dan serah terima lintas negara.
 
 ## Sumber
 

@@ -1,15 +1,17 @@
-# 117 Dukungan Bahasa dan Rekam Medis Berbahasa Inggris di Rumah Sakit Tiongkok: Tiga Produk Berbeda
+# Dukungan Bahasa dan Rekam Medis Berbahasa Inggris di Rumah Sakit Tiongkok
 
 ## Hero
 
-- **Title:** Dukungan Bahasa dan Rekam Medis Berbahasa Inggris di Rumah Sakit Tiongkok: Tiga Produk Berbeda
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Layanan Bahasa dan Rekam Medis
-- **Subtitle:** Interpretasi klinis langsung, rekam medis sumber rumah sakit, dan serah terima berbahasa Inggris saling berkaitan—tetapi bukan layanan atau dokumen yang sama.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Ilustrasi konseptual konsultasi dukungan bahasa ketika koordinator rumah sakit menunjukkan ikon bicara dan dokumen elektronik kepada pasien; ini bukan terjemahan, rekam medis, institusi, atau dukungan nyata.
+
+
+- **Title:** Dukungan Bahasa dan Rekam Medis Berbahasa Inggris di Rumah Sakit Tiongkok
+- **Subtitle:** Verifikasi interpretasi medis, rekam medis sumber Mandarin, dan serah terima Inggris yang ditinjau klinis di rumah sakit Tiongkok, termasuk persetujuan, obat, DICOM, privasi, dan koreksi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -224,13 +226,15 @@ Prioritaskan ringkasan pulang, catatan operasi/prosedur, patologi, laporan penci
 ## SEO Metadata
 
 - **Slug:** `language-support-and-english-medical-records-at-chinese-hospitals`
-- **Meta title:** Dukungan Bahasa dan Rekam Medis Inggris di Rumah Sakit Tiongkok
-- **Meta description:** Verifikasi interpretasi medis, rekam medis sumber Mandarin, dan serah terima Inggris yang ditinjau klinis di rumah sakit Tiongkok, termasuk persetujuan, obat, DICOM, privasi, dan koreksi.
 - **Primary keyword:** rekam medis berbahasa Inggris di rumah sakit Tiongkok
 - **Pillar keyword:** dukungan bahasa di rumah sakit Tiongkok untuk warga asing
 - **Vertical keyword:** interpretasi medis dan penerjemahan rekam medis Tiongkok
 - **Search intent:** layanan bahasa rumah sakit / perencanaan rekam medis
 - **Secondary keywords:** rumah sakit berbahasa Inggris Tiongkok; juru bahasa medis Tiongkok; menerjemahkan rekam medis Mandarin; ringkasan pulang Inggris Tiongkok; rekam medis rumah sakit bilingual
+
+
+- **Meta title:** Dukungan Bahasa dan Rekam Medis Berbahasa Inggris di Rumah Sakit Tiongkok
+- **Meta description:** Verifikasi interpretasi medis, rekam medis sumber Mandarin, dan serah terima Inggris yang ditinjau klinis di rumah sakit Tiongkok, termasuk persetujuan, obat, DICOM, privasi, dan koreksi.
 
 ## Sumber
 

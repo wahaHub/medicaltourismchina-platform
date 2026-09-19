@@ -1,12 +1,14 @@
-# Managing T-cell lymphoma treatment side effects: when to seek help and what to record at home
+# T-Cell Lymphoma Care in China: Side Effects and Urgent Help
 
 ## Hero
 
-- **Title:** Managing T-cell lymphoma treatment side effects: when to seek help and what to record at home
 - **Category:** Treatment Guides
 - **Subcategory:** T Cell Lymphoma
-- **Subtitle:** The first question after a new symptom is often whether it is a normal side effect.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** T-Cell Lymphoma Care in China: Side Effects and Urgent Help
+- **Subtitle:** Know what to record and when to seek help during T-cell lymphoma treatment, with a care plan that remains usable in China and at home.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -111,3 +113,6 @@ Before travelling home, obtain the latest blood count, kidney and liver results,
 ## SEO Metadata
 
 - **Primary keyword:** T-cell lymphoma treatment side effects
+
+- **Meta title:** T-Cell Lymphoma Care in China: Side Effects and Urgent Help
+- **Meta description:** Know what to record and when to seek help during T-cell lymphoma treatment, with a care plan that remains usable in China and at home.

@@ -1,12 +1,14 @@
-# Side effects of drug-resistant epilepsy treatment: recognizing changes and getting the right help
+# Drug-Resistant Epilepsy Care in China: Treatment Side Effects
 
 ## Hero
 
-- **Title:** Side effects of drug-resistant epilepsy treatment: recognizing changes and getting the right help
 - **Category:** Treatment Guides
 - **Subcategory:** Drug Resistant Epilepsy
-- **Subtitle:** Someone whose seizures have improved may still struggle to stay awake in class, follow a conversation, or walk safely.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Drug-Resistant Epilepsy Care in China: Treatment Side Effects
+- **Subtitle:** Track side effects of drug-resistant epilepsy treatment and know when to seek help, with medicine and safety records usable in China and at home.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -153,3 +155,6 @@ The practical product of a safety review is a clear action plan: the symptoms be
 ## SEO Metadata
 
 - **Primary keyword:** drug-resistant epilepsy treatment side effects; antiseizure medicine safety; epilepsy adverse reactions; epilepsy follow-up in China
+
+- **Meta title:** Drug-Resistant Epilepsy Care in China: Treatment Side Effects
+- **Meta description:** Track side effects of drug-resistant epilepsy treatment and know when to seek help, with medicine and safety records usable in China and at home.

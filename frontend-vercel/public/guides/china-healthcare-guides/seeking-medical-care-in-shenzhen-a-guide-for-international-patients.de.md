@@ -1,15 +1,17 @@
-# 024 Medizinische Versorgung in Shenzhen: Ein Ratgeber für internationale Patienten
+# Medizinische Versorgung in China: Patientenratgeber für Shenzhen
 
 ## Hero
 
-- **Title:** Medizinische Versorgung in Shenzhen: Ein Ratgeber für internationale Patienten
 - **Category:** Ratgeber zur Gesundheitsversorgung in China
 - **Subcategory:** Städtische und grenzüberschreitende Versorgungsplanung
-- **Subtitle:** Planen Sie einen Besuch in Shenzhen anhand des tatsächlichen Krankenhauseingangs, des im System hinterlegten Ausweisdokuments und der klinischen Übergabe auf der anschließend zuständigen Seite der Grenze.
 - **Reviewed by:** Redaktionsteam von Medora Health; vor Veröffentlichung ist eine Prüfung der Versorgung in Shenzhen und der grenzüberschreitenden Versorgung erforderlich
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ein internationaler Patient bespricht seine Versorgung mit einem Arzt vor der Skyline von Shenzhen
+
+
+- **Title:** Medizinische Versorgung in China: Patientenratgeber für Shenzhen
+- **Subtitle:** Planen Sie Termine in Shenzhen, Reisepassregistrierung, Unterlagenaustausch mit Hongkong und Gutscheingrenzen, grenzüberschreitende Übergabe und Notfallversorgung über 120.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -211,13 +213,15 @@ Nein. Rufen Sie Shenzhens 120 an und befolgen Sie die Notfallanweisungen. Grenzt
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-shenzhen-a-guide-for-international-patients`
-- **Meta title:** Medizinische Versorgung in Shenzhen für internationale Patienten
-- **Meta description:** Planen Sie Termine in Shenzhen, Reisepassregistrierung, Unterlagenaustausch mit Hongkong und Gutscheingrenzen, grenzüberschreitende Übergabe und Notfallversorgung über 120.
 - **Primary keyword:** medizinische Versorgung in Shenzhen für internationale Patienten
 - **Pillar keyword:** Gesundheitsversorgung in China für internationale Patienten
 - **Vertical keyword:** grenzüberschreitende medizinische Versorgung Shenzhen
 - **Search intent:** Krankenhausorientierung / grenzüberschreitende Planung
 - **Secondary keywords:** Krankenhaus Shenzhen Reisepassregistrierung; internationaler medizinischer Service Shenzhen; Krankenunterlagen Hongkong Shenzhen; Shenzhen 120 Rettungswagen
+
+
+- **Meta title:** Medizinische Versorgung in China: Patientenratgeber für Shenzhen
+- **Meta description:** Planen Sie Termine in Shenzhen, Reisepassregistrierung, Unterlagenaustausch mit Hongkong und Gutscheingrenzen, grenzüberschreitende Übergabe und Notfallversorgung über 120.
 
 ## Quellen
 

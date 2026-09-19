@@ -1,15 +1,17 @@
-# Stereotactic Body Radiotherapy (SBRT): A Patient Guide
+# SBRT in China: Treatment Planning, Safety and Follow-Up
 
 ## Hero
 
-- **Title:** Stereotactic Body Radiotherapy (SBRT): A Patient Guide
 - **Category:** Treatment Guides
 - **Subcategory:** Cancer Care
-- **Subtitle:** How eligibility, motion control, organ-at-risk limits and patient-specific quality assurance shape a short, high-precision course.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Clinician explaining a simplified chest SBRT plan with several beam paths converging on a small target
+
+
+- **Title:** SBRT in China: Treatment Planning, Safety and Follow-Up
+- **Subtitle:** Understand SBRT eligibility, motion management, image guidance, organ limits, quality assurance and follow-up before stereotactic body radiotherapy.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,13 +143,15 @@ Obtain the treatment summary with site, intent, technique, total and per-fractio
 ## SEO Metadata
 
 - **Slug:** `stereotactic-body-radiotherapy-sbrt-a-patient-guide`
-- **Meta title:** SBRT Patient Guide: Planning, Safety and Follow-Up
-- **Meta description:** Understand SBRT eligibility, motion management, image guidance, organ limits, quality assurance and follow-up before stereotactic body radiotherapy.
 - **Primary keyword:** SBRT patient guide
 - **Pillar keyword:** radiation therapy in China
 - **Vertical keyword:** stereotactic body radiotherapy China
 - **Search intent:** treatment education / safety evaluation
 - **Secondary keywords:** SABR treatment; SBRT motion management; SBRT fractions; SBRT quality assurance; SBRT follow-up imaging
+
+
+- **Meta title:** SBRT in China: Treatment Planning, Safety and Follow-Up
+- **Meta description:** Understand SBRT eligibility, motion management, image guidance, organ limits, quality assurance and follow-up before stereotactic body radiotherapy.
 
 ## Sources
 

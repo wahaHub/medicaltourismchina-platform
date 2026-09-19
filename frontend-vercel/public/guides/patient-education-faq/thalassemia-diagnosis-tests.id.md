@@ -1,12 +1,14 @@
-# Pemeriksaan untuk dugaan talasemia: dari hitung darah menuju konfirmasi hemoglobin dan genetik
+# Diagnosis Talasemia di Tiongkok: Pemeriksaan Darah dan Genetik
 
 ## Hero
 
-- **Title:** Pemeriksaan untuk dugaan talasemia: dari hitung darah menuju konfirmasi hemoglobin dan genetik
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Talasemia
-- **Subtitle:** Ukuran sel darah merah kecil pada hitung darah rutin, pucat menetap pada anak, dan hasil pembawa positif selama kehamilan mengarah pada pertanyaan klinis berbeda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnosis Talasemia di Tiongkok: Pemeriksaan Darah dan Genetik
+- **Subtitle:** Pahami hitung darah, status besi, analisis hemoglobin, dan tes genetik pada dugaan talasemia. Siapkan riwayat untuk konfirmasi diagnosis di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,3 +142,6 @@ Sesak napas nyata, pingsan, atau anak yang sakit akut memerlukan penilaian sesua
 ## SEO Metadata
 
 - **Primary keyword:** diagnosis talasemia; skrining talasemia; analisis hemoglobin; pemeriksaan genetik; anemia mikrositik
+
+- **Meta title:** Diagnosis Talasemia di Tiongkok: Pemeriksaan Darah dan Genetik
+- **Meta description:** Pahami hitung darah, status besi, analisis hemoglobin, dan tes genetik pada dugaan talasemia. Siapkan riwayat untuk konfirmasi diagnosis di Tiongkok.

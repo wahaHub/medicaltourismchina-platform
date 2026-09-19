@@ -1,15 +1,17 @@
-# 心脏治疗后的心脏康复
+# 中国心脏康复：心脏治疗后的恢复安排
 
 ## Hero
 
-- **Title:** 心脏治疗后的心脏康复
 - **Category:** 治疗指南
 - **Subcategory:** 心脏与血管照护
-- **Subtitle:** 把出院限制转化为医学监督下的运动、危险因素管理、信心恢复和重返日常生活计划。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 心脏康复人员正在简单运动器械旁评估一位年长患者
+
+
+- **Title:** 中国心脏康复：心脏治疗后的恢复安排
+- **Subtitle:** 了解心脏治疗后怎样通过评估、处方运动、危险因素管理、警示信号和跨境交接建立安全康复计划。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -175,13 +177,15 @@
 ## SEO Metadata
 
 - **Slug:** `cardiac-rehabilitation-after-heart-treatment`
-- **Meta title:** 心脏治疗后的心脏康复：运动处方与跨境交接
-- **Meta description:** 了解心脏治疗后怎样通过评估、处方运动、危险因素管理、警示信号和跨境交接建立安全康复计划。
 - **Primary keyword:** 心脏治疗后的心脏康复
 - **Pillar keyword:** 心脏治疗后恢复
 - **Vertical keyword:** 心脏康复项目
 - **Search intent:** 恢复规划 / 二级预防
 - **Secondary keywords:** PCI 后心脏康复；CABG 后心脏康复；心脏手术后运动；居家心脏康复；心脏康复交接
+
+
+- **Meta title:** 中国心脏康复：心脏治疗后的恢复安排
+- **Meta description:** 了解心脏治疗后怎样通过评估、处方运动、危险因素管理、警示信号和跨境交接建立安全康复计划。
 
 ## Sources
 

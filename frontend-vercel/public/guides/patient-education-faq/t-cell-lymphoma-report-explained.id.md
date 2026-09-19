@@ -1,12 +1,14 @@
-# Membaca laporan limfoma sel T: menghubungkan patologi, pemindaian PET, dan hasil darah
+# Laporan Limfoma Sel T: Persiapan Tinjauan di Tiongkok
 
 ## Hero
 
-- **Title:** Membaca laporan limfoma sel T: menghubungkan patologi, pemindaian PET, dan hasil darah
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Limfoma Sel T
-- **Subtitle:** Laporan patologi mungkin menyebut CD30 positif, laporan sumsum mungkin tidak menemukan limfoma yang pasti, dan laporan PET mungkin menggambarkan beberapa lokasi aktif.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Laporan Limfoma Sel T: Persiapan Tinjauan di Tiongkok
+- **Subtitle:** Hubungkan patologi, penanda, PET, dan hasil darah limfoma sel T. Pertahankan kesimpulan serta konteks sampel saat menyiapkan tinjauan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Saat meminta pendapat lain, susun laporan berdasarkan tanggal dan tandai apakah 
 ## SEO Metadata
 
 - **Primary keyword:** interpretasi laporan limfoma sel T
+
+- **Meta title:** Laporan Limfoma Sel T: Persiapan Tinjauan di Tiongkok
+- **Meta description:** Hubungkan patologi, penanda, PET, dan hasil darah limfoma sel T. Pertahankan kesimpulan serta konteks sampel saat menyiapkan tinjauan di Tiongkok.

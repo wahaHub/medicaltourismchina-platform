@@ -1,15 +1,17 @@
-# PET/TC en la atención oncológica: el trazador, los tiempos y las limitaciones detrás de un «punto caliente»
+# PET/TC oncológica en China: preparación, trazadores y límites
 
 ## Hero
 
-- **Title:** PET/TC en la atención oncológica: el trazador, los tiempos y las limitaciones detrás de un «punto caliente»
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Pruebas y diagnóstico
-- **Subtitle:** Guía centrada en las decisiones sobre FDG y otros trazadores, preparación, tiempos del tratamiento, radiación, falsos positivos y obtención de un estudio comparable en China.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Sustitución prevista que muestra un equipo PET/TC, una inyección de radiotrazador e imágenes metabólicas y anatómicas fusionadas con una lesión resaltada
+
+
+- **Title:** PET/TC oncológica en China: preparación, trazadores y límites
+- **Subtitle:** Comprenda FDG y otros trazadores PET, la preparación del ayuno y la diabetes, los tiempos del tratamiento, los falsos positivos, los falsos negativos y los informes PET/TC.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -181,13 +183,15 @@ No siempre. Puede ser una TC de baja dosis utilizada principalmente para localiz
 ## SEO Metadata
 
 - **Slug:** `pet-ct-for-cancer-care-uses-and-limitations`
-- **Meta title:** PET/TC para el cáncer: trazadores, preparación y limitaciones
-- **Meta description:** Comprenda FDG y otros trazadores PET, la preparación del ayuno y la diabetes, los tiempos del tratamiento, los falsos positivos, los falsos negativos y los informes PET/TC.
 - **Primary keyword:** PET TC para el cáncer
 - **Pillar keyword:** imágenes oncológicas en China
 - **Vertical keyword:** preparación y limitaciones de PET TC con FDG
 - **Search intent:** orientación para decisiones de imagen oncológica
 - **Secondary keywords:** un punto caliente en PET no siempre es cáncer; cáncer con PET negativa; PET TC y diabetes; PET TC después del tratamiento; DICOM de PET TC en China
+
+
+- **Meta title:** PET/TC oncológica en China: preparación, trazadores y límites
+- **Meta description:** Comprenda FDG y otros trazadores PET, la preparación del ayuno y la diabetes, los tiempos del tratamiento, los falsos positivos, los falsos negativos y los informes PET/TC.
 
 ## Fuentes
 

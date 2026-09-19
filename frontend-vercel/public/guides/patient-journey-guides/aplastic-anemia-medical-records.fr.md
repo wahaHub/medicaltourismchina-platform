@@ -1,12 +1,14 @@
-# Dossiers médicaux pour une orientation en aplasie médullaire : rendre les preuves exploitables
+# Dossier d’aplasie médullaire pour une orientation vers la Chine
 
 ## Hero
 
-- **Title:** Dossiers médicaux pour une orientation en aplasie médullaire : rendre les preuves exploitables
 - **Category:** Guides du parcours patient
 - **Subcategory:** Aplasie médullaire
-- **Subtitle:** Le dossier d’orientation le plus utile montre comment les preuves s’articulent au fil du temps.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dossier d’aplasie médullaire pour une orientation vers la Chine
+- **Subtitle:** Préparez une orientation pour aplasie médullaire en Chine avec les tendances sanguines, les transfusions, les résultats médullaires et l’historique thérapeutique.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Pour la consultation, apportez la liste actuelle des médicaments, les numérati
 ## SEO Metadata
 
 - **Primary keyword:** dossiers médicaux d’aplasie médullaire
+
+- **Meta title:** Dossier d’aplasie médullaire pour une orientation vers la Chine
+- **Meta description:** Préparez une orientation pour aplasie médullaire en Chine avec les tendances sanguines, les transfusions, les résultats médullaires et l’historique thérapeutique.

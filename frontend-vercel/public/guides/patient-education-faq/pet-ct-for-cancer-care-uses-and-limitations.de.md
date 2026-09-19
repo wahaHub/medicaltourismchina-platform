@@ -1,15 +1,17 @@
-# PET/CT in der Krebsversorgung: Tracer, Zeitpunkt und Grenzen hinter einem „Hotspot“
+# PET/CT bei Krebs in China: Vorbereitung, Tracer und Grenzen
 
 ## Hero
 
-- **Title:** PET/CT in der Krebsversorgung: Tracer, Zeitpunkt und Grenzen hinter einem „Hotspot“
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Untersuchungen und Diagnose
-- **Subtitle:** Ein entscheidungsorientierter Leitfaden zu FDG und anderen Tracern, Vorbereitung, Behandlungszeitpunkten, Strahlung, falsch positiven Befunden und einer vergleichbaren Untersuchung in China.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Geplantes Ersatzbild mit PET/CT-Scanner, Radiotracer-Injektion und fusionierten metabolisch-anatomischen Bildern mit einer hervorgehobenen Läsion
+
+
+- **Title:** PET/CT bei Krebs in China: Vorbereitung, Tracer und Grenzen
+- **Subtitle:** Verstehen Sie FDG und andere PET-Tracer, Nüchternheit und Diabetesvorbereitung, Behandlungszeitpunkte, falsch positive und negative Befunde sowie PET/CT-Berichte.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -181,13 +183,15 @@ Nicht immer. Es kann eine Niedrigdosis-CT hauptsächlich zur Lokalisation oder e
 ## SEO Metadata
 
 - **Slug:** `pet-ct-for-cancer-care-uses-and-limitations`
-- **Meta title:** PET/CT bei Krebs: Tracer, Vorbereitung und Grenzen
-- **Meta description:** Verstehen Sie FDG und andere PET-Tracer, Nüchternheit und Diabetesvorbereitung, Behandlungszeitpunkte, falsch positive und negative Befunde sowie PET/CT-Berichte.
 - **Primary keyword:** PET CT bei Krebs
 - **Pillar keyword:** Krebsbildgebung in China
 - **Vertical keyword:** FDG PET CT Vorbereitung und Grenzen
 - **Search intent:** Entscheidungshilfe zur onkologischen Bildgebung
 - **Secondary keywords:** PET Hotspot nicht immer Krebs; PET negativ Krebs; PET CT Diabetes; PET CT nach Behandlung; PET CT DICOM China
+
+
+- **Meta title:** PET/CT bei Krebs in China: Vorbereitung, Tracer und Grenzen
+- **Meta description:** Verstehen Sie FDG und andere PET-Tracer, Nüchternheit und Diabetesvorbereitung, Behandlungszeitpunkte, falsch positive und negative Befunde sowie PET/CT-Berichte.
 
 ## Quellen
 

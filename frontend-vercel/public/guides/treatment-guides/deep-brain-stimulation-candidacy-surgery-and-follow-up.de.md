@@ -1,15 +1,17 @@
-# 050 Tiefe Hirnstimulation: Eignung, Operation und Nachsorge
+# Tiefe Hirnstimulation in China: Beurteilung und Programmierung
 
 ## Hero
 
-- **Title:** Tiefe Hirnstimulation: Eignung, Operation und Nachsorge
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Neurologie und Neurochirurgie
-- **Subtitle:** Entscheiden Sie, ob DBS zur Diagnose und den Zielsymptomen passt – und ob die langfristige Programmierung nach der Reise zugänglich bleibt.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Älterer Patient betrachtet mit einem Neurologen und einem chirurgischen Arzt eine Darstellung von Elektrode und Impulsgeber für die tiefe Hirnstimulation
+
+
+- **Title:** Tiefe Hirnstimulation in China: Beurteilung und Programmierung
+- **Subtitle:** Bewerten Sie DBS anhand von Diagnose, Symptomen, Zielgebiet, Operationsrisiko, Programmierung, Hardware, MRT-Sicherheit und langfristiger grenzüberschreitender Unterstützung.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -182,13 +184,15 @@ Bewahren Sie Zielgebiet und Seite, Elektrodenlokalisationsbilder, Operationsberi
 ## SEO Metadata
 
 - **Slug:** `deep-brain-stimulation-candidacy-surgery-and-follow-up`
-- **Meta title:** Tiefe Hirnstimulation | Eignung, Operation und Programmierung
-- **Meta description:** Bewerten Sie DBS anhand von Diagnose, Symptomen, Zielgebiet, Operationsrisiko, Programmierung, Hardware, MRT-Sicherheit und langfristiger grenzüberschreitender Unterstützung.
 - **Primary keyword:** Eignung für tiefe Hirnstimulation
 - **Pillar keyword:** DBS-Operation und Programmierung
 - **Vertical keyword:** funktionelle Neurochirurgie
 - **Search intent:** Behandlungsbewertung / langfristige Planung
 - **Secondary keywords:** Parkinson DBS; essenzieller Tremor DBS; Dystonie DBS; DBS-Programmierung; DBS MRT-Sicherheit
+
+
+- **Meta title:** Tiefe Hirnstimulation in China: Beurteilung und Programmierung
+- **Meta description:** Bewerten Sie DBS anhand von Diagnose, Symptomen, Zielgebiet, Operationsrisiko, Programmierung, Hardware, MRT-Sicherheit und langfristiger grenzüberschreitender Unterstützung.
 
 ## Quellen
 

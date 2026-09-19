@@ -1,12 +1,14 @@
-# Nuevos fármacos y ensayos para el linfoma de células T en 2026: convertir una actualización de investigación en una opción verificable
+# Nuevos fármacos y ensayos para el linfoma de células T: verificar el acceso en China
 
 ## Hero
 
-- **Title:** Nuevos fármacos y ensayos para el linfoma de células T en 2026: convertir una actualización de investigación en una opción verificable
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Linfoma de células T
-- **Subtitle:** Una noticia puede anunciar las primeras pruebas en humanos, un seguimiento más prolongado, una aprobación en otro país o el reclutamiento en un hospital.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Nuevos fármacos y ensayos para el linfoma de células T: verificar el acceso en China
+- **Subtitle:** Evalúe las novedades del linfoma de células T según el subtipo, la evidencia y la indicación, y compruebe si pueden ser una opción verificable en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -118,3 +120,6 @@ Al terminar una consulta, registre el identificador del estudio, la persona que 
 ## SEO Metadata
 
 - **Primary keyword:** nuevos fármacos y ensayos clínicos para linfoma de células T
+
+- **Meta title:** Nuevos fármacos y ensayos para el linfoma de células T: verificar el acceso en China
+- **Meta description:** Evalúe las novedades del linfoma de células T según el subtipo, la evidencia y la indicación, y compruebe si pueden ser una opción verificable en China.

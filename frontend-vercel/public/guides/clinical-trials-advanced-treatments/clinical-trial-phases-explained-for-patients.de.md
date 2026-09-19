@@ -1,15 +1,17 @@
-# 072 Phasen klinischer Studien für Patienten erklärt
+# Phasen 0–IV klinischer Studien: Patientenratgeber für China
 
 ## Hero
 
-- **Title:** Phasen klinischer Studien für Patienten erklärt
 - **Category:** Klinische Studien und fortschrittliche Behandlungen
 - **Subcategory:** Grundlagen klinischer Studien
-- **Subtitle:** Nutzen Sie die Phase, um die Hauptfrage der Studie zu verstehen, und lesen Sie anschließend das tatsächliche Protokoll, Studienarme, Endpunkte und bisherige Evidenz, bevor Sie die persönliche Relevanz beurteilen.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ersatz erforderlich: Ein Patient und ein Forschungsarzt betrachten eine klare Zeitleiste der Phasen 0–IV mit Meilensteinen zu Dosis, Vergleich, Zulassung und Zeit nach Markteinführung.
+
+
+- **Title:** Phasen 0–IV klinischer Studien: Patientenratgeber für China
+- **Subtitle:** Verstehen Sie Phasen 0–IV, kombinierte und adaptive Studien, Dosissteigerung, Randomisierung, Endpunkte, Studien nach Markteinführung und Einwilligung in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,11 +146,13 @@ Nicht unbedingt. Das Produkt wird vermarktet, doch die Studie kann eine neue Pop
 ## SEO Metadata
 
 - **Slug:** `clinical-trial-phases-explained-for-patients`
-- **Meta title:** Phasen 0–IV klinischer Studien für Patienten erklärt
-- **Meta description:** Verstehen Sie Phasen 0–IV, kombinierte und adaptive Studien, Dosissteigerung, Randomisierung, Endpunkte, Studien nach Markteinführung und Einwilligung in China.
 - **Primary keyword:** Phasen klinischer Studien erklärt
 - **Secondary keywords:** klinische Phase-I-Studie; Phase-II-Studie; randomisierte Phase-III-Studie; Phase-IV-Studie; klinische Studie China
 - **Search intent:** Aufklärung über klinische Studien / Teilnahmeentscheidung
+
+
+- **Meta title:** Phasen 0–IV klinischer Studien: Patientenratgeber für China
+- **Meta description:** Verstehen Sie Phasen 0–IV, kombinierte und adaptive Studien, Dosissteigerung, Randomisierung, Endpunkte, Studien nach Markteinführung und Einwilligung in China.
 
 ## Quellen
 

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Biaya Rehabilitasi Stroke di Tiongkok: Menyusun Anggaran RMB yang Terperinci
 - **Category:** Panduan Biaya & Asuransi
 - **Subcategory:** Rehabilitasi Pascastroke Iskemik
-- **Subtitle:** Biaya rehabilitasi stroke di Tiongkok tidak dapat dijawab secara andal dengan satu angka bulanan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Biaya Rehabilitasi Stroke di Tiongkok: Menyusun Anggaran RMB yang Terperinci
+- **Subtitle:** Susun anggaran rehabilitasi stroke di Tiongkok dari kebutuhan medis, terapi, keperawatan, alat bantu, dan pelatihan pendamping setelah penilaian fungsi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -143,3 +145,6 @@ Pendapat biaya yang berguna menunjukkan bagaimana pengeluaran terkait dengan tuj
 ## SEO Metadata
 
 - **Primary keyword:** biaya rehabilitasi stroke di Tiongkok
+
+- **Meta title:** Biaya Rehabilitasi Stroke di Tiongkok: Menyusun Anggaran RMB yang Terperinci
+- **Meta description:** Susun anggaran rehabilitasi stroke di Tiongkok dari kebutuhan medis, terapi, keperawatan, alat bantu, dan pelatihan pendamping setelah penilaian fungsi.

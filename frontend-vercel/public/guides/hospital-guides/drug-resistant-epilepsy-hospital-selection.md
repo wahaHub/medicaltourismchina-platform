@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choosing a hospital in China for drug-resistant epilepsy: match the center to the clinical problem
 - **Category:** Hospital Guides
 - **Subcategory:** Drug Resistant Epilepsy
-- **Subtitle:** A well-known clinician, an advanced device, or a successful case story may be the first thing a patient sees when searching for care.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choosing a hospital in China for drug-resistant epilepsy: match the center to the clinical problem
+- **Subtitle:** Match a drug-resistant epilepsy hospital in China to the problem, from diagnostic review and monitoring to surgery assessment and continuing care.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -172,3 +174,6 @@ A shortlist need not contain many institutions. Focus on a team that can explain
 ## SEO Metadata
 
 - **Primary keyword:** choosing a drug-resistant epilepsy hospital in China; comprehensive epilepsy center; pediatric epilepsy multidisciplinary care
+
+- **Meta title:** Choosing a hospital in China for drug-resistant epilepsy: match the center to the clinical problem
+- **Meta description:** Match a drug-resistant epilepsy hospital in China to the problem, from diagnostic review and monitoring to surgery assessment and continuing care.

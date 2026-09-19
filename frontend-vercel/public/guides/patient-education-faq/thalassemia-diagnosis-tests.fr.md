@@ -1,12 +1,14 @@
-# Examens en cas de suspicion de thalassémie : de la numération sanguine à la confirmation hémoglobinique et génétique
+# Diagnostic de la thalassémie en Chine : analyses sanguines et génétiques
 
 ## Hero
 
-- **Title:** Examens en cas de suspicion de thalassémie : de la numération sanguine à la confirmation hémoglobinique et génétique
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Thalassémie
-- **Subtitle:** De petits globules rouges sur une numération de routine, une pâleur persistante chez un enfant et un résultat positif de portage pendant la grossesse soulèvent des questions cliniques différentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnostic de la thalassémie en Chine : analyses sanguines et génétiques
+- **Subtitle:** Préparez le diagnostic de thalassémie en Chine : numération, bilan du fer, analyse de l’hémoglobine et tests génétiques selon le contexte.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,3 +142,6 @@ Un essoufflement marqué, un évanouissement ou un enfant présentant un état a
 ## SEO Metadata
 
 - **Primary keyword:** diagnostic de la thalassémie ; dépistage de la thalassémie ; analyse de l’hémoglobine ; tests génétiques ; anémie microcytaire
+
+- **Meta title:** Diagnostic de la thalassémie en Chine : analyses sanguines et génétiques
+- **Meta description:** Préparez le diagnostic de thalassémie en Chine : numération, bilan du fer, analyse de l’hémoglobine et tests génétiques selon le contexte.

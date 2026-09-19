@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Seguimiento en casa después del tratamiento de la anemia aplásica en China
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Anemia aplásica
-- **Subtitle:** Un plan de seguimiento debe indicar dónde se harán las pruebas, quién las revisará, quién puede cambiar las recetas y adónde acudir si aparece una enfermedad.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Seguimiento en casa después del tratamiento de la anemia aplásica en China
+- **Subtitle:** Organice el seguimiento de anemia aplásica tras volver de China con vigilancia de recuentos, medicación, apoyo transfusional y una vía de atención urgente.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Al terminar cada revisión, confirme la receta activa, las próximas pruebas, el
 ## SEO Metadata
 
 - **Primary keyword:** seguimiento de la anemia aplásica después del tratamiento en el extranjero
+
+- **Meta title:** Seguimiento en casa después del tratamiento de la anemia aplásica en China
+- **Meta description:** Organice el seguimiento de anemia aplásica tras volver de China con vigilancia de recuentos, medicación, apoyo transfusional y una vía de atención urgente.

@@ -1,12 +1,14 @@
-# Mengenali Efek Samping Pengobatan Sel Sabit: Gejala Mendesak dan Evaluasi Terencana
+# Pengobatan Penyakit Sel Sabit di Tiongkok: Efek Samping dan Tanda Darurat
 
 ## Hero
 
-- **Title:** Mengenali Efek Samping Pengobatan Sel Sabit: Gejala Mendesak dan Evaluasi Terencana
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Sel Sabit
-- **Subtitle:** Mual, kelelahan, atau nyeri setelah memulai pengobatan tidak dengan sendirinya membuktikan adanya efek samping.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Penyakit Sel Sabit di Tiongkok: Efek Samping dan Tanda Darurat
+- **Subtitle:** Kenali gejala darurat dan kebutuhan pemantauan selama pengobatan sel sabit di Tiongkok. Bedakan kemungkinan efek obat dari komplikasi penyakit.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Setiap kali pengobatan dimulai atau berubah, tetapkan apa yang diharapkan, perub
 ## SEO Metadata
 
 - **Primary keyword:** efek samping pengobatan sel sabit
+
+- **Meta title:** Pengobatan Penyakit Sel Sabit di Tiongkok: Efek Samping dan Tanda Darurat
+- **Meta description:** Kenali gejala darurat dan kebutuhan pemantauan selama pengobatan sel sabit di Tiongkok. Bedakan kemungkinan efek obat dari komplikasi penyakit.

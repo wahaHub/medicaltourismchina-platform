@@ -1,12 +1,14 @@
-# Tratamiento del mieloma múltiple: proteger los órganos mientras se planifica el control a largo plazo
+# Tratamiento del mieloma múltiple en China: opciones y atención continuada
 
 ## Hero
 
-- **Title:** Tratamiento del mieloma múltiple: proteger los órganos mientras se planifica el control a largo plazo
 - **Category:** Guías de tratamiento
 - **Subcategory:** Mieloma múltiple
-- **Subtitle:** El tratamiento del mieloma múltiple suele ser una secuencia de decisiones, en lugar de un único procedimiento.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento del mieloma múltiple en China: opciones y atención continuada
+- **Subtitle:** Comprenda las opciones de mieloma múltiple en China según diagnóstico, afectación orgánica, tratamiento inicial, trasplante y seguimiento de la respuesta.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Una primera consulta útil le deja con el objetivo terapéutico inmediato, los p
 ## SEO Metadata
 
 - **Primary keyword:** opciones de tratamiento del mieloma múltiple en China
+
+- **Meta title:** Tratamiento del mieloma múltiple en China: opciones y atención continuada
+- **Meta description:** Comprenda las opciones de mieloma múltiple en China según diagnóstico, afectación orgánica, tratamiento inicial, trasplante y seguimiento de la respuesta.

@@ -1,15 +1,17 @@
-# 020 Schutz Ihrer medizinischen Privatsphäre beim internationalen Austausch von Unterlagen
+# Medizinische Unterlagen mit China teilen: Datenschutz und Einwilligung
 
 ## Hero
 
-- **Title:** Schutz Ihrer medizinischen Privatsphäre beim internationalen Austausch von Unterlagen
 - **Category:** Leitfäden zum Gesundheitswesen in China
 - **Subcategory:** Datenschutz und grenzüberschreitende Unterlagen
-- **Subtitle:** Kennen Sie alle Empfänger, versenden Sie nur das für die Aufgabe Erforderliche, nutzen Sie einen kontrollierten Kanal und legen Sie fest, wann der Zugriff jeder Person endet.
 - **Reviewed by:** Medora Health Redaktion; vor Veröffentlichung ist eine Prüfung zu chinesischem Datenschutz, Privatsphäre und Informationssicherheit erforderlich
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ein Patient und ein Arzt besprechen die sichere grenzüberschreitende Übermittlung medizinischer Unterlagen
+
+
+- **Title:** Medizinische Unterlagen mit China teilen: Datenschutz und Einwilligung
+- **Subtitle:** Erfassen Sie alle Empfänger, minimieren Sie Unterlagen, nutzen Sie sichere Übermittlung und regeln Sie Einwilligung, Zugriff, Metadaten und Löschung beim internationalen Austausch von Gesundheitsdaten.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -259,13 +261,15 @@ Einzelpersonen haben unter bestimmten gesetzlichen Voraussetzungen Löschrechte,
 ## SEO Metadata
 
 - **Slug:** `protecting-your-medical-privacy-when-sharing-records-internationally`
-- **Meta title:** Medizinische Privatsphäre beim grenzüberschreitenden Austausch von Unterlagen schützen
-- **Meta description:** Erfassen Sie alle Empfänger, minimieren Sie Unterlagen, nutzen Sie sichere Übermittlung und regeln Sie Einwilligung, Zugriff, Metadaten und Löschung beim internationalen Austausch von Gesundheitsdaten.
 - **Primary keyword:** Datenschutz bei grenzüberschreitenden medizinischen Unterlagen China
 - **Pillar keyword:** Gesundheitsversorgung in China für internationale Patienten
 - **Vertical keyword:** medizinische Unterlagen international sicher teilen
 - **Search intent:** Information / Management von Datenschutzrisiken
 - **Secondary keywords:** Übermittlung von Gesundheitsdaten China; PIPL medizinische Unterlagen; sicherer Upload von Krankenhausunterlagen
+
+
+- **Meta title:** Medizinische Unterlagen mit China teilen: Datenschutz und Einwilligung
+- **Meta description:** Erfassen Sie alle Empfänger, minimieren Sie Unterlagen, nutzen Sie sichere Übermittlung und regeln Sie Einwilligung, Zugriff, Metadaten und Löschung beim internationalen Austausch von Gesundheitsdaten.
 
 ## Quellen
 

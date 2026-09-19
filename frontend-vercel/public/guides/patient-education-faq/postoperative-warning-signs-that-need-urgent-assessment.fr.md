@@ -1,15 +1,17 @@
-# Après une opération loin de chez soi : quels signes d’alerte nécessitent le 120, un contact chirurgical le jour même ou une surveillance ?
+# Signes d’alerte après une opération en Chine : appeler le 120 ou le chirurgien ?
 
 ## Hero
 
-- **Title:** Après une opération loin de chez soi : quels signes d’alerte nécessitent le 120, un contact chirurgical le jour même ou une surveillance ?
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Symptômes et soins urgents
-- **Subtitle:** Un guide pratique de triage pour les patients internationaux qui se rétablissent dans un hôtel, un appartement ou une ville inconnue après une opération.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Patient postopératoire parlant avec un clinicien à côté d’icônes représentant la fièvre, les difficultés respiratoires, les symptômes cardiaques, la douleur à la jambe et la douleur abdominale
+
+
+- **Title:** Signes d’alerte après une opération en Chine : appeler le 120 ou le chirurgien ?
+- **Subtitle:** Trier les difficultés respiratoires, saignements, modifications de plaie, fièvre, vomissements, gonflements de jambe et problèmes de drain après une opération en voyage.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -168,13 +170,15 @@ Non. Contactez l’équipe chirurgicale ou un clinicien local. La plaie peut né
 ## SEO Metadata
 
 - **Slug:** `postoperative-warning-signs-that-need-urgent-assessment`
-- **Meta title:** Signes d’alerte postopératoires : appeler le 120 ou le chirurgien ?
-- **Meta description:** Trier les difficultés respiratoires, saignements, modifications de plaie, fièvre, vomissements, gonflements de jambe et problèmes de drain après une opération en voyage.
 - **Primary keyword:** signes d’alerte postopératoires
 - **Pillar keyword:** sécurité des patients pendant un voyage médical
 - **Vertical keyword:** symptômes urgents après une opération
 - **Search intent:** conseils de triage postopératoire
 - **Secondary keywords:** infection de plaie après chirurgie ; caillot après chirurgie ; fièvre postopératoire ; appeler chirurgien après opération ; appeler 120 Chine
+
+
+- **Meta title:** Signes d’alerte après une opération en Chine : appeler le 120 ou le chirurgien ?
+- **Meta description:** Trier les difficultés respiratoires, saignements, modifications de plaie, fièvre, vomissements, gonflements de jambe et problèmes de drain après une opération en voyage.
 
 ## Sources
 

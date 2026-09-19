@@ -1,12 +1,14 @@
-# DLBCL-Behandlungen vergleichen: Welche Optionen gehören in welche Phase?
+# DLBCL-Behandlungen in China: Optionen nach Behandlungsphase vergleichen
 
 ## Hero
 
-- **Title:** DLBCL-Behandlungen vergleichen: Welche Optionen gehören in welche Phase?
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Diffuses großzelliges B-Zell-Lymphom
-- **Subtitle:** R-CHOP, Polatuzumab-Kombinationen, Transplantation, CAR-T-Zellen und bispezifische Antikörper sollten nicht in eine einzige Rangfolge von schwach bis stark eingeordnet werden.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL-Behandlungen in China: Optionen nach Behandlungsphase vergleichen
+- **Subtitle:** DLBCL-Therapien in China nach Behandlungsphase vergleichen: Erstlinienkombinationen, Bestrahlung, Transplantation, CAR-T und bispezifische Antikörper einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Weisen Sie die Nachsorgeverantwortung zu und legen Sie fest, welche Tests zu Hau
 ## SEO Metadata
 
 - **Primary keyword:** DLBCL-Behandlungsvergleich
+
+- **Meta title:** DLBCL-Behandlungen in China: Optionen nach Behandlungsphase vergleichen
+- **Meta description:** DLBCL-Therapien in China nach Behandlungsphase vergleichen: Erstlinienkombinationen, Bestrahlung, Transplantation, CAR-T und bispezifische Antikörper einordnen.

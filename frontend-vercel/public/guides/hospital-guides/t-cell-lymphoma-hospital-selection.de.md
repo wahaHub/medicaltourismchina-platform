@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Ein Krankenhaus in China für T-Zell-Lymphom wählen: Fragen zu Subtyp-Erfahrung, Pathologie und Versorgungskontinuität
 - **Category:** Krankenhausleitfäden
 - **Subcategory:** T-Zell-Lymphom
-- **Subtitle:** Beschreiben Sie vor dem Krankenhausvergleich den Zweck in einem Satz: Bestätigung der pathologischen Entität, Auswahl der Ersttherapie, Rückfallbehandlung oder Transplantationsbeurteilung.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Ein Krankenhaus in China für T-Zell-Lymphom wählen: Fragen zu Subtyp-Erfahrung, Pathologie und Versorgungskontinuität
+- **Subtitle:** Ein Zentrum für T-Zell-Lymphome in China wählen: Erfahrung mit dem Subtyp, pathologische Zweitbegutachtung, Behandlungskontinuität und Notfallzugang prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ Wenn während des Überweisungsvergleichs dringliche Symptome auftreten, nutzen 
 ## SEO Metadata
 
 - **Primary keyword:** Krankenhaus für T-Zell-Lymphom in China
+
+- **Meta title:** Ein Krankenhaus in China für T-Zell-Lymphom wählen: Fragen zu Subtyp-Erfahrung, Pathologie und Versorgungskontinuität
+- **Meta description:** Ein Zentrum für T-Zell-Lymphome in China wählen: Erfahrung mit dem Subtyp, pathologische Zweitbegutachtung, Behandlungskontinuität und Notfallzugang prüfen.

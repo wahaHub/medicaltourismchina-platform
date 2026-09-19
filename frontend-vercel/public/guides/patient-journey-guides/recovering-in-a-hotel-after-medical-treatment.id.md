@@ -1,15 +1,17 @@
-# 142 Pemulihan di Hotel Setelah Pengobatan: Pastikan Kamar Lulus Uji Penggunaan Klinis
+# Pemulihan Hotel Setelah Pengobatan di Tiongkok | Uji Keamanan Kamar
 
 ## Hero
 
-- **Title:** Pemulihan di Hotel Setelah Pengobatan: Pastikan Kamar Lulus Uji Penggunaan Klinis
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Akomodasi Sementara dan Pemulihan Rawat Jalan
-- **Subtitle:** Hotel menyediakan kamar, bukan perawatan keperawatan. Uji pasien, pengasuh, ruang, peralatan, dan jalur darurat sebelum menggunakannya sebagai tempat pemulihan.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Pasien dan pendamping merencanakan tanggal pemulihan di kamar hotel, dengan koper dan simbol rumah sakit terdekat.
+
+
+- **Title:** Pemulihan Hotel Setelah Pengobatan di Tiongkok | Uji Keamanan Kamar
+- **Subtitle:** Hotel menyediakan kamar, bukan perawatan keperawatan. Uji pasien, pengasuh, ruang, peralatan, dan jalur darurat sebelum menggunakannya sebagai tempat pemulihan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -183,13 +185,15 @@ Siapkan nama hotel dalam bahasa Mandarin dan alamat lengkap, menara, lantai, kam
 ## SEO Metadata
 
 - **Slug:** `recovering-in-a-hotel-after-medical-treatment`
-- **Meta title:** Pemulihan Hotel Setelah Pengobatan di Tiongkok | Uji Keamanan Kamar
-- **Meta description:** Uji kelayakan hotel, akses kamar, cakupan pengasuh, penyimpanan obat, perangkat, dan jalur darurat setelah pengobatan rawat jalan di Tiongkok.
 - **Primary keyword:** pemulihan hotel setelah operasi Tiongkok
 - **Pillar keyword:** perjalanan medis ke Tiongkok
 - **Vertical keyword:** pemulihan di hotel setelah pengobatan
 - **Search intent:** akomodasi pemulihan / perencanaan keselamatan
 - **Secondary keywords:** hotel dekat rumah sakit Tiongkok; pemulihan hotel operasi rawat jalan; pengasuh setelah anestesi; peralatan medis di hotel; alamat hotel darurat 120
+
+
+- **Meta title:** Pemulihan Hotel Setelah Pengobatan di Tiongkok | Uji Keamanan Kamar
+- **Meta description:** Uji kelayakan hotel, akses kamar, cakupan pengasuh, penyimpanan obat, perangkat, dan jalur darurat setelah pengobatan rawat jalan di Tiongkok.
 
 ## Sumber
 

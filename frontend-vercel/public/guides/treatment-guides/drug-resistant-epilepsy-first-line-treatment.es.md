@@ -1,12 +1,14 @@
-# El primer plan de tratamiento tras reconocer la epilepsia farmacorresistente: acordar cambios, seguimiento y derivación
+# Epilepsia farmacorresistente en China: el plan inicial de tratamiento
 
 ## Hero
 
-- **Title:** El primer plan de tratamiento tras reconocer la epilepsia farmacorresistente: acordar cambios, seguimiento y derivación
 - **Category:** Guías de tratamiento
 - **Subcategory:** Epilepsia farmacorresistente
-- **Subtitle:** En esta etapa, el paciente necesita un plan que pueda llevarse a cabo y revisarse.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Epilepsia farmacorresistente en China: el plan inicial de tratamiento
+- **Subtitle:** Prepare un plan inicial de epilepsia farmacorresistente en China con objetivos claros, revisión de tratamientos previos y acuerdos sobre cambios y seguimiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,3 +152,6 @@ En la revisión posterior, reúna los episodios, los efectos adversos y los obje
 ## SEO Metadata
 
 - **Primary keyword:** plan inicial de manejo de la epilepsia farmacorresistente; ajuste de medicamentos anticrisis; tratamiento añadido de la epilepsia; derivación en China
+
+- **Meta title:** Epilepsia farmacorresistente en China: el plan inicial de tratamiento
+- **Meta description:** Prepare un plan inicial de epilepsia farmacorresistente en China con objetivos claros, revisión de tratamientos previos y acuerdos sobre cambios y seguimiento.

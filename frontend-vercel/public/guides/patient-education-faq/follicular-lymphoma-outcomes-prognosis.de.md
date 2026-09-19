@@ -1,12 +1,14 @@
-# Prognose beim follikulären Lymphom: Überleben, Remission und den weiteren Verlauf einordnen
+# Prognose beim follikulären Lymphom: Fragen für eine Beratung in China
 
 ## Hero
 
-- **Title:** Prognose beim follikulären Lymphom: Überleben, Remission und den weiteren Verlauf einordnen
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Follikuläres Lymphom
-- **Subtitle:** Die Krankheitsbezeichnung allein kann nicht vorhersagen, wie viele Jahre ein einzelner Mensch mit follikulärem Lymphom leben wird.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prognose beim follikulären Lymphom: Fragen für eine Beratung in China
+- **Subtitle:** Die Prognose beim follikulären Lymphom in China besprechen: Remission, frühe Progression, Überlebensmaße und Lebensqualität im individuellen Verlauf einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Die kommenden Monate lassen sich anhand von Kontrollterminen, Symptomen für ein
 ## SEO Metadata
 
 - **Primary keyword:** Prognose beim follikulären Lymphom
+
+- **Meta title:** Prognose beim follikulären Lymphom: Fragen für eine Beratung in China
+- **Meta description:** Die Prognose beim follikulären Lymphom in China besprechen: Remission, frühe Progression, Überlebensmaße und Lebensqualität im individuellen Verlauf einordnen.

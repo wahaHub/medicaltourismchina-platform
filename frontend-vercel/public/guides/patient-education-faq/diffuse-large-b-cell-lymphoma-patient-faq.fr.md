@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Questions fréquentes des patients sur le DLBCL : 20 questions sur le traitement, la rechute et les soins en Chine
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Lymphome diffus à grandes cellules B
-- **Subtitle:** Les questions sur le DLBCL nécessitent souvent de considérer ensemble l’anatomopathologie, le stade, les traitements antérieurs et la condition physique.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Questions fréquentes des patients sur le DLBCL : 20 questions sur le traitement, la rechute et les soins en Chine
+- **Subtitle:** Préparez une consultation pour un LDGCB en Chine avec 20 questions sur la biopsie, les sous-types, les traitements, la rechute et la poursuite des soins.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Apportez l’anatomopathologie définitive, les médicaments administrés, les m
 ## SEO Metadata
 
 - **Primary keyword:** questions fréquentes des patients sur le DLBCL
+
+- **Meta title:** Questions fréquentes des patients sur le DLBCL : 20 questions sur le traitement, la rechute et les soins en Chine
+- **Meta description:** Préparez une consultation pour un LDGCB en Chine avec 20 questions sur la biopsie, les sous-types, les traitements, la rechute et la poursuite des soins.

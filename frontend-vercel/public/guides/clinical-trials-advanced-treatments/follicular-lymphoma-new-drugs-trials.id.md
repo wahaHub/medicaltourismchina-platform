@@ -1,12 +1,14 @@
-# Pengobatan dan uji klinis baru untuk limfoma folikular: mencocokkan bukti dengan situasi Anda
+# Pengobatan Baru Limfoma Folikular: Uji Klinis dan Akses di Tiongkok
 
 ## Hero
 
-- **Title:** Pengobatan dan uji klinis baru untuk limfoma folikular: mencocokkan bukti dengan situasi Anda
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Limfoma Folikular
-- **Subtitle:** Tingkat respons tinggi pada obat baru seharusnya mendorong pertanyaan tentang peserta, kombinasi, tindak lanjut, dan status regulasinya sebelum mencari pemasok.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Baru Limfoma Folikular: Uji Klinis dan Akses di Tiongkok
+- **Subtitle:** Nilai pengobatan baru limfoma folikular menurut kombinasi, pembanding, dan lama tindak lanjut. Siapkan pertanyaan akses uji klinis di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Pertahankan pilihan cadangan pengobatan standar selama skrining berlangsung dan 
 ## SEO Metadata
 
 - **Primary keyword:** obat baru dan uji klinis limfoma folikular
+
+- **Meta title:** Pengobatan Baru Limfoma Folikular: Uji Klinis dan Akses di Tiongkok
+- **Meta description:** Nilai pengobatan baru limfoma folikular menurut kombinasi, pembanding, dan lama tindak lanjut. Siapkan pertanyaan akses uji klinis di Tiongkok.

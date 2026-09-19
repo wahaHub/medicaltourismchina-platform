@@ -1,15 +1,17 @@
-# Discharge Coordination and Overseas Follow-Up from a Chinese Hospital: “Sent” Is Not “Received”
+# Hospital Discharge in China: Planning Overseas Follow-Up
 
 ## Hero
 
-- **Title:** Discharge Coordination and Overseas Follow-Up from a Chinese Hospital: “Sent” Is Not “Received”
 - **Category:** Hospital Guides
 - **Subcategory:** Cross-border Discharge and Follow-Up
-- **Subtitle:** A safe discharge closes only when the patient is stable, travel is separately assessed, the record is usable, pending results have an owner, and a clinician at home accepts the next task.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Conceptual discharge meeting with an international patient, luggage, coordinator, calendar, route and follow-up contact; it is not a real hospital, flight clearance, record, or guarantee.
+
+
+- **Title:** Hospital Discharge in China: Planning Overseas Follow-Up
+- **Subtitle:** Close a China hospital discharge safely with medication reconciliation, source records, pending-result ownership, fitness-to-travel review and confirmed home-clinician handoff.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -207,13 +209,15 @@ The receiving clinician confirms that the records are readable, identity and med
 ## SEO Metadata
 
 - **Slug:** `discharge-coordination-and-overseas-follow-up-from-a-chinese-hospital`
-- **Meta title:** Discharge and Overseas Follow-Up from a Chinese Hospital
-- **Meta description:** Close a China hospital discharge safely with medication reconciliation, source records, pending-result ownership, fitness-to-travel review and confirmed home-clinician handoff.
 - **Primary keyword:** discharge from a Chinese hospital for international patients
 - **Pillar keyword:** overseas follow-up after treatment in China
 - **Vertical keyword:** cross-border medical discharge coordination
 - **Search intent:** discharge and follow-up planning
 - **Secondary keywords:** China hospital discharge; follow-up after treatment in China; fitness to fly after surgery China; Chinese medical records; cross-border patient handoff
+
+
+- **Meta title:** Hospital Discharge in China: Planning Overseas Follow-Up
+- **Meta description:** Close a China hospital discharge safely with medication reconciliation, source records, pending-result ownership, fitness-to-travel review and confirmed home-clinician handoff.
 
 ## Sources
 

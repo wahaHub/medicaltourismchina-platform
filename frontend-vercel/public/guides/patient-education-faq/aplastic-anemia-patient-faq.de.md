@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Zwanzig Patientenfragen zu aplastischer Anämie, Behandlung und Versorgung in China
 - **Category:** Patientenaufklärung & FAQ
 - **Subcategory:** Aplastische Anämie
-- **Subtitle:** Menschen mit derselben Diagnose aplastische Anämie können sich in sehr unterschiedlichen Versorgungsphasen befinden.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Zwanzig Patientenfragen zu aplastischer Anämie, Behandlung und Versorgung in China
+- **Subtitle:** 20 Fragen zur aplastischen Anämie und Versorgung in China: Schweregrad, Knochenmarktests, PNH, Medikamente, Transplantation und weitere Betreuung verständlich klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Fieber mit erheblichem Krankheitsgefühl, schwere neue Blutung, Atembeschwerden,
 ## SEO Metadata
 
 - **Primary keyword:** Patientenfragen zur aplastischen Anämie
+
+- **Meta title:** Zwanzig Patientenfragen zu aplastischer Anämie, Behandlung und Versorgung in China
+- **Meta description:** 20 Fragen zur aplastischen Anämie und Versorgung in China: Schweregrad, Knochenmarktests, PNH, Medikamente, Transplantation und weitere Betreuung verständlich klären.

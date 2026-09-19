@@ -1,15 +1,17 @@
-# 086 Pembuatan dan Mutu Terapi Sel: Mengapa Ini Penting
+# Terapi Sel di Tiongkok: Pembuatan dan Pemeriksaan Mutu
 
 ## Hero
 
-- **Title:** Pembuatan dan Mutu Terapi Sel: Mengapa Ini Penting
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Kedokteran Sel, Gen & Regeneratif
-- **Subtitle:** Ikuti produk sel dari pengambilan dan pengendalian identitas melalui pembuatan, pelulusan, pengangkutan, dan pemberian di sisi pasien—serta pahami apa yang terjadi ketika suatu bets gagal.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustrasi editorial sel yang bergerak melalui vial produk dan pemeriksaan keselamatan menuju pasien; gambaran alur umum, bukan catatan pembuatan atau sertifikat pelulusan yang sebenarnya.
+
+
+- **Title:** Terapi Sel di Tiongkok: Pembuatan dan Pemeriksaan Mutu
+- **Subtitle:** Pahami pengambilan sel, rantai identitas, pengendalian pembuatan, uji pelulusan, potensi, bets OOS, komparabilitas, pengiriman, dan penanganan di sisi pasien.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -175,11 +177,13 @@ Ya. Protokol harus menetapkan pemberitahuan segera, penilaian klinis, identifika
 ## SEO Metadata
 
 - **Slug:** `cell-therapy-manufacturing-and-quality-why-it-matters`
-- **Meta title:** Pembuatan, Pelulusan, dan Mutu Terapi Sel
-- **Meta description:** Pahami pengambilan sel, rantai identitas, pengendalian pembuatan, uji pelulusan, potensi, bets OOS, komparabilitas, pengiriman, dan penanganan di sisi pasien.
 - **Primary keyword:** mutu pembuatan terapi sel
 - **Secondary keywords:** pelulusan bets terapi sel; kegagalan pembuatan CAR-T; potensi terapi sel; rantai identitas; komparabilitas terapi sel
 - **Search intent:** uji tuntas pembuatan / mutu produk sel
+
+
+- **Meta title:** Terapi Sel di Tiongkok: Pembuatan dan Pemeriksaan Mutu
+- **Meta description:** Pahami pengambilan sel, rantai identitas, pengendalian pembuatan, uji pelulusan, potensi, bets OOS, komparabilitas, pengiriman, dan penanganan di sisi pasien.
 
 ## Sumber
 

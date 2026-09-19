@@ -1,12 +1,14 @@
-# Medikamente bei pharmakoresistenter Epilepsie: ein Schema auswählen, neuere Wirkstoffe prüfen und Kontrollen planen
+# Medikamente bei pharmakoresistenter Epilepsie in China: Zugang und Überwachung
 
 ## Hero
 
-- **Title:** Medikamente bei pharmakoresistenter Epilepsie: ein Schema auswählen, neuere Wirkstoffe prüfen und Kontrollen planen
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Pharmakoresistente Epilepsie
-- **Subtitle:** Wenn mehrere Medikamente die Anfälle nicht kontrolliert haben, ist die Frage nach einem stärkeren oder neueren Medikament verständlich.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medikamente bei pharmakoresistenter Epilepsie in China: Zugang und Überwachung
+- **Subtitle:** Medikamente bei pharmakoresistenter Epilepsie in China prüfen: bisherige Versuche, Anfallsarten, Dosiseinstellung, Wachheit und notwendige Sicherheitskontrollen klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,3 +152,6 @@ Nachhaltige Verbesserung erfordert mehr, als einen Zielwert auf dem Verordnungsp
 
 - **Primary keyword:** Medikamente bei pharmakoresistenter Epilepsie; anfallssuppressive medikamentöse Behandlung; Cenobamat in China; Epilepsie-Kombinationsbehandlung
 
+
+- **Meta title:** Medikamente bei pharmakoresistenter Epilepsie in China: Zugang und Überwachung
+- **Meta description:** Medikamente bei pharmakoresistenter Epilepsie in China prüfen: bisherige Versuche, Anfallsarten, Dosiseinstellung, Wachheit und notwendige Sicherheitskontrollen klären.

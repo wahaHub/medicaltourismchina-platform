@@ -1,12 +1,14 @@
-# Comparing thalassemia treatments: blood support, anemia medicines, transplantation, and gene therapy
+# Thalassemia Treatment Options: Suitability and Access in China
 
 ## Hero
 
-- **Title:** Comparing thalassemia treatments: blood support, anemia medicines, transplantation, and gene therapy
 - **Category:** Treatment Guides
 - **Subcategory:** Thalassemia
-- **Subtitle:** Thalassemia treatments are often placed in the same comparison even when they address different problems.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Thalassemia Treatment Options: Suitability and Access in China
+- **Subtitle:** Compare thalassemia blood support, medicines, transplantation and gene therapy evidence, with separate checks for suitability and access in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -129,3 +131,6 @@ Bring a one-page comparison to the review: whether current care is optimized, th
 ## SEO Metadata
 
 - **Primary keyword:** thalassemia treatment comparison; transplantation versus medicines; luspatercept; mitapivat; gene therapy decisions
+
+- **Meta title:** Thalassemia Treatment Options: Suitability and Access in China
+- **Meta description:** Compare thalassemia blood support, medicines, transplantation and gene therapy evidence, with separate checks for suitability and access in China.

@@ -1,12 +1,14 @@
-# Pemeriksaan untuk dugaan sklerosis multipel: persiapan MRI, pemeriksaan cairan serebrospinal, dan peninjauan spesialis
+# Penilaian Sklerosis Multipel di Tiongkok: MRI dan Pemeriksaan Lain
 
 ## Hero
 
-- **Title:** Pemeriksaan untuk dugaan sklerosis multipel: persiapan MRI, pemeriksaan cairan serebrospinal, dan peninjauan spesialis
 - **Category:** Edukasi Pasien & FAQ
 - **Subcategory:** Sklerosis Multipel
-- **Subtitle:** Penilaian MS dirancang untuk menjelaskan masalah neurologis, bukan sekadar menyelesaikan paket pemeriksaan standar.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Penilaian Sklerosis Multipel di Tiongkok: MRI dan Pemeriksaan Lain
+- **Subtitle:** Pahami tujuan MRI, pemeriksaan cairan serebrospinal, dan penilaian penglihatan pada dugaan sklerosis multipel sebelum konsultasi di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Untuk biaya, mintalah daftar pemeriksaan yang dianggap perlu saat ini dan yang b
 ## SEO Metadata
 
 - **Primary keyword:** pemeriksaan diagnosis sklerosis multipel di Tiongkok
+
+- **Meta title:** Penilaian Sklerosis Multipel di Tiongkok: MRI dan Pemeriksaan Lain
+- **Meta description:** Pahami tujuan MRI, pemeriksaan cairan serebrospinal, dan penilaian penglihatan pada dugaan sklerosis multipel sebelum konsultasi di Tiongkok.

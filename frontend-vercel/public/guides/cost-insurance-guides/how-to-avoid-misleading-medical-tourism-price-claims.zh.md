@@ -1,15 +1,17 @@
-# 给医疗旅游价格宣传做“解剖”：付款前把每句话变成证据
+# 中国医疗旅游价格：如何核实费用宣传
 
 ## Hero
 
-- **Title:** 给医疗旅游价格宣传做“解剖”：付款前把每句话变成证据
 - **Category:** 费用与保险指南
 - **Subcategory:** 财务风险与保护
-- **Subtitle:** 拆解“低至”“节省”“全包”“无隐藏费用”和结果挂钩的价格话术，再决定是否为赴华治疗付款。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** 计划就医的旅客对照价格问号、治疗、交通、保障和清单核验医疗宣传
+
+
+- **Title:** 中国医疗旅游价格：如何核实费用宣传
+- **Subtitle:** 付款前拆解“低至”“节省 70%”“全包”、成功率和快速恢复宣传，并向实际治疗医院重建报价。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -200,13 +202,15 @@ CDC 的医疗旅游指南特别提醒旅行者确认套餐包含项，因为随�
 ## SEO Metadata
 
 - **Slug:** `how-to-avoid-misleading-medical-tourism-price-claims`
-- **Meta title:** 怎样核验误导性的医疗旅游价格宣传
-- **Meta description:** 付款前拆解“低至”“节省 70%”“全包”、成功率和快速恢复宣传，并向实际治疗医院重建报价。
 - **Primary keyword:** 误导性医疗旅游价格宣传
 - **Pillar keyword:** 中国医疗费用
 - **Vertical keyword:** 核验医疗旅游套餐价格
 - **Search intent:** 防骗核验 / 费用比较
 - **Secondary keywords:** 医疗旅游隐藏费用；全包医疗套餐；治疗价格广告；医疗旅行费用比较；医院报价核验
+
+
+- **Meta title:** 中国医疗旅游价格：如何核实费用宣传
+- **Meta description:** 付款前拆解“低至”“节省 70%”“全包”、成功率和快速恢复宣传，并向实际治疗医院重建报价。
 
 ## Sources
 

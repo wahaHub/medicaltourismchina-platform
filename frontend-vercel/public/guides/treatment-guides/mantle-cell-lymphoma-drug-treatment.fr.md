@@ -1,12 +1,14 @@
-# Médicaments du lymphome à cellules du manteau : indications chinoises, inhibiteurs de BTK et nouvelles options thérapeutiques
+# Médicaments du lymphome du manteau en Chine : accès et surveillance
 
 ## Hero
 
-- **Title:** Médicaments du lymphome à cellules du manteau : indications chinoises, inhibiteurs de BTK et nouvelles options thérapeutiques
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome à cellules du manteau
-- **Subtitle:** Recherches associées : médicaments ciblés du LCM ; pirtobrutinib ; sonrotoclax ; médicaments du LCM en Chine
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Médicaments du lymphome du manteau en Chine : accès et surveillance
+- **Subtitle:** Comprenez les rôles des médicaments du lymphome du manteau, les différences entre inhibiteurs de BTK et les vérifications d’accès et de suivi en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Un plan de prescription utilisable explique ce que vous prenez, pourquoi, quand 
 ## SEO Metadata
 
 - **Primary keyword:** médicaments du lymphome à cellules du manteau
+
+- **Meta title:** Médicaments du lymphome du manteau en Chine : accès et surveillance
+- **Meta description:** Comprenez les rôles des médicaments du lymphome du manteau, les différences entre inhibiteurs de BTK et les vérifications d’accès et de suivi en Chine.

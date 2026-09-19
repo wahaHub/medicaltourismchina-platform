@@ -1,12 +1,14 @@
-# Obat penyakit Parkinson: levodopa, pengobatan tambahan, dan pemberian berkelanjutan
+# Obat Parkinson di Tiongkok: Levodopa dan Pilihan Lain
 
 ## Hero
 
-- **Title:** Obat penyakit Parkinson: levodopa, pengobatan tambahan, dan pemberian berkelanjutan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Parkinson
-- **Subtitle:** Daftar resep yang semakin panjang tidak selalu berarti penyakit Parkinson sudah tidak terkendali.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat Parkinson di Tiongkok: Levodopa dan Pilihan Lain
+- **Subtitle:** Pahami levodopa, formulasi, dan obat tambahan Parkinson di Tiongkok. Siapkan pertanyaan manfaat, efek perilaku, kewaspadaan, dan pemantauan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Susun anggaran jangka panjang berdasarkan penggunaan yang diperkirakan, tinjauan
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan obat penyakit Parkinson
+
+- **Meta title:** Obat Parkinson di Tiongkok: Levodopa dan Pilihan Lain
+- **Meta description:** Pahami levodopa, formulasi, dan obat tambahan Parkinson di Tiongkok. Siapkan pertanyaan manfaat, efek perilaku, kewaspadaan, dan pemantauan.

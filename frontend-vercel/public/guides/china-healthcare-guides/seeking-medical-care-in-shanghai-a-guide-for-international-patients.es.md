@@ -1,15 +1,17 @@
-# 022 Buscar atención médica en Shanghái: guía para pacientes internacionales
+# Atención médica en China: guía del paciente en Shanghái
 
 ## Hero
 
-- **Title:** Buscar atención médica en Shanghái: guía para pacientes internacionales
 - **Category:** Guías de atención sanitaria en China
 - **Subcategory:** Elegir un destino de atención
-- **Subtitle:** Elija la vía de atención adecuada, haga que su identidad del pasaporte funcione en todas las citas y planifique las partes de la atención en Shanghái que ocurren fuera del consultorio.
 - **Reviewed by:** Equipo editorial de Medora Health; se requiere revisión de orientación clínica y seguros de Shanghái antes de publicar
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un visitante internacional habla con un médico junto a una maleta y una vista del perfil urbano de Shanghái
+
+
+- **Title:** Atención médica en China: guía del paciente en Shanghái
+- **Subtitle:** Elija una vía de atención en Shanghái, reserve con pasaporte, use Suishenban con seguridad, confirme el seguro y prepare pruebas, registros y emergencias al 120.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -202,13 +204,15 @@ No. Llame al 120 para una emergencia médica. Shanghái 12345 gestiona consultas
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-shanghai-a-guide-for-international-patients`
-- **Meta title:** Atención médica en Shanghái para pacientes internacionales
-- **Meta description:** Elija una vía de atención en Shanghái, reserve con pasaporte, use Suishenban con seguridad, confirme el seguro y prepare pruebas, registros y emergencias al 120.
 - **Primary keyword:** atención médica en Shanghái para pacientes internacionales
 - **Pillar keyword:** atención sanitaria en China para pacientes internacionales
 - **Vertical keyword:** hospitales de Shanghái para pacientes extranjeros
 - **Search intent:** orientación asistencial / planificación de citas
 - **Secondary keywords:** servicios médicos internacionales Shanghái; cita hospitalaria Suishenban; pasaporte extranjero hospital Shanghái; emergencia médica Shanghái 120
+
+
+- **Meta title:** Atención médica en China: guía del paciente en Shanghái
+- **Meta description:** Elija una vía de atención en Shanghái, reserve con pasaporte, use Suishenban con seguridad, confirme el seguro y prepare pruebas, registros y emergencias al 120.
 
 ## Fuentes
 

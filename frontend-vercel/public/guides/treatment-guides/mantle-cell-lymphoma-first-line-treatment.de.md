@@ -1,12 +1,14 @@
-# Erstlinienbehandlung beim Mantelzelllymphom wählen: Fragen vor dem ersten Zyklus
+# Erstlinientherapie beim Mantelzelllymphom in China
 
 ## Hero
 
-- **Title:** Erstlinienbehandlung beim Mantelzelllymphom wählen: Fragen vor dem ersten Zyklus
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Mantelzelllymphom
-- **Subtitle:** Verwandte Suchanfragen: Behandlung bei neu diagnostiziertem MCL; Mantelzelllymphom-Behandlung in China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Erstlinientherapie beim Mantelzelllymphom in China
+- **Subtitle:** Erstlinientherapie beim Mantelzelllymphom in China planen: Behandlungsanlass, Risikobiologie, Belastbarkeit, Erhaltung und Sicherheit des ersten Zyklus prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -121,3 +123,6 @@ Versuchen Sie vor dem Ende des Planungstermins, den Ablauf in eigenen Worten zu 
 ## SEO Metadata
 
 - **Primary keyword:** Erstlinienbehandlung beim Mantelzelllymphom
+
+- **Meta title:** Erstlinientherapie beim Mantelzelllymphom in China
+- **Meta description:** Erstlinientherapie beim Mantelzelllymphom in China planen: Behandlungsanlass, Risikobiologie, Belastbarkeit, Erhaltung und Sicherheit des ersten Zyklus prüfen.

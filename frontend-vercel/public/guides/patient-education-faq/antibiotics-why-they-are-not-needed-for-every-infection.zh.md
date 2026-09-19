@@ -1,15 +1,17 @@
-# 抗菌药不是判断感染“重不重”的尺子
+# 在中国就医如何判断抗生素需求：向医生提问的要点
 
 ## Hero
 
-- **Title:** 抗菌药不是判断感染“重不重”的尺子
 - **Category:** 患者教育与常见问题
 - **Subcategory:** 药物
-- **Subtitle:** 从病原、感染部位和患者风险出发，理解何时应立即用药、何时观察更安全，以及为什么培养、感染源控制和复评时间缺一不可。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** 医生与患者对照用药判断单讨论是否需要抗菌药，桌旁放有标识清楚的药盒
+
+
+- **Title:** 在中国就医如何判断抗生素需求：向医生提问的要点
+- **Subtitle:** 发热或黄绿色鼻涕为何不能确认细菌感染？本文说明何时应紧急用抗菌药，以及培养、复评时间和感染源控制如何决定治疗。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -155,11 +157,13 @@ NICE抗菌药物管理指南建议，住院疑似感染患者应在治疗前采�
 
 ## SEO Metadata
 
-- **SEO title:** 什么情况下需要抗生素？患者判断与复评指南
-- **Meta description:** 发热或黄绿色鼻涕为何不能确认细菌感染？本文说明何时应紧急用抗菌药，以及培养、复评时间和感染源控制如何决定治疗。
 - **Primary keyword:** 什么情况下需要抗生素
 - **Secondary keywords:** 病毒感染抗生素, 抗菌药耐药, 培养指导用药, 广谱与窄谱抗生素, 抗生素副作用, 抗菌药物管理
 - **Suggested URL slug:** `/zh-cn/when-antibiotics-are-needed-infection-guide`
+
+
+- **Meta title:** 在中国就医如何判断抗生素需求：向医生提问的要点
+- **Meta description:** 发热或黄绿色鼻涕为何不能确认细菌感染？本文说明何时应紧急用抗菌药，以及培养、复评时间和感染源控制如何决定治疗。
 
 ## Sources
 

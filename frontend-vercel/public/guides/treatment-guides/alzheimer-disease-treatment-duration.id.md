@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Berapa Lama Pengobatan Alzheimer Berlangsung? Evaluasi, Terapi Antibodi, dan Perencanaan Perawatan di Tiongkok
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Alzheimer
-- **Subtitle:** Penyakit Alzheimer umumnya memerlukan penanganan berkelanjutan, tetapi itu tidak berarti setiap obat diresepkan tanpa batas waktu.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Berapa Lama Pengobatan Alzheimer Berlangsung? Evaluasi, Terapi Antibodi, dan Perencanaan Perawatan di Tiongkok
+- **Subtitle:** Pahami durasi obat gejala dan terapi antibodi Alzheimer serta jadwal evaluasi. Rencanakan kunjungan di Tiongkok sebagai bagian perawatan berkelanjutan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Dukungan sehari-hari berubah sesuai stadium penyakit. Pengingat, langkah keselam
 ## SEO Metadata
 
 - **Primary keyword:** durasi pengobatan Alzheimer
+
+- **Meta title:** Berapa Lama Pengobatan Alzheimer Berlangsung? Evaluasi, Terapi Antibodi, dan Perencanaan Perawatan di Tiongkok
+- **Meta description:** Pahami durasi obat gejala dan terapi antibodi Alzheimer serta jadwal evaluasi. Rencanakan kunjungan di Tiongkok sebagai bagian perawatan berkelanjutan.

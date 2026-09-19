@@ -1,12 +1,14 @@
-# Versorgungsbeginn nach einer Thalassämie-Diagnose: Planung der ersten Behandlungsphase
+# Beginn der Thalassämieversorgung in China: Der erste Behandlungsplan
 
 ## Hero
 
-- **Title:** Versorgungsbeginn nach einer Thalassämie-Diagnose: Planung der ersten Behandlungsphase
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Thalassämie
-- **Subtitle:** Nach einer neuen Thalassämie-Diagnose wünschen sich Familien oft eine Entscheidung, die alle Sorgen ausräumt.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Beginn der Thalassämieversorgung in China: Der erste Behandlungsplan
+- **Subtitle:** Den ersten Thalassämieplan in China erstellen: Diagnose, Transfusionsbedarf, Eisenbelastung, Wachstum und Organgesundheit als individuelle Versorgungsaufgaben klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Das Dokument kann kurz sein. Es sollte den koordinierenden Arzt, die aktuelle kl
 ## SEO Metadata
 
 - **Primary keyword:** neu diagnostizierte Thalassämie; Erstbehandlung; pädiatrische Thalassämie-Versorgung; Beginn von Transfusionen; Beginn der Chelattherapie
+
+- **Meta title:** Beginn der Thalassämieversorgung in China: Der erste Behandlungsplan
+- **Meta description:** Den ersten Thalassämieplan in China erstellen: Diagnose, Transfusionsbedarf, Eisenbelastung, Wachstum und Organgesundheit als individuelle Versorgungsaufgaben klären.

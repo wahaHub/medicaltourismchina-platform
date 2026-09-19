@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Medical Records for an MDS Consultation in China: Marrow Reports, Genetics, Transfusions and Treatment History
 - **Category:** Patient Journey Guides
 - **Subcategory:** Myelodysplastic Syndrome
-- **Subtitle:** A diagnosis certificate and the latest blood count tell a receiving doctor that you have MDS.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medical Records for an MDS Consultation in China: Marrow Reports, Genetics, Transfusions and Treatment History
+- **Subtitle:** Prepare MDS records for China, including marrow reports, genetics, blood trends, transfusions and a dated treatment history with original documents.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ This checklist concerns existing records. The receiving clinician should decide 
 ## SEO Metadata
 
 - **Primary keyword:** medical records for myelodysplastic syndrome consultation
+
+- **Meta title:** Medical Records for an MDS Consultation in China: Marrow Reports, Genetics, Transfusions and Treatment History
+- **Meta description:** Prepare MDS records for China, including marrow reports, genetics, blood trends, transfusions and a dated treatment history with original documents.

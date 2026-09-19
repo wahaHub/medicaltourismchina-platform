@@ -1,12 +1,14 @@
-# Operationen bei Sichelzellkrankheit: Eingriffe an Gallenblase, Milz und Gelenken sowie perioperative Planung
+# Operationen bei Sichelzellkrankheit in China: Perioperative Versorgung
 
 ## Hero
 
-- **Title:** Operationen bei Sichelzellkrankheit: Eingriffe an Gallenblase, Milz und Gelenken sowie perioperative Planung
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Sichelzellkrankheit
-- **Subtitle:** Menschen mit Sichelzellkrankheit befürchten häufig, dass eine Operation oder Narkose eine Krise auslösen könnte.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Operationen bei Sichelzellkrankheit in China: Perioperative Versorgung
+- **Subtitle:** Operationen bei Sichelzellkrankheit in China planen: Anlass, frühere Krisen, individuelle Transfusionsentscheidung, Anästhesie, Erholung und Entlassung abstimmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ Ein umsetzbarer Plan befähigt den Patienten zu erklären, warum die Operation j
 ## SEO Metadata
 
 - **Primary keyword:** Operationsvorbereitung bei Sichelzellkrankheit
+
+- **Meta title:** Operationen bei Sichelzellkrankheit in China: Perioperative Versorgung
+- **Meta description:** Operationen bei Sichelzellkrankheit in China planen: Anlass, frühere Krisen, individuelle Transfusionsentscheidung, Anästhesie, Erholung und Entlassung abstimmen.

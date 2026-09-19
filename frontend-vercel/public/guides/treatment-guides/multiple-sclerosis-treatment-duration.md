@@ -1,12 +1,14 @@
-# How long does multiple sclerosis treatment last? Dosing schedules, review and stopping decisions
+# MS Treatment in China: Dosing, Review and Long-Term Planning
 
 ## Hero
 
-- **Title:** How long does multiple sclerosis treatment last? Dosing schedules, review and stopping decisions
 - **Category:** Treatment Guides
 - **Subcategory:** Multiple Sclerosis
-- **Subtitle:** The length of a visit to China and the duration of MS treatment are different questions.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** MS Treatment in China: Dosing, Review and Long-Term Planning
+- **Subtitle:** Understand MS dosing and review schedules, continuing treatment and stopping decisions, with a workable plan for care in China and at home.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ A lengthy treatment relationship need not make every day revolve around appointm
 ## SEO Metadata
 
 - **Primary keyword:** multiple sclerosis treatment duration
+
+- **Meta title:** MS Treatment in China: Dosing, Review and Long-Term Planning
+- **Meta description:** Understand MS dosing and review schedules, continuing treatment and stopping decisions, with a workable plan for care in China and at home.

@@ -1,15 +1,17 @@
-# 142 Recuperarse en un hotel después del tratamiento: haga que la habitación supere una prueba de uso clínico
+# Recuperación en hotel tras tratamiento en China | Prueba de seguridad de la habitación
 
 ## Hero
 
-- **Title:** Recuperarse en un hotel después del tratamiento: haga que la habitación supere una prueba de uso clínico
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Alojamiento temporal y recuperación ambulatoria
-- **Subtitle:** Un hotel proporciona una habitación, no cuidados de enfermería. Evalúe al paciente, al cuidador, el espacio, el equipo y la vía de emergencia antes de utilizarlo como base de recuperación.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un paciente y su acompañante planifican las fechas de recuperación en una habitación de hotel, con equipaje y un símbolo de hospital cercano.
+
+
+- **Title:** Recuperación en hotel tras tratamiento en China | Prueba de seguridad de la habitación
+- **Subtitle:** Un hotel proporciona una habitación, no cuidados de enfermería. Evalúe al paciente, al cuidador, el espacio, el equipo y la vía de emergencia antes de utilizarlo como base de recuperación.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -183,13 +185,15 @@ Prepare el nombre del hotel en chino y la dirección completa, la torre, la plan
 ## SEO Metadata
 
 - **Slug:** `recovering-in-a-hotel-after-medical-treatment`
-- **Meta title:** Recuperación en hotel tras tratamiento en China | Prueba de seguridad de la habitación
-- **Meta description:** Evalúe la idoneidad del hotel, el acceso a la habitación, la cobertura del cuidador, el almacenamiento de medicamentos, los dispositivos y la ruta de emergencia tras tratamiento ambulatorio en China.
 - **Primary keyword:** recuperación en hotel después de cirugía en China
 - **Pillar keyword:** viajes médicos a China
 - **Vertical keyword:** recuperarse en un hotel después del tratamiento
 - **Search intent:** alojamiento de recuperación / planificación de seguridad
 - **Secondary keywords:** hotel cerca de un hospital en China; recuperación en hotel tras cirugía ambulatoria; cuidador después de anestesia; equipo médico en hotel; dirección del hotel para emergencias 120
+
+
+- **Meta title:** Recuperación en hotel tras tratamiento en China | Prueba de seguridad de la habitación
+- **Meta description:** Evalúe la idoneidad del hotel, el acceso a la habitación, la cobertura del cuidador, el almacenamiento de medicamentos, los dispositivos y la ruta de emergencia tras tratamiento ambulatorio en China.
 
 ## Fuentes
 

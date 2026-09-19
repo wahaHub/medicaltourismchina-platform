@@ -1,15 +1,17 @@
-# 103 Memilih Rumah Sakit di Guangzhou: Spesialisasi, Akses, dan Perjalanan
+# Memilih Rumah Sakit di Tiongkok: Panduan Kampus di Guangzhou
 
 ## Hero
 
-- **Title:** Memilih Rumah Sakit di Guangzhou: Spesialisasi, Akses, dan Perjalanan
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Perencanaan Perawatan Guangzhou
-- **Subtitle:** Sesuaikan kasus dengan tim terverifikasi, lalu uji apakah kampus, identitas pemesanan, rute Greater Bay Area, dan rencana pemulihan benar-benar terhubung.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustrasi konseptual pelancong internasional membandingkan rumah sakit Guangzhou dengan peta dan kalender; cakrawala kota dan rumah sakit bukan pasangan kampus nyata.
+
+
+- **Title:** Memilih Rumah Sakit di Tiongkok: Panduan Kampus di Guangzhou
+- **Subtitle:** Pilih rumah sakit Guangzhou berdasarkan tim terverifikasi, kampus, akses paspor, dukungan darurat, rute bandara Baiyun atau kereta, risiko lintas batas, dan serah terima pemulangan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -261,13 +263,15 @@ Tidak. Pastikan dokumen klinis mana yang dwibahasa, siapa yang menerjemahkan, ka
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-guangzhou-specialties-access-and-travel`
-- **Meta title:** Memilih Rumah Sakit di Guangzhou: Kampus dan Perjalanan
-- **Meta description:** Pilih rumah sakit Guangzhou berdasarkan tim terverifikasi, kampus, akses paspor, dukungan darurat, rute bandara Baiyun atau kereta, risiko lintas batas, dan serah terima pemulangan.
 - **Primary keyword:** memilih rumah sakit di Guangzhou
 - **Pillar keyword:** rumah sakit Guangzhou untuk pasien internasional
 - **Vertical keyword:** spesialisasi akses perjalanan rumah sakit Guangzhou
 - **Search intent:** perbandingan rumah sakit / perjalanan medis Greater Bay Area
 - **Secondary keywords:** pasien asing Guangzhou Health Link; kampus rumah sakit Guangzhou; perjalanan rumah sakit Bandara Baiyun; Guangzhou 120 bahasa Inggris; layanan medis internasional Guangzhou
+
+
+- **Meta title:** Memilih Rumah Sakit di Tiongkok: Panduan Kampus di Guangzhou
+- **Meta description:** Pilih rumah sakit Guangzhou berdasarkan tim terverifikasi, kampus, akses paspor, dukungan darurat, rute bandara Baiyun atau kereta, risiko lintas batas, dan serah terima pemulangan.
 
 ## Sumber
 

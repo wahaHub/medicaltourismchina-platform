@@ -1,12 +1,14 @@
-# Ergebnisse und Prognose bei Parkinson: Selbstständigkeit, langfristige Risiken und vorausschauende Planung
+# Parkinson-Prognose: Fortlaufende Versorgung in China planen
 
 ## Hero
 
-- **Title:** Ergebnisse und Prognose bei Parkinson: Selbstständigkeit, langfristige Risiken und vorausschauende Planung
 - **Category:** Patienteninformation & häufige Fragen
 - **Subcategory:** Parkinson-Krankheit
-- **Subtitle:** „Wie lange bleibe ich selbstständig?“ trifft die Sorge eines Patienten oft besser als die Zahl gewonnener Punkte auf einer Bewegungsskala.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Parkinson-Prognose: Fortlaufende Versorgung in China planen
+- **Subtitle:** Parkinson-Prognose für die Versorgung in China besprechen: Symptomlinderung, Alltagsfunktion, Schlucken, Stürze und langfristigen Unterstützungsbedarf einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -122,3 +124,6 @@ Ein am Wohnort fortführbarer Plan mit zugewiesener Verantwortung und Änderungs
 ## SEO Metadata
 
 - **Primary keyword:** Parkinson-Krankheit Prognose
+
+- **Meta title:** Parkinson-Prognose: Fortlaufende Versorgung in China planen
+- **Meta description:** Parkinson-Prognose für die Versorgung in China besprechen: Symptomlinderung, Alltagsfunktion, Schlucken, Stürze und langfristigen Unterstützungsbedarf einordnen.

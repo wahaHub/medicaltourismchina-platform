@@ -1,12 +1,14 @@
-# Do I need radiation after Hodgkin lymphoma chemotherapy? From PET results to a treatment plan
+# Hodgkin Lymphoma Radiotherapy in China: When Is It Needed?
 
 ## Hero
 
-- **Title:** Do I need radiation after Hodgkin lymphoma chemotherapy? From PET results to a treatment plan
 - **Category:** Treatment Guides
 - **Subcategory:** Hodgkin Lymphoma
-- **Subtitle:** A favorable PET result after chemotherapy does not always mean that radiation has become unnecessary.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Hodgkin Lymphoma Radiotherapy in China: When Is It Needed?
+- **Subtitle:** Discuss whether radiotherapy is needed after Hodgkin lymphoma chemotherapy, using PET findings, treatment goals and practical planning in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ The decision to use or omit radiation should leave a clear record: the disease f
 ## SEO Metadata
 
 - **Primary keyword:** radiation after Hodgkin lymphoma chemotherapy
+
+- **Meta title:** Hodgkin Lymphoma Radiotherapy in China: When Is It Needed?
+- **Meta description:** Discuss whether radiotherapy is needed after Hodgkin lymphoma chemotherapy, using PET findings, treatment goals and practical planning in China.

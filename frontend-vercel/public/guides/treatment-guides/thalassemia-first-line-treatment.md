@@ -1,12 +1,14 @@
-# Starting care after a thalassemia diagnosis: planning the first stage of treatment
+# Starting Thalassemia Care in China: The First Treatment Plan
 
 ## Hero
 
-- **Title:** Starting care after a thalassemia diagnosis: planning the first stage of treatment
 - **Category:** Treatment Guides
 - **Subcategory:** Thalassemia
-- **Subtitle:** After a new thalassemia diagnosis, families often want one decision that will resolve every concern.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Starting Thalassemia Care in China: The First Treatment Plan
+- **Subtitle:** Plan initial thalassemia care around the confirmed diagnosis, anemia, transfusion needs and monitoring, with practical preparation for care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ The document can be short. It should identify the coordinating clinician, curren
 ## SEO Metadata
 
 - **Primary keyword:** newly diagnosed thalassemia; initial treatment; pediatric thalassemia care; starting transfusions; starting chelation
+
+- **Meta title:** Starting Thalassemia Care in China: The First Treatment Plan
+- **Meta description:** Plan initial thalassemia care around the confirmed diagnosis, anemia, transfusion needs and monitoring, with practical preparation for care in China.

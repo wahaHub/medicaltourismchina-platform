@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Vingt questions de patients sur l’aplasie médullaire, son traitement et les soins en Chine
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Aplasie médullaire
-- **Subtitle:** Des personnes ayant le même diagnostic d’aplasie médullaire peuvent se trouver à des étapes très différentes des soins.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Vingt questions de patients sur l’aplasie médullaire, son traitement et les soins en Chine
+- **Subtitle:** Préparez vos soins d’aplasie médullaire en Chine avec 20 questions sur la gravité, le bilan de moelle, les traitements, la greffe et le suivi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Une fièvre avec un état nettement altéré, un nouveau saignement grave, une d
 ## SEO Metadata
 
 - **Primary keyword:** questions de patients sur l’aplasie médullaire
+
+- **Meta title:** Vingt questions de patients sur l’aplasie médullaire, son traitement et les soins en Chine
+- **Meta description:** Préparez vos soins d’aplasie médullaire en Chine avec 20 questions sur la gravité, le bilan de moelle, les traitements, la greffe et le suivi.

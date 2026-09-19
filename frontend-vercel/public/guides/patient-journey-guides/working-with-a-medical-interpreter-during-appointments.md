@@ -1,15 +1,17 @@
-# Medical Interpreters in Appointments: Keep the Conversation Between Patient and Clinician
+# Using a Medical Interpreter in China | Appointment Guide
 
 ## Hero
 
-- **Title:** Medical Interpreters in Appointments: Keep the Conversation Between Patient and Clinician
 - **Category:** Patient Journey Guides
 - **Subcategory:** Interpreted Consultations and Communication Safety
-- **Subtitle:** A good interpreted visit is not three separate conversations. The patient and clinician speak to each other while the interpreter carries every question, qualification, number and uncertainty across languages.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Editorial illustration of a patient and companion speaking with a clinician through a seated interpreter; roles are conceptual and do not identify a real hospital or individual.
+
+
+- **Title:** Using a Medical Interpreter in China | Appointment Guide
+- **Subtitle:** A good interpreted visit is not three separate conversations. The patient and clinician speak to each other while the interpreter carries every question, qualification, number and uncertainty across languages.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -175,13 +177,15 @@ It may help with simple directions or a non-critical phrase, but it cannot relia
 ## SEO Metadata
 
 - **Slug:** `working-with-a-medical-interpreter-during-appointments`
-- **Meta title:** Using a Medical Interpreter in China | Appointment Guide
-- **Meta description:** Run an interpreted medical appointment with clear roles, short turns, labelled speakers, double-checked medicines, teach-back and a written decision record.
 - **Primary keyword:** medical interpreter appointment China
 - **Pillar keyword:** medical travel to China
 - **Vertical keyword:** interpreted medical consultation
 - **Search intent:** appointment preparation / communication safety
 - **Secondary keywords:** healthcare interpreter China; medical interpretation appointment; interpreter teach-back; translated medical consent; international patient communication
+
+
+- **Meta title:** Using a Medical Interpreter in China | Appointment Guide
+- **Meta description:** Run an interpreted medical appointment with clear roles, short turns, labelled speakers, double-checked medicines, teach-back and a written decision record.
 
 ## Sources
 

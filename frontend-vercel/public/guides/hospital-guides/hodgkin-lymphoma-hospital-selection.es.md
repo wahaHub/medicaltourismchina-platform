@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Elegir un hospital para el linfoma de Hodgkin en China: adecuar las necesidades de primera línea, radioterapia y recaída
 - **Category:** Guías de hospitales
 - **Subcategory:** Linfoma de Hodgkin
-- **Subtitle:** Elegir un hospital para el linfoma de Hodgkin en China empieza por el problema que se necesita resolver.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Elegir un hospital para el linfoma de Hodgkin en China: adecuar las necesidades de primera línea, radioterapia y recaída
+- **Subtitle:** Valore hospitales de China para el linfoma de Hodgkin según su revisión anatomopatológica, PET, radioterapia, atención de recaídas y continuidad asistencial.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -143,3 +145,6 @@ Una elección final puede comprobarse con preguntas concretas: ¿puede este equi
 ## SEO Metadata
 
 - **Primary keyword:** elegir un hospital para el linfoma de Hodgkin en China
+
+- **Meta title:** Elegir un hospital para el linfoma de Hodgkin en China: adecuar las necesidades de primera línea, radioterapia y recaída
+- **Meta description:** Valore hospitales de China para el linfoma de Hodgkin según su revisión anatomopatológica, PET, radioterapia, atención de recaídas y continuidad asistencial.

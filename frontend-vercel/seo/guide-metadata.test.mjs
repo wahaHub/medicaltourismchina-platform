@@ -85,6 +85,19 @@ describe('guide metadata', () => {
       expect(article.condition).toEqual(before);
     }
   });
+  it('retains authored SEO titles and descriptions for every imported article translation', () => {
+    const inventory = JSON.parse(fs.readFileSync(new URL('../content-imports/2026-09-09-new-305/inventory.json', import.meta.url), 'utf8'));
+    const missing = [];
+    for (const article of inventory.articles) {
+      for (const locale of ['en','zh','es','fr','de','ru','ar','id']) {
+        const file = path.join(root, article.category, `${article.slug}${locale === 'en' ? '' : '.' + locale}.md`);
+        const metadata = parseSeoMetadata(fs.readFileSync(file, 'utf8'));
+        if (!metadata.title || !metadata.description) missing.push(`${article.slug}:${locale}`);
+      }
+    }
+    expect(missing).toEqual([]);
+  });
+
   it('parses every published source without writing manifests or documents', () => {
     let count = 0;
     for (const category of fs.readdirSync(root, { withFileTypes: true })) {

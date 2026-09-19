@@ -1,15 +1,17 @@
-# Voyager pour des soins avec un diabète : maintenir le rythme du traitement
+# Voyage médical en Chine avec un diabète : médicaments et repas
 
 ## Hero
 
-- **Title:** Voyager pour des soins avec un diabète : maintenir le rythme du traitement
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Maladies chroniques et voyage
-- **Subtitle:** Un plan pratique pour les médicaments, la conservation de l’insuline, les changements de fuseau horaire, la surveillance glycémique, les repas inhabituels, le jeûne avant les interventions et les urgences en cas de maladie.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un voyageur et son accompagnant planifient les médicaments, la surveillance glycémique, les repas et les dates hospitalières à côté d’une trousse de matériel pour le diabète
+
+
+- **Title:** Voyage médical en Chine avec un diabète : médicaments et repas
+- **Subtitle:** Planifiez la conservation de l’insuline, les doses entre fuseaux, la surveillance glycémique, les repas, le jeûne avant les gestes, les pompes, les CGM et les urgences diabétiques en voyage médical.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -22,6 +24,9 @@
 - Confusion, convulsion, perte de connaissance, impossibilité d’avaler, vomissements persistants, cétones avec maladie, respiration laborieuse ou signes d’acidocétose diabétique nécessitent des soins locaux urgents.
 
 ## Content
+
+Pour une personne diabétique qui se rend en Chine pour des soins médicaux, l’itinéraire doit être compatible avec le plan de prise des médicaments, des repas et de surveillance. Avant le départ, discutez avec l’équipe prescriptrice des changements de fuseau horaire, des repas retardés, du jeûne avant les interventions et des réserves de secours.
+
 
 Le diabète ne rend pas le voyage médical impossible. Il rend en revanche un itinéraire vague dangereux. Une correspondance retardée peut reporter un repas ; un véhicule chaud peut endommager l’insuline ; une intervention peut prolonger le jeûne ; une infection et les corticoïdes peuvent augmenter la glycémie ; une marche inhabituelle peut la faire baisser. Le plan doit anticiper ces changements plutôt que tenter de les rattraper après une mesure hors cible.
 
@@ -144,11 +149,13 @@ Une hypoglycémie sévère avec confusion, convulsion, perte de connaissance ou 
 
 ## SEO Metadata
 
-- **SEO title:** Voyage médical avec un diabète : médicaments, repas et surveillance
-- **Meta description:** Planifiez la conservation de l’insuline, les doses entre fuseaux, la surveillance glycémique, les repas, le jeûne avant les gestes, les pompes, les CGM et les urgences diabétiques en voyage médical.
 - **Primary keyword:** voyage médical avec un diabète
 - **Secondary keywords:** voyager avec de l’insuline, médicaments diabète fuseau horaire, jeûne chirurgie diabète, pompe à insuline voyage aérien, CGM voyage médical, liste de préparation voyage diabète
 - **Suggested URL slug:** `/medical-travel-diabetes-plan`
+
+
+- **Meta title:** Voyage médical en Chine avec un diabète : médicaments et repas
+- **Meta description:** Planifiez la conservation de l’insuline, les doses entre fuseaux, la surveillance glycémique, les repas, le jeûne avant les gestes, les pompes, les CGM et les urgences diabétiques en voyage médical.
 
 ## Sources
 

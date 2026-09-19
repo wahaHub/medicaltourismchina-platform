@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Returning Home After Hodgkin Lymphoma Treatment in China: Follow-up That Continues Across Borders
 - **Category:** Patient Journey Guides
 - **Subcategory:** Hodgkin Lymphoma
-- **Subtitle:** Returning home after treatment for Hodgkin lymphoma in China can bring relief and uncertainty at the same time.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Returning Home After Hodgkin Lymphoma Treatment in China: Follow-up That Continues Across Borders
+- **Subtitle:** Arrange follow-up after Hodgkin lymphoma treatment in China with the treatment summary, surveillance plan, late-effect review and local care team.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ After each important visit, save the complete results and the next agreed action
 ## SEO Metadata
 
 - **Primary keyword:** Hodgkin lymphoma follow-up after treatment in China
+
+- **Meta title:** Returning Home After Hodgkin Lymphoma Treatment in China: Follow-up That Continues Across Borders
+- **Meta description:** Arrange follow-up after Hodgkin lymphoma treatment in China with the treatment summary, surveillance plan, late-effect review and local care team.

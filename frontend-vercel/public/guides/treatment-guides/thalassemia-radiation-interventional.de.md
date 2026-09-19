@@ -1,12 +1,14 @@
-# Warum bei Thalassämie manchmal Strahlentherapie eingesetzt wird: extramedulläre Hämatopoese und Rückenmarkkompression
+# Strahlentherapie bei Thalassämie in China: Komplikationen und Beurteilung
 
 ## Hero
 
-- **Title:** Warum bei Thalassämie manchmal Strahlentherapie eingesetzt wird: extramedulläre Hämatopoese und Rückenmarkkompression
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Thalassämie
-- **Subtitle:** Eine Überweisung zur Radioonkologie kann für jemanden mit gesicherter Thalassämiediagnose verwirrend sein.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Strahlentherapie bei Thalassämie in China: Komplikationen und Beurteilung
+- **Subtitle:** Strahlentherapie bei Thalassämie in China einordnen: Blutbildung außerhalb des Knochenmarks, mögliche Rückenmarkkompression und gezielte lokale Behandlung verstehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Klären Sie vor Entlassung, welche Symptome sofortige Hilfe erfordern, wo geplan
 ## SEO Metadata
 
 - **Primary keyword:** Strahlentherapie bei Thalassämie; extramedulläre Hämatopoese; Rückenmarkkompression; Behandlungsbeurteilung in China
+
+- **Meta title:** Strahlentherapie bei Thalassämie in China: Komplikationen und Beurteilung
+- **Meta description:** Strahlentherapie bei Thalassämie in China einordnen: Blutbildung außerhalb des Knochenmarks, mögliche Rückenmarkkompression und gezielte lokale Behandlung verstehen.

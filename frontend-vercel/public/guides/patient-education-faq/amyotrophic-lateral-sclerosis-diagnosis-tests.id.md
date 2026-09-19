@@ -1,12 +1,14 @@
-# Pemeriksaan untuk Dugaan ALS: Apa yang Dapat Ditetapkan oleh Pemeriksaan Fisik, EMG, Pencitraan, dan Genetika
+# Tinjauan Diagnosis ALS di Tiongkok: Pemeriksaan Fisik, EMG, dan Tes Lain
 
 ## Hero
 
-- **Title:** Pemeriksaan untuk Dugaan ALS: Apa yang Dapat Ditetapkan oleh Pemeriksaan Fisik, EMG, Pencitraan, dan Genetika
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Sklerosis Lateral Amiotrofik
-- **Subtitle:** Kelemahan tangan progresif, sering tersandung, atau perubahan bicara dapat mengarah pada penilaian untuk sklerosis lateral amiotrofik.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tinjauan Diagnosis ALS di Tiongkok: Pemeriksaan Fisik, EMG, dan Tes Lain
+- **Subtitle:** Pahami peran pemeriksaan saraf, EMG, pencitraan, dan tes genetik pada dugaan ALS. Siapkan riwayat perubahan gejala untuk tinjauan diagnosis di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ Pada akhir penilaian, pasien harus memahami diagnosis utama yang dipertimbangkan
 ## SEO Metadata
 
 - **Primary keyword:** pemeriksaan untuk mendiagnosis sklerosis lateral amiotrofik
+
+- **Meta title:** Tinjauan Diagnosis ALS di Tiongkok: Pemeriksaan Fisik, EMG, dan Tes Lain
+- **Meta description:** Pahami peran pemeriksaan saraf, EMG, pencitraan, dan tes genetik pada dugaan ALS. Siapkan riwayat perubahan gejala untuk tinjauan diagnosis di Tiongkok.

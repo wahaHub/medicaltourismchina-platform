@@ -1,15 +1,17 @@
-# 139 Nyeri Setelah Prosedur: Tetapkan Target Fungsi dan Batas Penanganan Penyelamat
+# Nyeri Setelah Prosedur di Tiongkok: Pertanyaan dan Tanda Bahaya
 
 ## Hero
 
-- **Title:** Nyeri Setelah Prosedur: Tetapkan Target Fungsi dan Batas Penanganan Penyelamat
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Nyeri Akut, Keselamatan Obat, dan Pemulihan Fungsi
-- **Subtitle:** Perawatan nyeri yang baik tidak mengejar angka nol pada skala. Perawatan ini mengidentifikasi pola nyeri, mendukung pernapasan dan gerak, membatasi bahaya pengobatan, dan menetapkan kapan rencana biasa tidak lagi cukup.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Gambaran konseptual dokter membahas rencana nyeri pascaoperasi bersama pasien dan pendamping; gambar tidak menunjukkan nyeri aktif, obat tertentu, atau hasil pemulihan yang diharapkan.
+
+
+- **Title:** Nyeri Setelah Prosedur di Tiongkok: Pertanyaan dan Tanda Bahaya
+- **Subtitle:** Susun rencana nyeri pascaoperasi berdasarkan pola nyeri, tujuan fungsi, pengobatan multimodal, aturan penyelamat, pemantauan sedasi, dan peralihan pulang yang aman.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -197,13 +199,15 @@ Ini bergantung pada obat serta aturan obat terkendali dan impor negara tujuan. M
 ## SEO Metadata
 
 - **Slug:** `pain-management-after-a-procedure-questions-to-ask`
-- **Meta title:** Nyeri Setelah Prosedur | Pertanyaan dan Pemeriksaan Keselamatan
-- **Meta description:** Susun rencana nyeri pascaoperasi berdasarkan pola nyeri, tujuan fungsi, pengobatan multimodal, aturan penyelamat, pemantauan sedasi, dan peralihan pulang yang aman.
 - **Primary keyword:** pengelolaan nyeri setelah prosedur Tiongkok
 - **Pillar keyword:** perjalanan medis ke Tiongkok
 - **Vertical keyword:** rencana nyeri pascaoperasi pasien internasional
 - **Search intent:** perencanaan pemulihan / keselamatan obat
 - **Secondary keywords:** nyeri pascaoperasi Tiongkok; analgesia multimodal; keselamatan PCA; keselamatan opioid setelah operasi; rencana penyelamat nyeri
+
+
+- **Meta title:** Nyeri Setelah Prosedur di Tiongkok: Pertanyaan dan Tanda Bahaya
+- **Meta description:** Susun rencana nyeri pascaoperasi berdasarkan pola nyeri, tujuan fungsi, pengobatan multimodal, aturan penyelamat, pemantauan sedasi, dan peralihan pulang yang aman.
 
 ## Sumber
 
@@ -213,4 +217,3 @@ Ini bergantung pada obat serta aturan obat terkendali dan impor negara tujuan. M
 4. [Pusat Pengendalian dan Pencegahan Penyakit AS — Pedoman Praktik Klinis Peresepan Opioid untuk Nyeri (2022)](https://www.cdc.gov/mmwr/volumes/71/rr/rr7103a1.htm)
 5. [Badan Pengawas Obat dan Makanan AS — Membahas Nalokson dengan Pasien yang Diresepkan Opioid](https://www.fda.gov/drugs/drug-safety-communications/fda-recommends-health-care-professionals-discuss-naloxone-all-patients-when-prescribing-opioid-pain)
 6. [Komisi Kesehatan Nasional — Rencana Aksi untuk Lebih Meningkatkan Layanan Keperawatan (2023–2025)](https://www.nhc.gov.cn/yzygj/c100068/202306/8fe28be0f8e241cb8444b4f242706495.shtml)
-

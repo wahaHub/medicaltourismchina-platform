@@ -1,15 +1,17 @@
-# Perjalanan Medis dengan Diabetes: Jaga Jadwal Pengobatan Tetap Berjalan
+# Perjalanan Medis ke Tiongkok dengan Diabetes: Obat dan Makanan
 
 ## Hero
 
-- **Title:** Perjalanan Medis dengan Diabetes: Jaga Jadwal Pengobatan Tetap Berjalan
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Kondisi Kronis & Perjalanan
-- **Subtitle:** Rencana praktis untuk obat, penyimpanan insulin, perubahan zona waktu, pemantauan glukosa, makanan yang belum dikenal, puasa untuk prosedur, dan keadaan darurat saat sakit.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Pelancong dan pendamping merencanakan obat, pemantauan glukosa, makanan, dan tanggal kunjungan rumah sakit di samping tas perlengkapan diabetes
+
+
+- **Title:** Perjalanan Medis ke Tiongkok dengan Diabetes: Obat dan Makanan
+- **Subtitle:** Rencanakan penyimpanan insulin, dosis lintas zona waktu, pemantauan glukosa, makanan, puasa prosedur, pompa, CGM, dan keadaan darurat diabetes selama perjalanan medis.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -22,6 +24,9 @@
 - Kebingungan, kejang, tidak sadar, tidak mampu menelan, muntah menetap, keton disertai sakit, napas berat, atau tanda ketoasidosis diabetik memerlukan perawatan mendesak setempat.
 
 ## Content
+
+Bagi penyandang diabetes yang bepergian ke Tiongkok untuk perawatan medis, jadwal perjalanan perlu sesuai dengan rencana obat, makan, dan pemantauan. Bahas perubahan zona waktu, keterlambatan makan, puasa untuk prosedur, dan persediaan cadangan dengan tim pemberi resep sebelum keberangkatan.
+
 
 Diabetes tidak membuat perjalanan medis mustahil. Diabetes membuat rencana perjalanan samar menjadi tidak aman. Sambungan penerbangan terlambat dapat menunda makan; kendaraan panas dapat merusak insulin; prosedur dapat memperpanjang puasa; infeksi dan steroid dapat menaikkan glukosa; berjalan lebih banyak daripada biasanya dapat menurunkannya. Rencana harus mengantisipasi perubahan ini, bukan mengejarnya setelah pembacaan keluar rentang.
 
@@ -144,11 +149,13 @@ Glukosa rendah berat dengan kebingungan, kejang, tidak sadar, atau tidak mampu m
 
 ## SEO Metadata
 
-- **SEO title:** Perjalanan Medis dengan Diabetes: Obat, Makanan, dan Pemantauan
-- **Meta description:** Rencanakan penyimpanan insulin, dosis lintas zona waktu, pemantauan glukosa, makanan, puasa prosedur, pompa, CGM, dan keadaan darurat diabetes selama perjalanan medis.
 - **Primary keyword:** perjalanan medis dengan diabetes
 - **Secondary keywords:** bepergian dengan insulin, obat diabetes zona waktu, puasa operasi diabetes, perjalanan udara pompa insulin, perjalanan medis CGM, daftar periksa perjalanan diabetes
 - **Suggested URL slug:** `/medical-travel-diabetes-plan`
+
+
+- **Meta title:** Perjalanan Medis ke Tiongkok dengan Diabetes: Obat dan Makanan
+- **Meta description:** Rencanakan penyimpanan insulin, dosis lintas zona waktu, pemantauan glukosa, makanan, puasa prosedur, pompa, CGM, dan keadaan darurat diabetes selama perjalanan medis.
 
 ## Sumber
 

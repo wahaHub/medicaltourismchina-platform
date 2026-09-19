@@ -1,15 +1,17 @@
-# 117 Apoyo lingüístico e historias clínicas en inglés en hospitales chinos: tres productos diferentes
+# Apoyo lingüístico y documentación en inglés en hospitales de China
 
 ## Hero
 
-- **Title:** Apoyo lingüístico e historias clínicas en inglés en hospitales chinos: tres productos diferentes
 - **Category:** Guías de hospitales
 - **Subcategory:** Servicios lingüísticos y de documentación médica
-- **Subtitle:** La interpretación clínica en directo, la historia clínica original del hospital y un informe de transferencia asistencial en inglés están relacionados, pero no son el mismo servicio ni documento.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Consulta conceptual de apoyo lingüístico en la que un coordinador hospitalario muestra a un paciente un icono de habla y un documento electrónico; no representa una traducción, historia clínica, institución ni aval reales.
+
+
+- **Title:** Apoyo lingüístico y documentación en inglés en hospitales de China
+- **Subtitle:** Verifique la interpretación médica, las historias originales chinas y los informes de transferencia en inglés revisados clínicamente en hospitales chinos, incluidos consentimiento, medicamentos, DICOM, privacidad y correcciones.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -224,13 +226,15 @@ Priorice el resumen de alta, el registro de operación/procedimiento, la anatom�
 ## SEO Metadata
 
 - **Slug:** `language-support-and-english-medical-records-at-chinese-hospitals`
-- **Meta title:** Apoyo lingüístico y documentación en inglés en hospitales chinos
-- **Meta description:** Verifique la interpretación médica, las historias originales chinas y los informes de transferencia en inglés revisados clínicamente en hospitales chinos, incluidos consentimiento, medicamentos, DICOM, privacidad y correcciones.
 - **Primary keyword:** historias clínicas en inglés en hospitales chinos
 - **Pillar keyword:** apoyo lingüístico en hospitales chinos para extranjeros
 - **Vertical keyword:** interpretación médica y traducción de documentación en China
 - **Search intent:** servicio lingüístico hospitalario / planificación de documentación médica
 - **Secondary keywords:** hospital que habla inglés en China; intérprete médico en China; traducir historias clínicas chinas; resumen de alta en inglés en China; historias hospitalarias bilingües
+
+
+- **Meta title:** Apoyo lingüístico y documentación en inglés en hospitales de China
+- **Meta description:** Verifique la interpretación médica, las historias originales chinas y los informes de transferencia en inglés revisados clínicamente en hospitales chinos, incluidos consentimiento, medicamentos, DICOM, privacidad y correcciones.
 
 ## Fuentes
 

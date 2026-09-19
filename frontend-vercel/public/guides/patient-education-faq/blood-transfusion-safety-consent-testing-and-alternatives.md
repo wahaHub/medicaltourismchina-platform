@@ -1,15 +1,17 @@
-# Blood Transfusion Safety: Decide the Need, Match the Component and Monitor the Patient
+# Blood Transfusions in China: Consent, Matching and Safety
 
 ## Hero
 
-- **Title:** Blood Transfusion Safety: Decide the Need, Match the Component and Monitor the Patient
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Surgery & Hospital Safety
-- **Subtitle:** A patient guide to red cells, platelets and plasma, informed consent, blood grouping and crossmatching, bedside identity checks, transfusion reactions and blood-conservation options.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Planned replacement showing red cells, platelets and plasma, a labelled patient sample, compatibility testing, bedside identity verification and reaction monitoring
+
+
+- **Title:** Blood Transfusions in China: Consent, Matching and Safety
+- **Subtitle:** Understand blood components, when transfusion is needed, consent, blood typing and crossmatching, reaction warning signs and patient blood-management alternatives.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -181,11 +183,13 @@ No. They may reduce exposure in suitable cases, especially when planned early, b
 
 ## SEO Metadata
 
-- **SEO title:** Blood Transfusion Safety: Consent, Matching, Reactions and Alternatives
-- **Meta description:** Understand blood components, when transfusion is needed, consent, blood typing and crossmatching, reaction warning signs and patient blood-management alternatives.
 - **Primary keyword:** blood transfusion safety
 - **Secondary keywords:** transfusion consent, blood crossmatch, transfusion reaction, red cell transfusion, patient blood management, blood transfusion alternatives
 - **Suggested URL slug:** `/blood-transfusion-safety-consent-crossmatch-reactions-alternatives`
+
+
+- **Meta title:** Blood Transfusions in China: Consent, Matching and Safety
+- **Meta description:** Understand blood components, when transfusion is needed, consent, blood typing and crossmatching, reaction warning signs and patient blood-management alternatives.
 
 ## Sources
 

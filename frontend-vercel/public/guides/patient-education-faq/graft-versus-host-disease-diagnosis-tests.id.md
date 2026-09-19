@@ -1,12 +1,14 @@
-# Pemeriksaan Apa yang Membantu Mendiagnosis Penyakit Graft-Versus-Host Setelah Transplantasi?
+# Penilaian GVHD di Tiongkok: Tinjauan Organ dan Pemeriksaan Diagnostik
 
 ## Hero
 
-- **Title:** Pemeriksaan Apa yang Membantu Mendiagnosis Penyakit Graft-Versus-Host Setelah Transplantasi?
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Penyakit Graft Versus Host
-- **Subtitle:** Ketika gejala muncul setelah transplantasi alogenik, keluarga sering bertanya apakah satu tes darah dapat memastikan penolakan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Penilaian GVHD di Tiongkok: Tinjauan Organ dan Pemeriksaan Diagnostik
+- **Subtitle:** Pahami penilaian organ, biopsi, dan pemeriksaan lain pada dugaan GVHD. Siapkan riwayat transplantasi serta gejala untuk konsultasi di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Setelah pemeriksaan, tanyakan kesimpulan mana yang sudah ditetapkan, apa yang ma
 ## SEO Metadata
 
 - **Primary keyword:** pemeriksaan diagnostik penyakit graft-versus-host di Tiongkok
+
+- **Meta title:** Penilaian GVHD di Tiongkok: Tinjauan Organ dan Pemeriksaan Diagnostik
+- **Meta description:** Pahami penilaian organ, biopsi, dan pemeriksaan lain pada dugaan GVHD. Siapkan riwayat transplantasi serta gejala untuk konsultasi di Tiongkok.

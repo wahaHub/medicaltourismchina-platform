@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Rekam Medis untuk Perawatan Sel Sabit di Tiongkok: Diagnosis, Kompatibilitas Darah, Krisis, dan Riwayat Pengobatan
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Penyakit Sel Sabit
-- **Subtitle:** Menyiapkan catatan untuk perawatan sel sabit bukan terutama soal menghasilkan tumpukan kertas besar, melainkan memungkinkan tim baru memahami kondisi biasa pasien, kejadian serius sebelumnya, dan pengobatan saat ini.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rekam Medis untuk Perawatan Sel Sabit di Tiongkok: Diagnosis, Kompatibilitas Darah, Krisis, dan Riwayat Pengobatan
+- **Subtitle:** Siapkan rekam medis sel sabit untuk perawatan di Tiongkok dengan diagnosis, hasil dasar, riwayat krisis, transfusi, antibodi darah, dan pengobatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ Setelah pengiriman, tanyakan item spesifik mana yang masih kurang daripada berul
 ## SEO Metadata
 
 - **Primary keyword:** rekam medis untuk pengobatan penyakit sel sabit di Tiongkok
+
+- **Meta title:** Rekam Medis untuk Perawatan Sel Sabit di Tiongkok: Diagnosis, Kompatibilitas Darah, Krisis, dan Riwayat Pengobatan
+- **Meta description:** Siapkan rekam medis sel sabit untuk perawatan di Tiongkok dengan diagnosis, hasil dasar, riwayat krisis, transfusi, antibodi darah, dan pengobatan.

@@ -1,12 +1,14 @@
-# Discomfort and Treatment Risks During Stroke Rehabilitation: When to Adjust or Seek Help
+# Stroke Rehabilitation in China: Discomfort and Warning Signs
 
 ## Hero
 
-- **Title:** Discomfort and Treatment Risks During Stroke Rehabilitation: When to Adjust or Seek Help
 - **Category:** Treatment Guides
 - **Subcategory:** Post Ischemic Stroke Rehabilitation
-- **Subtitle:** Rehabilitation involves practice, but pain, dizziness, or being heavily drowsy after medication should not automatically be accepted as evidence that treatment is working.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Stroke Rehabilitation in China: Discomfort and Warning Signs
+- **Subtitle:** Recognize discomfort and warning signs during stroke rehabilitation in China, and discuss when the plan needs adjustment or medical assessment.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ After a change, review what the person can safely continue. If exercise load is 
 ## SEO Metadata
 
 - **Primary keyword:** stroke rehabilitation side effects and safety
+
+- **Meta title:** Stroke Rehabilitation in China: Discomfort and Warning Signs
+- **Meta description:** Recognize discomfort and warning signs during stroke rehabilitation in China, and discuss when the plan needs adjustment or medical assessment.

@@ -1,12 +1,14 @@
-# Efek samping pengobatan Parkinson: pusing, halusinasi, diskinesia, dan gejala baru
+# Pengobatan Parkinson di Tiongkok: Efek Samping dan Gejala Baru
 
 ## Hero
 
-- **Title:** Efek samping pengobatan Parkinson: pusing, halusinasi, diskinesia, dan gejala baru
 - **Category:** Panduan Perawatan
 - **Subcategory:** Penyakit Parkinson
-- **Subtitle:** Efek samping pengobatan Parkinson: pusing, halusinasi, diskinesia, dan gejala baru
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Parkinson di Tiongkok: Efek Samping dan Gejala Baru
+- **Subtitle:** Kenali pusing, kantuk, halusinasi, dan diskinesia saat pengobatan Parkinson. Catat perubahan obat serta gejala untuk evaluasi tim di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Tujuan praktisnya adalah keseimbangan pengobatan yang dapat dipertahankan dan di
 ## SEO Metadata
 
 - **Primary keyword:** efek samping pengobatan penyakit Parkinson
+
+- **Meta title:** Pengobatan Parkinson di Tiongkok: Efek Samping dan Gejala Baru
+- **Meta description:** Kenali pusing, kantuk, halusinasi, dan diskinesia saat pengobatan Parkinson. Catat perubahan obat serta gejala untuk evaluasi tim di Tiongkok.

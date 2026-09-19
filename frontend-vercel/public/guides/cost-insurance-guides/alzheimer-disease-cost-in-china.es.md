@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Costes del tratamiento del Alzheimer en China: elaborar un presupuesto para evaluación, medicamentos y cuidados
 - **Category:** Guías de costes y seguros
 - **Subcategory:** Enfermedad de Alzheimer
-- **Subtitle:** No existe un precio total nacional único para tratar la enfermedad de Alzheimer en China.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Costes del tratamiento del Alzheimer en China: elaborar un presupuesto para evaluación, medicamentos y cuidados
+- **Subtitle:** Prepare un presupuesto de atención al Alzheimer en China que incluya evaluación, medicación, controles y cuidados, con supuestos claros sobre dosis y cobertura.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Solicite un presupuesto de evaluación inicial y cuidados y, después, un suplem
 ## SEO Metadata
 
 - **Primary keyword:** coste del tratamiento del Alzheimer en China
+
+- **Meta title:** Costes del tratamiento del Alzheimer en China: elaborar un presupuesto para evaluación, medicamentos y cuidados
+- **Meta description:** Prepare un presupuesto de atención al Alzheimer en China que incluya evaluación, medicación, controles y cuidados, con supuestos claros sobre dosis y cobertura.

@@ -1,15 +1,17 @@
-# 092 Biopsie liquide en cancérologie : usages, limites et essais cliniques
+# Biopsie liquide en Chine : examens du cancer, limites et essais
 
 ## Hero
 
-- **Title:** Biopsie liquide en cancérologie : usages, limites et essais cliniques
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Analyses moléculaires et oncologie de précision
-- **Subtitle:** Faites correspondre le prélèvement, le test et la décision clinique, et sachez ce qu’un résultat négatif ne peut exclure.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Illustration temporaire de consultation avec une icône de tube à essai, en attendant une image scientifiquement exacte du plasma sanguin, de l’ADN libre circulant et du séquençage.
+
+
+- **Title:** Biopsie liquide en Chine : examens du cancer, limites et essais
+- **Subtitle:** Comprendre la biopsie liquide du ctDNA pour le cancer avancé, la MRD, la surveillance et le dépistage : faux négatifs, hématopoïèse clonale, confirmation tissulaire et essais.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,11 +139,13 @@ L’ADN des globules blancs aide à distinguer les variants tumoraux de l’hém
 ## SEO Metadata
 
 - **Slug:** `liquid-biopsy-in-cancer-care-uses-limits-and-clinical-trials`
-- **Meta title:** Biopsie liquide et cancer : usages, limites et essais
-- **Meta description:** Comprendre la biopsie liquide du ctDNA pour le cancer avancé, la MRD, la surveillance et le dépistage : faux négatifs, hématopoïèse clonale, confirmation tissulaire et essais.
 - **Primary keyword:** biopsie liquide en cancérologie
 - **Secondary keywords:** analyse du ctDNA ; maladie résiduelle moléculaire ; analyse génomique plasmatique ; faux négatif de biopsie liquide ; essai clinique du ctDNA
 - **Search intent:** interprétation d’un test moléculaire / sélection pour un essai
+
+
+- **Meta title:** Biopsie liquide en Chine : examens du cancer, limites et essais
+- **Meta description:** Comprendre la biopsie liquide du ctDNA pour le cancer avancé, la MRD, la surveillance et le dépistage : faux négatifs, hématopoïèse clonale, confirmation tissulaire et essais.
 
 ## Sources
 

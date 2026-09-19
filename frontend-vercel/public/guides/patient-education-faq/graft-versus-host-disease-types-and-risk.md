@@ -1,12 +1,14 @@
-# GVHD Types and Risk: Acute, Chronic, Overlap, and Steroid-Refractory Disease
+# GVHD Types and Risk: Preparing for Specialist Care in China
 
 ## Hero
 
-- **Title:** GVHD Types and Risk: Acute, Chronic, Overlap, and Steroid-Refractory Disease
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Graft Versus Host Disease
-- **Subtitle:** Chronic, severe, high risk, and steroid refractory may sound like successive steps on one scale.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** GVHD Types and Risk: Preparing for Specialist Care in China
+- **Subtitle:** Understand acute, chronic, overlap and steroid-refractory GVHD, with the transplant history and organ findings needed for specialist care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Acceptance for consultation is not acceptance for a particular therapy and does 
 ## SEO Metadata
 
 - **Primary keyword:** graft-versus-host disease types and risk assessment China
+
+- **Meta title:** GVHD Types and Risk: Preparing for Specialist Care in China
+- **Meta description:** Understand acute, chronic, overlap and steroid-refractory GVHD, with the transplant history and organ findings needed for specialist care in China.

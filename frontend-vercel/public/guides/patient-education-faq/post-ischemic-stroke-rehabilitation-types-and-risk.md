@@ -1,12 +1,14 @@
-# How Stroke Rehabilitation Needs Differ: Cause, Disability and Risk
+# Stroke Rehabilitation Needs: Preparing for Care in China
 
 ## Hero
 
-- **Title:** How Stroke Rehabilitation Needs Differ: Cause, Disability and Risk
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Post Ischemic Stroke Rehabilitation
-- **Subtitle:** People with the same diagnosis of ischemic stroke may have very different rehabilitation needs.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Stroke Rehabilitation Needs: Preparing for Care in China
+- **Subtitle:** Understand how stroke cause, disability, care stage and risks shape rehabilitation needs before arranging treatment or travel to China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Risk assessment has value when it secures appropriate support. Changes in swallo
 ## SEO Metadata
 
 - **Primary keyword:** ischemic stroke rehabilitation types and risks
+
+- **Meta title:** Stroke Rehabilitation Needs: Preparing for Care in China
+- **Meta description:** Understand how stroke cause, disability, care stage and risks shape rehabilitation needs before arranging treatment or travel to China.

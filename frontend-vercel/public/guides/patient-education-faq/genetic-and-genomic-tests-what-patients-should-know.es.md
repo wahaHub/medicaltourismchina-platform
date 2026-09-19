@@ -1,15 +1,17 @@
-# ¿Prueba genética o genómica? Primero decida si la pregunta es sobre riesgo hereditario, diagnóstico o tratamiento
+# Pruebas genéticas y genómicas en China: comprender los resultados
 
 ## Hero
 
-- **Title:** ¿Prueba genética o genómica? Primero decida si la pregunta es sobre riesgo hereditario, diagnóstico o tratamiento
 - **Category:** Educación para pacientes y preguntas frecuentes
 - **Subcategory:** Pruebas y diagnóstico
-- **Subtitle:** Una guía práctica sobre pruebas de línea germinal, perfil tumoral, variantes inciertas, paneles amplios, resultados directos al consumidor y cuestiones que resolver antes de enviar una muestra.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un médico explica hallazgos de ADN y sus posibles implicaciones a un paciente y un familiar
+
+
+- **Title:** Pruebas genéticas y genómicas en China: comprender los resultados
+- **Subtitle:** Comprenda las pruebas germinales y genómicas tumorales, las VUS y los resultados negativos, los paneles amplios, las pruebas de ADN de consumo, la calidad del informe y qué preguntar antes del análisis.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,11 +147,13 @@ No actúe basándose solo en él. Revise el resultado original con un médico cu
 
 ## SEO Metadata
 
-- **SEO title:** Pruebas genéticas frente a genómicas: explicación de línea germinal, resultados tumorales y VUS
-- **Meta description:** Comprenda las pruebas germinales y genómicas tumorales, las VUS y los resultados negativos, los paneles amplios, las pruebas de ADN de consumo, la calidad del informe y qué preguntar antes del análisis.
 - **Primary keyword:** guía de pruebas genéticas y genómicas
 - **Secondary keywords:** pruebas de línea germinal, perfil tumoral, mutación somática, variante de significado incierto, asesoramiento genético, pruebas de biomarcadores del cáncer
 - **Suggested URL slug:** `/genetic-genomic-tests-inherited-risk-diagnosis-treatment`
+
+
+- **Meta title:** Pruebas genéticas y genómicas en China: comprender los resultados
+- **Meta description:** Comprenda las pruebas germinales y genómicas tumorales, las VUS y los resultados negativos, los paneles amplios, las pruebas de ADN de consumo, la calidad del informe y qué preguntar antes del análisis.
 
 ## Fuentes
 

@@ -1,15 +1,17 @@
-# 149 Menyerahkan Perawatan kepada Dokter di Negara Asal: “Diterima Berkasnya” Bukan “Diterima Tanggung Jawabnya”
+# Pulang Setelah Perawatan di Tiongkok: Serah Terima kepada Dokter Anda
 
 ## Hero
 
-- **Title:** Menyerahkan Perawatan kepada Dokter di Negara Asal: “Diterima Berkasnya” Bukan “Diterima Tanggung Jawabnya”
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Serah Terima Klinis di Negara Asal
-- **Subtitle:** Ubah catatan pengobatan luar negeri menjadi rencana setempat yang diterima, dengan dokter yang jelas, tanggung jawab tegas, dan tanpa tugas yang terbengkalai.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Dokter di negara asal meninjau rencana perawatan bersama pasien yang kembali dan anggota keluarganya.
+
+
+- **Title:** Pulang Setelah Perawatan di Tiongkok: Serah Terima kepada Dokter Anda
+- **Subtitle:** Alihkan perawatan setelah pengobatan di Tiongkok dengan dokter penerima, ringkasan masalah, penanggung jawab tugas, rencana hasil tertunda, dan penerimaan tanggung jawab yang tegas.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -191,13 +193,15 @@ Setelah tim setempat menilai pasien, menerima tugas terkait, dan memperoleh jawa
 ## SEO Metadata
 
 - **Slug:** `handing-over-care-to-your-doctor-at-home`
-- **Meta title:** Menyerahkan Perawatan kepada Dokter di Negara Asal | Serah Terima Klinis
-- **Meta description:** Alihkan perawatan setelah pengobatan di Tiongkok dengan dokter penerima, ringkasan masalah, penanggung jawab tugas, rencana hasil tertunda, dan penerimaan tanggung jawab yang tegas.
 - **Primary keyword:** menyerahkan perawatan kepada dokter di negara asal
 - **Pillar keyword:** perjalanan medis ke Tiongkok
 - **Vertical keyword:** serah terima klinis pasien internasional
 - **Search intent:** kesinambungan perawatan / perencanaan pulang ke negara asal
 - **Secondary keywords:** dokter penerima setelah perjalanan medis; serah terima antardokter; tindak lanjut pengobatan luar negeri; tanggung jawab pemeriksaan tertunda; daftar periksa pengalihan perawatan
+
+
+- **Meta title:** Pulang Setelah Perawatan di Tiongkok: Serah Terima kepada Dokter Anda
+- **Meta description:** Alihkan perawatan setelah pengobatan di Tiongkok dengan dokter penerima, ringkasan masalah, penanggung jawab tugas, rencana hasil tertunda, dan penerimaan tanggung jawab yang tegas.
 
 ## Sumber
 

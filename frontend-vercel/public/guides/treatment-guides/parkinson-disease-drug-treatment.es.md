@@ -1,12 +1,14 @@
-# Medicamentos para la enfermedad de Parkinson: levodopa, tratamientos complementarios y administración continua
+# Medicamentos para Parkinson en China: levodopa y otras opciones
 
 ## Hero
 
-- **Title:** Medicamentos para la enfermedad de Parkinson: levodopa, tratamientos complementarios y administración continua
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de Parkinson
-- **Subtitle:** Una lista creciente de recetas no significa necesariamente que la enfermedad de Parkinson se haya vuelto incontrolable.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medicamentos para Parkinson en China: levodopa y otras opciones
+- **Subtitle:** Comprenda las funciones de levodopa y otros medicamentos del Parkinson, con sus formulaciones, interacciones y controles al preparar atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Elabore el presupuesto a más largo plazo en función del uso previsto, las revi
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento farmacológico de la enfermedad de Parkinson
+
+- **Meta title:** Medicamentos para Parkinson en China: levodopa y otras opciones
+- **Meta description:** Comprenda las funciones de levodopa y otros medicamentos del Parkinson, con sus formulaciones, interacciones y controles al preparar atención en China.

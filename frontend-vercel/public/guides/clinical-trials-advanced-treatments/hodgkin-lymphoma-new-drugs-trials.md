@@ -1,12 +1,14 @@
-# New drugs and clinical trials for Hodgkin lymphoma: separating established evidence from research
+# Hodgkin Lymphoma Drugs and Trials: China Access and Evidence
 
 ## Hero
 
-- **Title:** New drugs and clinical trials for Hodgkin lymphoma: separating established evidence from research
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Hodgkin Lymphoma
-- **Subtitle:** A search for new Hodgkin lymphoma treatments can place an approved drug, a guideline-supported combination, an early cell study, and a laboratory experiment on the same screen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Hodgkin Lymphoma Drugs and Trials: China Access and Evidence
+- **Subtitle:** Separate established Hodgkin lymphoma treatment from research, and check Chinese indications, hospital access and the evidence relevant to your case.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ The value of a new approach depends on evidence, eligibility, and practical deli
 ## SEO Metadata
 
 - **Primary keyword:** new drugs and clinical trials for Hodgkin lymphoma
+
+- **Meta title:** Hodgkin Lymphoma Drugs and Trials: China Access and Evidence
+- **Meta description:** Separate established Hodgkin lymphoma treatment from research, and check Chinese indications, hospital access and the evidence relevant to your case.

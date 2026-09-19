@@ -1,12 +1,14 @@
-# Apakah saya memerlukan radiasi setelah kemoterapi limfoma Hodgkin? Dari hasil PET menuju rencana pengobatan
+# Radioterapi Limfoma Hodgkin di Tiongkok: Kapan Diperlukan?
 
 ## Hero
 
-- **Title:** Apakah saya memerlukan radiasi setelah kemoterapi limfoma Hodgkin? Dari hasil PET menuju rencana pengobatan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Hodgkin
-- **Subtitle:** Hasil PET yang baik setelah kemoterapi tidak selalu berarti radiasi tidak lagi diperlukan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Radioterapi Limfoma Hodgkin di Tiongkok: Kapan Diperlukan?
+- **Subtitle:** Pahami kapan radioterapi dipertimbangkan pada limfoma Hodgkin di Tiongkok. Hubungkan hasil PET, stadium, dan tujuan radiasi dalam rencana perawatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Keputusan menggunakan atau menghilangkan radiasi harus meninggalkan catatan jela
 ## SEO Metadata
 
 - **Primary keyword:** radiasi setelah kemoterapi limfoma Hodgkin
+
+- **Meta title:** Radioterapi Limfoma Hodgkin di Tiongkok: Kapan Diperlukan?
+- **Meta description:** Pahami kapan radioterapi dipertimbangkan pada limfoma Hodgkin di Tiongkok. Hubungkan hasil PET, stadium, dan tujuan radiasi dalam rencana perawatan.

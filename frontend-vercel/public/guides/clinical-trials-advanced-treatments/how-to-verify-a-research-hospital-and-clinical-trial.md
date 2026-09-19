@@ -1,15 +1,17 @@
-# How to Verify a Research Hospital and Clinical Trial
+# Verify a Research Hospital and Clinical Trial in China
 
 ## Hero
 
-- **Title:** How to Verify a Research Hospital and Clinical Trial
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Research Verification & Ethics
-- **Subtitle:** Match the institution, protocol, site, investigator and recruitment status before sharing records or travelling.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Conceptual illustration of an international patient using a checklist and verification symbols with a hospital coordinator; the coordinator is not shown providing clinical consent.
+
+
+- **Title:** Verify a Research Hospital and Clinical Trial in China
+- **Subtitle:** Verify a Chinese trial by matching hospital licence, institution filing, registry and protocol IDs, activated site, investigator, ethics, consent, recruiter and payments.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -197,11 +199,13 @@ Hospital legal name and campus, investigator, registry and protocol numbers, spo
 ## SEO Metadata
 
 - **Slug:** `how-to-verify-a-research-hospital-and-clinical-trial`
-- **Meta title:** Verify a Chinese Research Hospital and Clinical Trial
-- **Meta description:** Verify a Chinese trial by matching hospital licence, institution filing, registry and protocol IDs, activated site, investigator, ethics, consent, recruiter and payments.
 - **Primary keyword:** verify clinical trial in China
 - **Secondary keywords:** China research hospital verification; Chinese trial registry; CTR clinical trial number; China GCP institution; clinical trial scam check
 - **Search intent:** trial legitimacy and site verification
+
+
+- **Meta title:** Verify a Research Hospital and Clinical Trial in China
+- **Meta description:** Verify a Chinese trial by matching hospital licence, institution filing, registry and protocol IDs, activated site, investigator, ethics, consent, recruiter and payments.
 
 ## Sources
 

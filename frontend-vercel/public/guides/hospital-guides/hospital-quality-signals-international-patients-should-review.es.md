@@ -1,15 +1,17 @@
-# 100 Indicadores de calidad hospitalaria que deben revisar los pacientes internacionales
+# Calidad hospitalaria en China: qué deben comprobar los pacientes internacionales
 
 ## Hero
 
-- **Title:** Indicadores de calidad hospitalaria que deben revisar los pacientes internacionales
 - **Category:** Guías de hospitales
 - **Subcategory:** Calidad y seguridad hospitalarias
-- **Subtitle:** Sustituya el prestigio, la decoración y las afirmaciones vagas de éxito por indicadores que puedan comprobarse a nivel de departamento, equipo y recorrido asistencial.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustración conceptual de un paciente internacional que habla sobre calidad hospitalaria con un coordinador; los símbolos de escudo, medalla y gráfico no son un certificado de acreditación ni una puntuación real de calidad.
+
+
+- **Title:** Calidad hospitalaria en China: qué deben comprobar los pacientes internacionales
+- **Subtitle:** Un método práctico para evaluar hospitales chinos mediante adecuación del equipo, resultados definidos, capacidad de rescate, sistemas de seguridad, documentos y seguimiento transfronterizo.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -229,13 +231,15 @@ Los coordinadores pueden proporcionar documentos de autorización, horarios, pre
 ## SEO Metadata
 
 - **Slug:** `hospital-quality-signals-international-patients-should-review`
-- **Meta title:** Indicadores de calidad hospitalaria que deben revisar los pacientes internacionales
-- **Meta description:** Un método práctico para evaluar hospitales chinos mediante adecuación del equipo, resultados definidos, capacidad de rescate, sistemas de seguridad, documentos y seguimiento transfronterizo.
 - **Primary keyword:** indicadores de calidad hospitalaria China
 - **Pillar keyword:** mejores hospitales en China para extranjeros
 - **Vertical keyword:** indicadores de calidad hospitalaria que deben revisar los pacientes internacionales
 - **Search intent:** comparación de hospitales / verificación de calidad
 - **Secondary keywords:** calidad hospitalaria China; seguridad del paciente internacional; resultados hospitalarios China; acreditación hospitalaria China; elegir un hospital en China
+
+
+- **Meta title:** Calidad hospitalaria en China: qué deben comprobar los pacientes internacionales
+- **Meta description:** Un método práctico para evaluar hospitales chinos mediante adecuación del equipo, resultados definidos, capacidad de rescate, sistemas de seguridad, documentos y seguimiento transfronterizo.
 
 ## Fuentes
 

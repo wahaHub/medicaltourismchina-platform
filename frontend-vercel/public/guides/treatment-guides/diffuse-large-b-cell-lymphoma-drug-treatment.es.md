@@ -1,12 +1,14 @@
-# Medicamentos para el LDCBG: clases de fármacos, combinaciones y registros seguros de medicación
+# Medicamentos para el LDCBG en China: pautas, registros y acceso
 
 ## Hero
 
-- **Title:** Medicamentos para el LDCBG: clases de fármacos, combinaciones y registros seguros de medicación
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma difuso de células B grandes
-- **Subtitle:** El tratamiento del LDCBG suele combinar varias clases de medicamentos.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medicamentos para el LDCBG en China: pautas, registros y acceso
+- **Subtitle:** Comprenda las clases de medicamentos y pautas del linfoma difuso de células B grandes, con registros y controles útiles para preparar atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Por último, asigne a un profesional y un equipo de farmacia la conciliación de
 ## SEO Metadata
 
 - **Primary keyword:** medicamentos para el LDCBG
+
+- **Meta title:** Medicamentos para el LDCBG en China: pautas, registros y acceso
+- **Meta description:** Comprenda las clases de medicamentos y pautas del linfoma difuso de células B grandes, con registros y controles útiles para preparar atención en China.

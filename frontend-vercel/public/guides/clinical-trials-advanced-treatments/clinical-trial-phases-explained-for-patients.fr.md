@@ -1,15 +1,17 @@
-# 072 Les phases des essais cliniques expliquées aux patients
+# Phases 0 à IV des essais cliniques : guide du patient pour la Chine
 
 ## Hero
 
-- **Title:** Les phases des essais cliniques expliquées aux patients
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Fondamentaux des essais cliniques
-- **Subtitle:** Utilisez la phase pour comprendre la question principale de l’étude, puis lisez le protocole réel, les bras, les critères de jugement et les preuves antérieures avant de juger sa pertinence personnelle.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Remplacement nécessaire : un patient et un clinicien de recherche examinent une chronologie claire des phases 0–IV avec les étapes de dose, de comparaison, d’autorisation et d’après-commercialisation.
+
+
+- **Title:** Phases 0 à IV des essais cliniques : guide du patient pour la Chine
+- **Subtitle:** Comprenez les phases 0–IV, les essais combinés et adaptatifs, l’escalade de dose, la randomisation, les critères, les études après commercialisation et le consentement en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,11 +146,13 @@ Pas nécessairement. Le produit est commercialisé, mais l’étude peut tester 
 ## SEO Metadata
 
 - **Slug:** `clinical-trial-phases-explained-for-patients`
-- **Meta title:** Les phases 0–IV des essais cliniques expliquées aux patients
-- **Meta description:** Comprenez les phases 0–IV, les essais combinés et adaptatifs, l’escalade de dose, la randomisation, les critères, les études après commercialisation et le consentement en Chine.
 - **Primary keyword:** phases des essais cliniques expliquées
 - **Secondary keywords:** essai clinique de phase I ; essai de phase II ; essai randomisé de phase III ; étude de phase IV ; essai clinique Chine
 - **Search intent:** information sur les essais cliniques / décision de participation
+
+
+- **Meta title:** Phases 0 à IV des essais cliniques : guide du patient pour la Chine
+- **Meta description:** Comprenez les phases 0–IV, les essais combinés et adaptatifs, l’escalade de dose, la randomisation, les critères, les études après commercialisation et le consentement en Chine.
 
 ## Sources
 

@@ -1,15 +1,17 @@
-# 北京就医：国际患者实用指南
+# 中国就医指南：国际患者在北京看病
 
 ## Hero
 
-- **Title:** 北京就医：国际患者实用指南
 - **Category:** 中国医疗指南
 - **Subcategory:** 就医城市与医院选择
-- **Subtitle:** 先选对服务入口，再核对医院院区、预约信息和语言支持，避免到了北京才发现挂错科、走错院区。
 - **Reviewed by:** Medora Health 编辑团队；发布前需由熟悉北京医院流程的临床与运营人员复核
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 国际患者与陪同人员在北京城市背景下和医生沟通就诊安排
+
+
+- **Title:** 中国就医指南：国际患者在北京看病
+- **Subtitle:** 北京医院与院区选择、英文预约、护照建档、付款保险、120 急救和回国随访的实用指南。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -176,13 +178,15 @@
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-beijing-a-guide-for-international-patients`
-- **Meta title:** 国际患者北京就医实用指南
-- **Meta description:** 北京医院与院区选择、英文预约、护照建档、付款保险、120 急救和回国随访的实用指南。
 - **Primary keyword:** 国际患者北京就医
 - **Pillar keyword:** 国际患者赴华就医
 - **Vertical keyword:** 外国人在北京预约医院
 - **Search intent:** 就医规划 / 医院流程查询
 - **Secondary keywords:** 北京114英文挂号；北京国际医疗部；外国患者北京医院；北京医疗急救120
+
+
+- **Meta title:** 中国就医指南：国际患者在北京看病
+- **Meta description:** 北京医院与院区选择、英文预约、护照建档、付款保险、120 急救和回国随访的实用指南。
 
 ## Sources
 

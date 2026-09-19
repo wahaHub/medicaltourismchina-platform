@@ -1,12 +1,14 @@
-# Berapa Lama Rehabilitasi Stroke Berlangsung? Menghubungkan Perawatan Rumah Sakit, Rawat Jalan, dan Rumah
+# Rehabilitasi Stroke di Tiongkok: Durasi dan Perawatan Berkelanjutan
 
 ## Hero
 
-- **Title:** Berapa Lama Rehabilitasi Stroke Berlangsung? Menghubungkan Perawatan Rumah Sakit, Rawat Jalan, dan Rumah
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Rehabilitasi Pascastroke Iskemik
-- **Subtitle:** Ketika keluarga bertanya berapa lama rehabilitasi berlangsung, pertanyaannya biasanya mencakup beberapa garis waktu: lama rawat inap saat ini, saat pengobatan akan ditinjau, dan latihan yang diperlukan setelah meninggalkan rumah sakit.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rehabilitasi Stroke di Tiongkok: Durasi dan Perawatan Berkelanjutan
+- **Subtitle:** Pahami durasi rehabilitasi stroke di Tiongkok melalui kebutuhan rawat inap, terapi rawat jalan, dan latihan di rumah serta peninjauan fungsi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Rumah sakit memiliki jadwal layanan, obat memiliki titik pemantauan, dan pasien 
 ## SEO Metadata
 
 - **Primary keyword:** durasi dan jadwal rehabilitasi stroke
+
+- **Meta title:** Rehabilitasi Stroke di Tiongkok: Durasi dan Perawatan Berkelanjutan
+- **Meta description:** Pahami durasi rehabilitasi stroke di Tiongkok melalui kebutuhan rawat inap, terapi rawat jalan, dan latihan di rumah serta peninjauan fungsi.

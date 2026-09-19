@@ -1,12 +1,14 @@
-# Comparing drug-resistant epilepsy treatments: medicines, resection, ablation, stimulation, and dietary therapy
+# Drug-Resistant Epilepsy in China: Comparing Treatment Options
 
 ## Hero
 
-- **Title:** Comparing drug-resistant epilepsy treatments: medicines, resection, ablation, stimulation, and dietary therapy
 - **Category:** Treatment Guides
 - **Subcategory:** Drug Resistant Epilepsy
-- **Subtitle:** Begin by establishing which options are feasible for the individual.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Drug-Resistant Epilepsy in China: Comparing Treatment Options
+- **Subtitle:** Compare medicines, resection, ablation, stimulation and dietary approaches for drug-resistant epilepsy, and clarify which options can be assessed in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -152,3 +154,6 @@ If evidence is insufficient, complete the investigations likely to change the ch
 ## SEO Metadata
 
 - **Primary keyword:** drug-resistant epilepsy treatment comparison; medication versus epilepsy surgery; epilepsy neurostimulation; laser ablation in China
+
+- **Meta title:** Drug-Resistant Epilepsy in China: Comparing Treatment Options
+- **Meta description:** Compare medicines, resection, ablation, stimulation and dietary approaches for drug-resistant epilepsy, and clarify which options can be assessed in China.

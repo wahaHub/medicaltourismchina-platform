@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Zwanzig Fragen von Familien zur Alzheimer-Krankheit und Versorgung in China
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Alzheimer-Krankheit
-- **Subtitle:** Familien begegnen vielen unterschiedlichen Alzheimer-Informationen: diagnostischen Bluttests, Antikörpermedikamenten, Operationsversprechen, Forschungsankündigungen und Behandlungsangeboten im Ausland.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Zwanzig Fragen von Familien zur Alzheimer-Krankheit und Versorgung in China
+- **Subtitle:** 20 Fragen von Familien zur Alzheimer-Versorgung in China: Diagnose, Stadium, Medikamente, Antikörperüberwachung und Unterstützung im Alltag einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Die Familie sollte wissen, welcher Arzt verordnet, wo notwendige Tests erfolgen,
 ## SEO Metadata
 
 - **Primary keyword:** häufig gestellte Fragen zur Behandlung der Alzheimer-Krankheit
+
+- **Meta title:** Zwanzig Fragen von Familien zur Alzheimer-Krankheit und Versorgung in China
+- **Meta description:** 20 Fragen von Familien zur Alzheimer-Versorgung in China: Diagnose, Stadium, Medikamente, Antikörperüberwachung und Unterstützung im Alltag einordnen.

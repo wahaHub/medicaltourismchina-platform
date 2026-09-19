@@ -1,15 +1,17 @@
-# 105 Krankenhauswahl in Tianjin: Passendes Fachgebiet, Standortgeografie und die Frage nach Peking
+# Krankenhauswahl in China: Tianjin und Überweisungen nach Peking
 
 ## Hero
 
-- **Title:** Krankenhauswahl in Tianjin: Passendes Fachgebiet, Standortgeografie und die Frage nach Peking
 - **Category:** Krankenhausratgeber
 - **Subcategory:** Versorgungsplanung in Tianjin
-- **Subtitle:** Planen Sie die Reise um eine klinisch verantwortliche Anlaufstelle, einen Erholungsstandort und einen schriftlichen Eskalationsweg – nicht um einen berühmten Namen oder einen schnellen Zug.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Konzeptillustration von Reisenden bei der Planung einer Krankenhausbehandlung in Tianjin; die Skyline im Stil Tianjins sowie Krankenhaus-, Karten- und Scanner-Symbole kennzeichnen keinen realen Standort, Reiseweg oder eine Empfehlung.
+
+
+- **Title:** Krankenhauswahl in China: Tianjin und Überweisungen nach Peking
+- **Subtitle:** Wählen Sie ein Tianjiner Krankenhaus durch Prüfung von Fachteam, genauem Standort, Erholungsbasis, Grenzen von Peking-Überweisungen, Passzugang, Transport, Notfallabsicherung und Entlassungsverantwortung.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -246,13 +248,15 @@ Nur wenn das Behandlungsteam die Reisefähigkeit bestätigt und einen schriftlic
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-tianjin-specialties-access-and-travel`
-- **Meta title:** Krankenhauswahl in Tianjin: Standorte, Reisen und Überweisungen nach Peking
-- **Meta description:** Wählen Sie ein Tianjiner Krankenhaus durch Prüfung von Fachteam, genauem Standort, Erholungsbasis, Grenzen von Peking-Überweisungen, Passzugang, Transport, Notfallabsicherung und Entlassungsverantwortung.
 - **Primary keyword:** Krankenhaus in Tianjin auswählen
 - **Pillar keyword:** Tianjiner Krankenhäuser für internationale Patienten
 - **Vertical keyword:** Tianjin Krankenhaus Fachgebiete Standorte Reise
 - **Search intent:** Krankenhausvergleich / Planung medizinischer Reisen nach Tianjin
 - **Secondary keywords:** Tianjin Krankenhausstandort; Behandlung Tianjin oder Peking; Tianjin Krankenhaus Reisepass; Tianjin Süd Krankenhaus; Tianjin 120 Notfall
+
+
+- **Meta title:** Krankenhauswahl in China: Tianjin und Überweisungen nach Peking
+- **Meta description:** Wählen Sie ein Tianjiner Krankenhaus durch Prüfung von Fachteam, genauem Standort, Erholungsbasis, Grenzen von Peking-Überweisungen, Passzugang, Transport, Notfallabsicherung und Entlassungsverantwortung.
 
 ## Quellen
 

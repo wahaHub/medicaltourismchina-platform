@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Sollte ein Patient mit DLBCL zur Behandlung nach China reisen?
 - **Category:** Leitfäden zur Patientenreise
 - **Subcategory:** Diffuses großzelliges B-Zell-Lymphom
-- **Subtitle:** Ob sich bei DLBCL eine Reise nach China lohnt, hängt davon ab, welches medizinische Problem sie lösen könnte, wie lange die Wartezeit ist und ob Behandlung und Nachsorge vollständig durchgeführt werden können.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sollte ein Patient mit DLBCL zur Behandlung nach China reisen?
+- **Subtitle:** Eine DLBCL-Behandlungsreise nach China abwägen: Nutzen der Überweisung, Befundprüfung, medizinische Stabilität und Versorgung zwischen den Therapiezyklen klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Vereinbaren Sie eine medizinische Ausweichlösung, falls die Reise verschoben wi
 ## SEO Metadata
 
 - **Primary keyword:** zur DLBCL-Behandlung nach China reisen
+
+- **Meta title:** Sollte ein Patient mit DLBCL zur Behandlung nach China reisen?
+- **Meta description:** Eine DLBCL-Behandlungsreise nach China abwägen: Nutzen der Überweisung, Befundprüfung, medizinische Stabilität und Versorgung zwischen den Therapiezyklen klären.

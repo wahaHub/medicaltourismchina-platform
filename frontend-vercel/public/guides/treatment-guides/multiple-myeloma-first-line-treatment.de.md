@@ -1,12 +1,14 @@
-# Beginn der Erstlinientherapie beim multiplen Myelom
+# Erstlinientherapie beim multiplen Myelom in China: Der Behandlungsbeginn
 
 ## Hero
 
-- **Title:** Beginn der Erstlinientherapie beim multiplen Myelom
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Multiples Myelom
-- **Subtitle:** Die Erstlinientherapie ist die anfängliche systemische Strategie zur Kontrolle eines aktiven Myeloms.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Erstlinientherapie beim multiplen Myelom in China: Der Behandlungsbeginn
+- **Subtitle:** Myelom-Erstlinientherapie in China vorbereiten: Belastbarkeit, Nierenfunktion, Transplantationsplanung, Infektionsvorsorge und Ansprechkontrollen abstimmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Versuchen Sie vor Beginn, Zweck, nächsten Kontrollzeitpunkt und Kontaktweg bei 
 ## SEO Metadata
 
 - **Primary keyword:** Erstlinientherapie beim multiplen Myelom
+
+- **Meta title:** Erstlinientherapie beim multiplen Myelom in China: Der Behandlungsbeginn
+- **Meta description:** Myelom-Erstlinientherapie in China vorbereiten: Belastbarkeit, Nierenfunktion, Transplantationsplanung, Infektionsvorsorge und Ansprechkontrollen abstimmen.

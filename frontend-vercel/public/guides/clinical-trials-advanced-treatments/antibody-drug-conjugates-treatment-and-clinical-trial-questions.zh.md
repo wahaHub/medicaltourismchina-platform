@@ -1,15 +1,17 @@
-# 抗体偶联药物：治疗与临床试验应问什么
+# 中国 ADC 治疗与试验：靶点核实与风险
 
 ## Hero
 
-- **Title:** 抗体偶联药物：治疗与临床试验应问什么
 - **Category:** 临床试验与先进治疗
 - **Subcategory:** 精准肿瘤治疗
-- **Subtitle:** 把 ADC 当作完整的“抗体—连接子—载荷”系统来理解，再核对肿瘤靶点、准确适应证、剂量、联合方案和监测计划。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **图片替代文字：** 与《079 抗体偶联药物：治疗与临床试验应问什么》对应的临床场景，呈现相关诊疗决策、操作流程与安全核对。
+
+
+- **Title:** 中国 ADC 治疗与试验：靶点核实与风险
+- **Subtitle:** 从靶点、抗体、连接子和载荷评估 ADC，并核对中国批准、试验队列、产品特有毒性和跨境监测。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -162,11 +164,13 @@ ADC 可能引起输注反应、恶心、乏力、血细胞减少、感染、肝�
 ## SEO Metadata
 
 - **Slug:** `antibody-drug-conjugates-treatment-and-clinical-trial-questions`
-- **Meta title:** ADC 治疗与试验：靶点、风险和提问清单
-- **Meta description:** 从靶点、抗体、连接子和载荷评估 ADC，并核对中国批准、试验队列、产品特有毒性和跨境监测。
 - **Primary keyword:** 抗体偶联药物治疗
 - **Secondary keywords:** 中国 ADC 临床试验；ADC 靶点检测；ADC 副作用；抗体连接子载荷；ADC 入组条件
 - **Search intent:** ADC 治疗比较 / 临床试验筛查
+
+
+- **Meta title:** 中国 ADC 治疗与试验：靶点核实与风险
+- **Meta description:** 从靶点、抗体、连接子和载荷评估 ADC，并核对中国批准、试验队列、产品特有毒性和跨境监测。
 
 ## Sources
 

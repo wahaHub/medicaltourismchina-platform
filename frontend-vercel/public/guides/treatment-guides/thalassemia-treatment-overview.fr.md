@@ -1,12 +1,14 @@
-# Traiter la thalassémie : du statut de porteur, des transfusions et de la chélation à la greffe et aux nouvelles thérapies
+# Traitement de la thalassémie en Chine : transfusions, chélation et autres options
 
 ## Hero
 
-- **Title:** Traiter la thalassémie : du statut de porteur, des transfusions et de la chélation à la greffe et aux nouvelles thérapies
 - **Category:** Guides des traitements
 - **Subcategory:** Thalassémie
-- **Subtitle:** La thalassémie regroupe des troubles héréditaires de la production de globine, dont les manifestations vont de très rares symptômes à un besoin de transfusions régulières et de soins multidisciplinaires.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement de la thalassémie en Chine : transfusions, chélation et autres options
+- **Subtitle:** Préparez les soins de thalassémie en Chine selon la forme, les besoins transfusionnels, le fer et la protection des organes, avec évaluation des autres options.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -131,3 +133,6 @@ Réexaminer périodiquement le plan permet au patient de discuter des bénéfice
 ## SEO Metadata
 
 - **Primary keyword:** traitement de la thalassémie
+
+- **Meta title:** Traitement de la thalassémie en Chine : transfusions, chélation et autres options
+- **Meta description:** Préparez les soins de thalassémie en Chine selon la forme, les besoins transfusionnels, le fer et la protection des organes, avec évaluation des autres options.

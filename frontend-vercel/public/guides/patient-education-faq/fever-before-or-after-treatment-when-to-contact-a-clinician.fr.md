@@ -1,15 +1,17 @@
-# Fièvre avant ou après un traitement : le chiffre compte, mais le contexte détermine l’urgence
+# Fièvre après un traitement en Chine : quand demander une aide urgente
 
 ## Hero
 
-- **Title:** Fièvre avant ou après un traitement : le chiffre compte, mais le contexte détermine l’urgence
 - **Category:** Éducation des patients et questions fréquentes
 - **Subcategory:** Symptômes et soins urgents
-- **Subtitle:** Un guide privilégiant la sécurité pour mesurer la température, reconnaître les périodes de traitement à haut risque, transmettre les bons renseignements et savoir quand ne pas attendre un rappel.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Remplacement prévu montrant un patient consultant un thermomètre tout en contactant l’équipe soignante, avec des contextes d’alerte liés à la chimiothérapie et à la période postopératoire
+
+
+- **Title:** Fièvre après un traitement en Chine : quand demander une aide urgente
+- **Subtitle:** Sachez quand une fièvre après chimiothérapie, chirurgie, perfusion ou transfusion nécessite un appel immédiat, des soins urgents et une transmission claire du traitement.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -175,13 +177,15 @@ Utilisez le circuit de l’hôpital traitant accessible 24 heures par jour, s’
 ## SEO Metadata
 
 - **Slug:** `fever-before-or-after-treatment-when-to-contact-a-clinician`
-- **Meta title:** Fièvre après traitement : quand appeler ou consulter en urgence
-- **Meta description:** Sachez quand une fièvre après chimiothérapie, chirurgie, perfusion ou transfusion nécessite un appel immédiat, des soins urgents et une transmission claire du traitement.
 - **Primary keyword:** fièvre après traitement quand appeler le médecin
 - **Pillar keyword:** sécurité des patients pendant un voyage médical
 - **Vertical keyword:** fièvre après chimiothérapie ou chirurgie
 - **Search intent:** éducation urgente des patients
 - **Secondary keywords:** fièvre chimiothérapie 38 C ; signes d’alerte fièvre postopératoire ; fièvre après perfusion ; fièvre neutropénique ; fièvre après transfusion sanguine
+
+
+- **Meta title:** Fièvre après un traitement en Chine : quand demander une aide urgente
+- **Meta description:** Sachez quand une fièvre après chimiothérapie, chirurgie, perfusion ou transfusion nécessite un appel immédiat, des soins urgents et une transmission claire du traitement.
 
 ## Sources
 

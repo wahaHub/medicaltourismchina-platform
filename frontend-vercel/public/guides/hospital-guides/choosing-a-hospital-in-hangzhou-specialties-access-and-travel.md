@@ -1,15 +1,17 @@
-# Choosing a Hospital in Hangzhou: Three Proofs and One Real-world Test
+# Choosing a Hospital in China: Hangzhou Access and Travel
 
 ## Hero
 
-- **Title:** Choosing a Hospital in Hangzhou: Three Proofs and One Real-world Test
 - **Category:** Hospital Guides
 - **Subcategory:** Hangzhou Care Planning
-- **Subtitle:** Prove clinical acceptance, prove the campus and service route, prove continuity—then test the passport and journey before committing.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Conceptual illustration of travellers planning hospital care in Hangzhou; the West Lake-style bridge and pagoda, hospital, map, and train do not show a real campus route or endorsement.
+
+
+- **Title:** Choosing a Hospital in China: Hangzhou Access and Travel
+- **Subtitle:** Choose a Hangzhou hospital with three proofs and a real-world test covering case acceptance, campus, passport systems, international service, transport, emergency care, and follow-up.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -248,13 +250,15 @@ Only when the provider confirms the service type and eligibility. Some online ro
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-hangzhou-specialties-access-and-travel`
-- **Meta title:** Choosing a Hospital in Hangzhou: Campuses, Digital Access, and Travel
-- **Meta description:** Choose a Hangzhou hospital with three proofs and a real-world test covering case acceptance, campus, passport systems, international service, transport, emergency care, and follow-up.
 - **Primary keyword:** choosing a hospital in Hangzhou
 - **Pillar keyword:** Hangzhou hospitals for international patients
 - **Vertical keyword:** Hangzhou hospital campuses digital access travel
 - **Search intent:** hospital comparison / Hangzhou medical travel planning
 - **Secondary keywords:** Hangzhou hospital passport booking; Hangzhou international hospital; Hangzhou hospital campus; Hangzhou airport medical assistance; Hangzhou 120
+
+
+- **Meta title:** Choosing a Hospital in China: Hangzhou Access and Travel
+- **Meta description:** Choose a Hangzhou hospital with three proofs and a real-world test covering case acceptance, campus, passport systems, international service, transport, emergency care, and follow-up.
 
 ## Sources
 

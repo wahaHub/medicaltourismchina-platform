@@ -1,15 +1,17 @@
-# 106 Ein Krankenhaus in Hangzhou auswählen: Drei Nachweise und ein Praxistest
+# Krankenhauswahl in China: Zugang und Reiseplanung in Hangzhou
 
 ## Hero
 
-- **Title:** Ein Krankenhaus in Hangzhou auswählen: Drei Nachweise und ein Praxistest
 - **Category:** Krankenhausratgeber
 - **Subcategory:** Versorgungsplanung in Hangzhou
-- **Subtitle:** Klinische Annahme, Standort und Serviceweg sowie Versorgungskontinuität nachweisen – dann Passregistrierung und Reise testen, bevor Sie sich festlegen.
 - **Reviewed by:** Medora-Health-Redaktion
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Konzeptillustration von Reisenden bei der Planung einer Krankenhausversorgung in Hangzhou; Brücke und Pagode im Westsee-Stil, Krankenhaus, Karte und Zug zeigen weder eine tatsächliche Standortroute noch eine Empfehlung.
+
+
+- **Title:** Krankenhauswahl in China: Zugang und Reiseplanung in Hangzhou
+- **Subtitle:** Wählen Sie ein Krankenhaus in Hangzhou mit drei Nachweisen und einem Praxistest zu Fallannahme, Standort, Passsystemen, internationalem Service, Transport, Notfallversorgung und Nachsorge.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -264,13 +266,15 @@ Besorgen Sie klinische Zusammenfassung, tatsächliche Behandlungsdetails, Origin
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-hangzhou-specialties-access-and-travel`
-- **Meta title:** Ein Krankenhaus in Hangzhou auswählen: Standorte, digitaler Zugang und Reise
-- **Meta description:** Wählen Sie ein Krankenhaus in Hangzhou mit drei Nachweisen und einem Praxistest zu Fallannahme, Standort, Passsystemen, internationalem Service, Transport, Notfallversorgung und Nachsorge.
 - **Primary keyword:** ein Krankenhaus in Hangzhou auswählen
 - **Pillar keyword:** Krankenhäuser in Hangzhou für internationale Patienten
 - **Vertical keyword:** Krankenhausstandorte Hangzhou digitaler Zugang Reise
 - **Search intent:** Krankenhausvergleich / medizinische Reiseplanung Hangzhou
 - **Secondary keywords:** Krankenhaus Hangzhou Passbuchung; internationales Krankenhaus Hangzhou; Krankenhausstandort Hangzhou; medizinische Flughafenassistenz Hangzhou; Hangzhou 120
+
+
+- **Meta title:** Krankenhauswahl in China: Zugang und Reiseplanung in Hangzhou
+- **Meta description:** Wählen Sie ein Krankenhaus in Hangzhou mit drei Nachweisen und einem Praxistest zu Fallannahme, Standort, Passsystemen, internationalem Service, Transport, Notfallversorgung und Nachsorge.
 
 ## Quellen
 

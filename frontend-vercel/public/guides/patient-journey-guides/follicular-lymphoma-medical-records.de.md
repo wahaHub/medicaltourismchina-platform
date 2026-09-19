@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Unterlagen zum follikulären Lymphom für die Versorgung in China vorbereiten
 - **Category:** Leitfäden zum Patientenweg
 - **Subcategory:** Follikuläres Lymphom
-- **Subtitle:** Die nützlichste Zusammenstellung von Unterlagen zeigt, wie die einzelnen Teile Ihrer Krankengeschichte zusammenhängen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Unterlagen zum follikulären Lymphom für die Versorgung in China vorbereiten
+- **Subtitle:** Unterlagen zum follikulären Lymphom für China ordnen: Pathologieversionen, vergleichbare Bildgebung, Therapiephasen und sicherheitsrelevante Informationen erfassen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Der abschließende Maßstab für Ihre Vorbereitung ist, ob ein neuer Arzt die di
 ## SEO Metadata
 
 - **Primary keyword:** erforderliche medizinische Unterlagen für die Behandlung des follikulären Lymphoms in China
+
+- **Meta title:** Unterlagen zum follikulären Lymphom für die Versorgung in China vorbereiten
+- **Meta description:** Unterlagen zum follikulären Lymphom für China ordnen: Pathologieversionen, vergleichbare Bildgebung, Therapiephasen und sicherheitsrelevante Informationen erfassen.

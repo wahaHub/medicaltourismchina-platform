@@ -1,12 +1,14 @@
-# Rayonnements et interventions par dispositifs dans la maladie d’Alzheimer : ultrasons focalisés, stimulation magnétique et thérapie sensorielle
+# Recherche sur les rayonnements et dispositifs pour Alzheimer : vérifications pour des soins en Chine
 
 ## Hero
 
-- **Title:** Rayonnements et interventions par dispositifs dans la maladie d’Alzheimer : ultrasons focalisés, stimulation magnétique et thérapie sensorielle
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Maladie d’Alzheimer
-- **Subtitle:** Des expressions comme « non invasif », « stimulation de précision » et « ouverture de la barrière hémato-encéphalique » peuvent désigner des technologies très différentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Recherche sur les rayonnements et dispositifs pour Alzheimer : vérifications pour des soins en Chine
+- **Subtitle:** Distinguez recherches sur rayonnements, ultrasons et stimulation dans Alzheimer, leurs objectifs et les limites des preuves avant un projet de soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,3 +142,6 @@ Continuez à prendre en compte alimentation, mouvement, sommeil, sécurité à d
 ## SEO Metadata
 
 - **Primary keyword:** traitement interventionnel de la maladie d’Alzheimer
+
+- **Meta title:** Recherche sur les rayonnements et dispositifs pour Alzheimer : vérifications pour des soins en Chine
+- **Meta description:** Distinguez recherches sur rayonnements, ultrasons et stimulation dans Alzheimer, leurs objectifs et les limites des preuves avant un projet de soins en Chine.

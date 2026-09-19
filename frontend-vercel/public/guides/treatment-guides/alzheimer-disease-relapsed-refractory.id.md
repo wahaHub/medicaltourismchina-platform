@@ -1,12 +1,14 @@
-# Alzheimer Memburuk Meski Sudah Diobati: Apa Langkah Berikutnya?
+# Alzheimer Memburuk: Persiapan Penilaian Ulang di Tiongkok
 
 ## Hero
 
-- **Title:** Alzheimer Memburuk Meski Sudah Diobati: Apa Langkah Berikutnya?
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Alzheimer
-- **Subtitle:** Ketika daya ingat atau fungsi sehari-hari terus menurun selama pengobatan, keluarga mungkin bertanya apakah penyakit kambuh, menjadi resisten, atau segera memerlukan obat lebih kuat.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Alzheimer Memburuk: Persiapan Penilaian Ulang di Tiongkok
+- **Subtitle:** Bedakan perubahan Alzheimer mendadak dari penurunan bertahap. Catat fungsi, gejala, dan obat sebenarnya untuk penilaian ulang di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ Menemukan obat lain hanyalah satu kemungkinan respons. Peninjauan yang menghasil
 ## SEO Metadata
 
 - **Primary keyword:** Alzheimer memburuk meski sudah diobati
+
+- **Meta title:** Alzheimer Memburuk: Persiapan Penilaian Ulang di Tiongkok
+- **Meta description:** Bedakan perubahan Alzheimer mendadak dari penurunan bertahap. Catat fungsi, gejala, dan obat sebenarnya untuk penilaian ulang di Tiongkok.

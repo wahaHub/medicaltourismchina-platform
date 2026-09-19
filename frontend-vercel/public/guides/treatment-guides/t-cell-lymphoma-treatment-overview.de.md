@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Wo die Behandlung eines T-Zell-Lymphoms beginnt: Subtyp, Ersttherapie und Versorgung in China
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** T-Zell-Lymphom
-- **Subtitle:** Nach der Diagnose eines T-Zell-Lymphoms lautet die erste hilfreiche Frage, welche Erkrankung dieser Name beschreibt.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Wo die Behandlung eines T-Zell-Lymphoms beginnt: Subtyp, Ersttherapie und Versorgung in China
+- **Subtitle:** T-Zell-Lymphom-Behandlung in China vorbereiten: genauen Subtyp, Stadium, Belastbarkeit, Ersttherapie und unterstützende Versorgung zu einem konkreten Plan verbinden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Nach dem ersten vollständigen Gespräch sollten Sie Subtyp, unmittelbares Behan
 ## SEO Metadata
 
 - **Primary keyword:** Behandlung von T-Zell-Lymphomen
+
+- **Meta title:** Wo die Behandlung eines T-Zell-Lymphoms beginnt: Subtyp, Ersttherapie und Versorgung in China
+- **Meta description:** T-Zell-Lymphom-Behandlung in China vorbereiten: genauen Subtyp, Stadium, Belastbarkeit, Ersttherapie und unterstützende Versorgung zu einem konkreten Plan verbinden.

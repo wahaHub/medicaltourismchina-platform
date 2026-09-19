@@ -1,12 +1,14 @@
-# Radiation for DLBCL: localized disease, residual sites and symptom relief
+# DLBCL Radiotherapy in China: Local Control and Symptom Relief
 
 ## Hero
 
-- **Title:** Radiation for DLBCL: localized disease, residual sites and symptom relief
 - **Category:** Treatment Guides
 - **Subcategory:** Diffuse Large B Cell Lymphoma
-- **Subtitle:** Radiation has a defined role in DLBCL, but it is not an automatic step after chemotherapy.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL Radiotherapy in China: Local Control and Symptom Relief
+- **Subtitle:** Understand radiotherapy for DLBCL local control, residual disease or symptoms, and request a treatment-specific plan and quotation in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Follow-up should identify who interprets later imaging, when late effects are as
 ## SEO Metadata
 
 - **Primary keyword:** radiation therapy for DLBCL
+
+- **Meta title:** DLBCL Radiotherapy in China: Local Control and Symptom Relief
+- **Meta description:** Understand radiotherapy for DLBCL local control, residual disease or symptoms, and request a treatment-specific plan and quotation in China.

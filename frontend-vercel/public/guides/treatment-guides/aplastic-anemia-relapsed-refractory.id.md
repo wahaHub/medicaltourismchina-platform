@@ -1,12 +1,14 @@
-# Anemia aplastik kambuh atau refrakter: memastikan penyebab dan merencanakan pengobatan lini kedua
+# Anemia Aplastik Refrakter atau Kambuh: Pendapat Kedua di Tiongkok
 
 ## Hero
 
-- **Title:** Anemia aplastik kambuh atau refrakter: memastikan penyebab dan merencanakan pengobatan lini kedua
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Anemia Aplastik
-- **Subtitle:** Hitung darah yang terus rendah setelah pengobatan dan hitung darah yang turun setelah sebelumnya membaik sama-sama memerlukan penilaian ulang, tetapi keduanya bukan masalah yang sama.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Anemia Aplastik Refrakter atau Kambuh: Pendapat Kedua di Tiongkok
+- **Subtitle:** Siapkan pendapat kedua anemia aplastik kambuh atau refrakter di Tiongkok dengan riwayat terapi, tren hitung darah, dan penilaian penyebab perubahan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Kelayakan perjalanan bergantung pada kondisi saat ini serta layanan setempat dan
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan anemia aplastik refrakter
+
+- **Meta title:** Anemia Aplastik Refrakter atau Kambuh: Pendapat Kedua di Tiongkok
+- **Meta description:** Siapkan pendapat kedua anemia aplastik kambuh atau refrakter di Tiongkok dengan riwayat terapi, tren hitung darah, dan penilaian penyebab perubahan.

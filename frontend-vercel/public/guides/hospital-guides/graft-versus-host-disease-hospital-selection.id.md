@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Memilih rumah sakit GVHD di Tiongkok: tindak lanjut transplantasi dan perawatan spesifik organ
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Penyakit Graft-versus-Host
-- **Subtitle:** Pencarian rumah sakit menjadi lebih berguna ketika masalahnya spesifik.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Memilih rumah sakit GVHD di Tiongkok: tindak lanjut transplantasi dan perawatan spesifik organ
+- **Subtitle:** Nilai rumah sakit GVHD di Tiongkok dari koordinasi tim transplantasi dan spesialis organ. Bedakan kebutuhan penilaian terencana dengan stabilisasi mendesak.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ Rumah sakit yang sesuai adalah rumah sakit yang dapat menghubungkan pertanyaan k
 ## SEO Metadata
 
 - **Primary keyword:** rumah sakit untuk pengobatan GVHD di Tiongkok
+
+- **Meta title:** Memilih rumah sakit GVHD di Tiongkok: tindak lanjut transplantasi dan perawatan spesifik organ
+- **Meta description:** Nilai rumah sakit GVHD di Tiongkok dari koordinasi tim transplantasi dan spesialis organ. Bedakan kebutuhan penilaian terencana dengan stabilisasi mendesak.

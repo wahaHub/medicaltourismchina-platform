@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Medical records for myeloma care in China: documenting diagnosis, resistance and treatment readiness
 - **Category:** Patient Journey Guides
 - **Subcategory:** Multiple Myeloma
-- **Subtitle:** A diagnosis certificate alone rarely allows a new team to decide the next step.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medical records for myeloma care in China: documenting diagnosis, resistance and treatment readiness
+- **Subtitle:** Prepare myeloma records for China care with diagnostic evidence, each treatment line, resistance history, organ status and current readiness.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Update the summary before departure with the last treatment and any new symptoms
 ## SEO Metadata
 
 - **Primary keyword:** medical records for multiple myeloma treatment in China
+
+- **Meta title:** Medical records for myeloma care in China: documenting diagnosis, resistance and treatment readiness
+- **Meta description:** Prepare myeloma records for China care with diagnostic evidence, each treatment line, resistance history, organ status and current readiness.

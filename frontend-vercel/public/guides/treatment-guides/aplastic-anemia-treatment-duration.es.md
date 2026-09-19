@@ -1,12 +1,14 @@
-# Cuánto dura el tratamiento de la anemia aplásica: ingreso, respuesta, reducción gradual y regreso a casa
+# Tratamiento de la anemia aplásica en China: duración y planificación del viaje
 
 ## Hero
 
-- **Title:** Cuánto dura el tratamiento de la anemia aplásica: ingreso, respuesta, reducción gradual y regreso a casa
 - **Category:** Guías de tratamiento
 - **Subcategory:** Anemia aplásica
-- **Subtitle:** Cuánto dura el tratamiento puede referirse al final de un ingreso para ATG, la independencia transfusional, la suspensión de medicamentos o el regreso a otra ciudad.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento de la anemia aplásica en China: duración y planificación del viaje
+- **Subtitle:** Planifique la atención de anemia aplásica en China distinguiendo ingreso, evaluación de respuesta, reducción de medicación y preparación del regreso a casa.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ En cada revisión, pregunte qué cambio espera más ver el equipo para la próxi
 ## SEO Metadata
 
 - **Primary keyword:** duración del tratamiento de la anemia aplásica
+
+- **Meta title:** Tratamiento de la anemia aplásica en China: duración y planificación del viaje
+- **Meta description:** Planifique la atención de anemia aplásica en China distinguiendo ingreso, evaluación de respuesta, reducción de medicación y preparación del regreso a casa.

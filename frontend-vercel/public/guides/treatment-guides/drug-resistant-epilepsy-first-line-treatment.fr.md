@@ -1,12 +1,14 @@
-# Le premier plan de traitement après reconnaissance d’une épilepsie pharmacorésistante : convenir des changements, de la surveillance et de l’orientation
+# Épilepsie pharmacorésistante en Chine : le premier plan de traitement
 
 ## Hero
 
-- **Title:** Le premier plan de traitement après reconnaissance d’une épilepsie pharmacorésistante : convenir des changements, de la surveillance et de l’orientation
 - **Category:** Guides des traitements
 - **Subcategory:** Épilepsie pharmacorésistante
-- **Subtitle:** À ce stade, le patient a besoin d’un plan qui puisse être appliqué et réévalué.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Épilepsie pharmacorésistante en Chine : le premier plan de traitement
+- **Subtitle:** Préparez le premier plan d’épilepsie pharmacorésistante en Chine en clarifiant objectifs, traitements antérieurs, changements médicamenteux et orientation.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,3 +152,6 @@ Lors d’une réévaluation ultérieure, rassemblez les épisodes, effets indés
 ## SEO Metadata
 
 - **Primary keyword:** plan initial de prise en charge de l’épilepsie pharmacorésistante ; ajustement des médicaments antiépileptiques ; traitement complémentaire de l’épilepsie ; orientation en Chine
+
+- **Meta title:** Épilepsie pharmacorésistante en Chine : le premier plan de traitement
+- **Meta description:** Préparez le premier plan d’épilepsie pharmacorésistante en Chine en clarifiant objectifs, traitements antérieurs, changements médicamenteux et orientation.

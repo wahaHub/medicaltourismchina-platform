@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Elegir un hospital para la EICH en China: seguimiento del trasplante y atención específica de cada órgano
 - **Category:** Guías de hospitales
 - **Subcategory:** Enfermedad de injerto contra huésped
-- **Subtitle:** La búsqueda de un hospital resulta más útil cuando el problema es específico.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Elegir un hospital para la EICH en China: seguimiento del trasplante y atención específica de cada órgano
+- **Subtitle:** Evalúe hospitales de China para la enfermedad injerto contra huésped según el seguimiento del trasplante, la coordinación y la atención de órganos afectados.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ El hospital adecuado es el que puede conectar la pregunta clínica actual con se
 ## SEO Metadata
 
 - **Primary keyword:** hospitales para el tratamiento de la EICH en China
+
+- **Meta title:** Elegir un hospital para la EICH en China: seguimiento del trasplante y atención específica de cada órgano
+- **Meta description:** Evalúe hospitales de China para la enfermedad injerto contra huésped según el seguimiento del trasplante, la coordinación y la atención de órganos afectados.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Pulang Setelah Pengobatan Limfoma Sel Mantel di Tiongkok: Memastikan Tindak Lanjut Berjalan
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Limfoma Sel Mantel
-- **Subtitle:** Keluar dari rumah sakit di Tiongkok tidak menggambarkan satu tahap tunggal perawatan limfoma sel mantel.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pulang Setelah Pengobatan Limfoma Sel Mantel di Tiongkok: Memastikan Tindak Lanjut Berjalan
+- **Subtitle:** Siapkan tindak lanjut limfoma sel mantel setelah pulang dari Tiongkok menurut fase perawatan, jadwal kunjungan, obat, dan perubahan gejala.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Jika pengobatan lebih lanjut diperlukan, regimen sebelumnya, durasi respons, ala
 ## SEO Metadata
 
 - **Primary keyword:** tindak lanjut limfoma sel mantel setelah pengobatan di Tiongkok
+
+- **Meta title:** Pulang Setelah Pengobatan Limfoma Sel Mantel di Tiongkok: Memastikan Tindak Lanjut Berjalan
+- **Meta description:** Siapkan tindak lanjut limfoma sel mantel setelah pulang dari Tiongkok menurut fase perawatan, jadwal kunjungan, obat, dan perubahan gejala.

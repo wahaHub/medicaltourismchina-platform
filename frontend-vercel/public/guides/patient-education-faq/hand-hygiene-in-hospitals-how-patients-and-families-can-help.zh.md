@@ -1,15 +1,17 @@
-# 医院手卫生：患者可以提醒，但不必充当病区监督员
+# 中国医院手部卫生：患者与家属指南
 
 ## Hero
 
-- **Title:** 医院手卫生：患者可以提醒，但不必充当病区监督员
 - **Category:** 患者教育与常见问题
 - **Subcategory:** 感染预防
-- **Subtitle:** 分清真正重要的操作时刻、手消毒剂与流动水洗手、手套使用、探视习惯，以及怎样礼貌而明确地提出提醒。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** 医院护士在醒目的洗手标识旁向患者解释手卫生注意事项
+
+
+- **Title:** 中国医院手部卫生：患者与家属指南
+- **Subtitle:** 了解医务人员、患者和探视者何时清洁双手，怎样选择手消毒剂或皂液，为什么手套不够，以及怎样礼貌提醒。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -160,11 +162,13 @@ CDC明确指出，手套不能替代双手清洁，手套本身也可能把微�
 
 ## SEO Metadata
 
-- **SEO title:** 医院手卫生：患者与家属实用提醒指南
-- **Meta description:** 了解医务人员、患者和探视者何时清洁双手，怎样选择手消毒剂或皂液，为什么手套不够，以及怎样礼貌提醒。
 - **Primary keyword:** 医院手卫生
 - **Secondary keywords:** 手卫生五个时刻, 医院酒精消毒还是洗手, 手套与手卫生, 患者感染预防, 艰难梭菌洗手, 提醒医生洗手
 - **Suggested URL slug:** `/zh-cn/hospital-hand-hygiene-patients-families`
+
+
+- **Meta title:** 中国医院手部卫生：患者与家属指南
+- **Meta description:** 了解医务人员、患者和探视者何时清洁双手，怎样选择手消毒剂或皂液，为什么手套不够，以及怎样礼貌提醒。
 
 ## Sources
 

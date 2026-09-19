@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Debería un paciente con DLBCL viajar a China para tratarse?
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Linfoma difuso de células B grandes
-- **Subtitle:** Que merezca la pena viajar a China por un DLBCL depende del problema clínico que el viaje pueda resolver, del tiempo de espera y de la capacidad para completar el tratamiento y los cuidados posteriores.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Debería un paciente con DLBCL viajar a China para tratarse?
+- **Subtitle:** Valore el beneficio de viajar a China por linfoma difuso de células B grandes según la pregunta clínica, la revisión de materiales y la estabilidad del paciente.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Acuerde una alternativa médica si se aplaza el viaje. Si aparece fiebre, empeor
 ## SEO Metadata
 
 - **Primary keyword:** viajar a China para el tratamiento del DLBCL
+
+- **Meta title:** ¿Debería un paciente con DLBCL viajar a China para tratarse?
+- **Meta description:** Valore el beneficio de viajar a China por linfoma difuso de células B grandes según la pregunta clínica, la revisión de materiales y la estabilidad del paciente.

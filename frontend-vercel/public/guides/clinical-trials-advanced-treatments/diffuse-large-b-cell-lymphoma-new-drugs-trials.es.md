@@ -1,12 +1,14 @@
-# Nuevos tratamientos y ensayos clínicos del LDCBG: evidencia que puede cambiar una decisión
+# Nuevos tratamientos y ensayos para el LDCBG: cómo comprobar el acceso en China
 
 ## Hero
 
-- **Title:** Nuevos tratamientos y ensayos clínicos del LDCBG: evidencia que puede cambiar una decisión
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Linfoma difuso de células B grandes
-- **Subtitle:** Los tratamientos nuevos han cambiado parte de la atención de primera línea y de las recaídas del LDCBG, pero nuevo puede significar varias cosas: una pauta aprobada en una jurisdicción, una combinación respaldada por un estudio aleatorizado cuyo acceso local aún debe comprobarse o un enfoque experimental cuya seguridad y eficacia siguen investigándose.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Nuevos tratamientos y ensayos para el LDCBG: cómo comprobar el acceso en China
+- **Subtitle:** Revise la evidencia de nuevos tratamientos del linfoma difuso de células B grandes, los criterios de selección y cómo verificar ensayos y acceso en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,3 +142,6 @@ Los pacientes pueden elegir razonablemente la atención establecida sin particip
 ## SEO Metadata
 
 - **Primary keyword:** nuevos tratamientos y ensayos clínicos del LDCBG
+
+- **Meta title:** Nuevos tratamientos y ensayos para el LDCBG: cómo comprobar el acceso en China
+- **Meta description:** Revise la evidencia de nuevos tratamientos del linfoma difuso de células B grandes, los criterios de selección y cómo verificar ensayos y acceso en China.

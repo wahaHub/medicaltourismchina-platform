@@ -1,12 +1,14 @@
-# Comparer les traitements de l’aplasie médullaire : choisir entre greffe et immunosuppression
+# Soins de l’aplasie médullaire en Chine : greffe ou immunosuppression
 
 ## Hero
 
-- **Title:** Comparer les traitements de l’aplasie médullaire : choisir entre greffe et immunosuppression
 - **Category:** Guides des traitements
 - **Subcategory:** Aplasie médullaire
-- **Subtitle:** Si un hôpital propose une greffe et un autre un traitement à base d’ATG, ne commencez pas par classer les taux de réussite qu’ils citent.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Soins de l’aplasie médullaire en Chine : greffe ou immunosuppression
+- **Subtitle:** Comparez greffe et immunosuppression pour l’aplasie médullaire selon les bénéfices attendus, les risques et le suivi à long terme avant des soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -107,3 +109,6 @@ Comparez aussi l’hébergement près de l’hôpital, le temps d’absence prof
 ## SEO Metadata
 
 - **Primary keyword:** comparer les traitements de l’aplasie médullaire
+
+- **Meta title:** Soins de l’aplasie médullaire en Chine : greffe ou immunosuppression
+- **Meta description:** Comparez greffe et immunosuppression pour l’aplasie médullaire selon les bénéfices attendus, les risques et le suivi à long terme avant des soins en Chine.

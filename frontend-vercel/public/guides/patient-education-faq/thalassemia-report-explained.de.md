@@ -1,12 +1,14 @@
-# Thalassämiebefunde lesen: Erbliche Diagnose, Anämie, Eisenbelastung und Organgesundheit unterscheiden
+# Thalassämiebefunde: Vorbereitung auf eine Beurteilung in China
 
 ## Hero
 
-- **Title:** Thalassämiebefunde lesen: Erbliche Diagnose, Anämie, Eisenbelastung und Organgesundheit unterscheiden
 - **Category:** Patientenaufklärung & FAQ
 - **Subcategory:** Thalassämie
-- **Subtitle:** Eine Thalassämieakte kann genetische Notationen, Hämoglobinprozentsätze, Ferritinmessungen und MRT-Werte enthalten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Thalassämiebefunde: Vorbereitung auf eine Beurteilung in China
+- **Subtitle:** Thalassämiebefunde für eine Beurteilung in China vorbereiten: Hämoglobin, genetische Diagnose, Ferritin und Organ-MRT im jeweiligen Messkontext verstehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Bitten Sie darum, die individuellen Behandlungsziele, den nächsten Kontrollterm
 ## SEO Metadata
 
 - **Primary keyword:** Thalassämie-Laborergebnisse; HbA2; Lebereisen-MRT; kardiales T2-Stern; Ferritininterpretation
+
+- **Meta title:** Thalassämiebefunde: Vorbereitung auf eine Beurteilung in China
+- **Meta description:** Thalassämiebefunde für eine Beurteilung in China vorbereiten: Hämoglobin, genetische Diagnose, Ferritin und Organ-MRT im jeweiligen Messkontext verstehen.

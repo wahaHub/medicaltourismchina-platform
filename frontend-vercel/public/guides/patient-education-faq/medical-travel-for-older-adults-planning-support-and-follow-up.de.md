@@ -1,15 +1,17 @@
-# Medizinische Reisen für ältere Erwachsene: Nach Funktionsfähigkeit planen, nicht nach Geburtsdatum
+# Behandlungsreisen nach China im Alter: Versorgung und Unterstützung
 
 ## Hero
 
-- **Title:** Medizinische Reisen für ältere Erwachsene: Nach Funktionsfähigkeit planen, nicht nach Geburtsdatum
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Chronische Erkrankungen und Reisen
-- **Subtitle:** Ein praktischer Rahmen zur Beurteilung von Funktionsfähigkeit, Medikamenten, Delirrisiko, Betreuungskapazität und Erholung vor einer Behandlungsreise im höheren Alter.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Ein älterer Erwachsener und eine Begleitperson besprechen mit einer ärztlichen Fachperson einen Plan für Behandlungsreise und Erholung
+
+
+- **Title:** Behandlungsreisen nach China im Alter: Versorgung und Unterstützung
+- **Subtitle:** Planen Sie Behandlungsreisen im Alter anhand von Gebrechlichkeit, Funktionsfähigkeit, Medikamenten, Delirprävention, Betreuungskapazität und sicherer Nachsorge.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Legen Sie den Rückreisetermin nicht fest, bevor die Erholung absehbar ist. Unterkunft nach Entlassung, Transport und Nachsorge müssen zur neuen Funktionsfähigkeit passen, nicht zu der vor der Behandlung.
 
 ## Content
+
+Beginnen Sie bei der Planung medizinischer Versorgung in China für einen älteren Menschen mit der Alltagsfunktion, den Medikamenten und der verfügbaren Unterstützung während der Reise und Erholung. Dieser Leitfaden hilft Familien, das Gespräch vorzubereiten, ohne das Alter allein als Entscheidungsgrundlage für die Reisesicherheit zu betrachten.
+
 
 „Ältere Erwachsene“ bilden keine einheitliche Risikokategorie. Ein körperlich aktiver 82-jähriger Mensch, der Medikamente und Finanzen selbstständig verwaltet, kann möglicherweise sicherer reisen als ein 68-jähriger Mensch mit wiederholten Stürzen, Gewichtsverlust und wechselnder Verwirrtheit. Die hilfreiche Frage lautet nicht „Ist dieser Patient zu alt?“, sondern „Was kann diese Person zuverlässig tun, was ist unter Belastung gefährdet, und welche Unterstützung bleibt verfügbar, wenn die Erholung langsamer als erwartet verläuft?“
 
@@ -122,11 +127,13 @@ Verschieben Sie die Reise und lassen Sie neu beurteilen, wenn neue Verwirrtheit,
 
 ## SEO Metadata
 
-- **SEO title:** Behandlungsreisen im Alter: Leitfaden zu Funktion und Unterstützung
-- **Meta description:** Planen Sie Behandlungsreisen im Alter anhand von Gebrechlichkeit, Funktionsfähigkeit, Medikamenten, Delirprävention, Betreuungskapazität und sicherer Nachsorge.
 - **Primary keyword:** medizinische Reisen für ältere Erwachsene
 - **Secondary keywords:** Medizintourismus ältere Erwachsene, geriatrische Reisebeurteilung, Delirprävention Reisen, Betreuung bei Behandlungsreisen, Erholung älterer Patienten im Ausland
 - **Suggested URL slug:** `/medical-travel-older-adults`
+
+
+- **Meta title:** Behandlungsreisen nach China im Alter: Versorgung und Unterstützung
+- **Meta description:** Planen Sie Behandlungsreisen im Alter anhand von Gebrechlichkeit, Funktionsfähigkeit, Medikamenten, Delirprävention, Betreuungskapazität und sicherer Nachsorge.
 
 ## Quellen
 

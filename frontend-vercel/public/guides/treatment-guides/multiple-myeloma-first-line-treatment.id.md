@@ -1,12 +1,14 @@
-# Memulai pengobatan lini pertama untuk mieloma multipel
+# Pengobatan Lini Pertama Mieloma Multipel di Tiongkok: Langkah Awal
 
 ## Hero
 
-- **Title:** Memulai pengobatan lini pertama untuk mieloma multipel
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Mieloma Multipel
-- **Subtitle:** Pengobatan lini pertama adalah strategi sistemik awal untuk mengendalikan mieloma aktif.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Lini Pertama Mieloma Multipel di Tiongkok: Langkah Awal
+- **Subtitle:** Siapkan pengobatan lini pertama mieloma di Tiongkok dengan penilaian toleransi, kelayakan transplantasi, dan strategi lengkap dari induksi hingga lanjutan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Sebelum memulai, coba jelaskan tujuan, waktu tinjauan berikutnya, dan jalur kont
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan lini pertama untuk mieloma multipel
+
+- **Meta title:** Pengobatan Lini Pertama Mieloma Multipel di Tiongkok: Langkah Awal
+- **Meta description:** Siapkan pengobatan lini pertama mieloma di Tiongkok dengan penilaian toleransi, kelayakan transplantasi, dan strategi lengkap dari induksi hingga lanjutan.

@@ -1,15 +1,17 @@
-# 150 Après un voyage médical : construire un plan de complications qui fonctionne sous stress
+# Après un traitement en Chine : prévoir les urgences et les complications
 
 ## Hero
 
-- **Title:** Après un voyage médical : construire un plan de complications qui fonctionne sous stress
 - **Category:** Guides du parcours patient
 - **Subcategory:** Réponse aux complications et aux urgences
-- **Subtitle:** Décidez à l’avance où aller, quoi dire, quoi emporter et qui prend le relais lorsque la récupération s’écarte du parcours attendu.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un patient et un accompagnant préparent une fiche de contacts d’urgence et un calendrier après un traitement médical à l’étranger.
+
+
+- **Title:** Après un traitement en Chine : prévoir les urgences et les complications
+- **Subtitle:** Construisez un plan d’urgence pratique après traitement : voies de réponse, hôpitaux locaux, transmission de 60 secondes, dossier, assurance et répétition.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -204,13 +206,15 @@ Non. La couverture dépend du contrat, des exclusions, de la nécessité médica
 ## SEO Metadata
 
 - **Slug:** `creating-a-complication-and-emergency-plan-after-medical-travel`
-- **Meta title:** Plan d’urgence après voyage médical | Réponse aux complications
-- **Meta description:** Construisez un plan d’urgence pratique après traitement : voies de réponse, hôpitaux locaux, transmission de 60 secondes, dossier, assurance et répétition.
 - **Primary keyword:** plan d’urgence après voyage médical
 - **Pillar keyword:** voyage médical en Chine
 - **Vertical keyword:** plan de complications après traitement à l’étranger
 - **Search intent:** planification de sécurité / soins au retour
 - **Secondary keywords:** plan de complications tourisme médical ; dossier urgent après chirurgie à l’étranger ; urgence traitement étranger ; signalement infection après voyage ; planification évacuation médicale
+
+
+- **Meta title:** Après un traitement en Chine : prévoir les urgences et les complications
+- **Meta description:** Construisez un plan d’urgence pratique après traitement : voies de réponse, hôpitaux locaux, transmission de 60 secondes, dossier, assurance et répétition.
 
 ## Sources
 

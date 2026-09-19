@@ -1,15 +1,17 @@
-# Voyager avec des médicaments sur ordonnance : préparer un plan médicamenteux légal, respectueux des températures et utilisable en clinique
+# Emporter des médicaments prescrits en Chine : douanes et chaîne du froid
 
 ## Hero
 
-- **Title:** Voyager avec des médicaments sur ordonnance : préparer un plan médicamenteux légal, respectueux des températures et utilisable en clinique
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Médicaments
-- **Subtitle:** Une liste de contrôle couvrant les règles d’entrée et de transit, les médicaments contrôlés, les emballages d’origine, les noms génériques, la réserve en cabine, la chaîne du froid, les prises selon les fuseaux horaires et la conciliation médicamenteuse à l’hôpital.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Deux voyageurs médicaux organisent des boîtes de médicaments étiquetées, une attestation médicale, un calendrier de prises, un bagage cabine et des documents de voyage
+
+
+- **Title:** Emporter des médicaments prescrits en Chine : douanes et chaîne du froid
+- **Subtitle:** Liste pratique pour transporter à l’international des médicaments prescrits et contrôlés : emballages d’origine, lettres, douanes chinoises, réfrigération et horaires de prise.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -182,11 +184,13 @@ Ne vous fiez pas à la marque. Vérifiez le principe actif, le dosage, la formul
 
 ## SEO Metadata
 
-- **SEO title:** Voyager avec des médicaments sur ordonnance : douanes, chaîne du froid et fuseaux horaires
-- **Meta description:** Liste pratique pour transporter à l’international des médicaments prescrits et contrôlés : emballages d’origine, lettres, douanes chinoises, réfrigération et horaires de prise.
 - **Primary keyword:** voyager avec des médicaments sur ordonnance
 - **Secondary keywords:** douanes médicaments Chine, voyage médicaments contrôlés, médicaments réfrigérés avion, médicaments fuseaux horaires, lettre médicale pour médicaments, ordonnances en cabine
 - **Suggested URL slug:** `/travel-prescription-medicines-customs-cold-chain-time-zones`
+
+
+- **Meta title:** Emporter des médicaments prescrits en Chine : douanes et chaîne du froid
+- **Meta description:** Liste pratique pour transporter à l’international des médicaments prescrits et contrôlés : emballages d’origine, lettres, douanes chinoises, réfrigération et horaires de prise.
 
 ## Sources
 

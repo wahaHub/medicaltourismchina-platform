@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Preparar la documentación del linfoma folicular para recibir atención en China
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Linfoma folicular
-- **Subtitle:** El expediente más útil muestra cómo encajan las distintas partes de su historia clínica.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Preparar la documentación del linfoma folicular para recibir atención en China
+- **Subtitle:** Organice la documentación del linfoma folicular para China con biopsias identificadas, imágenes comparables y un registro de inducción y mantenimiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ La prueba definitiva de su preparación es si un nuevo médico puede identificar
 ## SEO Metadata
 
 - **Primary keyword:** documentación médica necesaria para el tratamiento del linfoma folicular en China
+
+- **Meta title:** Preparar la documentación del linfoma folicular para recibir atención en China
+- **Meta description:** Organice la documentación del linfoma folicular para China con biopsias identificadas, imágenes comparables y un registro de inducción y mantenimiento.

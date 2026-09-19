@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** DLBCL patient FAQ: 20 questions about treatment, relapse and care in China
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Diffuse Large B Cell Lymphoma
-- **Subtitle:** DLBCL questions often need pathology, stage, previous treatment and physical fitness to be considered together.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL patient FAQ: 20 questions about treatment, relapse and care in China
+- **Subtitle:** Answers to 20 DLBCL questions on diagnosis, treatment, relapse, cost planning, travel readiness and follow-up after care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Bring final pathology, administered drugs, dose changes, response, radiation or 
 ## SEO Metadata
 
 - **Primary keyword:** DLBCL patient FAQ
+
+- **Meta title:** DLBCL patient FAQ: 20 questions about treatment, relapse and care in China
+- **Meta description:** Answers to 20 DLBCL questions on diagnosis, treatment, relapse, cost planning, travel readiness and follow-up after care in China.

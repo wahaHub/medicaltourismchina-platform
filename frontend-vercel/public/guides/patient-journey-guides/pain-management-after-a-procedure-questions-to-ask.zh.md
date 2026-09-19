@@ -1,15 +1,17 @@
-# 操作后疼痛：先设功能目标，再画清救援边界
+# 在中国术后疼痛：需要询问的问题与警示症状
 
 ## Hero
 
-- **Title:** 操作后疼痛：先设功能目标，再画清救援边界
 - **Category:** 患者旅程指南
 - **Subcategory:** 急性疼痛、用药安全与功能恢复
-- **Subtitle:** 好的镇痛不是追求量表归零，而是识别疼痛模式、支持呼吸和活动、限制治疗伤害，并知道何时常规方案已经不够。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** 概念图：医生与患者和陪同者讨论术后疼痛方案；画面没有表现正在发作的疼痛、具体药物或预期恢复结果。
+
+
+- **Title:** 在中国术后疼痛：需要询问的问题与警示症状
+- **Subtitle:** 围绕疼痛模式、功能目标、多模式镇痛、救援触发、镇静和呼吸监测及安全带药，制定操作后疼痛方案。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -197,13 +199,15 @@ CDC 2022 年指南面向门诊疼痛，不适用于癌痛、姑息医疗或镰�
 ## SEO Metadata
 
 - **Slug:** `pain-management-after-a-procedure-questions-to-ask`
-- **Meta title:** 操作后疼痛｜功能目标、救援规则与用药安全
-- **Meta description:** 围绕疼痛模式、功能目标、多模式镇痛、救援触发、镇静和呼吸监测及安全带药，制定操作后疼痛方案。
 - **Primary keyword:** 中国操作后疼痛管理
 - **Pillar keyword:** 赴华医疗
 - **Vertical keyword:** 国际患者术后镇痛方案
 - **Search intent:** 恢复规划 / 用药安全
 - **Secondary keywords:** 中国术后疼痛；多模式镇痛；PCA 安全；术后阿片安全；疼痛救援方案
+
+
+- **Meta title:** 在中国术后疼痛：需要询问的问题与警示症状
+- **Meta description:** 围绕疼痛模式、功能目标、多模式镇痛、救援触发、镇静和呼吸监测及安全带药，制定操作后疼痛方案。
 
 ## Sources
 

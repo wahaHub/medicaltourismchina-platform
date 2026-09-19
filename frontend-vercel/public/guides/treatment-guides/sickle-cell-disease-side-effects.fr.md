@@ -1,12 +1,14 @@
-# Reconnaître les effets indésirables des traitements de la drépanocytose : symptômes urgents et réévaluation programmée
+# Traitement de la drépanocytose en Chine : effets indésirables et signes urgents
 
 ## Hero
 
-- **Title:** Reconnaître les effets indésirables des traitements de la drépanocytose : symptômes urgents et réévaluation programmée
 - **Category:** Guides des traitements
 - **Subcategory:** Drépanocytose
-- **Subtitle:** Des nausées, une fatigue ou une douleur après le début d’un traitement ne suffisent pas à établir un effet indésirable.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement de la drépanocytose en Chine : effets indésirables et signes urgents
+- **Subtitle:** Repérez les alertes sous traitement de la drépanocytose et préparez en Chine la surveillance de l’hydroxyurée, de la chélation et des transfusions.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Chaque fois qu’un traitement commence ou change, définissez ce qui est attend
 ## SEO Metadata
 
 - **Primary keyword:** effets indésirables des traitements de la drépanocytose
+
+- **Meta title:** Traitement de la drépanocytose en Chine : effets indésirables et signes urgents
+- **Meta description:** Repérez les alertes sous traitement de la drépanocytose et préparez en Chine la surveillance de l’hydroxyurée, de la chélation et des transfusions.

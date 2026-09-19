@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Twenty questions patients ask about drug-resistant epilepsy and treatment in China
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Drug Resistant Epilepsy
-- **Subtitle:** Drug-resistant epilepsy decisions can involve several specialties.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Twenty questions patients ask about drug-resistant epilepsy and treatment in China
+- **Subtitle:** Answers to 20 drug-resistant epilepsy questions on diagnosis, treatment options, hospital selection, travel to China and care after returning home.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -153,3 +155,6 @@ For prolonged convulsions, repeated seizures without recovery, abnormal breathin
 ## SEO Metadata
 
 - **Primary keyword:** drug-resistant epilepsy questions and answers; epilepsy treatment in China; epilepsy surgery and medication FAQ
+
+- **Meta title:** Twenty questions patients ask about drug-resistant epilepsy and treatment in China
+- **Meta description:** Answers to 20 drug-resistant epilepsy questions on diagnosis, treatment options, hospital selection, travel to China and care after returning home.

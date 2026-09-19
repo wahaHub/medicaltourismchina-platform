@@ -1,12 +1,14 @@
-# Pruebas para la epilepsia farmacorresistente: confirmar los episodios, investigar la causa y definir las opciones de tratamiento
+# Pruebas de epilepsia farmacorresistente en China: revisión diagnóstica
 
 ## Hero
 
-- **Title:** Pruebas para la epilepsia farmacorresistente: confirmar los episodios, investigar la causa y definir las opciones de tratamiento
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Epilepsia farmacorresistente
-- **Subtitle:** El estudio de las crisis difíciles de controlar suele abordar tres preguntas: si los episodios recurrentes son epilépticos, por qué el tratamiento no los ha controlado y si nuevas pruebas podrían cambiar las opciones disponibles.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pruebas de epilepsia farmacorresistente en China: revisión diagnóstica
+- **Subtitle:** Comprenda cómo el historial de crisis, los tratamientos previos y el vídeo-EEG ayudan a revisar la epilepsia farmacorresistente en un centro de China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -149,3 +151,6 @@ Obtenga informes formales y los datos de origen disponibles, registre las condic
 ## SEO Metadata
 
 - **Primary keyword:** pruebas diagnósticas de epilepsia farmacorresistente; monitorización con vídeo-EEG; RM para epilepsia; evaluación prequirúrgica en China
+
+- **Meta title:** Pruebas de epilepsia farmacorresistente en China: revisión diagnóstica
+- **Meta description:** Comprenda cómo el historial de crisis, los tratamientos previos y el vídeo-EEG ayudan a revisar la epilepsia farmacorresistente en un centro de China.

@@ -1,12 +1,14 @@
-# Durée du traitement de l’aplasie médullaire : hospitalisation, réponse, diminution progressive et retour chez soi
+# Traitement de l’aplasie médullaire en Chine : durée et organisation du voyage
 
 ## Hero
 
-- **Title:** Durée du traitement de l’aplasie médullaire : hospitalisation, réponse, diminution progressive et retour chez soi
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Aplasie médullaire
-- **Subtitle:** La durée du traitement peut désigner la fin d’une hospitalisation pour ATG, l’indépendance transfusionnelle, l’arrêt des médicaments ou le retour dans une autre ville.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement de l’aplasie médullaire en Chine : durée et organisation du voyage
+- **Subtitle:** Planifiez les étapes de l’aplasie médullaire en Chine : préparation, hospitalisation, attente de réponse, réduction des médicaments et conditions de retour.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Avant de réserver un retour longue distance, vérifiez les infections, saigneme
 ## SEO Metadata
 
 - **Primary keyword:** durée du traitement de l’aplasie médullaire
+
+- **Meta title:** Traitement de l’aplasie médullaire en Chine : durée et organisation du voyage
+- **Meta description:** Planifiez les étapes de l’aplasie médullaire en Chine : préparation, hospitalisation, attente de réponse, réduction des médicaments et conditions de retour.

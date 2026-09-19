@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Préparer le dossier médical Alzheimer pour une consultation en Chine
 - **Category:** Guides du parcours patient
 - **Subcategory:** Maladie d’Alzheimer
-- **Subtitle:** Le dossier d’orientation Alzheimer le plus utile relie symptômes, fonctionnement quotidien, examens et traitement sur une même chronologie.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Préparer le dossier médical Alzheimer pour une consultation en Chine
+- **Subtitle:** Préparez une consultation Alzheimer en Chine avec l’histoire des symptômes, les évaluations cognitives, les images cérébrales et les résultats détaillés des biomarqueurs.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -129,3 +131,6 @@ Un dossier bien préparé rend les incertitudes visibles au lieu de les cacher. 
 ## SEO Metadata
 
 - **Primary keyword:** dossier médical de maladie d’Alzheimer pour un traitement en Chine
+
+- **Meta title:** Préparer le dossier médical Alzheimer pour une consultation en Chine
+- **Meta description:** Préparez une consultation Alzheimer en Chine avec l’histoire des symptômes, les évaluations cognitives, les images cérébrales et les résultats détaillés des biomarqueurs.

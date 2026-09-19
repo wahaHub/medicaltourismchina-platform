@@ -1,12 +1,14 @@
-# Alzheimer-Behandlungen im Vergleich: Symptommedikamente, Lecanemab und Donanemab
+# Alzheimer-Behandlungen in China: Ein Vergleich für Patienten
 
 ## Hero
 
-- **Title:** Alzheimer-Behandlungen im Vergleich: Symptommedikamente, Lecanemab und Donanemab
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Alzheimer-Krankheit
-- **Subtitle:** Familien, die Donepezil, Memantin, Lecanemab und Donanemab vergleichen, wünschen sich oft eine eindeutige Antwort darauf, welches Mittel am besten ist.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Alzheimer-Behandlungen in China: Ein Vergleich für Patienten
+- **Subtitle:** Alzheimer-Behandlungen für China vergleichen: passende Patientengruppe, Symptommedikamente, Antikörper, Überwachungsbedarf und Belastung über denselben Zeitraum prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ Bei Nachkontrollen lassen sich aktuelle Funktionsfähigkeit, Symptome, Verträgl
 ## SEO Metadata
 
 - **Primary keyword:** Alzheimer-Behandlungsvergleich
+
+- **Meta title:** Alzheimer-Behandlungen in China: Ein Vergleich für Patienten
+- **Meta description:** Alzheimer-Behandlungen für China vergleichen: passende Patientengruppe, Symptommedikamente, Antikörper, Überwachungsbedarf und Belastung über denselben Zeitraum prüfen.

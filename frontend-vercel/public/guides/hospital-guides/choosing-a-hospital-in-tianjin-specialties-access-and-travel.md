@@ -1,15 +1,17 @@
-# Choosing a Hospital in Tianjin: Specialty Fit, Campus Geography, and the Beijing Question
+# Choosing a Hospital in China: Tianjin and Beijing Referrals
 
 ## Hero
 
-- **Title:** Choosing a Hospital in Tianjin: Specialty Fit, Campus Geography, and the Beijing Question
 - **Category:** Hospital Guides
 - **Subcategory:** Tianjin Care Planning
-- **Subtitle:** Build the trip around one clinical anchor, one recovery base, and one written escalation route—not around a famous name or a fast train.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Conceptual illustration of travellers planning hospital care in Tianjin; the Tianjin-style skyline, hospital, map, and scanner icons do not identify a real campus, route, or endorsement.
+
+
+- **Title:** Choosing a Hospital in China: Tianjin and Beijing Referrals
+- **Subtitle:** Choose a Tianjin hospital by verifying the specialty team, exact campus, recovery base, Beijing referral limits, passport access, transport, emergency backup, and discharge responsibility.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -238,13 +240,15 @@ Only if the treating team confirms fitness to travel and provides a written comp
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-tianjin-specialties-access-and-travel`
-- **Meta title:** Choosing a Hospital in Tianjin: Campuses, Travel, and Beijing Referrals
-- **Meta description:** Choose a Tianjin hospital by verifying the specialty team, exact campus, recovery base, Beijing referral limits, passport access, transport, emergency backup, and discharge responsibility.
 - **Primary keyword:** choosing a hospital in Tianjin
 - **Pillar keyword:** Tianjin hospitals for international patients
 - **Vertical keyword:** Tianjin hospital specialties campuses travel
 - **Search intent:** hospital comparison / Tianjin medical travel planning
 - **Secondary keywords:** Tianjin hospital campus; Tianjin or Beijing treatment; Tianjin hospital passport; Tianjin South hospital; Tianjin 120 emergency
+
+
+- **Meta title:** Choosing a Hospital in China: Tianjin and Beijing Referrals
+- **Meta description:** Choose a Tianjin hospital by verifying the specialty team, exact campus, recovery base, Beijing referral limits, passport access, transport, emergency backup, and discharge responsibility.
 
 ## Sources
 

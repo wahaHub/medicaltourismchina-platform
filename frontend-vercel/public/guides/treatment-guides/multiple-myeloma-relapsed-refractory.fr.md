@@ -1,12 +1,14 @@
-# Myélome multiple en rechute ou réfractaire : confirmer la progression et choisir le prochain traitement
+# Myélome en rechute ou réfractaire en Chine : réévaluer le traitement
 
 ## Hero
 
-- **Title:** Myélome multiple en rechute ou réfractaire : confirmer la progression et choisir le prochain traitement
 - **Category:** Guides des traitements
 - **Subcategory:** Myélome multiple
-- **Subtitle:** Une hausse de la protéine monoclonale peut faire craindre au patient que tous les traitements disponibles aient cessé de fonctionner.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Myélome en rechute ou réfractaire en Chine : réévaluer le traitement
+- **Subtitle:** Préparez une réévaluation du myélome en Chine en confirmant la progression, les risques pour les organes et les résistances avant de choisir le traitement suivant.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ L’impact émotionnel mérite aussi une attention. La rechute n’efface pas le
 ## SEO Metadata
 
 - **Primary keyword:** traitement du myélome multiple en rechute réfractaire en Chine
+
+- **Meta title:** Myélome en rechute ou réfractaire en Chine : réévaluer le traitement
+- **Meta description:** Préparez une réévaluation du myélome en Chine en confirmant la progression, les risques pour les organes et les résistances avant de choisir le traitement suivant.

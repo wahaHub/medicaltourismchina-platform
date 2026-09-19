@@ -1,12 +1,14 @@
-# Can Hodgkin lymphoma be cured? Making sense of remission, survival, and relapse risk
+# Hodgkin Lymphoma Prognosis: Questions for Care in China
 
 ## Hero
 
-- **Title:** Can Hodgkin lymphoma be cured? Making sense of remission, survival, and relapse risk
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Hodgkin Lymphoma
-- **Subtitle:** “Can this be cured?” is often the question a person most wants to ask after a diagnosis of Hodgkin lymphoma.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Hodgkin Lymphoma Prognosis: Questions for Care in China
+- **Subtitle:** Understand Hodgkin lymphoma remission, survival and relapse risk, including how to assess outcome claims when discussing care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ If only one issue can be resolved today, ask the doctor to state the current tre
 ## SEO Metadata
 
 - **Primary keyword:** Hodgkin lymphoma prognosis and survival
+
+- **Meta title:** Hodgkin Lymphoma Prognosis: Questions for Care in China
+- **Meta description:** Understand Hodgkin lymphoma remission, survival and relapse risk, including how to assess outcome claims when discussing care in China.

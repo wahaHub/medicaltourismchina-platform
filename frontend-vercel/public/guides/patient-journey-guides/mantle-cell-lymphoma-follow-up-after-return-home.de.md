@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Heimkehr nach einer Mantelzelllymphom-Behandlung in China: So gelingt die Nachsorge
 - **Category:** Leitfäden zum Patientenweg
 - **Subcategory:** Mantelzelllymphom
-- **Subtitle:** Die Entlassung aus einem chinesischen Krankenhaus bezeichnet keine einheitliche Phase der Mantelzelllymphom-Versorgung.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Heimkehr nach einer Mantelzelllymphom-Behandlung in China: So gelingt die Nachsorge
+- **Subtitle:** Nach Mantelzelllymphom-Behandlung in China die Übergabe planen: konkrete Kontrolltermine, Medikamentenfortführung, dringliche Symptome und besondere Nachsorge klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Wird weitere Behandlung nötig, sind das vorherige Schema, die Dauer des Ansprec
 ## SEO Metadata
 
 - **Primary keyword:** Mantelzelllymphom Nachsorge nach Behandlung in China
+
+- **Meta title:** Heimkehr nach einer Mantelzelllymphom-Behandlung in China: So gelingt die Nachsorge
+- **Meta description:** Nach Mantelzelllymphom-Behandlung in China die Übergabe planen: konkrete Kontrolltermine, Medikamentenfortführung, dringliche Symptome und besondere Nachsorge klären.

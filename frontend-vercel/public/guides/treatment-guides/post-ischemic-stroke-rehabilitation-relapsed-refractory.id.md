@@ -1,12 +1,14 @@
-# Perburukan Mendadak atau Penurunan Bertahap Selama Rehabilitasi Stroke: Apa yang Perlu Dinilai?
+# Perburukan Selama Rehabilitasi Stroke di Tiongkok: Kapan Mencari Bantuan
 
 ## Hero
 
-- **Title:** Perburukan Mendadak atau Penurunan Bertahap Selama Rehabilitasi Stroke: Apa yang Perlu Dinilai?
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Rehabilitasi Pascastroke Iskemik
-- **Subtitle:** Seseorang yang kemarin dapat berjalan dengan bantuan tiba-tiba tidak dapat menggerakkan satu tungkai ke depan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Perburukan Selama Rehabilitasi Stroke di Tiongkok: Kapan Mencari Bantuan
+- **Subtitle:** Kenali perburukan mendadak atau bertahap selama rehabilitasi stroke di Tiongkok. Catat perubahan dan waktu mulai untuk menentukan kebutuhan pertolongan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Ketika situasi medis memungkinkan rehabilitasi berlanjut, tujuan harus mencermin
 ## SEO Metadata
 
 - **Primary keyword:** gejala memburuk selama rehabilitasi stroke
+
+- **Meta title:** Perburukan Selama Rehabilitasi Stroke di Tiongkok: Kapan Mencari Bantuan
+- **Meta description:** Kenali perburukan mendadak atau bertahap selama rehabilitasi stroke di Tiongkok. Catat perubahan dan waktu mulai untuk menentukan kebutuhan pertolongan.

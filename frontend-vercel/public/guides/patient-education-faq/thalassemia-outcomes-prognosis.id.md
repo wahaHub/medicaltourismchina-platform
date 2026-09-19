@@ -1,12 +1,14 @@
-# Berapa lama seseorang dengan talasemia dapat hidup? Memahami prognosis, hasil pengobatan, dan kehidupan sehari-hari
+# Prognosis Talasemia: Pertanyaan untuk Penilaian di Tiongkok
 
 ## Hero
 
-- **Title:** Berapa lama seseorang dengan talasemia dapat hidup? Memahami prognosis, hasil pengobatan, dan kehidupan sehari-hari
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Talasemia
-- **Subtitle:** Pertanyaan tentang harapan hidup sering muncul sebelum keluarga sempat memahami diagnosis.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prognosis Talasemia: Pertanyaan untuk Penilaian di Tiongkok
+- **Subtitle:** Tinjau prognosis talasemia melalui anemia, beban zat besi, kesehatan organ, dan perawatan. Siapkan pertanyaan untuk penilaian di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ Konsultasi produktif sebaiknya memberikan pasien penilaian yang dapat direvisi: 
 ## SEO Metadata
 
 - **Primary keyword:** prognosis talasemia; harapan hidup dengan talasemia; hasil transplantasi; perawatan talasemia jangka panjang di Tiongkok
+
+- **Meta title:** Prognosis Talasemia: Pertanyaan untuk Penilaian di Tiongkok
+- **Meta description:** Tinjau prognosis talasemia melalui anemia, beban zat besi, kesehatan organ, dan perawatan. Siapkan pertanyaan untuk penilaian di Tiongkok.

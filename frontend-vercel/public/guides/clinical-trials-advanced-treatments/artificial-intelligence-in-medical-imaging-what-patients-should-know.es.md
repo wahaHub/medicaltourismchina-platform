@@ -1,15 +1,17 @@
-# 089 Inteligencia artificial en las imágenes médicas: lo que deben saber los pacientes
+# Inteligencia artificial en imagen médica en China: qué deben saber los pacientes
 
 ## Hero
 
-- **Title:** Inteligencia artificial en las imágenes médicas: lo que deben saber los pacientes
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Imágenes, software y decisiones clínicas
-- **Subtitle:** Averigüe qué hace realmente el software, quién lo supervisa y si modifica su atención.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustración conceptual de un profesional de radiología que comenta una imagen torácica y el apoyo de la IA con un paciente; no es una imagen real ni un resultado diagnóstico.
+
+
+- **Title:** Inteligencia artificial en imagen médica en China: qué deben saber los pacientes
+- **Subtitle:** Comprenda qué hace la IA de imagen, cómo verificar su producto y evidencia, los resultados falsos, la supervisión radiológica, la privacidad y los documentos para una segunda opinión.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -163,11 +165,13 @@ Lleve el estudio DICOM original, el informe final y sus adendas, las imágenes p
 ## SEO Metadata
 
 - **Slug:** `artificial-intelligence-in-medical-imaging-what-patients-should-know`
-- **Meta title:** IA en las imágenes médicas: guía para pacientes
-- **Meta description:** Comprenda qué hace la IA de imagen, cómo verificar su producto y evidencia, los resultados falsos, la supervisión radiológica, la privacidad y los documentos para una segunda opinión.
 - **Primary keyword:** IA en las imágenes médicas
 - **Secondary keywords:** inteligencia artificial en radiología; exactitud de la IA de imagen; falso positivo de IA de imagen; software de imágenes médicas NMPA; informe radiológico con IA
 - **Search intent:** explicación tecnológica / apoyo a decisiones de imagen
+
+
+- **Meta title:** Inteligencia artificial en imagen médica en China: qué deben saber los pacientes
+- **Meta description:** Comprenda qué hace la IA de imagen, cómo verificar su producto y evidencia, los resultados falsos, la supervisión radiológica, la privacidad y los documentos para una segunda opinión.
 
 ## Fuentes
 

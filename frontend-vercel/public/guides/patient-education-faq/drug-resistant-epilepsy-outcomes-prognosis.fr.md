@@ -1,12 +1,14 @@
-# Pronostic de l’épilepsie pharmacorésistante : absence de crises, amélioration significative et réévaluation à long terme
+# Pronostic de l’épilepsie pharmacorésistante : questions pour des soins en Chine
 
 ## Hero
 
-- **Title:** Pronostic de l’épilepsie pharmacorésistante : absence de crises, amélioration significative et réévaluation à long terme
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Épilepsie pharmacorésistante
-- **Subtitle:** Pronostic de l’épilepsie pharmacorésistante : absence de crises, amélioration significative et réévaluation à long terme
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronostic de l’épilepsie pharmacorésistante : questions pour des soins en Chine
+- **Subtitle:** Distinguez absence de crises et réduction de leur fréquence dans l’épilepsie pharmacorésistante pour discuter du pronostic avec une équipe en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ Lorsqu’un objectif n’a pas été atteint, la réponse peut consister à pré
 ## SEO Metadata
 
 - **Primary keyword:** pronostic de l’épilepsie pharmacorésistante ; résultats du traitement de l’épilepsie ; absence durable de crises ; évaluation des résultats de l’épilepsie en Chine
+
+- **Meta title:** Pronostic de l’épilepsie pharmacorésistante : questions pour des soins en Chine
+- **Meta description:** Distinguez absence de crises et réduction de leur fréquence dans l’épilepsie pharmacorésistante pour discuter du pronostic avec une équipe en Chine.

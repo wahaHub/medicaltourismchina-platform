@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Twenty patient questions about aplastic anemia, treatment, and care in China
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Aplastic Anemia
-- **Subtitle:** People sharing an aplastic anemia diagnosis may be at very different stages of care.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Twenty patient questions about aplastic anemia, treatment, and care in China
+- **Subtitle:** Answers to 20 aplastic anemia questions on severity, medicines, transfusions, transplant, trial evidence and planning care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Fever with significant illness, serious new bleeding, breathing difficulty, ches
 ## SEO Metadata
 
 - **Primary keyword:** aplastic anemia patient questions
+
+- **Meta title:** Twenty patient questions about aplastic anemia, treatment, and care in China
+- **Meta description:** Answers to 20 aplastic anemia questions on severity, medicines, transfusions, transplant, trial evidence and planning care in China.

@@ -1,15 +1,17 @@
-# Antibiotika sind kein Maß dafür, wie „ernst“ eine Infektion ist
+# Antibiotika in China: Fragen zur Entscheidung an Ihren Arzt
 
 ## Hero
 
-- **Title:** Antibiotika sind kein Maß dafür, wie „ernst“ eine Infektion ist
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Medikamente
-- **Subtitle:** Ein praktischer Leitfaden dazu, wann Antibiotika helfen, wann Beobachtung sicherer ist und warum Kulturen, Herdsanierung und ein Kontrolltermin wichtig sind.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Arzt und Patient besprechen ein Entscheidungsblatt zur Medikation neben beschrifteten Medikamentenbehältern
+
+
+- **Title:** Antibiotika in China: Fragen zur Entscheidung an Ihren Arzt
+- **Subtitle:** Erfahren Sie, warum Fieber oder grüner Schleim keine bakterielle Infektion beweisen, wann Antibiotika dringend nötig sind und wie Kulturen, Kontrolltermine und Herdsanierung die Behandlung leiten.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -155,11 +157,13 @@ Kultur, Bildgebung und klinisches Ansprechen haben möglicherweise einen bestimm
 
 ## SEO Metadata
 
-- **SEO title:** Wann sind Antibiotika nötig? Ein Entscheidungsleitfaden für Patienten
-- **Meta description:** Erfahren Sie, warum Fieber oder grüner Schleim keine bakterielle Infektion beweisen, wann Antibiotika dringend nötig sind und wie Kulturen, Kontrolltermine und Herdsanierung die Behandlung leiten.
 - **Primary keyword:** wann sind Antibiotika nötig
 - **Secondary keywords:** Antibiotika bei Virusinfektion, Antibiotikaresistenz, kulturgesteuerte Antibiotika, breit gegenüber schmal wirksamen Antibiotika, Antibiotikanebenwirkungen, verantwortungsvoller Antibiotikaeinsatz
 - **Suggested URL slug:** `/when-antibiotics-are-needed-infection-guide`
+
+
+- **Meta title:** Antibiotika in China: Fragen zur Entscheidung an Ihren Arzt
+- **Meta description:** Erfahren Sie, warum Fieber oder grüner Schleim keine bakterielle Infektion beweisen, wann Antibiotika dringend nötig sind und wie Kulturen, Kontrolltermine und Herdsanierung die Behandlung leiten.
 
 ## Quellen
 

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Haruskah Anda bepergian ke Tiongkok untuk pengobatan anemia aplastik?
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Anemia Aplastik
-- **Subtitle:** Rujukan luar negeri yang berguna dimulai dengan tugas klinis yang jelas.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Haruskah Anda bepergian ke Tiongkok untuk pengobatan anemia aplastik?
+- **Subtitle:** Tentukan pertanyaan rujukan anemia aplastik ke Tiongkok sebelum bepergian. Periksa kestabilan, kesinambungan obat, dan kebutuhan dukungan darah.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -111,3 +113,6 @@ Sebelum berkomitmen pada perjalanan, tuliskan masalah klinis yang belum selesai,
 ## SEO Metadata
 
 - **Primary keyword:** bepergian ke Tiongkok untuk pengobatan anemia aplastik
+
+- **Meta title:** Haruskah Anda bepergian ke Tiongkok untuk pengobatan anemia aplastik?
+- **Meta description:** Tentukan pertanyaan rujukan anemia aplastik ke Tiongkok sebelum bepergian. Periksa kestabilan, kesinambungan obat, dan kebutuhan dukungan darah.

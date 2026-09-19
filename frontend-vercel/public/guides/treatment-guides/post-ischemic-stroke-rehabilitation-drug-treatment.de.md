@@ -1,12 +1,14 @@
-# Medikamente während der Schlaganfallrehabilitation: Vorbeugung, Symptomlinderung und Grenzen der Evidenz
+# Medikamente in der Schlaganfallrehabilitation in China: Anwendungen und Grenzen
 
 ## Hero
 
-- **Title:** Medikamente während der Schlaganfallrehabilitation: Vorbeugung, Symptomlinderung und Grenzen der Evidenz
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Rehabilitation nach ischämischem Schlaganfall
-- **Subtitle:** Medikamente während der Schlaganfallrehabilitation werden oft von mehreren Fachrichtungen verordnet.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medikamente in der Schlaganfallrehabilitation in China: Anwendungen und Grenzen
+- **Subtitle:** Medikamente in der Schlaganfallrehabilitation in China einordnen: erneute Gefäßereignisse verhindern, Spastik oder Schmerzen behandeln und Evidenzgrenzen verstehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -131,3 +133,6 @@ Besorgen Sie vor der Entlassung die endgültige Liste der aktiven Medikamente un
 ## SEO Metadata
 
 - **Primary keyword:** Medikamente während der Rehabilitation nach ischämischem Schlaganfall
+
+- **Meta title:** Medikamente in der Schlaganfallrehabilitation in China: Anwendungen und Grenzen
+- **Meta description:** Medikamente in der Schlaganfallrehabilitation in China einordnen: erneute Gefäßereignisse verhindern, Spastik oder Schmerzen behandeln und Evidenzgrenzen verstehen.

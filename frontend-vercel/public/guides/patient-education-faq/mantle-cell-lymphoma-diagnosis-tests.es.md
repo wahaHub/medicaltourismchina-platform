@@ -1,12 +1,14 @@
-# ¿Qué pruebas diagnostican el linfoma de células del manto? Comprender la biopsia, PET/CT, médula ósea y pruebas genéticas
+# Diagnóstico de linfoma de células del manto en China: biopsia y pruebas
 
 ## Hero
 
-- **Title:** ¿Qué pruebas diagnostican el linfoma de células del manto? Comprender la biopsia, PET/CT, médula ósea y pruebas genéticas
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma de células del manto
-- **Subtitle:** Búsquedas relacionadas: biopsia de LCM; estadificación del linfoma de células del manto; revisión anatomopatológica en China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnóstico de linfoma de células del manto en China: biopsia y pruebas
+- **Subtitle:** Comprenda el papel de biopsia, PET/TC, médula ósea y genética en el diagnóstico del linfoma de células del manto para preparar una evaluación en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Al finalizar la evaluación, pida al profesional que explique con palabras corri
 ## SEO Metadata
 
 - **Primary keyword:** pruebas diagnósticas del linfoma de células del manto
+
+- **Meta title:** Diagnóstico de linfoma de células del manto en China: biopsia y pruebas
+- **Meta description:** Comprenda el papel de biopsia, PET/TC, médula ósea y genética en el diagnóstico del linfoma de células del manto para preparar una evaluación en China.

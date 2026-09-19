@@ -1,12 +1,14 @@
-# Tests for suspected multiple myeloma: what each step is meant to establish
+# Multiple Myeloma Diagnosis in China: Tests and Preparation
 
 ## Hero
 
-- **Title:** Tests for suspected multiple myeloma: what each step is meant to establish
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Multiple Myeloma
-- **Subtitle:** An abnormal blood protein, persistent back pain, or an unexpected decline in kidney function can lead to an investigation for a plasma-cell disorder.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Multiple Myeloma Diagnosis in China: Tests and Preparation
+- **Subtitle:** Understand the roles of blood, marrow and imaging tests for suspected myeloma, and prepare an organized diagnostic review in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ At the end of the workup, you do not need every number to be normal in order to 
 ## SEO Metadata
 
 - **Primary keyword:** multiple myeloma diagnostic tests
+
+- **Meta title:** Multiple Myeloma Diagnosis in China: Tests and Preparation
+- **Meta description:** Understand the roles of blood, marrow and imaging tests for suspected myeloma, and prepare an organized diagnostic review in China.

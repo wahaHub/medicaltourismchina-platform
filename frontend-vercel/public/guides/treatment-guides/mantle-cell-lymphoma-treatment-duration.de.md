@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Wie lange dauert die Behandlung des Mantelzelllymphoms? Zyklen, Erhaltungstherapie und Planung eines Aufenthalts in China
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Mantelzelllymphom
-- **Subtitle:** Mit Behandlungsdauer kann Verschiedenes gemeint sein: die Vorbereitung vor der ersten Dosis, die Dauer der intensiven Behandlung, die Erhaltungstherapie oder fortlaufende Tabletteneinnahme und der Zeitpunkt, ab dem Sie nach Hause oder zur Arbeit zurückkehren können.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Wie lange dauert die Behandlung des Mantelzelllymphoms? Zyklen, Erhaltungstherapie und Planung eines Aufenthalts in China
+- **Subtitle:** Den Aufenthalt bei Mantelzelllymphom in China planen: Anfangstherapie, Erhaltung, fortlaufende Tabletten und Erholung nach Transplantation oder Zelltherapie unterscheiden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Ein hilfreicher Zeitplan benennt die aktuelle Phase, Voraussetzungen für den n�
 ## SEO Metadata
 
 - **Primary keyword:** Behandlungsdauer Mantelzelllymphom
+
+- **Meta title:** Wie lange dauert die Behandlung des Mantelzelllymphoms? Zyklen, Erhaltungstherapie und Planung eines Aufenthalts in China
+- **Meta description:** Den Aufenthalt bei Mantelzelllymphom in China planen: Anfangstherapie, Erhaltung, fortlaufende Tabletten und Erholung nach Transplantation oder Zelltherapie unterscheiden.

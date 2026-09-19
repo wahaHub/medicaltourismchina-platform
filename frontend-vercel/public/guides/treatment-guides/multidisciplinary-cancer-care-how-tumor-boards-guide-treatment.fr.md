@@ -1,15 +1,17 @@
-# 028 Soins multidisciplinaires du cancer : comment les réunions de concertation guident le traitement
+# Concertation en cancérologie en Chine : comment l’équipe multidisciplinaire guide le traitement
 
 ## Hero
 
-- **Title:** Soins multidisciplinaires du cancer : comment les réunions de concertation guident le traitement
 - **Category:** Guides des traitements
 - **Subcategory:** Planification du traitement du cancer
-- **Subtitle:** Comprendre qui a examiné le dossier, quelles données étaient disponibles, comment la recommandation a été consignée et à quel moment la décision du patient intervient.
 - **Reviewed by:** Équipe éditoriale de Medora Health ; examen de la gouvernance des équipes multidisciplinaires d’oncologie et de la décision partagée requis avant publication
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Chirurgiens, oncologues médicaux, radiothérapeutes, radiologues et anatomopathologistes examinent ensemble un dossier de cancer
+
+
+- **Title:** Concertation en cancérologie en Chine : comment l’équipe multidisciplinaire guide le traitement
+- **Subtitle:** Découvrez comment les réunions de concertation examinent les données, consignent les options et incertitudes, intègrent les préférences du patient et transforment une recommandation multidisciplinaire en actions.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -231,13 +233,15 @@ Lorsqu’un diagnostic, un stade, un biomarqueur, une réponse, une toxicité, u
 ## SEO Metadata
 
 - **Slug:** `multidisciplinary-cancer-care-how-tumor-boards-guide-treatment`
-- **Meta title:** Comment les réunions de concertation en cancérologie guident le traitement
-- **Meta description:** Découvrez comment les réunions de concertation examinent les données, consignent les options et incertitudes, intègrent les préférences du patient et transforment une recommandation multidisciplinaire en actions.
 - **Primary keyword:** soins multidisciplinaires du cancer
 - **Pillar keyword:** traitement du cancer en Chine
 - **Vertical keyword:** comment les réunions de concertation guident le traitement
 - **Search intent:** information sur la planification thérapeutique / évaluation d’un service multidisciplinaire
 - **Secondary keywords:** équipe multidisciplinaire du cancer en Chine ; revue en réunion de concertation ; oncologie multidisciplinaire ; réunion de planification du traitement du cancer
+
+
+- **Meta title:** Concertation en cancérologie en Chine : comment l’équipe multidisciplinaire guide le traitement
+- **Meta description:** Découvrez comment les réunions de concertation examinent les données, consignent les options et incertitudes, intègrent les préférences du patient et transforment une recommandation multidisciplinaire en actions.
 
 ## Sources
 

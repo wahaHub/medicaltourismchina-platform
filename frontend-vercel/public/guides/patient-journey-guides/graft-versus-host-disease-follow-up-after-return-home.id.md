@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Tindak lanjut setelah pengobatan GVHD di Tiongkok: menghubungkan pemeriksaan, resep, dan perawatan organ di negara asal
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Penyakit Graft Versus Host
-- **Subtitle:** Kesulitan utama setelah pulang mungkin berupa tanggung jawab yang tidak jelas, bukan ketiadaan surat pemulangan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tindak lanjut setelah pengobatan GVHD di Tiongkok: menghubungkan pemeriksaan, resep, dan perawatan organ di negara asal
+- **Subtitle:** Atur tindak lanjut GVHD setelah perawatan di Tiongkok dengan pembagian tugas pemeriksaan, penyesuaian resep, penurunan dosis, dan pemantauan organ.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Rencana kepulangan yang efektif memperjelas tindakan berikutnya, tujuan pengirim
 ## SEO Metadata
 
 - **Primary keyword:** tindak lanjut setelah pengobatan GVHD di Tiongkok
+
+- **Meta title:** Tindak lanjut setelah pengobatan GVHD di Tiongkok: menghubungkan pemeriksaan, resep, dan perawatan organ di negara asal
+- **Meta description:** Atur tindak lanjut GVHD setelah perawatan di Tiongkok dengan pembagian tugas pemeriksaan, penyesuaian resep, penurunan dosis, dan pemantauan organ.

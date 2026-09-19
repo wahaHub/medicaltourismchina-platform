@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Was kostet die Behandlung medikamentenresistenter Epilepsie in China? Eine brauchbare Schätzung erstellen
 - **Category:** Kosten- und Versicherungsratgeber
 - **Subcategory:** Medikamentenresistente Epilepsie
-- **Subtitle:** Patienten möchten verständlicherweise vor der Wahl ihres Behandlungsorts wissen, worauf sie sich finanziell vorbereiten müssen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Was kostet die Behandlung medikamentenresistenter Epilepsie in China? Eine brauchbare Schätzung erstellen
+- **Subtitle:** Kosten bei pharmakoresistenter Epilepsie in China prüfen: Video-EEG, invasive Abklärung, Eingriffe, Medikamente und langfristige Gerätebetreuung getrennt kalkulieren.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -171,3 +173,6 @@ Am hilfreichsten sind die ärztliche Erklärung, weshalb Leistungen nötig sind,
 ## SEO Metadata
 
 - **Primary keyword:** Behandlungskosten medikamentenresistenter Epilepsie in China; Budget für Epilepsiechirurgie; SEEG-Kosten; Epilepsie-Versicherungsschutz in China
+
+- **Meta title:** Was kostet die Behandlung medikamentenresistenter Epilepsie in China? Eine brauchbare Schätzung erstellen
+- **Meta description:** Kosten bei pharmakoresistenter Epilepsie in China prüfen: Video-EEG, invasive Abklärung, Eingriffe, Medikamente und langfristige Gerätebetreuung getrennt kalkulieren.

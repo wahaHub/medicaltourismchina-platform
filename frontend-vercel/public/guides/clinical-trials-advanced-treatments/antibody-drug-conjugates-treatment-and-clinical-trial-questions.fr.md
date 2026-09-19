@@ -1,15 +1,17 @@
-# 079 Conjugués anticorps-médicament : questions sur le traitement et les essais cliniques
+# Conjugués anticorps-médicament en Chine : traitements, essais, cibles et risques
 
 ## Hero
 
-- **Title:** Conjugués anticorps-médicament : questions sur le traitement et les essais cliniques
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Oncologie de précision
-- **Subtitle:** Lisez une proposition d’ADC comme un système complet anticorps-agent de liaison-charge active, puis vérifiez la cible tumorale, l’indication exacte, la dose, l’association et le plan de surveillance.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Remplacement nécessaire : schéma exact d’ADC montrant un anticorps, un agent de liaison et une charge active se liant à une cible de cellule tumorale, avec tests de biomarqueurs et surveillance de perfusion.
+
+
+- **Title:** Conjugués anticorps-médicament en Chine : traitements, essais, cibles et risques
+- **Subtitle:** Évaluez un conjugué anticorps-médicament selon sa cible, son anticorps, sa liaison et sa charge, puis vérifiez l’autorisation chinoise, la cohorte d’essai, les toxicités et la surveillance.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -171,11 +173,13 @@ Pas sur ce seul fait. Vérifiez l’autorisation NMPA actuelle, l’indication c
 ## SEO Metadata
 
 - **Slug:** `antibody-drug-conjugates-treatment-and-clinical-trial-questions`
-- **Meta title:** Traitement et essais d’ADC : cibles, risques et questions
-- **Meta description:** Évaluez un conjugué anticorps-médicament selon sa cible, son anticorps, sa liaison et sa charge, puis vérifiez l’autorisation chinoise, la cohorte d’essai, les toxicités et la surveillance.
 - **Primary keyword:** traitement par conjugué anticorps-médicament
 - **Secondary keywords:** essai clinique ADC Chine ; test de cible ADC ; effets indésirables ADC ; anticorps agent de liaison charge ; admissibilité ADC
 - **Search intent:** comparaison de traitements ADC / sélection pour essai clinique
+
+
+- **Meta title:** Conjugués anticorps-médicament en Chine : traitements, essais, cibles et risques
+- **Meta description:** Évaluez un conjugué anticorps-médicament selon sa cible, son anticorps, sa liaison et sa charge, puis vérifiez l’autorisation chinoise, la cohorte d’essai, les toxicités et la surveillance.
 
 ## Sources
 

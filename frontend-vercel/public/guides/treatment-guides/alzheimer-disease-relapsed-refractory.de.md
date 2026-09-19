@@ -1,12 +1,14 @@
-# Alzheimer verschlechtert sich trotz Behandlung: Was sollte als Nächstes geschehen?
+# Verschlechterung bei Alzheimer: Vorbereitung auf eine Neubewertung in China
 
 ## Hero
 
-- **Title:** Alzheimer verschlechtert sich trotz Behandlung: Was sollte als Nächstes geschehen?
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Alzheimer-Krankheit
-- **Subtitle:** Wenn Gedächtnis oder Alltagsfunktion während der Behandlung weiter nachlassen, fragen sich Familien möglicherweise, ob die Erkrankung zurückgekehrt ist, resistent geworden ist oder sofort ein stärkeres Medikament benötigt wird.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Verschlechterung bei Alzheimer: Vorbereitung auf eine Neubewertung in China
+- **Subtitle:** Verschlechterung bei Alzheimer vor einer Neubewertung in China dokumentieren: zeitlichen Verlauf, tatsächliche Medikamenteneinnahme und neue Beschwerden erfassen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ Ein anderes Medikament zu finden ist nur eine mögliche Reaktion. Eine Überprü
 ## SEO Metadata
 
 - **Primary keyword:** Alzheimer verschlechtert sich trotz Behandlung
+
+- **Meta title:** Verschlechterung bei Alzheimer: Vorbereitung auf eine Neubewertung in China
+- **Meta description:** Verschlechterung bei Alzheimer vor einer Neubewertung in China dokumentieren: zeitlichen Verlauf, tatsächliche Medikamenteneinnahme und neue Beschwerden erfassen.

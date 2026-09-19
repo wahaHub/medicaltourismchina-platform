@@ -1,15 +1,17 @@
-# Voyage médical des personnes âgées : organiser selon les capacités, pas selon la date de naissance
+# Voyage médical en Chine des personnes âgées : soins et soutien
 
 ## Hero
 
-- **Title:** Voyage médical des personnes âgées : organiser selon les capacités, pas selon la date de naissance
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Maladies chroniques et voyage
-- **Subtitle:** Un cadre pratique pour évaluer les capacités fonctionnelles, les médicaments, le risque de syndrome confusionnel, les possibilités de l’aidant et la récupération avant qu’une personne âgée voyage pour des soins.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Une personne âgée et son accompagnant examinent un plan de voyage médical et de récupération avec un clinicien
+
+
+- **Title:** Voyage médical en Chine des personnes âgées : soins et soutien
+- **Subtitle:** Organisez le voyage médical d’une personne âgée selon sa fragilité, ses capacités, ses médicaments, la prévention du syndrome confusionnel, l’aide disponible et un suivi sûr.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Ne fixez pas la date du retour avant de connaître la récupération. L’hébergement à la sortie, le transport et le suivi doivent correspondre aux nouvelles capacités du patient, pas à celles d’avant le traitement.
 
 ## Content
+
+Pour organiser des soins en Chine pour une personne âgée, commencez par ses capacités quotidiennes, ses médicaments et le soutien disponible pendant le trajet et la récupération. Ce guide aide les familles à préparer cette discussion sans considérer que l’âge seul permet de décider si le voyage est sûr.
+
 
 La catégorie « personne âgée » ne correspond pas à un risque unique. Une personne de 82 ans physiquement active qui gère seule ses médicaments et ses finances peut voyager plus sûrement qu’une personne de 68 ans présentant des chutes répétées, une perte de poids et une confusion fluctuante. La question utile n’est pas « Ce patient est-il trop âgé ? », mais « Que peut-il faire de manière fiable, qu’est-ce qui est vulnérable au stress et quel soutien restera disponible si la récupération est plus lente que prévu ? »
 
@@ -122,11 +127,13 @@ Reportez et réévaluez en cas de confusion nouvelle, de symptômes instables, d
 
 ## SEO Metadata
 
-- **SEO title:** Voyage médical des personnes âgées : guide des capacités et du soutien
-- **Meta description:** Organisez le voyage médical d’une personne âgée selon sa fragilité, ses capacités, ses médicaments, la prévention du syndrome confusionnel, l’aide disponible et un suivi sûr.
 - **Primary keyword:** voyage médical des personnes âgées
 - **Secondary keywords:** tourisme médical personnes âgées, évaluation gériatrique avant voyage, prévention syndrome confusionnel voyage, aidant voyage médical, récupération patient âgé à l’étranger
 - **Suggested URL slug:** `/medical-travel-older-adults`
+
+
+- **Meta title:** Voyage médical en Chine des personnes âgées : soins et soutien
+- **Meta description:** Organisez le voyage médical d’une personne âgée selon sa fragilité, ses capacités, ses médicaments, la prévention du syndrome confusionnel, l’aide disponible et un suivi sûr.
 
 ## Sources
 

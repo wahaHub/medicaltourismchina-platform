@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Cuánto dura el tratamiento del párkinson? Cambios de medicación, DBS y planificación de una visita a China
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de Parkinson
-- **Subtitle:** La enfermedad de Parkinson generalmente necesita atención continuada, mientras que una visita concreta para tratamiento puede tener un propósito definido y un punto final acordado.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Cuánto dura el tratamiento del párkinson? Cambios de medicación, DBS y planificación de una visita a China
+- **Subtitle:** Planifique una visita por Parkinson a China según el ajuste de medicación, la evaluación y programación de estimulación cerebral profunda o el apoyo a infusiones.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ Dé un propósito a la siguiente cita. Puede ser revisar movilidad nocturna con 
 ## SEO Metadata
 
 - **Primary keyword:** duración del tratamiento de la enfermedad de Parkinson en China
+
+- **Meta title:** ¿Cuánto dura el tratamiento del párkinson? Cambios de medicación, DBS y planificación de una visita a China
+- **Meta description:** Planifique una visita por Parkinson a China según el ajuste de medicación, la evaluación y programación de estimulación cerebral profunda o el apoyo a infusiones.

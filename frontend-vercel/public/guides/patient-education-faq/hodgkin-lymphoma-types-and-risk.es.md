@@ -1,12 +1,14 @@
-# Tipos y grupos de riesgo del linfoma de Hodgkin: qué cambia el tratamiento
+# Tipos y riesgo del linfoma de Hodgkin: segundas opiniones en China
 
 ## Hero
 
-- **Title:** Tipos y grupos de riesgo del linfoma de Hodgkin: qué cambia el tratamiento
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma de Hodgkin
-- **Subtitle:** Los grupos de riesgo del linfoma de Hodgkin son principalmente herramientas para elegir el tratamiento.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tipos y riesgo del linfoma de Hodgkin: segundas opiniones en China
+- **Subtitle:** Distinga tipos de linfoma de Hodgkin, estadio y grupos de riesgo para preparar una segunda opinión sobre las decisiones de tratamiento en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Viajar resulta más útil cuando resuelve una cuestión anatomopatológica, un d
 ## SEO Metadata
 
 - **Primary keyword:** tipos y grupos de riesgo del linfoma de Hodgkin
+
+- **Meta title:** Tipos y riesgo del linfoma de Hodgkin: segundas opiniones en China
+- **Meta description:** Distinga tipos de linfoma de Hodgkin, estadio y grupos de riesgo para preparar una segunda opinión sobre las decisiones de tratamiento en China.

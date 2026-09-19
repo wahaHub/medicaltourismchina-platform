@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Should you travel to China for follicular lymphoma care?
 - **Category:** Patient Journey Guides
 - **Subcategory:** Follicular Lymphoma
-- **Subtitle:** Travel for follicular lymphoma care is most useful when it can resolve a defined gap in the current plan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Should you travel to China for follicular lymphoma care?
+- **Subtitle:** Decide whether a follicular lymphoma consultation in China adds value, with treatment timing, travel readiness and return-home care considered together.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Before departure, you should have a confirmed appointment, an accepted record-tr
 ## SEO Metadata
 
 - **Primary keyword:** who should travel to China for follicular lymphoma treatment
+
+- **Meta title:** Should you travel to China for follicular lymphoma care?
+- **Meta description:** Decide whether a follicular lymphoma consultation in China adds value, with treatment timing, travel readiness and return-home care considered together.

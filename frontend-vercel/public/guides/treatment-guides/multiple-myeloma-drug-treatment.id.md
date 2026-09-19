@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Obat mieloma multipel: memahami resep dan mengatur pengobatan di Tiongkok
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Mieloma Multipel
-- **Subtitle:** Resep mieloma sering berisi beberapa obat antikanker, obat pencegahan, dan steroid, dengan hari pengobatan berbeda untuk masing-masing.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat mieloma multipel: memahami resep dan mengatur pengobatan di Tiongkok
+- **Subtitle:** Pahami resep lengkap mieloma, jadwal obat antikanker, steroid, dan pencegahan komplikasi. Siapkan pemantauan serta kesinambungan terapi di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Mintalah kalender tertulis, tes yang diperlukan sebelum setiap keputusan, dan ja
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan obat mieloma multipel di Tiongkok
+
+- **Meta title:** Obat mieloma multipel: memahami resep dan mengatur pengobatan di Tiongkok
+- **Meta description:** Pahami resep lengkap mieloma, jadwal obat antikanker, steroid, dan pencegahan komplikasi. Siapkan pemantauan serta kesinambungan terapi di Tiongkok.

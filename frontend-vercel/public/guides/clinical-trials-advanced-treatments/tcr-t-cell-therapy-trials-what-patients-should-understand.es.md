@@ -1,15 +1,17 @@
-# 078 Ensayos de terapia celular TCR-T: qué deben comprender los pacientes
+# Ensayos de TCR-T en China: compatibilidad HLA y elegibilidad
 
 ## Hero
 
-- **Title:** Ensayos de terapia celular TCR-T: qué deben comprender los pacientes
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Inmunoterapia celular
-- **Subtitle:** La compatibilidad con un ensayo depende del alelo HLA exacto, la diana tumoral, el receptor modificado, la cohorte y el proceso de tratamiento, no solo de las palabras «TCR-T».
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustración editorial de células inmunitarias con receptores junto a una conversación sobre selección de pacientes; es únicamente un esquema, no un ensayo de laboratorio ni un producto TCR-T específico.
+
+
+- **Title:** Ensayos de TCR-T en China: compatibilidad HLA y elegibilidad
+- **Subtitle:** Comprenda la compatibilidad con ensayos TCR-T: HLA y dianas tumorales, selección, fabricación celular, riesgos de reactividad cruzada, verificación en China y seguimiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -162,11 +164,13 @@ Solo si lo autorizan el protocolo y el centro tratante. Las complicaciones infla
 ## SEO Metadata
 
 - **Slug:** `tcr-t-cell-therapy-trials-what-patients-should-understand`
-- **Meta title:** Ensayos TCR-T: compatibilidad HLA, elegibilidad y riesgos
-- **Meta description:** Comprenda la compatibilidad con ensayos TCR-T: HLA y dianas tumorales, selección, fabricación celular, riesgos de reactividad cruzada, verificación en China y seguimiento.
 - **Primary keyword:** ensayos de terapia celular TCR-T
 - **Secondary keywords:** compatibilidad HLA TCR-T; elegibilidad TCR-T; receptor de linfocitos T modificado; ensayo TCR-T China; riesgos TCR-T
 - **Search intent:** selección para ensayos TCR-T / decisión sobre tratamiento avanzado
+
+
+- **Meta title:** Ensayos de TCR-T en China: compatibilidad HLA y elegibilidad
+- **Meta description:** Comprenda la compatibilidad con ensayos TCR-T: HLA y dianas tumorales, selección, fabricación celular, riesgos de reactividad cruzada, verificación en China y seguimiento.
 
 ## Fuentes
 

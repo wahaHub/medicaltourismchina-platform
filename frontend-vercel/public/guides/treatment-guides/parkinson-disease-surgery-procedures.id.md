@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Stimulasi otak dalam untuk penyakit Parkinson: penilaian, operasi, dan tindak lanjut setelah pengobatan di Tiongkok
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Parkinson
-- **Subtitle:** Seseorang mungkin berjalan dan berpakaian cukup baik saat obat bekerja, lalu menjadi sangat kaku ketika efeknya memudar.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Stimulasi otak dalam untuk penyakit Parkinson: penilaian, operasi, dan tindak lanjut setelah pengobatan di Tiongkok
+- **Subtitle:** Pahami penilaian DBS untuk Parkinson di Tiongkok, termasuk respons obat, kognisi, operasi, pemrograman, dan dukungan setelah pulang.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ Rehabilitasi tetap relevan setelah DBS. Berjalan, keseimbangan, dan aktivitas ha
 ## SEO Metadata
 
 - **Primary keyword:** operasi DBS penyakit Parkinson
+
+- **Meta title:** Stimulasi otak dalam untuk penyakit Parkinson: penilaian, operasi, dan tindak lanjut setelah pengobatan di Tiongkok
+- **Meta description:** Pahami penilaian DBS untuk Parkinson di Tiongkok, termasuk respons obat, kognisi, operasi, pemrograman, dan dukungan setelah pulang.

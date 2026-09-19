@@ -1,15 +1,17 @@
-# 跨境分享医疗记录时如何保护隐私
+# 向中国分享医疗记录：隐私保护与知情同意
 
 ## Hero
 
-- **Title:** 跨境分享医疗记录时如何保护隐私
 - **Category:** 中国医疗指南
 - **Subcategory:** 隐私与跨境病历
-- **Subtitle:** 认清每一位接收者，只发送完成任务所需资料，使用可控渠道，并为每个人的访问权限设定终点。
 - **Reviewed by:** Medora Health 编辑团队；发布前需完成中国数据保护、隐私和信息安全审核
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 患者与医生共同查看医疗记录的安全跨境传输路径
+
+
+- **Title:** 向中国分享医疗记录：隐私保护与知情同意
+- **Subtitle:** 明确每个接收方、最小化病历、使用安全传输，并管理跨境医疗数据的同意、权限、元数据和删除。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -244,13 +246,15 @@ PDF和办公文件可能保存作者、修订历史、批注及内嵌附件；�
 ## SEO Metadata
 
 - **Slug:** `protecting-your-medical-privacy-when-sharing-records-internationally`
-- **Meta title:** 跨境分享病历时如何保护医疗隐私
-- **Meta description:** 明确每个接收方、最小化病历、使用安全传输，并管理跨境医疗数据的同意、权限、元数据和删除。
 - **Primary keyword:** 中国跨境病历隐私
 - **Pillar keyword:** 国际患者在中国就医
 - **Vertical keyword:** 安全跨境分享医疗记录
 - **Search intent:** 信息查询 / 隐私风险管理
 - **Secondary keywords:** 中国健康数据出境；个人信息保护法医疗记录；医院病历安全上传
+
+
+- **Meta title:** 向中国分享医疗记录：隐私保护与知情同意
+- **Meta description:** 明确每个接收方、最小化病历、使用安全传输，并管理跨境医疗数据的同意、权限、元数据和删除。
 
 ## Sources
 

@@ -1,12 +1,14 @@
-# Medicines for Hodgkin lymphoma: understanding chemotherapy, CD30 treatment, and PD-1 therapy
+# Hodgkin Lymphoma Medicines in China: Options and Access
 
 ## Hero
 
-- **Title:** Medicines for Hodgkin lymphoma: understanding chemotherapy, CD30 treatment, and PD-1 therapy
 - **Category:** Treatment Guides
 - **Subcategory:** Hodgkin Lymphoma
-- **Subtitle:** Seeing ABVD, AVD, BV, and PD-1 on the same treatment page can make a first prescription for Hodgkin lymphoma difficult to understand.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Hodgkin Lymphoma Medicines in China: Options and Access
+- **Subtitle:** Understand Hodgkin lymphoma chemotherapy, CD30-directed treatment and PD-1 therapy, with checks for the proposed regimen and access in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -138,3 +140,6 @@ At the end of a drug consultation, try to leave with a clear answer about the ex
 ## SEO Metadata
 
 - **Primary keyword:** Hodgkin lymphoma drug treatment
+
+- **Meta title:** Hodgkin Lymphoma Medicines in China: Options and Access
+- **Meta description:** Understand Hodgkin lymphoma chemotherapy, CD30-directed treatment and PD-1 therapy, with checks for the proposed regimen and access in China.

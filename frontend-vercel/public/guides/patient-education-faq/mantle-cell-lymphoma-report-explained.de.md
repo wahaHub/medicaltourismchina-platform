@@ -1,12 +1,14 @@
-# Einen Mantelzell-Lymphom-Befund lesen: Cyclin D1, SOX11, Ki-67 und TP53 erklärt
+# Befunde zum Mantelzelllymphom: Vorbereitung auf eine Prüfung in China
 
 ## Hero
 
-- **Title:** Einen Mantelzell-Lymphom-Befund lesen: Cyclin D1, SOX11, Ki-67 und TP53 erklärt
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Mantelzell-Lymphom
-- **Subtitle:** Verwandte Suchanfragen: Cyclin D1 positiv; MCL Ki-67; TP53-Mutation beim Mantelzell-Lymphom
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Befunde zum Mantelzelllymphom: Vorbereitung auf eine Prüfung in China
+- **Subtitle:** Mantelzelllymphom-Befunde für eine Prüfung in China verstehen: Cyclin D1, SOX11, Ki-67 und TP53 sowie Unterschiede zwischen Färbung und genetischem Test einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -143,3 +145,6 @@ Halten Sie Original- und Übersetzungsbefunde miteinander verknüpft. Wörter wi
 ## SEO Metadata
 
 - **Primary keyword:** Pathologiebefund beim Mantelzell-Lymphom
+
+- **Meta title:** Befunde zum Mantelzelllymphom: Vorbereitung auf eine Prüfung in China
+- **Meta description:** Mantelzelllymphom-Befunde für eine Prüfung in China verstehen: Cyclin D1, SOX11, Ki-67 und TP53 sowie Unterschiede zwischen Färbung und genetischem Test einordnen.

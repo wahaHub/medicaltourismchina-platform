@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Faut-il voyager en Chine pour traiter un syndrome myélodysplasique ? Définir le bénéfice avant de réserver
 - **Category:** Guides du parcours patient
 - **Subcategory:** Syndrome myélodysplasique
-- **Subtitle:** Avant d’organiser une consultation à l’étranger pour un syndrome myélodysplasique, écrivez le problème médical que la visite doit résoudre.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Faut-il voyager en Chine pour traiter un syndrome myélodysplasique ? Définir le bénéfice avant de réserver
+- **Subtitle:** Avant un voyage pour syndrome myélodysplasique en Chine, précisez l’objectif de l’avis, le rôle d’une greffe et les vérifications concernant médicaments ou essais.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Utilisez cet article pour préparer une consultation d’hématologie. Les clini
 ## SEO Metadata
 
 - **Primary keyword:** traitement du syndrome myélodysplasique en Chine
+
+- **Meta title:** Faut-il voyager en Chine pour traiter un syndrome myélodysplasique ? Définir le bénéfice avant de réserver
+- **Meta description:** Avant un voyage pour syndrome myélodysplasique en Chine, précisez l’objectif de l’avis, le rôle d’une greffe et les vérifications concernant médicaments ou essais.

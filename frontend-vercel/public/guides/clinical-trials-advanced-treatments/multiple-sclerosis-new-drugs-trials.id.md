@@ -1,12 +1,14 @@
-# Obat baru dan uji klinis sklerosis multipel: menafsirkan perkembangan pada 2026
+# Obat Baru dan Uji Klinis Sklerosis Multipel: Memeriksa Akses di Tiongkok
 
 ## Hero
 
-- **Title:** Obat baru dan uji klinis sklerosis multipel: menafsirkan perkembangan pada 2026
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Sklerosis Multipel
-- **Subtitle:** Berita tentang mekanisme baru, hasil fase 3 positif, atau terapi sel biasanya menimbulkan pertanyaan praktis: apakah buktinya berkaitan dengan bentuk MS saya, dapatkah saya menerima pengobatan tersebut, dan apa yang diperlukan?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat Baru dan Uji Klinis Sklerosis Multipel: Memeriksa Akses di Tiongkok
+- **Subtitle:** Nilai obat baru dan uji klinis sklerosis multipel menurut pola penyakit, hasil studi, dan risiko. Siapkan pemeriksaan akses perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Keputusan penelitian yang masuk akal memungkinkan ketidakpastian dipahami dan di
 ## SEO Metadata
 
 - **Primary keyword:** obat baru dan uji klinis sklerosis multipel
+
+- **Meta title:** Obat Baru dan Uji Klinis Sklerosis Multipel: Memeriksa Akses di Tiongkok
+- **Meta description:** Nilai obat baru dan uji klinis sklerosis multipel menurut pola penyakit, hasil studi, dan risiko. Siapkan pemeriksaan akses perawatan di Tiongkok.

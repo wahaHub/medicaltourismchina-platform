@@ -1,12 +1,14 @@
-# Membandingkan pengobatan epilepsi resistan obat: obat, reseksi, ablasi, stimulasi, dan terapi diet
+# Epilepsi Resistan Obat di Tiongkok: Membandingkan Pilihan Pengobatan
 
 ## Hero
 
-- **Title:** Membandingkan pengobatan epilepsi resistan obat: obat, reseksi, ablasi, stimulasi, dan terapi diet
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Epilepsi Resistan Obat
-- **Subtitle:** Mulailah dengan menetapkan pilihan yang layak untuk individu tersebut.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Epilepsi Resistan Obat di Tiongkok: Membandingkan Pilihan Pengobatan
+- **Subtitle:** Bandingkan obat, reseksi, ablasi, stimulasi, dan diet untuk epilepsi resistan obat. Bahas kelayakan serta sasaran hasil dengan tim di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -152,3 +154,6 @@ Jika bukti tidak memadai, selesaikan pemeriksaan yang mungkin mengubah pilihan s
 ## SEO Metadata
 
 - **Primary keyword:** perbandingan pengobatan epilepsi resistan obat; obat dibandingkan operasi epilepsi; neurostimulasi epilepsi; ablasi laser di Tiongkok
+
+- **Meta title:** Epilepsi Resistan Obat di Tiongkok: Membandingkan Pilihan Pengobatan
+- **Meta description:** Bandingkan obat, reseksi, ablasi, stimulasi, dan diet untuk epilepsi resistan obat. Bahas kelayakan serta sasaran hasil dengan tim di Tiongkok.

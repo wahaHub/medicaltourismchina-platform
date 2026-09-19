@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Costes del tratamiento del DLBCL en China: cómo elaborar un presupuesto desglosado en yuanes
 - **Category:** Guías de costes y seguros
 - **Subcategory:** Linfoma difuso de células B grandes
-- **Subtitle:** Costes del tratamiento del DLBCL en China: cómo elaborar un presupuesto desglosado en yuanes
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Costes del tratamiento del DLBCL en China: cómo elaborar un presupuesto desglosado en yuanes
+- **Subtitle:** Desglose el presupuesto del linfoma difuso de células B grandes en China por pruebas, ciclos, administración y cuidados de apoyo para comparar estimaciones.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,3 +143,6 @@ Al finalizar, obtenga los cargos reales desglosados y un resumen clínico que di
 ## SEO Metadata
 
 - **Primary keyword:** coste del tratamiento del DLBCL en China
+
+- **Meta title:** Costes del tratamiento del DLBCL en China: cómo elaborar un presupuesto desglosado en yuanes
+- **Meta description:** Desglose el presupuesto del linfoma difuso de células B grandes en China por pruebas, ciclos, administración y cuidados de apoyo para comparar estimaciones.

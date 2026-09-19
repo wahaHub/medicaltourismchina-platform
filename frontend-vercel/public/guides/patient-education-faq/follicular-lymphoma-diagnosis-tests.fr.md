@@ -1,12 +1,14 @@
-# Examens du lymphome folliculaire : choisir une biopsie, établir le stade et préparer le traitement en sécurité
+# Diagnostic du lymphome folliculaire en Chine : biopsie et bilan d’extension
 
 ## Hero
 
-- **Title:** Examens du lymphome folliculaire : choisir une biopsie, établir le stade et préparer le traitement en sécurité
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Lymphome folliculaire
-- **Subtitle:** Un ganglion cervical augmenté de volume ou une imagerie décrivant plusieurs ganglions gonflés n’établit pas un lymphome folliculaire.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnostic du lymphome folliculaire en Chine : biopsie et bilan d’extension
+- **Subtitle:** Comprenez la biopsie, les marqueurs, les analyses sanguines et la TEP/TDM nécessaires au bilan du lymphome folliculaire avant des soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Le transport des prélèvements, le traitement courant des échantillons et les 
 ## SEO Metadata
 
 - **Primary keyword:** examens du lymphome folliculaire
+
+- **Meta title:** Diagnostic du lymphome folliculaire en Chine : biopsie et bilan d’extension
+- **Meta description:** Comprenez la biopsie, les marqueurs, les analyses sanguines et la TEP/TDM nécessaires au bilan du lymphome folliculaire avant des soins en Chine.

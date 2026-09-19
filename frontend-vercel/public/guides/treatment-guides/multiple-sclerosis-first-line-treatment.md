@@ -1,12 +1,14 @@
-# Choosing the first MS treatment: turning an initial prescription into a workable plan
+# Starting MS Treatment in China: Medicines and Follow-Up
 
 ## Hero
 
-- **Title:** Choosing the first MS treatment: turning an initial prescription into a workable plan
 - **Category:** Treatment Guides
 - **Subcategory:** Multiple Sclerosis
-- **Subtitle:** First-line treatment does not necessarily mean every person with MS must begin with the same lower-intensity medicine.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Starting MS Treatment in China: Medicines and Follow-Up
+- **Subtitle:** Turn an initial MS prescription in China into a plan for monitoring, symptom care, medicine continuity and follow-up after the visit.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Request costs for the initial assessment, medicine and administration, follow-up
 ## SEO Metadata
 
 - **Primary keyword:** first-line multiple sclerosis treatment in China
+
+- **Meta title:** Starting MS Treatment in China: Medicines and Follow-Up
+- **Meta description:** Turn an initial MS prescription in China into a plan for monitoring, symptom care, medicine continuity and follow-up after the visit.

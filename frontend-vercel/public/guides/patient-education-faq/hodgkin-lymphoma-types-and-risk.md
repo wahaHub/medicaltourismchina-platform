@@ -1,12 +1,14 @@
-# Types and risk groups of Hodgkin lymphoma: what changes treatment
+# Hodgkin Lymphoma Types and Risk: Second Opinions in China
 
 ## Hero
 
-- **Title:** Types and risk groups of Hodgkin lymphoma: what changes treatment
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Hodgkin Lymphoma
-- **Subtitle:** Risk groups in Hodgkin lymphoma are primarily tools for choosing treatment.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Hodgkin Lymphoma Types and Risk: Second Opinions in China
+- **Subtitle:** Understand Hodgkin lymphoma subtype and risk groups, and prepare questions about treatment decisions for a second opinion in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Travel is most useful when it resolves a pathology question, a genuine risk-clas
 ## SEO Metadata
 
 - **Primary keyword:** Hodgkin lymphoma types and risk groups
+
+- **Meta title:** Hodgkin Lymphoma Types and Risk: Second Opinions in China
+- **Meta description:** Understand Hodgkin lymphoma subtype and risk groups, and prepare questions about treatment decisions for a second opinion in China.

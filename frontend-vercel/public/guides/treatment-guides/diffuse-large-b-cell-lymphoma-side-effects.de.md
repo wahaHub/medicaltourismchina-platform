@@ -1,12 +1,14 @@
-# Nebenwirkungen der DLBCL-Behandlung: Umgang im Alltag und dringliche Beschwerden
+# DLBCL-Behandlung in China: Nebenwirkungen und dringliche Symptome
 
 ## Hero
 
-- **Title:** Nebenwirkungen der DLBCL-Behandlung: Umgang im Alltag und dringliche Beschwerden
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Diffuses großzelliges B-Zell-Lymphom
-- **Subtitle:** Nebenwirkungen während der DLBCL-Behandlung sollten nicht pauschal als normal abgetan werden.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL-Behandlung in China: Nebenwirkungen und dringliche Symptome
+- **Subtitle:** Nebenwirkungen der DLBCL-Behandlung in China besprechen: niedrige Blutwerte, Infektionen, Immunreaktionen, Verdauungsbeschwerden und dringliche Symptome einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Bei Glofitamab kann schwere Entzündung auch eine HLH widerspiegeln. Das Herstel
 ## SEO Metadata
 
 - **Primary keyword:** Nebenwirkungen der DLBCL-Behandlung
+
+- **Meta title:** DLBCL-Behandlung in China: Nebenwirkungen und dringliche Symptome
+- **Meta description:** Nebenwirkungen der DLBCL-Behandlung in China besprechen: niedrige Blutwerte, Infektionen, Immunreaktionen, Verdauungsbeschwerden und dringliche Symptome einordnen.

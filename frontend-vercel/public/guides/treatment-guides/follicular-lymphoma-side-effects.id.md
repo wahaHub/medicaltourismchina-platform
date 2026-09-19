@@ -1,12 +1,14 @@
-# Efek samping pengobatan limfoma folikular: mengenali masalah dan mengetahui kapan mencari bantuan
+# Perawatan Limfoma Folikular di Tiongkok: Efek Samping dan Pertolongan Segera
 
 ## Hero
 
-- **Title:** Efek samping pengobatan limfoma folikular: mengenali masalah dan mengetahui kapan mencari bantuan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Folikular
-- **Subtitle:** Efek samping pengobatan limfoma folikular: mengenali masalah dan mengetahui kapan mencari bantuan
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Perawatan Limfoma Folikular di Tiongkok: Efek Samping dan Pertolongan Segera
+- **Subtitle:** Kenali demam, reaksi infus, perdarahan, dan gejala lain selama pengobatan limfoma folikular di Tiongkok serta kapan mencari pertolongan segera.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Sebelum pulang ke negara asal, dapatkan catatan pemberian obat, hitung darah ter
 ## SEO Metadata
 
 - **Primary keyword:** efek samping pengobatan limfoma folikular
+
+- **Meta title:** Perawatan Limfoma Folikular di Tiongkok: Efek Samping dan Pertolongan Segera
+- **Meta description:** Kenali demam, reaksi infus, perdarahan, dan gejala lain selama pengobatan limfoma folikular di Tiongkok serta kapan mencari pertolongan segera.

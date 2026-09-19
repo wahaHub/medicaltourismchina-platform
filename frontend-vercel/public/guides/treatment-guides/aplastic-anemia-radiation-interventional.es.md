@@ -1,12 +1,14 @@
-# Apoyo transfusional en la anemia aplásica: componentes irradiados, reacciones y carga de hierro
+# Transfusiones para anemia aplásica en China: seguridad y vigilancia
 
 ## Hero
 
-- **Title:** Apoyo transfusional en la anemia aplásica: componentes irradiados, reacciones y carga de hierro
 - **Category:** Guías de tratamiento
 - **Subcategory:** Anemia aplásica
-- **Subtitle:** «Otra transfusión» puede significar glóbulos rojos o plaquetas, que cumplen funciones diferentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Transfusiones para anemia aplásica en China: seguridad y vigilancia
+- **Subtitle:** Comprenda componentes transfusionales, irradiación, reacciones y carga de hierro en anemia aplásica, con preguntas de seguridad para su atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ La frecuencia de apoyo puede diferir entre la espera de respuesta inicial, la en
 ## SEO Metadata
 
 - **Primary keyword:** apoyo transfusional en anemia aplásica
+
+- **Meta title:** Transfusiones para anemia aplásica en China: seguridad y vigilancia
+- **Meta description:** Comprenda componentes transfusionales, irradiación, reacciones y carga de hierro en anemia aplásica, con preguntas de seguridad para su atención en China.

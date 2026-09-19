@@ -1,15 +1,17 @@
-# 160 Asuransi Komplikasi Wisata Medis: Uji Ketahanan Rencana Penyelamatan
+# Perjalanan Medis ke Tiongkok: Memeriksa Asuransi Komplikasi
 
 ## Hero
 
-- **Title:** Asuransi Komplikasi Wisata Medis: Uji Ketahanan Rencana Penyelamatan
 - **Category:** Panduan Biaya & Asuransi
 - **Subcategory:** Pertanggungan Komplikasi
-- **Subtitle:** Uji siapa yang membayar dan siapa yang mengambil kendali jika pengobatan terencana di Tiongkok menyebabkan perawatan darurat, revisi, evakuasi, atau masalah yang muncul belakangan setelah pasien kembali ke negara asal.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Perlu penggantian: peta respons komplikasi empat tahap yang menghubungkan rumah sakit Tiongkok, perawatan penyelamatan darurat, transportasi medis, dan tindak lanjut di negara asal.
+
+
+- **Title:** Perjalanan Medis ke Tiongkok: Memeriksa Asuransi Komplikasi
+- **Subtitle:** Tinjau definisi komplikasi, pengecualian, rentang waktu, batas pengobatan, pembayaran darurat, evakuasi, dan perawatan tertunda setelah perjalanan medis.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -224,13 +226,15 @@ Nomor polis dan bantuan, pengenal paspor/pasien, ringkasan pengobatan, obat dan 
 ## SEO Metadata
 
 - **Slug:** `medical-tourism-complication-insurance-what-to-review`
-- **Meta title:** Asuransi Komplikasi Wisata Medis: Uji Ketahanan Pertanggungan
-- **Meta description:** Tinjau definisi komplikasi, pengecualian, rentang waktu, batas pengobatan, pembayaran darurat, evakuasi, dan perawatan tertunda setelah perjalanan medis.
 - **Primary keyword:** asuransi komplikasi wisata medis
 - **Pillar keyword:** asuransi wisata medis
 - **Vertical keyword:** pertanggungan komplikasi untuk pengobatan luar negeri
 - **Search intent:** perbandingan asuransi / perencanaan risiko
 - **Secondary keywords:** asuransi perjalanan operasi elektif; pertanggungan komplikasi pengobatan luar negeri; asuransi evakuasi medis; pertanggungan revisi wisata medis; perawatan komplikasi setelah kembali ke negara asal
+
+
+- **Meta title:** Perjalanan Medis ke Tiongkok: Memeriksa Asuransi Komplikasi
+- **Meta description:** Tinjau definisi komplikasi, pengecualian, rentang waktu, batas pengobatan, pembayaran darurat, evakuasi, dan perawatan tertunda setelah perjalanan medis.
 
 ## Sumber
 

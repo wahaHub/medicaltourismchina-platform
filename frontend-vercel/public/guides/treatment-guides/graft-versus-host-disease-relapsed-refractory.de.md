@@ -1,12 +1,14 @@
-# Wenn GVHD anhält oder erneut aufflammt: Neubewertung und spätere Behandlungsentscheidungen
+# Anhaltende oder wiederkehrende GVHD: Zweitmeinungen in China
 
 ## Hero
 
-- **Title:** Wenn GVHD anhält oder erneut aufflammt: Neubewertung und spätere Behandlungsentscheidungen
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Graft-versus-Host-Erkrankung
-- **Subtitle:** Wenn GVHD anhält oder erneut aufflammt: Neubewertung und spätere Behandlungsentscheidungen
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Anhaltende oder wiederkehrende GVHD: Zweitmeinungen in China
+- **Subtitle:** Eine Zweitmeinung bei anhaltender GVHD in China vorbereiten: Aufflammen, Unverträglichkeit, andere Ursachen und bleibende Organschäden getrennt bewerten.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,3 +142,6 @@ Wiederholte Behandlungsänderungen sind für Patienten und Betreuungspersonen er
 ## SEO Metadata
 
 - **Primary keyword:** Behandlung refraktärer und wiederkehrender GVHD in China
+
+- **Meta title:** Anhaltende oder wiederkehrende GVHD: Zweitmeinungen in China
+- **Meta description:** Eine Zweitmeinung bei anhaltender GVHD in China vorbereiten: Aufflammen, Unverträglichkeit, andere Ursachen und bleibende Organschäden getrennt bewerten.

@@ -1,12 +1,14 @@
-# Prognosis Penyakit Alzheimer: Hasil Pengobatan, Fungsi Sehari-hari, dan Perawatan Masa Depan
+# Prognosis Alzheimer: Pertanyaan untuk Penilaian di Tiongkok
 
 ## Hero
 
-- **Title:** Prognosis Penyakit Alzheimer: Hasil Pengobatan, Fungsi Sehari-hari, dan Perawatan Masa Depan
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Penyakit Alzheimer
-- **Subtitle:** Setelah diagnosis, keluarga sering ingin mengetahui berapa lama hidup mandiri mungkin berlanjut, apakah pengobatan akan menghentikan penurunan lebih lanjut, dan berapa banyak waktu yang tersisa.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prognosis Alzheimer: Pertanyaan untuk Penilaian di Tiongkok
+- **Subtitle:** Pahami prognosis Alzheimer dari stadium, fungsi sehari-hari, dan respons pengobatan. Siapkan pertanyaan penilaian serta kebutuhan perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -146,3 +148,6 @@ Ketidakpastian tentang masa depan yang tepat tidak menghalangi tindakan berguna 
 ## SEO Metadata
 
 - **Primary keyword:** prognosis penyakit Alzheimer
+
+- **Meta title:** Prognosis Alzheimer: Pertanyaan untuk Penilaian di Tiongkok
+- **Meta description:** Pahami prognosis Alzheimer dari stadium, fungsi sehari-hari, dan respons pengobatan. Siapkan pertanyaan penilaian serta kebutuhan perawatan di Tiongkok.

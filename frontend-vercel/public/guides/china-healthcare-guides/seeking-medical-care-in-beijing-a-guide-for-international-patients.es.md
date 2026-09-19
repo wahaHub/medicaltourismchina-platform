@@ -1,15 +1,17 @@
-# 021 Buscar atención médica en Pekín: guía práctica para pacientes internacionales
+# Atención médica en China: guía del paciente en Pekín
 
 ## Hero
 
-- **Title:** Buscar atención médica en Pekín: guía práctica para pacientes internacionales
 - **Category:** Guías de atención sanitaria en China
 - **Subcategory:** Elegir un destino asistencial
-- **Subtitle:** Elija la modalidad asistencial adecuada en Pekín, confirme la sede exacta y llegue con una cita acorde tanto al problema médico como a las necesidades lingüísticas del paciente.
 - **Reviewed by:** Equipo editorial de Medora Health; se requiere revisión clínica y operativa local antes de la publicación
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un paciente internacional y su acompañante se reúnen con un médico con el horizonte de Pekín tras la ventana
+
+
+- **Title:** Atención médica en China: guía del paciente en Pekín
+- **Subtitle:** Guía práctica de atención médica en Pekín sobre selección de hospital y sede, vías de cita en inglés, pasaportes, pagos, urgencias y seguimiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -191,13 +193,15 @@ Llame al 120 ante una emergencia médica. Beijing 12345 puede ayudar con informa
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-beijing-a-guide-for-international-patients`
-- **Meta title:** Atención médica en Pekín para pacientes internacionales
-- **Meta description:** Guía práctica de atención médica en Pekín sobre selección de hospital y sede, vías de cita en inglés, pasaportes, pagos, urgencias y seguimiento.
 - **Primary keyword:** atención médica en Pekín para pacientes internacionales
 - **Pillar keyword:** atención sanitaria en China para pacientes internacionales
 - **Vertical keyword:** cita hospitalaria en Pekín para extranjeros
 - **Search intent:** planificación práctica / orientación hospitalaria
 - **Secondary keywords:** cita en inglés Beijing 114; servicios médicos internacionales Pekín; paciente extranjero hospital Pekín; emergencias médicas Pekín 120
+
+
+- **Meta title:** Atención médica en China: guía del paciente en Pekín
+- **Meta description:** Guía práctica de atención médica en Pekín sobre selección de hospital y sede, vías de cita en inglés, pasaportes, pagos, urgencias y seguimiento.
 
 ## Fuentes
 

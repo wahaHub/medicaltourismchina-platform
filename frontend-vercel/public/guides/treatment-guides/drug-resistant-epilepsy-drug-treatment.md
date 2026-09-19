@@ -1,12 +1,14 @@
-# Medication for drug-resistant epilepsy: choosing a regimen, checking newer drugs and planning monitoring
+# Drug-Resistant Epilepsy Medicines in China: Access and Monitoring
 
 ## Hero
 
-- **Title:** Medication for drug-resistant epilepsy: choosing a regimen, checking newer drugs and planning monitoring
 - **Category:** Treatment Guides
 - **Subcategory:** Drug Resistant Epilepsy
-- **Subtitle:** After several medications have failed to control seizures, it is understandable to ask whether a stronger or newer medicine is available.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Drug-Resistant Epilepsy Medicines in China: Access and Monitoring
+- **Subtitle:** Review medicine choices for drug-resistant epilepsy, newer-drug claims and monitoring, with China access and prescription continuity checked separately.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -149,3 +151,6 @@ Sustainable improvement requires more than reaching a target on the prescription
 ## SEO Metadata
 
 - **Primary keyword:** drug-resistant epilepsy medication; antiseizure drug treatment; cenobamate in China; combination epilepsy treatment
+
+- **Meta title:** Drug-Resistant Epilepsy Medicines in China: Access and Monitoring
+- **Meta description:** Review medicine choices for drug-resistant epilepsy, newer-drug claims and monitoring, with China access and prescription continuity checked separately.

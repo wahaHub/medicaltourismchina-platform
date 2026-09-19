@@ -1,12 +1,14 @@
-# Untersuchungen beim follikulären Lymphom: Biopsie wählen, Stadium bestimmen und Behandlung sicher vorbereiten
+# Diagnose des follikulären Lymphoms in China: Biopsie und Stadienbestimmung
 
 ## Hero
 
-- **Title:** Untersuchungen beim follikulären Lymphom: Biopsie wählen, Stadium bestimmen und Behandlung sicher vorbereiten
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Follikuläres Lymphom
-- **Subtitle:** Ein vergrößerter Halslymphknoten oder eine Bildgebung mit mehreren geschwollenen Lymphknoten beweist kein follikuläres Lymphom.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnose des follikulären Lymphoms in China: Biopsie und Stadienbestimmung
+- **Subtitle:** Diagnostik beim follikulären Lymphom in China vorbereiten: ausreichende Biopsie, Marker, Blutwerte und Stadienbestimmung auf die nächste Entscheidung abstimmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Probentransport, Routinebearbeitung und zusätzliche Tests haben unterschiedlich
 ## SEO Metadata
 
 - **Primary keyword:** Untersuchungen beim follikulären Lymphom
+
+- **Meta title:** Diagnose des follikulären Lymphoms in China: Biopsie und Stadienbestimmung
+- **Meta description:** Diagnostik beim follikulären Lymphom in China vorbereiten: ausreichende Biopsie, Marker, Blutwerte und Stadienbestimmung auf die nächste Entscheidung abstimmen.

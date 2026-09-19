@@ -1,15 +1,17 @@
-# Un reembolso es un proceso: cancele un viaje médico sin perder el rastro documental
+# Viajes médicos a China: reembolsos y cancelaciones
 
 ## Hero
 
-- **Title:** Un reembolso es un proceso: cancele un viaje médico sin perder el rastro documental
 - **Category:** Guías de costes y seguros
 - **Subcategory:** Riesgo y protección financiera
-- **Subtitle:** Separe los contratos de hospital, facilitador, vuelo y alojamiento; clasifique por qué se detuvo el plan y siga cada importe reembolsable desde el aviso hasta el abono bancario.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Paciente internacional revisando documentos y cálculos de cancelación con un administrador de viajes médicos junto a equipaje preparado
+
+
+- **Title:** Viajes médicos a China: reembolsos y cancelaciones
+- **Subtitle:** Mapee políticas de hospital, vuelo y alojamiento, clasifique por qué se detuvo la atención, calcule deducciones y siga un reembolso de viaje médico a China hasta el banco.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -187,13 +189,15 @@ Obtenga importe aprobado, moneda, fecha de liberación, destino y rastreo del pa
 ## SEO Metadata
 
 - **Slug:** `refund-and-cancellation-policies-for-medical-travel`
-- **Meta title:** Reembolsos de viajes médicos: guía de cancelación y seguimiento
-- **Meta description:** Mapee políticas de hospital, vuelo y alojamiento, clasifique por qué se detuvo la atención, calcule deducciones y siga un reembolso de viaje médico a China hasta el banco.
 - **Primary keyword:** política de reembolso de viaje médico
 - **Pillar keyword:** coste del tratamiento médico en China
 - **Vertical keyword:** cancelar viaje de tratamiento médico China
 - **Search intent:** planificación de cancelación / recuperación de reembolso
 - **Secondary keywords:** reembolso de depósito hospitalario China; cancelación de viaje médico; cancelación aérea por motivos médicos; reembolso de paciente internacional; pago anticipado de tratamiento
+
+
+- **Meta title:** Viajes médicos a China: reembolsos y cancelaciones
+- **Meta description:** Mapee políticas de hospital, vuelo y alojamiento, clasifique por qué se detuvo la atención, calcule deducciones y siga un reembolso de viaje médico a China hasta el banco.
 
 ## Fuentes
 
@@ -203,4 +207,3 @@ Obtenga importe aprobado, moneda, fecha de liberación, destino y rastreo del pa
 4. [Administración de Aviación Civil de China: interpretación de políticas de las disposiciones de servicios de pasajeros](https://www.caac.gov.cn/XXGK/XXGK/ZCJD/202103/t20210315_206803.html)
 5. [Departamento de Transporte de EE. UU.: reembolsos de aerolíneas](https://www.transportation.gov/individuals/aviation-consumer-protection/refunds)
 6. [Unión Europea, Your Europe: derechos de pasajeros aéreos](https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm)
-

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** What Does Mantle Cell Lymphoma Treatment Cost in China? Building an Itemized Renminbi Budget
 - **Category:** Cost & Insurance Guides
 - **Subcategory:** Mantle Cell Lymphoma
-- **Subtitle:** Two quotations may both describe one course of MCL treatment while covering different services.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** What Does Mantle Cell Lymphoma Treatment Cost in China? Building an Itemized Renminbi Budget
+- **Subtitle:** Prepare a mantle cell lymphoma estimate in China using the actual treatment stage, regimen, hospital services and continuing-care requirements.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Open discussion of budget limits may help the team consider appropriate feasible
 ## SEO Metadata
 
 - **Primary keyword:** mantle cell lymphoma treatment cost in China
+
+- **Meta title:** What Does Mantle Cell Lymphoma Treatment Cost in China? Building an Itemized Renminbi Budget
+- **Meta description:** Prepare a mantle cell lymphoma estimate in China using the actual treatment stage, regimen, hospital services and continuing-care requirements.

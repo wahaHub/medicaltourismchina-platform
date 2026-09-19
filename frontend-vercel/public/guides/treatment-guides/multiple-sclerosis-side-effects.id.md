@@ -1,12 +1,14 @@
-# Menangani efek tidak diinginkan pengobatan sklerosis multipel: gejala, pemeriksaan, dan bantuan tepat waktu
+# Pengobatan Sklerosis Multipel di Tiongkok: Efek Samping dan Kapan Mencari Bantuan
 
 ## Hero
 
-- **Title:** Menangani efek tidak diinginkan pengobatan sklerosis multipel: gejala, pemeriksaan, dan bantuan tepat waktu
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Sklerosis Multipel
-- **Subtitle:** Daftar panjang kemungkinan efek tidak diinginkan dapat mempersulit keputusan pengobatan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Sklerosis Multipel di Tiongkok: Efek Samping dan Kapan Mencari Bantuan
+- **Subtitle:** Kenali efek samping obat sklerosis multipel dan tujuan tes pemantauan. Siapkan rencana pelaporan gejala serta pertolongan selama perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Tujuan penanganan efek tidak diinginkan adalah dukungan tepat waktu dan rencana 
 ## SEO Metadata
 
 - **Primary keyword:** efek samping pengobatan sklerosis multipel
+
+- **Meta title:** Pengobatan Sklerosis Multipel di Tiongkok: Efek Samping dan Kapan Mencari Bantuan
+- **Meta description:** Kenali efek samping obat sklerosis multipel dan tujuan tes pemantauan. Siapkan rencana pelaporan gejala serta pertolongan selama perawatan di Tiongkok.

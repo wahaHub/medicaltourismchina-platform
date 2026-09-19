@@ -1,12 +1,14 @@
-# Tindak lanjut DLBCL setelah kembali ke rumah: surveilans, pemulihan, dan serah terima
+# Tindak Lanjut DLBCL Setelah Pengobatan di Tiongkok: Pulang ke Rumah
 
 ## Hero
 
-- **Title:** Tindak lanjut DLBCL setelah kembali ke rumah: surveilans, pemulihan, dan serah terima
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Limfoma Sel B Besar Difus
-- **Subtitle:** Tindak lanjut setelah pengobatan DLBCL di Tiongkok dimulai dengan kesimpulan pengobatan yang jelas dan serah terima yang berjalan baik.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tindak Lanjut DLBCL Setelah Pengobatan di Tiongkok: Pulang ke Rumah
+- **Subtitle:** Siapkan tindak lanjut DLBCL setelah pulang dari Tiongkok dengan penilaian respons, dokter penanggung jawab, jadwal tinjauan, dan rencana pemulihan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Gunakan janji pertama di negara asal untuk mengonfirmasi bahwa serah terima dapa
 ## SEO Metadata
 
 - **Primary keyword:** tindak lanjut DLBCL setelah kembali ke rumah
+
+- **Meta title:** Tindak Lanjut DLBCL Setelah Pengobatan di Tiongkok: Pulang ke Rumah
+- **Meta description:** Siapkan tindak lanjut DLBCL setelah pulang dari Tiongkok dengan penilaian respons, dokter penanggung jawab, jadwal tinjauan, dan rencana pemulihan.

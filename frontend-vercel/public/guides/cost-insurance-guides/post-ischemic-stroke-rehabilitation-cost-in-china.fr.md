@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Coûts de la rééducation après AVC en Chine : établir un budget détaillé en RMB
 - **Category:** Guides des coûts et de l'assurance
 - **Subcategory:** Rééducation après un AVC ischémique
-- **Subtitle:** Un seul montant mensuel ne permet pas de répondre de manière fiable à la question du coût de la rééducation après AVC en Chine.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Coûts de la rééducation après AVC en Chine : établir un budget détaillé en RMB
+- **Subtitle:** Reliez le budget de rééducation après AVC en Chine aux objectifs fonctionnels, au temps des séances et aux unités de facturation du devis hospitalier.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -143,3 +145,6 @@ Un avis utile sur les coûts montre comment les dépenses se rapportent aux obje
 ## SEO Metadata
 
 - **Primary keyword:** coût de la rééducation après AVC en Chine
+
+- **Meta title:** Coûts de la rééducation après AVC en Chine : établir un budget détaillé en RMB
+- **Meta description:** Reliez le budget de rééducation après AVC en Chine aux objectifs fonctionnels, au temps des séances et aux unités de facturation du devis hospitalier.

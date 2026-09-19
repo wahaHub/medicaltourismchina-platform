@@ -1,15 +1,17 @@
-# 020 Protéger la confidentialité de vos données médicales lors du partage international de dossiers
+# Partager un dossier médical avec la Chine : confidentialité et consentement
 
 ## Hero
 
-- **Title:** Protéger la confidentialité de vos données médicales lors du partage international de dossiers
 - **Category:** Guides du système de santé chinois
 - **Subcategory:** Confidentialité et dossiers transfrontaliers
-- **Subtitle:** Identifiez chaque destinataire, envoyez uniquement les éléments nécessaires, utilisez un canal contrôlé et décidez quand l’accès de chaque personne doit prendre fin.
 - **Reviewed by:** Équipe éditoriale de Medora Health ; examen chinois en matière de protection des données, de confidentialité et de sécurité de l’information requis avant publication
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un patient et un clinicien examinent le transfert transfrontalier sécurisé de dossiers médicaux
+
+
+- **Title:** Partager un dossier médical avec la Chine : confidentialité et consentement
+- **Subtitle:** Identifiez chaque destinataire, minimisez les dossiers, sécurisez le transfert et gérez consentement, accès, métadonnées et suppression lors du partage international de données de santé.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -259,13 +261,15 @@ Les personnes disposent de droits à la suppression dans des conditions légales
 ## SEO Metadata
 
 - **Slug:** `protecting-your-medical-privacy-when-sharing-records-internationally`
-- **Meta title:** Protéger la confidentialité médicale lors du partage transfrontalier de dossiers
-- **Meta description:** Identifiez chaque destinataire, minimisez les dossiers, sécurisez le transfert et gérez consentement, accès, métadonnées et suppression lors du partage international de données de santé.
 - **Primary keyword:** confidentialité des dossiers médicaux transfrontaliers Chine
 - **Pillar keyword:** soins de santé en Chine pour les patients internationaux
 - **Vertical keyword:** partager des dossiers médicaux à l’international en toute sécurité
 - **Search intent:** information / gestion des risques de confidentialité
 - **Secondary keywords:** transfert de données de santé Chine ; dossiers médicaux PIPL ; téléversement sécurisé de dossiers hospitaliers
+
+
+- **Meta title:** Partager un dossier médical avec la Chine : confidentialité et consentement
+- **Meta description:** Identifiez chaque destinataire, minimisez les dossiers, sécurisez le transfert et gérez consentement, accès, métadonnées et suppression lors du partage international de données de santé.
 
 ## Sources
 

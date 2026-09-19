@@ -1,12 +1,14 @@
-# Comment les besoins de rééducation après AVC diffèrent : cause, handicap et risque
+# Besoins de rééducation après AVC : préparer des soins en Chine
 
 ## Hero
 
-- **Title:** Comment les besoins de rééducation après AVC diffèrent : cause, handicap et risque
 - **Category:** Éducation des patients et questions fréquentes
 - **Subcategory:** Rééducation après un AVC ischémique
-- **Subtitle:** Des personnes ayant le même diagnostic d'AVC ischémique peuvent avoir des besoins de rééducation très différents.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Besoins de rééducation après AVC : préparer des soins en Chine
+- **Subtitle:** Distinguez cause de l’AVC, handicap et besoins de rééducation. Préparez en Chine un bilan de la mobilité, de la déglutition et des risques médicaux.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ L'évaluation des risques est utile lorsqu'elle assure un soutien adapté. Les c
 ## SEO Metadata
 
 - **Primary keyword:** types et risques de rééducation après AVC ischémique
+
+- **Meta title:** Besoins de rééducation après AVC : préparer des soins en Chine
+- **Meta description:** Distinguez cause de l’AVC, handicap et besoins de rééducation. Préparez en Chine un bilan de la mobilité, de la déglutition et des risques médicaux.

@@ -1,15 +1,17 @@
-# Voyage médical avec une maladie cardiaque : la stabilité doit résister à l’itinéraire
+# Voyage médical en Chine avec une maladie cardiaque : préparation
 
 ## Hero
 
-- **Title:** Voyage médical avec une maladie cardiaque : la stabilité doit résister à l’itinéraire
 - **Category:** Éducation des patients et questions fréquentes
 - **Subcategory:** Maladies chroniques et voyages
-- **Subtitle:** Un plan adapté au trajet pour la maladie coronarienne, l’insuffisance cardiaque, les troubles du rythme, les interventions récentes, les dispositifs cardiaques, l’oxygène et les urgences en transit.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un couple examine un résumé cardiologique, des médicaments et un calendrier de traitement avant de prendre l’avion vers un hôpital
+
+
+- **Title:** Voyage médical en Chine avec une maladie cardiaque : préparation
+- **Subtitle:** Préparez un voyage médical avec une maladie cardiaque : accord médical, ECG, médicaments, oxygène, dispositifs cardiaques, risque de caillot et mesures d’urgence.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Une oppression thoracique nouvelle ou aggravée, un essoufflement sévère, un évanouissement, des palpitations prolongées avec faiblesse, des symptômes d’AVC ou un choc de défibrillateur implanté avec des symptômes persistants nécessitent des soins locaux urgents.
 
 ## Content
+
+Si vous avez une maladie cardiaque et envisagez un voyage médical en Chine, apportez le diagnostic exact, les événements récents et l’itinéraire complet à la consultation avant le voyage. Le plan doit prévoir la continuité des médicaments, l’assistance lors des transferts et la conduite à tenir si les symptômes changent avant ou pendant le trajet.
+
 
 Une consultation calme ne prouve pas qu’un patient peut supporter deux aéroports, une correspondance manquée et une ville inconnue. L’accord cardiologique pour voyager doit confronter l’itinéraire aux capacités actuelles du patient et prévoir un plan en cas de difficulté.
 
@@ -104,11 +109,13 @@ Une oppression thoracique nouvelle, un essoufflement sévère, un évanouissemen
 
 ## SEO Metadata
 
-- **SEO title:** Voyage médical avec une maladie cardiaque : préparation sûre
-- **Meta description:** Préparez un voyage médical avec une maladie cardiaque : accord médical, ECG, médicaments, oxygène, dispositifs cardiaques, risque de caillot et mesures d’urgence.
 - **Primary keyword:** voyage médical avec une maladie cardiaque
 - **Secondary keywords:** prendre l’avion avec une maladie cardiaque, voyage après stent cardiaque, insuffisance cardiaque voyage aérien, stimulateur cardiaque sécurité aéroport, accord cardiologique pour voyager
 - **Suggested URL slug:** `/medical-travel-heart-disease-safely`
+
+
+- **Meta title:** Voyage médical en Chine avec une maladie cardiaque : préparation
+- **Meta description:** Préparez un voyage médical avec une maladie cardiaque : accord médical, ECG, médicaments, oxygène, dispositifs cardiaques, risque de caillot et mesures d’urgence.
 
 ## Sources
 

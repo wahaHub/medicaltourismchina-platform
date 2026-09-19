@@ -1,15 +1,17 @@
-# PET/CT untuk Perawatan Kanker: Pelacak, Waktu, dan Keterbatasan di Balik “Titik Panas”
+# PET/CT Kanker di Tiongkok: Persiapan, Pelacak, dan Keterbatasan
 
 ## Hero
 
-- **Title:** PET/CT untuk Perawatan Kanker: Pelacak, Waktu, dan Keterbatasan di Balik “Titik Panas”
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Pemeriksaan & Diagnosis
-- **Subtitle:** Panduan berfokus pada keputusan mengenai FDG dan pelacak lain, persiapan, waktu pengobatan, radiasi, positif palsu, serta memperoleh pemeriksaan yang dapat dibandingkan di Tiongkok.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Gambar pengganti yang direncanakan memperlihatkan pemindai PET/CT, suntikan radiopelacak, dan citra gabungan metabolik-anatomis dengan satu lesi disorot
+
+
+- **Title:** PET/CT Kanker di Tiongkok: Persiapan, Pelacak, dan Keterbatasan
+- **Subtitle:** Pahami FDG dan pelacak PET lain, persiapan puasa dan diabetes, waktu pengobatan, positif palsu, negatif palsu, serta laporan PET/CT.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -181,13 +183,15 @@ Tidak selalu. CT tersebut mungkin CT dosis rendah yang terutama digunakan untuk 
 ## SEO Metadata
 
 - **Slug:** `pet-ct-for-cancer-care-uses-and-limitations`
-- **Meta title:** PET/CT untuk Kanker: Pelacak, Persiapan, dan Keterbatasan
-- **Meta description:** Pahami FDG dan pelacak PET lain, persiapan puasa dan diabetes, waktu pengobatan, positif palsu, negatif palsu, serta laporan PET/CT.
 - **Primary keyword:** PET CT untuk kanker
 - **Pillar keyword:** pencitraan kanker di Tiongkok
 - **Vertical keyword:** persiapan dan keterbatasan FDG PET CT
 - **Search intent:** panduan keputusan pencitraan onkologi
 - **Secondary keywords:** titik panas PET tidak selalu kanker; PET negatif kanker; PET CT diabetes; PET CT setelah pengobatan; DICOM PET CT Tiongkok
+
+
+- **Meta title:** PET/CT Kanker di Tiongkok: Persiapan, Pelacak, dan Keterbatasan
+- **Meta description:** Pahami FDG dan pelacak PET lain, persiapan puasa dan diabetes, waktu pengobatan, positif palsu, negatif palsu, serta laporan PET/CT.
 
 ## Sumber
 

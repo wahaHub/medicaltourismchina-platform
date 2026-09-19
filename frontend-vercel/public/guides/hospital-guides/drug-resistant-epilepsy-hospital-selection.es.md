@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Elegir un hospital en China para la epilepsia farmacorresistente: adaptar el centro al problema clínico
 - **Category:** Guías de hospitales
 - **Subcategory:** Epilepsia farmacorresistente
-- **Subtitle:** Un médico conocido, un dispositivo avanzado o un caso de éxito pueden ser lo primero que vea un paciente al buscar atención.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Elegir un hospital en China para la epilepsia farmacorresistente: adaptar el centro al problema clínico
+- **Subtitle:** Elija un centro de epilepsia farmacorresistente en China según el problema clínico, las pruebas diagnósticas y la evaluación multidisciplinar del tratamiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -172,3 +174,6 @@ Una lista de candidatos no necesita contener muchas instituciones. Céntrese en 
 ## SEO Metadata
 
 - **Primary keyword:** elegir un hospital para epilepsia farmacorresistente en China; centro integral de epilepsia; atención multidisciplinar de epilepsia pediátrica
+
+- **Meta title:** Elegir un hospital en China para la epilepsia farmacorresistente: adaptar el centro al problema clínico
+- **Meta description:** Elija un centro de epilepsia farmacorresistente en China según el problema clínico, las pruebas diagnósticas y la evaluación multidisciplinar del tratamiento.

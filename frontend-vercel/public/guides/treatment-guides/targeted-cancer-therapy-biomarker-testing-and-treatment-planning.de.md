@@ -1,15 +1,17 @@
-# 032 Zielgerichtete Krebstherapie: Biomarkertests und Behandlungsplanung
+# Zielgerichtete Krebstherapie in China: Biomarkertests
 
 ## Hero
 
-- **Title:** Zielgerichtete Krebstherapie: Biomarkertests und Behandlungsplanung
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Krebsversorgung
-- **Subtitle:** Wie eine konkrete Probe und ein validierter Test mit der genauen Veränderung, der Evidenz, dem Medikament und dem Überwachungsplan verknüpft werden.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Molekularpathologe und Onkologe prüfen einen anonymisierten Biomarkerbericht neben beschrifteten Gewebe- und Blutprobentypen
+
+
+- **Title:** Zielgerichtete Krebstherapie in China: Biomarkertests
+- **Subtitle:** Verstehen Sie Gewebe- und Flüssigbiomarkertests, therapiebegleitende Diagnostik, therapeutisch verwertbare Varianten, zielgerichtete Therapieplanung und Resistenzen vor einer Behandlung in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,13 +135,15 @@ Tumorbiomarker können sich verändern, und die Behandlung kann resistente Klone
 ## SEO Metadata
 
 - **Slug:** `targeted-cancer-therapy-biomarker-testing-and-treatment-planning`
-- **Meta title:** Leitfaden zu zielgerichteter Krebstherapie und Biomarkertests
-- **Meta description:** Verstehen Sie Gewebe- und Flüssigbiomarkertests, therapiebegleitende Diagnostik, therapeutisch verwertbare Varianten, zielgerichtete Therapieplanung und Resistenzen vor einer Behandlung in China.
 - **Primary keyword:** zielgerichtete Krebstherapie in China
 - **Pillar keyword:** Krebsbehandlung in China
 - **Vertical keyword:** Krebs-Biomarkertests China
 - **Search intent:** Biomarkerinterpretation / Behandlungsplanung
 - **Secondary keywords:** NGS-Tests China; Flüssigbiopsie Krebs; therapiebegleitende Diagnostik; therapeutisch verwertbare Mutation; Resistenz gegen zielgerichtete Therapie
+
+
+- **Meta title:** Zielgerichtete Krebstherapie in China: Biomarkertests
+- **Meta description:** Verstehen Sie Gewebe- und Flüssigbiomarkertests, therapiebegleitende Diagnostik, therapeutisch verwertbare Varianten, zielgerichtete Therapieplanung und Resistenzen vor einer Behandlung in China.
 
 ## Quellen
 

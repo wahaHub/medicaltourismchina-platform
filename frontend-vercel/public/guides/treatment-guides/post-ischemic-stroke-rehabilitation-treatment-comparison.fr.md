@@ -1,12 +1,14 @@
-# Choisir les méthodes de rééducation après un AVC : pratique de tâches, robotique, réalité virtuelle et soins à domicile
+# Réadaptation après AVC en Chine : comparer les méthodes
 
 ## Hero
 
-- **Title:** Choisir les méthodes de rééducation après un AVC : pratique de tâches, robotique, réalité virtuelle et soins à domicile
 - **Category:** Guides des traitements
 - **Subcategory:** Rééducation après un AVC ischémique
-- **Subtitle:** Les familles envisageant une rééducation peuvent recevoir des programmes très différents.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Réadaptation après AVC en Chine : comparer les méthodes
+- **Subtitle:** Comparez pratique de tâches, robotique, stimulation et réalité virtuelle après AVC selon un même objectif fonctionnel pour préparer une réadaptation en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ La proposition la plus adaptée peut ne pas contenir la liste la plus longue. V�
 ## SEO Metadata
 
 - **Primary keyword:** comparaison des traitements de rééducation après AVC
+
+- **Meta title:** Réadaptation après AVC en Chine : comparer les méthodes
+- **Meta description:** Comparez pratique de tâches, robotique, stimulation et réalité virtuelle après AVC selon un même objectif fonctionnel pour préparer une réadaptation en Chine.

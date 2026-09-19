@@ -1,12 +1,14 @@
-# Memahami laporan epilepsi resistan obat: temuan EEG, lesi MRI, dan pendapat prabedah akhir
+# Laporan Epilepsi Resistan Obat: Tinjauan Spesialis di Tiongkok
 
 ## Hero
 
-- **Title:** Memahami laporan epilepsi resistan obat: temuan EEG, lesi MRI, dan pendapat prabedah akhir
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Epilepsi Resistan Obat
-- **Subtitle:** Tampaknya bertentangan ketika EEG menjelaskan aktivitas pelepasan, MRI dilaporkan normal, dan dokter tetap merekomendasikan penilaian lebih lanjut.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Laporan Epilepsi Resistan Obat: Tinjauan Spesialis di Tiongkok
+- **Subtitle:** Tafsirkan EEG, MRI, dan kesimpulan prabedah epilepsi resistan obat dalam konteks kejang. Siapkan laporan untuk penilaian spesialis di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -157,3 +159,6 @@ Siapkan daftar satu halaman berisi istilah yang meresahkan dan kesimpulan yang t
 ## SEO Metadata
 
 - **Primary keyword:** interpretasi laporan epilepsi resistan obat; spike EEG; laporan sklerosis hipokampus; epilepsi MRI-negatif; pendapat kedua di Tiongkok
+
+- **Meta title:** Laporan Epilepsi Resistan Obat: Tinjauan Spesialis di Tiongkok
+- **Meta description:** Tafsirkan EEG, MRI, dan kesimpulan prabedah epilepsi resistan obat dalam konteks kejang. Siapkan laporan untuk penilaian spesialis di Tiongkok.

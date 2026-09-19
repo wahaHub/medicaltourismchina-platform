@@ -1,12 +1,14 @@
-# Mengobati talasemia: dari status pembawa, transfusi, dan kelasi hingga transplantasi dan terapi baru
+# Pengobatan Talasemia di Tiongkok: Transfusi, Kelasi, dan Pilihan Lain
 
 ## Hero
 
-- **Title:** Mengobati talasemia: dari status pembawa, transfusi, dan kelasi hingga transplantasi dan terapi baru
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Talasemia
-- **Subtitle:** Talasemia mencakup kelainan produksi globin yang diwariskan, dengan manifestasi mulai dari sangat sedikit gejala hingga kebutuhan transfusi rutin dan perawatan multidisiplin.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Talasemia di Tiongkok: Transfusi, Kelasi, dan Pilihan Lain
+- **Subtitle:** Pahami pengobatan talasemia di Tiongkok berdasarkan jenis penyakit dan kebutuhan pasien, dari transfusi serta kelasi hingga penilaian transplantasi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -131,3 +133,6 @@ Meninjau rencana secara berkala memberi pasien kesempatan membahas manfaat, kesu
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan talasemia
+
+- **Meta title:** Pengobatan Talasemia di Tiongkok: Transfusi, Kelasi, dan Pilihan Lain
+- **Meta description:** Pahami pengobatan talasemia di Tiongkok berdasarkan jenis penyakit dan kebutuhan pasien, dari transfusi serta kelasi hingga penilaian transplantasi.

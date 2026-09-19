@@ -1,12 +1,14 @@
-# Wie lange kann eine Remission beim T-Zell-Lymphom anhalten? Prognose und Überlebenszahlen verstehen
+# Prognose beim T-Zell-Lymphom: Fragen zur Versorgung in China
 
 ## Hero
 
-- **Title:** Wie lange kann eine Remission beim T-Zell-Lymphom anhalten? Prognose und Überlebenszahlen verstehen
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** T-Zell-Lymphom
-- **Subtitle:** Die Suche nach der Lebenserwartung kann sowohl entmutigende historische Zahlen als auch werbliche Heilungsversprechen liefern.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prognose beim T-Zell-Lymphom: Fragen zur Versorgung in China
+- **Subtitle:** Die Prognose beim T-Zell-Lymphom für eine Beratung in China einordnen: Subtyp, Therapieansprechen, Überlebensmaße und Transplantationsrisiken gemeinsam betrachten.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ Es kann helfen, das Datum jedes Prognosegesprächs und seine Grundlage zu dokume
 ## SEO Metadata
 
 - **Primary keyword:** T-Zell-Lymphom Prognose und Überleben
+
+- **Meta title:** Prognose beim T-Zell-Lymphom: Fragen zur Versorgung in China
+- **Meta description:** Die Prognose beim T-Zell-Lymphom für eine Beratung in China einordnen: Subtyp, Therapieansprechen, Überlebensmaße und Transplantationsrisiken gemeinsam betrachten.

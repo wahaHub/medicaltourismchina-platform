@@ -1,12 +1,14 @@
-# Medicamentos para el linfoma de Hodgkin: comprender la quimioterapia, el tratamiento anti-CD30 y la terapia anti-PD-1
+# Medicamentos para linfoma de Hodgkin en China: opciones y acceso
 
 ## Hero
 
-- **Title:** Medicamentos para el linfoma de Hodgkin: comprender la quimioterapia, el tratamiento anti-CD30 y la terapia anti-PD-1
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de Hodgkin
-- **Subtitle:** Ver ABVD, AVD, BV y PD-1 en la misma página de tratamiento puede dificultar la comprensión de una primera prescripción para el linfoma de Hodgkin.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medicamentos para linfoma de Hodgkin en China: opciones y acceso
+- **Subtitle:** Comprenda quimioterapia, tratamiento anti-CD30 y anti-PD-1 para linfoma de Hodgkin, y prepare preguntas sobre la pauta y el acceso al tratamiento en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -138,3 +140,6 @@ Al terminar una consulta sobre medicamentos, intente salir con una respuesta cla
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento farmacológico del linfoma de Hodgkin
+
+- **Meta title:** Medicamentos para linfoma de Hodgkin en China: opciones y acceso
+- **Meta description:** Comprenda quimioterapia, tratamiento anti-CD30 y anti-PD-1 para linfoma de Hodgkin, y prepare preguntas sobre la pauta y el acceso al tratamiento en China.

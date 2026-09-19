@@ -1,15 +1,17 @@
-# 在中国做 MRI：扫描前先解决植入物卡、对比剂和幽闭恐惧三个问题
+# 在中国做 MRI：植入物、对比剂与幽闭恐惧准备
 
 ## Hero
 
-- **Title:** 在中国做 MRI：扫描前先解决植入物卡、对比剂和幽闭恐惧三个问题
 - **Category:** 患者教育与常见问题
 - **Subcategory:** 检查与诊断
-- **Subtitle:** 从磁安全筛查、钆对比剂到检查当天准备，以及检查后如何拿到真正可用的影像资料。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** 医生讲解 MRI 设备，旁边显示磁场安全和静脉对比剂图标
+
+
+- **Title:** 在中国做 MRI：植入物、对比剂与幽闭恐惧准备
+- **Subtitle:** 核实植入物条件，了解钆与肾功能、妊娠筛查、幽闭镇静和 DICOM 获取，安全完成在中国的 MRI。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -161,13 +163,15 @@ FDA 指出，钆对比剂可能发生过敏样反应，微量钆也可能在体�
 ## SEO Metadata
 
 - **Slug:** `mri-scans-preparation-safety-and-contrast-questions`
-- **Meta title:** MRI 检查准备：植入物、钆对比剂与幽闭恐惧
-- **Meta description:** 核实植入物条件，了解钆与肾功能、妊娠筛查、幽闭镇静和 DICOM 获取，安全完成在中国的 MRI。
 - **Primary keyword:** MRI 检查准备与安全
 - **Pillar keyword:** 中国医学影像检查
 - **Vertical keyword:** MRI 植入物与钆对比剂
 - **Search intent:** 影像检查准备指导
 - **Secondary keywords:** MR Conditional 植入物；MRI 钆肾功能；MRI 幽闭镇静；妊娠 MRI；中国 MRI DICOM
+
+
+- **Meta title:** 在中国做 MRI：植入物、对比剂与幽闭恐惧准备
+- **Meta description:** 核实植入物条件，了解钆与肾功能、妊娠筛查、幽闭镇静和 DICOM 获取，安全完成在中国的 MRI。
 
 ## Sources
 

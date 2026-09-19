@@ -1,12 +1,14 @@
-# Nuevos tratamientos y ensayos para el linfoma folicular: adaptar la evidencia a su situación
+# Nuevos tratamientos del linfoma folicular: ensayos y acceso en China
 
 ## Hero
 
-- **Title:** Nuevos tratamientos y ensayos para el linfoma folicular: adaptar la evidencia a su situación
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Linfoma folicular
-- **Subtitle:** Una tasa de respuesta alta de un medicamento nuevo debería suscitar preguntas sobre los participantes, la combinación, el seguimiento y la situación regulatoria antes de buscar un proveedor.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Nuevos tratamientos del linfoma folicular: ensayos y acceso en China
+- **Subtitle:** Relacione la evidencia de nuevos tratamientos del linfoma folicular con su situación y compruebe la selección, la seguridad y el acceso a ensayos en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Mantenga una alternativa de tratamiento estándar mientras avanza la selección 
 ## SEO Metadata
 
 - **Primary keyword:** nuevos fármacos y ensayos clínicos para el linfoma folicular
+
+- **Meta title:** Nuevos tratamientos del linfoma folicular: ensayos y acceso en China
+- **Meta description:** Relacione la evidencia de nuevos tratamientos del linfoma folicular con su situación y compruebe la selección, la seguridad y el acceso a ensayos en China.

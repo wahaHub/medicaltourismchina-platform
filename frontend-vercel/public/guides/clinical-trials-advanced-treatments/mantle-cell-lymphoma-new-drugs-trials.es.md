@@ -1,12 +1,14 @@
-# Nuevos fármacos y ensayos clínicos para el linfoma de células del manto: comprender las novedades de 2026
+# Nuevos tratamientos del linfoma de células del manto: ensayos y acceso en China
 
 ## Hero
 
-- **Title:** Nuevos fármacos y ensayos clínicos para el linfoma de células del manto: comprender las novedades de 2026
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Linfoma de células del manto
-- **Subtitle:** Las noticias sobre un avance o un régimen sin quimioterapia plantean naturalmente la pregunta de si usted podría recibirlo.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Nuevos tratamientos del linfoma de células del manto: ensayos y acceso en China
+- **Subtitle:** Examine la evidencia de nuevos tratamientos del linfoma de células del manto, sus poblaciones de estudio y los requisitos para valorar un ensayo en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ Las nuevas publicaciones pueden ampliar las opciones sin obligarle a cambiar un 
 ## SEO Metadata
 
 - **Primary keyword:** nuevos fármacos y ensayos clínicos para el linfoma de células del manto 2026
+
+- **Meta title:** Nuevos tratamientos del linfoma de células del manto: ensayos y acceso en China
+- **Meta description:** Examine la evidencia de nuevos tratamientos del linfoma de células del manto, sus poblaciones de estudio y los requisitos para valorar un ensayo en China.

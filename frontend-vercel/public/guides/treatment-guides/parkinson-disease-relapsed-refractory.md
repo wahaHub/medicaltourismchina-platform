@@ -1,12 +1,14 @@
-# When Parkinson’s symptoms worsen again: wearing-off, acute deterioration and next treatment steps
+# Worsening Parkinson’s Symptoms: Preparing for Review in China
 
 ## Hero
 
-- **Title:** When Parkinson’s symptoms worsen again: wearing-off, acute deterioration and next treatment steps
 - **Category:** Treatment Guides
 - **Subcategory:** Parkinson Disease
-- **Subtitle:** A person who previously reached the dining table independently may now struggle every afternoon.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Worsening Parkinson’s Symptoms: Preparing for Review in China
+- **Subtitle:** Distinguish Parkinson’s wearing-off from acute deterioration or other problems, and prepare a specific question for a second opinion in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Keep emergency information concise: diagnosis, current medication times, allergi
 ## SEO Metadata
 
 - **Primary keyword:** Parkinson’s medication wearing off
+
+- **Meta title:** Worsening Parkinson’s Symptoms: Preparing for Review in China
+- **Meta description:** Distinguish Parkinson’s wearing-off from acute deterioration or other problems, and prepare a specific question for a second opinion in China.

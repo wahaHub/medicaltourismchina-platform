@@ -1,12 +1,14 @@
-# Neue Thalassämie-Medikamente und klinische Studien im Jahr 2026: Zulassungen, Forschung und persönliche Eignung unterscheiden
+# Medikamente und Studien bei Thalassämie: Evidenz und Zugang in China
 
 ## Hero
 
-- **Title:** Neue Thalassämie-Medikamente und klinische Studien im Jahr 2026: Zulassungen, Forschung und persönliche Eignung unterscheiden
 - **Category:** Klinische Studien und fortgeschrittene Behandlungen
 - **Subcategory:** Thalassämie
-- **Subtitle:** Nachrichten über Transfusionsunabhängigkeit können sofort die Frage aufwerfen, ob eine Behandlung für einen bestimmten Patienten verfügbar ist.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medikamente und Studien bei Thalassämie: Evidenz und Zugang in China
+- **Subtitle:** Thalassämie-Forschung und Medikamente für die Versorgung in China einordnen: Patientengruppe, Studienendpunkte, Sicherheitsanforderungen und Zugang prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,3 +143,6 @@ Konzentrieren Sie sich beim nächsten Beratungsgespräch auf drei Entscheidungen
 ## SEO Metadata
 
 - **Primary keyword:** neue Thalassämie-Behandlungen 2026; klinische Studien in China; Mitapivat; Geneditierung; CS-101
+
+- **Meta title:** Medikamente und Studien bei Thalassämie: Evidenz und Zugang in China
+- **Meta description:** Thalassämie-Forschung und Medikamente für die Versorgung in China einordnen: Patientengruppe, Studienendpunkte, Sicherheitsanforderungen und Zugang prüfen.

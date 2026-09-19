@@ -1,15 +1,17 @@
-# 157 Facturación directa o pago y solicitud de reembolso en China: elija el fallo que pueda gestionar
+# Seguro hospitalario en China: facturación directa frente a reembolso
 
 ## Hero
 
-- **Title:** Facturación directa o pago y solicitud de reembolso en China: elija el fallo que pueda gestionar
 - **Category:** Guías de costes y seguros
 - **Subcategory:** Procesos de pago del seguro
-- **Subtitle:** Compare la exposición de efectivo, la elección de proveedores, la carga documental y la recuperación ante fallos, no solo si un hospital muestra el logotipo de una aseguradora.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un coordinador de facturación y un paciente internacional comparan documentos de pago en un hospital chino.
+
+
+- **Title:** Seguro hospitalario en China: facturación directa frente a reembolso
+- **Subtitle:** Compare la facturación directa y el reembolso en China según efectivo expuesto, elección de proveedores, garantías, documentos, alternativas y control del pago duplicado.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -207,13 +209,15 @@ Notifique a finanzas del hospital y a la aseguradora con las referencias de las 
 ## SEO Metadata
 
 - **Slug:** `direct-billing-vs-pay-and-claim-at-chinese-hospitals`
-- **Meta title:** Facturación directa frente a pago y solicitud de reembolso en hospitales chinos
-- **Meta description:** Compare la facturación directa y el reembolso en China según efectivo expuesto, elección de proveedores, garantías, documentos, alternativas y control del pago duplicado.
 - **Primary keyword:** facturación directa frente a pago y solicitud de reembolso China
 - **Pillar keyword:** seguro de turismo médico
 - **Vertical keyword:** pago del seguro hospitalario en China
 - **Search intent:** método de pago / planificación de reclamaciones
 - **Secondary keywords:** seguro sin desembolso hospital China; pago y solicitud de reembolso China; garantía de pago hospital; documentos de reclamación médica China; pago hospitalario duplicado
+
+
+- **Meta title:** Seguro hospitalario en China: facturación directa frente a reembolso
+- **Meta description:** Compare la facturación directa y el reembolso en China según efectivo expuesto, elección de proveedores, garantías, documentos, alternativas y control del pago duplicado.
 
 ## Fuentes
 

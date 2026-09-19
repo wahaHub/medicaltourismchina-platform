@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Who should consider travelling to China for T-cell lymphoma care? Clarifying referral value and travel readiness
 - **Category:** Patient Journey Guides
 - **Subcategory:** T Cell Lymphoma
-- **Subtitle:** The value of travelling depends first on what the receiving team can help resolve.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Who should consider travelling to China for T-cell lymphoma care? Clarifying referral value and travel readiness
+- **Subtitle:** Decide whether to travel to China for T-cell lymphoma care by clarifying referral value, treatment timing, medical readiness and continuing support.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Families can keep a brief departure checklist with the confirmed appointment, cu
 ## SEO Metadata
 
 - **Primary keyword:** travelling to China for T-cell lymphoma treatment
+
+- **Meta title:** Who should consider travelling to China for T-cell lymphoma care? Clarifying referral value and travel readiness
+- **Meta description:** Decide whether to travel to China for T-cell lymphoma care by clarifying referral value, treatment timing, medical readiness and continuing support.

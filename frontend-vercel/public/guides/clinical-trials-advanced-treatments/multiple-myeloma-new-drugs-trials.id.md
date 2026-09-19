@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Obat mieloma baru dan uji klinis: mengevaluasi pilihan di Tiongkok pada 2026
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Mieloma Multipel
-- **Subtitle:** Judul berita mieloma mungkin menggambarkan molekul baru, kombinasi baru obat yang sudah dikenal, atau situasi pengobatan pada tahap lebih awal.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat mieloma baru dan uji klinis: mengevaluasi pilihan di Tiongkok pada 2026
+- **Subtitle:** Pelajari cara menilai obat baru dan uji klinis mieloma di Tiongkok dengan memisahkan bukti, indikasi, pasokan rumah sakit, dan kelayakan pribadi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Setelah skrining, konfirmasi ulang jadwal kunjungan, tanggal pengobatan, dan tan
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan baru mieloma multipel dan uji klinis di Tiongkok
+
+- **Meta title:** Obat mieloma baru dan uji klinis: mengevaluasi pilihan di Tiongkok pada 2026
+- **Meta description:** Pelajari cara menilai obat baru dan uji klinis mieloma di Tiongkok dengan memisahkan bukti, indikasi, pasokan rumah sakit, dan kelayakan pribadi.

@@ -1,15 +1,17 @@
-# Bispecific Antibodies in Cancer Care: A Patient Guide
+# Bispecific Antibodies in China: Dosing, Access and Risks
 
 ## Hero
 
-- **Title:** Bispecific Antibodies in Cancer Care: A Patient Guide
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Cancer Immunotherapy
-- **Subtitle:** Identify the two binding targets and the job they perform before judging eligibility, step-up dosing, immune toxicity, infection risk and travel feasibility.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Replacement needed: a scientifically accurate bispecific antibody linking two targets, with step-up dosing and monitored immune-cell activation.
+
+
+- **Title:** Bispecific Antibodies in China: Dosing, Access and Risks
+- **Subtitle:** Learn how cancer bispecific antibodies differ, including CD3 T-cell engagers, target testing, step-up dosing, CRS, infection risk and China verification.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -173,11 +175,13 @@ Only if the protocol or treating team allows it and a qualified home centre has 
 ## SEO Metadata
 
 - **Slug:** `bispecific-antibodies-in-cancer-care-a-patient-guide`
-- **Meta title:** Bispecific Antibodies: Targets, Step-Up Dosing and Risks
-- **Meta description:** Learn how cancer bispecific antibodies differ, including CD3 T-cell engagers, target testing, step-up dosing, CRS, infection risk and China verification.
 - **Primary keyword:** bispecific antibodies cancer treatment
 - **Secondary keywords:** bispecific T-cell engager; bispecific antibody China; step-up dosing; CRS ICANS; bispecific antibody infection
 - **Search intent:** bispecific-antibody treatment comparison / trial screening
+
+
+- **Meta title:** Bispecific Antibodies in China: Dosing, Access and Risks
+- **Meta description:** Learn how cancer bispecific antibodies differ, including CD3 T-cell engagers, target testing, step-up dosing, CRS, infection risk and China verification.
 
 ## Sources
 

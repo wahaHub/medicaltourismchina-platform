@@ -1,15 +1,17 @@
-# 140 Nutrisi Selama Pemulihan di Rumah Sakit: Pilih Rute Sebelum Menghitung Kalori
+# Pemulihan di Rumah Sakit Tiongkok: Perencanaan Nutrisi dan Cairan
 
 ## Hero
 
-- **Title:** Nutrisi Selama Pemulihan di Rumah Sakit: Pilih Rute Sebelum Menghitung Kalori
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Skrining Nutrisi, Rute Pemberian Nutrisi, dan Keseimbangan Cairan
-- **Subtitle:** Nutrisi pemulihan dimulai dengan menanyakan apakah menelan aman, usus berfungsi, dan cairan perlu dibatasi. Baru setelah itu energi, protein, suplemen, dan preferensi makanan menjadi angka yang berguna.
 - **Reviewed by:** Tim Editorial Kesehatan Medora
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Ilustrasi konseptual pembahasan pemulihan rawat inap dengan air, buah, dan alat bantu jalan; menggambarkan perencanaan nutrisi dan hidrasi, bukan diet yang diresepkan atau asupan cairan tanpa batas.
+
+
+- **Title:** Pemulihan di Rumah Sakit Tiongkok: Perencanaan Nutrisi dan Cairan
+- **Subtitle:** Skrining risiko nutrisi, konfirmasikan keselamatan menelan dan fungsi usus, pilih dukungan oral/selang/IV, pantau keseimbangan cairan, dan rencanakan nutrisi setelah pulang dari rumah sakit.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -184,13 +186,15 @@ Kirim rute/tekstur aman, asupan terbaru dan tren berat badan, pembatasan, rentan
 ## SEO Metadata
 
 - **Slug:** `nutrition-and-hydration-during-hospital-recovery`
-- **Meta title:** Nutrisi Selama Pemulihan di Rumah Sakit | Rute dan Rencana Cairan
-- **Meta description:** Skrining risiko nutrisi, konfirmasikan keselamatan menelan dan fungsi usus, pilih dukungan oral/selang/IV, pantau keseimbangan cairan, dan rencanakan nutrisi setelah pulang dari rumah sakit.
 - **Primary keyword:** nutrisi pemulihan rumah sakit Tiongkok
 - **Pillar keyword:** perjalanan medis ke Tiongkok
 - **Vertical keyword:** rencana nutrisi dan hidrasi rawat inap
 - **Search intent:** perencanaan pemulihan / dukungan nutrisi
 - **Secondary keywords:** skrining nutrisi rumah sakit Tiongkok; pemberian makan pascaoperasi; nutrisi enteral Tiongkok; risiko refeeding; keseimbangan cairan rumah sakit
+
+
+- **Meta title:** Pemulihan di Rumah Sakit Tiongkok: Perencanaan Nutrisi dan Cairan
+- **Meta description:** Skrining risiko nutrisi, konfirmasikan keselamatan menelan dan fungsi usus, pilih dukungan oral/selang/IV, pantau keseimbangan cairan, dan rencanakan nutrisi setelah pulang dari rumah sakit.
 
 ## Sumber
 
@@ -200,4 +204,3 @@ Kirim rute/tekstur aman, asupan terbaru dan tren berat badan, pembatasan, rentan
 4. [Institut Nasional untuk Keunggulan Kesehatan dan Perawatan — Terapi Cairan Intravena pada Orang Dewasa di Rumah Sakit](https://www.nice.org.uk/guidance/cg174/chapter/recommendations)
 5. [Perhimpunan Nutrisi Parenteral dan Enteral Amerika — Pustaka Praktik Klinis, Konsensus Sindrom Refeeding](https://nutritioncare.org/Clinical_Practice_Library/)
 6. [Organisasi Kesehatan Dunia — Manual Lima Kunci untuk Pangan yang Lebih Aman](https://tdr.who.int/home/our-work/global-engagement/9789241594639)
-

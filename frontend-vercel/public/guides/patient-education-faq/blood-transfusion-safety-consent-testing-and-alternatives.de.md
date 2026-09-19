@@ -1,15 +1,17 @@
-# Sicherheit von Bluttransfusionen: Bedarf bestimmen, Komponente abstimmen und den Patienten überwachen
+# Bluttransfusionen in China: Einwilligung, Verträglichkeit und Sicherheit
 
 ## Hero
 
-- **Title:** Sicherheit von Bluttransfusionen: Bedarf bestimmen, Komponente abstimmen und den Patienten überwachen
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Operationen & Krankenhaussicherheit
-- **Subtitle:** Ein Patientenratgeber zu roten Blutkörperchen, Thrombozyten und Plasma, informierter Einwilligung, Blutgruppenbestimmung und Kreuzprobe, Identitätskontrollen am Bett, Transfusionsreaktionen und Möglichkeiten zur Bluteinsparung.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Geplanter Ersatz mit Darstellung von roten Blutkörperchen, Thrombozyten und Plasma, einer beschrifteten Patientenprobe, Verträglichkeitstests, Identitätsprüfung am Bett und Reaktionsüberwachung
+
+
+- **Title:** Bluttransfusionen in China: Einwilligung, Verträglichkeit und Sicherheit
+- **Subtitle:** Blutkomponenten, Transfusionsbedarf, Einwilligung, Blutgruppenbestimmung und Kreuzprobe, Reaktionswarnzeichen und Alternativen des Patient Blood Management verstehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -181,11 +183,13 @@ Nein. Sie können in geeigneten Fällen die Exposition verringern, besonders bei
 
 ## SEO Metadata
 
-- **SEO title:** Sicherheit von Bluttransfusionen: Einwilligung, Verträglichkeit, Reaktionen und Alternativen
-- **Meta description:** Blutkomponenten, Transfusionsbedarf, Einwilligung, Blutgruppenbestimmung und Kreuzprobe, Reaktionswarnzeichen und Alternativen des Patient Blood Management verstehen.
 - **Primary keyword:** Sicherheit von Bluttransfusionen
 - **Secondary keywords:** Einwilligung zur Transfusion, Blutkreuzprobe, Transfusionsreaktion, Erythrozytentransfusion, Patient Blood Management, Alternativen zur Bluttransfusion
 - **Suggested URL slug:** `/blood-transfusion-safety-consent-crossmatch-reactions-alternatives`
+
+
+- **Meta title:** Bluttransfusionen in China: Einwilligung, Verträglichkeit und Sicherheit
+- **Meta description:** Blutkomponenten, Transfusionsbedarf, Einwilligung, Blutgruppenbestimmung und Kreuzprobe, Reaktionswarnzeichen und Alternativen des Patient Blood Management verstehen.
 
 ## Quellen
 

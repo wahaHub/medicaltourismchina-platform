@@ -1,12 +1,14 @@
-# Manejo de los efectos secundarios del tratamiento de la EICH: síntomas, vigilancia y continuidad asistencial
+# Tratamiento de la EICH en China: efectos secundarios y vigilancia
 
 ## Hero
 
-- **Title:** Manejo de los efectos secundarios del tratamiento de la EICH: síntomas, vigilancia y continuidad asistencial
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de injerto contra huésped
-- **Subtitle:** Durante el tratamiento de la enfermedad de injerto contra huésped, la fatiga, la diarrea o una prueba hepática anormal pueden tener varias explicaciones posibles.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento de la EICH en China: efectos secundarios y vigilancia
+- **Subtitle:** Reconozca efectos secundarios del tratamiento de enfermedad injerto contra huésped y organice vigilancia de síntomas, recuentos y medicación con su equipo en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -121,3 +123,6 @@ La vigilancia, las visitas especializadas, el tratamiento de infecciones y un po
 ## SEO Metadata
 
 - **Primary keyword:** efectos secundarios y vigilancia del tratamiento de la EICH en China
+
+- **Meta title:** Tratamiento de la EICH en China: efectos secundarios y vigilancia
+- **Meta description:** Reconozca efectos secundarios del tratamiento de enfermedad injerto contra huésped y organice vigilancia de síntomas, recuentos y medicación con su equipo en China.

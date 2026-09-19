@@ -1,15 +1,17 @@
-# 032 Thérapie ciblée du cancer : recherche de biomarqueurs et planification du traitement
+# Thérapie ciblée du cancer en Chine : tests de biomarqueurs
 
 ## Hero
 
-- **Title:** Thérapie ciblée du cancer : recherche de biomarqueurs et planification du traitement
 - **Category:** Guides des traitements
 - **Subcategory:** Soins du cancer
-- **Subtitle:** Comment relier un prélèvement réel et un test validé à l’altération exacte, aux données probantes, au médicament et au plan de surveillance.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un anatomopathologiste moléculaire et un oncologue examinent un compte rendu anonymisé de biomarqueurs à côté de types d’échantillons tissulaires et sanguins étiquetés
+
+
+- **Title:** Thérapie ciblée du cancer en Chine : tests de biomarqueurs
+- **Subtitle:** Comprendre les tests tissulaires et liquides de biomarqueurs, les diagnostics compagnons, les variants exploitables, la planification des médicaments ciblés et la résistance avant des soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,13 +135,15 @@ Les biomarqueurs tumoraux peuvent changer et le traitement peut sélectionner de
 ## SEO Metadata
 
 - **Slug:** `targeted-cancer-therapy-biomarker-testing-and-treatment-planning`
-- **Meta title:** Guide de la thérapie ciblée du cancer et des tests de biomarqueurs
-- **Meta description:** Comprendre les tests tissulaires et liquides de biomarqueurs, les diagnostics compagnons, les variants exploitables, la planification des médicaments ciblés et la résistance avant des soins en Chine.
 - **Primary keyword:** thérapie ciblée du cancer en Chine
 - **Pillar keyword:** traitement du cancer en Chine
 - **Vertical keyword:** tests de biomarqueurs du cancer en Chine
 - **Search intent:** interprétation des biomarqueurs / planification du traitement
 - **Secondary keywords:** tests NGS en Chine ; biopsie liquide du cancer ; diagnostic compagnon ; mutation exploitable ; résistance aux thérapies ciblées
+
+
+- **Meta title:** Thérapie ciblée du cancer en Chine : tests de biomarqueurs
+- **Meta description:** Comprendre les tests tissulaires et liquides de biomarqueurs, les diagnostics compagnons, les variants exploitables, la planification des médicaments ciblés et la résistance avant des soins en Chine.
 
 ## Sources
 

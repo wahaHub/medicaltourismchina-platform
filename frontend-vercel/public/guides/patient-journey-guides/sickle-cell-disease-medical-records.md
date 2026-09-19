@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Medical Records for Sickle Cell Care in China: Diagnosis, Blood Compatibility, Crises, and Treatment History
 - **Category:** Patient Journey Guides
 - **Subcategory:** Sickle Cell Disease
-- **Subtitle:** Preparing records for sickle cell care is less about producing a large stack of paper than enabling a new team to understand the patient's usual condition, serious past events, and current treatment.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medical Records for Sickle Cell Care in China: Diagnosis, Blood Compatibility, Crises, and Treatment History
+- **Subtitle:** Organize sickle cell records for China, including genotype, transfusion compatibility, crisis history, organ assessments and previous treatment.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ After submission, ask which specific items are still missing rather than repeate
 ## SEO Metadata
 
 - **Primary keyword:** medical records for sickle cell disease treatment in China
+
+- **Meta title:** Medical Records for Sickle Cell Care in China: Diagnosis, Blood Compatibility, Crises, and Treatment History
+- **Meta description:** Organize sickle cell records for China, including genotype, transfusion compatibility, crisis history, organ assessments and previous treatment.

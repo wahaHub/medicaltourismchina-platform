@@ -1,15 +1,17 @@
-# 041 Kardiologische Rehabilitation nach einer Herzbehandlung
+# Kardiologische Rehabilitation in China: Erholung nach einer Herzbehandlung
 
 ## Hero
 
-- **Title:** Kardiologische Rehabilitation nach einer Herzbehandlung
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Herz- und Gefäßversorgung
-- **Subtitle:** Überführen Sie Einschränkungen bei der Entlassung in einen medizinisch überwachten Plan für Bewegung, Risikosenkung, Zuversicht und eine sichere Rückkehr in den Alltag.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Fachkraft für kardiologische Rehabilitation beurteilt einen älteren Patienten neben einfachen Trainingsgeräten
+
+
+- **Title:** Kardiologische Rehabilitation in China: Erholung nach einer Herzbehandlung
+- **Subtitle:** Erstellen Sie einen sicheren kardiologischen Rehabilitationsplan nach einer Herzbehandlung mit Beurteilung, Trainingsdosis, Risikofaktorenversorgung, Warnzeichen und grenzüberschreitender Übergabe.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -175,13 +177,15 @@ Sie kann für ausgewählte Patienten mit niedrigem bis mittlerem Risiko angemess
 ## SEO Metadata
 
 - **Slug:** `cardiac-rehabilitation-after-heart-treatment`
-- **Meta title:** Kardiologische Rehabilitation nach Herzbehandlung | Patientenratgeber
-- **Meta description:** Erstellen Sie einen sicheren kardiologischen Rehabilitationsplan nach einer Herzbehandlung mit Beurteilung, Trainingsdosis, Risikofaktorenversorgung, Warnzeichen und grenzüberschreitender Übergabe.
 - **Primary keyword:** kardiologische Rehabilitation nach Herzbehandlung
 - **Pillar keyword:** Erholung nach Herzbehandlung
 - **Vertical keyword:** kardiologisches Rehabilitationsprogramm
 - **Search intent:** Erholungsplanung / Sekundärprävention
 - **Secondary keywords:** kardiologische Reha nach PCI; kardiologische Reha nach CABG; Bewegung nach Herzoperation; kardiologische Rehabilitation zu Hause; Übergabe kardiologische Reha
+
+
+- **Meta title:** Kardiologische Rehabilitation in China: Erholung nach einer Herzbehandlung
+- **Meta description:** Erstellen Sie einen sicheren kardiologischen Rehabilitationsplan nach einer Herzbehandlung mit Beurteilung, Trainingsdosis, Risikofaktorenversorgung, Warnzeichen und grenzüberschreitender Übergabe.
 
 ## Quellen
 

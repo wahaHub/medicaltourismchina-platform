@@ -1,12 +1,14 @@
-# Pruebas ante la sospecha de linfoma de células T: obtener el tejido adecuado y un diagnóstico utilizable
+# Diagnóstico de linfoma de células T en China: biopsia y revisión
 
 ## Hero
 
-- **Title:** Pruebas ante la sospecha de linfoma de células T: obtener el tejido adecuado y un diagnóstico utilizable
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma de células T
-- **Subtitle:** El orden de las pruebas debe seguir las preguntas que permanecen sin respuesta.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnóstico de linfoma de células T en China: biopsia y revisión
+- **Subtitle:** Conozca cómo se obtiene e interpreta el tejido para diagnosticar linfoma de células T, y prepare biopsias e informes para una revisión en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -113,3 +115,6 @@ En la conversación diagnóstica final, distinga los hallazgos establecidos, las
 ## SEO Metadata
 
 - **Primary keyword:** pruebas diagnósticas del linfoma de células T
+
+- **Meta title:** Diagnóstico de linfoma de células T en China: biopsia y revisión
+- **Meta description:** Conozca cómo se obtiene e interpreta el tejido para diagnosticar linfoma de células T, y prepare biopsias e informes para una revisión en China.

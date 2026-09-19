@@ -1,12 +1,14 @@
-# Ketika pengobatan talasemia tampak tidak memadai: anemia memburuk, transfusi meningkat, dan pengendalian zat besi buruk
+# Perawatan Talasemia Kurang Efektif: Pendapat Kedua di Tiongkok
 
 ## Hero
 
-- **Title:** Ketika pengobatan talasemia tampak tidak memadai: anemia memburuk, transfusi meningkat, dan pengendalian zat besi buruk
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Talasemia
-- **Subtitle:** Hemoglobin yang menurun, transfusi yang makin sering, dan feritin yang meningkat menggambarkan masalah berbeda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Perawatan Talasemia Kurang Efektif: Pendapat Kedua di Tiongkok
+- **Subtitle:** Tinjau anemia memburuk, transfusi meningkat, atau besi yang sulit terkendali pada talasemia. Siapkan bukti perubahan untuk pendapat kedua di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Manfaat yang tidak memadai tidak selalu berarti ada intervensi lebih mahal yang 
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan talasemia tidak bekerja; kebutuhan transfusi meningkat; kelasi tidak memadai; pendapat kedua di Tiongkok
+
+- **Meta title:** Perawatan Talasemia Kurang Efektif: Pendapat Kedua di Tiongkok
+- **Meta description:** Tinjau anemia memburuk, transfusi meningkat, atau besi yang sulit terkendali pada talasemia. Siapkan bukti perubahan untuk pendapat kedua di Tiongkok.

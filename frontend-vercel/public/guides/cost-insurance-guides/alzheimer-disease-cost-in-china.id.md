@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Biaya Pengobatan Alzheimer di Tiongkok: Menyusun Anggaran untuk Penilaian, Obat, dan Perawatan
 - **Category:** Panduan Biaya & Asuransi
 - **Subcategory:** Penyakit Alzheimer
-- **Subtitle:** Tidak ada satu harga total nasional untuk pengobatan penyakit Alzheimer di Tiongkok.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Biaya Pengobatan Alzheimer di Tiongkok: Menyusun Anggaran untuk Penilaian, Obat, dan Perawatan
+- **Subtitle:** Susun anggaran perawatan Alzheimer di Tiongkok yang mencakup pemeriksaan, obat, pemantauan antibodi, dan bantuan sehari-hari sesuai rencana pasien.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Mintalah anggaran penilaian awal dan perawatan, lalu tambahan terpisah untuk pen
 ## SEO Metadata
 
 - **Primary keyword:** biaya pengobatan Alzheimer di Tiongkok
+
+- **Meta title:** Biaya Pengobatan Alzheimer di Tiongkok: Menyusun Anggaran untuk Penilaian, Obat, dan Perawatan
+- **Meta description:** Susun anggaran perawatan Alzheimer di Tiongkok yang mencakup pemeriksaan, obat, pemantauan antibodi, dan bantuan sehari-hari sesuai rencana pasien.

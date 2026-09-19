@@ -1,15 +1,17 @@
-# 135 Medizinische Dolmetscher bei Terminen: Das Gespräch zwischen Patient und Arzt halten
+# Medizinische Dolmetscher in China nutzen | Terminratgeber
 
 ## Hero
 
-- **Title:** Medizinische Dolmetscher bei Terminen: Das Gespräch zwischen Patient und Arzt halten
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Gedolmetschte Beratungen und Kommunikationssicherheit
-- **Subtitle:** Ein guter gedolmetschter Termin besteht nicht aus drei getrennten Gesprächen. Patient und Arzt sprechen miteinander, während der Dolmetscher jede Frage, Einschränkung, Zahl und Unsicherheit zwischen den Sprachen überträgt.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Redaktionelle Illustration eines Patienten und einer Begleitperson im Gespräch mit einem Arzt über einen sitzenden Dolmetscher; die Rollen sind symbolisch und benennen kein echtes Krankenhaus und keine reale Person.
+
+
+- **Title:** Medizinische Dolmetscher in China nutzen | Terminratgeber
+- **Subtitle:** Ein guter gedolmetschter Termin besteht nicht aus drei getrennten Gesprächen. Patient und Arzt sprechen miteinander, während der Dolmetscher jede Frage, Einschränkung, Zahl und Unsicherheit zwischen den Sprachen überträgt.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -183,13 +185,15 @@ Geben Sie Arbeitsdiagnose, Medikamentenänderungen, nächsten Schritt, Datum und
 ## SEO Metadata
 
 - **Slug:** `working-with-a-medical-interpreter-during-appointments`
-- **Meta title:** Medizinische Dolmetscher in China nutzen | Terminratgeber
-- **Meta description:** Gestalten Sie einen gedolmetschten Arzttermin mit klaren Rollen, kurzen Beiträgen, benannten Sprechern, doppelt geprüften Medikamenten, Wiedergabe in eigenen Worten und schriftlichem Entscheidungsprotokoll.
 - **Primary keyword:** Termin mit medizinischem Dolmetscher China
 - **Pillar keyword:** medizinische Reise nach China
 - **Vertical keyword:** gedolmetschte medizinische Beratung
 - **Search intent:** Terminvorbereitung / Kommunikationssicherheit
 - **Secondary keywords:** Dolmetscher im Gesundheitswesen China; medizinisches Dolmetschen beim Termin; Wiedergabe in eigenen Worten mit Dolmetscher; übersetzte medizinische Einwilligung; Kommunikation mit internationalen Patienten
+
+
+- **Meta title:** Medizinische Dolmetscher in China nutzen | Terminratgeber
+- **Meta description:** Gestalten Sie einen gedolmetschten Arzttermin mit klaren Rollen, kurzen Beiträgen, benannten Sprechern, doppelt geprüften Medikamenten, Wiedergabe in eigenen Worten und schriftlichem Entscheidungsprotokoll.
 
 ## Quellen
 
@@ -199,4 +203,3 @@ Geben Sie Arbeitsdiagnose, Medikamentenänderungen, nächsten Schritt, Datum und
 4. [US-Gesundheitsministerium — Einsatz von Angehörigen oder Freunden als Dolmetscher](https://www.hhs.gov/civil-rights/for-individuals/faqs/may-an-lep-person-use-a-family-member-as-an-interpreter/709/index.html)
 5. [Nationale Gesundheitskommission — Vorschriften zur Vermeidung und Bearbeitung medizinischer Streitigkeiten](https://www.nhc.gov.cn/wjw/xwdt/201808/b2b4ee8f65534257a998b5f5ba938701.shtml)
 6. [Agency for Healthcare Research and Quality — Instrument zur Wiedergabe in eigenen Worten](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/teachback.html)
-

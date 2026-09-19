@@ -1,15 +1,17 @@
-# Interactions plantes–médicaments : « naturel » n’est pas une catégorie médicamenteuse
+# Médicaments et produits à base de plantes en Chine : vérifier les interactions
 
 ## Hero
 
-- **Title:** Interactions plantes–médicaments : « naturel » n’est pas une catégorie médicamenteuse
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Médicaments
-- **Subtitle:** Comment constituer une liste de produits identifiables, reconnaître les associations à haut risque et aider les pharmaciens à distinguer les interactions documentées de celles qui restent incertaines.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un clinicien et un patient font le rapprochement entre des flacons de médicaments prescrits, un compte-gouttes de préparation végétale, des plantes en vrac et une liste écrite de produits
+
+
+- **Title:** Médicaments et produits à base de plantes en Chine : vérifier les interactions
+- **Subtitle:** Découvrez comment les plantes et compléments peuvent modifier les médicaments prescrits, quelles associations nécessitent une évaluation urgente et quels détails les pharmaciens doivent connaître au-delà du nom du produit.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -192,11 +194,13 @@ Les médicaments de greffe, les anticoagulants, les traitements du cancer et du 
 
 ## SEO Metadata
 
-- **SEO title:** Interactions plantes–médicaments : constituer une liste complète des produits
-- **Meta description:** Découvrez comment les plantes et compléments peuvent modifier les médicaments prescrits, quelles associations nécessitent une évaluation urgente et quels détails les pharmaciens doivent connaître au-delà du nom du produit.
 - **Primary keyword:** interactions plantes médicaments
 - **Secondary keywords:** compléments à base de plantes et médicaments, interactions du millepertuis, plantes avant une opération, compléments pendant le traitement du cancer, conciliation médicamenteuse, sécurité de la médecine traditionnelle
 - **Suggested URL slug:** `/herb-drug-interactions-complete-product-list`
+
+
+- **Meta title:** Médicaments et produits à base de plantes en Chine : vérifier les interactions
+- **Meta description:** Découvrez comment les plantes et compléments peuvent modifier les médicaments prescrits, quelles associations nécessitent une évaluation urgente et quels détails les pharmaciens doivent connaître au-delà du nom du produit.
 
 ## Sources
 

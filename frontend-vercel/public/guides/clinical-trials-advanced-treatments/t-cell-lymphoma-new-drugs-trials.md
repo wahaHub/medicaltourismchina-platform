@@ -1,12 +1,14 @@
-# New T-cell lymphoma drugs and trials in 2026: turning a research update into a verifiable option
+# New T-Cell Lymphoma Drugs and Trials: Access Checks in China
 
 ## Hero
 
-- **Title:** New T-cell lymphoma drugs and trials in 2026: turning a research update into a verifiable option
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** T Cell Lymphoma
-- **Subtitle:** A news item may announce first-in-human testing, longer follow-up, approval in another country or recruitment at one hospital.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** New T-Cell Lymphoma Drugs and Trials: Access Checks in China
+- **Subtitle:** Turn T-cell lymphoma research news into questions about subtype, treatment line, evidence, China indications and the actual study pathway.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -118,3 +120,6 @@ At the end of an enquiry, record the study identifier, the person who confirmed 
 ## SEO Metadata
 
 - **Primary keyword:** new drugs and clinical trials for T-cell lymphoma
+
+- **Meta title:** New T-Cell Lymphoma Drugs and Trials: Access Checks in China
+- **Meta description:** Turn T-cell lymphoma research news into questions about subtype, treatment line, evidence, China indications and the actual study pathway.

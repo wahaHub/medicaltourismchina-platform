@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Haruskah Anda Pergi ke Tiongkok untuk Perawatan Sindrom Mielodisplastik? Tentukan Manfaat Sebelum Memesan
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Sindrom Mielodisplastik
-- **Subtitle:** Sebelum mengatur janji di luar negeri untuk sindrom mielodisplastik, tuliskan masalah medis yang seharusnya diselesaikan oleh kunjungan tersebut.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Haruskah Anda Pergi ke Tiongkok untuk Perawatan Sindrom Mielodisplastik? Tentukan Manfaat Sebelum Memesan
+- **Subtitle:** Tentukan manfaat rujukan sindrom mielodisplastik ke Tiongkok dari diagnosis, risiko, atau penilaian transplantasi sebelum mengatur perjalanan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Gunakan artikel ini untuk mempersiapkan konsultasi hematologi. Klinisi yang meng
 ## SEO Metadata
 
 - **Primary keyword:** perawatan sindrom mielodisplastik di Tiongkok
+
+- **Meta title:** Haruskah Anda Pergi ke Tiongkok untuk Perawatan Sindrom Mielodisplastik? Tentukan Manfaat Sebelum Memesan
+- **Meta description:** Tentukan manfaat rujukan sindrom mielodisplastik ke Tiongkok dari diagnosis, risiko, atau penilaian transplantasi sebelum mengatur perjalanan.

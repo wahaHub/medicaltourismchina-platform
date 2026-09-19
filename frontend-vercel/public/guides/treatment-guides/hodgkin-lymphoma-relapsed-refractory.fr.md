@@ -1,12 +1,14 @@
-# Quand le lymphome de Hodgkin récidive ou résiste au traitement : réévaluation, traitement de rattrapage et greffe
+# Lymphome de Hodgkin en rechute en Chine : préparer le traitement de rattrapage
 
 ## Hero
 
-- **Title:** Quand le lymphome de Hodgkin récidive ou résiste au traitement : réévaluation, traitement de rattrapage et greffe
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome de Hodgkin
-- **Subtitle:** Apprendre que le lymphome de Hodgkin a récidivé ou résisté au traitement peut donner l’impression que les efforts du premier traitement ont été vains.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Lymphome de Hodgkin en rechute en Chine : préparer le traitement de rattrapage
+- **Subtitle:** Préparez le traitement de rattrapage d’un lymphome de Hodgkin en Chine : confirmation de rechute, TEP, traitements reçus et place éventuelle de la greffe.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ La consultation de rechute peut se concentrer sur une question concise : quelle 
 ## SEO Metadata
 
 - **Primary keyword:** traitement du lymphome de Hodgkin en rechute ou réfractaire
+
+- **Meta title:** Lymphome de Hodgkin en rechute en Chine : préparer le traitement de rattrapage
+- **Meta description:** Préparez le traitement de rattrapage d’un lymphome de Hodgkin en Chine : confirmation de rechute, TEP, traitements reçus et place éventuelle de la greffe.

@@ -1,12 +1,14 @@
-# Mit Nebenwirkungen der Behandlung bei Multipler Sklerose umgehen: Symptome, Untersuchungen und rechtzeitige Hilfe
+# MS-Behandlung in China: Nebenwirkungen und wann Hilfe nötig ist
 
 ## Hero
 
-- **Title:** Mit Nebenwirkungen der Behandlung bei Multipler Sklerose umgehen: Symptome, Untersuchungen und rechtzeitige Hilfe
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Multiple Sklerose
-- **Subtitle:** Eine lange Liste möglicher Nebenwirkungen kann Behandlungsentscheidungen erschweren.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** MS-Behandlung in China: Nebenwirkungen und wann Hilfe nötig ist
+- **Subtitle:** Nebenwirkungen der MS-Behandlung in China besprechen: Infektionen, Blut- und Leberwerte, neue neurologische Symptome und Zuständigkeit für Kontrollen klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Ziel des Nebenwirkungsmanagements sind rechtzeitige Unterstützung und ein prakt
 ## SEO Metadata
 
 - **Primary keyword:** Nebenwirkungen der Behandlung bei Multipler Sklerose
+
+- **Meta title:** MS-Behandlung in China: Nebenwirkungen und wann Hilfe nötig ist
+- **Meta description:** Nebenwirkungen der MS-Behandlung in China besprechen: Infektionen, Blut- und Leberwerte, neue neurologische Symptome und Zuständigkeit für Kontrollen klären.

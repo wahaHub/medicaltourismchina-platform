@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Radiothérapie du lymphome à cellules du manteau : contrôle local, traitements courts et organisation des soins en Chine
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome à cellules du manteau
-- **Subtitle:** Se voir proposer une radiothérapie pour une masse lymphomateuse peut susciter une question compréhensible : si la zone peut être traitée directement, pourquoi parle-t-on encore de médicaments ?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Radiothérapie du lymphome à cellules du manteau : contrôle local, traitements courts et organisation des soins en Chine
+- **Subtitle:** Préparez la radiothérapie du lymphome du manteau en Chine en clarifiant l’objectif local, la dose, le nombre de séances et les limites des données disponibles.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -113,3 +115,6 @@ Le suivi doit répondre à deux questions distinctes : le problème local s’es
 ## SEO Metadata
 
 - **Primary keyword:** radiothérapie du lymphome à cellules du manteau
+
+- **Meta title:** Radiothérapie du lymphome à cellules du manteau : contrôle local, traitements courts et organisation des soins en Chine
+- **Meta description:** Préparez la radiothérapie du lymphome du manteau en Chine en clarifiant l’objectif local, la dose, le nombre de séances et les limites des données disponibles.

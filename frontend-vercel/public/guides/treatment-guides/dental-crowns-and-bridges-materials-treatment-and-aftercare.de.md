@@ -1,15 +1,17 @@
-# 060 Zahnkronen und Brücken: Materialien, Behandlung und Nachsorge
+# Zahnkronen und Brücken in China: Materialien und Nachsorge
 
 ## Hero
 
-- **Title:** Zahnkronen und Brücken: Materialien, Behandlung und Nachsorge
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Zahn- & Mundgesundheit
-- **Subtitle:** Entscheiden Sie, ob ein Zahn eine vollständige Überkronung benötigt, vergleichen Sie Brückenkonstruktionen und beurteilen Sie die fertige Arbeit nach Passung, Funktion und Pflegbarkeit – nicht allein nach Materialbezeichnungen.
 - **Reviewed by:** Medora-Health-Redaktion
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ein Zahnarzt erklärt einem internationalen Patienten eine dreigliedrige Zahnbrücke und Muster von Kronenmaterialien
+
+
+- **Title:** Zahnkronen und Brücken in China: Materialien und Nachsorge
+- **Subtitle:** Vergleichen Sie Kronen, konventionelle und Adhäsivbrücken, Konstruktionen wurzelgefüllter Zähne, Keramik- und Metallmaterialien, Passungskontrollen, Risiken und Pflege im Ausland.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -158,13 +160,15 @@ Eine normale Zahnbürste erreicht die Unterseite nicht. Nutzen Sie den für den 
 ## SEO Metadata
 
 - **Slug:** `dental-crowns-and-bridges-materials-treatment-and-aftercare`
-- **Meta title:** Zahnkronen und Brücken | Materialien und Nachsorge
-- **Meta description:** Vergleichen Sie Kronen, konventionelle und Adhäsivbrücken, Konstruktionen wurzelgefüllter Zähne, Keramik- und Metallmaterialien, Passungskontrollen, Risiken und Pflege im Ausland.
 - **Primary keyword:** Zahnkronen und Brücken
 - **Pillar keyword:** Zahnbehandlung in China
 - **Vertical keyword:** restaurative Zahnmedizin für internationale Patienten
 - **Search intent:** Behandlungsvergleich / Nachsorgeplanung
 - **Secondary keywords:** Zahnkrone China; Zahnbrücke China; Zirkonoxidkrone; Metallkeramikkrone; Adhäsivbrücke; Kronennachsorge; Brückenreinigung
+
+
+- **Meta title:** Zahnkronen und Brücken in China: Materialien und Nachsorge
+- **Meta description:** Vergleichen Sie Kronen, konventionelle und Adhäsivbrücken, Konstruktionen wurzelgefüllter Zähne, Keramik- und Metallmaterialien, Passungskontrollen, Risiken und Pflege im Ausland.
 
 ## Quellen
 

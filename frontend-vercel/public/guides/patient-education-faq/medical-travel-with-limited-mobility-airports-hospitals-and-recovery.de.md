@@ -1,15 +1,17 @@
-# Medizinische Reisen mit eingeschränkter Mobilität: jeden Transfer planen, nicht nur den Flug
+# Behandlungsreisen nach China mit eingeschränkter Mobilität: Unterstützung
 
 ## Hero
 
-- **Title:** Medizinische Reisen mit eingeschränkter Mobilität: jeden Transfer planen, nicht nur den Flug
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Barrierefreiheit und Erholung
-- **Subtitle:** Ein Ratgeber von Tür zu Tür zu Assistenzanfragen, Rollstuhlhandhabung, Toilettennutzung, Druckentlastung, Krankenhauszugang, Unterkunft und Unterstützung bei der Erholung.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Rollstuhlnutzer und Begleitperson prüfen Flughafenassistenz, Krankenhauszugang und Erholungszeiten vor einer medizinischen Reise
+
+
+- **Title:** Behandlungsreisen nach China mit eingeschränkter Mobilität: Unterstützung
+- **Subtitle:** Planen Sie Rollstuhlassistenz, Transfers, Batterien, Sitzen, Toilettennutzung, Krankenhauszugang und Erholung für medizinische Reisen mit eingeschränkter Mobilität.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Das Ziel muss nach der Ankunft funktionieren: Fahrzeugtransfer, Türbreiten, Bett- und Toilettenhöhe, Duschzugang, Aufzüge, Krankenhauswege und verlässliche Gerätereparatur sind ebenso wichtig wie das Flugzeug.
 
 ## Content
+
+Prüfen Sie bei einem Patienten mit eingeschränkter Mobilität, der zur Versorgung nach China reist, jeden Transfer von der Abreiseadresse bis zum Krankenhaus und zur Erholungsunterkunft. Dokumentieren Sie die benötigte Hilfe, Rollstuhldetails und Unterstützung bei der Körperpflege und prüfen Sie nach der Behandlung den Rückweg erneut.
+
 
 Eingeschränkte Mobilität ist eine Funktionsbeschreibung, keine Diagnose. Eine reisende Person kann einige Meter gehen, aber keine Flugzeugtreppe steigen. Eine andere kann selbstständig umsetzen, aber nicht ohne druckentlastendes Kissen sitzen. Eine dritte benötigt zwei geschulte Personen und einen Lifter. Die Reiseroute ist nur sicher, wenn jede Übergabe auf die tatsächlichen Fähigkeiten abgestimmt ist.
 
@@ -159,11 +164,13 @@ Verschieben Sie sie und lassen Sie neu beurteilen, wenn Transfers unsicher sind,
 
 ## SEO Metadata
 
-- **SEO title:** Medizinische Reisen mit eingeschränkter Mobilität: von Tür zu Tür
-- **Meta description:** Planen Sie Rollstuhlassistenz, Transfers, Batterien, Sitzen, Toilettennutzung, Krankenhauszugang und Erholung für medizinische Reisen mit eingeschränkter Mobilität.
 - **Primary keyword:** medizinische Reisen mit eingeschränkter Mobilität
 - **Secondary keywords:** Rollstuhlassistenz Flughafen, Flugreise mit Elektrorollstuhl, barrierefreie medizinische Reise, Rollstuhltransfer Krankenhaus, Reise bei Mobilitätserholung
 - **Suggested URL slug:** `/medical-travel-limited-mobility`
+
+
+- **Meta title:** Behandlungsreisen nach China mit eingeschränkter Mobilität: Unterstützung
+- **Meta description:** Planen Sie Rollstuhlassistenz, Transfers, Batterien, Sitzen, Toilettennutzung, Krankenhauszugang und Erholung für medizinische Reisen mit eingeschränkter Mobilität.
 
 ## Quellen
 

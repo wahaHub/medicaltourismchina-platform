@@ -1,12 +1,14 @@
-# Médicaments contre la GVHD : comprendre les corticoïdes, le ruxolitinib, le bélumosudil et les options ultérieures
+# Médicaments de la GVH en Chine : indications, surveillance et accès
 
 ## Hero
 
-- **Title:** Médicaments contre la GVHD : comprendre les corticoïdes, le ruxolitinib, le bélumosudil et les options ultérieures
 - **Category:** Guides des traitements
 - **Subcategory:** Maladie du greffon contre l’hôte
-- **Subtitle:** Après une greffe, le nombre de boîtes de médicaments peut devenir difficile à gérer.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Médicaments de la GVH en Chine : indications, surveillance et accès
+- **Subtitle:** Reliez les médicaments de la GVH à leur objectif, à la forme aiguë ou chronique et aux indications du produit pour préparer accès et surveillance en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -131,3 +133,6 @@ Un plan médicamenteux clair permet au patient d’expliquer pourquoi le protoco
 ## SEO Metadata
 
 - **Primary keyword:** traitement médicamenteux de la GVHD en Chine
+
+- **Meta title:** Médicaments de la GVH en Chine : indications, surveillance et accès
+- **Meta description:** Reliez les médicaments de la GVH à leur objectif, à la forme aiguë ou chronique et aux indications du produit pour préparer accès et surveillance en Chine.

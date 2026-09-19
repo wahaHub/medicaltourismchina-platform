@@ -1,12 +1,14 @@
-# Types of T-cell lymphoma: why subtype, stage and risk describe different things
+# T-Cell Lymphoma Types and Risk: Preparing for Care in China
 
 ## Hero
 
-- **Title:** Types of T-cell lymphoma: why subtype, stage and risk describe different things
 - **Category:** Patient Education & FAQ
 - **Subcategory:** T Cell Lymphoma
-- **Subtitle:** One person with a T-cell lymphoma may receive treatment directed at the skin while another needs systemic chemotherapy.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** T-Cell Lymphoma Types and Risk: Preparing for Care in China
+- **Subtitle:** Separate T-cell lymphoma subtype, stage and risk, and organize the evidence needed for a focused second opinion in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ A useful response might identify a need for specialist pathology review, a diffe
 ## SEO Metadata
 
 - **Primary keyword:** T-cell lymphoma types and risk groups
+
+- **Meta title:** T-Cell Lymphoma Types and Risk: Preparing for Care in China
+- **Meta description:** Separate T-cell lymphoma subtype, stage and risk, and organize the evidence needed for a focused second opinion in China.

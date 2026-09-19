@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Memilih rumah sakit di Tiongkok untuk anemia aplastik: diagnosis, pengobatan medis, dan transplantasi donor
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Anemia Aplastik
-- **Subtitle:** Mulailah dengan menyebutkan masalah yang perlu diselesaikan: diagnosis yang diperdebatkan, keputusan pengobatan pertama, ketiadaan respons yang menetap, atau jalur transplantasi donor tertentu.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Memilih rumah sakit di Tiongkok untuk anemia aplastik: diagnosis, pengobatan medis, dan transplantasi donor
+- **Subtitle:** Pilih tim anemia aplastik di Tiongkok untuk tinjauan diagnosis, terapi obat, atau transplantasi donor. Periksa dukungan dan tanggung jawab tindak lanjut.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -118,3 +120,6 @@ Persempit pilihan menjadi beberapa pusat yang benar-benar memenuhi kondisi pasie
 ## SEO Metadata
 
 - **Primary keyword:** pemilihan rumah sakit anemia aplastik
+
+- **Meta title:** Memilih rumah sakit di Tiongkok untuk anemia aplastik: diagnosis, pengobatan medis, dan transplantasi donor
+- **Meta description:** Pilih tim anemia aplastik di Tiongkok untuk tinjauan diagnosis, terapi obat, atau transplantasi donor. Periksa dukungan dan tanggung jawab tindak lanjut.

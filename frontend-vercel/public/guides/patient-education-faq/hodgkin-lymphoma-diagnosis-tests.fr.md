@@ -1,12 +1,14 @@
-# Examens en cas de suspicion de lymphome de Hodgkin : biopsie, stadification et préparation au traitement
+# Diagnostic du lymphome de Hodgkin en Chine : biopsie et bilan d’extension
 
 ## Hero
 
-- **Title:** Examens en cas de suspicion de lymphome de Hodgkin : biopsie, stadification et préparation au traitement
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Lymphome de Hodgkin
-- **Subtitle:** Un ganglion cervical augmenté de volume, des sueurs nocturnes ou une fièvre inexpliquée peuvent conduire à rechercher un lymphome de Hodgkin, mais les symptômes seuls ne permettent pas d’établir le diagnostic.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnostic du lymphome de Hodgkin en Chine : biopsie et bilan d’extension
+- **Subtitle:** Comprenez comment biopsie, anatomopathologie, TEP/TDM et analyses sanguines préparent le diagnostic et le traitement du lymphome de Hodgkin en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Avant de quitter la consultation, sachez qui réunira les éléments de la concl
 ## SEO Metadata
 
 - **Primary keyword:** examens pour le lymphome de Hodgkin
+
+- **Meta title:** Diagnostic du lymphome de Hodgkin en Chine : biopsie et bilan d’extension
+- **Meta description:** Comprenez comment biopsie, anatomopathologie, TEP/TDM et analyses sanguines préparent le diagnostic et le traitement du lymphome de Hodgkin en Chine.

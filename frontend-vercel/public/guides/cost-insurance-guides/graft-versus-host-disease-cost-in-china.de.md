@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** GVHD-Behandlungskosten in China: Einen aufgeschlüsselten RMB-Kostenvoranschlag erstellen
 - **Category:** Kosten- & Versicherungsratgeber
 - **Subcategory:** Graft-versus-Host-Erkrankung
-- **Subtitle:** Es gibt keinen einheitlichen landesweiten Preis für die Behandlung der Graft-versus-Host-Erkrankung.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** GVHD-Behandlungskosten in China: Einen aufgeschlüsselten RMB-Kostenvoranschlag erstellen
+- **Subtitle:** GVHD-Behandlungskosten in China aufschlüsseln: Medikamente, Organversorgung, Photopherese, Kontrollen und wiederkehrende Termine im Kostenvoranschlag abgleichen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ Das hilfreiche Ergebnis ist ein erklärbares RMB-Budget mit benannten Unsicherhe
 ## SEO Metadata
 
 - **Primary keyword:** GVHD-Behandlungskosten in China
+
+- **Meta title:** GVHD-Behandlungskosten in China: Einen aufgeschlüsselten RMB-Kostenvoranschlag erstellen
+- **Meta description:** GVHD-Behandlungskosten in China aufschlüsseln: Medikamente, Organversorgung, Photopherese, Kontrollen und wiederkehrende Termine im Kostenvoranschlag abgleichen.

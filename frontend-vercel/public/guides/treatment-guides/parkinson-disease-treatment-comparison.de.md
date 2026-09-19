@@ -1,12 +1,14 @@
-# Parkinson-Behandlungen vergleichen: Medikamentenanpassung, Infusion, DBS und fokussierter Ultraschall
+# Parkinson-Behandlungen in China: Medikamente und gerätegestützte Verfahren
 
 ## Hero
 
-- **Title:** Parkinson-Behandlungen vergleichen: Medikamentenanpassung, Infusion, DBS und fokussierter Ultraschall
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Parkinson-Krankheit
-- **Subtitle:** Wenn Medikamente keinen vorhersehbaren Tagesablauf mehr ermöglichen, hören Patienten möglicherweise Empfehlungen, ein Medikament hinzuzufügen, die Darreichungsform zu ändern, ein Infusionssystem zu verwenden oder einen Eingriff zu erwägen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Parkinson-Behandlungen in China: Medikamente und gerätegestützte Verfahren
+- **Subtitle:** Parkinson-Behandlungen in China vergleichen: Medikamentenanpassung, Infusion, tiefe Hirnstimulation und fokussierten Ultraschall nach Ziel und Betreuungsbedarf prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Evidenz überprüft: September 9, 2026. Individuelle Indikationen, örtliche Ger
 ## SEO Metadata
 
 - **Primary keyword:** Vergleich der Parkinson-Behandlungen in China
+
+- **Meta title:** Parkinson-Behandlungen in China: Medikamente und gerätegestützte Verfahren
+- **Meta description:** Parkinson-Behandlungen in China vergleichen: Medikamentenanpassung, Infusion, tiefe Hirnstimulation und fokussierten Ultraschall nach Ziel und Betreuungsbedarf prüfen.

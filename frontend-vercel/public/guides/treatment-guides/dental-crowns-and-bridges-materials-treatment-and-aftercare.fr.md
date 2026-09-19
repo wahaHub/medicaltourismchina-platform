@@ -1,15 +1,17 @@
-# 060 Couronnes et bridges dentaires : matériaux, traitement et suivi
+# Couronnes et bridges dentaires en Chine : matériaux et suivi
 
 ## Hero
 
-- **Title:** Couronnes et bridges dentaires : matériaux, traitement et suivi
 - **Category:** Guides des traitements
 - **Subcategory:** Santé dentaire et buccale
-- **Subtitle:** Déterminer si une dent nécessite un recouvrement complet, comparer les conceptions de bridges et juger le travail terminé selon son ajustage, sa fonction et sa facilité d’entretien — pas seulement les noms des matériaux.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un dentiste expliquant un bridge dentaire de trois éléments et des échantillons de matériaux de couronne à un patient international
+
+
+- **Title:** Couronnes et bridges dentaires en Chine : matériaux et suivi
+- **Subtitle:** Comparez couronnes, bridges conventionnels et collés, conception sur dent obturée canalairement, matériaux céramiques et métalliques, contrôles d’ajustage, risques et entretien à l’étranger.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -158,13 +160,15 @@ Une brosse à dents ordinaire ne peut atteindre le dessous. Utilisez le passe-fi
 ## SEO Metadata
 
 - **Slug:** `dental-crowns-and-bridges-materials-treatment-and-aftercare`
-- **Meta title:** Couronnes et bridges dentaires | Matériaux et suivi
-- **Meta description:** Comparez couronnes, bridges conventionnels et collés, conception sur dent obturée canalairement, matériaux céramiques et métalliques, contrôles d’ajustage, risques et entretien à l’étranger.
 - **Primary keyword:** couronnes et bridges dentaires
 - **Pillar keyword:** traitement dentaire en Chine
 - **Vertical keyword:** dentisterie restauratrice pour les patients internationaux
 - **Search intent:** comparaison des traitements / planification du suivi
 - **Secondary keywords:** couronne dentaire Chine ; bridge dentaire Chine ; couronne en zircone ; couronne céramométallique ; bridge collé ; suivi de couronne ; nettoyage de bridge
+
+
+- **Meta title:** Couronnes et bridges dentaires en Chine : matériaux et suivi
+- **Meta description:** Comparez couronnes, bridges conventionnels et collés, conception sur dent obturée canalairement, matériaux céramiques et métalliques, contrôles d’ajustage, risques et entretien à l’étranger.
 
 ## Sources
 

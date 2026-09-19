@@ -1,12 +1,14 @@
-# Resultados y pronóstico de la enfermedad de Parkinson: independencia, riesgos a largo plazo y planificación anticipada
+# Pronóstico del Parkinson: planificar la atención continuada en China
 
 ## Hero
 
-- **Title:** Resultados y pronóstico de la enfermedad de Parkinson: independencia, riesgos a largo plazo y planificación anticipada
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedad de Parkinson
-- **Subtitle:** «¿Cuánto tiempo conservaré mi independencia?» suele acercarse más a la preocupación del paciente que el número de puntos ganados en una escala motora.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronóstico del Parkinson: planificar la atención continuada en China
+- **Subtitle:** Defina objetivos de autonomía y control de síntomas del Parkinson, y prepare preguntas sobre riesgos y necesidades de atención continuada en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -122,3 +124,6 @@ Un plan que pueda continuar donde vive el paciente, con responsabilidades asigna
 ## SEO Metadata
 
 - **Primary keyword:** pronóstico de la enfermedad de Parkinson
+
+- **Meta title:** Pronóstico del Parkinson: planificar la atención continuada en China
+- **Meta description:** Defina objetivos de autonomía y control de síntomas del Parkinson, y prepare preguntas sobre riesgos y necesidades de atención continuada en China.

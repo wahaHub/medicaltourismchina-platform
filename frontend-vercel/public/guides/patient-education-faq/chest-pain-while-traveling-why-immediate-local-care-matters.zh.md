@@ -1,15 +1,17 @@
-# 旅行途中胸痛：立即中断行程，在所在地启动急救
+# 在中国旅行时胸痛：及时寻求急救
 
 ## Hero
 
-- **Title:** 旅行途中胸痛：立即中断行程，在所在地启动急救
 - **Category:** 患者教育与常见问题
 - **Subcategory:** 症状与紧急照护
-- **Subtitle:** 为什么机票、指定医院或境外医生都不能延误急诊评估，以及患者和陪同者在最初几分钟该做什么。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **图片替代文字：** 与《旅行途中胸痛：立即中断行程，在所在地启动急救》对应的临床场景，呈现相关诊疗决策、操作流程与安全核对。
+
+
+- **Title:** 在中国旅行时胸痛：及时寻求急救
+- **Subtitle:** 中断行程、呼叫当地急救、不要自行驾车，并了解为什么登机或去远处医院前必须先评估胸痛。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -152,13 +154,15 @@
 ## SEO Metadata
 
 - **Slug:** `chest-pain-while-traveling-why-immediate-local-care-matters`
-- **Meta title:** 旅行途中胸痛：立即呼叫当地急救
-- **Meta description:** 中断行程、呼叫当地急救、不要自行驾车，并了解为什么登机或去远处医院前必须先评估胸痛。
 - **Primary keyword:** 旅行途中胸痛
 - **Pillar keyword:** 医疗旅行患者安全
 - **Vertical keyword:** 机场胸痛急救
 - **Search intent:** 紧急患者指导
 - **Secondary keywords:** 飞机上胸痛；中国拨打 120；飞行后肺栓塞；境外心肌梗死；胸痛不要自己开车
+
+
+- **Meta title:** 在中国旅行时胸痛：及时寻求急救
+- **Meta description:** 中断行程、呼叫当地急救、不要自行驾车，并了解为什么登机或去远处医院前必须先评估胸痛。
 
 ## Sources
 

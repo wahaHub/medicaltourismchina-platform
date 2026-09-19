@@ -1,15 +1,17 @@
-# 体部立体定向放射治疗（SBRT）：患者实用指南
+# 中国 SBRT 放疗：治疗计划、安全与随访
 
 ## Hero
 
-- **Title:** 体部立体定向放射治疗（SBRT）：患者实用指南
 - **Category:** 治疗指南
 - **Subcategory:** 肿瘤诊疗
-- **Subtitle:** 了解适应性、运动管理、危及器官限量和患者专属质控，怎样共同决定一次短疗程高精度放疗。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 医生向患者解释简化的胸部SBRT计划，多束射线路径汇聚于一个小靶区
+
+
+- **Title:** 中国 SBRT 放疗：治疗计划、安全与随访
+- **Subtitle:** 了解SBRT适应性、运动管理、影像引导、危及器官限量、质量保证和复查影像，为体部立体定向放疗做好准备。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,13 +143,15 @@ SBRT 不会让患者带有放射性。射线来自体外，机器停止出束后
 ## SEO Metadata
 
 - **Slug:** `stereotactic-body-radiotherapy-sbrt-a-patient-guide`
-- **Meta title:** SBRT患者指南：计划、安全与随访
-- **Meta description:** 了解SBRT适应性、运动管理、影像引导、危及器官限量、质量保证和复查影像，为体部立体定向放疗做好准备。
 - **Primary keyword:** SBRT患者指南
 - **Pillar keyword:** 中国放射治疗
 - **Vertical keyword:** 中国体部立体定向放射治疗
 - **Search intent:** 治疗教育 / 安全评估
 - **Secondary keywords:** SABR治疗；SBRT运动管理；SBRT分次；SBRT质量保证；SBRT复查影像
+
+
+- **Meta title:** 中国 SBRT 放疗：治疗计划、安全与随访
+- **Meta description:** 了解SBRT适应性、运动管理、影像引导、危及器官限量、质量保证和复查影像，为体部立体定向放疗做好准备。
 
 ## Sources
 

@@ -1,15 +1,17 @@
-# Pencegahan Bekuan Darah Selama Perjalanan Medis: Hubungkan Rencana Rumah Sakit dengan Perjalanan Pulang
+# Operasi dan Perjalanan Medis ke Tiongkok: Pencegahan Bekuan Darah
 
 ## Hero
 
-- **Title:** Pencegahan Bekuan Darah Selama Perjalanan Medis: Hubungkan Rencana Rumah Sakit dengan Perjalanan Pulang
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Keselamatan Perjalanan & Pemulihan
-- **Subtitle:** Cara menghubungkan penilaian VTE bedah, mobilitas dini, kompresi, dan antikoagulan dengan penerbangan panjang, perpindahan darat, serta gejala DVT atau emboli paru yang mendesak.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Gambar pengganti yang direncanakan memperlihatkan pelancong pascaoperasi, sirkulasi vena tungkai bawah, berjalan dan latihan betis, stoking kompresi, antikoagulasi yang diresepkan, serta tanda peringatan DVT/PE yang mendesak
+
+
+- **Title:** Operasi dan Perjalanan Medis ke Tiongkok: Pencegahan Bekuan Darah
+- **Subtitle:** Hubungkan pencegahan DVT dan PE bedah dengan penerbangan panjang dan perpindahan: penilaian risiko, berjalan, kompresi, antikoagulan, keputusan layak bepergian, dan gejala darurat.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,11 +144,13 @@ Perlakukan sebagai keadaan darurat, terutama dengan nyeri dada, pingsan, batuk d
 
 ## SEO Metadata
 
-- **SEO title:** Pencegahan Bekuan Darah Setelah Operasi dan Selama Perjalanan Medis
-- **Meta description:** Hubungkan pencegahan DVT dan PE bedah dengan penerbangan panjang dan perpindahan: penilaian risiko, berjalan, kompresi, antikoagulan, keputusan layak bepergian, dan gejala darurat.
 - **Primary keyword:** pencegahan bekuan darah perjalanan medis
 - **Secondary keywords:** DVT setelah operasi, emboli paru perjalanan, profilaksis VTE, stoking kompresi penerbangan, antikoagulan setelah operasi, layak terbang bekuan darah
 - **Suggested URL slug:** `/blood-clot-prevention-surgery-medical-travel-dvt-pe`
+
+
+- **Meta title:** Operasi dan Perjalanan Medis ke Tiongkok: Pencegahan Bekuan Darah
+- **Meta description:** Hubungkan pencegahan DVT dan PE bedah dengan penerbangan panjang dan perpindahan: penilaian risiko, berjalan, kompresi, antikoagulan, keputusan layak bepergian, dan gejala darurat.
 
 ## Sumber
 

@@ -1,15 +1,17 @@
-# 102 Ein Krankenhaus in Shanghai auswählen: Fachgebiete, Zugang und Reise
+# Krankenhauswahl in China: Zugang und Reiseplanung in Shanghai
 
 ## Hero
 
-- **Title:** Ein Krankenhaus in Shanghai auswählen: Fachgebiete, Zugang und Reise
 - **Category:** Krankenhausleitfäden
 - **Subcategory:** Versorgungsplanung in Shanghai
-- **Subtitle:** Machen Sie aus einem Shanghaier Krankenhausnamen einen geprüften klinischen Weg, einen Reiseplan zum genauen Standort und einen praktikablen Ablauf von Ankunft bis Entlassung.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Konzeptillustration internationaler Reisender bei der Planung des Krankenhauszugangs in Shanghai; Skyline, Bahnsymbol und Krankenhaus zeigen keinen realen Standort oder Weg.
+
+
+- **Title:** Krankenhauswahl in China: Zugang und Reiseplanung in Shanghai
+- **Subtitle:** Planen Sie einen sicheren medizinischen Weg in Shanghai durch Prüfung von Fachteam, genauen Standorten, internationalem Service, Passidentität, Zahlung, Flughäfen und Entlassungsübergabe.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -248,13 +250,15 @@ Fragen Sie, ob das Krankenhaus sie zusammenlegen kann. Falls nicht, planen Sie T
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-shanghai-specialties-access-and-travel`
-- **Meta title:** Ein Krankenhaus in Shanghai auswählen: Standort, Zugang und Reise
-- **Meta description:** Planen Sie einen sicheren medizinischen Weg in Shanghai durch Prüfung von Fachteam, genauen Standorten, internationalem Service, Passidentität, Zahlung, Flughäfen und Entlassungsübergabe.
 - **Primary keyword:** ein Krankenhaus in Shanghai auswählen
 - **Pillar keyword:** Shanghaier Krankenhäuser für internationale Patienten
 - **Vertical keyword:** Shanghai Krankenhaus Standort Zugang Reise
 - **Search intent:** Krankenhausvergleich / medizinische Reiseplanung
 - **Secondary keywords:** Shanghai internationaler medizinischer Service; Shanghai Krankenhaustermin Pass; Suishenban Krankenhausbuchung; Pudong Hongqiao Krankenhausreise; Shanghai Krankenhausstandort
+
+
+- **Meta title:** Krankenhauswahl in China: Zugang und Reiseplanung in Shanghai
+- **Meta description:** Planen Sie einen sicheren medizinischen Weg in Shanghai durch Prüfung von Fachteam, genauen Standorten, internationalem Service, Passidentität, Zahlung, Flughäfen und Entlassungsübergabe.
 
 ## Quellen
 

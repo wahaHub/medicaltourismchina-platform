@@ -1,12 +1,14 @@
-# Tratamiento del linfoma de Hodgkin: decisiones desde el diagnóstico hasta la recuperación
+# Tratamiento del linfoma de Hodgkin en China: del diagnóstico a la recuperación
 
 ## Hero
 
-- **Title:** Tratamiento del linfoma de Hodgkin: decisiones desde el diagnóstico hasta la recuperación
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de Hodgkin
-- **Subtitle:** El tratamiento del linfoma de Hodgkin se planifica en torno tanto al control de la enfermedad como a la vida después del tratamiento.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento del linfoma de Hodgkin en China: del diagnóstico a la recuperación
+- **Subtitle:** Prepare el tratamiento del linfoma de Hodgkin en China, desde la confirmación diagnóstica y elección de pauta hasta fertilidad, evaluación y recuperación.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -117,3 +119,6 @@ Después del tratamiento, solicite un plan de supervivencia que registre la expo
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento del linfoma de Hodgkin
+
+- **Meta title:** Tratamiento del linfoma de Hodgkin en China: del diagnóstico a la recuperación
+- **Meta description:** Prepare el tratamiento del linfoma de Hodgkin en China, desde la confirmación diagnóstica y elección de pauta hasta fertilidad, evaluación y recuperación.

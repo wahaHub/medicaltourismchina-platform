@@ -1,12 +1,14 @@
-# Comprendre un compte rendu d’aplasie médullaire : hypocellularité, clones HPN et résultats génétiques
+# Comptes rendus d’aplasie médullaire : préparer une relecture en Chine
 
 ## Hero
 
-- **Title:** Comprendre un compte rendu d’aplasie médullaire : hypocellularité, clones HPN et résultats génétiques
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Aplasie médullaire
-- **Subtitle:** Plusieurs anomalies dans un compte rendu ne représentent pas nécessairement plusieurs nouvelles maladies.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Comptes rendus d’aplasie médullaire : préparer une relecture en Chine
+- **Subtitle:** Comprenez hypocellularité médullaire, clones HPN, génétique et numérations sanguines pour préparer une relecture du dossier d’aplasie médullaire en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Le calendrier doit distinguer la réception du matériel, la relecture des lames
 ## SEO Metadata
 
 - **Primary keyword:** comprendre un compte rendu d’aplasie médullaire
+
+- **Meta title:** Comptes rendus d’aplasie médullaire : préparer une relecture en Chine
+- **Meta description:** Comprenez hypocellularité médullaire, clones HPN, génétique et numérations sanguines pour préparer une relecture du dossier d’aplasie médullaire en Chine.

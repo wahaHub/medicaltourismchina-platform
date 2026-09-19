@@ -1,15 +1,17 @@
-# 120 Entlassungskoordination und Nachsorge im Ausland nach einem chinesischen Krankenhausaufenthalt: „Gesendet“ ist nicht „empfangen“
+# Krankenhausentlassung in China: Nachsorge im Ausland planen
 
 ## Hero
 
-- **Title:** Entlassungskoordination und Nachsorge im Ausland nach einem chinesischen Krankenhausaufenthalt: „Gesendet“ ist nicht „empfangen“
 - **Category:** Krankenhausratgeber
 - **Subcategory:** Grenzüberschreitende Entlassung und Nachsorge
-- **Subtitle:** Eine sichere Entlassung ist erst abgeschlossen, wenn der Patient stabil ist, die Reise gesondert beurteilt wurde, die Unterlagen nutzbar sind, ausstehende Ergebnisse eine verantwortliche Person haben und ein Arzt zu Hause die nächste Aufgabe übernimmt.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Konzeptdarstellung eines Entlassungsgesprächs mit einem internationalen Patienten, Gepäck, Koordinator, Kalender, Route und Nachsorgekontakt; sie zeigt kein echtes Krankenhaus, keine Flugfreigabe, keine Patientenakte und keine Garantie.
+
+
+- **Title:** Krankenhausentlassung in China: Nachsorge im Ausland planen
+- **Subtitle:** Schließen Sie eine Krankenhausentlassung in China sicher ab: Medikamentenabgleich, Originalunterlagen, Zuständigkeit für ausstehende Ergebnisse, Reisefähigkeitsprüfung und bestätigte Übergabe an den Arzt zu Hause.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -219,13 +221,15 @@ Der übernehmende Arzt bestätigt, dass Unterlagen lesbar sind, Identität und M
 ## SEO Metadata
 
 - **Slug:** `discharge-coordination-and-overseas-follow-up-from-a-chinese-hospital`
-- **Meta title:** Entlassung und Auslandsnachsorge nach einem chinesischen Krankenhausaufenthalt
-- **Meta description:** Schließen Sie eine Krankenhausentlassung in China sicher ab: Medikamentenabgleich, Originalunterlagen, Zuständigkeit für ausstehende Ergebnisse, Reisefähigkeitsprüfung und bestätigte Übergabe an den Arzt zu Hause.
 - **Primary keyword:** Entlassung aus einem chinesischen Krankenhaus für internationale Patienten
 - **Pillar keyword:** Nachsorge im Ausland nach Behandlung in China
 - **Vertical keyword:** grenzüberschreitende medizinische Entlassungskoordination
 - **Search intent:** Entlassungs- und Nachsorgeplanung
 - **Secondary keywords:** Krankenhausentlassung China; Nachsorge nach Behandlung in China; Flugtauglichkeit nach Operation China; chinesische Krankenunterlagen; grenzüberschreitende Patientenübergabe
+
+
+- **Meta title:** Krankenhausentlassung in China: Nachsorge im Ausland planen
+- **Meta description:** Schließen Sie eine Krankenhausentlassung in China sicher ab: Medikamentenabgleich, Originalunterlagen, Zuständigkeit für ausstehende Ergebnisse, Reisefähigkeitsprüfung und bestätigte Übergabe an den Arzt zu Hause.
 
 ## Quellen
 

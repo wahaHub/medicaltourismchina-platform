@@ -1,12 +1,14 @@
-# Comparación de tratamientos del linfoma de células T: lo que omiten las listas de fármacos y las tasas de respuesta
+# Opciones de tratamiento del linfoma de células T en China: comparación
 
 ## Hero
 
-- **Title:** Comparación de tratamientos del linfoma de células T: lo que omiten las listas de fármacos y las tasas de respuesta
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de células T
-- **Subtitle:** Dos recomendaciones diferentes suelen llevar a los pacientes a comparar el número de fármacos, su precio o las tasas de respuesta encontradas en internet.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Opciones de tratamiento del linfoma de células T en China: comparación
+- **Subtitle:** Compare tratamientos del linfoma de células T en China según subtipo, población estudiada y resultados, evitando clasificaciones basadas solo en respuesta.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -109,3 +111,6 @@ Pregunte al médico qué podría ganarse y a qué podría renunciarse al elegir 
 ## SEO Metadata
 
 - **Primary keyword:** comparación de tratamientos del linfoma de células T
+
+- **Meta title:** Opciones de tratamiento del linfoma de células T en China: comparación
+- **Meta description:** Compare tratamientos del linfoma de células T en China según subtipo, población estudiada y resultados, evitando clasificaciones basadas solo en respuesta.

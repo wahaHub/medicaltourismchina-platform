@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Sollte ein Mensch mit Alzheimer zur Behandlung nach China reisen?
 - **Category:** Leitfäden zum Patientenweg
 - **Subcategory:** Alzheimer-Krankheit
-- **Subtitle:** Eine Familie, die eine Behandlung in einem anderen Land erwägt, braucht mehr als einen verfügbaren Termin.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sollte ein Mensch mit Alzheimer zur Behandlung nach China reisen?
+- **Subtitle:** Eine Alzheimer-Behandlungsreise nach China abwägen: klinisches Ziel, Krankheitsstadium, Reisebelastung, Antikörperkontrollen und Unterstützung nach der Heimkehr klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Die Reiseentscheidung sollte weiterhin auf Zustand, Wünsche und Unterstützungs
 ## SEO Metadata
 
 - **Primary keyword:** medizinische Reise nach China bei Alzheimer-Krankheit
+
+- **Meta title:** Sollte ein Mensch mit Alzheimer zur Behandlung nach China reisen?
+- **Meta description:** Eine Alzheimer-Behandlungsreise nach China abwägen: klinisches Ziel, Krankheitsstadium, Reisebelastung, Antikörperkontrollen und Unterstützung nach der Heimkehr klären.

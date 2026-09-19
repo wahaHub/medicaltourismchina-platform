@@ -1,12 +1,14 @@
-# Auswahl der Erstbehandlung beim T-Zell-Lymphom: Diagnose, Therapieschema und Planung der Ansprechkontrolle
+# Erstlinientherapie beim T-Zell-Lymphom in China: Versorgung planen
 
 ## Hero
 
-- **Title:** Auswahl der Erstbehandlung beim T-Zell-Lymphom: Diagnose, Therapieschema und Planung der Ansprechkontrolle
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** T-Zell-Lymphom
-- **Subtitle:** Beim ersten Behandlungsgespräch fragen Patienten häufig, welches Medikament am stärksten wirkt, ob eine Transplantation unvermeidlich ist und wie bald die Behandlung beginnen sollte.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Erstlinientherapie beim T-Zell-Lymphom in China: Versorgung planen
+- **Subtitle:** Erstlinientherapie beim T-Zell-Lymphom in China vorbereiten: Subtyp, Behandlungsschema, unterstützende Versorgung und geplante Ansprechkontrollen abstimmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ Der anfängliche Plan sollte ein aktualisierbares Dokument sein: warum das Schem
 ## SEO Metadata
 
 - **Primary keyword:** Erstlinientherapie beim T-Zell-Lymphom
+
+- **Meta title:** Erstlinientherapie beim T-Zell-Lymphom in China: Versorgung planen
+- **Meta description:** Erstlinientherapie beim T-Zell-Lymphom in China vorbereiten: Subtyp, Behandlungsschema, unterstützende Versorgung und geplante Ansprechkontrollen abstimmen.

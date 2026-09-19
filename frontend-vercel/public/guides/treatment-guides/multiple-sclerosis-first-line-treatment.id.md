@@ -1,12 +1,14 @@
-# Memilih pengobatan MS pertama: mengubah resep awal menjadi rencana yang dapat dijalankan
+# Memulai Pengobatan Sklerosis Multipel di Tiongkok: Obat dan Tindak Lanjut
 
 ## Hero
 
-- **Title:** Memilih pengobatan MS pertama: mengubah resep awal menjadi rencana yang dapat dijalankan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Sklerosis Multipel
-- **Subtitle:** Pengobatan lini pertama tidak selalu berarti setiap orang dengan MS harus memulai dengan obat berintensitas lebih rendah yang sama.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Memulai Pengobatan Sklerosis Multipel di Tiongkok: Obat dan Tindak Lanjut
+- **Subtitle:** Susun pengobatan awal sklerosis multipel di Tiongkok dengan tujuan jelas, pilihan obat pemodifikasi penyakit, pemantauan, dan tindak lanjut.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Mintalah biaya penilaian awal, obat dan pemberiannya, tindak lanjut, serta kemun
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan lini pertama sklerosis multipel di Tiongkok
+
+- **Meta title:** Memulai Pengobatan Sklerosis Multipel di Tiongkok: Obat dan Tindak Lanjut
+- **Meta description:** Susun pengobatan awal sklerosis multipel di Tiongkok dengan tujuan jelas, pilihan obat pemodifikasi penyakit, pemantauan, dan tindak lanjut.

@@ -1,12 +1,14 @@
-# Beginn der GVHD-Behandlung: lokale Versorgung, Kortikosteroide und frühzeitige Neubewertung
+# Beginn der GVHD-Behandlung in China: Optionen und frühe Ansprechkontrolle
 
 ## Hero
 
-- **Title:** Beginn der GVHD-Behandlung: lokale Versorgung, Kortikosteroide und frühzeitige Neubewertung
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Graft-versus-Host-Erkrankung
-- **Subtitle:** Patienten sind manchmal verwundert, wenn ihnen gesagt wird, dass sie eine GVHD-Behandlung beginnen, obwohl sie während der Transplantation bereits immunsuppressive Medikamente einnehmen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Beginn der GVHD-Behandlung in China: Optionen und frühe Ansprechkontrolle
+- **Subtitle:** GVHD-Behandlung in China beginnen: lokale und systemische Versorgung, Steroide, Organansprechen, Infektionsvorbeugung und frühe Kontrolltermine planen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -129,3 +131,6 @@ Stellen Sie vor dem Verlassen der Behandlungsstadt sicher, dass die nächste Beu
 ## SEO Metadata
 
 - **Primary keyword:** Erstlinienbehandlung der Graft-versus-Host-Erkrankung in China
+
+- **Meta title:** Beginn der GVHD-Behandlung in China: Optionen und frühe Ansprechkontrolle
+- **Meta description:** GVHD-Behandlung in China beginnen: lokale und systemische Versorgung, Steroide, Organansprechen, Infektionsvorbeugung und frühe Kontrolltermine planen.

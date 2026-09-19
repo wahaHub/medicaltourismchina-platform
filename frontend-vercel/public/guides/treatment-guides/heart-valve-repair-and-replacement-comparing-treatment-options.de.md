@@ -1,15 +1,17 @@
-# 039 Herzklappenrekonstruktion und -ersatz: Behandlungsmöglichkeiten vergleichen
+# Herzklappenbehandlung in China: Rekonstruktion oder Ersatz
 
 ## Hero
 
-- **Title:** Herzklappenrekonstruktion und -ersatz: Behandlungsmöglichkeiten vergleichen
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Herz- und Gefäßversorgung
-- **Subtitle:** Vergleichen Sie Rekonstruktion, mechanischen und biologischen Ersatz sowie Katheterbehandlung anhand der Klappenläsion, der lebenslangen Planung und der Prioritäten des Patienten.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** AUSSTEHEND – erfordert einen medizinisch korrekten Vergleich von Klappenrekonstruktion, mechanischem Ersatz und biologischem Ersatz
+
+
+- **Title:** Herzklappenbehandlung in China: Rekonstruktion oder Ersatz
+- **Subtitle:** Vergleichen Sie Klappenrekonstruktion, mechanischen und biologischen Ersatz, Chirurgie und Katheteroptionen, Antikoagulation, Erholung und lebenslange Nachsorge.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -171,13 +173,15 @@ Führen Sie Eingriffsbericht und Implantat- oder Rekonstruktionsdetails zusammen
 ## SEO Metadata
 
 - **Slug:** `heart-valve-repair-and-replacement-comparing-treatment-options`
-- **Meta title:** Herzklappenrekonstruktion oder Ersatz: Ein Patientenvergleich
-- **Meta description:** Vergleichen Sie Klappenrekonstruktion, mechanischen und biologischen Ersatz, Chirurgie und Katheteroptionen, Antikoagulation, Erholung und lebenslange Nachsorge.
 - **Primary keyword:** Herzklappenrekonstruktion und -ersatz
 - **Pillar keyword:** Herzklappenbehandlung
 - **Vertical keyword:** Möglichkeiten der Klappenchirurgie
 - **Search intent:** Behandlungsvergleich / Prothesenentscheidung
 - **Secondary keywords:** Klappenrekonstruktion oder Ersatz; mechanische Klappe; biologische Klappe; Herzklappenoperation; Klappenantikoagulation; Klappennachsorge
+
+
+- **Meta title:** Herzklappenbehandlung in China: Rekonstruktion oder Ersatz
+- **Meta description:** Vergleichen Sie Klappenrekonstruktion, mechanischen und biologischen Ersatz, Chirurgie und Katheteroptionen, Antikoagulation, Erholung und lebenslange Nachsorge.
 
 ## Quellen
 

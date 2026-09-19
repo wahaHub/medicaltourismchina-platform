@@ -1,12 +1,14 @@
-# Tipos y riesgo de EICH: enfermedad aguda, crónica, de superposición y resistente a los corticoides
+# Tipos y riesgo de EICH: prepararse para la atención especializada en China
 
 ## Hero
 
-- **Title:** Tipos y riesgo de EICH: enfermedad aguda, crónica, de superposición y resistente a los corticoides
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedad de injerto contra huésped
-- **Subtitle:** Crónica, grave, de alto riesgo y resistente a los corticoides pueden sonar como peldaños sucesivos de una misma escala.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tipos y riesgo de EICH: prepararse para la atención especializada en China
+- **Subtitle:** Distinga las formas aguda, crónica y de superposición de la enfermedad injerto contra huésped y prepare una revisión de gravedad y riesgo en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ La aceptación para una consulta no es la aceptación para una terapia concreta 
 ## SEO Metadata
 
 - **Primary keyword:** tipos de enfermedad de injerto contra huésped y evaluación del riesgo en China
+
+- **Meta title:** Tipos y riesgo de EICH: prepararse para la atención especializada en China
+- **Meta description:** Distinga las formas aguda, crónica y de superposición de la enfermedad injerto contra huésped y prepare una revisión de gravedad y riesgo en China.

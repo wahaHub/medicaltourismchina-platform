@@ -1,12 +1,14 @@
-# Does DLBCL need surgery? Biopsy, vascular access and urgent procedures
+# DLBCL Procedures in China: Biopsy, Access and Urgent Care
 
 ## Hero
 
-- **Title:** Does DLBCL need surgery? Biopsy, vascular access and urgent procedures
 - **Category:** Treatment Guides
 - **Subcategory:** Diffuse Large B Cell Lymphoma
-- **Subtitle:** DLBCL is generally treated with medicines that act throughout the body.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL Procedures in China: Biopsy, Access and Urgent Care
+- **Subtitle:** Understand the roles of biopsy, venous access and urgent procedures in DLBCL, with records and preparation needed before arranging care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -122,3 +124,6 @@ Follow-up must address lymphoma as well as unresolved wounds, access infection o
 ## SEO Metadata
 
 - **Primary keyword:** surgery and procedures for DLBCL
+
+- **Meta title:** DLBCL Procedures in China: Biopsy, Access and Urgent Care
+- **Meta description:** Understand the roles of biopsy, venous access and urgent procedures in DLBCL, with records and preparation needed before arranging care in China.

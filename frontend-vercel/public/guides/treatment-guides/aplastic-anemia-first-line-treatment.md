@@ -1,12 +1,14 @@
-# First-line treatment for severe aplastic anemia: transplantation or ATG-based therapy
+# Severe Aplastic Anemia in China: First-Line Treatment Options
 
 ## Hero
 
-- **Title:** First-line treatment for severe aplastic anemia: transplantation or ATG-based therapy
 - **Category:** Treatment Guides
 - **Subcategory:** Aplastic Anemia
-- **Subtitle:** A patient with newly diagnosed severe aplastic anemia may be advised to pursue transplantation or to begin ATG-based medical treatment.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Severe Aplastic Anemia in China: First-Line Treatment Options
+- **Subtitle:** Compare first-line severe aplastic anemia pathways, including transplantation and ATG-based care, and confirm practical treatment arrangements in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -111,3 +113,6 @@ Request a renminbi quotation for the selected pathway. For immunosuppression, li
 ## SEO Metadata
 
 - **Primary keyword:** first-line severe aplastic anemia treatment
+
+- **Meta title:** Severe Aplastic Anemia in China: First-Line Treatment Options
+- **Meta description:** Compare first-line severe aplastic anemia pathways, including transplantation and ATG-based care, and confirm practical treatment arrangements in China.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choisir un hôpital pour la maladie d’Alzheimer en Chine : évaluation de la mémoire, traitement par anticorps et soutien aux soins
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Maladie d’Alzheimer
-- **Subtitle:** Choisir un hôpital pour la maladie d’Alzheimer commence par définir le problème que la consultation doit résoudre.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choisir un hôpital pour la maladie d’Alzheimer en Chine : évaluation de la mémoire, traitement par anticorps et soutien aux soins
+- **Subtitle:** Choisissez un centre Alzheimer en Chine selon le bilan mémoire, l’évaluation de l’autonomie, la surveillance des anticorps et l’accompagnement des proches.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Tenez compte de la distance, de la disponibilité d’un aidant stable et de la 
 ## SEO Metadata
 
 - **Primary keyword:** hôpitaux pour la maladie d’Alzheimer en Chine
+
+- **Meta title:** Choisir un hôpital pour la maladie d’Alzheimer en Chine : évaluation de la mémoire, traitement par anticorps et soutien aux soins
+- **Meta description:** Choisissez un centre Alzheimer en Chine selon le bilan mémoire, l’évaluation de l’autonomie, la surveillance des anticorps et l’accompagnement des proches.

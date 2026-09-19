@@ -1,12 +1,14 @@
-# Memulai Pengobatan Setelah Diagnosis Sel Sabit: Hidroksiurea, Pencegahan, dan Rencana Tindak Lanjut Pertama
+# Memulai Pengobatan Penyakit Sel Sabit di Tiongkok: Obat dan Tindak Lanjut
 
 ## Hero
 
-- **Title:** Memulai Pengobatan Setelah Diagnosis Sel Sabit: Hidroksiurea, Pencegahan, dan Rencana Tindak Lanjut Pertama
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Sel Sabit
-- **Subtitle:** Setelah diagnosis sel sabit, keluarga sering ingin mengetahui obat mana yang diberikan pertama.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Memulai Pengobatan Penyakit Sel Sabit di Tiongkok: Obat dan Tindak Lanjut
+- **Subtitle:** Susun rencana awal penyakit sel sabit di Tiongkok yang mencakup masalah akut, hidroksiurea, pencegahan, pemantauan, dan tindak lanjut.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,3 +152,6 @@ Rencana pertama tidak menetapkan setiap pilihan masa depan. Pasien dengan beban 
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan awal untuk penyakit sel sabit
+
+- **Meta title:** Memulai Pengobatan Penyakit Sel Sabit di Tiongkok: Obat dan Tindak Lanjut
+- **Meta description:** Susun rencana awal penyakit sel sabit di Tiongkok yang mencakup masalah akut, hidroksiurea, pencegahan, pemantauan, dan tindak lanjut.

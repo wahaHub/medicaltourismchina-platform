@@ -1,15 +1,17 @@
-# Reisen mit verschreibungspflichtigen Medikamenten: Ein rechtlich zulässiger, temperaturgerechter und klinisch nutzbarer Medikationsplan
+# Verschreibungspflichtige Medikamente nach China bringen: Zoll und Kühlkette
 
 ## Hero
 
-- **Title:** Reisen mit verschreibungspflichtigen Medikamenten: Ein rechtlich zulässiger, temperaturgerechter und klinisch nutzbarer Medikationsplan
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Medikamente
-- **Subtitle:** Eine Checkliste für Einreise- und Transitvorschriften, kontrollierte Medikamente, Originalverpackungen, Wirkstoffnamen, Handgepäckvorräte, Kühlkettenlagerung, Einnahme bei Zeitzonenwechseln und den Medikationsabgleich im Krankenhaus.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Zwei Medizinreisende ordnen beschriftete Medikamentenbehälter, eine ärztliche Medikamentenbescheinigung, einen Einnahmekalender, eine Handgepäcktasche und Reisedokumente
+
+
+- **Title:** Verschreibungspflichtige Medikamente nach China bringen: Zoll und Kühlkette
+- **Subtitle:** Praktische Checkliste für internationale Reisen mit verschreibungspflichtigen und kontrollierten Medikamenten: Originalverpackung, Bescheinigungen, chinesischer Zoll, Kühlung und Einnahmezeiten.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -182,11 +184,13 @@ Verlassen Sie sich nicht auf den Markennamen. Lassen Sie Wirkstoff, Stärke, Dar
 
 ## SEO Metadata
 
-- **SEO title:** Reisen mit verschreibungspflichtigen Medikamenten: Zoll, Kühlkette und Zeitzonen
-- **Meta description:** Praktische Checkliste für internationale Reisen mit verschreibungspflichtigen und kontrollierten Medikamenten: Originalverpackung, Bescheinigungen, chinesischer Zoll, Kühlung und Einnahmezeiten.
 - **Primary keyword:** Reisen mit verschreibungspflichtigen Medikamenten
 - **Secondary keywords:** Medikamente Zoll China, Reisen mit kontrollierten Medikamenten, gekühlte Medikamente Flug, Medikamente Zeitzonen, Arztbrief für Medikamente, Rezepte Handgepäck
 - **Suggested URL slug:** `/travel-prescription-medicines-customs-cold-chain-time-zones`
+
+
+- **Meta title:** Verschreibungspflichtige Medikamente nach China bringen: Zoll und Kühlkette
+- **Meta description:** Praktische Checkliste für internationale Reisen mit verschreibungspflichtigen und kontrollierten Medikamenten: Originalverpackung, Bescheinigungen, chinesischer Zoll, Kühlung und Einnahmezeiten.
 
 ## Quellen
 

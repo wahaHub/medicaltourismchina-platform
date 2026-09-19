@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Debería viajar a China para tratar un síndrome mielodisplásico? Defina el beneficio antes de reservar
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Síndrome mielodisplásico
-- **Subtitle:** Antes de concertar una cita en el extranjero por un síndrome mielodisplásico, escriba el problema médico que debería resolver la visita.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Debería viajar a China para tratar un síndrome mielodisplásico? Defina el beneficio antes de reservar
+- **Subtitle:** Defina el beneficio de una consulta de síndrome mielodisplásico en China y verifique la evaluación de riesgo, el trasplante o el ensayo antes de reservar.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Utilice este artículo para preparar una consulta de hematología. Los médicos 
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento del síndrome mielodisplásico en China
+
+- **Meta title:** ¿Debería viajar a China para tratar un síndrome mielodisplásico? Defina el beneficio antes de reservar
+- **Meta description:** Defina el beneficio de una consulta de síndrome mielodisplásico en China y verifique la evaluación de riesgo, el trasplante o el ensayo antes de reservar.

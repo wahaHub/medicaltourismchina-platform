@@ -1,12 +1,14 @@
-# Wie lange dauert Schlaganfallrehabilitation? Krankenhaus, ambulante und häusliche Versorgung verbinden
+# Schlaganfallrehabilitation in China: Dauer und weitere Versorgung
 
 ## Hero
 
-- **Title:** Wie lange dauert Schlaganfallrehabilitation? Krankenhaus, ambulante und häusliche Versorgung verbinden
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Rehabilitation nach ischämischem Schlaganfall
-- **Subtitle:** Fragt eine Familie nach der Rehabilitationsdauer, umfasst die Frage gewöhnlich mehrere Zeitachsen: die Dauer des aktuellen Aufenthalts, den Zeitpunkt einer Behandlungsüberprüfung und das Üben nach dem Verlassen des Krankenhauses.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Schlaganfallrehabilitation in China: Dauer und weitere Versorgung
+- **Subtitle:** Die Dauer der Schlaganfallrehabilitation in China planen: Teilnahmefähigkeit, Funktionsziele, Schluckversorgung und Übergang zur ambulanten oder häuslichen Betreuung.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Krankenhäuser haben Leistungspläne, Medikamente Überwachungszeitpunkte und Pa
 ## SEO Metadata
 
 - **Primary keyword:** Dauer und Zeitplan der Schlaganfallrehabilitation
+
+- **Meta title:** Schlaganfallrehabilitation in China: Dauer und weitere Versorgung
+- **Meta description:** Die Dauer der Schlaganfallrehabilitation in China planen: Teilnahmefähigkeit, Funktionsziele, Schluckversorgung und Übergang zur ambulanten oder häuslichen Betreuung.

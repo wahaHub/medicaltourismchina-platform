@@ -1,15 +1,17 @@
-# Keamanan Transfusi Darah: Tentukan Kebutuhan, Cocokkan Komponen, dan Pantau Pasien
+# Transfusi Darah di Tiongkok: Persetujuan, Pencocokan, dan Keamanan
 
 ## Hero
 
-- **Title:** Keamanan Transfusi Darah: Tentukan Kebutuhan, Cocokkan Komponen, dan Pantau Pasien
 - **Category:** Edukasi Pasien & FAQ
 - **Subcategory:** Pembedahan & Keamanan Rumah Sakit
-- **Subtitle:** Panduan pasien tentang sel darah merah, trombosit, dan plasma, persetujuan setelah penjelasan, penentuan golongan darah dan uji silang, pemeriksaan identitas di sisi tempat tidur, reaksi transfusi, dan pilihan konservasi darah.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Gambar pengganti yang direncanakan menunjukkan sel darah merah, trombosit, dan plasma, sampel pasien berlabel, pengujian kecocokan, verifikasi identitas di sisi tempat tidur, dan pemantauan reaksi
+
+
+- **Title:** Transfusi Darah di Tiongkok: Persetujuan, Pencocokan, dan Keamanan
+- **Subtitle:** Pahami komponen darah, kapan transfusi diperlukan, persetujuan, penentuan golongan dan uji silang, tanda bahaya reaksi, serta alternatif manajemen darah pasien.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -181,11 +183,13 @@ Tidak. Keduanya dapat mengurangi paparan pada kasus sesuai, terutama bila direnc
 
 ## SEO Metadata
 
-- **SEO title:** Keamanan Transfusi Darah: Persetujuan, Pencocokan, Reaksi, dan Alternatif
-- **Meta description:** Pahami komponen darah, kapan transfusi diperlukan, persetujuan, penentuan golongan dan uji silang, tanda bahaya reaksi, serta alternatif manajemen darah pasien.
 - **Primary keyword:** keamanan transfusi darah
 - **Secondary keywords:** persetujuan transfusi, uji silang darah, reaksi transfusi, transfusi sel darah merah, manajemen darah pasien, alternatif transfusi darah
 - **Suggested URL slug:** `/blood-transfusion-safety-consent-crossmatch-reactions-alternatives`
+
+
+- **Meta title:** Transfusi Darah di Tiongkok: Persetujuan, Pencocokan, dan Keamanan
+- **Meta description:** Pahami komponen darah, kapan transfusi diperlukan, persetujuan, penentuan golongan dan uji silang, tanda bahaya reaksi, serta alternatif manajemen darah pasien.
 
 ## Sumber
 

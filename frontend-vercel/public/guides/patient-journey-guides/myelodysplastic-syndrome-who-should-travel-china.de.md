@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Sollten Sie zur Behandlung eines myelodysplastischen Syndroms nach China reisen? Den Nutzen vor der Buchung bestimmen
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Myelodysplastisches Syndrom
-- **Subtitle:** Schreiben Sie vor der Vereinbarung eines Auslandstermins wegen eines myelodysplastischen Syndroms auf, welches medizinische Problem der Besuch lösen soll.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sollten Sie zur Behandlung eines myelodysplastischen Syndroms nach China reisen? Den Nutzen vor der Buchung bestimmen
+- **Subtitle:** Eine MDS-Behandlungsreise nach China abwägen: offene Diagnose- oder Therapiefragen, Transplantationsbedarf, klinische Stabilität und Gesamtaufwand klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Nutzen Sie diesen Artikel zur Vorbereitung einer hämatologischen Beratung. Die 
 ## SEO Metadata
 
 - **Primary keyword:** Behandlung des myelodysplastischen Syndroms in China
+
+- **Meta title:** Sollten Sie zur Behandlung eines myelodysplastischen Syndroms nach China reisen? Den Nutzen vor der Buchung bestimmen
+- **Meta description:** Eine MDS-Behandlungsreise nach China abwägen: offene Diagnose- oder Therapiefragen, Transplantationsbedarf, klinische Stabilität und Gesamtaufwand klären.

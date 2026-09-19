@@ -1,15 +1,17 @@
-# What to Expect at a Traditional Chinese Medicine Consultation
+# What to Expect at a TCM Consultation in China
 
 ## Hero
 
-- **Title:** What to Expect at a Traditional Chinese Medicine Consultation
 - **Category:** Treatment Guides
 - **Subcategory:** Traditional Chinese Medicine & Integrative Care
-- **Subtitle:** Prepare for both a traditional pattern assessment and a modern medication-safety review, then leave with a legible plan you can explain to every clinician involved.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** A traditional Chinese medicine physician discusses a labelled herbal prescription with an international patient in a consultation room.
+
+
+- **Title:** What to Expect at a TCM Consultation in China
+- **Subtitle:** Prepare for both a traditional pattern assessment and a modern medication-safety review, then leave with a legible plan you can explain to every clinician involved.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,11 +126,13 @@ It is not a safe or practical choice. Obtain the complete prescription and label
 ## SEO Metadata
 
 - **Slug:** `what-to-expect-at-a-traditional-chinese-medicine-consultation`
-- **Meta title:** What to Expect at a TCM Consultation in China
-- **Meta description:** Prepare for a Chinese medicine visit: history, tongue and pulse, pattern diagnosis, herbal prescription, interaction checks, follow-up and travel rules.
 - **Primary keyword:** traditional Chinese medicine consultation in China
 - **Secondary keywords:** TCM doctor China; Chinese herbal prescription; tongue and pulse diagnosis; herbal medicine safety; TCM consultation process
 - **Search intent:** consultation preparation / treatment evaluation
+
+
+- **Meta title:** What to Expect at a TCM Consultation in China
+- **Meta description:** Prepare for a Chinese medicine visit: history, tongue and pulse, pattern diagnosis, herbal prescription, interaction checks, follow-up and travel rules.
 
 ## Sources
 

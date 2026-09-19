@@ -1,15 +1,17 @@
-# 143 Terbang Setelah Operasi atau Pengobatan: Izin Ditentukan Profil Risiko, Bukan Tanggal
+# Terbang Setelah Operasi di Tiongkok: Izin Medis dan Waktu yang Tepat
 
 ## Hero
 
-- **Title:** Terbang Setelah Operasi atau Pengobatan: Izin Ditentukan Profil Risiko, Bukan Tanggal
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Kelayakan Terbang dan Perjalanan Pulang
-- **Subtitle:** Kalender hanyalah satu masukan. Gas terperangkap, cadangan oksigen, risiko bekuan darah, komplikasi yang belum terselesaikan, dan kemampuan menjalani aktivitas di bandara semuanya harus dinilai aman.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Pasien dan pendamping membahas perjalanan udara pascapengobatan dengan klinisi di samping koper dan pemandangan pesawat.
+
+
+- **Title:** Terbang Setelah Operasi di Tiongkok: Izin Medis dan Waktu yang Tepat
+- **Subtitle:** Nilai gas terperangkap, cadangan oksigen, risiko bekuan dan komplikasi, kemampuan di bandara, dan izin maskapai sebelum terbang setelah pengobatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -186,13 +188,15 @@ Nyeri dada baru, sesak napas, pingsan, kelemahan satu sisi, perdarahan besar, de
 ## SEO Metadata
 
 - **Slug:** `when-is-it-safe-to-fly-after-surgery-or-treatment`
-- **Meta title:** Kapan Aman Terbang Setelah Operasi? | Pemeriksaan Lima Aspek
-- **Meta description:** Nilai gas terperangkap, cadangan oksigen, risiko bekuan dan komplikasi, kemampuan di bandara, dan izin maskapai sebelum terbang setelah pengobatan.
 - **Primary keyword:** aman terbang setelah operasi
 - **Pillar keyword:** perjalanan medis ke Tiongkok
 - **Vertical keyword:** layak terbang setelah pengobatan medis
 - **Search intent:** keamanan perjalanan pulang / izin medis
 - **Secondary keywords:** terbang setelah operasi Tiongkok; surat layak terbang; perjalanan udara setelah gelembung gas retina; risiko VTE penerbangan panjang operasi; izin medis maskapai
+
+
+- **Meta title:** Terbang Setelah Operasi di Tiongkok: Izin Medis dan Waktu yang Tepat
+- **Meta description:** Nilai gas terperangkap, cadangan oksigen, risiko bekuan dan komplikasi, kemampuan di bandara, dan izin maskapai sebelum terbang setelah pengobatan.
 
 ## Sumber
 

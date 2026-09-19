@@ -1,15 +1,17 @@
-# Adverse Event Reporting in Clinical Trials: A Patient Guide
+# Clinical Trials in China: Reporting Adverse Events
 
 ## Hero
 
-- **Title:** Adverse Event Reporting in Clinical Trials: A Patient Guide
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Participant Safety & Reporting
-- **Subtitle:** What to report, who needs to know and how to protect care when an event happens away from the trial site.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Current placeholder shows a routine reception conversation and is awaiting a purpose-built adverse-event reporting illustration.
+
+
+- **Title:** Clinical Trials in China: Reporting Adverse Events
+- **Subtitle:** Learn what trial participants should report, the difference between severe and serious events, emergency steps, site and sponsor roles, and cross-border follow-up.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -187,11 +189,13 @@ Yes, participation is voluntary. Ask the team to separate stopping treatment fro
 ## SEO Metadata
 
 - **Slug:** `adverse-event-reporting-in-clinical-trials-a-patient-guide`
-- **Meta title:** Clinical Trial Adverse Event Reporting: Patient Guide
-- **Meta description:** Learn what trial participants should report, the difference between severe and serious events, emergency steps, site and sponsor roles, and cross-border follow-up.
 - **Primary keyword:** clinical trial adverse event reporting
 - **Secondary keywords:** adverse event versus serious adverse event; SAE reporting China; SUSAR patient guide; clinical trial emergency contact; trial safety follow-up
 - **Search intent:** participant safety and adverse-event reporting
+
+
+- **Meta title:** Clinical Trials in China: Reporting Adverse Events
+- **Meta description:** Learn what trial participants should report, the difference between severe and serious events, emergency steps, site and sponsor roles, and cross-border follow-up.
 
 ## Sources
 

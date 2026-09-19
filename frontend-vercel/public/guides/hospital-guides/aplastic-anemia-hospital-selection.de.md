@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Ein Krankenhaus in China für aplastische Anämie wählen: Diagnose, medikamentöse Behandlung und Spendertransplantation
 - **Category:** Krankenhausleitfäden
 - **Subcategory:** Aplastische Anämie
-- **Subtitle:** Benennen Sie zunächst das zu lösende Problem: eine strittige Diagnose, eine Erstbehandlungsentscheidung, anhaltendes Nichtansprechen oder einen bestimmten Spendertransplantationspfad.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Ein Krankenhaus in China für aplastische Anämie wählen: Diagnose, medikamentöse Behandlung und Spendertransplantation
+- **Subtitle:** Ein Krankenhaus für aplastische Anämie in China prüfen: Diagnosesicherung, ATG-Betreuung, Spendertransplantation, Blutversorgung und Nachsorge berücksichtigen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -118,3 +120,6 @@ Begrenzen Sie die Auswahl auf wenige Zentren, die die Bedingungen des Patienten 
 ## SEO Metadata
 
 - **Primary keyword:** Krankenhausauswahl bei aplastischer Anämie
+
+- **Meta title:** Ein Krankenhaus in China für aplastische Anämie wählen: Diagnose, medikamentöse Behandlung und Spendertransplantation
+- **Meta description:** Ein Krankenhaus für aplastische Anämie in China prüfen: Diagnosesicherung, ATG-Betreuung, Spendertransplantation, Blutversorgung und Nachsorge berücksichtigen.

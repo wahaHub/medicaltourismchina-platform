@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choisir un hôpital en Chine pour la drépanocytose : expertise, soutien transfusionnel et continuité des soins
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Drépanocytose
-- **Subtitle:** Pour une personne atteinte de drépanocytose, choisir un hôpital signifie trouver une équipe capable de comprendre sa situation individuelle et de fournir les soins nécessaires lors des consultations habituelles comme des urgences.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choisir un hôpital en Chine pour la drépanocytose : expertise, soutien transfusionnel et continuité des soins
+- **Subtitle:** Avant des soins de drépanocytose en Chine, vérifiez l’expérience clinique, le soutien transfusionnel, les moyens d’urgence et la continuité du suivi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -151,3 +153,6 @@ Langue, coût et transport comptent, mais doivent être considérés avec les be
 ## SEO Metadata
 
 - **Primary keyword:** hôpital pour la drépanocytose en Chine
+
+- **Meta title:** Choisir un hôpital en Chine pour la drépanocytose : expertise, soutien transfusionnel et continuité des soins
+- **Meta description:** Avant des soins de drépanocytose en Chine, vérifiez l’expérience clinique, le soutien transfusionnel, les moyens d’urgence et la continuité du suivi.

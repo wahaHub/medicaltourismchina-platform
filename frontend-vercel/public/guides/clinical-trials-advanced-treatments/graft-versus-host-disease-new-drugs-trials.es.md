@@ -1,12 +1,14 @@
-# Nuevos tratamientos y ensayos clínicos de EICH: comprender las novedades de 2026
+# Nuevos tratamientos y ensayos de EICH: evidencia y acceso en China
 
 ## Hero
 
-- **Title:** Nuevos tratamientos y ensayos clínicos de EICH: comprender las novedades de 2026
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Enfermedad de injerto contra huésped
-- **Subtitle:** Una noticia sobre un avance después del trasplante de células madre puede parecer inmediatamente relevante para cualquier persona que viva con enfermedad de injerto contra huésped.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Nuevos tratamientos y ensayos de EICH: evidencia y acceso en China
+- **Subtitle:** Sitúe los avances sobre enfermedad injerto contra huésped en su contexto clínico y compruebe indicaciones, evidencia y acceso al tratamiento en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ Una consulta útil termina con una decisión vinculada a un objetivo clínico: p
 ## SEO Metadata
 
 - **Primary keyword:** nuevos tratamientos y ensayos clínicos de EICH en China
+
+- **Meta title:** Nuevos tratamientos y ensayos de EICH: evidencia y acceso en China
+- **Meta description:** Sitúe los avances sobre enfermedad injerto contra huésped en su contexto clínico y compruebe indicaciones, evidencia y acceso al tratamiento en China.

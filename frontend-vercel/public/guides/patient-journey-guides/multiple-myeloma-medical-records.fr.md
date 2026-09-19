@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Dossier médical pour les soins du myélome en Chine : documenter le diagnostic, la résistance et l’aptitude au traitement
 - **Category:** Guides du parcours patient
 - **Subcategory:** Myélome multiple
-- **Subtitle:** Un certificat de diagnostic seul permet rarement à une nouvelle équipe de décider de l’étape suivante.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dossier médical pour les soins du myélome en Chine : documenter le diagnostic, la résistance et l’aptitude au traitement
+- **Subtitle:** Préparez un dossier de myélome pour la Chine en documentant diagnostic, génétique, protéines, traitements antérieurs et raisons de leur arrêt.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Actualisez le résumé avant le départ avec le dernier traitement et tout nouve
 ## SEO Metadata
 
 - **Primary keyword:** dossier médical pour le traitement du myélome multiple en Chine
+
+- **Meta title:** Dossier médical pour les soins du myélome en Chine : documenter le diagnostic, la résistance et l’aptitude au traitement
+- **Meta description:** Préparez un dossier de myélome pour la Chine en documentant diagnostic, génétique, protéines, traitements antérieurs et raisons de leur arrêt.

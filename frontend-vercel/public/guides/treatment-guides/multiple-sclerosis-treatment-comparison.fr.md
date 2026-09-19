@@ -1,12 +1,14 @@
-# Comparer les plans de traitement de la SEP : médicaments, greffe, rééducation et résultats qui comptent
+# Comparer les traitements de la SEP : médicaments, autogreffe et soins en Chine
 
 ## Hero
 
-- **Title:** Comparer les plans de traitement de la SEP : médicaments, greffe, rééducation et résultats qui comptent
 - **Category:** Guides des traitements
 - **Subcategory:** Sclérose en plaques
-- **Subtitle:** Deux recommandations différentes peuvent répondre à des problèmes différents.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Comparer les traitements de la SEP : médicaments, autogreffe et soins en Chine
+- **Subtitle:** Comparez médicaments, autogreffe et rééducation de la sclérose en plaques selon l’activité de la maladie, les objectifs et les contraintes des soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Revenez à l’objectif personnel : conserver son emploi, réduire les hospitali
 ## SEO Metadata
 
 - **Primary keyword:** comparaison des traitements de la sclérose en plaques
+
+- **Meta title:** Comparer les traitements de la SEP : médicaments, autogreffe et soins en Chine
+- **Meta description:** Comparez médicaments, autogreffe et rééducation de la sclérose en plaques selon l’activité de la maladie, les objectifs et les contraintes des soins en Chine.

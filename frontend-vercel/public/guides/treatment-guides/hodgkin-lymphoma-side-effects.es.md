@@ -1,12 +1,14 @@
-# Efectos secundarios del tratamiento del linfoma de Hodgkin: síntomas urgentes y problemas que registrar
+# Atención del linfoma de Hodgkin en China: efectos secundarios y ayuda urgente
 
 ## Hero
 
-- **Title:** Efectos secundarios del tratamiento del linfoma de Hodgkin: síntomas urgentes y problemas que registrar
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de Hodgkin
-- **Subtitle:** El malestar durante el tratamiento del linfoma de Hodgkin no debe dividirse simplemente entre síntomas que pueden soportarse y síntomas que no.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Atención del linfoma de Hodgkin en China: efectos secundarios y ayuda urgente
+- **Subtitle:** Reconozca fiebre, tos, falta de aire y otros efectos del tratamiento del linfoma de Hodgkin, y prepare registros y una vía de ayuda durante la atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Tras terminar el tratamiento, la neuropatía persistente, los problemas cardiopu
 ## SEO Metadata
 
 - **Primary keyword:** efectos secundarios del tratamiento del linfoma de Hodgkin
+
+- **Meta title:** Atención del linfoma de Hodgkin en China: efectos secundarios y ayuda urgente
+- **Meta description:** Reconozca fiebre, tos, falta de aire y otros efectos del tratamiento del linfoma de Hodgkin, y prepare registros y una vía de ayuda durante la atención en China.

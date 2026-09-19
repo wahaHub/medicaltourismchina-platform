@@ -1,15 +1,17 @@
-# 098 Apa yang Menjadikan Departemen Medis Internasional Kuat?
+# Departemen Medis Internasional di Tiongkok: Apa yang Perlu Diperiksa
 
 ## Hero
 
-- **Title:** Apa yang Menjadikan Departemen Medis Internasional Kuat?
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Layanan Pasien Internasional
-- **Subtitle:** Nilai departemen berdasarkan penanggung jawab klinis, keamanan bahasa, eskalasi, rekam medis, dan kesinambungan—bukan ruang tunggu atau brosur pramutamu.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustrasi konseptual pasien internasional berbicara dengan koordinator rumah sakit di depan peta dunia; gambar mewakili navigasi layanan, bukan kualitas klinis.
+
+
+- **Title:** Departemen Medis Internasional di Tiongkok: Apa yang Perlu Diperiksa
+- **Subtitle:** Evaluasi layanan rumah sakit internasional berdasarkan penanggung jawab klinis, penerjemahan lisan, rekam medis, eskalasi darurat, keamanan obat, harga, privasi, dan serah terima pemulangan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -268,11 +270,13 @@ Ringkasan diagnosis/pengobatan, obat yang direkonsiliasi, hasil dan penanggung j
 ## SEO Metadata
 
 - **Slug:** `what-makes-a-strong-international-medical-department`
-- **Meta title:** Apa yang Menjadikan Departemen Medis Internasional Kuat?
-- **Meta description:** Evaluasi layanan rumah sakit internasional berdasarkan penanggung jawab klinis, penerjemahan lisan, rekam medis, eskalasi darurat, keamanan obat, harga, privasi, dan serah terima pemulangan.
 - **Primary keyword:** departemen medis internasional Tiongkok
 - **Secondary keywords:** layanan pasien internasional Tiongkok; penerjemah medis rumah sakit; koordinasi rumah sakit internasional; rekam medis lintas negara; serah terima pemulangan rumah sakit Tiongkok
 - **Search intent:** perbandingan kualitas layanan pasien internasional
+
+
+- **Meta title:** Departemen Medis Internasional di Tiongkok: Apa yang Perlu Diperiksa
+- **Meta description:** Evaluasi layanan rumah sakit internasional berdasarkan penanggung jawab klinis, penerjemahan lisan, rekam medis, eskalasi darurat, keamanan obat, harga, privasi, dan serah terima pemulangan.
 
 ## Sumber
 

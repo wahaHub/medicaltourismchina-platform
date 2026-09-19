@@ -1,15 +1,17 @@
-# Chinese Herbal Medicine Safety: Interactions and Quality Questions
+# Chinese Herbal Medicine in China: Safety and Interactions
 
 ## Hero
 
-- **Title:** Chinese Herbal Medicine Safety: Interactions and Quality Questions
 - **Category:** Treatment Guides
 - **Subcategory:** Traditional Chinese Medicine & Integrative Care
-- **Subtitle:** Identify the exact product, trace its batch, screen the whole formula against the whole medication list, and monitor a defined clinical goal.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** A clinician and an older patient compare prescription medicines, capsules and herbal ingredients on one medication-safety list.
+
+
+- **Title:** Chinese Herbal Medicine in China: Safety and Interactions
+- **Subtitle:** Identify herbal product type, trace batch quality, screen interactions, plan monitoring, report adverse reactions and check travel restrictions.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -156,11 +158,13 @@ Rules vary by ingredient and country. Original labels, a prescription and an acc
 ## SEO Metadata
 
 - **Slug:** `chinese-herbal-medicine-safety-interactions-and-quality-questions`
-- **Meta title:** Chinese Herbal Medicine Safety and Interaction Checks
-- **Meta description:** Identify herbal product type, trace batch quality, screen interactions, plan monitoring, report adverse reactions and check travel restrictions.
 - **Primary keyword:** Chinese herbal medicine safety
 - **Secondary keywords:** Chinese herb drug interactions; herbal medicine quality; Chinese patent medicine safety; herbal adverse reactions; herbal product batch traceability
 - **Search intent:** medication safety / product evaluation
+
+
+- **Meta title:** Chinese Herbal Medicine in China: Safety and Interactions
+- **Meta description:** Identify herbal product type, trace batch quality, screen interactions, plan monitoring, report adverse reactions and check travel restrictions.
 
 ## Sources
 

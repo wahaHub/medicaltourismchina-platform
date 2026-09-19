@@ -1,12 +1,14 @@
-# 弥漫大B细胞淋巴瘤报告怎么看：病理、FISH、IPI与PET评分
+# 弥漫大B细胞淋巴瘤报告：中国病理、FISH 与 PET 会诊准备
 
 ## Hero
 
-- **Title:** 弥漫大B细胞淋巴瘤报告怎么看：病理、FISH、IPI与PET评分
 - **Category:** 患者教育与常见问题
 - **Subcategory:** 弥漫大B细胞淋巴瘤
-- **Subtitle:** 弥漫大B细胞淋巴瘤报告怎么看：病理、FISH、IPI与PET评分
-- **Updated date:** 2026/09/09
+
+
+- **Title:** 弥漫大B细胞淋巴瘤报告：中国病理、FISH 与 PET 会诊准备
+- **Subtitle:** 读懂弥漫大B细胞淋巴瘤报告中的免疫标记、双表达、基因重排和影像评分。赴中国会诊前，区分病理、分期与风险指标，避免根据单个阳性或数值决定治疗强度。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -121,3 +123,6 @@ Deauville评分把病灶摄取与参照组织比较，是DLBCL代谢反应评估
 ## SEO Metadata
 
 - **Primary keyword:** 弥漫大B细胞淋巴瘤报告解读
+
+- **Meta title:** 弥漫大B细胞淋巴瘤报告：中国病理、FISH 与 PET 会诊准备
+- **Meta description:** 读懂弥漫大B细胞淋巴瘤报告中的免疫标记、双表达、基因重排和影像评分。赴中国会诊前，区分病理、分期与风险指标，避免根据单个阳性或数值决定治疗强度。

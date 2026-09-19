@@ -1,15 +1,17 @@
-# 034 Radioterapia corporal estereotáctica (SBRT): guía para pacientes
+# Radioterapia estereotáctica corporal en China: planificación, seguridad y seguimiento
 
 ## Hero
 
-- **Title:** Radioterapia corporal estereotáctica (SBRT): guía para pacientes
 - **Category:** Guías de tratamiento
 - **Subcategory:** Atención oncológica
-- **Subtitle:** Cómo la elegibilidad, el control del movimiento, los límites de los órganos de riesgo y la garantía de calidad específica del paciente configuran un ciclo breve de alta precisión.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un médico explica un plan simplificado de SBRT torácica con varias trayectorias de haces que convergen en un objetivo pequeño
+
+
+- **Title:** Radioterapia estereotáctica corporal en China: planificación, seguridad y seguimiento
+- **Subtitle:** Comprenda la elegibilidad para SBRT, el manejo del movimiento, la guía por imágenes, los límites orgánicos, la garantía de calidad y el seguimiento antes de la radioterapia corporal estereotáctica.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -149,13 +151,15 @@ Obtenga el resumen del tratamiento con zona, intención, técnica, dosis total y
 ## SEO Metadata
 
 - **Slug:** `stereotactic-body-radiotherapy-sbrt-a-patient-guide`
-- **Meta title:** Guía de SBRT para pacientes: planificación, seguridad y seguimiento
-- **Meta description:** Comprenda la elegibilidad para SBRT, el manejo del movimiento, la guía por imágenes, los límites orgánicos, la garantía de calidad y el seguimiento antes de la radioterapia corporal estereotáctica.
 - **Primary keyword:** guía de SBRT para pacientes
 - **Pillar keyword:** radioterapia en China
 - **Vertical keyword:** radioterapia corporal estereotáctica en China
 - **Search intent:** educación sobre tratamiento / evaluación de seguridad
 - **Secondary keywords:** tratamiento SABR; manejo del movimiento en SBRT; fracciones de SBRT; garantía de calidad de SBRT; imágenes de seguimiento de SBRT
+
+
+- **Meta title:** Radioterapia estereotáctica corporal en China: planificación, seguridad y seguimiento
+- **Meta description:** Comprenda la elegibilidad para SBRT, el manejo del movimiento, la guía por imágenes, los límites orgánicos, la garantía de calidad y el seguimiento antes de la radioterapia corporal estereotáctica.
 
 ## Fuentes
 

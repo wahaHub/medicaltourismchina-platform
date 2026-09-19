@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Kann jemand mit Parkinson zur Behandlung nach China reisen? Reisefähigkeit, Medikamente und Versorgung unterwegs
 - **Category:** Leitfäden zum Patientenweg
 - **Subcategory:** Parkinson-Krankheit
-- **Subtitle:** Eine Parkinson-Diagnose bestimmt für sich allein nicht, ob jemand zur Versorgung nach China reisen kann.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Kann jemand mit Parkinson zur Behandlung nach China reisen? Reisefähigkeit, Medikamente und Versorgung unterwegs
+- **Subtitle:** Eine Parkinson-Behandlungsreise nach China vorbereiten: Nutzen des Besuchs, Reisefähigkeit, Medikamentenzeiten, Schluckprobleme und Geräteunterstützung prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Reisefähigkeit entsteht aus einem klaren klinischen Zweck, einem vertretbaren a
 ## SEO Metadata
 
 - **Primary keyword:** Eignung für eine Reise nach China zur Parkinson-Behandlung
+
+- **Meta title:** Kann jemand mit Parkinson zur Behandlung nach China reisen? Reisefähigkeit, Medikamente und Versorgung unterwegs
+- **Meta description:** Eine Parkinson-Behandlungsreise nach China vorbereiten: Nutzen des Besuchs, Reisefähigkeit, Medikamentenzeiten, Schluckprobleme und Geräteunterstützung prüfen.

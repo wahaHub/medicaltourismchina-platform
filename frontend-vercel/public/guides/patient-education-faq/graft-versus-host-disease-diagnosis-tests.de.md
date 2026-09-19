@@ -1,12 +1,14 @@
-# Welche Untersuchungen helfen bei der Diagnose einer Graft-versus-Host-Erkrankung nach einer Transplantation?
+# GVHD-Abklärung in China: Organbeurteilung und diagnostische Untersuchungen
 
 ## Hero
 
-- **Title:** Welche Untersuchungen helfen bei der Diagnose einer Graft-versus-Host-Erkrankung nach einer Transplantation?
 - **Category:** Patienteninformation & häufige Fragen
 - **Subcategory:** Graft-versus-Host-Erkrankung
-- **Subtitle:** Wenn nach einer allogenen Transplantation Beschwerden auftreten, fragen Angehörige oft, ob ein einziger Bluttest eine Abstoßung bestätigen kann.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** GVHD-Abklärung in China: Organbeurteilung und diagnostische Untersuchungen
+- **Subtitle:** GVHD-Abklärung in China vorbereiten: Organbeschwerden, Transplantationsverlauf, Infektionsfragen, Biopsien und Lungenfunktion gemeinsam beurteilen lassen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Fragen Sie nach den Untersuchungen, welche Schlussfolgerungen gesichert sind, wa
 ## SEO Metadata
 
 - **Primary keyword:** Untersuchungen zur Diagnose der Graft-versus-Host-Erkrankung in China
+
+- **Meta title:** GVHD-Abklärung in China: Organbeurteilung und diagnostische Untersuchungen
+- **Meta description:** GVHD-Abklärung in China vorbereiten: Organbeschwerden, Transplantationsverlauf, Infektionsfragen, Biopsien und Lungenfunktion gemeinsam beurteilen lassen.

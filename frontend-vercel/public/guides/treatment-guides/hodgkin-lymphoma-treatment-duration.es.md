@@ -1,12 +1,14 @@
-# ¿Cuánto dura el tratamiento del linfoma de Hodgkin? Ciclos, controles con PET, radioterapia y viajes
+# Atención del linfoma de Hodgkin en China: ciclos, controles PET y viajes
 
 ## Hero
 
-- **Title:** ¿Cuánto dura el tratamiento del linfoma de Hodgkin? Ciclos, controles con PET, radioterapia y viajes
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de Hodgkin
-- **Subtitle:** La duración del tratamiento del linfoma de Hodgkin no puede responderse simplemente indicando la duración de una estancia hospitalaria.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Atención del linfoma de Hodgkin en China: ciclos, controles PET y viajes
+- **Subtitle:** Organice el tratamiento del linfoma de Hodgkin en China con ciclos, PET intermedia y posible radioterapia, manteniendo el calendario sujeto a revisión médica.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Si el tratamiento incluyó varios cambios, distinga la propuesta original del tr
 ## SEO Metadata
 
 - **Primary keyword:** duración y ciclos del tratamiento del linfoma de Hodgkin
+
+- **Meta title:** Atención del linfoma de Hodgkin en China: ciclos, controles PET y viajes
+- **Meta description:** Organice el tratamiento del linfoma de Hodgkin en China con ciclos, PET intermedia y posible radioterapia, manteniendo el calendario sujeto a revisión médica.

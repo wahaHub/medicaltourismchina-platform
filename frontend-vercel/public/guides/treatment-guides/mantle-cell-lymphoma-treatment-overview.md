@@ -1,12 +1,14 @@
-# How is mantle cell lymphoma treated? A practical guide from observation to treatment after relapse
+# Mantle Cell Lymphoma Treatment in China: Options by Care Stage
 
 ## Hero
 
-- **Title:** How is mantle cell lymphoma treated? A practical guide from observation to treatment after relapse
 - **Category:** Treatment Guides
 - **Subcategory:** Mantle Cell Lymphoma
-- **Subtitle:** Related searches: MCL treatment options; mantle cell lymphoma care in China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Mantle Cell Lymphoma Treatment in China: Options by Care Stage
+- **Subtitle:** Explore mantle cell lymphoma care from observation to treatment after relapse, with questions to make a consultation in China actionable.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ If your condition is changing rapidly while arranging international care, have t
 ## SEO Metadata
 
 - **Primary keyword:** mantle cell lymphoma treatment
+
+- **Meta title:** Mantle Cell Lymphoma Treatment in China: Options by Care Stage
+- **Meta description:** Explore mantle cell lymphoma care from observation to treatment after relapse, with questions to make a consultation in China actionable.

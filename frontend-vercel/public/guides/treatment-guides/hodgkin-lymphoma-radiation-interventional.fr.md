@@ -1,12 +1,14 @@
-# Ai-je besoin de radiothérapie après une chimiothérapie du lymphome de Hodgkin ? Des résultats de TEP au plan thérapeutique
+# Radiothérapie du lymphome de Hodgkin en Chine : quand est-elle nécessaire ?
 
 ## Hero
 
-- **Title:** Ai-je besoin de radiothérapie après une chimiothérapie du lymphome de Hodgkin ? Des résultats de TEP au plan thérapeutique
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome de Hodgkin
-- **Subtitle:** Un résultat de TEP favorable après chimiothérapie ne signifie pas toujours que la radiothérapie est devenue inutile.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Radiothérapie du lymphome de Hodgkin en Chine : quand est-elle nécessaire ?
+- **Subtitle:** Comprenez la place de la radiothérapie du lymphome de Hodgkin selon la TEP, le protocole et les organes proches avant de discuter un plan en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ La décision d’utiliser ou d’omettre la radiothérapie doit laisser une trac
 ## SEO Metadata
 
 - **Primary keyword:** radiothérapie après chimiothérapie du lymphome de Hodgkin
+
+- **Meta title:** Radiothérapie du lymphome de Hodgkin en Chine : quand est-elle nécessaire ?
+- **Meta description:** Comprenez la place de la radiothérapie du lymphome de Hodgkin selon la TEP, le protocole et les organes proches avant de discuter un plan en Chine.

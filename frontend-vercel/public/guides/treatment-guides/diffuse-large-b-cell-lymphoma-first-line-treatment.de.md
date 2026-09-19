@@ -1,12 +1,14 @@
-# Erstlinientherapie bei DLBCL auswählen und sich auf den ersten Zyklus vorbereiten
+# Erstlinientherapie bei DLBCL in China: Vorbereitung auf die Versorgung
 
 ## Hero
 
-- **Title:** Erstlinientherapie bei DLBCL auswählen und sich auf den ersten Zyklus vorbereiten
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Diffuses großzelliges B-Zell-Lymphom
-- **Subtitle:** Die Erstlinientherapie bei DLBCL wird häufig mit dem Ziel der Heilung geplant.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Erstlinientherapie bei DLBCL in China: Vorbereitung auf die Versorgung
+- **Subtitle:** DLBCL-Erstlinientherapie in China vorbereiten: Diagnose, R-CHOP oder Pola-R-CHP, Belastbarkeit, Infektionsvorbeugung und Kontrollen im ersten Zyklus besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Wählen Sie eine Betreuungsperson, die die Medikamente und dringlichen Symptome 
 ## SEO Metadata
 
 - **Primary keyword:** Erstlinientherapie bei DLBCL
+
+- **Meta title:** Erstlinientherapie bei DLBCL in China: Vorbereitung auf die Versorgung
+- **Meta description:** DLBCL-Erstlinientherapie in China vorbereiten: Diagnose, R-CHOP oder Pola-R-CHP, Belastbarkeit, Infektionsvorbeugung und Kontrollen im ersten Zyklus besprechen.

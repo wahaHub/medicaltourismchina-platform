@@ -1,12 +1,14 @@
-# Procedimientos y cirugía en el mieloma múltiple: toma de muestras, recolección celular y estabilidad ósea
+# Procedimientos del mieloma en China: muestras, recogida celular y cuidado óseo
 
 ## Hero
 
-- **Title:** Procedimientos y cirugía en el mieloma múltiple: toma de muestras, recolección celular y estabilidad ósea
 - **Category:** Guías de tratamiento
 - **Subcategory:** Mieloma múltiple
-- **Subtitle:** La atención del mieloma puede incluir una biopsia de médula ósea, recolección celular, un catéter, aumento vertebral o fijación de fracturas.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Procedimientos del mieloma en China: muestras, recogida celular y cuidado óseo
+- **Subtitle:** Comprenda el propósito de muestras medulares, recogida celular, trasplante y procedimientos óseos del mieloma al preparar tratamiento en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ La pregunta central es qué problema específico puede resolver el procedimiento
 ## SEO Metadata
 
 - **Primary keyword:** cirugía del mieloma múltiple y procedimientos de trasplante autólogo
+
+- **Meta title:** Procedimientos del mieloma en China: muestras, recogida celular y cuidado óseo
+- **Meta description:** Comprenda el propósito de muestras medulares, recogida celular, trasplante y procedimientos óseos del mieloma al preparar tratamiento en China.

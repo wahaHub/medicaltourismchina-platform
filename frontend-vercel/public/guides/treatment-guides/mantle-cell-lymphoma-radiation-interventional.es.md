@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Radioterapia para el linfoma de células del manto: control local, ciclos cortos y planificación de la atención en China
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de células del manto
-- **Subtitle:** Que le propongan radioterapia para una masa de linfoma puede plantear una pregunta comprensible: si se puede tratar directamente esa zona, ¿por qué se sigue hablando de medicamentos?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Radioterapia para el linfoma de células del manto: control local, ciclos cortos y planificación de la atención en China
+- **Subtitle:** Prepare radioterapia de linfoma de células del manto en China con preguntas sobre control local, pautas cortas, límites de evidencia y planificación.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -113,3 +115,6 @@ El seguimiento debe responder a dos preguntas separadas: ¿ha mejorado el proble
 ## SEO Metadata
 
 - **Primary keyword:** radioterapia para el linfoma de células del manto
+
+- **Meta title:** Radioterapia para el linfoma de células del manto: control local, ciclos cortos y planificación de la atención en China
+- **Meta description:** Prepare radioterapia de linfoma de células del manto en China con preguntas sobre control local, pautas cortas, límites de evidencia y planificación.

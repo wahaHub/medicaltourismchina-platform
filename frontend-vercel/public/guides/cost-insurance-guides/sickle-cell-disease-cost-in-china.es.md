@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Costes del tratamiento de la enfermedad falciforme en China: comprobar los presupuestos de medicamentos, transfusiones y trasplante
 - **Category:** Guías de costes y seguros
 - **Subcategory:** Enfermedad falciforme
-- **Subtitle:** El coste de la atención de la enfermedad falciforme en China depende primero de lo que el paciente necesita conseguir.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Costes del tratamiento de la enfermedad falciforme en China: comprobar los presupuestos de medicamentos, transfusiones y trasplante
+- **Subtitle:** Prepare el presupuesto de enfermedad falciforme en China con pruebas, medicación, transfusiones, trasplante y seguimiento vinculados a un objetivo clínico.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -154,3 +156,6 @@ Al comparar dos estimaciones, compruebe primero que aborden el mismo objetivo cl
 ## SEO Metadata
 
 - **Primary keyword:** coste del tratamiento de la enfermedad falciforme en China
+
+- **Meta title:** Costes del tratamiento de la enfermedad falciforme en China: comprobar los presupuestos de medicamentos, transfusiones y trasplante
+- **Meta description:** Prepare el presupuesto de enfermedad falciforme en China con pruebas, medicación, transfusiones, trasplante y seguimiento vinculados a un objetivo clínico.

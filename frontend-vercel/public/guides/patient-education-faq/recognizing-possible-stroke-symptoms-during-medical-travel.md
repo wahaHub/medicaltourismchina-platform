@@ -1,15 +1,17 @@
-# Possible Stroke During Medical Travel: Use BE-FAST, Note the Last-Known-Well Time, Call 120
+# Possible Stroke in China: Recognize Signs and Call 120
 
 ## Hero
 
-- **Title:** Possible Stroke During Medical Travel: Use BE-FAST, Note the Last-Known-Well Time, Call 120
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Symptoms & Urgent Care
-- **Subtitle:** A traveler-and-companion guide to recognizing sudden neurologic symptoms, preserving the treatment timeline and reaching local stroke care without detours.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Traveler and companion beside a hospital scene with brain, facial asymmetry and one-arm weakness symbols
+
+
+- **Title:** Possible Stroke in China: Recognize Signs and Call 120
+- **Subtitle:** Recognize BE-FAST stroke signs, record last known well, call 120, avoid aspirin and keep a medical-travel emergency handover concise.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -136,13 +138,15 @@ The discovery time is when weakness was noticed. The last-known-well time is the
 ## SEO Metadata
 
 - **Slug:** `recognizing-possible-stroke-symptoms-during-medical-travel`
-- **Meta title:** Possible Stroke During Travel: BE-FAST and Call 120
-- **Meta description:** Recognize BE-FAST stroke signs, record last known well, call 120, avoid aspirin and keep a medical-travel emergency handover concise.
 - **Primary keyword:** stroke symptoms during medical travel
 - **Pillar keyword:** patient safety during medical travel
 - **Vertical keyword:** BE-FAST stroke signs China 120
 - **Search intent:** emergency patient guidance
 - **Secondary keywords:** last known well time; stroke at airport; TIA while traveling; call 120 China; aspirin suspected stroke
+
+
+- **Meta title:** Possible Stroke in China: Recognize Signs and Call 120
+- **Meta description:** Recognize BE-FAST stroke signs, record last known well, call 120, avoid aspirin and keep a medical-travel emergency handover concise.
 
 ## Sources
 

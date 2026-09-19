@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Heimkehr nach einer Hodgkin-Lymphom-Behandlung in China: Nachsorge über Grenzen hinweg
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Hodgkin-Lymphom
-- **Subtitle:** Die Heimkehr nach einer Behandlung des Hodgkin-Lymphoms in China kann zugleich Erleichterung und Unsicherheit mit sich bringen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Heimkehr nach einer Hodgkin-Lymphom-Behandlung in China: Nachsorge über Grenzen hinweg
+- **Subtitle:** Nach Hodgkin-Lymphom-Behandlung in China die Nachsorge sichern: zuständige Ärzte, Abschlussbeurteilung, langfristige Kontrollen und Erholungsbedarf festlegen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -143,3 +145,6 @@ Bewahren Sie nach jedem wichtigen Termin die vollständigen Ergebnisse und die n
 
 - **Primary keyword:** Hodgkin-Lymphom-Nachsorge nach Behandlung in China
 
+
+- **Meta title:** Heimkehr nach einer Hodgkin-Lymphom-Behandlung in China: Nachsorge über Grenzen hinweg
+- **Meta description:** Nach Hodgkin-Lymphom-Behandlung in China die Nachsorge sichern: zuständige Ärzte, Abschlussbeurteilung, langfristige Kontrollen und Erholungsbedarf festlegen.

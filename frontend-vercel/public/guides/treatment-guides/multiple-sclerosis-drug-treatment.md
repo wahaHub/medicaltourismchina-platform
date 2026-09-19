@@ -1,12 +1,14 @@
-# Medicines for multiple sclerosis: DMT options, monitoring, and planned transitions
+# MS Medicines in China: Options, Monitoring and Transitions
 
 ## Hero
 
-- **Title:** Medicines for multiple sclerosis: DMT options, monitoring, and planned transitions
 - **Category:** Treatment Guides
 - **Subcategory:** Multiple Sclerosis
-- **Subtitle:** Lists of MS medicines differ because countries, approval dates, and disease indications differ.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** MS Medicines in China: Options, Monitoring and Transitions
+- **Subtitle:** Understand MS disease-modifying treatments, safety monitoring and planned transitions, and verify medicine access and continuing services in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Confirm medicine, administration, laboratory, and review costs separately, along
 ## SEO Metadata
 
 - **Primary keyword:** multiple sclerosis drug treatment and monitoring
+
+- **Meta title:** MS Medicines in China: Options, Monitoring and Transitions
+- **Meta description:** Understand MS disease-modifying treatments, safety monitoring and planned transitions, and verify medicine access and continuing services in China.

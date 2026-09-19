@@ -1,12 +1,14 @@
-# Radioterapia para el linfoma folicular: tratamiento localizado, paliación con dosis bajas y reirradiación
+# Radioterapia del linfoma folicular en China: propósito y planificación
 
 ## Hero
 
-- **Title:** Radioterapia para el linfoma folicular: tratamiento localizado, paliación con dosis bajas y reirradiación
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma folicular
-- **Subtitle:** El linfoma folicular suele ser sensible a la radiación, pero esa sensibilidad no determina la dosis, el campo ni la necesidad de medicación sistémica.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Radioterapia del linfoma folicular en China: propósito y planificación
+- **Subtitle:** Comprenda los objetivos de radioterapia del linfoma folicular en China, la diferencia entre pautas y la preparación según el área que se va a tratar.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ La estancia debe permitir la consulta, la simulación, la revisión del plan, el
 ## SEO Metadata
 
 - **Primary keyword:** radioterapia del linfoma folicular
+
+- **Meta title:** Radioterapia del linfoma folicular en China: propósito y planificación
+- **Meta description:** Comprenda los objetivos de radioterapia del linfoma folicular en China, la diferencia entre pautas y la preparación según el área que se va a tratar.

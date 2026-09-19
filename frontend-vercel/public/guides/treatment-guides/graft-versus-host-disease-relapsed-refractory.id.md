@@ -1,12 +1,14 @@
-# Ketika GVHD Menetap atau Kambuh Lagi: Penilaian Ulang dan Keputusan Perawatan Selanjutnya
+# GVHD Menetap atau Kambuh: Pendapat Kedua di Tiongkok
 
 ## Hero
 
-- **Title:** Ketika GVHD Menetap atau Kambuh Lagi: Penilaian Ulang dan Keputusan Perawatan Selanjutnya
 - **Category:** Panduan Perawatan
 - **Subcategory:** Penyakit Graft Versus Host
-- **Subtitle:** Ketika GVHD Menetap atau Kambuh Lagi: Penilaian Ulang dan Keputusan Perawatan Selanjutnya
-- **Updated date:** 2026/09/09
+
+
+- **Title:** GVHD Menetap atau Kambuh: Pendapat Kedua di Tiongkok
+- **Subtitle:** Siapkan pendapat kedua GVHD menetap atau kambuh di Tiongkok dengan riwayat respons, intoleransi, dan perubahan organ serta penilaian penyebab lain.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,3 +142,6 @@ Perubahan perawatan berulang melelahkan pasien dan pendamping. Penilaian ulang y
 ## SEO Metadata
 
 - **Primary keyword:** perawatan GVHD refrakter dan berulang di Tiongkok
+
+- **Meta title:** GVHD Menetap atau Kambuh: Pendapat Kedua di Tiongkok
+- **Meta description:** Siapkan pendapat kedua GVHD menetap atau kambuh di Tiongkok dengan riwayat respons, intoleransi, dan perubahan organ serta penilaian penyebab lain.

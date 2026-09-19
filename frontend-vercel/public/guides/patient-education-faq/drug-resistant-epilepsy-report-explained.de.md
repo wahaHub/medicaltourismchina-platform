@@ -1,12 +1,14 @@
-# Befunde bei pharmakoresistenter Epilepsie verstehen: EEG-Befunde, MRT-Läsionen und abschließende präoperative Beurteilung
+# Befunde bei pharmakoresistenter Epilepsie: Fachärztliche Beurteilung in China
 
 ## Hero
 
-- **Title:** Befunde bei pharmakoresistenter Epilepsie verstehen: EEG-Befunde, MRT-Läsionen und abschließende präoperative Beurteilung
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Pharmakoresistente Epilepsie
-- **Subtitle:** Es kann widersprüchlich erscheinen, wenn ein EEG Entladungen beschreibt, ein MRT als normal befundet wird und der Arzt dennoch weitere Abklärung empfiehlt.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Befunde bei pharmakoresistenter Epilepsie: Fachärztliche Beurteilung in China
+- **Subtitle:** Epilepsiebefunde für eine fachärztliche Prüfung in China ordnen: EEG-Muster, aufgezeichnete Ereignisse, MRT-Läsionen und Grenzen der Operationsplanung verstehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -157,3 +159,6 @@ Erstellen Sie eine einseitige Liste beunruhigender Begriffe und scheinbar widers
 ## SEO Metadata
 
 - **Primary keyword:** Befundinterpretation bei pharmakoresistenter Epilepsie; EEG-Spitzen; Hippokampussklerose-Befund; MRT-negative Epilepsie; Zweitmeinung in China
+
+- **Meta title:** Befunde bei pharmakoresistenter Epilepsie: Fachärztliche Beurteilung in China
+- **Meta description:** Epilepsiebefunde für eine fachärztliche Prüfung in China ordnen: EEG-Muster, aufgezeichnete Ereignisse, MRT-Läsionen und Grenzen der Operationsplanung verstehen.

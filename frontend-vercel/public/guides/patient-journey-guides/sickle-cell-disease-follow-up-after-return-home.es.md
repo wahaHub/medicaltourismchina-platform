@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Seguimiento de la enfermedad de células falciformes después del tratamiento en China: medicamentos, transfusiones, vigilancia y atención urgente
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Enfermedad de células falciformes
-- **Subtitle:** La atención de la enfermedad de células falciformes continúa después de una visita a China.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Seguimiento de la enfermedad de células falciformes después del tratamiento en China: medicamentos, transfusiones, vigilancia y atención urgente
+- **Subtitle:** Organice el seguimiento de enfermedad falciforme tras la atención en China con revisión de medicación, transfusiones, controles y acceso local a urgencias.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,3 +146,6 @@ Para una revisión remota, establezca qué información subir, cuándo se evalua
 ## SEO Metadata
 
 - **Primary keyword:** seguimiento de la enfermedad de células falciformes después del tratamiento en China
+
+- **Meta title:** Seguimiento de la enfermedad de células falciformes después del tratamiento en China: medicamentos, transfusiones, vigilancia y atención urgente
+- **Meta description:** Organice el seguimiento de enfermedad falciforme tras la atención en China con revisión de medicación, transfusiones, controles y acceso local a urgencias.

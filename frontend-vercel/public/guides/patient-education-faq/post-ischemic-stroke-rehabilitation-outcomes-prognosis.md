@@ -1,12 +1,14 @@
-# How Much Recovery Is Possible After Ischemic Stroke? Understanding Prognosis and Progress
+# Stroke Recovery Outcomes: Comparing Rehabilitation in China
 
 ## Hero
 
-- **Title:** How Much Recovery Is Possible After Ischemic Stroke? Understanding Prognosis and Progress
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Post Ischemic Stroke Rehabilitation
-- **Subtitle:** After an ischemic stroke, families often want one clear answer: how much recovery is possible?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Stroke Recovery Outcomes: Comparing Rehabilitation in China
+- **Subtitle:** Compare stroke rehabilitation outcomes using baseline function and meaningful goals, with questions to assess rehabilitation services in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Needs can change during a ward transfer, discharge, return home, or an attempt t
 ## SEO Metadata
 
 - **Primary keyword:** ischemic stroke rehabilitation prognosis
+
+- **Meta title:** Stroke Recovery Outcomes: Comparing Rehabilitation in China
+- **Meta description:** Compare stroke rehabilitation outcomes using baseline function and meaningful goals, with questions to assess rehabilitation services in China.

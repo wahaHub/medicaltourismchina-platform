@@ -1,12 +1,14 @@
-# Wenn Anfälle bei pharmakoresistenter Epilepsie zurückkehren: Medikamentenprüfung, postoperative Rückfälle und Neubewertung
+# Erneute Anfälle bei pharmakoresistenter Epilepsie: Beurteilung in China
 
 ## Hero
 
-- **Title:** Wenn Anfälle bei pharmakoresistenter Epilepsie zurückkehren: Medikamentenprüfung, postoperative Rückfälle und Neubewertung
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Pharmakoresistente Epilepsie
-- **Subtitle:** Die Rückkehr eines vertrauten Anfalls nach einer ruhigeren Phase kann zutiefst entmutigend sein.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Erneute Anfälle bei pharmakoresistenter Epilepsie: Beurteilung in China
+- **Subtitle:** Erneute Anfälle bei pharmakoresistenter Epilepsie für China beurteilen: Ereignismuster, Einnahmeunterbrechungen, Wechselwirkungen und postoperative Rückfälle erfassen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -151,3 +153,6 @@ Die Neubewertung nach einem Wiederauftreten soll veränderbare Faktoren finden u
 
 - **Primary keyword:** wiederkehrende pharmakoresistente Epilepsie; wiederkehrende Anfälle nach Epilepsieoperation; Durchbruchanfälle; Epilepsie-Neubewertung in China
 
+
+- **Meta title:** Erneute Anfälle bei pharmakoresistenter Epilepsie: Beurteilung in China
+- **Meta description:** Erneute Anfälle bei pharmakoresistenter Epilepsie für China beurteilen: Ereignismuster, Einnahmeunterbrechungen, Wechselwirkungen und postoperative Rückfälle erfassen.

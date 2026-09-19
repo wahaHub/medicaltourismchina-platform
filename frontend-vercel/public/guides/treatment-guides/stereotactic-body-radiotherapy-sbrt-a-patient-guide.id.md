@@ -1,15 +1,17 @@
-# 034 Radioterapi Tubuh Stereotaktik (SBRT): Panduan Pasien
+# SBRT di Tiongkok: Perencanaan Pengobatan, Keamanan, dan Tindak Lanjut
 
 ## Hero
 
-- **Title:** Radioterapi Tubuh Stereotaktik (SBRT): Panduan Pasien
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Perawatan Kanker
-- **Subtitle:** Bagaimana kelayakan, pengendalian gerak, batas organ berisiko, dan penjaminan mutu khusus pasien membentuk rangkaian singkat berpresisi tinggi.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Dokter menjelaskan rencana SBRT dada yang disederhanakan dengan beberapa jalur berkas bertemu pada target kecil
+
+
+- **Title:** SBRT di Tiongkok: Perencanaan Pengobatan, Keamanan, dan Tindak Lanjut
+- **Subtitle:** Pahami kelayakan SBRT, penanganan gerak, panduan citra, batas organ, penjaminan mutu, dan tindak lanjut sebelum radioterapi tubuh stereotaktik.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -149,13 +151,15 @@ Dapatkan ringkasan pengobatan dengan lokasi, tujuan, teknik, dosis total dan per
 ## SEO Metadata
 
 - **Slug:** `stereotactic-body-radiotherapy-sbrt-a-patient-guide`
-- **Meta title:** Panduan Pasien SBRT: Perencanaan, Keselamatan, dan Tindak Lanjut
-- **Meta description:** Pahami kelayakan SBRT, penanganan gerak, panduan citra, batas organ, penjaminan mutu, dan tindak lanjut sebelum radioterapi tubuh stereotaktik.
 - **Primary keyword:** panduan pasien SBRT
 - **Pillar keyword:** terapi radiasi di Tiongkok
 - **Vertical keyword:** radioterapi tubuh stereotaktik Tiongkok
 - **Search intent:** edukasi pengobatan / evaluasi keselamatan
 - **Secondary keywords:** pengobatan SABR; penanganan gerak SBRT; fraksi SBRT; penjaminan mutu SBRT; pencitraan tindak lanjut SBRT
+
+
+- **Meta title:** SBRT di Tiongkok: Perencanaan Pengobatan, Keamanan, dan Tindak Lanjut
+- **Meta description:** Pahami kelayakan SBRT, penanganan gerak, panduan citra, batas organ, penjaminan mutu, dan tindak lanjut sebelum radioterapi tubuh stereotaktik.
 
 ## Sumber
 

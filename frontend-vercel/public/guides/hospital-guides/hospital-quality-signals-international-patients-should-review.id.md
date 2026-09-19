@@ -1,15 +1,17 @@
-# 100 Indikator Mutu Rumah Sakit yang Perlu Ditinjau Pasien Internasional
+# Mutu Rumah Sakit di Tiongkok: Hal yang Perlu Diperiksa Pasien Internasional
 
 ## Hero
 
-- **Title:** Indikator Mutu Rumah Sakit yang Perlu Ditinjau Pasien Internasional
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Mutu & Keselamatan Rumah Sakit
-- **Subtitle:** Ganti prestise, dekorasi, dan klaim keberhasilan samar dengan indikator yang dapat diperiksa pada tingkat departemen, tim, dan jalur perawatan.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustrasi konseptual pasien internasional membahas mutu rumah sakit dengan koordinator; simbol perisai, medali, dan grafik bukan sertifikat akreditasi atau skor mutu aktual.
+
+
+- **Title:** Mutu Rumah Sakit di Tiongkok: Hal yang Perlu Diperiksa Pasien Internasional
+- **Subtitle:** Metode praktis mengevaluasi rumah sakit Tiongkok menggunakan kesesuaian tim, luaran terdefinisi, kemampuan penyelamatan, sistem keselamatan, rekam, dan tindak lanjut lintas perbatasan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -229,13 +231,15 @@ Koordinator dapat memberikan dokumen perizinan, jadwal, estimasi, dan informasi 
 ## SEO Metadata
 
 - **Slug:** `hospital-quality-signals-international-patients-should-review`
-- **Meta title:** Indikator Mutu Rumah Sakit yang Perlu Ditinjau Pasien Internasional
-- **Meta description:** Metode praktis mengevaluasi rumah sakit Tiongkok menggunakan kesesuaian tim, luaran terdefinisi, kemampuan penyelamatan, sistem keselamatan, rekam, dan tindak lanjut lintas perbatasan.
 - **Primary keyword:** indikator mutu rumah sakit Tiongkok
 - **Pillar keyword:** rumah sakit terbaik di Tiongkok untuk warga asing
 - **Vertical keyword:** indikator mutu rumah sakit yang perlu ditinjau pasien internasional
 - **Search intent:** perbandingan rumah sakit / verifikasi mutu
 - **Secondary keywords:** mutu rumah sakit Tiongkok; keselamatan pasien internasional; luaran rumah sakit Tiongkok; akreditasi rumah sakit Tiongkok; memilih rumah sakit di Tiongkok
+
+
+- **Meta title:** Mutu Rumah Sakit di Tiongkok: Hal yang Perlu Diperiksa Pasien Internasional
+- **Meta description:** Metode praktis mengevaluasi rumah sakit Tiongkok menggunakan kesesuaian tim, luaran terdefinisi, kemampuan penyelamatan, sistem keselamatan, rekam, dan tindak lanjut lintas perbatasan.
 
 ## Sumber
 

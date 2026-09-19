@@ -1,15 +1,17 @@
-# 065 Réadaptation en cancérologie : gérer les capacités fonctionnelles, la fatigue et la récupération
+# Réadaptation en cancérologie en Chine : capacités, fatigue et récupération
 
 ## Hero
 
-- **Title:** Réadaptation en cancérologie : gérer les capacités fonctionnelles, la fatigue et la récupération
 - **Category:** Guides des traitements
 - **Subcategory:** Réadaptation
-- **Subtitle:** Construisez la réadaptation autour du cancer, de la phase de traitement et des activités de vie importantes, et non d’un programme générique d’exercices.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Une femme en traitement contre le cancer discute de rééducation de la marche et du renforcement avec un thérapeute, à côté de matériel d’exercice simple.
+
+
+- **Title:** Réadaptation en cancérologie en Chine : capacités, fatigue et récupération
+- **Subtitle:** Comment évaluer la réadaptation en cancérologie en Chine : fatigue, sécurité de l’exercice, neuropathie, lymphœdème, risque osseux, objectifs mesurables et transmission.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -129,11 +131,13 @@ Demandez les mesures initiales et finales, les objectifs, le plan d’exercices 
 ## SEO Metadata
 
 - **Slug:** `cancer-rehabilitation-managing-function-fatigue-and-recovery`
-- **Meta title:** Réadaptation en cancérologie : fonction, fatigue et récupération sûre
-- **Meta description:** Comment évaluer la réadaptation en cancérologie en Chine : fatigue, sécurité de l’exercice, neuropathie, lymphœdème, risque osseux, objectifs mesurables et transmission.
 - **Primary keyword:** réadaptation en cancérologie en Chine
 - **Secondary keywords:** réadaptation fatigue liée au cancer ; kinésithérapie oncologique ; exercice pendant le traitement du cancer ; programme de récupération après cancer ; réadaptation lymphœdème
 - **Search intent:** planification du traitement / comparaison de programmes de réadaptation
+
+
+- **Meta title:** Réadaptation en cancérologie en Chine : capacités, fatigue et récupération
+- **Meta description:** Comment évaluer la réadaptation en cancérologie en Chine : fatigue, sécurité de l’exercice, neuropathie, lymphœdème, risque osseux, objectifs mesurables et transmission.
 
 ## Sources
 

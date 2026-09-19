@@ -1,12 +1,14 @@
-# Memahami prognosis sklerosis multipel: kelangsungan hidup, kemandirian, dan respons pengobatan
+# Prognosis Sklerosis Multipel: Pertanyaan untuk Perawatan di Tiongkok
 
 ## Hero
 
-- **Title:** Memahami prognosis sklerosis multipel: kelangsungan hidup, kemandirian, dan respons pengobatan
 - **Category:** Edukasi Pasien & FAQ
 - **Subcategory:** Sklerosis Multipel
-- **Subtitle:** Pertanyaan tentang pekerjaan, berjalan, dan kehidupan keluarga sering lebih penting bagi orang yang baru didiagnosis daripada nama kondisinya.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prognosis Sklerosis Multipel: Pertanyaan untuk Perawatan di Tiongkok
+- **Subtitle:** Bahas prognosis sklerosis multipel melalui kekambuhan, progresi, dan fungsi sehari-hari. Siapkan pertanyaan perawatan serta pemantauan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Kunjungan singkat tidak dapat menunjukkan hasil jangka panjang, dan angka menjan
 ## SEO Metadata
 
 - **Primary keyword:** prognosis sklerosis multipel dan hasil pengobatan
+
+- **Meta title:** Prognosis Sklerosis Multipel: Pertanyaan untuk Perawatan di Tiongkok
+- **Meta description:** Bahas prognosis sklerosis multipel melalui kekambuhan, progresi, dan fungsi sehari-hari. Siapkan pertanyaan perawatan serta pemantauan di Tiongkok.

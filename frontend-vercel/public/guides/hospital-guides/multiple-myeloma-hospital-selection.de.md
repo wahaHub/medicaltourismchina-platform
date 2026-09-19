@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Ein Krankenhaus in China für multiples Myelom auswählen: das Team auf die Behandlungsphase abstimmen
 - **Category:** Krankenhausratgeber
 - **Subcategory:** Multiples Myelom
-- **Subtitle:** Ein Patient benötigt möglicherweise diagnostische Klärung, Erstlinienplanung, Transplantationsbeurteilung, Rückfallbehandlung oder die Versorgung von Komplikationen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Ein Krankenhaus in China für multiples Myelom auswählen: das Team auf die Behandlungsphase abstimmen
+- **Subtitle:** Ein Myelomzentrum in China nach der Behandlungsphase wählen: Diagnostik, Transplantation, Zelltherapie sowie Nieren-, Knochen- und Notfallversorgung prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Die endgültige Wahl sollte Krankheitsbedarf, verfügbare Behandlung, Überwachu
 ## SEO Metadata
 
 - **Primary keyword:** Krankenhäuser und Behandlungszentren für multiples Myelom in China
+
+- **Meta title:** Ein Krankenhaus in China für multiples Myelom auswählen: das Team auf die Behandlungsphase abstimmen
+- **Meta description:** Ein Myelomzentrum in China nach der Behandlungsphase wählen: Diagnostik, Transplantation, Zelltherapie sowie Nieren-, Knochen- und Notfallversorgung prüfen.

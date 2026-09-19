@@ -1,12 +1,14 @@
-# Behandlungsbeginn nach Sichelzelldiagnose: Hydroxyurea, Prävention und erster Nachsorgeplan
+# Beginn der Sichelzellbehandlung in China: Medikamente und Nachsorge
 
 ## Hero
 
-- **Title:** Behandlungsbeginn nach Sichelzelldiagnose: Hydroxyurea, Prävention und erster Nachsorgeplan
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Sichelzellkrankheit
-- **Subtitle:** Nach einer Sichelzelldiagnose möchten Familien oft wissen, welches Medikament zuerst kommt.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Beginn der Sichelzellbehandlung in China: Medikamente und Nachsorge
+- **Subtitle:** Sichelzellbehandlung in China beginnen: Ausgangsbefunde, Hydroxyurea, Prävention, Schmerzplan und erste Nachsorge auf Genotyp und persönlichen Bedarf abstimmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,3 +152,6 @@ Der erste Plan entscheidet nicht jede künftige Option. Patienten mit erhebliche
 ## SEO Metadata
 
 - **Primary keyword:** Erstbehandlung der Sichelzellkrankheit
+
+- **Meta title:** Beginn der Sichelzellbehandlung in China: Medikamente und Nachsorge
+- **Meta description:** Sichelzellbehandlung in China beginnen: Ausgangsbefunde, Hydroxyurea, Prävention, Schmerzplan und erste Nachsorge auf Genotyp und persönlichen Bedarf abstimmen.

@@ -1,15 +1,17 @@
-# 075 Costes de ensayos clínicos, viajes y responsabilidades de seguimiento
+# Costes de ensayos clínicos en China: viajes y seguimiento
 
 ## Hero
 
-- **Title:** Costes de ensayos clínicos, viajes y responsabilidades de seguimiento
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Planificación de ensayos internacionales
-- **Subtitle:** Sustituya la frase «el ensayo es gratuito» por un mapa escrito de costes de investigación, atención habitual, viajes, complicaciones y seguimiento entre países.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un profesional clínico y un paciente internacional revisan una hoja de costes junto a símbolos de viaje, calendario y protección.
+
+
+- **Title:** Costes de ensayos clínicos en China: viajes y seguimiento
+- **Subtitle:** Planifique los gastos de un ensayo en China separando investigación, atención habitual, viajes, complicaciones y seguimiento, con una lista práctica de responsabilidades transfronterizas.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -20,6 +22,9 @@
 - La participación transfronteriza necesita responsables identificados para emergencias, pruebas locales de laboratorio o imagen, documentos originales, cambios de medicación y seguimiento tras el regreso.
 
 ## Content
+
+Antes de viajar para participar en un ensayo clínico en China, separe los costes de investigación de los de la atención habitual, los viajes, las complicaciones y el seguimiento. Pida al equipo del estudio que identifique por escrito quién paga cada concepto y quién asume cada responsabilidad, incluido qué ocurre si la selección no conduce a la inclusión.
+
 
 «El ensayo clínico es gratuito» no es un plan financiero. Puede significar que el promotor proporciona el fármaco del estudio; no revela quién paga la atención hospitalaria ordinaria, una visita de selección no superada, una estancia más larga por toxicidad, vuelos repetidos o la atención al volver a casa.
 
@@ -145,11 +150,13 @@ Sí, la participación es voluntaria. Informe al centro en lugar de desaparecer 
 ## SEO Metadata
 
 - **Slug:** `clinical-trial-costs-travel-and-follow-up-responsibilities`
-- **Meta title:** Costes de ensayos clínicos, viajes y seguimiento en el extranjero
-- **Meta description:** Planifique los gastos de un ensayo en China separando investigación, atención habitual, viajes, complicaciones y seguimiento, con una lista práctica de responsabilidades transfronterizas.
 - **Primary keyword:** costes de ensayos clínicos viajes seguimiento
 - **Secondary keywords:** coste de ensayo clínico China; reembolso de viajes de ensayo; paciente internacional ensayo clínico; coste de investigación frente a atención habitual; seguimiento de ensayo en el extranjero
 - **Search intent:** planificación financiera y de viajes de ensayos clínicos
+
+
+- **Meta title:** Costes de ensayos clínicos en China: viajes y seguimiento
+- **Meta description:** Planifique los gastos de un ensayo en China separando investigación, atención habitual, viajes, complicaciones y seguimiento, con una lista práctica de responsabilidades transfronterizas.
 
 ## Fuentes
 

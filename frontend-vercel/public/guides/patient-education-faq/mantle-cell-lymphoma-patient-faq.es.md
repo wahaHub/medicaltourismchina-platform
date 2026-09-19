@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Linfoma de células del manto: 20 preguntas sobre diagnóstico, tratamiento en China y regreso a casa
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma de células del manto
-- **Subtitle:** El tratamiento del linfoma de células del manto está cambiando, y los pacientes con el mismo diagnóstico pueden tener comportamientos de la enfermedad e historias de tratamiento muy diferentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Linfoma de células del manto: 20 preguntas sobre diagnóstico, tratamiento en China y regreso a casa
+- **Subtitle:** Prepare preguntas sobre diagnóstico y tratamiento del linfoma de células del manto en China, incluida la observación inicial y la continuidad al volver a casa.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -177,3 +179,6 @@ La terapia continuada o la recuperación de trasplante o CAR-T no se vuelve meno
 ## SEO Metadata
 
 - **Primary keyword:** preguntas de pacientes sobre linfoma de células del manto tratamiento en China
+
+- **Meta title:** Linfoma de células del manto: 20 preguntas sobre diagnóstico, tratamiento en China y regreso a casa
+- **Meta description:** Prepare preguntas sobre diagnóstico y tratamiento del linfoma de células del manto en China, incluida la observación inicial y la continuidad al volver a casa.

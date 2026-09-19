@@ -1,12 +1,14 @@
-# Types et risques de GVHD : maladie aiguë, chronique, de chevauchement et corticoréfractaire
+# Types et risques de la GVH : préparer des soins spécialisés en Chine
 
 ## Hero
 
-- **Title:** Types et risques de GVHD : maladie aiguë, chronique, de chevauchement et corticoréfractaire
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Maladie du greffon contre l’hôte
-- **Subtitle:** Chronique, sévère, à haut risque et corticoréfractaire peuvent sembler désigner des étapes successives sur une même échelle.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Types et risques de la GVH : préparer des soins spécialisés en Chine
+- **Subtitle:** Comprenez les formes aiguë, chronique et de chevauchement de la maladie du greffon contre l’hôte pour préparer une évaluation spécialisée en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ L’acceptation d’une consultation ne vaut pas acceptation d’un traitement p
 ## SEO Metadata
 
 - **Primary keyword:** types de maladie du greffon contre l’hôte et évaluation du risque en Chine
+
+- **Meta title:** Types et risques de la GVH : préparer des soins spécialisés en Chine
+- **Meta description:** Comprenez les formes aiguë, chronique et de chevauchement de la maladie du greffon contre l’hôte pour préparer une évaluation spécialisée en Chine.

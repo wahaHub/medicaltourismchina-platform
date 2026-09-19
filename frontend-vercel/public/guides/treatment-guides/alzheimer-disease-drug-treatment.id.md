@@ -1,12 +1,14 @@
-# Obat Penyakit Alzheimer: Gejala Kognitif, Antibodi, dan Pengobatan Agitasi
+# Obat Alzheimer di Tiongkok: Pilihan, Akses, dan Pemantauan
 
 ## Hero
 
-- **Title:** Obat Penyakit Alzheimer: Gejala Kognitif, Antibodi, dan Pengobatan Agitasi
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Alzheimer
-- **Subtitle:** Resep Alzheimer dapat memuat obat untuk kognisi, pengobatan penyakit lain, dan obat untuk perilaku yang menimbulkan penderitaan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat Alzheimer di Tiongkok: Pilihan, Akses, dan Pemantauan
+- **Subtitle:** Pahami tujuan obat Alzheimer untuk kognisi, perilaku, dan penyakit penyerta. Periksa pilihan, akses di Tiongkok, serta kebutuhan pemantauan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -143,3 +145,6 @@ Nilai resep sebagian bergantung pada apakah pengaturan ini dapat dipertahankan. 
 ## SEO Metadata
 
 - **Primary keyword:** obat penyakit Alzheimer
+
+- **Meta title:** Obat Alzheimer di Tiongkok: Pilihan, Akses, dan Pemantauan
+- **Meta description:** Pahami tujuan obat Alzheimer untuk kognisi, perilaku, dan penyakit penyerta. Periksa pilihan, akses di Tiongkok, serta kebutuhan pemantauan.

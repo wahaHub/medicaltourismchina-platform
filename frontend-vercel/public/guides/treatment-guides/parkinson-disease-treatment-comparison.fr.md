@@ -1,12 +1,14 @@
-# Comparer les traitements de Parkinson : ajustement médicamenteux, perfusion, SCP et ultrasons focalisés
+# Options de traitement de Parkinson en Chine : médicaments et dispositifs
 
 ## Hero
 
-- **Title:** Comparer les traitements de Parkinson : ajustement médicamenteux, perfusion, SCP et ultrasons focalisés
 - **Category:** Guides des traitements
 - **Subcategory:** Maladie de Parkinson
-- **Subtitle:** Lorsque les médicaments ne permettent plus de prévoir le déroulement de la journée, les patients peuvent se voir proposer l’ajout d’un médicament, un changement de formulation, un système de perfusion ou une intervention.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Options de traitement de Parkinson en Chine : médicaments et dispositifs
+- **Subtitle:** Comparez ajustements médicamenteux, perfusion, stimulation cérébrale profonde et ultrasons focalisés pour Parkinson selon les objectifs et le suivi en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Données vérifiées : September 9, 2026. Les indications individuelles, l’enr
 ## SEO Metadata
 
 - **Primary keyword:** comparaison des traitements de la maladie de Parkinson en Chine
+
+- **Meta title:** Options de traitement de Parkinson en Chine : médicaments et dispositifs
+- **Meta description:** Comparez ajustements médicamenteux, perfusion, stimulation cérébrale profonde et ultrasons focalisés pour Parkinson selon les objectifs et le suivi en Chine.

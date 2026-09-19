@@ -1,12 +1,14 @@
-# Nebenwirkungen der Mantelzelllymphom-Behandlung bewältigen: Fieber, Blutungen, zielgerichtete Therapie und CAR-T-Überwachung
+# Versorgung beim Mantelzelllymphom in China: Nebenwirkungen und Sicherheit
 
 ## Hero
 
-- **Title:** Nebenwirkungen der Mantelzelllymphom-Behandlung bewältigen: Fieber, Blutungen, zielgerichtete Therapie und CAR-T-Überwachung
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Mantelzelllymphom
-- **Subtitle:** Nebenwirkungen der Mantelzelllymphom-Behandlung bewältigen: Fieber, Blutungen, zielgerichtete Therapie und CAR-T-Überwachung
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Versorgung beim Mantelzelllymphom in China: Nebenwirkungen und Sicherheit
+- **Subtitle:** Nebenwirkungen beim Mantelzelllymphom in China einordnen: Fieber, Blutungen, Herz- und Nervenbeschwerden sowie besondere Risiken nach CAR-T berücksichtigen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Nebenwirkungsmanagement soll Gefahren früh erkennen, behandelbare Beschwerden v
 ## SEO Metadata
 
 - **Primary keyword:** Nebenwirkungen der Mantelzelllymphom-Behandlung
+
+- **Meta title:** Versorgung beim Mantelzelllymphom in China: Nebenwirkungen und Sicherheit
+- **Meta description:** Nebenwirkungen beim Mantelzelllymphom in China einordnen: Fieber, Blutungen, Herz- und Nervenbeschwerden sowie besondere Risiken nach CAR-T berücksichtigen.

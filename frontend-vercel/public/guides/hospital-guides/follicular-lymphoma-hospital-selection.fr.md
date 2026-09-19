@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choisir un hôpital pour le lymphome folliculaire en Chine : adapter l’équipe à la décision dont vous avez besoin
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Lymphome folliculaire
-- **Subtitle:** La recherche d’un hôpital devient plus facile lorsqu’elle commence par une question clinique.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choisir un hôpital pour le lymphome folliculaire en Chine : adapter l’équipe à la décision dont vous avez besoin
+- **Subtitle:** Évaluez une équipe de lymphome folliculaire en Chine selon sa capacité à confirmer le diagnostic, justifier le traitement et organiser radiothérapie ou soins de rechute.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ L’hôpital le plus utile pour une personne atteinte de lymphome folliculaire e
 ## SEO Metadata
 
 - **Primary keyword:** choix d’un hôpital pour le lymphome folliculaire en Chine
+
+- **Meta title:** Choisir un hôpital pour le lymphome folliculaire en Chine : adapter l’équipe à la décision dont vous avez besoin
+- **Meta description:** Évaluez une équipe de lymphome folliculaire en Chine selon sa capacité à confirmer le diagnostic, justifier le traitement et organiser radiothérapie ou soins de rechute.

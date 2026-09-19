@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Rekam Medis untuk Perawatan Parkinson di Tiongkok: Menunjukkan Gejala, Respons Obat, dan Prosedur Sebelumnya
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Penyakit Parkinson
-- **Subtitle:** Menyiapkan rekam medis Parkinson bertujuan membantu tim baru memahami bagaimana gejala berkembang, pengobatan mana yang benar-benar dicoba, dan apa yang kini ingin ditangani pasien.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rekam Medis untuk Perawatan Parkinson di Tiongkok: Menunjukkan Gejala, Respons Obat, dan Prosedur Sebelumnya
+- **Subtitle:** Siapkan konsultasi Parkinson di Tiongkok dengan linimasa gejala, obat yang benar-benar diminum, respons, serta catatan prosedur dan perangkat.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ Dokter di negara asal memerlukan uraian yang dapat ditelusuri tentang apa yang d
 ## SEO Metadata
 
 - **Primary keyword:** rekam medis untuk pengobatan Parkinson di Tiongkok
+
+- **Meta title:** Rekam Medis untuk Perawatan Parkinson di Tiongkok: Menunjukkan Gejala, Respons Obat, dan Prosedur Sebelumnya
+- **Meta description:** Siapkan konsultasi Parkinson di Tiongkok dengan linimasa gejala, obat yang benar-benar diminum, respons, serta catatan prosedur dan perangkat.

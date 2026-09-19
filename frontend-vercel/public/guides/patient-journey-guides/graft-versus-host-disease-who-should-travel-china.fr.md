@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Faut-il voyager en Chine pour traiter une GVHD ? Définir le bénéfice et les soins nécessaires autour du voyage
 - **Category:** Guides du parcours patient
 - **Subcategory:** Maladie du greffon contre l’hôte
-- **Subtitle:** La gravité de la maladie ne peut pas déterminer à elle seule si une personne atteinte de maladie du greffon contre l’hôte doit voyager en Chine.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Faut-il voyager en Chine pour traiter une GVHD ? Définir le bénéfice et les soins nécessaires autour du voyage
+- **Subtitle:** Avant des soins de GVH en Chine, évaluez le bénéfice attendu, la stabilité des organes, les contraintes du vol et les besoins médicaux pendant le séjour.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Lorsque l’évaluation et le traitement nécessaires sont disponibles localemen
 ## SEO Metadata
 
 - **Primary keyword:** voyager en Chine pour le traitement de la GVHD
+
+- **Meta title:** Faut-il voyager en Chine pour traiter une GVHD ? Définir le bénéfice et les soins nécessaires autour du voyage
+- **Meta description:** Avant des soins de GVH en Chine, évaluez le bénéfice attendu, la stabilité des organes, les contraintes du vol et les besoins médicaux pendant le séjour.

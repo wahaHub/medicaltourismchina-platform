@@ -1,15 +1,17 @@
-# 024 Mencari Perawatan Medis di Shenzhen: Panduan untuk Pasien Internasional
+# Perawatan Medis di Tiongkok: Panduan Pasien di Shenzhen
 
 ## Hero
 
-- **Title:** Mencari Perawatan Medis di Shenzhen: Panduan untuk Pasien Internasional
 - **Category:** Panduan Layanan Kesehatan di Tiongkok
 - **Subcategory:** Perencanaan Perawatan Kota dan Lintas Batas
-- **Subtitle:** Rencanakan kunjungan ke Shenzhen berdasarkan pintu masuk rumah sakit yang sebenarnya, dokumen identitas dalam sistemnya, dan serah terima klinis di sisi perbatasan mana pun yang menjadi tujuan berikutnya.
 - **Reviewed by:** Tim Editorial Medora Health; tinjauan perawatan Shenzhen dan lintas batas diperlukan sebelum publikasi
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Seorang pasien internasional mendiskusikan perawatan dengan dokter dengan latar cakrawala Shenzhen
+
+
+- **Title:** Perawatan Medis di Tiongkok: Panduan Pasien di Shenzhen
+- **Subtitle:** Rencanakan janji temu Shenzhen, pendaftaran paspor, berbagi rekam Hong Kong dan batas voucher, serah terima lintas batas, serta perawatan darurat 120.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -211,13 +213,15 @@ Tidak. Telepon Shenzhen 120 dan ikuti petunjuk darurat. Transportasi perbatasan 
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-shenzhen-a-guide-for-international-patients`
-- **Meta title:** Perawatan Medis di Shenzhen untuk Pasien Internasional
-- **Meta description:** Rencanakan janji temu Shenzhen, pendaftaran paspor, berbagi rekam Hong Kong dan batas voucher, serah terima lintas batas, serta perawatan darurat 120.
 - **Primary keyword:** perawatan medis di Shenzhen untuk pasien internasional
 - **Pillar keyword:** layanan kesehatan di Tiongkok untuk pasien internasional
 - **Vertical keyword:** perawatan medis lintas batas Shenzhen
 - **Search intent:** navigasi rumah sakit / perencanaan lintas batas
 - **Secondary keywords:** pendaftaran paspor rumah sakit Shenzhen; layanan medis internasional Shenzhen; rekam medis Hong Kong Shenzhen; ambulans Shenzhen 120
+
+
+- **Meta title:** Perawatan Medis di Tiongkok: Panduan Pasien di Shenzhen
+- **Meta description:** Rencanakan janji temu Shenzhen, pendaftaran paspor, berbagi rekam Hong Kong dan batas voucher, serah terima lintas batas, serta perawatan darurat 120.
 
 ## Sumber
 

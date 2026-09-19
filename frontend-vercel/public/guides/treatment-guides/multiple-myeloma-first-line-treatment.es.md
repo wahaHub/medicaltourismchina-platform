@@ -1,12 +1,14 @@
-# Inicio del tratamiento de primera línea del mieloma múltiple
+# Tratamiento de primera línea del mieloma múltiple en China: cómo empezar
 
 ## Hero
 
-- **Title:** Inicio del tratamiento de primera línea del mieloma múltiple
 - **Category:** Guías de tratamiento
 - **Subcategory:** Mieloma múltiple
-- **Subtitle:** El tratamiento de primera línea es la estrategia sistémica inicial para controlar el mieloma activo.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento de primera línea del mieloma múltiple en China: cómo empezar
+- **Subtitle:** Prepare el inicio del tratamiento del mieloma múltiple en China según tolerancia, función renal y posible trasplante, con prevención junto al primer ciclo.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Antes de empezar, intente explicar con sus propias palabras el propósito, el pr
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento de primera línea del mieloma múltiple
+
+- **Meta title:** Tratamiento de primera línea del mieloma múltiple en China: cómo empezar
+- **Meta description:** Prepare el inicio del tratamiento del mieloma múltiple en China según tolerancia, función renal y posible trasplante, con prevención junto al primer ciclo.

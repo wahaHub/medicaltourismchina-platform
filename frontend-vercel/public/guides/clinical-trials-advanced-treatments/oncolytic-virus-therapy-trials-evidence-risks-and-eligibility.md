@@ -1,15 +1,17 @@
-# Oncolytic Virus Therapy Trials: Evidence, Risks, and Eligibility
+# Oncolytic Virus Trials in China: Eligibility and Risks
 
 ## Hero
 
-- **Title:** Oncolytic Virus Therapy Trials: Evidence, Risks, and Eligibility
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Cancer Immunotherapy
-- **Subtitle:** Assess the exact virus, genetic design, delivery route, injectable lesion, combination and biosafety plan—not the broad promise of “a virus that kills cancer.”
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Schematic oncolytic virus beside tumour cells, trial participants, safety review and outcome tracking; not a microscope image or a specific viral product.
+
+
+- **Title:** Oncolytic Virus Trials in China: Eligibility and Risks
+- **Subtitle:** Evaluate oncolytic-virus trials by viral platform, delivery route, injectable lesions, evidence, infection and shedding risks, imaging and China trial status.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -177,11 +179,13 @@ Not automatically. Inflammation can mimic growth, but true progression remains p
 ## SEO Metadata
 
 - **Slug:** `oncolytic-virus-therapy-trials-evidence-risks-and-eligibility`
-- **Meta title:** Oncolytic Virus Trials: Eligibility, Shedding and Evidence
-- **Meta description:** Evaluate oncolytic-virus trials by viral platform, delivery route, injectable lesions, evidence, infection and shedding risks, imaging and China trial status.
 - **Primary keyword:** oncolytic virus clinical trials
 - **Secondary keywords:** oncolytic virus China; intratumoural virus therapy; viral shedding; oncolytic virus eligibility; oncolytic immunotherapy
 - **Search intent:** oncolytic-virus trial screening / evidence and safety review
+
+
+- **Meta title:** Oncolytic Virus Trials in China: Eligibility and Risks
+- **Meta description:** Evaluate oncolytic-virus trials by viral platform, delivery route, injectable lesions, evidence, infection and shedding risks, imaging and China trial status.
 
 ## Sources
 

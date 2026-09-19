@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Alzheimer-Krankenunterlagen für eine Konsultation in China vorbereiten
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Alzheimer-Krankheit
-- **Subtitle:** Die hilfreichste Alzheimer-Überweisung verbindet Symptome, Alltagsfunktionen, Untersuchungen und Behandlung auf einer gemeinsamen Zeitachse.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Alzheimer-Krankenunterlagen für eine Konsultation in China vorbereiten
+- **Subtitle:** Alzheimer-Unterlagen für eine Beratung in China vorbereiten: Alltagsverlauf, Testbedingungen, Originalbilder, Biomarker und frühere Antikörperbehandlung dokumentieren.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -129,3 +131,6 @@ Eine gut vorbereitete Akte macht Unsicherheit sichtbar, statt sie zu verbergen. 
 ## SEO Metadata
 
 - **Primary keyword:** Alzheimer-Krankenunterlagen für die Behandlung in China
+
+- **Meta title:** Alzheimer-Krankenunterlagen für eine Konsultation in China vorbereiten
+- **Meta description:** Alzheimer-Unterlagen für eine Beratung in China vorbereiten: Alltagsverlauf, Testbedingungen, Originalbilder, Biomarker und frühere Antikörperbehandlung dokumentieren.

@@ -1,12 +1,14 @@
-# Tipos de talasemia y riesgo: por qué personas con el mismo diagnóstico general necesitan atención diferente
+# Tipos y riesgo de talasemia: prepararse para la atención en China
 
 ## Hero
 
-- **Title:** Tipos de talasemia y riesgo: por qué personas con el mismo diagnóstico general necesitan atención diferente
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Talasemia
-- **Subtitle:** Una persona descubre que es portadora durante una revisión rutinaria.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tipos y riesgo de talasemia: prepararse para la atención en China
+- **Subtitle:** Comprenda las diferencias entre tipos genéticos de talasemia y dependencia transfusional, y prepare una valoración de necesidades de atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ El propósito de evaluar el riesgo es identificar atención útil, no quitar las
 ## SEO Metadata
 
 - **Primary keyword:** alfa-talasemia; beta-talasemia; enfermedad por HbH; talasemia dependiente de transfusiones; talasemia no dependiente de transfusiones
+
+- **Meta title:** Tipos y riesgo de talasemia: prepararse para la atención en China
+- **Meta description:** Comprenda las diferencias entre tipos genéticos de talasemia y dependencia transfusional, y prepare una valoración de necesidades de atención en China.

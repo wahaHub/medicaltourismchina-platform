@@ -1,15 +1,17 @@
-# 070 Seguridad de la fitoterapia china: interacciones y preguntas sobre la calidad
+# Medicina herbal china: seguridad e interacciones en China
 
 ## Hero
 
-- **Title:** Seguridad de la fitoterapia china: interacciones y preguntas sobre la calidad
 - **Category:** Guías de tratamiento
 - **Subcategory:** Medicina tradicional china y atención integradora
-- **Subtitle:** Identifique el producto exacto, rastree su lote, contraste la fórmula completa con la lista completa de medicamentos y supervise un objetivo clínico definido.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un profesional clínico y un paciente mayor comparan medicamentos recetados, cápsulas e ingredientes herbales en una misma lista de seguridad de la medicación.
+
+
+- **Title:** Medicina herbal china: seguridad e interacciones en China
+- **Subtitle:** Identifique el tipo de producto herbal, rastree la calidad del lote, revise interacciones, planifique el seguimiento, notifique reacciones adversas y compruebe restricciones de viaje.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -161,11 +163,13 @@ Las normas varían según el ingrediente y el país. Las etiquetas originales, u
 ## SEO Metadata
 
 - **Slug:** `chinese-herbal-medicine-safety-interactions-and-quality-questions`
-- **Meta title:** Seguridad de la fitoterapia china y comprobación de interacciones
-- **Meta description:** Identifique el tipo de producto herbal, rastree la calidad del lote, revise interacciones, planifique el seguimiento, notifique reacciones adversas y compruebe restricciones de viaje.
 - **Primary keyword:** seguridad de la fitoterapia china
 - **Secondary keywords:** interacciones entre hierbas chinas y fármacos; calidad de medicamentos herbales; seguridad de medicamentos de patente chinos; reacciones adversas a hierbas; trazabilidad de lotes de productos herbales
 - **Search intent:** seguridad de la medicación / evaluación de productos
+
+
+- **Meta title:** Medicina herbal china: seguridad e interacciones en China
+- **Meta description:** Identifique el tipo de producto herbal, rastree la calidad del lote, revise interacciones, planifique el seguimiento, notifique reacciones adversas y compruebe restricciones de viaje.
 
 ## Fuentes
 

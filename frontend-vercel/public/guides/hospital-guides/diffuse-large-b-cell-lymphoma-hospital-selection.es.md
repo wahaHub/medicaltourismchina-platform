@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Elegir un hospital en China para el LDCBG: ajustar el centro a la tarea clínica
 - **Category:** Guías de hospitales
 - **Subcategory:** Linfoma difuso de células B grandes
-- **Subtitle:** Elija un hospital para el LDCBG según la tarea clínica que necesita realizar.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Elegir un hospital en China para el LDCBG: ajustar el centro a la tarea clínica
+- **Subtitle:** Elija un hospital para el linfoma difuso de células B grandes en China según la revisión diagnóstica, el tratamiento, la recaída y el manejo de toxicidades.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -138,3 +140,6 @@ Una hoja de comparación puede registrar las mismas preguntas clínicas para cad
 ## SEO Metadata
 
 - **Primary keyword:** elegir un hospital en China para el LDCBG
+
+- **Meta title:** Elegir un hospital en China para el LDCBG: ajustar el centro a la tarea clínica
+- **Meta description:** Elija un hospital para el linfoma difuso de células B grandes en China según la revisión diagnóstica, el tratamiento, la recaída y el manejo de toxicidades.

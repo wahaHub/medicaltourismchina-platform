@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Ist eine Reise nach China zur Versorgung bei Multipler Sklerose sinnvoll? Planung rund um Ihre Behandlung
 - **Category:** Leitfäden zum Patientenweg
 - **Subcategory:** Multiple Sklerose
-- **Subtitle:** Eine sinnvolle medizinische Reise beginnt mit einer Frage, die eine weitere Konsultation realistisch beantworten könnte.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Ist eine Reise nach China zur Versorgung bei Multipler Sklerose sinnvoll? Planung rund um Ihre Behandlung
+- **Subtitle:** Eine Reise zur MS-Versorgung in China abwägen: Beratungsziel, neue Symptome, laufende Therapie, Mobilität und Behandlungskontinuität vor der Buchung prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Eine Reise wird besser begründbar, wenn der klinische Zweck klar ist, die aktue
 ## SEO Metadata
 
 - **Primary keyword:** Reise nach China zur Behandlung der Multiplen Sklerose
+
+- **Meta title:** Ist eine Reise nach China zur Versorgung bei Multipler Sklerose sinnvoll? Planung rund um Ihre Behandlung
+- **Meta description:** Eine Reise zur MS-Versorgung in China abwägen: Beratungsziel, neue Symptome, laufende Therapie, Mobilität und Behandlungskontinuität vor der Buchung prüfen.

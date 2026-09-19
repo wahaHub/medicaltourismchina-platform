@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Veinte preguntas de los pacientes sobre anemia aplásica, tratamiento y atención en China
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Anemia aplásica
-- **Subtitle:** Las personas que comparten un diagnóstico de anemia aplásica pueden encontrarse en etapas de atención muy diferentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Veinte preguntas de los pacientes sobre anemia aplásica, tratamiento y atención en China
+- **Subtitle:** Prepare preguntas sobre gravedad, pruebas medulares, tratamiento y trasplante de la anemia aplásica para organizar una consulta y la atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ La fiebre con enfermedad importante, una hemorragia nueva grave, dificultad resp
 ## SEO Metadata
 
 - **Primary keyword:** preguntas de pacientes sobre anemia aplásica
+
+- **Meta title:** Veinte preguntas de los pacientes sobre anemia aplásica, tratamiento y atención en China
+- **Meta description:** Prepare preguntas sobre gravedad, pruebas medulares, tratamiento y trasplante de la anemia aplásica para organizar una consulta y la atención en China.

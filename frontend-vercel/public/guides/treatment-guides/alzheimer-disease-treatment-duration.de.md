@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Wie lange dauert eine Alzheimer-Behandlung? Verlaufskontrollen, Antikörpertherapie und Versorgungsplanung in China
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Alzheimer-Krankheit
-- **Subtitle:** Die Alzheimer-Krankheit erfordert im Allgemeinen eine fortlaufende Betreuung, doch das bedeutet nicht, dass jedes Medikament auf unbestimmte Zeit verordnet wird.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Wie lange dauert eine Alzheimer-Behandlung? Verlaufskontrollen, Antikörpertherapie und Versorgungsplanung in China
+- **Subtitle:** Die Dauer der Alzheimer-Behandlung für China planen: Symptommedikamente, Antikörperkontrollen, Unterbrechungen und langfristige Versorgung getrennt besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Tägliche Unterstützung verändert sich mit dem Krankheitsstadium. Erinnerungen
 ## SEO Metadata
 
 - **Primary keyword:** Dauer der Alzheimer-Behandlung
+
+- **Meta title:** Wie lange dauert eine Alzheimer-Behandlung? Verlaufskontrollen, Antikörpertherapie und Versorgungsplanung in China
+- **Meta description:** Die Dauer der Alzheimer-Behandlung für China planen: Symptommedikamente, Antikörperkontrollen, Unterbrechungen und langfristige Versorgung getrennt besprechen.

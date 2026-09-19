@@ -1,12 +1,14 @@
-# Obat baru dan uji klinis anemia aplastik: memahami kemajuan dan memeriksa kelayakan
+# Obat dan Uji Klinis Anemia Aplastik: Memeriksa Akses di Tiongkok
 
 ## Hero
 
-- **Title:** Obat baru dan uji klinis anemia aplastik: memahami kemajuan dan memeriksa kelayakan
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Anemia Aplastik
-- **Subtitle:** Ketika mendengar tentang obat anemia aplastik baru, pertama-tama tanyakan apakah informasinya menggambarkan penelitian yang telah dipublikasikan, indikasi yang disetujui, atau uji klinis yang sedang berlangsung.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat dan Uji Klinis Anemia Aplastik: Memeriksa Akses di Tiongkok
+- **Subtitle:** Pahami penelitian obat dan transplantasi untuk anemia aplastik. Pisahkan bukti, indikasi, dan kelayakan uji klinis saat menilai perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Simpan daftar pendek yang menjelaskan pertanyaan, populasi, fase, status saat in
 ## SEO Metadata
 
 - **Primary keyword:** obat baru anemia aplastik dan uji klinis
+
+- **Meta title:** Obat dan Uji Klinis Anemia Aplastik: Memeriksa Akses di Tiongkok
+- **Meta description:** Pahami penelitian obat dan transplantasi untuk anemia aplastik. Pisahkan bukti, indikasi, dan kelayakan uji klinis saat menilai perawatan di Tiongkok.

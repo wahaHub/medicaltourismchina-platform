@@ -1,12 +1,14 @@
-# Rezidivierte oder refraktäre aplastische Anämie: Ursache bestätigen und Zweitlinienbehandlung planen
+# Refraktäre oder rezidivierte aplastische Anämie: Zweitmeinungen in China
 
 ## Hero
 
-- **Title:** Rezidivierte oder refraktäre aplastische Anämie: Ursache bestätigen und Zweitlinienbehandlung planen
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Aplastische Anämie
-- **Subtitle:** Anhaltend niedrige Blutwerte nach Behandlung und sinkende Werte nach früherer Besserung erfordern beide eine Neubewertung, sind aber nicht dasselbe Problem.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Refraktäre oder rezidivierte aplastische Anämie: Zweitmeinungen in China
+- **Subtitle:** Eine Zweitmeinung bei rezidivierter aplastischer Anämie in China vorbereiten: bisherige Behandlung, sinkende Blutwerte, andere Ursachen und Folgetherapien prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Die Reisefähigkeit hängt vom aktuellen Zustand sowie örtlichen und aufnehmend
 ## SEO Metadata
 
 - **Primary keyword:** Behandlung der refraktären aplastischen Anämie
+
+- **Meta title:** Refraktäre oder rezidivierte aplastische Anämie: Zweitmeinungen in China
+- **Meta description:** Eine Zweitmeinung bei rezidivierter aplastischer Anämie in China vorbereiten: bisherige Behandlung, sinkende Blutwerte, andere Ursachen und Folgetherapien prüfen.

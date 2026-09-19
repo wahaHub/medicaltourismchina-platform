@@ -1,15 +1,17 @@
-# 022 Medizinische Versorgung in Shanghai suchen: Ein Ratgeber für internationale Patienten
+# Medizinische Versorgung in China: Patientenratgeber für Shanghai
 
 ## Hero
 
-- **Title:** Medizinische Versorgung in Shanghai suchen: Ein Ratgeber für internationale Patienten
 - **Category:** Ratgeber zum Gesundheitswesen in China
 - **Subcategory:** Einen Versorgungsort auswählen
-- **Subtitle:** Wählen Sie den richtigen Versorgungsweg, sorgen Sie für eine funktionierende Passidentität über alle Termine hinweg und planen Sie die Teile der Versorgung in Shanghai, die außerhalb des Sprechzimmers stattfinden.
 - **Reviewed by:** Medora Health Redaktionsteam; Prüfung der klinischen Orientierung und Versicherung in Shanghai vor Veröffentlichung erforderlich
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ein internationaler Besucher spricht neben einem Koffer und mit Blick auf Shanghais Skyline mit einem Arzt
+
+
+- **Title:** Medizinische Versorgung in China: Patientenratgeber für Shanghai
+- **Subtitle:** Wählen Sie einen Versorgungsweg in Shanghai, buchen Sie mit Reisepass, nutzen Sie Suishenban sicher, bestätigen Sie Versicherung und bereiten Sie Untersuchungen, Unterlagen und 120-Notfälle vor.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -202,13 +204,15 @@ Nein. Rufen Sie bei einem medizinischen Notfall 120 an. Shanghai 12345 bearbeite
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-shanghai-a-guide-for-international-patients`
-- **Meta title:** Medizinische Versorgung in Shanghai für internationale Patienten
-- **Meta description:** Wählen Sie einen Versorgungsweg in Shanghai, buchen Sie mit Reisepass, nutzen Sie Suishenban sicher, bestätigen Sie Versicherung und bereiten Sie Untersuchungen, Unterlagen und 120-Notfälle vor.
 - **Primary keyword:** medizinische Versorgung in Shanghai für internationale Patienten
 - **Pillar keyword:** Gesundheitsversorgung in China für internationale Patienten
 - **Vertical keyword:** Krankenhäuser in Shanghai für ausländische Patienten
 - **Search intent:** Versorgungsorientierung / Terminplanung
 - **Secondary keywords:** internationale medizinische Dienste Shanghai; Suishenban Krankenhaustermin; ausländischer Reisepass Krankenhaus Shanghai; medizinischer Notfall Shanghai 120
+
+
+- **Meta title:** Medizinische Versorgung in China: Patientenratgeber für Shanghai
+- **Meta description:** Wählen Sie einen Versorgungsweg in Shanghai, buchen Sie mit Reisepass, nutzen Sie Suishenban sicher, bestätigen Sie Versicherung und bereiten Sie Untersuchungen, Unterlagen und 120-Notfälle vor.
 
 ## Quellen
 

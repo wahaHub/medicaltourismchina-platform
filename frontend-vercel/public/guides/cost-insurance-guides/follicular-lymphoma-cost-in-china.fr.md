@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Coûts du traitement du lymphome folliculaire en Chine : budgéter l’évaluation, le traitement complet et la poursuite des soins
 - **Category:** Guides des coûts et de l’assurance
 - **Subcategory:** Lymphome folliculaire
-- **Subtitle:** Le coût des soins du lymphome folliculaire en Chine dépend d’abord de ce que le patient recevra.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Coûts du traitement du lymphome folliculaire en Chine : budgéter l’évaluation, le traitement complet et la poursuite des soins
+- **Subtitle:** Préparez le budget d’un lymphome folliculaire en Chine en distinguant évaluation, induction, entretien et radiothérapie selon l’objectif des soins.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Un état de santé instable exige de traiter le problème aigu avant d’optimis
 ## SEO Metadata
 
 - **Primary keyword:** coût du traitement du lymphome folliculaire en Chine
+
+- **Meta title:** Coûts du traitement du lymphome folliculaire en Chine : budgéter l’évaluation, le traitement complet et la poursuite des soins
+- **Meta description:** Préparez le budget d’un lymphome folliculaire en Chine en distinguant évaluation, induction, entretien et radiothérapie selon l’objectif des soins.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** 20 questions sur le traitement de Parkinson : médicaments, SCP, nouvelles thérapies et soins en Chine
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Maladie de Parkinson
-- **Subtitle:** Les décisions thérapeutiques dans la maladie de Parkinson évoluent selon les principaux symptômes, la réponse aux médicaments et les besoins quotidiens du patient.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** 20 questions sur le traitement de Parkinson : médicaments, SCP, nouvelles thérapies et soins en Chine
+- **Subtitle:** Préparez une consultation pour Parkinson en Chine avec 20 questions sur le diagnostic, la lévodopa, la stimulation cérébrale profonde et les nouvelles thérapies.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Une fièvre avec rigidité sévère, une immobilité profonde et soudaine, une a
 ## SEO Metadata
 
 - **Primary keyword:** questions fréquentes sur le traitement de la maladie de Parkinson en Chine
+
+- **Meta title:** 20 questions sur le traitement de Parkinson : médicaments, SCP, nouvelles thérapies et soins en Chine
+- **Meta description:** Préparez une consultation pour Parkinson en Chine avec 20 questions sur le diagnostic, la lévodopa, la stimulation cérébrale profonde et les nouvelles thérapies.

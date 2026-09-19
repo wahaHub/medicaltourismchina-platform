@@ -1,12 +1,14 @@
-# Tratamiento de la esclerosis múltiple: elaborar un plan para los brotes, la progresión y la función cotidiana
+# Tratamiento de esclerosis múltiple en China: un plan de atención continuada
 
 ## Hero
 
-- **Title:** Tratamiento de la esclerosis múltiple: elaborar un plan para los brotes, la progresión y la función cotidiana
 - **Category:** Guías de tratamiento
 - **Subcategory:** Esclerosis múltiple
-- **Subtitle:** Un plan útil de tratamiento de la esclerosis múltiple responde a varias preguntas diferentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento de esclerosis múltiple en China: un plan de atención continuada
+- **Subtitle:** Prepare un plan de esclerosis múltiple en China que conecte diagnóstico, brotes, progresión, medicación y objetivos de función cotidiana.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Solicite una estimación vinculada al itinerario realmente propuesto, incluidas 
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento de la esclerosis múltiple en China
+
+- **Meta title:** Tratamiento de esclerosis múltiple en China: un plan de atención continuada
+- **Meta description:** Prepare un plan de esclerosis múltiple en China que conecte diagnóstico, brotes, progresión, medicación y objetivos de función cotidiana.

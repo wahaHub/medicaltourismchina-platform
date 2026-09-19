@@ -1,12 +1,14 @@
-# Follicular lymphoma treatment side effects: recognizing problems and knowing when to seek help
+# Follicular Lymphoma Care in China: Side Effects and Urgent Help
 
 ## Hero
 
-- **Title:** Follicular lymphoma treatment side effects: recognizing problems and knowing when to seek help
 - **Category:** Treatment Guides
 - **Subcategory:** Follicular Lymphoma
-- **Subtitle:** Follicular lymphoma treatment side effects: recognizing problems and knowing when to seek help
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Follicular Lymphoma Care in China: Side Effects and Urgent Help
+- **Subtitle:** Recognize follicular lymphoma treatment side effects and urgent symptoms, and arrange adverse-effect care before starting treatment in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Before returning home, obtain administration records, recent counts, conditions 
 ## SEO Metadata
 
 - **Primary keyword:** follicular lymphoma treatment side effects
+
+- **Meta title:** Follicular Lymphoma Care in China: Side Effects and Urgent Help
+- **Meta description:** Recognize follicular lymphoma treatment side effects and urgent symptoms, and arrange adverse-effect care before starting treatment in China.

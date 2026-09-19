@@ -1,12 +1,14 @@
-# Memilih pengobatan lini pertama untuk DLBCL dan mempersiapkan siklus pertama
+# Pengobatan Lini Pertama DLBCL di Tiongkok: Persiapan Perawatan
 
 ## Hero
 
-- **Title:** Memilih pengobatan lini pertama untuk DLBCL dan mempersiapkan siklus pertama
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel B Besar Difus
-- **Subtitle:** Pengobatan lini pertama untuk DLBCL umumnya dirancang dengan tujuan menyembuhkan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Lini Pertama DLBCL di Tiongkok: Persiapan Perawatan
+- **Subtitle:** Siapkan pengobatan lini pertama DLBCL di Tiongkok dengan konfirmasi diagnosis, pemahaman regimen, dan rencana keselamatan sebelum siklus pertama.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Pilih pendamping yang memahami obat dan gejala mendesak, serta sediakan keluwesa
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan lini pertama untuk DLBCL
+
+- **Meta title:** Pengobatan Lini Pertama DLBCL di Tiongkok: Persiapan Perawatan
+- **Meta description:** Siapkan pengobatan lini pertama DLBCL di Tiongkok dengan konfirmasi diagnosis, pemahaman regimen, dan rencana keselamatan sebelum siklus pertama.

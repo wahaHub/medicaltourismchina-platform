@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Preparación de registros para rehabilitación del ictus en China: imágenes, medicamentos y función
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Rehabilitación tras un ictus isquémico
-- **Subtitle:** Un registro útil de rehabilitación del ictus explica el episodio, las capacidades actuales de la persona y los riesgos que aún necesitan atención.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Preparación de registros para rehabilitación del ictus en China: imágenes, medicamentos y función
+- **Subtitle:** Prepare la rehabilitación del ictus en China con la cronología hospitalaria, imágenes originales, medicación real y registros de función y prevención.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ Un registro bien organizado permite al lector comprender pronto el propósito y 
 ## SEO Metadata
 
 - **Primary keyword:** registros médicos para rehabilitación del ictus en China
+
+- **Meta title:** Preparación de registros para rehabilitación del ictus en China: imágenes, medicamentos y función
+- **Meta description:** Prepare la rehabilitación del ictus en China con la cronología hospitalaria, imágenes originales, medicación real y registros de función y prevención.

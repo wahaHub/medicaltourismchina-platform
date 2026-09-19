@@ -1,12 +1,14 @@
-# Tipos de esclerosis múltiple y riesgo personal: qué cambian los brotes y la progresión
+# Tipos y riesgo de esclerosis múltiple: evaluación en China
 
 ## Hero
 
-- **Title:** Tipos de esclerosis múltiple y riesgo personal: qué cambian los brotes y la progresión
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Esclerosis múltiple
-- **Subtitle:** EMRR, EMSP y EMPP no son tres grados de gravedad ordenados de leve a grave.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tipos y riesgo de esclerosis múltiple: evaluación en China
+- **Subtitle:** Comprenda brotes, recuperación y progresión en los distintos tipos de esclerosis múltiple para preparar una evaluación individual del riesgo en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Si dos hospitales utilizan clasificaciones distintas, compare la evolución de l
 ## SEO Metadata
 
 - **Primary keyword:** tipos de esclerosis múltiple y evaluación del riesgo
+
+- **Meta title:** Tipos y riesgo de esclerosis múltiple: evaluación en China
+- **Meta description:** Comprenda brotes, recuperación y progresión en los distintos tipos de esclerosis múltiple para preparar una evaluación individual del riesgo en China.

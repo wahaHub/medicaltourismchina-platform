@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Medical records for a GVHD consultation in China: connect the transplant history, organ changes, and treatment response
 - **Category:** Patient Journey Guides
 - **Subcategory:** Graft Versus Host Disease
-- **Subtitle:** Many patients have a large collection of GVHD records: transplant discharge summaries, monthly laboratory tests, biopsy reports, prescriptions from several specialties, and skin photographs stored on a phone.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medical records for a GVHD consultation in China: connect the transplant history, organ changes, and treatment response
+- **Subtitle:** Prepare GVHD records for China by linking the transplant timeline, organ changes, medicines, response and relevant test results.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ At the consultation, confirm how the new assessment and prescription will be sup
 ## SEO Metadata
 
 - **Primary keyword:** medical records for a GVHD consultation in China
+
+- **Meta title:** Medical records for a GVHD consultation in China: connect the transplant history, organ changes, and treatment response
+- **Meta description:** Prepare GVHD records for China by linking the transplant timeline, organ changes, medicines, response and relevant test results.

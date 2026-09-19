@@ -1,15 +1,17 @@
-# 治疗前后发热：温度数字很重要，但风险场景决定紧急程度
+# 在中国治疗后发热：何时需要紧急就医
 
 ## Hero
 
-- **Title:** 治疗前后发热：温度数字很重要，但风险场景决定紧急程度
 - **Category:** 患者教育与常见问题
 - **Subcategory:** 症状与紧急照护
-- **Subtitle:** 正确测量体温、识别高风险治疗窗口、准确报告信息，并判断何时不能继续等待回电。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **图片替代文字：** 与《治疗前后发热：温度数字很重要，但风险场景决定紧急程度》对应的临床场景，呈现相关诊疗决策、操作流程与安全核对。
+
+
+- **Title:** 在中国治疗后发热：何时需要紧急就医
+- **Subtitle:** 了解化疗、手术、输液或输血后发热的联系阈值、急症红旗、报告方法和跨境就医路径。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -167,13 +169,15 @@ CDC 把 38.0°C 作为化疗期间立即联系阈值，很多高风险团队也�
 ## SEO Metadata
 
 - **Slug:** `fever-before-or-after-treatment-when-to-contact-a-clinician`
-- **Meta title:** 治疗后发热：何时联系医生或立即去急诊
-- **Meta description:** 了解化疗、手术、输液或输血后发热的联系阈值、急症红旗、报告方法和跨境就医路径。
 - **Primary keyword:** 治疗后发热何时联系医生
 - **Pillar keyword:** 医疗旅行患者安全
 - **Vertical keyword:** 化疗或手术后发热
 - **Search intent:** 紧急患者教育
 - **Secondary keywords:** 化疗发热 38 度；术后发热警示；输液后发热；中性粒细胞减少性发热；输血后发热
+
+
+- **Meta title:** 在中国治疗后发热：何时需要紧急就医
+- **Meta description:** 了解化疗、手术、输液或输血后发热的联系阈值、急症红旗、报告方法和跨境就医路径。
 
 ## Sources
 

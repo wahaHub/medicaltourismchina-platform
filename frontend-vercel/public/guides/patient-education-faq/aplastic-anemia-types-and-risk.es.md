@@ -1,12 +1,14 @@
-# Tipos y riesgo de anemia aplásica: qué significan no grave, grave y muy grave
+# Gravedad de la anemia aplásica: prepararse para la evaluación en China
 
 ## Hero
 
-- **Title:** Tipos y riesgo de anemia aplásica: qué significan no grave, grave y muy grave
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Anemia aplásica
-- **Subtitle:** No grave no significa que nunca se necesitará tratamiento, y grave no significa que el tratamiento ya no pueda ayudar.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Gravedad de la anemia aplásica: prepararse para la evaluación en China
+- **Subtitle:** Distinga las causas y los grados de gravedad de la anemia aplásica, y prepare los resultados necesarios para valorar riesgos y atención especializada en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Para una reevaluación en China, envíe el material medular original o los infor
 ## SEO Metadata
 
 - **Primary keyword:** tipos y riesgo de anemia aplásica
+
+- **Meta title:** Gravedad de la anemia aplásica: prepararse para la evaluación en China
+- **Meta description:** Distinga las causas y los grados de gravedad de la anemia aplásica, y prepare los resultados necesarios para valorar riesgos y atención especializada en China.

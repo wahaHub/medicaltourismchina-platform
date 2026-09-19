@@ -1,12 +1,14 @@
-# Comprender un informe de rehabilitación del ictus: imágenes, puntuaciones y necesidades de asistencia
+# Informes de rehabilitación del ictus: planificar una revisión en China
 
 ## Hero
 
-- **Title:** Comprender un informe de rehabilitación del ictus: imágenes, puntuaciones y necesidades de asistencia
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Rehabilitación después de un ictus isquémico
-- **Subtitle:** Un informe de rehabilitación del ictus puede contener NIHSS, Fugl-Meyer, Barthel, Berg y otras abreviaturas.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Informes de rehabilitación del ictus: planificar una revisión en China
+- **Subtitle:** Relacione imágenes y escalas de rehabilitación del ictus con la autonomía y la ayuda diaria necesaria al preparar una revisión de su evolución en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Conserve el informe original completo y cree una nota separada en lenguaje senci
 ## SEO Metadata
 
 - **Primary keyword:** explicación del informe de evaluación de rehabilitación del ictus
+
+- **Meta title:** Informes de rehabilitación del ictus: planificar una revisión en China
+- **Meta description:** Relacione imágenes y escalas de rehabilitación del ictus con la autonomía y la ayuda diaria necesaria al preparar una revisión de su evolución en China.

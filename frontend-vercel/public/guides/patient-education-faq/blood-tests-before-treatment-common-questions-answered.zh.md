@@ -1,15 +1,17 @@
-# 治疗前验血：为什么要重抽、是否空腹，以及异常结果会怎样改变方案？
+# 中国就医血液检查：空腹、复查与结果解读
 
 ## Hero
 
-- **Title:** 治疗前验血：为什么要重抽、是否空腹，以及异常结果会怎样改变方案？
 - **Category:** 患者教育与常见问题
 - **Subcategory:** 检查与诊断
-- **Subtitle:** 用患者能看懂的方式解释治疗前血液检查、准备要求、境外报告、重抽原因和异常值背后的临床决定。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **图片替代文字：** 与《治疗前验血：为什么要重抽、是否空腹，以及异常结果会怎样改变方案？》对应的临床场景，呈现相关诊疗决策、操作流程与安全核对。
+
+
+- **Title:** 中国就医血液检查：空腹、复查与结果解读
+- **Subtitle:** 解释血常规、生化和凝血检查，空腹与用药、境外报告复用、标本重抽，以及异常值如何改变治疗决定。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -165,13 +167,15 @@
 ## SEO Metadata
 
 - **Slug:** `blood-tests-before-treatment-common-questions-answered`
-- **Meta title:** 治疗前验血：空腹、重抽和异常结果怎么理解
-- **Meta description:** 解释血常规、生化和凝血检查，空腹与用药、境外报告复用、标本重抽，以及异常值如何改变治疗决定。
 - **Primary keyword:** 治疗前验血
 - **Pillar keyword:** 赴华治疗前检查
 - **Vertical keyword:** 空腹抽血与重复检查
 - **Search intent:** 治疗前检查准备
 - **Secondary keywords:** 治疗前血常规；中国医院重复验血；空腹抽血用药；检验异常值；境外检验报告单位
+
+
+- **Meta title:** 中国就医血液检查：空腹、复查与结果解读
+- **Meta description:** 解释血常规、生化和凝血检查，空腹与用药、境外报告复用、标本重抽，以及异常值如何改变治疗决定。
 
 ## Sources
 

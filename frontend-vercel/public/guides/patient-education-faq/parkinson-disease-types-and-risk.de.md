@@ -1,12 +1,14 @@
-# Formen der Parkinson-Krankheit: Wie Erkrankungsalter, Tremor und Gangprobleme die Versorgung beeinflussen
+# Parkinson-Formen und Risiken: Vorbereitung auf die Versorgung in China
 
 ## Hero
 
-- **Title:** Formen der Parkinson-Krankheit: Wie Erkrankungsalter, Tremor und Gangprobleme die Versorgung beeinflussen
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Parkinson-Krankheit
-- **Subtitle:** Patienten hoffen häufig, dass ein Subtyp die Zukunft erklärt: Bleibt eine tremordominante Erkrankung mild?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Parkinson-Formen und Risiken: Vorbereitung auf die Versorgung in China
+- **Subtitle:** Parkinson-Formen vor der Versorgung in China einordnen: Erkrankungsalter, Tremor, Gangprobleme, genetische Befunde und kognitive Risiken im Zusammenhang betrachten.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Informationen geprüft: September 9, 2026. Ein klinisches Team sollte Subtyp und
 ## SEO Metadata
 
 - **Primary keyword:** Formen der Parkinson-Krankheit und Risikobeurteilung
+
+- **Meta title:** Parkinson-Formen und Risiken: Vorbereitung auf die Versorgung in China
+- **Meta description:** Parkinson-Formen vor der Versorgung in China einordnen: Erkrankungsalter, Tremor, Gangprobleme, genetische Befunde und kognitive Risiken im Zusammenhang betrachten.

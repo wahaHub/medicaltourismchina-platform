@@ -1,12 +1,14 @@
-# Apakah DLBCL dapat disembuhkan? Memahami respons, kekambuhan, dan prognosis
+# Remisi dan Prognosis DLBCL: Pertanyaan untuk Perawatan di Tiongkok
 
 ## Hero
 
-- **Title:** Apakah DLBCL dapat disembuhkan? Memahami respons, kekambuhan, dan prognosis
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Limfoma Sel B Besar Difus
-- **Subtitle:** DLBCL dapat diobati dengan tujuan kesembuhan, termasuk pada sebagian orang dengan penyakit stadium lanjut.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Remisi dan Prognosis DLBCL: Pertanyaan untuk Perawatan di Tiongkok
+- **Subtitle:** Pahami remisi dan prognosis DLBCL dengan melihat patologi, risiko awal, dan respons. Siapkan pertanyaan perawatan di Tiongkok tanpa mengandalkan satu angka.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ Anggota keluarga perlu menanyakan seberapa banyak rincian yang diinginkan pasien
 ## SEO Metadata
 
 - **Primary keyword:** prognosis dan kesembuhan DLBCL
+
+- **Meta title:** Remisi dan Prognosis DLBCL: Pertanyaan untuk Perawatan di Tiongkok
+- **Meta description:** Pahami remisi dan prognosis DLBCL dengan melihat patologi, risiko awal, dan respons. Siapkan pertanyaan perawatan di Tiongkok tanpa mengandalkan satu angka.

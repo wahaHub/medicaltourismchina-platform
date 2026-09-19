@@ -1,12 +1,14 @@
-# Wie lange eine DLBCL-Behandlung dauert: Zyklen, Beurteilung und Zeit fern von zu Hause
+# DLBCL-Behandlung in China: Zyklen, Kontrollen und Aufenthaltsdauer
 
 ## Hero
 
-- **Title:** Wie lange eine DLBCL-Behandlung dauert: Zyklen, Beurteilung und Zeit fern von zu Hause
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Diffuses großzelliges B-Zell-Lymphom
-- **Subtitle:** Die Behandlungsdauer bei DLBCL umfasst mehr als die Zahl der Infusionstage.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL-Behandlung in China: Zyklen, Kontrollen und Aufenthaltsdauer
+- **Subtitle:** Den DLBCL-Aufenthalt in China planen: Diagnostik, Therapiezyklen, Erholung, Ansprechkontrollen und mögliche Bestrahlungs- oder Zelltherapiephasen berücksichtigen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Kennzeichnen Sie im Familienkalender ein Datum als vorläufig oder bestätigt un
 ## SEO Metadata
 
 - **Primary keyword:** DLBCL-Behandlungsdauer
+
+- **Meta title:** DLBCL-Behandlung in China: Zyklen, Kontrollen und Aufenthaltsdauer
+- **Meta description:** Den DLBCL-Aufenthalt in China planen: Diagnostik, Therapiezyklen, Erholung, Ansprechkontrollen und mögliche Bestrahlungs- oder Zelltherapiephasen berücksichtigen.

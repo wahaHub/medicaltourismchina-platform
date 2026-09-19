@@ -1,12 +1,14 @@
-# Lire les comptes rendus de thalassémie : distinguer le diagnostic héréditaire, l’anémie, la charge en fer et la santé des organes
+# Comptes rendus de thalassémie : préparer une évaluation en Chine
 
 ## Hero
 
-- **Title:** Lire les comptes rendus de thalassémie : distinguer le diagnostic héréditaire, l’anémie, la charge en fer et la santé des organes
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Thalassémie
-- **Subtitle:** Un dossier de thalassémie peut contenir des notations génétiques, des pourcentages d’hémoglobine, des mesures de ferritine et des valeurs d’IRM.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Comptes rendus de thalassémie : préparer une évaluation en Chine
+- **Subtitle:** Distinguez diagnostic génétique, anémie et surcharge en fer dans les comptes rendus de thalassémie avant une évaluation des soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Demandez que les objectifs thérapeutiques individuels, la prochaine date de con
 ## SEO Metadata
 
 - **Primary keyword:** résultats biologiques de thalassémie ; HbA2 ; IRM du fer hépatique ; T2 étoile cardiaque ; interprétation de la ferritine
+
+- **Meta title:** Comptes rendus de thalassémie : préparer une évaluation en Chine
+- **Meta description:** Distinguez diagnostic génétique, anémie et surcharge en fer dans les comptes rendus de thalassémie avant une évaluation des soins en Chine.

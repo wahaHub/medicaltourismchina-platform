@@ -1,0 +1,123 @@
+{
+  "verifiedAt": "2026-09-19T09:46:51.597Z",
+  "articles": 510,
+  "articlePages": 4080,
+  "sitemapUrls": 11910,
+  "telemedicineLocales": 8,
+  "locales": [
+    {
+      "locale": "en",
+      "mode": "applied",
+      "reviewed": 510,
+      "modified": 410,
+      "titles": 296,
+      "h1": 306,
+      "descriptions": 305,
+      "subtitles": 400,
+      "leads": 19,
+      "clinicalBodyPreserved": true,
+      "linksPreserved": true
+    },
+    {
+      "locale": "zh",
+      "mode": "applied",
+      "reviewed": 510,
+      "modified": 408,
+      "titles": 304,
+      "h1": 310,
+      "descriptions": 305,
+      "subtitles": 402,
+      "leads": 19,
+      "clinicalBodyPreserved": true,
+      "linksPreserved": true
+    },
+    {
+      "locale": "es",
+      "mode": "applied",
+      "reviewed": 510,
+      "modified": 406,
+      "titles": 296,
+      "h1": 302,
+      "descriptions": 305,
+      "subtitles": 400,
+      "leads": 19,
+      "clinicalBodyPreserved": true,
+      "linksPreserved": true
+    },
+    {
+      "locale": "fr",
+      "mode": "applied",
+      "reviewed": 510,
+      "modified": 406,
+      "titles": 296,
+      "h1": 302,
+      "descriptions": 305,
+      "subtitles": 400,
+      "leads": 19,
+      "clinicalBodyPreserved": true,
+      "linksPreserved": true
+    },
+    {
+      "locale": "de",
+      "mode": "applied",
+      "reviewed": 510,
+      "modified": 406,
+      "titles": 296,
+      "h1": 302,
+      "descriptions": 305,
+      "subtitles": 400,
+      "leads": 19,
+      "clinicalBodyPreserved": true,
+      "linksPreserved": true
+    },
+    {
+      "locale": "ru",
+      "mode": "applied",
+      "reviewed": 510,
+      "modified": 407,
+      "titles": 296,
+      "h1": 302,
+      "descriptions": 305,
+      "subtitles": 400,
+      "leads": 19,
+      "clinicalBodyPreserved": true,
+      "linksPreserved": true
+    },
+    {
+      "locale": "ar",
+      "mode": "applied",
+      "reviewed": 510,
+      "modified": 407,
+      "titles": 297,
+      "h1": 303,
+      "descriptions": 306,
+      "subtitles": 401,
+      "leads": 19,
+      "clinicalBodyPreserved": true,
+      "linksPreserved": true
+    },
+    {
+      "locale": "id",
+      "mode": "applied",
+      "reviewed": 510,
+      "modified": 406,
+      "titles": 296,
+      "h1": 302,
+      "descriptions": 309,
+      "subtitles": 400,
+      "leads": 19,
+      "clinicalBodyPreserved": true,
+      "linksPreserved": true
+    }
+  ],
+  "checks": [
+    "source metadata",
+    "rendered title/H1/description",
+    "OG/Twitter title",
+    "canonical",
+    "nine hreflang alternates",
+    "Article headline/description/dateModified",
+    "sitemap membership and per-locale lastmod",
+    "preserved clinical body and reference links in application reports"
+  ]
+}

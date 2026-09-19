@@ -1,15 +1,17 @@
-# 020 Melindungi Privasi Medis Anda Saat Berbagi Rekam Medis Secara Internasional
+# Berbagi Rekam Medis dengan Tiongkok: Privasi dan Persetujuan
 
 ## Hero
 
-- **Title:** Melindungi Privasi Medis Anda Saat Berbagi Rekam Medis Secara Internasional
 - **Category:** Panduan Layanan Kesehatan di Tiongkok
 - **Subcategory:** Privasi dan Rekam Medis Lintas Batas
-- **Subtitle:** Kenali setiap penerima, kirim hanya yang diperlukan untuk tugas tersebut, gunakan saluran terkendali, dan tentukan kapan akses setiap orang harus berakhir.
 - **Reviewed by:** Tim Editorial Medora Health; tinjauan perlindungan data, privasi, dan keamanan informasi Tiongkok diperlukan sebelum publikasi
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Seorang pasien dan tenaga klinis meninjau pengiriman rekam medis lintas batas yang aman
+
+
+- **Title:** Berbagi Rekam Medis dengan Tiongkok: Privasi dan Persetujuan
+- **Subtitle:** Petakan setiap penerima, minimalkan rekam medis, gunakan pengiriman aman, dan kelola persetujuan, akses, metadata, serta penghapusan saat berbagi data kesehatan dengan pihak di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -259,13 +261,15 @@ Individu memiliki hak penghapusan dalam kondisi hukum tertentu, tetapi rumah sak
 ## SEO Metadata
 
 - **Slug:** `protecting-your-medical-privacy-when-sharing-records-internationally`
-- **Meta title:** Lindungi Privasi Medis dalam Pembagian Rekam Medis Lintas Batas
-- **Meta description:** Petakan setiap penerima, minimalkan rekam medis, gunakan pengiriman aman, dan kelola persetujuan, akses, metadata, serta penghapusan saat berbagi data kesehatan secara internasional.
 - **Primary keyword:** privasi rekam medis lintas batas Tiongkok
 - **Pillar keyword:** layanan kesehatan di Tiongkok untuk pasien internasional
 - **Vertical keyword:** berbagi rekam medis secara internasional dengan aman
 - **Search intent:** informasi / pengelolaan risiko privasi
 - **Secondary keywords:** pengiriman data kesehatan Tiongkok; rekam medis PIPL; unggah rekam medis rumah sakit yang aman
+
+
+- **Meta title:** Berbagi Rekam Medis dengan Tiongkok: Privasi dan Persetujuan
+- **Meta description:** Petakan setiap penerima, minimalkan rekam medis, gunakan pengiriman aman, dan kelola persetujuan, akses, metadata, serta penghapusan saat berbagi data kesehatan dengan pihak di Tiongkok.
 
 ## Sumber
 

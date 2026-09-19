@@ -1,12 +1,14 @@
-# Elegir el tratamiento de primera línea para el linfoma de células del manto: cuestiones que resolver antes del primer ciclo
+# Tratamiento de primera línea del linfoma de células del manto en China
 
 ## Hero
 
-- **Title:** Elegir el tratamiento de primera línea para el linfoma de células del manto: cuestiones que resolver antes del primer ciclo
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de células del manto
-- **Subtitle:** Búsquedas relacionadas: tratamiento del LCM recién diagnosticado; tratamiento del linfoma de células del manto en China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento de primera línea del linfoma de células del manto en China
+- **Subtitle:** Prepare el tratamiento inicial del linfoma de células del manto en China con preguntas sobre objetivos, aptitud física, biología y la pauta completa.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -121,3 +123,6 @@ Antes de terminar la visita de planificación, intente explicar la vía con sus 
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento de primera línea para el linfoma de células del manto
+
+- **Meta title:** Tratamiento de primera línea del linfoma de células del manto en China
+- **Meta description:** Prepare el tratamiento inicial del linfoma de células del manto en China con preguntas sobre objetivos, aptitud física, biología y la pauta completa.

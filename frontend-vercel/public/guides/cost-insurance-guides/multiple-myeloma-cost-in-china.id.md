@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Biaya pengobatan mieloma multipel di Tiongkok: memperoleh estimasi bertahap yang dapat dibandingkan
 - **Category:** Panduan Biaya & Asuransi
 - **Subcategory:** Mieloma Multipel
-- **Subtitle:** Pasien baru terdiagnosis yang menerima induksi dan pemeliharaan, pasien yang mempersiapkan transplantasi autolog, dan seseorang yang mempertimbangkan CAR-T setelah kekambuhan mengikuti jalur berbeda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Biaya pengobatan mieloma multipel di Tiongkok: memperoleh estimasi bertahap yang dapat dibandingkan
+- **Subtitle:** Rinci anggaran mieloma di Tiongkok berdasarkan tahap perawatan, obat, pencitraan, transplantasi, dan pemeliharaan agar estimasi dapat dibandingkan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Hasil yang berguna adalah estimasi tertulis bertanggal yang menyatakan lingkupny
 ## SEO Metadata
 
 - **Primary keyword:** biaya pengobatan mieloma multipel di Tiongkok
+
+- **Meta title:** Biaya pengobatan mieloma multipel di Tiongkok: memperoleh estimasi bertahap yang dapat dibandingkan
+- **Meta description:** Rinci anggaran mieloma di Tiongkok berdasarkan tahap perawatan, obat, pencitraan, transplantasi, dan pemeliharaan agar estimasi dapat dibandingkan.

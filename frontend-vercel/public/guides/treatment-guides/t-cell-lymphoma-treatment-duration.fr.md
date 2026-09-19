@@ -1,12 +1,14 @@
-# Combien de temps dure le traitement du lymphome T ? Planifier les cycles, l’évaluation, la greffe et le voyage
+# Traitement du lymphome T en Chine : cycles et organisation du voyage
 
 ## Hero
 
-- **Title:** Combien de temps dure le traitement du lymphome T ? Planifier les cycles, l’évaluation, la greffe et le voyage
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Lymphome T
-- **Subtitle:** Demander combien de temps dure le traitement peut désigner la durée d’une perfusion, le délai avant de rentrer chez soi ou le moment de reprendre le travail.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement du lymphome T en Chine : cycles et organisation du voyage
+- **Subtitle:** Planifiez les soins du lymphome T en Chine selon le sous-type, les cycles, la récupération, les bilans de réponse et une éventuelle greffe.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ Datez la version du calendrier et remplacez les copies obsolètes. Lors d’un c
 ## SEO Metadata
 
 - **Primary keyword:** durée du traitement du lymphome T
+
+- **Meta title:** Traitement du lymphome T en Chine : cycles et organisation du voyage
+- **Meta description:** Planifiez les soins du lymphome T en Chine selon le sous-type, les cycles, la récupération, les bilans de réponse et une éventuelle greffe.

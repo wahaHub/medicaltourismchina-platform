@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Cuánto cuesta tratar la epilepsia farmacorresistente en China? Elaborar una estimación útil
 - **Category:** Guías de costes y seguros
 - **Subcategory:** Epilepsia farmacorresistente
-- **Subtitle:** Es comprensible que los pacientes quieran saber qué deben preparar económicamente antes de elegir dónde recibir atención.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Cuánto cuesta tratar la epilepsia farmacorresistente en China? Elaborar una estimación útil
+- **Subtitle:** Desglose la evaluación y el tratamiento de la epilepsia farmacorresistente en China, desde el vídeo-EEG hasta la cirugía, los dispositivos y el seguimiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -171,3 +173,6 @@ El resultado más útil es una explicación de los médicos sobre por qué se ne
 ## SEO Metadata
 
 - **Primary keyword:** coste del tratamiento de la epilepsia farmacorresistente en China; presupuesto de cirugía de la epilepsia; costes de SEEG; cobertura del seguro para epilepsia en China
+
+- **Meta title:** ¿Cuánto cuesta tratar la epilepsia farmacorresistente en China? Elaborar una estimación útil
+- **Meta description:** Desglose la evaluación y el tratamiento de la epilepsia farmacorresistente en China, desde el vídeo-EEG hasta la cirugía, los dispositivos y el seguimiento.

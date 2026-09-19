@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Was kostet die Thalassämiebehandlung in China? Ein Budget für Transfusion, Chelattherapie, Transplantation und Nachsorge erstellen
 - **Category:** Leitfäden zu Kosten und Versicherung
 - **Subcategory:** Thalassämie
-- **Subtitle:** Die Diagnose allein ergibt keinen verlässlichen Behandlungspreis.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Was kostet die Thalassämiebehandlung in China? Ein Budget für Transfusion, Chelattherapie, Transplantation und Nachsorge erstellen
+- **Subtitle:** Thalassämieversorgung in China budgetieren: Transfusionen, Chelattherapie, Organkontrollen, mögliche Transplantation und Betreuung nach der Heimkehr einbeziehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -158,3 +160,6 @@ Bei Thalassämie hilft ein nützliches Finanzgespräch, angemessene Versorgung �
 ## SEO Metadata
 
 - **Primary keyword:** Kosten der Thalassämiebehandlung in China; Transfusionskosten; Budget für Chelattherapie; Thalassämie-Transplantationsangebot in RMB
+
+- **Meta title:** Was kostet die Thalassämiebehandlung in China? Ein Budget für Transfusion, Chelattherapie, Transplantation und Nachsorge erstellen
+- **Meta description:** Thalassämieversorgung in China budgetieren: Transfusionen, Chelattherapie, Organkontrollen, mögliche Transplantation und Betreuung nach der Heimkehr einbeziehen.

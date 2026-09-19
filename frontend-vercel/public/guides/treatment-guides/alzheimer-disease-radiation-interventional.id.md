@@ -1,12 +1,14 @@
-# Radiasi dan Intervensi Alat untuk Alzheimer: Ultrasonografi Terfokus, Stimulasi Magnetik, dan Terapi Sensorik
+# Penelitian Radiasi dan Perangkat untuk Alzheimer: Hal yang Perlu Diperiksa di Tiongkok
 
 ## Hero
 
-- **Title:** Radiasi dan Intervensi Alat untuk Alzheimer: Ultrasonografi Terfokus, Stimulasi Magnetik, dan Terapi Sensorik
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Alzheimer
-- **Subtitle:** Deskripsi seperti “noninvasif,” “stimulasi presisi,” dan “membuka sawar darah–otak” dapat merujuk pada teknologi yang sangat berbeda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Penelitian Radiasi dan Perangkat untuk Alzheimer: Hal yang Perlu Diperiksa di Tiongkok
+- **Subtitle:** Bedakan penelitian radiasi, ultrasonografi terfokus, dan stimulasi untuk Alzheimer. Periksa bukti, sasaran, serta status intervensi sebelum perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,3 +142,6 @@ Terus tangani makan, gerakan, tidur, keamanan rumah, dan dukungan pengasuh. Jika
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan intervensional untuk penyakit Alzheimer
+
+- **Meta title:** Penelitian Radiasi dan Perangkat untuk Alzheimer: Hal yang Perlu Diperiksa di Tiongkok
+- **Meta description:** Bedakan penelitian radiasi, ultrasonografi terfokus, dan stimulasi untuk Alzheimer. Periksa bukti, sasaran, serta status intervensi sebelum perawatan di Tiongkok.

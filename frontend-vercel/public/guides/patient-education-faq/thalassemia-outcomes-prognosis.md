@@ -1,12 +1,14 @@
-# How long can someone with thalassemia live? Understanding prognosis, treatment outcomes, and everyday life
+# Thalassemia Prognosis: Questions for Assessment in China
 
 ## Hero
 
-- **Title:** How long can someone with thalassemia live? Understanding prognosis, treatment outcomes, and everyday life
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Thalassemia
-- **Subtitle:** Questions about life expectancy often arrive before a family has had time to understand the diagnosis.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Thalassemia Prognosis: Questions for Assessment in China
+- **Subtitle:** Interpret thalassemia outcomes by disease severity, iron burden and treatment history, with questions for an individual assessment in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ A productive consultation should leave the patient with an assessment that can b
 ## SEO Metadata
 
 - **Primary keyword:** thalassemia prognosis; life expectancy with thalassemia; transplant outcomes; long-term thalassemia care in China
+
+- **Meta title:** Thalassemia Prognosis: Questions for Assessment in China
+- **Meta description:** Interpret thalassemia outcomes by disease severity, iron burden and treatment history, with questions for an individual assessment in China.

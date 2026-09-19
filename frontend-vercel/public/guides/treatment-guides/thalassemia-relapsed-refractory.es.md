@@ -1,12 +1,14 @@
-# Cuando el tratamiento de la talasemia parece insuficiente: empeoramiento de la anemia, aumento de las transfusiones y control deficiente del hierro
+# Respuesta insuficiente al tratamiento de talasemia: segundas opiniones en China
 
 ## Hero
 
-- **Title:** Cuando el tratamiento de la talasemia parece insuficiente: empeoramiento de la anemia, aumento de las transfusiones y control deficiente del hierro
 - **Category:** Guías de tratamiento
 - **Subcategory:** Talasemia
-- **Subtitle:** Una hemoglobina en descenso, transfusiones más frecuentes y una ferritina en aumento describen problemas diferentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Respuesta insuficiente al tratamiento de talasemia: segundas opiniones en China
+- **Subtitle:** Prepare una segunda opinión de talasemia en China ante anemia creciente, mayor necesidad transfusional o mal control de hierro, con datos comparables.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Un beneficio insuficiente no siempre significa que falte una intervención más 
 ## SEO Metadata
 
 - **Primary keyword:** el tratamiento de la talasemia no funciona; aumento de las necesidades transfusionales; quelación inadecuada; segunda opinión en China
+
+- **Meta title:** Respuesta insuficiente al tratamiento de talasemia: segundas opiniones en China
+- **Meta description:** Prepare una segunda opinión de talasemia en China ante anemia creciente, mayor necesidad transfusional o mal control de hierro, con datos comparables.

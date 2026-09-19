@@ -1,12 +1,14 @@
-# Membandingkan Pengobatan Sel Sabit: Obat, Transfusi, Transplantasi, dan Terapi Gen
+# Pilihan Pengobatan Penyakit Sel Sabit: Kesesuaian dan Akses di Tiongkok
 
 ## Hero
 
-- **Title:** Membandingkan Pengobatan Sel Sabit: Obat, Transfusi, Transplantasi, dan Terapi Gen
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Sel Sabit
-- **Subtitle:** Memilih antara hidroksiurea, transfusi rutin, transplantasi sel punca donor, dan terapi gen bukan sekadar mencari pengobatan terbaru.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pilihan Pengobatan Penyakit Sel Sabit: Kesesuaian dan Akses di Tiongkok
+- **Subtitle:** Bandingkan obat, transfusi, transplantasi, dan terapi gen untuk penyakit sel sabit. Periksa kesesuaian, beban pemantauan, serta akses di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ Kembalikan pembahasan akhir ke kehidupan biasa. Seberapa sering perjalanan diper
 ## SEO Metadata
 
 - **Primary keyword:** perbandingan pengobatan penyakit sel sabit
+
+- **Meta title:** Pilihan Pengobatan Penyakit Sel Sabit: Kesesuaian dan Akses di Tiongkok
+- **Meta description:** Bandingkan obat, transfusi, transplantasi, dan terapi gen untuk penyakit sel sabit. Periksa kesesuaian, beban pemantauan, serta akses di Tiongkok.

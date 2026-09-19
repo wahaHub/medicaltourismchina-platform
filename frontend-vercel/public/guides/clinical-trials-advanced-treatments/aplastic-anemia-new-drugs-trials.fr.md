@@ -1,12 +1,14 @@
-# Nouveaux médicaments et essais pour l’aplasie médullaire : comprendre les progrès et vérifier l’admissibilité
+# Médicaments et essais de l’aplasie médullaire : vérifier l’accès en Chine
 
 ## Hero
 
-- **Title:** Nouveaux médicaments et essais pour l’aplasie médullaire : comprendre les progrès et vérifier l’admissibilité
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Aplasie médullaire
-- **Subtitle:** Lorsque vous entendez parler d’un nouveau médicament contre l’aplasie médullaire, demandez d’abord si l’information décrit une étude publiée, une indication autorisée ou un essai en cours.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Médicaments et essais de l’aplasie médullaire : vérifier l’accès en Chine
+- **Subtitle:** Comprenez les recherches sur l’aplasie médullaire et la greffe. Distinguez résultats d’études, indications et admissibilité avant d’envisager des soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Conservez une liste restreinte décrivant la question, la population, la phase, 
 ## SEO Metadata
 
 - **Primary keyword:** nouveaux médicaments et essais cliniques pour l’aplasie médullaire
+
+- **Meta title:** Médicaments et essais de l’aplasie médullaire : vérifier l’accès en Chine
+- **Meta description:** Comprenez les recherches sur l’aplasie médullaire et la greffe. Distinguez résultats d’études, indications et admissibilité avant d’envisager des soins en Chine.

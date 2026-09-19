@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Quién debería considerar viajar a China para recibir atención por un linfoma de células T? Aclarar el valor de la derivación y la preparación para viajar
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Linfoma de células T
-- **Subtitle:** El valor de viajar depende primero de lo que el equipo receptor pueda ayudar a resolver.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Quién debería considerar viajar a China para recibir atención por un linfoma de células T? Aclarar el valor de la derivación y la preparación para viajar
+- **Subtitle:** Valore una derivación por linfoma de células T a China según la revisión del subtipo, las opciones de recaída y la preparación médica para viajar.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Las familias pueden mantener una breve lista de comprobación antes de salir con
 ## SEO Metadata
 
 - **Primary keyword:** viajar a China para el tratamiento del linfoma de células T
+
+- **Meta title:** ¿Quién debería considerar viajar a China para recibir atención por un linfoma de células T? Aclarar el valor de la derivación y la preparación para viajar
+- **Meta description:** Valore una derivación por linfoma de células T a China según la revisión del subtipo, las opciones de recaída y la preparación médica para viajar.

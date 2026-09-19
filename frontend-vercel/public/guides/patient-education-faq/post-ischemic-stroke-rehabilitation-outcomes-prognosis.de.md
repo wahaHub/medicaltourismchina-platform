@@ -1,12 +1,14 @@
-# Wie viel Erholung ist nach einem ischämischen Schlaganfall möglich? Prognose und Fortschritt verstehen
+# Erholung nach Schlaganfall: Rehabilitation in China vergleichen
 
 ## Hero
 
-- **Title:** Wie viel Erholung ist nach einem ischämischen Schlaganfall möglich? Prognose und Fortschritt verstehen
 - **Category:** Patientenaufklärung & FAQ
 - **Subcategory:** Rehabilitation nach ischämischem Schlaganfall
-- **Subtitle:** Nach einem ischämischen Schlaganfall wünschen Familien oft eine klare Antwort: Wie viel Erholung ist möglich?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Erholung nach Schlaganfall: Rehabilitation in China vergleichen
+- **Subtitle:** Ergebnisse der Schlaganfallrehabilitation in China vergleichen: Gehen, Handgebrauch, Sprache, Schlucken und Hilfebedarf anhand alltagsnaher Ziele beurteilen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Bedürfnisse können sich bei Stationswechsel, Entlassung, Heimkehr oder dem Ver
 ## SEO Metadata
 
 - **Primary keyword:** Prognose der Rehabilitation nach ischämischem Schlaganfall
+
+- **Meta title:** Erholung nach Schlaganfall: Rehabilitation in China vergleichen
+- **Meta description:** Ergebnisse der Schlaganfallrehabilitation in China vergleichen: Gehen, Handgebrauch, Sprache, Schlucken und Hilfebedarf anhand alltagsnaher Ziele beurteilen.

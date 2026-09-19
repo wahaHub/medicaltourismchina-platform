@@ -1,15 +1,17 @@
-# 120 Coordination de la sortie d’un hôpital chinois et suivi à l’étranger : « envoyé » ne signifie pas « reçu »
+# Sortie de l’hôpital en Chine : préparer le suivi à l’étranger
 
 ## Hero
 
-- **Title:** Coordination de la sortie d’un hôpital chinois et suivi à l’étranger : « envoyé » ne signifie pas « reçu »
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Sortie et suivi transfrontaliers
-- **Subtitle:** Une sortie sûre n’est finalisée que lorsque le patient est stable, que le voyage a été évalué séparément, que le dossier est exploitable, que les résultats en attente ont un responsable et qu’un clinicien au pays accepte la prochaine tâche.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Représentation conceptuelle d’une réunion de sortie avec un patient international, des bagages, un coordinateur, un calendrier, un itinéraire et un contact de suivi ; il ne s’agit pas d’un hôpital réel, d’une autorisation de vol, d’un dossier ou d’une garantie.
+
+
+- **Title:** Sortie de l’hôpital en Chine : préparer le suivi à l’étranger
+- **Subtitle:** Finalisez une sortie sûre d’un hôpital chinois avec conciliation médicamenteuse, dossiers sources, responsable des résultats en attente, évaluation de l’aptitude au voyage et transmission confirmée au clinicien au pays.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -219,13 +221,15 @@ Le clinicien destinataire confirme que les dossiers sont lisibles, que l’ident
 ## SEO Metadata
 
 - **Slug:** `discharge-coordination-and-overseas-follow-up-from-a-chinese-hospital`
-- **Meta title:** Sortie d’un hôpital chinois et suivi à l’étranger
-- **Meta description:** Finalisez une sortie sûre d’un hôpital chinois avec conciliation médicamenteuse, dossiers sources, responsable des résultats en attente, évaluation de l’aptitude au voyage et transmission confirmée au clinicien au pays.
 - **Primary keyword:** sortie d’un hôpital chinois pour les patients internationaux
 - **Pillar keyword:** suivi à l’étranger après traitement en Chine
 - **Vertical keyword:** coordination transfrontalière de la sortie médicale
 - **Search intent:** préparation de la sortie et du suivi
 - **Secondary keywords:** sortie d’hôpital en Chine ; suivi après traitement en Chine ; aptitude à prendre l’avion après une opération en Chine ; dossiers médicaux chinois ; transmission transfrontalière du patient
+
+
+- **Meta title:** Sortie de l’hôpital en Chine : préparer le suivi à l’étranger
+- **Meta description:** Finalisez une sortie sûre d’un hôpital chinois avec conciliation médicamenteuse, dossiers sources, responsable des résultats en attente, évaluation de l’aptitude au voyage et transmission confirmée au clinicien au pays.
 
 ## Sources
 

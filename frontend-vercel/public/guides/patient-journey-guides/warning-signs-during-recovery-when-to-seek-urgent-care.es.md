@@ -1,15 +1,17 @@
-# 144 Señales de alarma durante la recuperación: interprete el cambio, no solo la cifra
+# Señales de alarma en la recuperación | Cuándo llamar al 120 en China
 
 ## Hero
 
-- **Title:** Señales de alarma durante la recuperación: interprete el cambio, no solo la cifra
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Reconocimiento de complicaciones y derivación urgente
-- **Subtitle:** Una temperatura, puntuación de dolor o lectura de oxígeno solo tiene significado junto con el estado inicial del paciente, la evolución esperada de la recuperación y los cambios acompañantes.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un profesional clínico revisa la movilidad, los síntomas y el estado cardíaco con un paciente en recuperación junto a un andador.
+
+
+- **Title:** Señales de alarma en la recuperación | Cuándo llamar al 120 en China
+- **Subtitle:** Una temperatura, puntuación de dolor o lectura de oxígeno solo tiene significado junto con el estado inicial del paciente, la evolución esperada de la recuperación y los cambios acompañantes.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -194,13 +196,15 @@ Indique el procedimiento y la fecha, el síntoma exacto y su inicio, si está em
 ## SEO Metadata
 
 - **Slug:** `warning-signs-during-recovery-when-to-seek-urgent-care`
-- **Meta title:** Señales de alarma en la recuperación | Cuándo llamar al 120 en China
-- **Meta description:** Reconozca los cambios de recuperación que requieren emergencias, atención el mismo día o vigilancia en casa mediante la evolución de los síntomas, la función y los umbrales específicos del procedimiento.
 - **Primary keyword:** señales de alarma en la recuperación después de una cirugía
 - **Pillar keyword:** viajes médicos a China
 - **Vertical keyword:** atención urgente durante la recuperación del tratamiento
 - **Search intent:** reconocimiento de complicaciones / actuación de emergencia
 - **Secondary keywords:** cuándo llamar al 120 en China; señales de alarma posoperatorias; signos de infección de herida; respiración en sobredosis de opioides; aumento de la urgencia de los síntomas durante la recuperación
+
+
+- **Meta title:** Señales de alarma en la recuperación | Cuándo llamar al 120 en China
+- **Meta description:** Reconozca los cambios de recuperación que requieren emergencias, atención el mismo día o vigilancia en casa mediante la evolución de los síntomas, la función y los umbrales específicos del procedimiento.
 
 ## Fuentes
 

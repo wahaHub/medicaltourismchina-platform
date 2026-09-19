@@ -1,15 +1,17 @@
-# What to Expect at a Chinese Hospital Outpatient Appointment
+# Hospital Outpatient Visits in China: What to Expect
 
 ## Hero
 
-- **Title:** What to Expect at a Chinese Hospital Outpatient Appointment
 - **Category:** China Healthcare Guides
 - **Subcategory:** Outpatient Visit
-- **Subtitle:** A Chinese outpatient visit is often a chain of short steps—identity check, consultation, payment, tests, results and another decision—rather than one long appointment.
 - **Reviewed by:** Medora Health Editorial Team; healthcare-system review required before publication
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** An international patient and companion speak with a doctor in a Chinese outpatient clinic
+
+
+- **Title:** Hospital Outpatient Visits in China: What to Expect
+- **Subtitle:** Follow the outpatient process in China from passport check-in and consultation to tests, payment, pharmacy, results and follow-up.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,13 +152,15 @@ The interpreter can facilitate communication, but the clinician needs the patien
 ## SEO Metadata
 
 - **Slug:** `chinese-hospital-outpatient-appointment`
-- **Meta title:** What to Expect at a Chinese Hospital Outpatient Appointment
-- **Meta description:** Follow the outpatient process in China from passport check-in and consultation to tests, payment, pharmacy, results and follow-up.
 - **Primary keyword:** Chinese hospital outpatient appointment
 - **Pillar keyword:** healthcare in China for international patients
 - **Vertical keyword:** outpatient visit China
 - **Search intent:** practical / visit preparation
 - **Secondary keywords:** China hospital clinic visit; international patient outpatient China; what happens at Chinese hospital
+
+
+- **Meta title:** Hospital Outpatient Visits in China: What to Expect
+- **Meta description:** Follow the outpatient process in China from passport check-in and consultation to tests, payment, pharmacy, results and follow-up.
 
 ## Sources
 

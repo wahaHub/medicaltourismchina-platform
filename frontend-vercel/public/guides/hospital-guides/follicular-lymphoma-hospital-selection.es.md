@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Elegir un hospital para el linfoma folicular en China: adapte el equipo a la decisión que necesita tomar
 - **Category:** Guías de hospitales
 - **Subcategory:** Linfoma folicular
-- **Subtitle:** Buscar un hospital resulta más fácil cuando se empieza por una pregunta clínica.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Elegir un hospital para el linfoma folicular en China: adapte el equipo a la decisión que necesita tomar
+- **Subtitle:** Compare equipos de linfoma folicular en China según la revisión del diagnóstico, la decisión de tratar, la radioterapia y el apoyo durante una recaída.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ El hospital más útil para una persona con linfoma folicular es el que responde
 ## SEO Metadata
 
 - **Primary keyword:** selección de hospital para el linfoma folicular en China
+
+- **Meta title:** Elegir un hospital para el linfoma folicular en China: adapte el equipo a la decisión que necesita tomar
+- **Meta description:** Compare equipos de linfoma folicular en China según la revisión del diagnóstico, la decisión de tratar, la radioterapia y el apoyo durante una recaída.

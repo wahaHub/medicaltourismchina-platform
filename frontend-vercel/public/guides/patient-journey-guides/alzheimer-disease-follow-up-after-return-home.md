@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Alzheimer's Follow-up After Care in China: Making the Return-Home Plan Work
 - **Category:** Patient Journey Guides
 - **Subcategory:** Alzheimer Disease
-- **Subtitle:** A consultation or treatment course in China becomes useful over time only if its findings can be incorporated into care where the patient lives.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Alzheimer's Follow-up After Care in China: Making the Return-Home Plan Work
+- **Subtitle:** Plan Alzheimer’s follow-up after care in China, including prescriptions, monitoring, daily support and a return-home plan the family can carry out.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -130,3 +132,6 @@ Continue conversations about the patient's preferences and future care while sup
 ## SEO Metadata
 
 - **Primary keyword:** follow-up after Alzheimer's treatment in China
+
+- **Meta title:** Alzheimer's Follow-up After Care in China: Making the Return-Home Plan Work
+- **Meta description:** Plan Alzheimer’s follow-up after care in China, including prescriptions, monitoring, daily support and a return-home plan the family can carry out.

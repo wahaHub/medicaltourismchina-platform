@@ -1,12 +1,14 @@
-# Elegir el tratamiento de primera línea del linfoma de Hodgkin: una guía práctica para decidir
+# Tratamiento de primera línea del linfoma de Hodgkin en China: decisiones
 
 ## Hero
 
-- **Title:** Elegir el tratamiento de primera línea del linfoma de Hodgkin: una guía práctica para decidir
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de Hodgkin
-- **Subtitle:** El tratamiento de primera línea es el proceso terapéutico completo inicial para el diagnóstico actual de linfoma de Hodgkin.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento de primera línea del linfoma de Hodgkin en China: decisiones
+- **Subtitle:** Prepare las decisiones de primera línea del linfoma de Hodgkin en China: pauta completa, papel de la radioterapia, salud general y preservación de fertilidad.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Al comparar dos recomendaciones de primera línea, pida a ambos equipos que abor
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento de primera línea del linfoma de Hodgkin
+
+- **Meta title:** Tratamiento de primera línea del linfoma de Hodgkin en China: decisiones
+- **Meta description:** Prepare las decisiones de primera línea del linfoma de Hodgkin en China: pauta completa, papel de la radioterapia, salud general y preservación de fertilidad.

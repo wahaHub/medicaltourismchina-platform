@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Who should travel to China for stroke rehabilitation? Assessing need and travel readiness
 - **Category:** Patient Journey Guides
 - **Subcategory:** Post Ischemic Stroke Rehabilitation
-- **Subtitle:** Traveling to China after an ischemic stroke is most useful when the visit has a clear clinical purpose.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Who should travel to China for stroke rehabilitation? Assessing need and travel readiness
+- **Subtitle:** Consider stroke rehabilitation travel to China by the functional goals, medical readiness, assistance required and care that can continue at home.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Discuss that record with the patient using their preferred communication method.
 ## SEO Metadata
 
 - **Primary keyword:** travel to China for ischemic stroke rehabilitation
+
+- **Meta title:** Who should travel to China for stroke rehabilitation? Assessing need and travel readiness
+- **Meta description:** Consider stroke rehabilitation travel to China by the functional goals, medical readiness, assistance required and care that can continue at home.

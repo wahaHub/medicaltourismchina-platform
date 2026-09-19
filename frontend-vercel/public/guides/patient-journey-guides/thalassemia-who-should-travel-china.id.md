@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Perlukah Anda pergi ke Tiongkok untuk perawatan talasemia? Nilai tujuan dan syarat perjalanan yang aman
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Talasemia
-- **Subtitle:** Keputusan mencari perawatan di luar negeri membutuhkan tujuan klinis serta rencana perjalanan yang dapat dilaksanakan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Perlukah Anda pergi ke Tiongkok untuk perawatan talasemia? Nilai tujuan dan syarat perjalanan yang aman
+- **Subtitle:** Nilai tujuan perawatan talasemia di Tiongkok dan kesiapan perjalanan. Pastikan kebutuhan transfusi, obat, dan dukungan medis tetap terhubung.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -146,3 +148,6 @@ Lanjutkan ketika tujuan klinis, kestabilan saat ini, pengaturan penerimaan, dan 
 ## SEO Metadata
 
 - **Primary keyword:** perjalanan ke Tiongkok untuk pengobatan talasemia; penilaian perjalanan talasemia; pendapat kedua di Tiongkok; kesinambungan transfusi di luar negeri
+
+- **Meta title:** Perlukah Anda pergi ke Tiongkok untuk perawatan talasemia? Nilai tujuan dan syarat perjalanan yang aman
+- **Meta description:** Nilai tujuan perawatan talasemia di Tiongkok dan kesiapan perjalanan. Pastikan kebutuhan transfusi, obat, dan dukungan medis tetap terhubung.

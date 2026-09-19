@@ -1,12 +1,14 @@
-# Aplastic anemia treatment: from immediate protection to lasting marrow recovery
+# Aplastic Anemia Treatment in China: Options and Recovery
 
 ## Hero
 
-- **Title:** Aplastic anemia treatment: from immediate protection to lasting marrow recovery
 - **Category:** Treatment Guides
 - **Subcategory:** Aplastic Anemia
-- **Subtitle:** After a diagnosis of aplastic anemia, the first practical question is whether the patient needs hospital protection now.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Aplastic Anemia Treatment in China: Options and Recovery
+- **Subtitle:** Understand aplastic anemia treatment from immediate protection and blood support to marrow-directed care, with practical planning for treatment in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ At discharge, the patient needs the next test date, the clinician responsible fo
 ## SEO Metadata
 
 - **Primary keyword:** aplastic anemia treatment
+
+- **Meta title:** Aplastic Anemia Treatment in China: Options and Recovery
+- **Meta description:** Understand aplastic anemia treatment from immediate protection and blood support to marrow-directed care, with practical planning for treatment in China.

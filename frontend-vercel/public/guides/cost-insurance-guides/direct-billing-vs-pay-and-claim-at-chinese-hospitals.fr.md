@@ -1,15 +1,17 @@
-# 157 Facturation directe ou avance des frais puis remboursement en Chine : choisir la défaillance que vous pouvez gérer
+# Assurance hospitalière en Chine : tiers payant ou demande de remboursement
 
 ## Hero
 
-- **Title:** Facturation directe ou avance des frais puis remboursement en Chine : choisir la défaillance que vous pouvez gérer
 - **Category:** Guides des coûts et assurances
 - **Subcategory:** Circuits de paiement par l’assurance
-- **Subtitle:** Comparez l’exposition financière, le choix des prestataires, la charge documentaire et la gestion des défaillances, au-delà de la présence du logo d’un assureur à l’hôpital.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un coordinateur de facturation et un patient international comparent des documents de paiement dans un hôpital chinois.
+
+
+- **Title:** Assurance hospitalière en Chine : tiers payant ou demande de remboursement
+- **Subtitle:** Comparez facturation directe et remboursement en Chine : exposition financière, choix des prestataires, garanties, documents, solution de repli et contrôle des doubles paiements.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -207,13 +209,15 @@ Informez le service financier hospitalier et l’assureur avec les références 
 ## SEO Metadata
 
 - **Slug:** `direct-billing-vs-pay-and-claim-at-chinese-hospitals`
-- **Meta title:** Facturation directe ou avance des frais puis remboursement dans les hôpitaux chinois
-- **Meta description:** Comparez facturation directe et remboursement en Chine : exposition financière, choix des prestataires, garanties, documents, solution de repli et contrôle des doubles paiements.
 - **Primary keyword:** facturation directe ou avance des frais puis remboursement Chine
 - **Pillar keyword:** assurance tourisme médical
 - **Vertical keyword:** paiement assurance hôpital Chine
 - **Search intent:** mode de paiement / préparation du remboursement
 - **Secondary keywords:** assurance sans avance de frais hôpital Chine ; avance des frais puis remboursement Chine ; garantie de paiement hôpital ; documents remboursement médical Chine ; double paiement hospitalier
+
+
+- **Meta title:** Assurance hospitalière en Chine : tiers payant ou demande de remboursement
+- **Meta description:** Comparez facturation directe et remboursement en Chine : exposition financière, choix des prestataires, garanties, documents, solution de repli et contrôle des doubles paiements.
 
 ## Sources
 

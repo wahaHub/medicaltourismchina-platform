@@ -1,12 +1,14 @@
-# Prognose der Alzheimer-Krankheit: Behandlungsergebnisse, Alltagsfunktion und künftige Versorgung
+# Alzheimer-Prognose: Fragen für eine Beurteilung in China
 
 ## Hero
 
-- **Title:** Prognose der Alzheimer-Krankheit: Behandlungsergebnisse, Alltagsfunktion und künftige Versorgung
 - **Category:** Patienteninformation & häufige Fragen
 - **Subcategory:** Alzheimer-Krankheit
-- **Subtitle:** Nach einer Diagnose möchten Familien oft wissen, wie lange selbstständiges Leben möglich bleibt, ob Behandlung weiteren Abbau stoppt und wie viel Zeit verbleibt.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Alzheimer-Prognose: Fragen für eine Beurteilung in China
+- **Subtitle:** Die Alzheimer-Prognose für eine Beurteilung in China besprechen: Alltagsfunktion, Verlauf, Therapieergebnisse und zunehmenden Unterstützungsbedarf einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -146,3 +148,6 @@ Unsicherheit über die genaue Zukunft verhindert kein hilfreiches Handeln heute.
 ## SEO Metadata
 
 - **Primary keyword:** Alzheimer-Krankheit Prognose
+
+- **Meta title:** Alzheimer-Prognose: Fragen für eine Beurteilung in China
+- **Meta description:** Die Alzheimer-Prognose für eine Beurteilung in China besprechen: Alltagsfunktion, Verlauf, Therapieergebnisse und zunehmenden Unterstützungsbedarf einordnen.

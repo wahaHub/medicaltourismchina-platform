@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Haruskah pasien DLBCL pergi ke Tiongkok untuk pengobatan?
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Limfoma Sel B Besar Difus
-- **Subtitle:** Apakah perjalanan ke Tiongkok layak dilakukan untuk DLBCL bergantung pada masalah klinis yang dapat diatasi, waktu tunggu, serta kemampuan menyelesaikan pengobatan dan perawatan lanjutan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Haruskah pasien DLBCL pergi ke Tiongkok untuk pengobatan?
+- **Subtitle:** Nilai manfaat rujukan DLBCL ke Tiongkok, waktu tunggu, dan kesinambungan terapi. Pertimbangkan tinjauan patologi serta kestabilan sebelum perjalanan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Sepakati rencana medis cadangan jika perjalanan ditunda. Jika demam timbul, hasi
 ## SEO Metadata
 
 - **Primary keyword:** perjalanan ke Tiongkok untuk pengobatan DLBCL
+
+- **Meta title:** Haruskah pasien DLBCL pergi ke Tiongkok untuk pengobatan?
+- **Meta description:** Nilai manfaat rujukan DLBCL ke Tiongkok, waktu tunggu, dan kesinambungan terapi. Pertimbangkan tinjauan patologi serta kestabilan sebelum perjalanan.

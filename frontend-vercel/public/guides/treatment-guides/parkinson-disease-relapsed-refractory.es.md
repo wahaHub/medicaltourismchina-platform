@@ -1,12 +1,14 @@
-# Cuando los síntomas del párkinson vuelven a empeorar: pérdida de efecto al final de la dosis, deterioro agudo y siguientes pasos del tratamiento
+# Empeoramiento de síntomas de Parkinson: prepararse para una revisión en China
 
 ## Hero
 
-- **Title:** Cuando los síntomas del párkinson vuelven a empeorar: pérdida de efecto al final de la dosis, deterioro agudo y siguientes pasos del tratamiento
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de Parkinson
-- **Subtitle:** Una persona que antes llegaba sola a la mesa del comedor puede tener ahora dificultades todas las tardes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Empeoramiento de síntomas de Parkinson: prepararse para una revisión en China
+- **Subtitle:** Prepare una revisión del Parkinson en China ante empeoramiento, con horarios de síntomas, respuesta a dosis y cambios agudos que necesitan evaluación.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Mantenga concisa la información de emergencia: diagnóstico, horarios actuales 
 ## SEO Metadata
 
 - **Primary keyword:** pérdida de efecto de la medicación del párkinson al final de la dosis
+
+- **Meta title:** Empeoramiento de síntomas de Parkinson: prepararse para una revisión en China
+- **Meta description:** Prepare una revisión del Parkinson en China ante empeoramiento, con horarios de síntomas, respuesta a dosis y cambios agudos que necesitan evaluación.

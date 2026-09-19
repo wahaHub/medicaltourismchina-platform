@@ -1,12 +1,14 @@
-# Tratar la talasemia: del estado de portador, las transfusiones y la quelación al trasplante y las terapias más recientes
+# Tratamiento de talasemia en China: transfusiones, quelación y otras opciones
 
 ## Hero
 
-- **Title:** Tratar la talasemia: del estado de portador, las transfusiones y la quelación al trasplante y las terapias más recientes
 - **Category:** Guías de tratamiento
 - **Subcategory:** Talasemia
-- **Subtitle:** La talasemia comprende trastornos hereditarios de la producción de globina con manifestaciones que van desde muy pocos síntomas hasta la necesidad de transfusiones regulares y atención multidisciplinaria.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento de talasemia en China: transfusiones, quelación y otras opciones
+- **Subtitle:** Comprenda la atención de talasemia en China según tipo y necesidades, desde transfusiones y quelación hasta evaluación de trasplante y otras terapias.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -131,3 +133,6 @@ Revisar el plan periódicamente da al paciente la oportunidad de comentar benefi
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento de la talasemia
+
+- **Meta title:** Tratamiento de talasemia en China: transfusiones, quelación y otras opciones
+- **Meta description:** Comprenda la atención de talasemia en China según tipo y necesidades, desde transfusiones y quelación hasta evaluación de trasplante y otras terapias.

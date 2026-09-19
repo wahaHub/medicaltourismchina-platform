@@ -1,15 +1,17 @@
-# 032 Terapia dirigida contra el cáncer: pruebas de biomarcadores y planificación del tratamiento
+# Terapia dirigida contra el cáncer en China: pruebas de biomarcadores
 
 ## Hero
 
-- **Title:** Terapia dirigida contra el cáncer: pruebas de biomarcadores y planificación del tratamiento
 - **Category:** Guías de tratamiento
 - **Subcategory:** Atención del cáncer
-- **Subtitle:** Cómo relacionar una muestra real y una prueba validada con la alteración exacta, la evidencia, el medicamento y el plan de seguimiento.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un patólogo molecular y un oncólogo revisan un informe de biomarcadores sin datos identificativos junto a tipos de muestras de tejido y sangre etiquetados
+
+
+- **Title:** Terapia dirigida contra el cáncer en China: pruebas de biomarcadores
+- **Subtitle:** Comprenda las pruebas de biomarcadores en tejido y líquido, los diagnósticos complementarios, las variantes con utilidad terapéutica, la planificación de fármacos dirigidos y la resistencia antes de tratarse en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,13 +135,15 @@ Los biomarcadores tumorales pueden cambiar y el tratamiento puede seleccionar cl
 ## SEO Metadata
 
 - **Slug:** `targeted-cancer-therapy-biomarker-testing-and-treatment-planning`
-- **Meta title:** Guía de terapia dirigida contra el cáncer y pruebas de biomarcadores
-- **Meta description:** Comprenda las pruebas de biomarcadores en tejido y líquido, los diagnósticos complementarios, las variantes con utilidad terapéutica, la planificación de fármacos dirigidos y la resistencia antes de tratarse en China.
 - **Primary keyword:** terapia dirigida contra el cáncer en China
 - **Pillar keyword:** tratamiento del cáncer en China
 - **Vertical keyword:** pruebas de biomarcadores del cáncer en China
 - **Search intent:** interpretación de biomarcadores / planificación del tratamiento
 - **Secondary keywords:** pruebas NGS en China; biopsia líquida del cáncer; diagnóstico complementario; mutación con utilidad terapéutica; resistencia a la terapia dirigida
+
+
+- **Meta title:** Terapia dirigida contra el cáncer en China: pruebas de biomarcadores
+- **Meta description:** Comprenda las pruebas de biomarcadores en tejido y líquido, los diagnósticos complementarios, las variantes con utilidad terapéutica, la planificación de fármacos dirigidos y la resistencia antes de tratarse en China.
 
 ## Fuentes
 

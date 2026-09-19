@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Dua puluh pertanyaan pasien tentang epilepsi resistan obat dan pengobatan di Tiongkok
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Epilepsi Resistan Obat
-- **Subtitle:** Keputusan epilepsi resistan obat dapat melibatkan beberapa spesialisasi.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dua puluh pertanyaan pasien tentang epilepsi resistan obat dan pengobatan di Tiongkok
+- **Subtitle:** Pahami epilepsi resistan obat melalui 20 pertanyaan tentang diagnosis, EEG, MRI, dan pilihan terapi sebelum menyiapkan perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -153,3 +155,6 @@ Untuk kejang konvulsif berkepanjangan, kejang berulang tanpa pemulihan, pernapas
 ## SEO Metadata
 
 - **Primary keyword:** pertanyaan dan jawaban epilepsi resistan obat; pengobatan epilepsi di Tiongkok; tanya jawab bedah dan obat epilepsi
+
+- **Meta title:** Dua puluh pertanyaan pasien tentang epilepsi resistan obat dan pengobatan di Tiongkok
+- **Meta description:** Pahami epilepsi resistan obat melalui 20 pertanyaan tentang diagnosis, EEG, MRI, dan pilihan terapi sebelum menyiapkan perawatan di Tiongkok.

@@ -1,15 +1,17 @@
-# Identity Checks at a Chinese Hospital: Keep One Patient Attached to One Story
+# Hospital Identity Checks in China | International Patient Safety
 
 ## Hero
 
-- **Title:** Identity Checks at a Chinese Hospital: Keep One Patient Attached to One Story
 - **Category:** Patient Journey Guides
 - **Subcategory:** Registration, Identity and Record Safety
-- **Subtitle:** For an international patient, a spelling difference can separate scans from reports, create a second medical record or put an order under the wrong identity. Build and check the identity chain before care begins.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Conceptual hospital registration scene with a traveller presenting a passport; no readable personal data or real hospital is shown.
+
+
+- **Title:** Hospital Identity Checks in China | International Patient Safety
+- **Subtitle:** For an international patient, a spelling difference can separate scans from reports, create a second medical record or put an order under the wrong identity. Build and check the identity chain before care begins.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -162,13 +164,15 @@ Possibly, but the process is harder once reports have been translated, submitted
 ## SEO Metadata
 
 - **Slug:** `registration-and-identity-checks-at-a-chinese-hospital`
-- **Meta title:** Hospital Identity Checks in China | International Patient Safety
-- **Meta description:** Prevent duplicate medical records and name mismatches by linking passport variants, hospital numbers, specimens, images and reports throughout care in China.
 - **Primary keyword:** hospital identity checks China
 - **Pillar keyword:** medical travel to China
 - **Vertical keyword:** foreign patient hospital registration China
 - **Search intent:** registration safety / record correction
 - **Secondary keywords:** passport name hospital China; duplicate medical record; patient identification China; foreign patient medical record number; wrong name laboratory report
+
+
+- **Meta title:** Hospital Identity Checks in China | International Patient Safety
+- **Meta description:** Prevent duplicate medical records and name mismatches by linking passport variants, hospital numbers, specimens, images and reports throughout care in China.
 
 ## Sources
 

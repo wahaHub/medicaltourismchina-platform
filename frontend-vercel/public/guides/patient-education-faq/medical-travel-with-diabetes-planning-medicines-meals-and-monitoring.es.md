@@ -1,15 +1,17 @@
-# Viajes médicos con diabetes: mantenga en marcha el reloj del tratamiento
+# Viajes médicos a China con diabetes: medicamentos y comidas
 
 ## Hero
 
-- **Title:** Viajes médicos con diabetes: mantenga en marcha el reloj del tratamiento
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedades crónicas y viajes
-- **Subtitle:** Un plan práctico para medicamentos, conservación de insulina, cambios de huso horario, control de glucosa, comidas desconocidas, ayuno para procedimientos y emergencias durante enfermedades intercurrentes.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Viajero y acompañante planifican medicamentos, control de glucosa, comidas y fechas hospitalarias junto a un estuche de suministros para diabetes
+
+
+- **Title:** Viajes médicos a China con diabetes: medicamentos y comidas
+- **Subtitle:** Planifique conservación de insulina, dosificación entre husos, control de glucosa, comidas, ayuno para procedimientos, bombas, MCG y emergencias diabéticas durante viajes médicos.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -22,6 +24,9 @@
 - Confusión, convulsión, inconsciencia, incapacidad para tragar, vómitos persistentes, cetonas con enfermedad, respiración trabajosa o signos de cetoacidosis diabética requieren atención local urgente.
 
 ## Content
+
+Para una persona con diabetes que viaja a China para recibir atención médica, el itinerario debe ajustarse al plan de medicación, comidas y controles. Comente con el equipo prescriptor los cambios de huso horario, los retrasos en las comidas, el ayuno para procedimientos y las reservas de suministros antes de partir.
+
 
 La diabetes no hace imposibles los viajes médicos. Sí hace inseguro un itinerario vago. Una conexión retrasada puede aplazar una comida; un vehículo caliente puede dañar la insulina; un procedimiento puede prolongar el ayuno; la infección y los corticoides pueden elevar la glucosa; caminar más de lo habitual puede bajarla. El plan debe anticipar estos cambios en lugar de perseguirlos después de una lectura fuera de rango.
 
@@ -144,11 +149,13 @@ La glucosa gravemente baja con confusión, convulsión, inconsciencia o incapaci
 
 ## SEO Metadata
 
-- **SEO title:** Viajes médicos con diabetes: medicamentos, comidas y control
-- **Meta description:** Planifique conservación de insulina, dosificación entre husos, control de glucosa, comidas, ayuno para procedimientos, bombas, MCG y emergencias diabéticas durante viajes médicos.
 - **Primary keyword:** viajes médicos con diabetes
 - **Secondary keywords:** viajar con insulina, medicación diabetes husos horarios, ayuno cirugía diabetes, viajes aéreos bomba de insulina, MCG viajes médicos, lista de viaje diabetes
 - **Suggested URL slug:** `/medical-travel-diabetes-plan`
+
+
+- **Meta title:** Viajes médicos a China con diabetes: medicamentos y comidas
+- **Meta description:** Planifique conservación de insulina, dosificación entre husos, control de glucosa, comidas, ayuno para procedimientos, bombas, MCG y emergencias diabéticas durante viajes médicos.
 
 ## Fuentes
 

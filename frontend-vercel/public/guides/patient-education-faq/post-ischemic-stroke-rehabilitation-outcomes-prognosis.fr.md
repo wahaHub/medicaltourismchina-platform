@@ -1,12 +1,14 @@
-# Quelle récupération est possible après un AVC ischémique ? Comprendre le pronostic et les progrès
+# Récupération après AVC : comparer la réadaptation en Chine
 
 ## Hero
 
-- **Title:** Quelle récupération est possible après un AVC ischémique ? Comprendre le pronostic et les progrès
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Rééducation après un AVC ischémique
-- **Subtitle:** Après un AVC ischémique, les familles souhaitent souvent une réponse claire : quelle récupération est possible ?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Récupération après AVC : comparer la réadaptation en Chine
+- **Subtitle:** Évaluez les progrès après AVC selon les activités quotidiennes, la marche et l’usage de la main. Préparez une comparaison des objectifs de réadaptation en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Les besoins peuvent changer lors d’un transfert de service, de la sortie, du r
 ## SEO Metadata
 
 - **Primary keyword:** pronostic de la rééducation après un AVC ischémique
+
+- **Meta title:** Récupération après AVC : comparer la réadaptation en Chine
+- **Meta description:** Évaluez les progrès après AVC selon les activités quotidiennes, la marche et l’usage de la main. Préparez une comparaison des objectifs de réadaptation en Chine.

@@ -1,12 +1,14 @@
-# Résultats du myélome multiple : interpréter les chiffres de survie et préparer la récupération
+# Pronostic du myélome : interpréter les résultats pour des soins en Chine
 
 ## Hero
 
-- **Title:** Résultats du myélome multiple : interpréter les chiffres de survie et préparer la récupération
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Myélome multiple
-- **Subtitle:** Lorsqu’une personne demande combien de temps elle peut vivre avec un myélome, elle peut aussi demander si elle pourra rentrer chez elle, marcher seule, retravailler ou passer moins de temps à l’hôpital.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronostic du myélome : interpréter les résultats pour des soins en Chine
+- **Subtitle:** Distinguez survie, réponse complète et maladie résiduelle dans le myélome. Préparez en Chine une discussion du pronostic et des objectifs de récupération.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Avant de vous rendre en Chine, confirmez que le suivi et la poursuite des médic
 ## SEO Metadata
 
 - **Primary keyword:** pronostic du myélome multiple et résultats des traitements en Chine
+
+- **Meta title:** Pronostic du myélome : interpréter les résultats pour des soins en Chine
+- **Meta description:** Distinguez survie, réponse complète et maladie résiduelle dans le myélome. Préparez en Chine une discussion du pronostic et des objectifs de récupération.

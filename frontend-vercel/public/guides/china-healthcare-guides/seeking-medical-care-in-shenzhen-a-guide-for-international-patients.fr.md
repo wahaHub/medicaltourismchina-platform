@@ -1,15 +1,17 @@
-# 024 Se faire soigner à Shenzhen : guide pour les patients internationaux
+# Se soigner en Chine : guide du patient à Shenzhen
 
 ## Hero
 
-- **Title:** Se faire soigner à Shenzhen : guide pour les patients internationaux
 - **Category:** Guides des soins de santé en Chine
 - **Subcategory:** Organisation des soins en ville et transfrontaliers
-- **Subtitle:** Organisez une visite à Shenzhen autour de l’entrée réelle de l’hôpital, du document d’identité enregistré dans son système et de la transmission clinique du côté de la frontière où les soins se poursuivront.
 - **Reviewed by:** Équipe éditoriale de Medora Health ; relecture concernant Shenzhen et les soins transfrontaliers requise avant publication
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un patient international discute de ses soins avec un médecin devant la silhouette urbaine de Shenzhen
+
+
+- **Title:** Se soigner en Chine : guide du patient à Shenzhen
+- **Subtitle:** Préparez les rendez-vous à Shenzhen, l’inscription avec passeport, le partage de dossiers de Hong Kong et les limites des bons, la transmission transfrontalière et les urgences au 120.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -211,13 +213,15 @@ Non. Appelez le 120 de Shenzhen et suivez les consignes d’urgence. Un transpor
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-shenzhen-a-guide-for-international-patients`
-- **Meta title:** Soins médicaux à Shenzhen pour les patients internationaux
-- **Meta description:** Préparez les rendez-vous à Shenzhen, l’inscription avec passeport, le partage de dossiers de Hong Kong et les limites des bons, la transmission transfrontalière et les urgences au 120.
 - **Primary keyword:** soins médicaux à Shenzhen pour les patients internationaux
 - **Pillar keyword:** soins de santé en Chine pour les patients internationaux
 - **Vertical keyword:** soins médicaux transfrontaliers à Shenzhen
 - **Search intent:** orientation hospitalière / organisation transfrontalière
 - **Secondary keywords:** inscription hôpital Shenzhen passeport ; service médical international Shenzhen ; dossiers médicaux Hong Kong Shenzhen ; ambulance Shenzhen 120
+
+
+- **Meta title:** Se soigner en Chine : guide du patient à Shenzhen
+- **Meta description:** Préparez les rendez-vous à Shenzhen, l’inscription avec passeport, le partage de dossiers de Hong Kong et les limites des bons, la transmission transfrontalière et les urgences au 120.
 
 ## Sources
 

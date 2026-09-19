@@ -1,12 +1,14 @@
-# Multiple sclerosis treatment: building a plan for attacks, progression, and everyday function
+# Multiple Sclerosis Treatment in China: A Continuing Care Plan
 
 ## Hero
 
-- **Title:** Multiple sclerosis treatment: building a plan for attacks, progression, and everyday function
 - **Category:** Treatment Guides
 - **Subcategory:** Multiple Sclerosis
-- **Subtitle:** A useful multiple sclerosis treatment plan answers several different questions.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Multiple Sclerosis Treatment in China: A Continuing Care Plan
+- **Subtitle:** Build an MS care plan that addresses attacks, progression, symptoms and daily function, with continuity after a consultation or treatment in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Request an estimate tied to the actual proposed pathway, including assessment, a
 ## SEO Metadata
 
 - **Primary keyword:** multiple sclerosis treatment in China
+
+- **Meta title:** Multiple Sclerosis Treatment in China: A Continuing Care Plan
+- **Meta description:** Build an MS care plan that addresses attacks, progression, symptoms and daily function, with continuity after a consultation or treatment in China.

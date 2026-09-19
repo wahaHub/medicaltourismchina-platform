@@ -1,12 +1,14 @@
-# Operation bei pharmakoresistenter Epilepsie: Vorbereitung auf Abklärung, Einwilligung, Eingriff und Erholung
+# Operation bei pharmakoresistenter Epilepsie in China: Planung und Erholung
 
 ## Hero
 
-- **Title:** Operation bei pharmakoresistenter Epilepsie: Vorbereitung auf Abklärung, Einwilligung, Eingriff und Erholung
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Pharmakoresistente Epilepsie
-- **Subtitle:** Eine Überweisung zur Epilepsiechirurgie wirft oft zugleich zwei Fragen auf: Könnten die Anfälle endlich besser werden, und was könnte sich an Gedächtnis, Sprache oder Selbstständigkeit verändern?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Operation bei pharmakoresistenter Epilepsie in China: Planung und Erholung
+- **Subtitle:** Epilepsieoperationen in China vorbereiten: Anfallsquelle, Funktionsrisiken, ergänzende Tests, Einwilligung und Betreuung nach Resektion, Ablation oder Stimulation klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Bitten Sie um eine aufgeschlüsselte Kostenaufstellung für Abklärung, Operatio
 ## SEO Metadata
 
 - **Primary keyword:** Operation bei pharmakoresistenter Epilepsie; präoperative Epilepsieabklärung; Erholung nach Epilepsieoperation; Epilepsiechirurgie in China
+
+- **Meta title:** Operation bei pharmakoresistenter Epilepsie in China: Planung und Erholung
+- **Meta description:** Epilepsieoperationen in China vorbereiten: Anfallsquelle, Funktionsrisiken, ergänzende Tests, Einwilligung und Betreuung nach Resektion, Ablation oder Stimulation klären.

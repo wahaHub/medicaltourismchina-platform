@@ -1,12 +1,14 @@
-# Menyusun Rencana Rehabilitasi Awal Setelah Stroke Iskemik
+# Memulai Rehabilitasi Stroke di Tiongkok: Rencana Perawatan Pertama
 
 ## Hero
 
-- **Title:** Menyusun Rencana Rehabilitasi Awal Setelah Stroke Iskemik
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Rehabilitasi Pascastroke Iskemik
-- **Subtitle:** Keluarga yang menerima jadwal rehabilitasi sering bertanya pengobatan mana yang harus didahulukan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Memulai Rehabilitasi Stroke di Tiongkok: Rencana Perawatan Pertama
+- **Subtitle:** Susun rencana rehabilitasi stroke awal di Tiongkok berdasarkan kesiapan medis, tugas sehari-hari, hambatan fungsi, dan tujuan yang dapat dinilai.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ Rencana rehabilitasi awal harus menetapkan arah yang dapat disesuaikan: aktivita
 ## SEO Metadata
 
 - **Primary keyword:** rehabilitasi lini pertama setelah stroke iskemik
+
+- **Meta title:** Memulai Rehabilitasi Stroke di Tiongkok: Rencana Perawatan Pertama
+- **Meta description:** Susun rencana rehabilitasi stroke awal di Tiongkok berdasarkan kesiapan medis, tugas sehari-hari, hambatan fungsi, dan tujuan yang dapat dinilai.

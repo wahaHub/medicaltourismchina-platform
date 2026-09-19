@@ -1,15 +1,17 @@
-# Antes de aceptar un plan de tratamiento en el extranjero: preguntas que cambian la decisión
+# Planes de tratamiento en China: preguntas antes de aceptar
 
 ## Hero
 
-- **Title:** Antes de aceptar un plan de tratamiento en el extranjero: preguntas que cambian la decisión
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Toma de decisiones del paciente y apoyo al cuidador
-- **Subtitle:** Una forma estructurada de comprobar el diagnóstico, comparar opciones, comprender el riesgo personal y definir quién se responsabiliza de las complicaciones y el seguimiento.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un paciente internacional y su acompañante hacen preguntas detalladas a un médico antes de aceptar un plan de tratamiento
+
+
+- **Title:** Planes de tratamiento en China: preguntas antes de aceptar
+- **Subtitle:** Examine una propuesta de tratamiento extranjero preguntando por diagnóstico, alternativas, resultados, riesgos personales, responsabilidad médica, costes y seguimiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - El consentimiento es una conversación, no una firma. Utilice un intérprete cualificado y la explicación con palabras propias para comprobar la comprensión [1][6].
 
 ## Content
+
+Si está valorando un plan de tratamiento de un hospital en China, utilice estas preguntas antes de aceptar el presupuesto u organizar el viaje. La explicación clínica, las alternativas, la identidad del equipo tratante y las medidas previstas ante complicaciones deben ser lo bastante claras para comentarlas con su médico en su país.
+
 
 Un plan extranjero puede llegar como un PDF pulido: un nombre de tratamiento, un calendario optimista, un precio de paquete y algunos testimonios. Aun así, puede dejar casi intacta la decisión clínica. El trabajo útil empieza cuando el paciente puede explicar, con lenguaje sencillo, por qué se recomendó esta opción, qué más podría hacerse, qué podría salir mal y quién ayudará si no se produce la recuperación esperada.
 
@@ -195,11 +200,13 @@ Pida por escrito la nueva evidencia, alternativas, riesgos, plazos y coste; util
 
 ## SEO Metadata
 
-- **SEO title:** Preguntas antes de aceptar un plan de tratamiento en el extranjero
-- **Meta description:** Examine una propuesta de tratamiento extranjero preguntando por diagnóstico, alternativas, resultados, riesgos personales, responsabilidad médica, costes y seguimiento.
 - **Primary keyword:** preguntas antes de un tratamiento en el extranjero
 - **Secondary keywords:** plan de tratamiento en el extranjero, consentimiento informado en turismo médico, riesgos de tratamiento extranjero, segunda opinión del paciente internacional, seguimiento de viaje médico
 - **Suggested URL slug:** `/questions-before-accepting-overseas-treatment`
+
+
+- **Meta title:** Planes de tratamiento en China: preguntas antes de aceptar
+- **Meta description:** Examine una propuesta de tratamiento extranjero preguntando por diagnóstico, alternativas, resultados, riesgos personales, responsabilidad médica, costes y seguimiento.
 
 ## Fuentes
 

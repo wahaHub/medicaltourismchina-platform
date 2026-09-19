@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Documentación médica para una consulta de EICH en China: conectar los antecedentes del trasplante, los cambios orgánicos y la respuesta al tratamiento
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Enfermedad de injerto contra huésped
-- **Subtitle:** Muchos pacientes acumulan abundante documentación de la EICH: informes de alta del trasplante, análisis mensuales, informes de biopsias, recetas de varias especialidades y fotografías de la piel guardadas en el teléfono.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Documentación médica para una consulta de EICH en China: conectar los antecedentes del trasplante, los cambios orgánicos y la respuesta al tratamiento
+- **Subtitle:** Prepare una consulta de enfermedad injerto contra huésped en China con la cronología del trasplante, la evolución de órganos y las respuestas al tratamiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ En la consulta, confirme cómo se facilitarán la nueva evaluación y la receta 
 ## SEO Metadata
 
 - **Primary keyword:** documentación médica para una consulta de EICH en China
+
+- **Meta title:** Documentación médica para una consulta de EICH en China: conectar los antecedentes del trasplante, los cambios orgánicos y la respuesta al tratamiento
+- **Meta description:** Prepare una consulta de enfermedad injerto contra huésped en China con la cronología del trasplante, la evolución de órganos y las respuestas al tratamiento.

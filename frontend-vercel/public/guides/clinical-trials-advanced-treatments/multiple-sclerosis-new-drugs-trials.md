@@ -1,12 +1,14 @@
-# New multiple sclerosis medicines and clinical trials: interpreting developments in 2026
+# New MS Medicines and Trials: Checking Access in China
 
 ## Hero
 
-- **Title:** New multiple sclerosis medicines and clinical trials: interpreting developments in 2026
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Multiple Sclerosis
-- **Subtitle:** News about a new mechanism, positive phase 3 results or cell therapy usually raises practical questions: does the evidence concern my form of MS, can I receive the treatment, and what would it require?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** New MS Medicines and Trials: Checking Access in China
+- **Subtitle:** Evaluate emerging multiple sclerosis medicines and studies, and confirm eligibility, China access, monitoring and travel demands with the study team.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ A reasonable research decision allows uncertainty to be understood and compared 
 ## SEO Metadata
 
 - **Primary keyword:** new multiple sclerosis drugs and clinical trials
+
+- **Meta title:** New MS Medicines and Trials: Checking Access in China
+- **Meta description:** Evaluate emerging multiple sclerosis medicines and studies, and confirm eligibility, China access, monitoring and travel demands with the study team.

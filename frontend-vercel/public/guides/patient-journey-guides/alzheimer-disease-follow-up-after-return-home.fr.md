@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Suivi d’Alzheimer après des soins en Chine : rendre le plan de retour au pays opérationnel
 - **Category:** Guides du parcours patient
 - **Subcategory:** Maladie d’Alzheimer
-- **Subtitle:** Une consultation ou un traitement en Chine n’est utile dans la durée que si ses conclusions peuvent être intégrées aux soins là où vit le patient.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Suivi d’Alzheimer après des soins en Chine : rendre le plan de retour au pays opérationnel
+- **Subtitle:** Après des soins Alzheimer en Chine, organisez le relais médical, la surveillance des médicaments et des IRM, ainsi que le signalement des changements quotidiens.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -130,3 +132,6 @@ Poursuivez les échanges sur les préférences du patient et les soins futurs en
 ## SEO Metadata
 
 - **Primary keyword:** suivi après un traitement d’Alzheimer en Chine
+
+- **Meta title:** Suivi d’Alzheimer après des soins en Chine : rendre le plan de retour au pays opérationnel
+- **Meta description:** Après des soins Alzheimer en Chine, organisez le relais médical, la surveillance des médicaments et des IRM, ainsi que le signalement des changements quotidiens.

@@ -1,12 +1,14 @@
-# Pruebas ante la sospecha de LDCBG: biopsia, estadificación y preparación para el tratamiento
+# Diagnóstico de LDCBG en China: biopsia, estadificación y preparación
 
 ## Hero
 
-- **Title:** Pruebas ante la sospecha de LDCBG: biopsia, estadificación y preparación para el tratamiento
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma difuso de células B grandes
-- **Subtitle:** Las pruebas para el linfoma difuso de células B grandes deben responder a cuatro preguntas relacionadas: ¿es un linfoma, qué linfoma es, dónde está presente y qué tratamiento puede recibir el paciente de forma segura?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnóstico de LDCBG en China: biopsia, estadificación y preparación
+- **Subtitle:** Prepare el diagnóstico de linfoma difuso de células B grandes en China: tejido para biopsia, estudios moleculares, PET/TC y evaluación previa al tratamiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ La fertilidad, la nutrición y el apoyo práctico deben comentarse antes del pri
 ## SEO Metadata
 
 - **Primary keyword:** pruebas diagnósticas de LDCBG
+
+- **Meta title:** Diagnóstico de LDCBG en China: biopsia, estadificación y preparación
+- **Meta description:** Prepare el diagnóstico de linfoma difuso de células B grandes en China: tejido para biopsia, estudios moleculares, PET/TC y evaluación previa al tratamiento.

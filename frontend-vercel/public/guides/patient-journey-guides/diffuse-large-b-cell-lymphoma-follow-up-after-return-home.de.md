@@ -1,12 +1,14 @@
-# DLBCL-Nachsorge nach der Heimkehr: Überwachung, Erholung und Übergabe
+# DLBCL-Nachsorge nach Behandlung in China: Rückkehr nach Hause
 
 ## Hero
 
-- **Title:** DLBCL-Nachsorge nach der Heimkehr: Überwachung, Erholung und Übergabe
 - **Category:** Leitfäden zum Patientenweg
 - **Subcategory:** Diffuses großzelliges B-Zell-Lymphom
-- **Subtitle:** Die Nachsorge nach einer DLBCL-Behandlung in China beginnt mit einem klaren Behandlungsergebnis und einer funktionierenden Übergabe.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL-Nachsorge nach Behandlung in China: Rückkehr nach Hause
+- **Subtitle:** DLBCL-Nachsorge nach Behandlung in China planen: Ansprechbefund, örtliche Zuständigkeit, Infektionsvorbeugung, Spätfolgen und alltagsnahe Erholung abstimmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Nutzen Sie den ersten heimischen Termin, um zu bestätigen, dass die Übergabe f
 ## SEO Metadata
 
 - **Primary keyword:** DLBCL-Nachsorge nach der Heimkehr
+
+- **Meta title:** DLBCL-Nachsorge nach Behandlung in China: Rückkehr nach Hause
+- **Meta description:** DLBCL-Nachsorge nach Behandlung in China planen: Ansprechbefund, örtliche Zuständigkeit, Infektionsvorbeugung, Spätfolgen und alltagsnahe Erholung abstimmen.

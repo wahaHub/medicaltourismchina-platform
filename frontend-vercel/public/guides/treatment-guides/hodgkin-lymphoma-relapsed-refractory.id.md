@@ -1,12 +1,14 @@
-# Ketika limfoma Hodgkin kembali atau tidak merespons pengobatan: penilaian ulang, terapi penyelamatan, dan transplantasi
+# Limfoma Hodgkin Kambuh di Tiongkok: Perencanaan Terapi Penyelamatan
 
 ## Hero
 
-- **Title:** Ketika limfoma Hodgkin kembali atau tidak merespons pengobatan: penilaian ulang, terapi penyelamatan, dan transplantasi
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Hodgkin
-- **Subtitle:** Mendengar bahwa limfoma Hodgkin kembali atau tidak merespons pengobatan dapat membuat usaha selama rangkaian pertama terasa sia-sia.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Limfoma Hodgkin Kambuh di Tiongkok: Perencanaan Terapi Penyelamatan
+- **Subtitle:** Siapkan penilaian limfoma Hodgkin kambuh di Tiongkok dengan biopsi, interpretasi PET, dan linimasa terapi untuk membahas penyelamatan serta transplantasi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Konsultasi kekambuhan dapat berpusat pada pertanyaan singkat: langkah berikutnya
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan limfoma Hodgkin kambuh refrakter
+
+- **Meta title:** Limfoma Hodgkin Kambuh di Tiongkok: Perencanaan Terapi Penyelamatan
+- **Meta description:** Siapkan penilaian limfoma Hodgkin kambuh di Tiongkok dengan biopsi, interpretasi PET, dan linimasa terapi untuk membahas penyelamatan serta transplantasi.

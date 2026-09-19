@@ -1,12 +1,14 @@
-# Understanding Sickle Cell Reports: Hemoglobin, HbS, HbF, Reticulocytes, and Iron Measurements
+# Sickle Cell Reports: Preparing for Assessment in China
 
 ## Hero
 
-- **Title:** Understanding Sickle Cell Reports: Hemoglobin, HbS, HbF, Reticulocytes, and Iron Measurements
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Sickle Cell Disease
-- **Subtitle:** Sickle cell follow-up often produces two similar-looking measurements that answer different questions: the hemoglobin concentration on a blood count and the percentage of HbS on hemoglobin analysis.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sickle Cell Reports: Preparing for Assessment in China
+- **Subtitle:** Understand sickle cell blood counts, HbS, HbF and iron measurements, and organize results for a useful clinical assessment in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,3 +143,6 @@ The outcome of review should be an understandable next step. Reports should supp
 ## SEO Metadata
 
 - **Primary keyword:** understanding sickle cell disease laboratory reports
+
+- **Meta title:** Sickle Cell Reports: Preparing for Assessment in China
+- **Meta description:** Understand sickle cell blood counts, HbS, HbF and iron measurements, and organize results for a useful clinical assessment in China.

@@ -1,12 +1,14 @@
-# Medicines for mantle cell lymphoma: Chinese indications, BTK inhibitors and newer treatment options
+# Mantle Cell Lymphoma Medicines in China: Access and Monitoring
 
 ## Hero
 
-- **Title:** Medicines for mantle cell lymphoma: Chinese indications, BTK inhibitors and newer treatment options
 - **Category:** Treatment Guides
 - **Subcategory:** Mantle Cell Lymphoma
-- **Subtitle:** Related searches: MCL targeted drugs; pirtobrutinib; sonrotoclax; MCL medicines in China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Mantle Cell Lymphoma Medicines in China: Access and Monitoring
+- **Subtitle:** Review mantle cell lymphoma medicines, Chinese indications, BTK inhibitors and newer approaches, with practical access and monitoring questions.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ A usable prescription plan explains what you take, why it is used, when monitori
 ## SEO Metadata
 
 - **Primary keyword:** medicines for mantle cell lymphoma
+
+- **Meta title:** Mantle Cell Lymphoma Medicines in China: Access and Monitoring
+- **Meta description:** Review mantle cell lymphoma medicines, Chinese indications, BTK inhibitors and newer approaches, with practical access and monitoring questions.

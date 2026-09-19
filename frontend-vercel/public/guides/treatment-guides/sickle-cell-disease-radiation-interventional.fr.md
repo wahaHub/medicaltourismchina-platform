@@ -1,12 +1,14 @@
-# Pourquoi utiliser l’échange érythrocytaire dans la drépanocytose : traitement urgent et soins ultérieurs
+# Échange érythrocytaire pour la drépanocytose en Chine : préparation
 
 ## Hero
 
-- **Title:** Pourquoi utiliser l’échange érythrocytaire dans la drépanocytose : traitement urgent et soins ultérieurs
 - **Category:** Guides des traitements
 - **Subcategory:** Drépanocytose
-- **Subtitle:** L’expression « échange transfusionnel » peut donner l’impression que tout le sang sera remplacé ou que la maladie est devenue incontrôlable.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Échange érythrocytaire pour la drépanocytose en Chine : préparation
+- **Subtitle:** Comprenez l’échange érythrocytaire dans la drépanocytose, ses indications urgentes et les vérifications de compatibilité pour préparer des soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Pour une personne ayant douleur thoracique et essoufflement ou signes d’AVC, l
 ## SEO Metadata
 
 - **Primary keyword:** échange érythrocytaire pour la drépanocytose
+
+- **Meta title:** Échange érythrocytaire pour la drépanocytose en Chine : préparation
+- **Meta description:** Comprenez l’échange érythrocytaire dans la drépanocytose, ses indications urgentes et les vérifications de compatibilité pour préparer des soins en Chine.

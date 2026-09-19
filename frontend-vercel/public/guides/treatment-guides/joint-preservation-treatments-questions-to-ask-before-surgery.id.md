@@ -1,15 +1,17 @@
-# 047 Pengobatan Preservasi Sendi: Pertanyaan yang Perlu Diajukan Sebelum Operasi
+# Preservasi Sendi di Tiongkok: Pertanyaan Sebelum Operasi
 
 ## Hero
 
-- **Title:** Pengobatan Preservasi Sendi: Pertanyaan yang Perlu Diajukan Sebelum Operasi
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Rekonstruksi Sendi & Kedokteran Olahraga
-- **Subtitle:** Cari tahu apakah sendi masih memiliki masalah mekanis atau fokal yang dapat diobati—dan apa yang secara realistis dapat dipertahankan melalui “preservasi”.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Pasien membahas tujuan berjalan, menaiki tangga, dan bersepeda dengan dokter ortopedi di samping sebuah tongkat
+
+
+- **Title:** Preservasi Sendi di Tiongkok: Pertanyaan Sebelum Operasi
+- **Subtitle:** Evaluasi operasi preservasi sendi berdasarkan diagnosis, tulang rawan, keselarasan, dan stabilitas, dengan bukti, rehabilitasi, kriteria kegagalan, dan pilihan mendatang yang jelas.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -20,6 +22,9 @@
 - Rencana preservasi yang baik mencakup strategi jika tidak berhasil: bagaimana keberhasilan diukur, kapan kegagalan dinyatakan, dan apakah penggantian di kemudian hari tetap memungkinkan.
 
 ## Content
+
+Sebelum bepergian ke Tiongkok untuk konsultasi preservasi sendi, tanyakan masalah struktural apa yang hendak ditangani oleh prosedur yang diusulkan. Bawalah pencitraan dan riwayat pengobatan, lalu bandingkan kebutuhan pemulihan, alternatif, dan persyaratan tindak lanjut sebelum memilih operasi.
+
 
 Ungkapan “selamatkan sendi alami Anda” sangat kuat secara emosional, terutama bagi pasien yang lebih muda atau aktif. Ungkapan ini juga dapat menyembunyikan pengobatan yang sangat berbeda: memperbaiki meniskus, memutar soket panggul displastik, mengurangi beban satu sisi lutut artritis, mencangkok defek tulang rawan fokal, atau melakukan dekompresi osteonekrosis dini. Sebelum menerima label tersebut, tanyakan apa yang sebenarnya dipertahankan dan mengapa sendi merupakan kandidat yang sesuai.
 
@@ -185,13 +190,15 @@ Sepakati sebelumnya bagaimana kegagalan diukur, berapa lama pemulihan diizinkan,
 ## SEO Metadata
 
 - **Slug:** `joint-preservation-treatments-questions-to-ask-before-surgery`
-- **Meta title:** Pengobatan Preservasi Sendi | Pertanyaan Sebelum Operasi
-- **Meta description:** Evaluasi operasi preservasi sendi berdasarkan diagnosis, tulang rawan, keselarasan, dan stabilitas, dengan bukti, rehabilitasi, kriteria kegagalan, dan pilihan mendatang yang jelas.
 - **Primary keyword:** pengobatan preservasi sendi
 - **Pillar keyword:** operasi preservasi sendi
 - **Vertical keyword:** rekonstruksi tulang rawan dan sendi
 - **Search intent:** perbandingan pengobatan / pertanyaan praoperasi
 - **Secondary keywords:** operasi restorasi tulang rawan; osteotomi sendi; operasi preservasi panggul; pengobatan sendi regeneratif; preservasi sendi dibandingkan penggantian
+
+
+- **Meta title:** Preservasi Sendi di Tiongkok: Pertanyaan Sebelum Operasi
+- **Meta description:** Evaluasi operasi preservasi sendi berdasarkan diagnosis, tulang rawan, keselarasan, dan stabilitas, dengan bukti, rehabilitasi, kriteria kegagalan, dan pilihan mendatang yang jelas.
 
 ## Sumber
 

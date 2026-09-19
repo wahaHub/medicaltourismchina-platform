@@ -1,12 +1,14 @@
-# Jenis dan kelompok risiko limfoma Hodgkin: apa yang mengubah pengobatan
+# Jenis dan Risiko Limfoma Hodgkin: Pendapat Kedua di Tiongkok
 
 ## Hero
 
-- **Title:** Jenis dan kelompok risiko limfoma Hodgkin: apa yang mengubah pengobatan
 - **Category:** Edukasi Pasien & FAQ
 - **Subcategory:** Limfoma Hodgkin
-- **Subtitle:** Kelompok risiko limfoma Hodgkin terutama merupakan alat untuk memilih pengobatan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Jenis dan Risiko Limfoma Hodgkin: Pendapat Kedua di Tiongkok
+- **Subtitle:** Bedakan jenis jaringan, stadium, dan kelompok risiko limfoma Hodgkin. Siapkan pertanyaan pengobatan untuk memperoleh pendapat kedua di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Perjalanan paling bermanfaat ketika menyelesaikan pertanyaan patologi, perbedaan
 ## SEO Metadata
 
 - **Primary keyword:** jenis dan kelompok risiko limfoma Hodgkin
+
+- **Meta title:** Jenis dan Risiko Limfoma Hodgkin: Pendapat Kedua di Tiongkok
+- **Meta description:** Bedakan jenis jaringan, stadium, dan kelompok risiko limfoma Hodgkin. Siapkan pertanyaan pengobatan untuk memperoleh pendapat kedua di Tiongkok.

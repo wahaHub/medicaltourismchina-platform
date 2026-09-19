@@ -1,12 +1,14 @@
-# Nach einer Alzheimer-Diagnose: den ersten Behandlungsplan erstellen
+# Beginn der Alzheimer-Behandlung in China: Der erste Versorgungsplan
 
 ## Hero
 
-- **Title:** Nach einer Alzheimer-Diagnose: den ersten Behandlungsplan erstellen
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Alzheimer-Krankheit
-- **Subtitle:** Nach der Diagnose einer Alzheimer-Krankheit ist der Wunsch verständlich, sofort mit jeder verfügbaren Behandlung zu beginnen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Beginn der Alzheimer-Behandlung in China: Der erste Versorgungsplan
+- **Subtitle:** Den ersten Alzheimer-Behandlungsplan in China vorbereiten: Diagnose und Stadium klären, Medikamente prüfen, Antikörpereignung besprechen und Alltagshilfe planen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ Die Familie muss nicht beim ersten Besuch jede zukünftige Entscheidung klären.
 ## SEO Metadata
 
 - **Primary keyword:** Erstbehandlung der Alzheimer-Krankheit
+
+- **Meta title:** Beginn der Alzheimer-Behandlung in China: Der erste Versorgungsplan
+- **Meta description:** Den ersten Alzheimer-Behandlungsplan in China vorbereiten: Diagnose und Stadium klären, Medikamente prüfen, Antikörpereignung besprechen und Alltagshilfe planen.

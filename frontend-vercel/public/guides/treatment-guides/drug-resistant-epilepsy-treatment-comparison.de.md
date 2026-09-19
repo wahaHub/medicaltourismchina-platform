@@ -1,12 +1,14 @@
-# Behandlungen bei medikamentenresistenter Epilepsie im Vergleich: Medikamente, Resektion, Ablation, Stimulation und Ernährungstherapie
+# Pharmakoresistente Epilepsie in China: Behandlungsoptionen vergleichen
 
 ## Hero
 
-- **Title:** Behandlungen bei medikamentenresistenter Epilepsie im Vergleich: Medikamente, Resektion, Ablation, Stimulation und Ernährungstherapie
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Medikamentenresistente Epilepsie
-- **Subtitle:** Stellen Sie zunächst fest, welche Möglichkeiten für die betreffende Person infrage kommen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pharmakoresistente Epilepsie in China: Behandlungsoptionen vergleichen
+- **Subtitle:** Therapien bei pharmakoresistenter Epilepsie in China vergleichen: Medikamente, Resektion, Ablation, Stimulation und Ernährung nach Ziel, Eignung und Risiken beurteilen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -152,3 +154,6 @@ Falls die Befunde nicht ausreichen, schließen Sie die Untersuchungen ab, die di
 ## SEO Metadata
 
 - **Primary keyword:** Behandlungsvergleich bei medikamentenresistenter Epilepsie; Medikamente versus Epilepsiechirurgie; Neurostimulation bei Epilepsie; Laserablation in China
+
+- **Meta title:** Pharmakoresistente Epilepsie in China: Behandlungsoptionen vergleichen
+- **Meta description:** Therapien bei pharmakoresistenter Epilepsie in China vergleichen: Medikamente, Resektion, Ablation, Stimulation und Ernährung nach Ziel, Eignung und Risiken beurteilen.

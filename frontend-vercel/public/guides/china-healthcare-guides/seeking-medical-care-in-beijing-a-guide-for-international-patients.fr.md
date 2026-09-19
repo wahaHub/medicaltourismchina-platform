@@ -1,15 +1,17 @@
-# 021 Se faire soigner à Pékin : guide pratique pour les patients internationaux
+# Se soigner en Chine : guide du patient à Pékin
 
 ## Hero
 
-- **Title:** Se faire soigner à Pékin : guide pratique pour les patients internationaux
 - **Category:** Guides du système de santé chinois
 - **Subcategory:** Choisir une destination de soins
-- **Subtitle:** Choisissez le bon circuit de soins à Pékin, confirmez le site exact et arrivez avec un rendez-vous adapté au problème médical comme aux besoins linguistiques du patient.
 - **Reviewed by:** Équipe éditoriale de Medora Health ; relecture clinique et opérationnelle locale nécessaire avant publication
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un patient international et son accompagnant rencontrent un clinicien, avec la silhouette de Pékin derrière la fenêtre
+
+
+- **Title:** Se soigner en Chine : guide du patient à Pékin
+- **Subtitle:** Guide pratique des soins à Pékin : choix de l’hôpital et du site, rendez-vous en anglais, passeports, paiement, urgences et suivi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -191,13 +193,15 @@ Appelez le 120 pour une urgence médicale. Le 12345 de Pékin peut fournir des i
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-beijing-a-guide-for-international-patients`
-- **Meta title:** Soins médicaux à Pékin pour les patients internationaux
-- **Meta description:** Guide pratique des soins à Pékin : choix de l’hôpital et du site, rendez-vous en anglais, passeports, paiement, urgences et suivi.
 - **Primary keyword:** soins médicaux à Pékin pour les patients internationaux
 - **Pillar keyword:** soins de santé en Chine pour les patients internationaux
 - **Vertical keyword:** rendez-vous hospitalier à Pékin pour les étrangers
 - **Search intent:** planification pratique / orientation hospitalière
 - **Secondary keywords:** rendez-vous Beijing 114 en anglais ; services médicaux internationaux Pékin ; hôpital patient étranger Pékin ; urgence médicale Pékin 120
+
+
+- **Meta title:** Se soigner en Chine : guide du patient à Pékin
+- **Meta description:** Guide pratique des soins à Pékin : choix de l’hôpital et du site, rendez-vous en anglais, passeports, paiement, urgences et suivi.
 
 ## Sources
 

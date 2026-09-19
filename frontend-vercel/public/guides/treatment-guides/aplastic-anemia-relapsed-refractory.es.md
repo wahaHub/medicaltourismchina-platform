@@ -1,12 +1,14 @@
-# Anemia aplásica recidivante o refractaria: confirmar la causa y planificar el tratamiento de segunda línea
+# Anemia aplásica refractaria o en recaída: segundas opiniones en China
 
 ## Hero
 
-- **Title:** Anemia aplásica recidivante o refractaria: confirmar la causa y planificar el tratamiento de segunda línea
 - **Category:** Guías de tratamiento
 - **Subcategory:** Anemia aplásica
-- **Subtitle:** Los recuentos persistentemente bajos después del tratamiento y los recuentos que descienden tras una mejoría anterior requieren reevaluación, pero no son el mismo problema.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Anemia aplásica refractaria o en recaída: segundas opiniones en China
+- **Subtitle:** Prepare una segunda opinión de anemia aplásica en China ante recaída o respuesta insuficiente con los tratamientos recibidos, recuentos y posibles causas.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ La aptitud para viajar depende del estado actual y de los servicios locales y re
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento de la anemia aplásica refractaria
+
+- **Meta title:** Anemia aplásica refractaria o en recaída: segundas opiniones en China
+- **Meta description:** Prepare una segunda opinión de anemia aplásica en China ante recaída o respuesta insuficiente con los tratamientos recibidos, recuentos y posibles causas.

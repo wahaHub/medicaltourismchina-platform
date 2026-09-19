@@ -1,12 +1,14 @@
-# Examens de la drépanocytose : du résultat de dépistage au diagnostic confirmé
+# Diagnostic de la drépanocytose en Chine : examens et confirmation
 
 ## Hero
 
-- **Title:** Examens de la drépanocytose : du résultat de dépistage au diagnostic confirmé
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Drépanocytose
-- **Subtitle:** Un compte rendu indiquant la détection d’hémoglobine S, ou HbS, peut susciter des questions chez une personne qui ne s’est jamais sentie malade, ou amorcer un parcours de soins important pour un nouveau-né.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnostic de la drépanocytose en Chine : examens et confirmation
+- **Subtitle:** Comprenez les rôles de la numération, de l’analyse de l’hémoglobine et des tests de confirmation pour préparer un diagnostic de drépanocytose en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Une fièvre, des symptômes thoraciques, des difficultés respiratoires, une fai
 ## SEO Metadata
 
 - **Primary keyword:** examens pour diagnostiquer la drépanocytose
+
+- **Meta title:** Diagnostic de la drépanocytose en Chine : examens et confirmation
+- **Meta description:** Comprenez les rôles de la numération, de l’analyse de l’hémoglobine et des tests de confirmation pour préparer un diagnostic de drépanocytose en Chine.

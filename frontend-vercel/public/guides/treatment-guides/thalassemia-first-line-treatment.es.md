@@ -1,12 +1,14 @@
-# Inicio de la atención tras un diagnóstico de talasemia: planificación de la primera etapa del tratamiento
+# Iniciar la atención de talasemia en China: el primer plan de tratamiento
 
 ## Hero
 
-- **Title:** Inicio de la atención tras un diagnóstico de talasemia: planificación de la primera etapa del tratamiento
 - **Category:** Guías de tratamiento
 - **Subcategory:** Talasemia
-- **Subtitle:** Tras un nuevo diagnóstico de talasemia, las familias suelen querer una decisión que resuelva todas sus inquietudes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Iniciar la atención de talasemia en China: el primer plan de tratamiento
+- **Subtitle:** Prepare la primera etapa de atención de talasemia en China según el diagnóstico, las necesidades transfusionales y la evaluación del hierro y la quelación.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ El documento puede ser breve. Debe identificar al médico coordinador, la clasif
 ## SEO Metadata
 
 - **Primary keyword:** talasemia recién diagnosticada; tratamiento inicial; atención pediátrica de la talasemia; inicio de transfusiones; inicio de quelación
+
+- **Meta title:** Iniciar la atención de talasemia en China: el primer plan de tratamiento
+- **Meta description:** Prepare la primera etapa de atención de talasemia en China según el diagnóstico, las necesidades transfusionales y la evaluación del hierro y la quelación.

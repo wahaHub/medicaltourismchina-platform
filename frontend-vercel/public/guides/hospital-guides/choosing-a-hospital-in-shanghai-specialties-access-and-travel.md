@@ -1,15 +1,17 @@
-# Choosing a Hospital in Shanghai: Specialties, Access, and Travel
+# Choosing a Hospital in China: Shanghai Access and Travel
 
 ## Hero
 
-- **Title:** Choosing a Hospital in Shanghai: Specialties, Access, and Travel
 - **Category:** Hospital Guides
 - **Subcategory:** Shanghai Care Planning
-- **Subtitle:** Turn a Shanghai hospital name into a verified clinical route, exact-campus itinerary and workable arrival-to-discharge plan.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Conceptual illustration of international travellers planning hospital access in Shanghai; the skyline, rail symbol and hospital do not show a real campus or route.
+
+
+- **Title:** Choosing a Hospital in China: Shanghai Access and Travel
+- **Subtitle:** Build a safe Shanghai medical route by verifying the specialty team, exact campuses, international service, passport identity, payment, airports and discharge handoff.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -240,13 +242,15 @@ Ask whether the hospital can consolidate them. If not, map door-to-door transfer
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-shanghai-specialties-access-and-travel`
-- **Meta title:** Choosing a Hospital in Shanghai: Campus, Access and Travel
-- **Meta description:** Build a safe Shanghai medical route by verifying the specialty team, exact campuses, international service, passport identity, payment, airports and discharge handoff.
 - **Primary keyword:** choosing a hospital in Shanghai
 - **Pillar keyword:** Shanghai hospitals for international patients
 - **Vertical keyword:** Shanghai hospital campus access travel
 - **Search intent:** hospital comparison / medical travel planning
 - **Secondary keywords:** Shanghai international medical service; Shanghai hospital appointment passport; Suishenban hospital booking; Pudong Hongqiao hospital travel; Shanghai hospital campus
+
+
+- **Meta title:** Choosing a Hospital in China: Shanghai Access and Travel
+- **Meta description:** Build a safe Shanghai medical route by verifying the specialty team, exact campuses, international service, passport identity, payment, airports and discharge handoff.
 
 ## Sources
 

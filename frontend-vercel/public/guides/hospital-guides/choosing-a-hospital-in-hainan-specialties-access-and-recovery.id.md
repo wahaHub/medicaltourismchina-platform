@@ -1,15 +1,17 @@
-# 110 Memilih Rumah Sakit di Hainan: Lima Kriteria Pulau untuk Pengobatan dan Pemulihan
+# Memilih Rumah Sakit di Tiongkok: Akses di Hainan dan Lecheng
 
 ## Hero
 
-- **Title:** Memilih Rumah Sakit di Hainan: Lima Kriteria Pulau untuk Pengobatan dan Pemulihan
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Perencanaan Perawatan di Hainan
-- **Subtitle:** Pisahkan kota, lokasi fasilitas, jalur regulasi, akses pulau, dan pemulihan sebelum mengandalkan tawaran wisata medis Hainan.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustrasi konseptual pasien internasional lanjut usia yang membahas rehabilitasi dalam suasana pesisir bergaya Hainan; ini bukan fasilitas nyata, hasil klinis, atau dukungan rekomendasi.
+
+
+- **Title:** Memilih Rumah Sakit di Tiongkok: Akses di Hainan dan Lecheng
+- **Subtitle:** Pilih perawatan Hainan dengan memisahkan kota dan lokasi fasilitas, persetujuan biasa dari akses khusus Lecheng dan penelitian, transportasi pulau, penanganan darurat lanjutan, biaya, serta pemulihan terukur.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -161,13 +163,15 @@ Hanya jika dokter yang merawat setuju dan properti berada dalam radius pemantaua
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-hainan-specialties-access-and-recovery`
-- **Meta title:** Memilih Rumah Sakit Hainan: Akses Lecheng dan Pemulihan Aman
-- **Meta description:** Pilih perawatan Hainan dengan memisahkan kota dan lokasi fasilitas, persetujuan biasa dari akses khusus Lecheng dan penelitian, transportasi pulau, penanganan darurat lanjutan, biaya, serta pemulihan terukur.
 - **Primary keyword:** memilih rumah sakit di Hainan
 - **Pillar keyword:** rumah sakit Hainan untuk pasien internasional
 - **Vertical keyword:** perjalanan medis obat khusus Boao Lecheng
 - **Search intent:** perbandingan rumah sakit / perencanaan perjalanan medis Hainan
 - **Secondary keywords:** rumah sakit Boao Lecheng; obat impor khusus Hainan; wisata medis Hainan; perjalanan rumah sakit Haikou; pemulihan rumah sakit Sanya; Hainan 120
+
+
+- **Meta title:** Memilih Rumah Sakit di Tiongkok: Akses di Hainan dan Lecheng
+- **Meta description:** Pilih perawatan Hainan dengan memisahkan kota dan lokasi fasilitas, persetujuan biasa dari akses khusus Lecheng dan penelitian, transportasi pulau, penanganan darurat lanjutan, biaya, serta pemulihan terukur.
 
 ## Sumber
 

@@ -1,12 +1,14 @@
-# Radiasi untuk limfoma folikular: pengobatan terlokalisasi, paliasi dosis rendah, dan penyinaran ulang
+# Radioterapi Limfoma Folikular di Tiongkok: Tujuan dan Perencanaan
 
 ## Hero
 
-- **Title:** Radiasi untuk limfoma folikular: pengobatan terlokalisasi, paliasi dosis rendah, dan penyinaran ulang
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Folikular
-- **Subtitle:** Limfoma folikular sering sensitif terhadap radiasi, tetapi sensitivitas tidak menentukan dosis, lapangan penyinaran, atau kebutuhan obat sistemik.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Radioterapi Limfoma Folikular di Tiongkok: Tujuan dan Perencanaan
+- **Subtitle:** Pahami tujuan radioterapi limfoma folikular di Tiongkok, dari penyakit terlokalisasi hingga paliasi. Bahas stadium, dosis, dan perencanaan target.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Masa tinggal perlu mencakup konsultasi, simulasi, tinjauan rencana, pengobatan, 
 ## SEO Metadata
 
 - **Primary keyword:** terapi radiasi limfoma folikular
+
+- **Meta title:** Radioterapi Limfoma Folikular di Tiongkok: Tujuan dan Perencanaan
+- **Meta description:** Pahami tujuan radioterapi limfoma folikular di Tiongkok, dari penyakit terlokalisasi hingga paliasi. Bahas stadium, dosis, dan perencanaan target.

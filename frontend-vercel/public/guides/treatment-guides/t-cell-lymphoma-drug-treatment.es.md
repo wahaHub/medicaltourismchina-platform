@@ -1,12 +1,14 @@
-# Medicamentos para el linfoma de células T: indicaciones, seguimiento y tratamiento en casa
+# Medicamentos para linfoma de células T en China: indicaciones y vigilancia
 
 ## Hero
 
-- **Title:** Medicamentos para el linfoma de células T: indicaciones, seguimiento y tratamiento en casa
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de células T
-- **Subtitle:** Una lista cada vez más larga de nombres de fármacos es menos útil que comprender qué toma una persona, por qué se eligió y cómo se vigilará.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medicamentos para linfoma de células T en China: indicaciones y vigilancia
+- **Subtitle:** Comprenda indicaciones, controles y apoyo necesario de los medicamentos para linfoma de células T al preparar el tratamiento en China y su continuidad en casa.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -109,3 +111,6 @@ En la revisión, pida la siguiente etapa por escrito: qué medicamentos continú
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento farmacológico del linfoma de células T
+
+- **Meta title:** Medicamentos para linfoma de células T en China: indicaciones y vigilancia
+- **Meta description:** Comprenda indicaciones, controles y apoyo necesario de los medicamentos para linfoma de células T al preparar el tratamiento en China y su continuidad en casa.

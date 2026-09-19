@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Dossiers médicaux pour les soins de thalassémie en Chine : constituer un historique exploitable du diagnostic, des transfusions, du fer et du traitement
 - **Category:** Guides du parcours patient
 - **Subcategory:** Thalassémie
-- **Subtitle:** Le dossier de thalassémie le plus informatif est souvent une succession de résultats plutôt que le dernier examen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dossiers médicaux pour les soins de thalassémie en Chine : constituer un historique exploitable du diagnostic, des transfusions, du fer et du traitement
+- **Subtitle:** Préparez les soins de thalassémie en Chine avec un dossier reliant génétique, analyses de l’hémoglobine, historique transfusionnel, fer et traitements.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -156,3 +158,6 @@ Si une nouvelle fièvre, hospitalisation, transfusion ou modification médicamen
 ## SEO Metadata
 
 - **Primary keyword:** dossiers médicaux de thalassémie pour la Chine ; historique transfusionnel ; traduction du compte rendu génétique de thalassémie ; documents de surveillance du fer
+
+- **Meta title:** Dossiers médicaux pour les soins de thalassémie en Chine : constituer un historique exploitable du diagnostic, des transfusions, du fer et du traitement
+- **Meta description:** Préparez les soins de thalassémie en Chine avec un dossier reliant génétique, analyses de l’hémoglobine, historique transfusionnel, fer et traitements.

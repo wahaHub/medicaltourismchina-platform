@@ -1,12 +1,14 @@
-# Understanding a multiple myeloma report: protein, marrow, imaging, and MRD
+# Multiple Myeloma Reports: Preparing for Review in China
 
 ## Hero
 
-- **Title:** Understanding a multiple myeloma report: protein, marrow, imaging, and MRD
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Multiple Myeloma
-- **Subtitle:** A myeloma record can contain many flagged results, yet the number of arrows does not describe the disease.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Multiple Myeloma Reports: Preparing for Review in China
+- **Subtitle:** Read myeloma protein, marrow, imaging and MRD findings together, and take the source reports and clinical question to a review in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ The receiving team can then decide whether review or additional testing would ch
 ## SEO Metadata
 
 - **Primary keyword:** multiple myeloma report explained
+
+- **Meta title:** Multiple Myeloma Reports: Preparing for Review in China
+- **Meta description:** Read myeloma protein, marrow, imaging and MRD findings together, and take the source reports and clinical question to a review in China.

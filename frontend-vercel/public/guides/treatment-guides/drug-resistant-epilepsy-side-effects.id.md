@@ -1,12 +1,14 @@
-# Efek samping pengobatan epilepsi resistan obat: mengenali perubahan dan mendapatkan bantuan yang tepat
+# Perawatan Epilepsi Resistan Obat di Tiongkok: Efek Samping Pengobatan
 
 ## Hero
 
-- **Title:** Efek samping pengobatan epilepsi resistan obat: mengenali perubahan dan mendapatkan bantuan yang tepat
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Epilepsi Resistan Obat
-- **Subtitle:** Seseorang yang kejangnya membaik mungkin tetap kesulitan terjaga di kelas, mengikuti percakapan, atau berjalan aman.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Perawatan Epilepsi Resistan Obat di Tiongkok: Efek Samping Pengobatan
+- **Subtitle:** Kenali kantuk, gangguan keseimbangan, ruam, dan perubahan fungsi selama terapi epilepsi resistan obat. Siapkan pelaporan gejala kepada tim di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -153,3 +155,6 @@ Hasil praktis peninjauan keselamatan adalah rencana tindakan jelas: gejala yang 
 ## SEO Metadata
 
 - **Primary keyword:** efek samping pengobatan epilepsi resistan obat; keselamatan obat antikejang; reaksi tidak diinginkan epilepsi; tindak lanjut epilepsi di Tiongkok
+
+- **Meta title:** Perawatan Epilepsi Resistan Obat di Tiongkok: Efek Samping Pengobatan
+- **Meta description:** Kenali kantuk, gangguan keseimbangan, ruam, dan perubahan fungsi selama terapi epilepsi resistan obat. Siapkan pelaporan gejala kepada tim di Tiongkok.

@@ -1,12 +1,14 @@
-# Combien de temps dure le traitement de la sclérose en plaques ? Calendriers d’administration, réévaluation et décisions d’arrêt
+# Traitement de la SEP en Chine : doses, réévaluation et planification à long terme
 
 ## Hero
 
-- **Title:** Combien de temps dure le traitement de la sclérose en plaques ? Calendriers d’administration, réévaluation et décisions d’arrêt
 - **Category:** Guides des traitements
 - **Subcategory:** Sclérose en plaques
-- **Subtitle:** La durée d’un séjour en Chine et celle du traitement de la SEP sont deux questions différentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement de la SEP en Chine : doses, réévaluation et planification à long terme
+- **Subtitle:** Distinguez cure d’une poussée, traitement de fond et surveillance de la sclérose en plaques pour discuter des durées et décisions d’arrêt en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Une relation thérapeutique prolongée ne doit pas nécessairement faire tourner
 ## SEO Metadata
 
 - **Primary keyword:** durée du traitement de la sclérose en plaques
+
+- **Meta title:** Traitement de la SEP en Chine : doses, réévaluation et planification à long terme
+- **Meta description:** Distinguez cure d’une poussée, traitement de fond et surveillance de la sclérose en plaques pour discuter des durées et décisions d’arrêt en Chine.

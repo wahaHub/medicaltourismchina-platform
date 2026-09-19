@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** 20 Pertanyaan tentang Penyakit Sel Sabit: Obat, Transfusi, Terapi Gen, dan Perawatan di Tiongkok
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Penyakit Sel Sabit
-- **Subtitle:** Pertanyaan tentang penyakit sel sabit sering muncul dari situasi sehari-hari: anak hanya sedikit nyeri tetapi ditawari obat pencegahan; gejala memburuk setelah transfusi; atau pengumuman terapi gen membuat keluarga bertanya-tanya apakah harus segera bepergian.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** 20 Pertanyaan tentang Penyakit Sel Sabit: Obat, Transfusi, Terapi Gen, dan Perawatan di Tiongkok
+- **Subtitle:** Pahami penyakit sel sabit melalui 20 pertanyaan tentang diagnosis, hidroksiurea, transfusi, dan terapi gen untuk merencanakan perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -157,3 +159,6 @@ Tuliskan pertanyaan utama dahulu, kemudian kumpulkan bukti genotipe, obat saat i
 ## SEO Metadata
 
 - **Primary keyword:** pertanyaan yang sering diajukan pasien penyakit sel sabit
+
+- **Meta title:** 20 Pertanyaan tentang Penyakit Sel Sabit: Obat, Transfusi, Terapi Gen, dan Perawatan di Tiongkok
+- **Meta description:** Pahami penyakit sel sabit melalui 20 pertanyaan tentang diagnosis, hidroksiurea, transfusi, dan terapi gen untuk merencanakan perawatan di Tiongkok.

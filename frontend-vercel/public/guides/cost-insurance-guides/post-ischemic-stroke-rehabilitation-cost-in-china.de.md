@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Kosten der Schlaganfallrehabilitation in China: Ein aufgeschlüsseltes RMB-Budget erstellen
 - **Category:** Kosten- & Versicherungsleitfäden
 - **Subcategory:** Rehabilitation nach ischämischem Schlaganfall
-- **Subtitle:** Die Kosten einer Schlaganfallrehabilitation in China lassen sich nicht zuverlässig mit einer einzigen Monatssumme beantworten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Kosten der Schlaganfallrehabilitation in China: Ein aufgeschlüsseltes RMB-Budget erstellen
+- **Subtitle:** Schlaganfallrehabilitation in China budgetieren: Therapieeinheiten, Pflege, Schluckversorgung, Hilfsmittel und Aufenthaltsdauer mit dem Behandlungsplan abgleichen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -143,3 +145,6 @@ Eine nützliche Kosteneinschätzung zeigt den Zusammenhang zwischen Ausgaben und
 ## SEO Metadata
 
 - **Primary keyword:** Kosten der Schlaganfallrehabilitation in China
+
+- **Meta title:** Kosten der Schlaganfallrehabilitation in China: Ein aufgeschlüsseltes RMB-Budget erstellen
+- **Meta description:** Schlaganfallrehabilitation in China budgetieren: Therapieeinheiten, Pflege, Schluckversorgung, Hilfsmittel und Aufenthaltsdauer mit dem Behandlungsplan abgleichen.

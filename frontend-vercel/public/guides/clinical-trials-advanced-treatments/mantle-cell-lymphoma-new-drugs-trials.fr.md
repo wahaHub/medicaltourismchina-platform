@@ -1,12 +1,14 @@
-# Nouveaux médicaments et essais cliniques du lymphome à cellules du manteau : comprendre les nouveautés de 2026
+# Nouveaux traitements du lymphome du manteau : essais et accès en Chine
 
 ## Hero
 
-- **Title:** Nouveaux médicaments et essais cliniques du lymphome à cellules du manteau : comprendre les nouveautés de 2026
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Lymphome à cellules du manteau
-- **Subtitle:** L’annonce d’une avancée ou d’un protocole sans chimiothérapie soulève naturellement la question de savoir si vous pourriez en bénéficier.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Nouveaux traitements du lymphome du manteau : essais et accès en Chine
+- **Subtitle:** Évaluez les nouveaux traitements du lymphome du manteau selon les patients étudiés, les risques et les critères de sélection avant de vérifier l’accès en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ De nouvelles publications peuvent élargir les choix sans vous obliger à modifi
 ## SEO Metadata
 
 - **Primary keyword:** nouveaux médicaments et essais cliniques du lymphome à cellules du manteau 2026
+
+- **Meta title:** Nouveaux traitements du lymphome du manteau : essais et accès en Chine
+- **Meta description:** Évaluez les nouveaux traitements du lymphome du manteau selon les patients étudiés, les risques et les critères de sélection avant de vérifier l’accès en Chine.

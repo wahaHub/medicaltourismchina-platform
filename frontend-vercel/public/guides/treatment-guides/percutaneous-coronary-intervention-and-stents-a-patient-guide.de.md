@@ -1,15 +1,17 @@
-# 037 Perkutane Koronarintervention und Stents: Ein Patientenleitfaden
+# PCI und Koronarstents in China: Entscheidungen und Erholung
 
 ## Hero
 
-- **Title:** Perkutane Koronarintervention und Stents: Ein Patientenleitfaden
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Herz- und Gefäßversorgung
-- **Subtitle:** Klären Sie, was die PCI erreichen soll, wie die Läsion behandelt wird und wie Sie das Ergebnis nach der Heimkehr schützen.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Kardiologe erklärt einem Patienten Ballonangioplastie und die Entfaltung eines Koronarstents
+
+
+- **Title:** PCI und Koronarstents in China: Entscheidungen und Erholung
+- **Subtitle:** Verstehen Sie PCI-Nutzen, Läsions- und Stentplanung, komplexe Koronarentscheidungen, duale Plättchenhemmung, Erholung und grenzüberschreitende Nachsorge.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -154,13 +156,15 @@ Fragen Sie, wo sie liegt, wie ausgeprägt sie ist, ob die Physiologie beurteilt 
 ## SEO Metadata
 
 - **Slug:** `percutaneous-coronary-intervention-and-stents-a-patient-guide`
-- **Meta title:** PCI und Koronarstents: Entscheidungen, DAPT und Erholung
-- **Meta description:** Verstehen Sie PCI-Nutzen, Läsions- und Stentplanung, komplexe Koronarentscheidungen, duale Plättchenhemmung, Erholung und grenzüberschreitende Nachsorge.
 - **Primary keyword:** perkutane Koronarintervention und Stents
 - **Pillar keyword:** Koronarbehandlung in China
 - **Vertical keyword:** PCI-Patientenleitfaden
 - **Search intent:** Behandlungsentscheidung / Planung nach Stentimplantation
 - **Secondary keywords:** Koronarstent-Leitfaden; Angioplastie; medikamentenfreisetzender Stent; duale Thrombozytenaggregationshemmung; Erholung nach PCI; komplexe PCI
+
+
+- **Meta title:** PCI und Koronarstents in China: Entscheidungen und Erholung
+- **Meta description:** Verstehen Sie PCI-Nutzen, Läsions- und Stentplanung, komplexe Koronarentscheidungen, duale Plättchenhemmung, Erholung und grenzüberschreitende Nachsorge.
 
 ## Quellen
 

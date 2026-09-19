@@ -1,12 +1,14 @@
-# Formen und Risikogruppen des Hodgkin-Lymphoms: Was die Behandlung verändert
+# Formen und Risiken des Hodgkin-Lymphoms: Zweitmeinungen in China
 
 ## Hero
 
-- **Title:** Formen und Risikogruppen des Hodgkin-Lymphoms: Was die Behandlung verändert
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Hodgkin-Lymphom
-- **Subtitle:** Risikogruppen beim Hodgkin-Lymphom dienen vor allem der Auswahl der Behandlung.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Formen und Risiken des Hodgkin-Lymphoms: Zweitmeinungen in China
+- **Subtitle:** Hodgkin-Lymphom vor einer Zweitmeinung in China einordnen: Gewebeform, Stadium, Tumormasse, Behandlungsrisiken und Therapieansprechen getrennt betrachten.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Eine Reise ist am nützlichsten, wenn sie eine pathologische Frage, eine tatsäc
 ## SEO Metadata
 
 - **Primary keyword:** Formen und Risikogruppen des Hodgkin-Lymphoms
+
+- **Meta title:** Formen und Risiken des Hodgkin-Lymphoms: Zweitmeinungen in China
+- **Meta description:** Hodgkin-Lymphom vor einer Zweitmeinung in China einordnen: Gewebeform, Stadium, Tumormasse, Behandlungsrisiken und Therapieansprechen getrennt betrachten.

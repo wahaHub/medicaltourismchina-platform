@@ -1,15 +1,17 @@
-# 144 Signes d’alerte pendant la convalescence : interpréter le changement, pas seulement le chiffre
+# Signes d’alerte en convalescence | Quand appeler le 120 en Chine
 
 ## Hero
 
-- **Title:** Signes d’alerte pendant la convalescence : interpréter le changement, pas seulement le chiffre
 - **Category:** Guides du parcours patient
 - **Subcategory:** Reconnaissance des complications et recours urgent aux soins
-- **Subtitle:** Une température, un score de douleur ou une mesure d’oxygène n’ont de sens qu’au regard de l’état initial du patient, de l’évolution attendue et des changements associés.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un clinicien examine la mobilité, les symptômes et l’état cardiaque avec un patient en convalescence près d’un déambulateur.
+
+
+- **Title:** Signes d’alerte en convalescence | Quand appeler le 120 en Chine
+- **Subtitle:** Une température, un score de douleur ou une mesure d’oxygène n’ont de sens qu’au regard de l’état initial du patient, de l’évolution attendue et des changements associés.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -194,13 +196,15 @@ Indiquez l’intervention et sa date, le symptôme exact et son début, s’il s
 ## SEO Metadata
 
 - **Slug:** `warning-signs-during-recovery-when-to-seek-urgent-care`
-- **Meta title:** Signes d’alerte en convalescence | Quand appeler le 120 en Chine
-- **Meta description:** Reconnaître les changements de convalescence relevant de l’urgence, du jour même ou de la surveillance à domicile selon l’évolution, les capacités et les seuils propres à l’intervention.
 - **Primary keyword:** signes d’alerte de convalescence après chirurgie
 - **Pillar keyword:** voyage médical en Chine
 - **Vertical keyword:** soins urgents pendant la récupération après traitement
 - **Search intent:** reconnaissance des complications / action d’urgence
 - **Secondary keywords:** quand appeler le 120 en Chine ; signes d’alerte postopératoires ; signes d’infection de plaie ; respiration lors d’un surdosage d’opioïdes ; recours aux soins pour symptômes de convalescence
+
+
+- **Meta title:** Signes d’alerte en convalescence | Quand appeler le 120 en Chine
+- **Meta description:** Reconnaître les changements de convalescence relevant de l’urgence, du jour même ou de la surveillance à domicile selon l’évolution, les capacités et les seuils propres à l’intervention.
 
 ## Sources
 

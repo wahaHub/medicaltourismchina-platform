@@ -1,15 +1,17 @@
-# 专家门诊、特需门诊和国际医疗部详解
+# 中国专家门诊、特需门诊和国际医疗部详解
 
 ## Hero
 
-- **Title:** 专家门诊、特需门诊和国际医疗部详解
 - **Category:** 中国医疗指南
 - **Subcategory:** 门诊服务类型
-- **Subtitle:** 这些名称分别涉及医生资历、服务环境和国际支持，不能互相替代，也没有一种能保证临床判断更好。
 - **Reviewed by:** Medora Health 编辑团队；发布前需由熟悉中国医疗体系的专业人员复核
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 国际患者比较专家问诊、高端病房和国际服务台
+
+
+- **Title:** 中国专家门诊、特需门诊和国际医疗部详解
+- **Subtitle:** 这些名称分别涉及医生资历、服务环境和国际支持，不能互相替代，也没有一种能保证临床判断更好。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,13 +139,15 @@
 ## SEO Metadata
 
 - **Slug:** `expert-vip-international-clinics-china`
-- **Meta title:** 中国专家门诊、特需门诊和国际医疗部详解
-- **Meta description:** 从医生资历、语言支持、价格和包含服务等方面，比较中国专家门诊、特需门诊和国际医疗部。
 - **Primary keyword:** 中国专家门诊特需门诊国际医疗部
 - **Pillar keyword:** 国际患者在中国就医
 - **Vertical keyword:** 中国医院国际医疗部
 - **Search intent:** 信息查询 / 服务选择
 - **Secondary keywords:** 中国特需门诊；中国专家门诊；中国 VIP 医疗
+
+
+- **Meta title:** 中国专家门诊、特需门诊和国际医疗部详解
+- **Meta description:** 从医生资历、语言支持、价格和包含服务等方面，比较中国专家门诊、特需门诊和国际医疗部。
 
 ## Sources
 

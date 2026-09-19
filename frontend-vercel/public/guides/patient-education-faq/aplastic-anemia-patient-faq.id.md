@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Dua puluh pertanyaan pasien tentang anemia aplastik, pengobatan, dan perawatan di Tiongkok
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Anemia Aplastik
-- **Subtitle:** Orang dengan diagnosis anemia aplastik yang sama dapat berada pada tahap perawatan yang sangat berbeda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dua puluh pertanyaan pasien tentang anemia aplastik, pengobatan, dan perawatan di Tiongkok
+- **Subtitle:** Siapkan konsultasi anemia aplastik di Tiongkok melalui 20 pertanyaan tentang diagnosis, keparahan, pemeriksaan sumsum, pilihan terapi, dan tindak lanjut.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Demam disertai kondisi sakit bermakna, perdarahan baru serius, kesulitan bernapa
 ## SEO Metadata
 
 - **Primary keyword:** pertanyaan pasien anemia aplastik
+
+- **Meta title:** Dua puluh pertanyaan pasien tentang anemia aplastik, pengobatan, dan perawatan di Tiongkok
+- **Meta description:** Siapkan konsultasi anemia aplastik di Tiongkok melalui 20 pertanyaan tentang diagnosis, keparahan, pemeriksaan sumsum, pilihan terapi, dan tindak lanjut.

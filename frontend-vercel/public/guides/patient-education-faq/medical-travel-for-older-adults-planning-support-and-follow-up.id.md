@@ -1,15 +1,17 @@
-# Perjalanan Medis untuk Lansia: Rencanakan Berdasarkan Fungsi, Bukan Tanggal Lahir
+# Perjalanan Medis ke Tiongkok untuk Lansia: Perawatan dan Dukungan
 
 ## Hero
 
-- **Title:** Perjalanan Medis untuk Lansia: Rencanakan Berdasarkan Fungsi, Bukan Tanggal Lahir
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Kondisi Kronis & Perjalanan
-- **Subtitle:** Kerangka praktis untuk menilai fungsi, obat, risiko delirium, kemampuan pendamping, dan pemulihan sebelum lansia bepergian untuk mendapatkan perawatan.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Lansia dan pendamping meninjau rencana perjalanan medis dan pemulihan bersama klinisi
+
+
+- **Title:** Perjalanan Medis ke Tiongkok untuk Lansia: Perawatan dan Dukungan
+- **Subtitle:** Rencanakan perjalanan medis lansia berdasarkan kerapuhan, fungsi, obat, pencegahan delirium, kemampuan pendamping, dan tindak lanjut yang aman.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Jangan menetapkan tanggal pulang sebelum pemulihan diketahui. Penginapan setelah keluar dari rumah sakit, transportasi, dan tindak lanjut harus sesuai dengan fungsi baru pasien, bukan fungsi sebelum perawatan.
 
 ## Content
+
+Saat merencanakan perawatan medis di Tiongkok untuk lansia, mulailah dari fungsi sehari-hari, obat, dan dukungan yang tersedia selama perjalanan serta pemulihan. Panduan ini membantu keluarga mempersiapkan pembahasan tersebut tanpa menjadikan usia saja sebagai penentu keamanan perjalanan.
+
 
 “Lansia” bukan satu kategori risiko tunggal. Orang berusia 82 tahun yang aktif secara fisik dan mengelola obat serta keuangannya sendiri mungkin dapat bepergian lebih aman daripada orang berusia 68 tahun dengan jatuh berulang, penurunan berat badan, dan kebingungan yang berfluktuasi. Pertanyaan yang berguna bukan “Apakah pasien ini terlalu tua?” melainkan “Apa yang dapat dilakukan orang ini secara andal, apa yang rentan terhadap stres, dan dukungan apa yang tetap tersedia jika pemulihan lebih lambat dari perkiraan?”
 
@@ -122,11 +127,13 @@ Tunda dan nilai ulang ketika terdapat kebingungan baru, gejala tidak stabil, jat
 
 ## SEO Metadata
 
-- **SEO title:** Perjalanan Medis untuk Lansia: Panduan Fungsi dan Dukungan
-- **Meta description:** Rencanakan perjalanan medis lansia berdasarkan kerapuhan, fungsi, obat, pencegahan delirium, kemampuan pendamping, dan tindak lanjut yang aman.
 - **Primary keyword:** perjalanan medis untuk lansia
 - **Secondary keywords:** wisata medis lansia, penilaian perjalanan geriatri, pencegahan delirium perjalanan, pendamping perjalanan medis, pemulihan pasien lansia di luar negeri
 - **Suggested URL slug:** `/medical-travel-older-adults`
+
+
+- **Meta title:** Perjalanan Medis ke Tiongkok untuk Lansia: Perawatan dan Dukungan
+- **Meta description:** Rencanakan perjalanan medis lansia berdasarkan kerapuhan, fungsi, obat, pencegahan delirium, kemampuan pendamping, dan tindak lanjut yang aman.
 
 ## Sumber
 

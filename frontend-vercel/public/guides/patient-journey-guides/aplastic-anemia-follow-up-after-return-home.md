@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Follow-up at home after aplastic anemia treatment in China
 - **Category:** Patient Journey Guides
 - **Subcategory:** Aplastic Anemia
-- **Subtitle:** A follow-up plan needs to say where tests will be done, who will review them, who may change prescriptions, and where to go if illness develops.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Follow-up at home after aplastic anemia treatment in China
+- **Subtitle:** Arrange aplastic anemia care at home after treatment in China, including blood monitoring, medicine review, urgent symptoms and transplant-specific needs.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ At the end of each review, confirm the active prescription, next investigations,
 ## SEO Metadata
 
 - **Primary keyword:** aplastic anemia follow-up after treatment abroad
+
+- **Meta title:** Follow-up at home after aplastic anemia treatment in China
+- **Meta description:** Arrange aplastic anemia care at home after treatment in China, including blood monitoring, medicine review, urgent symptoms and transplant-specific needs.

@@ -1,15 +1,17 @@
-# 072 Penjelasan Fase Uji Klinis untuk Pasien
+# Fase Uji Klinis 0–IV: Panduan Pasien untuk Perawatan di Tiongkok
 
 ## Hero
 
-- **Title:** Penjelasan Fase Uji Klinis untuk Pasien
 - **Category:** Uji Klinis & Perawatan Lanjutan
 - **Subcategory:** Dasar-Dasar Uji Klinis
-- **Subtitle:** Gunakan fase untuk memahami pertanyaan utama penelitian, lalu baca protokol, kelompok, titik akhir, dan bukti sebelumnya yang sebenarnya sebelum menilai relevansi pribadi.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Perlu diganti: pasien dan klinisi penelitian meninjau linimasa Fase 0–IV yang jelas dengan tonggak dosis, perbandingan, persetujuan, dan pascapemasaran.
+
+
+- **Title:** Fase Uji Klinis 0–IV: Panduan Pasien untuk Perawatan di Tiongkok
+- **Subtitle:** Pahami Fase 0–IV, uji gabungan dan adaptif, eskalasi dosis, randomisasi, titik akhir, penelitian pascapemasaran, dan persetujuan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,11 +146,13 @@ Belum tentu. Produk dipasarkan, tetapi penelitian mungkin menguji populasi, peng
 ## SEO Metadata
 
 - **Slug:** `clinical-trial-phases-explained-for-patients`
-- **Meta title:** Penjelasan Fase Uji Klinis 0–IV untuk Pasien
-- **Meta description:** Pahami Fase 0–IV, uji gabungan dan adaptif, eskalasi dosis, randomisasi, titik akhir, penelitian pascapemasaran, dan persetujuan di Tiongkok.
 - **Primary keyword:** penjelasan fase uji klinis
 - **Secondary keywords:** uji klinis Fase I; uji Fase II; uji acak Fase III; penelitian Fase IV; uji klinis Tiongkok
 - **Search intent:** edukasi uji klinis / keputusan partisipasi
+
+
+- **Meta title:** Fase Uji Klinis 0–IV: Panduan Pasien untuk Perawatan di Tiongkok
+- **Meta description:** Pahami Fase 0–IV, uji gabungan dan adaptif, eskalasi dosis, randomisasi, titik akhir, penelitian pascapemasaran, dan persetujuan di Tiongkok.
 
 ## Sumber
 

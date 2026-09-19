@@ -1,12 +1,14 @@
-# Comparer les traitements du lymphome à cellules du manteau : chimio-immunothérapie, associations avec inhibiteur de BTK et autogreffe
+# Lymphome du manteau en Chine : comparer les traitements
 
 ## Hero
 
-- **Title:** Comparer les traitements du lymphome à cellules du manteau : chimio-immunothérapie, associations avec inhibiteur de BTK et autogreffe
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Lymphome à cellules du manteau
-- **Subtitle:** Recherches associées : BR ou associations ciblées ; décision de greffe dans le LCM ; comparer les traitements en Chine
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Lymphome du manteau en Chine : comparer les traitements
+- **Subtitle:** Comparez les parcours du lymphome du manteau associant chimiothérapie, inhibiteurs de BTK et autogreffe selon le contexte clinique et le suivi en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ La recommandation doit se terminer par une raison compréhensible : pourquoi ell
 ## SEO Metadata
 
 - **Primary keyword:** comparaison des traitements du lymphome à cellules du manteau
+
+- **Meta title:** Lymphome du manteau en Chine : comparer les traitements
+- **Meta description:** Comparez les parcours du lymphome du manteau associant chimiothérapie, inhibiteurs de BTK et autogreffe selon le contexte clinique et le suivi en Chine.

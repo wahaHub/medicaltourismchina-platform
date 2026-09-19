@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Dua Puluh Pertanyaan Pasien tentang Pengobatan Mieloma Multipel di Tiongkok
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Mieloma Multipel
-- **Subtitle:** Dua Puluh Pertanyaan Pasien tentang Pengobatan Mieloma Multipel di Tiongkok
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dua Puluh Pertanyaan Pasien tentang Pengobatan Mieloma Multipel di Tiongkok
+- **Subtitle:** Pahami diagnosis, urgensi pengobatan, risiko, dan tindak lanjut mieloma multipel melalui 20 pertanyaan untuk konsultasi di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ Sumber diperiksa: September 9, 2026. Artikel ini menyediakan edukasi pasien umum
 ## SEO Metadata
 
 - **Primary keyword:** pertanyaan pasien mieloma multipel; pengobatan mieloma multipel di Tiongkok
+
+- **Meta title:** Dua Puluh Pertanyaan Pasien tentang Pengobatan Mieloma Multipel di Tiongkok
+- **Meta description:** Pahami diagnosis, urgensi pengobatan, risiko, dan tindak lanjut mieloma multipel melalui 20 pertanyaan untuk konsultasi di Tiongkok.

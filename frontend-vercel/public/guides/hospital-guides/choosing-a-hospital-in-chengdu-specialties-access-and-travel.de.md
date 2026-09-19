@@ -1,15 +1,17 @@
-# 108 Ein Krankenhaus in Chengdu wählen: Drei Entfernungen, zwei Flughäfen und ein sicherer Erholungsradius
+# Krankenhauswahl in China: Versorgung und Erholung in Chengdu
 
 ## Hero
 
-- **Title:** Ein Krankenhaus in Chengdu wählen: Drei Entfernungen, zwei Flughäfen und ein sicherer Erholungsradius
 - **Category:** Krankenhausleitfäden
 - **Subcategory:** Versorgungsplanung in Chengdu
-- **Subtitle:** Ein stadtspezifischer Ansatz, um die Vorbereitung des Falls, den tatsächlichen Behandlungsstandort, die Flughafen- und Bahnanbindung sowie den Erholungsort miteinander zu verbinden.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Konzeptillustration internationaler Reisender bei der Planung medizinischer Versorgung in Chengdu; Skyline, Brücke, Krankenhaus und klinische Symbole zeigen keinen tatsächlichen Krankenhausstandort, keine reale Route oder Leistungsfähigkeit und stellen keine Empfehlung dar.
+
+
+- **Title:** Krankenhauswahl in China: Versorgung und Erholung in Chengdu
+- **Subtitle:** Wählen Sie ein Krankenhaus in Chengdu durch Prüfung von Fallbeurteilung, Arzt und Standort, Pass- und Sprachabläufen, Anbindung an Tianfu oder Shuangliu, Erholungsradius, Notfallversorgung und Weiterreise in die Höhe.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -180,13 +182,15 @@ Eine schriftliche klinische Antwort sollte geprüfte Dateien, zu beantwortende F
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-chengdu-specialties-access-and-travel`
-- **Meta title:** Ein Krankenhaus in Chengdu wählen: Standorte, Flughäfen und Erholung
-- **Meta description:** Wählen Sie ein Krankenhaus in Chengdu durch Prüfung von Fallbeurteilung, Arzt und Standort, Pass- und Sprachabläufen, Anbindung an Tianfu oder Shuangliu, Erholungsradius, Notfallversorgung und Weiterreise in die Höhe.
 - **Primary keyword:** ein Krankenhaus in Chengdu wählen
 - **Pillar keyword:** Krankenhäuser in Chengdu für internationale Patienten
 - **Vertical keyword:** Krankenhausstandorte Chengdu Flughäfen Reise
 - **Search intent:** Krankenhausvergleich / medizinische Reiseplanung Chengdu
 - **Secondary keywords:** internationales Krankenhaus Chengdu; Krankenhaustransfer Chengdu Tianfu; medizinische Reise Chengdu Shuangliu; Krankenhausstandort Chengdu; medizinischer Dolmetscher Chengdu; Chengdu 120
+
+
+- **Meta title:** Krankenhauswahl in China: Versorgung und Erholung in Chengdu
+- **Meta description:** Wählen Sie ein Krankenhaus in Chengdu durch Prüfung von Fallbeurteilung, Arzt und Standort, Pass- und Sprachabläufen, Anbindung an Tianfu oder Shuangliu, Erholungsradius, Notfallversorgung und Weiterreise in die Höhe.
 
 ## Quellen
 

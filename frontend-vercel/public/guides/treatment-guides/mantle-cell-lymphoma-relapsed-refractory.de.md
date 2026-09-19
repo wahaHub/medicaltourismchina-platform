@@ -1,12 +1,14 @@
-# Rezidiviertes oder refraktäres Mantelzelllymphom: Progression bestätigen und die nächste Behandlung planen
+# Rezidiviertes Mantelzelllymphom in China: Beurteilung und nächste Schritte
 
 ## Hero
 
-- **Title:** Rezidiviertes oder refraktäres Mantelzelllymphom: Progression bestätigen und die nächste Behandlung planen
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Mantelzelllymphom
-- **Subtitle:** Wenn ein zuvor schrumpfender Lymphknoten wieder größer wird, kann sofort der Wunsch entstehen, das nächste Medikament zu finden.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rezidiviertes Mantelzelllymphom in China: Beurteilung und nächste Schritte
+- **Subtitle:** Bei rezidiviertem Mantelzelllymphom in China neu bewerten: Progression bestätigen, BTK-Unverträglichkeit unterscheiden und Folgetherapie samt Unterstützung planen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -118,3 +120,6 @@ Sie müssen nicht jede künftige Entscheidung am Beratungstag festlegen. Sie sol
 ## SEO Metadata
 
 - **Primary keyword:** Behandlung des rezidivierten refraktären Mantelzelllymphoms
+
+- **Meta title:** Rezidiviertes Mantelzelllymphom in China: Beurteilung und nächste Schritte
+- **Meta description:** Bei rezidiviertem Mantelzelllymphom in China neu bewerten: Progression bestätigen, BTK-Unverträglichkeit unterscheiden und Folgetherapie samt Unterstützung planen.

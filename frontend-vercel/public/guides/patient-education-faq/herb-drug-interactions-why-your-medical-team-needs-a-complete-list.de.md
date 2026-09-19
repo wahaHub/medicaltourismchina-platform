@@ -1,15 +1,17 @@
-# Wechselwirkungen zwischen Heilpflanzen und Arzneimitteln: „Natürlich“ ist keine Medikamentenkategorie
+# Medikamente und pflanzliche Präparate in China: Wechselwirkungen prüfen
 
 ## Hero
 
-- **Title:** Wechselwirkungen zwischen Heilpflanzen und Arzneimitteln: „Natürlich“ ist keine Medikamentenkategorie
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Medikamente
-- **Subtitle:** Wie Sie eine eindeutig zuordenbare Produktliste erstellen, risikoreiche Kombinationen erkennen und Apothekern helfen, belegte von ungewissen Wechselwirkungen zu unterscheiden.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Arzt und Patient gleichen verschreibungspflichtige Medikamentenflaschen, eine Kräutertropfpipette, lose Pflanzenbestandteile und eine schriftliche Produktliste ab
+
+
+- **Title:** Medikamente und pflanzliche Präparate in China: Wechselwirkungen prüfen
+- **Subtitle:** Erfahren Sie, wie Heilpflanzen und Nahrungsergänzungsmittel verschriebene Medikamente beeinflussen, welche Kombinationen dringend geprüft werden müssen und welche Angaben Apotheker über den Produktnamen hinaus benötigen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -192,11 +194,13 @@ Transplantationsmedikamente, Gerinnungshemmer, Krebs- und HIV-Therapien, Medikam
 
 ## SEO Metadata
 
-- **SEO title:** Wechselwirkungen zwischen Heilpflanzen und Arzneimitteln: eine vollständige Produktliste erstellen
-- **Meta description:** Erfahren Sie, wie Heilpflanzen und Nahrungsergänzungsmittel verschriebene Medikamente beeinflussen, welche Kombinationen dringend geprüft werden müssen und welche Angaben Apotheker über den Produktnamen hinaus benötigen.
 - **Primary keyword:** Wechselwirkungen zwischen Heilpflanzen und Arzneimitteln
 - **Secondary keywords:** pflanzliche Nahrungsergänzungsmittel und Medikamente, Johanniskraut-Wechselwirkungen, Heilpflanzen vor Operationen, Nahrungsergänzungsmittel während Krebsbehandlung, Medikamentenabgleich, Sicherheit traditioneller Medizin
 - **Suggested URL slug:** `/herb-drug-interactions-complete-product-list`
+
+
+- **Meta title:** Medikamente und pflanzliche Präparate in China: Wechselwirkungen prüfen
+- **Meta description:** Erfahren Sie, wie Heilpflanzen und Nahrungsergänzungsmittel verschriebene Medikamente beeinflussen, welche Kombinationen dringend geprüft werden müssen und welche Angaben Apotheker über den Produktnamen hinaus benötigen.
 
 ## Quellen
 

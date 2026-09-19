@@ -1,12 +1,14 @@
-# Bagaimana Kebutuhan Rehabilitasi Stroke Berbeda: Penyebab, Disabilitas, dan Risiko
+# Kebutuhan Rehabilitasi Stroke: Persiapan Perawatan di Tiongkok
 
 ## Hero
 
-- **Title:** Bagaimana Kebutuhan Rehabilitasi Stroke Berbeda: Penyebab, Disabilitas, dan Risiko
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Rehabilitasi Pascastroke Iskemik
-- **Subtitle:** Orang dengan diagnosis stroke iskemik yang sama dapat memiliki kebutuhan rehabilitasi yang sangat berbeda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Kebutuhan Rehabilitasi Stroke: Persiapan Perawatan di Tiongkok
+- **Subtitle:** Kenali kebutuhan rehabilitasi stroke dari kemampuan bergerak, berbicara, menelan, dan risiko medis untuk mempersiapkan perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Penilaian risiko bernilai ketika memastikan dukungan yang sesuai. Perubahan mene
 ## SEO Metadata
 
 - **Primary keyword:** jenis dan risiko rehabilitasi stroke iskemik
+
+- **Meta title:** Kebutuhan Rehabilitasi Stroke: Persiapan Perawatan di Tiongkok
+- **Meta description:** Kenali kebutuhan rehabilitasi stroke dari kemampuan bergerak, berbicara, menelan, dan risiko medis untuk mempersiapkan perawatan di Tiongkok.

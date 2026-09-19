@@ -1,15 +1,17 @@
-# Respiratory Infection Prevention During Medical Travel: Protect the Treatment Window
+# Medical Travel to China: Preventing Respiratory Infections
 
 ## Hero
 
-- **Title:** Respiratory Infection Prevention During Medical Travel: Protect the Treatment Window
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Infection Prevention
-- **Subtitle:** A layered plan for vaccination, well-fitting masks, cleaner air, travel timing, symptom testing and rapid access to treatment before and after hospital care.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Medical travelers plan dates beside luggage and a hospital while icons show hand hygiene, masking, medicine and cough etiquette
+
+
+- **Title:** Medical Travel to China: Preventing Respiratory Infections
+- **Subtitle:** Protect a surgery or treatment trip with layered vaccination, masks, cleaner air and symptom planning, including what to do if illness begins before departure.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - High-risk patients need a pre-agreed local pathway for early antiviral assessment. Antibiotics do not prevent viral infection, and leftover antivirals should not be self-started without interaction and timing review.
 
 ## Content
+
+When arranging medical travel to China, plan infection precautions around the treatment timetable as well as the flight. Ask the receiving team how new respiratory symptoms could affect admission or treatment, and identify whom to contact if symptoms begin before departure or during the stay.
+
 
 For a healthy holiday traveler, a respiratory infection may mean several unpleasant days. For someone flying to a planned operation or between treatment cycles, the same infection can cancel anaesthesia, interrupt chemotherapy, expose an immunocompromised roommate or turn recovery into an emergency.
 
@@ -155,11 +160,13 @@ No. Antibiotics do not prevent viral respiratory infections and can cause advers
 
 ## SEO Metadata
 
-- **SEO title:** Prevent Respiratory Infection During Medical Travel
-- **Meta description:** Protect a surgery or treatment trip with layered vaccination, masks, cleaner air and symptom planning, including what to do if illness begins before departure.
 - **Primary keyword:** respiratory infection prevention during travel
 - **Secondary keywords:** medical travel infection prevention, mask on airplane, immunocompromised traveler, travel before surgery, cleaner air, respiratory symptoms before flight
 - **Suggested URL slug:** `/respiratory-infection-prevention-medical-travel`
+
+
+- **Meta title:** Medical Travel to China: Preventing Respiratory Infections
+- **Meta description:** Protect a surgery or treatment trip with layered vaccination, masks, cleaner air and symptom planning, including what to do if illness begins before departure.
 
 ## Sources
 

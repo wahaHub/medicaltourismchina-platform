@@ -1,12 +1,14 @@
-# Dolor recurrente pese al tratamiento de la enfermedad de células falciformes: reevaluación y próximos pasos
+# Dolor falciforme pese al tratamiento: reevaluación en China
 
 ## Hero
 
-- **Title:** Dolor recurrente pese al tratamiento de la enfermedad de células falciformes: reevaluación y próximos pasos
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de células falciformes
-- **Subtitle:** Tomarse en serio los medicamentos y acudir al seguimiento, pero volver al hospital con dolor, puede hacer que todos los esfuerzos parezcan inútiles.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dolor falciforme pese al tratamiento: reevaluación en China
+- **Subtitle:** Prepare una reevaluación de dolor falciforme en China con el patrón de episodios, la medicación real y las posibles causas que requieren atención específica.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -131,3 +133,6 @@ La visita debe producir un plan de actuación a corto plazo: qué problema se ab
 ## SEO Metadata
 
 - **Primary keyword:** crisis falciformes recurrentes pese al tratamiento
+
+- **Meta title:** Dolor falciforme pese al tratamiento: reevaluación en China
+- **Meta description:** Prepare una reevaluación de dolor falciforme en China con el patrón de episodios, la medicación real y las posibles causas que requieren atención específica.

@@ -1,12 +1,14 @@
-# Einen Befund zum multiplen Myelom verstehen: Protein, Knochenmark, Bildgebung und MRD
+# Befunde zum multiplen Myelom: Vorbereitung auf eine Prüfung in China
 
 ## Hero
 
-- **Title:** Einen Befund zum multiplen Myelom verstehen: Protein, Knochenmark, Bildgebung und MRD
 - **Category:** Patienteninformation & häufige Fragen
 - **Subcategory:** Multiples Myelom
-- **Subtitle:** Ein Myelombefund kann viele markierte Abweichungen enthalten, doch die Anzahl der Pfeile beschreibt die Erkrankung nicht.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Befunde zum multiplen Myelom: Vorbereitung auf eine Prüfung in China
+- **Subtitle:** Myelombefunde für eine Prüfung in China ordnen: M-Protein, freie Leichtketten, Knochenmark, FISH, Bildgebung und MRD mit dem Behandlungsverlauf verbinden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Das aufnehmende Team kann dann entscheiden, ob eine Überprüfung oder zusätzli
 ## SEO Metadata
 
 - **Primary keyword:** Befund zum multiplen Myelom erklärt
+
+- **Meta title:** Befunde zum multiplen Myelom: Vorbereitung auf eine Prüfung in China
+- **Meta description:** Myelombefunde für eine Prüfung in China ordnen: M-Protein, freie Leichtketten, Knochenmark, FISH, Bildgebung und MRD mit dem Behandlungsverlauf verbinden.

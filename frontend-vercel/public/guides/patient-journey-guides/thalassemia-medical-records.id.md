@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Rekam medis untuk perawatan talasemia di Tiongkok: susun riwayat diagnosis, transfusi, besi, dan pengobatan yang dapat digunakan
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Talasemia
-- **Subtitle:** Rekam medis talasemia yang paling informatif sering berupa rangkaian, bukan tes terbaru.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rekam medis untuk perawatan talasemia di Tiongkok: susun riwayat diagnosis, transfusi, besi, dan pengobatan yang dapat digunakan
+- **Subtitle:** Susun riwayat talasemia untuk perawatan di Tiongkok dengan laporan genetik lengkap, analisis hemoglobin, transfusi, beban besi, dan pengobatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -156,3 +158,6 @@ Jika demam baru, rawat inap, transfusi, atau perubahan obat terjadi setelah peny
 ## SEO Metadata
 
 - **Primary keyword:** rekam medis talasemia untuk Tiongkok; riwayat transfusi; terjemahan laporan genetik talasemia; dokumen pemantauan besi
+
+- **Meta title:** Rekam medis untuk perawatan talasemia di Tiongkok: susun riwayat diagnosis, transfusi, besi, dan pengobatan yang dapat digunakan
+- **Meta description:** Susun riwayat talasemia untuk perawatan di Tiongkok dengan laporan genetik lengkap, analisis hemoglobin, transfusi, beban besi, dan pengobatan.

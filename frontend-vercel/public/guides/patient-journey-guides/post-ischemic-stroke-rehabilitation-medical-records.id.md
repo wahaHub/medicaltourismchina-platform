@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Menyiapkan rekam medis untuk rehabilitasi stroke di Tiongkok: Pencitraan, obat, dan fungsi
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Rehabilitasi Pascastroke Iskemik
-- **Subtitle:** Rekam medis rehabilitasi stroke yang berguna menjelaskan kejadian, kemampuan orang tersebut saat ini, dan risiko yang masih perlu diperhatikan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Menyiapkan rekam medis untuk rehabilitasi stroke di Tiongkok: Pencitraan, obat, dan fungsi
+- **Subtitle:** Siapkan rekam rehabilitasi stroke di Tiongkok dengan urutan kejadian, pencitraan lengkap, obat, kemampuan saat ini, serta kebutuhan bantuan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ Rekam medis yang tersusun baik memungkinkan pembaca memahami tujuan dengan cepat
 ## SEO Metadata
 
 - **Primary keyword:** rekam medis untuk rehabilitasi stroke di Tiongkok
+
+- **Meta title:** Menyiapkan rekam medis untuk rehabilitasi stroke di Tiongkok: Pencitraan, obat, dan fungsi
+- **Meta description:** Siapkan rekam rehabilitasi stroke di Tiongkok dengan urutan kejadian, pencitraan lengkap, obat, kemampuan saat ini, serta kebutuhan bantuan.

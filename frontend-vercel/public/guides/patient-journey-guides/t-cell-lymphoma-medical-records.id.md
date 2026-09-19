@@ -1,12 +1,14 @@
-# Menyiapkan rekam medis limfoma sel T untuk rujukan: mendokumentasikan diagnosis dan setiap lini pengobatan
+# Rekam Medis Limfoma Sel T untuk Rujukan ke Tiongkok
 
 ## Hero
 
-- **Title:** Menyiapkan rekam medis limfoma sel T untuk rujukan: mendokumentasikan diagnosis dan setiap lini pengobatan
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Limfoma Sel T
-- **Subtitle:** Berkas rekam medis sebaiknya membantu dokter penerima menemukan informasi yang mengubah keputusan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rekam Medis Limfoma Sel T untuk Rujukan ke Tiongkok
+- **Subtitle:** Siapkan rujukan limfoma sel T ke Tiongkok dengan pertanyaan klinis, patologi yang dapat ditelusuri, dan rincian setiap lini pengobatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Rekam medis yang disiapkan dengan baik menunjukkan bagaimana diagnosis dicapai, 
 ## SEO Metadata
 
 - **Primary keyword:** rekam medis limfoma sel T untuk rujukan
+
+- **Meta title:** Rekam Medis Limfoma Sel T untuk Rujukan ke Tiongkok
+- **Meta description:** Siapkan rujukan limfoma sel T ke Tiongkok dengan pertanyaan klinis, patologi yang dapat ditelusuri, dan rincian setiap lini pengobatan.

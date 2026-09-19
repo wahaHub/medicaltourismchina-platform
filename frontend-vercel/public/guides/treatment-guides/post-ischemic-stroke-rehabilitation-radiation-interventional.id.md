@@ -1,12 +1,14 @@
-# Stimulasi, Suntikan Lokal, dan Antarmuka Otak–Komputer dalam Rehabilitasi Stroke
+# Perangkat Rehabilitasi Stroke di Tiongkok: Stimulasi dan Antarmuka Otak–Komputer
 
 ## Hero
 
-- **Title:** Stimulasi, Suntikan Lokal, dan Antarmuka Otak–Komputer dalam Rehabilitasi Stroke
 - **Category:** Panduan Perawatan
 - **Subcategory:** Rehabilitasi Pascastroke Iskemik
-- **Subtitle:** Stimulasi listrik, stimulasi magnetik, neuromodulasi, dan antarmuka otak–komputer mungkin terdengar seperti kegiatan yang berkaitan erat dalam jadwal rehabilitasi.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Perangkat Rehabilitasi Stroke di Tiongkok: Stimulasi dan Antarmuka Otak–Komputer
+- **Subtitle:** Pahami perbedaan stimulasi listrik, magnetik, dan antarmuka otak–komputer dalam rehabilitasi stroke di Tiongkok serta sasaran fungsi tiap metode.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Ketika harapan tidak terpenuhi, pertimbangkan kembali kesesuaian, metode, dan tu
 ## SEO Metadata
 
 - **Primary keyword:** stimulasi dan prosedur rehabilitasi stroke
+
+- **Meta title:** Perangkat Rehabilitasi Stroke di Tiongkok: Stimulasi dan Antarmuka Otak–Komputer
+- **Meta description:** Pahami perbedaan stimulasi listrik, magnetik, dan antarmuka otak–komputer dalam rehabilitasi stroke di Tiongkok serta sasaran fungsi tiap metode.

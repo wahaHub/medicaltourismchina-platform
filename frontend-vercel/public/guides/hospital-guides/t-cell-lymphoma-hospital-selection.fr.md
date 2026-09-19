@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choisir un hôpital en Chine pour un lymphome T : questions sur l’expertise du sous-type, l’anatomopathologie et la continuité
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Lymphome T
-- **Subtitle:** Avant de comparer les hôpitaux, décrivez l’objectif en une phrase : confirmer l’entité anatomopathologique, choisir le traitement initial, prendre en charge une rechute ou évaluer une greffe.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choisir un hôpital en Chine pour un lymphome T : questions sur l’expertise du sous-type, l’anatomopathologie et la continuité
+- **Subtitle:** Pour un lymphome T en Chine, interrogez les équipes sur l’expertise du sous-type, la relecture des tissus et la coordination des soins spécialisés.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ Si des symptômes urgents apparaissent pendant la comparaison des orientations, 
 ## SEO Metadata
 
 - **Primary keyword:** hôpital pour le lymphome T en Chine
+
+- **Meta title:** Choisir un hôpital en Chine pour un lymphome T : questions sur l’expertise du sous-type, l’anatomopathologie et la continuité
+- **Meta description:** Pour un lymphome T en Chine, interrogez les équipes sur l’expertise du sous-type, la relecture des tissus et la coordination des soins spécialisés.

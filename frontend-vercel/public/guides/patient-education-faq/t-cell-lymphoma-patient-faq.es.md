@@ -1,12 +1,14 @@
-# Veinte preguntas de los pacientes sobre el linfoma de células T: diagnóstico, tratamiento y decisiones cotidianas
+# Atención del linfoma de células T en China: 20 preguntas de pacientes
 
 ## Hero
 
-- **Title:** Veinte preguntas de los pacientes sobre el linfoma de células T: diagnóstico, tratamiento y decisiones cotidianas
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma de células T
-- **Subtitle:** Es suficiente para empezar a contactar con un especialista, pero normalmente no para definir todo el plan de tratamiento.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Atención del linfoma de células T en China: 20 preguntas de pacientes
+- **Subtitle:** Prepare su consulta de linfoma de células T en China con preguntas sobre subtipo, revisión de biopsia, marcadores y decisiones de tratamiento cotidiano.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -136,3 +138,6 @@ Lleve los informes completos de anatomía patológica y de consultas, las imáge
 ## SEO Metadata
 
 - **Primary keyword:** preguntas de los pacientes sobre el linfoma de células T
+
+- **Meta title:** Atención del linfoma de células T en China: 20 preguntas de pacientes
+- **Meta description:** Prepare su consulta de linfoma de células T en China con preguntas sobre subtipo, revisión de biopsia, marcadores y decisiones de tratamiento cotidiano.

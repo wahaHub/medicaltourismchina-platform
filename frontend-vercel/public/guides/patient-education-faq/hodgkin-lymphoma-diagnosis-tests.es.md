@@ -1,12 +1,14 @@
-# Pruebas ante la sospecha de linfoma de Hodgkin: biopsia, estadificación y preparación del tratamiento
+# Diagnóstico de linfoma de Hodgkin en China: biopsia y estadificación
 
 ## Hero
 
-- **Title:** Pruebas ante la sospecha de linfoma de Hodgkin: biopsia, estadificación y preparación del tratamiento
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma de Hodgkin
-- **Subtitle:** Un ganglio cervical agrandado, sudores nocturnos o fiebre inexplicable pueden motivar una evaluación por linfoma de Hodgkin, pero los síntomas por sí solos no permiten establecer el diagnóstico.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnóstico de linfoma de Hodgkin en China: biopsia y estadificación
+- **Subtitle:** Conozca qué aportan la biopsia, la anatomía patológica, la PET/TC y los análisis ante sospecha de linfoma de Hodgkin al preparar su evaluación en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Antes de salir de la consulta, sepa quién reunirá la conclusión diagnóstica 
 ## SEO Metadata
 
 - **Primary keyword:** pruebas para el linfoma de Hodgkin
+
+- **Meta title:** Diagnóstico de linfoma de Hodgkin en China: biopsia y estadificación
+- **Meta description:** Conozca qué aportan la biopsia, la anatomía patológica, la PET/TC y los análisis ante sospecha de linfoma de Hodgkin al preparar su evaluación en China.

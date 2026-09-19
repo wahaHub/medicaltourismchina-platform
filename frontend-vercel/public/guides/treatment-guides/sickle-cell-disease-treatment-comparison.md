@@ -1,12 +1,14 @@
-# Comparing Sickle Cell Treatments: Medicines, Transfusion, Transplantation, and Gene Therapy
+# Sickle Cell Treatment Options: Suitability and Access in China
 
 ## Hero
 
-- **Title:** Comparing Sickle Cell Treatments: Medicines, Transfusion, Transplantation, and Gene Therapy
 - **Category:** Treatment Guides
 - **Subcategory:** Sickle Cell Disease
-- **Subtitle:** Choosing between hydroxyurea, regular transfusion, donor stem cell transplantation, and gene therapy is not simply a search for the newest treatment.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sickle Cell Treatment Options: Suitability and Access in China
+- **Subtitle:** Compare sickle cell medicines, transfusions, transplantation and gene therapy evidence, separating personal suitability from actual access in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ Bring the final discussion back to ordinary life. How often will travel be neede
 ## SEO Metadata
 
 - **Primary keyword:** sickle cell disease treatment comparison
+
+- **Meta title:** Sickle Cell Treatment Options: Suitability and Access in China
+- **Meta description:** Compare sickle cell medicines, transfusions, transplantation and gene therapy evidence, separating personal suitability from actual access in China.

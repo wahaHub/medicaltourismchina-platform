@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Coûts du traitement d’Alzheimer en Chine : établir un budget pour l’évaluation, les médicaments et les soins
 - **Category:** Guides des coûts et de l’assurance
 - **Subcategory:** Maladie d’Alzheimer
-- **Subtitle:** Il n’existe pas de prix total national unique pour traiter la maladie d’Alzheimer en Chine.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Coûts du traitement d’Alzheimer en Chine : établir un budget pour l’évaluation, les médicaments et les soins
+- **Subtitle:** Préparez un budget de soins pour Alzheimer en Chine : évaluation, médicaments, surveillance et aide quotidienne, avec un devis adapté au parcours envisagé.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Demandez un budget d’évaluation initiale et de soins, puis un supplément dis
 ## SEO Metadata
 
 - **Primary keyword:** coût du traitement d’Alzheimer en Chine
+
+- **Meta title:** Coûts du traitement d’Alzheimer en Chine : établir un budget pour l’évaluation, les médicaments et les soins
+- **Meta description:** Préparez un budget de soins pour Alzheimer en Chine : évaluation, médicaments, surveillance et aide quotidienne, avec un devis adapté au parcours envisagé.

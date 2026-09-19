@@ -1,12 +1,14 @@
-# Nachsorge nach der Heimkehr von einer T-Zell-Lymphom-Behandlung: Untersuchungen, Medikamente und neue Symptome koordinieren
+# Nachsorge nach einer T-Zell-Lymphom-Behandlung in China
 
 ## Hero
 
-- **Title:** Nachsorge nach der Heimkehr von einer T-Zell-Lymphom-Behandlung: Untersuchungen, Medikamente und neue Symptome koordinieren
 - **Category:** Leitf채den zum Patientenweg
 - **Subcategory:** T-Zell-Lymphom
-- **Subtitle:** Manche Patienten kehren in vollst채ndiger Remission nach Hause zur체ck, andere nehmen weiterhin ein orales Medikament ein, und wieder andere haben gerade eine Transplantationsstation verlassen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Nachsorge nach einer T-Zell-Lymphom-Behandlung in China
+- **Subtitle:** Nach T-Zell-Lymphom-Behandlung in China die Nachsorge sichern: Abschlussbefunde, Verordnungen, Infektionshilfe und besondere Transplantationsbed체rfnisse 체bergeben.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Halten Sie das Exemplar des Patienten auf dem neuesten Stand und entfernen Sie �
 ## SEO Metadata
 
 - **Primary keyword:** T-Zell-Lymphom-Nachsorge nach der Heimkehr
+
+- **Meta title:** Nachsorge nach einer T-Zell-Lymphom-Behandlung in China
+- **Meta description:** Nach T-Zell-Lymphom-Behandlung in China die Nachsorge sichern: Abschlussbefunde, Verordnungen, Infektionshilfe und besondere Transplantationsbed체rfnisse 체bergeben.

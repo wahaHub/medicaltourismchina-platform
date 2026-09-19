@@ -1,12 +1,14 @@
-# Seguimiento tras regresar a casa después del tratamiento del linfoma de células T: coordinar pruebas, medicamentos y síntomas nuevos
+# Seguimiento del linfoma de células T después del tratamiento en China
 
 ## Hero
 
-- **Title:** Seguimiento tras regresar a casa después del tratamiento del linfoma de células T: coordinar pruebas, medicamentos y síntomas nuevos
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Linfoma de células T
-- **Subtitle:** Algunos pacientes regresan a casa en remisión completa, otros continúan con un medicamento oral y otros acaban de salir de una unidad de trasplante.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Seguimiento del linfoma de células T después del tratamiento en China
+- **Subtitle:** Prepare el seguimiento del linfoma de células T tras la atención en China con evaluación final, vigilancia de síntomas y una vía local para atención urgente.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Mantenga actualizada la copia del plan del paciente y retire las instrucciones s
 ## SEO Metadata
 
 - **Primary keyword:** seguimiento del linfoma de células T después de regresar a casa
+
+- **Meta title:** Seguimiento del linfoma de células T después del tratamiento en China
+- **Meta description:** Prepare el seguimiento del linfoma de células T tras la atención en China con evaluación final, vigilancia de síntomas y una vía local para atención urgente.

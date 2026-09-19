@@ -1,15 +1,17 @@
-# Prévenir les caillots sanguins pendant un voyage médical : relier le plan hospitalier au trajet de retour
+# Chirurgie et voyage médical en Chine : prévenir les caillots sanguins
 
 ## Hero
 
-- **Title:** Prévenir les caillots sanguins pendant un voyage médical : relier le plan hospitalier au trajet de retour
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Sécurité du voyage et de la récupération
-- **Subtitle:** Comment relier l’évaluation chirurgicale du risque thromboembolique, la mobilisation précoce, la compression et les anticoagulants aux vols longs, transferts terrestres et symptômes urgents de TVP ou d’embolie pulmonaire.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Remplacement prévu montrant un voyageur après une opération, la circulation veineuse de la jambe, la marche et les exercices des mollets, des bas de compression, une anticoagulation prescrite et les signes d’alerte urgents de TVP/EP
+
+
+- **Title:** Chirurgie et voyage médical en Chine : prévenir les caillots sanguins
+- **Subtitle:** Reliez la prévention chirurgicale des TVP et EP aux vols longs et transferts : évaluation des risques, marche, compression, anticoagulants, aptitude au voyage et symptômes d’urgence.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,11 +144,13 @@ Considérez-le comme une urgence, surtout avec douleur thoracique, évanouisseme
 
 ## SEO Metadata
 
-- **SEO title:** Prévention des caillots après chirurgie et pendant un voyage médical
-- **Meta description:** Reliez la prévention chirurgicale des TVP et EP aux vols longs et transferts : évaluation des risques, marche, compression, anticoagulants, aptitude au voyage et symptômes d’urgence.
 - **Primary keyword:** prévention caillots sanguins voyage médical
 - **Secondary keywords:** TVP après chirurgie, embolie pulmonaire voyage, prophylaxie MTEV, bas de compression avion, anticoagulant après chirurgie, aptitude avion caillot sanguin
 - **Suggested URL slug:** `/blood-clot-prevention-surgery-medical-travel-dvt-pe`
+
+
+- **Meta title:** Chirurgie et voyage médical en Chine : prévenir les caillots sanguins
+- **Meta description:** Reliez la prévention chirurgicale des TVP et EP aux vols longs et transferts : évaluation des risques, marche, compression, anticoagulants, aptitude au voyage et symptômes d’urgence.
 
 ## Sources
 

@@ -1,12 +1,14 @@
-# Membandingkan pengobatan mieloma multipel: sesuaikan dengan tahap dan riwayat resistensi
+# Pilihan Pengobatan Mieloma di Tiongkok: Perbandingan Menurut Tahap Perawatan
 
 ## Hero
 
-- **Title:** Membandingkan pengobatan mieloma multipel: sesuaikan dengan tahap dan riwayat resistensi
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Mieloma Multipel
-- **Subtitle:** Ketika dua rekomendasi mieloma berbeda, menanyakan mana yang lebih kuat mungkin tidak membantu menentukan pilihan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pilihan Pengobatan Mieloma di Tiongkok: Perbandingan Menurut Tahap Perawatan
+- **Subtitle:** Bandingkan pengobatan mieloma di Tiongkok sesuai tahap perawatan, kebugaran, dan resistansi. Nilai strategi lengkap, bukan hanya jumlah obat.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Terakhir, tanyakan kepada tiap dokter bukti atau kendala pribadi mana yang menje
 ## SEO Metadata
 
 - **Primary keyword:** perbandingan pengobatan mieloma multipel
+
+- **Meta title:** Pilihan Pengobatan Mieloma di Tiongkok: Perbandingan Menurut Tahap Perawatan
+- **Meta description:** Bandingkan pengobatan mieloma di Tiongkok sesuai tahap perawatan, kebugaran, dan resistansi. Nilai strategi lengkap, bukan hanya jumlah obat.

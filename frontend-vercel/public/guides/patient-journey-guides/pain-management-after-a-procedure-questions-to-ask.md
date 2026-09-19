@@ -1,15 +1,17 @@
-# Pain After a Procedure: Set a Function Target and a Rescue Boundary
+# Pain After a Procedure in China: Questions and Warning Signs
 
 ## Hero
 
-- **Title:** Pain After a Procedure: Set a Function Target and a Rescue Boundary
 - **Category:** Patient Journey Guides
 - **Subcategory:** Acute Pain, Medication Safety and Functional Recovery
-- **Subtitle:** Good pain care does not chase a zero on the scale. It identifies the pain pattern, supports breathing and movement, limits treatment harm and defines when the usual plan is no longer enough.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Conceptual clinician discussing a postoperative pain plan with a patient and companion; the image does not show active pain, a specific medicine or an expected recovery result.
+
+
+- **Title:** Pain After a Procedure in China: Questions and Warning Signs
+- **Subtitle:** Build a postoperative pain plan around pain pattern, functional goals, multimodal treatment, rescue rules, sedation monitoring and a safe take-home transition.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -197,13 +199,15 @@ It depends on the medicine and destination country's controlled-drug and import 
 ## SEO Metadata
 
 - **Slug:** `pain-management-after-a-procedure-questions-to-ask`
-- **Meta title:** Pain After a Procedure | Questions and Safety Checks
-- **Meta description:** Build a postoperative pain plan around pain pattern, functional goals, multimodal treatment, rescue rules, sedation monitoring and a safe take-home transition.
 - **Primary keyword:** pain management after procedure China
 - **Pillar keyword:** medical travel to China
 - **Vertical keyword:** postoperative pain plan international patient
 - **Search intent:** recovery planning / medication safety
 - **Secondary keywords:** postoperative pain China; multimodal analgesia; PCA safety; opioid safety after surgery; pain rescue plan
+
+
+- **Meta title:** Pain After a Procedure in China: Questions and Warning Signs
+- **Meta description:** Build a postoperative pain plan around pain pattern, functional goals, multimodal treatment, rescue rules, sedation monitoring and a safe take-home transition.
 
 ## Sources
 

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Dónde comienza el tratamiento del linfoma de células T: subtipo, tratamiento inicial y atención en China
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de células T
-- **Subtitle:** Después de recibir un diagnóstico de linfoma de células T, la primera pregunta útil es qué enfermedad describe ese nombre.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dónde comienza el tratamiento del linfoma de células T: subtipo, tratamiento inicial y atención en China
+- **Subtitle:** Comprenda cómo el subtipo, la estadificación y el estado general orientan el tratamiento inicial del linfoma de células T y las decisiones de atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Después de la primera conversación completa, debe poder identificar el subtipo
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento del linfoma de células T
+
+- **Meta title:** Dónde comienza el tratamiento del linfoma de células T: subtipo, tratamiento inicial y atención en China
+- **Meta description:** Comprenda cómo el subtipo, la estadificación y el estado general orientan el tratamiento inicial del linfoma de células T y las decisiones de atención en China.

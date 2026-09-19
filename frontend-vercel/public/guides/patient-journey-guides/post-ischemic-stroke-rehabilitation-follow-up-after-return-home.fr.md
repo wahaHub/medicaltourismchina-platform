@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Après une rééducation post-AVC en Chine : poursuivre les soins et la récupération à domicile
 - **Category:** Guides du parcours patient
 - **Subcategory:** Rééducation après un AVC ischémique
-- **Subtitle:** Après une période de rééducation après un AVC ischémique en Chine, rentrer chez soi implique de transférer le traitement dans un environnement différent.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Après une rééducation post-AVC en Chine : poursuivre les soins et la récupération à domicile
+- **Subtitle:** Après une rééducation post-AVC en Chine, organisez le relais médical, les médicaments, les exercices et les aménagements du domicile selon les capacités à la sortie.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,3 +146,6 @@ Si les ressources locales diffèrent du programme élaboré en Chine, expliquez 
 ## SEO Metadata
 
 - **Primary keyword:** suivi après une rééducation post-AVC en Chine
+
+- **Meta title:** Après une rééducation post-AVC en Chine : poursuivre les soins et la récupération à domicile
+- **Meta description:** Après une rééducation post-AVC en Chine, organisez le relais médical, les médicaments, les exercices et les aménagements du domicile selon les capacités à la sortie.

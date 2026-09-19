@@ -1,12 +1,14 @@
-# Relapsed or refractory multiple myeloma: confirming progression and choosing the next treatment
+# Relapsed or Refractory Myeloma in China: Treatment Review
 
 ## Hero
 
-- **Title:** Relapsed or refractory multiple myeloma: confirming progression and choosing the next treatment
 - **Category:** Treatment Guides
 - **Subcategory:** Multiple Myeloma
-- **Subtitle:** A rising monoclonal protein can make a patient fear that every available treatment has stopped working.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Relapsed or Refractory Myeloma in China: Treatment Review
+- **Subtitle:** Understand how myeloma progression and resistance guide the next decision, and verify the specific treatment and support pathway in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ The emotional impact deserves attention too. Relapse does not erase the time and
 ## SEO Metadata
 
 - **Primary keyword:** relapsed refractory multiple myeloma treatment in China
+
+- **Meta title:** Relapsed or Refractory Myeloma in China: Treatment Review
+- **Meta description:** Understand how myeloma progression and resistance guide the next decision, and verify the specific treatment and support pathway in China.

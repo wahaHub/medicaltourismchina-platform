@@ -1,12 +1,14 @@
-# Types de thalassémie et risques : pourquoi un même diagnostic général nécessite des soins différents
+# Types et risques de thalassémie : préparer des soins en Chine
 
 ## Hero
 
-- **Title:** Types de thalassémie et risques : pourquoi un même diagnostic général nécessite des soins différents
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Thalassémie
-- **Subtitle:** Une personne découvre un statut de porteur lors d'un bilan de routine.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Types et risques de thalassémie : préparer des soins en Chine
+- **Subtitle:** Distinguez formes alpha et bêta, statut de porteur et besoins transfusionnels de la thalassémie pour préparer une prise en charge adaptée en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Une synthèse médicale concise peut préciser le diagnostic génétique, le ryt
 ## SEO Metadata
 
 - **Primary keyword:** alpha-thalassémie ; bêta-thalassémie ; hémoglobinose H ; thalassémie transfusion-dépendante ; thalassémie non transfusion-dépendante
+
+- **Meta title:** Types et risques de thalassémie : préparer des soins en Chine
+- **Meta description:** Distinguez formes alpha et bêta, statut de porteur et besoins transfusionnels de la thalassémie pour préparer une prise en charge adaptée en Chine.

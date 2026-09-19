@@ -1,12 +1,14 @@
-# Después de un diagnóstico de Alzheimer: elaborar el primer plan de tratamiento
+# Iniciar el tratamiento del Alzheimer en China: el primer plan de atención
 
 ## Hero
 
-- **Title:** Después de un diagnóstico de Alzheimer: elaborar el primer plan de tratamiento
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de Alzheimer
-- **Subtitle:** Después de un diagnóstico de enfermedad de Alzheimer, es comprensible querer iniciar inmediatamente todos los tratamientos disponibles.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Iniciar el tratamiento del Alzheimer en China: el primer plan de atención
+- **Subtitle:** Prepare el primer plan de tratamiento del Alzheimer en China con revisión del diagnóstico, medicamentos actuales, síntomas y posibilidades de uso en casa.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ La familia no necesita resolver todas las decisiones futuras en la primera visit
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento inicial de la enfermedad de Alzheimer
+
+- **Meta title:** Iniciar el tratamiento del Alzheimer en China: el primer plan de atención
+- **Meta description:** Prepare el primer plan de tratamiento del Alzheimer en China con revisión del diagnóstico, medicamentos actuales, síntomas y posibilidades de uso en casa.

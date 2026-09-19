@@ -1,12 +1,14 @@
-# Traitement de la drépanocytose : prévenir les crises, protéger les organes et envisager un traitement transformateur
+# Traitement de la drépanocytose en Chine : options et accès
 
 ## Hero
 
-- **Title:** Traitement de la drépanocytose : prévenir les crises, protéger les organes et envisager un traitement transformateur
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Drépanocytose
-- **Subtitle:** Le traitement de la drépanocytose ne se limite pas à mettre fin à l’épisode douloureux actuel.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement de la drépanocytose en Chine : options et accès
+- **Subtitle:** Préparez les soins de drépanocytose en Chine en reliant génotype, crises, prévention, protection des organes et évaluation des options thérapeutiques.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -147,3 +149,6 @@ Pour un avis ou un traitement en Chine, envoyez les preuves diagnostiques, les m
 ## SEO Metadata
 
 - **Primary keyword:** guide du traitement de la drépanocytose
+
+- **Meta title:** Traitement de la drépanocytose en Chine : options et accès
+- **Meta description:** Préparez les soins de drépanocytose en Chine en reliant génotype, crises, prévention, protection des organes et évaluation des options thérapeutiques.

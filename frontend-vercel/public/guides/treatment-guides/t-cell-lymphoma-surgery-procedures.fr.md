@@ -1,12 +1,14 @@
-# Le lymphome T nécessite-t-il une chirurgie ? Biopsie, accès vasculaire, procédures intestinales et collecte de cellules
+# Interventions pour le lymphome T en Chine : objectifs et préparation
 
 ## Hero
 
-- **Title:** Le lymphome T nécessite-t-il une chirurgie ? Biopsie, accès vasculaire, procédures intestinales et collecte de cellules
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome T
-- **Subtitle:** « Le ganglion a été retiré, alors pourquoi faut-il encore un traitement ? » « Une greffe de cellules souches signifie-t-elle une opération pour remplacer la moelle ? » Plusieurs procédures peuvent être appelées chirurgie dans le langage courant, alors qu’elles ont des objectifs très différents.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Interventions pour le lymphome T en Chine : objectifs et préparation
+- **Subtitle:** Distinguez biopsie, accès vasculaire, gestes intestinaux et collecte cellulaire dans le lymphome T pour comprendre leur objectif et préparer des soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Par exemple, un contrôle de plaie chirurgicale et un rendez-vous d’hématolog
 ## SEO Metadata
 
 - **Primary keyword:** chirurgie et procédures pour le lymphome T
+
+- **Meta title:** Interventions pour le lymphome T en Chine : objectifs et préparation
+- **Meta description:** Distinguez biopsie, accès vasculaire, gestes intestinaux et collecte cellulaire dans le lymphome T pour comprendre leur objectif et préparer des soins en Chine.

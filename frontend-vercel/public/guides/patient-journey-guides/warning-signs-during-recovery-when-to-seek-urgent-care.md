@@ -1,15 +1,17 @@
-# Warning Signs During Recovery: Read the Change, Not Just the Number
+# Recovery Warning Signs | When to Call 120 in China
 
 ## Hero
 
-- **Title:** Warning Signs During Recovery: Read the Change, Not Just the Number
 - **Category:** Patient Journey Guides
 - **Subcategory:** Complication Recognition and Urgent Escalation
-- **Subtitle:** A temperature, pain score or oxygen reading is meaningful only beside the patient’s baseline, expected recovery path and accompanying changes.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** A clinician reviews mobility, symptoms and heart status with a recovering patient beside a walker.
+
+
+- **Title:** Recovery Warning Signs | When to Call 120 in China
+- **Subtitle:** A temperature, pain score or oxygen reading is meaningful only beside the patient’s baseline, expected recovery path and accompanying changes.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -193,13 +195,15 @@ State the procedure and date, exact symptom and onset, whether it is worsening, 
 ## SEO Metadata
 
 - **Slug:** `warning-signs-during-recovery-when-to-seek-urgent-care`
-- **Meta title:** Recovery Warning Signs | When to Call 120 in China
-- **Meta description:** Recognize emergency, same-day and monitor-at-home recovery changes using symptom trajectory, function and procedure-specific thresholds.
 - **Primary keyword:** recovery warning signs after surgery
 - **Pillar keyword:** medical travel to China
 - **Vertical keyword:** urgent care during treatment recovery
 - **Search intent:** complication recognition / emergency action
 - **Secondary keywords:** when to call 120 China; postoperative warning signs; wound infection signs; opioid overdose breathing; recovery symptom escalation
+
+
+- **Meta title:** Recovery Warning Signs | When to Call 120 in China
+- **Meta description:** Recognize emergency, same-day and monitor-at-home recovery changes using symptom trajectory, function and procedure-specific thresholds.
 
 ## Sources
 

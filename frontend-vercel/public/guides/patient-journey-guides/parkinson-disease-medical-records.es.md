@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Documentación médica para la atención del Parkinson en China: mostrar los síntomas, la respuesta a la medicación y los procedimientos previos
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Enfermedad de Parkinson
-- **Subtitle:** Preparar la documentación del Parkinson consiste en ayudar a un nuevo equipo a comprender cómo se desarrollaron los síntomas, qué tratamientos se probaron realmente y qué desea abordar ahora el paciente.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Documentación médica para la atención del Parkinson en China: mostrar los síntomas, la respuesta a la medicación y los procedimientos previos
+- **Subtitle:** Prepare una consulta de Parkinson en China con historia de síntomas, medicación realmente tomada, diarios, escalas y datos de procedimientos previos.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ El médico del país de origen necesita un relato trazable de lo que se encontr�
 ## SEO Metadata
 
 - **Primary keyword:** documentación médica para el tratamiento del Parkinson en China
+
+- **Meta title:** Documentación médica para la atención del Parkinson en China: mostrar los síntomas, la respuesta a la medicación y los procedimientos previos
+- **Meta description:** Prepare una consulta de Parkinson en China con historia de síntomas, medicación realmente tomada, diarios, escalas y datos de procedimientos previos.

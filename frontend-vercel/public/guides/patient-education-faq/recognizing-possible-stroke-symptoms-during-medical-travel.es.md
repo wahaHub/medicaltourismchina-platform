@@ -1,15 +1,17 @@
-# Posible ictus durante un viaje médico: utilice BE-FAST, anote la última hora en que estaba bien y llame al 120
+# Posible ictus en China: reconozca las señales y llame al 120
 
 ## Hero
 
-- **Title:** Posible ictus durante un viaje médico: utilice BE-FAST, anote la última hora en que estaba bien y llame al 120
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Síntomas y atención urgente
-- **Subtitle:** Una guía para viajeros y acompañantes sobre cómo reconocer síntomas neurológicos repentinos, conservar la cronología del tratamiento y llegar a la atención local del ictus sin desvíos.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Viajero y acompañante junto a una escena hospitalaria con símbolos de un cerebro, asimetría facial y debilidad de un brazo
+
+
+- **Title:** Posible ictus en China: reconozca las señales y llame al 120
+- **Subtitle:** Reconozca los signos BE-FAST del ictus, registre la última hora en que estaba bien, llame al 120, evite la aspirina y transmita brevemente la información de emergencia durante un viaje médico.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,13 +142,15 @@ La hora del descubrimiento es cuando se advirtió la debilidad. La última hora 
 ## SEO Metadata
 
 - **Slug:** `recognizing-possible-stroke-symptoms-during-medical-travel`
-- **Meta title:** Posible ictus durante un viaje: BE-FAST y llamada al 120
-- **Meta description:** Reconozca los signos BE-FAST del ictus, registre la última hora en que estaba bien, llame al 120, evite la aspirina y transmita brevemente la información de emergencia durante un viaje médico.
 - **Primary keyword:** síntomas de ictus durante un viaje médico
 - **Pillar keyword:** seguridad del paciente durante un viaje médico
 - **Vertical keyword:** signos de ictus BE-FAST China 120
 - **Search intent:** orientación de emergencia para pacientes
 - **Secondary keywords:** última hora en que se sabía que estaba bien; ictus en el aeropuerto; AIT durante un viaje; llamar al 120 en China; aspirina ante sospecha de ictus
+
+
+- **Meta title:** Posible ictus en China: reconozca las señales y llame al 120
+- **Meta description:** Reconozca los signos BE-FAST del ictus, registre la última hora en que estaba bien, llame al 120, evite la aspirina y transmita brevemente la información de emergencia durante un viaje médico.
 
 ## Fuentes
 

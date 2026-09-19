@@ -1,12 +1,14 @@
-# Comprendre un compte rendu de GVH : scores d’organes, anatomopathologie et résultats de greffe
+# Comptes rendus de GVH : scores d’organes et avis spécialisé en Chine
 
 ## Hero
 
-- **Title:** Comprendre un compte rendu de GVH : scores d’organes, anatomopathologie et résultats de greffe
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Maladie du greffon contre l’hôte
-- **Subtitle:** Le dossier d’un patient peut contenir un faible grade histologique sur une biopsie intestinale, un grade global de GVH aiguë plus élevé, un score pulmonaire de un et un chimérisme donneur presque complet.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Comptes rendus de GVH : scores d’organes et avis spécialisé en Chine
+- **Subtitle:** Reliez les scores d’organes, la biopsie et la chronologie de greffe dans la maladie du greffon contre l’hôte avant un avis spécialisé en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ La valeur pratique d’un compte rendu réside dans le fait qu’il soutient une
 ## SEO Metadata
 
 - **Primary keyword:** compte rendu de maladie du greffon contre l’hôte expliqué consultation Chine
+
+- **Meta title:** Comptes rendus de GVH : scores d’organes et avis spécialisé en Chine
+- **Meta description:** Reliez les scores d’organes, la biopsie et la chronologie de greffe dans la maladie du greffon contre l’hôte avant un avis spécialisé en Chine.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Sollten Sie zur Behandlung einer aplastischen Anämie nach China reisen?
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Aplastische Anämie
-- **Subtitle:** Eine hilfreiche Überweisung ins Ausland beginnt mit einer definierten klinischen Aufgabe.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sollten Sie zur Behandlung einer aplastischen Anämie nach China reisen?
+- **Subtitle:** Eine Behandlungsreise bei aplastischer Anämie nach China prüfen: möglicher Zusatznutzen, akute Risiken, Medikamentenkontinuität und Betreuung zu Hause klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -111,3 +113,6 @@ Schreiben Sie vor der verbindlichen Reiseentscheidung das ungelöste klinische P
 ## SEO Metadata
 
 - **Primary keyword:** Reise nach China zur Behandlung aplastischer Anämie
+
+- **Meta title:** Sollten Sie zur Behandlung einer aplastischen Anämie nach China reisen?
+- **Meta description:** Eine Behandlungsreise bei aplastischer Anämie nach China prüfen: möglicher Zusatznutzen, akute Risiken, Medikamentenkontinuität und Betreuung zu Hause klären.

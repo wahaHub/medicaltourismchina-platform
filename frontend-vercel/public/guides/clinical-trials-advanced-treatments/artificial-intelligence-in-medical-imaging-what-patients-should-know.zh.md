@@ -1,15 +1,17 @@
-# 医学影像中的人工智能：患者真正需要知道什么
+# 中国医学影像 AI：患者需要了解什么
 
 ## Hero
 
-- **Title:** 医学影像中的人工智能：患者真正需要知道什么
 - **Category:** 临床试验与前沿治疗
 - **Subcategory:** 影像、软件与临床决策
-- **Subtitle:** 先问软件到底做什么、谁来复核，再问它是否改变诊疗。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 放射科医生向患者解释胸部影像和 AI 辅助的概念插图；并非真实扫描或诊断输出。
+
+
+- **Title:** 中国医学影像 AI：患者需要了解什么
+- **Subtitle:** 了解影像 AI 的具体任务、产品与证据核验、假阳性和假阴性、医生复核、数据隐私，以及第二意见所需资料。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -163,11 +165,13 @@ AI 经常被称为“第二双眼睛”，但提示出现的时间、位置和�
 ## SEO Metadata
 
 - **Slug:** `artificial-intelligence-in-medical-imaging-what-patients-should-know`
-- **Meta title:** 医学影像 AI：患者实用指南
-- **Meta description:** 了解影像 AI 的具体任务、产品与证据核验、假阳性和假阴性、医生复核、数据隐私，以及第二意见所需资料。
 - **Primary keyword:** 医学影像人工智能
 - **Secondary keywords:** 放射科 AI；影像 AI 准确率；影像 AI 假阳性；NMPA 医学影像软件；AI 影像报告
 - **Search intent:** 技术解释 / 影像辅助决策
+
+
+- **Meta title:** 中国医学影像 AI：患者需要了解什么
+- **Meta description:** 了解影像 AI 的具体任务、产品与证据核验、假阳性和假阴性、医生复核、数据隐私，以及第二意见所需资料。
 
 ## Sources
 

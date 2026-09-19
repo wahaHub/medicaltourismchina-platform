@@ -1,15 +1,17 @@
-# Nutrition During Hospital Recovery: Choose the Route Before Counting Calories
+# Hospital Recovery in China: Nutrition and Fluid Planning
 
 ## Hero
 
-- **Title:** Nutrition During Hospital Recovery: Choose the Route Before Counting Calories
 - **Category:** Patient Journey Guides
 - **Subcategory:** Nutrition Screening, Feeding Routes and Fluid Balance
-- **Subtitle:** Recovery nutrition starts by asking whether swallowing is safe, the gut works and fluids need restriction. Only then do energy, protein, supplements and meal preferences become useful numbers.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Conceptual inpatient recovery discussion with water, fruit and a walking aid; it represents nutrition and hydration planning, not a prescribed diet or unrestricted fluid intake.
+
+
+- **Title:** Hospital Recovery in China: Nutrition and Fluid Planning
+- **Subtitle:** Screen nutrition risk, confirm safe swallowing and gut function, choose oral/tube/IV support, track fluid balance and plan discharge nutrition after hospital care.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -184,13 +186,15 @@ Send the safe route/texture, recent intake and weight trend, restrictions, targe
 ## SEO Metadata
 
 - **Slug:** `nutrition-and-hydration-during-hospital-recovery`
-- **Meta title:** Nutrition During Hospital Recovery | Route and Fluid Plan
-- **Meta description:** Screen nutrition risk, confirm safe swallowing and gut function, choose oral/tube/IV support, track fluid balance and plan discharge nutrition after hospital care.
 - **Primary keyword:** hospital recovery nutrition China
 - **Pillar keyword:** medical travel to China
 - **Vertical keyword:** inpatient nutrition and hydration plan
 - **Search intent:** recovery planning / nutrition support
 - **Secondary keywords:** nutrition screening China hospital; postoperative feeding; enteral nutrition China; refeeding risk; hospital fluid balance
+
+
+- **Meta title:** Hospital Recovery in China: Nutrition and Fluid Planning
+- **Meta description:** Screen nutrition risk, confirm safe swallowing and gut function, choose oral/tube/IV support, track fluid balance and plan discharge nutrition after hospital care.
 
 ## Sources
 

@@ -1,12 +1,14 @@
-# Jenis dan risiko mieloma multipel: memahami berbagai label
+# Jenis dan Risiko Mieloma Multipel: Tinjauan Spesialis di Tiongkok
 
 ## Hero
 
-- **Title:** Jenis dan risiko mieloma multipel: memahami berbagai label
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Mieloma Multipel
-- **Subtitle:** Seseorang dengan mieloma dapat disebut memiliki penyakit IgG, temuan berisiko tinggi, kelayakan transplantasi, dan kekambuhan dini.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Jenis dan Risiko Mieloma Multipel: Tinjauan Spesialis di Tiongkok
+- **Subtitle:** Bedakan jenis protein, stadium, risiko genetik, dan kelayakan transplantasi pada mieloma multipel sebelum penilaian spesialis di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ Tujuannya adalah pilihan berbasis bukti, fokus pemantauan yang jelas, dan rencan
 ## SEO Metadata
 
 - **Primary keyword:** jenis mieloma multipel dan stratifikasi risiko
+
+- **Meta title:** Jenis dan Risiko Mieloma Multipel: Tinjauan Spesialis di Tiongkok
+- **Meta description:** Bedakan jenis protein, stadium, risiko genetik, dan kelayakan transplantasi pada mieloma multipel sebelum penilaian spesialis di Tiongkok.

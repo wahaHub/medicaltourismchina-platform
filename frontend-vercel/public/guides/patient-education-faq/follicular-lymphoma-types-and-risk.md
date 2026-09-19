@@ -1,12 +1,14 @@
-# Follicular lymphoma types and risk: separating grade, stage, FLIPI and early progression
+# Follicular Lymphoma Grade and Risk: Preparing for Care in China
 
 ## Hero
 
-- **Title:** Follicular lymphoma types and risk: separating grade, stage, FLIPI and early progression
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Follicular Lymphoma
-- **Subtitle:** No single score describes every important risk in follicular lymphoma.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Follicular Lymphoma Grade and Risk: Preparing for Care in China
+- **Subtitle:** Separate follicular lymphoma grade, stage, FLIPI and early progression, and make that information useful for a consultation in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Maintain local follow-up while complex results are pending. Confirm expected rep
 ## SEO Metadata
 
 - **Primary keyword:** follicular lymphoma risk assessment
+
+- **Meta title:** Follicular Lymphoma Grade and Risk: Preparing for Care in China
+- **Meta description:** Separate follicular lymphoma grade, stage, FLIPI and early progression, and make that information useful for a consultation in China.

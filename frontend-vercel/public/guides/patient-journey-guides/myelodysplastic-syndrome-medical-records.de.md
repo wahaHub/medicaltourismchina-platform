@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Medizinische Unterlagen für eine MDS-Konsultation in China: Knochenmarkbefunde, Genetik, Transfusionen und Behandlungsverlauf
 - **Category:** Leitfäden zum Behandlungsablauf
 - **Subcategory:** Myelodysplastisches Syndrom
-- **Subtitle:** Eine Diagnosebescheinigung und das aktuelle Blutbild zeigen dem aufnehmenden Arzt, dass Sie MDS haben.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medizinische Unterlagen für eine MDS-Konsultation in China: Knochenmarkbefunde, Genetik, Transfusionen und Behandlungsverlauf
+- **Subtitle:** Unterlagen für eine MDS-Beratung in China vorbereiten: Knochenmark, Zytogenetik, Sequenzierung, Blutwerte, Transfusionen und bisherige Behandlung zusammenführen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Diese Checkliste betrifft vorhandene Unterlagen. Der aufnehmende Arzt sollte ent
 ## SEO Metadata
 
 - **Primary keyword:** medizinische Unterlagen für eine Konsultation zum myelodysplastischen Syndrom
+
+- **Meta title:** Medizinische Unterlagen für eine MDS-Konsultation in China: Knochenmarkbefunde, Genetik, Transfusionen und Behandlungsverlauf
+- **Meta description:** Unterlagen für eine MDS-Beratung in China vorbereiten: Knochenmark, Zytogenetik, Sequenzierung, Blutwerte, Transfusionen und bisherige Behandlung zusammenführen.

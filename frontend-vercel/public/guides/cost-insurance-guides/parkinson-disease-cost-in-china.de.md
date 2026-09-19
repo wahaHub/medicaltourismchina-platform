@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Kosten der Parkinsonbehandlung in China: Medikamente, DBS und Ausgaben nach der Behandlung
 - **Category:** Leitfäden zu Kosten und Versicherung
 - **Subcategory:** Parkinson-Krankheit
-- **Subtitle:** Die Kosten der Parkinsonversorgung hängen vom behandelten Problem ab.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Kosten der Parkinsonbehandlung in China: Medikamente, DBS und Ausgaben nach der Behandlung
+- **Subtitle:** Parkinson-Behandlungskosten in China prüfen: Medikamente, Eingriffe, Programmierung der Hirnstimulation, Rehabilitation und Betreuung nach dem Aufenthalt einplanen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Bewahren Sie offiziellen Krankenhausnamen, Angebotsdatum, Gültigkeitsdauer, Wä
 ## SEO Metadata
 
 - **Primary keyword:** Kosten der Behandlung der Parkinson-Krankheit in China
+
+- **Meta title:** Kosten der Parkinsonbehandlung in China: Medikamente, DBS und Ausgaben nach der Behandlung
+- **Meta description:** Parkinson-Behandlungskosten in China prüfen: Medikamente, Eingriffe, Programmierung der Hirnstimulation, Rehabilitation und Betreuung nach dem Aufenthalt einplanen.

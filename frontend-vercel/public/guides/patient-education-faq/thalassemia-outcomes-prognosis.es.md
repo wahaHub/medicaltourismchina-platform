@@ -1,12 +1,14 @@
-# ¿Cuánto puede vivir una persona con talasemia? Comprender el pronóstico, los resultados del tratamiento y la vida cotidiana
+# Pronóstico de la talasemia: preguntas para la evaluación en China
 
 ## Hero
 
-- **Title:** ¿Cuánto puede vivir una persona con talasemia? Comprender el pronóstico, los resultados del tratamiento y la vida cotidiana
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Talasemia
-- **Subtitle:** Las preguntas sobre la esperanza de vida suelen llegar antes de que la familia haya tenido tiempo de comprender el diagnóstico.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronóstico de la talasemia: preguntas para la evaluación en China
+- **Subtitle:** Comprenda cómo influyen la anemia, el hierro y la salud de los órganos en el pronóstico de la talasemia, y prepare preguntas para una evaluación en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ Una consulta productiva debe dejar al paciente una evaluación revisable: los ri
 ## SEO Metadata
 
 - **Primary keyword:** pronóstico de la talasemia; esperanza de vida con talasemia; resultados del trasplante; atención a largo plazo de la talasemia en China
+
+- **Meta title:** Pronóstico de la talasemia: preguntas para la evaluación en China
+- **Meta description:** Comprenda cómo influyen la anemia, el hierro y la salud de los órganos en el pronóstico de la talasemia, y prepare preguntas para una evaluación en China.

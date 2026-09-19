@@ -1,12 +1,14 @@
-# Berapa lama pengobatan GVHD berlangsung? Merencanakan rawat inap, penilaian respons, pengurangan dosis, dan perjalanan pulang
+# Pengobatan GVHD di Tiongkok: Waktu Rawat Inap, Evaluasi, dan Perjalanan
 
 ## Hero
 
-- **Title:** Berapa lama pengobatan GVHD berlangsung? Merencanakan rawat inap, penilaian respons, pengurangan dosis, dan perjalanan pulang
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Graft-versus-Host
-- **Subtitle:** Lama kunjungan ke Tiongkok dan lama pengobatan penyakit graft-versus-host merupakan pertanyaan yang berbeda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan GVHD di Tiongkok: Waktu Rawat Inap, Evaluasi, dan Perjalanan
+- **Subtitle:** Rencanakan perawatan GVHD di Tiongkok berdasarkan organ, respons, penurunan dosis, dan kesiapan pulang. Bedakan lama kunjungan dari durasi pengobatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Pembahasan durasi yang produktif menghasilkan tiga jawaban praktis: tujuan fase 
 ## SEO Metadata
 
 - **Primary keyword:** durasi pengobatan GVHD dan rawat inap di Tiongkok
+
+- **Meta title:** Pengobatan GVHD di Tiongkok: Waktu Rawat Inap, Evaluasi, dan Perjalanan
+- **Meta description:** Rencanakan perawatan GVHD di Tiongkok berdasarkan organ, respons, penurunan dosis, dan kesiapan pulang. Bedakan lama kunjungan dari durasi pengobatan.

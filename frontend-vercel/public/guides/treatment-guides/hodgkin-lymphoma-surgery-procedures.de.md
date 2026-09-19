@@ -1,12 +1,14 @@
-# Muss ein Hodgkin-Lymphom operiert werden? Biopsie, venöser Zugang und Stammzellentnahme
+# Eingriffe beim Hodgkin-Lymphom in China: Biopsie und Zellsammlung
 
 ## Hero
 
-- **Title:** Muss ein Hodgkin-Lymphom operiert werden? Biopsie, venöser Zugang und Stammzellentnahme
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Hodgkin-Lymphom
-- **Subtitle:** Das klassische Hodgkin-Lymphom wird im Allgemeinen mit systemischen Medikamenten behandelt, manchmal in Kombination mit einer Strahlentherapie.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Eingriffe beim Hodgkin-Lymphom in China: Biopsie und Zellsammlung
+- **Subtitle:** Eingriffe beim Hodgkin-Lymphom in China vorbereiten: Biopsie, Anästhesie, Wundkontrolle, venöser Zugang und Stammzellsammlung als unterschiedliche Schritte verstehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ Fragen Sie den Arzt, welches Problem der Eingriff gelöst hat und was noch offen
 ## SEO Metadata
 
 - **Primary keyword:** Operationen und Eingriffe beim Hodgkin-Lymphom
+
+- **Meta title:** Eingriffe beim Hodgkin-Lymphom in China: Biopsie und Zellsammlung
+- **Meta description:** Eingriffe beim Hodgkin-Lymphom in China vorbereiten: Biopsie, Anästhesie, Wundkontrolle, venöser Zugang und Stammzellsammlung als unterschiedliche Schritte verstehen.

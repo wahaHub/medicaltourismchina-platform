@@ -1,12 +1,14 @@
-# How long aplastic anemia treatment takes: admission, response, tapering, and return home
+# Aplastic Anemia Treatment in China: Time and Travel Planning
 
 ## Hero
 
-- **Title:** How long aplastic anemia treatment takes: admission, response, tapering, and return home
 - **Category:** Treatment Guides
 - **Subcategory:** Aplastic Anemia
-- **Subtitle:** How long treatment takes can mean the end of an ATG admission, freedom from transfusions, stopping medicines, or returning to another city.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Aplastic Anemia Treatment in China: Time and Travel Planning
+- **Subtitle:** Plan aplastic anemia care in China around admission, response assessment, tapering and return travel rather than a single promised treatment duration.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ At each review, ask what change the team most hopes to see by the next assessmen
 ## SEO Metadata
 
 - **Primary keyword:** aplastic anemia treatment duration
+
+- **Meta title:** Aplastic Anemia Treatment in China: Time and Travel Planning
+- **Meta description:** Plan aplastic anemia care in China around admission, response assessment, tapering and return travel rather than a single promised treatment duration.

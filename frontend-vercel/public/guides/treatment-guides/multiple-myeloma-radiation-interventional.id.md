@@ -1,12 +1,14 @@
-# Terapi radiasi untuk mieloma multipel: mengobati lesi nyeri dan melindungi fungsi
+# Radioterapi Mieloma di Tiongkok: Peredaan Nyeri dan Fungsi
 
 ## Hero
 
-- **Title:** Terapi radiasi untuk mieloma multipel: mengobati lesi nyeri dan melindungi fungsi
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Mieloma Multipel
-- **Subtitle:** Rekomendasi menyinari satu lokasi yang nyeri belum tentu berarti pengobatan mieloma sistemik pasien telah gagal.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Radioterapi Mieloma di Tiongkok: Peredaan Nyeri dan Fungsi
+- **Subtitle:** Pahami radioterapi mieloma di Tiongkok untuk nyeri dan perlindungan fungsi. Bedakan tujuan lokal dari terapi sistemik serta kenali gejala mendesak.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Sebelum perjalanan pulang, tinjau pengendalian nyeri, perpindahan posisi yang am
 ## SEO Metadata
 
 - **Primary keyword:** terapi radiasi mieloma multipel di Tiongkok
+
+- **Meta title:** Radioterapi Mieloma di Tiongkok: Peredaan Nyeri dan Fungsi
+- **Meta description:** Pahami radioterapi mieloma di Tiongkok untuk nyeri dan perlindungan fungsi. Bedakan tujuan lokal dari terapi sistemik serta kenali gejala mendesak.

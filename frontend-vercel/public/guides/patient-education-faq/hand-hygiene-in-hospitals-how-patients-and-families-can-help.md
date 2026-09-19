@@ -1,15 +1,17 @@
-# Hospital Hand Hygiene: Patients Can Ask Without Policing the Ward
+# Hospital Hand Hygiene in China: A Patient and Family Guide
 
 ## Hero
 
-- **Title:** Hospital Hand Hygiene: Patients Can Ask Without Policing the Ward
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Infection Prevention
-- **Subtitle:** A practical guide to the clinical moments that matter, sanitizer versus soap and water, glove use, visitor habits and respectful ways to speak up.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Hospital nurse explains clean-hand precautions to a patient beside a prominent handwashing symbol
+
+
+- **Title:** Hospital Hand Hygiene in China: A Patient and Family Guide
+- **Subtitle:** Learn when hospital staff, patients and visitors should clean their hands, when sanitizer or soap is preferred, why gloves are not enough and how to speak up respectfully.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -160,11 +162,13 @@ Follow the posted contact precautions and staff instructions for gown, gloves an
 
 ## SEO Metadata
 
-- **SEO title:** Hospital Hand Hygiene: A Guide for Patients and Families
-- **Meta description:** Learn when hospital staff, patients and visitors should clean their hands, when sanitizer or soap is preferred, why gloves are not enough and how to speak up respectfully.
 - **Primary keyword:** hand hygiene in hospitals
 - **Secondary keywords:** five moments hand hygiene, sanitizer versus soap hospital, gloves and hand hygiene, patient infection prevention, C difficile handwashing, ask doctor to wash hands
 - **Suggested URL slug:** `/hospital-hand-hygiene-patients-families`
+
+
+- **Meta title:** Hospital Hand Hygiene in China: A Patient and Family Guide
+- **Meta description:** Learn when hospital staff, patients and visitors should clean their hands, when sanitizer or soap is preferred, why gloves are not enough and how to speak up respectfully.
 
 ## Sources
 

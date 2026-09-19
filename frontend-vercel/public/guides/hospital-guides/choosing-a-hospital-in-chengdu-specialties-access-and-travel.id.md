@@ -1,15 +1,17 @@
-# 108 Memilih Rumah Sakit di Chengdu: Tiga Jarak, Dua Bandara, dan Radius Pemulihan yang Aman
+# Memilih Rumah Sakit di Tiongkok: Perawatan dan Pemulihan di Chengdu
 
 ## Hero
 
-- **Title:** Memilih Rumah Sakit di Chengdu: Tiga Jarak, Dua Bandara, dan Radius Pemulihan yang Aman
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Perencanaan Perawatan di Chengdu
-- **Subtitle:** Cara khusus untuk kota ini dalam menghubungkan kesiapan kasus, lokasi rumah sakit tempat pengobatan sebenarnya, akses bandara dan kereta, serta tempat pemulihan.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustrasi konseptual pelancong internasional yang merencanakan perawatan medis di Chengdu; cakrawala kota, jembatan, rumah sakit, dan ikon klinis tidak menggambarkan kompleks rumah sakit, rute, kemampuan, atau dukungan yang nyata.
+
+
+- **Title:** Memilih Rumah Sakit di Tiongkok: Perawatan dan Pemulihan di Chengdu
+- **Subtitle:** Pilih rumah sakit Chengdu dengan memverifikasi tinjauan kasus, dokter dan lokasi, alur paspor dan bahasa, akses Tianfu atau Shuangliu, radius pemulihan, perawatan darurat, dan perjalanan lanjutan ke ketinggian.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -180,13 +182,15 @@ Respons klinis tertulis harus mengidentifikasi berkas yang ditinjau, pertanyaan 
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-chengdu-specialties-access-and-travel`
-- **Meta title:** Memilih Rumah Sakit Chengdu: Lokasi, Bandara, dan Pemulihan
-- **Meta description:** Pilih rumah sakit Chengdu dengan memverifikasi tinjauan kasus, dokter dan lokasi, alur paspor dan bahasa, akses Tianfu atau Shuangliu, radius pemulihan, perawatan darurat, dan perjalanan lanjutan ke ketinggian.
 - **Primary keyword:** memilih rumah sakit di Chengdu
 - **Pillar keyword:** rumah sakit Chengdu untuk pasien internasional
 - **Vertical keyword:** lokasi rumah sakit Chengdu bandara perjalanan
 - **Search intent:** perbandingan rumah sakit / perencanaan perjalanan medis Chengdu
 - **Secondary keywords:** rumah sakit internasional Chengdu; transfer rumah sakit Chengdu Tianfu; perjalanan medis Chengdu Shuangliu; lokasi rumah sakit Chengdu; penerjemah lisan medis Chengdu; Chengdu 120
+
+
+- **Meta title:** Memilih Rumah Sakit di Tiongkok: Perawatan dan Pemulihan di Chengdu
+- **Meta description:** Pilih rumah sakit Chengdu dengan memverifikasi tinjauan kasus, dokter dan lokasi, alur paspor dan bahasa, akses Tianfu atau Shuangliu, radius pemulihan, perawatan darurat, dan perjalanan lanjutan ke ketinggian.
 
 ## Sumber
 

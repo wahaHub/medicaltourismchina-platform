@@ -1,15 +1,17 @@
-# 073 Kelayakan Uji Klinis: Mengapa Pasien Dapat atau Tidak Dapat Memenuhi Syarat
+# Kelayakan Uji Klinis di Tiongkok: Penjelasan Skrining
 
 ## Hero
 
-- **Title:** Kelayakan Uji Klinis: Mengapa Pasien Dapat atau Tidak Dapat Memenuhi Syarat
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Skrining dan Pendaftaran Uji Klinis
-- **Subtitle:** Panduan praktis tentang praskrining, kriteria protokol, rentang waktu skrining, kegagalan skrining, serta perbedaan antara kelayakan dan pendaftaran yang sesungguhnya.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Perlu diganti: seorang dokter peneliti dan pasien meninjau pemeriksaan kelayakan patologi, biomarker, riwayat pengobatan, dan laboratorium pada papan skrining uji klinis yang terstruktur.
+
+
+- **Title:** Kelayakan Uji Klinis di Tiongkok: Penjelasan Skrining
+- **Subtitle:** Pahami praskrining uji klinis, kriteria inklusi dan eksklusi, pemeriksaan biomarker dan masa jeda, kegagalan skrining, ketersediaan tempat, serta hambatan pasien internasional.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,11 +139,13 @@ Pembayaran tidak menggantikan kelayakan, tinjauan etik, atau ketersediaan kohort
 ## SEO Metadata
 
 - **Slug:** `clinical-trial-eligibility-why-patients-may-or-may-not-qualify`
-- **Meta title:** Penjelasan Kelayakan Uji Klinis dan Kegagalan Skrining
-- **Meta description:** Pahami praskrining uji klinis, kriteria inklusi dan eksklusi, pemeriksaan biomarker dan masa jeda, kegagalan skrining, ketersediaan tempat, serta hambatan pasien internasional.
 - **Primary keyword:** kelayakan uji klinis
 - **Secondary keywords:** kriteria inklusi eksklusi; skrining uji klinis; biomarker uji klinis kanker; kegagalan skrining uji klinis; uji klinis pasien internasional
 - **Search intent:** skrining uji klinis / keputusan partisipasi berdasarkan informasi
+
+
+- **Meta title:** Kelayakan Uji Klinis di Tiongkok: Penjelasan Skrining
+- **Meta description:** Pahami praskrining uji klinis, kriteria inklusi dan eksklusi, pemeriksaan biomarker dan masa jeda, kegagalan skrining, ketersediaan tempat, serta hambatan pasien internasional.
 
 ## Sumber
 

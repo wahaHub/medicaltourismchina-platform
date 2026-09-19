@@ -1,15 +1,17 @@
-# Pemeriksaan Darah Sebelum Pengobatan: Mengapa Diulang, Perlukah Berpuasa, dan Bagaimana Hasilnya Mengubah Rencana
+# Pemeriksaan Darah di Tiongkok: Puasa, Pengulangan Tes, dan Hasil
 
 ## Hero
 
-- **Title:** Pemeriksaan Darah Sebelum Pengobatan: Mengapa Diulang, Perlukah Berpuasa, dan Bagaimana Hasilnya Mengubah Rencana
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Pemeriksaan & Diagnosis
-- **Subtitle:** Panduan dengan bahasa sederhana tentang panel darah sebelum pengobatan, persiapan, laporan internasional, pengambilan darah ulang, dan keputusan di balik hasil abnormal.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Gambar pengganti yang direncanakan menampilkan sampel darah berlabel, laporan laboratorium, daftar obat, dan daftar periksa keselamatan sebelum pengobatan
+
+
+- **Title:** Pemeriksaan Darah di Tiongkok: Puasa, Pengulangan Tes, dan Hasil
+- **Subtitle:** Pahami CBC, pemeriksaan kimia dan pembekuan, puasa dan obat, penggunaan kembali laporan luar negeri, pengambilan darah ulang, serta perubahan akibat hasil abnormal.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -173,13 +175,15 @@ Sel mungkin pecah selama pengambilan/penanganan, atau darah dalam tabung beranti
 ## SEO Metadata
 
 - **Slug:** `blood-tests-before-treatment-common-questions-answered`
-- **Meta title:** Pemeriksaan Darah Sebelum Pengobatan: Puasa, Pengulangan, dan Hasil
-- **Meta description:** Pahami CBC, pemeriksaan kimia dan pembekuan, puasa dan obat, penggunaan kembali laporan luar negeri, pengambilan darah ulang, serta perubahan akibat hasil abnormal.
 - **Primary keyword:** pemeriksaan darah sebelum pengobatan
 - **Pillar keyword:** pemeriksaan sebelum pengobatan medis di Tiongkok
 - **Vertical keyword:** puasa dan pemeriksaan darah ulang
 - **Search intent:** persiapan pemeriksaan sebelum pengobatan
 - **Secondary keywords:** CBC sebelum pengobatan; pemeriksaan darah ulang rumah sakit Tiongkok; obat pemeriksaan darah puasa; hasil laboratorium abnormal; satuan laporan laboratorium internasional
+
+
+- **Meta title:** Pemeriksaan Darah di Tiongkok: Puasa, Pengulangan Tes, dan Hasil
+- **Meta description:** Pahami CBC, pemeriksaan kimia dan pembekuan, puasa dan obat, penggunaan kembali laporan luar negeri, pengambilan darah ulang, serta perubahan akibat hasil abnormal.
 
 ## Sumber
 

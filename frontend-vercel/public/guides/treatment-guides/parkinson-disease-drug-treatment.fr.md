@@ -1,12 +1,14 @@
-# Médicaments de la maladie de Parkinson : lévodopa, traitements complémentaires et administration continue
+# Médicaments de Parkinson en Chine : lévodopa et autres options
 
 ## Hero
 
-- **Title:** Médicaments de la maladie de Parkinson : lévodopa, traitements complémentaires et administration continue
 - **Category:** Guides des traitements
 - **Subcategory:** Maladie de Parkinson
-- **Subtitle:** Une liste d’ordonnances qui s’allonge ne signifie pas nécessairement que la maladie de Parkinson est devenue incontrôlable.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Médicaments de Parkinson en Chine : lévodopa et autres options
+- **Subtitle:** Comprenez les formulations de lévodopa, les traitements complémentaires et l’administration continue pour discuter du bénéfice et de la surveillance en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Construisez le budget à long terme autour de l’utilisation prévue, des bilan
 ## SEO Metadata
 
 - **Primary keyword:** traitement médicamenteux de la maladie de Parkinson
+
+- **Meta title:** Médicaments de Parkinson en Chine : lévodopa et autres options
+- **Meta description:** Comprenez les formulations de lévodopa, les traitements complémentaires et l’administration continue pour discuter du bénéfice et de la surveillance en Chine.

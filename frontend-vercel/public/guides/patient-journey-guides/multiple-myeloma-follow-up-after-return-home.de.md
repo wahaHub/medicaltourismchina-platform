@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Myelom-Nachsorge nach Behandlung in China: Untersuchungen, Verordnungen und weitere Versorgung zu Hause
 - **Category:** Ratgeber zur Patientenreise
 - **Subcategory:** Multiples Myelom
-- **Subtitle:** Mit dem Verlassen des behandelnden Krankenhauses endet die Myelomversorgung in der Regel nicht.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Myelom-Nachsorge nach Behandlung in China: Untersuchungen, Verordnungen und weitere Versorgung zu Hause
+- **Subtitle:** Myelom-Nachsorge nach Behandlung in China organisieren: vergleichbare Laborwerte, Verordnungen, Nieren- und Knochenversorgung sowie Infektionsvorbeugung abstimmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Planen Sie örtliche Verordnungen, Untersuchungen, unterstützende Versorgung un
 ## SEO Metadata
 
 - **Primary keyword:** Nachsorge beim multiplen Myelom nach Behandlung in China
+
+- **Meta title:** Myelom-Nachsorge nach Behandlung in China: Untersuchungen, Verordnungen und weitere Versorgung zu Hause
+- **Meta description:** Myelom-Nachsorge nach Behandlung in China organisieren: vergleichbare Laborwerte, Verordnungen, Nieren- und Knochenversorgung sowie Infektionsvorbeugung abstimmen.

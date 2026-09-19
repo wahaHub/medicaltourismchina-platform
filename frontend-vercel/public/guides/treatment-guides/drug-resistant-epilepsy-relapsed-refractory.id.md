@@ -1,12 +1,14 @@
-# Ketika kejang kembali pada epilepsi resistan obat: peninjauan obat, kekambuhan pascaoperasi, dan penilaian ulang
+# Kejang Berulang pada Epilepsi Resistan Obat: Tinjauan di Tiongkok
 
 ## Hero
 
-- **Title:** Ketika kejang kembali pada epilepsi resistan obat: peninjauan obat, kekambuhan pascaoperasi, dan penilaian ulang
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Epilepsi Resistan Obat
-- **Subtitle:** Kembalinya kejang yang familier setelah masa lebih tenang dapat sangat mengecilkan hati.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Kejang Berulang pada Epilepsi Resistan Obat: Tinjauan di Tiongkok
+- **Subtitle:** Siapkan tinjauan kejang berulang pada epilepsi resistan obat di Tiongkok. Catat pola kejadian, riwayat obat, operasi, dan kebutuhan pertolongan segera.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,3 +152,6 @@ Penilaian ulang setelah kekambuhan bertujuan menemukan faktor yang dapat diubah 
 ## SEO Metadata
 
 - **Primary keyword:** epilepsi resistan obat berulang; kejang kembali setelah bedah epilepsi; kejang terobosan; penilaian ulang epilepsi di Tiongkok
+
+- **Meta title:** Kejang Berulang pada Epilepsi Resistan Obat: Tinjauan di Tiongkok
+- **Meta description:** Siapkan tinjauan kejang berulang pada epilepsi resistan obat di Tiongkok. Catat pola kejadian, riwayat obat, operasi, dan kebutuhan pertolongan segera.

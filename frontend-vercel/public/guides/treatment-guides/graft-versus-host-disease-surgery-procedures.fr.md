@@ -1,12 +1,14 @@
-# La GVHD nécessite-t-elle une opération ? Comprendre les biopsies, la dilatation, les interventions oculaires et les accès pour le traitement
+# Interventions pour la GVH en Chine : biopsies, dilatation et soins oculaires
 
 ## Hero
 
-- **Title:** La GVHD nécessite-t-elle une opération ? Comprendre les biopsies, la dilatation, les interventions oculaires et les accès pour le traitement
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Maladie du greffon contre l’hôte
-- **Subtitle:** Apprendre qu’un geste est nécessaire après une greffe peut sembler alarmant.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Interventions pour la GVH en Chine : biopsies, dilatation et soins oculaires
+- **Subtitle:** Comprenez les objectifs des biopsies, dilatations et gestes oculaires dans la maladie du greffon contre l’hôte avant une prise en charge spécialisée en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Le dossier de sortie doit expliquer ce qui a été réalisé, ce qui a été con
 ## SEO Metadata
 
 - **Primary keyword:** gestes et chirurgie pour la GVHD en Chine
+
+- **Meta title:** Interventions pour la GVH en Chine : biopsies, dilatation et soins oculaires
+- **Meta description:** Comprenez les objectifs des biopsies, dilatations et gestes oculaires dans la maladie du greffon contre l’hôte avant une prise en charge spécialisée en Chine.

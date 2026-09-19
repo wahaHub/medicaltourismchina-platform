@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Graft-versus-Host-Erkrankung behandeln: Versorgung akuter und chronischer GVHD in China
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Graft-versus-Host-Erkrankung
-- **Subtitle:** Nach einer allogenen Stammzelltransplantation können ein neuer Ausschlag, Durchfall, trockene Augen oder eingeschränkte Beweglichkeit Anlass zur Abklärung einer Graft-versus-Host-Erkrankung geben, meist GVHD genannt.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Graft-versus-Host-Erkrankung behandeln: Versorgung akuter und chronischer GVHD in China
+- **Subtitle:** Akute und chronische GVHD in China behandeln lassen: Organbefall, Schweregrad, Medikamente, genaue Indikationen und unterstützende Versorgung zusammen beurteilen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Ohne individuellen Plan und formalen Krankenhauskostenvoranschlag lässt sich ke
 ## SEO Metadata
 
 - **Primary keyword:** Behandlung der Graft-versus-Host-Erkrankung in China
+
+- **Meta title:** Graft-versus-Host-Erkrankung behandeln: Versorgung akuter und chronischer GVHD in China
+- **Meta description:** Akute und chronische GVHD in China behandeln lassen: Organbefall, Schweregrad, Medikamente, genaue Indikationen und unterstützende Versorgung zusammen beurteilen.

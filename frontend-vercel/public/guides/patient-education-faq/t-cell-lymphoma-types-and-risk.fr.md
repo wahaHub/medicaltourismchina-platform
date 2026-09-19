@@ -1,12 +1,14 @@
-# Types de lymphome T : pourquoi le sous-type, le stade et le risque décrivent des choses différentes
+# Types et risques du lymphome T : préparer des soins en Chine
 
 ## Hero
 
-- **Title:** Types de lymphome T : pourquoi le sous-type, le stade et le risque décrivent des choses différentes
 - **Category:** Éducation des patients et questions fréquentes
 - **Subcategory:** Lymphome T
-- **Subtitle:** Une personne atteinte d’un lymphome T peut recevoir un traitement ciblant la peau tandis qu’une autre a besoin d’une chimiothérapie systémique.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Types et risques du lymphome T : préparer des soins en Chine
+- **Subtitle:** Distinguez les sous-types de lymphome T, leur stade et leurs facteurs de risque afin de préparer un avis spécialisé et un parcours de soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Une réponse utile pourrait identifier la nécessité d’une relecture anatomop
 ## SEO Metadata
 
 - **Primary keyword:** types de lymphome T et groupes de risque
+
+- **Meta title:** Types et risques du lymphome T : préparer des soins en Chine
+- **Meta description:** Distinguez les sous-types de lymphome T, leur stade et leurs facteurs de risque afin de préparer un avis spécialisé et un parcours de soins en Chine.

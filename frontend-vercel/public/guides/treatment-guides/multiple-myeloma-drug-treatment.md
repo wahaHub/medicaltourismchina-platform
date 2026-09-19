@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Multiple myeloma medicines: understanding the prescription and arranging treatment in China
 - **Category:** Treatment Guides
 - **Subcategory:** Multiple Myeloma
-- **Subtitle:** A myeloma prescription often contains several anticancer medicines, preventive medicines and a steroid, with different treatment days for each.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Multiple myeloma medicines: understanding the prescription and arranging treatment in China
+- **Subtitle:** Understand myeloma medicine combinations and prescription details, with questions about supply, monitoring and the complete treatment course in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Ask for a written calendar, the tests needed before each decision, and a contact
 ## SEO Metadata
 
 - **Primary keyword:** multiple myeloma drug treatment in China
+
+- **Meta title:** Multiple myeloma medicines: understanding the prescription and arranging treatment in China
+- **Meta description:** Understand myeloma medicine combinations and prescription details, with questions about supply, monitoring and the complete treatment course in China.

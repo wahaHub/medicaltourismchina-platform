@@ -1,15 +1,17 @@
-# 070 Sicherheit chinesischer Kräutermedizin: Wechselwirkungen und Qualitätsfragen
+# Chinesische Kräutermedizin in China: Sicherheit und Wechselwirkungen
 
 ## Hero
 
-- **Title:** Sicherheit chinesischer Kräutermedizin: Wechselwirkungen und Qualitätsfragen
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Traditionelle Chinesische Medizin & integrative Versorgung
-- **Subtitle:** Identifizieren Sie das genaue Produkt, verfolgen Sie seine Charge, prüfen Sie die gesamte Rezeptur gegen die gesamte Medikamentenliste und überwachen Sie ein definiertes klinisches Ziel.
 - **Reviewed by:** Medora Health Redaktion
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Eine ärztliche Fachkraft und ein älterer Patient vergleichen verschreibungspflichtige Medikamente, Kapseln und pflanzliche Inhaltsstoffe auf einer gemeinsamen Liste zur Arzneimittelsicherheit.
+
+
+- **Title:** Chinesische Kräutermedizin in China: Sicherheit und Wechselwirkungen
+- **Subtitle:** Kräuterprodukttyp bestimmen, Chargenqualität verfolgen, Wechselwirkungen prüfen, Überwachung planen, Nebenwirkungen melden und Reisebeschränkungen prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -161,11 +163,13 @@ Die Regeln unterscheiden sich nach Inhaltsstoff und Land. Originaletiketten, ein
 ## SEO Metadata
 
 - **Slug:** `chinese-herbal-medicine-safety-interactions-and-quality-questions`
-- **Meta title:** Sicherheit chinesischer Kräutermedizin und Wechselwirkungsprüfungen
-- **Meta description:** Kräuterprodukttyp bestimmen, Chargenqualität verfolgen, Wechselwirkungen prüfen, Überwachung planen, Nebenwirkungen melden und Reisebeschränkungen prüfen.
 - **Primary keyword:** Sicherheit chinesischer Kräutermedizin
 - **Secondary keywords:** Wechselwirkungen chinesischer Kräuter mit Medikamenten; Qualität von Kräuterarzneimitteln; Sicherheit chinesischer Fertigarzneimittel; Kräuternebenwirkungen; Chargenrückverfolgbarkeit von Kräuterprodukten
 - **Search intent:** Arzneimittelsicherheit / Produktbewertung
+
+
+- **Meta title:** Chinesische Kräutermedizin in China: Sicherheit und Wechselwirkungen
+- **Meta description:** Kräuterprodukttyp bestimmen, Chargenqualität verfolgen, Wechselwirkungen prüfen, Überwachung planen, Nebenwirkungen melden und Reisebeschränkungen prüfen.
 
 ## Quellen
 

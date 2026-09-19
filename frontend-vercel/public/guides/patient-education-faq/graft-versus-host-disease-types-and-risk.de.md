@@ -1,12 +1,14 @@
-# GVHD-Formen und Risiko: akute, chronische, Overlap- und steroidrefraktäre Erkrankung
+# GVHD-Formen und Risiken: Vorbereitung auf die fachärztliche Versorgung in China
 
 ## Hero
 
-- **Title:** GVHD-Formen und Risiko: akute, chronische, Overlap- und steroidrefraktäre Erkrankung
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Graft-versus-Host-Erkrankung
-- **Subtitle:** Chronisch, schwer, hohes Risiko und steroidrefraktär mögen wie aufeinanderfolgende Stufen einer einzigen Skala klingen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** GVHD-Formen und Risiken: Vorbereitung auf die fachärztliche Versorgung in China
+- **Subtitle:** GVHD vor einer fachärztlichen Beratung in China einordnen: akute, chronische und überlappende Formen sowie Schweregrad, Risiko und Steroidansprechen unterscheiden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Die Annahme zu einer Beratung bedeutet nicht die Annahme für eine bestimmte The
 ## SEO Metadata
 
 - **Primary keyword:** Graft-versus-Host-Erkrankung Formen und Risikobewertung China
+
+- **Meta title:** GVHD-Formen und Risiken: Vorbereitung auf die fachärztliche Versorgung in China
+- **Meta description:** GVHD vor einer fachärztlichen Beratung in China einordnen: akute, chronische und überlappende Formen sowie Schweregrad, Risiko und Steroidansprechen unterscheiden.

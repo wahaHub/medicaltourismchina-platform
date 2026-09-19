@@ -1,12 +1,14 @@
-# Drug-resistant epilepsy surgery: preparing for evaluation, consent, the procedure and recovery
+# Drug-Resistant Epilepsy Surgery in China: Planning and Recovery
 
 ## Hero
 
-- **Title:** Drug-resistant epilepsy surgery: preparing for evaluation, consent, the procedure and recovery
 - **Category:** Treatment Guides
 - **Subcategory:** Drug Resistant Epilepsy
-- **Subtitle:** A referral to an epilepsy surgeon often raises two questions at once: could this finally improve the seizures, and what might it change about memory, speech or independence?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Drug-Resistant Epilepsy Surgery in China: Planning and Recovery
+- **Subtitle:** Prepare for drug-resistant epilepsy surgery in China through evaluation, consent, recovery planning and a clear handover for continued care.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Ask for an itemized account of evaluation, surgery, devices and possible additio
 ## SEO Metadata
 
 - **Primary keyword:** drug-resistant epilepsy surgery; presurgical epilepsy evaluation; epilepsy surgery recovery; epilepsy surgery in China
+
+- **Meta title:** Drug-Resistant Epilepsy Surgery in China: Planning and Recovery
+- **Meta description:** Prepare for drug-resistant epilepsy surgery in China through evaluation, consent, recovery planning and a clear handover for continued care.

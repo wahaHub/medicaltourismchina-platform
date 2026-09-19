@@ -1,15 +1,17 @@
-# 080 Bispezifische Antikörper in der Krebsversorgung: Ein Patientenratgeber
+# Bispezifische Antikörper in China: Dosierung, Zugang und Risiken
 
 ## Hero
 
-- **Title:** Bispezifische Antikörper in der Krebsversorgung: Ein Patientenratgeber
 - **Category:** Klinische Studien & fortschrittliche Behandlungen
 - **Subcategory:** Krebsimmuntherapie
-- **Subtitle:** Identifizieren Sie beide Bindungsziele und ihre Aufgabe, bevor Sie Eignung, stufenweise Dosierung, Immuntoxizität, Infektionsrisiko und Reisemachbarkeit beurteilen.
 - **Reviewed by:** Medora Health Redaktion
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ersatz erforderlich: Ein wissenschaftlich korrekter bispezifischer Antikörper verbindet zwei Ziele, mit stufenweiser Dosierung und überwachter Immunzellaktivierung.
+
+
+- **Title:** Bispezifische Antikörper in China: Dosierung, Zugang und Risiken
+- **Subtitle:** Erfahren Sie, wie sich bispezifische Krebsantikörper unterscheiden: CD3-T-Zell-Engager, Zielprüfung, Dosissteigerung, CRS, Infektionsrisiko und Prüfung in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -174,11 +176,13 @@ Nur wenn Protokoll oder Behandlungsteam es erlauben und ein qualifiziertes heimi
 ## SEO Metadata
 
 - **Slug:** `bispecific-antibodies-in-cancer-care-a-patient-guide`
-- **Meta title:** Bispezifische Antikörper: Ziele, Dosissteigerung und Risiken
-- **Meta description:** Erfahren Sie, wie sich bispezifische Krebsantikörper unterscheiden: CD3-T-Zell-Engager, Zielprüfung, Dosissteigerung, CRS, Infektionsrisiko und Prüfung in China.
 - **Primary keyword:** bispezifische Antikörper Krebsbehandlung
 - **Secondary keywords:** bispezifischer T-Zell-Engager; bispezifischer Antikörper China; stufenweise Dosierung; CRS ICANS; Infektion bispezifische Antikörper
 - **Search intent:** Behandlungsvergleich bispezifischer Antikörper / Studieneignungsprüfung
+
+
+- **Meta title:** Bispezifische Antikörper in China: Dosierung, Zugang und Risiken
+- **Meta description:** Erfahren Sie, wie sich bispezifische Krebsantikörper unterscheiden: CD3-T-Zell-Engager, Zielprüfung, Dosissteigerung, CRS, Infektionsrisiko und Prüfung in China.
 
 ## Quellen
 

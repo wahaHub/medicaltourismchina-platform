@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Records for a Hodgkin lymphoma consultation in China: pathology, PET images, and treatment actually given
 - **Category:** Patient Journey Guides
 - **Subcategory:** Hodgkin Lymphoma
-- **Subtitle:** The difficulty with records for a Hodgkin lymphoma consultation is often their relationship to one another rather than the number of files.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Records for a Hodgkin lymphoma consultation in China: pathology, PET images, and treatment actually given
+- **Subtitle:** Prepare Hodgkin lymphoma records for China with pathology, original PET images, treatment actually received and the clinical decision needing review.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,3 +146,6 @@ The records should enable the next doctor to establish the basis of diagnosis, w
 ## SEO Metadata
 
 - **Primary keyword:** medical records for Hodgkin lymphoma consultation in China
+
+- **Meta title:** Records for a Hodgkin lymphoma consultation in China: pathology, PET images, and treatment actually given
+- **Meta description:** Prepare Hodgkin lymphoma records for China with pathology, original PET images, treatment actually received and the clinical decision needing review.

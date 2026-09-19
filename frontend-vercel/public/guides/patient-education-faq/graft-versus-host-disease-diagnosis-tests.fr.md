@@ -1,12 +1,14 @@
-# Quels examens aident à diagnostiquer la maladie du greffon contre l’hôte après une greffe ?
+# Bilan de GVH en Chine : évaluation des organes et examens diagnostiques
 
 ## Hero
 
-- **Title:** Quels examens aident à diagnostiquer la maladie du greffon contre l’hôte après une greffe ?
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Maladie du greffon contre l’hôte
-- **Subtitle:** Lorsque des symptômes apparaissent après une allogreffe, les familles demandent souvent si une seule analyse de sang peut confirmer un rejet.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Bilan de GVH en Chine : évaluation des organes et examens diagnostiques
+- **Subtitle:** Préparez une évaluation de maladie du greffon contre l’hôte en Chine à partir des antécédents de greffe, des symptômes et des examens des organes.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Après les investigations, demandez quelles conclusions sont établies, ce qui d
 ## SEO Metadata
 
 - **Primary keyword:** examens diagnostiques de la maladie du greffon contre l’hôte en Chine
+
+- **Meta title:** Bilan de GVH en Chine : évaluation des organes et examens diagnostiques
+- **Meta description:** Préparez une évaluation de maladie du greffon contre l’hôte en Chine à partir des antécédents de greffe, des symptômes et des examens des organes.

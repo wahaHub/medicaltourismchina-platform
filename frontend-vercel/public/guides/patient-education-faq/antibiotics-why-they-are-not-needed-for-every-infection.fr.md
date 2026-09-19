@@ -1,15 +1,17 @@
-# Les antibiotiques ne mesurent pas la « gravité » d’une infection
+# Décisions sur les antibiotiques en Chine : questions à poser au médecin
 
 ## Hero
 
-- **Title:** Les antibiotiques ne mesurent pas la « gravité » d’une infection
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Médicaments
-- **Subtitle:** Un guide pratique pour déterminer quand les antibiotiques sont utiles, quand l’observation est plus sûre et pourquoi les cultures, le contrôle du foyer infectieux et une date de réévaluation comptent.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un clinicien et un patient examinent une fiche de décision médicamenteuse à côté de contenants de médicaments étiquetés
+
+
+- **Title:** Décisions sur les antibiotiques en Chine : questions à poser au médecin
+- **Subtitle:** Découvrez pourquoi une fièvre ou un mucus vert ne prouvent pas une infection bactérienne, quand des antibiotiques urgents sont nécessaires et comment les cultures, les dates de réévaluation et le contrôle du foyer guident le traitement.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -155,11 +157,13 @@ La culture, l’imagerie et la réponse clinique peuvent avoir identifié un mic
 
 ## SEO Metadata
 
-- **SEO title:** Quand les antibiotiques sont-ils nécessaires ? Guide de décision pour les patients
-- **Meta description:** Découvrez pourquoi une fièvre ou un mucus vert ne prouvent pas une infection bactérienne, quand des antibiotiques urgents sont nécessaires et comment les cultures, les dates de réévaluation et le contrôle du foyer guident le traitement.
 - **Primary keyword:** quand les antibiotiques sont-ils nécessaires
 - **Secondary keywords:** antibiotiques pour une infection virale, résistance aux antibiotiques, antibiotiques guidés par les cultures, antibiotiques à spectre large ou étroit, effets indésirables des antibiotiques, bon usage des antimicrobiens
 - **Suggested URL slug:** `/when-antibiotics-are-needed-infection-guide`
+
+
+- **Meta title:** Décisions sur les antibiotiques en Chine : questions à poser au médecin
+- **Meta description:** Découvrez pourquoi une fièvre ou un mucus vert ne prouvent pas une infection bactérienne, quand des antibiotiques urgents sont nécessaires et comment les cultures, les dates de réévaluation et le contrôle du foyer guident le traitement.
 
 ## Sources
 

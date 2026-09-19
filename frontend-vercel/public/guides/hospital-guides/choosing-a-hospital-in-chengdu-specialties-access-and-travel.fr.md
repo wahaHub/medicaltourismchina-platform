@@ -1,15 +1,17 @@
-# 108 Choisir un hôpital à Chengdu : trois distances, deux aéroports et un périmètre de récupération sûr
+# Choisir un hôpital en Chine : soins et convalescence à Chengdu
 
 ## Hero
 
-- **Title:** Choisir un hôpital à Chengdu : trois distances, deux aéroports et un périmètre de récupération sûr
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Planification des soins à Chengdu
-- **Subtitle:** Une méthode propre à cette ville pour relier la préparation du dossier, le site réel de traitement, les accès aéroportuaires et ferroviaires et le lieu de récupération.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Illustration conceptuelle de voyageurs internationaux planifiant des soins à Chengdu ; la silhouette urbaine, le pont, l’hôpital et les icônes cliniques ne représentent aucun site hospitalier, itinéraire, capacité ou recommandation réels.
+
+
+- **Title:** Choisir un hôpital en Chine : soins et convalescence à Chengdu
+- **Subtitle:** Choisissez un hôpital à Chengdu en vérifiant l’évaluation du dossier, le médecin et le site, les démarches de passeport et de langue, l’accès depuis Tianfu ou Shuangliu, le périmètre de récupération, les urgences et le voyage ultérieur en altitude.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -180,13 +182,15 @@ Une réponse clinique écrite doit préciser les fichiers examinés, la question
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-chengdu-specialties-access-and-travel`
-- **Meta title:** Choisir un hôpital à Chengdu : sites, aéroports et récupération
-- **Meta description:** Choisissez un hôpital à Chengdu en vérifiant l’évaluation du dossier, le médecin et le site, les démarches de passeport et de langue, l’accès depuis Tianfu ou Shuangliu, le périmètre de récupération, les urgences et le voyage ultérieur en altitude.
 - **Primary keyword:** choisir un hôpital à Chengdu
 - **Pillar keyword:** hôpitaux de Chengdu pour patients internationaux
 - **Vertical keyword:** sites hospitaliers Chengdu aéroports voyage
 - **Search intent:** comparaison d’hôpitaux / planification de voyage médical à Chengdu
 - **Secondary keywords:** hôpital international Chengdu ; transfert hôpital Chengdu Tianfu ; voyage médical Chengdu Shuangliu ; site hospitalier Chengdu ; interprète médical Chengdu ; Chengdu 120
+
+
+- **Meta title:** Choisir un hôpital en Chine : soins et convalescence à Chengdu
+- **Meta description:** Choisissez un hôpital à Chengdu en vérifiant l’évaluation du dossier, le médecin et le site, les démarches de passeport et de langue, l’accès depuis Tianfu ou Shuangliu, le périmètre de récupération, les urgences et le voyage ultérieur en altitude.
 
 ## Sources
 

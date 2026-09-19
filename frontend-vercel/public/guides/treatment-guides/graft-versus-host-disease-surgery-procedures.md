@@ -1,12 +1,14 @@
-# Does GVHD Require Surgery? Understanding Biopsies, Dilation, Eye Procedures and Treatment Access
+# GVHD Procedures in China: Biopsies, Dilation and Eye Care
 
 ## Hero
 
-- **Title:** Does GVHD Require Surgery? Understanding Biopsies, Dilation, Eye Procedures and Treatment Access
 - **Category:** Treatment Guides
 - **Subcategory:** Graft Versus Host Disease
-- **Subtitle:** Being told that a procedure is needed after transplantation can sound alarming.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** GVHD Procedures in China: Biopsies, Dilation and Eye Care
+- **Subtitle:** Understand why GVHD care may involve biopsies, dilation, eye procedures or treatment access, and arrange preparation and continuity in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ The discharge record should explain what was done, what was found, which results
 ## SEO Metadata
 
 - **Primary keyword:** procedures and surgery for GVHD in China
+
+- **Meta title:** GVHD Procedures in China: Biopsies, Dilation and Eye Care
+- **Meta description:** Understand why GVHD care may involve biopsies, dilation, eye procedures or treatment access, and arrange preparation and continuity in China.

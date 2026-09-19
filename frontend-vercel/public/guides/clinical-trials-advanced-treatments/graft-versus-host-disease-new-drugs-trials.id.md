@@ -1,12 +1,14 @@
-# Pengobatan baru GVHD dan uji klinis: memahami perkembangan tahun 2026
+# Pengobatan Baru dan Uji Klinis GVHD: Bukti dan Akses di Tiongkok
 
 ## Hero
 
-- **Title:** Pengobatan baru GVHD dan uji klinis: memahami perkembangan tahun 2026
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Penyakit Cangkok Melawan Inang
-- **Subtitle:** Laporan tentang terobosan setelah transplantasi sel punca dapat terdengar langsung relevan bagi siapa pun yang hidup dengan penyakit cangkok melawan inang.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Baru dan Uji Klinis GVHD: Bukti dan Akses di Tiongkok
+- **Subtitle:** Pahami penelitian pengobatan GVHD menurut fase penyakit dan tujuan terapi. Periksa bukti serta akses di Tiongkok bersama tim transplantasi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ Konsultasi yang berguna berakhir dengan keputusan yang terkait tujuan klinis: me
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan baru GVHD dan uji klinis di Tiongkok
+
+- **Meta title:** Pengobatan Baru dan Uji Klinis GVHD: Bukti dan Akses di Tiongkok
+- **Meta description:** Pahami penelitian pengobatan GVHD menurut fase penyakit dan tujuan terapi. Periksa bukti serta akses di Tiongkok bersama tim transplantasi.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Seguimiento del linfoma folicular tras regresar a casa desde China
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Linfoma folicular
-- **Subtitle:** Un informe de alta que dice seguimiento periódico deja muchas preguntas prácticas sin respuesta.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Seguimiento del linfoma folicular tras regresar a casa desde China
+- **Subtitle:** Organice el seguimiento del linfoma folicular al regresar de China según la fase de atención, las revisiones, el mantenimiento y la prevención de infecciones.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ En cada transición, actualice resumen y contactos. Un plan viable de seguimient
 ## SEO Metadata
 
 - **Primary keyword:** seguimiento del linfoma folicular tras tratamiento en China
+
+- **Meta title:** Seguimiento del linfoma folicular tras regresar a casa desde China
+- **Meta description:** Organice el seguimiento del linfoma folicular al regresar de China según la fase de atención, las revisiones, el mantenimiento y la prevención de infecciones.

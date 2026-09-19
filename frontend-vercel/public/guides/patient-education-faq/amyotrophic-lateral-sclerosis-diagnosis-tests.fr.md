@@ -1,12 +1,14 @@
-# Examens en cas de suspicion de SLA : ce que l’examen clinique, l’EMG, l’imagerie et la génétique peuvent établir
+# Réévaluation diagnostique de la SLA en Chine : examen clinique, EMG et autres tests
 
 ## Hero
 
-- **Title:** Examens en cas de suspicion de SLA : ce que l’examen clinique, l’EMG, l’imagerie et la génétique peuvent établir
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Sclérose latérale amyotrophique
-- **Subtitle:** Une faiblesse progressive de la main, des trébuchements répétés ou une modification de la parole peuvent conduire à une évaluation pour une sclérose latérale amyotrophique.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Réévaluation diagnostique de la SLA en Chine : examen clinique, EMG et autres tests
+- **Subtitle:** Préparez une évaluation pour suspicion de SLA en Chine : évolution des symptômes, examen neurologique, EMG et examens pour rechercher d’autres causes.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ Lors de l’organisation du rendez-vous, demandez si les examens extérieurs son
 ## SEO Metadata
 
 - **Primary keyword:** examens pour diagnostiquer la sclérose latérale amyotrophique
+
+- **Meta title:** Réévaluation diagnostique de la SLA en Chine : examen clinique, EMG et autres tests
+- **Meta description:** Préparez une évaluation pour suspicion de SLA en Chine : évolution des symptômes, examen neurologique, EMG et examens pour rechercher d’autres causes.

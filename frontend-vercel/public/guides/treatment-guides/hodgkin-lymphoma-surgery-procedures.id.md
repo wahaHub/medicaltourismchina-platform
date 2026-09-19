@@ -1,12 +1,14 @@
-# Apakah limfoma Hodgkin memerlukan operasi? Biopsi, akses vena, dan pengumpulan sel punca
+# Prosedur Limfoma Hodgkin di Tiongkok: Biopsi dan Pengumpulan Sel
 
 ## Hero
 
-- **Title:** Apakah limfoma Hodgkin memerlukan operasi? Biopsi, akses vena, dan pengumpulan sel punca
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Hodgkin
-- **Subtitle:** Limfoma Hodgkin klasik umumnya diobati dengan obat sistemik, terkadang dikombinasikan dengan radioterapi.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prosedur Limfoma Hodgkin di Tiongkok: Biopsi dan Pengumpulan Sel
+- **Subtitle:** Bedakan biopsi diagnostik dari pengobatan limfoma Hodgkin. Pahami akses vena, pengumpulan sel punca, dan persiapan prosedur di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ Tanyakan kepada dokter masalah apa yang telah diselesaikan prosedur dan apa yang
 ## SEO Metadata
 
 - **Primary keyword:** operasi dan prosedur limfoma Hodgkin
+
+- **Meta title:** Prosedur Limfoma Hodgkin di Tiongkok: Biopsi dan Pengumpulan Sel
+- **Meta description:** Bedakan biopsi diagnostik dari pengobatan limfoma Hodgkin. Pahami akses vena, pengumpulan sel punca, dan persiapan prosedur di Tiongkok.

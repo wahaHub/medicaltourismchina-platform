@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Elegir un hospital en China para el linfoma de células T: preguntas sobre experiencia en el subtipo, anatomía patológica y continuidad
 - **Category:** Guías de hospitales
 - **Subcategory:** Linfoma de células T
-- **Subtitle:** Antes de comparar hospitales, describa la finalidad en una frase: confirmar la entidad anatomopatológica, elegir el tratamiento inicial, manejar una recaída o evaluar un trasplante.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Elegir un hospital en China para el linfoma de células T: preguntas sobre experiencia en el subtipo, anatomía patológica y continuidad
+- **Subtitle:** Elija un hospital de linfoma de células T en China según la experiencia en el subtipo, la revisión anatomopatológica y la continuidad del plan de atención.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ Si aparecen síntomas urgentes mientras se comparan derivaciones, recurra al equ
 ## SEO Metadata
 
 - **Primary keyword:** hospital para linfoma de células T en China
+
+- **Meta title:** Elegir un hospital en China para el linfoma de células T: preguntas sobre experiencia en el subtipo, anatomía patológica y continuidad
+- **Meta description:** Elija un hospital de linfoma de células T en China según la experiencia en el subtipo, la revisión anatomopatológica y la continuidad del plan de atención.

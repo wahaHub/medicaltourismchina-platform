@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** 20 Questions About Sickle Cell Disease: Medicines, Transfusion, Gene Therapy, and Care in China
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Sickle Cell Disease
-- **Subtitle:** Questions about sickle cell disease often arise from everyday situations: a child has little pain but is offered preventive medicine; symptoms worsen after transfusion; or a gene-therapy announcement makes a family wonder whether to travel immediately.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** 20 Questions About Sickle Cell Disease: Medicines, Transfusion, Gene Therapy, and Care in China
+- **Subtitle:** Explore 20 sickle cell questions covering medicines, transfusions, transplantation, gene therapy evidence and planning care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -157,3 +159,6 @@ Write the main question first, then assemble genotype evidence, current medicine
 ## SEO Metadata
 
 - **Primary keyword:** sickle cell disease patient frequently asked questions
+
+- **Meta title:** 20 Questions About Sickle Cell Disease: Medicines, Transfusion, Gene Therapy, and Care in China
+- **Meta description:** Explore 20 sickle cell questions covering medicines, transfusions, transplantation, gene therapy evidence and planning care in China.

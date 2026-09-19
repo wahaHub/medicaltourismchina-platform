@@ -1,15 +1,17 @@
-# How to Share CT, MRI and Other Imaging Files With a Chinese Hospital
+# Share CT and MRI Files With a Hospital in China
 
 ## Hero
 
-- **Title:** How to Share CT, MRI and Other Imaging Files With a Chinese Hospital
 - **Category:** China Healthcare Guides
 - **Subcategory:** Imaging and Medical Records
-- **Subtitle:** Send the complete diagnostic study, the report and the clinical question—not a handful of screenshots that cannot be scrolled, measured or compared.
 - **Reviewed by:** Medora Health Editorial Team; radiology and information-security review required before publication
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** A Chinese radiologist discusses cross-sectional imaging with an international patient
+
+
+- **Title:** Share CT and MRI Files With a Hospital in China
+- **Subtitle:** Export complete DICOM studies, verify series, protect patient data and confirm successful import and radiology review in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -232,13 +234,15 @@ Send the comparisons the receiving clinician requests. Baseline and immediately 
 ## SEO Metadata
 
 - **Slug:** `how-to-share-ct-mri-and-other-imaging-files-with-a-chinese-hospital`
-- **Meta title:** Share CT and MRI Files With a Chinese Hospital
-- **Meta description:** Export complete DICOM studies, verify series, protect patient data and confirm successful import and radiology review in China.
 - **Primary keyword:** send DICOM to Chinese hospital
 - **Pillar keyword:** healthcare in China for international patients
 - **Vertical keyword:** share CT MRI files China
 - **Search intent:** informational / technical preparation
 - **Secondary keywords:** DICOM upload China hospital; CT second opinion China; MRI file transfer China
+
+
+- **Meta title:** Share CT and MRI Files With a Hospital in China
+- **Meta description:** Export complete DICOM studies, verify series, protect patient data and confirm successful import and radiology review in China.
 
 ## Sources
 

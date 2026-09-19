@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Ein Thalassämie-Krankenhaus in China auswählen: Das Angebot auf das zu lösende Problem abstimmen
 - **Category:** Krankenhausratgeber
 - **Subcategory:** Thalassämie
-- **Subtitle:** Eine sinnvolle Krankenhausauswahl beginnt mit dem Anlass der Behandlungssuche.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Ein Thalassämie-Krankenhaus in China auswählen: Das Angebot auf das zu lösende Problem abstimmen
+- **Subtitle:** Ein Thalassämiezentrum in China nach Ihrem Bedarf wählen: Transfusionsabläufe, Eisenüberwachung, Altersexpertise, Transplantation und Nachsorge prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Erstellen Sie vor der Entscheidung eine kurze Vergleichsübersicht mit tatsächl
 ## SEO Metadata
 
 - **Primary keyword:** Thalassämie-Krankenhausauswahl in China; Thalassämie-Fachzentrum; Transfusionsdienste; Thalassämie-Transplantationsteam
+
+- **Meta title:** Ein Thalassämie-Krankenhaus in China auswählen: Das Angebot auf das zu lösende Problem abstimmen
+- **Meta description:** Ein Thalassämiezentrum in China nach Ihrem Bedarf wählen: Transfusionsabläufe, Eisenüberwachung, Altersexpertise, Transplantation und Nachsorge prüfen.

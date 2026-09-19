@@ -1,12 +1,14 @@
-# Manejo de los efectos adversos del tratamiento de la esclerosis múltiple: síntomas, pruebas y ayuda oportuna
+# Tratamiento de esclerosis múltiple en China: efectos secundarios y cuándo pedir ayuda
 
 ## Hero
 
-- **Title:** Manejo de los efectos adversos del tratamiento de la esclerosis múltiple: síntomas, pruebas y ayuda oportuna
 - **Category:** Guías de tratamiento
 - **Subcategory:** Esclerosis múltiple
-- **Subtitle:** Una larga lista de posibles efectos adversos puede dificultar las decisiones de tratamiento.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento de esclerosis múltiple en China: efectos secundarios y cuándo pedir ayuda
+- **Subtitle:** Registre posibles efectos adversos del tratamiento de esclerosis múltiple y comprenda los controles de hígado, infecciones y recuentos en su atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ La finalidad del manejo de efectos adversos es apoyo oportuno y un plan de trata
 ## SEO Metadata
 
 - **Primary keyword:** efectos secundarios del tratamiento de la esclerosis múltiple
+
+- **Meta title:** Tratamiento de esclerosis múltiple en China: efectos secundarios y cuándo pedir ayuda
+- **Meta description:** Registre posibles efectos adversos del tratamiento de esclerosis múltiple y comprenda los controles de hígado, infecciones y recuentos en su atención en China.

@@ -1,12 +1,14 @@
-# Medizinische Unterlagen für eine Überweisung bei aplastischer Anämie: Belege nutzbar machen
+# Unterlagen zur aplastischen Anämie für eine Überweisung nach China
 
 ## Hero
 
-- **Title:** Medizinische Unterlagen für eine Überweisung bei aplastischer Anämie: Belege nutzbar machen
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Aplastische Anämie
-- **Subtitle:** Die nützlichste Überweisungsakte zeigt, wie die Belege im zeitlichen Verlauf zusammenpassen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Unterlagen zur aplastischen Anämie für eine Überweisung nach China
+- **Subtitle:** Unterlagen zur aplastischen Anämie für China ordnen: Blutwerte samt Transfusionen, vollständige Knochenmarkbefunde, PNH, Genetik und tatsächliche Behandlung beilegen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Bringen Sie zur Beratung die aktuelle Medikamentenliste, jüngste Blutwerte und 
 ## SEO Metadata
 
 - **Primary keyword:** medizinische Unterlagen bei aplastischer Anämie
+
+- **Meta title:** Unterlagen zur aplastischen Anämie für eine Überweisung nach China
+- **Meta description:** Unterlagen zur aplastischen Anämie für China ordnen: Blutwerte samt Transfusionen, vollständige Knochenmarkbefunde, PNH, Genetik und tatsächliche Behandlung beilegen.

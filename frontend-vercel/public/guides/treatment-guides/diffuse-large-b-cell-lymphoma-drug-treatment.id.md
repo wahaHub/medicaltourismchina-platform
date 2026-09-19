@@ -1,12 +1,14 @@
-# Obat DLBCL: kelas obat, kombinasi, dan catatan obat yang aman
+# Obat DLBCL di Tiongkok: Regimen, Rekam Medis, dan Akses
 
 ## Hero
 
-- **Title:** Obat DLBCL: kelas obat, kombinasi, dan catatan obat yang aman
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel B Besar Difus
-- **Subtitle:** Pengobatan DLBCL biasanya menggabungkan beberapa kelas obat.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat DLBCL di Tiongkok: Regimen, Rekam Medis, dan Akses
+- **Subtitle:** Pahami kelas obat dan regimen DLBCL di Tiongkok, termasuk terapi suportif. Siapkan catatan nama generik, produk, jadwal, dan kebutuhan pemantauan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Terakhir, tetapkan satu dokter dan tim farmasi untuk merekonsiliasi daftar dan m
 ## SEO Metadata
 
 - **Primary keyword:** obat untuk DLBCL
+
+- **Meta title:** Obat DLBCL di Tiongkok: Regimen, Rekam Medis, dan Akses
+- **Meta description:** Pahami kelas obat dan regimen DLBCL di Tiongkok, termasuk terapi suportif. Siapkan catatan nama generik, produk, jadwal, dan kebutuhan pemantauan.

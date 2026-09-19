@@ -1,12 +1,14 @@
-# Revisar los medicamentos para la enfermedad de células falciformes: hidroxiurea, actualizaciones regulatorias, alivio del dolor y vigilancia
+# Medicamentos para la enfermedad falciforme en China: comprobar acceso y vigilancia
 
 ## Hero
 
-- **Title:** Revisar los medicamentos para la enfermedad de células falciformes: hidroxiurea, actualizaciones regulatorias, alivio del dolor y vigilancia
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de células falciformes
-- **Subtitle:** Una lista de medicación para la enfermedad de células falciformes puede contener tratamiento diario, medicamentos para episodios dolorosos, prevención de infecciones y fármacos para la sobrecarga transfusional de hierro.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medicamentos para la enfermedad falciforme en China: comprobar acceso y vigilancia
+- **Subtitle:** Comprenda las funciones de los medicamentos para enfermedad falciforme y los controles de seguridad y acceso que debe comentar al preparar atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Antes de salir de la consulta, el plan de medicación debe indicar qué se toma 
 ## SEO Metadata
 
 - **Primary keyword:** medicamentos para la enfermedad de células falciformes
+
+- **Meta title:** Medicamentos para la enfermedad falciforme en China: comprobar acceso y vigilancia
+- **Meta description:** Comprenda las funciones de los medicamentos para enfermedad falciforme y los controles de seguridad y acceso que debe comentar al preparar atención en China.

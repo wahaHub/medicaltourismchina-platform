@@ -1,12 +1,14 @@
-# Comprender los informes de enfermedad de células falciformes: hemoglobina, HbS, HbF, reticulocitos y mediciones de hierro
+# Informes de enfermedad falciforme: prepararse para una evaluación en China
 
 ## Hero
 
-- **Title:** Comprender los informes de enfermedad de células falciformes: hemoglobina, HbS, HbF, reticulocitos y mediciones de hierro
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedad de células falciformes
-- **Subtitle:** El seguimiento de la enfermedad de células falciformes suele producir dos mediciones aparentemente similares que responden a preguntas distintas: la concentración de hemoglobina del hemograma y el porcentaje de HbS del análisis de hemoglobinas.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Informes de enfermedad falciforme: prepararse para una evaluación en China
+- **Subtitle:** Interprete hemoglobina, HbS, HbF, reticulocitos y hierro en enfermedad falciforme con el contexto de transfusiones y medicación antes de una consulta en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,3 +143,6 @@ El resultado de la revisión debe ser un siguiente paso comprensible. Los inform
 ## SEO Metadata
 
 - **Primary keyword:** comprender los informes de laboratorio de enfermedad de células falciformes
+
+- **Meta title:** Informes de enfermedad falciforme: prepararse para una evaluación en China
+- **Meta description:** Interprete hemoglobina, HbS, HbF, reticulocitos y hierro en enfermedad falciforme con el contexto de transfusiones y medicación antes de una consulta en China.

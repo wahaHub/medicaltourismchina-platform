@@ -1,12 +1,14 @@
-# Welche Untersuchungen diagnostizieren ein Mantelzelllymphom? Biopsie, PET/CT, Knochenmark und Gentests verstehen
+# Diagnose des Mantelzelllymphoms in China: Biopsie und Untersuchungen
 
 ## Hero
 
-- **Title:** Welche Untersuchungen diagnostizieren ein Mantelzelllymphom? Biopsie, PET/CT, Knochenmark und Gentests verstehen
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Mantelzelllymphom
-- **Subtitle:** Verwandte Suchanfragen: MCL-Biopsie; Stadienbestimmung beim Mantelzelllymphom; pathologische Zweitbegutachtung in China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnose des Mantelzelllymphoms in China: Biopsie und Untersuchungen
+- **Subtitle:** Eine Mantelzelllymphom-Diagnostik in China vorbereiten: Biopsie, Pathologie, PET/CT, Knochenmark und Risikotests nach ihrem Entscheidungsnutzen einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Bitten Sie den Arzt am Ende der Beurteilung, in Alltagssprache zu erklären, was
 ## SEO Metadata
 
 - **Primary keyword:** diagnostische Untersuchungen beim Mantelzelllymphom
+
+- **Meta title:** Diagnose des Mantelzelllymphoms in China: Biopsie und Untersuchungen
+- **Meta description:** Eine Mantelzelllymphom-Diagnostik in China vorbereiten: Biopsie, Pathologie, PET/CT, Knochenmark und Risikotests nach ihrem Entscheidungsnutzen einordnen.

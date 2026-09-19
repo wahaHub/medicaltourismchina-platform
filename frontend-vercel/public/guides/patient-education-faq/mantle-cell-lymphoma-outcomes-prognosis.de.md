@@ -1,12 +1,14 @@
-# Wie lange lässt sich ein Mantelzelllymphom kontrollieren? Remission, Überleben und Ihre Prognose verstehen
+# Prognose beim Mantelzelllymphom: Zweitmeinungen in China
 
 ## Hero
 
-- **Title:** Wie lange lässt sich ein Mantelzelllymphom kontrollieren? Remission, Überleben und Ihre Prognose verstehen
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Mantelzelllymphom
-- **Subtitle:** Nach einer MCL-Diagnose ist es natürlich, nach der Lebenserwartung zu suchen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prognose beim Mantelzelllymphom: Zweitmeinungen in China
+- **Subtitle:** Die Prognose beim Mantelzelllymphom für eine Zweitmeinung in China prüfen: Remission, MRD, frühe Progression, Studienendpunkte und Alltagsfunktion einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ Prognose lässt sich am besten als fortlaufendes Gespräch verstehen. Neue patho
 ## SEO Metadata
 
 - **Primary keyword:** Mantelzelllymphom Prognose und Überleben
+
+- **Meta title:** Prognose beim Mantelzelllymphom: Zweitmeinungen in China
+- **Meta description:** Die Prognose beim Mantelzelllymphom für eine Zweitmeinung in China prüfen: Remission, MRD, frühe Progression, Studienendpunkte und Alltagsfunktion einordnen.

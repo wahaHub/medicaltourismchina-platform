@@ -1,12 +1,14 @@
-# Jenis Penyakit Parkinson: Bagaimana Usia Awitan, Tremor, dan Masalah Berjalan Memengaruhi Perawatan
+# Jenis dan Risiko Parkinson: Persiapan Perawatan di Tiongkok
 
 ## Hero
 
-- **Title:** Jenis Penyakit Parkinson: Bagaimana Usia Awitan, Tremor, dan Masalah Berjalan Memengaruhi Perawatan
 - **Category:** Edukasi Pasien & FAQ
 - **Subcategory:** Penyakit Parkinson
-- **Subtitle:** Pasien sering berharap suatu subtipe akan menjelaskan masa depan: Apakah penyakit yang dominan tremor tetap ringan?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Jenis dan Risiko Parkinson: Persiapan Perawatan di Tiongkok
+- **Subtitle:** Pahami pola tremor, gangguan berjalan, dan usia awitan Parkinson. Bahas risiko serta kebutuhan fungsi sebelum menyiapkan perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Informasi diperiksa: September 9, 2026. Tim klinis harus menafsirkan subtipe dan
 ## SEO Metadata
 
 - **Primary keyword:** jenis penyakit Parkinson dan penilaian risiko
+
+- **Meta title:** Jenis dan Risiko Parkinson: Persiapan Perawatan di Tiongkok
+- **Meta description:** Pahami pola tremor, gangguan berjalan, dan usia awitan Parkinson. Bahas risiko serta kebutuhan fungsi sebelum menyiapkan perawatan di Tiongkok.

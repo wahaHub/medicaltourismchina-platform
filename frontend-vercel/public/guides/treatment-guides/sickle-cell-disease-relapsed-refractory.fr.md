@@ -1,12 +1,14 @@
-# Douleurs récurrentes malgré le traitement de la drépanocytose : réévaluation et prochaines étapes
+# Douleurs de drépanocytose malgré le traitement : réévaluation en Chine
 
 ## Hero
 
-- **Title:** Douleurs récurrentes malgré le traitement de la drépanocytose : réévaluation et prochaines étapes
 - **Category:** Guides des traitements
 - **Subcategory:** Drépanocytose
-- **Subtitle:** Prendre ses médicaments sérieusement et respecter le suivi, mais retourner à l’hôpital pour des douleurs, peut donner l’impression que tous les efforts sont vains.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Douleurs de drépanocytose malgré le traitement : réévaluation en Chine
+- **Subtitle:** Préparez une réévaluation des douleurs de drépanocytose en Chine en décrivant les épisodes, les médicaments réellement pris et les symptômes inhabituels.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -131,3 +133,6 @@ La visite doit produire un plan d’action à court terme : problème traité en
 ## SEO Metadata
 
 - **Primary keyword:** crises drépanocytaires récurrentes malgré le traitement
+
+- **Meta title:** Douleurs de drépanocytose malgré le traitement : réévaluation en Chine
+- **Meta description:** Préparez une réévaluation des douleurs de drépanocytose en Chine en décrivant les épisodes, les médicaments réellement pris et les symptômes inhabituels.

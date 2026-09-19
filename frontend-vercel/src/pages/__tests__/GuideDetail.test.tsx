@@ -18,7 +18,7 @@ vi.mock("@/data/guides-manifest.json", () => ({ default: { categories: [{
   guides: ["first", "second"].map(slug => ({
     slug, title: { en: slug, es: slug }, subtitle: { en: "Manifest subtitle", es: "Subtítulo" },
     excerpt: "Manifest excerpt", subcategory: "", locales: ["en", "es"],
-    updatedDate: "2026/09/09", readTimeMinutes: 1,
+    updatedDate: "2026/09/19", updatedDateByLocale: { en: "2026/09/19", es: "2026/09/09" }, readTimeMinutes: 1,
   })),
 }] } }));
 
@@ -80,6 +80,7 @@ describe("GuideDetail source metadata", () => {
     expect(document.querySelector("article")?.getAttribute("lang")).toBe(locale);
     const schema = vi.mocked(setPageSeo).mock.lastCall?.[0].structuredData as { "@graph": Record<string, unknown>[] };
     expect(schema["@graph"][0]).not.toHaveProperty("reviewedBy");
+    expect(schema["@graph"][0].dateModified).toBe(locale === "en" ? "2026-09-19" : "2026-09-09");
   });
 
   it("does not reuse the previous article's body or metadata during navigation", async () => {

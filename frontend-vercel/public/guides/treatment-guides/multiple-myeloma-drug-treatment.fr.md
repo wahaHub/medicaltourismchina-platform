@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Médicaments du myélome multiple : comprendre l’ordonnance et organiser le traitement en Chine
 - **Category:** Guides des traitements
 - **Subcategory:** Myélome multiple
-- **Subtitle:** Une ordonnance pour le myélome comporte souvent plusieurs médicaments anticancéreux, des médicaments préventifs et un corticoïde, avec des jours de traitement différents pour chacun.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Médicaments du myélome multiple : comprendre l’ordonnance et organiser le traitement en Chine
+- **Subtitle:** Comprenez l’ordonnance du myélome et les précautions propres aux classes de médicaments pour organiser le traitement et la surveillance en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Demandez un calendrier écrit, les examens nécessaires avant chaque décision e
 ## SEO Metadata
 
 - **Primary keyword:** traitement médicamenteux du myélome multiple en Chine
+
+- **Meta title:** Médicaments du myélome multiple : comprendre l’ordonnance et organiser le traitement en Chine
+- **Meta description:** Comprenez l’ordonnance du myélome et les précautions propres aux classes de médicaments pour organiser le traitement et la surveillance en Chine.

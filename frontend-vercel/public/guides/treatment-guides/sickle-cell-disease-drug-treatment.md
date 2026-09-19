@@ -1,12 +1,14 @@
-# Checking Sickle Cell Medicines: Hydroxyurea, Regulatory Updates, Pain Relief, and Monitoring
+# Sickle Cell Medicines in China: Access and Monitoring Checks
 
 ## Hero
 
-- **Title:** Checking Sickle Cell Medicines: Hydroxyurea, Regulatory Updates, Pain Relief, and Monitoring
 - **Category:** Treatment Guides
 - **Subcategory:** Sickle Cell Disease
-- **Subtitle:** A sickle cell medication list may contain daily treatment, medicines for painful episodes, infection prevention, and drugs for transfusional iron overload.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sickle Cell Medicines in China: Access and Monitoring Checks
+- **Subtitle:** Review sickle cell medicine purposes, monitoring and regulatory questions, and confirm access and continuing prescriptions before arranging care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Before leaving the consultation, the medication plan should state what is taken 
 ## SEO Metadata
 
 - **Primary keyword:** medicines for sickle cell disease
+
+- **Meta title:** Sickle Cell Medicines in China: Access and Monitoring Checks
+- **Meta description:** Review sickle cell medicine purposes, monitoring and regulatory questions, and confirm access and continuing prescriptions before arranging care in China.

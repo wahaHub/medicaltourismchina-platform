@@ -1,15 +1,17 @@
-# Cuando dos informes anatomopatológicos difieren: concilie la muestra, los métodos y el diagnóstico antes del tratamiento
+# Revisión anatomopatológica en China: aclarar diferencias entre informes
 
 ## Hero
 
-- **Title:** Cuando dos informes anatomopatológicos difieren: concilie la muestra, los métodos y el diagnóstico antes del tratamiento
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Pruebas y diagnóstico
-- **Subtitle:** Guía transfronteriza sobre portaobjetos, bloques de parafina, muestreo, inmunohistoquímica, pruebas moleculares y resolución de una discrepancia clínicamente importante.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Pacientes hablando de un proceso de revisión anatomopatológica con símbolos de microscopio, preparación tisular, equipo especializado e informe final
+
+
+- **Title:** Revisión anatomopatológica en China: aclarar diferencias entre informes
+- **Subtitle:** Comprenda muestreo, procesamiento tisular, tinciones, pruebas moleculares y heterogeneidad tumoral, y transfiera portaobjetos/bloques con seguridad para revisión anatomopatológica.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -198,13 +200,15 @@ Sí. Distintas zonas tumorales o momentos pueden contener biomarcadores diferent
 ## SEO Metadata
 
 - **Slug:** `biopsy-and-pathology-review-why-results-may-differ`
-- **Meta title:** Informes anatomopatológicos diferentes: cómo conciliar el diagnóstico
-- **Meta description:** Comprenda muestreo, procesamiento tisular, tinciones, pruebas moleculares y heterogeneidad tumoral, y transfiera portaobjetos/bloques con seguridad para revisión anatomopatológica.
 - **Primary keyword:** revisión anatomopatológica diagnóstico diferente
 - **Pillar keyword:** diagnóstico de cáncer en China
 - **Vertical keyword:** segunda opinión con portaobjetos y bloques de biopsia
 - **Search intent:** orientación sobre discrepancias anatomopatológicas
 - **Secondary keywords:** segunda opinión anatomopatológica China; transferir bloque de parafina; biopsia frente a resección; discordancia de biomarcadores; conservar tejido tumoral
+
+
+- **Meta title:** Revisión anatomopatológica en China: aclarar diferencias entre informes
+- **Meta description:** Comprenda muestreo, procesamiento tisular, tinciones, pruebas moleculares y heterogeneidad tumoral, y transfiera portaobjetos/bloques con seguridad para revisión anatomopatológica.
 
 ## Fuentes
 

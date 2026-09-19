@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Nachsorge beim follikulären Lymphom nach der Rückkehr aus China
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Follikuläres Lymphom
-- **Subtitle:** Ein Entlassungsbericht mit dem Hinweis auf regelmäßige Nachsorge lässt viele praktische Fragen offen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Nachsorge beim follikulären Lymphom nach der Rückkehr aus China
+- **Subtitle:** Nachsorge beim follikulären Lymphom nach China organisieren: Versorgungsphase, Kontrollen, Erhaltungstherapie, Infektionsvorbeugung und neue Symptome besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Aktualisieren Sie bei jedem Übergang Zusammenfassung und Kontaktdaten. Ein prak
 ## SEO Metadata
 
 - **Primary keyword:** Nachsorge beim follikulären Lymphom nach Behandlung in China
+
+- **Meta title:** Nachsorge beim follikulären Lymphom nach der Rückkehr aus China
+- **Meta description:** Nachsorge beim follikulären Lymphom nach China organisieren: Versorgungsphase, Kontrollen, Erhaltungstherapie, Infektionsvorbeugung und neue Symptome besprechen.

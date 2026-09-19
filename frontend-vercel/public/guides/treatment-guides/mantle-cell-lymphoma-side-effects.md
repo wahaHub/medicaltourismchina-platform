@@ -1,12 +1,14 @@
-# Managing Mantle Cell Lymphoma Treatment Side Effects: Fever, Bleeding, Targeted Therapy, and CAR-T Monitoring
+# Mantle Cell Lymphoma Care in China: Side Effects and Safety
 
 ## Hero
 
-- **Title:** Managing Mantle Cell Lymphoma Treatment Side Effects: Fever, Bleeding, Targeted Therapy, and CAR-T Monitoring
 - **Category:** Treatment Guides
 - **Subcategory:** Mantle Cell Lymphoma
-- **Subtitle:** Managing Mantle Cell Lymphoma Treatment Side Effects: Fever, Bleeding, Targeted Therapy, and CAR-T Monitoring
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Mantle Cell Lymphoma Care in China: Side Effects and Safety
+- **Subtitle:** Recognize mantle cell lymphoma treatment complications, including fever and bleeding, and arrange the monitoring needed for the actual regimen in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Side-effect management aims to identify danger early, reduce treatable discomfor
 ## SEO Metadata
 
 - **Primary keyword:** mantle cell lymphoma treatment side effects
+
+- **Meta title:** Mantle Cell Lymphoma Care in China: Side Effects and Safety
+- **Meta description:** Recognize mantle cell lymphoma treatment complications, including fever and bleeding, and arrange the monitoring needed for the actual regimen in China.

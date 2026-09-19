@@ -1,12 +1,14 @@
-# Setelah Diagnosis Alzheimer: Menyusun Rencana Pengobatan Pertama
+# Memulai Pengobatan Alzheimer di Tiongkok: Rencana Perawatan Pertama
 
 ## Hero
 
-- **Title:** Setelah Diagnosis Alzheimer: Menyusun Rencana Pengobatan Pertama
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Alzheimer
-- **Subtitle:** Setelah diagnosis penyakit Alzheimer, keinginan untuk segera memulai setiap pengobatan yang tersedia dapat dipahami.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Memulai Pengobatan Alzheimer di Tiongkok: Rencana Perawatan Pertama
+- **Subtitle:** Susun rencana awal Alzheimer di Tiongkok dengan konfirmasi diagnosis, tinjauan obat, tujuan gejala, dan pembagian tugas perawatan keluarga.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ Keluarga tidak perlu menyelesaikan setiap keputusan masa depan pada kunjungan pe
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan awal untuk penyakit Alzheimer
+
+- **Meta title:** Memulai Pengobatan Alzheimer di Tiongkok: Rencana Perawatan Pertama
+- **Meta description:** Susun rencana awal Alzheimer di Tiongkok dengan konfirmasi diagnosis, tinjauan obat, tujuan gejala, dan pembagian tugas perawatan keluarga.

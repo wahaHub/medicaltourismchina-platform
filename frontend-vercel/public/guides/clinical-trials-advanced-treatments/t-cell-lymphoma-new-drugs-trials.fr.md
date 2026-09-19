@@ -1,12 +1,14 @@
-# Nouveaux médicaments et essais du lymphome T en 2026 : transformer une actualité de recherche en option vérifiable
+# Nouveaux médicaments et essais du lymphome T : vérifier l’accès en Chine
 
 ## Hero
 
-- **Title:** Nouveaux médicaments et essais du lymphome T en 2026 : transformer une actualité de recherche en option vérifiable
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Lymphome T
-- **Subtitle:** Une actualité peut annoncer un premier essai chez l'humain, un suivi plus long, une autorisation dans un autre pays ou un recrutement dans un hôpital.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Nouveaux médicaments et essais du lymphome T : vérifier l’accès en Chine
+- **Subtitle:** Reliez les recherches sur le lymphome T au sous-type et aux traitements antérieurs. Vérifiez les preuves et les critères du centre avant un projet de soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -118,3 +120,6 @@ Ne déduisez pas qu'un médicament gratuit signifie que tous les coûts associé
 ## SEO Metadata
 
 - **Primary keyword:** nouveaux médicaments et essais cliniques pour le lymphome T
+
+- **Meta title:** Nouveaux médicaments et essais du lymphome T : vérifier l’accès en Chine
+- **Meta description:** Reliez les recherches sur le lymphome T au sous-type et aux traitements antérieurs. Vérifiez les preuves et les critères du centre avant un projet de soins en Chine.

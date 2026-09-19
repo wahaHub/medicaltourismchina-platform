@@ -1,12 +1,14 @@
-# Membaca laporan limfoma sel mantel: penjelasan Cyclin D1, SOX11, Ki-67, dan TP53
+# Laporan Limfoma Sel Mantel: Persiapan Tinjauan di Tiongkok
 
 ## Hero
 
-- **Title:** Membaca laporan limfoma sel mantel: penjelasan Cyclin D1, SOX11, Ki-67, dan TP53
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Limfoma Sel Mantel
-- **Subtitle:** Pencarian terkait: cyclin D1 positif; Ki-67 MCL; mutasi TP53 pada limfoma sel mantel
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Laporan Limfoma Sel Mantel: Persiapan Tinjauan di Tiongkok
+- **Subtitle:** Pahami cyclin D1, SOX11, Ki-67, dan TP53 pada laporan limfoma sel mantel. Siapkan hasil lengkap beserta identitas spesimen untuk tinjauan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -143,3 +145,6 @@ Jaga laporan asli dan terjemahan tetap terhubung. Kata seperti positif, negatif,
 ## SEO Metadata
 
 - **Primary keyword:** laporan patologi limfoma sel mantel
+
+- **Meta title:** Laporan Limfoma Sel Mantel: Persiapan Tinjauan di Tiongkok
+- **Meta description:** Pahami cyclin D1, SOX11, Ki-67, dan TP53 pada laporan limfoma sel mantel. Siapkan hasil lengkap beserta identitas spesimen untuk tinjauan di Tiongkok.

@@ -1,12 +1,14 @@
-# Apakah limfoma sel mantel memerlukan operasi? Biopsi, akses vena, pengambilan sel, dan prosedur darurat
+# Prosedur Limfoma Sel Mantel di Tiongkok: Tujuan dan Perencanaan
 
 ## Hero
 
-- **Title:** Apakah limfoma sel mantel memerlukan operasi? Biopsi, akses vena, pengambilan sel, dan prosedur darurat
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel Mantel
-- **Subtitle:** Pencarian terkait: biopsi MCL; prosedur selama pengobatan limfoma; perawatan MCL di Tiongkok
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prosedur Limfoma Sel Mantel di Tiongkok: Tujuan dan Perencanaan
+- **Subtitle:** Pahami tujuan biopsi, akses vena, pemeriksaan sumsum, dan pengumpulan sel pada limfoma sel mantel untuk merencanakan prosedur di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -121,3 +123,6 @@ Nilai prosedur terletak pada masalah klinis yang diselesaikannya dan bagaimana h
 ## SEO Metadata
 
 - **Primary keyword:** operasi untuk limfoma sel mantel
+
+- **Meta title:** Prosedur Limfoma Sel Mantel di Tiongkok: Tujuan dan Perencanaan
+- **Meta description:** Pahami tujuan biopsi, akses vena, pemeriksaan sumsum, dan pengumpulan sel pada limfoma sel mantel untuk merencanakan prosedur di Tiongkok.

@@ -1,15 +1,17 @@
-# L'évaluation préopératoire n'est pas une simple formalité : elle construit le plan chirurgical le plus sûr possible
+# Préparer une opération en Chine : examens et consultation d’anesthésie
 
 ## Hero
 
-- **Title:** L'évaluation préopératoire n'est pas une simple formalité : elle construit le plan chirurgical le plus sûr possible
 - **Category:** Éducation des patients et questions fréquentes
 - **Subcategory:** Chirurgie et sécurité hospitalière
-- **Subtitle:** Ce que les chirurgiens, les équipes d'anesthésiologie et les patients doivent clarifier sur l'évolution de la santé, les médicaments, les examens, le jeûne, les risques et les soins postopératoires avant que le calendrier du bloc opératoire ne devienne le plan.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un chirurgien et un infirmier de consultation préopératoire effectuent une évaluation en personne avec un patient avant la chirurgie
+
+
+- **Title:** Préparer une opération en Chine : examens et consultation d’anesthésie
+- **Subtitle:** Découvrez ce que vérifie réellement l'évaluation préopératoire, pourquoi les examens sont sélectifs, comment médicaments et jeûne sont planifiés, quand la chirurgie peut être reportée et quoi apporter.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,11 +147,13 @@ Non. L'évaluation élabore le plan médical sur plusieurs jours ou semaines. La
 
 ## SEO Metadata
 
-- **SEO title:** Évaluation préopératoire : examens, médicaments, anesthésie et préparation à la chirurgie
-- **Meta description:** Découvrez ce que vérifie réellement l'évaluation préopératoire, pourquoi les examens sont sélectifs, comment médicaments et jeûne sont planifiés, quand la chirurgie peut être reportée et quoi apporter.
 - **Primary keyword:** évaluation préopératoire avant la chirurgie
 - **Secondary keywords:** évaluation préanesthésique, examens préopératoires, aptitude à la chirurgie, risque périopératoire, médicaments avant la chirurgie, liste de vérification de sécurité chirurgicale
 - **Suggested URL slug:** `/preoperative-assessment-tests-medicines-anesthesia-risk`
+
+
+- **Meta title:** Préparer une opération en Chine : examens et consultation d’anesthésie
+- **Meta description:** Découvrez ce que vérifie réellement l'évaluation préopératoire, pourquoi les examens sont sélectifs, comment médicaments et jeûne sont planifiés, quand la chirurgie peut être reportée et quoi apporter.
 
 ## Sources
 

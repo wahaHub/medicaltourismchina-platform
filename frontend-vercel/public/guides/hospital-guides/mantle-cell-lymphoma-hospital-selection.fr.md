@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choisir un hôpital en Chine pour un lymphome à cellules du manteau : avis spécialisé et continuité des soins
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Lymphome à cellules du manteau
-- **Subtitle:** Les patients commencent souvent à choisir un hôpital pour un lymphome à cellules du manteau en comparant les réputations avant de définir la question que la visite doit résoudre.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choisir un hôpital en Chine pour un lymphome à cellules du manteau : avis spécialisé et continuité des soins
+- **Subtitle:** Pour un lymphome du manteau en Chine, vérifiez la relecture du diagnostic, le choix de l’intensité thérapeutique et la continuité du parcours à la rechute.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Lorsque les avis diffèrent, déterminez si les deux équipes ont examiné les m
 ## SEO Metadata
 
 - **Primary keyword:** hôpitaux pour le lymphome à cellules du manteau en Chine
+
+- **Meta title:** Choisir un hôpital en Chine pour un lymphome à cellules du manteau : avis spécialisé et continuité des soins
+- **Meta description:** Pour un lymphome du manteau en Chine, vérifiez la relecture du diagnostic, le choix de l’intensité thérapeutique et la continuité du parcours à la rechute.

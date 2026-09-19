@@ -1,12 +1,14 @@
-# Comprendre un compte rendu d’évaluation de Parkinson : scores, imagerie et résultats des biomarqueurs
+# Comptes rendus de Parkinson : préparer une évaluation en Chine
 
 ## Hero
 
-- **Title:** Comprendre un compte rendu d’évaluation de Parkinson : scores, imagerie et résultats des biomarqueurs
 - **Category:** Éducation des patients et questions fréquentes
 - **Subcategory:** Maladie de Parkinson
-- **Subtitle:** Un dossier de Parkinson peut contenir un stade de Hoehn–Yahr, un score de la partie III de la MDS-UPDRS, une diminution de la fixation striatale et une recommandation d’évaluation cognitive.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Comptes rendus de Parkinson : préparer une évaluation en Chine
+- **Subtitle:** Comprenez scores moteurs, stade fonctionnel, imagerie et biomarqueurs de Parkinson avec leur contexte médicamenteux avant une évaluation en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Données examinées : September 9, 2026. Cet article explique les termes courant
 ## SEO Metadata
 
 - **Primary keyword:** explication du compte rendu de maladie de Parkinson
+
+- **Meta title:** Comptes rendus de Parkinson : préparer une évaluation en Chine
+- **Meta description:** Comprenez scores moteurs, stade fonctionnel, imagerie et biomarqueurs de Parkinson avec leur contexte médicamenteux avant une évaluation en Chine.

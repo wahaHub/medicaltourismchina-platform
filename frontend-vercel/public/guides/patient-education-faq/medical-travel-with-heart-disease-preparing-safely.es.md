@@ -1,15 +1,17 @@
-# Viajes médicos con cardiopatía: la estabilidad debe mantenerse durante todo el itinerario
+# Viajes médicos a China con cardiopatía: preparación
 
 ## Hero
 
-- **Title:** Viajes médicos con cardiopatía: la estabilidad debe mantenerse durante todo el itinerario
 - **Category:** Educación para pacientes y preguntas frecuentes
 - **Subcategory:** Enfermedades crónicas y viajes
-- **Subtitle:** Un plan específico para el trayecto en caso de enfermedad coronaria, insuficiencia cardíaca, trastornos del ritmo, procedimientos recientes, dispositivos cardíacos, oxígeno y emergencias durante el viaje.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Una pareja revisa un resumen médico cardiológico, los medicamentos y el calendario de tratamiento antes de volar a un hospital
+
+
+- **Title:** Viajes médicos a China con cardiopatía: preparación
+- **Subtitle:** Prepárese para viajar por motivos médicos con cardiopatía: autorización, registros de ECG, medicamentos, oxígeno, dispositivos cardíacos, riesgo de coágulos y actuación de emergencia.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - La presión torácica nueva o que empeora, la dificultad respiratoria intensa, el desmayo, las palpitaciones sostenidas con debilidad, los síntomas de ictus o una descarga del desfibrilador implantado con síntomas persistentes requieren atención local urgente.
 
 ## Content
+
+Si tiene una cardiopatía y está valorando un viaje médico a China, lleve a la revisión previa al viaje el diagnóstico exacto, los episodios recientes y el recorrido completo. El plan debe abarcar la continuidad de la medicación, la asistencia durante los traslados y qué hacer si los síntomas cambian antes del viaje o durante él.
+
 
 Una visita tranquila a la consulta no demuestra que un paciente pueda afrontar dos aeropuertos, una conexión perdida y una ciudad desconocida. La autorización cardiológica para viajar debe contrastar el itinerario con la reserva funcional actual del paciente y proporcionar un plan para cuando surjan problemas.
 
@@ -104,11 +109,13 @@ La presión torácica nueva, la dificultad respiratoria intensa, el desmayo, los
 
 ## SEO Metadata
 
-- **SEO title:** Viajes médicos con cardiopatía: preparación segura
-- **Meta description:** Prepárese para viajar por motivos médicos con cardiopatía: autorización, registros de ECG, medicamentos, oxígeno, dispositivos cardíacos, riesgo de coágulos y actuación de emergencia.
 - **Primary keyword:** viajes médicos con cardiopatía
 - **Secondary keywords:** volar con cardiopatía, viajar después de un stent cardíaco, viajes en avión con insuficiencia cardíaca, marcapasos seguridad aeroportuaria, autorización cardiológica para viajar
 - **Suggested URL slug:** `/medical-travel-heart-disease-safely`
+
+
+- **Meta title:** Viajes médicos a China con cardiopatía: preparación
+- **Meta description:** Prepárese para viajar por motivos médicos con cardiopatía: autorización, registros de ECG, medicamentos, oxígeno, dispositivos cardíacos, riesgo de coágulos y actuación de emergencia.
 
 ## Fuentes
 

@@ -1,12 +1,14 @@
-# Ketidaknyamanan dan Risiko Pengobatan Selama Rehabilitasi Stroke: Kapan Menyesuaikan atau Mencari Bantuan
+# Rehabilitasi Stroke di Tiongkok: Ketidaknyamanan dan Tanda Bahaya
 
 ## Hero
 
-- **Title:** Ketidaknyamanan dan Risiko Pengobatan Selama Rehabilitasi Stroke: Kapan Menyesuaikan atau Mencari Bantuan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Rehabilitasi Pascastroke Iskemik
-- **Subtitle:** Rehabilitasi melibatkan latihan, tetapi nyeri, pusing, atau sangat mengantuk setelah minum obat tidak boleh otomatis diterima sebagai bukti bahwa pengobatan bekerja.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rehabilitasi Stroke di Tiongkok: Ketidaknyamanan dan Tanda Bahaya
+- **Subtitle:** Kenali nyeri, pusing, dan gejala lain selama rehabilitasi stroke di Tiongkok. Bedakan kebutuhan penyesuaian latihan dari pertolongan medis segera.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ Setelah perubahan, tinjau apa yang dapat dilanjutkan dengan aman oleh orang ters
 ## SEO Metadata
 
 - **Primary keyword:** efek samping dan keselamatan rehabilitasi stroke
+
+- **Meta title:** Rehabilitasi Stroke di Tiongkok: Ketidaknyamanan dan Tanda Bahaya
+- **Meta description:** Kenali nyeri, pusing, dan gejala lain selama rehabilitasi stroke di Tiongkok. Bedakan kebutuhan penyesuaian latihan dari pertolongan medis segera.

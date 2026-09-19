@@ -1,12 +1,14 @@
-# Comparer les traitements du myélome multiple : tenir compte du stade et des antécédents de résistance
+# Options de traitement du myélome en Chine : comparer selon l’étape des soins
 
 ## Hero
 
-- **Title:** Comparer les traitements du myélome multiple : tenir compte du stade et des antécédents de résistance
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Myélome multiple
-- **Subtitle:** Lorsque deux recommandations pour le myélome diffèrent, demander laquelle est la plus puissante ne suffit pas forcément à choisir.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Options de traitement du myélome en Chine : comparer selon l’étape des soins
+- **Subtitle:** Comparez les traitements du myélome selon la phase, l’aptitude à la greffe et les résistances antérieures pour préparer une décision de soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Enfin, demandez à chaque médecin quelle preuve ou contrainte personnelle expli
 ## SEO Metadata
 
 - **Primary keyword:** comparaison des traitements du myélome multiple
+
+- **Meta title:** Options de traitement du myélome en Chine : comparer selon l’étape des soins
+- **Meta description:** Comparez les traitements du myélome selon la phase, l’aptitude à la greffe et les résistances antérieures pour préparer une décision de soins en Chine.

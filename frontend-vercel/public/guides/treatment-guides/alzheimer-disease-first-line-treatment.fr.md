@@ -1,12 +1,14 @@
-# Après un diagnostic de maladie d’Alzheimer : élaborer le premier plan de traitement
+# Commencer un traitement d’Alzheimer en Chine : le premier plan de soins
 
 ## Hero
 
-- **Title:** Après un diagnostic de maladie d’Alzheimer : élaborer le premier plan de traitement
 - **Category:** Guides des traitements
 - **Subcategory:** Maladie d’Alzheimer
-- **Subtitle:** Après un diagnostic de maladie d’Alzheimer, il est compréhensible de vouloir commencer immédiatement tous les traitements disponibles.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Commencer un traitement d’Alzheimer en Chine : le premier plan de soins
+- **Subtitle:** Après un diagnostic d’Alzheimer, préparez en Chine un premier plan associant objectifs, revue des médicaments, traitement symptomatique et organisation à domicile.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ La famille n’a pas à régler toutes les décisions futures lors de la premiè
 ## SEO Metadata
 
 - **Primary keyword:** traitement initial de la maladie d’Alzheimer
+
+- **Meta title:** Commencer un traitement d’Alzheimer en Chine : le premier plan de soins
+- **Meta description:** Après un diagnostic d’Alzheimer, préparez en Chine un premier plan associant objectifs, revue des médicaments, traitement symptomatique et organisation à domicile.

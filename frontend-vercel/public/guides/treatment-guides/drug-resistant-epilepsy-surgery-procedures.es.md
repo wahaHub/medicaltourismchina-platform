@@ -1,12 +1,14 @@
-# Cirugía de epilepsia farmacorresistente: prepararse para evaluación, consentimiento, procedimiento y recuperación
+# Cirugía de epilepsia farmacorresistente en China: planificación y recuperación
 
 ## Hero
 
-- **Title:** Cirugía de epilepsia farmacorresistente: prepararse para evaluación, consentimiento, procedimiento y recuperación
 - **Category:** Guías de tratamiento
 - **Subcategory:** Epilepsia farmacorresistente
-- **Subtitle:** La derivación a un cirujano de epilepsia suele plantear dos preguntas a la vez: ¿podría esto por fin mejorar las crisis y qué podría cambiar en memoria, habla o independencia?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Cirugía de epilepsia farmacorresistente en China: planificación y recuperación
+- **Subtitle:** Prepare la evaluación y cirugía de epilepsia farmacorresistente en China con preguntas sobre localización de crisis, consentimiento, capacidades y recuperación.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Pida un desglose de evaluación, cirugía, dispositivos y posible atención hosp
 ## SEO Metadata
 
 - **Primary keyword:** cirugía de epilepsia farmacorresistente; evaluación prequirúrgica de epilepsia; recuperación de cirugía de epilepsia; cirugía de epilepsia en China
+
+- **Meta title:** Cirugía de epilepsia farmacorresistente en China: planificación y recuperación
+- **Meta description:** Prepare la evaluación y cirugía de epilepsia farmacorresistente en China con preguntas sobre localización de crisis, consentimiento, capacidades y recuperación.

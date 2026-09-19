@@ -1,15 +1,17 @@
-# 肿瘤疫苗试验：研究究竟在验证什么
+# 中国肿瘤疫苗临床试验：证据与入组条件
 
 ## Hero
 
-- **Title:** 肿瘤疫苗试验：研究究竟在验证什么
 - **Category:** 临床试验与先进治疗
 - **Subcategory:** 肿瘤免疫治疗
-- **Subtitle:** 先区分预防与治疗，再查看抗原选择、疫苗平台、免疫指标、制造时间和真正重要的临床终点。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **图片替代文字：** 与《082 肿瘤疫苗试验：研究究竟在验证什么》对应的临床场景，呈现相关诊疗决策、操作流程与安全核对。
+
+
+- **Title:** 中国肿瘤疫苗临床试验：证据与入组条件
+- **Subtitle:** 了解治疗性肿瘤疫苗，包括预防与治疗区别、抗原、新抗原制造、免疫终点、联合方案和中国试验核验。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -162,11 +164,13 @@ Sipuleucel-T 是美国获批的自体细胞免疫治疗，用于无症状或轻�
 ## SEO Metadata
 
 - **Slug:** `cancer-vaccine-trials-what-the-research-is-testing`
-- **Meta title:** 肿瘤疫苗试验：抗原、证据与制造
-- **Meta description:** 了解治疗性肿瘤疫苗，包括预防与治疗区别、抗原、新抗原制造、免疫终点、联合方案和中国试验核验。
 - **Primary keyword:** 肿瘤疫苗临床试验
 - **Secondary keywords:** 治疗性肿瘤疫苗；个体化新抗原疫苗；中国肿瘤疫苗；肿瘤疫苗免疫原性；树突细胞疫苗试验
 - **Search intent:** 肿瘤疫苗试验证据 / 入组筛查
+
+
+- **Meta title:** 中国肿瘤疫苗临床试验：证据与入组条件
+- **Meta description:** 了解治疗性肿瘤疫苗，包括预防与治疗区别、抗原、新抗原制造、免疫终点、联合方案和中国试验核验。
 
 ## Sources
 

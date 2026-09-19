@@ -1,12 +1,14 @@
-# Gérer les effets indésirables du traitement de la GVHD : symptômes, surveillance et continuité des soins
+# Traitement de la GVH en Chine : effets indésirables et surveillance
 
 ## Hero
 
-- **Title:** Gérer les effets indésirables du traitement de la GVHD : symptômes, surveillance et continuité des soins
 - **Category:** Guides des traitements
 - **Subcategory:** Maladie du greffon contre l’hôte
-- **Subtitle:** Pendant le traitement de la maladie du greffon contre l’hôte, la fatigue, la diarrhée ou un bilan hépatique anormal peuvent avoir plusieurs explications possibles.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement de la GVH en Chine : effets indésirables et surveillance
+- **Subtitle:** Pendant un traitement de GVH en Chine, repérez les signes urgents et reliez symptômes, corticoïdes et résultats biologiques aux changements récents.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -121,3 +123,6 @@ La surveillance, les consultations spécialisées, le traitement des infections 
 ## SEO Metadata
 
 - **Primary keyword:** effets indésirables et surveillance du traitement de la GVHD en Chine
+
+- **Meta title:** Traitement de la GVH en Chine : effets indésirables et surveillance
+- **Meta description:** Pendant un traitement de GVH en Chine, repérez les signes urgents et reliez symptômes, corticoïdes et résultats biologiques aux changements récents.

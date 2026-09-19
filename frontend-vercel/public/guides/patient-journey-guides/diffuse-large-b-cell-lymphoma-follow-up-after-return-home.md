@@ -1,12 +1,14 @@
-# DLBCL follow-up after returning home: surveillance, recovery and handover
+# DLBCL Follow-Up After Treatment in China: Returning Home
 
 ## Hero
 
-- **Title:** DLBCL follow-up after returning home: surveillance, recovery and handover
 - **Category:** Patient Journey Guides
 - **Subcategory:** Diffuse Large B Cell Lymphoma
-- **Subtitle:** Follow-up after DLBCL treatment in China begins with a clear treatment conclusion and a working handover.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL Follow-Up After Treatment in China: Returning Home
+- **Subtitle:** Prepare DLBCL follow-up after treatment in China with the surveillance plan, infection precautions, treatment records and named clinicians at home.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Use the first home appointment to confirm that the handover is operational. Chec
 ## SEO Metadata
 
 - **Primary keyword:** DLBCL follow-up after returning home
+
+- **Meta title:** DLBCL Follow-Up After Treatment in China: Returning Home
+- **Meta description:** Prepare DLBCL follow-up after treatment in China with the surveillance plan, infection precautions, treatment records and named clinicians at home.

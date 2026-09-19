@@ -1,12 +1,14 @@
-# Médicaments de la maladie d’Alzheimer : symptômes cognitifs, anticorps et traitement de l’agitation
+# Médicaments d’Alzheimer en Chine : options, accès et surveillance
 
 ## Hero
 
-- **Title:** Médicaments de la maladie d’Alzheimer : symptômes cognitifs, anticorps et traitement de l’agitation
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Maladie d’Alzheimer
-- **Subtitle:** Une ordonnance pour la maladie d’Alzheimer peut comprendre des médicaments pour la cognition, le traitement d’autres maladies et un médicament contre des comportements éprouvants.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Médicaments d’Alzheimer en Chine : options, accès et surveillance
+- **Subtitle:** Comprenez les objectifs des médicaments d’Alzheimer, leurs formulations et la surveillance des anticorps pour préparer un traitement adapté en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -143,3 +145,6 @@ La valeur de l’ordonnance dépend en partie du maintien de cette organisation.
 ## SEO Metadata
 
 - **Primary keyword:** médicaments de la maladie d’Alzheimer
+
+- **Meta title:** Médicaments d’Alzheimer en Chine : options, accès et surveillance
+- **Meta description:** Comprenez les objectifs des médicaments d’Alzheimer, leurs formulations et la surveillance des anticorps pour préparer un traitement adapté en Chine.

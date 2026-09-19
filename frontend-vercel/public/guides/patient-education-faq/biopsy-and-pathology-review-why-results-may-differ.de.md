@@ -1,15 +1,17 @@
-# Wenn zwei Pathologiebefunde voneinander abweichen: Probe, Methoden und Diagnose vor der Behandlung abgleichen
+# Pathologische Zweitbegutachtung in China: Unterschiedliche Befunde klären
 
 ## Hero
 
-- **Title:** Wenn zwei Pathologiebefunde voneinander abweichen: Probe, Methoden und Diagnose vor der Behandlung abgleichen
 - **Category:** Patienteninformation und häufige Fragen
 - **Subcategory:** Untersuchungen und Diagnose
-- **Subtitle:** Ein grenzüberschreitender Leitfaden zu Objektträgern, Paraffinblöcken, Probenentnahme, Immunhistochemie, molekularen Tests und der Klärung klinisch wichtiger Abweichungen.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Patienten besprechen den Ablauf einer pathologischen Zweitbeurteilung mit Symbolen für Mikroskop, Gewebeobjektträger, Fachärzteteam und Abschlussbefund
+
+
+- **Title:** Pathologische Zweitbegutachtung in China: Unterschiedliche Befunde klären
+- **Subtitle:** Verstehen Sie Probenentnahme, Gewebeverarbeitung, Färbungen, molekulare Tests und Tumorheterogenität und übertragen Sie Objektträger/Blöcke sicher zur pathologischen Zweitbeurteilung.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -198,13 +200,15 @@ Ja. Unterschiedliche Tumorbereiche oder Zeitpunkte können unterschiedliche Biom
 ## SEO Metadata
 
 - **Slug:** `biopsy-and-pathology-review-why-results-may-differ`
-- **Meta title:** Unterschiedliche Pathologiebefunde: So lässt sich die Diagnose abgleichen
-- **Meta description:** Verstehen Sie Probenentnahme, Gewebeverarbeitung, Färbungen, molekulare Tests und Tumorheterogenität und übertragen Sie Objektträger/Blöcke sicher zur pathologischen Zweitbeurteilung.
 - **Primary keyword:** pathologische Zweitbeurteilung abweichende Diagnose
 - **Pillar keyword:** Krebsdiagnose in China
 - **Vertical keyword:** Zweitmeinung zu Biopsieobjektträgern und -blöcken
 - **Search intent:** Orientierung bei widersprüchlichen Pathologiebefunden
 - **Secondary keywords:** pathologische Zweitmeinung China; Paraffinblock übertragen; Biopsie gegenüber Resektion; Biomarkerdiskordanz; Tumorgewebe erhalten
+
+
+- **Meta title:** Pathologische Zweitbegutachtung in China: Unterschiedliche Befunde klären
+- **Meta description:** Verstehen Sie Probenentnahme, Gewebeverarbeitung, Färbungen, molekulare Tests und Tumorheterogenität und übertragen Sie Objektträger/Blöcke sicher zur pathologischen Zweitbeurteilung.
 
 ## Quellen
 

@@ -1,15 +1,17 @@
-# Clinical Trial Phases Explained for Patients
+# Clinical Trial Phases 0–IV: A Patient Guide for China
 
 ## Hero
 
-- **Title:** Clinical Trial Phases Explained for Patients
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Clinical Trial Fundamentals
-- **Subtitle:** Use the phase to understand the study’s main question, then read the actual protocol, arms, endpoints and prior evidence before judging personal relevance.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Replacement needed: a patient and research clinician reviewing a clear Phase 0–IV timeline with dose, comparison, approval and post-market milestones.
+
+
+- **Title:** Clinical Trial Phases 0–IV: A Patient Guide for China
+- **Subtitle:** Understand Phase 0–IV, combined and adaptive trials, dose escalation, randomisation, endpoints, post-market studies and consent in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,11 +141,13 @@ Not necessarily. The product is marketed, but the study may test a new populatio
 ## SEO Metadata
 
 - **Slug:** `clinical-trial-phases-explained-for-patients`
-- **Meta title:** Clinical Trial Phases 0–IV Explained for Patients
-- **Meta description:** Understand Phase 0–IV, combined and adaptive trials, dose escalation, randomisation, endpoints, post-market studies and consent in China.
 - **Primary keyword:** clinical trial phases explained
 - **Secondary keywords:** Phase I clinical trial; Phase II trial; Phase III randomised trial; Phase IV study; clinical trial China
 - **Search intent:** clinical-trial education / participation decision
+
+
+- **Meta title:** Clinical Trial Phases 0–IV: A Patient Guide for China
+- **Meta description:** Understand Phase 0–IV, combined and adaptive trials, dose escalation, randomisation, endpoints, post-market studies and consent in China.
 
 ## Sources
 

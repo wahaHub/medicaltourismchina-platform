@@ -1,15 +1,17 @@
-# 092 Biopsi Cair dalam Perawatan Kanker: Kegunaan, Keterbatasan, dan Uji Klinis
+# Biopsi Cair di Tiongkok: Pemeriksaan Kanker, Keterbatasan, dan Uji Klinis
 
 ## Hero
 
-- **Title:** Biopsi Cair dalam Perawatan Kanker: Kegunaan, Keterbatasan, dan Uji Klinis
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Pengujian Molekuler & Onkologi Presisi
-- **Subtitle:** Sesuaikan spesimen, metode uji, dan keputusan klinis—serta pahami apa yang tidak dapat disingkirkan oleh hasil negatif.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustrasi konsultasi sementara dengan ikon tabung reaksi, menunggu gambar plasma darah, DNA bebas sel, dan sekuensing yang akurat secara ilmiah.
+
+
+- **Title:** Biopsi Cair di Tiongkok: Pemeriksaan Kanker, Keterbatasan, dan Uji Klinis
+- **Subtitle:** Pahami biopsi cair ctDNA untuk kanker lanjut, MRD, pemantauan, dan skrining, termasuk negatif palsu, hematopoiesis klonal, konfirmasi jaringan, dan uji klinis.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,11 +139,13 @@ DNA sel darah putih membantu membedakan varian tumor dari hematopoiesis klonal a
 ## SEO Metadata
 
 - **Slug:** `liquid-biopsy-in-cancer-care-uses-limits-and-clinical-trials`
-- **Meta title:** Biopsi Cair pada Kanker: Kegunaan, Keterbatasan, dan Uji Klinis
-- **Meta description:** Pahami biopsi cair ctDNA untuk kanker lanjut, MRD, pemantauan, dan skrining, termasuk negatif palsu, hematopoiesis klonal, konfirmasi jaringan, dan uji klinis.
 - **Primary keyword:** biopsi cair dalam perawatan kanker
 - **Secondary keywords:** pemeriksaan ctDNA; penyakit residual molekuler; pengujian genomik plasma; biopsi cair negatif palsu; uji klinis ctDNA
 - **Search intent:** interpretasi pemeriksaan molekuler / skrining uji klinis
+
+
+- **Meta title:** Biopsi Cair di Tiongkok: Pemeriksaan Kanker, Keterbatasan, dan Uji Klinis
+- **Meta description:** Pahami biopsi cair ctDNA untuk kanker lanjut, MRD, pemantauan, dan skrining, termasuk negatif palsu, hematopoiesis klonal, konfirmasi jaringan, dan uji klinis.
 
 ## Sumber
 

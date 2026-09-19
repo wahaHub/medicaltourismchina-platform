@@ -1,15 +1,17 @@
-# 007 Apa yang Diharapkan Saat Kunjungan Rawat Jalan di Rumah Sakit Tiongkok
+# Kunjungan Rawat Jalan di Rumah Sakit Tiongkok: Apa yang Perlu Diketahui
 
 ## Hero
 
-- **Title:** Apa yang Diharapkan Saat Kunjungan Rawat Jalan di Rumah Sakit Tiongkok
 - **Category:** Panduan Layanan Kesehatan Tiongkok
 - **Subcategory:** Kunjungan Rawat Jalan
-- **Subtitle:** Kunjungan rawat jalan di Tiongkok sering berupa rangkaian langkah singkat—pemeriksaan identitas, konsultasi, pembayaran, pemeriksaan, hasil, dan keputusan berikutnya—alih-alih satu janji temu panjang.
 - **Reviewed by:** Tim Editorial Medora Health; tinjauan sistem layanan kesehatan diperlukan sebelum publikasi
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Pasien internasional dan pendamping berbicara dengan dokter di klinik rawat jalan Tiongkok
+
+
+- **Title:** Kunjungan Rawat Jalan di Rumah Sakit Tiongkok: Apa yang Perlu Diketahui
+- **Subtitle:** Ikuti proses rawat jalan di Tiongkok mulai dari lapor kedatangan dengan paspor dan konsultasi hingga pemeriksaan, pembayaran, apotek, hasil, dan tindak lanjut.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -158,13 +160,15 @@ Penerjemah dapat memfasilitasi komunikasi, tetapi dokter memerlukan riwayat dan 
 ## SEO Metadata
 
 - **Slug:** `chinese-hospital-outpatient-appointment`
-- **Meta title:** Apa yang Diharapkan Saat Kunjungan Rawat Jalan di Rumah Sakit Tiongkok
-- **Meta description:** Ikuti proses rawat jalan di Tiongkok mulai dari lapor kedatangan dengan paspor dan konsultasi hingga pemeriksaan, pembayaran, apotek, hasil, dan tindak lanjut.
 - **Primary keyword:** janji rawat jalan rumah sakit Tiongkok
 - **Pillar keyword:** layanan kesehatan di Tiongkok bagi pasien internasional
 - **Vertical keyword:** kunjungan rawat jalan Tiongkok
 - **Search intent:** praktis / persiapan kunjungan
 - **Secondary keywords:** kunjungan klinik rumah sakit Tiongkok; rawat jalan pasien internasional Tiongkok; apa yang terjadi di rumah sakit Tiongkok
+
+
+- **Meta title:** Kunjungan Rawat Jalan di Rumah Sakit Tiongkok: Apa yang Perlu Diketahui
+- **Meta description:** Ikuti proses rawat jalan di Tiongkok mulai dari lapor kedatangan dengan paspor dan konsultasi hingga pemeriksaan, pembayaran, apotek, hasil, dan tindak lanjut.
 
 ## Sumber
 

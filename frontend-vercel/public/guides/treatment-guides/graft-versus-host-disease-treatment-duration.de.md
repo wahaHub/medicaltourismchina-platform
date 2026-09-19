@@ -1,12 +1,14 @@
-# Wie lange dauert eine GVHD-Behandlung? Aufnahme, Ansprechbewertung, Ausschleichen und Rückreise planen
+# GVHD-Behandlung in China: Aufnahme, Beurteilung und Reisezeitpunkt
 
 ## Hero
 
-- **Title:** Wie lange dauert eine GVHD-Behandlung? Aufnahme, Ansprechbewertung, Ausschleichen und Rückreise planen
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Graft-versus-Host-Erkrankung
-- **Subtitle:** Die Dauer eines Aufenthalts in China und die Dauer der Behandlung einer Graft-versus-Host-Erkrankung sind unterschiedliche Fragen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** GVHD-Behandlung in China: Aufnahme, Beurteilung und Reisezeitpunkt
+- **Subtitle:** GVHD-Behandlungsdauer in China planen: Organverlauf, Ansprechkontrollen, Ausschleichen und Reisezeitpunkt abstimmen und bleibende Schäden von Aktivität unterscheiden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Ein hilfreiches Gespräch über die Dauer liefert drei praktische Antworten: das
 ## SEO Metadata
 
 - **Primary keyword:** GVHD-Behandlungsdauer und Krankenhausaufenthalt in China
+
+- **Meta title:** GVHD-Behandlung in China: Aufnahme, Beurteilung und Reisezeitpunkt
+- **Meta description:** GVHD-Behandlungsdauer in China planen: Organverlauf, Ansprechkontrollen, Ausschleichen und Reisezeitpunkt abstimmen und bleibende Schäden von Aktivität unterscheiden.

@@ -1,12 +1,14 @@
-# Obat untuk limfoma sel T: indikasi, pemantauan, dan pengobatan di rumah
+# Obat Limfoma Sel T di Tiongkok: Indikasi dan Pemantauan
 
 ## Hero
 
-- **Title:** Obat untuk limfoma sel T: indikasi, pemantauan, dan pengobatan di rumah
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel T
-- **Subtitle:** Daftar nama obat yang terus bertambah kurang berguna dibandingkan memahami apa yang digunakan seseorang, mengapa dipilih, dan bagaimana pemantauannya.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat Limfoma Sel T di Tiongkok: Indikasi dan Pemantauan
+- **Subtitle:** Pahami indikasi dan jadwal obat limfoma sel T di Tiongkok. Siapkan pemantauan, catatan resep, dan dukungan penggunaan obat setelah pulang.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -109,3 +111,6 @@ Saat peninjauan, mintalah tahap berikutnya secara tertulis: obat mana yang dilan
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan obat untuk limfoma sel T
+
+- **Meta title:** Obat Limfoma Sel T di Tiongkok: Indikasi dan Pemantauan
+- **Meta description:** Pahami indikasi dan jadwal obat limfoma sel T di Tiongkok. Siapkan pemantauan, catatan resep, dan dukungan penggunaan obat setelah pulang.

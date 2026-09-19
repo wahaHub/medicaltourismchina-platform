@@ -1,12 +1,14 @@
-# Comparar tratamientos del linfoma de células del manto: quimioinmunoterapia, combinaciones con BTK y trasplante autólogo
+# Linfoma de células del manto en China: comparar opciones de tratamiento
 
 ## Hero
 
-- **Title:** Comparar tratamientos del linfoma de células del manto: quimioinmunoterapia, combinaciones con BTK y trasplante autólogo
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de células del manto
-- **Subtitle:** Búsquedas relacionadas: BR frente a combinaciones dirigidas; decisión de trasplante en LCM; comparar tratamientos en China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Linfoma de células del manto en China: comparar opciones de tratamiento
+- **Subtitle:** Compare pautas de linfoma de células del manto en China, incluidas combinaciones con inhibidores de BTK y trasplante, según objetivos y tratamiento completo.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ La recomendación debe terminar con una razón comprensible: por qué se ajusta 
 ## SEO Metadata
 
 - **Primary keyword:** comparación de tratamientos del linfoma de células del manto
+
+- **Meta title:** Linfoma de células del manto en China: comparar opciones de tratamiento
+- **Meta description:** Compare pautas de linfoma de células del manto en China, incluidas combinaciones con inhibidores de BTK y trasplante, según objetivos y tratamiento completo.

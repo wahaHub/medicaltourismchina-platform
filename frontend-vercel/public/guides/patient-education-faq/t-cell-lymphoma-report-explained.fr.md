@@ -1,12 +1,14 @@
-# Lire les comptes rendus de lymphome T : relier anatomopathologie, TEP et résultats sanguins
+# Comptes rendus du lymphome T : préparer une relecture en Chine
 
 ## Hero
 
-- **Title:** Lire les comptes rendus de lymphome T : relier anatomopathologie, TEP et résultats sanguins
 - **Category:** Éducation des patients et questions fréquentes
 - **Subcategory:** Lymphome T
-- **Subtitle:** Un compte rendu anatomopathologique peut indiquer CD30 positif, celui de la moelle ne trouver aucun lymphome certain, et celui de la TEP décrire plusieurs sites actifs.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Comptes rendus du lymphome T : préparer une relecture en Chine
+- **Subtitle:** Reliez sous-type, marqueurs tissulaires, tests moléculaires et TEP du lymphome T pour préparer une relecture cohérente de votre dossier en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Pour demander un autre avis, classez les rapports par date et précisez si chaqu
 ## SEO Metadata
 
 - **Primary keyword:** interprétation des comptes rendus de lymphome T
+
+- **Meta title:** Comptes rendus du lymphome T : préparer une relecture en Chine
+- **Meta description:** Reliez sous-type, marqueurs tissulaires, tests moléculaires et TEP du lymphome T pour préparer une relecture cohérente de votre dossier en Chine.

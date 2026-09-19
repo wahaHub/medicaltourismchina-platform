@@ -1,12 +1,14 @@
-# Tests for suspected multiple sclerosis: preparing for MRI, spinal-fluid testing, and specialist review
+# Multiple Sclerosis Assessment in China: MRI and Other Tests
 
 ## Hero
 
-- **Title:** Tests for suspected multiple sclerosis: preparing for MRI, spinal-fluid testing, and specialist review
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Multiple Sclerosis
-- **Subtitle:** An MS assessment is designed to explain a neurological problem, not simply to complete a standard package of tests.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Multiple Sclerosis Assessment in China: MRI and Other Tests
+- **Subtitle:** Coordinate an MS assessment in China with the relevant MRI, spinal-fluid records and specialist questions before committing to a short visit.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ For costs, request a list of tests considered necessary now and those conditiona
 ## SEO Metadata
 
 - **Primary keyword:** multiple sclerosis diagnostic tests in China
+
+- **Meta title:** Multiple Sclerosis Assessment in China: MRI and Other Tests
+- **Meta description:** Coordinate an MS assessment in China with the relevant MRI, spinal-fluid records and specialist questions before committing to a short visit.

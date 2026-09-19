@@ -1,12 +1,14 @@
-# Comparación de regímenes para el linfoma de Hodgkin: ABVD, N-AVD, BV-AVD y BrECADD
+# Pautas de tratamiento del linfoma de Hodgkin en China: comparar opciones
 
 ## Hero
 
-- **Title:** Comparación de regímenes para el linfoma de Hodgkin: ABVD, N-AVD, BV-AVD y BrECADD
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de Hodgkin
-- **Subtitle:** La primera regla al comparar tratamientos del linfoma de Hodgkin es comprobar que las recomendaciones se refieren al mismo contexto.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pautas de tratamiento del linfoma de Hodgkin en China: comparar opciones
+- **Subtitle:** Compare pautas para linfoma de Hodgkin en China según el contexto clínico, los riesgos pulmonares y otros efectos, y el papel de la radioterapia.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -136,3 +138,6 @@ Después de elegir, conserve el registro de la conversación. Un nuevo titular d
 ## SEO Metadata
 
 - **Primary keyword:** comparación de tratamientos del linfoma de Hodgkin
+
+- **Meta title:** Pautas de tratamiento del linfoma de Hodgkin en China: comparar opciones
+- **Meta description:** Compare pautas para linfoma de Hodgkin en China según el contexto clínico, los riesgos pulmonares y otros efectos, y el papel de la radioterapia.

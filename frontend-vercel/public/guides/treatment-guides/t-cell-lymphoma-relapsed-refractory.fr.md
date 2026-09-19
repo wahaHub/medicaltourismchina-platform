@@ -1,12 +1,14 @@
-# Que se passe-t-il après un lymphome T en rechute ou réfractaire ? Confirmer le changement et préparer la ligne suivante
+# Lymphome T en rechute en Chine : réévaluation et traitement suivant
 
 ## Hero
 
-- **Title:** Que se passe-t-il après un lymphome T en rechute ou réfractaire ? Confirmer le changement et préparer la ligne suivante
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome T
-- **Subtitle:** Une nouvelle masse ou une évaluation concluant à une réponse insuffisante peut pousser un patient à rechercher d’urgence un autre médicament.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Lymphome T en rechute en Chine : réévaluation et traitement suivant
+- **Subtitle:** Avant un nouveau traitement du lymphome T en Chine, clarifiez la rechute, le besoin de biopsie, les médicaments reçus et l’objectif de la ligne suivante.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -121,3 +123,6 @@ Après la consultation, conservez un plan actuel unique indiquant la prochaine i
 ## SEO Metadata
 
 - **Primary keyword:** traitement du lymphome T en rechute réfractaire
+
+- **Meta title:** Lymphome T en rechute en Chine : réévaluation et traitement suivant
+- **Meta description:** Avant un nouveau traitement du lymphome T en Chine, clarifiez la rechute, le besoin de biopsie, les médicaments reçus et l’objectif de la ligne suivante.

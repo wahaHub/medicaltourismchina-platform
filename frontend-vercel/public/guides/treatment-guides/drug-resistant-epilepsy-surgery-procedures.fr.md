@@ -1,12 +1,14 @@
-# Chirurgie de l’épilepsie pharmacorésistante : préparer l’évaluation, le consentement, l’intervention et la récupération
+# Chirurgie de l’épilepsie pharmacorésistante en Chine : préparation et récupération
 
 ## Hero
 
-- **Title:** Chirurgie de l’épilepsie pharmacorésistante : préparer l’évaluation, le consentement, l’intervention et la récupération
 - **Category:** Guides des traitements
 - **Subcategory:** Épilepsie pharmacorésistante
-- **Subtitle:** Une orientation vers un chirurgien de l’épilepsie soulève souvent deux questions à la fois : cela pourrait-il enfin améliorer les crises, et que pourrait-il changer à la mémoire, à la parole ou à l’autonomie ?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Chirurgie de l’épilepsie pharmacorésistante en Chine : préparation et récupération
+- **Subtitle:** Préparez une chirurgie de l’épilepsie pharmacorésistante en Chine : localisation des crises, bilan fonctionnel, décision multidisciplinaire et récupération.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Demandez un décompte détaillé de l’évaluation, de la chirurgie, des dispos
 ## SEO Metadata
 
 - **Primary keyword:** chirurgie de l’épilepsie pharmacorésistante ; évaluation préchirurgicale de l’épilepsie ; récupération après chirurgie de l’épilepsie ; chirurgie de l’épilepsie en Chine
+
+- **Meta title:** Chirurgie de l’épilepsie pharmacorésistante en Chine : préparation et récupération
+- **Meta description:** Préparez une chirurgie de l’épilepsie pharmacorésistante en Chine : localisation des crises, bilan fonctionnel, décision multidisciplinaire et récupération.

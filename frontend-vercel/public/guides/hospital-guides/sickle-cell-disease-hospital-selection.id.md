@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Memilih Rumah Sakit di Tiongkok untuk Penyakit Sel Sabit: Keahlian, Dukungan Darah, dan Perawatan Berkelanjutan
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Penyakit Sel Sabit
-- **Subtitle:** Bagi seseorang dengan penyakit sel sabit, memilih rumah sakit berarti menemukan tim yang dapat memahami kondisi individu dan memberikan perawatan yang diperlukan baik selama kunjungan rutin maupun keadaan darurat.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Memilih Rumah Sakit di Tiongkok untuk Penyakit Sel Sabit: Keahlian, Dukungan Darah, dan Perawatan Berkelanjutan
+- **Subtitle:** Pilih layanan sel sabit di Tiongkok dengan pengalaman yang relevan, dukungan darah, dan penanganan darurat. Konfirmasikan kebutuhan sebelum perjalanan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -151,3 +153,6 @@ Bahasa, biaya, dan transportasi penting, tetapi harus dipertimbangkan bersama ke
 ## SEO Metadata
 
 - **Primary keyword:** rumah sakit untuk penyakit sel sabit di Tiongkok
+
+- **Meta title:** Memilih Rumah Sakit di Tiongkok untuk Penyakit Sel Sabit: Keahlian, Dukungan Darah, dan Perawatan Berkelanjutan
+- **Meta description:** Pilih layanan sel sabit di Tiongkok dengan pengalaman yang relevan, dukungan darah, dan penanganan darurat. Konfirmasikan kebutuhan sebelum perjalanan.

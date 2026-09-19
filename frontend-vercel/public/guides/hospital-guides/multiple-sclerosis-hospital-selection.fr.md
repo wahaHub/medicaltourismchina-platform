@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choisir un hôpital en Chine pour la sclérose en plaques : adapter l’équipe à l’ensemble du parcours de soins
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Sclérose en plaques
-- **Subtitle:** Choisir un hôpital en Chine pour la sclérose en plaques : adapter l’équipe à l’ensemble du parcours de soins
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choisir un hôpital en Chine pour la sclérose en plaques : adapter l’équipe à l’ensemble du parcours de soins
+- **Subtitle:** Évaluez un centre de sclérose en plaques en Chine selon le diagnostic différentiel, la comparaison des IRM, le suivi médicamenteux et la gestion des poussées.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Pour un patient stable bénéficiant de soins locaux efficaces, un second avis c
 ## SEO Metadata
 
 - **Primary keyword:** choisir un hôpital pour la sclérose en plaques en Chine
+
+- **Meta title:** Choisir un hôpital en Chine pour la sclérose en plaques : adapter l’équipe à l’ensemble du parcours de soins
+- **Meta description:** Évaluez un centre de sclérose en plaques en Chine selon le diagnostic différentiel, la comparaison des IRM, le suivi médicamenteux et la gestion des poussées.

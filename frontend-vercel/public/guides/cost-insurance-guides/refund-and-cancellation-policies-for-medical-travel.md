@@ -1,15 +1,17 @@
-# A Refund Is a Workflow: Cancel Medical Travel Without Losing the Paper Trail
+# Medical Travel to China: Refunds and Cancellations
 
 ## Hero
 
-- **Title:** A Refund Is a Workflow: Cancel Medical Travel Without Losing the Paper Trail
 - **Category:** Cost & Insurance Guides
 - **Subcategory:** Financial Risk & Protection
-- **Subtitle:** Separate hospital, facilitator, flight and lodging contracts; classify why the plan stopped; and track every refundable amount from notice to bank receipt.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** An international patient reviewing cancellation documents and calculations with a medical travel administrator beside packed luggage
+
+
+- **Title:** Medical Travel to China: Refunds and Cancellations
+- **Subtitle:** Map hospital, flight and lodging policies, classify why care stopped, calculate deductions and track a China medical travel refund into the bank.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -179,13 +181,15 @@ Obtain the approved amount, currency, release date, destination and payment trac
 ## SEO Metadata
 
 - **Slug:** `refund-and-cancellation-policies-for-medical-travel`
-- **Meta title:** Medical Travel Refunds: Cancellation and Tracking Guide
-- **Meta description:** Map hospital, flight and lodging policies, classify why care stopped, calculate deductions and track a China medical travel refund into the bank.
 - **Primary keyword:** medical travel refund policy
 - **Pillar keyword:** medical treatment cost in China
 - **Vertical keyword:** cancel medical treatment trip China
 - **Search intent:** cancellation planning / refund recovery
 - **Secondary keywords:** hospital deposit refund China; medical trip cancellation; airline medical cancellation; international patient refund; treatment prepayment
+
+
+- **Meta title:** Medical Travel to China: Refunds and Cancellations
+- **Meta description:** Map hospital, flight and lodging policies, classify why care stopped, calculate deductions and track a China medical travel refund into the bank.
 
 ## Sources
 

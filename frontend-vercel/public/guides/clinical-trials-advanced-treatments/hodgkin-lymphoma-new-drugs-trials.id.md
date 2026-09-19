@@ -1,12 +1,14 @@
-# Obat baru dan uji klinis untuk limfoma Hodgkin: memisahkan bukti mapan dari penelitian
+# Obat dan Uji Klinis Limfoma Hodgkin: Akses di Tiongkok dan Bukti
 
 ## Hero
 
-- **Title:** Obat baru dan uji klinis untuk limfoma Hodgkin: memisahkan bukti mapan dari penelitian
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Limfoma Hodgkin
-- **Subtitle:** Pencarian pengobatan baru limfoma Hodgkin dapat menempatkan obat yang disetujui, kombinasi yang didukung pedoman, studi sel tahap awal, dan eksperimen laboratorium pada layar yang sama.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat dan Uji Klinis Limfoma Hodgkin: Akses di Tiongkok dan Bukti
+- **Subtitle:** Bedakan pengobatan mapan dan penelitian limfoma Hodgkin. Periksa populasi studi, kelayakan, dan jalur akses sebelum konsultasi di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Nilai pendekatan baru bergantung pada bukti, kelayakan, dan pelaksanaan praktis 
 ## SEO Metadata
 
 - **Primary keyword:** obat baru dan uji klinis untuk limfoma Hodgkin
+
+- **Meta title:** Obat dan Uji Klinis Limfoma Hodgkin: Akses di Tiongkok dan Bukti
+- **Meta description:** Bedakan pengobatan mapan dan penelitian limfoma Hodgkin. Periksa populasi studi, kelayakan, dan jalur akses sebelum konsultasi di Tiongkok.

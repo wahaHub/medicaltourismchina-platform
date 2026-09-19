@@ -1,15 +1,17 @@
-# 050 Stimulasi Otak Dalam: Kelayakan, Operasi, dan Tindak Lanjut
+# Stimulasi Otak Dalam di Tiongkok: Penilaian dan Pemrograman
 
 ## Hero
 
-- **Title:** Stimulasi Otak Dalam: Kelayakan, Operasi, dan Tindak Lanjut
 - **Category:** Panduan Perawatan
 - **Subcategory:** Neurologi & Bedah Saraf
-- **Subtitle:** Tentukan apakah DBS sesuai dengan diagnosis dan gejala sasaran—serta apakah pemrograman jangka panjang akan tetap dapat diakses setelah perjalanan.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Pasien lanjut usia meninjau diagram elektroda stimulasi otak dalam dan generator pulsa bersama ahli neurologi serta klinisi bedah
+
+
+- **Title:** Stimulasi Otak Dalam di Tiongkok: Penilaian dan Pemrograman
+- **Subtitle:** Evaluasi DBS berdasarkan diagnosis, gejala, sasaran, risiko bedah, pemrograman, perangkat keras, keamanan MRI, dan dukungan lintas negara jangka panjang.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -182,13 +184,15 @@ Simpan sasaran dan sisi, citra lokasi elektroda, laporan operasi, model serta pe
 ## SEO Metadata
 
 - **Slug:** `deep-brain-stimulation-candidacy-surgery-and-follow-up`
-- **Meta title:** Stimulasi Otak Dalam | Kelayakan, Operasi, dan Pemrograman
-- **Meta description:** Evaluasi DBS berdasarkan diagnosis, gejala, sasaran, risiko bedah, pemrograman, perangkat keras, keamanan MRI, dan dukungan lintas negara jangka panjang.
 - **Primary keyword:** kelayakan stimulasi otak dalam
 - **Pillar keyword:** operasi dan pemrograman DBS
 - **Vertical keyword:** bedah saraf fungsional
 - **Search intent:** evaluasi pengobatan / perencanaan jangka panjang
 - **Secondary keywords:** DBS Parkinson; DBS tremor esensial; DBS distonia; pemrograman DBS; keamanan MRI DBS
+
+
+- **Meta title:** Stimulasi Otak Dalam di Tiongkok: Penilaian dan Pemrograman
+- **Meta description:** Evaluasi DBS berdasarkan diagnosis, gejala, sasaran, risiko bedah, pemrograman, perangkat keras, keamanan MRI, dan dukungan lintas negara jangka panjang.
 
 ## Sumber
 

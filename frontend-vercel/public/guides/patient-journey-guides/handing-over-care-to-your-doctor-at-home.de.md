@@ -1,15 +1,17 @@
-# 149 Übergabe der Versorgung an Ihren Arzt zu Hause: „Erhalten“ ist nicht „übernommen“
+# Heimkehr nach einer Behandlung in China: Übergabe an Ihren Arzt
 
 ## Hero
 
-- **Title:** Übergabe der Versorgung an Ihren Arzt zu Hause: „Erhalten“ ist nicht „übernommen“
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Medizinische Übergabe im Heimatland
-- **Subtitle:** Machen Sie aus ausländischen Behandlungsunterlagen einen angenommenen örtlichen Versorgungsplan mit einem benannten Arzt, ausdrücklichen Zuständigkeiten und ohne verwaiste Aufgaben.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Ein Arzt im Heimatland bespricht einen Versorgungsplan mit einem zurückgekehrten Patienten und einem Familienmitglied.
+
+
+- **Title:** Heimkehr nach einer Behandlung in China: Übergabe an Ihren Arzt
+- **Subtitle:** Übergeben Sie die Versorgung nach einer Behandlung in China mit übernehmendem Arzt, Problemübersicht, Aufgabenverantwortlichen, Plan für ausstehende Ergebnisse und ausdrücklicher Übernahme.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -191,13 +193,15 @@ Nachdem das örtliche Team den Patienten beurteilt, die relevanten Aufgaben übe
 ## SEO Metadata
 
 - **Slug:** `handing-over-care-to-your-doctor-at-home`
-- **Meta title:** Übergabe an Ihren Arzt zu Hause | Medizinische Übergabe
-- **Meta description:** Übergeben Sie die Versorgung nach einer Behandlung in China mit übernehmendem Arzt, Problemübersicht, Aufgabenverantwortlichen, Plan für ausstehende Ergebnisse und ausdrücklicher Übernahme.
 - **Primary keyword:** Übergabe der Versorgung an Ihren Arzt zu Hause
 - **Pillar keyword:** medizinische Reise nach China
 - **Vertical keyword:** medizinische Übergabe internationaler Patienten
 - **Search intent:** Versorgungskontinuität / Planung der Heimkehr
 - **Secondary keywords:** übernehmender Arzt nach medizinischer Reise; Übergabe zwischen Ärzten; Nachsorge nach Auslandsbehandlung; Verantwortung für ausstehende Untersuchungen; Checkliste Versorgungsübergabe
+
+
+- **Meta title:** Heimkehr nach einer Behandlung in China: Übergabe an Ihren Arzt
+- **Meta description:** Übergeben Sie die Versorgung nach einer Behandlung in China mit übernehmendem Arzt, Problemübersicht, Aufgabenverantwortlichen, Plan für ausstehende Ergebnisse und ausdrücklicher Übernahme.
 
 ## Quellen
 

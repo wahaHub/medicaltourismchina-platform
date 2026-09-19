@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Mantle Cell Lymphoma: 20 Questions About Diagnosis, Treatment in China, and Returning Home
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Mantle Cell Lymphoma
-- **Subtitle:** Mantle cell lymphoma treatment is changing, and patients with the same diagnosis can have very different disease behavior and treatment histories.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Mantle Cell Lymphoma: 20 Questions About Diagnosis, Treatment in China, and Returning Home
+- **Subtitle:** Answers to 20 mantle cell lymphoma questions covering diagnosis, treatment stages, hospital choice in China and follow-up after returning home.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -177,3 +179,6 @@ Continuing therapy or recovery from transplantation or CAR-T does not become les
 ## SEO Metadata
 
 - **Primary keyword:** mantle cell lymphoma patient questions treatment in China
+
+- **Meta title:** Mantle Cell Lymphoma: 20 Questions About Diagnosis, Treatment in China, and Returning Home
+- **Meta description:** Answers to 20 mantle cell lymphoma questions covering diagnosis, treatment stages, hospital choice in China and follow-up after returning home.

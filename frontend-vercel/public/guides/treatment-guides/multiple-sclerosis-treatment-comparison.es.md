@@ -1,12 +1,14 @@
-# Comparar planes de tratamiento de la EM: medicamentos, trasplante, rehabilitación y resultados que importan
+# Comparar tratamientos de esclerosis múltiple: medicamentos, trasplante autólogo y atención en China
 
 ## Hero
 
-- **Title:** Comparar planes de tratamiento de la EM: medicamentos, trasplante, rehabilitación y resultados que importan
 - **Category:** Guías de tratamiento
 - **Subcategory:** Esclerosis múltiple
-- **Subtitle:** Dos recomendaciones distintas pueden estar abordando problemas diferentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Comparar tratamientos de esclerosis múltiple: medicamentos, trasplante autólogo y atención en China
+- **Subtitle:** Compare medicamentos, trasplante autólogo y rehabilitación de esclerosis múltiple según actividad, objetivos y resultados al valorar atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Vuelva al objetivo personal: mantener el empleo, reducir ingresos, preservar la 
 ## SEO Metadata
 
 - **Primary keyword:** comparación de tratamientos para la esclerosis múltiple
+
+- **Meta title:** Comparar tratamientos de esclerosis múltiple: medicamentos, trasplante autólogo y atención en China
+- **Meta description:** Compare medicamentos, trasplante autólogo y rehabilitación de esclerosis múltiple según actividad, objetivos y resultados al valorar atención en China.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choosing an Alzheimer's Hospital in China: Memory Assessment, Antibody Treatment, and Care Support
 - **Category:** Hospital Guides
 - **Subcategory:** Alzheimer Disease
-- **Subtitle:** Choosing a hospital for Alzheimer's disease starts with the problem the visit needs to solve.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choosing an Alzheimer's Hospital in China: Memory Assessment, Antibody Treatment, and Care Support
+- **Subtitle:** Assess Alzheimer’s hospitals in China for memory evaluation, treatment eligibility, monitoring and practical support for patients and families.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Consider the distance, the availability of a consistent care partner, and whethe
 ## SEO Metadata
 
 - **Primary keyword:** Alzheimer's hospitals in China
+
+- **Meta title:** Choosing an Alzheimer's Hospital in China: Memory Assessment, Antibody Treatment, and Care Support
+- **Meta description:** Assess Alzheimer’s hospitals in China for memory evaluation, treatment eligibility, monitoring and practical support for patients and families.

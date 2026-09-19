@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Zwanzig Fragen zum myelodysplastischen Syndrom: Diagnose, Transfusionen, Medikamente, Transplantation und Versorgung in China
 - **Category:** Patienteninformation & häufige Fragen
 - **Subcategory:** Myelodysplastisches Syndrom
-- **Subtitle:** Ein Mensch mit MDS hat möglicherweise regelmäßige Kontrolltermine, ein anderer braucht wiederholte Transfusionen und einem dritten wird ein Gespräch über Transplantation empfohlen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Zwanzig Fragen zum myelodysplastischen Syndrom: Diagnose, Transfusionen, Medikamente, Transplantation und Versorgung in China
+- **Subtitle:** 20 Fragen zu MDS und Versorgung in China: Knochenmarkbefunde, genetisches Risiko, Transfusionen, Medikamente und Transplantationsentscheidungen verstehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Diese Antworten helfen bei der Gesprächsvorbereitung; Diagnose und Verordnungen
 ## SEO Metadata
 
 - **Primary keyword:** myelodysplastisches Syndrom Patientenfragen
+
+- **Meta title:** Zwanzig Fragen zum myelodysplastischen Syndrom: Diagnose, Transfusionen, Medikamente, Transplantation und Versorgung in China
+- **Meta description:** 20 Fragen zu MDS und Versorgung in China: Knochenmarkbefunde, genetisches Risiko, Transfusionen, Medikamente und Transplantationsentscheidungen verstehen.

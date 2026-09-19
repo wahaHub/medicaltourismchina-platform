@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Qui devrait envisager de se rendre en Chine pour un lymphome T ? Clarifier l’intérêt d’une orientation et l’aptitude au voyage
 - **Category:** Guides du parcours patient
 - **Subcategory:** Lymphome T
-- **Subtitle:** L’intérêt du voyage dépend d’abord de ce que l’équipe d’accueil peut aider à résoudre.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Qui devrait envisager de se rendre en Chine pour un lymphome T ? Clarifier l’intérêt d’une orientation et l’aptitude au voyage
+- **Subtitle:** Évaluez une orientation pour lymphome T en Chine selon le diagnostic, les options à la rechute, les critères des essais et l’aptitude au voyage.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Les familles peuvent tenir une courte liste de départ avec le rendez-vous confi
 ## SEO Metadata
 
 - **Primary keyword:** voyager en Chine pour le traitement du lymphome T
+
+- **Meta title:** Qui devrait envisager de se rendre en Chine pour un lymphome T ? Clarifier l’intérêt d’une orientation et l’aptitude au voyage
+- **Meta description:** Évaluez une orientation pour lymphome T en Chine selon le diagnostic, les options à la rechute, les critères des essais et l’aptitude au voyage.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Elegir un hospital en China para la esclerosis múltiple: adecuar el equipo a todo el proceso asistencial
 - **Category:** Guías de hospitales
 - **Subcategory:** Esclerosis múltiple
-- **Subtitle:** Elegir un hospital en China para la esclerosis múltiple: adecuar el equipo a todo el proceso asistencial
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Elegir un hospital en China para la esclerosis múltiple: adecuar el equipo a todo el proceso asistencial
+- **Subtitle:** Evalúe hospitales de esclerosis múltiple en China según diagnóstico diferencial, revisión de imágenes, vigilancia de fármacos y continuidad entre especialidades.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Para un paciente estable con atención local eficaz, puede bastar una segunda op
 ## SEO Metadata
 
 - **Primary keyword:** elegir un hospital de esclerosis múltiple en China
+
+- **Meta title:** Elegir un hospital en China para la esclerosis múltiple: adecuar el equipo a todo el proceso asistencial
+- **Meta description:** Evalúe hospitales de esclerosis múltiple en China según diagnóstico diferencial, revisión de imágenes, vigilancia de fármacos y continuidad entre especialidades.

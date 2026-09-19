@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Ultrasonografi terfokus dan prosedur lesi untuk penyakit Parkinson: target, risiko bilateral, dan pengobatan di Tiongkok
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Parkinson
-- **Subtitle:** Video yang menunjukkan tangan lebih stabil setelah pengobatan mudah disalahartikan sebagai bukti bahwa penyakit Parkinson telah disembuhkan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Ultrasonografi terfokus dan prosedur lesi untuk penyakit Parkinson: target, risiko bilateral, dan pengobatan di Tiongkok
+- **Subtitle:** Pahami sasaran ultrasonografi terfokus dan prosedur lesi Parkinson di Tiongkok, termasuk batas manfaat, risiko bilateral, serta kebutuhan tindak lanjut.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Pasien internasional harus pulang membawa informasi sisi dan target yang diterap
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan ultrasonografi terfokus untuk penyakit Parkinson
+
+- **Meta title:** Ultrasonografi terfokus dan prosedur lesi untuk penyakit Parkinson: target, risiko bilateral, dan pengobatan di Tiongkok
+- **Meta description:** Pahami sasaran ultrasonografi terfokus dan prosedur lesi Parkinson di Tiongkok, termasuk batas manfaat, risiko bilateral, serta kebutuhan tindak lanjut.

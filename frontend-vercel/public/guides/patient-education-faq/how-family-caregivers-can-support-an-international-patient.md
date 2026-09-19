@@ -1,15 +1,17 @@
-# Family Caregivers in International Care: Be the Safety Net, Not the Whole System
+# Family Caregiving During Medical Treatment in China
 
 ## Hero
 
-- **Title:** Family Caregivers in International Care: Be the Safety Net, Not the Whole System
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Patient Decision-Making & Caregiver Support
-- **Subtitle:** A practical job description for records, communication, bedside safety, discharge skills, boundaries, backup and caregiver health.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Patient and family caregiver clarify their roles with a clinician before international treatment
+
+
+- **Title:** Family Caregiving During Medical Treatment in China
+- **Subtitle:** Define caregiver consent, records, bedside observation, discharge skills, medication checks, boundaries, backup and self-care during overseas treatment.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Exhaustion is a patient-safety issue. Build shifts, sleep, food, respite and an emergency replacement caregiver into the plan [1][4].
 
 ## Content
+
+For a family accompanying someone for treatment in China, define the caregiver’s responsibilities before departure. Appointments, language support, medicines, bedside observations and the return-home handover need a workable division of tasks, with clinical decisions remaining with the treating team.
+
 
 International treatment often turns a spouse, adult child or friend into translator, scheduler, luggage handler, medication keeper, bedside observer and emergency contact overnight. Love and determination do not automatically supply the training, authority or physical capacity for all those roles. A safer plan treats the caregiver as a partner with a defined job—not free staff expected to fill every gap.
 
@@ -165,11 +170,13 @@ Yes. Sleep loss, illness and overload can impair attention, medication handling,
 
 ## SEO Metadata
 
-- **SEO title:** Family Caregiver Guide for International Patients
-- **Meta description:** Define caregiver consent, records, bedside observation, discharge skills, medication checks, boundaries, backup and self-care during overseas treatment.
 - **Primary keyword:** family caregiver international patient
 - **Secondary keywords:** medical travel caregiver, overseas treatment companion, caregiver hospital discharge, cross-border patient advocate, caregiver safety plan
 - **Suggested URL slug:** `/family-caregiver-international-patient`
+
+
+- **Meta title:** Family Caregiving During Medical Treatment in China
+- **Meta description:** Define caregiver consent, records, bedside observation, discharge skills, medication checks, boundaries, backup and self-care during overseas treatment.
 
 ## Sources
 

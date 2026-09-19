@@ -1,15 +1,17 @@
-# 101 Memilih Rumah Sakit di Beijing: Spesialisasi, Akses, dan Perjalanan
+# Memilih Rumah Sakit di Tiongkok: Perawatan dan Perjalanan di Beijing
 
 ## Hero
 
-- **Title:** Memilih Rumah Sakit di Beijing: Spesialisasi, Akses, dan Perjalanan
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Perencanaan Perawatan Beijing
-- **Subtitle:** Pilih jalur klinis terlebih dahulu, pastikan kampus yang tepat berikutnya, dan susun perjalanan berdasarkan urutan janji temu sebenarnya.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustrasi konseptual pelancong internasional merencanakan akses rumah sakit Beijing dengan peta dan kalender; tengara dan rumah sakit bukan pasangan lokasi kampus nyata.
+
+
+- **Title:** Memilih Rumah Sakit di Tiongkok: Perawatan dan Perjalanan di Beijing
+- **Subtitle:** Metode praktis bagi pasien internasional memilih rumah sakit Beijing berdasarkan kecocokan spesialisasi, kampus tepat, jalur pemesanan, geografi, pembayaran, dan rencana pulang aman.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -232,13 +234,15 @@ Tidak ada durasi umum yang aman. Ini bergantung pada tes, waktu hasil patologi, 
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-beijing-specialties-access-and-travel`
-- **Meta title:** Memilih Rumah Sakit di Beijing: Spesialisasi, Kampus, dan Perjalanan
-- **Meta description:** Metode praktis bagi pasien internasional memilih rumah sakit Beijing berdasarkan kecocokan spesialisasi, kampus tepat, jalur pemesanan, geografi, pembayaran, dan rencana pulang aman.
 - **Primary keyword:** memilih rumah sakit di Beijing
 - **Pillar keyword:** rumah sakit Beijing untuk pasien internasional
 - **Vertical keyword:** spesialisasi akses perjalanan rumah sakit Beijing
 - **Search intent:** perbandingan rumah sakit / perencanaan perjalanan
 - **Secondary keywords:** kampus rumah sakit Beijing; janji temu pasien internasional Beijing; pemesanan rumah sakit Beijing 114; perjalanan medis Beijing; spesialisasi rumah sakit Beijing
+
+
+- **Meta title:** Memilih Rumah Sakit di Tiongkok: Perawatan dan Perjalanan di Beijing
+- **Meta description:** Metode praktis bagi pasien internasional memilih rumah sakit Beijing berdasarkan kecocokan spesialisasi, kampus tepat, jalur pemesanan, geografi, pembayaran, dan rencana pulang aman.
 
 ## Sumber
 

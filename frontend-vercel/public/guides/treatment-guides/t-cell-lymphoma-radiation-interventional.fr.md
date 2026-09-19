@@ -1,12 +1,14 @@
-# Quand un lymphome T nécessite-t-il une radiothérapie ? Objectif, zone traitée et planification
+# Radiothérapie du lymphome T en Chine : quand et pourquoi ?
 
 ## Hero
 
-- **Title:** Quand un lymphome T nécessite-t-il une radiothérapie ? Objectif, zone traitée et planification
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Lymphome T
-- **Subtitle:** Une recommandation de radiothérapie ne signifie pas automatiquement que la chimiothérapie a échoué.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Radiothérapie du lymphome T en Chine : quand et pourquoi ?
+- **Subtitle:** Comprenez la place de la radiothérapie selon le sous-type de lymphome T, la zone atteinte et l’objectif de soulagement pour préparer les soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ Après la consultation, le patient devrait pouvoir expliquer pourquoi l’irradi
 ## SEO Metadata
 
 - **Primary keyword:** radiothérapie du lymphome T
+
+- **Meta title:** Radiothérapie du lymphome T en Chine : quand et pourquoi ?
+- **Meta description:** Comprenez la place de la radiothérapie selon le sous-type de lymphome T, la zone atteinte et l’objectif de soulagement pour préparer les soins en Chine.

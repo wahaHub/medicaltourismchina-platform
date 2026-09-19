@@ -1,12 +1,14 @@
-# Tratamiento de la epilepsia farmacorresistente: qué hacer cuando dos pautas adecuadas de medicación no han controlado las crisis
+# Tratamiento de la epilepsia farmacorresistente en China: próximos pasos
 
 ## Hero
 
-- **Title:** Tratamiento de la epilepsia farmacorresistente: qué hacer cuando dos pautas adecuadas de medicación no han controlado las crisis
 - **Category:** Guías de tratamiento
 - **Subcategory:** Epilepsia farmacorresistente
-- **Subtitle:** La persistencia de crisis no significa que la atención deba consistir únicamente en añadir más medicamentos.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento de la epilepsia farmacorresistente en China: próximos pasos
+- **Subtitle:** Conozca los pasos tras el fracaso de dos pautas adecuadas para epilepsia y prepare una revisión especializada de episodios, causa y opciones en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -146,3 +148,6 @@ En el seguimiento, aporte registros comparables de crisis y efectos adversos, en
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento de la epilepsia farmacorresistente; atención integral de epilepsia en China; evaluación de cirugía de epilepsia; crisis refractarias
+
+- **Meta title:** Tratamiento de la epilepsia farmacorresistente en China: próximos pasos
+- **Meta description:** Conozca los pasos tras el fracaso de dos pautas adecuadas para epilepsia y prepare una revisión especializada de episodios, causa y opciones en China.

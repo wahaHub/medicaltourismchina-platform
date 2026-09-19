@@ -1,15 +1,17 @@
-# 084 Stammzellbehandlung: Evidenz von Marketing unterscheiden
+# Stammzellbehandlung in China: Evidenz und Warnzeichen
 
 ## Hero
 
-- **Title:** Stammzellbehandlung: Evidenz von Marketing unterscheiden
 - **Category:** Klinische Studien & fortgeschrittene Behandlungen
 - **Subcategory:** Zell-, Gen- & regenerative Medizin
-- **Subtitle:** Klären Sie Zellen, krankheitsspezifische Evidenz, chinesischen regulatorischen Weg, Herstellungskontrollen und Nachsorge, bevor Sie einer Aussage zur regenerativen Medizin zustimmen.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Redaktionelle Illustration zum Vergleich einer Stammzellbehauptung mit Sicherheitsprüfungen, Evidenzbewertung und Marketing; kein Zellbild, keine behördliche Zulassung und kein Behandlungsergebnis.
+
+
+- **Title:** Stammzellbehandlung in China: Evidenz und Warnzeichen
+- **Subtitle:** Prüfen Sie Stammzellversprechen anhand von Produktidentität, chinesischem regulatorischem Weg, krankheitsspezifischer Evidenz, Chargenqualität, Risiken, Kosten und Nachsorge.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -173,11 +175,13 @@ Es gibt kein einzelnes Gütesiegel. Glaubwürdigkeit entsteht aus einer stimmige
 ## SEO Metadata
 
 - **Slug:** `stem-cell-treatment-how-to-distinguish-evidence-from-marketing`
-- **Meta title:** Stammzellbehandlung: Evidenz, Zulassung und Warnzeichen
-- **Meta description:** Prüfen Sie Stammzellversprechen anhand von Produktidentität, chinesischem regulatorischem Weg, krankheitsspezifischer Evidenz, Chargenqualität, Risiken, Kosten und Nachsorge.
 - **Primary keyword:** Evidenz zur Stammzellbehandlung
 - **Secondary keywords:** Stammzellbehandlung China; unbewiesene Stammzelltherapie; Stammzellstudie China; NMPA-Stammzellzulassung; Warnzeichen regenerative Medizin
 - **Search intent:** Behandlungsüberprüfung / Evidenz- und Sicherheitsbewertung
+
+
+- **Meta title:** Stammzellbehandlung in China: Evidenz und Warnzeichen
+- **Meta description:** Prüfen Sie Stammzellversprechen anhand von Produktidentität, chinesischem regulatorischem Weg, krankheitsspezifischer Evidenz, Chargenqualität, Risiken, Kosten und Nachsorge.
 
 ## Quellen
 

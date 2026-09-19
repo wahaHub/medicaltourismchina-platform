@@ -1,12 +1,14 @@
-# Neue Medikamente und klinische Studien bei Multipler Sklerose: Entwicklungen im Jahr 2026 einordnen
+# Neue MS-Medikamente und Studien: Zugang in China prüfen
 
 ## Hero
 
-- **Title:** Neue Medikamente und klinische Studien bei Multipler Sklerose: Entwicklungen im Jahr 2026 einordnen
 - **Category:** Klinische Studien und fortschrittliche Behandlungen
 - **Subcategory:** Multiple Sklerose
-- **Subtitle:** Nachrichten über einen neuen Wirkmechanismus, positive Phase-3-Ergebnisse oder Zelltherapie werfen meist praktische Fragen auf: Betrifft die Evidenz meine MS-Form, kann ich die Behandlung erhalten und was würde sie erfordern?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Neue MS-Medikamente und Studien: Zugang in China prüfen
+- **Subtitle:** Neue MS-Medikamente und Studien in China prüfen: Endpunkte, Sicherheitsfragen, Teilnahmebedingungen und Übergänge zur bisherigen Behandlung verständlich einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Eine vernünftige Forschungsentscheidung ermöglicht, Unsicherheit zu verstehen 
 ## SEO Metadata
 
 - **Primary keyword:** neue Medikamente und klinische Studien bei Multipler Sklerose
+
+- **Meta title:** Neue MS-Medikamente und Studien: Zugang in China prüfen
+- **Meta description:** Neue MS-Medikamente und Studien in China prüfen: Endpunkte, Sicherheitsfragen, Teilnahmebedingungen und Übergänge zur bisherigen Behandlung verständlich einordnen.

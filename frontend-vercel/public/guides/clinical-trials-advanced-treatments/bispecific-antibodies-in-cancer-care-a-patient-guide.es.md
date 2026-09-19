@@ -1,15 +1,17 @@
-# 080 Anticuerpos biespecíficos en la atención oncológica: guía para pacientes
+# Anticuerpos biespecíficos en China: dosis, acceso y riesgos
 
 ## Hero
 
-- **Title:** Anticuerpos biespecíficos en la atención oncológica: guía para pacientes
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Inmunoterapia contra el cáncer
-- **Subtitle:** Identifique las dos dianas de unión y la función que desempeñan antes de valorar elegibilidad, escalada de dosis, toxicidad inmunitaria, riesgo de infección y viabilidad del viaje.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Se necesita un reemplazo: un anticuerpo biespecífico científicamente preciso que una dos dianas, con escalada de dosis y activación vigilada de células inmunitarias.
+
+
+- **Title:** Anticuerpos biespecíficos en China: dosis, acceso y riesgos
+- **Subtitle:** Conozca cómo difieren los anticuerpos biespecíficos oncológicos, incluidos activadores T CD3, pruebas de dianas, escalada, SLC, riesgo infeccioso y verificación en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -174,11 +176,13 @@ Solo si el protocolo o equipo tratante lo permite y un centro cualificado de ori
 ## SEO Metadata
 
 - **Slug:** `bispecific-antibodies-in-cancer-care-a-patient-guide`
-- **Meta title:** Anticuerpos biespecíficos: dianas, escalada de dosis y riesgos
-- **Meta description:** Conozca cómo difieren los anticuerpos biespecíficos oncológicos, incluidos activadores T CD3, pruebas de dianas, escalada, SLC, riesgo infeccioso y verificación en China.
 - **Primary keyword:** anticuerpos biespecíficos tratamiento del cáncer
 - **Secondary keywords:** activador biespecífico de linfocitos T; anticuerpo biespecífico China; escalada de dosis; SLC ICANS; infección por anticuerpo biespecífico
 - **Search intent:** comparación de tratamiento con anticuerpos biespecíficos / selección de ensayos
+
+
+- **Meta title:** Anticuerpos biespecíficos en China: dosis, acceso y riesgos
+- **Meta description:** Conozca cómo difieren los anticuerpos biespecíficos oncológicos, incluidos activadores T CD3, pruebas de dianas, escalada, SLC, riesgo infeccioso y verificación en China.
 
 ## Fuentes
 

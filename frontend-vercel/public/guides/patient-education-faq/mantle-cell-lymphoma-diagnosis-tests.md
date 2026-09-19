@@ -1,12 +1,14 @@
-# Which tests diagnose mantle cell lymphoma? Understanding biopsy, PET/CT, bone marrow and gene testing
+# Mantle Cell Lymphoma Diagnosis in China: Biopsy and Tests
 
 ## Hero
 
-- **Title:** Which tests diagnose mantle cell lymphoma? Understanding biopsy, PET/CT, bone marrow and gene testing
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Mantle Cell Lymphoma
-- **Subtitle:** Related searches: MCL biopsy; mantle cell lymphoma staging; pathology review in China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Mantle Cell Lymphoma Diagnosis in China: Biopsy and Tests
+- **Subtitle:** Understand mantle cell lymphoma biopsy, PET/CT, marrow and genetic tests, and prepare a diagnostic review with a specialist team in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ At the end of the assessment, ask the clinician to state what the tests establis
 ## SEO Metadata
 
 - **Primary keyword:** mantle cell lymphoma diagnostic tests
+
+- **Meta title:** Mantle Cell Lymphoma Diagnosis in China: Biopsy and Tests
+- **Meta description:** Understand mantle cell lymphoma biopsy, PET/CT, marrow and genetic tests, and prepare a diagnostic review with a specialist team in China.

@@ -1,15 +1,17 @@
-# 087 Suivi à long terme après une thérapie cellulaire ou génique
+# Thérapies cellulaires et géniques en Chine : suivi à long terme
 
 ## Hero
 
-- **Title:** Suivi à long terme après une thérapie cellulaire ou génique
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Médecine cellulaire, génique et régénérative
-- **Subtitle:** Établir un passeport de suivi propre au produit pour la toxicité précoce, la récupération immunitaire, la réponse de la maladie, les événements indésirables retardés, la grossesse et les signalements transfrontaliers.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Illustration éditoriale d’un patient et d’un clinicien planifiant des contrôles de santé dans le temps avec un calendrier ; il ne s’agit pas d’un programme de surveillance propre à un produit.
+
+
+- **Title:** Thérapies cellulaires et géniques en Chine : suivi à long terme
+- **Subtitle:** Planifiez un suivi propre au produit : réponse de la maladie, récupération immunitaire, toxicité retardée, cancer, grossesse, signalements, dossier et soins transfrontaliers.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -204,11 +206,13 @@ Le plan préalable au traitement doit nommer un successeur pour les dossiers, le
 ## SEO Metadata
 
 - **Slug:** `long-term-follow-up-after-cell-or-gene-therapy`
-- **Meta title:** Suivi à long terme après une thérapie cellulaire ou génique
-- **Meta description:** Planifiez un suivi propre au produit : réponse de la maladie, récupération immunitaire, toxicité retardée, cancer, grossesse, signalements, dossier et soins transfrontaliers.
 - **Primary keyword:** suivi à long terme thérapie cellulaire génique
 - **Secondary keywords:** surveillance à long terme thérapie génique ; suivi CAR-T de 15 ans ; risques retardés thérapie génique ; passeport de thérapie cellulaire ; suivi thérapeutique transfrontalier
 - **Search intent:** surveillance après traitement / planification de la sécurité à long terme
+
+
+- **Meta title:** Thérapies cellulaires et géniques en Chine : suivi à long terme
+- **Meta description:** Planifiez un suivi propre au produit : réponse de la maladie, récupération immunitaire, toxicité retardée, cancer, grossesse, signalements, dossier et soins transfrontaliers.
 
 ## Sources
 

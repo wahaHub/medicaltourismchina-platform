@@ -1,15 +1,17 @@
-# MRI in China: The Implant Card, Contrast Decision and Claustrophobia Plan to Settle Before Scan Day
+# MRI in China: Implants, Contrast and Claustrophobia
 
 ## Hero
 
-- **Title:** MRI in China: The Implant Card, Contrast Decision and Claustrophobia Plan to Settle Before Scan Day
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Tests & Diagnosis
-- **Subtitle:** A practical guide to magnetic-safety screening, gadolinium questions, scan-day preparation and receiving usable images after the examination.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Clinician explaining an MRI scanner with symbols for magnetic safety and intravenous contrast
+
+
+- **Title:** MRI in China: Implants, Contrast and Claustrophobia
+- **Subtitle:** Prepare for MRI in China with verified implant details, contrast and kidney questions, pregnancy screening, claustrophobia planning and DICOM retrieval.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -161,13 +163,15 @@ Professional guidance generally supports continued breastfeeding after standard 
 ## SEO Metadata
 
 - **Slug:** `mri-scans-preparation-safety-and-contrast-questions`
-- **Meta title:** MRI Preparation: Implants, Gadolinium and Claustrophobia
-- **Meta description:** Prepare for MRI in China with verified implant details, contrast and kidney questions, pregnancy screening, claustrophobia planning and DICOM retrieval.
 - **Primary keyword:** MRI preparation and safety
 - **Pillar keyword:** diagnostic imaging in China
 - **Vertical keyword:** MRI implant and gadolinium questions
 - **Search intent:** imaging preparation guidance
 - **Secondary keywords:** MR Conditional implant; MRI gadolinium kidney; MRI claustrophobia sedation; MRI pregnancy; MRI DICOM China
+
+
+- **Meta title:** MRI in China: Implants, Contrast and Claustrophobia
+- **Meta description:** Prepare for MRI in China with verified implant details, contrast and kidney questions, pregnancy screening, claustrophobia planning and DICOM retrieval.
 
 ## Sources
 

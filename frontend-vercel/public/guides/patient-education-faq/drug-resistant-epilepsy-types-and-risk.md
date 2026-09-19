@@ -1,12 +1,14 @@
-# Classifying drug-resistant epilepsy and assessing risk: separate seizure type, syndrome, cause, and treatment response
+# Drug-Resistant Epilepsy Types and Risk: Assessment in China
 
 ## Hero
 
-- **Title:** Classifying drug-resistant epilepsy and assessing risk: separate seizure type, syndrome, cause, and treatment response
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Drug Resistant Epilepsy
-- **Subtitle:** Drug-resistant epilepsy does not progress through a universal stage-one-to-stage-four system.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Drug-Resistant Epilepsy Types and Risk: Assessment in China
+- **Subtitle:** Separate seizure type, epilepsy syndrome, cause and treatment response, and prepare an individual risk review with a specialist team in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -154,3 +156,6 @@ Ask the written conclusion to distinguish seizure type, epilepsy type, syndrome,
 ## SEO Metadata
 
 - **Primary keyword:** drug-resistant epilepsy classification; focal and generalized epilepsy; epilepsy syndromes; epilepsy risk assessment in China
+
+- **Meta title:** Drug-Resistant Epilepsy Types and Risk: Assessment in China
+- **Meta description:** Separate seizure type, epilepsy syndrome, cause and treatment response, and prepare an individual risk review with a specialist team in China.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Follicular lymphoma follow-up after returning home from China
 - **Category:** Patient Journey Guides
 - **Subcategory:** Follicular Lymphoma
-- **Subtitle:** A discharge note that says regular follow-up leaves many practical questions unanswered.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Follicular lymphoma follow-up after returning home from China
+- **Subtitle:** Arrange follicular lymphoma follow-up after returning from China, assigning responsibility for reviews, medicines, new findings and recovery needs.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ At each transition, update the summary and contact details. A workable follow-up
 ## SEO Metadata
 
 - **Primary keyword:** follicular lymphoma follow-up after treatment in China
+
+- **Meta title:** Follicular lymphoma follow-up after returning home from China
+- **Meta description:** Arrange follicular lymphoma follow-up after returning from China, assigning responsibility for reviews, medicines, new findings and recovery needs.

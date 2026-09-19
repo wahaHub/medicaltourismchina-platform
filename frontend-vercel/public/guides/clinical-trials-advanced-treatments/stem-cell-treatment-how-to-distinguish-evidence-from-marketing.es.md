@@ -1,15 +1,17 @@
-# 084 Tratamiento con células madre: cómo distinguir la evidencia de la publicidad
+# Tratamiento con células madre en China: evidencia y señales de alarma
 
 ## Hero
 
-- **Title:** Tratamiento con células madre: cómo distinguir la evidencia de la publicidad
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Medicina celular, genética y regenerativa
-- **Subtitle:** Identifique las células, la evidencia específica de la enfermedad, la vía regulatoria china, los controles de fabricación y el seguimiento antes de aceptar una afirmación de medicina regenerativa.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustración editorial que compara una afirmación sobre células madre con comprobaciones de seguridad, revisión de evidencia y publicidad; no es una imagen celular, aprobación regulatoria ni resultado terapéutico.
+
+
+- **Title:** Tratamiento con células madre en China: evidencia y señales de alarma
+- **Subtitle:** Compruebe las afirmaciones sobre células madre según identidad del producto, vía regulatoria china, evidencia específica, calidad del lote, riesgos, costes y seguimiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -173,11 +175,13 @@ No existe un único distintivo. La credibilidad procede de una cadena coherente:
 ## SEO Metadata
 
 - **Slug:** `stem-cell-treatment-how-to-distinguish-evidence-from-marketing`
-- **Meta title:** Tratamiento con células madre: evidencia, autorización y señales de alarma
-- **Meta description:** Compruebe las afirmaciones sobre células madre según identidad del producto, vía regulatoria china, evidencia específica, calidad del lote, riesgos, costes y seguimiento.
 - **Primary keyword:** evidencia del tratamiento con células madre
 - **Secondary keywords:** tratamiento con células madre en China; terapia con células madre no probada; ensayo de células madre en China; autorización NMPA de células madre; señales de alarma en medicina regenerativa
 - **Search intent:** verificación de tratamiento / revisión de evidencia y seguridad
+
+
+- **Meta title:** Tratamiento con células madre en China: evidencia y señales de alarma
+- **Meta description:** Compruebe las afirmaciones sobre células madre según identidad del producto, vía regulatoria china, evidencia específica, calidad del lote, riesgos, costes y seguimiento.
 
 ## Fuentes
 

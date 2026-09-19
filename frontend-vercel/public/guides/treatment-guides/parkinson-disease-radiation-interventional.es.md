@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Ultrasonido focalizado y procedimientos lesionales para la enfermedad de Parkinson: dianas, riesgos bilaterales y tratamiento en China
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de Parkinson
-- **Subtitle:** Un vídeo que muestra una mano más firme después del tratamiento puede confundirse fácilmente con una prueba de que la enfermedad de Parkinson se ha curado.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Ultrasonido focalizado y procedimientos lesionales para la enfermedad de Parkinson: dianas, riesgos bilaterales y tratamiento en China
+- **Subtitle:** Comprenda las dianas y los riesgos de ultrasonidos focalizados y procedimientos lesionales para Parkinson, y qué verificar antes de un tratamiento en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Los pacientes internacionales deben salir con el lado y la diana tratados, la fe
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento por ultrasonido focalizado para la enfermedad de Parkinson
+
+- **Meta title:** Ultrasonido focalizado y procedimientos lesionales para la enfermedad de Parkinson: dianas, riesgos bilaterales y tratamiento en China
+- **Meta description:** Comprenda las dianas y los riesgos de ultrasonidos focalizados y procedimientos lesionales para Parkinson, y qué verificar antes de un tratamiento en China.

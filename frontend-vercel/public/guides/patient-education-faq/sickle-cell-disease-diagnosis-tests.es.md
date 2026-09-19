@@ -1,12 +1,14 @@
-# Pruebas de enfermedad de células falciformes: Del resultado del cribado al diagnóstico confirmado
+# Diagnóstico de enfermedad falciforme en China: pruebas y confirmación
 
 ## Hero
 
-- **Title:** Pruebas de enfermedad de células falciformes: Del resultado del cribado al diagnóstico confirmado
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedad de células falciformes
-- **Subtitle:** Un informe que indique que se ha detectado hemoglobina S, o HbS, puede suscitar preguntas en alguien que nunca se ha sentido enfermo o iniciar un importante proceso asistencial para un recién nacido.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnóstico de enfermedad falciforme en China: pruebas y confirmación
+- **Subtitle:** Conozca cómo se confirma la enfermedad falciforme con hemograma y análisis de hemoglobina, y qué resultados preparar para la evaluación en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Al finalizar el proceso diagnóstico, solicite una conclusión en lenguaje senci
 ## SEO Metadata
 
 - **Primary keyword:** pruebas para diagnosticar la enfermedad de células falciformes
+
+- **Meta title:** Diagnóstico de enfermedad falciforme en China: pruebas y confirmación
+- **Meta description:** Conozca cómo se confirma la enfermedad falciforme con hemograma y análisis de hemoglobina, y qué resultados preparar para la evaluación en China.

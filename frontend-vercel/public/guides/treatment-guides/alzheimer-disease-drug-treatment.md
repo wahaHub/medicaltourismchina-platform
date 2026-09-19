@@ -1,12 +1,14 @@
-# Alzheimer’s Disease Medication: Cognitive Symptoms, Antibodies and Treatment of Agitation
+# Alzheimer’s Medicines in China: Options, Access and Monitoring
 
 ## Hero
 
-- **Title:** Alzheimer’s Disease Medication: Cognitive Symptoms, Antibodies and Treatment of Agitation
 - **Category:** Treatment Guides
 - **Subcategory:** Alzheimer Disease
-- **Subtitle:** An Alzheimer’s prescription may contain medicines for cognition, treatment of other illnesses and a drug addressing distressing behavior.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Alzheimer’s Medicines in China: Options, Access and Monitoring
+- **Subtitle:** Understand Alzheimer’s symptom medicines and antibody treatment, with China-specific checks for indications, access and safety monitoring.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -143,3 +145,6 @@ The value of the prescription depends partly on whether these arrangements can b
 ## SEO Metadata
 
 - **Primary keyword:** Alzheimer’s disease medication
+
+- **Meta title:** Alzheimer’s Medicines in China: Options, Access and Monitoring
+- **Meta description:** Understand Alzheimer’s symptom medicines and antibody treatment, with China-specific checks for indications, access and safety monitoring.

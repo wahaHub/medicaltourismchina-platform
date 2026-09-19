@@ -1,12 +1,14 @@
-# Membandingkan Pengobatan Alzheimer: Obat Gejala, Lecanemab, dan Donanemab
+# Pilihan Pengobatan Alzheimer di Tiongkok: Perbandingan untuk Pasien
 
 ## Hero
 
-- **Title:** Membandingkan Pengobatan Alzheimer: Obat Gejala, Lecanemab, dan Donanemab
 - **Category:** Panduan Perawatan
 - **Subcategory:** Penyakit Alzheimer
-- **Subtitle:** Keluarga yang membandingkan donepezil, memantine, lecanemab, dan donanemab sering menginginkan satu jawaban tentang mana yang terbaik.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pilihan Pengobatan Alzheimer di Tiongkok: Perbandingan untuk Pasien
+- **Subtitle:** Bandingkan obat gejala dan antibodi Alzheimer menurut populasi, manfaat, risiko, serta pemantauan sebelum membahas pilihan perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ Tindak lanjut dapat menilai fungsi saat ini, gejala, tolerabilitas, dan kemampua
 ## SEO Metadata
 
 - **Primary keyword:** perbandingan pengobatan Alzheimer
+
+- **Meta title:** Pilihan Pengobatan Alzheimer di Tiongkok: Perbandingan untuk Pasien
+- **Meta description:** Bandingkan obat gejala dan antibodi Alzheimer menurut populasi, manfaat, risiko, serta pemantauan sebelum membahas pilihan perawatan di Tiongkok.

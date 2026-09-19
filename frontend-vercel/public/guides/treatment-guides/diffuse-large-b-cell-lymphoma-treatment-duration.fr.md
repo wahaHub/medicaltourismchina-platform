@@ -1,12 +1,14 @@
-# Combien de temps dure le traitement du DLBCL : cycles, évaluation et temps loin du domicile
+# Traitement du LDGCB en Chine : cycles, évaluations et durée du séjour
 
 ## Hero
 
-- **Title:** Combien de temps dure le traitement du DLBCL : cycles, évaluation et temps loin du domicile
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome diffus à grandes cellules B
-- **Subtitle:** La durée du traitement du DLBCL dépasse le nombre de jours de perfusion.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement du LDGCB en Chine : cycles, évaluations et durée du séjour
+- **Subtitle:** Organisez le traitement du LDGCB en Chine en distinguant préparation, cycles, récupération et bilan de réponse avant de prévoir la durée du séjour.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Dans le calendrier familial, indiquez si une date est provisoire ou confirmée e
 ## SEO Metadata
 
 - **Primary keyword:** durée du traitement du DLBCL
+
+- **Meta title:** Traitement du LDGCB en Chine : cycles, évaluations et durée du séjour
+- **Meta description:** Organisez le traitement du LDGCB en Chine en distinguant préparation, cycles, récupération et bilan de réponse avant de prévoir la durée du séjour.

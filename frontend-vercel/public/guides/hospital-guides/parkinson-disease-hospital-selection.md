@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choosing a Parkinson’s Hospital in China: Diagnosis, Procedures and Support at Home
 - **Category:** Hospital Guides
 - **Subcategory:** Parkinson Disease
-- **Subtitle:** Choose a Parkinson’s service by matching its capabilities to the difficulty you need addressed.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choosing a Parkinson’s Hospital in China: Diagnosis, Procedures and Support at Home
+- **Subtitle:** Choose a Parkinson’s hospital in China by diagnostic review, medication assessment, procedure expertise and support that can continue at home.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ The patient’s symptoms and living circumstances will continue to change after 
 ## SEO Metadata
 
 - **Primary keyword:** choosing a Parkinson’s disease hospital in China
+
+- **Meta title:** Choosing a Parkinson’s Hospital in China: Diagnosis, Procedures and Support at Home
+- **Meta description:** Choose a Parkinson’s hospital in China by diagnostic review, medication assessment, procedure expertise and support that can continue at home.

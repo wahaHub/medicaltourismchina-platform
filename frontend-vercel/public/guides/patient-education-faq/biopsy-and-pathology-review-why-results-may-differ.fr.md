@@ -1,15 +1,17 @@
-# Lorsque deux comptes rendus anatomopathologiques diffèrent : rapprocher prélèvement, méthodes et diagnostic avant le traitement
+# Relecture anatomopathologique en Chine : clarifier des comptes rendus divergents
 
 ## Hero
 
-- **Title:** Lorsque deux comptes rendus anatomopathologiques diffèrent : rapprocher prélèvement, méthodes et diagnostic avant le traitement
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Examens et diagnostic
-- **Subtitle:** Un guide transfrontalier sur les lames, blocs de paraffine, prélèvements, immunohistochimie, analyses moléculaires et la résolution d’une divergence cliniquement importante.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Patients discutant d’un parcours de relecture anatomopathologique avec des symboles de microscope, de lame tissulaire, d’équipe spécialisée et de compte rendu final
+
+
+- **Title:** Relecture anatomopathologique en Chine : clarifier des comptes rendus divergents
+- **Subtitle:** Comprendre échantillonnage, traitement tissulaire, colorations, tests moléculaires et hétérogénéité tumorale, et transférer les lames/blocs en sécurité pour une relecture.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -198,13 +200,15 @@ Oui. Des régions tumorales ou moments différents peuvent présenter des biomar
 ## SEO Metadata
 
 - **Slug:** `biopsy-and-pathology-review-why-results-may-differ`
-- **Meta title:** Comptes rendus anatomopathologiques différents : harmoniser le diagnostic
-- **Meta description:** Comprendre échantillonnage, traitement tissulaire, colorations, tests moléculaires et hétérogénéité tumorale, et transférer les lames/blocs en sécurité pour une relecture.
 - **Primary keyword:** diagnostic différent après relecture anatomopathologique
 - **Pillar keyword:** diagnostic du cancer en Chine
 - **Vertical keyword:** deuxième avis sur lames et blocs de biopsie
 - **Search intent:** conseils sur les divergences anatomopathologiques
 - **Secondary keywords:** deuxième avis anatomopathologique Chine ; transfert de bloc de paraffine ; biopsie versus résection ; discordance des biomarqueurs ; préserver le tissu tumoral
+
+
+- **Meta title:** Relecture anatomopathologique en Chine : clarifier des comptes rendus divergents
+- **Meta description:** Comprendre échantillonnage, traitement tissulaire, colorations, tests moléculaires et hétérogénéité tumorale, et transférer les lames/blocs en sécurité pour une relecture.
 
 ## Sources
 

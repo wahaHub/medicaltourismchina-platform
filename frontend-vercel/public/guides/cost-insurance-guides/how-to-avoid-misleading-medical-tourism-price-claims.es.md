@@ -1,15 +1,17 @@
-# Autopsia de las afirmaciones sobre precios: ponga a prueba una oferta de turismo médico antes de que ella le ponga a prueba a usted
+# Precios del turismo médico en China: cómo comprobar las afirmaciones sobre costes
 
 ## Hero
 
-- **Title:** Autopsia de las afirmaciones sobre precios: ponga a prueba una oferta de turismo médico antes de que ella le ponga a prueba a usted
 - **Category:** Guías de costes y seguros
 - **Subcategory:** Riesgo financiero y protección
-- **Subtitle:** Un método práctico para desmenuzar las afirmaciones «desde», «ahorre», «todo incluido», «sin cargos ocultos» y los precios vinculados a resultados antes de pagar por atención en China.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un viajero que contrasta una oferta médica con una pregunta sobre el precio, el tratamiento, el transporte, la protección y una lista de comprobación
+
+
+- **Title:** Precios del turismo médico en China: cómo comprobar las afirmaciones sobre costes
+- **Subtitle:** Desmenuce las afirmaciones «desde», «ahorre un 70%», «todo incluido», sobre tasas de éxito y recuperación rápida antes de pagar un viaje médico a China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -204,13 +206,15 @@ Primero conserve la evidencia. La vía correcta depende del anunciante, el lugar
 ## SEO Metadata
 
 - **Slug:** `how-to-avoid-misleading-medical-tourism-price-claims`
-- **Meta title:** Cómo comprobar afirmaciones engañosas sobre precios de turismo médico
-- **Meta description:** Desmenuce las afirmaciones «desde», «ahorre un 70%», «todo incluido», sobre tasas de éxito y recuperación rápida antes de pagar un viaje médico a China.
 - **Primary keyword:** afirmaciones engañosas sobre precios de turismo médico
 - **Pillar keyword:** coste del tratamiento médico en China
 - **Vertical keyword:** verificar el precio de un paquete de turismo médico
 - **Search intent:** prevención del fraude / comparación de precios
 - **Secondary keywords:** cargos ocultos del turismo médico; paquete médico todo incluido; anuncio de precios de tratamiento; comparación de costes de viajes médicos; verificación del presupuesto hospitalario
+
+
+- **Meta title:** Precios del turismo médico en China: cómo comprobar las afirmaciones sobre costes
+- **Meta description:** Desmenuce las afirmaciones «desde», «ahorre un 70%», «todo incluido», sobre tasas de éxito y recuperación rápida antes de pagar un viaje médico a China.
 
 ## Fuentes
 

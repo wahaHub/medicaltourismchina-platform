@@ -1,12 +1,14 @@
-# Commencer le traitement après un diagnostic de drépanocytose : hydroxyurée, prévention et premier plan de suivi
+# Commencer un traitement de la drépanocytose en Chine : médicaments et suivi
 
 ## Hero
 
-- **Title:** Commencer le traitement après un diagnostic de drépanocytose : hydroxyurée, prévention et premier plan de suivi
 - **Category:** Guides des traitements
 - **Subcategory:** Drépanocytose
-- **Subtitle:** Après un diagnostic de drépanocytose, les familles veulent souvent savoir quel médicament vient en premier.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Commencer un traitement de la drépanocytose en Chine : médicaments et suivi
+- **Subtitle:** Préparez le premier plan de drépanocytose en Chine : priorités urgentes, objectifs, bilan initial, hydroxyurée selon la situation et suivi de prévention.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,3 +152,6 @@ Le premier plan ne règle pas toutes les options futures. Les patients ayant une
 ## SEO Metadata
 
 - **Primary keyword:** traitement initial de la drépanocytose
+
+- **Meta title:** Commencer un traitement de la drépanocytose en Chine : médicaments et suivi
+- **Meta description:** Préparez le premier plan de drépanocytose en Chine : priorités urgentes, objectifs, bilan initial, hydroxyurée selon la situation et suivi de prévention.

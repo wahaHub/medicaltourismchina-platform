@@ -1,12 +1,14 @@
-# ¿Cuándo necesita radioterapia el linfoma de células T? Objetivo, zona de tratamiento y planificación
+# Radioterapia del linfoma de células T en China: cuándo y por qué
 
 ## Hero
 
-- **Title:** ¿Cuándo necesita radioterapia el linfoma de células T? Objetivo, zona de tratamiento y planificación
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de células T
-- **Subtitle:** Una recomendación de radioterapia no significa automáticamente que la quimioterapia haya fracasado.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Radioterapia del linfoma de células T en China: cuándo y por qué
+- **Subtitle:** Comprenda cuándo se valora radioterapia en linfoma de células T en China según subtipo, zona, síntomas y objetivos, y qué aporta la planificación.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ La consulta debe dejar al paciente capaz de explicar por qué se eligió la radi
 ## SEO Metadata
 
 - **Primary keyword:** radioterapia para el linfoma de células T
+
+- **Meta title:** Radioterapia del linfoma de células T en China: cuándo y por qué
+- **Meta description:** Comprenda cuándo se valora radioterapia en linfoma de células T en China según subtipo, zona, síntomas y objetivos, y qué aporta la planificación.

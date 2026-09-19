@@ -1,12 +1,14 @@
-# Prosedur pada limfoma folikular: biopsi, akses vena, pemeriksaan sumsum tulang, dan pengumpulan sel
+# Prosedur Limfoma Folikular di Tiongkok: Biopsi dan Persiapan
 
 ## Hero
 
-- **Title:** Prosedur pada limfoma folikular: biopsi, akses vena, pemeriksaan sumsum tulang, dan pengumpulan sel
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Folikular
-- **Subtitle:** Seseorang dengan limfoma folikular mungkin menjalani operasi kelenjar getah bening, pemeriksaan sumsum tulang, pemasangan port, atau pengumpulan sel.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prosedur Limfoma Folikular di Tiongkok: Biopsi dan Persiapan
+- **Subtitle:** Pahami tujuan biopsi, pemeriksaan sumsum, akses vena, dan pengumpulan sel pada limfoma folikular. Siapkan obat serta pemulihan sebelum prosedur di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Lama rawat inap, waktu yang diperlukan di dekat rumah sakit, dan kelayakan terba
 ## SEO Metadata
 
 - **Primary keyword:** operasi dan prosedur limfoma folikular
+
+- **Meta title:** Prosedur Limfoma Folikular di Tiongkok: Biopsi dan Persiapan
+- **Meta description:** Pahami tujuan biopsi, pemeriksaan sumsum, akses vena, dan pengumpulan sel pada limfoma folikular. Siapkan obat serta pemulihan sebelum prosedur di Tiongkok.

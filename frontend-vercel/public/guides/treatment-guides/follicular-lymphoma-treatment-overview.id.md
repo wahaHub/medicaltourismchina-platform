@@ -1,12 +1,14 @@
-# Pengobatan limfoma folikular: menentukan kapan bertindak dan apa yang perlu dicapai rencana pertama
+# Pengobatan Limfoma Folikular di Tiongkok: Kapan dan Bagaimana Memulai
 
 ## Hero
 
-- **Title:** Pengobatan limfoma folikular: menentukan kapan bertindak dan apa yang perlu dicapai rencana pertama
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Folikular
-- **Subtitle:** Diagnosis limfoma folikular tidak mengarah pada satu jadwal standar.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Limfoma Folikular di Tiongkok: Kapan dan Bagaimana Memulai
+- **Subtitle:** Pahami kapan limfoma folikular memerlukan pengobatan atau pemantauan aktif. Siapkan diagnosis, tujuan, dan rencana perawatan awal di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -104,3 +106,6 @@ Demam dengan menggigil hebat, sesak napas berat, kebingungan, nyeri perut yang m
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan limfoma folikular
+
+- **Meta title:** Pengobatan Limfoma Folikular di Tiongkok: Kapan dan Bagaimana Memulai
+- **Meta description:** Pahami kapan limfoma folikular memerlukan pengobatan atau pemantauan aktif. Siapkan diagnosis, tujuan, dan rencana perawatan awal di Tiongkok.

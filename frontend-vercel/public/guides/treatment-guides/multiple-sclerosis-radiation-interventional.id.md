@@ -1,12 +1,14 @@
-# Radiasi dan prosedur intervensi untuk sklerosis multipel: memilih target pengobatan tertentu
+# Prosedur Intervensi Sklerosis Multipel di Tiongkok: Target dan Keterbatasan
 
 ## Hero
 
-- **Title:** Radiasi dan prosedur intervensi untuk sklerosis multipel: memilih target pengobatan tertentu
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Sklerosis Multipel
-- **Subtitle:** Laporan MRI yang menunjukkan beberapa lesi otak dapat membuat radiasi terfokus terdengar seperti solusi langsung.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prosedur Intervensi Sklerosis Multipel di Tiongkok: Target dan Keterbatasan
+- **Subtitle:** Pahami sasaran prosedur untuk nyeri wajah atau spastisitas pada sklerosis multipel. Bahas keterbatasan serta tujuan fungsi dengan tim di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Keputusan bepergian harus didasarkan pada apakah seluruh rangkaian dapat dijalan
 ## SEO Metadata
 
 - **Primary keyword:** radiasi dan pengobatan intervensi sklerosis multipel
+
+- **Meta title:** Prosedur Intervensi Sklerosis Multipel di Tiongkok: Target dan Keterbatasan
+- **Meta description:** Pahami sasaran prosedur untuk nyeri wajah atau spastisitas pada sklerosis multipel. Bahas keterbatasan serta tujuan fungsi dengan tim di Tiongkok.

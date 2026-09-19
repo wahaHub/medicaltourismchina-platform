@@ -1,15 +1,17 @@
-# La evaluación preoperatoria no es un mero trámite: construye el plan quirúrgico más seguro posible
+# Prepararse para una cirugía en China: pruebas y evaluación anestésica
 
 ## Hero
 
-- **Title:** La evaluación preoperatoria no es un mero trámite: construye el plan quirúrgico más seguro posible
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Cirugía y seguridad hospitalaria
-- **Subtitle:** Qué deben resolver los cirujanos, los equipos de anestesiología y los pacientes sobre cambios de salud, medicamentos, pruebas, ayuno, riesgo y cuidados posoperatorios antes de que el horario del quirófano se convierta en el plan.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un cirujano y una enfermera preoperatoria realizan una evaluación presencial con un paciente antes de la cirugía
+
+
+- **Title:** Prepararse para una cirugía en China: pruebas y evaluación anestésica
+- **Subtitle:** Conozca qué comprueba realmente la evaluación preoperatoria, por qué las pruebas son selectivas, cómo se planifican medicamentos y ayuno, cuándo puede retrasarse la cirugía y qué deben llevar los pacientes.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,11 +147,13 @@ No. La evaluación desarrolla el plan médico a lo largo de días o semanas. La 
 
 ## SEO Metadata
 
-- **SEO title:** Evaluación preoperatoria: pruebas, medicamentos, anestesia y preparación para cirugía
-- **Meta description:** Conozca qué comprueba realmente la evaluación preoperatoria, por qué las pruebas son selectivas, cómo se planifican medicamentos y ayuno, cuándo puede retrasarse la cirugía y qué deben llevar los pacientes.
 - **Primary keyword:** evaluación preoperatoria antes de la cirugía
 - **Secondary keywords:** evaluación preanestésica, pruebas preoperatorias, autorización quirúrgica, riesgo perioperatorio, medicación antes de cirugía, lista de seguridad quirúrgica
 - **Suggested URL slug:** `/preoperative-assessment-tests-medicines-anesthesia-risk`
+
+
+- **Meta title:** Prepararse para una cirugía en China: pruebas y evaluación anestésica
+- **Meta description:** Conozca qué comprueba realmente la evaluación preoperatoria, por qué las pruebas son selectivas, cómo se planifican medicamentos y ayuno, cuándo puede retrasarse la cirugía y qué deben llevar los pacientes.
 
 ## Fuentes
 

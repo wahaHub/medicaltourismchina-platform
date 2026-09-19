@@ -1,15 +1,17 @@
-# 041 Réadaptation cardiaque après un traitement du cœur
+# Réadaptation cardiaque en Chine : récupérer après un traitement du cœur
 
 ## Hero
 
-- **Title:** Réadaptation cardiaque après un traitement du cœur
 - **Category:** Guides des traitements
 - **Subcategory:** Soins cardiaques et vasculaires
-- **Subtitle:** Transformer les restrictions de sortie en un plan sous supervision médicale pour l’exercice, la réduction des risques, la confiance et le retour sûr à la vie quotidienne.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Professionnel de réadaptation cardiaque évaluant un patient âgé près d’équipements d’exercice simples
+
+
+- **Title:** Réadaptation cardiaque en Chine : récupérer après un traitement du cœur
+- **Subtitle:** Construisez un plan sûr de réadaptation cardiaque après un traitement du cœur : évaluation, dose d’exercice, prise en charge des facteurs de risque, signes d’alerte et transfert international.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -175,13 +177,15 @@ Fournissez le résumé de l’intervention et des complications, les résultats 
 ## SEO Metadata
 
 - **Slug:** `cardiac-rehabilitation-after-heart-treatment`
-- **Meta title:** Réadaptation cardiaque après un traitement du cœur | Guide patient
-- **Meta description:** Construisez un plan sûr de réadaptation cardiaque après un traitement du cœur : évaluation, dose d’exercice, prise en charge des facteurs de risque, signes d’alerte et transfert international.
 - **Primary keyword:** réadaptation cardiaque après un traitement du cœur
 - **Pillar keyword:** récupération après traitement cardiaque
 - **Vertical keyword:** programme de réadaptation cardiaque
 - **Search intent:** préparation de la récupération / prévention secondaire
 - **Secondary keywords:** réadaptation cardiaque après intervention coronarienne percutanée ; réadaptation cardiaque après pontage coronarien ; exercice après chirurgie cardiaque ; réadaptation cardiaque à domicile ; transfert de réadaptation cardiaque
+
+
+- **Meta title:** Réadaptation cardiaque en Chine : récupérer après un traitement du cœur
+- **Meta description:** Construisez un plan sûr de réadaptation cardiaque après un traitement du cœur : évaluation, dose d’exercice, prise en charge des facteurs de risque, signes d’alerte et transfert international.
 
 ## Sources
 

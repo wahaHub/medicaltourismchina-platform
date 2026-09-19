@@ -1,12 +1,14 @@
-# Quels examens diagnostiquent le lymphome à cellules du manteau ? Comprendre biopsie, TEP/TDM, moelle osseuse et tests génétiques
+# Diagnostic du lymphome du manteau en Chine : biopsie et examens
 
 ## Hero
 
-- **Title:** Quels examens diagnostiquent le lymphome à cellules du manteau ? Comprendre biopsie, TEP/TDM, moelle osseuse et tests génétiques
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Lymphome à cellules du manteau
-- **Subtitle:** Recherches associées : biopsie du LCM ; stadification du lymphome à cellules du manteau ; révision anatomopathologique en Chine
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnostic du lymphome du manteau en Chine : biopsie et examens
+- **Subtitle:** Comprenez le rôle de la biopsie, de la TEP/TDM, du bilan médullaire et des tests génétiques dans le diagnostic du lymphome du manteau en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Pour un budget en yuans chinois, demandez des informations distinctes sur consul
 ## SEO Metadata
 
 - **Primary keyword:** examens diagnostiques du lymphome à cellules du manteau
+
+- **Meta title:** Diagnostic du lymphome du manteau en Chine : biopsie et examens
+- **Meta description:** Comprenez le rôle de la biopsie, de la TEP/TDM, du bilan médullaire et des tests génétiques dans le diagnostic du lymphome du manteau en Chine.

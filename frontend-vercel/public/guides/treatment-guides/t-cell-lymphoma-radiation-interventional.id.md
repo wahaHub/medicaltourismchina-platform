@@ -1,12 +1,14 @@
-# Kapan limfoma sel T memerlukan radioterapi? Tujuan, area pengobatan, dan perencanaan
+# Radioterapi Limfoma Sel T di Tiongkok: Kapan dan Mengapa
 
 ## Hero
 
-- **Title:** Kapan limfoma sel T memerlukan radioterapi? Tujuan, area pengobatan, dan perencanaan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel T
-- **Subtitle:** Rekomendasi radioterapi tidak otomatis berarti kemoterapi telah gagal.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Radioterapi Limfoma Sel T di Tiongkok: Kapan dan Mengapa
+- **Subtitle:** Pahami kapan radioterapi dipertimbangkan pada limfoma sel T di Tiongkok. Hubungkan subtipe, lokasi, tujuan lokal, dan rencana pengobatan keseluruhan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ Konsultasi seharusnya membuat pasien mampu menjelaskan mengapa radiasi dipilih, 
 ## SEO Metadata
 
 - **Primary keyword:** radioterapi untuk limfoma sel T
+
+- **Meta title:** Radioterapi Limfoma Sel T di Tiongkok: Kapan dan Mengapa
+- **Meta description:** Pahami kapan radioterapi dipertimbangkan pada limfoma sel T di Tiongkok. Hubungkan subtipe, lokasi, tujuan lokal, dan rencana pengobatan keseluruhan.

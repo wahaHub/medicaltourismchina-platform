@@ -1,12 +1,14 @@
-# Combien de temps dure le traitement de la GVHD ? Planifier l’hospitalisation, l’évaluation de la réponse, la réduction progressive et le voyage de retour
+# Traitement de la GVH en Chine : hospitalisation, réévaluation et dates de voyage
 
 ## Hero
 
-- **Title:** Combien de temps dure le traitement de la GVHD ? Planifier l’hospitalisation, l’évaluation de la réponse, la réduction progressive et le voyage de retour
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Maladie du greffon contre l’hôte
-- **Subtitle:** La durée d’un séjour en Chine et la durée du traitement de la maladie du greffon contre l’hôte sont deux questions différentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement de la GVH en Chine : hospitalisation, réévaluation et dates de voyage
+- **Subtitle:** Planifiez le traitement de la GVH en Chine selon les organes atteints, les évaluations de réponse, la réduction des médicaments et les conditions de retour.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Une discussion productive sur la durée laisse trois réponses pratiques : l’o
 ## SEO Metadata
 
 - **Primary keyword:** durée du traitement de la GVHD et hospitalisation en Chine
+
+- **Meta title:** Traitement de la GVH en Chine : hospitalisation, réévaluation et dates de voyage
+- **Meta description:** Planifiez le traitement de la GVH en Chine selon les organes atteints, les évaluations de réponse, la réduction des médicaments et les conditions de retour.

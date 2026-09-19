@@ -1,15 +1,17 @@
-# Viajar por motivos médicos con enfermedad renal: el vuelo es la parte corta del plan
+# Viajes médicos a China con enfermedad renal: planificar la atención
 
 ## Hero
 
-- **Title:** Viajar por motivos médicos con enfermedad renal: el vuelo es la parte corta del plan
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedades crónicas y viajes
-- **Subtitle:** Preguntas para personas con ERC, diálisis o trasplante renal sobre estabilidad analítica, límites de líquidos, medicamentos, plazas de tratamiento y respaldo para emergencias.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Paciente y acompañante revisan un calendario de atención renal y documentos de viaje entre un aeropuerto y un hospital
+
+
+- **Title:** Viajes médicos a China con enfermedad renal: planificar la atención
+- **Subtitle:** Planifique un viaje médico con ERC, diálisis o trasplante renal: registros, plazas de tratamiento, límites de líquidos, medicamentos, cuidado del acceso y emergencias.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - La disminución de orina, el aumento rápido de hinchazón o peso, la falta de aire intensa, el dolor torácico, la confusión, los vómitos persistentes, la debilidad muscular/palpitaciones o una emergencia del acceso de diálisis requieren evaluación local pronta.
 
 ## Content
+
+Para un viaje médico a China con enfermedad renal, confirme el servicio receptor y el plan de atención renal antes de reservar el viaje. La organización de la diálisis, la revisión de medicamentos, la protección del acceso y un traspaso de información útil deben adaptarse a cada paciente, en lugar de darse por supuestos por tener una reserva hospitalaria.
+
 
 Para una persona con enfermedad renal, el avión suele ser la parte más previsible del viaje médico. Los puntos vulnerables reales son una sesión de diálisis perdida, un cambio de potasio no reconocido, la acumulación de medicamentos, un plan de líquidos copiado del paciente equivocado o una enfermedad aguda lejos del equipo de nefrología habitual.
 
@@ -143,11 +148,13 @@ La pérdida del frémito de la fístula/injerto, el sangrado incontrolable, la h
 
 ## SEO Metadata
 
-- **SEO title:** Viaje médico con enfermedad renal: preguntas antes de volar
-- **Meta description:** Planifique un viaje médico con ERC, diálisis o trasplante renal: registros, plazas de tratamiento, límites de líquidos, medicamentos, cuidado del acceso y emergencias.
 - **Primary keyword:** viaje médico con enfermedad renal
 - **Secondary keywords:** volar con ERC, planificación de viajes con diálisis, diálisis peritoneal en el extranjero, viajes con trasplante renal, lista de viaje de medicina renal
 - **Suggested URL slug:** `/medical-travel-kidney-disease-flying`
+
+
+- **Meta title:** Viajes médicos a China con enfermedad renal: planificar la atención
+- **Meta description:** Planifique un viaje médico con ERC, diálisis o trasplante renal: registros, plazas de tratamiento, límites de líquidos, medicamentos, cuidado del acceso y emergencias.
 
 ## Fuentes
 

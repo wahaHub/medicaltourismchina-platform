@@ -1,15 +1,17 @@
-# 154 Mengapa Perkiraan Berubah Setelah Evaluasi: Audit Perubahan Klinis
+# Mengapa Perkiraan Biaya Medis di Tiongkok Berubah Setelah Evaluasi
 
 ## Hero
 
-- **Title:** Mengapa Perkiraan Berubah Setelah Evaluasi: Audit Perubahan Klinis
 - **Category:** Panduan Biaya & Asuransi
 - **Subcategory:** Revisi Perkiraan
-- **Subtitle:** Hubungkan setiap perubahan harga yang bermakna dengan bukti baru, perubahan keputusan pengobatan, atau koreksi asumsi administratif.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Seorang dokter menjelaskan revisi perkiraan pengobatan yang mencakup perawatan, asuransi, dan biaya.
+
+
+- **Title:** Mengapa Perkiraan Biaya Medis di Tiongkok Berubah Setelah Evaluasi
+- **Subtitle:** Hubungkan setiap perubahan harga yang bermakna dengan bukti baru, perubahan keputusan pengobatan, atau koreksi asumsi administratif.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -199,13 +201,15 @@ Gunakan perkiraan terakhir yang disetujui dan catatan perubahannya. Klasifikasik
 ## SEO Metadata
 
 - **Slug:** `why-a-medical-cost-estimate-may-change-after-evaluation`
-- **Meta title:** Mengapa Perkiraan Biaya Medis di Tiongkok Berubah Setelah Evaluasi
-- **Meta description:** Audit revisi perkiraan pengobatan di Tiongkok dengan menghubungkan temuan baru dengan keputusan klinis, layanan ditambah atau dihapus, persetujuan, dan pembayaran pasien.
 - **Primary keyword:** perkiraan medis berubah setelah evaluasi
 - **Pillar keyword:** biaya pengobatan medis di Tiongkok
 - **Vertical keyword:** revisi perkiraan rumah sakit Tiongkok
 - **Search intent:** revisi biaya / keputusan pengobatan
 - **Secondary keywords:** perubahan perkiraan perjalanan medis; catatan perubahan biaya rumah sakit; rencana pengobatan revisi Tiongkok; penawaran medis awal; perkiraan versus tagihan akhir
+
+
+- **Meta title:** Mengapa Perkiraan Biaya Medis di Tiongkok Berubah Setelah Evaluasi
+- **Meta description:** Audit revisi perkiraan pengobatan di Tiongkok dengan menghubungkan temuan baru dengan keputusan klinis, layanan ditambah atau dihapus, persetujuan, dan pembayaran pasien.
 
 ## Sumber
 

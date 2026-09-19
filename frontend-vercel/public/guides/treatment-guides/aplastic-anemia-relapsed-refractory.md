@@ -1,12 +1,14 @@
-# Relapsed or refractory aplastic anemia: confirming the cause and planning second-line treatment
+# Refractory or Relapsed Aplastic Anemia: Second Opinions in China
 
 ## Hero
 
-- **Title:** Relapsed or refractory aplastic anemia: confirming the cause and planning second-line treatment
 - **Category:** Treatment Guides
 - **Subcategory:** Aplastic Anemia
-- **Subtitle:** Persistently low counts after treatment and falling counts after an earlier improvement both require reassessment, but they are not the same problem.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Refractory or Relapsed Aplastic Anemia: Second Opinions in China
+- **Subtitle:** Prepare a second opinion in China for relapsed or refractory aplastic anemia by confirming the change, previous treatment and remaining clinical questions.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Travel fitness depends on the current condition and both local and receiving ser
 ## SEO Metadata
 
 - **Primary keyword:** refractory aplastic anemia treatment
+
+- **Meta title:** Refractory or Relapsed Aplastic Anemia: Second Opinions in China
+- **Meta description:** Prepare a second opinion in China for relapsed or refractory aplastic anemia by confirming the change, previous treatment and remaining clinical questions.

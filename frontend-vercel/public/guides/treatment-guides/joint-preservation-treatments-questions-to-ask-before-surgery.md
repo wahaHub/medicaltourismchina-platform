@@ -1,15 +1,17 @@
-# Joint Preservation Treatments: Questions to Ask Before Surgery
+# Joint Preservation in China: Questions Before Surgery
 
 ## Hero
 
-- **Title:** Joint Preservation Treatments: Questions to Ask Before Surgery
 - **Category:** Treatment Guides
 - **Subcategory:** Joint Reconstruction & Sports Medicine
-- **Subtitle:** Find out whether the joint still has a treatable mechanical or focal problem—and what “preservation” can realistically preserve.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Patient discussing walking, stairs and cycling goals with an orthopaedic clinician beside a cane
+
+
+- **Title:** Joint Preservation in China: Questions Before Surgery
+- **Subtitle:** Evaluate joint preservation surgery by diagnosis, cartilage, alignment and stability, with clear evidence, rehabilitation, failure criteria and future options.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -19,6 +21,9 @@
 - A good preservation plan includes an exit strategy: how success is measured, when failure is declared and whether a later replacement remains feasible.
 
 ## Content
+
+Before travelling to China for a joint-preservation consultation, ask what structural problem the proposed procedure is meant to address. Bring the imaging and treatment history, and compare the recovery demands, alternatives and follow-up requirements before choosing an operation.
+
 
 The phrase “save your natural joint” is emotionally powerful, especially for a younger or active patient. It can also hide very different treatments: repairing a meniscus, rotating a dysplastic hip socket, unloading one side of an arthritic knee, grafting a focal cartilage defect or decompressing early osteonecrosis. Before accepting the label, ask what is actually being preserved and why the joint is a suitable candidate.
 
@@ -176,13 +181,15 @@ Products marketed as stem cells or regenerative therapy vary substantially. FDA 
 ## SEO Metadata
 
 - **Slug:** `joint-preservation-treatments-questions-to-ask-before-surgery`
-- **Meta title:** Joint Preservation Treatments | Questions Before Surgery
-- **Meta description:** Evaluate joint preservation surgery by diagnosis, cartilage, alignment and stability, with clear evidence, rehabilitation, failure criteria and future options.
 - **Primary keyword:** joint preservation treatments
 - **Pillar keyword:** joint preservation surgery
 - **Vertical keyword:** cartilage and joint reconstruction
 - **Search intent:** treatment comparison / preoperative questions
 - **Secondary keywords:** cartilage restoration surgery; joint osteotomy; hip preservation surgery; regenerative joint treatment; joint preservation versus replacement
+
+
+- **Meta title:** Joint Preservation in China: Questions Before Surgery
+- **Meta description:** Evaluate joint preservation surgery by diagnosis, cartilage, alignment and stability, with clear evidence, rehabilitation, failure criteria and future options.
 
 ## Sources
 

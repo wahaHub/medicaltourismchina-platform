@@ -1,12 +1,14 @@
-# Memulai Pengobatan Penyakit Parkinson: Apa yang Harus Dicapai Resep Pertama
+# Memulai Pengobatan Parkinson di Tiongkok: Resep Pertama
 
 ## Hero
 
-- **Title:** Memulai Pengobatan Penyakit Parkinson: Apa yang Harus Dicapai Resep Pertama
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Parkinson
-- **Subtitle:** Pasien yang baru didiagnosis sering khawatir tentang menunda perawatan sekaligus menghabiskan pilihan pengobatan terlalu dini.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Memulai Pengobatan Parkinson di Tiongkok: Resep Pertama
+- **Subtitle:** Siapkan resep pertama Parkinson di Tiongkok berdasarkan kesulitan sehari-hari dan tujuan fungsi. Bahas levodopa, pilihan lain, serta evaluasi manfaat.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Bukti diperiksa: September 9, 2026. Artikel ini tidak menentukan dosis awal indi
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan lini pertama penyakit Parkinson di Tiongkok
+
+- **Meta title:** Memulai Pengobatan Parkinson di Tiongkok: Resep Pertama
+- **Meta description:** Siapkan resep pertama Parkinson di Tiongkok berdasarkan kesulitan sehari-hari dan tujuan fungsi. Bahas levodopa, pilihan lain, serta evaluasi manfaat.

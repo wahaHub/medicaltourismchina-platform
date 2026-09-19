@@ -1,15 +1,17 @@
-# 085 Aussagen zur regenerativen Medizin: Fragen, die Patienten stellen sollten
+# Regenerative Medizin in China: Neun wichtige Fragen
 
 ## Hero
 
-- **Title:** Aussagen zur regenerativen Medizin: Fragen, die Patienten stellen sollten
 - **Category:** Klinische Studien & fortschrittliche Behandlungen
 - **Subcategory:** Zell-, Gen- & regenerative Medizin
-- **Subtitle:** Übersetzen Sie Wörter wie „reparieren“, „verjüngen“ und „Heilung aktivieren“ in präzise Fragen zu Produkt, Zulassung, Evidenz, Ergebnis, Risiko und finanziellen Interessen.
 - **Reviewed by:** Medora Health Redaktion
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ersatz erforderlich: Ein Patient und eine unabhängige ärztliche Fachkraft vergleichen Identitäten, regulatorische Wege, klinische Evidenz und Risiken mehrerer Produkte der regenerativen Medizin.
+
+
+- **Title:** Regenerative Medizin in China: Neun wichtige Fragen
+- **Subtitle:** Prüfen Sie Aussagen zur regenerativen Medizin anhand von Produktidentität, messbaren Ergebnissen, chinesischer Berechtigung, klinischer Evidenz, Qualität, Risiko, Konflikten und Unterlagen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -173,11 +175,13 @@ Entnahme, Vermehrung, Differenzierung, Kontaminationsprüfung oder Freigabe kön
 ## SEO Metadata
 
 - **Slug:** `regenerative-medicine-claims-questions-patients-should-ask`
-- **Meta title:** Aussagen zur regenerativen Medizin: Neun wichtige Fragen
-- **Meta description:** Prüfen Sie Aussagen zur regenerativen Medizin anhand von Produktidentität, messbaren Ergebnissen, chinesischer Berechtigung, klinischer Evidenz, Qualität, Risiko, Konflikten und Unterlagen.
 - **Primary keyword:** Aussagen zur regenerativen Medizin
 - **Secondary keywords:** regenerative Medizin China; Aussagen zur Exosomenbehandlung; PRP Stammzellen; Zelltherapie-Werbung; Fragen zur regenerativen Behandlung
 - **Search intent:** Überprüfung von Aussagen / sorgfältige Behandlungsprüfung
+
+
+- **Meta title:** Regenerative Medizin in China: Neun wichtige Fragen
+- **Meta description:** Prüfen Sie Aussagen zur regenerativen Medizin anhand von Produktidentität, messbaren Ergebnissen, chinesischer Berechtigung, klinischer Evidenz, Qualität, Risiko, Konflikten und Unterlagen.
 
 ## Quellen
 

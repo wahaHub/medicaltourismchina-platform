@@ -1,12 +1,14 @@
-# Radiothérapie du LDGCB : maladie localisée, sites résiduels et soulagement des symptômes
+# Radiothérapie du LDGCB en Chine : contrôle local et soulagement
 
 ## Hero
 
-- **Title:** Radiothérapie du LDGCB : maladie localisée, sites résiduels et soulagement des symptômes
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Lymphome diffus à grandes cellules B
-- **Subtitle:** La radiothérapie a un rôle défini dans le LDGCB, mais ne constitue pas une étape automatique après la chimiothérapie.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Radiothérapie du LDGCB en Chine : contrôle local et soulagement
+- **Subtitle:** Comprenez les objectifs de radiothérapie du LDGCB en Chine, de la maladie localisée aux sites résiduels, avec la définition de la cible et la planification.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Le suivi doit préciser qui interprète l’imagerie ultérieure, quand les effe
 ## SEO Metadata
 
 - **Primary keyword:** radiothérapie du LDGCB
+
+- **Meta title:** Radiothérapie du LDGCB en Chine : contrôle local et soulagement
+- **Meta description:** Comprenez les objectifs de radiothérapie du LDGCB en Chine, de la maladie localisée aux sites résiduels, avec la définition de la cible et la planification.

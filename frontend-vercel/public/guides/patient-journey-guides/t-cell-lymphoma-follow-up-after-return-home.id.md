@@ -1,12 +1,14 @@
-# Tindak lanjut setelah pulang dari pengobatan limfoma sel T: mengoordinasikan pemeriksaan, obat, dan gejala baru
+# Tindak Lanjut Limfoma Sel T Setelah Pengobatan di Tiongkok
 
 ## Hero
 
-- **Title:** Tindak lanjut setelah pulang dari pengobatan limfoma sel T: mengoordinasikan pemeriksaan, obat, dan gejala baru
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Limfoma Sel T
-- **Subtitle:** Sebagian pasien pulang dalam remisi lengkap, sebagian melanjutkan obat oral, dan sebagian baru meninggalkan unit transplantasi.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tindak Lanjut Limfoma Sel T Setelah Pengobatan di Tiongkok
+- **Subtitle:** Siapkan tindak lanjut limfoma sel T setelah pengobatan di Tiongkok berdasarkan status saat pulang, hasil pembanding, obat, dan gejala baru.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Perbarui salinan rencana milik pasien dan keluarkan instruksi yang telah diganti
 ## SEO Metadata
 
 - **Primary keyword:** tindak lanjut limfoma sel T setelah pulang
+
+- **Meta title:** Tindak Lanjut Limfoma Sel T Setelah Pengobatan di Tiongkok
+- **Meta description:** Siapkan tindak lanjut limfoma sel T setelah pengobatan di Tiongkok berdasarkan status saat pulang, hasil pembanding, obat, dan gejala baru.

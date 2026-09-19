@@ -61,6 +61,33 @@ describe("guide SEO pages", () => {
     }
   }, 120000);
 
+  it("keeps each translation's own modification date in sitemap data and Article metadata", async () => {
+    const root = await fs.mkdtemp(path.join(os.tmpdir(), "guide-dates-"));
+    try {
+      await fs.mkdir(path.join(root, "src/data"), { recursive: true });
+      await fs.mkdir(path.join(root, "public/guides/care"), { recursive: true });
+      await fs.writeFile(path.join(root, "src/data/guides-manifest.json"), JSON.stringify({ categories: [
+        { slug: "care", title: { en: "Care", zh: "就医" }, guides: [
+          { slug: "one", title: { en: "Care in China", zh: "中国就医" }, updatedDate: "2026/09/19",
+            updatedDateByLocale: { en: "2026/09/19", zh: "2026/08/04" } },
+        ] },
+      ] }));
+      await fs.writeFile(path.join(root, "src/data/guides-seo-manifest.json"), '{"guides":{}}');
+      for (const filename of ["one.md", "one.zh.md"]) {
+        await fs.writeFile(path.join(root, "public/guides/care", filename), "## Content\n\nPatient-authored source content.");
+      }
+      const pages = await makeGuidePages(root);
+      expect(pages).toHaveLength(2);
+      for (const page of pages) {
+        const expected = page.locale === 'en' ? '2026-09-19' : '2026-08-04';
+        expect(page.lastmod).toBe(expected);
+        expect(page.structuredData['@graph'][0].dateModified).toBe(expected);
+      }
+    } finally {
+      await fs.rm(root, { recursive: true, force: true });
+    }
+  });
+
   it("escapes guide markdown while preserving indexable headings and lists", () => {
     const html = markdownToGuideSeoHtml("## Key Takeaways\n\n- Safe <script>\n\n## Content\n\nRead **this** [source](https://example.com).");
 

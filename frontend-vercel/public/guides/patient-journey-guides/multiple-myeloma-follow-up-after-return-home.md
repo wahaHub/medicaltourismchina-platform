@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Myeloma follow-up after treatment in China: tests, prescriptions and continuing care at home
 - **Category:** Patient Journey Guides
 - **Subcategory:** Multiple Myeloma
-- **Subtitle:** Leaving the treating hospital does not usually end myeloma care.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Myeloma follow-up after treatment in China: tests, prescriptions and continuing care at home
+- **Subtitle:** Continue myeloma care after returning from China with agreed tests, prescriptions, complication monitoring and records that your local team can use.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Plan for local prescriptions, investigations, supportive care and further specia
 ## SEO Metadata
 
 - **Primary keyword:** multiple myeloma follow-up after treatment in China
+
+- **Meta title:** Myeloma follow-up after treatment in China: tests, prescriptions and continuing care at home
+- **Meta description:** Continue myeloma care after returning from China with agreed tests, prescriptions, complication monitoring and records that your local team can use.

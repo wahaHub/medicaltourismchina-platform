@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choosing a thalassemia hospital in China: match the service to the problem you need solved
 - **Category:** Hospital Guides
 - **Subcategory:** Thalassemia
-- **Subtitle:** A useful hospital shortlist begins with the reason for seeking care.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choosing a thalassemia hospital in China: match the service to the problem you need solved
+- **Subtitle:** Match a thalassemia hospital in China to the needed service, including blood support, iron assessment, complication care or transplant evaluation.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Before choosing, make a brief comparison sheet with the actual clinical task, na
 ## SEO Metadata
 
 - **Primary keyword:** thalassemia hospital selection in China; thalassemia specialist center; transfusion services; thalassemia transplant team
+
+- **Meta title:** Choosing a thalassemia hospital in China: match the service to the problem you need solved
+- **Meta description:** Match a thalassemia hospital in China to the needed service, including blood support, iron assessment, complication care or transplant evaluation.

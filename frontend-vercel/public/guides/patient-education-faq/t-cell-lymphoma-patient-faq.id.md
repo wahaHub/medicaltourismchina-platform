@@ -1,12 +1,14 @@
-# Dua puluh pertanyaan pasien tentang limfoma sel T: diagnosis, pengobatan, dan keputusan sehari-hari
+# Perawatan Limfoma Sel T di Tiongkok: 20 Pertanyaan Pasien
 
 ## Hero
 
-- **Title:** Dua puluh pertanyaan pasien tentang limfoma sel T: diagnosis, pengobatan, dan keputusan sehari-hari
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Limfoma Sel T
-- **Subtitle:** Ini cukup untuk mulai menghubungi dokter spesialis, tetapi biasanya belum cukup untuk menentukan seluruh rencana pengobatan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Perawatan Limfoma Sel T di Tiongkok: 20 Pertanyaan Pasien
+- **Subtitle:** Siapkan perawatan limfoma sel T di Tiongkok melalui 20 pertanyaan tentang subtipe, biopsi, penanda, pengobatan, dan keputusan sehari-hari.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -136,3 +138,6 @@ Bawalah laporan patologi dan konsultasi lengkap, pencitraan asli utama, catatan 
 ## SEO Metadata
 
 - **Primary keyword:** pertanyaan pasien tentang limfoma sel T
+
+- **Meta title:** Perawatan Limfoma Sel T di Tiongkok: 20 Pertanyaan Pasien
+- **Meta description:** Siapkan perawatan limfoma sel T di Tiongkok melalui 20 pertanyaan tentang subtipe, biopsi, penanda, pengobatan, dan keputusan sehari-hari.

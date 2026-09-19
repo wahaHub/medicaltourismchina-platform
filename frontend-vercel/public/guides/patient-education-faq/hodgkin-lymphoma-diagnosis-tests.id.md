@@ -1,12 +1,14 @@
-# Pemeriksaan untuk dugaan limfoma Hodgkin: biopsi, penentuan stadium, dan persiapan pengobatan
+# Diagnosis Limfoma Hodgkin di Tiongkok: Biopsi dan Penentuan Stadium
 
 ## Hero
 
-- **Title:** Pemeriksaan untuk dugaan limfoma Hodgkin: biopsi, penentuan stadium, dan persiapan pengobatan
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Limfoma Hodgkin
-- **Subtitle:** Pembesaran kelenjar di leher, keringat malam, atau demam tanpa sebab yang jelas dapat mengarah pada penilaian limfoma Hodgkin, tetapi gejala saja tidak dapat menegakkan diagnosis.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnosis Limfoma Hodgkin di Tiongkok: Biopsi dan Penentuan Stadium
+- **Subtitle:** Pahami peran biopsi, patologi, dan PET/CT dalam diagnosis serta stadium limfoma Hodgkin. Siapkan riwayat gejala untuk penilaian di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Sebelum meninggalkan konsultasi, ketahui siapa yang akan menyusun kesimpulan dia
 ## SEO Metadata
 
 - **Primary keyword:** pemeriksaan untuk limfoma Hodgkin
+
+- **Meta title:** Diagnosis Limfoma Hodgkin di Tiongkok: Biopsi dan Penentuan Stadium
+- **Meta description:** Pahami peran biopsi, patologi, dan PET/CT dalam diagnosis serta stadium limfoma Hodgkin. Siapkan riwayat gejala untuk penilaian di Tiongkok.

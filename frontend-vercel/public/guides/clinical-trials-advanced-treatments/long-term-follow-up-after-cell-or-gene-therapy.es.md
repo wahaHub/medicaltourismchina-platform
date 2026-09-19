@@ -1,15 +1,17 @@
-# 087 Seguimiento a largo plazo después de terapia celular o génica
+# Terapias celulares y génicas en China: seguimiento a largo plazo
 
 ## Hero
 
-- **Title:** Seguimiento a largo plazo después de terapia celular o génica
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Medicina celular, génica y regenerativa
-- **Subtitle:** Prepare un pasaporte de seguimiento específico del producto para toxicidad temprana, recuperación inmunitaria, respuesta de la enfermedad, acontecimientos adversos tardíos, embarazo y notificación transfronteriza.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustración editorial de un paciente y un médico planificando controles de salud a lo largo del tiempo con un calendario; no es un calendario de vigilancia específico de un producto.
+
+
+- **Title:** Terapias celulares y génicas en China: seguimiento a largo plazo
+- **Subtitle:** Planifique seguimiento específico del producto para respuesta de enfermedad, recuperación inmunitaria, toxicidad tardía, neoplasias, embarazo, notificación, documentos y atención transfronteriza.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -204,11 +206,13 @@ El plan previo al tratamiento debe nombrar un sucesor para documentos, notificac
 ## SEO Metadata
 
 - **Slug:** `long-term-follow-up-after-cell-or-gene-therapy`
-- **Meta title:** Seguimiento a largo plazo después de terapia celular o génica
-- **Meta description:** Planifique seguimiento específico del producto para respuesta de enfermedad, recuperación inmunitaria, toxicidad tardía, neoplasias, embarazo, notificación, documentos y atención transfronteriza.
 - **Primary keyword:** seguimiento a largo plazo terapia celular génica
 - **Secondary keywords:** vigilancia a largo plazo de terapia génica; seguimiento CAR-T de 15 años; riesgos tardíos de terapia génica; pasaporte de terapia celular; seguimiento terapéutico transfronterizo
 - **Search intent:** vigilancia posterior al tratamiento / planificación de seguridad a largo plazo
+
+
+- **Meta title:** Terapias celulares y génicas en China: seguimiento a largo plazo
+- **Meta description:** Planifique seguimiento específico del producto para respuesta de enfermedad, recuperación inmunitaria, toxicidad tardía, neoplasias, embarazo, notificación, documentos y atención transfronteriza.
 
 ## Fuentes
 

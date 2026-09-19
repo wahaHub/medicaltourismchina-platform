@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Apakah Perjalanan ke Tiongkok Tepat untuk Perawatan Sklerosis Multipel? Merencanakan Perjalanan Sesuai Pengobatan Anda
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Sklerosis Multipel
-- **Subtitle:** Perjalanan medis yang bermanfaat dimulai dengan pertanyaan yang secara realistis dapat dijawab melalui konsultasi lain.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Apakah Perjalanan ke Tiongkok Tepat untuk Perawatan Sklerosis Multipel? Merencanakan Perjalanan Sesuai Pengobatan Anda
+- **Subtitle:** Nilai manfaat perjalanan sklerosis multipel ke Tiongkok, kestabilan gejala, kesinambungan pengobatan, dan kebutuhan bantuan sepanjang perjalanan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Perjalanan menjadi pilihan yang lebih dapat dipertanggungjawabkan ketika tujuan 
 ## SEO Metadata
 
 - **Primary keyword:** perjalanan ke Tiongkok untuk pengobatan sklerosis multipel
+
+- **Meta title:** Apakah Perjalanan ke Tiongkok Tepat untuk Perawatan Sklerosis Multipel? Merencanakan Perjalanan Sesuai Pengobatan Anda
+- **Meta description:** Nilai manfaat perjalanan sklerosis multipel ke Tiongkok, kestabilan gejala, kesinambungan pengobatan, dan kebutuhan bantuan sepanjang perjalanan.

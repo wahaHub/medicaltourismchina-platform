@@ -1,12 +1,14 @@
-# Medicación para la epilepsia farmacorresistente: elegir un esquema, comprobar fármacos más nuevos y planificar la vigilancia
+# Medicamentos para epilepsia farmacorresistente en China: acceso y vigilancia
 
 ## Hero
 
-- **Title:** Medicación para la epilepsia farmacorresistente: elegir un esquema, comprobar fármacos más nuevos y planificar la vigilancia
 - **Category:** Guías de tratamiento
 - **Subcategory:** Epilepsia farmacorresistente
-- **Subtitle:** Después de que varios medicamentos no hayan controlado las crisis, es comprensible preguntar si hay uno más potente o más nuevo.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medicamentos para epilepsia farmacorresistente en China: acceso y vigilancia
+- **Subtitle:** Prepare una revisión de medicación para epilepsia farmacorresistente en China según crisis, tratamientos previos, interacciones y controles de seguridad.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -149,3 +151,6 @@ Una mejoría sostenible requiere más que alcanzar un objetivo en la tabla de pr
 ## SEO Metadata
 
 - **Primary keyword:** medicación para la epilepsia farmacorresistente; tratamiento con fármacos anticrisis; cenobamato en China; tratamiento combinado de la epilepsia
+
+- **Meta title:** Medicamentos para epilepsia farmacorresistente en China: acceso y vigilancia
+- **Meta description:** Prepare una revisión de medicación para epilepsia farmacorresistente en China según crisis, tratamientos previos, interacciones y controles de seguridad.

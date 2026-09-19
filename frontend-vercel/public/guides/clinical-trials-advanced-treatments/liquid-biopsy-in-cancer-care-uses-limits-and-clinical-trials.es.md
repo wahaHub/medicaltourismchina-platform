@@ -1,15 +1,17 @@
-# 092 Biopsia líquida en la atención oncológica: usos, limitaciones y ensayos clínicos
+# Biopsia líquida en China: pruebas del cáncer, límites y ensayos
 
 ## Hero
 
-- **Title:** Biopsia líquida en la atención oncológica: usos, limitaciones y ensayos clínicos
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Pruebas moleculares y oncología de precisión
-- **Subtitle:** Asegure la correspondencia entre muestra, ensayo y decisión clínica, y sepa qué no puede excluir un resultado negativo.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustración provisional de una consulta con un icono de tubo de ensayo, pendiente de una imagen científicamente precisa de plasma sanguíneo, ADN libre de células y secuenciación.
+
+
+- **Title:** Biopsia líquida en China: pruebas del cáncer, límites y ensayos
+- **Subtitle:** Comprenda la biopsia líquida de ctDNA para cáncer avanzado, MRD, vigilancia y cribado, incluidos falsos negativos, hematopoyesis clonal, confirmación tisular y ensayos clínicos.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,11 +139,13 @@ El ADN leucocitario ayuda a distinguir las variantes tumorales de la hematopoyes
 ## SEO Metadata
 
 - **Slug:** `liquid-biopsy-in-cancer-care-uses-limits-and-clinical-trials`
-- **Meta title:** Biopsia líquida en cáncer: usos, límites y ensayos
-- **Meta description:** Comprenda la biopsia líquida de ctDNA para cáncer avanzado, MRD, vigilancia y cribado, incluidos falsos negativos, hematopoyesis clonal, confirmación tisular y ensayos clínicos.
 - **Primary keyword:** biopsia líquida en la atención oncológica
 - **Secondary keywords:** pruebas de ctDNA; enfermedad residual molecular; pruebas genómicas plasmáticas; falso negativo en biopsia líquida; ensayo clínico de ctDNA
 - **Search intent:** interpretación de pruebas moleculares / selección para ensayos
+
+
+- **Meta title:** Biopsia líquida en China: pruebas del cáncer, límites y ensayos
+- **Meta description:** Comprenda la biopsia líquida de ctDNA para cáncer avanzado, MRD, vigilancia y cribado, incluidos falsos negativos, hematopoyesis clonal, confirmación tisular y ensayos clínicos.
 
 ## Fuentes
 

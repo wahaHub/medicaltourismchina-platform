@@ -1,15 +1,17 @@
-# 081 Uji Klinis Terapi Virus Onkolitik: Bukti, Risiko, dan Kelayakan
+# Uji Klinis Virus Onkolitik di Tiongkok: Kelayakan dan Risiko
 
 ## Hero
 
-- **Title:** Uji Klinis Terapi Virus Onkolitik: Bukti, Risiko, dan Kelayakan
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Imunoterapi Kanker
-- **Subtitle:** Nilai virus, rancangan genetik, rute pemberian, lesi yang dapat disuntik, kombinasi, dan rencana keamanan hayati yang tepat—bukan sekadar janji umum tentang “virus yang membunuh kanker.”
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Skema virus onkolitik di samping sel tumor, peserta uji klinis, peninjauan keamanan, dan pelacakan hasil; bukan gambar mikroskop atau produk virus tertentu.
+
+
+- **Title:** Uji Klinis Virus Onkolitik di Tiongkok: Kelayakan dan Risiko
+- **Subtitle:** Nilai uji virus onkolitik berdasarkan platform virus, rute pemberian, lesi yang dapat disuntik, bukti, risiko infeksi dan pelepasan virus, pencitraan, serta status uji di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -181,11 +183,13 @@ Tidak secara otomatis. Peradangan dapat menyerupai pertumbuhan, tetapi progresi 
 ## SEO Metadata
 
 - **Slug:** `oncolytic-virus-therapy-trials-evidence-risks-and-eligibility`
-- **Meta title:** Uji Virus Onkolitik: Kelayakan, Pelepasan Virus, dan Bukti
-- **Meta description:** Nilai uji virus onkolitik berdasarkan platform virus, rute pemberian, lesi yang dapat disuntik, bukti, risiko infeksi dan pelepasan virus, pencitraan, serta status uji di Tiongkok.
 - **Primary keyword:** uji klinis virus onkolitik
 - **Secondary keywords:** virus onkolitik Tiongkok; terapi virus intratumoral; pelepasan virus; kelayakan virus onkolitik; imunoterapi onkolitik
 - **Search intent:** skrining uji virus onkolitik / peninjauan bukti dan keamanan
+
+
+- **Meta title:** Uji Klinis Virus Onkolitik di Tiongkok: Kelayakan dan Risiko
+- **Meta description:** Nilai uji virus onkolitik berdasarkan platform virus, rute pemberian, lesi yang dapat disuntik, bukti, risiko infeksi dan pelepasan virus, pencitraan, serta status uji di Tiongkok.
 
 ## Sumber
 

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Alzheimer-Nachsorge nach Versorgung in China: Damit der Plan für die Heimkehr funktioniert
 - **Category:** Leitfäden zum Patientenweg
 - **Subcategory:** Alzheimer-Krankheit
-- **Subtitle:** Eine Beratung oder Behandlung in China wird langfristig nur dann nützlich, wenn ihre Erkenntnisse in die Versorgung am Wohnort des Patienten einfließen können.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Alzheimer-Nachsorge nach Versorgung in China: Damit der Plan für die Heimkehr funktioniert
+- **Subtitle:** Alzheimer-Nachsorge nach Versorgung in China organisieren: ärztliche Übergabe, Medikamentenkontrollen, MRT-Überwachung und Veränderungen im Alltag einplanen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -130,3 +132,6 @@ Führen Sie Gespräche über die Wünsche des Patienten und die künftige Versor
 ## SEO Metadata
 
 - **Primary keyword:** Nachsorge nach Alzheimer-Behandlung in China
+
+- **Meta title:** Alzheimer-Nachsorge nach Versorgung in China: Damit der Plan für die Heimkehr funktioniert
+- **Meta description:** Alzheimer-Nachsorge nach Versorgung in China organisieren: ärztliche Übergabe, Medikamentenkontrollen, MRT-Überwachung und Veränderungen im Alltag einplanen.

@@ -1,12 +1,14 @@
-# Pengobatan Penyakit Sel Sabit: Mencegah Krisis, Melindungi Organ, dan Mempertimbangkan Terapi Transformatif
+# Pengobatan Penyakit Sel Sabit di Tiongkok: Pilihan dan Akses
 
 ## Hero
 
-- **Title:** Pengobatan Penyakit Sel Sabit: Mencegah Krisis, Melindungi Organ, dan Mempertimbangkan Terapi Transformatif
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Sel Sabit
-- **Subtitle:** Pengobatan penyakit sel sabit mencakup lebih dari sekadar mengakhiri episode nyeri saat ini.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Penyakit Sel Sabit di Tiongkok: Pilihan dan Akses
+- **Subtitle:** Pahami pilihan penyakit sel sabit di Tiongkok untuk mencegah krisis, melindungi organ, dan menilai terapi lanjutan sesuai kondisi serta akses.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -147,3 +149,6 @@ Untuk pendapat atau pengobatan di Tiongkok, kirim bukti diagnostik, pengukuran d
 ## SEO Metadata
 
 - **Primary keyword:** panduan pengobatan penyakit sel sabit
+
+- **Meta title:** Pengobatan Penyakit Sel Sabit di Tiongkok: Pilihan dan Akses
+- **Meta description:** Pahami pilihan penyakit sel sabit di Tiongkok untuk mencegah krisis, melindungi organ, dan menilai terapi lanjutan sesuai kondisi serta akses.

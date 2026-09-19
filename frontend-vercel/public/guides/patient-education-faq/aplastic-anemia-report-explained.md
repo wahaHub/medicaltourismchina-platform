@@ -1,12 +1,14 @@
-# Understanding an aplastic anemia report: hypocellularity, PNH clones, and genetic findings
+# Aplastic Anemia Reports: Preparing for Review in China
 
 ## Hero
 
-- **Title:** Understanding an aplastic anemia report: hypocellularity, PNH clones, and genetic findings
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Aplastic Anemia
-- **Subtitle:** Multiple abnormal entries on a report do not necessarily represent multiple new diseases.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Aplastic Anemia Reports: Preparing for Review in China
+- **Subtitle:** Read aplastic anemia marrow, PNH and genetic findings in context, with the blood trends and treatment records needed for review in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ The timetable should distinguish receipt of material, slide review, additional s
 ## SEO Metadata
 
 - **Primary keyword:** aplastic anemia report explained
+
+- **Meta title:** Aplastic Anemia Reports: Preparing for Review in China
+- **Meta description:** Read aplastic anemia marrow, PNH and genetic findings in context, with the blood trends and treatment records needed for review in China.

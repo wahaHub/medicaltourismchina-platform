@@ -1,12 +1,14 @@
-# ¿Cómo se trata el linfoma de células del manto? Guía práctica desde la observación hasta el tratamiento tras la recaída
+# Tratamiento del linfoma de células del manto en China: opciones por etapa asistencial
 
 ## Hero
 
-- **Title:** ¿Cómo se trata el linfoma de células del manto? Guía práctica desde la observación hasta el tratamiento tras la recaída
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de células del manto
-- **Subtitle:** Búsquedas relacionadas: opciones de tratamiento del MCL; atención del linfoma de células del manto en China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento del linfoma de células del manto en China: opciones por etapa asistencial
+- **Subtitle:** Comprenda las opciones del linfoma de células del manto en China según diagnóstico, necesidad de tratar, aptitud física y etapa del proceso asistencial.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Si su estado cambia rápidamente mientras organiza atención internacional, haga
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento del linfoma de células del manto
+
+- **Meta title:** Tratamiento del linfoma de células del manto en China: opciones por etapa asistencial
+- **Meta description:** Comprenda las opciones del linfoma de células del manto en China según diagnóstico, necesidad de tratar, aptitud física y etapa del proceso asistencial.

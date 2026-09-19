@@ -1,12 +1,14 @@
-# Comparing DLBCL treatments: which options belong at which stage?
+# DLBCL Treatment Options in China: Comparing Care by Stage
 
 ## Hero
 
-- **Title:** Comparing DLBCL treatments: which options belong at which stage?
 - **Category:** Treatment Guides
 - **Subcategory:** Diffuse Large B Cell Lymphoma
-- **Subtitle:** R-CHOP, polatuzumab combinations, transplantation, CAR T cells and bispecific antibodies should not be placed in a single ranking from weakest to strongest.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL Treatment Options in China: Comparing Care by Stage
+- **Subtitle:** Compare DLBCL treatments within the relevant disease stage and treatment line, with evidence, eligibility and China access considered separately.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Assign follow-up responsibility and specify which tests can be done at home and 
 ## SEO Metadata
 
 - **Primary keyword:** DLBCL treatment comparison
+
+- **Meta title:** DLBCL Treatment Options in China: Comparing Care by Stage
+- **Meta description:** Compare DLBCL treatments within the relevant disease stage and treatment line, with evidence, eligibility and China access considered separately.

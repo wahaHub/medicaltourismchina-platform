@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Krankenunterlagen für Parkinson-Versorgung in China: Symptome, Medikamentenansprechen und frühere Eingriffe darstellen
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Parkinson-Krankheit
-- **Subtitle:** Die Vorbereitung von Parkinson-Unterlagen soll einem neuen Team helfen zu verstehen, wie Symptome entstanden, welche Behandlungen tatsächlich versucht wurden und was der Patient jetzt angehen möchte.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Krankenunterlagen für Parkinson-Versorgung in China: Symptome, Medikamentenansprechen und frühere Eingriffe darstellen
+- **Subtitle:** Parkinson-Unterlagen für China vorbereiten: tatsächliche Medikamenteneinnahme, Symptomtagebuch, Testbedingungen, Bildgebung und frühere Gerätebehandlungen erfassen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ Der heimische Arzt benötigt eine nachvollziehbare Darstellung dessen, was beim 
 ## SEO Metadata
 
 - **Primary keyword:** Krankenunterlagen für Parkinson-Behandlung in China
+
+- **Meta title:** Krankenunterlagen für Parkinson-Versorgung in China: Symptome, Medikamentenansprechen und frühere Eingriffe darstellen
+- **Meta description:** Parkinson-Unterlagen für China vorbereiten: tatsächliche Medikamenteneinnahme, Symptomtagebuch, Testbedingungen, Bildgebung und frühere Gerätebehandlungen erfassen.

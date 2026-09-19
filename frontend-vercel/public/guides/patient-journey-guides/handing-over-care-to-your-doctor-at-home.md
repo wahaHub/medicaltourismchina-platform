@@ -1,15 +1,17 @@
-# Handing Care to Your Doctor at Home: “Received” Is Not “Accepted”
+# Returning Home After Care in China: Handover to Your Doctor
 
 ## Hero
 
-- **Title:** Handing Care to Your Doctor at Home: “Received” Is Not “Accepted”
 - **Category:** Patient Journey Guides
 - **Subcategory:** Clinical Handover at Home
-- **Subtitle:** Turn an overseas treatment record into an accepted local plan, with a named doctor, explicit responsibilities and no orphaned tasks.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** A doctor at home reviews a care plan with a returning patient and family member.
+
+
+- **Title:** Returning Home After Care in China: Handover to Your Doctor
+- **Subtitle:** Transfer care after treatment in China with a receiving doctor, problem brief, task owners, pending-result plan and explicit acceptance.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -191,13 +193,15 @@ After the local team has assessed the patient, accepted the relevant tasks and r
 ## SEO Metadata
 
 - **Slug:** `handing-over-care-to-your-doctor-at-home`
-- **Meta title:** Handing Care to Your Doctor at Home | Clinical Handover
-- **Meta description:** Transfer care after treatment in China with a receiving doctor, problem brief, task owners, pending-result plan and explicit acceptance.
 - **Primary keyword:** handing over care to your doctor at home
 - **Pillar keyword:** medical travel to China
 - **Vertical keyword:** international patient clinical handover
 - **Search intent:** continuity of care / return-home planning
 - **Secondary keywords:** receiving doctor after medical travel; doctor-to-doctor handoff; overseas treatment follow-up; pending test ownership; care transfer checklist
+
+
+- **Meta title:** Returning Home After Care in China: Handover to Your Doctor
+- **Meta description:** Transfer care after treatment in China with a receiving doctor, problem brief, task owners, pending-result plan and explicit acceptance.
 
 ## Sources
 

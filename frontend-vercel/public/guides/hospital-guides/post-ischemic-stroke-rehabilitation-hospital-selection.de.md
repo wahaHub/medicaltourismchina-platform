@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Ein Krankenhaus für Schlaganfallrehabilitation in China auswählen: Das Team auf Ihre Bedürfnisse abstimmen
 - **Category:** Krankenhausleitfäden
 - **Subcategory:** Rehabilitation nach ischämischem Schlaganfall
-- **Subtitle:** Beginnen Sie bei der Auswahl eines Krankenhauses für die Rehabilitation nach ischämischem Schlaganfall in China mit den derzeit wichtigsten Schwierigkeiten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Ein Krankenhaus für Schlaganfallrehabilitation in China auswählen: Das Team auf Ihre Bedürfnisse abstimmen
+- **Subtitle:** Ein Zentrum für Schlaganfallrehabilitation in China prüfen: Pflegebedarf, Alltagstraining, Sprache, Schlucken und Anleitung der Angehörigen auf Ihre Ziele abstimmen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ Die endgültige Wahl sollte zugängliche Behandlung, Reisebelastung, familiäre 
 ## SEO Metadata
 
 - **Primary keyword:** ein Krankenhaus für Schlaganfallrehabilitation in China auswählen
+
+- **Meta title:** Ein Krankenhaus für Schlaganfallrehabilitation in China auswählen: Das Team auf Ihre Bedürfnisse abstimmen
+- **Meta description:** Ein Zentrum für Schlaganfallrehabilitation in China prüfen: Pflegebedarf, Alltagstraining, Sprache, Schlucken und Anleitung der Angehörigen auf Ihre Ziele abstimmen.

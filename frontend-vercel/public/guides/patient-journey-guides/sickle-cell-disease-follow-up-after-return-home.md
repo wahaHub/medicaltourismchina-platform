@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Sickle Cell Follow-up After Treatment in China: Medicines, Transfusions, Monitoring, and Urgent Care
 - **Category:** Patient Journey Guides
 - **Subcategory:** Sickle Cell Disease
-- **Subtitle:** Care for sickle cell disease continues after a visit to China.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sickle Cell Follow-up After Treatment in China: Medicines, Transfusions, Monitoring, and Urgent Care
+- **Subtitle:** Plan sickle cell follow-up after treatment in China with medicine access, blood support, monitoring and instructions for urgent symptoms at home.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,3 +146,6 @@ For remote review, establish what information to upload, when it will be assesse
 ## SEO Metadata
 
 - **Primary keyword:** sickle cell disease follow-up after treatment in China
+
+- **Meta title:** Sickle Cell Follow-up After Treatment in China: Medicines, Transfusions, Monitoring, and Urgent Care
+- **Meta description:** Plan sickle cell follow-up after treatment in China with medicine access, blood support, monitoring and instructions for urgent symptoms at home.

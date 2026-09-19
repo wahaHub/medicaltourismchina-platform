@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Documentación clínica para la atención del mieloma en China: documentar el diagnóstico, la resistencia y la preparación para el tratamiento
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Mieloma múltiple
-- **Subtitle:** Un certificado de diagnóstico por sí solo rara vez permite a un nuevo equipo decidir el siguiente paso.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Documentación clínica para la atención del mieloma en China: documentar el diagnóstico, la resistencia y la preparación para el tratamiento
+- **Subtitle:** Prepare la atención de mieloma en China con informes medulares y genéticos, tendencias de proteínas y motivos de finalización de cada tratamiento previo.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Actualice el resumen antes de partir con el último tratamiento y cualquier sín
 ## SEO Metadata
 
 - **Primary keyword:** documentación clínica para el tratamiento del mieloma múltiple en China
+
+- **Meta title:** Documentación clínica para la atención del mieloma en China: documentar el diagnóstico, la resistencia y la preparación para el tratamiento
+- **Meta description:** Prepare la atención de mieloma en China con informes medulares y genéticos, tendencias de proteínas y motivos de finalización de cada tratamiento previo.

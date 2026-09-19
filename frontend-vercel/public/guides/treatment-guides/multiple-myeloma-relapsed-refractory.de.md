@@ -1,12 +1,14 @@
-# Rezidiviertes oder refraktäres multiples Myelom: Progression bestätigen und die nächste Behandlung wählen
+# Rezidiviertes oder refraktäres Myelom in China: Behandlung überprüfen
 
 ## Hero
 
-- **Title:** Rezidiviertes oder refraktäres multiples Myelom: Progression bestätigen und die nächste Behandlung wählen
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Multiples Myelom
-- **Subtitle:** Ein ansteigendes monoklonales Protein kann Patienten befürchten lassen, dass sämtliche verfügbaren Behandlungen ihre Wirkung verloren haben.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rezidiviertes oder refraktäres Myelom in China: Behandlung überprüfen
+- **Subtitle:** Rezidiviertes Myelom in China beurteilen: Progression, Organrisiken, Resistenzverlauf und Reihenfolge möglicher Immuntherapien in die Behandlungswahl einbeziehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Auch die seelischen Auswirkungen verdienen Aufmerksamkeit. Ein Rückfall löscht
 ## SEO Metadata
 
 - **Primary keyword:** Behandlung des rezidivierten refraktären multiplen Myeloms in China
+
+- **Meta title:** Rezidiviertes oder refraktäres Myelom in China: Behandlung überprüfen
+- **Meta description:** Rezidiviertes Myelom in China beurteilen: Progression, Organrisiken, Resistenzverlauf und Reihenfolge möglicher Immuntherapien in die Behandlungswahl einbeziehen.

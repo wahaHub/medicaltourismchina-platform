@@ -1,12 +1,14 @@
-# Comprendre les comptes rendus d’examens d’Alzheimer : scores cognitifs, atrophie, p-tau et APOE
+# Résultats d’examens d’Alzheimer : préparer une relecture en Chine
 
 ## Hero
 
-- **Title:** Comprendre les comptes rendus d’examens d’Alzheimer : scores cognitifs, atrophie, p-tau et APOE
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Maladie d’Alzheimer
-- **Subtitle:** Après un bilan de mémoire, une famille peut recevoir plusieurs comptes rendus qui semblent se contredire.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Résultats d’examens d’Alzheimer : préparer une relecture en Chine
+- **Subtitle:** Interprétez scores cognitifs, imagerie, p-tau et APOE avec leurs limites et leur contexte clinique avant une relecture spécialisée en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ Avant de quitter la consultation de relecture, établissez si un résultat néce
 ## SEO Metadata
 
 - **Primary keyword:** comprendre les résultats des examens d’Alzheimer
+
+- **Meta title:** Résultats d’examens d’Alzheimer : préparer une relecture en Chine
+- **Meta description:** Interprétez scores cognitifs, imagerie, p-tau et APOE avec leurs limites et leur contexte clinique avant une relecture spécialisée en Chine.

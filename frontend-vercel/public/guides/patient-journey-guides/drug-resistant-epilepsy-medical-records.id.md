@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Rekam medis untuk konsultasi epilepsi resistan obat di Tiongkok: membuat riwayat dapat dipahami
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Epilepsi Resistan Obat
-- **Subtitle:** Tas besar berisi laporan belum tentu mempermudah konsultasi dibandingkan rekam medis yang disusun cermat.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rekam medis untuk konsultasi epilepsi resistan obat di Tiongkok: membuat riwayat dapat dipahami
+- **Subtitle:** Susun riwayat kejang, obat yang pernah dicoba, EEG, dan MRI agar konsultasi epilepsi resistan obat di Tiongkok dapat menilai masalah secara utuh.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -168,3 +170,6 @@ Setelah peninjauan pertama, tanggapi permintaan spesifik daripada berulang kali 
 ## SEO Metadata
 
 - **Primary keyword:** rekam medis epilepsi resistan obat untuk Tiongkok; dokumen konsultasi epilepsi; berkas MRI asli; riwayat obat antikejang
+
+- **Meta title:** Rekam medis untuk konsultasi epilepsi resistan obat di Tiongkok: membuat riwayat dapat dipahami
+- **Meta description:** Susun riwayat kejang, obat yang pernah dicoba, EEG, dan MRI agar konsultasi epilepsi resistan obat di Tiongkok dapat menilai masalah secara utuh.

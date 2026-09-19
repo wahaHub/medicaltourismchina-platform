@@ -1,15 +1,17 @@
-# Suspicion d'AVC pendant un voyage médical : utilisez BE-FAST, notez la dernière heure sans symptôme, appelez le 120
+# Suspicion d’AVC en Chine : reconnaître les signes et appeler le 120
 
 ## Hero
 
-- **Title:** Suspicion d'AVC pendant un voyage médical : utilisez BE-FAST, notez la dernière heure sans symptôme, appelez le 120
 - **Category:** Éducation des patients et questions fréquentes
 - **Subcategory:** Symptômes et soins urgents
-- **Subtitle:** Un guide pour le voyageur et son accompagnant afin de reconnaître les symptômes neurologiques soudains, préserver la chronologie du traitement et accéder sans détour aux soins locaux de l'AVC.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Voyageur et accompagnant près d'une scène hospitalière avec des symboles représentant le cerveau, l'asymétrie faciale et la faiblesse d'un bras
+
+
+- **Title:** Suspicion d’AVC en Chine : reconnaître les signes et appeler le 120
+- **Subtitle:** Reconnaissez les signes d'AVC BE-FAST, notez la dernière heure sans symptôme, appelez le 120, évitez l'aspirine et faites une transmission d'urgence concise en voyage médical.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,13 +142,15 @@ L'heure de découverte est celle où la faiblesse a été remarquée. La derniè
 ## SEO Metadata
 
 - **Slug:** `recognizing-possible-stroke-symptoms-during-medical-travel`
-- **Meta title:** Suspicion d'AVC en voyage : BE-FAST et appel au 120
-- **Meta description:** Reconnaissez les signes d'AVC BE-FAST, notez la dernière heure sans symptôme, appelez le 120, évitez l'aspirine et faites une transmission d'urgence concise en voyage médical.
 - **Primary keyword:** symptômes d'AVC pendant un voyage médical
 - **Pillar keyword:** sécurité des patients pendant un voyage médical
 - **Vertical keyword:** signes d'AVC BE-FAST Chine 120
 - **Search intent:** conseils d'urgence aux patients
 - **Secondary keywords:** dernière heure connue sans symptôme ; AVC à l'aéroport ; AIT en voyage ; appeler le 120 en Chine ; aspirine et suspicion d'AVC
+
+
+- **Meta title:** Suspicion d’AVC en Chine : reconnaître les signes et appeler le 120
+- **Meta description:** Reconnaissez les signes d'AVC BE-FAST, notez la dernière heure sans symptôme, appelez le 120, évitez l'aspirine et faites une transmission d'urgence concise en voyage médical.
 
 ## Sources
 

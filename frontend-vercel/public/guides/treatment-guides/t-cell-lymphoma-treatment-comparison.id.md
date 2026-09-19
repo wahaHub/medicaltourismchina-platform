@@ -1,12 +1,14 @@
-# Membandingkan pengobatan limfoma sel T: hal yang tidak dijelaskan daftar obat dan angka respons
+# Pilihan Pengobatan Limfoma Sel T di Tiongkok: Perbandingan
 
 ## Hero
 
-- **Title:** Membandingkan pengobatan limfoma sel T: hal yang tidak dijelaskan daftar obat dan angka respons
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel T
-- **Subtitle:** Dua rekomendasi berbeda sering membuat pasien membandingkan jumlah obat, harga, atau angka respons yang ditemukan di internet.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pilihan Pengobatan Limfoma Sel T di Tiongkok: Perbandingan
+- **Subtitle:** Bandingkan terapi limfoma sel T di Tiongkok berdasarkan subtipe, tahap pengobatan, dan bukti. Nilai manfaat serta risiko di luar angka respons.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -109,3 +111,6 @@ Tanyakan kepada klinisi apa yang mungkin diperoleh dan apa yang mungkin dikorban
 ## SEO Metadata
 
 - **Primary keyword:** perbandingan pengobatan limfoma sel T
+
+- **Meta title:** Pilihan Pengobatan Limfoma Sel T di Tiongkok: Perbandingan
+- **Meta description:** Bandingkan terapi limfoma sel T di Tiongkok berdasarkan subtipe, tahap pengobatan, dan bukti. Nilai manfaat serta risiko di luar angka respons.

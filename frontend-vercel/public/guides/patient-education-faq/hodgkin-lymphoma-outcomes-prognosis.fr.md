@@ -1,12 +1,14 @@
-# Peut-on guérir le lymphome de Hodgkin ? Comprendre la rémission, la survie et le risque de rechute
+# Pronostic du lymphome de Hodgkin : questions pour des soins en Chine
 
 ## Hero
 
-- **Title:** Peut-on guérir le lymphome de Hodgkin ? Comprendre la rémission, la survie et le risque de rechute
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Lymphome de Hodgkin
-- **Subtitle:** « Peut-on en guérir ? » est souvent la question qu’une personne souhaite le plus poser après un diagnostic de lymphome de Hodgkin.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronostic du lymphome de Hodgkin : questions pour des soins en Chine
+- **Subtitle:** Comprenez la rémission, les chiffres de survie et le risque de rechute du lymphome de Hodgkin afin de préparer une consultation et un suivi en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Si une seule question peut être résolue aujourd’hui, demandez au médecin d�
 ## SEO Metadata
 
 - **Primary keyword:** pronostic et survie du lymphome de Hodgkin
+
+- **Meta title:** Pronostic du lymphome de Hodgkin : questions pour des soins en Chine
+- **Meta description:** Comprenez la rémission, les chiffres de survie et le risque de rechute du lymphome de Hodgkin afin de préparer une consultation et un suivi en Chine.

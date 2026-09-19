@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Wie lange dauert die Thalassämie-Behandlung? Transfusionszyklen, Medikamentenbeurteilung und benötigte Zeit in China
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Thalassämie
-- **Subtitle:** Die Frage nach der Behandlungsdauer kann die Länge eines Klinikbesuchs, die Möglichkeit eines späteren Absetzens von Medikamenten oder den Zeitpunkt der Heimreise nach einer Transplantation meinen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Wie lange dauert die Thalassämie-Behandlung? Transfusionszyklen, Medikamentenbeurteilung und benötigte Zeit in China
+- **Subtitle:** Thalassämieversorgung in China zeitlich planen: Transfusionsrhythmus, Chelattherapie, Medikamentenbewertung, Organkontrollen und Transplantationsvorbereitung verbinden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -147,3 +149,6 @@ Die Behandlungsdauer variiert je nach Maßnahme und individuellem Verlauf. Wenig
 ## SEO Metadata
 
 - **Primary keyword:** Dauer der Thalassämie-Behandlung; Transfusionsabstände; Erholungszeit nach Transplantation; Behandlungsaufenthalt in China
+
+- **Meta title:** Wie lange dauert die Thalassämie-Behandlung? Transfusionszyklen, Medikamentenbeurteilung und benötigte Zeit in China
+- **Meta description:** Thalassämieversorgung in China zeitlich planen: Transfusionsrhythmus, Chelattherapie, Medikamentenbewertung, Organkontrollen und Transplantationsvorbereitung verbinden.

@@ -1,15 +1,17 @@
-# Multidisciplinary Cancer Care: How Tumor Boards Guide Treatment
+# Cancer Tumor Boards in China: How MDT Guides Treatment
 
 ## Hero
 
-- **Title:** Multidisciplinary Cancer Care: How Tumor Boards Guide Treatment
 - **Category:** Treatment Guides
 - **Subcategory:** Cancer Treatment Planning
-- **Subtitle:** Understand who reviewed the case, what evidence was available, how the recommendation was recorded and where the patient’s own decision enters the process.
 - **Reviewed by:** Medora Health Editorial Team; oncology MDT governance and shared-decision review required before publication
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Surgeons, medical and radiation oncologists, radiologists and pathologists review one cancer case together
+
+
+- **Title:** Cancer Tumor Boards in China: How MDT Guides Treatment
+- **Subtitle:** Learn how cancer tumor boards review evidence, record options and uncertainty, involve patient preferences and turn an MDT recommendation into action.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -215,13 +217,15 @@ Sometimes. The hospital must confirm that it accepts remote records and whether 
 ## SEO Metadata
 
 - **Slug:** `multidisciplinary-cancer-care-how-tumor-boards-guide-treatment`
-- **Meta title:** How Cancer Tumor Boards Guide Treatment
-- **Meta description:** Learn how cancer tumor boards review evidence, record options and uncertainty, involve patient preferences and turn an MDT recommendation into action.
 - **Primary keyword:** multidisciplinary cancer care
 - **Pillar keyword:** cancer treatment in China
 - **Vertical keyword:** how tumor boards guide treatment
 - **Search intent:** treatment-planning education / MDT service evaluation
 - **Secondary keywords:** cancer MDT China; tumor board review; multidisciplinary oncology; cancer treatment planning meeting
+
+
+- **Meta title:** Cancer Tumor Boards in China: How MDT Guides Treatment
+- **Meta description:** Learn how cancer tumor boards review evidence, record options and uncertainty, involve patient preferences and turn an MDT recommendation into action.
 
 ## Sources
 

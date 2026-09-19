@@ -1,15 +1,17 @@
-# 089 Kecerdasan Buatan dalam Pencitraan Medis: Yang Perlu Diketahui Pasien
+# Kecerdasan Buatan dalam Pencitraan Medis di Tiongkok: Panduan Pasien
 
 ## Hero
 
-- **Title:** Kecerdasan Buatan dalam Pencitraan Medis: Yang Perlu Diketahui Pasien
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Pencitraan, Perangkat Lunak & Keputusan Klinis
-- **Subtitle:** Ketahui apa yang sebenarnya dilakukan perangkat lunak, siapa yang memeriksanya, dan apakah perangkat tersebut mengubah perawatan Anda.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustrasi konseptual seorang klinisi radiologi yang membahas citra dada dan dukungan AI dengan pasien; bukan hasil pemindaian atau keluaran diagnostik yang sebenarnya.
+
+
+- **Title:** Kecerdasan Buatan dalam Pencitraan Medis di Tiongkok: Panduan Pasien
+- **Subtitle:** Pahami fungsi AI pencitraan, cara memverifikasi produk dan buktinya, hasil palsu, pengawasan radiolog, privasi data, dan catatan untuk pendapat kedua.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -163,11 +165,13 @@ Bawalah pemeriksaan DICOM asli, laporan akhir dan adendum, citra terdahulu yang 
 ## SEO Metadata
 
 - **Slug:** `artificial-intelligence-in-medical-imaging-what-patients-should-know`
-- **Meta title:** AI dalam Pencitraan Medis: Panduan Pasien
-- **Meta description:** Pahami fungsi AI pencitraan, cara memverifikasi produk dan buktinya, hasil palsu, pengawasan radiolog, privasi data, dan catatan untuk pendapat kedua.
 - **Primary keyword:** AI dalam pencitraan medis
 - **Secondary keywords:** kecerdasan buatan radiologi; akurasi pencitraan AI; positif palsu AI pencitraan; perangkat lunak pencitraan medis NMPA; laporan radiologi AI
 - **Search intent:** penjelasan teknologi / dukungan keputusan pencitraan
+
+
+- **Meta title:** Kecerdasan Buatan dalam Pencitraan Medis di Tiongkok: Panduan Pasien
+- **Meta description:** Pahami fungsi AI pencitraan, cara memverifikasi produk dan buktinya, hasil palsu, pengawasan radiolog, privasi data, dan catatan untuk pendapat kedua.
 
 ## Sumber
 

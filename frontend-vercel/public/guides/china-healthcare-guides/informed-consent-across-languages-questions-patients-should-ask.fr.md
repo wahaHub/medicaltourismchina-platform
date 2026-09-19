@@ -1,15 +1,17 @@
-# 014 Consentement éclairé entre langues : les questions que les patients devraient poser
+# Consentement éclairé entre langues en Chine
 
 ## Hero
 
-- **Title:** Consentement éclairé entre langues : les questions que les patients devraient poser
 - **Category:** Guides des soins de santé en Chine
 - **Subcategory:** Langue, droits et décisions
-- **Subtitle:** Le consentement est une conversation sur les soins proposés, les risques importants, les solutions possibles et le choix du patient — pas une signature obtenue à l’aveugle.
 - **Reviewed by:** Équipe éditoriale de Medora Health ; relecture clinique, juridique et relative à l’accès linguistique requise avant publication
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un patient international et son accompagnant posent des questions à un médecin avant d’accepter des soins
+
+
+- **Title:** Consentement éclairé entre langues en Chine
+- **Subtitle:** Le consentement est une conversation sur les soins proposés, les risques importants, les solutions possibles et le choix du patient — pas une signature obtenue à l’aveugle.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -188,13 +190,15 @@ Pas automatiquement. Demandez au chirurgien quelles extensions ou conversions pr
 ## SEO Metadata
 
 - **Slug:** `informed-consent-across-languages-questions-patients-should-ask`
-- **Meta title:** Consentement éclairé entre langues en Chine
-- **Meta description:** Posez de meilleures questions sur les bénéfices, les risques, les autres options, les interprètes et les changements de projet avant de signer un consentement hospitalier chinois.
 - **Primary keyword:** consentement éclairé dans les hôpitaux chinois
 - **Pillar keyword:** soins de santé en Chine pour les patients internationaux
 - **Vertical keyword:** consentement éclairé entre langues
 - **Search intent:** information / aide à la décision thérapeutique
 - **Secondary keywords:** consentement en anglais hôpital chinois ; interprète médical consentement ; consentement chirurgical Chine
+
+
+- **Meta title:** Consentement éclairé entre langues en Chine
+- **Meta description:** Posez de meilleures questions sur les bénéfices, les risques, les autres options, les interprètes et les changements de projet avant de signer un consentement hospitalier chinois.
 
 ## Sources
 

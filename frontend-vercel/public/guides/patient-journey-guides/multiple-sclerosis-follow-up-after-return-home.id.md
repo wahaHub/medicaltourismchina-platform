@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Tindak Lanjut Setelah Perawatan Sklerosis Multipel di Tiongkok: Menghubungkan Hasil dengan Keputusan
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Sklerosis Multipel
-- **Subtitle:** Kesenjangan paling berdampak setelah konsultasi di luar negeri sering kali bukan tes darah yang terlewat.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tindak Lanjut Setelah Perawatan Sklerosis Multipel di Tiongkok: Menghubungkan Hasil dengan Keputusan
+- **Subtitle:** Pastikan hasil tindak lanjut sklerosis multipel setelah perawatan di Tiongkok ditinjau dokter yang jelas. Hubungkan tes, pemantauan obat, dan keputusan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -104,3 +106,6 @@ Pengaturan tindak lanjut yang dapat dijalankan berujung pada tanggung jawab deng
 ## SEO Metadata
 
 - **Primary keyword:** tindak lanjut sklerosis multipel setelah pengobatan di Tiongkok
+
+- **Meta title:** Tindak Lanjut Setelah Perawatan Sklerosis Multipel di Tiongkok: Menghubungkan Hasil dengan Keputusan
+- **Meta description:** Pastikan hasil tindak lanjut sklerosis multipel setelah perawatan di Tiongkok ditinjau dokter yang jelas. Hubungkan tes, pemantauan obat, dan keputusan.

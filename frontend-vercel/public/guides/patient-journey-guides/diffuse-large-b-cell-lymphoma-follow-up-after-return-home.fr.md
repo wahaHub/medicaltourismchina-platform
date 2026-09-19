@@ -1,12 +1,14 @@
-# Suivi du LDGCB après le retour chez soi : surveillance, récupération et transmission des soins
+# Suivi du LDGCB après un traitement en Chine : retour au pays
 
 ## Hero
 
-- **Title:** Suivi du LDGCB après le retour chez soi : surveillance, récupération et transmission des soins
 - **Category:** Guides du parcours patient
 - **Subcategory:** Lymphome diffus à grandes cellules B
-- **Subtitle:** Le suivi après un traitement du LDGCB en Chine commence par une conclusion thérapeutique claire et une transmission des soins effective.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Suivi du LDGCB après un traitement en Chine : retour au pays
+- **Subtitle:** Organisez le suivi du LDGCB après des soins en Chine : bilan de réponse, médecin référent, surveillance adaptée et poursuite de la prévention infectieuse.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Profitez du premier rendez-vous au retour pour confirmer que la transmission fon
 ## SEO Metadata
 
 - **Primary keyword:** suivi du LDGCB après le retour chez soi
+
+- **Meta title:** Suivi du LDGCB après un traitement en Chine : retour au pays
+- **Meta description:** Organisez le suivi du LDGCB après des soins en Chine : bilan de réponse, médecin référent, surveillance adaptée et poursuite de la prévention infectieuse.

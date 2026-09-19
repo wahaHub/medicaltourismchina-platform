@@ -1,15 +1,17 @@
-# 095 Apa yang Terjadi Setelah Uji Klinis Berakhir? Akses Pascauji dan Tindak Lanjut
+# Setelah Uji Klinis di Tiongkok: Akses dan Tindak Lanjut
 
 ## Hero
 
-- **Title:** Apa yang Terjadi Setelah Uji Klinis Berakhir? Akses Pascauji dan Tindak Lanjut
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Keluar dari Uji & Perawatan Berkelanjutan
-- **Subtitle:** Bedakan kunjungan studi terakhir dari akhir pengobatan, tindak lanjut keselamatan, akses ke intervensi, dan publikasi hasil.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Gambar konsultasi umum saat ini menunggu penggantian dengan ilustrasi serah terima saat keluar dari uji dan perencanaan akses pascauji.
+
+
+- **Title:** Setelah Uji Klinis di Tiongkok: Akses dan Tindak Lanjut
+- **Subtitle:** Pahami tanggal akhir uji, jalur akses pascauji, rekam medis akhir, tindak lanjut keselamatan jangka panjang, biaya, pembukaan penyamaran, hasil, dan serah terima klinis lintas negara.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -203,11 +205,13 @@ Dapatkan rincian paparan dan prosedur sebenarnya, obat saat ini, kejadian yang b
 ## SEO Metadata
 
 - **Slug:** `what-happens-after-a-clinical-trial-ends-post-trial-access-and-follow-up`
-- **Meta title:** Setelah Uji Klinis Berakhir: Akses dan Tindak Lanjut
-- **Meta description:** Pahami tanggal akhir uji, jalur akses pascauji, rekam medis akhir, tindak lanjut keselamatan jangka panjang, biaya, pembukaan penyamaran, hasil, dan serah terima klinis lintas negara.
 - **Primary keyword:** akses pascauji dan tindak lanjut
 - **Secondary keywords:** setelah uji klinis berakhir; ekstensi terbuka; akses diperluas Tiongkok; kunjungan keluar uji klinis; tindak lanjut uji jangka panjang
 - **Search intent:** penyelesaian uji, akses berkelanjutan, dan transisi perawatan
+
+
+- **Meta title:** Setelah Uji Klinis di Tiongkok: Akses dan Tindak Lanjut
+- **Meta description:** Pahami tanggal akhir uji, jalur akses pascauji, rekam medis akhir, tindak lanjut keselamatan jangka panjang, biaya, pembukaan penyamaran, hasil, dan serah terima klinis lintas negara.
 
 ## Sumber
 

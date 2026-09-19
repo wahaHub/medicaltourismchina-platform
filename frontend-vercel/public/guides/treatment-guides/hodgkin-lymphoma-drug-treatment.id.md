@@ -1,12 +1,14 @@
-# Obat untuk limfoma Hodgkin: memahami kemoterapi, pengobatan CD30, dan terapi PD-1
+# Obat Limfoma Hodgkin di Tiongkok: Pilihan dan Akses
 
 ## Hero
 
-- **Title:** Obat untuk limfoma Hodgkin: memahami kemoterapi, pengobatan CD30, dan terapi PD-1
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Hodgkin
-- **Subtitle:** Melihat ABVD, AVD, BV, dan PD-1 pada halaman pengobatan yang sama dapat membuat resep pertama untuk limfoma Hodgkin sulit dipahami.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat Limfoma Hodgkin di Tiongkok: Pilihan dan Akses
+- **Subtitle:** Pahami singkatan dan jadwal obat limfoma Hodgkin, termasuk kemoterapi, terapi CD30, dan PD-1. Siapkan pertanyaan akses perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -138,3 +140,6 @@ Di akhir konsultasi obat, usahakan pulang dengan jawaban jelas tentang kombinasi
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan obat limfoma Hodgkin
+
+- **Meta title:** Obat Limfoma Hodgkin di Tiongkok: Pilihan dan Akses
+- **Meta description:** Pahami singkatan dan jadwal obat limfoma Hodgkin, termasuk kemoterapi, terapi CD30, dan PD-1. Siapkan pertanyaan akses perawatan di Tiongkok.

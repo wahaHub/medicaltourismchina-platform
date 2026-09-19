@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choisir un hôpital pour la maladie de Parkinson en Chine : diagnostic, interventions et soutien à domicile
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Maladie de Parkinson
-- **Subtitle:** Choisissez un service Parkinson en faisant correspondre ses capacités à la difficulté que vous souhaitez résoudre.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choisir un hôpital pour la maladie de Parkinson en Chine : diagnostic, interventions et soutien à domicile
+- **Subtitle:** Choisissez une équipe de Parkinson en Chine selon l’évaluation diagnostique, les critères de chirurgie, les réglages du dispositif et le soutien à domicile.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Les symptômes et les conditions de vie du patient continueront d’évoluer apr
 ## SEO Metadata
 
 - **Primary keyword:** choisir un hôpital pour la maladie de Parkinson en Chine
+
+- **Meta title:** Choisir un hôpital pour la maladie de Parkinson en Chine : diagnostic, interventions et soutien à domicile
+- **Meta description:** Choisissez une équipe de Parkinson en Chine selon l’évaluation diagnostique, les critères de chirurgie, les réglages du dispositif et le soutien à domicile.

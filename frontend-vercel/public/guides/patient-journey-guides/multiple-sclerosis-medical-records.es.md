@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Documentación médica para una consulta de EM en China: mostrar cómo ha cambiado la enfermedad
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Esclerosis múltiple
-- **Subtitle:** La documentación más útil sobre la EM explica qué ocurrió, cuándo ocurrió y qué tratamiento se utilizaba en ese momento.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Documentación médica para una consulta de EM en China: mostrar cómo ha cambiado la enfermedad
+- **Subtitle:** Organice la documentación de esclerosis múltiple para una consulta en China con evolución de síntomas, resonancias completas y resultados de otras pruebas.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Antes de salir de China, actualice la documentación con la nueva evaluación, e
 ## SEO Metadata
 
 - **Primary keyword:** documentación médica de esclerosis múltiple para tratamiento en China
+
+- **Meta title:** Documentación médica para una consulta de EM en China: mostrar cómo ha cambiado la enfermedad
+- **Meta description:** Organice la documentación de esclerosis múltiple para una consulta en China con evolución de síntomas, resonancias completas y resultados de otras pruebas.

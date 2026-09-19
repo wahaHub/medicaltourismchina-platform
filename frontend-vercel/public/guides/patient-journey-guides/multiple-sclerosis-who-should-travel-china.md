@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Is Travel to China Appropriate for Multiple Sclerosis Care? Planning Around Your Treatment
 - **Category:** Patient Journey Guides
 - **Subcategory:** Multiple Sclerosis
-- **Subtitle:** A useful medical trip starts with a question that another consultation could realistically answer.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Is Travel to China Appropriate for Multiple Sclerosis Care? Planning Around Your Treatment
+- **Subtitle:** Decide whether an MS consultation in China justifies travel by reviewing the purpose, clinical stability, treatment schedule and practical support.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Travel becomes a more defensible choice when the clinical purpose is clear, curr
 ## SEO Metadata
 
 - **Primary keyword:** travel to China for multiple sclerosis treatment
+
+- **Meta title:** Is Travel to China Appropriate for Multiple Sclerosis Care? Planning Around Your Treatment
+- **Meta description:** Decide whether an MS consultation in China justifies travel by reviewing the purpose, clinical stability, treatment schedule and practical support.

@@ -1,15 +1,17 @@
-# What a Medical Care Coordinator Can—and Cannot—Do
+# Medical Care Coordinators in China: Roles and Limits
 
 ## Hero
 
-- **Title:** What a Medical Care Coordinator Can—and Cannot—Do
 - **Category:** China Healthcare Guides
 - **Subcategory:** Patient Coordination and Safeguards
-- **Subtitle:** A good coordinator removes logistical friction and preserves the clinical chain of communication; they do not become the doctor, interpreter, insurer or decision-maker.
 - **Reviewed by:** Medora Health Editorial Team; clinical-governance, contract and privacy review required before publication
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** A coordinator explains which practical services she can provide and which clinical decisions remain with licensed professionals
+
+
+- **Title:** Medical Care Coordinators in China: Roles and Limits
+- **Subtitle:** Define a medical coordinator’s role, verify fees and conflicts, protect records and keep diagnosis, consent and treatment with licensed clinicians.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -207,13 +209,15 @@ Activate the written clinical escalation route, connect the patient with the tre
 ## SEO Metadata
 
 - **Slug:** `what-a-medical-care-coordinator-can-and-cannot-do`
-- **Meta title:** What a Medical Care Coordinator Can and Cannot Do
-- **Meta description:** Define a medical coordinator’s role, verify fees and conflicts, protect records and keep diagnosis, consent and treatment with licensed clinicians.
 - **Primary keyword:** medical care coordinator China
 - **Pillar keyword:** healthcare in China for international patients
 - **Vertical keyword:** medical tourism coordinator responsibilities
 - **Search intent:** informational / service due diligence
 - **Secondary keywords:** patient coordinator China; medical travel facilitator; hospital coordinator role
+
+
+- **Meta title:** Medical Care Coordinators in China: Roles and Limits
+- **Meta description:** Define a medical coordinator’s role, verify fees and conflicts, protect records and keep diagnosis, consent and treatment with licensed clinicians.
 
 ## Sources
 

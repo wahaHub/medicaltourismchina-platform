@@ -1,15 +1,17 @@
-# Epilepsy Evaluation and Surgery: Understanding the Care Pathway
+# Epilepsy Surgery Assessment in China: Tests and Follow-Up
 
 ## Hero
 
-- **Title:** Epilepsy Evaluation and Surgery: Understanding the Care Pathway
 - **Category:** Treatment Guides
 - **Subcategory:** Neurology & Neurosurgery
-- **Subtitle:** Understand what an epilepsy centre must prove before it can recommend resection, ablation or neurostimulation.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Patient discussing a brain-focused epilepsy assessment with a neurologist and neurosurgical team member
+
+
+- **Title:** Epilepsy Surgery Assessment in China: Tests and Follow-Up
+- **Subtitle:** Understand drug-resistant epilepsy, video-EEG, MRI, neuropsychology, intracranial EEG, surgery, stimulation and cross-border follow-up.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - After treatment abroad, continue antiseizure medication unless the epilepsy team changes it. Take home the captured-event data, imaging, electrode map, operative report, pathology, device details and a seizure-safety plan.
 
 ## Content
+
+If you are seeking an epilepsy surgery assessment in China, prepare for an evaluation rather than assume that an operation will follow. The receiving team needs the seizure history, previous medicine trials, imaging and EEG records, together with a plan for continued care after returning home.
+
 
 Epilepsy surgery begins with doubt, not an operating-room booking. The team must first check whether the events are epileptic seizures, classify them, understand why medicines failed, locate the seizure-generating network and estimate what treatment could damage as well as what it might improve.
 
@@ -185,13 +190,15 @@ No. Resection or ablation targets defined tissue and may offer seizure freedom i
 ## SEO Metadata
 
 - **Slug:** `epilepsy-evaluation-and-surgery-understanding-the-care-pathway`
-- **Meta title:** Epilepsy Surgery Evaluation | Tests, Options and Follow-up
-- **Meta description:** Understand drug-resistant epilepsy, video-EEG, MRI, neuropsychology, intracranial EEG, surgery, stimulation and cross-border follow-up.
 - **Primary keyword:** epilepsy surgery evaluation
 - **Pillar keyword:** drug-resistant epilepsy treatment
 - **Vertical keyword:** neurology and neurosurgery
 - **Search intent:** presurgical evaluation / treatment comparison
 - **Secondary keywords:** video EEG monitoring; epilepsy protocol MRI; stereo EEG; epilepsy ablation; epilepsy neurostimulation
+
+
+- **Meta title:** Epilepsy Surgery Assessment in China: Tests and Follow-Up
+- **Meta description:** Understand drug-resistant epilepsy, video-EEG, MRI, neuropsychology, intracranial EEG, surgery, stimulation and cross-border follow-up.
 
 ## Sources
 

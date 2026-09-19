@@ -1,12 +1,14 @@
-# Behandlungen des Mantelzelllymphoms vergleichen: Chemoimmuntherapie, BTK-Kombinationen und autologe Transplantation
+# Mantelzelllymphom in China: Behandlungsoptionen vergleichen
 
 ## Hero
 
-- **Title:** Behandlungen des Mantelzelllymphoms vergleichen: Chemoimmuntherapie, BTK-Kombinationen und autologe Transplantation
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Mantelzelllymphom
-- **Subtitle:** Verwandte Suchanfragen: BR versus zielgerichtete Kombinationen; MCL-Transplantationsentscheidung; Behandlung in China vergleichen
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Mantelzelllymphom in China: Behandlungsoptionen vergleichen
+- **Subtitle:** Mantelzelllymphom-Therapien in China vergleichen: vollständige Kombinationen, Transplantation und Erhaltung anhand von Eignung, Ergebnissen und Gesamtbelastung prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ Die Empfehlung sollte mit einer verständlichen Begründung enden: warum sie zu 
 ## SEO Metadata
 
 - **Primary keyword:** Behandlungsvergleich beim Mantelzelllymphom
+
+- **Meta title:** Mantelzelllymphom in China: Behandlungsoptionen vergleichen
+- **Meta description:** Mantelzelllymphom-Therapien in China vergleichen: vollständige Kombinationen, Transplantation und Erhaltung anhand von Eignung, Ergebnissen und Gesamtbelastung prüfen.

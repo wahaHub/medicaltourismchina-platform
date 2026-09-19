@@ -1,12 +1,14 @@
-# Procedimientos para la anemia aplásica: obtención de muestras de médula, acceso vascular y trasplante
+# Procedimientos de anemia aplásica en China: pruebas medulares y trasplante
 
 ## Hero
 
-- **Title:** Procedimientos para la anemia aplásica: obtención de muestras de médula, acceso vascular y trasplante
 - **Category:** Guías de tratamiento
 - **Subcategory:** Anemia aplásica
-- **Subtitle:** Procedimientos para la anemia aplásica: obtención de muestras de médula, acceso vascular y trasplante
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Procedimientos de anemia aplásica en China: pruebas medulares y trasplante
+- **Subtitle:** Comprenda las etapas de pruebas medulares, acceso vascular y trasplante de anemia aplásica, con preguntas de preparación para el tratamiento en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ El calendario también debe separar la revisión diagnóstica, la confirmación 
 ## SEO Metadata
 
 - **Primary keyword:** procedimiento de trasplante de células madre para la anemia aplásica
+
+- **Meta title:** Procedimientos de anemia aplásica en China: pruebas medulares y trasplante
+- **Meta description:** Comprenda las etapas de pruebas medulares, acceso vascular y trasplante de anemia aplásica, con preguntas de preparación para el tratamiento en China.

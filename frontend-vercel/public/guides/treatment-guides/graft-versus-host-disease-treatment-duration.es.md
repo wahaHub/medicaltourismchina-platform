@@ -1,12 +1,14 @@
-# ¿Cuánto dura el tratamiento de la EICH? Planificar el ingreso, la evaluación de la respuesta, la reducción gradual y el viaje de regreso
+# Tratamiento de la EICH en China: ingreso, revisión y momento del viaje
 
 ## Hero
 
-- **Title:** ¿Cuánto dura el tratamiento de la EICH? Planificar el ingreso, la evaluación de la respuesta, la reducción gradual y el viaje de regreso
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de injerto contra huésped
-- **Subtitle:** La duración de una visita a China y la duración del tratamiento de la enfermedad de injerto contra huésped son cuestiones diferentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento de la EICH en China: ingreso, revisión y momento del viaje
+- **Subtitle:** Planifique ingreso, respuesta, reducción de medicación y regreso tras tratar la enfermedad injerto contra huésped en China, según órganos y evolución.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Una conversación productiva sobre la duración deja tres respuestas prácticas:
 ## SEO Metadata
 
 - **Primary keyword:** duración del tratamiento de la EICH y estancia hospitalaria en China
+
+- **Meta title:** Tratamiento de la EICH en China: ingreso, revisión y momento del viaje
+- **Meta description:** Planifique ingreso, respuesta, reducción de medicación y regreso tras tratar la enfermedad injerto contra huésped en China, según órganos y evolución.

@@ -1,12 +1,14 @@
-# Medikamente bei GVHD: Steroide, Ruxolitinib, Belumosudil und spätere Behandlungsoptionen verstehen
+# GVHD-Medikamente in China: Indikationen, Überwachung und Zugang
 
 ## Hero
 
-- **Title:** Medikamente bei GVHD: Steroide, Ruxolitinib, Belumosudil und spätere Behandlungsoptionen verstehen
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Graft-versus-Host-Erkrankung
-- **Subtitle:** Nach einer Transplantation kann die Anzahl der Medikamentenbehälter schwer zu bewältigen sein.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** GVHD-Medikamente in China: Indikationen, Überwachung und Zugang
+- **Subtitle:** GVHD-Medikamente für die Versorgung in China prüfen: genaue Indikation, lokale Fachinformation, Ausschleichen, Infektionsvorsorge und individuelle Kontrollen klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -131,3 +133,6 @@ Ein klarer Medikamentenplan ermöglicht dem Patienten zu erklären, warum das ak
 ## SEO Metadata
 
 - **Primary keyword:** medikamentöse GVHD-Behandlung in China
+
+- **Meta title:** GVHD-Medikamente in China: Indikationen, Überwachung und Zugang
+- **Meta description:** GVHD-Medikamente für die Versorgung in China prüfen: genaue Indikation, lokale Fachinformation, Ausschleichen, Infektionsvorsorge und individuelle Kontrollen klären.

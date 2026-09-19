@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Limfoma Sel Mantel: 20 Pertanyaan tentang Diagnosis, Pengobatan di Tiongkok, dan Kepulangan
 - **Category:** Edukasi Pasien & Pertanyaan yang Sering Diajukan
 - **Subcategory:** Limfoma Sel Mantel
-- **Subtitle:** Pengobatan limfoma sel mantel terus berubah, dan pasien dengan diagnosis yang sama dapat memiliki perilaku penyakit serta riwayat pengobatan yang sangat berbeda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Limfoma Sel Mantel: 20 Pertanyaan tentang Diagnosis, Pengobatan di Tiongkok, dan Kepulangan
+- **Subtitle:** Pahami limfoma sel mantel melalui 20 pertanyaan tentang diagnosis, risiko, pengobatan di Tiongkok, dan pengaturan tindak lanjut setelah pulang.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -177,3 +179,6 @@ Terapi berkelanjutan atau pemulihan transplantasi atau CAR-T tidak menjadi kuran
 ## SEO Metadata
 
 - **Primary keyword:** pertanyaan pasien limfoma sel mantel pengobatan di Tiongkok
+
+- **Meta title:** Limfoma Sel Mantel: 20 Pertanyaan tentang Diagnosis, Pengobatan di Tiongkok, dan Kepulangan
+- **Meta description:** Pahami limfoma sel mantel melalui 20 pertanyaan tentang diagnosis, risiko, pengobatan di Tiongkok, dan pengaturan tindak lanjut setelah pulang.

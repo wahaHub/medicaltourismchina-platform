@@ -1,12 +1,14 @@
-# Does mantle cell lymphoma need surgery? Biopsy, venous access, cell collection and emergency procedures
+# Mantle Cell Lymphoma Procedures in China: Purpose and Planning
 
 ## Hero
 
-- **Title:** Does mantle cell lymphoma need surgery? Biopsy, venous access, cell collection and emergency procedures
 - **Category:** Treatment Guides
 - **Subcategory:** Mantle Cell Lymphoma
-- **Subtitle:** Related searches: MCL biopsy; procedures during lymphoma treatment; MCL care in China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Mantle Cell Lymphoma Procedures in China: Purpose and Planning
+- **Subtitle:** Understand mantle cell lymphoma biopsy, access, cell collection and urgent procedures, with questions about preparation, costs and discharge in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -121,3 +123,6 @@ The value of a procedure is the clinical problem it resolves and how its result 
 ## SEO Metadata
 
 - **Primary keyword:** surgery for mantle cell lymphoma
+
+- **Meta title:** Mantle Cell Lymphoma Procedures in China: Purpose and Planning
+- **Meta description:** Understand mantle cell lymphoma biopsy, access, cell collection and urgent procedures, with questions about preparation, costs and discharge in China.

@@ -1,12 +1,14 @@
-# Ist nach einem ischämischen Schlaganfall eine Operation nötig? Notfall-, vorbeugende und rehabilitative Eingriffe
+# Eingriffe nach Schlaganfall in China: Aufgaben in Notfallversorgung und Rehabilitation
 
 ## Hero
 
-- **Title:** Ist nach einem ischämischen Schlaganfall eine Operation nötig? Notfall-, vorbeugende und rehabilitative Eingriffe
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Rehabilitation nach ischämischem Schlaganfall
-- **Subtitle:** Zu hören, dass eine weitere Operation möglich sein könnte, kann bei Menschen in der Schlaganfallrehabilitation die Hoffnung wecken, dass Bewegung sofort zurückkehrt.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Eingriffe nach Schlaganfall in China: Aufgaben in Notfallversorgung und Rehabilitation
+- **Subtitle:** Eingriffe nach Schlaganfall in China einordnen: akute Gefäßbehandlung, Druckentlastung, Vorbeugung weiterer Ereignisse und Unterstützung der Rehabilitation unterscheiden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ Wo Unsicherheit bleibt, bitten Sie die beteiligten Fachleute, die Evidenz gemein
 ## SEO Metadata
 
 - **Primary keyword:** Operation nach ischämischem Schlaganfall in der Rehabilitation
+
+- **Meta title:** Eingriffe nach Schlaganfall in China: Aufgaben in Notfallversorgung und Rehabilitation
+- **Meta description:** Eingriffe nach Schlaganfall in China einordnen: akute Gefäßbehandlung, Druckentlastung, Vorbeugung weiterer Ereignisse und Unterstützung der Rehabilitation unterscheiden.

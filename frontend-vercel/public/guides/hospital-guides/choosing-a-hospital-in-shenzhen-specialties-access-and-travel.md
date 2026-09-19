@@ -1,15 +1,17 @@
-# Choosing a Hospital in Shenzhen: Clinical Fit, Cross-border Boundaries, and Travel
+# Choosing a Hospital in China: Shenzhen and Cross-Border Care
 
 ## Hero
 
-- **Title:** Choosing a Hospital in Shenzhen: Clinical Fit, Cross-border Boundaries, and Travel
 - **Category:** Hospital Guides
 - **Subcategory:** Shenzhen Care Planning
-- **Subtitle:** Fix the clinical owner and exact campus first; then test the passport, data, border, payment, emergency, and return-home chain.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Conceptual illustration of international travellers comparing Shenzhen hospital access; the skyline, hospital, doctor, and train icons do not identify a real campus, route, or endorsement.
+
+
+- **Title:** Choosing a Hospital in China: Shenzhen and Cross-Border Care
+- **Subtitle:** Choose a Shenzhen hospital by verifying the clinical owner, legal campus, passport and data chain, deep-border policy limits, travel route, emergency backup, and discharge handoff.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -211,13 +213,15 @@ There has been a cooperation pilot, but that does not create an on-demand entitl
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-shenzhen-specialties-access-and-travel`
-- **Meta title:** Choosing a Hospital in Shenzhen: Clinical Fit and Cross-border Boundaries
-- **Meta description:** Choose a Shenzhen hospital by verifying the clinical owner, legal campus, passport and data chain, deep-border policy limits, travel route, emergency backup, and discharge handoff.
 - **Primary keyword:** choosing a hospital in Shenzhen
 - **Pillar keyword:** Shenzhen hospitals for international patients
 - **Vertical keyword:** Shenzhen hospital specialties access travel
 - **Search intent:** hospital comparison / Shenzhen and Hong Kong care planning
 - **Secondary keywords:** Shenzhen hospital passport booking; Shenzhen Hong Kong medical data; cross-border ambulance Shenzhen; Shenzhen hospital campus; Shenzhen 120 emergency
+
+
+- **Meta title:** Choosing a Hospital in China: Shenzhen and Cross-Border Care
+- **Meta description:** Choose a Shenzhen hospital by verifying the clinical owner, legal campus, passport and data chain, deep-border policy limits, travel route, emergency backup, and discharge handoff.
 
 ## Sources
 

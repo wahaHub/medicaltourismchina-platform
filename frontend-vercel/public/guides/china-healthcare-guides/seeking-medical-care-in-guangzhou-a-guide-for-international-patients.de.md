@@ -1,15 +1,17 @@
-# 023 Medizinische Versorgung in Guangzhou: Ein Leitfaden für internationale Patienten
+# Medizinische Versorgung in China: Patientenratgeber für Guangzhou
 
 ## Hero
 
-- **Title:** Medizinische Versorgung in Guangzhou: Ein Leitfaden für internationale Patienten
 - **Category:** Leitfäden zum chinesischen Gesundheitswesen
 - **Subcategory:** Einen Behandlungsort wählen
-- **Subtitle:** Ein stadtspezifischer Weg durch Terminvereinbarung, Passregistrierung, Befundnachbesprechung, Sprachunterstützung und Notfallversorgung in Guangzhou.
 - **Reviewed by:** Redaktionsteam von Medora Health; vor Veröffentlichung sind eine Prüfung der Krankenhausabläufe in Guangzhou und eine klinische Prüfung erforderlich
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ein internationaler Patient trifft einen Arzt; in der Nähe sind Gepäck und die Skyline von Guangzhou zu sehen
+
+
+- **Title:** Medizinische Versorgung in China: Patientenratgeber für Guangzhou
+- **Subtitle:** Guangzhou Health Link mit Reisepass nutzen, Krankenhäuser prüfen, Dolmetschen organisieren, Drei-Tage-Nachbesprechung verstehen und sich auf 120-Notfälle vorbereiten.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -197,13 +199,15 @@ Rufen Sie 120 an und nennen Sie den genauen Ort und Patientenzustand. Guangzhous
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-guangzhou-a-guide-for-international-patients`
-- **Meta title:** Medizinische Versorgung in Guangzhou für internationale Patienten
-- **Meta description:** Guangzhou Health Link mit Reisepass nutzen, Krankenhäuser prüfen, Dolmetschen organisieren, Drei-Tage-Nachbesprechung verstehen und sich auf 120-Notfälle vorbereiten.
 - **Primary keyword:** medizinische Versorgung in Guangzhou für internationale Patienten
 - **Pillar keyword:** Gesundheitsversorgung in China für internationale Patienten
 - **Vertical keyword:** Krankenhaustermin Guangzhou für Ausländer
 - **Search intent:** Termin- und städtische Versorgungsplanung
 - **Secondary keywords:** Guangzhou Health Link Reisepass; Krankenhaus Guangzhou internationaler Patient; Drei-Tage-Nachbesprechung Guangzhou; Rettungswagen Guangzhou 120
+
+
+- **Meta title:** Medizinische Versorgung in China: Patientenratgeber für Guangzhou
+- **Meta description:** Guangzhou Health Link mit Reisepass nutzen, Krankenhäuser prüfen, Dolmetschen organisieren, Drei-Tage-Nachbesprechung verstehen und sich auf 120-Notfälle vorbereiten.
 
 ## Quellen
 

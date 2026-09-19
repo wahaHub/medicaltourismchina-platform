@@ -1,15 +1,17 @@
-# Antalgiques après une opération : maîtriser la douleur sans masquer une complication
+# Antalgiques après une opération en Chine : doses et sécurité
 
 ## Hero
 
-- **Title:** Antalgiques après une opération : maîtriser la douleur sans masquer une complication
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Médicaments
-- **Subtitle:** Comment lire un protocole antalgique multimodal, éviter les doublons de principes actifs, utiliser les opioïdes en sécurité et reconnaître une douleur nécessitant un avis chirurgical plutôt qu'une dose supplémentaire.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un chirurgien examine avec un patient une liste de médicaments postopératoires à code couleur, à côté de plusieurs boîtes de médicaments étiquetées
+
+
+- **Title:** Antalgiques après une opération en Chine : doses et sécurité
+- **Subtitle:** Apprenez à associer les antalgiques postopératoires en sécurité, éviter les doublons d'acétaminophène, reconnaître un surdosage d'opioïdes et distinguer la douleur attendue d'une complication chirurgicale.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -172,11 +174,13 @@ Appelez rapidement si la douleur augmente vite, est disproportionnée, ne répon
 
 ## SEO Metadata
 
-- **SEO title:** Antalgiques après une opération : doses sûres et signes d'alerte
-- **Meta description:** Apprenez à associer les antalgiques postopératoires en sécurité, éviter les doublons d'acétaminophène, reconnaître un surdosage d'opioïdes et distinguer la douleur attendue d'une complication chirurgicale.
 - **Primary keyword:** antalgiques après une opération
 - **Secondary keywords:** protocole antalgique postopératoire, sécurité des opioïdes après une opération, double dose d'acétaminophène, AINS après une opération, naloxone, aggravation de la douleur après une opération
 - **Suggested URL slug:** `/pain-medicine-after-surgery-safe-use-warning-signs`
+
+
+- **Meta title:** Antalgiques après une opération en Chine : doses et sécurité
+- **Meta description:** Apprenez à associer les antalgiques postopératoires en sécurité, éviter les doublons d'acétaminophène, reconnaître un surdosage d'opioïdes et distinguer la douleur attendue d'une complication chirurgicale.
 
 ## Sources
 

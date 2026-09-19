@@ -1,15 +1,17 @@
-# 065 Krebsrehabilitation: Funktionsfähigkeit, Fatigue und Erholung bewältigen
+# Krebsrehabilitation in China: Funktion, Fatigue und Erholung
 
 ## Hero
 
-- **Title:** Krebsrehabilitation: Funktionsfähigkeit, Fatigue und Erholung bewältigen
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Rehabilitation
-- **Subtitle:** Richten Sie die Rehabilitation an der Krebserkrankung, der Behandlungsphase und wichtigen Alltagsaufgaben aus – nicht an einem allgemeinen Bewegungspaket.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Eine Frau in Krebsbehandlung bespricht neben einfachen Trainingsgeräten mit einem Therapeuten die Rehabilitation von Gehfähigkeit und Kraft.
+
+
+- **Title:** Krebsrehabilitation in China: Funktion, Fatigue und Erholung
+- **Subtitle:** Krebsrehabilitation in China beurteilen: Fatigue, Trainingssicherheit, Neuropathie, Lymphödem, Knochenrisiken, messbare Ziele und Übergabe.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -129,11 +131,13 @@ Bitten Sie um Ausgangs- und Abschlussmessungen, Ziele, Trainings- und Aktivität
 ## SEO Metadata
 
 - **Slug:** `cancer-rehabilitation-managing-function-fatigue-and-recovery`
-- **Meta title:** Krebsrehabilitation: Funktion, Fatigue und sichere Erholung
-- **Meta description:** Krebsrehabilitation in China beurteilen: Fatigue, Trainingssicherheit, Neuropathie, Lymphödem, Knochenrisiken, messbare Ziele und Übergabe.
 - **Primary keyword:** Krebsrehabilitation in China
 - **Secondary keywords:** Rehabilitation krebsbedingter Fatigue; onkologische Physiotherapie; Bewegung während Krebsbehandlung; Erholungsprogramm bei Krebs; Lymphödemrehabilitation
 - **Search intent:** Behandlungsplanung / Vergleich von Rehabilitationsprogrammen
+
+
+- **Meta title:** Krebsrehabilitation in China: Funktion, Fatigue und Erholung
+- **Meta description:** Krebsrehabilitation in China beurteilen: Fatigue, Trainingssicherheit, Neuropathie, Lymphödem, Knochenrisiken, messbare Ziele und Übergabe.
 
 ## Quellen
 

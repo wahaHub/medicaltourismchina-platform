@@ -1,15 +1,17 @@
-# 049 Evaluasi dan Operasi Epilepsi: Memahami Jalur Perawatan
+# Penilaian Operasi Epilepsi di Tiongkok: Pemeriksaan dan Tindak Lanjut
 
 ## Hero
 
-- **Title:** Evaluasi dan Operasi Epilepsi: Memahami Jalur Perawatan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Neurologi & Bedah Saraf
-- **Subtitle:** Pahami apa yang harus dibuktikan pusat epilepsi sebelum dapat merekomendasikan reseksi, ablasi, atau neurostimulasi.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Pasien mendiskusikan penilaian epilepsi yang berfokus pada otak bersama ahli neurologi dan anggota tim bedah saraf
+
+
+- **Title:** Penilaian Operasi Epilepsi di Tiongkok: Pemeriksaan dan Tindak Lanjut
+- **Subtitle:** Pahami epilepsi resistan obat, video-EEG, MRI, neuropsikologi, EEG intrakranial, operasi, stimulasi, dan tindak lanjut lintas negara.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Setelah pengobatan di luar negeri, lanjutkan obat antikejang kecuali tim epilepsi mengubahnya. Bawa pulang data kejadian yang terekam, pencitraan, peta elektroda, laporan operasi, patologi, detail perangkat, dan rencana keselamatan kejang.
 
 ## Content
+
+Jika Anda mencari penilaian operasi epilepsi di Tiongkok, bersiaplah menjalani evaluasi tanpa menganggap operasi pasti akan dilakukan. Tim penerima memerlukan riwayat kejang, obat yang pernah dicoba, pencitraan, dan rekaman EEG, disertai rencana perawatan berkelanjutan setelah pulang ke negara asal.
+
 
 Operasi epilepsi dimulai dengan keraguan, bukan pemesanan ruang operasi. Tim pertama-tama harus memeriksa apakah kejadian tersebut merupakan kejang epileptik, mengklasifikasikannya, memahami mengapa obat gagal, menemukan jaringan pembangkit kejang, dan memperkirakan apa yang dapat dirusak pengobatan serta apa yang mungkin diperbaikinya.
 
@@ -189,13 +194,15 @@ Biasanya tidak. Perubahan obat bergantung pada jenis epilepsi, prosedur, kejadia
 ## SEO Metadata
 
 - **Slug:** `epilepsy-evaluation-and-surgery-understanding-the-care-pathway`
-- **Meta title:** Evaluasi Operasi Epilepsi | Tes, Pilihan, dan Tindak Lanjut
-- **Meta description:** Pahami epilepsi resistan obat, video-EEG, MRI, neuropsikologi, EEG intrakranial, operasi, stimulasi, dan tindak lanjut lintas negara.
 - **Primary keyword:** evaluasi operasi epilepsi
 - **Pillar keyword:** pengobatan epilepsi resistan obat
 - **Vertical keyword:** neurologi dan bedah saraf
 - **Search intent:** evaluasi prabedah / perbandingan pengobatan
 - **Secondary keywords:** pemantauan video EEG; MRI protokol epilepsi; stereo EEG; ablasi epilepsi; neurostimulasi epilepsi
+
+
+- **Meta title:** Penilaian Operasi Epilepsi di Tiongkok: Pemeriksaan dan Tindak Lanjut
+- **Meta description:** Pahami epilepsi resistan obat, video-EEG, MRI, neuropsikologi, EEG intrakranial, operasi, stimulasi, dan tindak lanjut lintas negara.
 
 ## Sumber
 

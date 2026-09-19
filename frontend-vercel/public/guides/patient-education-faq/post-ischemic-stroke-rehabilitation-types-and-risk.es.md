@@ -1,12 +1,14 @@
-# Cómo difieren las necesidades de rehabilitación del ictus: causa, discapacidad y riesgo
+# Necesidades de rehabilitación del ictus: prepararse para la atención en China
 
 ## Hero
 
-- **Title:** Cómo difieren las necesidades de rehabilitación del ictus: causa, discapacidad y riesgo
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Rehabilitación tras un ictus isquémico
-- **Subtitle:** Las personas con el mismo diagnóstico de ictus isquémico pueden tener necesidades de rehabilitación muy distintas.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Necesidades de rehabilitación del ictus: prepararse para la atención en China
+- **Subtitle:** Organice las necesidades de rehabilitación del ictus según movilidad, deglución, comunicación y cognición para preparar un plan de atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ La evaluación de riesgos tiene valor cuando asegura apoyo adecuado. Los cambios
 ## SEO Metadata
 
 - **Primary keyword:** tipos y riesgos de rehabilitación del ictus isquémico
+
+- **Meta title:** Necesidades de rehabilitación del ictus: prepararse para la atención en China
+- **Meta description:** Organice las necesidades de rehabilitación del ictus según movilidad, deglución, comunicación y cognición para preparar un plan de atención en China.

@@ -1,15 +1,17 @@
-# 091 Radioterapi Berpanduan MR: Bagaimana Pencitraan Waktu Nyata Mendukung Pengobatan
+# Radioterapi Berpanduan Resonansi Magnetik di Tiongkok: Perencanaan dan Keamanan
 
 ## Hero
 
-- **Title:** Radioterapi Berpanduan MR: Bagaimana Pencitraan Waktu Nyata Mendukung Pengobatan
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Radioterapi Berpanduan Citra & Adaptif
-- **Subtitle:** Pahami apa yang dicitrakan, apa yang diadaptasi, dan apa yang masih harus diputuskan tim.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ruang konseptual radioterapi berpanduan MR dengan pasien diposisikan dalam pemindai terintegrasi, citra penampang, dan target pengobatan terlihat; bukan antarmuka atau rencana dosis sebenarnya.
+
+
+- **Title:** Radioterapi Berpanduan Resonansi Magnetik di Tiongkok: Perencanaan dan Keamanan
+- **Subtitle:** Pelajari penggunaan pencitraan pengaturan posisi, MRI sine, gating, dan adaptasi daring dalam radioterapi berpanduan MR, serta bukti, keselamatan MR, beban sesi, QA, dan rekam medis.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,11 +137,13 @@ Tidak. Panduan mungkin mendukung margin lebih kecil atau perlindungan organ lebi
 ## SEO Metadata
 
 - **Slug:** `mr-guided-radiotherapy-how-real-time-imaging-supports-treatment`
-- **Meta title:** Radioterapi Berpanduan MR: Pencitraan Waktu Nyata dan Adaptasi
-- **Meta description:** Pelajari penggunaan pencitraan pengaturan posisi, MRI sine, gating, dan adaptasi daring dalam radioterapi berpanduan MR, serta bukti, keselamatan MR, beban sesi, QA, dan rekam medis.
 - **Primary keyword:** radioterapi berpanduan MR
 - **Secondary keywords:** MR-Linac; radioterapi adaptif daring; radioterapi MRI waktu nyata; SBRT berpanduan MRI; gating radiasi
 - **Search intent:** penjelasan teknologi / perencanaan radioterapi
+
+
+- **Meta title:** Radioterapi Berpanduan Resonansi Magnetik di Tiongkok: Perencanaan dan Keamanan
+- **Meta description:** Pelajari penggunaan pencitraan pengaturan posisi, MRI sine, gating, dan adaptasi daring dalam radioterapi berpanduan MR, serta bukti, keselamatan MR, beban sesi, QA, dan rekam medis.
 
 ## Sumber
 

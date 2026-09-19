@@ -1,15 +1,17 @@
-# 050 Stimulation cérébrale profonde : admissibilité, chirurgie et suivi
+# Stimulation cérébrale profonde en Chine : évaluation et programmation
 
 ## Hero
 
-- **Title:** Stimulation cérébrale profonde : admissibilité, chirurgie et suivi
 - **Category:** Guides de traitement
 - **Subcategory:** Neurologie et neurochirurgie
-- **Subtitle:** Déterminez si la DBS correspond au diagnostic et aux symptômes ciblés, et si la programmation à long terme restera accessible après le voyage.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Patient âgé examinant un schéma d’électrode de stimulation cérébrale profonde et de générateur d’impulsions avec un neurologue et un clinicien de chirurgie
+
+
+- **Title:** Stimulation cérébrale profonde en Chine : évaluation et programmation
+- **Subtitle:** Évaluez la DBS selon le diagnostic, les symptômes, la cible, le risque chirurgical, la programmation, le matériel, la sécurité IRM et le soutien transfrontalier à long terme.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -182,13 +184,15 @@ Conservez la cible et le côté, les images de localisation des électrodes, le 
 ## SEO Metadata
 
 - **Slug:** `deep-brain-stimulation-candidacy-surgery-and-follow-up`
-- **Meta title:** Stimulation cérébrale profonde | Admissibilité, chirurgie et programmation
-- **Meta description:** Évaluez la DBS selon le diagnostic, les symptômes, la cible, le risque chirurgical, la programmation, le matériel, la sécurité IRM et le soutien transfrontalier à long terme.
 - **Primary keyword:** admissibilité à la stimulation cérébrale profonde
 - **Pillar keyword:** chirurgie et programmation DBS
 - **Vertical keyword:** neurochirurgie fonctionnelle
 - **Search intent:** évaluation du traitement / planification à long terme
 - **Secondary keywords:** DBS Parkinson ; DBS tremblement essentiel ; DBS dystonie ; programmation DBS ; sécurité IRM DBS
+
+
+- **Meta title:** Stimulation cérébrale profonde en Chine : évaluation et programmation
+- **Meta description:** Évaluez la DBS selon le diagnostic, les symptômes, la cible, le risque chirurgical, la programmation, le matériel, la sécurité IRM et le soutien transfrontalier à long terme.
 
 ## Sources
 

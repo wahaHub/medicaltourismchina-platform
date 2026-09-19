@@ -1,15 +1,17 @@
-# 150 Setelah Perjalanan Medis: Buat Rencana Komplikasi yang Berfungsi Saat Tertekan
+# Setelah Pengobatan di Tiongkok: Rencana Darurat dan Penanganan Komplikasi
 
 ## Hero
 
-- **Title:** Setelah Perjalanan Medis: Buat Rencana Komplikasi yang Berfungsi Saat Tertekan
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Respons Komplikasi dan Kedaruratan
-- **Subtitle:** Putuskan sejak awal ke mana pergi, apa yang disampaikan, apa yang dibawa, dan siapa yang mengambil alih ketika pemulihan tidak lagi mengikuti jalur yang diharapkan.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Pasien dan pendamping menyiapkan lembar kontak darurat dan kalender setelah pengobatan medis di luar negeri.
+
+
+- **Title:** Setelah Pengobatan di Tiongkok: Rencana Darurat dan Penanganan Komplikasi
+- **Subtitle:** Buat rencana darurat praktis pascapengobatan dengan jalur respons, rumah sakit lokal, serah terima 60 detik, rekam medis, asuransi, dan latihan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -204,13 +206,15 @@ Tidak. Cakupan bergantung pada kontrak, pengecualian, kebutuhan medis, stabilisa
 ## SEO Metadata
 
 - **Slug:** `creating-a-complication-and-emergency-plan-after-medical-travel`
-- **Meta title:** Rencana Darurat Setelah Perjalanan Medis | Respons Komplikasi
-- **Meta description:** Buat rencana darurat praktis pascapengobatan dengan jalur respons, rumah sakit lokal, serah terima 60 detik, rekam medis, asuransi, dan latihan.
 - **Primary keyword:** rencana darurat setelah perjalanan medis
 - **Pillar keyword:** perjalanan medis ke Tiongkok
 - **Vertical keyword:** rencana komplikasi setelah pengobatan luar negeri
 - **Search intent:** perencanaan keselamatan / perawatan setelah pulang
 - **Secondary keywords:** rencana komplikasi wisata medis; rekam darurat setelah operasi luar negeri; darurat pengobatan luar negeri; pengungkapan infeksi pascaperjalanan; perencanaan evakuasi medis
+
+
+- **Meta title:** Setelah Pengobatan di Tiongkok: Rencana Darurat dan Penanganan Komplikasi
+- **Meta description:** Buat rencana darurat praktis pascapengobatan dengan jalur respons, rumah sakit lokal, serah terima 60 detik, rekam medis, asuransi, dan latihan.
 
 ## Sumber
 

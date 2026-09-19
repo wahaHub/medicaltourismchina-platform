@@ -1,12 +1,14 @@
-# Neue DLBCL-Behandlungen und klinische Studien: Evidenz, die eine Entscheidung verändern kann
+# Neue DLBCL-Behandlungen und Studien: Zugang in China prüfen
 
 ## Hero
 
-- **Title:** Neue DLBCL-Behandlungen und klinische Studien: Evidenz, die eine Entscheidung verändern kann
 - **Category:** Klinische Studien und fortgeschrittene Behandlungen
 - **Subcategory:** Diffuses großzelliges B-Zell-Lymphom
-- **Subtitle:** Neue Behandlungen haben Teile der Erstlinien- und Rezidivversorgung beim DLBCL verändert, doch „neu“ kann Verschiedenes bedeuten: ein in einem Rechtsgebiet zugelassenes Schema, eine durch eine randomisierte Studie gestützte Kombination, deren örtlicher Zugang noch geprüft werden muss, oder ein experimenteller Ansatz, dessen Sicherheit und Wirksamkeit noch untersucht werden.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Neue DLBCL-Behandlungen und Studien: Zugang in China prüfen
+- **Subtitle:** Bei neuen DLBCL-Therapien in China zählen Studienpopulation, Vorbehandlung und Sicherheitsplan. So prüfen Sie Evidenz und Voraussetzungen für eine Studienteilnahme.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,3 +142,6 @@ Patienten können sich vernünftigerweise für etablierte Versorgung ohne Forsch
 ## SEO Metadata
 
 - **Primary keyword:** neue DLBCL-Behandlungen und klinische Studien
+
+- **Meta title:** Neue DLBCL-Behandlungen und Studien: Zugang in China prüfen
+- **Meta description:** Bei neuen DLBCL-Therapien in China zählen Studienpopulation, Vorbehandlung und Sicherheitsplan. So prüfen Sie Evidenz und Voraussetzungen für eine Studienteilnahme.

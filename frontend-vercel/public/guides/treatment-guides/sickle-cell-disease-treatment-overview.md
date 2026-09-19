@@ -1,12 +1,14 @@
-# Sickle Cell Disease Treatment: Preventing Crises, Protecting Organs, and Considering Transformative Therapy
+# Sickle Cell Disease Treatment in China: Options and Access
 
 ## Hero
 
-- **Title:** Sickle Cell Disease Treatment: Preventing Crises, Protecting Organs, and Considering Transformative Therapy
 - **Category:** Treatment Guides
 - **Subcategory:** Sickle Cell Disease
-- **Subtitle:** Treatment for sickle cell disease is about more than ending the current pain episode.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sickle Cell Disease Treatment in China: Options and Access
+- **Subtitle:** Understand sickle cell medicines, blood support and other treatment approaches, with evidence, suitability and actual China access considered separately.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -147,3 +149,6 @@ For an opinion or treatment in China, send diagnostic evidence, baseline measure
 ## SEO Metadata
 
 - **Primary keyword:** sickle cell disease treatment guide
+
+- **Meta title:** Sickle Cell Disease Treatment in China: Options and Access
+- **Meta description:** Understand sickle cell medicines, blood support and other treatment approaches, with evidence, suitability and actual China access considered separately.

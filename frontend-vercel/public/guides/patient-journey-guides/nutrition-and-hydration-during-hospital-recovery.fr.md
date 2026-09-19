@@ -1,15 +1,17 @@
-# 140 Nutrition pendant la récupération à l’hôpital : choisir la voie avant de compter les calories
+# Convalescence à l’hôpital en Chine : nutrition et gestion des apports hydriques
 
 ## Hero
 
-- **Title:** Nutrition pendant la récupération à l’hôpital : choisir la voie avant de compter les calories
 - **Category:** Guides du parcours patient
 - **Subcategory:** Dépistage nutritionnel, voies d’alimentation et bilan hydrique
-- **Subtitle:** La nutrition de récupération commence par vérifier si la déglutition est sûre, si l’intestin fonctionne et si les liquides doivent être restreints. Ce n’est qu’ensuite que l’énergie, les protéines, les compléments et les préférences alimentaires deviennent des données utiles.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Illustration conceptuelle d’une discussion sur la récupération hospitalière avec de l’eau, des fruits et une aide à la marche ; elle représente la planification nutritionnelle et hydrique, et non un régime prescrit ou un apport illimité en liquides.
+
+
+- **Title:** Convalescence à l’hôpital en Chine : nutrition et gestion des apports hydriques
+- **Subtitle:** Dépister le risque nutritionnel, confirmer la sécurité de la déglutition et la fonction intestinale, choisir le soutien oral/par sonde/IV, suivre le bilan hydrique et prévoir la nutrition à la sortie de l’hôpital.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -184,13 +186,15 @@ Transmettez la voie/texture sûre, les apports récents et l’évolution du poi
 ## SEO Metadata
 
 - **Slug:** `nutrition-and-hydration-during-hospital-recovery`
-- **Meta title:** Nutrition pendant la récupération à l’hôpital | Voie et plan hydrique
-- **Meta description:** Dépister le risque nutritionnel, confirmer la sécurité de la déglutition et la fonction intestinale, choisir le soutien oral/par sonde/IV, suivre le bilan hydrique et prévoir la nutrition à la sortie de l’hôpital.
 - **Primary keyword:** nutrition de récupération hospitalière en Chine
 - **Pillar keyword:** voyage médical en Chine
 - **Vertical keyword:** plan de nutrition et d’hydratation hospitalière
 - **Search intent:** planification de la récupération / soutien nutritionnel
 - **Secondary keywords:** dépistage nutritionnel hôpital Chine ; alimentation postopératoire ; nutrition entérale Chine ; risque de renutrition ; bilan hydrique hospitalier
+
+
+- **Meta title:** Convalescence à l’hôpital en Chine : nutrition et gestion des apports hydriques
+- **Meta description:** Dépister le risque nutritionnel, confirmer la sécurité de la déglutition et la fonction intestinale, choisir le soutien oral/par sonde/IV, suivre le bilan hydrique et prévoir la nutrition à la sortie de l’hôpital.
 
 ## Sources
 

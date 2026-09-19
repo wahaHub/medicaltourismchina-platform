@@ -1,12 +1,14 @@
-# Diagnosing aplastic anemia: essential tests and targeted investigations
+# Aplastic Anemia Diagnosis in China: Tests and Preparation
 
 ## Hero
 
-- **Title:** Diagnosing aplastic anemia: essential tests and targeted investigations
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Aplastic Anemia
-- **Subtitle:** Finding low red cells, white cells, and platelets does not by itself confirm aplastic anemia.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Aplastic Anemia Diagnosis in China: Tests and Preparation
+- **Subtitle:** Understand blood, marrow and targeted tests for aplastic anemia, including diagnostic uncertainty and records for a second opinion in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -101,3 +103,6 @@ Request renminbi quotations for consultation, slide review, additional staining,
 ## SEO Metadata
 
 - **Primary keyword:** aplastic anemia diagnosis tests
+
+- **Meta title:** Aplastic Anemia Diagnosis in China: Tests and Preparation
+- **Meta description:** Understand blood, marrow and targeted tests for aplastic anemia, including diagnostic uncertainty and records for a second opinion in China.

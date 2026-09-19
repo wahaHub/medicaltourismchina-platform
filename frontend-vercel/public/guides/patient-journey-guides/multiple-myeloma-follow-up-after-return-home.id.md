@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Tindak lanjut mieloma setelah perawatan di Tiongkok: pemeriksaan, resep, dan kelanjutan perawatan di negara asal
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Mieloma Multipel
-- **Subtitle:** Meninggalkan rumah sakit yang merawat biasanya tidak mengakhiri perawatan mieloma.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tindak lanjut mieloma setelah perawatan di Tiongkok: pemeriksaan, resep, dan kelanjutan perawatan di negara asal
+- **Subtitle:** Atur tindak lanjut mieloma setelah perawatan di Tiongkok dengan dokter penanggung jawab, pemeriksaan penyakit, resep, serta dukungan perawatan di rumah.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Rencanakan resep setempat, pemeriksaan, perawatan pendukung, dan tinjauan spesia
 ## SEO Metadata
 
 - **Primary keyword:** tindak lanjut mieloma multipel setelah perawatan di Tiongkok
+
+- **Meta title:** Tindak lanjut mieloma setelah perawatan di Tiongkok: pemeriksaan, resep, dan kelanjutan perawatan di negara asal
+- **Meta description:** Atur tindak lanjut mieloma setelah perawatan di Tiongkok dengan dokter penanggung jawab, pemeriksaan penyakit, resep, serta dukungan perawatan di rumah.

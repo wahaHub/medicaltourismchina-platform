@@ -1,15 +1,17 @@
-# 多学科肿瘤诊疗：MDT 如何指导治疗
+# 中国肿瘤多学科会诊：MDT 如何指导治疗
 
 ## Hero
 
-- **Title:** 多学科肿瘤诊疗：MDT 如何指导治疗
 - **Category:** 治疗指南
 - **Subcategory:** 肿瘤治疗决策
-- **Subtitle:** 看清是谁审阅了病例、当时有哪些证据、建议如何记录，以及患者本人的选择在什么环节进入方案。
 - **Reviewed by:** Medora Health 编辑团队；发布前需完成肿瘤 MDT 管理与共同决策复核
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 外科、肿瘤内科、放疗、影像和病理医生共同讨论同一肿瘤病例
+
+
+- **Title:** 中国肿瘤多学科会诊：MDT 如何指导治疗
+- **Subtitle:** 了解肿瘤委员会如何审阅证据、记录选项和不确定性、纳入患者偏好，并把MDT建议转化为可执行方案。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -211,13 +213,15 @@ MDT 可能帮助患者避免无必要出行，也可能先要求补做活检。�
 ## SEO Metadata
 
 - **Slug:** `multidisciplinary-cancer-care-how-tumor-boards-guide-treatment`
-- **Meta title:** 肿瘤 MDT 如何指导治疗
-- **Meta description:** 了解肿瘤委员会如何审阅证据、记录选项和不确定性、纳入患者偏好，并把MDT建议转化为可执行方案。
 - **Primary keyword:** 多学科肿瘤诊疗
 - **Pillar keyword:** 中国癌症治疗
 - **Vertical keyword:** 肿瘤 MDT 如何指导治疗
 - **Search intent:** 治疗规划教育 / MDT 服务评估
 - **Secondary keywords:** 中国肿瘤MDT；肿瘤委员会；多学科肿瘤治疗；癌症治疗讨论会
+
+
+- **Meta title:** 中国肿瘤多学科会诊：MDT 如何指导治疗
+- **Meta description:** 了解肿瘤委员会如何审阅证据、记录选项和不确定性、纳入患者偏好，并把MDT建议转化为可执行方案。
 
 ## Sources
 

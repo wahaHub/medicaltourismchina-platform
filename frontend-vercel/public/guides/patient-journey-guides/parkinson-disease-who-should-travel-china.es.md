@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Puede alguien con párkinson viajar a China para recibir tratamiento? Preparación, medicamentos y cuidados durante el viaje
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Enfermedad de Parkinson
-- **Subtitle:** El diagnóstico de enfermedad de Parkinson no determina, por sí solo, si alguien puede viajar a China para recibir atención.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Puede alguien con párkinson viajar a China para recibir tratamiento? Preparación, medicamentos y cuidados durante el viaje
+- **Subtitle:** Valore la preparación para viajar a China con Parkinson, incluidos cambios recientes, medicación entre husos horarios y necesidades de apoyo durante el trayecto.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Estar preparado resulta de reunir un propósito clínico claro, un estado actual
 ## SEO Metadata
 
 - **Primary keyword:** aptitud para viajar a China para el tratamiento del párkinson
+
+- **Meta title:** ¿Puede alguien con párkinson viajar a China para recibir tratamiento? Preparación, medicamentos y cuidados durante el viaje
+- **Meta description:** Valore la preparación para viajar a China con Parkinson, incluidos cambios recientes, medicación entre husos horarios y necesidades de apoyo durante el trayecto.

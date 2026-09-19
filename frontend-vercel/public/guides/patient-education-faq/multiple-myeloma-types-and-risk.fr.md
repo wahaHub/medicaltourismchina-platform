@@ -1,12 +1,14 @@
-# Types de myélome multiple et risque : comprendre les différentes appellations
+# Types et risques du myélome multiple : avis spécialisé en Chine
 
 ## Hero
 
-- **Title:** Types de myélome multiple et risque : comprendre les différentes appellations
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Myélome multiple
-- **Subtitle:** Une personne atteinte de myélome peut être décrite comme ayant une maladie à IgG, des résultats à haut risque, une éligibilité à la greffe et une rechute précoce.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Types et risques du myélome multiple : avis spécialisé en Chine
+- **Subtitle:** Comprenez les états plasmocytaires, les protéines et les scores de risque du myélome multiple pour préparer une évaluation spécialisée en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ L’objectif est un choix fondé sur les preuves, des priorités de surveillance
 ## SEO Metadata
 
 - **Primary keyword:** types de myélome multiple et stratification du risque
+
+- **Meta title:** Types et risques du myélome multiple : avis spécialisé en Chine
+- **Meta description:** Comprenez les états plasmocytaires, les protéines et les scores de risque du myélome multiple pour préparer une évaluation spécialisée en Chine.

@@ -1,15 +1,17 @@
-# 经皮冠状动脉介入治疗与支架：患者指南
+# 中国冠脉 PCI 与支架治疗：决策与恢复
 
 ## Hero
 
-- **Title:** 经皮冠状动脉介入治疗与支架：患者指南
 - **Category:** 治疗指南
 - **Subcategory:** 心脏与血管照护
-- **Subtitle:** 弄清 PCI 要实现什么、病变准备怎样处理，以及回国后如何用药和随访来保护治疗结果。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 心内科医生正在向患者讲解球囊扩张和冠脉支架展开过程
+
+
+- **Title:** 中国冠脉 PCI 与支架治疗：决策与恢复
+- **Subtitle:** 了解 PCI 预期获益、病变和支架规划、复杂冠脉决策、双联抗血小板治疗、恢复与跨境随访。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -149,13 +151,15 @@ PCI 后会观察胸部症状、心律、穿刺端远侧循环、出血，以及�
 ## SEO Metadata
 
 - **Slug:** `percutaneous-coronary-intervention-and-stents-a-patient-guide`
-- **Meta title:** 冠脉 PCI 与支架指南：适应性、双抗和术后管理
-- **Meta description:** 了解 PCI 预期获益、病变和支架规划、复杂冠脉决策、双联抗血小板治疗、恢复与跨境随访。
 - **Primary keyword:** 经皮冠状动脉介入治疗与支架
 - **Pillar keyword:** 中国冠心病治疗
 - **Vertical keyword:** PCI 患者指南
 - **Search intent:** 治疗决策 / 支架后管理
 - **Secondary keywords:** 冠脉支架；球囊扩张；药物洗脱支架；双联抗血小板治疗；PCI 恢复；复杂 PCI
+
+
+- **Meta title:** 中国冠脉 PCI 与支架治疗：决策与恢复
+- **Meta description:** 了解 PCI 预期获益、病变和支架规划、复杂冠脉决策、双联抗血小板治疗、恢复与跨境随访。
 
 ## Sources
 

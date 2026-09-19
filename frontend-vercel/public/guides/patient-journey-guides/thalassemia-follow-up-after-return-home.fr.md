@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Suivi après des soins pour la thalassémie en Chine : confier chaque prochaine étape à un clinicien capable de la réaliser
 - **Category:** Guides du parcours patient
 - **Subcategory:** Thalassémie
-- **Subtitle:** Un programme de suivi n’est utile que s’il peut fonctionner là où le patient vivra.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Suivi après des soins pour la thalassémie en Chine : confier chaque prochaine étape à un clinicien capable de la réaliser
+- **Subtitle:** Après des soins de thalassémie en Chine, organisez la prochaine transfusion, le suivi du fer et la sécurité de la chélation avec des responsables identifiés.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -157,3 +159,6 @@ Conservez des versions datées après chaque changement afin que le prochain cli
 ## SEO Metadata
 
 - **Primary keyword:** suivi de la thalassémie après traitement en Chine ; transmission internationale des soins ; surveillance des transfusions et de la chélation ; soins après greffe
+
+- **Meta title:** Suivi après des soins pour la thalassémie en Chine : confier chaque prochaine étape à un clinicien capable de la réaliser
+- **Meta description:** Après des soins de thalassémie en Chine, organisez la prochaine transfusion, le suivi du fer et la sécurité de la chélation avec des responsables identifiés.

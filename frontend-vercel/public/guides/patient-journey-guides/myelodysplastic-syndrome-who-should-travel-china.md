@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Should You Travel to China for Myelodysplastic Syndrome Treatment? Defining the Benefit Before Booking
 - **Category:** Patient Journey Guides
 - **Subcategory:** Myelodysplastic Syndrome
-- **Subtitle:** Before arranging an overseas appointment for myelodysplastic syndrome, write down the medical problem the visit should solve.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Should You Travel to China for Myelodysplastic Syndrome Treatment? Defining the Benefit Before Booking
+- **Subtitle:** Define what an MDS consultation in China should achieve before booking, including clinical readiness, blood support, hospital review and an itemized budget.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Use this article to prepare a hematology consultation. The clinicians who know t
 ## SEO Metadata
 
 - **Primary keyword:** myelodysplastic syndrome treatment in China
+
+- **Meta title:** Should You Travel to China for Myelodysplastic Syndrome Treatment? Defining the Benefit Before Booking
+- **Meta description:** Define what an MDS consultation in China should achieve before booking, including clinical readiness, blood support, hospital review and an itemized budget.

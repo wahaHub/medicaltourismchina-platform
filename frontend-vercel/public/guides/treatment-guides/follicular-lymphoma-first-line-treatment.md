@@ -1,12 +1,14 @@
-# First-line treatment for follicular lymphoma: defining the reason to start and choosing a workable regimen
+# First-Line Follicular Lymphoma Treatment in China: Planning
 
 ## Hero
 
-- **Title:** First-line treatment for follicular lymphoma: defining the reason to start and choosing a workable regimen
 - **Category:** Treatment Guides
 - **Subcategory:** Follicular Lymphoma
-- **Subtitle:** First-line treatment is the initial approach used when follicular lymphoma needs treatment.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** First-Line Follicular Lymphoma Treatment in China: Planning
+- **Subtitle:** Plan first-line follicular lymphoma care in China by clarifying why treatment should start, the proposed regimen and how the course will be sustained.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Some pathology and regimen discussion can happen remotely, but arrangements for 
 ## SEO Metadata
 
 - **Primary keyword:** first-line follicular lymphoma treatment
+
+- **Meta title:** First-Line Follicular Lymphoma Treatment in China: Planning
+- **Meta description:** Plan first-line follicular lymphoma care in China by clarifying why treatment should start, the proposed regimen and how the course will be sustained.

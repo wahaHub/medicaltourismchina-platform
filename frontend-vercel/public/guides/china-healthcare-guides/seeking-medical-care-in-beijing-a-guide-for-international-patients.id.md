@@ -1,15 +1,17 @@
-# 021 Mencari Perawatan Medis di Beijing: Panduan Praktis untuk Pasien Internasional
+# Perawatan Medis di Tiongkok: Panduan Pasien di Beijing
 
 ## Hero
 
-- **Title:** Mencari Perawatan Medis di Beijing: Panduan Praktis untuk Pasien Internasional
 - **Category:** Panduan Layanan Kesehatan Tiongkok
 - **Subcategory:** Memilih Tujuan Perawatan
-- **Subtitle:** Pilih jalur layanan Beijing yang tepat, pastikan lokasi rumah sakit yang persis, dan datang dengan janji temu yang sesuai dengan masalah medis serta kebutuhan bahasa pasien.
 - **Reviewed by:** Tim Editorial Medora Health; tinjauan klinis dan operasional setempat diperlukan sebelum publikasi
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Pasien internasional dan pendamping menemui dokter dengan panorama Beijing di balik jendela
+
+
+- **Title:** Perawatan Medis di Tiongkok: Panduan Pasien di Beijing
+- **Subtitle:** Panduan praktis perawatan medis Beijing yang mencakup pemilihan rumah sakit dan lokasi, jalur janji temu bahasa Inggris, paspor, pembayaran, keadaan darurat, dan tindak lanjut.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -191,13 +193,15 @@ Hubungi 120 untuk keadaan darurat medis. Beijing 12345 dapat membantu informasi 
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-beijing-a-guide-for-international-patients`
-- **Meta title:** Perawatan Medis di Beijing untuk Pasien Internasional
-- **Meta description:** Panduan praktis perawatan medis Beijing yang mencakup pemilihan rumah sakit dan lokasi, jalur janji temu bahasa Inggris, paspor, pembayaran, keadaan darurat, dan tindak lanjut.
 - **Primary keyword:** perawatan medis di Beijing untuk pasien internasional
 - **Pillar keyword:** layanan kesehatan di Tiongkok untuk pasien internasional
 - **Vertical keyword:** janji temu rumah sakit Beijing untuk warga asing
 - **Search intent:** perencanaan praktis / navigasi rumah sakit
 - **Secondary keywords:** janji temu bahasa Inggris Beijing 114; layanan medis internasional Beijing; pasien asing rumah sakit Beijing; darurat medis Beijing 120
+
+
+- **Meta title:** Perawatan Medis di Tiongkok: Panduan Pasien di Beijing
+- **Meta description:** Panduan praktis perawatan medis Beijing yang mencakup pemilihan rumah sakit dan lokasi, jalur janji temu bahasa Inggris, paspor, pembayaran, keadaan darurat, dan tindak lanjut.
 
 ## Sumber
 

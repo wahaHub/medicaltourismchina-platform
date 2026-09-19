@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Rekam medis untuk konsultasi GVHD di Tiongkok: hubungkan riwayat transplantasi, perubahan organ, dan respons pengobatan
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Penyakit Graft Versus Host
-- **Subtitle:** Banyak pasien memiliki kumpulan rekam GVHD yang besar: ringkasan pemulangan transplantasi, pemeriksaan laboratorium bulanan, laporan biopsi, resep dari beberapa spesialisasi, dan foto kulit yang tersimpan di ponsel.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rekam medis untuk konsultasi GVHD di Tiongkok: hubungkan riwayat transplantasi, perubahan organ, dan respons pengobatan
+- **Subtitle:** Susun rekam medis GVHD untuk konsultasi di Tiongkok dengan linimasa transplantasi, perubahan organ, hasil pemeriksaan, dan respons pengobatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Saat konsultasi, pastikan bagaimana penilaian dan resep baru akan disediakan bag
 ## SEO Metadata
 
 - **Primary keyword:** rekam medis untuk konsultasi GVHD di Tiongkok
+
+- **Meta title:** Rekam medis untuk konsultasi GVHD di Tiongkok: hubungkan riwayat transplantasi, perubahan organ, dan respons pengobatan
+- **Meta description:** Susun rekam medis GVHD untuk konsultasi di Tiongkok dengan linimasa transplantasi, perubahan organ, hasil pemeriksaan, dan respons pengobatan.

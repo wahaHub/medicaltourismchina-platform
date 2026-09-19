@@ -1,15 +1,17 @@
-# The Price-Claim Autopsy: Test a Medical Tourism Offer Before It Tests You
+# Medical Tourism Prices in China: Checking Cost Claims
 
 ## Hero
 
-- **Title:** The Price-Claim Autopsy: Test a Medical Tourism Offer Before It Tests You
 - **Category:** Cost & Insurance Guides
 - **Subcategory:** Financial Risk & Protection
-- **Subtitle:** A field method for taking apart “from,” “save,” “all-inclusive,” “no hidden fees” and outcome-linked price claims before paying for care in China.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** A traveler testing a medical offer against a price question, treatment, transport, protection and checklist
+
+
+- **Title:** Medical Tourism Prices in China: Checking Cost Claims
+- **Subtitle:** Take apart “from,” “save 70%,” “all-inclusive,” success-rate and quick-recovery claims before paying for medical travel to China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -200,13 +202,15 @@ First preserve the evidence. The correct route depends on the advertiser, public
 ## SEO Metadata
 
 - **Slug:** `how-to-avoid-misleading-medical-tourism-price-claims`
-- **Meta title:** How to Test Misleading Medical Tourism Price Claims
-- **Meta description:** Take apart “from,” “save 70%,” “all-inclusive,” success-rate and quick-recovery claims before paying for medical travel to China.
 - **Primary keyword:** misleading medical tourism price claims
 - **Pillar keyword:** medical treatment cost in China
 - **Vertical keyword:** verify medical tourism package price
 - **Search intent:** fraud prevention / price comparison
 - **Secondary keywords:** medical tourism hidden fees; all-inclusive medical package; treatment price advertisement; medical travel cost comparison; hospital quote verification
+
+
+- **Meta title:** Medical Tourism Prices in China: Checking Cost Claims
+- **Meta description:** Take apart “from,” “save 70%,” “all-inclusive,” success-rate and quick-recovery claims before paying for medical travel to China.
 
 ## Sources
 

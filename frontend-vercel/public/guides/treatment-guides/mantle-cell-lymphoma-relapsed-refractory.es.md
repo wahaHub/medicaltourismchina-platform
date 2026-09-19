@@ -1,12 +1,14 @@
-# Linfoma de células del manto en recaída o refractario: confirmar la progresión y planificar el siguiente tratamiento
+# Linfoma de células del manto en recaída en China: revisión y próximos pasos
 
 ## Hero
 
-- **Title:** Linfoma de células del manto en recaída o refractario: confirmar la progresión y planificar el siguiente tratamiento
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de células del manto
-- **Subtitle:** Cuando un ganglio que antes se reducía vuelve a aumentar, la urgencia por encontrar el siguiente medicamento puede ser inmediata.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Linfoma de células del manto en recaída en China: revisión y próximos pasos
+- **Subtitle:** Prepare una revisión de linfoma de células del manto en recaída en China con progresión confirmada y antecedentes de respuesta, intolerancia y tratamiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -118,3 +120,6 @@ No tiene que resolver todas las decisiones futuras el día de la consulta. Sin e
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento del linfoma de células del manto en recaída o refractario
+
+- **Meta title:** Linfoma de células del manto en recaída en China: revisión y próximos pasos
+- **Meta description:** Prepare una revisión de linfoma de células del manto en recaída en China con progresión confirmada y antecedentes de respuesta, intolerancia y tratamiento.

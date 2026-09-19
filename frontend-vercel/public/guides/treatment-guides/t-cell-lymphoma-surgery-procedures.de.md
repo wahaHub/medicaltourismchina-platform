@@ -1,12 +1,14 @@
-# Muss ein T-Zell-Lymphom operiert werden? Biopsie, Gefäßzugang, Darmeingriffe und Zellsammlung
+# Eingriffe beim T-Zell-Lymphom in China: Zweck und Vorbereitung
 
 ## Hero
 
-- **Title:** Muss ein T-Zell-Lymphom operiert werden? Biopsie, Gefäßzugang, Darmeingriffe und Zellsammlung
 - **Category:** Behandlungsratgeber
 - **Subcategory:** T-Zell-Lymphom
-- **Subtitle:** „Der Lymphknoten wurde entfernt, warum ist also weitere Behandlung nötig?“ „Bedeutet eine Stammzelltransplantation eine Operation zum Austausch des Knochenmarks?“ Im Alltag werden verschiedene Verfahren als Operation bezeichnet, obwohl sie sehr unterschiedlichen Zwecken dienen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Eingriffe beim T-Zell-Lymphom in China: Zweck und Vorbereitung
+- **Subtitle:** Eingriffe beim T-Zell-Lymphom in China besprechen: diagnostische Gewebeentnahme, Darmoperationen, Gefäßzugang und Zellsammlung mit dem Behandlungsplan verbinden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Beispielsweise können chirurgische Wundkontrolle und hämatologischer Termin un
 ## SEO Metadata
 
 - **Primary keyword:** Operationen und Verfahren beim T-Zell-Lymphom
+
+- **Meta title:** Eingriffe beim T-Zell-Lymphom in China: Zweck und Vorbereitung
+- **Meta description:** Eingriffe beim T-Zell-Lymphom in China besprechen: diagnostische Gewebeentnahme, Darmoperationen, Gefäßzugang und Zellsammlung mit dem Behandlungsplan verbinden.

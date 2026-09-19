@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Vingt questions de patients sur la GVHD : traitement, réduction progressive, soins en Chine et suivi
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Maladie du greffon contre l’hôte
-- **Subtitle:** La maladie du greffon contre l’hôte réunit l’histoire de la greffe, les traitements immunitaires et des problèmes touchant plusieurs organes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Vingt questions de patients sur la GVHD : traitement, réduction progressive, soins en Chine et suivi
+- **Subtitle:** Préparez le suivi de la maladie du greffon contre l’hôte en Chine avec 20 questions sur le diagnostic, les traitements et leur réduction progressive.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Poursuivez la surveillance sanguine et biochimique propre au protocole, l’éva
 ## SEO Metadata
 
 - **Primary keyword:** questions de patients sur la GVHD et traitement en Chine
+
+- **Meta title:** Vingt questions de patients sur la GVHD : traitement, réduction progressive, soins en Chine et suivi
+- **Meta description:** Préparez le suivi de la maladie du greffon contre l’hôte en Chine avec 20 questions sur le diagnostic, les traitements et leur réduction progressive.

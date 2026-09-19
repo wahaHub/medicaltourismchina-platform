@@ -1,12 +1,14 @@
-# Aggravation soudaine ou déclin progressif pendant la rééducation post-AVC : que faut-il évaluer ?
+# Aggravation pendant la rééducation post-AVC en Chine : quand demander de l’aide
 
 ## Hero
 
-- **Title:** Aggravation soudaine ou déclin progressif pendant la rééducation post-AVC : que faut-il évaluer ?
 - **Category:** Guides des traitements
 - **Subcategory:** Rééducation après un AVC ischémique
-- **Subtitle:** Une personne qui pouvait marcher avec un appui hier ne parvient soudain plus à avancer une jambe.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Aggravation pendant la rééducation post-AVC en Chine : quand demander de l’aide
+- **Subtitle:** Distinguez aggravation brutale et déclin progressif après AVC pour transmettre les changements et obtenir une évaluation adaptée pendant la rééducation en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Lorsque la situation médicale permet de poursuivre la rééducation, les object
 ## SEO Metadata
 
 - **Primary keyword:** aggravation des symptômes pendant la rééducation post-AVC
+
+- **Meta title:** Aggravation pendant la rééducation post-AVC en Chine : quand demander de l’aide
+- **Meta description:** Distinguez aggravation brutale et déclin progressif après AVC pour transmettre les changements et obtenir une évaluation adaptée pendant la rééducation en Chine.

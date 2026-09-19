@@ -1,15 +1,17 @@
-# Postoperative Wundinfektionen verhindern: Fragen vor und nach einer Operation
+# Operationen in China: Wundinfektionen vorbeugen und Warnzeichen erkennen
 
 ## Hero
 
-- **Title:** Postoperative Wundinfektionen verhindern: Fragen vor und nach einer Operation
 - **Category:** Patienteninformation und häufige Fragen
 - **Subcategory:** Chirurgie und Infektionsprävention
-- **Subtitle:** Ein Patientenleitfaden zu Hautvorbereitung, Haarentfernung, Antibiotikazeitpunkt, Blutzucker- und Temperaturmanagement, Händehygiene, Verbänden und früher Wundkontrolle.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Ein Patient bespricht Fragen zur Infektionsprävention und Wundversorgung mit zwei perioperativen Fachkräften
+
+
+- **Title:** Operationen in China: Wundinfektionen vorbeugen und Warnzeichen erkennen
+- **Subtitle:** Erfahren Sie, wie Patienten vor und nach Operationen Wundinfektionen vorbeugen können: Rasieren, Antibiotika, Händehygiene, Verbände, Fotos und dringende Warnzeichen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,11 +141,13 @@ Ein Foto kann oberflächliche Veränderungen dokumentieren, tiefe oder Organraum
 
 ## SEO Metadata
 
-- **SEO title:** Postoperative Wundinfektionen verhindern: Antibiotika, Wundpflege und Warnzeichen
-- **Meta description:** Erfahren Sie, wie Patienten vor und nach Operationen Wundinfektionen vorbeugen können: Rasieren, Antibiotika, Händehygiene, Verbände, Fotos und dringende Warnzeichen.
 - **Primary keyword:** postoperative Wundinfektion verhindern
 - **Secondary keywords:** SSI-Prävention, operative Wundinfektion, Antibiotikaprophylaxe, Schnittwundenpflege, postoperative Wundwarnzeichen, Händehygiene
 - **Suggested URL slug:** `/prevent-surgical-site-infection-antibiotics-wound-care-warning-signs`
+
+
+- **Meta title:** Operationen in China: Wundinfektionen vorbeugen und Warnzeichen erkennen
+- **Meta description:** Erfahren Sie, wie Patienten vor und nach Operationen Wundinfektionen vorbeugen können: Rasieren, Antibiotika, Händehygiene, Verbände, Fotos und dringende Warnzeichen.
 
 ## Quellen
 

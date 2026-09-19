@@ -1,15 +1,17 @@
-# 037 Intervention coronarienne percutanée et stents : guide du patient
+# Angioplastie et stents coronaires en Chine : décisions et récupération
 
 ## Hero
 
-- **Title:** Intervention coronarienne percutanée et stents : guide du patient
 - **Category:** Guides des traitements
 - **Subcategory:** Soins cardiaques et vasculaires
-- **Subtitle:** Déterminez l’objectif de l’ICP, la façon dont la lésion sera traitée et comment protéger le résultat après le retour au pays.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Cardiologue expliquant à un patient l’angioplastie par ballonnet et l’expansion d’un stent coronaire
+
+
+- **Title:** Angioplastie et stents coronaires en Chine : décisions et récupération
+- **Subtitle:** Comprenez le bénéfice de l’ICP, la planification des lésions et stents, les décisions coronaires complexes, la double antiagrégation, la récupération et le suivi transfrontalier.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -154,13 +156,15 @@ Demandez où il se trouve, sa sévérité, si la physiologie a été évaluée, 
 ## SEO Metadata
 
 - **Slug:** `percutaneous-coronary-intervention-and-stents-a-patient-guide`
-- **Meta title:** ICP et stents coronaires : décisions, DAPT et récupération
-- **Meta description:** Comprenez le bénéfice de l’ICP, la planification des lésions et stents, les décisions coronaires complexes, la double antiagrégation, la récupération et le suivi transfrontalier.
 - **Primary keyword:** intervention coronarienne percutanée et stents
 - **Pillar keyword:** traitement coronaire en Chine
 - **Vertical keyword:** guide patient ICP
 - **Search intent:** décision thérapeutique / planification après stent
 - **Secondary keywords:** guide stent coronaire ; angioplastie ; stent actif ; double antiagrégation plaquettaire ; récupération après ICP ; ICP complexe
+
+
+- **Meta title:** Angioplastie et stents coronaires en Chine : décisions et récupération
+- **Meta description:** Comprenez le bénéfice de l’ICP, la planification des lésions et stents, les décisions coronaires complexes, la double antiagrégation, la récupération et le suivi transfrontalier.
 
 ## Sources
 

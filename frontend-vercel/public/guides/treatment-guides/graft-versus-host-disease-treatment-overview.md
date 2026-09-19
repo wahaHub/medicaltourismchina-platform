@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Treating Graft-Versus-Host Disease: Acute and Chronic GVHD Care in China
 - **Category:** Treatment Guides
 - **Subcategory:** Graft Versus Host Disease
-- **Subtitle:** After an allogeneic stem cell transplant, a new rash, diarrhea, dry eyes, or restricted movement may lead to an assessment for graft-versus-host disease, usually called GVHD.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Treating Graft-Versus-Host Disease: Acute and Chronic GVHD Care in China
+- **Subtitle:** Understand acute and chronic GVHD care in China through organ assessment, treatment goals, infection monitoring and coordinated transplant follow-up.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Without an individual plan and a formal hospital estimate, a complete RMB price 
 ## SEO Metadata
 
 - **Primary keyword:** graft-versus-host disease treatment in China
+
+- **Meta title:** Treating Graft-Versus-Host Disease: Acute and Chronic GVHD Care in China
+- **Meta description:** Understand acute and chronic GVHD care in China through organ assessment, treatment goals, infection monitoring and coordinated transplant follow-up.

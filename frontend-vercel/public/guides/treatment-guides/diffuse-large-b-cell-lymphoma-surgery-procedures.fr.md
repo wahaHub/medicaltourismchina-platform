@@ -1,12 +1,14 @@
-# Le LDGCB nécessite-t-il une chirurgie ? Biopsie, accès vasculaire et interventions urgentes
+# Interventions pour le LDGCB en Chine : biopsie, accès vasculaire et urgences
 
 ## Hero
 
-- **Title:** Le LDGCB nécessite-t-il une chirurgie ? Biopsie, accès vasculaire et interventions urgentes
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome diffus à grandes cellules B
-- **Subtitle:** Le LDGCB est généralement traité par des médicaments agissant dans tout l’organisme.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Interventions pour le LDGCB en Chine : biopsie, accès vasculaire et urgences
+- **Subtitle:** Distinguez biopsie diagnostique, accès vasculaire et interventions urgentes du LDGCB pour comprendre le rôle des gestes proposés dans les soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -122,3 +124,6 @@ Le suivi doit concerner le lymphome ainsi que les plaies non résolues, les infe
 ## SEO Metadata
 
 - **Primary keyword:** chirurgie et interventions pour le LDGCB
+
+- **Meta title:** Interventions pour le LDGCB en Chine : biopsie, accès vasculaire et urgences
+- **Meta description:** Distinguez biopsie diagnostique, accès vasculaire et interventions urgentes du LDGCB pour comprendre le rôle des gestes proposés dans les soins en Chine.

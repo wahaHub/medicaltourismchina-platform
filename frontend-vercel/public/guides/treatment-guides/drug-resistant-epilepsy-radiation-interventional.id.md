@@ -1,12 +1,14 @@
-# SEEG dan ablasi fokal untuk epilepsi resistan obat: perbedaan perekaman, pengobatan frekuensi radio dan terapi laser
+# SEEG dan Ablasi Epilepsi di Tiongkok: Pemeriksaan atau Pengobatan
 
 ## Hero
 
-- **Title:** SEEG dan ablasi fokal untuk epilepsi resistan obat: perbedaan perekaman, pengobatan frekuensi radio dan terapi laser
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Epilepsi Resistan Obat
-- **Subtitle:** Ketika pasien mendengar bahwa elektroda yang ditanamkan juga dapat digunakan untuk termokoagulasi, hal itu dapat terdengar seolah satu rawat inap akan sekaligus menemukan dan menghilangkan penyebab kejang.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** SEEG dan Ablasi Epilepsi di Tiongkok: Pemeriksaan atau Pengobatan
+- **Subtitle:** Bedakan perekaman SEEG dari ablasi frekuensi radio atau laser untuk epilepsi. Pahami tujuan, sasaran, dan persiapan penilaian di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Jika perawatan berkelanjutan akan berlangsung di luar Tiongkok, identifikasi dok
 ## SEO Metadata
 
 - **Primary keyword:** SEEG untuk epilepsi resistan obat; termokoagulasi frekuensi radio epilepsi; ablasi laser; penilaian epilepsi invasif minimal di Tiongkok
+
+- **Meta title:** SEEG dan Ablasi Epilepsi di Tiongkok: Pemeriksaan atau Pengobatan
+- **Meta description:** Bedakan perekaman SEEG dari ablasi frekuensi radio atau laser untuk epilepsi. Pahami tujuan, sasaran, dan persiapan penilaian di Tiongkok.

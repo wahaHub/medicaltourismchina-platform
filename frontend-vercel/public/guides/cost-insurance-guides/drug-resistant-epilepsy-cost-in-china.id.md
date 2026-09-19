@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Berapa biaya pengobatan epilepsi resistan obat di Tiongkok? Menyusun perkiraan yang dapat digunakan
 - **Category:** Panduan Biaya & Asuransi
 - **Subcategory:** Epilepsi Resistan Obat
-- **Subtitle:** Wajar jika pasien ingin mengetahui persiapan keuangan yang diperlukan sebelum memilih tempat berobat.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Berapa biaya pengobatan epilepsi resistan obat di Tiongkok? Menyusun perkiraan yang dapat digunakan
+- **Subtitle:** Minta estimasi epilepsi resistan obat di Tiongkok sesuai jalur pemeriksaan, obat, operasi, atau stimulasi. Periksa cakupan pemantauan dan tindak lanjut.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -171,3 +173,6 @@ Hasil paling berguna adalah penjelasan klinisi mengapa layanan diperlukan dan pe
 ## SEO Metadata
 
 - **Primary keyword:** biaya pengobatan epilepsi resistan obat di Tiongkok; anggaran bedah epilepsi; biaya SEEG; cakupan asuransi epilepsi di Tiongkok
+
+- **Meta title:** Berapa biaya pengobatan epilepsi resistan obat di Tiongkok? Menyusun perkiraan yang dapat digunakan
+- **Meta description:** Minta estimasi epilepsi resistan obat di Tiongkok sesuai jalur pemeriksaan, obat, operasi, atau stimulasi. Periksa cakupan pemantauan dan tindak lanjut.

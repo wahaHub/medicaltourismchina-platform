@@ -1,15 +1,17 @@
-# 医疗旅行途中疑似卒中：用 BE-FAST 识别，记住最后正常时间，立即拨打 120
+# 在中国疑似卒中：识别警示症状并拨打 120
 
 ## Hero
 
-- **Title:** 医疗旅行途中疑似卒中：用 BE-FAST 识别，记住最后正常时间，立即拨打 120
 - **Category:** 患者教育与常见问题
 - **Subcategory:** 症状与紧急就医
-- **Subtitle:** 写给旅行者和陪同者的现场指南：识别突发神经症状、保留关键时间线，不绕路进入本地卒中急救通道。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** 旅行者与陪同者身旁呈现医院、脑部、面部不对称和单侧手臂无力图示
+
+
+- **Title:** 在中国疑似卒中：识别警示症状并拨打 120
+- **Subtitle:** 识别 BE-FAST 卒中信号，记录最后正常时间，拨打 120，不自行喂阿司匹林，完成简洁的医疗旅行急救交接。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -136,13 +138,15 @@
 ## SEO Metadata
 
 - **Slug:** `recognizing-possible-stroke-symptoms-during-medical-travel`
-- **Meta title:** 医疗旅行途中疑似卒中：BE-FAST 识别并拨打 120
-- **Meta description:** 识别 BE-FAST 卒中信号，记录最后正常时间，拨打 120，不自行喂阿司匹林，完成简洁的医疗旅行急救交接。
 - **Primary keyword:** 医疗旅行途中卒中症状
 - **Pillar keyword:** 医疗旅行患者安全
 - **Vertical keyword:** BE-FAST 卒中识别 120
 - **Search intent:** 急症患者指导
 - **Secondary keywords:** 最后正常时间；机场突发卒中；旅行途中 TIA；中国拨打 120；疑似卒中阿司匹林
+
+
+- **Meta title:** 在中国疑似卒中：识别警示症状并拨打 120
+- **Meta description:** 识别 BE-FAST 卒中信号，记录最后正常时间，拨打 120，不自行喂阿司匹林，完成简洁的医疗旅行急救交接。
 
 ## Sources
 

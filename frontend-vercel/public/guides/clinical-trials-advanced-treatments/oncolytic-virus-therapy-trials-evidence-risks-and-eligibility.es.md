@@ -1,15 +1,17 @@
-# 081 Ensayos de terapia con virus oncolíticos: evidencia, riesgos y elegibilidad
+# Ensayos de virus oncolíticos en China: elegibilidad y riesgos
 
 ## Hero
 
-- **Title:** Ensayos de terapia con virus oncolíticos: evidencia, riesgos y elegibilidad
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Inmunoterapia contra el cáncer
-- **Subtitle:** Evalúe el virus concreto, el diseño genético, la vía de administración, la lesión inyectable, la combinación y el plan de bioseguridad, más allá de la promesa general de «un virus que mata el cáncer».
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Esquema de un virus oncolítico junto a células tumorales, participantes del ensayo, revisión de seguridad y seguimiento de resultados; no es una imagen microscópica ni un producto viral específico.
+
+
+- **Title:** Ensayos de virus oncolíticos en China: elegibilidad y riesgos
+- **Subtitle:** Evalúe los ensayos de virus oncolíticos según la plataforma viral, vía de administración, lesiones inyectables, evidencia, riesgos de infección y excreción, imágenes y estado del ensayo en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -181,11 +183,13 @@ No automáticamente. La inflamación puede imitar el crecimiento, pero sigue sie
 ## SEO Metadata
 
 - **Slug:** `oncolytic-virus-therapy-trials-evidence-risks-and-eligibility`
-- **Meta title:** Ensayos de virus oncolíticos: elegibilidad, excreción y evidencia
-- **Meta description:** Evalúe los ensayos de virus oncolíticos según la plataforma viral, vía de administración, lesiones inyectables, evidencia, riesgos de infección y excreción, imágenes y estado del ensayo en China.
 - **Primary keyword:** ensayos clínicos de virus oncolíticos
 - **Secondary keywords:** virus oncolíticos China; terapia viral intratumoral; excreción viral; elegibilidad para virus oncolíticos; inmunoterapia oncolítica
 - **Search intent:** selección para ensayos de virus oncolíticos / revisión de evidencia y seguridad
+
+
+- **Meta title:** Ensayos de virus oncolíticos en China: elegibilidad y riesgos
+- **Meta description:** Evalúe los ensayos de virus oncolíticos según la plataforma viral, vía de administración, lesiones inyectables, evidencia, riesgos de infección y excreción, imágenes y estado del ensayo en China.
 
 ## Fuentes
 

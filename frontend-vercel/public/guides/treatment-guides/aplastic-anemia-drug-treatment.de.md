@@ -1,12 +1,14 @@
-# Medikamente bei aplastischer Anämie: ATG, Ciclosporin und Eltrombopag verstehen
+# Medikamente bei aplastischer Anämie in China: ATG, Ciclosporin und weitere Optionen
 
 ## Hero
 
-- **Title:** Medikamente bei aplastischer Anämie: ATG, Ciclosporin und Eltrombopag verstehen
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Aplastische Anämie
-- **Subtitle:** Die Medikamententasche bei aplastischer Anämie kann Dauertherapie, Infektionsvorbeugung und kurzfristige Behandlungen gegen Beschwerden oder Nebenwirkungen enthalten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medikamente bei aplastischer Anämie in China: ATG, Ciclosporin und weitere Optionen
+- **Subtitle:** Medikamente bei aplastischer Anämie in China verstehen: ATG, Ciclosporin und Eltrombopag mit Behandlungsphase, Einnahme, Organfunktion und Kontrollen verbinden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ Ein aufgeschlüsseltes Budget in Renminbi sollte ATG und Verabreichung, fortlauf
 ## SEO Metadata
 
 - **Primary keyword:** medikamentöse Behandlung der aplastischen Anämie
+
+- **Meta title:** Medikamente bei aplastischer Anämie in China: ATG, Ciclosporin und weitere Optionen
+- **Meta description:** Medikamente bei aplastischer Anämie in China verstehen: ATG, Ciclosporin und Eltrombopag mit Behandlungsphase, Einnahme, Organfunktion und Kontrollen verbinden.

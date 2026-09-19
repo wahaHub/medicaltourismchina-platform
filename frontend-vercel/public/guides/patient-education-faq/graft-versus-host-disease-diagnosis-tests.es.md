@@ -1,12 +1,14 @@
-# ¿Qué pruebas ayudan a diagnosticar la enfermedad de injerto contra huésped después de un trasplante?
+# Evaluación de EICH en China: revisión de órganos y pruebas diagnósticas
 
 ## Hero
 
-- **Title:** ¿Qué pruebas ayudan a diagnosticar la enfermedad de injerto contra huésped después de un trasplante?
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedad de injerto contra huésped
-- **Subtitle:** Cuando aparecen síntomas después de un trasplante alogénico, las familias suelen preguntar si un solo análisis de sangre puede confirmar el rechazo.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Evaluación de EICH en China: revisión de órganos y pruebas diagnósticas
+- **Subtitle:** Comprenda la revisión de órganos, biopsias y análisis ante sospecha de enfermedad injerto contra huésped, y prepare una evaluación especializada en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Después de los estudios, pregunte qué conclusiones están establecidas, qué f
 ## SEO Metadata
 
 - **Primary keyword:** pruebas diagnósticas de la enfermedad de injerto contra huésped en China
+
+- **Meta title:** Evaluación de EICH en China: revisión de órganos y pruebas diagnósticas
+- **Meta description:** Comprenda la revisión de órganos, biopsias y análisis ante sospecha de enfermedad injerto contra huésped, y prepare una evaluación especializada en China.

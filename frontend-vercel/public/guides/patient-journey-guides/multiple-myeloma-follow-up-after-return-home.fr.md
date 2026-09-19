@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Suivi du myélome après un traitement en Chine : examens, prescriptions et poursuite des soins à domicile
 - **Category:** Guides du parcours patient
 - **Subcategory:** Myélome multiple
-- **Subtitle:** Quitter l’hôpital traitant ne met généralement pas fin aux soins du myélome.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Suivi du myélome après un traitement en Chine : examens, prescriptions et poursuite des soins à domicile
+- **Subtitle:** Après des soins du myélome en Chine, organisez les examens comparables, les prescriptions à poursuivre et la responsabilité des prochaines décisions médicales.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Prévoyez les prescriptions locales, les examens, les soins de soutien et les no
 ## SEO Metadata
 
 - **Primary keyword:** suivi du myélome multiple après traitement en Chine
+
+- **Meta title:** Suivi du myélome après un traitement en Chine : examens, prescriptions et poursuite des soins à domicile
+- **Meta description:** Après des soins du myélome en Chine, organisez les examens comparables, les prescriptions à poursuivre et la responsabilité des prochaines décisions médicales.

@@ -1,12 +1,14 @@
-# Berapa lama pengobatan anemia aplastik: rawat inap, respons, penurunan dosis, dan kembali ke rumah
+# Pengobatan Anemia Aplastik di Tiongkok: Perencanaan Waktu dan Perjalanan
 
 ## Hero
 
-- **Title:** Berapa lama pengobatan anemia aplastik: rawat inap, respons, penurunan dosis, dan kembali ke rumah
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Anemia Aplastik
-- **Subtitle:** Lama pengobatan dapat berarti berakhirnya rawat inap ATG, bebas transfusi, penghentian obat, atau kembali ke kota lain.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Anemia Aplastik di Tiongkok: Perencanaan Waktu dan Perjalanan
+- **Subtitle:** Rencanakan waktu perawatan anemia aplastik di Tiongkok dengan membedakan rawat inap, respons sumsum, dukungan transfusi, dan kesiapan pulang.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Pada setiap tinjauan, tanyakan perubahan yang paling diharapkan tim pada penilai
 ## SEO Metadata
 
 - **Primary keyword:** durasi pengobatan anemia aplastik
+
+- **Meta title:** Pengobatan Anemia Aplastik di Tiongkok: Perencanaan Waktu dan Perjalanan
+- **Meta description:** Rencanakan waktu perawatan anemia aplastik di Tiongkok dengan membedakan rawat inap, respons sumsum, dukungan transfusi, dan kesiapan pulang.

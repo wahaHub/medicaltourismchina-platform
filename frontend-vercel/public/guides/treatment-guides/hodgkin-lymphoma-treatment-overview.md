@@ -1,12 +1,14 @@
-# Hodgkin lymphoma treatment: decisions from diagnosis to recovery
+# Hodgkin Lymphoma Treatment in China: Diagnosis to Recovery
 
 ## Hero
 
-- **Title:** Hodgkin lymphoma treatment: decisions from diagnosis to recovery
 - **Category:** Treatment Guides
 - **Subcategory:** Hodgkin Lymphoma
-- **Subtitle:** Treatment for Hodgkin lymphoma is planned around both disease control and life after treatment.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Hodgkin Lymphoma Treatment in China: Diagnosis to Recovery
+- **Subtitle:** Understand Hodgkin lymphoma care from diagnosis through treatment and recovery, and turn a consultation in China into a usable care plan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -117,3 +119,6 @@ After treatment, ask for a survivorship plan that records anthracycline exposure
 ## SEO Metadata
 
 - **Primary keyword:** Hodgkin lymphoma treatment
+
+- **Meta title:** Hodgkin Lymphoma Treatment in China: Diagnosis to Recovery
+- **Meta description:** Understand Hodgkin lymphoma care from diagnosis through treatment and recovery, and turn a consultation in China into a usable care plan.

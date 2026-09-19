@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Biaya pengobatan DLBCL di Tiongkok: menyusun anggaran terperinci dalam yuan
 - **Category:** Panduan Biaya & Asuransi
 - **Subcategory:** Limfoma Sel B Besar Difus
-- **Subtitle:** Biaya pengobatan DLBCL di Tiongkok: menyusun anggaran terperinci dalam yuan
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Biaya pengobatan DLBCL di Tiongkok: menyusun anggaran terperinci dalam yuan
+- **Subtitle:** Siapkan estimasi DLBCL di Tiongkok berdasarkan regimen, dosis, siklus, dan rawat inap. Periksa biaya pemeriksaan, perawatan suportif, serta komplikasi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,3 +143,6 @@ Saat selesai, dapatkan rincian biaya aktual dan ringkasan klinis yang membedakan
 ## SEO Metadata
 
 - **Primary keyword:** Biaya pengobatan DLBCL di Tiongkok
+
+- **Meta title:** Biaya pengobatan DLBCL di Tiongkok: menyusun anggaran terperinci dalam yuan
+- **Meta description:** Siapkan estimasi DLBCL di Tiongkok berdasarkan regimen, dosis, siklus, dan rawat inap. Periksa biaya pemeriksaan, perawatan suportif, serta komplikasi.

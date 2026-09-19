@@ -1,15 +1,17 @@
-# 049 Epilepsieabklärung und -chirurgie: Den Versorgungsweg verstehen
+# Epilepsiechirurgische Abklärung in China: Untersuchungen und Nachsorge
 
 ## Hero
 
-- **Title:** Epilepsieabklärung und -chirurgie: Den Versorgungsweg verstehen
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Neurologie & Neurochirurgie
-- **Subtitle:** Verstehen Sie, was ein Epilepsiezentrum nachweisen muss, bevor es Resektion, Ablation oder Neurostimulation empfehlen kann.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Patient bespricht eine auf das Gehirn gerichtete Epilepsieabklärung mit einem Neurologen und einem Mitglied des neurochirurgischen Teams
+
+
+- **Title:** Epilepsiechirurgische Abklärung in China: Untersuchungen und Nachsorge
+- **Subtitle:** Pharmakoresistente Epilepsie, Video-EEG, MRT, Neuropsychologie, intrakranielles EEG, Operation, Stimulation und grenzüberschreitende Nachsorge verstehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Nehmen Sie nach einer Auslandsbehandlung anfallssuppressive Medikamente weiter, sofern das Epilepsieteam nichts ändert. Bringen Sie aufgezeichnete Ereignisdaten, Bildgebung, Elektrodenkarte, Operationsbericht, Pathologie, Gerätedetails und einen Anfallssicherheitsplan mit nach Hause.
 
 ## Content
+
+Wenn Sie eine epilepsiechirurgische Abklärung in China anstreben, bereiten Sie sich auf eine Beurteilung vor, statt davon auszugehen, dass eine Operation folgen wird. Das aufnehmende Team benötigt den Anfallsverlauf, frühere Medikamentenversuche, Bildgebung und EEG-Unterlagen sowie einen Plan für die weitere Versorgung nach der Heimkehr.
+
 
 Epilepsiechirurgie beginnt mit Zweifeln, nicht mit einer OP-Buchung. Das Team muss zunächst prüfen, ob die Ereignisse epileptische Anfälle sind, sie klassifizieren, das Versagen der Medikamente verstehen, das anfallserzeugende Netzwerk lokalisieren und abschätzen, was eine Behandlung schädigen und was sie verbessern könnte.
 
@@ -189,13 +194,15 @@ Meist nicht. Medikamentenänderungen hängen von Epilepsietyp, Eingriff, postope
 ## SEO Metadata
 
 - **Slug:** `epilepsy-evaluation-and-surgery-understanding-the-care-pathway`
-- **Meta title:** Epilepsiechirurgische Abklärung | Tests, Optionen und Nachsorge
-- **Meta description:** Pharmakoresistente Epilepsie, Video-EEG, MRT, Neuropsychologie, intrakranielles EEG, Operation, Stimulation und grenzüberschreitende Nachsorge verstehen.
 - **Primary keyword:** epilepsiechirurgische Abklärung
 - **Pillar keyword:** Behandlung pharmakoresistenter Epilepsie
 - **Vertical keyword:** Neurologie und Neurochirurgie
 - **Search intent:** präoperative Abklärung / Behandlungsvergleich
 - **Secondary keywords:** Video-EEG-Monitoring; MRT mit Epilepsieprotokoll; Stereo-EEG; Epilepsieablation; Neurostimulation bei Epilepsie
+
+
+- **Meta title:** Epilepsiechirurgische Abklärung in China: Untersuchungen und Nachsorge
+- **Meta description:** Pharmakoresistente Epilepsie, Video-EEG, MRT, Neuropsychologie, intrakranielles EEG, Operation, Stimulation und grenzüberschreitende Nachsorge verstehen.
 
 ## Quellen
 

@@ -1,12 +1,14 @@
-# Tests for suspected thalassemia: moving from a blood count to hemoglobin and genetic confirmation
+# Thalassemia Diagnosis in China: Blood and Genetic Tests
 
 ## Hero
 
-- **Title:** Tests for suspected thalassemia: moving from a blood count to hemoglobin and genetic confirmation
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Thalassemia
-- **Subtitle:** A small red-cell size on a routine blood count, persistent pallor in a child, and a positive carrier result during pregnancy lead to different clinical questions.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Thalassemia Diagnosis in China: Blood and Genetic Tests
+- **Subtitle:** Understand thalassemia blood, hemoglobin and genetic testing, and coordinate a diagnostic review before travelling to China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,3 +142,6 @@ Marked breathlessness, fainting, or an acutely unwell child requires assessment 
 ## SEO Metadata
 
 - **Primary keyword:** thalassemia diagnosis; thalassemia screening; hemoglobin analysis; genetic testing; microcytic anemia
+
+- **Meta title:** Thalassemia Diagnosis in China: Blood and Genetic Tests
+- **Meta description:** Understand thalassemia blood, hemoglobin and genetic testing, and coordinate a diagnostic review before travelling to China.

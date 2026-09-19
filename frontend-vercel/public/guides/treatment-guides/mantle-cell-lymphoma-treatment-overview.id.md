@@ -1,12 +1,14 @@
-# Bagaimana limfoma sel mantel diobati? Panduan praktis dari observasi hingga pengobatan setelah kekambuhan
+# Pengobatan Limfoma Sel Mantel di Tiongkok: Pilihan Menurut Tahap Perawatan
 
 ## Hero
 
-- **Title:** Bagaimana limfoma sel mantel diobati? Panduan praktis dari observasi hingga pengobatan setelah kekambuhan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel Mantel
-- **Subtitle:** Pencarian terkait: pilihan pengobatan MCL; perawatan limfoma sel mantel di Tiongkok
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Limfoma Sel Mantel di Tiongkok: Pilihan Menurut Tahap Perawatan
+- **Subtitle:** Pahami pilihan limfoma sel mantel di Tiongkok menurut tahap perawatan. Bahas observasi, kebugaran, terapi awal, serta keputusan setelah kekambuhan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Jika kondisi berubah cepat saat mengatur perawatan internasional, tangani risiko
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan limfoma sel mantel
+
+- **Meta title:** Pengobatan Limfoma Sel Mantel di Tiongkok: Pilihan Menurut Tahap Perawatan
+- **Meta description:** Pahami pilihan limfoma sel mantel di Tiongkok menurut tahap perawatan. Bahas observasi, kebugaran, terapi awal, serta keputusan setelah kekambuhan.

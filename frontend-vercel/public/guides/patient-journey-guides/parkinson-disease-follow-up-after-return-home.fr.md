@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Suivi de Parkinson après traitement en Chine : prescriptions, dispositifs et fonctionnement quotidien à domicile
 - **Category:** Guides du parcours patient
 - **Subcategory:** Maladie de Parkinson
-- **Subtitle:** La première réévaluation après le retour doit examiner si le plan établi en Chine fonctionne dans la vie ordinaire.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Suivi de Parkinson après traitement en Chine : prescriptions, dispositifs et fonctionnement quotidien à domicile
+- **Subtitle:** Après des soins de Parkinson en Chine, coordonnez prescriptions, réglages de stimulation, approvisionnement des dispositifs et évaluation de l’autonomie à domicile.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Un plan efficace à domicile indique quelle ordonnance suivre aujourd’hui, ce 
 ## SEO Metadata
 
 - **Primary keyword:** suivi de la maladie de Parkinson après retour de Chine
+
+- **Meta title:** Suivi de Parkinson après traitement en Chine : prescriptions, dispositifs et fonctionnement quotidien à domicile
+- **Meta description:** Après des soins de Parkinson en Chine, coordonnez prescriptions, réglages de stimulation, approvisionnement des dispositifs et évaluation de l’autonomie à domicile.

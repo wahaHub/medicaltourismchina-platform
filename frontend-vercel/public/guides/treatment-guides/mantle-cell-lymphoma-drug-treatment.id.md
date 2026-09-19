@@ -1,12 +1,14 @@
-# Obat untuk limfoma sel mantel: indikasi di Tiongkok, inhibitor BTK, dan pilihan pengobatan yang lebih baru
+# Obat Limfoma Sel Mantel di Tiongkok: Akses dan Pemantauan
 
 ## Hero
 
-- **Title:** Obat untuk limfoma sel mantel: indikasi di Tiongkok, inhibitor BTK, dan pilihan pengobatan yang lebih baru
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel Mantel
-- **Subtitle:** Pencarian terkait: obat bertarget MCL; pirtobrutinib; sonrotoclax; obat MCL di Tiongkok
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat Limfoma Sel Mantel di Tiongkok: Akses dan Pemantauan
+- **Subtitle:** Pahami obat limfoma sel mantel, termasuk penghambat BTK, sesuai indikasi dan riwayat terapi. Periksa akses serta pemantauan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Rencana resep yang dapat digunakan menjelaskan apa yang Anda konsumsi, mengapa d
 ## SEO Metadata
 
 - **Primary keyword:** obat untuk limfoma sel mantel
+
+- **Meta title:** Obat Limfoma Sel Mantel di Tiongkok: Akses dan Pemantauan
+- **Meta description:** Pahami obat limfoma sel mantel, termasuk penghambat BTK, sesuai indikasi dan riwayat terapi. Periksa akses serta pemantauan di Tiongkok.

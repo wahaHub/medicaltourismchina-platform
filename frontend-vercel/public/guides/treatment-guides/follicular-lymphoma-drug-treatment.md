@@ -1,12 +1,14 @@
-# Medicines for follicular lymphoma: understanding the regimen, treatment line and monitoring
+# Follicular Lymphoma Medicines in China: Regimens and Monitoring
 
 ## Hero
 
-- **Title:** Medicines for follicular lymphoma: understanding the regimen, treatment line and monitoring
 - **Category:** Treatment Guides
 - **Subcategory:** Follicular Lymphoma
-- **Subtitle:** Follicular lymphoma medicines cannot be ranked as good or bad simply by calling them chemotherapy, targeted therapy or immunotherapy.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Follicular Lymphoma Medicines in China: Regimens and Monitoring
+- **Subtitle:** Understand follicular lymphoma medicines by regimen, treatment line and monitoring needs, and verify the full medication pathway in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Retain actual administration records and adverse events, including generic name,
 ## SEO Metadata
 
 - **Primary keyword:** follicular lymphoma drug treatment
+
+- **Meta title:** Follicular Lymphoma Medicines in China: Regimens and Monitoring
+- **Meta description:** Understand follicular lymphoma medicines by regimen, treatment line and monitoring needs, and verify the full medication pathway in China.

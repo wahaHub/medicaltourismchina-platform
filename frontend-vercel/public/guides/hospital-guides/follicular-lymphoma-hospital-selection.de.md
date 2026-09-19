@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Ein Krankenhaus für follikuläres Lymphom in China auswählen: Das Team auf die benötigte Entscheidung abstimmen
 - **Category:** Krankenhausleitfäden
 - **Subcategory:** Follikuläres Lymphom
-- **Subtitle:** Die Krankenhaussuche wird leichter, wenn sie mit einer klinischen Frage beginnt.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Ein Krankenhaus für follikuläres Lymphom in China auswählen: Das Team auf die benötigte Entscheidung abstimmen
+- **Subtitle:** Ein Krankenhaus für follikuläres Lymphom in China auswählen: Diagnosesicherung, Behandlungsbedarf, Bestrahlung und fortlaufende Betreuung gezielt hinterfragen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Das nützlichste Krankenhaus für einen Menschen mit follikulärem Lymphom passt
 ## SEO Metadata
 
 - **Primary keyword:** Krankenhausauswahl bei follikulärem Lymphom in China
+
+- **Meta title:** Ein Krankenhaus für follikuläres Lymphom in China auswählen: Das Team auf die benötigte Entscheidung abstimmen
+- **Meta description:** Ein Krankenhaus für follikuläres Lymphom in China auswählen: Diagnosesicherung, Behandlungsbedarf, Bestrahlung und fortlaufende Betreuung gezielt hinterfragen.

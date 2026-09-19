@@ -1,12 +1,14 @@
-# Pengobatan limfoma Hodgkin: keputusan dari diagnosis hingga pemulihan
+# Pengobatan Limfoma Hodgkin di Tiongkok: Dari Diagnosis hingga Pemulihan
 
 ## Hero
 
-- **Title:** Pengobatan limfoma Hodgkin: keputusan dari diagnosis hingga pemulihan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Hodgkin
-- **Subtitle:** Pengobatan limfoma Hodgkin direncanakan dengan mempertimbangkan pengendalian penyakit dan kehidupan setelah pengobatan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Limfoma Hodgkin di Tiongkok: Dari Diagnosis hingga Pemulihan
+- **Subtitle:** Pahami perjalanan pengobatan limfoma Hodgkin di Tiongkok, dari konfirmasi diagnosis dan stadium hingga pemilihan regimen, radiasi, serta pemulihan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -117,3 +119,6 @@ Setelah pengobatan, mintalah rencana perawatan penyintas yang mencatat paparan a
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan limfoma Hodgkin
+
+- **Meta title:** Pengobatan Limfoma Hodgkin di Tiongkok: Dari Diagnosis hingga Pemulihan
+- **Meta description:** Pahami perjalanan pengobatan limfoma Hodgkin di Tiongkok, dari konfirmasi diagnosis dan stadium hingga pemilihan regimen, radiasi, serta pemulihan.

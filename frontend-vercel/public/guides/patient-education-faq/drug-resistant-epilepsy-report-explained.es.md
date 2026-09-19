@@ -1,12 +1,14 @@
-# Comprender los informes de epilepsia farmacorresistente: hallazgos de EEG, lesiones en RM y la opinión prequirúrgica final
+# Informes de epilepsia farmacorresistente: revisión especializada en China
 
 ## Hero
 
-- **Title:** Comprender los informes de epilepsia farmacorresistente: hallazgos de EEG, lesiones en RM y la opinión prequirúrgica final
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Epilepsia farmacorresistente
-- **Subtitle:** Puede parecer contradictorio que un EEG describa descargas, una RM se informe como normal y el médico siga recomendando más evaluación.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Informes de epilepsia farmacorresistente: revisión especializada en China
+- **Subtitle:** Distinga descripción e interpretación en EEG, resonancia y evaluación prequirúrgica de epilepsia farmacorresistente para una revisión especializada en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -157,3 +159,6 @@ Prepare una lista de una página con términos preocupantes y conclusiones apare
 ## SEO Metadata
 
 - **Primary keyword:** interpretación de informes de epilepsia farmacorresistente; puntas en EEG; informe de esclerosis hipocampal; epilepsia con RM negativa; segunda opinión en China
+
+- **Meta title:** Informes de epilepsia farmacorresistente: revisión especializada en China
+- **Meta description:** Distinga descripción e interpretación en EEG, resonancia y evaluación prequirúrgica de epilepsia farmacorresistente para una revisión especializada en China.

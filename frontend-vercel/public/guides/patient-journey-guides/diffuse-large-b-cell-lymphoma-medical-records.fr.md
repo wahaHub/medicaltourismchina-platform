@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Dossier médical pour une consultation de LDGCB en Chine : guide pratique de préparation
 - **Category:** Guides du parcours patient
 - **Subcategory:** Lymphome diffus à grandes cellules B
-- **Subtitle:** Un second avis sur un LDGCB est difficile lorsque le dossier se limite à une capture d’écran du diagnostic, quelques photographies de TEP et un souvenir de la chimiothérapie.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dossier médical pour une consultation de LDGCB en Chine : guide pratique de préparation
+- **Subtitle:** Préparez un dossier de LDGCB pour la Chine : question clinique, anatomopathologie complète, accès aux prélèvements, images DICOM et doses réellement reçues.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Avant la consultation, établissez une courte liste des informations manquantes 
 ## SEO Metadata
 
 - **Primary keyword:** dossier médical de LDGCB pour une consultation en Chine
+
+- **Meta title:** Dossier médical pour une consultation de LDGCB en Chine : guide pratique de préparation
+- **Meta description:** Préparez un dossier de LDGCB pour la Chine : question clinique, anatomopathologie complète, accès aux prélèvements, images DICOM et doses réellement reçues.

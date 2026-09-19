@@ -1,12 +1,14 @@
-# Side effects of aplastic anemia treatment: what needs review and what needs urgent care
+# Aplastic Anemia Care in China: Side Effects and Urgent Help
 
 ## Hero
 
-- **Title:** Side effects of aplastic anemia treatment: what needs review and what needs urgent care
 - **Category:** Treatment Guides
 - **Subcategory:** Aplastic Anemia
-- **Subtitle:** When symptoms appear during treatment, patients need to know whether to mention them at review or seek help now.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Aplastic Anemia Care in China: Side Effects and Urgent Help
+- **Subtitle:** Recognize aplastic anemia treatment side effects and urgent changes, and include complication support in the plan for care in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Separate routine therapy from potentially additional tests, components, anti-inf
 ## SEO Metadata
 
 - **Primary keyword:** aplastic anemia treatment side effects
+
+- **Meta title:** Aplastic Anemia Care in China: Side Effects and Urgent Help
+- **Meta description:** Recognize aplastic anemia treatment side effects and urgent changes, and include complication support in the plan for care in China.

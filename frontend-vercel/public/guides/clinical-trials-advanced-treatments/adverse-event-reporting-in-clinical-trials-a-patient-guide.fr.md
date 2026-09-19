@@ -1,15 +1,17 @@
-# 094 Signalement des événements indésirables dans les essais cliniques : guide du patient
+# Essais cliniques en Chine : signaler les événements indésirables
 
 ## Hero
 
-- **Title:** Signalement des événements indésirables dans les essais cliniques : guide du patient
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Sécurité des participants et signalement
-- **Subtitle:** Que signaler, qui informer et comment préserver les soins lorsqu'un événement survient loin du centre d'essai.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** L'image provisoire actuelle montre une conversation ordinaire à l'accueil et attend une illustration spécialement conçue pour le signalement des événements indésirables.
+
+
+- **Title:** Essais cliniques en Chine : signaler les événements indésirables
+- **Subtitle:** Découvrez ce que les participants doivent signaler, la distinction entre événements sévères et graves, les étapes urgentes, les rôles du centre et du promoteur et le suivi transfrontalier.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -187,11 +189,13 @@ Oui, la participation est volontaire. Demandez à l'équipe de distinguer arrêt
 ## SEO Metadata
 
 - **Slug:** `adverse-event-reporting-in-clinical-trials-a-patient-guide`
-- **Meta title:** Signalement des événements indésirables des essais cliniques : guide du patient
-- **Meta description:** Découvrez ce que les participants doivent signaler, la distinction entre événements sévères et graves, les étapes urgentes, les rôles du centre et du promoteur et le suivi transfrontalier.
 - **Primary keyword:** signalement des événements indésirables des essais cliniques
 - **Secondary keywords:** événement indésirable et événement indésirable grave ; signalement EIG Chine ; guide patient SUSAR ; contact d'urgence essai clinique ; suivi de sécurité d'essai
 - **Search intent:** sécurité des participants et signalement des événements indésirables
+
+
+- **Meta title:** Essais cliniques en Chine : signaler les événements indésirables
+- **Meta description:** Découvrez ce que les participants doivent signaler, la distinction entre événements sévères et graves, les étapes urgentes, les rôles du centre et du promoteur et le suivi transfrontalier.
 
 ## Sources
 

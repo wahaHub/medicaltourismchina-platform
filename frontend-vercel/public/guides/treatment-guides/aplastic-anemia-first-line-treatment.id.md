@@ -1,12 +1,14 @@
-# Pengobatan lini pertama untuk anemia aplastik berat: transplantasi atau terapi berbasis ATG
+# Anemia Aplastik Berat di Tiongkok: Pilihan Pengobatan Lini Pertama
 
 ## Hero
 
-- **Title:** Pengobatan lini pertama untuk anemia aplastik berat: transplantasi atau terapi berbasis ATG
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Anemia Aplastik
-- **Subtitle:** Pasien yang baru didiagnosis anemia aplastik berat mungkin disarankan menjalani transplantasi atau memulai pengobatan berbasis ATG.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Anemia Aplastik Berat di Tiongkok: Pilihan Pengobatan Lini Pertama
+- **Subtitle:** Pahami pilihan lini pertama anemia aplastik berat di Tiongkok. Bahas transplantasi dan terapi berbasis ATG sesuai donor, kondisi, serta tujuan perawatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -111,3 +113,6 @@ Mintalah penawaran biaya dalam renminbi untuk jalur yang dipilih. Untuk imunosup
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan lini pertama anemia aplastik berat
+
+- **Meta title:** Anemia Aplastik Berat di Tiongkok: Pilihan Pengobatan Lini Pertama
+- **Meta description:** Pahami pilihan lini pertama anemia aplastik berat di Tiongkok. Bahas transplantasi dan terapi berbasis ATG sesuai donor, kondisi, serta tujuan perawatan.

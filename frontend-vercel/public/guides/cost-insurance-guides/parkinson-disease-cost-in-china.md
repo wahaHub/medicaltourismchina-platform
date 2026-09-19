@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Parkinson’s Treatment Costs in China: Medication, DBS and the Expenses After Treatment
 - **Category:** Cost & Insurance Guides
 - **Subcategory:** Parkinson Disease
-- **Subtitle:** The cost of Parkinson’s care depends on the problem being addressed.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Parkinson’s Treatment Costs in China: Medication, DBS and the Expenses After Treatment
+- **Subtitle:** Compare Parkinson’s care costs in China across assessment, medicines, DBS-related services and continuing needs after the hospital visit.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Keep the hospital’s formal name, quotation date, validity period, currency, pa
 ## SEO Metadata
 
 - **Primary keyword:** Parkinson’s disease treatment cost in China
+
+- **Meta title:** Parkinson’s Treatment Costs in China: Medication, DBS and the Expenses After Treatment
+- **Meta description:** Compare Parkinson’s care costs in China across assessment, medicines, DBS-related services and continuing needs after the hospital visit.

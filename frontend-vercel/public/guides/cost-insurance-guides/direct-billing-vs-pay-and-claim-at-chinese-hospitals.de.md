@@ -1,15 +1,17 @@
-# 157 Direktabrechnung oder Kostenerstattung in China: Wählen Sie den Ausfall, den Sie bewältigen können
+# Krankenhausversicherung in China: Direktabrechnung oder Kostenerstattung
 
 ## Hero
 
-- **Title:** Direktabrechnung oder Kostenerstattung in China: Wählen Sie den Ausfall, den Sie bewältigen können
 - **Category:** Kosten- und Versicherungsleitfäden
 - **Subcategory:** Abläufe bei Versicherungszahlungen
-- **Subtitle:** Vergleichen Sie Vorfinanzierung, Anbieterwahl, Dokumentationsaufwand und Lösungen bei Problemen – nicht nur, ob ein Krankenhaus das Logo eines Versicherers zeigt.
 - **Reviewed by:** Medora Health Redaktion
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Ein Abrechnungskoordinator und ein internationaler Patient vergleichen Zahlungsunterlagen in einem chinesischen Krankenhaus.
+
+
+- **Title:** Krankenhausversicherung in China: Direktabrechnung oder Kostenerstattung
+- **Subtitle:** Vergleichen Sie Direktabrechnung und Kostenerstattung in China anhand von Vorfinanzierung, Anbieterwahl, Garantien, Antragsunterlagen, Ersatzplan und Doppelzahlungskontrolle.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -207,13 +209,15 @@ Informieren Sie Krankenhausfinanzabteilung und Versicherer mit Transaktionsrefer
 ## SEO Metadata
 
 - **Slug:** `direct-billing-vs-pay-and-claim-at-chinese-hospitals`
-- **Meta title:** Direktabrechnung oder Kostenerstattung in chinesischen Krankenhäusern
-- **Meta description:** Vergleichen Sie Direktabrechnung und Kostenerstattung in China anhand von Vorfinanzierung, Anbieterwahl, Garantien, Antragsunterlagen, Ersatzplan und Doppelzahlungskontrolle.
 - **Primary keyword:** Direktabrechnung oder Kostenerstattung China
 - **Pillar keyword:** Versicherung für Medizintourismus
 - **Vertical keyword:** Versicherungszahlung Krankenhaus China
 - **Search intent:** Zahlungsmethode / Erstattungsplanung
 - **Secondary keywords:** bargeldlose Krankenhausversicherung China; Vorleistung und Kostenerstattung China; Zahlungsgarantie Krankenhaus; Unterlagen medizinische Kostenerstattung China; doppelte Krankenhauszahlung
+
+
+- **Meta title:** Krankenhausversicherung in China: Direktabrechnung oder Kostenerstattung
+- **Meta description:** Vergleichen Sie Direktabrechnung und Kostenerstattung in China anhand von Vorfinanzierung, Anbieterwahl, Garantien, Antragsunterlagen, Ersatzplan und Doppelzahlungskontrolle.
 
 ## Quellen
 

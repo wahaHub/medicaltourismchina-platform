@@ -1,12 +1,14 @@
-# Rehabilitación después de un ictus isquémico: de la terapia hospitalaria a la vida cotidiana
+# Rehabilitación del ictus isquémico en China: del hospital al hogar
 
 ## Hero
 
-- **Title:** Rehabilitación después de un ictus isquémico: de la terapia hospitalaria a la vida cotidiana
 - **Category:** Guías de tratamiento
 - **Subcategory:** Rehabilitación después de un ictus isquémico
-- **Subtitle:** Después de un ictus isquémico, los familiares suelen preguntar si un brazo o una pierna se recuperarán.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rehabilitación del ictus isquémico en China: del hospital al hogar
+- **Subtitle:** Comprenda la rehabilitación del ictus isquémico en China desde la preparación médica hasta movilidad, deglución y práctica de actividades cotidianas en casa.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ La recuperación puede avanzar a velocidades distintas entre capacidades diferen
 ## SEO Metadata
 
 - **Primary keyword:** rehabilitación después de un ictus isquémico
+
+- **Meta title:** Rehabilitación del ictus isquémico en China: del hospital al hogar
+- **Meta description:** Comprenda la rehabilitación del ictus isquémico en China desde la preparación médica hasta movilidad, deglución y práctica de actividades cotidianas en casa.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Seguimiento tras la atención de la talasemia en China: asigne cada siguiente paso a un médico que pueda llevarlo a cabo
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Talasemia
-- **Subtitle:** Un plan de seguimiento solo es útil si puede funcionar donde vivirá el paciente.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Seguimiento tras la atención de la talasemia en China: asigne cada siguiente paso a un médico que pueda llevarlo a cabo
+- **Subtitle:** Asigne responsables a las transfusiones, la quelación y los controles de talasemia al volver de China, con un plan para las necesidades entre consultas.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -157,3 +159,6 @@ Conserve versiones fechadas después de cada cambio para que el siguiente médic
 ## SEO Metadata
 
 - **Primary keyword:** seguimiento de la talasemia tras el tratamiento en China; traspaso asistencial internacional; vigilancia de transfusiones y quelación; atención posterior al trasplante
+
+- **Meta title:** Seguimiento tras la atención de la talasemia en China: asigne cada siguiente paso a un médico que pueda llevarlo a cabo
+- **Meta description:** Asigne responsables a las transfusiones, la quelación y los controles de talasemia al volver de China, con un plan para las necesidades entre consultas.

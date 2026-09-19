@@ -1,15 +1,17 @@
-# Sécurité transfusionnelle : décider du besoin, choisir le composant adapté et surveiller le patient
+# Transfusions sanguines en Chine : consentement, compatibilité et sécurité
 
 ## Hero
 
-- **Title:** Sécurité transfusionnelle : décider du besoin, choisir le composant adapté et surveiller le patient
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Chirurgie et sécurité hospitalière
-- **Subtitle:** Guide patient sur les globules rouges, les plaquettes et le plasma, le consentement éclairé, le groupage et les épreuves de compatibilité, les contrôles d’identité au lit, les réactions transfusionnelles et les possibilités d’épargne sanguine.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Remplacement prévu montrant globules rouges, plaquettes et plasma, un échantillon patient étiqueté, les tests de compatibilité, la vérification d’identité au lit et la surveillance des réactions
+
+
+- **Title:** Transfusions sanguines en Chine : consentement, compatibilité et sécurité
+- **Subtitle:** Comprendre les composants sanguins, les indications de transfusion, le consentement, le groupage et la compatibilité, les signes de réaction et les alternatives de gestion du capital sanguin.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -181,11 +183,13 @@ Non. Ils peuvent réduire l’exposition dans les cas adaptés, surtout s’ils 
 
 ## SEO Metadata
 
-- **SEO title:** Sécurité transfusionnelle : consentement, compatibilité, réactions et alternatives
-- **Meta description:** Comprendre les composants sanguins, les indications de transfusion, le consentement, le groupage et la compatibilité, les signes de réaction et les alternatives de gestion du capital sanguin.
 - **Primary keyword:** sécurité transfusionnelle
 - **Secondary keywords:** consentement transfusionnel, compatibilité sanguine, réaction transfusionnelle, transfusion de globules rouges, gestion du capital sanguin, alternatives à la transfusion
 - **Suggested URL slug:** `/blood-transfusion-safety-consent-crossmatch-reactions-alternatives`
+
+
+- **Meta title:** Transfusions sanguines en Chine : consentement, compatibilité et sécurité
+- **Meta description:** Comprendre les composants sanguins, les indications de transfusion, le consentement, le groupage et la compatibilité, les signes de réaction et les alternatives de gestion du capital sanguin.
 
 ## Sources
 

@@ -1,12 +1,14 @@
-# Efek samping pengobatan limfoma Hodgkin: gejala mendesak dan masalah yang perlu dipantau
+# Perawatan Limfoma Hodgkin di Tiongkok: Efek Samping dan Pertolongan Segera
 
 ## Hero
 
-- **Title:** Efek samping pengobatan limfoma Hodgkin: gejala mendesak dan masalah yang perlu dipantau
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Hodgkin
-- **Subtitle:** Ketidaknyamanan selama pengobatan limfoma Hodgkin tidak boleh sekadar dibagi menjadi gejala yang dapat ditahan dan yang tidak dapat ditahan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Perawatan Limfoma Hodgkin di Tiongkok: Efek Samping dan Pertolongan Segera
+- **Subtitle:** Kenali demam, batuk, sesak, dan gejala lain selama pengobatan limfoma Hodgkin. Siapkan pemantauan serta rencana pertolongan dengan tim di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Setelah pengobatan berakhir, neuropati menetap, masalah jantung-paru, dan terapi
 ## SEO Metadata
 
 - **Primary keyword:** efek samping pengobatan limfoma Hodgkin
+
+- **Meta title:** Perawatan Limfoma Hodgkin di Tiongkok: Efek Samping dan Pertolongan Segera
+- **Meta description:** Kenali demam, batuk, sesak, dan gejala lain selama pengobatan limfoma Hodgkin. Siapkan pemantauan serta rencana pertolongan dengan tim di Tiongkok.

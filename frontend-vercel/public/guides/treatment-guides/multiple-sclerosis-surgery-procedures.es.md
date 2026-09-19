@@ -1,12 +1,14 @@
-# Procedimientos para la esclerosis múltiple: recambio plasmático, AHSCT y preparación antes del tratamiento
+# Procedimientos de esclerosis múltiple en China: recambio plasmático y evaluación de trasplante autólogo
 
 ## Hero
 
-- **Title:** Procedimientos para la esclerosis múltiple: recambio plasmático, AHSCT y preparación antes del tratamiento
 - **Category:** Guías de tratamiento
 - **Subcategory:** Esclerosis múltiple
-- **Subtitle:** La EM no suele tratarse mediante extirpación quirúrgica de una lesión concreta.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Procedimientos de esclerosis múltiple en China: recambio plasmático y evaluación de trasplante autólogo
+- **Subtitle:** Comprenda el papel del recambio plasmático y el trasplante autólogo en esclerosis múltiple, y qué evaluación requiere cada procedimiento en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Confirme qué etapas cubre la estimación, cómo se atenderán las complicacione
 ## SEO Metadata
 
 - **Primary keyword:** procedimientos y trasplante de células madre para la esclerosis múltiple
+
+- **Meta title:** Procedimientos de esclerosis múltiple en China: recambio plasmático y evaluación de trasplante autólogo
+- **Meta description:** Comprenda el papel del recambio plasmático y el trasplante autólogo en esclerosis múltiple, y qué evaluación requiere cada procedimiento en China.

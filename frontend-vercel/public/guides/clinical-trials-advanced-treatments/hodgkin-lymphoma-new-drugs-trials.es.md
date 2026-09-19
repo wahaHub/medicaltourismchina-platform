@@ -1,12 +1,14 @@
-# Nuevos fármacos y ensayos clínicos para el linfoma de Hodgkin: distinguir la evidencia establecida de la investigación
+# Fármacos y ensayos para el linfoma de Hodgkin: acceso en China y evidencia
 
 ## Hero
 
-- **Title:** Nuevos fármacos y ensayos clínicos para el linfoma de Hodgkin: distinguir la evidencia establecida de la investigación
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Linfoma de Hodgkin
-- **Subtitle:** Una búsqueda de nuevos tratamientos para el linfoma de Hodgkin puede reunir en una misma pantalla un fármaco aprobado, una combinación respaldada por guías, un estudio celular inicial y un experimento de laboratorio.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Fármacos y ensayos para el linfoma de Hodgkin: acceso en China y evidencia
+- **Subtitle:** Distinga los tratamientos establecidos del linfoma de Hodgkin de las terapias en estudio y compruebe la elegibilidad y el acceso en un centro de China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ El valor de un nuevo enfoque depende conjuntamente de la evidencia, la elegibili
 ## SEO Metadata
 
 - **Primary keyword:** nuevos fármacos y ensayos clínicos para el linfoma de Hodgkin
+
+- **Meta title:** Fármacos y ensayos para el linfoma de Hodgkin: acceso en China y evidencia
+- **Meta description:** Distinga los tratamientos establecidos del linfoma de Hodgkin de las terapias en estudio y compruebe la elegibilidad y el acceso en un centro de China.

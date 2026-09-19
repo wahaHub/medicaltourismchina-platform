@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Cuánto dura el tratamiento de la talasemia? Ciclos transfusionales, evaluación de medicamentos y tiempo necesario en China
 - **Category:** Guías de tratamiento
 - **Subcategory:** Talasemia
-- **Subtitle:** Preguntar cuánto dura el tratamiento puede referirse a la duración de una consulta, a la posibilidad de dejar la medicación en el futuro o al momento en que alguien puede viajar a casa después de un trasplante.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Cuánto dura el tratamiento de la talasemia? Ciclos transfusionales, evaluación de medicamentos y tiempo necesario en China
+- **Subtitle:** Planifique la atención de talasemia en China distinguiendo transfusiones periódicas, quelación, evaluación de medicamentos y necesidades de estancia.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -147,3 +149,6 @@ La duración del tratamiento varía según la intervención y la evolución indi
 ## SEO Metadata
 
 - **Primary keyword:** duración del tratamiento de la talasemia; intervalos transfusionales; tiempo de recuperación del trasplante; estancia de tratamiento en China
+
+- **Meta title:** ¿Cuánto dura el tratamiento de la talasemia? Ciclos transfusionales, evaluación de medicamentos y tiempo necesario en China
+- **Meta description:** Planifique la atención de talasemia en China distinguiendo transfusiones periódicas, quelación, evaluación de medicamentos y necesidades de estancia.

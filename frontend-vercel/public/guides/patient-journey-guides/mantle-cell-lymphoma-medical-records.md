@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Preparing Mantle Cell Lymphoma Records for a Consultation in China
 - **Category:** Patient Journey Guides
 - **Subcategory:** Mantle Cell Lymphoma
-- **Subtitle:** A family can send hundreds of scanned pages and still leave a lymphoma specialist unable to answer a basic question: why was the last treatment stopped?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Preparing Mantle Cell Lymphoma Records for a Consultation in China
+- **Subtitle:** Prepare mantle cell lymphoma records for China, including pathology, risk findings, treatment lines and transplant or CAR-T details when relevant.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ Before leaving China, apply the same method to the new records: add the revised 
 ## SEO Metadata
 
 - **Primary keyword:** mantle cell lymphoma medical records for China consultation
+
+- **Meta title:** Preparing Mantle Cell Lymphoma Records for a Consultation in China
+- **Meta description:** Prepare mantle cell lymphoma records for China, including pathology, risk findings, treatment lines and transplant or CAR-T details when relevant.

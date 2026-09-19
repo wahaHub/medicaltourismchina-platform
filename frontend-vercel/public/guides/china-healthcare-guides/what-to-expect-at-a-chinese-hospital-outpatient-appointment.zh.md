@@ -1,15 +1,17 @@
-# 在中国医院看门诊会经历什么
+# 中国医院门诊就医：就诊流程与准备
 
 ## Hero
 
-- **Title:** 在中国医院看门诊会经历什么
 - **Category:** 中国医疗指南
 - **Subcategory:** 门诊就医
-- **Subtitle:** 中国门诊往往由多个短环节组成：身份核验、问诊、缴费、检查、取结果和再次决策，而不是一场持续很久的单次预约。
 - **Reviewed by:** Medora Health 编辑团队；发布前需由熟悉中国医疗体系的专业人员复核
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 国际患者与陪同者在中国医院门诊与医生交流
+
+
+- **Title:** 中国医院门诊就医：就诊流程与准备
+- **Subtitle:** 从护照签到、问诊到检查、缴费、药房、取结果和复诊，了解中国医院门诊完整流程。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,13 +152,15 @@
 ## SEO Metadata
 
 - **Slug:** `chinese-hospital-outpatient-appointment`
-- **Meta title:** 在中国医院看门诊会经历什么：国际患者指南
-- **Meta description:** 从护照签到、问诊到检查、缴费、药房、取结果和复诊，了解中国医院门诊完整流程。
 - **Primary keyword:** 中国医院门诊流程
 - **Pillar keyword:** 国际患者在中国就医
 - **Vertical keyword:** 外国患者中国门诊
 - **Search intent:** 实操 / 就诊准备
 - **Secondary keywords:** 中国医院看门诊；中国门诊就医；国际患者赴华门诊
+
+
+- **Meta title:** 中国医院门诊就医：就诊流程与准备
+- **Meta description:** 从护照签到、问诊到检查、缴费、药房、取结果和复诊，了解中国医院门诊完整流程。
 
 ## Sources
 

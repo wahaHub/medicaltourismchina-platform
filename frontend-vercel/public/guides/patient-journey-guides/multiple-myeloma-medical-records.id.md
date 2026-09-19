@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Rekam medis untuk perawatan mieloma di Tiongkok: mendokumentasikan diagnosis, resistansi, dan kesiapan pengobatan
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Mieloma Multipel
-- **Subtitle:** Surat diagnosis saja jarang memungkinkan tim baru menentukan langkah berikutnya.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rekam medis untuk perawatan mieloma di Tiongkok: mendokumentasikan diagnosis, resistansi, dan kesiapan pengobatan
+- **Subtitle:** Siapkan rekam medis mieloma untuk perawatan di Tiongkok dengan bukti diagnosis, genetika, riwayat terapi, resistansi, dan kesiapan pengobatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Perbarui ringkasan sebelum keberangkatan dengan pengobatan terakhir dan gejala b
 ## SEO Metadata
 
 - **Primary keyword:** rekam medis untuk pengobatan mieloma multipel di Tiongkok
+
+- **Meta title:** Rekam medis untuk perawatan mieloma di Tiongkok: mendokumentasikan diagnosis, resistansi, dan kesiapan pengobatan
+- **Meta description:** Siapkan rekam medis mieloma untuk perawatan di Tiongkok dengan bukti diagnosis, genetika, riwayat terapi, resistansi, dan kesiapan pengobatan.

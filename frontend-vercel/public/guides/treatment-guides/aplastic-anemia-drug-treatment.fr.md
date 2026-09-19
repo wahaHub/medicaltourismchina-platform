@@ -1,12 +1,14 @@
-# Médicaments de l’aplasie médullaire : comprendre l’ATG, la ciclosporine et l’eltrombopag
+# Médicaments de l’aplasie médullaire en Chine : ATG, ciclosporine et autres options
 
 ## Hero
 
-- **Title:** Médicaments de l’aplasie médullaire : comprendre l’ATG, la ciclosporine et l’eltrombopag
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Aplasie médullaire
-- **Subtitle:** Les médicaments d’une personne ayant une aplasie médullaire peuvent comprendre un traitement au long cours, une prévention des infections et de courtes cures contre des symptômes ou des effets indésirables.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Médicaments de l’aplasie médullaire en Chine : ATG, ciclosporine et autres options
+- **Subtitle:** Comprenez les rôles de l’ATG, de la ciclosporine et de l’eltrombopag dans l’aplasie médullaire, leurs interactions et leur surveillance pour des soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ Un budget détaillé en renminbis doit distinguer l’ATG et son administration,
 ## SEO Metadata
 
 - **Primary keyword:** traitement médicamenteux de l’aplasie médullaire
+
+- **Meta title:** Médicaments de l’aplasie médullaire en Chine : ATG, ciclosporine et autres options
+- **Meta description:** Comprenez les rôles de l’ATG, de la ciclosporine et de l’eltrombopag dans l’aplasie médullaire, leurs interactions et leur surveillance pour des soins en Chine.

@@ -1,12 +1,14 @@
-# Tests for Suspected ALS: What Examination, EMG, Imaging, and Genetics Can Establish
+# ALS Diagnostic Review in China: Examination, EMG and Tests
 
 ## Hero
 
-- **Title:** Tests for Suspected ALS: What Examination, EMG, Imaging, and Genetics Can Establish
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Amyotrophic Lateral Sclerosis
-- **Subtitle:** Progressive hand weakness, repeated tripping, or a change in speech may lead to an assessment for amyotrophic lateral sclerosis.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ALS Diagnostic Review in China: Examination, EMG and Tests
+- **Subtitle:** Understand examination, EMG, imaging and genetic tests for suspected ALS, and organize a second opinion in China around the unresolved question.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ At the end of the assessment, the patient should understand the leading diagnosi
 ## SEO Metadata
 
 - **Primary keyword:** tests to diagnose amyotrophic lateral sclerosis
+
+- **Meta title:** ALS Diagnostic Review in China: Examination, EMG and Tests
+- **Meta description:** Understand examination, EMG, imaging and genetic tests for suspected ALS, and organize a second opinion in China around the unresolved question.

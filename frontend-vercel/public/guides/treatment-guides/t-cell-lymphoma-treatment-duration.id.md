@@ -1,12 +1,14 @@
-# Berapa lama pengobatan limfoma sel T? Merencanakan siklus, penilaian, transplantasi, dan perjalanan
+# Pengobatan Limfoma Sel T di Tiongkok: Siklus dan Perencanaan Perjalanan
 
 ## Hero
 
-- **Title:** Berapa lama pengobatan limfoma sel T? Merencanakan siklus, penilaian, transplantasi, dan perjalanan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel T
-- **Subtitle:** Pertanyaan tentang lamanya pengobatan dapat berarti durasi infus, waktu sebelum pulang, atau saat pekerjaan dapat dilanjutkan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Limfoma Sel T di Tiongkok: Siklus dan Perencanaan Perjalanan
+- **Subtitle:** Rencanakan waktu pengobatan limfoma sel T di Tiongkok menurut subtipe, siklus, evaluasi respons, transplantasi, dan kesiapan perjalanan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ Cantumkan tanggal versi pada jadwal dan ganti salinan yang sudah usang. Ketika r
 ## SEO Metadata
 
 - **Primary keyword:** durasi pengobatan limfoma sel T
+
+- **Meta title:** Pengobatan Limfoma Sel T di Tiongkok: Siklus dan Perencanaan Perjalanan
+- **Meta description:** Rencanakan waktu pengobatan limfoma sel T di Tiongkok menurut subtipe, siklus, evaluasi respons, transplantasi, dan kesiapan perjalanan.

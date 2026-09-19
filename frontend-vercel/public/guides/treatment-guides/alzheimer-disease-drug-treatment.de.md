@@ -1,12 +1,14 @@
-# Medikamente bei Alzheimer: Kognitive Symptome, Antikörper und Behandlung von Agitation
+# Alzheimer-Medikamente in China: Optionen, Zugang und Überwachung
 
 ## Hero
 
-- **Title:** Medikamente bei Alzheimer: Kognitive Symptome, Antikörper und Behandlung von Agitation
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Alzheimer-Krankheit
-- **Subtitle:** Eine Alzheimer-Verordnung kann Medikamente für die Kognition, zur Behandlung anderer Erkrankungen und gegen belastendes Verhalten enthalten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Alzheimer-Medikamente in China: Optionen, Zugang und Überwachung
+- **Subtitle:** Alzheimer-Medikamente für eine Versorgung in China einordnen: Symptomlinderung, Antikörperbehandlung, Agitation, persönliche Eignung und Kontrollen unterscheiden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -143,3 +145,6 @@ Der Wert der Verordnung hängt teilweise davon ab, ob diese Vorkehrungen aufrech
 ## SEO Metadata
 
 - **Primary keyword:** Medikamente bei Alzheimer-Krankheit
+
+- **Meta title:** Alzheimer-Medikamente in China: Optionen, Zugang und Überwachung
+- **Meta description:** Alzheimer-Medikamente für eine Versorgung in China einordnen: Symptomlinderung, Antikörperbehandlung, Agitation, persönliche Eignung und Kontrollen unterscheiden.

@@ -1,15 +1,17 @@
-# Ringkasan Medis Satu Halaman untuk Perawatan di Luar Negeri: Manfaatkan Menit Pertama
+# Ringkasan Medis untuk Perawatan di Tiongkok: Panduan Templat Satu Halaman
 
 ## Hero
 
-- **Title:** Ringkasan Medis Satu Halaman untuk Perawatan di Luar Negeri: Manfaatkan Menit Pertama
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Pengambilan Keputusan Pasien & Dukungan Pendamping
-- **Subtitle:** Metode per kolom untuk mengubah riwayat medis yang tersebar menjadi serah terima yang ringkas, bertanggal, dan berguna secara klinis.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Pasien dan pendamping meninjau ringkasan medis singkat bersama dokter sebelum perawatan di luar negeri
+
+
+- **Title:** Ringkasan Medis untuk Perawatan di Tiongkok: Panduan Templat Satu Halaman
+- **Subtitle:** Susun ringkasan medis untuk perawatan di Tiongkok yang ringkas dengan pertanyaan rujukan, diagnosis, alergi, obat, hasil, perangkat, dan lampiran berindeks yang tepat.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Ringkasan tidak pernah menggantikan laporan asli, patologi, gambar DICOM, atau kemasan obat. Ringkasan perlu menunjuk berkas tersebut dengan indeks sederhana.
 
 ## Content
+
+Saat mengirim rekam medis ke rumah sakit di Tiongkok, letakkan ringkasan medis singkat di bagian depan kumpulan dokumen lengkap. Pastikan pertanyaan rujukan, diagnosis, alergi, obat, dan hasil pemeriksaan bertanggal mudah ditemukan, sambil tetap menyediakan laporan asli untuk tinjauan klinis.
+
 
 Di rumah sakit luar negeri, dokter pertama mungkin memiliki sepuluh menit, bahasa yang tidak dikenal, dan ratusan halaman unggahan. Ringkasan satu halaman yang baik memungkinkan orang tersebut memahami gambaran kasus sebelum membuka arsip. Ringkasan buruk menyembunyikan alasan rujukan di bawah setiap pemeriksaan normal yang pernah dijalani pasien.
 
@@ -176,11 +181,13 @@ Perbarui setelah perubahan bermakna pada diagnosis, obat, prosedur, hasil pemeri
 
 ## SEO Metadata
 
-- **SEO title:** Ringkasan Medis Satu Halaman untuk Perawatan di Luar Negeri: Panduan Templat
-- **Meta description:** Susun ringkasan medis luar negeri yang ringkas dengan pertanyaan rujukan, diagnosis, alergi, obat, hasil, perangkat, dan lampiran berindeks yang tepat.
 - **Primary keyword:** ringkasan medis satu halaman untuk perawatan di luar negeri
 - **Secondary keywords:** ringkasan medis pasien internasional, terjemahan riwayat medis, rekam pengobatan luar negeri, ringkasan pasien lintas negara, templat ringkasan medis
 - **Suggested URL slug:** `/one-page-medical-summary-overseas-care`
+
+
+- **Meta title:** Ringkasan Medis untuk Perawatan di Tiongkok: Panduan Templat Satu Halaman
+- **Meta description:** Susun ringkasan medis untuk perawatan di Tiongkok yang ringkas dengan pertanyaan rujukan, diagnosis, alergi, obat, hasil, perangkat, dan lampiran berindeks yang tepat.
 
 ## Sumber
 

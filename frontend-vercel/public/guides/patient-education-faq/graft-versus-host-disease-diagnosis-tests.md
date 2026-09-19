@@ -1,12 +1,14 @@
-# Which Tests Help Diagnose Graft-Versus-Host Disease After Transplantation?
+# GVHD Assessment in China: Organ Review and Diagnostic Tests
 
 ## Hero
 
-- **Title:** Which Tests Help Diagnose Graft-Versus-Host Disease After Transplantation?
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Graft Versus Host Disease
-- **Subtitle:** When symptoms appear after an allogeneic transplant, families often ask whether one blood test can confirm rejection.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** GVHD Assessment in China: Organ Review and Diagnostic Tests
+- **Subtitle:** Learn how symptoms, organ assessment and selected tests inform a GVHD diagnosis, and bring comparable evidence to a consultation in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ After the investigations, ask which conclusions are established, what still need
 ## SEO Metadata
 
 - **Primary keyword:** graft-versus-host disease diagnostic tests in China
+
+- **Meta title:** GVHD Assessment in China: Organ Review and Diagnostic Tests
+- **Meta description:** Learn how symptoms, organ assessment and selected tests inform a GVHD diagnosis, and bring comparable evidence to a consultation in China.

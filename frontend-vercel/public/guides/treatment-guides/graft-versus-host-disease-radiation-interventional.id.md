@@ -1,12 +1,14 @@
-# Fotoferesis Ekstrakorporeal untuk GVHD: Prosedur, Kunjungan Berulang dan Penilaian Respons
+# Fotoferesis untuk GVHD di Tiongkok: Kunjungan dan Penilaian Respons
 
 ## Hero
 
-- **Title:** Fotoferesis Ekstrakorporeal untuk GVHD: Prosedur, Kunjungan Berulang dan Penilaian Respons
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Graft Versus Host
-- **Subtitle:** Nama fotoferesis ekstrakorporeal dapat memberi kesan radioterapi, pertukaran darah atau penghilangan imunitas yang merugikan dalam satu kali tindakan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Fotoferesis untuk GVHD di Tiongkok: Kunjungan dan Penilaian Respons
+- **Subtitle:** Pahami fotoferesis untuk GVHD di Tiongkok, dari penilaian kondisi dan akses vaskular hingga kunjungan berulang serta evaluasi respons organ.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -138,3 +140,6 @@ Kelanjutan di negara asal memerlukan persetujuan layanan penerima sebelumnya. Ca
 ## SEO Metadata
 
 - **Primary keyword:** fotoferesis ekstrakorporeal untuk GVHD di Tiongkok
+
+- **Meta title:** Fotoferesis untuk GVHD di Tiongkok: Kunjungan dan Penilaian Respons
+- **Meta description:** Pahami fotoferesis untuk GVHD di Tiongkok, dari penilaian kondisi dan akses vaskular hingga kunjungan berulang serta evaluasi respons organ.

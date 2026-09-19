@@ -1,15 +1,17 @@
-# Voyage médical avec une maladie rénale : le vol n’est que la courte partie du programme
+# Voyage médical en Chine avec une maladie rénale : organiser les soins
 
 ## Hero
 
-- **Title:** Voyage médical avec une maladie rénale : le vol n’est que la courte partie du programme
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Maladies chroniques et voyage
-- **Subtitle:** Questions pour les personnes atteintes de maladie rénale chronique, dialysées ou greffées du rein : stabilité biologique, limites hydriques, médicaments, créneaux de traitement et recours d’urgence.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un patient et un accompagnant examinent un calendrier de soins rénaux et des documents de voyage entre un aéroport et un hôpital
+
+
+- **Title:** Voyage médical en Chine avec une maladie rénale : organiser les soins
+- **Subtitle:** Préparez un voyage médical avec maladie rénale chronique, dialyse ou greffe rénale : dossiers, séances, limites hydriques, médicaments, accès et urgences.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Une diminution des urines, un gonflement ou poids augmentant rapidement, un essoufflement sévère, une douleur thoracique, une confusion, des vomissements persistants, une faiblesse musculaire/des palpitations ou une urgence de l’accès de dialyse nécessitent une évaluation locale rapide.
 
 ## Content
+
+Pour un voyage médical en Chine avec une maladie rénale, confirmez le service d’accueil et le plan de soins rénaux avant de réserver le trajet. L’organisation de la dialyse, la revue des médicaments, la protection de l’accès vasculaire et une transmission exploitable doivent être adaptées à chaque patient ; une réservation à l’hôpital ne permet pas de les présumer.
+
 
 Pour une personne atteinte de maladie rénale, l’avion est souvent l’élément le plus prévisible du voyage médical. Les véritables vulnérabilités sont une séance de dialyse manquée, une variation du potassium non reconnue, une accumulation médicamenteuse, un plan hydrique copié sur celui d’un autre patient ou une maladie aiguë loin de l’équipe de néphrologie habituelle.
 
@@ -143,11 +148,13 @@ Disparition du frémissement de la fistule/du pontage, saignement incontrôlé, 
 
 ## SEO Metadata
 
-- **SEO title:** Voyage médical avec une maladie rénale : questions avant le vol
-- **Meta description:** Préparez un voyage médical avec maladie rénale chronique, dialyse ou greffe rénale : dossiers, séances, limites hydriques, médicaments, accès et urgences.
 - **Primary keyword:** voyage médical avec une maladie rénale
 - **Secondary keywords:** avion maladie rénale chronique, préparation voyage dialyse, dialyse péritonéale à l’étranger, voyage greffe rénale, liste médicaments rénaux voyage
 - **Suggested URL slug:** `/medical-travel-kidney-disease-flying`
+
+
+- **Meta title:** Voyage médical en Chine avec une maladie rénale : organiser les soins
+- **Meta description:** Préparez un voyage médical avec maladie rénale chronique, dialyse ou greffe rénale : dossiers, séances, limites hydriques, médicaments, accès et urgences.
 
 ## Sources
 

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Unterlagen für die Schlaganfallrehabilitation in China vorbereiten: Bildgebung, Medikamente und Funktion
 - **Category:** Leitfäden zum Patientenweg
 - **Subcategory:** Rehabilitation nach ischämischem Schlaganfall
-- **Subtitle:** Nützliche Unterlagen zur Schlaganfallrehabilitation erklären das Ereignis, die heutigen Fähigkeiten der Person und weiterhin zu beachtende Risiken.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Unterlagen für die Schlaganfallrehabilitation in China vorbereiten: Bildgebung, Medikamente und Funktion
+- **Subtitle:** Unterlagen zur Schlaganfallrehabilitation in China ordnen: Originalbilder, Medikamente, Funktionswerte, Schluckbefunde und Bedingungen im eigenen Zuhause erfassen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ Gut geordnete Unterlagen lassen den Zweck rasch erkennen und wichtige Aussagen a
 ## SEO Metadata
 
 - **Primary keyword:** medizinische Unterlagen für Schlaganfallrehabilitation in China
+
+- **Meta title:** Unterlagen für die Schlaganfallrehabilitation in China vorbereiten: Bildgebung, Medikamente und Funktion
+- **Meta description:** Unterlagen zur Schlaganfallrehabilitation in China ordnen: Originalbilder, Medikamente, Funktionswerte, Schluckbefunde und Bedingungen im eigenen Zuhause erfassen.

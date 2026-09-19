@@ -1,15 +1,17 @@
-# Dental Crowns and Bridges: Materials, Treatment, and Aftercare
+# Dental Crowns and Bridges in China: Materials and Aftercare
 
 ## Hero
 
-- **Title:** Dental Crowns and Bridges: Materials, Treatment, and Aftercare
 - **Category:** Treatment Guides
 - **Subcategory:** Dental & Oral Health
-- **Subtitle:** Decide whether a tooth needs full coverage, compare bridge designs and judge the finished work by fit, function and maintainability—not material labels alone.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** A dentist explaining a three-unit dental bridge and crown material samples to an international patient
+
+
+- **Title:** Dental Crowns and Bridges in China: Materials and Aftercare
+- **Subtitle:** Compare crowns, conventional and adhesive bridges, root-filled tooth design, ceramic and metal materials, fit checks, risks and maintenance abroad.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -154,13 +156,15 @@ The dentist checks seating, margins, contacts, bite and cleanability using exami
 ## SEO Metadata
 
 - **Slug:** `dental-crowns-and-bridges-materials-treatment-and-aftercare`
-- **Meta title:** Dental Crowns and Bridges | Materials and Aftercare
-- **Meta description:** Compare crowns, conventional and adhesive bridges, root-filled tooth design, ceramic and metal materials, fit checks, risks and maintenance abroad.
 - **Primary keyword:** dental crowns and bridges
 - **Pillar keyword:** dental treatment in China
 - **Vertical keyword:** restorative dentistry for international patients
 - **Search intent:** treatment comparison / aftercare planning
 - **Secondary keywords:** dental crown China; dental bridge China; zirconia crown; porcelain fused to metal crown; adhesive bridge; crown aftercare; bridge cleaning
+
+
+- **Meta title:** Dental Crowns and Bridges in China: Materials and Aftercare
+- **Meta description:** Compare crowns, conventional and adhesive bridges, root-filled tooth design, ceramic and metal materials, fit checks, risks and maintenance abroad.
 
 ## Sources
 

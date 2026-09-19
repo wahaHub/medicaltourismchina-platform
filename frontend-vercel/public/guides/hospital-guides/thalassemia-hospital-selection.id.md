@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Memilih rumah sakit talasemia di Tiongkok: sesuaikan layanan dengan masalah yang perlu Anda selesaikan
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Talasemia
-- **Subtitle:** Daftar pendek rumah sakit yang berguna dimulai dari alasan mencari perawatan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Memilih rumah sakit talasemia di Tiongkok: sesuaikan layanan dengan masalah yang perlu Anda selesaikan
+- **Subtitle:** Pilih layanan talasemia di Tiongkok sesuai kebutuhan konseling, transfusi, penilaian zat besi, atau transplantasi serta kesinambungan perawatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Sebelum memilih, buat lembar perbandingan singkat berisi tugas klinis sebenarnya
 ## SEO Metadata
 
 - **Primary keyword:** pemilihan rumah sakit talasemia di Tiongkok; pusat spesialis talasemia; layanan transfusi; tim transplantasi talasemia
+
+- **Meta title:** Memilih rumah sakit talasemia di Tiongkok: sesuaikan layanan dengan masalah yang perlu Anda selesaikan
+- **Meta description:** Pilih layanan talasemia di Tiongkok sesuai kebutuhan konseling, transfusi, penilaian zat besi, atau transplantasi serta kesinambungan perawatan.

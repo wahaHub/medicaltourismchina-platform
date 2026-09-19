@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Berapa lama pengobatan talasemia berlangsung? Siklus transfusi, penilaian obat, dan waktu yang diperlukan di Tiongkok
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Talasemia
-- **Subtitle:** Pertanyaan tentang lama pengobatan dapat berarti durasi kunjungan klinik, kemungkinan menghentikan obat di masa depan, atau saat seseorang dapat pulang setelah transplantasi.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Berapa lama pengobatan talasemia berlangsung? Siklus transfusi, penilaian obat, dan waktu yang diperlukan di Tiongkok
+- **Subtitle:** Pahami durasi perawatan talasemia, dari transfusi berkala hingga penilaian obat dan transplantasi. Sesuaikan waktu kunjungan ke Tiongkok dengan kebutuhan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -147,3 +149,6 @@ Durasi pengobatan berbeda menurut intervensi dan perjalanan kondisi individu. Be
 ## SEO Metadata
 
 - **Primary keyword:** durasi pengobatan talasemia; interval transfusi; waktu pemulihan transplantasi; masa tinggal untuk pengobatan di Tiongkok
+
+- **Meta title:** Berapa lama pengobatan talasemia berlangsung? Siklus transfusi, penilaian obat, dan waktu yang diperlukan di Tiongkok
+- **Meta description:** Pahami durasi perawatan talasemia, dari transfusi berkala hingga penilaian obat dan transplantasi. Sesuaikan waktu kunjungan ke Tiongkok dengan kebutuhan.

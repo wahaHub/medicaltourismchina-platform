@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** ¿Cuánto cuesta tratar el linfoma de células T en China? Elaborar un presupuesto que pueda compararse y actualizarse
 - **Category:** Guías de costes y seguros
 - **Subcategory:** Linfoma de células T
-- **Subtitle:** Dos documentos titulados tratamiento del linfoma de células T pueden describir servicios muy distintos.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** ¿Cuánto cuesta tratar el linfoma de células T en China? Elaborar un presupuesto que pueda compararse y actualizarse
+- **Subtitle:** Compare presupuestos de linfoma de células T en China según diagnóstico, receta, cuidados de apoyo y radioterapia, con conceptos que puedan actualizarse.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Evite modificar los comprimidos, alargar los intervalos o comprar un sustituto n
 ## SEO Metadata
 
 - **Primary keyword:** coste del tratamiento del linfoma de células T en China
+
+- **Meta title:** ¿Cuánto cuesta tratar el linfoma de células T en China? Elaborar un presupuesto que pueda compararse y actualizarse
+- **Meta description:** Compare presupuestos de linfoma de células T en China según diagnóstico, receta, cuidados de apoyo y radioterapia, con conceptos que puedan actualizarse.

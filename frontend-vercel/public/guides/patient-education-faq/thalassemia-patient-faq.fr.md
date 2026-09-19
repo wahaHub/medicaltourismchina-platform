@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Vingt questions sur la thalassémie : diagnostic, traitement et organisation des soins en Chine
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Thalassémie
-- **Subtitle:** Le mot thalassémie peut désigner un statut de porteur, une maladie nécessitant un soutien occasionnel ou une affection nécessitant des transfusions régulières.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Vingt questions sur la thalassémie : diagnostic, traitement et organisation des soins en Chine
+- **Subtitle:** Préparez des soins de thalassémie en Chine avec 20 questions sur le diagnostic, le statut de porteur, les transfusions, la chélation et le suivi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -191,3 +193,6 @@ Une douleur thoracique sévère, un essoufflement, une altération de la conscie
 ## SEO Metadata
 
 - **Primary keyword:** FAQ des patients sur la thalassémie ; vingt questions sur la thalassémie ; traitement de la thalassémie en Chine ; questions sur les transfusions et la chélation
+
+- **Meta title:** Vingt questions sur la thalassémie : diagnostic, traitement et organisation des soins en Chine
+- **Meta description:** Préparez des soins de thalassémie en Chine avec 20 questions sur le diagnostic, le statut de porteur, les transfusions, la chélation et le suivi.

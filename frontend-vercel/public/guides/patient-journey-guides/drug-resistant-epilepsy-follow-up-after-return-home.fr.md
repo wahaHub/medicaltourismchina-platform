@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Suivi après un traitement de l’épilepsie pharmacorésistante en Chine : maintenir la coordination des soins chez soi
 - **Category:** Guides du parcours patient
 - **Subcategory:** Épilepsie pharmacorésistante
-- **Subtitle:** Après un séjour en Chine, rapporter les documents chez soi n’est que le début de la continuité des soins.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Suivi après un traitement de l’épilepsie pharmacorésistante en Chine : maintenir la coordination des soins chez soi
+- **Subtitle:** Après un traitement de l’épilepsie pharmacorésistante en Chine, organisez le relais médical, la liste des médicaments, les résultats en attente et le journal des crises.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -169,3 +171,6 @@ Les soins après le retour sont un processus continu avec des responsabilités n
 ## SEO Metadata
 
 - **Primary keyword:** suivi de l’épilepsie pharmacorésistante après traitement en Chine ; soins après chirurgie de l’épilepsie ; suivi international de neurostimulation
+
+- **Meta title:** Suivi après un traitement de l’épilepsie pharmacorésistante en Chine : maintenir la coordination des soins chez soi
+- **Meta description:** Après un traitement de l’épilepsie pharmacorésistante en Chine, organisez le relais médical, la liste des médicaments, les résultats en attente et le journal des crises.

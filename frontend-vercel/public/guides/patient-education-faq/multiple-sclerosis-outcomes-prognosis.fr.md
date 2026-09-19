@@ -1,12 +1,14 @@
-# Comprendre le pronostic de la sclérose en plaques : survie, autonomie et réponse au traitement
+# Pronostic de la sclérose en plaques : questions pour des soins en Chine
 
 ## Hero
 
-- **Title:** Comprendre le pronostic de la sclérose en plaques : survie, autonomie et réponse au traitement
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Sclérose en plaques
-- **Subtitle:** Les questions sur le travail, la marche et la vie familiale comptent souvent davantage pour une personne nouvellement diagnostiquée que le nom de la maladie.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronostic de la sclérose en plaques : questions pour des soins en Chine
+- **Subtitle:** Distinguez poussées, progression, imagerie et autonomie dans la sclérose en plaques pour discuter du pronostic et des objectifs de soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Un court séjour ne peut pas démontrer un résultat à long terme, et un chiffr
 ## SEO Metadata
 
 - **Primary keyword:** pronostic et résultats thérapeutiques de la sclérose en plaques
+
+- **Meta title:** Pronostic de la sclérose en plaques : questions pour des soins en Chine
+- **Meta description:** Distinguez poussées, progression, imagerie et autonomie dans la sclérose en plaques pour discuter du pronostic et des objectifs de soins en Chine.

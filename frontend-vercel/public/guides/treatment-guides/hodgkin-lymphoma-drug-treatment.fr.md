@@ -1,12 +1,14 @@
-# Médicaments du lymphome de Hodgkin : comprendre la chimiothérapie, le traitement anti-CD30 et la thérapie anti-PD-1
+# Médicaments du lymphome de Hodgkin en Chine : options et accès
 
 ## Hero
 
-- **Title:** Médicaments du lymphome de Hodgkin : comprendre la chimiothérapie, le traitement anti-CD30 et la thérapie anti-PD-1
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome de Hodgkin
-- **Subtitle:** Voir ABVD, AVD, BV et PD-1 sur la même page de traitement peut rendre difficile la compréhension d’une première prescription pour un lymphome de Hodgkin.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Médicaments du lymphome de Hodgkin en Chine : options et accès
+- **Subtitle:** Décryptez les protocoles du lymphome de Hodgkin, la chimiothérapie, les traitements anti-CD30 et anti-PD-1 pour préparer une discussion thérapeutique en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -138,3 +140,6 @@ Avant de commencer en Chine et de poursuivre ailleurs, demandez aux deux équipe
 ## SEO Metadata
 
 - **Primary keyword:** traitement médicamenteux du lymphome de Hodgkin
+
+- **Meta title:** Médicaments du lymphome de Hodgkin en Chine : options et accès
+- **Meta description:** Décryptez les protocoles du lymphome de Hodgkin, la chimiothérapie, les traitements anti-CD30 et anti-PD-1 pour préparer une discussion thérapeutique en Chine.

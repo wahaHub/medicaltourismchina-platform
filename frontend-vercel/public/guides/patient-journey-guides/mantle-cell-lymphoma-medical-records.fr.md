@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Préparer le dossier médical d’un lymphome à cellules du manteau pour une consultation en Chine
 - **Category:** Guides du parcours patient
 - **Subcategory:** Lymphome à cellules du manteau
-- **Subtitle:** Une famille peut envoyer des centaines de pages numérisées sans permettre au spécialiste du lymphome de répondre à une question élémentaire : pourquoi le dernier traitement a-t-il été arrêté ?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Préparer le dossier médical d’un lymphome à cellules du manteau pour une consultation en Chine
+- **Subtitle:** Préparez un dossier de lymphome du manteau pour la Chine avec anatomopathologie, génétique complète, imagerie et chronologie des traitements et interruptions.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ Avant de quitter la Chine, appliquez la même méthode aux nouveaux documents : 
 ## SEO Metadata
 
 - **Primary keyword:** dossier médical du lymphome à cellules du manteau pour une consultation en Chine
+
+- **Meta title:** Préparer le dossier médical d’un lymphome à cellules du manteau pour une consultation en Chine
+- **Meta description:** Préparez un dossier de lymphome du manteau pour la Chine avec anatomopathologie, génétique complète, imagerie et chronologie des traitements et interruptions.

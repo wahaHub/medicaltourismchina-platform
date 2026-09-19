@@ -1,12 +1,14 @@
-# Apakah limfoma sel T memerlukan operasi? Biopsi, akses vaskular, prosedur usus, dan pengumpulan sel
+# Prosedur Limfoma Sel T di Tiongkok: Tujuan dan Persiapan
 
 ## Hero
 
-- **Title:** Apakah limfoma sel T memerlukan operasi? Biopsi, akses vaskular, prosedur usus, dan pengumpulan sel
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel T
-- **Subtitle:** “Kelenjar getah bening sudah diangkat, jadi mengapa pengobatan lebih lanjut diperlukan?” “Apakah transplantasi sel punca berarti operasi untuk mengganti sumsum tulang?” Beberapa prosedur mungkin disebut operasi dalam percakapan sehari-hari, meskipun tujuannya sangat berbeda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prosedur Limfoma Sel T di Tiongkok: Tujuan dan Persiapan
+- **Subtitle:** Pahami peran biopsi, akses vaskular, prosedur usus, dan pengumpulan sel pada limfoma sel T. Siapkan pertanyaan sebelum tindakan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Misalnya, evaluasi luka bedah dan kunjungan hematologi mungkin menjawab pertanya
 ## SEO Metadata
 
 - **Primary keyword:** operasi dan prosedur untuk limfoma sel T
+
+- **Meta title:** Prosedur Limfoma Sel T di Tiongkok: Tujuan dan Persiapan
+- **Meta description:** Pahami peran biopsi, akses vaskular, prosedur usus, dan pengumpulan sel pada limfoma sel T. Siapkan pertanyaan sebelum tindakan di Tiongkok.

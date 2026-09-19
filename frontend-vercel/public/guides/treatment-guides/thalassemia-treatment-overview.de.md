@@ -1,12 +1,14 @@
-# Thalassämie behandeln: vom Trägerstatus über Transfusion und Chelattherapie bis zu Transplantation und neueren Therapien
+# Thalassämiebehandlung in China: Transfusionen, Chelattherapie und weitere Optionen
 
 ## Hero
 
-- **Title:** Thalassämie behandeln: vom Trägerstatus über Transfusion und Chelattherapie bis zu Transplantation und neueren Therapien
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Thalassämie
-- **Subtitle:** Thalassämie umfasst erbliche Störungen der Globinproduktion, deren Erscheinungsformen von sehr wenigen Symptomen bis zur Notwendigkeit regelmäßiger Transfusionen und multidisziplinärer Versorgung reichen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Thalassämiebehandlung in China: Transfusionen, Chelattherapie und weitere Optionen
+- **Subtitle:** Thalassämiebehandlung in China planen: Erkrankungsform, Transfusionen, Chelattherapie, Organschutz und Eignung für Transplantation oder neuere Ansätze besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -131,3 +133,6 @@ Regelmäßige Planüberprüfung gibt Patienten Gelegenheit, Nutzen, Schwierigkei
 ## SEO Metadata
 
 - **Primary keyword:** Thalassämiebehandlung
+
+- **Meta title:** Thalassämiebehandlung in China: Transfusionen, Chelattherapie und weitere Optionen
+- **Meta description:** Thalassämiebehandlung in China planen: Erkrankungsform, Transfusionen, Chelattherapie, Organschutz und Eignung für Transplantation oder neuere Ansätze besprechen.

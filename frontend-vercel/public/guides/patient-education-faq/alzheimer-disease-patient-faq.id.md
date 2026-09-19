@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Dua Puluh Pertanyaan Keluarga tentang Penyakit Alzheimer dan Perawatan di Tiongkok
 - **Category:** Edukasi Pasien & Pertanyaan yang Sering Diajukan
 - **Subcategory:** Penyakit Alzheimer
-- **Subtitle:** Keluarga menjumpai berbagai jenis informasi Alzheimer: tes darah diagnostik, obat antibodi, klaim operasi, pengumuman penelitian, dan tawaran pengobatan di luar negeri.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dua Puluh Pertanyaan Keluarga tentang Penyakit Alzheimer dan Perawatan di Tiongkok
+- **Subtitle:** Siapkan konsultasi Alzheimer di Tiongkok dengan 20 pertanyaan keluarga tentang diagnosis, stadium, obat, penelitian, dan kebutuhan perawatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Keluarga harus mengetahui dokter mana yang akan meresepkan, di mana tes yang dip
 ## SEO Metadata
 
 - **Primary keyword:** pertanyaan yang sering diajukan tentang pengobatan penyakit Alzheimer
+
+- **Meta title:** Dua Puluh Pertanyaan Keluarga tentang Penyakit Alzheimer dan Perawatan di Tiongkok
+- **Meta description:** Siapkan konsultasi Alzheimer di Tiongkok dengan 20 pertanyaan keluarga tentang diagnosis, stadium, obat, penelitian, dan kebutuhan perawatan.

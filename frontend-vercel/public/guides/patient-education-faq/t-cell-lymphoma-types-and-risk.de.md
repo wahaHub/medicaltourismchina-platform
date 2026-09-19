@@ -1,12 +1,14 @@
-# Formen des T-Zell-Lymphoms: Warum Subtyp, Stadium und Risiko unterschiedliche Dinge beschreiben
+# Formen und Risiken des T-Zell-Lymphoms: Vorbereitung auf die Versorgung in China
 
 ## Hero
 
-- **Title:** Formen des T-Zell-Lymphoms: Warum Subtyp, Stadium und Risiko unterschiedliche Dinge beschreiben
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** T-Zell-Lymphom
-- **Subtitle:** Eine Person mit einem T-Zell-Lymphom erhält möglicherweise eine auf die Haut gerichtete Behandlung, während eine andere eine systemische Chemotherapie benötigt.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Formen und Risiken des T-Zell-Lymphoms: Vorbereitung auf die Versorgung in China
+- **Subtitle:** T-Zell-Lymphome vor der Versorgung in China einordnen: Subtyp, betroffene Organe, Stadium und Risikoscores unterscheiden und mit dem Krankheitsverlauf verbinden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Eine hilfreiche Antwort könnte den Bedarf an spezialisierter pathologischer Zwe
 ## SEO Metadata
 
 - **Primary keyword:** T-Zell-Lymphom Formen und Risikogruppen
+
+- **Meta title:** Formen und Risiken des T-Zell-Lymphoms: Vorbereitung auf die Versorgung in China
+- **Meta description:** T-Zell-Lymphome vor der Versorgung in China einordnen: Subtyp, betroffene Organe, Stadium und Risikoscores unterscheiden und mit dem Krankheitsverlauf verbinden.

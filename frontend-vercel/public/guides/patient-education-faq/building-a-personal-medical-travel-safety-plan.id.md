@@ -1,15 +1,17 @@
-# Rencana Keselamatan Perjalanan Medis Pribadi yang Tetap Berfungsi ketika Sesuatu Berubah
+# Perjalanan Medis ke Tiongkok: Rencana Keselamatan Pribadi dan Cadangan
 
 ## Hero
 
-- **Title:** Rencana Keselamatan Perjalanan Medis Pribadi yang Tetap Berfungsi ketika Sesuatu Berubah
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Pengambilan Keputusan Pasien & Dukungan Pendamping
-- **Subtitle:** Susun daftar risiko ringkas, gerbang keputusan, urutan kontak, dan jalur cadangan untuk kegagalan klinis, perjalanan, serta pemulihan yang paling penting.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Pasien dan pendamping menyusun daftar periksa perjalanan medis di samping kalender, rute rumah sakit, dokumen, dan bagasi
+
+
+- **Title:** Perjalanan Medis ke Tiongkok: Rencana Keselamatan Pribadi dan Cadangan
+- **Subtitle:** Susun daftar risiko perjalanan medis, gerbang keputusan, kontak darurat, catatan, rencana kontingensi obat, asuransi, dan cadangan pemulihan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Uji rencana sebelum bepergian. Jika pendamping tidak dapat membuka daftar alergi secara luring atau menjelaskan siapa yang harus dihubungi pada pukul 2 dini hari, rencana belum selesai.
 
 ## Content
+
+Sebelum perjalanan medis ke Tiongkok, sepakati siapa yang akan menangani perubahan diagnosis, penundaan pemulangan, atau gejala yang memerlukan pertolongan segera. Gunakan panduan ini untuk menyusun kontak rumah sakit, obat, rekam medis, dan pengaturan perjalanan cadangan menjadi rencana yang benar-benar dapat digunakan pasien dan pendamping.
+
 
 Sebagian besar rencana perjalanan berjalan baik ketika diagnosis tetap sama, penerbangan tepat waktu, pasien pulih cepat, dan semua telepon memiliki sinyal. Rencana keselamatan dimulai dengan pertanyaan sebaliknya: kegagalan tunggal mana yang menimbulkan bahaya terbesar, dan apa yang akan kita lakukan sebelum menjadi krisis?
 
@@ -196,11 +201,13 @@ Setelah setiap perubahan diagnosis, kondisi, obat, pengobatan, rute, pendamping,
 
 ## SEO Metadata
 
-- **SEO title:** Rencana Keselamatan Perjalanan Medis Pribadi: Panduan Risiko dan Cadangan
-- **Meta description:** Susun daftar risiko perjalanan medis, gerbang keputusan, kontak darurat, catatan, rencana kontingensi obat, asuransi, dan cadangan pemulihan.
 - **Primary keyword:** rencana keselamatan perjalanan medis pribadi
 - **Secondary keywords:** daftar periksa keselamatan wisata medis, rencana darurat pengobatan luar negeri, daftar risiko perjalanan medis, rencana cadangan pasien internasional, keselamatan pengobatan di luar negeri
 - **Suggested URL slug:** `/personal-medical-travel-safety-plan`
+
+
+- **Meta title:** Perjalanan Medis ke Tiongkok: Rencana Keselamatan Pribadi dan Cadangan
+- **Meta description:** Susun daftar risiko perjalanan medis, gerbang keputusan, kontak darurat, catatan, rencana kontingensi obat, asuransi, dan cadangan pemulihan.
 
 ## Sumber
 

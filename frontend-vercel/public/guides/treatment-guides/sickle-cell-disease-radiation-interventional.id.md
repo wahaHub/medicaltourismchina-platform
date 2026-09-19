@@ -1,12 +1,14 @@
-# Mengapa Pertukaran Sel Darah Merah Digunakan pada Penyakit Sel Sabit: Pengobatan Mendesak dan Perawatan Setelahnya
+# Pertukaran Sel Darah Merah untuk Penyakit Sel Sabit di Tiongkok: Perencanaan
 
 ## Hero
 
-- **Title:** Mengapa Pertukaran Sel Darah Merah Digunakan pada Penyakit Sel Sabit: Pengobatan Mendesak dan Perawatan Setelahnya
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Sel Sabit
-- **Subtitle:** Istilah “transfusi tukar” dapat terdengar seolah seluruh darah seseorang akan diganti, atau penyakitnya telah menjadi tidak terkendali.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pertukaran Sel Darah Merah untuk Penyakit Sel Sabit di Tiongkok: Perencanaan
+- **Subtitle:** Pahami tujuan pertukaran sel darah merah pada penyakit sel sabit di Tiongkok, dari situasi mendesak hingga persiapan dan perawatan setelahnya.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Bagi seseorang dengan nyeri dada dan sesak napas atau gejala menyerupai stroke, 
 ## SEO Metadata
 
 - **Primary keyword:** pertukaran sel darah merah untuk penyakit sel sabit
+
+- **Meta title:** Pertukaran Sel Darah Merah untuk Penyakit Sel Sabit di Tiongkok: Perencanaan
+- **Meta description:** Pahami tujuan pertukaran sel darah merah pada penyakit sel sabit di Tiongkok, dari situasi mendesak hingga persiapan dan perawatan setelahnya.

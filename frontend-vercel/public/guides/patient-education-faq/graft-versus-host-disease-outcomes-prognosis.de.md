@@ -1,12 +1,14 @@
-# Erholung und Prognose nach GVHD: Ansprechen, behandlungsfreie Zeit und Alltagsfunktion verstehen
+# Erholung und Prognose bei GVHD: Fragen für eine Beurteilung in China
 
 ## Hero
 
-- **Title:** Erholung und Prognose nach GVHD: Ansprechen, behandlungsfreie Zeit und Alltagsfunktion verstehen
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Graft-versus-Host-Erkrankung
-- **Subtitle:** „Werde ich mich erholen?“ kann für jemanden mit einer Graft-versus-Host-Erkrankung mehrere Bedeutungen haben.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Erholung und Prognose bei GVHD: Fragen für eine Beurteilung in China
+- **Subtitle:** GVHD-Erholung für eine Beurteilung in China besprechen: Therapieansprechen, behandlungsfreie Zeit, bleibende Schäden und Alltagsfunktion getrennt bewerten.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -136,3 +138,6 @@ Die Aussichten können sich mit Organkontrolle, Infektionsbehandlung und Funktio
 ## SEO Metadata
 
 - **Primary keyword:** GVHD-Prognose und Behandlungsergebnisse
+
+- **Meta title:** Erholung und Prognose bei GVHD: Fragen für eine Beurteilung in China
+- **Meta description:** GVHD-Erholung für eine Beurteilung in China besprechen: Therapieansprechen, behandlungsfreie Zeit, bleibende Schäden und Alltagsfunktion getrennt bewerten.

@@ -1,15 +1,17 @@
-# 107 Ein Krankenhaus in Nanjing auswählen: Klinische Abhängigkeiten, Flussquerungen und Standortzugang
+# Krankenhauswahl in China: Terminbuchung und Reiseplanung in Nanjing
 
 ## Hero
 
-- **Title:** Ein Krankenhaus in Nanjing auswählen: Klinische Abhängigkeiten, Flussquerungen und Standortzugang
 - **Category:** Krankenhausratgeber
 - **Subcategory:** Versorgungsplanung in Nanjing
-- **Subtitle:** Erfassen Sie zuerst die klinischen Abhängigkeiten und stellen Sie dann sicher, dass Passverfahren, Standorte, Flussquerung, Notfall- und Entlassungswege dazu passen.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Konzeptuelle Illustration internationaler Reisender bei der Planung einer Krankenhausversorgung in Nanjing; Skyline, historisches Tor, Krankenhaus und Routensymbole bilden keine reale Standortkombination und keine Empfehlung ab.
+
+
+- **Title:** Krankenhauswahl in China: Terminbuchung und Reiseplanung in Nanjing
+- **Subtitle:** Wählen Sie ein Krankenhaus in Nanjing anhand klinischer Abhängigkeiten, Standorte, 12320-Passbuchung, Dolmetschen, Flussquerungen, betriebener Ankunftsorte, Notfallversorgung und Entlassung.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -209,13 +211,15 @@ Nein. Eine schriftliche Genehmigung muss Patient, Tarif, rechtlichem Anbieter, S
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-nanjing-specialties-access-and-travel`
-- **Meta title:** Krankenhauswahl in Nanjing: Standorte, Passbuchung und Reise
-- **Meta description:** Wählen Sie ein Krankenhaus in Nanjing anhand klinischer Abhängigkeiten, Standorte, 12320-Passbuchung, Dolmetschen, Flussquerungen, betriebener Ankunftsorte, Notfallversorgung und Entlassung.
 - **Primary keyword:** ein Krankenhaus in Nanjing auswählen
 - **Pillar keyword:** Krankenhäuser in Nanjing für internationale Patienten
 - **Vertical keyword:** Krankenhausstandorte Nanjing Zugang Reise
 - **Search intent:** Krankenhausvergleich / medizinische Reiseplanung Nanjing
 - **Secondary keywords:** Nanjing 12320 Reisepass; internationales Krankenhaus Nanjing; Krankenhausstandort Nanjing; Krankenhaus Flussquerung Nanjing; Nanjing 120
+
+
+- **Meta title:** Krankenhauswahl in China: Terminbuchung und Reiseplanung in Nanjing
+- **Meta description:** Wählen Sie ein Krankenhaus in Nanjing anhand klinischer Abhängigkeiten, Standorte, 12320-Passbuchung, Dolmetschen, Flussquerungen, betriebener Ankunftsorte, Notfallversorgung und Entlassung.
 
 ## Quellen
 

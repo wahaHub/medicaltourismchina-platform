@@ -1,12 +1,14 @@
-# Thalassemia types and risk: why people with the same broad diagnosis need different care
+# Thalassemia Types and Risk: Preparing for Care in China
 
 ## Hero
 
-- **Title:** Thalassemia types and risk: why people with the same broad diagnosis need different care
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Thalassemia
-- **Subtitle:** One person discovers a carrier state during a routine checkup.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Thalassemia Types and Risk: Preparing for Care in China
+- **Subtitle:** Distinguish thalassemia types, severity and treatment needs, and match the reason for referral to the receiving service in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ The purpose of evaluating risk is to identify useful care, not to remove ordinar
 ## SEO Metadata
 
 - **Primary keyword:** alpha thalassemia; beta thalassemia; HbH disease; transfusion-dependent thalassemia; non-transfusion-dependent thalassemia
+
+- **Meta title:** Thalassemia Types and Risk: Preparing for Care in China
+- **Meta description:** Distinguish thalassemia types, severity and treatment needs, and match the reason for referral to the receiving service in China.

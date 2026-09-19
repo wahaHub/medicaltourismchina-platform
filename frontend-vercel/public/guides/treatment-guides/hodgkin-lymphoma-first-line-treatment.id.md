@@ -1,12 +1,14 @@
-# Memilih pengobatan lini pertama limfoma Hodgkin: panduan keputusan praktis
+# Pengobatan Lini Pertama Limfoma Hodgkin di Tiongkok: Pengambilan Keputusan
 
 ## Hero
 
-- **Title:** Memilih pengobatan lini pertama limfoma Hodgkin: panduan keputusan praktis
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Hodgkin
-- **Subtitle:** Pengobatan lini pertama adalah jalur pengobatan lengkap awal untuk diagnosis limfoma Hodgkin saat ini.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Lini Pertama Limfoma Hodgkin di Tiongkok: Pengambilan Keputusan
+- **Subtitle:** Pahami keputusan lini pertama limfoma Hodgkin di Tiongkok berdasarkan stadium, peran radiasi, serta perbandingan manfaat dan risiko regimen lengkap.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Ketika membandingkan dua rekomendasi lini pertama, mintalah kedua tim menjawab p
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan lini pertama limfoma Hodgkin
+
+- **Meta title:** Pengobatan Lini Pertama Limfoma Hodgkin di Tiongkok: Pengambilan Keputusan
+- **Meta description:** Pahami keputusan lini pertama limfoma Hodgkin di Tiongkok berdasarkan stadium, peran radiasi, serta perbandingan manfaat dan risiko regimen lengkap.

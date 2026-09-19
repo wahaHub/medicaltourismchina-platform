@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Pulang Setelah Pengobatan MDS di Tiongkok: Pemeriksaan Tindak Lanjut, Transfusi, Resep, dan Perawatan Transplantasi
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Sindrom Mielodisplastik
-- **Subtitle:** Pulang Setelah Pengobatan MDS di Tiongkok: Pemeriksaan Tindak Lanjut, Transfusi, Resep, dan Perawatan Transplantasi
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pulang Setelah Pengobatan MDS di Tiongkok: Pemeriksaan Tindak Lanjut, Transfusi, Resep, dan Perawatan Transplantasi
+- **Subtitle:** Rencanakan kepulangan setelah pengobatan MDS di Tiongkok dengan penanggung jawab tes darah, transfusi, resep, dan perawatan pascatransplantasi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Ikuti instruksi individual pasien untuk pemantauan, obat, dan perjalanan. Dapatk
 ## SEO Metadata
 
 - **Primary keyword:** tindak lanjut sindrom mielodisplastik setelah pengobatan di Tiongkok
+
+- **Meta title:** Pulang Setelah Pengobatan MDS di Tiongkok: Pemeriksaan Tindak Lanjut, Transfusi, Resep, dan Perawatan Transplantasi
+- **Meta description:** Rencanakan kepulangan setelah pengobatan MDS di Tiongkok dengan penanggung jawab tes darah, transfusi, resep, dan perawatan pascatransplantasi.

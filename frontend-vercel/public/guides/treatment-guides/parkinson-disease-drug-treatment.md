@@ -1,12 +1,14 @@
-# Parkinson’s disease medicines: levodopa, add-on treatments and continuous delivery
+# Parkinson’s Medicines in China: Levodopa and Other Options
 
 ## Hero
 
-- **Title:** Parkinson’s disease medicines: levodopa, add-on treatments and continuous delivery
 - **Category:** Treatment Guides
 - **Subcategory:** Parkinson Disease
-- **Subtitle:** A growing prescription list does not necessarily mean Parkinson’s disease has become uncontrollable.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Parkinson’s Medicines in China: Levodopa and Other Options
+- **Subtitle:** Understand Parkinson’s levodopa, add-on medicines and continuous delivery, and turn a consultation in China into a usable daily prescription plan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Build the longer-term budget around expected use, reviews and necessary monitori
 ## SEO Metadata
 
 - **Primary keyword:** Parkinson’s disease drug treatment
+
+- **Meta title:** Parkinson’s Medicines in China: Levodopa and Other Options
+- **Meta description:** Understand Parkinson’s levodopa, add-on medicines and continuous delivery, and turn a consultation in China into a usable daily prescription plan.

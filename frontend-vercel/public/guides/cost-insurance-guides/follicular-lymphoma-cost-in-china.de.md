@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Kosten der Behandlung des follikulären Lymphoms in China: Abklärung, Behandlungsverlauf und weitere Versorgung budgetieren
 - **Category:** Kosten- und Versicherungsratgeber
 - **Subcategory:** Follikuläres Lymphom
-- **Subtitle:** Die Kosten der Versorgung bei follikulärem Lymphom in China hängen zunächst davon ab, welche Leistungen der Patient erhält.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Kosten der Behandlung des follikulären Lymphoms in China: Abklärung, Behandlungsverlauf und weitere Versorgung budgetieren
+- **Subtitle:** Kosten beim follikulären Lymphom in China planen: Abklärung, Induktion, Erhaltung und Nachsorge auf denselben Versorgungszeitraum beziehen und Angebote vergleichen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Ein instabiler Gesundheitszustand verlangt die Behandlung des akuten Problems, b
 ## SEO Metadata
 
 - **Primary keyword:** Behandlungskosten des follikulären Lymphoms in China
+
+- **Meta title:** Kosten der Behandlung des follikulären Lymphoms in China: Abklärung, Behandlungsverlauf und weitere Versorgung budgetieren
+- **Meta description:** Kosten beim follikulären Lymphom in China planen: Abklärung, Induktion, Erhaltung und Nachsorge auf denselben Versorgungszeitraum beziehen und Angebote vergleichen.

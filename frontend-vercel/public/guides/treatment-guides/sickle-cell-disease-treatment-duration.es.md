@@ -1,12 +1,14 @@
-# ¿Cuánto dura el tratamiento de la enfermedad de células falciformes? Medicamentos, transfusiones, recuperación y planificación del viaje
+# Tratamiento de enfermedad falciforme en China: plazos y planificación del viaje
 
 ## Hero
 
-- **Title:** ¿Cuánto dura el tratamiento de la enfermedad de células falciformes? Medicamentos, transfusiones, recuperación y planificación del viaje
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de células falciformes
-- **Subtitle:** Los pacientes a menudo necesitan organizar ausencias escolares, sustituciones laborales, viajes o un cuidador antes del tratamiento, por lo que preguntar cuánto durará es una preocupación práctica.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento de enfermedad falciforme en China: plazos y planificación del viaje
+- **Subtitle:** Planifique tratamiento de enfermedad falciforme en China distinguiendo ajustes de medicación, transfusiones, vigilancia, recuperación y necesidades del viaje.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,3 +146,6 @@ Las familias pueden entonces organizar el traspaso de tareas laborales, el cuida
 ## SEO Metadata
 
 - **Primary keyword:** duración del tratamiento de la enfermedad de células falciformes
+
+- **Meta title:** Tratamiento de enfermedad falciforme en China: plazos y planificación del viaje
+- **Meta description:** Planifique tratamiento de enfermedad falciforme en China distinguiendo ajustes de medicación, transfusiones, vigilancia, recuperación y necesidades del viaje.

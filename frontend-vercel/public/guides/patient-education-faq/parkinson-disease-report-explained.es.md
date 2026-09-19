@@ -1,12 +1,14 @@
-# Cómo entender un informe de evaluación del párkinson: puntuaciones, imágenes y resultados de biomarcadores
+# Informes de Parkinson: prepararse para una evaluación en China
 
 ## Hero
 
-- **Title:** Cómo entender un informe de evaluación del párkinson: puntuaciones, imágenes y resultados de biomarcadores
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedad de Parkinson
-- **Subtitle:** Un registro de párkinson puede contener un estadio de Hoehn–Yahr, una puntuación de la parte III de la MDS-UPDRS, una captación estriatal reducida y una recomendación de evaluación cognitiva.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Informes de Parkinson: prepararse para una evaluación en China
+- **Subtitle:** Comprenda las puntuaciones funcionales, imágenes y biomarcadores del Parkinson, y prepare resultados comparables para una evaluación médica en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Evidencia revisada: September 9, 2026. Este artículo explica términos habitual
 ## SEO Metadata
 
 - **Primary keyword:** explicación del informe de enfermedad de Parkinson
+
+- **Meta title:** Informes de Parkinson: prepararse para una evaluación en China
+- **Meta description:** Comprenda las puntuaciones funcionales, imágenes y biomarcadores del Parkinson, y prepare resultados comparables para una evaluación médica en China.

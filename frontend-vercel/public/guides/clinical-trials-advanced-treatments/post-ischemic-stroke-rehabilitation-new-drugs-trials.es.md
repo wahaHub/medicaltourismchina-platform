@@ -1,12 +1,14 @@
-# Nuevos fármacos, interfaces cerebro-ordenador y ensayos clínicos en la rehabilitación del ictus
+# Investigación sobre rehabilitación del ictus en China: fármacos y ensayos de interfaces cerebro-ordenador
 
 ## Hero
 
-- **Title:** Nuevos fármacos, interfaces cerebro-ordenador y ensayos clínicos en la rehabilitación del ictus
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Rehabilitación tras un ictus isquémico
-- **Subtitle:** Después de un período de rehabilitación del ictus, los pacientes suelen seguir buscando un nuevo medicamento, dispositivo o estudio de investigación.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Investigación sobre rehabilitación del ictus en China: fármacos y ensayos de interfaces cerebro-ordenador
+- **Subtitle:** Comprenda los límites de los fármacos y las interfaces cerebro-ordenador en rehabilitación del ictus y qué verificar antes de valorar un ensayo en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -136,3 +138,6 @@ Los deseos de un participante pueden cambiar. Comente por adelantado la retirada
 ## SEO Metadata
 
 - **Primary keyword:** nuevos tratamientos de rehabilitación del ictus y ensayos clínicos
+
+- **Meta title:** Investigación sobre rehabilitación del ictus en China: fármacos y ensayos de interfaces cerebro-ordenador
+- **Meta description:** Comprenda los límites de los fármacos y las interfaces cerebro-ordenador en rehabilitación del ictus y qué verificar antes de valorar un ensayo en China.

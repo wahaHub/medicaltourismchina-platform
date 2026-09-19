@@ -1,12 +1,14 @@
-# Estimulación, inyecciones locales e interfaces cerebro–ordenador en la rehabilitación del ictus
+# Dispositivos de rehabilitación del ictus en China: estimulación e interfaces cerebro-ordenador
 
 ## Hero
 
-- **Title:** Estimulación, inyecciones locales e interfaces cerebro–ordenador en la rehabilitación del ictus
 - **Category:** Guías de tratamiento
 - **Subcategory:** Rehabilitación tras un ictus isquémico
-- **Subtitle:** La estimulación eléctrica, la estimulación magnética, la neuromodulación y las interfaces cerebro–ordenador pueden parecer intervenciones estrechamente relacionadas dentro de un programa de rehabilitación.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dispositivos de rehabilitación del ictus en China: estimulación e interfaces cerebro-ordenador
+- **Subtitle:** Comprenda qué objetivos pueden abordar estimulación, inyecciones e interfaces cerebro-ordenador al valorar dispositivos de rehabilitación del ictus en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Cuando no se cumplan las expectativas, reconsidere la idoneidad, el método y el
 ## SEO Metadata
 
 - **Primary keyword:** estimulación y procedimientos de rehabilitación del ictus
+
+- **Meta title:** Dispositivos de rehabilitación del ictus en China: estimulación e interfaces cerebro-ordenador
+- **Meta description:** Comprenda qué objetivos pueden abordar estimulación, inyecciones e interfaces cerebro-ordenador al valorar dispositivos de rehabilitación del ictus en China.

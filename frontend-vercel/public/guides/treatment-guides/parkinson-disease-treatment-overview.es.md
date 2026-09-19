@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Tratamiento de la enfermedad de Parkinson en China: Un plan centrado en la función diaria
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de Parkinson
-- **Subtitle:** Una mano que tiembla en reposo, la dificultad creciente para abrocharse la ropa o unos pies que vacilan al girar pueden llevar a una persona al neurólogo.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento de la enfermedad de Parkinson en China: Un plan centrado en la función diaria
+- **Subtitle:** Prepare un plan de Parkinson en China centrado en tareas cotidianas, respuesta a la medicación, fluctuaciones y práctica de rehabilitación.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -92,3 +94,6 @@ Fuentes comprobadas: 9 de septiembre de 2026. Este artículo proporciona educaci
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento de la enfermedad de Parkinson en China
+
+- **Meta title:** Tratamiento de la enfermedad de Parkinson en China: Un plan centrado en la función diaria
+- **Meta description:** Prepare un plan de Parkinson en China centrado en tareas cotidianas, respuesta a la medicación, fluctuaciones y práctica de rehabilitación.

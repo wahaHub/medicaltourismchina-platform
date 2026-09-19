@@ -1,12 +1,14 @@
-# Comparer les traitements du LDGCB : quelles options à quel stade ?
+# Options de traitement du LDGCB en Chine : comparer selon l’étape des soins
 
 ## Hero
 
-- **Title:** Comparer les traitements du LDGCB : quelles options à quel stade ?
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome diffus à grandes cellules B
-- **Subtitle:** Le R-CHOP, les associations avec polatuzumab, la greffe, les cellules CAR T et les anticorps bispécifiques ne doivent pas être classés du plus faible au plus puissant.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Options de traitement du LDGCB en Chine : comparer selon l’étape des soins
+- **Subtitle:** Comparez les traitements du LDGCB selon la ligne de soins, le délai de rechute et l’aptitude à la greffe pour préparer une décision thérapeutique en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Attribuez la responsabilité du suivi et précisez quels examens peuvent être r
 ## SEO Metadata
 
 - **Primary keyword:** comparaison des traitements du LDGCB
+
+- **Meta title:** Options de traitement du LDGCB en Chine : comparer selon l’étape des soins
+- **Meta description:** Comparez les traitements du LDGCB selon la ligne de soins, le délai de rechute et l’aptitude à la greffe pour préparer une décision thérapeutique en Chine.

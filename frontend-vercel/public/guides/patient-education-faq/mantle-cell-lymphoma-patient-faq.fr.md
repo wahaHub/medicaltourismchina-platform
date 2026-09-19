@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Lymphome à cellules du manteau : 20 questions sur le diagnostic, le traitement en Chine et le retour au pays
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Lymphome à cellules du manteau
-- **Subtitle:** Le traitement du lymphome à cellules du manteau évolue, et des patients ayant le même diagnostic peuvent présenter une évolution de la maladie et des antécédents thérapeutiques très différents.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Lymphome à cellules du manteau : 20 questions sur le diagnostic, le traitement en Chine et le retour au pays
+- **Subtitle:** Préparez vos soins du lymphome du manteau en Chine avec 20 questions sur le diagnostic, la surveillance, le traitement et le retour au pays.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -177,3 +179,6 @@ La poursuite du traitement ou la récupération après greffe ou CAR-T ne devien
 ## SEO Metadata
 
 - **Primary keyword:** questions des patients sur le lymphome à cellules du manteau et le traitement en Chine
+
+- **Meta title:** Lymphome à cellules du manteau : 20 questions sur le diagnostic, le traitement en Chine et le retour au pays
+- **Meta description:** Préparez vos soins du lymphome du manteau en Chine avec 20 questions sur le diagnostic, la surveillance, le traitement et le retour au pays.

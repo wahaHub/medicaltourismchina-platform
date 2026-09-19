@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Ein Parkinson-Krankenhaus in China auswählen: Diagnose, Eingriffe und Unterstützung zu Hause
 - **Category:** Krankenhausratgeber
 - **Subcategory:** Parkinson-Krankheit
-- **Subtitle:** Wählen Sie eine Parkinson-Versorgung, deren Fähigkeiten zu dem Problem passen, das Sie angehen müssen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Ein Parkinson-Krankenhaus in China auswählen: Diagnose, Eingriffe und Unterstützung zu Hause
+- **Subtitle:** Ein Parkinson-Zentrum in China auswählen: Diagnostik, Eignungsprüfung für tiefe Hirnstimulation, Programmierung, Medikamentensicherheit und Übergabe vergleichen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Symptome und Lebensumstände des Patienten verändern sich auch nach der Abreise
 ## SEO Metadata
 
 - **Primary keyword:** ein Krankenhaus für Parkinson in China auswählen
+
+- **Meta title:** Ein Parkinson-Krankenhaus in China auswählen: Diagnose, Eingriffe und Unterstützung zu Hause
+- **Meta description:** Ein Parkinson-Zentrum in China auswählen: Diagnostik, Eignungsprüfung für tiefe Hirnstimulation, Programmierung, Medikamentensicherheit und Übergabe vergleichen.

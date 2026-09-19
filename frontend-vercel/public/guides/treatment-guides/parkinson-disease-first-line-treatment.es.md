@@ -1,12 +1,14 @@
-# Iniciar el tratamiento de la enfermedad de Parkinson: qué debe conseguir la primera prescripción
+# Iniciar el tratamiento del Parkinson en China: la primera prescripción
 
 ## Hero
 
-- **Title:** Iniciar el tratamiento de la enfermedad de Parkinson: qué debe conseguir la primera prescripción
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de Parkinson
-- **Subtitle:** A los pacientes recién diagnosticados suele preocuparles tanto retrasar la atención como agotar demasiado pronto las opciones terapéuticas.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Iniciar el tratamiento del Parkinson en China: la primera prescripción
+- **Subtitle:** Prepare la primera prescripción para Parkinson en China con objetivos cotidianos y preguntas sobre levodopa, otras opciones, conducta y estado de alerta.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Evidencia comprobada: September 9, 2026. Este artículo no especifica una dosis 
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento de primera línea para la enfermedad de Parkinson en China
+
+- **Meta title:** Iniciar el tratamiento del Parkinson en China: la primera prescripción
+- **Meta description:** Prepare la primera prescripción para Parkinson en China con objetivos cotidianos y preguntas sobre levodopa, otras opciones, conducta y estado de alerta.

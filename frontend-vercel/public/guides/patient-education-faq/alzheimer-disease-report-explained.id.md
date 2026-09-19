@@ -1,12 +1,14 @@
-# Memahami Laporan Pemeriksaan Alzheimer: Skor Kognitif, Atrofi, p-tau, dan APOE
+# Laporan Pemeriksaan Alzheimer: Persiapan Tinjauan di Tiongkok
 
 ## Hero
 
-- **Title:** Memahami Laporan Pemeriksaan Alzheimer: Skor Kognitif, Atrofi, p-tau, dan APOE
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Penyakit Alzheimer
-- **Subtitle:** Setelah penilaian daya ingat, keluarga mungkin menerima beberapa laporan yang tampak tidak selaras.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Laporan Pemeriksaan Alzheimer: Persiapan Tinjauan di Tiongkok
+- **Subtitle:** Pahami skor kognitif, atrofi, p-tau, dan APOE pada laporan Alzheimer. Siapkan konteks hasil serta fungsi sehari-hari untuk tinjauan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ Sebelum mengakhiri peninjauan, pastikan apakah ada temuan yang memerlukan tindak
 ## SEO Metadata
 
 - **Primary keyword:** memahami hasil pemeriksaan Alzheimer
+
+- **Meta title:** Laporan Pemeriksaan Alzheimer: Persiapan Tinjauan di Tiongkok
+- **Meta description:** Pahami skor kognitif, atrofi, p-tau, dan APOE pada laporan Alzheimer. Siapkan konteks hasil serta fungsi sehari-hari untuk tinjauan di Tiongkok.

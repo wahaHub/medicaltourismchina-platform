@@ -1,12 +1,14 @@
-# Understanding an MS report: MRI lesions, spinal-fluid results, and functional measurements
+# Multiple Sclerosis Reports: Preparing for Review in China
 
 ## Hero
 
-- **Title:** Understanding an MS report: MRI lesions, spinal-fluid results, and functional measurements
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Multiple Sclerosis
-- **Subtitle:** Terms such as “multiple lesions,” “possible demyelination,” and “positive oligoclonal bands” can sound like immediate conclusions about severity or treatment failure.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Multiple Sclerosis Reports: Preparing for Review in China
+- **Subtitle:** Understand MS MRI, spinal-fluid and functional results, and prepare a report review in China around a specific care decision.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ If more tests are requested, ask what information is missing from the existing r
 ## SEO Metadata
 
 - **Primary keyword:** multiple sclerosis MRI and test report interpretation
+
+- **Meta title:** Multiple Sclerosis Reports: Preparing for Review in China
+- **Meta description:** Understand MS MRI, spinal-fluid and functional results, and prepare a report review in China around a specific care decision.

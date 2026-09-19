@@ -1,12 +1,14 @@
-# Resultados del mieloma múltiple: interpretar cifras de supervivencia y planificar la recuperación
+# Pronóstico del mieloma: interpretar los resultados para la atención en China
 
 ## Hero
 
-- **Title:** Resultados del mieloma múltiple: interpretar cifras de supervivencia y planificar la recuperación
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Mieloma múltiple
-- **Subtitle:** Cuando alguien pregunta cuánto puede vivir con mieloma, también puede estar preguntando si podrá regresar a casa, caminar con independencia, volver a trabajar o pasar menos tiempo hospitalizado.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronóstico del mieloma: interpretar los resultados para la atención en China
+- **Subtitle:** Interprete las cifras de supervivencia, respuesta y enfermedad residual del mieloma múltiple para valorar objetivos y seguimiento en una consulta en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Antes de viajar a China, confirme que seguimiento y medicamentos continuados seg
 ## SEO Metadata
 
 - **Primary keyword:** pronóstico del mieloma múltiple y resultados terapéuticos en China
+
+- **Meta title:** Pronóstico del mieloma: interpretar los resultados para la atención en China
+- **Meta description:** Interprete las cifras de supervivencia, respuesta y enfermedad residual del mieloma múltiple para valorar objetivos y seguimiento en una consulta en China.

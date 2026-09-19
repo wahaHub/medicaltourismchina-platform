@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Dossiers médicaux pour la prise en charge de la drépanocytose en Chine : diagnostic, compatibilité sanguine, crises et antécédents thérapeutiques
 - **Category:** Guides du parcours patient
 - **Subcategory:** Drépanocytose
-- **Subtitle:** Préparer les dossiers pour la prise en charge de la drépanocytose consiste moins à produire une grande pile de documents qu’à permettre à une nouvelle équipe de comprendre l’état habituel du patient, ses événements graves antérieurs et son traitement actuel.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dossiers médicaux pour la prise en charge de la drépanocytose en Chine : diagnostic, compatibilité sanguine, crises et antécédents thérapeutiques
+- **Subtitle:** Préparez un dossier de drépanocytose pour la Chine : diagnostic, état habituel, crises, compatibilité sanguine et antécédents de réactions transfusionnelles.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ Après transmission, demandez quels éléments précis manquent encore plutôt q
 ## SEO Metadata
 
 - **Primary keyword:** dossiers médicaux pour le traitement de la drépanocytose en Chine
+
+- **Meta title:** Dossiers médicaux pour la prise en charge de la drépanocytose en Chine : diagnostic, compatibilité sanguine, crises et antécédents thérapeutiques
+- **Meta description:** Préparez un dossier de drépanocytose pour la Chine : diagnostic, état habituel, crises, compatibilité sanguine et antécédents de réactions transfusionnelles.

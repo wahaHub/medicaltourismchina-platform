@@ -1,12 +1,14 @@
-# Cómo entender un informe de mieloma múltiple: proteínas, médula ósea, imagen y EMR
+# Informes de mieloma múltiple: prepararse para una revisión en China
 
 ## Hero
 
-- **Title:** Cómo entender un informe de mieloma múltiple: proteínas, médula ósea, imagen y EMR
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Mieloma múltiple
-- **Subtitle:** Un expediente de mieloma puede contener muchos resultados señalados, pero el número de flechas no describe la enfermedad.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Informes de mieloma múltiple: prepararse para una revisión en China
+- **Subtitle:** Interprete proteínas, cadenas ligeras, médula ósea e imágenes del mieloma múltiple con sus unidades y contexto antes de una revisión médica en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ El equipo receptor podrá entonces decidir si la revisión o las pruebas adicion
 ## SEO Metadata
 
 - **Primary keyword:** explicación del informe de mieloma múltiple
+
+- **Meta title:** Informes de mieloma múltiple: prepararse para una revisión en China
+- **Meta description:** Interprete proteínas, cadenas ligeras, médula ósea e imágenes del mieloma múltiple con sus unidades y contexto antes de una revisión médica en China.

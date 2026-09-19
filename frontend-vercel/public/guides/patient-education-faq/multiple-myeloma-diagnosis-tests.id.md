@@ -1,12 +1,14 @@
-# Tes untuk dugaan mieloma multipel: apa yang hendak ditetapkan oleh setiap langkah
+# Diagnosis Mieloma Multipel di Tiongkok: Pemeriksaan dan Persiapan
 
 ## Hero
 
-- **Title:** Tes untuk dugaan mieloma multipel: apa yang hendak ditetapkan oleh setiap langkah
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Mieloma Multipel
-- **Subtitle:** Protein darah abnormal, nyeri punggung menetap, atau penurunan fungsi ginjal yang tidak diperkirakan dapat mengarah pada pemeriksaan gangguan sel plasma.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnosis Mieloma Multipel di Tiongkok: Pemeriksaan dan Persiapan
+- **Subtitle:** Pahami pemeriksaan protein, urine, sumsum tulang, dan genetik pada dugaan mieloma multipel. Siapkan hasil untuk penilaian dan pengobatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Pada akhir pemeriksaan, Anda tidak memerlukan setiap angka normal untuk memahami
 ## SEO Metadata
 
 - **Primary keyword:** tes diagnostik mieloma multipel
+
+- **Meta title:** Diagnosis Mieloma Multipel di Tiongkok: Pemeriksaan dan Persiapan
+- **Meta description:** Pahami pemeriksaan protein, urine, sumsum tulang, dan genetik pada dugaan mieloma multipel. Siapkan hasil untuk penilaian dan pengobatan di Tiongkok.

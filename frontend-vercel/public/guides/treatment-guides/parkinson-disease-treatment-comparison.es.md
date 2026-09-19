@@ -1,12 +1,14 @@
-# Comparación de tratamientos del Parkinson: ajuste de medicación, infusión, DBS y ultrasonidos focalizados
+# Opciones de tratamiento del Parkinson en China: medicamentos y dispositivos
 
 ## Hero
 
-- **Title:** Comparación de tratamientos del Parkinson: ajuste de medicación, infusión, DBS y ultrasonidos focalizados
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de Parkinson
-- **Subtitle:** Cuando la medicación deja de proporcionar un día predecible, los pacientes pueden recibir recomendaciones de añadir un fármaco, cambiar de formulación, utilizar un sistema de infusión o considerar un procedimiento.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Opciones de tratamiento del Parkinson en China: medicamentos y dispositivos
+- **Subtitle:** Compare ajuste de medicación, infusión, estimulación cerebral profunda y ultrasonidos para Parkinson según el problema clínico y el seguimiento en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Pruebas verificadas: 9 de septiembre de 2026. La institución receptora debe con
 ## SEO Metadata
 
 - **Primary keyword:** comparación de tratamientos de la enfermedad de Parkinson en China
+
+- **Meta title:** Opciones de tratamiento del Parkinson en China: medicamentos y dispositivos
+- **Meta description:** Compare ajuste de medicación, infusión, estimulación cerebral profunda y ultrasonidos para Parkinson según el problema clínico y el seguimiento en China.

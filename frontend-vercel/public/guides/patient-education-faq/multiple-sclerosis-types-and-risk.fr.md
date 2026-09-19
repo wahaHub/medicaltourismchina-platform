@@ -1,12 +1,14 @@
-# Formes de sclérose en plaques et risque individuel : ce que changent les poussées et la progression
+# Formes et risques de la sclérose en plaques : évaluation en Chine
 
 ## Hero
 
-- **Title:** Formes de sclérose en plaques et risque individuel : ce que changent les poussées et la progression
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Sclérose en plaques
-- **Subtitle:** Les formes rémittente-récurrente, secondairement progressive et primaire progressive ne sont pas trois degrés de gravité allant de léger à sévère.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Formes et risques de la sclérose en plaques : évaluation en Chine
+- **Subtitle:** Comprenez formes récurrentes et progressives de la sclérose en plaques, activité et handicap pour préparer une évaluation personnalisée en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Si deux hôpitaux utilisent des classifications différentes, comparez l’histo
 ## SEO Metadata
 
 - **Primary keyword:** formes de sclérose en plaques et évaluation du risque
+
+- **Meta title:** Formes et risques de la sclérose en plaques : évaluation en Chine
+- **Meta description:** Comprenez formes récurrentes et progressives de la sclérose en plaques, activité et handicap pour préparer une évaluation personnalisée en Chine.

@@ -1,12 +1,14 @@
-# ¿El linfoma de células T necesita cirugía? Biopsia, acceso vascular, procedimientos intestinales y recogida de células
+# Procedimientos para el linfoma de células T en China: propósito y preparación
 
 ## Hero
 
-- **Title:** ¿El linfoma de células T necesita cirugía? Biopsia, acceso vascular, procedimientos intestinales y recogida de células
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de células T
-- **Subtitle:** «Se extirpó el ganglio linfático, ¿por qué se necesita más tratamiento?». «¿Un trasplante de células madre significa una operación para sustituir la médula?». En una conversación cotidiana, varios procedimientos pueden llamarse cirugía, aunque tienen finalidades muy diferentes.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Procedimientos para el linfoma de células T en China: propósito y preparación
+- **Subtitle:** Comprenda el propósito de biopsia, acceso vascular, procedimientos intestinales y recogida celular en linfoma de células T al preparar atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Por ejemplo, una revisión de la herida quirúrgica y una cita de hematología p
 ## SEO Metadata
 
 - **Primary keyword:** cirugía y procedimientos para el linfoma de células T
+
+- **Meta title:** Procedimientos para el linfoma de células T en China: propósito y preparación
+- **Meta description:** Comprenda el propósito de biopsia, acceso vascular, procedimientos intestinales y recogida celular en linfoma de células T al preparar atención en China.

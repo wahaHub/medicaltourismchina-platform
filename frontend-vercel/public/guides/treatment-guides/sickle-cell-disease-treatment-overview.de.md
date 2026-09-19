@@ -1,12 +1,14 @@
-# Behandlung der Sichelzellkrankheit: Krisen vorbeugen, Organe schützen und grundlegend verändernde Therapien erwägen
+# Behandlung der Sichelzellkrankheit in China: Optionen und Zugang
 
 ## Hero
 
-- **Title:** Behandlung der Sichelzellkrankheit: Krisen vorbeugen, Organe schützen und grundlegend verändernde Therapien erwägen
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Sichelzellkrankheit
-- **Subtitle:** Bei der Behandlung der Sichelzellkrankheit geht es um mehr als das Beenden der aktuellen Schmerzepisode.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Behandlung der Sichelzellkrankheit in China: Optionen und Zugang
+- **Subtitle:** Sichelzellbehandlung in China planen: Genotyp, Krisenlast, Hydroxyurea, Transfusionen, Organschutz und Eignung für Transplantation oder Gentherapie prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -147,3 +149,6 @@ Für eine Einschätzung oder Behandlung in China senden Sie Diagnosenachweise, A
 ## SEO Metadata
 
 - **Primary keyword:** Ratgeber zur Behandlung der Sichelzellkrankheit
+
+- **Meta title:** Behandlung der Sichelzellkrankheit in China: Optionen und Zugang
+- **Meta description:** Sichelzellbehandlung in China planen: Genotyp, Krisenlast, Hydroxyurea, Transfusionen, Organschutz und Eignung für Transplantation oder Gentherapie prüfen.

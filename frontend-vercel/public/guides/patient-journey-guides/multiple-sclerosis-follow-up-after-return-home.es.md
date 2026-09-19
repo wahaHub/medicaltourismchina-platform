@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Seguimiento tras la atención de la esclerosis múltiple en China: conectar los resultados con las decisiones
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Esclerosis múltiple
-- **Subtitle:** La carencia de mayores consecuencias tras una consulta en el extranjero no suele ser un análisis de sangre omitido.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Seguimiento tras la atención de la esclerosis múltiple en China: conectar los resultados con las decisiones
+- **Subtitle:** Organice el seguimiento de esclerosis múltiple después de la atención en China, con responsables locales, controles de medicación y evaluación de cambios.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -104,3 +106,6 @@ Una organización de seguimiento viable culmina en responsabilidades asignadas e
 ## SEO Metadata
 
 - **Primary keyword:** seguimiento de la esclerosis múltiple después del tratamiento en China
+
+- **Meta title:** Seguimiento tras la atención de la esclerosis múltiple en China: conectar los resultados con las decisiones
+- **Meta description:** Organice el seguimiento de esclerosis múltiple después de la atención en China, con responsables locales, controles de medicación y evaluación de cambios.

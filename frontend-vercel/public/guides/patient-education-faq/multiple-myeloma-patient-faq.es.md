@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Veinte preguntas de los pacientes sobre el tratamiento del mieloma múltiple en China
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Mieloma múltiple
-- **Subtitle:** Veinte preguntas de los pacientes sobre el tratamiento del mieloma múltiple en China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Veinte preguntas de los pacientes sobre el tratamiento del mieloma múltiple en China
+- **Subtitle:** Prepare preguntas sobre pruebas, riesgo y elección del tratamiento del mieloma múltiple en China, con explicaciones para conversar con su equipo médico.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ Fuentes comprobadas: 9 de septiembre de 2026. Este artículo ofrece educación g
 ## SEO Metadata
 
 - **Primary keyword:** preguntas de pacientes sobre el mieloma múltiple; tratamiento del mieloma múltiple en China
+
+- **Meta title:** Veinte preguntas de los pacientes sobre el tratamiento del mieloma múltiple en China
+- **Meta description:** Prepare preguntas sobre pruebas, riesgo y elección del tratamiento del mieloma múltiple en China, con explicaciones para conversar con su equipo médico.

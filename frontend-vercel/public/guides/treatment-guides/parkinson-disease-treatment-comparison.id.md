@@ -1,12 +1,14 @@
-# Membandingkan Pengobatan Parkinson: Penyesuaian Obat, Infus, DBS, dan Ultrasonografi Terfokus
+# Pilihan Pengobatan Parkinson di Tiongkok: Obat dan Perangkat
 
 ## Hero
 
-- **Title:** Membandingkan Pengobatan Parkinson: Penyesuaian Obat, Infus, DBS, dan Ultrasonografi Terfokus
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Parkinson
-- **Subtitle:** Ketika obat tidak lagi memberikan kondisi harian yang dapat diprediksi, pasien mungkin mendengar rekomendasi menambah obat, mengubah formulasi, menggunakan sistem infus, atau mempertimbangkan prosedur.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pilihan Pengobatan Parkinson di Tiongkok: Obat dan Perangkat
+- **Subtitle:** Bandingkan penyesuaian obat, infus, DBS, dan ultrasonografi terfokus untuk Parkinson di Tiongkok menurut gejala sasaran serta kebutuhan perawatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Bukti diverifikasi: September 9, 2026. Indikasi individu, registrasi perangkat l
 ## SEO Metadata
 
 - **Primary keyword:** perbandingan pengobatan penyakit Parkinson di Tiongkok
+
+- **Meta title:** Pilihan Pengobatan Parkinson di Tiongkok: Obat dan Perangkat
+- **Meta description:** Bandingkan penyesuaian obat, infus, DBS, dan ultrasonografi terfokus untuk Parkinson di Tiongkok menurut gejala sasaran serta kebutuhan perawatan.

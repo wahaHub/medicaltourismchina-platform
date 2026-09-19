@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Memilih Rumah Sakit Parkinson di Tiongkok: Diagnosis, Prosedur, dan Dukungan di Rumah
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Penyakit Parkinson
-- **Subtitle:** Pilih layanan Parkinson dengan mencocokkan kemampuannya dengan kesulitan yang perlu Anda atasi.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Memilih Rumah Sakit Parkinson di Tiongkok: Diagnosis, Prosedur, dan Dukungan di Rumah
+- **Subtitle:** Pilih tim Parkinson di Tiongkok menurut masalah diagnosis, obat, DBS, atau menelan. Periksa pemrograman dan dukungan perawatan di rumah.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Gejala dan keadaan hidup pasien akan terus berubah setelah meninggalkan Tiongkok
 ## SEO Metadata
 
 - **Primary keyword:** memilih rumah sakit penyakit Parkinson di Tiongkok
+
+- **Meta title:** Memilih Rumah Sakit Parkinson di Tiongkok: Diagnosis, Prosedur, dan Dukungan di Rumah
+- **Meta description:** Pilih tim Parkinson di Tiongkok menurut masalah diagnosis, obat, DBS, atau menelan. Periksa pemrograman dan dukungan perawatan di rumah.

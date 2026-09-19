@@ -1,12 +1,14 @@
-# Pruebas antes de la rehabilitación del ictus: revisión médica, evaluación funcional y preparación
+# Evaluación de rehabilitación del ictus en China: pruebas y planificación
 
 ## Hero
 
-- **Title:** Pruebas antes de la rehabilitación del ictus: revisión médica, evaluación funcional y preparación
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Rehabilitación después de un ictus isquémico
-- **Subtitle:** Cuando se empieza a hablar de rehabilitación, una persona con un ictus isquémico puede tener ya informes de TC o RM, un ECG, resultados de laboratorio y una lista detallada de medicación.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Evaluación de rehabilitación del ictus en China: pruebas y planificación
+- **Subtitle:** Prepare una evaluación de rehabilitación del ictus en China con revisión médica, función, deglución y tolerancia al esfuerzo vinculadas a objetivos concretos.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -118,3 +120,6 @@ Conserve la fecha de evaluación, el idioma y los nombres de los instrumentos, j
 ## SEO Metadata
 
 - **Primary keyword:** pruebas antes de la rehabilitación del ictus
+
+- **Meta title:** Evaluación de rehabilitación del ictus en China: pruebas y planificación
+- **Meta description:** Prepare una evaluación de rehabilitación del ictus en China con revisión médica, función, deglución y tolerancia al esfuerzo vinculadas a objetivos concretos.

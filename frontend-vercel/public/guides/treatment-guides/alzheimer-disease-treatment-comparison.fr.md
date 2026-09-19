@@ -1,12 +1,14 @@
-# Comparer les traitements de la maladie d’Alzheimer : médicaments symptomatiques, lécanémab et donanémab
+# Options de traitement d’Alzheimer en Chine : comparaison pour les patients
 
 ## Hero
 
-- **Title:** Comparer les traitements de la maladie d’Alzheimer : médicaments symptomatiques, lécanémab et donanémab
 - **Category:** Guides des traitements
 - **Subcategory:** Maladie d’Alzheimer
-- **Subtitle:** Les familles qui comparent le donépézil, la mémantine, le lécanémab et le donanémab souhaitent souvent une réponse unique sur le meilleur choix.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Options de traitement d’Alzheimer en Chine : comparaison pour les patients
+- **Subtitle:** Comparez médicaments symptomatiques et anticorps contre Alzheimer selon les patients concernés, les objectifs, l’administration et la surveillance en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ Le suivi peut évaluer les capacités actuelles, les symptômes, la tolérance e
 ## SEO Metadata
 
 - **Primary keyword:** comparaison des traitements de la maladie d’Alzheimer
+
+- **Meta title:** Options de traitement d’Alzheimer en Chine : comparaison pour les patients
+- **Meta description:** Comparez médicaments symptomatiques et anticorps contre Alzheimer selon les patients concernés, les objectifs, l’administration et la surveillance en Chine.

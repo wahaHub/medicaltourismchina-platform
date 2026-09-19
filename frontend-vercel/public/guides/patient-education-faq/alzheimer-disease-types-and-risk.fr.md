@@ -1,12 +1,14 @@
-# Stades et risques de la maladie d’Alzheimer : pourquoi début jeune, maladie au stade précoce et MCI diffèrent
+# Stades et risques d’Alzheimer : préparer des soins en Chine
 
 ## Hero
 
-- **Title:** Stades et risques de la maladie d’Alzheimer : pourquoi début jeune, maladie au stade précoce et MCI diffèrent
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Maladie d’Alzheimer
-- **Subtitle:** La maladie d’Alzheimer à début jeune, la maladie d’Alzheimer au stade précoce et le trouble cognitif léger peuvent sembler désigner la même situation.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Stades et risques d’Alzheimer : préparer des soins en Chine
+- **Subtitle:** Distinguez âge de début, trouble cognitif léger et gravité d’Alzheimer pour préparer une évaluation en Chine tenant compte des capacités quotidiennes.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -109,3 +111,6 @@ Si une personne a dépassé le stade étudié pour commencer un anticorps, des d
 ## SEO Metadata
 
 - **Primary keyword:** stades de la maladie d’Alzheimer
+
+- **Meta title:** Stades et risques d’Alzheimer : préparer des soins en Chine
+- **Meta description:** Distinguez âge de début, trouble cognitif léger et gravité d’Alzheimer pour préparer une évaluation en Chine tenant compte des capacités quotidiennes.

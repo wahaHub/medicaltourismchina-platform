@@ -1,12 +1,14 @@
-# Multiple myeloma treatment: protecting organs while planning long-term control
+# Multiple Myeloma Treatment in China: Options and Ongoing Care
 
 ## Hero
 
-- **Title:** Multiple myeloma treatment: protecting organs while planning long-term control
 - **Category:** Treatment Guides
 - **Subcategory:** Multiple Myeloma
-- **Subtitle:** Multiple myeloma treatment is usually a sequence of decisions rather than a single procedure.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Multiple Myeloma Treatment in China: Options and Ongoing Care
+- **Subtitle:** Understand myeloma care that protects organs while planning longer-term disease control, with practical questions about the whole pathway in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ A useful first consultation leaves you with the immediate treatment goal, the mo
 ## SEO Metadata
 
 - **Primary keyword:** multiple myeloma treatment options in China
+
+- **Meta title:** Multiple Myeloma Treatment in China: Options and Ongoing Care
+- **Meta description:** Understand myeloma care that protects organs while planning longer-term disease control, with practical questions about the whole pathway in China.

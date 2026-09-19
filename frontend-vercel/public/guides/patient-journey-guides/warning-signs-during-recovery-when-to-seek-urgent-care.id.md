@@ -1,15 +1,17 @@
-# 144 Tanda Bahaya Selama Pemulihan: Pahami Perubahannya, Bukan Sekadar Angkanya
+# Tanda Bahaya Pemulihan | Kapan Menghubungi 120 di Tiongkok
 
 ## Hero
 
-- **Title:** Tanda Bahaya Selama Pemulihan: Pahami Perubahannya, Bukan Sekadar Angkanya
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Pengenalan Komplikasi dan Eskalasi Mendesak
-- **Subtitle:** Suhu, skor nyeri, atau pembacaan oksigen hanya bermakna bila disandingkan dengan kondisi awal pasien, jalur pemulihan yang diharapkan, dan perubahan yang menyertainya.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Seorang klinisi meninjau mobilitas, gejala, dan status jantung bersama pasien yang sedang pulih di samping alat bantu jalan.
+
+
+- **Title:** Tanda Bahaya Pemulihan | Kapan Menghubungi 120 di Tiongkok
+- **Subtitle:** Suhu, skor nyeri, atau pembacaan oksigen hanya bermakna bila disandingkan dengan kondisi awal pasien, jalur pemulihan yang diharapkan, dan perubahan yang menyertainya.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -194,13 +196,15 @@ Sebutkan prosedur dan tanggal, gejala tepat dan awalnya, apakah memburuk, obat/p
 ## SEO Metadata
 
 - **Slug:** `warning-signs-during-recovery-when-to-seek-urgent-care`
-- **Meta title:** Tanda Bahaya Pemulihan | Kapan Menghubungi 120 di Tiongkok
-- **Meta description:** Kenali perubahan pemulihan yang darurat, perlu ditangani hari yang sama, dan dapat dipantau di rumah melalui perkembangan gejala, fungsi, dan ambang khusus prosedur.
 - **Primary keyword:** tanda bahaya pemulihan setelah operasi
 - **Pillar keyword:** perjalanan medis ke Tiongkok
 - **Vertical keyword:** pertolongan mendesak selama pemulihan pengobatan
 - **Search intent:** pengenalan komplikasi / tindakan darurat
 - **Secondary keywords:** kapan menelepon 120 Tiongkok; tanda bahaya pascaoperasi; tanda infeksi luka; pernapasan overdosis opioid; eskalasi gejala pemulihan
+
+
+- **Meta title:** Tanda Bahaya Pemulihan | Kapan Menghubungi 120 di Tiongkok
+- **Meta description:** Kenali perubahan pemulihan yang darurat, perlu ditangani hari yang sama, dan dapat dipantau di rumah melalui perkembangan gejala, fungsi, dan ambang khusus prosedur.
 
 ## Sumber
 

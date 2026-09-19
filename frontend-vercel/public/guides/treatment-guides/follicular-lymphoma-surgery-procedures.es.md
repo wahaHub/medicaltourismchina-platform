@@ -1,12 +1,14 @@
-# Procedimientos en el linfoma folicular: biopsia, acceso venoso, examen de médula ósea y obtención de células
+# Procedimientos del linfoma folicular en China: biopsia y preparación
 
 ## Hero
 
-- **Title:** Procedimientos en el linfoma folicular: biopsia, acceso venoso, examen de médula ósea y obtención de células
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma folicular
-- **Subtitle:** Una persona con linfoma folicular puede someterse a cirugía ganglionar, un examen de médula ósea, la colocación de un reservorio o la obtención de células.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Procedimientos del linfoma folicular en China: biopsia y preparación
+- **Subtitle:** Prepare biopsia, estudio medular, acceso venoso o recogida celular por linfoma folicular en China con preguntas sobre objetivos, medicación y recuperación.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ La duración del ingreso, el tiempo necesario cerca del hospital y la aptitud pa
 ## SEO Metadata
 
 - **Primary keyword:** cirugía y procedimientos del linfoma folicular
+
+- **Meta title:** Procedimientos del linfoma folicular en China: biopsia y preparación
+- **Meta description:** Prepare biopsia, estudio medular, acceso venoso o recogida celular por linfoma folicular en China con preguntas sobre objetivos, medicación y recuperación.

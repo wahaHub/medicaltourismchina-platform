@@ -1,12 +1,14 @@
-# Comparación de tratamientos de la anemia aplásica: decidir entre trasplante e inmunosupresión
+# Atención de la anemia aplásica en China: trasplante frente a inmunosupresión
 
 ## Hero
 
-- **Title:** Comparación de tratamientos de la anemia aplásica: decidir entre trasplante e inmunosupresión
 - **Category:** Guías de tratamiento
 - **Subcategory:** Anemia aplásica
-- **Subtitle:** Si un hospital propone un trasplante y otro recomienda terapia basada en ATG, no empiece por ordenar las tasas de éxito que citan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Atención de la anemia aplásica en China: trasplante frente a inmunosupresión
+- **Subtitle:** Compare trasplante e inmunosupresión para anemia aplásica en China según elegibilidad, resultados, riesgos y compromisos de seguimiento a largo plazo.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -107,3 +109,6 @@ Compare también el alojamiento cerca del hospital, el tiempo que el cuidador de
 ## SEO Metadata
 
 - **Primary keyword:** comparar tratamientos de la anemia aplásica
+
+- **Meta title:** Atención de la anemia aplásica en China: trasplante frente a inmunosupresión
+- **Meta description:** Compare trasplante e inmunosupresión para anemia aplásica en China según elegibilidad, resultados, riesgos y compromisos de seguimiento a largo plazo.

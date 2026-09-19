@@ -1,12 +1,14 @@
-# Wie lange die Behandlung aplastischer Anämie dauert: Aufnahme, Ansprechen, Ausschleichen und Heimkehr
+# Behandlung der aplastischen Anämie in China: Zeit- und Reiseplanung
 
 ## Hero
 
-- **Title:** Wie lange die Behandlung aplastischer Anämie dauert: Aufnahme, Ansprechen, Ausschleichen und Heimkehr
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Aplastische Anämie
-- **Subtitle:** Behandlungsdauer kann das Ende eines ATG-Aufenthalts, Transfusionsfreiheit, das Absetzen von Medikamenten oder die Rückkehr in eine andere Stadt bedeuten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Behandlung der aplastischen Anämie in China: Zeit- und Reiseplanung
+- **Subtitle:** Den Zeitbedarf bei aplastischer Anämie in China planen: ATG, Ansprechkontrollen, fortlaufende Medikamente, Transplantation und Heimkehr als eigene Phasen betrachten.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Fragen Sie bei jeder Kontrolle, welche Veränderung das Team bis zur nächsten B
 ## SEO Metadata
 
 - **Primary keyword:** Behandlungsdauer bei aplastischer Anämie
+
+- **Meta title:** Behandlung der aplastischen Anämie in China: Zeit- und Reiseplanung
+- **Meta description:** Den Zeitbedarf bei aplastischer Anämie in China planen: ATG, Ansprechkontrollen, fortlaufende Medikamente, Transplantation und Heimkehr als eigene Phasen betrachten.

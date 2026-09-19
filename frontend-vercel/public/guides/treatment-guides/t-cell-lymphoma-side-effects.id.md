@@ -1,12 +1,14 @@
-# Mengelola efek samping pengobatan limfoma sel T: kapan mencari bantuan dan apa yang perlu dicatat di rumah
+# Perawatan Limfoma Sel T di Tiongkok: Efek Samping dan Pertolongan Segera
 
 ## Hero
 
-- **Title:** Mengelola efek samping pengobatan limfoma sel T: kapan mencari bantuan dan apa yang perlu dicatat di rumah
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel T
-- **Subtitle:** Pertanyaan pertama setelah muncul gejala baru sering kali adalah apakah itu efek samping yang normal.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Perawatan Limfoma Sel T di Tiongkok: Efek Samping dan Pertolongan Segera
+- **Subtitle:** Siapkan rencana kontak selama pengobatan limfoma sel T di Tiongkok. Kenali demam, perdarahan, dan perubahan yang perlu dicatat serta dinilai segera.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -111,3 +113,6 @@ Sebelum pulang, dapatkan hasil hitung darah, ginjal, dan hati terbaru, tanggal p
 ## SEO Metadata
 
 - **Primary keyword:** efek samping pengobatan limfoma sel T
+
+- **Meta title:** Perawatan Limfoma Sel T di Tiongkok: Efek Samping dan Pertolongan Segera
+- **Meta description:** Siapkan rencana kontak selama pengobatan limfoma sel T di Tiongkok. Kenali demam, perdarahan, dan perubahan yang perlu dicatat serta dinilai segera.

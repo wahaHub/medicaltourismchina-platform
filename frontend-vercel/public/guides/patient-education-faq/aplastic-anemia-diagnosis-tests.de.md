@@ -1,12 +1,14 @@
-# Diagnose der aplastischen Anämie: grundlegende Tests und gezielte Untersuchungen
+# Diagnose der aplastischen Anämie in China: Untersuchungen und Vorbereitung
 
 ## Hero
 
-- **Title:** Diagnose der aplastischen Anämie: grundlegende Tests und gezielte Untersuchungen
 - **Category:** Patienteninformation und häufige Fragen
 - **Subcategory:** Aplastische Anämie
-- **Subtitle:** Niedrige Zahlen roter und weißer Blutkörperchen sowie Blutplättchen bestätigen für sich allein keine aplastische Anämie.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnose der aplastischen Anämie in China: Untersuchungen und Vorbereitung
+- **Subtitle:** Untersuchungen bei aplastischer Anämie in China vorbereiten: Blutbild, Knochenmark, PNH-Tests und gezielte genetische Abklärung einer diagnostischen Frage zuordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -101,3 +103,6 @@ Fordern Sie Kostenvoranschläge in Renminbi für Konsultation, Objektträgerbeur
 ## SEO Metadata
 
 - **Primary keyword:** Untersuchungen zur Diagnose aplastischer Anämie
+
+- **Meta title:** Diagnose der aplastischen Anämie in China: Untersuchungen und Vorbereitung
+- **Meta description:** Untersuchungen bei aplastischer Anämie in China vorbereiten: Blutbild, Knochenmark, PNH-Tests und gezielte genetische Abklärung einer diagnostischen Frage zuordnen.

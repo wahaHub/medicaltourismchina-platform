@@ -1,12 +1,14 @@
-# Radioterapia para el mieloma múltiple: tratar lesiones dolorosas y proteger la función
+# Radioterapia del mieloma en China: alivio del dolor y función
 
 ## Hero
 
-- **Title:** Radioterapia para el mieloma múltiple: tratar lesiones dolorosas y proteger la función
 - **Category:** Guías de tratamiento
 - **Subcategory:** Mieloma múltiple
-- **Subtitle:** Recomendar irradiar una zona dolorosa no significa necesariamente que el tratamiento sistémico del mieloma haya fracasado.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Radioterapia del mieloma en China: alivio del dolor y función
+- **Subtitle:** Comprenda cómo se valora la radioterapia para lesiones dolorosas del mieloma en China, distinguiendo dolor, estabilidad y síntomas que necesitan atención urgente.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Antes del viaje de regreso, revise el control del dolor, las transferencias segu
 ## SEO Metadata
 
 - **Primary keyword:** radioterapia para el mieloma múltiple en China
+
+- **Meta title:** Radioterapia del mieloma en China: alivio del dolor y función
+- **Meta description:** Comprenda cómo se valora la radioterapia para lesiones dolorosas del mieloma en China, distinguiendo dolor, estabilidad y síntomas que necesitan atención urgente.

@@ -1,15 +1,17 @@
-# Genetischer oder genomischer Test? Zuerst klären, ob es um erbliches Risiko, Diagnose oder Behandlung geht
+# Genetische und genomische Tests in China: Ergebnisse verstehen
 
 ## Hero
 
-- **Title:** Genetischer oder genomischer Test? Zuerst klären, ob es um erbliches Risiko, Diagnose oder Behandlung geht
 - **Category:** Patientenaufklärung und häufig gestellte Fragen
 - **Subcategory:** Untersuchungen und Diagnose
-- **Subtitle:** Ein praktischer Leitfaden zu Keimbahntests, Tumorprofilen, unklaren Varianten, breiten Genpanels, direkt an Verbraucher gerichteten Testergebnissen und Fragen, die vor dem Probenversand geklärt werden sollten.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Ein Arzt erläutert einem Patienten und einem Familienmitglied DNA-Befunde und ihre möglichen Auswirkungen
+
+
+- **Title:** Genetische und genomische Tests in China: Ergebnisse verstehen
+- **Subtitle:** Verstehen Sie Keimbahn- und Tumorgenomtests, VUS und negative Ergebnisse, breite Panels, DNA-Verbrauchertests, Berichtsqualität und Fragen vor dem Test.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,11 +147,13 @@ Handeln Sie nicht allein danach. Besprechen Sie das Originalergebnis mit einem q
 
 ## SEO Metadata
 
-- **SEO title:** Genetische und genomische Tests: Keimbahn, Tumorbefunde und VUS erklärt
-- **Meta description:** Verstehen Sie Keimbahn- und Tumorgenomtests, VUS und negative Ergebnisse, breite Panels, DNA-Verbrauchertests, Berichtsqualität und Fragen vor dem Test.
 - **Primary keyword:** Leitfaden zu genetischen und genomischen Tests
 - **Secondary keywords:** Keimbahntestung, Tumorprofilierung, somatische Mutation, Variante unklarer Signifikanz, genetische Beratung, Krebsbiomarkertestung
 - **Suggested URL slug:** `/genetic-genomic-tests-inherited-risk-diagnosis-treatment`
+
+
+- **Meta title:** Genetische und genomische Tests in China: Ergebnisse verstehen
+- **Meta description:** Verstehen Sie Keimbahn- und Tumorgenomtests, VUS und negative Ergebnisse, breite Panels, DNA-Verbrauchertests, Berichtsqualität und Fragen vor dem Test.
 
 ## Quellen
 

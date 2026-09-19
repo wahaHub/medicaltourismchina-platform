@@ -1,15 +1,17 @@
-# Kemungkinan Stroke Saat Perjalanan Medis: Gunakan BE-FAST, Catat Waktu Terakhir Diketahui Normal, Hubungi 120
+# Dugaan Stroke di Tiongkok: Kenali Tandanya dan Hubungi 120
 
 ## Hero
 
-- **Title:** Kemungkinan Stroke Saat Perjalanan Medis: Gunakan BE-FAST, Catat Waktu Terakhir Diketahui Normal, Hubungi 120
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Gejala & Perawatan Mendesak
-- **Subtitle:** Panduan bagi pelancong dan pendamping untuk mengenali gejala neurologis mendadak, mempertahankan catatan waktu pengobatan, dan mencapai layanan stroke setempat tanpa memutar jalan.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Pelancong dan pendamping di samping suasana rumah sakit dengan simbol otak, wajah tidak simetris, dan kelemahan satu lengan
+
+
+- **Title:** Dugaan Stroke di Tiongkok: Kenali Tandanya dan Hubungi 120
+- **Subtitle:** Kenali tanda stroke BE-FAST, catat waktu terakhir diketahui normal, hubungi 120, hindari aspirin, dan sampaikan serah terima darurat perjalanan medis secara ringkas.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,13 +142,15 @@ Waktu penemuan adalah ketika kelemahan terlihat. Waktu terakhir diketahui normal
 ## SEO Metadata
 
 - **Slug:** `recognizing-possible-stroke-symptoms-during-medical-travel`
-- **Meta title:** Kemungkinan Stroke Saat Bepergian: BE-FAST dan Hubungi 120
-- **Meta description:** Kenali tanda stroke BE-FAST, catat waktu terakhir diketahui normal, hubungi 120, hindari aspirin, dan sampaikan serah terima darurat perjalanan medis secara ringkas.
 - **Primary keyword:** gejala stroke saat perjalanan medis
 - **Pillar keyword:** keselamatan pasien selama perjalanan medis
 - **Vertical keyword:** tanda stroke BE-FAST China 120
 - **Search intent:** panduan darurat pasien
 - **Secondary keywords:** waktu terakhir diketahui normal; stroke di bandara; TIA saat bepergian; hubungi 120 China; aspirin dugaan stroke
+
+
+- **Meta title:** Dugaan Stroke di Tiongkok: Kenali Tandanya dan Hubungi 120
+- **Meta description:** Kenali tanda stroke BE-FAST, catat waktu terakhir diketahui normal, hubungi 120, hindari aspirin, dan sampaikan serah terima darurat perjalanan medis secara ringkas.
 
 ## Sumber
 

@@ -1,12 +1,14 @@
-# Évolution et pronostic de la maladie de Parkinson : autonomie, risques à long terme et anticipation
+# Pronostic de Parkinson : planifier les soins au long cours en Chine
 
 ## Hero
 
-- **Title:** Évolution et pronostic de la maladie de Parkinson : autonomie, risques à long terme et anticipation
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Maladie de Parkinson
-- **Subtitle:** « Combien de temps resterai-je autonome ? » correspond souvent mieux à la préoccupation du patient que le nombre de points gagnés sur une échelle motrice.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronostic de Parkinson : planifier les soins au long cours en Chine
+- **Subtitle:** Reliez l’évolution de Parkinson à l’autonomie, aux symptômes et à la santé générale pour planifier des soins et un suivi au long cours en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -122,3 +124,6 @@ Un plan pouvant se poursuivre là où vit le patient, avec des responsabilités 
 ## SEO Metadata
 
 - **Primary keyword:** pronostic de la maladie de Parkinson
+
+- **Meta title:** Pronostic de Parkinson : planifier les soins au long cours en Chine
+- **Meta description:** Reliez l’évolution de Parkinson à l’autonomie, aux symptômes et à la santé générale pour planifier des soins et un suivi au long cours en Chine.

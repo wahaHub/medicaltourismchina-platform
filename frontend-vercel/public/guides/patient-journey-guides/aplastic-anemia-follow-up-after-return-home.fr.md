@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Suivi à domicile après un traitement de l’aplasie médullaire en Chine
 - **Category:** Guides du parcours patient
 - **Subcategory:** Aplasie médullaire
-- **Subtitle:** Un plan de suivi doit préciser où les examens seront réalisés, qui les examinera, qui pourra modifier les prescriptions et où se rendre en cas de maladie.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Suivi à domicile après un traitement de l’aplasie médullaire en Chine
+- **Subtitle:** Après un traitement d’aplasie médullaire en Chine, organisez les analyses, la surveillance des médicaments, le soutien transfusionnel et le recours urgent près de chez vous.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Abordez tôt les projets de grossesse et de fertilité. Les médicaments actuels
 ## SEO Metadata
 
 - **Primary keyword:** suivi de l’aplasie médullaire après traitement à l’étranger
+
+- **Meta title:** Suivi à domicile après un traitement de l’aplasie médullaire en Chine
+- **Meta description:** Après un traitement d’aplasie médullaire en Chine, organisez les analyses, la surveillance des médicaments, le soutien transfusionnel et le recours urgent près de chez vous.

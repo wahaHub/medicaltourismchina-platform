@@ -1,15 +1,17 @@
-# 139 Schmerzen nach einem Eingriff: Funktionsziel und Grenze der Bedarfsbehandlung festlegen
+# Schmerzen nach einem Eingriff in China: Fragen und Warnzeichen
 
 ## Hero
 
-- **Title:** Schmerzen nach einem Eingriff: Funktionsziel und Grenze der Bedarfsbehandlung festlegen
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Akutschmerz, Medikationssicherheit und funktionelle Erholung
-- **Subtitle:** Gute Schmerzversorgung jagt keiner Null auf der Skala nach. Sie erkennt das Schmerzmuster, unterstützt Atmung und Bewegung, begrenzt Behandlungsschäden und legt fest, wann der übliche Plan nicht mehr ausreicht.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Konzeptdarstellung eines Arztes, der mit Patient und Begleitperson einen postoperativen Schmerzplan bespricht; das Bild zeigt weder akute Schmerzen noch ein bestimmtes Medikament oder ein erwartetes Erholungsergebnis.
+
+
+- **Title:** Schmerzen nach einem Eingriff in China: Fragen und Warnzeichen
+- **Subtitle:** Erstellen Sie einen postoperativen Schmerzplan anhand von Schmerzmuster, Funktionszielen, multimodaler Behandlung, Bedarfsregeln, Sedierungsüberwachung und sicherem Übergang nach Hause.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -197,13 +199,15 @@ Das hängt vom Medikament sowie den Kontroll- und Einfuhrregeln des Ziellandes a
 ## SEO Metadata
 
 - **Slug:** `pain-management-after-a-procedure-questions-to-ask`
-- **Meta title:** Schmerzen nach einem Eingriff | Fragen und Sicherheitsprüfungen
-- **Meta description:** Erstellen Sie einen postoperativen Schmerzplan anhand von Schmerzmuster, Funktionszielen, multimodaler Behandlung, Bedarfsregeln, Sedierungsüberwachung und sicherem Übergang nach Hause.
 - **Primary keyword:** Schmerzmanagement nach Eingriff China
 - **Pillar keyword:** medizinische Reise nach China
 - **Vertical keyword:** postoperativer Schmerzplan internationaler Patient
 - **Search intent:** Erholungsplanung / Medikationssicherheit
 - **Secondary keywords:** postoperative Schmerzen China; multimodale Analgesie; PCA-Sicherheit; Opioidsicherheit nach Operation; Schmerzbedarfsplan
+
+
+- **Meta title:** Schmerzen nach einem Eingriff in China: Fragen und Warnzeichen
+- **Meta description:** Erstellen Sie einen postoperativen Schmerzplan anhand von Schmerzmuster, Funktionszielen, multimodaler Behandlung, Bedarfsregeln, Sedierungsüberwachung und sicherem Übergang nach Hause.
 
 ## Quellen
 

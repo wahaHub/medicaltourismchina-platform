@@ -1,12 +1,14 @@
-# Radiation and interventional procedures for multiple sclerosis: choosing a specific treatment target
+# MS Interventional Procedures in China: Targets and Limitations
 
 ## Hero
 
-- **Title:** Radiation and interventional procedures for multiple sclerosis: choosing a specific treatment target
 - **Category:** Treatment Guides
 - **Subcategory:** Multiple Sclerosis
-- **Subtitle:** An MRI report showing several brain lesions can make focused radiation sound like a direct solution.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** MS Interventional Procedures in China: Targets and Limitations
+- **Subtitle:** Assess MS procedures by the specific symptom or treatment target, and clarify evidence, limitations and the proposed pathway in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ The decision to travel should rest on whether the complete course is feasible: a
 ## SEO Metadata
 
 - **Primary keyword:** multiple sclerosis radiation and interventional treatment
+
+- **Meta title:** MS Interventional Procedures in China: Targets and Limitations
+- **Meta description:** Assess MS procedures by the specific symptom or treatment target, and clarify evidence, limitations and the proposed pathway in China.

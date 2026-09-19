@@ -1,12 +1,14 @@
-# Starting first-line treatment for multiple myeloma
+# First-Line Multiple Myeloma Treatment in China: Getting Started
 
 ## Hero
 
-- **Title:** Starting first-line treatment for multiple myeloma
 - **Category:** Treatment Guides
 - **Subcategory:** Multiple Myeloma
-- **Subtitle:** First-line treatment is the initial systemic strategy used to control active myeloma.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** First-Line Multiple Myeloma Treatment in China: Getting Started
+- **Subtitle:** Prepare first-line myeloma treatment in China by coordinating the proposed regimen, transplant assessment when relevant, organ support and follow-up.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Before starting, try to explain the purpose, next review point, and symptom cont
 ## SEO Metadata
 
 - **Primary keyword:** first-line treatment for multiple myeloma
+
+- **Meta title:** First-Line Multiple Myeloma Treatment in China: Getting Started
+- **Meta description:** Prepare first-line myeloma treatment in China by coordinating the proposed regimen, transplant assessment when relevant, organ support and follow-up.

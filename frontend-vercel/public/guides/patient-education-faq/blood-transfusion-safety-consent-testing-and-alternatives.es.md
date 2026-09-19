@@ -1,15 +1,17 @@
-# Seguridad de la transfusión sanguínea: decidir la necesidad, elegir el componente adecuado y vigilar al paciente
+# Transfusiones de sangre en China: consentimiento, compatibilidad y seguridad
 
 ## Hero
 
-- **Title:** Seguridad de la transfusión sanguínea: decidir la necesidad, elegir el componente adecuado y vigilar al paciente
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Cirugía y seguridad hospitalaria
-- **Subtitle:** Una guía para pacientes sobre glóbulos rojos, plaquetas y plasma, consentimiento informado, determinación del grupo sanguíneo y pruebas cruzadas, comprobaciones de identidad a pie de cama, reacciones transfusionales y opciones de conservación de sangre.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Sustitución prevista que muestra glóbulos rojos, plaquetas y plasma, una muestra del paciente etiquetada, pruebas de compatibilidad, verificación de identidad a pie de cama y vigilancia de reacciones
+
+
+- **Title:** Transfusiones de sangre en China: consentimiento, compatibilidad y seguridad
+- **Subtitle:** Comprenda los componentes sanguíneos, cuándo hace falta transfusión, el consentimiento, la tipificación y las pruebas cruzadas, las señales de alarma de reacción y las alternativas de gestión de la sangre del paciente.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -181,11 +183,13 @@ No. Pueden reducir la exposición en casos adecuados, especialmente cuando se pl
 
 ## SEO Metadata
 
-- **SEO title:** Seguridad de la transfusión sanguínea: consentimiento, compatibilidad, reacciones y alternativas
-- **Meta description:** Comprenda los componentes sanguíneos, cuándo hace falta transfusión, el consentimiento, la tipificación y las pruebas cruzadas, las señales de alarma de reacción y las alternativas de gestión de la sangre del paciente.
 - **Primary keyword:** seguridad de la transfusión sanguínea
 - **Secondary keywords:** consentimiento transfusional, pruebas cruzadas de sangre, reacción transfusional, transfusión de glóbulos rojos, gestión de la sangre del paciente, alternativas a la transfusión sanguínea
 - **Suggested URL slug:** `/blood-transfusion-safety-consent-crossmatch-reactions-alternatives`
+
+
+- **Meta title:** Transfusiones de sangre en China: consentimiento, compatibilidad y seguridad
+- **Meta description:** Comprenda los componentes sanguíneos, cuándo hace falta transfusión, el consentimiento, la tipificación y las pruebas cruzadas, las señales de alarma de reacción y las alternativas de gestión de la sangre del paciente.
 
 ## Fuentes
 

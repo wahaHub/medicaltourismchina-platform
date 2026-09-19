@@ -1,15 +1,17 @@
-# Clinical Trial Eligibility: Why Patients May or May Not Qualify
+# Clinical Trial Eligibility in China: Screening Explained
 
 ## Hero
 
-- **Title:** Clinical Trial Eligibility: Why Patients May or May Not Qualify
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Trial Screening and Enrollment
-- **Subtitle:** A practical guide to pre-screening, protocol criteria, screening windows, screen failure and the difference between eligibility and actual enrollment.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Replacement needed: a research clinician and patient reviewing pathology, biomarker, treatment-history and laboratory eligibility checks on a structured trial-screening board.
+
+
+- **Title:** Clinical Trial Eligibility in China: Screening Explained
+- **Subtitle:** Understand trial pre-screening, inclusion and exclusion criteria, biomarker and washout checks, screen failure, open slots and international-patient barriers.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -129,11 +131,13 @@ Payment does not replace eligibility, ethics review or cohort availability. Legi
 ## SEO Metadata
 
 - **Slug:** `clinical-trial-eligibility-why-patients-may-or-may-not-qualify`
-- **Meta title:** Clinical Trial Eligibility and Screen Failure Explained
-- **Meta description:** Understand trial pre-screening, inclusion and exclusion criteria, biomarker and washout checks, screen failure, open slots and international-patient barriers.
 - **Primary keyword:** clinical trial eligibility
 - **Secondary keywords:** inclusion exclusion criteria; clinical trial screening; cancer trial biomarker; clinical trial screen failure; international patient trial
 - **Search intent:** clinical-trial screening / informed participation decision
+
+
+- **Meta title:** Clinical Trial Eligibility in China: Screening Explained
+- **Meta description:** Understand trial pre-screening, inclusion and exclusion criteria, biomarker and washout checks, screen failure, open slots and international-patient barriers.
 
 ## Sources
 

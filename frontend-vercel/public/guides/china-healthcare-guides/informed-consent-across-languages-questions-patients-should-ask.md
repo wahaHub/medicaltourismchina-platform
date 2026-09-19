@@ -1,15 +1,17 @@
-# Informed Consent Across Languages: Questions Patients Should Ask
+# Informed Consent Across Languages in China
 
 ## Hero
 
-- **Title:** Informed Consent Across Languages: Questions Patients Should Ask
 - **Category:** China Healthcare Guides
 - **Subcategory:** Language, Rights and Decisions
-- **Subtitle:** Consent is a conversation about the proposed care, material risks, alternatives and the patient’s choice—not a signature obtained through guesswork.
 - **Reviewed by:** Medora Health Editorial Team; clinical, legal and language-access review required before publication
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** An international patient and companion ask a doctor questions before agreeing to care
+
+
+- **Title:** Informed Consent Across Languages in China
+- **Subtitle:** Consent is a conversation about the proposed care, material risks, alternatives and the patient’s choice—not a signature obtained through guesswork.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -171,13 +173,15 @@ Not automatically. Ask the surgeon what foreseeable extensions or conversions ar
 ## SEO Metadata
 
 - **Slug:** `informed-consent-across-languages-questions-patients-should-ask`
-- **Meta title:** Informed Consent Across Languages in China
-- **Meta description:** Ask better questions about benefits, risks, alternatives, interpreters and plan changes before signing a Chinese hospital consent form.
 - **Primary keyword:** informed consent in Chinese hospitals
 - **Pillar keyword:** healthcare in China for international patients
 - **Vertical keyword:** informed consent across languages
 - **Search intent:** informational / treatment decision support
 - **Secondary keywords:** English consent Chinese hospital; medical interpreter consent; surgery consent China
+
+
+- **Meta title:** Informed Consent Across Languages in China
+- **Meta description:** Ask better questions about benefits, risks, alternatives, interpreters and plan changes before signing a Chinese hospital consent form.
 
 ## Sources
 

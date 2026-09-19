@@ -1,15 +1,17 @@
-# 104 Ein Krankenhaus in Shenzhen wählen: Klinische Eignung, grenzüberschreitende Zuständigkeitsgrenzen und Reise
+# Krankenhauswahl in China: Shenzhen und grenzüberschreitende Versorgung
 
 ## Hero
 
-- **Title:** Ein Krankenhaus in Shenzhen wählen: Klinische Eignung, grenzüberschreitende Zuständigkeitsgrenzen und Reise
 - **Category:** Krankenhausleitfäden
 - **Subcategory:** Versorgungsplanung in Shenzhen
-- **Subtitle:** Legen Sie zuerst die klinische Verantwortung und den genauen Standort fest; prüfen Sie dann die Kette aus Reisepass, Daten, Grenze, Zahlung, Notfall und Rückkehr nach Hause.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Konzeptillustration internationaler Reisender beim Vergleich des Krankenhauszugangs in Shenzhen; Skyline, Krankenhaus, Arzt- und Zugsymbole bezeichnen keinen realen Standort, Weg oder eine Empfehlung.
+
+
+- **Title:** Krankenhauswahl in China: Shenzhen und grenzüberschreitende Versorgung
+- **Subtitle:** Wählen Sie ein Krankenhaus in Shenzhen anhand klinischer Verantwortung, rechtlich bestätigtem Standort, Reisepass- und Datenkette, Grenzen grenzüberschreitender Regelungen, Reiseweg, Notfallabsicherung und Entlassungsübergabe.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -224,13 +226,15 @@ Es gab ein Kooperationspilotprojekt, doch daraus entsteht kein bedarfsweiser Ans
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-shenzhen-specialties-access-and-travel`
-- **Meta title:** Krankenhauswahl in Shenzhen: Klinische Eignung und grenzüberschreitende Grenzen
-- **Meta description:** Wählen Sie ein Krankenhaus in Shenzhen anhand klinischer Verantwortung, rechtlich bestätigtem Standort, Reisepass- und Datenkette, Grenzen grenzüberschreitender Regelungen, Reiseweg, Notfallabsicherung und Entlassungsübergabe.
 - **Primary keyword:** ein Krankenhaus in Shenzhen wählen
 - **Pillar keyword:** Krankenhäuser in Shenzhen für internationale Patienten
 - **Vertical keyword:** Krankenhaus Shenzhen Fachgebiete Zugang Reise
 - **Search intent:** Krankenhausvergleich / Versorgungsplanung Shenzhen und Hongkong
 - **Secondary keywords:** Krankenhaus Shenzhen Terminbuchung Reisepass; medizinische Daten Shenzhen Hongkong; grenzüberschreitender Krankenwagen Shenzhen; Krankenhausstandort Shenzhen; Shenzhen 120 Notfall
+
+
+- **Meta title:** Krankenhauswahl in China: Shenzhen und grenzüberschreitende Versorgung
+- **Meta description:** Wählen Sie ein Krankenhaus in Shenzhen anhand klinischer Verantwortung, rechtlich bestätigtem Standort, Reisepass- und Datenkette, Grenzen grenzüberschreitender Regelungen, Reiseweg, Notfallabsicherung und Entlassungsübergabe.
 
 ## Quellen
 

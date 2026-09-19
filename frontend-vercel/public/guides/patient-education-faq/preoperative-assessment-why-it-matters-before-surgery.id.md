@@ -1,15 +1,17 @@
-# Penilaian Praoperasi Bukan Sekadar Formalitas: Menyusun Rencana Operasi Seaman Mungkin
+# Persiapan Operasi di Tiongkok: Pemeriksaan dan Penilaian Anestesi
 
 ## Hero
 
-- **Title:** Penilaian Praoperasi Bukan Sekadar Formalitas: Menyusun Rencana Operasi Seaman Mungkin
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Operasi & Keselamatan Rumah Sakit
-- **Subtitle:** Hal yang perlu disepakati ahli bedah, tim anestesiologi, dan pasien tentang perubahan kesehatan, obat, pemeriksaan, puasa, risiko, dan perawatan pascaoperasi sebelum jadwal ruang operasi menjadi rencana.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Ahli bedah dan perawat praoperasi melakukan penilaian tatap muka dengan pasien sebelum operasi
+
+
+- **Title:** Persiapan Operasi di Tiongkok: Pemeriksaan dan Penilaian Anestesi
+- **Subtitle:** Pelajari apa yang sebenarnya diperiksa dalam penilaian praoperasi, mengapa pemeriksaan selektif, bagaimana obat dan puasa direncanakan, kapan operasi dapat ditunda, dan apa yang perlu dibawa pasien.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,11 +147,13 @@ Tidak. Penilaian mengembangkan rencana medis selama beberapa hari atau minggu. D
 
 ## SEO Metadata
 
-- **SEO title:** Penilaian Praoperasi: Pemeriksaan, Obat, Anestesi, dan Kesiapan Operasi
-- **Meta description:** Pelajari apa yang sebenarnya diperiksa dalam penilaian praoperasi, mengapa pemeriksaan selektif, bagaimana obat dan puasa direncanakan, kapan operasi dapat ditunda, dan apa yang perlu dibawa pasien.
 - **Primary keyword:** penilaian praoperasi sebelum operasi
 - **Secondary keywords:** evaluasi praanestesi, pemeriksaan praoperasi, kelayakan operasi, risiko perioperatif, obat sebelum operasi, daftar periksa keselamatan bedah
 - **Suggested URL slug:** `/preoperative-assessment-tests-medicines-anesthesia-risk`
+
+
+- **Meta title:** Persiapan Operasi di Tiongkok: Pemeriksaan dan Penilaian Anestesi
+- **Meta description:** Pelajari apa yang sebenarnya diperiksa dalam penilaian praoperasi, mengapa pemeriksaan selektif, bagaimana obat dan puasa direncanakan, kapan operasi dapat ditunda, dan apa yang perlu dibawa pasien.
 
 ## Sumber
 

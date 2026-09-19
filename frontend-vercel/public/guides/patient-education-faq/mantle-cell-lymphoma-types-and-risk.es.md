@@ -1,12 +1,14 @@
-# Tipos y riesgo del linfoma de células del manto: comprender el comportamiento indolente, la biología de alto riesgo y el estadio
+# Tipos y riesgo del linfoma de células del manto: revisión en China
 
 ## Hero
 
-- **Title:** Tipos y riesgo del linfoma de células del manto: comprender el comportamiento indolente, la biología de alto riesgo y el estadio
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma de células del manto
-- **Subtitle:** Búsquedas relacionadas: MCL indolente; linfoma de células del manto de alto riesgo; evaluación del riesgo del MCL en China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tipos y riesgo del linfoma de células del manto: revisión en China
+- **Subtitle:** Distinga estadio, comportamiento indolente y biología de alto riesgo del linfoma de células del manto para una revisión de sus resultados en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ La consulta debe terminar con una acción: continuar un plan definido de vigilan
 ## SEO Metadata
 
 - **Primary keyword:** tipos y riesgo del linfoma de células del manto
+
+- **Meta title:** Tipos y riesgo del linfoma de células del manto: revisión en China
+- **Meta description:** Distinga estadio, comportamiento indolente y biología de alto riesgo del linfoma de células del manto para una revisión de sus resultados en China.

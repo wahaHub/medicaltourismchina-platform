@@ -1,15 +1,17 @@
-# Resumen médico de una página para la atención en el extranjero: aproveche el primer minuto
+# Resumen médico para la atención en China: guía de plantilla de una página
 
 ## Hero
 
-- **Title:** Resumen médico de una página para la atención en el extranjero: aproveche el primer minuto
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Toma de decisiones del paciente y apoyo a cuidadores
-- **Subtitle:** Un método campo por campo para convertir un historial médico disperso en una transferencia de información concisa, fechada y clínicamente útil.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un paciente y su acompañante revisan un resumen médico conciso con un profesional antes de recibir atención en el extranjero
+
+
+- **Title:** Resumen médico para la atención en China: guía de plantilla de una página
+- **Subtitle:** Elabore un resumen médico conciso para el extranjero con la pregunta de derivación, diagnósticos, alergias, medicamentos, resultados, dispositivos y adjuntos indexados adecuados.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - El resumen nunca sustituye los informes originales, la anatomía patológica, las imágenes DICOM ni los envases de medicamentos. Debe remitir a esos archivos mediante un índice sencillo.
 
 ## Content
+
+Al enviar documentación a un hospital en China, coloque un resumen médico conciso al principio del expediente completo. Facilite la localización del motivo de derivación, el diagnóstico, las alergias, los medicamentos y los resultados de pruebas con sus fechas, y mantenga disponibles los informes originales para la revisión clínica.
+
 
 En un hospital en el extranjero, el primer profesional puede disponer de diez minutos, encontrarse con un idioma desconocido y cientos de páginas cargadas. Un buen resumen de una página le permite comprender el caso antes de abrir el archivo. Uno malo esconde el motivo de derivación bajo todas las pruebas normales que el paciente se ha realizado en su vida.
 
@@ -176,11 +181,13 @@ Actualícela después de un cambio significativo de diagnóstico, medicación, p
 
 ## SEO Metadata
 
-- **SEO title:** Resumen médico de una página para atención en el extranjero: guía de plantilla
-- **Meta description:** Elabore un resumen médico conciso para el extranjero con la pregunta de derivación, diagnósticos, alergias, medicamentos, resultados, dispositivos y adjuntos indexados adecuados.
 - **Primary keyword:** resumen médico de una página para atención en el extranjero
 - **Secondary keywords:** resumen médico del paciente internacional, traducción del historial médico, documentación de tratamiento en el extranjero, resumen transfronterizo del paciente, plantilla de resumen médico
 - **Suggested URL slug:** `/one-page-medical-summary-overseas-care`
+
+
+- **Meta title:** Resumen médico para la atención en China: guía de plantilla de una página
+- **Meta description:** Elabore un resumen médico conciso para el extranjero con la pregunta de derivación, diagnósticos, alergias, medicamentos, resultados, dispositivos y adjuntos indexados adecuados.
 
 ## Fuentes
 

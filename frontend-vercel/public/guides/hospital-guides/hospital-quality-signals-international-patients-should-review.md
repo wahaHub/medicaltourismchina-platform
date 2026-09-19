@@ -1,15 +1,17 @@
-# Hospital Quality Signals International Patients Should Review
+# Hospital Quality in China: Checks for International Patients
 
 ## Hero
 
-- **Title:** Hospital Quality Signals International Patients Should Review
 - **Category:** Hospital Guides
 - **Subcategory:** Hospital Quality & Safety
-- **Subtitle:** Replace prestige, décor and vague success claims with signals that can be checked at the department, team and care-pathway level.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Conceptual illustration of an international patient discussing hospital quality with a coordinator; the shield, medal and chart symbols are not an accreditation certificate or actual quality score.
+
+
+- **Title:** Hospital Quality in China: Checks for International Patients
+- **Subtitle:** A practical method to evaluate Chinese hospitals using team fit, defined outcomes, rescue capability, safety systems, records and cross-border follow-up.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -221,13 +223,15 @@ Coordinators can provide licensing documents, schedules, estimates and process i
 ## SEO Metadata
 
 - **Slug:** `hospital-quality-signals-international-patients-should-review`
-- **Meta title:** Hospital Quality Signals International Patients Should Review
-- **Meta description:** A practical method to evaluate Chinese hospitals using team fit, defined outcomes, rescue capability, safety systems, records and cross-border follow-up.
 - **Primary keyword:** hospital quality signals China
 - **Pillar keyword:** best hospitals in China for foreigners
 - **Vertical keyword:** hospital quality signals international patients should review
 - **Search intent:** hospital comparison / quality verification
 - **Secondary keywords:** China hospital quality; international patient safety; hospital outcomes China; hospital accreditation China; choosing a hospital in China
+
+
+- **Meta title:** Hospital Quality in China: Checks for International Patients
+- **Meta description:** A practical method to evaluate Chinese hospitals using team fit, defined outcomes, rescue capability, safety systems, records and cross-border follow-up.
 
 ## Sources
 

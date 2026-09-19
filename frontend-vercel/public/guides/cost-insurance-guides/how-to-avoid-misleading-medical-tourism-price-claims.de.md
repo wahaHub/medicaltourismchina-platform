@@ -1,15 +1,17 @@
-# Preisversprechen auf dem Prüfstand: Prüfen Sie ein Medizintourismusangebot, bevor es Sie auf die Probe stellt
+# Preise für Medizintourismus in China: Kostenangaben prüfen
 
 ## Hero
 
-- **Title:** Preisversprechen auf dem Prüfstand: Prüfen Sie ein Medizintourismusangebot, bevor es Sie auf die Probe stellt
 - **Category:** Kosten- und Versicherungsratgeber
 - **Subcategory:** Finanzielle Risiken und Absicherung
-- **Subtitle:** Eine praktische Methode, um Aussagen wie „ab“, „sparen“, „alles inklusive“, „keine versteckten Gebühren“ und ergebnisbezogene Preisversprechen zu prüfen, bevor Sie für eine Behandlung in China bezahlen.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Ein Reisender prüft ein medizinisches Angebot anhand einer Preisfrage, Behandlung, Transport, Absicherung und Checkliste
+
+
+- **Title:** Preise für Medizintourismus in China: Kostenangaben prüfen
+- **Subtitle:** Prüfen Sie Aussagen wie „ab“, „70% sparen“, „alles inklusive“, Erfolgsraten und schnelle Erholung, bevor Sie für eine medizinische Reise nach China bezahlen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -204,13 +206,15 @@ Sichern Sie zuerst die Beweise. Der richtige Weg hängt vom Werbenden, Veröffen
 ## SEO Metadata
 
 - **Slug:** `how-to-avoid-misleading-medical-tourism-price-claims`
-- **Meta title:** Irreführende Preisversprechen im Medizintourismus prüfen
-- **Meta description:** Prüfen Sie Aussagen wie „ab“, „70% sparen“, „alles inklusive“, Erfolgsraten und schnelle Erholung, bevor Sie für eine medizinische Reise nach China bezahlen.
 - **Primary keyword:** irreführende Preisversprechen im Medizintourismus
 - **Pillar keyword:** Kosten medizinischer Behandlung in China
 - **Vertical keyword:** Preis eines Medizintourismuspakets prüfen
 - **Search intent:** Betrugsprävention / Preisvergleich
 - **Secondary keywords:** versteckte Gebühren im Medizintourismus; medizinisches Alles-inklusive-Paket; Behandlungspreiswerbung; Kostenvergleich medizinischer Reisen; Krankenhausangebot prüfen
+
+
+- **Meta title:** Preise für Medizintourismus in China: Kostenangaben prüfen
+- **Meta description:** Prüfen Sie Aussagen wie „ab“, „70% sparen“, „alles inklusive“, Erfolgsraten und schnelle Erholung, bevor Sie für eine medizinische Reise nach China bezahlen.
 
 ## Quellen
 
@@ -221,4 +225,3 @@ Sichern Sie zuerst die Beweise. Der richtige Weg hängt vom Werbenden, Veröffen
 5. [Staatliche Marktaufsichtsbehörde: Werbegesetz der Volksrepublik China](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_5474cf75173c45d6a0379730fb4e8d97.html)
 6. [Staatliche Marktaufsichtsbehörde: Arbeitsleitfaden zur Aufsicht über medizinische Werbung 2025](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/ggjgs/art/2025/art_cd56662cf13b4ad59eabfe31cb1122e1.html)
 7. [US-amerikanische Federal Trade Commission: Leitlinien zur Regelkonformität bei Gesundheitsprodukten](https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance)
-

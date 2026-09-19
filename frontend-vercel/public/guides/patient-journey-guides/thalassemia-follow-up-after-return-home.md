@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Follow-up after thalassemia care in China: assign each next step to a clinician who can carry it out
 - **Category:** Patient Journey Guides
 - **Subcategory:** Thalassemia
-- **Subtitle:** A follow-up plan is useful only if it can function where the patient will live.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Follow-up after thalassemia care in China: assign each next step to a clinician who can carry it out
+- **Subtitle:** Plan follow-up after thalassemia care in China, assigning transfusions, monitoring, prescriptions and pending results to clinicians who can act on them.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -157,3 +159,6 @@ Keep dated versions after each change so the next clinician can identify the cur
 ## SEO Metadata
 
 - **Primary keyword:** thalassemia follow-up after treatment in China; international care handover; transfusion and chelation monitoring; post-transplant care
+
+- **Meta title:** Follow-up after thalassemia care in China: assign each next step to a clinician who can carry it out
+- **Meta description:** Plan follow-up after thalassemia care in China, assigning transfusions, monitoring, prescriptions and pending results to clinicians who can act on them.

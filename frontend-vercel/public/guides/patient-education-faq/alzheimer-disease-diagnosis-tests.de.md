@@ -1,12 +1,14 @@
-# Untersuchungen bei Alzheimer-Verdacht: Was eine Gedächtnisambulanz klären muss
+# Alzheimer-Abklärung in China: Untersuchungen in der Gedächtnisambulanz
 
 ## Hero
 
-- **Title:** Untersuchungen bei Alzheimer-Verdacht: Was eine Gedächtnisambulanz klären muss
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Alzheimer-Krankheit
-- **Subtitle:** Eine Gedächtnisabklärung kann zu Gesprächen über kognitive Tests, MRT, Blutbiomarker, PET oder eine Lumbalpunktion führen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Alzheimer-Abklärung in China: Untersuchungen in der Gedächtnisambulanz
+- **Subtitle:** Alzheimer-Abklärung in China vorbereiten: Veränderungen im Alltag, Gedächtnistests, Bildgebung und Biomarker zusammenführen und die Grenzen einzelner Tests verstehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -113,3 +115,6 @@ Vereinbaren Sie einen Termin, um die Ergebnisse gemeinsam zu besprechen. Das Erg
 ## SEO Metadata
 
 - **Primary keyword:** diagnostische Tests bei Alzheimer-Krankheit
+
+- **Meta title:** Alzheimer-Abklärung in China: Untersuchungen in der Gedächtnisambulanz
+- **Meta description:** Alzheimer-Abklärung in China vorbereiten: Veränderungen im Alltag, Gedächtnistests, Bildgebung und Biomarker zusammenführen und die Grenzen einzelner Tests verstehen.

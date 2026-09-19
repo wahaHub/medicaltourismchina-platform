@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choosing a China hospital for DLBCL: match the center to the clinical task
 - **Category:** Hospital Guides
 - **Subcategory:** Diffuse Large B Cell Lymphoma
-- **Subtitle:** Choose a DLBCL hospital by the clinical task it needs to accomplish.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choosing a China hospital for DLBCL: match the center to the clinical task
+- **Subtitle:** Choose a DLBCL hospital in China by the clinical task: pathology review, treatment delivery, relapse assessment, supportive care and follow-up.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -138,3 +140,6 @@ A comparison sheet can record the same clinical questions for every candidate ce
 ## SEO Metadata
 
 - **Primary keyword:** choosing a hospital in China for DLBCL
+
+- **Meta title:** Choosing a China hospital for DLBCL: match the center to the clinical task
+- **Meta description:** Choose a DLBCL hospital in China by the clinical task: pathology review, treatment delivery, relapse assessment, supportive care and follow-up.

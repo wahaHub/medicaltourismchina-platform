@@ -1,12 +1,14 @@
-# Relapse or inadequate response in multiple sclerosis: managing the episode and the next treatment decision
+# MS Relapse or Poor Response: Reassessment and Care in China
 
 ## Hero
 
-- **Title:** Relapse or inadequate response in multiple sclerosis: managing the episode and the next treatment decision
 - **Category:** Treatment Guides
 - **Subcategory:** Multiple Sclerosis
-- **Subtitle:** New blurred vision, weakness or numbness despite regular medication can make previous treatment feel pointless.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** MS Relapse or Poor Response: Reassessment and Care in China
+- **Subtitle:** Distinguish an MS relapse or inadequate response from other changes, and prepare a focused reassessment and continuing treatment discussion in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ The final handover after an episode should contain its timeline, infection findi
 ## SEO Metadata
 
 - **Primary keyword:** relapsed and treatment-resistant multiple sclerosis
+
+- **Meta title:** MS Relapse or Poor Response: Reassessment and Care in China
+- **Meta description:** Distinguish an MS relapse or inadequate response from other changes, and prepare a focused reassessment and continuing treatment discussion in China.

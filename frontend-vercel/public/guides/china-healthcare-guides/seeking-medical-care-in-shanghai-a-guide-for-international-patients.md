@@ -1,15 +1,17 @@
-# Seeking Medical Care in Shanghai: A Guide for International Patients
+# Medical Care in China: Shanghai Patient Guide
 
 ## Hero
 
-- **Title:** Seeking Medical Care in Shanghai: A Guide for International Patients
 - **Category:** China Healthcare Guides
 - **Subcategory:** Choosing a Care Destination
-- **Subtitle:** Pick the right care pathway, make your passport identity work across appointments, and plan for the parts of Shanghai care that happen outside the consultation room.
 - **Reviewed by:** Medora Health Editorial Team; Shanghai clinical-navigation and insurance review required before publication
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** An international visitor speaks with a doctor beside a suitcase and a view of the Shanghai skyline
+
+
+- **Title:** Medical Care in China: Shanghai Patient Guide
+- **Subtitle:** Choose a Shanghai care pathway, book with a passport, use Suishenban safely, confirm insurance and prepare for tests, records and 120 emergencies.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -198,13 +200,15 @@ No. Call 120 for a medical emergency. Shanghai 12345 handles non-emergency gover
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-shanghai-a-guide-for-international-patients`
-- **Meta title:** Medical Care in Shanghai for International Patients
-- **Meta description:** Choose a Shanghai care pathway, book with a passport, use Suishenban safely, confirm insurance and prepare for tests, records and 120 emergencies.
 - **Primary keyword:** medical care in Shanghai for international patients
 - **Pillar keyword:** healthcare in China for international patients
 - **Vertical keyword:** Shanghai hospitals for foreign patients
 - **Search intent:** care navigation / appointment planning
 - **Secondary keywords:** Shanghai international medical services; Suishenban hospital appointment; foreign passport Shanghai hospital; Shanghai medical emergency 120
+
+
+- **Meta title:** Medical Care in China: Shanghai Patient Guide
+- **Meta description:** Choose a Shanghai care pathway, book with a passport, use Suishenban safely, confirm insurance and prepare for tests, records and 120 emergencies.
 
 ## Sources
 

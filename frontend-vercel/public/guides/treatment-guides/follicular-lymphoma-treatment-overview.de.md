@@ -1,12 +1,14 @@
-# Behandlung des follikulären Lymphoms: Wann gehandelt werden sollte und was der erste Plan erreichen soll
+# Behandlung des follikulären Lymphoms in China: Wann und wie beginnen?
 
 ## Hero
 
-- **Title:** Behandlung des follikulären Lymphoms: Wann gehandelt werden sollte und was der erste Plan erreichen soll
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Follikuläres Lymphom
-- **Subtitle:** Die Diagnose eines follikulären Lymphoms führt nicht zu einem einheitlichen Zeitplan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Behandlung des follikulären Lymphoms in China: Wann und wie beginnen?
+- **Subtitle:** Behandlung des follikulären Lymphoms in China planen: Diagnose, Behandlungsbedarf, Beobachtung, Bestrahlung und systemische Therapie nach dem konkreten Ziel einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -104,3 +106,6 @@ Fieber mit Schüttelfrost, erhebliche Atemnot, Verwirrtheit, rasch zunehmende Ba
 ## SEO Metadata
 
 - **Primary keyword:** Behandlung des follikulären Lymphoms
+
+- **Meta title:** Behandlung des follikulären Lymphoms in China: Wann und wie beginnen?
+- **Meta description:** Behandlung des follikulären Lymphoms in China planen: Diagnose, Behandlungsbedarf, Beobachtung, Bestrahlung und systemische Therapie nach dem konkreten Ziel einordnen.

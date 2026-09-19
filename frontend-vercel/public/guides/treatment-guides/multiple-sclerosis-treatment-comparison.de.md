@@ -1,12 +1,14 @@
-# MS-Behandlungspläne vergleichen: Medikamente, Transplantation, Rehabilitation und entscheidende Ergebnisse
+# MS-Behandlungen im Vergleich: Medikamente, AHSCT und Versorgung in China
 
 ## Hero
 
-- **Title:** MS-Behandlungspläne vergleichen: Medikamente, Transplantation, Rehabilitation und entscheidende Ergebnisse
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Multiple Sklerose
-- **Subtitle:** Zwei unterschiedliche Empfehlungen können sich auf unterschiedliche Probleme beziehen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** MS-Behandlungen im Vergleich: Medikamente, AHSCT und Versorgung in China
+- **Subtitle:** MS-Behandlungspläne für China vergleichen: Medikamente, Stammzelltransplantation und Rehabilitation nach Krankheitsaktivität, Risiken und langfristigen Zielen prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Kehren Sie zum persönlichen Ziel zurück: berufstätig bleiben, Krankenhausaufn
 ## SEO Metadata
 
 - **Primary keyword:** Vergleich der Behandlungsmöglichkeiten bei Multipler Sklerose
+
+- **Meta title:** MS-Behandlungen im Vergleich: Medikamente, AHSCT und Versorgung in China
+- **Meta description:** MS-Behandlungspläne für China vergleichen: Medikamente, Stammzelltransplantation und Rehabilitation nach Krankheitsaktivität, Risiken und langfristigen Zielen prüfen.

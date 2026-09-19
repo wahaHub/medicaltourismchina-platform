@@ -1,15 +1,17 @@
-# 007 Was Sie bei einem ambulanten Termin in einem chinesischen Krankenhaus erwartet
+# Ambulante Krankenhausbesuche in China: Was Sie erwartet
 
 ## Hero
 
-- **Title:** Was Sie bei einem ambulanten Termin in einem chinesischen Krankenhaus erwartet
 - **Category:** Ratgeber zum chinesischen Gesundheitswesen
 - **Subcategory:** Ambulanter Besuch
-- **Subtitle:** Ein ambulanter Besuch in China ist oft eine Abfolge kurzer Schritte – Identitätsprüfung, Beratung, Zahlung, Untersuchungen, Ergebnisse und eine weitere Entscheidung – statt eines einzigen langen Termins.
 - **Reviewed by:** Medora Health Redaktion; Prüfung des Gesundheitssystems vor Veröffentlichung erforderlich
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ein internationaler Patient und eine Begleitperson sprechen mit einem Arzt in einer chinesischen Ambulanz
+
+
+- **Title:** Ambulante Krankenhausbesuche in China: Was Sie erwartet
+- **Subtitle:** Der ambulante Ablauf in China: von Passprüfung und Arztgespräch über Untersuchungen, Zahlung und Apotheke bis zu Ergebnissen und Nachsorge.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -158,13 +160,15 @@ Der Dolmetscher kann die Kommunikation erleichtern, doch der Arzt benötigt nach
 ## SEO Metadata
 
 - **Slug:** `chinese-hospital-outpatient-appointment`
-- **Meta title:** Was Sie bei einem ambulanten Termin im chinesischen Krankenhaus erwartet
-- **Meta description:** Der ambulante Ablauf in China: von Passprüfung und Arztgespräch über Untersuchungen, Zahlung und Apotheke bis zu Ergebnissen und Nachsorge.
 - **Primary keyword:** ambulanter Termin chinesisches Krankenhaus
 - **Pillar keyword:** Gesundheitsversorgung in China für internationale Patienten
 - **Vertical keyword:** ambulanter Besuch China
 - **Search intent:** praktisch / Besuchsvorbereitung
 - **Secondary keywords:** Ambulanzbesuch Krankenhaus China; internationale Patienten ambulant China; Ablauf im chinesischen Krankenhaus
+
+
+- **Meta title:** Ambulante Krankenhausbesuche in China: Was Sie erwartet
+- **Meta description:** Der ambulante Ablauf in China: von Passprüfung und Arztgespräch über Untersuchungen, Zahlung und Apotheke bis zu Ergebnissen und Nachsorge.
 
 ## Quellen
 

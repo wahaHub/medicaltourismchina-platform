@@ -1,12 +1,14 @@
-# Treatment for diffuse large B-cell lymphoma: building a complete plan
+# DLBCL Treatment in China: Building a Complete Care Plan
 
 ## Hero
 
-- **Title:** Treatment for diffuse large B-cell lymphoma: building a complete plan
 - **Category:** Treatment Guides
 - **Subcategory:** Diffuse Large B Cell Lymphoma
-- **Subtitle:** Diffuse large B-cell lymphoma, usually shortened to DLBCL, often needs treatment promptly because it can grow quickly.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL Treatment in China: Building a Complete Care Plan
+- **Subtitle:** Plan DLBCL treatment in China from confirmed pathology through the proposed regimen, support, response checks and continuing follow-up.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ At completion, obtain a treatment summary with actual medicines and doses, dose 
 ## SEO Metadata
 
 - **Primary keyword:** diffuse large B-cell lymphoma treatment
+
+- **Meta title:** DLBCL Treatment in China: Building a Complete Care Plan
+- **Meta description:** Plan DLBCL treatment in China from confirmed pathology through the proposed regimen, support, response checks and continuing follow-up.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Menyiapkan Rekam Medis Limfoma Sel Mantel untuk Konsultasi di Tiongkok
 - **Category:** Panduan Perjalanan Pasien
 - **Subcategory:** Limfoma Sel Mantel
-- **Subtitle:** Keluarga dapat mengirim ratusan halaman hasil pemindaian dokumen, tetapi spesialis limfoma tetap tidak dapat menjawab pertanyaan mendasar: mengapa pengobatan terakhir dihentikan?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Menyiapkan Rekam Medis Limfoma Sel Mantel untuk Konsultasi di Tiongkok
+- **Subtitle:** Siapkan rekam medis limfoma sel mantel untuk konsultasi di Tiongkok dengan ringkasan klinis, patologi, hasil molekuler lengkap, dan riwayat pengobatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ Sebelum meninggalkan Tiongkok, terapkan metode yang sama pada catatan baru: tamb
 ## SEO Metadata
 
 - **Primary keyword:** rekam medis limfoma sel mantel untuk konsultasi di Tiongkok
+
+- **Meta title:** Menyiapkan Rekam Medis Limfoma Sel Mantel untuk Konsultasi di Tiongkok
+- **Meta description:** Siapkan rekam medis limfoma sel mantel untuk konsultasi di Tiongkok dengan ringkasan klinis, patologi, hasil molekuler lengkap, dan riwayat pengobatan.

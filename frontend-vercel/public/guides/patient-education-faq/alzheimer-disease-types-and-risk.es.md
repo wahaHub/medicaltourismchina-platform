@@ -1,12 +1,14 @@
-# Etapas y riesgo del Alzheimer: por qué difieren el inicio a una edad temprana, la enfermedad en fase inicial y el DCL
+# Etapas y riesgo del Alzheimer: prepararse para la atención en China
 
 ## Hero
 
-- **Title:** Etapas y riesgo del Alzheimer: por qué difieren el inicio a una edad temprana, la enfermedad en fase inicial y el DCL
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedad de Alzheimer
-- **Subtitle:** El Alzheimer de inicio a una edad temprana, el Alzheimer en fase inicial y el deterioro cognitivo leve pueden parecer nombres distintos para una misma situación.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Etapas y riesgo del Alzheimer: prepararse para la atención en China
+- **Subtitle:** Distinga edad de inicio, deterioro cognitivo leve y gravedad del Alzheimer para preparar una evaluación y comprender las necesidades de atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -109,3 +111,6 @@ Si alguien ha superado la etapa estudiada para iniciar un anticuerpo, siguen exi
 ## SEO Metadata
 
 - **Primary keyword:** etapas de la enfermedad de Alzheimer
+
+- **Meta title:** Etapas y riesgo del Alzheimer: prepararse para la atención en China
+- **Meta description:** Distinga edad de inicio, deterioro cognitivo leve y gravedad del Alzheimer para preparar una evaluación y comprender las necesidades de atención en China.

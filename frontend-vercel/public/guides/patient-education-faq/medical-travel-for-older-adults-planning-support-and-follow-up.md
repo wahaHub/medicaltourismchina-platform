@@ -1,15 +1,17 @@
-# Medical Travel for Older Adults: Plan Around Function, Not the Birth Date
+# Medical Travel to China for Older Adults: Care and Support
 
 ## Hero
 
-- **Title:** Medical Travel for Older Adults: Plan Around Function, Not the Birth Date
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Chronic Conditions & Travel
-- **Subtitle:** A practical framework for assessing function, medicines, delirium risk, caregiver capacity and recovery before an older adult travels for care.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Older adult and companion review a medical-travel and recovery plan with a clinician
+
+
+- **Title:** Medical Travel to China for Older Adults: Care and Support
+- **Subtitle:** Plan medical travel for an older adult around frailty, function, medicines, delirium prevention, caregiver capacity and safe follow-up.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Do not fix the return date before recovery is known. Discharge accommodation, transport and follow-up must match the patient’s new function, not the function they had before treatment.
 
 ## Content
+
+When planning medical care in China for an older adult, start with everyday function, medicines and the support available during the journey and recovery. This guide helps families prepare that discussion without treating age alone as a decision about travel safety.
+
 
 “Older adult” is not a single risk category. A physically active 82-year-old who manages medicines and finances independently may travel more safely than a 68-year-old with recurrent falls, weight loss and fluctuating confusion. The useful question is not “Is this patient too old?” It is “What can this person reliably do, what is vulnerable to stress, and what support will still be available if recovery is slower than expected?”
 
@@ -118,11 +123,13 @@ Delay and reassess when there is new confusion, unstable symptoms, repeated fall
 
 ## SEO Metadata
 
-- **SEO title:** Medical Travel for Older Adults: Function and Support Guide
-- **Meta description:** Plan medical travel for an older adult around frailty, function, medicines, delirium prevention, caregiver capacity and safe follow-up.
 - **Primary keyword:** medical travel for older adults
 - **Secondary keywords:** older adult medical tourism, geriatric travel assessment, delirium prevention travel, caregiver medical travel, senior patient recovery abroad
 - **Suggested URL slug:** `/medical-travel-older-adults`
+
+
+- **Meta title:** Medical Travel to China for Older Adults: Care and Support
+- **Meta description:** Plan medical travel for an older adult around frailty, function, medicines, delirium prevention, caregiver capacity and safe follow-up.
 
 ## Sources
 

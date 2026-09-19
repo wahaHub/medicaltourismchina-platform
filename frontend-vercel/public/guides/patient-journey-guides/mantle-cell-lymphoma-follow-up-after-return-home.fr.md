@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Rentrer chez soi après un traitement du lymphome à cellules du manteau en Chine : organiser un suivi efficace
 - **Category:** Guides du parcours patient
 - **Subcategory:** Lymphome à cellules du manteau
-- **Subtitle:** La sortie d’un hôpital chinois ne correspond pas à un stade unique de prise en charge du lymphome à cellules du manteau.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Rentrer chez soi après un traitement du lymphome à cellules du manteau en Chine : organiser un suivi efficace
+- **Subtitle:** Après des soins du lymphome du manteau en Chine, transformez le plan de suivi en rendez-vous, responsabilités précises et prescriptions pouvant être poursuivies.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Si un traitement supplémentaire devient nécessaire, le schéma antérieur, la 
 ## SEO Metadata
 
 - **Primary keyword:** suivi du lymphome à cellules du manteau après traitement en Chine
+
+- **Meta title:** Rentrer chez soi après un traitement du lymphome à cellules du manteau en Chine : organiser un suivi efficace
+- **Meta description:** Après des soins du lymphome du manteau en Chine, transformez le plan de suivi en rendez-vous, responsabilités précises et prescriptions pouvant être poursuivies.

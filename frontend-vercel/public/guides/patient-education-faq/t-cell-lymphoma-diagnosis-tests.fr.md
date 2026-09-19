@@ -1,12 +1,14 @@
-# Examens en cas de suspicion de lymphome T : obtenir le bon tissu et un diagnostic utilisable
+# Diagnostic du lymphome T en Chine : biopsie et relecture
 
 ## Hero
 
-- **Title:** Examens en cas de suspicion de lymphome T : obtenir le bon tissu et un diagnostic utilisable
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Lymphome T
-- **Subtitle:** L’ordre des investigations doit suivre les questions qui restent sans réponse.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnostic du lymphome T en Chine : biopsie et relecture
+- **Subtitle:** Comprenez le choix du tissu, les marqueurs et les examens moléculaires du lymphome T pour préparer une biopsie ou une relecture diagnostique en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -113,3 +115,6 @@ Lors de la discussion diagnostique finale, distinguez les constatations établie
 ## SEO Metadata
 
 - **Primary keyword:** examens diagnostiques du lymphome T
+
+- **Meta title:** Diagnostic du lymphome T en Chine : biopsie et relecture
+- **Meta description:** Comprenez le choix du tissu, les marqueurs et les examens moléculaires du lymphome T pour préparer une biopsie ou une relecture diagnostique en Chine.

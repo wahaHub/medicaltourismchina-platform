@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Zwanzig Patientenfragen zur Rehabilitation nach ischämischem Schlaganfall und Versorgung in China
 - **Category:** Patientenaufklärung & FAQ
 - **Subcategory:** Rehabilitation nach ischämischem Schlaganfall
-- **Subtitle:** Fragen zur Erholung nach einem ischämischen Schlaganfall ändern sich oft mit der Zeit.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Zwanzig Patientenfragen zur Rehabilitation nach ischämischem Schlaganfall und Versorgung in China
+- **Subtitle:** 20 Fragen zur Schlaganfallrehabilitation in China: Beginn, Dauer, Therapiedosis, Hilfsmittel und Erwartungen an die Erholung im Alltag verständlich besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -187,3 +189,6 @@ Neue plötzliche einseitige Schwäche, Sprach- oder Sehveränderung oder schwere
 ## SEO Metadata
 
 - **Primary keyword:** Patientenfragen zur Rehabilitation nach ischämischem Schlaganfall
+
+- **Meta title:** Zwanzig Patientenfragen zur Rehabilitation nach ischämischem Schlaganfall und Versorgung in China
+- **Meta description:** 20 Fragen zur Schlaganfallrehabilitation in China: Beginn, Dauer, Therapiedosis, Hilfsmittel und Erwartungen an die Erholung im Alltag verständlich besprechen.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Neue Parkinson-Medikamente und klinische Studien im Jahr 2026: Evidenz, Grenzen und Vorbereitung auf die Beurteilung in China
 - **Category:** Klinische Studien und fortschrittliche Behandlungen
 - **Subcategory:** Parkinson-Krankheit
-- **Subtitle:** Neue Medikamente, Antikörper, Zelltransplantationen und Gerätestudien ziehen verständlicherweise Menschen an, die künftig eine bessere Funktionsfähigkeit erreichen möchten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Neue Parkinson-Medikamente und klinische Studien im Jahr 2026: Evidenz, Grenzen und Vorbereitung auf die Beurteilung in China
+- **Subtitle:** Parkinson-Forschung für eine Beurteilung in China einordnen: Studienziele, Grenzen von Arzneimittel-, Zell- und Gerätetherapien sowie laufende Versorgung prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -116,3 +118,6 @@ Bitten Sie am Ende einer Beratung um eine klare Beschreibung Ihres Status: weite
 ## SEO Metadata
 
 - **Primary keyword:** Parkinson-Krankheit neue Medikamente und klinische Studien
+
+- **Meta title:** Neue Parkinson-Medikamente und klinische Studien im Jahr 2026: Evidenz, Grenzen und Vorbereitung auf die Beurteilung in China
+- **Meta description:** Parkinson-Forschung für eine Beurteilung in China einordnen: Studienziele, Grenzen von Arzneimittel-, Zell- und Gerätetherapien sowie laufende Versorgung prüfen.

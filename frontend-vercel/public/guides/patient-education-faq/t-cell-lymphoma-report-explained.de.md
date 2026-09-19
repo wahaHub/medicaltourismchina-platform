@@ -1,12 +1,14 @@
-# T-Zell-Lymphom-Befunde lesen: Pathologie, PET-Aufnahmen und Blutwerte zusammenführen
+# Befunde zum T-Zell-Lymphom: Vorbereitung auf eine Prüfung in China
 
 ## Hero
 
-- **Title:** T-Zell-Lymphom-Befunde lesen: Pathologie, PET-Aufnahmen und Blutwerte zusammenführen
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** T-Zell-Lymphom
-- **Subtitle:** Ein Pathologiebefund kann CD30-positiv angeben, ein Knochenmarkbefund kein eindeutiges Lymphom nachweisen und ein PET-Befund mehrere aktive Stellen beschreiben.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Befunde zum T-Zell-Lymphom: Vorbereitung auf eine Prüfung in China
+- **Subtitle:** Befunde zum T-Zell-Lymphom für eine Prüfung in China zusammenführen: Gewebe, Marker, Virusbefunde, PET, Knochenmark und datierte Blutwerte richtig zuordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Ordnen Sie für eine weitere Meinung Berichte nach Datum und kennzeichnen Sie, o
 ## SEO Metadata
 
 - **Primary keyword:** Interpretation von T-Zell-Lymphom-Befunden
+
+- **Meta title:** Befunde zum T-Zell-Lymphom: Vorbereitung auf eine Prüfung in China
+- **Meta description:** Befunde zum T-Zell-Lymphom für eine Prüfung in China zusammenführen: Gewebe, Marker, Virusbefunde, PET, Knochenmark und datierte Blutwerte richtig zuordnen.

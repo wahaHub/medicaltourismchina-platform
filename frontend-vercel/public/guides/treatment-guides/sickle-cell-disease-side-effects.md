@@ -1,12 +1,14 @@
-# Recognizing Sickle Cell Treatment Side Effects: Urgent Symptoms and Planned Review
+# Sickle Cell Treatment in China: Side Effects and Urgent Signs
 
 ## Hero
 
-- **Title:** Recognizing Sickle Cell Treatment Side Effects: Urgent Symptoms and Planned Review
 - **Category:** Treatment Guides
 - **Subcategory:** Sickle Cell Disease
-- **Subtitle:** Nausea, fatigue, or pain after starting treatment does not by itself establish a side effect.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Sickle Cell Treatment in China: Side Effects and Urgent Signs
+- **Subtitle:** Recognize sickle cell treatment side effects and urgent symptoms, and prepare medicine details and reporting instructions for care in China and at home.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Whenever treatment starts or changes, establish what is expected, which changes 
 ## SEO Metadata
 
 - **Primary keyword:** sickle cell treatment side effects
+
+- **Meta title:** Sickle Cell Treatment in China: Side Effects and Urgent Signs
+- **Meta description:** Recognize sickle cell treatment side effects and urgent symptoms, and prepare medicine details and reporting instructions for care in China and at home.

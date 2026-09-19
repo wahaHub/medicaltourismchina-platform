@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Costes de rehabilitación del ictus en China: elaboración de un presupuesto desglosado en RMB
 - **Category:** Guías de costes y seguros
 - **Subcategory:** Rehabilitación tras un ictus isquémico
-- **Subtitle:** El coste de la rehabilitación del ictus en China no puede responderse de forma fiable con una sola cifra mensual.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Costes de rehabilitación del ictus en China: elaboración de un presupuesto desglosado en RMB
+- **Subtitle:** Organice un presupuesto de rehabilitación del ictus en China según el plan clínico, las sesiones, las unidades de facturación y la modalidad de atención.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -143,3 +145,6 @@ Una valoración de costes útil muestra cómo se relaciona el gasto con los obje
 ## SEO Metadata
 
 - **Primary keyword:** coste de rehabilitación del ictus en China
+
+- **Meta title:** Costes de rehabilitación del ictus en China: elaboración de un presupuesto desglosado en RMB
+- **Meta description:** Organice un presupuesto de rehabilitación del ictus en China según el plan clínico, las sesiones, las unidades de facturación y la modalidad de atención.

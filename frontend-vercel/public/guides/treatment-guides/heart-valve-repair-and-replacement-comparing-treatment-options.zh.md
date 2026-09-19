@@ -1,15 +1,17 @@
-# 心脏瓣膜修复与置换：怎样比较治疗方案
+# 中国心脏瓣膜治疗：修复与置换如何比较
 
 ## Hero
 
-- **Title:** 心脏瓣膜修复与置换：怎样比较治疗方案
 - **Category:** 治疗指南
 - **Subcategory:** 心脏与血管照护
-- **Subtitle:** 根据瓣膜病变、终身管理计划和患者优先事项，比较修复、机械瓣、生物瓣与经导管治疗。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **图片替代文字：** 与《039 心脏瓣膜修复与置换：怎样比较治疗方案》对应的临床场景，呈现相关诊疗决策、操作流程与安全核对。
+
+
+- **Title:** 中国心脏瓣膜治疗：修复与置换如何比较
+- **Subtitle:** 比较瓣膜修复、机械瓣、生物瓣、外科与经导管方案，并了解抗凝、恢复和终身随访如何影响选择。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -167,13 +169,15 @@ ACC/AHA 指南建议术后建立基线影像并长期随访，出现提示人工
 ## SEO Metadata
 
 - **Slug:** `heart-valve-repair-and-replacement-comparing-treatment-options`
-- **Meta title:** 心脏瓣膜修复与置换：机械瓣、生物瓣和入路比较
-- **Meta description:** 比较瓣膜修复、机械瓣、生物瓣、外科与经导管方案，并了解抗凝、恢复和终身随访如何影响选择。
 - **Primary keyword:** 心脏瓣膜修复与置换
 - **Pillar keyword:** 心脏瓣膜治疗
 - **Vertical keyword:** 瓣膜手术方案
 - **Search intent:** 治疗比较 / 人工瓣选择
 - **Secondary keywords:** 瓣膜修复和置换；机械瓣；生物瓣；心脏瓣膜手术；人工瓣抗凝；人工瓣随访
+
+
+- **Meta title:** 中国心脏瓣膜治疗：修复与置换如何比较
+- **Meta description:** 比较瓣膜修复、机械瓣、生物瓣、外科与经导管方案，并了解抗凝、恢复和终身随访如何影响选择。
 
 ## Sources
 

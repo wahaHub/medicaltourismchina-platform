@@ -1,12 +1,14 @@
-# Types et risques du LDGCB : distinguer la biologie de la maladie de l’aptitude au traitement
+# Types et risques du LDGCB : préparer une réévaluation en Chine
 
 ## Hero
 
-- **Title:** Types et risques du LDGCB : distinguer la biologie de la maladie de l’aptitude au traitement
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Lymphome diffus à grandes cellules B
-- **Subtitle:** Types et risques du LDGCB : distinguer la biologie de la maladie de l’aptitude au traitement
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Types et risques du LDGCB : préparer une réévaluation en Chine
+- **Subtitle:** Distinguez sous-type biologique, facteurs de risque et aptitude au traitement du LDGCB pour préparer la relecture de votre dossier par une équipe en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -117,3 +119,6 @@ L’anatomopathologie originale et le résumé complet du traitement restent imp
 ## SEO Metadata
 
 - **Primary keyword:** types de LDGCB et facteurs de risque
+
+- **Meta title:** Types et risques du LDGCB : préparer une réévaluation en Chine
+- **Meta description:** Distinguez sous-type biologique, facteurs de risque et aptitude au traitement du LDGCB pour préparer la relecture de votre dossier par une équipe en Chine.

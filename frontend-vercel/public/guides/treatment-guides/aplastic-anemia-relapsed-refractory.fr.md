@@ -1,12 +1,14 @@
-# Aplasie médullaire en rechute ou réfractaire : confirmer la cause et planifier le traitement de deuxième ligne
+# Aplasie médullaire réfractaire ou en rechute : deuxième avis en Chine
 
 ## Hero
 
-- **Title:** Aplasie médullaire en rechute ou réfractaire : confirmer la cause et planifier le traitement de deuxième ligne
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Aplasie médullaire
-- **Subtitle:** Des numérations restant basses après le traitement et des numérations chutant après une amélioration antérieure nécessitent toutes deux une réévaluation, mais ne constituent pas le même problème.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Aplasie médullaire réfractaire ou en rechute : deuxième avis en Chine
+- **Subtitle:** Préparez un deuxième avis d’aplasie médullaire en Chine en confirmant la cause des baisses sanguines, la réponse antérieure et les options de deuxième ligne.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ L’aptitude au voyage dépend de l’état actuel et des services locaux comme 
 ## SEO Metadata
 
 - **Primary keyword:** traitement de l’aplasie médullaire réfractaire
+
+- **Meta title:** Aplasie médullaire réfractaire ou en rechute : deuxième avis en Chine
+- **Meta description:** Préparez un deuxième avis d’aplasie médullaire en Chine en confirmant la cause des baisses sanguines, la réponse antérieure et les options de deuxième ligne.

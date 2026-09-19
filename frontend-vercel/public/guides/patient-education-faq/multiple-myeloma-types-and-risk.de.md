@@ -1,12 +1,14 @@
-# Typen und Risiko beim multiplen Myelom: Die verschiedenen Bezeichnungen verstehen
+# Formen und Risiken des multiplen Myeloms: Fachärztliche Beurteilung in China
 
 ## Hero
 
-- **Title:** Typen und Risiko beim multiplen Myelom: Die verschiedenen Bezeichnungen verstehen
 - **Category:** Patienteninformation & FAQ
 - **Subcategory:** Multiples Myelom
-- **Subtitle:** Bei einer Person mit Myelom können eine IgG-Erkrankung, Hochrisikobefunde, Transplantationseignung und ein früher Rückfall beschrieben werden.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Formen und Risiken des multiplen Myeloms: Fachärztliche Beurteilung in China
+- **Subtitle:** Myelomformen vor einer fachärztlichen Beurteilung in China verstehen: Proteintyp, Krankheitsaktivität, Risikomodelle und persönliche Belastbarkeit unterscheiden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -108,3 +110,6 @@ Ziel sind eine evidenzbasierte Entscheidung, ein klarer Überwachungsschwerpunkt
 ## SEO Metadata
 
 - **Primary keyword:** Typen des multiplen Myeloms und Risikostratifizierung
+
+- **Meta title:** Formen und Risiken des multiplen Myeloms: Fachärztliche Beurteilung in China
+- **Meta description:** Myelomformen vor einer fachärztlichen Beurteilung in China verstehen: Proteintyp, Krankheitsaktivität, Risikomodelle und persönliche Belastbarkeit unterscheiden.

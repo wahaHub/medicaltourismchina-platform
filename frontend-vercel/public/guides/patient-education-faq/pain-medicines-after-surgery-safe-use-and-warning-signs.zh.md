@@ -1,15 +1,17 @@
-# 术后止痛药怎么用：既控制疼痛，也别掩盖并发症
+# 在中国术后使用止痛药：剂量与安全提醒
 
 ## Hero
 
-- **Title:** 术后止痛药怎么用：既控制疼痛，也别掩盖并发症
 - **Category:** 患者教育与常见问题
 - **Subcategory:** 药物
-- **Subtitle:** 看懂多模式镇痛方案，避免成分叠加，安全使用阿片类药物，并识别不能靠“再吃一片”处理的异常疼痛。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** 外科医生与患者逐项核对带颜色标记的术后用药单，旁边放有多个标签清楚的药瓶
+
+
+- **Title:** 在中国术后使用止痛药：剂量与安全提醒
+- **Subtitle:** 学会组合术后镇痛药、避免对乙酰氨基酚重复、识别阿片过量，并判断疼痛何时可能提示手术并发症。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -172,11 +174,13 @@ FDA所列成人24小时4,000毫克是监管层面的最高限量，不是鼓励�
 
 ## SEO Metadata
 
-- **SEO title:** 术后止痛药安全使用：剂量、叠加成分与危险信号
-- **Meta description:** 学会组合术后镇痛药、避免对乙酰氨基酚重复、识别阿片过量，并判断疼痛何时可能提示手术并发症。
 - **Primary keyword:** 术后止痛药怎么吃
 - **Secondary keywords:** 术后镇痛方案, 阿片类药物安全, 对乙酰氨基酚重复用药, 术后NSAID, 纳洛酮, 术后疼痛加重
 - **Suggested URL slug:** `/zh-cn/pain-medicine-after-surgery-safe-use-warning-signs`
+
+
+- **Meta title:** 在中国术后使用止痛药：剂量与安全提醒
+- **Meta description:** 学会组合术后镇痛药、避免对乙酰氨基酚重复、识别阿片过量，并判断疼痛何时可能提示手术并发症。
 
 ## Sources
 

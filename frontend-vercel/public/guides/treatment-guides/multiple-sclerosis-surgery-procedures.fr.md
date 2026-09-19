@@ -1,12 +1,14 @@
-# Procédures pour la sclérose en plaques : échanges plasmatiques, AHSCT et préparation avant traitement
+# Interventions pour la SEP en Chine : échanges plasmatiques et bilan d’autogreffe
 
 ## Hero
 
-- **Title:** Procédures pour la sclérose en plaques : échanges plasmatiques, AHSCT et préparation avant traitement
 - **Category:** Guides des traitements
 - **Subcategory:** Sclérose en plaques
-- **Subtitle:** La SEP n’est généralement pas traitée par l’ablation chirurgicale d’une lésion particulière.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Interventions pour la SEP en Chine : échanges plasmatiques et bilan d’autogreffe
+- **Subtitle:** Comprenez les rôles des échanges plasmatiques et de l’autogreffe dans certaines situations de SEP, leurs limites et le bilan préalable aux soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Confirmez les étapes couvertes par l’estimation, la prise en charge des compl
 ## SEO Metadata
 
 - **Primary keyword:** procédures pour la sclérose en plaques et greffe de cellules souches
+
+- **Meta title:** Interventions pour la SEP en Chine : échanges plasmatiques et bilan d’autogreffe
+- **Meta description:** Comprenez les rôles des échanges plasmatiques et de l’autogreffe dans certaines situations de SEP, leurs limites et le bilan préalable aux soins en Chine.

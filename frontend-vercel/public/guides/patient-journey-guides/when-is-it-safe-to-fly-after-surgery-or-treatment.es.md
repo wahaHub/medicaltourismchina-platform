@@ -1,15 +1,17 @@
-# 143 Volar después de una cirugía o tratamiento: la autorización depende del perfil de riesgo, no de una fecha
+# Volar después de una cirugía en China: autorización médica y plazos
 
 ## Hero
 
-- **Title:** Volar después de una cirugía o tratamiento: la autorización depende del perfil de riesgo, no de una fecha
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Aptitud para volar y viaje de regreso
-- **Subtitle:** El calendario es solo un factor. Deben evaluarse el gas atrapado, la reserva de oxígeno, el riesgo de coágulos, las complicaciones sin resolver y la capacidad para afrontar una jornada de aeropuerto.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un paciente y su acompañante hablan con un profesional sobre viajar en avión después del tratamiento, junto a equipaje y una vista de un avión.
+
+
+- **Title:** Volar después de una cirugía en China: autorización médica y plazos
+- **Subtitle:** Evalúe el gas atrapado, la reserva de oxígeno, el riesgo de coágulos y complicaciones, la capacidad en el aeropuerto y la autorización de la aerolínea antes de volar tras un tratamiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -186,13 +188,15 @@ El dolor torácico nuevo, la falta de aire, el desmayo, la debilidad de un lado 
 ## SEO Metadata
 
 - **Slug:** `when-is-it-safe-to-fly-after-surgery-or-treatment`
-- **Meta title:** ¿Cuándo es seguro volar después de una cirugía? | Evaluación de cinco aspectos
-- **Meta description:** Evalúe el gas atrapado, la reserva de oxígeno, el riesgo de coágulos y complicaciones, la capacidad en el aeropuerto y la autorización de la aerolínea antes de volar tras un tratamiento.
 - **Primary keyword:** cuándo es seguro volar después de una cirugía
 - **Pillar keyword:** viaje médico a China
 - **Vertical keyword:** aptitud para volar después de un tratamiento médico
 - **Search intent:** seguridad del viaje de regreso / autorización médica
 - **Secondary keywords:** volar después de cirugía China; certificado de aptitud para volar; viaje aéreo tras burbuja de gas retiniana; riesgo de tromboembolismo venoso vuelo largo cirugía; autorización médica aerolínea
+
+
+- **Meta title:** Volar después de una cirugía en China: autorización médica y plazos
+- **Meta description:** Evalúe el gas atrapado, la reserva de oxígeno, el riesgo de coágulos y complicaciones, la capacidad en el aeropuerto y la autorización de la aerolínea antes de volar tras un tratamiento.
 
 ## Fuentes
 

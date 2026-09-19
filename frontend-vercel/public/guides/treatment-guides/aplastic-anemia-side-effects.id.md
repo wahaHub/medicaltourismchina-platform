@@ -1,12 +1,14 @@
-# Efek samping pengobatan anemia aplastik: yang perlu ditinjau dan yang memerlukan pertolongan segera
+# Perawatan Anemia Aplastik di Tiongkok: Efek Samping dan Pertolongan Segera
 
 ## Hero
 
-- **Title:** Efek samping pengobatan anemia aplastik: yang perlu ditinjau dan yang memerlukan pertolongan segera
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Anemia Aplastik
-- **Subtitle:** Ketika gejala muncul selama pengobatan, pasien perlu mengetahui apakah harus menyampaikannya saat kontrol atau mencari pertolongan sekarang.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Perawatan Anemia Aplastik di Tiongkok: Efek Samping dan Pertolongan Segera
+- **Subtitle:** Kenali efek ATG, siklosporin, dan terapi anemia aplastik lainnya. Siapkan pemantauan serta rencana pertolongan segera selama perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -120,3 +122,6 @@ Pisahkan terapi rutin dari kemungkinan pemeriksaan tambahan, komponen, pengobata
 ## SEO Metadata
 
 - **Primary keyword:** efek samping pengobatan anemia aplastik
+
+- **Meta title:** Perawatan Anemia Aplastik di Tiongkok: Efek Samping dan Pertolongan Segera
+- **Meta description:** Kenali efek ATG, siklosporin, dan terapi anemia aplastik lainnya. Siapkan pemantauan serta rencana pertolongan segera selama perawatan di Tiongkok.

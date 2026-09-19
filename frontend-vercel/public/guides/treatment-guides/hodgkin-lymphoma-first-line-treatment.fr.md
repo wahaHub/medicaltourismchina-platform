@@ -1,12 +1,14 @@
-# Choisir le traitement de première ligne du lymphome de Hodgkin : guide pratique de décision
+# Traitement de première ligne du lymphome de Hodgkin en Chine : décisions
 
 ## Hero
 
-- **Title:** Choisir le traitement de première ligne du lymphome de Hodgkin : guide pratique de décision
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome de Hodgkin
-- **Subtitle:** Le traitement de première ligne est le parcours thérapeutique initial complet pour le diagnostic actuel de lymphome de Hodgkin.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement de première ligne du lymphome de Hodgkin en Chine : décisions
+- **Subtitle:** Préparez le premier traitement du lymphome de Hodgkin en Chine en discutant stade, protocole complet, radiothérapie, état de santé et fertilité.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ Lorsque vous comparez deux recommandations de première ligne, demandez aux deux
 ## SEO Metadata
 
 - **Primary keyword:** traitement de première ligne du lymphome de Hodgkin
+
+- **Meta title:** Traitement de première ligne du lymphome de Hodgkin en Chine : décisions
+- **Meta description:** Préparez le premier traitement du lymphome de Hodgkin en Chine en discutant stade, protocole complet, radiothérapie, état de santé et fertilité.

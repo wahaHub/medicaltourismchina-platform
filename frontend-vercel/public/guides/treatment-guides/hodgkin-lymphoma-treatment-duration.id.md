@@ -1,12 +1,14 @@
-# Berapa lama pengobatan limfoma Hodgkin berlangsung? Siklus, titik evaluasi PET, radiasi, dan perjalanan
+# Perawatan Limfoma Hodgkin di Tiongkok: Siklus, Pemeriksaan PET, dan Perjalanan
 
 ## Hero
 
-- **Title:** Berapa lama pengobatan limfoma Hodgkin berlangsung? Siklus, titik evaluasi PET, radiasi, dan perjalanan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Hodgkin
-- **Subtitle:** Durasi pengobatan limfoma Hodgkin tidak dapat dijawab hanya dengan menyebut lama rawat inap.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Perawatan Limfoma Hodgkin di Tiongkok: Siklus, Pemeriksaan PET, dan Perjalanan
+- **Subtitle:** Susun kalender limfoma Hodgkin di Tiongkok yang mencakup persiapan, siklus, evaluasi PET, radiasi, dan pemulihan sebelum perjalanan pulang.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -142,3 +144,6 @@ Jika rangkaian mengalami beberapa perubahan, bedakan usulan asli dari pengobatan
 ## SEO Metadata
 
 - **Primary keyword:** durasi dan siklus pengobatan limfoma Hodgkin
+
+- **Meta title:** Perawatan Limfoma Hodgkin di Tiongkok: Siklus, Pemeriksaan PET, dan Perjalanan
+- **Meta description:** Susun kalender limfoma Hodgkin di Tiongkok yang mencakup persiapan, siklus, evaluasi PET, radiasi, dan pemulihan sebelum perjalanan pulang.

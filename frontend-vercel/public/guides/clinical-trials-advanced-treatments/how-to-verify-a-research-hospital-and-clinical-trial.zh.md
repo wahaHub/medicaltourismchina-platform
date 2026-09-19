@@ -1,15 +1,17 @@
-# 如何核实研究型医院与临床试验
+# 如何核实中国研究医院与临床试验
 
 ## Hero
 
-- **Title:** 如何核实研究型医院与临床试验
 - **Category:** 临床试验与前沿治疗
 - **Subcategory:** 研究核验与伦理
-- **Subtitle:** 在发送病历或出行前，把机构、方案、中心、研究者和招募状态逐一对应。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** 国际患者与医院协调人员使用核验清单、放大镜和安全图标的概念插图；协调人员并非在完成临床知情同意。
+
+
+- **Title:** 如何核实中国研究医院与临床试验
+- **Subtitle:** 通过医院执业、机构备案、登记号与方案号、中心启动、研究者、伦理、同意书、招募方和付款，核实中国临床试验。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -195,11 +197,13 @@ WHO 最低试验登记数据集包含一级登记号、登记日期、申办者�
 ## SEO Metadata
 
 - **Slug:** `how-to-verify-a-research-hospital-and-clinical-trial`
-- **Meta title:** 如何核实中国研究型医院与临床试验
-- **Meta description:** 通过医院执业、机构备案、登记号与方案号、中心启动、研究者、伦理、同意书、招募方和付款，核实中国临床试验。
 - **Primary keyword:** 核实中国临床试验
 - **Secondary keywords:** 中国研究型医院核验；中国临床试验登记；CTR 登记号；GCP 机构备案；临床试验骗局识别
 - **Search intent:** 试验真实性与中心核验
+
+
+- **Meta title:** 如何核实中国研究医院与临床试验
+- **Meta description:** 通过医院执业、机构备案、登记号与方案号、中心启动、研究者、伦理、同意书、招募方和付款，核实中国临床试验。
 
 ## Sources
 

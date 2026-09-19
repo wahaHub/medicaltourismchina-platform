@@ -1,15 +1,17 @@
-# 102 Choisir un hôpital à Shanghai : spécialités, accès et déplacements
+# Choisir un hôpital en Chine : accès aux soins et voyage à Shanghai
 
 ## Hero
 
-- **Title:** Choisir un hôpital à Shanghai : spécialités, accès et déplacements
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Planification des soins à Shanghai
-- **Subtitle:** Transformez un nom d’hôpital de Shanghai en parcours clinique vérifié, en itinéraire vers le site exact et en organisation réalisable de l’arrivée à la sortie.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Illustration conceptuelle de voyageurs internationaux préparant l’accès à un hôpital à Shanghai ; la silhouette urbaine, le symbole ferroviaire et l’hôpital ne représentent aucun site ni trajet réel.
+
+
+- **Title:** Choisir un hôpital en Chine : accès aux soins et voyage à Shanghai
+- **Subtitle:** Construisez un parcours médical sûr à Shanghai en vérifiant l’équipe spécialisée, les sites exacts, le service international, l’identité du passeport, le paiement, les aéroports et la transmission de sortie.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -248,13 +250,15 @@ Demandez si l’hôpital peut les regrouper. Sinon, cartographiez les transferts
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-shanghai-specialties-access-and-travel`
-- **Meta title:** Choisir un hôpital à Shanghai : sites, accès et déplacements
-- **Meta description:** Construisez un parcours médical sûr à Shanghai en vérifiant l’équipe spécialisée, les sites exacts, le service international, l’identité du passeport, le paiement, les aéroports et la transmission de sortie.
 - **Primary keyword:** choisir un hôpital à Shanghai
 - **Pillar keyword:** hôpitaux de Shanghai pour patients internationaux
 - **Vertical keyword:** accès et déplacements vers les sites hospitaliers de Shanghai
 - **Search intent:** comparaison d’hôpitaux / planification de voyage médical
 - **Secondary keywords:** service médical international Shanghai ; rendez-vous hospitalier Shanghai passeport ; réservation hospitalière Suishenban ; déplacements hôpital Pudong Hongqiao ; site hospitalier Shanghai
+
+
+- **Meta title:** Choisir un hôpital en Chine : accès aux soins et voyage à Shanghai
+- **Meta description:** Construisez un parcours médical sûr à Shanghai en vérifiant l’équipe spécialisée, les sites exacts, le service international, l’identité du passeport, le paiement, les aéroports et la transmission de sortie.
 
 ## Sources
 

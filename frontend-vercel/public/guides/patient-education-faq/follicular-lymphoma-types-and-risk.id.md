@@ -1,12 +1,14 @@
-# Jenis dan risiko limfoma folikular: membedakan derajat, stadium, FLIPI dan progresi dini
+# Derajat dan Risiko Limfoma Folikular: Persiapan Perawatan di Tiongkok
 
 ## Hero
 
-- **Title:** Jenis dan risiko limfoma folikular: membedakan derajat, stadium, FLIPI dan progresi dini
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Limfoma Folikular
-- **Subtitle:** Tidak ada satu skor yang menggambarkan setiap risiko penting pada limfoma folikular.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Derajat dan Risiko Limfoma Folikular: Persiapan Perawatan di Tiongkok
+- **Subtitle:** Bedakan derajat, stadium, beban tumor, dan FLIPI pada limfoma folikular. Siapkan pembahasan risiko untuk perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Pertahankan tindak lanjut lokal sementara hasil kompleks masih ditunggu. Konfirm
 ## SEO Metadata
 
 - **Primary keyword:** penilaian risiko limfoma folikular
+
+- **Meta title:** Derajat dan Risiko Limfoma Folikular: Persiapan Perawatan di Tiongkok
+- **Meta description:** Bedakan derajat, stadium, beban tumor, dan FLIPI pada limfoma folikular. Siapkan pembahasan risiko untuk perawatan di Tiongkok.

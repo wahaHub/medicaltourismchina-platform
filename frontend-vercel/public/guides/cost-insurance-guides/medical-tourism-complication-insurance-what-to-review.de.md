@@ -1,15 +1,17 @@
-# 160 Komplikationsversicherung für Medizintourismus: Den Rettungsplan auf Belastbarkeit prüfen
+# Behandlungsreisen nach China: Komplikationsversicherung prüfen
 
 ## Hero
 
-- **Title:** Komplikationsversicherung für Medizintourismus: Den Rettungsplan auf Belastbarkeit prüfen
 - **Category:** Kosten- & Versicherungsratgeber
 - **Subcategory:** Komplikationsdeckung
-- **Subtitle:** Prüfen Sie, wer zahlt und die Verantwortung übernimmt, wenn eine geplante Behandlung in China zu Notfallversorgung, Revision, Evakuierung oder verzögerten Problemen nach der Heimkehr führt.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ersatz erforderlich: eine vierstufige Übersicht der Komplikationsversorgung, die ein chinesisches Krankenhaus, Notfallrettungsversorgung, medizinischen Transport und Nachsorge zu Hause verbindet.
+
+
+- **Title:** Behandlungsreisen nach China: Komplikationsversicherung prüfen
+- **Subtitle:** Prüfen Sie Komplikationsdefinitionen, Ausschlüsse, Zeitfenster, Behandlungsgrenzen, Notfallzahlung, Evakuierung und verzögerte Versorgung nach Medizinreisen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -224,13 +226,15 @@ Policen- und Assistance-Nummern, Pass-/Patientenkennungen, Behandlungszusammenfa
 ## SEO Metadata
 
 - **Slug:** `medical-tourism-complication-insurance-what-to-review`
-- **Meta title:** Komplikationsversicherung für Medizintourismus: Belastungsprüfung der Deckung
-- **Meta description:** Prüfen Sie Komplikationsdefinitionen, Ausschlüsse, Zeitfenster, Behandlungsgrenzen, Notfallzahlung, Evakuierung und verzögerte Versorgung nach Medizinreisen.
 - **Primary keyword:** Komplikationsversicherung Medizintourismus
 - **Pillar keyword:** Medizintourismus Versicherung
 - **Vertical keyword:** Komplikationsdeckung bei Auslandsbehandlung
 - **Search intent:** Versicherungsvergleich / Risikoplanung
 - **Secondary keywords:** Reiseversicherung elektive Operation; Komplikationsdeckung Auslandsbehandlung; medizinische Evakuierungsversicherung; Revisionsdeckung Medizintourismus; Komplikationsversorgung nach der Heimkehr
+
+
+- **Meta title:** Behandlungsreisen nach China: Komplikationsversicherung prüfen
+- **Meta description:** Prüfen Sie Komplikationsdefinitionen, Ausschlüsse, Zeitfenster, Behandlungsgrenzen, Notfallzahlung, Evakuierung und verzögerte Versorgung nach Medizinreisen.
 
 ## Quellen
 

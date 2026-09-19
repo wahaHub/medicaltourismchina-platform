@@ -1,12 +1,14 @@
-# Formen der Multiplen Sklerose und persönliches Risiko: Was Schübe und Progression verändern
+# Formen und Risiken der Multiplen Sklerose: Beurteilung in China
 
 ## Hero
 
-- **Title:** Formen der Multiplen Sklerose und persönliches Risiko: Was Schübe und Progression verändern
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Multiple Sklerose
-- **Subtitle:** RRMS, SPMS und PPMS sind keine drei Schweregrade von leicht bis schwer.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Formen und Risiken der Multiplen Sklerose: Beurteilung in China
+- **Subtitle:** MS-Formen für eine Beurteilung in China verstehen: Schübe, Erholung und Progression unterscheiden sowie individuelle Risiken anhand mehrerer Befunde besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Wenn zwei Krankenhäuser unterschiedliche Einstufungen verwenden, vergleichen Si
 ## SEO Metadata
 
 - **Primary keyword:** Formen der Multiplen Sklerose und Risikobeurteilung
+
+- **Meta title:** Formen und Risiken der Multiplen Sklerose: Beurteilung in China
+- **Meta description:** MS-Formen für eine Beurteilung in China verstehen: Schübe, Erholung und Progression unterscheiden sowie individuelle Risiken anhand mehrerer Befunde besprechen.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choosing a hospital in China for multiple myeloma: match the team to the treatment phase
 - **Category:** Hospital Guides
 - **Subcategory:** Multiple Myeloma
-- **Subtitle:** A patient may need diagnostic clarification, first-line planning, transplant assessment, relapse treatment or management of complications.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choosing a hospital in China for multiple myeloma: match the team to the treatment phase
+- **Subtitle:** Choose a myeloma hospital in China for the actual care phase, including diagnostic review, drug treatment, procedures and organ support.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ The final choice should reflect disease needs, available treatment, monitoring a
 ## SEO Metadata
 
 - **Primary keyword:** multiple myeloma hospitals and treatment centers in China
+
+- **Meta title:** Choosing a hospital in China for multiple myeloma: match the team to the treatment phase
+- **Meta description:** Choose a myeloma hospital in China for the actual care phase, including diagnostic review, drug treatment, procedures and organ support.

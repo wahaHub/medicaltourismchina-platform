@@ -1,15 +1,17 @@
-# Cuidadores familiares en la atención internacional: sean la red de seguridad, no todo el sistema
+# Cuidados familiares durante el tratamiento médico en China
 
 ## Hero
 
-- **Title:** Cuidadores familiares en la atención internacional: sean la red de seguridad, no todo el sistema
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Toma de decisiones del paciente y apoyo al cuidador
-- **Subtitle:** Una descripción práctica de funciones para registros, comunicación, seguridad a pie de cama, habilidades para el alta, límites, respaldo y salud del cuidador.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un paciente y su cuidador familiar aclaran sus funciones con un médico antes del tratamiento internacional
+
+
+- **Title:** Cuidados familiares durante el tratamiento médico en China
+- **Subtitle:** Defina consentimiento del cuidador, registros, observación a pie de cama, habilidades de alta, controles de medicación, límites, respaldo y autocuidado durante el tratamiento extranjero.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - El agotamiento es un problema de seguridad del paciente. Incorpore turnos, sueño, alimentación, descansos y un cuidador sustituto de emergencia al plan [1][4].
 
 ## Content
+
+Si la familia acompaña a una persona que va a recibir tratamiento en China, defina las responsabilidades del cuidador antes de partir. Las citas, el apoyo lingüístico, los medicamentos, la observación junto al paciente y el traspaso de la atención al regresar a casa requieren un reparto viable de tareas, mientras que las decisiones clínicas siguen correspondiendo al equipo tratante.
+
 
 El tratamiento internacional suele convertir a un cónyuge, hijo adulto o amigo en traductor, organizador de citas, encargado del equipaje, responsable de medicamentos, observador a pie de cama y contacto de emergencia de la noche a la mañana. El amor y la determinación no proporcionan automáticamente la formación, autoridad o capacidad física para todas esas funciones. Un plan más seguro trata al cuidador como un colaborador con una función definida, no como personal gratuito del que se espera que cubra cualquier carencia.
 
@@ -165,11 +170,13 @@ Sí. La falta de sueño, la enfermedad y la sobrecarga pueden afectar a la atenc
 
 ## SEO Metadata
 
-- **SEO title:** Guía del cuidador familiar para pacientes internacionales
-- **Meta description:** Defina consentimiento del cuidador, registros, observación a pie de cama, habilidades de alta, controles de medicación, límites, respaldo y autocuidado durante el tratamiento extranjero.
 - **Primary keyword:** cuidador familiar paciente internacional
 - **Secondary keywords:** cuidador viaje médico, acompañante tratamiento extranjero, cuidador alta hospitalaria, defensor paciente transfronterizo, plan seguridad cuidador
 - **Suggested URL slug:** `/family-caregiver-international-patient`
+
+
+- **Meta title:** Cuidados familiares durante el tratamiento médico en China
+- **Meta description:** Defina consentimiento del cuidador, registros, observación a pie de cama, habilidades de alta, controles de medicación, límites, respaldo y autocuidado durante el tratamiento extranjero.
 
 ## Fuentes
 

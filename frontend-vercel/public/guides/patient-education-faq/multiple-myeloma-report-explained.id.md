@@ -1,12 +1,14 @@
-# Memahami laporan mieloma multipel: protein, sumsum, pencitraan, dan MRD
+# Laporan Mieloma Multipel: Persiapan Tinjauan di Tiongkok
 
 ## Hero
 
-- **Title:** Memahami laporan mieloma multipel: protein, sumsum, pencitraan, dan MRD
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Mieloma Multipel
-- **Subtitle:** Rekam medis mieloma dapat memuat banyak hasil yang ditandai, tetapi jumlah tanda panah tidak menggambarkan penyakitnya.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Laporan Mieloma Multipel: Persiapan Tinjauan di Tiongkok
+- **Subtitle:** Pahami protein M, rantai ringan, sumsum tulang, FISH, dan MRD pada mieloma. Siapkan laporan beserta konteksnya untuk konsultasi di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Tim penerima kemudian dapat memutuskan apakah peninjauan atau pemeriksaan tambah
 ## SEO Metadata
 
 - **Primary keyword:** penjelasan laporan mieloma multipel
+
+- **Meta title:** Laporan Mieloma Multipel: Persiapan Tinjauan di Tiongkok
+- **Meta description:** Pahami protein M, rantai ringan, sumsum tulang, FISH, dan MRD pada mieloma. Siapkan laporan beserta konteksnya untuk konsultasi di Tiongkok.

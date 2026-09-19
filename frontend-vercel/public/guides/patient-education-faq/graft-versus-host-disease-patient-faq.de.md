@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Zwanzig Patientenfragen zur GVHD: Behandlung, Ausschleichen, Versorgung in China und Nachsorge
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Graft-versus-Host-Erkrankung
-- **Subtitle:** Die Graft-versus-Host-Erkrankung verbindet Transplantationsvorgeschichte, Immunbehandlung und Probleme mehrerer Organe.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Zwanzig Patientenfragen zur GVHD: Behandlung, Ausschleichen, Versorgung in China und Nachsorge
+- **Subtitle:** 20 Fragen zur GVHD-Versorgung in China: Diagnose, Organbefall, Medikamente, Ausschleichen und Nachsorge nach einer Spendertransplantation einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Setzen Sie schemaspezifische Blut- und biochemische Kontrollen, Beurteilung betr
 ## SEO Metadata
 
 - **Primary keyword:** GVHD-Patientenfragen und Behandlung in China
+
+- **Meta title:** Zwanzig Patientenfragen zur GVHD: Behandlung, Ausschleichen, Versorgung in China und Nachsorge
+- **Meta description:** 20 Fragen zur GVHD-Versorgung in China: Diagnose, Organbefall, Medikamente, Ausschleichen und Nachsorge nach einer Spendertransplantation einordnen.

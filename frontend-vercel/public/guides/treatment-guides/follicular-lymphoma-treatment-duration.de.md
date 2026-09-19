@@ -1,12 +1,14 @@
-# Wie lange dauert die Behandlung eines follikulären Lymphoms? Überwachung, Induktion, Erhaltung und Erholung
+# Versorgung beim follikulären Lymphom in China: Behandlungsdauer
 
 ## Hero
 
-- **Title:** Wie lange dauert die Behandlung eines follikulären Lymphoms? Überwachung, Induktion, Erhaltung und Erholung
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Follikuläres Lymphom
-- **Subtitle:** Es gibt keine einheitliche Dauer für jeden Behandlungsverlauf beim follikulären Lymphom.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Versorgung beim follikulären Lymphom in China: Behandlungsdauer
+- **Subtitle:** Den Zeitplan beim follikulären Lymphom in China verstehen: Beobachtung, Induktion, Bestrahlung, Erhaltung und Erholung als unterschiedliche Phasen einplanen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -104,3 +106,6 @@ Halten Sie die Rückreise flexibel. Legen Sie die Kontrolle nach der letzten Dos
 ## SEO Metadata
 
 - **Primary keyword:** Behandlungsdauer follikuläres Lymphom
+
+- **Meta title:** Versorgung beim follikulären Lymphom in China: Behandlungsdauer
+- **Meta description:** Den Zeitplan beim follikulären Lymphom in China verstehen: Beobachtung, Induktion, Bestrahlung, Erhaltung und Erholung als unterschiedliche Phasen einplanen.

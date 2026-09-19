@@ -1,15 +1,17 @@
-# 073 Elegibilidad para ensayos clínicos: por qué los pacientes pueden o no cumplir los requisitos
+# Elegibilidad para ensayos clínicos en China: cómo funciona la selección
 
 ## Hero
 
-- **Title:** Elegibilidad para ensayos clínicos: por qué los pacientes pueden o no cumplir los requisitos
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Evaluación de selección e incorporación al ensayo
-- **Subtitle:** Una guía práctica sobre la preselección, los criterios del protocolo, los plazos de selección, la no superación de la selección y la diferencia entre ser elegible y la incorporación efectiva.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Se necesita una sustitución: un médico investigador y un paciente revisan las comprobaciones de elegibilidad de anatomía patológica, biomarcadores, antecedentes terapéuticos y análisis en un panel estructurado de selección para un ensayo.
+
+
+- **Title:** Elegibilidad para ensayos clínicos en China: cómo funciona la selección
+- **Subtitle:** Comprenda la preselección de ensayos, los criterios de inclusión y exclusión, las comprobaciones de biomarcadores y lavado, la no superación de la selección, las plazas disponibles y las barreras para pacientes internacionales.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,11 +139,13 @@ El pago no sustituye a la elegibilidad, la revisión ética ni la disponibilidad
 ## SEO Metadata
 
 - **Slug:** `clinical-trial-eligibility-why-patients-may-or-may-not-qualify`
-- **Meta title:** Explicación de la elegibilidad para ensayos clínicos y de la no superación de la selección
-- **Meta description:** Comprenda la preselección de ensayos, los criterios de inclusión y exclusión, las comprobaciones de biomarcadores y lavado, la no superación de la selección, las plazas disponibles y las barreras para pacientes internacionales.
 - **Primary keyword:** elegibilidad para ensayos clínicos
 - **Secondary keywords:** criterios de inclusión y exclusión; selección para ensayos clínicos; biomarcador de ensayo oncológico; no superación de la selección de ensayos clínicos; ensayo para pacientes internacionales
 - **Search intent:** selección para ensayos clínicos / decisión informada de participación
+
+
+- **Meta title:** Elegibilidad para ensayos clínicos en China: cómo funciona la selección
+- **Meta description:** Comprenda la preselección de ensayos, los criterios de inclusión y exclusión, las comprobaciones de biomarcadores y lavado, la no superación de la selección, las plazas disponibles y las barreras para pacientes internacionales.
 
 ## Fuentes
 

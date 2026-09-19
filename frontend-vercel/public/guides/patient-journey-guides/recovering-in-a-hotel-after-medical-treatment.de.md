@@ -1,15 +1,17 @@
-# 142 Genesung im Hotel nach einer Behandlung: das Zimmer auf klinische Nutzbarkeit prüfen
+# Genesung im Hotel nach Behandlung in China | Sicherheitsprüfung des Zimmers
 
 ## Hero
 
-- **Title:** Genesung im Hotel nach einer Behandlung: das Zimmer auf klinische Nutzbarkeit prüfen
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Vorübergehende Unterkunft und ambulante Genesung
-- **Subtitle:** Ein Hotel stellt ein Zimmer bereit, keine Krankenpflege. Prüfen Sie Patient, Betreuungsperson, Raum, Ausstattung und Notfallweg, bevor Sie es als Genesungsbasis nutzen.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Ein Patient und eine Begleitperson planen Genesungstermine in einem Hotelzimmer, mit Gepäck und einem Symbol für ein nahe gelegenes Krankenhaus.
+
+
+- **Title:** Genesung im Hotel nach Behandlung in China | Sicherheitsprüfung des Zimmers
+- **Subtitle:** Ein Hotel stellt ein Zimmer bereit, keine Krankenpflege. Prüfen Sie Patient, Betreuungsperson, Raum, Ausstattung und Notfallweg, bevor Sie es als Genesungsbasis nutzen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -183,13 +185,15 @@ Bereiten Sie den chinesischen Hotelnamen und die vollständige Adresse, Gebäude
 ## SEO Metadata
 
 - **Slug:** `recovering-in-a-hotel-after-medical-treatment`
-- **Meta title:** Genesung im Hotel nach Behandlung in China | Sicherheitsprüfung des Zimmers
-- **Meta description:** Eignung des Hotels, Zimmerzugang, Betreuungsabdeckung, Medikamentenlagerung, Geräte und Notfallweg nach ambulanter Behandlung in China prüfen.
 - **Primary keyword:** Genesung im Hotel nach Operation in China
 - **Pillar keyword:** medizinische Reisen nach China
 - **Vertical keyword:** Genesung im Hotel nach einer Behandlung
 - **Search intent:** Genesungsunterkunft / Sicherheitsplanung
 - **Secondary keywords:** Hotel nahe Krankenhaus in China; Hotelgenesung nach ambulanter Operation; Betreuung nach Anästhesie; medizinische Geräte im Hotel; Hoteladresse für Notruf 120
+
+
+- **Meta title:** Genesung im Hotel nach Behandlung in China | Sicherheitsprüfung des Zimmers
+- **Meta description:** Eignung des Hotels, Zimmerzugang, Betreuungsabdeckung, Medikamentenlagerung, Geräte und Notfallweg nach ambulanter Behandlung in China prüfen.
 
 ## Quellen
 

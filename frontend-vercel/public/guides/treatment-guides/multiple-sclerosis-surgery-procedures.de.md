@@ -1,12 +1,14 @@
-# Verfahren bei Multipler Sklerose: Plasmaaustausch, AHSCT und Vorbereitung vor der Behandlung
+# Verfahren bei MS in China: Plasmaaustausch und AHSCT-Beurteilung
 
 ## Hero
 
-- **Title:** Verfahren bei Multipler Sklerose: Plasmaaustausch, AHSCT und Vorbereitung vor der Behandlung
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Multiple Sklerose
-- **Subtitle:** MS wird gewöhnlich nicht durch die operative Entfernung einer bestimmten Läsion behandelt.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Verfahren bei MS in China: Plasmaaustausch und AHSCT-Beurteilung
+- **Subtitle:** Verfahren bei MS in China prüfen: Plasmaaustausch bei ausgewählten Schüben und Stammzelltransplantation nach Ziel, Eignung, Infektionsrisiken und Nachsorge beurteilen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Bestätigen Sie, welche Phasen der Kostenvoranschlag abdeckt, wie Komplikationen
 ## SEO Metadata
 
 - **Primary keyword:** Verfahren und Stammzelltransplantation bei Multipler Sklerose
+
+- **Meta title:** Verfahren bei MS in China: Plasmaaustausch und AHSCT-Beurteilung
+- **Meta description:** Verfahren bei MS in China prüfen: Plasmaaustausch bei ausgewählten Schüben und Stammzelltransplantation nach Ziel, Eignung, Infektionsrisiken und Nachsorge beurteilen.

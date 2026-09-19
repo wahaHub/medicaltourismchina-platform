@@ -1,12 +1,14 @@
-# Prognose bei aplastischer Anämie: Ansprechen, Rückfall und langfristige Erholung
+# Prognose bei aplastischer Anämie: Fragen zur Versorgung in China
 
 ## Hero
 
-- **Title:** Prognose bei aplastischer Anämie: Ansprechen, Rückfall und langfristige Erholung
 - **Category:** Patienteninformation & häufige Fragen
 - **Subcategory:** Aplastische Anämie
-- **Subtitle:** „Ist sie heilbar?“ kann bedeuten, die akute Gefahr zu überleben, keine Transfusionen mehr zu benötigen, Medikamente abzusetzen oder in Beruf und Familienleben zurückzukehren.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prognose bei aplastischer Anämie: Fragen zur Versorgung in China
+- **Subtitle:** Die Prognose bei aplastischer Anämie für die Versorgung in China besprechen: Therapieansprechen, Rückfallrisiko, Transplantationsergebnisse und Erholung einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Beratung, pathologische Zweitbegutachtung und weitere Untersuchungen haben zentr
 ## SEO Metadata
 
 - **Primary keyword:** Prognose bei aplastischer Anämie
+
+- **Meta title:** Prognose bei aplastischer Anämie: Fragen zur Versorgung in China
+- **Meta description:** Die Prognose bei aplastischer Anämie für die Versorgung in China besprechen: Therapieansprechen, Rückfallrisiko, Transplantationsergebnisse und Erholung einordnen.

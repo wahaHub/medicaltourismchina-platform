@@ -1,15 +1,17 @@
-# 132 Untersuchungen nach der Ankunft wiederholen: Fragen Sie, welche Entscheidung das neue Ergebnis verändern wird
+# Medizinische Untersuchungen in China wiederholen | Wann ist es nötig?
 
 ## Hero
 
-- **Title:** Untersuchungen nach der Ankunft wiederholen: Fragen Sie, welche Entscheidung das neue Ergebnis verändern wird
 - **Category:** Leitfäden zum Patientenweg
 - **Subcategory:** Befundprüfung, Wiederholung und Ausgangsbefunde für die Behandlung
-- **Subtitle:** Ein früheres Ergebnis sollte weiterverwendet werden, wenn es für die aktuelle Entscheidung geeignet ist. Eine Wiederholung ist gerechtfertigt, wenn Identität, Zeitpunkt, Methode, Qualität oder klinische Frage die alten Belege unzureichend machen.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Konzeptionelles Arzt-Patienten-Gespräch über mehrere Untersuchungspunkte; es zeigt weder ein echtes Testergebnis noch ein Krankenhausprotokoll oder eine Empfehlung zur Wiederholung von Untersuchungen.
+
+
+- **Title:** Medizinische Untersuchungen in China wiederholen | Wann ist es nötig?
+- **Subtitle:** Ein früheres Ergebnis sollte weiterverwendet werden, wenn es für die aktuelle Entscheidung geeignet ist. Eine Wiederholung ist gerechtfertigt, wenn Identität, Zeitpunkt, Methode, Qualität oder klinische Frage die alten Belege unzureichend machen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -185,13 +187,15 @@ Bewahren Sie Anordnung, Vorbereitungshinweise, Bericht, Einheiten und Referenzbe
 ## SEO Metadata
 
 - **Slug:** `repeating-tests-after-arrival-why-it-may-be-necessary`
-- **Meta title:** Medizinische Untersuchungen in China wiederholen | Wann ist es nötig?
-- **Meta description:** Prüfen Sie anhand von fünf Eignungskriterien, ob ausländische Labor-, Bildgebungs- oder Pathologiebefunde nach der Ankunft in China weiterverwendet, neu interpretiert, wiederholt oder ersetzt werden sollten.
 - **Primary keyword:** medizinische Untersuchungen in China wiederholen
 - **Pillar keyword:** medizinische Reise nach China
 - **Vertical keyword:** ausländische Untersuchungsergebnisse chinesisches Krankenhaus
 - **Search intent:** Befundprüfung / Kosten- und Sicherheitsplanung
 - **Secondary keywords:** Befundanerkennung China; erneutes CT China; pathologische Überprüfung China; Laborreferenzbereich; Ausgangsuntersuchungen für die Behandlung
+
+
+- **Meta title:** Medizinische Untersuchungen in China wiederholen | Wann ist es nötig?
+- **Meta description:** Prüfen Sie anhand von fünf Eignungskriterien, ob ausländische Labor-, Bildgebungs- oder Pathologiebefunde nach der Ankunft in China weiterverwendet, neu interpretiert, wiederholt oder ersetzt werden sollten.
 
 ## Quellen
 

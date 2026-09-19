@@ -1,12 +1,14 @@
-# Le lymphome de Hodgkin nécessite-t-il une chirurgie ? Biopsie, accès veineux et prélèvement de cellules souches
+# Interventions pour le lymphome de Hodgkin en Chine : biopsie et collecte cellulaire
 
 ## Hero
 
-- **Title:** Le lymphome de Hodgkin nécessite-t-il une chirurgie ? Biopsie, accès veineux et prélèvement de cellules souches
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome de Hodgkin
-- **Subtitle:** Le lymphome de Hodgkin classique est généralement traité par des médicaments systémiques, parfois associés à la radiothérapie.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Interventions pour le lymphome de Hodgkin en Chine : biopsie et collecte cellulaire
+- **Subtitle:** Comprenez le rôle de la biopsie, de l’accès veineux et du prélèvement de cellules souches dans le lymphome de Hodgkin pour préparer les soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -123,3 +125,6 @@ Demandez au clinicien quel problème l'intervention a résolu et ce qui reste in
 ## SEO Metadata
 
 - **Primary keyword:** chirurgie et interventions du lymphome de Hodgkin
+
+- **Meta title:** Interventions pour le lymphome de Hodgkin en Chine : biopsie et collecte cellulaire
+- **Meta description:** Comprenez le rôle de la biopsie, de l’accès veineux et du prélèvement de cellules souches dans le lymphome de Hodgkin pour préparer les soins en Chine.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Suivi après un traitement de la GVHD en Chine : coordonner les examens, les prescriptions et les soins des organes au retour
 - **Category:** Guides du parcours patient
 - **Subcategory:** Maladie du greffon contre l’hôte
-- **Subtitle:** Après le retour, la principale difficulté peut être une responsabilité mal définie plutôt qu’une lettre de sortie manquante.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Suivi après un traitement de la GVHD en Chine : coordonner les examens, les prescriptions et les soins des organes au retour
+- **Subtitle:** Après des soins de GVH en Chine, coordonnez prescriptions, diminution des traitements, analyses et surveillance des organes avec l’équipe qui prendra le relais.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -127,3 +129,6 @@ Un plan de retour efficace précise l’action suivante, le destinataire des ré
 ## SEO Metadata
 
 - **Primary keyword:** suivi après un traitement de la GVHD en Chine
+
+- **Meta title:** Suivi après un traitement de la GVHD en Chine : coordonner les examens, les prescriptions et les soins des organes au retour
+- **Meta description:** Après des soins de GVH en Chine, coordonnez prescriptions, diminution des traitements, analyses et surveillance des organes avec l’équipe qui prendra le relais.

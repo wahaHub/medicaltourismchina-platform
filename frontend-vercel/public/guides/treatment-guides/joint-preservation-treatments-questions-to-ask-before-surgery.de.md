@@ -1,15 +1,17 @@
-# 047 Gelenkerhaltende Behandlungen: Fragen vor einer Operation
+# Gelenkerhaltende Behandlungen in China: Fragen vor einer Operation
 
 ## Hero
 
-- **Title:** Gelenkerhaltende Behandlungen: Fragen vor einer Operation
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Gelenkrekonstruktion & Sportmedizin
-- **Subtitle:** Finden Sie heraus, ob das Gelenk noch ein behandelbares mechanisches oder umschriebenes Problem hat – und was „Erhalt“ realistischerweise erhalten kann.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ein Patient bespricht neben einem Gehstock mit einem Orthopäden Ziele für Gehen, Treppensteigen und Radfahren
+
+
+- **Title:** Gelenkerhaltende Behandlungen in China: Fragen vor einer Operation
+- **Subtitle:** Beurteilen Sie gelenkerhaltende Operationen nach Diagnose, Knorpel, Ausrichtung und Stabilität, mit klarer Evidenz, Rehabilitation, Versagenskriterien und künftigen Optionen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -20,6 +22,9 @@
 - Ein guter Gelenkerhaltungsplan enthält eine Ausstiegsstrategie: Wie Erfolg gemessen wird, wann Versagen festgestellt wird und ob ein späterer Ersatz möglich bleibt.
 
 ## Content
+
+Fragen Sie vor einer Reise nach China zur Beratung über gelenkerhaltende Behandlung, welches strukturelle Problem der vorgeschlagene Eingriff beheben soll. Bringen Sie die Bildgebung und den Behandlungsverlauf mit und vergleichen Sie Anforderungen während der Erholung, Alternativen und Nachsorgebedarf, bevor Sie sich für eine Operation entscheiden.
+
 
 Die Formulierung „Ihr natürliches Gelenk retten“ wirkt emotional stark, besonders bei jüngeren oder aktiven Patienten. Sie kann auch sehr unterschiedliche Behandlungen verbergen: einen Meniskus reparieren, eine dysplastische Hüftpfanne drehen, eine Seite eines arthrotischen Knies entlasten, einen umschriebenen Knorpeldefekt transplantierend versorgen oder eine frühe Osteonekrose dekomprimieren. Fragen Sie vor Zustimmung zu dieser Bezeichnung, was tatsächlich erhalten wird und warum sich das Gelenk dafür eignet.
 
@@ -185,13 +190,15 @@ Vereinbaren Sie im Voraus, wie Versagen gemessen wird, wie viel Erholungszeit ei
 ## SEO Metadata
 
 - **Slug:** `joint-preservation-treatments-questions-to-ask-before-surgery`
-- **Meta title:** Gelenkerhaltende Behandlungen | Fragen vor der Operation
-- **Meta description:** Beurteilen Sie gelenkerhaltende Operationen nach Diagnose, Knorpel, Ausrichtung und Stabilität, mit klarer Evidenz, Rehabilitation, Versagenskriterien und künftigen Optionen.
 - **Primary keyword:** gelenkerhaltende Behandlungen
 - **Pillar keyword:** gelenkerhaltende Operation
 - **Vertical keyword:** Knorpel- und Gelenkrekonstruktion
 - **Search intent:** Behandlungsvergleich / präoperative Fragen
 - **Secondary keywords:** Knorpelrekonstruktionsoperation; Gelenkosteotomie; hüfterhaltende Operation; regenerative Gelenkbehandlung; Gelenkerhalt gegenüber Ersatz
+
+
+- **Meta title:** Gelenkerhaltende Behandlungen in China: Fragen vor einer Operation
+- **Meta description:** Beurteilen Sie gelenkerhaltende Operationen nach Diagnose, Knorpel, Ausrichtung und Stabilität, mit klarer Evidenz, Rehabilitation, Versagenskriterien und künftigen Optionen.
 
 ## Quellen
 

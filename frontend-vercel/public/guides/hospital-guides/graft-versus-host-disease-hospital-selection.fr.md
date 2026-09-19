@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choisir un hôpital pour la GVHD en Chine : suivi de greffe et soins propres à chaque organe
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Maladie du greffon contre l'hôte
-- **Subtitle:** La recherche d'un hôpital devient plus utile lorsque le problème est précis.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choisir un hôpital pour la GVHD en Chine : suivi de greffe et soins propres à chaque organe
+- **Subtitle:** Pour une maladie du greffon contre l’hôte, évaluez en Chine la coordination du suivi de greffe, l’expertise des organes atteints et le recours en urgence.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ L'hôpital approprié est celui qui peut relier la question clinique actuelle à
 ## SEO Metadata
 
 - **Primary keyword:** hôpitaux pour le traitement de la GVHD en Chine
+
+- **Meta title:** Choisir un hôpital pour la GVHD en Chine : suivi de greffe et soins propres à chaque organe
+- **Meta description:** Pour une maladie du greffon contre l’hôte, évaluez en Chine la coordination du suivi de greffe, l’expertise des organes atteints et le recours en urgence.

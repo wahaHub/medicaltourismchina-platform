@@ -1,12 +1,14 @@
-# Tipos y riesgo del linfoma folicular: distinguir grado, estadio, FLIPI y progresión temprana
+# Grado y riesgo del linfoma folicular: prepararse para la atención en China
 
 ## Hero
 
-- **Title:** Tipos y riesgo del linfoma folicular: distinguir grado, estadio, FLIPI y progresión temprana
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma folicular
-- **Subtitle:** Ninguna puntuación única describe todos los riesgos importantes del linfoma folicular.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Grado y riesgo del linfoma folicular: prepararse para la atención en China
+- **Subtitle:** Distinga grado, estadio, carga tumoral y escalas de riesgo del linfoma folicular para preparar una conversación sobre tratamiento y seguimiento en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Mantenga el seguimiento local mientras estén pendientes resultados complejos. C
 ## SEO Metadata
 
 - **Primary keyword:** evaluación del riesgo de linfoma folicular
+
+- **Meta title:** Grado y riesgo del linfoma folicular: prepararse para la atención en China
+- **Meta description:** Distinga grado, estadio, carga tumoral y escalas de riesgo del linfoma folicular para preparar una conversación sobre tratamiento y seguimiento en China.

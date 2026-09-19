@@ -1,12 +1,14 @@
-# Interventions pour l’aplasie médullaire : prélèvement médullaire, accès vasculaire et greffe
+# Interventions pour l’aplasie médullaire en Chine : examens de moelle et greffe
 
 ## Hero
 
-- **Title:** Interventions pour l’aplasie médullaire : prélèvement médullaire, accès vasculaire et greffe
 - **Category:** Guides des traitements
 - **Subcategory:** Aplasie médullaire
-- **Subtitle:** Interventions pour l’aplasie médullaire : prélèvement médullaire, accès vasculaire et greffe
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Interventions pour l’aplasie médullaire en Chine : examens de moelle et greffe
+- **Subtitle:** Comprenez prélèvement médullaire, accès vasculaire, préparation du donneur et étapes de la greffe pour organiser les soins d’aplasie médullaire en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Le calendrier doit de même distinguer la révision diagnostique, la confirmatio
 ## SEO Metadata
 
 - **Primary keyword:** procédure de greffe de cellules souches pour l’aplasie médullaire
+
+- **Meta title:** Interventions pour l’aplasie médullaire en Chine : examens de moelle et greffe
+- **Meta description:** Comprenez prélèvement médullaire, accès vasculaire, préparation du donneur et étapes de la greffe pour organiser les soins d’aplasie médullaire en Chine.

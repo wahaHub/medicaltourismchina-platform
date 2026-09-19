@@ -1,12 +1,14 @@
-# Combien de temps dure le traitement du lymphome folliculaire ? Surveillance, induction, entretien et récupération
+# Soins du lymphome folliculaire en Chine : calendrier des traitements
 
 ## Hero
 
-- **Title:** Combien de temps dure le traitement du lymphome folliculaire ? Surveillance, induction, entretien et récupération
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome folliculaire
-- **Subtitle:** Il n’existe pas de durée unique pour tous les parcours de traitement du lymphome folliculaire.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Soins du lymphome folliculaire en Chine : calendrier des traitements
+- **Subtitle:** Distinguez surveillance, induction, radiothérapie, entretien et récupération du lymphome folliculaire pour planifier les étapes des soins en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -104,3 +106,6 @@ Gardez des modalités de retour flexibles. Précisez la consultation après la d
 ## SEO Metadata
 
 - **Primary keyword:** durée du traitement du lymphome folliculaire
+
+- **Meta title:** Soins du lymphome folliculaire en Chine : calendrier des traitements
+- **Meta description:** Distinguez surveillance, induction, radiothérapie, entretien et récupération du lymphome folliculaire pour planifier les étapes des soins en Chine.

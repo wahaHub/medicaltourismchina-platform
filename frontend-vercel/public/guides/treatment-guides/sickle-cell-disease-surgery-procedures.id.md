@@ -1,12 +1,14 @@
-# Operasi pada Penyakit Sel Sabit: Prosedur Kandung Empedu, Limpa, Sendi, dan Perencanaan Perioperatif
+# Operasi pada Penyakit Sel Sabit di Tiongkok: Perawatan Perioperatif
 
 ## Hero
 
-- **Title:** Operasi pada Penyakit Sel Sabit: Prosedur Kandung Empedu, Limpa, Sendi, dan Perencanaan Perioperatif
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Sel Sabit
-- **Subtitle:** Penyandang penyakit sel sabit sering khawatir bahwa operasi atau anestesi akan memicu krisis.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Operasi pada Penyakit Sel Sabit di Tiongkok: Perawatan Perioperatif
+- **Subtitle:** Siapkan operasi pada penyakit sel sabit di Tiongkok dengan penilaian masalah organ, anestesi, risiko krisis, dan rencana perawatan perioperatif.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ Rencana yang dapat dijalankan memungkinkan pasien menjelaskan mengapa operasi di
 ## SEO Metadata
 
 - **Primary keyword:** persiapan operasi untuk penyakit sel sabit
+
+- **Meta title:** Operasi pada Penyakit Sel Sabit di Tiongkok: Perawatan Perioperatif
+- **Meta description:** Siapkan operasi pada penyakit sel sabit di Tiongkok dengan penilaian masalah organ, anestesi, risiko krisis, dan rencana perawatan perioperatif.

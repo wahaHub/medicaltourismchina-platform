@@ -1,12 +1,14 @@
-# Nouveaux médicaments et essais cliniques dans la sclérose en plaques : interpréter les avancées de 2026
+# Nouveaux médicaments et essais de la SEP : vérifier l’accès en Chine
 
 ## Hero
 
-- **Title:** Nouveaux médicaments et essais cliniques dans la sclérose en plaques : interpréter les avancées de 2026
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Sclérose en plaques
-- **Subtitle:** L’annonce d’un nouveau mécanisme, de résultats positifs de phase 3 ou d’une thérapie cellulaire soulève généralement des questions pratiques : les données concernent-elles ma forme de SEP, puis-je recevoir ce traitement et qu’exigerait-il ?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Nouveaux médicaments et essais de la SEP : vérifier l’accès en Chine
+- **Subtitle:** Reliez les nouveaux traitements de la sclérose en plaques à la forme étudiée, aux résultats et aux risques. Préparez les vérifications d’accès en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Une décision raisonnable de participation permet de comprendre l’incertitude 
 ## SEO Metadata
 
 - **Primary keyword:** nouveaux médicaments et essais cliniques dans la sclérose en plaques
+
+- **Meta title:** Nouveaux médicaments et essais de la SEP : vérifier l’accès en Chine
+- **Meta description:** Reliez les nouveaux traitements de la sclérose en plaques à la forme étudiée, aux résultats et aux risques. Préparez les vérifications d’accès en Chine.

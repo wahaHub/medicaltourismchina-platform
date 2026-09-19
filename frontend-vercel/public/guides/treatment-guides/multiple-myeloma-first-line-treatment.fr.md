@@ -1,12 +1,14 @@
-# Commencer le traitement de première ligne du myélome multiple
+# Traitement de première ligne du myélome multiple en Chine : bien démarrer
 
 ## Hero
 
-- **Title:** Commencer le traitement de première ligne du myélome multiple
 - **Category:** Guides thérapeutiques
 - **Subcategory:** Myélome multiple
-- **Subtitle:** Le traitement de première ligne est la stratégie systémique initiale utilisée pour contrôler un myélome actif.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement de première ligne du myélome multiple en Chine : bien démarrer
+- **Subtitle:** Préparez le premier traitement du myélome en Chine en discutant tolérance, stratégie de greffe, fonction rénale et prévention dès le premier cycle.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Avant de commencer, essayez d’expliquer avec vos propres mots l’objectif, la
 ## SEO Metadata
 
 - **Primary keyword:** traitement de première ligne du myélome multiple
+
+- **Meta title:** Traitement de première ligne du myélome multiple en Chine : bien démarrer
+- **Meta description:** Préparez le premier traitement du myélome en Chine en discutant tolérance, stratégie de greffe, fonction rénale et prévention dès le premier cycle.

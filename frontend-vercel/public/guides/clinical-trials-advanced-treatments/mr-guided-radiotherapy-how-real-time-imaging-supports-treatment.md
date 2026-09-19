@@ -1,15 +1,17 @@
-# MR-Guided Radiotherapy: How Real-Time Imaging Supports Treatment
+# MR-Guided Radiotherapy in China: Planning and Safety
 
 ## Hero
 
-- **Title:** MR-Guided Radiotherapy: How Real-Time Imaging Supports Treatment
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Image-Guided & Adaptive Radiotherapy
-- **Subtitle:** Understand what is imaged, what is adapted and what the team still has to decide.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Conceptual MR-guided radiotherapy room with a patient positioned in an integrated scanner, cross-sectional images and a visible treatment target; not a real interface or dose plan.
+
+
+- **Title:** MR-Guided Radiotherapy in China: Planning and Safety
+- **Subtitle:** Learn how MR-guided radiotherapy uses setup imaging, cine MRI, gating and online adaptation, plus evidence, MR safety, session burden, QA and records.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -131,11 +133,13 @@ No. It may support smaller margins or better organ sparing in selected workflows
 ## SEO Metadata
 
 - **Slug:** `mr-guided-radiotherapy-how-real-time-imaging-supports-treatment`
-- **Meta title:** MR-Guided Radiotherapy: Real-Time Imaging and Adaptation
-- **Meta description:** Learn how MR-guided radiotherapy uses setup imaging, cine MRI, gating and online adaptation, plus evidence, MR safety, session burden, QA and records.
 - **Primary keyword:** MR-guided radiotherapy
 - **Secondary keywords:** MR-Linac; online adaptive radiotherapy; real-time MRI radiotherapy; MRI-guided SBRT; radiation gating
 - **Search intent:** technology explanation / radiotherapy planning
+
+
+- **Meta title:** MR-Guided Radiotherapy in China: Planning and Safety
+- **Meta description:** Learn how MR-guided radiotherapy uses setup imaging, cine MRI, gating and online adaptation, plus evidence, MR safety, session burden, QA and records.
 
 ## Sources
 

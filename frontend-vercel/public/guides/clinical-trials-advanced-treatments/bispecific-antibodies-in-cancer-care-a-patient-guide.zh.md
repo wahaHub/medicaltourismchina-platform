@@ -1,15 +1,17 @@
-# 双特异性抗体用于肿瘤治疗：患者指南
+# 中国双特异性抗体治疗：给药、可及性与风险
 
 ## Hero
 
-- **Title:** 双特异性抗体用于肿瘤治疗：患者指南
 - **Category:** 临床试验与先进治疗
 - **Subcategory:** 肿瘤免疫治疗
-- **Subtitle:** 先弄清两个结合靶点及其功能，再判断入组、阶梯加量、免疫毒性、感染风险和跨境可行性。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **图片替代文字：** 与《080 双特异性抗体用于肿瘤治疗：患者指南》对应的临床场景，呈现相关诊疗决策、操作流程与安全核对。
+
+
+- **Title:** 中国双特异性抗体治疗：给药、可及性与风险
+- **Subtitle:** 了解不同肿瘤双特异性抗体，包括 CD3 T 细胞衔接器、靶点检测、阶梯加量、CRS、感染风险和中国路径核验。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -171,11 +173,13 @@ CD3 衔接器除 CRS、ICANS 和感染外，还可能涉及血细胞减少、肿
 ## SEO Metadata
 
 - **Slug:** `bispecific-antibodies-in-cancer-care-a-patient-guide`
-- **Meta title:** 双特异性抗体：靶点、阶梯加量与风险
-- **Meta description:** 了解不同肿瘤双特异性抗体，包括 CD3 T 细胞衔接器、靶点检测、阶梯加量、CRS、感染风险和中国路径核验。
 - **Primary keyword:** 双特异性抗体肿瘤治疗
 - **Secondary keywords:** 双特异性 T 细胞衔接器；中国双特异性抗体；阶梯加量；CRS ICANS；双抗感染风险
 - **Search intent:** 双特异性抗体治疗比较 / 试验筛查
+
+
+- **Meta title:** 中国双特异性抗体治疗：给药、可及性与风险
+- **Meta description:** 了解不同肿瘤双特异性抗体，包括 CD3 T 细胞衔接器、靶点检测、阶梯加量、CRS、感染风险和中国路径核验。
 
 ## Sources
 

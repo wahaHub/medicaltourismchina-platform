@@ -1,12 +1,14 @@
-# Einen Schlaganfall-Rehabilitationsbericht verstehen: Bildgebung, Punktwerte und Hilfebedarf
+# Berichte zur Schlaganfallrehabilitation: Eine Beurteilung in China planen
 
 ## Hero
 
-- **Title:** Einen Schlaganfall-Rehabilitationsbericht verstehen: Bildgebung, Punktwerte und Hilfebedarf
 - **Category:** Patienteninformation und häufige Fragen
 - **Subcategory:** Rehabilitation nach ischämischem Schlaganfall
-- **Subtitle:** Ein Schlaganfall-Rehabilitationsbericht kann NIHSS, Fugl-Meyer, Barthel, Berg und mehrere weitere Abkürzungen enthalten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Berichte zur Schlaganfallrehabilitation: Eine Beurteilung in China planen
+- **Subtitle:** Berichte zur Schlaganfallrehabilitation für China vorbereiten: Skalen, Untersuchungsbedingungen, Alltagsfunktion, Schlucken und Hilfebedarf zusammen betrachten.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -126,3 +128,6 @@ Bewahren Sie den vollständigen Originalbericht auf und erstellen Sie eine separ
 ## SEO Metadata
 
 - **Primary keyword:** Beurteilungsbericht zur Schlaganfallrehabilitation erklärt
+
+- **Meta title:** Berichte zur Schlaganfallrehabilitation: Eine Beurteilung in China planen
+- **Meta description:** Berichte zur Schlaganfallrehabilitation für China vorbereiten: Skalen, Untersuchungsbedingungen, Alltagsfunktion, Schlucken und Hilfebedarf zusammen betrachten.

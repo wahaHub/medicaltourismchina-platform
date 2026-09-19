@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Krankenunterlagen für eine MS-Beratung in China: Den Krankheitsverlauf sichtbar machen
 - **Category:** Ratgeber zum Patientenweg
 - **Subcategory:** Multiple Sklerose
-- **Subtitle:** Die hilfreichsten MS-Unterlagen erklären, was wann geschah und welche Behandlung damals angewendet wurde.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Krankenunterlagen für eine MS-Beratung in China: Den Krankheitsverlauf sichtbar machen
+- **Subtitle:** Unterlagen für eine MS-Beratung in China ordnen: Episoden und Erholung, vollständige MRT-Aufnahmen, Nervenwasserbefunde und Gründe für Medikamentenwechsel darstellen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Aktualisieren Sie vor der Abreise aus China die Akte mit der neuen Beurteilung, 
 ## SEO Metadata
 
 - **Primary keyword:** Krankenunterlagen bei Multipler Sklerose für eine Behandlung in China
+
+- **Meta title:** Krankenunterlagen für eine MS-Beratung in China: Den Krankheitsverlauf sichtbar machen
+- **Meta description:** Unterlagen für eine MS-Beratung in China ordnen: Episoden und Erholung, vollständige MRT-Aufnahmen, Nervenwasserbefunde und Gründe für Medikamentenwechsel darstellen.

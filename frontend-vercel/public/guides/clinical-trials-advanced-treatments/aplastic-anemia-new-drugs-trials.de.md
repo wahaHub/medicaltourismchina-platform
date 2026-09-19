@@ -1,12 +1,14 @@
-# Neue Medikamente und Studien bei aplastischer Anämie: Fortschritte einordnen und Eignung prüfen
+# Medikamente und Studien bei aplastischer Anämie: Zugang in China prüfen
 
 ## Hero
 
-- **Title:** Neue Medikamente und Studien bei aplastischer Anämie: Fortschritte einordnen und Eignung prüfen
 - **Category:** Klinische Studien und fortgeschrittene Behandlungen
 - **Subcategory:** Aplastische Anämie
-- **Subtitle:** Wenn Sie von einem neuen Medikament gegen aplastische Anämie hören, fragen Sie zuerst, ob die Information eine veröffentlichte Studie, eine zugelassene Indikation oder eine laufende Studie beschreibt.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medikamente und Studien bei aplastischer Anämie: Zugang in China prüfen
+- **Subtitle:** Forschung zu aplastischer Anämie für die Versorgung in China bewerten: Medikamenten- und Transplantationsstudien, Eignung, Zeitbedarf und Finanzierung prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -110,3 +112,6 @@ Führen Sie eine engere Auswahl mit Fragestellung, Population, Phase, aktuellem 
 ## SEO Metadata
 
 - **Primary keyword:** neue Medikamente und klinische Studien bei aplastischer Anämie
+
+- **Meta title:** Medikamente und Studien bei aplastischer Anämie: Zugang in China prüfen
+- **Meta description:** Forschung zu aplastischer Anämie für die Versorgung in China bewerten: Medikamenten- und Transplantationsstudien, Eignung, Zeitbedarf und Finanzierung prüfen.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Memilih Rumah Sakit Rehabilitasi Stroke di Tiongkok: Sesuaikan Tim dengan Kebutuhan Anda
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Rehabilitasi Pascastroke Iskemik
-- **Subtitle:** Saat memilih rumah sakit untuk rehabilitasi stroke iskemik di Tiongkok, mulailah dari kesulitan yang paling penting saat ini.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Memilih Rumah Sakit Rehabilitasi Stroke di Tiongkok: Sesuaikan Tim dengan Kebutuhan Anda
+- **Subtitle:** Sesuaikan rumah sakit rehabilitasi stroke di Tiongkok dengan kebutuhan berjalan, tangan, komunikasi, menelan, dan dukungan medis pasien.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ Pilihan akhir harus mempertimbangkan perawatan yang dapat diakses, beban perjala
 ## SEO Metadata
 
 - **Primary keyword:** memilih rumah sakit rehabilitasi stroke di Tiongkok
+
+- **Meta title:** Memilih Rumah Sakit Rehabilitasi Stroke di Tiongkok: Sesuaikan Tim dengan Kebutuhan Anda
+- **Meta description:** Sesuaikan rumah sakit rehabilitasi stroke di Tiongkok dengan kebutuhan berjalan, tangan, komunikasi, menelan, dan dukungan medis pasien.

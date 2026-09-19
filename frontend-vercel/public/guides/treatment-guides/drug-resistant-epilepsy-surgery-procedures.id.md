@@ -1,12 +1,14 @@
-# Bedah epilepsi resistan obat: mempersiapkan evaluasi, persetujuan, prosedur dan pemulihan
+# Operasi Epilepsi Resistan Obat di Tiongkok: Perencanaan dan Pemulihan
 
 ## Hero
 
-- **Title:** Bedah epilepsi resistan obat: mempersiapkan evaluasi, persetujuan, prosedur dan pemulihan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Epilepsi Resistan Obat
-- **Subtitle:** Rujukan ke ahli bedah epilepsi sering menimbulkan dua pertanyaan sekaligus: bisakah ini akhirnya memperbaiki kejang, dan apa yang mungkin berubah pada ingatan, bicara atau kemandirian?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Operasi Epilepsi Resistan Obat di Tiongkok: Perencanaan dan Pemulihan
+- **Subtitle:** Siapkan operasi epilepsi resistan obat di Tiongkok dengan evaluasi sumber kejang, risiko fungsi, persetujuan, serta rencana pemulihan dan tindak lanjut.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Mintalah rincian biaya evaluasi, operasi, perangkat dan kemungkinan perawatan ra
 ## SEO Metadata
 
 - **Primary keyword:** bedah epilepsi resistan obat; evaluasi epilepsi prabedah; pemulihan bedah epilepsi; bedah epilepsi di Tiongkok
+
+- **Meta title:** Operasi Epilepsi Resistan Obat di Tiongkok: Perencanaan dan Pemulihan
+- **Meta description:** Siapkan operasi epilepsi resistan obat di Tiongkok dengan evaluasi sumber kejang, risiko fungsi, persetujuan, serta rencana pemulihan dan tindak lanjut.

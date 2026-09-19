@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Choosing a follicular lymphoma hospital in China: match the team to the decision you need
 - **Category:** Hospital Guides
 - **Subcategory:** Follicular Lymphoma
-- **Subtitle:** A hospital search becomes easier when it begins with a clinical question.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Choosing a follicular lymphoma hospital in China: match the team to the decision you need
+- **Subtitle:** Assess a follicular lymphoma hospital in China by the decision you need, including pathology review, treatment options and continuity of care.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ The most useful hospital for a person with follicular lymphoma is one that fits 
 ## SEO Metadata
 
 - **Primary keyword:** follicular lymphoma hospital selection in China
+
+- **Meta title:** Choosing a follicular lymphoma hospital in China: match the team to the decision you need
+- **Meta description:** Assess a follicular lymphoma hospital in China by the decision you need, including pathology review, treatment options and continuity of care.

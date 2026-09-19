@@ -1,12 +1,14 @@
-# Tratamiento de primera línea del linfoma folicular: definir el motivo para iniciarlo y elegir un régimen viable
+# Tratamiento de primera línea del linfoma folicular en China: planificación
 
 ## Hero
 
-- **Title:** Tratamiento de primera línea del linfoma folicular: definir el motivo para iniciarlo y elegir un régimen viable
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma folicular
-- **Subtitle:** El tratamiento de primera línea es el abordaje inicial que se utiliza cuando el linfoma folicular necesita tratamiento.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento de primera línea del linfoma folicular en China: planificación
+- **Subtitle:** Prepare el primer tratamiento del linfoma folicular en China con un motivo claro para iniciarlo, una pauta completa y las evaluaciones de seguridad necesarias.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Parte de la conversación sobre anatomía patológica y régimen puede realizars
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento de primera línea del linfoma folicular
+
+- **Meta title:** Tratamiento de primera línea del linfoma folicular en China: planificación
+- **Meta description:** Prepare el primer tratamiento del linfoma folicular en China con un motivo claro para iniciarlo, una pauta completa y las evaluaciones de seguridad necesarias.

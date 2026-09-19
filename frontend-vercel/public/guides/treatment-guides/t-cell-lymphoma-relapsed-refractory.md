@@ -1,12 +1,14 @@
-# What happens after relapsed or refractory T-cell lymphoma? Confirming change and planning the next line
+# Relapsed T-Cell Lymphoma in China: Review and Next-Line Care
 
 ## Hero
 
-- **Title:** What happens after relapsed or refractory T-cell lymphoma? Confirming change and planning the next line
 - **Category:** Treatment Guides
 - **Subcategory:** T Cell Lymphoma
-- **Subtitle:** A new lump or an assessment of inadequate response can make a patient urgently search for another drug.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Relapsed T-Cell Lymphoma in China: Review and Next-Line Care
+- **Subtitle:** Confirm relapse or inadequate response in T-cell lymphoma before deciding the next line, and distinguish established China uses from research options.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -121,3 +123,6 @@ After the consultation, retain one current plan showing the next intervention, t
 ## SEO Metadata
 
 - **Primary keyword:** relapsed refractory T-cell lymphoma treatment
+
+- **Meta title:** Relapsed T-Cell Lymphoma in China: Review and Next-Line Care
+- **Meta description:** Confirm relapse or inadequate response in T-cell lymphoma before deciding the next line, and distinguish established China uses from research options.

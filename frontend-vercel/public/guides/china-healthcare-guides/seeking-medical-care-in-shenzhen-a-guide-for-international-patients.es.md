@@ -1,15 +1,17 @@
-# 024 Buscar atención médica en Shenzhen: guía para pacientes internacionales
+# Atención médica en China: guía del paciente en Shenzhen
 
 ## Hero
 
-- **Title:** Buscar atención médica en Shenzhen: guía para pacientes internacionales
 - **Category:** Guías de atención sanitaria en China
 - **Subcategory:** Planificación de la atención urbana y transfronteriza
-- **Subtitle:** Planifique una visita a Shenzhen en torno a la entrada real del hospital, el documento de identidad registrado en su sistema y el traspaso clínico al lado de la frontera que corresponda después.
 - **Reviewed by:** Equipo editorial de Medora Health; se requiere revisión de la atención en Shenzhen y transfronteriza antes de la publicación
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Un paciente internacional comenta su atención con un médico con el perfil urbano de Shenzhen al fondo
+
+
+- **Title:** Atención médica en China: guía del paciente en Shenzhen
+- **Subtitle:** Planifique citas en Shenzhen, registro con pasaporte, intercambio de registros y límites de vales de Hong Kong, traspaso transfronterizo y atención de emergencia del 120.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -211,13 +213,15 @@ No. Llame al 120 de Shenzhen y siga las instrucciones de emergencia. El transpor
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-shenzhen-a-guide-for-international-patients`
-- **Meta title:** Atención médica en Shenzhen para pacientes internacionales
-- **Meta description:** Planifique citas en Shenzhen, registro con pasaporte, intercambio de registros y límites de vales de Hong Kong, traspaso transfronterizo y atención de emergencia del 120.
 - **Primary keyword:** atención médica en Shenzhen para pacientes internacionales
 - **Pillar keyword:** atención sanitaria en China para pacientes internacionales
 - **Vertical keyword:** atención médica transfronteriza en Shenzhen
 - **Search intent:** orientación hospitalaria / planificación transfronteriza
 - **Secondary keywords:** registro hospitalario con pasaporte Shenzhen; servicio médico internacional Shenzhen; registros médicos Hong Kong Shenzhen; ambulancia Shenzhen 120
+
+
+- **Meta title:** Atención médica en China: guía del paciente en Shenzhen
+- **Meta description:** Planifique citas en Shenzhen, registro con pasaporte, intercambio de registros y límites de vales de Hong Kong, traspaso transfronterizo y atención de emergencia del 120.
 
 ## Fuentes
 

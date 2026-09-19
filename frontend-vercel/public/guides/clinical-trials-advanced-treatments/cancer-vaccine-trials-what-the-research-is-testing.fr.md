@@ -1,15 +1,17 @@
-# 082 Essais de vaccins contre le cancer : ce que la recherche évalue
+# Essais de vaccins contre le cancer en Chine : preuves et admissibilité
 
 ## Hero
 
-- **Title:** Essais de vaccins contre le cancer : ce que la recherche évalue
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Immunothérapie du cancer
-- **Subtitle:** Distinguer prévention et traitement, puis examiner le choix des antigènes, la plateforme vaccinale, les mesures immunitaires, le délai de fabrication et le critère clinique pertinent.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Remplacement nécessaire : antigènes tumoraux présentés aux cellules immunitaires, avec un parcours de conception et de fabrication d'un vaccin personnalisé et une évaluation des résultats cliniques.
+
+
+- **Title:** Essais de vaccins contre le cancer en Chine : preuves et admissibilité
+- **Subtitle:** Comprendre les essais de vaccins thérapeutiques : prévention et traitement, antigènes, fabrication de néoantigènes, critères immunitaires, associations et vérification en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -170,11 +172,13 @@ Pas sans un oncologue et un plan propre au protocole. Demandez quel traitement s
 ## SEO Metadata
 
 - **Slug:** `cancer-vaccine-trials-what-the-research-is-testing`
-- **Meta title:** Essais de vaccins contre le cancer : antigènes, données probantes et fabrication
-- **Meta description:** Comprendre les essais de vaccins thérapeutiques : prévention et traitement, antigènes, fabrication de néoantigènes, critères immunitaires, associations et vérification en Chine.
 - **Primary keyword:** essais cliniques de vaccins contre le cancer
 - **Secondary keywords:** vaccin thérapeutique contre le cancer ; vaccin personnalisé à néoantigènes ; vaccin contre le cancer en Chine ; immunogénicité des vaccins contre le cancer ; essai de vaccin à cellules dendritiques
 - **Search intent:** données sur les essais de vaccins contre le cancer / vérification de l'admissibilité
+
+
+- **Meta title:** Essais de vaccins contre le cancer en Chine : preuves et admissibilité
+- **Meta description:** Comprendre les essais de vaccins thérapeutiques : prévention et traitement, antigènes, fabrication de néoantigènes, critères immunitaires, associations et vérification en Chine.
 
 ## Sources
 

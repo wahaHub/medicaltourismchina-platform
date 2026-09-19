@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Costes del tratamiento del linfoma folicular en China: presupuestar la evaluación, el tratamiento completo y la atención continuada
 - **Category:** Guías de costes y seguros
 - **Subcategory:** Linfoma folicular
-- **Subtitle:** El coste de la atención del linfoma folicular en China depende, ante todo, de lo que recibirá el paciente.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Costes del tratamiento del linfoma folicular en China: presupuestar la evaluación, el tratamiento completo y la atención continuada
+- **Subtitle:** Planifique los costes del linfoma folicular en China según la evaluación, la inducción, el mantenimiento y el seguimiento, con un presupuesto comparable.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Una salud inestable exige tratar el problema agudo antes de optimizar un itinera
 ## SEO Metadata
 
 - **Primary keyword:** coste del tratamiento del linfoma folicular en China
+
+- **Meta title:** Costes del tratamiento del linfoma folicular en China: presupuestar la evaluación, el tratamiento completo y la atención continuada
+- **Meta description:** Planifique los costes del linfoma folicular en China según la evaluación, la inducción, el mantenimiento y el seguimiento, con un presupuesto comparable.

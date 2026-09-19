@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Twenty thalassemia questions: diagnosis, treatment, and planning care in China
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Thalassemia
-- **Subtitle:** The word thalassemia can describe carrier status, disease needing occasional support, or a condition requiring regular transfusion.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Twenty thalassemia questions: diagnosis, treatment, and planning care in China
+- **Subtitle:** Answers to 20 thalassemia questions about diagnosis, medicines, blood support, newer treatments, costs and planning a consultation in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -191,3 +193,6 @@ Severe chest pain, breathlessness, altered consciousness, or fever requiring urg
 ## SEO Metadata
 
 - **Primary keyword:** thalassemia patient FAQ; twenty thalassemia questions; thalassemia treatment in China; transfusion and chelation questions
+
+- **Meta title:** Twenty thalassemia questions: diagnosis, treatment, and planning care in China
+- **Meta description:** Answers to 20 thalassemia questions about diagnosis, medicines, blood support, newer treatments, costs and planning a consultation in China.

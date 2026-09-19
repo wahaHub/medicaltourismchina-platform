@@ -1,12 +1,14 @@
-# Radiación e intervenciones con dispositivos para el Alzheimer: ultrasonido focalizado, estimulación magnética y terapia sensorial
+# Investigación sobre radiación y dispositivos para Alzheimer: qué comprobar para la atención en China
 
 ## Hero
 
-- **Title:** Radiación e intervenciones con dispositivos para el Alzheimer: ultrasonido focalizado, estimulación magnética y terapia sensorial
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de Alzheimer
-- **Subtitle:** Descripciones como «no invasivo», «estimulación de precisión» y «apertura de la barrera hematoencefálica» pueden referirse a tecnologías muy distintas.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Investigación sobre radiación y dispositivos para Alzheimer: qué comprobar para la atención en China
+- **Subtitle:** Distinga las investigaciones sobre radiación, ultrasonidos y estimulación para Alzheimer, sus límites y lo que debe verificar antes de valorar atención en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,3 +142,6 @@ Siga atendiendo la alimentación, el movimiento, el sueño, la seguridad domést
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento intervencionista para la enfermedad de Alzheimer
+
+- **Meta title:** Investigación sobre radiación y dispositivos para Alzheimer: qué comprobar para la atención en China
+- **Meta description:** Distinga las investigaciones sobre radiación, ultrasonidos y estimulación para Alzheimer, sus límites y lo que debe verificar antes de valorar atención en China.

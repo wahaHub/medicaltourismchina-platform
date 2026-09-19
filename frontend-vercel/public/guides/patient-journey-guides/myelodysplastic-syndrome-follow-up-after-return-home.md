@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Returning Home After MDS Treatment in China: Follow-Up Tests, Transfusions, Prescriptions and Transplant Care
 - **Category:** Patient Journey Guides
 - **Subcategory:** Myelodysplastic Syndrome
-- **Subtitle:** Returning Home After MDS Treatment in China: Follow-Up Tests, Transfusions, Prescriptions and Transplant Care
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Returning Home After MDS Treatment in China: Follow-Up Tests, Transfusions, Prescriptions and Transplant Care
+- **Subtitle:** Continue MDS care after returning from China with agreed blood tests, transfusions, prescriptions and transplant follow-up when applicable.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Follow the patient's individualized instructions for monitoring, medicines and t
 ## SEO Metadata
 
 - **Primary keyword:** myelodysplastic syndrome follow-up after treatment in China
+
+- **Meta title:** Returning Home After MDS Treatment in China: Follow-Up Tests, Transfusions, Prescriptions and Transplant Care
+- **Meta description:** Continue MDS care after returning from China with agreed blood tests, transfusions, prescriptions and transplant follow-up when applicable.

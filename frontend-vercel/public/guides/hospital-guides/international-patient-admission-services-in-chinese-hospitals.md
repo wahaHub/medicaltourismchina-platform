@@ -1,15 +1,17 @@
-# International Patient Admission Services in Chinese Hospitals: Get Four Confirmations Before You Fly
+# International Patient Admission in China: Four Confirmations
 
 ## Hero
 
-- **Title:** International Patient Admission Services in Chinese Hospitals: Get Four Confirmations Before You Fly
 - **Category:** Hospital Guides
 - **Subcategory:** International Patient Admission
-- **Subtitle:** Clinical acceptance, a bed at the correct campus, a usable identity record, and a valid payment route are four separate decisions.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Conceptual international-patient admission desk with a traveller, coordinator, luggage, reception and ward corridor; it does not depict a real hospital, confirmed admission, or endorsement.
+
+
+- **Title:** International Patient Admission in China: Four Confirmations
+- **Subtitle:** Clinical acceptance, a bed at the correct campus, a usable identity record, and a valid payment route are four separate decisions.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -213,13 +215,15 @@ Ask about the process at admission. Some documents are only final after discharg
 ## SEO Metadata
 
 - **Slug:** `international-patient-admission-services-in-chinese-hospitals`
-- **Meta title:** International Patient Admission in China: Four Confirmations
-- **Meta description:** Plan Chinese hospital admission by confirming clinical acceptance, campus and bed, passport identity, payment ownership, interpretation, records and discharge handoff.
 - **Primary keyword:** international patient admission in Chinese hospitals
 - **Pillar keyword:** hospital admission in China for foreigners
 - **Vertical keyword:** China hospital international services and direct billing
 - **Search intent:** inpatient admission planning / international hospital services
 - **Secondary keywords:** China hospital admission; international patient department China; hospital bed China; direct billing China hospital; foreign patient admission China
+
+
+- **Meta title:** International Patient Admission in China: Four Confirmations
+- **Meta description:** Plan Chinese hospital admission by confirming clinical acceptance, campus and bed, passport identity, payment ownership, interpretation, records and discharge handoff.
 
 ## Sources
 

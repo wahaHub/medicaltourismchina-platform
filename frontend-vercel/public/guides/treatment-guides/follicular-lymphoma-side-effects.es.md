@@ -1,12 +1,14 @@
-# Efectos secundarios del tratamiento del linfoma folicular: reconocer los problemas y saber cuándo pedir ayuda
+# Atención del linfoma folicular en China: efectos secundarios y ayuda urgente
 
 ## Hero
 
-- **Title:** Efectos secundarios del tratamiento del linfoma folicular: reconocer los problemas y saber cuándo pedir ayuda
 - **Category:** Guías de tratamientos
 - **Subcategory:** Linfoma folicular
-- **Subtitle:** Efectos secundarios del tratamiento del linfoma folicular: reconocer los problemas y saber cuándo pedir ayuda
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Atención del linfoma folicular en China: efectos secundarios y ayuda urgente
+- **Subtitle:** Reconozca fiebre, reacciones a infusión, recuentos bajos y otros efectos del tratamiento del linfoma folicular, y prepare un plan de ayuda en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Antes de regresar a casa, obtenga los registros de administración, los recuento
 ## SEO Metadata
 
 - **Primary keyword:** efectos secundarios del tratamiento del linfoma folicular
+
+- **Meta title:** Atención del linfoma folicular en China: efectos secundarios y ayuda urgente
+- **Meta description:** Reconozca fiebre, reacciones a infusión, recuentos bajos y otros efectos del tratamiento del linfoma folicular, y prepare un plan de ayuda en China.

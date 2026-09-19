@@ -1,12 +1,14 @@
-# DLBCL types and risk: distinguishing disease biology from treatment fitness
+# DLBCL Types and Risk: Preparing for a Review in China
 
 ## Hero
 
-- **Title:** DLBCL types and risk: distinguishing disease biology from treatment fitness
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Diffuse Large B Cell Lymphoma
-- **Subtitle:** DLBCL types and risk: distinguishing disease biology from treatment fitness
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL Types and Risk: Preparing for a Review in China
+- **Subtitle:** Distinguish DLBCL biology, clinical risk and treatment fitness, and define the question a specialist review in China should resolve.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -117,3 +119,6 @@ Original pathology and the completed treatment summary remain important during f
 ## SEO Metadata
 
 - **Primary keyword:** DLBCL types and risk factors
+
+- **Meta title:** DLBCL Types and Risk: Preparing for a Review in China
+- **Meta description:** Distinguish DLBCL biology, clinical risk and treatment fitness, and define the question a specialist review in China should resolve.

@@ -1,15 +1,17 @@
-# 084 Traitement par cellules souches : distinguer les preuves du marketing
+# Traitements par cellules souches en Chine : preuves et signaux d’alerte
 
 ## Hero
 
-- **Title:** Traitement par cellules souches : distinguer les preuves du marketing
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Médecine cellulaire, génique et régénérative
-- **Subtitle:** Identifiez les cellules, les preuves propres à la maladie, la voie réglementaire chinoise, les contrôles de fabrication et le suivi avant d’accepter une allégation de médecine régénérative.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Illustration éditoriale comparant une allégation sur les cellules souches aux contrôles de sécurité, à l’examen des preuves et au marketing ; ce n’est ni une image cellulaire, ni une autorisation réglementaire, ni un résultat thérapeutique.
+
+
+- **Title:** Traitements par cellules souches en Chine : preuves et signaux d’alerte
+- **Subtitle:** Vérifiez les allégations par identité du produit, voie réglementaire chinoise, preuves propres à la maladie, qualité des lots, risques, coûts et suivi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -173,11 +175,13 @@ Il n’existe pas de label unique. La crédibilité vient d’une chaîne cohér
 ## SEO Metadata
 
 - **Slug:** `stem-cell-treatment-how-to-distinguish-evidence-from-marketing`
-- **Meta title:** Cellules souches : preuves, autorisation et signaux d’alerte
-- **Meta description:** Vérifiez les allégations par identité du produit, voie réglementaire chinoise, preuves propres à la maladie, qualité des lots, risques, coûts et suivi.
 - **Primary keyword:** preuves du traitement par cellules souches
 - **Secondary keywords:** traitement cellules souches Chine ; thérapie cellulaire non éprouvée ; essai cellules souches Chine ; autorisation NMPA cellules souches ; signaux d’alerte médecine régénérative
 - **Search intent:** vérification du traitement / examen des preuves et de la sécurité
+
+
+- **Meta title:** Traitements par cellules souches en Chine : preuves et signaux d’alerte
+- **Meta description:** Vérifiez les allégations par identité du produit, voie réglementaire chinoise, preuves propres à la maladie, qualité des lots, risques, coûts et suivi.
 
 ## Sources
 

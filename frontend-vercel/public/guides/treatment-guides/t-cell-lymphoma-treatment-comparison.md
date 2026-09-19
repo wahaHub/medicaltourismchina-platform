@@ -1,12 +1,14 @@
-# Comparing T-cell lymphoma treatments: what drug lists and response rates leave out
+# T-Cell Lymphoma Treatment Options in China: Comparison
 
 ## Hero
 
-- **Title:** Comparing T-cell lymphoma treatments: what drug lists and response rates leave out
 - **Category:** Treatment Guides
 - **Subcategory:** T Cell Lymphoma
-- **Subtitle:** Two different recommendations often leave patients comparing the number of drugs, their price or response rates found online.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** T-Cell Lymphoma Treatment Options in China: Comparison
+- **Subtitle:** Compare T-cell lymphoma treatments by subtype, treatment line and relevant evidence, rather than drug lists or unmatched response rates, before China care.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -109,3 +111,6 @@ Ask the clinician what might be gained and what might be given up by choosing th
 ## SEO Metadata
 
 - **Primary keyword:** T-cell lymphoma treatment comparison
+
+- **Meta title:** T-Cell Lymphoma Treatment Options in China: Comparison
+- **Meta description:** Compare T-cell lymphoma treatments by subtype, treatment line and relevant evidence, rather than drug lists or unmatched response rates, before China care.

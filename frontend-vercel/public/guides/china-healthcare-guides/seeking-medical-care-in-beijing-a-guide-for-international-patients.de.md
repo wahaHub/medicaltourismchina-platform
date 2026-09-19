@@ -1,15 +1,17 @@
-# 021 Medizinische Versorgung in Peking suchen: Ein praktischer Ratgeber für internationale Patienten
+# Medizinische Versorgung in China: Patientenratgeber für Peking
 
 ## Hero
 
-- **Title:** Medizinische Versorgung in Peking suchen: Ein praktischer Ratgeber für internationale Patienten
 - **Category:** Ratgeber zum Gesundheitswesen in China
 - **Subcategory:** Wahl eines Behandlungsziels
-- **Subtitle:** Wählen Sie das richtige Versorgungsangebot in Peking, bestätigen Sie den genauen Standort und reisen Sie mit einem Termin an, der sowohl zum medizinischen Problem als auch zum sprachlichen Bedarf des Patienten passt.
 - **Reviewed by:** Medora Health Redaktionsteam; lokale medizinische und organisatorische Prüfung vor Veröffentlichung erforderlich
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ein internationaler Patient und eine Begleitperson treffen einen Arzt, hinter dem Fenster ist die Skyline von Peking zu sehen
+
+
+- **Title:** Medizinische Versorgung in China: Patientenratgeber für Peking
+- **Subtitle:** Ein praktischer Ratgeber zur medizinischen Versorgung in Peking: Krankenhaus- und Standortwahl, englische Terminwege, Reisepässe, Zahlung, Notfälle und Nachsorge.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -191,13 +193,15 @@ Rufen Sie bei einem medizinischen Notfall 120 an. Beijing 12345 kann mehrsprachi
 ## SEO Metadata
 
 - **Slug:** `seeking-medical-care-in-beijing-a-guide-for-international-patients`
-- **Meta title:** Medizinische Versorgung in Peking für internationale Patienten
-- **Meta description:** Ein praktischer Ratgeber zur medizinischen Versorgung in Peking: Krankenhaus- und Standortwahl, englische Terminwege, Reisepässe, Zahlung, Notfälle und Nachsorge.
 - **Primary keyword:** medizinische Versorgung in Peking für internationale Patienten
 - **Pillar keyword:** Gesundheitsversorgung in China für internationale Patienten
 - **Vertical keyword:** Krankenhaus­termin in Peking für Ausländer
 - **Search intent:** praktische Planung / Orientierung im Krankenhaus
 - **Secondary keywords:** Beijing 114 englischer Termin; internationale medizinische Dienste Peking; ausländischer Patient Krankenhaus Peking; medizinischer Notruf Peking 120
+
+
+- **Meta title:** Medizinische Versorgung in China: Patientenratgeber für Peking
+- **Meta description:** Ein praktischer Ratgeber zur medizinischen Versorgung in Peking: Krankenhaus- und Standortwahl, englische Terminwege, Reisepässe, Zahlung, Notfälle und Nachsorge.
 
 ## Quellen
 

@@ -1,15 +1,17 @@
-# 087 Langzeitnachsorge nach Zell- oder Gentherapie
+# Zell- und Gentherapie in China: Langzeitnachsorge
 
 ## Hero
 
-- **Title:** Langzeitnachsorge nach Zell- oder Gentherapie
 - **Category:** Klinische Studien und fortgeschrittene Behandlungen
 - **Subcategory:** Zell-, Gen- und regenerative Medizin
-- **Subtitle:** Erstellen Sie einen produktspezifischen Nachsorgepass für frühe Toxizität, Immunrekonstitution, Krankheitsansprechen, verzögerte unerwünschte Ereignisse, Schwangerschaft und grenzüberschreitende Meldungen.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Redaktionelle Illustration eines Patienten und einer ärztlichen Person, die Gesundheitskontrollen im Zeitverlauf mit einem Kalender planen; kein produktspezifischer Überwachungsplan.
+
+
+- **Title:** Zell- und Gentherapie in China: Langzeitnachsorge
+- **Subtitle:** Produktspezifische Nachsorge für Krankheitsansprechen, Immunrekonstitution, verzögerte Toxizität, Malignome, Schwangerschaft, Meldungen, Unterlagen und grenzüberschreitende Versorgung planen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -204,11 +206,13 @@ Der Plan vor Behandlung sollte eine Nachfolgestelle für Unterlagen, Sicherheits
 ## SEO Metadata
 
 - **Slug:** `long-term-follow-up-after-cell-or-gene-therapy`
-- **Meta title:** Langzeitnachsorge nach Zell- oder Gentherapie
-- **Meta description:** Produktspezifische Nachsorge für Krankheitsansprechen, Immunrekonstitution, verzögerte Toxizität, Malignome, Schwangerschaft, Meldungen, Unterlagen und grenzüberschreitende Versorgung planen.
 - **Primary keyword:** Langzeitnachsorge Zell-Gentherapie
 - **Secondary keywords:** Gentherapie-Langzeitüberwachung; CAR-T-Nachsorge über 15 Jahre; verzögerte Gentherapierisiken; Zelltherapiepass; grenzüberschreitende Therapienachsorge
 - **Search intent:** Überwachung nach Behandlung / langfristige Sicherheitsplanung
+
+
+- **Meta title:** Zell- und Gentherapie in China: Langzeitnachsorge
+- **Meta description:** Produktspezifische Nachsorge für Krankheitsansprechen, Immunrekonstitution, verzögerte Toxizität, Malignome, Schwangerschaft, Meldungen, Unterlagen und grenzüberschreitende Versorgung planen.
 
 ## Quellen
 

@@ -1,15 +1,17 @@
-# 073 Teilnahmevoraussetzungen für klinische Studien: Warum Patienten infrage kommen oder nicht
+# Teilnahmevoraussetzungen für klinische Studien in China: Die Voruntersuchung erklärt
 
 ## Hero
 
-- **Title:** Teilnahmevoraussetzungen für klinische Studien: Warum Patienten infrage kommen oder nicht
 - **Category:** Klinische Studien und fortschrittliche Behandlungen
 - **Subcategory:** Prüfung der Teilnahmevoraussetzungen und Studienaufnahme
-- **Subtitle:** Ein praktischer Leitfaden zu Vorprüfung, Protokollkriterien, Screening-Zeitfenstern, nicht bestandenem Screening und dem Unterschied zwischen Eignung und tatsächlicher Studienaufnahme.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ersatz erforderlich: Ein Studienarzt und ein Patient besprechen anhand einer strukturierten Übersicht zur Studienvorprüfung die Prüfung von Pathologie, Biomarkern, Behandlungsvorgeschichte und Laborwerten auf Erfüllung der Teilnahmevoraussetzungen.
+
+
+- **Title:** Teilnahmevoraussetzungen für klinische Studien in China: Die Voruntersuchung erklärt
+- **Subtitle:** Erfahren Sie mehr über Studienvorprüfung, Ein- und Ausschlusskriterien, Biomarker- und Auswaschprüfungen, nicht bestandenes Screening, freie Plätze und Hürden für internationale Patienten.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,11 +139,13 @@ Eine Zahlung ersetzt weder die Teilnahmevoraussetzungen noch Ethikprüfung oder 
 ## SEO Metadata
 
 - **Slug:** `clinical-trial-eligibility-why-patients-may-or-may-not-qualify`
-- **Meta title:** Teilnahmevoraussetzungen und nicht bestandenes Screening bei klinischen Studien erklärt
-- **Meta description:** Erfahren Sie mehr über Studienvorprüfung, Ein- und Ausschlusskriterien, Biomarker- und Auswaschprüfungen, nicht bestandenes Screening, freie Plätze und Hürden für internationale Patienten.
 - **Primary keyword:** Teilnahmevoraussetzungen für klinische Studien
 - **Secondary keywords:** Ein- und Ausschlusskriterien; Screening für klinische Studien; Biomarker in Krebsstudien; nicht bestandenes Screening für klinische Studien; Studie für internationale Patienten
 - **Search intent:** Screening für klinische Studien / informierte Teilnahmeentscheidung
+
+
+- **Meta title:** Teilnahmevoraussetzungen für klinische Studien in China: Die Voruntersuchung erklärt
+- **Meta description:** Erfahren Sie mehr über Studienvorprüfung, Ein- und Ausschlusskriterien, Biomarker- und Auswaschprüfungen, nicht bestandenes Screening, freie Plätze und Hürden für internationale Patienten.
 
 ## Quellen
 

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Coûts du traitement du myélome multiple en Chine : obtenir une estimation comparable par étapes
 - **Category:** Guides des coûts et de l’assurance
 - **Subcategory:** Myélome multiple
-- **Subtitle:** Un patient nouvellement diagnostiqué recevant une induction et un entretien, un patient préparant une autogreffe et une personne envisageant les CAR-T après une rechute suivent des parcours différents.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Coûts du traitement du myélome multiple en Chine : obtenir une estimation comparable par étapes
+- **Subtitle:** Comparez les estimations de soins du myélome en Chine selon la phase prévue, les examens utiles, les médicaments et la préparation d’une éventuelle greffe.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Le résultat utile est une estimation écrite datée qui précise son périmètr
 ## SEO Metadata
 
 - **Primary keyword:** coût du traitement du myélome multiple en Chine
+
+- **Meta title:** Coûts du traitement du myélome multiple en Chine : obtenir une estimation comparable par étapes
+- **Meta description:** Comparez les estimations de soins du myélome en Chine selon la phase prévue, les examens utiles, les médicaments et la préparation d’une éventuelle greffe.

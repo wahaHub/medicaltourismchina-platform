@@ -26,6 +26,7 @@ interface ManifestGuide {
   excerpt: string;
   locales: string[];
   updatedDate: string;
+  updatedDateByLocale?: Record<string, string>;
   readTimeMinutes: number;
 }
 
@@ -98,6 +99,7 @@ export default function GuideDetail() {
     || guideSlug
     || "";
   const displaySubtitle = pickLocalized(guide?.subtitle, displayLocale);
+  const displayUpdatedDate = guide?.updatedDateByLocale?.[displayLocale] ?? guide?.updatedDate;
   const categoryTitle = pickLocalized(category?.title, displayLocale) || "Guide";
   const metaDescription =
     articleMetadata?.seo.description
@@ -117,7 +119,7 @@ export default function GuideDetail() {
   const canonicalUrl = `${SITE_ORIGIN}${localizePathname(guidePath, displayLocale)}`;
   const structuredData = useMemo(() => {
     if (!guide || !category || !isIndexable) return undefined;
-    const modifiedDate = guide.updatedDate.replaceAll("/", "-");
+    const modifiedDate = displayUpdatedDate?.replaceAll("/", "-");
     const categoryImage = category.image ? `${SITE_ORIGIN}${category.image}` : undefined;
     return {
       "@context": "https://schema.org",
@@ -128,7 +130,7 @@ export default function GuideDetail() {
           headline: displayTitle,
           description: metaDescription,
           articleSection: categoryTitle,
-          dateModified: modifiedDate,
+          ...(modifiedDate ? { dateModified: modifiedDate } : {}),
           inLanguage: displayLocale === "zh" ? "zh-Hans" : displayLocale,
           isAccessibleForFree: true,
           ...(categoryImage ? { image: categoryImage } : {}),
@@ -152,7 +154,7 @@ export default function GuideDetail() {
         },
       ],
     };
-  }, [canonicalUrl, category, categoryTitle, displayLocale, displayTitle, guide, isIndexable, metaDescription, reviewedBy]);
+  }, [canonicalUrl, category, categoryTitle, displayLocale, displayUpdatedDate, displayTitle, guide, isIndexable, metaDescription, reviewedBy]);
 
   useEffect(() => {
     // Keep the prerendered metadata until this article's source has loaded.
@@ -204,10 +206,10 @@ export default function GuideDetail() {
               <p className="mt-4 text-lg leading-relaxed text-slate-600">{displaySubtitle}</p>
             ) : null}
             <div className="mt-6 flex flex-wrap items-center gap-x-5 gap-y-2 text-sm text-slate-500">
-              {guide?.updatedDate ? (
+              {displayUpdatedDate ? (
                 <span className="inline-flex items-center gap-1.5">
                   <Calendar className="h-4 w-4" />
-                  {t("guides.updated", { date: guide.updatedDate })}
+                  {t("guides.updated", { date: displayUpdatedDate })}
                 </span>
               ) : null}
               <span className="inline-flex items-center gap-1.5">

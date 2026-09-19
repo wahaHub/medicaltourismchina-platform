@@ -1,15 +1,17 @@
-# Interacciones entre plantas medicinales y medicamentos: «natural» no es una categoría de medicación
+# Medicamentos y productos herbales en China: comprobar las interacciones
 
 ## Hero
 
-- **Title:** Interacciones entre plantas medicinales y medicamentos: «natural» no es una categoría de medicación
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Medicamentos
-- **Subtitle:** Cómo elaborar una lista de productos identificables, reconocer combinaciones de alto riesgo y ayudar a los farmacéuticos a distinguir las interacciones documentadas de las inciertas.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Un profesional clínico y un paciente concilian frascos de medicamentos recetados, un cuentagotas de hierbas, plantas sueltas y una lista escrita de productos
+
+
+- **Title:** Medicamentos y productos herbales en China: comprobar las interacciones
+- **Subtitle:** Sepa cómo las plantas y los suplementos pueden modificar los medicamentos recetados, qué combinaciones necesitan revisión urgente y qué detalles requieren los farmacéuticos además del nombre del producto.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -192,11 +194,13 @@ Los fármacos para trasplantes, los anticoagulantes, las terapias oncológicas y
 
 ## SEO Metadata
 
-- **SEO title:** Interacciones entre plantas y medicamentos: elabore una lista completa de productos
-- **Meta description:** Sepa cómo las plantas y los suplementos pueden modificar los medicamentos recetados, qué combinaciones necesitan revisión urgente y qué detalles requieren los farmacéuticos además del nombre del producto.
 - **Primary keyword:** interacciones entre plantas y medicamentos
 - **Secondary keywords:** suplementos herbales y medicamentos, interacciones de la hierba de San Juan, plantas antes de la cirugía, suplementos durante el tratamiento del cáncer, conciliación de la medicación, seguridad de la medicina tradicional
 - **Suggested URL slug:** `/herb-drug-interactions-complete-product-list`
+
+
+- **Meta title:** Medicamentos y productos herbales en China: comprobar las interacciones
+- **Meta description:** Sepa cómo las plantas y los suplementos pueden modificar los medicamentos recetados, qué combinaciones necesitan revisión urgente y qué detalles requieren los farmacéuticos además del nombre del producto.
 
 ## Fuentes
 

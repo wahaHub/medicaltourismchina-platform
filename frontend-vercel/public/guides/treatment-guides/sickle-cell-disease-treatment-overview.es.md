@@ -1,12 +1,14 @@
-# Tratamiento de la enfermedad de células falciformes: prevenir crisis, proteger órganos y considerar terapias transformadoras
+# Tratamiento de enfermedad falciforme en China: opciones y acceso
 
 ## Hero
 
-- **Title:** Tratamiento de la enfermedad de células falciformes: prevenir crisis, proteger órganos y considerar terapias transformadoras
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de células falciformes
-- **Subtitle:** El tratamiento de la enfermedad de células falciformes va más allá de poner fin al episodio de dolor actual.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento de enfermedad falciforme en China: opciones y acceso
+- **Subtitle:** Comprenda las opciones de enfermedad falciforme en China según diagnóstico, prevención de crisis, protección de órganos y necesidades de acceso y seguimiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -147,3 +149,6 @@ Para obtener una opinión o tratamiento en China, envíe las pruebas diagnóstic
 ## SEO Metadata
 
 - **Primary keyword:** guía de tratamiento de la enfermedad de células falciformes
+
+- **Meta title:** Tratamiento de enfermedad falciforme en China: opciones y acceso
+- **Meta description:** Comprenda las opciones de enfermedad falciforme en China según diagnóstico, prevención de crisis, protección de órganos y necesidades de acceso y seguimiento.

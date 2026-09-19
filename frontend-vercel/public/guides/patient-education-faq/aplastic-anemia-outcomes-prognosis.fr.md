@@ -1,12 +1,14 @@
-# Pronostic de l’aplasie médullaire : réponse, rechute et rétablissement à long terme
+# Pronostic de l’aplasie médullaire : questions pour des soins en Chine
 
 ## Hero
 
-- **Title:** Pronostic de l’aplasie médullaire : réponse, rechute et rétablissement à long terme
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Aplasie médullaire
-- **Subtitle:** « Peut-on en guérir ? » peut signifier survivre au danger actuel, arrêter les transfusions, ne plus prendre de médicaments ou retrouver sa vie professionnelle et familiale.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronostic de l’aplasie médullaire : questions pour des soins en Chine
+- **Subtitle:** Distinguez réponse, rechute et récupération dans l’aplasie médullaire. Préparez les questions sur les risques immédiats et le suivi à long terme en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ La consultation, la relecture anatomopathologique et les évaluations supplémen
 ## SEO Metadata
 
 - **Primary keyword:** pronostic de l’aplasie médullaire
+
+- **Meta title:** Pronostic de l’aplasie médullaire : questions pour des soins en Chine
+- **Meta description:** Distinguez réponse, rechute et récupération dans l’aplasie médullaire. Préparez les questions sur les risques immédiats et le suivi à long terme en Chine.

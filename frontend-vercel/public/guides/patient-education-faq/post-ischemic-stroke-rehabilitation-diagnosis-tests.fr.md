@@ -1,12 +1,14 @@
-# Examens avant la réadaptation après un AVC : bilan médical, évaluation fonctionnelle et préparation
+# Bilan de réadaptation après AVC en Chine : examens et planification
 
 ## Hero
 
-- **Title:** Examens avant la réadaptation après un AVC : bilan médical, évaluation fonctionnelle et préparation
 - **Category:** Information des patients et FAQ
 - **Subcategory:** Réadaptation après un AVC ischémique
-- **Subtitle:** Lorsque la réadaptation est abordée, une personne ayant subi un AVC ischémique peut déjà disposer de comptes rendus de scanner ou d’IRM, d’un ECG, de résultats d’analyses et d’une liste détaillée de médicaments.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Bilan de réadaptation après AVC en Chine : examens et planification
+- **Subtitle:** Préparez un bilan de réadaptation après AVC en Chine : stabilité médicale, cause de l’AVC, capacités fonctionnelles, déglutition et tolérance à l’effort.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -118,3 +120,6 @@ Conservez la date de l’évaluation, la langue et les noms des outils, ainsi qu
 ## SEO Metadata
 
 - **Primary keyword:** examens avant la réadaptation après un AVC
+
+- **Meta title:** Bilan de réadaptation après AVC en Chine : examens et planification
+- **Meta description:** Préparez un bilan de réadaptation après AVC en Chine : stabilité médicale, cause de l’AVC, capacités fonctionnelles, déglutition et tolérance à l’effort.

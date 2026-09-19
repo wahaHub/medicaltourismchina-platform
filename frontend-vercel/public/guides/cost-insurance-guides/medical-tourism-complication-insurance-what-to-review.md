@@ -1,15 +1,17 @@
-# Medical Tourism Complication Insurance: Stress-Test the Rescue Plan
+# Medical Travel to China: Complication Insurance Checks
 
 ## Hero
 
-- **Title:** Medical Tourism Complication Insurance: Stress-Test the Rescue Plan
 - **Category:** Cost & Insurance Guides
 - **Subcategory:** Complication Coverage
-- **Subtitle:** Test who pays and who takes control if planned treatment in China leads to emergency care, revision, evacuation or delayed problems after the patient returns home.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Replacement needed: a four-stage complication response map linking a China hospital, emergency rescue care, medical transport and follow-up at home.
+
+
+- **Title:** Medical Travel to China: Complication Insurance Checks
+- **Subtitle:** Review complication definitions, exclusions, time windows, treatment limits, emergency payment, evacuation and delayed care after medical travel.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -216,13 +218,15 @@ Not necessarily. A desired revision, failure to achieve an expected result and a
 ## SEO Metadata
 
 - **Slug:** `medical-tourism-complication-insurance-what-to-review`
-- **Meta title:** Medical Tourism Complication Insurance: A Coverage Stress Test
-- **Meta description:** Review complication definitions, exclusions, time windows, treatment limits, emergency payment, evacuation and delayed care after medical travel.
 - **Primary keyword:** medical tourism complication insurance
 - **Pillar keyword:** medical tourism insurance
 - **Vertical keyword:** complication coverage for treatment abroad
 - **Search intent:** insurance comparison / risk planning
 - **Secondary keywords:** elective surgery travel insurance; overseas treatment complication cover; medical evacuation insurance; medical tourism revision coverage; complication care after returning home
+
+
+- **Meta title:** Medical Travel to China: Complication Insurance Checks
+- **Meta description:** Review complication definitions, exclusions, time windows, treatment limits, emergency payment, evacuation and delayed care after medical travel.
 
 ## Sources
 

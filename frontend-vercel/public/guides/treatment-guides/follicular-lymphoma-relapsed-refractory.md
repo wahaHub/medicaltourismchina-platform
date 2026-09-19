@@ -1,12 +1,14 @@
-# Relapsed or refractory follicular lymphoma: confirm what changed before choosing the next line
+# Relapsed Follicular Lymphoma in China: Review and Next-Line Care
 
 ## Hero
 
-- **Title:** Relapsed or refractory follicular lymphoma: confirm what changed before choosing the next line
 - **Category:** Treatment Guides
 - **Subcategory:** Follicular Lymphoma
-- **Subtitle:** Finding a node again after treatment does not automatically require repetition of the previous regimen, and it does not mean that useful options have ended.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Relapsed Follicular Lymphoma in China: Review and Next-Line Care
+- **Subtitle:** Confirm what changed in relapsed or refractory follicular lymphoma before comparing next-line options, including reassessment and support costs in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Build a dated history of prior courses and present medication, and establish whe
 ## SEO Metadata
 
 - **Primary keyword:** relapsed refractory follicular lymphoma treatment
+
+- **Meta title:** Relapsed Follicular Lymphoma in China: Review and Next-Line Care
+- **Meta description:** Confirm what changed in relapsed or refractory follicular lymphoma before comparing next-line options, including reassessment and support costs in China.

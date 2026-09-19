@@ -1,12 +1,14 @@
-# Den ersten Rehabilitationsplan nach einem ischämischen Schlaganfall erstellen
+# Beginn der Schlaganfallrehabilitation in China: Ihr erster Versorgungsplan
 
 ## Hero
 
-- **Title:** Den ersten Rehabilitationsplan nach einem ischämischen Schlaganfall erstellen
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Rehabilitation nach ischämischem Schlaganfall
-- **Subtitle:** Familien, die einen Rehabilitationsplan erhalten, fragen oft, welche Behandlungen zuerst kommen sollten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Beginn der Schlaganfallrehabilitation in China: Ihr erster Versorgungsplan
+- **Subtitle:** Den ersten Plan zur Schlaganfallrehabilitation in China erstellen: alltagsnahe Ziele für Bewegung, Transfers, Schlucken und Kommunikation gemeinsam festlegen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -132,3 +134,6 @@ Ein erster Rehabilitationsplan sollte eine anpassbare Richtung festlegen: die zu
 ## SEO Metadata
 
 - **Primary keyword:** Rehabilitation der ersten Wahl nach ischämischem Schlaganfall
+
+- **Meta title:** Beginn der Schlaganfallrehabilitation in China: Ihr erster Versorgungsplan
+- **Meta description:** Den ersten Plan zur Schlaganfallrehabilitation in China erstellen: alltagsnahe Ziele für Bewegung, Transfers, Schlucken und Kommunikation gemeinsam festlegen.

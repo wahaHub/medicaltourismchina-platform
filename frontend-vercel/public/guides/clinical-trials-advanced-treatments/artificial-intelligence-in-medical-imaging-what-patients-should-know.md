@@ -1,15 +1,17 @@
-# Artificial Intelligence in Medical Imaging: What Patients Should Know
+# Medical Imaging AI in China: What Patients Should Know
 
 ## Hero
 
-- **Title:** Artificial Intelligence in Medical Imaging: What Patients Should Know
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Imaging, Software & Clinical Decisions
-- **Subtitle:** Find out what the software actually does, who checks it and whether it changes your care.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Conceptual illustration of a radiology clinician discussing a chest image and AI support with a patient; not a real scan or diagnostic output.
+
+
+- **Title:** Medical Imaging AI in China: What Patients Should Know
+- **Subtitle:** Understand what imaging AI does, how to verify its product and evidence, false results, radiologist oversight, data privacy and records for a second opinion.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -163,11 +165,13 @@ Bring the original DICOM study, final report and addenda, relevant prior images 
 ## SEO Metadata
 
 - **Slug:** `artificial-intelligence-in-medical-imaging-what-patients-should-know`
-- **Meta title:** AI in Medical Imaging: A Patient Guide
-- **Meta description:** Understand what imaging AI does, how to verify its product and evidence, false results, radiologist oversight, data privacy and records for a second opinion.
 - **Primary keyword:** AI in medical imaging
 - **Secondary keywords:** radiology artificial intelligence; AI imaging accuracy; imaging AI false positive; NMPA medical imaging software; AI radiology report
 - **Search intent:** technology explanation / imaging decision support
+
+
+- **Meta title:** Medical Imaging AI in China: What Patients Should Know
+- **Meta description:** Understand what imaging AI does, how to verify its product and evidence, false results, radiologist oversight, data privacy and records for a second opinion.
 
 ## Sources
 

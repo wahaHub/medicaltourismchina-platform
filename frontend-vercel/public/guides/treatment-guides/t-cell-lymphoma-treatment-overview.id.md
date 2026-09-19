@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Awal pengobatan limfoma sel T: subtipe, terapi awal, dan perawatan di Tiongkok
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel T
-- **Subtitle:** Setelah menerima diagnosis limfoma sel T, pertanyaan pertama yang berguna adalah penyakit mana yang dimaksud nama tersebut.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Awal pengobatan limfoma sel T: subtipe, terapi awal, dan perawatan di Tiongkok
+- **Subtitle:** Pahami awal pengobatan limfoma sel T di Tiongkok melalui subtipe lengkap, stadium, kebugaran, dan tujuan terapi sebelum membandingkan regimen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Setelah pembahasan lengkap pertama, Anda perlu mampu mengidentifikasi subtipe, t
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan limfoma sel T
+
+- **Meta title:** Awal pengobatan limfoma sel T: subtipe, terapi awal, dan perawatan di Tiongkok
+- **Meta description:** Pahami awal pengobatan limfoma sel T di Tiongkok melalui subtipe lengkap, stadium, kebugaran, dan tujuan terapi sebelum membandingkan regimen.

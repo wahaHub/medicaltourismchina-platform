@@ -1,12 +1,14 @@
-# Untersuchungen vor der Schlaganfallrehabilitation: Medizinische Prüfung, Funktionsbeurteilung und Vorbereitung
+# Beurteilung vor der Schlaganfallrehabilitation in China: Tests und Planung
 
 ## Hero
 
-- **Title:** Untersuchungen vor der Schlaganfallrehabilitation: Medizinische Prüfung, Funktionsbeurteilung und Vorbereitung
 - **Category:** Patientenaufklärung & FAQ
 - **Subcategory:** Rehabilitation nach ischämischem Schlaganfall
-- **Subtitle:** Wenn die Rehabilitation besprochen wird, liegen bei einem Menschen mit ischämischem Schlaganfall möglicherweise bereits CT- oder MRT-Berichte, ein EKG, Laborergebnisse und eine ausführliche Medikamentenliste vor.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Beurteilung vor der Schlaganfallrehabilitation in China: Tests und Planung
+- **Subtitle:** Schlaganfallrehabilitation in China vorbereiten: medizinische Stabilität, Bewegung, Schlucken, Sprache, Kognition und häuslichen Hilfebedarf gezielt beurteilen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -118,3 +120,6 @@ Bewahren Sie Untersuchungsdatum, Sprache und Namen der Instrumente sowie Angaben
 ## SEO Metadata
 
 - **Primary keyword:** Untersuchungen vor der Schlaganfallrehabilitation
+
+- **Meta title:** Beurteilung vor der Schlaganfallrehabilitation in China: Tests und Planung
+- **Meta description:** Schlaganfallrehabilitation in China vorbereiten: medizinische Stabilität, Bewegung, Schlucken, Sprache, Kognition und häuslichen Hilfebedarf gezielt beurteilen.

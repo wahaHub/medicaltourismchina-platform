@@ -1,12 +1,14 @@
-# Commencer le traitement de la maladie de Parkinson : ce que la première ordonnance doit permettre
+# Commencer un traitement de Parkinson en Chine : la première ordonnance
 
 ## Hero
 
-- **Title:** Commencer le traitement de la maladie de Parkinson : ce que la première ordonnance doit permettre
 - **Category:** Guides des traitements
 - **Subcategory:** Maladie de Parkinson
-- **Subtitle:** Les patients récemment diagnostiqués craignent souvent à la fois de retarder les soins et d’épuiser trop tôt les options thérapeutiques.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Commencer un traitement de Parkinson en Chine : la première ordonnance
+- **Subtitle:** Préparez une première ordonnance pour Parkinson en Chine en reliant le choix du médicament aux difficultés quotidiennes et à la surveillance des effets.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Données vérifiées : September 9, 2026. Cet article ne précise pas de dose in
 ## SEO Metadata
 
 - **Primary keyword:** traitement de première intention de la maladie de Parkinson en Chine
+
+- **Meta title:** Commencer un traitement de Parkinson en Chine : la première ordonnance
+- **Meta description:** Préparez une première ordonnance pour Parkinson en Chine en reliant le choix du médicament aux difficultés quotidiennes et à la surveillance des effets.

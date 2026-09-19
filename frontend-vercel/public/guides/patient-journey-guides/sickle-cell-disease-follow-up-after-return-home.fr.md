@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Suivi de la drépanocytose après traitement en Chine : médicaments, transfusions, surveillance et soins urgents
 - **Category:** Guides du parcours patient
 - **Subcategory:** Drépanocytose
-- **Subtitle:** Les soins de la drépanocytose continuent après un séjour en Chine.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Suivi de la drépanocytose après traitement en Chine : médicaments, transfusions, surveillance et soins urgents
+- **Subtitle:** Après des soins de drépanocytose en Chine, coordonnez médicaments, surveillance de l’hydroxyurée, prochaines transfusions et accès local aux soins urgents.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,3 +146,6 @@ Pour un contrôle distant, définissez les informations à téléverser, le mome
 ## SEO Metadata
 
 - **Primary keyword:** suivi de la drépanocytose après traitement en Chine
+
+- **Meta title:** Suivi de la drépanocytose après traitement en Chine : médicaments, transfusions, surveillance et soins urgents
+- **Meta description:** Après des soins de drépanocytose en Chine, coordonnez médicaments, surveillance de l’hydroxyurée, prochaines transfusions et accès local aux soins urgents.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Focused ultrasound and lesion procedures for Parkinson’s disease: targets, bilateral risks and treatment in China
 - **Category:** Treatment Guides
 - **Subcategory:** Parkinson Disease
-- **Subtitle:** A video showing a steadier hand after treatment can easily be mistaken for evidence that Parkinson’s disease has been cured.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Focused ultrasound and lesion procedures for Parkinson’s disease: targets, bilateral risks and treatment in China
+- **Subtitle:** Understand focused ultrasound and lesion procedures for Parkinson’s disease, including target selection, bilateral risks and access checks in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ International patients should leave with the treated side and target, procedure 
 ## SEO Metadata
 
 - **Primary keyword:** focused ultrasound treatment for Parkinson’s disease
+
+- **Meta title:** Focused ultrasound and lesion procedures for Parkinson’s disease: targets, bilateral risks and treatment in China
+- **Meta description:** Understand focused ultrasound and lesion procedures for Parkinson’s disease, including target selection, bilateral risks and access checks in China.

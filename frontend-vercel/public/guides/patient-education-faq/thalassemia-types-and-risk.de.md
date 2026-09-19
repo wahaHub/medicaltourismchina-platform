@@ -1,12 +1,14 @@
-# Thalassämieformen und Risiko: warum Menschen mit derselben übergeordneten Diagnose unterschiedliche Versorgung brauchen
+# Thalassämieformen und Risiken: Vorbereitung auf die Versorgung in China
 
 ## Hero
 
-- **Title:** Thalassämieformen und Risiko: warum Menschen mit derselben übergeordneten Diagnose unterschiedliche Versorgung brauchen
 - **Category:** Patienteninformation & häufige Fragen
 - **Subcategory:** Thalassämie
-- **Subtitle:** Ein Mensch erfährt bei einer Routineuntersuchung von seinem Trägerstatus.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Thalassämieformen und Risiken: Vorbereitung auf die Versorgung in China
+- **Subtitle:** Thalassämie vor der Versorgung in China einordnen: Alpha- und Beta-Formen, Trägerstatus, Transfusionsbedarf und Organrisiken als unterschiedliche Aspekte verstehen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Risikobewertung soll hilfreiche Versorgung erkennen, nicht gewöhnliche Lebenszi
 ## SEO Metadata
 
 - **Primary keyword:** Alpha-Thalassämie; Beta-Thalassämie; HbH-Krankheit; transfusionsabhängige Thalassämie; nicht transfusionsabhängige Thalassämie
+
+- **Meta title:** Thalassämieformen und Risiken: Vorbereitung auf die Versorgung in China
+- **Meta description:** Thalassämie vor der Versorgung in China einordnen: Alpha- und Beta-Formen, Trägerstatus, Transfusionsbedarf und Organrisiken als unterschiedliche Aspekte verstehen.

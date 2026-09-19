@@ -1,12 +1,14 @@
-# Behandlung der Multiplen Sklerose: einen Plan für Schübe, Progression und Alltagsfunktion entwickeln
+# Behandlung der Multiplen Sklerose in China: Ein fortlaufender Versorgungsplan
 
 ## Hero
 
-- **Title:** Behandlung der Multiplen Sklerose: einen Plan für Schübe, Progression und Alltagsfunktion entwickeln
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Multiple Sklerose
-- **Subtitle:** Ein hilfreicher Behandlungsplan für Multiple Sklerose beantwortet mehrere unterschiedliche Fragen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Behandlung der Multiplen Sklerose in China: Ein fortlaufender Versorgungsplan
+- **Subtitle:** MS-Versorgung in China planen: Diagnose, Schübe, Progression, verlaufsmodifizierende Therapie, Symptombehandlung und Rehabilitation zu einem fortlaufenden Plan verbinden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -114,3 +116,6 @@ Fordern Sie eine Schätzung zum tatsächlich vorgeschlagenen Behandlungspfad an,
 ## SEO Metadata
 
 - **Primary keyword:** Behandlung der Multiplen Sklerose in China
+
+- **Meta title:** Behandlung der Multiplen Sklerose in China: Ein fortlaufender Versorgungsplan
+- **Meta description:** MS-Versorgung in China planen: Diagnose, Schübe, Progression, verlaufsmodifizierende Therapie, Symptombehandlung und Rehabilitation zu einem fortlaufenden Plan verbinden.

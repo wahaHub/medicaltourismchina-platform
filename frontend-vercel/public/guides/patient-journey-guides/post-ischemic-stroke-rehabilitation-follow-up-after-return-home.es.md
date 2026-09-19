@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Después de la rehabilitación de un ictus en China: continuidad asistencial y recuperación en casa
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Rehabilitación tras un ictus isquémico
-- **Subtitle:** Después de un período de rehabilitación de un ictus isquémico en China, volver a casa supone trasladar el tratamiento a un entorno diferente.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Después de la rehabilitación de un ictus en China: continuidad asistencial y recuperación en casa
+- **Subtitle:** Organice la continuidad de la rehabilitación del ictus tras regresar de China, con responsables, medicación, objetivos funcionales y práctica en casa.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -144,3 +146,6 @@ Si los recursos locales difieren del plan elaborado en China, explique pronto la
 ## SEO Metadata
 
 - **Primary keyword:** seguimiento después de la rehabilitación de un ictus en China
+
+- **Meta title:** Después de la rehabilitación de un ictus en China: continuidad asistencial y recuperación en casa
+- **Meta description:** Organice la continuidad de la rehabilitación del ictus tras regresar de China, con responsables, medicación, objetivos funcionales y práctica en casa.

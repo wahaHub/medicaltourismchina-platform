@@ -1,12 +1,14 @@
-# Comprender un informe de anemia aplásica: hipocelularidad, clones de HPN y hallazgos genéticos
+# Informes de anemia aplásica: prepararse para una revisión en China
 
 ## Hero
 
-- **Title:** Comprender un informe de anemia aplásica: hipocelularidad, clones de HPN y hallazgos genéticos
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Anemia aplásica
-- **Subtitle:** Varias entradas anormales en un informe no representan necesariamente varias enfermedades nuevas.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Informes de anemia aplásica: prepararse para una revisión en China
+- **Subtitle:** Interprete recuentos, hipocelularidad, clones de HPN y hallazgos genéticos en anemia aplásica antes de una revisión de sus informes en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ El calendario debe distinguir la recepción del material, la revisión de portao
 ## SEO Metadata
 
 - **Primary keyword:** explicación del informe de anemia aplásica
+
+- **Meta title:** Informes de anemia aplásica: prepararse para una revisión en China
+- **Meta description:** Interprete recuentos, hipocelularidad, clones de HPN y hallazgos genéticos en anemia aplásica antes de una revisión de sus informes en China.

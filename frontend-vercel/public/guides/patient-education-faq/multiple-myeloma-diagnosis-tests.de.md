@@ -1,12 +1,14 @@
-# Untersuchungen bei Verdacht auf multiples Myelom: Was jeder Schritt klären soll
+# Diagnose des multiplen Myeloms in China: Untersuchungen und Vorbereitung
 
 ## Hero
 
-- **Title:** Untersuchungen bei Verdacht auf multiples Myelom: Was jeder Schritt klären soll
 - **Category:** Patientenaufklärung & häufige Fragen
 - **Subcategory:** Multiples Myelom
-- **Subtitle:** Ein auffälliges Bluteiweiß, anhaltende Rückenschmerzen oder eine unerwartete Verschlechterung der Nierenfunktion können eine Abklärung auf eine Plasmazellerkrankung veranlassen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Diagnose des multiplen Myeloms in China: Untersuchungen und Vorbereitung
+- **Subtitle:** Untersuchungen bei Myelomverdacht in China verstehen: Protein- und Urintests, Knochenmark, FISH und Bildgebung zur Diagnose und Behandlungsvorbereitung verbinden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Am Ende der Abklärung müssen nicht alle Zahlen normal sein, damit Sie den Plan
 ## SEO Metadata
 
 - **Primary keyword:** diagnostische Untersuchungen multiples Myelom
+
+- **Meta title:** Diagnose des multiplen Myeloms in China: Untersuchungen und Vorbereitung
+- **Meta description:** Untersuchungen bei Myelomverdacht in China verstehen: Protein- und Urintests, Knochenmark, FISH und Bildgebung zur Diagnose und Behandlungsvorbereitung verbinden.

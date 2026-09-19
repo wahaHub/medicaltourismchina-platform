@@ -1,12 +1,14 @@
-# Jenis dan risiko anemia aplastik: arti tidak berat, berat, dan sangat berat
+# Keparahan Anemia Aplastik: Persiapan Penilaian di Tiongkok
 
 ## Hero
 
-- **Title:** Jenis dan risiko anemia aplastik: arti tidak berat, berat, dan sangat berat
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Anemia Aplastik
-- **Subtitle:** Tidak berat bukan berarti pengobatan tidak akan pernah diperlukan, dan berat bukan berarti pengobatan tidak lagi dapat membantu.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Keparahan Anemia Aplastik: Persiapan Penilaian di Tiongkok
+- **Subtitle:** Pahami anemia aplastik tidak berat, berat, dan sangat berat serta pengaruhnya pada urgensi perawatan. Siapkan hasil pemeriksaan untuk penilaian di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Untuk penilaian ulang di Tiongkok, kirim bahan atau laporan sumsum asli, temuan 
 ## SEO Metadata
 
 - **Primary keyword:** jenis dan risiko anemia aplastik
+
+- **Meta title:** Keparahan Anemia Aplastik: Persiapan Penilaian di Tiongkok
+- **Meta description:** Pahami anemia aplastik tidak berat, berat, dan sangat berat serta pengaruhnya pada urgensi perawatan. Siapkan hasil pemeriksaan untuk penilaian di Tiongkok.

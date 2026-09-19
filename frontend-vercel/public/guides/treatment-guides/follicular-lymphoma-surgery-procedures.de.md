@@ -1,12 +1,14 @@
-# Eingriffe beim follikulären Lymphom: Biopsie, Venenzugang, Knochenmarkuntersuchung und Zellsammlung
+# Eingriffe beim follikulären Lymphom in China: Biopsie und Vorbereitung
 
 ## Hero
 
-- **Title:** Eingriffe beim follikulären Lymphom: Biopsie, Venenzugang, Knochenmarkuntersuchung und Zellsammlung
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Follikuläres Lymphom
-- **Subtitle:** Bei Menschen mit follikulärem Lymphom können eine Lymphknotenoperation, eine Knochenmarkuntersuchung, eine Portanlage oder eine Zellsammlung durchgeführt werden.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Eingriffe beim follikulären Lymphom in China: Biopsie und Vorbereitung
+- **Subtitle:** Eingriffe beim follikulären Lymphom in China vorbereiten: Biopsie, Knochenmarkentnahme, Gefäßzugang und Zellsammlung nach ihrem jeweiligen Zweck planen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Aufnahmedauer, erforderliche Zeit in Krankenhausnähe und Flugtauglichkeit häng
 ## SEO Metadata
 
 - **Primary keyword:** Operationen und Eingriffe beim follikulären Lymphom
+
+- **Meta title:** Eingriffe beim follikulären Lymphom in China: Biopsie und Vorbereitung
+- **Meta description:** Eingriffe beim follikulären Lymphom in China vorbereiten: Biopsie, Knochenmarkentnahme, Gefäßzugang und Zellsammlung nach ihrem jeweiligen Zweck planen.

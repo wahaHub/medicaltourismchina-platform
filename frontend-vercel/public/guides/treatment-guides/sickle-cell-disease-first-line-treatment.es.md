@@ -1,12 +1,14 @@
-# Iniciar el tratamiento tras un diagnóstico de enfermedad de células falciformes: Hidroxiurea, prevención y primer plan de seguimiento
+# Iniciar el tratamiento de enfermedad falciforme en China: medicamentos y seguimiento
 
 ## Hero
 
-- **Title:** Iniciar el tratamiento tras un diagnóstico de enfermedad de células falciformes: Hidroxiurea, prevención y primer plan de seguimiento
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de células falciformes
-- **Subtitle:** Tras un diagnóstico de enfermedad de células falciformes, las familias suelen querer saber qué medicamento se utiliza primero.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Iniciar el tratamiento de enfermedad falciforme en China: medicamentos y seguimiento
+- **Subtitle:** Prepare el primer plan de enfermedad falciforme en China con objetivos, evaluación basal, hidroxiurea cuando corresponda y un calendario de seguimiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -150,3 +152,6 @@ El primer plan no resuelve todas las opciones futuras. Los pacientes con una car
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento inicial de la enfermedad de células falciformes
+
+- **Meta title:** Iniciar el tratamiento de enfermedad falciforme en China: medicamentos y seguimiento
+- **Meta description:** Prepare el primer plan de enfermedad falciforme en China con objetivos, evaluación basal, hidroxiurea cuando corresponda y un calendario de seguimiento.

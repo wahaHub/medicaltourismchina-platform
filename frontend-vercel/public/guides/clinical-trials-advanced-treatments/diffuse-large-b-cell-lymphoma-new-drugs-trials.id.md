@@ -1,12 +1,14 @@
-# Pengobatan baru DLBCL dan uji klinis: bukti yang dapat mengubah keputusan
+# Pengobatan Baru dan Uji Klinis DLBCL: Memeriksa Akses di Tiongkok
 
 ## Hero
 
-- **Title:** Pengobatan baru DLBCL dan uji klinis: bukti yang dapat mengubah keputusan
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Limfoma Sel B Besar Difus
-- **Subtitle:** Pengobatan baru telah mengubah sebagian perawatan lini pertama dan DLBCL kambuh, tetapi baru dapat berarti beberapa hal: regimen yang disetujui di suatu yurisdiksi, kombinasi yang didukung studi acak tetapi akses lokalnya masih perlu diperiksa, atau pendekatan eksperimental yang keamanan dan efektivitasnya masih diteliti.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Baru dan Uji Klinis DLBCL: Memeriksa Akses di Tiongkok
+- **Subtitle:** Tinjau bukti pengobatan baru DLBCL, antibodi bispesifik, dan uji klinis. Siapkan pertanyaan tentang tahap penyakit serta akses di rumah sakit Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -140,3 +142,6 @@ Pasien secara wajar dapat memilih perawatan yang mapan tanpa partisipasi penelit
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan baru DLBCL dan uji klinis
+
+- **Meta title:** Pengobatan Baru dan Uji Klinis DLBCL: Memeriksa Akses di Tiongkok
+- **Meta description:** Tinjau bukti pengobatan baru DLBCL, antibodi bispesifik, dan uji klinis. Siapkan pertanyaan tentang tahap penyakit serta akses di rumah sakit Tiongkok.

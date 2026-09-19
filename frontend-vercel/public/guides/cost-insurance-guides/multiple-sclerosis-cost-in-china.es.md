@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Costes del tratamiento de la esclerosis múltiple en China: cómo elaborar una estimación personal útil
 - **Category:** Guías de costes y seguros
 - **Subcategory:** Esclerosis múltiple
-- **Subtitle:** Costes del tratamiento de la esclerosis múltiple en China: cómo elaborar una estimación personal útil
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Costes del tratamiento de la esclerosis múltiple en China: cómo elaborar una estimación personal útil
+- **Subtitle:** Estime los gastos de esclerosis múltiple en China según el objetivo de la visita, las pruebas, la medicación, los brotes y la rehabilitación necesaria.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Compare las propuestas durante el mismo periodo de observación, por ejemplo, de
 ## SEO Metadata
 
 - **Primary keyword:** coste del tratamiento de la esclerosis múltiple en China
+
+- **Meta title:** Costes del tratamiento de la esclerosis múltiple en China: cómo elaborar una estimación personal útil
+- **Meta description:** Estime los gastos de esclerosis múltiple en China según el objetivo de la visita, las pruebas, la medicación, los brotes y la rehabilitación necesaria.

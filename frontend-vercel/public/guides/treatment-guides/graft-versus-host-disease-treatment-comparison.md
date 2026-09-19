@@ -1,12 +1,14 @@
-# Comparing GVHD Treatments: What Steroids, Targeted Medicines, Photopheresis and Cell Products Can Offer
+# GVHD Treatment Options in China: Comparing Benefits and Limits
 
 ## Hero
 
-- **Title:** Comparing GVHD Treatments: What Steroids, Targeted Medicines, Photopheresis and Cell Products Can Offer
 - **Category:** Treatment Guides
 - **Subcategory:** Graft Versus Host Disease
-- **Subtitle:** A family comparing graft-versus-host disease treatments may receive several apparently competing recommendations.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** GVHD Treatment Options in China: Comparing Benefits and Limits
+- **Subtitle:** Compare GVHD medicines, photopheresis and cell-based approaches by evidence, intended goal and limitations, with China access checked separately.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ Before choosing between written proposals, ask each team to state its principal 
 ## SEO Metadata
 
 - **Primary keyword:** GVHD treatment comparison in China
+
+- **Meta title:** GVHD Treatment Options in China: Comparing Benefits and Limits
+- **Meta description:** Compare GVHD medicines, photopheresis and cell-based approaches by evidence, intended goal and limitations, with China access checked separately.

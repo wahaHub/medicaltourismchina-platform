@@ -1,15 +1,17 @@
-# Targeted Cancer Therapy: Biomarker Testing and Treatment Planning
+# Targeted Cancer Therapy in China: Biomarker Testing
 
 ## Hero
 
-- **Title:** Targeted Cancer Therapy: Biomarker Testing and Treatment Planning
 - **Category:** Treatment Guides
 - **Subcategory:** Cancer Care
-- **Subtitle:** How to connect a real specimen and validated test to the exact alteration, evidence, medicine and monitoring plan.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Molecular pathologist and oncologist reviewing a de-identified biomarker report beside labelled tissue and blood sample types
+
+
+- **Title:** Targeted Cancer Therapy in China: Biomarker Testing
+- **Subtitle:** Understand tissue and liquid biomarker tests, companion diagnostics, actionable variants, targeted-drug planning and resistance before treatment in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -117,13 +119,15 @@ Tumour biomarkers can change, and treatment can select resistant clones. A new t
 ## SEO Metadata
 
 - **Slug:** `targeted-cancer-therapy-biomarker-testing-and-treatment-planning`
-- **Meta title:** Targeted Cancer Therapy and Biomarker Testing Guide
-- **Meta description:** Understand tissue and liquid biomarker tests, companion diagnostics, actionable variants, targeted-drug planning and resistance before treatment in China.
 - **Primary keyword:** targeted cancer therapy in China
 - **Pillar keyword:** cancer treatment in China
 - **Vertical keyword:** cancer biomarker testing China
 - **Search intent:** biomarker interpretation / treatment planning
 - **Secondary keywords:** NGS testing China; liquid biopsy cancer; companion diagnostic; actionable mutation; targeted therapy resistance
+
+
+- **Meta title:** Targeted Cancer Therapy in China: Biomarker Testing
+- **Meta description:** Understand tissue and liquid biomarker tests, companion diagnostics, actionable variants, targeted-drug planning and resistance before treatment in China.
 
 ## Sources
 

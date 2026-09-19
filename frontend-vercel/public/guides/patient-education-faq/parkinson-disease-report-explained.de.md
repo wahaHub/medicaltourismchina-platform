@@ -1,12 +1,14 @@
-# Einen Parkinson-Untersuchungsbericht verstehen: Skalenwerte, Bildgebung und Biomarkerbefunde
+# Parkinson-Befunde: Vorbereitung auf eine Beurteilung in China
 
 ## Hero
 
-- **Title:** Einen Parkinson-Untersuchungsbericht verstehen: Skalenwerte, Bildgebung und Biomarkerbefunde
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Parkinson-Krankheit
-- **Subtitle:** Eine Parkinson-Akte kann ein Hoehn–Yahr-Stadium, einen Wert für Teil III der MDS-UPDRS, eine verminderte striatale Aufnahme und eine Empfehlung zur kognitiven Untersuchung enthalten.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Parkinson-Befunde: Vorbereitung auf eine Beurteilung in China
+- **Subtitle:** Parkinson-Berichte für eine Beurteilung in China verstehen: Skalenabschnitte, Medikamentenwirkzustand, kognitive Tests, Bildgebung und Biomarker einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Evidenz geprüft: September 9, 2026. Dieser Artikel erklärt häufige Befundbegr
 ## SEO Metadata
 
 - **Primary keyword:** Parkinson-Krankheit Befund erklärt
+
+- **Meta title:** Parkinson-Befunde: Vorbereitung auf eine Beurteilung in China
+- **Meta description:** Parkinson-Berichte für eine Beurteilung in China verstehen: Skalenabschnitte, Medikamentenwirkzustand, kognitive Tests, Bildgebung und Biomarker einordnen.

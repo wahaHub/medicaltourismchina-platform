@@ -1,12 +1,14 @@
-# Apakah GVHD Memerlukan Operasi? Memahami Biopsi, Dilatasi, Prosedur Mata, dan Akses Pengobatan
+# Prosedur GVHD di Tiongkok: Biopsi, Dilatasi, dan Perawatan Mata
 
 ## Hero
 
-- **Title:** Apakah GVHD Memerlukan Operasi? Memahami Biopsi, Dilatasi, Prosedur Mata, dan Akses Pengobatan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Penyakit Graft-versus-Host
-- **Subtitle:** Mendengar bahwa suatu prosedur diperlukan setelah transplantasi dapat terasa mengkhawatirkan.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Prosedur GVHD di Tiongkok: Biopsi, Dilatasi, dan Perawatan Mata
+- **Subtitle:** Pahami tujuan biopsi, dilatasi, prosedur mata, dan akses pengobatan pada GVHD. Siapkan pertanyaan manfaat serta risiko untuk perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Catatan pulang harus menjelaskan apa yang dilakukan, apa yang ditemukan, hasil m
 ## SEO Metadata
 
 - **Primary keyword:** prosedur dan operasi untuk GVHD di Tiongkok
+
+- **Meta title:** Prosedur GVHD di Tiongkok: Biopsi, Dilatasi, dan Perawatan Mata
+- **Meta description:** Pahami tujuan biopsi, dilatasi, prosedur mata, dan akses pengobatan pada GVHD. Siapkan pertanyaan manfaat serta risiko untuk perawatan di Tiongkok.

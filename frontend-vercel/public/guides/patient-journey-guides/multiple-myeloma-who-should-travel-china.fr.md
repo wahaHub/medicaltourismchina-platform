@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Un patient atteint de myélome multiple devrait-il se rendre en Chine pour se faire traiter ?
 - **Category:** Guides du parcours patient
 - **Subcategory:** Myélome multiple
-- **Subtitle:** La disponibilité d’un nouveau médicament n’est qu’un élément d’une décision de traitement à l’étranger.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Un patient atteint de myélome multiple devrait-il se rendre en Chine pour se faire traiter ?
+- **Subtitle:** Évaluez un voyage pour myélome en Chine selon le bénéfice attendu, la fonction rénale, le risque de fracture, les infections et l’aptitude au déplacement.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -100,3 +102,6 @@ Un plan de voyage réalisable comprend l’état clinique actuel, l’aide néce
 ## SEO Metadata
 
 - **Primary keyword:** se rendre en Chine pour le traitement du myélome multiple
+
+- **Meta title:** Un patient atteint de myélome multiple devrait-il se rendre en Chine pour se faire traiter ?
+- **Meta description:** Évaluez un voyage pour myélome en Chine selon le bénéfice attendu, la fonction rénale, le risque de fracture, les infections et l’aptitude au déplacement.

@@ -1,12 +1,14 @@
-# Nebenwirkungen der Behandlung pharmakoresistenter Epilepsie: Veränderungen erkennen und die richtige Hilfe erhalten
+# Versorgung bei pharmakoresistenter Epilepsie in China: Nebenwirkungen der Behandlung
 
 ## Hero
 
-- **Title:** Nebenwirkungen der Behandlung pharmakoresistenter Epilepsie: Veränderungen erkennen und die richtige Hilfe erhalten
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Pharmakoresistente Epilepsie
-- **Subtitle:** Jemand mit gebesserten Anfällen kann dennoch Schwierigkeiten haben, im Unterricht wach zu bleiben, einem Gespräch zu folgen oder sicher zu gehen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Versorgung bei pharmakoresistenter Epilepsie in China: Nebenwirkungen der Behandlung
+- **Subtitle:** Nebenwirkungen bei pharmakoresistenter Epilepsie in China einordnen: Ausschlag, Schläfrigkeit, Stimmung, Verwirrtheit, Seh- und Herzsymptome gezielt melden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -154,3 +156,6 @@ Das praktische Ergebnis einer Sicherheitsprüfung ist ein klarer Handlungsplan: 
 
 - **Primary keyword:** Nebenwirkungen der Behandlung pharmakoresistenter Epilepsie; Sicherheit anfallssuppressiver Medikamente; unerwünschte Reaktionen bei Epilepsie; Epilepsienachsorge in China
 
+
+- **Meta title:** Versorgung bei pharmakoresistenter Epilepsie in China: Nebenwirkungen der Behandlung
+- **Meta description:** Nebenwirkungen bei pharmakoresistenter Epilepsie in China einordnen: Ausschlag, Schläfrigkeit, Stimmung, Verwirrtheit, Seh- und Herzsymptome gezielt melden.

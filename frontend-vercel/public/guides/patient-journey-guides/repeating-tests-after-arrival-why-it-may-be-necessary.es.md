@@ -1,15 +1,17 @@
-# 132 Repetir pruebas después de llegar: pregunte qué decisión cambiará el nuevo resultado
+# Repetir pruebas médicas en China | ¿Cuándo es necesario?
 
 ## Hero
 
-- **Title:** Repetir pruebas después de llegar: pregunte qué decisión cambiará el nuevo resultado
 - **Category:** Guías del recorrido del paciente
 - **Subcategory:** Revisión y repetición de pruebas y valores basales del tratamiento
-- **Subtitle:** Debe reutilizarse un resultado anterior cuando sea adecuado para la decisión actual. Repetirlo se justifica cuando la identidad, el momento, el método, la calidad o la pregunta clínica hacen insuficiente la evidencia previa.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Conversación conceptual entre médico y paciente sobre varios aspectos de las pruebas; no muestra un resultado real, un protocolo hospitalario ni una recomendación de repetir pruebas.
+
+
+- **Title:** Repetir pruebas médicas en China | ¿Cuándo es necesario?
+- **Subtitle:** Debe reutilizarse un resultado anterior cuando sea adecuado para la decisión actual. Repetirlo se justifica cuando la identidad, el momento, el método, la calidad o la pregunta clínica hacen insuficiente la evidencia previa.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -185,13 +187,15 @@ Conserve la solicitud, instrucciones de preparación, informe, unidades e interv
 ## SEO Metadata
 
 - **Slug:** `repeating-tests-after-arrival-why-it-may-be-necessary`
-- **Meta title:** Repetir pruebas médicas en China | ¿Cuándo es necesario?
-- **Meta description:** Utilice una evaluación de adecuación de cinco partes para decidir si la evidencia extranjera de laboratorio, imagen o anatomía patológica debe reutilizarse, reinterpretarse, repetirse o sustituirse tras llegar a China.
 - **Primary keyword:** repetir pruebas médicas en China
 - **Pillar keyword:** viaje médico a China
 - **Vertical keyword:** resultados de pruebas extranjeras en hospitales chinos
 - **Search intent:** revisión de pruebas / planificación de costes y seguridad
 - **Secondary keywords:** reconocimiento de resultados en China; repetir CT en China; revisión anatomopatológica en China; intervalo de referencia del laboratorio; pruebas basales del tratamiento
+
+
+- **Meta title:** Repetir pruebas médicas en China | ¿Cuándo es necesario?
+- **Meta description:** Utilice una evaluación de adecuación de cinco partes para decidir si la evidencia extranjera de laboratorio, imagen o anatomía patológica debe reutilizarse, reinterpretarse, repetirse o sustituirse tras llegar a China.
 
 ## Fuentes
 
@@ -201,4 +205,3 @@ Conserve la solicitud, instrucciones de preparación, informe, unidades e interv
 4. [FDA de Estados Unidos — Imágenes médicas de rayos X: justificación, optimización e historial de imágenes](https://www.fda.gov/radiation-emitting-products/medical-imaging/medical-x-ray-imaging)
 5. [Colegio Americano de Radiología — Manual de medios de contraste](https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Contrast-Manual)
 6. [Instituto Nacional del Cáncer de Estados Unidos — Informes de anatomía patológica quirúrgica y segundas opiniones](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/pathology-reports-fact-sheet)
-

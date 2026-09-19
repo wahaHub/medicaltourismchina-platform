@@ -1,12 +1,14 @@
-# Photophérèse extracorporelle pour la GVHD : procédure, visites répétées et évaluation de la réponse
+# Photophérèse pour la GVH en Chine : séances et évaluation de la réponse
 
 ## Hero
 
-- **Title:** Photophérèse extracorporelle pour la GVHD : procédure, visites répétées et évaluation de la réponse
 - **Category:** Guides des traitements
 - **Subcategory:** Maladie du greffon contre l’hôte
-- **Subtitle:** Le nom de photophérèse extracorporelle peut évoquer une radiothérapie, un échange sanguin ou l’élimination en une seule fois d’une immunité nocive.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Photophérèse pour la GVH en Chine : séances et évaluation de la réponse
+- **Subtitle:** Comprenez la photophérèse extracorporelle pour la GVH en Chine : bilan préalable, accès vasculaire, séances répétées et évaluation progressive de la réponse.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ La poursuite au retour nécessite l’accord préalable du service qui prendra l
 
 - **Primary keyword:** photophérèse extracorporelle pour la GVHD en Chine
 
+
+- **Meta title:** Photophérèse pour la GVH en Chine : séances et évaluation de la réponse
+- **Meta description:** Comprenez la photophérèse extracorporelle pour la GVH en Chine : bilan préalable, accès vasculaire, séances répétées et évaluation progressive de la réponse.

@@ -1,12 +1,14 @@
-# Apa yang terjadi setelah limfoma sel T kambuh atau refrakter? Memastikan perubahan dan merencanakan lini berikutnya
+# Limfoma Sel T Kambuh di Tiongkok: Tinjauan dan Pengobatan Lini Berikutnya
 
 ## Hero
 
-- **Title:** Apa yang terjadi setelah limfoma sel T kambuh atau refrakter? Memastikan perubahan dan merencanakan lini berikutnya
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel T
-- **Subtitle:** Benjolan baru atau penilaian respons tidak memadai dapat membuat pasien mendesak mencari obat lain.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Limfoma Sel T Kambuh di Tiongkok: Tinjauan dan Pengobatan Lini Berikutnya
+- **Subtitle:** Tinjau limfoma sel T kambuh di Tiongkok melalui konfirmasi perubahan, kebutuhan biopsi, dan riwayat terapi sebelum memilih pengobatan lini berikutnya.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -121,3 +123,6 @@ Setelah konsultasi, simpan satu rencana terkini yang menunjukkan intervensi beri
 ## SEO Metadata
 
 - **Primary keyword:** pengobatan limfoma sel T kambuh refrakter
+
+- **Meta title:** Limfoma Sel T Kambuh di Tiongkok: Tinjauan dan Pengobatan Lini Berikutnya
+- **Meta description:** Tinjau limfoma sel T kambuh di Tiongkok melalui konfirmasi perubahan, kebutuhan biopsi, dan riwayat terapi sebelum memilih pengobatan lini berikutnya.

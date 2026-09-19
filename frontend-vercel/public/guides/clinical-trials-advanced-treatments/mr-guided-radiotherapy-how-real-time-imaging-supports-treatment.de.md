@@ -1,15 +1,17 @@
-# 091 MR-geführte Strahlentherapie: Wie Echtzeitbildgebung die Behandlung unterstützt
+# MR-geführte Strahlentherapie in China: Planung und Sicherheit
 
 ## Hero
 
-- **Title:** MR-geführte Strahlentherapie: Wie Echtzeitbildgebung die Behandlung unterstützt
 - **Category:** Klinische Studien und fortschrittliche Behandlungen
 - **Subcategory:** Bildgeführte und adaptive Strahlentherapie
-- **Subtitle:** Verstehen Sie, was abgebildet wird, was angepasst wird und was das Team weiterhin entscheiden muss.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Konzeptdarstellung eines Raums für MR-geführte Strahlentherapie mit einem Patienten in einem integrierten Scanner, Schnittbildern und sichtbarem Behandlungsziel; keine reale Benutzeroberfläche oder Dosisplanung.
+
+
+- **Title:** MR-geführte Strahlentherapie in China: Planung und Sicherheit
+- **Subtitle:** Erfahren Sie, wie MR-geführte Strahlentherapie Lagerungsbilder, Cine-MRT, Gating und Online-Anpassung nutzt, samt Evidenz, MR-Sicherheit, Sitzungsbelastung, Qualitätssicherung und Unterlagen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,11 +137,13 @@ Nein. Sie kann in ausgewählten Abläufen kleinere Sicherheitssäume oder besser
 ## SEO Metadata
 
 - **Slug:** `mr-guided-radiotherapy-how-real-time-imaging-supports-treatment`
-- **Meta title:** MR-geführte Strahlentherapie: Echtzeitbildgebung und Anpassung
-- **Meta description:** Erfahren Sie, wie MR-geführte Strahlentherapie Lagerungsbilder, Cine-MRT, Gating und Online-Anpassung nutzt, samt Evidenz, MR-Sicherheit, Sitzungsbelastung, Qualitätssicherung und Unterlagen.
 - **Primary keyword:** MR-geführte Strahlentherapie
 - **Secondary keywords:** MR-Linac; online-adaptive Strahlentherapie; Echtzeit-MRT Strahlentherapie; MRT-geführte SBRT; Bestrahlungs-Gating
 - **Search intent:** Technologieerklärung / Strahlentherapieplanung
+
+
+- **Meta title:** MR-geführte Strahlentherapie in China: Planung und Sicherheit
+- **Meta description:** Erfahren Sie, wie MR-geführte Strahlentherapie Lagerungsbilder, Cine-MRT, Gating und Online-Anpassung nutzt, samt Evidenz, MR-Sicherheit, Sitzungsbelastung, Qualitätssicherung und Unterlagen.
 
 ## Quellen
 

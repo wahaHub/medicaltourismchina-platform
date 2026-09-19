@@ -1,12 +1,14 @@
-# Membaca laporan talasemia: membedakan diagnosis keturunan, anemia, beban zat besi, dan kesehatan organ
+# Laporan Talasemia: Persiapan Penilaian di Tiongkok
 
 ## Hero
 
-- **Title:** Membaca laporan talasemia: membedakan diagnosis keturunan, anemia, beban zat besi, dan kesehatan organ
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Talasemia
-- **Subtitle:** Berkas talasemia dapat memuat notasi gen, persentase hemoglobin, pengukuran feritin, dan nilai MRI.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Laporan Talasemia: Persiapan Penilaian di Tiongkok
+- **Subtitle:** Bedakan hasil genetik, hemoglobin, feritin, dan MRI pada talasemia. Siapkan laporan lengkap dalam konteks transfusi untuk penilaian di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Mintalah agar target pengobatan individu, tanggal peninjauan berikutnya, dan gej
 ## SEO Metadata
 
 - **Primary keyword:** hasil laboratorium talasemia; HbA2; MRI zat besi hati; T2 bintang jantung; interpretasi feritin
+
+- **Meta title:** Laporan Talasemia: Persiapan Penilaian di Tiongkok
+- **Meta description:** Bedakan hasil genetik, hemoglobin, feritin, dan MRI pada talasemia. Siapkan laporan lengkap dalam konteks transfusi untuk penilaian di Tiongkok.

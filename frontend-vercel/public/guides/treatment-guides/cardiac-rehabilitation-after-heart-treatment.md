@@ -1,15 +1,17 @@
-# Cardiac Rehabilitation After Heart Treatment
+# Cardiac Rehabilitation in China: Recovery After Heart Treatment
 
 ## Hero
 
-- **Title:** Cardiac Rehabilitation After Heart Treatment
 - **Category:** Treatment Guides
 - **Subcategory:** Heart & Vascular Care
-- **Subtitle:** Turn discharge restrictions into a medically supervised plan for exercise, risk reduction, confidence and safe return to daily life.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Cardiac rehabilitation professional assessing an older patient beside simple exercise equipment
+
+
+- **Title:** Cardiac Rehabilitation in China: Recovery After Heart Treatment
+- **Subtitle:** Build a safe cardiac rehabilitation plan after heart treatment, including assessment, exercise dose, risk-factor care, warning signs and cross-border transfer.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -175,13 +177,15 @@ Provide the procedure and complication summary, current cardiac findings, wounds
 ## SEO Metadata
 
 - **Slug:** `cardiac-rehabilitation-after-heart-treatment`
-- **Meta title:** Cardiac Rehabilitation After Heart Treatment | Patient Guide
-- **Meta description:** Build a safe cardiac rehabilitation plan after heart treatment, including assessment, exercise dose, risk-factor care, warning signs and cross-border transfer.
 - **Primary keyword:** cardiac rehabilitation after heart treatment
 - **Pillar keyword:** heart treatment recovery
 - **Vertical keyword:** cardiac rehabilitation programme
 - **Search intent:** recovery planning / secondary prevention
 - **Secondary keywords:** cardiac rehab after PCI; cardiac rehab after CABG; exercise after heart surgery; home cardiac rehabilitation; cardiac rehab transfer
+
+
+- **Meta title:** Cardiac Rehabilitation in China: Recovery After Heart Treatment
+- **Meta description:** Build a safe cardiac rehabilitation plan after heart treatment, including assessment, exercise dose, risk-factor care, warning signs and cross-border transfer.
 
 ## Sources
 

@@ -1,12 +1,14 @@
-# How Long Does Stroke Rehabilitation Take? Connecting Hospital, Outpatient and Home Care
+# Stroke Rehabilitation in China: Duration and Continuing Care
 
 ## Hero
 
-- **Title:** How Long Does Stroke Rehabilitation Take? Connecting Hospital, Outpatient and Home Care
 - **Category:** Treatment Guides
 - **Subcategory:** Post Ischemic Stroke Rehabilitation
-- **Subtitle:** When a family asks how long rehabilitation will take, the question usually includes several timelines: the length of the current admission, the point at which a treatment will be reviewed, and the practice needed after leaving hospital.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Stroke Rehabilitation in China: Duration and Continuing Care
+- **Subtitle:** Understand stroke rehabilitation time across inpatient, outpatient and home settings, and plan a visit to China around clinical goals and decisions.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -139,3 +141,6 @@ Hospitals have service schedules, medicines have monitoring points, and patients
 ## SEO Metadata
 
 - **Primary keyword:** stroke rehabilitation duration and schedule
+
+- **Meta title:** Stroke Rehabilitation in China: Duration and Continuing Care
+- **Meta description:** Understand stroke rehabilitation time across inpatient, outpatient and home settings, and plan a visit to China around clinical goals and decisions.

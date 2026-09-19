@@ -1,12 +1,14 @@
-# Schub oder unzureichendes Ansprechen bei multipler Sklerose: Die Episode behandeln und die nächste Therapieentscheidung treffen
+# MS-Schub oder unzureichendes Ansprechen: Neubewertung und Versorgung in China
 
 ## Hero
 
-- **Title:** Schub oder unzureichendes Ansprechen bei multipler Sklerose: Die Episode behandeln und die nächste Therapieentscheidung treffen
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Multiple Sklerose
-- **Subtitle:** Neu auftretendes verschwommenes Sehen, Schwäche oder Taubheitsgefühl trotz regelmäßiger Medikamenteneinnahme können die bisherige Behandlung sinnlos erscheinen lassen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** MS-Schub oder unzureichendes Ansprechen: Neubewertung und Versorgung in China
+- **Subtitle:** MS-Schübe und unzureichendes Ansprechen für China beurteilen: Auslöser, Funktionsverlust, Akutbehandlung und einen gesteuerten Wechsel der Dauertherapie besprechen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -98,3 +100,6 @@ Die abschließende Übergabe nach einer Episode sollte deren Zeitverlauf, Infekt
 ## SEO Metadata
 
 - **Primary keyword:** schubförmige und therapieresistente multiple Sklerose
+
+- **Meta title:** MS-Schub oder unzureichendes Ansprechen: Neubewertung und Versorgung in China
+- **Meta description:** MS-Schübe und unzureichendes Ansprechen für China beurteilen: Auslöser, Funktionsverlust, Akutbehandlung und einen gesteuerten Wechsel der Dauertherapie besprechen.

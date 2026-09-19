@@ -1,12 +1,14 @@
-# New GVHD treatments and clinical trials: making sense of the 2026 developments
+# New GVHD Treatments and Trials: Evidence and Access in China
 
 ## Hero
 
-- **Title:** New GVHD treatments and clinical trials: making sense of the 2026 developments
 - **Category:** Clinical Trials & Advanced Treatments
 - **Subcategory:** Graft Versus Host Disease
-- **Subtitle:** A report about a breakthrough after stem cell transplantation can sound immediately relevant to anyone living with graft-versus-host disease.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** New GVHD Treatments and Trials: Evidence and Access in China
+- **Subtitle:** Understand new GVHD treatment evidence, Chinese product information and trial questions without confusing prevention, treatment and individual access.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ A useful consultation ends with a decision tied to a clinical goal: preventing d
 ## SEO Metadata
 
 - **Primary keyword:** new GVHD treatments and clinical trials in China
+
+- **Meta title:** New GVHD Treatments and Trials: Evidence and Access in China
+- **Meta description:** Understand new GVHD treatment evidence, Chinese product information and trial questions without confusing prevention, treatment and individual access.

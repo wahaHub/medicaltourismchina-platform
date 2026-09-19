@@ -1,12 +1,14 @@
-# Comprendre les comptes rendus de drépanocytose : hémoglobine, HbS, HbF, réticulocytes et mesures du fer
+# Comptes rendus de drépanocytose : préparer une évaluation en Chine
 
 ## Hero
 
-- **Title:** Comprendre les comptes rendus de drépanocytose : hémoglobine, HbS, HbF, réticulocytes et mesures du fer
 - **Category:** Éducation des patients et questions fréquentes
 - **Subcategory:** Drépanocytose
-- **Subtitle:** Le suivi de la drépanocytose produit souvent deux mesures d'apparence similaire répondant à des questions différentes : la concentration d'hémoglobine de la numération sanguine et le pourcentage d'HbS de l'analyse de l'hémoglobine.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Comptes rendus de drépanocytose : préparer une évaluation en Chine
+- **Subtitle:** Interprétez hémoglobine, HbS, HbF, réticulocytes et bilan du fer selon les transfusions et les traitements avant une évaluation de drépanocytose en Chine.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,3 +143,6 @@ L'examen du dossier doit aboutir à une prochaine étape compréhensible. Les co
 ## SEO Metadata
 
 - **Primary keyword:** comprendre les comptes rendus biologiques de la drépanocytose
+
+- **Meta title:** Comptes rendus de drépanocytose : préparer une évaluation en Chine
+- **Meta description:** Interprétez hémoglobine, HbS, HbF, réticulocytes et bilan du fer selon les transfusions et les traitements avant une évaluation de drépanocytose en Chine.

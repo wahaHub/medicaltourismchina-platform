@@ -1,12 +1,14 @@
-# Erstlinientherapie bei schwerer aplastischer Anämie: Transplantation oder ATG-basierte Therapie
+# Schwere aplastische Anämie in China: Optionen der Erstlinientherapie
 
 ## Hero
 
-- **Title:** Erstlinientherapie bei schwerer aplastischer Anämie: Transplantation oder ATG-basierte Therapie
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Aplastische Anämie
-- **Subtitle:** Bei einer neu diagnostizierten schweren aplastischen Anämie kann zu einer Transplantation oder zum Beginn einer ATG-basierten medikamentösen Behandlung geraten werden.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Schwere aplastische Anämie in China: Optionen der Erstlinientherapie
+- **Subtitle:** Erstlinientherapie bei schwerer aplastischer Anämie in China prüfen: Transplantation und ATG-basierte Behandlung samt Versorgung in den Folgemonaten vergleichen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -111,3 +113,6 @@ Fordern Sie einen Kostenvoranschlag in Renminbi für den gewählten Behandlungsw
 ## SEO Metadata
 
 - **Primary keyword:** Erstlinientherapie bei schwerer aplastischer Anämie
+
+- **Meta title:** Schwere aplastische Anämie in China: Optionen der Erstlinientherapie
+- **Meta description:** Erstlinientherapie bei schwerer aplastischer Anämie in China prüfen: Transplantation und ATG-basierte Behandlung samt Versorgung in den Folgemonaten vergleichen.

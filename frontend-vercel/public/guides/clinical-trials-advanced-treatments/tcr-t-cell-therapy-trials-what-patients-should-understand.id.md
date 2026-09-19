@@ -1,15 +1,17 @@
-# 078 Uji Klinis Terapi Sel TCR-T: Hal yang Perlu Dipahami Pasien
+# Uji Klinis TCR-T di Tiongkok: Pencocokan HLA dan Kelayakan
 
 ## Hero
 
-- **Title:** Uji Klinis Terapi Sel TCR-T: Hal yang Perlu Dipahami Pasien
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Imunoterapi Seluler
-- **Subtitle:** Kecocokan dengan uji klinis bergantung pada alel HLA, target tumor, reseptor rekayasa, kohort, dan jalur pengobatan yang tepat—bukan hanya kata “TCR-T.”
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustrasi editorial sel imun bereseptor di samping diskusi pemilihan pasien; hanya skema, bukan pemeriksaan laboratorium atau produk TCR-T tertentu.
+
+
+- **Title:** Uji Klinis TCR-T di Tiongkok: Pencocokan HLA dan Kelayakan
+- **Subtitle:** Pahami pencocokan uji TCR-T, termasuk HLA dan target tumor, skrining, produksi sel, risiko reaktivitas silang, verifikasi di Tiongkok, dan tindak lanjut.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -162,11 +164,13 @@ Hanya jika protokol dan pusat yang merawat mengizinkannya. Komplikasi peradangan
 ## SEO Metadata
 
 - **Slug:** `tcr-t-cell-therapy-trials-what-patients-should-understand`
-- **Meta title:** Uji TCR-T: Pencocokan HLA, Kelayakan, dan Risiko
-- **Meta description:** Pahami pencocokan uji TCR-T, termasuk HLA dan target tumor, skrining, produksi sel, risiko reaktivitas silang, verifikasi di Tiongkok, dan tindak lanjut.
 - **Primary keyword:** uji terapi sel TCR-T
 - **Secondary keywords:** pencocokan HLA TCR-T; kelayakan TCR-T; reseptor sel T rekayasa; uji TCR-T Tiongkok; risiko TCR-T
 - **Search intent:** skrining uji TCR-T / keputusan pengobatan lanjutan
+
+
+- **Meta title:** Uji Klinis TCR-T di Tiongkok: Pencocokan HLA dan Kelayakan
+- **Meta description:** Pahami pencocokan uji TCR-T, termasuk HLA dan target tumor, skrining, produksi sel, risiko reaktivitas silang, verifikasi di Tiongkok, dan tindak lanjut.
 
 ## Sumber
 

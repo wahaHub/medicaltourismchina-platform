@@ -1,12 +1,14 @@
-# Medikamentenresistente Epilepsie klassifizieren und Risiken beurteilen: Anfallstyp, Syndrom, Ursache und Behandlungsansprechen trennen
+# Formen und Risiken pharmakoresistenter Epilepsie: Beurteilung in China
 
 ## Hero
 
-- **Title:** Medikamentenresistente Epilepsie klassifizieren und Risiken beurteilen: Anfallstyp, Syndrom, Ursache und Behandlungsansprechen trennen
 - **Category:** Patientenaufklärung und häufig gestellte Fragen
 - **Subcategory:** Medikamentenresistente Epilepsie
-- **Subtitle:** Medikamentenresistente Epilepsie durchläuft kein universelles System von Stadium eins bis Stadium vier.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Formen und Risiken pharmakoresistenter Epilepsie: Beurteilung in China
+- **Subtitle:** Pharmakoresistente Epilepsie für eine Beurteilung in China einordnen: Anfallsmuster, Epilepsietyp, Syndrom, Ursache und individuelle Risiken getrennt beschreiben.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -154,3 +156,6 @@ Bitten Sie im schriftlichen Fazit um Unterscheidung von Anfallstyp, Epilepsietyp
 ## SEO Metadata
 
 - **Primary keyword:** Klassifikation medikamentenresistenter Epilepsie; fokale und generalisierte Epilepsie; Epilepsiesyndrome; Epilepsierisikobeurteilung in China
+
+- **Meta title:** Formen und Risiken pharmakoresistenter Epilepsie: Beurteilung in China
+- **Meta description:** Pharmakoresistente Epilepsie für eine Beurteilung in China einordnen: Anfallsmuster, Epilepsietyp, Syndrom, Ursache und individuelle Risiken getrennt beschreiben.

@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Twenty patient questions about GVHD: treatment, tapering, care in China, and follow-up
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Graft Versus Host Disease
-- **Subtitle:** Graft-versus-host disease brings together transplant history, immune treatment, and problems affecting several organs.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Twenty patient questions about GVHD: treatment, tapering, care in China, and follow-up
+- **Subtitle:** Answers to 20 GVHD questions covering symptoms, treatment, tapering, travel to China, medical records and continuing follow-up.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,3 +139,6 @@ Continue regimen-specific blood and biochemical monitoring, assessment of affect
 ## SEO Metadata
 
 - **Primary keyword:** GVHD patient questions and treatment in China
+
+- **Meta title:** Twenty patient questions about GVHD: treatment, tapering, care in China, and follow-up
+- **Meta description:** Answers to 20 GVHD questions covering symptoms, treatment, tapering, travel to China, medical records and continuing follow-up.

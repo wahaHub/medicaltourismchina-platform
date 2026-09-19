@@ -1,12 +1,14 @@
-# Erfordert GVHD eine Operation? Biopsien, Dilatation, Augeneingriffe und Behandlungszugänge verstehen
+# Eingriffe bei GVHD in China: Biopsien, Dilatation und Augenversorgung
 
 ## Hero
 
-- **Title:** Erfordert GVHD eine Operation? Biopsien, Dilatation, Augeneingriffe und Behandlungszugänge verstehen
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Graft-versus-Host-Erkrankung
-- **Subtitle:** Die Nachricht, dass nach einer Transplantation ein Eingriff nötig ist, kann beunruhigend klingen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Eingriffe bei GVHD in China: Biopsien, Dilatation und Augenversorgung
+- **Subtitle:** Eingriffe bei GVHD in China einordnen: Biopsien, Erweiterung von Engstellen, Augenbehandlung und Gefäßzugänge mit konkretem Organproblem und Nachsorge verbinden.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Der Entlassungsbericht sollte erläutern, was durchgeführt und festgestellt wur
 ## SEO Metadata
 
 - **Primary keyword:** Eingriffe und Operationen bei GVHD in China
+
+- **Meta title:** Eingriffe bei GVHD in China: Biopsien, Dilatation und Augenversorgung
+- **Meta description:** Eingriffe bei GVHD in China einordnen: Biopsien, Erweiterung von Engstellen, Augenbehandlung und Gefäßzugänge mit konkretem Organproblem und Nachsorge verbinden.

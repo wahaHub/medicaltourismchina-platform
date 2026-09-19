@@ -1,15 +1,17 @@
-# 015 Apa yang Dapat—dan Tidak Dapat—Dilakukan Koordinator Perawatan Medis
+# Koordinator Perawatan Medis di Tiongkok: Peran dan Batasannya
 
 ## Hero
 
-- **Title:** Apa yang Dapat—dan Tidak Dapat—Dilakukan Koordinator Perawatan Medis
 - **Category:** Panduan Layanan Kesehatan Tiongkok
 - **Subcategory:** Koordinasi Pasien dan Perlindungan
-- **Subtitle:** Koordinator yang baik mengatasi hambatan logistik dan menjaga rantai komunikasi klinis; mereka tidak menjadi dokter, juru bahasa, penanggung asuransi, atau pengambil keputusan.
 - **Reviewed by:** Tim Editorial Medora Health; peninjauan tata kelola klinis, kontrak, dan privasi diperlukan sebelum publikasi
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Seorang koordinator menjelaskan layanan praktis yang dapat ia berikan dan keputusan klinis yang tetap menjadi tanggung jawab tenaga profesional berizin
+
+
+- **Title:** Koordinator Perawatan Medis di Tiongkok: Peran dan Batasannya
+- **Subtitle:** Tetapkan peran koordinator medis, verifikasi biaya dan konflik kepentingan, lindungi catatan, serta pertahankan diagnosis, persetujuan, dan pengobatan pada klinisi berizin.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -215,13 +217,15 @@ Aktifkan jalur eskalasi klinis tertulis, hubungkan pasien dengan tim pengobatan 
 ## SEO Metadata
 
 - **Slug:** `what-a-medical-care-coordinator-can-and-cannot-do`
-- **Meta title:** Apa yang Dapat dan Tidak Dapat Dilakukan Koordinator Perawatan Medis
-- **Meta description:** Tetapkan peran koordinator medis, verifikasi biaya dan konflik kepentingan, lindungi catatan, serta pertahankan diagnosis, persetujuan, dan pengobatan pada klinisi berizin.
 - **Primary keyword:** koordinator perawatan medis Tiongkok
 - **Pillar keyword:** layanan kesehatan di Tiongkok untuk pasien internasional
 - **Vertical keyword:** tanggung jawab koordinator wisata medis
 - **Search intent:** informasional / uji tuntas layanan
 - **Secondary keywords:** koordinator pasien Tiongkok; fasilitator perjalanan medis; peran koordinator rumah sakit
+
+
+- **Meta title:** Koordinator Perawatan Medis di Tiongkok: Peran dan Batasannya
+- **Meta description:** Tetapkan peran koordinator medis, verifikasi biaya dan konflik kepentingan, lindungi catatan, serta pertahankan diagnosis, persetujuan, dan pengobatan pada klinisi berizin.
 
 ## Sumber
 

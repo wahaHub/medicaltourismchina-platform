@@ -1,15 +1,17 @@
-# Protéger une plaie chirurgicale en voyage : prévoir le trajet, au-delà du pansement
+# Voyager après une opération en Chine : protéger la plaie
 
 ## Hero
 
-- **Title:** Protéger une plaie chirurgicale en voyage : prévoir le trajet, au-delà du pansement
 - **Category:** Éducation des patients et FAQ
 - **Subcategory:** Prévention des infections
-- **Subtitle:** Comment décider si un voyage est raisonnable, préparer le matériel, changer un pansement loin de chez soi, protéger les drains et reconnaître les complications après une opération.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Une personne en voyage dont l’incision abdominale est couverte examine le matériel de pansement et un plan écrit de soins de la plaie avec une infirmière
+
+
+- **Title:** Voyager après une opération en Chine : protéger la plaie
+- **Subtitle:** Guide pratique du voyage après une opération : pansements, drains, vols, douche, signes d’alerte, matériel et préparation aux urgences.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Une rougeur qui s’étend, une douleur croissante, un écoulement purulent ou malodorant, une désunion de la plaie, un saignement persistant, une fièvre, un mollet gonflé, une douleur thoracique ou un essoufflement nécessitent une évaluation médicale rapide.
 
 ## Content
+
+Si votre voyage a lieu après une opération en Chine, convenez du plan de soins de la plaie et de voyage avec l’équipe chirurgicale avant de partir. La transmission doit inclure les consignes de pansement, les drains, les restrictions de mouvement, les signes d’alerte et le clinicien qui prendra le relais dans votre pays.
+
 
 Le pansement n’est qu’un élément de la protection d’une incision. Les questions les plus délicates en voyage sont de savoir si la plaie est stable, si le patient peut se déplacer et assurer ses soins personnels, et ce qui se passera si la fermeture s’ouvre à des centaines de kilomètres de l’équipe opératoire.
 
@@ -120,11 +125,13 @@ Une désunion, un saignement incontrôlé, une rougeur qui s’étend rapidement
 
 ## SEO Metadata
 
-- **SEO title:** Comment protéger une plaie chirurgicale en voyage
-- **Meta description:** Guide pratique du voyage après une opération : pansements, drains, vols, douche, signes d’alerte, matériel et préparation aux urgences.
 - **Primary keyword:** protéger une plaie chirurgicale en voyage
 - **Secondary keywords:** soins de plaie et avion après chirurgie, voyager avec un drain chirurgical, pansement en avion, signes d’infection d’incision, trousse de voyage postopératoire
 - **Suggested URL slug:** `/protect-surgical-wound-travel`
+
+
+- **Meta title:** Voyager après une opération en Chine : protéger la plaie
+- **Meta description:** Guide pratique du voyage après une opération : pansements, drains, vols, douche, signes d’alerte, matériel et préparation aux urgences.
 
 ## Sources
 

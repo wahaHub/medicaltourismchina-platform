@@ -16,6 +16,7 @@ export interface GuideCardGuide {
   subcategory: string;
   locales: string[];
   updatedDate: string;
+  updatedDateByLocale?: Record<string, string>;
   readTimeMinutes: number;
   conditionId?: string;
   condition?: Record<string, string>;
@@ -47,6 +48,7 @@ export default function GuideCard({
 }: GuideCardProps) {
   const contentLocale = guideContentLocale(locale, guide.locales);
   const isFallback = contentLocale !== locale;
+  const updatedDate = guide.updatedDateByLocale?.[contentLocale] ?? guide.updatedDate;
   const title = guide.title[contentLocale] || guide.slug;
   const subtitle = guide.subtitle[contentLocale] || "";
   const guidePath = `/guides/${categorySlug}/${guide.slug}`;
@@ -87,10 +89,10 @@ export default function GuideCard({
           <p lang={contentLocale} dir="auto" className="mb-4 line-clamp-2 text-sm leading-relaxed text-slate-600">{subtitle}</p>
         ) : null}
         <div className="mt-auto flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-slate-500">
-          {guide.updatedDate ? (
+          {updatedDate ? (
             <span className="inline-flex items-center gap-1">
               <Calendar className="h-3.5 w-3.5" />
-              {updatedLabel.replace("{{date}}", guide.updatedDate)}
+              {updatedLabel.replace("{{date}}", updatedDate)}
             </span>
           ) : null}
           <span className="inline-flex items-center gap-1">

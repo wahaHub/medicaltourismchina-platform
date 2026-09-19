@@ -1,12 +1,14 @@
-# Neue GVHD-Behandlungen und klinische Studien: Die Entwicklungen von 2026 einordnen
+# Neue GVHD-Behandlungen und Studien: Evidenz und Zugang in China
 
 ## Hero
 
-- **Title:** Neue GVHD-Behandlungen und klinische Studien: Die Entwicklungen von 2026 einordnen
 - **Category:** Klinische Studien und fortschrittliche Behandlungen
 - **Subcategory:** Graft-versus-Host-Erkrankung
-- **Subtitle:** Ein Bericht über einen Durchbruch nach Stammzelltransplantation kann für jeden Menschen mit Graft-versus-Host-Erkrankung unmittelbar relevant klingen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Neue GVHD-Behandlungen und Studien: Evidenz und Zugang in China
+- **Subtitle:** Neue GVHD-Therapien für die Versorgung in China einordnen: Prävention und Behandlung unterscheiden sowie Studienergebnisse, Indikation und Überwachung prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ Eine hilfreiche Beratung endet mit einer Entscheidung, die an ein klinisches Zie
 ## SEO Metadata
 
 - **Primary keyword:** neue GVHD-Behandlungen und klinische Studien in China
+
+- **Meta title:** Neue GVHD-Behandlungen und Studien: Evidenz und Zugang in China
+- **Meta description:** Neue GVHD-Therapien für die Versorgung in China einordnen: Prävention und Behandlung unterscheiden sowie Studienergebnisse, Indikation und Überwachung prüfen.

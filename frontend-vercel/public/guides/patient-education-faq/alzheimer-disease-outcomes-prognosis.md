@@ -1,12 +1,14 @@
-# Alzheimer’s Disease Prognosis: Treatment Outcomes, Daily Function and Future Care
+# Alzheimer’s Prognosis: Questions for an Assessment in China
 
 ## Hero
 
-- **Title:** Alzheimer’s Disease Prognosis: Treatment Outcomes, Daily Function and Future Care
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Alzheimer Disease
-- **Subtitle:** After a diagnosis, families often want to know how long independent living might continue, whether treatment will stop further decline and how much time remains.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Alzheimer’s Prognosis: Questions for an Assessment in China
+- **Subtitle:** Understand Alzheimer’s prognosis through function, treatment response and care needs, with questions for an individualized assessment in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -146,3 +148,6 @@ Uncertainty about the exact future does not prevent useful action now. Families 
 ## SEO Metadata
 
 - **Primary keyword:** Alzheimer’s disease prognosis
+
+- **Meta title:** Alzheimer’s Prognosis: Questions for an Assessment in China
+- **Meta description:** Understand Alzheimer’s prognosis through function, treatment response and care needs, with questions for an individualized assessment in China.

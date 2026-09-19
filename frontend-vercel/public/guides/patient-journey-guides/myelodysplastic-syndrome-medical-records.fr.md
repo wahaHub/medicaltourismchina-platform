@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Dossier médical pour une consultation de SMD en Chine : comptes rendus médullaires, génétique, transfusions et antécédents thérapeutiques
 - **Category:** Guides du parcours patient
 - **Subcategory:** Syndrome myélodysplasique
-- **Subtitle:** Un certificat diagnostique et la dernière numération sanguine indiquent au médecin qui vous reçoit que vous avez un SMD.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Dossier médical pour une consultation de SMD en Chine : comptes rendus médullaires, génétique, transfusions et antécédents thérapeutiques
+- **Subtitle:** Préparez un dossier de syndrome myélodysplasique pour la Chine : bilan médullaire, génétique, numérations, transfusions et traitements réellement administrés.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Cette liste concerne les documents existants. Le clinicien destinataire doit dé
 ## SEO Metadata
 
 - **Primary keyword:** dossier médical pour une consultation de syndrome myélodysplasique
+
+- **Meta title:** Dossier médical pour une consultation de SMD en Chine : comptes rendus médullaires, génétique, transfusions et antécédents thérapeutiques
+- **Meta description:** Préparez un dossier de syndrome myélodysplasique pour la Chine : bilan médullaire, génétique, numérations, transfusions et traitements réellement administrés.

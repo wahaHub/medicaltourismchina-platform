@@ -1,12 +1,14 @@
-# ¿Qué ocurre ante un linfoma de células T en recaída o refractario? Confirmar el cambio y planificar la siguiente línea
+# Linfoma de células T en recaída en China: revisión y siguiente línea de atención
 
 ## Hero
 
-- **Title:** ¿Qué ocurre ante un linfoma de células T en recaída o refractario? Confirmar el cambio y planificar la siguiente línea
 - **Category:** Guías de tratamiento
 - **Subcategory:** Linfoma de células T
-- **Subtitle:** Un bulto nuevo o una evaluación de respuesta insuficiente pueden hacer que un paciente busque urgentemente otro fármaco.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Linfoma de células T en recaída en China: revisión y siguiente línea de atención
+- **Subtitle:** Prepare la revisión de linfoma de células T en recaída en China con confirmación del cambio, antecedentes reales y objetivos para la siguiente línea de tratamiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -121,3 +123,6 @@ Después de la consulta, conserve un único plan vigente que muestre la siguient
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento del linfoma de células T en recaída o refractario
+
+- **Meta title:** Linfoma de células T en recaída en China: revisión y siguiente línea de atención
+- **Meta description:** Prepare la revisión de linfoma de células T en recaída en China con confirmación del cambio, antecedentes reales y objetivos para la siguiente línea de tratamiento.

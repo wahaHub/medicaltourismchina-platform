@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Coûts du traitement de la sclérose en plaques en Chine : établir une estimation personnelle utile
 - **Category:** Guides des coûts et des assurances
 - **Subcategory:** Sclérose en plaques
-- **Subtitle:** Coûts du traitement de la sclérose en plaques en Chine : établir une estimation personnelle utile
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Coûts du traitement de la sclérose en plaques en Chine : établir une estimation personnelle utile
+- **Subtitle:** Établissez un budget de soins de la sclérose en plaques en Chine en séparant bilan, traitement de fond, poussées, surveillance et rééducation.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Comparez les propositions sur la même période d'observation, par exemple de l'
 ## SEO Metadata
 
 - **Primary keyword:** coût du traitement de la sclérose en plaques en Chine
+
+- **Meta title:** Coûts du traitement de la sclérose en plaques en Chine : établir une estimation personnelle utile
+- **Meta description:** Établissez un budget de soins de la sclérose en plaques en Chine en séparant bilan, traitement de fond, poussées, surveillance et rééducation.

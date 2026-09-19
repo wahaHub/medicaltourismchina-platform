@@ -1,15 +1,17 @@
-# Nach einer Operation fern von zu Hause: Welche Warnzeichen erfordern 120, einen chirurgischen Kontakt am selben Tag oder Beobachtung?
+# Warnzeichen nach einer Operation in China: 120 oder das Operationsteam anrufen?
 
 ## Hero
 
-- **Title:** Nach einer Operation fern von zu Hause: Welche Warnzeichen erfordern 120, einen chirurgischen Kontakt am selben Tag oder Beobachtung?
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Symptome und dringliche Versorgung
-- **Subtitle:** Ein praktischer Ratgeber zur Dringlichkeitseinschätzung für internationale Patienten, die sich nach einer Operation in einem Hotel, einer Wohnung oder einer unbekannten Stadt erholen.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Ein postoperativer Patient spricht mit einem Arzt neben Symbolen für Fieber, Atemprobleme, Herzsymptome, Bein- und Bauchschmerzen
+
+
+- **Title:** Warnzeichen nach einer Operation in China: 120 oder das Operationsteam anrufen?
+- **Subtitle:** Atemprobleme, Blutungen, Wundveränderungen, Fieber, Erbrechen, Beinschwellung und Drainageprobleme nach einer Operation auf Reisen nach Dringlichkeit einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -168,13 +170,15 @@ Nein. Kontaktieren Sie das Operationsteam oder einen örtlichen Arzt. Die Wunde 
 ## SEO Metadata
 
 - **Slug:** `postoperative-warning-signs-that-need-urgent-assessment`
-- **Meta title:** Postoperative Warnzeichen: 120 oder den Chirurgen anrufen?
-- **Meta description:** Atemprobleme, Blutungen, Wundveränderungen, Fieber, Erbrechen, Beinschwellung und Drainageprobleme nach einer Operation auf Reisen nach Dringlichkeit einordnen.
 - **Primary keyword:** postoperative Warnzeichen
 - **Pillar keyword:** Patientensicherheit bei medizinischen Reisen
 - **Vertical keyword:** dringliche Symptome nach einer Operation
 - **Search intent:** Anleitung zur postoperativen Dringlichkeitseinschätzung
 - **Secondary keywords:** Wundinfektion nach Operation; Blutgerinnsel nach Operation; postoperatives Fieber; Chirurgen nach Operation anrufen; 120 in China anrufen
+
+
+- **Meta title:** Warnzeichen nach einer Operation in China: 120 oder das Operationsteam anrufen?
+- **Meta description:** Atemprobleme, Blutungen, Wundveränderungen, Fieber, Erbrechen, Beinschwellung und Drainageprobleme nach einer Operation auf Reisen nach Dringlichkeit einordnen.
 
 ## Quellen
 

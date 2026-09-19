@@ -1,12 +1,14 @@
-# Choosing first-line treatment for DLBCL and preparing for the first cycle
+# First-Line DLBCL Treatment in China: Preparing for Care
 
 ## Hero
 
-- **Title:** Choosing first-line treatment for DLBCL and preparing for the first cycle
 - **Category:** Treatment Guides
 - **Subcategory:** Diffuse Large B Cell Lymphoma
-- **Subtitle:** First-line treatment for DLBCL is commonly designed with cure as the goal.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** First-Line DLBCL Treatment in China: Preparing for Care
+- **Subtitle:** Prepare for first-line DLBCL treatment in China by confirming the regimen, first-cycle assessments, support needs and plans between cycles.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Choose a caregiver who understands the medicines and urgent symptoms, and allow 
 ## SEO Metadata
 
 - **Primary keyword:** first-line treatment for DLBCL
+
+- **Meta title:** First-Line DLBCL Treatment in China: Preparing for Care
+- **Meta description:** Prepare for first-line DLBCL treatment in China by confirming the regimen, first-cycle assessments, support needs and plans between cycles.

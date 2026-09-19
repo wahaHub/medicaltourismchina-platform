@@ -1,12 +1,14 @@
-# Traitement du lymphome diffus à grandes cellules B : construire un plan complet
+# Traitement du LDGCB en Chine : construire un plan de soins complet
 
 ## Hero
 
-- **Title:** Traitement du lymphome diffus à grandes cellules B : construire un plan complet
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome diffus à grandes cellules B
-- **Subtitle:** Le lymphome diffus à grandes cellules B, généralement abrégé DLBCL, nécessite souvent un traitement rapide, car il peut croître vite.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement du LDGCB en Chine : construire un plan de soins complet
+- **Subtitle:** Préparez un plan de traitement du LDGCB en Chine en reliant diagnostic, stade, état général, protocole initial et place des traitements complémentaires.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Avant de partir, demandez le diagnostic anatomopathologique final, le stade et l
 ## SEO Metadata
 
 - **Primary keyword:** traitement du lymphome diffus à grandes cellules B
+
+- **Meta title:** Traitement du LDGCB en Chine : construire un plan de soins complet
+- **Meta description:** Préparez un plan de traitement du LDGCB en Chine en reliant diagnostic, stade, état général, protocole initial et place des traitements complémentaires.

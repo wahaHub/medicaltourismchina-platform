@@ -1,15 +1,17 @@
-# 081 Studien zur onkolytischen Virustherapie: Evidenz, Risiken und Teilnahmevoraussetzungen
+# Studien zu onkolytischen Viren in China: Teilnahmevoraussetzungen und Risiken
 
 ## Hero
 
-- **Title:** Studien zur onkolytischen Virustherapie: Evidenz, Risiken und Teilnahmevoraussetzungen
 - **Category:** Klinische Studien und fortschrittliche Behandlungen
 - **Subcategory:** Krebsimmuntherapie
-- **Subtitle:** Prüfen Sie das konkrete Virus, seine genetische Gestaltung, den Verabreichungsweg, die injizierbare Läsion, die Kombination und den Biosicherheitsplan – nicht das pauschale Versprechen eines „Virus, das Krebs tötet“.
 - **Reviewed by:** Medora Health Redaktionsteam
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Schematisches onkolytisches Virus neben Tumorzellen, Studienteilnehmenden, Sicherheitsprüfung und Ergebnisbeobachtung; keine Mikroskopaufnahme und kein bestimmtes Virusprodukt.
+
+
+- **Title:** Studien zu onkolytischen Viren in China: Teilnahmevoraussetzungen und Risiken
+- **Subtitle:** Beurteilen Sie Studien zu onkolytischen Viren nach Virusplattform, Verabreichungsweg, injizierbaren Läsionen, Evidenz, Infektions- und Ausscheidungsrisiken, Bildgebung und Studienstatus in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -181,11 +183,13 @@ Nicht automatisch. Entzündung kann Wachstum vortäuschen, doch eine echte Progr
 ## SEO Metadata
 
 - **Slug:** `oncolytic-virus-therapy-trials-evidence-risks-and-eligibility`
-- **Meta title:** Studien zu onkolytischen Viren: Eignung, Ausscheidung und Evidenz
-- **Meta description:** Beurteilen Sie Studien zu onkolytischen Viren nach Virusplattform, Verabreichungsweg, injizierbaren Läsionen, Evidenz, Infektions- und Ausscheidungsrisiken, Bildgebung und Studienstatus in China.
 - **Primary keyword:** klinische Studien zu onkolytischen Viren
 - **Secondary keywords:** onkolytisches Virus China; intratumorale Virustherapie; Virusausscheidung; Eignung für onkolytische Viren; onkolytische Immuntherapie
 - **Search intent:** Eignungsprüfung für Studien zu onkolytischen Viren / Prüfung von Evidenz und Sicherheit
+
+
+- **Meta title:** Studien zu onkolytischen Viren in China: Teilnahmevoraussetzungen und Risiken
+- **Meta description:** Beurteilen Sie Studien zu onkolytischen Viren nach Virusplattform, Verabreichungsweg, injizierbaren Läsionen, Evidenz, Infektions- und Ausscheidungsrisiken, Bildgebung und Studienstatus in China.
 
 ## Quellen
 

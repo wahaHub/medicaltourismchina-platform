@@ -1,12 +1,14 @@
-# Effets indésirables du traitement du lymphome folliculaire : reconnaître les problèmes et savoir quand demander de l’aide
+# Soins du lymphome folliculaire en Chine : effets indésirables et aide urgente
 
 ## Hero
 
-- **Title:** Effets indésirables du traitement du lymphome folliculaire : reconnaître les problèmes et savoir quand demander de l’aide
 - **Category:** Guides des traitements
 - **Subcategory:** Lymphome folliculaire
-- **Subtitle:** Effets indésirables du traitement du lymphome folliculaire : reconnaître les problèmes et savoir quand demander de l’aide
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Soins du lymphome folliculaire en Chine : effets indésirables et aide urgente
+- **Subtitle:** Préparez la gestion des effets indésirables du lymphome folliculaire en Chine : fièvre, réactions aux perfusions, baisse des cellules sanguines et signes d’alerte.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -96,3 +98,6 @@ Avant le retour, obtenez les documents d’administration, les numérations réc
 ## SEO Metadata
 
 - **Primary keyword:** effets indésirables du traitement du lymphome folliculaire
+
+- **Meta title:** Soins du lymphome folliculaire en Chine : effets indésirables et aide urgente
+- **Meta description:** Préparez la gestion des effets indésirables du lymphome folliculaire en Chine : fièvre, réactions aux perfusions, baisse des cellules sanguines et signes d’alerte.

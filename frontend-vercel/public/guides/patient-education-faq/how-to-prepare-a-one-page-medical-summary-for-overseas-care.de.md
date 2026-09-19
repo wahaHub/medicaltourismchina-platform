@@ -1,15 +1,17 @@
-# Einseitige medizinische Zusammenfassung für Versorgung im Ausland: die erste Minute nutzen
+# Medizinische Zusammenfassung für die Versorgung in China: Einseitige Vorlage
 
 ## Hero
 
-- **Title:** Einseitige medizinische Zusammenfassung für Versorgung im Ausland: die erste Minute nutzen
 - **Category:** Patienteninformation & häufige Fragen
 - **Subcategory:** Patientenentscheidungen & Unterstützung für Betreuungspersonen
-- **Subtitle:** Eine Methode Feld für Feld, um aus einer verstreuten Krankengeschichte eine knappe, datierte und klinisch nützliche Übergabe zu erstellen.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Patient und Begleitperson besprechen vor einer Versorgung im Ausland eine knappe medizinische Zusammenfassung mit einem Arzt
+
+
+- **Title:** Medizinische Zusammenfassung für die Versorgung in China: Einseitige Vorlage
+- **Subtitle:** Erstellen Sie eine knappe medizinische Zusammenfassung für das Ausland mit passender Überweisungsfrage, Diagnosen, Allergien, Medikamenten, Ergebnissen, Geräten und indizierten Anhängen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -21,6 +23,9 @@
 - Die Zusammenfassung ersetzt niemals Originalbefunde, Pathologie, DICOM-Bilder oder Medikamentenverpackungen. Sie sollte mit einem einfachen Verzeichnis auf diese Dateien verweisen.
 
 ## Content
+
+Stellen Sie beim Versand von Unterlagen an ein Krankenhaus in China eine kurze medizinische Zusammenfassung vor die vollständige Dokumentensammlung. Sorgen Sie dafür, dass Überweisungsfrage, Diagnose, Allergien, Medikamente und datierte Untersuchungsergebnisse leicht auffindbar sind, und halten Sie die Originalbefunde für die ärztliche Prüfung verfügbar.
+
 
 In einem Krankenhaus im Ausland hat der erste Arzt möglicherweise zehn Minuten, eine ungewohnte Sprache und Hunderte hochgeladene Seiten vor sich. Eine gute einseitige Zusammenfassung lässt ihn den Fall überblicken, bevor er das Archiv öffnet. Eine schlechte versteckt den Überweisungsgrund unter jedem normalen Test, den der Patient je hatte.
 
@@ -176,11 +181,13 @@ Aktualisieren Sie sie nach bedeutsamen Änderungen von Diagnose, Medikamenten, E
 
 ## SEO Metadata
 
-- **SEO title:** Einseitige medizinische Zusammenfassung für Versorgung im Ausland: Vorlagenleitfaden
-- **Meta description:** Erstellen Sie eine knappe medizinische Zusammenfassung für das Ausland mit passender Überweisungsfrage, Diagnosen, Allergien, Medikamenten, Ergebnissen, Geräten und indizierten Anhängen.
 - **Primary keyword:** einseitige medizinische Zusammenfassung für Versorgung im Ausland
 - **Secondary keywords:** medizinische Zusammenfassung für internationale Patienten, Übersetzung der Krankengeschichte, Unterlagen für Auslandsbehandlung, grenzüberschreitende Patientenzusammenfassung, Vorlage für medizinische Zusammenfassung
 - **Suggested URL slug:** `/one-page-medical-summary-overseas-care`
+
+
+- **Meta title:** Medizinische Zusammenfassung für die Versorgung in China: Einseitige Vorlage
+- **Meta description:** Erstellen Sie eine knappe medizinische Zusammenfassung für das Ausland mit passender Überweisungsfrage, Diagnosen, Allergien, Medikamenten, Ergebnissen, Geräten und indizierten Anhängen.
 
 ## Quellen
 

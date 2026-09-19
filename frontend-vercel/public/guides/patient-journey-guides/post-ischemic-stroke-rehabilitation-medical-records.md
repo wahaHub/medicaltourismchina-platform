@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Preparing records for stroke rehabilitation in China: Imaging, medicines and function
 - **Category:** Patient Journey Guides
 - **Subcategory:** Post Ischemic Stroke Rehabilitation
-- **Subtitle:** A useful stroke rehabilitation record explains the event, the person's present abilities, and the risks that still need attention.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Preparing records for stroke rehabilitation in China: Imaging, medicines and function
+- **Subtitle:** Prepare stroke rehabilitation records for China with original imaging, medicines, functional assessments and the assistance needed in daily life.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ A well-organized record allows the reader to understand the purpose quickly and 
 ## SEO Metadata
 
 - **Primary keyword:** medical records for stroke rehabilitation in China
+
+- **Meta title:** Preparing records for stroke rehabilitation in China: Imaging, medicines and function
+- **Meta description:** Prepare stroke rehabilitation records for China with original imaging, medicines, functional assessments and the assistance needed in daily life.

@@ -1,12 +1,14 @@
-# Menangani Efek Samping Pengobatan Limfoma Sel Mantel: Demam, Perdarahan, Terapi Target, dan Pemantauan CAR-T
+# Perawatan Limfoma Sel Mantel di Tiongkok: Efek Samping dan Keamanan
 
 ## Hero
 
-- **Title:** Menangani Efek Samping Pengobatan Limfoma Sel Mantel: Demam, Perdarahan, Terapi Target, dan Pemantauan CAR-T
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Limfoma Sel Mantel
-- **Subtitle:** Menangani Efek Samping Pengobatan Limfoma Sel Mantel: Demam, Perdarahan, Terapi Target, dan Pemantauan CAR-T
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Perawatan Limfoma Sel Mantel di Tiongkok: Efek Samping dan Keamanan
+- **Subtitle:** Kenali demam, perdarahan, dan efek terapi bertarget atau CAR-T pada limfoma sel mantel. Siapkan rencana keselamatan pengobatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ Penanganan efek samping bertujuan mengenali bahaya sejak dini, mengurangi ketida
 ## SEO Metadata
 
 - **Primary keyword:** efek samping pengobatan limfoma sel mantel
+
+- **Meta title:** Perawatan Limfoma Sel Mantel di Tiongkok: Efek Samping dan Keamanan
+- **Meta description:** Kenali demam, perdarahan, dan efek terapi bertarget atau CAR-T pada limfoma sel mantel. Siapkan rencana keselamatan pengobatan di Tiongkok.

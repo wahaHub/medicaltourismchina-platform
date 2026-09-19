@@ -1,12 +1,14 @@
-# Pronóstico de la enfermedad de Alzheimer: resultados terapéuticos, función cotidiana y atención futura
+# Pronóstico del Alzheimer: preguntas para una evaluación en China
 
 ## Hero
 
-- **Title:** Pronóstico de la enfermedad de Alzheimer: resultados terapéuticos, función cotidiana y atención futura
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Enfermedad de Alzheimer
-- **Subtitle:** Tras el diagnóstico, las familias suelen querer saber cuánto podría durar la vida independiente, si el tratamiento detendrá el deterioro y cuánto tiempo queda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pronóstico del Alzheimer: preguntas para una evaluación en China
+- **Subtitle:** Prepare una evaluación de Alzheimer en China con preguntas sobre evolución, respuesta al tratamiento, autonomía y necesidades futuras de apoyo y cuidados.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -146,3 +148,6 @@ La incertidumbre sobre el futuro exacto no impide actuar de forma útil ahora. L
 ## SEO Metadata
 
 - **Primary keyword:** pronóstico de la enfermedad de Alzheimer
+
+- **Meta title:** Pronóstico del Alzheimer: preguntas para una evaluación en China
+- **Meta description:** Prepare una evaluación de Alzheimer en China con preguntas sobre evolución, respuesta al tratamiento, autonomía y necesidades futuras de apoyo y cuidados.

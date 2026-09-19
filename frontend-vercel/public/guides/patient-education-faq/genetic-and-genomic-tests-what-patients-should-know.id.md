@@ -1,15 +1,17 @@
-# Tes Genetik atau Genomik? Tentukan Dahulu Apakah Pertanyaannya tentang Risiko Turunan, Diagnosis, atau Pengobatan
+# Tes Genetik dan Genomik di Tiongkok: Memahami Hasil
 
 ## Hero
 
-- **Title:** Tes Genetik atau Genomik? Tentukan Dahulu Apakah Pertanyaannya tentang Risiko Turunan, Diagnosis, atau Pengobatan
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Pemeriksaan & Diagnosis
-- **Subtitle:** Panduan praktis tentang tes germline, pemrofilan tumor, varian yang tidak pasti, panel luas, hasil langsung ke konsumen, dan pertanyaan yang perlu diselesaikan sebelum sampel dikirim.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** Seorang dokter menjelaskan temuan DNA dan kemungkinan implikasinya kepada pasien dan anggota keluarga
+
+
+- **Title:** Tes Genetik dan Genomik di Tiongkok: Memahami Hasil
+- **Subtitle:** Pahami tes genomik germline dan tumor, VUS dan hasil negatif, panel luas, tes DNA konsumen, kualitas laporan, dan pertanyaan sebelum tes.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,11 +147,13 @@ Jangan bertindak berdasarkan hasil itu saja. Tinjau hasil asli bersama dokter be
 
 ## SEO Metadata
 
-- **SEO title:** Tes Genetik vs Genomik: Penjelasan Germline, Hasil Tumor, dan VUS
-- **Meta description:** Pahami tes genomik germline dan tumor, VUS dan hasil negatif, panel luas, tes DNA konsumen, kualitas laporan, dan pertanyaan sebelum tes.
 - **Primary keyword:** panduan tes genetik dan genomik
 - **Secondary keywords:** tes germline, pemrofilan tumor, mutasi somatik, varian dengan signifikansi tidak pasti, konseling genetik, tes biomarker kanker
 - **Suggested URL slug:** `/genetic-genomic-tests-inherited-risk-diagnosis-treatment`
+
+
+- **Meta title:** Tes Genetik dan Genomik di Tiongkok: Memahami Hasil
+- **Meta description:** Pahami tes genomik germline dan tumor, VUS dan hasil negatif, panel luas, tes DNA konsumen, kualitas laporan, dan pertanyaan sebelum tes.
 
 ## Sumber
 

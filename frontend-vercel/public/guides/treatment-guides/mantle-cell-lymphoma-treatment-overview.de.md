@@ -1,12 +1,14 @@
-# Wie wird das Mantelzelllymphom behandelt? Ein praktischer Leitfaden von der Beobachtung bis zur Behandlung nach einem Rückfall
+# Behandlung des Mantelzelllymphoms in China: Optionen nach Versorgungsphase
 
 ## Hero
 
-- **Title:** Wie wird das Mantelzelllymphom behandelt? Ein praktischer Leitfaden von der Beobachtung bis zur Behandlung nach einem Rückfall
 - **Category:** Behandlungsleitfäden
 - **Subcategory:** Mantelzelllymphom
-- **Subtitle:** Verwandte Suchanfragen: MCL-Behandlungsoptionen; Versorgung bei Mantelzelllymphom in China
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Behandlung des Mantelzelllymphoms in China: Optionen nach Versorgungsphase
+- **Subtitle:** Mantelzelllymphom-Behandlung in China planen: Beobachtung, Erstlinientherapie, Transplantation, Erhaltung und Rückfalloptionen nach Risiko und Belastbarkeit prüfen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Wenn sich Ihr Zustand während der Organisation internationaler Versorgung rasch
 ## SEO Metadata
 
 - **Primary keyword:** Behandlung des Mantelzelllymphoms
+
+- **Meta title:** Behandlung des Mantelzelllymphoms in China: Optionen nach Versorgungsphase
+- **Meta description:** Mantelzelllymphom-Behandlung in China planen: Beobachtung, Erstlinientherapie, Transplantation, Erhaltung und Rückfalloptionen nach Risiko und Belastbarkeit prüfen.

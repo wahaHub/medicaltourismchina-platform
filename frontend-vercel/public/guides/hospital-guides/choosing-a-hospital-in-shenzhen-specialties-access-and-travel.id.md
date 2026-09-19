@@ -1,15 +1,17 @@
-# 104 Memilih Rumah Sakit di Shenzhen: Kesesuaian Klinis, Batas Lintas Perbatasan, dan Perjalanan
+# Memilih Rumah Sakit di Tiongkok: Shenzhen dan Perawatan Lintas Perbatasan
 
 ## Hero
 
-- **Title:** Memilih Rumah Sakit di Shenzhen: Kesesuaian Klinis, Batas Lintas Perbatasan, dan Perjalanan
 - **Category:** Panduan Rumah Sakit
 - **Subcategory:** Perencanaan Perawatan Shenzhen
-- **Subtitle:** Tetapkan penanggung jawab klinis dan kampus yang tepat terlebih dahulu; lalu uji rangkaian paspor, data, perbatasan, pembayaran, darurat, dan kepulangan.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustrasi konseptual wisatawan internasional membandingkan akses rumah sakit Shenzhen; ikon cakrawala kota, rumah sakit, dokter, dan kereta tidak mengidentifikasi kampus, rute, atau dukungan nyata.
+
+
+- **Title:** Memilih Rumah Sakit di Tiongkok: Shenzhen dan Perawatan Lintas Perbatasan
+- **Subtitle:** Pilih rumah sakit Shenzhen dengan memverifikasi penanggung jawab klinis, kampus resmi, rangkaian paspor dan data, batas kebijakan perbatasan mendalam, rute perjalanan, cadangan darurat, dan serah terima pemulangan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -224,13 +226,15 @@ Telah ada proyek percontohan kerja sama, tetapi itu tidak menciptakan hak sesuai
 ## SEO Metadata
 
 - **Slug:** `choosing-a-hospital-in-shenzhen-specialties-access-and-travel`
-- **Meta title:** Memilih Rumah Sakit di Shenzhen: Kesesuaian Klinis dan Batas Lintas Perbatasan
-- **Meta description:** Pilih rumah sakit Shenzhen dengan memverifikasi penanggung jawab klinis, kampus resmi, rangkaian paspor dan data, batas kebijakan perbatasan mendalam, rute perjalanan, cadangan darurat, dan serah terima pemulangan.
 - **Primary keyword:** memilih rumah sakit di Shenzhen
 - **Pillar keyword:** rumah sakit Shenzhen untuk pasien internasional
 - **Vertical keyword:** spesialisasi akses perjalanan rumah sakit Shenzhen
 - **Search intent:** perbandingan rumah sakit / perencanaan perawatan Shenzhen dan Hong Kong
 - **Secondary keywords:** pemesanan rumah sakit Shenzhen dengan paspor; data medis Shenzhen Hong Kong; ambulans lintas perbatasan Shenzhen; kampus rumah sakit Shenzhen; darurat Shenzhen 120
+
+
+- **Meta title:** Memilih Rumah Sakit di Tiongkok: Shenzhen dan Perawatan Lintas Perbatasan
+- **Meta description:** Pilih rumah sakit Shenzhen dengan memverifikasi penanggung jawab klinis, kampus resmi, rangkaian paspor dan data, batas kebijakan perbatasan mendalam, rute perjalanan, cadangan darurat, dan serah terima pemulangan.
 
 ## Sumber
 

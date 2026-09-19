@@ -1,12 +1,14 @@
-# Memulai perawatan setelah diagnosis talasemia: merencanakan tahap pertama pengobatan
+# Memulai Perawatan Talasemia di Tiongkok: Rencana Pengobatan Pertama
 
 ## Hero
 
-- **Title:** Memulai perawatan setelah diagnosis talasemia: merencanakan tahap pertama pengobatan
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Talasemia
-- **Subtitle:** Setelah diagnosis talasemia yang baru, keluarga sering menginginkan satu keputusan yang dapat menyelesaikan setiap kekhawatiran.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Memulai Perawatan Talasemia di Tiongkok: Rencana Pengobatan Pertama
+- **Subtitle:** Susun rencana awal talasemia di Tiongkok berdasarkan diagnosis, kebutuhan stabilisasi, status pembawa, dan tujuan dukungan darah serta pemantauan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -134,3 +136,6 @@ Dokumen tersebut boleh singkat. Dokumen ini harus mencantumkan klinisi koordinat
 ## SEO Metadata
 
 - **Primary keyword:** talasemia yang baru didiagnosis; pengobatan awal; perawatan talasemia anak; memulai transfusi; memulai kelasi
+
+- **Meta title:** Memulai Perawatan Talasemia di Tiongkok: Rencana Pengobatan Pertama
+- **Meta description:** Susun rencana awal talasemia di Tiongkok berdasarkan diagnosis, kebutuhan stabilisasi, status pembawa, dan tujuan dukungan darah serta pemantauan.

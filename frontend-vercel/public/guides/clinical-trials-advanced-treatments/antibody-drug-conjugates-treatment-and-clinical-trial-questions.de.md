@@ -1,15 +1,17 @@
-# 079 Antikörper-Wirkstoff-Konjugate: Fragen zu Behandlung und klinischen Studien
+# ADC-Behandlung und Studien in China: Zielstrukturen und Risiken
 
 ## Hero
 
-- **Title:** Antikörper-Wirkstoff-Konjugate: Fragen zu Behandlung und klinischen Studien
 - **Category:** Klinische Studien und fortschrittliche Behandlungen
 - **Subcategory:** Präzisionsonkologie
-- **Subtitle:** Betrachten Sie einen ADC-Vorschlag als vollständiges Antikörper-Linker-Wirkstoff-System und prüfen Sie dann Tumorziel, genaue Indikation, Dosis, Kombination und Überwachungsplan.
 - **Reviewed by:** Redaktionsteam von Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ersatz erforderlich: ein korrektes ADC-Schaubild mit Antikörper, Linker und Wirkstoff bei der Bindung an ein Tumorzellziel, ergänzt durch Biomarkertests und Infusionsüberwachung.
+
+
+- **Title:** ADC-Behandlung und Studien in China: Zielstrukturen und Risiken
+- **Subtitle:** Bewerten Sie ein Antikörper-Wirkstoff-Konjugat anhand von Ziel, Antikörper, Linker und Wirkstoff und prüfen Sie dann chinesische Zulassung, Studienkohorte, Toxizitäten und Überwachung.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -171,11 +173,13 @@ Nicht allein aufgrund dieser Tatsache. Prüfen Sie aktuelle NMPA-Zulassung, chin
 ## SEO Metadata
 
 - **Slug:** `antibody-drug-conjugates-treatment-and-clinical-trial-questions`
-- **Meta title:** ADC-Behandlung und Studien: Ziele, Risiken und Fragen
-- **Meta description:** Bewerten Sie ein Antikörper-Wirkstoff-Konjugat anhand von Ziel, Antikörper, Linker und Wirkstoff und prüfen Sie dann chinesische Zulassung, Studienkohorte, Toxizitäten und Überwachung.
 - **Primary keyword:** Behandlung mit Antikörper-Wirkstoff-Konjugaten
 - **Secondary keywords:** klinische ADC-Studie China; ADC-Zieltests; ADC-Nebenwirkungen; Antikörper Linker Wirkstoff; ADC-Eignung
 - **Search intent:** ADC-Behandlungsvergleich / Eignungsprüfung für klinische Studien
+
+
+- **Meta title:** ADC-Behandlung und Studien in China: Zielstrukturen und Risiken
+- **Meta description:** Bewerten Sie ein Antikörper-Wirkstoff-Konjugat anhand von Ziel, Antikörper, Linker und Wirkstoff und prüfen Sie dann chinesische Zulassung, Studienkohorte, Toxizitäten und Überwachung.
 
 ## Quellen
 

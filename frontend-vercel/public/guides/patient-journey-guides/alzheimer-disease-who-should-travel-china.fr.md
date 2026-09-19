@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Une personne atteinte de la maladie d’Alzheimer devrait-elle se rendre en Chine pour des soins ?
 - **Category:** Guides du parcours patient
 - **Subcategory:** Maladie d’Alzheimer
-- **Subtitle:** Une famille envisageant des soins dans un autre pays a besoin de plus qu’un rendez-vous disponible.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Une personne atteinte de la maladie d’Alzheimer devrait-elle se rendre en Chine pour des soins ?
+- **Subtitle:** Évaluez un voyage de soins Alzheimer en Chine selon la question clinique, la stabilité, les besoins cognitifs et la continuité de la surveillance thérapeutique.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -125,3 +127,6 @@ La décision de voyager doit rester sensible à l’état de la personne, à ses
 ## SEO Metadata
 
 - **Primary keyword:** voyage médical en Chine pour la maladie d’Alzheimer
+
+- **Meta title:** Une personne atteinte de la maladie d’Alzheimer devrait-elle se rendre en Chine pour des soins ?
+- **Meta description:** Évaluez un voyage de soins Alzheimer en Chine selon la question clinique, la stabilité, les besoins cognitifs et la continuité de la surveillance thérapeutique.

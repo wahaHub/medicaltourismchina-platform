@@ -1,12 +1,14 @@
-# Obat untuk limfoma folikular: memahami regimen, lini terapi, dan pemantauan
+# Obat Limfoma Folikular di Tiongkok: Regimen dan Pemantauan
 
 ## Hero
 
-- **Title:** Obat untuk limfoma folikular: memahami regimen, lini terapi, dan pemantauan
 - **Category:** Panduan Perawatan
 - **Subcategory:** Limfoma Folikular
-- **Subtitle:** Obat limfoma folikular tidak dapat dinilai baik atau buruk hanya dengan menyebutnya kemoterapi, terapi target, atau imunoterapi.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Obat Limfoma Folikular di Tiongkok: Regimen dan Pemantauan
+- **Subtitle:** Pahami obat limfoma folikular menurut regimen dan lini terapi. Siapkan jadwal penggunaan, pemantauan, serta pertanyaan perawatan di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -94,3 +96,6 @@ Simpan catatan pemberian sebenarnya dan kejadian tidak diinginkan, termasuk nama
 ## SEO Metadata
 
 - **Primary keyword:** terapi obat limfoma folikular
+
+- **Meta title:** Obat Limfoma Folikular di Tiongkok: Regimen dan Pemantauan
+- **Meta description:** Pahami obat limfoma folikular menurut regimen dan lini terapi. Siapkan jadwal penggunaan, pemantauan, serta pertanyaan perawatan di Tiongkok.

@@ -1,12 +1,14 @@
-# Prognosis in drug-resistant epilepsy: seizure freedom, meaningful improvement and long-term review
+# Drug-Resistant Epilepsy Prognosis: Questions for Care in China
 
 ## Hero
 
-- **Title:** Prognosis in drug-resistant epilepsy: seizure freedom, meaningful improvement and long-term review
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Drug Resistant Epilepsy
-- **Subtitle:** Prognosis in drug-resistant epilepsy: seizure freedom, meaningful improvement and long-term review
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Drug-Resistant Epilepsy Prognosis: Questions for Care in China
+- **Subtitle:** Discuss seizure freedom, meaningful improvement and follow-up in drug-resistant epilepsy, including how a China team’s estimates apply to you.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -145,3 +147,6 @@ When a goal has not been reached, the response may involve clarifying the cause,
 ## SEO Metadata
 
 - **Primary keyword:** drug-resistant epilepsy prognosis; epilepsy treatment outcomes; sustained seizure freedom; epilepsy outcome assessment in China
+
+- **Meta title:** Drug-Resistant Epilepsy Prognosis: Questions for Care in China
+- **Meta description:** Discuss seizure freedom, meaningful improvement and follow-up in drug-resistant epilepsy, including how a China team’s estimates apply to you.

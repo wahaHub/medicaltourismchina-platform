@@ -1,15 +1,17 @@
-# 到院后为什么可能需要复查：先问新结果会改变哪个决定
+# 到中国医院后为什么需要复查｜检查互认与安全指南
 
 ## Hero
 
-- **Title:** 到院后为什么可能需要复查：先问新结果会改变哪个决定
 - **Category:** 患者旅程指南
 - **Subcategory:** 检查复核、重复检查与治疗基线
-- **Subtitle:** 既往结果适合当前决定时就应利用；当身份、时间、方法、质量或临床问题出现缺口时，复查才有明确理由。
 - **Reviewed by:** Medora Health 编辑团队
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** 医生与患者讨论多个检查节点的概念插画；不代表真实检查结果、医院规定或复查建议。
+
+
+- **Title:** 到中国医院后为什么需要复查｜检查互认与安全指南
+- **Subtitle:** 既往结果适合当前决定时就应利用；当身份、时间、方法、质量或临床问题出现缺口时，复查才有明确理由。
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -185,13 +187,15 @@ WHO 实验室质量体系把检测视为检验前、检验中和检验后的完�
 ## SEO Metadata
 
 - **Slug:** `repeating-tests-after-arrival-why-it-may-be-necessary`
-- **Meta title:** 到中国医院后为什么需要复查｜检查互认与安全指南
-- **Meta description:** 用身份、临床问题、方法、时间和质量五项标准，判断海外检验、影像或病理资料应沿用、重读、重复还是替换。
 - **Primary keyword:** 到中国医院重复检查
 - **Pillar keyword:** 赴华医疗
 - **Vertical keyword:** 海外检查结果中国医院互认
 - **Search intent:** 检查复核 / 费用与安全规划
 - **Secondary keywords:** 中国检查检验互认；重复 CT；病理复核；检验参考区间；治疗前基线检查
+
+
+- **Meta title:** 到中国医院后为什么需要复查｜检查互认与安全指南
+- **Meta description:** 用身份、临床问题、方法、时间和质量五项标准，判断海外检验、影像或病理资料应沿用、重读、重复还是替换。
 
 ## Sources
 

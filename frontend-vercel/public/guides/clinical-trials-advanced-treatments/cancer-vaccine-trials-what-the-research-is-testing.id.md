@@ -1,15 +1,17 @@
-# 082 Uji Klinis Vaksin Kanker: Apa yang Sedang Diuji dalam Penelitian
+# Uji Klinis Vaksin Kanker di Tiongkok: Bukti dan Kelayakan
 
 ## Hero
 
-- **Title:** Uji Klinis Vaksin Kanker: Apa yang Sedang Diuji dalam Penelitian
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Imunoterapi Kanker
-- **Subtitle:** Bedakan pencegahan dari pengobatan, lalu telaah pemilihan antigen, platform vaksin, hasil pengukuran imun, waktu produksi, dan luaran klinis yang penting.
 - **Reviewed by:** Tim Editorial Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Perlu penggantian: antigen tumor dipresentasikan kepada sel imun, disertai alur perancangan dan produksi vaksin yang dipersonalisasi serta penilaian luaran klinis.
+
+
+- **Title:** Uji Klinis Vaksin Kanker di Tiongkok: Bukti dan Kelayakan
+- **Subtitle:** Pahami uji klinis vaksin pengobatan, termasuk pencegahan versus terapi, antigen, produksi neoantigen, luaran imun, kombinasi, dan verifikasi di Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -170,11 +172,13 @@ Tidak tanpa dokter onkologi dan rencana yang spesifik terhadap protokol. Tanyaka
 ## SEO Metadata
 
 - **Slug:** `cancer-vaccine-trials-what-the-research-is-testing`
-- **Meta title:** Uji Klinis Vaksin Kanker: Antigen, Bukti, dan Produksi
-- **Meta description:** Pahami uji klinis vaksin pengobatan, termasuk pencegahan versus terapi, antigen, produksi neoantigen, luaran imun, kombinasi, dan verifikasi di Tiongkok.
 - **Primary keyword:** uji klinis vaksin kanker
 - **Secondary keywords:** vaksin kanker terapeutik; vaksin neoantigen yang dipersonalisasi; vaksin kanker Tiongkok; imunogenisitas vaksin kanker; uji klinis vaksin sel dendritik
 - **Search intent:** bukti uji klinis vaksin kanker / skrining kelayakan
+
+
+- **Meta title:** Uji Klinis Vaksin Kanker di Tiongkok: Bukti dan Kelayakan
+- **Meta description:** Pahami uji klinis vaksin pengobatan, termasuk pencegahan versus terapi, antigen, produksi neoantigen, luaran imun, kombinasi, dan verifikasi di Tiongkok.
 
 ## Sumber
 

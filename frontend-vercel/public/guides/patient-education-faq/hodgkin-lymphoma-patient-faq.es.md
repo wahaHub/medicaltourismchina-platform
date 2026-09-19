@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Linfoma de Hodgkin: 20 preguntas de pacientes sobre diagnóstico, tratamiento y atención en China
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Linfoma de Hodgkin
-- **Subtitle:** Un diagnóstico de linfoma de Hodgkin puede introducir muchos términos desconocidos en unas pocas consultas.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Linfoma de Hodgkin: 20 preguntas de pacientes sobre diagnóstico, tratamiento y atención en China
+- **Subtitle:** Prepare su consulta de linfoma de Hodgkin en China con preguntas sobre diagnóstico, PET/TC, tratamiento inicial, respuesta y continuidad de la atención.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -201,3 +203,6 @@ Antes de volver a casa, identifique al médico receptor y la siguiente evaluaci�
 ## SEO Metadata
 
 - **Primary keyword:** preguntas de pacientes sobre linfoma de Hodgkin
+
+- **Meta title:** Linfoma de Hodgkin: 20 preguntas de pacientes sobre diagnóstico, tratamiento y atención en China
+- **Meta description:** Prepare su consulta de linfoma de Hodgkin en China con preguntas sobre diagnóstico, PET/TC, tratamiento inicial, respuesta y continuidad de la atención.

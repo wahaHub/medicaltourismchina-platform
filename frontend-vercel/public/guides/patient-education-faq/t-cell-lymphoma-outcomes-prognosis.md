@@ -1,12 +1,14 @@
-# How long can remission last in T-cell lymphoma? Understanding prognosis and survival figures
+# T-Cell Lymphoma Prognosis: Questions for Care in China
 
 ## Hero
 
-- **Title:** How long can remission last in T-cell lymphoma? Understanding prognosis and survival figures
 - **Category:** Patient Education & FAQ
 - **Subcategory:** T Cell Lymphoma
-- **Subtitle:** Searching for life expectancy can produce both discouraging historical figures and promotional promises of cure.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** T-Cell Lymphoma Prognosis: Questions for Care in China
+- **Subtitle:** Understand T-cell lymphoma prognosis in the context of subtype, treatment response and study populations before discussing the next steps in China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ It may help to record the date of each prognosis discussion and what it was base
 ## SEO Metadata
 
 - **Primary keyword:** T-cell lymphoma prognosis and survival
+
+- **Meta title:** T-Cell Lymphoma Prognosis: Questions for Care in China
+- **Meta description:** Understand T-cell lymphoma prognosis in the context of subtype, treatment response and study populations before discussing the next steps in China.

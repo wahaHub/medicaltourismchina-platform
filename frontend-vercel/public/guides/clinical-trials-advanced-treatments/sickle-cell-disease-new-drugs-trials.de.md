@@ -1,12 +1,14 @@
-# Neue Behandlungen und klinische Studien bei Sichelzellkrankheit: Fortschritte 2026, Evidenzgrenzen und Teilnahme
+# Medikamente und Studien bei Sichelzellkrankheit: Evidenz und Zugang in China prüfen
 
 ## Hero
 
-- **Title:** Neue Behandlungen und klinische Studien bei Sichelzellkrankheit: Fortschritte 2026, Evidenzgrenzen und Teilnahme
 - **Category:** Klinische Studien und fortgeschrittene Behandlungen
 - **Subcategory:** Sichelzellkrankheit
-- **Subtitle:** Nachrichten über ein neues Medikament oder eine Geneditierungsbehandlung können zugleich Hoffnung und Angst auslösen.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Medikamente und Studien bei Sichelzellkrankheit: Evidenz und Zugang in China prüfen
+- **Subtitle:** Medikamente und Studien bei Sichelzellkrankheit in China prüfen: Schmerz- und Blutwerte, Grenzen der Evidenz, persönliche Eignung und Langzeitkontrollen einordnen.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Bringen Sie Diagnosenachweise, Vorbehandlung und das wichtigste gewünschte Erge
 ## SEO Metadata
 
 - **Primary keyword:** neue Behandlungen und klinische Studien zur Sichelzellkrankheit 2026
+
+- **Meta title:** Medikamente und Studien bei Sichelzellkrankheit: Evidenz und Zugang in China prüfen
+- **Meta description:** Medikamente und Studien bei Sichelzellkrankheit in China prüfen: Schmerz- und Blutwerte, Grenzen der Evidenz, persönliche Eignung und Langzeitkontrollen einordnen.

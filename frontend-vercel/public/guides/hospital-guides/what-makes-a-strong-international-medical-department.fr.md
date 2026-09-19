@@ -1,15 +1,17 @@
-# 098 Qu'est-ce qui fait la qualité d'un service médical international ?
+# Services médicaux internationaux en Chine : les points à vérifier
 
 ## Hero
 
-- **Title:** Qu'est-ce qui fait la qualité d'un service médical international ?
 - **Category:** Guides des hôpitaux
 - **Subcategory:** Services aux patients internationaux
-- **Subtitle:** Jugez le service sur la responsabilité clinique, la sécurité linguistique, le recours en urgence, les dossiers et la continuité, plutôt que sur le salon ou la brochure de conciergerie.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Illustration conceptuelle d'un patient international parlant à un coordinateur hospitalier devant une carte du monde ; l'image représente l'orientation, pas la qualité clinique.
+
+
+- **Title:** Services médicaux internationaux en Chine : les points à vérifier
+- **Subtitle:** Évaluez les services hospitaliers internationaux selon la responsabilité clinique, l'interprétariat, les dossiers, les urgences, la sécurité médicamenteuse, les prix, la confidentialité et la transmission de sortie.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -268,11 +270,13 @@ Synthèse diagnostic/traitement, médicaments conciliés, résultats et responsa
 ## SEO Metadata
 
 - **Slug:** `what-makes-a-strong-international-medical-department`
-- **Meta title:** Qu'est-ce qui fait la qualité d'un service médical international ?
-- **Meta description:** Évaluez les services hospitaliers internationaux selon la responsabilité clinique, l'interprétariat, les dossiers, les urgences, la sécurité médicamenteuse, les prix, la confidentialité et la transmission de sortie.
 - **Primary keyword:** service médical international Chine
 - **Secondary keywords:** services aux patients internationaux Chine ; interprète médical hospitalier ; coordination hospitalière internationale ; dossiers médicaux transfrontaliers ; transmission de sortie hospitalière Chine
 - **Search intent:** comparaison de la qualité des services aux patients internationaux
+
+
+- **Meta title:** Services médicaux internationaux en Chine : les points à vérifier
+- **Meta description:** Évaluez les services hospitaliers internationaux selon la responsabilité clinique, l'interprétariat, les dossiers, les urgences, la sécurité médicamenteuse, les prix, la confidentialité et la transmission de sortie.
 
 ## Sources
 

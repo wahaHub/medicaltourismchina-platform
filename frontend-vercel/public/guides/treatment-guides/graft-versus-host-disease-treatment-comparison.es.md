@@ -1,12 +1,14 @@
-# Comparación de tratamientos de la EICH: qué pueden ofrecer los corticoides, los medicamentos dirigidos, la fotoféresis y los productos celulares
+# Opciones de tratamiento de la EICH en China: comparar beneficios y límites
 
 ## Hero
 
-- **Title:** Comparación de tratamientos de la EICH: qué pueden ofrecer los corticoides, los medicamentos dirigidos, la fotoféresis y los productos celulares
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de injerto contra huésped
-- **Subtitle:** Una familia que compara tratamientos para la enfermedad de injerto contra huésped puede recibir varias recomendaciones aparentemente contrapuestas.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Opciones de tratamiento de la EICH en China: comparar beneficios y límites
+- **Subtitle:** Compare tratamientos de enfermedad injerto contra huésped en China según órganos afectados, fase, beneficios y carga, sin clasificar estudios por porcentajes aislados.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -124,3 +126,6 @@ Antes de elegir entre propuestas escritas, pida a cada equipo que indique su raz
 ## SEO Metadata
 
 - **Primary keyword:** comparación de tratamientos de EICH en China
+
+- **Meta title:** Opciones de tratamiento de la EICH en China: comparar beneficios y límites
+- **Meta description:** Compare tratamientos de enfermedad injerto contra huésped en China según órganos afectados, fase, beneficios y carga, sin clasificar estudios por porcentajes aislados.

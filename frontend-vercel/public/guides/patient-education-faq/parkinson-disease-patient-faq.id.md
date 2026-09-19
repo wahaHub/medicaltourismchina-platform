@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** 20 Pertanyaan tentang Pengobatan Parkinson: Obat, DBS, Terapi Baru dan Perawatan di Tiongkok
 - **Category:** Edukasi Pasien & Tanya Jawab
 - **Subcategory:** Penyakit Parkinson
-- **Subtitle:** Keputusan pengobatan penyakit Parkinson berubah sesuai gejala utama, respons terhadap obat dan kebutuhan sehari-hari pasien.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** 20 Pertanyaan tentang Pengobatan Parkinson: Obat, DBS, Terapi Baru dan Perawatan di Tiongkok
+- **Subtitle:** Siapkan konsultasi Parkinson di Tiongkok melalui 20 pertanyaan tentang diagnosis, obat, DBS, terapi baru, serta dukungan fungsi sehari-hari.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -115,3 +117,6 @@ Demam dengan kekakuan berat, imobilitas berat mendadak, perubahan kesadaran, ket
 
 - **Primary keyword:** pertanyaan yang sering diajukan tentang pengobatan penyakit Parkinson di Tiongkok
 
+
+- **Meta title:** 20 Pertanyaan tentang Pengobatan Parkinson: Obat, DBS, Terapi Baru dan Perawatan di Tiongkok
+- **Meta description:** Siapkan konsultasi Parkinson di Tiongkok melalui 20 pertanyaan tentang diagnosis, obat, DBS, terapi baru, serta dukungan fungsi sehari-hari.

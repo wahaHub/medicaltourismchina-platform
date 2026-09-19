@@ -1,12 +1,14 @@
-# Tratamiento del linfoma difuso de células B grandes: elaborar un plan completo
+# Tratamiento del LDCBG en China: elaborar un plan de atención completo
 
 ## Hero
 
-- **Title:** Tratamiento del linfoma difuso de células B grandes: elaborar un plan completo
 - **Category:** Guías de tratamientos
 - **Subcategory:** Linfoma difuso de células B grandes
-- **Subtitle:** El linfoma difuso de células B grandes, habitualmente abreviado DLBCL, suele necesitar tratamiento pronto porque puede crecer rápidamente.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento del LDCBG en China: elaborar un plan de atención completo
+- **Subtitle:** Prepare un plan completo de linfoma difuso de células B grandes en China con diagnóstico, estadificación, evaluación personal y funciones de cada tratamiento.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -106,3 +108,6 @@ Al terminar, obtenga un resumen con medicamentos y dosis reales, cambios de dosi
 ## SEO Metadata
 
 - **Primary keyword:** tratamiento del linfoma difuso de células B grandes
+
+- **Meta title:** Tratamiento del LDCBG en China: elaborar un plan de atención completo
+- **Meta description:** Prepare un plan completo de linfoma difuso de células B grandes en China con diagnóstico, estadificación, evaluación personal y funciones de cada tratamiento.

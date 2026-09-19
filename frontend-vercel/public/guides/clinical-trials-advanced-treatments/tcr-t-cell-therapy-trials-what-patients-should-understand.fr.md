@@ -1,15 +1,17 @@
-# 078 Essais de thérapie cellulaire TCR-T : ce que les patients doivent comprendre
+# Essais TCR-T en Chine : compatibilité HLA et admissibilité
 
 ## Hero
 
-- **Title:** Essais de thérapie cellulaire TCR-T : ce que les patients doivent comprendre
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Immunothérapie cellulaire
-- **Subtitle:** L’adéquation à un essai dépend de l’allèle HLA exact, de la cible tumorale, du récepteur modifié, de la cohorte et du parcours thérapeutique, et pas uniquement des mots « TCR-T ».
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Illustration éditoriale de cellules immunitaires portant des récepteurs à côté d’une discussion sur la sélection des patients ; schéma uniquement, et non test de laboratoire ou produit TCR-T précis.
+
+
+- **Title:** Essais TCR-T en Chine : compatibilité HLA et admissibilité
+- **Subtitle:** Comprenez la compatibilité aux essais TCR-T : HLA et cibles tumorales, sélection, fabrication cellulaire, risques de réactivité croisée, vérification en Chine et suivi.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -162,11 +164,13 @@ Uniquement si le protocole et le centre traitant l’autorisent. Des complicatio
 ## SEO Metadata
 
 - **Slug:** `tcr-t-cell-therapy-trials-what-patients-should-understand`
-- **Meta title:** Essais TCR-T : compatibilité HLA, admissibilité et risques
-- **Meta description:** Comprenez la compatibilité aux essais TCR-T : HLA et cibles tumorales, sélection, fabrication cellulaire, risques de réactivité croisée, vérification en Chine et suivi.
 - **Primary keyword:** essais de thérapie cellulaire TCR-T
 - **Secondary keywords:** compatibilité HLA TCR-T ; admissibilité TCR-T ; récepteur des lymphocytes T modifié ; essai TCR-T Chine ; risques TCR-T
 - **Search intent:** sélection pour un essai TCR-T / décision de traitement avancé
+
+
+- **Meta title:** Essais TCR-T en Chine : compatibilité HLA et admissibilité
+- **Meta description:** Comprenez la compatibilité aux essais TCR-T : HLA et cibles tumorales, sélection, fabrication cellulaire, risques de réactivité croisée, vérification en Chine et suivi.
 
 ## Sources
 

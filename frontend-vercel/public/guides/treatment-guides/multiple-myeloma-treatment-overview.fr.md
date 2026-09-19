@@ -1,12 +1,14 @@
-# Traitement du myélome multiple : protéger les organes tout en planifiant un contrôle à long terme
+# Traitement du myélome multiple en Chine : options et continuité des soins
 
 ## Hero
 
-- **Title:** Traitement du myélome multiple : protéger les organes tout en planifiant un contrôle à long terme
 - **Category:** Guides de traitement
 - **Subcategory:** Myélome multiple
-- **Subtitle:** Le traitement du myélome multiple est habituellement une succession de décisions plutôt qu’un acte unique.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Traitement du myélome multiple en Chine : options et continuité des soins
+- **Subtitle:** Préparez un plan de soins du myélome en Chine qui relie protection des organes, traitement initial, autogreffe éventuelle, évaluation de la réponse et entretien.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Une première consultation utile vous laisse avec l’objectif thérapeutique im
 ## SEO Metadata
 
 - **Primary keyword:** options de traitement du myélome multiple en Chine
+
+- **Meta title:** Traitement du myélome multiple en Chine : options et continuité des soins
+- **Meta description:** Préparez un plan de soins du myélome en Chine qui relie protection des organes, traitement initial, autogreffe éventuelle, évaluation de la réponse et entretien.

@@ -1,12 +1,14 @@
-# Mengklasifikasikan epilepsi resistan obat dan menilai risiko: pisahkan jenis kejang, sindrom, penyebab, dan respons perawatan
+# Jenis dan Risiko Epilepsi Resistan Obat: Penilaian di Tiongkok
 
 ## Hero
 
-- **Title:** Mengklasifikasikan epilepsi resistan obat dan menilai risiko: pisahkan jenis kejang, sindrom, penyebab, dan respons perawatan
 - **Category:** Edukasi Pasien & Pertanyaan Umum
 - **Subcategory:** Epilepsi Resistan Obat
-- **Subtitle:** Epilepsi resistan obat tidak berkembang melalui sistem universal tahap satu hingga tahap empat.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Jenis dan Risiko Epilepsi Resistan Obat: Penilaian di Tiongkok
+- **Subtitle:** Pahami jenis kejang, sindrom, penyebab, dan risiko epilepsi resistan obat. Siapkan penilaian di Tiongkok berdasarkan riwayat serta respons pengobatan.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -154,3 +156,6 @@ Mintalah kesimpulan tertulis membedakan jenis kejang, jenis epilepsi, sindrom, e
 ## SEO Metadata
 
 - **Primary keyword:** klasifikasi epilepsi resistan obat; epilepsi fokal dan umum; sindrom epilepsi; penilaian risiko epilepsi di Tiongkok
+
+- **Meta title:** Jenis dan Risiko Epilepsi Resistan Obat: Penilaian di Tiongkok
+- **Meta description:** Pahami jenis kejang, sindrom, penyebab, dan risiko epilepsi resistan obat. Siapkan penilaian di Tiongkok berdasarkan riwayat serta respons pengobatan.

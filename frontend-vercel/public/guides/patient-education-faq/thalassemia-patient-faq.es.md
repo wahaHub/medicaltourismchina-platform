@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Veinte preguntas sobre la talasemia: diagnóstico, tratamiento y planificación de la atención en China
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Talasemia
-- **Subtitle:** La palabra talasemia puede describir el estado de portador, una enfermedad que necesita apoyo ocasional o una afección que requiere transfusiones regulares.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Veinte preguntas sobre la talasemia: diagnóstico, tratamiento y planificación de la atención en China
+- **Subtitle:** Aclare dudas sobre herencia, diagnóstico, transfusiones y quelación de la talasemia, y prepare preguntas para planificar atención especializada en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -191,3 +193,6 @@ El dolor torácico intenso, la falta de aire, la alteración de la conciencia o 
 ## SEO Metadata
 
 - **Primary keyword:** preguntas frecuentes de pacientes sobre talasemia; veinte preguntas sobre talasemia; tratamiento de la talasemia en China; preguntas sobre transfusión y quelación
+
+- **Meta title:** Veinte preguntas sobre la talasemia: diagnóstico, tratamiento y planificación de la atención en China
+- **Meta description:** Aclare dudas sobre herencia, diagnóstico, transfusiones y quelación de la talasemia, y prepare preguntas para planificar atención especializada en China.

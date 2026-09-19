@@ -1,12 +1,14 @@
-# Ergebnisse beim multiplen Myelom: Überlebenszahlen verstehen und Erholung planen
+# Myelom-Prognose: Ergebnisse für die Versorgung in China einordnen
 
 ## Hero
 
-- **Title:** Ergebnisse beim multiplen Myelom: Überlebenszahlen verstehen und Erholung planen
 - **Category:** Patientenaufklärung und häufige Fragen
 - **Subcategory:** Multiples Myelom
-- **Subtitle:** Wer fragt, wie lange er mit einem Myelom leben kann, fragt möglicherweise zugleich, ob er nach Hause zurückkehren, selbstständig gehen, wieder arbeiten oder weniger Zeit im Krankenhaus verbringen kann.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Myelom-Prognose: Ergebnisse für die Versorgung in China einordnen
+- **Subtitle:** Myelom-Prognose für die Versorgung in China besprechen: Ausgangsrisiko, Ansprechen, MRD, Organerholung und Lebensqualität statt einzelner Überlebenszahlen betrachten.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -112,3 +114,6 @@ Bestätigen Sie vor der Reise nach China, dass Nachsorge und fortlaufende Medika
 ## SEO Metadata
 
 - **Primary keyword:** Prognose und Behandlungsergebnisse beim multiplen Myelom in China
+
+- **Meta title:** Myelom-Prognose: Ergebnisse für die Versorgung in China einordnen
+- **Meta description:** Myelom-Prognose für die Versorgung in China besprechen: Ausgangsrisiko, Ansprechen, MRD, Organerholung und Lebensqualität statt einzelner Überlebenszahlen betrachten.

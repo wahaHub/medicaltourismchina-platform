@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Veinte preguntas de los pacientes sobre la epilepsia farmacorresistente y su tratamiento en China
 - **Category:** Educación del paciente y preguntas frecuentes
 - **Subcategory:** Epilepsia farmacorresistente
-- **Subtitle:** Las decisiones sobre epilepsia farmacorresistente pueden implicar varias especialidades.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Veinte preguntas de los pacientes sobre la epilepsia farmacorresistente y su tratamiento en China
+- **Subtitle:** Aclare dudas sobre farmacorresistencia, resonancia, EEG y tolerancia a medicamentos antes de una evaluación especializada de epilepsia en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -153,3 +155,6 @@ Ante convulsiones prolongadas, crisis repetidas sin recuperación, respiración 
 ## SEO Metadata
 
 - **Primary keyword:** preguntas y respuestas sobre epilepsia farmacorresistente; tratamiento de la epilepsia en China; preguntas frecuentes sobre cirugía y medicamentos para epilepsia
+
+- **Meta title:** Veinte preguntas de los pacientes sobre la epilepsia farmacorresistente y su tratamiento en China
+- **Meta description:** Aclare dudas sobre farmacorresistencia, resonancia, EEG y tolerancia a medicamentos antes de una evaluación especializada de epilepsia en China.

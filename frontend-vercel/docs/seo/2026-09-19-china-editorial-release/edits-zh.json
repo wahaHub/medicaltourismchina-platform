@@ -1,0 +1,4592 @@
+[
+  {
+    "id": 1,
+    "key": "china-healthcare-guides/bringing-prescription-medicines-to-china-for-a-medical-trip",
+    "title": "赴华就医如何携带处方药入境中国",
+    "h1": "赴华就医时如何携带处方药入境",
+    "description": "核对中国受管制药物规则，准备处方和诊断证明，如实申报，并在医疗旅行中安全保存处方药。",
+    "subtitle": "逐一核对有效成分在中国的管制状态，准备医疗用途证明，并通过正确申报渠道携带合理的个人自用数量。",
+    "lead": null
+  },
+  {
+    "id": 2,
+    "key": "china-healthcare-guides/community-vs-tertiary-hospitals",
+    "title": "中国社区卫生服务中心与三级医院有什么区别",
+    "h1": "中国社区卫生服务中心与三级医院的区别",
+    "description": "了解国际患者在中国何时适合社区首诊、三级医院或急诊，以及上转、下转和后续随访如何衔接。",
+    "subtitle": "一个强调就近和连续照护，一个集中处理疑难与危重问题；一份好的诊疗计划往往会在不同阶段用到两者。",
+    "lead": null
+  },
+  {
+    "id": 3,
+    "key": "china-healthcare-guides/expert-clinics-vip-clinics-and-international-departments-explained",
+    "title": "中国专家门诊、特需门诊和国际医疗部详解",
+    "h1": "中国专家门诊、特需门诊和国际医疗部详解",
+    "description": "从医生资历、语言支持、价格和包含服务等方面，比较中国专家门诊、特需门诊和国际医疗部。",
+    "subtitle": "这些名称分别涉及医生资历、服务环境和国际支持，不能互相替代，也没有一种能保证临床判断更好。",
+    "lead": null
+  },
+  {
+    "id": 4,
+    "key": "china-healthcare-guides/general-vs-specialized-hospitals",
+    "title": "中国综合医院与专科医院怎么选：国际患者指南",
+    "h1": "中国综合医院与专科医院：哪一种更适合您？",
+    "description": "从专病经验、合并症、急救后备和多学科协作等方面，比较中国综合医院与专科医院。",
+    "subtitle": "真正有用的问题不是哪一种医院“更好”，而是患者需要一个领域的深度、多个领域的协同，还是两者兼具。",
+    "lead": null
+  },
+  {
+    "id": 5,
+    "key": "china-healthcare-guides/hospital-registration-in-china-a-step-by-step-guide",
+    "title": "中国医院挂号：国际患者分步指南",
+    "h1": "中国医院挂号：分步指南",
+    "description": "使用正确护照身份、科室、付款和报到步骤完成中国医院挂号，并保持一份连续完整的病历。",
+    "subtitle": "挂号会把患者、科室、当次就诊、医嘱和付款连接到同一份记录；一个身份字段错误，可能贯穿整个就医过程。",
+    "lead": null
+  },
+  {
+    "id": 6,
+    "key": "china-healthcare-guides/how-international-patients-can-book-a-specialist-in-china",
+    "title": "国际患者如何预约中国专科医生",
+    "h1": "国际患者如何预约中国专科医生",
+    "description": "使用一致的护照身份、医院官方渠道、明确的门诊范围和完整确认，预约真正匹配的中国专科医生。",
+    "subtitle": "难点往往不是找到“预约”按钮，而是用正确身份，在正确院区，约到真正能回答当前问题的医生。",
+    "lead": null
+  },
+  {
+    "id": 7,
+    "key": "china-healthcare-guides/medical-referrals-in-china",
+    "title": "中国医疗转诊如何运作：国际患者实用指南",
+    "h1": "中国医疗转诊如何运作",
+    "description": "了解中国直接预约、正式转诊、医院接收、病历传递、急救转运和后续随访的实际流程。",
+    "subtitle": "真正的转诊应当把临床问题、关键证据和责任一起交过去，而不只是给患者另一个医院地址。",
+    "lead": null
+  },
+  {
+    "id": 8,
+    "key": "china-healthcare-guides/how-to-choose-the-right-city-in-china-for-medical-treatment",
+    "title": "如何选择赴华治疗城市",
+    "h1": "如何选择适合赴华治疗的中国城市",
+    "description": "用临床匹配、出行安全、急症后备、病历交接、总费用和回国随访比较中国就医城市，而非只看名气。",
+    "subtitle": "先验证临床团队和完整诊疗链，再比较出行、安全、费用与回国随访，把全国搜索缩小到一个真正可执行的方案。",
+    "lead": null
+  },
+  {
+    "id": 9,
+    "key": "china-healthcare-guides/how-to-organize-medical-records-before-seeking-care-in-china",
+    "title": "赴中国就医前如何整理医疗记录",
+    "h1": "赴中国就医前如何整理医疗记录",
+    "description": "为中国医院病例审核准备清晰的病情摘要、时间线、用药清单、病理资料和DICOM影像，并保持中英文证据可追溯。",
+    "subtitle": "做一套医生能快速浏览、可追溯到原始证据、更新时又不会打乱治疗时间线的审核资料。",
+    "lead": null
+  },
+  {
+    "id": 10,
+    "key": "china-healthcare-guides/how-to-prepare-for-a-remote-consultation-with-a-doctor-in-china",
+    "title": "如何准备与中国医生进行远程会诊",
+    "h1": "如何准备与中国医生进行远程会诊",
+    "description": "为与中国医生的远程会诊准备资料、设备、口译和聚焦问题，并明确远程意见的临床边界。",
+    "subtitle": "有用的视频会诊在打开摄像头前就已开始：临床问题明确、资料可审阅，所有人也知道这次会诊能决定什么、不能决定什么。",
+    "lead": null
+  },
+  {
+    "id": 11,
+    "key": "china-healthcare-guides/how-to-request-english-language-medical-records-in-china",
+    "title": "如何在中国申请英文病历和医疗记录",
+    "h1": "如何在中国申请英文医疗记录",
+    "description": "了解如何取得中国医院盖章病历、申请英文摘要、收集DICOM影像，并为海外转诊安排准确的英文翻译。",
+    "subtitle": "先取得医院盖章的中文原始病历，再办理英文摘要或翻译，避免姓名、日期、剂量、单位和诊断细节在转换中失真。",
+    "lead": null
+  },
+  {
+    "id": 12,
+    "key": "china-healthcare-guides/how-to-share-ct-mri-and-other-imaging-files-with-a-chinese-hospital",
+    "title": "如何向中国医院分享 CT 和 MRI 影像",
+    "h1": "如何向中国医院分享 CT 和 MRI 影像",
+    "description": "导出完整DICOM、核对序列、保护患者隐私，并确认中国医院成功导入和完成放射科复核。",
+    "subtitle": "导出完整DICOM、核对序列、保护患者隐私，并确认中国医院成功导入和完成放射科复核。",
+    "lead": null
+  },
+  {
+    "id": 13,
+    "key": "china-healthcare-guides/informed-consent-across-languages-questions-patients-should-ask",
+    "title": "在中国就医的跨语言知情同意：签字前要问什么",
+    "h1": "在中国就医的跨语言知情同意：签字前要问什么",
+    "description": "在中国医院签署同意书前，问清治疗获益、风险、替代方案、口译、费用和方案改变，避免语言造成无效沟通。",
+    "subtitle": "在中国医院签署同意书前，问清治疗获益、风险、替代方案、口译、费用和方案改变，避免语言造成无效沟通。",
+    "lead": null
+  },
+  {
+    "id": 14,
+    "key": "china-healthcare-guides/medical-interpretation-in-china-what-international-patients-need",
+    "title": "中国医疗口译：国际患者安全沟通指南",
+    "h1": "中国医疗口译：国际患者需要了解什么",
+    "description": "在中国安排安全医疗口译，区分口译员与协调员，减少知情同意、用药和出院过程中的语言风险。",
+    "subtitle": "医疗口译负责准确、中立地传递意思；协调员负责流程；家属负责支持患者。这是三种不同工作。",
+    "lead": null
+  },
+  {
+    "id": 15,
+    "key": "china-healthcare-guides/pathology-and-laboratory-record-review-before-treatment-in-china",
+    "title": "在中国治疗前如何复核病理和检验资料",
+    "h1": "在中国治疗前如何复核病理和检验资料",
+    "description": "治疗前整理病理切片、报告、生物标志物和化验趋势，保护有限组织，并避免把不同实验室结果错误比较。",
+    "subtitle": "确认检测的是哪份标本、哪一版报告是最终结果、它能否回答今天的治疗问题，以及到院后还应重复什么。",
+    "lead": null
+  },
+  {
+    "id": 16,
+    "key": "china-healthcare-guides/protecting-your-medical-privacy-when-sharing-records-internationally",
+    "title": "向中国分享医疗记录：隐私保护与知情同意",
+    "h1": "向中国分享医疗记录：隐私保护与知情同意",
+    "description": "明确每个接收方、最小化病历、使用安全传输，并管理跨境医疗数据的同意、权限、元数据和删除。",
+    "subtitle": "明确每个接收方、最小化病历、使用安全传输，并管理跨境医疗数据的同意、权限、元数据和删除。",
+    "lead": null
+  },
+  {
+    "id": 17,
+    "key": "china-healthcare-guides/public-vs-private-hospitals",
+    "title": "中国公立医院与私立医院怎么选：国际患者指南",
+    "h1": "中国公立医院与私立医院：国际患者需要了解什么",
+    "description": "从临床团队、预约、费用、保险、急诊后备和国际服务等方面，比较中国公立医院与私立医院。",
+    "subtitle": "办医主体会影响医院的组织和服务方式，却不能直接回答患者最关心的三个问题：谁来治、这家院区能做什么、最终要付多少。",
+    "lead": null
+  },
+  {
+    "id": 18,
+    "key": "china-healthcare-guides/seeking-medical-care-in-beijing-a-guide-for-international-patients",
+    "title": "中国就医指南：国际患者在北京看病",
+    "h1": "中国就医指南：国际患者在北京看病",
+    "description": "北京医院与院区选择、英文预约、护照建档、付款保险、120 急救和回国随访的实用指南。",
+    "subtitle": "北京医院与院区选择、英文预约、护照建档、付款保险、120 急救和回国随访的实用指南。",
+    "lead": null
+  },
+  {
+    "id": 19,
+    "key": "china-healthcare-guides/seeking-medical-care-in-guangzhou-a-guide-for-international-patients",
+    "title": "中国就医指南：国际患者在广州看病",
+    "h1": "中国就医指南：国际患者在广州看病",
+    "description": "用护照注册广州健康通、核验医院、安排口译、正确使用三天续诊，并准备广州120急救和离院交接。",
+    "subtitle": "用护照注册广州健康通、核验医院、安排口译、正确使用三天续诊，并准备广州120急救和离院交接。",
+    "lead": null
+  },
+  {
+    "id": 20,
+    "key": "china-healthcare-guides/seeking-medical-care-in-shanghai-a-guide-for-international-patients",
+    "title": "中国就医指南：国际患者在上海看病",
+    "h1": "中国就医指南：国际患者在上海看病",
+    "description": "选择上海就医路径、用外国护照预约随申办、确认保险直付，并提前安排检查、病历导出和120急救。",
+    "subtitle": "选择上海就医路径、用外国护照预约随申办、确认保险直付，并提前安排检查、病历导出和120急救。",
+    "lead": null
+  },
+  {
+    "id": 21,
+    "key": "china-healthcare-guides/seeking-medical-care-in-shenzhen-a-guide-for-international-patients",
+    "title": "中国就医指南：深圳看病与跨境衔接",
+    "h1": "中国就医指南：深圳看病与跨境衔接",
+    "description": "深圳医院预约、护照建档、香港病历互通和医疗券边界、跨境交接及120急救的实用指南。",
+    "subtitle": "深圳医院预约、护照建档、香港病历互通和医疗券边界、跨境交接及120急救的实用指南。",
+    "lead": null
+  },
+  {
+    "id": 22,
+    "key": "china-healthcare-guides/three-tier-hospital-system",
+    "title": "中国医院三级分级体系：一级、二级、三级和三甲的区别",
+    "h1": "读懂中国医院三级分级体系",
+    "description": "了解中国一级、二级和三级医院的功能，读懂“三级甲等”，并按科室、医生和配套服务为国际患者选择医院。",
+    "subtitle": "“三级”描述医院的功能定位和综合能力，“甲等”是评审结论；两者都不能代替对具体科室和医生的判断。",
+    "lead": null
+  },
+  {
+    "id": 23,
+    "key": "china-healthcare-guides/using-hospital-apps-and-wechat-during-medical-care-in-china",
+    "title": "在中国使用医院应用和微信：患者安全指南",
+    "h1": "在中国使用医院应用和微信：患者安全指南",
+    "description": "了解如何通过医院App或微信小程序预约、付款和查报告，并避免护照建档、隐私及账号权限问题。",
+    "subtitle": "了解如何通过医院App或微信小程序预约、付款和查报告，并避免护照建档、隐私及账号权限问题。",
+    "lead": null
+  },
+  {
+    "id": 24,
+    "key": "china-healthcare-guides/what-a-medical-care-coordinator-can-and-cannot-do",
+    "title": "中国医疗协调员：服务范围与职责边界",
+    "h1": "中国医疗协调员：服务范围与职责边界",
+    "description": "了解中国医疗协调员的职责边界，核实佣金、付款、隐私和资质，并让诊断、知情同意与治疗决定回到注册临床人员手中。",
+    "subtitle": "了解中国医疗协调员的职责边界，核实佣金、付款、隐私和资质，并让诊断、知情同意与治疗决定回到注册临床人员手中。",
+    "lead": null
+  },
+  {
+    "id": 25,
+    "key": "china-healthcare-guides/what-to-expect-at-a-chinese-hospital-outpatient-appointment",
+    "title": "中国医院门诊就医：就诊流程与准备",
+    "h1": "中国医院门诊就医：就诊流程与准备",
+    "description": "从护照签到、问诊到检查、缴费、药房、取结果和复诊，了解中国医院门诊完整流程。",
+    "subtitle": "从护照签到、问诊到检查、缴费、药房、取结果和复诊，了解中国医院门诊完整流程。",
+    "lead": null
+  },
+  {
+    "id": 26,
+    "key": "clinical-trials-advanced-treatments/adverse-event-reporting-in-clinical-trials-a-patient-guide",
+    "title": "中国临床试验：患者如何报告不良事件",
+    "h1": "中国临床试验：患者如何报告不良事件",
+    "description": "说明临床试验参与者应报告哪些事件、重度与严重的区别、急诊处理、研究者和申办者职责，以及跨境安全随访。",
+    "subtitle": "说明临床试验参与者应报告哪些事件、重度与严重的区别、急诊处理、研究者和申办者职责，以及跨境安全随访。",
+    "lead": null
+  },
+  {
+    "id": 27,
+    "key": "clinical-trials-advanced-treatments/antibody-drug-conjugates-treatment-and-clinical-trial-questions",
+    "title": "中国 ADC 治疗与试验：靶点核实与风险",
+    "h1": "中国 ADC 治疗与试验：靶点核实与风险",
+    "description": "从靶点、抗体、连接子和载荷评估 ADC，并核对中国批准、试验队列、产品特有毒性和跨境监测。",
+    "subtitle": "从靶点、抗体、连接子和载荷评估 ADC，并核对中国批准、试验队列、产品特有毒性和跨境监测。",
+    "lead": null
+  },
+  {
+    "id": 28,
+    "key": "clinical-trials-advanced-treatments/artificial-intelligence-in-medical-imaging-what-patients-should-know",
+    "title": "中国医学影像 AI：患者需要了解什么",
+    "h1": "中国医学影像 AI：患者需要了解什么",
+    "description": "了解影像 AI 的具体任务、产品与证据核验、假阳性和假阴性、医生复核、数据隐私，以及第二意见所需资料。",
+    "subtitle": "了解影像 AI 的具体任务、产品与证据核验、假阳性和假阴性、医生复核、数据隐私，以及第二意见所需资料。",
+    "lead": null
+  },
+  {
+    "id": 29,
+    "key": "clinical-trials-advanced-treatments/bispecific-antibodies-in-cancer-care-a-patient-guide",
+    "title": "中国双特异性抗体治疗：给药、可及性与风险",
+    "h1": "中国双特异性抗体治疗：给药、可及性与风险",
+    "description": "了解不同肿瘤双特异性抗体，包括 CD3 T 细胞衔接器、靶点检测、阶梯加量、CRS、感染风险和中国路径核验。",
+    "subtitle": "了解不同肿瘤双特异性抗体，包括 CD3 T 细胞衔接器、靶点检测、阶梯加量、CRS、感染风险和中国路径核验。",
+    "lead": null
+  },
+  {
+    "id": 30,
+    "key": "clinical-trials-advanced-treatments/cancer-vaccine-trials-what-the-research-is-testing",
+    "title": "中国肿瘤疫苗临床试验：证据与入组条件",
+    "h1": "中国肿瘤疫苗临床试验：证据与入组条件",
+    "description": "了解治疗性肿瘤疫苗，包括预防与治疗区别、抗原、新抗原制造、免疫终点、联合方案和中国试验核验。",
+    "subtitle": "了解治疗性肿瘤疫苗，包括预防与治疗区别、抗原、新抗原制造、免疫终点、联合方案和中国试验核验。",
+    "lead": null
+  },
+  {
+    "id": 31,
+    "key": "clinical-trials-advanced-treatments/car-t-cell-therapy-in-china-approved-care-vs-clinical-trials",
+    "title": "中国 CAR-T：获批产品与临床试验的区别",
+    "h1": "中国 CAR-T 细胞治疗：获批诊疗与临床试验怎样区分",
+    "description": "比较中国获批 CAR-T 与临床试验，核实说明书、单采、制造、桥接、清淋、回输、CRS 神经毒性和长期随访。",
+    "subtitle": "比较可及性、制造、风险、费用和随访前，先核实产品、靶点、疾病、治疗线次和监管路径。",
+    "lead": null
+  },
+  {
+    "id": 32,
+    "key": "clinical-trials-advanced-treatments/cell-therapy-manufacturing-and-quality-why-it-matters",
+    "title": "中国细胞治疗：生产流程与质量核验",
+    "h1": "中国细胞治疗：生产流程与质量核验",
+    "description": "读懂细胞采集、身份链、生产控制、放行检测、效力、OOS 批次、工艺可比性、运输和床旁操作。",
+    "subtitle": "读懂细胞采集、身份链、生产控制、放行检测、效力、OOS 批次、工艺可比性、运输和床旁操作。",
+    "lead": null
+  },
+  {
+    "id": 33,
+    "key": "clinical-trials-advanced-treatments/clinical-trial-costs-travel-and-follow-up-responsibilities",
+    "title": "中国临床试验费用：差旅与随访责任",
+    "h1": "中国临床试验费用：差旅与随访责任",
+    "description": "把中国临床试验费用拆成研究、常规诊疗、差旅、并发症和随访五类，并用责任矩阵规划国际患者回国交接。",
+    "subtitle": "把中国临床试验费用拆成研究、常规诊疗、差旅、并发症和随访五类，并用责任矩阵规划国际患者回国交接。",
+    "lead": "赴中国参加临床试验前，应将研究费用与常规诊疗、旅行、并发症处理和随访费用分开。请研究团队以书面形式明确每项费用的支付方及相应责任，包括筛选后未能入组时如何处理。"
+  },
+  {
+    "id": 34,
+    "key": "clinical-trials-advanced-treatments/clinical-trial-eligibility-why-patients-may-or-may-not-qualify",
+    "title": "中国临床试验入组资格：筛选与筛选失败",
+    "h1": "中国临床试验入组资格：筛选与筛选失败",
+    "description": "了解临床试验预筛、入排标准、标志物与洗脱期核查、筛选失败、队列名额和国际患者实际限制。",
+    "subtitle": "了解临床试验预筛、入排标准、标志物与洗脱期核查、筛选失败、队列名额和国际患者实际限制。",
+    "lead": null
+  },
+  {
+    "id": 35,
+    "key": "clinical-trials-advanced-treatments/clinical-trial-phases-explained-for-patients",
+    "title": "在中国参加临床试验：患者如何理解 0–IV 期",
+    "h1": "在中国参加临床试验：患者如何理解 0–IV 期",
+    "description": "解释 0–IV 期、联合期、适应性设计、剂量递增、随机分组、研究终点、上市后研究和中国知情同意。",
+    "subtitle": "解释 0–IV 期、联合期、适应性设计、剂量递增、随机分组、研究终点、上市后研究和中国知情同意。",
+    "lead": null
+  },
+  {
+    "id": 36,
+    "key": "clinical-trials-advanced-treatments/gene-therapy-in-china-approved-uses-trials-and-red-flags",
+    "title": "中国基因治疗：批准、试验与风险信号",
+    "h1": "中国基因治疗：获批用途、临床试验与风险信号",
+    "description": "从产品、载体、基因型、NMPA 路径、试验登记、编辑风险、长期随访和红旗核实中国基因治疗。",
+    "subtitle": "在判断基因治疗建议前，先核实疾病、遗传机制、准确产品、载体或编辑系统、中国监管路径和长期义务。",
+    "lead": null
+  },
+  {
+    "id": 37,
+    "key": "clinical-trials-advanced-treatments/how-to-find-a-clinical-trial-in-china",
+    "title": "如何在中国寻找临床试验：注册平台与资格核实",
+    "h1": "如何在中国寻找临床试验",
+    "description": "学会检索中国和国际临床试验注册平台，读懂招募与入排标准，并在安排行程前向中国研究中心核实真实状态。",
+    "subtitle": "先找对注册平台、读懂真实入排标准，再向具体研究中心确认是否仍在招募，最后才考虑行程。",
+    "lead": null
+  },
+  {
+    "id": 38,
+    "key": "clinical-trials-advanced-treatments/how-to-verify-a-research-hospital-and-clinical-trial",
+    "title": "如何核实中国研究医院与临床试验",
+    "h1": "如何核实中国研究医院与临床试验",
+    "description": "通过医院执业、机构备案、登记号与方案号、中心启动、研究者、伦理、同意书、招募方和付款，核实中国临床试验。",
+    "subtitle": "通过医院执业、机构备案、登记号与方案号、中心启动、研究者、伦理、同意书、招募方和付款，核实中国临床试验。",
+    "lead": null
+  },
+  {
+    "id": 39,
+    "key": "clinical-trials-advanced-treatments/informed-consent-for-clinical-trials-in-china",
+    "title": "中国临床试验知情同意：国际患者签字指南",
+    "h1": "在中国参加临床试验：怎样才算真正的知情同意",
+    "description": "了解中国临床试验知情同意应涵盖的风险、替代方案、翻译、费用、研究损害、退出、再次同意、样本和数据授权。",
+    "subtitle": "从试验性操作、随机分组和替代治疗，到翻译、研究损害、样本授权、退出和再次同意，签字前应逐项弄清。",
+    "lead": null
+  },
+  {
+    "id": 40,
+    "key": "clinical-trials-advanced-treatments/liquid-biopsy-in-cancer-care-uses-limits-and-clinical-trials",
+    "title": "中国肿瘤液体活检：检测用途、局限与试验",
+    "h1": "中国肿瘤液体活检：检测用途、局限与试验",
+    "description": "了解 ctDNA 用于晚期肿瘤、MRD、疗效监测和筛查的边界，包括假阴性、克隆性造血、组织复核和临床试验。",
+    "subtitle": "了解 ctDNA 用于晚期肿瘤、MRD、疗效监测和筛查的边界，包括假阴性、克隆性造血、组织复核和临床试验。",
+    "lead": null
+  },
+  {
+    "id": 41,
+    "key": "clinical-trials-advanced-treatments/long-term-follow-up-after-cell-or-gene-therapy",
+    "title": "中国细胞与基因治疗：长期随访安排",
+    "h1": "中国细胞与基因治疗：长期随访安排",
+    "description": "为疾病疗效、免疫恢复、迟发毒性、肿瘤、妊娠、事件报告、病历和跨境照护制定产品专属随访计划。",
+    "subtitle": "为疾病疗效、免疫恢复、迟发毒性、肿瘤、妊娠、事件报告、病历和跨境照护制定产品专属随访计划。",
+    "lead": null
+  },
+  {
+    "id": 42,
+    "key": "clinical-trials-advanced-treatments/mr-guided-radiotherapy-how-real-time-imaging-supports-treatment",
+    "title": "中国 MR 引导放疗：治疗计划与安全核验",
+    "h1": "中国 MR 引导放疗：治疗计划与安全核验",
+    "description": "了解 MR 引导放疗的每日定位、电影式 MRI、门控和在线自适应，以及临床证据、MR 安全、治疗时长、质控和病历。",
+    "subtitle": "了解 MR 引导放疗的每日定位、电影式 MRI、门控和在线自适应，以及临床证据、MR 安全、治疗时长、质控和病历。",
+    "lead": null
+  },
+  {
+    "id": 43,
+    "key": "clinical-trials-advanced-treatments/alzheimer-disease-new-drugs-trials",
+    "title": "阿尔茨海默病新药与试验：中国可及性与研究证据",
+    "h1": "阿尔茨海默病新药与试验：中国可及性与研究证据",
+    "description": "理解阿尔茨海默病新药、抗体与临床试验的证据边界，区分认知治疗和行为症状治疗。赴中国咨询前，核对适用人群、监测要求、研究资格与持续照护安排。",
+    "subtitle": "理解阿尔茨海默病新药、抗体与临床试验的证据边界，区分认知治疗和行为症状治疗。赴中国咨询前，核对适用人群、监测要求、研究资格与持续照护安排。",
+    "lead": "考虑在中国就医而了解阿尔茨海默病新药或试验时，应区分已发表的证据、当地获准的适应证以及具体医院的安排。仅有研究公告或批准通知，不能确认个人是否符合条件、试验是否有开放名额，或药物是否能够立即供应。"
+  },
+  {
+    "id": 44,
+    "key": "clinical-trials-advanced-treatments/diffuse-large-b-cell-lymphoma-new-drugs-trials",
+    "title": "弥漫大B细胞淋巴瘤新疗法与试验：中国就医可及性核实",
+    "h1": "弥漫大B细胞淋巴瘤新疗法与试验：中国就医可及性核实",
+    "description": "梳理弥漫大B细胞淋巴瘤新组合、双特异性抗体和细胞治疗的研究证据。了解赴中国咨询时如何核对病理、治疗阶段、入组条件、不良反应监测及费用责任。",
+    "subtitle": "梳理弥漫大B细胞淋巴瘤新组合、双特异性抗体和细胞治疗的研究证据。了解赴中国咨询时如何核对病理、治疗阶段、入组条件、不良反应监测及费用责任。",
+    "lead": null
+  },
+  {
+    "id": 45,
+    "key": "clinical-trials-advanced-treatments/hodgkin-lymphoma-new-drugs-trials",
+    "title": "霍奇金淋巴瘤新药与试验：中国可及性与研究证据",
+    "h1": "霍奇金淋巴瘤新药与试验：中国可及性与研究证据",
+    "description": "了解霍奇金淋巴瘤新药组合与细胞治疗研究，辨别早期缓解数据和长期结局。准备中国就医咨询时，逐项确认适用病情、研究中心、知情同意和后续安全管理。",
+    "subtitle": "了解霍奇金淋巴瘤新药组合与细胞治疗研究，辨别早期缓解数据和长期结局。准备中国就医咨询时，逐项确认适用病情、研究中心、知情同意和后续安全管理。",
+    "lead": null
+  },
+  {
+    "id": 46,
+    "key": "clinical-trials-advanced-treatments/mantle-cell-lymphoma-new-drugs-trials",
+    "title": "套细胞淋巴瘤新疗法：中国临床试验与可及性",
+    "h1": "套细胞淋巴瘤新疗法：中国临床试验与可及性",
+    "description": "解读套细胞淋巴瘤靶向组合、双特异性抗体与减量治疗研究，理解证据适用范围。赴中国咨询临床试验前，核对筛选条件、风险、费用及停留安排。",
+    "subtitle": "解读套细胞淋巴瘤靶向组合、双特异性抗体与减量治疗研究，理解证据适用范围。赴中国咨询临床试验前，核对筛选条件、风险、费用及停留安排。",
+    "lead": null
+  },
+  {
+    "id": 47,
+    "key": "clinical-trials-advanced-treatments/aplastic-anemia-new-drugs-trials",
+    "title": "再生障碍性贫血新药与试验：中国可及性核实",
+    "h1": "再生障碍性贫血新药与试验：中国可及性核实",
+    "description": "了解再生障碍性贫血促造血药、免疫抑制与移植研究的不同目标。赴中国评估新疗法前，区分研究证据与实际接诊条件，核对筛选、费用和等待期间的治疗安排。",
+    "subtitle": "了解再生障碍性贫血促造血药、免疫抑制与移植研究的不同目标。赴中国评估新疗法前，区分研究证据与实际接诊条件，核对筛选、费用和等待期间的治疗安排。",
+    "lead": null
+  },
+  {
+    "id": 48,
+    "key": "clinical-trials-advanced-treatments/post-ischemic-stroke-rehabilitation-new-drugs-trials",
+    "title": "中国卒中康复研究：新药与脑机接口临床试验",
+    "h1": "中国卒中康复研究：新药与脑机接口临床试验",
+    "description": "分清卒中急性期用药与后遗症康复研究，理解脑机接口、吞咽刺激和细胞项目的证据限制。了解在中国咨询试验时应核对的功能目标、筛选条件与随访责任。",
+    "subtitle": "分清卒中急性期用药与后遗症康复研究，理解脑机接口、吞咽刺激和细胞项目的证据限制。了解在中国咨询试验时应核对的功能目标、筛选条件与随访责任。",
+    "lead": null
+  },
+  {
+    "id": 49,
+    "key": "clinical-trials-advanced-treatments/graft-versus-host-disease-new-drugs-trials",
+    "title": "移植物抗宿主病新疗法与试验：中国证据与可及性",
+    "h1": "移植物抗宿主病新疗法与试验：中国证据与可及性",
+    "description": "区分移植物抗宿主病预防、急性救治和慢性管理中的新疗法证据。赴中国咨询时，结合受累器官与既往治疗核对研究人群、安全监测、费用和持续照护需求。",
+    "subtitle": "区分移植物抗宿主病预防、急性救治和慢性管理中的新疗法证据。赴中国咨询时，结合受累器官与既往治疗核对研究人群、安全监测、费用和持续照护需求。",
+    "lead": null
+  },
+  {
+    "id": 50,
+    "key": "clinical-trials-advanced-treatments/multiple-sclerosis-new-drugs-trials",
+    "title": "多发性硬化新药与临床试验：中国可及性核实",
+    "h1": "多发性硬化新药与临床试验：中国可及性核实",
+    "description": "了解多发性硬化新药与细胞治疗研究关注的复发和进展结局，辨别不同病程的证据。赴中国筛选试验前，核对停药、随机分组、安全监测及时间和费用负担。",
+    "subtitle": "了解多发性硬化新药与细胞治疗研究关注的复发和进展结局，辨别不同病程的证据。赴中国筛选试验前，核对停药、随机分组、安全监测及时间和费用负担。",
+    "lead": null
+  },
+  {
+    "id": 51,
+    "key": "clinical-trials-advanced-treatments/multiple-myeloma-new-drugs-trials",
+    "title": "多发性骨髓瘤新药与临床试验：评估中国就医选择",
+    "h1": "多发性骨髓瘤新药与临床试验：评估中国就医选择",
+    "description": "梳理多发性骨髓瘤新分子、新组合与双靶点细胞治疗的研究边界。赴中国咨询前，结合既往用药核对试验资格、到院安排、费用责任，并保留可执行的替代方案。",
+    "subtitle": "梳理多发性骨髓瘤新分子、新组合与双靶点细胞治疗的研究边界。赴中国咨询前，结合既往用药核对试验资格、到院安排、费用责任，并保留可执行的替代方案。",
+    "lead": null
+  },
+  {
+    "id": 52,
+    "key": "clinical-trials-advanced-treatments/parkinson-disease-new-drugs-trials",
+    "title": "帕金森病新药与临床试验：2026年进展、证据限制和来中国前的准备",
+    "h1": "帕金森病新药与临床试验：2026年进展、证据限制和来中国前的准备",
+    "description": "理解帕金森病药物、抗体与细胞研究中症状改善和延缓进展的区别。来中国咨询前，核对研究终点、适用人群与安全限制，同时安排好常规用药和持续照护。",
+    "subtitle": "理解帕金森病药物、抗体与细胞研究中症状改善和延缓进展的区别。来中国咨询前，核对研究终点、适用人群与安全限制，同时安排好常规用药和持续照护。",
+    "lead": null
+  },
+  {
+    "id": 53,
+    "key": "clinical-trials-advanced-treatments/t-cell-lymphoma-new-drugs-trials",
+    "title": "T细胞淋巴瘤新药与临床试验：中国可及性核实",
+    "h1": "T细胞淋巴瘤新药与临床试验：中国可及性核实",
+    "description": "了解T细胞淋巴瘤靶向药、联合方案与细胞治疗的证据，区分维持和复发治疗目标。赴中国咨询时，按病理亚型核对项目资格、知情同意、监测和费用责任。",
+    "subtitle": "了解T细胞淋巴瘤靶向药、联合方案与细胞治疗的证据，区分维持和复发治疗目标。赴中国咨询时，按病理亚型核对项目资格、知情同意、监测和费用责任。",
+    "lead": null
+  },
+  {
+    "id": 54,
+    "key": "clinical-trials-advanced-treatments/thalassemia-new-drugs-trials",
+    "title": "地中海贫血新药与试验：中国研究证据与可及性",
+    "h1": "地中海贫血新药与试验：中国研究证据与可及性",
+    "description": "梳理地中海贫血改善贫血药物、基因添加和基因编辑研究的不同目标。赴中国咨询前，核对疾病类型、输血需求、肝脏安全、研究规模及长期监测安排。",
+    "subtitle": "梳理地中海贫血改善贫血药物、基因添加和基因编辑研究的不同目标。赴中国咨询前，核对疾病类型、输血需求、肝脏安全、研究规模及长期监测安排。",
+    "lead": null
+  },
+  {
+    "id": 55,
+    "key": "clinical-trials-advanced-treatments/drug-resistant-epilepsy-new-drugs-trials",
+    "title": "难治性癫痫新疗法与试验：中国就医可及性核实",
+    "h1": "难治性癫痫新疗法与试验：中国就医可及性核实",
+    "description": "了解难治性癫痫新药、救援治疗与细胞研究各自针对的发作类型和人群。赴中国就医前，区分研究结果与处方依据，核对筛选条件、风险和后续供药安排。",
+    "subtitle": "了解难治性癫痫新药、救援治疗与细胞研究各自针对的发作类型和人群。赴中国就医前，区分研究结果与处方依据，核对筛选条件、风险和后续供药安排。",
+    "lead": null
+  },
+  {
+    "id": 56,
+    "key": "clinical-trials-advanced-treatments/follicular-lymphoma-new-drugs-trials",
+    "title": "滤泡性淋巴瘤新疗法：中国临床试验与可及性",
+    "h1": "滤泡性淋巴瘤新疗法：中国临床试验与可及性",
+    "description": "解读滤泡性淋巴瘤双特异性抗体、新组合及给药方式的研究证据。赴中国咨询临床试验时，了解分期含义、筛选限制、知情同意和筛选失败后的治疗衔接。",
+    "subtitle": "解读滤泡性淋巴瘤双特异性抗体、新组合及给药方式的研究证据。赴中国咨询临床试验时，了解分期含义、筛选限制、知情同意和筛选失败后的治疗衔接。",
+    "lead": null
+  },
+  {
+    "id": 57,
+    "key": "clinical-trials-advanced-treatments/oncolytic-virus-therapy-trials-evidence-risks-and-eligibility",
+    "title": "中国溶瘤病毒临床试验：入组条件与风险",
+    "h1": "中国溶瘤病毒临床试验：入组条件与风险",
+    "description": "按病毒平台、给药途径、可注射病灶、证据、感染与脱落风险、影像变化和中国试验状态评估溶瘤病毒研究。",
+    "subtitle": "按病毒平台、给药途径、可注射病灶、证据、感染与脱落风险、影像变化和中国试验状态评估溶瘤病毒研究。",
+    "lead": null
+  },
+  {
+    "id": 58,
+    "key": "clinical-trials-advanced-treatments/precision-oncology-trials-in-china-biomarkers-and-matching",
+    "title": "中国精准肿瘤临床试验：标志物匹配指南",
+    "h1": "中国精准肿瘤临床试验：生物标志物怎样真正匹配",
+    "description": "了解组织、液体活检、具体变异、证据等级和主方案队列怎样共同决定中国肿瘤临床试验的可信匹配。",
+    "subtitle": "只有样本、检测方法、具体变异、证据、瘤种背景和方案队列都对得上，分子发现才是可信的试验线索。",
+    "lead": null
+  },
+  {
+    "id": 59,
+    "key": "clinical-trials-advanced-treatments/proton-and-carbon-ion-therapy-in-china-a-patient-guide",
+    "title": "中国质子与碳离子治疗：患者指南",
+    "h1": "中国质子与碳离子治疗：患者判断指南",
+    "description": "按临床证据、射程与 RBE 不确定性、中心许可和质控、副作用、病历及费用，比较中国质子、碳离子和光子计划。",
+    "subtitle": "比较真正可执行的计划、证据和中心能力，而不是比较粒子名称的先进感。",
+    "lead": null
+  },
+  {
+    "id": 60,
+    "key": "clinical-trials-advanced-treatments/regenerative-medicine-claims-questions-patients-should-ask",
+    "title": "中国再生医学宣传：患者应追问的九个问题",
+    "h1": "中国再生医学宣传：患者应追问的九个问题",
+    "description": "从产品身份、可测量结局、中国授权、临床证据、质量、风险、利益冲突和病历交付，核验再生医学宣传。",
+    "subtitle": "从产品身份、可测量结局、中国授权、临床证据、质量、风险、利益冲突和病历交付，核验再生医学宣传。",
+    "lead": null
+  },
+  {
+    "id": 61,
+    "key": "clinical-trials-advanced-treatments/robotic-surgery-in-china-benefits-limits-and-surgeon-experience",
+    "title": "中国机器人手术：证据、局限与主刀经验",
+    "h1": "中国机器人辅助手术：优势、局限与术者经验怎么看",
+    "description": "按具体术式证据、主刀及团队经验、中转预案、设备局限、手术记录和完整费用，判断中国机器人辅助手术。",
+    "subtitle": "先判断手术方案、主刀和应急能力，再判断机器。",
+    "lead": null
+  },
+  {
+    "id": 62,
+    "key": "clinical-trials-advanced-treatments/sickle-cell-disease-new-drugs-trials",
+    "title": "镰状细胞病新药与试验：研究证据与中国可及性核实",
+    "h1": "镰状细胞病新药与试验：研究证据与中国可及性核实",
+    "description": "了解镰状细胞病新药与基因编辑研究如何衡量贫血、疼痛和长期安全。赴中国咨询前，区分试验结果与实际可及性，核对入组条件、费用和长期随访责任。",
+    "subtitle": "了解镰状细胞病新药与基因编辑研究如何衡量贫血、疼痛和长期安全。赴中国咨询前，区分试验结果与实际可及性，核对入组条件、费用和长期随访责任。",
+    "lead": null
+  },
+  {
+    "id": 63,
+    "key": "clinical-trials-advanced-treatments/stem-cell-treatment-how-to-distinguish-evidence-from-marketing",
+    "title": "中国干细胞治疗：研究证据与风险信号",
+    "h1": "中国干细胞治疗：研究证据与风险信号",
+    "description": "从细胞身份、中国监管路径、疾病证据、批次质量、风险、费用和随访，核验干细胞治疗宣传是否可信。",
+    "subtitle": "从细胞身份、中国监管路径、疾病证据、批次质量、风险、费用和随访，核验干细胞治疗宣传是否可信。",
+    "lead": null
+  },
+  {
+    "id": 64,
+    "key": "clinical-trials-advanced-treatments/tcr-t-cell-therapy-trials-what-patients-should-understand",
+    "title": "中国 TCR-T 临床试验：HLA 匹配与入组条件",
+    "h1": "中国 TCR-T 临床试验：HLA 匹配与入组条件",
+    "description": "了解 TCR-T 试验中的 HLA 与肿瘤靶点匹配、筛查、细胞制造、交叉反应风险、中国项目核验及回国随访。",
+    "subtitle": "了解 TCR-T 试验中的 HLA 与肿瘤靶点匹配、筛查、细胞制造、交叉反应风险、中国项目核验及回国随访。",
+    "lead": null
+  },
+  {
+    "id": 65,
+    "key": "clinical-trials-advanced-treatments/what-happens-after-a-clinical-trial-ends-post-trial-access-and-follow-up",
+    "title": "中国临床试验结束后：继续用药与随访",
+    "h1": "中国临床试验结束后：继续用药与随访",
+    "description": "说明试验结束的不同节点、继续获得干预的路径、退出资料、长期安全随访、费用、揭盲、研究结果和跨境医疗交接。",
+    "subtitle": "说明试验结束的不同节点、继续获得干预的路径、退出资料、长期安全随访、费用、揭盲、研究结果和跨境医疗交接。",
+    "lead": null
+  },
+  {
+    "id": 66,
+    "key": "cost-insurance-guides/building-a-contingency-budget-for-medical-travel",
+    "title": "赴华医疗应急预算：按失败情景准备资金",
+    "h1": "赴华医疗应急预算：为会失败的分支准备可用资金",
+    "description": "为临床、并发症、保险、出行、陪同和支付失败分支设置触发点、截止时间和真正可用的流动资金。",
+    "subtitle": "用有名称的临床、出行、保险和支付情景替代笼统百分比，并为每项写明触发点、负责人和可用现金。",
+    "lead": null
+  },
+  {
+    "id": 67,
+    "key": "cost-insurance-guides/refund-and-cancellation-policies-for-medical-travel",
+    "title": "赴中国医疗旅行：退款、取消与到账追踪",
+    "h1": "赴中国医疗旅行：退款、取消与到账追踪",
+    "description": "分开医院、航班和住宿规则，记录治疗停止原因，复算扣款，并把赴华医疗退款从批准追到银行实际入账。",
+    "subtitle": "分开医院、航班和住宿规则，记录治疗停止原因，复算扣款，并把赴华医疗退款从批准追到银行实际入账。",
+    "lead": null
+  },
+  {
+    "id": 68,
+    "key": "cost-insurance-guides/alzheimer-disease-cost-in-china",
+    "title": "阿尔茨海默病在中国治疗费用：检查、抗体用药与长期照护怎样分别预算",
+    "h1": "阿尔茨海默病在中国治疗费用：检查、抗体用药与长期照护怎样分别预算",
+    "description": "为阿尔茨海默病在中国就医分别预算诊断、抗体用药、监测和长期照护。了解如何索取可核对的分项报价，区分医保、商业保险与个人支付，避免只看单瓶药价。",
+    "subtitle": "为阿尔茨海默病在中国就医分别预算诊断、抗体用药、监测和长期照护。了解如何索取可核对的分项报价，区分医保、商业保险与个人支付，避免只看单瓶药价。",
+    "lead": null
+  },
+  {
+    "id": 69,
+    "key": "cost-insurance-guides/aplastic-anemia-cost-in-china",
+    "title": "在中国治疗再障要多少钱：按真实项目建立人民币预算",
+    "h1": "在中国治疗再障要多少钱：按真实项目建立人民币预算",
+    "description": "按诊断复核、免疫抑制或移植路径整理再生障碍性贫血在中国的治疗预算。将输血、感染支持、供者评估和回国用药列入询价，比较相同阶段的分项支出。",
+    "subtitle": "按诊断复核、免疫抑制或移植路径整理再生障碍性贫血在中国的治疗预算。将输血、感染支持、供者评估和回国用药列入询价，比较相同阶段的分项支出。",
+    "lead": null
+  },
+  {
+    "id": 70,
+    "key": "cost-insurance-guides/financial-questions-to-ask-before-signing-a-treatment-agreement",
+    "title": "签署赴华治疗协议前必问的 23 个财务问题",
+    "h1": "签署赴华治疗协议前：真正会改变交易的 23 个财务问题",
+    "description": "签署赴华治疗协议前，问清收款主体、调价条件、追加审批、退款流程以及支持理赔的正式票据。",
+    "subtitle": "把一份看起来不错的报价变成可执行的协议：写清签约方、价格逻辑、变更控制、退款路径、票据和争议处理。",
+    "lead": null
+  },
+  {
+    "id": 71,
+    "key": "cost-insurance-guides/documents-needed-for-overseas-insurance-reimbursement",
+    "title": "中国治疗后境外保险理赔需要哪些文件",
+    "h1": "中国治疗如何准备境外保险理赔：让文件证明完整就医阶段",
+    "description": "建立连接身份、授权、医学必要性、实际治疗、收费、票据、付款和翻译的中国治疗理赔包。",
+    "subtitle": "把身份、医学必要性、实际治疗、收费和付款连接成一套可追溯的境外保险资料。",
+    "lead": null
+  },
+  {
+    "id": 72,
+    "key": "cost-insurance-guides/comparing-treatment-quotes-from-hospitals-in-china",
+    "title": "怎样比较中国医院的治疗报价",
+    "h1": "比较中国医院治疗报价：先统一方案，再比较价格",
+    "description": "比较中国医院报价前，先统一临床范围、医院资源、备用情景、服务渠道和患者支付责任。",
+    "subtitle": "把不同临床建议整理成可比较矩阵，不把范围更小、缺少备用方案或不同服务渠道误认为“更划算”。",
+    "lead": null
+  },
+  {
+    "id": 73,
+    "key": "cost-insurance-guides/direct-billing-vs-pay-and-claim-at-chinese-hospitals",
+    "title": "中国医院保险结算：直付与先付后报比较",
+    "h1": "中国医院保险结算：直付与先付后报比较",
+    "description": "从垫资、机构选择、担保函、理赔文件、失败切换和重复付款控制，比较中国医院直付与先付后报。",
+    "subtitle": "从垫资、机构选择、担保函、理赔文件、失败切换和重复付款控制，比较中国医院直付与先付后报。",
+    "lead": null
+  },
+  {
+    "id": 74,
+    "key": "cost-insurance-guides/diffuse-large-b-cell-lymphoma-cost-in-china",
+    "title": "弥漫大B细胞淋巴瘤在中国治疗多少钱：按方案索取人民币明细预算",
+    "h1": "弥漫大B细胞淋巴瘤在中国治疗多少钱：按方案索取人民币明细预算",
+    "description": "了解弥漫大B细胞淋巴瘤在中国不同治疗阶段的费用构成。按实际剂量和周期核对病理、用药、放疗、移植或细胞治疗报价，并计入支持治疗与后续照护。",
+    "subtitle": "了解弥漫大B细胞淋巴瘤在中国不同治疗阶段的费用构成。按实际剂量和周期核对病理、用药、放疗、移植或细胞治疗报价，并计入支持治疗与后续照护。",
+    "lead": null
+  },
+  {
+    "id": 75,
+    "key": "cost-insurance-guides/budgeting-for-flights-and-accommodation-during-medical-travel",
+    "title": "赴华医疗机票与住宿预算：把延期和改签算进去",
+    "h1": "赴华医疗的机票与住宿预算：为时间变化留出余地",
+    "description": "按临床日期范围、灵活机票、分阶段住宿、患者与陪同者双线费用，以及延期情景规划赴华医疗出行预算。",
+    "subtitle": "分开计算患者和陪同者，再用延长住宿、改签航班及恢复慢于预期三种情况检验预算。",
+    "lead": null
+  },
+  {
+    "id": 76,
+    "key": "cost-insurance-guides/follicular-lymphoma-cost-in-china",
+    "title": "滤泡性淋巴瘤在中国治疗多少钱？按检查、疗程和后续照护核算",
+    "h1": "滤泡性淋巴瘤在中国治疗多少钱？按检查、疗程和后续照护核算",
+    "description": "按检查、诱导治疗、维持和复发路径核对滤泡性淋巴瘤在中国的费用。了解放疗与细胞治疗报价应涵盖什么，以及如何区分保险支付、研究承担和个人支出。",
+    "subtitle": "按检查、诱导治疗、维持和复发路径核对滤泡性淋巴瘤在中国的费用。了解放疗与细胞治疗报价应涵盖什么，以及如何区分保险支付、研究承担和个人支出。",
+    "lead": null
+  },
+  {
+    "id": 77,
+    "key": "cost-insurance-guides/planning-food-local-transport-and-companion-costs",
+    "title": "赴华医疗餐饮、交通和陪同费用怎么预算",
+    "h1": "赴华医疗的餐饮、当地交通与陪同费用：按“日型”做预算",
+    "description": "按门诊、住院、恢复和突发四种日型，规划赴华医疗的餐饮、门到门交通和陪同者任务与成本。",
+    "subtitle": "用四种真实日型替代统一每日补贴，让预算反映饮食、活动能力、预约强度和陪同者的实际工作。",
+    "lead": null
+  },
+  {
+    "id": 78,
+    "key": "cost-insurance-guides/graft-versus-host-disease-cost-in-china",
+    "title": "在中国治疗GVHD要花多少钱？按病情阶段核对人民币费用",
+    "h1": "在中国治疗GVHD要花多少钱？按病情阶段核对人民币费用",
+    "description": "按急性、慢性及受累器官整理移植物抗宿主病在中国的治疗预算。核对药物、营养支持、体外光疗和持续复诊项目，比较相同病情阶段的报价与支付责任。",
+    "subtitle": "按急性、慢性及受累器官整理移植物抗宿主病在中国的治疗预算。核对药物、营养支持、体外光疗和持续复诊项目，比较相同病情阶段的报价与支付责任。",
+    "lead": null
+  },
+  {
+    "id": 79,
+    "key": "cost-insurance-guides/hodgkin-lymphoma-cost-in-china",
+    "title": "霍奇金淋巴瘤在中国治疗多少钱：怎样取得能比较的人民币报价",
+    "h1": "霍奇金淋巴瘤在中国治疗多少钱：怎样取得能比较的人民币报价",
+    "description": "为霍奇金淋巴瘤在中国就医准备按方案与周期列明的人民币报价。将病理、给药服务、支持治疗、放疗和复发后移植分别核算，核实保险与非医疗支出。",
+    "subtitle": "为霍奇金淋巴瘤在中国就医准备按方案与周期列明的人民币报价。将病理、给药服务、支持治疗、放疗和复发后移植分别核算，核实保险与非医疗支出。",
+    "lead": null
+  },
+  {
+    "id": 80,
+    "key": "cost-insurance-guides/hospital-deposits-final-payments-and-refunds-explained",
+    "title": "中国医院预交金、尾款和退款完整指南",
+    "h1": "中国医院预交金与退款：把每一笔钱追到真正结案",
+    "description": "用付款身份、交易状态、最终结算、红字票据和到账证明，追踪中国医院预交金、补款与退款。",
+    "subtitle": "弄清为什么要交、款项进了哪个账户、何时需要补款，以及怎样证明退款真正完成。",
+    "lead": null
+  },
+  {
+    "id": 81,
+    "key": "cost-insurance-guides/how-to-request-an-itemized-treatment-estimate-in-china",
+    "title": "如何向中国医院索取分项治疗费用估算",
+    "h1": "如何在中国索取分项治疗费用估算",
+    "description": "要求中国医院写明治疗假设、数量、除外项、押金和价格变化条件，以便比较估算并准备保险理赔。",
+    "subtitle": "不要只看页面底部一个漂亮总数，应要求医院写明临床假设、数量、除外项和价格变化条件。",
+    "lead": null
+  },
+  {
+    "id": 82,
+    "key": "cost-insurance-guides/interpreter-and-patient-coordinator-fees-in-china",
+    "title": "中国医疗口译与患者协调费用怎么比较",
+    "h1": "中国医疗口译与患者协调费用：先买对角色，再比较价格",
+    "description": "按角色、资质、起订时长、等候、加班、隐私和利益冲突，比较中国医疗口译、笔译及患者协调费用。",
+    "subtitle": "把口译、书面翻译和病例协调分开，再比较资质、计时规则、交付内容和利益冲突，而不只看小时单价。",
+    "lead": null
+  },
+  {
+    "id": 83,
+    "key": "cost-insurance-guides/medical-tourism-complication-insurance-what-to-review",
+    "title": "赴中国医疗旅行：并发症保险核对指南",
+    "h1": "赴中国医疗旅行：并发症保险核对指南",
+    "description": "核对并发症定义、除外、保障期限、治疗限额、急救付款、医疗转运及回国后延迟照护责任。",
+    "subtitle": "核对并发症定义、除外、保障期限、治疗限额、急救付款、医疗转运及回国后延迟照护责任。",
+    "lead": null
+  },
+  {
+    "id": 84,
+    "key": "cost-insurance-guides/multiple-myeloma-cost-in-china",
+    "title": "多发性骨髓瘤在中国治疗多少钱：怎样取得可比较的分阶段费用估算",
+    "h1": "多发性骨髓瘤在中国治疗多少钱：怎样取得可比较的分阶段费用估算",
+    "description": "按诊断、诱导、移植与维持阶段估算多发性骨髓瘤在中国的费用。核对药物规格、监测、支持治疗及恢复期安排，让不同医院的报价覆盖同一段照护过程。",
+    "subtitle": "按诊断、诱导、移植与维持阶段估算多发性骨髓瘤在中国的费用。核对药物规格、监测、支持治疗及恢复期安排，让不同医院的报价覆盖同一段照护过程。",
+    "lead": null
+  },
+  {
+    "id": 85,
+    "key": "cost-insurance-guides/multiple-sclerosis-cost-in-china",
+    "title": "多发性硬化在中国治疗多少钱：把诊断、长期用药和个人支付分开核算",
+    "h1": "多发性硬化在中国治疗多少钱：把诊断、长期用药和个人支付分开核算",
+    "description": "将多发性硬化在中国的诊断、复发处理、长期用药和康复分别核算。了解药物给药与监测如何影响预算，并核实医保、商业保险及个人实际承担的项目。",
+    "subtitle": "将多发性硬化在中国的诊断、复发处理、长期用药和康复分别核算。了解药物给药与监测如何影响预算，并核实医保、商业保险及个人实际承担的项目。",
+    "lead": null
+  },
+  {
+    "id": 86,
+    "key": "cost-insurance-guides/parkinson-disease-cost-in-china",
+    "title": "帕金森病在中国治疗要多少钱：看懂药物、脑起搏器和长期照护报价",
+    "h1": "帕金森病在中国治疗要多少钱：看懂药物、脑起搏器和长期照护报价",
+    "description": "了解帕金森病在中国用药、脑起搏器和康复照护的费用构成。比较报价时同时核对植入、后续程控、设备维护与长期处方，按具体服务确认保险支付范围。",
+    "subtitle": "了解帕金森病在中国用药、脑起搏器和康复照护的费用构成。比较报价时同时核对植入、后续程控、设备维护与长期处方，按具体服务确认保险支付范围。",
+    "lead": null
+  },
+  {
+    "id": 87,
+    "key": "cost-insurance-guides/currency-cards-and-hospital-payment-methods-in-china",
+    "title": "中国医院付款：银行卡、人民币与银行转账",
+    "h1": "向中国医院付款：建立一条经得住失败的支付路径",
+    "description": "核实中国医院银行卡、钱包、现金和银行转账路径，控制汇兑、患者入账、医疗票据及退款。",
+    "subtitle": "大额医疗付款到期前，核实医院受理、卡与钱包限额、付款人身份、货币转换、票据和退款路径。",
+    "lead": null
+  },
+  {
+    "id": 88,
+    "key": "cost-insurance-guides/preauthorization-for-medical-treatment-in-china",
+    "title": "赴华治疗预授权：从申请、部分批准到方案变更",
+    "h1": "赴华治疗预授权：让保险批准与实际方案逐项对应",
+    "description": "逐项核对赴华治疗、医院、日期和费用与保险书面批准，处理部分批准、付款担保、方案修订和拒绝原因。",
+    "subtitle": "把拟定的赴华治疗方案变成可追踪的书面保险决定，并在日期、项目或医疗机构变化时及时修订。",
+    "lead": null
+  },
+  {
+    "id": 89,
+    "key": "cost-insurance-guides/understanding-hospital-bills-in-china",
+    "title": "看懂中国医院账单：费用明细、票据与退款",
+    "h1": "看懂中国医院账单：从预交金到最终票据",
+    "description": "核对预交金、项目编码、计价单位、临床记录、最终结算、电子票据和退款，读懂中国医院账单。",
+    "subtitle": "分清医嘱、实际执行、计费、付款与退款，不把预交金凭证误当成最终医疗账单。",
+    "lead": null
+  },
+  {
+    "id": 90,
+    "key": "cost-insurance-guides/estimating-recovery-accommodation-after-treatment",
+    "title": "赴华治疗后康复住宿要订多久",
+    "h1": "赴华治疗后的康复住宿：按离院条件估算，不按固定天数",
+    "description": "按出院、非医疗住宿恢复和适合返程三道门槛估算赴华治疗后的住宿，核实房间、支持、路线和延期成本。",
+    "subtitle": "用三道临床门槛替代固定酒店晚数：适合离院、适合在附近恢复，以及适合踏上返程。",
+    "lead": null
+  },
+  {
+    "id": 91,
+    "key": "cost-insurance-guides/sickle-cell-disease-cost-in-china",
+    "title": "镰状细胞病在中国治疗费用：怎样核对输血、药物、移植与长期预算",
+    "h1": "镰状细胞病在中国治疗费用：怎样核对输血、药物、移植与长期预算",
+    "description": "为镰状细胞病在中国就医核对诊断、持续用药、输血和移植的分项费用。将配血、完整输注流程、回国照护与长期监测纳入预算，区分预交金和最终账单。",
+    "subtitle": "为镰状细胞病在中国就医核对诊断、持续用药、输血和移植的分项费用。将配血、完整输注流程、回国照护与长期监测纳入预算，区分预交金和最终账单。",
+    "lead": null
+  },
+  {
+    "id": 92,
+    "key": "cost-insurance-guides/post-ischemic-stroke-rehabilitation-cost-in-china",
+    "title": "脑梗死在中国做康复多少钱：如何核对人民币分项预算",
+    "h1": "脑梗死在中国做康复多少钱：如何核对人民币分项预算",
+    "description": "按功能目标与治疗次数核对脑梗死在中国康复的人民币预算。了解住院、门诊、吞咽支持和照护支出如何计入，并确认治疗时长、收费单位与保险范围。",
+    "subtitle": "按功能目标与治疗次数核对脑梗死在中国康复的人民币预算。了解住院、门诊、吞咽支持和照护支出如何计入，并确认治疗时长、收费单位与保险范围。",
+    "lead": null
+  },
+  {
+    "id": 93,
+    "key": "cost-insurance-guides/how-to-avoid-misleading-medical-tourism-price-claims",
+    "title": "中国医疗旅游价格：如何核实费用宣传",
+    "h1": "中国医疗旅游价格：如何核实费用宣传",
+    "description": "付款前拆解“低至”“节省 70%”“全包”、成功率和快速恢复宣传，并向实际治疗医院重建报价。",
+    "subtitle": "付款前拆解“低至”“节省 70%”“全包”、成功率和快速恢复宣传，并向实际治疗医院重建报价。",
+    "lead": null
+  },
+  {
+    "id": 94,
+    "key": "cost-insurance-guides/drug-resistant-epilepsy-cost-in-china",
+    "title": "难治性癫痫在中国治疗要花多少钱：怎样取得可信的费用估算",
+    "h1": "难治性癫痫在中国治疗要花多少钱：怎样取得可信的费用估算",
+    "description": "为难治性癫痫在中国评估检查、手术或设备治疗的费用，区分视频脑电、深部定位与后续治疗阶段。核对监测安排、设备维护和持续用药，取得可比较的报价。",
+    "subtitle": "为难治性癫痫在中国评估检查、手术或设备治疗的费用，区分视频脑电、深部定位与后续治疗阶段。核对监测安排、设备维护和持续用药，取得可比较的报价。",
+    "lead": null
+  },
+  {
+    "id": 95,
+    "key": "cost-insurance-guides/mantle-cell-lymphoma-cost-in-china",
+    "title": "套细胞淋巴瘤在中国治疗要多少钱？如何取得可比较的人民币分项预算",
+    "h1": "套细胞淋巴瘤在中国治疗要多少钱？如何取得可比较的人民币分项预算",
+    "description": "按治疗阶段整理套细胞淋巴瘤在中国的分项预算，核对免疫化疗、口服靶向药、移植与细胞治疗费用。计入维持、监测和回国支出，并逐项明确研究费用责任。",
+    "subtitle": "按治疗阶段整理套细胞淋巴瘤在中国的分项预算，核对免疫化疗、口服靶向药、移植与细胞治疗费用。计入维持、监测和回国支出，并逐项明确研究费用责任。",
+    "lead": null
+  },
+  {
+    "id": 96,
+    "key": "cost-insurance-guides/t-cell-lymphoma-cost-in-china",
+    "title": "T细胞淋巴瘤在中国治疗多少钱：怎样取得能比较、能更新的费用估算",
+    "h1": "T细胞淋巴瘤在中国治疗多少钱：怎样取得能比较、能更新的费用估算",
+    "description": "了解T细胞淋巴瘤在中国的病理复核、药物、放疗和移植费用如何核算。依据亚型与完整处方比较报价，将支持治疗、国际服务和方案调整预留纳入预算。",
+    "subtitle": "了解T细胞淋巴瘤在中国的病理复核、药物、放疗和移植费用如何核算。依据亚型与完整处方比较报价，将支持治疗、国际服务和方案调整预留纳入预算。",
+    "lead": null
+  },
+  {
+    "id": 97,
+    "key": "cost-insurance-guides/thalassemia-cost-in-china",
+    "title": "地中海贫血在中国治疗要多少钱：按输血、祛铁、移植和后续照护核对预算",
+    "h1": "地中海贫血在中国治疗要多少钱：按输血、祛铁、移植和后续照护核对预算",
+    "description": "按输血、祛铁、器官监测和移植路径核对地中海贫血在中国的治疗预算。了解完整输注流程、药物用量与长期随访如何影响支出，并分别确认保险和个人支付。",
+    "subtitle": "按输血、祛铁、器官监测和移植路径核对地中海贫血在中国的治疗预算。了解完整输注流程、药物用量与长期随访如何影响支出，并分别确认保险和个人支付。",
+    "lead": null
+  },
+  {
+    "id": 98,
+    "key": "cost-insurance-guides/planning-for-unexpected-complications-and-extended-stays",
+    "title": "赴华治疗延期停留：并发症现场运行手册",
+    "h1": "回程日期失效以后：赴华治疗延期停留的现场运行手册",
+    "description": "治疗延期后，同步管理临床升级、用药、病历、中国停留期限、住宿、陪同、付款和返程交接。",
+    "subtitle": "并发症改变计划后，同步管理临床升级、病历、用药、合法停留、住宿、陪同、付款和新的回国路径。",
+    "lead": null
+  },
+  {
+    "id": 99,
+    "key": "cost-insurance-guides/why-a-medical-cost-estimate-may-change-after-evaluation",
+    "title": "到院评估后中国医疗费用估算为什么改变",
+    "h1": "到院评估后中国医疗费用估算为什么改变",
+    "description": "把新检查发现与治疗决定、新增或删除服务、重新知情同意及个人应付相连接，审核新版医疗估算。",
+    "subtitle": "让每一项重要金额变化，都能对应到新证据、治疗决定变化或行政假设更正。",
+    "lead": null
+  },
+  {
+    "id": 100,
+    "key": "cost-insurance-guides/does-international-health-insurance-cover-treatment-in-china",
+    "title": "国际健康保险是否承保在中国的治疗",
+    "h1": "国际健康保险会支付在中国的治疗吗？",
+    "description": "从地域、诊断、治疗、医院、预授权、直付和理赔限额，核实国际保险对计划赴华治疗的保障。",
+    "subtitle": "不能只看保险标志或会员卡，要分别核对保单、治疗方案、医院渠道和付款方式。",
+    "lead": null
+  },
+  {
+    "id": 101,
+    "key": "hospital-guides/diffuse-large-b-cell-lymphoma-hospital-selection",
+    "title": "弥漫大B细胞淋巴瘤在中国如何选医院：按病理、治疗阶段与照护能力筛选",
+    "h1": "弥漫大B细胞淋巴瘤在中国如何选医院：按病理、治疗阶段与照护能力筛选",
+    "description": "按病理复核、初治或复发需求筛选中国弥漫大B细胞淋巴瘤医院。核对细胞治疗毒性管理、放疗协作、感染支持和回国衔接，让中心能力与当前治疗任务匹配。",
+    "subtitle": "按病理复核、初治或复发需求筛选中国弥漫大B细胞淋巴瘤医院。核对细胞治疗毒性管理、放疗协作、感染支持和回国衔接，让中心能力与当前治疗任务匹配。",
+    "lead": null
+  },
+  {
+    "id": 102,
+    "key": "hospital-guides/follicular-lymphoma-hospital-selection",
+    "title": "滤泡性淋巴瘤在中国如何选医院：先确认这次需要解决的问题",
+    "h1": "滤泡性淋巴瘤在中国如何选医院：先确认这次需要解决的问题",
+    "description": "选择中国滤泡性淋巴瘤医院时，先明确病理复核、观察、放疗或复发治疗需求。核对多学科决策、感染支持和全程管理能力，并把报价范围与临床责任一起确认。",
+    "subtitle": "选择中国滤泡性淋巴瘤医院时，先明确病理复核、观察、放疗或复发治疗需求。核对多学科决策、感染支持和全程管理能力，并把报价范围与临床责任一起确认。",
+    "lead": null
+  },
+  {
+    "id": 103,
+    "key": "hospital-guides/graft-versus-host-disease-hospital-selection",
+    "title": "中国GVHD医院怎么选？重点看移植后管理与受累器官的协作能力",
+    "h1": "中国GVHD医院怎么选？重点看移植后管理与受累器官的协作能力",
+    "description": "选择中国移植物抗宿主病医院时，重点核对移植后管理与肺、眼、口腔等专科协作。了解急症分流、新疗法评估及体外光疗流程，明确谁负责整合照护意见。",
+    "subtitle": "选择中国移植物抗宿主病医院时，重点核对移植后管理与肺、眼、口腔等专科协作。了解急症分流、新疗法评估及体外光疗流程，明确谁负责整合照护意见。",
+    "lead": null
+  },
+  {
+    "id": 104,
+    "key": "hospital-guides/hodgkin-lymphoma-hospital-selection",
+    "title": "霍奇金淋巴瘤在中国选哪家医院：按初治、放疗与复发需求核实",
+    "h1": "霍奇金淋巴瘤在中国选哪家医院：按初治、放疗与复发需求核实",
+    "description": "按初治、放疗或复发需求选择中国霍奇金淋巴瘤医院，核对病理复核、影像解释和移植协作。将心肺支持、生育咨询与长期随访纳入比较，确认治疗能否连续执行。",
+    "subtitle": "按初治、放疗或复发需求选择中国霍奇金淋巴瘤医院，核对病理复核、影像解释和移植协作。将心肺支持、生育咨询与长期随访纳入比较，确认治疗能否连续执行。",
+    "lead": null
+  },
+  {
+    "id": 105,
+    "key": "hospital-guides/choosing-a-hospital-in-beijing-specialties-access-and-travel",
+    "title": "中国医院选择：北京专科、院区与行程",
+    "h1": "中国医院选择：北京专科、院区与行程",
+    "description": "国际患者按专科匹配、实际院区、挂号渠道、地理位置、付款和安全返程选择北京医院的实用方法。",
+    "subtitle": "国际患者按专科匹配、实际院区、挂号渠道、地理位置、付款和安全返程选择北京医院的实用方法。",
+    "lead": null
+  },
+  {
+    "id": 106,
+    "key": "hospital-guides/choosing-a-hospital-in-chengdu-specialties-access-and-travel",
+    "title": "中国医院选择：成都院区、交通与恢复",
+    "h1": "中国医院选择：成都院区、交通与恢复",
+    "description": "从病例审阅、医生和院区核验、护照与语言流程，到天府或双流交通、康复半径、急救及后续高原旅行，系统规划成都就医。",
+    "subtitle": "从病例审阅、医生和院区核验、护照与语言流程，到天府或双流交通、康复半径、急救及后续高原旅行，系统规划成都就医。",
+    "lead": null
+  },
+  {
+    "id": 107,
+    "key": "hospital-guides/aplastic-anemia-hospital-selection",
+    "title": "再障在中国看哪家医院：按诊断、药物治疗和移植需求选择",
+    "h1": "再障在中国看哪家医院：按诊断、药物治疗和移植需求选择",
+    "description": "依据诊断复核、免疫抑制治疗或移植需求选择中国再障医院。核对供者路径、输血和感染支持、持续复诊及回国安排，用具体服务能力比较排期与分项报价。",
+    "subtitle": "依据诊断复核、免疫抑制治疗或移植需求选择中国再障医院。核对供者路径、输血和感染支持、持续复诊及回国安排，用具体服务能力比较排期与分项报价。",
+    "lead": null
+  },
+  {
+    "id": 108,
+    "key": "hospital-guides/drug-resistant-epilepsy-hospital-selection",
+    "title": "难治性癫痫如何选择中国医院：把中心能力与自己的问题对上",
+    "h1": "难治性癫痫如何选择中国医院：把中心能力与自己的问题对上",
+    "description": "按发作类型、年龄和诊疗目标选择中国难治性癫痫中心，核对诊断及多学科外科评估能力。了解儿童发育、成人共患病、术后随访和设备维护如何衔接。",
+    "subtitle": "按发作类型、年龄和诊疗目标选择中国难治性癫痫中心，核对诊断及多学科外科评估能力。了解儿童发育、成人共患病、术后随访和设备维护如何衔接。",
+    "lead": null
+  },
+  {
+    "id": 109,
+    "key": "hospital-guides/mantle-cell-lymphoma-hospital-selection",
+    "title": "套细胞淋巴瘤在中国如何选医院？从MCL病理复核到长期治疗衔接",
+    "h1": "套细胞淋巴瘤在中国如何选医院？从MCL病理复核到长期治疗衔接",
+    "description": "选择中国套细胞淋巴瘤医院时，核对病理复核、不同强度治疗及复发管理能力。将药房供药、监测、细胞治疗流程与回国衔接落实到具体安排，避免只看技术名称。",
+    "subtitle": "选择中国套细胞淋巴瘤医院时，核对病理复核、不同强度治疗及复发管理能力。将药房供药、监测、细胞治疗流程与回国衔接落实到具体安排，避免只看技术名称。",
+    "lead": null
+  },
+  {
+    "id": 110,
+    "key": "hospital-guides/multiple-myeloma-hospital-selection",
+    "title": "多发性骨髓瘤去中国哪家医院：按病情阶段核对团队与治疗条件",
+    "h1": "多发性骨髓瘤去中国哪家医院：按病情阶段核对团队与治疗条件",
+    "description": "根据诊断、自体移植或复发治疗需求选择中国多发性骨髓瘤医院。核对细胞治疗、双抗监测、肾脏和骨骼支持能力，并比较有明确范围的费用及国际接诊安排。",
+    "subtitle": "根据诊断、自体移植或复发治疗需求选择中国多发性骨髓瘤医院。核对细胞治疗、双抗监测、肾脏和骨骼支持能力，并比较有明确范围的费用及国际接诊安排。",
+    "lead": null
+  },
+  {
+    "id": 111,
+    "key": "hospital-guides/multiple-sclerosis-hospital-selection",
+    "title": "多发性硬化来中国如何选医院：看神经免疫团队能否接住整个治疗过程",
+    "h1": "多发性硬化来中国如何选医院：看神经免疫团队能否接住整个治疗过程",
+    "description": "选择中国多发性硬化医院时，核对神经免疫团队的鉴别诊断、影像比较与用药监测能力。了解急性复发、康复及长期门诊如何衔接，明确回国后的照护责任。",
+    "subtitle": "选择中国多发性硬化医院时，核对神经免疫团队的鉴别诊断、影像比较与用药监测能力。了解急性复发、康复及长期门诊如何衔接，明确回国后的照护责任。",
+    "lead": null
+  },
+  {
+    "id": 112,
+    "key": "hospital-guides/sickle-cell-disease-hospital-selection",
+    "title": "镰状细胞病在中国怎么选医院：从专科经验、配血能力到长期照护",
+    "h1": "镰状细胞病在中国怎么选医院：从专科经验、配血能力到长期照护",
+    "description": "为镰状细胞病选择中国医院，重点核对专科经验、配血与急诊处理能力。结合长期用药、器官监测或移植需求确认服务，并在出行前落实沟通和后续照护安排。",
+    "subtitle": "为镰状细胞病选择中国医院，重点核对专科经验、配血与急诊处理能力。结合长期用药、器官监测或移植需求确认服务，并在出行前落实沟通和后续照护安排。",
+    "lead": null
+  },
+  {
+    "id": 113,
+    "key": "hospital-guides/t-cell-lymphoma-hospital-selection",
+    "title": "T细胞淋巴瘤在中国怎么选医院：把亚型经验、病理能力和接续照护问具体",
+    "h1": "T细胞淋巴瘤在中国怎么选医院：把亚型经验、病理能力和接续照护问具体",
+    "description": "按病理亚型与治疗阶段选择中国T细胞淋巴瘤医院，核对病理复核、皮肤专科、移植或儿童诊疗经验。明确多学科意见、药房核实和后续接诊责任，让会诊建议能够执行。",
+    "subtitle": "按病理亚型与治疗阶段选择中国T细胞淋巴瘤医院，核对病理复核、皮肤专科、移植或儿童诊疗经验。明确多学科意见、药房核实和后续接诊责任，让会诊建议能够执行。",
+    "lead": null
+  },
+  {
+    "id": 114,
+    "key": "hospital-guides/choosing-a-hospital-in-guangzhou-specialties-access-and-travel",
+    "title": "中国医院选择：广州院区与就医交通",
+    "h1": "中国医院选择：广州院区与就医交通",
+    "description": "从团队、院区、护照建档、急救后备、白云机场或高铁、跨境风险及出院交接规划广州就医。",
+    "subtitle": "从团队、院区、护照建档、急救后备、白云机场或高铁、跨境风险及出院交接规划广州就医。",
+    "lead": null
+  },
+  {
+    "id": 115,
+    "key": "hospital-guides/choosing-a-hospital-in-hainan-specialties-access-and-recovery",
+    "title": "中国医院选择：海南就医与乐城准入",
+    "h1": "中国医院选择：海南就医与乐城准入",
+    "description": "从城市和院区、常规批准与乐城特许及研究区别，到海岛交通、急救升级、费用和可量化康复，系统核实海南就医方案。",
+    "subtitle": "从城市和院区、常规批准与乐城特许及研究区别，到海岛交通、急救升级、费用和可量化康复，系统核实海南就医方案。",
+    "lead": null
+  },
+  {
+    "id": 116,
+    "key": "hospital-guides/choosing-a-hospital-in-hangzhou-specialties-access-and-travel",
+    "title": "中国医院选择：杭州预约、院区与行程",
+    "h1": "中国医院选择：杭州预约、院区与行程",
+    "description": "用三级证明和一次真实演练核实杭州医院的病例接收、实际院区、护照系统、国际服务、交通、急救和随访责任。",
+    "subtitle": "用三级证明和一次真实演练核实杭州医院的病例接收、实际院区、护照系统、国际服务、交通、急救和随访责任。",
+    "lead": null
+  },
+  {
+    "id": 117,
+    "key": "hospital-guides/choosing-a-hospital-in-nanjing-specialties-access-and-travel",
+    "title": "中国医院选择：南京护照预约与院区交通",
+    "h1": "中国医院选择：南京护照预约与院区交通",
+    "description": "通过临床依赖图核验南京医院的院区、12320 护照预约、医疗口译、过江路线、现有交通入口、急救和出院责任。",
+    "subtitle": "通过临床依赖图核验南京医院的院区、12320 护照预约、医疗口译、过江路线、现有交通入口、急救和出院责任。",
+    "lead": null
+  },
+  {
+    "id": 118,
+    "key": "hospital-guides/choosing-a-hospital-in-shanghai-specialties-access-and-travel",
+    "title": "中国医院选择：上海就诊路径、院区与交通",
+    "h1": "中国医院选择：上海就诊路径、院区与交通",
+    "description": "从专科团队、实际院区、国际服务、护照身份、保险付款、两场交通和出院交接规划上海就医路径。",
+    "subtitle": "从专科团队、实际院区、国际服务、护照身份、保险付款、两场交通和出院交接规划上海就医路径。",
+    "lead": null
+  },
+  {
+    "id": 119,
+    "key": "hospital-guides/choosing-a-hospital-in-shenzhen-specialties-access-and-travel",
+    "title": "中国医院选择：深圳诊疗匹配与跨境衔接",
+    "h1": "中国医院选择：深圳诊疗匹配与跨境衔接",
+    "description": "从临床责任、法定院区、护照建档、病历数据、深港政策边界、入城交通、急救后备和出院交接八方面选择深圳医院。",
+    "subtitle": "从临床责任、法定院区、护照建档、病历数据、深港政策边界、入城交通、急救后备和出院交接八方面选择深圳医院。",
+    "lead": null
+  },
+  {
+    "id": 120,
+    "key": "hospital-guides/choosing-a-hospital-in-tianjin-specialties-access-and-travel",
+    "title": "中国医院选择：天津院区、交通与北京转诊",
+    "h1": "中国医院选择：天津院区、交通与北京转诊",
+    "description": "从专科团队、实际院区、康复驻点、北京转诊边界、护照渠道、交通、急救后备和出院责任八方面选择天津医院。",
+    "subtitle": "从专科团队、实际院区、康复驻点、北京转诊边界、护照渠道、交通、急救后备和出院责任八方面选择天津医院。",
+    "lead": null
+  },
+  {
+    "id": 121,
+    "key": "hospital-guides/choosing-a-hospital-in-wuhan-specialties-access-and-travel",
+    "title": "中国医院选择：武汉院区、车站与就诊时间",
+    "h1": "中国医院选择：武汉院区、车站与就诊时间",
+    "description": "同时管理临床、标本、通行和康复时间，核实武汉具体院区、三镇地理、机场铁路、语言、保险及急诊路径。",
+    "subtitle": "同时管理临床、标本、通行和康复时间，核实武汉具体院区、三镇地理、机场铁路、语言、保险及急诊路径。",
+    "lead": null
+  },
+  {
+    "id": 122,
+    "key": "hospital-guides/parkinson-disease-hospital-selection",
+    "title": "帕金森病去中国哪家医院：从诊断、手术能力和回国支持选择团队",
+    "h1": "帕金森病去中国哪家医院：从诊断、手术能力和回国支持选择团队",
+    "description": "选择中国帕金森病医院时，核对运动障碍诊断、脑起搏器评估与程控能力。将非运动症状、吞咽康复和回国后的设备支持纳入比较，明确治疗后由谁持续负责。",
+    "subtitle": "选择中国帕金森病医院时，核对运动障碍诊断、脑起搏器评估与程控能力。将非运动症状、吞咽康复和回国后的设备支持纳入比较，明确治疗后由谁持续负责。",
+    "lead": null
+  },
+  {
+    "id": 123,
+    "key": "hospital-guides/post-ischemic-stroke-rehabilitation-hospital-selection",
+    "title": "脑梗死康复在中国如何选医院：按功能需求核对团队与服务",
+    "h1": "脑梗死康复在中国如何选医院：按功能需求核对团队与服务",
+    "description": "根据手功能、步行、言语、吞咽和认知需求选择中国脑梗死康复医院。核对医学支持、多学科目标与照护者教学，了解如何用生活任务和功能变化评价服务。",
+    "subtitle": "根据手功能、步行、言语、吞咽和认知需求选择中国脑梗死康复医院。核对医学支持、多学科目标与照护者教学，了解如何用生活任务和功能变化评价服务。",
+    "lead": null
+  },
+  {
+    "id": 124,
+    "key": "hospital-guides/thalassemia-hospital-selection",
+    "title": "地中海贫血在中国选哪家医院：从接诊任务判断中心是否适合",
+    "h1": "地中海贫血在中国选哪家医院：从接诊任务判断中心是否适合",
+    "description": "按规律输血、器官铁监测、移植或生育咨询需求选择中国地中海贫血医院。核对儿童与成人团队的能力、资料预审和回国衔接，避免只凭中心名称判断是否适合。",
+    "subtitle": "按规律输血、器官铁监测、移植或生育咨询需求选择中国地中海贫血医院。核对儿童与成人团队的能力、资料预审和回国衔接，避免只凭中心名称判断是否适合。",
+    "lead": null
+  },
+  {
+    "id": 125,
+    "key": "hospital-guides/alzheimer-disease-hospital-selection",
+    "title": "阿尔茨海默病在中国如何选医院：记忆门诊、抗体治疗与照护支持",
+    "h1": "阿尔茨海默病在中国如何选医院：记忆门诊、抗体治疗与照护支持",
+    "description": "选择中国阿尔茨海默病医院时，先明确诊断复核、抗体评估或行为照护需求。核对记忆门诊、影像监测与多学科支持，将日常生活功能和照护者困难纳入会诊。",
+    "subtitle": "选择中国阿尔茨海默病医院时，先明确诊断复核、抗体评估或行为照护需求。核对记忆门诊、影像监测与多学科支持，将日常生活功能和照护者困难纳入会诊。",
+    "lead": null
+  },
+  {
+    "id": 126,
+    "key": "hospital-guides/discharge-coordination-and-overseas-follow-up-from-a-chinese-hospital",
+    "title": "中国医院出院：如何安排境外随访",
+    "h1": "中国医院出院：如何安排境外随访",
+    "description": "通过药物核对、源病历、待出结果责任、旅行评估和回国医生确认，安全完成中国医院跨境出院。",
+    "subtitle": "通过药物核对、源病历、待出结果责任、旅行评估和回国医生确认，安全完成中国医院跨境出院。",
+    "lead": null
+  },
+  {
+    "id": 127,
+    "key": "hospital-guides/hospital-insurance-billing-and-payment-support-for-foreign-patients",
+    "title": "中国医院外国患者保险、直付、押金和票据",
+    "h1": "中国医院外国患者保险、账单与付款支持：核对三本账",
+    "description": "通过核对医院收费、保险授权和患者付款，管理中国医院直付、押金、费用明细、正式票据与理赔资料。",
+    "subtitle": "医院临床收费账、保险授权账和患者现金账必须逐项核对。",
+    "lead": null
+  },
+  {
+    "id": 128,
+    "key": "hospital-guides/hospital-quality-signals-international-patients-should-review",
+    "title": "中国医院质量：国际患者应核查哪些信息",
+    "h1": "中国医院质量：国际患者应核查哪些信息",
+    "description": "从团队匹配、结果口径、并发症救治、安全系统、病历与跨境随访判断中国医院质量的实用方法。",
+    "subtitle": "从团队匹配、结果口径、并发症救治、安全系统、病历与跨境随访判断中国医院质量的实用方法。",
+    "lead": null
+  },
+  {
+    "id": 129,
+    "key": "hospital-guides/how-to-choose-a-cancer-hospital-in-china",
+    "title": "怎样选择中国肿瘤医院：完整治疗链审核",
+    "h1": "怎样选择中国肿瘤医院：审核整条治疗链，而不是只看排名",
+    "description": "从病理、分期、MDT、手术、药物、放疗和质量指标，到急救、临床试验、费用与跨境随访，审核中国肿瘤中心完整能力链。",
+    "subtitle": "把癌种、分期、治疗顺序、安全后备与跨境交接落实到一个有责任人的团队，而不是医院标签或单一榜单。",
+    "lead": null
+  },
+  {
+    "id": 130,
+    "key": "hospital-guides/how-to-choose-a-fertility-center-in-china",
+    "title": "怎样选择中国生殖中心：IVF 实验室、成功率与费用",
+    "h1": "怎样选择中国生殖中心：先看成功率的分母",
+    "description": "核实中国生殖中心获批技术和适用资格，比较 IVF 实验室身份链、可比活产数据、附加项目、完整费用与跨境随访。",
+    "subtitle": "先核实法律/伦理条件和机构获批技术，再比较临床团队、胚胎实验室、真实结局、安全、费用和跨境交接。",
+    "lead": null
+  },
+  {
+    "id": 131,
+    "key": "hospital-guides/how-to-choose-a-heart-hospital-or-cardiology-center-in-china",
+    "title": "怎样选择中国心脏医院：团队、救治与质量",
+    "h1": "怎样选择中国心脏医院或心脏中心：先看凌晨两点从哪扇门进去",
+    "description": "按心脏路径选择中国心脏中心，核实团队和 24 小时救治，比较方案与质量数据，并取得植入物、康复和回国随访记录。",
+    "subtitle": "先匹配患者真正需要的心脏路径，再核实背后的团队、质量、救治系统、植入物记录与随访。",
+    "lead": null
+  },
+  {
+    "id": 132,
+    "key": "hospital-guides/how-to-choose-a-hospital-in-china-a-guide-for-international-patients",
+    "title": "国际患者如何选择中国医院：核实与比较方法",
+    "h1": "如何选择中国医院：国际患者指南",
+    "description": "核实中国医院和科室，匹配具体医生，并比较临床支持、语言、费用、并发症处理和回国随访。",
+    "subtitle": "先明确需要解决的临床问题，再核实科室、具体医生和病例所需的支持系统。",
+    "lead": null
+  },
+  {
+    "id": 133,
+    "key": "hospital-guides/how-to-choose-a-rehabilitation-hospital-in-china",
+    "title": "怎样选择中国康复医院：全天护理、功能与出院",
+    "h1": "怎样选择中国康复医院：跟着患者过完整的一天",
+    "description": "按病种能力、可测功能、全天康复护理、实际课时、安全、家属训练和出院交接比较中国康复医院。",
+    "subtitle": "治疗表只覆盖几小时；更安全的比较要追踪全天功能、护理、沟通、并发症、家属实操和出院。",
+    "lead": null
+  },
+  {
+    "id": 134,
+    "key": "hospital-guides/how-to-choose-an-orthopedic-or-spine-hospital-in-china",
+    "title": "怎样选择中国骨科或脊柱医院：功能、团队与康复",
+    "h1": "怎样选择中国骨科或脊柱医院：先看功能，再看植入物",
+    "description": "按诊断与功能目标选择中国骨科或脊柱中心，核实团队和院区，比较结局与植入物，并提前安排康复和返程。",
+    "subtitle": "先说清失去了什么功能，再验证诊断能否解释它，最后才比较团队、手术、植入物、康复与随访。",
+    "lead": null
+  },
+  {
+    "id": 135,
+    "key": "hospital-guides/how-to-compare-hospital-second-opinions-in-china",
+    "title": "怎样比较中国医院的不同第二诊疗意见",
+    "h1": "怎样比较中国医院给出的不同第二诊疗意见",
+    "description": "用同一病历、推理矩阵、绝对风险、针对性裁决、能力核验和跨境可执行性比较中国医院意见。",
+    "subtitle": "让不同意见基于同一套证据，把事实与偏好分开，再解决真正会改变治疗的分歧。",
+    "lead": null
+  },
+  {
+    "id": 136,
+    "key": "hospital-guides/how-to-verify-a-hospital-department-and-doctor-in-china",
+    "title": "如何核实中国医院、科室与医生资质",
+    "h1": "如何核实中国医院、科室与医生资质",
+    "description": "核实中国医院许可和院区、科室范围、医师注册与任职、手术授权、病历审阅、付款和官方沟通渠道。",
+    "subtitle": "核实中国医院许可和院区、科室范围、医师注册与任职、手术授权、病历审阅、付款和官方沟通渠道。",
+    "lead": null
+  },
+  {
+    "id": 137,
+    "key": "hospital-guides/international-patient-admission-services-in-chinese-hospitals",
+    "title": "中国医院国际患者入院：临床、床位、身份与付款",
+    "h1": "中国医院国际患者入院服务：登机前拿到四项确认",
+    "description": "通过临床接收、院区床位、护照实名和付款责任四项确认，规划中国医院国际患者入院、口译、病历与出院交接。",
+    "subtitle": "临床接收、正确院区的床位、可用的实名病历和有效付款路径，是四个彼此独立的决定。",
+    "lead": null
+  },
+  {
+    "id": 138,
+    "key": "hospital-guides/language-support-and-english-medical-records-at-chinese-hospitals",
+    "title": "中国医院语言支持与英文病历获取",
+    "h1": "中国医院语言支持与英文病历获取",
+    "description": "核实中国医院医学口译、中文源病历和临床复核英文交接，包括同意、用药、DICOM、隐私与纠错。",
+    "subtitle": "核实中国医院医学口译、中文源病历和临床复核英文交接，包括同意、用药、DICOM、隐私与纠错。",
+    "lead": null
+  },
+  {
+    "id": 139,
+    "key": "hospital-guides/private-rooms-vip-wards-and-international-clinics-explained",
+    "title": "中国医院单人房、VIP 病区与国际门诊怎么比较",
+    "h1": "中国医院单人病房、VIP 病区与国际门诊：不要把舒适当成能力",
+    "description": "从物理空间、服务渠道、临床能力、护理、急救、价格与保险比较中国医院单人房、VIP 病区和国际门诊。",
+    "subtitle": "单人房是物理空间，VIP/特需病区是服务与收费渠道，国际门诊是就医入口；三者都不会自动增加专科救治能力。",
+    "lead": null
+  },
+  {
+    "id": 140,
+    "key": "hospital-guides/what-makes-a-strong-international-medical-department",
+    "title": "中国医院国际医疗部：患者应核查什么",
+    "h1": "中国医院国际医疗部：患者应核查什么",
+    "description": "从临床责任、医疗口译、病历、紧急升级、用药安全、费用、隐私和出院交接评价国际患者服务。",
+    "subtitle": "从临床责任、医疗口译、病历、紧急升级、用药安全、费用、隐私和出院交接评价国际患者服务。",
+    "lead": null
+  },
+  {
+    "id": 141,
+    "key": "patient-education-faq/parkinson-disease-patient-faq",
+    "title": "帕金森病治疗20问：药物、脑起搏器、新疗法与赴华就医",
+    "h1": "帕金森病治疗20问：药物、脑起搏器、新疗法与赴华就医",
+    "description": "通过常见问答理解帕金森病诊断、左旋多巴、药效波动和脑起搏器的治疗边界。了解咨询新疗法及赴中国就医时应准备的资料、随访问题与长期照护安排。",
+    "subtitle": "通过常见问答理解帕金森病诊断、左旋多巴、药效波动和脑起搏器的治疗边界。了解咨询新疗法及赴中国就医时应准备的资料、随访问题与长期照护安排。",
+    "lead": null
+  },
+  {
+    "id": 142,
+    "key": "patient-education-faq/sickle-cell-disease-patient-faq",
+    "title": "镰状细胞病患者20问：从日常用药、输血到基因治疗和中国就医",
+    "h1": "镰状细胞病患者20问：从日常用药、输血到基因治疗和中国就医",
+    "description": "解答镰状细胞病用药、贫血、疼痛危象和输血中的常见疑问，理解基因治疗咨询重点。准备中国就医时，结合既往事件核对急症处理、检查结果和持续照护计划。",
+    "subtitle": "解答镰状细胞病用药、贫血、疼痛危象和输血中的常见疑问，理解基因治疗咨询重点。准备中国就医时，结合既往事件核对急症处理、检查结果和持续照护计划。",
+    "lead": null
+  },
+  {
+    "id": 143,
+    "key": "patient-education-faq/building-a-personal-medical-travel-safety-plan",
+    "title": "赴中国就医：个人安全与应急备用计划",
+    "h1": "赴中国就医：个人安全与应急备用计划",
+    "description": "制作医疗出行风险表、决策闸门、急救联系人、病历、药物预案、保险和康复后备路径。",
+    "subtitle": "制作医疗出行风险表、决策闸门、急救联系人、病历、药物预案、保险和康复后备路径。",
+    "lead": "赴中国就医前，应约定诊断发生变化、出院延迟或出现紧急症状时由谁处理。本指南帮助患者把医院联系方式、药物、病历和备用旅行安排整理成患者与陪同者真正能够使用的计划。"
+  },
+  {
+    "id": 144,
+    "key": "patient-education-faq/postoperative-warning-signs-that-need-urgent-assessment",
+    "title": "在中国术后出现警示症状：拨打 120 还是联系医生",
+    "h1": "在中国术后出现警示症状：拨打 120 还是联系医生",
+    "description": "分流术后呼吸困难、出血、伤口变化、发热、呕吐、腿肿和引流问题，帮助异地恢复患者及时求助。",
+    "subtitle": "分流术后呼吸困难、出血、伤口变化、发热、呕吐、腿肿和引流问题，帮助异地恢复患者及时求助。",
+    "lead": null
+  },
+  {
+    "id": 145,
+    "key": "patient-education-faq/alzheimer-disease-outcomes-prognosis",
+    "title": "阿尔茨海默病预后：在中国评估时应问什么",
+    "h1": "阿尔茨海默病预后：在中国评估时应问什么",
+    "description": "理解阿尔茨海默病预后中的认知变化、独立生活能力与安全需求，避免将生存统计当作个人期限。赴中国评估时，讨论治疗净获益、突然恶化的原因及照护规划。",
+    "subtitle": "理解阿尔茨海默病预后中的认知变化、独立生活能力与安全需求，避免将生存统计当作个人期限。赴中国评估时，讨论治疗净获益、突然恶化的原因及照护规划。",
+    "lead": null
+  },
+  {
+    "id": 146,
+    "key": "patient-education-faq/alzheimer-disease-types-and-risk",
+    "title": "阿尔茨海默病分期与风险：赴中国就医前的理解要点",
+    "h1": "阿尔茨海默病分期与风险：赴中国就医前的理解要点",
+    "description": "区分阿尔茨海默病早发、早期、轻度认知障碍与生物学分期，了解生活能力和并存病变如何影响判断。赴中国就医前，分别梳理进展风险、治疗风险与照护需求。",
+    "subtitle": "区分阿尔茨海默病早发、早期、轻度认知障碍与生物学分期，了解生活能力和并存病变如何影响判断。赴中国就医前，分别梳理进展风险、治疗风险与照护需求。",
+    "lead": null
+  },
+  {
+    "id": 147,
+    "key": "patient-education-faq/antibiotics-why-they-are-not-needed-for-every-infection",
+    "title": "在中国就医如何判断抗生素需求：向医生提问的要点",
+    "h1": "在中国就医如何判断抗生素需求：向医生提问的要点",
+    "description": "发热或黄绿色鼻涕为何不能确认细菌感染？本文说明何时应紧急用抗菌药，以及培养、复评时间和感染源控制如何决定治疗。",
+    "subtitle": "发热或黄绿色鼻涕为何不能确认细菌感染？本文说明何时应紧急用抗菌药，以及培养、复评时间和感染源控制如何决定治疗。",
+    "lead": null
+  },
+  {
+    "id": 148,
+    "key": "patient-education-faq/aplastic-anemia-outcomes-prognosis",
+    "title": "再生障碍性贫血预后：在中国就医时应问什么",
+    "h1": "再生障碍性贫血预后：在中国就医时应问什么",
+    "description": "了解再生障碍性贫血预后中生存、造血恢复、输血依赖与长期生活的不同含义。赴中国会诊时，结合初诊风险、免疫抑制或移植反应，讨论复查与后续规划。",
+    "subtitle": "了解再生障碍性贫血预后中生存、造血恢复、输血依赖与长期生活的不同含义。赴中国会诊时，结合初诊风险、免疫抑制或移植反应，讨论复查与后续规划。",
+    "lead": null
+  },
+  {
+    "id": 149,
+    "key": "patient-education-faq/aplastic-anemia-types-and-risk",
+    "title": "再生障碍性贫血严重程度：赴中国评估前的准备",
+    "h1": "再生障碍性贫血严重程度：赴中国评估前的准备",
+    "description": "理解再生障碍性贫血获得性与遗传性分类、严重程度及相关克隆检查的含义。赴中国评估前，整理血细胞变化和既往治疗，分别讨论疾病风险与治疗耐受性。",
+    "subtitle": "理解再生障碍性贫血获得性与遗传性分类、严重程度及相关克隆检查的含义。赴中国评估前，整理血细胞变化和既往治疗，分别讨论疾病风险与治疗耐受性。",
+    "lead": null
+  },
+  {
+    "id": 150,
+    "key": "patient-education-faq/questions-to-ask-before-accepting-a-treatment-plan-abroad",
+    "title": "在中国接受治疗前：核实治疗方案的关键问题",
+    "h1": "在中国接受治疗前：核实治疗方案的关键问题",
+    "description": "从诊断、替代方案、结局数据和个体风险，核查到医生责任、费用边界、并发症与回国随访。",
+    "subtitle": "从诊断、替代方案、结局数据和个体风险，核查到医生责任、费用边界、并发症与回国随访。",
+    "lead": "如果正在考虑中国医院提出的治疗方案，请在接受报价或安排旅行前使用这些问题。临床解释、替代选择、明确的治疗团队以及并发症处理安排，都应清楚到足以与居住地医生讨论。"
+  },
+  {
+    "id": 151,
+    "key": "patient-education-faq/understanding-benefits-risks-and-alternatives-in-plain-language",
+    "title": "收益、风险与替代方案：看懂医疗数字",
+    "h1": "收益、风险与替代方案：怎样让医疗数字真正有意义",
+    "description": "用绝对风险、同口径比较、患者相关结局、不确定性和复述确认，真正理解医疗方案的收益与伤害。",
+    "subtitle": "用绝对风险、同口径选项、患者相关结局、不确定性和复述确认，把专业说明还原成可理解的决定。",
+    "lead": null
+  },
+  {
+    "id": 152,
+    "key": "patient-education-faq/blood-tests-before-treatment-common-questions-answered",
+    "title": "中国就医血液检查：空腹、复查与结果解读",
+    "h1": "中国就医血液检查：空腹、复查与结果解读",
+    "description": "解释血常规、生化和凝血检查，空腹与用药、境外报告复用、标本重抽，以及异常值如何改变治疗决定。",
+    "subtitle": "解释血常规、生化和凝血检查，空腹与用药、境外报告复用、标本重抽，以及异常值如何改变治疗决定。",
+    "lead": null
+  },
+  {
+    "id": 153,
+    "key": "patient-education-faq/blood-transfusion-safety-consent-testing-and-alternatives",
+    "title": "中国输血就医：知情同意、配血与安全",
+    "h1": "中国输血就医：知情同意、配血与安全",
+    "description": "了解红细胞、血小板和血浆的用途，输血指征、知情同意、血型与交叉配血、输血反应警示及患者血液管理替代方案。",
+    "subtitle": "了解红细胞、血小板和血浆的用途，输血指征、知情同意、血型与交叉配血、输血反应警示及患者血液管理替代方案。",
+    "lead": null
+  },
+  {
+    "id": 154,
+    "key": "patient-education-faq/blood-clot-prevention-during-and-after-medical-travel",
+    "title": "赴中国就医与手术：血栓预防要点",
+    "h1": "赴中国就医与手术：血栓预防要点",
+    "description": "将术后 DVT/肺栓塞预防与长途飞行和转运连接起来，了解风险评估、走动、弹力袜、抗凝药、适航条件和急症信号。",
+    "subtitle": "将术后 DVT/肺栓塞预防与长途飞行和转运连接起来，了解风险评估、走动、弹力袜、抗凝药、适航条件和急症信号。",
+    "lead": null
+  },
+  {
+    "id": 155,
+    "key": "patient-education-faq/diffuse-large-b-cell-lymphoma-outcomes-prognosis",
+    "title": "弥漫大B细胞淋巴瘤缓解与预后：中国就医咨询要点",
+    "h1": "弥漫大B细胞淋巴瘤缓解与预后：中国就医咨询要点",
+    "description": "区分弥漫大B细胞淋巴瘤完全缓解、治愈与不同生存指标，理解分期、病理和治疗反应的作用。赴中国咨询预后时，结合个人资料讨论复发风险与长期健康管理。",
+    "subtitle": "区分弥漫大B细胞淋巴瘤完全缓解、治愈与不同生存指标，理解分期、病理和治疗反应的作用。赴中国咨询预后时，结合个人资料讨论复发风险与长期健康管理。",
+    "lead": null
+  },
+  {
+    "id": 156,
+    "key": "patient-education-faq/hodgkin-lymphoma-outcomes-prognosis",
+    "title": "霍奇金淋巴瘤预后：在中国就医时应问什么",
+    "h1": "霍奇金淋巴瘤预后：在中国就医时应问什么",
+    "description": "理解霍奇金淋巴瘤分期、缓解、残余肿块与生存统计的不同意义。赴中国会诊时，结合实际治疗反应讨论复发风险、生育和长期恢复，避免把群体数据当作个人期限。",
+    "subtitle": "理解霍奇金淋巴瘤分期、缓解、残余肿块与生存统计的不同意义。赴中国会诊时，结合实际治疗反应讨论复发风险、生育和长期恢复，避免把群体数据当作个人期限。",
+    "lead": null
+  },
+  {
+    "id": 157,
+    "key": "patient-education-faq/chest-pain-while-traveling-why-immediate-local-care-matters",
+    "title": "在中国旅行时胸痛：及时寻求急救",
+    "h1": "在中国旅行时胸痛：及时寻求急救",
+    "description": "中断行程、呼叫当地急救、不要自行驾车，并了解为什么登机或去远处医院前必须先评估胸痛。",
+    "subtitle": "中断行程、呼叫当地急救、不要自行驾车，并了解为什么登机或去远处医院前必须先评估胸痛。",
+    "lead": null
+  },
+  {
+    "id": 158,
+    "key": "patient-education-faq/drug-resistant-epilepsy-types-and-risk",
+    "title": "难治性癫痫分型与风险：在中国如何进行评估",
+    "h1": "难治性癫痫分型与风险：在中国如何进行评估",
+    "description": "了解难治性癫痫如何按发作、类型、综合征和病因进行评估，而非套用肿瘤分期。赴中国会诊时，整理发作后果、认知变化与持续状态风险，明确个体照护重点。",
+    "subtitle": "了解难治性癫痫如何按发作、类型、综合征和病因进行评估，而非套用肿瘤分期。赴中国会诊时，整理发作后果、认知变化与持续状态风险，明确个体照护重点。",
+    "lead": null
+  },
+  {
+    "id": 159,
+    "key": "patient-education-faq/ct-scans-radiation-contrast-and-what-to-expect",
+    "title": "在中国做 CT：辐射、含碘对比剂与检查准备",
+    "h1": "在中国做 CT：先确认辐射、含碘对比剂和准确扫描方案",
+    "description": "确认 CT 范围与期相，理解剂量、含碘对比剂、肾功能与二甲双胍、妊娠筛查和 DICOM 获取。",
+    "subtitle": "从扫描范围和期相、剂量问题、肾功能与过敏筛查，到妊娠告知、注射体验和可携带结果。",
+    "lead": null
+  },
+  {
+    "id": 160,
+    "key": "patient-education-faq/aplastic-anemia-diagnosis-tests",
+    "title": "中国再生障碍性贫血诊断：检查与就诊准备",
+    "h1": "中国再生障碍性贫血诊断：检查与就诊准备",
+    "description": "了解在中国确诊再生障碍性贫血时血常规、骨髓穿刺与活检的作用，及如何排除相似疾病。准备克隆和遗传性骨髓衰竭相关资料，帮助血液科形成完整判断。",
+    "subtitle": "了解在中国确诊再生障碍性贫血时血常规、骨髓穿刺与活检的作用，及如何排除相似疾病。准备克隆和遗传性骨髓衰竭相关资料，帮助血液科形成完整判断。",
+    "lead": null
+  },
+  {
+    "id": 161,
+    "key": "patient-education-faq/diffuse-large-b-cell-lymphoma-patient-faq",
+    "title": "弥漫大B细胞淋巴瘤患者常见问题：治疗、复发与中国就医20问",
+    "h1": "弥漫大B细胞淋巴瘤患者常见问题：治疗、复发与中国就医20问",
+    "description": "通过二十个问题理解弥漫大B细胞淋巴瘤病理、分期、一线方案与复发治疗。准备赴中国会诊所需的实际药名、剂量和日期，并了解疗效复查及需要及时就医的情况。",
+    "subtitle": "通过二十个问题理解弥漫大B细胞淋巴瘤病理、分期、一线方案与复发治疗。准备赴中国会诊所需的实际药名、剂量和日期，并了解疗效复查及需要及时就医的情况。",
+    "lead": null
+  },
+  {
+    "id": 162,
+    "key": "patient-education-faq/diffuse-large-b-cell-lymphoma-types-and-risk",
+    "title": "弥漫大B细胞淋巴瘤分型与风险：赴中国会诊准备",
+    "h1": "弥漫大B细胞淋巴瘤分型与风险：赴中国会诊准备",
+    "description": "梳理弥漫大B细胞淋巴瘤病理亚型、遗传特征、结外分布和风险评分的作用。赴中国会诊前，分别整理疾病复发风险与治疗耐受性资料，理解方案为何因人而异。",
+    "subtitle": "梳理弥漫大B细胞淋巴瘤病理亚型、遗传特征、结外分布和风险评分的作用。赴中国会诊前，分别整理疾病复发风险与治疗耐受性资料，理解方案为何因人而异。",
+    "lead": null
+  },
+  {
+    "id": 163,
+    "key": "patient-education-faq/how-family-caregivers-can-support-an-international-patient",
+    "title": "在中国接受治疗：家属陪护与照护安排",
+    "h1": "在中国接受治疗：家属陪护与照护安排",
+    "description": "明确家属陪护的授权、资料、床旁观察、出院技能、用药核对、责任边界、后备人员与自我照护。",
+    "subtitle": "明确家属陪护的授权、资料、床旁观察、出院技能、用药核对、责任边界、后备人员与自我照护。",
+    "lead": "家属陪同患者赴中国治疗时，应在出发前明确照护者的责任。预约、语言支持、药物、床旁观察和回国交接需要可执行的任务分工，临床决策仍由治疗团队负责。"
+  },
+  {
+    "id": 164,
+    "key": "patient-education-faq/fever-before-or-after-treatment-when-to-contact-a-clinician",
+    "title": "在中国治疗后发热：何时需要紧急就医",
+    "h1": "在中国治疗后发热：何时需要紧急就医",
+    "description": "了解化疗、手术、输液或输血后发热的联系阈值、急症红旗、报告方法和跨境就医路径。",
+    "subtitle": "了解化疗、手术、输液或输血后发热的联系阈值、急症红旗、报告方法和跨境就医路径。",
+    "lead": null
+  },
+  {
+    "id": 165,
+    "key": "patient-education-faq/follicular-lymphoma-outcomes-prognosis",
+    "title": "滤泡性淋巴瘤预后：在中国会诊时需要问什么",
+    "h1": "滤泡性淋巴瘤预后：在中国会诊时需要问什么",
+    "description": "了解滤泡性淋巴瘤缓解、早期进展和生存指标的含义，理解局限期与广泛病变的不同目标。赴中国咨询预后时，结合病理、治疗反应和生活质量讨论后续安排。",
+    "subtitle": "了解滤泡性淋巴瘤缓解、早期进展和生存指标的含义，理解局限期与广泛病变的不同目标。赴中国咨询预后时，结合病理、治疗反应和生活质量讨论后续安排。",
+    "lead": null
+  },
+  {
+    "id": 166,
+    "key": "patient-education-faq/follicular-lymphoma-types-and-risk",
+    "title": "滤泡性淋巴瘤分级与风险：赴中国就医准备",
+    "h1": "滤泡性淋巴瘤分级与风险：赴中国就医准备",
+    "description": "区分滤泡性淋巴瘤病理分级、分期、肿瘤负荷和预后评分，了解转化风险需要哪些证据。赴中国会诊前，准备能够支持治疗时机与复查决策的具体资料。",
+    "subtitle": "区分滤泡性淋巴瘤病理分级、分期、肿瘤负荷和预后评分，了解转化风险需要哪些证据。赴中国会诊前，准备能够支持治疗时机与复查决策的具体资料。",
+    "lead": null
+  },
+  {
+    "id": 167,
+    "key": "patient-education-faq/food-and-water-safety-during-recovery-in-china",
+    "title": "在中国恢复期间的饮食饮水安全指南",
+    "h1": "在中国恢复期间的饮食饮水：要适合“这个患者、这个阶段”",
+    "description": "了解恢复期安全饮水、外卖、剩菜、免疫抑制饮食和腹泻处理，在避免感染的同时不过度限制营养。",
+    "subtitle": "从饮用水、外卖、剩菜、免疫抑制、食物质地、腹泻和个体补液要求，建立真正可执行的恢复期安全方案。",
+    "lead": null
+  },
+  {
+    "id": 168,
+    "key": "patient-education-faq/general-anesthesia-common-patient-questions",
+    "title": "全身麻醉常见问题：呼吸、术中知晓、副作用与苏醒过程",
+    "h1": "不神秘化全身麻醉：从入睡、气道管理到复苏室，患者会经历什么",
+    "description": "了解全麻怎样让人失去意识、气道和生命体征如何管理、术中知晓有何区别，以及恶心、咽痛、谵妄和出院后的注意事项。",
+    "subtitle": "用日常语言说明意识消失、呼吸支持、生命体征监测、术中知晓、恶心、咽痛、谵妄及安全回家的注意事项。",
+    "lead": null
+  },
+  {
+    "id": 169,
+    "key": "patient-education-faq/genetic-and-genomic-tests-what-patients-should-know",
+    "title": "在中国做遗传与基因组检测：如何理解结果",
+    "h1": "在中国做遗传与基因组检测：如何理解结果",
+    "description": "读懂胚系检测、肿瘤基因组检测、VUS 和阴性结果，了解宽面板、消费级 DNA 检测、报告质量及送检前必问事项。",
+    "subtitle": "读懂胚系检测、肿瘤基因组检测、VUS 和阴性结果，了解宽面板、消费级 DNA 检测、报告质量及送检前必问事项。",
+    "lead": null
+  },
+  {
+    "id": 170,
+    "key": "patient-education-faq/graft-versus-host-disease-types-and-risk",
+    "title": "移植物抗宿主病类型与风险：赴中国专科就医准备",
+    "h1": "移植物抗宿主病类型与风险：赴中国专科就医准备",
+    "description": "理解移植物抗宿主病急性、慢性与重叠型的区别，区分器官严重度、未来风险和激素反应。赴中国专科会诊时，结合移植背景与症状变化明确下一步评估重点。",
+    "subtitle": "理解移植物抗宿主病急性、慢性与重叠型的区别，区分器官严重度、未来风险和激素反应。赴中国专科会诊时，结合移植背景与症状变化明确下一步评估重点。",
+    "lead": null
+  },
+  {
+    "id": 171,
+    "key": "patient-education-faq/herb-drug-interactions-why-your-medical-team-needs-a-complete-list",
+    "title": "在中国就医：药物与草药产品相互作用核查",
+    "h1": "在中国就医：药物与草药产品相互作用核查",
+    "description": "了解草药和补充剂怎样改变处方药，哪些组合需要紧急复核，以及药师为什么需要产品、剂量和批次而不只是一个名称。",
+    "subtitle": "了解草药和补充剂怎样改变处方药，哪些组合需要紧急复核，以及药师为什么需要产品、剂量和批次而不只是一个名称。",
+    "lead": null
+  },
+  {
+    "id": 172,
+    "key": "patient-education-faq/hodgkin-lymphoma-patient-faq",
+    "title": "霍奇金淋巴瘤治疗 20 问：从确诊、用药到来华与回国随访",
+    "h1": "霍奇金淋巴瘤治疗 20 问：从确诊、用药到来华与回国随访",
+    "description": "解答霍奇金淋巴瘤确诊、分期、影像评分和一线用药的常见问题。赴中国治疗前，准备病理与疗程资料，了解中期疗效评估、方案调整及回国随访需要衔接的事项。",
+    "subtitle": "解答霍奇金淋巴瘤确诊、分期、影像评分和一线用药的常见问题。赴中国治疗前，准备病理与疗程资料，了解中期疗效评估、方案调整及回国随访需要衔接的事项。",
+    "lead": null
+  },
+  {
+    "id": 173,
+    "key": "patient-education-faq/hand-hygiene-in-hospitals-how-patients-and-families-can-help",
+    "title": "中国医院手部卫生：患者与家属指南",
+    "h1": "中国医院手部卫生：患者与家属指南",
+    "description": "了解医务人员、患者和探视者何时清洁双手，怎样选择手消毒剂或皂液，为什么手套不够，以及怎样礼貌提醒。",
+    "subtitle": "了解医务人员、患者和探视者何时清洁双手，怎样选择手消毒剂或皂液，为什么手套不够，以及怎样礼貌提醒。",
+    "lead": null
+  },
+  {
+    "id": 174,
+    "key": "patient-education-faq/mantle-cell-lymphoma-outcomes-prognosis",
+    "title": "套细胞淋巴瘤预后：在中国寻求第二诊疗意见",
+    "h1": "套细胞淋巴瘤预后：在中国寻求第二诊疗意见",
+    "description": "理解套细胞淋巴瘤缓解、微小残留病灶和生存曲线的不同意义，关注早期进展与生活功能。赴中国寻求第二意见时，结合病理和治疗反应讨论个人风险及后续选择。",
+    "subtitle": "理解套细胞淋巴瘤缓解、微小残留病灶和生存曲线的不同意义，关注早期进展与生活功能。赴中国寻求第二意见时，结合病理和治疗反应讨论个人风险及后续选择。",
+    "lead": null
+  },
+  {
+    "id": 175,
+    "key": "patient-education-faq/t-cell-lymphoma-outcomes-prognosis",
+    "title": "T细胞淋巴瘤预后：在中国就医时应问什么",
+    "h1": "T细胞淋巴瘤预后：在中国就医时应问什么",
+    "description": "了解T细胞淋巴瘤预后为何需要按亚型、治疗阶段和观察起点解读。赴中国会诊时，结合完全缓解、持续无事件时间及移植资料，讨论可更新的风险判断与随访。",
+    "subtitle": "了解T细胞淋巴瘤预后为何需要按亚型、治疗阶段和观察起点解读。赴中国会诊时，结合完全缓解、持续无事件时间及移植资料，讨论可更新的风险判断与随访。",
+    "lead": null
+  },
+  {
+    "id": 176,
+    "key": "patient-education-faq/thalassemia-outcomes-prognosis",
+    "title": "地中海贫血预后：在中国评估时应问什么",
+    "h1": "地中海贫血预后：在中国评估时应问什么",
+    "description": "理解地中海贫血预后与贫血控制、器官铁负荷及长期监测的关系。赴中国评估时，核对统计人群和治疗背景，结合心脏、肝脏与骨骼健康制定持续照护计划。",
+    "subtitle": "理解地中海贫血预后与贫血控制、器官铁负荷及长期监测的关系。赴中国评估时，核对统计人群和治疗背景，结合心脏、肝脏与骨骼健康制定持续照护计划。",
+    "lead": null
+  },
+  {
+    "id": 177,
+    "key": "patient-education-faq/post-ischemic-stroke-rehabilitation-outcomes-prognosis",
+    "title": "卒中恢复效果：如何比较中国康复服务",
+    "h1": "卒中恢复效果：如何比较中国康复服务",
+    "description": "将卒中康复效果转化为可观察的步行、用手、交流与进食任务，理解恢复速度和预测工具的限制。比较中国康复服务时，结合功能基线、安全性与生活变化设定目标。",
+    "subtitle": "将卒中康复效果转化为可观察的步行、用手、交流与进食任务，理解恢复速度和预测工具的限制。比较中国康复服务时，结合功能基线、安全性与生活变化设定目标。",
+    "lead": null
+  },
+  {
+    "id": 178,
+    "key": "patient-education-faq/post-ischemic-stroke-rehabilitation-types-and-risk",
+    "title": "卒中康复需求：赴中国康复前如何评估",
+    "h1": "卒中康复需求：赴中国康复前如何评估",
+    "description": "赴中国康复前，按肢体、吞咽、语言、认知和视觉问题梳理卒中后的照护需求。了解医学稳定性、并发症风险与陪护要求如何影响康复地点和团队配置。",
+    "subtitle": "赴中国康复前，按肢体、吞咽、语言、认知和视觉问题梳理卒中后的照护需求。了解医学稳定性、并发症风险与陪护要求如何影响康复地点和团队配置。",
+    "lead": null
+  },
+  {
+    "id": 179,
+    "key": "patient-education-faq/mantle-cell-lymphoma-types-and-risk",
+    "title": "套细胞淋巴瘤分型与风险：中国会诊评估要点",
+    "h1": "套细胞淋巴瘤分型与风险：中国会诊评估要点",
+    "description": "理解套细胞淋巴瘤临床类型、病理形态、增殖活性和基因异常对风险评估的作用。赴中国会诊时，区分分期与危险程度，将评分结果转化为具体治疗和观察问题。",
+    "subtitle": "理解套细胞淋巴瘤临床类型、病理形态、增殖活性和基因异常对风险评估的作用。赴中国会诊时，区分分期与危险程度，将评分结果转化为具体治疗和观察问题。",
+    "lead": null
+  },
+  {
+    "id": 180,
+    "key": "patient-education-faq/mantle-cell-lymphoma-patient-faq",
+    "title": "套细胞淋巴瘤患者常问的20个问题：从确诊到赴中国治疗与随访",
+    "h1": "套细胞淋巴瘤患者常问的20个问题：从确诊到赴中国治疗与随访",
+    "description": "解答套细胞淋巴瘤分期、病理复核、观察等待和初次治疗中的常见疑问。赴中国就医前，整理基因检测及既往疗程，了解治疗选择与长期随访需要讨论的事项。",
+    "subtitle": "解答套细胞淋巴瘤分期、病理复核、观察等待和初次治疗中的常见疑问。赴中国就医前，整理基因检测及既往疗程，了解治疗选择与长期随访需要讨论的事项。",
+    "lead": null
+  },
+  {
+    "id": 181,
+    "key": "patient-education-faq/medical-emergencies-during-travel-in-china-what-to-do",
+    "title": "在中国遇到医疗急症怎么办：拨打 120 与就医要点",
+    "h1": "在中国旅行时遇到医疗急症怎么办",
+    "description": "在中国大陆遇到医疗急症，应先拨打 120。了解电话里如何说明位置、急诊要带什么，以及病情稳定后怎样保存病历和理赔资料。",
+    "subtitle": "真正紧急时，先呼叫本地急救。本文讲清楚电话里怎么说、随身资料带什么，以及病情稳定后还要办哪些事。",
+    "lead": null
+  },
+  {
+    "id": 182,
+    "key": "patient-education-faq/medical-travel-for-older-adults-planning-support-and-follow-up",
+    "title": "老年人赴中国就医：功能评估与照护支持",
+    "h1": "老年人赴中国就医：功能评估与照护支持",
+    "description": "从衰弱、日常功能、用药、谵妄预防、陪护能力到返程随访，系统规划老年患者跨境就医。",
+    "subtitle": "从衰弱、日常功能、用药、谵妄预防、陪护能力到返程随访，系统规划老年患者跨境就医。",
+    "lead": "为老年人规划中国医疗行程时，应从日常功能、用药以及旅途和恢复期间可获得的支持入手。本指南帮助家庭为这项讨论做准备，避免仅凭年龄判断旅行是否安全。"
+  },
+  {
+    "id": 183,
+    "key": "patient-education-faq/medical-travel-with-diabetes-planning-medicines-meals-and-monitoring",
+    "title": "糖尿病患者赴中国就医：用药、饮食与监测",
+    "h1": "糖尿病患者赴中国就医：用药、饮食与监测",
+    "description": "糖尿病医疗出行规划：胰岛素保存、跨时区用药、血糖监测、餐食、术前禁食、泵和CGM及急症处理。",
+    "subtitle": "糖尿病医疗出行规划：胰岛素保存、跨时区用药、血糖监测、餐食、术前禁食、泵和CGM及急症处理。",
+    "lead": "糖尿病患者赴中国就医时，行程需要配合用药、进餐和监测计划。出发前应与处方团队讨论时区变化、进餐延误、操作前禁食以及备用物资安排。"
+  },
+  {
+    "id": 184,
+    "key": "patient-education-faq/medical-travel-with-heart-disease-preparing-safely",
+    "title": "心脏病患者赴中国就医：旅行与治疗前准备",
+    "h1": "心脏病患者赴中国就医：旅行与治疗前准备",
+    "description": "心脏病医疗出行规划：适航许可、心电图资料、药物、机上氧疗、植入设备、血栓风险及急症处理。",
+    "subtitle": "心脏病医疗出行规划：适航许可、心电图资料、药物、机上氧疗、植入设备、血栓风险及急症处理。",
+    "lead": "如果患有心脏病并考虑赴中国就医，请在出行前评估时提供准确诊断、近期事件和完整路线。计划应涵盖连续用药、转乘期间的协助，以及旅途前或途中症状变化时的应对措施。"
+  },
+  {
+    "id": 185,
+    "key": "patient-education-faq/medical-travel-with-high-blood-pressure-a-patient-checklist",
+    "title": "高血压患者赴中国就医：行前核对清单",
+    "h1": "高血压患者赴中国就医：行前核对清单",
+    "description": "高血压医疗出行规划：如何正确测量、跨时区用药、乘机、上高原、接受手术并识别高血压急症。",
+    "subtitle": "高血压医疗出行规划：如何正确测量、跨时区用药、乘机、上高原、接受手术并识别高血压急症。",
+    "lead": "高血压患者赴中国就医前，应准备可靠的血压记录和最新药物清单。利用下列问题，与负责诊疗的医务人员协调旅行、操作当日指示和随访安排。"
+  },
+  {
+    "id": 186,
+    "key": "patient-education-faq/medical-travel-with-kidney-disease-questions-to-ask-before-flying",
+    "title": "肾病患者赴中国就医：透析、用药与行程安排",
+    "h1": "肾病患者赴中国就医：透析、用药与行程安排",
+    "description": "慢性肾病、透析及肾移植医疗出行规划：资料、异地透析、限液、药物、通路护理和急症备用方案。",
+    "subtitle": "慢性肾病、透析及肾移植医疗出行规划：资料、异地透析、限液、药物、通路护理和急症备用方案。",
+    "lead": "肾病患者赴中国就医时，应在预订行程前确认接诊服务与肾脏照护计划。透析安排、用药复核、通路保护和可执行的医疗交接都需匹配患者个人情况，不能因已预约医院就假定这些事项已经落实。"
+  },
+  {
+    "id": 187,
+    "key": "patient-education-faq/medical-travel-with-limited-mobility-airports-hospitals-and-recovery",
+    "title": "行动不便患者赴中国就医：全程协助安排",
+    "h1": "行动不便患者赴中国就医：全程协助安排",
+    "description": "行动受限患者如何规划机场轮椅、转移、电池、坐姿、如厕、医院动线和治疗后回程。",
+    "subtitle": "行动受限患者如何规划机场轮椅、转移、电池、坐姿、如厕、医院动线和治疗后回程。",
+    "lead": "行动受限的患者赴中国就医时，应逐段核对从出发住址到医院及康复住宿地点的转移安排。记录所需协助、轮椅细节和个人护理支持，并在治疗后重新评估返程路线。"
+  },
+  {
+    "id": 188,
+    "key": "patient-education-faq/mri-scans-preparation-safety-and-contrast-questions",
+    "title": "在中国做 MRI：植入物、对比剂与幽闭恐惧准备",
+    "h1": "在中国做 MRI：植入物、对比剂与幽闭恐惧准备",
+    "description": "核实植入物条件，了解钆与肾功能、妊娠筛查、幽闭镇静和 DICOM 获取，安全完成在中国的 MRI。",
+    "subtitle": "核实植入物条件，了解钆与肾功能、妊娠筛查、幽闭镇静和 DICOM 获取，安全完成在中国的 MRI。",
+    "lead": null
+  },
+  {
+    "id": 189,
+    "key": "patient-education-faq/multiple-myeloma-outcomes-prognosis",
+    "title": "多发性骨髓瘤预后：赴中国就医如何理解治疗结局",
+    "h1": "多发性骨髓瘤预后：赴中国就医如何理解治疗结局",
+    "description": "了解多发性骨髓瘤完全缓解、微小残留病灶与生存统计的含义，理解风险如何随治疗反应变化。赴中国会诊时，结合肾脏、骨骼和体能状况讨论实际治疗结局。",
+    "subtitle": "了解多发性骨髓瘤完全缓解、微小残留病灶与生存统计的含义，理解风险如何随治疗反应变化。赴中国会诊时，结合肾脏、骨骼和体能状况讨论实际治疗结局。",
+    "lead": null
+  },
+  {
+    "id": 190,
+    "key": "patient-education-faq/multiple-myeloma-types-and-risk",
+    "title": "多发性骨髓瘤分型与风险：中国专科会诊要点",
+    "h1": "多发性骨髓瘤分型与风险：中国专科会诊要点",
+    "description": "区分意义未明的单克隆免疫球蛋白血症、冒烟型与活动性骨髓瘤，理解分泌类型和风险分期。赴中国专科会诊前，整理遗传异常、器官受累及体能评估资料。",
+    "subtitle": "区分意义未明的单克隆免疫球蛋白血症、冒烟型与活动性骨髓瘤，理解分泌类型和风险分期。赴中国专科会诊前，整理遗传异常、器官受累及体能评估资料。",
+    "lead": null
+  },
+  {
+    "id": 191,
+    "key": "patient-education-faq/how-to-prepare-a-one-page-medical-summary-for-overseas-care",
+    "title": "赴中国就医病情摘要：一页式整理指南",
+    "h1": "赴中国就医病情摘要：一页式整理指南",
+    "description": "按转诊问题、诊断、过敏、用药、关键结果、器械和编号附件，制作可核对的境外就医一页病情摘要。",
+    "subtitle": "按转诊问题、诊断、过敏、用药、关键结果、器械和编号附件，制作可核对的境外就医一页病情摘要。",
+    "lead": "向中国医院发送病历时，应将简明医疗摘要放在完整文件之前。让转诊问题、诊断、过敏史、药物和注明日期的检查结果便于查找，同时保留原始报告供临床复核。"
+  },
+  {
+    "id": 192,
+    "key": "patient-education-faq/pain-medicines-after-surgery-safe-use-and-warning-signs",
+    "title": "在中国术后使用止痛药：剂量与安全提醒",
+    "h1": "在中国术后使用止痛药：剂量与安全提醒",
+    "description": "学会组合术后镇痛药、避免对乙酰氨基酚重复、识别阿片过量，并判断疼痛何时可能提示手术并发症。",
+    "subtitle": "学会组合术后镇痛药、避免对乙酰氨基酚重复、识别阿片过量，并判断疼痛何时可能提示手术并发症。",
+    "lead": null
+  },
+  {
+    "id": 193,
+    "key": "patient-education-faq/parkinson-disease-outcomes-prognosis",
+    "title": "帕金森病预后：在中国评估与长期照护规划",
+    "h1": "帕金森病预后：在中国评估与长期照护规划",
+    "description": "理解帕金森病治疗中的症状改善、运动评分和长期生活能力，避免将群体生存数据套用于个人。赴中国评估时，讨论认知、吞咽、跌倒风险与持续照护规划。",
+    "subtitle": "理解帕金森病治疗中的症状改善、运动评分和长期生活能力，避免将群体生存数据套用于个人。赴中国评估时，讨论认知、吞咽、跌倒风险与持续照护规划。",
+    "lead": null
+  },
+  {
+    "id": 194,
+    "key": "patient-education-faq/parkinson-disease-types-and-risk",
+    "title": "帕金森病类型与风险：赴中国就医准备",
+    "h1": "帕金森病类型与风险：赴中国就医准备",
+    "description": "区分帕金森病与其他帕金森综合征，了解震颤、步态、发病年龄和遗传因素的作用。赴中国就医前，整理运动及非运动症状，把风险落实到用药和日常生活场景。",
+    "subtitle": "区分帕金森病与其他帕金森综合征，了解震颤、步态、发病年龄和遗传因素的作用。赴中国就医前，整理运动及非运动症状，把风险落实到用药和日常生活场景。",
+    "lead": null
+  },
+  {
+    "id": 195,
+    "key": "patient-education-faq/pet-ct-for-cancer-care-uses-and-limitations",
+    "title": "在中国做肿瘤 PET/CT：准备、示踪剂与局限",
+    "h1": "在中国做肿瘤 PET/CT：准备、示踪剂与局限",
+    "description": "了解 FDG 等 PET 示踪剂、空腹和糖尿病准备、治疗后时点、假阳性假阴性，以及 PET/CT 报告要求。",
+    "subtitle": "了解 FDG 等 PET 示踪剂、空腹和糖尿病准备、治疗后时点、假阳性假阴性，以及 PET/CT 报告要求。",
+    "lead": null
+  },
+  {
+    "id": 196,
+    "key": "patient-education-faq/recognizing-possible-stroke-symptoms-during-medical-travel",
+    "title": "在中国疑似卒中：识别警示症状并拨打 120",
+    "h1": "在中国疑似卒中：识别警示症状并拨打 120",
+    "description": "识别 BE-FAST 卒中信号，记录最后正常时间，拨打 120，不自行喂阿司匹林，完成简洁的医疗旅行急救交接。",
+    "subtitle": "识别 BE-FAST 卒中信号，记录最后正常时间，拨打 120，不自行喂阿司匹林，完成简洁的医疗旅行急救交接。",
+    "lead": null
+  },
+  {
+    "id": 197,
+    "key": "patient-education-faq/preoperative-assessment-why-it-matters-before-surgery",
+    "title": "在中国手术前准备：检查、用药与麻醉评估",
+    "h1": "在中国手术前准备：检查、用药与麻醉评估",
+    "description": "了解术前评估的真实目的、检查为何因人而异、药物和空腹怎样安排、何时应延期，以及跨境手术患者需要准备的资料。",
+    "subtitle": "了解术前评估的真实目的、检查为何因人而异、药物和空腹怎样安排、何时应延期，以及跨境手术患者需要准备的资料。",
+    "lead": null
+  },
+  {
+    "id": 198,
+    "key": "patient-education-faq/preventing-surgical-site-infections-patient-questions-to-ask",
+    "title": "在中国接受手术：伤口感染预防与警示症状",
+    "h1": "在中国接受手术：伤口感染预防与警示症状",
+    "description": "了解患者在手术前后怎样参与预防切口感染，包括去毛、预防性抗菌药、手卫生、敷料、照片随访和必须急诊的警示症状。",
+    "subtitle": "了解患者在手术前后怎样参与预防切口感染，包括去毛、预防性抗菌药、手卫生、敷料、照片随访和必须急诊的警示症状。",
+    "lead": null
+  },
+  {
+    "id": 199,
+    "key": "patient-education-faq/drug-resistant-epilepsy-outcomes-prognosis",
+    "title": "难治性癫痫预后：在中国就医时应问什么",
+    "h1": "难治性癫痫预后：在中国就医时应问什么",
+    "description": "理解难治性癫痫无发作、发作减少与生活质量的不同结局，了解药物、手术和神经调控研究的比较限制。赴中国会诊时，结合观察时长与功能风险设定合理目标。",
+    "subtitle": "理解难治性癫痫无发作、发作减少与生活质量的不同结局，了解药物、手术和神经调控研究的比较限制。赴中国会诊时，结合观察时长与功能风险设定合理目标。",
+    "lead": null
+  },
+  {
+    "id": 200,
+    "key": "patient-education-faq/protecting-a-surgical-wound-while-traveling",
+    "title": "在中国手术后出行：伤口保护与护理衔接",
+    "h1": "在中国手术后出行：伤口保护与护理衔接",
+    "description": "术后出行实用指南：如何准备敷料、携带引流管乘机、淋浴、预防血栓、识别伤口感染及安排异地急诊。",
+    "subtitle": "术后出行实用指南：如何准备敷料、携带引流管乘机、淋浴、预防血栓、识别伤口感染及安排异地急诊。",
+    "lead": "如果将在中国手术后继续旅行，应在离院前与手术团队约定伤口护理和出行计划。换药指示、引流管、活动限制、警示症状以及回国后接手的医生，都应纳入交接。"
+  },
+  {
+    "id": 201,
+    "key": "patient-education-faq/follicular-lymphoma-report-explained",
+    "title": "滤泡性淋巴瘤报告解读：赴中国会诊准备",
+    "h1": "滤泡性淋巴瘤报告解读：赴中国会诊准备",
+    "description": "读懂滤泡性淋巴瘤病理、免疫标记、影像评分与骨髓结果，区分分级、分期和转化证据。赴中国会诊前，按样本与日期整理报告，准备复核所需的原始资料。",
+    "subtitle": "读懂滤泡性淋巴瘤病理、免疫标记、影像评分与骨髓结果，区分分级、分期和转化证据。赴中国会诊前，按样本与日期整理报告，准备复核所需的原始资料。",
+    "lead": null
+  },
+  {
+    "id": 202,
+    "key": "patient-education-faq/mantle-cell-lymphoma-report-explained",
+    "title": "套细胞淋巴瘤报告解读：赴中国会诊准备",
+    "h1": "套细胞淋巴瘤报告解读：赴中国会诊准备",
+    "description": "了解套细胞淋巴瘤报告中诊断措辞、免疫标记、基因重排与增殖指标的含义。赴中国会诊时，保留样本背景和完整检测结果，避免以单个阳性或阴性判断严重程度。",
+    "subtitle": "了解套细胞淋巴瘤报告中诊断措辞、免疫标记、基因重排与增殖指标的含义。赴中国会诊时，保留样本背景和完整检测结果，避免以单个阳性或阴性判断严重程度。",
+    "lead": null
+  },
+  {
+    "id": 203,
+    "key": "patient-education-faq/t-cell-lymphoma-report-explained",
+    "title": "T细胞淋巴瘤报告解读：赴中国会诊准备",
+    "h1": "T细胞淋巴瘤报告解读：赴中国会诊准备",
+    "description": "解读T细胞淋巴瘤报告中的亚型、免疫标记、病毒和克隆结果，了解影像残留需要如何判断。赴中国会诊前，核对标本日期、检测材料与诊断确定程度。",
+    "subtitle": "解读T细胞淋巴瘤报告中的亚型、免疫标记、病毒和克隆结果，了解影像残留需要如何判断。赴中国会诊前，核对标本日期、检测材料与诊断确定程度。",
+    "lead": null
+  },
+  {
+    "id": 204,
+    "key": "patient-education-faq/thalassemia-report-explained",
+    "title": "地中海贫血报告解读：赴中国评估准备",
+    "h1": "地中海贫血报告解读：赴中国评估准备",
+    "description": "理解地中海贫血报告中血红蛋白、基因型、铁蛋白及肝心铁监测的不同意义。赴中国评估前，核对单位、检测方法与输血背景，保留完整注释和历次变化。",
+    "subtitle": "理解地中海贫血报告中血红蛋白、基因型、铁蛋白及肝心铁监测的不同意义。赴中国评估前，核对单位、检测方法与输血背景，保留完整注释和历次变化。",
+    "lead": null
+  },
+  {
+    "id": 205,
+    "key": "patient-education-faq/graft-versus-host-disease-outcomes-prognosis",
+    "title": "移植物抗宿主病恢复与预后：在中国评估时应问什么",
+    "h1": "移植物抗宿主病恢复与预后：在中国评估时应问什么",
+    "description": "区分移植物抗宿主病治疗应答、器官恢复、停药与生存结局，了解既有损伤和持续炎症的差别。赴中国评估时，结合症状目标与长期观察讨论实际恢复前景。",
+    "subtitle": "区分移植物抗宿主病治疗应答、器官恢复、停药与生存结局，了解既有损伤和持续炎症的差别。赴中国评估时，结合症状目标与长期观察讨论实际恢复前景。",
+    "lead": null
+  },
+  {
+    "id": 206,
+    "key": "patient-education-faq/respiratory-infection-prevention-during-medical-travel",
+    "title": "赴中国就医途中：呼吸道感染预防",
+    "h1": "赴中国就医途中：呼吸道感染预防",
+    "description": "用疫苗、贴合口罩、清洁空气和症状预案保护手术或治疗行程，并了解出发前突然生病时该怎样处理。",
+    "subtitle": "用疫苗、贴合口罩、清洁空气和症状预案保护手术或治疗行程，并了解出发前突然生病时该怎样处理。",
+    "lead": "安排赴中国医疗行程时，感染防护应同时围绕治疗日程和航班规划。向接诊团队询问新的呼吸道症状可能如何影响入院或治疗，并明确出发前或停留期间出现症状时应联系谁。"
+  },
+  {
+    "id": 207,
+    "key": "patient-education-faq/sickle-cell-disease-types-and-risk",
+    "title": "镰状细胞病分型与风险：赴中国就医准备",
+    "h1": "镰状细胞病分型与风险：赴中国就医准备",
+    "description": "了解镰状细胞病不同基因型、携带状态与个体风险的区别，避免仅凭病名预测严重程度。赴中国就医前，整理疼痛、输血和器官并发症记录，支持个体化评估。",
+    "subtitle": "了解镰状细胞病不同基因型、携带状态与个体风险的区别，避免仅凭病名预测严重程度。赴中国就医前，整理疼痛、输血和器官并发症记录，支持个体化评估。",
+    "lead": null
+  },
+  {
+    "id": 208,
+    "key": "patient-education-faq/sickle-cell-disease-diagnosis-tests",
+    "title": "中国镰状细胞病诊断：检测与确诊准备",
+    "h1": "中国镰状细胞病诊断：检测与确诊准备",
+    "description": "了解中国镰状细胞病诊断中血常规、血红蛋白分析和遗传检测的作用。核对新生儿、近期输血等背景如何影响结果，并准备确诊后器官评估所需的资料。",
+    "subtitle": "了解中国镰状细胞病诊断中血常规、血红蛋白分析和遗传检测的作用。核对新生儿、近期输血等背景如何影响结果，并准备确诊后器官评估所需的资料。",
+    "lead": null
+  },
+  {
+    "id": 209,
+    "key": "patient-education-faq/post-ischemic-stroke-rehabilitation-diagnosis-tests",
+    "title": "中国卒中康复评估：检查与就医规划",
+    "h1": "中国卒中康复评估：检查与就医规划",
+    "description": "了解在中国进行卒中康复评估时，脑影像、病因检查与功能测评各自回答什么问题。结合吞咽、语言、认知和体能状况安排安全训练，并明确后续预防与照护重点。",
+    "subtitle": "了解在中国进行卒中康复评估时，脑影像、病因检查与功能测评各自回答什么问题。结合吞咽、语言、认知和体能状况安排安全训练，并明确后续预防与照护重点。",
+    "lead": null
+  },
+  {
+    "id": 210,
+    "key": "patient-education-faq/drug-resistant-epilepsy-diagnosis-tests",
+    "title": "中国难治性癫痫检查：诊断复核与治疗评估",
+    "h1": "中国难治性癫痫检查：诊断复核与治疗评估",
+    "description": "了解中国难治性癫痫评估中的发作日记、药物复核、视频脑电与专用磁共振检查。梳理需要排除的相似发作和进一步定位问题，为治疗选择准备可靠依据。",
+    "subtitle": "了解中国难治性癫痫评估中的发作日记、药物复核、视频脑电与专用磁共振检查。梳理需要排除的相似发作和进一步定位问题，为治疗选择准备可靠依据。",
+    "lead": null
+  },
+  {
+    "id": 211,
+    "key": "patient-education-faq/follicular-lymphoma-diagnosis-tests",
+    "title": "中国滤泡性淋巴瘤诊断：活检与分期检查",
+    "h1": "中国滤泡性淋巴瘤诊断：活检与分期检查",
+    "description": "了解在中国确诊滤泡性淋巴瘤时组织活检、免疫组化、影像与血液检查的作用。区分病理确诊和分期评估，准备既有资料并与医生明确检查后的下一步安排。",
+    "subtitle": "了解在中国确诊滤泡性淋巴瘤时组织活检、免疫组化、影像与血液检查的作用。区分病理确诊和分期评估，准备既有资料并与医生明确检查后的下一步安排。",
+    "lead": null
+  },
+  {
+    "id": 212,
+    "key": "patient-education-faq/amyotrophic-lateral-sclerosis-diagnosis-tests",
+    "title": "中国 ALS 诊断会诊：查体、肌电图与相关检查",
+    "h1": "中国 ALS 诊断会诊：查体、肌电图与相关检查",
+    "description": "了解在中国评估肌萎缩侧索硬化时病史、神经查体、肌电图与神经传导检查的作用。理解影像和化验如何帮助排除其他原因，准备症状进展记录与既往检查。",
+    "subtitle": "了解在中国评估肌萎缩侧索硬化时病史、神经查体、肌电图与神经传导检查的作用。理解影像和化验如何帮助排除其他原因，准备症状进展记录与既往检查。",
+    "lead": null
+  },
+  {
+    "id": 213,
+    "key": "patient-education-faq/alzheimer-disease-diagnosis-tests",
+    "title": "中国阿尔茨海默病评估：记忆门诊检查指南",
+    "h1": "中国阿尔茨海默病评估：记忆门诊检查指南",
+    "description": "了解中国记忆门诊如何结合生活变化、认知量表、基础化验和影像评估阿尔茨海默病。区分血液标志物、脑脊液与遗传检测的用途，避免把单项结果当作完整诊断。",
+    "subtitle": "了解中国记忆门诊如何结合生活变化、认知量表、基础化验和影像评估阿尔茨海默病。区分血液标志物、脑脊液与遗传检测的用途，避免把单项结果当作完整诊断。",
+    "lead": null
+  },
+  {
+    "id": 214,
+    "key": "patient-education-faq/diffuse-large-b-cell-lymphoma-diagnosis-tests",
+    "title": "中国弥漫大B细胞淋巴瘤诊断：活检、分期与准备",
+    "h1": "中国弥漫大B细胞淋巴瘤诊断：活检、分期与准备",
+    "description": "了解中国弥漫大B细胞淋巴瘤诊断中的组织活检、病理分型和影像分期。准备基因检测、心脏与感染筛查资料，区分确诊依据和首个疗程前的安全评估。",
+    "subtitle": "了解中国弥漫大B细胞淋巴瘤诊断中的组织活检、病理分型和影像分期。准备基因检测、心脏与感染筛查资料，区分确诊依据和首个疗程前的安全评估。",
+    "lead": null
+  },
+  {
+    "id": 215,
+    "key": "patient-education-faq/hodgkin-lymphoma-diagnosis-tests",
+    "title": "中国霍奇金淋巴瘤诊断：活检与分期检查",
+    "h1": "中国霍奇金淋巴瘤诊断：活检与分期检查",
+    "description": "了解在中国诊断霍奇金淋巴瘤时活检、病理与影像分期的作用，理解血液和骨髓检查的适用情境。开疗前核对心肺、生育及特殊年龄或妊娠相关评估。",
+    "subtitle": "了解在中国诊断霍奇金淋巴瘤时活检、病理与影像分期的作用，理解血液和骨髓检查的适用情境。开疗前核对心肺、生育及特殊年龄或妊娠相关评估。",
+    "lead": null
+  },
+  {
+    "id": 216,
+    "key": "patient-education-faq/multiple-myeloma-diagnosis-tests",
+    "title": "中国多发性骨髓瘤诊断：检查项目与就诊准备",
+    "h1": "中国多发性骨髓瘤诊断：检查项目与就诊准备",
+    "description": "了解中国多发性骨髓瘤诊断如何整合蛋白、尿液、骨髓、遗传与影像结果。区分疾病确认、风险分层和用药前评估，准备能够支持治疗标准判断的完整资料。",
+    "subtitle": "了解中国多发性骨髓瘤诊断如何整合蛋白、尿液、骨髓、遗传与影像结果。区分疾病确认、风险分层和用药前评估，准备能够支持治疗标准判断的完整资料。",
+    "lead": null
+  },
+  {
+    "id": 217,
+    "key": "patient-education-faq/multiple-sclerosis-diagnosis-tests",
+    "title": "中国多发性硬化评估：磁共振与相关检查",
+    "h1": "中国多发性硬化评估：磁共振与相关检查",
+    "description": "了解中国多发性硬化评估中的症状记录、磁共振、脑脊液和视神经检查。区分确诊、排除相似疾病与治疗前筛查，证据不足时与医生明确观察及复查计划。",
+    "subtitle": "了解中国多发性硬化评估中的症状记录、磁共振、脑脊液和视神经检查。区分确诊、排除相似疾病与治疗前筛查，证据不足时与医生明确观察及复查计划。",
+    "lead": null
+  },
+  {
+    "id": 218,
+    "key": "patient-education-faq/parkinson-disease-diagnosis-tests",
+    "title": "中国帕金森病诊断评估：查体、影像与相关检查",
+    "h1": "中国帕金森病诊断评估：查体、影像与相关检查",
+    "description": "了解中国帕金森病评估如何结合神经查体、用药史与有针对性的影像和相关检测。理解检查正常或标志物异常的解释边界，准备症状经过和完整药物清单。",
+    "subtitle": "了解中国帕金森病评估如何结合神经查体、用药史与有针对性的影像和相关检测。理解检查正常或标志物异常的解释边界，准备症状经过和完整药物清单。",
+    "lead": null
+  },
+  {
+    "id": 219,
+    "key": "patient-education-faq/t-cell-lymphoma-diagnosis-tests",
+    "title": "中国 T细胞淋巴瘤诊断：活检与诊断复核",
+    "h1": "中国 T细胞淋巴瘤诊断：活检与诊断复核",
+    "description": "了解中国T细胞淋巴瘤诊断中取材、免疫组化、克隆和病毒检测的作用。结合病灶部位核对病理复核与分期安排，避免将单项阳性结果直接当作诊断或治疗依据。",
+    "subtitle": "了解中国T细胞淋巴瘤诊断中取材、免疫组化、克隆和病毒检测的作用。结合病灶部位核对病理复核与分期安排，避免将单项阳性结果直接当作诊断或治疗依据。",
+    "lead": null
+  },
+  {
+    "id": 220,
+    "key": "patient-education-faq/thalassemia-diagnosis-tests",
+    "title": "中国地中海贫血诊断：血液与基因检查",
+    "h1": "中国地中海贫血诊断：血液与基因检查",
+    "description": "了解中国地中海贫血诊断如何结合血常规、血红蛋白分析与基因结果。核对年龄、输血和缺铁背景，理解阴性或意义未明结果的限制，为专科确认准备完整病史。",
+    "subtitle": "了解中国地中海贫血诊断如何结合血常规、血红蛋白分析与基因结果。核对年龄、输血和缺铁背景，理解阴性或意义未明结果的限制，为专科确认准备完整病史。",
+    "lead": null
+  },
+  {
+    "id": 221,
+    "key": "patient-education-faq/thalassemia-types-and-risk",
+    "title": "地中海贫血分型与风险：赴中国就医准备",
+    "h1": "地中海贫血分型与风险：赴中国就医准备",
+    "description": "区分地中海贫血遗传分类与输血需求分类，理解不同基因组合和临床表现的关系。赴中国就医前，整理贫血、输血与家庭遗传资料，避免只凭基因名称判断病情轻重。",
+    "subtitle": "区分地中海贫血遗传分类与输血需求分类，理解不同基因组合和临床表现的关系。赴中国就医前，整理贫血、输血与家庭遗传资料，避免只凭基因名称判断病情轻重。",
+    "lead": null
+  },
+  {
+    "id": 222,
+    "key": "patient-education-faq/traveling-with-prescription-medicines-a-patient-checklist",
+    "title": "携带处方药赴中国：海关、冷链与用药时差",
+    "h1": "携带处方药赴中国：海关、冷链与用药时差",
+    "description": "一份国际携带处方药和受控药品的实用清单，涵盖原包装、医生证明、中国海关、冷藏药运输、针具和跨时区给药。",
+    "subtitle": "一份国际携带处方药和受控药品的实用清单，涵盖原包装、医生证明、中国海关、冷藏药运输、针具和跨时区给药。",
+    "lead": null
+  },
+  {
+    "id": 223,
+    "key": "patient-education-faq/aplastic-anemia-patient-faq",
+    "title": "再生障碍性贫血患者常见20问：诊断、治疗与赴华就医",
+    "h1": "再生障碍性贫血患者常见20问：诊断、治疗与赴华就医",
+    "description": "通过常见问答理解再生障碍性贫血诊断、严重程度、供者评估和治疗选择。赴中国就医前，梳理骨髓、克隆及用药资料，明确观察、输血和长期复查需要解决的问题。",
+    "subtitle": "通过常见问答理解再生障碍性贫血诊断、严重程度、供者评估和治疗选择。赴中国就医前，梳理骨髓、克隆及用药资料，明确观察、输血和长期复查需要解决的问题。",
+    "lead": null
+  },
+  {
+    "id": 224,
+    "key": "patient-education-faq/graft-versus-host-disease-patient-faq",
+    "title": "GVHD患者常问的20个问题：治疗、减药、赴华与回国管理",
+    "h1": "GVHD患者常问的20个问题：治疗、减药、赴华与回国管理",
+    "description": "解答移植物抗宿主病类型、确诊、减药与移植后管理中的常见疑问。赴中国会诊及回国前，核对器官检查、感染防护、用药监测和持续照护责任，避免自行调整方案。",
+    "subtitle": "解答移植物抗宿主病类型、确诊、减药与移植后管理中的常见疑问。赴中国会诊及回国前，核对器官检查、感染防护、用药监测和持续照护责任，避免自行调整方案。",
+    "lead": null
+  },
+  {
+    "id": 225,
+    "key": "patient-education-faq/post-ischemic-stroke-rehabilitation-patient-faq",
+    "title": "脑梗死康复患者常见20问：训练、药物与中国就医",
+    "h1": "脑梗死康复患者常见20问：训练、药物与中国就医",
+    "description": "解答脑梗死康复时机、训练强度、影像意义及手脚恢复差异等常见问题。赴中国就医前，结合功能需求讨论药物、康复目标和照护安排，建立可观察的恢复预期。",
+    "subtitle": "解答脑梗死康复时机、训练强度、影像意义及手脚恢复差异等常见问题。赴中国就医前，结合功能需求讨论药物、康复目标和照护安排，建立可观察的恢复预期。",
+    "lead": null
+  },
+  {
+    "id": 226,
+    "key": "patient-education-faq/t-cell-lymphoma-patient-faq",
+    "title": "在中国诊疗 T细胞淋巴瘤：患者常问的20个问题",
+    "h1": "在中国诊疗 T细胞淋巴瘤：患者常问的20个问题",
+    "description": "解答在中国诊疗T细胞淋巴瘤时有关亚型、病理复核、基因检测与治疗选择的常见问题。了解免疫标记和影像结果的边界，准备能够支持个体化会诊的完整资料。",
+    "subtitle": "解答在中国诊疗T细胞淋巴瘤时有关亚型、病理复核、基因检测与治疗选择的常见问题。了解免疫标记和影像结果的边界，准备能够支持个体化会诊的完整资料。",
+    "lead": null
+  },
+  {
+    "id": 227,
+    "key": "patient-education-faq/myelodysplastic-syndrome-patient-faq",
+    "title": "骨髓增生异常综合征患者常问的20个问题：诊断、输血、用药、移植与中国就医",
+    "h1": "骨髓增生异常综合征患者常问的20个问题：诊断、输血、用药、移植与中国就医",
+    "description": "解答骨髓增生异常综合征诊断、贫血、输血、用药和移植中的常见疑问。赴中国就医前，理解骨髓与基因检查、风险分层及观察安排，避免将单个突变等同于处方。",
+    "subtitle": "解答骨髓增生异常综合征诊断、贫血、输血、用药和移植中的常见疑问。赴中国就医前，理解骨髓与基因检查、风险分层及观察安排，避免将单个突变等同于处方。",
+    "lead": null
+  },
+  {
+    "id": 228,
+    "key": "patient-education-faq/alzheimer-disease-patient-faq",
+    "title": "阿尔茨海默病患者与家属常问的20个问题：诊断、新药和赴华就医",
+    "h1": "阿尔茨海默病患者与家属常问的20个问题：诊断、新药和赴华就医",
+    "description": "解答阿尔茨海默病健忘、血液检测、遗传风险和药物治疗的常见问题。赴中国会诊前，了解认知状态与生物标志物的区别，并准备日常功能变化和照护需求记录。",
+    "subtitle": "解答阿尔茨海默病健忘、血液检测、遗传风险和药物治疗的常见问题。赴中国会诊前，了解认知状态与生物标志物的区别，并准备日常功能变化和照护需求记录。",
+    "lead": null
+  },
+  {
+    "id": 229,
+    "key": "patient-education-faq/drug-resistant-epilepsy-patient-faq",
+    "title": "难治性癫痫患者常问的20个问题：从治疗选择到中国就医准备",
+    "h1": "难治性癫痫患者常问的20个问题：从治疗选择到中国就医准备",
+    "description": "解答难治性癫痫药物试用、转诊时机、阴性影像与基因结果等常见疑问。赴中国评估前，整理实际发作和治疗经过，了解进一步检查与治疗选择的适用边界。",
+    "subtitle": "解答难治性癫痫药物试用、转诊时机、阴性影像与基因结果等常见疑问。赴中国评估前，整理实际发作和治疗经过，了解进一步检查与治疗选择的适用边界。",
+    "lead": null
+  },
+  {
+    "id": 230,
+    "key": "patient-education-faq/follicular-lymphoma-patient-faq",
+    "title": "滤泡性淋巴瘤患者常问的20个问题：从观察到来中国就医",
+    "h1": "滤泡性淋巴瘤患者常问的20个问题：从观察到来中国就医",
+    "description": "解答滤泡性淋巴瘤分期、重复取材、观察等待和开始治疗的常见问题。来中国就医前，理解局部治疗与全身管理的不同目标，准备病理和病情变化资料供会诊。",
+    "subtitle": "解答滤泡性淋巴瘤分期、重复取材、观察等待和开始治疗的常见问题。来中国就医前，理解局部治疗与全身管理的不同目标，准备病理和病情变化资料供会诊。",
+    "lead": null
+  },
+  {
+    "id": 231,
+    "key": "patient-education-faq/multiple-myeloma-patient-faq",
+    "title": "多发性骨髓瘤患者常问的20个问题：从确诊、选药到赴华治疗后的生活",
+    "h1": "多发性骨髓瘤患者常问的20个问题：从确诊、选药到赴华治疗后的生活",
+    "description": "解答多发性骨髓瘤单克隆蛋白、检查、风险分层及自体移植等常见问题。赴中国治疗前，结合身体状况讨论用药选择，并了解后续生活与持续照护的准备重点。",
+    "subtitle": "解答多发性骨髓瘤单克隆蛋白、检查、风险分层及自体移植等常见问题。赴中国治疗前，结合身体状况讨论用药选择，并了解后续生活与持续照护的准备重点。",
+    "lead": null
+  },
+  {
+    "id": 232,
+    "key": "patient-education-faq/thalassemia-patient-faq",
+    "title": "地中海贫血患者常见20问：诊断、治疗与中国就医中容易混淆的事",
+    "h1": "地中海贫血患者常见20问：诊断、治疗与中国就医中容易混淆的事",
+    "description": "澄清地中海贫血携带、遗传、输血依赖与铁负荷等容易混淆的问题。赴中国就医前，理解诊断和治疗所需的背景资料，保留既往配血抗体记录及长期监测结果。",
+    "subtitle": "澄清地中海贫血携带、遗传、输血依赖与铁负荷等容易混淆的问题。赴中国就医前，理解诊断和治疗所需的背景资料，保留既往配血抗体记录及长期监测结果。",
+    "lead": null
+  },
+  {
+    "id": 233,
+    "key": "patient-education-faq/hodgkin-lymphoma-types-and-risk",
+    "title": "霍奇金淋巴瘤分型与风险：中国第二诊疗意见",
+    "h1": "霍奇金淋巴瘤分型与风险：中国第二诊疗意见",
+    "description": "了解霍奇金淋巴瘤经典型与结节性淋巴细胞为主型的区别，区分疾病、治疗和生育风险。赴中国寻求第二意见时，结合分期、大肿块与影像反应核对方案依据。",
+    "subtitle": "了解霍奇金淋巴瘤经典型与结节性淋巴细胞为主型的区别，区分疾病、治疗和生育风险。赴中国寻求第二意见时，结合分期、大肿块与影像反应核对方案依据。",
+    "lead": null
+  },
+  {
+    "id": 234,
+    "key": "patient-education-faq/multiple-sclerosis-types-and-risk",
+    "title": "多发性硬化分型与风险：中国就医评估要点",
+    "h1": "多发性硬化分型与风险：中国就医评估要点",
+    "description": "理解多发性硬化复发缓解型、继发进展型与原发进展型的病程特点。赴中国评估时，结合复发、影像和功能变化讨论风险，避免把没有发作等同于没有进展。",
+    "subtitle": "理解多发性硬化复发缓解型、继发进展型与原发进展型的病程特点。赴中国评估时，结合复发、影像和功能变化讨论风险，避免把没有发作等同于没有进展。",
+    "lead": null
+  },
+  {
+    "id": 235,
+    "key": "patient-education-faq/t-cell-lymphoma-types-and-risk",
+    "title": "T细胞淋巴瘤分型与风险：赴中国就医准备",
+    "h1": "T细胞淋巴瘤分型与风险：赴中国就医准备",
+    "description": "了解T细胞淋巴瘤成熟型、淋巴母细胞性、皮肤及病毒相关亚型的差别。赴中国会诊前，核对完整病理与疾病分布，理解风险评分的适用人群及治疗路径为何不同。",
+    "subtitle": "了解T细胞淋巴瘤成熟型、淋巴母细胞性、皮肤及病毒相关亚型的差别。赴中国会诊前，核对完整病理与疾病分布，理解风险评分的适用人群及治疗路径为何不同。",
+    "lead": null
+  },
+  {
+    "id": 236,
+    "key": "patient-education-faq/diffuse-large-b-cell-lymphoma-report-explained",
+    "title": "弥漫大B细胞淋巴瘤报告：中国病理、FISH 与 PET 会诊准备",
+    "h1": "弥漫大B细胞淋巴瘤报告：中国病理、FISH 与 PET 会诊准备",
+    "description": "读懂弥漫大B细胞淋巴瘤报告中的免疫标记、双表达、基因重排和影像评分。赴中国会诊前，区分病理、分期与风险指标，避免根据单个阳性或数值决定治疗强度。",
+    "subtitle": "读懂弥漫大B细胞淋巴瘤报告中的免疫标记、双表达、基因重排和影像评分。赴中国会诊前，区分病理、分期与风险指标，避免根据单个阳性或数值决定治疗强度。",
+    "lead": null
+  },
+  {
+    "id": 237,
+    "key": "patient-education-faq/graft-versus-host-disease-report-explained",
+    "title": "移植物抗宿主病报告：器官评分与中国专科会诊",
+    "h1": "移植物抗宿主病报告：器官评分与中国专科会诊",
+    "description": "了解移植物抗宿主病报告中器官分期、整体分级、肺功能和供者嵌合率的不同含义。赴中国专科会诊时，将检查放回用药与症状时间线，保留原始诊断的不确定性。",
+    "subtitle": "了解移植物抗宿主病报告中器官分期、整体分级、肺功能和供者嵌合率的不同含义。赴中国专科会诊时，将检查放回用药与症状时间线，保留原始诊断的不确定性。",
+    "lead": null
+  },
+  {
+    "id": 238,
+    "key": "patient-education-faq/hodgkin-lymphoma-report-explained",
+    "title": "霍奇金淋巴瘤报告解读：赴中国会诊准备",
+    "h1": "霍奇金淋巴瘤报告解读：赴中国会诊准备",
+    "description": "理解霍奇金淋巴瘤报告中的病理类型、分期、全身症状与影像反应评分。赴中国会诊前，区分残余肿块、代谢活性和疾病证据，准备可供前后比较的完整资料。",
+    "subtitle": "理解霍奇金淋巴瘤报告中的病理类型、分期、全身症状与影像反应评分。赴中国会诊前，区分残余肿块、代谢活性和疾病证据，准备可供前后比较的完整资料。",
+    "lead": null
+  },
+  {
+    "id": 239,
+    "key": "patient-education-faq/multiple-myeloma-report-explained",
+    "title": "多发性骨髓瘤报告解读：赴中国会诊准备",
+    "h1": "多发性骨髓瘤报告解读：赴中国会诊准备",
+    "description": "解读多发性骨髓瘤报告中的单克隆蛋白、轻链、骨髓、遗传及器官指标。赴中国会诊时，核对单位和检测背景，区分骨损伤、活动性疾病、缓解与微小残留病灶。",
+    "subtitle": "解读多发性骨髓瘤报告中的单克隆蛋白、轻链、骨髓、遗传及器官指标。赴中国会诊时，核对单位和检测背景，区分骨损伤、活动性疾病、缓解与微小残留病灶。",
+    "lead": null
+  },
+  {
+    "id": 240,
+    "key": "patient-education-faq/parkinson-disease-report-explained",
+    "title": "帕金森病评估报告解读：赴中国就医准备",
+    "h1": "帕金森病评估报告解读：赴中国就医准备",
+    "description": "了解帕金森病报告中运动分级、症状量表、认知筛查和影像结果的含义。赴中国评估前，保留开关期、末次服药时间与测试条件，让不同记录能够合理比较。",
+    "subtitle": "了解帕金森病报告中运动分级、症状量表、认知筛查和影像结果的含义。赴中国评估前，保留开关期、末次服药时间与测试条件，让不同记录能够合理比较。",
+    "lead": null
+  },
+  {
+    "id": 241,
+    "key": "patient-education-faq/post-ischemic-stroke-rehabilitation-report-explained",
+    "title": "卒中康复报告解读：赴中国评估准备",
+    "h1": "卒中康复报告解读：赴中国评估准备",
+    "description": "了解卒中康复报告中的神经缺损、运动、生活独立性和平衡量表各自衡量什么。赴中国评估前，核对日期、评分部分和观察条件，将分数变化与实际生活能力联系起来。",
+    "subtitle": "了解卒中康复报告中的神经缺损、运动、生活独立性和平衡量表各自衡量什么。赴中国评估前，核对日期、评分部分和观察条件，将分数变化与实际生活能力联系起来。",
+    "lead": null
+  },
+  {
+    "id": 242,
+    "key": "patient-education-faq/alzheimer-disease-report-explained",
+    "title": "阿尔茨海默病检查报告解读：赴中国会诊准备",
+    "h1": "阿尔茨海默病检查报告解读：赴中国会诊准备",
+    "description": "解读阿尔茨海默病认知量表、影像、微出血和生物标志物结果，理解各项检查的解释边界。赴中国会诊时，保留检测方法与用药背景，避免将数值变化直接等同于恢复。",
+    "subtitle": "解读阿尔茨海默病认知量表、影像、微出血和生物标志物结果，理解各项检查的解释边界。赴中国会诊时，保留检测方法与用药背景，避免将数值变化直接等同于恢复。",
+    "lead": null
+  },
+  {
+    "id": 243,
+    "key": "patient-education-faq/aplastic-anemia-report-explained",
+    "title": "再生障碍性贫血报告解读：赴中国会诊准备",
+    "h1": "再生障碍性贫血报告解读：赴中国会诊准备",
+    "description": "了解再生障碍性贫血报告中血细胞、骨髓增生、染色体和克隆结果的含义。赴中国会诊前，注明输血、采样及服药时间，区分严重程度、治疗反应和单项指标变化。",
+    "subtitle": "了解再生障碍性贫血报告中血细胞、骨髓增生、染色体和克隆结果的含义。赴中国会诊前，注明输血、采样及服药时间，区分严重程度、治疗反应和单项指标变化。",
+    "lead": null
+  },
+  {
+    "id": 244,
+    "key": "patient-education-faq/multiple-sclerosis-report-explained",
+    "title": "多发性硬化报告解读：赴中国会诊准备",
+    "h1": "多发性硬化报告解读：赴中国会诊准备",
+    "description": "理解多发性硬化报告中的脱髓鞘表现、强化、新增病灶及脑脊液证据。赴中国会诊时，核对抗体类型、检测条件与前后影像，避免把单项异常当作确诊或个人预后。",
+    "subtitle": "理解多发性硬化报告中的脱髓鞘表现、强化、新增病灶及脑脊液证据。赴中国会诊时，核对抗体类型、检测条件与前后影像，避免把单项异常当作确诊或个人预后。",
+    "lead": null
+  },
+  {
+    "id": 245,
+    "key": "patient-education-faq/drug-resistant-epilepsy-report-explained",
+    "title": "难治性癫痫报告解读：中国专科会诊准备",
+    "h1": "难治性癫痫报告解读：中国专科会诊准备",
+    "description": "解读难治性癫痫脑电图中的棘波、慢波和伪差，理解未记录发作与磁共振阴性的限制。赴中国专科会诊前，将报告与实际事件对应，避免由单项结果直接推定手术范围。",
+    "subtitle": "解读难治性癫痫脑电图中的棘波、慢波和伪差，理解未记录发作与磁共振阴性的限制。赴中国专科会诊前，将报告与实际事件对应，避免由单项结果直接推定手术范围。",
+    "lead": null
+  },
+  {
+    "id": 246,
+    "key": "patient-education-faq/multiple-sclerosis-outcomes-prognosis",
+    "title": "多发性硬化预后：在中国就医时应问什么",
+    "h1": "多发性硬化预后：在中国就医时应问什么",
+    "description": "了解多发性硬化预后中复发、影像稳定与功能进展的不同意义。赴中国就医时，结合治疗反应和可调整因素讨论长期安排，避免将历史平均寿命直接套用于个人。",
+    "subtitle": "了解多发性硬化预后中复发、影像稳定与功能进展的不同意义。赴中国就医时，结合治疗反应和可调整因素讨论长期安排，避免将历史平均寿命直接套用于个人。",
+    "lead": null
+  },
+  {
+    "id": 247,
+    "key": "patient-education-faq/sickle-cell-disease-report-explained",
+    "title": "镰状细胞病报告解读：赴中国评估准备",
+    "h1": "镰状细胞病报告解读：赴中国评估准备",
+    "description": "理解镰状细胞病报告中血红蛋白组分、网织红细胞与血细胞变化的意义。赴中国评估时，结合输血和用药背景比较结果，区分疾病活动、骨髓反应与治疗安全性。",
+    "subtitle": "理解镰状细胞病报告中血红蛋白组分、网织红细胞与血细胞变化的意义。赴中国评估时，结合输血和用药背景比较结果，区分疾病活动、骨髓反应与治疗安全性。",
+    "lead": null
+  },
+  {
+    "id": 248,
+    "key": "patient-education-faq/sickle-cell-disease-outcomes-prognosis",
+    "title": "镰状细胞病预后：在中国就医时应问什么",
+    "h1": "镰状细胞病预后：在中国就医时应问什么",
+    "description": "了解镰状细胞病预后与基因型、危象、器官保护和治疗反应的关系。赴中国会诊时，核对研究人群与结局定义，讨论移植或基因治疗及长期照护的实际目标。",
+    "subtitle": "了解镰状细胞病预后与基因型、危象、器官保护和治疗反应的关系。赴中国会诊时，核对研究人群与结局定义，讨论移植或基因治疗及长期照护的实际目标。",
+    "lead": null
+  },
+  {
+    "id": 249,
+    "key": "patient-education-faq/biopsy-and-pathology-review-why-results-may-differ",
+    "title": "中国病理会诊：如何核实不一致的报告",
+    "h1": "中国病理会诊：如何核实不一致的报告",
+    "description": "解释取样、组织处理、染色、分子检测和肿瘤异质性，并安全借调玻片蜡块完成病理复核。",
+    "subtitle": "解释取样、组织处理、染色、分子检测和肿瘤异质性，并安全借调玻片蜡块完成病理复核。",
+    "lead": null
+  },
+  {
+    "id": 250,
+    "key": "patient-education-faq/mantle-cell-lymphoma-diagnosis-tests",
+    "title": "中国套细胞淋巴瘤诊断：活检与相关检查",
+    "h1": "中国套细胞淋巴瘤诊断：活检与相关检查",
+    "description": "了解中国套细胞淋巴瘤诊断中的组织活检、免疫染色、遗传检查与影像分期。明确骨髓、增殖和基因风险评估各自的用途，为治疗前会诊准备完整证据。",
+    "subtitle": "了解中国套细胞淋巴瘤诊断中的组织活检、免疫染色、遗传检查与影像分期。明确骨髓、增殖和基因风险评估各自的用途，为治疗前会诊准备完整证据。",
+    "lead": null
+  },
+  {
+    "id": 251,
+    "key": "patient-education-faq/graft-versus-host-disease-diagnosis-tests",
+    "title": "中国移植物抗宿主病评估：器官检查与诊断",
+    "h1": "中国移植物抗宿主病评估：器官检查与诊断",
+    "description": "了解中国移植物抗宿主病评估如何结合移植史、用药、皮肤和消化道症状及器官检查。区分肺功能、影像与活检的作用，同时核对感染等其他原因和及时处理需求。",
+    "subtitle": "了解中国移植物抗宿主病评估如何结合移植史、用药、皮肤和消化道症状及器官检查。区分肺功能、影像与活检的作用，同时核对感染等其他原因和及时处理需求。",
+    "lead": null
+  },
+  {
+    "id": 252,
+    "key": "patient-journey-guides/choosing-accommodation-near-a-hospital-in-china",
+    "title": "中国医院附近住宿怎么选：恢复与无障碍清单",
+    "h1": "中国医院附近住宿：别只看地图针，要测试恢复路线",
+    "description": "按准确院区、无障碍路线、恢复需求、药物冷藏、住宿登记、弹性费用和急诊升级，选择中国医院附近住宿。",
+    "subtitle": "合适的房间要连到正确院区，治疗后确实能使用，住宿登记合规，日期变化时可调整，并有真实的病情升级路线。",
+    "lead": null
+  },
+  {
+    "id": 253,
+    "key": "patient-journey-guides/creating-a-complication-and-emergency-plan-after-medical-travel",
+    "title": "在中国治疗后：急症与并发症应对计划",
+    "h1": "在中国治疗后：急症与并发症应对计划",
+    "description": "用响应通道、当地医院、60秒交接、应急病历、保险路径和演练，制定海外治疗后的实用急救预案。",
+    "subtitle": "用响应通道、当地医院、60秒交接、应急病历、保险路径和演练，制定海外治疗后的实用急救预案。",
+    "lead": null
+  },
+  {
+    "id": 254,
+    "key": "patient-journey-guides/post-ischemic-stroke-rehabilitation-follow-up-after-return-home",
+    "title": "在中国卒中康复后回国：继续训练、用药与随访",
+    "h1": "在中国卒中康复后回国：继续训练、用药与随访",
+    "description": "在中国完成卒中康复后，如何把训练、用药、吞咽和认知计划交接到回国生活中。保留离院功能基线，落实本地接诊与家庭环境调整，明确练习停止条件及照护支持。",
+    "subtitle": "在中国完成卒中康复后，如何把训练、用药、吞咽和认知计划交接到回国生活中。保留离院功能基线，落实本地接诊与家庭环境调整，明确练习停止条件及照护支持。",
+    "lead": null
+  },
+  {
+    "id": 255,
+    "key": "patient-journey-guides/alzheimer-disease-follow-up-after-return-home",
+    "title": "阿尔茨海默病在中国就诊后如何回国随访：把治疗安排交接到日常生活中",
+    "h1": "阿尔茨海默病在中国就诊后如何回国随访：把治疗安排交接到日常生活中",
+    "description": "阿尔茨海默病在中国就诊后，如何衔接回国用药、认知评估与抗体治疗监测。准备紧急治疗说明，安排影像和日常观察责任，并将突然恶化及照护困难纳入随访。",
+    "subtitle": "阿尔茨海默病在中国就诊后，如何衔接回国用药、认知评估与抗体治疗监测。准备紧急治疗说明，安排影像和日常观察责任，并将突然恶化及照护困难纳入随访。",
+    "lead": null
+  },
+  {
+    "id": 256,
+    "key": "patient-journey-guides/what-to-expect-during-an-inpatient-hospital-stay-in-china",
+    "title": "在中国住院｜病房查房、用药、护理与出院准备",
+    "h1": "在中国住院：用床旁每日控制板看清今天的目标",
+    "description": "用床旁每日控制板追踪中国医院住院期间的查房、医嘱、药物、检查结果、管路、护理风险、交接和出院就绪状态。",
+    "subtitle": "每天都有临床目标、明确负责人、待出结果、当前风险和出院障碍时，住院生活就不再只是一连串查房和检查。",
+    "lead": null
+  },
+  {
+    "id": 257,
+    "key": "patient-journey-guides/understanding-informed-consent-before-a-procedure-in-china",
+    "title": "中国操作前知情同意｜范围、风险与当日核查",
+    "h1": "在中国做操作前的知情同意：审核决定，不只检查签名",
+    "description": "在中国接受手术或有创操作前，核对操作范围、部位、风险、替代方案、条件性变更、决策权限和当日安全检查。",
+    "subtitle": "一页签字无法证明患者是否理解具体操作、边界、替代方案和可能改变计划的节点。应从医生解释一路核对到手术室安全检查。",
+    "lead": null
+  },
+  {
+    "id": 258,
+    "key": "patient-journey-guides/parkinson-disease-who-should-travel-china",
+    "title": "帕金森病患者适合赴华治疗吗：出发前评估病情、用药和旅途照护",
+    "h1": "帕金森病患者适合赴华治疗吗：出发前评估病情、用药和旅途照护",
+    "description": "帕金森病患者赴中国前，如何评估病情变化、跨时区用药和旅途照护需求。结合吞咽、血压及植入或输注装置，核对接诊目标、携药要求和途中备用安排。",
+    "subtitle": "帕金森病患者赴中国前，如何评估病情变化、跨时区用药和旅途照护需求。结合吞咽、血压及植入或输注装置，核对接诊目标、携药要求和途中备用安排。",
+    "lead": null
+  },
+  {
+    "id": 259,
+    "key": "patient-journey-guides/diffuse-large-b-cell-lymphoma-follow-up-after-return-home",
+    "title": "在中国治疗弥漫大B细胞淋巴瘤后：回国随访与交接",
+    "h1": "在中国治疗弥漫大B细胞淋巴瘤后：回国随访与交接",
+    "description": "在中国治疗弥漫大B细胞淋巴瘤后，如何带回疗效结论并安排本地随访。核对感染预防、疫苗、心脏神经监测及移植或细胞治疗后的额外要求，明确各项照护责任。",
+    "subtitle": "在中国治疗弥漫大B细胞淋巴瘤后，如何带回疗效结论并安排本地随访。核对感染预防、疫苗、心脏神经监测及移植或细胞治疗后的额外要求，明确各项照护责任。",
+    "lead": null
+  },
+  {
+    "id": 260,
+    "key": "patient-journey-guides/documents-to-prepare-before-traveling-to-china-for-treatment",
+    "title": "赴华治疗需要准备哪些文件：完整病例包清单",
+    "h1": "赴华治疗文件：做成一套能让医生下判断的病例包",
+    "description": "按身份、病情摘要、DICOM、病理、药物、翻译、授权和安全接收，制作能供中国医院真正复核的赴华治疗病例包。",
+    "subtitle": "有用的病例包不在于厚，而在于中国医院能核对身份、还原病程、打开原始证据，并看清还缺什么。",
+    "lead": null
+  },
+  {
+    "id": 261,
+    "key": "patient-journey-guides/planning-flights-before-and-after-medical-treatment",
+    "title": "赴华治疗前后航班怎么安排",
+    "h1": "赴华治疗前后乘机：要过四道关，不是等一个日期",
+    "description": "从临床适航、航空批准、机场协助、客舱生理、血栓风险、可变更回程和停止规则，规划赴华治疗前后航班。",
+    "subtitle": "出院、临床适航、航空公司承运和实际完成机场转移是四道独立关卡。往返航班都要围绕生理状态和备用方案规划。",
+    "lead": null
+  },
+  {
+    "id": 262,
+    "key": "patient-journey-guides/when-is-it-safe-to-fly-after-surgery-or-treatment",
+    "title": "在中国手术后何时能飞：医学评估与时间安排",
+    "h1": "在中国手术后何时能飞：医学评估与时间安排",
+    "description": "治疗后乘机前，评估残余气体、氧储备、血栓与并发症风险、机场功能和航司医疗审批。",
+    "subtitle": "治疗后乘机前，评估残余气体、氧储备、血栓与并发症风险、机场功能和航司医疗审批。",
+    "lead": null
+  },
+  {
+    "id": 263,
+    "key": "patient-journey-guides/follicular-lymphoma-follow-up-after-return-home",
+    "title": "在中国治疗滤泡性淋巴瘤后：回国复查与用药交接",
+    "h1": "在中国治疗滤泡性淋巴瘤后：回国复查与用药交接",
+    "description": "在中国治疗滤泡性淋巴瘤后，如何按观察、维持或缓解阶段衔接回国复查。明确影像检查目的、感染预防与新肿块处理，将特殊治疗监测和生活恢复纳入随访。",
+    "subtitle": "在中国治疗滤泡性淋巴瘤后，如何按观察、维持或缓解阶段衔接回国复查。明确影像检查目的、感染预防与新肿块处理，将特殊治疗监测和生活恢复纳入随访。",
+    "lead": null
+  },
+  {
+    "id": 264,
+    "key": "patient-journey-guides/drug-resistant-epilepsy-follow-up-after-return-home",
+    "title": "难治性癫痫在中国治疗后如何回国随访：让方案有人接、问题有人处理",
+    "h1": "难治性癫痫在中国治疗后如何回国随访：让方案有人接、问题有人处理",
+    "description": "难治性癫痫在中国治疗后，如何交接回国处方、未出结果、发作记录与术后随访。落实本地医生和安全监测责任，明确再次发作时的急救安排与设备或功能复查。",
+    "subtitle": "难治性癫痫在中国治疗后，如何交接回国处方、未出结果、发作记录与术后随访。落实本地医生和安全监测责任，明确再次发作时的急救安排与设备或功能复查。",
+    "lead": null
+  },
+  {
+    "id": 265,
+    "key": "patient-journey-guides/graft-versus-host-disease-follow-up-after-return-home",
+    "title": "GVHD在中国治疗后回国，怎样接好复查、药物和器官护理？",
+    "h1": "GVHD在中国治疗后回国，怎样接好复查、药物和器官护理？",
+    "description": "移植物抗宿主病在中国治疗后，如何衔接回国处方、减药复评和器官护理。安排肺、眼、口腔与皮肤随访，核对感染防护和本地急诊路径，明确谁负责查看结果。",
+    "subtitle": "移植物抗宿主病在中国治疗后，如何衔接回国处方、减药复评和器官护理。安排肺、眼、口腔与皮肤随访，核对感染防护和本地急诊路径，明确谁负责查看结果。",
+    "lead": null
+  },
+  {
+    "id": 266,
+    "key": "patient-journey-guides/multiple-sclerosis-follow-up-after-return-home",
+    "title": "多发性硬化在中国就诊后如何随访：把检查结果接到下一步行动",
+    "h1": "多发性硬化在中国就诊后如何随访：把检查结果接到下一步行动",
+    "description": "多发性硬化在中国就诊后，如何建立可比较的功能基线并安排药物安全监测。明确本地医生、新症状分流和缓慢进展记录，将康复、排尿及情绪问题接入持续随访。",
+    "subtitle": "多发性硬化在中国就诊后，如何建立可比较的功能基线并安排药物安全监测。明确本地医生、新症状分流和缓慢进展记录，将康复、排尿及情绪问题接入持续随访。",
+    "lead": null
+  },
+  {
+    "id": 267,
+    "key": "patient-journey-guides/t-cell-lymphoma-follow-up-after-return-home",
+    "title": "在中国治疗 T细胞淋巴瘤后：回国检查、用药与随访",
+    "h1": "在中国治疗 T细胞淋巴瘤后：回国检查、用药与随访",
+    "description": "在中国治疗T细胞淋巴瘤后，如何按治疗阶段衔接回国复查、续药和移植照护。保留结束治疗时的基线，明确异常变化、发热急诊与结果审核责任，避免随访脱节。",
+    "subtitle": "在中国治疗T细胞淋巴瘤后，如何按治疗阶段衔接回国复查、续药和移植照护。保留结束治疗时的基线，明确异常变化、发热急诊与结果审核责任，避免随访脱节。",
+    "lead": null
+  },
+  {
+    "id": 268,
+    "key": "patient-journey-guides/thalassemia-follow-up-after-return-home",
+    "title": "地中海贫血在中国就诊后如何回国随访：把复查任务交到具体医生手中",
+    "h1": "地中海贫血在中国就诊后如何回国随访：把复查任务交到具体医生手中",
+    "description": "地中海贫血在中国就诊后，如何将输血、祛铁、器官监测与用药安全交接给本地医生。区分返程资格和长期随访，并核对移植或基因治疗后的持续监测任务。",
+    "subtitle": "地中海贫血在中国就诊后，如何将输血、祛铁、器官监测与用药安全交接给本地医生。区分返程资格和长期随访，并核对移植或基因治疗后的持续监测任务。",
+    "lead": null
+  },
+  {
+    "id": 269,
+    "key": "patient-journey-guides/aplastic-anemia-follow-up-after-return-home",
+    "title": "再障在中国治疗后回国随访：让检查结果有人看、药物调整有人负责",
+    "h1": "再障在中国治疗后回国随访：让检查结果有人看、药物调整有人负责",
+    "description": "再生障碍性贫血在中国治疗后，如何落实回国血常规、药物浓度与用药安全监测。明确本地医生、输血和紧急照护安排，按是否接受移植准备相应的持续交接。",
+    "subtitle": "再生障碍性贫血在中国治疗后，如何落实回国血常规、药物浓度与用药安全监测。明确本地医生、输血和紧急照护安排，按是否接受移植准备相应的持续交接。",
+    "lead": null
+  },
+  {
+    "id": 270,
+    "key": "patient-journey-guides/handing-over-care-to-your-doctor-at-home",
+    "title": "在中国就医后回国：如何向当地医生交接",
+    "h1": "在中国就医后回国：如何向当地医生交接",
+    "description": "用接收医生、一页问题摘要、任务负责人、待回报结果方案和明确接管记录，完成海外治疗后的临床交接。",
+    "subtitle": "用接收医生、一页问题摘要、任务负责人、待回报结果方案和明确接管记录，完成海外治疗后的临床交接。",
+    "lead": null
+  },
+  {
+    "id": 271,
+    "key": "patient-journey-guides/hospital-admission-in-china-documents-deposits-and-rooms",
+    "title": "中国医院住院办理｜文件、预交金与房型指南",
+    "h1": "在中国医院办理住院：床位、账户与临床责任什么时候才真正生效",
+    "description": "国际患者办理中国医院住院时，应把住院医嘱、床位、住院账户、预交金、知情同意和病区交接逐项确认。",
+    "subtitle": "计划住院要经过几道不同的门：有效住院医嘱、可用床位、已启用的住院账户、正确身份和病区正式接收。不能把它们混成一句“已经安排好”。",
+    "lead": null
+  },
+  {
+    "id": 272,
+    "key": "patient-journey-guides/paying-a-hospital-deposit-in-china-practical-questions",
+    "title": "中国医院预交金｜付款凭证、票据与退款核对",
+    "h1": "中国医院预交金：先把付款人、患者账户和退款路径对齐",
+    "description": "国际患者支付中国医院预交金时，逐项对齐付款人、患者账户、医院收款主体、交易流水、正式票据和退款路径。",
+    "subtitle": "钱汇到医院，不等于已经记到正确的患者名下。付款前先核对付款指令、四个控制编号、正式票据和退款去向。",
+    "lead": null
+  },
+  {
+    "id": 273,
+    "key": "patient-journey-guides/hospital-discharge-in-china-a-complete-checklist",
+    "title": "中国医院出院清单｜六条关闭链",
+    "h1": "在中国医院出院：六条关闭链全部对齐后再离开",
+    "description": "离开中国医院前，逐项关闭临床、药物、待出结果、器械、文件、结算与交通任务。",
+    "subtitle": "医生开出院医嘱，只是启动收尾工作，并不代表药物、待出结果、器械培训、文件、结算和交通已经同时就绪。",
+    "lead": null
+  },
+  {
+    "id": 274,
+    "key": "patient-journey-guides/registration-and-identity-checks-at-a-chinese-hospital",
+    "title": "中国医院身份核验｜国际患者病历安全指南",
+    "h1": "中国医院身份核验：让一个患者始终连着同一条病情故事",
+    "description": "关联护照姓名变体、医院病历号、标本、影像与报告，避免国际患者在中国就医时出现重复病历和身份错配。",
+    "subtitle": "对国际患者来说，一个拼写差异就可能让影像与报告分家、生成第二个病历号，甚至把医嘱挂到错误身份下。诊疗开始前，先把身份链建立并核对好。",
+    "lead": null
+  },
+  {
+    "id": 275,
+    "key": "patient-journey-guides/multiple-sclerosis-who-should-travel-china",
+    "title": "多发性硬化患者是否适合来中国就诊：把旅程放进治疗安排",
+    "h1": "多发性硬化患者是否适合来中国就诊：把旅程放进治疗安排",
+    "description": "多发性硬化患者来中国前，如何结合症状变化、体能、近期治疗与感染风险安排旅程。核对接诊目标和持续用药，具体准备休息、温度及排尿支持，减少治疗衔接空档。",
+    "subtitle": "多发性硬化患者来中国前，如何结合症状变化、体能、近期治疗与感染风险安排旅程。核对接诊目标和持续用药，具体准备休息、温度及排尿支持，减少治疗衔接空档。",
+    "lead": null
+  },
+  {
+    "id": 276,
+    "key": "patient-journey-guides/working-with-a-medical-interpreter-during-appointments",
+    "title": "中国门诊医疗口译｜角色、复述确认与会诊记录",
+    "h1": "中国门诊医疗口译｜角色、复述确认与会诊记录",
+    "description": "通过第一人称、短句轮次、说话人标记、药物双重核对、复述确认和书面决策记录，提高口译门诊的准确性。",
+    "subtitle": "一场好的口译门诊不是三段各说各话。患者与医生彼此交谈，口译员把每个问题、限定条件、数字和不确定性完整带过语言边界。",
+    "lead": null
+  },
+  {
+    "id": 277,
+    "key": "patient-journey-guides/diffuse-large-b-cell-lymphoma-medical-records",
+    "title": "弥漫大B细胞淋巴瘤赴中国会诊需要哪些病历：病理、影像与治疗时间线",
+    "h1": "弥漫大B细胞淋巴瘤赴中国会诊需要哪些病历：病理、影像与治疗时间线",
+    "description": "赴中国会诊弥漫大B细胞淋巴瘤前，整理病理原件、玻片、影像原始文件与实际给药时间线。补充复发证据、感染、器官和严重毒性记录，说明本次会诊要解决的问题。",
+    "subtitle": "赴中国会诊弥漫大B细胞淋巴瘤前，整理病理原件、玻片、影像原始文件与实际给药时间线。补充复发证据、感染、器官和严重毒性记录，说明本次会诊要解决的问题。",
+    "lead": null
+  },
+  {
+    "id": 278,
+    "key": "patient-journey-guides/drug-resistant-epilepsy-medical-records",
+    "title": "难治性癫痫赴中国就医要准备哪些病历：让医生看懂完整治疗经过",
+    "h1": "难治性癫痫赴中国就医要准备哪些病历：让医生看懂完整治疗经过",
+    "description": "赴中国评估难治性癫痫前，如何整理发作日记、安全取得的视频、实际用药和脑电资料。保留磁共振原始文件与事件背景，让医生看清不同发作及治疗前后的变化。",
+    "subtitle": "赴中国评估难治性癫痫前，如何整理发作日记、安全取得的视频、实际用药和脑电资料。保留磁共振原始文件与事件背景，让医生看清不同发作及治疗前后的变化。",
+    "lead": null
+  },
+  {
+    "id": 279,
+    "key": "patient-journey-guides/graft-versus-host-disease-medical-records",
+    "title": "GVHD来华会诊要准备哪些病历？把移植过程、器官变化与用药反应讲清楚",
+    "h1": "GVHD来华会诊要准备哪些病历？把移植过程、器官变化与用药反应讲清楚",
+    "description": "赴中国会诊移植物抗宿主病前，整理移植经过、器官变化与用药反应时间线。保留活检原结论、完整肺功能及各专科记录，帮助团队比较疾病活动和既往治疗效果。",
+    "subtitle": "赴中国会诊移植物抗宿主病前，整理移植经过、器官变化与用药反应时间线。保留活检原结论、完整肺功能及各专科记录，帮助团队比较疾病活动和既往治疗效果。",
+    "lead": null
+  },
+  {
+    "id": 280,
+    "key": "patient-journey-guides/aplastic-anemia-medical-records",
+    "title": "赴中国会诊再生障碍性贫血：病历资料准备",
+    "h1": "赴中国会诊再生障碍性贫血：病历资料准备",
+    "description": "赴中国会诊再生障碍性贫血前，准备血常规、骨髓、染色体、克隆及实际用药记录。保留输血背景与原始材料，移植患者补充交接页，并核对翻译和资料递交情况。",
+    "subtitle": "赴中国会诊再生障碍性贫血前，准备血常规、骨髓、染色体、克隆及实际用药记录。保留输血背景与原始材料，移植患者补充交接页，并核对翻译和资料递交情况。",
+    "lead": null
+  },
+  {
+    "id": 281,
+    "key": "patient-journey-guides/myelodysplastic-syndrome-medical-records",
+    "title": "骨髓增生异常综合征来华会诊要准备什么病历？骨髓、基因、输血与用药记录清单",
+    "h1": "骨髓增生异常综合征来华会诊要准备什么病历？骨髓、基因、输血与用药记录清单",
+    "description": "骨髓增生异常综合征赴中国会诊前，如何整理骨髓、遗传、血常规与输血时间线。补充实际疗程、感染和移植资料，保留完整检测方法及原始材料，便于专科复核。",
+    "subtitle": "骨髓增生异常综合征赴中国会诊前，如何整理骨髓、遗传、血常规与输血时间线。补充实际疗程、感染和移植资料，保留完整检测方法及原始材料，便于专科复核。",
+    "lead": null
+  },
+  {
+    "id": 282,
+    "key": "patient-journey-guides/multiple-sclerosis-medical-records",
+    "title": "多发性硬化来中国就诊要带哪些病历：让医生看见病情如何变化",
+    "h1": "多发性硬化来中国就诊要带哪些病历：让医生看见病情如何变化",
+    "description": "多发性硬化来中国就诊前，整理症状与恢复时间线、完整磁共振序列、脑脊液和抗体报告。保留功能评估条件与换药原因，并提前核对翻译、授权及文件交付要求。",
+    "subtitle": "多发性硬化来中国就诊前，整理症状与恢复时间线、完整磁共振序列、脑脊液和抗体报告。保留功能评估条件与换药原因，并提前核对翻译、授权及文件交付要求。",
+    "lead": null
+  },
+  {
+    "id": 283,
+    "key": "patient-journey-guides/multiple-myeloma-medical-records",
+    "title": "多发性骨髓瘤来中国就医需要哪些病历：诊断、耐药与治疗准备资料",
+    "h1": "多发性骨髓瘤来中国就医需要哪些病历：诊断、耐药与治疗准备资料",
+    "description": "多发性骨髓瘤赴中国就医前，准备骨髓、遗传、连续蛋白与轻链结果及原始影像。逐线记录疗效和停药原因，补充近期器官、感染和输血资料，支持耐药与治疗评估。",
+    "subtitle": "多发性骨髓瘤赴中国就医前，准备骨髓、遗传、连续蛋白与轻链结果及原始影像。逐线记录疗效和停药原因，补充近期器官、感染和输血资料，支持耐药与治疗评估。",
+    "lead": null
+  },
+  {
+    "id": 284,
+    "key": "patient-journey-guides/parkinson-disease-medical-records",
+    "title": "帕金森病赴华就医要准备哪些病历：让医生看清症状、药效和既往操作",
+    "h1": "帕金森病赴华就医要准备哪些病历：让医生看清症状、药效和既往操作",
+    "description": "帕金森病赴中国就医前，整理症状日记、实际服药、量表条件与既往操作记录。补充植入或输注装置信息，以及吞咽、跌倒和照护资料，让医生看清药效与生活困难。",
+    "subtitle": "帕金森病赴中国就医前，整理症状日记、实际服药、量表条件与既往操作记录。补充植入或输注装置信息，以及吞咽、跌倒和照护资料，让医生看清药效与生活困难。",
+    "lead": null
+  },
+  {
+    "id": 285,
+    "key": "patient-journey-guides/sickle-cell-disease-medical-records",
+    "title": "镰状细胞病来中国就医要带哪些病历：诊断、配血、危象和治疗记录",
+    "h1": "镰状细胞病来中国就医要带哪些病历：诊断、配血、危象和治疗记录",
+    "description": "镰状细胞病来中国就医前，如何整理诊断、日常基线、危象与器官评估资料。完整保留配血抗体、严重输血反应和用药调整记录，补充移植或基因治疗的相关文件。",
+    "subtitle": "镰状细胞病来中国就医前，如何整理诊断、日常基线、危象与器官评估资料。完整保留配血抗体、严重输血反应和用药调整记录，补充移植或基因治疗的相关文件。",
+    "lead": null
+  },
+  {
+    "id": 286,
+    "key": "patient-journey-guides/thalassemia-medical-records",
+    "title": "地中海贫血赴中国就诊带什么资料：把诊断、输血、铁负荷和用药连成一份病历",
+    "h1": "地中海贫血赴中国就诊带什么资料：把诊断、输血、铁负荷和用药连成一份病历",
+    "description": "地中海贫血赴中国就诊前，准备完整基因报告、输血表、血库历史与铁负荷趋势。记录实际祛铁用法、影像方法和器官并发症，让资料能够说明诊断及持续治疗需求。",
+    "subtitle": "地中海贫血赴中国就诊前，准备完整基因报告、输血表、血库历史与铁负荷趋势。记录实际祛铁用法、影像方法和器官并发症，让资料能够说明诊断及持续治疗需求。",
+    "lead": null
+  },
+  {
+    "id": 287,
+    "key": "patient-journey-guides/medical-records-to-take-home-after-treatment-in-china",
+    "title": "中国治疗后带回哪些病历｜可追溯资料包",
+    "h1": "在中国治疗后带回哪些病历：建立可追溯的证据包",
+    "description": "整理源病历、DICOM 影像、病理、药物、器械、待出结果和后续正式副本，建立可核验回国资料包。",
+    "subtitle": "真正可用的资料包要证明发生了什么、哪个版本是最终版、属于哪位患者、哪些仍待完成，以及原始数据在哪里能够打开。",
+    "lead": null
+  },
+  {
+    "id": 288,
+    "key": "patient-journey-guides/medical-travel-to-china-a-12-week-planning-timeline",
+    "title": "赴华就医 12 周规划：从病历审核到回国随访",
+    "h1": "赴华就医：12 周规划时间表",
+    "description": "用 12 周时间表安排病历、医院审阅、费用、签证核对、药物、灵活行程、恢复和回国随访。",
+    "subtitle": "先取得临床接收意见，再安排行程；恢复期、病历交接和回程同样属于计划的一部分。",
+    "lead": null
+  },
+  {
+    "id": 289,
+    "key": "patient-journey-guides/medication-reconciliation-before-leaving-china",
+    "title": "离开中国前药物核对｜跨境用药连续性",
+    "h1": "离开中国前核对药物：让每一剂药都能安全跨境",
+    "description": "离境前核对药物身份、决定、旅行给药时间、合法供应、冷链、监测和回国续方人。",
+    "subtitle": "只有每种药都明确身份、决定、时间、供应、监测和后续开方人，药物核对才算完成。",
+    "lead": null
+  },
+  {
+    "id": 290,
+    "key": "patient-journey-guides/multiple-myeloma-follow-up-after-return-home",
+    "title": "多发性骨髓瘤在中国治疗后回国：复查、续药与异常情况怎样衔接",
+    "h1": "多发性骨髓瘤在中国治疗后回国：复查、续药与异常情况怎样衔接",
+    "description": "多发性骨髓瘤在中国治疗后，如何衔接回国复查、续药与异常结果处理。核对两地化验可比性，延续肾脏、骨骼、感染和乙肝监测，并明确下一次临床决定由谁负责。",
+    "subtitle": "多发性骨髓瘤在中国治疗后，如何衔接回国复查、续药与异常结果处理。核对两地化验可比性，延续肾脏、骨骼、感染和乙肝监测，并明确下一次临床决定由谁负责。",
+    "lead": null
+  },
+  {
+    "id": 291,
+    "key": "patient-journey-guides/nutrition-and-hydration-during-hospital-recovery",
+    "title": "在中国住院恢复：营养与液体管理计划",
+    "h1": "在中国住院恢复：营养与液体管理计划",
+    "description": "筛查营养风险，确认吞咽和胃肠安全，选择口服、管饲或静脉支持，管理液体平衡并制定出院营养交接。",
+    "subtitle": "筛查营养风险，确认吞咽和胃肠安全，选择口服、管饲或静脉支持，管理液体平衡并制定出院营养交接。",
+    "lead": null
+  },
+  {
+    "id": 292,
+    "key": "patient-journey-guides/pain-management-after-a-procedure-questions-to-ask",
+    "title": "在中国术后疼痛：需要询问的问题与警示症状",
+    "h1": "在中国术后疼痛：需要询问的问题与警示症状",
+    "description": "围绕疼痛模式、功能目标、多模式镇痛、救援触发、镇静和呼吸监测及安全带药，制定操作后疼痛方案。",
+    "subtitle": "围绕疼痛模式、功能目标、多模式镇痛、救援触发、镇静和呼吸监测及安全带药，制定操作后疼痛方案。",
+    "lead": null
+  },
+  {
+    "id": 293,
+    "key": "patient-journey-guides/parkinson-disease-follow-up-after-return-home",
+    "title": "帕金森病在中国治疗后回国怎样随访：从处方交接到装置和日常功能复查",
+    "h1": "帕金森病在中国治疗后回国怎样随访：从处方交接到装置和日常功能复查",
+    "description": "帕金森病在中国治疗后，如何交接回国处方、脑起搏器或输注装置与康复计划。结合家庭中的药效、吞咽、交流及情绪变化安排复查，明确本地支持与紧急处理路径。",
+    "subtitle": "帕金森病在中国治疗后，如何交接回国处方、脑起搏器或输注装置与康复计划。结合家庭中的药效、吞咽、交流及情绪变化安排复查，明确本地支持与紧急处理路径。",
+    "lead": null
+  },
+  {
+    "id": 294,
+    "key": "patient-journey-guides/alzheimer-disease-medical-records",
+    "title": "阿尔茨海默病赴华就诊病历清单：怎样让症状、检查与用药记录对得上",
+    "h1": "阿尔茨海默病赴华就诊病历清单：怎样让症状、检查与用药记录对得上",
+    "description": "阿尔茨海默病赴中国就诊前，整理症状、认知量表、影像与实际用药记录。保留生物标志物检测方法和遗传检测目的，已接受抗体治疗者补充给药与安全监测档案。",
+    "subtitle": "阿尔茨海默病赴中国就诊前，整理症状、认知量表、影像与实际用药记录。保留生物标志物检测方法和遗传检测目的，已接受抗体治疗者补充给药与安全监测档案。",
+    "lead": null
+  },
+  {
+    "id": 295,
+    "key": "patient-journey-guides/follicular-lymphoma-medical-records",
+    "title": "滤泡性淋巴瘤来华病历准备：让病理、治疗和复发时间能够相互对应",
+    "h1": "滤泡性淋巴瘤来华病历准备：让病理、治疗和复发时间能够相互对应",
+    "description": "滤泡性淋巴瘤赴中国会诊前，如何让病理标本、影像、诱导和维持疗程按日期对应。整理当前用药与安全资料，保留诊断原意，并提前确认文件接收及回国交接方式。",
+    "subtitle": "滤泡性淋巴瘤赴中国会诊前，如何让病理标本、影像、诱导和维持疗程按日期对应。整理当前用药与安全资料，保留诊断原意，并提前确认文件接收及回国交接方式。",
+    "lead": null
+  },
+  {
+    "id": 296,
+    "key": "patient-journey-guides/mantle-cell-lymphoma-medical-records",
+    "title": "套细胞淋巴瘤赴华会诊病历准备：把诊断依据、治疗经过和当前问题接起来",
+    "h1": "套细胞淋巴瘤赴华会诊病历准备：把诊断依据、治疗经过和当前问题接起来",
+    "description": "套细胞淋巴瘤赴中国会诊前，准备可追溯的病理、完整分子报告与治疗前后影像。说明每次换方案的原因和当前身体状态，移植或细胞治疗后另附专门治疗档案。",
+    "subtitle": "套细胞淋巴瘤赴中国会诊前，准备可追溯的病理、完整分子报告与治疗前后影像。说明每次换方案的原因和当前身体状态，移植或细胞治疗后另附专门治疗档案。",
+    "lead": null
+  },
+  {
+    "id": 297,
+    "key": "patient-journey-guides/post-ischemic-stroke-rehabilitation-medical-records",
+    "title": "赴中国卒中康复：影像、用药与功能记录准备",
+    "h1": "赴中国卒中康复：影像、用药与功能记录准备",
+    "description": "赴中国进行卒中康复前，整理原始影像、病因、实际用药与功能变化时间线。保留量表条件、吞咽和认知记录，补充既往训练效果及家庭环境，帮助团队制定目标。",
+    "subtitle": "赴中国进行卒中康复前，整理原始影像、病因、实际用药与功能变化时间线。保留量表条件、吞咽和认知记录，补充既往训练效果及家庭环境，帮助团队制定目标。",
+    "lead": null
+  },
+  {
+    "id": 298,
+    "key": "patient-journey-guides/t-cell-lymphoma-medical-records",
+    "title": "赴中国会诊 T细胞淋巴瘤：诊断与治疗记录准备",
+    "h1": "赴中国会诊 T细胞淋巴瘤：诊断与治疗记录准备",
+    "description": "赴中国会诊T细胞淋巴瘤前，整理完整病理、不同版本诊断、分子报告和原始影像。逐线记录疗效、换药及严重不良反应，补充骨髓、病毒、移植和放疗资料。",
+    "subtitle": "赴中国会诊T细胞淋巴瘤前，整理完整病理、不同版本诊断、分子报告和原始影像。逐线记录疗效、换药及严重不良反应，补充骨髓、病毒、移植和放疗资料。",
+    "lead": null
+  },
+  {
+    "id": 299,
+    "key": "patient-journey-guides/hodgkin-lymphoma-medical-records",
+    "title": "霍奇金淋巴瘤来中国就诊要带什么资料：病理、PET和实际用药记录",
+    "h1": "霍奇金淋巴瘤来中国就诊要带什么资料：病理、PET和实际用药记录",
+    "description": "霍奇金淋巴瘤来中国就诊前，准备完整病理、玻片或蜡块、治疗前后影像与实际给药记录。补充分期依据、副作用处理、放疗暴露及移植资料，明确会诊问题。",
+    "subtitle": "霍奇金淋巴瘤来中国就诊前，准备完整病理、玻片或蜡块、治疗前后影像与实际给药记录。补充分期依据、副作用处理、放疗暴露及移植资料，明确会诊问题。",
+    "lead": null
+  },
+  {
+    "id": 300,
+    "key": "patient-journey-guides/recovering-in-a-hotel-after-medical-treatment",
+    "title": "在中国治疗后住酒店恢复：客房安全核对",
+    "h1": "在中国治疗后住酒店恢复：客房安全核对",
+    "description": "在中国接受门诊治疗后，逐项测试酒店入住资格、空间、陪护、药物储存、设备和急救路线。",
+    "subtitle": "在中国接受门诊治疗后，逐项测试酒店入住资格、空间、陪护、药物储存、设备和急救路线。",
+    "lead": null
+  },
+  {
+    "id": 301,
+    "key": "patient-journey-guides/planning-rehabilitation-before-returning-home",
+    "title": "在中国康复后回国：康复资料与照护交接",
+    "h1": "在中国康复后回国：康复资料与照护交接",
+    "description": "回国前交接功能基线、目标、训练剂量、器具、照护者技能，并确认首个接收预约。",
+    "subtitle": "回国前交接功能基线、目标、训练剂量、器具、照护者技能，并确认首个接收预约。",
+    "lead": null
+  },
+  {
+    "id": 302,
+    "key": "patient-journey-guides/remote-follow-up-with-your-medical-team-in-china",
+    "title": "与中国医疗团队远程随访｜三方闭环",
+    "h1": "与中国医疗团队远程随访：建立三方控制闭环",
+    "description": "建立中国团队—当地医生—患者闭环，管理远程复诊、待出结果、决策、处方、隐私和急症升级。",
+    "subtitle": "安全随访连接中国治疗团队、能在当地检查患者的医生以及患者本人，而不是依赖一个无人回复的聊天窗口。",
+    "lead": null
+  },
+  {
+    "id": 303,
+    "key": "patient-journey-guides/repeating-tests-after-arrival-why-it-may-be-necessary",
+    "title": "到中国医院后为什么需要复查｜检查互认与安全指南",
+    "h1": "到中国医院后为什么需要复查｜检查互认与安全指南",
+    "description": "用身份、临床问题、方法、时间和质量五项标准，判断海外检验、影像或病理资料应沿用、重读、重复还是替换。",
+    "subtitle": "既往结果适合当前决定时就应利用；当身份、时间、方法、质量或临床问题出现缺口时，复查才有明确理由。",
+    "lead": null
+  },
+  {
+    "id": 304,
+    "key": "patient-journey-guides/hodgkin-lymphoma-follow-up-after-return-home",
+    "title": "霍奇金淋巴瘤在中国治疗后回国：怎样接好随访和长期健康管理",
+    "h1": "霍奇金淋巴瘤在中国治疗后回国：怎样接好随访和长期健康管理",
+    "description": "霍奇金淋巴瘤在中国治疗后，如何完成疗程结束评估并衔接回国随访。依据实际药物和放疗暴露安排长期检查，明确新症状、免疫治疗相关问题及疲劳的处理责任。",
+    "subtitle": "霍奇金淋巴瘤在中国治疗后，如何完成疗程结束评估并衔接回国随访。依据实际药物和放疗暴露安排长期检查，明确新症状、免疫治疗相关问题及疲劳的处理责任。",
+    "lead": null
+  },
+  {
+    "id": 305,
+    "key": "patient-journey-guides/mantle-cell-lymphoma-follow-up-after-return-home",
+    "title": "套细胞淋巴瘤在中国治疗后回国：怎样把随访接到当地医院",
+    "h1": "套细胞淋巴瘤在中国治疗后回国：怎样把随访接到当地医院",
+    "description": "套细胞淋巴瘤在中国治疗后，如何按当前病程安排回国复查与持续用药。明确每份结果的接收者、本地急诊路径，以及移植或细胞治疗后的专门监测和长期健康管理。",
+    "subtitle": "套细胞淋巴瘤在中国治疗后，如何按当前病程安排回国复查与持续用药。明确每份结果的接收者、本地急诊路径，以及移植或细胞治疗后的专门监测和长期健康管理。",
+    "lead": null
+  },
+  {
+    "id": 306,
+    "key": "patient-journey-guides/myelodysplastic-syndrome-follow-up-after-return-home",
+    "title": "MDS在中国治疗后回国怎么随访？把复查、输血、处方和移植照护接起来",
+    "h1": "MDS在中国治疗后回国怎么随访？把复查、输血、处方和移植照护接起来",
+    "description": "骨髓增生异常综合征在中国治疗后，如何交接回国复查、输血、处方和移植照护。核对实际剂量与停药规则，落实发热出血应急路径，并按免疫状态安排生活恢复。",
+    "subtitle": "骨髓增生异常综合征在中国治疗后，如何交接回国复查、输血、处方和移植照护。核对实际剂量与停药规则，落实发热出血应急路径，并按免疫状态安排生活恢复。",
+    "lead": null
+  },
+  {
+    "id": 307,
+    "key": "patient-journey-guides/diffuse-large-b-cell-lymphoma-who-should-travel-china",
+    "title": "弥漫大B细胞淋巴瘤患者是否适合赴中国治疗：先看临床需要与旅行安全",
+    "h1": "弥漫大B细胞淋巴瘤患者是否适合赴中国治疗：先看临床需要与旅行安全",
+    "description": "弥漫大B细胞淋巴瘤患者赴中国前，如何判断病理复核、复发评估或研究咨询的价值。结合血象、免疫状态和治疗日历评估旅行安全，避免让行程打断必要治疗。",
+    "subtitle": "弥漫大B细胞淋巴瘤患者赴中国前，如何判断病理复核、复发评估或研究咨询的价值。结合血象、免疫状态和治疗日历评估旅行安全，避免让行程打断必要治疗。",
+    "lead": null
+  },
+  {
+    "id": 308,
+    "key": "patient-journey-guides/multiple-myeloma-who-should-travel-china",
+    "title": "多发性骨髓瘤患者适合来中国治疗吗：病情稳定、治疗机会与旅途准备",
+    "h1": "多发性骨髓瘤患者适合来中国治疗吗：病情稳定、治疗机会与旅途准备",
+    "description": "多发性骨髓瘤患者来中国前，评估转诊目标、病情稳定性及旅途照护。结合肾功能、骨折和感染风险核对接诊条件，并为移植、细胞治疗或双抗安排观察与后续衔接。",
+    "subtitle": "多发性骨髓瘤患者来中国前，评估转诊目标、病情稳定性及旅途照护。结合肾功能、骨折和感染风险核对接诊条件，并为移植、细胞治疗或双抗安排观察与后续衔接。",
+    "lead": null
+  },
+  {
+    "id": 309,
+    "key": "patient-journey-guides/hodgkin-lymphoma-who-should-travel-china",
+    "title": "霍奇金淋巴瘤适合来中国治疗吗：先明确转诊价值与旅行条件",
+    "h1": "霍奇金淋巴瘤适合来中国治疗吗：先明确转诊价值与旅行条件",
+    "description": "霍奇金淋巴瘤患者来中国前，如何明确病理复核、一线方案或复发移植评估的目标。结合近期治疗与免疫状况讨论飞行条件，区分需先当地处理的问题和计划性转诊。",
+    "subtitle": "霍奇金淋巴瘤患者来中国前，如何明确病理复核、一线方案或复发移植评估的目标。结合近期治疗与免疫状况讨论飞行条件，区分需先当地处理的问题和计划性转诊。",
+    "lead": null
+  },
+  {
+    "id": 310,
+    "key": "patient-journey-guides/should-a-family-member-or-companion-travel-with-you",
+    "title": "赴华治疗是否需要家属陪同：判断清单",
+    "h1": "赴华治疗要不要有人陪：先写岗位说明，再选人",
+    "description": "按沟通、同意、活动、病区规则、病历、出院培训和后备支持，判断赴华治疗是否需要家属或陪同者。",
+    "subtitle": "依据沟通、决策、活动、文件、观察和交接任务选择支持者，而不是只看谁与患者血缘最近。",
+    "lead": null
+  },
+  {
+    "id": 311,
+    "key": "patient-journey-guides/alzheimer-disease-who-should-travel-china",
+    "title": "阿尔茨海默病患者是否适合赴中国就医：先明确目的，再决定行程",
+    "h1": "阿尔茨海默病患者是否适合赴中国就医：先明确目的，再决定行程",
+    "description": "阿尔茨海默病患者赴中国就医前，明确诊断、治疗或照护咨询目标，再评估旅行负担。结合患者意愿、病情阶段、抗体监测和陪护能力，制定能持续执行的安排。",
+    "subtitle": "阿尔茨海默病患者赴中国就医前，明确诊断、治疗或照护咨询目标，再评估旅行负担。结合患者意愿、病情阶段、抗体监测和陪护能力，制定能持续执行的安排。",
+    "lead": null
+  },
+  {
+    "id": 312,
+    "key": "patient-journey-guides/drug-resistant-epilepsy-who-should-travel-china",
+    "title": "难治性癫痫患者是否适合来中国就医：先判断医疗价值与旅途可行性",
+    "h1": "难治性癫痫患者是否适合来中国就医：先判断医疗价值与旅途可行性",
+    "description": "难治性癫痫患者来中国前，如何通过资料预审明确进一步评估的价值。结合发作稳定性、航班、连续用药和陪同照护能力安排旅程，儿童还需考虑饮食与发育支持。",
+    "subtitle": "难治性癫痫患者来中国前，如何通过资料预审明确进一步评估的价值。结合发作稳定性、航班、连续用药和陪同照护能力安排旅程，儿童还需考虑饮食与发育支持。",
+    "lead": null
+  },
+  {
+    "id": 313,
+    "key": "patient-journey-guides/aplastic-anemia-who-should-travel-china",
+    "title": "再障患者是否适合来中国治疗：先确认转诊价值和转运条件",
+    "h1": "再障患者是否适合来中国治疗：先确认转诊价值和转运条件",
+    "description": "再生障碍性贫血患者来中国前，如何评估诊断复核、药物或移植转诊的价值。核对病情稳定性、接诊能力和两地治疗衔接，提前落实家属照护与回国后续安排。",
+    "subtitle": "再生障碍性贫血患者来中国前，如何评估诊断复核、药物或移植转诊的价值。核对病情稳定性、接诊能力和两地治疗衔接，提前落实家属照护与回国后续安排。",
+    "lead": null
+  },
+  {
+    "id": 314,
+    "key": "patient-journey-guides/follicular-lymphoma-who-should-travel-china",
+    "title": "滤泡性淋巴瘤患者是否适合来中国：把医疗收益和旅行条件一起评估",
+    "h1": "滤泡性淋巴瘤患者是否适合来中国：把医疗收益和旅行条件一起评估",
+    "description": "滤泡性淋巴瘤患者来中国前，如何结合观察或治疗阶段判断转诊收益和旅行条件。核对免疫状态、筛选资格及细胞治疗所需的持续照护，避免只按输液日期安排旅程。",
+    "subtitle": "滤泡性淋巴瘤患者来中国前，如何结合观察或治疗阶段判断转诊收益和旅行条件。核对免疫状态、筛选资格及细胞治疗所需的持续照护，避免只按输液日期安排旅程。",
+    "lead": null
+  },
+  {
+    "id": 315,
+    "key": "patient-journey-guides/graft-versus-host-disease-who-should-travel-china",
+    "title": "GVHD患者适合来中国治疗吗？先确认能解决的问题与跨境照护条件",
+    "h1": "GVHD患者适合来中国治疗吗？先确认能解决的问题与跨境照护条件",
+    "description": "移植物抗宿主病患者赴中国前，明确会诊目标并评估跨境照护条件。结合肺部受累、贫血、行动与日常护理需求确认旅行可行性，落实接诊及持续治疗安排。",
+    "subtitle": "移植物抗宿主病患者赴中国前，明确会诊目标并评估跨境照护条件。结合肺部受累、贫血、行动与日常护理需求确认旅行可行性，落实接诊及持续治疗安排。",
+    "lead": null
+  },
+  {
+    "id": 316,
+    "key": "patient-journey-guides/mantle-cell-lymphoma-who-should-travel-china",
+    "title": "套细胞淋巴瘤患者适合赴中国治疗吗？先评估就医目的、病情稳定性和治疗连续性",
+    "h1": "套细胞淋巴瘤患者适合赴中国治疗吗？先评估就医目的、病情稳定性和治疗连续性",
+    "description": "套细胞淋巴瘤患者赴中国前，评估病理疑问、治疗选择和病情稳定性。核对免疫风险、新疗法路径与连续用药，确保转诊目标清楚且行程不会造成治疗空档。",
+    "subtitle": "套细胞淋巴瘤患者赴中国前，评估病理疑问、治疗选择和病情稳定性。核对免疫风险、新疗法路径与连续用药，确保转诊目标清楚且行程不会造成治疗空档。",
+    "lead": null
+  },
+  {
+    "id": 317,
+    "key": "patient-journey-guides/myelodysplastic-syndrome-who-should-travel-china",
+    "title": "骨髓增生异常综合征患者适合来中国治疗吗？先看诊断疑点、移植机会和旅行安全",
+    "h1": "骨髓增生异常综合征患者适合来中国治疗吗？先看诊断疑点、移植机会和旅行安全",
+    "description": "骨髓增生异常综合征患者来中国前，如何判断诊断复核、移植或研究咨询的价值。结合风险变化、病情稳定性和接诊条件规划时间，避免以旅游日程替代医疗安排。",
+    "subtitle": "骨髓增生异常综合征患者来中国前，如何判断诊断复核、移植或研究咨询的价值。结合风险变化、病情稳定性和接诊条件规划时间，避免以旅游日程替代医疗安排。",
+    "lead": null
+  },
+  {
+    "id": 318,
+    "key": "patient-journey-guides/thalassemia-who-should-travel-china",
+    "title": "地中海贫血患者适合赴华就医吗：先判断来诊价值和旅行条件",
+    "h1": "地中海贫血患者适合赴华就医吗：先判断来诊价值和旅行条件",
+    "description": "地中海贫血患者赴中国前，评估诊疗目标、贫血稳定性与旅行支持需求。核对连续输血、切脾或心脏病史及移植评估条件，确保两地照护能够接续。",
+    "subtitle": "地中海贫血患者赴中国前，评估诊疗目标、贫血稳定性与旅行支持需求。核对连续输血、切脾或心脏病史及移植评估条件，确保两地照护能够接续。",
+    "lead": null
+  },
+  {
+    "id": 319,
+    "key": "patient-journey-guides/sickle-cell-disease-follow-up-after-return-home",
+    "title": "镰状细胞病在中国治疗后回国：复查、用药、输血与紧急求助怎样衔接",
+    "h1": "镰状细胞病在中国治疗后回国：复查、用药、输血与紧急求助怎样衔接",
+    "description": "镰状细胞病在中国治疗后，如何交接回国用药、规律输血与器官筛查。明确羟基脲和祛铁监测、迟发输血反应求助路径，以及移植或基因治疗后的长期观察责任。",
+    "subtitle": "镰状细胞病在中国治疗后，如何交接回国用药、规律输血与器官筛查。明确羟基脲和祛铁监测、迟发输血反应求助路径，以及移植或基因治疗后的长期观察责任。",
+    "lead": null
+  },
+  {
+    "id": 320,
+    "key": "patient-journey-guides/the-day-of-surgery-in-china-a-patient-timeline",
+    "title": "中国手术当天｜时间线、延迟、复苏与交接",
+    "h1": "在中国手术当天：跟踪交接，不要只盯着一个钟点",
+    "description": "按就绪关口、身份核查、手术室节点、家属更新、PACU 复苏及病房或出院交接，追踪在中国手术当天的真实进度。",
+    "subtitle": "真正有意义的时间线是一连串就绪关口：病房准备、手术室、复苏和目的病床。每次转移都要知道由谁负责、凭什么进入下一阶段。",
+    "lead": null
+  },
+  {
+    "id": 321,
+    "key": "patient-journey-guides/vaccination-and-general-health-preparation-before-medical-travel",
+    "title": "赴华治疗前疫苗与健康准备",
+    "h1": "赴华治疗前接种：保护治疗窗口，而不是机械打勾",
+    "description": "分开核对入境要求、常规和行程风险、免疫抑制、治疗时序、一般健康状态与接种文件，安全规划赴华治疗前疫苗。",
+    "subtitle": "行前疫苗方案要同时适配路线、免疫状态、拟接受治疗和剩余时间，既不能因活疫苗带来风险，也不能无故耽误必要治疗。",
+    "lead": null
+  },
+  {
+    "id": 322,
+    "key": "patient-journey-guides/visa-planning-for-a-medical-trip-to-china",
+    "title": "赴华治疗签证规划：材料、日期与延期",
+    "h1": "赴华治疗签证规划：两项审批、四个日期",
+    "description": "区分医院接收与签证审批，核对类别、医院证明、入境有效期、停留期限、陪同材料和在华延期，规划赴华治疗签证。",
+    "subtitle": "医院接收和获准入境是两项独立决定。申请应以负责受理的使领馆、真实来华事由和可能调整的治疗时间为准。",
+    "lead": null
+  },
+  {
+    "id": 323,
+    "key": "patient-journey-guides/warning-signs-during-recovery-when-to-seek-urgent-care",
+    "title": "恢复期警示信号｜在中国何时拨打 120",
+    "h1": "恢复期警示信号｜在中国何时拨打 120",
+    "description": "根据症状轨迹、功能和操作特异阈值，区分恢复期的急救、当天评估和居家观察信号。",
+    "subtitle": "体温、疼痛分数或血氧读数，只有与患者基线、预期恢复轨迹及伴随变化放在一起时才有意义。",
+    "lead": null
+  },
+  {
+    "id": 324,
+    "key": "patient-journey-guides/what-to-pack-for-hospital-treatment-in-china",
+    "title": "赴华治疗住院要带什么：完整装箱清单",
+    "h1": "赴华住院带什么：按“丢了会怎样”来装箱",
+    "description": "保护随身药物、病历和设备，核对病区供应、电池、冷链、海关与恢复需要，按故障后果准备赴华治疗行李。",
+    "subtitle": "身份、关键药物、病历和维持生命的设备要放在延误行李拿不到的地方；其余物品由治疗方案决定，而不是照搬旅游清单。",
+    "lead": null
+  },
+  {
+    "id": 325,
+    "key": "patient-journey-guides/t-cell-lymphoma-who-should-travel-china",
+    "title": "哪些T细胞淋巴瘤患者适合来中国就医：先明确转诊价值，再评估旅行条件",
+    "h1": "哪些T细胞淋巴瘤患者适合来中国就医：先明确转诊价值，再评估旅行条件",
+    "description": "T细胞淋巴瘤患者来中国前，明确病理复核、复发治疗或试验咨询目标。结合实际病情、药物路径和辅助需求评估旅行，分别安排移植评估与治疗后的返程照护。",
+    "subtitle": "T细胞淋巴瘤患者来中国前，明确病理复核、复发治疗或试验咨询目标。结合实际病情、药物路径和辅助需求评估旅行，分别安排移植评估与治疗后的返程照护。",
+    "lead": null
+  },
+  {
+    "id": 326,
+    "key": "patient-journey-guides/sickle-cell-disease-who-should-travel-china",
+    "title": "哪些镰状细胞病患者适合来中国就医：出行获益、病情稳定与接诊条件",
+    "h1": "哪些镰状细胞病患者适合来中国就医：出行获益、病情稳定与接诊条件",
+    "description": "镰状细胞病患者来中国前，评估明确的就医收益、个人基线与近期危象。核对飞行、接诊、输血和连续用药安排，并为儿童、孕期或移植后情况准备专门照护。",
+    "subtitle": "镰状细胞病患者来中国前，评估明确的就医收益、个人基线与近期危象。核对飞行、接诊、输血和连续用药安排，并为儿童、孕期或移植后情况准备专门照护。",
+    "lead": null
+  },
+  {
+    "id": 327,
+    "key": "patient-journey-guides/post-ischemic-stroke-rehabilitation-who-should-travel-china",
+    "title": "脑梗死后谁适合来中国康复：出行评估与接诊准备",
+    "h1": "脑梗死后谁适合来中国康复：出行评估与接诊准备",
+    "description": "脑梗死后赴中国康复前，如何结合生活目标、医学稳定性和旅行支持评估是否适合。核对吞咽、沟通、转移与久坐风险，落实个人接诊、陪护及回家后的训练衔接。",
+    "subtitle": "脑梗死后赴中国康复前，如何结合生活目标、医学稳定性和旅行支持评估是否适合。核对吞咽、沟通、转移与久坐风险，落实个人接诊、陪护及回家后的训练衔接。",
+    "lead": null
+  },
+  {
+    "id": 328,
+    "key": "patient-journey-guides/from-the-airport-to-the-hospital-your-first-24-hours-in-china",
+    "title": "抵达中国后的前 24 小时｜国际患者安全落地指南",
+    "h1": "抵达中国后的前 24 小时：把每一次交接都说清楚",
+    "description": "逐项规划机场交接、无障碍转运、第一目的地、跨时区用药、住宿登记与首夜急救升级，让赴华医疗抵达过程真正可执行。",
+    "subtitle": "安全抵达不等于“有人接机”，而是从舱门到第一次临床接触，每一段都有人接、地点无歧义、药物有时钟、病情变化有升级路线。",
+    "lead": null
+  },
+  {
+    "id": 329,
+    "key": "patient-journey-guides/your-first-hospital-appointment-in-china-what-to-expect",
+    "title": "第一次到中国医院就诊｜国际患者会诊准备指南",
+    "h1": "第一次到中国医院就诊：离开时要带走一份“决策记录”",
+    "description": "用三个决定组织首次会诊，核实资料审阅状态，把检查连接到临床决定，核对药物，并在离院前形成一页书面决策记录。",
+    "subtitle": "第一次就诊的成果，不是“终于挂上号”，而是医患双方对问题、证据、不确定性和下一步决定形成同一版本。",
+    "lead": null
+  },
+  {
+    "id": 330,
+    "key": "treatment-guides/acupuncture-in-china-evidence-safety-and-choosing-a-provider",
+    "title": "在中国针灸：证据、安全与医生资质核验",
+    "h1": "在中国接受针灸：证据、安全与医生选择",
+    "description": "按病种判断针灸证据，核实中国针灸医生和机构，检查无菌流程、医学风险，并设定停止规则。",
+    "subtitle": "逐项判断针灸主张，核实机构和医师，并在第一根针前约定安全检查、疗效指标和停止条件。",
+    "lead": null
+  },
+  {
+    "id": 331,
+    "key": "treatment-guides/alzheimer-disease-first-line-treatment",
+    "title": "在中国开始阿尔茨海默病治疗：初始诊疗计划",
+    "h1": "在中国开始阿尔茨海默病治疗：初始诊疗计划",
+    "description": "在中国开始阿尔茨海默病治疗时，如何明确诊断阶段、核对现有药物并讨论症状用药。了解抗体评估、制剂使用和家庭观察重点，把初始方案转化为可执行的随访计划。",
+    "subtitle": "在中国开始阿尔茨海默病治疗时，如何明确诊断阶段、核对现有药物并讨论症状用药。了解抗体评估、制剂使用和家庭观察重点，把初始方案转化为可执行的随访计划。",
+    "lead": null
+  },
+  {
+    "id": 332,
+    "key": "treatment-guides/amyotrophic-lateral-sclerosis-treatment-overview",
+    "title": "肌萎缩侧索硬化治疗指南：药物、呼吸支持与赴中国就医安排",
+    "h1": "肌萎缩侧索硬化治疗指南：药物、呼吸支持与赴中国就医安排",
+    "description": "了解肌萎缩侧索硬化的药物、遗传相关治疗、呼吸和营养支持各自承担什么任务。赴中国就医前，准备诊断与功能基线，核对多学科照护及持续支持的安排。",
+    "subtitle": "了解肌萎缩侧索硬化的药物、遗传相关治疗、呼吸和营养支持各自承担什么任务。赴中国就医前，准备诊断与功能基线，核对多学科照护及持续支持的安排。",
+    "lead": null
+  },
+  {
+    "id": 333,
+    "key": "treatment-guides/alzheimer-disease-drug-treatment",
+    "title": "中国阿尔茨海默病用药：选择、可及性与监测",
+    "h1": "中国阿尔茨海默病用药：选择、可及性与监测",
+    "description": "了解在中国咨询阿尔茨海默病药物时，症状药、抗体与行为症状用药的不同用途。结合疾病阶段、剂型和身体状况核对适用性、供药及监测，避免自行互换制剂。",
+    "subtitle": "了解在中国咨询阿尔茨海默病药物时，症状药、抗体与行为症状用药的不同用途。结合疾病阶段、剂型和身体状况核对适用性、供药及监测，避免自行互换制剂。",
+    "lead": null
+  },
+  {
+    "id": 334,
+    "key": "treatment-guides/alzheimer-disease-relapsed-refractory",
+    "title": "阿尔茨海默病治疗后加重：赴中国复评前的准备",
+    "h1": "阿尔茨海默病治疗后加重：赴中国复评前的准备",
+    "description": "阿尔茨海默病治疗后加重时，如何区分急性变化与缓慢进展并准备中国复评资料。记录具体生活事件、实际用药和环境变化，抗体治疗期间的新症状需结合安全监测判断。",
+    "subtitle": "阿尔茨海默病治疗后加重时，如何区分急性变化与缓慢进展并准备中国复评资料。记录具体生活事件、实际用药和环境变化，抗体治疗期间的新症状需结合安全监测判断。",
+    "lead": null
+  },
+  {
+    "id": 335,
+    "key": "treatment-guides/alzheimer-disease-side-effects",
+    "title": "在中国治疗阿尔茨海默病：副作用与紧急症状",
+    "h1": "在中国治疗阿尔茨海默病：副作用与紧急症状",
+    "description": "了解在中国治疗阿尔茨海默病时需关注的胃肠、体重、皮肤及神经症状。结合症状药、抗体和行为用药核对监测与紧急处理安排，避免将不良反应一概归于病情进展。",
+    "subtitle": "了解在中国治疗阿尔茨海默病时需关注的胃肠、体重、皮肤及神经症状。结合症状药、抗体和行为用药核对监测与紧急处理安排，避免将不良反应一概归于病情进展。",
+    "lead": null
+  },
+  {
+    "id": 336,
+    "key": "treatment-guides/aplastic-anemia-treatment-overview",
+    "title": "中国再生障碍性贫血治疗：方案选择与造血恢复",
+    "h1": "中国再生障碍性贫血治疗：方案选择与造血恢复",
+    "description": "了解中国再生障碍性贫血治疗如何按类型和严重程度选择观察、免疫抑制或移植。明确造血恢复期间输血、感染和出血支持的作用，并讨论疗效评估与调整路径。",
+    "subtitle": "了解中国再生障碍性贫血治疗如何按类型和严重程度选择观察、免疫抑制或移植。明确造血恢复期间输血、感染和出血支持的作用，并讨论疗效评估与调整路径。",
+    "lead": null
+  },
+  {
+    "id": 337,
+    "key": "treatment-guides/arrhythmia-evaluation-and-catheter-ablation-in-china",
+    "title": "在中国评估心律失常和做导管消融：患者指南",
+    "h1": "在中国评估心律失常和进行导管消融",
+    "description": "了解心律记录、房颤、室上速和室速消融靶点、特异风险、房颤术后抗凝，以及回国后的节律监测。",
+    "subtitle": "先记录真实心律，再明确消融靶点和特异风险，并安排回国后的抗凝与节律监测。",
+    "lead": null
+  },
+  {
+    "id": 338,
+    "key": "treatment-guides/brain-tumor-surgery-in-china-multidisciplinary-treatment-planning",
+    "title": "中国脑肿瘤手术｜多学科规划与术后衔接",
+    "h1": "中国脑肿瘤手术：多学科治疗规划",
+    "description": "规划中国脑肿瘤活检或安全切除，覆盖影像、功能定位、整合病理、术后MRI和辅助治疗交接。",
+    "subtitle": "把组织诊断、安全切除和下一阶段治疗连成一条完整的神经肿瘤路径。",
+    "lead": null
+  },
+  {
+    "id": 339,
+    "key": "treatment-guides/post-ischemic-stroke-rehabilitation-first-line-treatment",
+    "title": "在中国开始卒中康复：初始康复计划",
+    "h1": "在中国开始卒中康复：初始康复计划",
+    "description": "在中国开始卒中康复时，如何把生活希望转化为用手、转移、步行、吞咽和交流目标。根据医学稳定性与实际能力安排训练强度，让认知练习和照护融入日常任务。",
+    "subtitle": "在中国开始卒中康复时，如何把生活希望转化为用手、转移、步行、吞咽和交流目标。根据医学稳定性与实际能力安排训练强度，让认知练习和照护融入日常任务。",
+    "lead": null
+  },
+  {
+    "id": 340,
+    "key": "treatment-guides/cancer-immunotherapy-in-china-questions-to-ask-before-treatment",
+    "title": "中国肿瘤免疫治疗：开始前要问什么",
+    "h1": "在中国接受肿瘤免疫治疗：开始前要问清的问题",
+    "description": "赴华接受肿瘤免疫治疗前，核实适应证、生物标志物、自身免疫风险、免疫相关不良反应及回国随访安排。",
+    "subtitle": "核实具体疗法、适应证和监测方案，并在回国后继续识别免疫相关不良反应。",
+    "lead": null
+  },
+  {
+    "id": 341,
+    "key": "treatment-guides/cancer-rehabilitation-managing-function-fatigue-and-recovery",
+    "title": "中国肿瘤康复：功能恢复、疲劳与安全",
+    "h1": "中国肿瘤康复：功能恢复、疲劳与安全",
+    "description": "比较中国癌症康复项目时，怎样评估疲劳、运动安全、神经病、淋巴水肿、骨风险、功能目标和回国交接。",
+    "subtitle": "比较中国癌症康复项目时，怎样评估疲劳、运动安全、神经病、淋巴水肿、骨风险、功能目标和回国交接。",
+    "lead": null
+  },
+  {
+    "id": 342,
+    "key": "treatment-guides/cancer-surgery-in-china-how-to-prepare-and-compare-options",
+    "title": "中国肿瘤手术：准备与方案比较指南",
+    "h1": "在中国接受肿瘤手术：怎样准备与比较方案",
+    "description": "从切除范围、主刀、医院后备、安全核查、最终病理、康复和术后乘机安排，比较中国肿瘤手术方案。",
+    "subtitle": "比较肿瘤切除目标、主刀医生和医院后备，而不只看切口、机器人或宣传中的住院天数。",
+    "lead": null
+  },
+  {
+    "id": 343,
+    "key": "treatment-guides/cardiac-rehabilitation-after-heart-treatment",
+    "title": "中国心脏康复：心脏治疗后的恢复安排",
+    "h1": "中国心脏康复：心脏治疗后的恢复安排",
+    "description": "了解心脏治疗后怎样通过评估、处方运动、危险因素管理、警示信号和跨境交接建立安全康复计划。",
+    "subtitle": "了解心脏治疗后怎样通过评估、处方运动、危险因素管理、警示信号和跨境交接建立安全康复计划。",
+    "lead": null
+  },
+  {
+    "id": 344,
+    "key": "treatment-guides/sickle-cell-disease-drug-treatment",
+    "title": "中国镰状细胞病用药：可及性与监测核实",
+    "h1": "中国镰状细胞病用药：可及性与监测核实",
+    "description": "了解在中国核实镰状细胞病用药时，长期疾病控制与危象止痛的不同目标。逐项核对具体药品、适用人群、地区状态与血液监测要求，避免沿用过时药单或替代制品。",
+    "subtitle": "了解在中国核实镰状细胞病用药时，长期疾病控制与危象止痛的不同目标。逐项核对具体药品、适用人群、地区状态与血液监测要求，避免沿用过时药单或替代制品。",
+    "lead": null
+  },
+  {
+    "id": 345,
+    "key": "treatment-guides/chemotherapy-in-china-planning-safety-and-follow-up",
+    "title": "在中国接受化疗：安全、规划与随访指南",
+    "h1": "在中国接受化疗：规划、安全与随访",
+    "description": "按周期介绍中国化疗的方案核对、验血、发热处理、口服药、费用和跨国随访，帮助患者安全衔接治疗。",
+    "subtitle": "按疗程核对方案、做好治疗准备、识别紧急症状，并把后续照护完整交接回患者所在地。",
+    "lead": null
+  },
+  {
+    "id": 346,
+    "key": "treatment-guides/chinese-herbal-medicine-safety-interactions-and-quality-questions",
+    "title": "在中国使用中药：安全、相互作用与质量核验",
+    "h1": "在中国使用中药：安全、相互作用与质量核验",
+    "description": "识别中药产品类别，追溯批次质量，筛查相互作用，安排监测、报告不良反应并核对跨境限制。",
+    "subtitle": "识别中药产品类别，追溯批次质量，筛查相互作用，安排监测、报告不良反应并核对跨境限制。",
+    "lead": null
+  },
+  {
+    "id": 347,
+    "key": "treatment-guides/t-cell-lymphoma-first-line-treatment",
+    "title": "中国 T细胞淋巴瘤一线治疗：方案与疗效评估规划",
+    "h1": "中国 T细胞淋巴瘤一线治疗：方案与疗效评估规划",
+    "description": "了解中国T细胞淋巴瘤一线治疗为何取决于准确亚型、整体证据和身体状况。首周期前讨论支持治疗、生育与疗效评估，并把巩固移植作为需结合反应再判断的问题。",
+    "subtitle": "了解中国T细胞淋巴瘤一线治疗为何取决于准确亚型、整体证据和身体状况。首周期前讨论支持治疗、生育与疗效评估，并把巩固移植作为需结合反应再判断的问题。",
+    "lead": null
+  },
+  {
+    "id": 348,
+    "key": "treatment-guides/hodgkin-lymphoma-first-line-treatment",
+    "title": "中国霍奇金淋巴瘤一线治疗：方案选择要点",
+    "h1": "中国霍奇金淋巴瘤一线治疗：方案选择要点",
+    "description": "了解中国霍奇金淋巴瘤一线治疗如何结合早期或进展期、放疗需求与身体状况选择方案。首剂前安排生育咨询和执行日历，明确耐受监测及后续疗效评估节点。",
+    "subtitle": "了解中国霍奇金淋巴瘤一线治疗如何结合早期或进展期、放疗需求与身体状况选择方案。首剂前安排生育咨询和执行日历，明确耐受监测及后续疗效评估节点。",
+    "lead": null
+  },
+  {
+    "id": 349,
+    "key": "treatment-guides/diffuse-large-b-cell-lymphoma-first-line-treatment",
+    "title": "中国弥漫大B细胞淋巴瘤一线治疗：就医与首周期准备",
+    "h1": "中国弥漫大B细胞淋巴瘤一线治疗：就医与首周期准备",
+    "description": "了解中国弥漫大B细胞淋巴瘤一线方案的选择依据及局限期、体弱患者的评估重点。首周期前核对完整诊断、感染防护和早期风险，明确副作用报告与延期处理安排。",
+    "subtitle": "了解中国弥漫大B细胞淋巴瘤一线方案的选择依据及局限期、体弱患者的评估重点。首周期前核对完整诊断、感染防护和早期风险，明确副作用报告与延期处理安排。",
+    "lead": null
+  },
+  {
+    "id": 350,
+    "key": "treatment-guides/mantle-cell-lymphoma-first-line-treatment",
+    "title": "中国套细胞淋巴瘤一线治疗：首周期前应明确什么",
+    "h1": "中国套细胞淋巴瘤一线治疗：首周期前应明确什么",
+    "description": "在中国开始套细胞淋巴瘤一线治疗前，分别评估疾病风险、身体条件和治疗目标。讨论强化、非移植或研究路径、维持计划及首疗程检查，让方案覆盖后续管理。",
+    "subtitle": "在中国开始套细胞淋巴瘤一线治疗前，分别评估疾病风险、身体条件和治疗目标。讨论强化、非移植或研究路径、维持计划及首疗程检查，让方案覆盖后续管理。",
+    "lead": null
+  },
+  {
+    "id": 351,
+    "key": "treatment-guides/post-ischemic-stroke-rehabilitation-treatment-comparison",
+    "title": "中国卒中康复：训练、机器人与其他方法比较",
+    "h1": "中国卒中康复：训练、机器人与其他方法比较",
+    "description": "比较中国卒中康复中的任务练习、机器人、电刺激和其他辅助方法，先明确要改善的功能。了解不同设备与训练的适用对象和证据边界，避免仅凭技术新旧判断效果。",
+    "subtitle": "比较中国卒中康复中的任务练习、机器人、电刺激和其他辅助方法，先明确要改善的功能。了解不同设备与训练的适用对象和证据边界，避免仅凭技术新旧判断效果。",
+    "lead": null
+  },
+  {
+    "id": 352,
+    "key": "treatment-guides/multiple-sclerosis-first-line-treatment",
+    "title": "在中国开始多发性硬化治疗：用药与随访计划",
+    "h1": "在中国开始多发性硬化治疗：用药与随访计划",
+    "description": "在中国开始多发性硬化治疗时，区分急性发作处理与长期疾病修饰治疗。核对选药依据、安全筛查、疫苗和生育计划，并建立能够比较疗效与风险的随访基线。",
+    "subtitle": "在中国开始多发性硬化治疗时，区分急性发作处理与长期疾病修饰治疗。核对选药依据、安全筛查、疫苗和生育计划，并建立能够比较疗效与风险的随访基线。",
+    "lead": null
+  },
+  {
+    "id": 353,
+    "key": "treatment-guides/alzheimer-disease-treatment-comparison",
+    "title": "中国阿尔茨海默病治疗选择：方案比较指南",
+    "h1": "中国阿尔茨海默病治疗选择：方案比较指南",
+    "description": "在中国比较阿尔茨海默病治疗时，先核对适用阶段与治疗目标，再看症状药或抗体方案。结合给药方式、疗程、安全监测和紧急处理能力，避免跨研究直接排列疗效。",
+    "subtitle": "在中国比较阿尔茨海默病治疗时，先核对适用阶段与治疗目标，再看症状药或抗体方案。结合给药方式、疗程、安全监测和紧急处理能力，避免跨研究直接排列疗效。",
+    "lead": null
+  },
+  {
+    "id": 354,
+    "key": "treatment-guides/aplastic-anemia-treatment-comparison",
+    "title": "中国再生障碍性贫血治疗比较：移植与免疫抑制",
+    "h1": "中国再生障碍性贫血治疗比较：移植与免疫抑制",
+    "description": "比较中国再生障碍性贫血移植与免疫抑制方案时，先确认个人适用条件。将早期风险、造血恢复、长期负担和后续选择放在同一范围内，并对齐预算与观察时点。",
+    "subtitle": "比较中国再生障碍性贫血移植与免疫抑制方案时，先确认个人适用条件。将早期风险、造血恢复、长期负担和后续选择放在同一范围内，并对齐预算与观察时点。",
+    "lead": null
+  },
+  {
+    "id": 355,
+    "key": "treatment-guides/diffuse-large-b-cell-lymphoma-treatment-comparison",
+    "title": "中国弥漫大B细胞淋巴瘤治疗比较：不同阶段如何选择",
+    "h1": "中国弥漫大B细胞淋巴瘤治疗比较：不同阶段如何选择",
+    "description": "比较中国弥漫大B细胞淋巴瘤治疗时，按初治、复发时间和既往反应确定候选路径。了解化疗、放疗、移植、细胞治疗与双抗的目标、等待过程及持续照护差别。",
+    "subtitle": "比较中国弥漫大B细胞淋巴瘤治疗时，按初治、复发时间和既往反应确定候选路径。了解化疗、放疗、移植、细胞治疗与双抗的目标、等待过程及持续照护差别。",
+    "lead": null
+  },
+  {
+    "id": 356,
+    "key": "treatment-guides/drug-resistant-epilepsy-treatment-comparison",
+    "title": "中国难治性癫痫治疗：药物、手术与其他方案比较",
+    "h1": "中国难治性癫痫治疗：药物、手术与其他方案比较",
+    "description": "比较中国难治性癫痫药物、切除、消融、离断和神经调控方案时，先明确发作与功能目标。结合可定位区域、风险和持续治疗负担，理解不同研究结果的比较限制。",
+    "subtitle": "比较中国难治性癫痫药物、切除、消融、离断和神经调控方案时，先明确发作与功能目标。结合可定位区域、风险和持续治疗负担，理解不同研究结果的比较限制。",
+    "lead": null
+  },
+  {
+    "id": 357,
+    "key": "treatment-guides/follicular-lymphoma-treatment-comparison",
+    "title": "中国滤泡性淋巴瘤治疗：方案比较要点",
+    "h1": "中国滤泡性淋巴瘤治疗：方案比较要点",
+    "description": "在中国比较滤泡性淋巴瘤方案时，结合当前病情讨论观察、抗体、免疫化疗、放疗和维持。核对治疗目标、具体不良反应与既往疾病，避免只按药价或药物数量排序。",
+    "subtitle": "在中国比较滤泡性淋巴瘤方案时，结合当前病情讨论观察、抗体、免疫化疗、放疗和维持。核对治疗目标、具体不良反应与既往疾病，避免只按药价或药物数量排序。",
+    "lead": null
+  },
+  {
+    "id": 358,
+    "key": "treatment-guides/graft-versus-host-disease-treatment-comparison",
+    "title": "中国移植物抗宿主病治疗比较：作用与局限",
+    "h1": "中国移植物抗宿主病治疗比较：作用与局限",
+    "description": "比较中国移植物抗宿主病治疗时，区分局部与系统治疗、急性与慢性病程及激素反应。结合受累器官、证据人群、通路和往返负担，判断方案的作用与限制。",
+    "subtitle": "比较中国移植物抗宿主病治疗时，区分局部与系统治疗、急性与慢性病程及激素反应。结合受累器官、证据人群、通路和往返负担，判断方案的作用与限制。",
+    "lead": null
+  },
+  {
+    "id": 359,
+    "key": "treatment-guides/hodgkin-lymphoma-treatment-comparison",
+    "title": "中国霍奇金淋巴瘤治疗方案比较",
+    "h1": "中国霍奇金淋巴瘤治疗方案比较",
+    "description": "在中国比较霍奇金淋巴瘤治疗时，按病期、全身用药和放疗策略核对证据。结合心肺风险、治疗强度及个人需求理解方案差别，避免把不同人群的结果直接排名。",
+    "subtitle": "在中国比较霍奇金淋巴瘤治疗时，按病期、全身用药和放疗策略核对证据。结合心肺风险、治疗强度及个人需求理解方案差别，避免把不同人群的结果直接排名。",
+    "lead": null
+  },
+  {
+    "id": 360,
+    "key": "treatment-guides/mantle-cell-lymphoma-treatment-comparison",
+    "title": "中国套细胞淋巴瘤治疗方案比较",
+    "h1": "中国套细胞淋巴瘤治疗方案比较",
+    "description": "比较中国套细胞淋巴瘤方案时，把诱导、移植和维持写成完整路径。核对靶向药、免疫化疗与无化疗方案的适用背景，区分缓解、无进展生存和总生存指标。",
+    "subtitle": "比较中国套细胞淋巴瘤方案时，把诱导、移植和维持写成完整路径。核对靶向药、免疫化疗与无化疗方案的适用背景，区分缓解、无进展生存和总生存指标。",
+    "lead": null
+  },
+  {
+    "id": 361,
+    "key": "treatment-guides/multiple-sclerosis-treatment-comparison",
+    "title": "多发性硬化治疗比较：药物、造血干细胞移植与中国就医",
+    "h1": "多发性硬化治疗比较：药物、造血干细胞移植与中国就医",
+    "description": "比较多发性硬化药物与自体造血干细胞移植时，核对病程类型、活动状态和研究人群。赴中国咨询前，综合治疗强度、安全性、长期监测与费用，明确个人适用范围。",
+    "subtitle": "比较多发性硬化药物与自体造血干细胞移植时，核对病程类型、活动状态和研究人群。赴中国咨询前，综合治疗强度、安全性、长期监测与费用，明确个人适用范围。",
+    "lead": null
+  },
+  {
+    "id": 362,
+    "key": "treatment-guides/multiple-myeloma-treatment-comparison",
+    "title": "中国多发性骨髓瘤治疗比较：按阶段与耐药情况选择",
+    "h1": "中国多发性骨髓瘤治疗比较：按阶段与耐药情况选择",
+    "description": "比较中国多发性骨髓瘤治疗时，按病程、移植适合性与既往耐药选择候选方案。综合多药组合、自体移植、细胞治疗和持续用药的疾病控制目标与完整照护负担。",
+    "subtitle": "比较中国多发性骨髓瘤治疗时，按病程、移植适合性与既往耐药选择候选方案。综合多药组合、自体移植、细胞治疗和持续用药的疾病控制目标与完整照护负担。",
+    "lead": null
+  },
+  {
+    "id": 363,
+    "key": "treatment-guides/parkinson-disease-treatment-comparison",
+    "title": "中国帕金森病治疗比较：药物与器械治疗选择",
+    "h1": "中国帕金森病治疗比较：药物与器械治疗选择",
+    "description": "在中国比较帕金森病药物、持续输注、脑深部电刺激和聚焦超声时，先明确症状目标。了解可调节性、手术或消融风险、设备照护与长期程控要求，支持个体化讨论。",
+    "subtitle": "在中国比较帕金森病药物、持续输注、脑深部电刺激和聚焦超声时，先明确症状目标。了解可调节性、手术或消融风险、设备照护与长期程控要求，支持个体化讨论。",
+    "lead": null
+  },
+  {
+    "id": 364,
+    "key": "treatment-guides/sickle-cell-disease-treatment-comparison",
+    "title": "镰状细胞病治疗方案：中国适用性与可及性核实",
+    "h1": "镰状细胞病治疗方案：中国适用性与可及性核实",
+    "description": "了解镰状细胞病羟基脲、规律输血、移植和基因治疗的不同目标与负担。赴中国咨询前，结合供者、器官和生育情况核对适用性及可及性，避免跨研究直接比较百分比。",
+    "subtitle": "了解镰状细胞病羟基脲、规律输血、移植和基因治疗的不同目标与负担。赴中国咨询前，结合供者、器官和生育情况核对适用性及可及性，避免跨研究直接比较百分比。",
+    "lead": null
+  },
+  {
+    "id": 365,
+    "key": "treatment-guides/t-cell-lymphoma-treatment-comparison",
+    "title": "中国 T细胞淋巴瘤治疗方案比较",
+    "h1": "中国 T细胞淋巴瘤治疗方案比较",
+    "description": "比较中国T细胞淋巴瘤方案时，先核对亚型、治疗阶段和研究人群。区分缓解、持续时间与生存结局，并将自体或异体移植的非复发风险纳入完整判断。",
+    "subtitle": "比较中国T细胞淋巴瘤方案时，先核对亚型、治疗阶段和研究人群。区分缓解、持续时间与生存结局，并将自体或异体移植的非复发风险纳入完整判断。",
+    "lead": null
+  },
+  {
+    "id": 366,
+    "key": "treatment-guides/thalassemia-treatment-comparison",
+    "title": "地中海贫血治疗方案：中国适用性与可及性核实",
+    "h1": "地中海贫血治疗方案：中国适用性与可及性核实",
+    "description": "比较地中海贫血输血祛铁、改善贫血药物、移植与基因治疗时，先确认个人适用条件。赴中国咨询前，核对供者、安全监测、持续照护与实际治疗路径。",
+    "subtitle": "比较地中海贫血输血祛铁、改善贫血药物、移植与基因治疗时，先确认个人适用条件。赴中国咨询前，核对供者、安全监测、持续照护与实际治疗路径。",
+    "lead": null
+  },
+  {
+    "id": 367,
+    "key": "treatment-guides/coronary-angiography-in-china-what-patients-can-expect",
+    "title": "在中国做冠状动脉造影：流程、风险与支架知情同意",
+    "h1": "在中国做冠状动脉造影：患者会经历什么",
+    "description": "了解中国冠脉造影的适应场景、手腕或腹股沟穿刺、造影剂和肾功能检查、可能的 PCI、恢复及病历交接。",
+    "subtitle": "了解为什么要做有创造影、手腕或腹股沟穿刺如何进行，以及可能当场放支架时必须提前约定什么。",
+    "lead": null
+  },
+  {
+    "id": 368,
+    "key": "treatment-guides/coronary-artery-bypass-surgery-in-china-planning-your-care",
+    "title": "在中国做冠脉搭桥：手术、桥血管与恢复规划",
+    "h1": "在中国做冠状动脉旁路移植术：怎样规划治疗",
+    "description": "了解中国 CABG 如何与 PCI 比较，怎样评估桥血管和手术风险，并规划 ICU 恢复、心脏康复和回国交接。",
+    "subtitle": "比较搭桥与 PCI，读懂桥血管和手术方案，并为重症监护恢复及回国交接做好准备。",
+    "lead": null
+  },
+  {
+    "id": 369,
+    "key": "treatment-guides/parkinson-disease-surgery-procedures",
+    "title": "中国帕金森病脑深部电刺激：术前评估、手术与回国程控",
+    "h1": "中国帕金森病脑深部电刺激：术前评估、手术与回国程控",
+    "description": "了解在中国接受帕金森病脑深部电刺激前的药物反应、认知与情绪评估。讨论靶点、植入方式及术后预期，并提前落实设备支持、长期程控和回国随访。",
+    "subtitle": "了解在中国接受帕金森病脑深部电刺激前的药物反应、认知与情绪评估。讨论靶点、植入方式及术后预期，并提前落实设备支持、长期程控和回国随访。",
+    "lead": null
+  },
+  {
+    "id": 370,
+    "key": "treatment-guides/deep-brain-stimulation-candidacy-surgery-and-follow-up",
+    "title": "中国脑深部电刺激：适用性评估与术后程控",
+    "h1": "中国脑深部电刺激：适用性评估与术后程控",
+    "description": "从诊断、目标症状、靶点、手术风险、程控、硬件、MRI安全和跨境服务评估DBS治疗。",
+    "subtitle": "从诊断、目标症状、靶点、手术风险、程控、硬件、MRI安全和跨境服务评估DBS治疗。",
+    "lead": null
+  },
+  {
+    "id": 371,
+    "key": "treatment-guides/dental-crowns-and-bridges-materials-treatment-and-aftercare",
+    "title": "中国牙冠与牙桥修复：材料选择与后续维护",
+    "h1": "中国牙冠与牙桥修复：材料选择与后续维护",
+    "description": "比较牙冠、传统桥与粘接桥，了解根管牙修复、氧化锆与烤瓷材料、边缘验收、风险和桥底清洁。",
+    "subtitle": "比较牙冠、传统桥与粘接桥，了解根管牙修复、氧化锆与烤瓷材料、边缘验收、风险和桥底清洁。",
+    "lead": null
+  },
+  {
+    "id": 372,
+    "key": "treatment-guides/dental-implants-in-china-planning-safe-treatment-abroad",
+    "title": "中国牙种植｜分阶段治疗与回国维护指南",
+    "h1": "在中国做牙种植：跨境安全治疗规划",
+    "description": "了解赴中国种牙前的天然牙预后、CBCT、牙周风险、分期手术、植骨记录、准确零件信息和回国维护规划。",
+    "subtitle": "先设计最终牙，再把手术与修复分开，并确认回国后仍能维护、拆卸和取得零件。",
+    "lead": null
+  },
+  {
+    "id": 373,
+    "key": "treatment-guides/post-ischemic-stroke-rehabilitation-side-effects",
+    "title": "在中国卒中康复期间：不适症状与风险提醒",
+    "h1": "在中国卒中康复期间：不适症状与风险提醒",
+    "description": "了解中国卒中康复期间的疲劳、肩痛、跌倒、皮肤和吞咽风险，区分调整负荷与紧急求助的情况。结合痉挛用药、局部注射和防复发药物安排观察与安全训练。",
+    "subtitle": "了解中国卒中康复期间的疲劳、肩痛、跌倒、皮肤和吞咽风险，区分调整负荷与紧急求助的情况。结合痉挛用药、局部注射和防复发药物安排观察与安全训练。",
+    "lead": null
+  },
+  {
+    "id": 374,
+    "key": "treatment-guides/diffuse-large-b-cell-lymphoma-drug-treatment",
+    "title": "中国弥漫大B细胞淋巴瘤用药：方案、记录与可及性",
+    "h1": "中国弥漫大B细胞淋巴瘤用药：方案、记录与可及性",
+    "description": "了解中国弥漫大B细胞淋巴瘤用药中的通用名、联合方案和支持药用途。核对输注、乙肝、逐步加量及细胞治疗前后监测，完整记录实际处方与药物获取安排。",
+    "subtitle": "了解中国弥漫大B细胞淋巴瘤用药中的通用名、联合方案和支持药用途。核对输注、乙肝、逐步加量及细胞治疗前后监测，完整记录实际处方与药物获取安排。",
+    "lead": null
+  },
+  {
+    "id": 375,
+    "key": "treatment-guides/diffuse-large-b-cell-lymphoma-side-effects",
+    "title": "在中国治疗弥漫大B细胞淋巴瘤：副作用与紧急症状",
+    "h1": "在中国治疗弥漫大B细胞淋巴瘤：副作用与紧急症状",
+    "description": "了解在中国治疗弥漫大B细胞淋巴瘤期间的感染、血细胞下降、肿瘤溶解和输注反应。识别需要及时处理的症状，记录胃肠、口腔及神经问题，支持安全监测与调整。",
+    "subtitle": "了解在中国治疗弥漫大B细胞淋巴瘤期间的感染、血细胞下降、肿瘤溶解和输注反应。识别需要及时处理的症状，记录胃肠、口腔及神经问题，支持安全监测与调整。",
+    "lead": null
+  },
+  {
+    "id": 376,
+    "key": "treatment-guides/hodgkin-lymphoma-radiation-interventional",
+    "title": "中国霍奇金淋巴瘤放疗：哪些情况需要考虑",
+    "h1": "中国霍奇金淋巴瘤放疗：哪些情况需要考虑",
+    "description": "了解中国霍奇金淋巴瘤放疗如何结合治疗目标与影像反应进行评估。讨论照射范围、定位、剂量和分次，并把心脏、肺及乳腺保护纳入个体化风险权衡。",
+    "subtitle": "了解中国霍奇金淋巴瘤放疗如何结合治疗目标与影像反应进行评估。讨论照射范围、定位、剂量和分次，并把心脏、肺及乳腺保护纳入个体化风险权衡。",
+    "lead": null
+  },
+  {
+    "id": 377,
+    "key": "treatment-guides/diffuse-large-b-cell-lymphoma-surgery-procedures",
+    "title": "中国弥漫大B细胞淋巴瘤操作：活检、血管通路与急症",
+    "h1": "中国弥漫大B细胞淋巴瘤操作：活检、血管通路与急症",
+    "description": "了解中国弥漫大B细胞淋巴瘤诊疗中活检、骨髓取样、腰穿、血管通路和细胞采集的不同目的。区分诊断操作与急症处理，核对取材、给药及后续护理安排。",
+    "subtitle": "了解中国弥漫大B细胞淋巴瘤诊疗中活检、骨髓取样、腰穿、血管通路和细胞采集的不同目的。区分诊断操作与急症处理，核对取材、给药及后续护理安排。",
+    "lead": null
+  },
+  {
+    "id": 378,
+    "key": "treatment-guides/graft-versus-host-disease-surgery-procedures",
+    "title": "中国移植物抗宿主病相关操作：活检、扩张与眼部治疗",
+    "h1": "中国移植物抗宿主病相关操作：活检、扩张与眼部治疗",
+    "description": "了解中国移植物抗宿主病相关活检、食管扩张、眼表与瘢痕处理的作用。先明确症状原因和操作目标，结合全身病情评估适用性，并安排相应专科及后续护理。",
+    "subtitle": "了解中国移植物抗宿主病相关活检、食管扩张、眼表与瘢痕处理的作用。先明确症状原因和操作目标，结合全身病情评估适用性，并安排相应专科及后续护理。",
+    "lead": null
+  },
+  {
+    "id": 379,
+    "key": "treatment-guides/hodgkin-lymphoma-surgery-procedures",
+    "title": "中国霍奇金淋巴瘤相关操作：活检与细胞采集",
+    "h1": "中国霍奇金淋巴瘤相关操作：活检与细胞采集",
+    "description": "了解中国霍奇金淋巴瘤诊疗中活检、静脉通路与细胞采集的不同任务。操作前说明胸部症状和用药，分别跟进伤口、病理及置管护理，避免将取材等同于肿瘤治疗。",
+    "subtitle": "了解中国霍奇金淋巴瘤诊疗中活检、静脉通路与细胞采集的不同任务。操作前说明胸部症状和用药，分别跟进伤口、病理及置管护理，避免将取材等同于肿瘤治疗。",
+    "lead": null
+  },
+  {
+    "id": 380,
+    "key": "treatment-guides/mantle-cell-lymphoma-surgery-procedures",
+    "title": "中国套细胞淋巴瘤相关操作：目的与就医安排",
+    "h1": "中国套细胞淋巴瘤相关操作：目的与就医安排",
+    "description": "了解中国套细胞淋巴瘤活检、骨髓取样、静脉通路和细胞采集各自的目的。区分诊断、给药支持与移植流程，核对重复取材理由及操作后的治疗和护理安排。",
+    "subtitle": "了解中国套细胞淋巴瘤活检、骨髓取样、静脉通路和细胞采集各自的目的。区分诊断、给药支持与移植流程，核对重复取材理由及操作后的治疗和护理安排。",
+    "lead": null
+  },
+  {
+    "id": 381,
+    "key": "treatment-guides/t-cell-lymphoma-surgery-procedures",
+    "title": "中国 T细胞淋巴瘤相关操作：目的与术前准备",
+    "h1": "中国 T细胞淋巴瘤相关操作：目的与术前准备",
+    "description": "了解中国T细胞淋巴瘤活检、中心静脉通路和细胞采集的作用，以及肠道急症和植入物相关病变的特殊情况。术前核对操作目的、用药和护理要求，避免重复检查无明确依据。",
+    "subtitle": "了解中国T细胞淋巴瘤活检、中心静脉通路和细胞采集的作用，以及肠道急症和植入物相关病变的特殊情况。术前核对操作目的、用药和护理要求，避免重复检查无明确依据。",
+    "lead": null
+  },
+  {
+    "id": 382,
+    "key": "treatment-guides/drug-resistant-epilepsy-surgery-procedures",
+    "title": "中国难治性癫痫手术：术前准备与术后恢复",
+    "h1": "中国难治性癫痫手术：术前准备与术后恢复",
+    "description": "了解中国难治性癫痫外科评估如何整合定位证据与需要保护的日常能力。区分切除、消融和离断，讨论儿童发育、术前准备及术后功能恢复与持续随访。",
+    "subtitle": "了解中国难治性癫痫外科评估如何整合定位证据与需要保护的日常能力。区分切除、消融和离断，讨论儿童发育、术前准备及术后功能恢复与持续随访。",
+    "lead": null
+  },
+  {
+    "id": 383,
+    "key": "treatment-guides/drug-resistant-epilepsy-treatment-overview",
+    "title": "中国难治性癫痫治疗：药物控制不佳后的选择",
+    "h1": "中国难治性癫痫治疗：药物控制不佳后的选择",
+    "description": "了解中国难治性癫痫治疗如何复核既往试药、发作类型与病因。药物控制不佳后，讨论进一步检查、手术评估及神经调控的适用条件，不必把转诊等同于立即手术。",
+    "subtitle": "了解中国难治性癫痫治疗如何复核既往试药、发作类型与病因。药物控制不佳后，讨论进一步检查、手术评估及神经调控的适用条件，不必把转诊等同于立即手术。",
+    "lead": null
+  },
+  {
+    "id": 384,
+    "key": "treatment-guides/endometriosis-treatment-in-china-diagnosis-surgery-and-follow-up",
+    "title": "中国子宫内膜异位症治疗｜诊断、手术与随访",
+    "h1": "在中国治疗子宫内膜异位症：诊断、手术与随访",
+    "description": "了解在中国进行内异症专科影像、疼痛与生育分流、深部病变手术、卵巢储备保护及长期跨境随访。",
+    "subtitle": "把疼痛与生育计划分开，术前描绘深部病变，并为这种可能复发的慢性病安排长期照护。",
+    "lead": null
+  },
+  {
+    "id": 385,
+    "key": "treatment-guides/epilepsy-evaluation-and-surgery-understanding-the-care-pathway",
+    "title": "中国癫痫手术评估：术前检查与后续随访",
+    "h1": "中国癫痫手术评估：术前检查与后续随访",
+    "description": "了解耐药性癫痫、视频脑电、MRI、神经心理、颅内脑电、切除消融、神经调控和跨境随访。",
+    "subtitle": "了解耐药性癫痫、视频脑电、MRI、神经心理、颅内脑电、切除消融、神经调控和跨境随访。",
+    "lead": "如果希望在中国接受癫痫外科评估，应为评估做好准备，不要预设之后一定会进行手术。接诊团队需要发作史、既往药物试用、影像和脑电记录，同时还需制定回国后持续照护的计划。"
+  },
+  {
+    "id": 386,
+    "key": "treatment-guides/graft-versus-host-disease-radiation-interventional",
+    "title": "中国移植物抗宿主病体外光疗：疗程与反应评估",
+    "h1": "中国移植物抗宿主病体外光疗：疗程与反应评估",
+    "description": "了解中国移植物抗宿主病体外光疗的细胞处理流程、适用情境与治疗前评估。核对血管通路、到院安排和个人准备，区分治疗次数、反应速度及是否继续的判断依据。",
+    "subtitle": "了解中国移植物抗宿主病体外光疗的细胞处理流程、适用情境与治疗前评估。核对血管通路、到院安排和个人准备，区分治疗次数、反应速度及是否继续的判断依据。",
+    "lead": null
+  },
+  {
+    "id": 387,
+    "key": "treatment-guides/fertility-assessment-in-china-tests-timelines-and-questions",
+    "title": "中国生育力评估｜检查项目与时间安排",
+    "h1": "在中国进行生育力评估：检查、时间与提问清单",
+    "description": "了解在中国进行男女同步生育力评估、卵巢和输卵管检查、精液分析、分阶段时间表及跨境结果复用方法。",
+    "subtitle": "男女双方同步、按病因推进；每一项检查都对应临床决定，跨境结果则先核对时效和可比性。",
+    "lead": null
+  },
+  {
+    "id": 388,
+    "key": "treatment-guides/follicular-lymphoma-first-line-treatment",
+    "title": "中国滤泡性淋巴瘤一线治疗：启动时机与方案规划",
+    "h1": "中国滤泡性淋巴瘤一线治疗：启动时机与方案规划",
+    "description": "在中国开始滤泡性淋巴瘤一线治疗时，先明确需要处理的病情与局部或系统治疗目标。讨论抗体及联合方案、首次给药预防、疗效耐受评估和后续维持选择。",
+    "subtitle": "在中国开始滤泡性淋巴瘤一线治疗时，先明确需要处理的病情与局部或系统治疗目标。讨论抗体及联合方案、首次给药预防、疗效耐受评估和后续维持选择。",
+    "lead": null
+  },
+  {
+    "id": 389,
+    "key": "treatment-guides/aplastic-anemia-first-line-treatment",
+    "title": "中国重型再生障碍性贫血一线治疗：移植与药物选择",
+    "h1": "中国重型再生障碍性贫血一线治疗：移植与药物选择",
+    "description": "了解中国重型再生障碍性贫血一线治疗如何权衡移植与免疫抑制路径。结合诊断、供者和身体条件，明确最初数月的支持照护、反应评估及重新讨论下一线的节点。",
+    "subtitle": "了解中国重型再生障碍性贫血一线治疗如何权衡移植与免疫抑制路径。结合诊断、供者和身体条件，明确最初数月的支持照护、反应评估及重新讨论下一线的节点。",
+    "lead": null
+  },
+  {
+    "id": 390,
+    "key": "treatment-guides/parkinson-disease-radiation-interventional",
+    "title": "帕金森病聚焦超声与局部消融：适用症状、双侧风险和中国就诊核查",
+    "h1": "帕金森病聚焦超声与局部消融：适用症状、双侧风险和中国就诊核查",
+    "description": "了解帕金森病聚焦超声和局部消融针对的症状、靶点及不可逆特点。赴中国咨询前，核对双侧操作证据、颅骨和磁共振条件，比较功能风险与后续照护需求。",
+    "subtitle": "了解帕金森病聚焦超声和局部消融针对的症状、靶点及不可逆特点。赴中国咨询前，核对双侧操作证据、颅骨和磁共振条件，比较功能风险与后续照护需求。",
+    "lead": null
+  },
+  {
+    "id": 391,
+    "key": "treatment-guides/follicular-lymphoma-side-effects",
+    "title": "在中国治疗滤泡性淋巴瘤：副作用与紧急就医",
+    "h1": "在中国治疗滤泡性淋巴瘤：副作用与紧急就医",
+    "description": "了解在中国治疗滤泡性淋巴瘤时发热、输注反应、血细胞下降和乙肝再激活的监测重点。记录皮疹、神经及胃肠症状，明确紧急联系路径和疗程结束后的持续观察。",
+    "subtitle": "了解在中国治疗滤泡性淋巴瘤时发热、输注反应、血细胞下降和乙肝再激活的监测重点。记录皮疹、神经及胃肠症状，明确紧急联系路径和疗程结束后的持续观察。",
+    "lead": null
+  },
+  {
+    "id": 392,
+    "key": "treatment-guides/follicular-lymphoma-treatment-overview",
+    "title": "中国滤泡性淋巴瘤治疗：何时开始与如何规划",
+    "h1": "中国滤泡性淋巴瘤治疗：何时开始与如何规划",
+    "description": "了解中国滤泡性淋巴瘤治疗如何结合病理、分期与肿瘤负荷决定观察或启动治疗。区分局部放疗、系统方案和维持目标，复发时重新核对疾病变化与后续选择。",
+    "subtitle": "了解中国滤泡性淋巴瘤治疗如何结合病理、分期与肿瘤负荷决定观察或启动治疗。区分局部放疗、系统方案和维持目标，复发时重新核对疾病变化与后续选择。",
+    "lead": null
+  },
+  {
+    "id": 393,
+    "key": "treatment-guides/follow-up-care-after-cancer-treatment-in-china",
+    "title": "在中国完成癌症治疗后的随访与病历交接指南",
+    "h1": "在中国完成癌症治疗后，随访应该怎么安排",
+    "description": "了解跨境癌症随访如何安排复发监测、迟发影响、持续用药、病历交接、负责医生和紧急就医规则。",
+    "subtitle": "把检查、病历和临床责任落实到具体时间与具体医生，让中国治疗团队和患者回国后的医生能够真正接续照护。",
+    "lead": null
+  },
+  {
+    "id": 394,
+    "key": "treatment-guides/full-mouth-rehabilitation-in-china-a-patient-guide",
+    "title": "在中国做全口重建｜国际患者实用指南",
+    "h1": "在中国做全口功能重建：国际患者指南",
+    "description": "了解全口功能重建如何逐牙评估、先控制疾病、用临时修复测试咬合，并规划费用、病历交接和回国维护。",
+    "subtitle": "先把缺牙、坏牙、牙周和咬合问题放进同一张治疗地图，再用临时修复验证功能，最后决定永久方案。",
+    "lead": null
+  },
+  {
+    "id": 395,
+    "key": "treatment-guides/getting-a-cancer-second-opinion-in-china",
+    "title": "在中国获取肿瘤第二诊疗意见：资料与复核要点",
+    "h1": "在中国获取肿瘤第二诊疗意见",
+    "description": "准备病理、DICOM影像和治疗记录，选择匹配的肿瘤专家，并理解怎样比较两份不同的治疗建议。",
+    "subtitle": "有价值的第二意见，不是简单换一位医生开药，而是重新检验诊断、分期和治疗逻辑。",
+    "lead": null
+  },
+  {
+    "id": 396,
+    "key": "treatment-guides/getting-a-neurosurgery-second-opinion-in-china",
+    "title": "中国神经外科第二意见｜资料准备与关键问题",
+    "h1": "如何在中国获取神经外科第二意见",
+    "description": "用DICOM影像、专科匹配、书面对比、风险问题和正式接收核验，准备中国神经外科第二意见。",
+    "subtitle": "把第二意见变成对诊断、时机、手术目标、替代方案和神经功能权衡的书面比较。",
+    "lead": null
+  },
+  {
+    "id": 397,
+    "key": "treatment-guides/gynecologic-cancer-treatment-in-china-planning-multidisciplinary-care",
+    "title": "中国妇科恶性肿瘤治疗｜多学科方案规划",
+    "h1": "在中国治疗妇科恶性肿瘤：怎样规划多学科照护",
+    "description": "了解在中国进行妇科肿瘤病理复核、分部位分期、手术、放疗、系统治疗、遗传和生育保护的多学科规划。",
+    "subtitle": "把病理、分部位分期、手术、放疗、系统治疗、遗传和生育需求写成有先后顺序、有责任人的一份方案。",
+    "lead": null
+  },
+  {
+    "id": 398,
+    "key": "treatment-guides/heart-valve-repair-and-replacement-comparing-treatment-options",
+    "title": "中国心脏瓣膜治疗：修复与置换如何比较",
+    "h1": "中国心脏瓣膜治疗：修复与置换如何比较",
+    "description": "比较瓣膜修复、机械瓣、生物瓣、外科与经导管方案，并了解抗凝、恢复和终身随访如何影响选择。",
+    "subtitle": "比较瓣膜修复、机械瓣、生物瓣、外科与经导管方案，并了解抗凝、恢复和终身随访如何影响选择。",
+    "lead": null
+  },
+  {
+    "id": 399,
+    "key": "treatment-guides/hip-replacement-in-china-surgery-recovery-and-travel",
+    "title": "在中国做髋关节置换｜手术、康复与旅行",
+    "h1": "在中国做髋关节置换：手术、康复与旅行",
+    "description": "了解在中国做髋关节置换时怎样核实诊断、入路和假体，安排动作限制、康复、航班安全及长期植入物档案。",
+    "subtitle": "先弄清需要治疗的髋关节、术中每项选择，以及真正决定何时回国的康复里程碑。",
+    "lead": null
+  },
+  {
+    "id": 400,
+    "key": "treatment-guides/hodgkin-lymphoma-treatment-overview",
+    "title": "中国霍奇金淋巴瘤治疗：从确诊到恢复",
+    "h1": "中国霍奇金淋巴瘤治疗：从确诊到恢复",
+    "description": "了解中国霍奇金淋巴瘤从病理确认、分期到药物与放疗的诊疗过程。开疗前讨论生育和日常安排，治疗中记录反应与耐受，并为效果不理想时的下一步评估做好准备。",
+    "subtitle": "了解中国霍奇金淋巴瘤从病理确认、分期到药物与放疗的诊疗过程。开疗前讨论生育和日常安排，治疗中记录反应与耐受，并为效果不理想时的下一步评估做好准备。",
+    "lead": null
+  },
+  {
+    "id": 401,
+    "key": "treatment-guides/mantle-cell-lymphoma-treatment-overview",
+    "title": "中国套细胞淋巴瘤治疗：不同阶段的选择",
+    "h1": "中国套细胞淋巴瘤治疗：不同阶段的选择",
+    "description": "了解中国套细胞淋巴瘤在观察、初治、缓解及后续阶段的选择。结合病理、身体承受能力和高风险特征讨论靶向药、自体移植与维持，避免仅按年龄决定路径。",
+    "subtitle": "了解中国套细胞淋巴瘤在观察、初治、缓解及后续阶段的选择。结合病理、身体承受能力和高风险特征讨论靶向药、自体移植与维持，避免仅按年龄决定路径。",
+    "lead": null
+  },
+  {
+    "id": 402,
+    "key": "treatment-guides/aplastic-anemia-treatment-duration",
+    "title": "中国再生障碍性贫血治疗：时间与返程安排",
+    "h1": "中国再生障碍性贫血治疗：时间与返程安排",
+    "description": "安排中国再生障碍性贫血治疗时，区分诊断、给药、等待造血反应和长期监测。了解移植前后恢复、持续输血及减药评估如何影响停留、工作与返程计划。",
+    "subtitle": "安排中国再生障碍性贫血治疗时，区分诊断、给药、等待造血反应和长期监测。了解移植前后恢复、持续输血及减药评估如何影响停留、工作与返程计划。",
+    "lead": null
+  },
+  {
+    "id": 403,
+    "key": "treatment-guides/diffuse-large-b-cell-lymphoma-treatment-duration",
+    "title": "中国弥漫大B细胞淋巴瘤治疗：周期、复查与停留时间",
+    "h1": "中国弥漫大B细胞淋巴瘤治疗：周期、复查与停留时间",
+    "description": "了解中国弥漫大B细胞淋巴瘤治疗周期为何包含给药、恢复和复查。分别核算诊断、放疗、移植或细胞治疗的时间，并按血象与疗效节点安排实际停留和后续照护。",
+    "subtitle": "了解中国弥漫大B细胞淋巴瘤治疗周期为何包含给药、恢复和复查。分别核算诊断、放疗、移植或细胞治疗的时间，并按血象与疗效节点安排实际停留和后续照护。",
+    "lead": null
+  },
+  {
+    "id": 404,
+    "key": "treatment-guides/alzheimer-disease-treatment-duration",
+    "title": "阿尔茨海默病要治疗多久？药物复核、抗体疗程与赴华停留安排",
+    "h1": "阿尔茨海默病要治疗多久？药物复核、抗体疗程与赴华停留安排",
+    "description": "了解阿尔茨海默病症状药复核、抗体给药、疗效观察与安全监测的不同时间安排。赴中国就医前，确认复评和暂停后的处理条件，避免把单个研究时点当作统一停药期限。",
+    "subtitle": "了解阿尔茨海默病症状药复核、抗体给药、疗效观察与安全监测的不同时间安排。赴中国就医前，确认复评和暂停后的处理条件，避免把单个研究时点当作统一停药期限。",
+    "lead": null
+  },
+  {
+    "id": 405,
+    "key": "treatment-guides/drug-resistant-epilepsy-treatment-duration",
+    "title": "中国难治性癫痫治疗：用药、手术与随访时间规划",
+    "h1": "中国难治性癫痫治疗：用药、手术与随访时间规划",
+    "description": "规划中国难治性癫痫治疗时，区分加药、稳定观察、术前评估和术后恢复。让每个时间节点对应具体临床决定，结合发作记录与功能变化安排复诊、减药讨论和行程。",
+    "subtitle": "规划中国难治性癫痫治疗时，区分加药、稳定观察、术前评估和术后恢复。让每个时间节点对应具体临床决定，结合发作记录与功能变化安排复诊、减药讨论和行程。",
+    "lead": null
+  },
+  {
+    "id": 406,
+    "key": "treatment-guides/follicular-lymphoma-treatment-duration",
+    "title": "中国滤泡性淋巴瘤治疗：观察、疗程与恢复时间",
+    "h1": "中国滤泡性淋巴瘤治疗：观察、疗程与恢复时间",
+    "description": "了解中国滤泡性淋巴瘤主动监测、诱导、放疗和维持的不同时间安排。区分固定疗程、持续用药与移植或细胞治疗恢复，按实际复评和护理需求规划停留。",
+    "subtitle": "了解中国滤泡性淋巴瘤主动监测、诱导、放疗和维持的不同时间安排。区分固定疗程、持续用药与移植或细胞治疗恢复，按实际复评和护理需求规划停留。",
+    "lead": null
+  },
+  {
+    "id": 407,
+    "key": "treatment-guides/graft-versus-host-disease-treatment-duration",
+    "title": "中国移植物抗宿主病治疗：住院、复评与返程时间",
+    "h1": "中国移植物抗宿主病治疗：住院、复评与返程时间",
+    "description": "了解中国移植物抗宿主病急性处理、慢性器官恢复与减药复评的不同节奏。安排住院和返程时，结合症状、检查与持续支持需求，避免单凭移植天数或感觉好转决定。",
+    "subtitle": "了解中国移植物抗宿主病急性处理、慢性器官恢复与减药复评的不同节奏。安排住院和返程时，结合症状、检查与持续支持需求，避免单凭移植天数或感觉好转决定。",
+    "lead": null
+  },
+  {
+    "id": 408,
+    "key": "treatment-guides/hodgkin-lymphoma-treatment-duration",
+    "title": "中国霍奇金淋巴瘤治疗：周期、PET 复查与行程",
+    "h1": "中国霍奇金淋巴瘤治疗：周期、PET 复查与行程",
+    "description": "规划中国霍奇金淋巴瘤治疗时，核对每周期到院次数、中期影像和恢复检查。把放疗准备、医学延期与疗程结束评估纳入日历，按实际身体状态安排停留和后续治疗。",
+    "subtitle": "规划中国霍奇金淋巴瘤治疗时，核对每周期到院次数、中期影像和恢复检查。把放疗准备、医学延期与疗程结束评估纳入日历，按实际身体状态安排停留和后续治疗。",
+    "lead": null
+  },
+  {
+    "id": 409,
+    "key": "treatment-guides/mantle-cell-lymphoma-treatment-duration",
+    "title": "套细胞淋巴瘤治疗要多久？周期、维持、口服药与赴华停留如何安排",
+    "h1": "套细胞淋巴瘤治疗要多久？周期、维持、口服药与赴华停留如何安排",
+    "description": "了解套细胞淋巴瘤诱导、维持和连续口服药的不同时间要求。赴中国治疗前，核对起始监测、复评条件及移植后的恢复需求，避免把给药日或周期数等同于住院时长。",
+    "subtitle": "了解套细胞淋巴瘤诱导、维持和连续口服药的不同时间要求。赴中国治疗前，核对起始监测、复评条件及移植后的恢复需求，避免把给药日或周期数等同于住院时长。",
+    "lead": null
+  },
+  {
+    "id": 410,
+    "key": "treatment-guides/multiple-myeloma-treatment-duration",
+    "title": "多发性骨髓瘤要治疗多久：疗程、维持停药研究与在中国停留安排",
+    "h1": "多发性骨髓瘤要治疗多久：疗程、维持停药研究与在中国停留安排",
+    "description": "了解多发性骨髓瘤初治、干细胞采集、移植和维持的时间安排，区分出院、血象与免疫恢复。赴中国治疗前，核对复评和停药研究的适用条件，预留持续照护时间。",
+    "subtitle": "了解多发性骨髓瘤初治、干细胞采集、移植和维持的时间安排，区分出院、血象与免疫恢复。赴中国治疗前，核对复评和停药研究的适用条件，预留持续照护时间。",
+    "lead": null
+  },
+  {
+    "id": 411,
+    "key": "treatment-guides/multiple-sclerosis-treatment-duration",
+    "title": "中国多发性硬化治疗：给药、复评与长期安排",
+    "h1": "中国多发性硬化治疗：给药、复评与长期安排",
+    "description": "了解中国多发性硬化急性发作治疗、疾病修饰药给药与长期复评的不同节奏。讨论持续监测、计划停药和突然中断的区别，按具体药物与病程安排后续照护。",
+    "subtitle": "了解中国多发性硬化急性发作治疗、疾病修饰药给药与长期复评的不同节奏。讨论持续监测、计划停药和突然中断的区别，按具体药物与病程安排后续照护。",
+    "lead": null
+  },
+  {
+    "id": 412,
+    "key": "treatment-guides/parkinson-disease-treatment-duration",
+    "title": "帕金森病要治疗多久：调药、脑起搏器和赴华停留时间怎么安排",
+    "h1": "帕金森病要治疗多久：调药、脑起搏器和赴华停留时间怎么安排",
+    "description": "规划帕金森病在中国就医的停留时间时，分别考虑调药观察、脑起搏器程控和输注培训。将康复进展、聚焦超声随访与返程支持纳入安排，为临床调整保留余地。",
+    "subtitle": "规划帕金森病在中国就医的停留时间时，分别考虑调药观察、脑起搏器程控和输注培训。将康复进展、聚焦超声随访与返程支持纳入安排，为临床调整保留余地。",
+    "lead": null
+  },
+  {
+    "id": 413,
+    "key": "treatment-guides/sickle-cell-disease-treatment-duration",
+    "title": "中国镰状细胞病治疗：疗程时间与行程安排",
+    "h1": "中国镰状细胞病治疗：疗程时间与行程安排",
+    "description": "了解中国镰状细胞病用药观察、验血、规律输血及急症恢复的不同时间安排。依据具体治疗目标和实际反应规划停留与后续照护，避免用统一疗程数判断结束时间。",
+    "subtitle": "了解中国镰状细胞病用药观察、验血、规律输血及急症恢复的不同时间安排。依据具体治疗目标和实际反应规划停留与后续照护，避免用统一疗程数判断结束时间。",
+    "lead": null
+  },
+  {
+    "id": 414,
+    "key": "treatment-guides/post-ischemic-stroke-rehabilitation-treatment-duration",
+    "title": "中国卒中康复：治疗时间与后续照护",
+    "h1": "中国卒中康复：治疗时间与后续照护",
+    "description": "安排中国卒中康复时，了解住院时长、每日训练和不同功能复评为何需要分别规划。结合参与能力、吞咽营养和实际生活目标，明确阶段成果与后续照护衔接。",
+    "subtitle": "安排中国卒中康复时，了解住院时长、每日训练和不同功能复评为何需要分别规划。结合参与能力、吞咽营养和实际生活目标，明确阶段成果与后续照护衔接。",
+    "lead": null
+  },
+  {
+    "id": 415,
+    "key": "treatment-guides/t-cell-lymphoma-treatment-duration",
+    "title": "中国 T细胞淋巴瘤治疗：周期与行程安排",
+    "h1": "中国 T细胞淋巴瘤治疗：周期与行程安排",
+    "description": "了解中国T细胞淋巴瘤治疗时间如何受亚型、给药周期、恢复和疗效检查影响。将诊断准备、放疗计划与移植阶段分别列入行程，按临床原因理解暂停和延期。",
+    "subtitle": "了解中国T细胞淋巴瘤治疗时间如何受亚型、给药周期、恢复和疗效检查影响。将诊断准备、放疗计划与移植阶段分别列入行程，按临床原因理解暂停和延期。",
+    "lead": null
+  },
+  {
+    "id": 416,
+    "key": "treatment-guides/thalassemia-treatment-duration",
+    "title": "地中海贫血要治疗多久：输血周期、用药观察期与来华停留怎样安排",
+    "h1": "地中海贫血要治疗多久：输血周期、用药观察期与来华停留怎样安排",
+    "description": "规划地中海贫血来中国就医时，区分规律输血、临时输血、祛铁与新药观察的时间要求。根据铁负荷和实际疗效安排复查及停留，避免把一次输血当作完整疗程。",
+    "subtitle": "规划地中海贫血来中国就医时，区分规律输血、临时输血、祛铁与新药观察的时间要求。根据铁负荷和实际疗效安排复查及停留，避免把一次输血当作完整疗程。",
+    "lead": null
+  },
+  {
+    "id": 417,
+    "key": "treatment-guides/inpatient-vs-outpatient-rehabilitation-in-china",
+    "title": "中国住院康复与门诊康复怎么选",
+    "h1": "中国住院康复与门诊康复怎么选",
+    "description": "按医学监护、护理、功能、治疗剂量、住所安全、费用和交接比较中国住院与门诊康复。",
+    "subtitle": "依据夜间医疗护理需要、功能安全和两次治疗之间的支持选照护级别，而不是看哪种套餐听起来更“密集”。",
+    "lead": null
+  },
+  {
+    "id": 418,
+    "key": "treatment-guides/integrative-supportive-care-during-cancer-treatment-in-china",
+    "title": "中国癌症整合支持治疗指南",
+    "h1": "在中国接受癌症整合支持治疗",
+    "description": "怎样评估疼痛、疲劳、情绪、恶心、营养和功能支持，同时筛查补充剂相互作用和治疗周期风险。",
+    "subtitle": "把有证据的症状支持加入肿瘤治疗，同时公开相互作用、不延误标准治疗，也不把养生套餐包装成抗癌方案。",
+    "lead": null
+  },
+  {
+    "id": 419,
+    "key": "treatment-guides/post-ischemic-stroke-rehabilitation-surgery-procedures",
+    "title": "中国卒中相关手术：急救、预防与康复中的作用",
+    "h1": "中国卒中相关手术：急救、预防与康复中的作用",
+    "description": "了解中国卒中相关取栓、减压、颈动脉手术与其他操作分别用于急救、预防还是支持康复。核对适用依据，理解营养通路和痉挛处理后仍需持续功能照护。",
+    "subtitle": "了解中国卒中相关取栓、减压、颈动脉手术与其他操作分别用于急救、预防还是支持康复。核对适用依据，理解营养通路和痉挛处理后仍需持续功能照护。",
+    "lead": null
+  },
+  {
+    "id": 420,
+    "key": "treatment-guides/ivf-treatment-in-china-a-practical-guide-for-international-patients",
+    "title": "中国试管婴儿治疗｜国际患者实用指南",
+    "h1": "国际患者赴中国接受试管婴儿治疗：实用指南",
+    "description": "了解赴中国接受 IVF 前的接诊资格、获批技术、周期步骤、实验室安全、成功率分母、胚胎移植及跨境随访要点。",
+    "subtitle": "先核对接诊资格与实验室获批技术，再围绕真实临床节点安排周期和行程，而不是被一个“成功率”带着走。",
+    "lead": null
+  },
+  {
+    "id": 421,
+    "key": "treatment-guides/joint-preservation-treatments-questions-to-ask-before-surgery",
+    "title": "在中国接受保关节治疗：手术前应问什么",
+    "h1": "在中国接受保关节治疗：手术前应问什么",
+    "description": "从诊断、软骨、力线与稳定性评估保关节手术，核实证据、康复、失败标准和未来置换选择。",
+    "subtitle": "从诊断、软骨、力线与稳定性评估保关节手术，核实证据、康复、失败标准和未来置换选择。",
+    "lead": "赴中国进行保关节治疗咨询前，应询问拟议操作旨在解决什么结构性问题。携带影像和治疗史，在选择手术前比较恢复要求、替代方案和随访需求。"
+  },
+  {
+    "id": 422,
+    "key": "treatment-guides/knee-replacement-in-china-a-patient-planning-guide",
+    "title": "在中国做膝关节置换｜患者规划指南",
+    "h1": "在中国做膝关节置换：患者规划指南",
+    "description": "了解在中国做膝关节置换时怎样选择全膝或单髁、核实植入物、预防感染和血栓、安排康复、返程与病历交接。",
+    "subtitle": "围绕真正需要治疗的膝关节、能够落实的康复安排，以及回国后团队所需资料来规划手术。",
+    "lead": null
+  },
+  {
+    "id": 423,
+    "key": "treatment-guides/multiple-sclerosis-side-effects",
+    "title": "在中国治疗多发性硬化：副作用与就医时机",
+    "h1": "在中国治疗多发性硬化：副作用与就医时机",
+    "description": "了解在中国治疗多发性硬化时注射反应、感染、肝功能和血细胞监测的重点。记录症状与用药时间，及时评估新的神经或视力变化，避免一律解释为疾病复发。",
+    "subtitle": "了解在中国治疗多发性硬化时注射反应、感染、肝功能和血细胞监测的重点。记录症状与用药时间，及时评估新的神经或视力变化，避免一律解释为疾病复发。",
+    "lead": null
+  },
+  {
+    "id": 424,
+    "key": "treatment-guides/graft-versus-host-disease-side-effects",
+    "title": "在中国治疗移植物抗宿主病：副作用与监测",
+    "h1": "在中国治疗移植物抗宿主病：副作用与监测",
+    "description": "了解在中国治疗移植物抗宿主病时激素、系统药及局部药的不良反应监测。将新症状与用药时间对应，核对血细胞、肝酶、血压等变化，并明确紧急联系条件。",
+    "subtitle": "了解在中国治疗移植物抗宿主病时激素、系统药及局部药的不良反应监测。将新症状与用药时间对应，核对血细胞、肝酶、血压等变化，并明确紧急联系条件。",
+    "lead": null
+  },
+  {
+    "id": 425,
+    "key": "treatment-guides/mantle-cell-lymphoma-side-effects",
+    "title": "在中国治疗套细胞淋巴瘤：副作用与安全监测",
+    "h1": "在中国治疗套细胞淋巴瘤：副作用与安全监测",
+    "description": "了解在中国治疗套细胞淋巴瘤时感染、出血、心脏及肝功能风险的观察重点。按实际药物记录疲劳、胃肠和神经症状，明确需要及时联系团队的变化与安全监测任务。",
+    "subtitle": "了解在中国治疗套细胞淋巴瘤时感染、出血、心脏及肝功能风险的观察重点。按实际药物记录疲劳、胃肠和神经症状，明确需要及时联系团队的变化与安全监测任务。",
+    "lead": null
+  },
+  {
+    "id": 426,
+    "key": "treatment-guides/multiple-myeloma-side-effects",
+    "title": "在中国治疗多发性骨髓瘤：副作用与紧急症状",
+    "h1": "在中国治疗多发性骨髓瘤：副作用与紧急症状",
+    "description": "了解在中国治疗多发性骨髓瘤时发热、呼吸困难和意识变化等紧急信号。结合用药或细胞治疗安排感染、血细胞、神经、心肾及血栓风险监测，支持及时处理。",
+    "subtitle": "了解在中国治疗多发性骨髓瘤时发热、呼吸困难和意识变化等紧急信号。结合用药或细胞治疗安排感染、血细胞、神经、心肾及血栓风险监测，支持及时处理。",
+    "lead": null
+  },
+  {
+    "id": 427,
+    "key": "treatment-guides/t-cell-lymphoma-side-effects",
+    "title": "在中国治疗 T细胞淋巴瘤：副作用与紧急就医",
+    "h1": "在中国治疗 T细胞淋巴瘤：副作用与紧急就医",
+    "description": "了解在中国治疗T细胞淋巴瘤时发热、出血、麻木及进食困难的处理重点。提前取得可用的联系安排，记录皮疹和腹泻等新变化，帮助团队判断原因与是否调整治疗。",
+    "subtitle": "了解在中国治疗T细胞淋巴瘤时发热、出血、麻木及进食困难的处理重点。提前取得可用的联系安排，记录皮疹和腹泻等新变化，帮助团队判断原因与是否调整治疗。",
+    "lead": null
+  },
+  {
+    "id": 428,
+    "key": "treatment-guides/thalassemia-side-effects",
+    "title": "在中国治疗地中海贫血：副作用与安全核对",
+    "h1": "在中国治疗地中海贫血：副作用与安全核对",
+    "description": "了解在中国治疗地中海贫血时输血反应、迟发黄疸与祛铁药安全监测。结合具体药物关注发热、脱水、肾功能及听视力变化，准备能够支持及时判断的治疗信息。",
+    "subtitle": "了解在中国治疗地中海贫血时输血反应、迟发黄疸与祛铁药安全监测。结合具体药物关注发热、脱水、肾功能及听视力变化，准备能够支持及时判断的治疗信息。",
+    "lead": null
+  },
+  {
+    "id": 429,
+    "key": "treatment-guides/drug-resistant-epilepsy-drug-treatment",
+    "title": "中国难治性癫痫用药：可及性与监测",
+    "h1": "中国难治性癫痫用药：可及性与监测",
+    "description": "在中国咨询难治性癫痫用药时，按发作类型、综合征和既往试药记录核对选择。了解逐步加量、重新启动、心脏与情绪监测及合并用药要求，确认具体供药路径。",
+    "subtitle": "在中国咨询难治性癫痫用药时，按发作类型、综合征和既往试药记录核对选择。了解逐步加量、重新启动、心脏与情绪监测及合并用药要求，确认具体供药路径。",
+    "lead": null
+  },
+  {
+    "id": 430,
+    "key": "treatment-guides/post-ischemic-stroke-rehabilitation-drug-treatment",
+    "title": "中国卒中康复用药：用途与证据局限",
+    "h1": "中国卒中康复用药：用途与证据局限",
+    "description": "了解中国卒中康复用药中预防复发、抗凝、控制危险因素与处理痉挛的不同用途。明确局部注射和情绪治疗的目标，结合实际功能讨论获益、风险和证据限制。",
+    "subtitle": "了解中国卒中康复用药中预防复发、抗凝、控制危险因素与处理痉挛的不同用途。明确局部注射和情绪治疗的目标，结合实际功能讨论获益、风险和证据限制。",
+    "lead": null
+  },
+  {
+    "id": 431,
+    "key": "treatment-guides/aplastic-anemia-drug-treatment",
+    "title": "中国再生障碍性贫血用药：ATG、环孢素与其他选择",
+    "h1": "中国再生障碍性贫血用药：ATG、环孢素与其他选择",
+    "description": "了解中国再生障碍性贫血抗胸腺细胞球蛋白、环孢素和促造血药的不同作用。核对剂型、药物浓度、肾功能及饮食间隔，将感染预防和实际漏服换药记录纳入管理。",
+    "subtitle": "了解中国再生障碍性贫血抗胸腺细胞球蛋白、环孢素和促造血药的不同作用。核对剂型、药物浓度、肾功能及饮食间隔，将感染预防和实际漏服换药记录纳入管理。",
+    "lead": null
+  },
+  {
+    "id": 432,
+    "key": "treatment-guides/follicular-lymphoma-drug-treatment",
+    "title": "中国滤泡性淋巴瘤用药：方案与监测",
+    "h1": "中国滤泡性淋巴瘤用药：方案与监测",
+    "description": "了解中国滤泡性淋巴瘤抗体、化疗、口服药与双特异性抗体的监测差别。核对适应证、起始观察、家庭用药和支持处方，避免跨病种套用药物信息或沿用旧资料。",
+    "subtitle": "了解中国滤泡性淋巴瘤抗体、化疗、口服药与双特异性抗体的监测差别。核对适应证、起始观察、家庭用药和支持处方，避免跨病种套用药物信息或沿用旧资料。",
+    "lead": null
+  },
+  {
+    "id": 433,
+    "key": "treatment-guides/graft-versus-host-disease-drug-treatment",
+    "title": "中国移植物抗宿主病用药：适应证、监测与可及性",
+    "h1": "中国移植物抗宿主病用药：适应证、监测与可及性",
+    "description": "了解中国移植物抗宿主病用药如何按急性、慢性及治疗反应匹配具体适应证。核对激素减量、靶向药监测与合并处方，分别确认中国说明书和实际获取条件。",
+    "subtitle": "了解中国移植物抗宿主病用药如何按急性、慢性及治疗反应匹配具体适应证。核对激素减量、靶向药监测与合并处方，分别确认中国说明书和实际获取条件。",
+    "lead": null
+  },
+  {
+    "id": 434,
+    "key": "treatment-guides/hodgkin-lymphoma-drug-treatment",
+    "title": "中国霍奇金淋巴瘤用药：药物选择与可及性",
+    "h1": "中国霍奇金淋巴瘤用药：药物选择与可及性",
+    "description": "了解中国霍奇金淋巴瘤处方中的化疗、靶向及免疫药物各自作用，区分联合方案与同类替换。结合既往用药、慢病和支持药核对监测及药物获取安排。",
+    "subtitle": "了解中国霍奇金淋巴瘤处方中的化疗、靶向及免疫药物各自作用，区分联合方案与同类替换。结合既往用药、慢病和支持药核对监测及药物获取安排。",
+    "lead": null
+  },
+  {
+    "id": 435,
+    "key": "treatment-guides/mantle-cell-lymphoma-drug-treatment",
+    "title": "中国套细胞淋巴瘤用药：可及性核实与监测",
+    "h1": "中国套细胞淋巴瘤用药：可及性核实与监测",
+    "description": "了解中国套细胞淋巴瘤靶向药在不同治疗阶段的作用与使用顺序。核对具体产品、既往用药、地区适应证和安全监测，避免把研究方案或海外信息直接当作个人处方。",
+    "subtitle": "了解中国套细胞淋巴瘤靶向药在不同治疗阶段的作用与使用顺序。核对具体产品、既往用药、地区适应证和安全监测，避免把研究方案或海外信息直接当作个人处方。",
+    "lead": null
+  },
+  {
+    "id": 436,
+    "key": "treatment-guides/multiple-sclerosis-drug-treatment",
+    "title": "中国多发性硬化用药：选择、监测与换药衔接",
+    "h1": "中国多发性硬化用药：选择、监测与换药衔接",
+    "description": "了解中国多发性硬化疾病修饰药、复发用药与症状药的区别。结合肝脏、血细胞、生育和感染风险核对监测，明确启动、重新启动及换药时的连续照护要求。",
+    "subtitle": "了解中国多发性硬化疾病修饰药、复发用药与症状药的区别。结合肝脏、血细胞、生育和感染风险核对监测，明确启动、重新启动及换药时的连续照护要求。",
+    "lead": null
+  },
+  {
+    "id": 437,
+    "key": "treatment-guides/t-cell-lymphoma-drug-treatment",
+    "title": "中国 T细胞淋巴瘤用药：适应证与监测",
+    "h1": "中国 T细胞淋巴瘤用药：适应证与监测",
+    "description": "了解中国T细胞淋巴瘤化疗、靶向和口服药的适应证及监测重点。结合病理亚型核对血液检查、感染预防与维生素支持，避免仅凭靶点或给药便利性选择药物。",
+    "subtitle": "了解中国T细胞淋巴瘤化疗、靶向和口服药的适应证及监测重点。结合病理亚型核对血液检查、感染预防与维生素支持，避免仅凭靶点或给药便利性选择药物。",
+    "lead": null
+  },
+  {
+    "id": 438,
+    "key": "treatment-guides/multidisciplinary-cancer-care-how-tumor-boards-guide-treatment",
+    "title": "中国肿瘤多学科会诊：MDT 如何指导治疗",
+    "h1": "中国肿瘤多学科会诊：MDT 如何指导治疗",
+    "description": "了解肿瘤委员会如何审阅证据、记录选项和不确定性、纳入患者偏好，并把MDT建议转化为可执行方案。",
+    "subtitle": "了解肿瘤委员会如何审阅证据、记录选项和不确定性、纳入患者偏好，并把MDT建议转化为可执行方案。",
+    "lead": null
+  },
+  {
+    "id": 439,
+    "key": "treatment-guides/multiple-myeloma-drug-treatment",
+    "title": "多发性骨髓瘤用药怎么选：药物类别、监测重点与在中国接续治疗",
+    "h1": "多发性骨髓瘤用药怎么选：药物类别、监测重点与在中国接续治疗",
+    "description": "了解多发性骨髓瘤蛋白酶体抑制剂、免疫调节药、抗体与双抗的作用及监测差别。在中国接续治疗前，核对神经、心肾、输血和感染支持，并完整记录方案组成。",
+    "subtitle": "了解多发性骨髓瘤蛋白酶体抑制剂、免疫调节药、抗体与双抗的作用及监测差别。在中国接续治疗前，核对神经、心肾、输血和感染支持，并完整记录方案组成。",
+    "lead": null
+  },
+  {
+    "id": 440,
+    "key": "treatment-guides/multiple-myeloma-treatment-overview",
+    "title": "中国多发性骨髓瘤治疗：方案与长期照护",
+    "h1": "中国多发性骨髓瘤治疗：方案与长期照护",
+    "description": "了解中国多发性骨髓瘤治疗如何区分活动性疾病、急需处理的器官问题与长期管理。结合身体状况和风险讨论初治、自体移植、维持及复发路径，落实持续照护。",
+    "subtitle": "了解中国多发性骨髓瘤治疗如何区分活动性疾病、急需处理的器官问题与长期管理。结合身体状况和风险讨论初治、自体移植、维持及复发路径，落实持续照护。",
+    "lead": null
+  },
+  {
+    "id": 441,
+    "key": "treatment-guides/multiple-sclerosis-treatment-overview",
+    "title": "中国多发性硬化治疗：持续诊疗与功能照护",
+    "h1": "中国多发性硬化治疗：持续诊疗与功能照护",
+    "description": "了解中国多发性硬化诊疗如何区分复发、暂时加重和持续进展。结合诊断证据与病程讨论急性治疗、长期用药和功能康复，把症状管理及安全监测纳入持续照护。",
+    "subtitle": "了解中国多发性硬化诊疗如何区分复发、暂时加重和持续进展。结合诊断证据与病程讨论急性治疗、长期用药和功能康复，把症状管理及安全监测纳入持续照护。",
+    "lead": null
+  },
+  {
+    "id": 442,
+    "key": "treatment-guides/neurological-rehabilitation-in-china-choosing-the-right-program",
+    "title": "中国神经康复｜怎样选择合适项目",
+    "h1": "在中国选择神经康复项目：怎样判断是否真正适合",
+    "description": "按疾病专长、团队、强度、吞咽、认知、医学安全、功能结果和回国交接比较中国神经康复项目。",
+    "subtitle": "比较神经专科能力、医学安全、可测量功能和连续照护，而不是只看机器人、课时数量或恢复承诺。",
+    "lead": null
+  },
+  {
+    "id": 443,
+    "key": "treatment-guides/oral-and-maxillofacial-surgery-in-china-what-patients-should-know",
+    "title": "中国口腔颌面外科｜国际患者指南",
+    "h1": "在中国接受口腔颌面外科治疗：患者需要了解什么",
+    "description": "按诊断选择中国口腔颌面外科团队，了解影像、麻醉、病理、神经风险、恢复、植入物记录及回国随访。",
+    "subtitle": "安排口腔、颌骨或面部手术之前，先让诊断与真正合适的外科团队、麻醉场所和随访能力匹配。",
+    "lead": null
+  },
+  {
+    "id": 444,
+    "key": "treatment-guides/orthodontic-treatment-in-china-planning-for-long-term-follow-up",
+    "title": "在中国做牙齿矫正｜长期复诊与转诊指南",
+    "h1": "在中国做牙齿矫正：如何安排长期复诊与交接",
+    "description": "了解托槽和隐形牙套的诊断、复诊、转诊资料、根吸收与脱矿风险、费用边界，以及长期保持器安排。",
+    "subtitle": "选择一种在居住地也能持续监测的方案，记录每项移动目标，并在戴上第一副装置前安排好转诊和保持。",
+    "lead": null
+  },
+  {
+    "id": 445,
+    "key": "treatment-guides/parkinson-disease-drug-treatment",
+    "title": "中国帕金森病用药：左旋多巴与其他选择",
+    "h1": "中国帕金森病用药：左旋多巴与其他选择",
+    "description": "了解中国帕金森病左旋多巴、受体激动剂和辅助药物的不同用途。核对剂型、实际药效与合并处方，关注行为、肾功能等监测需求，避免将同名制剂自行互换。",
+    "subtitle": "了解中国帕金森病左旋多巴、受体激动剂和辅助药物的不同用途。核对剂型、实际药效与合并处方，关注行为、肾功能等监测需求，避免将同名制剂自行互换。",
+    "lead": null
+  },
+  {
+    "id": 446,
+    "key": "treatment-guides/parkinson-disease-treatment-overview",
+    "title": "帕金森病在中国如何治疗：先改善每天的活动，再决定药物与手术",
+    "h1": "帕金森病在中国如何治疗：先改善每天的活动，再决定药物与手术",
+    "description": "了解中国帕金森病治疗如何围绕日常活动制定药物、康复和器械方案。记录药效波动，将睡眠、情绪与吞咽问题纳入计划，并讨论脑深部电刺激或持续输注的适用条件。",
+    "subtitle": "了解中国帕金森病治疗如何围绕日常活动制定药物、康复和器械方案。记录药效波动，将睡眠、情绪与吞咽问题纳入计划，并讨论脑深部电刺激或持续输注的适用条件。",
+    "lead": null
+  },
+  {
+    "id": 447,
+    "key": "treatment-guides/parkinson-disease-side-effects",
+    "title": "在中国治疗帕金森病：副作用与新出现的症状",
+    "h1": "在中国治疗帕金森病：副作用与新出现的症状",
+    "description": "了解在中国治疗帕金森病时起立头晕、嗜睡、冲动行为、幻觉和异动症的观察重点。记录实际用药与变化时间，结合安全和功能影响及时反馈，帮助医生判断原因。",
+    "subtitle": "了解在中国治疗帕金森病时起立头晕、嗜睡、冲动行为、幻觉和异动症的观察重点。记录实际用药与变化时间，结合安全和功能影响及时反馈，帮助医生判断原因。",
+    "lead": null
+  },
+  {
+    "id": 448,
+    "key": "treatment-guides/pathology-review-before-cancer-treatment-in-china",
+    "title": "在中国治疗癌症前进行病理复核",
+    "h1": "在中国接受癌症治疗前进行病理复核",
+    "description": "为赴华癌症治疗准备病理复核，确认诊断、分期相关特征和生物标志物，同时保护有限肿瘤组织。",
+    "subtitle": "在不可逆的癌症治疗开始前，确认肿瘤诊断、真正影响治疗的特征，以及仍然缺少的证据。",
+    "lead": null
+  },
+  {
+    "id": 449,
+    "key": "treatment-guides/percutaneous-coronary-intervention-and-stents-a-patient-guide",
+    "title": "中国冠脉 PCI 与支架治疗：决策与恢复",
+    "h1": "中国冠脉 PCI 与支架治疗：决策与恢复",
+    "description": "了解 PCI 预期获益、病变和支架规划、复杂冠脉决策、双联抗血小板治疗、恢复与跨境随访。",
+    "subtitle": "了解 PCI 预期获益、病变和支架规划、复杂冠脉决策、双联抗血小板治疗、恢复与跨境随访。",
+    "lead": null
+  },
+  {
+    "id": 450,
+    "key": "treatment-guides/postoperative-rehabilitation-in-china-building-a-recovery-plan",
+    "title": "中国术后康复｜怎样建立恢复计划",
+    "h1": "在中国进行术后康复：怎样建立可执行的恢复计划",
+    "description": "按手术建立中国术后康复计划，涵盖限制、功能测量、疼痛、营养、伤口、血栓、出院、乘机和回国交接。",
+    "subtitle": "把手术限制转化为可以测量的活动、自理和返程节点，并让计划在回国后仍能继续执行。",
+    "lead": null
+  },
+  {
+    "id": 451,
+    "key": "treatment-guides/multiple-myeloma-surgery-procedures",
+    "title": "中国多发性骨髓瘤相关操作：取样、细胞采集与骨骼治疗",
+    "h1": "中国多发性骨髓瘤相关操作：取样、细胞采集与骨骼治疗",
+    "description": "了解中国多发性骨髓瘤骨髓取样、干细胞采集、移植与细胞治疗的不同流程。区分诊断、造血支持和骨骼操作的目标，核对恢复及后续照护，避免将采集等同于治疗完成。",
+    "subtitle": "了解中国多发性骨髓瘤骨髓取样、干细胞采集、移植与细胞治疗的不同流程。区分诊断、造血支持和骨骼操作的目标，核对恢复及后续照护，避免将采集等同于治疗完成。",
+    "lead": null
+  },
+  {
+    "id": 452,
+    "key": "treatment-guides/aplastic-anemia-surgery-procedures",
+    "title": "中国再生障碍性贫血相关操作：骨髓检查与移植",
+    "h1": "中国再生障碍性贫血相关操作：骨髓检查与移植",
+    "description": "了解中国再生障碍性贫血骨髓检查、静脉通路和移植的不同任务。核对供者与患者准备、预处理、回输和植入过程，并讨论疼痛、生育、血制品及出院后的照护。",
+    "subtitle": "了解中国再生障碍性贫血骨髓检查、静脉通路和移植的不同任务。核对供者与患者准备、预处理、回输和植入过程，并讨论疼痛、生育、血制品及出院后的照护。",
+    "lead": null
+  },
+  {
+    "id": 453,
+    "key": "treatment-guides/multiple-sclerosis-surgery-procedures",
+    "title": "中国多发性硬化相关操作：血浆置换与造血干细胞移植评估",
+    "h1": "中国多发性硬化相关操作：血浆置换与造血干细胞移植评估",
+    "description": "了解中国多发性硬化严重复发时血浆置换的评估与安全监测，区分免疫吸附和自体造血干细胞移植。明确不同操作的目标、适用人群和局限，避免等同于直接修复神经。",
+    "subtitle": "了解中国多发性硬化严重复发时血浆置换的评估与安全监测，区分免疫吸附和自体造血干细胞移植。明确不同操作的目标、适用人群和局限，避免等同于直接修复神经。",
+    "lead": null
+  },
+  {
+    "id": 454,
+    "key": "treatment-guides/follicular-lymphoma-surgery-procedures",
+    "title": "中国滤泡性淋巴瘤相关操作：活检与治疗前准备",
+    "h1": "中国滤泡性淋巴瘤相关操作：活检与治疗前准备",
+    "description": "了解中国滤泡性淋巴瘤活检、骨髓取样、静脉通路和细胞采集的目的。操作前核对病史与用药，区分自体、异体移植和并发症处理，安排相应恢复与后续治疗。",
+    "subtitle": "了解中国滤泡性淋巴瘤活检、骨髓取样、静脉通路和细胞采集的目的。操作前核对病史与用药，区分自体、异体移植和并发症处理，安排相应恢复与后续治疗。",
+    "lead": null
+  },
+  {
+    "id": 455,
+    "key": "treatment-guides/alzheimer-disease-radiation-interventional",
+    "title": "阿尔茨海默病放射与器械研究：中国就医核查要点",
+    "h1": "阿尔茨海默病放射与器械研究：中国就医核查要点",
+    "description": "区分阿尔茨海默病低剂量放疗、磁刺激和聚焦超声研究的操作及证据。赴中国咨询前，核对具体项目、样本量、监测与临床目标，避免将探索性结果解释为治愈证明。",
+    "subtitle": "区分阿尔茨海默病低剂量放疗、磁刺激和聚焦超声研究的操作及证据。赴中国咨询前，核对具体项目、样本量、监测与临床目标，避免将探索性结果解释为治愈证明。",
+    "lead": null
+  },
+  {
+    "id": 456,
+    "key": "treatment-guides/multiple-sclerosis-radiation-interventional",
+    "title": "中国多发性硬化介入操作：治疗目标与局限",
+    "h1": "中国多发性硬化介入操作：治疗目标与局限",
+    "description": "了解中国多发性硬化相关介入如何针对三叉神经痛、痉挛、膀胱或足下垂问题。区分症状改善和疾病控制，核对操作风险、真实功能目标与治疗后的持续管理。",
+    "subtitle": "了解中国多发性硬化相关介入如何针对三叉神经痛、痉挛、膀胱或足下垂问题。区分症状改善和疾病控制，核对操作风险、真实功能目标与治疗后的持续管理。",
+    "lead": null
+  },
+  {
+    "id": 457,
+    "key": "treatment-guides/diffuse-large-b-cell-lymphoma-radiation-interventional",
+    "title": "中国弥漫大B细胞淋巴瘤放疗：局部控制与症状缓解",
+    "h1": "中国弥漫大B细胞淋巴瘤放疗：局部控制与症状缓解",
+    "description": "了解中国弥漫大B细胞淋巴瘤放疗在局部控制和症状缓解中的作用。结合治疗前资料与疗效影像讨论靶区、剂量和分次，并按照射部位准备心肺、吞咽等安全评估。",
+    "subtitle": "了解中国弥漫大B细胞淋巴瘤放疗在局部控制和症状缓解中的作用。结合治疗前资料与疗效影像讨论靶区、剂量和分次，并按照射部位准备心肺、吞咽等安全评估。",
+    "lead": null
+  },
+  {
+    "id": 458,
+    "key": "treatment-guides/follicular-lymphoma-radiation-interventional",
+    "title": "中国滤泡性淋巴瘤放疗：治疗目的与规划",
+    "h1": "中国滤泡性淋巴瘤放疗：治疗目的与规划",
+    "description": "了解中国滤泡性淋巴瘤放疗如何根据局限期或症状控制目标选择剂量与分次。核对定位、既往照射和部位相关风险，理解不同疗程不能只按到院次数比较。",
+    "subtitle": "了解中国滤泡性淋巴瘤放疗如何根据局限期或症状控制目标选择剂量与分次。核对定位、既往照射和部位相关风险，理解不同疗程不能只按到院次数比较。",
+    "lead": null
+  },
+  {
+    "id": 459,
+    "key": "treatment-guides/mantle-cell-lymphoma-radiation-interventional",
+    "title": "套细胞淋巴瘤什么时候需要放疗？局部控制、低剂量照射与赴华治疗安排",
+    "h1": "套细胞淋巴瘤什么时候需要放疗？局部控制、低剂量照射与赴华治疗安排",
+    "description": "了解套细胞淋巴瘤何时需要局部放疗，以及低剂量照射的适用边界。赴中国治疗前，结合整体病情核对定位、剂量、次数及继续用药安排，准备部位相关不良反应管理。",
+    "subtitle": "了解套细胞淋巴瘤何时需要局部放疗，以及低剂量照射的适用边界。赴中国治疗前，结合整体病情核对定位、剂量、次数及继续用药安排，准备部位相关不良反应管理。",
+    "lead": null
+  },
+  {
+    "id": 460,
+    "key": "treatment-guides/multiple-myeloma-radiation-interventional",
+    "title": "中国多发性骨髓瘤放疗：缓解疼痛与保护功能",
+    "h1": "中国多发性骨髓瘤放疗：缓解疼痛与保护功能",
+    "description": "了解中国多发性骨髓瘤放疗如何缓解疼痛与保护功能，区分孤立性浆细胞瘤的治疗目标。出现腿无力或大小便变化需及时评估，并核对影像、骨骼稳定和照射安排。",
+    "subtitle": "了解中国多发性骨髓瘤放疗如何缓解疼痛与保护功能，区分孤立性浆细胞瘤的治疗目标。出现腿无力或大小便变化需及时评估，并核对影像、骨骼稳定和照射安排。",
+    "lead": null
+  },
+  {
+    "id": 461,
+    "key": "treatment-guides/radiation-therapy-in-china-a-patient-guide",
+    "title": "在中国接受放射治疗：国际患者实用指南",
+    "h1": "在中国接受放射治疗：一份写给患者的实用指南",
+    "description": "介绍在中国接受放疗的定位、计划、分次、安全核查、副作用、费用及回国资料，帮助国际患者安排完整疗程。",
+    "subtitle": "从定位、计划和每日治疗，到安全核查、副作用管理及回国时应带走的资料。",
+    "lead": null
+  },
+  {
+    "id": 462,
+    "key": "treatment-guides/sickle-cell-disease-side-effects",
+    "title": "在中国治疗镰状细胞病：副作用与紧急症状",
+    "h1": "在中国治疗镰状细胞病：副作用与紧急症状",
+    "description": "了解在中国治疗镰状细胞病时呼吸、意识、血细胞及迟发输血反应的安全信号。核对羟基脲、祛铁与止痛药的具体监测及家庭使用安排，明确紧急求助路径。",
+    "subtitle": "了解在中国治疗镰状细胞病时呼吸、意识、血细胞及迟发输血反应的安全信号。核对羟基脲、祛铁与止痛药的具体监测及家庭使用安排，明确紧急求助路径。",
+    "lead": null
+  },
+  {
+    "id": 463,
+    "key": "treatment-guides/sickle-cell-disease-relapsed-refractory",
+    "title": "镰状细胞病治疗后仍疼痛：中国复评前应明确什么",
+    "h1": "镰状细胞病治疗后仍疼痛：中国复评前应明确什么",
+    "description": "镰状细胞病治疗后仍疼痛时，如何为中国复评整理疼痛位置、时间与实际用药。区分新的急症、固定部位结构问题和长期疼痛，结合基因型与照护目标讨论调整。",
+    "subtitle": "镰状细胞病治疗后仍疼痛时，如何为中国复评整理疼痛位置、时间与实际用药。区分新的急症、固定部位结构问题和长期疼痛，结合基因型与照护目标讨论调整。",
+    "lead": null
+  },
+  {
+    "id": 464,
+    "key": "treatment-guides/post-ischemic-stroke-rehabilitation-treatment-overview",
+    "title": "中国缺血性卒中康复：从医院治疗到居家生活",
+    "h1": "中国缺血性卒中康复：从医院治疗到居家生活",
+    "description": "了解中国缺血性卒中康复如何从医学稳定后的评估走向居家生活。围绕运动、吞咽、语言与认知制定训练和照护目标，同时衔接预防复发用药与持续功能支持。",
+    "subtitle": "了解中国缺血性卒中康复如何从医学稳定后的评估走向居家生活。围绕运动、吞咽、语言与认知制定训练和照护目标，同时衔接预防复发用药与持续功能支持。",
+    "lead": null
+  },
+  {
+    "id": 465,
+    "key": "treatment-guides/multiple-sclerosis-relapsed-refractory",
+    "title": "多发性硬化复发或反应不佳：中国复评与治疗规划",
+    "h1": "多发性硬化复发或反应不佳：中国复评与治疗规划",
+    "description": "多发性硬化出现新症状或反应不佳时，如何在中国复评分清复发、感染或温度相关加重。结合时间、功能和检查讨论急性处理、血浆置换及长期换药衔接。",
+    "subtitle": "多发性硬化出现新症状或反应不佳时，如何在中国复评分清复发、感染或温度相关加重。结合时间、功能和检查讨论急性处理、血浆置换及长期换药衔接。",
+    "lead": null
+  },
+  {
+    "id": 466,
+    "key": "treatment-guides/aplastic-anemia-relapsed-refractory",
+    "title": "难治或复发性再生障碍性贫血：中国第二诊疗意见",
+    "h1": "难治或复发性再生障碍性贫血：中国第二诊疗意见",
+    "description": "再生障碍性贫血难治或复发时，如何为中国第二意见还原首线治疗和血象变化。排查其他下降原因，比较后线药物与移植，并将紧急处理、研究咨询和持续随访衔接起来。",
+    "subtitle": "再生障碍性贫血难治或复发时，如何为中国第二意见还原首线治疗和血象变化。排查其他下降原因，比较后线药物与移植，并将紧急处理、研究咨询和持续随访衔接起来。",
+    "lead": null
+  },
+  {
+    "id": 467,
+    "key": "treatment-guides/diffuse-large-b-cell-lymphoma-relapsed-refractory",
+    "title": "中国复发或难治性弥漫大B细胞淋巴瘤：复评与下一步治疗",
+    "h1": "中国复发或难治性弥漫大B细胞淋巴瘤：复评与下一步治疗",
+    "description": "了解中国复发或难治性弥漫大B细胞淋巴瘤如何通过重新活检与治疗时间线确定下一步。结合复发时点讨论细胞治疗、救援化疗和自体移植，并安排等待期间的照护。",
+    "subtitle": "了解中国复发或难治性弥漫大B细胞淋巴瘤如何通过重新活检与治疗时间线确定下一步。结合复发时点讨论细胞治疗、救援化疗和自体移植，并安排等待期间的照护。",
+    "lead": null
+  },
+  {
+    "id": 468,
+    "key": "treatment-guides/follicular-lymphoma-relapsed-refractory",
+    "title": "中国复发性滤泡性淋巴瘤：复评与后线治疗",
+    "h1": "中国复发性滤泡性淋巴瘤：复评与后线治疗",
+    "description": "了解中国滤泡性淋巴瘤复发评估如何确认进展、排查转化并判断是否需要治疗。结合既往反应讨论观察、药物、细胞治疗或移植，核对后线方案的证据与适用范围。",
+    "subtitle": "了解中国滤泡性淋巴瘤复发评估如何确认进展、排查转化并判断是否需要治疗。结合既往反应讨论观察、药物、细胞治疗或移植，核对后线方案的证据与适用范围。",
+    "lead": null
+  },
+  {
+    "id": 469,
+    "key": "treatment-guides/mantle-cell-lymphoma-relapsed-refractory",
+    "title": "中国复发性套细胞淋巴瘤：复评与下一步治疗",
+    "h1": "中国复发性套细胞淋巴瘤：复评与下一步治疗",
+    "description": "了解中国套细胞淋巴瘤复发时如何整理既往疗效、停药原因和新病理证据。区分药物不耐受与治疗中进展，及时讨论后线靶向药、细胞治疗及持续照护安排。",
+    "subtitle": "了解中国套细胞淋巴瘤复发时如何整理既往疗效、停药原因和新病理证据。区分药物不耐受与治疗中进展，及时讨论后线靶向药、细胞治疗及持续照护安排。",
+    "lead": null
+  },
+  {
+    "id": 470,
+    "key": "treatment-guides/multiple-myeloma-relapsed-refractory",
+    "title": "中国复发或难治性骨髓瘤：复评与治疗选择",
+    "h1": "中国复发或难治性骨髓瘤：复评与治疗选择",
+    "description": "了解中国复发或难治性骨髓瘤如何确认进展、识别需优先处理的器官问题并梳理耐药。结合身体承受能力与既往免疫治疗顺序，讨论下一组合和细胞治疗的适用条件。",
+    "subtitle": "了解中国复发或难治性骨髓瘤如何确认进展、识别需优先处理的器官问题并梳理耐药。结合身体承受能力与既往免疫治疗顺序，讨论下一组合和细胞治疗的适用条件。",
+    "lead": null
+  },
+  {
+    "id": 471,
+    "key": "treatment-guides/scoliosis-treatment-in-china-evaluation-and-care-planning",
+    "title": "在中国治疗脊柱侧弯｜评估与诊疗规划",
+    "h1": "在中国治疗脊柱侧弯：评估与诊疗规划",
+    "description": "了解如何用站立位弯曲测量、生长和平衡规划中国侧弯治疗，并明确观察、支具、手术和长期随访选择。",
+    "subtitle": "把弯曲角度放回生长、身体平衡、症状和进展中判断，再选择观察、支具或手术。",
+    "lead": null
+  },
+  {
+    "id": 472,
+    "key": "treatment-guides/drug-resistant-epilepsy-radiation-interventional",
+    "title": "中国 SEEG 与癫痫消融：检查和治疗有何区别",
+    "h1": "中国 SEEG 与癫痫消融：检查和治疗有何区别",
+    "description": "了解中国癫痫立体定向脑电监测与射频或其他消融的不同目的。核对电极植入、典型事件记录和定位假设，理解检查结果如何支持治疗决策及功能风险评估。",
+    "subtitle": "了解中国癫痫立体定向脑电监测与射频或其他消融的不同目的。核对电极植入、典型事件记录和定位假设，理解检查结果如何支持治疗决策及功能风险评估。",
+    "lead": null
+  },
+  {
+    "id": 473,
+    "key": "treatment-guides/sickle-cell-disease-treatment-overview",
+    "title": "中国镰状细胞病治疗：方案选择与可及性核实",
+    "h1": "中国镰状细胞病治疗：方案选择与可及性核实",
+    "description": "了解中国镰状细胞病治疗如何结合基因型、既往危象与器官风险制定方案。讨论日常预防、羟基脲、疼痛处理、输血和卒中预防，并核对持续照护与实际治疗条件。",
+    "subtitle": "了解中国镰状细胞病治疗如何结合基因型、既往危象与器官风险制定方案。讨论日常预防、羟基脲、疼痛处理、输血和卒中预防，并核对持续照护与实际治疗条件。",
+    "lead": null
+  },
+  {
+    "id": 474,
+    "key": "treatment-guides/aplastic-anemia-side-effects",
+    "title": "在中国治疗再生障碍性贫血：副作用与紧急就医",
+    "h1": "在中国治疗再生障碍性贫血：副作用与紧急就医",
+    "description": "了解在中国治疗再生障碍性贫血时输注反应、感染、肾肝指标和移植后症状的监测。保留用药及输血经过，区分需立即处理的变化与计划复查，支持安全照护。",
+    "subtitle": "了解在中国治疗再生障碍性贫血时输注反应、感染、肾肝指标和移植后症状的监测。保留用药及输血经过，区分需立即处理的变化与计划复查，支持安全照护。",
+    "lead": null
+  },
+  {
+    "id": 475,
+    "key": "treatment-guides/drug-resistant-epilepsy-side-effects",
+    "title": "在中国治疗难治性癫痫：副作用与安全管理",
+    "h1": "在中国治疗难治性癫痫：副作用与安全管理",
+    "description": "了解在中国治疗难治性癫痫时皮疹、嗜睡、步态不稳、情绪及视力变化的安全管理。记录实际用药和新症状，核对肝功能、血钠等评估需求，明确紧急就医时机。",
+    "subtitle": "了解在中国治疗难治性癫痫时皮疹、嗜睡、步态不稳、情绪及视力变化的安全管理。记录实际用药和新症状，核对肝功能、血钠等评估需求，明确紧急就医时机。",
+    "lead": null
+  },
+  {
+    "id": 476,
+    "key": "treatment-guides/hodgkin-lymphoma-side-effects",
+    "title": "在中国治疗霍奇金淋巴瘤：副作用与紧急就医",
+    "h1": "在中国治疗霍奇金淋巴瘤：副作用与紧急就医",
+    "description": "了解在中国治疗霍奇金淋巴瘤时发热、气短、胸部不适与出血的警示意义。及早报告麻木、口腔和胃肠问题，配合心肺及免疫相关评估，明确治疗团队的联系安排。",
+    "subtitle": "了解在中国治疗霍奇金淋巴瘤时发热、气短、胸部不适与出血的警示意义。及早报告麻木、口腔和胃肠问题，配合心肺及免疫相关评估，明确治疗团队的联系安排。",
+    "lead": null
+  },
+  {
+    "id": 477,
+    "key": "treatment-guides/spine-surgery-in-china-how-to-evaluate-your-options",
+    "title": "在中国做脊柱手术｜怎样评估不同方案",
+    "h1": "在中国做脊柱手术：怎样评估不同方案",
+    "description": "评估中国脊柱手术时，把症状与影像对应，分清减压和融合，核实风险、康复、旅行与手术资料交接。",
+    "subtitle": "出发前先检验诊断、影像、神经体征和拟行手术能否组成同一套合乎逻辑的方案。",
+    "lead": null
+  },
+  {
+    "id": 478,
+    "key": "treatment-guides/sports-injury-treatment-in-china-from-imaging-to-rehabilitation",
+    "title": "在中国治疗运动损伤｜从影像检查到康复",
+    "h1": "在中国治疗运动损伤：从影像检查到康复",
+    "description": "了解在中国治疗运动损伤时怎样按诊断选择影像、比较治疗方案、量化康复、制定复出标准并完成跨境交接。",
+    "subtitle": "把受伤机制、查体和真正有用的影像转化为分阶段恢复计划，而不是围绕检查套餐治疗。",
+    "lead": null
+  },
+  {
+    "id": 479,
+    "key": "treatment-guides/thalassemia-first-line-treatment",
+    "title": "在中国开始地中海贫血诊疗：初始治疗计划",
+    "h1": "在中国开始地中海贫血诊疗：初始治疗计划",
+    "description": "在中国开始地中海贫血诊疗时，先区分携带、规律输血与其他临床情况。结合贫血稳定性建立支持和输血流程，根据铁暴露及器官评估讨论祛铁与后续监测。",
+    "subtitle": "在中国开始地中海贫血诊疗时，先区分携带、规律输血与其他临床情况。结合贫血稳定性建立支持和输血流程，根据铁暴露及器官评估讨论祛铁与后续监测。",
+    "lead": null
+  },
+  {
+    "id": 480,
+    "key": "treatment-guides/multiple-myeloma-first-line-treatment",
+    "title": "中国多发性骨髓瘤一线治疗：启动治疗前的准备",
+    "h1": "中国多发性骨髓瘤一线治疗：启动治疗前的准备",
+    "description": "在中国启动多发性骨髓瘤一线治疗前，核对体能、移植方向和肾功能需求。将诱导放入完整治疗策略，同时安排感染、血栓与骨事件预防，明确首周期的反馈渠道。",
+    "subtitle": "在中国启动多发性骨髓瘤一线治疗前，核对体能、移植方向和肾功能需求。将诱导放入完整治疗策略，同时安排感染、血栓与骨事件预防，明确首周期的反馈渠道。",
+    "lead": null
+  },
+  {
+    "id": 481,
+    "key": "treatment-guides/graft-versus-host-disease-first-line-treatment",
+    "title": "在中国开始移植物抗宿主病治疗：方案与早期复评",
+    "h1": "在中国开始移植物抗宿主病治疗：方案与早期复评",
+    "description": "在中国开始移植物抗宿主病治疗时，明确受累器官、局部或系统治疗目标及早期复评。结合急慢性表现落实处方记录和持续护理，避免将新药直接视为所有人的首选。",
+    "subtitle": "在中国开始移植物抗宿主病治疗时，明确受累器官、局部或系统治疗目标及早期复评。结合急慢性表现落实处方记录和持续护理，避免将新药直接视为所有人的首选。",
+    "lead": null
+  },
+  {
+    "id": 482,
+    "key": "treatment-guides/sickle-cell-disease-first-line-treatment",
+    "title": "在中国开始镰状细胞病治疗：用药与随访计划",
+    "h1": "在中国开始镰状细胞病治疗：用药与随访计划",
+    "description": "在中国开始镰状细胞病治疗时，先排查急症并建立个人基线与明确目标。按基因型、年龄和实际情况讨论羟基脲、剂型和剂量，安排血液监测及持续复查。",
+    "subtitle": "在中国开始镰状细胞病治疗时，先排查急症并建立个人基线与明确目标。按基因型、年龄和实际情况讨论羟基脲、剂型和剂量，安排血液监测及持续复查。",
+    "lead": null
+  },
+  {
+    "id": 483,
+    "key": "treatment-guides/parkinson-disease-first-line-treatment",
+    "title": "在中国开始帕金森病治疗：初始用药计划",
+    "h1": "在中国开始帕金森病治疗：初始用药计划",
+    "description": "在中国开始帕金森病用药时，围绕最影响生活的困难讨论左旋多巴或其他选择。开药前核对行为和警觉性风险，明确实际服法、起始观察与反馈，让方案能够执行。",
+    "subtitle": "在中国开始帕金森病用药时，围绕最影响生活的困难讨论左旋多巴或其他选择。开药前核对行为和警觉性风险，明确实际服法、起始观察与反馈，让方案能够执行。",
+    "lead": null
+  },
+  {
+    "id": 484,
+    "key": "treatment-guides/stereotactic-body-radiotherapy-sbrt-a-patient-guide",
+    "title": "中国 SBRT 放疗：治疗计划、安全与随访",
+    "h1": "中国 SBRT 放疗：治疗计划、安全与随访",
+    "description": "了解SBRT适应性、运动管理、影像引导、危及器官限量、质量保证和复查影像，为体部立体定向放疗做好准备。",
+    "subtitle": "了解SBRT适应性、运动管理、影像引导、危及器官限量、质量保证和复查影像，为体部立体定向放疗做好准备。",
+    "lead": null
+  },
+  {
+    "id": 485,
+    "key": "treatment-guides/post-ischemic-stroke-rehabilitation-radiation-interventional",
+    "title": "中国卒中康复器械干预：刺激技术与脑机接口",
+    "h1": "中国卒中康复器械干预：刺激技术与脑机接口",
+    "description": "了解中国卒中康复中功能性电刺激、经颅刺激、吞咽刺激与脑机接口的不同目标。结合患者类型和医学背景核对证据、风险及生活任务，避免混淆评分改善和实际功能恢复。",
+    "subtitle": "了解中国卒中康复中功能性电刺激、经颅刺激、吞咽刺激与脑机接口的不同目标。结合患者类型和医学背景核对证据、风险及生活任务，避免混淆评分改善和实际功能恢复。",
+    "lead": null
+  },
+  {
+    "id": 486,
+    "key": "treatment-guides/stroke-rehabilitation-in-china-a-guide-for-patients-and-families",
+    "title": "中国卒中康复｜患者与家属实用指南",
+    "h1": "中国卒中康复：患者与家属指南",
+    "description": "了解中国卒中康复如何覆盖移动、吞咽、沟通、认知、复发预防、家属训练和跨国医疗交接。",
+    "subtitle": "把吞咽、沟通、日常生活和复发预防纳入一份安全且可衡量的康复计划，而不只是练走路。",
+    "lead": null
+  },
+  {
+    "id": 487,
+    "key": "treatment-guides/post-ischemic-stroke-rehabilitation-relapsed-refractory",
+    "title": "在中国卒中康复期间病情加重：何时需要就医",
+    "h1": "在中国卒中康复期间病情加重：何时需要就医",
+    "description": "在中国卒中康复期间出现新症状或功能退步时，如何描述时间与变化并及时就医。区分再次卒中、旧症状再现及发作相关问题，慢性退步也需排查疼痛和其他影响因素。",
+    "subtitle": "在中国卒中康复期间出现新症状或功能退步时，如何描述时间与变化并及时就医。区分再次卒中、旧症状再现及发作相关问题，慢性退步也需排查疼痛和其他影响因素。",
+    "lead": null
+  },
+  {
+    "id": 488,
+    "key": "treatment-guides/thalassemia-surgery-procedures",
+    "title": "中国地中海贫血相关手术：脾脏、胆囊与恢复规划",
+    "h1": "中国地中海贫血相关手术：脾脏、胆囊与恢复规划",
+    "description": "了解中国地中海贫血脾脏和胆囊相关手术的评估与恢复准备。结合疾病类型、脾大原因和症状讨论操作，并在术前落实感染预防、血栓风险与后续照护计划。",
+    "subtitle": "了解中国地中海贫血脾脏和胆囊相关手术的评估与恢复准备。结合疾病类型、脾大原因和症状讨论操作，并在术前落实感染预防、血栓风险与后续照护计划。",
+    "lead": null
+  },
+  {
+    "id": 489,
+    "key": "treatment-guides/alzheimer-disease-surgery-procedures",
+    "title": "中国阿尔茨海默病手术宣传：临床限制与研究证据",
+    "h1": "中国阿尔茨海默病手术宣传：临床限制与研究证据",
+    "description": "了解阿尔茨海默病手术宣传中的临床限制与研究证据，区分理论机制、影像变化和实际获益。赴中国咨询颈部淋巴吻合或脑刺激项目时，核对研究设计、风险和适用边界。",
+    "subtitle": "了解阿尔茨海默病手术宣传中的临床限制与研究证据，区分理论机制、影像变化和实际获益。赴中国咨询颈部淋巴吻合或脑刺激项目时，核对研究设计、风险和适用边界。",
+    "lead": "如果中国的服务提供方建议通过手术治疗阿尔茨海默病，应在讨论付款或旅行前明确具体术式。本指南区分来源资料中描述的限制、实验性方法以及针对其他疾病的手术；提出一种作用机制或登记一项研究，并不能证明临床获益。"
+  },
+  {
+    "id": 490,
+    "key": "treatment-guides/sickle-cell-disease-surgery-procedures",
+    "title": "镰状细胞病患者在中国接受手术：围术期照护",
+    "h1": "镰状细胞病患者在中国接受手术：围术期照护",
+    "description": "镰状细胞病患者在中国接受手术前，如何结合危象、输血与麻醉史制定围术期照护。区分胆囊、脾脏和骨关节手术目标，评估个体输血需求并保护呼吸与循环。",
+    "subtitle": "镰状细胞病患者在中国接受手术前，如何结合危象、输血与麻醉史制定围术期照护。区分胆囊、脾脏和骨关节手术目标，评估个体输血需求并保护呼吸与循环。",
+    "lead": null
+  },
+  {
+    "id": 491,
+    "key": "treatment-guides/targeted-cancer-therapy-biomarker-testing-and-treatment-planning",
+    "title": "中国肿瘤靶向治疗：生物标志物检测与规划",
+    "h1": "中国肿瘤靶向治疗：生物标志物检测与规划",
+    "description": "了解组织与液体活检、伴随诊断、可用药变异、靶向治疗计划及耐药复测，避免从基因名直接跳到药物。",
+    "subtitle": "了解组织与液体活检、伴随诊断、可用药变异、靶向治疗计划及耐药复测，避免从基因名直接跳到药物。",
+    "lead": null
+  },
+  {
+    "id": 492,
+    "key": "treatment-guides/thalassemia-drug-treatment",
+    "title": "中国地中海贫血用药：用途、可及性与监测",
+    "h1": "中国地中海贫血用药：用途、可及性与监测",
+    "description": "了解中国地中海贫血用药中改善贫血与处理铁过载的不同目标。核对口服或输注祛铁药的剂型、肾肝与血细胞监测，并记录听视力、感染及合并用药相关变化。",
+    "subtitle": "了解中国地中海贫血用药中改善贫血与处理铁过载的不同目标。核对口服或输注祛铁药的剂型、肾肝与血细胞监测，并记录听视力、感染及合并用药相关变化。",
+    "lead": null
+  },
+  {
+    "id": 493,
+    "key": "treatment-guides/drug-resistant-epilepsy-first-line-treatment",
+    "title": "中国难治性癫痫诊疗：初始治疗调整计划",
+    "h1": "中国难治性癫痫诊疗：初始治疗调整计划",
+    "description": "在中国调整难治性癫痫治疗时，先明确发作和生活目标，核实每项既往试药。结合类型与综合征权衡加用或替换，把交叉调整、检查和复诊写成可执行计划。",
+    "subtitle": "在中国调整难治性癫痫治疗时，先明确发作和生活目标，核实每项既往试药。结合类型与综合征权衡加用或替换，把交叉调整、检查和复诊写成可执行计划。",
+    "lead": null
+  },
+  {
+    "id": 494,
+    "key": "treatment-guides/aplastic-anemia-radiation-interventional",
+    "title": "中国再生障碍性贫血输血支持：安全与监测",
+    "h1": "中国再生障碍性贫血输血支持：安全与监测",
+    "description": "了解中国再生障碍性贫血输血支持中红细胞、血小板、去白和辐照的不同用途。核对即时反应、输注效果与铁负荷监测，转院或回国时独立交接完整输血资料。",
+    "subtitle": "了解中国再生障碍性贫血输血支持中红细胞、血小板、去白和辐照的不同用途。核对即时反应、输注效果与铁负荷监测，转院或回国时独立交接完整输血资料。",
+    "lead": null
+  },
+  {
+    "id": 495,
+    "key": "treatment-guides/alzheimer-disease-treatment-overview",
+    "title": "中国阿尔茨海默病治疗：治疗选择与就医条件",
+    "h1": "中国阿尔茨海默病治疗：治疗选择与就医条件",
+    "description": "了解中国阿尔茨海默病诊疗如何区分病因证据、严重程度与治疗目标。讨论症状药、抗体适用条件及安全监测，将实际接诊、持续用药和日常照护纳入完整安排。",
+    "subtitle": "了解中国阿尔茨海默病诊疗如何区分病因证据、严重程度与治疗目标。讨论症状药、抗体适用条件及安全监测，将实际接诊、持续用药和日常照护纳入完整安排。",
+    "lead": "考虑在中国接受阿尔茨海默病诊疗的家庭，首先应确认诊断和阶段，再询问哪些选择适合患者且接诊医院实际能够提供。批准、医院供应和患者资格是不同问题；就诊后的监测与持续照护也应纳入计划。"
+  },
+  {
+    "id": 496,
+    "key": "treatment-guides/graft-versus-host-disease-treatment-overview",
+    "title": "移植物抗宿主病怎么治疗？急性、慢性GVHD与中国就医路径",
+    "h1": "移植物抗宿主病怎么治疗？急性、慢性GVHD与中国就医路径",
+    "description": "了解中国移植物抗宿主病诊疗如何按急慢性表现、器官受累和治疗反应制定方案。区分局部与系统治疗，核对药物或细胞项目的适用条件，并持续关注功能与生活影响。",
+    "subtitle": "了解中国移植物抗宿主病诊疗如何按急慢性表现、器官受累和治疗反应制定方案。区分局部与系统治疗，核对药物或细胞项目的适用条件，并持续关注功能与生活影响。",
+    "lead": null
+  },
+  {
+    "id": 497,
+    "key": "treatment-guides/thalassemia-treatment-overview",
+    "title": "中国地中海贫血治疗：输血、祛铁与其他选择",
+    "h1": "中国地中海贫血治疗：输血、祛铁与其他选择",
+    "description": "了解中国地中海贫血治疗如何结合类型、输血需求和器官风险制定长期计划。讨论规律输血、祛铁及其他选择，区分新药研究目标与实际治疗路径，维持连续照护。",
+    "subtitle": "了解中国地中海贫血治疗如何结合类型、输血需求和器官风险制定长期计划。讨论规律输血、祛铁及其他选择，区分新药研究目标与实际治疗路径，维持连续照护。",
+    "lead": null
+  },
+  {
+    "id": 498,
+    "key": "treatment-guides/diffuse-large-b-cell-lymphoma-treatment-overview",
+    "title": "中国弥漫大B细胞淋巴瘤治疗：制定完整诊疗计划",
+    "h1": "中国弥漫大B细胞淋巴瘤治疗：制定完整诊疗计划",
+    "description": "了解中国弥漫大B细胞淋巴瘤诊疗如何整合病理、分期和器官评估制定方案。明确药物、放疗及细胞治疗的位置，安排客观疗效复查、家庭应急支持与后续管理。",
+    "subtitle": "了解中国弥漫大B细胞淋巴瘤诊疗如何整合病理、分期和器官评估制定方案。明确药物、放疗及细胞治疗的位置，安排客观疗效复查、家庭应急支持与后续管理。",
+    "lead": null
+  },
+  {
+    "id": 499,
+    "key": "treatment-guides/uterine-fibroid-treatment-comparing-medical-and-surgical-options",
+    "title": "中国子宫肌瘤治疗：药物与手术方案比较",
+    "h1": "中国子宫肌瘤治疗：药物与手术方案比较",
+    "description": "按症状、肌瘤位置、生育计划和再次治疗风险，比较观察、药物、肌瘤切除、子宫动脉栓塞、消融与全子宫切除。",
+    "subtitle": "按症状、肌瘤位置、生育计划和再次治疗风险，比较观察、药物、肌瘤切除、子宫动脉栓塞、消融与全子宫切除。",
+    "lead": "在中国咨询子宫肌瘤治疗时，请说明最重视的结果：控制出血、缓解压迫、保留子宫或规划未来妊娠。下文的比较帮助您围绕相同目标讨论药物与操作，并安排病历保存及回国后的随访。"
+  },
+  {
+    "id": 500,
+    "key": "treatment-guides/t-cell-lymphoma-relapsed-refractory",
+    "title": "中国复发性 T细胞淋巴瘤：复评与后线治疗",
+    "h1": "中国复发性 T细胞淋巴瘤：复评与后线治疗",
+    "description": "了解中国T细胞淋巴瘤复发时如何通过取材、实际用药史和停药原因重新评估。明确后线治疗目标，结合亚型讨论联合或单药方案及研究选择，理解筛选的不确定性。",
+    "subtitle": "了解中国T细胞淋巴瘤复发时如何通过取材、实际用药史和停药原因重新评估。明确后线治疗目标，结合亚型讨论联合或单药方案及研究选择，理解筛选的不确定性。",
+    "lead": null
+  },
+  {
+    "id": 501,
+    "key": "treatment-guides/what-to-expect-at-a-traditional-chinese-medicine-consultation",
+    "title": "中国中医初诊流程与准备指南",
+    "h1": "中国中医初诊流程与准备指南",
+    "description": "中医门诊会怎样问诊、看舌把脉和辨证？怎样核对中药处方、相互作用、复诊指标及携药出境规则。",
+    "subtitle": "既准备传统辨证所需信息，也完成现代用药安全核对，离院时拿到能向所有相关医生说清楚的书面方案。",
+    "lead": null
+  },
+  {
+    "id": 502,
+    "key": "treatment-guides/t-cell-lymphoma-radiation-interventional",
+    "title": "中国 T细胞淋巴瘤放疗：何时需要及治疗目的",
+    "h1": "中国 T细胞淋巴瘤放疗：何时需要及治疗目的",
+    "description": "了解中国T细胞淋巴瘤放疗如何因结内、鼻型或皮肤等疾病类型而改变作用。核对局部控制与症状缓解目标，区分定位、照射范围、剂量和分次，明确后续评估。",
+    "subtitle": "了解中国T细胞淋巴瘤放疗如何因结内、鼻型或皮肤等疾病类型而改变作用。核对局部控制与症状缓解目标，区分定位、照射范围、剂量和分次，明确后续评估。",
+    "lead": null
+  },
+  {
+    "id": 503,
+    "key": "treatment-guides/graft-versus-host-disease-relapsed-refractory",
+    "title": "持续或再次加重的移植物抗宿主病：中国第二诊疗意见",
+    "h1": "持续或再次加重的移植物抗宿主病：中国第二诊疗意见",
+    "description": "移植物抗宿主病持续或再次加重时，如何在中国第二意见中区分无效、复燃与不耐受。排查感染等其他原因，判断活动性炎症和残留损伤，并核对后线方案适用条件。",
+    "subtitle": "移植物抗宿主病持续或再次加重时，如何在中国第二意见中区分无效、复燃与不耐受。排查感染等其他原因，判断活动性炎症和残留损伤，并核对后线方案适用条件。",
+    "lead": null
+  },
+  {
+    "id": 504,
+    "key": "treatment-guides/hodgkin-lymphoma-relapsed-refractory",
+    "title": "中国复发性霍奇金淋巴瘤：挽救治疗规划",
+    "h1": "中国复发性霍奇金淋巴瘤：挽救治疗规划",
+    "description": "了解中国复发性霍奇金淋巴瘤如何结合重新取材、影像和既往疗程规划挽救治疗。明确后续移植或其他目标，讨论反应不足时的调整及移植后的巩固和监测。",
+    "subtitle": "了解中国复发性霍奇金淋巴瘤如何结合重新取材、影像和既往疗程规划挽救治疗。明确后续移植或其他目标，讨论反应不足时的调整及移植后的巩固和监测。",
+    "lead": null
+  },
+  {
+    "id": 505,
+    "key": "treatment-guides/parkinson-disease-relapsed-refractory",
+    "title": "帕金森病症状加重：赴中国复评前的准备",
+    "h1": "帕金森病症状加重：赴中国复评前的准备",
+    "description": "帕金森病症状加重时，如何为中国复评记录药效时段、实际服药和新的生活困难。区分急症、吸收或漏药问题及困惑幻觉诱因，补充泵或其他设备使用情况。",
+    "subtitle": "帕金森病症状加重时，如何为中国复评记录药效时段、实际服药和新的生活困难。区分急症、吸收或漏药问题及困惑幻觉诱因，补充泵或其他设备使用情况。",
+    "lead": null
+  },
+  {
+    "id": 506,
+    "key": "treatment-guides/drug-resistant-epilepsy-relapsed-refractory",
+    "title": "难治性癫痫发作再次出现：中国复评准备",
+    "h1": "难治性癫痫发作再次出现：中国复评准备",
+    "description": "难治性癫痫再次发作时，如何为中国复评整理事件特点、复发时间线与实际用药。先处理当前危险，再核对供药中断、新疾病、减药及术后背景，支持下一步判断。",
+    "subtitle": "难治性癫痫再次发作时，如何为中国复评整理事件特点、复发时间线与实际用药。先处理当前危险，再核对供药中断、新疾病、减药及术后背景，支持下一步判断。",
+    "lead": null
+  },
+  {
+    "id": 507,
+    "key": "treatment-guides/thalassemia-relapsed-refractory",
+    "title": "地中海贫血治疗效果不佳：中国第二诊疗意见",
+    "h1": "地中海贫血治疗效果不佳：中国第二诊疗意见",
+    "description": "地中海贫血治疗效果不佳时，如何为中国第二意见整理可核对的贫血、输血与铁负荷变化。排查急症、近期感染、抗体和其他原因，避免仅凭脾大或单项数值改变方案。",
+    "subtitle": "地中海贫血治疗效果不佳时，如何为中国第二意见整理可核对的贫血、输血与铁负荷变化。排查急症、近期感染、抗体和其他原因，避免仅凭脾大或单项数值改变方案。",
+    "lead": null
+  },
+  {
+    "id": 508,
+    "key": "treatment-guides/t-cell-lymphoma-treatment-overview",
+    "title": "T细胞淋巴瘤治疗从哪里开始：亚型、初治与中国就医安排",
+    "h1": "T细胞淋巴瘤治疗从哪里开始：亚型、初治与中国就医安排",
+    "description": "了解中国T细胞淋巴瘤初治如何从完整亚型、分期与身体评估开始。讨论首线目标、缓解后的选择和反应不足时的复评，将支持治疗及跨境就医任务提前落实。",
+    "subtitle": "了解中国T细胞淋巴瘤初治如何从完整亚型、分期与身体评估开始。讨论首线目标、缓解后的选择和反应不足时的复评，将支持治疗及跨境就医任务提前落实。",
+    "lead": null
+  },
+  {
+    "id": 509,
+    "key": "treatment-guides/thalassemia-radiation-interventional",
+    "title": "中国地中海贫血放疗：相关并发症与适用性评估",
+    "h1": "中国地中海贫血放疗：相关并发症与适用性评估",
+    "description": "了解中国地中海贫血相关髓外造血肿块何时需要放疗评估。结合神经症状、磁共振压迫表现和贫血管理，讨论观察、输血或局部处理，明确取样与治疗的适用条件。",
+    "subtitle": "了解中国地中海贫血相关髓外造血肿块何时需要放疗评估。结合神经症状、磁共振压迫表现和贫血管理，讨论观察、输血或局部处理，明确取样与治疗的适用条件。",
+    "lead": null
+  },
+  {
+    "id": 510,
+    "key": "treatment-guides/sickle-cell-disease-radiation-interventional",
+    "title": "中国镰状细胞病红细胞置换：治疗与照护规划",
+    "h1": "中国镰状细胞病红细胞置换：治疗与照护规划",
+    "description": "了解中国镰状细胞病红细胞置换在卒中样症状、严重胸部综合征等情境中的评估。区分普通疼痛危象与换血需求，核对配血历史、血管通路和治疗中的照护安排。",
+    "subtitle": "了解中国镰状细胞病红细胞置换在卒中样症状、严重胸部综合征等情境中的评估。区分普通疼痛危象与换血需求，核对配血历史、血管通路和治疗中的照护安排。",
+    "lead": null
+  }
+]

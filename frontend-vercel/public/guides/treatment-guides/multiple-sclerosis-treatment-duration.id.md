@@ -1,12 +1,14 @@
-# Berapa lama pengobatan sklerosis multipel berlangsung? Jadwal pemberian dosis, peninjauan, dan keputusan penghentian
+# Pengobatan Sklerosis Multipel di Tiongkok: Dosis, Evaluasi, dan Rencana Jangka Panjang
 
 ## Hero
 
-- **Title:** Berapa lama pengobatan sklerosis multipel berlangsung? Jadwal pemberian dosis, peninjauan, dan keputusan penghentian
 - **Category:** Panduan Pengobatan
 - **Subcategory:** Sklerosis Multipel
-- **Subtitle:** Lama kunjungan ke Tiongkok dan durasi pengobatan MS merupakan pertanyaan yang berbeda.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Sklerosis Multipel di Tiongkok: Dosis, Evaluasi, dan Rencana Jangka Panjang
+- **Subtitle:** Pahami jadwal dosis, evaluasi respons, dan perawatan jangka panjang sklerosis multipel di Tiongkok. Bedakan terapi serangan dari pengendalian penyakit.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -102,3 +104,6 @@ Hubungan pengobatan yang panjang tidak harus membuat setiap hari berkisar pada j
 ## SEO Metadata
 
 - **Primary keyword:** durasi pengobatan sklerosis multipel
+
+- **Meta title:** Pengobatan Sklerosis Multipel di Tiongkok: Dosis, Evaluasi, dan Rencana Jangka Panjang
+- **Meta description:** Pahami jadwal dosis, evaluasi respons, dan perawatan jangka panjang sklerosis multipel di Tiongkok. Bedakan terapi serangan dari pengendalian penyakit.

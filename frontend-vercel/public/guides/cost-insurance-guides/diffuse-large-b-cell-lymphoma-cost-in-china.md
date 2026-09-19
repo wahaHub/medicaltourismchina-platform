@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** DLBCL treatment costs in China: building an itemized yuan budget
 - **Category:** Cost & Insurance Guides
 - **Subcategory:** Diffuse Large B Cell Lymphoma
-- **Subtitle:** DLBCL treatment costs in China: building an itemized yuan budget
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL treatment costs in China: building an itemized yuan budget
+- **Subtitle:** Budget for DLBCL treatment in China with an itemized RMB quote covering the actual regimen, assessments, supportive care and possible extra stays.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -141,3 +143,6 @@ At completion, obtain actual itemized charges and a clinical summary distinguish
 ## SEO Metadata
 
 - **Primary keyword:** DLBCL treatment cost in China
+
+- **Meta title:** DLBCL treatment costs in China: building an itemized yuan budget
+- **Meta description:** Budget for DLBCL treatment in China with an itemized RMB quote covering the actual regimen, assessments, supportive care and possible extra stays.

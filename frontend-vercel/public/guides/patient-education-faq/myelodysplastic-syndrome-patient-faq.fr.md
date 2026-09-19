@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Vingt questions sur le syndrome myélodysplasique : diagnostic, transfusions, médicaments, greffe et soins en Chine
 - **Category:** Information des patients et questions fréquentes
 - **Subcategory:** Syndrome myélodysplasique
-- **Subtitle:** Une personne atteinte de SMD peut avoir des contrôles réguliers, une autre nécessite des transfusions répétées et une autre se voit conseiller de discuter d'une greffe.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Vingt questions sur le syndrome myélodysplasique : diagnostic, transfusions, médicaments, greffe et soins en Chine
+- **Subtitle:** Préparez une consultation pour un syndrome myélodysplasique en Chine avec 20 questions sur le diagnostic, les transfusions, les médicaments et la greffe.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -133,3 +135,6 @@ Ces réponses aident à préparer une consultation ; le diagnostic et les prescr
 ## SEO Metadata
 
 - **Primary keyword:** questions des patients sur le syndrome myélodysplasique
+
+- **Meta title:** Vingt questions sur le syndrome myélodysplasique : diagnostic, transfusions, médicaments, greffe et soins en Chine
+- **Meta description:** Préparez une consultation pour un syndrome myélodysplasique en Chine avec 20 questions sur le diagnostic, les transfusions, les médicaments et la greffe.

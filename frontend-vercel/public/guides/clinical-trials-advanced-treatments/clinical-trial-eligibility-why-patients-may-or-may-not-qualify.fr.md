@@ -1,15 +1,17 @@
-# 073 Admissibilité aux essais cliniques : pourquoi certains patients peuvent être retenus et d’autres non
+# Admissibilité aux essais cliniques en Chine : comprendre la sélection
 
 ## Hero
 
-- **Title:** Admissibilité aux essais cliniques : pourquoi certains patients peuvent être retenus et d’autres non
 - **Category:** Essais cliniques et traitements avancés
 - **Subcategory:** Sélection et inclusion dans les essais
-- **Subtitle:** Un guide pratique de la présélection, des critères du protocole, des délais de sélection, de la non-admissibilité et de la différence entre admissibilité et inclusion effective.
 - **Reviewed by:** Équipe éditoriale de Medora Health
-- **Updated date:** 2026/08/03
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Remplacement nécessaire : un médecin investigateur et un patient examinent les vérifications d’admissibilité concernant l’anatomopathologie, les biomarqueurs, les antécédents thérapeutiques et les analyses biologiques sur un tableau structuré de sélection pour un essai.
+
+
+- **Title:** Admissibilité aux essais cliniques en Chine : comprendre la sélection
+- **Subtitle:** Comprendre la présélection des essais, les critères d’inclusion et d’exclusion, les vérifications des biomarqueurs et des délais sans traitement, la non-admissibilité, les places disponibles et les obstacles pour les patients internationaux.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -137,11 +139,13 @@ Le paiement ne remplace ni l’admissibilité, ni l’examen éthique, ni la dis
 ## SEO Metadata
 
 - **Slug:** `clinical-trial-eligibility-why-patients-may-or-may-not-qualify`
-- **Meta title:** Comprendre l’admissibilité aux essais cliniques et la non-admissibilité
-- **Meta description:** Comprendre la présélection des essais, les critères d’inclusion et d’exclusion, les vérifications des biomarqueurs et des délais sans traitement, la non-admissibilité, les places disponibles et les obstacles pour les patients internationaux.
 - **Primary keyword:** admissibilité aux essais cliniques
 - **Secondary keywords:** critères d’inclusion et d’exclusion ; sélection pour un essai clinique ; biomarqueur d’essai en cancérologie ; non-admissibilité à un essai clinique ; essai pour patient international
 - **Search intent:** sélection pour un essai clinique / décision éclairée de participation
+
+
+- **Meta title:** Admissibilité aux essais cliniques en Chine : comprendre la sélection
+- **Meta description:** Comprendre la présélection des essais, les critères d’inclusion et d’exclusion, les vérifications des biomarqueurs et des délais sans traitement, la non-admissibilité, les places disponibles et les obstacles pour les patients internationaux.
 
 ## Sources
 

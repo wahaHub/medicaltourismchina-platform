@@ -1,12 +1,14 @@
-# DLBCL treatment side effects: daily management and urgent symptoms
+# DLBCL Treatment in China: Side Effects and Urgent Symptoms
 
 ## Hero
 
-- **Title:** DLBCL treatment side effects: daily management and urgent symptoms
 - **Category:** Treatment Guides
 - **Subcategory:** Diffuse Large B Cell Lymphoma
-- **Subtitle:** Side effects during DLBCL treatment should not all be dismissed as normal.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** DLBCL Treatment in China: Side Effects and Urgent Symptoms
+- **Subtitle:** Plan for DLBCL treatment side effects in China, distinguishing daily symptom management from urgent problems and arranging complication support.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ With glofitamab, severe inflammation may also reflect HLH. The manufacturer's Ja
 ## SEO Metadata
 
 - **Primary keyword:** DLBCL treatment side effects
+
+- **Meta title:** DLBCL Treatment in China: Side Effects and Urgent Symptoms
+- **Meta description:** Plan for DLBCL treatment side effects in China, distinguishing daily symptom management from urgent problems and arranging complication support.

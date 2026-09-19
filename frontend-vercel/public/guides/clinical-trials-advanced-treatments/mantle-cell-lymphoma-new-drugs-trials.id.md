@@ -1,12 +1,14 @@
-# Obat Baru dan Uji Klinis untuk Limfoma Sel Mantel: Memahami Pembaruan 2026
+# Pengobatan Baru Limfoma Sel Mantel: Uji Klinis dan Akses di Tiongkok
 
 ## Hero
 
-- **Title:** Obat Baru dan Uji Klinis untuk Limfoma Sel Mantel: Memahami Pembaruan 2026
 - **Category:** Uji Klinis & Pengobatan Lanjutan
 - **Subcategory:** Limfoma Sel Mantel
-- **Subtitle:** Berita tentang terobosan atau regimen tanpa kemoterapi secara alami menimbulkan pertanyaan apakah Anda dapat menerimanya.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Pengobatan Baru Limfoma Sel Mantel: Uji Klinis dan Akses di Tiongkok
+- **Subtitle:** Nilai bukti pengobatan baru limfoma sel mantel berdasarkan pasien yang diteliti. Periksa indikasi, risiko, dan akses di pusat perawatan Tiongkok.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -119,3 +121,6 @@ Publikasi baru dapat memperluas pilihan tanpa mengharuskan Anda mengubah rencana
 ## SEO Metadata
 
 - **Primary keyword:** obat baru dan uji klinis limfoma sel mantel 2026
+
+- **Meta title:** Pengobatan Baru Limfoma Sel Mantel: Uji Klinis dan Akses di Tiongkok
+- **Meta description:** Nilai bukti pengobatan baru limfoma sel mantel berdasarkan pasien yang diteliti. Periksa indikasi, risiko, dan akses di pusat perawatan Tiongkok.

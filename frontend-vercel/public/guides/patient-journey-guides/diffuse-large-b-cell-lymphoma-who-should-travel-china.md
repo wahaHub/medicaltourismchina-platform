@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Should a patient with DLBCL travel to China for treatment?
 - **Category:** Patient Journey Guides
 - **Subcategory:** Diffuse Large B Cell Lymphoma
-- **Subtitle:** Whether travel to China is worthwhile for DLBCL depends on the clinical problem it could solve, the waiting time and the ability to complete treatment and aftercare.
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Should a patient with DLBCL travel to China for treatment?
+- **Subtitle:** Assess whether travel to China could help with DLBCL care by defining the clinical need, checking readiness and confirming treatment continuity.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -135,3 +137,6 @@ Agree on a medical fallback if the trip is postponed. If fever develops, tests w
 ## SEO Metadata
 
 - **Primary keyword:** travel to China for DLBCL treatment
+
+- **Meta title:** Should a patient with DLBCL travel to China for treatment?
+- **Meta description:** Assess whether travel to China could help with DLBCL care by defining the clinical need, checking readiness and confirming treatment continuity.

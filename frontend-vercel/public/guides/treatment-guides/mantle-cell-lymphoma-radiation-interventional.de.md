@@ -2,11 +2,13 @@
 
 ## Hero
 
-- **Title:** Strahlentherapie beim Mantelzelllymphom: Lokale Kontrolle, kurze Behandlungsserien und Versorgungsplanung in China
 - **Category:** Behandlungsratgeber
 - **Subcategory:** Mantelzelllymphom
-- **Subtitle:** Wird für eine Lymphommasse eine Bestrahlung angeboten, stellt sich verständlicherweise die Frage: Wenn sich der Bereich direkt behandeln lässt, warum wird weiterhin über Medikamente gesprochen?
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Strahlentherapie beim Mantelzelllymphom: Lokale Kontrolle, kurze Behandlungsserien und Versorgungsplanung in China
+- **Subtitle:** Strahlentherapie beim Mantelzelllymphom in China planen: lokales Ziel, Dosis, Behandlungstermine, organspezifische Nebenwirkungen und Übergabe klären.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -113,3 +115,6 @@ Die Nachsorge sollte zwei getrennte Fragen beantworten: Hat sich das lokale Prob
 ## SEO Metadata
 
 - **Primary keyword:** Strahlentherapie beim Mantelzelllymphom
+
+- **Meta title:** Strahlentherapie beim Mantelzelllymphom: Lokale Kontrolle, kurze Behandlungsserien und Versorgungsplanung in China
+- **Meta description:** Strahlentherapie beim Mantelzelllymphom in China planen: lokales Ziel, Dosis, Behandlungstermine, organspezifische Nebenwirkungen und Übergabe klären.

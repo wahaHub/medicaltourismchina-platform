@@ -1,15 +1,17 @@
-# Preventing Surgical Site Infection: The Questions Patients Can Ask Before and After an Operation
+# Surgery in China: Wound Infection Prevention and Warning Signs
 
 ## Hero
 
-- **Title:** Preventing Surgical Site Infection: The Questions Patients Can Ask Before and After an Operation
 - **Category:** Patient Education & FAQ
 - **Subcategory:** Surgery & Infection Prevention
-- **Subtitle:** A patient-facing guide to skin preparation, hair removal, antibiotic timing, glucose and temperature management, hand hygiene, dressings and early wound review.
 - **Reviewed by:** Medora Health Editorial Team
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-simple.png`
 - **Image alt text:** A patient discusses infection-prevention and wound-care questions with two perioperative clinicians
+
+
+- **Title:** Surgery in China: Wound Infection Prevention and Warning Signs
+- **Subtitle:** Learn how patients can help prevent surgical site infection before and after surgery, including shaving, antibiotics, hand hygiene, dressings, photos and urgent warning signs.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -131,11 +133,13 @@ Yes. Hand hygiene is a core safety practice before wound contact and aseptic tas
 
 ## SEO Metadata
 
-- **SEO title:** Surgical Site Infection Prevention: Antibiotics, Wound Care and Warning Signs
-- **Meta description:** Learn how patients can help prevent surgical site infection before and after surgery, including shaving, antibiotics, hand hygiene, dressings, photos and urgent warning signs.
 - **Primary keyword:** prevent surgical site infection
 - **Secondary keywords:** SSI prevention, surgery wound infection, antibiotic prophylaxis, incision care, postoperative wound warning signs, hand hygiene
 - **Suggested URL slug:** `/prevent-surgical-site-infection-antibiotics-wound-care-warning-signs`
+
+
+- **Meta title:** Surgery in China: Wound Infection Prevention and Warning Signs
+- **Meta description:** Learn how patients can help prevent surgical site infection before and after surgery, including shaving, antibiotics, hand hygiene, dressings, photos and urgent warning signs.
 
 ## Sources
 

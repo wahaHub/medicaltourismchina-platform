@@ -1,15 +1,17 @@
-# 093 Cómo verificar un hospital de investigación y un ensayo clínico
+# Cómo verificar un hospital de investigación y un ensayo clínico en China
 
 ## Hero
 
-- **Title:** Cómo verificar un hospital de investigación y un ensayo clínico
 - **Category:** Ensayos clínicos y tratamientos avanzados
 - **Subcategory:** Verificación de la investigación y ética
-- **Subtitle:** Compruebe la concordancia de la institución, el protocolo, el centro, el investigador y el estado de reclutamiento antes de compartir documentos o viajar.
 - **Reviewed by:** Equipo editorial de Medora Health
-- **Updated date:** 2026/08/04
 - **Hero image:** `hero-reviewed.png`
 - **Image alt text:** Ilustración conceptual de un paciente internacional que utiliza una lista de comprobación y símbolos de verificación con un coordinador hospitalario; no se muestra al coordinador proporcionando consentimiento clínico.
+
+
+- **Title:** Cómo verificar un hospital de investigación y un ensayo clínico en China
+- **Subtitle:** Verifique un ensayo chino cotejando la licencia hospitalaria, la inscripción institucional, los identificadores de registro y protocolo, el centro activado, el investigador, la ética, el consentimiento, el reclutador y los pagos.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -197,11 +199,13 @@ Nombre legal del hospital y campus, investigador, números de registro y protoco
 ## SEO Metadata
 
 - **Slug:** `how-to-verify-a-research-hospital-and-clinical-trial`
-- **Meta title:** Verificar un hospital de investigación y un ensayo clínico chinos
-- **Meta description:** Verifique un ensayo chino cotejando la licencia hospitalaria, la inscripción institucional, los identificadores de registro y protocolo, el centro activado, el investigador, la ética, el consentimiento, el reclutador y los pagos.
 - **Primary keyword:** verificar ensayo clínico en China
 - **Secondary keywords:** verificación de hospital de investigación en China; registro chino de ensayos; número CTR de ensayo clínico; institución GCP de China; comprobación de fraude en ensayos clínicos
 - **Search intent:** legitimidad del ensayo y verificación del centro
+
+
+- **Meta title:** Cómo verificar un hospital de investigación y un ensayo clínico en China
+- **Meta description:** Verifique un ensayo chino cotejando la licencia hospitalaria, la inscripción institucional, los identificadores de registro y protocolo, el centro activado, el investigador, la ética, el consentimiento, el reclutador y los pagos.
 
 ## Fuentes
 

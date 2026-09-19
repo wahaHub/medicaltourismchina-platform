@@ -1,12 +1,14 @@
-# Efectos secundarios del tratamiento de Parkinson: Mareos, alucinaciones, discinesia y síntomas nuevos
+# Tratamiento del Parkinson en China: efectos secundarios y síntomas nuevos
 
 ## Hero
 
-- **Title:** Efectos secundarios del tratamiento de Parkinson: Mareos, alucinaciones, discinesia y síntomas nuevos
 - **Category:** Guías de tratamiento
 - **Subcategory:** Enfermedad de Parkinson
-- **Subtitle:** Efectos secundarios del tratamiento de Parkinson: Mareos, alucinaciones, discinesia y síntomas nuevos
-- **Updated date:** 2026/09/09
+
+
+- **Title:** Tratamiento del Parkinson en China: efectos secundarios y síntomas nuevos
+- **Subtitle:** Registre mareos, somnolencia, cambios de conducta y otros síntomas durante el tratamiento del Parkinson, y prepare una revisión de la medicación en China.
+- **Updated date:** 2026/09/19
 
 ## Key Takeaways
 
@@ -128,3 +130,6 @@ El objetivo práctico es un equilibrio terapéutico que pueda mantenerse y revis
 ## SEO Metadata
 
 - **Primary keyword:** efectos secundarios del tratamiento de la enfermedad de Parkinson
+
+- **Meta title:** Tratamiento del Parkinson en China: efectos secundarios y síntomas nuevos
+- **Meta description:** Registre mareos, somnolencia, cambios de conducta y otros síntomas durante el tratamiento del Parkinson, y prepare una revisión de la medicación en China.
