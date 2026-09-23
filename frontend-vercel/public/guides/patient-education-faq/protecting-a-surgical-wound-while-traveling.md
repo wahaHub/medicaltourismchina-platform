@@ -103,19 +103,19 @@ The best travel kit cannot compensate for departing too early. A stable wound, a
 
 ## FAQ
 
-### 1. How many days after surgery is it safe to fly?
+### How many days after surgery is it safe to fly?
 
 There is no universal interval. The procedure, anaesthesia, bleeding and clot risk, wound stability, drains, lung function and airline rules all matter. Ask the operating surgeon to approve the specific itinerary; CDC also describes additional concerns after chest or abdominal surgery [4].
 
-### 3. Can airport security inspect a drain or wound device?
+### Can airport security inspect a drain or wound device?
 
 Procedures vary. Contact the airport and airline in advance, carry a clinical letter and device details, and request a private screening if needed. Never disconnect or open a prescribed device solely to speed screening.
 
-### 4. What if my dressing supplies run out abroad?
+### What if my dressing supplies run out abroad?
 
 Contact the surgical team or a local clinician before substituting products. Dressings differ in absorbency, adhesive, antimicrobial ingredients and suitability for fragile skin. Keep a photograph of the package and the generic specification, not only the brand name.
 
-### 5. Which wound changes cannot wait until I get home?
+### Which wound changes cannot wait until I get home?
 
 Wound separation, uncontrolled bleeding, rapidly spreading redness, pus-like or foul drainage, fever with worsening pain, exposed tissue or device, or serious illness needs local assessment. Sudden breathlessness, chest pain, fainting or one-sided leg swelling may signal a clot and is urgent [3].
 

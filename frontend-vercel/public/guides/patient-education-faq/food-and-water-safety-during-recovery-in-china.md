@@ -142,15 +142,15 @@ The safest recovery plan is not a list of forbidden Chinese dishes. It is a reli
 
 ## FAQ
 
-### 1. Is tap water in China safe for a recovering patient?
+### Is tap water in China safe for a recovering patient?
 
 Do not make a country-wide assumption. Confirm the specific building’s drinking-water guidance. If safety is uncertain, use factory-sealed or adequately treated water for drinking, ice, food preparation, medicines and brushing teeth [1].
 
-### 3. Is reheating lukewarm delivery food enough to make it safe?
+### Is reheating lukewarm delivery food enough to make it safe?
 
 Not always. Reheating may kill many organisms but cannot reliably reverse an unknown time-temperature history or remove every toxin. If perishable food arrived after a long delay and is not appropriately hot or cold, discard it.
 
-### 4. Should diarrhoea be treated immediately with antibiotics or loperamide?
+### Should diarrhoea be treated immediately with antibiotics or loperamide?
 
 Not automatically. The cause may be infection, treatment toxicity, *C. difficile* or surgery-related. Bloody stool, fever, severe pain, immune suppression or recent bowel surgery requires clinical advice before anti-motility medicines, and antibiotics should be selected only when indicated.
 

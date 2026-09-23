@@ -113,23 +113,23 @@ The discharge clock should follow the treating facility’s instructions and med
 
 ## FAQ
 
-### 1. Is general anesthesia the same as being asleep?
+### Is general anesthesia the same as being asleep?
 
 No. It is a medicine-induced, actively managed state of unconsciousness with effects on breathing, circulation, movement and pain responses. Ordinary sleep does not require this degree of monitoring or airway planning.
 
-### 2. Does everyone receive a breathing tube?
+### Does everyone receive a breathing tube?
 
 No. The team may use an endotracheal tube, supraglottic airway, mask support or another technique. Procedure, position, aspiration risk and airway findings determine the choice. A tube can be routine rather than a sign of emergency.
 
-### 3. How will the anesthetist know I am unconscious?
+### How will the anesthetist know I am unconscious?
 
 The clinician integrates the anesthetic dose and concentration, vital signs, breathing, movement, surgical stimulation and additional monitoring when indicated. No single consumer-style “sleep number” replaces clinical judgment.
 
-### 4. What should I do if I think I was aware during surgery?
+### What should I do if I think I was aware during surgery?
 
 Tell the anesthesia and surgical teams as soon as possible and describe exactly what you recall. Ask for documentation, review of the anesthetic record and follow-up; distressing memories may also warrant psychological support [4].
 
-### 5. Why am I not allowed to drive if I feel awake?
+### Why am I not allowed to drive if I feel awake?
 
 Awake is not the same as fully recovered. Anesthetic and pain medicines can impair reaction time, coordination and judgment after apparent alertness returns [1]. Follow the hospital’s written restriction and use an approved escort.
 

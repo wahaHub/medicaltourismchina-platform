@@ -119,15 +119,15 @@ A generic message saying “send a photo if worried” is not a follow-up plan. 
 
 ## FAQ
 
-### 1. Should I shave the operation site at home?
+### Should I shave the operation site at home?
 
 No. Razor shaving can irritate the skin and increase infection risk. Leave hair management to the surgical team; hair should only be removed when it interferes and with an appropriate method [1].
 
-### 2. Do preventive antibiotics need to continue until the wound heals?
+### Do preventive antibiotics need to continue until the wound heals?
 
 Usually not. Prophylaxis is selected and timed around the procedure. Longer treatment should have a specific indication; more days do not automatically mean better prevention [2]. Follow the treating team’s exact plan.
 
-### 3. May I ask a clinician to clean their hands?
+### May I ask a clinician to clean their hands?
 
 Yes. Hand hygiene is a core safety practice before wound contact and aseptic tasks [4]. A respectful reminder is appropriate, and visitors should clean their hands too.
 

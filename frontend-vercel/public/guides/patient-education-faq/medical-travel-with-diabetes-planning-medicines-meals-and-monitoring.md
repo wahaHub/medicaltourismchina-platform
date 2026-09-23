@@ -127,23 +127,23 @@ Reconcile every pen, vial and tablet in the bag. Duplicate brand names and diffe
 
 ## FAQ
 
-### 1. Can insulin go in checked luggage?
+### Can insulin go in checked luggage?
 
 It should remain in hand luggage. Checked bags can be delayed and may reach freezing or damaging temperatures. Use an appropriate insulated carrier without placing insulin directly on ice, and follow the exact product label [1][2].
 
-### 2. How should I change insulin times across time zones?
+### How should I change insulin times across time zones?
 
 Ask the prescribing team for a dose-by-dose clock plan based on the direction and number of time zones, insulin type, meals and pump settings. There is no single formula that is safe for every regimen.
 
-### 3. Can I rely only on my continuous glucose monitor while abroad?
+### Can I rely only on my continuous glucose monitor while abroad?
 
 No. Carry a compatible meter and strips. Check with the meter when symptoms do not match the CGM, the sensor fails, readings change rapidly or the device instructions require confirmation.
 
-### 4. What should I do if a procedure is delayed while I am fasting?
+### What should I do if a procedure is delayed while I am fasting?
 
 Tell staff immediately that you have diabetes and which medicines were taken. Follow the written glucose-check and low-treatment plan; do not eat secretly or take extra medicine without the procedural team because both fasting and anaesthesia safety are involved.
 
-### 5. When is high or low glucose an emergency during travel?
+### When is high or low glucose an emergency during travel?
 
 Severe low glucose with confusion, seizure, unconsciousness or inability to swallow is an emergency. So are persistent vomiting, dehydration, ketones with illness, abdominal pain, laboured breathing, fruity breath or altered consciousness, which can signal ketoacidosis [5][7].
 

@@ -13,69 +13,69 @@
 
 ## Key Takeaways
 
-- Do not wait for an arbitrary deadline when age, irregular or absent periods, known tubal or uterine disease, endometriosis, previous gonadotoxic treatment, sexual dysfunction or suspected male-factor infertility already makes delay important.[1][2]
-- When sperm and eggs from two partners are involved, investigate both at the same time. A fertility assessment is not a sequence in which one person must complete every test before the other is examined.[2][3]
-- A useful core work-up asks three questions: Is ovulation occurring? Are the uterus and tubes suitable for the intended route to pregnancy? Is sperm production and delivery adequate? The exact tests depend on history and planned treatment.
-- AMH and antral follicle count mainly help estimate ovarian response to stimulation. They are not egg-quality tests and should not be used alone to declare that someone is fertile or infertile.[2]
-- One abnormal semen analysis is a finding to confirm and interpret, not a complete diagnosis. Collection conditions, illness, abstinence interval, transport and laboratory method all matter.[3][4]
-- Decline a large “fertility panel” unless the clinician can say how each result would alter management. Routine laparoscopy, postcoital testing, endometrial biopsy, immune or thrombophilia panels, karyotyping and sperm DNA-fragmentation testing are not part of every initial evaluation.[2][3]
+- Skip the arbitrary waiting period when age, irregular or absent periods, known tubal or uterine disease, endometriosis, previous gonadotoxic treatment, sexual dysfunction or suspected male-factor infertility already tells you time matters.[1][2]
+- Sperm and eggs come from two people, so the evaluation should run on two people at once. Nobody needs to finish a full battery of tests before the other partner is even examined.[2][3]
+- A useful core work-up answers three questions: Is ovulation occurring? Are the uterus and tubes suitable for the intended route to pregnancy? Is sperm production and delivery adequate? Which tests that takes depends on the history and the planned treatment.
+- AMH and antral follicle count mainly estimate the ovarian response to stimulation. Neither one measures egg quality, and neither should be used alone to pronounce someone fertile or infertile.[2]
+- One abnormal semen analysis is a finding to confirm, not a finished diagnosis. Collection conditions, recent illness, the abstinence interval, transport and the laboratory's method can all move the numbers.[3][4]
+- Be wary of a large “fertility panel” where nobody can explain how each result would change the plan. Routine laparoscopy, postcoital testing, endometrial biopsy, immune or thrombophilia panels, karyotyping and sperm DNA-fragmentation testing do not belong in every first evaluation.[2][3]
 
 ## Content
 
-A good fertility assessment is deliberately small at the beginning. It uses history, examination and a limited set of high-yield tests to locate the decision: continue trying, correct a medical problem, investigate one system further, use ovulation induction or insemination, move to IVF, preserve fertility, or seek genetic counselling. It expands only when an initial finding or the intended treatment creates a reason.
+A good fertility assessment starts small on purpose. History, examination and a short list of high-yield tests are there to settle one decision: keep trying, fix a medical problem, look deeper at one system, try ovulation induction or insemination, go to IVF, preserve fertility, or see a genetic counsellor. The work-up grows only when an early finding or the planned treatment gives it a reason to.
 
-WHO notes that infertility may result from male, female or unexplained factors.[1] “Unexplained” should mean that an appropriate basic evaluation did not identify a cause; it should not mean that one partner was never assessed or that a standard test was missing.
+WHO notes that infertility can come from male factors, female factors or factors nobody can yet explain.[1] Used properly, “unexplained” means a sound basic evaluation found no cause. It should never become a cover for one partner going unexamined or a standard test getting skipped.
 
 ### Know when the clock starts—and when it should not control the decision
 
-For couples trying through regular unprotected intercourse, evaluation commonly begins after 12 months when the egg-providing partner is younger than 35 and after six months at age 35 or older. More immediate assessment may be appropriate over age 40.[2][5]
+For couples having regular unprotected intercourse, the usual trigger is 12 months of trying when the egg-providing partner is under 35, and six months from age 35 onward. Past 40, assessment often makes sense right away.[2][5]
 
-Do not wait for those milestones when there is:
+Those timelines go out the window when there is:
 
 - no menstrual period, markedly irregular cycles or repeated bleeding between periods;
 - known or suspected endometriosis, tubal disease, uterine abnormality or prior pelvic infection;
-- previous ectopic pregnancy, pelvic surgery or ovarian surgery;
+- an ectopic pregnancy, pelvic surgery or ovarian surgery in the past;
 - chemotherapy, pelvic radiation or another fertility-threatening treatment;
 - known genetic risk or a need for fertility preservation;
 - erectile, ejaculatory or sexual-function difficulty;
 - previous testicular injury, undescended testis, genital surgery or suspected sperm problem; or
-- recurrent pregnancy loss, which requires a question-specific pathway rather than simply repeating a generic infertility panel.
+- recurrent pregnancy loss, which needs its own dedicated pathway instead of another pass through a generic infertility panel.
 
-People using donor sperm, reciprocal IVF or other routes do not need to “try for 12 months” to justify evaluation. The work-up should be tailored to the planned route and to the person who will provide eggs, sperm or carry the pregnancy.[2]
+Anyone using donor sperm, reciprocal IVF or another route has no obligation to “try for 12 months” first. The work-up is built around the planned route and around whoever will supply the eggs, the sperm or the pregnancy.[2]
 
 ### Start with a chronology, not a bag of laboratory reports
 
-Before the first China appointment, prepare a one-page reproductive timeline. Record when attempts began, frequency and method of exposure to sperm, pregnancies and outcomes, cycle length and variation, pelvic or testicular symptoms, infections, surgery, contraception history and every prior treatment. Include dates and doses of fertility medicines, follicles seen, eggs retrieved, fertilisation and embryo outcomes—not just “IVF failed.”
+Before the first appointment in China, put together a one-page reproductive timeline: when you started trying, how often and how sperm exposure happens, pregnancies and how they ended, cycle length and how much it varies, pelvic or testicular symptoms, infections, operations, contraception and every previous treatment. For earlier treatment cycles, write down drug names, dates and doses, follicle counts, eggs retrieved, and fertilisation and embryo outcomes. “IVF failed” on its own tells the new team almost nothing.
 
-List all medicines and supplements. Testosterone and anabolic steroids can suppress sperm production; some cancer, psychiatric and other treatments can affect reproductive function. Do not stop prescribed medicine without the responsible clinician, but make exposure visible.
+Write down every medicine and supplement. Testosterone and anabolic steroids can shut down sperm production, and some cancer, psychiatric and other treatments affect reproductive function. Keep taking prescribed medicine unless the prescribing clinician says otherwise — the point is to make the exposure visible, not to self-adjust.
 
-Bring original reports in the source language plus translations. For ultrasound and hysterosalpingography, obtain the images as well as the report. For semen analysis, retain collection instructions, collection time, abstinence interval, whether the whole sample was captured, time to analysis and the laboratory's reference information. A translated summary without methods is often impossible to compare.
+Bring the original reports in their source language along with translations. For ultrasound and hysterosalpingography, get the images too, since the written report alone leaves a lot out. For semen analysis, keep the collection instructions, collection time, abstinence interval, whether the full sample was captured, time to analysis and the laboratory's reference information. A translated summary stripped of methods is usually impossible to compare against new results.
 
 ### Assess the egg-providing and pregnancy-carrying patient by clinical question
 
-The initial visit should cover age, menstrual and ovulation pattern, pregnancy history, pelvic pain, abnormal bleeding, infection, surgery, family history, endocrine symptoms and physical findings. The tests then follow the question.
+The first visit covers age, the menstrual and ovulation pattern, pregnancy history, pelvic pain, abnormal bleeding, infections, surgery, family history, endocrine symptoms and the physical findings. Tests come after, each one tied to a question that came up.
 
-**Ovulation.** A reliably regular menstrual history may already support an ovulatory pattern. When cycles are irregular or absent, testing should look for the cause rather than repeatedly ordering a “day 21 progesterone” without adjusting for cycle length. Thyroid testing is useful when thyroid disease could impair fertility; prolactin is not a universal screen but is indicated with galactorrhoea, oligomenorrhoea or amenorrhoea.[2]
+**Ovulation.** A long history of reliably regular cycles is decent evidence of ovulation by itself. With irregular or absent cycles, the job is to find the cause — ordering a “day 21 progesterone” over and over without adjusting for cycle length answers nothing. Thyroid testing earns its place when thyroid disease could impair fertility; prolactin is indicated with galactorrhoea, oligomenorrhoea or amenorrhoea and otherwise left alone.[2]
 
-**Ovarian reserve.** AMH can be measured on many cycle days; antral follicle count uses transvaginal ultrasound; early-follicular FSH and estradiol may sometimes add context. These tests estimate the likely quantity of response to stimulation better than they predict natural conception. Age remains a major predictor of reproductive potential and egg-related chromosome risk. A low AMH does not prove zero chance of unassisted pregnancy, and a high AMH does not guarantee healthy eggs or a live birth.[2][6]
+**Ovarian reserve.** AMH can be drawn on most cycle days, antral follicle count is done by transvaginal ultrasound, and early-follicular FSH and estradiol occasionally add context. What these tests do best is estimate how the ovaries are likely to respond to stimulation; natural conception is something they predict poorly. Age still carries most of the information about reproductive potential and egg-related chromosome risk. Low AMH does not put the chance of unassisted pregnancy at zero, and high AMH promises neither healthy eggs nor a live birth.[2][6]
 
-**Uterus and ovaries.** Transvaginal ultrasound can identify fibroids, adenomyosis, ovarian cysts or other anatomy. If a cavity abnormality is suspected, saline-infusion sonography or hysteroscopy may be considered. Hysteroscopy gives direct assessment and can treat selected intrauterine lesions, but it is not an automatic first test for everyone.[2]
+**Uterus and ovaries.** Transvaginal ultrasound picks up fibroids, adenomyosis, ovarian cysts and other anatomy. When the cavity itself is in question, saline-infusion sonography or hysteroscopy come into play. Hysteroscopy looks directly and can treat selected intrauterine lesions in the same sitting; that still does not make it an automatic first test for everyone.[2]
 
-**Tubal patency.** Hysterosalpingography or an ultrasound-based contrast test may be used when open tubes matter to natural conception or insemination. The report should name each tube, spill and any hydrosalpinx. Tubal testing may be unnecessary before a pathway that bypasses the tubes, unless a tubal lesion would itself affect treatment. Diagnostic laparoscopy is not routine without symptoms, abnormal imaging or another specific indication.[2]
+**Tubal patency.** Where open tubes matter — natural conception or insemination — hysterosalpingography or an ultrasound-based contrast test does the job. The report should name each tube, describe the spill and flag any hydrosalpinx. If the planned pathway bypasses the tubes altogether, patency testing can often be skipped, unless a tubal lesion would itself interfere with treatment. Diagnostic laparoscopy stays out of the routine work-up unless symptoms, abnormal imaging or another specific indication calls for it.[2]
 
 ### Assess sperm production and delivery in parallel
 
-The AUA/ASRM guideline says the initial male evaluation should include reproductive history and one or more semen analyses, and that both partners should be assessed concurrently.[3] The history should include puberty, paternity, genital infections and surgery, undescended testes, torsion or trauma, cancer treatment, fever, medicines, testosterone or steroid use, occupational heat or toxin exposure, sexual function and family history.
+The AUA/ASRM guideline calls for a reproductive history plus one or more semen analyses as the initial male evaluation, with both partners assessed at the same time.[3] That history covers puberty, any previous paternity, genital infections and surgery, undescended testes, torsion or trauma, cancer treatment, recent fevers, medicines, testosterone or steroid use, occupational heat or toxin exposure, sexual function and family history.
 
-A semen analysis is more than a sperm count. It typically describes volume, concentration, total number, motility and morphology, with other findings where relevant. WHO's sixth-edition laboratory manual exists to improve standardisation and comparability between laboratories.[4] Reference limits are not a cliff between “fertile” and “infertile”; results overlap, vary biologically and must be read with the couple's history.
+A semen analysis goes well beyond a sperm count: volume, concentration, total number, motility and morphology, plus other findings where relevant. WHO publishes its sixth-edition laboratory manual precisely so results can be standardised and compared between laboratories.[4] The reference limits mark a rough zone in which fertile and infertile values overlap considerably; results also vary biologically, so they only make sense read against the couple's history.
 
-If a result is abnormal, ask whether and when it should be repeated under controlled collection conditions. A recent high fever or incomplete collection can distort interpretation. Persistent abnormalities, azoospermia, very low concentration, examination findings or endocrine symptoms may prompt assessment by a male-reproductive specialist, hormone testing, genetic testing or targeted imaging. The indication should be written. Routine scrotal or transrectal ultrasound and routine sperm DNA-fragmentation testing are not first-line tests for every patient.[3]
+When a result comes back abnormal, ask whether it should be repeated under controlled collection conditions, and when. A recent high fever or a partly missed collection can skew everything. Persistent abnormalities, azoospermia, very low concentration, examination findings or endocrine symptoms open the door to a male-reproductive specialist, hormone testing, genetic testing or targeted imaging — with the indication written down. Routine scrotal or transrectal ultrasound and routine sperm DNA-fragmentation testing are not first-line tests for every patient.[3]
 
 ### Separate core tests from conditional tests
 
-The most useful question at the consultation is: **What decision changes if this result is normal, abnormal or inconclusive?** If no answer exists, the test may be premature.
+The single most useful question in the room is: **What decision changes if this result is normal, abnormal or inconclusive?** A test with no answer to that is probably being done too early.
 
-Conditional investigations can be valuable when the history supports them:
+Where the history points, conditional tests earn their keep:
 
 - genetic carrier testing or karyotype for a defined family history, recurrent loss, ovarian insufficiency, azoospermia or severe sperm abnormality;
 - androgen, 17-hydroxyprogesterone or metabolic assessment with signs of hyperandrogenism or PCOS;
@@ -84,29 +84,29 @@ Conditional investigations can be valuable when the history supports them:
 - pelvic MRI for a defined anatomical or endometriosis question; and
 - hysteroscopy or laparoscopy when imaging, symptoms or a planned intervention supplies an indication.
 
-By contrast, ASRM lists laparoscopy for unexplained infertility, advanced sperm-function testing, postcoital testing, thrombophilia testing, immune testing, routine karyotype, endometrial biopsy and routine prolactin among tests that should not be ordered for every initial evaluation without a specific indication.[2] The 2026 NICE guideline also recommends against routine sperm DNA-integrity testing and postcoital cervical-mucus testing.[7] A clinic should not rebrand low-evidence add-ons as a mandatory “international patient package.”
+ASRM, for its part, puts laparoscopy for unexplained infertility, advanced sperm-function testing, postcoital testing, thrombophilia testing, immune testing, routine karyotype, endometrial biopsy and routine prolactin on the list of tests nobody should order at a first evaluation without a specific indication.[2] The 2026 NICE guideline takes the same line on routine sperm DNA-integrity testing and postcoital cervical-mucus testing.[7] If a clinic repackages low-evidence add-ons as a mandatory “international patient package,” treat that as a warning sign.
 
 ### Use a staged timetable rather than promising a one-day diagnosis
 
-Many first-line elements can be organised in one visit, but a complete answer may cross cycles or require repeat samples.
+A single visit can absorb many first-line tests; a complete answer may still span more than one cycle or call for repeat samples.
 
-**Before travel:** obtain a clinician's record review; confirm which existing tests are acceptable; note cycle day, expiry window and laboratory method; book a reproductive-medicine appointment and, if indicated, male-reproductive assessment on compatible dates.
+**Before travel:** have a clinician review your records; confirm which existing results the centre will accept; note the cycle day, expiry window and laboratory method for each; and book the reproductive-medicine appointment plus any indicated male-reproductive assessment on dates that fit together.
 
-**First clinical contact:** complete both histories, examination as appropriate, medication review, pregnancy testing when relevant and a preliminary problem list. The clinician should identify what can already be concluded and what remains uncertain.
+**First clinical contact:** both histories, examination where appropriate, a medication review, pregnancy testing when relevant and a preliminary problem list. Expect the clinician to say plainly what can already be concluded and what is still open.
 
-**Cycle-dependent window:** early-cycle ultrasound and selected hormones may require particular timing. Tubal or cavity testing is scheduled to avoid an existing pregnancy and according to the centre's infection and cycle protocol. “Day 2” or “day 21” should never be applied without defining day 1 and the person's actual cycle length.
+**Cycle-dependent window:** early-cycle ultrasound and certain hormones only mean something at specific times. Tubal or cavity testing gets scheduled around the centre's infection and cycle protocol and to avoid an existing pregnancy. Anyone quoting “day 2” or “day 21” without first defining day 1 and your actual cycle length is guessing.
 
-**Semen testing:** follow the receiving laboratory's written abstinence and collection instructions. If collection is off-site, confirm permitted transport time and temperature. Do not carry a sample across an international border without explicit legal and laboratory approval.
+**Semen testing:** follow the receiving laboratory's written abstinence and collection instructions exactly. For off-site collection, confirm the permitted transport time and temperature in advance. And never carry a sample across an international border without explicit legal and laboratory approval.
 
-**Review visit:** results should be discussed together, not released as unrelated red and green flags. Ask for a working diagnosis, degree of confidence, missing information, options and a ranked next step.
+**Review visit:** the results deserve to be read as one picture, with the red and green flags explained in context. Ask for a working diagnosis, the confidence behind it, what is still missing, the options and a ranked next step.
 
-**Targeted second stage:** repeat or specialist tests should be triggered by a finding. ESHRE notes that evidence for many additional tests in unexplained infertility is limited or very low quality.[8]
+**Targeted second stage:** every repeat or specialist test should trace back to a finding. ESHRE notes that the evidence behind many additional tests for unexplained infertility is limited or very low quality.[8]
 
 ### Decide which tests from home can safely be reused
 
-Repeating every test wastes time and money; accepting every outside result without scrutiny can also be unsafe. Before travel, ask the Chinese clinician to mark each result as **accepted**, **accepted if still within a stated date window**, **requires images or methods**, or **must be repeated**.
+Redoing every test wastes time and money. Taking every outside result at face value carries its own risks. Before you travel, ask the Chinese clinician to label each existing result **accepted**, **accepted if still within a stated date window**, **requires images or methods**, or **must be repeated**.
 
-Check:
+Run each one through this list:
 
 - patient name, date of birth and passport-name match;
 - specimen or examination date and cycle day;
@@ -117,17 +117,17 @@ Check:
 - whether infection tests meet the treatment laboratory's regulatory window; and
 - whether a translated report preserves numbers, symbols and qualifiers.
 
-An unexplained difference between two AMH or semen results should trigger a method and timing review before it is labelled rapid biological decline.
+Two AMH or semen results that disagree call for a review of method and timing first — “rapid biological decline” is a conclusion to reach only after that check.
 
 ### Verify the service when assessment may lead to assisted reproduction
 
-Some diagnostic work can occur in a general gynaecology, urology or andrology service. If the plan may proceed to insemination, IVF, ICSI or PGT, verify the exact institution and approved technology. China's National Health Commission maintains information on approved human assisted-reproduction institutions, while provincial authorities oversee planning, approval and supervision.[9][10]
+Plenty of the diagnostic work can happen in a general gynaecology, urology or andrology clinic. The moment the plan might move on to insemination, IVF, ICSI or PGT, verify the exact institution and which technologies it is approved for. China's National Health Commission publishes information on approved human assisted-reproduction institutions, and provincial authorities handle planning, approval and supervision.[9][10]
 
-Ask whether the assessment is performed by the same team that would deliver treatment, whether outside results enter the formal medical record, and whether a new consultation is required before treatment. A coordinator can arrange dates and translations but should not interpret ovarian reserve, semen quality or genetic risk.
+Three things to ask: does the team doing the assessment also deliver the treatment, do outside results go into the formal medical record, and is a fresh consultation required before treatment starts. A coordinator can book dates and arrange translations; interpreting ovarian reserve, semen quality or genetic risk is the doctor's job.
 
 ### Leave with a diagnostic map, even if there is no final diagnosis
 
-The written output should contain:
+The paperwork you leave with should spell out:
 
 - duration and route of trying to conceive;
 - reproductive diagnosis for each partner or participant;
@@ -139,23 +139,23 @@ The written output should contain:
 - additional tests, each linked to a decision; and
 - who reviews results and provides follow-up after return home.
 
-If the conclusion is “unexplained infertility,” confirm which basic domains were actually evaluated. If the conclusion is diminished ovarian reserve, ask what it predicts—usually stimulation response more than natural fertility—and what action changes now. If semen is abnormal, ensure the male patient receives appropriate clinical assessment rather than being reduced to an instruction to use ICSI.
+When the conclusion reads “unexplained infertility,” confirm that each basic domain was actually evaluated. When it reads diminished ovarian reserve, ask what that predicts — usually the response to stimulation more than natural fertility — and what it changes right now. When semen is abnormal, the male patient deserves a proper clinical assessment, something more than a one-line instruction to proceed to ICSI.
 
-**Medical disclaimer:** This article provides general education, not an individual fertility diagnosis or test order. Test selection and timing depend on age, anatomy, symptoms, pregnancy goals and the intended treatment. Seek urgent local care for severe pelvic or testicular pain, heavy bleeding, fainting or suspected ectopic pregnancy.
+**Medical disclaimer:** This article is general education. It does not provide an individual fertility diagnosis or order any test. Test selection and timing depend on age, anatomy, symptoms, pregnancy goals and the intended treatment. Get urgent local care for severe pelvic or testicular pain, heavy bleeding, fainting or suspected ectopic pregnancy.
 
 ## FAQ
 
 ### Is AMH a test of egg quality or the chance of natural pregnancy?
 
-No. AMH mainly helps estimate ovarian response and possible egg yield during stimulation. It must be interpreted with age, antral follicle count, history and treatment goal; it does not directly measure egg quality and is a poor stand-alone predictor of natural conception.[2][6]
+No. What AMH mainly estimates is how the ovaries are likely to respond to stimulation and how many eggs a cycle might yield. Read it together with age, antral follicle count, history and the treatment goal. It says nothing direct about egg quality, and on its own it predicts natural conception poorly.[2][6]
 
 ### Does one abnormal semen result mean male infertility is confirmed?
 
-Not by itself. Semen parameters vary, and collection, fever, abstinence, transport and laboratory methods affect results. The clinician may repeat the analysis and should arrange a male-reproductive evaluation when abnormalities persist or are severe.[3][4]
+Not on its own. Semen parameters fluctuate, and collection, recent fever, abstinence time, transport and laboratory method all feed into the numbers. The clinician may simply repeat the analysis, and should arrange a male-reproductive evaluation if abnormalities persist or look severe.[3][4]
 
 ### Do I need hysteroscopy and laparoscopy as part of the first work-up?
 
-Usually not routinely. Ultrasound and a tubal-patency test often answer the first anatomical questions. Hysteroscopy or laparoscopy is reserved for a suspected cavity, tubal, endometriosis or pelvic problem, or when an intervention is planned.[2]
+Usually they are not routine. Ultrasound plus a tubal-patency test covers the first anatomical questions in most cases. Hysteroscopy or laparoscopy comes in when a cavity, tubal, endometriosis or pelvic problem is suspected, or when an intervention is already planned.[2]
 
 ## SEO Metadata
 

@@ -87,19 +87,19 @@ Before departure, reconcile medicines, capture the final ECG and procedure/devic
 
 ## FAQ
 
-### 1. Can a person with heart disease fly safely?
+### Can a person with heart disease fly safely?
 
 Many stable patients can, but the diagnosis, symptoms, recent events, oxygen requirement and itinerary matter. Recent heart attack, acute heart failure, unstable angina, stenting, ablation, surgery or device implantation needs cardiology clearance [1].
 
-### 3. Can I bring a pacemaker or ICD through airport security?
+### Can I bring a pacemaker or ICD through airport security?
 
 Usually yes. Carry the device card, tell staff and follow the manufacturer’s screening instructions. Ask the cardiology team whether pre-travel interrogation or destination support is needed [1].
 
-### 4. Can I take extra diuretic for swollen ankles after flying?
+### Can I take extra diuretic for swollen ankles after flying?
 
 Only if the clinician prescribed that exact action. Dependent swelling, heart-failure congestion and a blood clot require different responses; extra diuretic can cause dehydration, kidney injury or low pressure.
 
-### 5. Which symptoms should not wait for the destination hospital?
+### Which symptoms should not wait for the destination hospital?
 
 New chest pressure, severe breathlessness, fainting, stroke signs, sustained symptomatic palpitations or repeated ICD shocks requires local emergency assessment. Do not extend the journey to reach a preferred facility.
 

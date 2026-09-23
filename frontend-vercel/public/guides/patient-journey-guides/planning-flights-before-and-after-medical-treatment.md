@@ -13,49 +13,49 @@
 
 ## Key Takeaways
 
-- A discharge note is not a fitness-to-fly certificate, and a clinician's note does not bind an airline to carry a passenger.
-- Assess cabin oxygen, expanding trapped gas, bleeding/infection, venous thrombosis, pain, cognition, mobility, medicines and device support for the actual route.
-- Fewer connections often reduce failure points, but total travel time, ground transfers, airport size and access to care also matter.
-- Request assistance by task: distance, stairs, transfer, cabin aisle chair, oxygen/device use, communication and baggage—not merely “wheelchair.”
-- Keep the return flight changeable until the treating team assesses the post-treatment condition and the airline confirms its requirements.
+- A discharge letter clears you to leave the ward; it says nothing about flying, and even a doctor's note can't force an airline to carry you.
+- For the exact route you're flying, someone has to weigh cabin oxygen, trapped gas expanding, bleeding and infection, vein clots, pain, alertness, mobility, medicines and device support.
+- Fewer connections usually mean fewer failure points — but total travel time, ground transfers, airport size and access to care count too.
+- Ask for assistance by task: walking distance, stairs, transfers, a cabin aisle chair, oxygen or devices, communication, baggage. Writing “wheelchair” alone won't cover it.
+- Keep the return ticket changeable until the treating team has assessed you after treatment and the airline has confirmed its requirements.
 
 ## Content
 
-The procedure date is not the centre of a safe flight plan. The centre is the patient's condition at each leg of the journey.
+A safe flight plan revolves around the patient's condition on each leg of the trip. The procedure date matters less than people assume.
 
-Two operations with the same name can produce different return dates because one patient has residual gas, another has anaemia or oxygen needs, and a third develops a wound problem. Replace “How many days after?” with “Which risks have resolved, what support is confirmed, and what would make us postpone?”
+Two patients can have the same operation and still fly home at different times — one has residual gas, another is anaemic or needs oxygen, a third develops a wound problem. So drop “How many days after?” and ask instead: which risks have settled, what support is confirmed, and what would make us postpone?
 
 ### Pass four gates
 
 #### Gate 1: clinical stability
 
-The responsible clinician evaluates the disease, recent procedure, current observations and the physiological stresses of the proposed route. CDC notes that commercial cabins are typically pressurised to an altitude equivalent of about 6,000–8,000 feet; reduced oxygen pressure can matter for cardiopulmonary, cerebrovascular and anaemic patients, while pressure changes can affect enclosed gas spaces [1].
+The responsible clinician weighs the diagnosis, the recent procedure, your current observations and the physiological stresses of the proposed route. CDC notes that commercial cabins are typically pressurised to an altitude equivalent of about 6,000–8,000 feet; lower oxygen pressure can matter for cardiopulmonary, cerebrovascular and anaemic patients, and pressure changes can act on enclosed gas spaces [1].
 
-Clinical review should cover:
+A sensible review covers:
 
-- oxygenation at rest and with the effort expected in the airport;
+- oxygenation at rest and during the effort an airport demands;
 - unresolved chest, abdominal, cranial, eye, sinus or ear gas/pressure concerns;
 - bleeding, wound, drain, infection and fever;
-- haemoglobin, hydration and metabolic stability when relevant;
-- pain, nausea, bowel/bladder access and ability to sit upright;
+- haemoglobin, hydration and metabolic stability where relevant;
+- pain, nausea, bowel/bladder access and the ability to sit upright;
 - delirium, seizure, stroke or cognitive risk;
-- recent thrombosis, anticoagulation and clot-prevention plan;
+- recent thrombosis, anticoagulation and the clot-prevention plan;
 - medicines, controlled drugs, cold chain and time zones;
-- need for oxygen, suction, CPAP, pump, monitor or medical escort.
+- any need for oxygen, suction, CPAP, pump, monitor or medical escort.
 
-Do not order every item as a universal test. The clinician selects what is relevant to the actual condition and journey.
+Nobody needs every item on that list as a blanket test. The clinician picks what fits the actual condition and the actual journey.
 
 #### Gate 2: airline medical acceptance
 
-Each operating airline applies its own process. It may request a medical information form, clinician statement, advance notice, approved oxygen concentrator, battery calculation, escort or additional seat. IATA's Medical Manual is an industry reference, but individual carriers retain operational procedures [2].
+Every operating airline runs its own process. It may ask for a medical information form, a clinician statement, advance notice, an approved oxygen concentrator, a battery calculation, an escort or an additional seat. IATA's Medical Manual is the industry reference, yet individual carriers keep their own operational procedures [2].
 
-Ask exactly what the airline needs and by when. “Fit to fly” letters should state observable facts and requirements, not guarantee that no complication will occur. If the itinerary has code shares, contact every operating carrier.
+Find out exactly what the airline wants and by when. “Fit to fly” letters should record observable facts and requirements; nobody can guarantee a complication-free flight. On a code-share itinerary, contact every carrier that operates a leg.
 
 #### Gate 3: airport and transfer feasibility
 
-A person can be stable in a hospital chair but unable to walk 800 metres, stand in security, transfer into a narrow aisle chair or manage an unexpected gate change. Chinese civil-aviation rules provide mobility assistance for eligible disabled passengers and describe airport, boarding and wheelchair services [3], but the passenger must request the tasks and provide notice or documentation where required.
+A person can look stable in a hospital chair and still be unable to walk 800 metres, stand through security, transfer into a narrow aisle chair or cope with a sudden gate change. Chinese civil-aviation rules provide mobility assistance for eligible disabled passengers and set out airport, boarding and wheelchair services [3] — but the passenger still has to request each task and give notice or documentation where required.
 
-Describe capability precisely:
+Spell out what you can and can't do:
 
 - Can walk distance / cannot manage distance;
 - Can use stairs / needs lift or level boarding;
@@ -66,13 +66,13 @@ Describe capability precisely:
 
 #### Gate 4: patient and companion execution
 
-Confirm that medicines, fluids, food, documents, devices, batteries and emergency contacts remain accessible. The patient/companion must understand what symptoms cancel travel and what to do during a connection. A premium seat may improve space, but it is not monitoring or nursing.
+Check that medicines, fluids, food, documents, devices, batteries and emergency contacts stay within reach the whole way. Patient and companion both need to know which symptoms cancel the trip and what to do mid-connection. A premium seat buys space. It buys no monitoring and no nursing.
 
 ### Plan the outbound journey before planning the return
 
-For the flight to China, choose an arrival buffer based on condition, jet lag, medication timing and the importance of the first appointment. Avoid landing immediately before a complex consent, bowel preparation, fasting test or admission deadline when a delay would make the plan unsafe.
+For the flight to China, size the arrival buffer to your condition, the jet lag, medication timing and how much rides on the first appointment. Landing right before a complex consent, a bowel preparation, a fasting test or a hard admission deadline leaves no slack — one delay and the plan turns unsafe.
 
-Send the hospital the actual arrival time, airport, ground route and assistance needs. Confirm whether deterioration before departure means local care instead of boarding. An appointment should not pressure a patient with new chest pain, severe breathlessness, bleeding, fever, confusion or neurological symptoms onto a plane.
+Send the hospital your actual arrival time, airport, ground route and assistance needs. Agree in advance that if you deteriorate before departure, you get local care rather than board. No appointment justifies flying with new chest pain, severe breathlessness, bleeding, fever, confusion or neurological symptoms.
 
 ### Compare routes by burden, not ticket price alone
 
@@ -88,72 +88,72 @@ Build a route table:
 | ground journey | traffic, vibration, sitting and access to emergency care |
 | change/refund rules | protects against clinical schedule change |
 
-The shortest airborne time is not always the lightest journey. A nonstop flight may be preferable to two rushed transfers; a well-planned overnight stop may be safer than a very long same-day route for another patient.
+The shortest time in the air doesn't always make the lightest journey. One patient does better on a nonstop than on two rushed transfers; another is safer breaking a very long same-day route with a well-planned overnight stop.
 
 ### Treat venous-thromboembolism risk separately
 
-Long-distance immobility, rather than aviation alone, contributes to travel-related venous stasis. CDC lists recent surgery, active cancer, previous VTE, pregnancy/postpartum and combinations of other factors among reasons for individual risk assessment [4].
+Long hours of immobility — more than the flight itself — drive travel-related venous stasis. CDC lists recent surgery, active cancer, previous VTE, pregnancy/postpartum and combinations of other factors among the reasons for an individual risk assessment [4].
 
-The plan may include movement, calf exercises, an aisle strategy, hydration, properly fitted compression or prescribed anticoagulant prophylaxis. These are not interchangeable, and aspirin or an anticoagulant should not be self-started for a flight. The treating clinician must balance clotting and bleeding.
+A plan may combine movement, calf exercises, an aisle strategy, hydration, properly fitted compression or prescribed anticoagulant prophylaxis. None of these substitutes for another, and no one should start aspirin or an anticoagulant on their own just for a flight. Balancing clotting against bleeding is the treating clinician's call.
 
-Record symptoms that require urgent assessment: new one-sided leg swelling/pain, sudden breathlessness, chest pain, coughing blood, fainting or unexplained rapid heart rate.
+Know the symptoms that demand urgent assessment: new one-sided leg swelling or pain, sudden breathlessness, chest pain, coughing blood, fainting or an unexplained rapid heart rate.
 
 ### Avoid universal postoperative countdowns
 
-Some references give minimum intervals for selected uncomplicated conditions; CDC, for example, flags recent abdominal, cardiothoracic and intraocular surgery for physician review and its pre-travel chapter gives broad examples [1][5]. These are screening guides, not personalised clearance.
+Some references publish minimum intervals for selected uncomplicated conditions; CDC, for one, flags recent abdominal, cardiothoracic and intraocular surgery for physician review, and its pre-travel chapter gives broad examples [1][5]. Treat those as screening prompts — they don't amount to personalised clearance.
 
-The return decision must account for procedure technique, residual gas, complications, wound, haemoglobin, oxygen, anticoagulation, mobility and route. Ask the surgeon or treating clinician to write postponement triggers, not merely a date.
+What actually decides the return is the technique used, residual gas, complications, the wound, haemoglobin, oxygen, anticoagulation, mobility and the route. Ask the surgeon or treating clinician to write down postponement triggers, not just circle a date.
 
 ### Book the return as a window
 
-Before treatment, reserve a changeable option or fare range rather than an immovable day. Define:
+Before treatment, reserve a changeable option or a fare range instead of locking in one day. Pin down:
 
-- earliest plausible clinical review—not guaranteed departure;
-- local recovery location and responsible clinician;
-- last affordable change/cancellation point;
-- visa/stay deadline and extension plan;
-- home clinician appointment after arrival;
-- funding if recovery lasts one or two weeks longer.
+- the earliest plausible clinical review — with no promise you fly that day;
+- where you'll recover locally and which clinician is responsible;
+- the last affordable change/cancellation point;
+- the visa/stay deadline and how you'd extend;
+- the home clinician appointment after arrival;
+- who pays if recovery runs one or two weeks longer.
 
-CDC's medical-tourism guidance warns that postoperative travel can add clot risk and that complications require prompt care, not continued holiday activity or delayed assessment [6]. Budget for the boring outcome: extra hotel nights near the hospital.
+CDC's medical-tourism guidance warns that travelling soon after a procedure can add clot risk, and that complications call for prompt care — pushing on with the holiday or waiting it out doesn't [6]. Budget for the dull outcome: extra hotel nights near the hospital.
 
 ### Build the medical-clearance packet
 
-The airline-facing packet and hospital record are different. Provide the airline only what its process requires. The clinician document may include diagnosis in necessary terms, treatment/procedure and date, current stability, oxygen/device need, mobility/escort requirement, medicines during flight, infectiousness where relevant, and clinician contact.
+The packet the airline sees and your hospital record are two different things. Give the airline only what its process asks for. The clinician's document may cover the diagnosis in necessary terms, the treatment/procedure and date, current stability, oxygen or device need, mobility/escort requirement, medicines during the flight, infectiousness where relevant, and a clinician contact.
 
-Carry a separate patient packet: discharge summary, medicines/allergies, operation/device information, warning signs, insurance and receiving clinician. Protect privacy; do not send a complete cancer or fertility record to a generic airline inbox.
+Carry a second packet for yourself: discharge summary, medicines/allergies, operation and device information, warning signs, insurance and the receiving clinician. Guard your privacy — a complete cancer or fertility record should never land in a generic airline inbox.
 
 ### Plan cabin tasks hour by hour
 
-Write an actual schedule for medicines, meals/fasting, hydration, movement, compression use, device checks, toileting and connection time. Account for time zones only after the prescribing clinician approves the method. Keep critical supplies and delay reserve in carry-on.
+Write an actual schedule for medicines, meals/fasting, hydration, movement, compression use, device checks, toileting and connection time. Shift anything across time zones only after the prescribing clinician approves the method. Critical supplies, plus a delay reserve, go in carry-on.
 
-For oxygen or powered devices, calculate battery life for the carrier's required contingency, not simply scheduled flight time. Airport delays and diversions consume power. Verify voltage and replacement support at destination.
+With oxygen or powered devices, calculate battery life against the contingency the carrier requires, which runs longer than scheduled flight time. Airport delays and diversions burn power. Check the voltage and replacement support waiting at your destination.
 
 ### Establish stop rules
 
-Do not board—or seek urgent assessment—if the treating team has defined red flags such as new hypoxia, unstable chest symptoms, active bleeding, uncontrolled vomiting, fever with immune suppression, acute confusion, new neurological deficit or suspected thrombosis. During travel, alert crew early rather than waiting for collapse.
+If the treating team has defined red flags — new hypoxia, unstable chest symptoms, active bleeding, uncontrolled vomiting, fever with immune suppression, acute confusion, a new neurological deficit, suspected thrombosis — you don't board, or you seek urgent assessment first. Mid-journey, alert the crew early. Waiting until someone collapses helps no one.
 
-After arrival, disclose the international treatment and flight history to clinicians. Delayed infection or thrombosis can present after the journey.
+Once you arrive, tell clinicians about the international treatment and the flight history. Infection or thrombosis can show up after the journey is over.
 
-**Medical and aviation disclaimer:** Fitness to fly is patient-, treatment-, route- and time-specific. This guide does not clear a passenger or guarantee carriage. The treating clinician, airline and relevant airport/transport providers must confirm their parts of the plan.
+**Medical and aviation disclaimer:** Fitness to fly depends on the patient, the treatment, the route and the timing. This guide clears no passenger and guarantees no carriage. The treating clinician, the airline and the relevant airport/transport providers each confirm their own part of the plan.
 
 ## FAQ
 
 ### Does hospital discharge mean I can fly home?
 
-No. Discharge addresses inpatient need. Flight adds cabin pressure, immobility, airport exertion and limited medical access and requires a separate assessment.
+No. Discharge only settles that you no longer need inpatient care. Flying adds cabin pressure, hours of immobility, airport exertion and limited access to medical help, so it needs its own assessment.
 
 ### How many days after surgery is flying safe?
 
-There is no universal number. The operation, residual gas, bleeding/infection, oxygen, anaemia, clot risk, mobility, complications and route determine the decision.
+There is no universal number. The operation, residual gas, bleeding/infection, oxygen, anaemia, clot risk, mobility, complications and the route decide it together.
 
 ### Should I take aspirin or an anticoagulant for a long flight?
 
-Do not self-start either. A clinician should assess clot and bleeding risk and choose movement, compression or medicine only when appropriate.
+Not on your own. A clinician should weigh clot risk against bleeding risk and only then choose movement, compression or a medicine when it fits.
 
 ### What airport assistance should I request?
 
-Describe tasks: walking distance, stairs, transfers, cabin aisle chair, toileting, baggage, communication and device/oxygen support. A generic wheelchair request may not cover the real barrier.
+Describe the tasks: walking distance, stairs, transfers, a cabin aisle chair, toileting, baggage, communication, device or oxygen support. A generic “wheelchair” request can miss the real barrier entirely.
 
 ## SEO Metadata
 

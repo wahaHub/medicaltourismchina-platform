@@ -13,17 +13,17 @@
 
 ## Key Takeaways
 
-- Protons and carbon ions can concentrate dose at a planned depth and reduce exit dose, but a better-looking dose distribution does not automatically mean better survival or fewer side effects [4].
-- Carbon ions differ from protons biologically as well as physically. Their relative biological effectiveness is modelled, varies along the beam and cannot be compared by prescription numbers alone [8].
-- The relevant question is whether a particle plan creates a meaningful advantage over a high-quality photon plan for this tumour, anatomy, motion pattern and prior radiation history.
-- Particle therapy is local treatment. It does not treat undiscovered distant metastases and does not replace surgery or systemic therapy when those are needed.
-- In China, proton and heavy-ion systems are nationally managed Class A large medical equipment, and clinical use is subject to institution, staffing, multidisciplinary and quality-control requirements [1][2].
+- Protons and carbon ions can put most of their dose at a planned depth and cut the exit dose behind the tumour. A prettier dose distribution, though, does not by itself mean longer survival or fewer side effects [4].
+- Carbon ions differ from protons in biology as well as physics. Their relative biological effectiveness comes out of a model and changes along the beam path, so two carbon prescriptions cannot be compared by the numbers alone [8].
+- The question worth asking is narrow: does a particle plan offer a real advantage over a good photon plan for this tumour, this anatomy, this motion pattern and this radiation history?
+- Particle therapy treats one site. It does nothing about distant metastases that have not been found yet, and when surgery or systemic therapy is needed, it cannot stand in for them.
+- In China these systems are Class A large medical equipment under national management, and clinical use comes with requirements on the institution, its staff, multidisciplinary review and quality control [1][2].
 
 ## Content
 
-Patients are often shown a diagram in which a particle beam stops inside a tumour while an X-ray beam continues through the body. The physical idea is real, but the clinical decision is more complicated. A tumour has volume, motion and microscopic risk around it; beams enter through normal tissue; biological effect and range must be modelled; and the plan has to be delivered accurately over repeated sessions.
+Most patients first meet particle therapy as a diagram: the particle beam stops inside the tumour while the X-ray beam keeps going through the body. The physics in that picture is real. The clinical decision around it is messier. A tumour has volume, motion and a margin of microscopic risk; every beam passes through normal tissue on the way in; biological effect and range have to be modelled; and the chosen plan must be delivered accurately session after session.
 
-Particle therapy is one way to deliver external-beam radiotherapy. Like photon treatment, it damages tumour-cell DNA. It is not a particle drug circulating through the body, and the patient does not remain radioactive after an ordinary external-beam session.
+Particle therapy is external-beam radiotherapy delivered with a different beam. It kills tumour cells the same way photons do, by damaging their DNA. Nothing circulates through the body like a drug, and after an ordinary session the patient is not radioactive.
 
 ### Proton and carbon-ion therapy are not interchangeable
 
@@ -35,107 +35,107 @@ Particle therapy is one way to deliver external-beam radiotherapy. Like photon t
 | Evidence base | broader use and more comparative trials in selected diseases | fewer centres, more single-centre or non-randomised data; comparative evidence remains limited for many indications |
 | Typical decision | whether normal-tissue sparing justifies it over modern photons | whether both physical and biological rationale justify it over photons or protons |
 
-The National Cancer Institute explains the central proton advantage as reducing radiation delivered beyond the tumour, while also noting that clinical trials continue to compare protons with photons [4]. Carbon ions can produce denser ionisation and potentially greater biological effect, but they also affect normal tissue. Different centres may use different RBE models, so a carbon prescription in Gy(RBE) is not a simple physical dose and may not be transferable directly between institutions [8].
+The National Cancer Institute describes the main proton advantage as less radiation delivered beyond the tumour — and in the same breath points out that trials are still comparing protons with photons [4]. Carbon ions ionise more densely and may hit harder biologically, but they hit normal tissue too. Centres do not all use the same RBE model, so a carbon prescription written in Gy(RBE) is not a plain physical dose, and it does not carry directly from one institution to another [8].
 
 ### Ask for three plans, not three slogans
 
-When a decision is genuinely uncertain, the most informative comparison is often:
+When the choice is genuinely uncertain, the comparison that tells you the most is usually:
 
-1. a contemporary photon plan, usually IMRT or VMAT;
-2. a proton plan using the centre’s deliverable technique;
-3. a carbon-ion plan if carbon therapy is clinically relevant and available.
+1. a current photon plan, usually IMRT or VMAT;
+2. a proton plan built on the technique that centre can actually deliver;
+3. a carbon-ion plan, if carbon therapy makes clinical sense here and is available.
 
-Compare the same target volumes, prescription goal and organ-at-risk constraints. Look beyond colourful dose clouds. Ask for dose–volume results for the structures that drive this patient’s risk: brainstem, optic pathways, spinal cord, cochlea, heart, lungs, bowel, kidneys, bone marrow or growth plates, depending on the case.
+Insist that all three use the same target volumes, the same prescription goal and the same organ-at-risk constraints. Then look past the colourful dose clouds and ask for dose–volume numbers on the structures that actually drive this patient’s risk: brainstem, optic pathways, spinal cord, cochlea, heart, lungs, bowel, kidneys, bone marrow or growth plates, depending on the case.
 
-A plan may reduce low-dose exposure across a large body volume but have little effect on the highest dose to the critical structure that limits treatment. Another plan may improve one organ while making range or motion more fragile. The radiation oncologist and medical physicist should explain which difference is large enough to matter clinically.
+One plan may wash a large body volume in less low-dose radiation yet barely change the peak dose to the structure that limits treatment. Another may spare one organ and, in exchange, become more sensitive to range or motion. Someone has to translate that into clinical terms, so ask the radiation oncologist and the medical physicist which difference is big enough to matter.
 
 ### Where a strong rationale may exist
 
-Particle therapy is often considered when high dose must be placed beside a critical organ, when integral dose is especially important, or when prior radiation leaves little normal-tissue reserve. Examples can include selected paediatric cancers, skull-base chordoma or chondrosarcoma, ocular or central nervous system tumours, certain head-and-neck or paraspinal tumours, and carefully selected reirradiation cases. This is not an automatic eligibility list.
+Particle therapy earns its keep when a high dose has to sit right next to a critical organ, when the total dose to the body matters most, or when earlier radiation has used up the normal-tissue reserve. Typical examples: selected paediatric cancers, skull-base chordoma or chondrosarcoma, ocular or central nervous system tumours, some head-and-neck or paraspinal tumours, and carefully chosen reirradiation. None of these means automatic eligibility.
 
-Age, pathology, target geometry, curative or palliative goal, expected survival, prior surgery, systemic therapy, metastatic burden and ability to reproduce the treatment position all change the balance. For a widely metastatic cancer, highly specialised local dose shaping may not address the dominant risk. For a small superficial target, photons or electrons may already provide an excellent plan.
+Age, pathology, target geometry, curative or palliative intent, expected survival, prior surgery, systemic therapy, metastatic burden, even the ability to lie in the same position every day — each of these shifts the balance. A widely metastatic cancer is usually threatened by something local dose shaping cannot reach. A small superficial target may already have an excellent photon or electron plan.
 
 ### Dosimetry and clinical benefit are different levels of evidence
 
-Randomised trials show why both should be discussed.
+The randomised trials so far show why both deserve a hearing.
 
-In locally advanced oesophageal cancer, a phase II randomised trial found a lower total toxicity burden with proton therapy than IMRT, while three-year progression-free and overall survival were similar [6]. This supports a toxicity benefit in that tested pathway; it does not prove that protons improve survival or that every oesophageal plan gains equally.
+In locally advanced oesophageal cancer, a phase II randomised trial found a lower total toxicity burden with protons than with IMRT, while three-year progression-free and overall survival came out similar [6]. That is a real toxicity benefit in the pathway tested. It does not show that protons extend survival, and it does not mean every oesophageal plan gains the same amount.
 
-In an adaptive randomised trial for locally advanced non-small-cell lung cancer, passive-scattering proton therapy reduced several cardiac dose measures but did not reduce the prespecified endpoints of severe radiation pneumonitis or local failure compared with IMRT [7]. Technique, planning and learning curve also evolved during the study.
+The adaptive randomised trial in locally advanced non-small-cell lung cancer went the other way on dosimetry: passive-scattering protons improved several cardiac dose measures, yet the prespecified endpoints — severe radiation pneumonitis and local failure — were no better than with IMRT [7]. And technique, planning and the learning curve were all still moving during the study.
 
-Carbon-ion data are even more indication-specific. In the 2024 ISAC randomised phase II trial for inoperable or incompletely resected sacrococcygeal chordoma, proton and carbon-ion groups had no significant outcome difference; local control was not sustained as strongly as hoped, and grade 4 wound-healing events occurred [9]. A systematic review of charged particles for spinal and sacral chordoma/sarcoma found predominantly lower-level, high-bias evidence and called for direct comparisons [10]. Promising is not the same as proven superior.
+Carbon-ion evidence is narrower still, indication by indication. In the 2024 ISAC randomised phase II trial for inoperable or incompletely resected sacrococcygeal chordoma, the proton and carbon-ion arms showed no significant outcome difference; local control did not hold up as well as hoped, and grade 4 wound-healing events occurred [9]. A systematic review of charged particles for spinal and sacral chordoma/sarcoma found mostly lower-level, high-bias evidence and asked for direct comparisons [10]. Promising and proven superior are two different words.
 
 ### Range, motion and anatomy can change the delivered dose
 
-Charged particles stop according to the material they traverse. Air cavities, bowel gas, dental metal, tumour shrinkage, weight loss, fluid, inflammation and day-to-day positioning can shift the path or endpoint. Breathing and organ motion complicate thoracic and upper-abdominal treatment. A beam that is beautifully shaped on planning CT can become less robust if anatomy changes.
+A charged particle stops where the material in its path tells it to stop. Air cavities, bowel gas, dental metal, a shrinking tumour, weight loss, fluid, inflammation and small differences in daily set-up can all move the endpoint. Breathing and organ motion make the chest and upper abdomen harder still. A beam that looks beautifully shaped on the planning CT can turn fragile once the anatomy shifts.
 
-Ask how the centre manages:
+It is fair to ask how the centre handles:
 
 - four-dimensional CT and respiratory motion;
-- immobilisation and image guidance at each fraction;
-- robust optimisation and range uncertainty;
-- dental artefact, implants and variable cavities;
-- scheduled or trigger-based repeat CT and replanning;
-- machine downtime and interruption;
-- independent plan and patient-specific quality assurance.
+- immobilisation, and image guidance at every fraction;
+- robust optimisation and range-uncertainty margins;
+- dental artefact, implants and cavities that change;
+- repeat CT and replanning, whether scheduled or triggered;
+- machine downtime and treatment interruptions;
+- independent plan checks and patient-specific quality assurance.
 
-China’s WS 816—2023 standard, effective from March 2024, addresses quality-control testing for medical proton and heavy-ion equipment [3]. Equipment QA is essential, but patient-specific planning, verification and clinical review are separate responsibilities.
+China’s WS 816—2023 standard, in force since March 2024, covers quality-control testing for medical proton and heavy-ion equipment [3]. Passing equipment QA says nothing by itself about patient-specific planning, verification and clinical review; those are separate responsibilities.
 
 ### Reirradiation needs the first course, not a verbal summary
 
-For previous radiotherapy, provide the original DICOM RT plan, structure set, dose and treatment record—not only a discharge note saying “received 60 Gy.” The new team needs to reconstruct cumulative dose to critical organs, account for different fraction sizes and estimate uncertainty from anatomical change.
+If you have had radiotherapy before, bring the original DICOM RT plan, structure set, dose and treatment record. A discharge note that says “received 60 Gy” is not enough. The new team has to reconstruct the cumulative dose to critical organs, account for the different fraction sizes and estimate how much uncertainty the anatomical change adds.
 
-Particle therapy may reduce additional dose to some tissue, but it does not reset prior injury. Necrosis, vascular injury, fracture, neuropathy, fistula and impaired wound healing remain possible. A centre should state what prior records are missing, what assumptions it used and how that uncertainty changes consent.
+A particle plan can limit the new dose to some tissue; it cannot undo the injury already there. Necrosis, vascular injury, fracture, neuropathy, fistula and poor wound healing all remain possible. Ask the centre to spell out which prior records are missing, what assumptions it worked with and how that uncertainty is reflected in the consent discussion.
 
 ### How to verify a Chinese particle centre
 
-Under China’s 2023 equipment catalogue, heavy-ion and proton radiotherapy systems are Class A large medical equipment managed at national level [1]. The 2022 clinical-application standard requires an institution capable of comprehensive cancer care, trained radiation oncologists and physicists, multidisciplinary decision-making, informed consent and quality systems [2].
+China’s 2023 equipment catalogue puts heavy-ion and proton radiotherapy systems in Class A — large medical equipment managed at national level [1]. The 2022 clinical-application standard then requires an institution with comprehensive cancer-care capability, trained radiation oncologists and physicists, multidisciplinary decision-making, informed consent and quality systems [2].
 
-Ask for evidence that applies to the exact site and current service:
+Then ask for evidence that fits the exact site and the current service:
 
-- the institution’s equipment configuration/use authorisation and radiation-practice permissions;
-- whether the proton or carbon room is treating patients routinely or commissioning a new service;
-- the named radiation oncologist and physicist, with disease-specific particle experience;
-- annual patient numbers for the proposed disease and technique;
+- the institution’s equipment configuration/use authorisation, plus its radiation-practice permissions;
+- whether the proton or carbon room treats patients routinely or is still commissioning a new service;
+- the named radiation oncologist and physicist, and their particle experience in this disease;
+- how many patients a year they treat with this disease and this technique;
 - access to pathology, surgery, medical oncology, imaging, anaesthesia and emergency care;
-- machine uptime, backup arrangements and rules for transferring to photons during a prolonged outage;
-- prospective outcome and toxicity review.
+- machine uptime, backup arrangements, and the rule for switching to photons if an outage drags on;
+- whether outcomes and toxicity are reviewed prospectively.
 
-Owning the equipment does not by itself prove appropriate selection or a better plan.
+A licence to own the machine proves neither patient selection nor plan quality.
 
 ### The treatment pathway is longer than beam-on time
 
-The workflow commonly includes pathology and staging review, multidisciplinary discussion, immobilisation, planning CT (sometimes MRI or PET fusion and four-dimensional imaging), contouring, plan optimisation, physics checks, image-guided fractions and scheduled on-treatment review. Custom masks, body moulds, bite blocks or motion devices may be needed.
+The workflow usually runs through pathology and staging review, multidisciplinary discussion, immobilisation, a planning CT (sometimes with MRI or PET fusion and four-dimensional imaging), contouring, plan optimisation, physics checks, image-guided fractions and scheduled reviews during treatment. Depending on the site, you may also need a custom mask, body mould, bite block or motion device.
 
-Ask for the expected number of fractions, days between simulation and first treatment, planned breaks, review schedule and criteria for replanning. Fewer carbon-ion fractions do not automatically mean less biological intensity or lower risk. The dose per fraction, RBE model, target and normal tissues all matter.
+Get the expected number of fractions, the days between simulation and first treatment, any planned breaks, the review schedule and the criteria for replanning. A shorter carbon-ion course is not automatically gentler biologically or safer; dose per fraction, RBE model, target and normal tissues all enter that calculation.
 
 ### Side effects follow the treated anatomy
 
-There is no single “proton side-effect list.” Acute effects can include fatigue, skin reaction, mucosal inflammation, swallowing difficulty, nausea, diarrhoea, urinary symptoms, marrow suppression or site-specific pain. Late effects can include fibrosis, endocrine dysfunction, organ injury, vascular effects, neuropathy, fracture, impaired growth, cognitive or sensory change and second malignancy.
+No single “proton side-effect list” exists, because the side effects belong to the anatomy being treated. Acute effects can include fatigue, skin reaction, mucosal inflammation, swallowing difficulty, nausea, diarrhoea, urinary symptoms, marrow suppression or site-specific pain. Late effects can include fibrosis, endocrine dysfunction, organ injury, vascular effects, neuropathy, fracture, impaired growth, cognitive or sensory change and second malignancy.
 
-Lower normal-tissue dose may reduce some risks, especially where long survival makes late effects important, but no beam removes all entrance dose, uncertainty or biological injury. Ask for absolute risk estimates for the organs relevant to the plan and for the centre’s follow-up schedule.
+Less dose to normal tissue may cut some of these risks, which matters most when long survival gives late effects time to appear. Even so, every beam has an entrance dose, every plan carries uncertainty, and biological injury cannot be modelled away. Ask for absolute risk estimates for the organs in your plan, and for the centre’s follow-up schedule.
 
 ### Cross-border cost and timing questions
 
-Request separate figures for medical review, pathology/imaging review, simulation, immobilisation, planning, each fraction, image guidance, anaesthesia if required, medicines, accommodation, replanning and follow-up. Clarify what happens financially if the final plan shows little advantage, the patient becomes ineligible, the machine stops or treatment must switch to photons.
+Ask for the costs as separate line items: medical review, pathology and imaging review, simulation, immobilisation, planning, each fraction, image guidance, anaesthesia if required, medicines, accommodation, replanning, follow-up. Then pin down what happens to your money if the final plan shows little advantage, if the patient turns out ineligible, if the machine stops or if treatment has to switch to photons.
 
-Do not book a non-refundable stay based on a marketing review. A provisional opinion cannot confirm deliverability until images, pathology, staging, previous radiation and simulation are adequate. Before leaving China, obtain the treatment summary, prescription and delivered fractions, planning report, dose–volume information, toxicity record, follow-up plan and—when transferable—the DICOM RT dataset.
+Hold off on any non-refundable stay until the review is more than a marketing exercise. A provisional opinion cannot confirm deliverability until the images, pathology, staging, previous radiation and simulation are all adequate. Before leaving China, collect the treatment summary, the prescription and delivered fractions, the planning report, dose–volume information, the toxicity record, the follow-up plan and — where transferable — the DICOM RT dataset.
 
-**Medical disclaimer:** This guide does not determine whether proton or carbon-ion therapy is appropriate. Selection requires pathology, staging, complete imaging, comparison with other treatments and a deliverable radiation plan reviewed by qualified specialists.
+**Medical disclaimer:** This guide cannot tell you whether proton or carbon-ion therapy is appropriate for you. That choice depends on pathology, staging, complete imaging, a comparison with the other treatments and a deliverable radiation plan reviewed by qualified specialists.
 
 ## FAQ
 
 ### Does no exit dose mean no side effects?
 
-No. There is entrance dose, the target includes nearby tissue and range/motion uncertainty remains. Effects depend on the organ, total and fraction dose, prior treatment and actual plan.
+No. Every beam has an entrance dose, the target volume includes nearby tissue, and range and motion uncertainty never fully disappear. What you actually experience depends on the organ, the total and fraction dose, any prior treatment and the plan itself.
 
 ### Is proton therapy always better for children?
 
-Reducing integral dose can be especially valuable for growing tissues and long-term survivors, but the indication, anaesthesia needs, motion, target and available photon plan still require individual comparison.
+Lower integral dose matters a great deal for growing tissues and for children with decades of life ahead. Even so, the indication, the anaesthesia needs, motion, the target and the available photon plan all have to be compared case by case.
 
 ### How can I compare two centres’ quotations?
 
-Compare the exact particle and technique, fractions, included planning and imaging, clinician and physicist review, replanning, management of interruption, follow-up and what happens if particle treatment is not ultimately deliverable.
+Line them up on the specifics: the exact particle and technique, the number of fractions, what planning and imaging are included, clinician and physicist review, replanning, how interruptions are handled, follow-up, and the fallback if particle treatment turns out not to be deliverable.
 
 ## SEO Metadata
 

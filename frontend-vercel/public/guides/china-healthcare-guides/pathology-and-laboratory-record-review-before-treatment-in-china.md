@@ -13,21 +13,21 @@
 
 ## Key Takeaways
 
-- Pathology review is a new specialist interpretation of source material. Translating the old report is useful, but it is not a pathology second opinion.
-- Send the final report, every addendum, specimen and block identifiers, representative slides or digital images, and the clinical question. A report without the underlying specimen may limit what can be confirmed.
-- Biomarker results must be tied to the tested specimen, method, date and disease context. A “negative” result may reflect specimen quality or assay limits as well as biology.[1]
-- Laboratory trends need collection dates, units, reference ranges and the timing of treatment, transfusion or other interventions. Different laboratories may use different methods and ranges.[2]
-- The treating team—not the courier or coordinator—decides whether review can safely delay treatment and which safety tests must be repeated after arrival.
+- A pathology review is a fresh specialist interpretation of the source material. Translating the old report helps, but translation by itself does not amount to a pathology second opinion.
+- Send the final report, every addendum, specimen and block identifiers, representative slides or digital images, and the clinical question. When the report travels without the underlying specimen, there is a limit to what any reviewer can confirm.
+- Biomarker results must be tied to the tested specimen, method, date and disease context. A “negative” result can say as much about specimen quality or assay limits as about the biology itself.[1]
+- Laboratory trends need collection dates, units, reference ranges and the timing of treatment, transfusion or other interventions. Methods and ranges can differ from one laboratory to the next.[2]
+- Whether review may safely delay treatment, and which safety tests must be repeated after arrival, are decisions for the treating team. Couriers and coordinators do not make them.
 
 ## Content
 
-Treatment can depend on a single line in a report: the tumour type, margin status, receptor expression, a molecular alteration, renal function or a clotting result. The purpose of pre-treatment review is not to repeat every test. It is to establish whether the result being used is the right result, from the right patient and specimen, obtained by a suitable method at a clinically relevant time.
+Treatment can hinge on a single line in a report: the tumour type, margin status, receptor expression, a molecular alteration, renal function or a clotting result. So before treatment starts, someone has to confirm that the result about to drive the decision is the right result — from the right patient and the right specimen, obtained by a suitable method at a clinically relevant time. Nobody is asking you to repeat every test.
 
-That requires two different reviews. A pathologist examines tissue or cells and interprets disease. The treating team and laboratory specialists then decide whether blood, urine or other laboratory results are current and comparable enough to support the planned therapy.
+That takes two separate reviews. A pathologist examines tissue or cells and interprets the disease. The treating team and laboratory specialists then judge whether blood, urine or other laboratory results are recent and comparable enough to carry the planned therapy.
 
 ## Start With the Decision the Result Must Support
 
-Ask the receiving team to complete this sentence: “Before we can recommend or begin treatment, we need to confirm…”
+Ask the receiving team to finish this sentence: “Before we can recommend or begin treatment, we need to confirm…”
 
 Possible answers include:
 
@@ -38,17 +38,17 @@ Possible answers include:
 - Whether blood counts, kidney, liver or coagulation status permit treatment now
 - Whether an abnormal laboratory result is persistent, treatment-related or technically suspect
 
-This keeps the review proportional. A complete rework of all old testing may waste tissue, money and time; a review that omits the treatment-defining question is equally unhelpful.
+That sentence keeps the review at the right scale. Re-running every old test can waste tissue, money and time. Skipping the question the treatment actually depends on is just as wasteful.
 
 ## What Belongs in a Pathology Review Packet
 
 ### All report versions
 
-Include the original-language preliminary report, final report and every addendum or amendment. File them separately and label their status. The newest page is not always a replacement; an addendum may supplement rather than cancel the main diagnosis.
+Include the original-language preliminary report, the final report and every addendum or amendment. File them separately and label each one’s status. The newest page does not always replace what came before. An addendum often just adds to the main diagnosis.
 
 ### Specimen identity
 
-Record the patient name and identifier used by the original laboratory, accession or pathology number, collection date, specimen site and side, procedure type and reporting institution. The National Health Commission’s pathology guidance requires reports to include identifiers, specimen site, pathology number, diagnosis, reporting physician and time.[3]
+Record the patient name and identifier used by the original laboratory, the accession or pathology number, collection date, specimen site and side, procedure type and reporting institution. The National Health Commission’s pathology guidance requires reports to include identifiers, specimen site, pathology number, diagnosis, reporting physician and time.[3]
 
 ### Material available for review
 
@@ -62,17 +62,17 @@ Ask the reviewing laboratory exactly what it accepts:
 - Digital whole-slide images
 - Molecular raw data or variant files, where useful
 
-Do not send the only block until release, tracking, return and tissue-use terms are clear. Chinese guidance requires medical institutions to maintain systems for borrowing and consultation involving slides and smears.[3]
+If you hold the only block, keep it until the release, tracking, return and tissue-use terms are clear. Chinese guidance requires medical institutions to maintain systems for borrowing and consultation involving slides and smears.[3]
 
 ### Clinical context
 
-Provide a concise history, imaging site, prior therapy, operative note and the question being asked. A pathologist should not have to infer whether “lung lesion” means a primary lung tumour or possible metastasis from a prior cancer.
+Provide a concise history, the imaging site, prior therapy, the operative note and the question being asked. No pathologist should have to guess whether “lung lesion” means a primary lung tumour or possible metastasis from a prior cancer.
 
 ## Report Translation Versus Pathology Re-Review
 
-A translated report tells the Chinese team what the original pathologist wrote. A re-review asks another pathologist to evaluate the available slides, images or material and issue their own interpretation.
+A translated report tells the Chinese team what the original pathologist wrote. A re-review puts the available slides, images or material in front of a second pathologist, who then issues their own interpretation.
 
-Both can be useful. They answer different questions.
+Both can be useful, but they answer different questions.
 
 For a re-review, ask whether the output will be:
 
@@ -85,7 +85,7 @@ NCI explains that a pathology second opinion may require slides and/or a paraffi
 
 ## When Two Pathologists Disagree
 
-A discrepancy does not automatically prove negligence. Differences can arise from new slides, additional immunostains, evolving classification, specimen limitations or genuine interpretive uncertainty.
+Two reports that disagree do not by themselves prove negligence. New slides, additional immunostains, an evolving classification, specimen limitations or genuine interpretive uncertainty can all produce a different reading.
 
 Ask the Chinese reviewer to identify:
 
@@ -95,7 +95,7 @@ Ask the Chinese reviewer to identify:
 - Whether another subspecialty review or test could resolve it
 - Which report should be treated as current and how the original institution will be notified
 
-Preserve both reports. Do not edit the first PDF to match the second. The treatment team needs the diagnostic history, including uncertainty.
+Keep both reports on file. Never edit the first PDF to match the second — the treatment team needs the diagnostic history, uncertainty included.
 
 ## Protect Limited Tissue
 
@@ -108,11 +108,11 @@ A small biopsy can be exhausted by repeated stains and broad sequencing. Before 
 - Will the block be returned, and what material is expected to remain?
 - Is a new biopsy clinically safer or more informative than consuming the old sample?
 
-This is a clinical prioritisation decision. “Run every panel” is not automatically comprehensive care.
+Choosing what runs first is a clinical prioritisation call. Ordering every available panel can burn through the tissue without making the care any better.
 
 ## Read Biomarker Reports in Context
 
-Biomarker testing may examine genes, proteins or other features to help select treatment, but it does not help every patient and results are a snapshot of one sample at one time.[1]
+Biomarker testing looks at genes, proteins or other features to help select treatment. It does not help every patient, and each result is a snapshot of one sample at one time.[1]
 
 For each result, identify:
 
@@ -126,9 +126,9 @@ For each result, identify:
 - Whether the result is pathogenic, likely pathogenic, uncertain or otherwise classified
 - Which clinician or molecular team interprets treatment relevance
 
-A variant of uncertain significance is not automatically a treatment target. A “no alteration detected” result does not prove that no relevant alteration exists if the panel was narrow, tumour content low or the specimen old. NCI notes that tissue can be insufficient, tests can find no actionable marker, and tumour biomarkers can change over time.[1]
+A variant of uncertain significance should not be treated as a drug target on its own. And when a report says “no alteration detected,” read the fine print first: a narrow panel, low tumour content or an old specimen can all hide a relevant alteration. NCI notes that tissue can be insufficient, tests can find no actionable marker, and tumour biomarkers can change over time.[1]
 
-Separate tumour (somatic) testing from inherited (germline) testing. A possible inherited finding may require confirmation in a suitable normal sample and genetics counselling; it should not be communicated to relatives as a confirmed hereditary diagnosis from tumour-only testing.
+Keep tumour (somatic) testing apart from inherited (germline) testing. A possible inherited finding usually needs confirmation in a suitable normal sample, plus genetics counselling. Relatives should not hear “confirmed hereditary diagnosis” on the strength of tumour-only testing.
 
 ## Build Laboratory Trends Without Inventing Comparability
 
@@ -143,17 +143,17 @@ For each treatment-relevant laboratory result, preserve:
 - Fasting or timing condition when relevant
 - Relationship to treatment, transfusion, dialysis, growth factor, steroids or another intervention
 
-Reference ranges and methods can differ between laboratories. MedlinePlus cautions that a value outside a range may not by itself indicate disease, a value inside the range does not guarantee health, and results from different laboratories may not be directly comparable.[2]
+Methods and reference ranges vary between laboratories. MedlinePlus cautions that a value outside a range may not by itself indicate disease, a value inside the range does not guarantee health, and results from different laboratories may not be directly comparable.[2]
 
-Use a trend chart for orientation, but keep every source report. If units are converted, show both the original and verified converted value. Never paste values into a table without their units.
+A trend chart is good for orientation, but every source report stays in the file. If units get converted, show the original value alongside the verified converted one. And never paste a number into a table without its unit.
 
 ## Old Results May Be True but No Longer Current
 
-A six-week-old creatinine may accurately describe that day and still be unsafe for today’s contrast study. A blood count taken before chemotherapy cannot clear the next cycle. A coagulation test before anticoagulant adjustment may be obsolete.
+A creatinine from six weeks ago described that day accurately, yet it can still be too old to clear today’s contrast study. A blood count drawn before chemotherapy cannot clear the next cycle. A coagulation test done before an anticoagulant adjustment may already be obsolete.
 
-Ask the treating team which tests must be repeated in China and how close to treatment they must be collected. Common domains include blood counts, electrolytes, kidney and liver function, coagulation, pregnancy testing, infectious-disease screening, blood type and treatment-specific monitoring—but the exact set depends on the patient and intervention.
+Ask the treating team which tests must be repeated in China and how close to treatment they must be collected. Common domains include blood counts, electrolytes, kidney and liver function, coagulation, pregnancy testing, infectious-disease screening, blood type and treatment-specific monitoring — the exact set depends on the patient and the intervention.
 
-Do not repeat a test solely because it is foreign. Repeat it because the method, identity, specimen, recency or treatment requirement makes repeat testing necessary.
+A test being foreign is not, on its own, a reason to repeat it. The legitimate triggers are the method, identity, specimen, recency or a treatment requirement.
 
 ## Check for Identity and Specimen Mismatches
 
@@ -165,11 +165,11 @@ Before clinical interpretation, compare patient identifiers, accession numbers, 
 - Imaging showing the sampled lesion
 - Molecular and immunohistochemistry addenda
 
-If a left-sided lesion is paired with a right-sided specimen or the accession number differs, stop. Ask the originating and reviewing laboratories to reconcile the chain before treatment relies on the result. A translated name-order difference may be administrative; it still requires documented resolution.
+If a left-sided lesion is paired with a right-sided specimen or the accession number differs, stop. The originating and reviewing laboratories need to reconcile the chain before any treatment relies on that result. A name-order difference introduced in translation may be purely administrative — document how it was resolved anyway.
 
 ## Shipping Is Part of Specimen Integrity
 
-Obtain written packing, temperature, courier, customs and address instructions from both laboratories. Use tracked delivery and record every handoff. Slides break; blocks can soften in heat; biological materials may require permits or special packaging.
+Get written packing, temperature, courier, customs and address instructions from both laboratories. Ship with tracking and log every handoff. Slides break. Blocks soften in heat. Biological materials may require permits or special packaging.
 
 The patient should know:
 
@@ -184,7 +184,7 @@ Do not ask an ordinary travel coordinator to improvise cross-border tissue shipm
 
 ## Decide Whether Treatment Waits
 
-The reviewing pathologist can state what is pending. The treating clinician decides whether the pending information is likely to change treatment and whether waiting is medically acceptable.
+The reviewing pathologist can say what is still pending. Whether that pending information is likely to change treatment, and whether waiting is medically acceptable, is the treating clinician’s call.
 
 Ask for three dates:
 
@@ -192,7 +192,7 @@ Ask for three dates:
 - Expected preliminary or final review
 - Latest clinically safe treatment decision point
 
-For rapidly progressive disease or an urgent safety problem, the team may need to begin an appropriate treatment before every optional test is complete. Conversely, an irreversible or high-risk treatment should not proceed from an unresolved identity or diagnosis error merely to protect a travel schedule.
+With rapidly progressive disease or an urgent safety problem, the team may need to start an appropriate treatment before every optional test is finished. On the other hand, a travel schedule is never a reason to push ahead with an irreversible or high-risk treatment while an identity or diagnosis error is still unresolved.
 
 ## The Pre-Treatment Review Note
 
@@ -208,7 +208,7 @@ Request a short integrated note stating:
 - Whether any pending item can change the plan
 - Named clinician responsible for the final treatment decision
 
-This note turns a pile of reports into an auditable decision.
+With that note, a pile of reports becomes a decision that can be audited later.
 
 **Medical disclaimer:** Pathology and laboratory interpretation is case-specific. This guide does not determine which review or repeat testing is clinically necessary. Treatment timing and specimen use must be decided by qualified professionals with access to the full case.
 
@@ -223,23 +223,23 @@ This note turns a pile of reports into an auditable decision.
 
 ### Is translating my pathology report enough?
 
-It may be enough for orientation, but it is not a pathology re-review. A second pathologist generally needs slides, a block or suitable digital material to independently assess the diagnosis.[4]
+For orientation, possibly. But translation is only translation. A second pathologist generally needs slides, a block or suitable digital material to independently assess the diagnosis.[4]
 
 ### Must every patient repeat all laboratory tests in China?
 
-No. The treating team should repeat tests when recency, method, identity, comparability or treatment protocol requires it—not simply because the original laboratory was abroad.
+No. The treating team should repeat a test when recency, method, identity, comparability or the treatment protocol calls for it. The original laboratory being abroad is not a reason by itself.
 
 ### What if the biopsy block is very small?
 
-Tell both teams before shipment. Ask them to prioritise tests, estimate remaining tissue and decide whether existing data or a new biopsy is preferable to exhausting the only block.
+Tell both teams before anything ships. Ask them to prioritise the tests, estimate how much tissue would remain, and weigh existing data or a new biopsy against exhausting the only block.
 
 ### Does a negative molecular panel mean there is no target?
 
-Not necessarily. Review panel scope, specimen adequacy, detection limits and timing. A negative result can be technically valid yet incomplete for the clinical question.[1]
+Not necessarily. Check the panel’s scope, the specimen’s adequacy, the detection limits and the timing. A negative result can be technically valid and still not answer the clinical question.[1]
 
 ### Who decides whether treatment can start while results are pending?
 
-The treating clinician, with input from pathology, laboratory and the relevant specialty team, should weigh how likely the pending result is to change care against the risk of delay.
+That call sits with the treating clinician, who weighs — with input from pathology, the laboratory and the relevant specialty team — how likely the pending result is to change care against the risk of waiting.
 
 ## SEO Metadata
 

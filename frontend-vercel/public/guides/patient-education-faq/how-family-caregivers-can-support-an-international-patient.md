@@ -148,23 +148,23 @@ The caregiver’s last job is not to keep doing everything forever. Reassess wha
 
 ## FAQ
 
-### 1. Does being a spouse or adult child automatically allow access to all records?
+### Does being a spouse or adult child automatically allow access to all records?
 
 No. Access and decision authority depend on patient permission, capacity, valid representative documents and local law/hospital policy. Arrange this before travel.
 
-### 2. Can a bilingual family member interpret the consent discussion?
+### Can a bilingual family member interpret the consent discussion?
 
 Use a qualified medical interpreter for high-stakes discussions. Family may provide context and emotional support but should not carry sole responsibility for accurate consent translation.
 
-### 3. What should a caregiver record when symptoms change?
+### What should a caregiver record when symptoms change?
 
 Record what changed, exact onset, trend, measurements, relevant medicine or activity, and whom you notified. Follow the prescribed emergency thresholds rather than diagnosing the cause.
 
-### 4. What if the caregiver cannot perform a discharge task?
+### What if the caregiver cannot perform a discharge task?
 
 Say so before discharge and request training, equipment, professional care, rehabilitation, a longer stay or another setting. Unsafe improvisation is not an acceptable discharge plan.
 
-### 5. Is caregiver rest really part of patient safety?
+### Is caregiver rest really part of patient safety?
 
 Yes. Sleep loss, illness and overload can impair attention, medication handling, communication and physical assistance. Schedule relief and keep a backup caregiver [1][4].
 

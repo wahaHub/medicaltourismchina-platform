@@ -16,15 +16,15 @@
 ## Key Takeaways
 
 - Choose one authoritative identity—normally the current passport presentation—and document every meaningful name variant without casually replacing it.
-- A hospital medical record number is institution-specific. Reusing the same phone number or creating a second account can split one patient's history.
-- Staff should use at least two identifiers for clinical actions. The patient should actively answer rather than merely agree when a name is read aloud.
-- If a mismatch is found, stop the affected process, preserve both records and request a controlled correction or merge; do not delete evidence or “fix” labels by hand.
+- A hospital medical record number only lives inside one institution's system. Reusing the same phone number or creating a second account can split one patient's history.
+- Staff should use at least two identifiers for clinical actions. When a name is read aloud, answer actively instead of just nodding.
+- If a mismatch is found, stop the affected process, preserve both records and request a controlled correction or merge; deleting evidence or “fixing” labels by hand makes things worse.
 
 ## Content
 
-Identity mistakes are quiet. A scan opens normally, a laboratory result looks plausible and the patient's name is almost right. The danger appears later: the wrong result is interpreted, an allergy is missing, or half the case sits in a second record that the clinician cannot see.
+Identity mistakes are quiet. A scan opens normally, a laboratory result looks plausible and the patient's name is almost right. The danger shows up later: the wrong result gets interpreted, an allergy is missing, or half the case sits in a second record that the treating clinician cannot see.
 
-China's medical quality rules require at least two methods of patient identification for every medical action and prohibit using a bed number as an identifier [1]. A 2025 national health-industry standard extends identity checking across the whole care cycle [2]. International patients should treat that standard as something they can participate in, not as an invisible back-office task.
+China's medical quality rules require at least two methods of patient identification for every medical action and prohibit using a bed number as an identifier [1]. A 2025 national health-industry standard extends identity checking across the whole care cycle [2]. For international patients, that standard works best as something you take part in yourself rather than an invisible back-office task.
 
 ### Build an identity crosswalk before registration
 
@@ -42,9 +42,9 @@ Create a one-page table using the current passport as the anchor:
 | local display | Chinese transliteration or shortened system display, if the hospital creates one |
 | hospital identifiers | outpatient card number, medical record number, inpatient number and app account |
 
-ICAO passport specifications show why exact visual copying is not always enough: hyphens and apostrophes can be represented differently in the machine-readable zone, and long names may be truncated [3]. These are expected document transformations, but they must be linked rather than treated as different people.
+ICAO passport specifications show why exact visual copying is not always enough: hyphens and apostrophes can be represented differently in the machine-readable zone, and long names may be truncated [3]. These are expected document transformations, but they have to be linked, not treated as different people.
 
-Do not invent a Chinese name for convenience. If the hospital needs a Chinese display name, ask it to retain the passport identity as the authoritative source and record the transliteration as an alias.
+Don't invent a Chinese name for convenience. If the hospital needs a Chinese display name, ask it to retain the passport identity as the authoritative source and record the transliteration as an alias.
 
 ### Search before creating a new record
 
@@ -56,13 +56,13 @@ Before a new account or card is issued, ask staff to search using:
 - telephone numbers previously used;
 - old hospital cards, appointment confirmations or invoices.
 
-China's electronic medical record specification requires a unique patient identifier and a master index, and it calls for duplicate checking and linkage of multiple records belonging to the same patient [4]. That does not guarantee every local app or campus presents the same view.
+China's electronic medical record specification requires a unique patient identifier and a master index, and it calls for duplicate checking and linkage of multiple records belonging to the same patient [4]. In practice, though, not every local app or campus presents the same view.
 
-Warning signs of a duplicate record include an empty history despite earlier visits, a new medical record number without explanation, missing allergies, a different date of birth, or results visible on one phone account but not another. Do not solve an access problem by repeatedly creating accounts.
+Warning signs of a duplicate record include an empty history despite earlier visits, a new medical record number without explanation, missing allergies, a different date of birth, or results visible on one phone account but not another. An access problem never gets solved by opening account after account.
 
 ### Separate login convenience from patient identity
 
-A mobile number may be used for login, notifications or payment, but it is not automatically the patient's clinical identity. A companion's phone can be associated with more than one person, and a patient may change SIM cards during travel.
+A mobile number may be used for login, notifications or payment, yet it isn't automatically the patient's clinical identity. A companion's phone can be associated with more than one person, and a patient may change SIM cards during travel.
 
 Ask four questions:
 
@@ -71,7 +71,7 @@ Ask four questions:
 3. Can a companion view or act on the account, and under what authorisation?
 4. What happens when the patient changes a passport or phone number?
 
-Do not share a one-time code merely because someone says it is needed to “help with registration.” Confirm the recipient, action and scope first.
+If someone asks for a one-time code just to “help with registration”, pause. Confirm the recipient, the action and the scope first.
 
 ### Use two identifiers at every clinical boundary
 
@@ -86,7 +86,7 @@ At each boundary, the patient should state the answers rather than nodding:
 - when transferring departments, campuses or inpatient beds;
 - when receiving a report, prescription or discharge record.
 
-Useful wording is: “Please tell me the name and date of birth on the order.” Then compare them with the passport crosswalk and hospital number. A barcode supports the check; it does not replace spoken verification.
+A useful sentence is: “Please tell me the name and date of birth on the order.” Then compare them with the passport crosswalk and hospital number. A barcode supports the check; it can't replace spoken verification.
 
 ### Inspect the label before the sample leaves
 
@@ -94,11 +94,11 @@ For a specimen, verify the label while the patient is present. The label and ord
 
 For imaging, open the study header and confirm patient name, identifier, date of birth, examination date and body part. For pathology, keep the accession number, block/slide identifiers and source tissue connected to the hospital medical record. For medicines, compare the prescription and package label with the intended patient and allergy record.
 
-The aim is not to demand a particular label design. It is to ensure that the identity travels with the object after the patient and object separate.
+The point here is not to demand a particular label design. Once the patient and the object separate, the identity has to travel with the object.
 
 ### Handle passport renewals and name changes as linkage events
 
-A new passport number or legal name should not erase the old identity. Bring evidence connecting the two, such as the old passport, official name-change document or marriage certificate when applicable. Ask the hospital to update the master identity and preserve the former value as a searchable historical identifier.
+A new passport number or legal name should never erase the old identity. Bring evidence connecting the two, such as the old passport, official name-change document or marriage certificate when applicable. Ask the hospital to update the master identity and preserve the former value as a searchable historical identifier.
 
 Use the same approach for:
 
@@ -110,7 +110,7 @@ Use the same approach for:
 - different transliterations across countries;
 - newborns, unconscious patients or others unable to identify themselves.
 
-Do not assume Western “first name / last name” boxes can safely reconstruct every passport name.
+Western “first name / last name” boxes cannot safely reconstruct every passport name.
 
 ### Stop and escalate a mismatch before it spreads
 
@@ -123,7 +123,7 @@ If any identifier is wrong:
 5. **ask which downstream items are affected**: orders, specimens, images, pathology, prescriptions, bills and appointments;
 6. **obtain written confirmation of correction or merge** and recheck the active chart.
 
-Never cross out a specimen label, edit a PDF to match the passport or delete a “wrong” record yourself. Electronic medical records are expected to keep amendment logs and traceability [4]. A correction must protect the audit trail.
+Never cross out a specimen label, edit a PDF to match the passport or delete a “wrong” record yourself. Electronic medical records are expected to keep amendment logs and traceability [4]. Any correction has to protect the audit trail.
 
 If the issue is not resolved through the service, Chinese hospitals are required to maintain a complaint-management route for concerns about medical service, management and quality safety [6]. Use that route with a concise chronology and identifiers redacted where possible.
 
@@ -139,7 +139,7 @@ At the end of an outpatient episode or admission, compare the identity shown on:
 - itemised bill and invoice;
 - follow-up appointment and portal account.
 
-Record every hospital identifier on the crosswalk. If two numbers were legitimately used—for example, an outpatient number and an inpatient number—ask how they are linked. Patients have a route to inspect and copy specified medical-record materials under Chinese regulations [7]; identity errors should be addressed before translated copies, insurer submissions or overseas handoffs multiply the problem.
+Record every hospital identifier on the crosswalk. If two numbers were legitimately used—for example, an outpatient number and an inpatient number—ask how they are linked. Patients have a route to inspect and copy specified medical-record materials under Chinese regulations [7]; fix identity errors before translated copies, insurer submissions or overseas handoffs multiply the problem.
 
 **Medical disclaimer:** This article provides general safety and administrative information, not legal advice or medical advice. Follow the receiving hospital's controlled identity-correction process. If an identity concern could affect an imminent medicine, transfusion, procedure or urgent clinical decision, stop and alert the responsible clinical team immediately.
 
@@ -147,19 +147,19 @@ Record every hospital identifier on the crosswalk. If two numbers were legitimat
 
 ### Should the hospital use the passport's visible name or the machine-readable line?
 
-Ask the hospital which field its system treats as authoritative, then document both exactly and link any difference. The visible page and MRZ may legitimately represent punctuation or long names differently. The unsafe outcome is not the chosen display format; it is two unlinked identities.
+Ask the hospital which field its system treats as authoritative, then document both exactly and link any difference. The visible page and MRZ may legitimately represent punctuation or long names differently. What makes a record unsafe is not the chosen display format but two unlinked identities.
 
 ### Why does staff keep asking for name and date of birth?
 
-Repeated checking is a safety control. Identity should be verified again before medicines, specimens, procedures, transfers and release of results. The patient should answer actively rather than treating repetition as a sign that staff have forgotten them.
+Repeated checking is a safety control. Identity gets verified again before medicines, specimens, procedures, transfers and release of results. Answer actively each time; repetition is the system working, not staff forgetting you.
 
 ### What if the patient has two hospital record numbers?
 
-Do not choose one yourself. Ask the medical-record or registration team to check whether they are legitimate linked encounter numbers or duplicate master records. Request a controlled linkage or merge and verify that allergies, orders, images and results are visible in the active record.
+Don't pick one yourself. Ask the medical-record or registration team to check whether they are legitimate linked encounter numbers or duplicate master records. Request a controlled linkage or merge and verify that allergies, orders, images and results are visible in the active record.
 
 ### Can a misspelled report be corrected after returning home?
 
-Possibly, but the process is harder once reports have been translated, submitted to insurers or imported abroad. Report the mismatch promptly, preserve the original, use the hospital's amendment route and obtain a corrected or formally annotated version with traceability.
+Possibly, but the process gets harder once reports have been translated, submitted to insurers or imported abroad. Report the mismatch promptly, preserve the original, use the hospital's amendment route and obtain a corrected or formally annotated version with traceability.
 
 ## SEO Metadata
 

@@ -121,15 +121,15 @@ The useful outcome of monitoring is not a perfect travel graph. It is a safe han
 
 ## FAQ
 
-### 1. Is it safe to fly with high blood pressure?
+### Is it safe to fly with high blood pressure?
 
 Controlled hypertension by itself is usually compatible with commercial air travel. Recent heart attack or stroke, unstable symptoms, heart failure, oxygen needs or poorly controlled pressure requires individual clearance [2][3].
 
-### 3. What blood pressure monitor should I pack?
+### What blood pressure monitor should I pack?
 
 A validated automatic upper-arm monitor with the correct cuff size. Compare it with the clinic device before departure; wrist, finger and cuffless wearable readings are generally less suitable for treatment decisions [1][5].
 
-### 5. When does a high reading become an emergency?
+### When does a high reading become an emergency?
 
 Repeat pressure above 180/120 mm Hg needs prompt professional advice. With chest pain, breathlessness, back pain, neurological weakness or numbness, vision change, speech difficulty or another acute concerning symptom, call emergency services immediately [4].
 

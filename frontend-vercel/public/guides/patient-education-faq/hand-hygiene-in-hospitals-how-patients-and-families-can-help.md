@@ -15,18 +15,18 @@
 
 ## Key Takeaways
 
-- Hand hygiene is timed to contact and risk, not simply to entering a room. A clinician may need to clean hands again before an aseptic task or after touching the patient’s surroundings.
+- Hand hygiene follows contact and risk, not the doorway. A clinician may need to clean hands again before an aseptic task or after touching the patient’s surroundings.
 - In routine care, alcohol-based hand rub is preferred when hands are not visibly soiled. Soap and water is required when hands are visibly dirty and is used before eating and after the toilet [1].
-- Gloves do not replace hand hygiene. Hands should be cleaned after glove removal, and contaminated gloves should not move from a dirty task to a clean site.
+- Gloves never replace hand hygiene. Hands should be cleaned after glove removal, and contaminated gloves should not move from a dirty task to a clean site.
 - Patients and visitors have their own moments: before eating or touching a wound/device, after the toilet, coughing or touching high-contact room surfaces, and when entering or leaving isolation areas as instructed.
 - A respectful reminder is a safety question, not an accusation. Ask before an examination or device contact if you did not see hand hygiene and are unsure.
 - Clean hands reduce one route of transmission but do not replace sterile technique, environmental cleaning, correct device care, isolation precautions or appropriate antibiotics.
 
 ## Content
 
-A patient sees a doctor walk through the door without using the dispenser and wonders whether to say something. What the patient cannot see is whether the doctor cleaned hands just outside. What the doctor cannot assume is that silence means the patient feels safe.
+A patient watches a doctor walk through the door without using the dispenser, and wonders whether to say something. What the patient cannot see is whether the doctor cleaned hands just outside. What the doctor cannot assume is that silence means the patient feels safe.
 
-The answer is not to turn families into compliance inspectors. It is to make the important moments visible, give patients a simple way to ask, and treat the question as part of a shared safety check.
+The way out of this awkwardness is not to turn families into compliance inspectors. It is to make the important moments visible, give patients a simple way to ask, and treat the question as part of a shared safety check.
 
 ### Hand hygiene is an action at a clinical moment
 
@@ -38,13 +38,13 @@ The World Health Organization’s “Five Moments” framework is designed for h
 4. after touching a patient;
 5. after touching the patient’s surroundings [2].
 
-These moments explain why “I cleaned my hands when I came in” is not always the end of the story. A nurse who adjusts the bed rail and then handles an intravenous connection may need to clean hands between those tasks. A clinician who examines a wound and then moves to a clean device must not carry contamination from one site to the other.
+These moments explain why “I cleaned my hands when I came in” isn't always the end of the story. A nurse who adjusts the bed rail and then handles an intravenous connection may need to clean hands between those tasks. A clinician who examines a wound and then moves to a clean device must not carry contamination from one site to the other.
 
-China’s current healthcare hand-hygiene standard is WS/T 313—2019, effective since June 2020 [3]. Local facilities may add procedure- or isolation-specific instructions. Patients do not need to memorize the standard, but they can reasonably expect staff to follow the indications around direct care and invasive devices.
+China’s current healthcare hand-hygiene standard is WS/T 313—2019, effective since June 2020 [3]. Local facilities may add procedure- or isolation-specific instructions. Patients don't need to memorize the standard, but they can reasonably expect staff to follow the indications around direct care and invasive devices.
 
 ### Sanitizer is usually the clinical default—not a shortcut
 
-When hands are not visibly soiled, CDC prefers an approved alcohol-based hand sanitizer for most clinical care because it is effective, accessible, faster to use and generally less irritating than repeated soap washing [1]. Apply enough product to cover palms, backs, between fingers, thumbs, fingertips and around nails; rub until completely dry, usually around 20 seconds. Do not wipe it off while wet.
+When hands are not visibly soiled, CDC prefers an approved alcohol-based hand sanitizer for most clinical care because it is effective, accessible, faster to use and generally less irritating than repeated soap washing [1]. Apply enough product to cover palms, backs, between fingers, thumbs, fingertips and around nails; rub until completely dry, usually around 20 seconds. Don't wipe it off while wet.
 
 Use soap and water when:
 
@@ -55,7 +55,7 @@ Use soap and water when:
 
 Wet hands, lather all surfaces, scrub thoroughly, rinse and dry with a clean disposable towel. Guidance differs slightly in how it counts seconds; complete coverage of thumbs, fingertips and spaces between fingers matters more than stopping at an exact number [1].
 
-Do not use a communal basin, a damp reusable towel or a homemade mixture of unknown concentration. If a wall dispenser is empty, report it rather than substituting a decorative or unlabelled bottle.
+Skip the communal basin, the damp reusable towel and the homemade mixture of unknown concentration. If a wall dispenser is empty, report it rather than substituting a decorative or unlabelled bottle.
 
 ### *C. difficile* needs careful wording, not a slogan
 
@@ -63,11 +63,11 @@ Alcohol does not reliably inactivate *Clostridioides difficile* spores in labora
 
 For healthcare workers, policy is more nuanced: CDC continues to prefer alcohol-based hand rub for most routine clinical situations unless hands are visibly soiled, while encouraging soap-and-water washing as an additional precaution after caring for known or suspected cases during outbreaks. Gown and glove technique, proper removal and sporicidal environmental cleaning are also essential [1][5].
 
-Follow the facility’s isolation sign rather than arguing from a single internet sentence. Hand hygiene alone cannot compensate for contaminated equipment or incorrect removal of protective clothing.
+Follow the facility’s isolation sign rather than arguing from a single internet sentence. Hand hygiene alone cannot compensate for contaminated equipment or protective clothing removed incorrectly.
 
 ### Gloves protect only when the task and change point are correct
 
-Gloves are used when contact with blood, body fluids, mucous membranes, non-intact skin or certain organisms is expected. They are not a general badge of cleanliness.
+Gloves are used when contact with blood, body fluids, mucous membranes, non-intact skin or certain organisms is expected. Wearing them is not, by itself, a badge of cleanliness.
 
 Problems occur when a person:
 
@@ -91,9 +91,9 @@ Patients and families should clean hands:
 - after contact with body fluids or used tissues;
 - on entering or leaving a room when the posted isolation instructions require it [7].
 
-Do not touch an intravenous connector, urinary catheter junction, surgical drain, wound or ventilator tubing merely to “check” it. Call the nurse if a dressing is wet, a line looks loose or a device alarm sounds.
+Don't touch an intravenous connector, urinary catheter junction, surgical drain, wound or ventilator tubing merely to “check” it. Call the nurse if a dressing is wet, a line looks loose or a device alarm sounds.
 
-Keep personal items off the patient’s bed where possible. Clean a shared phone before and after use according to device-safe instructions. Visitors with vomiting, diarrhoea, fever or respiratory illness should tell the unit before visiting; a mask does not make every symptomatic visit safe.
+Keep personal items off the patient’s bed where possible. Clean a shared phone before and after use according to device-safe instructions. Visitors with vomiting, diarrhoea, fever or respiratory illness should tell the unit before visiting; a mask alone doesn't make every symptomatic visit safe.
 
 ### Asking works best when it is specific and routine
 
@@ -104,11 +104,11 @@ Useful phrases include:
 - “The sanitizer dispenser appears empty; could someone replace it?”
 - “We are under contact precautions. Should I wash with soap and water before leaving?”
 
-Ask before the clinician begins the task, not after the opportunity has passed. If language is a barrier, keep a translated card on the bedside table or ask the interpreter to include the question during admission teaching.
+Ask before the clinician begins the task, while there is still time to act. If language is a barrier, keep a translated card on the bedside table or ask the interpreter to include the question during admission teaching.
 
 A clinician may explain that hand hygiene occurred immediately outside the room. The patient can still request that it be repeated, especially before a wound, line or injection. CDC patient materials explicitly encourage patients and loved ones to speak up when they do not see staff clean their hands [8].
 
-If repeated concerns are dismissed, contact the charge nurse or infection-prevention service. The aim is to correct the process, not photograph individual workers or post accusations online while care is under way.
+If repeated concerns are dismissed, contact the charge nurse or infection-prevention service. The goal is to fix the process—photographing individual workers or posting accusations online while care is under way helps no one.
 
 ### Hand hygiene does not make a clean task sterile
 
@@ -130,7 +130,7 @@ Patients should report a loose dressing, wet line connection, overflowing waste 
 
 Repeated washing, harsh products and wet work can damage skin. Staff follow occupational protocols; patients and caregivers can use hospital-approved moisturizer after cleaning when compatible with gloves and treatment. Cover open cuts with a clean waterproof dressing and tell the care team about significant dermatitis.
 
-Keep nails short and clean when helping with direct care. Artificial nails and jewellery can complicate thorough cleaning and may be restricted for staff in certain clinical areas. Do not scrape under nails with a shared sharp object.
+Keep nails short and clean when helping with direct care. Artificial nails and jewellery can complicate thorough cleaning and may be restricted for staff in certain clinical areas. Never scrape under nails with a shared sharp object.
 
 ### Make expectations explicit at admission and transfer
 
@@ -148,15 +148,15 @@ For international patients, translate the name of the isolation precaution and t
 
 ## FAQ
 
-### 1. Is alcohol sanitizer less effective than soap and water in hospitals?
+### Is alcohol sanitizer less effective than soap and water in hospitals?
 
 Not in most routine clinical situations. When hands are not visibly dirty, alcohol-based hand rub is generally preferred because it is effective, accessible and less irritating. Soap and water is needed for visible soil, before eating, after the toilet and when specific precautions direct it [1].
 
-### 2. If a clinician puts on new gloves, can hand hygiene be skipped?
+### If a clinician puts on new gloves, can hand hygiene be skipped?
 
 No. Gloves are not a substitute for hand hygiene. Hands should be cleaned at the indicated moments, including after glove removal, and gloves must be changed between contaminated and clean tasks [6].
 
-### 4. What should visitors do in a *C. difficile* room?
+### What should visitors do in a *C. difficile* room?
 
 Follow the posted contact precautions and staff instructions for gown, gloves and hand cleaning. Patients and families should wash with soap and water after the toilet and before eating. Environmental cleaning and correct removal of protective equipment matter as well [4][5].
 

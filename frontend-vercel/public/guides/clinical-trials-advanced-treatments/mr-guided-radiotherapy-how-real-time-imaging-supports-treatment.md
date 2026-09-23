@@ -15,17 +15,17 @@
 
 ## Key Takeaways
 
-- “Real-time MRI” can mean different things: imaging before treatment, repeated or cine imaging during delivery, beam gating around motion, or same-day plan adaptation. Ask which functions will actually be used.
-- MRI can show some soft tissues more clearly than treatment-room X-ray or cone-beam CT, but it does not make contouring or diagnosis automatic.
-- Online adaptation is a new plan calculation for today’s anatomy. It needs physician review, physics checks and a rule for choosing the adapted or original plan.
-- Randomised evidence of clinical benefit exists for a narrow setting—MRI-guided prostate SBRT with smaller margins—not for every tumour or MR-guided workflow [5][6].
-- MR screening, implanted-device assessment, long table time, noise, warmth, breath-hold ability and emergency access are part of treatment suitability.
+- “Real-time MRI” covers several different things: a scan before treatment, repeated or cine imaging while the beam is on, gating that follows motion, or rebuilding the plan that same day. Ask the team which of these your treatment will actually use.
+- MRI shows some soft tissues more clearly than treatment-room X-ray or cone-beam CT. It does not contour or diagnose anything by itself.
+- Online adaptation means recalculating the plan for that day's anatomy. A physician has to review it, physics has to check it, and there must be a rule for choosing the adapted plan or the original.
+- The randomised evidence of benefit comes from one narrow setting—MRI-guided prostate SBRT with smaller margins—not from every tumour type or every MR-guided workflow [5][6].
+- Suitability also hinges on practical things: MR screening, implant assessment, a long time on the table, noise, warmth, whether you can hold your breath, and how staff reach you in an emergency.
 
 ## Content
 
-Radiotherapy has always depended on images. The distinctive feature of MR-guided radiotherapy is that an MRI system and radiation-delivery system work in the same treatment environment. The team can inspect soft-tissue anatomy with the patient in treatment position and, on some platforms, watch a selected structure move while the beam is delivered.
+Radiotherapy has always been built on imaging. What sets MR-guided radiotherapy apart is that the MRI scanner and the radiation-delivery machine work in the same treatment environment. With you in treatment position, the team can look at soft-tissue anatomy directly—and on some platforms, watch a chosen structure move while the beam is delivered.
 
-The phrase “the machine sees the tumour in real time” is easy to overinterpret. It does not mean that a diagnostic radiologist continuously performs a full MRI examination or that every tumour cell becomes visible. The system displays selected sequences, planes and targets at a chosen speed and image quality. The clinical team still defines what to track, the safety boundary and what action follows movement.
+The phrase “the machine sees the tumour in real time” is easy to overread. No diagnostic radiologist is running a full MRI examination throughout your session, and no tumour becomes visible down to the last cell. The system shows selected sequences, planes and targets, at a chosen speed and image quality. What gets tracked, where the safety boundary sits and what happens when something moves—those decisions still belong to the clinical team.
 
 ### Four different meanings of MR guidance
 
@@ -36,64 +36,64 @@ The phrase “the machine sees the tumour in real time” is easy to overinterpr
 | Gating or tracking | the beam pauses or the delivery strategy responds when a target leaves a boundary | What is the boundary, delay and restart rule? |
 | Online adaptive planning | contours and dose are recalculated, and a plan is reoptimised on the day | Who edits contours, checks dose and authorises treatment? |
 
-A centre may offer an MR-Linac but use online adaptation only for selected sites or fractions. Conversely, valuable MR guidance can occur without making a new plan every day.
+A centre can own an MR-Linac and still adapt online only for certain sites or certain fractions. The reverse also holds: useful MR guidance can happen without a new plan being built each day.
 
 ### What MRI contributes—and what it does not
 
-MRI can distinguish some soft-tissue interfaces that are difficult to see on cone-beam CT: prostate and rectum, pancreas and bowel, liver lesion and vessels, or a target near the stomach or duodenum. It avoids the additional ionising imaging dose from repeated X-ray guidance.
+Some soft-tissue interfaces that are hard to make out on cone-beam CT show up well on MRI: prostate against rectum, pancreas against bowel, a liver lesion next to vessels, or a target sitting close to the stomach or duodenum. It also spares you the additional ionising imaging dose that repeated X-ray guidance would add.
 
-Limitations remain. Image quality depends on field strength, sequence, coil arrangement, motion and metal. Geometric distortion must be controlled. MRI signal does not directly provide the electron-density information used for radiation dose calculation, so the workflow must obtain or derive it from planning data. The magnetic field also changes the path of secondary electrons; dosimetry and quality assurance must account for the integrated system. AAPM published a dedicated reference-dosimetry protocol for external-beam MR-guided radiotherapy in 2025 [4].
+The limits are real. Image quality shifts with field strength, sequence, coil arrangement, motion and metal, and geometric distortion has to be kept under control. MRI signal does not directly provide the electron-density information used for radiation dose calculation, so the workflow must obtain or derive it from planning data. The magnetic field also bends the path of secondary electrons; dosimetry and quality assurance must account for the integrated system. AAPM published a dedicated reference-dosimetry protocol for external-beam MR-guided radiotherapy in 2025 [4].
 
-Image guidance improves precision only when target delineation is correct. Poorly defined microscopic spread, inaccurate fusion or inconsistent daily contours can still create a precise plan for the wrong boundary.
+Sharper imaging pays off only when the target outline is right. Poorly defined microscopic spread, inaccurate fusion or inconsistent daily contours can still produce a precise plan aimed at the wrong boundary.
 
 ### A fraction can become a small planning session
 
-In an online adaptive workflow, the patient is positioned and imaged. The team transfers and edits target and organ contours, recalculates the original plan on today’s anatomy, and decides whether adaptation is worthwhile. If a new plan is produced, the system reoptimises beam delivery and performs defined checks before treatment.
+In an online adaptive workflow, you are positioned and imaged first. The team transfers and edits the target and organ contours, recalculates the original plan on that day's anatomy, and decides whether adapting is worthwhile. If a new plan is produced, the system reoptimises beam delivery and runs the defined checks before treatment.
 
-The decision usually follows one or both problems:
+The decision usually comes down to one or both of these problems:
 
-- today’s plan would underdose the target; or
-- it would exceed a dose constraint for an organ at risk.
+- the original plan would underdose the target that day; or
+- it would push past a dose constraint for an organ at risk.
 
-Adaptation is not automatically beneficial. Recontouring adds judgement and time. Anatomy may move again after the new plan is calculated. The centre needs time limits, prioritised constraints, independent checks and an escape route when imaging, software or hardware fails. Early clinical implementation reports describe daily recalculation, selective recontouring, reoptimisation and patient-specific QA—not a one-click process [8].
+Adapting is not automatically the better choice. Recontouring adds judgement and time, and the anatomy may move again after the new plan is calculated. The centre needs time limits, prioritised constraints, independent checks and an escape route when imaging, software or hardware fails. Early clinical implementation reports describe daily recalculation, selective recontouring, reoptimisation and patient-specific QA—nothing close to a one-click process [8].
 
 ### “Real-time” control needs a defined target
 
-For motion management, the system may display a tumour or a nearby surrogate. A gating boundary is drawn; the beam turns off when the tracked structure crosses it and resumes when it returns under the specified conditions. The patient may breathe normally, follow audio/visual coaching or perform repeated breath holds.
+For motion management, the screen may show the tumour itself or a nearby surrogate. A gating boundary is drawn; the beam switches off when the tracked structure crosses it and resumes once it returns under the specified conditions. You may breathe normally, follow audio/visual coaching or perform repeated breath holds.
 
-Ask whether the actual tumour is visible or whether a surrogate is tracked. Also ask how latency, image-plane choice, deformation, rotation and out-of-plane motion are handled. A sharp line around one two-dimensional image does not prove that the entire three-dimensional target remains inside the treatment volume.
+Ask whether the tumour itself is visible or a surrogate is being tracked. Ask, too, how latency, image-plane choice, deformation, rotation and out-of-plane motion are handled. A sharp line around one two-dimensional image does not prove the entire three-dimensional target stays inside the treatment volume.
 
 ### Evidence is tied to the complete workflow
 
 In the single-centre MIRAGE phase III trial, 156 men receiving prostate SBRT were randomised to CT guidance with a 4-mm margin or MRI guidance with a 2-mm margin. MRI guidance was associated with less acute grade 2 or worse urinary and bowel toxicity and better short-term patient-reported outcomes [5]. A later analysis found lower cumulative two-year grade 2 or worse urinary and bowel toxicity in the MRI-guided group [6].
 
-The intervention was not “MRI alone.” It combined MRI guidance with aggressive margin reduction in a specific five-fraction prostate protocol. The result should not be transferred automatically to pancreas, liver, lung, conventional fractionation or a centre using different margins and workflows.
+Notice what was actually tested. MRI guidance was paired with aggressive margin reduction inside a specific five-fraction prostate protocol. The result cannot be carried over automatically to pancreas, liver, lung, conventional fractionation or a centre using different margins and workflows.
 
-For pancreatic cancer, a multicentre phase II study treated selected borderline-resectable or locally advanced cases—after at least three months of systemic therapy without distant progression—with five-fraction online MR-guided adaptive radiotherapy [7]. It provides prospective safety evidence for that pathway but was not a randomised test against modern CT-guided treatment. Patient selection and preceding systemic therapy are part of the result.
+For pancreatic cancer, a multicentre phase II study treated selected borderline-resectable or locally advanced cases—after at least three months of systemic therapy without distant progression—with five-fraction online MR-guided adaptive radiotherapy [7]. That gives prospective safety evidence for this pathway, but it was not a randomised test against modern CT-guided treatment. Patient selection and preceding systemic therapy are part of the result.
 
 ### Who may gain enough to justify the extra process
 
-A stronger rationale may exist when the target is poorly seen with treatment-room X-ray imaging, moves near a dose-sensitive organ, or changes enough between fractions that a fixed plan is fragile. Examples can include selected prostate, pancreatic, liver, adrenal, kidney, central thoracic or pelvic targets and carefully planned reirradiation.
+The case for MR guidance is stronger when the target is poorly seen with treatment-room X-ray imaging, moves near a dose-sensitive organ, or changes enough between fractions that a fixed plan turns fragile. Examples can include selected prostate, pancreatic, liver, adrenal, kidney, central thoracic or pelvic targets and carefully planned reirradiation.
 
-MR guidance is not automatically superior when the target is already well visualised by implanted markers or cone-beam CT, anatomy is stable, the photon plan has generous normal-tissue separation, or the patient cannot tolerate the MR environment. The comparison should include alternative image guidance, motion control, fractionation and plan quality—not merely machine names.
+It is not automatically the better tool when implanted markers or cone-beam CT already show the target well, anatomy is stable, the photon plan has generous normal-tissue separation, or you cannot tolerate the MR environment. The comparison should cover alternative image guidance, motion control, fractionation and plan quality—machine names alone settle nothing.
 
 ### MR safety is part of radiotherapy safety
 
-The magnetic field is present even when imaging or radiation is not active. Screening must cover pacemakers and other active implants, aneurysm clips, pumps, stimulators, cochlear devices, retained metal, shrapnel, surgical hardware and external objects. “MRI-safe before” is not enough without identifying the exact device and its conditions.
+The magnetic field is present even when imaging or radiation is not active. Screening has to cover pacemakers and other active implants, aneurysm clips, pumps, stimulators, cochlear devices, retained metal, shrapnel, surgical hardware and external objects. Having been “MRI-safe before” counts for little unless the exact device and its conditions are identified.
 
-The ACR MR Safety Manual includes implant assessment, emergency procedures, anxiety, claustrophobia, body-size considerations and the MR-Linac environment [3]. Ask about hearing protection, communication, emergency release, monitoring and whether a support person can enter the controlled area. Sedation changes fasting, transport, staffing and recovery; it should be planned rather than improvised.
+The ACR MR Safety Manual includes implant assessment, emergency procedures, anxiety, claustrophobia, body-size considerations and the MR-Linac environment [3]. Ask about hearing protection, communication, emergency release, monitoring and whether a support person can enter the controlled area. Sedation changes fasting, transport, staffing and recovery; arrange it in advance rather than improvising on the day.
 
 ### The burden of lying still is real
 
-Online adaptation can make a fraction much longer than standard image-guided treatment. A 2026 prospective observational analysis reported longer median sessions with adaptation and more short-term discomfort related to time and immobility, although treatment remained feasible [10]. Duration varies greatly by site and centre, so ask for the local median and realistic upper range.
+Online adaptation can stretch a fraction well beyond standard image-guided treatment. A 2026 prospective observational analysis reported longer median sessions with adaptation and more short-term discomfort related to time and immobility, although treatment remained feasible [10]. Duration varies greatly by site and centre, so ask for the local median and realistic upper range.
 
-Pain, coughing, urinary urgency, inability to hold the required bladder/rectal preparation, anxiety and breath-hold fatigue can degrade precision. Practise the position and breathing instruction at simulation. Tell the team early if symptoms make the planned workflow unrealistic.
+Pain, coughing, urinary urgency, being unable to hold the required bladder/rectal preparation, anxiety and breath-hold fatigue can all degrade precision. Practise the position and breathing instruction at simulation. Tell the team early if symptoms make the planned workflow unrealistic.
 
 ### Assess the centre, not only the device
 
-An MR-guided programme needs radiation oncologists, therapists, medical physicists, dosimetrists, MR safety expertise, engineers and site-specific protocols. AAPM’s MR-guided radiotherapy task group scope includes facility design, MR safety, staffing, clinical workflow, commissioning and periodic QA [9].
+Running an MR-guided programme takes radiation oncologists, therapists, medical physicists, dosimetrists, MR safety expertise, engineers and site-specific protocols. AAPM's MR-guided radiotherapy task group scope includes facility design, MR safety, staffing, clinical workflow, commissioning and periodic QA [9].
 
-Ask the centre:
+Questions worth asking the centre:
 
 1. How many patients with this exact disease and fractionation has the team treated?
 2. Which fractions are adapted, and what proportion actually receive a new plan?
@@ -102,13 +102,13 @@ Ask the centre:
 5. How are geometric distortion, dose calibration, gating accuracy and emergency procedures tested?
 6. What happens after a machine interruption or if adaptation cannot be completed?
 
-China’s 2022 restricted-technology standards illustrate the broader expectation that advanced radiotherapy requires experienced departments, image guidance, treatment planning and complete QA/QC resources [2]. Exact local authorisation, device registration and radiation-practice permissions still need verification for the named hospital and campus.
+China's 2022 restricted-technology standards reflect the broader expectation that advanced radiotherapy requires experienced departments, image guidance, treatment planning and complete QA/QC resources [2]. Exact local authorisation, device registration and radiation-practice permissions still need verification for the named hospital and campus.
 
 ### Records should show what happened each day
 
 Keep the diagnosis, staging, planning CT/MRI, structure set, dose plan, prescription and delivered-treatment record. For an adaptive course, ask for a summary stating how many fractions were adapted, why, whether constraints were met and whether anatomy or prescription changed. When future reirradiation is possible, request exportable DICOM RT data rather than screenshots alone.
 
-“Adaptive treatment completed successfully” is not enough for another radiation oncologist to reconstruct dose. The end-of-treatment note should also document toxicity, interruptions, systemic therapy, follow-up imaging timing and which team owns late-effect surveillance.
+A note reading “adaptive treatment completed successfully” gives another radiation oncologist no way to reconstruct dose. The end-of-treatment note should also document toxicity, interruptions, systemic therapy, follow-up imaging timing and which team owns late-effect surveillance.
 
 **Medical disclaimer:** This guide explains MR-guided radiotherapy workflows and evidence. It does not determine treatment eligibility or interpret an MR image or radiation plan. Decisions require complete pathology, staging, prior treatment data and specialist planning.
 
@@ -116,7 +116,7 @@ Keep the diagnosis, staging, planning CT/MRI, structure set, dose plan, prescrip
 
 ### Does the MRI deliver the radiation?
 
-No. MRI supplies images. Radiation is delivered by the integrated treatment unit, usually a linear accelerator; the systems must be calibrated and coordinated as one platform.
+No. The MRI supplies the images; radiation comes from the integrated treatment unit, usually a linear accelerator. The systems are calibrated and coordinated as one platform.
 
 ### Is the tumour watched continuously during every treatment?
 

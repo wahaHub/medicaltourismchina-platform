@@ -13,71 +13,71 @@
 
 ## Key Takeaways
 
-- Define what will be removed, the margin and lymph-node strategy, and how the result will affect staging or later treatment.
-- Open, laparoscopic and robotic approaches are routes to an oncologic operation—not separate measures of cure. Ask when conversion to an open operation would be safer.
-- Compare the named surgeon and the whole perioperative service: anaesthesia, pathology, critical care, blood bank, interventional radiology and complication management.
-- The final pathology report can change stage and adjuvant treatment. Do not fly home before the report and a postoperative plan have been reviewed.
-- Cancer, recent surgery and prolonged travel all add clotting risk. The surgeon must clear the timing and conditions of travel for the individual patient.
+- Get each team to spell out what comes out, the margin and lymph-node plan, and what the findings will do to staging or later treatment.
+- Open, laparoscopic and robotic are three ways of reaching the same oncologic operation. Ask when converting to an open operation would be the safer call.
+- Compare the named surgeon and the whole perioperative bench: anaesthesia, pathology, critical care, blood bank, interventional radiology and complication rescue.
+- Final pathology can change the stage and the adjuvant plan. Stay until the report is out and a postoperative plan has been reviewed.
+- Cancer, recent surgery and long travel each add clotting risk. The surgeon has to clear when you fly and under what conditions, for your case.
 
 ## Content
 
-For an international patient, “Can you operate?” is only the first question. A useful surgical proposal explains the purpose of the operation, what tissue will be removed, what function may be lost, what could change intraoperatively and what happens if the expected anatomy or disease extent is not found.
+If you are flying in for treatment, “Can you operate?” is only where the conversation starts. A surgical proposal worth acting on tells you why the operation is being done, which tissue comes out, what function you might lose, what could change once you are on the table, and what the team does if the anatomy or the extent of disease turns out different from the scans.
 
 ### Compare the operation before comparing the incision
 
-Ask each team to draw or describe the same items:
+Have every team draw or talk through the same set of items:
 
-- the organ or tumour to be removed and whether the goal is cure, staging, local control, diagnosis or symptom relief;
-- planned margin and the important structures that limit it;
-- lymph-node sampling, sentinel-node biopsy or dissection, where applicable;
-- reconstruction, stoma, drain, implant or organ-preserving alternative;
-- conditions that would make the surgeon stop, extend the resection or convert to open surgery;
-- how unresectable or unexpectedly metastatic disease would be handled;
-- whether treatment should occur before surgery instead.
+- which organ or tumour comes out, and whether the goal is cure, staging, local control, diagnosis or symptom relief;
+- the planned margin and the structures nearby that limit it;
+- lymph-node sampling, sentinel-node biopsy or dissection, where that applies;
+- any reconstruction, stoma, drain, implant, or organ-preserving alternative;
+- the findings that would make the surgeon stop, extend the resection or convert to open surgery;
+- what happens if the disease turns out unresectable or unexpectedly metastatic;
+- whether some treatment should come before surgery instead.
 
-NCI describes open and minimally invasive surgery as different access approaches; cancer surgery may remove the tumour, surrounding normal tissue and sometimes nearby lymph nodes.[1] Smaller incisions can shorten recovery in suitable cases, but they do not compensate for an inadequate cancer operation. “Robotic” identifies a tool. It does not by itself establish better margins, lower complication risk or greater surgeon experience.
+NCI treats open and minimally invasive surgery as different ways of getting access; either way, cancer surgery can remove the tumour, some surrounding normal tissue and sometimes nearby lymph nodes.[1] In suitable cases smaller incisions do shorten recovery, but a tidy scar will not rescue an inadequate cancer operation. “Robotic” names a tool. By itself it says nothing about better margins, fewer complications or a more experienced surgeon.
 
 ### Verify the team around the surgeon
 
-Ask who will be the primary operating surgeon and who performs the critical parts. Then check tumour-specific case experience and the hospital's ability to rescue complications. Depending on the operation, this may require anaesthesia, intensive care, blood products, interventional radiology, endoscopy, urology, vascular or plastic surgery, nutrition, rehabilitation and an experienced pathology service.
+Start with two names: the primary operating surgeon, and whoever performs the critical parts of the operation. Then look at case experience with your tumour type and the hospital's ability to rescue a complication in the middle of the night. Depending on the operation, that safety net can involve anaesthesia, intensive care, blood products, interventional radiology, endoscopy, urology, vascular or plastic surgery, nutrition, rehabilitation and an experienced pathology service.
 
-China's surgical grading rules require institutions to manage surgeon authority and evaluate indications, preoperative discussion, safety checks, complications, unplanned reoperations and perioperative mortality.[2] Those rules are more meaningful than a vague claim that an institution performs “many major operations.” Ask the hospital what quality indicators it tracks for the proposed procedure and whether it can explain them responsibly, with the patient population and time period.
+China's surgical grading rules require institutions to control surgeon authority and to evaluate indications, preoperative discussion, safety checks, complications, unplanned reoperations and perioperative mortality.[2] That beats a vague claim about doing “many major operations.” Ask the hospital which quality indicators it tracks for your proposed procedure, and whether it can explain them properly—which patients were counted, over what period.
 
 ### A remote plan remains provisional
 
-Send original DICOM imaging, radiology and pathology reports, slides when review is requested, prior operative notes, systemic and radiation treatment history, allergies, medicines and supplements, and current organ-function results. Include anticoagulants, antiplatelet drugs, diabetes medicines and any previous anaesthetic problem. Never stop them using a coordinator's message; obtain written instructions from the clinical team.
+Send the originals: DICOM imaging, radiology and pathology reports, slides if a review is requested, prior operative notes, your systemic and radiation treatment history, allergies, every medicine and supplement, and current organ-function results. Anticoagulants, antiplatelet drugs, diabetes medicines and any previous anaesthetic problem all belong on that list. Do not stop any of them because a coordinator messaged you; the instruction has to come from the clinical team, in writing.
 
-After arrival, pathology review, updated imaging, cardiopulmonary assessment, anaesthetic review or a new multidisciplinary discussion may change the date or procedure. Clarify whether additional biopsy or treatment could make surgery safer or more effective. If fertility, sexual function, continence, speech, swallowing, limb function or appearance may be affected, discuss preservation and reconstruction before consent.
+Once you arrive, the plan can still move. Pathology review, updated imaging, cardiopulmonary assessment, anaesthetic review or a fresh multidisciplinary discussion may shift the date or the procedure itself. Ask whether another biopsy or a course of treatment first would make surgery safer or more effective. And if fertility, sexual function, continence, speech, swallowing, limb function or appearance is at stake, raise preservation and reconstruction before you sign consent.
 
 ### Consent should cover the fork in the road
 
-Good consent is not a list of every remote complication. It should make the likely decision points understandable: blood loss and transfusion, injury to nearby organs, infection, leak, clot, need for intensive care or reoperation, temporary versus permanent stoma, conversion to an open operation, and the functional consequences most relevant to that procedure.
+A good consent conversation does more than recite every remote complication. It walks you through the decision points that could actually come up: blood loss and transfusion, injury to nearby organs, infection, leak, clot, intensive care or reoperation, temporary versus permanent stoma, conversion to an open operation, and the functional consequences that matter for this particular procedure.
 
-Ask what reasonable non-operative or differently timed alternatives exist and what delay would mean. Confirm who can speak for the patient if the intraoperative finding requires a decision beyond the agreed boundaries. Medical interpretation should be available for the surgeon and anaesthetist; a family member should not have to improvise the translation of a high-risk consent.
+Ask what non-operative or differently timed options are reasonable, and what waiting would cost. Confirm in advance who speaks for you if an intraoperative finding calls for a decision past the agreed boundaries. A medical interpreter should cover the surgeon's and anaesthetist's explanations; a family member should never be left improvising the translation of a high-risk consent.
 
 ### Safety checks happen at three distinct moments
 
-China's surgical safety system requires the surgeon, anaesthetist and operating-room nurse to verify identity, procedure, site, consent, allergies, blood preparation, implants and imaging before anaesthesia and incision, and to confirm the actual procedure, specimens, counts, lines, drains and destination before the patient leaves the operating room.[3] WHO's checklist uses the same broad phases to strengthen communication and reduce avoidable errors.[4]
+Under China's surgical safety verification system, the surgeon, anaesthetist and operating-room nurse check identity, procedure, site, consent, allergies, blood preparation, implants and imaging before anaesthesia and again before incision; before you leave the operating room they confirm the actual procedure performed, specimens, counts, lines, drains and your destination.[3] WHO's checklist follows the same broad phases to strengthen communication and cut avoidable errors.[4]
 
-The patient can participate: confirm the procedure and side in their own words, make sure allergies and implants are known, and ask how removed specimens will be labelled. A checklist completed in advance is not evidence of a real pause.
+You have a part in this too. State the procedure and the side in your own words, make sure the team knows your allergies and implants, and ask how removed specimens will be labelled. A form ticked off in advance proves nothing about whether the pause really happened.
 
 ### Recovery planning starts before admission
 
-Request expected ranges, not promises, for intensive care, hospital stay, drains, pain control, eating, walking and return to accommodation. Ask how blood clots, pneumonia, infection and loss of strength will be prevented, and which symptoms require same-day or emergency review. A shorter advertised stay can simply move responsibility to the hotel.
+Ask for expected ranges rather than promises: intensive care, hospital stay, drains, pain control, eating, walking, return to your accommodation. Find out how the team prevents blood clots, pneumonia, infection and loss of strength, and which symptoms mean a same-day or emergency review. A shorter advertised stay sometimes just shifts the nursing to your hotel room.
 
-Before discharge, the patient and companion should demonstrate wound or drain care and know whom to contact at night. Confirm access to urgent imaging, laboratory testing and readmission. Arrange mobility-friendly accommodation and avoid a holiday itinerary during recovery.
+Before discharge, you and your companion should actually perform wound or drain care in front of the nurses, and know whom to call at night. Confirm how you would get urgent imaging, laboratory testing or readmission. Book accommodation you can move around in, and keep the holiday itinerary out of the recovery period.
 
-Flying is a clinical decision. CDC's 2026 Yellow Book notes that surgery and air travel independently increase clot risk and that travel after surgery adds risk; it also advises against flying for 10 days after chest or abdominal surgery because of cabin-pressure effects.[5] That is not a universal clearance date. Cancer type, operation, complications, oxygen need, clot history, mobility and airline policy may require a longer wait.
+The timing of your flight home is a medical call. CDC's 2026 Yellow Book notes that surgery and air travel each raise clot risk on their own, and that travel after surgery adds more; it also advises against flying for 10 days after chest or abdominal surgery because of cabin-pressure effects.[5] Treat that as a floor, not a clearance date. Your cancer type, the operation, any complications, oxygen need, clot history, mobility and airline policy can all push the wait longer.
 
 ### Do not close the case before final pathology
 
-The operative note records what the surgeon found and did. The pathology report records what was removed and examined. NCI explains that the final report may include cancer type, grade, margin status, lymph-node status and pathologic stage.[6] These findings can change whether another operation, chemotherapy, radiotherapy, targeted treatment or surveillance is recommended.
+Two documents close out an operation. The operative note records what the surgeon found and did; the pathology report records what was removed and what the laboratory saw in it. NCI explains that the final report can include cancer type, grade, margin status, lymph-node status and pathologic stage.[6] Any of those can change whether the next step is another operation, chemotherapy, radiotherapy, targeted treatment or surveillance.
 
-Take home the operative note, anaesthesia summary, discharge summary, medication list, implant details, complication record, final pathology report, relevant images, wound instructions and follow-up schedule. The surgical team should explicitly hand the pathology result to the oncologist responsible for the next decision.
+Leave with paper: operative note, anaesthesia summary, discharge summary, medication list, implant details, complication record, the final pathology report, relevant images, wound instructions and a follow-up schedule. The surgical team should hand the pathology result directly to the oncologist who will make the next decision, not leave that to chance.
 
-Costs should distinguish preoperative review, surgeon and assistants, anaesthesia, operating room, devices, pathology, blood products, ward or intensive care, rehabilitation and unplanned care. Ask how conversion, extra resection, longer admission or a complication changes the estimate.
+Ask for costs broken down by preoperative review, surgeon and assistants, anaesthesia, operating room, devices, pathology, blood products, ward or intensive care, rehabilitation and unplanned care. Then ask the harder question: how does the estimate change if there is a conversion, a bigger resection, a longer admission or a complication?
 
-**Medical disclaimer:** This guide is general education and cannot determine whether surgery is indicated or safe. The treating surgical, anaesthesia and multidisciplinary teams must assess the complete case. Suspected postoperative bleeding, breathing difficulty, chest pain, new one-sided leg swelling, confusion or rapid deterioration needs urgent local care.
+**Medical disclaimer:** This guide is general education. It cannot determine whether surgery is indicated or safe for you; that judgement belongs to the treating surgical, anaesthesia and multidisciplinary teams with the complete case in front of them. Suspected postoperative bleeding, breathing difficulty, chest pain, new one-sided leg swelling, confusion or rapid deterioration needs urgent local care.
 
 ## Related Guides
 
@@ -90,15 +90,15 @@ Costs should distinguish preoperative review, surgeon and assistants, anaesthesi
 
 ### What does conversion to open surgery mean?
 
-It means changing from a minimally invasive approach to a larger incision when anatomy, bleeding, adhesions, tumour extent or another safety issue requires it. Ask about likely triggers before consent; conversion is not automatically an error.
+It means the team switches from a minimally invasive approach to a larger incision when anatomy, bleeding, adhesions, tumour extent or another safety issue calls for it. Ask about the likely triggers before you consent. Done for the right reason, conversion is a safety decision, not automatically an error.
 
 ### When can I fly home after surgery?
 
-Only after the surgeon assesses the actual operation and recovery. Cancer, recent surgery and immobility increase clot risk, and chest or abdominal surgery adds cabin-pressure concerns.[5]
+When the surgeon clears you, based on the operation you actually had and how you are recovering. Cancer, recent surgery and immobility all raise clot risk, and chest or abdominal surgery adds cabin-pressure concerns on top.[5]
 
 ### Which documents should I wait for before leaving China?
 
-At minimum, obtain the operative and anaesthesia records, discharge summary, medication and wound plan, complication record and final pathology. The pathology should be reviewed in a documented postoperative treatment plan.[6]
+At minimum: the operative and anaesthesia records, discharge summary, medication and wound plan, complication record and final pathology. The pathology result should also feed into a documented postoperative treatment plan before you go.[6]
 
 ## SEO Metadata
 

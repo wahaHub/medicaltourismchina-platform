@@ -161,23 +161,23 @@ Do not assume a relative can donate at the hospital door for immediate use. Coll
 
 ## FAQ
 
-### 1. Does a low hemoglobin number always mean I need red cells?
+### Does a low hemoglobin number always mean I need red cells?
 
 No. The decision also considers symptoms, stability, ongoing bleeding, heart or lung disease, expected procedure and alternatives. Many stable patients are managed with restrictive thresholds and reassessment rather than an automatic transfusion [5].
 
-### 2. If donated blood is screened, why are blood typing and crossmatching still needed?
+### If donated blood is screened, why are blood typing and crossmatching still needed?
 
 Infection screening evaluates transmissible pathogens. Typing, antibody screening and crossmatching address immune compatibility between the recipient and component. They prevent different categories of harm [2][7].
 
-### 3. Can I refuse transfusion after signing consent?
+### Can I refuse transfusion after signing consent?
 
 Consent is an ongoing decision while the patient has capacity. Tell the team immediately and ask for the consequences, alternatives and emergency plan to be documented. Exact preferences about components and procedures should be recorded rather than reduced to a vague label.
 
-### 4. What should I do if I feel cold, short of breath or unwell during transfusion?
+### What should I do if I feel cold, short of breath or unwell during transfusion?
 
 Alert staff immediately. Do not wait to see whether it passes. The team must stop or pause the component as appropriate, assess the patient, verify identity and investigate a possible reaction.
 
-### 5. Can iron treatment or cell salvage guarantee that donor blood will not be needed?
+### Can iron treatment or cell salvage guarantee that donor blood will not be needed?
 
 No. They may reduce exposure in suitable cases, especially when planned early, but severe or unexpected bleeding can still require donor components. Agree on the rescue criteria before surgery.
 

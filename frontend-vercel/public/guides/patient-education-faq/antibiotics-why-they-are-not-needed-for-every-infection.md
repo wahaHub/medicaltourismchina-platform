@@ -135,23 +135,23 @@ The most useful question at every stage is not “Can I get a stronger antibioti
 
 ## FAQ
 
-### 1. Does yellow or green mucus mean I need antibiotics?
+### Does yellow or green mucus mean I need antibiotics?
 
 No. Mucus can change colour as immune cells and proteins accumulate during a viral illness. CDC specifically notes that antibiotics do not treat a runny nose simply because the mucus is thick, yellow or green [1]. Duration, examination, severity and the overall pattern matter.
 
-### 2. If I have a high fever, shouldn’t I start antibiotics immediately?
+### If I have a high fever, shouldn’t I start antibiotics immediately?
 
 Fever signals inflammation but does not identify bacteria. A high or persistent fever needs clinical assessment, especially with red flags or impaired immunity. Time-critical suspected bacterial infection may require immediate empirical treatment; a stable viral illness does not benefit from antibiotics.
 
-### 3. May I keep leftover antibiotics for the next infection?
+### May I keep leftover antibiotics for the next infection?
 
 No. The next illness may have a different cause, site, dose requirement or resistance pattern. Using leftovers can delay diagnosis, produce a partial ineffective course and cause harm. Follow an approved local disposal or pharmacy take-back process [1].
 
-### 4. Can I stop as soon as I feel better?
+### Can I stop as soon as I feel better?
 
 Do not change the course on your own. Take it as prescribed and contact the clinician at the agreed review point. The clinician may appropriately stop or shorten treatment when evidence supports it; that is different from unsupervised early discontinuation.
 
-### 5. Why did the hospital replace a broad antibiotic with a narrow one?
+### Why did the hospital replace a broad antibiotic with a narrow one?
 
 The culture, imaging and clinical response may have identified a specific organism and site. Narrowing can preserve effective treatment while reducing unnecessary exposure, adverse effects and selection pressure. It usually means the team has more information, not that care has been weakened.
 

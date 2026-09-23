@@ -15,22 +15,22 @@
 
 ## Key Takeaways
 
-- A Chengdu hospital name is not a treatment plan. Confirm the named clinician, department, legal institution, exact campus, supporting services, and complication pathway.
-- Measure three distances: the gap between the records and a usable decision; the gap between a specialty label and the complete care team; and the physical distance among the campus, gateway, accommodation, and emergency department.
+- Start from the case, not from a famous Chengdu hospital name: confirm the named clinician, department, legal institution, exact campus, supporting services, and complication pathway.
+- Measure three distances: how far the records are from a usable decision, how far a specialty label is from the complete care team, and how far apart the campus, gateway, accommodation, and emergency department sit.
 - Chengdu Tianfu and Chengdu Shuangliu are different airports. Check the airport printed on every flight sector before choosing a hospital-area hotel or scheduling a same-day visit.
-- An “international” service may help with coordination, but language support, direct billing, inpatient availability, and after-hours clinical coverage still need separate written confirmation.
+- An “international” desk can help with coordination, yet language support, direct billing, inpatient availability, and after-hours clinical coverage each still need their own written confirmation.
 
 ## Content
 
-Choosing in Chengdu becomes easier when the patient stops asking “Which hospital is best?” and starts measuring **three distances**. The first is clinical: how far the case file is from an answer. The second is organisational: how far a famous department is from the complete team needed to deliver care. The third is physical: how far the patient must move between the airport or station, treatment campus, hotel, emergency backup, and follow-up.
+Most people start by asking “Which Chengdu hospital is best?” A more useful starting point is **three distances**. The first is clinical: how far the case file is from an answer. The second is organisational: how far a famous department is from the team that would actually deliver the care. The third is physical: how far the patient has to move between the airport or station, the treatment campus, the hotel, emergency backup, and follow-up.
 
-These distances are connected. A missing pathology slide can add days; a department that operates at another campus can change the route; a long transfer after a procedure can turn an ordinary traffic delay into a safety problem.
+The three affect each other. A missing pathology slide can add days. If the department operates from another campus, the route changes. A long transfer after a procedure can turn an ordinary traffic delay into a safety problem.
 
 ### Distance one: from uploaded records to a decision
 
-Build a dated case index before comparing appointment slots. Include the diagnosis under consideration, the decision deadline, major symptoms, functional status, previous treatment, current medicines and supplements, allergies, recent laboratory results, original imaging files, and pathology material when relevant. Label translations as translations and preserve the source documents.
+Before comparing appointment slots, put together a dated case index. It should cover the diagnosis under consideration, the decision deadline, major symptoms, functional status, previous treatment, current medicines and supplements, allergies, recent laboratory results, original imaging files, and pathology material where relevant. Mark translations clearly as translations, and keep the source documents intact.
 
-Ask the receiving team to answer in writing:
+Get the receiving team to answer these in writing:
 
 1. Which files were actually opened and reviewed?
 2. Is the proposed visit for diagnosis, second opinion, treatment planning, or treatment delivery?
@@ -38,21 +38,21 @@ Ask the receiving team to answer in writing:
 4. Which finding could change the department, campus, timetable, or quoted plan?
 5. Who owns unresolved pathology, imaging, or molecular results after the patient leaves?
 
-A registration confirmation proves that a visit was booked. It does not prove that the clinician has accepted the case, that an inpatient bed or procedure slot exists, or that the preliminary plan will survive an in-person examination.
+A registration confirmation only proves that a visit was booked. It says nothing about whether the clinician has accepted the case, whether an inpatient bed or procedure slot exists, or whether the preliminary plan will survive an in-person examination.
 
 ### Verify the legal provider before judging reputation
 
-China’s National Health Commission provides public institution and practitioner information services [1]. Confirm the legal medical-institution name and the doctor’s current practice information; the Commission has also described the national electronic disclosure system used for physician information [2].
+China’s National Health Commission runs public query services for institutions and practitioners [1]. Use them to confirm the legal medical-institution name and the doctor’s current practice information; the Commission has also described the national electronic disclosure system used for physician information [2].
 
-Then verify details that a registry cannot answer: the clinician’s current role in this case, the campus and clinic date, the team that would perform a procedure, hospital-specific authorisation, and who covers nights or complications. A recognised name, academic title, or online profile is not evidence that the person will personally deliver every part of care.
+A registry cannot answer the rest, so ask the hospital directly: the clinician’s current role in this case, the campus and clinic date, the team that would perform a procedure, hospital-specific authorisation, and who covers nights or complications. A recognised name, an academic title, or a polished online profile tells you little about who personally delivers each part of care.
 
 ### Distance two: from the specialty label to the complete care chain
 
-For each candidate, make a one-page dependency map. Place the intended decision or treatment in the centre and add the services it could require: radiology, pathology, laboratory and blood bank, anaesthesia, critical care, pharmacy, infection support, rehabilitation, nutrition, and the relevant specialties for comorbidities.
+For each candidate hospital, draw a one-page dependency map. Put the intended decision or treatment in the centre, then add every service it could require: radiology, pathology, laboratory and blood bank, anaesthesia, critical care, pharmacy, infection support, rehabilitation, nutrition, and the specialties needed for comorbidities.
 
-Record the exact building for each dependency. Large Chengdu institutions can operate across more than one site; even the official navigation page for West China Hospital identifies its main site by a specific address rather than by the hospital name alone [3]. Do not infer that a department, operating room, emergency service, or international desk is available at every affiliated campus.
+Write down the exact building for each dependency. Large Chengdu institutions often run across more than one site — even the official navigation page for West China Hospital identifies its main site by a specific address, not by the hospital name alone [3]. Never assume a department, operating room, emergency service, or international desk exists at every affiliated campus.
 
-Use a campus-level table:
+A campus-level table keeps this honest:
 
 | Required function | Named team | Exact campus/building | Confirmed date | If unavailable |
 |---|---|---|---|---|
@@ -63,60 +63,60 @@ Use a campus-level table:
 | emergency reassessment |  |  |  |  |
 | pending-result follow-up |  |  |  |  |
 
-If two rows use different addresses, ask whether the patient, clinician, specimen, or only data must move. Each answer creates a different consent, timing, cost, and custody issue.
+If two rows carry different addresses, ask what moves: the patient, the clinician, a specimen, or only data. Each answer raises different consent, timing, cost, and custody questions.
 
 ### Treat “international service” as a set of functions
 
-Sichuan published an overseas-patient service guide and an international medical-service standard in the last decade [4]. That history shows the city has worked on cross-border care, but it is not proof that a particular service remains available in 2026.
+Sichuan published an overseas-patient service guide and an international medical-service standard in the last decade [4]. The city has clearly worked on cross-border care. That still says nothing about whether a particular service remains available in 2026.
 
-For the exact department and campus, confirm separately:
+For the exact department and campus, confirm each of these on its own:
 
-- pre-arrival clinical record review;
-- appointment and admission coordination;
-- passport registration and consistent patient-number creation;
-- qualified medical interpretation for consent and discharge;
-- English or bilingual clinical documents;
-- overseas insurer communication and direct billing, if claimed;
-- 24-hour clinical escalation, not merely a daytime concierge number.
+- clinical review of records before arrival;
+- coordination of appointments and admission;
+- passport registration that creates one consistent patient number;
+- qualified medical interpretation at consent and discharge;
+- clinical documents in English or bilingual format;
+- overseas insurer communication and direct billing, if that is claimed;
+- 24-hour clinical escalation, since a daytime concierge number alone is not enough.
 
-Ask who employs the coordinator and interpreter, which legal provider issues the invoice, and which department treats a complication. Marketing language should never be allowed to merge those responsibilities.
+Also ask who employs the coordinator and the interpreter, which legal provider issues the invoice, and which department treats a complication. Marketing language tends to blur those responsibilities into one reassuring phrase; keep them separate.
 
 ### Test the identity chain, not just the first appointment
 
-Before travel, give the hospital the passport name exactly as printed, nationality, date of birth, document number, and reachable phone number. Ask which official channel accepts a passport and whether a mainland mobile number, local payment method, or in-person verification is required.
+Before travelling, give the hospital the passport name exactly as printed, plus nationality, date of birth, document number, and a reachable phone number. Ask which official channel accepts a passport, and whether registration also needs a mainland mobile number, a local payment method, or in-person verification.
 
-The test is end-to-end: can the same patient identity retrieve registration, laboratory results, images, prescriptions, invoices, admission records, and the discharge summary? A duplicate record created because of spacing, name order, or transliteration can separate allergies and results from the clinical chart. Save screenshots and booking numbers, but do not send passport images through an unverified personal account.
+Then test the whole chain: can one patient identity pull up registration, laboratory results, images, prescriptions, invoices, admission records, and the discharge summary? A duplicate record — created by a difference in spacing, name order, or transliteration — can split allergies and results away from the clinical chart. Save screenshots and booking numbers, and never send passport images through an unverified personal account.
 
 ### Distance three: from the gateway to the treatment bed
 
-“Chengdu airport” is not precise enough. Tianfu International Airport and Shuangliu International Airport sit in different parts of the metropolitan area. Official transport information describes Metro Line 18 and airport bus connections for Tianfu [5], while Sichuan’s 2024 government report records the opening of Line 19 to link the two airports [6]. Service patterns, operating hours, and transfers can change, so verify them close to travel.
+“Chengdu airport” is too vague to plan around. Tianfu International Airport and Shuangliu International Airport sit in different parts of the metropolitan area. Official transport information describes Metro Line 18 and airport bus connections for Tianfu [5], and Sichuan’s 2024 government report records the opening of Line 19 linking the two airports [6]. Service patterns, operating hours, and transfers can change, so check them again shortly before travelling.
 
-Use the flight’s printed airport code, terminal, arrival time, immigration and baggage time, rather than the city name in a travel app. If the itinerary changes airports in Chengdu, price and time the full transfer with luggage and the patient’s mobility limitations. Do not schedule a specialist review immediately after an international arrival or a cross-airport transfer.
+Plan from the airport code, terminal, arrival time, and immigration and baggage time printed on the flight — the city name in a travel app is not enough. If the itinerary switches airports inside Chengdu, time and price the full transfer with luggage and the patient’s mobility limitations in mind. Leave breathing room: no specialist review straight after an international arrival or a cross-airport transfer.
 
-For rail, distinguish Chengdu East, Chengdu South, Chengdu West, and other operating stations. Choose only after the campus address is fixed. Sichuan reported passenger-assistance measures for elderly, ill, disabled, and pregnant travellers at major Chengdu rail stations in 2025 [7]; request current assistance directly rather than assuming the same service, entrance, or hours today.
+Rail needs the same care. Chengdu East, Chengdu South, Chengdu West, and other operating stations are different places, so pick the station only after the campus address is fixed. Sichuan reported passenger-assistance measures for elderly, ill, disabled, and pregnant travellers at major Chengdu rail stations in 2025 [7]; ask the station directly what help exists now, at which entrance, and during which hours.
 
 ### Draw a recovery radius
 
-The shortest pre-treatment route is not necessarily the safest recovery route. Ask the treating clinician to define:
+The fastest route before treatment can be the wrong one after it. Ask the treating clinician to spell out:
 
-- how many nights should be spent near the campus;
+- how many nights the patient should stay near the campus;
 - whether metro stairs, long corridors, or a car ride are appropriate;
-- what symptom requires immediate emergency care rather than a message;
+- which symptoms need immediate emergency care, and which can be raised by message;
 - which 24-hour emergency department can access the treatment record;
 - whether the patient may travel alone, fly, or take a long rail journey;
-- who removes drains, sutures, or dressings and who reviews pending results.
+- who removes drains, sutures, or dressings, and who reviews pending results.
 
-Choose accommodation inside that medically defined radius. Check step-free access, lift reliability, bathroom layout, refrigeration if medicine requires it, food restrictions, and a route that does not depend on one app or one companion.
+Then choose accommodation inside that medically defined radius. Check step-free access, lift reliability, bathroom layout, refrigeration if any medicine requires it, food restrictions, and a route that still works if one app or one companion falls through.
 
 ### Do not confuse a western-China gateway with altitude readiness
 
-Some patients plan to continue from Chengdu to western Sichuan or Tibet. Treat that as a second medical journey. The CDC notes that altitude risk depends on sleeping elevation and speed of ascent; travellers with cardiac or pulmonary disease and other relevant conditions should consult a clinician familiar with high-altitude medicine [8].
+Some patients plan to continue from Chengdu to western Sichuan or Tibet. Plan that leg as a second medical journey of its own. The CDC notes that altitude risk depends on sleeping elevation and speed of ascent; travellers with cardiac or pulmonary disease and other relevant conditions should consult a clinician familiar with high-altitude medicine [8].
 
-Do not describe Chengdu itself as the high-altitude exposure and do not assume a few hospital days there make a rapid onward ascent safe. Give the clinician the exact next destination, sleeping altitudes, travel mode, ascent schedule, access to oxygen and emergency evacuation, and recent procedure or medicine changes. If treatment has reduced mobility, oxygenation, haemoglobin, hydration, or clinical stability, postpone the onward itinerary until the responsible clinician approves it.
+Chengdu itself is not the high-altitude exposure, and a few hospital days there do not make a rapid onward ascent safe. Give the clinician the exact next destination, sleeping altitudes, travel mode, ascent schedule, access to oxygen and emergency evacuation, plus any recent procedure or medicine changes. If treatment has reduced mobility, oxygenation, haemoglobin, hydration, or clinical stability, hold the onward itinerary until the responsible clinician approves it.
 
 ### Separate clinical cost from city cost
 
-Request a written estimate divided into four ledgers:
+Ask for a written estimate split into four ledgers:
 
 | Ledger | Items to confirm |
 |---|---|
@@ -125,19 +125,19 @@ Request a written estimate divided into four ledgers:
 | Chengdu stay | airport or station transfers, local transport, accommodation, meals, companion, extra nights |
 | change reserve | repeat tests, delayed pathology, changed treatment, complication, flight change, extended recovery |
 
-If direct billing is offered, obtain written confirmation that names the patient, insurer and policy, legal provider, campus, service dates, authorised treatment, deposit, exclusions, and claim documents. A logo on a hospital webpage is not a payment guarantee.
+If direct billing is offered, get written confirmation that names the patient, insurer and policy, legal provider, campus, service dates, authorised treatment, deposit, exclusions, and claim documents. An insurer’s logo on a hospital webpage guarantees nothing about payment.
 
 ### Build the emergency plan before arrival
 
-China’s nationwide pre-hospital medical emergency number is **120** [9]. For severe chest pain, stroke signs, major bleeding, loss of consciousness, respiratory distress, a severe allergic reaction, or rapid deterioration, use local emergency care rather than crossing the city to reach an elective specialist.
+China’s nationwide pre-hospital medical emergency number is **120** [9]. Severe chest pain, stroke signs, major bleeding, loss of consciousness, respiratory distress, a severe allergic reaction, or rapid deterioration all call for the nearest emergency care — even if the elective specialist sits on the other side of the city.
 
-Keep a bilingual emergency card with the diagnosis, allergies, medicines, anticoagulants, implants, recent procedure, passport details, Chengdu address, treating campus, and emergency contact. When calling, give district, road, building, entrance, floor, symptoms, and callback number. Confirm in advance whether the chosen campus has a 24-hour emergency department; a daytime international clinic may not.
+Carry a bilingual emergency card listing the diagnosis, allergies, medicines, anticoagulants, implants, recent procedure, passport details, Chengdu address, treating campus, and an emergency contact. When calling, give the district, road, building, entrance, floor, symptoms, and a callback number. Confirm ahead of time whether the chosen campus has a 24-hour emergency department; a daytime international clinic may well not.
 
 ### Use the zero-distance test at discharge
 
-At discharge, the three distances should close to zero: the record needed at home is delivered, responsibility for pending results is named, and the patient knows where to go if symptoms worsen.
+Discharge is where the three distances should close to zero: the records needed at home are delivered, someone named owns each pending result, and the patient knows where to go if symptoms worsen.
 
-Collect the final diagnosis, treatment and procedure notes, anaesthesia record if relevant, pathology and laboratory results, source imaging, medication reconciliation, implant details, restrictions, warning signs, fit-to-travel advice, follow-up dates, and a contact with stated response hours. Send the final packet to the clinician responsible at home and ask that clinician to confirm receipt. A city hospital choice is complete only when the handoff works after the patient leaves Chengdu.
+Collect the final diagnosis, treatment and procedure notes, the anaesthesia record if relevant, pathology and laboratory results, source imaging, medication reconciliation, implant details, restrictions, warning signs, fit-to-travel advice, follow-up dates, and a contact with stated response hours. Send the final packet to the clinician responsible at home and ask them to confirm receipt. The choice of a Chengdu hospital only really ends when that handoff works after the patient has left.
 
 **Medical disclaimer:** This guide offers general planning information and does not rank or endorse Chengdu hospitals. A qualified clinician who has reviewed the full case must determine clinical suitability, travel timing, and high-altitude fitness. Use immediate local emergency care for severe or rapidly worsening symptoms.
 
@@ -152,19 +152,19 @@ Collect the final diagnosis, treatment and procedure notes, anaesthesia record i
 
 ### Which Chengdu airport should an international patient use?
 
-Use the airport and terminal printed on the actual flight, then compare the complete route to the confirmed hospital campus. Tianfu and Shuangliu are not interchangeable labels, and a transfer between them needs its own time and mobility plan.
+Go by the airport and terminal printed on the actual flight, then work out the complete route to the confirmed hospital campus. Tianfu and Shuangliu cannot be swapped for each other, and a transfer between them needs its own time and mobility plan.
 
 ### Does an international medical department mean treatment is in English?
 
-Not necessarily. Confirm interpretation for the specific clinic, consent, ward rounds, pharmacy, and discharge. Coordination staff and clinical interpreters may be different people with different hours.
+Not by default. Confirm interpretation for the specific clinic, consent, ward rounds, pharmacy, and discharge. The staff who coordinate and the staff who interpret clinically may be different people on different hours.
 
 ### Is Chengdu a safe acclimatisation stop before travelling to Tibet or western Sichuan?
 
-Do not assume so. Safety depends on the next sleeping altitude, ascent rate, health conditions, recent treatment, and emergency access. Give the exact onward itinerary to a clinician familiar with altitude medicine.
+That assumption is risky. Safety depends on the next sleeping altitude, ascent rate, health conditions, recent treatment, and emergency access. Hand the exact onward itinerary to a clinician familiar with altitude medicine.
 
 ### What proves that a Chengdu specialist has accepted the case?
 
-A written clinical response should identify the files reviewed, the question being answered, remaining tests, responsible team, campus, timing, and conditions that could change the plan. A booking receipt alone is insufficient.
+A written clinical response that identifies the files reviewed, the question being answered, remaining tests, the responsible team, the campus, timing, and the conditions that could change the plan. A booking receipt on its own proves none of that.
 
 ## SEO Metadata
 

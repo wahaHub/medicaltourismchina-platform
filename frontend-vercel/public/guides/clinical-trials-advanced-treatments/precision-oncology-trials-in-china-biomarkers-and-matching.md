@@ -13,147 +13,147 @@
 
 ## Key Takeaways
 
-- A biomarker report is not a treatment prescription. Confirm the specimen, assay, exact alteration, evidence level and disease context before searching trials.
-- Tissue and plasma tests answer overlapping but not identical questions; a negative liquid biopsy may be uninformative when little tumour DNA is shed.
-- A biomarker match still has to satisfy tumour type, stage, prior-treatment, measurable-disease, organ-function, washout and site-specific cohort criteria.
-- Basket, umbrella and platform trials organise matching differently. Verify the exact arm and recruitment status at the Chinese site, not just the master protocol.
+- A biomarker report on its own prescribes nothing. Before you search for trials, confirm the specimen, the assay, the exact alteration, the evidence level and the disease context.
+- Tissue and plasma tests overlap, but each can miss what the other catches. When a tumour sheds little DNA, a negative liquid biopsy may tell you nothing at all.
+- A biomarker match is only the first gate. Tumour type, stage, prior treatment, measurable disease, organ function, washout and the site-specific cohort criteria all still apply.
+- Basket, umbrella and platform trials each organise matching in their own way. Confirm the exact arm and its recruitment status at the Chinese site — the master protocol alone won't tell you.
 
 ## Content
 
-Precision oncology is not the act of uploading a sequencing report and receiving the name of a drug. It is a chain of clinical and laboratory judgments. A break at any link—wrong specimen, an assay that cannot detect the required alteration, a variant of uncertain significance, evidence from another cancer, or a closed cohort—can turn an apparently perfect match into no match at all.
+Upload a sequencing report, and no software will hand back the right drug name. Precision oncology is a chain of clinical and laboratory judgments, and the chain breaks easily: wrong specimen, an assay that cannot detect the required alteration, a variant of uncertain significance, evidence borrowed from another cancer, a cohort that closed last month. Any one of these turns an apparently perfect match into no match at all.
 
-NCI describes biomarker testing as analysis of genes, proteins or other features that may help select cancer treatment, while stressing that testing does not help every patient and that even a matching therapy may not work [1]. The sensible output of matching is therefore a ranked set of options and uncertainties, not a promise.
+NCI describes biomarker testing as the analysis of genes, proteins or other features that may help select a cancer treatment, and it is careful to add that testing does not help every patient and that even a matching therapy may not work [1]. So the honest output of a matching exercise is a ranked set of options with their uncertainties attached — never a promise.
 
 ### Start with the clinical question
 
-Before ordering another panel, define what decision the result could change:
+Before you order another panel, write down the decision the result could actually change:
 
-- Is there a standard biomarker required for an approved treatment in this tumour type?
-- Is the goal to find a trial after standard options, explain resistance, or identify an inherited-risk clue?
-- Does the proposed trial require a particular alteration, assay, sample type or central laboratory?
-- Is new tissue medically safe and likely to produce enough viable tumour?
+- Does this tumour type have a standard biomarker that an approved treatment already requires?
+- Are you looking for a trial after standard options run out, trying to explain resistance, or chasing an inherited-risk clue?
+- Does the proposed trial demand a particular alteration, assay, sample type or central laboratory?
+- Would a new biopsy be medically safe, and is it likely to yield enough viable tumour?
 
-Testing without a decision point can produce a long report and no usable action. Conversely, a narrow single-gene test may be enough when the protocol asks one specific question.
+Test without a decision point and you get a long report with nothing to act on. The reverse also happens: when the protocol asks one specific question, a narrow single-gene test may be all you need.
 
 ### Build the “biomarker identity” before matching
 
-Record all of the following, not just a gene name:
+A gene name alone won't do. Record all of the following:
 
-1. **Patient and disease:** pathology, primary site, histologic subtype, stage and current disease status.
-2. **Specimen:** tissue or plasma, collection site and date, primary or metastasis, fixation, tumour percentage and sample identifier.
-3. **Assay:** laboratory, test name and version, genes and variant classes covered, detection limit, quality result and regulatory or accreditation status.
-4. **Exact finding:** standard gene and variant nomenclature, mutation or fusion partner, copy-number method, protein-expression score, MSI or TMB definition, and allele fraction where relevant.
-5. **Interpretation:** diagnostic, prognostic or predictive role; evidence tier; drug, cancer type and line of therapy to which the evidence applies.
+1. **Patient and disease:** the pathology, primary site, histologic subtype, stage and current disease status.
+2. **Specimen:** tissue or plasma, where and when it was collected, whether it came from the primary or a metastasis, the fixation, the tumour percentage and the sample identifier.
+3. **Assay:** the laboratory, the test name and version, which genes and variant classes it covers, its detection limit, the quality result and its regulatory or accreditation status.
+4. **Exact finding:** the standard gene and variant nomenclature, the mutation or fusion partner, the copy-number method, the protein-expression score, the MSI or TMB definition, and the allele fraction where relevant.
+5. **Interpretation:** whether the role is diagnostic, prognostic or predictive; the evidence tier; and the drug, cancer type and line of therapy the evidence actually applies to.
 
-Somatic variant standards jointly developed by AMP, ASCO and CAP recommend a tiered clinical-significance system and clear reporting of method and limitations, with ongoing reassessment as evidence changes [2]. A report’s “Tier I” may refer to that laboratory framework, not the Phase I of a trial.
+The somatic-variant standards that AMP, ASCO and CAP developed together recommend a tiered clinical-significance system, clear reporting of method and limitations, and reassessment as the evidence moves [2]. When a report says “Tier I,” it might mean that laboratory framework — it has nothing to do with a Phase I trial.
 
 ### Four words that must stay separate
 
-- **Pathogenic:** the alteration contributes to disease biology; this does not prove that a drug will benefit this patient.
-- **Actionable:** evidence links the alteration to a clinical action, but the action may be an approved treatment, off-label discussion, another test or a clinical trial.
-- **Companion diagnostic:** an assay provides information essential for safe and effective use of a corresponding product [3]. The label specifies the biomarker, sample, method and therapy context.
-- **Trial eligible:** the full current protocol is satisfied and the relevant site and cohort can enroll the patient.
+- **Pathogenic:** the alteration contributes to disease biology. That alone proves nothing about whether a drug will benefit this patient.
+- **Actionable:** evidence ties the alteration to some clinical action — and that action might be an approved treatment, an off-label discussion, another test or a clinical trial.
+- **Companion diagnostic:** an assay that provides information essential for the safe and effective use of a corresponding product [3]. Its label spells out the biomarker, the sample, the method and the therapy context.
+- **Trial eligible:** the patient satisfies the full current protocol, and the relevant site and cohort can actually enroll them.
 
-A variant of uncertain significance should not be promoted into a treatment target merely because software lists a laboratory study or a drug that affects the same pathway.
+If software lists a laboratory study or a drug that touches the same pathway, that is still no reason to promote a variant of uncertain significance into a treatment target.
 
 ### Match at the alteration level, not the gene level
 
-Different changes in one gene can have opposite meaning. A known activating mutation, loss-of-function mutation, amplification, deletion and fusion are not interchangeable. A trial may accept only specified exons, codons, fusion partners, expression thresholds or copy-number cutoffs.
+Two changes in the same gene can mean opposite things. An activating mutation, a loss-of-function mutation, an amplification, a deletion and a fusion each behave differently, and trials treat them that way. A protocol may accept only specified exons, codons, fusion partners, expression thresholds or copy-number cutoffs.
 
-Ask whether the reported alteration is explicitly listed, whether the assay detects the required variant class, and whether central confirmation is mandatory. If a report says only “positive,” obtain the full laboratory output and specimen details.
+So ask three things: is the reported alteration explicitly listed, does the assay detect the required variant class, and is central confirmation mandatory? And if a report says only “positive,” get the full laboratory output and the specimen details before going further.
 
 ### Tissue, plasma and the timing problem
 
-Tissue preserves morphology and can support DNA, RNA, protein and microenvironment testing, but old blocks may be depleted or degraded. A single biopsy samples one place at one time; tumours can be heterogeneous and change after treatment.
+Tissue preserves morphology and can support DNA, RNA, protein and microenvironment testing. The catch is that old blocks get depleted or degrade. And a single biopsy samples one place at one moment — tumours are heterogeneous, and they change after treatment.
 
-Plasma circulating tumour DNA can be useful when biopsy is unsafe or for detecting resistance, but sensitivity depends on tumour shedding, burden, site and assay design. NCI notes that liquid biopsy may be used when tissue cannot be obtained, while insufficient tumour material and tumour evolution remain important limits [1]. A negative plasma result can be inconclusive rather than proof that an alteration is absent; tissue testing may be needed when clinically feasible [4].
+Plasma circulating tumour DNA helps when a biopsy is unsafe or when you are hunting for resistance, but its sensitivity depends on how much the tumour sheds, on burden, on site and on assay design. NCI notes that liquid biopsy may be used when tissue cannot be obtained, with insufficient tumour material and tumour evolution as important limits [1]. A negative plasma result can be inconclusive; it does not prove the alteration is absent, and tissue testing may be needed when clinically feasible [4].
 
-The protocol decides whether archival tissue, fresh biopsy, plasma or a specified test is acceptable. “NGS already done” does not settle that question.
+Which samples count — archival tissue, fresh biopsy, plasma, a specified test — is the protocol's call. “NGS already done” settles nothing on its own.
 
 ### Evidence has a ladder
 
-Evidence is strongest when a validated assay identifies the same alteration in the same disease and setting for a therapy supported by prospective clinical evidence or a regulatory indication. It becomes less direct when extrapolating across tumour types, variant classes, combination partners or preclinical models.
+The strongest evidence looks like this: a validated assay finds the same alteration, in the same disease and setting, for a therapy backed by prospective clinical evidence or a regulatory indication. Every step away from that — across tumour types, across variant classes, across combination partners, into preclinical models — makes the evidence less direct.
 
-The ESMO ESCAT framework ranks molecular targets from ready for routine implementation through investigational or preclinical evidence to lack of actionability [5]. The particular system matters less than stating the evidence explicitly. A commercial report that puts all “potential therapies” in one list hides crucial differences.
+ESMO's ESCAT framework ranks molecular targets from ready-for-routine-use down through investigational and preclinical evidence to no actionability at all [5]. Which system you use matters less than stating the evidence explicitly. A commercial report that dumps every “potential therapy” into one list hides exactly the differences that matter.
 
-Tissue-agnostic development deliberately studies a molecular alteration across multiple tumour types, but it still needs evidence that the biomarker, assay and drug effect can be interpreted across those cancers [6]. A tissue-agnostic hypothesis is not permission to treat every tumour carrying any change in the pathway.
+Tissue-agnostic development deliberately studies one molecular alteration across many tumour types. Even so, it needs evidence that the biomarker, the assay and the drug effect can be interpreted across those cancers [6]. Having a tissue-agnostic hypothesis gives no one permission to treat every tumour that carries any change in the pathway.
 
 ### How trial structures affect matching
 
-- **Basket trial:** one alteration or pathway is studied across several tumour types, often in separate cohorts.
-- **Umbrella trial:** one tumour type is divided into biomarker-defined treatment arms.
-- **Platform or master protocol:** arms may open, close or change while the overall protocol continues.
-- **Enrichment trial:** only biomarker-positive patients enter.
-- **All-comers with stratification:** biomarker status may define analysis rather than eligibility.
+- **Basket trial:** one alteration or pathway, studied across several tumour types, usually in separate cohorts.
+- **Umbrella trial:** a single tumour type, split into biomarker-defined treatment arms.
+- **Platform or master protocol:** the overall protocol keeps running while individual arms open, close or change.
+- **Enrichment trial:** entry is limited to biomarker-positive patients.
+- **All-comers with stratification:** biomarker status may drive the analysis instead of deciding who gets in.
 
-NCI-MATCH screened nearly 6,000 patients and assigned 1,593 to 38 molecular substudies; among the initial 27 reported substudies, seven met the study’s signal-seeking definition of positive [7]. The lesson is not that matching fails, but that finding an alteration, obtaining an assignment and observing meaningful activity are three separate probabilities.
+NCI-MATCH screened nearly 6,000 patients and assigned 1,593 of them to 38 molecular substudies; of the first 27 substudies reported, seven met the study's signal-seeking definition of positive [7]. Matching works — but finding an alteration, getting an assignment and seeing meaningful activity are three separate probabilities, and the numbers show it.
 
 ### From report to a Chinese trial site
 
-For each candidate, create a one-line match record:
+For each candidate, keep a one-line match record:
 
 `trial ID → Chinese site → exact arm/cohort → required alteration → accepted assay/sample → disease/line → recruitment confirmation date`
 
-Then ask the site:
+Then ask the site directly:
 
-- Is this arm open here, with an available slot?
-- Will an overseas laboratory report be accepted for pre-screening?
-- Is central retesting required, and who pays for it?
-- Are the block, slides or extracted nucleic acid acceptable, and can they be shipped lawfully?
-- What minimum tissue, tumour percentage and recency apply?
-- Does a negative result permit another specimen or method?
-- What non-biomarker criteria are common reasons for screen failure?
+- Is this arm open at this site, and is there a slot?
+- Will you accept an overseas laboratory report for pre-screening?
+- If central retesting is required, who pays for it?
+- Do you accept the block, slides or extracted nucleic acid — and can those be shipped lawfully?
+- What are your minimums for tissue, tumour percentage and sample recency?
+- If the result is negative, can we try another specimen or another method?
+- Which non-biomarker criteria most often cause screen failure here?
 
-China regulates in-vitro diagnostic reagents and their clinical evidence, and NMPA has issued specific technical-review guidance for oncology companion diagnostics [8]. Regulatory status in another country does not automatically establish acceptance by a Chinese trial laboratory. The protocol and site laboratory manual govern trial screening.
+China regulates in-vitro diagnostic reagents and the clinical evidence behind them, and NMPA has issued technical-review guidance specifically for oncology companion diagnostics [8]. An approval in another country does not automatically make a report acceptable to a Chinese trial laboratory. What governs screening is the protocol and the site laboratory manual.
 
 ### Do not forget the rest of eligibility
 
-Even a confirmed alteration does not override pathology, disease stage, measurable lesions, prior therapies, resistance definitions, washout, unresolved toxicity, performance status, organ function, infection, brain metastases, concomitant medicines or reproductive-safety rules. A site may need original images, treatment dates and laboratory units to apply these criteria.
+A confirmed alteration changes none of the other gates: pathology, disease stage, measurable lesions, prior therapies, resistance definitions, washout, unresolved toxicity, performance status, organ function, infection, brain metastases, concomitant medicines and reproductive-safety rules all still apply. To check them, a site may ask for original images, treatment dates and laboratory units.
 
-Timing also matters. While central testing is pending, the disease may worsen or a standard treatment may begin and change eligibility. Ask both the trial investigator and treating oncologist how long it is medically safe to wait. Never delay urgent care for a theoretical molecular match.
+Timing can undo all of this. While central testing is pending, the disease may worsen, or a standard treatment may start and change the eligibility picture. Ask both the trial investigator and the treating oncologist how long it is medically safe to wait. Urgent care should never wait for a theoretical molecular match.
 
 ### Molecular tumour-board review
 
-A useful molecular review connects laboratory findings to the pathology and treatment timeline. Its written output should separate:
+A good molecular review ties the laboratory findings back to the pathology and the treatment timeline. In writing, it should separate:
 
-- standard-care options available now;
-- trial options with exact IDs and cohorts;
-- evidence from another tumour type or drug class;
-- resistance alterations and contraindicating findings;
-- variants with no current clinical action;
-- germline findings that require confirmatory testing and genetic counselling.
+- the standard-care options available now;
+- trial options, with exact IDs and cohorts;
+- evidence borrowed from another tumour type or drug class;
+- resistance alterations and findings that argue against a treatment;
+- variants with no clinical action today;
+- germline findings that call for confirmatory testing and genetic counselling.
 
-It should also document why the preferred specimen and test were chosen, what could have been missed, and when retesting might be justified. “No actionable mutation” means no supported action was identified under the tested scope and current evidence—not that the cancer has no molecular changes.
+It should also say why that specimen and that test were chosen, what could have been missed, and when retesting would be justified. “No actionable mutation” does not mean the cancer has no molecular changes — only that no supported action turned up within the tested scope and current evidence.
 
 ### A safe matching endpoint
 
-The final pre-screen package should contain the pathology report, complete molecular report, sample provenance, treatment timeline, recent imaging, performance status, current medicines and key laboratory results. The site, not a matching vendor, must confirm eligibility.
+By the end, the pre-screen package should hold the pathology report, the complete molecular report, the sample provenance, the treatment timeline, recent imaging, performance status, current medicines and key laboratory results. And eligibility must be confirmed by the site itself — a matching vendor cannot do that.
 
-Keep standard treatment and symptom control visible alongside research. Precision oncology is most useful when it narrows uncertainty honestly; it becomes dangerous when the molecular language is used to overstate certainty.
+Keep standard treatment and symptom control on the table alongside the research options. Precision oncology earns its place when it narrows uncertainty honestly; it turns dangerous when molecular language gets used to overstate certainty.
 
-**Medical disclaimer:** This guide is educational and does not interpret an individual genomic report or recommend a trial. Molecular findings require review by the relevant laboratory, oncology team and study investigator.
+**Medical disclaimer:** This guide is educational and does not interpret an individual genomic report or recommend a trial. Molecular findings need review by the relevant laboratory, the oncology team and the study investigator.
 
 ## FAQ
 
 ### Does an “actionable” mutation guarantee a matching trial?
 
-No. Actionability can include approved care, off-label evidence or an investigational hypothesis. The exact variant, cancer context, assay, protocol criteria, site and open cohort must all match.
+No. “Actionable” can mean approved care, off-label evidence or an investigational hypothesis. For a real match, the exact variant, the cancer context, the assay, the protocol criteria, the site and an open cohort all have to line up.
 
 ### Should I repeat an old tumour test?
 
-Sometimes. Retesting may be useful after disease evolution or treatment resistance, but biopsy safety, tissue adequacy, the decision to be changed and the protocol’s accepted specimens should guide it.
+Sometimes. Retesting can pay off after the disease evolves or resistance develops, but let biopsy safety, tissue adequacy, the decision you would change and the protocol's accepted specimens guide that call.
 
 ### Is a negative liquid biopsy enough to rule out a target?
 
-Not always. Low tumour shedding can cause a non-informative negative result. When clinically feasible and relevant, the team may recommend tissue testing or another validated method.
+Not always. A tumour that sheds little DNA can produce a negative result that tells you nothing. When it is clinically feasible and relevant, the team may recommend tissue testing or another validated method.
 
 ### Can a variant of uncertain significance qualify me for treatment?
 
-Usually not by itself. A VUS lacks sufficient evidence for clinical action. A trial can study exploratory variants only if its protocol explicitly accepts them.
+Usually not on its own. A VUS simply lacks the evidence for clinical action. A trial may study exploratory variants, but only when its protocol explicitly accepts them.
 
 ### Who makes the final precision-trial match?
 
-The study investigator applies the current protocol. A molecular tumour board or matching service can rank candidates, but cannot guarantee eligibility or a slot.
+The study investigator, applying the current protocol. A molecular tumour board or matching service can rank candidates; neither can guarantee eligibility or a slot.
 
 ## SEO Metadata
 

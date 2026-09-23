@@ -150,15 +150,15 @@ The conversation is ready only when the patient can describe the choice without 
 
 ## FAQ
 
-### 2. What if the doctor cannot give an exact percentage?
+### What if the doctor cannot give an exact percentage?
 
 Ask for a reasonable range, the evidence source, why it may differ for this patient and which new information could narrow the uncertainty. False precision is not better information.
 
-### 4. Are pictures always easier than numbers?
+### Are pictures always easier than numbers?
 
 Not automatically. Icon arrays can help when they use the same denominator and neutral design, but confusing colors or changing scales can mislead. Use pictures alongside clear numbers [1].
 
-### 5. Who should perform teach-back when an interpreter is used?
+### Who should perform teach-back when an interpreter is used?
 
 The responsible clinician should ask; the qualified interpreter should translate the full exchange. Teach-back checks the clinician’s explanation and should not be delegated to a family member.
 

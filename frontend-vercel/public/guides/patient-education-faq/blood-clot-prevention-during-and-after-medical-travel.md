@@ -122,23 +122,23 @@ If the flight is delayed, the patient should know whether the medicine plan rema
 
 ## FAQ
 
-### 1. Is everyone on a flight longer than four hours at high risk of a clot?
+### Is everyone on a flight longer than four hours at high risk of a clot?
 
 No. Long immobility increases risk, but absolute risk is low for many travelers without other factors. Recent surgery, active cancer, prior VTE and other conditions can make the same journey much more important [1][3].
 
-### 2. Should I take aspirin before flying after surgery?
+### Should I take aspirin before flying after surgery?
 
 Do not self-prescribe it. Aspirin is not routine travel-VTE prevention and can add bleeding risk. High-risk travelers need an individualized plan that considers the operation and any prescribed anticoagulant [1][3].
 
-### 3. Do compression stockings replace anticoagulant injections?
+### Do compression stockings replace anticoagulant injections?
 
 No. They work differently and are not interchangeable. Some patients need one, both or neither. Fit, arterial circulation, skin condition, clot risk and bleeding risk determine the plan.
 
-### 4. Does drinking plenty of water prevent DVT?
+### Does drinking plenty of water prevent DVT?
 
 Hydration is reasonable, but direct evidence does not show it prevents travel-associated VTE [1]. Safe mobility and calf movement matter, and high-risk patients may need clinician-directed mechanical or drug prevention.
 
-### 5. What should I do for sudden breathlessness on the journey home?
+### What should I do for sudden breathlessness on the journey home?
 
 Treat it as an emergency, especially with chest pain, fainting, coughing blood or recent surgery. Alert cabin or transport staff and obtain emergency assessment at the nearest appropriate location; do not wait for the original surgeon’s reply.
 

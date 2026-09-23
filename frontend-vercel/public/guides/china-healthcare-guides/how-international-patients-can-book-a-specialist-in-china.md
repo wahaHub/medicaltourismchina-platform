@@ -13,67 +13,67 @@
 
 ## Key Takeaways
 
-- Chinese hospitals commonly offer timed appointments through several channels, but the available identity documents, languages and payment methods differ by platform and institution.[1][2]
-- Use the patient’s name exactly as shown in the passport. Inconsistent spelling, name order or passport numbers can create duplicate records or prevent check-in.
-- Choose a department and subspecialty before choosing a famous doctor. A senior specialist is not useful if the booking is for the wrong clinical question.
-- An online reservation is usually an outpatient appointment, not acceptance for surgery, admission or a specific treatment.
-- Save a confirmation showing hospital, campus, department, doctor, date, time, patient identity, fee status and cancellation rules.
+- Timed appointments are standard at Chinese hospitals and there are several ways to book. Which identity documents, languages and payment methods actually work depends on the platform and the hospital.[1][2]
+- Copy the patient’s name from the passport, letter for letter. A different spelling, a swapped name order or a wrong passport number can leave you with duplicate records, or stuck at check-in.
+- Pick the department and subspecialty first, the famous name second. Even a senior specialist cannot help much when the booking lands on the wrong clinical question.
+- What you reserve online is usually one outpatient visit. It says nothing about being accepted for surgery, admission or any specific treatment.
+- Keep a confirmation that shows the hospital, campus, department, doctor, date, time, patient identity, fee status and cancellation rules.
 
 ## Content
 
-The phrase “book a specialist” hides several decisions. Is the patient asking for a first diagnosis, a second opinion, a procedure assessment or follow-up? Does the hospital need to review records first? Is the doctor’s clinic held at the same campus where treatment would occur?
+“Booking a specialist” sounds like one action; in practice it is several decisions. Does the patient need a first diagnosis, a second opinion, a procedure assessment or a follow-up? Will the hospital want to review records first? And does the doctor actually hold clinic at the campus where treatment would happen?
 
-China’s national patient-experience policy asks secondary and tertiary hospitals to provide appointment systems, several booking channels, multiple valid identity documents and time-slotted visits.[1] The technology is widespread, but there is no single national booking workflow for every international patient. Each hospital decides which channels, documents and international services it supports.
+National patient-experience policy requires secondary and tertiary hospitals in China to run appointment systems with several booking channels, multiple accepted identity documents and time-slotted visits.[1] The systems exist almost everywhere. What does not exist is one national workflow that covers international patients: each hospital sets its own channels, accepted documents and international services.
 
 ## Step 1: Define the Appointment in One Sentence
 
-Write the clinical request before searching names. For example:
+Before you search any doctor’s name, write down the clinical request. For example:
 
 - “Review whether this pathology diagnosis should be revised.”
 - “Assess candidacy for minimally invasive mitral-valve surgery.”
 - “Plan rehabilitation after incomplete spinal-cord injury.”
 - “Give a second opinion after progression on two cancer treatments.”
 
-This sentence determines the department, subspecialty and records required. “I need the best neurologist” is too broad for useful triage.
+That one sentence settles the department, the subspecialty and the records you will need. “I need the best neurologist” gives triage staff nothing to work with.
 
-If the case is complex, send a one-page summary and key reports to the hospital’s official international service or patient centre before paying. Ask whether clinical staff reviewed the material or whether an administrator merely confirmed receipt.
+For a complex case, email a one-page summary and the key reports to the hospital’s official international service or patient centre before paying anything. Then ask a pointed question: did a clinician review the material, or did an administrator only confirm it arrived?
 
 ## Step 2: Verify the Hospital, Campus and Doctor
 
-Start from an official hospital site, verified public service or the hospital’s confirmed telephone and social-media channels. Hospital names can have several English translations, and search results may mix the flagship campus with branches.
+Begin with the hospital’s official site, a verified public service, or the telephone and social-media channels the hospital has confirmed. One hospital can appear under several English names, and search results often blend the flagship campus with its branches.
 
 Check:
 
-- Exact Chinese and English hospital name
+- The hospital’s exact name in Chinese and English
 - Campus address
 - Department and subspecialty
-- Doctor’s full name and title
+- The doctor’s full name and title
 - Clinic type: ordinary, expert, special-service, international, multidisciplinary or remote
 - Whether the doctor personally attends that clinic
 
-A doctor profile copied by an intermediary may be outdated. If a hospital cannot confirm the doctor’s current clinic, do not book travel around it.
+Profiles copied onto an intermediary’s website go stale quickly. Until the hospital confirms the doctor’s current clinic, keep the travel bookings on hold.
 
 ## Step 3: Create a Consistent Patient Identity
 
-Appointments are normally made under the patient’s real identity. National policy promotes real-name booking and permits hospitals to support several valid identity documents.[1][2] For a foreign patient, the passport is usually the safest reference, but acceptance varies.
+Bookings are made under the patient’s real identity. National policy pushes real-name registration and lets hospitals accept several kinds of valid identity documents.[1][2] For a foreign patient the passport is normally the safest anchor, though not every platform accepts it.
 
-Enter the patient—not the companion—as the registered person. Copy the passport name exactly, including spacing and name order as the platform requires. Use the same passport number, date of birth and telephone number across booking, payment and hospital registration.
+The registered person is the patient, never the companion. Type the passport name exactly, spacing and name order included, in whatever format the platform asks for. Passport number, date of birth and telephone number should match across booking, payment and hospital registration.
 
-If the platform accepts only a Chinese identity number or domestic mobile number, contact the hospital instead of inventing information. The international office may create a record manually, use a passport-enabled channel or arrange registration at the counter.
+Some platforms only take a Chinese identity number or a domestic mobile number. When that happens, call the hospital and do not make anything up. The international office can often create the record by hand, route you through a passport-friendly channel, or register you at the counter on arrival.
 
 ## Step 4: Choose the Booking Route
 
-Possible routes include the hospital’s app or mini-program, official website, telephone line, on-site counter, self-service kiosk, international medical department, referring clinician or an authorised regional platform. National guidance encourages hospitals to provide several routes and to integrate booking with check-in, payment, navigation and results.[2]
+The usual routes: the hospital’s app or mini-program, its official website, a telephone line, the on-site counter, a self-service kiosk, the international medical department, a referring clinician, or an authorised regional platform. National guidance pushes hospitals to offer several of these and to link booking with check-in, payment, navigation and results.[2]
 
-Use the route that produces a verifiable hospital record. If an agent books on the patient’s behalf, require the original hospital confirmation and payment receipt. Do not accept only a screenshot of a chat message.
+Whichever route you use, it must leave a verifiable record inside the hospital’s own system. An agent booking on the patient’s behalf should hand over the original hospital confirmation and the payment receipt. A chat screenshot alone is not proof of anything.
 
-For scarce appointments, ask about a waiting list, cancellation release time or another clinician in the same team. Avoid unofficial “guaranteed appointment” sellers; real-name systems and anti-scalping rules can cause such bookings to fail at check-in.[1]
+When slots are scarce, ask about a waiting list, the time cancelled slots are released, or another clinician in the same team. Stay away from unofficial sellers promising “guaranteed appointments”; real-name systems and anti-scalping rules can make those bookings collapse at check-in.[1]
 
 ## Step 5: Confirm What the Appointment Includes
 
-Before payment, ask whether the fee covers one in-person consultation, record review, multidisciplinary meeting or remote opinion. Clarify whether imaging and pathology review are separate.
+Before you pay, pin down what the fee buys: one in-person consultation, a record review, a multidisciplinary meeting or a remote opinion. Imaging and pathology review may be billed separately, so ask.
 
-Also ask:
+Then run through a short list:
 
 - How long the consultation is scheduled for
 - Whether an interpreter may attend
@@ -83,19 +83,19 @@ Also ask:
 - Whether a written English summary is available
 - What happens if the doctor changes schedule
 
-An expert clinic may answer a focused question but may not arrange immediate admission. If treatment is the goal, ask what additional assessment is required after the consultation.
+An expert clinic can answer a focused question yet still send you home without an admission plan. If treatment is why you came, ask what further assessment stands between the consultation and a decision.
 
 ## Step 6: Read the Confirmation Like a Boarding Pass
 
-The confirmation should show the patient’s identity, hospital and campus, department, doctor, appointment date and time, booking number, fee status, check-in location and cancellation or late-arrival rules.
+It should name the patient, the hospital and campus, the department and doctor, the appointment date and time, the booking number, the fee status, the check-in location, and the rules on cancellation and late arrival.
 
-“09:00 appointment” may mean a check-in window rather than the exact minute of consultation. Arrive early enough to create or verify the hospital record, pay any remaining fee and find the department. National guidance promotes appointments in defined time slots, but actual waiting still depends on clinical workload.[2]
+A “09:00 appointment” often marks a check-in window, not the minute you sit down with the doctor. Get there early enough to create or verify the hospital record, pay whatever is left and locate the department. Time-slot booking is national policy; real waiting times still follow the day’s clinical workload.[2]
 
-Save the confirmation offline. A foreign phone may not have data on arrival, and a booking hidden inside an app can be hard to retrieve at the counter.
+Keep a copy of the confirmation offline. A foreign phone may have no data when you land, and a booking buried inside an app is awkward to pull up at the counter.
 
 ## Step 7: Prepare the Smallest Useful File Set
 
-Do not carry only a thick unsorted folder. Bring:
+A thick, unsorted folder helps no one. Bring a small, ordered set:
 
 - Passport and appointment confirmation
 - One-page clinical summary
@@ -106,19 +106,19 @@ Do not carry only a thick unsorted folder. Bring:
 - Previous treatment dates and response
 - Interpreter or communication plan
 
-Label each file with patient name and date. Keep original-language records and translations separate.
+Put the patient’s name and the date on every file, and store original-language records apart from their translations.
 
 ## Changes, Cancellations and No-Shows
 
-Clinic schedules can change because of surgery, emergency duty or academic commitments. Check the hospital’s official message channel shortly before travel and again the day before the visit. Ask whether another doctor from the same team can see the patient if the named specialist is unavailable.
+Schedules move. Surgery, emergency duty or an academic commitment can pull a doctor out of clinic. Watch the hospital’s official message channel in the days before travel, and once more the day before the visit. If the named specialist drops out, ask whether another doctor from the same team can step in.
 
-Cancel through the original channel when possible. Repeated missed appointments may affect future booking on real-name systems. Keep refund evidence if a fee was prepaid.
+When you need to cancel, go back through the original channel. Real-name systems notice repeated no-shows, and future bookings may suffer. If a fee was prepaid, hold on to the refund evidence.
 
 ## When Booking Is Not the Right First Step
 
-Do not wait for a routine specialist slot if symptoms are severe or rapidly worsening. Use emergency services. Conversely, if the request is for elective complex treatment, do not buy flights based only on an outpatient booking. Obtain record review, clinical acceptance and a realistic next-step plan first.
+Severe or rapidly worsening symptoms call for emergency services, not a routine specialist slot. At the other extreme, an outpatient booking alone is a poor reason to buy flights for elective complex treatment. Get the records reviewed, the clinical acceptance and a realistic next-step plan first.
 
-**Medical disclaimer:** This guide explains appointment logistics. It does not select a specialist, determine urgency or guarantee that a hospital will offer treatment after consultation.
+**Medical disclaimer:** This guide covers appointment logistics only. It does not choose a specialist for you, judge urgency, or promise that a hospital will treat you after the consultation.
 
 ## Related Guides
 
@@ -131,23 +131,23 @@ Do not wait for a routine specialist slot if symptoms are severe or rapidly wors
 
 ### Can I book with a passport?
 
-Many hospitals support passport registration or manual international-patient intake, but not every online platform does. Ask the hospital which channel accepts the patient’s document.[1]
+Plenty of hospitals take a passport or can register an international patient manually. Some online platforms cannot. Ask the hospital which of its channels accepts your document.[1]
 
 ### Do I need a Chinese mobile number?
 
-Some systems require one for verification and messages. If you do not have one, ask the international office whether it can use email, an overseas number or manual registration.
+Certain systems insist on one for verification codes and notifications. Without one, ask the international office if it can work with email, an overseas number or manual registration instead.
 
 ### Does booking a famous specialist guarantee that doctor will treat me?
 
-No. It usually confirms a consultation only. The doctor may recommend another team, more tests or no treatment at that hospital.
+No. What you hold is a consultation. The doctor may hand you to another team, order more tests, or decide that hospital is the wrong place for treatment.
 
 ### Can someone else make the booking for me?
 
-Often yes, but the patient’s real identity must be used. Request the original hospital confirmation and avoid bookings made under another person’s identity.
+Usually, yes, as long as the booking sits under the patient’s real identity. Ask for the original hospital confirmation, and never use a booking made in someone else’s name.
 
 ### What if the specialist cancels after I have booked travel?
 
-Ask whether another clinician from the same team can cover, whether a remote review is possible and what the refund rules are. For high-cost travel, obtain clinical review before booking non-refundable arrangements.
+Ask three things: can another clinician from the same team step in, is a remote review possible, and what are the refund rules. When the travel is expensive, get the clinical review done before you commit to anything non-refundable.
 
 ## SEO Metadata
 

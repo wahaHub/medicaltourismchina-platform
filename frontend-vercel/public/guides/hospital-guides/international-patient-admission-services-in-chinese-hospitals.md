@@ -15,23 +15,23 @@
 
 ## Key Takeaways
 
-- “We can assist” is not a clinical acceptance. Ask for the admitting department, responsible physician, reason for admission, unresolved risks, and what must happen before treatment.
-- Clinical acceptance is not a bed. Confirm the legal hospital, exact campus, ward, room class, target date, bed-release rule and after-hours arrival route.
+- “We can assist” from a hospital office does not equal clinical acceptance. Ask for the admitting department, responsible physician, reason for admission, unresolved risks, and what must happen before treatment.
+- A clinician's yes and an actual bed are two separate things. Confirm the legal hospital, exact campus, ward, room class, target date, bed-release rule and after-hours arrival route.
 - Build one identity from the passport. Align the name, date of birth, sex and passport number across the invitation, hospital record, wristband, specimens, insurance and final invoice.
-- A deposit, insurer guarantee and final responsibility are different. Obtain a written payer map, exclusions, limit, pre-authorisation conditions and the rule if the plan changes.
+- A deposit, an insurer guarantee and final responsibility are three different things. Obtain a written payer map, exclusions, limit, pre-authorisation conditions and the rule if the plan changes.
 - Start discharge on admission: decide who can copy records, which source files and invoices are needed, who translates them, and which clinician at home receives responsibility.
 
 ## Content
 
-International admission fails in ordinary gaps. The specialist says yes, but the bed is at another campus. The insurer issues a guarantee, but the implant is excluded. The patient arrives under a passport name that does not match an older hospital record. The “international department” arranged a room, but no clinical team accepted the case.
+Most international admissions that go wrong fail over mundane gaps. A specialist says yes, but the bed turns out to be at another campus. The insurer's guarantee arrives with the implant excluded. A patient flies in under a passport name that doesn't quite match an older hospital record. Sometimes the international department books a room while no clinical team has actually taken the case.
 
-Before a non-emergency flight, obtain four confirmations in one file: **clinical, bed/campus, identity, and payment.** None can substitute for another.
+Before any non-emergency flight, collect four confirmations in one file: **clinical, bed/campus, identity, and payment.** Each one covers a gap the other three can't.
 
 ### Emergencies do not wait for an admission package
 
 Severe or rapidly worsening symptoms, unstable vital signs, major bleeding, new neurological deficit, severe breathlessness, chest pain, reduced consciousness or another possible emergency require immediate local care. In China, call **120** or go to an emergency department. National core systems require urgent and critically ill patients to receive priority rescue and necessary help with transfer when a condition is outside the institution’s scope [1].
 
-Do not send a deteriorating patient to an international-services lobby with a planned admission letter. Ask the hospital in advance which emergency entrance, telephone and campus should be used if the condition changes during travel.
+A deteriorating patient belongs in an emergency department, not in an international-services lobby holding a planned admission letter. Ask the hospital in advance which emergency entrance, telephone and campus should be used if the condition changes during travel.
 
 ### Confirmation 1: a clinician has accepted the patient
 
@@ -46,13 +46,13 @@ A useful clinical acceptance names:
 - the expected first 24–48 hours;
 - the service responsible if the case becomes more complex.
 
-Distinguish three replies:
+Replies from hospitals come in three grades:
 
 1. **administrative acknowledgement:** records were received;
 2. **preliminary clinical opinion:** a clinician thinks the case may be suitable;
 3. **admission acceptance:** a department agrees to assess or treat the patient as an inpatient, subject to stated conditions.
 
-An admission acceptance is not a guarantee of a particular operation or result. Examination, pathology, imaging, infection screening or anaesthetic assessment may change the plan. China’s first-contact responsibility system requires a clear responsible party and continuity until another clinician takes over [1]; ask how that responsibility begins for a pre-arranged international patient.
+Even the third grade doesn't promise a particular operation or result. Examination, pathology, imaging, infection screening or anaesthetic assessment may change the plan. China’s first-contact responsibility system requires a clear responsible party and continuity until another clinician takes over [1]; ask how that responsibility begins for a pre-arranged international patient.
 
 ### Confirmation 2: the bed is at the correct place and time
 
@@ -69,9 +69,9 @@ Request a bed confirmation or admission instruction with:
 - contact for delay, late arrival or weekend/holiday arrival;
 - how long the bed can be held and what releases it.
 
-“Bed available next week” can mean a forecast, not a reservation. Ask whether the bed is conditional on a same-day clinic review, deposit, laboratory result, insurance guarantee or discharge of another patient. Book flexible travel until the hospital explains which confirmation is final.
+“Bed available next week” is often a forecast rather than a reservation. Ask whether the bed depends on a same-day clinic review, a deposit, a laboratory result, an insurance guarantee or another patient's discharge. Book flexible travel until the hospital explains which confirmation is final.
 
-Verify the institution and physician through official public queries [2]. A cooperation logo, overseas office or hotel-clinic package does not prove that the admitting ward belongs to the named hospital.
+Verify the institution and physician through official public queries [2]. A cooperation logo, an overseas office or a hotel-clinic package proves nothing about whether the admitting ward belongs to the named hospital.
 
 ### Confirmation 3: one patient identity will survive the whole stay
 
@@ -84,9 +84,9 @@ Use the passport biographical page as the master identity unless the hospital in
 - Chinese name or transliteration, if used;
 - old medical-record numbers, former passports or alternate spellings.
 
-Do not create a fresh record merely because an old name is inconvenient. Ask the medical-record office to link or merge duplicates under its controlled process. China’s medical-record rules require a unique patient identifier linked to identity documents, and the current patient-identification standard calls for at least two identification methods throughout the care cycle [3][4].
+Never open a fresh record just because an old name is inconvenient. Ask the medical-record office to link or merge duplicates under its controlled process. China’s medical-record rules require a unique patient identifier linked to identity documents, and the current patient-identification standard calls for at least two identification methods throughout the care cycle [3][4].
 
-At admission, compare the passport, wristband, admission sheet and medicine/allergy list before the first specimen, scan, transfusion or procedure. Correct discrepancies at their source; do not rely on a handwritten note that may not propagate to laboratory, pharmacy and billing systems.
+At admission, compare the passport, wristband, admission sheet and medicine/allergy list before the first specimen, scan, transfusion or procedure. Correct discrepancies at their source. A handwritten note on the file may never reach the laboratory, pharmacy and billing systems.
 
 ### Build a record packet for the admitting team
 
@@ -103,7 +103,7 @@ Send source records plus a concise clinical index:
 - advance directives or legal representative documents where applicable;
 - passport and insurer/member information in a separate secure administrative file.
 
-Mark each translation as a translation and keep the source. Ask which tests the hospital will accept, which it must repeat, and why. “Bring all records” is not enough if pathology slides, a device programmer, dialysis slot or blood product must be arranged before arrival.
+Mark each translation as a translation and keep the source. Ask which tests the hospital will accept, which it must repeat, and why. “Bring all records” stops being useful the moment pathology slides, a device programmer, a dialysis slot or a blood product has to be arranged before arrival.
 
 ### Confirmation 4: payment has an owner
 
@@ -119,13 +119,13 @@ Create a payer map rather than a single total:
 | ICU, complication or longer stay |  |  |  |
 | interpreter, companion and transport |  |  |  |
 
-For third-party payment, verify the legal payer, guarantee number, currency, maximum amount, validity dates, covered hospital/campus, authorised diagnosis/procedure, exclusions, deductible/co-pay, extension process and who receives invoices. A guarantee of payment is not necessarily unlimited insurance coverage, and an insurance card is not a guarantee.
+For third-party payment, verify the legal payer, guarantee number, currency, maximum amount, validity dates, covered hospital/campus, authorised diagnosis/procedure, exclusions, deductible/co-pay, extension process and who receives invoices. A guarantee of payment may still carry a limit and exclusions, and an insurance card by itself guarantees nothing.
 
-Ask the hospital what deposit remains necessary and when additional funds are requested. China’s hospital price-management rules require price disclosure and patient access to itemised medical-service, medicine and consumable charges [5]. National electronic medical receipts distinguish deposits, additions, refunds and payment sources and support a detailed charge statement [6]. Request daily access rather than waiting for discharge.
+Ask the hospital what deposit remains necessary and when additional funds are requested. China’s hospital price-management rules require price disclosure and patient access to itemised medical-service, medicine and consumable charges [5]. National electronic medical receipts distinguish deposits, additions, refunds and payment sources and support a detailed charge statement [6]. Ask for daily access instead of waiting for the discharge invoice.
 
 ### Draw a boundary around the international department
 
-An international office may coordinate appointments, invitation letters, interpreters, deposits, rooms, transport and insurer communication. It should not silently replace the attending physician, pharmacy, medical-record office, finance department or informed-consent process.
+An international office may coordinate appointments, invitation letters, interpreters, deposits, rooms, transport and insurer communication. What it should never quietly take over: the attending physician's judgement, the pharmacy, the medical-record office, the finance department or the informed-consent process.
 
 Ask for a responsibility table:
 
@@ -140,21 +140,21 @@ Ask for a responsibility table:
 | records and source images | medical-record/imaging department |
 | discharge and home handoff | attending team/case manager |
 
-If all answers point to one salesperson’s messaging account, responsibility is not yet adequately defined.
+If every answer points to one salesperson's messaging account, responsibility is not yet adequately defined.
 
 ### Make the arrival day boring
 
 Carry—not only check—passport, admission instruction, responsible contacts, medicine list, essential medicines in original labelled packaging, allergies, clinical summary, insurance guarantee, payment means and device information. Confirm airport/rail assistance, wheelchair, oxygen or medical transport separately.
 
-Before taking home medicines into the ward, give them to staff for reconciliation; do not self-administer without agreement. Ask whether a companion may stay, what identification is required, visiting hours, infection-control rules, meals, laundry, internet, secure storage and accessibility.
+Before taking home medicines into the ward, give them to staff for reconciliation; don't self-administer without agreement. Ask whether a companion may stay, what identification is required, visiting hours, infection-control rules, meals, laundry, internet, secure storage and accessibility.
 
 Record the names of the attending doctor, responsible nurse and case manager. Within the first day, reconcile the diagnosis, medicines, tests, diet, activity, fall/pressure-injury risks, interpreter plan and expected decision date.
 
 ### Protect consent and communication
 
-Administrative translation is not clinical interpretation. Arrange qualified interpretation for diagnosis, risks, alternatives, anaesthesia, surgery, blood, high-risk medicines, research and discharge. Allow the patient to ask questions directly and use teach-back rather than accepting a signed form as proof of understanding.
+The person translating admission paperwork is not necessarily the person who should interpret a consent discussion. Arrange qualified interpretation for diagnosis, risks, alternatives, anaesthesia, surgery, blood, high-risk medicines, research and discharge. Let the patient ask questions directly, and use teach-back rather than treating a signed form as proof of understanding.
 
-Document who may receive information, make decisions if the patient lacks capacity, access portals, speak with the insurer and collect records. China’s 2025 electronic-record guidance reiterates privacy protection and role-based access to electronic records [7]. Do not circulate a full passport and medical file through uncontrolled group chats when a secure channel is available.
+Document who may receive information, make decisions if the patient lacks capacity, access portals, speak with the insurer and collect records. China’s 2025 electronic-record guidance reiterates privacy protection and role-based access to electronic records [7]. Where a secure channel exists, a full passport and medical file shouldn't circulate through uncontrolled group chats.
 
 ### Run the admission with three short checkpoints
 
@@ -164,11 +164,11 @@ Use a daily or milestone update:
 - **operational:** bed/ward, test timing, interpreter, discharge dependency;
 - **financial:** charges to date, remaining authorisation, new high-cost item.
 
-Before a procedure, confirm patient, site/side, procedure, allergies, implants, blood, imaging and consent. If the plan expands beyond the authorised estimate, ask the clinical reason first, then update payment; never let finance communication become the only explanation of a clinical change.
+Before a procedure, confirm patient, site/side, procedure, allergies, implants, blood, imaging and consent. If the plan grows beyond the authorised estimate, ask the clinical reason first and then update payment. Finance communication should never end up as the only explanation of a clinical change.
 
 ### Start the exit file on the day of admission
 
-China’s medical-record rules permit eligible patients or agents to request copies of admission notes, orders, consent forms, anaesthetic and operation records, critical-care nursing records, discharge records, pathology, laboratory and imaging materials [3]. Ask the records office for its application, identity/authorisation, completion time, seal, format, image-export and translation process early.
+China’s medical-record rules permit eligible patients or agents to request copies of admission notes, orders, consent forms, anaesthetic and operation records, critical-care nursing records, discharge records, pathology, laboratory and imaging materials [3]. Ask the records office early about its application, identity/authorisation, completion time, seal, format, image-export and translation process.
 
 At discharge, collect:
 
@@ -182,7 +182,7 @@ At discharge, collect:
 - itemised charges, deposit/refund record and official receipt;
 - fitness-to-travel decision and receiving clinician acknowledgement.
 
-The true admission service is not airport pickup or a private room. It is the system that gets the right patient, team, bed, payer and record aligned—and keeps them aligned until another clinician accepts the handoff.
+Airport pickup and a private room are logistics. What actually matters is the system that keeps the right patient, team, bed, payer and record aligned until another clinician accepts the handoff.
 
 **Medical disclaimer:** This guide provides general admission-planning information. It does not confirm clinical acceptance, insurance coverage, bed availability, legal representation or fitness to travel. These must be verified with the relevant hospital, clinician and payer for the specific patient.
 
@@ -198,7 +198,7 @@ The true admission service is not airport pickup or a private room. It is the sy
 
 ### Does an invitation or acceptance letter guarantee a hospital bed?
 
-Not necessarily. Ask whether it is administrative acknowledgement, preliminary clinical acceptance or a final bed instruction, and list the conditions that can still change the date, campus or ward.
+It depends what the letter actually is. Ask whether you hold an administrative acknowledgement, a preliminary clinical acceptance or a final bed instruction, and list the conditions that can still change the date, campus or ward.
 
 ### Can I arrive through the emergency department with a planned admission?
 

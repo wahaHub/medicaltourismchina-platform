@@ -125,19 +125,19 @@ Request a written explanation: what finding triggered the delay, what must be ev
 
 ## FAQ
 
-### 2. Why did the hospital not order a chest X-ray or many blood tests?
+### Why did the hospital not order a chest X-ray or many blood tests?
 
 Routine testing is selected according to the operation, health conditions and whether a result could change care. Not ordering a low-yield test can be evidence-based, not careless [2]. Ask what assessment supports the decision.
 
-### 3. Can I stop aspirin, anticoagulants or diabetes medicine before I meet anesthesia?
+### Can I stop aspirin, anticoagulants or diabetes medicine before I meet anesthesia?
 
 Do not use a generic schedule. Contact the prescribing, surgical and anesthesia teams for a coordinated medicine-by-medicine plan. Both stopping and continuing can cause harm in the wrong circumstances.
 
-### 4. Why can surgery be postponed after I have already travelled?
+### Why can surgery be postponed after I have already travelled?
 
 Remote acceptance is usually provisional. A new symptom, examination finding, outdated or abnormal test, medicine issue or lack of safe postoperative capacity may change the risk-benefit balance. Ask for written criteria and the next review date.
 
-### 5. Is the surgical safety checklist the same as preoperative assessment?
+### Is the surgical safety checklist the same as preoperative assessment?
 
 No. Assessment develops the medical plan over days or weeks. The checklist is a final team verification at critical operating-room moments, including identity, procedure, site, allergies and anticipated risks [4][6]. Both are necessary.
 

@@ -178,19 +178,19 @@ Pause if the plan changes materially after consent. A different procedure, impla
 
 ## FAQ
 
-### 1. Is accreditation enough to accept a treatment plan?
+### Is accreditation enough to accept a treatment plan?
 
 No. Accreditation can inform facility review, but it does not confirm that the diagnosis, clinician, procedure and follow-up plan are right for this patient.
 
-### 2. Should every patient get a second opinion?
+### Should every patient get a second opinion?
 
 Not necessarily. It is particularly valuable when the diagnosis is uncertain, treatment is irreversible or high risk, reasonable clinicians may disagree, or the proposal comes from a single commercial channel.
 
-### 4. Can a coordinator answer consent questions?
+### Can a coordinator answer consent questions?
 
 A coordinator can organize information, but the responsible clinician should explain the diagnosis, recommendation, alternatives, patient-specific risks and consequences of declining treatment.
 
-### 5. What should happen if the plan changes after arrival?
+### What should happen if the plan changes after arrival?
 
 Ask for the new evidence, alternatives, risks, timing and cost in writing; use an interpreter; allow time for questions; and complete a new consent discussion before non-emergency treatment proceeds.
 

@@ -15,101 +15,101 @@
 
 ## Key Takeaways
 
-- SBRT is high-precision external-beam radiation for selected targets outside the brain. A short schedule does not make it a minor treatment: each fraction carries a comparatively high dose.
-- Eligibility depends on the target's size, location, motion, nearby organs, prior radiation and the role of SBRT in the patient's whole cancer plan—not on owning a named machine.
-- Simulation, immobilisation, motion management, image guidance and physics checks are part of treatment. The first radiation fraction should not be confused with the first planning visit.
-- A central lung lesion beside the main airways, or a target close to bowel, stomach, spinal cord or another sensitive structure, may need more fractions, a different dose or another treatment.
-- Post-SBRT imaging can show treatment-related change. Follow-up should be reviewed by a team familiar with the treated field rather than declaring recurrence from one scan alone.
+- SBRT is high-precision external-beam radiation for selected targets outside the brain. The course is short, but each fraction carries a comparatively high dose, so prepare for it as a serious treatment.
+- Whether SBRT fits a patient comes down to the target's size, location and motion, the organs nearby, any prior radiation and the role SBRT plays in the whole cancer plan. Which brand of machine a hospital owns is secondary.
+- Simulation, immobilisation, motion management, image guidance and physics checks all count as part of treatment. Expect the planning visit to come well before the first actual radiation fraction.
+- A central lung lesion beside the main airways, or a target close to bowel, stomach, spinal cord or another sensitive structure, may call for more fractions, a different dose or a different treatment altogether.
+- Scans after SBRT can show treatment-related change. A team familiar with the treated field should review follow-up imaging; one scan on its own is a weak basis for declaring recurrence.
 
 ## Content
 
-SBRT—also called stereotactic ablative body radiotherapy, or SABR—is a form of external-beam radiation that uses precise positioning and focused dose delivery for tumours in the body outside the brain.[1] In Chinese terminology standards, stereotactic radiotherapy uses dedicated positioning and localisation to focus a small field; SBRT is the extracranial form.[2] Treatment in the brain is generally called stereotactic radiosurgery (SRS) or fractionated stereotactic radiotherapy, even though no surgical incision is made.
+SBRT, also called stereotactic ablative body radiotherapy (SABR), is external-beam radiation that uses precise positioning and focused dose delivery to treat tumours in the body outside the brain.[1] Chinese terminology standards describe stereotactic radiotherapy as using dedicated positioning and localisation to focus a small field, with SBRT as the extracranial form.[2] When the target is in the brain, the usual names are stereotactic radiosurgery (SRS) or fractionated stereotactic radiotherapy, and neither involves an actual surgical incision.
 
-The attraction is easy to understand: selected patients may complete treatment in a few fractions rather than several weeks. The important qualification is that fewer visits usually mean a higher dose per fraction and tighter dependence on geometric accuracy. SBRT is not simply conventional radiation delivered faster.
+The appeal is obvious: suitable patients can finish in a handful of fractions instead of several weeks. The catch is that each visit then delivers a higher dose and leaves less room for geometric error. Calling it conventional radiation sped up would be wrong.
 
 ### The first decision is whether SBRT belongs in this cancer plan
 
-Ask the radiation oncologist to name the clinical role:
+Start by asking the radiation oncologist what job SBRT is doing in this plan:
 
-- definitive local treatment for an early, localised tumour;
-- local treatment when surgery is not suitable or is declined;
-- control of a limited metastatic or recurrent site as part of a broader plan;
+- definitive local treatment of an early, localised tumour;
+- local treatment where surgery is unsuitable or the patient has declined it;
+- control of a limited metastatic or recurrent site within a broader plan;
 - consolidation after systemic treatment;
 - re-irradiation of a previously treated area; or
-- symptom control when a stereotactic course offers a specific advantage.
+- symptom control where a stereotactic course offers a specific advantage.
 
-That purpose affects the dose, number of fractions, expected benefit and acceptable risk. A technically treatable spot is not necessarily the disease that most urgently needs treatment. Active disease elsewhere, an uncertain diagnosis or a systemic-treatment priority may change the sequence.
+Each of these purposes points to a different dose, fraction count, expected benefit and level of acceptable risk. A spot that is technically treatable can still be the wrong target for now. Active disease elsewhere, an uncertain diagnosis or a systemic-treatment priority can all change the order.
 
-NCI describes SBRT as an option for small, isolated tumours outside the brain and spinal cord, often in lung or liver, including some patients who cannot undergo surgery because of health, age or tumour location.[3] This is not a rule that every small lesion should receive SBRT. Where surgery, ablation, conventional radiation, systemic therapy or observation is reasonable, ask the multidisciplinary team to compare outcomes, tissue diagnosis, recovery, side effects and what each option leaves available later.
+NCI describes SBRT as an option for small, isolated tumours outside the brain and spinal cord, often in the lung or liver, including patients who cannot have surgery because of health, age or tumour location.[3] That does not mean every small lesion should get SBRT. Where surgery, ablation, conventional radiation, systemic therapy or observation would also be reasonable, ask the multidisciplinary team to compare outcomes, whether tissue diagnosis is needed, recovery, side effects and what each option keeps open for later.
 
 ### Location matters as much as size
 
-A plan cannot be judged by the prescription alone. The same dose and fraction count may be acceptable for a peripheral target and unsafe beside a major airway, oesophagus, bowel loop, stomach, duodenum, spinal cord, brachial plexus, chest wall, kidney or liver remnant.
+You cannot judge a plan from the prescription alone. The same dose and fraction count can be acceptable for a peripheral target yet unsafe next to a major airway, the oesophagus, a bowel loop, stomach, duodenum, spinal cord, brachial plexus, chest wall, kidney or liver remnant.
 
-For lung tumours, “central” and “ultracentral” are risk descriptions, not marketing categories. NCI's professional summary notes that three-fraction SBRT is contraindicated for central early-stage non-small-cell lung cancer based on earlier safety data and that more protracted, risk-adapted schedules have been studied.[4] Patients should not apply that lung-specific example to another organ, but it demonstrates why “five treatments versus three” cannot be compared without anatomy and organ dose constraints.
+For lung tumours, “central” and “ultracentral” describe risk. They are not marketing labels. NCI's professional summary notes that three-fraction SBRT is contraindicated for central early-stage non-small-cell lung cancer, based on earlier safety data, and that longer, risk-adapted schedules have been studied instead.[4] This lung-specific example does not transfer directly to other organs, but it shows why “five treatments versus three” is a meaningless comparison without the anatomy and organ dose constraints.
 
-Before accepting the plan, request a plain-language answer to four questions:
+Before you accept a plan, get plain-language answers to four questions:
 
-1. What is the target, and how certain is its boundary?
+1. What exactly is the target, and how certain is its boundary?
 2. Which nearby organ limits the dose?
-3. How does movement change the target position?
-4. What would make the team use more fractions, lower the dose or choose another method?
+3. How does movement change the target's position?
+4. What would make the team add fractions, lower the dose or pick a different method?
 
-Previous radiation is a separate high-risk issue. Supply the earlier DICOM-RT plan, dose, structure set and treatment summary whenever possible. A sentence saying “radiation to the chest” does not show cumulative dose to the spinal cord, airway, lung or oesophagus.
+Previous radiation raises the stakes and needs its own review. Hand over the earlier DICOM-RT plan, dose, structure set and treatment summary whenever you can. A line saying “radiation to the chest” tells the new team nothing about the cumulative dose to the spinal cord, airway, lung or oesophagus.
 
 ### Simulation is a rehearsal with measurements
 
-The planning appointment usually establishes a position that can be reproduced at every fraction. Devices may include a shaped cushion, vacuum bag, abdominal compression, arm support or other immobilisation. The team obtains a planning CT and may fuse diagnostic CT, MRI or PET information when appropriate.
+The planning appointment sets up a body position the team can reproduce at every fraction. That may involve a shaped cushion, a vacuum bag, abdominal compression, an arm support or other immobilisation devices. The team then acquires a planning CT and may fuse in diagnostic CT, MRI or PET information where appropriate.
 
-Targets in lung, liver, pancreas and upper abdomen can move with breathing. Depending on the case and equipment, the solution may be four-dimensional CT, breath-hold, respiratory gating, abdominal compression or real-time tracking. Some workflows use implanted fiducial markers; others do not. A marker is not automatically necessary, and placing one has its own procedure risks.
+Targets in the lung, liver, pancreas and upper abdomen move with breathing. Depending on the case and the equipment, the answer may be four-dimensional CT, breath-hold, respiratory gating, abdominal compression or real-time tracking. Some workflows rely on implanted fiducial markers and some manage without. Markers are not automatically needed, and placing one carries its own procedural risks.
 
-Ask the patient to rehearse the required breathing instruction before travel if possible. Someone unable to lie flat, keep the arms up, tolerate immobilisation or reproduce breath-hold may need a different motion strategy. Sedation is not a casual solution because breathing pattern and safe transport also matter.
+If possible, the patient should practise the required breathing instructions before travelling. A person who cannot lie flat, keep the arms raised, tolerate immobilisation or reproduce a breath-hold may need a different motion strategy. Sedation is no casual fix, since it affects the breathing pattern and safe transport as well.
 
-After simulation, the radiation oncologist defines target volumes and organs at risk; dosimetrists and medical physicists develop and check the plan. This interval may take days. Do not book a return flight assuming radiation will begin immediately after the CT.
+After simulation, the radiation oncologist outlines the target volumes and organs at risk, and dosimetrists and medical physicists build and check the plan. This can take days. Wait for a confirmed start date before booking the return flight; radiation rarely begins right after the CT.
 
 ### Precision is a process, not a machine brand
 
-SBRT can be delivered on different capable platforms. A robotic arm, conventional linear accelerator, ring gantry or brand name does not replace the following questions:
+Several different platforms can deliver SBRT well. Robotic arm, conventional linear accelerator, ring gantry—none of these labels answers the questions that actually matter:
 
-- Is the team trained and credentialed for this disease site and technique?
+- Is the team trained and credentialed for this disease site and this technique?
 - How is the machine's small-field accuracy checked?
-- Is patient-specific plan verification performed?
-- What imaging is acquired before each fraction, and is position corrected online?
+- Is patient-specific plan verification performed for every plan?
+- What imaging is taken before each fraction, and is the position corrected online?
 - How is motion monitored during delivery?
-- Who decides whether anatomy has changed too much to treat that day?
+- Who decides when anatomy has changed too much to treat that day?
 
-China's WS 582—2017 standard defines quality-control tests for X- and gamma-ray stereotactic systems and their localisation and radiation-field accuracy.[5] The national radiotherapy protection standard also requires a quality-assurance programme covering immobilisation, localisation, plan design, dose delivery, verification, identity and site checks, calibration, record keeping and correction of deviations.[6] ASTRO's safety white paper similarly describes SRS/SBRT as a resource-intensive, team-based technique requiring trained personnel and a comprehensive quality-assurance programme.[7]
+China's WS 582—2017 standard sets out quality-control tests for X- and gamma-ray stereotactic systems, covering localisation and radiation-field accuracy.[5] The national radiotherapy protection standard goes further, requiring a quality-assurance programme that covers immobilisation, localisation, plan design, dose delivery, verification, identity and site checks, calibration, record keeping and correction of deviations.[6] ASTRO's safety white paper makes the same point from the US side: SRS/SBRT is a resource-intensive, team-based technique that needs trained personnel and a comprehensive quality-assurance programme.[7]
 
-On treatment day, staff reproduce the planned position and acquire image guidance—often cone-beam CT or another volumetric/planar image—to align the target or surrogates. They may pause or re-image if the patient moves or treatment is long. Asking why a fraction was delayed for re-planning or equipment quality assurance is appropriate; rescheduling can be the safer decision.
+On treatment days, staff reproduce the planned position and take image guidance—usually cone-beam CT or another volumetric or planar image—to align the target or its surrogates. If the patient moves or a session runs long, they may pause and image again. A fraction delayed for re-planning or equipment quality assurance can feel frustrating, but rescheduling is often the safer call.
 
 ### A short course can have early and late effects
 
-Side effects follow the irradiated organ and dose. Lung SBRT may cause fatigue, cough, chest-wall discomfort, rib injury or radiation pneumonitis; liver treatment may affect nearby stomach, bowel or liver function; spine treatment requires particular attention to cord and vertebral risks; prostate schedules have urinary, bowel and sexual effects. This is not an exhaustive list, and risks differ markedly by target.
+Side effects track the irradiated organ and the dose. Lung SBRT can bring fatigue, cough, chest-wall discomfort, rib injury or radiation pneumonitis. Liver treatment can affect the nearby stomach and bowel or liver function. Spine treatment demands particular attention to the cord and vertebrae. Prostate schedules carry urinary, bowel and sexual effects. Any such list is incomplete, and risks differ sharply by target.
 
-Ask the team to distinguish:
+Ask the team to spell out:
 
-- common short-term effects and home care;
-- symptoms that require a same-day call;
+- common short-term effects and how to manage them at home;
+- which symptoms warrant a same-day call;
 - urgent symptoms such as severe breathlessness, chest pain, new weakness, loss of bladder or bowel control, bleeding or rapid deterioration;
-- possible late effects and how long they will be monitored.
+- possible late effects and how long they will be watched.
 
-SBRT does not make the patient radioactive. The beams come from outside the body and stop when the machine is off.[3]
+Patients sometimes worry about this, so it is worth stating plainly: SBRT does not make you radioactive. The beams come from outside the body and stop when the machine is off.[3]
 
 ### Follow-up imaging needs the treatment map
 
-The first scan is not a simple pass/fail test. Inflammation, scarring, temporary enlargement or changing contrast uptake can occur in the treated region. The timing and appearance depend on the organ and modality. Conversely, not every new opacity is harmless radiation change.
+The first scan after treatment is not a simple pass or fail. Inflammation, scarring, temporary enlargement or changing contrast uptake can all show up in the treated region, and the timing and appearance depend on the organ and the imaging modality. At the same time, a new opacity is not automatically harmless radiation change either.
 
-Arrange follow-up before leaving China: date and imaging type, who compares it with the simulation and prior diagnostic studies, when a multidisciplinary review is triggered, and how suspected recurrence would be confirmed. If care returns home, provide the receiving team with the treatment summary and, when available, the plan and dose data. One scan interpreted without the treatment field can lead to premature reassurance or premature declaration of progression.
+Sort out the follow-up before leaving China: the date and type of imaging, who compares it with the simulation and prior diagnostic studies, what triggers a multidisciplinary review, and how a suspected recurrence would be confirmed. If care moves back home, give the receiving team the treatment summary and, where available, the plan and dose data. A single scan read without the treatment field can produce false reassurance or a premature call of progression.
 
-The completion record should include diagnosis and intent, treated site, simulation date, technique, prescription, delivered dose, dose per fraction, number and dates of fractions, interruptions, motion-management method, implanted markers, relevant toxicity and the follow-up plan.
+The completion record should list the diagnosis and intent, treated site, simulation date, technique, prescription, delivered dose, dose per fraction, number and dates of fractions, any interruptions, the motion-management method, implanted markers, relevant toxicity and the follow-up plan.
 
 ### Compare the whole episode, not a per-fraction price
 
-An estimate should separate specialist review, repeat imaging or pathology, simulation, contrast, immobilisation, fiducial placement if needed, planning, physics quality assurance, image guidance, every fraction, on-treatment review and follow-up. Ask what happens if the target is unsuitable after simulation, if replanning is required, or if a fraction is cancelled because anatomy or equipment checks fail.
+Ask for an estimate that itemises specialist review, repeat imaging or pathology, simulation, contrast, immobilisation, fiducial placement if needed, planning, physics quality assurance, image guidance, every fraction, on-treatment review and follow-up. Also ask what happens to the bill if the target proves unsuitable after simulation, if replanning is needed, or if a fraction is cancelled because anatomy or equipment checks fail.
 
-Travel dates should allow for planning and clinical review after the last fraction. Site-specific complications may not appear before the patient boards a plane; a named home-country radiation oncologist and an emergency plan remain necessary.
+Build the travel dates around planning time and a clinical review after the last fraction. Some site-specific complications only appear after the patient has boarded the plane, so a named radiation oncologist at home and an emergency plan are still necessary.
 
-**Medical disclaimer:** This guide provides general education and cannot determine SBRT eligibility, dose or fractionation. Those decisions require review by a radiation oncologist and qualified physics team using the patient's complete pathology, imaging, prior treatment and organ-at-risk constraints. Severe or rapidly worsening symptoms require urgent local assessment.
+**Medical disclaimer:** This guide is general education and cannot determine whether SBRT is appropriate for a particular patient, or at what dose and fractionation. Those decisions belong to a radiation oncologist and a qualified physics team working from the patient's complete pathology, imaging, prior treatment and organ-at-risk constraints. Severe or rapidly worsening symptoms need urgent local assessment.
 
 ## Related Guides
 
@@ -122,23 +122,23 @@ Travel dates should allow for planning and clinical review after the last fracti
 
 ### Is SBRT the same as radiosurgery?
 
-Both use stereotactic localisation and focused external radiation, but SBRT usually refers to targets outside the brain. SRS is commonly used for intracranial treatment. Neither requires a surgical incision.[1][2]
+They share the same stereotactic localisation and focused external radiation. SBRT is the term usually used for targets outside the brain; SRS generally means intracranial treatment. Neither involves a surgical incision.[1][2]
 
 ### Why can two patients with similar-sized tumours receive different numbers of fractions?
 
-Location, motion, nearby sensitive organs, prior radiation and treatment intent can all change the safe schedule. A risk-adapted course may use more fractions to respect organ limits; fewer visits are not automatically better.[4]
+Location, motion, nearby sensitive organs, prior radiation and the intent of treatment can each change what schedule is safe. A risk-adapted course may add fractions to stay within organ limits, so a lower visit count is not automatically the better option.[4]
 
 ### Do all lung or liver targets need implanted fiducial markers?
 
-No. The need depends on target visibility, motion-management method and treatment platform. Ask how the team will localise and track the target and what risks a marker-placement procedure would add.
+No. It depends on how visible the target is, the motion-management method and the treatment platform. Ask how the team will localise and track the target, and what extra risk the marker-placement procedure itself would add.
 
 ### Can one scan after SBRT prove that treatment failed?
 
-Usually not by itself. Treatment-related inflammation and scarring can alter size or appearance. The team should compare serial imaging with the treated field, clinical status and expected timing, and investigate when recurrence remains suspected.
+Rarely on its own. Treatment-related inflammation and scarring can change the size or appearance of the area. The team should weigh serial imaging against the treated field, the clinical picture and the expected timeline, and investigate further when recurrence is still suspected.
 
 ### What SBRT records should I take home?
 
-Obtain the treatment summary with site, intent, technique, total and per-fraction dose, dates, motion method, toxicity and follow-up. If future radiation is possible, also ask for DICOM-RT plan, dose and structure files.
+Take home the treatment summary covering site, intent, technique, total and per-fraction dose, dates, motion method, toxicity and follow-up. If any future radiation is on the cards, also ask for the DICOM-RT plan, dose and structure files.
 
 ## SEO Metadata
 

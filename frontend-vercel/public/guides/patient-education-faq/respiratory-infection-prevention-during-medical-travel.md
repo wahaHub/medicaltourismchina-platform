@@ -146,15 +146,15 @@ The kit is a tool, not proof of safety. Its value comes from using it at the rig
 
 ## FAQ
 
-### 1. Is infection risk low once I am seated on a modern aircraft?
+### Is infection risk low once I am seated on a modern aircraft?
 
 Cabin ventilation and HEPA filtration reduce risk, especially during cruise, but close exposure can still occur. Terminals, queues, boarding, deplaning and ground delays are part of the journey and may have less predictable ventilation [1].
 
-### 2. Should an immunocompromised traveler wear an N95 or KN95 for the whole trip?
+### Should an immunocompromised traveler wear an N95 or KN95 for the whole trip?
 
 A high-quality, well-fitting respirator can add protection in crowded indoor settings, but it must be tolerable and compatible with the person’s condition. Trial it in advance, pack replacements and ask the clinical team about oxygen or severe lung disease [4].
 
-### 3. Should I take antibiotics before flying to prevent a respiratory infection?
+### Should I take antibiotics before flying to prevent a respiratory infection?
 
 No. Antibiotics do not prevent viral respiratory infections and can cause adverse effects and resistance. A narrowly defined prophylactic antibiotic is used only for specific medical indications prescribed by a clinician—not routine air travel.
 

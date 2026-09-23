@@ -179,15 +179,15 @@ The final plan should be short enough to use under stress and detailed enough to
 
 ## FAQ
 
-### 1. Is a medical-travel safety plan the same as travel insurance?
+### Is a medical-travel safety plan the same as travel insurance?
 
 No. Insurance may finance defined events; the safety plan also covers clinical decisions, records, medicines, emergency access, recovery, caregivers and backups.
 
-### 2. Who should approve the plan?
+### Who should approve the plan?
 
 The patient owns it, while relevant parts should be reviewed by the home clinician, destination team, travel-medicine clinician when appropriate, insurer and caregiver. No single party controls every risk.
 
-### 4. What if there is no 24-hour number from the treating hospital?
+### What if there is no 24-hour number from the treating hospital?
 
 Document the gap and create a local alternative: emergency department, urgent service and home clinician. Do not represent daytime messaging as round-the-clock clinical cover.
 

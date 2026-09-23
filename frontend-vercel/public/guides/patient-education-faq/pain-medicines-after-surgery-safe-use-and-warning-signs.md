@@ -152,23 +152,23 @@ For a patient returning home or traveling abroad, also carry the prescription, c
 
 ## FAQ
 
-### 1. Should I wait until pain is severe before taking any medicine?
+### Should I wait until pain is severe before taking any medicine?
 
 Follow the written plan. Some non-opioid medicines are scheduled to provide a baseline, while an opioid may be reserved for breakthrough severe pain. Waiting until pain is extreme can make movement and breathing harder, but taking extra doses early can cause toxicity.
 
-### 2. Can I take paracetamol with an opioid tablet?
+### Can I take paracetamol with an opioid tablet?
 
 Only after checking the active ingredients. Some opioid tablets already contain acetaminophen/paracetamol. Add the milligrams from every prescription and over-the-counter product and stay within the lower limit set for you [3].
 
-### 3. Is ibuprofen safe after every operation?
+### Is ibuprofen safe after every operation?
 
 No. It may be appropriate for many patients but can be unsuitable with kidney disease, ulcers, bleeding risk, anticoagulants, cardiovascular disease or procedure-specific restrictions. Ask the surgical team before adding it.
 
-### 4. What should a caregiver do if I am very difficult to wake after an opioid?
+### What should a caregiver do if I am very difficult to wake after an opioid?
 
 Treat this as possible overdose: call the local emergency number, give naloxone if available, support breathing as directed and stay with the patient. Do not let the person “sleep it off” [6].
 
-### 5. When does worsening pain mean I should call the surgeon?
+### When does worsening pain mean I should call the surgeon?
 
 Call promptly if pain is rapidly increasing, out of proportion, unresponsive to the agreed plan or accompanied by fever, drainage, expanding swelling, bleeding, new weakness or numbness. Breathlessness, chest pain, blue lips or inability to wake requires emergency care.
 

@@ -105,19 +105,19 @@ Return travel should wait until the patient can tolerate the journey safely and 
 
 ## FAQ
 
-### 1. Is there an age at which medical travel becomes unsafe?
+### Is there an age at which medical travel becomes unsafe?
 
 There is no single age cut-off. The decision depends on the condition, frailty, function, cognition, treatment burden, journey and available support. A clinician who knows the records should assess the whole plan.
 
-### 2. How is delirium different from dementia?
+### How is delirium different from dementia?
 
 Delirium usually begins acutely, fluctuates and affects attention and awareness. Dementia generally develops over a longer period. They can coexist, and a sudden change from the patient’s usual behavior needs prompt assessment [2].
 
-### 3. Should a family member manage all care after discharge?
+### Should a family member manage all care after discharge?
 
 Only if the tasks are clearly defined and within that person’s ability. Transfers, night supervision, injections, wound care or complex medicines may require trained help and a backup plan.
 
-### 5. What should delay the journey home?
+### What should delay the journey home?
 
 Delay and reassess when there is new confusion, unstable symptoms, repeated falls, poor intake, uncontrolled pain, unsafe transfers, inability to manage medicines or no suitable support at the destination.
 

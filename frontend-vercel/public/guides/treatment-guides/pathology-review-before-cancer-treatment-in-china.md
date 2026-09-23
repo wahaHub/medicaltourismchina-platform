@@ -13,162 +13,162 @@
 
 ## Key Takeaways
 
-- A translated pathology report tells a Chinese team what another pathologist concluded. A pathology review asks a new pathologist to examine the available material and issue an interpretation.
-- The review should answer a treatment question: tumour type, grade, margins, lymph-node findings, invasion, biomarker adequacy or another feature that changes management.
-- Cancer classification evolves. WHO tumour classifications increasingly combine morphology and molecular findings, so terminology from an older report may need mapping rather than simple word-for-word translation.[3]
-- Protect the specimen. Decide which stains or molecular tests matter now before cutting more sections from a small biopsy.
-- Do not begin an irreversible treatment from an unresolved patient, specimen or diagnosis mismatch merely to preserve a travel date. The treating team decides how urgently review must be completed.
+- A translated report tells the Chinese team what the first pathologist concluded. A review goes further: a new pathologist examines the actual material and writes their own interpretation.
+- Go in with a treatment question — tumour type, grade, margins, lymph-node findings, invasion, biomarker adequacy or any other feature that changes management.
+- Tumour classification keeps moving. WHO classifications increasingly pair morphology with molecular findings, so an older report's terminology often needs mapping to the current system; word-for-word translation alone will not do it.[3]
+- Guard the specimen. Before anyone cuts more sections from a small biopsy, decide which stains or molecular tests matter right now.
+- Never start an irreversible treatment on an unresolved patient, specimen or diagnosis mismatch just to hold a travel date. How quickly the review must finish is the treating team's call.
 
 ## Content
 
-Cancer treatment is chosen for a diagnosis, not for an image that “looks suspicious.” Surgery, systemic therapy and radiotherapy can all depend on what the tumour is, where it came from and which features the specimen truly demonstrates.
+Cancer treatment follows a confirmed diagnosis; a scan that “looks suspicious” is where the work starts. Surgery, systemic therapy and radiotherapy each hinge on what the tumour is, where it started and what the specimen genuinely shows.
 
-For an international patient, pathology review in China is most valuable when it is designed as part of the treatment decision. Sending slides without a clinical question can produce an accurate consultation that still fails to answer what the oncologist needs.
+If you are travelling to China for care, a pathology review earns its place when it is built into the treatment decision from the start. Slides sent with no clinical question can come back as a perfectly accurate consultation that never touches what the oncologist needs to know.
 
 ## Decide What the Review Must Confirm
 
-Before any material moves, the oncologist and reviewing pathologist should identify the decision at stake. Common questions include:
+Before any material leaves the source laboratory, the oncologist and the reviewing pathologist should pin down the decision at stake. The usual questions:
 
-- Is this malignant, and what is the tumour type or lineage?
-- Is the lesion a new primary cancer, recurrence or metastasis from another site?
-- What grade, invasion pattern, margin or lymph-node findings are established?
-- Does the specimen meet criteria for a specific disease entity under current classification?
-- Is enough viable tumour present for a treatment-defining biomarker?
-- Does an older biomarker result still represent the current disease and treatment setting?
+- Is the lesion malignant, and what is its type or lineage?
+- Is this a new primary cancer, a recurrence or spread from another site?
+- Which grade, invasion pattern, margin and lymph-node findings are already established?
+- Does the specimen fit a specific disease entity under the current classification?
+- Is there enough viable tumour for a biomarker that will define treatment?
+- Does an old biomarker result still describe the disease as it is now, in this treatment setting?
 
-The WHO Classification of Tumours supplies international diagnostic standards and increasingly integrates histology with molecular pathology.[3] A difference in wording can therefore reflect a newer classification, additional evidence or a truly different interpretation. The reviewer should say which.
+The WHO Classification of Tumours sets the international diagnostic standards, and it folds molecular pathology into histology more with every edition.[3] When two reports use different words, the cause may be a newer classification, extra evidence or a genuine difference of interpretation. The reviewer's job is to say which one applies.
 
 ## Know What a Pathology Report Can—and Cannot—Settle
 
-A surgical pathology report may describe the specimen, microscopic diagnosis, tumour type, grade, margins, lymph nodes and other features. NCI explains that patients seeking a pathology second opinion commonly need to obtain slides and/or a paraffin block and contact the reviewing institution about availability, cost and shipping.[1]
+A surgical pathology report can describe the specimen, the microscopic diagnosis, tumour type, grade, margins, lymph nodes and other features. According to NCI, patients who want a pathology second opinion usually have to obtain slides and/or a paraffin block, then check with the reviewing institution on availability, cost and shipping.[1]
 
-Pathology does not replace the rest of staging. Tumour size in a resection, nodal findings and pathologic stage components may be reported, but distant spread and overall clinical stage can also require imaging, examination and other tests. Ask the oncology team to separate:
+Staging involves more than pathology. A resection report may give tumour size, nodal findings and the pathologic stage components, while distant spread and the overall clinical stage still depend on imaging, examination and other tests. Have the oncology team write these out as separate lines:
 
-- diagnosis confirmed by tissue;
-- pathologic features relevant to staging;
-- clinical or imaging stage information;
+- the diagnosis the tissue confirms;
+- pathologic features that feed into staging;
+- stage information from imaging and clinical findings;
 - predictive biomarkers;
-- items still unknown.
+- anything still unknown.
 
-This prevents a pathology review from being misrepresented as a complete cancer reassessment.
+That separation stops a pathology review being presented as a full reassessment of the cancer.
 
 ## Assemble a Cancer-Specific Review Set
 
-The reviewing service should specify its requirements. A useful set often contains:
+The reviewing service should state its requirements up front. A well-prepared set usually includes:
 
 ### The entire report history
 
-Include preliminary, final, amended and addendum reports in the source language. Place translations beside—not over—the originals. Record which version the treating team previously used.
+Send the preliminary, final, amended and addendum reports in the source language, with translations laid alongside the originals. Note which version the treating team was working from.
 
 ### Source material
 
-List every slide, paraffin block, cytology preparation, cell block or digital whole-slide image sent. Include the accession number, specimen site, procedure and collection date. China’s pathology-department guidance requires systems for pathology slide and smear lending and consultation, and specifies core identifiers in diagnostic reports.[4]
+List every slide, paraffin block, cytology preparation, cell block or digital whole-slide image being sent, each with its accession number, specimen site, procedure and collection date. China's pathology-department guidance requires proper systems for lending slides and smears and for consultation, and it spells out the core identifiers that belong in diagnostic reports.[4]
 
 ### The clinical map
 
-Provide the relevant imaging location, operative or biopsy note, prior cancers, treatments given before sampling and the current oncology question. Neoadjuvant therapy can alter tumour appearance; a sampled liver lesion in a patient with two prior cancers cannot be interpreted safely from the words “liver mass” alone.
+Give the reviewer the imaging location, the operative or biopsy note, any prior cancers, treatments delivered before sampling and the question oncology is asking. Neoadjuvant therapy can change how a tumour looks, and a liver lesion sampled from a patient with two previous cancers cannot be read safely from the words “liver mass.”
 
 ### Existing ancillary studies
 
-Attach immunohistochemistry, in-situ hybridisation, flow cytometry, cytogenetic and molecular reports with method, specimen and result. Do not reduce them to a hand-typed list of “positive” and “negative.”
+Attach the immunohistochemistry, in-situ hybridisation, flow cytometry, cytogenetic and molecular reports in full, with method, specimen and result. A hand-typed list of “positive” and “negative” loses too much.
 
 ## Check the Chain Before Looking Down the Microscope
 
-Match the patient name, accession number, anatomic site, side and date across the report, slide labels, operative note and imaging. If a lung report is paired with a block labelled from a lymph node, that may be correct—but the relationship must be documented.
+Check the patient name, accession number, anatomic site, side and date against one another across the report, slide labels, operative note and imaging. A lung report paired with a block labelled as lymph node may be entirely correct — but someone has to document how they relate.
 
-Stop the review if an identity or site discrepancy cannot be reconciled. The source laboratory and receiving pathology department should resolve it in writing. A coordinator should not guess that two different spellings or accession numbers “must be the same.”
+If an identity or site discrepancy cannot be reconciled, pause the review and let the source laboratory and the receiving pathology department settle it in writing. A coordinator should never assume that two spellings or two accession numbers “must be the same.”
 
 ## Ask for a Structured Cancer Diagnosis
 
-Structured reporting helps clinicians find the elements that drive management. CAP cancer protocols define essential data elements for malignant-tumour reporting and are updated as classifications, staging and biomarker standards evolve.[2]
+Structured reporting lets clinicians find the elements that drive management quickly. CAP cancer protocols define the essential data elements for malignant-tumour reporting and are revised as classifications, staging and biomarker standards move forward.[2]
 
-The review report should make clear:
+The review report should spell out:
 
-- material actually examined;
-- tumour classification and grade, when applicable;
-- margin, invasion and lymph-node findings available from the specimen;
+- the material actually examined;
+- tumour classification and grade where applicable;
+- the margin, invasion and lymph-node findings the specimen can support;
 - whether the submitted material is representative and adequate;
-- stains or tests performed in the reviewing laboratory;
-- discrepancy from the outside report and its clinical significance;
-- limitations and differential diagnosis;
-- additional material or testing recommended.
+- any stains or tests the reviewing laboratory performed;
+- any discrepancy from the outside report, and what it means clinically;
+- limitations and the differential diagnosis;
+- any additional material or testing recommended.
 
-A one-line “diagnosis confirmed” may be enough for a simple case, but not when treatment depends on a missing margin, subtype or biomarker.
+For a simple case, a one-line “diagnosis confirmed” may do. When treatment hinges on a margin, subtype or biomarker that is missing, it does not.
 
 ## Triage Tissue Around the Next Decision
 
-Small biopsies are finite. Every recut, immunostain and molecular extraction consumes material. Before ordering a broad panel, ask the pathologist to estimate tumour amount and create a testing sequence.
+A small biopsy only goes so far. Every recut, immunostain and molecular extraction uses material up, so before ordering a broad panel, ask the pathologist to estimate the tumour amount and plan a testing sequence.
 
-A reasonable hierarchy may be:
+One sensible hierarchy:
 
 1. establish or confirm the tumour class;
-2. perform essential lineage or subtype stains;
-3. preserve material for biomarkers linked to the current treatment decision;
-4. reserve tissue for confirmatory or future testing when feasible.
+2. run the stains needed to place lineage or subtype;
+3. hold back material for biomarkers tied to the current treatment decision;
+4. reserve tissue for confirmatory or future testing where feasible.
 
-The order varies by cancer. “More testing” is not automatically better if it exhausts the only block before a necessary companion test.
+The order changes with the cancer. Ordering more tests sounds thorough, but it backfires if the only block runs out before a necessary companion test.
 
 ## Interpret Biomarkers as Test–Specimen–Treatment Triples
 
-NCI notes that biomarker testing can examine genes, proteins and other tumour features, but it may fail because tissue is insufficient, no useful marker is found, or tumour biology has changed over time.[5]
+NCI notes that biomarker testing can examine genes, proteins and other tumour features, and that it can still fail: the tissue may be insufficient, no useful marker may turn up, or the tumour's biology may have moved on.[5]
 
-For every treatment-linked result, record:
+For each result that feeds a treatment decision, record:
 
 - tumour type and treatment setting;
 - specimen site and collection date;
 - test method or platform;
-- tumour adequacy and quality comments;
-- exact result, score, threshold or variant;
-- assay scope and important limitations;
-- medicine or decision for which the result is being used.
+- tumour adequacy and any quality comments;
+- the exact result, score, threshold or variant;
+- the assay's scope and important limitations;
+- the medicine or decision the result is meant to support.
 
-Some tests are companion diagnostics paired with specific treatments. The FDA describes such a device as supplying information essential to the safe and effective use of its corresponding therapeutic product, with the applicable specimen, biomarker and medicine specified in labelling.[6] A “positive marker” from a different assay, specimen or disease context should not be treated as interchangeable without expert review.
+Some tests are companion diagnostics built for specific treatments. In the FDA's description, such a device supplies information essential to the safe and effective use of its corresponding therapeutic product, and the applicable specimen, biomarker and medicine are fixed in the labelling.[6] A “positive marker” produced by a different assay, specimen or disease context needs expert review before anyone treats it as interchangeable.
 
-A variant of uncertain significance is not a treatment instruction. A possible inherited finding on tumour testing may require confirmation from a normal sample and genetics counselling.
+A variant of uncertain significance tells nobody what to prescribe. And when tumour testing flags a possibly inherited finding, it may need confirmation from a normal sample plus genetics counselling.
 
 ## Handle Disagreement by Clinical Consequence
 
-Do not summarise all discrepancies as “minor” or “major” without explaining why. Sort them by what changes:
+Labels like “minor” and “major” mean little without the reasoning. Sort each discrepancy by what it changes:
 
-- **Terminology only:** different words, same management.
-- **Classification refinement:** a more specific entity, possibly affecting prognosis or testing.
-- **Treatment-relevant difference:** grade, margin, receptor, molecular result or tumour origin changes the plan.
-- **Unresolved:** material is insufficient or experts retain a differential diagnosis.
+- **Terminology only:** different wording, no change to management.
+- **Classification refinement:** a more specific entity, which may affect prognosis or testing.
+- **Treatment-relevant difference:** grade, margin, receptor, molecular result or tumour origin shifts the plan.
+- **Unresolved:** the material is insufficient, or the experts still hold a differential diagnosis.
 
-Ask whether another stain, molecular test, original block, subspecialty pathologist or new biopsy could resolve the issue. Preserve both the outside and China review reports; never replace the history with an edited PDF.
+Ask whether an extra stain, a molecular test, the original block, a subspecialty pathologist or a new biopsy could settle it. Keep both the outside report and the China review report on file; the history should never be overwritten by an edited PDF.
 
 ## Connect Pathology to the Multidisciplinary Decision
 
-NCI describes tumour review boards as groups of specialists who consider pathology and other tests together when planning treatment.[1] For a complex international case, the useful endpoint is an integrated note—not simply the pathologist’s report arriving in an inbox.
+NCI describes tumour review boards as groups of specialists who weigh pathology alongside other tests when planning treatment.[1] In a complex international case, the goal is an integrated note in the chart — the pathologist's report landing in an inbox by itself achieves little.
 
-The oncology note should state:
+The oncology note should record:
 
-- diagnosis being used for treatment;
-- stage information and its sources;
-- biomarkers accepted for the current decision;
-- missing or pending information;
-- whether the plan would change if a pending result differs;
-- clinician responsible for deciding when treatment starts.
+- the diagnosis being used for treatment;
+- stage information and where each piece came from;
+- the biomarkers accepted for the current decision;
+- what is still missing or pending;
+- whether the plan changes if a pending result comes back different;
+- the clinician responsible for deciding when treatment starts.
 
 ## Plan Time and Cost in Two Phases
 
-Separate **review cost** from **follow-on testing cost**. The first may include accessioning, slide review and a consultation report. The second may include recuts, stains, molecular tests, a new biopsy, courier, customs and material return.
+Keep **review cost** and **follow-on testing cost** as two separate budgets. The first may cover accessioning, slide review and a consultation report. The second can grow to include recuts, stains, molecular tests, a new biopsy, courier fees, customs and returning the material.
 
-Ask for milestones rather than one vague turnaround time:
+One vague turnaround time is hard to plan around; ask for milestones instead:
 
 1. material received and reconciled;
 2. adequacy confirmed;
-3. preliminary question answered, if the service offers this;
+3. preliminary question answered, where the service offers this;
 4. additional tests authorised;
 5. final report released;
 6. oncology plan documented;
 7. block and unused slides returned.
 
-The treating clinician—not the travel agency—should decide whether waiting is safe. An urgent condition may require treatment while optional studies remain pending; a diagnosis or identity uncertainty may require delay before an irreversible intervention.
+Whether waiting is safe is the treating clinician's decision, and no travel agency should be making it. An urgent condition may push treatment ahead while optional studies are still pending; uncertainty over diagnosis or identity may force a delay before anything irreversible.
 
 ## The Final Pre-Treatment Pathology Checklist
 
-- [ ] Current diagnosis and terminology stated
+- [ ] Current diagnosis and terminology stated in writing
 - [ ] Material examined listed by accession and specimen
 - [ ] Outside and review reports both preserved
 - [ ] Stage-related pathology separated from clinical staging
@@ -178,7 +178,7 @@ The treating clinician—not the travel agency—should decide whether waiting i
 - [ ] Pending results assigned to a named clinician
 - [ ] Oncology decision note completed before treatment
 
-**Medical disclaimer:** This guide does not interpret a pathology specimen or decide cancer treatment. Pathology review, tissue use and treatment timing require case-specific decisions by qualified pathologists and the treating oncology team.
+**Medical disclaimer:** This guide cannot interpret a pathology specimen or decide anyone's cancer treatment. Pathology review, tissue use and treatment timing are case-specific decisions for qualified pathologists and the treating oncology team.
 
 ## Related Guides
 
@@ -192,23 +192,23 @@ The treating clinician—not the travel agency—should decide whether waiting i
 
 ### Is an English translation the same as a pathology second opinion?
 
-No. Translation reproduces the existing report in another language. A pathology second opinion requires another pathologist to evaluate submitted slides, blocks or suitable digital material and issue an interpretation.[1]
+No. A translation reproduces the existing report in another language. A second opinion means another pathologist examines the submitted slides, blocks or suitable digital material and issues their own interpretation.[1]
 
 ### Does every cancer need pathology review before treatment in China?
 
-Not automatically. The treating team should decide whether review is required based on diagnostic confidence, treatment risk, specimen availability and how likely a new interpretation is to change care.
+Not automatically. The treating team should weigh diagnostic confidence, treatment risk, specimen availability and the chance that a new interpretation would change care, then decide.
 
 ### Can the pathology review change the cancer stage?
 
-It can change pathologic features that contribute to stage, such as tumour or lymph-node findings. Overall clinical stage may also depend on imaging, examination and other evidence.
+It can change the pathologic features that feed into stage, such as tumour or lymph-node findings. The overall clinical stage may still rest on imaging, examination and other evidence as well.
 
 ### Should all available biomarker tests be ordered at once?
 
-No. The pathologist and oncologist should prioritise tests relevant to the next decision and conserve limited tissue. Broad testing can be unhelpful if it uses the only specimen before an essential assay.[5]
+No. The pathologist and oncologist should rank tests by what the next decision needs and conserve the limited tissue. A broad panel can do harm if it consumes the only specimen ahead of an essential assay.[5]
 
 ### Who decides whether treatment waits for the final report?
 
-The treating oncologist should decide with pathology and other specialists, weighing the consequence of missing information against the risk of delaying therapy.
+The treating oncologist, together with pathology and the other specialists involved. The balance is between what missing information could cost and what delaying therapy could cost.
 
 ## SEO Metadata
 

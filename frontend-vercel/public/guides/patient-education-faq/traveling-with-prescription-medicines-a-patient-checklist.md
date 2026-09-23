@@ -162,15 +162,15 @@ If a required medicine remains legally uncertain, do not solve the problem by hi
 
 ## FAQ
 
-### 1. Can I put all tablets in a weekly pill organizer?
+### Can I put all tablets in a weekly pill organizer?
 
 Use the organizer after arrival if appropriate, but for border travel keep medicines in original labelled containers. Loose tablets may be difficult to identify and can complicate customs, replacement and hospital reconciliation [1].
 
-### 2. Is a doctor’s letter enough for a controlled medicine?
+### Is a doctor’s letter enough for a controlled medicine?
 
 Not always. It documents medical need but does not replace destination or transit permits, quantity limits or customs decisions. Confirm the exact active ingredient with official authorities before travel [1][6].
 
-### 3. Should prescription medicines go in checked luggage or carry-on baggage?
+### Should prescription medicines go in checked luggage or carry-on baggage?
 
 Carry-on is generally safer because it reduces loss, delay and temperature exposure and keeps you present during inspection [1][3]. Follow security rules for liquids, needles, coolants and devices.
 

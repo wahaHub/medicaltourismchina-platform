@@ -142,23 +142,23 @@ Before discharge, rehearse transfers with the actual caregiver and equipment. Pr
 
 ## FAQ
 
-### 1. Is requesting airport wheelchair assistance the same as traveling with my own wheelchair?
+### Is requesting airport wheelchair assistance the same as traveling with my own wheelchair?
 
 No. Airport assistance moves the traveler through the terminal; a personal wheelchair also requires stowage, handling, battery and return arrangements. Request both explicitly when needed [1][3].
 
-### 2. Will airline staff help with toileting or medicines?
+### Will airline staff help with toileting or medicines?
 
 They generally are not required to provide personal-care services such as feeding, medicines or hands-on lavatory assistance. A capable companion or attendant is needed when the traveler cannot manage independently [1].
 
-### 3. What information should go on a powered wheelchair?
+### What information should go on a powered wheelchair?
 
 Include dimensions, weight, lifting points, brakes/freewheel mode, removable controls, battery chemistry and rating, isolation method, reassembly instructions and emergency contacts [4].
 
-### 4. How can pressure injuries be prevented during a long trip?
+### How can pressure injuries be prevented during a long trip?
 
 Use the prescribed cushion, follow the rehabilitation team’s repositioning schedule, avoid shear and inspect skin. The method must respect surgical, fracture and postural restrictions [6].
 
-### 5. When should return travel be delayed?
+### When should return travel be delayed?
 
 Delay and reassess if transfers are unsafe, pain is uncontrolled, the patient cannot sit or toilet for the journey, required equipment is unavailable, or there are new wound, skin, clot, breathing or neurological concerns.
 

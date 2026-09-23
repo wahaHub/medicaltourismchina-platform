@@ -15,20 +15,20 @@
 
 ## Key Takeaways
 
-- Nanjing’s main medical areas extend across the central city, Hexi, Xianlin, Jiangning, Jiangbei, and more distant districts. Crossing the Yangtze or changing campuses can become a clinical risk after treatment.
-- Nanjing’s 12320 appointment platform officially supports passport registration, but a successful booking does not prove that every hospital subsystem or department uses the same foreign-identity workflow.
-- Bilingual signs and volunteers help navigation. They do not automatically provide independent medical interpretation for consent, risk discussion, ward rounds, or discharge.
-- Nanjing North Station is still a construction project in 2026. Choose a currently operating airport or rail gateway only after the treatment building is confirmed.
+- Nanjing’s major medical areas run from the central city out to Hexi, Xianlin, Jiangning, Jiangbei, and districts further still. Once treatment has started, crossing the Yangtze or changing campuses stops being a travel question and becomes a clinical one.
+- The city’s 12320 appointment platform officially accepts passport registration. A successful booking, though, tells you nothing about whether every subsystem and department in that hospital handles foreign identity the same way.
+- Bilingual signs and volunteers make finding your way easier. Consent discussions, risk explanations, ward rounds, and discharge instructions still need independent medical interpretation, which those services do not automatically supply.
+- Nanjing North Station is still a construction project in 2026. Confirm the treatment building first, then pick an airport or rail gateway that is operating today.
 
 ## Content
 
-In Nanjing, a clinical plan and a city map must be drawn together. A renowned specialist may consult in the old city while the inpatient service sits in Hexi, Xianlin, Jiangbei, or another campus. If pathology, intensive care, rehabilitation, and the hotel sit on different sides of the route, the “same hospital” can become several handoffs.
+In Nanjing, you have to plan the medicine and the geography at the same time. A well-known specialist may hold clinic in the old city while the inpatient service sits in Hexi, Xianlin, Jiangbei, or another campus. Put pathology, intensive care, rehabilitation, and the hotel on different sides of the route, and the “same hospital” turns into a chain of handoffs.
 
-Start with a **clinical dependency map**. Only then draw the **movement map** that connects the patient to it.
+Draw the **clinical dependency map** first. The **movement map** — how the patient physically reaches each service — comes after.
 
 ### Draw the clinical dependency map
 
-Put the required decision in the centre: confirm diagnosis, choose treatment, perform an operation, deliver a drug course, or restore a defined function. Around it, add every service the decision depends on:
+Write the decision you actually need in the centre: confirm a diagnosis, choose a treatment, perform an operation, deliver a drug course, or restore a defined function. Then list every service that decision leans on:
 
 - source imaging and specialist radiology;
 - pathology review and molecular testing;
@@ -36,15 +36,15 @@ Put the required decision in the centre: confirm diagnosis, choose treatment, pe
 - anaesthesia and intensive care;
 - pharmacy and device availability;
 - infectious-disease or isolation support;
-- another specialty for important comorbidity;
+- a second specialty for any important comorbidity;
 - rehabilitation, nutrition, and symptom control;
 - emergency rescue if the expected course changes.
 
-For each dependency, record the named team, exact campus, availability window, and transfer rule. “The hospital has it” is too vague when that capability is at another address.
+For every item, write down the named team, the exact campus, the availability window, and the transfer rule. “The hospital has it” means little when that capability sits at another address.
 
 ### Require evidence of case review
 
-Send a dated index with the clinical summary, medicines, allergies, original imaging, pathology where relevant, prior treatment, current function, and the decision deadline. Ask a named clinician to state:
+Send the records as a dated index: clinical summary, medicines, allergies, original imaging, pathology where relevant, prior treatment, current function, and your decision deadline. Then ask a named clinician to state:
 
 1. which records were reviewed;
 2. what can be decided before arrival;
@@ -53,13 +53,13 @@ Send a dated index with the clinical summary, medicines, allergies, original ima
 5. which finding would change the team, campus, or plan;
 6. where complications would be managed.
 
-An appointment confirms access to a visit. It does not confirm treatment eligibility or operating-room time.
+An appointment gets you through the door once. Treatment eligibility and operating-room time are separate questions.
 
 ### Verify institution, doctor, and internal authority separately
 
-The Nanjing Municipal Health Commission provides a physician-registration query and publishes institution, service, quality, and cost information [1][2]. Use official records and hospital channels to confirm the legal institution, campus address, department, and current professional registration.
+The Nanjing Municipal Health Commission runs a physician-registration query and publishes institution, service, quality, and cost information [1][2]. Confirm the legal institution, the campus address, the department, and the doctor’s current professional registration through those official records and the hospital’s own channels.
 
-Then ask the hospital about internal responsibility: present appointment, proposed operator, technical authorisation, inpatient team, and after-hours coverage. Public registration does not disclose case fit or hospital-specific privileges.
+Internal responsibility is a separate question for the hospital itself: who holds the present appointment, who would actually operate, their technical authorisation, the inpatient team, and after-hours coverage. A public registry entry says nothing about case fit or hospital-specific privileges.
 
 ### Turn the dependency map into a campus table
 
@@ -72,11 +72,11 @@ Then ask the hospital about internal responsibility: present appointment, propos
 | rehabilitation |  |  |  |  |
 | pending results |  |  |  |  |
 
-If two entries are in different buildings, ask whether the patient moves, the clinician moves, or only the data moves. That distinction changes risk, time, and cost.
+Two entries in different buildings raise a practical question: does the patient move, does the clinician move, or does only the data move? Each answer carries a different risk, time, and cost.
 
 ### Draw the Nanjing movement map
 
-For travel planning, treat these as different zones:
+For travel planning, think of Nanjing as several distinct zones:
 
 - **central city:** Gulou, Xuanwu, Qinhuai, and adjacent districts;
 - **Hexi/Jianye:** southwest of the older centre;
@@ -85,42 +85,42 @@ For travel planning, treat these as different zones:
 - **Jiangbei/Pukou:** north of the Yangtze, requiring a specific cross-river route for many central-city services;
 - **Lishui, Gaochun, and other outer areas:** separate journeys, not central Nanjing extensions.
 
-These zones are not clinical rankings. Nanjing’s own current specialist-service lists show how one service category can be spread from Qinhuai to Xianlin and other districts [3]. Confirm the exact address for this department and date.
+None of this is a clinical ranking. The city’s own current specialist-service lists show a single service category spread from Qinhuai to Xianlin and other districts [3]. Confirm the exact address for your department and your date.
 
 ### A river crossing is part of the treatment risk
 
-If the hotel, treatment campus, emergency backup, or rehabilitation provider lie on different sides of the Yangtze, test the route during the relevant time of day. Include road or metro works, lift access, rain, luggage, rush hour, and the patient’s condition after treatment.
+Hotel on one side of the Yangtze, treatment campus, emergency backup, or rehabilitation provider on the other? Test the route at the time of day you would actually use it. Factor in road or metro works, lift access, rain, luggage, rush hour, and the patient’s condition after treatment.
 
-Nanjing continued major cross-river and metro construction in 2026 [4]. Current road notices can also affect access near hospital campuses [5]. Recheck shortly before travel; a route remembered from an earlier visit is not a safety plan.
+Major cross-river and metro construction continued across Nanjing in 2026 [4], and current road notices can also change access near hospital campuses [5]. Check again shortly before travel — a route remembered from an earlier visit proves nothing this time.
 
-After anaesthesia, an invasive procedure, acute treatment toxicity, or reduced mobility, ask the clinician to define a safe travel radius and number of nearby nights. Do not commute across the river simply because the pre-treatment journey was tolerable.
+After anaesthesia, an invasive procedure, acute treatment toxicity, or any drop in mobility, ask the clinician to set a safe travel radius and the number of nights to stay nearby. Tolerating the river crossing before treatment says little about commuting across it afterwards.
 
 ### Use 12320 passport booking, but test the whole identity chain
 
-Nanjing stated in 2024 that its unified 12320 appointment platform supports registration and booking with passports, foreign permanent-resident cards, and several other documents [6]. The city’s English healthcare guide also tells foreign patients to bring a passport or other ID for hospital registration [7].
+In 2024 Nanjing confirmed that its unified 12320 appointment platform supports registration and booking with passports, foreign permanent-resident cards, and several other documents [6]. The city’s English healthcare guide likewise tells foreign patients to bring a passport or other ID for hospital registration [7].
 
-Before relying on that access, test:
+Before you build a trip around that access, test:
 
 - exact passport name format and document type;
-- overseas or mainland mobile-number requirement;
+- whether an overseas or a mainland mobile number is required;
 - whether the booking reaches the correct campus;
 - whether the same patient number retrieves tests, prescriptions, invoices, and discharge records;
 - whether a companion can assist without creating a duplicate patient;
 - how an identity mismatch is corrected.
 
-Save the booking number and official telephone. A platform appointment should be reconciled with the hospital’s internal record on arrival.
+Keep the booking number and the official telephone line. On arrival, match the platform appointment against the hospital’s internal record.
 
 ### Popular-doctor waitlists are access tools, not case acceptance
 
-In 2026, Nanjing introduced a waitlist feature for selected hospitals through the Health Nanjing app and 12320 WeChat channel [8]. Use it only for the institutions and clinics currently connected. A waitlist position does not reserve surgery, establish clinical priority, or prove the doctor has reviewed the records.
+In 2026, Nanjing added a waitlist feature for selected hospitals through the Health Nanjing app and the 12320 WeChat channel [8]. Use it only for the institutions and clinics currently connected. A place on the list reserves no surgery, sets no clinical priority, and shows no record review by the doctor.
 
-If timing is medically important, ask for the latest safe decision date and an alternative qualified team rather than repeatedly refreshing one famous name.
+Where timing is medically important, get the latest safe decision date and line up an alternative qualified team. Refreshing one famous doctor’s page over and over is not a plan.
 
 ### Separate navigation language from medical interpretation
 
-Nanjing reported bilingual signs, translation equipment, volunteer teams, and multilingual volunteers at some hospitals [6]. These can make arrival easier. For consent and clinical decisions, confirm a qualified interpreter who can translate risks, alternatives, uncertainty, medicines, and questions without filtering the conversation.
+Nanjing has reported bilingual signs, translation equipment, volunteer teams, and multilingual volunteers at some hospitals [6]. These genuinely help at the front door. Consent and clinical decisions are different: they call for a qualified interpreter who can translate risks, alternatives, uncertainty, medicines, and questions without filtering either side of the conversation.
 
-Ask who interprets during:
+Establish who interprets during:
 
 - pre-arrival clinical review;
 - admission history and allergy reconciliation;
@@ -129,35 +129,35 @@ Ask who interprets during:
 - pharmacy counselling;
 - discharge and emergency instructions.
 
-Family members and volunteers can support the patient, but should not be the sole interpreter for high-risk consent if a professional route is available.
+Family members and volunteers can stand by the patient, but where a professional route exists they should not be the only interpreters for high-risk consent.
 
 ### Read international-service and insurance claims narrowly
 
-The Nanjing Foreign Affairs Office lists examples of international medical providers and English-language services [9]. Treat each entry as a starting point and verify current campus, hours, specialties, emergency coverage, and contact details.
+The Nanjing Foreign Affairs Office lists examples of international medical providers and English-language services [9]. Use each entry as a lead, then verify the current campus, hours, specialties, emergency coverage, and contact details yourself.
 
-The city reported in 2024 that nine institutions could provide direct settlement with certain international insurers [6]. That statement does not authorise this patient. Obtain written confirmation of the exact legal provider, campus, insurer, plan, dates, services, deposit, exclusions, and pre-authorisation number.
+The city reported in 2024 that nine institutions could provide direct settlement with certain international insurers [6]. A city-level statement never authorises an individual patient. Get written confirmation naming the exact legal provider, campus, insurer, plan, dates, services, deposit, exclusions, and pre-authorisation number.
 
-An international department may coordinate well while the clinical service remains in the hospital’s standard department. Identify which entity signs consent, treats complications, issues records, invoices, and answers after departure.
+An international department may handle coordination smoothly while the actual clinical work stays in the hospital’s standard department. Pin down which entity signs consent, treats complications, issues records and invoices, and answers questions after departure.
 
 ### Choose an operating gateway, not a future station
 
-Relevant gateways may include Nanjing Lukou International Airport, Nanjing South Station, Nanjing Station, and other operating rail stations. Nanjing’s approved transport plan describes Nanjing North, Nanjing South, and Nanjing as future main hubs, but the city’s 2026 investment plan still lists Nanjing North Station construction [4][10]. Do not route a current patient to a future hub.
+The realistic gateways are Nanjing Lukou International Airport, Nanjing South Station, Nanjing Station, and other rail stations in service today. Nanjing’s approved transport plan describes Nanjing North, Nanjing South, and Nanjing as future main hubs, yet the city’s 2026 investment plan still lists Nanjing North Station as a construction project [4][10]. A patient travelling now needs a station that is open now.
 
-Choose after confirming the campus. Compare terminal/station-to-building time, transfers, walking, lifts, baggage, road congestion, and backup transport. Nanjing South is a large interchange; a short rail segment does not describe the full patient journey.
+Pick the gateway only after the campus is confirmed. Compare terminal/station-to-building time, transfers, walking, lifts, baggage, road congestion, and backup transport. Nanjing South is a very large interchange, and a short rail segment can hide a long journey at both ends.
 
-Some new hospital shuttle routes are highly specific. For example, a 2026 B28 service connected one metro station to one named Xianlin campus [11]. Confirm that the route serves the patient’s actual campus and timetable; do not generalise it to other hospitals.
+Hospital shuttle routes can be extremely specific. The 2026 B28 service, for instance, connected one metro station to one named Xianlin campus [11]. Confirm that a route serves the patient’s actual campus and timetable before counting on it, and never generalise it to other hospitals.
 
 ### Build a local emergency plan
 
-For a medical emergency in Nanjing, call **120**; the city’s official English hotline page also lists 12320 for health information [12]. Give district, road, building, entrance, floor, condition, and callback number.
+In a medical emergency in Nanjing, call **120**; the city’s official English hotline page also lists 12320 for health information [12]. When you call, give the district, road, building, entrance, floor, the patient’s condition, and a callback number.
 
-Use the closest appropriate emergency system for stroke signs, severe chest pain, major bleeding, loss of consciousness, respiratory distress, or severe allergic reaction. Do not cross the river or wait for an elective specialist. Confirm whether the selected international or specialty service has a 24-hour emergency department at that campus.
+Stroke signs, severe chest pain, major bleeding, loss of consciousness, respiratory distress, or a severe allergic reaction all mean the closest appropriate emergency system. Never cross the river or wait for an elective specialist in those situations. Check in advance whether the selected international or specialty service runs a 24-hour emergency department at that campus.
 
-Carry a bilingual emergency sheet with diagnoses, allergies, medicines, anticoagulants, implants, recent procedures, passport details, and the treating team’s number.
+Carry a bilingual emergency sheet listing diagnoses, allergies, medicines, anticoagulants, implants, recent procedures, passport details, and the treating team’s number.
 
 ### Close the two maps at discharge
 
-Before leaving, obtain the diagnosis, actual treatment, procedure and anaesthesia notes where relevant, pathology and laboratory results, source imaging, medicine reconciliation, implant information, restrictions, warning signs, pending-result owner, and follow-up dates.
+Before you leave, obtain the diagnosis, the treatment actually given, procedure and anaesthesia notes where relevant, pathology and laboratory results, source imaging, medicine reconciliation, implant information, restrictions, warning signs, the owner of any pending results, and follow-up dates.
 
 Then assign responsibility for four locations:
 
@@ -166,7 +166,7 @@ Then assign responsibility for four locations:
 3. any second Nanjing campus or transfer hospital;
 4. the home-country clinician.
 
-For each, state who responds, during which hours, through what channel, and what happens if no response arrives. The hospital choice is sound only when every critical clinical dependency has a safe physical and information route.
+For each, write down who responds, during which hours, through what channel, and what happens if no response arrives. A hospital choice holds up only when every critical clinical dependency has a safe physical route and a safe information route.
 
 **Medical disclaimer:** This guide provides general planning information and does not rank or endorse Nanjing hospitals. Clinical fit, interpretation, insurance, and travel safety require current confirmation from qualified professionals and responsible institutions. Seek immediate local emergency care for severe or rapidly worsening symptoms.
 
@@ -181,19 +181,19 @@ For each, state who responds, during which hours, through what channel, and what
 
 ### Can a foreign visitor book a Nanjing hospital through 12320 with a passport?
 
-The city says passport registration and booking are supported. Test the exact campus, name format, phone verification, hospital patient number, and result-retrieval route before travel.
+The city says passports work for registration and booking. Before travel, still test the exact campus, the name format, phone verification, the hospital patient number, and the route for retrieving results.
 
 ### Are bilingual volunteers enough for medical consent?
 
-They may help with navigation, but high-risk consent requires accurate, confidential translation of risks, alternatives, and questions. Confirm a qualified medical-interpreting route.
+They can help you get around the building. High-risk consent is another matter — it requires accurate, confidential translation of risks, alternatives, and questions, so confirm a qualified medical-interpreting route.
 
 ### Should I stay in Jiangbei if my specialist is in central Nanjing?
 
-Only after mapping the treatment, emergency, and follow-up locations. Repeated cross-river travel may be unsuitable after an invasive procedure or during acute symptoms.
+Only after mapping the treatment, emergency, and follow-up locations. After an invasive procedure or during acute symptoms, crossing the river again and again may be unsuitable.
 
 ### Can I arrive at Nanjing North Station?
 
-Do not assume so. It remained under construction in the 2026 government investment plan. Use a currently operating gateway confirmed against the treatment address.
+Do not count on it. It remained under construction in the 2026 government investment plan. Use a currently operating gateway confirmed against the treatment address.
 
 ## SEO Metadata
 

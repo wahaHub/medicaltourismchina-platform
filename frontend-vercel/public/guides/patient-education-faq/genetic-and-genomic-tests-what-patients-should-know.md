@@ -125,23 +125,23 @@ If one of those answers is “we will know after the report arrives,” pause. G
 
 ## FAQ
 
-### 1. Does a mutation found in my tumor mean my children inherited it?
+### Does a mutation found in my tumor mean my children inherited it?
 
 Not necessarily. Most tumor alterations are somatic and are confined to the cancer. Some findings raise suspicion for a germline variant, but confirmation generally requires a separate non-tumor sample and appropriate genetic counseling [1].
 
-### 2. Should a VUS change surgery or treatment?
+### Should a VUS change surgery or treatment?
 
 Usually no. A VUS is not established as disease-causing and generally should not support an irreversible medical decision [2]. Management should rely on the diagnosis, personal and family history, established biomarkers and other clinical evidence while the variant is periodically re-evaluated.
 
-### 3. Does a negative genetic test rule out inherited risk?
+### Does a negative genetic test rule out inherited risk?
 
 It depends. A true negative for a known familial variant is informative. A negative panel in a family without a known cause may not exclude inherited risk because the relevant gene, variant type or current scientific knowledge may be incomplete [4].
 
-### 4. Is the panel with the most genes always the best value?
+### Is the panel with the most genes always the best value?
 
 No. The best panel covers genes and variant types relevant to the clinical question with validated methods. Unnecessarily broad testing can add uncertain or secondary findings without improving the decision.
 
-### 5. Can I use a home DNA result to choose a drug or preventive operation?
+### Can I use a home DNA result to choose a drug or preventive operation?
 
 Do not act on it alone. Review the original result with a qualified clinician or genetic counselor and obtain clinical confirmation when the finding could change care. Consumer tests vary in scope and a negative result can miss relevant variants [6].
 

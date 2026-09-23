@@ -13,23 +13,23 @@
 
 ## Key Takeaways
 
-- Match the service to the cause and stage of disability—neurological, spinal cord or brain injury, musculoskeletal, cardiopulmonary, cancer, amputation, paediatric, or medically complex rehabilitation.
-- Start with a baseline and three meaningful goals. “More therapy” is not measurable; transferring to a toilet safely, swallowing a meal, walking 20 metres, or returning to work is.
-- Inspect the patient’s other 23 hours: rehabilitation nursing, positioning, skin, continence, swallowing, medicines, sleep, falls, communication and emergency response.
-- Compare change using the same assessment at admission, during treatment and discharge, while checking complications and reasons for missing therapy.
-- The discharge destination is part of the treatment. Equipment, caregiver competence, home access, prescriptions and a receiving team should be ready before travel home.
+- Pick the service by what caused the disability and how far along it is: neurological, spinal cord or brain injury, musculoskeletal, cardiopulmonary, cancer, amputation, paediatric, or medically complex rehabilitation.
+- Begin with a baseline and three goals that actually matter. You cannot measure “more therapy”; you can measure getting to the toilet safely, swallowing a meal, walking 20 metres, or going back to work.
+- Look hard at the other 23 hours of the patient’s day: rehabilitation nursing, positioning, skin, continence, swallowing, medicines, sleep, falls, communication and emergency response.
+- Measure change with the same assessment at admission, during treatment and at discharge, and ask about complications and missed sessions along the way.
+- Discharge planning belongs to the treatment itself. Equipment, caregiver skills, home access, prescriptions and a receiving team all need to be in place before the trip home.
 
 ## Content
 
-A glossy rehabilitation gym can be empty at night. The harder question is what happens when the patient needs to turn in bed, reach the toilet, communicate pain, swallow medicines, manage a catheter, or respond to sudden breathlessness at 2 a.m.
+A rehabilitation gym with polished floors can sit empty after dark. What matters more is who shows up when the patient needs to turn in bed, get to the toilet, say where it hurts, swallow pills, deal with a catheter, or call for help with sudden breathlessness at 2 a.m.
 
-That is why a rehabilitation hospital should be evaluated across the patient’s whole day—not by the number of machines or a promise of “intensive therapy.”
+So judge a rehabilitation hospital by the patient’s full day. Counting machines, or hearing “intensive therapy” promised at the front desk, tells you very little.
 
 ### First decide whether rehabilitation travel is medically safe
 
-New weakness, reduced consciousness, a first or prolonged seizure, chest pain, severe breathlessness, new loss of bladder/bowel control, suspected infection, a hot swollen limb, uncontrolled pain, a fall with possible fracture, or sudden neurological deterioration requires acute assessment, not a rehabilitation flight. China’s national pre-hospital emergency number is **120** [1].
+New weakness, reduced consciousness, a first or prolonged seizure, chest pain, severe breathlessness, new loss of bladder/bowel control, suspected infection, a hot swollen limb, uncontrolled pain, a fall with possible fracture, or sudden neurological deterioration — any of these calls for acute assessment, and the rehabilitation flight can wait. China’s national pre-hospital emergency number is **120** [1].
 
-For planned transfer, ask the acute team to state that the patient is medically stable enough for the proposed transport and level of rehabilitation. Include oxygen, feeding, tracheostomy, wounds, dialysis, anticoagulation, seizure, autonomic, behavioural and isolation needs. A rehabilitation hospital is not automatically equipped like an acute hospital.
+For a planned transfer, get the acute team to state clearly that the patient is stable enough for the proposed transport and the intended level of rehabilitation. Spell out oxygen, feeding, tracheostomy, wounds, dialysis, anticoagulation, seizure, autonomic, behavioural and isolation needs. Do not assume a rehabilitation hospital carries the same equipment as an acute one.
 
 ### Match diagnosis, stage and dependency
 
@@ -44,29 +44,29 @@ For planned transfer, ask the acute team to state that the patient is medically 
 | paediatric | congenital or acquired disability | child development, family training, schooling and age-appropriate equipment |
 | geriatric/medically complex | frailty, falls, multiple conditions | geriatric medicine, pharmacy, nutrition, delirium and discharge support |
 
-WHO describes rehabilitation as relevant to many acute and chronic conditions and delivered by a multidisciplinary workforce [2]. A centre strong in routine orthopaedic recovery may not safely manage a tracheostomy after brain injury. Ask which unit, not merely which hospital, accepts the exact dependency.
+WHO describes rehabilitation as relevant to many acute and chronic conditions and delivered by a multidisciplinary workforce [2]. A centre that handles routine orthopaedic recovery well may still be unsafe for a tracheostomy patient after brain injury. Ask which specific unit accepts this level of dependency; the hospital’s name alone will not tell you.
 
 ### Send a transfer packet that reveals the real workload
 
-Provide the diagnosis and event timeline, imaging, operations, complications, current examination, infection status, medicines and recent laboratory results. Add a one-day care map:
+Send the diagnosis and event timeline, imaging, operations, complications, current examination, infection status, medicines and recent laboratory results. Then add a one-day care map:
 
-- bed mobility and transfers, including how many helpers or which hoist;
-- walking distance, wheelchair propulsion and fall risk;
-- feeding route, swallowing texture and aspiration precautions;
-- speech, language, cognition, vision, hearing and behavioural triggers;
-- toileting, bladder/bowel programme and continence;
+- how the patient moves in bed and transfers, with how many helpers or which hoist;
+- how far they walk, how they propel a wheelchair, and their fall risk;
+- how they are fed, what texture they swallow safely, and what aspiration precautions apply;
+- speech and language, cognition, vision, hearing, and anything that triggers behaviour problems;
+- toileting, the bladder/bowel programme, and continence;
 - wounds, pressure areas, braces, lines, tubes, oxygen and suction;
 - pain, spasticity, dizziness, fatigue, sleep and endurance;
-- current PT, OT, speech/swallow, respiratory and psychological input;
-- caregiver skills, home layout, stairs and intended discharge destination.
+- the PT, OT, speech/swallow, respiratory and psychology input currently in place;
+- what the caregiver can do, the home layout and stairs, and where the patient is meant to go after discharge.
 
-Videos of transfers or gait can help when consented and securely shared. Label dates and level of assistance; an old clip of the patient walking independently can mislead a receiving team after a new event.
+Short videos of transfers or gait help too, if the patient consents and the files are shared securely. Mark the date and the level of assistance on every clip — after a new event, old footage of independent walking can seriously mislead the receiving team.
 
 ### Demand a baseline, not a generic package
 
-China’s rehabilitation guidance includes assessment of body function, activity, participation, quality of life, gait, balance, daily tasks, speech, swallowing, cognition and cardiopulmonary function [3]. A new national rehabilitation-assessment standard similarly uses a biopsychosocial model and calls for an assessment report across these domains [4].
+China’s rehabilitation guidance already lists what a proper assessment covers: body function, activity, participation, quality of life, gait, balance, daily tasks, speech, swallowing, cognition and cardiopulmonary function [3]. The new national rehabilitation-assessment standard takes the same biopsychosocial approach and requires an assessment report across these domains [4].
 
-Before accepting a four- or eight-week package, request a provisional baseline and three to five goals in this form:
+Before you sign up for a four- or eight-week package, ask for a provisional baseline and three to five goals written out like this:
 
 | Goal | Current ability | Target | How measured | Review date |
 |---|---|---|---|---|
@@ -74,75 +74,75 @@ Before accepting a four- or eight-week package, request a provisional baseline a
 | eat safely | tube plus restricted trials | defined oral texture | swallowing assessment and intake | after reassessment |
 | walk indoors | 5 m with two helpers | 20 m with one aid | timed/observed test | weekly |
 
-The goals should matter to the patient and destination. A five-point strength gain that does not change dressing, mobility or communication may not justify an international stay.
+The goals have to matter to the patient and to where they are headed. If five extra points of muscle strength change nothing about dressing, moving or communicating, an international stay is hard to justify.
 
 ### Build the team around the bottleneck
 
-Ask for named access to a rehabilitation physician, rehabilitation nurses, physiotherapy, occupational therapy, speech/language and swallowing therapy, psychology/neuropsychology, nutrition, pharmacy, social work/case management, and prosthetics/orthotics where relevant. Confirm how often each profession assesses the patient and meets together.
+Ask for named access to a rehabilitation physician, rehabilitation nurses, physiotherapy, occupational therapy, speech/language and swallowing therapy, psychology/neuropsychology, nutrition, pharmacy, social work/case management, and prosthetics/orthotics where relevant. Then ask how often each profession actually sees the patient and how often they sit down together.
 
-The bottleneck may not be leg strength. It may be attention, fear of falling, aphasia, shoulder pain, low blood pressure, a poor wheelchair fit, a caregiver who cannot perform transfers, or a bathroom that cannot be entered. The centre should show how one plan resolves competing problems rather than selling isolated sessions.
+The bottleneck is often somewhere unexpected: attention, fear of falling, aphasia, shoulder pain, low blood pressure, a badly fitted wheelchair, a caregiver who cannot manage transfers, or a bathroom the patient cannot get into. A good centre shows how one plan handles these competing problems together, instead of selling separate sessions for each.
 
-China’s rehabilitation-development policy encourages early intervention and close cooperation with surgery, neurology, orthopaedics, cardiovascular, respiratory and critical-care services [5]. Verify whether those services are on site, available by consultation or require transfer—and how long transfer takes.
+China’s rehabilitation-development policy encourages early intervention and close cooperation with surgery, neurology, orthopaedics, cardiovascular, respiratory and critical-care services [5]. Check whether those services sit on site, come by consultation, or mean a transfer — and how long that transfer takes.
 
 ### Audit the other 23 hours
 
-Follow a typical weekday, night and weekend:
+Walk through a typical weekday, a night and a weekend:
 
-1. Who positions and turns the patient, and how is skin checked?
-2. Are transfer, swallowing and communication strategies used consistently by nurses and caregivers?
-3. Who manages bladder, bowel, tracheostomy, feeding tubes, oxygen, wounds and medicines?
-4. How are falls, aspiration, delirium, seizures, autonomic dysreflexia, clots and infection recognised?
-5. Is the call system reachable and understandable?
-6. What happens to therapy on weekends, holidays or when a therapist is absent?
-7. How are sleep, fatigue and pain protected so the patient can participate?
-8. Who responds overnight, and which acute hospital receives emergencies?
+1. Who repositions and turns the patient, and how is the skin checked?
+2. Do nurses and caregivers all use the same transfer, swallowing and communication strategies?
+3. Who looks after the bladder and bowel routine, the tracheostomy, feeding tubes, oxygen, wounds and medicines?
+4. How do staff spot falls, aspiration, delirium, seizures, autonomic dysreflexia, clots and infection?
+5. Can the patient actually reach and use the call system?
+6. What happens to therapy on weekends, on holidays, or when a therapist is off sick?
+7. How are sleep, fatigue and pain managed so the patient can still take part in therapy?
+8. Who is on duty overnight, and which acute hospital takes emergencies?
 
-National rehabilitation-hospital standards require clinical departments, rehabilitation treatment areas, medical quality management, nursing, infection control, records and equipment functions—not only a gym [6]. Inspect the ward, bathroom, dining practice, wheelchair route and emergency arrangement as carefully as the robotic device.
+National rehabilitation-hospital standards require clinical departments, rehabilitation treatment areas, medical quality management, nursing, infection control, records and equipment functions — a gym alone does not qualify [6]. So inspect the ward, the bathroom, how meals are handled, the wheelchair route and the emergency arrangement with the same care you give the robotic device.
 
 ### Count delivered therapy, not the brochure promise
 
-Ask for the planned disciplines, minutes or sessions, days per week and individual/group mix. Then request a weekly record of what was actually delivered and why sessions were missed. Medical instability, fatigue and patient choice may reasonably change intensity; unexplained cancellations should not disappear inside a package price.
+Get the plan in writing: which disciplines, how many minutes or sessions, how many days a week, and what share is individual versus group. Then ask every week for a record of what was actually delivered, with reasons for anything missed. Medical instability, fatigue and the patient’s own choice are fair reasons to adjust intensity; cancellations without an explanation should not vanish into a package price.
 
-Technology can be useful when it advances a goal, provides repeatable practice or measures performance. For a robot, exoskeleton, electrical stimulation, virtual reality, brain stimulation or other device, ask:
+Devices earn their place when they advance a goal, allow repeatable practice or measure performance. For a robot, exoskeleton, electrical stimulation, virtual reality, brain stimulation or anything similar, ask:
 
-- which impairment or activity it targets;
-- who is eligible and who is not;
-- whether it replaces or supplements skilled practice;
-- what patient-centred outcome supports it;
-- how benefit and adverse effects are measured;
-- whether the programme can proceed without it.
+- what impairment or activity it is meant to target;
+- who qualifies for it and who does not;
+- whether it replaces skilled practice or adds to it;
+- what patient-centred outcome evidence sits behind it;
+- how benefit and side effects are measured;
+- whether the programme still works without it.
 
-Do not confuse visible effort with functional carryover. The test is whether gains appear in bed, bathroom, meal, corridor, home and community.
+Visible effort is easy to mistake for progress. The real test is whether gains show up in bed, in the bathroom, at meals, in the corridor, at home and out in the community.
 
 ### Read outcomes as trajectories
 
-Request admission, interim and discharge results using the same tools. Relevant outcomes may include daily living, mobility, transfers, walking, wheelchair skills, swallowing, communication, cognition, continence, pain, participation and quality of life. In 2026, China’s national specialty quality-improvement targets called for standardised ADL assessment and institutional monitoring of ADL improvement [7].
+Ask for admission, interim and discharge results from the same tools each time. The outcomes worth tracking can include daily living, mobility, transfers, walking, wheelchair skills, swallowing, communication, cognition, continence, pain, participation and quality of life. In 2026, China’s national specialty quality-improvement targets called for standardised ADL assessment and institutional monitoring of ADL improvement [7].
 
-Ask for the starting severity, goal, change, time, missing data and discharge destination. Also review falls, pressure injury, aspiration pneumonia, urinary infection, clots, unplanned acute transfer, readmission and interrupted therapy. An “effective rate” without the measure or denominator is not enough.
+Ask for the starting severity, the goal, the change achieved, the time it took, any missing data and the discharge destination. Look too at falls, pressure injury, aspiration pneumonia, urinary infection, clots, unplanned acute transfer, readmission and interrupted therapy. A quoted “effective rate” means little if no one can name the measure or the denominator.
 
-Progress is rarely linear. A plateau may reflect a new infection, medication effect, depression, sleep disruption or an unrealistic task—not the end of recovery. Require a team explanation and revised plan before buying more of the same sessions.
+Recovery rarely moves in a straight line. A plateau can come from a new infection, a medication effect, depression, broken sleep or an unrealistic task — it does not automatically mean recovery has stopped. Before paying for more of the same sessions, ask the team to explain the plateau and put a revised plan on paper.
 
 ### Test language, cognition and consent in real tasks
 
-Interpretation is not only for the admission meeting. It affects pain, swallowing, toileting, therapy instructions, psychology, consent and emergency calls. Ask which staff speak the required language, when a qualified interpreter is present, and what communication board or device remains at bedside.
+Interpretation matters well beyond the admission meeting. It shapes pain reports, swallowing, toileting, therapy instructions, psychology sessions, consent and emergency calls. Find out which staff speak the required language, when a qualified interpreter is present, and what communication board or device stays at the bedside.
 
-For aphasia, cognitive impairment or reduced capacity, document how choices are supported, who is legally authorised, and how assent/refusal is respected. Caregiver presence should support—not replace—the patient’s voice.
+With aphasia, cognitive impairment or reduced capacity, get it documented how choices are supported, who holds legal authority, and how the patient’s assent or refusal is respected. A caregiver should stand beside the patient’s voice, never speak over it.
 
 ### Price the level of dependence
 
-Request itemised fees for medical review, room, nursing level, each therapy discipline, devices, consumables, medicines, laboratory/imaging, braces, wheelchair or prosthesis, interpreter, caregiver accommodation, transport and discharge records. Clarify charges for one-to-one supervision, two-person transfers, suction, tube feeding, wound care, dialysis transport or an acute transfer.
+Ask for itemised fees covering medical review, room, nursing level, each therapy discipline, devices, consumables, medicines, laboratory/imaging, braces, wheelchair or prosthesis, interpreter, caregiver accommodation, transport and discharge records. Then clarify what one-to-one supervision, two-person transfers, suction, tube feeding, wound care, dialysis transport or an acute transfer would cost.
 
-Ask how payment changes when the patient improves, deteriorates, misses therapy, needs isolation or leaves early. A low daily bed rate may exclude the professional time that makes rehabilitation possible.
+Also ask how the bill changes if the patient improves, deteriorates, misses therapy, needs isolation or leaves early. A cheap daily bed rate can quietly leave out the professional time that makes rehabilitation work.
 
 ### Rehearse discharge before booking the return flight
 
-The team should assess the actual destination: door width, lift, stairs, bed, toilet, shower, car transfer, power supply and caregiver availability. Before discharge, require hands-on caregiver practice and a competency check for transfers, feeding, skin, tubes, medicines and emergencies.
+The team should assess the real destination, not an imagined one: door width, lift, stairs, bed, toilet, shower, car transfer, power supply and who is available to help. Before discharge, insist on hands-on caregiver practice plus a competency check covering transfers, feeding, skin, tubes, medicines and emergencies.
 
-Take home the diagnosis and complication summary, serial functional assessments, therapy notes, swallowing/nutrition plan, medicine reconciliation, wound/skin plan, equipment specifications, orthosis/prosthesis details, home programme, restrictions, warning signs and contacts. Send them to the receiving rehabilitation and medical teams before travel.
+Take home the diagnosis and complication summary, the serial functional assessments, therapy notes, the swallowing/nutrition plan, medicine reconciliation, the wound/skin plan, equipment specifications, orthosis/prosthesis details, the home programme, restrictions, warning signs and contacts. Send all of it to the receiving rehabilitation and medical teams before anyone travels.
 
-The most convincing rehabilitation hospital is not the one that promises the largest improvement. It is the one that can describe today’s dependence honestly, deliver a coherent 24-hour plan, measure tomorrow’s change, and prepare the patient’s real next environment.
+Trust the hospital that can describe today’s dependence honestly, run a coherent 24-hour plan, measure tomorrow’s change and prepare the patient’s real next environment. Big improvement promises on their own mean little.
 
-**Medical disclaimer:** This guide provides general selection and planning information. It does not determine medical stability, prescribe rehabilitation intensity, predict recovery, or rank Chinese hospitals. Acute or worsening symptoms require immediate local medical assessment.
+**Medical disclaimer:** This guide offers general information for choosing and planning only. It does not assess medical stability, prescribe rehabilitation intensity, predict recovery, or rank hospitals in China. Anyone with acute or worsening symptoms needs immediate local medical assessment.
 
 ## Related Guides
 
@@ -156,15 +156,15 @@ The most convincing rehabilitation hospital is not the one that promises the lar
 
 ### Should I choose a rehabilitation hospital or a rehabilitation department in a general hospital?
 
-A general hospital may be safer for active medical complexity and rapid specialty access. A dedicated rehabilitation hospital may offer deeper rehabilitation nursing, longer practice and discharge preparation. Match the current risk and dependency.
+When medical problems are still active and quick access to specialties matters, a general hospital is often the safer choice. A dedicated rehabilitation hospital usually wins on deeper rehabilitation nursing, more practice time and better discharge preparation. Weigh the current risk and dependency, then choose.
 
 ### Can a family caregiver replace professional rehabilitation nursing?
 
-No. Caregivers can practise and support the plan, but trained staff must assess risks, manage medical needs and teach safe techniques. The centre should not hide an unsafe staffing gap behind “family participation.”
+No. Family can practise alongside the patient and support the plan, but trained staff still have to assess risks, manage medical needs and teach safe technique. Be wary of any centre that uses “family participation” to paper over a staffing gap.
 
 ### What must be ready before an international discharge?
 
-The patient must be stable for travel; equipment and medicines must be available; caregivers must demonstrate key tasks; records must reach the receiving team; and transport, home access, warning signs and emergency care must be arranged.
+The patient has to be stable enough to travel. Equipment and medicines need to be waiting, caregivers need to show they can do the key tasks, and records need to be in the receiving team’s hands. Transport, home access, warning signs and emergency care all have to be arranged.
 
 ## SEO Metadata
 

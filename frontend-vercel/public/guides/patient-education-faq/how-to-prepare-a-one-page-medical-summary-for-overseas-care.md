@@ -159,19 +159,19 @@ If the page spills onto three pages, do not shrink it to unreadable type. Move o
 
 ## FAQ
 
-### 1. Must the summary literally fit on one page?
+### Must the summary literally fit on one page?
 
 Aim for one readable page, but never sacrifice a critical allergy, medicine or current safety issue. Put the longer timeline and evidence in indexed attachments.
 
-### 2. Can a patient write the summary without a doctor?
+### Can a patient write the summary without a doctor?
 
 A patient can draft it, but a clinician familiar with the case should verify diagnoses, medicines, key results and the referral question before it is used for clinical decisions.
 
-### 4. Is an AI translation enough for the medical summary?
+### Is an AI translation enough for the medical summary?
 
 It can be a draft aid, but high-risk terms, numbers, units, negation, laterality and uncertainty need human checking. Keep the signed source document available.
 
-### 5. When should the page be updated?
+### When should the page be updated?
 
 Update it after a meaningful diagnosis, medicine, procedure, test result or condition change, and again immediately before submission and travel. Display the current-to date prominently.
 

@@ -13,18 +13,18 @@
 
 ## Key Takeaways
 
-- Write one arrival control sheet with the flight, terminal, exact meeting point, driver, destination, hospital contact and backup numbers. Screenshots should work without mobile data.
-- Airport wheelchair help, baggage help, vehicle boarding and hospital navigation are separate links. Name the person responsible for each handoff.
-- Decide before landing whether the first destination is the hospital, accommodation or emergency care. A hospital logo on an itinerary is not an admission confirmation.
-- Use a first-night escalation card. Serious or rapidly worsening symptoms belong on the local emergency pathway, not in a coordinator's chat queue.
+- Put the whole arrival on one control sheet: flight, terminal, exact meeting point, driver, destination, hospital contact, backup numbers. Save screenshots that open with no mobile data.
+- Wheelchair help at the airport, baggage, getting into the vehicle and finding your way inside the hospital are separate services. Give every handoff a named person.
+- Settle the first destination — hospital, accommodation or emergency care — before the plane lands. A hospital logo printed on an itinerary does not confirm an admission.
+- Keep a first-night escalation card by the bed. Serious or fast-worsening symptoms go straight onto the local emergency pathway; a coordinator's chat queue is the wrong place for them.
 
 ## Content
 
-The most fragile part of an international treatment journey is often the unremarkable-looking gap after landing. The patient is tired, the companion is collecting bags, a driver is waiting at another door, and the hospital contact assumes everyone is already on the way. A safe first day makes those gaps visible.
+Ask coordinators where international arrivals go wrong and they rarely point at the surgery. They point at the first hour after landing. The patient is exhausted, the companion is at the baggage belt, the driver is waiting at a different exit, and the hospital contact assumes everyone is already in the car. A safe first day closes those gaps one by one.
 
 ### Before the aircraft door opens: use one control sheet
 
-Do not spread the arrival plan across email, a booking app and several chat threads. Put the operational facts on one page:
+Arrival plans fail when they live in three places at once — an email thread, a booking app, a couple of chats. Pull the operational facts onto a single page:
 
 | Item | What must be written down |
 |---|---|
@@ -36,24 +36,24 @@ Do not spread the arrival plan across email, a booking app and several chat thre
 | hospital | department, appointment/admission status, coordinator and clinical contact |
 | backup | airport help desk, accommodation desk, insurer and 120 emergency number |
 
-Save it on both phones, print one copy and send it to the receiving contact. A photo of the driver or vehicle can help, but the licence plate and operator are the decisive checks. Never put a patient into an unverified car because someone knows the surname or holds a hospital-style sign.
+Keep a copy on both phones, print one, and send it to the person receiving you. A photo of the driver helps you spot the car; the licence plate and operator confirm it. Someone who knows the surname and waves a hospital-style sign has still not verified a vehicle, so the patient stays out of it.
 
 ### Divide the arrival roles before baggage claim
 
-One person cannot watch the patient, recover baggage, call the driver and solve immigration questions at the same time. Assign four roles even if two people must cover them:
+Nobody can watch the patient, chase baggage, phone the driver and answer immigration questions at the same time. Split the work into four roles, even if only two of you are travelling:
 
 1. **patient safety:** symptoms, walking tolerance, toilet needs, food and medicine;
 2. **documents:** passports, entry documents, hospital letter and baggage receipts;
 3. **baggage:** count every item, inspect damage and report a missing bag before leaving the secure area;
 4. **connection:** update the driver and receiving team only after the arrival terminal is confirmed.
 
-Keep medicines, the current medication list, allergies, a short clinical summary and essential devices with the patient—not in a suitcase circulating on the belt. CDC travel guidance recommends original labelled containers and carry-on transport because checked medication can be lost, damaged or delayed [1].
+Medicines, the current medication list, allergy information, a short clinical summary and essential devices stay on the patient's person, never in a suitcase going round the belt. CDC travel guidance recommends original labelled containers and carry-on transport, because checked medication can be lost, damaged or delayed [1].
 
 ### Treat mobility as one continuous chain
 
-An airline wheelchair request does not automatically include lifting into a private vehicle or assistance at the hospital. IATA uses specific assistance codes for different mobility needs and notes that medical clearance may be requested when safe carriage is uncertain [2]. China's 2025 airport accessibility guidance also expects airports to publish accessibility information and reservation channels and to provide usable routes and spaces [3].
+Book a wheelchair with the airline and you have covered the airport, possibly. Nobody has yet promised to lift the patient into a private car, or to push the chair once you reach the hospital. IATA uses specific assistance codes for different mobility needs and notes that medical clearance may be requested when safe carriage is uncertain [2]. China's 2025 airport accessibility guidance also expects airports to publish accessibility information and reservation channels and to provide usable routes and spaces [3].
 
-Confirm each segment separately:
+Then confirm each segment on its own:
 
 - aircraft seat to terminal;
 - immigration and baggage claim;
@@ -62,23 +62,23 @@ Confirm each segment separately:
 - vehicle to accommodation room or hospital registration;
 - luggage movement while the companion supports the patient.
 
-Ask whether the patient can transfer independently, needs a low step, must remain in their own wheelchair, needs oxygen or cannot sit upright. A folding wheelchair in the boot is not the same service as a wheelchair-accessible vehicle. If a trained transfer or medical monitoring is required, arrange that capability explicitly.
+Ask the concrete questions. Can the patient transfer independently? Do they need a low step, must they stay in their own wheelchair, is oxygen involved, can they sit upright at all? A folding wheelchair in the boot is not the same service as a wheelchair-accessible vehicle. Where a trained transfer or medical monitoring is needed, book that capability by name.
 
 ### Choose the first stop by condition, not by itinerary design
 
-There are three different journeys:
+In practice there are three different journeys:
 
 - **Routine transfer to accommodation:** appropriate when the patient is stable, no same-day clinical action was agreed, medicines and food are available, and the first appointment is confirmed.
 - **Planned transfer to hospital:** appropriate when the named department has confirmed the date, campus, arrival window and whether this is registration, assessment or admission.
 - **Emergency response:** appropriate when symptoms are life-threatening, rapidly worsening or unsafe for an ordinary car.
 
-Do not tell a driver only the hospital brand. Large hospitals may have several campuses, entrances and emergency departments. Send the Chinese address and a map pin for the correct patient entrance. The receiver should repeat back the destination before departure.
+Telling the driver only the hospital brand is a common way to end up at the wrong gate. Large hospitals run several campuses, entrances and emergency departments. Send the Chinese address plus a map pin for the correct patient entrance, and have the receiver repeat the destination back before you set off.
 
-China's unified pre-hospital medical emergency number is **120** [4]. Callers should give the precise location, main condition and callback number, keep the phone free and, when safe, send someone to a visible landmark to guide responders. A coordinator, hotel concierge or ride-hailing driver is not a substitute for emergency dispatch.
+China's unified pre-hospital medical emergency number is **120** [4]. Give the precise location, the main condition and a callback number; keep the phone free; if it is safe, send someone to a visible landmark to wave the responders in. A coordinator, hotel concierge or ride-hailing driver can help with many things. Dispatching an ambulance is not one of them.
 
 ### Make a five-minute handoff at the destination
 
-The driver completing the trip does not complete the medical handoff. Before anyone leaves, verify aloud:
+The ride ends when the car stops. The medical handoff does not. Before anyone leaves, verify aloud:
 
 - patient identity and current condition compared with departure;
 - number of bags, medicines, refrigerated items and mobility devices;
@@ -87,13 +87,13 @@ The driver completing the trip does not complete the medical handoff. Before any
 - next medicine time in local time;
 - who is staying with the patient and who answers after hours.
 
-At a hotel, the property registers foreign guests. At accommodation other than a hotel, the foreign guest or host must complete local public-security accommodation registration within 24 hours under the national rule [5]. Keep the passport available and ask for proof or confirmation; do not assume a booking platform completed it.
+Hotels register their foreign guests themselves. Anywhere else — a serviced apartment, a friend's flat — the foreign guest or the host must complete local public-security accommodation registration within 24 hours under the national rule [5]. Keep the passport within reach and ask for proof that the registration happened; booking platforms do not do this for you.
 
 ### Rebuild the medicine clock, do not merely change the phone clock
 
-Time-zone travel can create a short interval, a missed interval or two doses that appear to fall on the same date. Before travel, the prescribing clinician should convert time-critical medicines—such as insulin, anticoagulants, anti-seizure medicines, steroids or transplant medicines—into an exact travel schedule. CDC guidance for travellers with chronic illness specifically advises discussing dose timing across time zones and carrying enough medicine for delays [6].
+Crossing time zones plays tricks with the medicine schedule: an interval shrinks, a dose disappears, or two doses land on what looks like the same date. Before departure, the prescribing clinician should convert time-critical medicines—such as insulin, anticoagulants, anti-seizure medicines, steroids or transplant medicines—into an exact travel schedule. CDC guidance for travellers with chronic illness specifically advises discussing dose timing across time zones and carrying enough medicine for delays [6].
 
-On arrival, perform a medication reconciliation:
+Once you arrive, sit down and do a proper medication reconciliation:
 
 1. record the last dose with its original time zone;
 2. record the next planned dose in China Standard Time;
@@ -101,13 +101,13 @@ On arrival, perform a medication reconciliation:
 4. identify vomiting, missed refrigeration or confiscated/lost medicine;
 5. contact the appropriate clinician or pharmacist for any discrepancy.
 
-AHRQ defines medication reconciliation as comparing the current regimen with new orders to identify unintended differences [7]. Do not double a dose, split a modified-release tablet or replace a brand based on appearance alone.
+AHRQ defines medication reconciliation as comparing the current regimen with new orders to identify unintended differences [7]. Whatever you find, do not double a dose, split a modified-release tablet, or swap brands because the tablets look alike.
 
 ### Protect the first night from predictable mistakes
 
-Jet lag can cause sleep disturbance, daytime sleepiness, cognitive slowing, malaise and gastrointestinal symptoms. It is not proof that every symptom is harmless. CDC recommends planning light, sleep, hydration and medicines around the destination schedule and cautions that poorly timed sedatives can worsen impairment and falls [8].
+Jet lag brings sleep disturbance, daytime sleepiness, slower thinking, malaise and an unsettled stomach. That list is long, but it does not make every new symptom harmless. CDC recommends planning light, sleep, hydration and medicines around the destination schedule and cautions that poorly timed sedatives can worsen impairment and falls [8].
 
-Keep the first evening deliberately simple:
+Keep the first evening deliberately boring:
 
 - use familiar, safe food that fits fasting and treatment instructions;
 - confirm drinking-water and refrigeration arrangements;
@@ -116,7 +116,7 @@ Keep the first evening deliberately simple:
 - record temperature or other observations only if the clinical team requested them;
 - set alarms for medicines and the next contact, but allow recovery time before nonessential errands.
 
-Create a three-level card:
+Build a three-level card with the team before you need it:
 
 | Level | Example | Action |
 |---|---|---|
@@ -124,7 +124,7 @@ Create a three-level card:
 | yellow | new symptom, repeated vomiting, medication uncertainty, worsening pain without danger signs | call the named clinical service or insurer promptly; document advice |
 | red | chest pain, severe breathing difficulty, collapse, new one-sided weakness, uncontrolled bleeding, seizure or rapidly worsening condition | call 120 and give the exact location; do not wait for a chat reply |
 
-The clinical team must personalise this card. Diagnosis-specific warnings override these examples.
+This card only works if the clinical team personalises it. Diagnosis-specific warnings override anything in the examples above.
 
 ### A realistic 24-hour arrival sequence
 
@@ -134,7 +134,7 @@ The clinical team must personalise this card. Diagnosis-specific warnings overri
 - **5–10 hours:** reconcile medicines, food, hydration, registration and the first-night safety setup.
 - **10–24 hours:** sleep and recover without losing the next clinical time; reassess symptoms before leaving for the first appointment.
 
-The goal is not a flawless welcome. It is a recoverable system: if a bag, driver, phone or appointment fails, everyone knows the next safe action.
+Something on this list will go wrong: a bag, a driver, a phone, an appointment. The plan earns its keep when that happens and everyone still knows the next safe action.
 
 **Medical disclaimer:** This article is general educational information, not individual medical advice. A clinician familiar with the patient's condition should set the travel, medication and warning-sign plan. For severe, rapidly worsening or potentially life-threatening symptoms in China, call 120 or seek immediate local emergency care.
 
@@ -142,15 +142,15 @@ The goal is not a flawless welcome. It is a recoverable system: if a bag, driver
 
 ### Should every medical traveller go directly from the airport to the hospital?
 
-No. Go directly only when the named hospital team has confirmed a same-day assessment or admission, or when urgent care is needed. A stable patient with a later appointment may be safer resting at pre-checked accommodation. The decision should be made before departure and revised if the condition changes.
+No. Go directly only when the named hospital team has confirmed a same-day assessment or admission, or when urgent care is needed. A stable patient whose appointment is days away will often do better resting at pre-checked accommodation. Make the call before departure, and revisit it if the condition changes.
 
 ### What if the airport wheelchair assistant leaves before the driver arrives?
 
-Prevent that gap by naming the handoff point and the person accepting responsibility. Confirm whether assistance reaches the public meeting area or vehicle. If it does not, arrange a separate airport service, trained escort or accessible transfer rather than expecting the companion to improvise.
+Close that gap on paper before you fly: name the handoff point and the person who takes over. Ask how far the assistance actually goes — the public meeting area, or all the way to the vehicle. If it stops short, book a separate airport service, a trained escort or an accessible transfer. The companion should not have to improvise a lift at the kerb.
 
 ### What information should be ready when calling 120?
 
-Give the exact location and visible landmark, the main emergency, patient age if known, hazards or access barriers, and a callback number. Keep the line available, follow dispatcher instructions and send someone to guide responders when this is safe.
+Give the exact location with a visible landmark, the main emergency, the patient's age if you know it, any hazards or access barriers, and a callback number. Then keep the line free, follow the dispatcher's instructions, and send someone to guide the responders in if that is safe.
 
 ## SEO Metadata
 

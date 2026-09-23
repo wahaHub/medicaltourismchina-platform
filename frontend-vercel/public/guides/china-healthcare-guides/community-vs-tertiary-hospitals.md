@@ -13,84 +13,84 @@
 
 ## Key Takeaways
 
-- Community health centres commonly provide first-contact care, chronic-disease management, prevention, rehabilitation and referral; national service standards define more specific capabilities but local provision still varies.[1]
-- Tertiary hospitals are expected to focus on emergency, critical and difficult complex disease rather than absorb every routine follow-up visit.[2]
-- A community health centre is not simply a smaller tertiary hospital. Its value lies in proximity, continuity and knowing the patient over time.
-- A tertiary hospital is not automatically required for every symptom. Unnecessary specialist-centre visits may add travel, waiting and fragmented follow-up.
-- International patients should confirm identification requirements, payment, language support, medication availability and whether a local centre can access the hospital’s referral network.
+- Community health centres handle first-contact care, chronic-disease management, prevention, rehabilitation and referral. National service standards spell out the capabilities in more detail, though what any single centre actually provides still varies from place to place.[1]
+- Tertiary hospitals are meant to concentrate on emergency, critical and difficult complex disease; absorbing every routine follow-up visit was never the idea.[2]
+- A community health centre does a different job from a tertiary hospital, at a smaller scale. What it offers is proximity, continuity and a clinician who comes to know the patient over time.
+- Most symptoms do not need a tertiary hospital by default. An unnecessary specialist-centre visit can mean more travel, more waiting and follow-up scattered across departments.
+- International patients should check identification requirements, payment, language support and medication availability in advance, and ask whether a local centre can plug into the hospital’s referral network.
 
 ## Content
 
-The difference between a community health centre and a tertiary hospital is not best understood as “basic quality versus high quality.” They are built for different parts of care.
+It is tempting to read the difference between a community health centre and a tertiary hospital as “basic quality versus high quality.” That misses the point: each is built for a different part of care.
 
-A community health centre is a local first-contact service. A tertiary hospital is a high-level institution expected to manage difficult, complex and critical cases. China’s current policy is trying to make movement between them more deliberate: routine and stable care closer to home, escalation when specialist resources are needed, and transfer back after the acute phase.[2][3]
+A community health centre gives first-contact care close to where you live. A tertiary hospital is a high-level institution built to manage difficult, complex and critical cases. Current Chinese policy wants movement between the two to be deliberate: routine and stable care handled near home, escalation when specialist resources are needed, then transfer back once the acute phase is over.[2][3]
 
-For an international patient staying in China for weeks or months, knowing which door to use can prevent both delay and needless complexity.
+If you are an international patient spending weeks or months in China, picking the right door saves you from both delays and arrangements you never needed.
 
 ## What a Community Health Centre Commonly Does
 
-National standards for community health centres cover basic clinical care, public health, family-doctor services, older-person and child services, traditional Chinese medicine, rational medicine use, referral and safety management.[1] A particular centre may offer:
+The national standards for community health centres span basic clinical care, public health, family-doctor services, services for older people and children, traditional Chinese medicine, rational medicine use, referral and safety management.[1] In practice, a centre may offer:
 
-- Assessment of common, non-severe symptoms
-- Monitoring of stable hypertension, diabetes and other chronic conditions
-- Prescription renewal or medication review within its scope
-- Vaccination and preventive services, subject to eligibility and local rules
-- Wound care, injections or simple procedures where available
+- Assessment of common symptoms that are not severe
+- Ongoing monitoring of stable hypertension, diabetes and similar chronic conditions
+- Renewing prescriptions or reviewing medication within its licensed scope
+- Vaccinations and other preventive services, where you are eligible and local rules allow
+- Wound care, injections and simple procedures where available
 - Rehabilitation and health education
-- Referral to a hospital when the problem exceeds local capability
+- Referral onward to a hospital when the problem is beyond local capability
 
-The centre’s greatest advantage is continuity. A clinician can compare blood pressure over several visits, review whether a medicine was tolerated and notice a gradual change. That kind of longitudinal care is difficult to reproduce through unrelated appointments at a large hospital.
+Continuity is where a centre earns its keep. The same clinician can compare your blood pressure across several visits, check whether a medicine agreed with you and catch a slow change early. Stringing together unrelated appointments at a big hospital rarely reproduces that.
 
-Capabilities are not uniform. Some centres have extended hours, imaging or visiting specialists; others are much smaller. Ask rather than assume.
+Capabilities vary a lot from one centre to the next. Some run extended hours, have imaging or host visiting specialists; others are much smaller. Ask before you go.
 
 ## What a Tertiary Hospital Is Expected to Do
 
-The 2025 national assessment standard positions tertiary hospitals around emergency and critical illness, difficult complex disease, specialist services, technology, teaching and support for lower-level institutions.[2]
+Under the 2025 national assessment standard, tertiary hospitals are built around emergency and critical illness, difficult complex disease, specialist services, technology, teaching and support for lower-level institutions.[2]
 
-A tertiary hospital is therefore the more likely destination for an uncertain serious diagnosis, major surgery, intensive-care risk, rare disease, complex pathology or imaging, failure of earlier treatment, or a problem requiring several subspecialists at once.
+That makes a tertiary hospital the right destination when the diagnosis looks serious but unclear, when major surgery or intensive care might be involved, for rare disease, for complex pathology or imaging reviews, when earlier treatment has failed, or when several subspecialists need to weigh in at once.
 
-Its strength is concentration of expertise and backup. Its weakness for routine care is scale: busy registration, short appointments, repeated travel and the risk that no one clinician owns long-term management. A tertiary outpatient prescription may also be inconvenient if the same medicine or monitoring is not available locally afterward.
+What it offers is concentrated expertise with backup behind it. What it costs you on routine care is scale: crowded registration, short appointments, repeated trips, and the chance that no single clinician takes ownership of your long-term management. And a prescription written in a tertiary outpatient clinic becomes a headache if the same medicine or monitoring is not available near where you stay.
 
 ## A Symptom Does Not Choose the Building—Risk Does
 
-A mild sore throat and severe breathing difficulty both involve the respiratory system, but they require different levels of response. The decision should turn on severity, speed of change, the patient’s underlying conditions and the resources needed—not merely the disease label.
+A mild sore throat and severe breathing difficulty sit in the same respiratory system, yet they call for very different levels of response. Severity, speed of change, underlying conditions and the resources required should drive the decision — the disease label alone tells you little.
 
-Go directly to emergency care for symptoms such as severe breathing difficulty, signs of stroke, major trauma, uncontrolled bleeding, loss of consciousness or rapidly worsening severe pain. A community centre should not be used as a delay when an emergency is suspected. China has a technical standard specifically addressing recognition and referral of urgent and severe patients in primary facilities.[4]
+Severe breathing difficulty, signs of stroke, major trauma, uncontrolled bleeding, loss of consciousness or rapidly worsening severe pain: go straight to emergency care. Using a community centre as a first stop in a suspected emergency costs time you may not have. China has a technical standard specifically for recognising and referring urgent and severe patients in primary facilities.[4]
 
-For stable, non-urgent problems, a community centre may assess first and decide whether hospital referral is necessary. If the patient already has a complex diagnosis or a tertiary team has set a time-sensitive plan, follow that team’s instructions.
+With a stable, non-urgent problem, a community centre can assess you first and judge whether a hospital referral is needed. If you already carry a complex diagnosis, or a tertiary team has set a time-sensitive plan, that team’s instructions come first.
 
 ## How Upward and Downward Referral Should Work
 
-Upward referral means moving to a facility with the required specialist or technical capacity. Downward referral means returning to a suitable local service after diagnosis, surgery or stabilisation.
+Upward referral moves you to a facility that has the specialist or technical capacity you need. Downward referral brings you back to a suitable local service once the diagnosis is made, the surgery done or the condition stabilised.
 
-National referral policy asks medical institutions to clarify referral rules, transfer relevant information and improve appointment coordination. It also calls for higher-level hospitals to support care for stable and recovery-phase patients at lower levels.[3] In practice, arrangements differ by city and medical network.
+National referral policy tells medical institutions to clarify their referral rules, pass on the relevant information and coordinate appointments better. It also asks higher-level hospitals to back the care of stable and recovery-phase patients at lower levels.[3] How this actually runs still differs by city and by medical network.
 
-Before leaving the tertiary hospital, request:
+Before you leave the tertiary hospital, ask for:
 
-- A discharge summary with diagnoses and important findings
-- A current medication list with generic names and doses
-- Wound, activity, diet and rehabilitation instructions
-- The exact tests to repeat and their timing
-- Red-flag symptoms and an emergency contact route
-- A statement of which follow-up can occur locally or abroad
+- A discharge summary that states the diagnoses and important findings
+- An up-to-date medication list with generic names and doses
+- Instructions for the wound, activity, diet and rehabilitation
+- Exactly which tests to repeat, and when
+- The red-flag symptoms to watch for and an emergency contact route
+- A note on which follow-up can happen locally or back home
 
-The local clinician then has something usable, not just a pile of untranslated reports.
+Hand that to a local clinician and they can actually work with it, instead of guessing at a pile of untranslated reports.
 
 ## Considerations for International Patients
 
-Community centres are designed primarily around local residents, so international-facing services vary. Bring a passport or other accepted identification and confirm registration arrangements in advance. Do not assume staff or electronic systems can use an English name in the same way as the patient’s passport; keep name order and passport number consistent.
+Community centres are set up mainly for local residents, and how well they handle international patients varies. Bring your passport or another accepted ID and confirm the registration arrangements ahead of time. Staff and electronic systems may treat an English name differently from how it appears in your passport, so keep the name order and passport number consistent everywhere.
 
-Ask whether interpretation is available, whether overseas prescriptions can be reviewed, and how payment works. A medicine sold in the patient’s home country may have a different brand or may not be stocked. Never ask a coordinator to translate a drug name from appearance alone; provide the generic name, dose, formulation and a photograph of the original label.
+Ask about interpretation, whether they can review overseas prescriptions, and how payment works. A medicine you buy at home may come under a different brand in China, or not be stocked at all. No coordinator should identify a drug from its appearance; give them the generic name, dose, formulation and a photo of the original label.
 
-For longer stays, a nearby centre can be useful even when the main treatment is at a tertiary hospital. It may handle routine measurements, simple wound checks or scheduled rehabilitation, provided the tertiary team has supplied a clear plan and the centre has accepted the task.
+On a longer stay, the centre near your accommodation can be genuinely useful even while the main treatment happens at a tertiary hospital. It can take routine measurements, do simple wound checks or run scheduled rehabilitation — as long as the tertiary team has written a clear plan and the centre has agreed to take it on.
 
 ## Choose One for Today and Plan for Tomorrow
 
-The best setting can change during the same illness. Diagnosis and surgery may belong at a tertiary centre; recovery and chronic monitoring may belong closer to where the patient is staying. The key is not loyalty to one institution, but a documented handover.
+The best setting can change over the course of one illness. Diagnosis and surgery may belong at a tertiary centre; recovery and chronic monitoring usually fit better near where you are staying. What matters is a documented handover each time care moves, far more than loyalty to any single institution.
 
-When comparing options, ask: what must be done today, what risk requires backup, and who will still be available in four weeks? Those three questions usually produce a better answer than “Which hospital is bigger?”
+When you weigh the options, ask three things: what has to happen today, which risk needs backup behind it, and who will still be around in four weeks. Answer those and you will usually land somewhere better than “Which hospital is bigger?”
 
-**Medical disclaimer:** This guide does not diagnose symptoms or direct an individual to a particular facility. If symptoms are severe, sudden or rapidly worsening, use local emergency services without delaying for a routine community appointment.
+**Medical disclaimer:** This guide cannot diagnose your symptoms or tell you which facility to use. If symptoms are severe, sudden or getting worse quickly, use local emergency services — do not wait for a routine community appointment.
 
 ## Related Guides
 
@@ -103,15 +103,15 @@ When comparing options, ask: what must be done today, what risk requires backup,
 
 ### Do I need a community referral to see a tertiary hospital?
 
-Not in every situation. Direct booking is often possible, but rules differ by hospital, service and insurance arrangement. A referral or record review can still improve specialist matching.
+Not always. Direct booking is often possible, though the rules vary by hospital, service and insurance arrangement. A referral or a review of your records can still get you to a better-matched specialist.
 
 ### When should I skip community care and seek emergency help?
 
-For severe breathing difficulty, stroke signs, major trauma, uncontrolled bleeding, loss of consciousness or other rapidly worsening serious symptoms, seek emergency care immediately.[4]
+Severe breathing difficulty, stroke signs, major trauma, uncontrolled bleeding, loss of consciousness or any other serious symptom that is getting worse fast — go to emergency care immediately.[4]
 
 ### Can follow-up after tertiary treatment be done locally?
 
-Often some of it can, especially routine monitoring or rehabilitation, but only after the tertiary team identifies what is safe to transfer and provides a clear written handover.[3]
+Quite often, part of it can — routine monitoring and rehabilitation are the usual candidates. The condition is that the tertiary team spells out what is safe to transfer and hands over a clear written plan.[3]
 
 ## SEO Metadata
 

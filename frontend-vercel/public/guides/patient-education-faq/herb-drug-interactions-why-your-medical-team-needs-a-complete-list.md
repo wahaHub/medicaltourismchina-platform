@@ -172,15 +172,15 @@ Do not convert “unknown” into “safe” during translation. An incomplete p
 
 ## FAQ
 
-### 1. Do I need to report teas and powders that are just foods?
+### Do I need to report teas and powders that are just foods?
 
 Report products used regularly for a health effect, especially concentrated extracts, medicinal teas and multi-ingredient powders. Ordinary occasional foods may also matter when a medicine has a known food interaction. Let the pharmacist decide relevance from the actual product and amount.
 
-### 3. Should every herbal product be stopped two weeks before surgery?
+### Should every herbal product be stopped two weeks before surgery?
 
 Not by self-direction. Tell the team early and obtain an exact stop and restart plan. Risks and clearance differ, and suddenly stopping a regularly used product may also need management [11].
 
-### 4. If an interaction checker shows nothing, is the combination safe?
+### If an interaction checker shows nothing, is the combination safe?
 
 Not necessarily. Evidence is missing for many pairs, and the database may not identify a regional multi-herb product or variable extract. Absence of a listing should be documented as uncertainty, not proof of safety [1][8].
 

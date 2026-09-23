@@ -15,17 +15,17 @@
 
 ## Key Takeaways
 
-- “AI used” is incomplete information. The software may improve image acquisition, reconstruct a scan, prioritise a worklist, mark a possible finding, measure anatomy or draft part of a report.
-- The radiologist’s signed report remains the clinical document. Ask who reviewed the original images and how an AI–human disagreement was handled.
-- A model’s accuracy belongs to a defined task, population, scanner, protocol, threshold and version. A high number on a brochure is not a universal diagnostic rate.
-- False negatives can create false reassurance; false positives can lead to anxiety, extra imaging, biopsy or treatment. Human readers can also be influenced by incorrect AI suggestions [9].
-- Keep the original DICOM study and final report. An overlay, risk score or generated summary must not replace the source images.
+- Hearing that “AI was used” tells you very little. The software might have helped acquire the images, reconstructed the scan, bumped a study up the worklist, flagged a possible finding, measured anatomy or drafted part of the report.
+- What counts clinically is the report a radiologist signed. Ask who actually reviewed the original images, and what happened when the software and the reader disagreed.
+- An accuracy figure belongs to one task, one population, one scanner, one protocol, one threshold and one software version. A big number on a brochure does not travel beyond those conditions.
+- A false negative can reassure you wrongly; a false positive can set off anxiety, extra imaging, a biopsy or treatment. An incorrect AI suggestion can pull a human reader off course too [9].
+- Hold on to the original DICOM study and the final report. No overlay, risk score or generated summary can stand in for the source images.
 
 ## Content
 
-A patient may encounter artificial intelligence before, during or after a scan without seeing a robot or even an “AI” button. Software may help a technologist position the patient, shorten an MRI acquisition, reconstruct a lower-dose CT, flag a possible brain haemorrhage for earlier reading, outline a tumour, compare lesion size or suggest wording for a report. These are different tools with different failure modes.
+You can run into artificial intelligence before, during or after a scan without ever seeing a robot or an “AI” button. Software might help the technologist position you, shorten an MRI acquisition, reconstruct a lower-dose CT, push a possible brain haemorrhage to the front of the reading queue, outline a tumour, compare lesion size or propose wording for the report. Each of these is a different tool, and each fails in its own way.
 
-China’s 2025 policy on “AI + health care” encourages imaging support for diagnosis, report generation, image-quality assessment and treatment planning while also calling for security, standards and regulated use [1]. The national catalogue of application scenarios likewise describes multiple imaging functions rather than a single autonomous diagnosis system [2]. Patients therefore need the product’s precise job—not the hospital’s general claim that it is an “AI hospital.”
+China’s 2025 “AI + health care” policy encourages imaging support for diagnosis, report generation, image-quality assessment and treatment planning, and in the same breath demands security, standards and regulated use [1]. The national catalogue of application scenarios also lists the imaging functions one by one rather than describing a single autonomous diagnosis system [2]. So the useful question is what this particular product does — not whether the hospital calls itself an “AI hospital.”
 
 ### Six jobs that are often mixed together
 
@@ -38,24 +38,24 @@ China’s 2025 policy on “AI + health care” encourages imaging support for d
 | Segmentation/measurement | outline an organ or lesion, calculate volume or change | whether the change is clinically meaningful or treatment response |
 | Reporting support | populate measurements, compare priors, draft phrases | a verified, signed interpretation in clinical context |
 
-One product may do only one row. A lung-nodule detector should not be assumed to assess pulmonary embolism, pneumonia, breast tissue, bones or every incidental finding visible on the same CT.
+Most products cover a single row of that table. A lung-nodule detector says nothing about pulmonary embolism, pneumonia, breast tissue or bones, and it will not assess every incidental finding visible on the same CT.
 
 ### Start with the exact clinical question
 
-The imaging examination must still be appropriate. Ask:
+The scan itself still has to be the right one. Ask:
 
 - What symptom, diagnosis or treatment decision is this CT, MRI, X-ray, ultrasound, mammogram or PET examination meant to address?
 - Is contrast needed? Is there radiation, sedation, pregnancy, kidney, allergy, metal-implant or motion risk?
 - Is the AI intended for screening, symptomatic diagnosis, emergency triage, treatment planning or follow-up?
 - Which body part, disease, age group and image type are within the product’s intended use?
 
-An AI add-on cannot make an unnecessary scan necessary. It also cannot compensate for the wrong modality, incomplete coverage, poor positioning, severe motion, incorrect contrast phase or missing prior examinations.
+Bolting AI onto a scan does not make an unneeded scan needed. It cannot rescue the wrong modality, incomplete coverage, poor positioning, severe motion, an incorrect contrast phase or missing prior examinations either.
 
 ### Verify the product, version and intended use
 
-Ask the hospital for the product’s exact name, manufacturer, software version and role in your pathway. For a medical-device function used in China, confirm the current NMPA registration and intended use in the official device database [3]. Registration means the device was reviewed for its specified use; it does not prove superiority over every radiologist, hospital or competing product.
+Get the product’s exact name, manufacturer, software version and its role in your care pathway. If it functions as a medical device in China, confirm the current NMPA registration and intended use in the official device database [3]. Registration tells you the device was reviewed for one specified use. It says nothing about superiority over any radiologist, hospital or competing product.
 
-Also ask:
+Then dig a little deeper:
 
 1. Is this version the registered version, a hospital-developed research tool or part of a clinical study?
 2. Does it analyse the same scanner, protocol and image reconstruction used for this examination?
@@ -63,13 +63,13 @@ Also ask:
 4. Was the model or decision threshold changed after deployment?
 5. What happens when the software is unavailable, rejects the study or produces an obviously implausible result?
 
-The FDA’s continually updated AI-enabled device list illustrates how narrow device descriptions can be: many products are tied to a specialty, product code and defined submission rather than authorised as general medical intelligence [4]. FDA-led transparency principles also call for information that supports the user’s understanding of intended use, performance, limitations, workflow and updates [5]. The same questions are useful when evaluating a Chinese product, even though the governing registration is Chinese.
+The FDA’s continually updated AI-enabled device list shows how narrow these descriptions get: many products are tied to a specialty, a product code and a defined submission rather than authorised as general medical intelligence [4]. FDA-led transparency principles also ask for information a user can actually work with — intended use, performance, limitations, workflow and updates [5]. For a Chinese product the governing registration is Chinese, but the same questions travel well.
 
 ### Translate accuracy claims into a clinical pathway
 
-Sensitivity asks how often a tool finds the target among people who truly have it. Specificity asks how often it stays negative among people who do not. Positive and negative predictive values additionally depend on how common the target is in the population being tested. A tool can have impressive sensitivity yet produce many false alerts when disease prevalence is low.
+Sensitivity tells you how often a tool catches the target among people who truly have it. Specificity tells you how often it stays negative among people who do not. Predictive values, positive and negative, shift with how common the target is in the population being tested. When disease is rare, a tool with impressive sensitivity can still produce a flood of false alerts.
 
-Before trusting a percentage, identify:
+Before you trust any percentage, pin down:
 
 - the exact target and reference standard;
 - screening patients or symptomatic patients;
@@ -82,39 +82,39 @@ Before trusting a percentage, identify:
 - retrospective dataset, live workflow study or randomised trial;
 - patient outcome, diagnostic accuracy, reading time or workload endpoint.
 
-DECIDE-AI was developed because promising retrospective performance does not by itself demonstrate benefit in live care. Its framework emphasises the clinical workflow, human factors, user variability, version changes, safety and generalisability [7].
+DECIDE-AI exists because strong retrospective performance proves little about benefit in live care. Its framework emphasises the clinical workflow, human factors, user variability, version changes, safety and generalisability [7].
 
 ### One strong trial does not validate “imaging AI” as a whole
 
-The Swedish MASAI randomised trial is a useful example of evidence that is both encouraging and narrow. In a 2026 analysis of more than 105,000 screening participants, an AI-supported mammography pathway had a non-inferior interval-cancer rate, higher sensitivity and the same specificity as standard double reading, while reducing reading workload [8].
+The Swedish MASAI randomised trial shows how encouraging and how narrow good evidence can be at once. In a 2026 analysis of more than 105,000 screening participants, an AI-supported mammography pathway had a non-inferior interval-cancer rate, higher sensitivity and the same specificity as standard double reading, while reducing reading workload [8].
 
-That result applies to the tested mammography workflow and population. It does not validate a chest X-ray detector, a Chinese CT population, a diagnostic breast clinic or a new software version. It also shows why the outcome matters: cancer found during screening, cancers appearing between screens, sensitivity, specificity and workload answer different questions.
+The result holds for that tested mammography workflow and population. It says nothing about a chest X-ray detector, a Chinese CT population, a diagnostic breast clinic or a new software version. It also shows why the choice of outcome matters: cancer found during screening, cancers appearing between screens, sensitivity, specificity and workload each answer a different question.
 
 ### AI and the radiologist can fail together
 
-AI is sometimes presented as an independent second pair of eyes. In practice, the display order and confidence of a prompt can influence the human reader. A multi-reader chest-radiograph study found that incorrect AI results increased radiologists’ false-positive and false-negative errors [9]. This is one form of automation bias.
+You will hear AI described as an independent second pair of eyes. In day-to-day reading, the timing and confidence of an on-screen prompt steer the human reader. A multi-reader chest-radiograph study found that incorrect AI results increased radiologists’ false-positive and false-negative errors [9] — a textbook case of automation bias.
 
-Hospitals should define whether the radiologist reads before seeing the AI result, after it or both; whether a discordant case receives a second read; and whether urgent alerts are verified before clinical action. The final report should not silently convert a probability score into a definite diagnosis.
+A hospital needs clear rules here: does the radiologist read before seeing the AI result, after it or both? Does a discordant case get a second read? Are urgent alerts verified before anyone acts on them? And the final report must never silently turn a probability score into a definite diagnosis.
 
-Patients can ask a simple question: “Did the radiologist personally review the complete original study, including areas outside the AI target?” A competent answer should be yes, or should clearly explain a different regulated workflow.
+One question cuts through most of this: “Did the radiologist personally review the complete original study, including areas outside the AI target?” The answer should be yes — or a clear explanation of the different regulated workflow in use.
 
 ### False positives and false negatives have different consequences
 
-A false positive may trigger repeat imaging, contrast exposure, short-interval surveillance, specialist referral, biopsy, procedure risk, cost and weeks of worry. A false negative may delay diagnosis or create reassurance that suppresses further investigation despite symptoms.
+A false positive can set off repeat imaging, contrast exposure, short-interval surveillance, specialist referral, a biopsy with its own procedure risk, cost and weeks of worry. A false negative can delay diagnosis, or lull everyone into stopping the search while symptoms continue.
 
-The acceptable balance depends on the task. Emergency triage may favour sensitivity so a suspected haemorrhage reaches the top of the list, accepting more false alerts. Screening programmes must consider recall and overdiagnosis. Tumour segmentation for radiotherapy requires geometric and quality checks. Low-dose reconstruction must preserve clinically important detail, not merely create a smoother-looking image.
+Where the balance should sit depends on the task. Emergency triage may favour sensitivity so a suspected haemorrhage reaches the top of the list, accepting more false alerts. Screening programmes have to weigh recall and overdiagnosis. Tumour segmentation for radiotherapy requires geometric and quality checks. Low-dose reconstruction must preserve clinically important detail; a smoother-looking image alone is not the goal.
 
-Ask what action follows each AI category and who can override it. A risk score without an agreed clinical response is not a care plan.
+Ask what action follows each AI category and who can override it. A risk score with no agreed clinical response attached is just a number, not a care plan.
 
 ### Generalisability can break quietly
 
-Performance can shift when the patient population, disease prevalence, scanner, contrast timing, acquisition protocol, image compression or hospital workflow differs from the development setting. Paediatric anatomy, postoperative changes, implants, uncommon diseases and multiple simultaneous abnormalities may be under-represented in training data.
+Performance drifts when the patient population, disease prevalence, scanner, contrast timing, acquisition protocol, image compression or hospital workflow differs from the development setting. Paediatric anatomy, postoperative changes, implants, uncommon diseases and several abnormalities at once are often under-represented in training data.
 
-Version updates matter too. Save the product and version used if its result materially affected the case. A hospital should monitor missed findings, false alerts, rejected studies, turnaround time, subgroup performance and changes after upgrades. WHO’s governance principles call for human autonomy, safety, transparency, accountability, inclusion and continuing assessment during actual use [6].
+Version updates count too. If an AI result materially affected your case, record which product and version produced it. The hospital should monitor missed findings, false alerts, rejected studies, turnaround time, subgroup performance and changes after upgrades. WHO’s governance principles call for human autonomy, safety, transparency, accountability, inclusion and continuing assessment during actual use [6].
 
 ### Know what belongs in the radiology record
 
-The source study is the complete DICOM examination, not a screenshot, JPEG, heatmap or AI-marked series. Preserve:
+The source study means the complete DICOM examination — a screenshot, JPEG, heatmap or AI-marked series will not do. Preserve:
 
 - original DICOM images and series list;
 - the signed radiologist report and any addendum;
@@ -124,43 +124,43 @@ The source study is the complete DICOM examination, not a screenshot, JPEG, heat
 - AI product/version and output if it materially influenced interpretation;
 - the clinician’s decision based on the imaging.
 
-An AI heatmap may show where a model focused, but it is not proof of disease and may not explain the causal basis of the result. If the overlay is exported, label it clearly as a derived image so another hospital does not mistake it for the source acquisition.
+A heatmap shows where the model focused. That is all it shows: it proves no disease and may not explain the causal basis of the result. If the overlay is exported, label it clearly as a derived image so another hospital does not mistake it for the source acquisition.
 
 ### Questions about privacy and secondary data use
 
-Diagnostic use, software quality monitoring, product improvement and research are not automatically the same purpose. Ask whether images leave the hospital, whether they are de-identified, who receives them, how long they are retained, whether they train a future model and whether refusal changes clinical access. Cross-border transfer deserves separate attention for international patients.
+Diagnosing you, monitoring software quality, improving the product and doing research are four separate purposes, and consent to one is not consent to the rest. Ask whether your images leave the hospital, whether they are de-identified, who receives them, how long they are retained, whether they will train a future model and whether refusal changes your access to care. If you are an international patient, raise cross-border transfer separately.
 
-Do not upload DICOM files to a public consumer AI site. Headers and burned-in image text can contain names, dates, identifiers and institution details. A hospital-approved secure channel and documented recipient are safer than a personal messaging account.
+Never upload DICOM files to a public consumer AI site. Headers and burned-in image text can carry names, dates, identifiers and institution details. Use a hospital-approved secure channel with a documented recipient; a personal messaging account is not that.
 
 ### If the AI result and clinical picture disagree
 
-New weakness, severe headache, a palpable mass, persistent bleeding, worsening breathlessness or another concerning symptom should not be dismissed because an AI score is low. Ask for radiologist review, comparison with prior imaging, an addendum or second opinion when the discrepancy could change management. Sometimes the answer is another modality, targeted ultrasound, repeat imaging with a corrected protocol, pathology or clinical follow-up—not simply rerunning the same model.
+New weakness, severe headache, a palpable mass, persistent bleeding, worsening breathlessness — symptoms like these stand whatever the AI score says. When the discrepancy could change management, ask for radiologist review, comparison with prior imaging, an addendum or a second opinion. Sometimes the right move is another modality, targeted ultrasound, repeat imaging with a corrected protocol, pathology or clinical follow-up. Rerunning the same model rarely is.
 
-For urgent symptoms, seek immediate local care. An automated “low risk” result is not an emergency clearance.
+For urgent symptoms, seek immediate local care. An automated “low risk” result never counts as emergency clearance.
 
-**Medical disclaimer:** This guide explains how to question imaging AI; it does not interpret a scan. Only qualified clinicians with access to the complete images, history and examination can decide what a finding means and what happens next.
+**Medical disclaimer:** This guide helps you question imaging AI; it cannot interpret your scan. Deciding what a finding means and what happens next takes qualified clinicians with access to the complete images, history and examination.
 
 ## FAQ
 
 ### Does an AI score appear in every radiology report?
 
-No. Some tools work invisibly on acquisition or reconstruction; others provide an alert or measurement only to staff. Ask whether the output affected the signed report or clinical decision.
+No. Some tools work invisibly on acquisition or reconstruction; others provide an alert or measurement only to staff. Ask whether the output affected the signed report or the clinical decision.
 
 ### If AI marks no abnormality, is the scan normal?
 
-No. A product usually targets only defined findings and can miss them. The radiologist must review the entire examination and the result must be interpreted with symptoms and prior studies.
+No. A product usually targets only defined findings, and it can miss even those. The radiologist must review the entire examination, and the result has to be read alongside your symptoms and prior studies.
 
 ### Is an NMPA-registered AI product proven better than a radiologist?
 
-Not necessarily. Registration covers a specified intended use and evidence package. Superiority depends on the comparator, task, population, workflow, version and outcome studied.
+Not necessarily. Registration covers a specified intended use and the evidence package behind it. Superiority depends on the comparator, task, population, workflow, version and outcome studied.
 
 ### Can AI reduce the radiation dose of CT?
 
-AI-based reconstruction may support lower-dose protocols in defined settings, but dose selection and diagnostic image quality remain clinical and technical responsibilities. Ask about the actual protocol, not a generic percentage claim.
+AI-based reconstruction may support lower-dose protocols in defined settings, but dose selection and diagnostic image quality remain clinical and technical responsibilities. Ask about the actual protocol for your scan; a generic percentage claim tells you little.
 
 ### What should I take to another hospital for a second opinion?
 
-Bring the original DICOM study, final report and addenda, relevant prior images and clinical history. Include an AI overlay or score only as clearly labelled supplementary material.
+Bring the original DICOM study, the final report and addenda, relevant prior images and your clinical history. Include an AI overlay or score only as clearly labelled supplementary material.
 
 ## SEO Metadata
 

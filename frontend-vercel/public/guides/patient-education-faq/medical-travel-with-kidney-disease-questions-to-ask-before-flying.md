@@ -126,15 +126,15 @@ KDIGO’s CKD guideline emphasizes medication stewardship and collaboration with
 
 ## FAQ
 
-### 1. Can someone with chronic kidney disease fly?
+### Can someone with chronic kidney disease fly?
 
 Often yes when the condition and related heart, lung, anaemia and fluid issues are stable. Recent acute kidney injury, uncontrolled fluid overload, severe symptoms or an unconfirmed dialysis plan may justify delaying travel [3].
 
-### 2. How far ahead should travel dialysis be arranged?
+### How far ahead should travel dialysis be arranged?
 
 Start at least six to eight weeks in advance and earlier for international or high-demand destinations. Do not purchase inflexible travel until clinical acceptance and session details are confirmed [1].
 
-### 4. Is ibuprofen safe for travel pain with CKD?
+### Is ibuprofen safe for travel pain with CKD?
 
 It may increase kidney-injury risk, particularly during dehydration or low blood pressure. Ask the renal team or pharmacist for a patient-specific alternative and check combination cold medicines for NSAIDs [2].
 
